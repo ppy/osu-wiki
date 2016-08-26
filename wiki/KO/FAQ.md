@@ -1,0 +1,14 @@
+??
+==
+
+?? ??????...
+
+??? ??
+------
+
+  
+*Full explanation: [osu! Standard](Standard "wikilink")*
+
+?? ??????...
+
+[Category: FAQ/KO](Category:_FAQ/KO "wikilink") <Category:Gameplay/KO> <Category:Guides/KO>
