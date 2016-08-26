@@ -80,7 +80,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/2 bar
     -   BPM &lt; 240 - 1 bar
-    -   BPM ? 240 - 2 bars
+    -   BPM ≥ 240 - 2 bars
 
 ### Guidelines
 
@@ -100,7 +100,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/2 bar
     -   BPM &lt; 240 - 1 bar
-    -   BPM ? 240 - 2 bars
+    -   BPM ≥ 240 - 2 bars
 
 ### Guidelines
 
@@ -121,7 +121,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/4 bar
     -   BPM &lt; 240 - 1/2 bar
-    -   BPM ? 240 - 1 bar
+    -   BPM ≥ 240 - 1 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
 ### Guidelines
@@ -141,7 +141,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 120 - 1/4 bar
     -   BPM &lt; 240 - 1/2 bar
-    -   BPM ? 240 - 1 bar
+    -   BPM ≥ 240 - 1 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
 ### Guidelines
@@ -161,7 +161,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 240 - 1/4 bar
-    -   BPM ? 240 - 1/2 bar
+    -   BPM ≥ 240 - 1/2 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
 ### Guidelines
