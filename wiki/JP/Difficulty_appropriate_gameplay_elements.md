@@ -4,15 +4,15 @@ Star Rating and Web Icons
 ![](SR_range.png "SR_range.png")
 
 -   [JP:Ranking Criteria](https://osu.ppy.sh/wiki/JP:Ranking_Criteria):
-    -   1.5??: Easy ![](easy-s.png "fig:easy-s.png")
-    -   2.25??: Normal ![](diffeasy.png "fig:diffeasy.png")
-    -   3.75??: Hard ![](diffhard.png "fig:diffhard.png")
-    -   5.25??: Insane ![](insane-s.png "fig:insane-s.png")
-    -   5.25??: Expert ![](diffexpert.png "fig:diffexpert.png")
+    -   1.5未満: Easy ![](easy-s.png "fig:easy-s.png")
+    -   2.25未満: Normal ![](diffeasy.png "fig:diffeasy.png")
+    -   3.75未満: Hard ![](diffhard.png "fig:diffhard.png")
+    -   5.25未満: Insane ![](insane-s.png "fig:insane-s.png")
+    -   5.25以上: Expert ![](diffexpert.png "fig:diffexpert.png")
 
-Web Icon(????????????????)???????Star Rating(?????????)???????????????????????????????????????????????
+Web Icon(ウェブに表示される上記のアイコン)はそのマップのStar Rating(レベルのようなもの)がどの難易度を示すかを表しており、この範囲はバランスの良いマップセットを作るのに適しています。
 
-?????????????????????????????????????
+マップセットのバランスを改善するために、いくつかのガイドラインがあります。
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ A good difficulty spread is **more than just Star Rating and Web Icons**! Howeve
 Guidelines for Taiko Game Mode
 ==============================
 
-Some of the accepted and established general attributes of Taiko difficulties which have previously found their roots in Taiko no Tatsujin(?????). There have been guidelines for years and they have been consistent for the lower difficulties. This should cover most of the ideas that are the "norm" but it is not complete and exceptions can be made if necessary. For a more in depth going guide, follow these links:
+Some of the accepted and established general attributes of Taiko difficulties which have previously found their roots in Taiko no Tatsujin(太鼓の達人). There have been guidelines for years and they have been consistent for the lower difficulties. This should cover most of the ideas that are the "norm" but it is not complete and exceptions can be made if necessary. For a more in depth going guide, follow these links:
 
 -   [Mapping Taiko Difficulties](https://osu.ppy.sh/wiki/Mapping_Taiko_Difficulties) ([original thread](https://osu.ppy.sh/forum/t/152263))
 -   [Taiko Mapping Basics](https://docs.google.com/document/d/1STnZVwB-RN6glJbSlOiTEiUxu7XmgMInXrG15s2pfbQ/edit)

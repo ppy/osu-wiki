@@ -15,7 +15,7 @@ System Requirements:
 -   1 Mac with an Intel Processor (Check [1](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup01.png))
 -   A minimum of 1 GB Memory (Also in [2](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup01.png))
 -   A minimum of 10 GB of free Hard Disk Space ([3](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup01b.png))
-    -   Highlight the Macintosh HD icon on the desktop and press ?I
+    -   Highlight the Macintosh HD icon on the desktop and press ⌘I
 -   1 Windows XP disc or a disc image of a Windows XP disc
 
 Installing Virtualbox
@@ -34,7 +34,7 @@ Configuring Virtualbox
 ======================
 
 1.  Find VirtualBox in your Applications folder and open it. [13](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup13.png)
-2.  Select "Machine &gt; New..." or press ?N. [14](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup14.png)
+2.  Select "Machine &gt; New..." or press ⌘N. [14](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup14.png)
 3.  Select "Next &gt;". [15](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup15.png)
 4.  Enter a name for your virtual machine. You can put anything you want - You can simply use "Windows XP".
     1.  Make sure the Operating System says "Microsoft Windows" and the version says "Windows XP". Press "Next &gt;". [16](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup16.png)

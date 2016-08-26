@@ -1,9 +1,9 @@
-??????????????????`{{Stub}}`???
+在不完整（或需要補充資料）的頁面放置`{{Stub}}`代碼。
 
-??
+參數
 
-*`type`*` -- ?? `**`section`**` ? `**`article`**` ?`
-*`nocat`*` -- ??????`[`:Category:Stubs/HK`](:Category:Stubs/HK "wikilink")`????`
+*`type`*` -- 使用 `**`section`**` 或 `**`article`**` 。`
+*`nocat`*` -- 當條目不包含`[`:Category:Stubs/HK時用此`](:Category:Stubs/HK "wikilink")`。`
 
  
 

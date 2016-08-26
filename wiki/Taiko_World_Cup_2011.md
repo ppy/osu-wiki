@@ -10,7 +10,7 @@ The 1st round of the tournament will be robin-round stage. There will be 4 group
 1.  More matches won.
 2.  Have bigger {(the number of games won) - (the number of games defeated)}.
 3.  More games won.
-4.  Have bigger ?{(total score difference) / (maximum score)}.
+4.  Have bigger ∑{(total score difference) / (maximum score)}.
 5.  Winner of the rematch.
 
 Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
@@ -74,7 +74,7 @@ Previous timetable is here. **Round 1-1**
 
 -   ![](Pl.gif "fig:Pl.gif") **Poland** vs ![](Hk.gif "fig:Hk.gif") **Hong Kong**: <u>16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8)</u> (Referee: )
 
-??![](us.gif "fig:us.gif") **United States** vs ![](ItNl.png "fig:ItNl.png") **Brazil-Chile**: <u>16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3)</u> (Referee: ****)
+　　![](us.gif "fig:us.gif") **United States** vs ![](ItNl.png "fig:ItNl.png") **Brazil-Chile**: <u>16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3)</u> (Referee: ****)
 
   
 **Group D**
@@ -112,7 +112,7 @@ Previous timetable is here. **Round 1-1**
 
 -   ![](kr.gif "fig:kr.gif") **Korea B** vs ![](fi.gif "fig:fi.gif") **Finland**: <u>24th April 13:00 UTC (16:00 EEST, 22:00 KST)</u> (Referee: ****)
 
-??![](jp.gif "fig:jp.gif") **Japan** vs ![](de.gif "fig:de.gif") **Germany B**: <u>24th April 14:00 UTC (16:00 CEST, 23:00 JST)</u> (Referee: ****)
+　　![](jp.gif "fig:jp.gif") **Japan** vs ![](de.gif "fig:de.gif") **Germany B**: <u>24th April 14:00 UTC (16:00 CEST, 23:00 JST)</u> (Referee: ****)
 
 **Round 1-3**
 

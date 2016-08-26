@@ -19,7 +19,7 @@ For reference: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 Taiko Mode
 ----------
 
-In Taiko mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (?) counts as 100%, a GOOD (?) as 50% (half) and a MISS/BAD (??) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
+In Taiko mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
 
 | colspan=2|Accuracy = Total points of hits / (Total number of hits \* 300) |
 |---------------------------------------------------------------------------|

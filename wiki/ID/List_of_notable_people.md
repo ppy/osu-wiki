@@ -39,7 +39,7 @@ Catch the Beat
 osu!mania
 ---------
 
-![](kr.gif "fig:kr.gif") **** adalah pemain BMS yang mencapai performance pointnya mencapai \#1 dengan kurang dari 700 kali permainan. Nama BMSnya adalah ABCD?.
+![](kr.gif "fig:kr.gif") **** adalah pemain BMS yang mencapai performance pointnya mencapai \#1 dengan kurang dari 700 kali permainan. Nama BMSnya adalah ABCD♪.
 ![](kr.gif "fig:kr.gif") **** adalah orang yang pertama kali mencetak 11000 pp di osumania , salah satu permainan terbaiknya adalah [D(ABE3) - MANIERA](https://osu.ppy.sh/b/646681&m=3) , dengan mencetak 1209 PP dengan 2 miss.
 
 Beatmapping

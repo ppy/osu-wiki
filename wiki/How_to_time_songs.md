@@ -107,7 +107,7 @@ So, put the notes, press F5 (Test mode) and hit the said notes as precisely as p
     -   After testplay, correct the absolute timing on where you get bad entry.
         -   For early/late timing, decrease/increase the offset for a specified number (for the picture example, increase by 25ms).
 
-Do not forget to check the box on the panel timing ("Move already placed notes when changing the offset/BPM"). Otherwise, the note after the shift will remain at the old location, becoming unsnapped from the new timing. After several rounds of testing, the average readings difference will decrease and values around ??~5ms can be ignored. Don't be afraid to get the offset more accurate, if you have the ability to do so, because precise timing will always help.
+Do not forget to check the box on the panel timing ("Move already placed notes when changing the offset/BPM"). Otherwise, the note after the shift will remain at the old location, becoming unsnapped from the new timing. After several rounds of testing, the average readings difference will decrease and values around ​​~5ms can be ignored. Don't be afraid to get the offset more accurate, if you have the ability to do so, because precise timing will always help.
 
 Now, a couple of things to remember about the testing phase. First, make sure the first tick of metronome and music's beginnings are in sync with no noticeable delay (offset is correct). Next, we check BPM. For BPM, all notes should be in sync with the music after the intro. Do some testplays, but pay attention to the three parts:
 
@@ -125,7 +125,7 @@ Multitiming (Many Red)
 Introduction
 ------------
 
-There are situations when one red bar is not enough (some example will be [Bad Apple](http://osu.ppy.sh/b/64780), [DJ Amuro's A](http://osu.ppy.sh/b/20841) or [kemu's Ikasama Life Game](http://osu.ppy.sh/b/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black?Hole's Pluto](http://osu.ppy.sh/b/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
+There are situations when one red bar is not enough (some example will be [Bad Apple](http://osu.ppy.sh/b/64780), [DJ Amuro's A](http://osu.ppy.sh/b/20841) or [kemu's Ikasama Life Game](http://osu.ppy.sh/b/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](http://osu.ppy.sh/b/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
 
 You can ask for help from others on this, but there are only few people who *know* how to identify and work with multi-timing. Moreover, people will not help you if you don't make an effort on your beatmap or don't seem to be worth their time. You can do this yourself if you have a lot of experience and/or a pretty good accuracy, and are able to hit the notes correctly. This is vital, because you'll have to do lots of test plays, and mistimed hits will make it frustrating to the player.
 
@@ -142,7 +142,7 @@ To start, listen and find all the places where the rhythm changes (metronome usa
 
     If there is no shift, but you see that the error starts to increase, as if you set wrong BPM (except that it was fine all the way before getting to that point), add a new uninherited offset and alter its BPM. Do this at the Timing tab. (F3) That is, use the osu!metronome and try to catch a change, then test it like a normal single offset. Unlike traditional and monotonous songs, the new BPM value may differ from the average one. The important thing is to determine it as accurately as possible.
 
-4.  After doing some timing changes, you need to resnap all the notes according to the new timing sheet for testing. This is done through the top menu: Timing ? Resnap All Notes. Then, you have to manually check all the notes, and do some testplay to see errors on note misplacement/mistiming;
+4.  After doing some timing changes, you need to resnap all the notes according to the new timing sheet for testing. This is done through the top menu: Timing → Resnap All Notes. Then, you have to manually check all the notes, and do some testplay to see errors on note misplacement/mistiming;
 5.  Test once more to make sure the timing sounds right. If a problem arises, take it from the top.
 
 These steps should be repeated until the end of the song. As output, we get the timeline with red bars on it. Depending on the song, there may be many, many bars (however, "more bars" does not always mean "better timing"). If done correctly, then the current timing is decent for mapping/ranking. You can (and should!) request timing checks from others if you want.
@@ -171,7 +171,7 @@ In the end, we should tell you some important tips:
 -   *' Resnap notes after timing changes.*'
 -   *' Keep an eye on the test results.*'
 -   *' Rely on other senses too, don't use your ears only.*' Sometimes, the same part of the song can be perceived differently. In short, we must focus on the test results, and not entirely on your auditory nerves/hearing aids.
--   *' Hit error which is less than, say, 3 ms means nothing and can be safely omitted.*' You probably should start to worry when it grows up to 5?6 ms or more.
+-   *' Hit error which is less than, say, 3 ms means nothing and can be safely omitted.*' You probably should start to worry when it grows up to 5−6 ms or more.
 -   **Take a break.** Have a Kit-Kat. Doctor orders.
 -   *' Do not test the timing when playing a stream or jumps patterns; results can be inconsistent even if you are skilled.*' Deconstruct complex pattern and use simple patterns for timing checks.
     -   However, make sure to **test it on the actual map** and not completely test it on a single set of copy-pasted notes.

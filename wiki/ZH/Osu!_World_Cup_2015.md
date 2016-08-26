@@ -2,55 +2,55 @@
 
 <br\>
 
-**osu! World Cup 2015** (***OWC 2015*** )???[Tournament Management](http://osu.ppy.sh/g/26)??????????osu!?????????? osu! World Cup?
+**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](http://osu.ppy.sh/g/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
 
 \_\_TOC\_\_
 
-????
-====
+比赛日程
+========
 
-|        |                            |
-|--------|----------------------------|
-| ??     | 01-18? ?? 2015?            |
-| ??     | 1? ??? 2015? 14.00 (UTC+0) |
-| ???    | 7-8? ??? 2015?             |
-| ???    | 14-15? ??? 2015?           |
-| ?????? | 21-22? ??? 2015?           |
-| ???    | 28-29? ??? 2015?           |
-| ?????  | 5-6? ??? 2015?             |
-| ?????  | 12-13? ??? 2015?           |
+|              |                                 |
+|--------------|---------------------------------|
+| 报名         | 01-18日 十月 2015年             |
+| 抽签         | 1日 十一月 2015年 14.00 (UTC+0) |
+| 小组赛       | 7-8日 十一月 2015年             |
+| 十六强       | 14-15日 十一月 2015年           |
+| 四分之一决赛 | 21-22日 十一月 2015年           |
+| 半决赛       | 28-29日 十一月 2015年           |
+| 决赛第一周   | 5-6日 十二月 2015年             |
+| 决赛第二周   | 12-13日 十二月 2015年           |
 ||
 
-??
-==
-
-?????$5000???????????? ????? **[??Banner](http://store.ppy.sh/store/product/38)**?????
-
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 50% ??, profile badge, "osu! Champion" ???? |
-|-------------------------------------------------------------------------|---------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 38% ??, profile badge                       |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 12% ??l, profile badge                      |
-
-????
+奖项
 ====
 
-| ????         | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") | ![](Fr.gif "fig:Fr.gif")                                                                                                             |
+我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](http://store.ppy.sh/store/product/38)**来支持它。
+
+| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 50% 奖池, profile badge, "osu! Champion" 用户标题 |
+|-------------------------------------------------------------------------|---------------------------------------------------|
+| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 38% 奖池, profile badge                           |
+| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 12% 奖池l, profile badge                          |
+
+比赛组织
+========
+
+| 竞赛管理     | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") | ![](Fr.gif "fig:Fr.gif")                                                                                                             |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ????         | ![](Fr.gif "fig:Fr.gif") | ![](Hk.gif "fig:Hk.gif") | ![](Kr.gif "fig:Kr.gif")                                                                                                                                        |
-| ??           | ![](De.gif "fig:De.gif") | ![](Pl.gif "fig:Pl.gif")                                                                                                                                                                   |
-| ??           | ![](Us.gif "fig:Us.gif") | ![](Nz.gif "fig:Nz.gif") | ![](Gb.gif "fig:Gb.gif") | ![](Ar.gif "fig:Ar.gif") | ![](Gb.gif "fig:Gb.gif") | ![](Us.gif "fig:Us.gif") | ![](Us.gif "fig:Us.gif") | ![](Us.gif "fig:Us.gif") |
+| 地图选择     | ![](Fr.gif "fig:Fr.gif") | ![](Hk.gif "fig:Hk.gif") | ![](Kr.gif "fig:Kr.gif")                                                                                                                                        |
+| 直播         | ![](De.gif "fig:De.gif") | ![](Pl.gif "fig:Pl.gif")                                                                                                                                                                   |
+| 解说         | ![](Us.gif "fig:Us.gif") | ![](Nz.gif "fig:Nz.gif") | ![](Gb.gif "fig:Gb.gif") | ![](Ar.gif "fig:Ar.gif") | ![](Gb.gif "fig:Gb.gif") | ![](Us.gif "fig:Us.gif") | ![](Us.gif "fig:Us.gif") | ![](Us.gif "fig:Us.gif") |
 | Statistician | ![](Pl.gif "fig:Pl.gif")                                                                                                                                                                                              |
 
 ------------------------------------------------------------------------
 
-??
-==
+链接
+====
 
--   [osu! World Cup 2015 ? Twitch ????](http://www.twitch.tv/osulive/)
--   [???](https://osu.ppy.sh/forum/p/4550383)
--   [???](https://jizz.ppy.sh/tournaments/2)
--   [???????](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
--   **[????? (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+-   [osu! World Cup 2015 在 Twitch 上的直播](http://www.twitch.tv/osulive/)
+-   [讨论页](https://osu.ppy.sh/forum/p/4550383)
+-   [报名页](https://jizz.ppy.sh/tournaments/2)
+-   [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
+-   **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -62,8 +62,8 @@
 
 ------------------------------------------------------------------------
 
-???
-===
+参加者
+======
 
 <table>
 <colgroup>
@@ -180,43 +180,43 @@
 </tbody>
 </table>
 
-| ?A                   |
+| 组A                  |
 |----------------------|
 | ![](Mx.gif "Mx.gif") |
 | ![](My.gif "My.gif") |
 | ![](Au.gif "Au.gif") |
 | ![](Us.gif "Us.gif") |
-| ?B                   |
+| 组B                  |
 | ![](It.gif "It.gif") |
 | ![](Lt.gif "Lt.gif") |
 | ![](Hk.gif "Hk.gif") |
 | ![](Fr.gif "Fr.gif") |
-| ?C                   |
+| 组C                  |
 | ![](Ua.gif "Ua.gif") |
 | ![](Lv.gif "Lv.gif") |
 | ![](Ca.gif "Ca.gif") |
 | ![](Pl.gif "Pl.gif") |
-| ?D                   |
+| 组D                  |
 | ![](Ph.gif "Ph.gif") |
 | ![](Jp.gif "Jp.gif") |
 | ![](Gb.gif "Gb.gif") |
 | ![](Cn.gif "Cn.gif") |
-| ?E                   |
+| 组E                  |
 | ![](Nz.gif "Nz.gif") |
 | ![](Ar.gif "Ar.gif") |
 | ![](Fi.gif "Fi.gif") |
 | ![](Kr.gif "Kr.gif") |
-| ?F                   |
+| 组F                  |
 | ![](Gr.gif "Gr.gif") |
 | ![](No.gif "No.gif") |
 | ![](Br.gif "Br.gif") |
 | ![](Ru.gif "Ru.gif") |
-| ?G                   |
+| 组G                  |
 | ![](Sg.gif "Sg.gif") |
 | ![](Th.gif "Th.gif") |
 | ![](Nl.gif "Nl.gif") |
 | ![](De.gif "De.gif") |
-| ?H                   |
+| 组H                  |
 | ![](Pt.gif "Pt.gif") |
 | ![](Se.gif "Se.gif") |
 | ![](At.gif "At.gif") |
@@ -225,15 +225,15 @@
 
 ------------------------------------------------------------------------
 
-??
-==
+图池
+====
 
-??
---
+决赛
+----
 
-**???????????????????**
+**这个图池将会被用于决赛第一周和第二周。**
 
-**[???????](http://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
+**[在这里下载图包](http://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
 | NoMod                                                                                                      |
 |------------------------------------------------------------------------------------------------------------|
@@ -263,10 +263,10 @@
 | [gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](http://osu.ppy.sh/b/633993&m=0)            |
 ||
 
-???
----
+半决赛
+------
 
-**[???????](http://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
+**[在这里下载图包](http://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
 
 | NoMod                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|
@@ -296,10 +296,10 @@
 | [Ohka - Nanairo Anniversary (Rizia) \[Kaleidoscope\]](http://osu.ppy.sh/b/541044&m=0)                          |
 ||
 
-??????
-------
+四分之一决赛
+------------
 
-**[???????](http://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
+**[在这里下载图包](http://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
 | NoMod                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------|
@@ -329,10 +329,10 @@
 | [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](http://osu.ppy.sh/b/550235&m=0)                |
 ||
 
-???
----
+十六强
+------
 
-**[???????](http://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
+**[在这里下载图包](http://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
 | NoMod                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -362,10 +362,10 @@
 | [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](http://osu.ppy.sh/b/734339&m=0) |
 ||
 
-???
----
+小组赛
+------
 
-**[???????](http://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
+**[在这里下载图包](http://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
 | NoMod                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------------|
@@ -397,50 +397,50 @@
 
 ------------------------------------------------------------------------
 
-????
-====
+比赛结果
+========
 
-???
----
+总决赛
+------
 
-| ??? 13? ??? 2015?                          |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Cn.gif "Cn.gif")                       |
-| ![](Us.gif "Us.gif")                       |
+| 星期日 13日 十二月 2015年                   |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Cn.gif "Cn.gif")                        |
+| ![](Us.gif "Us.gif")                        |
 ||
 
-?????
------
+决赛第一周
+----------
 
-| ??? 5? ??? 2015?                           |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Us.gif "Us.gif")                       |
-| ![](Hk.gif "Hk.gif")                       |
-| ![](De.gif "De.gif")                       |
-| ![](Pl.gif "Pl.gif")                       |
+| 星期六 5日 十二月 2015年                    |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Us.gif "Us.gif")                        |
+| ![](Hk.gif "Hk.gif")                        |
+| ![](De.gif "De.gif")                        |
+| ![](Pl.gif "Pl.gif")                        |
 ||
 
-| ?? 6? ??? 2015?                            |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Us.gif "Us.gif")                       |
+| 周日 6日 十二月 2015年                      |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Us.gif "Us.gif")                        |
 ||
 
-???
----
+半决赛
+------
 
-| ??? 28? ??? 2015?                          |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Us.gif "Us.gif")                       |
-| ![](Th.gif "Th.gif")                       |
-| ![](Cn.gif "Cn.gif")                       |
-| ![](De.gif "De.gif")                       |
-| ![](No.gif "No.gif")                       |
-| ![](De.gif "De.gif")                       |
-| ![](Ca.gif "Ca.gif")                       |
+| 星期六 28日 十一月 2015年                   |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Us.gif "Us.gif")                        |
+| ![](Th.gif "Th.gif")                        |
+| ![](Cn.gif "Cn.gif")                        |
+| ![](De.gif "De.gif")                        |
+| ![](No.gif "No.gif")                        |
+| ![](De.gif "De.gif")                        |
+| ![](Ca.gif "Ca.gif")                        |
 ||
 
 | Sunday, 29. November 2015                      |
@@ -449,16 +449,16 @@
 | ![](At.gif "At.gif")                           |
 ||
 
-??????
-------
+四分之一决赛
+------------
 
-| ??? 21? ??? 2015?                          |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Us.gif "Us.gif")                       |
+| 星期六 21日 十一月 2015年                   |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Us.gif "Us.gif")                        |
 ||
 
-| ??? 22? ??? 2015?                              |
+| 星期日 22日 十一月 2015年                      |
 |------------------------------------------------|
 | scope="col" width="37.5%" colspan ="3" |Team A |
 | ![](Tw.gif "Tw.gif")                           |
@@ -470,93 +470,93 @@
 | ![](Pl.gif "Pl.gif")                           |
 ||
 
-???
----
+十六强
+------
 
-| ??? 15? ???2015 ?                          |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Us.gif "Us.gif")                       |
-| ![](Fi.gif "Fi.gif")                       |
-| ![](At.gif "At.gif")                       |
-| ![](Hk.gif "Hk.gif")                       |
-| ![](Gb.gif "Gb.gif")                       |
-| ![](Th.gif "Th.gif")                       |
-| ![](No.gif "No.gif")                       |
-| ![](Ca.gif "Ca.gif")                       |
+| 星期日 15日 十一月2015 年                   |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Us.gif "Us.gif")                        |
+| ![](Fi.gif "Fi.gif")                        |
+| ![](At.gif "At.gif")                        |
+| ![](Hk.gif "Hk.gif")                        |
+| ![](Gb.gif "Gb.gif")                        |
+| ![](Th.gif "Th.gif")                        |
+| ![](No.gif "No.gif")                        |
+| ![](Ca.gif "Ca.gif")                        |
 ||
 
-???
----
+小组赛
+------
 
-| ??? 8? ??? 2015?                           |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](At.gif "At.gif")                       |
-| ![](Nz.gif "Nz.gif")                       |
-| ![](My.gif "My.gif")                       |
-| ![](Ph.gif "Ph.gif")                       |
-| ![](Sg.gif "Sg.gif")                       |
-| ![](Th.gif "Th.gif")                       |
-| ![](Gb.gif "Gb.gif")                       |
-| ![](Lt.gif "Lt.gif")                       |
-| ![](It.gif "It.gif")                       |
-| ![](Pt.gif "Pt.gif")                       |
-| ![](Sg.gif "Sg.gif")                       |
-| ![](Ph.gif "Ph.gif")                       |
-| ![](Ar.gif "Ar.gif")                       |
-| ![](Gr.gif "Gr.gif")                       |
-| ![](Ca.gif "Ca.gif")                       |
-| ![](Pt.gif "Pt.gif")                       |
-| ![](Ua.gif "Ua.gif")                       |
-| ![](Ar.gif "Ar.gif")                       |
-| ![](No.gif "No.gif")                       |
-| ![](Se.gif "Se.gif")                       |
+| 星期六 8日 十一月 2015年                    |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](At.gif "At.gif")                        |
+| ![](Nz.gif "Nz.gif")                        |
+| ![](My.gif "My.gif")                        |
+| ![](Ph.gif "Ph.gif")                        |
+| ![](Sg.gif "Sg.gif")                        |
+| ![](Th.gif "Th.gif")                        |
+| ![](Gb.gif "Gb.gif")                        |
+| ![](Lt.gif "Lt.gif")                        |
+| ![](It.gif "It.gif")                        |
+| ![](Pt.gif "Pt.gif")                        |
+| ![](Sg.gif "Sg.gif")                        |
+| ![](Ph.gif "Ph.gif")                        |
+| ![](Ar.gif "Ar.gif")                        |
+| ![](Gr.gif "Gr.gif")                        |
+| ![](Ca.gif "Ca.gif")                        |
+| ![](Pt.gif "Pt.gif")                        |
+| ![](Ua.gif "Ua.gif")                        |
+| ![](Ar.gif "Ar.gif")                        |
+| ![](No.gif "No.gif")                        |
+| ![](Se.gif "Se.gif")                        |
 ||
 
-| ??? 9? ??? 2015?                           |
-|--------------------------------------------|
-| scope="col" width="37.5%" colspan ="3" |?A |
-| ![](Nz.gif "Nz.gif")                       |
-| ![](Mx.gif "Mx.gif")                       |
-| ![](My.gif "My.gif")                       |
-| ![](Jp.gif "Jp.gif")                       |
-| ![](Nz.gif "Nz.gif")                       |
-| ![](Mx.gif "Mx.gif")                       |
-| ![](Au.gif "Au.gif")                       |
-| ![](Se.gif "Se.gif")                       |
-| ![](Ph.gif "Ph.gif")                       |
-| ![](Hk.gif "Hk.gif")                       |
-| ![](Fi.gif "Fi.gif")                       |
-| ![](Th.gif "Th.gif")                       |
-| ![](Jp.gif "Jp.gif")                       |
-| ![](Ua.gif "Ua.gif")                       |
-| ![](Sg.gif "Sg.gif")                       |
-| ![](Lt.gif "Lt.gif")                       |
-| ![](Pt.gif "Pt.gif")                       |
-| ![](It.gif "It.gif")                       |
-| ![](Gr.gif "Gr.gif")                       |
-| ![](No.gif "No.gif")                       |
-| ![](Nl.gif "Nl.gif")                       |
-| ![](Lv.gif "Lv.gif")                       |
-| ![](It.gif "It.gif")                       |
-| ![](Br.gif "Br.gif")                       |
-| ![](Gr.gif "Gr.gif")                       |
-| ![](Mx.gif "Mx.gif")                       |
-| ![](Ua.gif "Ua.gif")                       |
-| ![](Lv.gif "Lv.gif")                       |
+| 星期日 9日 十一月 2015年                    |
+|---------------------------------------------|
+| scope="col" width="37.5%" colspan ="3" |队A |
+| ![](Nz.gif "Nz.gif")                        |
+| ![](Mx.gif "Mx.gif")                        |
+| ![](My.gif "My.gif")                        |
+| ![](Jp.gif "Jp.gif")                        |
+| ![](Nz.gif "Nz.gif")                        |
+| ![](Mx.gif "Mx.gif")                        |
+| ![](Au.gif "Au.gif")                        |
+| ![](Se.gif "Se.gif")                        |
+| ![](Ph.gif "Ph.gif")                        |
+| ![](Hk.gif "Hk.gif")                        |
+| ![](Fi.gif "Fi.gif")                        |
+| ![](Th.gif "Th.gif")                        |
+| ![](Jp.gif "Jp.gif")                        |
+| ![](Ua.gif "Ua.gif")                        |
+| ![](Sg.gif "Sg.gif")                        |
+| ![](Lt.gif "Lt.gif")                        |
+| ![](Pt.gif "Pt.gif")                        |
+| ![](It.gif "It.gif")                        |
+| ![](Gr.gif "Gr.gif")                        |
+| ![](No.gif "No.gif")                        |
+| ![](Nl.gif "Nl.gif")                        |
+| ![](Lv.gif "Lv.gif")                        |
+| ![](It.gif "It.gif")                        |
+| ![](Br.gif "Br.gif")                        |
+| ![](Gr.gif "Gr.gif")                        |
+| ![](Mx.gif "Mx.gif")                        |
+| ![](Ua.gif "Ua.gif")                        |
+| ![](Lv.gif "Lv.gif")                        |
 ||
 
 ------------------------------------------------------------------------
 
-??
-==
+规则
+====
 
-????
-----
+竞赛规则
+--------
 
-1.  osu! World Cup ????????4v4???
-2.  ???? **[Score V2](https://osu.ppy.sh/forum/t/375428)**???
+1.  osu! World Cup 是一个基于国家的4v4比赛。
+2.  使用新的 **[Score V2](https://osu.ppy.sh/forum/t/375428)**计分。
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 
@@ -618,7 +618,7 @@ Stage instructions
     1.  Most matches won.
     2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
     3.  Most maps won.
-    4.  Have higher `?{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.

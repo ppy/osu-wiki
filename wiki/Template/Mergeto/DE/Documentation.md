@@ -1,0 +1,1 @@
+Das ist das deutsche Merge-To Template. Es wird benutzt, wenn du einen Artikel mit einem anderen, größeren Ober-Artikel zusammenführen möchtest. Um es zu benutzen, schreibe {{Mergeto/DE|Seitenname des Ober-Artikels}}.

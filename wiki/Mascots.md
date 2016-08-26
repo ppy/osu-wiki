@@ -15,7 +15,7 @@ Maria
 Cameos
 ======
 
-Ry?ta Ippongi
+Ryūta Ippongi
 -------------
 
 Agent J

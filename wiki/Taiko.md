@@ -17,7 +17,7 @@ In Taiko mapping, red notes refer to no hitsound [Hit Object](Hit_Object "wikili
 Scoring
 -------
 
-Song [accuracy](accuracy "wikilink") is calculated by the sum of all notes [accuracy](accuracy "wikilink") divided by the number of notes. A GREAT (?) counts as 100%, a GOOD (?) as 50% (half) and a MISS/BAD (??) as 0% (which breaks the combo).
+Song [accuracy](accuracy "wikilink") is calculated by the sum of all notes [accuracy](accuracy "wikilink") divided by the number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo).
 
 Taiko uses the same [grade system](FAQ#Grades "wikilink") as osu!'s Standard game mode. In a full-combo attempt, since GOOD always counts as 50% (unlike in Standard), you can easily tell whether you're going to get a S, A or B just by looking at the accuracy counter:
 

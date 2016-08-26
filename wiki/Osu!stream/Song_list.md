@@ -23,7 +23,7 @@ Osu!stream SONG.jpg|Song list Os SI.png|Song Information Os store.jpg|Store scre
 <tbody>
 <tr class="odd">
 <td><p>rowspan=2|Free Pack 1</p></td>
-<td><p><a href="http://osu.ppy.sh/s/7850">Haru? - March Handyman</a></p></td>
+<td><p><a href="http://osu.ppy.sh/s/7850">Haru☆ - March Handyman</a></p></td>
 <td><p><a href="http://osu.ppy.sh/u/Sushi">Sushi</a></p></td>
 <td><div class="figure">
 <img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />

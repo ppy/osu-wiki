@@ -11,7 +11,7 @@
 
 <tr>
 <td>
-[?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink") [?](#? "wikilink")
+[А](#А "wikilink") [Б](#Б "wikilink") [В](#В "wikilink") [Г](#Г "wikilink") [Д](#Д "wikilink") [Е](#Е "wikilink") [Ё](#Ё "wikilink") [Ж](#Ж "wikilink") [З](#З "wikilink") [И](#И "wikilink") [Й](#Й "wikilink") [К](#К "wikilink") [Л](#Л "wikilink") [М](#М "wikilink") [Н](#Н "wikilink") [О](#О "wikilink") [П](#П "wikilink") [Р](#Р "wikilink") [С](#С "wikilink") [Т](#Т "wikilink") [У](#У "wikilink") [Ф](#Ф "wikilink") [Х](#Х "wikilink") [Ц](#Ц "wikilink") [Ч](#Ч "wikilink") [Ш](#Ш "wikilink") [Щ](#Щ "wikilink") [Ы](#Ы "wikilink") [Э](#Э "wikilink") [Ю](#Ю "wikilink") [Я](#Я "wikilink")
 
 </td>
 </tr>

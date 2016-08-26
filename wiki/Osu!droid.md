@@ -144,7 +144,7 @@ Trivia
 Why did the Auto in osu!droid miss but PC osu! didn't?
 ------------------------------------------------------
 
-<embed src="Osu!droid_Auto.png? " title="Capability of osu!droid&#39;s Auto. Able to do simultaneous sliders and hit-circles." width="200" />
+<embed src="Osu!droid_Auto.png‎ " title="Capability of osu!droid&#39;s Auto. Able to do simultaneous sliders and hit-circles." width="200" />
 
 -   Hardware rendering capability and RAM.
     -   If the hit-object is not rendered in time or screen freeze happened, the screen may "skip" and auto will not be able to hit it (as that hit-object must appear at that specific time frame) and miss will occur.

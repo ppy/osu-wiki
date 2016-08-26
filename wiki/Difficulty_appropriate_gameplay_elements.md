@@ -125,7 +125,7 @@ Note: **M** = Mapper
 
 ![](hard-t.png "fig:hard-t.png")![](insane-t.png "fig:insane-t.png")![](insane-t.png "fig:insane-t.png")(M1,M1,M2) ![](icon_arrow.gif "fig:icon_arrow.gif") ![](normal-t.png "fig:normal-t.png")![](hard-t.png "fig:hard-t.png")![](insane-t.png "fig:insane-t.png") (M1,M1,M2)
 
--   Think about lower/new players. They are the ''' <span style="color:#FF0000">future for our community</span> ''', so give them easy difficulties to get used to '' Taiko ''. <span style="color:#FF0000">?</span>
+-   Think about lower/new players. They are the ''' <span style="color:#FF0000">future for our community</span> ''', so give them easy difficulties to get used to '' Taiko ''. <span style="color:#FF0000">♥</span>
 
 ![](hard-t.png "fig:hard-t.png")![](insane-t.png "fig:insane-t.png") ![](icon_arrow.gif "fig:icon_arrow.gif") ![](normal-t.png "fig:normal-t.png")![](hard-t.png "fig:hard-t.png")
 

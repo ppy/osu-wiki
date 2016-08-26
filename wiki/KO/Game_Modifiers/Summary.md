@@ -15,18 +15,18 @@ Summary
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>??</p></th>
-<th><p>??</p></th>
-<th><p>??</p></th>
-<th><p>??</p></th>
-<th><p>??</p></th>
-<th><p>??</p></th>
+<th><p>종류</p></th>
+<th><p>그림</p></th>
+<th><p>명칭</p></th>
+<th><p>배율</p></th>
+<th><p>효과</p></th>
+<th><p>비고</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>rowspan=3|???<br />
-??</p></td>
+<td><p>rowspan=3|난이도<br />
+감소</p></td>
 <td><div class="figure">
 <img src="Easy.png" title="Easy.png" alt="Easy.png" />
 <p class="caption">Easy.png</p>
@@ -41,13 +41,13 @@ Summary
 </ul></td>
 <td><p>|</p>
 <ul>
-<li>Standard: ?? ???? ??, ?? ?? ??, ?? ??, ???? 0? ?? 2? ?? ??</li>
-<li>Taiko: ?? ???? ??, ?? ??</li>
-<li>CtB: ?? ???? ??, ?? ?? ??</li>
+<li>Standard: 노트 접근속도 감소, 노트 크기 증가, 판정 완화, 게이지가 0이 될때 2번 부활 가능</li>
+<li>Taiko: 노트 접근속도 감소, 판정 완화</li>
+<li>CtB: 노트 하강속도 감소, 노트 크기 증가</li>
 </ul></td>
 <td><p>|</p>
 <ul>
-<li>???? ???? ??</li>
+<li>하드락과 반대되는 모드</li>
 </ul></td>
 </tr>
 <tr class="even">

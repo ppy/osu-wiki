@@ -1,7 +1,7 @@
-osu!??????????????????????????
+osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了。
 
-?????
-=====
+世界级比赛
+==========
 
 osu!
 ----
@@ -21,42 +21,42 @@ osu!mania
 [osu!mania 4K World Cup 2015](ZH:Osu!mania_4K_World_Cup_2015 "wikilink")
 [osu!mania 7K World Cup 2016](ZH:Osu!mania_7K_World_Cup_2016 "wikilink")
 
-??
---
+其他
+----
 
-?????
-=====
+华人区比赛
+==========
 
 osu!
 ----
 
-### ???OCWT
+### 第五届OCWT
 
-[???????](https://osu.ppy.sh/forum/t/149294)?[OCWT?????](http://osu.ppy.sh/forum/t/161959)
+[详情链接点这里](https://osu.ppy.sh/forum/t/149294)，[OCWT副赛在这里](http://osu.ppy.sh/forum/t/161959)
 
-???????[Small K](http://osu.ppy.sh/u/952751)?[Rucker](http://osu.ppy.sh/u/147515)?[SnowWhite](http://osu.ppy.sh/u/50265)?
+冠军：泡麵王（[Small K](http://osu.ppy.sh/u/952751)、[Rucker](http://osu.ppy.sh/u/147515)、[SnowWhite](http://osu.ppy.sh/u/50265)）
 
-[????????osu??](http://osu.ppy.sh/forum/t/163606)?[????](http://tieba.baidu.com/p/2686012096)??**????**
+[破比比赛没名字杯osu比赛](http://osu.ppy.sh/forum/t/163606)（[贴吧链接](http://tieba.baidu.com/p/2686012096)）←**开始报名**
 
-### ????????
+### 纸张杯恶俗娱乐赛
 
-[???????](http://osu.ppy.sh/forum/t/133153)
+[详情链接点这里](http://osu.ppy.sh/forum/t/133153)
 
-?mod??moe?momo?Elinia???mod??????zz?????qmy nana?-Izumi Konata-???mod??????????YF\_HTT?no\_longer??Tag??moe?momo?Elinia?
+双mod组：moe（momo、Elinia），单mod触手组：临港zz关爱协会（qmy nana、-Izumi Konata-），单mod沙包组：异域的沙包（YF\_HTT、no\_longer），Tag组：moe（momo、Elinia）
 
-### ????OSU!Time(ASOT)
+### 放学后的OSU!Time(ASOT)
 
-[???????](https://osu.ppy.sh/forum/t/169339)
+[详情链接点这里](https://osu.ppy.sh/forum/t/169339)
 
-2013??????
+2013届比赛结果：
 
-???:\#1 ?yu\_yu12354 & Y u N e K o?\#2?z246z & nice game
+初级组:\#1 ：yu\_yu12354 & Y u N e K o，\#2：z246z & nice game
 
-???:\#1:Iona 401 & THRONI?\#2:liuhb10 & mrlonly
+高级组:\#1:Iona 401 & THRONI，\#2:liuhb10 & mrlonly
 
-???:\#1:\[Kudryavka\],\#2:\[ Snow Rabbit \],\#3:21\_sucks
+围观组:\#1:\[Kudryavka\],\#2:\[ Snow Rabbit \],\#3:21\_sucks
 
-**2014?ASOT?????[?????????????????osu?????](http://afterschoolosutime.weebly.com)**
+**2014届ASOT正在进行，[详情可点击查看（注：本链接并未指向osu内部网站）](http://afterschoolosutime.weebly.com)**
 
 Taiko
 -----
@@ -64,26 +64,26 @@ Taiko
 Catch the Beat
 --------------
 
-### 2013?????"???CTB??
+### 2013进击的巨翔"杯华人CTB比赛
 
-[???????](https://osu.ppy.sh/forum/t/141744)
+[详情链接点这里](https://osu.ppy.sh/forum/t/141744)
 
-??????????????StickGlue?173future?Charles Yoshino?????KananaX?GraceGuo0w0?Yuuka Kazami?????Dusk?houjuu-nue?AriaXD
+新手组（按排名顺序，下同）：StickGlue、173future、Charles Yoshino，普通组：KananaX、GraceGuo0w0、Yuuka Kazami，挂壁组：Dusk、houjuu-nue、AriaXD
 
 osu!mania
 ---------
 
-??
---
+其他
+----
 
-### ??????Mapping??
+### 第一届骗顶杯Mapping比赛
 
-[???????](http://osu.ppy.sh/forum/t/135492)?[?????](https://osu.ppy.sh/forum/t/152966)
+[详情链接点这里](http://osu.ppy.sh/forum/t/135492)，[结果在这里](https://osu.ppy.sh/forum/t/152966)
 
-[TERRY - ??? -Flowers-](https://osu.ppy.sh/s/102498)?buhei?\#1??Flask?\#5??Nyquill?\#10?
+[TERRY - 華爛漫 -Flowers-](https://osu.ppy.sh/s/102498)：buhei（\#1）、Flask（\#5）、Nyquill（\#10）
 
-[???? - ????](https://osu.ppy.sh/s/114806)?Lan Wings?\#1??Kotone?\#3??Regou?\#9?
+[葉月ゆら - 宵闇花火](https://osu.ppy.sh/s/114806)：Lan Wings（\#1）、Kotone（\#3）、Regou（\#9）
 
-[An - ???????](https://osu.ppy.sh/s/114807)?Flower?\#2??Amamiya Yuko?\#1??Regou?\#14?
+[An - アートコア神社](https://osu.ppy.sh/s/114807)：Flower（\#2）、Amamiya Yuko（\#1）、Regou（\#14）
 
 

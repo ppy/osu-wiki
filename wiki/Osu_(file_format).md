@@ -96,7 +96,7 @@ Title (String) is the title of the song limited to ASCII characters.
 
 TitleUnicode (String) is the title of the song with unicode support. If not present, Title is used.
 
-`TitleUnicode:???????`
+`TitleUnicode:アートコア神社`
 
 Artist (String) is the name of the song's artist limited to ASCII characters.
 

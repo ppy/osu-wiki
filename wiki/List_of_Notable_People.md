@@ -69,7 +69,7 @@ was one of the greatest CtB players in osu!. He was famous for 831pp play on . A
 osu!mania
 ---------
 
-was a BMS player who reached \#1 performance ranking with less than 700 plays. His BMS name is ABCD?.
+was a BMS player who reached \#1 performance ranking with less than 700 plays. His BMS name is ABCD♪.
 
 is a StepMania player, and is widely considered to be the fastest 4K player. While his 7K skills are a bit lacking, his ability to use +DT on the hardest charts available amazes the osu!mania community. Staiain has been a huge inspiration to players, always showing them how to enjoy the game more.
 

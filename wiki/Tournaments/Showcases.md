@@ -14,8 +14,8 @@ The styling is `World` `cup` `name` `(DD/MM/YYYY` `-` `DD/MM/YYYY)` `{1st,` `2nd
 -   [osu! World Cup \#2](Osu!_World_Cup/2 "wikilink") (28/10/2011 - 24/03/2012) {![](Kr.gif "fig:Kr.gif") Korea, ![](Jp.gif "fig:Jp.gif") Japan, ![](Br.gif "fig:Br.gif") Brazil}
 -   [osu! World Cup \#3](Osu!_World_Cup/3 "wikilink") (25/10/2012 - 20/01/2013) {![](Kr.gif "fig:Kr.gif") Korea, ![](Jp.gif "fig:Jp.gif") Japan, ![](Tw.gif "fig:Tw.gif") Taiwan}
 -   [osu! World Cup 2013](Osu_World_Cup_2013 "wikilink") (15/10/2013 - 08/12/2013) {![](Kr.gif "fig:Kr.gif") Korea, ![](Tw.gif "fig:Tw.gif") Taiwan, ![](Pl.gif "fig:Pl.gif") Poland}
--   [osu! World Cup 2014?](Osu!_World_Cup_2014 "wikilink") (02/10/2014 - 14/12/2014) {![](Jp.gif "fig:Jp.gif") Japan, ![](Pl.gif "fig:Pl.gif") Poland, ![](De.gif "fig:De.gif") Germany}
--   [osu! World Cup 2015?](Osu!_World_Cup_2015 "wikilink") (01/10/2015 - 13/12/2015) {![](Us.gif "fig:Us.gif") United States, ![](Cn.gif "fig:Cn.gif") China, ![](Pl.gif "fig:Pl.gif") Poland}
+-   [osu! World Cup 2014‎](Osu!_World_Cup_2014 "wikilink") (02/10/2014 - 14/12/2014) {![](Jp.gif "fig:Jp.gif") Japan, ![](Pl.gif "fig:Pl.gif") Poland, ![](De.gif "fig:De.gif") Germany}
+-   [osu! World Cup 2015‎](Osu!_World_Cup_2015 "wikilink") (01/10/2015 - 13/12/2015) {![](Us.gif "fig:Us.gif") United States, ![](Cn.gif "fig:Cn.gif") China, ![](Pl.gif "fig:Pl.gif") Poland}
 
 ![](taiko.gif "fig:taiko.gif") Taiko World Cup
 ----------------------------------------------

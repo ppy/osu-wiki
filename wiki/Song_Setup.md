@@ -99,8 +99,8 @@ The length a circle remains on the screen (without mods) ranges from 1800ms at A
 
 Four mods can alter approach rate timing when activated:
 
--   [Easy](EZ "wikilink"): Halves the AR value. (*ex.* AR10?AR5 ... AR2?AR1)
--   [Hard Rock](HR "wikilink"): Multiplies the AR value by 1.4, up to a maximum of AR10. (*ex.* AR3?AR4.2 ... AR9?AR10)
+-   [Easy](EZ "wikilink"): Halves the AR value. (*ex.* AR10→AR5 ... AR2→AR1)
+-   [Hard Rock](HR "wikilink"): Multiplies the AR value by 1.4, up to a maximum of AR10. (*ex.* AR3→AR4.2 ... AR9→AR10)
 -   [Double Time](DT "wikilink"): The AR value doesn't change, but the 1.5x play speed causes circles to stay on screen 33% shorter.
 -   [Half Time](HT "wikilink"): The AR value doesn't change, but the 0.75x play speed causes circles to stay on screen 33% longer.
 

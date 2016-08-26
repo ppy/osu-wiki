@@ -39,7 +39,7 @@ Saat ini, membuat map Taiko secar khusus telah ada di Penyunting, dan suatu beat
 Penghitungan Skor
 -----------------
 
-[Akurasi](ID:Accuracy "wikilink") lagu dikalkulasi oleh jumlah semua akurasi not dibagi dengan banyaknya not yang ada. GREAT (?) dihitung 100%, GOOD (?) dihitung 50% (setengahnya) dan MISS/BAD ((??) dihitung 0% (dan menyebabkan combo break)
+[Akurasi](ID:Accuracy "wikilink") lagu dikalkulasi oleh jumlah semua akurasi not dibagi dengan banyaknya not yang ada. GREAT (良) dihitung 100%, GOOD (可) dihitung 50% (setengahnya) dan MISS/BAD ((不可) dihitung 0% (dan menyebabkan combo break)
 
 Dalam percobaan full-combo, karena GOOD selalu dihitung 50% (berbeda dengan mode osu!Standard), kamu bisa dengan mudah menghitung apakah kamu akan mendapat S, A, atau B dengan melihat pada penghitung akurasi:
 

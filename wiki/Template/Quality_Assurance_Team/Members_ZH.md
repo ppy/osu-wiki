@@ -1,29 +1,29 @@
 <noinclude></noinclude>
 
 <center>
-| <span class="plainlinks"> [????????](https://osu.ppy.sh/wiki/index.php?title=Template:Quality_Assurance_Team/Members_ZH&action=edit) </span> |
-|----------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                              |
-| osu!                                                                                                                                         |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
-|                                                                                                                                              |
+| <span class="plainlinks"> [按这里修改本表格](https://osu.ppy.sh/wiki/index.php?title=Template:Quality_Assurance_Team/Members_ZH&action=edit) </span> |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                      |
+| osu!                                                                                                                                                 |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
 ||
 
 </center>

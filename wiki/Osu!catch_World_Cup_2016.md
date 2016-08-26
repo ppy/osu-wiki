@@ -1,4 +1,4 @@
-? <img src="Cwc2016 logo.png" title="fig:Cwc2016 logo.png" alt="Cwc2016 logo.png" width="840" />
+​ <img src="Cwc2016 logo.png" title="fig:Cwc2016 logo.png" alt="Cwc2016 logo.png" width="840" />
 
 The **osu!catch World Cup 2016** (***CWC 2016*** ) is a country-based osu!catch tournament hosted by the [osu! staff](http://osu.ppy.sh/wiki/The_Team). It is the 5th installment of the osu!catch World Cup.
 
@@ -477,7 +477,7 @@ Stage Instructions
     1.  Most matches won.
     2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
     3.  Most maps won.
-    4.  Have higher `?{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.

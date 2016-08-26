@@ -59,7 +59,7 @@ Teams and Players
 | Does it matter?      | Gopice, Livender             |
 | Less QQ more PEWPEW  | Sir Minelli, Tobebuta        |
 | Fagboat              | Hawkzor, Lucidity            |
-| Mleko?aki            | CrazyBanana, skratch         |
+| Mlekołaki            | CrazyBanana, skratch         |
 | Huge C\*cks          | Rolled, Foulcoon             |
 | Banchobag            | Lesjuh, HenkieBP             |
 | IITF                 | WyndII, RaisTF               |
@@ -77,7 +77,7 @@ Teams and Players
 | Not Ready            | Starrodkirby86, Real1        |
 | 100% Failure         | Jurgan, Alex0686             |
 | Animalz D:           | Niedzwiedz1124, White wolf   |
-| ?                    | Derekku Chan, strager        |
+| ⁈                    | Derekku Chan, strager        |
 | Untitled             | Ignorethis, Leimiliya        |
 | FOE                  | Mafiamaster, Nharox          |
 ||

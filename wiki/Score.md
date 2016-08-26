@@ -32,7 +32,7 @@ Because of the combo multiplier effect, if the player exceeds a combo of ~2,000,
 <img src="hit300g.png" title="hit300g.png" alt="hit300g.png" height="50" />
 <p class="caption">hit300g.png</p>
 </div></td>
-<td><p>(?) Geki</p></td>
+<td><p>(激) Geki</p></td>
 <td><p>A term from <a href="Glossary#DS_games" title="wikilink">Ouendan</a>, called Elite Beat! in <a href="Glossary#EBA" title="wikilink">EBA</a>. Appears when playing the last element in a <a href="combo" class="uri" title="wikilink">combo</a> in which the player has scored only 300s. Getting a Geki will give a sizable boost to the <a href="Glossary#Life_Bar" title="wikilink">Life Bar</a>. By default, it is blue.</p></td>
 </tr>
 <tr class="odd">
@@ -45,7 +45,7 @@ Because of the combo multiplier effect, if the player exceeds a combo of ~2,000,
 </tr>
 <tr class="even">
 <td><p><img src="Hit300k.png" title="fig:Hit300k.png" alt="Hit300k.png" height="50" /><img src="Hit100k.png" title="fig:Hit100k.png" alt="Hit100k.png" height="50" /></p></td>
-<td><p>(?) Katu or Katsu</p></td>
+<td><p>(喝) Katu or Katsu</p></td>
 <td><p>A term from <a href="Glossary#DS_games" title="wikilink">Ouendan</a>, called Beat! in <a href="Glossary#EBA" title="wikilink">EBA</a>. Appears when playing the last element in a <a href="combo" class="uri" title="wikilink">combo</a> in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the <a href="Glossary#Life_Bar" title="wikilink">Life Bar</a>. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300.</p></td>
 </tr>
 <tr class="odd">
@@ -86,13 +86,13 @@ Because of the combo multiplier effect, if the player exceeds a combo of ~2,000,
 <tbody>
 <tr class="odd">
 <td><p><img src="Taiko-hit300k.png" title="fig:Taiko-hit300k.png" alt="Taiko-hit300k.png" height="50" /> <img src="Taiko-hit300g.png" title="fig:Taiko-hit300g.png" alt="Taiko-hit300g.png" height="50" /> <img src="Taiko-hit300.png" title="fig:Taiko-hit300.png" alt="Taiko-hit300.png" height="50" /></p></td>
-<td><p>(?) Great</p></td>
+<td><p>(良) Great</p></td>
 <td><p>A possible score one can get when hitting the note exactly on the hit area in correct colour.<br />
 Picture: [1] Large Note [2] Small Note</p></td>
 </tr>
 <tr class="even">
 <td><p><img src="Taiko-hit100k.png" title="fig:Taiko-hit100k.png" alt="Taiko-hit100k.png" height="50" /> <img src="Taiko-hit100.png" title="fig:Taiko-hit100.png" alt="Taiko-hit100.png" height="50" /></p></td>
-<td><p>(?) Good</p></td>
+<td><p>(可) Good</p></td>
 <td><p>A possible score one can get when hitting the note slightly early or late on the hit area in correct colour.<br />
 Picture: [1] Large Note [2] Small Note.</p></td>
 </tr>
@@ -101,7 +101,7 @@ Picture: [1] Large Note [2] Small Note.</p></td>
 <img src="Taiko-hit0.png" title="Taiko-hit0.png" alt="Taiko-hit0.png" height="50" />
 <p class="caption">Taiko-hit0.png</p>
 </div></td>
-<td><p>(??) Miss</p></td>
+<td><p>(不可) Miss</p></td>
 <td><p>A possible score one can get for not hitting the note or hitting the note in wrong colour.</p></td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@ The score given by each note is calculated with the following formula:
        200       200          16                        8
        100       100           8                       24
         50        50           4                       44
-      Miss         0           0                        ?
+      Miss         0           0                        ∞
 
 Other Scores
 ------------

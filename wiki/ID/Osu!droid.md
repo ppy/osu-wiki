@@ -144,7 +144,7 @@ Trivia
 Mengapa mod Auto di osu!droid dapat miss, sedangkan di osu! PC tidak?
 ---------------------------------------------------------------------
 
-<embed src="Osu!droid_Auto.png? " title="Kemampuan dari mod Auto di osu!droid, dapat mengenai slider dan hit-circle secara bersamaan." width="200" />
+<embed src="Osu!droid_Auto.png‎ " title="Kemampuan dari mod Auto di osu!droid, dapat mengenai slider dan hit-circle secara bersamaan." width="200" />
 
 -   Kemampuan rendering perangkat dan RAM perangkat tersebut.
     -   Apabila hit object tidak dirender pada waktunya atau terjadi hang sesaat, layar mungkin akan "melompat" dan mod Auto tidak dapat mengenainya (secara hit-object harus muncul di frame yang spesiifik) dan memicu miss.
