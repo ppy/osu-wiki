@@ -1,0 +1,599 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>osu!wiki</sitename>
+    <base>http://osu.ppy.sh/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Osu!</namespace>
+      <namespace key="5" case="first-letter">Osu! talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>NL:Easy (Difficulty)</title>
+    <id>888</id>
+    <revision>
+      <id>4364</id>
+      <timestamp>2012-07-29T13:02:05Z</timestamp>
+      <contributor>
+        <username>Yatalu</username>
+        <id>788</id>
+      </contributor>
+      <comment>Created page with &quot;Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de   automatische berekening neer op 0.00-2.75 sterren. De easy's in...&quot;</comment>
+      <text xml:space="preserve" bytes="1644">Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de 
+
+automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. 
+
+Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet 
+
+verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes 
+
+maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest 
+
+leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve 
+
+map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk 
+
+gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, 
+
+maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de 
+
+namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko 
+
+speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.</text>
+    </revision>
+    <revision>
+      <id>4365</id>
+      <timestamp>2012-07-29T13:03:32Z</timestamp>
+      <contributor>
+        <username>Yatalu</username>
+        <id>788</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1644">Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
+
+[[Category: Easy]]</text>
+    </revision>
+    <revision>
+      <id>4368</id>
+      <timestamp>2012-07-29T13:10:51Z</timestamp>
+      <contributor>
+        <username>Yatalu</username>
+        <id>788</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1853">{| align=center style=&quot;margin-top:1.25em;&quot; width=65%
+|- align=center style=&quot;background-color:#E9D6EC;&quot;
+! [[Easy|Lees deze pagina in Engels]] {{Blt}} [[DE:Easy|in Duits]]
+|- align=center 
+|}
+
+
+Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
+
+[[Category:Easy]][[Category:Dutch]]</text>
+    </revision>
+    <revision>
+      <id>26166</id>
+      <timestamp>2015-08-30T07:58:00Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1863">{| align=center style=&quot;margin-top:1.25em;&quot; width=65%
+|- align=center style=&quot;background-color:#E9D6EC;&quot;
+! [[Easy|Lees deze pagina in Engels]] {{Blt}} [[DE:Easy|in Duits]]
+|- align=center 
+|}
+
+
+Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
+
+[[Category:Beatmapping/NL]][[Category:Dutch]]</text>
+    </revision>
+    <revision>
+      <id>32404</id>
+      <timestamp>2015-11-26T17:13:19Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1700">{{OL/NL}}
+{{DD/NL}}
+{{Update}}
+Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
+
+{{Contents/NL}}
+[[Category:Beatmapping/NL]]</text>
+    </revision>
+    <revision>
+      <id>33171</id>
+      <timestamp>2015-12-20T17:30:18Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[NL:Easy]] to [[NL:Easy (Difficulty)]]</comment>
+      <text xml:space="preserve" bytes="1700">{{OL/NL}}
+{{DD/NL}}
+{{Update}}
+Een 'easy' is wat de naam al doet vermoeden: een beatmap van gemakkelijke moeilijkheidsgraad. Dit komt met de automatische berekening neer op 0.00-2.75 sterren. De easy's in dit spel zijn bedoeld voor beginnende spelers. Aangezien ze het eerste liedje kunnen zijn dat iemand speelt, is een goede easy ook makkelijk leesbaar, niet verwarrend en biedt hij ook voldoende tijd om na te denken tijdens het spelen. Wat sexy sliders en patroontjes maken het geheel voor zowel de nieuwe als de meer ervaren speler ook nog visueel aantrekkelijk.
+
+=osu! standaard=
+
+==Aanraders/afraders in het mappen==
+* Combo's: (1) (1) (1) is verwarrend, maar hou je combo's laag. Combo's van 3 of 4 zijn waarschijnlijk het meest leesbaar voor een beginnend speler.
+* Gebruik je veel spinners? Misschien vind je easy's mappen wel saai, maar het is niet leuk voor spelers om de halve map door te spinnen. Wat lange sliders kunnen een alternatief zijn.
+* Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
+* Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
+
+=Taiko spelmodus=
+
+In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
+
+{{Contents/NL}}
+[[Category:Beatmapping/NL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NL:Taiko Ranking Criteria</title>
+    <id>2835</id>
+    <revision>
+      <id>16463</id>
+      <timestamp>2014-09-18T13:52:04Z</timestamp>
+      <contributor>
+        <username>OnosakiHito</username>
+        <id>905</id>
+      </contributor>
+      <comment>https://osu.ppy.sh/forum/t/243353</comment>
+      <text xml:space="preserve" bytes="3226">{{shortcut|TRC}}{{OL}}{{RC}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides}}
+{{Contents}}</text>
+    </revision>
+    <revision>
+      <id>16467</id>
+      <timestamp>2014-09-18T14:02:13Z</timestamp>
+      <contributor>
+        <username>OnosakiHito</username>
+        <id>905</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3260">{{DISPLAYTITLE:Taiko Ranking Criteria}}
+{{shortcut|TRC}}{{RC}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides}}
+{{Contents}}</text>
+    </revision>
+    <revision>
+      <id>24925</id>
+      <timestamp>2015-08-15T18:40:33Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3263">{{DISPLAYTITLE:Taiko Ranking Criteria}}
+{{shortcut|TRC}}{{RC}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides/NL}}
+{{Contents}}</text>
+    </revision>
+    <revision>
+      <id>26950</id>
+      <timestamp>2015-09-07T20:39:25Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3375">{{DISPLAYTITLE:Taiko Ranking Criteria}}
+{{OL/NL}}{{shortcut|TRC}}{{RC}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides/NL}}
+{{Contents}}
+[[Category:Guides/NL]][[Category:Taiko/NL]][[Category:Ranking Criteria/NL]][[Category:Beatmapping/NL]]</text>
+    </revision>
+    <revision>
+      <id>27665</id>
+      <timestamp>2015-09-12T00:17:36Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3378">{{DISPLAYTITLE:Taiko Ranking Criteria}}
+{{OL/NL}}{{shortcut|TRC}}{{RC}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides/NL}}
+{{Contents/NL}}
+[[Category:Guides/NL]][[Category:Taiko/NL]][[Category:Ranking Criteria/NL]][[Category:Beatmapping/NL]]</text>
+    </revision>
+    <revision>
+      <id>32419</id>
+      <timestamp>2015-11-26T17:30:58Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3346">{{OL/NL}}{{shortcut/NL|NL:TRC}}
+{{RC/NL}}
+
+Over deze regels en richtlijnen is gediscussieerd in het [http://osu.ppy.sh/forum/p/1275323 Taiko Discussion Thread]. Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [http://osu.ppy.sh/forum/87 discussion forum] dat zal worden geupdated, als de discussie wordt afgerond
+
+=Veel voorkomende termen=
+
+==Algemeen==
+
+*'''Kantan''': Makkelijk
+* '''Futsuu''': Normaal
+* '''Muzukashii''': Moeilijk
+* '''Oni''': Zeer moeilijk
+* '''Ura''': Extra
+
+==Het spel==
+
+*'''Don''': Rode noot
+*'''Kat''': Blauwe noot
+*'''Drumroll''': Gele balk
+*'''Shaker''': Spinner
+*'''Finisher''': Grote rode of blauwe noot
+
+=Regels=
+De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+
+*'''Finisher noten'''
+Finisher noten mogen niet in het midden, of aan het begin van een [[NL:Stream|Stream]], met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. &quot;Finisher noten aan het einde van de [[NL:Stream|Stream]], moeten een andere kleur hebben, dan de voorafgaande noot.&quot;
+
+=Richtlijnen=
+
+Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in '''speciale gevallen'''. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: ‘Slaat dat, wat ik wil gaan doen ergens op?’ en ‘Is het leuker om het zo te spelen, dan als ik de richtlijn volg?’ Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké.
+Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
+
+*'''Slider Velocity'''
+De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+
+*'''Streams'''
+Voor het grotendeel van de maps, wordt alleen 1/1, ½ en ¼ gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+
+*'''BPM Veranderingen'''
+Om het overlappen van noten te voorkomen (door vertraging), gebruik je ‘inherited timing points’ om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo’n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+
+*'''Drumrolls (Sliders)'''
+Gebruik ze schaars, en houd een ½ beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+
+*'''Shakers (Spinners)'''
+Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+
+*'''Custom hitsounds'''
+Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat. 
+
+{{Guides/NL}}
+{{Contents/NL}}
+[[Category:Taiko/NL]][[Category:Ranking Criteria/NL]][[Category:Beatmapping/NL]]</text>
+    </revision>
+  </page>
+</mediawiki>

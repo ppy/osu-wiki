@@ -1,0 +1,3472 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>osu!wiki</sitename>
+    <base>http://osu.ppy.sh/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Osu!</namespace>
+      <namespace key="5" case="first-letter">Osu! talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>PH:Beatmapping</title>
+    <id>166</id>
+    <revision>
+      <id>405</id>
+      <timestamp>2011-12-06T04:21:27Z</timestamp>
+      <contributor>
+        <username>Dkun</username>
+        <id>44</id>
+      </contributor>
+      <comment>Beatmapping -&gt; PH/Tagalog Translation</comment>
+      <text xml:space="preserve" bytes="672">[[Category: Beatmapping]] [[Category: Tagalog]]
+
+Yun process para gumawa ng mga [[Beatmap|beatmaps]] sa osu! ay '''beatmapping'''.
+Pipili ka ng isang kanta, [[timing]] (yun BPM at offset), pag lagyan ng mga objects, at (optional) mga [[Skin|skins]] at [[Storyboard|storyboarding]].
+
+Sa karaniwan, yun mga mappers ay gusto ma [[Ranked beatmap|ranka]] ang mapa nila, para ma gawa ito, may [[beatmap approval]] process, para may isang scoreboard ng mapa, at hindi na ma update.
+
+Ang mga difficulties nakikita karaniwan sa mga mapas ay:
+* [[Easy]]
+* [[Normal]]
+* [[Hard]]
+* [[Insane]]
+Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [[Mappers|mappers]].</text>
+    </revision>
+    <revision>
+      <id>25421</id>
+      <timestamp>2015-08-22T16:29:33Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="676">Yun process para gumawa ng mga [[Beatmap|beatmaps]] sa osu! ay '''beatmapping'''.
+Pipili ka ng isang kanta, [[timing]] (yun BPM at offset), pag lagyan ng mga objects, at (optional) mga [[Skin|skins]] at [[Storyboard|storyboarding]].
+
+Sa karaniwan, yun mga mappers ay gusto ma [[Ranked beatmap|ranka]] ang mapa nila, para ma gawa ito, may [[beatmap approval]] process, para may isang scoreboard ng mapa, at hindi na ma update.
+
+Ang mga difficulties nakikita karaniwan sa mga mapas ay:
+* [[Easy]]
+* [[Normal]]
+* [[Hard]]
+* [[Insane]]
+Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [[Mappers|mappers]].
+
+
+[[Category: Beatmapping/PH]] [[Category: Tagalog]]</text>
+    </revision>
+    <revision>
+      <id>26846</id>
+      <timestamp>2015-09-07T18:55:07Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="686">{{OL/PH}}
+Yun process para gumawa ng mga [[Beatmap|beatmaps]] sa osu! ay '''beatmapping'''.
+Pipili ka ng isang kanta, [[timing]] (yun BPM at offset), pag lagyan ng mga objects, at (optional) mga [[Skin|skins]] at [[Storyboard|storyboarding]].
+
+Sa karaniwan, yun mga mappers ay gusto ma [[Ranked beatmap|ranka]] ang mapa nila, para ma gawa ito, may [[beatmap approval]] process, para may isang scoreboard ng mapa, at hindi na ma update.
+
+Ang mga difficulties nakikita karaniwan sa mga mapas ay:
+* [[Easy]]
+* [[Normal]]
+* [[Hard]]
+* [[Insane]]
+Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [[Mappers|mappers]].
+
+
+[[Category: Beatmapping/PH]] [[Category: Tagalog]]</text>
+    </revision>
+    <revision>
+      <id>32465</id>
+      <timestamp>2015-11-26T18:17:28Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="778">{{OL/PH}}
+{{Update/PH}}
+Yun process para gumawa ng mga [[PH:Beatmap|beatmaps]] sa osu! ay '''beatmapping'''.
+Pipili ka ng isang kanta, [[PH:Timing|timing]] (yun BPM at offset), pag lagyan ng mga objects, at (optional) mga [[PH:Skin|skins]] at [[PH:Storyboard|storyboarding]].
+
+Sa karaniwan, yun mga mappers ay gusto ma [[Ranked beatmap|ranka]] ang mapa nila, para ma gawa ito, may [[beatmap approval]] process, para may isang scoreboard ng mapa, at hindi na ma update.
+
+Ang mga difficulties nakikita karaniwan sa mga mapas ay:
+* [[PH:Easy|Easy]]
+* [[PH:Normal|Normal]]
+* [[PH:Hard|Hard]]
+* [[PH:Insane|Insane]]
+Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [[PH:Mappers|mappers]].
+
+{{Editor/PH}}
+{{Guides/PH}}
+{{Contents/PH}}
+[[Category:Beatmapping/PH]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PH:Beatmap Nomination Group</title>
+    <id>1853</id>
+    <revision>
+      <id>9573</id>
+      <timestamp>2013-10-22T09:42:28Z</timestamp>
+      <contributor>
+        <username>Nathanael</username>
+        <id>11299</id>
+      </contributor>
+      <comment>Added.</comment>
+      <text xml:space="preserve" bytes="9343">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/660484 Byakugan249]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>9773</id>
+      <timestamp>2013-10-30T16:21:24Z</timestamp>
+      <contributor>
+        <username>Deadbeat</username>
+        <id>8969</id>
+      </contributor>
+      <comment>/* Mga Members */ added 5 names and removed another</comment>
+      <text xml:space="preserve" bytes="10171">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>9775</id>
+      <timestamp>2013-10-30T16:30:56Z</timestamp>
+      <contributor>
+        <username>Deadbeat</username>
+        <id>8969</id>
+      </contributor>
+      <minor/>
+      <comment>/* Mga Members */ Updated Irreversible's languages</comment>
+      <text xml:space="preserve" bytes="10187">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>9776</id>
+      <timestamp>2013-10-30T16:33:15Z</timestamp>
+      <contributor>
+        <username>Deadbeat</username>
+        <id>8969</id>
+      </contributor>
+      <minor/>
+      <comment>/* Mga Members */</comment>
+      <text xml:space="preserve" bytes="10194">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German, Swiss and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>10217</id>
+      <timestamp>2013-11-23T05:49:20Z</timestamp>
+      <contributor>
+        <username>Nathanael</username>
+        <id>11299</id>
+      </contributor>
+      <minor/>
+      <comment>Added lolcubes</comment>
+      <text xml:space="preserve" bytes="10370">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German, Swiss and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/578401 lolcubes]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Croatian and similar
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>11419</id>
+      <timestamp>2014-01-23T14:50:48Z</timestamp>
+      <contributor>
+        <username>Nathanael</username>
+        <id>11299</id>
+      </contributor>
+      <minor/>
+      <comment>Added 'Tagalog' Category</comment>
+      <text xml:space="preserve" bytes="10391">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German, Swiss and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/578401 lolcubes]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Croatian and similar
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping]] [[Category:Tagalog]]</text>
+    </revision>
+    <revision>
+      <id>25420</id>
+      <timestamp>2015-08-22T16:29:33Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="10394">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German, Swiss and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/578401 lolcubes]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Croatian and similar
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping/PH]] [[Category:Tagalog]]</text>
+    </revision>
+    <revision>
+      <id>32454</id>
+      <timestamp>2015-11-26T18:07:33Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PH:Beatmap Appreciation Team]] to [[PH:Beatmap Nomination Group]]: Team name was changed</comment>
+      <text xml:space="preserve" bytes="10394">{{Shortcut|BAT}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[Modding|pag-mod]] ng mga [[Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{|class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|+Impormasyon sa table
+! colspan=&quot;2&quot; | Talentado
+! colspan=&quot;2&quot; | Pinag-aaralan pa
+! colspan=&quot;2&quot; | Konting sanay
+! colspan=&quot;2&quot; | Walang impormasyon
+|-
+| [[File:Insane-s.png]] || osu! || [[File:easy-s.png]] || osu! || [[File:noexp-s.png]] || osu! || [[File:na-s.png]] || osu!
+|-
+| [[File:Insane-t.png]] || Taiko || [[File:easy-t.png]] || Taiko || [[File:noexp-t.png]] || Taiko || [[File:na-t.png]] || Taiko
+|-
+| [[File:Insane-f.png]] || Catch the Beat || [[File:easy-f.png]] || Catch the Beat || [[File:noexp-f.png]] || Catch the Beat || [[File:na-f.png]] || Catch the Beat
+|-
+| [[File:Insane-m.png]] || osu!mania || [[File:easy-m.png]] || osu!mania || [[File:noexp-m.png]] || osu!mania || [[File:na-m.png]] || osu!mania
+|-
+|}
+
+{|class=&quot;wikitable&quot; style=&quot;text-align: left; margin: 1em auto 1em auto;&quot;
+! scope=&quot;col&quot; width=&quot;15%&quot; rowspan=&quot;2&quot; |Pangalan
+! scope=&quot;col&quot; width=&quot;20%&quot; colspan=&quot;4&quot; |Game Modes
+! scope=&quot;col&quot; width=&quot;27.5%&quot; rowspan=&quot;2&quot; |Ibang wika na naiintindihan
+|-
+! scope=&quot;col&quot; width=&quot;5%&quot;   |osu!
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Taiko
+! scope=&quot;col&quot; width=&quot;5%&quot;   |CtB
+! scope=&quot;col&quot; width=&quot;5%&quot;   |Mania
+|-
+|[http://osu.ppy.sh/u/266596 -kevincela-]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/aabc271 aabc271]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/869782 alacat]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese and some French
+|-
+|[http://osu.ppy.sh/u/Andrea Andrea]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/Breeze Breeze]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Charles445 Charles445]
+|[[File:Insane-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/617323 Chewin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Italian
+|-
+|[http://osu.ppy.sh/u/CXu CXu]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Deif Deif]
+|[[File:noexp-s.png|center]]
+|[[File:noexp-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:noexp-m.png|center]]
+|Spanish, German (average level)
+|-
+|[http://osu.ppy.sh/u/dkun dkun]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Filipino
+|-
+|[http://osu.ppy.sh/u/326099 Drafura]
+|[[File:na-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Frostmourne Frostmourne]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/Gabe Gabe]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/Garven Garven]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Some Japanese
+|-
+|[http://osu.ppy.sh/u/happy30 happy30]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Dutch
+|-
+|[http://osu.ppy.sh/u/332555 HeatKai]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-s.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Thai
+|-
+|[http://osu.ppy.sh/u/1287964 Irreversible]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German, Swiss and some French
+|-
+|[http://osu.ppy.sh/u/88904 jericho2442]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/270377 jonathanlfj]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/KanaRin KanaRin]
+|[[File:noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/394326 kanpakyin]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/596298 Kawayi Rika]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Korean, Chinese
+|-
+|[http://osu.ppy.sh/u/Kurai Kurai]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:Insane-f.png|center]]
+|[[File:easy-m.png|center]]
+|French
+|-
+|[http://osu.ppy.sh/u/98460 Kytoxid]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese and some japanese
+|-
+|[http://osu.ppy.sh/u/ljqandylee ljqandylee]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/71366 Loctav]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:Insane-m.png|center]]
+|German, Swedish
+|-
+|[http://osu.ppy.sh/u/578401 lolcubes]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Croatian and similar
+|-
+|[http://osu.ppy.sh/u/LunarSakuya LunarSakuya]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish, some Japanese, some Chinese
+|-
+|[http://osu.ppy.sh/u/521568 mancuso_JM_]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Spanish
+|-
+|[http://osu.ppy.sh/u/melophobia Melophobia]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Japanese
+|-
+|[http://osu.ppy.sh/u/MMzz MMzz]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/NatsumeRin NatsumeRin]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nymph Nymph]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Nyquill Nyquill]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/OnosakiHito OnosakiHito]
+|[[File:Noexp-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Noexp-m.png|center]]
+|German, Serbian, Japanese
+|-
+|[http://osu.ppy.sh/u/123703 p3n]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|German
+|-
+|[http://osu.ppy.sh/u/207340 Pokie]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese, Japanese
+|-
+|[http://osu.ppy.sh/u/popner popner]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/SapphireGhost SapphireGhost]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/Scorpiour Scorpiour]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/197974 spboxer3]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/519978 Strawberry]
+|[[File:Insane-s.png|center]]
+|[[File:easy-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/Sync Sync]
+|[[File:Insane-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/1031958 Tasha]
+|[[File:na-s.png|center]]
+|[[File:Insane-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/557166 those]
+|[[File:Insane-s.png|center]]
+|[[File:Easy-t.png|center]]
+|[[File:Easy-f.png|center]]
+|[[File:Easy-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/UnitedWeSin UnitedWeSin]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|[http://osu.ppy.sh/u/376831 wcx19911123]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/woc2006 woc2006]
+|[[File:Noexp-s.png|center]]
+|[[File:Noexp-t.png|center]]
+|[[File:Noexp-f.png|center]]
+|[[File:Insane-m.png|center]]
+|Chinese
+|-
+|[http://osu.ppy.sh/u/YGOKid8 YGOKid8]
+|[[File:Insane-s.png|center]]
+|[[File:na-t.png|center]]
+|[[File:na-f.png|center]]
+|[[File:na-m.png|center]]
+|
+|-
+|}
+
+&lt;br&gt;
+[[Category: Beatmapping/PH]] [[Category:Tagalog]]</text>
+    </revision>
+    <revision>
+      <id>32457</id>
+      <timestamp>2015-11-26T18:13:15Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1789">{{OL/PH}}{{Shortcut/PH|PH:BNG|PH:Beatmap Nominator|PH:Beatmap nominators|PH:BN}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[PH:Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[PH:GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[PH:Modding|pag-mod]] ng mga [[PH:Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{{Beatmap_Nomination_Group/Members
+&lt;!--|Click here to edit this table template=--&gt;
+|Name=Pangalan
+|Languages=Ibang wika na naiintindihan
+&lt;!--|some=
+|Arabic=
+|Bulgarian=
+|Cantonese=
+|Chinese=
+|Czech=
+|Dutch=
+|Filipino=
+|Finnish=
+|French=
+|German=
+|Greek=
+|Hebrew=
+|Hungarian=
+|Indonesian=
+|Italian=
+|Japanese=
+|Korean=
+|Malaysian=
+|Norwegian=
+|Polish=
+|Portuguese=
+|Romanian=
+|Russian=
+|Serbian=
+|Spanish=
+|Swedish=
+|Swiss=
+|Thai=
+|Turkish=
+|Ukrainian=
+|Vietnamese=--&gt;
+}}
+
+{{Contents/PH}}
+[[Category:Beatmapping/PH]][[Category:People/PH]]
+[[Category:Translation Request]]</text>
+    </revision>
+    <revision>
+      <id>32464</id>
+      <timestamp>2015-11-26T18:15:52Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1793">{{OL/PH}}{{Shortcut/PH|PH:BNG|PH:Beatmap Nominator|PH:Beatmap nominators|PH:BN}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[PH:Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[PH:GMT|GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[PH:Modding|pag-mod]] ng mga [[PH:Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{{Beatmap_Nomination_Group/Members
+&lt;!--|Click here to edit this table template=--&gt;
+|Name=Pangalan
+|Languages=Ibang wika na naiintindihan
+&lt;!--|some=
+|Arabic=
+|Bulgarian=
+|Cantonese=
+|Chinese=
+|Czech=
+|Dutch=
+|Filipino=
+|Finnish=
+|French=
+|German=
+|Greek=
+|Hebrew=
+|Hungarian=
+|Indonesian=
+|Italian=
+|Japanese=
+|Korean=
+|Malaysian=
+|Norwegian=
+|Polish=
+|Portuguese=
+|Romanian=
+|Russian=
+|Serbian=
+|Spanish=
+|Swedish=
+|Swiss=
+|Thai=
+|Turkish=
+|Ukrainian=
+|Vietnamese=--&gt;
+}}
+
+{{Contents/PH}}
+[[Category:Beatmapping/PH]][[Category:People/PH]]
+[[Category:Translation Request]]</text>
+    </revision>
+    <revision>
+      <id>34007</id>
+      <timestamp>2016-01-15T00:47:15Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1777">{{OL/PH}}{{Shortcut/PH|PH:BNG|PH:Beatmap Nominator|PH:Beatmap nominators|PH:BN}}
+Ang '''Beatmap Appreciation Team''', dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [[PH:Ranked Beatmap|rank ng beatmaps]]. Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [[PH:GMT|GMT]].
+
+==Ano ang posisyon at responsibilidad ng BAT?==
+
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa  [[PH:Modding|pag-mod]] ng mga [[PH:Pending Beatmap|Pending Beatmaps]] 
+
+papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
+
+==Pagiging isang BAT==
+
+Pagiging isang member ng '''Beatmap Appreciation Team''' ay mahirap at matagalan na proseso. Sa ngayon, ang BAT ay kumukuha ng maraming applications sa community members sa buong taon. Pakikipaglaban dito ay pahirapan pero konti lang ang napipili kada round.
+
+== Mga Members ==
+''Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.'' [http://osu.ppy.sh/g/7 Link]
+
+{{Translate|PH}}
+{{Beatmap_Nomination_Group/Members
+&lt;!--|Click here to edit this table template=--&gt;
+|Name=Pangalan
+|Languages=Ibang wika na naiintindihan
+&lt;!--|some=
+|Arabic=
+|Bulgarian=
+|Cantonese=
+|Chinese=
+|Czech=
+|Dutch=
+|Filipino=
+|Finnish=
+|French=
+|German=
+|Greek=
+|Hebrew=
+|Hungarian=
+|Indonesian=
+|Italian=
+|Japanese=
+|Korean=
+|Malaysian=
+|Norwegian=
+|Polish=
+|Portuguese=
+|Romanian=
+|Russian=
+|Serbian=
+|Spanish=
+|Swedish=
+|Swiss=
+|Thai=
+|Turkish=
+|Ukrainian=
+|Vietnamese=--&gt;
+}}
+
+{{Contents/PH}}
+[[Category:Beatmapping/PH]][[Category:People/PH]]</text>
+    </revision>
+  </page>
+</mediawiki>
