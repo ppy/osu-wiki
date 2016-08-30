@@ -1,0 +1,8 @@
+<noinclude></noinclude> Submission|{{\#switch: |\#default = Basics |ID = Dasar |DE = Submission |PT = Basico |PL = Podstawy }}\]\] ([}}}|:|}}Beatmap ranking procedure|{{\#switch: |\#default = Procedure |ID = Prosedur |DE = Prozedur |PT = Aprovação de Beatmaps |PL = Procedura }}]({{#if:{{{1 "wikilink") / [}}}|:|}}How to Get Your Map Ranked|{{\#switch: |\#default = Guide |ID = Petunjuk |DE = Ratgeber |PT = Guia |PL = Poradnik }}]({{#if:{{{1 "wikilink"))
+[}}}|:|}}Beatmap forum|{{\#switch: |\#default = Beatmap forum |ID = Forum Beatmap |PT = Forum de Beatmaps |PL = Forum Beatmap }}]({{#if:{{{1 "wikilink") [}}}|:|}}Modding|{{\#switch: |\#default = Modding |PL = Modowanie }}]({{#if:{{{1 "wikilink") ([}}}|:|}}Getting Your Map Modded|{{\#switch: |\#default = Guide |ID = Petunjuk |DE = Ratgeber |PT = Guia |PL = Poradnik }}]({{#if:{{{1 "wikilink")) [}}}|:|}}Kudosu|{{\#switch: |\#default = Kudosu }}]({{#if:{{{1 "wikilink") / [}}}|:|}}Star Priority|{{\#switch: |\#default = Star Priority |ID = Bintang Prioritas |DE = Sternenpriorität |PL = Priorytet gwiazdkowy }}]({{#if:{{{1 "wikilink")
+[}}}|:|}}Music Theory|{{\#switch: |\#default = Music Theory |ID = Teori Musik |DE = Musiktheorie |PL = Teoria Muzyki }}]({{#if:{{{1 "wikilink") [}}}|:|}}Audio Editing|{{\#switch: |\#default = Audio Editing |ID = Penyuntingan Audio |DE = Audioeditierung |PT = Edição de Áudio |PL = Edycja dźwiękowa }}]({{#if:{{{1 "wikilink") [}}}|:|}}Ranking Criteria|{{\#switch: |\#default = Ranking Criteria |ID = Kriteria Peringkat |DE = Ranking Kriterien |PL = Kryteria rankingowe }}]({{#if:{{{1 "wikilink")
+
+</div>
+}} <noinclude></noinclude>
+
+[Category:Navigation Templates](Category:Navigation_Templates "wikilink")

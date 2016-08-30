@@ -1,0 +1,124 @@
+Para registro, esta página inclui as mudanças recentes feitas no[from fórum de discussão](http://osu.ppy.sh/forum/87). Caso alguma regra presente aqui esteja sendo discutida, ela vai continuar da maneira que está até que a disussão acabe.
+
+Rules
+=====
+
+Todas as regras são exatamente isso: REGRAS. Elas NÃO SÃO diretrizes e NÃO podem ser quebradas de maneira alguma.
+
+Geral
+-----
+
+-   **Um tick não pode conter mais que apenas um objeto/nota (osu!mania é uma exceção).** Isto inclue hit circles, começos e finais de sliders, e começos e finais de spinners. Embora seja possível de jogar com dois objetos no mesmo tick, é algo imprevisível e totalmente contra a música em sí.
+-   **Não fique usando o kiai time toda hora.** A regra padrão para o kiai time é usar uma vez por minuto. O kiai time foi feito para pôr ênfase no refrão da múscia, então não use-o apenas pra criar brilhos na tela, à menos que isto seja feito raramente. Você pode ligar e desligar o kiai no meio do regrão se combinar com a música, mas usá-lo constantemente em cada batida é simplesmente ridículo e deve ser evitado.
+-   **Não edite nada manualmente através de um arquivo .osu que não possa ser mudado através do editor.** As únicas exceções são storyboards em .osu, **multiplicadores de slider velocity** (slider velocity multipliers) e opções relacionadas à skin, tais como SliderBorder e SliderTrackOverride. Se uma velocidade no multiplicador de SV for imposta de forma que não possa ser mudada através do editor, ela deve ser mencionada na descrição do mapa.
+-   **Seu mapa não pode conter nenhuma imagem obscena no background/storyboard/vídeo.** Isto inclue nudez, semi-nudez, referências sexuais, violência, uso de drogas, etc. Matenhas as coisas em um nível +12.
+-   **A categoria Approved é apenas para mapas Marathon.** Mapas longos com mais de 5 minutos de draining time se encaixam na categoria Approved. Apenas desta forma é permitido um mapa ter apenas uma dificuldade. Se o mapa contem menos de 5 minutos de draining time, é necessário uma spread completa de dificuldades, e o mapa será Ranked ao invés de Approved.
+
+Mapset
+------
+
+-   **Os mapsets precisam ter ao menos duas dificuldades do mesmo modo de jogo, no qual uma delas precisa ser Easy/Normal.** É possível que mapas Marathon tenham apenas uma dificuldade, mas para seu status ser mudado para "Pending", o nome de sua dificuldade precisa ser "Marathon"
+-   **As dificuldades do mapset precisam ter uma boa propagação, contendo ao menos um Easy ou Normal.** Isto é para que jogadores de todos níveis possam aproveitar as músicas que tanto gostam da melhor maneira possível.
+-   **As dificuldades do mapset precisam ser em uma ordem consecutiva. Easy or Normal pode ser pulado se a brecha de propagação de star rating permitir.** A ordem pode ser vista na lista abaixo. Se seu mapset tem apenas duas dificuldades, uma delas não pode ser Insane ou Expert. **A dificuldade mais fácil tem que ser menor que 2.0 stars**. O nível de dificuldade de uma diff específica de taiko ou osu!mania precisa também ter uma propagação bem organizada e pode conter apenas Hard/Insane, se houver dificuldades de standard presentes. No CtB, a propagação é de acordo com a discrição dos BNs. A propagação de dificuldades é determinada pela star rating do mapa. O mapa muda de dificuldade/símbolo quando tiver uma star rating específica:
+    -   Menor que 1.5: Easy
+    -   Menor que 2.25: Normal
+    -   Menor que 3.75: Hard
+    -   Menor que 5.25: Insane
+    -   Maior que 5.25: Expert
+-   **O nome de uma dificuldade precisa indicar seu nível apropriadamente, com exceção da dificuldade mais dificil do mapa.** A dificuldade mais dificil do mapa pode ser usada como um nome customizado, não relacionado à um username. Os mapsets também podem conter todos os nomes de suas dificuldades customizadas, se elas claramente indicarem seu nível para os jogadores. Mapas Marathon com uma única dificuldade podem conter qualquer tipo de nome.
+-   **Cada dificuldade deve ser jogada apenas por um jogador.** Sendo assim, dificuldades TAG, apropriadas para Multiplayer, não são permitidas, já que requerem várias pessoas para jogá-las. Entretanto, você poderá adicionar um link externo de uma dificuldade TAG na thread do seu mapa.
+-   **Um mapset não pode conter apenas uma dificuldade de taiko ou osu!mania.** Se você decidir, por exemplo, incluir taiko no seu mapa, tenha certeza de ter pelo menos duas dificuldades de taiko e que uma delas seja mais fácil que a outra se o mapa não tiver nenhuma dificuldade Easy de osu!standard. Porém, se seu mapa tiver apenas uma dificuldade de CtB não tem problema.
+-   **Ter apenas uma dificuldade de CtB é permitido em um mapset de osu!standard** porque dificuldades de standard são convertidas corretamente para CtB. Porém, em mapsets de taiko ou osu!mania você precisará ter no mínimo 2 dificldades de CtB já que taiko e osu!mania não podem ser convertidos para CtB.
+-   **Nenhum mapper convidade pode ter mais dificuldades no mapset do que o criador, incluindo todos os modos**. Para mapas colaborativos, o uploader/dono do mapa precisa participar em todas as dificuldades colaborativas (collab). A pessoa que der upload do nama deverá ser a que mais contribuiu nele. Mapas com diversas dificuldades feitas por pessoas diferentes, como collabs, serão avaliados separadamente, para ter certeza de que o dono do mapa participou corretamente.
+
+Metadata
+--------
+
+-   **A Metadata precisa ser consistente em todas as dificuldades.** Isto é para assegurar uma busca limpa e consistente pelo mapset.
+-   **Artistas estrangeiros precisam ser escritos no formato 'sobrenome nome**' (Ex.: Japoneses/Chineses/Coreanos). Artistas que tiverem uma romanização preferencial, use-as. Se você não tem certeza do nome do artista, tenha certeza de procurar mapas ranqueados desse mesmo artista, procurar no Google, Wikipedia, ou pedir a ajuda de um BN.
+-   '''Songs with Japanese titles must use the Modified Hepburn method of romanisation in the "Romanised Title" field. '''As a non-unicode field, long vowels such as "おう" and "うう" should be romanised into "ou" and "uu" to avoid macrons. Loan words should be expressed using romanisation from the original language.
+-   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/forum/t/244684) for more information.
+-   **Vocaloids podem ser caracterizados dentro da seção de artista se o produtor/compositor incluí-lo através de fontes oficiais.** Isso garante que a metadata seja precisa em todos os casos.
+-   **Não altere o título da música.** Isso inclui adicionar alguma marcação para descrever o corte da música como "Short Ver.", "TV Size" e assim por diante, a menos que esses marcadores são parte do título oficial da canção, conforme listado por uma fonte respeitável.
+-   **Apenas use a seção "Source" se a música veio ou foi feita para uma série ou jogo.** Nomes de websites são considerados como "Artistas" e não como Source.
+-   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
+-   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
+
+Timing
+------
+
+-   **Uninherited (red) Timing Sections should be used to accurately map the song's timing.** They should synchronize to the beats of the song as accurately as possible and use the correct time signature whenever possible. If an incorrect time signature would last for more than 2 bars, add another timing section to fix it. Please see [this thread](http://osu.ppy.sh/forum/viewtopic.php?f=10&t=20998) for more information on downbeats.
+-   **Your map must be perfectly timed.** This means that your BPM and offset are spot-on, sliders end when they should, notes are generally following a recognizable rhythm (such as the lyrics or drums) which is comprehensible by a player, and that there are no unsnapped notes (you can check this by running AIMod (shortcut ctrl+shift+a) in the editor).
+-   **Uninherited timing sections must be the same in every difficulty** of the mapset. That is, each section must have the same BPM and offset in each difficulty. Furthermore, there must not be extra or missing uninherited sections in any difficulty. A song's timing doesn't change between difficulties, so there's no sense in having different uninherited sections per difficulty.
+-   **Uninherited timing sections cannot be used to manipulate slider speeds.** These can be very unexpected for the player while also disrupting the main menu pulse and slightly changing the overall timing of the map.
+-   **No two uninherited or two inherited timing sections should be placed at the same point.** An inherited timing section may be placed on an uninherited timing section (but only to change the slider speed). Having two uninherited or two inherited sections on top of each other will cause problems within the beatmap.
+
+Audio
+-----
+
+-   **A beatmap set may only contain one music file used by all difficulties.** Multiple music files within a single beatmap set is unsupported by osu! and results in unexpected behaviour with preview times, metadata, etc.
+-   **The song's audio file must be of reasonable quality.** Try and source mp3 files yourself; ripping them from a streaming video site often results in low quality audio with high file sizes. The bitrate of a beatmap's audio file must be no lower than 128kbps and no higher than 192kbps. If you are having trouble acquiring an appropriate audio file, contact one of the more audio-savvy BN; they will be more than happy to help find an mp3 for you.
+-   **O mínimo de tempo de jogatina de mapa é 30 segundos** (mas o recomendado são 45 segundos). Se seu mapa é menor que isso, tente fazer um loop com a música em um editor de áudio. This is so each map gives a high enough score, and also so people do not try and cut songs too short for no reason, thus stopping people from enjoying the song fully.
+-   **You must cut your mp3 if you're using less than 80% of it.** This doesn't count intro time, and thus only applies if more than 20% of the outro is unmapped. If you only plan to map a portion of your song, then including the full mp3 is a waste of file space. Many mp3 editing tools [like this](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=34303) exist which make fading and cutting a song simple. However, if you have a legitimate reason for keeping your full mp3 (e.g. a storyboard after the map ends), then that is fine.
+-   **You must use hitsounds.** Without these, things get way too monotonous as you are throwing away one of the main elements of variation present in mapping. You don't need to place them on every note (and are discouraged from doing so), but they must at least be frequently heard when playing.
+-   **Hitsounds from notes and sliders must be audible.** These provide feedback for the player, and having them silent in a rhythm game doesn't make much sense. If you don't like the default sounds, then find replacements rather than silencing notes. You can use hitsounds from the [Custom Hitsound Library](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=15407) or easily find others online. Lowering the volume of a few notes to provide a dampened effect is usually fine, but complete silence is always unacceptable. The end of a spinner (or even the entire spinner) the sliding sound of a slider, and the end of a slider can be silent, but only do it if it makes sense. Finally, you cannot silence both slider ticks and slider slides together.
+-   **Do not use sliderslide, sliderwhistle, and spinnerspin hitsounds in a way that would replicate a hitsound on a circle, slider start, slider end, slider tick, or slider repeat.** Sliderslide, sliderwhistle, and spinnerspin hitsounds are considered continuous hitsounds, meaning that their files play from start to end and loop as one continuous sound for the length of the held object. Do not alter any section of a held object to play a single hitsound.
+-   **Songs/Maps with mature lyrics/themes must be marked with a label such as "18+" in the map's thread.** This game is for all ages, and so a warning is needed for younger audiences. There is currently no way to distinguish this outside of the map's thread, but this may change in the future.
+-   **Each difficulty of the mapset must have a preview point set** (and be consistent in every difficulty). This is used for both the song selection menu and the online thumbnail preview.
+-   **Every .wav file must be at least 100ms long** to prevent issues with soundcards. If you want a silent/blank hitsound, then you <u>must</u> use a [0-byte .wav file](http://up.ppy.sh/files/blank.wav).
+-   **Hitsounds must have an acceptable range of delay under 5ms, unless there's a special purpose.** Every hitsound file should start in time, preferrably at 0ms. This is to ensure that every map doesn't sound mistimed, and therefore could provide acceptably synchronized rhythm feedback to players.
+
+Vídeo
+-----
+
+-   **Um beatmap não pode conter mais de um arquivo de vídeo.** Múltiplos vídeos dentro de um beatmap não é suportado pelo osz2 e vai resultar em erros no upload e processamento.
+-   **As dimensões do vídeo não devem exceder 1280x720.** E também, esticar vídeos de resolução menor deve ser evitado. Isso faz com que o tamanho do arquivo de vídeo não se torne desnecessariamente maior e não reduza o desempenho do processo no computador.
+-   **O offset do vídeo precisa estar correto e consistente entre as dificuldades** para que possa acompanhar a musica da fielmente.
+-   **A faixa de áudio do vídeo precisa ser removida do arquivo de vídeo.** A faixa de áudio do vídeo não é usada no osu!, então removendo-a reduz o tamanho do arquivo do beatmap.
+
+Skinning
+--------
+
+-   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects!
+-   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play.
+-   **Skinned elements must be cropped cleanly** so they don't look like they have jpeg or pixelated artifacts around them or half-cropped shadows. If you don't have a program like Photoshop, then there are many free alternatives like Paint.NET and GIMP that can be used instead.
+-   **Background images must be at a maximum of 1024x768 pixels for 4:3, 1366x768 pixels for 16:9.** Although 1366x768 (16:9) is recommended, most background ratios that are 4:3 or 16:9 should also work reasonably well (for example, 800x600 or 852x480). Using an image with a different ratio is fine, but will result in letterboxing (black bars at the top/bottom of the screen) or upscaling (resized image to fill the whole screen).
+-   **Keep background imagery safe.** Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that doesn't require censoring in any country. If you have any possible edge-case scenarios, please PM peppy on IRC with a link to the image in question; a list of images which are/aren't acceptable will be built up to set some visible guidelines.
+-   **You must have a background image on every difficulty of your map.** If your map has a storyboard, then you can easily fade the background out, but one is still required for the song selection menu, online thumbnail icon, and for players not downloading with video (if the map has one).
+-   **Hitbursts must be clearly distinguishable from each other** (e.g. 300/100). The best way to ensure this is to use a different color for each hitburst. Otherwise, the player won't know if they're hitting beats accurately.
+-   **When skinning gameplay elements, [complete sets](https://osu.ppy.sh/wiki/Skinning#Skin_Sets) of elements must be skinned**. For instance, if you skin hitcircles, you must include a hitcircle.png, hitcircleoverlay.png, approachcircle.png, and a slider border color (this can be done by adding the line "SliderBorder: 255,255,255" (using RGB values) under the \[Colours\] section of each .osu file). The same logic applies to hitbursts, cursors, numbers, and anything else of this nature. If you didn't intend to skin an element in the set, then using the templateskin's version is okay. Setting a SkinPreference is also acceptable (e.g. forcing the default skin).
+-   **Combobursts must be oriented for the left side of the screen.** Combobursts are aligned to the bottom and left sides of the screen by default, and are just horizontally flipped for the right side. Thus, you only need to worry about making sure that the comboburst is cleanly cropped on the top and right sides of the image.
+-   **Do not make any essential gameplay elements larger than template skin dimensions** (especially for combobursts). Larger elements may effect gameplay performance, and thus should be avoided. However, any elements that do not directly effect gameplay (e.g. pause-back, play-skip, etc.) may be slightly larger if a legitimate reason is given.
+-   **There must not be any unused files in the map's folder** except for the map's .osb file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard .thumb files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
+
+Storyboarding
+-------------
+
+-   **Storyboard images must be at a reasonable filesize and dimension for their usage.** For most uses (e.g. full-screen images), the maximum is 1366x768 pixels. For widescreen storyboards 854x480 is preferred as it matches the internal resolution of the SB editor. For 4:3 aspect ratio images 640x480 is preferred.
+-   **The maximum dimensions for tall or wide scrolling images are 640x1440 and 1920x480 respectively.** This is for the sake of gameplay performance, image loading time, and filesize.
+-   **There must not be any unnecessary transparency around storyboarded images,** so crop and resize them as much as possible. If there are particular reasons for apparently useless transparency, then please explain them. For transparent sprites, there should be at least one pixel of transparent border around them so that interpolation (e.g. a black-bordered image on a black background) works properly (although a shadow or glow around the image will fix this problem as well).
+-   **Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <u>must</u> use the epilepsy warning.** There is one built-into the editor, which will display a visual warning at the beginning of the map and also mark the map's online thumbnail with a warning icon. Also, it helps to make a note of the flashing/strobes/etc. in the map's thread. This warning is absolutely needed so that players with epilepsy can avoid any danger.
+
+Guidelines
+==========
+
+Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this: Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay.
+
+When your guideline-breaking map gets modded, try to be as reasonable as possible: Do your best to explain your point of view and be open to suggestions.
+
+-   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](http://osu.ppy.sh/wiki/Difficulty_appropriate_gameplay_elements). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
+-   **A maximum of three slider velocities should be used** (including 1x). For example, you could have a single map using 0.6x, 0.8x, and 1x; or 0.75x, 1x, and 1.5x; etc. If more than three slider velocities are used, then they should make sense and be intuitive. If slider velocity changes are able to be merged (e.g. close values like 0.8x and 0.7x) while still flowing/working correctly, then they should be.
+-   **When including a slider velocity change, there should be a discernible change in the map's tempo**. A spacing change, a short break in the map, or a slider containing at least one tick will help show the transition between them.
+-   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.
+-   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
+-   **Kiai should be consistent throughout difficulties** of your mapset (especially since it is shown on the main menu). If you have a guest difficulty from another mapper that uses different kiai, then it's fine as long as it still makes sense.
+-   **Kiai should start on a white tick** (or more commonly, the big white tick called the [downbeat](http://osu.ppy.sh/forum/viewtopic.php?f=10&t=20998)) of a measure. Generally, the main part of the chorus will start at this point.
+-   **The song should not be too long.** Aim for 3 minutes maximum; anything longer gets tiring. If you need help editing a song down to length, feel free to ask in the Beatmap [General Questions](http://osu.ppy.sh/forum/viewforum.php?f=56) forum.
+-   **Use breaks where possible.** Even if they are only 5-10 seconds, it allows a bit of recovery and hand repositioning for players. However, try to avoid longer breaks that are in excess of 15 seconds. Breaks should especially be used with Easy/Normal difficulties.
+-   **Options such as letterboxing, countdown, and audio lead-in should be consistent between difficulties.** Having cohesive settings throughout your mapset will look much more professional, although there are always scenarios where this is impossible. One difficulty might start at the beginning of the mp3, where a countdown is impossible but an audio lead-in is absolutely necessary; while another difficulty may start a few seconds in, where a countdown is usable but an audio lead-in is senseless.
+-   **Try to keep osz files under 10mb, or 30mb if you include a video/storyboard.** Videos and storyboards can generally be decreased in size by lowering the quality of the video or trimming/resizing storyboard elements.
+-   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
+-   **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, would be extremely jarring.
+-   **Avoid going over a 5.0x storyboard load** to help prevent lag on older computers. Resizing some of your storyboard images may help with this.
+
+[Category:Ranking Criteria/PT](Category:Ranking_Criteria/PT "wikilink") <Category:Beatmapping/PT>

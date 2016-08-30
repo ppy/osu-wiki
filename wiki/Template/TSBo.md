@@ -1,0 +1,3 @@
+!rowspan="4"| |style="background-color:\#FFD966;" |\#1 || <span class="plainlinks"> \[<http://osu.ppy.sh/s/> \] </span> | rowspan="4"| <span class="plainlinks"> \[<http://osu.ppy.sh/p/bestof> \] </span> | rowspan="4"| <span class="plainlinks"> \[<http://osu.ppy.sh/p/chart?ch=best> \] </span> | rowspan="4"| <span class="plainlinks"> </span> | rowspan="4"| <span class="plainlinks"> </span> |- |style="background-color:\#D9D9D9;" |\#2|| <span class="plainlinks"> \[<http://osu.ppy.sh/s/> \] </span> |- |style="background-color:\#F6B26B;" |\#3|| <span class="plainlinks"> \[<http://osu.ppy.sh/s/> \] </span> |- ||| <span class="plainlinks"> </span> <noinclude></noinclude>
+
+<Category:Templates>
