@@ -1,10 +1,11 @@
 Entry Not Found!
 ==================
-<center>
-</center>
+
+
 this isn't supposed to happen....
-<br/>
-<br/>
+
 you tried to view a wiki entry which doesn't exist or you tried to view a entry that might have been deleted.
-<br/>
-you can either contribute to the [osu!wiki Github Repository](https://github.com/ppy/osu-wiki) to add this entry.
+
+
+you can contribute to the [osu!wiki Github Repository](https://github.com/ppy/osu-wiki) to add this entry if you wish.
+
