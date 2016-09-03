@@ -36,7 +36,7 @@ Each of these sections currently have 4 volumes to them.
      -   Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?                                                                                                  
  -   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
                                                                                                                                                                                                                                                                                
- **<u>Trivia</u>**                                                                                                                                                                                                                                                             
+#### Trivia:                                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                                                
  -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Packs0916/en.md "wikilink")                                                                      
 
@@ -64,19 +64,14 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 
 **Star-based** achivements are split into two groups, **Pass** and **S**. The **Pass** achievements can be obtained by passing any map of a certain star difficulty. The **S** achievements will be obtained if you pass the map with a S ranking whilst also having a FC. The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to. The map must be passed without difficulty increasing or difficulty decreasing mods or else it will not count. The map must also be ranked to be able to earn an achievement.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="File:Achievement" class="uri">File:Achievement</a> - 500 Combo (Any Song).png|500 Combo (any song) <a href="File:Achievement" class="uri">File:Achievement</a> - 750 Combo (Any Song).png|750 Combo (any song) <a href="File:Achievement" class="uri">File:Achievement</a> - 1000 Combo (Any Song).png|1000 Combo (any song) <a href="File:Achievement" class="uri">File:Achievement</a> - 2000 Combo (Any Song).png|2000 Combo (any song) <a href="File:Achievement_-_Highranker_Lvl1.png%7CI" class="uri">File:Achievement_-_Highranker_Lvl1.png|I</a> can see the top<br />
-(Added on April 20, 2016) <a href="File:Achievement_-_Highranker_Lvl2.png%7CThe" class="uri">File:Achievement_-_Highranker_Lvl2.png|The</a> gradual rise<br />
-(Added on April 20, 2016) <a href="File:Achievement_-_Highranker_Lvl3.png%7CScaling" class="uri">File:Achievement_-_Highranker_Lvl3.png|Scaling</a> up<br />
-(Added on April 20, 2016) <a href="File:Achievement_-_Highranker_Lvl4.png%7CApproaching" class="uri">File:Achievement_-_Highranker_Lvl4.png|Approaching</a> the summit<br />
-(Added on April 20, 2016)</p></td>
-</tr>
-<tr class="even">
-</tr>
-</tbody>
-</table>
+
+| Combo | The High Ranker |
+| ----- | --------------- |
+| ![500 Combo (any song)](Achievement_-_500_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl1.png) |
+| ![750 Combo (any song)](Achievement_-_750_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl2.png) |
+| ![1000 Combo (any song)](Achievement_-_1000_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl3.png) |
+| ![2000 Combo (any song)](Achievement_-_2000_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl4.png) |
+
 
 Dedication
 ==========
