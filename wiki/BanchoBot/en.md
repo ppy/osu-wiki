@@ -1,4 +1,4 @@
-![BanchoBot's tab.](BanchoBot.jpg "fig:BanchoBot's tab.") **BanchoBot** is a bot (i.e. a set of commands with automated responses) programmed by that can assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is your host for the [osu!chat server](IRC "wikilink") and has a profile named .
+![BanchoBot's tab.](BanchoBot.jpg "BanchoBot's tab.") **BanchoBot** is a bot (i.e. a set of commands with automated responses) programmed by that can assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is your host for the [osu!chat server](IRC "wikilink") and has a profile named .
 
 Appearance and task
 -------------------
@@ -10,36 +10,17 @@ Appearance and task
     -   If you send the COMMAND without an exclamation mark ("!") while in BanchoBot tab, BanchoBot still receives same like when you use /bb
 -   You can't use exclamation mark based command on non-BanchoBot Private Message tab.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Standard Commands (!COMMAND or /bb COMMAND)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>COMMAND</p></td>
-</tr>
-<tr class="even">
-<td><p>WHERE <user></p></td>
-</tr>
-<tr class="odd">
-<td><p>STATS <user></p></td>
-</tr>
-<tr class="even">
-<td><p>FAQ &lt;L.code&gt;<item> (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>REPORT <reason></p></td>
-</tr>
-<tr class="even">
-<td><p><span style="color:grey;">REQUEST (list)</span></p></td>
-</tr>
-<tr class="odd">
-<td><p>ROLL <number></p></td>
-</tr>
-</tbody>
-</table>
+
+#### Standard Commands (!COMMAND or /bb COMMAND)
+
+| COMMAND | Effect | Example | BanchoBot response |
+| ------- | ------ | ------- | ------------------ |
+| WHERE <user> | Shows location of stated player | !where John | John is in USA |
+| STATS <user> | Shows status of stated player (based on current player tab) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ <L.code><item> (list) | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT <reason> | Call for a moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Show a random recent mod request. / [list] Shows 5 random recent mod requests. | !request | Seether - Fake It by [Dellirium] |
+| ROLL <number> | Roll a (virtual) dice and get random result from 1 to <number>(default 100) | !roll 9000 | John rolls 1337 point(s) |
 
 Notes:
 
