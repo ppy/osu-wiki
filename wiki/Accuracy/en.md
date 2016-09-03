@@ -9,10 +9,10 @@ Standard
 
 In [Standard](Standard "wikilink"), accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount. In other words:
 
-**Accuracy = Total points of hits / (Total number of hits \* 300)**
-
-| Total points of hits  | (Number of 50s * 50 + Number of 100s * 100 + Number of 300s * 300) |
-| Total number of hits  | (Number of misses + Number of 50's + Number of 100's + Number of 300's) |
+| colspan=2|Accuracy = Total points of hits / (Total number of hits \* 300) |
+|---------------------------------------------------------------------------|
+| Total points of hits                                                      |
+| Total number of hits                                                      |
 
 For reference: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
@@ -21,21 +21,21 @@ Taiko
 
 In [Taiko](Taiko "wikilink") mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
 
-**Accuracy = Total points of hits / (Total number of hits \* 300)**
-
-| Total points of hits  | (Number of Miss * 0 + Number of 100(GOOD) * 0.5 + Number of 300(GREAT) * 1) * 300 |
-| Total number of hits  | (Number of Miss + Number of 100 + Number of 300) |
+| colspan=2|Accuracy = Total points of hits / (Total number of hits \* 300) |
+|---------------------------------------------------------------------------|
+| Total points of hits                                                      |
+| Total number of hits                                                      |
 
 Catch the Beat
 --------------
 
 In [Catch the Beat](Catch_the_Beat "wikilink"), the song accuracy is calculated as the number of non-spinner objects collected divided by the total number of non-spinner objects; fruits, large drops and small drops all have the same value.
 
-**Accuracy = Total numbers of fruits caught / Total number of fruits**
-
-| Total numbers of fruits caught  | (Number of droplets + Number of 100s + Number of 300s) |
-| Total numbers of fruits         | (Number of misses + Number of droplets + Number of 100s + Number of 300s + Number of miss droplets) |
-| Condition                       | **Bananas** (Spinner's fruits) do not count. |
+| colspan=2|Accuracy = Total numbers of fruits caught / Total number of fruits |
+|------------------------------------------------------------------------------|
+| Total numbers of fruits caught                                               |
+| Total numbers of fruits                                                      |
+| Condition                                                                    |
 
 Note that if you use the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**
 
@@ -44,10 +44,10 @@ Mania
 
 Accuracy is calculated similarly to [Standard](Standard "wikilink") in this mode.
 
-**Accuracy = Total points of hits / (Total number of hits \* 300)**
-
-| Total points of hits  | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of MAXes * 300) |
-| Total number of hits  | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of MAXes) |
+| colspan=2|Accuracy = Total points of hits / (Total number of hits \* 300) |
+|---------------------------------------------------------------------------|
+| Total points of hits                                                      |
+| Total number of hits                                                      |
 
 Note that MAX and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
 
@@ -68,12 +68,32 @@ This shows a graph of your performance over the course of a play. Additional inf
 
 <img src="Accuracy TR.jpg" title="Performance Graph" alt="Performance Graph" width="500" />
 
-
-#### Accuracy
-
-| Error | These two values represent how far off your early hits are on average, and how far off your late hits are on average. The higher the OD value of the beatmap you're playing, the lower these will have to be to do well. |
-| Unstable Rate | This value represents how consistently you time your hits, with lower numbers being better (top players often score below 100). Note that this measures consistency, and not accuracy, so if you're consistent in hitting 15ms early, you'll get similar results to if you're consistent in hitting on time. The formula is essentially the standard deviation of your hit errors (in milliseconds) multiplied by 10. |
-
+<table>
+<thead>
+<tr class="header">
+<th><p>colspan=2|Accuracy</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Error</p></td>
+</tr>
+<tr class="even">
+<td><p>Unstable Rate</p></td>
+</tr>
+<tr class="odd">
+<td><p>colspan=2|Spin [osu! only]</p></td>
+</tr>
+<tr class="even">
+<td><p>Speed</p></td>
+</tr>
+<tr class="odd">
+<td><p>Unstable Rate</p></td>
+</tr>
+<tr class="even">
+</tr>
+</tbody>
+</table>
 
 **Notes**
 
