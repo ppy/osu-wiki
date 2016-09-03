@@ -67,10 +67,10 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 
 | Combo | The High Ranker |
 | ----- | --------------- |
-| ![500 Combo (any song)](Achievement_-_500_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl1.png) |
-| ![750 Combo (any song)](Achievement_-_750_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl2.png) |
-| ![1000 Combo (any song)](Achievement_-_1000_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl3.png) |
-| ![2000 Combo (any song)](Achievement_-_2000_Combo_(Any_Song).png) | ![Anime Pack vol.1](Achievement_-_Highranker_Lvl4.png) |
+| ![500 Combo (any song)](Achievement_-_500_Combo_(Any_Song).png) | ![The Highranker Lvl1](Achievement_-_Highranker_Lvl1.png) |
+| ![750 Combo (any song)](Achievement_-_750_Combo_(Any_Song).png) | ![The Highranker Lvl2](Achievement_-_Highranker_Lvl2.png) |
+| ![1000 Combo (any song)](Achievement_-_1000_Combo_(Any_Song).png) | ![The Highranker Lvl3](Achievement_-_Highranker_Lvl3.png) |
+| ![2000 Combo (any song)](Achievement_-_2000_Combo_(Any_Song).png) | ![AThe Highranker Lvl4](Achievement_-_Highranker_Lvl4.png) |
 
 
 Dedication
@@ -78,19 +78,6 @@ Dedication
 
 **The Dedication** achievements can be obtained by (playing a lot of times in Standard mode/ collecting many fruits in [Catch the Beat](Catch_the_Beat "wikilink") mode/ hitting a lot of drum hits in [Taiko](Taiko "wikilink") mode / pressing a lot of keys in [Mania](Mania "wikilink")).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="File:Achievement" class="uri">File:Achievement</a> - 5,000 Plays (osu! mode).png|5,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 15,000 Plays (osu! mode).png|15,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 25,000 Plays (osu! mode).png|25,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 50,000 Plays (osu! mode).png|50,000 Plays (osu! mode)</p>
-<p><a href="File:Achievement" class="uri">File:Achievement</a> - Catch 20,000 fruits.png|Catch 20,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 200,000 fruits.png|Catch 200,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 2,000,000 fruits.png|Catch 2,000,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 30,000 fruits.png|30,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 300,000 fruits.png|300,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 3,000,000 fruits.png|3,000,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 40,000 Keys.png|40,000 Keys<br />
-(Added on May 28, 2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 400,000 Keys.png|400,000 Keys<br />
-(Added on May 28, 2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 4,000,000 Keys.png|4,000,000 Keys<br />
-(Added on May 28, 2013)</p></td>
-</tr>
-<tr class="even">
-</tr>
-</tbody>
-</table>
 
 | Standard | Taiko | Catch the Beat | Mania |
 | -------- | ----- | -------------- | ----- |
