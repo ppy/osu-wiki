@@ -1,4 +1,4 @@
-![BanchoBot.](BanchoBot.jpg "fig:BanchoBot.") Twój host [serwera osu!](PL:IRC "wikilink").
+![BanchoBot](BanchoBot.jpg "BanchoBot.") Twój host [serwera osu!](PL:IRC "wikilink").
 
 ma swój własny profil!
 
@@ -12,41 +12,16 @@ Wygląd i zadania
     -   Jeżeli wyślesz komendę bez znaku „!", Banchobot przyjmie to tak samo jakby została użyta z /bb
 -   Nie da się użyć komendy bazowanej na znaku "!" w okienkach wiadomości prywatnych innych niż okienko BanchoBota
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Standardowe komendy (!KOMENDA lub /bb KOMENDA)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Komenda</p></td>
-</tr>
-<tr class="even">
-<td><p>SEARCH <wyraz kluczowy> (next/prev)</p></td>
-</tr>
-<tr class="odd">
-<td><p>WHERE <nick></p></td>
-</tr>
-<tr class="even">
-<td><p>STATS <nick></p></td>
-</tr>
-<tr class="odd">
-<td><p>RANK <numer></p></td>
-</tr>
-<tr class="even">
-<td><p>FAQ <język><rzecz> (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>REPORT <powód></p></td>
-</tr>
-<tr class="even">
-<td><p>REQUEST (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>ROLL <numer></p></td>
-</tr>
-</tbody>
-</table>
+
+#### Standardowe komendy (!KOMENDA lub /bb KOMENDA)
+
+| Komenda | Efekt | Przykład | Odpowiedź BanchoBota |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (nick) | Pokazuje lokalizację danego gracza | !where John | John is in USA |
+| STATS (nick) | Pokazuje status danego gracza (bazując na karcie gracza) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (L.code)(wyraz kluczowy) (list) | Różna użyteczność. [list] Lista komend. | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (powód) | Wzywa moderatora | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Pokazuje losowe i najnowsze zapytanie o zmodowanie. [list] Pokazuje 5 losowych i najnowszych zapytań o zmodowanie. | !request | Seether - Fake It by [Dellirium] |
+| ROLL (liczba) | Rzuca (wirtualną) kostką i podaje losowy rezultat od 1 do (numer) (domyślnie 100) | !roll 9000 | John rolls 1337 point(s) |
 
 

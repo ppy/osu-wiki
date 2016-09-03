@@ -9,10 +9,10 @@ Modo Standard
 
 Em [Standard](PT:Standard "wikilink"), precisão é calculada pela media de pontos adquiridas em cada nota por seu valor e dividindo pela quantidade máxima possível. Em outras palavras:-
 
-| colspan=2|Precisão = Pontos de Acertos Totais / (Numero de Acertos Totais \* 300) |
-|-----------------------------------------------------------------------------------|
-| Pontos de Acertos Totais                                                          |
-| Numero de Acertos Totais                                                          |
+| *Variables* | Precisão = Pontos de Acertos Totais / (Numero de Acertos Totais * 300) |
+| ------------| ---------------------------------------------------------------------- |
+| Pontos de Acertos Totais | (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 300s * 300) |
+| Numero de Acertos Totais | (Numero de erros + Numero de 50's + Numero de 100's + Numero de 300's) |
 
 Para referencia: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
@@ -21,29 +21,29 @@ Modo Taiko
 
 No modo [Taiko](PT:Taiko "wikilink"), a precisão da musica é calculada pela soma da precisão de todas as notas divididas pelo numero de notas. Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um ERRO/RUIM (不可) como 0% (que quebra o combo). Drumrolls e spinners não influenciam na precisão.
 
-| colspan=2|Precisão = Pontos totais de acertos / (Numero total de acertos \* 300) |
-|----------------------------------------------------------------------------------|
-| Pontos totais de acertos                                                         |
-| Numero total de acertos                                                          |
+| *Variables* | Precisão = Pontos totais de acertos / (Numero total de acertos * 300) |
+| ------------| --------------------------------------------------------------------- |
+| Pontos totais de acertos | (Numero de Erros * 0% + Numero de 100(BOM) * 50% + Numero de 300(ÓTIMO) * 100%) |
+| Numero total de acertos | (Numero de Erros + Numero de 100 + Numero de 300) |
 
 Modo Catch the Beat
 -------------------
 
 Em [Catch the Beat](PT:Catch_the_Beat "wikilink"), a precisão da musica é calculada com o total de objetos coletados (spinners não contam) divididos pelo numero total de objetos (sem contar spinners); todas as frutas, gotas grandes e gotas pequenas tem o mesmo valor.
 
-| colspan=2|Precisão = Numero total de frutas coletadas / Numero total de frutas |
-|--------------------------------------------------------------------------------|
-| Condição                                                                       |
+| *Variables* | Precisão = Numero total de frutas coletadas / Numero total de frutas |
+| ------------| -------------------------------------------------------------------- |
+| Condição | "Bananas" (Frutas de Spinner) não contam. |
 
 Modo osu!mania
 --------------
 
 A precisão é calculada de forma semelhante a \[\[standard deste modo.
 
-| colspan=2|Accuracy = Total de pontos de acertos / (Numero total de acertos \* 300) |
-|------------------------------------------------------------------------------------|
-| Total de pontos de acertos                                                         |
-| Numero total de acertos                                                            |
+| *Variables* | Precisão = Total de pontos de acertos / (Numero total de acertos * 300) |
+| ------------| ----------------------------------------------------------------------- |
+| Total de pontos de acertos | (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 200s * 200 + Numero de 300s * 300 + Numero de MAXes * 300) |
+| Numero total de acertos | (Numero de erros + Numero de 50s + Numero de 100s + Numero de 200s + Numero de 300s + Numero de MAXes) |
 
 Note que ambos MAX e 300 possuem valor máximo para calculo de precisão, apesar de que MAX ter maior valor em termos de pontuação se comparado a um 300.
 
@@ -52,44 +52,27 @@ Tela de Resultados
 
 ### Ranking
 
-  
-Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](PT:Score "wikilink").
+  Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](PT:Score "wikilink").
 
 <File:Accuracy> osu!.jpg|Modo osu! <File:Accuracy> Taiko.jpg|Modo Taiko <File:Accuracy> CtB.jpg|Modo Catch the Beat <File:Accuracy> Mania.jpg|Modo osu!mania
 
 ### Gráfico de Performance
 
-  
-Isso mostra um gráfico de sua performance durante a partida. Informação adicional é mostrada quando você posiciona o cursor acima do gráfico:
+  Isso mostra um gráfico de sua performance durante a partida. Informação adicional é mostrada quando você posiciona o cursor acima do gráfico:
 
 <img src="Accuracy TR.jpg" title="Gráfico de Performance" alt="Gráfico de Performance" width="500" />
 
-<table>
-<thead>
-<tr class="header">
-<th><p>colspan=2|Precisão</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Erro</p></td>
-</tr>
-<tr class="even">
-<td><p>Taxa de Instabilidade</p></td>
-</tr>
-<tr class="odd">
-<td><p>colspan=2|Giro [apenas em standard]</p></td>
-</tr>
-<tr class="even">
-<td><p>Velocidade</p></td>
-</tr>
-<tr class="odd">
-<td><p>Taxa de Instabilidade</p></td>
-</tr>
-<tr class="even">
-</tr>
-</tbody>
-</table>
+#### Precisão
+| Term | Meaning |
+| ---- | ------- |
+| Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](../Song-Setup/pt.md) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
+| Taxa de Instabilidade | **Este valor representa o quão consistentemente você cronometra seus acertos **, com números mais baixos sendo melhores (os melhores jogadores, muitas vezes obtém pontuação abaixo de 150). Note que isso é uma medição de consistência, e não de precisão, por isso, se você é consistente em acertar 15ms cedo, você poderá obter resultados semelhantes aos se você é consistente em bater no tempo. A fórmula é, essencialmente, o padrão de desvio dos seus erros de cronometragem (em milissegundos) multiplicado por 10. |
+
+#### Giro [apenas em standard]
+| Term | Meaning |
+| ---- | ------- |
+| Velocidade | **Velocidade media de giro em todo o spinner(s) no beatmap.** <br> Max é o rpm máximo (rotações por minuto) atingido em um dos spinners do beatmap. |
+| Taxa de Instabilidade | **Os valores são baseados na média contra desvio máximo**, quanto menor melhor. A formula é desconhecida.
 
 **Observações**
 
