@@ -13,38 +13,16 @@ Tampilan dan Tugas
     -   Jika kamu mengirimkan perintah tanpa tanda seru ("!") jika sedang berada di tab Banchobot, BanchoBot masih menerima perintah yang sama ketika kamu menggunakan /bb
 -   Kamu tidak bisa menggunakan perintah yang menggunakan tanda seru di tab selain Pesan Pribadi Banchobot.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Perintah Standar (!PERINTAH or /bb PERINTAH)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>PERINTAH</p></td>
-</tr>
-<tr class="even">
-<td><p>SEARCH <kata kunci> <strong>(next/prev)</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>WHERE <pengguna></p></td>
-</tr>
-<tr class="even">
-<td><p>STATS <pengguna></p></td>
-</tr>
-<tr class="odd">
-<td><p>FAQ <daftar kode><item> (daftar)</p></td>
-</tr>
-<tr class="even">
-<td><p>REPORT <alasan>*</p></td>
-</tr>
-<tr class="odd">
-<td><p>REQUEST (list)</p></td>
-</tr>
-<tr class="even">
-<td><p>ROLL <nomor></p></td>
-</tr>
-</tbody>
-</table>
+#### Perintah Standar (!PERINTAH or /bb PERINTAH)
+
+| PERINTAH | Efek | Contoh | Respon Banchobot |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (pengunna) | Menampilkan lokasi pengguna yang tertulis | !where John | John is in USA |
+| STATS (pengunna) | Menampilkan status / keadaan pengguna yang tertulis (berdasarkan di tab pengguna berada) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (daftar kode)(item) (daftar) | Berbagai kegunaan. [Daftar] Daftar Perintah | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (alasan) | Memanggil sebuah moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Menampilkan sebuah permintaan mod secara acak. [list] Menampilkan 5 permintaan mod terbaru secara acak. | !request | Seether - Fake It by [Dellirium] |
+| ROLL (nomor) | Menggulingkan sebuah dadu (virtual/maya) dan mendapatkan hasil yang acak dari 1 hingga (nomor)(biasanya 100) | !roll 9000 | John rolls 1337 point(s) |
+
 
 *\*Alasan dalam perintah !REPORT harus menggunakan bahasa Inggris sebab Moderator Obrolan umumnya menggunakan bahasa Inggris.*

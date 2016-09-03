@@ -1,4 +1,4 @@
-![Tab do BanchoBot.](BanchoBot.jpg "fig:Tab do BanchoBot.") Seu hospedeiro do [servidor de chat do osu!](PT:IRC "wikilink").
+![Tab do BanchoBot.](BanchoBot.jpg "Tab do BanchoBot.") Seu hospedeiro do [servidor de chat do osu!](PT:IRC "wikilink").
 
 tem um perfil!
 
@@ -13,41 +13,16 @@ Aparência e trabalho
     -   Se você mandar o comando sem uma exclamação("!") enquanto estiver no chat do BanchoBot, ele ainda vai receber o comando e mostrar sua função.
 -   Você não pode usar comandos com exclamação em PMs que não sejam do BanchoBot.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Comandos Padrões (!Comando)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Comando</p></td>
-</tr>
-<tr class="even">
-<td><p>SEARCH <palavra chave> (next/prev)</p></td>
-</tr>
-<tr class="odd">
-<td><p>WHERE <usuário></p></td>
-</tr>
-<tr class="even">
-<td><p>STATS <usuário></p></td>
-</tr>
-<tr class="odd">
-<td><p>RANK <número></p></td>
-</tr>
-<tr class="even">
-<td><p>FAQ <palavra chave></p></td>
-</tr>
-<tr class="odd">
-<td><p>REPORT <razão></p></td>
-</tr>
-<tr class="even">
-<td><p>REQUEST (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>ROLL <número ou palavra chave></p></td>
-</tr>
-</tbody>
-</table>
 
+#### Comandos Padrões (!Comando)
 
+| Comando | Efeito | Exemplo | Resposta do BanchoBot |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (usuário) | Mostra a localização do jogador especificado | !where John | John is in USA |
+| STATS (usuário) | Mostra o status do jogador especificado (baseado no chat atual aberto) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (palavra chave) (list) | Uso variado. [list] Lista de Comandos | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (razão) | Chama um Moderador de Chat | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Mostra mapas aleatórios do #modreqs. | !request | Seether - Fake It by [Dellirium] |
+| ROLL (número ou palavra chave) | Rola um dado (virtual) e recebe um número aleatório de 1 à 100 | !roll 9000 | John rolls 1337 point(s) |
+
+			

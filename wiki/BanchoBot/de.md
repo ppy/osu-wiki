@@ -18,42 +18,18 @@ Der Befehl "!help" für Hilfe
     -   Wenn sie den Befehl ohne dem Asterisk ("!") im BanchoBot-Tab verwenden, wird BanchoBot die Befehle trotzdem bearbeiten, so als wenn sie /bb am Anfang benutzt hätten.
 -   Sie können die asterisk-basierenden Befehle nur in öffentlichen Channeln oder im BanchoBot-Tab verwenden.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Standardbefehle (!COMMAND oder /bb COMMAND)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Befehl</p></td>
-</tr>
-<tr class="even">
-<td><p>SEARCH <Stichwort> (next/prev)</p></td>
-</tr>
-<tr class="odd">
-<td><p>WHERE <Benutzer></p></td>
-</tr>
-<tr class="even">
-<td><p>STATS <Benutzer></p></td>
-</tr>
-<tr class="odd">
-<td><p>RANK <Zahl></p></td>
-</tr>
-<tr class="even">
-<td><p>FAQ &lt;L.code&gt;<item> (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>REPORT <Benutzer> <Grund></p></td>
-</tr>
-<tr class="even">
-<td><p>REQUEST (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>ROLL <Zahl></p></td>
-</tr>
-</tbody>
-</table>
+
+#### Standardbefehle (!COMMAND oder /bb COMMAND)
+
+| Befehl | Effekt | Beispiel | BanchoBots Rückmeldung |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (Benutzer) | Zeigt das Land an, in dem der Spieler ist | !where John | John is in USA |
+| STATS (Benutzer) | Zeigt den Status des Spielers an (basierend auf den Panel des Spielers) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (L.code)(item) (list) | Verschiedene Verwendung. [list] Liste mit allen benutzbaren Befehlen | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (Grund) | Ruf einen Moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Zeigt zufällig eines der vorherigen Mod-Anfragen an. [list] Zeigt 5 zufällige, vorherig getätigte Mod-Anfragen an | !request | Seether - Fake It by [Dellirium] |
+| ROLL (Zahl) | Rollt einen (virtuellen) Würfel und gibt einen zufälligen Wert zwischen 1 und <Zahl> (Standardmäßig 100) | !roll 9000 | John rolls 1337 point(s) |
+
 
 Trivialitäten
 =============

@@ -14,10 +14,14 @@ Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
 Cada uma dessas seções possuem 4 volumes.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <File:Achievement> - Video Game Pack vol1.png|Video Game Pack vol.1 <File:Achievement> - Anime Pack vol1.png|Anime Pack vol.1 <File:Achievement> - Internet! Pack vol1.png|Internet! Pack vol.1 <File:Achievement> - Rhythm Game Pack vol1.png|Rhythm Game Pack vol.1 <File:Achievement> - Video Game Pack vol2.png|Video Game Pack vol.2 <File:Achievement> - Anime Pack vol2.png|Anime Pack vol.2 <File:Achievement> - Internet! Pack vol2.png|Internet! Pack vol.2 <File:Achievement> - Rhythm Game Pack vol2.png|Rhythm Game Pack vol.2 <File:Achievement> - Video Game Pack vol3.png|Video Game Pack vol.3 <File:Achievement> - Anime Pack vol3.png|Anime Pack vol.3 <File:Achievement> - Internet! Pack vol3.png|Internet! Pack vol.3 <File:Achievement> - Rhythm Game Pack vol3.png|Rhythm Game Pack vol.3 <File:Achievement> - Video Game Pack vol4.png|Video Game Pack vol.4 <File:Achievement> - Anime Pack vol4.png|Anime Pack vol.4 <File:Achievement> - Internet! Pack vol4.png|Internet! Pack vol.4 <File:Achievement> - Rhythm Game Pack vol4.png|Rhythm Game Pack vol.4 |
-||
+
+| Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
+| --------------- | ---------- | -------------- | ---------------- |
+| ![Video Game Pack vol.1](Video Game Pack vol1.png) | ![Anime Pack vol.1](Anime Pack vol1.png) | ![Internet Pack vol.1](Internet! Pack vol1.png) | ![Rhythm Pack vol.1](Rhythm Game Pack vol1.png) |
+| ![Video Game Pack vol.2](Video Game Pack vol2.png) | ![Anime Pack vol.2](Anime Pack vol2.png) | ![Internet Pack vol.2](Internet! Pack vol2.png) | ![Rhythm Pack vol.2](Rhythm Game Pack vol2.png) |
+| ![Video Game Pack vol.3](Video Game Pack vol3.png) | ![Anime Pack vol.3](Anime Pack vol3.png) | ![Internet Pack vol.3](Internet! Pack vol3.png) | ![Rhythm Pack vol.3](Rhythm Game Pack vol3.png) |
+| ![Video Game Pack vol.4](Video Game Pack vol4.png) | ![Anime Pack vol.4](Anime Pack vol4.png) | ![Internet Pack vol.4](Internet! Pack vol4.png) | ![Rhythm Pack vol.4](Rhythm Game Pack vol4.png) |
+
 
 Combo
 -----
@@ -26,52 +30,34 @@ As conquistas de **Combo** podem ser obtidas por conseguir um número específic
 
 Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approved ao invés de ranked. Não procure por beatmaps não aprovados.
 
-|                                                                                                                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <File:Achievement> - 500 Combo (Any Song).png|500 Combo (qualquer música) <File:Achievement> - 750 Combo (Any Song).png|750 Combo (qualquer música) <File:Achievement> - 1000 Combo (Any Song).png|1000 Combo (qualquer música) <File:Achievement> - 2000 Combo (Any Song).png|2000 Combo (qualquer música) |
-||
+| Combo | The High Ranker |
+| ----- | --------------- |
+| ![500 Combo (any song)](Achievement_-_500_Combo_(Any_Song).png) | ![The Highranker Lvl1](Achievement_-_Highranker_Lvl1.png) |
+| ![750 Combo (any song)](Achievement_-_750_Combo_(Any_Song).png) | ![The Highranker Lvl2](Achievement_-_Highranker_Lvl2.png) |
+| ![1000 Combo (any song)](Achievement_-_1000_Combo_(Any_Song).png) | ![The Highranker Lvl3](Achievement_-_Highranker_Lvl3.png) |
+| ![2000 Combo (any song)](Achievement_-_2000_Combo_(Any_Song).png) | ![AThe Highranker Lvl4](Achievement_-_Highranker_Lvl4.png) |
 
 Dedication
 ----------
 
 As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](Catch_the_Beat "wikilink") acertar várias vezes os "tambores" do modo [Taiko](Taiko "wikilink") / pressionando varias teclas em [osu!mania](PT:Osu!mania "wikilink")
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="File:Achievement" class="uri">File:Achievement</a> - 5,000 Plays (osu! mode).png|5,000 Plays (osu!standard) <a href="File:Achievement" class="uri">File:Achievement</a> - 15,000 Plays (osu! mode).png|15,000 Plays (osu!standard) <a href="File:Achievement" class="uri">File:Achievement</a> - 25,000 Plays (osu! mode).png|25,000 Plays (osu!standard) <a href="File:Achievement" class="uri">File:Achievement</a> - 50,000 Plays (osu! mode).png|50,000 Plays (osu!standard)</p>
-<p><a href="File:Achievement" class="uri">File:Achievement</a> - Catch 20,000 fruits.png|Pegue 20,000 frutas <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 200,000 fruits.png|Pegue 200,000 frutas <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 2,000,000 fruits.png|Pegue 2,000,000 frutas <a href="File:Achievement" class="uri">File:Achievement</a> - 30,000 Drum Hits.png|30,000 Acertos <a href="File:Achievement" class="uri">File:Achievement</a> - 300,000 Drum Hits.png|300,000 Acertos <a href="File:Achievement" class="uri">File:Achievement</a> - 3,000,000 Drum Hits.png|3,000,000 Acertos <a href="File:Achievement" class="uri">File:Achievement</a> - 40,000 Keys.png|40,000 Teclas<br />
-(Adicionado em 28/05/2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 400,000 Keys.png|400,000 Teclas<br />
-(Adicionado em 28/05/2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 4,000,000 Keys.png|4,000,000 Teclas<br />
-(Adicionado em 28/05/2013)</p></td>
-</tr>
-<tr class="even">
-</tr>
-</tbody>
-</table>
+| Standard | Taiko | Catch the Beat | Mania |
+| -------- | ----- | -------------- | ----- |
+| ![5,000 Plays (osu! mode)](5,000 Plays (osu! mode).png) | ![30,000 Drum Hits](30,000 Drum Hits.png) | ![Catch 20,000 fruits](Catch 20,000 fruits.png) | ![40,000 Keys](40,000 Keys.png) |
+| ![15,000 Plays (osu! mode)](15,000 Plays (osu! mode).png) | ![300,000 Drum Hits](300,000 Drum Hits.png) | ![Catch 200,000 fruits](Catch 200,000 fruits.png) | ![400,000 Keys](400,000 Keys.png) |
+| ![25,000 Plays (osu! mode)](25,000 Plays (osu! mode).png) | ![3,000,000 Drum Hits](3,000,000 Drum Hits.png) | ![Catch 2,000,000 fruits](Catch 2,000,000 fruits.png) | ![4,000,000 Keys](4,000,000 Keys.png) |
+| ![50,000 Plays (osu! mode)](50,000 Plays (osu! mode).png) | | | |
 
 Hush-Hush
 ---------
 
 Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador, por conta própria, precisa descobrir o que ele precisa fazer para conseguir a conquista. Revelar o método de obter essas conquistas **resultará em banimento**. O próprio título delas são dicas.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="File:Achievement" class="uri">File:Achievement</a> - Don't let the bunny distract you!.png|Don't let the bunny distract you! <a href="File:Achievement" class="uri">File:Achievement</a> - S-Ranker.png|S-Ranker <a href="File:Achievement" class="uri">File:Achievement</a> - Most Improved.png|Most Improved <a href="File:Achievement" class="uri">File:Achievement</a> - Non-stop Dancer.png|Non-stop Dancer <a href="File:Achievement" class="uri">File:Achievement</a> - Consolation Prize.png|Consolation Prize<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Challenge Accepted.png|Challenge Accepted<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Stumbler.png|Stumbler<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Jackpot.png|Jackpot<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Quick Draw.png|Quick Draw<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Obsessed.png|Obsessed<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Nonstop.png|Nonstop<br />
-(Adicionado em Abril de 2012) <a href="File:Achievement" class="uri">File:Achievement</a> - Jack of All Trades.png|Jack of All Trades<br />
-(Adicionado em Abril de 2012)</p></td>
-</tr>
-<tr class="even">
-</tr>
-</tbody>
-</table>
+| ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
+| ----------------| ------------------| --------------| ---------------|
+| ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
+| ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 
 Link
 ----
