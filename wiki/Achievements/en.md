@@ -43,14 +43,12 @@ Each of these sections currently have 4 volumes to them.
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | --------------- | ---------- | -------------- | ---------------- |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| ![Video Game Pack vol.1](Video Game Pack vol1.png) | ![Anime Pack vol.1](Anime Pack vol1.png) | ![Internet Pack vol.1](Internet! Pack vol1.png) | ![Rhythm Pack vol.1](Rhythm Game Pack vol1.png) |
+| ![Video Game Pack vol.2](Video Game Pack vol2.png) | ![Anime Pack vol.2](Anime Pack vol2.png) | ![Internet Pack vol.2](Internet! Pack vol2.png) | ![Rhythm Pack vol.2](Rhythm Game Pack vol2.png) |
+| ![Video Game Pack vol.3](Video Game Pack vol3.png) | ![Anime Pack vol.3](Anime Pack vol3.png) | ![Internet Pack vol.3](Internet! Pack vol3.png) | ![Rhythm Pack vol.3](Rhythm Game Pack vol3.png) |
+| ![Video Game Pack vol.4](Video Game Pack vol4.png) | ![Anime Pack vol.4](Anime Pack vol4.png) | ![Internet Pack vol.4](Internet! Pack vol4.png) | ![Rhythm Pack vol.4](Rhythm Game Pack vol4.png) |
 
 
-| <File:Achievement> - Video Game Pack vol1.png|Video Game Pack vol.1 <File:Achievement> - Anime Pack vol1.png|Anime Pack vol.1 <File:Achievement> - Internet! Pack vol1.png|Internet! Pack vol.1 <File:Achievement> - Rhythm Game Pack vol1.png|Rhythm Game Pack vol.1 <File:Achievement> - Video Game Pack vol2.png|Video Game Pack vol.2 <File:Achievement> - Anime Pack vol2.png|Anime Pack vol.2 <File:Achievement> - Internet! Pack vol2.png|Internet! Pack vol.2 <File:Achievement> - Rhythm Game Pack vol2.png|Rhythm Game Pack vol.2 <File:Achievement> - Video Game Pack vol3.png|Video Game Pack vol.3 <File:Achievement> - Anime Pack vol3.png|Anime Pack vol.3 <File:Achievement> - Internet! Pack vol3.png|Internet! Pack vol.3 <File:Achievement> - Rhythm Game Pack vol3.png|Rhythm Game Pack vol.3 <File:Achievement> - Video Game Pack vol4.png|Video Game Pack vol.4 <File:Achievement> - Anime Pack vol4.png|Anime Pack vol.4 <File:Achievement> - Internet! Pack vol4.png|Internet! Pack vol.4 <File:Achievement> - Rhythm Game Pack vol4.png|Rhythm Game Pack vol.4 |
-||
 
 Skill
 =====
