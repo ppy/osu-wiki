@@ -57,7 +57,7 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 Spoiling the method on how to unlock these specific achievements *will result in a ban.* The title itself is a clue.
 
 | ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
-| ----------------| ------------------| --------------| ---------------| -----------------|
+| ----------------| ------------------| --------------| ---------------|
 | ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
 | ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 

@@ -59,7 +59,7 @@ Los logros de este tipo tienen una forma clara de llegar a ellos. El propio juga
 `El propio título es una pista sobre como obtener estos logros. `
 
 | ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
-| ----------------| ------------------| --------------| ---------------| -----------------|
+| ----------------| ------------------| --------------| ---------------|
 | ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
 | ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 

@@ -36,7 +36,7 @@ Hush-Hush
 Achievement ini tidak memiliki cara yang jelas untuk mendapatkannya. Pemain tersebut harus mencari tahu apa yang harus dia lakukan untuk membuka Achievement tersebut. Memberi tahu seseorang tentang bagaimana cara untuk membuka Achievement ini *akan diberi Peringatan/Larangan.* Judul dari Achievement itu adalah sebuah petunjuk untuk membukanya.
 
 | ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
-| ----------------| ------------------| --------------| ---------------| -----------------|
+| ----------------| ------------------| --------------| ---------------|
 | ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
 | ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 

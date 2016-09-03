@@ -55,7 +55,7 @@ Hush-Hush
 Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador, por conta própria, precisa descobrir o que ele precisa fazer para conseguir a conquista. Revelar o método de obter essas conquistas **resultará em banimento**. O próprio título delas são dicas.
 
 | ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
-| ----------------| ------------------| --------------| ---------------| -----------------|
+| ----------------| ------------------| --------------| ---------------|
 | ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
 | ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 
