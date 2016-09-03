@@ -15,12 +15,12 @@ Appearance and task
 
 | COMMAND | Effect | Example | BanchoBot response |
 | ------- | ------ | ------- | ------------------ |
-| WHERE <user> | Shows location of stated player | !where John | John is in USA |
-| STATS <user> | Shows status of stated player (based on current player tab) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
-| FAQ <L.code><item> (list) | Various usage. [list] List of usable commands. | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT <reason> | Call for a moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| WHERE (user) | Shows location of stated player | !where John | John is in USA |
+| STATS (user) | Shows status of stated player (based on current player tab) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (L.code)(item) (list) | Various usage. [list] List of usable commands. | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (reason) | Call for a moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | Show a random recent mod request. / [list] Shows 5 random recent mod requests. | !request | Seether - Fake It by [Dellirium] |
-| ROLL <number> | Roll a (virtual) dice and get random result from 1 to <number>(default 100) | !roll 9000 | John rolls 1337 point(s) |
+| ROLL (number) | Roll a (virtual) dice and get random result from 1 to (number) (default 100) | !roll 9000 | John rolls 1337 point(s) |
 
 Notes:
 
