@@ -16,41 +16,16 @@ Apparence et tâches
 -   Le point d'exclamation devant chaque commande peut être remplacé par **/bb**.
 -   A moins que vous soyez membre du Staff, vous ne pouvez pas utiliser les commandes de BanchoBot en dehors de son onglet.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Commandes standard (à placer devant un &quot;!&quot; ou &quot;/bb&quot;)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Commande</p></td>
-</tr>
-<tr class="even">
-<td><p>search <mot-clé> (next/prev)</p></td>
-</tr>
-<tr class="odd">
-<td><p>where <pseudo></p></td>
-</tr>
-<tr class="even">
-<td><p>stats <pseudo></p></td>
-</tr>
-<tr class="odd">
-<td><p>rank <place></p></td>
-</tr>
-<tr class="even">
-<td><p>faq &lt;L.code&gt;<objet> (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>report <raison></p></td>
-</tr>
-<tr class="even">
-<td><p>request (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>roll <nombre></p></td>
-</tr>
-</tbody>
-</table>
+#### Commandes standard (à placer devant un ! ou /bb)
+
+| Commande | Effet | Exemple | Réponse de BanchoBot |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (pseudo) | Montre l'emplacement géographique d'un joueur | !where John | John is in USA |
+| STATS (pseudo) | Montre les statistiques d'un joueur (selon son étiquette) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (L.code)(item) (list) | Usages variés. [list] Liste des paramètres utilisables | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (reason) | Appelle un modérateur. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | 	Affiche une récente requête pour modding au hasard. [list] Affiche les 5 dernières requêtes pour modding. | !request | Seether - Fake It by [Dellirium] |
+| ROLL (nombre) | Ecrit un chiffre au hasard compris entre 1 et le nombre tapé (100 par défaut) | !roll 9000 | John rolls 1337 point(s) |
+
 
 

@@ -9,10 +9,10 @@ Mode Standar
 
 Di mode [Standar](Standar "wikilink"), akurasi dihitung dengan mempertimbangkan akurasi yang diperoleh di setiap objek berdasarkan jumlah poin objek yang diperoleh dibagi dengan jumlah poin objek secara keseluruhan. Atau dalam kata lain:
 
-| colspan=2|Akurasi = Poin objek keseluruhan yang diperoleh / (Jumlah poin dari objek \* 300) |
-|---------------------------------------------------------------------------------------------|
-| Jumlah poin objek yang diperoleh                                                            |
-| Jumlah poin objek secara keseluruhan                                                        |
+| *Variables* | Akurasi = Poin objek keseluruhan yang diperoleh / (Jumlah poin dari objek * 300) |
+| ------------| -------------------------------------------------------------------------------- |
+| Jumlah poin objek yang diperoleh | (Jumlah 50 * 50 + Jumlah 100 * 100 + Jumlah 300 * 300) |
+| Jumlah poin objek secara keseluruhan | (Jumlah miss + Jumlah 50 + Jumlah 100 + Jumlah 300) |
 
 Untuk referensi: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
@@ -21,29 +21,29 @@ Mode Taiko
 
 Di mode [Taiko](ID:Taiko "wikilink"), akurasi sebuah lagu dihitung berdasarkan akurasi semua objek dibagi dengan jumlah objek keseluruhan. HEBAT (良/Ryō) dihitung sebagai 100%, BAGUS (可/Kě) sebagai 50% (sebagian) dan MISS (不可/Bùkě) sebagai 0% (yang memutuskan kombo). **Drumrolls** dan putaran tidak mempengaruhi akurasi.
 
-| colspan=2|Akurasi = Jumlah poin objek yang diperoleh / (Jumlah poin objek secara keseluruhan \* 300) |
-|------------------------------------------------------------------------------------------------------|
-| Jumlah poin objek yang diperoleh                                                                     |
-| Jumlah poin objek secara keseluruhan                                                                 |
+| *Variables* | Akurasi = Jumlah poin objek yang diperoleh / (Jumlah poin objek secara keseluruhan * 300) |
+| ------------| ----------------------------------------------------------------------------------------- |
+| Jumlah poin objek yang diperoleh | (Jumlah Miss * 0% + Jumlah 100(BAGUS) * 50% + Jumlah 300(HEBAT) * 100%) |
+| Jumlah poin objek secara keseluruhan | (Jumlah Miss + Jumlah 100 + Jumlah 300) |
 
 Mode Catch the Beat
 -------------------
 
 Di mode [Catch the Beat](ID:Catch_the_Beat "wikilink"), akurasi lagu dihitung berdasarkan jumlah objek non-putaran yang diperoleh dibagi dengan jumlah objek non-putaran secara keseluruhan; buah, objek yang besar, dan objek yang kecil semuanya mempunyai nilai yang sama.
 
-| colspan=2|Akurasi = Jumlah buah yang ditangkap / Jumlah buah secara keseluruhan |
-|---------------------------------------------------------------------------------|
-| Kondisi                                                                         |
+| *Variables* | Akurasi = Jumlah buah yang ditangkap / Jumlah buah secara keseluruhan |
+| ------------| --------------------------------------------------------------------- |
+| Kondisi | "" (<i>Spinner Fruit</i>/Buah Putaran) tidak dihitung. |
 
 Mode osu!mania
 --------------
 
 Akurasi pada mode ini dihitung kurang lebih sama dengan mode [Standar](Standar "wikilink").
 
-| colspan=2|Akurasi = Jumlah objek yang diperoleh / (Jumlah objek secara keseluruhan \* 300) |
-|--------------------------------------------------------------------------------------------|
-| Jumlah objek yang diperoleh                                                                |
-| Jumlah objek secara keseluruhan                                                            |
+| *Variables* | Akurasi = Jumlah objek yang diperoleh / (Jumlah objek secara keseluruhan * 300) |
+| ------------| ------------------------------------------------------------------------------- |
+| Jumlah objek yang diperoleh | (Jumlah 50 * 50 + Jumlah 100 * 100 + Jumlah 200 * 200 + Jumlah 300 * 300 + Jumlah MAKS * 300) |
+| Jumlah objek secara keseluruhan | (Jumlah miss + Jumlah 50 + Jumlah 100 + Jumlah 200 + Jumlah 300 + Jumlah MAKS) |
 
 Tolong dicatat bahwa MAKS dan 300 bernilai sama-sama maksimum untuk penghitungan akurasi, meskipun sebuah MAKS lebih bernilai dalam hal skor dibanding sebuah 300.
 
@@ -64,14 +64,19 @@ Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informas
 
 <img src="Accuracy TR.jpg" title="Grafik Performa" alt="Grafik Performa" width="500" />
 
-| colspan=2|Akurasi                       |
-|-----------------------------------------|
-| Error - Kesalahan                       |
-| Unstable Rate - Laju Ketidakstabilan    |
-| colspan=2|Putaran \[hanya osu!standar\] |
-| Speed - Kecepatan                       |
-| Unstable Rate - Laju Ketidakstabilan    |
-||
+#### Akurasi
+
+| Term | Meaning |
+| ---- | ------- |
+| Kesalahan | **Kedua nilai ini memrepresentasikan seberapa jauh ketukan yang terlalu cepat, dan seberapa jauh ketukan yang terlambat.** Semakin tinggi [nilai OD](../Song-Setup/en.md#Overall_Difficulty) sebuah beatmap yang kamu mainkan, nilai ini akan semakin rendah pula. |
+| Laju Ketidakstabilan | **Nilai ini merepresentasikan seberapa konsistenkah kamu dalam hal menekan objek ketukan**, dengan nilai yang lebih kecil lebih baik (pemain jago sering memiliki skor di bawah 150). Tolong diingat ini menandakan konsistensi, dan bukan akurasi, jadi jika kamu konsisten dalam menekan **15ms** lebih cepat kamu akan mendapatkan nilai yang hampir sama dengan menekan tepat waktu. Formula pada dasarnya adalah simpangan standar dari **hit error** (dalam milisekon) dikalikan dengan 10. |
+
+#### Putaran [hanya osu!standar]
+
+| Term | Meaning |
+| ---- | ------- |
+| Kecepatan | **Rata-rata kecepatan dalam memutar semua putaran dalam beatmap.** Maksimum adalah rpm (rounds per minute/putaran per menit) tertinggi yang diperoleh di dalam putaran sebuah beatmap. |
+| Laju Ketidakstabilan | **Nilai berdasarkan rata-rata simpangan maksimum.** Semakin rendah semakin baik. Formula tidak diketahui. |
 
 **Catatan**
 
