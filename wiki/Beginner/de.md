@@ -83,11 +83,11 @@ Mehr aus dem Spiel bekommen
 
 ### Globaler Offset
 
-Abhängig von dem Eingabegerät, kann es sein das du die Hitcirlces nicht wirklich mit dem Lied Synchron sind. Um dies zu verändern musst du den "Global Offset" in deinen Einstellungen anpassen. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+Abhängig von dem Eingabegerät, kann es sein das du die Hitcirlces nicht wirklich mit dem Lied Synchron sind. Um dies zu verändern musst du den "Global Offset" in deinen Einstellungen anpassen. Der Globale Offset verschiebt alle Hitcircles aller Beatmaps. Ein negativer Global Offset wird die HitCicles später anzeigen, ein positiver früher.
 
-In the Offset Wizard, which you can access from the Settings menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
+In dem Offset Assistenten, welchen du in den Einstellungen findest, wird ein Beispiel Lied abgespielt, sowie ein Metronom. Dukannst dann mit den Pfeiltasten (hoch und runter) oder mit deinen Mausrad der Offset anpassen, bis der Beat und Metronom perfekt Synchron sind.
 
-When you are playing a beatmap you will notice the Hit Error graph at the bottom of the screen. Hitting a note causes a white line to appear somewhere along it depending on how accurate you were. If all of your hits are to the left of the centre, try increasing your global offset slightly. If they are all on the right side, try decreasing it.
+Wenn du eine Beatmap spielst, wirst du den Hit Error Graphen auf der untereren Seite des Bildschirmes finden. Wenn du ein Hitcircle getroffen hast, wird die weiße lienie anzeigen ob du zu früh oder zu spät warst. Wenn die Treffer immer auf der linken Seite der weißen Linie auftauchen, sollstest dein Global Offset erhöhen, wenn auf der rechten Seite versuch es zu erniedrigen.
 
 Stelle deinen globalen Offset so, ein das du damit glücklich bist. Die richtige Einstllung wird dir hellfen, deine Genauigkeit zu verbessern!
 
