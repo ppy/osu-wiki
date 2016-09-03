@@ -82,7 +82,7 @@ Dedication
 <tbody>
 <tr class="odd">
 <td><p><a href="File:Achievement" class="uri">File:Achievement</a> - 5,000 Plays (osu! mode).png|5,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 15,000 Plays (osu! mode).png|15,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 25,000 Plays (osu! mode).png|25,000 Plays (osu! mode) <a href="File:Achievement" class="uri">File:Achievement</a> - 50,000 Plays (osu! mode).png|50,000 Plays (osu! mode)</p>
-<p><a href="File:Achievement" class="uri">File:Achievement</a> - Catch 20,000 fruits.png|Catch 20,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 200,000 fruits.png|Catch 200,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 2,000,000 fruits.png|Catch 2,000,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 30,000 Drum Hits.png|30,000 Drum Hits <a href="File:Achievement" class="uri">File:Achievement</a> - 300,000 Drum Hits.png|300,000 Drum Hits <a href="File:Achievement" class="uri">File:Achievement</a> - 3,000,000 Drum Hits.png|3,000,000 Drum Hits <a href="File:Achievement" class="uri">File:Achievement</a> - 40,000 Keys.png|40,000 Keys<br />
+<p><a href="File:Achievement" class="uri">File:Achievement</a> - Catch 20,000 fruits.png|Catch 20,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 200,000 fruits.png|Catch 200,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - Catch 2,000,000 fruits.png|Catch 2,000,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 30,000 fruits.png|30,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 300,000 fruits.png|300,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 3,000,000 fruits.png|3,000,000 fruits <a href="File:Achievement" class="uri">File:Achievement</a> - 40,000 Keys.png|40,000 Keys<br />
 (Added on May 28, 2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 400,000 Keys.png|400,000 Keys<br />
 (Added on May 28, 2013) <a href="File:Achievement" class="uri">File:Achievement</a> - 4,000,000 Keys.png|4,000,000 Keys<br />
 (Added on May 28, 2013)</p></td>
@@ -92,6 +92,13 @@ Dedication
 </tbody>
 </table>
 
+| Standard | Taiko | Catch the Beat | Mania |
+| -------- | ----- | -------------- | ----- |
+| ![5,000 Plays (osu! mode)](5,000 Plays (osu! mode).png) | ![30,000 Drum Hits](30,000 Drum Hits.png) | ![Catch 20,000 fruits](Catch 20,000 fruits.png) | ![40,000 Keys](40,000 Keys.png) |
+| ![15,000 Plays (osu! mode)](15,000 Plays (osu! mode).png) | ![300,000 Drum Hits](300,000 Drum Hits.png) | ![Catch 200,000 fruits](Catch 200,000 fruits.png) | ![400,000 Keys](400,000 Keys.png) |
+| ![25,000 Plays (osu! mode)](25,000 Plays (osu! mode).png) | ![3,000,000 Drum Hits](3,000,000 Drum Hits.png) | ![Catch 2,000,000 fruits](Catch 2,000,000 fruits.png) | ![4,000,000 Keys](4,000,000 Keys.png) |
+| ![50,000 Plays (osu! mode)](50,000 Plays (osu! mode).png) | | | |
+
 Hush-Hush
 =========
 
@@ -100,8 +107,8 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 
 | ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
 | ----------------| ------------------| --------------| ---------------| -----------------|
-| [Challenge Accepted](Challenge Accepted.png) | [Stumbler](Stumbler.png) | [Jackpot](Jackpot.png) | [Quick Draw](Quick Draw.png) |
-| [Obsessed](Obsessed.png) | [Nonstop](Nonstop.png) | [Jack of All Trades](Jack of All Trades.png) | [A meganekko approaches](Meganekko.png) |
+| ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
+| ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
 
 
 External Link
