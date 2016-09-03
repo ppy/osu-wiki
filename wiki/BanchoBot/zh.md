@@ -12,42 +12,17 @@
     -   在你跟BanchoBot私聊时，即使不使用叹号(“!”)，BanchoBot也会识别指令。
 -   您不能在非BanchoBot的私聊窗口使用叹号命令。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>基本命令 (!COMMAND or /bb COMMAND)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>命令</p></td>
-</tr>
-<tr class="even">
-<td><p>SEARCH <keyword> (next/prev)</p></td>
-</tr>
-<tr class="odd">
-<td><p>WHERE <user></p></td>
-</tr>
-<tr class="even">
-<td><p>STATS <user></p></td>
-</tr>
-<tr class="odd">
-<td><p>RANK <number></p></td>
-</tr>
-<tr class="even">
-<td><p>FAQ &lt;L.code&gt;<item> (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>REPORT <reason></p></td>
-</tr>
-<tr class="even">
-<td><p>REQUEST (list)</p></td>
-</tr>
-<tr class="odd">
-<td><p>ROLL <number></p></td>
-</tr>
-</tbody>
-</table>
+#### 基本命令 (!COMMAND or /bb COMMAND)
+
+| 命令 | 作用 | 例子 | BanchoBot 响应 |
+| ------- | ------ | ------- | ------------------ |
+| WHERE (user) | 指出玩家的位置 | !where John | John is in USA |
+| STATS (user) | 指出玩家的统计数据(根据目前的统计数据) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| FAQ (L.code)(item) (list) | 各种用途 [list] 可用命令列表 | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (reason) | 召唤管理员 | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | 随机显示一个最近MOD的要求。 [list] Shows 5 random recent mod request | !request | Seether - Fake It by [Dellirium] |
+| ROLL (number) | 滚骰子随机得到数字 从1到(编号) （默认100） | !roll 9000 | John rolls 1337 point(s) |
+
 
 注意:
 
