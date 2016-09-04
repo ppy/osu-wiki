@@ -16,7 +16,7 @@ osu!
 
 ### Skinning
 
-All skinning v1<sup>\[Citation\\ Needed\]</sup> and v2 elements from [*osu! by peppy*](https://osu.ppy.sh/forum/t/129191) are copyrighted under *(c) ppy Pty Ltd.* There are exceptions to this:
+All skinning v1\[Citation\\ Needed\] and v2 elements from [*osu! by peppy*](https://osu.ppy.sh/forum/t/129191) are copyrighted under *(c) ppy Pty Ltd.* There are exceptions to this:
 
 -   as stated within peppy's [*licence*](https://osu.ppy.sh/forum/t/129191), "*If you would like to use the resources outside of the scope provided above, please contact me at **pe@ppy.sh***"
 -   as stated within peppy's [*licence*](https://osu.ppy.sh/forum/t/129191), in general, you are granted to use the skin for *modification*, **BUT NOT** anywhere else on the web.

@@ -3,8 +3,7 @@ Basic Chat Console
 
 From most screens in osu! you can press F8 or click the "Show Chat" button on the lower right to overlay the Chat Console on the lower third of the screen.
 
-<center>
-</center>
+
 -   The tabs list the currently available channels. Simply click on a tab to move to that channel. Click New to display a list of new channels to join.
 -   The colors of the user names mean different things
 
@@ -30,8 +29,7 @@ Extended Chat Console
 
 From most screens in osu! you can press F9 or click the "Online Users" button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in osu!
 
-<center>
-</center>
+
 Each user logged in osu has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
 
 -   Friends only limits the display to your friends.
@@ -41,26 +39,25 @@ Each user logged in osu has a user panel displayed in Extended Chat. By default,
 -   You can click and drag on the white box to scroll, you can also use the mouse wheel.
 -   Users without stats in their panels are connected to chat using their IRC clients.
 
-<div id="panels" align="center">
-| <b>Legend</b>                                                                                             |
-|-----------------------------------------------------------------------------------------------------------|
-| 1. <b>Dark Blue</b> - Players is currently idle or not doing anything or just chatting.                   |
-| 2. <b>Gray</b> - Playing a beatmap in solo.                                                               |
-| 3. <b>Light Blue</b> - Watching a replay or spectating someone.                                           |
-| 4. <b>Red</b> - Editing their own beatmap.                                                                |
-| 5.<b>Purple</b> - Test playing a beatmap either it's their beatmap or not.                                |
-| 6. <b>Turquoise</b> - Submitting (either uploading or updating) the beatmap that they have made.          |
-| 7. <b>Green</b> - Modding or editing someone else's beatmap.                                              |
-| 8. <b>Brown</b> - User is in multiplayer, but not playing.                                                |
-| 9. <b>Yellow</b> - Currently playing in multiplayer.                                                      |
-| 10. <b>Black</b> - Inactive or away from keyboard (afk).                                                  |
-| 11. <b>Dark Blue</b> - Player is not ingame, but logged in from an IRC client or stats are not available. |
 
-</div>
+| **Legend**                                                                                             |
+|----------------------------------------------------------------------------------------------------|
+| 1. Dark Blue - Players is currently idle or not doing anything or just chatting.                   |
+| 2. Gray - Playing a beatmap in solo.                                                               |
+| 3. Light Blue - Watching a replay or spectating someone.                                           |
+| 4. Red - Editing their own beatmap.                                                                |
+| 5.Purple - Test playing a beatmap either it's their beatmap or not.                                |
+| 6. Turquoise - Submitting (either uploading or updating) the beatmap that they have made.          |
+| 7. Green - Modding or editing someone else's beatmap.                                              |
+| 8. Brown - User is in multiplayer, but not playing.                                                |
+| 9. Yellow - Currently playing in multiplayer.                                                      |
+| 10. Black - Inactive or away from keyboard (afk).                                                  |
+| 11. Dark Blue - Player is not ingame, but logged in from an IRC client or stats are not available. |
+
+
 Clicking on any user panel brings up an options screen.
 
-<center>
-</center>
+
 Press the number or click the bar to activate:-
 
 1.  **Start Spectating**: If the user is playing a beatmap and you have the beatmap, you can watch them while they play. Your name will be in their Spectators list.

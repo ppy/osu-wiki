@@ -1,14 +1,14 @@
 [*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/forum/t/24443)
 
-This is until osz2 will be implemented.
+This is until osz2 will be *implemented*.
 
 When changing the **title or artist** in a map, a problem may occur in which you may not be able to submit it without making a duplicate map.
 
-<span style="color:#FF4000;">**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**</span>
+**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
 
 To fix a duplicating map, do the following:
 
-Easy Method (don't have any local changes):
+Easy Method _(don't have any local changes)_:
 
 1.  Delete local copy of map.
 2.  Download copy from osu! website.
@@ -18,7 +18,7 @@ Easy Method (don't have any local changes):
 6.  Use **File &gt; Open...** to change the Artist/Title in other difficulties.
 7.  Full Submit.
 
-Hard Method (keep local changes):
+Hard Method _(keep local changes)_:
 
 1.  Goto the beatmap info page on the osu! site for your map (http://osu.ppy.sh/b/xxxx -- NOT the forum thread).
 2.  Open song setup for each difficulty and set the artist/title back to what is on the website.
@@ -31,4 +31,4 @@ Hard Method (keep local changes):
 
 If you have any duplicated maps, please contact a BAT for resolution.
 
-<span style="color:#FF4000;">**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**</span>
+**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
