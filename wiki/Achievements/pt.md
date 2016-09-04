@@ -54,15 +54,15 @@ Hush-Hush
 
 Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador, por conta própria, precisa descobrir o que ele precisa fazer para conseguir a conquista. Revelar o método de obter essas conquistas **resultará em banimento**. O próprio título delas são dicas.
 
-| ![Don't let the bunny distract you!](all-secret-bunny.png)<br>Don't let the bunny distract you! | ![S-Ranker](all-secret-rank-s.png)<br>S-Ranker | ![Most Improved](all-secret-improved.png)<br>Most Improved | ![Non-stop Dancer](all-secret-dancer.png)<br>Non-stop Dancer |
+| ![Don't let the bunny distract you!](all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](all-secret-rank-s.png "S-Ranker") | ![Most Improved](all-secret-improved.png "Most Improved") | ![Non-stop Dancer](all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
-| ![Consolation Prize](all-secret-consolation_prize.png)<br>**Consolation Prize** | ![Challenge Accepted](all-secret-challenge_accepted.png)<br>**Challenge Accepted** | ![Stumbler](all-secret-stumbler.png)<br>**Stumbler** | ![Jackpot](all-secret-jackpot.png)<br>**Jackpot** |
-| ![Quick Draw](all-secret-quick_draw.png)<br>**Quick Draw** | ![Obsessed](all-secret-obsessed.png)<br>**Obsessed** | ![Non-stop](all-secret-nonstop.png)<br>**Non-stop** | ![Jack of All Trades](all-secret-jack.png)<br>**Jack of All Trades** |
-| ![A Meganekko Approaches](mania-secret-meganekko.png)<br>**A Meganekko Approaches** | ![Perseverance](all-secret-perseverance.png)<br>**Perseverance** | ![Feel the Burn](all-secret-ftb.png)<br>**Feel the Burn** | ![Time Dilation](all-secret-tidi.png)<br>**Time Dilation** |
-| ![Just One Second](all-secret-onesecond.png)<br>**Just One Second** | ![Afterimage](osu-secret-afterimage.png)<br>**Afterimage** |![To The Core](all-secret-tothecore.png)<br>**To The Core** |![Prepared](all-secret-prepared.png)<br>**Prepared** |
-| ![Eclipse](osu-secret-eclipse.png)<br>**Eclipse** | ![Reckless Abandon](all-secret-reckless.png)<br>**Reckless Abandon** |![Tunnel Vision](osu-secret-tunnelvision.png)<br>**Tunnel Vision** |![Behold No Deception](osu-secret-deception.png)<br>**Behold No Deception** |
-| ![Up For The Challenge](all-secret-challenge.png)<br>**Up For The Challenge** | ![Lights Out](all-secret-lightsout.png)<br>**Lights Out** |![Unstoppable](osu-secret-superhardhddt.png)<br>**Unstoppable** |![Is This Real Life?](osu-secret-supersuperhardhddt.png)<br>**Is This Real Life?** |
-| ![Camera Shy](all-secret-uguushy.png)<br>**Camera Shy** | ![The Sum Of All Fears](all-secret-nuked.png)<br>**The Sum Of All Fears** |![Dekasight](osu-secret-deka.png)<br>**Dekasight** | |
+| ![Consolation Prize](all-secret-consolation_prize.png "Consolation Prize") | ![Challenge Accepted](all-secret-challenge_accepted.png "Challenge Accepted") | ![Stumbler](all-secret-stumbler.png "Stumbler") | ![Jackpot](all-secret-jackpot.png "Jackpot") |
+| ![Quick Draw](all-secret-quick_draw.png "Quick Draw") | ![Obsessed](all-secret-obsessed.png "Obsessed") | ![Non-stop](all-secret-nonstop.png "Non-stop") | ![Jack of All Trades](all-secret-jack.png "Jack of All Trades") |
+| ![A Meganekko Approaches](mania-secret-meganekko.png "A Meganekko Approaches") | ![Perseverance](all-secret-perseverance.png "Perseverance") | ![Feel the Burn](all-secret-ftb.png "Feel the Burn") | ![Time Dilation](all-secret-tidi.png "Time Dilation") |
+| ![Just One Second](all-secret-onesecond.png "Just One Second") | ![Afterimage](osu-secret-afterimage.png "Afterimage") |![To The Core](all-secret-tothecore.png "To The Core") |![Prepared](all-secret-prepared.png "Prepared") |
+| ![Eclipse](osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](osu-secret-deception.png "Behold No Deception") |
+| ![Up For The Challenge](all-secret-challenge.png "Up For The Challenge") | ![Lights Out](all-secret-lightsout.png "Lights Out") |![Unstoppable](osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](osu-secret-supersuperhardhddt.png "Is This Real Life?") |
+| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") | |
 
 Link
 ----

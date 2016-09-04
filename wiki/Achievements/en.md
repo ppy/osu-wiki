@@ -99,11 +99,13 @@ Mod Introduction
 **The Mod Introduction** achievements can be obtained by clearing maps with the specified game modifier. They're meant to encourage newer players to try out each mod and explore what the game has to offer.
 
 
-| ![Auto Pilot](all-intro-autopilot.png)<br>Auto Pilot | ![Double Time](all-intro-doubletime.png)<br>Double Time | ![Easy](all-intro-easy.png)<br>Easy | ![Flashlight](all-intro-flashlight.png)<br>Flashlight |
-| :---: | :---: | :---: | :---: |
-| ![Half Time](all-intro-halftime.png)<br>**Half Time** | ![Hard Rock](all-intro-hardrock.png)<br>**Hard Rock** | ![Hidden](all-intro-hidden.png)<br>**Hidden** | ![Nightcore](all-intro-nightcore.png)<br>**Nightcore** |
-| ![No Fail](all-intro-nofail.png)<br>**No Fail** | ![Perfect](all-intro-perfect.png)<br>**Perfect** | ![Relax](all-intro-relax.png)<br>**Relax** | ![Spun Out](all-intro-spunout.png)<br>**Spun Out** |
-| ![Sudden Death](all-intro-suddendeath.png)<br>**Sudden Death** | | | |
+| Difficulty Increasing | Difficulty Reducing | Special |
+| :---- | :---: | :---: |
+| ![Hard Rock](all-intro-hardrock.png "Hard Rock") | ![Easy](all-intro-easy.png "Easy") | ![Auto Pilot](all-intro-autopilot.png "Auto Pilot") |
+| ![Double Time](all-intro-doubletime.png "Double Time") ![Nightcore](all-intro-nightcore.png "Nightcore") | ![Half Time](all-intro-halftime.png "Half Time") | ![Relax](all-intro-relax.png "Relax") |
+| ![Flashlight](all-intro-flashlight.png "Flashlight") | ![No Fail](all-intro-nofail.png "No Fail") | ![Spun Out](all-intro-spunout.png "Spun Out") |
+| ![Hidden](all-intro-hidden.png "Hidden") | | |
+| ![Sudden Death](all-intro-suddendeath.png "Sudden Death") ![Perfect](all-intro-perfect.png "Perfect") | | |
 
 
 Hush-Hush
@@ -112,15 +114,15 @@ Hush-Hush
 Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement. The title itself is a clue.
 
 
-| ![Don't let the bunny distract you!](all-secret-bunny.png)<br>Don't let the bunny distract you! | ![S-Ranker](all-secret-rank-s.png)<br>S-Ranker | ![Most Improved](all-secret-improved.png)<br>Most Improved | ![Non-stop Dancer](all-secret-dancer.png)<br>Non-stop Dancer |
+| ![Don't let the bunny distract you!](all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](all-secret-rank-s.png "S-Ranker") | ![Most Improved](all-secret-improved.png "Most Improved") | ![Non-stop Dancer](all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
-| ![Consolation Prize](all-secret-consolation_prize.png)<br>**Consolation Prize** | ![Challenge Accepted](all-secret-challenge_accepted.png)<br>**Challenge Accepted** | ![Stumbler](all-secret-stumbler.png)<br>**Stumbler** | ![Jackpot](all-secret-jackpot.png)<br>**Jackpot** |
-| ![Quick Draw](all-secret-quick_draw.png)<br>**Quick Draw** | ![Obsessed](all-secret-obsessed.png)<br>**Obsessed** | ![Non-stop](all-secret-nonstop.png)<br>**Non-stop** | ![Jack of All Trades](all-secret-jack.png)<br>**Jack of All Trades** |
-| ![A Meganekko Approaches](mania-secret-meganekko.png)<br>**A Meganekko Approaches** | ![Perseverance](all-secret-perseverance.png)<br>**Perseverance** | ![Feel the Burn](all-secret-ftb.png)<br>**Feel the Burn** | ![Time Dilation](all-secret-tidi.png)<br>**Time Dilation** |
-| ![Just One Second](all-secret-onesecond.png)<br>**Just One Second** | ![Afterimage](osu-secret-afterimage.png)<br>**Afterimage** |![To The Core](all-secret-tothecore.png)<br>**To The Core** |![Prepared](all-secret-prepared.png)<br>**Prepared** |
-| ![Eclipse](osu-secret-eclipse.png)<br>**Eclipse** | ![Reckless Abandon](all-secret-reckless.png)<br>**Reckless Abandon** |![Tunnel Vision](osu-secret-tunnelvision.png)<br>**Tunnel Vision** |![Behold No Deception](osu-secret-deception.png)<br>**Behold No Deception** |
-| ![Up For The Challenge](all-secret-challenge.png)<br>**Up For The Challenge** | ![Lights Out](all-secret-lightsout.png)<br>**Lights Out** |![Unstoppable](osu-secret-superhardhddt.png)<br>**Unstoppable** |![Is This Real Life?](osu-secret-supersuperhardhddt.png)<br>**Is This Real Life?** |
-| ![Camera Shy](all-secret-uguushy.png)<br>**Camera Shy** | ![The Sum Of All Fears](all-secret-nuked.png)<br>**The Sum Of All Fears** |![Dekasight](osu-secret-deka.png)<br>**Dekasight** | |
+| ![Consolation Prize](all-secret-consolation_prize.png "Consolation Prize") | ![Challenge Accepted](all-secret-challenge_accepted.png "Challenge Accepted") | ![Stumbler](all-secret-stumbler.png "Stumbler") | ![Jackpot](all-secret-jackpot.png "Jackpot") |
+| ![Quick Draw](all-secret-quick_draw.png "Quick Draw") | ![Obsessed](all-secret-obsessed.png "Obsessed") | ![Non-stop](all-secret-nonstop.png "Non-stop") | ![Jack of All Trades](all-secret-jack.png "Jack of All Trades") |
+| ![A Meganekko Approaches](mania-secret-meganekko.png "A Meganekko Approaches") | ![Perseverance](all-secret-perseverance.png "Perseverance") | ![Feel the Burn](all-secret-ftb.png "Feel the Burn") | ![Time Dilation](all-secret-tidi.png "Time Dilation") |
+| ![Just One Second](all-secret-onesecond.png "Just One Second") | ![Afterimage](osu-secret-afterimage.png "Afterimage") |![To The Core](all-secret-tothecore.png "To The Core") |![Prepared](all-secret-prepared.png "Prepared") |
+| ![Eclipse](osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](osu-secret-deception.png "Behold No Deception") |
+| ![Up For The Challenge](all-secret-challenge.png "Up For The Challenge") | ![Lights Out](all-secret-lightsout.png "Lights Out") |![Unstoppable](osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](osu-secret-supersuperhardhddt.png "Is This Real Life?") |
+| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") | |
 
 
 External Link
