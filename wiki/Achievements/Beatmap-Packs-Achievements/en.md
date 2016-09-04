@@ -21,19 +21,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-1]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [Beat Crusaders - Hit in the USA](http://osu.ppy.sh/s/35)
+* [Chieco Kawabe - Sakura Kiss](http://osu.ppy.sh/s/147)
+* [Hirano Aya - Hare Hare Yukai](http://osu.ppy.sh/s/301)
+* [Access - Doubt & Trust](http://osu.ppy.sh/s/442)
+* [Pokemon - Pokerap](http://osu.ppy.sh/s/551)
+* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584) 
+* [Manzo - My-Pace Daiou](http://osu.ppy.sh/s/842)
+* [Younha - Houkiboshi](http://osu.ppy.sh/s/897)
+* [Miwako Okuda - Shizuku](http://osu.ppy.sh/s/1005)
+* [Neon Genesis Evangelion - Cruel Angel's Thesis](http://osu.ppy.sh/s/1377)
+* [Suemitsu & The Suemith - Allegro Cantabile](http://osu.ppy.sh/s/1414)
+* [Excel Girls - Ai (Chuuseishin)](http://osu.ppy.sh/s/1464)
+* [Dragon Ball Z - Cha-la Head-Cha-la](http://osu.ppy.sh/s/1806)
 
 ### Volume 2 (LuigiHann/DeathxShinigami [2011])
 
@@ -42,19 +42,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-2]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [Kana Ueda - Pumpkin Ondo](http://osu.ppy.sh/s/86)
+* [Porno Graffitti - Mellisa (TV Size)](http://osu.ppy.sh/s/150)
+* [Rie Tanaka - Ningyo Hime](http://osu.ppy.sh/s/162)
+* [Galaxy Angel - Galaxy Bang! Bang!](http://osu.ppy.sh/s/205)
+* [LOVERIN TAMBURIN - Aishitageru](http://osu.ppy.sh/s/212)
+* [KOTOKO - agony](http://osu.ppy.sh/s/302)
+* [Afromania - Minna no Peace](http://osu.ppy.sh/s/496)
+* [Ootsuki Kenji - Hitotoshite Jiku Ga Bureteiru](http://osu.ppy.sh/s/521)
+* [The Pillows - Ride on Shooting Star](http://osu.ppy.sh/s/956)
+* [Little Non - Hanamaru Sensation](http://osu.ppy.sh/s/2207)
+* [Lucky Star Cast - Kaeshite! Knee Socks](http://osu.ppy.sh/s/86)
+* [Horie Yui with UNSCANDAL - Scramble](http://osu.ppy.sh/s/2329)
+* [YUKI - Dramatic (TV Size)](http://osu.ppy.sh/s/2425)
 
 ### Volume 3 (Larto/DeathxShinigami [2011])
 
@@ -63,19 +63,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-3]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [Kageyama Hironobu - Ore wa Tokoton Tomaranai](http://osu.ppy.sh/s/2618)
+* [Lucky Star - Motteke! Sailor Fuku (REDALiCE Remix)](http://osu.ppy.sh/s/3030)
+* [Nightmare - The World](http://osu.ppy.sh/s/4851)
+* [Galaxy Angel Rune's cast - Uchuu de Koi wa Rurun Ruuuun](http://osu.ppy.sh/s/4994)
+* [Toss & Turn - Off the Chains](http://osu.ppy.sh/s/5010)
+* [Sonic X - Gotta Go Fast](http://osu.ppy.sh/s/5235)
+* [David Rolfe - Born to Be a Winner (TV Size)](http://osu.ppy.sh/s/5410)
+* [Chiaki Ishikawa - Uninstall](http://osu.ppy.sh/s/5480)
+* [Shuntaro Okino - Cloud Age Symphony](http://osu.ppy.sh/s/5963)
+* [Yuu Kobayashi - Hanaji(TV Size)](http://osu.ppy.sh/s/6037)
+* [Yoko Hikasa - Don't Say "Lazy"](http://osu.ppy.sh/s/6257)
+* [Yui - Again](http://osu.ppy.sh/s/6535)
+* [Chihara Minori - Paradise Lost (TV Size)](http://osu.ppy.sh/s/6557)
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -84,19 +84,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-4]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [Chata - Dango Daikazoku](http://osu.ppy.sh/s/516)
+* [AKINO - Sousei no Aquarion (TV Size)](http://osu.ppy.sh/s/5438)
+* [Wada Kouji - Hirari (TV Size)](http://osu.ppy.sh/s/6301)
+* [SID - Uso (TV Size)](http://osu.ppy.sh/s/8422)
+* [Toyosaki Aki - Sunday Siesta](http://osu.ppy.sh/s/8829)
+* [Akemi Kanda - 1000% Sparking!](http://osu.ppy.sh/s/9556)
+* [Ikimono Gakari - Seishun Line](http://osu.ppy.sh/s/12982)
+* [Horie Yui - I My Me](http://osu.ppy.sh/s/13036)
+* [THEATRE BROOK - Uragiri no Yuuyake ( TV Size )](http://osu.ppy.sh/s/13673)
+* [Faylan - mind as Judgment (TV Size)](http://osu.ppy.sh/s/14256)
+* [The Delgados - The Light Before We Land](http://osu.ppy.sh/s/14694)
+* [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](http://osu.ppy.sh/s/16252)
+* [DOMINO - U Can Do It! (TV Size)](http://osu.ppy.sh/s/21197)
 
 
 
@@ -108,19 +108,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 2 (Larto/DeathxShinigami [2011])
 
@@ -128,19 +128,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 3 (Larto/DeathxShinigami [2011])
 
@@ -148,19 +148,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -168,19 +168,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
@@ -193,19 +193,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-1]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 2 (Larto [2009]/DeathxShinigami [2011])
 
@@ -214,19 +214,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-2]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 3 (Larto [2010]/DeathxShinigami [2011])
 
@@ -235,19 +235,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-3]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -256,19 +256,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-4]
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ## Video Game Music Pack
@@ -279,19 +279,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 2 (LuigiHann/DeathxShinigami [2011])
 
@@ -299,19 +299,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 3 (Seibei4211/DeathxShinigami [2011])
 
@@ -319,19 +319,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -339,19 +339,19 @@ Trivia
 * None
 
 #### Maps:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
