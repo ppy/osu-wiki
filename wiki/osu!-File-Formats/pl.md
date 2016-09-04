@@ -1,19 +1,29 @@
 Specyficzne formaty plików osu!
 ===============================
 
+### Archiwum
+
 | Format                                         | Korzystanie                                                                                                            |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Archiwum                                       |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osz](PL:Osz_(file_format) "wikilink")        | Uruchamialny plik z beatmapą.                                                                                          |
 | [.osk](PL:Osk_(file_format) "wikilink")        | Uruchamialny plik ze skórką.                                                                                           |
 | [.db](PL:Db_(file_format) "wikilink")          | Plik bazy danych. (Nie dotykać!)                                                                                       |
-| [Edytor beatmap](PL:Beatmap_Editor "wikilink") |
+
+### [Edytor beatmap](PL:Beatmap_Editor "wikilink")
+
+| Format                                         | Korzystanie                                                                                                            |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osu](PL:Osu_(file_format) "wikilink")        | [Kompozycja](PL:Compose "wikilink"), [Rytmika](PL:Timing "wikilink"), [Ustawienia piosenki](PL:Song_Setup "wikilink"). |
 | [.osb](PL:Osb_(file_format) "wikilink")        | [Projekt](PL:Design "wikilink").                                                                                       |
-| Powtórka                                       |
+
+### Powtórka
+
+| Format                                         | Korzystanie                                                                                                            |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr](PL:Osr_(file_format) "wikilink")        | Uruchamialny plik z powtórką (nie może zostać zdekompresowany).                                                        |
 
-<img src="Osu!sys os.png" title="fig:Osu!sys os.png" alt="Osu!sys os.png" width="50" height="50" /> Tworzenie pliku .osz/.osk
+
+![.osk/.osz file icon](Osu!sys os.png) Tworzenie pliku .osz/.osk
 =============================================================================================================================
 
 Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otworzeniu, plik .osz zostanie rozpakowany przez osu!.exe i przeniesiony do folderu "Songs" podczas gdy plik .osk zostanie rozpakowany i przeniesiony do folderu "Skins". Domyślnie, pliki beatmap pobrane bezpośrednio z oficjalnej strony są w formacie .osz. Tworzenie pliku .osz/.osk to fundementalna wiedza dla odpowiedniej grupy społeczności tworzącej beatmapy, storyboardy oraz skórki.
@@ -21,12 +31,12 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 Za pomocą archiwum
 ------------------
 
-**<u>Potrzebne oprogramowanie:**</u>
+**Potrzebne oprogramowanie:**
 
 -   Archiwizer plików (WinRAR, 7zip)
 -   osu! (na potrzebę testowania)
 
-**<u>Procedura</u>**
+**Procedura**
 
 1.  Skompiluj swoje pliki do foldera (.mp3, .flv, .osu, SB, itd. do foldera). Nazwij folder.
       
@@ -43,7 +53,7 @@ Za pomocą archiwum
 4.  Umożliw proces archiwizacji. Plik .osz będzie wyprodukowany jako produkt końcy wraz z charakterystyczną ikonką osu!.
 5.  Powtarzaj dla nowych kopii. Dla tworzenia skórek, użyj rozszerzenia .osk.
 
-**<u>Obrazkowe przykłady</u>** (podziękowania dla <span class="plainlinks"> [\[Poradnika Skinowania](https://osu.ppy.sh/forum/t/51694) [MLGnoma](https://osu.ppy.sh/u/46620)</span>)
+**Obrazkowe przykłady** (podziękowania dla [Poradnika Skinowania](https://osu.ppy.sh/forum/t/51694) [MLGnoma](https://osu.ppy.sh/u/46620))
 
 -   [WinRAR](http://puu.sh/1MBV)
 -   [7-zip](http://puu.sh/1MBW)
@@ -52,11 +62,11 @@ Za pomocą archiwum
 Za pomocą gry
 -------------
 
-**<u>Potrzebne oprogramowanie:**</u>
+**Potrzebne oprogramowanie:**
 
 -   osu! (i nic więcej, gdyż tylko to jest potrzebne do zrobienia pliku .osz/.osk)
 
-**<u>Procedura</u>**
+**Procedura**
 
 1.  Tak samo jak powyżej, skompiluj pliki do foldera, którego potem nazwij.
       
@@ -64,19 +74,19 @@ Za pomocą gry
 
 2.  Otwórz osu!.
 3.  Jeśli chcesz zrobić plik .osz, następnie:
-    :\*Przejdź do "Trybu Edycji" i wybierz beatmapę którą chcesz przekonwertować na .osz.
+    - Przejdź do "Trybu Edycji" i wybierz beatmapę którą chcesz przekonwertować na .osz.
 
-    :\*Wybierz opcję "Plik", a następnie "Eksportuj archiwum..."
+    - Wybierz opcję "Plik", a następnie "Eksportuj archiwum..."
 
-    :\*Plik .osz zostanie wyprodukowany i umieszczony w folderze "Exports".
+    - Plik .osz zostanie wyprodukowany i umieszczony w folderze "Exports".
 
 4.  Jeżeli chcesz zrobić plik .osk, następnie:
-    :\*Na początku, upewnij się, że twój skin zawiera wszystko co chcesz skompresować. Możesz to sprawdzić, klikając "Otwórz folder skórki" jeżeli używasz skórki do konwersji.
+    - Na początku, upewnij się, że twój skin zawiera wszystko co chcesz skompresować. Możesz to sprawdzić, klikając "Otwórz folder skórki" jeżeli używasz skórki do konwersji.
 
-    :\*Następnie w opcjach kliknij na "Wybierz skórkę".
+    - Następnie w opcjach kliknij na "Wybierz skórkę".
 
-    :\*Wybierz skórkę, którą chcesz i kliknij na "Eksportuj jako .osk".
+    - Wybierz skórkę, którą chcesz i kliknij na "Eksportuj jako .osk".
 
-    :\*Plik .osk zostanie wyprodukowany i umieszczony w folderze "Exports".
+    - Plik .osk zostanie wyprodukowany i umieszczony w folderze "Exports".
 
 <Category:File_Formats/PL>
