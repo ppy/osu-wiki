@@ -20,6 +20,21 @@ Trivia
 * [MediaFire][media-anime-vol-1]
 * [osu.yas-online.net][yas-anime-vol-1]
 
+#### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 ### Volume 2 (LuigiHann/DeathxShinigami [2011])
 
 #### Download:
@@ -27,6 +42,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-2]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 3 (Larto/DeathxShinigami [2011])
 
@@ -35,6 +63,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-3]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -43,6 +84,19 @@ Trivia
 * [osu.yas-online.net][yas-anime-vol-4]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
@@ -54,6 +108,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 2 (Larto/DeathxShinigami [2011])
 
@@ -61,6 +128,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 3 (Larto/DeathxShinigami [2011])
 
@@ -68,6 +148,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -75,6 +168,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
@@ -87,6 +193,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-1]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 2 (Larto [2009]/DeathxShinigami [2011])
 
@@ -95,6 +214,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-2]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 3 (Larto [2010]/DeathxShinigami [2011])
 
@@ -103,6 +235,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-3]
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -111,7 +256,19 @@ Trivia
 * [osu.yas-online.net][yas-rhythm-vol-4]
 
 #### Maps:
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 ## Video Game Music Pack
@@ -122,6 +279,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 2 (LuigiHann/DeathxShinigami [2011])
 
@@ -129,6 +299,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 3 (Seibei4211/DeathxShinigami [2011])
 
@@ -136,6 +319,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -143,6 +339,19 @@ Trivia
 * None
 
 #### Maps:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
