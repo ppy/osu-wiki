@@ -1,3 +1,0 @@
-**Mapy o statusie Graveyarded** to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [rankingowymi](PL:Ranked_beatmap "wikilink"), dopóki [mapper](PL:Mapper "wikilink") nie wskrzesi ich z "cmentarzyska" za pomocą linku "Revive Beatmap" w jego profilu pod kategorią '[Beatmaps](PL:Beatmapa "wikilink")'. Mapy o statusie 'graveyarded', tak samo jak mapy '[pending](PL:Pending_Beatmap "wikilink")' czy 'WiP', nie liczą się do statystyk gracza. ([Osiągnięcia](PL:Achievements "wikilink"), Celność, Punkty, etc).
-
-<Category:Beatmapping/PL> <Category:Modding/PL>

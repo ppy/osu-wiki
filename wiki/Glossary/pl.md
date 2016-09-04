@@ -186,6 +186,10 @@ A button on the right side of the [editor](editor "wikilink") screen that forces
 
 The [Beatmap Graveyard](http://osu.ppy.sh/forum/viewforum.php?f=19). [Beatmaps](#Beatmap "wikilink") which haven't had any activity for one month are moved to this sub-forum to keep the other beatmap sub-forums from being cluttered. One can "resurrect" their beatmap from the Graveyard by starting to work on it again and notifying a moderator.
 
+### Graveyarded Beatmap
+
+**Mapy o statusie Graveyarded** to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [rankingowymi](PL:Ranked_beatmap "wikilink"), dopóki [mapper](PL:Mapper "wikilink") nie wskrzesi ich z "cmentarzyska" za pomocą linku "Revive Beatmap" w jego profilu pod kategorią '[Beatmaps](PL:Beatmapa "wikilink")'. Mapy o statusie 'graveyarded', tak samo jak mapy '[pending](PL:Pending_Beatmap "wikilink")' czy 'WiP', nie liczą się do statystyk gracza. ([Osiągnięcia](PL:Achievements "wikilink"), Celność, Punkty, etc).
+
 H
 -
 
