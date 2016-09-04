@@ -1,0 +1,2 @@
+-   [Bancho](Glossary#Bancho "wikilink"): Der Server der von [peppy](peppy "wikilink") geschrieben wurde um alle [osu!](osu! "wikilink") Verbindungen zu Managen.
+-   [BanchoBot](BanchoBot "wikilink"): Der eingelebte osu!bot, der [Chat Console](Chat_Console "wikilink") Spieler und dem osu!Personal dient und hilft.
