@@ -9,78 +9,79 @@ We will be covering both big and small tournaments, new programs and tools being
 
 You can email any tips for news directly to tips@ppy.sh or news@ppy.sh
 
-| Title/Link | 15 word snippet (preview) |
-| ---------- | ------------------------- |
-| [osu!weekly #70](//osu.ppy.sh/news/148612208738) | With a new month starting, another monthly dev meeting summary has been provided courtesy of... |
-| [osu!weekly #69](//osu.ppy.sh/news/148043695448) | osu!standard beatmap nominator applications are back for another round of broken spirits and failed exams! |
-| [osu!weekly #68](//osu.ppy.sh/news/147492076978) | The Polish osu!mania tournament, MP4K, has finally come to an end! In the Grand Finals... |
-| [osu!weekly #67](//osu.ppy.sh/news/147133568543) | It looks like we’ve reached the end of the first ever osu! remix contest! It... |
-| [osu!weekly #66](//osu.ppy.sh/news/146760479638) | For the first time in a while, we have a new development update from the... |
-| [osu!weekly #65](//osu.ppy.sh/news/146396453638) | It seems that we really can’t underestimate how much work goes into these top player... |
-| [osu!weekly #64](//osu.ppy.sh/news/146008704973) | The osu! community is out and about making things happen again, this time with a... |
-| [osu!weekly #63](//osu.ppy.sh/news/145390404978) | peppy has sounded the call to arms for development aid! With early contributors making their... |
-| [osu!weekly #62](//osu.ppy.sh/news/144949083788) | Look’s like flyte is on top of his game this week as usual! This time... |
-| [osu!weekly #61](//osu.ppy.sh/news/144560661953) | Flyte has a new design drop for us on his blog! It would appear for... |
-| [osu!weekly #60](//osu.ppy.sh/news/144200642843) | Ever wondered what the full process of making an osu!taiko beatmap looked like? Have a... |
-| [osu!weekly #59](//osu.ppy.sh/news/143863064978) | As a new month emerges, so does a new dev meeting recap, courtesy of Ephemeral. |
-| [osu!weekly #58](//osu.ppy.sh/news/143474255578)<br/>(osu!taiko world cup 2016 results!) | A couple of changes are being made to the QAT as we know it! In... |
-| [osu!weekly #57](//osu.ppy.sh/news/143107040263) | Did you hear that? That was the sound of the new achievement graphics making their... |
-| [osu!weekly #56](//osu.ppy.sh/news/142714140958) | The long-awaited “Modding V2” is finally in public testing! While the previous iteration made for... |
-| [osu!weekly #55](//osu.ppy.sh/news/142336949838) | As you may remember, last month Ephemeral made a blog post summarizing a meeting between... |
-| [osu!weekly #54](//osu.ppy.sh/news/141947659498) | This month, we asked you guys which community contests you would like to see more... |
-| [osu!weekly #53](//osu.ppy.sh/news/141509444448) | We have a new recipient of the esteemed Community Contributor Badge! Charles445 has contributed immensely... |
-| [osu!weekly #52](//osu.ppy.sh/news/141106091238) | It looks like our friends over in the German language community are holding another language-region-based... |
-| [osu!weekly #51](//osu.ppy.sh/news/140678267103) | Spring couldn’t have come sooner for those of us who are fed up with clearing... |
-| [osu!weekly #50](//osu.ppy.sh/news/140264408038) | This week, we had two polls conclude instead of one! The first of the two... |
-| [osu!weekly #49](//osu.ppy.sh/news/139847295453) | Woah! What happened to the menu on cutting-edge? It’s almost as if someone gave the... |
-| [osu!weekly #48](//osu.ppy.sh/news/139413041228) | One of the more well-known mappers from around the time I first started playing the... |
-| [osu!weekly #47](//osu.ppy.sh/news/138981783963) | A feature we have sorely missed has made a return to the options menu. You... |
-| [osu!weekly #46](//osu.ppy.sh/news/138515721853) | The group stage for the 2016 osu! Singapore Summer Tournament finished up over the weekend... |
-| [osu!weekly #45](//osu.ppy.sh/news/138002483503) | Over the years, osu! has picked up a lot of amazing residents of the community... |
-| [osu!weekly #44](//osu.ppy.sh/news/137535031193) | Last monday, Peppy reached out to members of the osu! reddit community hoping to restore/encourage... |
-| [osu!weekly #43](//osu.ppy.sh/news/137073383023) | The Best of 2015 voting has begun! If you want to have your say on... |
-| [osu!weekly #42](//osu.ppy.sh/news/136582953318) | There’s a new community poll to kick-start 2016! The osu! community is now bigger than... |
-| [osu!weekly #41](//osu.ppy.sh/news/136087507658) | It seems that we still have more tournaments going on straight into 2016! The USA... |
-| [osu!weekly #40](//osu.ppy.sh/news/135622576103) | As you may have noticed, the osu! client has been updated with a festive theme... |
-| [osu!weekly #39](//osu.ppy.sh/news/135158334008) | The osu! World Cup 2015 has just ended with the Grand finals taking place last... |
-| [osu!weekly #38](//osu.ppy.sh/news/134714796863) | The finals for the OWC is at last here! The moment you’ve all been waiting... |
-| [osu!weekly #37](//osu.ppy.sh/news/134252096173) | The osu! world cup is approaching the finals! With only 3 weeks left in the... |
-| [osu!weekly #36](//osu.ppy.sh/news/133776026698) | The osu!World cup is still underway; with the quarter finals completed! A total of 8... |
-| [osu!weekly #35](//osu.ppy.sh/news/133353088913) | The osu!world cup Round of 16 stage has come to a close. In this stage... |
-| [osu!weekly #34](//osu.ppy.sh/news/132428658648) | With the osu!world cup group stage starting this weekend, the teams have been sorted into... |
-| [osu!weekly #33](//osu.ppy.sh/news/131972894463) | Rosters for the 2015 osu! World Cup are now being made available! So far the... |
-| [osu!weekly #32](//osu.ppy.sh/news/131488540808) | Recently, #1 most subscribed youtuber Pewdiepie released a video on osu!, showing off standard, catch... |
-| [osu!weekly #31](//osu.ppy.sh/news/131041425478) | The new osu! World Cup scoring system is now available on cutting edge! Currently only... |
-| [osu!weekly #30](//osu.ppy.sh/news/130550412828) | The osu!world cup is finally underway with registrations going live last Friday. The registrations are... |
-| [osu!weekly #29](//osu.ppy.sh/news/130097455333) | Many people have hoped that osu! would eventually get its own official soundtracks for use... |
-| [osu!weekly #28](//osu.ppy.sh/news/129586250213) | The first week of the finals for the 2015 4K Mania World Cup has concluded... |
-| [osu!weekly #27](//osu.ppy.sh/news/129084275258) | The Semifinals have concluded for the 2015 4K Mania World Cup! The United Kingdom and... |
-| [osu!weekly #26](//osu.ppy.sh/news/128600448118) | The Quarterfinals have concluded for the 2015 4K Mania World Cup! China, the United Kingdom... |
-| [osu!weekly #25](//osu.ppy.sh/news/128042066788) | Both the Group Stage and the Round of 16 have ended for the 2015 4K... |
-| [osu!weekly #24](//osu.ppy.sh/news/127288936673) | The 4k osu!Mania World Cup group stage is starting this weekend! The first match will... |
-| [osu!weekly #23](//osu.ppy.sh/news/126718304988) | Bad news for those who may have been looking to join the Beatmap Nominators, as... |
-| [osu!weekly #22](//osu.ppy.sh/news/126184409878) | The results of the 2015 North America osu!standard Tournament have been decided, and the winning... |
-| [osu!weekly #21](//osu.ppy.sh/news/125572283188) | Registrations for the 2015 4K Mania World Cup end this Sunday! Keep in mind that... |
-| [osu!weekly #20](//osu.ppy.sh/news/125027562718) | This is the last week to register for the 2015 4K Mania World Cup! Registrations... |
-| [osu!weekly #19](//osu.ppy.sh/news/124379644138) | The registrations for the 2015 4K Mania World Cup have now opened! Registrations will be... |
-| [osu!weekly #18](//osu.ppy.sh/news/123767691448) | The osu! Last Man Standing tournament registrations are now closed and will be starting its... |
-| [osu!weekly #17](//osu.ppy.sh/news/123204635333) | The osu!standard Global Tournament hosted by - Nozomi -, Lazer and - Kotori - has players ranking from 1k... |
-| [osu!weekly #16](//osu.ppy.sh/news/122554029063) | The third round of the North American osu!standard Tournament (NAT) is running throughout this week.... |
-| [osu!weekly #15](//osu.ppy.sh/news/121971166708) | The Catch the Beat World Cup has come to an end! South Korea took first... |
-| [osu!weekly #14](//osu.ppy.sh/news/121390144373) | The Catch the Beat World Cup Grand Finals take place this weekend! Last week the... |
-| [osu!weekly #13](//osu.ppy.sh/news/120821096528) | The Catch the Beat World Cup finals begin this weekend! Last week the teams for... |
-| [osu!weekly #12](//osu.ppy.sh/news/120228961713) | The Catch the Beat World Cup semifinals start this weekend! Last week the teams for... |
-| [osu!weekly #11](//osu.ppy.sh/news/119646062918) | The Catch the Beat World Cup quarterfinals start this weekend! If you were watching last... |
-| [osu!weekly #10](//osu.ppy.sh/news/119064807443) | The Catch the Beat World Cup is going into the Round of 16 this weekend!... |
-| [osu!weekly #9](//osu.ppy.sh/news/118494468743) | The Catch the Beat World Cup group stage is starting this weekend! The first match... |
-| [osu!weekly #8](//osu.ppy.sh/news/117886541118) | Applications for the Beatmap Nominator Group are ending on Saturday! If you have been a... |
-| [osu!weekly #7](//osu.ppy.sh/news/117304714888) | Applications for Beatmap Nominator Group are now open! If you have been a contributing, helpful... |
-| [osu!weekly #6](//osu.ppy.sh/news/116706490333) | The Taiko World Cup 2015 has concluded with Japan taking first place against Taiwan in... |
-| [osu!weekly #5](//osu.ppy.sh/news/116084773988) | The Taiko World Cup grand finals are going to be underway this upcoming Sunday. Last... |
-| [osu!weekly #4](//osu.ppy.sh/news/115437619683) | Get your catchers ready boys and girls, as the osu! Catch the Beat World Cup... |
-| [osu!weekly #3](//osu.ppy.sh/news/114799715018) | Beatmap Nomination Group applications are open just a little while longer, closing March 29’th. If... |
-| [osu!weekly #2](//osu.ppy.sh/news/114180316308) | Hello again! I’m Tasha, and I’m here to bring you the second week of osu!weekly... |
-| [osu!weekly #1](//osu.ppy.sh/news/113518228483) | Hello there! I’m Tasha, and I’m here to bring you the first week of osu!weekly! |
+| Title/Link                                                                               | 15 word snippet (preview)                                                                                    |
+|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [osu!weekly #70](//osu.ppy.sh/news/148612208738)                                         | With a new month starting, another monthly dev meeting summary has been provided courtesy of...              |
+| [osu!weekly #69](//osu.ppy.sh/news/148043695448)                                         | osu!standard beatmap nominator applications are back for another round of broken spirits and failed exams!   |
+| [osu!weekly #68](//osu.ppy.sh/news/147492076978)                                         | The Polish osu!mania tournament, MP4K, has finally come to an end! In the Grand Finals...                    |
+| [osu!weekly #67](//osu.ppy.sh/news/147133568543)                                         | It looks like we’ve reached the end of the first ever osu! remix contest! It...                              |
+| [osu!weekly #66](//osu.ppy.sh/news/146760479638)                                         | For the first time in a while, we have a new development update from the...                                  |
+| [osu!weekly #65](//osu.ppy.sh/news/146396453638)                                         | It seems that we really can’t underestimate how much work goes into these top player...                      |
+| [osu!weekly #64](//osu.ppy.sh/news/146008704973)                                         | The osu! community is out and about making things happen again, this time with a...                          |
+| [osu!weekly #63](//osu.ppy.sh/news/145390404978)                                         | peppy has sounded the call to arms for development aid! With early contributors making their...              |
+| [osu!weekly #62](//osu.ppy.sh/news/144949083788)                                         | Look’s like flyte is on top of his game this week as usual! This time...                                     |
+| [osu!weekly #61](//osu.ppy.sh/news/144560661953)                                         | Flyte has a new design drop for us on his blog! It would appear for...                                       |
+| [osu!weekly #60](//osu.ppy.sh/news/144200642843)                                         | Ever wondered what the full process of making an osu!taiko beatmap looked like? Have a...                    |
+| [osu!weekly #59](//osu.ppy.sh/news/143863064978)                                         | As a new month emerges, so does a new dev meeting recap, courtesy of Ephemeral.                              |
+| [osu!weekly #58](//osu.ppy.sh/news/143474255578)<br/>(osu!taiko world cup 2016 results!) | A couple of changes are being made to the QAT as we know it! In...                                           |
+| [osu!weekly #57](//osu.ppy.sh/news/143107040263)                                         | Did you hear that? That was the sound of the new achievement graphics making their...                        |
+| [osu!weekly #56](//osu.ppy.sh/news/142714140958)                                         | The long-awaited “Modding V2” is finally in public testing! While the previous iteration made for...         |
+| [osu!weekly #55](//osu.ppy.sh/news/142336949838)                                         | As you may remember, last month Ephemeral made a blog post summarizing a meeting between...                  |
+| [osu!weekly #54](//osu.ppy.sh/news/141947659498)                                         | This month, we asked you guys which community contests you would like to see more...                         |
+| [osu!weekly #53](//osu.ppy.sh/news/141509444448)                                         | We have a new recipient of the esteemed Community Contributor Badge! Charles445 has contributed immensely... |
+| [osu!weekly #52](//osu.ppy.sh/news/141106091238)                                         | It looks like our friends over in the German language community are holding another language-region-based... |
+| [osu!weekly #51](//osu.ppy.sh/news/140678267103)                                         | Spring couldn’t have come sooner for those of us who are fed up with clearing...                             |
+| [osu!weekly #50](//osu.ppy.sh/news/140264408038)                                         | This week, we had two polls conclude instead of one! The first of the two...                                 |
+| [osu!weekly #49](//osu.ppy.sh/news/139847295453)                                         | Woah! What happened to the menu on cutting-edge? It’s almost as if someone gave the...                       |
+| [osu!weekly #48](//osu.ppy.sh/news/139413041228)                                         | One of the more well-known mappers from around the time I first started playing the...                       |
+| [osu!weekly #47](//osu.ppy.sh/news/138981783963)                                         | A feature we have sorely missed has made a return to the options menu. You...                                |
+| [osu!weekly #46](//osu.ppy.sh/news/138515721853)                                         | The group stage for the 2016 osu! Singapore Summer Tournament finished up over the weekend...                |
+| [osu!weekly #45](//osu.ppy.sh/news/138002483503)                                         | Over the years, osu! has picked up a lot of amazing residents of the community...                            |
+| [osu!weekly #44](//osu.ppy.sh/news/137535031193)                                         | Last monday, Peppy reached out to members of the osu! reddit community hoping to restore/encourage...        |
+| [osu!weekly #43](//osu.ppy.sh/news/137073383023)                                         | The Best of 2015 voting has begun! If you want to have your say on...                                        |
+| [osu!weekly #42](//osu.ppy.sh/news/136582953318)                                         | There’s a new community poll to kick-start 2016! The osu! community is now bigger than...                    |
+| [osu!weekly #41](//osu.ppy.sh/news/136087507658)                                         | It seems that we still have more tournaments going on straight into 2016! The USA...                         |
+| [osu!weekly #40](//osu.ppy.sh/news/135622576103)                                         | As you may have noticed, the osu! client has been updated with a festive theme...                            |
+| [osu!weekly #39](//osu.ppy.sh/news/135158334008)                                         | The osu! World Cup 2015 has just ended with the Grand finals taking place last...                            |
+| [osu!weekly #38](//osu.ppy.sh/news/134714796863)                                         | The finals for the OWC is at last here! The moment you’ve all been waiting...                                |
+| [osu!weekly #37](//osu.ppy.sh/news/134252096173)                                         | The osu! world cup is approaching the finals! With only 3 weeks left in the...                               |
+| [osu!weekly #36](//osu.ppy.sh/news/133776026698)                                         | The osu!World cup is still underway; with the quarter finals completed! A total of 8...                      |
+| [osu!weekly #35](//osu.ppy.sh/news/133353088913)                                         | The osu!world cup Round of 16 stage has come to a close. In this stage...                                    |
+| [osu!weekly #34](//osu.ppy.sh/news/132428658648)                                         | With the osu!world cup group stage starting this weekend, the teams have been sorted into...                 |
+| [osu!weekly #33](//osu.ppy.sh/news/131972894463)                                         | Rosters for the 2015 osu! World Cup are now being made available! So far the...                              |
+| [osu!weekly #32](//osu.ppy.sh/news/131488540808)                                         | Recently, #1 most subscribed youtuber Pewdiepie released a video on osu!, showing off standard, catch...     |
+| [osu!weekly #31](//osu.ppy.sh/news/131041425478)                                         | The new osu! World Cup scoring system is now available on cutting edge! Currently only...                    |
+| [osu!weekly #30](//osu.ppy.sh/news/130550412828)                                         | The osu!world cup is finally underway with registrations going live last Friday. The registrations are...    |
+| [osu!weekly #29](//osu.ppy.sh/news/130097455333)                                         | Many people have hoped that osu! would eventually get its own official soundtracks for use...                |
+| [osu!weekly #28](//osu.ppy.sh/news/129586250213)                                         | The first week of the finals for the 2015 4K Mania World Cup has concluded...                                |
+| [osu!weekly #27](//osu.ppy.sh/news/129084275258)                                         | The Semifinals have concluded for the 2015 4K Mania World Cup! The United Kingdom and...                     |
+| [osu!weekly #26](//osu.ppy.sh/news/128600448118)                                         | The Quarterfinals have concluded for the 2015 4K Mania World Cup! China, the United Kingdom...               |
+| [osu!weekly #25](//osu.ppy.sh/news/128042066788)                                         | Both the Group Stage and the Round of 16 have ended for the 2015 4K...                                       |
+| [osu!weekly #24](//osu.ppy.sh/news/127288936673)                                         | The 4k osu!Mania World Cup group stage is starting this weekend! The first match will...                     |
+| [osu!weekly #23](//osu.ppy.sh/news/126718304988)                                         | Bad news for those who may have been looking to join the Beatmap Nominators, as...                           |
+| [osu!weekly #22](//osu.ppy.sh/news/126184409878)                                         | The results of the 2015 North America osu!standard Tournament have been decided, and the winning...          |
+| [osu!weekly #21](//osu.ppy.sh/news/125572283188)                                         | Registrations for the 2015 4K Mania World Cup end this Sunday! Keep in mind that...                          |
+| [osu!weekly #20](//osu.ppy.sh/news/125027562718)                                         | This is the last week to register for the 2015 4K Mania World Cup! Registrations...                          |
+| [osu!weekly #19](//osu.ppy.sh/news/124379644138)                                         | The registrations for the 2015 4K Mania World Cup have now opened! Registrations will be...                  |
+| [osu!weekly #18](//osu.ppy.sh/news/123767691448)                                         | The osu! Last Man Standing tournament registrations are now closed and will be starting its...               |
+| [osu!weekly #17](//osu.ppy.sh/news/123204635333)                                         | The osu!standard Global Tournament hosted by - Nozomi -, Lazer and - Kotori - has players ranking from 1k... |
+| [osu!weekly #16](//osu.ppy.sh/news/122554029063)                                         | The third round of the North American osu!standard Tournament (NAT) is running throughout this week....      |
+| [osu!weekly #15](//osu.ppy.sh/news/121971166708)                                         | The Catch the Beat World Cup has come to an end! South Korea took first...                                   |
+| [osu!weekly #14](//osu.ppy.sh/news/121390144373)                                         | The Catch the Beat World Cup Grand Finals take place this weekend! Last week the...                          |
+| [osu!weekly #13](//osu.ppy.sh/news/120821096528)                                         | The Catch the Beat World Cup finals begin this weekend! Last week the teams for...                           |
+| [osu!weekly #12](//osu.ppy.sh/news/120228961713)                                         | The Catch the Beat World Cup semifinals start this weekend! Last week the teams for...                       |
+| [osu!weekly #11](//osu.ppy.sh/news/119646062918)                                         | The Catch the Beat World Cup quarterfinals start this weekend! If you were watching last...                  |
+| [osu!weekly #10](//osu.ppy.sh/news/119064807443)                                         | The Catch the Beat World Cup is going into the Round of 16 this weekend!...                                  |
+| [osu!weekly #9](//osu.ppy.sh/news/118494468743)                                          | The Catch the Beat World Cup group stage is starting this weekend! The first match...                        |
+| [osu!weekly #8](//osu.ppy.sh/news/117886541118)                                          | Applications for the Beatmap Nominator Group are ending on Saturday! If you have been a...                   |
+| [osu!weekly #7](//osu.ppy.sh/news/117304714888)                                          | Applications for Beatmap Nominator Group are now open! If you have been a contributing, helpful...           |
+| [osu!weekly #6](//osu.ppy.sh/news/116706490333)                                          | The Taiko World Cup 2015 has concluded with Japan taking first place against Taiwan in...                    |
+| [osu!weekly #5](//osu.ppy.sh/news/116084773988)                                          | The Taiko World Cup grand finals are going to be underway this upcoming Sunday. Last...                      |
+| [osu!weekly #4](//osu.ppy.sh/news/115437619683)                                          | Get your catchers ready boys and girls, as the osu! Catch the Beat World Cup...                              |
+| [osu!weekly #3](//osu.ppy.sh/news/114799715018)                                          | Beatmap Nomination Group applications are open just a little while longer, closing March 29’th. If...        |
+| [osu!weekly #2](//osu.ppy.sh/news/114180316308)                                          | Hello again! I’m Tasha, and I’m here to bring you the second week of osu!weekly...                           |
+| [osu!weekly #1](//osu.ppy.sh/news/113518228483)                                          | Hello there! I’m Tasha, and I’m here to bring you the first week of osu!weekly!                              |
+
 
 Ranking Charts
 --------------
@@ -155,21 +156,22 @@ Monthly Beatmapping Contest
   
 ***[Official wiki page for results.](Contests#Monthly_Beatmapping_Contest "wikilink")***
 
-| Announcement | Results |
-| ------------ | ------- |
-| [Aspire Returns (Beatmap Contest)](//osu.ppy.sh/news/144493773648) | /[Aspire 2 Concludes: Winners Announced](/osu.ppy.sh/news/147838862138)
-| [Beatmapping Contest #12 (osu!)](//osu.ppy.sh/news/140452368663) | /[Monthly Beatmapping Contest #12 Results](/osu.ppy.sh/news/144933230753)
-| [Monthly Beatmapping Contest #11 - Mania Only](//osu.ppy.sh/news/127344497068) | /[Monthly Beatmapping Contest #11 Results](/osu.ppy.sh/news/134459652408)
-| [Monthly Beatmapping Contest #10 (CtB only)](//osu.ppy.sh/news/121583979808) | /[Monthly Beatmapping Contest #10 Results CtB](/osu.ppy.sh/news/126037472723)
-| [Monthly Beatmapping Contest #9 Taiko only](//osu.ppy.sh/news/116319155288) | /[Monthly Beatmapping Contest #9: Results](/osu.ppy.sh/news/122549062138)
-| [Monthly Beatmapping Contest #8](//osu.ppy.sh/news/110718882663) | /[Monthly Beatmapping Contest #8: Results](/osu.ppy.sh/news/115885774698)
-| [Monthly Beatmapping Contest #7](//osu.ppy.sh/news/98300571848) | /[Monthly Beatmapping Contest #7: Results](/osu.ppy.sh/news/112654662093)
-| [Monthly Beatmapping Contest #6](//osu.ppy.sh/news/92453842843) | /[Monthly Beatmapping Contest: Aspire Results!](/osu.ppy.sh/news/102534475143)
-| [Monthly Beatmapping Contest #5 - Submissions Now Open!](//osu.ppy.sh/news/85034669678) | [Monthly Beatmapping Contest #5 Results](//osu.ppy.sh/news/91735660223)
-| [Monthly Beatmapping Contest #4 - Submissions Now Open](//osu.ppy.sh/news/76642902143) | [Monthly Beatmapping Contest #4 Results](//osu.ppy.sh/news/84122008873)
-| [Monthly Beatmapping Contest #3 - Submissions Open](//osu.ppy.sh/news/70079897578)<br/>[Monthly Beatmapping Contest #3 - Submissions Ext](//osu.ppy.sh/news/75911965309) | [Monthly Beatmapping Contest #3 results](//osu.ppy.sh/news/77183675009)
-| [Monthly Beatmapping Contest #2 - Submissions Open!](//osu.ppy.sh/news/65311349854) | [Monthly Beatmapping Contest #2 - Results](//osu.ppy.sh/news/72422807506)
-| [Monthly Beatmapping Contest #1 - Results!](//osu.ppy.sh/news/64561724273) | [osu! Monthly Beatmapping Contest #1](//osu.ppy.sh/news/60440803370)
+| Announcement                                                                                                                                                             | Results                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Aspire Returns (Beatmap Contest)](//osu.ppy.sh/news/144493773648)                                                                                                       | [Aspire 2 Concludes: Winners Announced](//osu.ppy.sh/news/147838862138)        |
+| [Beatmapping Contest #12 (osu!)](//osu.ppy.sh/news/140452368663)                                                                                                         | [Monthly Beatmapping Contest #12 Results](//osu.ppy.sh/news/144933230753)      |
+| [Monthly Beatmapping Contest #11 - Mania Only](//osu.ppy.sh/news/127344497068)                                                                                           | [Monthly Beatmapping Contest #11 Results](//osu.ppy.sh/news/134459652408)      |
+| [Monthly Beatmapping Contest #10 (CtB only)](//osu.ppy.sh/news/121583979808)                                                                                             | [Monthly Beatmapping Contest #10 Results CtB](//osu.ppy.sh/news/126037472723)  |
+| [Monthly Beatmapping Contest #9 Taiko only](//osu.ppy.sh/news/116319155288)                                                                                              | [Monthly Beatmapping Contest #9: Results](//osu.ppy.sh/news/122549062138)      |
+| [Monthly Beatmapping Contest #8](//osu.ppy.sh/news/110718882663)                                                                                                         | [Monthly Beatmapping Contest #8: Results](//osu.ppy.sh/news/115885774698)      |
+| [Monthly Beatmapping Contest #7](//osu.ppy.sh/news/98300571848)                                                                                                          | [Monthly Beatmapping Contest #7: Results](//osu.ppy.sh/news/112654662093)      |
+| [Monthly Beatmapping Contest #6](//osu.ppy.sh/news/92453842843)                                                                                                          | [Monthly Beatmapping Contest: Aspire Results!](//osu.ppy.sh/news/102534475143) |
+| [Monthly Beatmapping Contest #5 - Submissions Now Open!](//osu.ppy.sh/news/85034669678)                                                                                  | [Monthly Beatmapping Contest #5 Results](//osu.ppy.sh/news/91735660223)        |
+| [Monthly Beatmapping Contest #4 - Submissions Now Open](//osu.ppy.sh/news/76642902143)                                                                                   | [Monthly Beatmapping Contest #4 Results](//osu.ppy.sh/news/84122008873)        |
+| [Monthly Beatmapping Contest #3 - Submissions Open](//osu.ppy.sh/news/70079897578)<br/>[Monthly Beatmapping Contest #3 - Submissions Ext](//osu.ppy.sh/news/75911965309) | [Monthly Beatmapping Contest #3 results](//osu.ppy.sh/news/77183675009)        |
+| [Monthly Beatmapping Contest #2 - Submissions Open!](//osu.ppy.sh/news/65311349854)                                                                                      | [Monthly Beatmapping Contest #2 - Results](//osu.ppy.sh/news/72422807506)      |
+| [Monthly Beatmapping Contest #1 - Results!](//osu.ppy.sh/news/64561724273)                                                                                               | [osu! Monthly Beatmapping Contest #1](//osu.ppy.sh/news/60440803370)           |
+
 
 ### Mapping with Rewards
 
@@ -187,10 +189,11 @@ Some remarks about mapping with rewards (and some differences with [\#Monthly Be
 -   single game mode (no TAG diffs)
 -   preselected background images (current, if any, background images will be replaced)
 
-| Announcement | Results |
-| ------------ | ------- |
-| [Mapping With Rewards (Sep. 2015)](http://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [Mapping With Rewards #1 - Bounties Complete!](//osu.ppy.sh/news/145260581333)
-| [Mapping With Rewards (Oct. 2015)](http://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | *still active!* |
+| Announcement                                                                                           | Results                                                                        |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Mapping With Rewards (Sep. 2015)](http://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [Mapping With Rewards #1 - Bounties Complete!](//osu.ppy.sh/news/145260581333) |
+| [Mapping With Rewards (Oct. 2015)](http://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | *still active!*                                                                |
+
 
 Fan Art Contests
 ----------------
@@ -257,28 +260,30 @@ Other
 
 Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping tips, gaming section, and contests. [Official Twitter](//twitter.com/osumonthly)
 
-| No. | Newsletter | Forum link | Release Date<br/>(DD/MM/YY) | Interviews |
-| --- | ---------- | ---------- | --------------------------- | ---------- |
-| #1 | [osu!monthly #1 (Google Drive)](//docs.google.com/document/d/1CE9hLf0iXwjzw-B8uZFj3LBvDVnLcv-qButQDlEyKh0/edit?hl=en&amp;pli=1) | [Forum #1](//osu.ppy.sh/forum/t/47805) | 05/03/11 | None |
-| #2 | [osu!monthly #2 (Google Drive)](//docs.google.com/document/d/11s0A2DqvW7qHy9k-dpPUvdoG206T75B83JQpBm5Avdg/edit?hl=en&amp;authkey=CKLg9o0G&amp;pli=1) | [Forum #2](//osu.ppy.sh/forum/t/52317) | 05/05/11 | [peppy](//osu.ppy.sh/u/2) |
-| #3 | [osu!monthly #3 (High res)](//puu.sh/2sdm) | [Forum #3](//osu.ppy.sh/forum/t/54680) | 07/06/11 | [ztrot](//osu.ppy.sh/u/6347), [jericho2442](//osu.ppy.sh/u/jericho2442), [Gonzvlo](//osu.ppy.sh/u/237733) |
-| #4 | [osu!monthly #4 (High res)](//puu.sh/36sP)<br/>[osu!monthly #4 (Low res)](//docs.google.com/file/d/0B8aew6c6ByBcYmI3ZTAxNzYtNzU5YS00OWQxLWFlNWMtZWEwYzk4MjJiZDk4/edit?hl=en_US&amp;pli=1) | [Forum #4](//osu.ppy.sh/forum/t/56836) | 07/07/11 | [Cookiezi](//osu.ppy.sh/u/124493), [Garven](//osu.ppy.sh/u/244216) |
-| #5 | [osu!monthly #5 (High res)](//puu.sh/4mUi)<br/>[osu!monthly #5 (Low res)](//docs.google.com/file/d/0B8aew6c6ByBcYTA3NmRmMzAtNjJjZi00YzBkLTliNTUtNjFlYjg0NGY3OTQw/edit?hl=en_US&amp;pli=1) | [Forum #5](//osu.ppy.sh/forum/t/59924) | 15/08/11 | [peppy](//osu.ppy.sh/u/2), [Derekku](//osu.ppy.sh/u/91341) |
-| #6 | [osu!monthly #6 (High res)](//puu.sh/7EyB) | [Forum #6](//osu.ppy.sh/forum/t/65452) | 27/10/11 | [Lybydose](//osu.ppy.sh/u/64501), [RandomJibberish](//osu.ppy.sh/u/157879) |
-| #7 | [osu!monthly #7]() | [Forum #7]() | *unknown* | [mm201](//osu.ppy.sh/u/30655) |
+| No. | Newsletter                                                                                                                                                                                | Forum link                             | Release Date<br/>(DD/MM/YY) | Interviews                                                                                                |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------|
+| #1  | [osu!monthly #1 (Google Drive)](//docs.google.com/document/d/1CE9hLf0iXwjzw-B8uZFj3LBvDVnLcv-qButQDlEyKh0/edit?hl=en&amp;pli=1)                                                           | [Forum #1](//osu.ppy.sh/forum/t/47805) | 05/03/11                    | None                                                                                                      |
+| #2  | [osu!monthly #2 (Google Drive)](//docs.google.com/document/d/11s0A2DqvW7qHy9k-dpPUvdoG206T75B83JQpBm5Avdg/edit?hl=en&amp;authkey=CKLg9o0G&amp;pli=1)                                      | [Forum #2](//osu.ppy.sh/forum/t/52317) | 05/05/11                    | [peppy](//osu.ppy.sh/u/2)                                                                                 |
+| #3  | [osu!monthly #3 (High res)](//puu.sh/2sdm)                                                                                                                                                | [Forum #3](//osu.ppy.sh/forum/t/54680) | 07/06/11                    | [ztrot](//osu.ppy.sh/u/6347), [jericho2442](//osu.ppy.sh/u/jericho2442), [Gonzvlo](//osu.ppy.sh/u/237733) |
+| #4  | [osu!monthly #4 (High res)](//puu.sh/36sP)<br/>[osu!monthly #4 (Low res)](//docs.google.com/file/d/0B8aew6c6ByBcYmI3ZTAxNzYtNzU5YS00OWQxLWFlNWMtZWEwYzk4MjJiZDk4/edit?hl=en_US&amp;pli=1) | [Forum #4](//osu.ppy.sh/forum/t/56836) | 07/07/11                    | [Cookiezi](//osu.ppy.sh/u/124493), [Garven](//osu.ppy.sh/u/244216)                                        |
+| #5  | [osu!monthly #5 (High res)](//puu.sh/4mUi)<br/>[osu!monthly #5 (Low res)](//docs.google.com/file/d/0B8aew6c6ByBcYTA3NmRmMzAtNjJjZi00YzBkLTliNTUtNjFlYjg0NGY3OTQw/edit?hl=en_US&amp;pli=1) | [Forum #5](//osu.ppy.sh/forum/t/59924) | 15/08/11                    | [peppy](//osu.ppy.sh/u/2), [Derekku](//osu.ppy.sh/u/91341)                                                |
+| #6  | [osu!monthly #6 (High res)](//puu.sh/7EyB)                                                                                                                                                | [Forum #6](//osu.ppy.sh/forum/t/65452) | 27/10/11                    | [Lybydose](//osu.ppy.sh/u/64501), [RandomJibberish](//osu.ppy.sh/u/157879)                                |
+| #7  | [osu!monthly #7]()                                                                                                                                                                        | [Forum #7]()                           | *unknown*                   | [mm201](//osu.ppy.sh/u/30655)                                                                             |
+
 
 ### Old osu!news group
 
-| Title/Link | 15 word snippet (preview) |
-| ---------- | ------------------------- |
-| [August 2013 Highlights](//osu.ppy.sh/news/60438764327) | August was a hectic month for osu!, with the largest yet DDoS attack launched against... |
-| [Highlights of July](//osu.ppy.sh/news/56990275116) | Since osu!’s creation, the amount of registered users has just been going up faster and... |
+| Title/Link                                                                 | 15 word snippet (preview)                                                                                    |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [August 2013 Highlights](//osu.ppy.sh/news/60438764327)                    | August was a hectic month for osu!, with the largest yet DDoS attack launched against...                     |
+| [Highlights of July](//osu.ppy.sh/news/56990275116)                        | Since osu!’s creation, the amount of registered users has just been going up faster and...                   |
 | [Commentating Circle-Clicking Competitions](//osu.ppy.sh/news/56949459622) | As competitions start blooming all over osu! and their popularity skyrockets, streaming matches has begun... |
-| [Clicking Styles](//osu.ppy.sh/news/56949145760) | What is the first thing people wonder when they see certain players on osu!? Some... |
-| [Mara's Gamin Corner - July](//osu.ppy.sh/news/56948588121) | People have been waiting for Cube World’s release for two years now. An endless journey... |
-| [Easy Mod: How and Why](//osu.ppy.sh/news/56948486143) | The Easy mod is notorious for actually making most maps harder, creating massive overlaps and... |
-| [Interview with Ephmeral](//osu.ppy.sh/news/56947685704) | Ephemeral, joining the game in August of 2009, has taken an active part in the... |
-| [The Revival](//osu.ppy.sh/news/56943222761) | The osu!monthly’s original concept was to be a newsletter for the community to find the... |
+| [Clicking Styles](//osu.ppy.sh/news/56949145760)                           | What is the first thing people wonder when they see certain players on osu!? Some...                         |
+| [Mara's Gamin Corner - July](//osu.ppy.sh/news/56948588121)                | People have been waiting for Cube World’s release for two years now. An endless journey...                   |
+| [Easy Mod: How and Why](//osu.ppy.sh/news/56948486143)                     | The Easy mod is notorious for actually making most maps harder, creating massive overlaps and...             |
+| [Interview with Ephmeral](//osu.ppy.sh/news/56947685704)                   | Ephemeral, joining the game in August of 2009, has taken an active part in the...                            |
+| [The Revival](//osu.ppy.sh/news/56943222761)                               | The osu!monthly’s original concept was to be a newsletter for the community to find the...                   |
+
 
 ### Media
 
