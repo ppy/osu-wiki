@@ -1,8 +1,9 @@
 ***[Click here to return to the "Achievements" page](Achievements "wikilink")***
+
 Legacy/Original themed packs packed during osu! infancy years (2009) before being updated by [Stefan in 16 January 2016](http://osu.ppy.sh/news/137535031193).
 
-Trivia
-======
+
+## Trivia
 
 -   16 packs. (4 themes x 4 volumes)
     -   1 hour 20 minutes = 1 pack (Time estimation required to complete one beatmap pack)
