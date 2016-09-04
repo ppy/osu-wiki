@@ -108,19 +108,21 @@ Trivia
 * None
 
 #### Maps:
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Dudelstudios - Angry Video Game Nerd Theme](http://osu.ppy.sh/s/66)
+* [Trans-Siberian Orchestra - Wizards In Winter](http://osu.ppy.sh/s/132)
+* [Lemon Demon - The Ultimate Showdown of Ultimate Destiny](http://osu.ppy.sh/s/140)
+* [Lazy Town - Cooking by the Book](http://osu.ppy.sh/s/235)
+* [t+pazolite feat. - Okkusenman (Hardcore Mix)](http://osu.ppy.sh/s/303)
+* [The Laziest Men on Mars - Invasion of the Gabber Robots](http://osu.ppy.sh/s/339)
+* [Erwin Beekveld - They're Taking The Hobbits To Isengard](http://osu.ppy.sh/s/455)
+* [NicoNicoDouga - Farucon Pan!](http://osu.ppy.sh/s/664)
+* [I Love Egg - Egg Song](http://osu.ppy.sh/s/812)
+* [Rick Astley - Never Gonna Give You Up 2](http://osu.ppy.sh/s/977)
+* [Caramell - Caramelldansen (Speedycake Remix)](http://osu.ppy.sh/s/1018)
+* [Hatsune Miku - Ievan Polkka](http://osu.ppy.sh/s/1287)
+* [Loituma - Ievan Polkka](http://osu.ppy.sh/s/2463)
+
+> __Note:__ Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.
 
 ### Volume 2 (Larto/DeathxShinigami [2011])
 
@@ -128,19 +130,19 @@ Trivia
 * None
 
 #### Maps:
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [The INTERNET - At The Playground](http://osu.ppy.sh/s/203)
+* [Jakazid - Cillit Bang (Hardcore Mix)](http://osu.ppy.sh/s/917)
+* [Funtastic Power! - This is Sparta REMIX](http://osu.ppy.sh/s/1573)
+* [You are an Idiot!](http://osu.ppy.sh/s/1628)
+* [Nico Nico Douga - U.N. Owen Was Her](http://osu.ppy.sh/s/1785)
+* [Initial D - Running in the 90's](http://osu.ppy.sh/s/2103)
+* [Do a Barrel Roll!](http://osu.ppy.sh/s/2569)
+* [YTMND - The Bubb Rubb of Time](http://osu.ppy.sh/s/3196)
+* [igiulamam - What I want you to do](http://osu.ppy.sh/s/3219)
+* [My Chemical Romance - Welcome to the Black Parade](http://osu.ppy.sh/s/3545)
+* [Chiru - GOLIMAR!!](http://osu.ppy.sh/s/3621)
+* [Funta - Kao Dekai](http://osu.ppy.sh/s/4535)
+* [Coda - Longcat's Song](http://osu.ppy.sh/s/5014)
 
 ### Volume 3 (Larto/DeathxShinigami [2011])
 
@@ -148,19 +150,19 @@ Trivia
 * None
 
 #### Maps:
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [NicoNicoDouga - Nice Boat.](http://osu.ppy.sh/s/1839)
+* [Verix - Drop the Dodongo](http://osu.ppy.sh/s/3337)
+* [NicoNicoDouga - Cirno de Gozaimasu!](http://osu.ppy.sh/s/3367)
+* [Tarou - Danjo](http://osu.ppy.sh/s/3688)
+* [Ashens - Silly Monkey](http://osu.ppy.sh/s/5703)
+* [Gunther - Ding Dong Song (You Touch My Tra La La)](http://osu.ppy.sh/s/5709)
+* [WalnutFaceBrand - C-O-C-A-I-N-E](http://osu.ppy.sh/s/5823)
+* [Trey Parker - Gay Fish](http://osu.ppy.sh/s/6526)
+* [Lazy Town - You Are A Pirate](http://osu.ppy.sh/s/6626)
+* [NeoNintendo - Scrub Scrub Scrub](http://osu.ppy.sh/s/7506)
+* [MrRoboto113 - I Think I'll Eat It Now](http://osu.ppy.sh/s/7507)
+* [The Gregory Brothers - Auto-Tune the News #5](http://osu.ppy.sh/s/8034)
+* [The Lonely Island - Shrooms](http://osu.ppy.sh/s/8690)
 
 ### Volume 4 (DeathxShinigami [2011])
 
@@ -168,19 +170,19 @@ Trivia
 * None
 
 #### Maps:
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [TuTuWan - Wo Yao Jin Ke La](http://osu.ppy.sh/s/11443)
+* [Parry Gripp - Do You Like Waffles](http://osu.ppy.sh/s/12033)
+* [The Gregory Brothers - Auto-Tune the News #9](http://osu.ppy.sh/s/12155)
+* [ISAJI - Yaranaika](http://osu.ppy.sh/s/13885)
+* [The Midnight Beast - Tik Tok (Parody)](http://osu.ppy.sh/s/14391)
+* [Pomplamoose - Telephone](http://osu.ppy.sh/s/14579)
+* [Eric Cartman - Poker Face](http://osu.ppy.sh/s/14672)
+* [Chihara Minori - Greed's Accident](http://osu.ppy.sh/s/15157)
+* [The Lonely Island (Feat. Justin Timberlake) - Motherlover](http://osu.ppy.sh/s/15628)
+* [MPAA - Piracy - It's a Crime](http://osu.ppy.sh/s/15942)
+* [Hatsune Miku - Nico Nico Messe no Uta](http://osu.ppy.sh/s/17145)
+* [yamas03 - bloomin' octagon](http://osu.ppy.sh/s/17217)
+* [8corporation - The Ultimate Trololo Mashup](http://osu.ppy.sh/s/17724)
 
 
 
