@@ -43,10 +43,10 @@ Each of these sections currently have 4 volumes to them.
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | --------------- | ---------- | -------------- | ---------------- |
-| ![Video Game Pack vol.1](Video Game Pack vol1.png) | ![Anime Pack vol.1](Anime Pack vol1.png) | ![Internet Pack vol.1](Internet! Pack vol1.png) | ![Rhythm Pack vol.1](Rhythm Game Pack vol1.png) |
-| ![Video Game Pack vol.2](Video Game Pack vol2.png) | ![Anime Pack vol.2](Anime Pack vol2.png) | ![Internet Pack vol.2](Internet! Pack vol2.png) | ![Rhythm Pack vol.2](Rhythm Game Pack vol2.png) |
-| ![Video Game Pack vol.3](Video Game Pack vol3.png) | ![Anime Pack vol.3](Anime Pack vol3.png) | ![Internet Pack vol.3](Internet! Pack vol3.png) | ![Rhythm Pack vol.3](Rhythm Game Pack vol3.png) |
-| ![Video Game Pack vol.4](Video Game Pack vol4.png) | ![Anime Pack vol.4](Anime Pack vol4.png) | ![Internet Pack vol.4](Internet! Pack vol4.png) | ![Rhythm Pack vol.4](Rhythm Game Pack vol4.png) |
+| ![Video Game Pack vol.1](all-packs-gamer-1.png) | ![Anime Pack vol.1](all-packs-anime-1.png) | ![Internet Pack vol.1](all-packs-internet-1.png) | ![Rhythm Pack vol.1](all-packs-rhythm-1.png) |
+| ![Video Game Pack vol.2](all-packs-gamer-2.png) | ![Anime Pack vol.2](all-packs-anime-2.png) | ![Internet Pack vol.2](all-packs-internet-2.png) | ![Rhythm Pack vol.2](all-packs-rhythm-2.png) |
+| ![Video Game Pack vol.3](all-packs-gamer-3.png) | ![Anime Pack vol.3](all-packs-anime-3.png) | ![Internet Pack vol.3](all-packs-internet-3.png) | ![Rhythm Pack vol.3](all-packs-rhythm-3.png) |
+| ![Video Game Pack vol.4](all-packs-gamer-4.png) | ![Anime Pack vol.4](all-packs-anime-4.png) | ![Internet Pack vol.4](all-packs-internet-4.png) | ![Rhythm Pack vol.4](all-packs-rhythm-4.png) |
 
 
 
@@ -67,10 +67,10 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 
 | Combo | The High Ranker |
 | ----- | --------------- |
-| ![500 Combo (any song)](Achievement_-_500_Combo_(Any_Song).png) | ![The Highranker Lvl1](Achievement_-_Highranker_Lvl1.png) |
-| ![750 Combo (any song)](Achievement_-_750_Combo_(Any_Song).png) | ![The Highranker Lvl2](Achievement_-_Highranker_Lvl2.png) |
-| ![1000 Combo (any song)](Achievement_-_1000_Combo_(Any_Song).png) | ![The Highranker Lvl3](Achievement_-_Highranker_Lvl3.png) |
-| ![2000 Combo (any song)](Achievement_-_2000_Combo_(Any_Song).png) | ![AThe Highranker Lvl4](Achievement_-_Highranker_Lvl4.png) |
+| ![500 Combo (any song)](osu-combo-500.png) | ![The Highranker Lvl1](all-skill-highranker-1.png) |
+| ![750 Combo (any song)](osu-combo-750.png) | ![The Highranker Lvl2](all-skill-highranker-2.png) |
+| ![1000 Combo (any song)](osu-combo-1000.png) | ![The Highranker Lvl3](all-skill-highranker-3.png) |
+| ![2000 Combo (any song)](osu-combo-2000.png) | ![AThe Highranker Lvl4](all-skill-highranker-4.png) |
 
 
 Dedication
@@ -81,10 +81,10 @@ Dedication
 
 | Standard | Taiko | Catch the Beat | Mania |
 | -------- | ----- | -------------- | ----- |
-| ![5,000 Plays (osu! mode)](5,000 Plays (osu! mode).png) | ![30,000 Drum Hits](30,000 Drum Hits.png) | ![Catch 20,000 fruits](Catch 20,000 fruits.png) | ![40,000 Keys](40,000 Keys.png) |
-| ![15,000 Plays (osu! mode)](15,000 Plays (osu! mode).png) | ![300,000 Drum Hits](300,000 Drum Hits.png) | ![Catch 200,000 fruits](Catch 200,000 fruits.png) | ![400,000 Keys](400,000 Keys.png) |
-| ![25,000 Plays (osu! mode)](25,000 Plays (osu! mode).png) | ![3,000,000 Drum Hits](3,000,000 Drum Hits.png) | ![Catch 2,000,000 fruits](Catch 2,000,000 fruits.png) | ![4,000,000 Keys](4,000,000 Keys.png) |
-| ![50,000 Plays (osu! mode)](50,000 Plays (osu! mode).png) | | | |
+| ![5,000 Plays (osu! mode)](osu-plays-5000.png) | ![30,000 Drum Hits](taiko-hits-30000.png) | ![Catch 20,000 fruits](fruits-hits-20000.png) | ![40,000 Keys](mania-hits-40000.png) |
+| ![15,000 Plays (osu! mode)](osu-plays-15000.png) | ![300,000 Drum Hits](taiko-hits-300000.png) | ![Catch 200,000 fruits](fruits-hits-200000.png) | ![400,000 Keys](mania-hits-400000.png) |
+| ![25,000 Plays (osu! mode)](osu-plays-25000.png) | ![3,000,000 Drum Hits](taiko-hits-3000000.png) | ![Catch 2,000,000 fruits](fruits-hits-2000000.png) | ![4,000,000 Keys](mania-hits-4000000.png) |
+| ![50,000 Plays (osu! mode)](osu-plays-50000.png) | | | |
 
 Hush-Hush
 =========
@@ -92,10 +92,10 @@ Hush-Hush
 Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement. The title itself is a clue.
 
 
-| ![Don't let the bunny distract you!](Don't let the bunny distract you!.png) | ![S-Ranker](S-Ranker.png) | ![Most Improved](Most Improved.png) | ![Non-stop Dance](Non-stop Dancer.png) |
+| ![Don't let the bunny distract you!](all-secret-bunny.png) | ![S-Ranker](all-secret-rank-s.png) | ![Most Improved](all-secret-improved.png) | ![Non-stop Dance](all-secret-dancer.png) |
 | ----------------| ------------------| --------------| ---------------|
-| ![Challenge Accepted](Challenge Accepted.png) | ![Stumbler](Stumbler.png) | ![Jackpot](Jackpot.png) | ![Quick Draw](Quick Draw.png) |
-| ![Obsessed](Obsessed.png) | ![Nonstop](Nonstop.png) | ![Jack of All Trades](Jack of All Trades.png) | ![A meganekko approaches](Meganekko.png) |
+| ![Challenge Accepted](all-secret-challenge_accepted.png) | ![Stumbler](all-secret-stumbler.png) | ![Jackpot](all-secret-jackpot.png) | ![Quick Draw](all-secret-quick_draw.png) |
+| ![Obsessed](all-secret-obsessed.png) | ![Nonstop](all-secret-nonstop.png) | ![Jack of All Trades](all-secret-jack.png) | ![A meganekko approaches](mania-secret-meganekko.png) |
 
 
 External Link
