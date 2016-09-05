@@ -91,7 +91,7 @@ Songs
 
 **Компоненты osu!**
 
--   osu!framework.dll
+-   ~~osu!framework.dll~~
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll

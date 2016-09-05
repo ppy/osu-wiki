@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="Pliki osu! w skrócie." alt="Pliki osu! w skrócie." width="500" />
+![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
 
 Lokalizacja
 ===========
@@ -134,11 +134,10 @@ Pliki .dll są komponentami osu!.exe, więc je zignoruj.
 
 **Komponenty osu!**
 
--   osu!framework.dll
-    (nie jest już potrzebny)
+-   ~~osu!framework.dll~~ (nie jest już potrzebny)
 
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
 
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink")
+[Category:Infrastructure of osu!](Category:Infrastructure_of_osu!/PL "wikilink")

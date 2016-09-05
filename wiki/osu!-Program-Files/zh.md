@@ -134,9 +134,7 @@ Program files
 
 **osu! 程序部件**
 
--   osu!framework.dll
-    (不再需要)
-
+-   ~~osu!framework.dll~~ (不再需要)
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll

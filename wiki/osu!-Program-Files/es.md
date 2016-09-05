@@ -134,9 +134,7 @@ The .dll files are components of osu!.exe so ignore it.
 
 **osu! components**
 
--   osu!framework.dll
-    (This is no longer needed)
-
+-   ~~osu!framework.dll~~ (This is no longer needed)
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll

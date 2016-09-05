@@ -98,7 +98,7 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 
 **Composants d'osu!**
 
--   osu!framework.dll
+-   ~~osu!framework.dll~~
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
