@@ -135,7 +135,7 @@ The .dll files are components of osu!.exe so ignore it.
 -   pthreadGC2.dll
 -   x3daudio1_1.dll
 
-**>osu! components**
+**osu! components**
 
 -   ~~osu!framework.dll~~ (This is no longer needed)
 -   osu!gameplay.dll

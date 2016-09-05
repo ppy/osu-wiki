@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="File aturcara osu! secara keseluruhan." alt="File aturcara osu! secara keseluruhan." width="500" />
+![File aturcara osu! secara keseluruhan](Osu!sys.jpg "File aturcara osu! secara keseluruhan")
 
 Lokasi
 ======
@@ -6,12 +6,12 @@ Lokasi
 Windows
 -------
 
-Secara standar, `C:\Program` `Files\osu!` di mana "C:" adalah kode hard disk dimana osu! diinstal. Untuk Windows 8, `C:\Program` `Files(x86)\osu!`.
+Secara standar, `C:Program` `Filesosu!` di mana "C:" adalah kode hard disk dimana osu! diinstal. Untuk Windows 8, `C:Program` `Files(x86)osu!`.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> Folder
+![Folder](Folder.png "Folder") Folder
 ==============================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! untuk Macintosh OS.** Untuk Windows OS users, abaikan saja atau menghapusnya jika diinginkan.
@@ -22,7 +22,7 @@ Chat
 Hanya muncul apabila anda menggunakan "/savelog" di Chat Console sekali atau jika anda mengaktifkan "Automatically log private messages" di Options. Di dalam folder "chat" menunjukkan **senarai tab Chat Console komen.**
 
 Aturannya adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada dasarnya boleh dibuka melalui aplikasi word pilihan(Notepad, contohnya).
-**Contoh:** \#multiplayer-20121115-040845 (/savelog di tab \#multiplayer pada 15th November 2012, 0408jam dan 45saat).
+**Contoh:** #multiplayer-20121115-040845 (/savelog di tab #multiplayer pada 15th November 2012, 0408jam dan 45saat).
 
 Data
 ----
@@ -42,17 +42,17 @@ Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Opti
 Replay
 ------
 
-Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**\[F2\]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/forum/t/108092).
+Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/forum/t/108092).
 
 Formatnya adalah `{Nama` `pemain` `tempatan}` `-` `{Penyanyi}` `-` `{Tajuk}` `{[Kesukaran]}{(TTTT-BB-HH)}` `{Mode` `Mainan}`
-**Contoh:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Contoh:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 **Screenshots (F12 secara standar) dari osu!**. File extensi screenshot yang disimpan (.jpg/.png) adalah berdasarkan apa yang anda set pada menu Options.
 
-Formatnya adalah `screenshot###` dimana "\#\#\#" adalah nombor screenshot.
+Formatnya adalah `screenshot###` dimana "###" adalah nombor screenshot.
 
 Skins
 -----
@@ -74,25 +74,25 @@ Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor da
 Program files
 =============
 
-<img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (Ekstensi Aplikasi)
+![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (Ekstensi Aplikasi)
 ----------------------------------------------------------------------------------------------------------------------
 
 File .dll adalah komponen dari osu!.exe.
 
-**<u>Komponen Dasar</u>** (Untuk Microsoft .NET)
+**Komponen Dasar** (Untuk Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>Komponen osu!</u>**
+**Komponen osu!**
 
 -   osu!framework.dll
 -   osu!gameplay.dll
@@ -104,18 +104,18 @@ File .dll adalah komponen dari osu!.exe.
 
 File .db adalah data beatmaps. Hanya osu!.exe/osu!test.exe dapat memanfaatkan. Notepad dapat membuka file .db tetapi sebagian besar terdiri daripada karakter dienkripsi.
 
-**<u>osu! database</u>**
+**osu! database**
 
 -   collection.db ("Collections" (Koleksi) anda dalam game. Anda dapat memposting ke forum bagi orang lain untuk memeriksa "Collections" anda. Beatmaps Sebenarnya tidak tersedia.)
 -   osu!.db (osu! beatmaps' cache.)
 -   presence.db (Cache pemain osu! @ Chat Console)
 -   scores.db (Menyimpan skor tempatan bersejarah)
 
-**<u>osu!test database</u>**
+**osu!test database**
 
 -   osu!test.db
--   osu!test\_collection.db
--   osu!test\_presence.db
+-   osu!test_collection.db
+-   osu!test_presence.db
 
 .cfg (File Konfigurasi)
 -----------------------
@@ -131,6 +131,6 @@ Konfigurasi file atau file konfigurasi mengkonfigurasi pengaturan awal untuk osu
 
 Komponen utama. Klik di atasnya untuk start-up. Fail .exe adalah selama untuk dibuka jika anda menggunakan osu! Installer untuk menginstal osu!.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (Buka osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (Buka osu!)
 
 [Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")

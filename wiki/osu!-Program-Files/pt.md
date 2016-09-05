@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="osu! Program Files in nutshell." alt="osu! Program Files in nutshell." width="500" />
+![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
 
 Localização
 ===========
@@ -6,12 +6,12 @@ Localização
 Windows
 -------
 
-Por padrão `C:\Program` `Files\osu!` onde "C:" é o seu Disco Rígido com osu! instalado. Para Windows 8, `C:\Program` `Files(x86)\osu!`.
+Por padrão `C:Program` `Filesosu!` onde "C:" é o seu Disco Rígido com osu! instalado. Para Windows 8, `C:Program` `Files(x86)osu!`.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> Pastas
+![Folder](Folder.png "Folder") Pastas
 ==============================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! para Macintosh OS.** No caso de usuários de Sistemas operacionais Windows, apenas ignore ou delete a pasta se desejar.
@@ -22,7 +22,7 @@ Chat
 Aparece apenas se você usou "/savelog" no painel de Chat ou se você habilitou "Automatically log private messages" nas Opções. A pasta mostra suas converças particulares com outros jogadores.
 
 The styling is `{Tab_name}-{YYYYMMDD}-{HHMMSS}` in .txt format, which basically can be opened in any word application of choice(Notepad).
-**Example:** \#multiplayer-20121115-040845 (/savelog at \#multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
+**Example:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
 
 Downloads
 ---------
@@ -42,17 +42,17 @@ Appears when you had switched your Language under Graphics at Options page. **Ho
 Replays
 -------
 
-Holds **external executable osu! replay file (.osr)**. Does not work when the beatmap linked to the replay file is missing. Holds Results data and reanimates your cursor movement during the replay. To create the .osr, press "**\[F2\]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). Does not save multi-play elements. File size ranging around 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
+Holds **external executable osu! replay file (.osr)**. Does not work when the beatmap linked to the replay file is missing. Holds Results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). Does not save multi-play elements. File size ranging around 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
 
 The format is `{Local` `player` `name}` `-` `{Artist}` `-` `{Title}` `{[Difficulty]}{(YYYY-MM-DD)}` `{Game` `Mode}`
-**Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 **Screenshots (F12 by default) of osu!**. The saved screenshot's file extension (.jpg/.png) is based on what you set on the Options menu.
 
-The format is `screenshot###` where "\#\#\#" is the screenshot number count.
+The format is `screenshot###` where "###" is the screenshot number count.
 
 Skins
 -----
@@ -86,7 +86,7 @@ Program files
 
 The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. Notepad can open the .db files but it will be mostly made up of encrypted characters.
 
-**<u>osu! database</u>**
+**osu! database**
 
 -   collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
 -   osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
@@ -107,30 +107,30 @@ Configuration files or config files configure the initial settings for osu! to w
 
 The main component. Click on it to start-up. The .exe files are safe to open assuming you used the osu!installer to install osu!.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (Start-up osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (Start-up osu!)
 -   <img src="Osume.png" title="fig:Osume.png" alt="Osume.png" width="20" /> osume.exe (Start-up osu! updater. osu!.exe will open this itself when there is a new version. Contains Changelog and Skins (deprecated) to download. Also revives osu!.exe files)
 
 Hidden files
 ------------
 
-### <img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (application extension)
+### ![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (application extension)
 
 The .dll files are components of osu!.exe so ignore it.
 
-**<u>Base components</u>** (For Microsoft .NET)
+**Base components** (For Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>osu! components</u>**
+**osu! components**
 
 -   osu!framework.dll
 -   osu!gameplay.dll

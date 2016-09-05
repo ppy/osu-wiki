@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="osu! Program Files in nutshell." alt="osu! Program Files in nutshell." width="500" />
+![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
 
 位置
 ====
@@ -6,27 +6,15 @@
 Windows
 -------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>现版本默认路径</p></th>
-<th><p><code>C:\Users\</code><Username><code>\AppData\Local\osu!</code></p></th>
-<th><p>rowspan = 2| &quot;C:&quot; 你安装osu! 的硬盘.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>旧的安装程序路径</p></td>
-<td><p><code>C:\Program</code> <code>Files\osu!</code><br />
-<code>C:\Program</code> <code>Files(x86)\osu!</code> (for 7 64-bit or 8)</p></td>
-</tr>
-</tbody>
-</table>
+| 现版本默认路径 | 旧的安装程序路径 |
+| ------------------------ | ---------------------- |
+| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (for 7 64-bit or 8) |
+> "C:" 你安装osu! 的硬盘.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> 文件夹
+![Folder](Folder.png "Folder") 文件夹
 ==============================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! for Macintosh OS.** 对于windows用户，你可以删除这个文件夹。
@@ -37,7 +25,7 @@ Chat
 只有当你曾经在对话框中使用 */savelog* 指令或你启用了 *自动记录私人消息* 功能时才会出现.记录了你在osu! 内对话标签的内容.
 
 文件以 `{Tab_name}-{YYYYMMDD}-{HHMMSS}.txt`的形式保存, 可以以任何文本编辑器打开(Notepad).
-**实例:** \#multiplayer-20121115-040845 (/savelog at \#multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
+**实例:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
 
 Downloads
 ---------
@@ -60,14 +48,14 @@ Replays
 保存**可执行的osu! replay文件(.osr)**.如果与rep对应的beatmap不存在,osr文件将无法工作.osr文件保存了游戏结果数据和光标移动轨迹.你可以在结果页面按下**F2**或在在线排名页面(只有在solo下出现,在结果页面下面)点击 **Save as .osr**来创建.osr文件.不保存多人游戏结果..osr的文件大小在100kb-1kb不等.[想要上传rep到youtube的玩家可以参考本页面](https://osu.ppy.sh/forum/t/108092)
 
 格式为 `{Local` `player` `name}` `-` `{Artist}` `-` `{Title}` `{[Difficulty]}{(YYYY-MM-DD)}` `{Game` `Mode}`
-**Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 *'保存osu! 的截图(默认为F12)*. 截图格式(.jpg/.png)取决于你在选项中设置的结果.
 
-格式为 `screenshot###` *\#\#\#*表示你的截图数量.
+格式为 `screenshot###` *###*表示你的截图数量.
 
 Skins
 -----
@@ -101,7 +89,7 @@ Program files
 
 .db文件保存了beatmap信息,这些文件只能由osu!.exe/osu!test.exe使用.Notepad可以打开这类文件但通常你只会得到大量加密的字符串.
 
-**<u>osu! 数据库</u>**
+**osu! 数据库**
 
 -   collection.db (你在游戏中的收藏夹.你可以把这个文件上传到论坛以便他人查看你的收藏.实际的beatmap不包含在内.)
 -   osu!.db (osu! beatmap缓存.)
@@ -122,29 +110,29 @@ Program files
 
 主要部件.点击后可以启动.如果你使用osu!installer安装osu!,那么这些.exe文件是安全的.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (启动osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (启动osu!)
 
 隐藏文件
 --------
 
-### <img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (应用程序拓展)
+### ![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (应用程序拓展)
 
 .dll文件是osu!.exe程序的组成部件,请忽略该类文件.
 
-**<u>基础部件</u>** (For Microsoft .NET)
+**基础部件** (For Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>osu! 程序部件</u>**
+**osu! 程序部件**
 
 -   osu!framework.dll
     (不再需要)
