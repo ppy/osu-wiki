@@ -90,9 +90,9 @@ Ważne: Obaj zwycięzcy (wybierani przez społeczność i przez zespół) dostaj
 
 Ważne: Zwycięzca otrzymuje **zestaw sklepu osu!** - 1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [zestaw naklejek osu!](//store.ppy.sh/store/product/2), 1x [zestaw naklejek osu! #2](//store.ppy.sh/store/product/4) oraz [6-miesięczny status donatora](../osu!supporter/pl.md). Zdobywca drugiego miejsca otrzymuje natomiast [4-miesięczny status donatora](../osu!supporter/pl.md).
 
-| Konkurs | Tytuł                           | Wymaganie                                    | Zwycięzca | Post informujący                                   | Rezultat       |
-|---------|---------------------------------|----------------------------------------------|-----------|----------------------------------------------------|----------------|
-| #1      | osu! Beatmap Blueprints Contest | Plany beatmap osu! <br> "Mapuj gdzie chcesz" | (WIN)     | [Post informujący](//osu.ppy.sh/news/114095906408) | \[(Rezultat)\] |
+| Konkurs | Tytuł                           | Wymaganie                                 | Zwycięzca | Post informujący                                   | Rezultat       |
+|---------|---------------------------------|-------------------------------------------|-----------|----------------------------------------------------|----------------|
+| #1      | osu! Beatmap Blueprints Contest | Plany beatmap osu! ("Mapuj gdzie chcesz") | (WIN)     | [Post informujący](//osu.ppy.sh/news/114095906408) | \[(Rezultat)\] |
 
 ## osu!idol
 

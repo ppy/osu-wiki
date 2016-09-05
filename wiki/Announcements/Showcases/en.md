@@ -50,11 +50,11 @@
 
 #### 2010 osu!standard
 
-| Placing | 2010 Results                                                                                                                                   |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                   |
-| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994) <br/> [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
-| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                         |
+| Placing | 2010 Results                                                                                                                                  |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                  |
+| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994)  //  [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
+| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                        |
 
 -    [Top 50](//puu.sh/Fju)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2010)
@@ -90,11 +90,11 @@
 
 #### 2012 osu!standard
 
-| Placing | 2012 Results                                                                                                                  |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                  |
-| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                    |
-| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686) <br/> [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
+| Placing | 2012 Results                                                                                                                 |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                 |
+| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                   |
+| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686)  //  [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
 
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2012)
@@ -156,11 +156,11 @@
 
 #### 2013 osu!taiko
 
-| Placing | 2013 Results                                                                                                                  |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                    |
-| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                                |
-| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529) <br/> [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
+| Placing | 2013 Results                                                                                                                 |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                   |
+| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                               |
+| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529)  //  [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
 
 -    [Top 10 (and 1329 runner ups)](//docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2013)

@@ -39,7 +39,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2009 osu!standard
 
-| Placing | 2009 Ergebnis                                                            |
+| Placing | 2009 Ergebnis                                                           |
 |---------|-------------------------------------------------------------------------|
 | \#1     | [Queen - Don't Stop Me Now (m980)](//osu.ppy.sh/s/5381)                 |
 | \#2     | [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](//osu.ppy.sh/s/6257)        |
@@ -59,11 +59,11 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2010 osu!standard
 
-| Placing | 2010 Ergebnis                                                                                                                                   |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                   |
-| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994) <br/> [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
-| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                         |
+| Placing | 2010 Ergebnis                                                                                                                                 |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                  |
+| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994)  //  [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
+| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                        |
 
 -    [Top 50](//puu.sh/Fju)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2010)
@@ -79,7 +79,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2011 osu!standard
 
-| Placing | 2011 Ergebnis                                                  |
+| Placing | 2011 Ergebnis                                                 |
 |---------|---------------------------------------------------------------|
 | \#1     | [DJ Fresh - Gold Dust (galvenize)](//osu.ppy.sh/s/28107)      |
 | \#2     | [Bomfunk MC's - Freestyler (Lesjuh)](//osu.ppy.sh/s/35629)    |
@@ -99,11 +99,11 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2012 osu!standard
 
-| Placing | 2012 Ergebnis                                                                                                                  |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                  |
-| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                    |
-| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686) <br/> [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
+| Placing | 2012 Ergebnis                                                                                                                |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                 |
+| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                   |
+| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686)  //  [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
 
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2012)
@@ -116,7 +116,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2013 osu!standard
 
-| Placing | 2013 Ergebnis                                                    |
+| Placing | 2013 Ergebnis                                                   |
 |---------|-----------------------------------------------------------------|
 | \#1     | [Infected Mushroom - The Pretender (RLC)](//osu.ppy.sh/s/79498) |
 | \#2     | [Yousei Teikoku - The Creator (meiikyuu)](//osu.ppy.sh/s/41242) |
@@ -133,7 +133,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2014 osu!standard
 
-| Placing | 2014 Ergebnis                                                                     |
+| Placing | 2014 Ergebnis                                                                    |
 |---------|----------------------------------------------------------------------------------|
 | \#1     | [Aoi Eir - IGNITE (TV size ver.) (Guy)](//osu.ppy.sh/s/190222)                   |
 | \#2     | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](//osu.ppy.sh/s/134151) |
@@ -148,7 +148,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2015 osu!standard
 
-| Placing | 2014 Ergebnis                                                                 |
+| Placing | 2014 Ergebnis                                                                |
 |---------|------------------------------------------------------------------------------|
 | \#1     | [Panda Eyes &amp; Teminite - Highscore (Fort)](//osu.ppy.sh/s/332532)        |
 | \#2     | [Konuko - Toumei Elegy (Awaken)](//osu.ppy.sh/s/219380)                      |
@@ -165,11 +165,11 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2013 osu!taiko
 
-| Placing | 2013 Ergebnis                                                                                                                 |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                    |
-| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                                |
-| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529) <br/> [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
+| Placing | 2013 Ergebnis                                                                                                                |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                   |
+| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                               |
+| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529)  //  [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
 
 -    [Top 10 (and 1329 runner ups)](//docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2013)
@@ -267,11 +267,11 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 #### 2013 osu!mania
 
-| Placing | 2013 Ergebnis                                                        |
-|---------|----------------------------------------------------------------------|
-| \#1     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)       |
-| \#2     | [LeaF - MEPHISTO (Alumetorz)](//osu.ppy.sh/s/106212)                 |
-| \#3     | [Igorrr - Unpleasant Sonata (Sieg)](//osu.ppy.sh/s/90385)            |
+| Placing | 2013 Ergebnis                                                  |
+|---------|----------------------------------------------------------------|
+| \#1     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214) |
+| \#2     | [LeaF - MEPHISTO (Alumetorz)](//osu.ppy.sh/s/106212)           |
+| \#3     | [Igorrr - Unpleasant Sonata (Sieg)](//osu.ppy.sh/s/90385)      |
 
 -    [Top 10 (and 1329 runner ups)](//docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2013)

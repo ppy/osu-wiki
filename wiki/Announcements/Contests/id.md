@@ -88,9 +88,9 @@ Catatan: Dua pemenang (oleh publik dan staff) masing-masing akan mendaparkan sup
 
 Catatan: Para pemenang mendapatkan “paket osu! store’” (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), dan [supporter tag berjangka 6](../osu!supporter/id.md))</a>) sedangkan runner-up mendapatkan [supporter tag berjangka 4 bulan](../osu!supporter/id.md).
 
-| Kontes | Judul                         | Persyaratan                                     | Kolom Pemenang | Berita                                   | Hasil       |
-|--------|-------------------------------|-------------------------------------------------|----------------|------------------------------------------|-------------|
-| #1     | Kontes Blueprint Beatmap osu! | osu! Beatmap Blueprints <br> "Beatmap anywhere" | (WIN)          | [Berita](//osu.ppy.sh/news/114095906408) | \[(Hasil)\] |
+| Kontes | Judul                         | Persyaratan                                   | Kolom Pemenang | Berita                                   | Hasil       |
+|--------|-------------------------------|-----------------------------------------------|----------------|------------------------------------------|-------------|
+| #1     | Kontes Blueprint Beatmap osu! | osu! Beatmap Blueprints  ("Beatmap anywhere") | (WIN)          | [Berita](//osu.ppy.sh/news/114095906408) | \[(Hasil)\] |
 
 ## osu!idol
 

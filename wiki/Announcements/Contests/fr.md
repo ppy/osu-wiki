@@ -89,9 +89,9 @@ Note: Deux gagnants (par vote du public et du staff) reçoivent chacun une anné
 
 Note: Le vainqueur remporte un **pack osu! store** (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), and [6 mois de supporter](../osu!supporter/fr.md)) tandis que les autres finalistes obtiennent [4 mois de supporter](../osu!supporter/fr.md).
 
-| Concours | Titre                             | Exigences                                       | Sélections gagnantes | News                                   | Résultats       |
-|----------|-----------------------------------|-------------------------------------------------|----------------------|----------------------------------------|-----------------|
-| #1       | Concours de plans de beatmap osu! | osu! Beatmap Blueprints <br> "Beatmap anywhere" | (WIN)                | [News](//osu.ppy.sh/news/114095906408) | \[(Résultats)\] |
+| Concours | Titre                             | Exigences                                    | Sélections gagnantes | News                                   | Résultats       |
+|----------|-----------------------------------|----------------------------------------------|----------------------|----------------------------------------|-----------------|
+| #1       | Concours de plans de beatmap osu! | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN)                | [News](//osu.ppy.sh/news/114095906408) | \[(Résultats)\] |
 
 ## osu!idol
 

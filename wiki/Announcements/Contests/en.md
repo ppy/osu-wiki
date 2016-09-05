@@ -90,9 +90,9 @@ Note: Two winners (by public poll and staff) will each get a full one-year suppo
 
 Note: Winner get **osu! store pack** (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), and [6 months supporter tag](../osu!supporter/en.md)) while runner-ups get [4 months supporter tag](../osu!supporter/en.md).
 
-| Contest | Title                           | Requirement                                     | Winning selections | News                                   | Results       |
-|---------|---------------------------------|-------------------------------------------------|--------------------|----------------------------------------|---------------|
-| \#1     | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints <br> "Beatmap anywhere" | (WIN)              | [News](//osu.ppy.sh/news/114095906408) | \[(Results)\] |
+| Contest | Title                           | Requirement                                  | Winning selections | News                                   | Results       |
+|---------|---------------------------------|----------------------------------------------|--------------------|----------------------------------------|---------------|
+| \#1     | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN)              | [News](//osu.ppy.sh/news/114095906408) | \[(Results)\] |
 
 ## osu!idol
 

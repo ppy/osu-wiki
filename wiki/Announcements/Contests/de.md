@@ -90,8 +90,8 @@ osu!store Wettbewerb
 
 **Hinweis:** Der Gewinner bekommt ein **osu! store pack** (1x , 1x , 1x und [Supporter Tag für 6 Monate](DE:Osu!supporter "wikilink")), Nachplatzierte bekommen ein [Supporter Tag für 4 Monate](Osu!supporter "wikilink").
 
-| Contest | Titel                              | Bedingung                                        | Gewinner   | News                                   | Ergebnis       |
-|---------|------------------------------------|--------------------------------------------------|------------|----------------------------------------|----------------|
-| \#1     | osu! Beatmap Blueprints Wettbewerb | osu! Beatmap Blueprints <br/> "Beatmap irgendwo" | (Gewinner) | [News](//osu.ppy.sh/news/114095906408) | \[(Ergebnis)\] |
+| Contest | Titel                              | Bedingung                                     | Gewinner   | News                                   | Ergebnis       |
+|---------|------------------------------------|-----------------------------------------------|------------|----------------------------------------|----------------|
+| \#1     | osu! Beatmap Blueprints Wettbewerb | osu! Beatmap Blueprints  ("Beatmap irgendwo") | (Gewinner) | [News](//osu.ppy.sh/news/114095906408) | \[(Ergebnis)\] |
 
 <Category:Deutsch> [Category:History of osu!/DE](Category:History_of_osu!/DE "wikilink")

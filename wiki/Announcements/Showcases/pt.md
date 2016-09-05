@@ -44,11 +44,11 @@ osu!mania World Cup
 Premiações
 ==========
 
-| 1.  1 | 6 meses de supporter e emblema de campeão no perfil de todos os membros do time |
-|-------|---------------------------------------------------------------------------------|
-| 1.  2 | 3 meses de supporter para todos os membros do time                              |
-| 1.  3 | 1 mez de supporter para todos os membros do time                                |
-||
+| Placing | Premiações                                                                      |
+|---------|---------------------------------------------------------------------------------|
+| \#1     | 6 meses de supporter e emblema de campeão no perfil de todos os membros do time |
+| \#2     | 3 meses de supporter para todos os membros do time                              |
+| \#3     | 1 mez de supporter para todos os membros do time                                |
 
 Veja também
 ===========
@@ -117,11 +117,11 @@ Melhores dos temas
 
 #### 2010 osu!standard
 
-| Placing | 2010 Resultados                                                                                                                                |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                   |
-| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994) <br/> [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
-| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                         |
+| Placing | 2010 Resultados                                                                                                                               |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](//osu.ppy.sh/s/19789)                                                                  |
+| \#2     | [07th Expansion - rog-limitation (AngelHoney)](//osu.ppy.sh/s/14994)  //  [Baracuda - La Di Da (Nightcore Mix) (ztrot)](//osu.ppy.sh/s/17852) |
+| \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](//osu.ppy.sh/s/18841)                                                                        |
 
 -    [Top 50](//puu.sh/Fju)
 -    [Diagramas](//osu.ppy.sh/p/chart?ch=best2010)
@@ -157,11 +157,11 @@ Melhores dos temas
 
 #### 2012 osu!standard
 
-| Placing | 2012 Resultados                                                                                                               |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                  |
-| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                    |
-| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686) <br/> [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
+| Placing | 2012 Resultados                                                                                                              |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](//osu.ppy.sh/s/55799)                                                                 |
+| \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](//osu.ppy.sh/s/39804)                                                                   |
+| \#3     | [Lily - Scarlet Rose (val0108)](//osu.ppy.sh/s/41686)  //  [Hatsune Miku - Mythologia's End (val0108)](//osu.ppy.sh/s/48979) |
 
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 -    [Diagramas](//osu.ppy.sh/p/chart?ch=best2012)
@@ -223,11 +223,11 @@ Melhores dos temas
 
 #### 2013 osu!taiko
 
-| Placing | 2013 Resultados                                                                                                               |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|
-| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                    |
-| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                                |
-| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529) <br/> [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
+| Placing | 2013 Resultados                                                                                                              |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](//osu.ppy.sh/s/87630)                                                   |
+| \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)                                                               |
+| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](//osu.ppy.sh/s/108529)  //  [LeaF - Calamity Fortune (Flower)](//osu.ppy.sh/s/96103) |
 
 -    [Top 10 (and 1329 runner ups)](//docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Diagramas](//osu.ppy.sh/p/chart?ch=best2013)
@@ -257,7 +257,7 @@ Melhores dos temas
 
 #### 2015 osu!taiko
 
-| Placing | 2015 Resultados                                                                 |
+| Placing | 2015 Resultados                                                              |
 |---------|------------------------------------------------------------------------------|
 | \#1     | [cillia - Fairytale, (mintong89)](//osu.ppy.sh/s/275331)                     |
 | \#2     | [joeyclassic - seal.mp4 (IntelliTroodon)](//osu.ppy.sh/s/329268)             |
@@ -274,7 +274,7 @@ Melhores dos temas
 
 #### 2013 osu!catch
 
-| Placing | 2013 Resultados                                                         |
+| Placing | 2013 Resultados                                                      |
 |---------|----------------------------------------------------------------------|
 | \#1     | [ONE OK ROCK - Rock, Scissors, Paper (Haya)](//osu.ppy.sh/s/82282)   |
 | \#2     | [DECO*27 feat. marina - Aimai Elegy (val0108)](//osu.ppy.sh/s/43248) |
@@ -291,7 +291,7 @@ Melhores dos temas
 
 #### 2014 osu!catch
 
-| Placing | 2014 Resultados                                                                     |
+| Placing | 2014 Resultados                                                                  |
 |---------|----------------------------------------------------------------------------------|
 | \#1     | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](//osu.ppy.sh/s/134151) |
 | \#2     | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](//osu.ppy.sh/s/157896)      |
@@ -308,7 +308,7 @@ Melhores dos temas
 
 #### 2015 osu!catch
 
-| Placing | 2015 Resultados                                                                                   |
+| Placing | 2015 Resultados                                                                                |
 |---------|------------------------------------------------------------------------------------------------|
 | \#1     | [Halozy - Genryuu Kaiko (CLSW)](//osu.ppy.sh/s/253969)                                         |
 | \#2     | [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](//osu.ppy.sh/s/287873)      |
@@ -325,7 +325,7 @@ Melhores dos temas
 
 #### 2013 osu!mania
 
-| Placing | 2013 Resultados                                                         |
+| Placing | 2013 Resultados                                                      |
 |---------|----------------------------------------------------------------------|
 | \#1     | [Wotamin - Gigantic O.T.N (Star Stream)](//osu.ppy.sh/s/80214)       |
 | \#2     | [LeaF - MEPHISTO (Alumetorz)](//osu.ppy.sh/s/106212)                 |
@@ -342,7 +342,7 @@ Melhores dos temas
 
 #### 2014 osu!mania
 
-| Placing | 2014 Resultados                                                                     |
+| Placing | 2014 Resultados                                                                  |
 |---------|----------------------------------------------------------------------------------|
 | \#1     | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](//osu.ppy.sh/s/134151) |
 | \#2     | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](//osu.ppy.sh/s/157896)      |
@@ -359,7 +359,7 @@ Melhores dos temas
 
 #### 2015 osu!mania
 
-| Placing | 2015 Resultados                                                                |
+| Placing | 2015 Resultados                                                             |
 |---------|-----------------------------------------------------------------------------|
 | \#1     | [D(ABE3) - MANIERA (iJinjin)](//osu.ppy.sh/s/272871)                        |
 | \#2     | [BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](//osu.ppy.sh/s/200552) |
