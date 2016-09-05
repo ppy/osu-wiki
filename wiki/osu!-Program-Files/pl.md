@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="Pliki osu! w skrócie." alt="Pliki osu! w skrócie." width="500" />
+![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
 
 Lokalizacja
 ===========
@@ -6,27 +6,15 @@ Lokalizacja
 Windows
 -------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Obecna, domyślna ścieżka</p></th>
-<th><p><code>C:\Users\</code><Username><code>\AppData\Local\osu!</code></p></th>
-<th><p>rowspan = 2| &quot;C:&quot; jest twoim dyskiem z zainstalowanym osu!.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Stara ścieżka</p></td>
-<td><p><code>C:\Program</code> <code>Files\osu!</code><br />
-<code>C:\Program</code> <code>Files(x86)\osu!</code> (dla 7 64-bit lub 8)</p></td>
-</tr>
-</tbody>
-</table>
+| Obecna, domyślna ścieżka | Stara ścieżka |
+| ------------------------ | ---------------------- |
+| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+> "C:" jest twoim dyskiem z zainstalowanym osu!.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> Foldery
+![Folder](Folder.png "Folder") Foldery
 ===============================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! dla Macintosh OS.** Jeżeli jesteś użytkownikiem Windowsa, po prostu zignoruj go lub skasuj wedle własnego życzenia.
@@ -37,7 +25,7 @@ Chat
 Pojawia się tylko, gdy użyjesz /savelog w czacie jednorazowo lub jeśli masz włączone "Automatyczne zapisywanie prywatnych wiadomości" w opcjach. Folder zawiera twoje **zapisy rozmów z czatu.**
 
 Szyk: `{Tab_name}-{YYYYMMDD}-{HHMMSS}` w formacie .txt, który może być otworzony w jakiejkolwiek aplikacji tekstowej(Notatnik).
-**Przykład:** \#multiplayer-20121115-040845 (/savelog w kanale \#multiplayer 15 listopada 2012 roku o 04:08:45).
+**Przykład:** #multiplayer-20121115-040845 (/savelog w kanale #multiplayer 15 listopada 2012 roku o 04:08:45).
 
 Downloads
 ---------
@@ -57,17 +45,17 @@ Pojawia się, gdy zmienisz swój język w Opcjach. **'Zawiera przetłumaczone pl
 Replays
 -------
 
-Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***\[F2\]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/forum/t/108092).
+Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/forum/t/108092).
 
 Szyk: `{Lokalny` `pseudonim` `gracza}` `-` `{Wykonawca}` `-` `{Tytuł}` `{[Poziom` `trudności]}{(Rok-Miesiąc-Dzień)}` `{Tryb` `Gry}`
-**Przykład:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 **Zrzuty ekranu osu! (domyślnie F12)**. Rozszerzenie zapisanych zrzutów ekranu (.jpg/.png) jest bazowane na tym co ustawiłeś w Opcjach.
 
-Szyk: `screenshot###` gdzie "\#\#\#" to numer zrzutu ekranu.
+Szyk: `screenshot###` gdzie "###" to numer zrzutu ekranu.
 
 Skins
 -----
@@ -101,7 +89,7 @@ Pliki programowe
 
 Pliki .db przechowują dane beatmap, które tylko osu!.exe/osu!test.exe może wykorzystywać. Notatnik może otwierać pliki .db, ale będą w większości stworzone z zaszyfrowanych znaków.
 
-**<u>Bazy danych osu! </u>**
+**Bazy danych osu!**
 
 -   collection.db (twoja "kolekcja" w grze. Możesz dać ją dla innych na forum dla sprawdzenia twojej "kolekcji". Aktualne beatmapy nie są uwzględnione.)
 -   osu!.db (pamięć podręczna beatmap osu!. Wiesz o ekranie ładowania przed tym jak zobaczysz Listę Utworów?)
@@ -122,35 +110,34 @@ Pliki konfiguracyjne konfigurują wstępne ustawienia osu! do pracy. Pliki te mo
 
 Główny komponent. Kliknij go, aby uruchomić. Pliki .exe można bezpiecznie otwierać, zakładając, że użyłeś osu!installer aby zainstalować osu!.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (Uruchamia osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (Uruchamia osu!)
 
 Ukryte pliki
 ------------
 
-### <img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (rozszerzenie plików)
+### ![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (rozszerzenie plików)
 
 Pliki .dll są komponentami osu!.exe, więc je zignoruj.
 
-**<u>Podstawowe komponenty</u>** (dla Microsoft .NET)
+**Podstawowe komponenty** (dla Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>Komponenty osu!</u>**
+**Komponenty osu!**
 
--   osu!framework.dll
-    (nie jest już potrzebny)
+-   ~~osu!framework.dll~~ (nie jest już potrzebny)
 
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
 
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink")
+[Category:Infrastructure of osu!](Category:Infrastructure_of_osu!/PL "wikilink")

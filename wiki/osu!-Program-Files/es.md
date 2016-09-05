@@ -1,4 +1,4 @@
-<img src="Osu!sys.jpg" title="Archivos de programa de Osu! en resumen." alt="Archivos de programa de Osu! en resumen." width="500" />
+![Archivos de programa de Osu! en resumen](Osu!sys.jpg "Archivos de programa de Osu! en resumen")
 
 Localización
 ============
@@ -6,27 +6,15 @@ Localización
 Windows
 -------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Ubicación por defecto actual</p></th>
-<th><p><code>C:\Users\</code><Username><code>\AppData\Local\osu!</code></p></th>
-<th><p>rowspan = 2| &quot;C:&quot; es tu disco duro con Osu! instalado.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Ubicación por defecto anterior</p></td>
-<td><p><code>C:\Program</code> <code>Files\osu!</code><br />
-<code>C:\Program</code> <code>Files(x86)\osu!</code> (para 7 64-bit u 8)</p></td>
-</tr>
-</tbody>
-</table>
+| Ubicación por defecto actual | Ubicación por defecto anterior |
+| ------------------------ | ---------------------- |
+| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (para 7 64-bit u 8) |
+> "C:" es tu disco duro con Osu! instalado.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> Carpetas
+![Folder](Folder.png "Folder") Carpetas
 ================================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! para Macintosh OS.** Para usuarios del sistema operativo de Windows, solo ignóralo o eliminalo si lo deseas.
@@ -37,7 +25,7 @@ Chat
 Solo aparece cuando has usado "/savelog" en la consola del chat en una ocasión o si has activado "Registrar mensajes privados automáticamente" en opciones. La carpeta te mostrará tu "registro de comentarios en la consola de Chat".
 
 El estilo es `{Nombre_Canal}--{AAAAMMDD}-{HHMMSS}` en formato .txt, que básicamente puede ser abierto con cualquier aplicación de textos (Bloc de notas).
-"'Ejemplo:"' \#multiplayer-20121115-040845 (/savelog en el canal \#multiplayer el 15 de Noviembre del 2015 a las 0408 horas con 45 segundos).
+"'Ejemplo:"' #multiplayer-20121115-040845 (/savelog en el canal #multiplayer el 15 de Noviembre del 2015 a las 0408 horas con 45 segundos).
 
 Descargas
 ---------
@@ -57,17 +45,17 @@ Appears when you had switched your Language under Graphics at Options page. **Ho
 Replays
 -------
 
-Holds **external executable osu! replay file (.osr)**. Does not work when the beatmap linked to the replay file is missing. Holds Results data and reanimates your cursor movement during the replay. To create the .osr, press "**\[F2\]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). Does not save multi-play elements. File size ranging around 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
+Holds **external executable osu! replay file (.osr)**. Does not work when the beatmap linked to the replay file is missing. Holds Results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). Does not save multi-play elements. File size ranging around 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
 
 The format is `{Local` `player` `name}` `-` `{Artist}` `-` `{Title}` `{[Difficulty]}{(YYYY-MM-DD)}` `{Game` `Mode}`
-**Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 **Screenshots (F12 by default) of osu!**. The saved screenshot's file extension (.jpg/.png) is based on what you set on the Options menu.
 
-The format is `screenshot###` where "\#\#\#" is the screenshot number count.
+The format is `screenshot###` where "###" is the screenshot number count.
 
 Skins
 -----
@@ -101,7 +89,7 @@ Program files
 
 The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. Notepad can open the .db files but it will be mostly made up of encrypted characters.
 
-**<u>osu! database</u>**
+**osu! database**
 
 -   collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
 -   osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
@@ -122,33 +110,31 @@ Configuration files or config files configure the initial settings for osu! to w
 
 The main component. Click on it to start-up. The .exe files are safe to open assuming you used the osu!installer to install osu!.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (Start-up osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (Start-up osu!)
 
 Hidden files
 ------------
 
-### <img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (application extension)
+### ![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (application extension)
 
 The .dll files are components of osu!.exe so ignore it.
 
-**<u>Base components</u>** (For Microsoft .NET)
+**Base components** (For Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>osu! components</u>**
+**osu! components**
 
--   osu!framework.dll
-    (This is no longer needed)
-
+-   ~~osu!framework.dll~~ (This is no longer needed)
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll

@@ -1,14 +1,14 @@
-<img src="Osu!sys.jpg" title="Le dossier Program Files osu! en bref." alt="Le dossier Program Files osu! en bref." width="500" />
+![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")
 
 Emplacement
 ===========
 
-Par défaut `C:\Program` `Files` `(x86)\osu!` où "C:" est votre disque dur où osu! est installé.
+Par défaut `C:Program` `Files` `(x86)osu!` où "C:" est votre disque dur où osu! est installé.
 
-<img src="Folder.png" title="fig:Folder.png" alt="Folder.png" width="50" height="50" /> Dossiers
+![Folder](Folder.png "Folder") Dossiers
 ================================================================================================
 
-\_MACOSX
+_MACOSX
 --------
 
 **osu! pour Macintosh OS.** Pour les utilisateurs de Windows OS, ignorez-le.
@@ -19,7 +19,7 @@ Chat
 Apparaît seulement quand "/savelog" est utilisé au moins une fois dans la console de Chat ou si vous avez activé "Conserver une copie des messages privés" dans les Options. Le dossier affiche vos **enregistrements des commentaires de l'onglet de la console de chat.**
 
 Le format est `{Nom_de_l'onglet}-{AAAAMMJJ}-{HHMMSS}` en format .txt, qui peut normalement être ouvert avec n'importe quel logiciel d'édition de texte (Bloc-notes).
-**Exemple:** \#french-20140624-084245 (/savelog dans l'onglet \#french 24th Juin 2014 à 08 heures 42 minutes et 45 secondes).
+**Exemple:** #french-20140624-084245 (/savelog dans l'onglet #french 24th Juin 2014 à 08 heures 42 minutes et 45 secondes).
 
 Data
 ----
@@ -46,17 +46,17 @@ Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Conteint
 Replays
 -------
 
-Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**\[F2\]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/forum/t/108092).
+Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/forum/t/108092).
 
 Le format est `{Nom` `du` `joueur` `local}` `-` `{Artiste}` `-` `{Titre}` `{[Difficulté]}{(AAAA-MM-JJ)}` `{Mode` `de` `jeu}`
-**Exemple:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
+**Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
 
 Screenshots
 -----------
 
 **Captures d'écran (F12 by default) d'osu!**. L'extension de la capture d'écran (.jpg/.png) dépend de ce que vous avez choisi dans le menu Options.
 
-Le format est `screenshot###` où "\#\#\#" est le numéro de la capture d'écran.
+Le format est `screenshot###` où "###" est le numéro de la capture d'écran.
 
 Skins
 -----
@@ -78,27 +78,27 @@ Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne
 Fichiers programmes
 ===================
 
-<img src="DLL icon.jpg" title="fig:DLL icon.jpg" alt="DLL icon.jpg" width="50" height="50" /> .dll (Extension de l'application)
+![DLL Icon](DLL_Icon.jpg "DLL Icon") .dll (Extension de l'application)
 -------------------------------------------------------------------------------------------------------------------------------
 
 Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 
-**<u>Composants de base</u>** (Pour Microsoft .NET)
+**Composants de base** (Pour Microsoft .NET)
 
 -   avcodec-51.dll
 -   avformat-52.dll
 -   avutil-49.dll
 -   bass.dll
--   bass\_fx.dll
--   d3dx9\_31.dll
+-   bass_fx.dll
+-   d3dx9_31.dll
 -   Microsoft.Ink.dll
 -   Microsoft.Xna.Framework.dll
 -   pthreadGC2.dll
--   x3daudio1\_1.dll
+-   x3daudio1_1.dll
 
-**<u>Composants d'osu!</u>**
+**Composants d'osu!**
 
--   osu!framework.dll
+-   ~~osu!framework.dll~~
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
@@ -108,7 +108,7 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 
 Les fichiers .db sont les données des beatmaps que seul osu!.exe peut utiliser. Le Bloc-notes peut ouvrir les fichiers .db mais ils seront majoritairement remplis de caractères encryptés.
 
-**<u>Base de données d'osu!</u>**
+**Base de données d'osu!**
 
 -   collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
 -   osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
@@ -128,6 +128,6 @@ Les fichiers de configurations ou fichiers CFG configurent les paramètres initi
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 
--   <img src="logo.png" title="fig:logo.png" alt="logo.png" width="20" /> osu!.exe (Démarre osu!)
+-   ![Logo](logo.png "Logo") osu!.exe (Démarre osu!)
 
 
