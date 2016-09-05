@@ -1,54 +1,39 @@
 From the thread: [*how to add custom hitsound?* by: neonat](https://osu.ppy.sh/forum/p/3215699) (and modified)
 
-Note
-----
+## Getting the custom hitsounds
 
-\***.mp3** is a placeholder! It is recommended that you use \***.wav** (but you can still use \***.mp3** anyways)!
+You'll first need some custom hitsounds! You can either:
+* You can get them from the [[Custom Hitsound Library]],
+* or make your own
+** if you do make your own, try to keep the format as *.wav - as it is best for looping [Citation Needed].
 
-Obtain the custom hitsounds
----------------------------
+Once you get them, move them into the song folder itself. If you don't know where your song folder is located, follow these directions:
+* Open osu!
+* Edit
+* Navigate to _your beatmap_ and open it
+* Files (top-left menu, it is an off-white colored bar at the top)
+* Open song folder
+* _and paste them here_
 
-You first need some custom hitsounds.
+Now that you have them inside the song folder, it is important (sort of) to name them to what you want them to be. For example, it could be named "finish", "whistle", "clap", "normal hit", or "loud noises".
 
--   You can get them from the [Custom Hitsound Library](Custom_Hitsound_Library "wikilink")
--   or make your own
+Depending on which kind of hitsound you want it to fall under, you start the file name as "soft", "normal" or "drum".
 
-Paste them into the song folder itself
---------------------------------------
+You then decide if you want it to be the normal hit, clap, whistle or finish.
 
-If you don't know where your song folder is located, follow these directions
-
-1.  Open osu!
-2.  Edit
-3.  Navigate to *your beatmap here* and open it
-4.  Files (top-left menu, it is an off-white colored bar at the top)
-5.  Open song folder
-6.  *and paste them here*
-
-Decide what type of sound they are
-----------------------------------
-
-This is important… sort of. Name them to what you want them to be, be it to be the **finish**, the **whistle**, the **clap** or just the **normal hit**.
-
-Depending on which kind of hitsound you want it to fall under, you start the file name as **soft**, **normal** or **drum**.
-
-You then decide if you want it to be the normal hit, clap, whistle or finish
-
-![](ACH_01.png "ACH_01.png")
+![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
 
 ### Example 1
 
-So then you name the file (let's say the Soft clap) **soft-hitclap**.mp3
+So then you name the file (let's say the Soft clap) "soft-hitclap.mp3".
 
-Multiple hitsounds with the same name
--------------------------------------
+## Multiple hitsounds with the same name
 
-If you want more variety and need more options for clap and all, you just add a number behind it
+If you want more variety and need more options for clap and all, you just add a number behind it.
 
 ### Example 2
-
-like **normal-hitclap2**.mp3 or like **soft-hitfinish3**.mp3
+Like "normal-hitclap2.mp3" or like "soft-hitfinish3.mp3"
 
 Don't forget to go to the timing setup and change the hitsound choice to custom, and to the specific number
 
-![](ACH_02.png "ACH_02.png")
+![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
