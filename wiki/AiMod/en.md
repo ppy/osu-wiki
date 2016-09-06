@@ -33,6 +33,8 @@ Tabs
 Messages
 --------
 
+>Note: Numbers inside curly brackets (i.e. "{0}") is a placeholder for a number or a word.
+
 ### Informational
 
 #### All
@@ -69,6 +71,7 @@ Messages
 ### Warnings
 
 #### Compose
+
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
 | This slider moves in an abnormal way. | | |
@@ -87,5 +90,17 @@ Messages
 | This object overlaps with another object. | Mania maps only! | |
 | This object is stacked on top of another object. | Mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
 | More than 6 notes simultaneously is not allowed. | Mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
+
+#### Design
+| Message | Explantation | Solution |
+| ------ | ------------- | --------|
+| Background image is larger than 1366x768. | | |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | | |
+| File missing: | | |
+| {0}'s dimensions must be {1}x{1} | | |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | | |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | | |
+
+
 
 <Category:Beatmapping> <Category:Modding>
