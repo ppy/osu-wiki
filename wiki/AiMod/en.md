@@ -92,6 +92,7 @@ Messages
 | More than 6 notes simultaneously is not allowed. | Mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
 
 #### Design
+
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
 | Background image is larger than 1366x768. | | |
@@ -102,6 +103,7 @@ Messages
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. | | |
 
 #### Timing
+
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
 | All timing sections have a volume below 5%. | | |
@@ -126,5 +128,47 @@ Messages
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
+
+#### Meta
+
+| Message | Explantation | Solution |
+| ------ | ------------- | --------|
+| Stack leniency is larger than 0.9 or smaller than 0.3. | | | 
+| Romanised artist contains unicode. | | |
+| Romanised title contains unicode. | | |
+| Countdown is not allowed in mania mode. | Mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
+| Letterboxing is not allowed in mania mode. | Mania maps only! | |
+| OD rate is suggested to be at least 5. | Mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
+| OD rate for maps with very few sliders is suggested to be at least 8. | 	Mania maps only! | |
+| Countdown is not allowed in taiko mode. | Taiko maps only! | |
+| Epilepsy warning is not allowed in taiko mode. | Taiko maps only! | |
+| Letterboxing is not allowed in taiko mode. | Taiko maps only! | |
+
+#### Mapset
+
+| Message | Explantation | Solution |
+| ------ | ------------- | --------|
+| Artist conflicts with {0} diff. | | |
+| Audio file conflicts with {0} diff. | | |
+| Countdown conflicts with {0} diff. | | |
+| Audio lead-in conflicts with {0} diff. | | |
+| Letterbox in breaks conflicts with {0} diff. | | |
+| Audio preview time conflicts with {0} diff. | | |
+| Source conflicts with {0} diff. | | |
+| Tags conflict with {0} diff. | | |
+| Title conflicts with {0} diff. | | |
+| Unicode artist conflicts with {0} diff. | | |
+| Unicode title conflicts with {0} diff. | | |
+| This mapset cannot have an Insane diff. without a Hard diff. | | |
+| Filesize of the mapset exceeds 10MB without video. | | |
+| Filesize of the mapset exceeds 24MB with video. | | |
+| This mapset is missing diff: {0} | | |
+| This mapset needs at least 2 Catch the Beat diffs. | Catch the Beat maps only! | |
+| This mapset needs at least 1 Easy/Normal diff. | | |
+| This mapset needs at least 2 osu!mania diffs. | Mania maps only! | |
+| This mapset needs at least 2 standard diffs. | Standard maps only! | |
+| This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
+| Uninherited timing points conflict with {0} diff. | | |
+
 
 <Category:Beatmapping> <Category:Modding>
