@@ -5,9 +5,9 @@ AIBat
 
 [AIBat v3.1.jar](https://puu.sh/1taP6) is like an AiMod but goes deeper in depth for issues you might not even consider.
 
--   If Firefox saves the \*.jar file as a \*.jar.zip file, just remove the \*.zip portion to run AIBat properly.
+-   If Firefox saves the *.jar file as a *.jar.zip file, just remove the *.zip portion to run AIBat properly.
 
-<img src="AIBat_01.png" title="AIBat_01.png" alt="AIBat_01.png" height="300" />
+![AiBat IMG1](AIBat_01.png "AiBat IMG1")
 
 ### Notes
 
@@ -32,7 +32,7 @@ So, I wrote a simple program to do the formatting. Since all that information is
 
 (In the end it probably would have been faster to do it by hand. But hey, this was more fun!)
 
-<img src="BURLF_01.png" title="BURLF_01.png" alt="BURLF_01.png" height="300" />
+![BURLF IMG1](BURLF_01.png "BURLF IMG1")
 
 ### Acquired Knowledge:
 
@@ -49,23 +49,23 @@ Osu Distance Checker
 
 [Osu Distance Checker](http://puu.sh/2DQY)
 
-This was actually a request made by someone-- a program that would list out the various distance-spaces in one text, so one could quickly scan through for spacing errors. To do this, I consulted with ziin and lolcubes to decode the \*.osu file format for hit objects, and played around with a few formulas to find out how spacing was calculated. It wasn't that much of a challenge, just a lot of coding work.
+This was actually a request made by someone-- a program that would list out the various distance-spaces in one text, so one could quickly scan through for spacing errors. To do this, I consulted with ziin and lolcubes to decode the *.osu file format for hit objects, and played around with a few formulas to find out how spacing was calculated. It wasn't that much of a challenge, just a lot of coding work.
 
-To get this to work, put the file into a song folder with \*.osu files, and run it.
+To get this to work, put the file into a song folder with *.osu files, and run it.
 
-<img src="ODC_01.png" title="ODC_01.png" alt="ODC_01.png" height="300" />
+![ODC IMG1](ODC_01.png "ODC IMG1")
 
 ### Acquired Knowledge
 
--   Specifications of the \*.osu file format and formulas used
+-   Specifications of the *.osu file format and formulas used
 -   Better understanding of how to use inheritance
 -   Directory reading
 -   Scanners
 -   Decimal Formats
 
-### Future Direction
+### Future Direction 
 
-This actually doesn't work very well, for one reason: sliders. I think it would work 100% efficiently if a map were only circles and spinners, but I still haven't figured out how to calculate the precise position and time of the end of a slider, particularly with things such as Bezier curves (There's a file there, but it's a copy of something I found \[url=<http://osu.ppy.sh/forum/viewtopic.php?f=2&t=49799&p=777631#p777631%5Dby> jomax on this thread\[/url\], and it's unused). I went with using the position of the last node and approximating the time, but the latter might be 1 ms off due to rounding errors and the former can be completely wrong. So, the first priority would be to fix that. Additionally, this will calculate incorrectly on maps with multiple timing sections, or varying slider velocities.
+This actually doesn't work very well, for one reason: sliders. I think it would work 100% efficiently if a map were only circles and spinners, but I still haven't figured out how to calculate the precise position and time of the end of a slider, particularly with things such as Bezier curves (There's a file there, but it's a copy of something I found [jomax on this thread](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=49799&p=777631#p777631%5Dby), and it's unused). I went with using the position of the last node and approximating the time, but the latter might be 1 ms off due to rounding errors and the former can be completely wrong. So, the first priority would be to fix that. Additionally, this will calculate incorrectly on maps with multiple timing sections, or varying slider velocities.
 
 Final Notes
 -----------
