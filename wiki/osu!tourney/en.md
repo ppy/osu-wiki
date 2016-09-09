@@ -72,7 +72,7 @@ Using osu!tourney
 
 | Basic Interface of the osu!tourney client |
 | ----------------------------------------- |
-| ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface")
+| ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface") |
 
 That is the interface of the osu!tourney client. The usage of the client itself is quite simple. The top of the screen is divided in two parts, representing the two teams of the multiplayer room. Each osu! instance is assigned to a slot in your multiplayer room. This means that each player will be spectated on the window of its respective position in the room.
 
