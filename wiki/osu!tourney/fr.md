@@ -1,8 +1,6 @@
-**osu!tourney** est un client multi-spectateur utilisé pour voir et diffuser des matchs multijoueurs entiers incluant tous les joueurs. L'accès est limité aux hôtes des tournois et leur staff. Les hôtes des tournois doivent contacter **<tournaments@ppy.sh>** (en anglais) pour en obtenir l'accès, et ce pendant le temps nécessaire du tournoi jusqu'à sa conclusion. Ce client n'est pas public pour le moment et nécessite l'approbation des administrateurs du jeu. **Toute garantie sur ses fonctionnalités sont exclusses si le client est utilisé pour autre chose que la diffusion de tournois ou de matchs multijoueurs. Ce client n'est pas conçu pour une utilisation privée.**
+**osu!tourney** est un client multi-spectateur utilisé pour voir et diffuser des matchs multijoueurs entiers incluant tous les joueurs. L'accès est limité aux hôtes des tournois et leur staff. Les hôtes des tournois doivent contacter **tournaments@ppy.sh** (en anglais) pour en obtenir l'accès, et ce pendant le temps nécessaire du tournoi jusqu'à sa conclusion. Ce client n'est pas public pour le moment et nécessite l'approbation des administrateurs du jeu. **Toute garantie sur ses fonctionnalités sont exclusses si le client est utilisé pour autre chose que la diffusion de tournois ou de matchs multijoueurs. Ce client n'est pas conçu pour une utilisation privée.**
 
 Les utilisateurs rencontrant des **problèmes** avec le client voudront lire la section sur le **[dépannage](FR:Osu!tourney#Troubleshooting "wikilink")** ou **[poster dans ce forum (anglais)](https://osu.ppy.sh/forum/t/327120)**.
-
-\_\_TOC\_\_
 
 Qu'est ce que osu!tourney
 =========================
@@ -12,7 +10,7 @@ Le client osu!tourney est le client officiel de diffusion pour regarder tous les
 Comment y avoir accès
 =====================
 
-Après avoir fini d'organiser votre événement, envoyez un e-mail à **<tournaments@ppy.sh> (en anglais)** avec les détails suivants :
+Après avoir fini d'organiser votre événement, envoyez un e-mail à **tournaments@ppy.sh (en anglais)** avec les détails suivants :
 
 1.  Quand est-ce que le tournoi commence ? Quand finit-il ?
 2.  Tout lien à suivre pour un accès public à la diffusion du tournoi
@@ -69,33 +67,21 @@ Quand vous aurez modifié le fichier `tournament.cfg`, redémarrez osu! et le cl
 Utiliser osu!tourney
 --------------------
 
-|                                                                                                  |
-|--------------------------------------------------------------------------------------------------|
-| <img src="Osutourneymain.png" title="Osutourneymain.png" alt="Osutourneymain.png" width="450" /> |
-| <div align="right">                                                                              
- *Interface basique de osu!tourney*                                                                
-                                                                                                   
- </div>                                                                                            |
+| Interface basique de osu!tourney |
+| ----------------------------------------- |
+| ![Interface basique de osu!tourney](Osutourneymain.png "Interface basique de osu!tourney") |
 
 Ceci est l'interface du client osu!tourney. L'usage du client lui-même est assez simple. La partie supérieure de l'écran est divisée en deux parties, représentant les deux équipes de la salle multijoueur. Chaque instance d'osu! sera assigné à une place de la salle multijoueur. Cela veut dire que chaque joueur sera regardé sur la fenêtre de sa position respective dans la salle.
 
-|                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneywindows.png" title="Osutourneywindows.png" alt="Osutourneywindows.png" width="450" /> |
-| <div align="right">                                                                                       
- *Les joueurs sont assignés aux fenêtres basé sur leur position dans la salle multijoueur*                  
-                                                                                                            
- </div>                                                                                                     |
+| Les joueurs sont assignés aux fenêtres basé sur leur position dans la salle multijoueur |
+| ----------------------------------------------------------------------------------- |
+| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |   
 
 Pour que le client fonctionne correctement, assurez-vous que les joueurs occupent les places appropriées dans la salle multijoueur. Plus de détails peuvent être trouvés dans **[Création de match et gestion](FR:Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**. En bas du client se trouve le panneau de contrôle.
-
-|                                                                                                     |
-|-----------------------------------------------------------------------------------------------------|
-| <img src="osutourneypanel.png" title="osutourneypanel.png" alt="osutourneypanel.png" width="450" /> |
-| <div align="right">                                                                                 
- *Panneau de contrôle de osu!tourney*                                                                 
-                                                                                                      
- </div>                                                                                               |
+              
+| Panneau de contrôle de osu!tourney |
+| ----------------------------------------- |
+| ![osu!tourney control panel](osutourneypanel.png "osu!tourney control panel") |         
 
 ![Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions](osutourneyroomlist.png "Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions")
 
@@ -139,11 +125,11 @@ To make osu!tourney interact properly with the multiplayer rooms you create, you
 
 First of all, you must create a multiplayer room and give it the name based on the template listed in the control panel of osu!tourney. This template consists of:
 
-`Your_acronym_in_tournament.cfg:` `(Team` `Name` `1)` `vs` `(Team` `Name` `2)`
+`Your_acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
 
 `Your_acronym_in_tournament.cfg` gets entirely replaced with the value you defined in the tournaments.cfg during the **[Setup](Osu!tourney#Setup "wikilink")**. In our example, the value was defined as “Test Tourney”. So here our example uses the template:
 
-`Test` `Tourney:` `(Team` `Name` `1)` `vs` `(Team` `Name` `2)`
+`Test Tourney: (Team Name 1) vs (Team Name 2)`
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets () around them**.
 
@@ -152,108 +138,99 @@ IRC Commands (optional)
 
 To use this, ensure that all tournament staff and helpers are connected via IRC to Bancho and are members of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup. All of the following commands should be executed through an IRC client (some popular choices are mIRC, HexChat, and HydraIRC).
 
-Send a private message to BanchoBot with the text !mp help. You should now see a list of all the commands you may use. To create the tournament multiplayer room, send the message `!mp` `make` `Test` `Tourney:` `(Team` `Name` `1)` `vs` `(Team` `Name` `2)`. This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves. All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room. All room management commands should henceforth only be written in this chat channel.
+Send a private message to BanchoBot with the text !mp help. You should now see a list of all the commands you may use. To create the tournament multiplayer room, send the message `!mp make Test Tourney: (Team Name 1) vs (Team Name 2)`. This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves. All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room. All room management commands should henceforth only be written in this chat channel.
 
-When the match is finished, send the command `!mp` `close` to close the room.
+When the match is finished, send the command `!mp close` to close the room.
 
-The following is a list of available management commands. Any properties enclosed with brackets \[\] are optional:
+The following is a list of available management commands. Any properties enclosed with brackets [] are optional:
 
--   `!mp` `lock` - Locks the room so that players can’t change their team and slot.
--   `!mp` `unlock` - Reverses the above.
--   `!mp` `size` <size> - Sets the amount of available slots (1-16) in the room.
--   `!mp` `set` <teammode> `[`<scoremode>`]` `[`<size>`]` - Sets various room properties.
+-   `!mp lock` - Locks the room so that players can’t change their team and slot.
+-   `!mp unlock` - Reverses the above.
+-   `!mp size` <size> - Sets the amount of available slots (1-16) in the room.
+-   `!mp set` <teammode> `[<scoremode>] [<size>]` - Sets various room properties.
       
     `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
 
     `scoremode` - 0: Score, 1: Accuracy, 2: Combo
 
--   `!mp` `move` <username> `[`<slot>`]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
--   `!mp` `host` <username> - Transfers host to the player.
--   `!mp` `settings` - Displays full match details.
--   `!mp` `start` `[`<time>`]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
--   `!mp` `abort` - Aborts the match.
--   `!mp` `kick` <username> - Kicks the player from the room.
--   `!mp` `team` <username> <colour> - Moves a player to the specified team.
+-   `!mp move` <username> `[<slot>]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
+-   `!mp host` <username> - Transfers host to the player.
+-   `!mp clearhost` - Clears match host.
+-   `!mp settings` - Displays full match details.
+-   `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
+-   `!mp abort` - Aborts the match.
+-   `!mp kick` <username> - Kicks the player from the room.
+-   `!mp team` <username> <colour> - Moves a player to the specified team.
       
     `colour` - red, blue
 
--   `!mp` `map` <mapid> `[`<playmode>`]` - Changes the beatmap and playmode of the room.
+-   `!mp map` <mapid> `[<playmode>]` - Changes the beatmap and playmode of the room.
       
     `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
 
--   `!mp` `mods` <mod> `[`<mod>`]` `[`<mod>`]` `…` - Removes all currently applied mods and applies these mods to the room.
+-   `!mp mods` <mod> `[<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
       
     Any amount of mods can be entered.
 
     `mod` - HR, DT, FL, HD, FI, Freemod, None
 
--   `!mp` `timer` `[`<time>`]` - Begins a countdown timer.
+-   `!mp timer [<time>]` - Begins a countdown timer.
       
     `time` is 30s default.
 
     Timer announcements occur every minute, 30s, 10s, 5s and below.
 
--   `!mp` `aborttimer` - Stops the current timer (both normal timers and match start timer)
--   `!mp` `addref` <username>`,` <username>`...` - Adds referees to the room so they can see the chat and use the !mp commands.
--   `#`<userid> may substitute <username> in all of the above commands. Usernames must have any whitespaces replaced by underscores ( `_` ).
+-   `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
+-   `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
+-   `#`<userid> may substitute <username> in all of the above commands. Usernames must have any whitespaces replaced by underscores ( **_** ).
+-   `!mp password` - Enables/disables the multiplayer room password (initially enabled).
 
 The following is an example of command usage:
 
   
-`!mp` `move` `Zallius` `1` - Move Zallius into slot 1 of the room.
+`!mp move Zallius 1` - Move Zallius into slot 1 of the room.
 
-`!mp` `move` `Loctav` `4` - Move Loctav into slot 4 of the room.
+`!mp move Loctav 4` - Move Loctav into slot 4 of the room.
 
-`!mp` `team` `Zallius` `blue` - Move Zallius to the blue team.
+`!mp team Zallius blue` - Move Zallius to the blue team.
 
-`!mp` `team` `Loctav` `red` - Move Loctav to the red team.
+`!mp team Loctav red` - Move Loctav to the red team.
 
-`!mp` `set` `0` `2` - Set the team mode to Head To Head and scoring mode to Combo.
+`!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
 
-`!mp` `start` - Start the match instantaneously.
+`!mp start` - Start the match instantaneously.
 
 Room management
 ---------------
 
 The osu!tourney client will successfully recognize the room. Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands. As explained in the **[Using osu!tourney](Osu!tourney#Using_osu!tourney "wikilink")**, each window in the client is assigned to a slot in the multiplayer lobby. Depending on your value in the `TeamSize` variable in the `tournament.cfg`, the left team will occupy the first slots and the right team will occupy the slots right below that.
 
-|                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneyassignment.png" title="Osutourneyassignment.png" alt="Osutourneyassignment.png" width="450" /> |
-| <div align="right">                                                                                                
- *Correspondance of the screens in osu!tourney to the respective multiplayer room slots*                             
-                                                                                                                     
- </div>                                                                                                              |
+| Correspondance of the screens in osu!tourney to the respective multiplayer room slots |
+| ------------------------------------------------------------------------------------- |
+| ![osu!tourney Player Assignment](Osutourneyassignment.png "osu!tourney Player Assignment") |
 
-For example, if you set `TeamSize` `=` `4`, the 1st, 2nd, 3rd and 4th slot will belong to the left team. The 5th, 6th, 7th and 8th slot will belong to the right team. If you set `TeamSize` `=` `3`, the 1st, 2nd and 3rd slot will belong to the left team. The 4th, 5th and 6th slot will belong to the right team.
+For example, if you set `TeamSize = 4`, the 1st, 2nd, 3rd and 4th slot will belong to the left team. The 5th, 6th, 7th and 8th slot will belong to the right team. If you set `TeamSize = 3`, the 1st, 2nd and 3rd slot will belong to the left team. The 4th, 5th and 6th slot will belong to the right team.
 
 **Tip: For easier reference, make the left team always blue and the right team always red.**
 
 Keep in mind that osu!tourney ignores every team color. The only thing it pays attention to is the position in the multiplayer room. In order to let every team member be in the right team within osu!tourney, players must occupy the correct slot in the multiplayer room. Below are pictures of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible and are only put here for descriptional purposes:
 
-|                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneywindows.png" title="Osutourneywindows.png" alt="Osutourneywindows.png" width="450" /> |
-| <div align="right">                                                                                       
- *TeamSize = 4*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize3.png" title="Teamsize3.png" alt="Teamsize3.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 3*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize2.png" title="Teamsize2.png" alt="Teamsize2.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 2*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize1.png" title="Teamsize1.png" alt="Teamsize1.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 1*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-||
+| TeamSize = 4 |
+| -----------------------|
+| ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")   | 
+
+| TeamSize = 3 |
+| -----------------------|
+| ![TeamSize = 3](Teamsize3.png "TeamSize = 3")   | 
+
+| TeamSize = 2 |
+| -----------------------|
+| ![TeamSize = 2](Teamsize2.png "TeamSize = 2")   | 
+
+| TeamSize = 1 |
+| -----------------------|
+| ![TeamSize = 1](Teamsize1.png "TeamSize = 1")   | 
+
 
 Skinning
 --------
@@ -269,7 +246,7 @@ osu!tourney supports various modifications you can apply to design the client su
 
 The optimal resolution for videos is 1280x720 @ 60fps.
 
-![osu!tourney with team icons. The left icon is named `Team` `1.png` and the right icon is named `Team` `2.png`](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png") It is possible to create team icons (e.g. country flags or user avatars) into the skin folder, too. Icons must be placed at the path `.../osu!/Skins/User/tournament/icons`. All icons must be named exactly like the Team name. If your match is called `Test` `Tourney:` `(Team` `1)` `vs` `(Team` `2)`, your icons must be called `Team` `1` and `Team` `2`. Icons can be in `*.jpg` or `*.png` format and have an optimal resolution of `50x50`.
+![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png") It is possible to create team icons (e.g. country flags or user avatars) into the skin folder, too. Icons must be placed at the path `.../osu!/Skins/User/tournament/icons`. All icons must be named exactly like the Team name. If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`. Icons can be in `*.jpg` or `*.png` format and have an optimal resolution of `50x50`.
 
 **[Download the template.psd here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
 
@@ -353,4 +330,4 @@ To set up a stream, we recommend using the Open Broadcaster Software, but you ar
 
 Post in **[this thread](https://osu.ppy.sh/forum/t/327120)**. Developers are monitoring this thread to help you troubleshooting the problems you are encountering. Make sure to be descriptive and provide screenshots if possible.
 
-[Category:Game Clients](Category:Game_Clients "wikilink")
+[Category:Game Clients/FR](Category:Game_Clients/FR "wikilink")
