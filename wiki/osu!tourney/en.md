@@ -47,7 +47,7 @@ To setup the osu!tourney client, only a few steps are needed. First of all, it i
 
 `acronym = Your tournament name`
 
-`BufferTotalTime = `3000`
+`BufferTotalTime = 3000`
 
 `BufferDangerTime = 1000`
 

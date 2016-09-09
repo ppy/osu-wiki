@@ -2,8 +2,6 @@
 
 Les utilisateurs rencontrant des **problèmes** avec le client voudront lire la section sur le **[dépannage](FR:Osu!tourney#Troubleshooting "wikilink")** ou **[poster dans ce forum (anglais)](https://osu.ppy.sh/forum/t/327120)**.
 
-\_\_TOC\_\_
-
 Qu'est ce que osu!tourney
 =========================
 
