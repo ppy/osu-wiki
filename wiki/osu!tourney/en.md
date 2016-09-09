@@ -1,4 +1,9 @@
-**osu!tourney** is the designated multi-spectator client used to view and stream entire online multiplayer matches at once. The access is limited to tournament hosts and their staff. Tournament hosts have to contact **tournaments@ppy.sh** to apply for access, which is limited for the time needed to conclude the tournament they host. Using the client is not meant for public right now and requires approval from the game administration. **Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions. The client is not for private use.**
+**osu!tourney** is the designated multi-spectator client used to view and stream entire online multiplayer matches at once.
+
+The access is limited to tournament hosts and their staff. Tournament hosts have to contact **tournaments@ppy.sh** to apply for access, which is limited for the time needed to conclude the tournament they host.
+Using the client is not meant for public right now and requires approval from the game administration.
+
+**Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions. The client is not for private use.**
 
 Users encountering **problems** with the client may read the **[Troubleshooting](Osu!tourney#Troubleshooting "wikilink")** section or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**
 
@@ -6,7 +11,11 @@ Users encountering **problems** with the client may read the **[Troubleshooting]
 What is osu!tourney
 ===================
 
-The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously. It is currently only meant to be used for world cups and might therefore be limited in its behaviour. The client, henceforth referred to as osu!tourney, mainly supports team versus matches, up to 2 teams of up to 8 players each. The number of windows opened cannot currently be changed, but this behaviour will be modified in the future. Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup, or you won’t be able to login properly to it.
+The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously. It is currently only meant to be used for world cups and might therefore be limited in its behaviour.
+
+The client, henceforth referred to as osu!tourney, mainly supports team versus matches, up to 2 teams of up to 8 players each. The number of windows opened cannot currently be changed, but this behaviour will be modified in the future.
+
+Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup, or you won’t be able to login properly to it.
 
 How to get access
 =================
@@ -32,7 +41,11 @@ How to use it
 Setup
 -----
 
-To setup the osu!tourney client, only a few steps are needed. First of all, it is recommended to use a **FRESH OSU! INSTALLATION** because of the Songs database, which corrupts quite quickly here. (You can have multiple osu! installations ­just keep them in separated folders). Just add the songs to your /Songs/ folder that you really need (e.g. mappools). The client will automatically ­download beatmaps that it doesn’t have. osu!tourney only supports submitted beatmaps.
+To setup the osu!tourney client, only a few steps are needed.
+
+First of all, it is recommended to use a **FRESH OSU! INSTALLATION** because of the Songs database, which corrupts quite quickly here. (You can have multiple osu! installations ­just keep them in separated folders).
+
+Just add the songs to your /Songs/ folder that you really need (e.g. mappools). The client will automatically ­download beatmaps that it doesn’t have. osu!tourney only supports submitted beatmaps.
 
 1.  Create a new installation of osu! To do that, copy-paste the `osu!.exe` from your osu! client into an empty folder and run it. It should update and install automatically.
 2.  Open the fresh osu! and login. Enable **Remember Username** and **Remember Password**!
@@ -41,17 +54,14 @@ To setup the osu!tourney client, only a few steps are needed. First of all, it i
 5.  (Re)start your osu!.exe and the osu!tourney client should start. It might take a while to start, so be patient. It will automatically generate the contents of the `tournament.cfg` file which will contain the following lines:
 
   
-`TeamSize = 4`
-
-`privateserver =`
-
-`acronym = Your tournament name`
-
-`BufferTotalTime = 3000`
-
-`BufferDangerTime = 1000`
-
-`BufferTimeoutTime = 20000`
+```
+TeamSize = 4
+privateserver =
+acronym = Your tournament name
+BufferTotalTime = 3000
+BufferDangerTime = 1000
+BufferTimeoutTime = 20000
+```
 
 Close osu! and edit or add to the above lines as required for your tournament with the following options:
 
@@ -140,9 +150,13 @@ You can replace Team Name 1 and Team Name 2 with any team name you want to assig
 IRC Commands (optional)
 -----------------------
 
-To use this, ensure that all tournament staff and helpers are connected via IRC to Bancho and are members of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup. All of the following commands should be executed through an IRC client (some popular choices are mIRC, HexChat, and HydraIRC).
+To use this, ensure that all tournament staff and helpers are connected via IRC to Bancho and are members of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup.
 
-Send a private message to BanchoBot with the text !mp help. You should now see a list of all the commands you may use. To create the tournament multiplayer room, send the message `!mp make Test Tourney: (Team Name 1) vs (Team Name 2)`. This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves. All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room. All room management commands should henceforth only be written in this chat channel.
+All of the following commands should be executed through an IRC client (some popular choices are mIRC, HexChat, and HydraIRC).
+
+Send a private message to BanchoBot with the text !mp help. You should now see a list of all the commands you may use. To create the tournament multiplayer room, send the message `!mp make Test Tourney: (Team Name 1) vs (Team Name 2)`.
+
+This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves. All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room. All room management commands should henceforth only be written in this chat channel.
 
 When the match is finished, send the command `!mp close` to close the room.
 
@@ -207,17 +221,23 @@ The following is an example of command usage:
 Room management
 ---------------
 
-The osu!tourney client will successfully recognize the room. Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands. As explained in the **[Using osu!tourney](Osu!tourney#Using_osu!tourney "wikilink")**, each window in the client is assigned to a slot in the multiplayer lobby. Depending on your value in the `TeamSize` variable in the `tournament.cfg`, the left team will occupy the first slots and the right team will occupy the slots right below that.
+The osu!tourney client will successfully recognize the room. Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
+
+As explained in the **[Using osu!tourney](Osu!tourney#Using_osu!tourney "wikilink")**, each window in the client is assigned to a slot in the multiplayer lobby. Depending on your value in the `TeamSize` variable in the `tournament.cfg`, the left team will occupy the first slots and the right team will occupy the slots right below that.
 
 | Correspondance of the screens in osu!tourney to the respective multiplayer room slots |
 | ------------------------------------------------------------------------------------- |
 | ![osu!tourney Player Assignment](Osutourneyassignment.png "osu!tourney Player Assignment") |
 
-For example, if you set `TeamSize = 4`, the 1st, 2nd, 3rd and 4th slot will belong to the left team. The 5th, 6th, 7th and 8th slot will belong to the right team. If you set `TeamSize = 3`, the 1st, 2nd and 3rd slot will belong to the left team. The 4th, 5th and 6th slot will belong to the right team.
+For example, if you set `TeamSize = 4`, the 1st, 2nd, 3rd and 4th slot will belong to the left team. The 5th, 6th, 7th and 8th slot will belong to the right team.
+
+If you set `TeamSize = 3`, the 1st, 2nd and 3rd slot will belong to the left team. The 4th, 5th and 6th slot will belong to the right team.
 
 **Tip: For easier reference, make the left team always blue and the right team always red.**
 
-Keep in mind that osu!tourney ignores every team color. The only thing it pays attention to is the position in the multiplayer room. In order to let every team member be in the right team within osu!tourney, players must occupy the correct slot in the multiplayer room. Below are pictures of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible and are only put here for descriptional purposes:
+Keep in mind that osu!tourney ignores every team color. The only thing it pays attention to is the position in the multiplayer room.
+
+In order to let every team member be in the right team within osu!tourney, players must occupy the correct slot in the multiplayer room. Below are pictures of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible and are only put here for descriptional purposes:
 
 | TeamSize = 4 |
 | -----------------------|
@@ -241,7 +261,9 @@ Skinning
 
 ![osu!tourney can be customized in various ways](Osutourneycustom.png "osu!tourney can be customized in various ways")
 
-osu!tourney supports various modifications you can apply to design the client suitable for your tournament. For that, you need to create a Skin folder into your fresh osu! install you intend to use as osu!tourney. The path of the folder must be `.../osu!/Skins/User/tournament`. Skin Elements can be placed in this folder and support `*.jpg`, `*.png` and `*.mp4` file extensions. To skin them properly, name your elements accordingly:
+osu!tourney supports various modifications you can apply to design the client suitable for your tournament. For that, you need to create a Skin folder into your fresh osu! install you intend to use as osu!tourney.
+
+The path of the folder must be `.../osu!/Skins/User/tournament`. Skin Elements can be placed in this folder and support `*.jpg`, `*.png` and `*.mp4` file extensions. To skin them properly, name your elements accordingly:
 
 -   `background` - this is the background sprite used by osu!tourney during the entire time.
 -   `background-win1` (optional) - the background sprite will be fade over to this sprite in Results Screen when the left team won. It will fade back to `background` when leaving Results Screen. If this element is not placed, it will stay on `background`.
@@ -250,7 +272,11 @@ osu!tourney supports various modifications you can apply to design the client su
 
 The optimal resolution for videos is 1280x720 @ 60fps.
 
-![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png") It is possible to create team icons (e.g. country flags or user avatars) into the skin folder, too. Icons must be placed at the path `.../osu!/Skins/User/tournament/icons`. All icons must be named exactly like the Team name. If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`. Icons can be in `*.jpg` or `*.png` format and have an optimal resolution of `50x50`.
+![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
+
+It is possible to create team icons (e.g. country flags or user avatars) into the skin folder, too. Icons must be placed at the path `.../osu!/Skins/User/tournament/icons`.
+
+All icons must be named exactly like the Team name. If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`. Icons can be in `*.jpg` or `*.png` format and have an optimal resolution of `50x50`.
 
 **[Download the template.psd here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
 
@@ -269,14 +295,21 @@ Copy-paste the `osu!.exe` into an empty folder and run it. This fixes a lot of i
   
 **b) My osu! instances are not aligning properly!**
 
-osu!tourney only runs on the primary monitor. Disable secondary monitors! It could also be that your screen resolution is too small. Ensure that you do not run osu! as administrator (unless osu! is asking for it directly on its own). Make sure to have osu! updated to the newest Cutting Edge build!
+osu!tourney only runs on the primary monitor. Disable secondary monitors! It could also be that your screen resolution is too small.
+
+Ensure that you do not run osu! as administrator (unless osu! is asking for it directly on its own). Make sure to have osu! updated to the newest Cutting Edge build!
 
 <!-- -->
 
   
 **c) osu!tourney does not open. It throws me an error prompt and/or shuts down again!**
 
-Make sure you are part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup. Most of the times, you are only added temporarily, so your access might have expired. You should ensure that the `privateserver` key in the `tournament.cfg` has no value set. Make sure that you are logged into osu! If not, run osu! and login, then close osu! again and restart as the tournament client. Make sure to only use one monitor. Ensure that you do **not** run osu! as administrator (unless osu! is asking for it directly on its own). Make sure to have osu! on the Cutting Edge release stream.
+-   Make sure you are part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup. Most of the times, you are only added temporarily, so your access might have expired.
+-   You should ensure that the `privateserver` key in the `tournament.cfg` has no value set.
+-   Make sure that you are logged into osu! If not, run osu! and login, then close osu! again and restart as the tournament client.
+-   Make sure to only use one monitor.
+-   Ensure that you do **not** run osu! as administrator (unless osu! is asking for it directly on its own).
+-   Make sure to have osu! on the Cutting Edge release stream.
 
 <!-- -->
 
@@ -311,14 +344,18 @@ Make sure you have joined the room! Click the room name on the bottom black pane
   
 **h) The rooms are not showing up!**
 
-Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`. Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**. Renaming an existing multiplayer room doesn’t work. Recreate the entire room, if you did something wrong.
+-   Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`.
+-   Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**. Renaming an existing multiplayer room doesn’t work.
+-   Recreate the entire room, if you did something wrong.
 
 <!-- -->
 
   
 **i) The team names are not showing!**
 
-Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`. Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**). Renaming an existing multiplayer room doesn’t work. Recreate the entire room, if you did something wrong.
+-   Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`.
+-   Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**). Renaming an existing multiplayer room doesn’t work.
+-   Recreate the entire room, if you did something wrong.
 
 <!-- -->
 
