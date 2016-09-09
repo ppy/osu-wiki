@@ -1,6 +1,6 @@
-**osu!tourney** is the designated multi-spectator client used to view and stream entire online multiplayer matches at once. The access is limited to tournament hosts and their staff. Tournament hosts have to contact **<tournaments@ppy.sh>** to apply for access, which is limited for the time needed to conclude the tournament they host. Using the client is not meant for public right now and requires approval from the game administration. **Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions. The client is not for private use.**
+**osu!tourney** is the designated multi-spectator client used to view and stream entire online multiplayer matches at once. The access is limited to tournament hosts and their staff. Tournament hosts have to contact **tournaments@ppy.sh** to apply for access, which is limited for the time needed to conclude the tournament they host. Using the client is not meant for public right now and requires approval from the game administration. **Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions. The client is not for private use.**
 
-Users encountering **problems** with the client may read the **[ Troubleshooting](Osu!tourney#Troubleshooting "wikilink")** section or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**
+Users encountering **problems** with the client may read the **[Troubleshooting](Osu!tourney#Troubleshooting "wikilink")** section or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**
 
 \_\_TOC\_\_
 
@@ -12,7 +12,7 @@ The osu!tourney client is the official streaming client used to spectate all pla
 How to get access
 =================
 
-After you have completed organizing your event, send in an e-mail to **<tournaments@ppy.sh>** including:
+After you have completed organizing your event, send in an e-mail to **tournaments@ppy.sh** including:
 
 1.  When does the tournament start? When does it end?
 2.  Any link to follow the tournament which is publically accessible
@@ -71,33 +71,22 @@ When you have modified the `tournament.cfg` file, restart osu! and the osu!tourn
 Using osu!tourney
 -----------------
 
-|                                                                                                  |
-|--------------------------------------------------------------------------------------------------|
-| <img src="Osutourneymain.png" title="Osutourneymain.png" alt="Osutourneymain.png" width="450" /> |
-| <div align="right">                                                                              
- *Basic Interface of the osu!tourney client*                                                       
-                                                                                                   
- </div>                                                                                            |
+| Basic Interface of the osu!tourney client |
+| ----------------------------------------- |
+| ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface")
 
 That is the interface of the osu!tourney client. The usage of the client itself is quite simple. The top of the screen is divided in two parts, representing the two teams of the multiplayer room. Each osu! instance is assigned to a slot in your multiplayer room. This means that each player will be spectated on the window of its respective position in the room.
 
-|                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneywindows.png" title="Osutourneywindows.png" alt="Osutourneywindows.png" width="450" /> |
-| <div align="right">                                                                                       
- *Players are assigned to the windows based on their position in the multiplayer room*                      
-                                                                                                            
- </div>                                                                                                     |
+| Players are assigned to the windows based on their position in the multiplayer room |
+| ----------------------------------------------------------------------------------- |
+| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |                                                             
 
 To make the client work properly, please assure that the players occupy the appropriate slots in the multiplayer room. More details about how to do that correctly can be found at **[Multiplayer session creation and handling](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**. At the bottom of the client, you will see the control panel.
 
-|                                                                                                     |
-|-----------------------------------------------------------------------------------------------------|
-| <img src="osutourneypanel.png" title="osutourneypanel.png" alt="osutourneypanel.png" width="450" /> |
-| <div align="right">                                                                                 
- *osu!tourney control panel*                                                                          
-                                                                                                      
- </div>                                                                                               |
+| osu!tourney control panel |
+| ----------------------------------------- |
+| ![osu!tourney control panel](osutourneypanel.png "osu!tourney control panel") |
+
 
 ![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
@@ -158,7 +147,7 @@ Send a private message to BanchoBot with the text !mp help. You should now see a
 
 When the match is finished, send the command `!mp` `close` to close the room.
 
-The following is a list of available management commands. Any properties enclosed with brackets \[\] are optional:
+The following is a list of available management commands. Any properties enclosed with brackets [] are optional:
 
 -   `!mp` `lock` - Locks the room so that players can’t change their team and slot.
 -   `!mp` `unlock` - Reverses the above.
@@ -221,13 +210,9 @@ Room management
 
 The osu!tourney client will successfully recognize the room. Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands. As explained in the **[Using osu!tourney](Osu!tourney#Using_osu!tourney "wikilink")**, each window in the client is assigned to a slot in the multiplayer lobby. Depending on your value in the `TeamSize` variable in the `tournament.cfg`, the left team will occupy the first slots and the right team will occupy the slots right below that.
 
-|                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneyassignment.png" title="Osutourneyassignment.png" alt="Osutourneyassignment.png" width="450" /> |
-| <div align="right">                                                                                                
- *Correspondance of the screens in osu!tourney to the respective multiplayer room slots*                             
-                                                                                                                     
- </div>                                                                                                              |
+| Correspondance of the screens in osu!tourney to the respective multiplayer room slots |
+| ------------------------------------------------------------------------------------- |
+| ![osu!tourney Player Assignment](Osutourneyassignment.png "osu!tourney Player Assignment") |
 
 For example, if you set `TeamSize` `=` `4`, the 1st, 2nd, 3rd and 4th slot will belong to the left team. The 5th, 6th, 7th and 8th slot will belong to the right team. If you set `TeamSize` `=` `3`, the 1st, 2nd and 3rd slot will belong to the left team. The 4th, 5th and 6th slot will belong to the right team.
 
@@ -235,29 +220,22 @@ For example, if you set `TeamSize` `=` `4`, the 1st, 2nd, 3rd and 4th slot will 
 
 Keep in mind that osu!tourney ignores every team color. The only thing it pays attention to is the position in the multiplayer room. In order to let every team member be in the right team within osu!tourney, players must occupy the correct slot in the multiplayer room. Below are pictures of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible and are only put here for descriptional purposes:
 
-|                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------|
-| <img src="Osutourneywindows.png" title="Osutourneywindows.png" alt="Osutourneywindows.png" width="450" /> |
-| <div align="right">                                                                                       
- *TeamSize = 4*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize3.png" title="Teamsize3.png" alt="Teamsize3.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 3*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize2.png" title="Teamsize2.png" alt="Teamsize2.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 2*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-| <img src="Teamsize1.png" title="Teamsize1.png" alt="Teamsize1.png" width="450" />                         |
-| <div align="right">                                                                                       
- *TeamSize = 1*                                                                                             
-                                                                                                            
- </div>                                                                                                     |
-||
+| TeamSize = 4 |
+| -----------------------|
+| ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")   | 
+
+| TeamSize = 3 |
+| -----------------------|
+| ![TeamSize = 3](Teamsize3.png "TeamSize = 3")   | 
+
+| TeamSize = 2 |
+| -----------------------|
+| ![TeamSize = 2](Teamsize2.png "TeamSize = 2")   | 
+
+| TeamSize = 1 |
+| -----------------------|
+| ![TeamSize = 1](Teamsize1.png "TeamSize = 1")   | 
+
 
 Skinning
 --------
