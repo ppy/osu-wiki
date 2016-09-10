@@ -3,7 +3,7 @@
   
 *Also checkout: [Tag Tournament Winners](https://osu.ppy.sh/forum/t/17169) (from osu!forum announcement archives)*
 
-\_\_TOC\_\_ ![](Tour_12710_H.png "fig:Tour_12710_H.png")
+![Osu! Tag Team Multiplayer Tournament Logo](Tour_12710_H.png "Osu! Tag Team Multiplayer Tournament Logo")
 
 Introduction
 ------------
@@ -24,10 +24,10 @@ Rules
 -   The team can't have more than 2 players. you are NOT allowed to replace anyone after you have signed up with your team.
 -   When battling another team, you need to have 2 players playing.
 
-<span style="font-size:20px;color:#BF0000;">Your team and the team you are facing have a 7 day limit to finish your game</span>
+** Your team and the team you are facing have a 7 day limit to finish your game. **
 
-<span style="color:#008000;">Breaking any of these rules will lead to disqualification.
-Furthermore, judges reserve the right to disqualify teams even if they do not break any of the above rules, and the judges finds reason to do so. So please, don't manipulate any loopholes you may find.</span>
+Breaking any of these rules will lead to disqualification.
+Furthermore, judges reserve the right to disqualify teams even if they do not break any of the above rules, and the judges finds reason to do so. So please, don't manipulate any loopholes you may find.
 
 Match Rules
 -----------
@@ -49,7 +49,7 @@ If both teams agree on difficulty-increasing mods, like hidden or flashlight, th
 Tournament Results
 ------------------
 
-![](Tour_12710_R.png "Tour_12710_R.png")
+![Osu! Tag Team Multiplayer Tournament Results](Tour_12710_R.png "Osu! Tag Team Multiplayer Tournament Results")
 
 Teams and Players
 -----------------
@@ -60,13 +60,13 @@ Teams and Players
 | Less QQ more PEWPEW  | Sir Minelli, Tobebuta        |
 | Fagboat              | Hawkzor, Lucidity            |
 | Mlekołaki            | CrazyBanana, skratch         |
-| Huge C\*cks          | Rolled, Foulcoon             |
+| Huge C*cks           | Rolled, Foulcoon             |
 | Banchobag            | Lesjuh, HenkieBP             |
 | IITF                 | WyndII, RaisTF               |
 | MINMIrox             | DeathxShinigami and Zatoichi |
 | Mitizuma             | Inozuma, Mitano              |
 | Asskickers!          | SteRRuM, H1ko                |
-| peppyfangirlsamirite | Rena-chan, Mr\_Tinkles       |
+| peppyfangirlsamirite | Rena-chan, Mr_Tinkles        |
 | two noobs            | himydanny, x2652300          |
 | Fumoffu              | Dangaard, happy30            |
 | The Craweszoymators. | Celestral & Ten              |
@@ -85,22 +85,19 @@ Teams and Players
 ### Winners
 
   
-<span style="font-size:16px;color:#0D0;">\#1 Team Animalz D: (Niedzwiedz1124, White wolf)</span>
+#### #1 Team Animalz D: (Niedzwiedz1124, White wolf)
 
-<span>\#2 Team Lubimy Ponczgi! (Ryohan, SeymourLyon)</span>
+#### #2 Team Lubimy Ponczgi! (Ryohan, SeymourLyon)
 
-<span>\#3 Team MINMIrox (DeathxShinigami and Zatoichi)</span>
+#### #3 Team MINMIrox (DeathxShinigami and Zatoichi)
 
 Rewards
 -------
 
-| 1.  1 | -   The winning team will receive a 6 month subscription for free                     
-         -   Both players will receive a Tournament medal which will be added to your profile.  |
-|-------|---------------------------------------------------------------------------------------|
-| 1.  2 |
-| 1.  3 |
+* The winning team will receive a 6 month subscription for free.
+* Both players will receive a Tournament medal which will be added to your profile.
 
-<span style="color:#00F;">Big thanks to for helping out with them</span>
+Big thanks to for helping out with them
 
 Judges
 ------
@@ -115,7 +112,7 @@ Important to know
 
 Starts 12th June, Friday (12/6) (2009)
 
-If the team you are facing for some reason can't play your team, you will need to contact a judge ASAP so we can compromise. if a team fails to contact, they will be disqualified after the <span style="color:#F00;">7 day limit is over</span>.
+If the team you are facing for some reason can't play your team, you will need to contact a judge ASAP so we can compromise. if a team fails to contact, they will be disqualified after the **7 day limit is over**.
 
 If you are still unsure or have questions, please PM me here on forums or /msg Gabi on irc.
 
@@ -175,7 +172,7 @@ A: People are having trouble with who to choose on their team, and because of th
 Q: Are you a girl?
 
   
-A: \*facepalm\*
+A: *facepalm*
 
 Beatmap Selection
 -----------------
@@ -218,42 +215,42 @@ Beatmap Selection
 
 ### Round 2
 
--   3oh!3 - Don't Dance \[EEeee's Don't Dance\]
--   Ali Project - King Knight \[Hard\]
--   Amane - Boozehound \[Nuts\]
--   Gojou Kai - Ultimate Truth \[Hard\]
--   Haru - Voyage 1969 (Instrumental) \[Hard\]
+-   3oh!3 - Don't Dance [EEeee's Don't Dance]
+-   Ali Project - King Knight [Hard]
+-   Amane - Boozehound [Nuts]
+-   Gojou Kai - Ultimate Truth [Hard]
+-   Haru - Voyage 1969 (Instrumental) [Hard]
 -   Hatsune Miku - White Letter (maybe)
--   Heartsdales feat. SOUL'd OUT - Candy Pop \[S.O.S!!?\]
--   Hyadain - Quick \[Zerostarry's Hard\]
--   IOSYS - Eirin's Clinic That People Queue Up For \[CURE ME EIRIN!!!\]
--   Johannes Brahms - Brahms(O2 Version) \[CJ Mix\]
--   Katakiri Rekka - Tamayura \[Hard\]
--   Kotoko - Sociometry \[Hard\]
--   Lady GaGa - Poker Face \[EEeee's Insane\]
--   Matchbox 20 - How Far We've Come \[Hard\]
--   May Nakabayashi - Seikan Hikou \[Insane\]
--   Perfume - Perfume \[Insane\]
--   Revo - White Illusion \[Hard\]
--   Seiryu - Time to air \[Hyper\]
--   Shinji Orito, Magome Togoshi - Yoru Sou \[Hard\]
--   Smiley - Xuxa \[Expert\]
--   Tamaki Nami - Brightdown \[Crazy\]
--   Tatsh - Kachoufuusetsu \[Hyper\]
--   The Killers - Spaceman \[Hard\]
--   THE IDOLM@STER - Christman for you! \[M@STER!\]
--   YMCK - Curry da yo! \[HOT!\]
+-   Heartsdales feat. SOUL'd OUT - Candy Pop [S.O.S!!?]
+-   Hyadain - Quick [Zerostarry's Hard]
+-   IOSYS - Eirin's Clinic That People Queue Up For [CURE ME EIRIN!!!]
+-   Johannes Brahms - Brahms(O2 Version) [CJ Mix]
+-   Katakiri Rekka - Tamayura [Hard]
+-   Kotoko - Sociometry [Hard]
+-   Lady GaGa - Poker Face [EEeee's Insane]
+-   Matchbox 20 - How Far We've Come [Hard]
+-   May Nakabayashi - Seikan Hikou [Insane]
+-   Perfume - Perfume [Insane]
+-   Revo - White Illusion [Hard]
+-   Seiryu - Time to air [Hyper]
+-   Shinji Orito, Magome Togoshi - Yoru Sou [Hard]
+-   Smiley - Xuxa [Expert]
+-   Tamaki Nami - Brightdown [Crazy]
+-   Tatsh - Kachoufuusetsu [Hyper]
+-   The Killers - Spaceman [Hard]
+-   THE IDOLM@STER - Christman for you! [M@STER!]
+-   YMCK - Curry da yo! [HOT!]
 
 ### Round 3
 
--   Nico Nico Douga - Patty's NIPPONPON \[Insane\]
--   Amane - Boozehound \[ignore's Insane\]
--   Shinji Orito, Magome Togoshi - Yoru Sou \[Hard\]
--   Paramore - That's What You Get \[Hard\]
+-   Nico Nico Douga - Patty's NIPPONPON [Insane]
+-   Amane - Boozehound [ignore's Insane]
+-   Shinji Orito, Magome Togoshi - Yoru Sou [Hard]
+-   Paramore - That's What You Get [Hard]
 -   Zettai Karen Children - DATTE Daihonmei
--   KOTOKO and Utatsuki Kaori - Double HarmoniZe Shock!! \[Hard\]
--   Digital R.i.S.E. - Cerulean Sky \[Hard\]
--   Megumi Nakajima (Ranka Mei) - Nyan Nyan Song (Touhou Rock Remix) \[Nyaaaaa\]
--   bubbles - F \[Insane\]
+-   KOTOKO and Utatsuki Kaori - Double HarmoniZe Shock!! [Hard]
+-   Digital R.i.S.E. - Cerulean Sky [Hard]
+-   Megumi Nakajima (Ranka Mei) - Nyan Nyan Song (Touhou Rock Remix) [Nyaaaaa]
+-   bubbles - F [Insane]
 
 <Category:Tournaments> [Category:Osu! Standard Tournaments](Category:Osu!_Standard_Tournaments "wikilink")
