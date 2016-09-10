@@ -1,7 +1,7 @@
   
 ***This is not a game nor a port. It only downloads beatmaps and basic navigation.***
 
-![osu!MapDownloader](o!md.png "osu!MapDownloader")
+![osu!MapDownloader](O!md.png "osu!MapDownloader")
 
 Introduction
 ============
