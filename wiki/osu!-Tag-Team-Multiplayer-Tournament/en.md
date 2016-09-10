@@ -1,4 +1,4 @@
-[Osu! Tag Team Multiplayer Tournament](https://osu.ppy.sh/forum/t/12710) Hosted by
+[Osu! Tag Team Multiplayer Tournament](https://osu.ppy.sh/forum/t/12710) Hosted by Gabi
 
   
 *Also checkout: [Tag Tournament Winners](https://osu.ppy.sh/forum/t/17169) (from osu!forum announcement archives)*
@@ -24,7 +24,7 @@ Rules
 -   The team can't have more than 2 players. you are NOT allowed to replace anyone after you have signed up with your team.
 -   When battling another team, you need to have 2 players playing.
 
-** Your team and the team you are facing have a 7 day limit to finish your game. **
+**Your team and the team you are facing have a 7 day limit to finish your game.**
 
 Breaking any of these rules will lead to disqualification.
 Furthermore, judges reserve the right to disqualify teams even if they do not break any of the above rules, and the judges finds reason to do so. So please, don't manipulate any loopholes you may find.
@@ -97,7 +97,7 @@ Rewards
 * The winning team will receive a 6 month subscription for free.
 * Both players will receive a Tournament medal which will be added to your profile.
 
-Big thanks to for helping out with them
+Big thanks to peppy for helping out with them
 
 Judges
 ------
