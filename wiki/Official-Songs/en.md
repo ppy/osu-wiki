@@ -3,59 +3,47 @@
 Available Songs
 ===============
 
-|                                                                                           |
+| ![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")                                                   |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg.jpg" title="cYsmix_bg.jpg" alt="cYsmix_bg.jpg" width="150" />         |
 | cYsmix - Manic                                                                            |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kr2Vy/8c2d95627a.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
-|                                                                                           |
+| ![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")                                                   |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg.jpg" title="cYsmix_bg.jpg" alt="cYsmix_bg.jpg" width="150" />         |
 | cYsmix - House With Legs                                                                  |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kr343/473c7ec3d1.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
-|                                                                                           |
+| ![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")                                                   |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg.jpg" title="cYsmix_bg.jpg" alt="cYsmix_bg.jpg" width="150" />         |
 | cYsmix - Dovregubben's Hall (New Ver.)                                                    |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kr2FL/73dc523bac.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
-|                                                                                           |
+| ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")                                             |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg_2.jpg" title="cYsmix_bg_2.jpg" alt="cYsmix_bg_2.jpg" width="150" />   |
 | cYsmix - Classic Pursuit                                                                  |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kZrR3/3a45e0ec85.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
-|                                                                                           |
+| ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")                                             |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg_2.jpg" title="cYsmix_bg_2.jpg" alt="cYsmix_bg_2.jpg" width="150" />   |
 | cYsmix - Fright March                                                                     |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kZrTX/13431bd8e6.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
-|                                                                                           |
+| ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")                                             |
 |-------------------------------------------------------------------------------------------|
-| <img src="cYsmix_bg_2.jpg" title="cYsmix_bg_2.jpg" alt="cYsmix_bg_2.jpg" width="150" />   |
 | cYsmix - Moonlight Sonata                                                                 |
 | Source: osu!                                                                              |
 | [Download .osz](http://puu.sh/kZrVh/d549b2e56f.osz)                                       |
 | Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge |
-||
 
 Bounties
 ========
