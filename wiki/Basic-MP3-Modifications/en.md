@@ -46,7 +46,7 @@ Lets cut out most of the intro, some of the repeating parts, and some of the lyr
 ![](H2CMP3LL_2.png "fig:H2CMP3LL_2.png")
 
 Zoom in. Lucky for me, there's a nice jagged point there so I know where the downbeat is. I'm going to use this spot as the basis of the rest of the song. Now select the number of beats we want out. Let's knock out the first 336. Then move forward 288 measures. Cut the next 192, and cut the ending short 104 later for 96 measures as well.
-<img src="H2CMP3LL_3.png" title="fig:H2CMP3LL_3.png" alt="H2CMP3LL_3.png" width="600" />
+[H2CMP3ll_3.png](H2CMP3LL_3.png)
 
 And there you have it. Over half the song cut out, as close to perfectly as you can. [<http://up.ppy.sh/files/dhbto0fvmeee.mp3>](http://up.ppy.sh/files/dhbto0fvmeee.mp3)
 
