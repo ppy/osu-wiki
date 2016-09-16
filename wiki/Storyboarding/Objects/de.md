@@ -1,7 +1,5 @@
-|                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="SBS Sprite.jpg" title="Aufruf von Objekten/Sprites im SB" alt="Aufruf von Objekten/Sprites im SB" width="200" />                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                             
+![Aufruf von Objekten/Sprites im SB](SBS Sprite.jpg "Aufruf von Objekten/Sprites im SB")
+
  Beim [Storyboarding](DE:Storyboarding "wikilink") sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](DE:Storyboard_Audio "wikilink") noch einen eigenen Artikel dazu.  |
 
 Definition von Objekten
@@ -9,9 +7,9 @@ Definition von Objekten
 
 Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzurufen, benutzen Sie dazu maximal eine Zeile im `[Events]` in der .osb Datei oder .osu Datei zu deklarieren.
 
-| Grundbilder      | Sprite,<layer>,<origin>,"<filepath>",<x>,<y>                                         |
-|------------------|--------------------------------------------------------------------------------------|
-| Bewegende Bilder | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Grundbilder | Bewegende Bilder |
+| ----------- | ------------ |
+| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
 
 -   **<layer>** (eng. für Ebene) ist die **[Ebene](DE:Storyboard_Scripting_-_allgemeine_Regeln#Ebenen "wikilink") auf denen Objekte erscheinen.** Erlaubte Werte sind:
     -   Background
@@ -47,16 +45,16 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
-          
+
         *und so weiter.*
 
 **<u>Speziell nur für Animationen</u>**
 
--   **<frameCount>** zeigt an **, wie viele Frames die Animation hat.** Wenn Sie zum Beispiel "sample0.png" und "sample1.png", sprich eine 2- Frame-Animation verwenden: `frameCount` `=` `2`.
+-   **<frameCount>** zeigt an **, wie viele Frames die Animation hat.** Wenn Sie zum Beispiel "sample0.png" und "sample1.png", sprich eine 2- Frame-Animation verwenden: `frameCount = 2`.
 
 <!-- -->
 
--   **<frameDelay>** zeigt an **, wie viele Frames zwischen den Frames liegen.** Wenn Sie zum Beispiel vorhätten, dass sich eine 2-Frame-Animation in einer Sekunde abspielen soll: `frameDelay` `=` `500`.
+-   **<frameDelay>** zeigt an **, wie viele Frames zwischen den Frames liegen.** Wenn Sie zum Beispiel vorhätten, dass sich eine 2-Frame-Animation in einer Sekunde abspielen soll: `frameDelay = 500`.
 
 <!-- -->
 
@@ -69,9 +67,9 @@ Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wir
 Beispiele
 ---------
 
-| Grundbilder      | Sprite,<layer>,<origin>,"<filepath>",<x>,<y>                                         |
-|------------------|--------------------------------------------------------------------------------------|
-| Bewegende Bilder | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Grundbilder | Bewegende Bilder |
+| ----------- | ------------ |
+| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
 
 Einige Beispiele wie Objekte deklariert werden:
 

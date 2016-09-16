@@ -1,6 +1,5 @@
- <img src="SBS Sprite.jpg" title="fig:SB object/sprite call" alt="SB object/sprite call" width="200" />
+![SBS Sprite](SBS Sprite.jpg "SBS Sprite")
 
-  
 *For Objects in [osu!](Standard "wikilink") and [Beatmapping](Beatmapping "wikilink"), see [Hit Objects](Hit_Objects "wikilink").*
 
 In [Storyboarding](Storyboarding "wikilink"), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](Storyboard_Audio "wikilink").
@@ -10,9 +9,9 @@ Object Definition
 
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
-| Basic image  | Sprite,<layer>,<origin>,"<filepath>",<x>,<y>                                         |
-|--------------|--------------------------------------------------------------------------------------|
-| Moving image | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Basic image | Moving image |
+| ----------- | ------------ |
+| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
 
 Where:
 
@@ -41,13 +40,13 @@ Where:
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
-          
+
         *and so on.*
 
 **<u>For animation only</u>**
 
--   **<frameCount>** indicates **how many frames the animation has.** If we have "sample0.png" and "sample1.png", for instance, our `frameCount` `=` `2`.
--   **<frameDelay>** indicates **how many milliseconds should be in between each frame.** For instance, if we wanted our animation to advance at 2 frames per second, `frameDelay` `=` `500`.
+-   **<frameCount>** indicates **how many frames the animation has.** If we have "sample0.png" and "sample1.png", for instance, our `frameCount = 2`.
+-   **<frameDelay>** indicates **how many milliseconds should be in between each frame.** For instance, if we wanted our animation to advance at 2 frames per second, `frameDelay = 500`.
 -   **<looptype>** indicates if the **animation should loop or not**. Valid values are:
     -   LoopForever (default if you leave this value off; the animation will return to the first frame after finishing the last frame)
     -   LoopOnce (the animation will stop on the last frame and continue to display that last frame; useful for, like, an animation of someone turning around)
@@ -57,9 +56,9 @@ Take note that *there is no indication of when the object should appear*. That i
 Examples
 --------
 
-| Basic image  | Sprite,<layer>,<origin>,"<filepath>",<x>,<y>                                         |
-|--------------|--------------------------------------------------------------------------------------|
-| Moving image | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Basic image | Moving image |
+| ----------- | ------------ |
+| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
 
 Some examples of object declarations:
 
@@ -70,5 +69,3 @@ This declares a still image (sprite) based on the "Play2-HaveFunH.png" file loca
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
 This declares an animation, whose frames can be found as "explosion0.png", "explosion1.png", ..., "explosion11.png" in the "Play3" folder of the "Other" folder. The image appears on the Fail layer, and the bottom center (centre) of the image will be located at (418,108) on the game screen. There are 12 frames in the animation (hence why the last frame is named "explosion11.png"), and there is a 31 millisecond delay between each frame (thus the animation takes 31 \* 12 = 372 milliseconds to loop once). After the game has displayed the last frame for 31 milliseconds, it moves back to the first frame, continuing until the object is no longer appearing on the screen.
-
-
