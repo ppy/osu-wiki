@@ -11,16 +11,16 @@ To call an instance of a sprite (a still image) or an animation, use a single li
 
 | Basic image | Moving image |
 | ----------- | ------------ |
-| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
 
--   **<layer>** is the **[layer](Storyboard_Scripting_General_Rules#Layers "wikilink") the object appears on.** Valid values are:
+-   **(layer)** is the **[layer](Storyboard_Scripting_General_Rules#Layers "wikilink") the object appears on.** Valid values are:
     -   Background
     -   Fail
     -   Pass
     -   Foreground
--   **<origin>** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the <x> and <y> values, as well as several other command-specific behaviors. For example, choosing <origin> = TopLeft will let the <x>,<y> values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
+-   **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviors. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
     -   TopLeft
     -   TopCentre
     -   TopRight
@@ -30,24 +30,24 @@ Where:
     -   BottomLeft
     -   BottomCentre
     -   BottomRight
--   **<filepath>** is, in laymans terms, the **filename of the image you want.** But it's not always quite that simple:
+-   **(filepath)** is, in laymans terms, the **filename of the image you want.** But it's not always quite that simple:
     -   If you have a subfolder inside your Song Folder, you need to include that, as well.
         -   Example: "backgrounds/sky.jpg" if you have a subfolder called "backgrounds" with an image called "sky.jpg" in it. Start listing directories only from the Song Folder, where the .osu or .osb file is (i.e., a relative filepath). It should not have something like "C:" anywhere in it.
     -   Animations are referred to without their number. So if you have "sample0.png" and "sample1.png" as two frames to make a single animation, you want to refer to it as "sample.png".
     -   The ""s are technically optional, but they're required if your filename or subfolder name has spaces.
         -   Example: "SB/J\_K.jpg" rather than SB/J\_K.jpg. The prior will find in SB folder for J\_K.jpg while the later will null the instance (it finds SB/J, an invalid variable).
--   **<x>** and **<y>** are the **x-/y-coordinates of where the object should be, by default respectively.** The interpretation of this depends on the value of <origin>; for instance, to place a 640x480 image as your background, the values could be:
+-   **(x)** and **(y)** are the **x-/y-coordinates of where the object should be, by default respectively.** The interpretation of this depends on the value of (origin); for instance, to place a 640x480 image as your background, the values could be:
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
 
         *and so on.*
 
-**<u>For animation only</u>**
+**For animation only**
 
--   **<frameCount>** indicates **how many frames the animation has.** If we have "sample0.png" and "sample1.png", for instance, our `frameCount = 2`.
--   **<frameDelay>** indicates **how many milliseconds should be in between each frame.** For instance, if we wanted our animation to advance at 2 frames per second, `frameDelay = 500`.
--   **<looptype>** indicates if the **animation should loop or not**. Valid values are:
+-   **(frameCount)** indicates **how many frames the animation has.** If we have "sample0.png" and "sample1.png", for instance, our `frameCount = 2`.
+-   **(frameDelay)** indicates **how many milliseconds should be in between each frame.** For instance, if we wanted our animation to advance at 2 frames per second, `frameDelay = 500`.
+-   **(looptype)** indicates if the **animation should loop or not**. Valid values are:
     -   LoopForever (default if you leave this value off; the animation will return to the first frame after finishing the last frame)
     -   LoopOnce (the animation will stop on the last frame and continue to display that last frame; useful for, like, an animation of someone turning around)
 
@@ -58,7 +58,7 @@ Examples
 
 | Basic image | Moving image |
 | ----------- | ------------ |
-| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Some examples of object declarations:
 

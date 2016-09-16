@@ -11,16 +11,16 @@
 
 | 基本画像 | 変化する画像 |
 | ----------- | ------------ |
-| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
 
--   **<layer>** は**オブジェクトが表示される[レイヤーを示します](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")。** 有効な値は以下のとおりです:
+-   **(layer)** は**オブジェクトが表示される[レイヤーを示します](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")。** 有効な値は以下のとおりです:
     -   Background
     -   Fail
     -   Pass
     -   Foreground
--   **<origin>** は**osu!内で原点となる場所を指定する項目です。**これは<x>と<y>座標だけに留まらず、他のエフェクトの動作すらも変化させます。 有効な値は以下のとおりです (注:綴りは"Centre"であって"Center"ではありません):
+-   **(origin)** は**osu!内で原点となる場所を指定する項目です。**これは(x)と(y)座標だけに留まらず、他のエフェクトの動作すらも変化させます。 有効な値は以下のとおりです (注:綴りは"Centre"であって"Center"ではありません):
     -   TopLeft
     -   TopCentre
     -   TopRight
@@ -30,23 +30,23 @@ Where:
     -   BottomLeft
     -   BottomCentre
     -   BottomRight
--   **<filepath>** は専門用語で、**あなたが利用したい画像のファイルの名前を入れる場所です。** しかし事は単純ではない場合もあります:
+-   **(filepath)** は専門用語で、**あなたが利用したい画像のファイルの名前を入れる場所です。** しかし事は単純ではない場合もあります:
     -   もしあなたのソングフォルダーにサブフォルダがあれば、それも合わせて適切に記述する必要があります。
         -   例: もし"BG"という名前のサブフォルダに"sky.jpg"という画像があるならば"backgrounds\\sky.jpg"(注:wikiの仕様上特定文字が使えないので補足、日本語環境下では\\の代わりに￥を半角で使用してください)と入力しなければいけません。常にSongsフォルダの.osuや.osbがある個別のフォルダ内のデータだけを自動的に対象として取ります。"C:"のようなコードはどこにも入れるべきではありません。
     -   アニメーションの読み取りに関しては末尾の数字は無視して参照します。なので"sample0.png"と"sample1.png"という2つの画像があるならば、数字を取り除いた記述、すなわち "sample.png"と記述してください。
     -   技術的補足として、もしファイルの名前やサブフォルダの名前にスペースが入っているならばそれも含めて記述してください。
--   **<x>** と **<y>**は**XY座標がデフォルトでどこに置かれているかを設定します。** その参照方法は<origin>の記述内容に依存します。例えば640x480の画像をBGとしていれた場合、その記述によって以下のように変化をしていきます:
+-   **(x)** と **(y)**は**XY座標がデフォルトでどこに置かれているかを設定します。** その参照方法は(origin)の記述内容に依存します。例えば640x480の画像をBGとしていれた場合、その記述によって以下のように変化をしていきます:
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
 
         *等など*
 
-**<u>アニメーション限定</u>**
+**アニメーション限定**
 
--   **<frameCount>** は**いくつの画像をアニメーションとして**含んでいるのか。もし"sample0.png"と"sample1.png"の2枚で形成されるアニメーションであるならば`frameCount = 2`と記述することになります。
--   **<frameDelay>** は**アニメーションとしてそれぞれのフレームの表示時間**を設定する項目です。 例えば1秒で2つのフレームを半々で表示したい場合は`frameDelay = 500`とすることで500msずつ2枚の画像が表示されます。
--   **<looptype>** は**アニメーションのループの有無**を決定します。以下それらに関する記述の補足:
+-   **(frameCount)** は**いくつの画像をアニメーションとして**含んでいるのか。もし"sample0.png"と"sample1.png"の2枚で形成されるアニメーションであるならば`frameCount = 2`と記述することになります。
+-   **(frameDelay)** は**アニメーションとしてそれぞれのフレームの表示時間**を設定する項目です。 例えば1秒で2つのフレームを半々で表示したい場合は`frameDelay = 500`とすることで500msずつ2枚の画像が表示されます。
+-   **(looptype)** は**アニメーションのループの有無**を決定します。以下それらに関する記述の補足:
     -   LoopForever (これを有効化するとデフォルトではアニメーションの最後のフレームが終わると最初のフレームに戻ります。)
     -   LoopOnce (こちらは最後のフレームが終わると停止し、最後の画像を表示させ続けます。)
 
@@ -57,7 +57,7 @@ Where:
 
 | 基本画像 | 変化する画像 |
 | ----------- | ------------ |
-| Sprite,<layer>,<origin>,"<filepath>",<x>,<y> | Animation,<layer>,<origin>,"<filepath>",<x>,<y>,<frameCount>,<frameDelay>,<looptype> |
+| Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 いくつかのオブジェクトの宣言例:
 
