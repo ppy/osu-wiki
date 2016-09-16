@@ -136,3 +136,12 @@ Not ranked
 
 -   [Seether - Fake It](https://osu.ppy.sh/s/48738)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
+
+Old and not interesting Songs
+-----------------------------
+
+- [Je t'aime](http://osu.ppy.sh/s/6818)
+- [Let's Dance](http://osu.ppy.sh/s/789)
+- [You're the Inspiration](http://osu.ppy.sh/s/4365)
+- [Without A Fight](http://osu.ppy.sh/s/4434)
+- [Hajimari no Sakamichi](http://osu.ppy.sh/s/12503)
