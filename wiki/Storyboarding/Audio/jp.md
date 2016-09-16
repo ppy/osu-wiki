@@ -5,7 +5,7 @@
 
 オーディオの宣言は以下のように行います:
 
-`Sample,`<time>`,`<layer_num>`,"`<filepath>`",`<volume>
+`Sample,<time>,<layer_num>,"<filepath>",<volume>`
 
 where:
 
