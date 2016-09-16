@@ -5,23 +5,23 @@ Loop (L) ループ コマンド
 
 [SBにおいていくつかの同じ](JP:Storyboarding "wikilink")[エフェクトが何度か起こることはよくあります](JP:Storyboard_Scripting_Commands "wikilink")。
 
-例えば特定のプレイタイムでフェードインとフェードアウトをオブジェクトが繰り返している場合などは、**ループ**コマンドを使用するのがベストです。
+例えば特定のプレイタイムでフェードインとフェードアウトをオブジェクトが繰り返している場合などは、**ループ** コマンドを使用するのがベストです。
 
 使用法
 ------
 
 ループは1つのオブジェクト内、複数ではないオブジェクトにおいて行われます。そしてこれらは特別なコマンドの形式として扱われます。
 
-`_L,`<starttime>`,`<loopcount>
-`__`<event>`,`<easing>`,`<relative_starttime>`,`<relative_endtime>`,<params...>`
+`_L,(starttime),(loopcount)`
+`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
 `// More events allowed`
 
 場所について:
 
--   <starttime>はループが始まる時間
--   <loopcount>はループが終わるまでを繰り返す回数
--   <relative_starttime> はloopの開始時を0とした時の相対的な**反復させたいエフェクトの開始位置**
--   <relative_endtime>はloopの開始時を0とした時の相対的な**反復させたいエフェクトの終了位置**
+-   (starttime)はループが始まる時間
+-   (loopcount)はループが終わるまでを繰り返す回数
+-   (relative_starttime) はloopの開始時を0とした時の相対的な**反復させたいエフェクトの開始位置**
+-   (relative_endtime)はloopの開始時を0とした時の相対的な**反復させたいエフェクトの終了位置**
 
 使用例
 ------
@@ -48,29 +48,29 @@ Loop (L) ループ コマンド
 Trigger (T) トリガー コマンド
 =============================
 
-普段は[Pass/Fail layersと同じように](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")"沈黙"しているレイヤーですが、**発動条件**を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](JP:Storyboard_Scripting_Commands "wikilink")。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
+普段は[Pass/Fail layersと同じように](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")"沈黙"しているレイヤーですが、**発動条件** を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](JP:Storyboard_Scripting_Commands "wikilink")。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
 
 使用法
 ------
 
 Triggers take the form:
 
-`_T,`<triggerType>`,`<starttime>`,`<endtime>
-`__`<event>`,`<easing>`,`<relative_starttime>`,`<relative_endtime>`,<params...>`
+`_T,(triggerType),(starttime),(endtime)`
+`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
 `// More events allowed`
 
 where:
 
--   <triggerType>は発動条件を示し、以下の一つが当てはまります:
+-   (triggerType)は発動条件を示し、以下の一つが当てはまります:
     -   HitSoundClap (Clap[ヒットサウンドが鳴った時](JP:Hitsounds "wikilink"))
     -   HitSoundFinish (Finishが鳴った時)
     -   HitSoundWhistle (Whistleが鳴った時)
     -   Passing (Fail状態からPass状態へ変化した時)
     -   Failing (Pass状態からFail状態へ変化した時)
--   <starttime> はトリガーが有効になり始めるタイム
--   <endtime> はトリガーが無効になり始めるタイム
--   <relative_starttime>はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの開始位置**
--   <relative_endtime>はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの終了位置**
+-   (starttime) はトリガーが有効になり始めるタイム
+-   (endtime) はトリガーが無効になり始めるタイム
+-   (relative_starttime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの開始位置**
+-   (relative_endtime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの終了位置**
 
 トリガーは一度動作しただけでは終わらず、時間内であれば条件が満たされる限り何度でもエフェクトが生じます。
 
