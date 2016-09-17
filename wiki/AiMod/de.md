@@ -42,38 +42,38 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| No problems were found in this map! | AiMod konnte keine Probleme mit deiner Beatmap finden! | You could upload your beatmap using BSS to allow osu!modders to find other mistakes and issues with your beatmap. |
+| No problems were found in this map! | AiMod konnte keine Probleme mit deiner Beatmap finden! | Du kannst deine Beatmap mithilfe von BBS hochladen, um von osu!moddern Verbesserungsvorschläge zu bekommen, so wie deine Fehler gezeigt zu bekommen. |
 
 #### Meta
 
-| Message | Explantation | Solution |
+| Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| HP rate for Easy/Normal is suggested to be at least 4. | Mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
-| HP rate for Hard and up is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
-| OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
-| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
+| HP rate for Easy/Normal is suggested to be at least 4. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 4 oder höher |
+| HP rate for Hard and up is suggested to be at least 7. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 7 oder höher |
+| OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Geh zu den Song Einstellungen und setze die "OD rate" auf 7 oder höher  |
+| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Geh zu den Timing Tab und setze die 'Slider Velocity' zu 1,40 oder 1,60 |
 
 
 ### Errors
 
 #### Compose
 
-| Message | Explantation | Solution |
+| Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| These two objects are less than 10ms apart! | Two objects are very close to each other. This means that the player will need to click at an impossible rate! | Find the two hit objects and move it or delete it. |
+| These two objects are less than 10ms apart! | Zwei Hitobjeckte sind sehr nah zueinnander. Das bedeutet, die Spieler in einer unmöglichen Geschwindigkeit klicken müssen! | Finde die 2 Hitobjekte und verschiebe oder lösche Sie. |
 
 #### Design
 
-| Message | Explantation | Solution |
+| Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| Your beatmap has no background image. | The current difficulty doesn't have a background image! Note that videos don't count as background images because the user isn't required to download them | Find a suitable image and use it as the background image. |
+| Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Beachte das Videos nicht als Hintergrundbilder zählen, da der Spieler die Videos nicht unbedingt herrunterladen muss! | Finde ein angemessendes Bild und nutze es als Hintergrundbild. |
 
 
 ### Warnings
 
 #### Compose
 
-| Message | Explantation | Solution |
+| Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
 | This slider moves in an abnormal way. | | |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo. (It is prefered that length of combos are, at most, 15-18) |
