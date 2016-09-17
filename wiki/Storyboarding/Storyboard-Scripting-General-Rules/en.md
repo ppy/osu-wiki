@@ -1,4 +1,6 @@
- <img src="SBS Base.jpg" title="fig:An example of scripting in .osb." alt="An example of scripting in .osb." width="200" /> This page and [the rest of the guide](Template:SBScripting "wikilink") describes the lines of scripting code that are placed into the .osb or .osu file, under `[Events]`. Commands in the .osb file for the beatmap will appear in all difficulties; those that appear in the .osu file will only appear in that given difficulty.
+![An example of scripting in .osb.](SBS Base.jpg "An example of scripting in .osb.")
+
+ This page and [the rest of the guide](Template:SBScripting) describes the lines of scripting code that are placed into the .osb or .osu file, under `[Events]`. Commands in the .osb file for the beatmap will appear in all difficulties; those that appear in the .osu file will only appear in that given difficulty.
 
 Basic Rules
 ===========
@@ -6,7 +8,7 @@ Basic Rules
 Objects
 -------
 
--   An "[object](Storyboard_Objects "wikilink")" in the following sections is an instance of a sprite or an animation in your storyboard. Storyboards can also have sound; see [that section](Storyboard_Audio "wikilink") for more details.
+-   An "[object](Storyboard_Objects)" in the following sections is an instance of a sprite or an animation in your storyboard. Storyboards can also have sound; see [that section](Storyboard_Audio) for more details.
 -   The accepted formats are PNG and JPEG.
     -   JPEG is lossy, which means it's smaller in filesize, but isn't pixel-for-pixel exactly what was input. It also doesn't support transparency. Therefore, it's good for backgrounds and for square, photo-realistic images.
     -   PNG is lossless, which means it retains pixel-for-pixel information, but is of a larger filesize than JPEG. It supports transparency, so it's usually the best for foreground objects / text.
@@ -21,9 +23,9 @@ Screen size
     -   General playarea is 510 pixels wide by 385 pixels tall `(510x385)`.
 -   Coordinates are specified with X going to the **right**, Y going **down**, and the origin (0,0) at the upper-left corner of the screen. This is different from traditional Euclidean coordinate systems, but is the same as most computer-graphics systems.
 -   You are allowed to specify coordinates outside of these boundaries (e.g., for a sprite to come in from off-screen).
--   The coordinates of your cursor will be displayed in the Design tab in the [Beatmap Editor](Beatmap_Editor "wikilink").
+-   The coordinates of your cursor will be displayed in the Design tab in the [Beatmap Editor](Beatmap_Editor).
 
-**<u>Editor coordinates:-</u>**
+**Editor coordinates:**
 
 -   Screen; x: 0 - 640, y: 0 - 480
 -   Playarea; x: 60 - 570, y: 55 - 440
@@ -31,19 +33,19 @@ Screen size
 Layers
 ------
 
--   All storyboard sprites are placed below the skin and [hit objects](Hit_Objects "wikilink").
+-   All storyboard sprites are placed below the skin and [hit objects](Hit_Objects).
     -   So, even the "highest"(Foreground) layer in the storyboard will always be behind the HP bar, the circles/sliders/spinners, the cursor, etc.
 -   There are four Storyboard layers, in increasing order of priority:
     -   Background
     -   Fail (only displayed if the player is in the "Fail state", see Game State below)
     -   Pass (only displayed if the player is in the "Pass state", see Game State below)
     -   Foreground
-          
+
         The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
 -   By default, the preview background (the background you see in Song Select) specified for the map is placed below all other layers. However, if you reference that same file as an object in your storyboard, it will disappear immediately after the map loads.
     -   It is common to have your map's preview background to be the first object (time-wise and sprite-wise) specified, and use "fade out" (brighten) command to "introduce" your background to the audience.
 
-**<u>Overlapping rules</u>**
+**Overlapping rules**
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objects that overlap in the same layer will be drawn in the order in which they are specified (e.g., if Object 1 is specified first in the .osb or .osu file, and then Object 2 is as well, but they are both in the same layer, Object 2 will appear in front of Object 1).
@@ -54,38 +56,37 @@ Game State
 
 The idea behind using a storyboard rather than a video file is **the ability to change dynamically to fit the circumstances of gameplay.** osu! only displays one of the Fail/Pass layers at one time, dependent on the player's performance. These states are referred to as "Fail State" and "Pass State".
 
-<u>States **before the first playtime** (e.g., before the first [circle/slider/spinner](Object "wikilink"), not necessarily before the MP3/OGG starts)</u>
+States **before the first playtime** (e.g., before the first [circle/slider/spinner](Object), not necessarily before the MP3/OGG starts)
 
 -   Always Pass State. Fail layer will never be displayed. It's not recommended you use either Pass or Fail layers at this point in the map, as it's meaningless to say the player is "passing" at this point.
 
-<u>States during **playtime** ("draining time", when the player is expected to click on objects to keep their HP bar from draining)</u>
+States during **playtime** ("draining time", when the player is expected to click on objects to keep their HP bar from draining)
 
 -   Pass State if this is the first color combo or if the previous color combo ended with a Geki/Elite Beat! (all 300s in the color combo).
 -   Fail State otherwise. Note that there is no state for just Katu/Beat!, unlike in the DS games (which had three states).
-    -   In [Taiko](Taiko "wikilink"), Fail State if the player missed the last note, Pass State otherwise.
-    -   In [Catch the Beat](Catch_the_Beat "wikilink"), this is always the state that the previous break was. The first playable section will always be Pass State.
+    -   In [Taiko](Taiko), Fail State if the player missed the last note, Pass State otherwise.
+    -   In [Catch the Beat](Catch_the_Beat), this is always the state that the previous break was. The first playable section will always be Pass State.
 
-<u> States during **break time** (between playtime segments)</u>
+ States during **break time** (between playtime segments)
 
 -   Pass State if the HP bar ended above half in the last playtime section (i.e., the "O" symbol appears).
 -   Fail State otherwise (i.e., the "X" symbol appears).
-    -   In [Taiko](Taiko "wikilink"), if it reaches certain quota at certain time. Refer to the two examples below,
+    -   In [Taiko](Taiko), if it reaches certain quota at certain time. Refer to the two examples below,
         -   Example A: Get an 96.5% accuracy while HP bar still 40%, gives Pass instead Fail.
         -   Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](http://osu.ppy.sh/b/69556&m=1)).
 
-<u> States after last playtime, if the map had at least one break</u>
+ States after last playtime, if the map had at least one break
 
 -   Pass State if at least half of the breaks occurred in the Pass State.
 -   Fail State otherwise.
 
-<u> States after last playtime, if the map had no breaks</u>
+ States after last playtime, if the map had no breaks
 
 -   Same as during break time.
 
 Time
 ----
-
-<img src="SBS Time.jpg" title="Use CTRL+C to copy the timestamp." alt="Use CTRL+C to copy the timestamp." width="200" />
+![Use CTRL+C to copy the timestamp.](SBS Time.jpg "Use CTRL+C to copy the timestamp.")
 
 -   Time is measured in milliseconds (1000 ms = 1 second) from the start of the beatmap's main MP3/OGG, including negative values to indicate an intro.
 -   Time in SB is not dependent upon timing of the beatmap itself (e.g., how many measures there are or beats per minute). Therefore, it is recommended that the beatmap be reasonably well-timed before storyboarding, as it will be harder to adjust these times later.
@@ -105,6 +106,4 @@ You can do single-line C-style comments, but be advised they may be removed if y
 
 `// This is a comment.`
 
-Unlike in C/C++/C\#/Java, you can't put a comment on a line after a valid command. You also can't do block comments.
-
-
+Unlike in C/C++/C#/Java, you can't put a comment on a line after a valid command. You also can't do block comments.
