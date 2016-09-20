@@ -5,7 +5,7 @@ Verwendung
 
 Die Form wie ein Audio deklariert wird:
 
-`Sample,`<Zeit>`,`<Ebene_Zahl>`,"`<Dateipfad>`",`<Lautstärke>
+`Sample,<Zeit>,<Ebene_Zahl>,"<Dateipfad>",<Lautstärke>`
 
 wo:
 

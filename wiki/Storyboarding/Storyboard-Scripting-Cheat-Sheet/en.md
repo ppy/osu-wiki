@@ -1,9 +1,9 @@
-Original Post: [*\[Official Specifications\] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/forum/t/1869)
+Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/forum/t/1869)
 
 Storyboarding by Scripting
 --------------------------
 
-In the .osu file, under \[Events\]: *Note: underscores **can** be replaced with spaces.*
+In the .osu file, under [Events]: *Note: underscores can be replaced with spaces.*
 
 ### Sprites and Animations
 
@@ -55,9 +55,9 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
-**filepath**: relative path of the image file (should be in the same directory as the .osu file) *Note: file path **must** be in double quotes if it has spaces in the filename*
+**filepath**: relative path of the image file (should be in the same directory as the .osu file) *Note: file path must be in double quotes if it has spaces in the filename*
 
-**x, y**: the position of the image *Note*: (0,0) is the top left corner while (640,480) is the bottom right corner.
+**x, y**: the position of the image **Note**: (0,0) is the top left corner while (640,480) is the bottom right corner.
 
 For each of the event types below, the initial value(s) of that event will assume the first assignment given to that event.
 
@@ -99,7 +99,7 @@ For each of the event types below, the initial value(s) of that event will assum
 
 **startscale**: the scale factor at the beginning of the animation **endscale**: the scale factor at the end of the animation
 
-  
+
 Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_V,[...],startx,starty,endx,endy`
@@ -108,9 +108,9 @@ Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_R,[...],startangle,endangle`
 
-**startangle**: the angle to rotate by \[u\]in radians\[/u\] at the beginning of the animation **endangle**: the angle to rotate by \[u\]in radians\[/u\] at the end of the animation
+**startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation **endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
 
-  
+
 Note: positive angle is clockwise rotation
 
 `_C,[...],r1,g1,b1,r2,g2,b2`
@@ -207,7 +207,7 @@ Trigger loops are zero-based similar to normal loops. If two overlap, the first 
 
 **layer**:
 
-  
+
 Background = **0**
 
 Fail = **1**
@@ -218,8 +218,8 @@ Foreground = **3**
 
 **filepath**: relative path of the sound file (should be in the same directory as the .osu file)
 
-  
-*Note: file path **must** be in double quotes*
+
+*Note: file path must be in double quotes*
 
 **volume**: volume of the sound file. (1-100) Can be left off for 100.
 

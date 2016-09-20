@@ -5,7 +5,7 @@ Usage
 
 The form of an audio sample declaration is:
 
-`Sample,`<time>`,`<layer_num>`,"`<filepath>`",`<volume>
+`Sample,<time>,<layer_num>,"<filepath>",<volume>`
 
 where:
 

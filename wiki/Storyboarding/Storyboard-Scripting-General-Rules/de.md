@@ -1,4 +1,5 @@
- <img src="SBS Base.jpg" title="fig:Ein Bespiel eines Skriptes im .osb." alt="Ein Bespiel eines Skriptes im .osb." width="200" /> Diese Seite und der Rest von der [Anleitung](Template:SBScripting "wikilink") beschreibt die Zeilen des geskripteten Codes in einer .osb oder .osu Datei unter dem `[Events]`. Die Befehle in der .osb Datei wird von allen vorhandenen Schwierigkeitsstufen in einer Beatmap verwendet; wenn sie jedoch in .osu enthalten sein sollten, werden sie nur in der gegebenen Schwierigkeitsstufe angewendet.
+![Ein Bespiel eines Skriptes im .osb.](SBS Base.jpg "Ein Bespiel eines Skriptes im .osb.")
+  Diese Seite und der Rest von der [Anleitung](Template:SBScripting) beschreibt die Zeilen des geskripteten Codes in einer .osb oder .osu Datei unter dem `[Events]`. Die Befehle in der .osb Datei wird von allen vorhandenen Schwierigkeitsstufen in einer Beatmap verwendet; wenn sie jedoch in .osu enthalten sein sollten, werden sie nur in der gegebenen Schwierigkeitsstufe angewendet.
 
 Grundregeln
 ===========
@@ -6,7 +7,7 @@ Grundregeln
 Objekte
 -------
 
--   Ein "[Objekt](DE:Storyboard_Scripting_-_Objekte "wikilink")" ist eine Instanz eines Sprites oder eine Animation in Ihrem Storyboard. Es können auch Töne im Storyboard eingesetzt werden, siehe [hier](DE:Storyboard_Audio "wikilink") für mehr Details.
+-   Ein "[Objekt](DE:Storyboard_Scripting_-_Objekte)" ist eine Instanz eines Sprites oder eine Animation in Ihrem Storyboard. Es können auch Töne im Storyboard eingesetzt werden, siehe [hier](DE:Storyboard_Audio) für mehr Details.
 -   Nur PNG und JPG/JPEG werden als Bildformate akzeptiert.
     -   JPGs/JPEGs sind verlustreich, was bedeutet, dass sie 'ne kleinere Dateigröße haben, die Pixel werden jedoch nicht exakt wie bei der Eingabe positioniert bleiben. Es wird auch keine Transparenz unterstützt. Deswegen sind sie eher als Hintergrundbilder oder für quadratische, photo-realistische Bilder geeignet.
     -   PNGs sind verlustlos, was bedeuet, dass alle Pixel ihre exakten Positionen beibehalten, was zu einer größeren Dateigröße im Vergleich zum JPG/JPEG führt. Transparenz wird unterstützt, was sich daher am besten für Objekte/Text auf der Foreground-Ebene eignet.
@@ -21,9 +22,9 @@ Auflösungen
     -   Üblicher Spielbereich ist 510 Pixel breit und 385 Pixel hoch `(510x385)`.
 -   Koordinaten sind spezifiziert durch X (positive Werte gehen nach rechts) und Y (positive Werte gehen nach unten), der Nullpunkt (0,0) liegt daher auf der oberen, linken Ecke vom Bildschirm. Dies unterscheidet sich vom traditionellen, euklidischen Koordinatensystem, ist aber jedoch noch das meist verwendeste Computer-Grafiksystemen.
 -   Ihnen ist es nicht gestattet Koordinaten außerhalb des Bereiches zu verwenden (z. B. für Sprites, die sich außerhalb der Zone in die Zone bewegen).
--   Die Koordinaten von Ihrem Cursor werden auch im [Beatmap Editor](DE:Beatmap_Editor "wikilink") im Tab "Design" angezeigt.
+-   Die Koordinaten von Ihrem Cursor werden auch im [Beatmap Editor](DE:Beatmap_Editor) im Tab "Design" angezeigt.
 
-**<u>Editor Koordinaten:-</u>**
+**Editor Koordinaten:**
 
 -   Bildfläche; x: 0 - 640, y: 0 - 480
 -   Spielbereich; x: 60 - 570, y: 55 - 440
@@ -31,19 +32,19 @@ Auflösungen
 Ebenen
 ------
 
--   Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](DE:Hit_Objekte "wikilink") platziert.
+-   Alle Storyboard Sprites werden unterhalb dem Skin und der [Hit Objekte](DE:Hit_Objekte) platziert.
     -   Daher ist selbst die "höchste"(Foreground) Ebene im Storyboard immer noch niedriger als der Lebensbalken, die Circle/Slider/Spinner, der Cursor, etc.
 -   Es gibt vier Storyboard Ebenen, die in steigender Reihenfolge an Priorität zunehmen:
     -   Background
     -   Fail (erscheint nur, wenn der Spieler im "Fail-Status" ist, siehe unter Spielstatus)
     -   Pass (erscheint nur, wenn der Spieler im "Pass-Status" ist, siehe unter Spielstatus)
     -   Foreground
-          
+
         Die "Fail" und "Pass" Ebenen werden nie gleichzeitig angezeigt, mit Ausnahme im Tab "Design" im Beatmap Editor.
 -   Das Standard Hintergrundbild (das Hintergrundbild, welches Sie in der Songauswhal sehen können) der Map liegt unter allen Ebenen. Wie auch immer, wenn Sie sich dazu entscheiden sollten das selbe Bild als ein Objekt in ihrem Storyboard zu verwenden, wird es augenblicklich nach dem Start der Map verschwinden.
     -   Es ist üblich, dass Sie Ihren Standard Hintergrundbild als erstes Objekt (zeitweise und sprite-weise) festlegen und verwenden Sie den "fade out" (aufhellen) Befehl dazu, um "Ihren Hintergrund dem Publikum vorzustellen".
 
-**<u>Regeln zum Thema Überlappung</u>**
+**Regeln zum Thema Überlappung**
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objekte, die sich auf der selben Ebene überlappen, werden in der Reihenfolge, in der sie spezifieziert werden (z. B. wenn Objekt-1 als erstes in der .osb oder .osu Datei spezifiziert wird und Objekt-2 danach, erscheinen beide Elemente in der selben Ebene und Objekt-2 wird über Objekt-1 gelegen), gezeichnet.
@@ -54,37 +55,37 @@ Spielstatus
 
 Die Idee dahinter, weshalb ein Storyboard anstatt eines Videos benutzt werden sollte, liegt daran an **die Möglichkeit es nach Situation dynamisch ans Gameplay anzupassen**. osu! zeigt entweder nur die Pass oder die Fail Ebene an, welches von der Performance des Spielers abhängt. Diese Status werden daher auch als "Fail-Status" und als "Pass-Status" bezeichnet.
 
-<u>Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](DE:Hit_Objekte "wikilink") erscheint)</u>
+Der Status **vor der ersten spielbaren Sequenz** (z. B. bevor der erste [Circle/Slider/Spinner](DE:Hit_Objekte) erscheint)
 
 -   ist immer der Pass-Status. Die Fail Ebene wird daher nie angezeigt. Es wird empfohlen weder die Pass Ebene, noch die Fail Ebene an diesem Punkt zu verwenden, da man nicht wirklich vom "passen" oder "failen sprechen kann.
 
-<u>Der Status **während der spielbaren Sequenz**</u>
+Der Status **während der spielbaren Sequenz**
 
 -   Pass-Status, wenn der erste farbige Combo mit einem Geki/Elite Beat! (nur 300er in dem farbige Comboyeah).
 -   Ansonsten Fail-Status. Beachte, dass es keinen Status für Katu/Beat! gibt, nicht so wie in den DS Spielen (indem es drei Status gab).
-    -   In [Taiko](DE:Taiko "wikilink") entsteht der Fail-Status, wenn man beim letzten Hit Objekt gescheitert ist , ansonsten der Pass-Status.
-    -   In [Catch the Beat](DE:Catch_The_Beat "wikilink") wird der Status von der vorher spielbaren Sequenz übernommen.
+    -   In [Taiko](DE:Taiko) entsteht der Fail-Status, wenn man beim letzten Hit Objekt gescheitert ist , ansonsten der Pass-Status.
+    -   In [Catch the Beat](DE:Catch_The_Beat) wird der Status von der vorher spielbaren Sequenz übernommen.
 
-<u>Der Status **während den Pausen** (zwischen dem gespielten Sequenzen)</u>
+Der Status **während den Pausen** (zwischen dem gespielten Sequenzen)
 
 -   Pass-Status, wenn der Lebensbalken von der letzten spielbaren Sequenz mehr als die Hälfte beträgt (wenn z. B. das Symbol "O" erscheint).
 -   Ansonsten Fail-Status (wenn z. B. das "X" erscheint).
-    -   Kommt in [Taiko](DE:Taiko "wikilink") zum Einsatz, wenn eine gewisse Quote bis zu einer bestimmten Zeit nicht erreicht wurde. Hier dazu ein Beispiel:
+    -   Kommt in [Taiko](DE:Taiko) zum Einsatz, wenn eine gewisse Quote bis zu einer bestimmten Zeit nicht erreicht wurde. Hier dazu ein Beispiel:
         -   Beispiel A: Sollten Sie ein Accuracy von 96.5% haben, während der Lebensbalken nur um 40% gefüllt ist, fallen Sie in den Fail-Status anstatt dem Pass-Status.
 
-<u>Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map mindestens eine Pause hat</u>
+Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map mindestens eine Pause hat
 
 -   Pass-Status, wenn mindestens die Hälfte aller Pausen im Pass-Status waren.
 -   Ansonsten Fail-Status.
 
-<u>Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map keine Pausen hat</u>
+Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map keine Pausen hat
 
 -   Verhält sich wie während den Pausen.
 
 Zeit
 ----
 
-<img src="SBS Time.jpg" title="Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren." alt="Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren." width="200" />
+![Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.](SBS Time.jpg "Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.")
 
 -   Die Zeit wir in Millisekunden gemessen (1000 ms = 1 second) ab dem Start der Liedes, negative Werte für mögliche Intros sind auch möglich.
 -   Die Zeit im SB hängt nicht vom Zeitpunkt der Beatmap selbst ab (z. B. wie viele BPMs vorhanden sind). Daher wird empfohlen, dass die Beatmap einigermaßen gut zeitlich angepasst wird, bevor am Storyboard gearbeitet wird, da es sonst schwieriger wird, diese Zeiten später richtig anpassen.
@@ -104,6 +105,6 @@ You can do single-line C-style comments, but be advised they may be removed if y
 
 `// Dies hier ist ein Kommentar.`
 
-Nicht so wie in C/C++/C\#/Java, kannst du keine Kommentare in einer Zeile platzieren, in der schon ein gültiger Code vorhanden ist.
+Nicht so wie in C/C++/C#/Java, kannst du keine Kommentare in einer Zeile platzieren, in der schon ein gültiger Code vorhanden ist.
 
 <Category:Deutsch>

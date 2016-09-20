@@ -1,22 +1,22 @@
 Storyboardのコード短縮化
 ========================
 
-より簡単に [SB作成をするにあたり](JP:Storyboard_Scripting_Commands "wikilink")、3つの**短縮方法**をここに記しておきます。
+より簡単に [SB作成をするにあたり](JP:Storyboard_Scripting_Commands)、3つの**短縮方法**をここに記しておきます。
 
 同じイベント、同じ期間、順序
 ----------------------------
 
 同じ画像において、**同じ種類のイベント**(全く同じ変化方法である必要はありません)を**同じ間隔**で複数回起こしたい場合、右側にその数値を打ち込むことで記述を簡略化させることができます。ただしエフェクトの長さはエフェクト開始から終了の間の長さで固定されます。
 
-`_`<event>`,`<easing>`,`<starttime_of_first>`,`<endtime_of_first>`,`<value(s)_1>`,`<value(s)_2>`,`<value(s)_3>`,`<value(s)_4>
+`_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2),(value(s)_3),(value(s)_4)`
 
 言い換えれば
 
-`_`<event>`,`<easing>`,`<starttime_of_first>`,`<endtime_of_first>`,`<value(s)_1>`,`<value(s)_2>
-`_`<event>`,`<easing>`,(`<starttime_of_first>` + `<duration>`),(`<endtime_of_first>` + duration),`<value(s)_2>`,`<value(s)_3>
-`_`<event>`,`<easing>`,(`<starttime_of_first>` + 2 * `<duration>`),(`<endtime_of_first>` + 2 * duration),`<value(s)_3>`,`<value(s)_4>
+`_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)`
+`_(event),(easing),((starttime_of_first)` + (duration)),((endtime_of_first)` + duration),(value(s)_2),(value(s)_3)`
+`_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)`
 
-<duration>(期間)は(<endtime_of_first>-<starttime_of_first>)となります。
+(duration)(期間)は((endtime_of_first)-(starttime_of_first))となります。
 
 例えばフェードの効果において、不可視から可視、その後に半透明として見えるようになり、また完全な可視状態に戻るという効果を51000から1秒(10000ms)単位で動作するようにする場合
 
@@ -30,11 +30,11 @@ Storyboardのコード短縮化
 
 上の部分でも触れられたように、開始と終了で同じ数値でコマンドが終了する場合、後ろの数字を削除して以下のように省略することができます。
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,`<value(s)>
+`_(event),(easing),(starttime),(endtime),(value(s))`
 
 これは以下のコードと置き換えられます:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,`<value(s)>`,`<value(s)>
+`_(event),(easing),(starttime),(endtime),(value(s)),(value(s))`
 
 例えば画像が1000から2000までのタイムの間で、透明度0.75を維持したまま、画像の大きさを変更する場合:
 
@@ -47,11 +47,11 @@ Storyboardのコード短縮化
 
 コマンドの開始と終了のタイムが同じ場合、終了タイムを省略することができます(ただし終了タイムの位置にコンマを入れる必要があります)。
 
-`_`<event>`,`<easing>`,`<starttime>`,,<params...>`
+`_(event),(easing),(starttime),,(params...)`
 
 言い換えれば:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<starttime>`,<params...>`
+`_(event),(easing),(starttime),(starttime),(params...)`
 
 例えば1000から始まる画面を移動するオブジェクトに対し、常に50%の透明度を指定したいときは今回の省略法が使えます。
 
@@ -77,18 +77,18 @@ Storyboard Audio
 
 以下が音声データの宣言となります。
 
-`Sample,`<time>`,`<layer_num>`,"`<filepath>`",`<volume>
+`Sample,(time),(layer_num),"(filepath)",(volume)`
 
 where:
 
--   <time>は音を鳴らしたいタイム
--   <layer_num>は鳴らしたいファイルのレイヤーの番号を示し、以下の数値を使用することができます:
+-   (time)は音を鳴らしたいタイム
+-   (layer_num)は鳴らしたいファイルのレイヤーの番号を示し、以下の数値を使用することができます:
     -   0 - Background
     -   1 - Fail
     -   2 - Pass
     -   3 - Foreground
--   <filepath>は画像の時と同様に対象のファイルを宣言し、.wav/.mp3/.oggファイルを宣言します
--   <volume>は音量を1から100までの間で設定します(デフォルトでは100に設定)
+-   (filepath)は画像の時と同様に対象のファイルを宣言し、.wav/.mp3/.oggファイルを宣言します
+-   (volume)は音量を1から100までの間で設定します(デフォルトでは100に設定)
 
 使用例
 ------
@@ -108,7 +108,7 @@ where:
 使用法
 ------
 
-osbのファイルの戦闘で\[Variables\]で置き換えるための数値/文字の宣言を行います。
+osbのファイルの戦闘で[Variables]で置き換えるための数値/文字の宣言を行います。
 
 `[Variables]`
 `$color_link=0,255,0`
@@ -141,11 +141,11 @@ Beatmap Editorで保存する場合はマクロが引き継がれることに注
 osu! File切り替え
 =================
 
-[スキン](JP:Skinning "wikilink") / [SBを](JP:Storyboarding "wikilink").osu(いくつかの場合は.osbファイルで)で切り替えさせることが可能です。これらは[Beatmap Editorで加えられた](JP:Beatmap_Editor "wikilink")/削除されたものを含めることができます。
+[スキン](JP:Skinning) / [SBを](JP:Storyboarding).osu(いくつかの場合は.osbファイルで)で切り替えさせることが可能です。これらは[Beatmap Editorで加えられた](JP:Beatmap_Editor)/削除されたものを含めることができます。
 
-[skin.iniも参照してください](JP:Skin.ini "wikilink")。
+[skin.iniも参照してください](JP:Skin.ini)。
 
-\[General\] Section以下
+[General] Section以下
 -----------------------
 
 `UseSkinSprites: 1`

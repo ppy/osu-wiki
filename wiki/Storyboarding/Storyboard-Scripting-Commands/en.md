@@ -2,13 +2,13 @@
 
 A command under an object declaration looks like:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,<params...>`
+`_(event),(easing),(starttime),(endtime),(params...)`
 
 where:
 
--   "\_" can be a space instead of an underscore.
--   <event> is a letter/pair of letters, corresponding to one of the commands below.
--   <easing> indicates if the command should "accelerate". See <http://easings.net>. Valid values are:
+-   _ can be a space instead of an underscore.
+-   (event) is a letter/pair of letters, corresponding to one of the commands below.
+-   (easing) indicates if the command should "accelerate". See http://easings.net. Valid values are:
     -   0 - Linear: no easing
     -   1 - Easing Out: the changes happen fast at first, but then slow down toward the end
     -   2 - Easing In: the changes happen slowly at first, but then speed up toward the end
@@ -44,10 +44,10 @@ where:
     -   32 - Bounce In
     -   33 - Bounce Out
     -   34 - Bounce In/Out
--   <starttime> and <endtime> are the starting and ending times of the command, respectively in milliseconds (ms).
--   &lt;params...&gt; vary between specific values for <event>. This is usually what values the variables should take on.
+-   (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
+-   (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
-An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F). <img src="SBS Base C.jpg" title="fig: Setting a(n) sprite/object with their commands to do (Event)." alt=" Setting a(n) sprite/object with their commands to do (Event)." width="200" />
+An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F). (img src="SBS Base C.jpg" title="fig: Setting a(n) sprite/object with their commands to do (Event)." alt=" Setting a(n) sprite/object with their commands to do (Event)." width="200" /)
 
 Basic command
 =============
@@ -57,17 +57,16 @@ These are the fundamental command for any object. The command are easy to use an
 Fade (F) Command
 ----------------
 
-| Fade                                                             |
-|------------------------------------------------------------------|
-| \_F,<easing>,<starttime>,<endtime>,<start_opacity>,<end_opacity> |
-| Affects:                                                         |
-| Value definition:                                                |
-| Default value:                                                   |
+`_F,(easing),(starttime),(endtime),(start_opacity),(end_opacity)`
 
-where:-
+| Affects | Value definition | Default value |
+| ------- | ---------------- | ------------- |
+| The opacity of the object (how transparent it is). | 0 to 1, with decimals accepted. 0 is invisible, 1 is fully visible. | 1 |
 
--   <start_opacity> is the value at starttime
--   <end_opacity> is the value at endtime
+where:
+
+-   (start_opacity) is the value at starttime
+-   (end_opacity) is the value at endtime
 
 For example, to fade an object in 1 second (starting at 1 second after the map starts), wait 2 seconds at half-transparency, and then fade out in 1 second, we would write something like:
 
@@ -87,17 +86,16 @@ See the shorthand section for an explanation of how to shorten this last line to
 Move (M) Command
 ----------------
 
-| Move                                                                   |
-|------------------------------------------------------------------------|
-| \_M,<easing>,<starttime>,<endtime>,<start_x>,<start_y>,<end_x>,<end_y> |
-| Affects:                                                               |
-| Value definition:                                                      |
-| Default value:                                                         |
+`M,(easing),(starttime),(endtime),(start_x),(start_y),(end_x),(end_y)`
 
-where:-
+| Affects | Value definition | Default value |
+| ------- | ---------------- | ------------- |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are not allowed. | An (x,y) position, as specified above. Decimals are not allowed. |
 
--   <start_x>,<start_y> is the position at starttime
--   <end_x>,<end_y> is the position at endtime
+where:
+
+-   (start_x),(start_y) is the position at starttime
+-   (end_x),(end_y) is the position at endtime
 
 For example, to move an object across the screen from the top left to bottom right (assuming the image is less than 200 pixels wide, otherwise it will appear to pop in and pop out of existence at the endpoints):
 
@@ -106,8 +104,8 @@ For example, to move an object across the screen from the top left to bottom rig
 
 So,
 
--   x-coordinate: (320 overwritten with) -110 -&gt; 740
--   y-coordinate: (240 overwritten with) -100 -&gt; 580
+-   x-coordinate: (320 overwritten with) -110 -> 740
+-   y-coordinate: (240 overwritten with) -100 -> 580
 
 ### Move X (MX) Command
 
@@ -118,7 +116,7 @@ Like Move, but only changes X-coordinate. Y-coordinate stays the same. For examp
 
 So,
 
--   x-coordinate: (320 overwritten with) -110 -&gt; 740
+-   x-coordinate: (320 overwritten with) -110 -> 740
 -   y-coordinate: 240
 
 ### Move Y (MY) Command
@@ -131,7 +129,7 @@ Like Move, but only changes Y-coordinate. X-coordinate stays the same. For examp
 So,
 
 -   x-coordinate: 320
--   y-coordinate: (240 overwritten with) -100 -&gt; 580
+-   y-coordinate: (240 overwritten with) -100 -> 580
 
 Advanced command
 ================
@@ -141,32 +139,16 @@ These are extra command for an object to use. These command are quite advanced, 
 Scale (S) Command
 -----------------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Scale</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale></p></td>
-</tr>
-<tr class="even">
-<td><p>Affects:</p></td>
-</tr>
-<tr class="odd">
-<td><p>Value definition:</p></td>
-</tr>
-<tr class="even">
-<td><p>Default value:</p></td>
-</tr>
-</tbody>
-</table>
+`_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale>`
 
-where:-
+| Affects | Value definition | Default value |
+| ------- | ---------------- | ------------- |
+| The size of the object relative to its original size (as it appears in its file). Example: For a file that originally is 100x100, a scale factor of 2 will make the object take up 200x200 pixels. The scaling is affected by the object's origin (Centre, TopLeft, etc.) | The multiplier of the object's original size, from 0 upward. Decimals allowed. | 1 |
 
--   <start_scale> is the scale factor at starttime
--   <end_scale> is the scale factor at endtime
+where:
+
+-   (start_scale) is the scale factor at starttime
+-   (end_scale) is the scale factor at endtime
 
 For example, to have an object "zoom" (e.g., a background) from nothing to five times its original size:
 
@@ -181,7 +163,7 @@ So,
 
 This is the same as S, except X and Y scale separately.
 
-`_V,`<easing>`,`<starttime>`,`<endtime>`,`<start_scale_x>`,`<start_scale_y>`,`<end_scale_x>`,`<end_scale_y>
+`_V,(easing),(starttime),(endtime),(start_scale_x),(start_scale_y),(end_scale_x),(end_scale_y)`
 
 For example, to have an object widen to two times its original size, but lose half of its vertical size:
 
@@ -195,32 +177,16 @@ So,
 Rotate (R) Command
 ------------------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Rotate</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate></p></td>
-</tr>
-<tr class="even">
-<td><p>Affects:</p></td>
-</tr>
-<tr class="odd">
-<td><p>Value definition:</p></td>
-</tr>
-<tr class="even">
-<td><p>Default value:</p></td>
-</tr>
-</tbody>
-</table>
+`_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate>`
+
+| Affects | Value definition | Default value |
+| ------- | ---------------- | ------------- |
+| The amount an object is rotated from its original image, in radians, clockwise. | Any real number; negative is anti-clockwise/counterclockwise rotation, positive is clockwise. Exceeding 2*pi either way will continue rotating as many times as you'd like. | 0 |
 
 where:
 
--   <start_rotate> is the scale factor at starttime
--   <end_rotate> is the scale factor at endtime
+-   (start_rotate) is the scale factor at starttime
+-   (end_rotate) is the scale factor at endtime
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
@@ -235,24 +201,23 @@ Or to have an object spin counterclockwise four times (4 rotations = 8\*pi radia
 Color / Colour (C) Command
 --------------------------
 
-| Colour                                                                                   |
-|------------------------------------------------------------------------------------------|
-| \_C,<easing>,<starttime>,<endtime>,<start_r>,<start_g>,<start_b>,<end_r>,<end_g>,<end_b> |
-| Affects:                                                                                 |
-| Value definition:                                                                        |
-| Default value:                                                                           |
+`_C,(easing),(starttime),(endtime),(start_r),(start_g),(start_b),(end_r),(end_g),(end_b)`
 
-where:-
+| Affects | Value definition | Default value |
+| ------- | ---------------- | ------------- |
+| The virtual light source color on the object. The colors of the pixels on the object are determined subtractively. | A color triple, written in decimal. The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
--   <start_r>,<start_g>,<start_b> is the color at starttime
--   <end_r>,<end_g>,<end_b> is the scale factor at endtime
+where:
+
+-   (start_r),(start_g),(start_b) is the color at starttime
+-   (end_r),(end_g),(end_b) is the scale factor at endtime
 
 For example, to make an object appear as a shadow (entirely black) and fade into its actual color:
 
 `Sprite,Pass,Centre,"Sample.png",320,240`
 `_C,0,58810,59810,0,0,0,255,255,255`
 
-To make something appear in <span style="background:#CCCC00">this yellow color</span>:
+To make something appear in (span style="background:#CCCC00")this yellow color(/span):
 
 `Sprite,Pass,Centre,"Sample.png",320,240`
 `_C,0,58810,59810,CC,CC,0`
@@ -265,12 +230,12 @@ Parameter (P) Command
 
 Unlike the other commands, which can be seen as setting endpoints along continually-tracked values, the Parameter command apply ONLY while they are active, i.e.,you can't put a command from timestamps 1000 to 2000 and expect the value to apply at time 3000, even if the object's other commands aren't finished by that point.
 
-`_P,`<easing>`,`<starttime>`,`<endtime>`,`<parameter>
+`_P,(easing),(starttime),(endtime),(parameter)`
 
-where <parameter> is one of the following:
+where (parameter) is one of the following:
 
--   "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). \[Horizontal Flip\]
--   "V" - flip the image vertically. \[Vertical Flip\]
+-   "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
+-   "V" - flip the image vertically. [Vertical Flip]
 -   "A" - use additive-color blending instead of alpha-blending
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
@@ -284,7 +249,5 @@ Compound Commands
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 
--   [Loop (L) Command](Storyboard_Loops "wikilink")
--   [Trigger (T) Command](Storyboard_Triggers "wikilink")
-
-
+-   [Loop (L) Command](Storyboard_Loops)
+-   [Trigger (T) Command](Storyboard_Triggers)

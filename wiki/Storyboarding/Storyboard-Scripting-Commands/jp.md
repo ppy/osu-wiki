@@ -2,20 +2,20 @@
 
 コマンドの宣言は以下のようになります:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,<params...>`
+`_(event),(easing),(starttime),(endtime),(params...)`
 
 where:
 
--   "\_"はスペースの代わりにアンダーバーとして表示しています。
--   <event>は後述のコマンドに対応する文字/ペアです。
--   <easing>は動作を"加速"させるかどうかを決めています。有効な値は以下の通り
+-   _ はスペースの代わりにアンダーバーとして表示しています。
+-   (event)は後述のコマンドに対応する文字/ペアです。
+-   (easing)は動作を"加速"させるかどうかを決めています。有効な値は以下の通り
     -   0 - 加速なし
     -   1 - 最初は早く、しかし終わりに近づくにつれてスピードが下がっていきます。(Easing Outとも)
     -   2 - 最初は遅く、しかし終わりに近づくにつれてスピードが上がっていきます。 (Easing Inとも)
--   <starttime> と <endtime>はコマンドの開始と終わりを指定する。単位はミリセカンド(ms)。
--   &lt;params...&gt; は変数で<event>で指定された値の間の数値が当てはまります。
+-   (starttime) と (endtime)はコマンドの開始と終わりを指定する。単位はミリセカンド(ms)。
+-   (params..) は変数で(event)で指定された値の間の数値が当てはまります。
 
-オブジェクトは最後のコマンドのタイムを過ぎるまではアクティブなままとなります。それを過ぎれば消滅します。オブジェクトを画面内に留めておきたいと考えるならば、Fade(F)の透過を利用してください。 <img src="SBS Base C.jpg" title="fig: Setting a(n) sprite/object with their commands to do (Event)." alt=" Setting a(n) sprite/object with their commands to do (Event)." width="200" />
+オブジェクトは最後のコマンドのタイムを過ぎるまではアクティブなままとなります。それを過ぎれば消滅します。オブジェクトを画面内に留めておきたいと考えるならば、Fade(F)の透過を利用してください。 (img src="SBS Base C.jpg" title="fig: Setting a(n) sprite/object with their commands to do (Event)." alt=" Setting a(n) sprite/object with their commands to do (Event)." width="200" /)
 
 基本コマンド
 ============
@@ -25,17 +25,16 @@ where:
 Fade (F) 透過 コマンド
 ----------------------
 
-| Fade                                                             |
-|------------------------------------------------------------------|
-| \_F,<easing>,<starttime>,<endtime>,<start_opacity>,<end_opacity> |
-| 影響:                                                            |
-| 値の記述:                                                        |
-| デフォルトの数値:                                                |
+`_F,(easing),(starttime),(endtime),(start_opacity),(end_opacity)`
 
-where:-
+| 影響 | 値の記述 | デフォルトの数値 |
+| ------- | ---------------- | ------------- |
+| オブジェクトの透明度 (どのように透過するか). | 0から1まで、少数も可能です。0は不可視、1は可視状態になります。 | 1 |
 
--   <start_opacity> は開始時の数値
--   <end_opacity> は終了時の数値
+where:
+
+-   (start_opacity) は開始時の数値
+-   (end_opacity) は終了時の数値
 
 例えば(譜面が開始してから)1秒(1000ms)でオブジェクトがフェードインし、2秒間(2000ms)半透明状態(透過率50%)を維持した後、1秒(1000ms)でフェードアウトする場合は以下のように記述します。
 
@@ -65,15 +64,14 @@ where:-
 Move (M) 移動コマンド
 ---------------------
 
-| Move                                                                   |
-|------------------------------------------------------------------------|
-| \_M,<easing>,<starttime>,<endtime>,<start_x>,<start_y>,<end_x>,<end_y> |
-| 影響:                                                                  |
-| 値の記述:                                                              |
-| デフォルトの数値:                                                      |
+`M,(easing),(starttime),(endtime),(start_x),(start_y),(end_x),(end_y)`
 
--   <start_x>,<start_y>は開始時の数値
--   <end_x>,<end_y> は終了時の数値
+| 影響 | 値の記述 | デフォルトの数値 |
+| ------- | ---------------- | ------------- |
+| プレイエリアにおけるオブジェクトの位置。| (x,y) 座標で、小数以下の数値は使用できません。 | デフォルトでの(x)、(y)はオブジェクトの宣言(1行目)に従っています |
+
+-   (start_x),(start_y)は開始時の数値
+-   (end_x),(end_y) は終了時の数値
 
 例えばオブジェクトをスクリーンの左上から右下に移動させる場合は以下の様な記述になります。(画像は200ピクセルより小さいと仮定します。それより大きい場合は画面外に出ます。)
 
@@ -82,8 +80,8 @@ Move (M) 移動コマンド
 
 要するに
 
--   x座標: (320は次の数値によって上書きされています) -110 -&gt; 740
--   y座標: (240は次の数値によって上書きされています) -100 -&gt; 580
+-   x座標: (320は次の数値によって上書きされています) -110 -> 740
+-   y座標: (240は次の数値によって上書きされています) -100 -> 580
 
 ### Move X (MX) X軸のみの移動コマンド
 
@@ -94,7 +92,7 @@ Move (M) 移動コマンド
 
 なので
 
--   x座標: (320は次の数値によって上書きされています) -110 -&gt; 740
+-   x座標: (320は次の数値によって上書きされています) -110 -> 740
 -   y座標: 240
 
 ### Move Y (MY) Y軸のみの移動コマンド
@@ -107,7 +105,7 @@ Move (M) 移動コマンド
 従って
 
 -   x座標: 320
--   y座標: (240は次の数値によって上書きされています) -100 -&gt; 580
+-   y座標: (240は次の数値によって上書きされています) -100 -> 580
 
 応用コマンド
 ============
@@ -117,32 +115,15 @@ Move (M) 移動コマンド
 Scale (S) スケール コマンド
 ---------------------------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Scale</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale></p></td>
-</tr>
-<tr class="even">
-<td><p>影響:</p></td>
-</tr>
-<tr class="odd">
-<td><p>値の記述:</p></td>
-</tr>
-<tr class="even">
-<td><p>デフォルトの数値:</p></td>
-</tr>
-</tbody>
-</table>
+`_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale>`
 
-where:-
+| 影響 | 値の記述 | デフォルトの数値 |
+| ------- | ---------------- | ------------- |
+| オブジェクトの元々のサイズ(画像の大きさ)に対しての大きさの補正。例えば元が100x100ピクセルの画像で、それに対し2の補正をすることで200x200ピクセルに変化させることができます。スケールの変更はオブジェクトの原点位置に影響されます。(中央、左上など) | 0以上のオブジェクトに依存した数字。少数も可能。| 1 |
+where:
 
--   <start_scale>は開始時の大きさの数値
--   <end_scale>は終了時の大きさの数値
+-   (start_scale)は開始時の大きさの数値
+-   (end_scale)は終了時の大きさの数値
 
 5倍にオブジェクトを大きくさせたい場合は以下の様な記述になります
 
@@ -155,7 +136,7 @@ where:-
 
 S(スケール)と同じで。X、もしくはY方向の一方への拡大をしたものがこれになります。
 
-`_V,`<easing>`,`<starttime>`,`<endtime>`,`<start_scale_x>`,`<start_scale_y>`,`<end_scale_x>`,`<end_scale_y>
+`_V,(easing),(starttime),(endtime),(start_scale_x),(start_scale_y),(end_scale_x),(end_scale_y)`
 
 オブジェクトをオリジナルサイズ比較で横に2倍し、縦には半分にする場合:
 
@@ -167,32 +148,16 @@ S(スケール)と同じで。X、もしくはY方向の一方への拡大をし
 Rotate (R) 回転 コマンド
 ------------------------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Rotate</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate></p></td>
-</tr>
-<tr class="even">
-<td><p>影響:</p></td>
-</tr>
-<tr class="odd">
-<td><p>値の記述:</p></td>
-</tr>
-<tr class="even">
-<td><p>デフォルトの数値:</p></td>
-</tr>
-</tbody>
-</table>
+`_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate>`
+
+| 影響 | 値の記述 | デフォルトの数値 |
+| ------- | ---------------- | ------------- |
+| オリジナルの画像を時計回りに単位はラジアンで回転させます | 実数で、負の値に設定をした時は反時計回りに、正の値の時は時計回りに回転します 2πを超えた時は何回も回転させることができます。 | 0 |
 
 where:
 
--   <start_rotate>は開始時の数値
--   <end_rotate> は終了時の数値
+-   (start_rotate)は開始時の数値
+-   (end_rotate) は終了時の数値
 
 -45から45度(45度 = 0.785ラジアン)まで回転させる場合:
 
@@ -207,17 +172,16 @@ where:
 Color / Colour (C) カラー コマンド
 ----------------------------------
 
-| Colour                                                                                   |
-|------------------------------------------------------------------------------------------|
-| \_C,<easing>,<starttime>,<endtime>,<start_r>,<start_g>,<start_b>,<end_r>,<end_g>,<end_b> |
-| 影響:                                                                                    |
-| 値の記述:                                                                                |
-| デフォルトの数値:                                                                        |
+`_C,(easing),(starttime),(endtime),(start_r),(start_g),(start_b),(end_r),(end_g),(end_b)`
 
-where:-
+| 影響 | 値の記述 | デフォルトの数値 |
+| ------- | ---------------- | ------------- |
+| オブジェクトの仮想の色を変更します。オブジェクト上の色は減算形式で決定します。 | 色は3つの進数から決定します。最初の数値は赤(R)、次は緑(G)、最後に青(B)。それぞれの数値は0から255の間で変動します。(0,0,0)は黒く、(255,255,255)は白(補正なしの元の画像の色)を表示します。なお透明度に関しては影響を受けません。 | (255,255,255) |
 
--   <start_r>,<start_g>,<start_b> は開始時の色の数値
--   <end_r>,<end_g>,<end_b> は終了時の色の数値
+where:
+
+-   (start_r),(start_g),(start_b) は開始時の色の数値
+-   (end_r),(end_g),(end_b) は終了時の色の数値
 
 オブジェクトを黒く、影のように見えるようにし、それをオリジナルの色へ戻す:
 
@@ -230,12 +194,12 @@ where:-
 Parameter (P) パラメータ コマンド
 ---------------------------------
 
-`_P,`<easing>`,`<starttime>`,`<endtime>`,`<parameter>
+`_P,(easing),(starttime),(endtime),(parameter)`
 
-ここでの<parameter>はいずれかのものが当てはまります。
+ここでの(parameter)はいずれかのものが当てはまります。
 
--   "H" - 画像を水平に反転 (オブジェクトを180度回転させた状態と同じ**ではありません**。\[Horizontal Flip\]
--   "V" - 画像を垂直に反転 \[Vertical Flip\]
+-   "H" - 画像を水平に反転 (オブジェクトを180度回転させた状態と同じ**ではありません**。[Horizontal Flip]
+-   "V" - 画像を垂直に反転 [Vertical Flip]
 -   "A" - アルファブレンドの代わりに加法的な色を使用
 
 例えば通常の状態に戻る前に水平方向と垂直方向にそれぞれ2秒間反転させる場合:
@@ -249,6 +213,5 @@ Parameter (P) パラメータ コマンド
 
 単体では動作をしない複合的なコマンドが存在します。代わりに対象ページに書かれている他のイベントが起きる条件が揃えば、セットで書かれているコードが動作するようになります。
 
--   [Loop (L) ループ コマンド](JP:Storyboard_Scripting_Compound_Commands#Loop_(L)_ループ_コマンド "wikilink")
--   [Trigger (T) トリガー コマンド](JP:Storyboard_Scripting_Compound_Commands#Trigger_(T)_トリガー_コマンド "wikilink")
-
+-   [Loop (L) ループ コマンド](JP:Storyboard-Scripting-Compound-Commands#Loop-(L))
+-   [Trigger (T) トリガー コマンド](JP:Storyboard-Scripting-Compound-Commands#Trigger-(T))

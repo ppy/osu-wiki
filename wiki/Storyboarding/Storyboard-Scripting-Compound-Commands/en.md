@@ -10,16 +10,16 @@ Usage
 
 Loops are done on commands within an object, not across several objects. They are treated as a special type of command of the form:
 
-`_L,`<starttime>`,`<loopcount>
-`__`<event>`,`<easing>`,`<relative_starttime>`,`<relative_endtime>`,<params...>`
+`_L,(starttime),(loopcount)`
+`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
 `// More events allowed`
 
 where:
 
--   <starttime> is the timestamp at which the loop begins
--   <loopcount> is the number of times the loop executes before stopping
--   <relative_starttime> is the amount of time **since the start of that iteration** that this event should begin
--   <relative_endtime> is the amount of time **since the start of that iteration** that this event should end
+-   (starttime) is the timestamp at which the loop begins
+-   (loopcount) is the number of times the loop executes before stopping
+-   (relative_starttime) is the amount of time **since the start of that iteration** that this event should begin
+-   (relative_endtime) is the amount of time **since the start of that iteration** that this event should end
 
 Example
 -------
@@ -41,14 +41,14 @@ Usage
 
 Triggers take the form:
 
-`_T,`<triggerType>`,`<starttime>`,`<endtime>
-`__`<event>`,`<easing>`,`<relative_starttime>`,`<relative_endtime>`,<params...>`
+`_T,(triggerType),(starttime),(endtime)`
+`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
 `// More events allowed`
 
 where:
 
--   <triggerType> indicates the trigger condition and can be one of the following:
-    -   HitSound\[SampleSet\]\[AdditionsSampleSet\]\[Addition\]\[CustomSampleSet\], where:
+-   (triggerType) indicates the trigger condition and can be one of the following:
+    -   HitSound[SampleSet] [AdditionsSampleSet] [Addition] [CustomSampleSet], where:
         -   *SampleSet* and *AdditionsSampleSet* are one of All / Normal / Soft / Drum.
         -   *Addition* is one of Whistle / Finish / Clap.
         -   *CustomSampleSet* is the custom sample number, 0 for Default.
@@ -64,11 +64,11 @@ where:
             -   HitSound6 (any hitsound is played with the custom sample set 6)
     -   Passing (transition from fail state to pass state)
     -   Failing (transition from pass state to fail state)
--   <starttime> is the timestamp at which the trigger becomes valid
--   <endtime> is the timestamp at which the trigger stops being valid
--   <relative_starttime> is the amount of time **since the trigger event** that this event should begin
--   <relative_endtime> is the amount of time **since the trigger event** that this event should end
--   <group_number> (optional, default value is 0 for no group) allows triggers on the same sprite to be grouped so that all triggers of the group are stopped when one trigger starts.
+-   (starttime) is the timestamp at which the trigger becomes valid
+-   (endtime) is the timestamp at which the trigger stops being valid
+-   (relative_starttime) is the amount of time **since the trigger event** that this event should begin
+-   (relative_endtime) is the amount of time **since the trigger event** that this event should end
+-   (group_number) (optional, default value is 0 for no group) allows triggers on the same sprite to be grouped so that all triggers of the group are stopped when one trigger starts.
 
 If a trigger condition occurs while another trigger is running, the earlier trigger is stopped, and the new trigger starts. Triggers will not occur until other commands are finished, so it's usually best to either use only triggers on an object declaration or not at all.
 

@@ -1,21 +1,19 @@
 便利なSBライフを満喫するために、[コマンドの](JP:Storyboard_Scripting_Commands "wikilink")*' 3つの短縮化*' がここには記されています。
 
-\_\_TOC\_\_
-
 同じイベント、同じ継続時間、順番
 --------------------------------
 
 もし同じイベントにおいていくつか異なる値がある場合、エフェクトの数字を右に追記していくことによって、同じ時間差においてそのエフェクトを発動させることができます。これはあなたが一番最初に手軽に使えるショートカットです。
 
-`_`<event>`,`<easing>`,`<starttime_of_first>`,`<endtime_of_first>`,`<value(s)_1>`,`<value(s)_2>`,`<value(s)_3>`,`<value(s)_4>
+`_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2),(value(s)_3),(value(s)_4)`
 
 解説をすると以下のようになります:
 
-`_`<event>`,`<easing>`,`<starttime_of_first>`,`<endtime_of_first>`,`<value(s)_1>`,`<value(s)_2>
-`_`<event>`,`<easing>`,(`<starttime_of_first>` + `<duration>`),(`<endtime_of_first>` + duration),`<value(s)_2>`,`<value(s)_3>
-`_`<event>`,`<easing>`,(`<starttime_of_first>` + 2 * `<duration>`),(`<endtime_of_first>` + 2 * duration),`<value(s)_3>`,`<value(s)_4>
+`_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)`
+`_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)`
+`_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)`
 
-ここで言われる<duration>(期間)は(<endtime_of_first> - <starttime_of_first>)をした時の値です。
+ここで言われる(duration)(期間)は((endtime_of_first) - (starttime_of_first))をした時の値です。
 
 例えば以下のコードは不可視のオブジェクトを完全可視化させ、半透明化し、そのあと完全可視化させた後に透明化させるコードです。
 
@@ -39,11 +37,11 @@
 
 これはエフェクトの開始から終了までの値が一定で一切変化しない場合、変化後(終了時)の効果の値が記述されないままであっても開始と同じ値を挿入されていることにする効果です。
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,`<value(s)>
+`_(event),(easing),(starttime),(endtime),(value(s))`
 
 これは以下のように解釈することが可能です:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,`<value(s)>`,`<value(s)>
+`_(event),(easing),(starttime),(endtime),(value(s)),(value(s))`
 
 例えば以下のコードは画像を1000~2000において、半分の横幅と2倍の縦幅に画像を変形させた上でを75%の透明性を維持するものです。
 
@@ -56,11 +54,11 @@
 
 もしコマンドの開始と終了のタイムが同じであった場合、終わりの時間を省略することができます。ですが以下のようにカンマをエフェクトの値の前に入れる必要があります。
 
-`_`<event>`,`<easing>`,`<starttime>`,,<params...>`
+`_(event),(easing),(starttime),,(params...)`
 
 これは以下のように解釈することができます:
 
-`_`<event>`,`<easing>`,`<starttime>`,`<endtime>`,<params...>`
+`_(event),(easing),(starttime),(endtime),(params...)`
 
 例えば以下のコードでは2行目のFade、time 1000で透明度を指定していますが、これは常時発動させる必要性のないエフェクトです。
 
