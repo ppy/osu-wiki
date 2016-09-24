@@ -1,14 +1,11 @@
-  
-***[Quick link back to Announcements Archive.](Announcements_Archive#Tournaments "wikilink")***
-
-Section dedicated for Tournaments and/or Competitons. [Forum link here.](http://osu.ppy.sh/forum/55)
+Section dedicated for Tournaments and/or Competitons. [Forum link here.](//osu.ppy.sh/forum/55)
 
 Official World Cups
 ===================
 
-Official tournaments hosted by the [Tournament Management](http://osu.ppy.sh/g/26).
+Official tournaments hosted by the [Tournament Management](//osu.ppy.sh/g/26).
 
-![](osu.gif "fig:osu.gif") osu! World Cup
+![](../../shared/Osu.gif) osu! World Cup
 -----------------------------------------
 
 osu! World Cup is a country-based 4v4 Team VS tournament following single-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
@@ -19,8 +16,8 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu! World Cup \#2](Osu!_World_Cup/2 "wikilink")      |  28/10/2011 |  24/03/2012 | ![](Kr.gif "fig:Kr.gif") South Korea                    | ![](Jp.gif "fig:Jp.gif") Japan                          | ![](Br.gif "fig:Br.gif") Brazil                         |
 | [osu! World Cup \#3](Osu!_World_Cup/3 "wikilink")      |  25/10/2012 |  20/01/2013 | ![](Kr.gif "fig:Kr.gif") South Korea                    | ![](Jp.gif "fig:Jp.gif") Japan                          | ![](Tw.gif "fig:Tw.gif") Taiwan                         |
 | [osu! World Cup 2013](Osu_World_Cup_2013 "wikilink")   |  15/10/2013 |  08/12/2013 | ![](Kr.gif "fig:Kr.gif") South Korea                    | ![](Tw.gif "fig:Tw.gif") Taiwan                         | ![](Pl.gif "fig:Pl.gif") Poland                         |
-| [osu! World Cup 2014‎](Osu!_World_Cup_2014 "wikilink") |  02/10/2014 |  14/12/2014 | ![](Jp.gif "fig:Jp.gif") Japan                          | ![](Pl.gif "fig:Pl.gif") Poland                         | ![](De.gif "fig:De.gif") Germany                        |
-| [osu! World Cup 2015‎](Osu!_World_Cup_2015 "wikilink") |  01/10/2015 |  13/12/2015 | ![](Us.gif "fig:Us.gif") USA                            | ![](Cn.gif "fig:Cn.gif") China                          | ![](Pl.gif "fig:Pl.gif") Poland                         |
+| [osu! World Cup 2014](Osu!_World_Cup_2014 "wikilink") |  02/10/2014 |  14/12/2014 | ![](Jp.gif "fig:Jp.gif") Japan                          | ![](Pl.gif "fig:Pl.gif") Poland                         | ![](De.gif "fig:De.gif") Germany                        |
+| [osu! World Cup 2015](Osu!_World_Cup_2015 "wikilink") |  01/10/2015 |  13/12/2015 | ![](Us.gif "fig:Us.gif") USA                            | ![](Cn.gif "fig:Cn.gif") China                          | ![](Pl.gif "fig:Pl.gif") Poland                         |
 
 ![](taiko.gif "fig:taiko.gif") Taiko World Cup
 ----------------------------------------------

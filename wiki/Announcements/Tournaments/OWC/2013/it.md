@@ -1,6 +1,6 @@
-![](Owc-2013.png "Owc-2013.png")
+![OWC 2013 logo](logo.png)
 
-L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](http://osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](Kr.gif "fig:Kr.gif") Korea**. AL momento, il torneo è in fase *' Registrazione*'.
+L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](//osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](../../../../shared/Kr.gif) Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =
 
 -   Registrazione: 15-28 Oct 2013
@@ -21,11 +21,15 @@ Premi
 Organizzazione
 ==============
 
-**Gestione torneo:** ![](De.gif "fig:De.gif") [Loctav](http://osu.ppy.sh/u/Loctav), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](De.gif "fig:De.gif") [p3n](http://osu.ppy.sh/u/p3n)
-**Riferimenti:** [Tournament Management usergroup](http://osu.ppy.sh/g/26)
-**Scelta delle beatmap:** ![](Ar.gif "fig:Ar.gif") [Darksonic](http://osu.ppy.sh/u/Darksonic), ![](Ar.gif "fig:Ar.gif") [Wishy](http://osu.ppy.sh/u/Wishy)
-**Diretta trasmessa da:** ![](Ca.gif "fig:Ca.gif") [Nyquill](http://osu.ppy.sh/u/Nyquill), ![](Au.gif "fig:Au.gif") [kingking9](http://osu.ppy.sh/u/kingking9), ![](Us.gif "fig:Us.gif") [Love](http://osu.ppy.sh/u/Love), ![](Ee.gif "fig:Ee.gif") [ShinseinaTenshi](http://osu.ppy.sh/u/ShinseinaTenshi)
-**Commentatori:** ![](Fr.gif "fig:Fr.gif") [Mr Color](http://osu.ppy.sh/u/Mr_Color), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](Us.gif "fig:Us.gif") [Agnes](http://osu.ppy.sh/u/Agnes)
+**Gestione torneo:** ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/Loctav), ![](../../../../shared/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/p3n)
+
+**Riferimenti:** [Tournament Management usergroup](//osu.ppy.sh/g/26)
+
+**Scelta delle beatmap:** ![](../../../../shared/Ar.gif) [Darksonic](//osu.ppy.sh/u/Darksonic), ![](../../../../shared/Ar.gif) [Wishy](//osu.ppy.sh/u/Wishy)
+
+**Diretta trasmessa da:** ![](../../../../shared/Ca.gif) [Nyquill](//osu.ppy.sh/u/Nyquill), ![](../../../../shared/Au.gif) [kingking9](//osu.ppy.sh/u/kingking9), ![](../../../../shared/Us.gif) [Love](//osu.ppy.sh/u/Love), ![](../../../../shared/Ee.gif) [ShinseinaTenshi](//osu.ppy.sh/u/ShinseinaTenshi)
+
+**Commentatori:** ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/Mr_Color), ![](../../../../shared/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](../../../../shared/Us.gif) [Agnes](//osu.ppy.sh/u/Agnes)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +42,7 @@ Mappools
 Links
 =====
 
--   [Discuti qui](http://osu.ppy.sh/forum/t/160181/start=0)
+-   [Discuti qui](//osu.ppy.sh/forum/t/160181/start=0)
 
 ------------------------------------------------------------------------
 
@@ -79,8 +83,8 @@ Registrazione al torneo
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
-    1.  Captains may change their setup by [notifying the management](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](//docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
+    1.  Captains may change their setup by [notifying the management](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5.  The total amount of teams is 32. First come, first serve.

@@ -1,11 +1,11 @@
-<img src="Omw2014.png" title="Omw2014.png" alt="Omw2014.png" width="758" />
+![MWC 2014 logo](logo.png)
 
-The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](http://osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
+The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](//osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
 Calendrier
 ==========
 
-|                         |                    |
+| Event                   | Timestamp          |
 |-------------------------|--------------------|
 | Inscription des équipes | 1-20 Juilletl 2014 |
 | Tirages aux sorts       | 2 Août 2014        |
@@ -19,20 +19,22 @@ Calendrier
 Prix
 ====
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | Statut de supporter pendant 3 mois                                                                                          |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | Statut de supporter pendant 1 mois                                                                                          |
+| Placing                                                    | Prize(s)                                                                                                                    |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
 
 Organisation
 ============
 
-| Direction                 | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif")                                                       |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Séléction des beatmaps    | ![](Ru.gif "fig:Ru.gif") | ![](Cl.gif "fig:Cl.gif")                                                                                  |
-| Retransmission des matchs | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif")                                                       |
-| Commentaires              | ![](Us.gif "fig:Us.gif") | ![](Fr.gif "fig:Fr.gif") | ![](It.gif "fig:It.gif") | ![](Us.gif "fig:Us.gif") | ![](Ru.gif "fig:Ru.gif") |
-| Statistiques              | ![](Pl.gif "fig:Pl.gif")                                                                                                             |
+| Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Direction                 | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)                                                                                                                                                  |
+| Séléction des beatmaps    | ![](../../../../shared/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) // ![](../../../../shared/Cl.gif) [Agka](//osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
+| Retransmission des matchs | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                 |
+| Commentaires              | ![](../../../../shared/Us.gif) [Charles445](//osu.ppy.sh/u/85000) // ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/It.gif) [Roxas](//osu.ppy.sh/u/1041833) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // ![](../../../../shared/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) |
+| Statistiques              | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
