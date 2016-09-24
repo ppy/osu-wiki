@@ -1,4 +1,4 @@
-**Zespół pomocy** (również znani jako **Support Team Redux**, nie mylić z zespołem pomocy ds. kont, którzy również są znani jako Zespół pomocy) są członkami załogi osu!. Zajmują się moderowaniem forum oraz poszczególnych podforów: <span class="plainlinks">[Development](https://osu.ppy.sh/forum/2)</span>, <span class="plainlinks">[Gameplay & Rankings](https://osu.ppy.sh/forum/13)</span> (wyłączając <span class="plainlinks">[Tournaments](https://osu.ppy.sh/forum/55)</span> i <span class="plainlinks">[Mapping Techniques](https://osu.ppy.sh/forum/61)</span>), <span class="plainlinks">[Skinning](https://osu.ppy.sh/forum/15)</span>, <span class="plainlinks">[Feature Requests](https://osu.ppy.sh/forum/4)</span>, a także <span class="plainlinks">[Technical Support](https://osu.ppy.sh/forum/5)</span>.
+**Zespół pomocy** (również znani jako **Support Team Redux**, nie mylić z zespołem pomocy ds. kont, którzy również są znani jako Zespół pomocy) są członkami załogi osu!. Zajmują się moderowaniem forum oraz poszczególnych podforów: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (wyłączając [Tournaments](https://osu.ppy.sh/forum/55) i [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), a także [Technical Support](https://osu.ppy.sh/forum/5).
 
 Zadania
 =======
@@ -6,15 +6,27 @@ Zadania
 Zespół pomocy jest odpowiedzialny za:
 
 1.  Testowanie i/lub potwierdzanie zgłoszeń bugów, aby dać znać twórcom, żeby je naprawili.
-2.  Organizowanie tematów w subforach <span class="plainlinks">[Feature Requests](https://osu.ppy.sh/forum/4)</span> i <span class="plainlinks">[Technical Support](https://osu.ppy.sh/forum/5)</span> i zaznaczanie ich jako Naprawione, Potwierdzone, Nieprawidłowe, Duplikat albo Dodane.
+2.  Organizowanie tematów w subforach [Feature Requests](https://osu.ppy.sh/forum/4) i [Technical Support](https://osu.ppy.sh/forum/5) i zaznaczanie ich jako Naprawione, Potwierdzone, Nieprawidłowe, Duplikat albo Dodane.
 
 Jeżeli potrzebujesz pomocy na tych subforach, napisz do nich.
 
 Członkowie zespołu
 ==================
+*Każdy członek mówi po angielsku, chyba że jest inaczej napisane. [Strona grupowa](https://osu.ppy.sh/g/22).*
 
-<center>
-*Każdy członek mówi po angielsku, chyba że jest inaczej napisane. <span class="plainlinks">[Strona grupowa](https://osu.ppy.sh/g/22)</span>.*
+| Nick | Języki |
+| ---- | --------- |
+| [deadbeat](https://osu.ppy.sh/u/128370) | |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
+| [Ezoda](https://osu.ppy.sh/u/1231180) | Niemiecki |
+| [Marcin](https://osu.ppy.sh/u/722665) | Polski |
+| [MillhioreF](https://osu.ppy.sh/u/941094) | |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipiński |
+| [Saten](https://osu.ppy.sh/u/444506) | Szwedzki, Hiszpański |
+| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
+| [TheVileOne](https://osu.ppy.sh/u/278862) | |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Hiszpański |
+| [Tom94](https://osu.ppy.sh/u/1857058) | Niemiecki |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | Holenderski |
 
-</center>
 <Category:People/PL>
