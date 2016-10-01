@@ -1,4 +1,4 @@
-**Global Moderation Team (Tean di Moderazione Globale)** (precedentemente noti come Amministratori, Global Mod Team o “BAT Verdi”), comunemente chiamati **GMT**, sono membri dello staff di osu! che si interessano principalmente sulla moderazione dei giocatori e problemi relativi allo staff e alla comunità in generale.
+**Global Moderation Team (Team di Moderazione Globale)** (precedentemente noti come Amministratori, Global Mod Team o “BAT Verdi”), comunemente chiamati **GMT**, sono membri dello staff di osu! che si interessano principalmente della moderazione dei giocatori e problemi relativi allo staff e alla comunità in generale.
 
 Struttura
 ---------
