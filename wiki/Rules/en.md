@@ -1,4 +1,6 @@
-This page is your one stop shop for all things illegal within [osu!](osu! "wikilink"). Below is a breakdown of each section to provide more detail as it applies to one particular fact of osu!
+This page is your one stop shop for all things illegal within [osu!](osu! "wikilink").
+
+Below is a breakdown of each section to provide more detail as it applies to one particular fact of osu!
 
 Community Rules
 ---------------
@@ -63,6 +65,13 @@ Client rules
 
 ------------
 Cheaters are permanently banned and restricted upon the first offense and are forced to wait 6 months MINIMUM before they may appeal the ban. Just don't do it. Bans are rarely, if ever, made in error.
-Violating any of these rules results in the offender being hit with either a silence or a restriction. Silenced users cannot chat, post on the forums, update their beatmaps, or play multiplayer games. Restricted users have all the penalties of silenced users, along with being unable to submit scores or play online in any capacity whatsoever. Restriction is SERIOUS, and can only be revoked by a member of the player support staff, accessible via accounts@ppy.sh or the live chat support periodically available on all pages of the website.
+
+Violating any of these rules results in the offender being hit with either a silence or a restriction.
+
+Silenced users cannot chat, post on the forums, update their beatmaps, or play multiplayer games.
+
+Restricted users have all the penalties of silenced users, along with being unable to submit scores or play online in any capacity whatsoever.
+
+Restriction is SERIOUS, and can only be revoked by a member of the player support staff, accessible via accounts@ppy.sh or the live chat support periodically available on all pages of the website.
 
 <Category:Guides>
