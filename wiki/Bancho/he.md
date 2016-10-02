@@ -1,0 +1,2 @@
+-   [Bancho](Gloassary#Bancho "wikilink"): שרת שתוכנת על ידי [peppy](peppy "wikilink") שמנהל את כל החיבורים של שחקני ה[osu!](osu! "wikilink").
+-   [BanchoBot](BanchoBot "wikilink"): 'תושב' רובוט של [קונסולת הצ'אט][Chat_Console "wikilink"] של osu!, הוא עוזר לשחקנים ולחברי הצוות.
