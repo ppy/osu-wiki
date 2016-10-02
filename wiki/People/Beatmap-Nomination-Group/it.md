@@ -3,7 +3,7 @@ Il **Gruppo Beatmap Nomination**, più comunemente riferito come BN, è un grupp
 Regole e Responsabilità
 -----------------------
 
-I membri del **Gruppo Beatmap Nomination** sono primariamente respondabili di gestire la [morerazione](IT:Modding "wikilink") delle [mappe in attesa](IT:Pending_Beatmap "wikilink") nel ciclo del ranking. BN sono le persone da contattare per qualsiasi richiesta di mod o consiglio su qualsiasi cosa riguardo il mapping o relativo al modding.
+I membri del **Gruppo Beatmap Nomination** sono primariamente responsabili di gestire la [morerazione](IT:Modding "wikilink") delle [mappe in attesa](IT:Pending_Beatmap "wikilink") nel ciclo del ranking. BN sono le persone da contattare per qualsiasi richiesta di mod o consiglio su qualsiasi cosa riguardo il mapping o relativo al modding.
 
 Diventare un BN
 ---------------
