@@ -26,4 +26,47 @@
 
 [Всегда актуальная ссылка](http://osu.ppy.sh/g/4) (список). *Помимо указанных языков, все эти люди знают английский.*
 
+| Имя | Дополнительные языки | Специализация |
+| ----- | --------- | ------------- |
+| [deadbeat](https://osu.ppy.sh/u/128370) | | обучение игроков |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | техподдержка |
+| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | испанский | чат |
+| [Flanster](https://osu.ppy.sh/u/447818) | болгарский | организация конкурсов osu!idol, чат |
+| [Galkan](https://osu.ppy.sh/u/169570) | польский | чат |
+| [ghm12](https://osu.ppy.sh/u/2594229) | португальский | чат |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | кантонский, китайский | чат |
+| [juankristal](https://osu.ppy.sh/u/443656) | испанский | чат, организация турниров |
+| [Kobold84](https://osu.ppy.sh/u/3227533) | русский | чат |
+| [KSHR](https://osu.ppy.sh/u/409957) | японский | чат |
+| [Kurai](https://osu.ppy.sh/u/77089) | французский, русский | чат |
+| [Marcin](https://osu.ppy.sh/u/722665) | польский | форум, разработка игры |
+| [MrSergio](https://osu.ppy.sh/u/2581696) | итальянский | чат |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») | форум, чат |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | французский | чат |
+| [Nishiji](https://osu.ppy.sh/u/167629) | турецкий | чат |
+| [Nyquill](https://osu.ppy.sh/u/682935) | китайский | osu!weekly |
+| [OnosakiHito](https://osu.ppy.sh/u/290128) | немецкий | чат |
+| [Pereira006](https://osu.ppy.sh/u/537344) | португальский | чат |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | голландский | чат |
+| [QHideaki13](https://osu.ppy.sh/u/733998) | малайский | чат |
+| [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu!wiki |
+| [Saten](https://osu.ppy.sh/u/444506) | шведский, испанский | чат |
+| [shARPII](https://osu.ppy.sh/u/776257) | французский | чат, организация турниров |
+| [Shiro](https://osu.ppy.sh/u/113005) | французский, испанский | чат |
+| [Shockwave](https://osu.ppy.sh/u/251631) | испанский | чат |
+| [Shurelia](https://osu.ppy.sh/u/3807986) | индонезийский | чат |
+| [Stefan](https://osu.ppy.sh/u/626907) | немецкий | форум, чат |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | корейский | чат |
+| [Tasha](https://osu.ppy.sh/u/1031958) | | обучение игроков |
+| [TheVileOne](https://osu.ppy.sh/u/278862) | | техподдержка |
+| [ToGlette](https://osu.ppy.sh/u/1076236) | корейский, японский | чат |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | испанский | техподдержка |
+| [Ukami](https://osu.ppy.sh/u/820865) | польский | чат |
+| [Uni](https://osu.ppy.sh/u/617106) | голландский | чат |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | | техподдержка |
+| [XavierJones](https://osu.ppy.sh/u/495733) | турецкий | чат |
+| [Yason](https://osu.ppy.sh/u/2574392) | польский | чат |
+| [Zero__wind](https://osu.ppy.sh/u/1822830) | китайский | чат |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | венгерский | чат |
+
 <Category:People/RU>
