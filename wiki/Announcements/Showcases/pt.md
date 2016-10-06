@@ -137,9 +137,9 @@ osu!mirror:<br />
 <td><p><a href="http://osu.ppy.sh/p/bestof2010">Votação 2010</a></p></td>
 <td><p><a href="http://osu.ppy.sh/p/chart?ch=BEST2010">Diagrama 2010</a></p></td>
 <td><p>Mediafire:<br />
-<a href="http://www.mediafire.com/?0hekhu37h5bbeok">Part 1</a> <a href="http://www.mediafire.com/?rfpzf1c1detavfz">Part 2</a><br />
+<a href="http://www.mediafire.com/?0hekhu37h5bbeok">Parte 1</a> <a href="http://www.mediafire.com/?rfpzf1c1detavfz">Parte 2</a><br />
 osu!mirror:<br />
-<a href="http://osu.yas-online.net/tagthis.php?tag=R6">Part 1</a> <a href="http://osu.yas-online.net/tagthis.php?tag=R7">Part 2</a></p></td>
+<a href="http://osu.yas-online.net/tagthis.php?tag=R6">Parte 1</a> <a href="http://osu.yas-online.net/tagthis.php?tag=R7">Parte 2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>#2</p></td>
