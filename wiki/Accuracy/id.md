@@ -55,14 +55,15 @@ Tampilan Hasil
   
 Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu peroleh, dan juga persen akurasi yang sebenarnya. Untuk detail lebih lanjut, lihat [Skor](ID:Score "wikilink").
 
-<File:Accuracy> osu!.jpg|Contoh untuk osu! <File:Accuracy> Taiko.jpg|Contoh untuk Taiko <File:Accuracy> CtB.jpg|Contoh untuk Catch the Beat <File:Accuracy> Mania.jpg|Contoh untuk osu!mania
+<img src="Accuracy_osu!.jpg" title="Contoh untuk osu!" alt="Contoh untuk osu!" width="400" /> <img src="Accuracy_Taiko.jpg" title="Contoh untuk Taiko" alt="Contoh untuk Taiko" width="400" />
+<img src="Accuracy_CtB.jpg" title="Contoh untuk Catch the Beat" alt="Contoh untuk Catch the Beat" width="400" /> <img src="Accuracy_Mania.jpg" title="Contoh untuk osu!mania" alt="Contoh untuk osu!mania" width="400" />
 
 ### Grafik Performa
 
   
 Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informasi tambahan akan muncul jika kamu mengarahkan kursormu ke sana:
 
-<img src="Accuracy TR.jpg" title="Grafik Performa" alt="Grafik Performa" width="500" />
+<img src="Accuracy_TR.jpg" title="Grafik Performa" alt="Grafik Performa" width="500" />
 
 #### Akurasi
 
