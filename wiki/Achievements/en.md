@@ -70,7 +70,7 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 | ![2000 Combo (any song)](osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](all-skill-highranker-4.png "The Highranker Lvl4") |
 
 
-**Star-based** achivements are split into two groups, **Pass** and **S**. The **Pass** achievements can be obtained by passing any map of a certain star difficulty. The **S** achievements will be obtained if you pass the map with a S ranking whilst also having a FC. The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to. The map must be passed without difficulty increasing or difficulty decreasing mods or else it will not count. The map must also be ranked to be able to earn an achievement. Shown below are the **Pass** and **S** medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
+**Star-based** achivements are split into two groups, **Pass** and **S**. The **Pass** achievements can be obtained by passing any map of a certain star difficulty. The **S** achievements will be obtained if you pass the map with a S ranking whilst also having a FC. The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn an achievement. Shown below are the **Pass** and **S** medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
 
 
 | Standard | Taiko | Catch the Beat | Mania |
@@ -122,7 +122,7 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 | ![Just One Second](all-secret-onesecond.png "Just One Second") | ![Afterimage](osu-secret-afterimage.png "Afterimage") |![To The Core](all-secret-tothecore.png "To The Core") |![Prepared](all-secret-prepared.png "Prepared") |
 | ![Eclipse](osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](all-secret-challenge.png "Up For The Challenge") | ![Lights Out](all-secret-lightsout.png "Lights Out") |![Unstoppable](osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](osu-secret-supersuperhardhddt.png "Is This Real Life?") |
-| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") | |
+| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
 
 External Link
