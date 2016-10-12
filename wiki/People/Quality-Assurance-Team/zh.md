@@ -7,21 +7,21 @@
 
 | 名字 | Standard | Taiko | CtB | Mania | 语言 |
 | ----- | -------- | ----- | --- | ----- | -------------------- |
-| [alacat](https://osu.ppy.sh/u/869782) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 日语, 少许 法语 |
-| [Blocko](https://osu.ppy.sh/u/4075092) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | |
-| [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [Deif](https://osu.ppy.sh/u/318565) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 西班牙语, 德语 |
-| [Desperate-kun](https://osu.ppy.sh/u/2202645) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Feerum](https://osu.ppy.sh/u/4815717) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") |  ![Yes](Insane-m.png "Yes") | 德语 |
-| [Fycho](https://osu.ppy.sh/u/1876867) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文, 广东话 |
-| [Irreversible](https://osu.ppy.sh/u/1287964) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语, 瑞士语, 少许 法语 |
-| [JBHyperion](https://osu.ppy.sh/u/4879508) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | |
-| [Kurokami](https://osu.ppy.sh/u/260933) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 匈牙利语 |
-| [Mao](https://osu.ppy.sh/u/2204515) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [MMzz](https://osu.ppy.sh/u/128993) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [Okorin](https://osu.ppy.sh/u/1623405) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Tari](https://osu.ppy.sh/u/1779172) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
+| [alacat](https://osu.ppy.sh/u/869782) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 日语, 少许 法语 |
+| [Blocko](https://osu.ppy.sh/u/4075092) | ![No](../../../../shared/Na-s.png "No") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![Yes](../../../../shared/Insane-m.png "Yes") | |
+| [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](../../../../shared/Na-s.png "No") | ![Yes](../../../../shared/Insane-t.png "Yes") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 西班牙语 |
+| [Deif](https://osu.ppy.sh/u/318565) | ![No](../../../../shared/Na-s.png "No") | ![No](../../../../shared/Na-t.png "No") | ![Yes](../../../../shared/Insane-f.png "Yes") | ![No](../../../../shared/Na-m.png "No") | 西班牙语, 德语 |
+| [Desperate-kun](https://osu.ppy.sh/u/2202645) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 德语 |
+| [Feerum](https://osu.ppy.sh/u/4815717) | ![No](../../../../shared/Na-s.png "No") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") |  ![Yes](../../../../shared/Insane-m.png "Yes") | 德语 |
+| [Fycho](https://osu.ppy.sh/u/1876867) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 中文 |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 中文, 广东话 |
+| [Irreversible](https://osu.ppy.sh/u/1287964) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 德语, 瑞士语, 少许 法语 |
+| [JBHyperion](https://osu.ppy.sh/u/4879508) | ![No](../../../../shared/Na-s.png "No") | ![No](../../../../shared/Na-t.png "No") | ![Yes](../../../../shared/Insane-f.png "Yes") | ![No](../../../../shared/Na-m.png "No") | |
+| [Kurokami](https://osu.ppy.sh/u/260933) | ![No](../../../../shared/Na-s.png "No") | ![No](../../../../shared/Na-t.png "No") | ![Yes](../../../../shared/Insane-f.png "Yes") | ![No](../../../../shared/Na-m.png "No") | 匈牙利语 |
+| [Mao](https://osu.ppy.sh/u/2204515) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 德语 |
+| [MMzz](https://osu.ppy.sh/u/128993) | ![No](../../../../shared/Na-s.png "No") | ![Yes](../../../../shared/Insane-t.png "Yes") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | |
+| [Okorin](https://osu.ppy.sh/u/1623405) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | 德语 |
+| [Tari](https://osu.ppy.sh/u/1779172) | ![Yes](../../../../shared/Insane-s.png "Yes") | ![No](../../../../shared/Na-t.png "No") | ![No](../../../../shared/Na-f.png "No") | ![No](../../../../shared/Na-m.png "No") | |
 
 小提示：所有 QAT 都能够熟练的使用英文进行交流，特别说明的除外。 [当前在任的 QAT 成员可以在这里看到](http://osu.ppy.sh/g/7)
 
