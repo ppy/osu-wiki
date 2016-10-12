@@ -64,7 +64,7 @@ Spoiling the method on how to unlock these specific achievements *will result in
 | ![Just One Second](all-secret-onesecond.png "Just One Second") | ![Afterimage](osu-secret-afterimage.png "Afterimage") |![To The Core](all-secret-tothecore.png "To The Core") |![Prepared](all-secret-prepared.png "Prepared") |
 | ![Eclipse](osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](all-secret-challenge.png "Up For The Challenge") | ![Lights Out](all-secret-lightsout.png "Lights Out") |![Unstoppable](osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](osu-secret-supersuperhardhddt.png "Is This Real Life?") |
-| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") | |
+| ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
 External Link
 =============
