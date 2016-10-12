@@ -57,15 +57,15 @@ Results screen
 ### Ranking
 
   This shows your grade, an overview of your hits, as well as your actual accuracy percentage. For more details, see [Score](Score "wikilink").
-
-<img src="Accuracy_osu!.jpg" title="osu! Ranking Panel" alt="osu! Ranking Panel" width="400" /> <img src="Accuracy_Taiko.jpg" title="osu!Taiko Ranking Panel" alt="osu!Taiko Ranking Panel" width="400" />
-<img src="Accuracy_CtB.jpg" title="osu!CtB Ranking Panel" alt="osu!CtB Ranking Panel" width="400" /> <img src="Accuracy_Mania.jpg" title="osu!Mania Ranking Panel" alt="osu!Mania Ranking Panel" width="400" />
+  
+![osu! Ranking Panel](Accuracy_osu!.jpg | width=400 "osu! Ranking Panel")![osu! Ranking Panel](Accuracy_Taiko.jpg | width=400 "osu!Taiko Ranking Panel")
+![osu! Ranking Panel](Accuracy_CtB.jpg | width=400 "osu!CtB Ranking Panel")![osu! Ranking Panel](Accuracy_Mania.jpg | width=400 "osu!Mania Ranking Panel")
 
 ### Performance Graph
 
   This shows a graph of your performance over the course of a play. Additional information is shown when you hover the cursor over it:
 
-<img src="Accuracy_TR.jpg" title="Performance Graph" alt="Performance Graph" width="500" />
+![Performance Graph](Accuracy_TR.jpg "Performance Graph")
 
 #### Accuracy
 | Term | Meaning |
