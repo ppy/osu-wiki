@@ -58,8 +58,8 @@ Results screen
 
   This shows your grade, an overview of your hits, as well as your actual accuracy percentage. For more details, see [Score](Score "wikilink").
   
-![osu! Ranking Panel](Accuracy_osu!.jpg | width=400 "osu! Ranking Panel")![osu! Ranking Panel](Accuracy_Taiko.jpg | width=400 "osu!Taiko Ranking Panel")
-![osu! Ranking Panel](Accuracy_CtB.jpg | width=400 "osu!CtB Ranking Panel")![osu! Ranking Panel](Accuracy_Mania.jpg | width=400 "osu!Mania Ranking Panel")
+![osu! Ranking Panel](Accuracy_osu!.jpg "osu! Ranking Panel")![osu! Ranking Panel](Accuracy_Taiko.jpg "osu!Taiko Ranking Panel")
+![osu! Ranking Panel](Accuracy_CtB.jpg "osu!CtB Ranking Panel")![osu! Ranking Panel](Accuracy_Mania.jpg "osu!Mania Ranking Panel")
 
 ### Performance Graph
 
