@@ -54,8 +54,8 @@ Tela de Resultados
 
   Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](PT:Score "wikilink").
 
-![Modo osu!](Accuracy_osu!.jpg_Small "Modo osu!") ![Modo Taiko](Accuracy_Taiko.jpg_Small "Modo Taiko")
-![Modo Catch the Beat](Accuracy_CtB.jpg_Small "Modo Catch the Beat") ![Modo osu!mania](Accuracy_Mania.jpg_Small "Modo osu!mania")
+![Modo osu!](Accuracy_osu!_Small.jpg "Modo osu!") ![Modo Taiko](Accuracy_Taiko_Small.jpg "Modo Taiko")
+![Modo Catch the Beat](Accuracy_CtB_Small.jpg "Modo Catch the Beat") ![Modo osu!mania](Accuracy_Mania_Small.jpg "Modo osu!mania")
 
 ### Gráfico de Performance
 

@@ -54,8 +54,8 @@ Tampilan Hasil
 
 Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu peroleh, dan juga persen akurasi yang sebenarnya. Untuk detail lebih lanjut, lihat [Skor](ID:Score "wikilink").
 
-![Contoh untuk osu!](Accuracy_osu!.jpg_Small "Contoh untuk osu!")![Contoh untuk Taiko](Accuracy_Taiko.jpg_Small "Contoh untuk Taiko")
-![Contoh untuk Catch the Beat](Accuracy_CtB.jpg_Small "Contoh untuk Catch the Beat")![Contoh untuk osu!mania](Accuracy_Mania.jpg_Small "Contoh untuk osu!mania")
+![Contoh untuk osu!](Accuracy_osu!_Small.jpg "Contoh untuk osu!")![Contoh untuk Taiko](Accuracy_Taiko_Small.jpg "Contoh untuk Taiko")
+![Contoh untuk Catch the Beat](Accuracy_CtB_Small.jpg "Contoh untuk Catch the Beat")![Contoh untuk osu!mania](Accuracy_Mania_Small.jpg "Contoh untuk osu!mania")
 
 ### Grafik Performa
 
