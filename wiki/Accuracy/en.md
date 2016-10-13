@@ -60,11 +60,11 @@ Results screen
   
 ![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
-[osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of Standard Ranking Panel") [osu!Taiko Ranking Panel](Accuracy_Taiko.jpg "Larger version of Standard Ranking Panel")
+[osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")      [osu!Taiko Ranking Panel](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
 
 ![osu!CtB Ranking Panel](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania Ranking Panel](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
 
-[osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard Ranking Panel") [osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of Standard Ranking Panel")
+[osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")      [osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
 
 ### Performance Graph
