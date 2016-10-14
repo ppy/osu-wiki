@@ -3,7 +3,9 @@ Grupa **Nominatorów Beatmap**, bardziej znani jako BN, jest grupą, która zajm
 Role i zadania
 --------------
 
-![Odznaka Nominatora](nominator.png "fig:Odznaka Nominatora") Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding "wikilink") [oczekujących map](Pending_Beatmap "wikilink"). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+![Odznaka Nominatora](nominator.png "Odznaka Nominatora") 
+
+Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding "wikilink") [oczekujących map](Pending_Beatmap "wikilink"). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
 
 Stawanie się BN
 ---------------

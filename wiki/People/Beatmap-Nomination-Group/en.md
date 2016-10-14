@@ -3,7 +3,9 @@ The **Beatmap Nomination Group**, more commonly referred to as BN, is a group in
 Roles and Responsibilities
 --------------------------
 
-![The Nominator Badge](nominator.png "fig:The Nominator Badge") Members of the **Beatmap Nomination Group** are responsible primarily for [modding](Modding "wikilink") the [pending beatmaps](Pending_Beatmap "wikilink") into the ranking cycle. BN are the people to go to for any modding or advice requests about anything mapping or modding related.
+![The Nominator Badge](Nominator.png "fig:The Nominator Badge") 
+
+Members of the **Beatmap Nomination Group** are responsible primarily for [modding](Modding "wikilink") the [pending beatmaps](Pending_Beatmap "wikilink") into the ranking cycle. BN are the people to go to for any modding or advice requests about anything mapping or modding related.
 
 Becoming a BN
 -------------

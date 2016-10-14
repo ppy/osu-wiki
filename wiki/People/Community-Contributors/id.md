@@ -1,4 +1,6 @@
-![Contributor Badge](Contributor Badge.png "Contributor Badge") Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](ID:osu!) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
+![Contributor Badge](Contributor_Badge.png "Contributor Badge") 
+
+Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](ID:osu!) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
 
 Berbeda dari [osu! Alumni](ID:osu!_Alumni) yang merupakan anggota osu!tim ([GMT](ID:GMT), [QAT](ID:QAT), dan lainnya) sebelumnya yang telah mengundurkan diri, lencana para Kontributor Komunitas tersebut diberikan kepada pekerja lepas publik yang telah bekerja diatas segala panggilan pekerjaan apapun untuk mengembangkan osu! dan lingkup komunitas.
 

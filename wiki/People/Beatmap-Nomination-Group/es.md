@@ -1,9 +1,11 @@
-El **Beatmap Nomination Group**, mas comúnmente referido como BN, es un grupo a cargo de [nominar beatmaps](ES:Ranked_Beatmap "wikilink"). Este grupo ha sufrido muchos cambios, Especialmente el 22/Agosto/2014, el cual declararon que ya no formarían parte del staff, revocandoles sus atributos de moderadores de chat, sus nombres en Rojo tanto en el juego como en el foro. El mas reciente cambio ocurrió el 1/Febrero/2015 cuando el nombre del equipo fue cambiado de Beatmap Appreciation Team (BAT) -&gt; Equipo de Apreciación de Beatmaps, a Beatmap Nominator Group (BNG) -&gt; Grupo Nominador de Beatmaps. y perdieron el color Rojo de su nickname del foro.
+El **Beatmap Nomination Group**, mas comúnmente referido como BN, es un grupo a cargo de [nominar beatmaps](ES:Ranked_Beatmap "wikilink"). Este grupo ha sufrido muchos cambios, Especialmente el 22/Agosto/2014, el cual declararon que ya no formarían parte del staff, revocandoles sus atributos de moderadores de chat, sus nombres en Rojo tanto en el juego como en el foro. El mas reciente cambio ocurrió el 1/Febrero/2015 cuando el nombre del equipo fue cambiado de Beatmap Appreciation Team (BAT) -> Equipo de Apreciación de Beatmaps, a Beatmap Nominator Group (BNG) -> Grupo Nominador de Beatmaps. y perdieron el color Rojo de su nickname del foro.
 
 Roles y Responsabilidades
 -------------------------
 
-![La insignia de "Nominator"](nominator.png "fig:La insignia de "Nominator"") Los miembros del **Beatmap Nomination Group** son principalmente responsabes de [modear](ES:Modding "wikilink") los [beatmaps pendientes](ES:Pending_Beatmap "wikilink") en el ciclo de Ranking, los BN son personas que modean o toman pedidos sea para asesorar a los usuarios en el Mapeo o Modeo.
+![La insignia de "Nominator"](Nominator.png "fig:La insignia de "Nominator"") 
+
+Los miembros del **Beatmap Nomination Group** son principalmente responsabes de [modear](ES:Modding "wikilink") los [beatmaps pendientes](ES:Pending_Beatmap "wikilink") en el ciclo de Ranking, los BN son personas que modean o toman pedidos sea para asesorar a los usuarios en el Mapeo o Modeo.
 
 Ser parte de BN
 ---------------

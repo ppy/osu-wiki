@@ -1,4 +1,6 @@
-![Znak Zasłużonego](Contributor Badge.png "Znak Zasłużonego") **Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](osu!) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
+![Znak Zasłużonego](Contributor_Badge.png "Znak Zasłużonego") 
+
+**Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](osu!) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
 
 Nie należy ich mylić z [osu! Alumni](osu!_Alumni) którzy są dawnymi członkami osu!team ([GMT](GMT), [QAT](QAT), itp), którzy odeszli. Znak Zasłużonego jest przyznawany wolnym strzelcom, którzy musieli wznieść się ponad wezwanie do obowiązku, aby ulepszyć osu! i środowisko społeczności.
 
