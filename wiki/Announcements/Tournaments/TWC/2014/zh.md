@@ -1,44 +1,46 @@
-![](Twc-2014.png "fig:Twc-2014.png")
+![TWC 2014 logo](logo.png)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](http://osu.ppy.sh/g/26) 举办的[太鼓模式](https://osu.ppy.sh/wiki/ZH:Taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](Tw.gif "fig:Tw.gif") 台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](//osu.ppy.sh/g/26) 举办的[太鼓模式](../../../../Game-Modes/Taiko/zh.md)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](../../../../shared/Tw.gif) 台湾**。
 
 比赛流程
 ========
 
-|                                 |                                                 |
-|---------------------------------|-------------------------------------------------|
-| 注册阶段                        | 2014年 1月 15日 至 26日                         |
+| Event             | Timestamp                               |
+|-------------------|-----------------------------------------|
+| 注册阶段              | 2014年 1月 15日 至 26日                      |
 | 现场抽签 (决定小组赛的队伍排位) | 2014年 2月 1日 13.00 (UTC+0) (即中国时间 21.00) |
-| 小组赛                          | 2014年 2月 7日 至 9日                           |
-| 16 强赛                         | 2014年 2月 15日 至 16日                         |
-| 8 强赛                          | 2014年 2月 22日 至 23日                         |
-| 准决赛                          | 2014年 3月 1日 至 2日                           |
-| 决赛 / 季军赛                   | 2014年 3月 8日 至 9日                           |
+| 小组赛               | 2014年 2月 7日 至 9日                        |
+| 16 强赛             | 2014年 2月 15日 至 16日                      |
+| 8 强赛              | 2014年 2月 22日 至 23日                      |
+| 准决赛               | 2014年 3月 1日 至 2日                        |
+| 决赛 / 季军赛          | 2014年 3月 8日 至 9日                        |
 
 奖品
 ====
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
-|-------------------------------------------------------------------------|-----------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 3 个月 supporter 标签                         |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 1 个月 supporter 标签                         |
+| Placing                                                    | Country                         |
+|------------------------------------------------------------|---------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 3 个月 supporter 标签               |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
 
 主办方
 ======
 
-| 赛事管理     | ![](De.gif "fig:De.gif") [Loctav](https://osu.ppy.sh/u/71366) | ![](De.gif "fig:De.gif") [p3n](https://osu.ppy.sh/u/123703) |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 比赛地图选择 | ![](De.gif "fig:De.gif") [OnosakiHito](https://osu.ppy.sh/u/290128)                                                         |
-| 比赛直播旁述 | ![](Fr.gif "fig:Fr.gif") [Mr Color](https://osu.ppy.sh/u/116078)                                                            |
-| 赛果统计     | ![](Pl.gif "fig:Pl.gif") [Marcin](https://osu.ppy.sh/u/722665)                                                              |
+| Job    | Person(s)                                                                                                                                                                                                                                                                                     |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 赛事管理   | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                                  |
+| 比赛地图选择 | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
+| 比赛直播旁述 | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128) // ![](../../../../shared/Us.gif) ztrot // ![](../../../../shared/No.gif) Dolphin |
+| 赛果统计   | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 相关鏈接
 ========
 
--   [讨论串](http://osu.ppy.sh/forum/t/179127)
--   [直播 (Twitch)](http://www.twitch.tv/osulive/)
+-   [讨论串](//osu.ppy.sh/forum/t/179127)
+-   [直播 (Twitch)](//www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -79,8 +81,8 @@
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](//docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
+    -   Captains may change their setup by [notifying the management](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
     -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 
 4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

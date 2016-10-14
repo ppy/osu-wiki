@@ -1,11 +1,11 @@
-<img src="Twc2015 logo.png" title="Twc2015 logo.png" alt="Twc2015 logo.png" width="540" />
+![TWC 2015 logo](logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015*** ) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](http://osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](Jp.gif "fig:Jp.gif") Japan**.
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](../../../../shared/Jp.gif) Japan**.
 
 Turnierzeitplan
 ===============
 
-|                     |                             |
+| Event               | Timestamp                   |
 |---------------------|-----------------------------|
 | Registrierungsphase | 12.-25. Jan. 2015           |
 | Live-Ziehungen      | 07. Feb. 2015 14:00 (UTC+0) |
@@ -19,28 +19,30 @@ Turnierzeitplan
 Preise
 ======
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 3 Monate Supporter Tag, Profilabzeichen                                                |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 1 Monat Supporter Tag, Profilabzeichen                                                 |
+| Placing                                                    | Prize(s)                                                                               |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen                                                |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen                                                 |
 
 Organisation
 ============
 
-| Turnier Management | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") |
-|--------------------|--------------------------------------------------------------------------------|
-| Map Wähler         | ![](De.gif "fig:De.gif")                                                       |
-| Streamer           | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif") |
-| Kommentatoren      | ![](Fr.gif "fig:Fr.gif") | ![](Us.gif "fig:Us.gif")                            |
-| Statistiker        | ![](Pl.gif "fig:Pl.gif")                                                       |
+| Job                | Person(s)                                                                                                                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Turnier Management | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Map Wähler         | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamer           | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Kommentatoren      | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Statistiker        | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
 =====
 
--   [Diskussionsthread](https://osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 auf Twitch](http://www.twitch.tv/osulive/)
+-   [Diskussionsthread](//osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +79,7 @@ Turnierregistrierung
     2.  Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
     3.  Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
 
-2.  Um sich anzumelden, [senden Sie eine PM an Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
+2.  Um sich anzumelden, [senden Sie eine PM an Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
     1.  Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
     2.  Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
 
@@ -111,7 +113,7 @@ Etappenanweisungen
     1.  Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](http://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe           | Match ID                |
 |------------------|-------------------------|
