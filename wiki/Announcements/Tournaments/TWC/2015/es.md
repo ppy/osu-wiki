@@ -1,13 +1,13 @@
-<img src="Twc2015 logo.png" title="Twc2015 logo.png" alt="Twc2015 logo.png" width="540" />
+![TWC 2015 logo](logo.png)
 
-El **osu! Taiko World Cup 2015** (***TWC 2015*** ) es un torneo mundial organizado por los **Administradores del Torneo** ( [Tournament Management](http://osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
+El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](//osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
-El país campeón del torneo anterior es **![](Jp.gif "fig:Jp.gif") Japón**.
+El país campeón del torneo anterior es **![](../../../../shared/Jp.gif) Japón**.
 
 Agenda del Torneo
 =================
 
-|                                      |                          |
+| Event                                | Timestamp                |
 |--------------------------------------|--------------------------|
 | Fase de Registro                     | 12 de Enero - 22 Febrero |
 | Duelos en vivo                       | 28 Febrero 14:00 (UTC+0) |
@@ -21,28 +21,30 @@ Agenda del Torneo
 Premios
 =======
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
+| Placing                                                    | Prizes                                                                                                                                                      |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
 Organización
 ============
 
-| Administradores del Torneo | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") |
-|----------------------------|--------------------------------------------------------------------------------|
-| Seleccionador de Beatmaps  | ![](De.gif "fig:De.gif")                                                       |
-| Conductores (Video Stream) | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif") |
-| Comentaristas              | ![](Fr.gif "fig:Fr.gif") | ![](Us.gif "fig:Us.gif")                            |
-| Estadistico                | ![](Pl.gif "fig:Pl.gif")                                                       |
+| Job                        | Person                                                                                                                                                                                        |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Administradores del Torneo | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Seleccionador de Beatmaps  | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Conductores (Video Stream) | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Comentaristas              | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Estadistico                | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
 =====
 
--   [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 en Twitch](http://www.twitch.tv/osulive/)
+-   [Tema de Discusion (Solo en inglés)](//osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 en Twitch](//www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +81,7 @@ Registro en el Torneo
     2.  Los **Adminstradores del Torneo** podrán enfocar los equipos dependiendo de los registros obtenidos y uno podrá ser asignado como Capitán, Aunque temporalmente.
     3.  Los equipos enfocados podrán decidir quien entre ellos puede ser capitán despues.
 
-2.  Para registrarte tienes que mandar un [Mensaje Privado a Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) con el asunto **TWC Registration**.
+2.  Para registrarte tienes que mandar un [Mensaje Privado a Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) con el asunto **TWC Registration**.
     1.  No olvides agregar el Horario de Zona de tu país en el Mensaje Privado (Formato GMT -00:00) - (Mexico = GMT -06:00).
     2.  Recibirás un correo de confirmacion cuando tu registro ha sido exitoso, Tu registro estará pendiente entonces.
 
@@ -113,7 +115,7 @@ Instrucciones de Fases
     1.  Esto podrá ser cambiado dependiendo del total de equipos
 
 5.  Las fases siguiente serán de Doble Eliminacion, Esto significa que los ganadores automaticamente irán a la siguiente fase y los que pierden serán movido a la zona de perdedores.
-6.  Basado en [este grafico](http://puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
+6.  Basado en [este grafico](//puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
 
 | Stage              | Partida (Identificador) |
 |--------------------|-------------------------|

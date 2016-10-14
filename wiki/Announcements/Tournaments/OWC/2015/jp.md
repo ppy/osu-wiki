@@ -1,54 +1,51 @@
-<img src="Osu!-world-cup-banner.jpg" title="Osu!-world-cup-banner.jpg" alt="Osu!-world-cup-banner.jpg" width="840" />
+![OWC 2015 logo](logo.jpg)
 
-<br\>
-
-今年6度目を迎える **osu! World Cup 2015** (***OWC 2015*** ) は、[Tournament Management](http://osu.ppy.sh/g/26)が開催する国別対抗トーナメントです。
-
-\_\_TOC\_\_
+今年6度目を迎える **osu! World Cup 2015** (***OWC 2015*** ) は、[Tournament Management](//osu.ppy.sh/g/26)が開催する国別対抗トーナメントです。
 
 トーナメント日程
 ================
 
-|                  |                              |
-|------------------|------------------------------|
-| 登録期間         | 2015年10月1日〜18日          |
+| Event       | Timestamp               |
+|-------------|-------------------------|
+| 登録期間        | 2015年10月1日〜18日          |
 | チーム選定       | 2015年11月1日14：00　(UTC+0) |
-| グループステージ | 2015年11月7日〜8日           |
+| グループステージ    | 2015年11月7日〜8日           |
 | ベスト16決定     | 2015年11月14日〜15日         |
-| 準々決勝         | 2015年11月21日〜22日         |
-| 準決勝           | 2015年11月28日〜29日         |
-| 決勝- Week 1     | 2015年12月5日〜6日           |
-| 決勝 - Week 2    | 2015年12月12日〜13日         |
-||
+| 準々決勝        | 2015年11月21日〜22日         |
+| 準決勝         | 2015年11月28日〜29日         |
+| 決勝- Week 1  | 2015年12月5日〜6日           |
+| 決勝 - Week 2 | 2015年12月12日〜13日         |
 
 賞品
 ====
 
 賞金は最低でも5,000ドルを見込んでいます。出資をお考えの方へ、参加方法は追ってお知らせします！
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 1位:　総額の50%とosu! Championのタイトル |
-|-------------------------------------------------------------------------|------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 2位：総額の38%とプロフィールバッジ       |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 3位：総額の12%とプロフィールバッジ       |
+| Placing                                                    | Prizes                        |
+|------------------------------------------------------------|-------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 1位:　総額の50%とosu! Championのタイトル |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 2位：総額の38%とプロフィールバッジ           |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 3位：総額の12%とプロフィールバッジ           |
 
 主催者構成
 ==========
 
-| 大会運営者 | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") | ![](Fr.gif "fig:Fr.gif") |
-|------------|-----------------------------------------------------------------------------------------------------------|
-| 譜面選択者 | ![](Fr.gif "fig:Fr.gif") | ![](Hk.gif "fig:Hk.gif") | ![](Kr.gif "fig:Kr.gif")                            |
-| 配信者     | ![](De.gif "fig:De.gif") | ![](Pl.gif "fig:Pl.gif")                                                       |
-| 実況者     | ![](Nz.gif "fig:Nz.gif") | ![](Ca.gif "fig:Ca.gif") | ![](Us.gif "fig:Us.gif")                            |
-| 統計者     | ![](Pl.gif "fig:Pl.gif")                                                                                  |
+| Job   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 大会運営者 | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| 譜面選択者 | ![](../../../../shared/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](../../../../shared/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](../../../../shared/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| 配信者   | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 実況者   | ![](../../../../shared/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](../../../../shared/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](../../../../shared/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](../../../../shared/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](../../../../shared/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](../../../../shared/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](../../../../shared/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
+| 統計者   | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 リンク
 ======
 
--   [osu! World Cup 2015 on Twitch](http://www.twitch.tv/osulive/)
--   [Discussion Thread](https://osu.ppy.sh/forum/p/4550383)
--   [Registration page](https://jizz.ppy.sh/tournaments/2)
+-   [osu! World Cup 2015 on Twitch](//www.twitch.tv/osulive/)
+-   [Discussion Thread](//osu.ppy.sh/forum/p/4550383)
+-   [Registration page](//jizz.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -57,43 +54,16 @@
 
 **参加チームはほぼ決定しました。未定のチームもほとんど確認がとれています。ただし、その通りに行くとは限りません。もしある国がチームを作れなかったり、棄権した場合、その枠には別の国が割り当てられます。**
 
-| 決定チーム                                                                                        |
-|---------------------------------------------------------------------------------------------------|
-| ![](Ar.gif "Ar.gif")                                                                              |
-| ![](Au.gif "Au.gif")                                                                              |
-| ![](Br.gif "Br.gif")                                                                              |
-| ![](Ca.gif "Ca.gif")                                                                              |
-| ![](Cn.gif "Cn.gif")                                                                              |
-| ![](Fi.gif "Fi.gif")                                                                              |
-| ![](Fr.gif "Fr.gif")                                                                              |
-| ![](De.gif "De.gif")                                                                              |
-| ![](Gr.gif "Gr.gif")                                                                              |
-| ![](Hk.gif "Hk.gif")                                                                              |
-| ![](Jp.gif "Jp.gif")                                                                              |
-| ![](Lv.gif "Lv.gif")                                                                              |
-| ![](Lt.gif "Lt.gif")                                                                              |
-| ![](My.gif "My.gif")                                                                              |
-| ![](Nl.gif "Nl.gif")                                                                              |
-| ![](Nz.gif "Nz.gif")                                                                              |
-| ![](No.gif "No.gif")                                                                              |
-| ![](Pl.gif "Pl.gif")                                                                              |
-| ![](Pt.gif "Pt.gif")                                                                              |
-| ![](Ru.gif "Ru.gif")                                                                              |
-| ![](Sg.gif "Sg.gif")                                                                              |
-| ![](Se.gif "Se.gif")                                                                              |
-| ![](Kr.gif "Kr.gif")                                                                              |
-| ![](Tw.gif "Tw.gif")                                                                              |
-| ![](Th.gif "Th.gif")                                                                              |
-| ![](Ua.gif "Ua.gif")                                                                              |
-| ![](Gb.gif "Gb.gif")                                                                              |
-| ![](Us.gif "Us.gif")                                                                              |
-| 未定チーム                                                                                        |
-| text-align="center" colspan="3"| 記載されているキャプテンは、大会運営者が一時的に選出しています。 |
-| ![](At.gif "At.gif")                                                                              |
-| ![](It.gif "It.gif")                                                                              |
-| ![](Mx.gif "Mx.gif")                                                                              |
-| ![](Ph.gif "Ph.gif")                                                                              |
-||
+| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+|---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
+| ![](../../../../shared/Cn.gif) China              | ![](../../../../shared/Au.gif) Australia      | ![](../../../../shared/Ar.gif) Argentina | ![](../../../../shared/Gr.gif) Greece      |
+| ![](../../../../shared/Fr.gif) France             | ![](../../../../shared/At.gif) Austria        | ![](../../../../shared/Jp.gif) Japan     | ![](../../../../shared/It.gif) Italy       |
+| ![](../../../../shared/De.gif) Germany            | ![](../../../../shared/Br.gif) Brazil         | ![](../../../../shared/Lv.gif) Latvia    | ![](../../../../shared/Mx.gif) Mexico      |
+| ![](../../../../shared/Pl.gif) Poland             | ![](../../../../shared/Ca.gif) Canada         | ![](../../../../shared/Lt.gif) Lithuania | ![](../../../../shared/Nz.gif) New Zealand |
+| ![](../../../../shared/Ru.gif) Russian Federation | ![](../../../../shared/Fi.gif) Finland        | ![](../../../../shared/My.gif) Malaysia  | ![](../../../../shared/Ph.gif) Philippines |
+| ![](../../../../shared/Kr.gif) South Korea        | ![](../../../../shared/Hk.gif) Hong Kong      | ![](../../../../shared/No.gif) Norway    | ![](../../../../shared/Pt.gif) Portugal    |
+| ![](../../../../shared/Tw.gif) Taiwan             | ![](../../../../shared/Nl.gif) Netherlands    | ![](../../../../shared/Se.gif) Sweden    | ![](../../../../shared/Sg.gif) Singapore   |
+| ![](../../../../shared/Us.gif) United States      | ![](../../../../shared/Gb.gif) United Kingdom | ![](../../../../shared/Th.gif) Thailand  | ![](../../../../shared/Ua.gif) Ukraine     |
 
 ------------------------------------------------------------------------
 
@@ -171,7 +141,7 @@
 
 4.  　各グループのトップ2チームはダブルエリミネーション・ステージに進出します。
 5.  ダブルエリミネーション・ステージでは、勝者は次のステージに、敗者は敗者枠に移動されます。
-6.  [この図](http://puu.sh/bUq5V/f1066103b0.png)に従い、ステージは下記のように分けられます。
+6.  [この図](//puu.sh/bUq5V/f1066103b0.png)に従い、ステージは下記のように分けられます。
 
 | Stage         | Match ID                |
 |---------------|-------------------------|
