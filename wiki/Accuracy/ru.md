@@ -75,14 +75,15 @@ Catch the Beat
   
 Оценка за прохождение, число ударов каждого типа и процент точности. Подробности можно узнать в [этой статье](RU:Score "wikilink").
 
-<File:Accuracy> osu!.jpg|Пример для стандарта <File:Accuracy> Taiko.jpg|Пример для тайко <File:Accuracy> CtB.jpg|Пример для Catch the Beat <File:Accuracy> Mania.jpg|Пример для osu!mania
+![Пример для стандарта](Accuracy_osu!_Small.jpg "Пример для стандарта") ![Пример для тайко](Accuracy_Taiko_Small.jpg "Пример для тайко")
+![Пример для Catch the Beat](Accuracy_CtB_Small.jpg "osu!Пример для Catch the Beat") ![Пример для osu!Mania](Accuracy_Mania_Small.jpg "Пример для osu!Mania")
 
 ### График производительности
 
   
 График Вашей игровой производительности на протяжении игры. Для дополнительной информации наведите на него курсор:
 
-<img src="Accuracy TR.jpg" title="График производительности" alt="График производительности" width="500" />
+![График производительности](Accuracy_TR.jpg "График производительности")
 
 #### Точность
 
