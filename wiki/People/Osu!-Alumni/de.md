@@ -1,6 +1,6 @@
 Die **osu! Alumni** sind für ihre bewegenden Beiträge an osu! bekannt. Hätten wir die nötigen Mittel, würden wir eine Statue für jedes dieser Mitglieder errichten! [Link](http://osu.ppy.sh/g/16)
 
-| Names | Epitaph |
+| Name | Epitaph |
 | ----- | ------- |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |

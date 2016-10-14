@@ -9,7 +9,7 @@ Członkowie zespołu
 
 [Strona grupy](http://osu.ppy.sh/g/7)
 
-| Nick | Standard | Taiko | CtB | Mania | Dodatkowe języki |
+| Nick | Standard | Taiko | Catch | Mania | Dodatkowe języki |
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Tak](../../shared/Insane-s.png "Tak") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Nie](../../shared/Na-m.png "Nie") | Japoński, częściowo Francuski |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Tak](../../shared/Insane-m.png "Tak") | |

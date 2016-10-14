@@ -18,7 +18,7 @@ Teammitglieder
 
 *Hinweis: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.* - [Team-Seite](http://osu.ppy.sh/g/4)
 
-| Names | Languages | Area of focus |
+| Name | Languages | Area of focus |
 | ----- | --------- | ------------- |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media Ersteller |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technische Unterstützung |

@@ -15,7 +15,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 
 *Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](http://osu.ppy.sh/g/4)
 
-| Names | Additional Languages Spoken | Area of focus |
+| Name | Additional Languages Spoken | Area of focus |
 | ----- | --------- | ------------- |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |

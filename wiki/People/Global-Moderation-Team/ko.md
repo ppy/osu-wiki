@@ -15,7 +15,7 @@ GMT가 되는 방법
 
 *참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [Team Page](http://osu.ppy.sh/g/4)
 
-| Names | Additional Languages Spoken | Area of focus |
+| Name | Additional Languages Spoken | Area of focus |
 | ----- | --------- | ------------- |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |

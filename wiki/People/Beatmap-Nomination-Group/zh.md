@@ -21,73 +21,73 @@ Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面
 
 | Name | Standard | Taiko | Catch | Mania | 语言 |
 | ----- | -------- | ----- | --- | ----- | -------------------- |
-| [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | |
-| [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 波兰语 |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 印尼语 |
-| [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | |
-| [alienflybot](https://osu.ppy.sh/u/636114) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 荷兰语 |
-| [Ayyri](https://osu.ppy.sh/u/7182318) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [Bara-](https://osu.ppy.sh/u/2533040) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 荷兰语 |
-| [Bonsai](https://osu.ppy.sh/u/987334) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [CelsiusLK](https://osu.ppy.sh/u/1409012) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 泰语 |
-| [ChaosLitz](https://osu.ppy.sh/u/3621552) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [Cryptic](https://osu.ppy.sh/u/3728904) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [DE-CADE](https://osu.ppy.sh/u/3734394) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 印尼语 |
-| [Doyak](https://osu.ppy.sh/u/2046893) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 韩语 |
-| [Electoz](https://osu.ppy.sh/u/6485263) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 泰语 |
-| [Evening](https://osu.ppy.sh/u/2193881) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | |
-| [ezek](https://osu.ppy.sh/u/180241) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [Fresh Chicken](https://osu.ppy.sh/u/3984370) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 韩语, 日语 |
-| [Gero](https://osu.ppy.sh/u/1467715) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [jonathanlfj](https://osu.ppy.sh/u/270377) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文, 法语 |
-| [JUDYDANNY](https://osu.ppy.sh/u/1165475) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 日语 |
-| [Julie](https://osu.ppy.sh/u/2420987) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 中文, 法语 |
-| [Kagetsu](https://osu.ppy.sh/u/6203841) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [Karen](https://osu.ppy.sh/u/3143784) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [Kawawa](https://osu.ppy.sh/u/4647754) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 韩语 |
-| [Kencho](https://osu.ppy.sh/u/3178411) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [Kibbleru](https://osu.ppy.sh/u/3193504) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [koliron](https://osu.ppy.sh/u/4632730) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 西班牙语 |
-| [Kuo Kyoka](https://osu.ppy.sh/u/2596306) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 越南语 |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 俄语 |
-| [Lasse](https://osu.ppy.sh/u/896613) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Len](https://osu.ppy.sh/u/1686145) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 韩语 |
-| [Koiyuki](https://osu.ppy.sh/u/2433507) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文, 日语 |
-| [Monstrata](https://osu.ppy.sh/u/2706438) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 意大利语, 罗马尼亚语 |
-| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [Natsu](https://osu.ppy.sh/u/1953876) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [neonat](https://osu.ppy.sh/u/1561995) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [newyams99](https://osu.ppy.sh/u/3701008) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 日语 |
-| [Nivrad00](https://osu.ppy.sh/u/1984634) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | |
-| [Nozhomi](https://osu.ppy.sh/u/2716981) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 法语 |
-| [Nwolf](https://osu.ppy.sh/u/1910766) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [OzzyOzrock](https://osu.ppy.sh/u/465153) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语, 法语 |
-| [Pentori](https://osu.ppy.sh/u/7452237) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [pishifat](https://osu.ppy.sh/u/3178418) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [Pho](https://osu.ppy.sh/u/3624692) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Raiden](https://osu.ppy.sh/u/2239480) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语, Catalan |
-| [Regraz](https://osu.ppy.sh/u/3076909) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [Rizia](https://osu.ppy.sh/u/1367570) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [Rizqy](https://osu.ppy.sh/u/1411817) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 印尼语, 日语 |
-| [sahuang](https://osu.ppy.sh/u/5318910) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [sheela](https://osu.ppy.sh/u/1138027) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 法语 |
-| [Sieg](https://osu.ppy.sh/u/1404615) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 俄语 |
-| [smallboat](https://osu.ppy.sh/u/243049) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 中文 |
-| [Sonnyc](https://osu.ppy.sh/u/11771) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 韩语 |
-| [Spaghetti](https://osu.ppy.sh/u/4761930) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 西班牙语 |
-| [Squichu](https://osu.ppy.sh/u/2091463) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Stjpa](https://osu.ppy.sh/u/2954693) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 德语 |
-| [Strategas](https://osu.ppy.sh/u/2971837) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | Lithuanian |
-| [tasuke912](https://osu.ppy.sh/u/2774767) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 日语 |
-| [Volta](https://osu.ppy.sh/u/4154071) | ![No](Na-s.png "No") | ![Yes](Insane-t.png "Yes") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 印尼语 |
-| [Wafu](https://osu.ppy.sh/u/888955) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 捷克语 |
-| [Xexxar](https://osu.ppy.sh/u/2773526) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | |
-| [Xinely](https://osu.ppy.sh/u/1521445) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 印尼语, 中文 |
-| [Yuii-](https://osu.ppy.sh/u/2935923) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 西班牙语, 葡萄牙语 |
-| [Zero__Wind](https://osu.ppy.sh/u/1822830) | ![Yes](Insane-s.png "Yes") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![No](Na-m.png "No") | 广东话, 中文 |
-| [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![Yes](Insane-f.png "Yes") | ![No](Na-m.png "No") | 西班牙语 |
-| [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](Na-s.png "No") | ![No](Na-t.png "No") | ![No](Na-f.png "No") | ![Yes](Insane-m.png "Yes") | 中文 |
+| [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
+| [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 波兰语 |
+| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 印尼语 |
+| [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
+| [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 荷兰语 |
+| [Ayyri](https://osu.ppy.sh/u/7182318) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [Bara-](https://osu.ppy.sh/u/2533040) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 荷兰语 |
+| [Bonsai](https://osu.ppy.sh/u/987334) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [CelsiusLK](https://osu.ppy.sh/u/1409012) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 泰语 |
+| [ChaosLitz](https://osu.ppy.sh/u/3621552) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [Cryptic](https://osu.ppy.sh/u/3728904) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [DE-CADE](https://osu.ppy.sh/u/3734394) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 印尼语 |
+| [Doyak](https://osu.ppy.sh/u/2046893) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 韩语 |
+| [Electoz](https://osu.ppy.sh/u/6485263) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 泰语 |
+| [Evening](https://osu.ppy.sh/u/2193881) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |
+| [ezek](https://osu.ppy.sh/u/180241) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [Fresh Chicken](https://osu.ppy.sh/u/3984370) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 韩语, 日语 |
+| [Gero](https://osu.ppy.sh/u/1467715) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [jonathanlfj](https://osu.ppy.sh/u/270377) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文, 法语 |
+| [JUDYDANNY](https://osu.ppy.sh/u/1165475) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 日语 |
+| [Julie](https://osu.ppy.sh/u/2420987) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 中文, 法语 |
+| [Kagetsu](https://osu.ppy.sh/u/6203841) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [Karen](https://osu.ppy.sh/u/3143784) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文 |
+| [Kawawa](https://osu.ppy.sh/u/4647754) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 韩语 |
+| [Kencho](https://osu.ppy.sh/u/3178411) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [Kibbleru](https://osu.ppy.sh/u/3193504) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [koliron](https://osu.ppy.sh/u/4632730) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [Kuo Kyoka](https://osu.ppy.sh/u/2596306) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 越南语 |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 俄语 |
+| [Lasse](https://osu.ppy.sh/u/896613) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [Len](https://osu.ppy.sh/u/1686145) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 韩语 |
+| [Koiyuki](https://osu.ppy.sh/u/2433507) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文, 日语 |
+| [Monstrata](https://osu.ppy.sh/u/2706438) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [MrSergio](https://osu.ppy.sh/u/2581696) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 意大利语, 罗马尼亚语 |
+| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [Natsu](https://osu.ppy.sh/u/1953876) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [neonat](https://osu.ppy.sh/u/1561995) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文 |
+| [newyams99](https://osu.ppy.sh/u/3701008) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 日语 |
+| [Nivrad00](https://osu.ppy.sh/u/1984634) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |
+| [Nozhomi](https://osu.ppy.sh/u/2716981) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 法语 |
+| [Nwolf](https://osu.ppy.sh/u/1910766) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [OzzyOzrock](https://osu.ppy.sh/u/465153) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语, 法语 |
+| [Pentori](https://osu.ppy.sh/u/7452237) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [pishifat](https://osu.ppy.sh/u/3178418) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [Pho](https://osu.ppy.sh/u/3624692) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [Raiden](https://osu.ppy.sh/u/2239480) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语, Catalan |
+| [Regraz](https://osu.ppy.sh/u/3076909) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文 |
+| [Rizia](https://osu.ppy.sh/u/1367570) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [Rizqy](https://osu.ppy.sh/u/1411817) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 印尼语, 日语 |
+| [sahuang](https://osu.ppy.sh/u/5318910) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文 |
+| [sheela](https://osu.ppy.sh/u/1138027) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 法语 |
+| [Sieg](https://osu.ppy.sh/u/1404615) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 俄语 |
+| [smallboat](https://osu.ppy.sh/u/243049) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 中文 |
+| [Sonnyc](https://osu.ppy.sh/u/11771) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 韩语 |
+| [Spaghetti](https://osu.ppy.sh/u/4761930) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [Squichu](https://osu.ppy.sh/u/2091463) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [Stjpa](https://osu.ppy.sh/u/2954693) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 德语 |
+| [Strategas](https://osu.ppy.sh/u/2971837) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Lithuanian |
+| [tasuke912](https://osu.ppy.sh/u/2774767) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 日语 |
+| [Volta](https://osu.ppy.sh/u/4154071) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 印尼语 |
+| [Wafu](https://osu.ppy.sh/u/888955) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 捷克语 |
+| [Xexxar](https://osu.ppy.sh/u/2773526) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [Xinely](https://osu.ppy.sh/u/1521445) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | 印尼语, 中文 |
+| [Yuii-](https://osu.ppy.sh/u/2935923) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | 西班牙语, 葡萄牙语 |
+| [Zero__Wind](https://osu.ppy.sh/u/1822830) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 广东话, 中文 |
+| [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | 西班牙语 |
+| [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | 中文 |
 
 [Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink") <Category:People/ZH>

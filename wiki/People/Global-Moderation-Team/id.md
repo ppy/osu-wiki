@@ -18,7 +18,7 @@ Anggota Tim
 
 *Harap dicatat: Semua GMT berbahasa Inggris kecuali disebutkan sebaliknya.* - [Team Page](http://osu.ppy.sh/g/4)
 
-| Names | Languages | Area of focus |
+| Name | Languages | Area of focus |
 | ----- | --------- | ------------- |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Pembuatan osu!media |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Dukungan Teknis |

@@ -5,7 +5,7 @@
 团队成员
 --------
 
-| 名字 | Standard | Taiko | CtB | Mania | 语言 |
+| 名字 | Standard | Taiko | Catch | Mania | 语言 |
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | 日语, 少许 法语 |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |

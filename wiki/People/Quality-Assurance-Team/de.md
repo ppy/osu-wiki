@@ -9,7 +9,7 @@ Teammitglieder
 
 [Team-Seite](http://osu.ppy.sh/g/7)
 
-| Name | Standard | Taiko | CtB | Mania | Zusätzlich gesprochene Sprachen |
+| Name | Standard | Taiko | Catch | Mania | Zusätzlich gesprochene Sprachen |
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Japanisch, etwas  Französisch |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |

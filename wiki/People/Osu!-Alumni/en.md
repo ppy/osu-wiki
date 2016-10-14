@@ -1,7 +1,7 @@
 The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square. [Link](http://osu.ppy.sh/g/16)
 
 
-| Names | Epitaph |
+| Name | Epitaph |
 | ----- | ------- |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |

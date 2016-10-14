@@ -23,7 +23,7 @@ Liste des GM
 *Veuillez noter que tous les GM peuvent également parler anglais en plus des langues listées ci-dessous.*
 [Page du groupe](http://osu.ppy.sh/g/4)
 
-| Names | Languages | Area of focus |
+| Name | Languages | Area of focus |
 | ----- | --------- | ------------- |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | rédacteur pour les osu!medias |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | support technique |
