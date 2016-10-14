@@ -1,13 +1,11 @@
-<img src="Osu!-world-cup-banner.jpg" title="Osu!-world-cup-banner.jpg" alt="Osu!-world-cup-banner.jpg" width="840" />
+![OWC 2015 logo](logo.jpg)
 
-Das **osu! World Cup 2015** (***OWC 2015*** ) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](http://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
-
-\_\_TOC\_\_
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](//osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
 ===============
 
-|                     |                             |
+| Event               | Timestamp                   |
 |---------------------|-----------------------------|
 | Registrierungsphase | 01.-18. Okt. 2015           |
 | Live-Ziehungen      | 01. Nov. 2015 14:00 (UTC+0) |
@@ -17,36 +15,37 @@ Turnierzeitplan
 | Halbfinale          | 28.-29. Nov. 2015           |
 | Finale - Woche 1    | 05.-06. Dez. 2015           |
 | Finale - Woche 2    | 12.-13. Dez. 2015           |
-||
 
 Preise
 ======
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
-|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 38% vom erlangten Preispool, Profilabzeichen                                    |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 12% vom erlangten Preispool, Profilabzeichen                                    |
+| Placing                                                    | Prizes                                                                          |
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
 Organisation
 ============
 
-| Turnier Management | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") | ![](Fr.gif "fig:Fr.gif") |
-|--------------------|-----------------------------------------------------------------------------------------------------------|
-| Map Auswähler      | ![](Fr.gif "fig:Fr.gif") | ![](Hk.gif "fig:Hk.gif") | ![](Kr.gif "fig:Kr.gif")                            |
-| Streamer           | ![](De.gif "fig:De.gif") | ![](Pl.gif "fig:Pl.gif")                                                       |
-| Kommentatoren      | ![](Nz.gif "fig:Nz.gif") | ![](Ca.gif "fig:Ca.gif") | ![](Us.gif "fig:Us.gif")                            |
-| Statistiker        | ![](Pl.gif "fig:Pl.gif")                                                                                  |
+| Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Turnier Management | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| Map Auswähler      | ![](../../../../shared/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](../../../../shared/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](../../../../shared/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| Streamer           | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kommentatoren      | ![](../../../../shared/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](../../../../shared/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](../../../../shared/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](../../../../shared/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](../../../../shared/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](../../../../shared/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](../../../../shared/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
+| Statistiker        | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 Links
 =====
 
--   [osu! World Cup 2015 auf Twitch](http://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
--   [Registrierungsseite](https://jizz.ppy.sh/tournaments/2)
+-   [osu! World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
+-   [Diskussionsthread](//osu.ppy.sh/forum/p/4550383)
+-   [Registrierungsseite](//jizz.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -55,41 +54,16 @@ Participants
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
-| Teams                |
-|----------------------|
-| ![](Ar.gif "Ar.gif") |
-| ![](Au.gif "Au.gif") |
-| ![](Br.gif "Br.gif") |
-| ![](Cn.gif "Cn.gif") |
-| ![](De.gif "De.gif") |
-| ![](Fi.gif "Fi.gif") |
-| ![](Fr.gif "Fr.gif") |
-| ![](Gr.gif "Gr.gif") |
-| ![](Gb.gif "Gb.gif") |
-| ![](Hk.gif "Hk.gif") |
-| ![](It.gif "It.gif") |
-| ![](Jp.gif "Jp.gif") |
-| ![](Ca.gif "Ca.gif") |
-| ![](Lv.gif "Lv.gif") |
-| ![](Lt.gif "Lt.gif") |
-| ![](My.gif "My.gif") |
-| ![](Mx.gif "Mx.gif") |
-| ![](Nz.gif "Nz.gif") |
-| ![](Nl.gif "Nl.gif") |
-| ![](No.gif "No.gif") |
-| ![](At.gif "At.gif") |
-| ![](Ph.gif "Ph.gif") |
-| ![](Pl.gif "Pl.gif") |
-| ![](Pt.gif "Pt.gif") |
-| ![](Ru.gif "Ru.gif") |
-| ![](Se.gif "Se.gif") |
-| ![](Sg.gif "Sg.gif") |
-| ![](Kr.gif "Kr.gif") |
-| ![](Tw.gif "Tw.gif") |
-| ![](Th.gif "Th.gif") |
-| ![](Ua.gif "Ua.gif") |
-| ![](Us.gif "Us.gif") |
-||
+| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+|---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
+| ![](../../../../shared/Cn.gif) China              | ![](../../../../shared/Au.gif) Australia      | ![](../../../../shared/Ar.gif) Argentina | ![](../../../../shared/Gr.gif) Greece      |
+| ![](../../../../shared/Fr.gif) France             | ![](../../../../shared/At.gif) Austria        | ![](../../../../shared/Jp.gif) Japan     | ![](../../../../shared/It.gif) Italy       |
+| ![](../../../../shared/De.gif) Germany            | ![](../../../../shared/Br.gif) Brazil         | ![](../../../../shared/Lv.gif) Latvia    | ![](../../../../shared/Mx.gif) Mexico      |
+| ![](../../../../shared/Pl.gif) Poland             | ![](../../../../shared/Ca.gif) Canada         | ![](../../../../shared/Lt.gif) Lithuania | ![](../../../../shared/Nz.gif) New Zealand |
+| ![](../../../../shared/Ru.gif) Russian Federation | ![](../../../../shared/Fi.gif) Finland        | ![](../../../../shared/My.gif) Malaysia  | ![](../../../../shared/Ph.gif) Philippines |
+| ![](../../../../shared/Kr.gif) South Korea        | ![](../../../../shared/Hk.gif) Hong Kong      | ![](../../../../shared/No.gif) Norway    | ![](../../../../shared/Pt.gif) Portugal    |
+| ![](../../../../shared/Tw.gif) Taiwan             | ![](../../../../shared/Nl.gif) Netherlands    | ![](../../../../shared/Se.gif) Sweden    | ![](../../../../shared/Sg.gif) Singapore   |
+| ![](../../../../shared/Us.gif) United States      | ![](../../../../shared/Gb.gif) United Kingdom | ![](../../../../shared/Th.gif) Thailand  | ![](../../../../shared/Ua.gif) Ukraine     |
 
 ------------------------------------------------------------------------
 
@@ -100,7 +74,7 @@ Turnierregeln
 -------------
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](//osu.ppy.sh/forum/t/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 
@@ -167,7 +141,7 @@ Etappenanweisungen
 
 4.  Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](http://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Stage            | Match ID                 |
 |------------------|--------------------------|

@@ -1,78 +1,87 @@
-<img src="Twc2015 logo.png" title="Twc2015 logo.png" alt="Twc2015 logo.png" width="540" />
+![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015*** )は[Tournament Management](http://osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![](Jp.gif "fig:Jp.gif") 日本**です。
+**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](//osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![](../../../../shared/Jp.gif) 日本**です。
 
 トーナメント日程
 ================
 
-|                  |                             |
-|------------------|-----------------------------|
-| 登録段階         | 2015年1月12日~2月22日       |
-| 抽選会           | 2015年2月28日 (14:00 UTC+0) |
-| グループステージ | 2015年3月7日~8日            |
-| 決勝トーナメント | 2015年3月14日~15日          |
-| 準々決勝         | 2015年3月21日~22日          |
-| 準決勝           | 2015年3月28日~29日          |
-| 決勝 - Week 1    | 2015年4月4日~5日            |
-| 決勝 - Week 2    | 2015年4月11日~12日          |
-||
+| Event       | Timestamp                |
+|-------------|--------------------------|
+| 登録段階        | 2015年1月12日~2月22日         |
+| 抽選会         | 2015年2月28日 (14:00 UTC+0) |
+| グループステージ    | 2015年3月7日~8日             |
+| 決勝トーナメント    | 2015年3月14日~15日           |
+| 準々決勝        | 2015年3月21日~22日           |
+| 準決勝         | 2015年3月28日~29日           |
+| 決勝 - Week 1 | 2015年4月4日~5日             |
+| 決勝 - Week 2 | 2015年4月11日~12日           |
 
 賞品
 ====
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | supporter tag 6ヶ月、プロフィールバッジ、ユーザータイトル"Taiko Champion"、osu!商品 |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | supporter tag 3ヶ月、プロフィールバッジ                                             |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | supporter tag 1ヶ月、プロフィールバッジ                                             |
+| Placing                                                    | Prize(s)                                                    |
+|------------------------------------------------------------|-------------------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | supporter tag 6ヶ月、プロフィールバッジ、ユーザータイトル"Taiko Champion"、osu!商品 |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | supporter tag 3ヶ月、プロフィールバッジ                                 |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | supporter tag 1ヶ月、プロフィールバッジ                                 |
 
 構成
 ====
 
-| 大会運営者 | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") |
-|------------|--------------------------------------------------------------------------------|
-| 譜面選択者 | ![](De.gif "fig:De.gif")                                                       |
-| 配信者     | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif") |
-| 実況者     | ![](Fr.gif "fig:Fr.gif") | ![](Us.gif "fig:Us.gif")                            |
-| 統計者     | ![](Pl.gif "fig:Pl.gif")                                                       |
+| Job   | Person                                                                                                                                                                                        |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 大会運営者 | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| 譜面選択者 | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| 配信者   | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| 実況者   | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| 統計者   | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 参加者
 ======
 
-| Accepted Rosters     |
-|----------------------|
-| ![](Ar.gif "Ar.gif") |
-| ![](Au.gif "Au.gif") |
-| ![](Ca.gif "Ca.gif") |
-| ![](Cl.gif "Cl.gif") |
-| ![](Cn.gif "Cn.gif") |
-| ![](Dk.gif "Dk.gif") |
-| ![](Fi.gif "Fi.gif") |
-| ![](Fr.gif "Fr.gif") |
-| ![](De.gif "De.gif") |
-| ![](Hk.gif "Hk.gif") |
-| ![](Hu.gif "Hu.gif") |
-| ![](Id.gif "Id.gif") |
-| ![](It.gif "It.gif") |
-| ![](Jp.gif "Jp.gif") |
-| ![](Kr.gif "Kr.gif") |
-| ![](Es.gif "Es.gif") |
-| ![](No.gif "No.gif") |
-| ![](Ph.gif "Ph.gif") |
-| ![](Pl.gif "Pl.gif") |
-| ![](Se.gif "Se.gif") |
-| ![](Sg.gif "Sg.gif") |
-| ![](Tw.gif "Tw.gif") |
-| ![](Ua.gif "Ua.gif") |
-| ![](Us.gif "Us.gif") |
-||
+| Country                                    | Group A Members                                                                                                                                                                                                                                          |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Au.gif) Australia   | **[Slaybelle](//osu.ppy.sh/u/3084044)**, [dajayeway](//osu.ppy.sh/u/4841352), [Fideliant](//osu.ppy.sh/u/2200052), [Pew](//osu.ppy.sh/u/597692)                                                                                                          |
+| ![](../../../../shared/Sg.gif) Singapore   | **[taikoplayer123](//osu.ppy.sh/u/3580055)**, [SilverSufuru](//osu.ppy.sh/u/3769280), [xKwan](//osu.ppy.sh/u/403397)                                                                                                                                     |
+| ![](../../../../shared/Fi.gif) Finland     | **[DarkSylarn](//osu.ppy.sh/u/4266840)**, [zheep](//osu.ppy.sh/u/1889827), [Pelaaja_X](//osu.ppy.sh/u/3543051)                                                                                                                                           |
+| ![](../../../../shared/Ph.gif) Philippines | **[senkai](//osu.ppy.sh/u/1150178)**, [Alkaeid](//osu.ppy.sh/u/567322), [Rumovik](//osu.ppy.sh/u/3831514), [Primrea](//osu.ppy.sh/u/943743)                                                                                                              |
+| ![](../../../../shared/Kr.gif) South Korea | **[bbj0920](//osu.ppy.sh/u/87546)**, [Runa](//osu.ppy.sh/u/4643294), [SweetBloodyLove](//osu.ppy.sh/u/139827), [Lunaris Filia](//osu.ppy.sh/u/1807472), [L y s](//osu.ppy.sh/u/211825)                                                                   |
+| ![](../../../../shared/Tw.gif) Taiwan      | **[-\[ ix Ishida xi \]-](//osu.ppy.sh/u/242910)**, [jordan\_sur](//osu.ppy.sh/u/2960947), [zx\_baka\_0502442](//osu.ppy.sh/u/457766), [howar5041](//osu.ppy.sh/u/584411), [monkeydluffy3u4](//osu.ppy.sh/u/2277798), [mliencheng](//osu.ppy.sh/u/586659) |
+
+| Country                                | Group B Members                                                                                                                                                                                                              |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/No.gif) Norway  | **[agu](//osu.ppy.sh/u/1109122)**, [K i u i](//osu.ppy.sh/u/1794766), [Yukizo](//osu.ppy.sh/u/2345079)                                                                                                                       |
+| ![](../../../../shared/Dk.gif) Denmark | **[Zheant](//osu.ppy.sh/u/708656)**, [TraxieChan](//osu.ppy.sh/u/455552), [Broder](//osu.ppy.sh/u/2507101), [Only1Magma](//osu.ppy.sh/u/3922957)                                                                             |
+| ![](../../../../shared/Ua.gif) Ukraine | **[Anny](//osu.ppy.sh/u/249094)**, [Aka](//osu.ppy.sh/u/1307553), [gavnono](//osu.ppy.sh/u/1625581)                                                                                                                          |
+| ![](../../../../shared/Pl.gif) Poland  | **[Acrith](//osu.ppy.sh/u/389880)**, [DarkStoorM](//osu.ppy.sh/u/174347), [Elfie](//osu.ppy.sh/u/1676016), [Dess1210](//osu.ppy.sh/u/295855), [Karryu](//osu.ppy.sh/u/3402967), [-Jamu-](//osu.ppy.sh/u/2271556)             |
+| ![](../../../../shared/De.gif) Germany | **[Luna](//osu.ppy.sh/u/588007)**, [Mew104](//osu.ppy.sh/u/2345156), [tiamus](//osu.ppy.sh/u/515277), [\[TaikoTori\]](//osu.ppy.sh/u/1074143), [DarkDunskin](//osu.ppy.sh/u/98985), [\[TaikoSlaxi\]](//osu.ppy.sh/u/1365973) |
+| ![](../../../../shared/Cn.gif) China   | **[yys428](//osu.ppy.sh/u/1061175)**, [HimemiyaChikane](//osu.ppy.sh/u/3672537), [Shiki\_nyan](//osu.ppy.sh/u/345364), [moe moe moe](//osu.ppy.sh/u/1804904)                                                                 |
+
+| Country                                  | Group C Members                                                                                                                                                                                                                  |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/It.gif) Italy     | **[Ikkun](//osu.ppy.sh/u/1059945)**, [Earine](//osu.ppy.sh/u/2485549), [Jey](//osu.ppy.sh/u/2480153), [DuBisk](//osu.ppy.sh/u/3371035), [Morshu](//osu.ppy.sh/u/166169), [LinkerWTF](//osu.ppy.sh/u/1407595)                     |
+| ![](../../../../shared/Se.gif) Sweden    | **[Bnyuu](//osu.ppy.sh/u/2290294)**, [boat](//osu.ppy.sh/u/276074), [Tanaka](//osu.ppy.sh/u/1897905), [WilleGO97](//osu.ppy.sh/u/3880756)                                                                                        |
+| ![](../../../../shared/Ca.gif) Canada    | **[Tasha](//osu.ppy.sh/u/1031958)**, [Fudgyking](//osu.ppy.sh/u/3802922), [janitoreihil](//osu.ppy.sh/u/3307897), [Wheelcakes](//osu.ppy.sh/u/3513722), [Ilfri-chan](//osu.ppy.sh/u/2518210), [IControl](//osu.ppy.sh/u/2307285) |
+| ![](../../../../shared/Ar.gif) Argentina | **[Pollotuc](//osu.ppy.sh/u/42440)**, [Nearex](//osu.ppy.sh/u/1893238), [cyntuu mirandaa](//osu.ppy.sh/u/724230)                                                                                                                 |
+| ![](../../../../shared/Fr.gif) France    | **[Nashmun](//osu.ppy.sh/u/49031)**, [TimmyAkmed](//osu.ppy.sh/u/1799973), [Fraolinch](//osu.ppy.sh/u/205257), [omegaflo](//osu.ppy.sh/u/83291), [\_Gezo\_](//osu.ppy.sh/u/481582), [Jinyan](//osu.ppy.sh/u/669531)              |
+| ![](../../../../shared/Jp.gif) Japan     | **[sobatsuyu100](//osu.ppy.sh/u/2076374)**, [tasuke912](//osu.ppy.sh/u/2774767), [cagalin](//osu.ppy.sh/u/2586173), [Rydan72261](//osu.ppy.sh/u/5309575), [coDMo2ooo](//osu.ppy.sh/u/3644233), [1RoHa\_](//osu.ppy.sh/u/4632503) |
+
+| Country                                      | Group D Members                                                                                                                                                                                                                        |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Hu.gif) Hungary       | **[\_verto\_](//osu.ppy.sh/u/2015300)**, [-Arp-](//osu.ppy.sh/u/3027305), [lussy\_6](//osu.ppy.sh/u/226128)                                                                                                                            |
+| ![](../../../../shared/Id.gif) Indonesia     | **[Lightning Wyvern](//osu.ppy.sh/u/1533122)**, [\_Destroyer\_](//osu.ppy.sh/u/3185598), [aika357](//osu.ppy.sh/u/2488637), [kpokol12](//osu.ppy.sh/u/3577322), [Niko-nyan](//osu.ppy.sh/u/906991), [Senritsu](//osu.ppy.sh/u/1165368) |
+| ![](../../../../shared/Cl.gif) Chile         | **[-Anhedonia-](//osu.ppy.sh/u/920861)**, [-[Kuroha]-](//osu.ppy.sh/u/4193212), [MikuWRS](//osu.ppy.sh/u/1619547), [Pohm](//osu.ppy.sh/u/2083934)                                                                                      |
+| ![](../../../../shared/Es.gif) Spain         | **[Hanjamon](//osu.ppy.sh/u/1703330)**, [CARRI](//osu.ppy.sh/u/854536), [AlexGc96](//osu.ppy.sh/u/1130179), [MYRKUL](//osu.ppy.sh/u/255933), [taigoplayers](//osu.ppy.sh/u/3687287)                                                    |
+| ![](../../../../shared/Hk.gif) Hong Kong     | **[KanaRin](//osu.ppy.sh/u/310747)**, [john26148853](//osu.ppy.sh/u/2930055), [ice man007](//osu.ppy.sh/u/1926937), [ll-oscar](//osu.ppy.sh/u/1488736), [aabc271](//osu.ppy.sh/u/155707), [ztrike](//osu.ppy.sh/u/2568493)             |
+| ![](../../../../shared/Us.gif) United States | **[Two Fruit Cakes](//osu.ppy.sh/u/437259)**, [FLANKs](//osu.ppy.sh/u/2398168), [OzzyOzrock](//osu.ppy.sh/u/465153), [Shyguy](//osu.ppy.sh/u/178038), [Kuro](//osu.ppy.sh/u/1735031), [goatlife](//osu.ppy.sh/u/4408784)               |
 
 リンク
 ======
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 on Twitch](http://www.twitch.tv/osulive/)
+-   [Discussion thread](//osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 on Twitch](//www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -114,8 +123,8 @@
     2.  リストへの追加を認められるには、太鼓ppランキングが世界8000位以上でなければいけません。
     3.  リストへの追加を認められるには、この12ヶ月間[osu! community rulesに違反していてはいけません](JP:Rules "wikilink")。
 
-3.  For signing up, [send a PM to Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
-4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)。
+3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
+4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)。
     1.  登録PMにローカルタイムゾーンを追記してください。（日本の場合はUTC、GMT共に+9になります。）
     2.  登録申請が問題なく届いた場合、確認の返事が届きます。そのとき申請は承認待ちの状態です。
 
@@ -143,7 +152,7 @@
     1.  これは実際のチームの合計によって変更の可能性があります。
 
 5.  続くステージはダブル・エリミネーションステージです。勝者は次のステージに、敗者は敗者枠に移動されます。
-6.  [この図](http://puu.sh/bUq5V/f1066103b0.png)を基にして、ステージは以下のように分けられます:
+6.  [この図](//puu.sh/bUq5V/f1066103b0.png)を基にして、ステージは以下のように分けられます:
 
 | ステージ         | 試合 ID                 |
 |------------------|-------------------------|

@@ -3,11 +3,11 @@
 La ***osu! World Cup 2013*** (ou **OWC 2013**, littéralement « coupe du monde de osu! ») était la quatrième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
 Cette compétition est terminée et a abouti au podium suivant :
 
-| Placing                                                    | Country                                   |
-|------------------------------------------------------------|-------------------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | ![](Kr.gif "fig:Kr.gif") **Corée du Sud** |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | ![](Tw.gif "fig:Tw.gif") **Taïwan**       |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | ![](Pl.gif "fig:Pl.gif") **Pologne**      |
+| Placing                                                    | Country                                         |
+|------------------------------------------------------------|-------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | ![](../../../../shared/Kr.gif) **Corée du Sud** |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | ![](../../../../shared/Tw.gif) **Taïwan**       |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | ![](../../../../shared/Pl.gif) **Pologne**      |
 
 Calendrier
 ==========

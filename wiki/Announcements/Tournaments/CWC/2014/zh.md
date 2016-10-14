@@ -1,6 +1,6 @@
 ![CWC 2014 logo](logo.png)
 
-**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )是一个由[Tournament Management](http://osu.ppy.sh/g/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第三届了。上一届的冠军是：**![](Cl.gif "fig:Cl.gif") 智利**。
+**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )是一个由[Tournament Management](//osu.ppy.sh/g/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第三届了。上一届的冠军是：**![](../../../../shared/Cl.gif) 智利**。
 
 比赛安排
 ========
@@ -43,9 +43,9 @@
 外部链接
 ========
 
--   [osu! Catch the Beat World Cup 2014 Twitch直播室](http://www.twitch.tv/osulive/)
--   [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [讨论帖](http://osu.ppy.sh/forum/t/200185)
+-   [osu! Catch the Beat World Cup 2014 Twitch直播室](//www.twitch.tv/osulive/)
+-   [注册表单](//docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
+-   [讨论帖](//osu.ppy.sh/forum/t/200185)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@
 
 | Flag                           | Country  | Group D Members                                                                                                                                                                                               |
 |--------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](../../../../shared/At.gif) | 奥地利  | **[\[ K a z u \]](//osu.ppy.sh/**u/1902480), [Raaban](//osu.ppy.sh/u/1569025), [xXMarcelXx](//osu.ppy.sh/u/2355698), [Zuyanta](//osu.ppy.sh/u/2772759)                                                        |
+| ![](../../../../shared/At.gif) | 奥地利  | **[\[ K a z u \]](//osu.ppy.sh/u/1902480)**, [Raaban](//osu.ppy.sh/u/1569025), [xXMarcelXx](//osu.ppy.sh/u/2355698), [Zuyanta](//osu.ppy.sh/u/2772759)                                                        |
 | ![](../../../../shared/Fr.gif) | 法国   | --- disbanded ---                                                                                                                                                                                             |
 | ![](../../../../shared/My.gif) | 马来西亚 | **[-Rin](//osu.ppy.sh/u/1202101)**, [Shadow Fear](//osu.ppy.sh/u/635485), [Rick--](//osu.ppy.sh/u/950241), [QHideaki13](//osu.ppy.sh/u/733998), [kho keng chung](//osu.ppy.sh/u/369045)                       |
 | ![](../../../../shared/Jp.gif) | 日本    | **[uppia](//osu.ppy.sh/u/1513301)**, [rullu](//osu.ppy.sh/u/595140), [sekirei](//osu.ppy.sh/u/1643335), [giru HD](//osu.ppy.sh/u/707456), [Magiyu](//osu.ppy.sh/u/1667470), [Lafollia](//osu.ppy.sh/u/827985) |
@@ -180,7 +180,7 @@
 16强比赛
 --------
 
-**[下载图包](http://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
+**[下载图包](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 | NoMod                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------|
@@ -226,7 +226,7 @@
 小组赛
 ------
 
-**[下载图包](http://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
+**[下载图包](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 | NoMod                                                                        |
 |------------------------------------------------------------------------------|
@@ -308,8 +308,8 @@
 2.  同时，需要指定一名队长（最好会英语）。
 
 2.  每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
-3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)，发送一个标题为“CWC Registration”的确认信息。
--   如果需要修改队员，请联系[Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  如果需要注册，[请先填写这个表格](//docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)，发送一个标题为“CWC Registration”的确认信息。
+-   如果需要修改队员，请联系[Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 -   在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 
 4.  为了确保注册的队伍的准确性， 赛事管理会进行任何的改动检查。

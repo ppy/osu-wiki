@@ -1,18 +1,19 @@
-![](Twc-2014.png "Twc-2014.png")
+![TWC 2014 logo](logo.png)
 
-The **osu! Taiko World Cup 2014** (***TWC 2014*** ) is a country-based Taiko tournament hosted by the [Tournament Management](http://osu.ppy.sh/g/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![](Tw.gif "fig:Tw.gif") Taiwan**.
+The **osu! Taiko World Cup 2014** (***TWC 2014***) is a country-based Taiko tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![](../../../../shared/Tw.gif) Taiwan**.
 
 This competition has come to an end and resulted in the following podium:
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | ![](Jp.gif "fig:Jp.gif") **Japan**     |
-|-------------------------------------------------------------------------|----------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | ![](Hk.gif "fig:Hk.gif") **Hong Kong** |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | ![](Fr.gif "fig:Fr.gif") **France**    |
+| Placing                                                    | Country                                      |
+|------------------------------------------------------------|----------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | ![](../../../../shared/Jp.gif) **Japan**     |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | ![](../../../../shared/Hk.gif) **Hong Kong** |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | ![](../../../../shared/Fr.gif) **France**    |
 
 Tournament schedule
 ===================
 
-|                        |                           |
+| Event                  | Timestamp                 |
 |------------------------|---------------------------|
 | Registration Phase     | 16-26 Jan 2014            |
 | Live Drawings          | 01 Feb 2014 13.00 (UTC+0) |
@@ -25,66 +26,73 @@ Tournament schedule
 Prizes
 ======
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 6 month supporter tag, profile badge, TWC trophy |
-|-------------------------------------------------------------------------|--------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 3 month supporter tag                            |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 1 month supporter tag                            |
+| Placing                                                    | Country                                          |
+|------------------------------------------------------------|--------------------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 6 month supporter tag, profile badge, TWC trophy |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 3 month supporter tag                            |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 1 month supporter tag                            |
 
 Organization
 ============
 
-| Tournament Management | ![](De.gif "fig:De.gif") [Loctav](http://osu.ppy.sh/u/71366) | ![](De.gif "fig:De.gif") [p3n](http://osu.ppy.sh/u/123703)                                                                                                                                                                                                             |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Map Selectors         | ![](De.gif "fig:De.gif") [OnosakiHito](http://osu.ppy.sh/u/290128)                                                                                                                                                                                                                                                                    |
-| Streamers             | ![](Fr.gif "fig:Fr.gif") [shARPII](http://osu.ppy.sh/u/sharpii)                                                                                                                                                                                                                                                                       |
-| Commentators          | ![](Fr.gif "fig:Fr.gif") [Mr Color](http://osu.ppy.sh/u/116078) | ![](Nz.gif "fig:Nz.gif") [deadbeat](http://osu.ppy.sh/u/128370)| ![](De.gif "fig:De.gif") [OnosakiHito](http://osu.ppy.sh/u/290128) | ![](Us.gif "fig:Us.gif") [ztrot](http://osu.ppy.sh/u/ztrot) | ![](No.gif "fig:No.gif") [Dolphin](http://osu.ppy.sh/u/Dolphin) |
-| Statistician          | ![](Pl.gif "fig:Pl.gif") [Marcin](http://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                         |
+| Job                   | Person(s)                                                                                                                                                                                                                                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tournament Management | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                                  |
+| Map Selectors         | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
+| Streamers             | ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/sharpii)                                                                                                                                                                                                                              |
+| Commentators          | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128) // ![](../../../../shared/Us.gif) ztrot // ![](../../../../shared/No.gif) Dolphin |
+| Statistician          | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
 =====
 
--   [Discussion thread](http://osu.ppy.sh/forum/t/179127)
--   [osu! Taiko World Cup 2014 on Twitch](http://www.twitch.tv/osulive/)
--   [Group Stage Statistics](http://tournaments.hiroto.eu/)
+-   [Discussion thread](//osu.ppy.sh/forum/t/179127)
+-   [osu! Taiko World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
+-   [Group Stage Statistics](//tournaments.hiroto.eu/)
 
 ------------------------------------------------------------------------
 
 Knock-Out Bracket
 =================
 
-<img src="TWCBracket4.jpg" title="TWCBracket4.jpg" alt="TWCBracket4.jpg" width="820" />
+![TWC 2014 bracket](bracket.jpg)
 
 Participants
 ============
 
-| Group A              |
-|----------------------|
-| ![](Br.gif "Br.gif") |
-| ![](My.gif "My.gif") |
-| ![](Jp.gif "Jp.gif") |
-| ![](De.gif "De.gif") |
-| ![](Se.gif "Se.gif") |
-| Group B              |
-| ![](Cn.gif "Cn.gif") |
-| ![](Kr.gif "Kr.gif") |
-| ![](Es.gif "Es.gif") |
-| ![](Sg.gif "Sg.gif") |
-| ![](Gb.gif "Gb.gif") |
-| Group C              |
-| ![](Fr.gif "Fr.gif") |
-| ![](Ar.gif "Ar.gif") |
-| ![](Ua.gif "Ua.gif") |
-| ![](Ca.gif "Ca.gif") |
-| ![](Ru.gif "Ru.gif") |
-| Group D              |
-| ![](Us.gif "Us.gif") |
-| ![](Cl.gif "Cl.gif") |
-| ![](Ph.gif "Ph.gif") |
-| ![](Pl.gif "Pl.gif") |
-| ![](Hk.gif "Hk.gif") |
-||
+| Country                                 | Group A                                                                                                                                                                                                                                                                        |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Br.gif) Brazil   | **[Kolbe](http://osu.ppy.sh/u/Kolbe)**, [Yuki-chan](http://osu.ppy.sh/u/Yuki-chan), [- T i g e r -](http://osu.ppy.sh/u/-%20T%20i%20g%20e%20r%20-), [suyama-chan](http://osu.ppy.sh/u/suyama-chan), [lubask](http://osu.ppy.sh/u/lubask), [Wolf](http://osu.ppy.sh/u/Wolf)     |
+| ![](../../../../shared/My.gif) Malaysia | **[taiko_maniac1811](http://osu.ppy.sh/u/taiko_maniac1811)**, [Jerry](http://osu.ppy.sh/u/Jerry), [HeatKai](http://osu.ppy.sh/u/HeatKai), [huiko12](http://osu.ppy.sh/u/huiko12), [buhzidao](http://osu.ppy.sh/u/buhzidao), [cdhsausageboy](http://osu.ppy.sh/u/cdhsausageboy) |
+| ![](../../../../shared/Jp.gif) Japan    | **[TKSalt](http://osu.ppy.sh/u/940878)**, [Orukaa](http://osu.ppy.sh/u/Orukaa), [pagr42](http://osu.ppy.sh/u/pagr42), [NeGaTiVeMinD](http://osu.ppy.sh/u/NeGaTiVeMinD), [sobatsuyu100](http://osu.ppy.sh/u/sobatsuyu100), [azger](http://osu.ppy.sh/u/azger)                   |
+| ![](../../../../shared/De.gif) Germany  | **[Luna](http://osu.ppy.sh/u/Luna)**, [tiamus](http://osu.ppy.sh/u/tiamus), [BrokenArrow](http://osu.ppy.sh/u/BrokenArrow), [DarkDunskin](http://osu.ppy.sh/u/DarkDunskin), [[TaikoTori]](http://osu.ppy.sh/u/1074143), [Mew104](http://osu.ppy.sh/u/Mew104)                   |
+| ![](../../../../shared/Se.gif) Sweden   | **[boat](http://osu.ppy.sh/u/276074)**, [Tanaka](http://osu.ppy.sh/u/1897905), [birrin](http://osu.ppy.sh/u/2290294), [Fuwuwi](http://osu.ppy.sh/u/88200)                                                                                                                      |
+
+| Country                                       | Group B                                                                                                                                                                                                                                                                                                    |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Cn.gif) China          | **[- Yuuka Niya -](http://osu.ppy.sh/u/-%20Yuuka%20Niya%20-)**, [yys428](http://osu.ppy.sh/u/yys428), [HM495](http://osu.ppy.sh/u/HM495), [- Kagami Yuki -](http://osu.ppy.sh/u/-%20Kagami%20Yuki%20-), [mousegoomba](http://osu.ppy.sh/u/mousegoomba), [moe moe moe](http://osu.ppy.sh/u/moe%20moe%20moe) |
+| ![](../../../../shared/Kr.gif) Korea          | **[Konpaku Sariel](http://osu.ppy.sh/u/Konpaku%20Sariel)**, [eoe](http://osu.ppy.sh/u/eoe), [-applerss-](http://osu.ppy.sh/u/-applerss-), [L y s](http://osu.ppy.sh/u/L%20y%20s), [[Akita-Neru]](http://osu.ppy.sh/u/613944)                                                                               |
+| ![](../../../../shared/Es.gif) Spain          | **[LZD](http://osu.ppy.sh/u/LZD)**, [MYRKUL](http://osu.ppy.sh/u/MYRKUL), [CARRI](http://osu.ppy.sh/u/CARRI), [Hanjamon](http://osu.ppy.sh/u/Hanjamon), [son_gohan_2](http://osu.ppy.sh/u/son_gohan_2), [Ares267](http://osu.ppy.sh/u/Ares267)                                                             |
+| ![](../../../../shared/Sg.gif) Singapore      | **[CoroQuetz](http://osu.ppy.sh/u/499843)**, [minray](http://osu.ppy.sh/u/653771), [neonat](http://osu.ppy.sh/u/1561995), [DJNightmare](http://osu.ppy.sh/u/70909)                                                                                                                                         |
+| ![](../../../../shared/Gb.gif) United Kingdom | **[xWillx](http://osu.ppy.sh/u/xWillx)**, [Abrian159](http://osu.ppy.sh/u/Abrian159), [Dainesl](http://osu.ppy.sh/u/Dainesl), [TurnipLover](http://osu.ppy.sh/u/TurnipLover), [Lno](http://osu.ppy.sh/u/Lno)                                                                                               |
+
+| Country                                           | Group C                                                                                                                                                                                                                                                                                        |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Fr.gif) France             | **[_Gezo_](http://osu.ppy.sh/u/481582)**, [Nashmun](http://osu.ppy.sh/u/49031), [TimmyAkmed](http://osu.ppy.sh/u/1799973), [Jinyan](http://osu.ppy.sh/u/669531), [Fraolinch](http://osu.ppy.sh/u/205257), [omegaflo](http://osu.ppy.sh/u/83291)                                                |
+| ![](../../../../shared/Ar.gif) Argentina          | **[whosthebox](http://osu.ppy.sh/u/whosthebox)**, [Nearex](http://osu.ppy.sh/u/Nearex), [Pollotuc](http://osu.ppy.sh/u/Pollotuc), [Chillet](http://osu.ppy.sh/u/Chillet), [cyntuu mirandaa](http://osu.ppy.sh/u/cyntuu%20mirandaa), [Lost The Lights](http://osu.ppy.sh/u/Lost%20The%20Lights) |
+| ![](../../../../shared/Ua.gif) Ukraine            | **[Pagliaccio](http://osu.ppy.sh/u/1163187)**, [Anny](http://osu.ppy.sh/u/249094), [Aka](http://osu.ppy.sh/u/1307553)                                                                                                                                                                          |
+| ![](../../../../shared/Ca.gif) Canada             | **[Tasha](http://osu.ppy.sh/u/Tasha)**, [kenny388](http://osu.ppy.sh/u/kenny388), [Crystalloid](http://osu.ppy.sh/u/Crystalloid), [Nanners](http://osu.ppy.sh/u/Nanners), [xlzqwerty1](http://osu.ppy.sh/u/xlzqwerty1)                                                                         |
+| ![](../../../../shared/Ru.gif) Russian Federation | **[MarisaLover](http://osu.ppy.sh/u/MarisaLover)**, [Livius777](http://osu.ppy.sh/u/Livius777), [magax](http://osu.ppy.sh/u/magax)                                                                                                                                                             |
+
+| Country                                      | Group D                                                                                                                                                                                                                                                                                 |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](../../../../shared/Us.gif) United States | **[MMzz](http://osu.ppy.sh/u/MMzz)**, [Backfire](http://osu.ppy.sh/u/Backfire), [LoLBryster](http://osu.ppy.sh/u/LoLBryster), [OzzyOzrock](http://osu.ppy.sh/u/OzzyOzrock), [burntpurple1](http://osu.ppy.sh/u/burntpurple1), [AnFace](http://osu.ppy.sh/u/AnFace)                      |
+| ![](../../../../shared/Cl.gif) Chile         | **[-Anhedonia-](http://osu.ppy.sh/u/-Anhedonia-)**, [megadaisukeone](http://osu.ppy.sh/u/megadaisukeone), [Gonzaalooo](http://osu.ppy.sh/u/Gonzaalooo), [MikuWhiteRockShooter](http://osu.ppy.sh/u/MikuWhiteRockShooter)                                                                |
+| ![](../../../../shared/Ph.gif) Philippines   | **[Primrea](http://osu.ppy.sh/u/Primrea)**, [senkai](http://osu.ppy.sh/u/senkai), [Pizzicato](http://osu.ppy.sh/u/Pizzicato), [Kotaro](http://osu.ppy.sh/u/Kotaro)                                                                                                                      |
+| ![](../../../../shared/Pl.gif) Poland        | **[Acrith](http://osu.ppy.sh/u/Acrith)**, [DarkStoorM](http://osu.ppy.sh/u/DarkStoorM), [Minkodon](http://osu.ppy.sh/u/Minkodon), [LZMieczu](http://osu.ppy.sh/u/LZMieczu), [Sylwia132](http://osu.ppy.sh/u/Sylwia132), [IsonamiPL](http://osu.ppy.sh/u/IsonamiPL)                      |
+| ![](../../../../shared/Hk.gif) Hong Kong     | **[thomas1195](http://osu.ppy.sh/u/thomas1195)**, [Andrew Chow](http://osu.ppy.sh/u/Andrew%20Chow), [[yuyuko_Saigyouj]](http://osu.ppy.sh/u/1378994), [ice man007](http://osu.ppy.sh/u/ice%20man007), [Jikson[m9]](http://osu.ppy.sh/u/1485257), [aabc271](http://osu.ppy.sh/u/aabc271) |
 
 ------------------------------------------------------------------------
 
@@ -94,182 +102,234 @@ Mappools
 Finals
 ------
 
-[Click here to download whole pool in one pack!](http://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)
+[Click here to download whole pool in one pack!](//www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)
 
-| NoMod                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------|
-| [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/b/297950)            |
-| [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/b/284037)                                                     |
-| [xi - FREEDOM DiVE (Short Ver.) (OnosakiHito) \[Ura Oni\]](https://osu.ppy.sh/b/374699)                                           |
-| \[<https://osu.ppy.sh/b/336550> LeaF - Nano Death                                                                                 |
-| [D.J.Amuro Vs MAX MAXIMIZER - HAERETICUS (Strawberry) \[Firce777's Taiko Oni\]](https://osu.ppy.sh/b/243795)                      |
-| [sHimaU - Slotcore is Dead (Alumetorz) \[Ura Oni\]](https://osu.ppy.sh/b/306202)                                                  |
-| Hidden                                                                                                                            |
-| [Toyosaki Aki - GO! GO! MANIAC (TV Size) (climbb65588) \[youngdown's Drum :3\]](https://osu.ppy.sh/b/53930)                       |
-| [doriko - Yuuhi Zaka (Athena Tennos) \[Ts8zs' Taiko\]](https://osu.ppy.sh/b/167872)                                               |
-| [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](https://osu.ppy.sh/b/70966)                                                      |
-| [Spring Head - Fallen Angel (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/51769)                                      |
-| HardRock                                                                                                                          |
-| [Yousei Teikoku - Asgard (Lybydose) \[Ozzy's Taiko\]](https://osu.ppy.sh/b/100260)                                                |
-| [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Firce777's Inner Oni\]](https://osu.ppy.sh/b/332373)                               |
-| [SAVE THE QUEEN - EX-Termination (Jenny) \[Taiko Oni\]](https://osu.ppy.sh/b/170728)                                              |
-| [Zektbach - L'erisia(Primal Logic) (AngelHoney) \[Firce777's Taiko\]](https://osu.ppy.sh/b/188757)                                |
-| DoubleTime                                                                                                                        |
-| [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo\[iceeicee\]) \[Climbb & aabc's Taiko Oni\]](https://osu.ppy.sh/b/252518) |
-| [Cuvelia - Tenkuu no Yoake (AngelHoney) \[Tama's Taiko Oni\]](https://osu.ppy.sh/b/148012)                                        |
-| [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/173048)                                                 |
-| [Megpoid GUMI - Chocolate (Chewin) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/164075)                                              |
-| FreeMod                                                                                                                           |
-| [t+pazolite - to Luv me, I \*\*\* for u. (reprise) (pekos) \[Taikocalypse\]](https://osu.ppy.sh/b/135070)                         |
-| [Igorrr - Unpleasant Sonata (Sieg) \[Loctav's Oni\]](https://osu.ppy.sh/b/262458)                                                 |
-| [t+pazolite feat. Rizna - Imcomplete Cherry Girl (TKSalt) \[KrazySalt (TWC Version)\]](https://osu.ppy.sh/b/378734)               |
-| [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/170038)                                   |
-| Tiebreaker                                                                                                                        |
-| **[Tatsh - IMAGE -MATERIAL- <Version 0> (Scorpiour) \[Firce777's Taiko Oni\]](https://osu.ppy.sh/b/261205)**                      |
+| NoMod                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------|
+| [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](//osu.ppy.sh/b/297950) |
+| [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](//osu.ppy.sh/b/284037)                                          |
+| [xi - FREEDOM DiVE (Short Ver.) (OnosakiHito) \[Ura Oni\]](//osu.ppy.sh/b/374699)                                |
+| [LeaF - Nano Death!!!!!!! (LunaticP) \[Taiko Eclipse\]](//osu.ppy.sh/b/336550)                                   |
+| [D.J.Amuro Vs MAX MAXIMIZER - HAERETICUS (Strawberry) \[Firce777's Taiko Oni\]](//osu.ppy.sh/b/243795)           |
+| [sHimaU - Slotcore is Dead (Alumetorz) \[Ura Oni\]](//osu.ppy.sh/b/306202)                                       |
+
+| Hidden                                                                                                |
+|-------------------------------------------------------------------------------------------------------|
+| [Toyosaki Aki - GO! GO! MANIAC (TV Size) (climbb65588) \[youngdown's Drum :3\]](//osu.ppy.sh/b/53930) |
+| [doriko - Yuuhi Zaka (Athena Tennos) \[Ts8zs' Taiko\]](//osu.ppy.sh/b/167872)                         |
+| [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](//osu.ppy.sh/b/70966)                                |
+| [Spring Head - Fallen Angel (soulfear) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/51769)                |
+
+| HardRock                                                                                      |
+|-----------------------------------------------------------------------------------------------|
+| [Yousei Teikoku - Asgard (Lybydose) \[Ozzy's Taiko\]](//osu.ppy.sh/b/100260)                  |
+| [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Firce777's Inner Oni\]](//osu.ppy.sh/b/332373) |
+| [SAVE THE QUEEN - EX-Termination (Jenny) \[Taiko Oni\]](//osu.ppy.sh/b/170728)                |
+| [Zektbach - L'erisia(Primal Logic) (AngelHoney) \[Firce777's Taiko\]](//osu.ppy.sh/b/188757)  |
+
+| DoubleTime                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo\[iceeicee\]) \[Climbb & aabc's Taiko Oni\]](//osu.ppy.sh/b/252518) |
+| [Cuvelia - Tenkuu no Yoake (AngelHoney) \[Tama's Taiko Oni\]](//osu.ppy.sh/b/148012)                                        |
+| [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](//osu.ppy.sh/b/173048)                                                 |
+| [Megpoid GUMI - Chocolate (Chewin) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/164075)                                              |
+
+| FreeMod                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------|
+| [t+pazolite - to Luv me, I \*\*\* for u. (reprise) (pekos) \[Taikocalypse\]](//osu.ppy.sh/b/135070)           |
+| [Igorrr - Unpleasant Sonata (Sieg) \[Loctav's Oni\]](//osu.ppy.sh/b/262458)                                   |
+| [t+pazolite feat. Rizna - Imcomplete Cherry Girl (TKSalt) \[KrazySalt (TWC Version)\]](//osu.ppy.sh/b/378734) |
+| [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](//osu.ppy.sh/b/170038)                     |
+
+| Tiebreaker                                                                                               |
+|----------------------------------------------------------------------------------------------------------|
+| **[Tatsh - IMAGE -MATERIAL- \<Version 0\> (Scorpiour) \[Firce777's Taiko Oni\]](//osu.ppy.sh/b/261205)** |
 
 Semi-finals
 -----------
 
-[Click here to download whole pool in one pack!](http://www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)
+[Click here to download whole pool in one pack!](//www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)
 
-| NoMod                                                                                                      |
-|------------------------------------------------------------------------------------------------------------|
-| [Sota Fujimori - WOBBLE IMPACT (Loctav) \[Inner Oni\]](https://osu.ppy.sh/b/375040)                        |
-| [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/b/291218)                         |
-| [Nekomata Master - Smile of Split (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/171679)                |
-| [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Taikore\]](https://osu.ppy.sh/b/119914) |
-| [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/b/174345)                 |
-| [The Quick Brown Fox - HIT AND RUN IN 1920 A.D. (kazukisinx) \[Inner Oni\]](https://osu.ppy.sh/b/218190)   |
-| Hidden                                                                                                     |
-| [fripSide - memory of snow (KanaRin) \[Taiko Collab\]](https://osu.ppy.sh/b/89239)                         |
-| [Atoguru - Mr.Liar (sirjuyt) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/111015)                             |
-| [Madeon - Shuriken (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/112818)                               |
-| [M2U - Masquerade (- Kagami Yuki -) \[Inner Oni\]](https://osu.ppy.sh/b/332272)                            |
-| HardRock                                                                                                   |
-| [Lon - Yuru Fuwa Jukai Girl (Love) \[Oni\]](https://osu.ppy.sh/b/315972)                                   |
-| [Hatsune Miku - Hatsune Miku no Shuuen (DJPop) \[31's Taiko\]](https://osu.ppy.sh/b/53283)                 |
-| \[<https://osu.ppy.sh/b/160078> Prim - Koisuru\*Uchuu Sensou                                               |
-| [paraoka - boot (rickyboi) \[inaba's Taiko\]](https://osu.ppy.sh/b/157233)                                 |
-| DoubleTime                                                                                                 |
-| [SHK - Weep Irish (AngelHoney) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/95775)                           |
-| [3L - Come Back To Me (orioncomet) \[Taiko\]](https://osu.ppy.sh/b/87650)                                  |
-| [Niko - Night of Fire (Gabi) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/77710)                         |
-| [O-Life Japan - Yamanobori Kibun (qinche) \[Taiko\]](https://osu.ppy.sh/b/100178)                          |
-| FreeMod                                                                                                    |
-| [07th Expansion - rog-unlimitation (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/110148)     |
-| [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[qoot8123's Taiko Oni\]](https://osu.ppy.sh/b/216148)             |
-| [Renard - Why Am I So Angry (Blue Dragon) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/260832)           |
-| [Shounen Radio - uen (KDS) \[Taiko DS\]](https://osu.ppy.sh/b/140772)                                      |
-| Tiebreaker                                                                                                 |
-| **[Yousei Teikoku - gothic lolita agitator (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/b/267841)**          |
+| NoMod                                                                                                |
+|------------------------------------------------------------------------------------------------------|
+| [Sota Fujimori - WOBBLE IMPACT (Loctav) \[Inner Oni\]](//osu.ppy.sh/b/375040)                        |
+| [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](//osu.ppy.sh/b/291218)                         |
+| [Nekomata Master - Smile of Split (Charles445) \[MM's Taiko\]](//osu.ppy.sh/b/171679)                |
+| [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Taikore\]](//osu.ppy.sh/b/119914) |
+| [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](//osu.ppy.sh/b/174345)                 |
+| [The Quick Brown Fox - HIT AND RUN IN 1920 A.D. (kazukisinx) \[Inner Oni\]](//osu.ppy.sh/b/218190)   |
+
+| Hidden                                                                       |
+|------------------------------------------------------------------------------|
+| [fripSide - memory of snow (KanaRin) \[Taiko Collab\]](//osu.ppy.sh/b/89239) |
+| [Atoguru - Mr.Liar (sirjuyt) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/111015)     |
+| [Madeon - Shuriken (Charles445) \[MM's Taiko\]](//osu.ppy.sh/b/112818)       |
+| [M2U - Masquerade (- Kagami Yuki -) \[Inner Oni\]](//osu.ppy.sh/b/332272)    |
+
+| HardRock                                                                                         |
+|--------------------------------------------------------------------------------------------------|
+| [Lon - Yuru Fuwa Jukai Girl (Love) \[Oni\]](//osu.ppy.sh/b/315972)                               |
+| [Hatsune Miku - Hatsune Miku no Shuuen (DJPop) \[31's Taiko\]](//osu.ppy.sh/b/53283)             |
+| [Prim - Koisuru*Uchuu Sensou!! (Ryu* Remix) (DoKoLP) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/160078) |
+| [paraoka - boot (rickyboi) \[inaba's Taiko\]](//osu.ppy.sh/b/157233)                             |
+
+| DoubleTime                                                                   |
+|------------------------------------------------------------------------------|
+| [SHK - Weep Irish (AngelHoney) \[Kana's Taiko Oni\]](//osu.ppy.sh/b/95775)   |
+| [3L - Come Back To Me (orioncomet) \[Taiko\]](//osu.ppy.sh/b/87650)          |
+| [Niko - Night of Fire (Gabi) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/77710) |
+| [O-Life Japan - Yamanobori Kibun (qinche) \[Taiko\]](//osu.ppy.sh/b/100178)  |
+
+| FreeMod                                                                                          |
+|--------------------------------------------------------------------------------------------------|
+| [07th Expansion - rog-unlimitation (AngelHoney) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/110148) |
+| [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[qoot8123's Taiko Oni\]](//osu.ppy.sh/b/216148)         |
+| [Renard - Why Am I So Angry (Blue Dragon) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/260832)       |
+| [Shounen Radio - uen (KDS) \[Taiko DS\]](//osu.ppy.sh/b/140772)                                  |
+
+| Tiebreaker                                                                                  |
+|---------------------------------------------------------------------------------------------|
+| **[Yousei Teikoku - gothic lolita agitator (TKSalt) \[Inner Oni\]](//osu.ppy.sh/b/267841)** |
 
 Quarter-finals
 --------------
 
-[Click here to download whole pool in one pack!](http://www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)
+[Click here to download whole pool in one pack!](//www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)
 
-| NoMod                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------|
-| [Lite Show Magic - Crack traxxxx (KinomiCandy) \[Oni\]](https://osu.ppy.sh/b/338140)                                    |
-| [bj.HaLo - G-garden (ampzz) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/371678)                                           |
-| [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](https://osu.ppy.sh/b/165342)                            |
-| [DJ Sharpnel - IVALTEK (happy30) \[Phedondon\]](https://osu.ppy.sh/b/155101)                                            |
-| [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/145511)                                     |
-| [Black Raison d'etre - INSIDE IDENTITY (Natsu) \[aabc's Taiko Oni\]](https://osu.ppy.sh/b/280103)                       |
-| Hidden                                                                                                                  |
-| [Sakakibara Yui - Toki Tsukasadoru Juuni no Meiyaku (TV Size) (gina91189) \[Car's Taiko\]](https://osu.ppy.sh/b/104568) |
-| [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[Taiko\]](https://osu.ppy.sh/b/119583)      |
-| [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/86571)        |
-| [cosMo@Bousou-P - neu BSP style (Bass) \[31's Taiko\]](https://osu.ppy.sh/b/155964)                                     |
-| HardRock                                                                                                                |
-| [Denkare - Satsuriku no Keifu (lolcubes) \[Oni\]](https://osu.ppy.sh/b/257366)                                          |
-| [Qrispy Joybox - snow prism (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/b/206916)                                        |
-| [Yucha-P - Thieves Night Trick (Fraolinch) \[Taiko Trick\]](https://osu.ppy.sh/b/367777)                                |
-| [Sta - Iris (MMzz) \[Oni\]](https://osu.ppy.sh/b/279828)                                                                |
-| DoubleTime                                                                                                              |
-| [Tsubaki - Aijou Pandemic (Nymph) \[KS's Taiko\]](https://osu.ppy.sh/b/129682)                                          |
-| [ave;new feat. Sakura Saori - My Sweet Lady (Short Ver.) (osuplayer111) \[Taiko Oni\]](https://osu.ppy.sh/b/131073)     |
-| [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Taiko Oni\]](https://osu.ppy.sh/b/103398)                        |
-| [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Taiko Oni\]](https://osu.ppy.sh/b/153393)                                  |
-| FreeMod                                                                                                                 |
-| [kors k feat. Furukawa Mirin - Drive Me Crazy (ampzz) \[Kurosanyan's Oni\]](https://osu.ppy.sh/b/215497)                |
-| [Mutsuhiko Izumi - Red Goose (lepidopodus) \[Oni\]](https://osu.ppy.sh/b/169371)                                        |
-| [IOSYS - RE:Usatei (OzzyOzrock) \[Taiko Oni\]](https://osu.ppy.sh/b/103022)                                             |
-| [capsule - JUMPER (Mafiamaster) \[Roko-Don's Taiko\]](https://osu.ppy.sh/b/74040)                                       |
-| Tiebreaker                                                                                                              |
-| **[Demetori - Higan Retour ~ View of The River Styx (RLC) \[Love's Oni\]](https://osu.ppy.sh/s/140944)**                |
+| NoMod                                                                                       |
+|---------------------------------------------------------------------------------------------|
+| [Lite Show Magic - Crack traxxxx (KinomiCandy) \[Oni\]](//osu.ppy.sh/b/338140)              |
+| [bj.HaLo - G-garden (ampzz) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/371678)                     |
+| [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](//osu.ppy.sh/b/165342)      |
+| [DJ Sharpnel - IVALTEK (happy30) \[Phedondon\]](//osu.ppy.sh/b/155101)                      |
+| [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](//osu.ppy.sh/b/145511)               |
+| [Black Raison d'etre - INSIDE IDENTITY (Natsu) \[aabc's Taiko Oni\]](//osu.ppy.sh/b/280103) |
+
+| Hidden                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------|
+| [Sakakibara Yui - Toki Tsukasadoru Juuni no Meiyaku (TV Size) (gina91189) \[Car's Taiko\]](//osu.ppy.sh/b/104568) |
+| [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[Taiko\]](//osu.ppy.sh/b/119583)      |
+| [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](//osu.ppy.sh/b/86571)        |
+| [cosMo@Bousou-P - neu BSP style (Bass) \[31's Taiko\]](//osu.ppy.sh/b/155964)                                     |
+
+| HardRock                                                                           |
+|------------------------------------------------------------------------------------|
+| [Denkare - Satsuriku no Keifu (lolcubes) \[Oni\]](//osu.ppy.sh/b/257366)           |
+| [Qrispy Joybox - snow prism (TKSalt) \[Inner Oni\]](//osu.ppy.sh/b/206916)         |
+| [Yucha-P - Thieves Night Trick (Fraolinch) \[Taiko Trick\]](//osu.ppy.sh/b/367777) |
+| [Sta - Iris (MMzz) \[Oni\]](//osu.ppy.sh/b/279828)                                 |
+
+| DoubleTime                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------|
+| [Tsubaki - Aijou Pandemic (Nymph) \[KS's Taiko\]](//osu.ppy.sh/b/129682)                                      |
+| [ave;new feat. Sakura Saori - My Sweet Lady (Short Ver.) (osuplayer111) \[Taiko Oni\]](//osu.ppy.sh/b/131073) |
+| [NAOKI feat. SMiLE.dk - A Geisha's Dream (yongtw123) \[Taiko Oni\]](//osu.ppy.sh/b/103398)                    |
+| [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Taiko Oni\]](//osu.ppy.sh/b/153393)                              |
+
+| FreeMod                                                                                            |
+|----------------------------------------------------------------------------------------------------|
+| [kors k feat. Furukawa Mirin - Drive Me Crazy (ampzz) \[Kurosanyan's Oni\]](//osu.ppy.sh/b/215497) |
+| [Mutsuhiko Izumi - Red Goose (lepidopodus) \[Oni\]](//osu.ppy.sh/b/169371)                         |
+| [IOSYS - RE:Usatei (OzzyOzrock) \[Taiko Oni\]](//osu.ppy.sh/b/103022)                              |
+| [capsule - JUMPER (Mafiamaster) \[Roko-Don's Taiko\]](//osu.ppy.sh/b/74040)                        |
+
+| Tiebreaker                                                                                         |
+|----------------------------------------------------------------------------------------------------|
+| **[Demetori - Higan Retour ~ View of The River Styx (RLC) \[Love's Oni\]](//osu.ppy.sh/s/140944)** |
 
 Round 16
 --------
 
-**[Click here to download whole pool in one pack!](http://www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
+**[Click here to download whole pool in one pack!](//www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
 
-| NoMod                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| [celas - Azul (Remix) (AngelHoney) \[KUMA's Taiko\]](https://osu.ppy.sh/b/128937)                                                |
-| [SHIKI - BABYLON (miccoliasms) \[Alace's Taiko\]](https://osu.ppy.sh/b/104218)                                                   |
-| [WESTARENA by MLREC. - ROUND! (Sushi) \[Inner Oni\]](https://osu.ppy.sh/b/240372)                                                |
-| [Linked Horizon - Jiyuu no Tsubasa (TV Size) (Kuria) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/277009)                          |
-| [Ryu\* Vs. L.E.D.-G - PARADISE LOST (ignorethis) \[Taiko\]](http://osu.ppy.sh/b/122471)                                          |
-| [Kano - Houkago Stride (Short Ver.) (Lundlerol) \[Oni\]](https://osu.ppy.sh/b/225075)                                            |
-| Hidden                                                                                                                           |
-| [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](http://osu.ppy.sh/b/249943)                                                 |
-| [Rise Against - Prayer of the Refugee (Nashmun) \[Oni\]](http://osu.ppy.sh/b/287969)                                             |
-| [Nomizu Iori - \*\*\* Passionate (TV Size) (Vicho-kun) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/148982)                      |
-| [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](http://osu.ppy.sh/b/307654)                          |
-| HardRock                                                                                                                         |
-| [TOMOSUKE - Macuilxochitl (Charles445) \[\[Shalon\]'s Jubeataiko\]](http://osu.ppy.sh/b/140245)                                  |
-| [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) \[Taiko Oni\]](http://osu.ppy.sh/b/172872)                           |
-| [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](http://osu.ppy.sh/b/161427)                             |
-| [Denkare - gemini (lolcubes) \[Inner Oni\]](http://osu.ppy.sh/b/299163)                                                          |
-| DoubleTime                                                                                                                       |
-| [Global Deejays - The Sound of San Francisco (Sey) \[OniZoda\]](https://osu.ppy.sh/b/264930)                                     |
-| [PSY - GANGNAM STYLE (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](http://osu.ppy.sh/b/169840)                                      |
-| [Croove & Mr. Funky - OUT LAW : Reborn (MoonFragrance) \[Taiko\]](http://osu.ppy.sh/b/66082)                                     |
-| [Cream puff - Mermaid girl (tsuka) \[Taiko\]](http://osu.ppy.sh/b/114451)                                                        |
-| FreeMod                                                                                                                          |
-| [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (TV Size) (wcx19911123) \[Kanpakyin's Taiko Oni\]](http://osu.ppy.sh/b/118502) |
-| [Galdeira - Almagest (Wuiss) \[31's Taiko\]](http://osu.ppy.sh/b/76993)                                                          |
-| [DJ TOTTO - Windy Fairy (Raose) \[TK'S Oni\]](http://osu.ppy.sh/b/272798)                                                        |
-| [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Scorpiour) \[Wmf's Taiko\]](http://osu.ppy.sh/b/249371)                         |
-| Tiebreaker                                                                                                                       |
-| **[DystopiaGround - AugoEidEs (jonathanlfj) \[Ono's Taiko Oni\]](http://osu.ppy.sh/b/353849)**                                   |
+| NoMod                                                                                             |
+|---------------------------------------------------------------------------------------------------|
+| [celas - Azul (Remix) (AngelHoney) \[KUMA's Taiko\]](//osu.ppy.sh/b/128937)                       |
+| [SHIKI - BABYLON (miccoliasms) \[Alace's Taiko\]](//osu.ppy.sh/b/104218)                          |
+| [WESTARENA by MLREC. - ROUND! (Sushi) \[Inner Oni\]](//osu.ppy.sh/b/240372)                       |
+| [Linked Horizon - Jiyuu no Tsubasa (TV Size) (Kuria) \[Kana's Taiko Oni\]](//osu.ppy.sh/b/277009) |
+| [Ryu\* Vs. L.E.D.-G - PARADISE LOST (ignorethis) \[Taiko\]](//osu.ppy.sh/b/122471)                |
+| [Kano - Houkago Stride (Short Ver.) (Lundlerol) \[Oni\]](//osu.ppy.sh/b/225075)                   |
+
+| Hidden                                                                                                |
+|-------------------------------------------------------------------------------------------------------|
+| [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](//osu.ppy.sh/b/249943)                           |
+| [Rise Against - Prayer of the Refugee (Nashmun) \[Oni\]](//osu.ppy.sh/b/287969)                       |
+| [Nomizu Iori - \*\*\* Passionate (TV Size) (Vicho-kun) \[Climbb's Taiko Oni\]](//osu.ppy.sh/b/148982) |
+| [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/307654)    |
+
+| HardRock                                                                                          |
+|---------------------------------------------------------------------------------------------------|
+| [TOMOSUKE - Macuilxochitl (Charles445) \[\[Shalon\]'s Jubeataiko\]](//osu.ppy.sh/b/140245)        |
+| [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) \[Taiko Oni\]](//osu.ppy.sh/b/172872) |
+| [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](//osu.ppy.sh/b/161427)   |
+| [Denkare - gemini (lolcubes) \[Inner Oni\]](//osu.ppy.sh/b/299163)                                |
+
+| DoubleTime                                                                              |
+|-----------------------------------------------------------------------------------------|
+| [Global Deejays - The Sound of San Francisco (Sey) \[OniZoda\]](//osu.ppy.sh/b/264930)  |
+| [PSY - GANGNAM STYLE (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/169840)  |
+| [Croove & Mr. Funky - OUT LAW : Reborn (MoonFragrance) \[Taiko\]](//osu.ppy.sh/b/66082) |
+| [Cream puff - Mermaid girl (tsuka) \[Taiko\]](//osu.ppy.sh/b/114451)                    |
+
+| FreeMod                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (TV Size) (wcx19911123) \[Kanpakyin's Taiko Oni\]](//osu.ppy.sh/b/118502) |
+| [Galdeira - Almagest (Wuiss) \[31's Taiko\]](//osu.ppy.sh/b/76993)                                                          |
+| [DJ TOTTO - Windy Fairy (Raose) \[TK'S Oni\]](//osu.ppy.sh/b/272798)                                                        |
+| [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Scorpiour) \[Wmf's Taiko\]](//osu.ppy.sh/b/249371)                         |
+
+| Tiebreaker                                                                                |
+|-------------------------------------------------------------------------------------------|
+| **[DystopiaGround - AugoEidEs (jonathanlfj) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/353849)** |
+
 
 Group Stage
 -----------
 
-**[Click here to download whole pool in one pack!](http://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
+**[Click here to download whole pool in one pack!](//www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
 
-| NoMod                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------|
-| [Loos - Koi Yomi Zakura (NatsumeRin) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/111835)                                  |
-| [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) \[31's Taiko\]](https://osu.ppy.sh/b/171889)           |
-| [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/b/121335)                                                       |
-| [Ellie Goulding - Burn (Nashmun) \[Oni\]](https://osu.ppy.sh/s/140698)                                                   |
-| [bbn - Identic Conflict (Flower) \[Taiko Oni\]](https://osu.ppy.sh/b/176435)                                             |
-| [Tsukasa - Visions (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/261694)                                                    |
-| [Nico Nico Douga - Owens (AngelHoney) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/76538)                                |
-| [incinerate - Purgatorium (RikiH\_) \[inaba's Taiko Oni\]](https://osu.ppy.sh/b/168534)                                  |
-| [LeaF - Calamity Fortune (Flower) \[TK's Oni\]](https://osu.ppy.sh/s/96103)                                              |
-| [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Inner Oni\]](https://osu.ppy.sh/b/285041)                               |
-| Hidden                                                                                                                   |
-| [ONE OK ROCK - Never Let This Go (qoot8123) \[Oni\]](https://osu.ppy.sh/b/222303)                                        |
-| [Yooh - Dynasty (HelloSCV) \[714's Taiko Oni\]](https://osu.ppy.sh/b/229726)                                             |
-| [Mizuki Nana - Vitalization (TV Size) (Flower) \[Oni\]](https://osu.ppy.sh/b/279373)                                     |
-| HardRock                                                                                                                 |
-| [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni (TWC Version)\]](https://osu.ppy.sh/b/307304)                         |
-| [UPLIFT SPICE - Omega Rhythm (toara\_fict) \[Inner Oni\]](https://osu.ppy.sh/b/276622)                                   |
-| [VY1 - Cyber Thunder Cider (tutuhaha) \[Sp3's Taiko\]](https://osu.ppy.sh/b/146915)                                      |
-| DoubleTime                                                                                                               |
-| [Kara - Step (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/137582)                                                     |
-| [8\#Prince - take it easy (Pokie) \[ReySHel's Taiko Oni\]](https://osu.ppy.sh/b/222527)                                  |
-| [K2 - What's Your Deep Wish? (lolcubes) \[Oni\]](https://osu.ppy.sh/b/169891)                                            |
-| FreeMod                                                                                                                  |
-| [Shihori - Bloody Night (Frostmourne) \[Boss Taiko Oni\]](https://osu.ppy.sh/b/149087)                                   |
-| [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/124413) |
-| [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Climbb & Kana's Taiko Oni\]](https://osu.ppy.sh/b/154164)    |
-| Tiebreaker                                                                                                               |
-| **[paraoka - Manima ni (Sandpig) \[Pangko\]](https://osu.ppy.sh/b/136184)**                                              |
+| NoMod                                                                                                    |
+|----------------------------------------------------------------------------------------------------------|
+| [Loos - Koi Yomi Zakura (NatsumeRin) \[Kana's Taiko Oni\]](//osu.ppy.sh/b/111835)                        |
+| [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) \[31's Taiko\]](//osu.ppy.sh/b/171889) |
+| [cranky - R176 (taka1235) \[Pangko\]](//osu.ppy.sh/b/121335)                                             |
+| [Ellie Goulding - Burn (Nashmun) \[Oni\]](//osu.ppy.sh/s/140698)                                         |
+| [bbn - Identic Conflict (Flower) \[Taiko Oni\]](//osu.ppy.sh/b/176435)                                   |
+| [Tsukasa - Visions (MMzz) \[Inner Oni\]](//osu.ppy.sh/b/261694)                                          |
+| [Nico Nico Douga - Owens (AngelHoney) \[Climbb's Taiko Oni\]](//osu.ppy.sh/b/76538)                      |
+| [incinerate - Purgatorium (RikiH\_) \[inaba's Taiko Oni\]](//osu.ppy.sh/b/168534)                        |
+| [LeaF - Calamity Fortune (Flower) \[TK's Oni\]](//osu.ppy.sh/s/96103)                                    |
+| [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Inner Oni\]](//osu.ppy.sh/b/285041)                     |
+
+| Hidden                                                                         |
+|--------------------------------------------------------------------------------|
+| [ONE OK ROCK - Never Let This Go (qoot8123) \[Oni\]](//osu.ppy.sh/b/222303)    |
+| [Yooh - Dynasty (HelloSCV) \[714's Taiko Oni\]](//osu.ppy.sh/b/229726)         |
+| [Mizuki Nana - Vitalization (TV Size) (Flower) \[Oni\]](//osu.ppy.sh/b/279373) |
+
+| HardRock                                                                                   |
+|--------------------------------------------------------------------------------------------|
+| [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni (TWC Version)\]](//osu.ppy.sh/b/307304) |
+| [UPLIFT SPICE - Omega Rhythm (toara\_fict) \[Inner Oni\]](//osu.ppy.sh/b/276622)           |
+| [VY1 - Cyber Thunder Cider (tutuhaha) \[Sp3's Taiko\]](//osu.ppy.sh/b/146915)              |
+
+| DoubleTime                                                                        |
+|-----------------------------------------------------------------------------------|
+| [Kara - Step (MoonFragrance) \[Taiko\]](//osu.ppy.sh/b/137582)                    |
+| [8\#Prince - take it easy (Pokie) \[ReySHel's Taiko Oni\]](//osu.ppy.sh/b/222527) |
+| [K2 - What's Your Deep Wish? (lolcubes) \[Oni\]](//osu.ppy.sh/b/169891)           |
+
+| FreeMod                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------|
+| [Shihori - Bloody Night (Frostmourne) \[Boss Taiko Oni\]](//osu.ppy.sh/b/149087)                                   |
+| [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/124413) |
+| [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Climbb & Kana's Taiko Oni\]](//osu.ppy.sh/b/154164)    |
+
+| Tiebreaker                                                            |
+|-----------------------------------------------------------------------|
+| **[paraoka - Manima ni (Sandpig) \[Pangko\]](//osu.ppy.sh/b/136184)** |
+
 
 ------------------------------------------------------------------------
 
@@ -308,8 +368,8 @@ Tournament Registration
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](//docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
+    -   Captains may change their setup by [notifying the management](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
     -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 
 4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

@@ -1,50 +1,51 @@
-<img src="Owc2014 Logo.png" title="Owc2014 Logo.png" alt="Owc2014 Logo.png" width="540" />
+![OWC 2014 logo](logo.png)
 
-**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](http://osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
+**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](//osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](Kr.gif "fig:Kr.gif") 대한민국**입니다..
+저번 우승자는 **![](../../../../shared/Kr.gif) 대한민국**입니다..
 
 토너먼트 일정
 =============
 
-|                  |                          |
-|------------------|--------------------------|
+| Event      | Timestamp                |
+|------------|--------------------------|
 | 참가 신청 기간   | 02-26 Oct 2014           |
 | 조 추첨 (생방송) | 1 Nov 2014 14.00 (UTC+0) |
-| 조별 예선        | 8-9 Nov 2014             |
-| 16강전           | 15-16 Nov 2014           |
-| 8강전            | 22-23 Nov 2014           |
-| 준결승전         | 29-30 Nov 2014           |
-| 결승전 - 1주차   | 6-7 Dec 2014             |
-| 결승전 - 2주차   | 13-14 Dec 2014           |
-||
+| 조별 예선      | 8-9 Nov 2014             |
+| 16강전       | 15-16 Nov 2014           |
+| 8강전        | 22-23 Nov 2014           |
+| 준결승전       | 29-30 Nov 2014           |
+| 결승전 - 1주차  | 6-7 Dec 2014             |
+| 결승전 - 2주차  | 13-14 Dec 2014           |
 
 우승 상품
 =========
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
-|-------------------------------------------------------------------------|-------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 서포터 3개월                                          |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 서포터 1개월                                          |
+| Placing                                                    | Prizes                               |
+|------------------------------------------------------------|--------------------------------------|
+| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
+| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 서포터 3개월                              |
+| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 서포터 1개월                              |
 
 운영 위원
 =========
 
-| 토너먼트 관리 | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif")                                                       |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| 비트맵 선별   | ![](Nl.gif "fig:Nl.gif") | ![](No.gif "fig:No.gif") | ![](Kr.gif "fig:Kr.gif") | ![](De.gif "fig:De.gif")                            |
-| 방송          | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif")                                                       |
-| 해설          | ![](Us.gif "fig:Us.gif") | ![](Gb.gif "fig:Gb.gif") | ![](De.gif "fig:De.gif") | ![](Gb.gif "fig:Gb.gif") | ![](Us.gif "fig:Us.gif") |
-| 통계          | ![](Pl.gif "fig:Pl.gif")                                                                                                             |
+| Job     | Person(s)                                                                                                                                                                                                                                                    |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 토너먼트 관리 | ![](../../../../shared/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
+| 비트맵 선별  | ![](../../../../shared/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](../../../../shared/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
+| 방송      | ![](../../../../shared/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
+| 해설      | ![](../../../../shared/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](../../../../shared/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](../../../../shared/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](../../../../shared/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
+| 통계      | ![](../../../../shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 링크
 ====
 
--   [osu! World Cup 2014 트위치 방송](http://www.twitch.tv/osulive/)
--   [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [토론 장소](https://osu.ppy.sh/forum/p/3410198)
+-   [osu! World Cup 2014 트위치 방송](//www.twitch.tv/osulive/)
+-   [등록 양식](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+-   [토론 장소](//osu.ppy.sh/forum/p/3410198)
 
 ------------------------------------------------------------------------
 
@@ -85,13 +86,13 @@ Tournament Rules
         1.  주요 선수와 백업 선ㅅ에 차별을 두지 않습니다.
 
 2.  각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오. 또한 유저 프로필에 같은 국기를 달아야 합니다.
-3.  참가신청은 [**구글폼**](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng) 을 통해 제출한 다음, [Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
-    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)에게 알려주셔야 합니다.
+3.  참가신청은 [**구글폼**](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng) 을 통해 제출한 다음, [Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)에게 알려주셔야 합니다.
     -   확인 답장을 받으면, 정상 전송된 것입니다. 그러면, 등록과정이 진행되고 있는 것입니다.
 
 4.  모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
     1.  운영위원은 불충분한 게임 플레이 능력을 가진 플레이어의 등록을 거부할 수 있습니다.
-    2.  The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
+    2.  The Game Administration may reject registrations due to [the violation of the Terms of Services](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
 
 5.  총 32팀의 신청을 받습니다. 선착순입니다.
 6.  성공적으로 등록된 팀들은 신청 기간이 지난 후, 결과가 공지될 것입니다.
@@ -113,7 +114,7 @@ Tournament Rules
 
 4.  각 조별 1위와 2위는 Double Elimination 경기에 진출하게 됩니다.
 5.  각 조의 상위 2순위 팀은 Double Elimination 경기에 참가하게 되며, 하위 2순위 팀은 패자부활전에 참가하게 됩니다.
-6.  Based on [this graphic](http://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+6.  Based on [this graphic](//puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
 | Stage          | Match ID                |
 |----------------|-------------------------|
