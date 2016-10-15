@@ -3,7 +3,7 @@ The **Beatmap Nomination Group**, more commonly referred to as BN, is a group in
 Roles and Responsibilities
 --------------------------
 
-![The Nominator Badge](Nominator.png "fig:The Nominator Badge") 
+![The Nominator Badge](Nominator.png "fig:The Nominator Badge")
 
 Members of the **Beatmap Nomination Group** are responsible primarily for [modding](Modding "wikilink") the [pending beatmaps](Pending_Beatmap "wikilink") into the ranking cycle. BN are the people to go to for any modding or advice requests about anything mapping or modding related.
 
@@ -24,7 +24,7 @@ Also note: the "Modes" column of the table below denotes which game mode(s) the 
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Polish |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesian |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesian |
 | [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Cantonese, Chinese |
 | [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Dutch |
@@ -92,4 +92,4 @@ Also note: the "Modes" column of the table below denotes which game mode(s) the 
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chinese |
 
 
-<Category: Beatmapping> <Category:People>
+<Category: Beatmapping><Category:People>

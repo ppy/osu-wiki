@@ -186,4 +186,4 @@
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |
 
-[Category: People/JP](Category:_People/JP "wikilink")
+<Category: People/JP>

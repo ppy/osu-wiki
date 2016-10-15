@@ -3,7 +3,7 @@ El **Beatmap Nomination Group**, mas comúnmente referido como BN, es un grupo a
 Roles y Responsabilidades
 -------------------------
 
-![La insignia de "Nominator"](Nominator.png "fig:La insignia de "Nominator"") 
+![La insignia de "Nominator"](Nominator.png "fig:La insignia de "Nominator"")
 
 Los miembros del **Beatmap Nomination Group** son principalmente responsabes de [modear](ES:Modding "wikilink") los [beatmaps pendientes](ES:Pending_Beatmap "wikilink") en el ciclo de Ranking, los BN son personas que modean o toman pedidos sea para asesorar a los usuarios en el Mapeo o Modeo.
 
@@ -24,7 +24,7 @@ Otra nota: la columna de "Modos" de la tabla aqui abajo menciona en que modos de
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Polaco |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesio |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesio |
 | [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Cantonés, Chino |
 | [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Neerlandés |
@@ -91,4 +91,4 @@ Otra nota: la columna de "Modos" de la tabla aqui abajo menciona en que modos de
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Español |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chino |
 
-<Category:Beatmapping/ES> <Category:People/ES>
+<Category:Beatmapping/ES><Category:People/ES>

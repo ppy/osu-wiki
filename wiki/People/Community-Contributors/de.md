@@ -1,4 +1,4 @@
-![Contributor Abzeichen](Contributor_Badge.png "Contributor Abzeichen") 
+![Contributor Abzeichen](Contributor_Badge.png "Contributor Abzeichen")
 
 Die "Community Mitwirkenden" sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, der zeigt, dass sie besonders nennenswert sind und etwas in und für die osu! Community getan haben.
 
@@ -26,4 +26,4 @@ Derzeitig tragen folgende User dieses Abzeichen:
 | [Sinistro](https://osu.ppy.sh/u/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](https://osu.ppy.sh/wiki/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Der erste Team- sowie BATmanager, der damals alleine das elitäre Beatmap Moderation Team aus dem Nichts gegründet hat. |
 
-<Category: Deutsch> <Category: People/DE>
+<Category: Deutsch><Category: People/DE>

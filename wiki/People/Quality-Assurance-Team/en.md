@@ -27,4 +27,4 @@ Team Members
 | [Okorin](https://osu.ppy.sh/u/1623405) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | German |
 | [Tari](https://osu.ppy.sh/u/1779172) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
 
-<Category:Beatmapping> <Category:People>
+<Category:Beatmapping><Category:People>

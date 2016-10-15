@@ -25,4 +25,4 @@
 
 小提示：所有 QAT 都能够熟练的使用英文进行交流，特别说明的除外。 [当前在任的 QAT 成员可以在这里看到](http://osu.ppy.sh/g/7)
 
-[Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink")
+<Category: Beatmapping/ZH>

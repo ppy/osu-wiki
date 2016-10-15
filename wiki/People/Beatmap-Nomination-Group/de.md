@@ -19,7 +19,7 @@ Mitglieder
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Polnisch |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesisch |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonesisch |
 | [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Kantonesisch, Chinesisch |
 | [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Niederländisch |
@@ -86,4 +86,4 @@ Mitglieder
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Spanisch |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chinesisch |
 
-<Category:Deutsch> <Category:Beatmapping/DE> <Category:People/DE>
+<Category:Deutsch><Category:Beatmapping/DE><Category:People/DE>

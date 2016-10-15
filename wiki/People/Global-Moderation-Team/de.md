@@ -61,4 +61,4 @@ Teammitglieder
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinesisch | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Ungarisch | Chat Moderation |
 
-<Category:Deutsch> <Category:People/DE>
+<Category:Deutsch><Category:People/DE>

@@ -3,7 +3,7 @@ Grupa **Nominatorów Beatmap**, bardziej znani jako BN, jest grupą, która zajm
 Role i zadania
 --------------
 
-![Odznaka Nominatora](nominator.png "Odznaka Nominatora") 
+![Odznaka Nominatora](nominator.png "Odznaka Nominatora")
 
 Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding "wikilink") [oczekujących map](Pending_Beatmap "wikilink"). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
 
@@ -21,7 +21,7 @@ Członkowie zespołu
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Tak](../../shared/Insane-f.png "Tak") | ![Nie](../../shared/Na-m.png "Nie") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Tak](../../shared/Insane-m.png "Tak") | Polski |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Tak](../../shared/Insane-m.png "Tak") | Indonezyjski |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Tak](../../shared/Insane-m.png "Tak") | Indonezyjski |
 | [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Tak](../../shared/Insane-s.png "Tak") | ![Nie](../../shared/Na-t.png "Nie") | ![Tak](../../shared/Insane-f.png "Tak") | ![Nie](../../shared/Na-m.png "Nie") | |
 | [alienflybot](https://osu.ppy.sh/u/636114) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Tak](../../shared/Insane-f.png "Tak") | ![Nie](../../shared/Na-m.png "Nie") | Kantoński, Chiński |
 | [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Tak](../../shared/Insane-s.png "Tak") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Nie](../../shared/Na-m.png "Nie") | Holenderski |
@@ -88,4 +88,4 @@ Członkowie zespołu
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Tak](../../shared/Insane-f.png "Tak") | ![Nie](../../shared/Na-m.png "Nie") | Hiszpański |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![Nie](../../shared/Na-s.png "Nie") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Tak](../../shared/Insane-m.png "Tak") | Chiński |
 
-[Category: Beatmapping/PL](Category:_Beatmapping/PL "wikilink") <Category:People/PL>
+<Category: Beatmapping/PL><Category:People/PL>

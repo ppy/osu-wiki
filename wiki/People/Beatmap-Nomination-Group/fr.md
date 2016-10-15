@@ -7,7 +7,7 @@ Contrairement aux QAT, les BN ne font pas partie intégrante du staff, ils ne po
 Rôles et responsabilités
 ------------------------
 
-![Un badge de nominateur.](Nominator.png "Un badge de nominateur.") 
+![Un badge de nominateur.](Nominator.png "Un badge de nominateur.")
 
 Les BN sont rapidement visibles sur la section modding grâce à leur badge caractéristique. Leur principal travail est de [modder](FR:Modding "wikilink") les beatmaps en attente afin de leur faire respecter les [critères de ranking](FR:Ranking_Criteria "wikilink"). S'ils trouvent une map correspondant à tous les critères, ils ont le devoir de la [qualifier](FR:Beatmap_Approval "wikilink"). Ils ne peuvent pas, en revanche, effectuer plus d'une dizaine de qualifications par jour, pour toute l'équipe. **Le premier arrivé est donc le premier servi.**
 Un [QAT](FR:Quality_Assurance_Team "wikilink") vérifiera ensuite la map pour vérifier si elle correspond bien aux critères de ranking, puis l'acceptera en tant que beatmap classée ou la refusera.
@@ -30,7 +30,7 @@ Liste des BN
 | ----- | -------- | ----- | --- | ----- | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Polonais |
-| [[ A v a l o n]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonésien |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonésien |
 | [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
 | [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
 | [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Néerlandais |
@@ -97,4 +97,4 @@ Liste des BN
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Espagnol |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chinois |
 
-<Category:Beatmapping/FR> <Category:People/FR>
+<Category:Beatmapping/FR><Category:People/FR>

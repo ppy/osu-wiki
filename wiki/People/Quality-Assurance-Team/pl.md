@@ -27,4 +27,4 @@ Członkowie zespołu
 | [Okorin](https://osu.ppy.sh/u/1623405) | ![Tak](../../shared/Insane-s.png "Tak") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Nie](../../shared/Na-m.png "Nie") | Niemiecki |
 | [Tari](https://osu.ppy.sh/u/1779172) | ![Tak](../../shared/Insane-s.png "Tak") | ![Nie](../../shared/Na-t.png "Nie") | ![Nie](../../shared/Na-f.png "Nie") | ![Nie](../../shared/Na-m.png "Nie") | |
 
-<Category:Beatmapping/PL> <Category:People/PL>
+<Category:Beatmapping/PL><Category:People/PL>
