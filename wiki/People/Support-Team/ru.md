@@ -6,12 +6,11 @@
 -   [Feature Requests](https://osu.ppy.sh/forum/4) (нововведения);
 -   [Help](https://osu.ppy.sh/forum/5) (техподдержка).
 
-\_\_TOC\_\_
 
 Роли и обязанности
 ------------------
 
-**Внимание: эти люди <span style="color: red;">НЕ</span> отвечают на вопросы о сайленсах, нарушении правил и тому подобных вещах.** Для этого пишите на accounts@ppy.sh.
+**Внимание: эти люди НЕ отвечают на вопросы о сайленсах, нарушении правил и тому подобных вещах.** Для этого пишите на accounts@ppy.sh.
 
 Техподдержка отвечает за:
 
@@ -27,7 +26,21 @@
 
 Состав группы
 -------------
-
 [Всегда актуальная ссылка](https://osu.ppy.sh/g/22) (список). *Помимо указанных языков, все этих люди знают английский.*
 
-<Category:People/RU> <Category:Russian>
+| Имя | Дополнительные языки |
+| ---- | --------- |
+| [deadbeat](https://osu.ppy.sh/u/128370) | |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
+| [Ezoda](https://osu.ppy.sh/u/1231180) | немецкий |
+| [Marcin](https://osu.ppy.sh/u/722665) | польский |
+| [MillhioreF](https://osu.ppy.sh/u/941094) | |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») |
+| [Saten](https://osu.ppy.sh/u/444506) | Swedish, испанский |
+| [smoogipooo](https://osu.ppy.sh/u/1040328) | |
+| [TheVileOne](https://osu.ppy.sh/u/278862) | |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | испанский |
+| [Tom94](https://osu.ppy.sh/u/1857058) | немецкий |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | голландский |
+
+<Category:People/RU><Category:Russian>

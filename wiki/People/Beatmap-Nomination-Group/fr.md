@@ -7,7 +7,9 @@ Contrairement aux QAT, les BN ne font pas partie intégrante du staff, ils ne po
 Rôles et responsabilités
 ------------------------
 
-![Un badge de nominateur.](nominator.png "fig:Un badge de nominateur.") Les BN sont rapidement visibles sur la section modding grâce à leur badge caractéristique. Leur principal travail est de [modder](FR:Modding "wikilink") les beatmaps en attente afin de leur faire respecter les [critères de ranking](FR:Ranking_Criteria "wikilink"). S'ils trouvent une map correspondant à tous les critères, ils ont le devoir de la [qualifier](FR:Beatmap_Approval "wikilink"). Ils ne peuvent pas, en revanche, effectuer plus d'une dizaine de qualifications par jour, pour toute l'équipe. **Le premier arrivé est donc le premier servi.**
+![Un badge de nominateur.](Nominator.png "Un badge de nominateur.")
+
+Les BN sont rapidement visibles sur la section modding grâce à leur badge caractéristique. Leur principal travail est de [modder](FR:Modding "wikilink") les beatmaps en attente afin de leur faire respecter les [critères de ranking](FR:Ranking_Criteria "wikilink"). S'ils trouvent une map correspondant à tous les critères, ils ont le devoir de la [qualifier](FR:Beatmap_Approval "wikilink"). Ils ne peuvent pas, en revanche, effectuer plus d'une dizaine de qualifications par jour, pour toute l'équipe. **Le premier arrivé est donc le premier servi.**
 Un [QAT](FR:Quality_Assurance_Team "wikilink") vérifiera ensuite la map pour vérifier si elle correspond bien aux critères de ranking, puis l'acceptera en tant que beatmap classée ou la refusera.
 Si un BN choisit trop de maps qui viennent à être refusées (plus de 8 par mois), **il sera rétrogradé** et perdra ses pouvoirs.
 Les BN restent tout de même les mieux placés pour répondre aux questions pertinentes qui touchent de près ou de loin au mapping. Vous pouvez leur poser des questions sur le canal *\#modhelp*.
@@ -24,4 +26,75 @@ Liste des BN
 *Veuillez noter que tous les BN peuvent également parler anglais en plus des langues listées ci-dessous.*
 [Page du groupe](https://osu.ppy.sh/g/28)
 
-<Category:Beatmapping/FR> <Category:People/FR>
+| Nom | Standard | Taiko | Catch | Mania | Langues Parlées |
+| ----- | -------- | ----- | --- | ----- | -------------------- |
+| [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
+| [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Polonais |
+| [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonésien |
+| [[Sc4v4ng3r]](https://osu.ppy.sh/u/4838429) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | |
+| [alienflybot](https://osu.ppy.sh/u/636114) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [appleeaterx](https://osu.ppy.sh/u/2407160) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Néerlandais |
+| [Ayyri](https://osu.ppy.sh/u/7182318) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [Bara-](https://osu.ppy.sh/u/2533040) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Néerlandais |
+| [Bonsai](https://osu.ppy.sh/u/987334) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [CelsiusLK](https://osu.ppy.sh/u/1409012) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Thaïlandais |
+| [ChaosLitz](https://osu.ppy.sh/u/3621552) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [Cryptic](https://osu.ppy.sh/u/3728904) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [DE-CADE](https://osu.ppy.sh/u/3734394) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonésien |
+| [Doyak](https://osu.ppy.sh/u/2046893) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Coréen |
+| [Electoz](https://osu.ppy.sh/u/6485263) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Thaïlandais |
+| [Evening](https://osu.ppy.sh/u/2193881) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |
+| [ezek](https://osu.ppy.sh/u/180241) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [Fresh Chicken](https://osu.ppy.sh/u/3984370) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Coréen, Japonais |
+| [Gero](https://osu.ppy.sh/u/1467715) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [jonathanlfj](https://osu.ppy.sh/u/270377) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois, Français |
+| [JUDYDANNY](https://osu.ppy.sh/u/1165475) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Japonais |
+| [Julie](https://osu.ppy.sh/u/2420987) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chinois, Français |
+| [Kagetsu](https://osu.ppy.sh/u/6203841) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [Karen](https://osu.ppy.sh/u/3143784) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois |
+| [Kawawa](https://osu.ppy.sh/u/4647754) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Coréen |
+| [Kencho](https://osu.ppy.sh/u/3178411) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [Kibbleru](https://osu.ppy.sh/u/3193504) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [koliron](https://osu.ppy.sh/u/4632730) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [Kuo Kyoka](https://osu.ppy.sh/u/2596306) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Vietnamien |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Russe |
+| [Lasse](https://osu.ppy.sh/u/896613) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [Len](https://osu.ppy.sh/u/1686145) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Coréen |
+| [Koiyuki](https://osu.ppy.sh/u/2433507) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois, Japonais |
+| [Monstrata](https://osu.ppy.sh/u/2706438) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [MrSergio](https://osu.ppy.sh/u/2581696) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Italien, Roumain |
+| [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [Natsu](https://osu.ppy.sh/u/1953876) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [neonat](https://osu.ppy.sh/u/1561995) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois |
+| [newyams99](https://osu.ppy.sh/u/3701008) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Japonais |
+| [Nivrad00](https://osu.ppy.sh/u/1984634) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | |
+| [Nozhomi](https://osu.ppy.sh/u/2716981) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Français |
+| [Nwolf](https://osu.ppy.sh/u/1910766) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [OzzyOzrock](https://osu.ppy.sh/u/465153) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol, Français |
+| [Pentori](https://osu.ppy.sh/u/7452237) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [pishifat](https://osu.ppy.sh/u/3178418) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [Pho](https://osu.ppy.sh/u/3624692) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [Raiden](https://osu.ppy.sh/u/2239480) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol, Catalan |
+| [Regraz](https://osu.ppy.sh/u/3076909) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois |
+| [Rizia](https://osu.ppy.sh/u/1367570) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [Rizqy](https://osu.ppy.sh/u/1411817) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Indonésien, Japonais |
+| [sahuang](https://osu.ppy.sh/u/5318910) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois |
+| [sheela](https://osu.ppy.sh/u/1138027) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Français |
+| [Sieg](https://osu.ppy.sh/u/1404615) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Russe |
+| [smallboat](https://osu.ppy.sh/u/243049) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Chinois |
+| [Sonnyc](https://osu.ppy.sh/u/11771) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Coréen |
+| [Spaghetti](https://osu.ppy.sh/u/4761930) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [Squichu](https://osu.ppy.sh/u/2091463) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [Stjpa](https://osu.ppy.sh/u/2954693) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Allemand |
+| [Strategas](https://osu.ppy.sh/u/2971837) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Lithuanian |
+| [tasuke912](https://osu.ppy.sh/u/2774767) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Japonais |
+| [Volta](https://osu.ppy.sh/u/4154071) | ![No](../../shared/Na-s.png "No") | ![Yes](../../shared/Insane-t.png "Yes") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Indonésien |
+| [Wafu](https://osu.ppy.sh/u/888955) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Tchèque |
+| [Xexxar](https://osu.ppy.sh/u/2773526) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | |
+| [Xinely](https://osu.ppy.sh/u/1521445) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Indonésien, Chinois |
+| [Yuii-](https://osu.ppy.sh/u/2935923) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Espagnol, Portugais |
+| [Zero__Wind](https://osu.ppy.sh/u/1822830) | ![Yes](../../shared/Insane-s.png "Yes") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![No](../../shared/Na-m.png "No") | Cantonais, Chinois |
+| [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![Yes](../../shared/Insane-f.png "Yes") | ![No](../../shared/Na-m.png "No") | Espagnol |
+| [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](../../shared/Na-s.png "No") | ![No](../../shared/Na-t.png "No") | ![No](../../shared/Na-f.png "No") | ![Yes](../../shared/Insane-m.png "Yes") | Chinois |
+
+<Category:Beatmapping/FR><Category:People/FR>
