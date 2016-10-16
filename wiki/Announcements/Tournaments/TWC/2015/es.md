@@ -2,7 +2,7 @@
 
 El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](//osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
-El país campeón del torneo anterior es **![](../../../../shared/Jp.gif) Japón**.
+El país campeón del torneo anterior es **![](/wiki/shared/Jp.gif) Japón**.
 
 Agenda del Torneo
 =================
@@ -23,20 +23,20 @@ Premios
 
 | Placing                                                    | Prizes                                                                                                                                                      |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
 Organización
 ============
 
 | Job                        | Person                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administradores del Torneo | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Seleccionador de Beatmaps  | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Conductores (Video Stream) | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Comentaristas              | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Estadistico                | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Administradores del Torneo | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Seleccionador de Beatmaps  | ![](/wiki/shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Conductores (Video Stream) | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Comentaristas              | ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Estadistico                | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

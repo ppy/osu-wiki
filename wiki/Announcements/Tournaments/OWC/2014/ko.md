@@ -2,7 +2,7 @@
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](//osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](../../../../shared/Kr.gif) 대한민국**입니다..
+저번 우승자는 **![](/wiki/shared/Kr.gif) 대한민국**입니다..
 
 토너먼트 일정
 =============
@@ -23,20 +23,20 @@
 
 | Placing                                                    | Prizes                               |
 |------------------------------------------------------------|--------------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 서포터 3개월                              |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 서포터 1개월                              |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 서포터 3개월                              |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                              |
 
 운영 위원
 =========
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](../../../../shared/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
-| 비트맵 선별  | ![](../../../../shared/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](../../../../shared/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
-| 방송      | ![](../../../../shared/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
-| 해설      | ![](../../../../shared/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](../../../../shared/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](../../../../shared/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](../../../../shared/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
-| 통계      | ![](../../../../shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
+| 토너먼트 관리 | ![](/wiki/shared/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
+| 비트맵 선별  | ![](/wiki/shared/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](/wiki/shared/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
+| 방송      | ![](/wiki/shared/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
+| 해설      | ![](/wiki/shared/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](/wiki/shared/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](/wiki/shared/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
+| 통계      | ![](/wiki/shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 

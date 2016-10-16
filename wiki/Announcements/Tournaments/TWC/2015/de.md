@@ -1,6 +1,6 @@
 ![TWC 2015 logo](logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](../../../../shared/Jp.gif) Japan**.
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/Jp.gif) Japan**.
 
 Turnierzeitplan
 ===============
@@ -21,20 +21,20 @@ Preise
 
 | Placing                                                    | Prize(s)                                                                               |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen                                                |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen                                                 |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen                                                |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen                                                 |
 
 Organisation
 ============
 
 | Job                | Person(s)                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Map Wähler         | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Streamer           | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Kommentatoren      | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Statistiker        | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Turnier Management | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Map Wähler         | ![](/wiki/shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamer           | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Kommentatoren      | ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Statistiker        | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
