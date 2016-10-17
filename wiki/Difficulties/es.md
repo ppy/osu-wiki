@@ -4,11 +4,11 @@ Calificación de estrellas y elementos de la web
 ![Star Rating Range](SR_range.png "Star Rating Range")
 
 -   Según el [Ranking Criteria](http://osu.ppy.sh/wiki/Ranking_criteria):
-    -   Debajo de 1.5: Fácil ![Fácil](../shared/Easy-s.png "Fácil")
-    -   Debajo de 2.25: Normal ![Normal](../shared/Normal-s.png "Normal")
-    -   Debajo de 3.75: Difícil ![Dificil](../shared/Hard-s.png "Dificil")
-    -   Debajo de 5.25: Insano/Demente ![Insano/Demente](../shared/Insane-s.png "Insano/Demente")
-    -   Mayor que 5.25: Experto ![Experto](../shared/Expert-s.png "Experto")
+    -   Debajo de 1.5: Fácil ![Fácil](/wiki/shared/Easy-s.png "Fácil")
+    -   Debajo de 2.25: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
+    -   Debajo de 3.75: Difícil ![Dificil](/wiki/shared/Hard-s.png "Dificil")
+    -   Debajo de 5.25: Insano/Demente ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente")
+    -   Mayor que 5.25: Experto ![Experto](/wiki/shared/Expert-s.png "Experto")
 
 Este es un rango que decide qué iconos serán usados dependiendo en la calificación de estrellas de los mapas. Siguiendo el rango de los iconos es un buen estimado para alcanzar una variedad de dificultades balanceadas. Hay algunas guías que puedes seguir para mejorar la variedad de dificultades de tu set de mapas.
 
@@ -64,27 +64,27 @@ From the [Ranking Criteria](http://osu.ppy.sh/wiki/Ranking_criteria):
 
 <!-- -->
 
--   Consecutive order means this is the expected full spread ![Fácil](../shared/Easy-s.png "Fácil") ![Normal](../shared/Normal-s.png "Normal") ![Dificil](../shared/Hard-s.png "Dificil") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Experto](../shared/Expert-s.png "Experto")
+-   Consecutive order means this is the expected full spread ![Fácil](/wiki/shared/Easy-s.png "Fácil") ![Normal](/wiki/shared/Normal-s.png "Normal") ![Dificil](/wiki/shared/Hard-s.png "Dificil") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Experto](/wiki/shared/Expert-s.png "Experto")
 -   Depending on the star rating gap several combinations of lower difficulties are theoretically allowed:
-    -   ![Fácil](../shared/Easy-s.png "Fácil")(1.4) ![Dificil](../shared/Hard-s.png "Dificil")(2.5) ![Dificil](../shared/Hard-s.png "Dificil")(3.6)
-    -   ![Fácil](../shared/Easy-s.png "Fácil")(1.4) ![Dificil](../shared/Hard-s.png "Dificil")(2.6) ![Insano/Demente](../shared/Insane-s.png "Insano/Demente")(3.8)
+    -   ![Fácil](/wiki/shared/Easy-s.png "Fácil")(1.4) ![Dificil](/wiki/shared/Hard-s.png "Dificil")(2.5) ![Dificil](/wiki/shared/Hard-s.png "Dificil")(3.6)
+    -   ![Fácil](/wiki/shared/Easy-s.png "Fácil")(1.4) ![Dificil](/wiki/shared/Hard-s.png "Dificil")(2.6) ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente")(3.8)
 
 <!-- -->
 
 -   It is generally allowed to skip the **[Easy]** difficulty if the **[Normal]** difficulty follows the general guidelines of an Easy map
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Dificil](../shared/Hard-s.png "Dificil") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Experto](../shared/Expert-s.png "Experto")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Dificil](/wiki/shared/Hard-s.png "Dificil") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Experto](/wiki/shared/Expert-s.png "Experto")
 
 <!-- -->
 
 -   It is **NOT** allowed to skip a huge difficulty range like **[Hard]** or **[Insane]**
-    -   ![Fácil](../shared/Easy-s.png "Fácil") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Experto](../shared/Expert-s.png "Experto")
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Insano/Demente](../shared/Insane-s.png "Insano/Demente") ![Experto](../shared/Expert-s.png "Experto")
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Dificil](../shared/Hard-s.png "Dificil") ![Experto](../shared/Expert-s.png "Experto") ![Experto](../shared/Expert-s.png "Experto")
+    -   ![Fácil](/wiki/shared/Easy-s.png "Fácil") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Experto](/wiki/shared/Expert-s.png "Experto")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente") ![Experto](/wiki/shared/Expert-s.png "Experto")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Dificil](/wiki/shared/Hard-s.png "Dificil") ![Experto](/wiki/shared/Expert-s.png "Experto") ![Experto](/wiki/shared/Expert-s.png "Experto")
 
 <!-- -->
 
 -   Depending on the prevalent gameplay elements in your **[Insane]** and **[Expert]** you could be asked to include another lower or higher rated additional **[Insane]**
-    -   ![Normal](../shared/Normal-s.png "Normal")(1.9) ![Dificil](../shared/Hard-s.png "Dificil")(3.2) ![Insano/Demente](../shared/Insane-s.png "Insano/Demente")(5.1) ![Experto](../shared/Expert-s.png "Experto")(5.9) needs the addition of something like ![Normal](../shared/Normal-s.png "Normal")(1.9) ![Dificil](../shared/Hard-s.png "Dificil")(3.2) ![Insano/Demente](../shared/Insane-s.png "Insano/Demente")**(4.3)** ![Insano/Demente](../shared/Insane-s.png "Insano/Demente")(5.1) ![Experto](../shared/Expert-s.png "Experto")(5.9)
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Dificil](/wiki/shared/Hard-s.png "Dificil")(3.2) ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente")(5.1) ![Experto](/wiki/shared/Expert-s.png "Experto")(5.9) needs the addition of something like ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Dificil](/wiki/shared/Hard-s.png "Dificil")(3.2) ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente")**(4.3)** ![Insano/Demente](/wiki/shared/Insane-s.png "Insano/Demente")(5.1) ![Experto](/wiki/shared/Expert-s.png "Experto")(5.9)
 
 A good difficulty spread is **more than just Star Rating and Web Icons**! However, the icons help players to get a quick overview and if possible you should always aim to use them appropriately.
 
@@ -160,7 +160,7 @@ From the [Ranking Criteria](http://osu.ppy.sh/wiki/Ranking_criteria):
 
 A common set contains the following four difficulties: Kantan, Futsuu, Muzukashii and Oni which difficulty spread between them **should be approximately kept the same**. To achieve this, it is highly recommended to set a **main snapping** for each difficulty which **follows the pace of the song**. If the spread still happens to be uneven, you may move to another type of set which contains an additional Inner Oni and sometimes even an Ura Oni. These difficulties can be used as filler in a mapset to ensure a consistent spread in case four difficulties are not enough. Also in this way, an **Oni can be mapped easier for people who are still not familiar with harder difficulties, while Inner/Ura serves as harder Oni**.
 
--   Common set: ![Fácil](../shared/Easy-t.png "Fácil")![Normal](../shared/Normal-t.png "Normal")![Dificil](../shared/Hard-t.png "Dificil")![Insano/Demente](../shared/Insane-t.png "Insano/Demente")
+-   Common set: ![Fácil](/wiki/shared/Easy-t.png "Fácil")![Normal](/wiki/shared/Normal-t.png "Normal")![Dificil](/wiki/shared/Hard-t.png "Dificil")![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente")
 
 Make sure that your every single difficulty **fits to the overall spread**.
 
@@ -168,57 +168,57 @@ To have an idea of how these sets can be build up, examples will be given:
 
 **Example 1:** Having a main snapping through all difficulty which patterns vary depending on the pace of the song.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
 
 **Example 2:** Same snapping case but with the difference of having at certain places denser patterns. Good for songs which support harder mapsets.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with some 1/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1 with some 1/2
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with some 1/4
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4 with harder 1/4 or 1/6
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with some 1/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1 with some 1/2
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with some 1/4
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4 with harder 1/4 or 1/6
 
 **Example 3:** Sometimes the snapping behaviour can shift threw the diffs, depending on the songs BPM. In this case the difficulties have lower density due to a slow BPM song and does not requier a Kantan since Futsuu is sufficient enough. It should be noted that the controvers case is possible, but it rather leans to a behaviour of **example 2**.
 
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 4/1 + 2/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 2/1 + 1/1
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/1 + 1/2
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 4/1 + 2/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 2/1 + 1/1
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/1 + 1/2
 
 **Example 4 what should not happen:** Difference between Oni and Muzukashii is too big which makes the entry from one to the other diff really hard, while Muzukashii to Futsuu is denser and makes the spread inconsistent.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + **easy 1/2**
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + **demanding 1/4**
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + **easy 1/2**
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + **demanding 1/4**
 
 **Example 5 what should not happen:** While the transition from Kantan to Futsuu and Muzukashii to Oni is fine, Futsuu to Muzukashii spread happens to be bigger since Futsuu doesn't have any 1/2 for a better transition into Muzukashii and hence, the spread is uneven and splitted in lower and higher difficulties. Example 2 should be followed to fix such problems.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with 1/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with 1/4
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with 1/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with 1/4
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
 
 <!-- -->
 
--   Different type of set:![Fácil](../shared/Easy-t.png "Fácil")![Normal](../shared/Normal-t.png "Normal")![Dificil](../shared/Hard-t.png "Dificil")![Insano/Demente](../shared/Insane-t.png "Insano/Demente")![Experto](../shared/Expert-t.png "Experto")
+-   Different type of set:![Fácil](/wiki/shared/Easy-t.png "Fácil")![Normal](/wiki/shared/Normal-t.png "Normal")![Dificil](/wiki/shared/Hard-t.png "Dificil")![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente")![Experto](/wiki/shared/Expert-t.png "Experto")
 
 While Inner and Ura Oni are normaly in use for hard Onis, they can also be used for **fixing spread problems**. For example, if a spread happens to become too large between two difficulties, you can either try refining the existing difficulties to fit the spread or add a **new map** if the gap between two difficulties is too large to be refined. **Example 6:** This would be a common set with additional Inner / Ura Oni a song can carry.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
--   ![Experto](../shared/Expert-t.png "Experto") Main snapping 1/2 + demanding 1/4
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4
+-   ![Experto](/wiki/shared/Expert-t.png "Experto") Main snapping 1/2 + demanding 1/4
 
 **Example 7:** Such sets are also possible; having in general a common set with an additional really hard Oni for high tier players.
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + easy 2/1
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + easy 1/1
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + easy 1/2
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + easy 1/4
--   ![Experto](../shared/Expert-t.png "Experto") Main snapping 1/2 + demanding 1/4
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + easy 2/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + easy 1/1
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + easy 1/2
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + easy 1/4
+-   ![Experto](/wiki/shared/Expert-t.png "Experto") Main snapping 1/2 + demanding 1/4
 
 Rest moments in Taiko
 ---------------------
@@ -227,9 +227,9 @@ Rest moments in Taiko
 
 **Example what break maps could have:**
 
--   ![Fácil](../shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with 4/1 ( same break like snapping is fine in Kantan due to often being easy anyway )
--   ![Normal](../shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1 with 3/1 or 4/1 breaks
--   ![Dificil](../shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
--   ![Insano/Demente](../shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4 with 1/1 breaks
+-   ![Fácil](/wiki/shared/Easy-t.png "Fácil") Main snapping 4/1 + 2/1 with 4/1 ( same break like snapping is fine in Kantan due to often being easy anyway )
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1 with 3/1 or 4/1 breaks
+-   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
+-   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4 with 1/1 breaks
 
 For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[<https://osu.ppy.sh/wiki/T-Aiko>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

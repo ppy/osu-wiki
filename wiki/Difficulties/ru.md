@@ -4,11 +4,11 @@
 ![Star Rating Range](SR_range.png "Star Rating Range")
 
 -   В [критериях ранкинга](RU:RC "wikilink") указаны следующие значения звёзд сложности:
-    -   Ниже 1.5: Easy ![Easy](../shared/Easy-s.png "Easy")
-    -   Ниже 2.25: Normal ![Normal](../shared/Normal-s.png "Normal")
-    -   Ниже 3.75: Hard ![Hard](../shared/Hard-s.png "Hard")
-    -   Ниже 5.25: Insane ![Insane](../shared/Insane-s.png "Insane")
-    -   Выше 5.25: Expert ![Expert](../shared/Expert-s.png "Expert")
+    -   Ниже 1.5: Easy ![Easy](/wiki/shared/Easy-s.png "Easy")
+    -   Ниже 2.25: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
+    -   Ниже 3.75: Hard ![Hard](/wiki/shared/Hard-s.png "Hard")
+    -   Ниже 5.25: Insane ![Insane](/wiki/shared/Insane-s.png "Insane")
+    -   Выше 5.25: Expert ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 Попытка добиться определённого набора иконок — не очень надёжный, но неплохой способ создания сбалансированного мапсета, и в этой статье будет рассказано, каким именно образом можно улучшить баланс между сложностями.
 
@@ -99,29 +99,29 @@ Insane и Expert
 
 Что же именно это означает?
 
--   Полный набор сложностей, посортированных по возрастанию, выглядит так: ![Easy](../shared/Easy-s.png "Easy") ![Normal](../shared/Normal-s.png "Normal") ![Hard](../shared/Hard-s.png "Hard") ![Insane](../shared/Insane-s.png "Insane") ![Expert](../shared/Expert-s.png "Expert")
+-   Полный набор сложностей, посортированных по возрастанию, выглядит так: ![Easy](/wiki/shared/Easy-s.png "Easy") ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   В зависимости от звёзд сложности, теоретически ранкабельны такие наборы:
-    -   ![Easy](../shared/Easy-s.png "Easy")(1.4) ![Hard](../shared/Hard-s.png "Hard")(2.5) ![Hard](../shared/Hard-s.png "Hard")(3.6)
-    -   ![Easy](../shared/Easy-s.png "Easy")(1.4) ![Hard](../shared/Hard-s.png "Hard")(2.6) ![Insane](../shared/Insane-s.png "Insane")(3.8)
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.5) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.6)
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.6) ![Insane](/wiki/shared/Insane-s.png "Insane")(3.8)
 
 <!-- -->
 
 -   Можно пропустить Easy, если Normal следует общим рекомендациям для Easy:
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Hard](../shared/Hard-s.png "Hard") ![Insane](../shared/Insane-s.png "Insane") ![Expert](../shared/Expert-s.png "Expert")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   **Запрещено** пропускать Hard или Insane, если ваш мапсет выглядит как-то так:
-    -   ![Easy](../shared/Easy-s.png "Easy") ![Insane](../shared/Insane-s.png "Insane") ![Insane](../shared/Insane-s.png "Insane") ![Expert](../shared/Expert-s.png "Expert")
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Insane](../shared/Insane-s.png "Insane") ![Insane](../shared/Insane-s.png "Insane") ![Expert](../shared/Expert-s.png "Expert")
-    -   ![Normal](../shared/Normal-s.png "Normal") ![Hard](../shared/Hard-s.png "Hard") ![Expert](../shared/Expert-s.png "Expert") ![Expert](../shared/Expert-s.png "Expert")
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Expert](/wiki/shared/Expert-s.png "Expert") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   В зависимости от того, что именно находится внутри Insane или Expert, вас могут попросить добавить более сложный (или менее сложный, в зависимости от ситуации) Insane:
-    -   ![Normal](../shared/Normal-s.png "Normal")(1.9) ![Hard](../shared/Hard-s.png "Hard")(3.2) ![Insane](../shared/Insane-s.png "Insane")(5.1) ![Expert](../shared/Expert-s.png "Expert")(5.9) должен стать ![Normal](../shared/Normal-s.png "Normal")(1.9) ![Hard](../shared/Hard-s.png "Hard")(3.2) ![Insane](../shared/Insane-s.png "Insane")**(4.3)** ![Insane](../shared/Insane-s.png "Insane")(5.1) ![Expert](../shared/Expert-s.png "Expert")(5.9)
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9) должен стать ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")**(4.3)** ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9)
 
 Несмотря на всё это и на то, что по иконкам можно сориентироваться, при оценке сложности **нельзя пользоваться ТОЛЬКО иконками!**
