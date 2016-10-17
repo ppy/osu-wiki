@@ -1,17 +1,17 @@
-Untuk mendorong dan memperluas batasan dalam pembuatan suatu map, tingkat kesulitan Expert dibuat guna menjadi suatui beatmap yang menyerupai tingkat kesulitan [Insane](ID:Insane "wikilink") namun lebih sulit dari itu.
+Untuk mendorong dan memperluas batasan dalam pembuatan suatu map, tingkat kesulitan Expert dibuat guna menjadi suatui beatmap yang menyerupai tingkat kesulitan [Insane](ID:Insane) namun lebih sulit dari itu.
 
-Tingkat kesulitan ini dapat menjadi tingkat kesulitan tambahan yang “ke-5” (apabila beatmap diformat dalam susunan ENHIX (Easy-Normal-Hard-Insane-Expert)) atau yang “ke-4” (apabila beatmap diformat dalam susunan NHIX (Normal-Hard-Insane-Expert). Map-map tersebut, seperti map-map [Insane](Insane "wikilink"), mengutipkan, “secara umum adalah contoh dari keterampilan mapper, dan merupakan tingkat kesulitan dimana kreatifitas mapper dapat dipertunjukkan dengan mudah.”
+Tingkat kesulitan ini dapat menjadi tingkat kesulitan tambahan yang “ke-5” (apabila beatmap diformat dalam susunan ENHIX (Easy-Normal-Hard-Insane-Expert)) atau yang “ke-4” (apabila beatmap diformat dalam susunan NHIX (Normal-Hard-Insane-Expert). Map-map tersebut, seperti map-map [Insane](Insane), mengutipkan, “secara umum adalah contoh dari keterampilan mapper, dan merupakan tingkat kesulitan dimana kreatifitas mapper dapat dipertunjukkan dengan mudah.”
 
-Pada halaman daftar osu!beatmap (seperti: [Shiro Sagisu - Soundscape To Ardor Morning Remembrance (Expert)](https://osu.ppy.sh/s/303861)), seseorang dapat menyatakan map tersebut sebagai map Expert dari ikon berikut: ![](Diffexpert.png "fig:Diffexpert.png")
+Pada halaman daftar osu!beatmap (seperti: [Shiro Sagisu - Soundscape To Ardor Morning Remembrance (Expert)](https://osu.ppy.sh/s/303861)), seseorang dapat menyatakan map tersebut sebagai map Expert dari ikon berikut: ![Expert](/wiki/shared/Expert-s.png "Expert")
 
-Expert juga dapat dianggap sebagai *[streamnya](ID:streams "wikilink") hit circles!*'''
+Expert juga dapat dianggap sebagai *[streamnya](ID:streams) hit circles!*'''
 
 Pengaturan
 ----------
 
-''Catatan: Ini hanyalah <span style="text-decoration: underline;">saran umum</span>. Pengaturan tingkat kesulitan akan beragam tergantung dari lagu itu sendiri dan *style* sang mapper tersebut.''
+*Catatan: Ini hanyalah saran umum. Pengaturan tingkat kesulitan akan beragam tergantung dari lagu itu sendiri dan* style *sang mapper tersebut.*
 
-Juga mohon dicatat: pada kebanyakan kasus, ini dilihat dari sisi [mappingnya](ID:mapping "wikilink"), bukan dari [pengaturan lagunya](ID:Song_Setup "wikilink"), namun melakukan hal ini (atau hal yang serupa) merupakan langkah yang dapat dituju!
+Juga mohon dicatat: pada kebanyakan kasus, ini dilihat dari sisi [mappingnya](ID:mapping), bukan dari [pengaturan lagunya](ID:Song_Setup), namun melakukan hal ini (atau hal yang serupa) merupakan langkah yang dapat dituju!
 
 -   **HP** (Tingkat pengurasan HP): 6+
 -   **CS** (Ukuran Lingkaran): Bebas
@@ -20,6 +20,6 @@ Juga mohon dicatat: pada kebanyakan kasus, ini dilihat dari sisi [mappingnya](ID
 
 ### Overmapping
 
-Umumnya, lihat pada halaman [Insane](ID:Insane "wikilink").
+Umumnya, lihat pada halaman [Insane](ID:Insane).
 
 <Category:Beatmapping/ID>
