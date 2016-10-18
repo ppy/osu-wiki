@@ -1,10 +1,20 @@
-There are three types of accuracy - \[1\] per [beatmap](../Beatmaps/en.md "wikilink")'s accuracy, \[2\] one's overall accuracy, and \[3\] [pp](../Performance-Points/en.md "wikilink")'s accuracy.
+There are three types of accuracy: per [beatmap](../Beatmaps/en.md "wikilink")'s accuracy, one's overall accuracy, and [pp](../Performance-Points/en.md "wikilink")'s accuracy.
 
-In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en.md "wikilink") gained, overall accuracy dependent on each submitted best online score's accuracy, and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
+In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en.md "wikilink") gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
 
-\_\_TOC\_\_ Accuracy is calculated by the following formulas:
+# Table of Contents
+1. [Standard](#standard)
+2. [Taiko](#taiko)
+3. [Catch The Beat](#catch-the-beat)
+4. [Results Screen](#results-screen)
+  1. [Ranking](#ranking)
+  2. [Performance Graph](#performance-graph)
+  3. [Accuracy](#accuracy)
+  4. [Spin](#spin-[osu!-only])
 
-Standard
+Accuracy is calculated by the following formulas:
+
+# Standard
 --------
 
 In [Standard](../Game-Modes/Standard/en.md "wikilink"), accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount. In other words:
@@ -16,7 +26,7 @@ In [Standard](../Game-Modes/Standard/en.md "wikilink"), accuracy is calculated b
 
 For reference: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
-Taiko
+# Taiko
 -----
 
 In [Taiko](../Game-Modes/Taiko/en.md "wikilink") mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
@@ -26,7 +36,7 @@ In [Taiko](../Game-Modes/Taiko/en.md "wikilink") mode, the song accuracy is calc
 | Total points of hits | (Number of Miss * 0 + Number of 100(GOOD) * 0.5 + Number of 300(GREAT) * 1) * 300 |
 | Total number of hits | (Number of Miss + Number of 100 + Number of 300) |
 
-Catch the Beat
+# Catch the Beat
 --------------
 
 In [Catch the Beat](../Game-Modes/Catch-The-Beat/en.md "wikilink"), the song accuracy is calculated as the number of non-spinner objects collected divided by the total number of non-spinner objects; fruits, large drops and small drops all have the same value.
@@ -39,7 +49,7 @@ In [Catch the Beat](../Game-Modes/Catch-The-Beat/en.md "wikilink"), the song acc
 
 Note that if you use the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**
 
-Mania
+# Mania
 -----
 
 Accuracy is calculated similarly to [Standard](../Game-Modes/Standard/en.md "wikilink") in this mode.
@@ -51,7 +61,7 @@ Accuracy is calculated similarly to [Standard](../Game-Modes/Standard/en.md "wik
 
 Note that MAX and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
 
-Results screen
+# Results screen
 --------------
 
 ### Ranking
