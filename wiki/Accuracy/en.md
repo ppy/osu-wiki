@@ -12,8 +12,6 @@ In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en
   3. [Accuracy](#accuracy)
   4. [Spin](#spin)
 
-Accuracy is calculated by the following formulas:
-
 # Standard
 --------
 
