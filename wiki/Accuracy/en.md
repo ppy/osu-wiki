@@ -10,7 +10,7 @@ In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en
   1. [Ranking](#ranking)
   2. [Performance Graph](#performance-graph)
   3. [Accuracy](#accuracy)
-  4. [Spin](#spin-[osu!-only])
+  4. [Spin](#spin)
 
 Accuracy is calculated by the following formulas:
 
@@ -93,7 +93,8 @@ Note that MAX and 300 are both worth the maximum for calculating accuracy, despi
 | Error | **These two values represent how far off your early hits are on average, and how far off your late hits are on average.** The higher the [OD value](../Song-Setup/en.md#Overall_Difficulty) of the beatmap you're playing, the lower these will have to be to do well. |
 | Unstable Rate | **This value represents how consistently you time your hits**, with lower numbers being better (top players often score below 100). Note that this measures consistency, and not accuracy, so if you're consistent in hitting 15ms early, you'll get similar results to if you're consistent in hitting on time. The formula is essentially the standard deviation of your hit errors (in milliseconds) multiplied by 10. |
 
-#### Spin [osu! only]
+#### Spin
+Spin is only for osu!Standard
 | Term | Meaning |
 | ---- | ------- |
 | Speed | **Average spinning speed on all the spinner(s) in the beatmap.** Max is the highest rpm(rounds per minute) achieved in one of the beatmap's spinner(s).
