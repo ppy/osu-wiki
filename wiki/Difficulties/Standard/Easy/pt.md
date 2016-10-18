@@ -9,16 +9,16 @@ Dificuldades Easy são faceis de fazer uma vez depois de alguma pratica. Primeir
 -   Overall Difficulty: 4 ou menos
 -   Slider velocity: Depende do BPM, pode ser de 0.8x em musicas mais rapidas ou até 1.6x em musicas mais lentas.
 
-Now, you're going to want to use [Distance Snap](PT:Distance_Snap "wikilink") for most of an Easy. So, **adjust the distance snap multiplier so that hit circles only one beat apart don't overlap each other.** For circle 4 a distance snap of .5 should work. New players often find hit circles that overlap each other like that hard to read. Most of the time, just having them next to each other without overlapping is good enough. (*Insert comparison picture here*)
+Now, you're going to want to use [Distance Snap](PT:Distance_Snap) for most of an Easy. So, **adjust the distance snap multiplier so that hit circles only one beat apart don't overlap each other.** For circle 4 a distance snap of .5 should work. New players often find hit circles that overlap each other like that hard to read. Most of the time, just having them next to each other without overlapping is good enough. (*Insert comparison picture here*)
 
-Set the [Beat Snap Divisor](PT:Beat_Snap_Divisor "wikilink") to 1/1, then select the circle and hit play and start placing circles in time to the music.
+Set the [Beat Snap Divisor](PT:Beat_Snap_Divisor) to 1/1, then select the circle and hit play and start placing circles in time to the music.
 
-Now, your main rhythm here should be every other beat. Start with the [downbeat](PT:Timing "wikilink") and start off by placing a hit circle every other beat. However, you'll find that this is boring and puts you to sleep. This is why we go back and edit things to spruce things up a bit so that players don't totally die of boredom. You're going to want to do three things:
+Now, your main rhythm here should be every other beat. Start with the [downbeat](PT:Timing) and start off by placing a hit circle every other beat. However, you'll find that this is boring and puts you to sleep. This is why we go back and edit things to spruce things up a bit so that players don't totally die of boredom. You're going to want to do three things:
 
 Being on the beat
 -----------------
 
-Imagine that a "." is a beat without a [hit circle](PT:Hit_Object "wikilink"), and a "O" is a beat with a hit circle (Easy difficulties should be mapped to the beat for the most part, with a few exceptions). Here's a simple pattern you can try:
+Imagine that a "." is a beat without a [hit circle](PT:Hit_Object), and a "O" is a beat with a hit circle (Easy difficulties should be mapped to the beat for the most part, with a few exceptions). Here's a simple pattern you can try:
 
 O.O.OOO.
 

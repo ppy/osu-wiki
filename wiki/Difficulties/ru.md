@@ -1,14 +1,14 @@
 Звёзды сложности и иконки
 =========================
 
-![](SR_range.png "SR_range.png")
+![Star Rating Range](SR_range.png "Star Rating Range")
 
 -   В [критериях ранкинга](RU:RC "wikilink") указаны следующие значения звёзд сложности:
-    -   Ниже 1.5: Easy ![](easy-s.png "fig:easy-s.png")
-    -   Ниже 2.25: Normal ![](diffeasy.png "fig:diffeasy.png")
-    -   Ниже 3.75: Hard ![](diffhard.png "fig:diffhard.png")
-    -   Ниже 5.25: Insane ![](insane-s.png "fig:insane-s.png")
-    -   Выше 5.25: Expert ![](diffexpert.png "fig:diffexpert.png")
+    -   Ниже 1.5: Easy ![Easy](/wiki/shared/Easy-s.png "Easy")
+    -   Ниже 2.25: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
+    -   Ниже 3.75: Hard ![Hard](/wiki/shared/Hard-s.png "Hard")
+    -   Ниже 5.25: Insane ![Insane](/wiki/shared/Insane-s.png "Insane")
+    -   Выше 5.25: Expert ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 Попытка добиться определённого набора иконок — не очень надёжный, но неплохой способ создания сбалансированного мапсета, и в этой статье будет рассказано, каким именно образом можно улучшить баланс между сложностями.
 
@@ -20,9 +20,9 @@
 Easy
 ----
 
-  
-  
-Подробнее: [Easy](RU:Easy_(Difficulty) "wikilink")
+
+
+Подробнее: <RU:Easy>
 
 От данной сложности требуется следовать лишь базовому ритму и наиболее заметным элементам песни. Оставляйте новичкам достаточно времени на восстановление после сложных паттернов и спиннеров, чтобы у них было время выровнять руку. Во избежание монотонного спама 1/1 (а такой обязательно случится, поскольку сложные элементы использовать не разрешается), используйте достаточно слайдеров. Слайдерами же можно мапать (пусть и с осторожностью) звуки, попадающие на оффбит (здесь — только красные тики), поскольку слайдеры не наказывают за неточное попадание так сильно, как ноты.
 
@@ -47,8 +47,8 @@ Easy
 Normal
 ------
 
-  
-  
+
+
 Подробнее: <RU:Normal>
 
 Обычно следует наиболее заметным элементам песни. Время восстановления после сложных паттернов и спиннеров может быть чуть меньше, чем в Easy. Поощряется **использование нот на красных тиках (1/2)** и более вариативный, интересный, но всё ещё следующий песне ритм. **Спейсинг всё ещё должен оставаться постоянным.**
@@ -68,8 +68,8 @@ Normal
 Hard
 ----
 
-  
-  
+
+
 Подробнее: <RU:Hard>
 
 Можно следовать всему, что слышно, но без фанатизма. Попытайтесь ухватить суть песни, при этом не пропуская слишком много нот и не пытаясь замапать их все. Допускается использование не очень больших джампов и триплов или коротких стримов до 5 нот длиной. Если в вашем мапсете, помимо харда, есть ещё и Normal и Insane, постарайтесь сделать так, чтобы все три сложности были сбалансированы, т.е. между соседними двумя не было сильного скачка (напр., очень простой Normal и очень сложный Hard).
@@ -84,8 +84,8 @@ Hard
 Insane и Expert
 ---------------
 
-  
-  
+
+
 Подробнее: <RU:Insane>
 
 В оригинале статьи написано о новых трендах в маппинге и постепенном росте сложности вместе с ростом навыков игроков. Проще говоря, разрешено всё, что не запрещено; тем не менее, за очередную попытку усложнить читаемость карты или проверить критерии ранкинга на прочность можно поплатиться.
@@ -99,29 +99,29 @@ Insane и Expert
 
 Что же именно это означает?
 
--   Полный набор сложностей, посортированных по возрастанию, выглядит так: ![](easy-s.png "fig:easy-s.png") ![](diffeasy.png "fig:diffeasy.png") ![](diffhard.png "fig:diffhard.png") ![](insane-s.png "fig:insane-s.png") ![](diffexpert.png "fig:diffexpert.png")
+-   Полный набор сложностей, посортированных по возрастанию, выглядит так: ![Easy](/wiki/shared/Easy-s.png "Easy") ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   В зависимости от звёзд сложности, теоретически ранкабельны такие наборы:
-    -   ![](easy-s.png "fig:easy-s.png")(1.4) ![](diffhard.png "fig:diffhard.png")(2.5) ![](diffhard.png "fig:diffhard.png")(3.6)
-    -   ![](easy-s.png "fig:easy-s.png")(1.4) ![](diffhard.png "fig:diffhard.png")(2.6) ![](insane-s.png "fig:insane-s.png")(3.8)
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.5) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.6)
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.6) ![Insane](/wiki/shared/Insane-s.png "Insane")(3.8)
 
 <!-- -->
 
 -   Можно пропустить Easy, если Normal следует общим рекомендациям для Easy:
-    -   ![](diffeasy.png "fig:diffeasy.png") ![](diffhard.png "fig:diffhard.png") ![](insane-s.png "fig:insane-s.png") ![](diffexpert.png "fig:diffexpert.png")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   **Запрещено** пропускать Hard или Insane, если ваш мапсет выглядит как-то так:
-    -   ![](easy-s.png "fig:easy-s.png") ![](insane-s.png "fig:insane-s.png") ![](insane-s.png "fig:insane-s.png") ![](diffexpert.png "fig:diffexpert.png")
-    -   ![](diffeasy.png "fig:diffeasy.png") ![](insane-s.png "fig:insane-s.png") ![](insane-s.png "fig:insane-s.png") ![](diffexpert.png "fig:diffexpert.png")
-    -   ![](diffeasy.png "fig:diffeasy.png") ![](diffhard.png "fig:diffhard.png") ![](diffexpert.png "fig:diffexpert.png") ![](diffexpert.png "fig:diffexpert.png")
+    -   ![Easy](/wiki/shared/Easy-s.png "Easy") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Expert](/wiki/shared/Expert-s.png "Expert") ![Expert](/wiki/shared/Expert-s.png "Expert")
 
 <!-- -->
 
 -   В зависимости от того, что именно находится внутри Insane или Expert, вас могут попросить добавить более сложный (или менее сложный, в зависимости от ситуации) Insane:
-    -   ![](diffeasy.png "fig:diffeasy.png")(1.9) ![](diffhard.png "fig:diffhard.png")(3.2) ![](insane-s.png "fig:insane-s.png")(5.1) ![](diffexpert.png "fig:diffexpert.png")(5.9) должен стать ![](diffeasy.png "fig:diffeasy.png")(1.9) ![](diffhard.png "fig:diffhard.png")(3.2) ![](insane-s.png "fig:insane-s.png")**(4.3)** ![](insane-s.png "fig:insane-s.png")(5.1) ![](diffexpert.png "fig:diffexpert.png")(5.9)
+    -   ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9) должен стать ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")**(4.3)** ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9)
 
 Несмотря на всё это и на то, что по иконкам можно сориентироваться, при оценке сложности **нельзя пользоваться ТОЛЬКО иконками!**
