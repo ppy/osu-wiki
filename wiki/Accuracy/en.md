@@ -94,7 +94,9 @@ Note that MAX and 300 are both worth the maximum for calculating accuracy, despi
 | Unstable Rate | **This value represents how consistently you time your hits**, with lower numbers being better (top players often score below 100). Note that this measures consistency, and not accuracy, so if you're consistent in hitting 15ms early, you'll get similar results to if you're consistent in hitting on time. The formula is essentially the standard deviation of your hit errors (in milliseconds) multiplied by 10. |
 
 #### Spin
+
 Spin is only for osu!Standard
+
 | Term | Meaning |
 | ---- | ------- |
 | Speed | **Average spinning speed on all the spinner(s) in the beatmap.** Max is the highest rpm(rounds per minute) achieved in one of the beatmap's spinner(s).
