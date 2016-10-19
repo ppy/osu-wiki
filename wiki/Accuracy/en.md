@@ -1,3 +1,5 @@
+#Accuracy
+
 There are three types of accuracy: per [beatmap](../Beatmaps/en.md "wikilink")'s accuracy, one's overall accuracy, and [pp](../Performance-Points/en.md "wikilink")'s accuracy.
 
 In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en.md "wikilink") gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
