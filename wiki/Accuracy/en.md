@@ -9,8 +9,8 @@ In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en
 4. [Results Screen](#results-screen)
   1. [Ranking](#ranking)
   2. [Performance Graph](#performance-graph)
-  3. [Accuracy](#accuracy)
-  4. [Spin](#spin)
+    1. [Accuracy](#accuracy)
+    2. [Spin](#spin)
 
 ## Standard
 
