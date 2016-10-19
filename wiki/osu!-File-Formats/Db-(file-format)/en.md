@@ -2,8 +2,8 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `C:\\Program` `Files` `(x86)\osu!\`
--   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program` `Files/osu!/`
+-   Windows: `C:\\Program Files (x86)\osu!\`
+-   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 
@@ -12,17 +12,18 @@ Data Types
 
 To ease the description of the format of each .db file, the following names for data types will be used. Unless otherwise specified, all numerical types are stored little-endian. Integer values, including bytes, are all unsigned. UTF-8 characters are stored in their canonical form, with the higher-order byte first.
 
-| Name    | Number of bytes | Description                                                                                                                                                                                                                                                                                                                                                |
-|---------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Byte    | 1               | integer                                                                                                                                                                                                                                                                                                                                                    |
-| Short   | 2               | integer                                                                                                                                                                                                                                                                                                                                                    |
-| Int     | 4               | integer                                                                                                                                                                                                                                                                                                                                                    |
-| Long    | 8               | integer                                                                                                                                                                                                                                                                                                                                                    |
-| ULEB128 | Variable        | integer; see <wikipedia:LEB128>                                                                                                                                                                                                                                                                                                                            |
-| Single  | 4               | 32-bit IEEE floating point value                                                                                                                                                                                                                                                                                                                           |
-| Double  | 8               | 64-bit IEEE floating point value                                                                                                                                                                                                                                                                                                                           |
-| Boolean | 1               | 0x00 for false, everything else is true                                                                                                                                                                                                                                                                                                                    |
-| String  | Variable        | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See <wikipedia:UTF-8> |
+| Name | Number of bytes | Description |
+| ---- | --------------- | ----------- |
+| Byte | 1 | integer |
+| Short | 2 | integer |
+| Int | 4 | integer |
+| Long | 8 | integer |
+| ULEB128 | Variable | integer; see [this](https://en.wikipedia.org/wiki/LEB128) |
+| Single | 4 | 32-bit IEEE floating point value |
+| Double | 8 | 64-bit IEEE floating point value |
+| Boolean | 1 | 0x00 for false, everything else is true |
+| String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8). |
+
 
 osu!.db
 -------
@@ -33,140 +34,149 @@ osu!.db
 
 Some data types specific to osu!.db are defined below.
 
-| Name            | Number of bytes | Description                                                                                                                                                                                                                                                                         |
-|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Int-Double pair | 14              | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point    | 17              | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)](Osu_(file_format) "wikilink") for more information regarding timing points.   |
+| Name | Number of bytes | Description |
+| ---- | --------------- | ----------- |
+| Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See Osu (file format) for more information regarding timing points. |
 
-| osu!.db format |
-|----------------|
-| Data type      |
-| Int            |
-| Int            |
-| Bool           |
-| DateTime       |
-| String         |
-| Int            |
-| Beatmaps\*     |
-| Int            |
+### osu!.db format
 
-| Beatmap Information |
-|---------------------|
-| Data type           |
-||
-| Int                 |
-| String              |
-| String              |
-| String              |
-| String              |
-| String              |
-| String              |
-| String              |
-| String              |
-| String              |
-| Byte                |
-| Short               |
-| Short               |
-| Short               |
-| Long                |
-| Byte/Single         |
-| Byte/Single         |
-| Byte/Single         |
-| Byte/Single         |
-| Double              |
-| Int-Double pair\*   |
-| Int-Double pair\*   |
-| Int-Double pair\*   |
-| Int-Double pair\*   |
-| Int                 |
-| Int                 |
-| Int                 |
-| Timing point+       |
-| Int                 |
-| Int                 |
-| Int                 |
-| Byte                |
-| Byte                |
-| Byte                |
-| Byte                |
-| Short               |
-| Single              |
-| Byte                |
-| String              |
-| String              |
-| Short               |
-| String              |
-| Boolean             |
-| Long                |
-| Boolean             |
-| String              |
-| Long                |
-| Boolean             |
-| Boolean             |
-| Boolean             |
-| Boolean             |
-| Boolean             |
-| Short?              |
-| Int                 |
-| Byte                |
+| Data type | Description |
+| --------- | ----------- |
+| Int | osu! version (e.g. 20150203) |
+| Int | Folder Count |
+| Bool | AccountUnlocked (only false when the account is locked or banned in any way) |
+| DateTime | Date the account will be unlocked |
+| String | Player name |
+| Int | Number of beatmaps |
+| Beatmaps* | Aforementioned beatmaps |
+| Int | Unknown Int, always seems to be 4 |
+
+### Beatmap Information
+
+| Data type | Description |
+| --------- | ----------- |
+| Int | Size in bytes of the beatmap entry |
+| String | Artist name |
+| String | Artist name, in Unicode |
+| String | Song title |
+| String | Song title, in Unicode |
+| String | Creator name |
+| String | Difficulty (e.g. Hard, Insane, etc.) |
+| String | Audio file name |
+| String | MD5 hash of the beatmap |
+| String | Name of the .osu file corresponding to this beatmap |
+| Byte | Ranked status (4 = ranked, 5 = approved, 2 = pending/graveyard) |
+| Short | Number of hitcircles |
+| Short | Number of sliders (note: this will be present in every mode) |
+| Short | Number of spinners (note: this will be present in every mode) |
+| Long | Last modification time, Windows ticks. |
+| Byte/Single | Approach rate. Byte if the version is less than 20140609, Single otherwise. |
+| Byte/Single | Circle size. Byte if the version is less than 20140609, Single otherwise. |
+| Byte/Single | HP drain. Byte if the version is less than 20140609, Single otherwise. |
+| Byte/Single | Overall difficulty. Byte if the version is less than 20140609, Single otherwise. |
+| Double | Slider velocity |
+| Int-Double pair* | An Int indicating the number of following Int-Double pairs, then the aforementioned pairs. Star Rating info for osu! standard, in each pair, the Int is the mod combination, and the Double is the Star Rating. Only present if version is greater than or equal to 20140609. |
+| Int-Double pair* | An Int indicating the number of following Int-Double pairs, then the aforementioned pairs. Star Rating info for Taiko, in each pair, the Int is the mod combination, and the Double is the Star Rating. Only present if version is greater than or equal to 20140609. |
+| Int-Double pair* | An Int indicating the number of following Int-Double pairs, then the aforementioned pairs. Star Rating info for CTB, in each pair, the Int is the mod combination, and the Double is the Star Rating. Only present if version is greater than or equal to 20140609. |
+| Int-Double pair* | An Int indicating the number of following Int-Double pairs, then the aforementioned pairs. Star Rating info for osu!mania, in each pair, the Int is the mod combination, and the Double is the Star Rating. Only present if version is greater than or equal to 20140609. |
+| Int | Drain time, in seconds |
+| Int | Total time, in milliseconds |
+| Int | Time when the audio preview when hovering over a beatmap in beatmap select starts, in milliseconds. |
+| Timing point+ | An Int indicating the number of following Timing points, then the aforementioned Timing points. |
+| Int | Beatmap ID |
+| Int | Beatmap set ID |
+| Int | Thread ID |
+| Byte | Grade achieved in osu! standard. |
+| Byte | Grade achieved in Taiko. |
+| Byte | Grade achieved in CTB. |
+| Byte | Grade achieved in osu!mania. |
+| Short | Local beatmap offset |
+| Single | Stack leniency |
+| Byte | Osu gameplay mode. 0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania |
+| String | Song source |
+| String | Song tags |
+| Short | Online offset |
+| String | Font used for the title of the song |
+| Boolean | Is beatmap unplayed |
+| Long | Last time when beatmap was played |
+| Boolean | Is the beatmap osz2 |
+| String | Folder name of the beatmap, relative to Songs folder |
+| Long | Last time when beatmap was checked against osu! repository |
+| Boolean | Ignore beatmap sound |
+| Boolean | Ignore beatmap skin |
+| Boolean | Disable storyboard |
+| Boolean | Disable video |
+| Boolean | Visual override |
+| Short? | Unknown. Only present if version is less than 20140609. |
+| Int | Last modification time (?) |
+| Byte | Mania scroll speed |
 
 collection.db
 -------------
 
 **collection.db** contains user beatmap collection data. It can be transferred from one osu! installation to another; however, it will not work without also having all the collected beatmaps installed as well.
 
-| collection.db format                                                |
-|---------------------------------------------------------------------|
-| Data type                                                           |
-| Int                                                                 |
-| Int                                                                 |
-| The following will be repeated for the total number of collections. |
-| String                                                              |
-| Int                                                                 |
-| String\*                                                            |
+### collection.db format
+
+| Data type | Description |
+| --------- | ----------- |
+| Int | Version (e.g. 20150203) |
+| Int | Number of collections |
+
+The following will be repeated for the total number of collections.
+
+| Data type | Description |
+| --------- | ----------- |
+| String | Name of the collection |
+| Int | Number of beatmaps in the collection |
+| String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
 
 scores.db
 ---------
 
 This database contains the scores achieved locally.
 
-| scores.db format |
-|------------------|
-| Data type        |
-| Int              |
-| Int              |
-| Beatmaps\*       |
+### scores.db format
 
-| Individual beatmap format |
-|---------------------------|
-| Data type                 |
-| String                    |
-| Int                       |
-| Score\*                   |
+| Data type | Description |
+| --------- | ----------- |
+| Int | Version (e.g. 20150204) |
+| Int | Number of beatmaps |
+| Beatmaps* | Aforementioned beatmaps |
 
-| Individual score format |
-|-------------------------|
-| Data type               |
-| Byte                    |
-| Int                     |
-| String                  |
-| String                  |
-| String                  |
-| Short                   |
-| Short                   |
-| Short                   |
-| Short                   |
-| Short                   |
-| Short                   |
-| Int                     |
-| Short                   |
-| Boolean                 |
-| Int                     |
-| String                  |
-| Long                    |
-| Int                     |
-| Long                    |
+### Individual beatmap format
 
-Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)](Osr_(file_format) "wikilink") This explains the empty string and -1 int.
+| Data type | Description |
+| --------- | ----------- |
+| String | Beatmap MD5 hash |
+| Int | Number of scores on this beatmap |
+| Score* | Aforementioned scores |
 
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink") [Category:File Formats](Category:File_Formats "wikilink")
+### Individual score format
+
+| Data type | Description |
+| --------- | ----------- |
+| Byte | osu! gameplay mode (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
+| Int | Version of this score/replay (e.g. 20150203) |
+| String | Beatmap MD5 hash |
+| String | Player name |
+| String | Replay MD5 hash |
+| Short | Number of 300's |
+| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 200's in Mania |
+| Short | Number of 50's in osu!Standard, small fruit in CTB, 50's in Mania |
+| Short | Number of Gekis in osu!Standard, Max 300's in Mania |
+| Short | Number of Katus in osu!Standard, 100's in Mania |
+| Short | Number of misses |
+| Int | Replay score |
+| Short | Max Combo |
+| Boolean | Perfect combo |
+| Int | Bitwise combination of mods used. See Osr (file format) for more information. |
+| String | Should always be empty |
+| Long | Timestamp of replay, in Windows ticks |
+| Int | Should always be 0xffffffff (-1). |
+| Long | Online Score ID |
+
+Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)](Osr_(file_format). This explains the empty string and -1 int.
+
+<Category:Infrastructure of osu!><Category:File Formats>
