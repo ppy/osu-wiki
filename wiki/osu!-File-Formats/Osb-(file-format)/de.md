@@ -1,3 +1,3 @@
-**.osb** ist Storyboarddateiformat, welches alle Informationen übers [osu! Storyboard](DE:Storyboarding "wikilink") beinhaltet.
+**.osb** ist Storyboarddateiformat, welches alle Informationen übers [osu! Storyboard](DE:Storyboarding) beinhaltet.
 
-<Category:Deutsch> [Category:File Formats/DE](Category:File_Formats/DE "wikilink")
+<Category:Deutsch><Category:File Formats/DE>
