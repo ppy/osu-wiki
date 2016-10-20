@@ -160,7 +160,7 @@ SliderTickRate (Float) specifies how often slider ticks appear. Default value is
 Events
 ------
 
-See [Storyboard Scripting](Storyboard_Scripting "wikilink")
+See [Storyboard Scripting](Storyboard_Scripting)
 
 Timing Points
 -------------
@@ -182,7 +182,7 @@ Example of an inherited Timing Point:
 Colours
 -------
 
-Combo\# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
+Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
 
 `Combo1 : 245,245,245`
 
@@ -216,4 +216,4 @@ circle = 1 slider = 2 new combo = 4 spinner = 8
 
 The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
 
-[Category:File Formats](Category:File_Formats "wikilink")
+<Category:File Formats>
