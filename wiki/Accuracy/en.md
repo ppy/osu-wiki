@@ -4,15 +4,6 @@ There are three types of accuracy: per [beatmap](../Beatmaps/en.md "wikilink")'s
 
 In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en.md "wikilink") gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
 
-## Table of Contents
-1. [Standard](#standard)
-2. [Taiko](#taiko)
-3. [Catch The Beat](#catch-the-beat)
-4. [Results Screen](#results-screen)
-  1. [Ranking](#ranking)
-  2. [Performance Graph](#performance-graph)
-    1. [Accuracy](#accuracy)
-    2. [Spin](#spin)
 
 ## Standard
 
