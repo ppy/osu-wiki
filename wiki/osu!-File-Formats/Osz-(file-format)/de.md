@@ -2,7 +2,7 @@
 
 Um eine .osz Datei zu erstellen, öffnet man einfach die Beatmap, die man als .osz exportieren möchte, im Editor, klickt oben-rechts auf "Datei" und dann auf "Paket exportieren", siehe Bild.
 
-<img src="DE-.osz export.jpg" title="DE-.osz export.jpg" alt="DE-.osz export.jpg" width="600" />
+![Exporting .osz](DE-.osz_export.jpg "Exporting .osz")
 
 Die exportierte Datei wird dann im osu! Verzeichnis im "Export" Ordner gespeichert und aufbewahrt.
 
