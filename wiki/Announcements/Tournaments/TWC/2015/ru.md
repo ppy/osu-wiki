@@ -1,6 +1,6 @@
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](//osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![](../../../../shared/Jp.gif) Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](//osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Jp.gif) Япония**.
 
 Расписание
 ==========
@@ -21,20 +21,20 @@
 
 | Placing                                                    | Prizes                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | Саппорт на 3 месяца                                                                   |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | Саппорт на 1 месяц                                                                    |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Саппорт на 3 месяца                                                                   |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Саппорт на 1 месяц                                                                    |
 
 Персонал
 ========
 
 | Job          | Person                                                                                                                                                                                        |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Организаторы | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](../../../../shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Подбор карт  | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Стримеры     | ![](../../../../shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](../../../../shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Комментаторы | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Статистик    | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Организаторы | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Подбор карт  | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Стримеры     | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Комментаторы | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Статистик    | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

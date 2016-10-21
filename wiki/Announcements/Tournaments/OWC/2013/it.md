@@ -1,6 +1,6 @@
 ![OWC 2013 logo](logo.png)
 
-L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](//osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](../../../../shared/Kr.gif) Korea**. AL momento, il torneo è in fase *' Registrazione*'.
+L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](//osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](/wiki/shared/flag/Kr.gif) Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =
 
 -   Registrazione: 15-28 Oct 2013
@@ -21,15 +21,15 @@ Premi
 Organizzazione
 ==============
 
-**Gestione torneo:** ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/Loctav), ![](../../../../shared/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/p3n)
+**Gestione torneo:** ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/Loctav), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/p3n)
 
 **Riferimenti:** [Tournament Management usergroup](//osu.ppy.sh/g/26)
 
-**Scelta delle beatmap:** ![](../../../../shared/Ar.gif) [Darksonic](//osu.ppy.sh/u/Darksonic), ![](../../../../shared/Ar.gif) [Wishy](//osu.ppy.sh/u/Wishy)
+**Scelta delle beatmap:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](//osu.ppy.sh/u/Darksonic), ![](/wiki/shared/flag/Ar.gif) [Wishy](//osu.ppy.sh/u/Wishy)
 
-**Diretta trasmessa da:** ![](../../../../shared/Ca.gif) [Nyquill](//osu.ppy.sh/u/Nyquill), ![](../../../../shared/Au.gif) [kingking9](//osu.ppy.sh/u/kingking9), ![](../../../../shared/Us.gif) [Love](//osu.ppy.sh/u/Love), ![](../../../../shared/Ee.gif) [ShinseinaTenshi](//osu.ppy.sh/u/ShinseinaTenshi)
+**Diretta trasmessa da:** ![](/wiki/shared/flag/Ca.gif) [Nyquill](//osu.ppy.sh/u/Nyquill), ![](/wiki/shared/flag/Au.gif) [kingking9](//osu.ppy.sh/u/kingking9), ![](/wiki/shared/flag/Us.gif) [Love](//osu.ppy.sh/u/Love), ![](/wiki/shared/flag/Ee.gif) [ShinseinaTenshi](//osu.ppy.sh/u/ShinseinaTenshi)
 
-**Commentatori:** ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/Mr_Color), ![](../../../../shared/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](../../../../shared/Us.gif) [Agnes](//osu.ppy.sh/u/Agnes)
+**Commentatori:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/Mr_Color), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](/wiki/shared/flag/Us.gif) [Agnes](//osu.ppy.sh/u/Agnes)
 
 ------------------------------------------------------------------------
 
