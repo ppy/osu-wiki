@@ -163,7 +163,7 @@ Previous Map List is here.
 *   [jun - KIMONO \<3 PRINCESS (ouranhshc) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/s/19691)
 *   [Kamui Gakupo, KAITO, Kagamine Len - IMITATION BLACK (Shinxyn) \[Insane\]](//osu.ppy.sh/s/9309)
 *   [Megurine Luka - DYE (Shinxyn) \[Hard\]](//osu.ppy.sh/s/12903)
-*   [Muse - MK Ultra (DJ KRZY) \[31's Taiko]](//osu.ppy.sh/s/14217)
+*   [Muse - MK Ultra (DJ KRZY) \[31's Taiko\]](//osu.ppy.sh/s/14217)
 *   [ND Lee - Y (MoonFragrance) \[Taiko\]](//osu.ppy.sh/s/20044)
 *   [Nico Nico Douga - Kamijo-san & Biribiri at The Skyhigh (KIA) \[Taiko Oni\]](//osu.ppy.sh/s/14300)
 *   [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](//osu.ppy.sh/s/25392)

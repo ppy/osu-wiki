@@ -336,7 +336,7 @@ Round 16
 | [LeaF - MEPHISTO (Alumetorz) \[Pew's SHD\]](//osu.ppy.sh/b/299038)                                   |
 | [Y&Co. feat. Karin - Sweet Rain (chonicle) \[Another\]](//osu.ppy.sh/b/217670)                       |
 | [Ikareru Kin no Shishi - G59 (PROGUY) \[Level 36\]](//osu.ppy.sh/b/235028)                           |
-| [keyc - Wicked plot (Doorknob) \[Lv.04 \[N\]]](//osu.ppy.sh/b/275549)                                |
+| [keyc - Wicked plot (Doorknob) \[Lv.04 \[N\]\]](//osu.ppy.sh/b/275549)                               |
 | [siromaru + cranky - Conflict (Vocaloid Ver.) (ishimaru94) \[Collab\]](//osu.ppy.sh/b/257963)        |
 | [Bond - Wintersun (Bobby D'Ambrosio Mix) (ExPew) \[7K Winter\]](//osu.ppy.sh/b/256726)               |
 | [senya - Utakata, Ai no Mahoroba (Lieselotte) \[LV.28\]](//osu.ppy.sh/b/219360)                      |
