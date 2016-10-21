@@ -1,6 +1,6 @@
 ![CWC 2014 logo](logo.png)
 
-**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )是一个由[Tournament Management](//osu.ppy.sh/g/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第三届了。上一届的冠军是：**![](/wiki/shared/Cl.gif) 智利**。
+**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )是一个由[Tournament Management](//osu.ppy.sh/g/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第三届了。上一届的冠军是：**![](/wiki/shared/flag/Cl.gif) 智利**。
 
 比赛安排
 ========
@@ -32,11 +32,11 @@
 
 | Job          | Person(s)                                                                                                                                                                                                                                                                      |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理         | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                   |
-| beatmap选择    | ![](/wiki/shared/Kr.gif) [CLSW](//osu.ppy.sh/u/531253) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/Fr.gif) [Drafura](//osu.ppy.sh/u/326099)                                                                                |
-| Streamers    | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                    |
-| Commentators | ![](/wiki/shared/Au.gif) [Ephemeral](//osu.ppy.sh/u/102335) // ![](/wiki/shared/Ca.gif) [Kitokofox](//osu.ppy.sh/u/1815420) // ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/Us.gif) [-Ryuujii-](//osu.ppy.sh/u/2107523) |
-| 统计           | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
+| 赛事管理         | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                   |
+| beatmap选择    | ![](/wiki/shared/flag/Kr.gif) [CLSW](//osu.ppy.sh/u/531253) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [Drafura](//osu.ppy.sh/u/326099)                                                                                |
+| Streamers    | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                    |
+| Commentators | ![](/wiki/shared/flag/Au.gif) [Ephemeral](//osu.ppy.sh/u/102335) // ![](/wiki/shared/flag/Ca.gif) [Kitokofox](//osu.ppy.sh/u/1815420) // ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Us.gif) [-Ryuujii-](//osu.ppy.sh/u/2107523) |
+| 统计           | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
 
 ------------------------------------------------------------------------
 
@@ -61,10 +61,10 @@
 
 | 蓝队                                | 红队                                      | UTC +0           | 蓝队的当地时间             | 红队的当地时间             |
 |-----------------------------------|-----------------------------------------|------------------|---------------------|---------------------|
-| 芬兰 ![](/wiki/shared/Fi.gif) | ![](/wiki/shared/Jp.gif) 日本       | **12.00 (12pm)** | 15.00 (3pm) UTC +3  | 21.00 (9pm) UTC +9  |
-| 韩国 ![](/wiki/shared/Kr.gif) | ![](/wiki/shared/Id.gif) 印度尼西亚/印尼 | **13.00 (1pm)**  | 22.00 (10pm) UTC +9 | 20.00 (8pm) UTC +7  |
-| 瑞典 ![](/wiki/shared/Se.gif) | ![](/wiki/shared/Sg.gif) 新加坡      | **14.00 (2pm)**  | 16.00 (4pm) UTC +2  | 22.00 (10pm) UTC +8 |
-| 美国 ![](/wiki/shared/Us.gif) | ![](/wiki/shared/De.gif) 德国       | **15.00 (3pm)**  | 11.00 (11am) UTC -4 | 17.00 (5pm) UTC +2  |
+| 芬兰 ![](/wiki/shared/flag/Fi.gif) | ![](/wiki/shared/flag/Jp.gif) 日本       | **12.00 (12pm)** | 15.00 (3pm) UTC +3  | 21.00 (9pm) UTC +9  |
+| 韩国 ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Id.gif) 印度尼西亚/印尼 | **13.00 (1pm)**  | 22.00 (10pm) UTC +9 | 20.00 (8pm) UTC +7  |
+| 瑞典 ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Sg.gif) 新加坡      | **14.00 (2pm)**  | 16.00 (4pm) UTC +2  | 22.00 (10pm) UTC +8 |
+| 美国 ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/De.gif) 德国       | **15.00 (3pm)**  | 11.00 (11am) UTC -4 | 17.00 (5pm) UTC +2  |
 
 ------------------------------------------------------------------------
 
@@ -73,59 +73,59 @@
 
 | Flag                           | Country | Group A Members                                                                                                                                                                                                      |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Ph.gif) | 菲律宾     | --- disbanded ---                                                                                                                                                                                                    |
-| ![](/wiki/shared/Gb.gif) | 英国      | **[destructor966](//osu.ppy.sh/u/2667584)**, [Nanomight](//osu.ppy.sh/u/160439), [bubbz](//osu.ppy.sh/u/86414), [Phlo10](//osu.ppy.sh/u/2643155), [DarkKanaki](//osu.ppy.sh/u/2614160)                               |
-| ![](/wiki/shared/Th.gif) | 泰国      | **[boomngong](//osu.ppy.sh/u/1090858)**, [Nansugumi](//osu.ppy.sh/u/795915), [0814587134](//osu.ppy.sh/u/1054016)                                                                                                    |
-| ![](/wiki/shared/Us.gif) | 美国      | **[Zak](//osu.ppy.sh/u/1375955)**, [-itsy_v2-](//osu.ppy.sh/u/2815946), [-Kurisu-](//osu.ppy.sh/u/500696), [Minky](//osu.ppy.sh/u/1978891), [TenguKing9](//osu.ppy.sh/u/1637716), [-Ryuuji-](//osu.ppy.sh/u/2107523) |
+| ![](/wiki/shared/flag/Ph.gif) | 菲律宾     | --- disbanded ---                                                                                                                                                                                                    |
+| ![](/wiki/shared/flag/Gb.gif) | 英国      | **[destructor966](//osu.ppy.sh/u/2667584)**, [Nanomight](//osu.ppy.sh/u/160439), [bubbz](//osu.ppy.sh/u/86414), [Phlo10](//osu.ppy.sh/u/2643155), [DarkKanaki](//osu.ppy.sh/u/2614160)                               |
+| ![](/wiki/shared/flag/Th.gif) | 泰国      | **[boomngong](//osu.ppy.sh/u/1090858)**, [Nansugumi](//osu.ppy.sh/u/795915), [0814587134](//osu.ppy.sh/u/1054016)                                                                                                    |
+| ![](/wiki/shared/flag/Us.gif) | 美国      | **[Zak](//osu.ppy.sh/u/1375955)**, [-itsy_v2-](//osu.ppy.sh/u/2815946), [-Kurisu-](//osu.ppy.sh/u/500696), [Minky](//osu.ppy.sh/u/1978891), [TenguKing9](//osu.ppy.sh/u/1637716), [-Ryuuji-](//osu.ppy.sh/u/2107523) |
 
 | Flag                           | Country | Group B Members                                                                                                                                                                 |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Hk.gif) | 香港      | **[alienflybot](//osu.ppy.sh/u/636114)**, [XXXZ](//osu.ppy.sh/u/1226238), [[_NaGI]](//osu.ppy.sh/u/788406), [HineX](//osu.ppy.sh/u/13854), [longkitang](//osu.ppy.sh/u/1744806) |
-| ![](/wiki/shared/Pl.gif) | 波兰      | **[WujekGrzyb](//osu.ppy.sh/u/258289)**, [wampir](//osu.ppy.sh/u/261497), [Kosmit](//osu.ppy.sh/u/1749173), [Scorpionek](//osu.ppy.sh/u/149730)                                 |
-| ![](/wiki/shared/Cl.gif) | 智力      | --- disbanded ---                                                                                                                                                               |
-| ![](/wiki/shared/Ee.gif) | 爱沙尼亚    | **[fanatik](//osu.ppy.sh/u/913992)**, [warstape](//osu.ppy.sh/u/1133783), [KostjaSun](//osu.ppy.sh/u/2450912)                                                                   |
+| ![](/wiki/shared/flag/Hk.gif) | 香港      | **[alienflybot](//osu.ppy.sh/u/636114)**, [XXXZ](//osu.ppy.sh/u/1226238), [[_NaGI]](//osu.ppy.sh/u/788406), [HineX](//osu.ppy.sh/u/13854), [longkitang](//osu.ppy.sh/u/1744806) |
+| ![](/wiki/shared/flag/Pl.gif) | 波兰      | **[WujekGrzyb](//osu.ppy.sh/u/258289)**, [wampir](//osu.ppy.sh/u/261497), [Kosmit](//osu.ppy.sh/u/1749173), [Scorpionek](//osu.ppy.sh/u/149730)                                 |
+| ![](/wiki/shared/flag/Cl.gif) | 智力      | --- disbanded ---                                                                                                                                                               |
+| ![](/wiki/shared/flag/Ee.gif) | 爱沙尼亚    | **[fanatik](//osu.ppy.sh/u/913992)**, [warstape](//osu.ppy.sh/u/1133783), [KostjaSun](//osu.ppy.sh/u/2450912)                                                                   |
 
 | Flag                           | Country | Group C Members                                                                                                                                                                          |
 |--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Tw.gif) | 台灣      | --- disqualified ---                                                                                                                                                                     |
-| ![](/wiki/shared/Nl.gif) | 荷兰      | **[Givralii](//osu.ppy.sh/u/2466879)**, [Nebux](//osu.ppy.sh/u/2342051), [Greaper](//osu.ppy.sh/u/2369776), [CakeAndBanana](//osu.ppy.sh/u/1981424), [wesley221](//osu.ppy.sh/u/2407265) |
-| ![](/wiki/shared/Sg.gif) | 新加坡     | **[Accel](//osu.ppy.sh/u/1169796)**, [Kagayane](//osu.ppy.sh/u/1777691), [He Ang Erika](//osu.ppy.sh/u/2451381), [Otaku_MQ](//osu.ppy.sh/u/2650135), [Ridicule](//osu.ppy.sh/u/3473425)  |
-| ![](/wiki/shared/No.gif) | 挪威      | **[Kiwikun](//osu.ppy.sh/u/1794766)**, [Azeidith](//osu.ppy.sh/u/2819676), [lanki33](//osu.ppy.sh/u/2535200), [Zerzxes](//osu.ppy.sh/u/2094253), [Hakkun](//osu.ppy.sh/u/2179438)        |
+| ![](/wiki/shared/flag/Tw.gif) | 台灣      | --- disqualified ---                                                                                                                                                                     |
+| ![](/wiki/shared/flag/Nl.gif) | 荷兰      | **[Givralii](//osu.ppy.sh/u/2466879)**, [Nebux](//osu.ppy.sh/u/2342051), [Greaper](//osu.ppy.sh/u/2369776), [CakeAndBanana](//osu.ppy.sh/u/1981424), [wesley221](//osu.ppy.sh/u/2407265) |
+| ![](/wiki/shared/flag/Sg.gif) | 新加坡     | **[Accel](//osu.ppy.sh/u/1169796)**, [Kagayane](//osu.ppy.sh/u/1777691), [He Ang Erika](//osu.ppy.sh/u/2451381), [Otaku_MQ](//osu.ppy.sh/u/2650135), [Ridicule](//osu.ppy.sh/u/3473425)  |
+| ![](/wiki/shared/flag/No.gif) | 挪威      | **[Kiwikun](//osu.ppy.sh/u/1794766)**, [Azeidith](//osu.ppy.sh/u/2819676), [lanki33](//osu.ppy.sh/u/2535200), [Zerzxes](//osu.ppy.sh/u/2094253), [Hakkun](//osu.ppy.sh/u/2179438)        |
 
 | Flag                           | Country  | Group D Members                                                                                                                                                                                               |
 |--------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/At.gif) | 奥地利  | **[\[ K a z u \]](//osu.ppy.sh/u/1902480)**, [Raaban](//osu.ppy.sh/u/1569025), [xXMarcelXx](//osu.ppy.sh/u/2355698), [Zuyanta](//osu.ppy.sh/u/2772759)                                                        |
-| ![](/wiki/shared/Fr.gif) | 法国   | --- disbanded ---                                                                                                                                                                                             |
-| ![](/wiki/shared/My.gif) | 马来西亚 | **[-Rin](//osu.ppy.sh/u/1202101)**, [Shadow Fear](//osu.ppy.sh/u/635485), [Rick--](//osu.ppy.sh/u/950241), [QHideaki13](//osu.ppy.sh/u/733998), [kho keng chung](//osu.ppy.sh/u/369045)                       |
-| ![](/wiki/shared/Jp.gif) | 日本    | **[uppia](//osu.ppy.sh/u/1513301)**, [rullu](//osu.ppy.sh/u/595140), [sekirei](//osu.ppy.sh/u/1643335), [giru HD](//osu.ppy.sh/u/707456), [Magiyu](//osu.ppy.sh/u/1667470), [Lafollia](//osu.ppy.sh/u/827985) |
+| ![](/wiki/shared/flag/At.gif) | 奥地利  | **[\[ K a z u \]](//osu.ppy.sh/u/1902480)**, [Raaban](//osu.ppy.sh/u/1569025), [xXMarcelXx](//osu.ppy.sh/u/2355698), [Zuyanta](//osu.ppy.sh/u/2772759)                                                        |
+| ![](/wiki/shared/flag/Fr.gif) | 法国   | --- disbanded ---                                                                                                                                                                                             |
+| ![](/wiki/shared/flag/My.gif) | 马来西亚 | **[-Rin](//osu.ppy.sh/u/1202101)**, [Shadow Fear](//osu.ppy.sh/u/635485), [Rick--](//osu.ppy.sh/u/950241), [QHideaki13](//osu.ppy.sh/u/733998), [kho keng chung](//osu.ppy.sh/u/369045)                       |
+| ![](/wiki/shared/flag/Jp.gif) | 日本    | **[uppia](//osu.ppy.sh/u/1513301)**, [rullu](//osu.ppy.sh/u/595140), [sekirei](//osu.ppy.sh/u/1643335), [giru HD](//osu.ppy.sh/u/707456), [Magiyu](//osu.ppy.sh/u/1667470), [Lafollia](//osu.ppy.sh/u/827985) |
 
 | Flag                           | Country     | Group E Members                                                                                                                                                                          |
 |--------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Mx.gif) | 墨西哥      | **[Lostty](//osu.ppy.sh/u/2118519)**, [ChibiOzed](//osu.ppy.sh/u/1690328), [blacklotus](//osu.ppy.sh/u/2115337)                                                                          |
-| ![](/wiki/shared/Dk.gif) | 丹麦     | **[-Crab-](//osu.ppy.sh/u/2563435)**, [TheCo0k1e](//osu.ppy.sh/u/3386472), [jacoblemming12](//osu.ppy.sh/u/3593786), [FlowHomie](//osu.ppy.sh/u/2831095)                                 |
-| ![](/wiki/shared/Nz.gif) | 纽西兰/新西兰 | **[IQ166](//osu.ppy.sh/u/1452911)**, [Nibble147](//osu.ppy.sh/u/3866541), [JakeCC](//osu.ppy.sh/u/88973)                                                                                 |
-| ![](/wiki/shared/Se.gif) | 瑞典      | **[Yukiteru Amano](//osu.ppy.sh/u/1894511)**, [Walterx8](//osu.ppy.sh/u/1993041), [Negri_sk](//osu.ppy.sh/u/2231396), [-Airi-](//osu.ppy.sh/u/2546340), [Suzuki](//osu.ppy.sh/u/2960209) |
+| ![](/wiki/shared/flag/Mx.gif) | 墨西哥      | **[Lostty](//osu.ppy.sh/u/2118519)**, [ChibiOzed](//osu.ppy.sh/u/1690328), [blacklotus](//osu.ppy.sh/u/2115337)                                                                          |
+| ![](/wiki/shared/flag/Dk.gif) | 丹麦     | **[-Crab-](//osu.ppy.sh/u/2563435)**, [TheCo0k1e](//osu.ppy.sh/u/3386472), [jacoblemming12](//osu.ppy.sh/u/3593786), [FlowHomie](//osu.ppy.sh/u/2831095)                                 |
+| ![](/wiki/shared/flag/Nz.gif) | 纽西兰/新西兰 | **[IQ166](//osu.ppy.sh/u/1452911)**, [Nibble147](//osu.ppy.sh/u/3866541), [JakeCC](//osu.ppy.sh/u/88973)                                                                                 |
+| ![](/wiki/shared/flag/Se.gif) | 瑞典      | **[Yukiteru Amano](//osu.ppy.sh/u/1894511)**, [Walterx8](//osu.ppy.sh/u/1993041), [Negri_sk](//osu.ppy.sh/u/2231396), [-Airi-](//osu.ppy.sh/u/2546340), [Suzuki](//osu.ppy.sh/u/2960209) |
 
 | Flag                           | Country | Group F Members                                                                                                                                                                       |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Es.gif) | 西班牙     | **[SK Eternal](//osu.ppy.sh/u/588046)**, [Raimon](//osu.ppy.sh/u/609627), [RAMONLINKK](//osu.ppy.sh/u/843155), [Nokeru-Chan](//osu.ppy.sh/u/602315), [sarkras](//osu.ppy.sh/u/709625) |
-| ![](/wiki/shared/Pe.gif) | 秘鲁      | --- disbanded ---                                                                                                                                                                     |
-| ![](/wiki/shared/Fi.gif) | 芬兰      | **[YERTI](//osu.ppy.sh/u/1490757)**, [Static Noise Bird](//osu.ppy.sh/u/826132), [MrSake](//osu.ppy.sh/u/264729), [Mianki](//osu.ppy.sh/u/39658)                                      |
-| ![](/wiki/shared/Hr.gif) | 克罗地亚    | **[Meikyuuiri Tsumi](//osu.ppy.sh/u/404314)**, [Animewolf](//osu.ppy.sh/u/949513), [TinTin](//osu.ppy.sh/u/2227976)                                                                   |
+| ![](/wiki/shared/flag/Es.gif) | 西班牙     | **[SK Eternal](//osu.ppy.sh/u/588046)**, [Raimon](//osu.ppy.sh/u/609627), [RAMONLINKK](//osu.ppy.sh/u/843155), [Nokeru-Chan](//osu.ppy.sh/u/602315), [sarkras](//osu.ppy.sh/u/709625) |
+| ![](/wiki/shared/flag/Pe.gif) | 秘鲁      | --- disbanded ---                                                                                                                                                                     |
+| ![](/wiki/shared/flag/Fi.gif) | 芬兰      | **[YERTI](//osu.ppy.sh/u/1490757)**, [Static Noise Bird](//osu.ppy.sh/u/826132), [MrSake](//osu.ppy.sh/u/264729), [Mianki](//osu.ppy.sh/u/39658)                                      |
+| ![](/wiki/shared/flag/Hr.gif) | 克罗地亚    | **[Meikyuuiri Tsumi](//osu.ppy.sh/u/404314)**, [Animewolf](//osu.ppy.sh/u/949513), [TinTin](//osu.ppy.sh/u/2227976)                                                                   |
 
 | Flag                           | Country | Group G Members                                                                                                                                                                  |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Kr.gif) | 韩国      | **[Spectator](//osu.ppy.sh/u/702598)**, [dae6254](//osu.ppy.sh/u/563262), [Frobe](//osu.ppy.sh/u/670365), [Kuzino](//osu.ppy.sh/u/158552), [Last Bubble](//osu.ppy.sh/u/1302259) |
-| ![](/wiki/shared/De.gif) | 德国      | **[DeathXHunter](//osu.ppy.sh/u/405326)**, [NoteKuroi](//osu.ppy.sh/u/186642), [Nyan-Zapo](//osu.ppy.sh/u/480676)                                                                |
-| ![](/wiki/shared/Ca.gif) | 加拿大     | **[Kitokofox](//osu.ppy.sh/u/1815420)**, [Sumaki](//osu.ppy.sh/u/207916), [Kitsunemimi](//osu.ppy.sh/u/100037)                                                                   |
-| ![](/wiki/shared/Bo.gif) | 玻利维亚    | **[donjuan_217](//osu.ppy.sh/u/2169426)**, [brian_rqc](//osu.ppy.sh/u/3710738), [gakupoXD](//osu.ppy.sh/u/871103), [Zen Youkai](//osu.ppy.sh/u/3364257)                          |
+| ![](/wiki/shared/flag/Kr.gif) | 韩国      | **[Spectator](//osu.ppy.sh/u/702598)**, [dae6254](//osu.ppy.sh/u/563262), [Frobe](//osu.ppy.sh/u/670365), [Kuzino](//osu.ppy.sh/u/158552), [Last Bubble](//osu.ppy.sh/u/1302259) |
+| ![](/wiki/shared/flag/De.gif) | 德国      | **[DeathXHunter](//osu.ppy.sh/u/405326)**, [NoteKuroi](//osu.ppy.sh/u/186642), [Nyan-Zapo](//osu.ppy.sh/u/480676)                                                                |
+| ![](/wiki/shared/flag/Ca.gif) | 加拿大     | **[Kitokofox](//osu.ppy.sh/u/1815420)**, [Sumaki](//osu.ppy.sh/u/207916), [Kitsunemimi](//osu.ppy.sh/u/100037)                                                                   |
+| ![](/wiki/shared/flag/Bo.gif) | 玻利维亚    | **[donjuan_217](//osu.ppy.sh/u/2169426)**, [brian_rqc](//osu.ppy.sh/u/3710738), [gakupoXD](//osu.ppy.sh/u/871103), [Zen Youkai](//osu.ppy.sh/u/3364257)                          |
 
 | Flag                           | Country  | Group H Members                                                                                                                                                                               |
 |--------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Ar.gif) | 阿根廷      | **[NightWar](//osu.ppy.sh/u/1209167)**, [Litooo](//osu.ppy.sh/u/1170107), [Gundisalv](//osu.ppy.sh/u/1160340), [musicguy007](//osu.ppy.sh/u/2159777)                                          |
-| ![](/wiki/shared/Cn.gif) | 中国       | **[Dusk](//osu.ppy.sh/u/533210)**, [hy1hy1hy](//osu.ppy.sh/u/243877), [MisakaMikoto](//osu.ppy.sh/u/434917), [Ibuki Suika](//osu.ppy.sh/u/290249)                                             |
-| ![](/wiki/shared/Uy.gif) | 乌拉圭      | **[Themaster155](//osu.ppy.sh/u/1850067)**, [quique95](//osu.ppy.sh/u/472924), [Truxxxton](//osu.ppy.sh/u/1379428), [S3B4](//osu.ppy.sh/u/3437784)                                            |
-| ![](/wiki/shared/Id.gif) | 印度尼西亚/印尼 | **[Shurelia](//osu.ppy.sh/u/3807986)**, [Deceitful](//osu.ppy.sh/u/1396447), [\_EliteYud\_](//osu.ppy.sh/u/2365634), [Yoshida Haru-](//osu.ppy.sh/u/3073351), [- Rii -](//osu.ppy.sh/u/3734591) |
+| ![](/wiki/shared/flag/Ar.gif) | 阿根廷      | **[NightWar](//osu.ppy.sh/u/1209167)**, [Litooo](//osu.ppy.sh/u/1170107), [Gundisalv](//osu.ppy.sh/u/1160340), [musicguy007](//osu.ppy.sh/u/2159777)                                          |
+| ![](/wiki/shared/flag/Cn.gif) | 中国       | **[Dusk](//osu.ppy.sh/u/533210)**, [hy1hy1hy](//osu.ppy.sh/u/243877), [MisakaMikoto](//osu.ppy.sh/u/434917), [Ibuki Suika](//osu.ppy.sh/u/290249)                                             |
+| ![](/wiki/shared/flag/Uy.gif) | 乌拉圭      | **[Themaster155](//osu.ppy.sh/u/1850067)**, [quique95](//osu.ppy.sh/u/472924), [Truxxxton](//osu.ppy.sh/u/1379428), [S3B4](//osu.ppy.sh/u/3437784)                                            |
+| ![](/wiki/shared/flag/Id.gif) | 印度尼西亚/印尼 | **[Shurelia](//osu.ppy.sh/u/3807986)**, [Deceitful](//osu.ppy.sh/u/1396447), [\_EliteYud\_](//osu.ppy.sh/u/2365634), [Yoshida Haru-](//osu.ppy.sh/u/3073351), [- Rii -](//osu.ppy.sh/u/3734591) |
 
 ------------------------------------------------------------------------
 

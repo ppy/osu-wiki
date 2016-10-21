@@ -1,6 +1,6 @@
 ![TWC 2015 logo](logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/Jp.gif) Japan**.
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/flag/Jp.gif) Japan**.
 
 Turnierzeitplan
 ===============
@@ -30,11 +30,11 @@ Organisation
 
 | Job                | Person(s)                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Map Wähler         | ![](/wiki/shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Streamer           | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Kommentatoren      | ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Statistiker        | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Map Wähler         | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamer           | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Kommentatoren      | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

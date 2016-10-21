@@ -30,11 +30,11 @@ Organización
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administración     | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)                                                                                                                                                  |
-| Selección de mapas | ![](/wiki/shared/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) // ![](/wiki/shared/Cl.gif) [Agka](//osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
-| Stream             | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                 |
-| Comentarios        | ![](/wiki/shared/Us.gif) [Charles445](//osu.ppy.sh/u/85000) // ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/It.gif) [Roxas](//osu.ppy.sh/u/1041833) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // ![](/wiki/shared/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) |
-| Estadísticas       | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
+| Administración     | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)                                                                                                                                                  |
+| Selección de mapas | ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) // ![](/wiki/shared/flag/Cl.gif) [Agka](//osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
+| Stream             | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                 |
+| Comentarios        | ![](/wiki/shared/flag/Us.gif) [Charles445](//osu.ppy.sh/u/85000) // ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/It.gif) [Roxas](//osu.ppy.sh/u/1041833) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) |
+| Estadísticas       | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -45,43 +45,43 @@ Cronograma: 7K
 
 | Equipo A                                | Equipo B                                      | UTC             | Hora Local A        | Hora Local B        |
 |-----------------------------------------|-----------------------------------------------|-----------------|---------------------|---------------------|
-| Polanda  ![](/wiki/shared/Pl.gif) | ![](/wiki/shared/Ru.gif) Rusia          | **18.00 (6pm)** | 20.00 (8pm) UTC +2  | 22.00 (10pm) UTC +4 |
-| Portugal ![](/wiki/shared/Pt.gif) | ![](/wiki/shared/Fr.gif) Francia        | **18.00 (6pm)** | 19.00 (7pm) UTC +1  | 20.00 (8pm) UTC +2  |
-| Noruega  ![](/wiki/shared/No.gif) | ![](/wiki/shared/Gb.gif) Reino Unido    | **19.00 (7pm)** | 21.00 (9pm) UTC +2  | 20.00 (8pm) UTC +1  |
-| Chile    ![](/wiki/shared/Cl.gif) | ![](/wiki/shared/Fr.gif) Francia        | **19.00 (7pm)** | 15.00 (3pm) UTC -4  | 21.00 (9pm) UTC +2  |
-| Alemania ![](/wiki/shared/De.gif) | ![](/wiki/shared/Us.gif) Estados Unidos | **20.00 (8pm)** | 22.00 (10pm) UTC +2 | 13.00 (1pm) UTC -7  |
-| Portugal ![](/wiki/shared/Pt.gif) | ![](/wiki/shared/Cl.gif) Chile          | **20.00 (8pm)** | 21.00 (9pm) UTC +1  | 16.00 (4pm) UTC -4  |
+| Polanda  ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Ru.gif) Rusia          | **18.00 (6pm)** | 20.00 (8pm) UTC +2  | 22.00 (10pm) UTC +4 |
+| Portugal ![](/wiki/shared/flag/Pt.gif) | ![](/wiki/shared/flag/Fr.gif) Francia        | **18.00 (6pm)** | 19.00 (7pm) UTC +1  | 20.00 (8pm) UTC +2  |
+| Noruega  ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/Gb.gif) Reino Unido    | **19.00 (7pm)** | 21.00 (9pm) UTC +2  | 20.00 (8pm) UTC +1  |
+| Chile    ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Fr.gif) Francia        | **19.00 (7pm)** | 15.00 (3pm) UTC -4  | 21.00 (9pm) UTC +2  |
+| Alemania ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Us.gif) Estados Unidos | **20.00 (8pm)** | 22.00 (10pm) UTC +2 | 13.00 (1pm) UTC -7  |
+| Portugal ![](/wiki/shared/flag/Pt.gif) | ![](/wiki/shared/flag/Cl.gif) Chile          | **20.00 (8pm)** | 21.00 (9pm) UTC +1  | 16.00 (4pm) UTC -4  |
 
 **Sábado, 16 de Agosto de 2014**
 
 | Equipo A                                     | Equipo B                                      | UTC            | Hora Local A        | Hora Local B                |
 |----------------------------------------------|-----------------------------------------------|----------------|---------------------|-----------------------------|
-| Indonesia ![](/wiki/shared/Id.gif)     | ![](/wiki/shared/Cl.gif) Chile          | **3.00 (3am)** | 10.00 (10am) UTC +7 | 23.00 (11pm) (Fri.) UTC -4  |
-| Filipinas ![](/wiki/shared/Ph.gif)     | ![](/wiki/shared/My.gif) Malasia        | **3.00 (3am)** | 11.00 (11am) UTC +8 | 11.00 (11am) UTC +8         |
-| Australia ![](/wiki/shared/Au.gif)     | ![](/wiki/shared/Us.gif) Estados Unidos | **3.00 (3am)** | 13.00 (1pm) UTC +10 | 20.00 (8pm) (Fri.) UTC -7   |
-| Chile ![](/wiki/shared/Cl.gif)         | ![](/wiki/shared/Jp.gif) Japón          | **4.00 (4am)** | 0.00 (0am) UTC -4   | 13.00 (1pm) UTC +9          |
-| Hong Kong ![](/wiki/shared/Hk.gif)     | ![](/wiki/shared/Cn.gif) China          | **4.00 (4am)** | 12.00 (12pm) UTC +8 | 12.00 (12pm) UTC +8         |
-| Corea del Sur ![](/wiki/shared/Kr.gif) | ![](/wiki/shared/Th.gif) Tailandia      | **4.00 (4am)** | 13.00 (1pm) UTC +9  | 11.00 (11am) UTC +7         |
-| Malasia ![](/wiki/shared/My.gif)       | ![](/wiki/shared/Us.gif) Estados Unidos | **4.00 (4am)** | 12.00 (12pm) UTC +8 | 21.00 (9pm) (Vier.) UTC -7  |
-| Rusia ![](/wiki/shared/Ru.gif)         | ![](/wiki/shared/Cn.gif) China          | **5.00 (5am)** | 9.00 (9am) UTC +4   | 13.00 (1pm) UTC +8          |
-| Indonesia ![](/wiki/shared/Id.gif)     | ![](/wiki/shared/Jp.gif) Japan          | **5.00 (5am)** | 12.00 (12pm) UTC +7 | 14.00 (2pm) UTC +9          |
-| Australia ![](/wiki/shared/Au.gif)     | ![](/wiki/shared/Ph.gif) Filipinas      | **5.00 (5am)** | 15.00 (3pm) UTC +10 | 13.00 (1pm) UTC +8          |
-| Filipinas ![](/wiki/shared/Ph.gif)     | ![](/wiki/shared/Us.gif) United States  | **5.00 (5am)** | 13.00 (1pm) UTC +8  | 22.00 (10pm) (Vier.) UTC -7 |
-| Noruega ![](/wiki/shared/No.gif)       | ![](/wiki/shared/Th.gif) Thailand       | **6.00 (6am)** | 8.00 (8am) UTC +2   | 13.00 (1pm) UTC +7          |
-| Hong Kong ![](/wiki/shared/Hk.gif)     | ![](/wiki/shared/Ru.gif) Rusia          | **6.00 (6am)** | 14.00 (2pm) UTC +8  | 10.00 (10am) UTC +4         |
-| Australia ![](/wiki/shared/Au.gif)     | ![](/wiki/shared/My.gif) Malasia        | **7.00 (7am)** | 17.00 (5pm) UTC +10 | 15.00 (3pm) UTC +8          |
-| Indonesia ![](/wiki/shared/Id.gif)     | ![](/wiki/shared/Fr.gif) Francia        | **7.00 (7am)** | 14.00 (2pm) UTC +7  | 9.00 (9am) UTC +2           |
-| Filipinas ![](/wiki/shared/Ph.gif)     | ![](/wiki/shared/De.gif) Alemania       | **7.00 (7am)** | 15.00 (3pm) UTC +8  | 9.00 (9am) UTC +2           |
-| Portugal ![](/wiki/shared/Pt.gif)      | ![](/wiki/shared/Jp.gif) Japón          | **7.00 (7am)** | 8.00 (8am) UTC +1   | 16.00 (4pm) UTC +9          |
-| Polanda ![](/wiki/shared/Pl.gif)       | ![](/wiki/shared/Cn.gif) China          | **7.00 (7am)** | 9.00 (9am) UTC +2   | 15.00 (3pm) UTC +8          |
-| Malasia ![](/wiki/shared/My.gif)       | ![](/wiki/shared/De.gif) Alemania       | **8.00 (8am)** | 16.00 (4pm) UTC +8  | 10.00 (10am) UTC +2         |
-| Corea del Sur ![](/wiki/shared/Kr.gif) | ![](/wiki/shared/No.gif) Noruega        | **8.00 (8am)** | 17.00 (5pm) UTC +9  | 10.00 (10am) UTC +2         |
-| Tailandia ![](/wiki/shared/Th.gif)     | ![](/wiki/shared/Gb.gif) Reino Unido    | **8.00 (8am)** | 15.00 (3pm) UTC +7  | 9.00 (9am) UTC +1           |
-| Japón ![](/wiki/shared/Jp.gif)         | ![](/wiki/shared/Fr.gif) Francia        | **8.00 (8am)** | 17.00 (5pm) UTC +9  | 10.00 (10am) UTC +2         |
-| Polanda ![](/wiki/shared/Pl.gif)       | ![](/wiki/shared/Hk.gif) Hong Kong      | **8.00 (8am)** | 10.00 (10am) UTC +2 | 16.00 (4pm) UTC +8          |
-| Indonesia ![](/wiki/shared/Id.gif)     | ![](/wiki/shared/Pt.gif) Portugal       | **9.00 (9am)** | 16.00 (4pm) UTC +7  | 10.00 (10am) UTC +1         |
-| Corea del Sur ![](/wiki/shared/Kr.gif) | ![](/wiki/shared/Gb.gif) Reino Unido    | **9.00 (9am)** | 18.00 (6pm) UTC +9  | 10.00 (10am) UTC +1         |
-| Australia ![](/wiki/shared/Au.gif)     | ![](/wiki/shared/De.gif) Alemania       | **9.00 (9am)** | 19.00 (7pm) UTC +10 | 11.00 (11am) UTC +2         |
+| Indonesia ![](/wiki/shared/flag/Id.gif)     | ![](/wiki/shared/flag/Cl.gif) Chile          | **3.00 (3am)** | 10.00 (10am) UTC +7 | 23.00 (11pm) (Fri.) UTC -4  |
+| Filipinas ![](/wiki/shared/flag/Ph.gif)     | ![](/wiki/shared/flag/My.gif) Malasia        | **3.00 (3am)** | 11.00 (11am) UTC +8 | 11.00 (11am) UTC +8         |
+| Australia ![](/wiki/shared/flag/Au.gif)     | ![](/wiki/shared/flag/Us.gif) Estados Unidos | **3.00 (3am)** | 13.00 (1pm) UTC +10 | 20.00 (8pm) (Fri.) UTC -7   |
+| Chile ![](/wiki/shared/flag/Cl.gif)         | ![](/wiki/shared/flag/Jp.gif) Japón          | **4.00 (4am)** | 0.00 (0am) UTC -4   | 13.00 (1pm) UTC +9          |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif)     | ![](/wiki/shared/flag/Cn.gif) China          | **4.00 (4am)** | 12.00 (12pm) UTC +8 | 12.00 (12pm) UTC +8         |
+| Corea del Sur ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Th.gif) Tailandia      | **4.00 (4am)** | 13.00 (1pm) UTC +9  | 11.00 (11am) UTC +7         |
+| Malasia ![](/wiki/shared/flag/My.gif)       | ![](/wiki/shared/flag/Us.gif) Estados Unidos | **4.00 (4am)** | 12.00 (12pm) UTC +8 | 21.00 (9pm) (Vier.) UTC -7  |
+| Rusia ![](/wiki/shared/flag/Ru.gif)         | ![](/wiki/shared/flag/Cn.gif) China          | **5.00 (5am)** | 9.00 (9am) UTC +4   | 13.00 (1pm) UTC +8          |
+| Indonesia ![](/wiki/shared/flag/Id.gif)     | ![](/wiki/shared/flag/Jp.gif) Japan          | **5.00 (5am)** | 12.00 (12pm) UTC +7 | 14.00 (2pm) UTC +9          |
+| Australia ![](/wiki/shared/flag/Au.gif)     | ![](/wiki/shared/flag/Ph.gif) Filipinas      | **5.00 (5am)** | 15.00 (3pm) UTC +10 | 13.00 (1pm) UTC +8          |
+| Filipinas ![](/wiki/shared/flag/Ph.gif)     | ![](/wiki/shared/flag/Us.gif) United States  | **5.00 (5am)** | 13.00 (1pm) UTC +8  | 22.00 (10pm) (Vier.) UTC -7 |
+| Noruega ![](/wiki/shared/flag/No.gif)       | ![](/wiki/shared/flag/Th.gif) Thailand       | **6.00 (6am)** | 8.00 (8am) UTC +2   | 13.00 (1pm) UTC +7          |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif)     | ![](/wiki/shared/flag/Ru.gif) Rusia          | **6.00 (6am)** | 14.00 (2pm) UTC +8  | 10.00 (10am) UTC +4         |
+| Australia ![](/wiki/shared/flag/Au.gif)     | ![](/wiki/shared/flag/My.gif) Malasia        | **7.00 (7am)** | 17.00 (5pm) UTC +10 | 15.00 (3pm) UTC +8          |
+| Indonesia ![](/wiki/shared/flag/Id.gif)     | ![](/wiki/shared/flag/Fr.gif) Francia        | **7.00 (7am)** | 14.00 (2pm) UTC +7  | 9.00 (9am) UTC +2           |
+| Filipinas ![](/wiki/shared/flag/Ph.gif)     | ![](/wiki/shared/flag/De.gif) Alemania       | **7.00 (7am)** | 15.00 (3pm) UTC +8  | 9.00 (9am) UTC +2           |
+| Portugal ![](/wiki/shared/flag/Pt.gif)      | ![](/wiki/shared/flag/Jp.gif) Japón          | **7.00 (7am)** | 8.00 (8am) UTC +1   | 16.00 (4pm) UTC +9          |
+| Polanda ![](/wiki/shared/flag/Pl.gif)       | ![](/wiki/shared/flag/Cn.gif) China          | **7.00 (7am)** | 9.00 (9am) UTC +2   | 15.00 (3pm) UTC +8          |
+| Malasia ![](/wiki/shared/flag/My.gif)       | ![](/wiki/shared/flag/De.gif) Alemania       | **8.00 (8am)** | 16.00 (4pm) UTC +8  | 10.00 (10am) UTC +2         |
+| Corea del Sur ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/No.gif) Noruega        | **8.00 (8am)** | 17.00 (5pm) UTC +9  | 10.00 (10am) UTC +2         |
+| Tailandia ![](/wiki/shared/flag/Th.gif)     | ![](/wiki/shared/flag/Gb.gif) Reino Unido    | **8.00 (8am)** | 15.00 (3pm) UTC +7  | 9.00 (9am) UTC +1           |
+| Japón ![](/wiki/shared/flag/Jp.gif)         | ![](/wiki/shared/flag/Fr.gif) Francia        | **8.00 (8am)** | 17.00 (5pm) UTC +9  | 10.00 (10am) UTC +2         |
+| Polanda ![](/wiki/shared/flag/Pl.gif)       | ![](/wiki/shared/flag/Hk.gif) Hong Kong      | **8.00 (8am)** | 10.00 (10am) UTC +2 | 16.00 (4pm) UTC +8          |
+| Indonesia ![](/wiki/shared/flag/Id.gif)     | ![](/wiki/shared/flag/Pt.gif) Portugal       | **9.00 (9am)** | 16.00 (4pm) UTC +7  | 10.00 (10am) UTC +1         |
+| Corea del Sur ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Gb.gif) Reino Unido    | **9.00 (9am)** | 18.00 (6pm) UTC +9  | 10.00 (10am) UTC +1         |
+| Australia ![](/wiki/shared/flag/Au.gif)     | ![](/wiki/shared/flag/De.gif) Alemania       | **9.00 (9am)** | 19.00 (7pm) UTC +10 | 11.00 (11am) UTC +2         |
 
 ------------------------------------------------------------------------
 
@@ -101,49 +101,49 @@ Participantes
 
 | Country                                        | Grupo 4K Members                                                                                                                                                |
 |------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Ar.gif) Argentina       | **[juankristal](//osu.ppy.sh/u/443656)**, [Icaruz](//osu.ppy.sh/u/2605137), [Euroe](//osu.ppy.sh/u/3633019)                                                     |
-| ![](/wiki/shared/Au.gif) Australia       | **[Envisionise](//osu.ppy.sh/u/2853195)**, [\-X Y Z\-](//osu.ppy.sh/u/1610833), [MasterSonic10](//osu.ppy.sh/u/1249224), [Combinatorix](//osu.ppy.sh/u/3174286) |
-| ![](/wiki/shared/Ca.gif) Canadá          | **[Bites](//osu.ppy.sh/u/1671598)**, [ca25nada](//osu.ppy.sh/u/103255)                                                                                          |
-| ![](/wiki/shared/Cl.gif) Chile           | --- Lista Pendiente ---                                                                                                                                         |
-| ![](/wiki/shared/Cz.gif) República Checa | --- retirado ---                                                                                                                                                |
-| ![](/wiki/shared/Fr.gif) Francia         | **[adrien062](//osu.ppy.sh/u/2131990)**, [lim38](//osu.ppy.sh/u/2741170), [HamarGaylord](//osu.ppy.sh/u/1398639)                                                |
-| ![](/wiki/shared/De.gif) Alemania        | **[IamBaum](//osu.ppy.sh/u/3078914)**, [Reikokaz](//osu.ppy.sh/u/1263173), [Dualshock](//osu.ppy.sh/u/1902591), [Chucksal](//osu.ppy.sh/u/2869914)              |
-| ![](/wiki/shared/Id.gif) Indonesia       | **[dionzz99](//osu.ppy.sh/u/2545604)**, [BeAyWayYou](//osu.ppy.sh/u/2816463)                                                                                    |
-| ![](/wiki/shared/Jp.gif) Japón           | **[OmegaJack](//osu.ppy.sh/u/205391)**, [coo\_m](//osu.ppy.sh/u/1927193), [PiraTom](//osu.ppy.sh/u/1847698), [metyabo](//osu.ppy.sh/u/623773)                   |
-| ![](/wiki/shared/My.gif) Malasia         | **[Gon](//osu.ppy.sh/u/583765)**, [LongGone](//osu.ppy.sh/u/35882), [\_Sylveon\_](//osu.ppy.sh/u/3936677), [ZYuan](//osu.ppy.sh/u/3337688)                      |
-| ![](/wiki/shared/Nz.gif) Nueva Zelanda   | **[Mudkips](//osu.ppy.sh/u/2502706)**, [ksy64320](//osu.ppy.sh/u/2068663), [Crono76](//osu.ppy.sh/u/4249989)                                                    |
-| ![](/wiki/shared/No.gif) Noruega         | **[Staiain](//osu.ppy.sh/u/86188)**, [oscar](//osu.ppy.sh/u/284347), [nnobel](//osu.ppy.sh/u/3043738), [NekoFlaa](//osu.ppy.sh/u/80640)                         |
-| ![](/wiki/shared/Ph.gif) Filipinas       | **[Tokiiwa](//osu.ppy.sh/u/4029511)**, [Ainyan](//osu.ppy.sh/u/3770641), [arcwinolivirus](//osu.ppy.sh/u/2039089)                                               |
-| ![](/wiki/shared/Pl.gif) Polanda         | **[\-Kamikaze\-](//osu.ppy.sh/u/2124783)**, [Tidek](//osu.ppy.sh/u/743282), [Modren](//osu.ppy.sh/u/1828621), [Hudonom](//osu.ppy.sh/u/1654221)                 |
-| ![](/wiki/shared/Ru.gif) Rusia           | **[Daleenie](//osu.ppy.sh/u/1540597)**, [Kiviman](//osu.ppy.sh/u/2790640)                                                                                       |
-| ![](/wiki/shared/Kr.gif) Corea del Sur   | **[ideu\-](//osu.ppy.sh/u/137227)**, [Abcdullah](//osu.ppy.sh/u/4140104), [jhlee0133](//osu.ppy.sh/u/140148), [FaL3C\_ChoBo](//osu.ppy.sh/u/1218632)            |
-| ![](/wiki/shared/Es.gif) España          | **[KHRiku](//osu.ppy.sh/u/3104514)**, [sergioperez](//osu.ppy.sh/u/182447), [Luna\_123](//osu.ppy.sh/u/2041945)                                                 |
-| ![](/wiki/shared/Tw.gif) Taiwan          | **[CrazyStar](//osu.ppy.sh/u/680008)**, [GH\_CHAIKA](//osu.ppy.sh/u/2462317), [y85782122](//osu.ppy.sh/u/2287176), [sille123](//osu.ppy.sh/u/1626359)           |
-| ![](/wiki/shared/Gb.gif) Reino Unido     | **[Cozzzy](//osu.ppy.sh/u/2003917)**, [H A Y A B U S A](//osu.ppy.sh/u/3104108)                                                                                 |
-| ![](/wiki/shared/Us.gif) Estados Unidos  | **[Ayaya](//osu.ppy.sh/u/3088679)**, [Zyph](//osu.ppy.sh/u/1600432), [Ziergdsx18](//osu.ppy.sh/u/869702), [RemiFlan](//osu.ppy.sh/u/3061151)                    |
+| ![](/wiki/shared/flag/Ar.gif) Argentina       | **[juankristal](//osu.ppy.sh/u/443656)**, [Icaruz](//osu.ppy.sh/u/2605137), [Euroe](//osu.ppy.sh/u/3633019)                                                     |
+| ![](/wiki/shared/flag/Au.gif) Australia       | **[Envisionise](//osu.ppy.sh/u/2853195)**, [\-X Y Z\-](//osu.ppy.sh/u/1610833), [MasterSonic10](//osu.ppy.sh/u/1249224), [Combinatorix](//osu.ppy.sh/u/3174286) |
+| ![](/wiki/shared/flag/Ca.gif) Canadá          | **[Bites](//osu.ppy.sh/u/1671598)**, [ca25nada](//osu.ppy.sh/u/103255)                                                                                          |
+| ![](/wiki/shared/flag/Cl.gif) Chile           | --- Lista Pendiente ---                                                                                                                                         |
+| ![](/wiki/shared/flag/Cz.gif) República Checa | --- retirado ---                                                                                                                                                |
+| ![](/wiki/shared/flag/Fr.gif) Francia         | **[adrien062](//osu.ppy.sh/u/2131990)**, [lim38](//osu.ppy.sh/u/2741170), [HamarGaylord](//osu.ppy.sh/u/1398639)                                                |
+| ![](/wiki/shared/flag/De.gif) Alemania        | **[IamBaum](//osu.ppy.sh/u/3078914)**, [Reikokaz](//osu.ppy.sh/u/1263173), [Dualshock](//osu.ppy.sh/u/1902591), [Chucksal](//osu.ppy.sh/u/2869914)              |
+| ![](/wiki/shared/flag/Id.gif) Indonesia       | **[dionzz99](//osu.ppy.sh/u/2545604)**, [BeAyWayYou](//osu.ppy.sh/u/2816463)                                                                                    |
+| ![](/wiki/shared/flag/Jp.gif) Japón           | **[OmegaJack](//osu.ppy.sh/u/205391)**, [coo\_m](//osu.ppy.sh/u/1927193), [PiraTom](//osu.ppy.sh/u/1847698), [metyabo](//osu.ppy.sh/u/623773)                   |
+| ![](/wiki/shared/flag/My.gif) Malasia         | **[Gon](//osu.ppy.sh/u/583765)**, [LongGone](//osu.ppy.sh/u/35882), [\_Sylveon\_](//osu.ppy.sh/u/3936677), [ZYuan](//osu.ppy.sh/u/3337688)                      |
+| ![](/wiki/shared/flag/Nz.gif) Nueva Zelanda   | **[Mudkips](//osu.ppy.sh/u/2502706)**, [ksy64320](//osu.ppy.sh/u/2068663), [Crono76](//osu.ppy.sh/u/4249989)                                                    |
+| ![](/wiki/shared/flag/No.gif) Noruega         | **[Staiain](//osu.ppy.sh/u/86188)**, [oscar](//osu.ppy.sh/u/284347), [nnobel](//osu.ppy.sh/u/3043738), [NekoFlaa](//osu.ppy.sh/u/80640)                         |
+| ![](/wiki/shared/flag/Ph.gif) Filipinas       | **[Tokiiwa](//osu.ppy.sh/u/4029511)**, [Ainyan](//osu.ppy.sh/u/3770641), [arcwinolivirus](//osu.ppy.sh/u/2039089)                                               |
+| ![](/wiki/shared/flag/Pl.gif) Polanda         | **[\-Kamikaze\-](//osu.ppy.sh/u/2124783)**, [Tidek](//osu.ppy.sh/u/743282), [Modren](//osu.ppy.sh/u/1828621), [Hudonom](//osu.ppy.sh/u/1654221)                 |
+| ![](/wiki/shared/flag/Ru.gif) Rusia           | **[Daleenie](//osu.ppy.sh/u/1540597)**, [Kiviman](//osu.ppy.sh/u/2790640)                                                                                       |
+| ![](/wiki/shared/flag/Kr.gif) Corea del Sur   | **[ideu\-](//osu.ppy.sh/u/137227)**, [Abcdullah](//osu.ppy.sh/u/4140104), [jhlee0133](//osu.ppy.sh/u/140148), [FaL3C\_ChoBo](//osu.ppy.sh/u/1218632)            |
+| ![](/wiki/shared/flag/Es.gif) España          | **[KHRiku](//osu.ppy.sh/u/3104514)**, [sergioperez](//osu.ppy.sh/u/182447), [Luna\_123](//osu.ppy.sh/u/2041945)                                                 |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan          | **[CrazyStar](//osu.ppy.sh/u/680008)**, [GH\_CHAIKA](//osu.ppy.sh/u/2462317), [y85782122](//osu.ppy.sh/u/2287176), [sille123](//osu.ppy.sh/u/1626359)           |
+| ![](/wiki/shared/flag/Gb.gif) Reino Unido     | **[Cozzzy](//osu.ppy.sh/u/2003917)**, [H A Y A B U S A](//osu.ppy.sh/u/3104108)                                                                                 |
+| ![](/wiki/shared/flag/Us.gif) Estados Unidos  | **[Ayaya](//osu.ppy.sh/u/3088679)**, [Zyph](//osu.ppy.sh/u/1600432), [Ziergdsx18](//osu.ppy.sh/u/869702), [RemiFlan](//osu.ppy.sh/u/3061151)                    |
 
 | Country                                       | Grupo 7K Members                                                                                                                                           |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/Au.gif) Australia      | **[zKskita](//osu.ppy.sh/u/457515)**, [Envisionise](//osu.ppy.sh/u/2853195), [Tornspirit](//osu.ppy.sh/u/1338883), [ApocaZumbee](//osu.ppy.sh/u/3431615)   |
-| ![](/wiki/shared/Cl.gif) Chile          | --- disuelto ---                                                                                                                                           |
-| ![](/wiki/shared/Cn.gif) China          | **[spro](//osu.ppy.sh/u/227717)**, [zfloveys](//osu.ppy.sh/u/89545), [Fate\_Yakumo](//osu.ppy.sh/u/2660480), [innocentfake](//osu.ppy.sh/u/85797)          |
-| ![](/wiki/shared/Fr.gif) Francia        | **[Elementaires](//osu.ppy.sh/u/2284328)**, [lim38](//osu.ppy.sh/u/2741170), [Foglol](//osu.ppy.sh/u/2533089)                                              |
-| ![](/wiki/shared/De.gif) Alemania       | **[rohen04](//osu.ppy.sh/u/369614)**, [playin14](//osu.ppy.sh/u/2144038), [Reikokaz](//osu.ppy.sh/u/1263173)                                               |
-| ![](/wiki/shared/Hk.gif) Hong Kong      | **[wongfung](//osu.ppy.sh/u/61791)**, [Snow Note](//osu.ppy.sh/u/643394), [cabigon](//osu.ppy.sh/u/2417142)                                                |
-| ![](/wiki/shared/Id.gif) Indonesia      | **[Nyooo](//osu.ppy.sh/u/2319372)**, [Midare](//osu.ppy.sh/u/2663343), [Zeradok](//osu.ppy.sh/u/544631)                                                    |
-| ![](/wiki/shared/Jp.gif) Japón          | **[OmegaJack](//osu.ppy.sh/u/205391)**, [coo\_m](//osu.ppy.sh/u/1927193), [metyabo](//osu.ppy.sh/u/623773)                                                 |
-| ![](/wiki/shared/My.gif) Malasia        | **[Gon](//osu.ppy.sh/u/583765)**, [LongGone](//osu.ppy.sh/u/35882), [\_Sylveon\_](//osu.ppy.sh/u/3936677)                                                  |
-| ![](/wiki/shared/Nl.gif) Países Bajos   | --- retirado ---                                                                                                                                           |
-| ![](/wiki/shared/No.gif) Noruega        | **[BigMouthDog](//osu.ppy.sh/u/2110078)**, [Dazzy](//osu.ppy.sh/u/811297)                                                                                  |
-| ![](/wiki/shared/Ph.gif) Filipinas      | **[Entozer](//osu.ppy.sh/u/277044)**, [snowkel](//osu.ppy.sh/u/1073829), [SanniSanni](//osu.ppy.sh/u/3036686)                                              |
-| ![](/wiki/shared/Pl.gif) Polanda        | **[Modren](//osu.ppy.sh/u/1828621)**, [Hudonom](//osu.ppy.sh/u/1654221), [\-Kamikaze\-](//osu.ppy.sh/u/2124783), [Tear](//osu.ppy.sh/u/1340650)            |
-| ![](/wiki/shared/Pt.gif) Portugal       | **[-Blossom-](//osu.ppy.sh/u/2535395)**, [Mizusi](//osu.ppy.sh/u/2796312)                                                                                  |
-| ![](/wiki/shared/Ru.gif) Rusia          | **[Daleenie](//osu.ppy.sh/u/1540597)**, [Kiviman](//osu.ppy.sh/u/2790640)                                                                                  |
-| ![](/wiki/shared/Kr.gif) Corea del Sur  | **[ideu-](//osu.ppy.sh/u/137227)**, [Abcdullah](//osu.ppy.sh/u/4140104), [jhlee0133](//osu.ppy.sh/u/140148), [WindyS](//osu.ppy.sh/u/1190879)              |
-| ![](/wiki/shared/Es.gif) España         | --- disuelto ---                                                                                                                                           |
-| ![](/wiki/shared/Th.gif) Tailandia      | **[lostcool](//osu.ppy.sh/u/766374)**, [Mystical Faith](//osu.ppy.sh/u/4280188), [Popo[Mikoto]](//osu.ppy.sh/u/445236)                                     |
-| ![](/wiki/shared/Gb.gif) Reino Unido    | **[H A Y A B U S A](//osu.ppy.sh/u/3104108)**, [The Muffin Man](//osu.ppy.sh/u/2186171), [Mafham](//osu.ppy.sh/u/3660531), [xWillx](//osu.ppy.sh/u/696222) |
-| ![](/wiki/shared/Us.gif) Estados Unidos | **[October Scream](//osu.ppy.sh/u/2812237)**, [Squishykorean](//osu.ppy.sh/u/4372604), [Blocko](//osu.ppy.sh/u/4075092)                                    |
+| ![](/wiki/shared/flag/Au.gif) Australia      | **[zKskita](//osu.ppy.sh/u/457515)**, [Envisionise](//osu.ppy.sh/u/2853195), [Tornspirit](//osu.ppy.sh/u/1338883), [ApocaZumbee](//osu.ppy.sh/u/3431615)   |
+| ![](/wiki/shared/flag/Cl.gif) Chile          | --- disuelto ---                                                                                                                                           |
+| ![](/wiki/shared/flag/Cn.gif) China          | **[spro](//osu.ppy.sh/u/227717)**, [zfloveys](//osu.ppy.sh/u/89545), [Fate\_Yakumo](//osu.ppy.sh/u/2660480), [innocentfake](//osu.ppy.sh/u/85797)          |
+| ![](/wiki/shared/flag/Fr.gif) Francia        | **[Elementaires](//osu.ppy.sh/u/2284328)**, [lim38](//osu.ppy.sh/u/2741170), [Foglol](//osu.ppy.sh/u/2533089)                                              |
+| ![](/wiki/shared/flag/De.gif) Alemania       | **[rohen04](//osu.ppy.sh/u/369614)**, [playin14](//osu.ppy.sh/u/2144038), [Reikokaz](//osu.ppy.sh/u/1263173)                                               |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong      | **[wongfung](//osu.ppy.sh/u/61791)**, [Snow Note](//osu.ppy.sh/u/643394), [cabigon](//osu.ppy.sh/u/2417142)                                                |
+| ![](/wiki/shared/flag/Id.gif) Indonesia      | **[Nyooo](//osu.ppy.sh/u/2319372)**, [Midare](//osu.ppy.sh/u/2663343), [Zeradok](//osu.ppy.sh/u/544631)                                                    |
+| ![](/wiki/shared/flag/Jp.gif) Japón          | **[OmegaJack](//osu.ppy.sh/u/205391)**, [coo\_m](//osu.ppy.sh/u/1927193), [metyabo](//osu.ppy.sh/u/623773)                                                 |
+| ![](/wiki/shared/flag/My.gif) Malasia        | **[Gon](//osu.ppy.sh/u/583765)**, [LongGone](//osu.ppy.sh/u/35882), [\_Sylveon\_](//osu.ppy.sh/u/3936677)                                                  |
+| ![](/wiki/shared/flag/Nl.gif) Países Bajos   | --- retirado ---                                                                                                                                           |
+| ![](/wiki/shared/flag/No.gif) Noruega        | **[BigMouthDog](//osu.ppy.sh/u/2110078)**, [Dazzy](//osu.ppy.sh/u/811297)                                                                                  |
+| ![](/wiki/shared/flag/Ph.gif) Filipinas      | **[Entozer](//osu.ppy.sh/u/277044)**, [snowkel](//osu.ppy.sh/u/1073829), [SanniSanni](//osu.ppy.sh/u/3036686)                                              |
+| ![](/wiki/shared/flag/Pl.gif) Polanda        | **[Modren](//osu.ppy.sh/u/1828621)**, [Hudonom](//osu.ppy.sh/u/1654221), [\-Kamikaze\-](//osu.ppy.sh/u/2124783), [Tear](//osu.ppy.sh/u/1340650)            |
+| ![](/wiki/shared/flag/Pt.gif) Portugal       | **[-Blossom-](//osu.ppy.sh/u/2535395)**, [Mizusi](//osu.ppy.sh/u/2796312)                                                                                  |
+| ![](/wiki/shared/flag/Ru.gif) Rusia          | **[Daleenie](//osu.ppy.sh/u/1540597)**, [Kiviman](//osu.ppy.sh/u/2790640)                                                                                  |
+| ![](/wiki/shared/flag/Kr.gif) Corea del Sur  | **[ideu-](//osu.ppy.sh/u/137227)**, [Abcdullah](//osu.ppy.sh/u/4140104), [jhlee0133](//osu.ppy.sh/u/140148), [WindyS](//osu.ppy.sh/u/1190879)              |
+| ![](/wiki/shared/flag/Es.gif) España         | --- disuelto ---                                                                                                                                           |
+| ![](/wiki/shared/flag/Th.gif) Tailandia      | **[lostcool](//osu.ppy.sh/u/766374)**, [Mystical Faith](//osu.ppy.sh/u/4280188), [Popo[Mikoto]](//osu.ppy.sh/u/445236)                                     |
+| ![](/wiki/shared/flag/Gb.gif) Reino Unido    | **[H A Y A B U S A](//osu.ppy.sh/u/3104108)**, [The Muffin Man](//osu.ppy.sh/u/2186171), [Mafham](//osu.ppy.sh/u/3660531), [xWillx](//osu.ppy.sh/u/696222) |
+| ![](/wiki/shared/flag/Us.gif) Estados Unidos | **[October Scream](//osu.ppy.sh/u/2812237)**, [Squishykorean](//osu.ppy.sh/u/4372604), [Blocko](//osu.ppy.sh/u/4075092)                                    |
 
 Grupos
 ======
@@ -152,21 +152,21 @@ Grupos
 
 | Grupo A                                  | Grupo B                                        | Grupo C                                      | Grupo D                                |
 |------------------------------------------|------------------------------------------------|----------------------------------------------|----------------------------------------|
-| ![](/wiki/shared/Ar.gif) Argentina | ![](/wiki/shared/Cz.gif) República Checa | ![](/wiki/shared/Ru.gif) Rusia         | ![](/wiki/shared/Pl.gif) Polanda |
-| ![](/wiki/shared/Es.gif) España    | ![](/wiki/shared/Au.gif) Australia       | ![](/wiki/shared/Jp.gif) Japón         | ![](/wiki/shared/Ca.gif) Canadá  |
-| ![](/wiki/shared/Tw.gif) Taiwan    | ![](/wiki/shared/Id.gif) Indonesia       | ![](/wiki/shared/Nz.gif) Nueva Zelanda | ![](/wiki/shared/Cl.gif) Chile   |
-| ![](/wiki/shared/Ph.gif) Filipinas | ![](/wiki/shared/Us.gif) Estados Unidos  | ![](/wiki/shared/Gb.gif) Reino Unido   | ![](/wiki/shared/No.gif) Noruega |
-| ![](/wiki/shared/De.gif) Alemania  | ![](/wiki/shared/Kr.gif) Corea del Sur   | ![](/wiki/shared/My.gif) Malasia       | ![](/wiki/shared/Fr.gif) Francia |
+| ![](/wiki/shared/flag/Ar.gif) Argentina | ![](/wiki/shared/flag/Cz.gif) República Checa | ![](/wiki/shared/flag/Ru.gif) Rusia         | ![](/wiki/shared/flag/Pl.gif) Polanda |
+| ![](/wiki/shared/flag/Es.gif) España    | ![](/wiki/shared/flag/Au.gif) Australia       | ![](/wiki/shared/flag/Jp.gif) Japón         | ![](/wiki/shared/flag/Ca.gif) Canadá  |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan    | ![](/wiki/shared/flag/Id.gif) Indonesia       | ![](/wiki/shared/flag/Nz.gif) Nueva Zelanda | ![](/wiki/shared/flag/Cl.gif) Chile   |
+| ![](/wiki/shared/flag/Ph.gif) Filipinas | ![](/wiki/shared/flag/Us.gif) Estados Unidos  | ![](/wiki/shared/flag/Gb.gif) Reino Unido   | ![](/wiki/shared/flag/No.gif) Noruega |
+| ![](/wiki/shared/flag/De.gif) Alemania  | ![](/wiki/shared/flag/Kr.gif) Corea del Sur   | ![](/wiki/shared/flag/My.gif) Malasia       | ![](/wiki/shared/flag/Fr.gif) Francia |
 
 ### Grupo 7K
 
 | Grupo A                                       | Grupo B                                  | Grupo C                                  | Grupo D                                      |
 |-----------------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------------|
-| ![](/wiki/shared/Au.gif) Australia      | ![](/wiki/shared/Es.gif) España    | ![](/wiki/shared/Id.gif) Indonesia | ![](/wiki/shared/Kr.gif) Corea del Sur |
-| ![](/wiki/shared/Ph.gif) Filipinas      | ![](/wiki/shared/Pl.gif) Polanda   | ![](/wiki/shared/Pt.gif) Portugal  | ![](/wiki/shared/No.gif) Noruega       |
-| ![](/wiki/shared/My.gif) Malasia        | ![](/wiki/shared/Hk.gif) Hong Kong | ![](/wiki/shared/Cl.gif) Chile     | ![](/wiki/shared/Th.gif) Tailandia     |
-| ![](/wiki/shared/De.gif) Alemania       | ![](/wiki/shared/Ru.gif) Rusia     | ![](/wiki/shared/Jp.gif) Japón     | ![](/wiki/shared/Gb.gif) Reino Unido   |
-| ![](/wiki/shared/Us.gif) Estados Unidos | ![](/wiki/shared/Cn.gif) China     | ![](/wiki/shared/Fr.gif) Francia   | ![](/wiki/shared/Nl.gif) Países Bajos  |
+| ![](/wiki/shared/flag/Au.gif) Australia      | ![](/wiki/shared/flag/Es.gif) España    | ![](/wiki/shared/flag/Id.gif) Indonesia | ![](/wiki/shared/flag/Kr.gif) Corea del Sur |
+| ![](/wiki/shared/flag/Ph.gif) Filipinas      | ![](/wiki/shared/flag/Pl.gif) Polanda   | ![](/wiki/shared/flag/Pt.gif) Portugal  | ![](/wiki/shared/flag/No.gif) Noruega       |
+| ![](/wiki/shared/flag/My.gif) Malasia        | ![](/wiki/shared/flag/Hk.gif) Hong Kong | ![](/wiki/shared/flag/Cl.gif) Chile     | ![](/wiki/shared/flag/Th.gif) Tailandia     |
+| ![](/wiki/shared/flag/De.gif) Alemania       | ![](/wiki/shared/flag/Ru.gif) Rusia     | ![](/wiki/shared/flag/Jp.gif) Japón     | ![](/wiki/shared/flag/Gb.gif) Reino Unido   |
+| ![](/wiki/shared/flag/Us.gif) Estados Unidos | ![](/wiki/shared/flag/Cn.gif) China     | ![](/wiki/shared/flag/Fr.gif) Francia   | ![](/wiki/shared/flag/Nl.gif) Países Bajos  |
 
 ------------------------------------------------------------------------
 
@@ -224,46 +224,46 @@ Fase de Grupos (4K)
 
 | Equipo A                                       | Equipo B      | Historia                                          |                               |
 |------------------------------------------------|---------------|---------------------------------------------------|-------------------------------|
-| ![](/wiki/shared/Au.gif) **Australia**   | **4** - 0     | Indonesia ![](/wiki/shared/Id.gif)          | [#1](//osu.ppy.sh/mp/8429133) |
-| ![](/wiki/shared/Ru.gif) **Rusia**       | **4** - 3     | Nueva Zelanda ![](/wiki/shared/Nz.gif)      | [#1](//osu.ppy.sh/mp/8429172) |
-| ![](/wiki/shared/Jp.gif) **Japón**       | **4** - 0     | Nueva Zelanda ![](/wiki/shared/Nz.gif)      | [#1](//osu.ppy.sh/mp/8429927) |
-| ![](/wiki/shared/Ru.gif) Rusia           | 0     - **4** | **Malasia** ![](/wiki/shared/My.gif)        | [#1](//osu.ppy.sh/mp/8429937) |
-| ![](/wiki/shared/Cz.gif) República Checa | 0     - **4** | **Australia** ![](/wiki/shared/Au.gif)      | Ganó por default              |
-| ![](/wiki/shared/Tw.gif) **Taiwan**      | **4** - 2     | Alemania ![](/wiki/shared/De.gif)           | [#1](//osu.ppy.sh/mp/8430093) |
-| ![](/wiki/shared/Jp.gif) **Japón**       | **4** - 0     | Reino Unido ![](/wiki/shared/Gb.gif)        | [#1](//osu.ppy.sh/mp/8430512) |
-| ![](/wiki/shared/Id.gif) Indonesia       | 0     - **4** | **Corea del Sur** ![](/wiki/shared/Kr.gif)  | [#1](//osu.ppy.sh/mp/8430718) |
-| ![](/wiki/shared/Tw.gif) Taiwan          | 3     - **4** | **Filipinas** ![](/wiki/shared/Ph.gif)      | [#1](//osu.ppy.sh/mp/8430762) |
-| ![](/wiki/shared/Ca.gif) Canadá          | 0     - **4** | **Francia** ![](/wiki/shared/Fr.gif)        | Ganó por default              |
-| ![](/wiki/shared/Gb.gif) Reino Unido     | 0     - **4** | **Malasia** ![](/wiki/shared/My.gif)        | [#1](//osu.ppy.sh/mp/8432035) |
-| ![](/wiki/shared/Es.gif) España          | 1     - **4** | **Filipinas** ![](/wiki/shared/Ph.gif)      | [#1](//osu.ppy.sh/mp/8432001) |
-| ![](/wiki/shared/Cz.gif) República Checa | 0     - **4** | **Corea del Sur** ![](/wiki/shared/Kr.gif)  | Ganó por default              |
-| ![](/wiki/shared/Pl.gif) **Polanda**     | **4** - 0     | Noruega ![](/wiki/shared/No.gif)            | [#1](//osu.ppy.sh/mp/8431527) |
-| ![](/wiki/shared/Ar.gif) **Argentina**   | **4** - 0     | España ![](/wiki/shared/Es.gif)             | [#1](//osu.ppy.sh/mp/8432861) |
-| ![](/wiki/shared/Cl.gif) Chile           | 0     - **4** | **Francia** ![](/wiki/shared/Fr.gif)        | Ganó por default              |
-| ![](/wiki/shared/Id.gif) Indonesia       | 0     - **4** | **Estados Unidos** ![](/wiki/shared/Us.gif) | Ganó por default              |
-| ![](/wiki/shared/Ar.gif) Argentina       | 0     - **4** | **Taiwan** ![](/wiki/shared/Tw.gif)         | [#1](//osu.ppy.sh/mp/8434391) |
-| ![](/wiki/shared/Cl.gif) Chile           | 0     - **4** | **Noruega** ![](/wiki/shared/No.gif)        | Ganó por default              |
-| ![](/wiki/shared/Pl.gif) **Polanda**     | **4** - 3     | Canadá ![](/wiki/shared/Ca.gif)             | [#1](//osu.ppy.sh/mp/8434796) |
-| ![](/wiki/shared/Nz.gif) Nueva Zelanda   | 0     - **4** | **Malasia** ![](/wiki/shared/My.gif)        | [#1](//osu.ppy.sh/mp/8454627) |
-| ![](/wiki/shared/Ru.gif) Rusia           | 0     - **4** | **Japón** ![](/wiki/shared/Jp.gif)          | [#1](//osu.ppy.sh/mp/8454720) |
-| ![](/wiki/shared/Nz.gif) Nueva Zelanda   | 1     - **4** | **Reino Unido** ![](/wiki/shared/Gb.gif)    | [#1](//osu.ppy.sh/mp/8455468) |
-| ![](/wiki/shared/Jp.gif) Japón           | 3     - **4** | **Malasia** ![](/wiki/shared/My.gif)        | [#1](//osu.ppy.sh/mp/8455514) |
-| ![](/wiki/shared/Ph.gif) **Filipinas**   | **4** - 0     | Alemania ![](/wiki/shared/De.gif)           | [#1](//osu.ppy.sh/mp/8455568) |
-| ![](/wiki/shared/Au.gif) Australia       | 1     - **4** | **Corea del Sur** ![](/wiki/shared/Kr.gif)  | [#1](//osu.ppy.sh/mp/8455602) |
-| ![](/wiki/shared/Cz.gif) República Checa | 0     - **4** | **Indonesia** ![](/wiki/shared/Id.gif)      | Ganó por default              |
-| ![](/wiki/shared/Ru.gif) Rusia           | 0     - **4** | **Reino Unido** ![](/wiki/shared/Gb.gif)    | [#1](//osu.ppy.sh/mp/8456621) |
-| ![](/wiki/shared/Ar.gif) Argentina       | 0     - **4** | **Filipinas** ![](/wiki/shared/Ph.gif)      | [#1](//osu.ppy.sh/mp/8457365) |
-| ![](/wiki/shared/No.gif) Noruega         | 0     - **4** | **Francia** ![](/wiki/shared/Fr.gif)        | [#1](//osu.ppy.sh/mp/8457430) |
-| ![](/wiki/shared/Us.gif) Estados Unidos  | 1     - **4** | **Corea del Sur** ![](/wiki/shared/Kr.gif)  | [#1](//osu.ppy.sh/mp/8457534) |
-| ![](/wiki/shared/Es.gif) España          | 1     - **4** | **Taiwan** ![](/wiki/shared/Tw.gif)         | [#1](//osu.ppy.sh/mp/8458504) |
-| ![](/wiki/shared/Ca.gif) Canadá          | 0     - **4** | **Noruega** ![](/wiki/shared/No.gif)        | Ganó por default              |
-| ![](/wiki/shared/Ar.gif) **Argentina**   | **4** - 3     | Alemania ![](/wiki/shared/De.gif)           | [#1](//osu.ppy.sh/mp/8458561) |
-| ![](/wiki/shared/Pl.gif) **Polanda**     | **4** - 0     | Chile ![](/wiki/shared/Cl.gif)              | Ganó por default              |
-| ![](/wiki/shared/Au.gif) **Australia**   | **4** - 0     | Estados Unidos ![](/wiki/shared/Us.gif)     | [#1](//osu.ppy.sh/mp/8458616) |
-| ![](/wiki/shared/Cz.gif) República Checa | 0     - **4** | **Estados Unidos** ![](/wiki/shared/Us.gif) | Ganó por default              |
-| ![](/wiki/shared/Ca.gif) **Canadá**      | **4** - 0     | Chile ![](/wiki/shared/Cl.gif)              | Ganó por default              |
-| ![](/wiki/shared/Es.gif) España          | 0     - **4** | **Alemania** ![](/wiki/shared/De.gif)       | [#1](//osu.ppy.sh/mp/8459866) |
-| ![](/wiki/shared/Pl.gif) **Polanda**     | **4** - 2     | Francia ![](/wiki/shared/Fr.gif)            | [#1](//osu.ppy.sh/mp/8459894) |
+| ![](/wiki/shared/flag/Au.gif) **Australia**   | **4** - 0     | Indonesia ![](/wiki/shared/flag/Id.gif)          | [#1](//osu.ppy.sh/mp/8429133) |
+| ![](/wiki/shared/flag/Ru.gif) **Rusia**       | **4** - 3     | Nueva Zelanda ![](/wiki/shared/flag/Nz.gif)      | [#1](//osu.ppy.sh/mp/8429172) |
+| ![](/wiki/shared/flag/Jp.gif) **Japón**       | **4** - 0     | Nueva Zelanda ![](/wiki/shared/flag/Nz.gif)      | [#1](//osu.ppy.sh/mp/8429927) |
+| ![](/wiki/shared/flag/Ru.gif) Rusia           | 0     - **4** | **Malasia** ![](/wiki/shared/flag/My.gif)        | [#1](//osu.ppy.sh/mp/8429937) |
+| ![](/wiki/shared/flag/Cz.gif) República Checa | 0     - **4** | **Australia** ![](/wiki/shared/flag/Au.gif)      | Ganó por default              |
+| ![](/wiki/shared/flag/Tw.gif) **Taiwan**      | **4** - 2     | Alemania ![](/wiki/shared/flag/De.gif)           | [#1](//osu.ppy.sh/mp/8430093) |
+| ![](/wiki/shared/flag/Jp.gif) **Japón**       | **4** - 0     | Reino Unido ![](/wiki/shared/flag/Gb.gif)        | [#1](//osu.ppy.sh/mp/8430512) |
+| ![](/wiki/shared/flag/Id.gif) Indonesia       | 0     - **4** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif)  | [#1](//osu.ppy.sh/mp/8430718) |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan          | 3     - **4** | **Filipinas** ![](/wiki/shared/flag/Ph.gif)      | [#1](//osu.ppy.sh/mp/8430762) |
+| ![](/wiki/shared/flag/Ca.gif) Canadá          | 0     - **4** | **Francia** ![](/wiki/shared/flag/Fr.gif)        | Ganó por default              |
+| ![](/wiki/shared/flag/Gb.gif) Reino Unido     | 0     - **4** | **Malasia** ![](/wiki/shared/flag/My.gif)        | [#1](//osu.ppy.sh/mp/8432035) |
+| ![](/wiki/shared/flag/Es.gif) España          | 1     - **4** | **Filipinas** ![](/wiki/shared/flag/Ph.gif)      | [#1](//osu.ppy.sh/mp/8432001) |
+| ![](/wiki/shared/flag/Cz.gif) República Checa | 0     - **4** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif)  | Ganó por default              |
+| ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 0     | Noruega ![](/wiki/shared/flag/No.gif)            | [#1](//osu.ppy.sh/mp/8431527) |
+| ![](/wiki/shared/flag/Ar.gif) **Argentina**   | **4** - 0     | España ![](/wiki/shared/flag/Es.gif)             | [#1](//osu.ppy.sh/mp/8432861) |
+| ![](/wiki/shared/flag/Cl.gif) Chile           | 0     - **4** | **Francia** ![](/wiki/shared/flag/Fr.gif)        | Ganó por default              |
+| ![](/wiki/shared/flag/Id.gif) Indonesia       | 0     - **4** | **Estados Unidos** ![](/wiki/shared/flag/Us.gif) | Ganó por default              |
+| ![](/wiki/shared/flag/Ar.gif) Argentina       | 0     - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)         | [#1](//osu.ppy.sh/mp/8434391) |
+| ![](/wiki/shared/flag/Cl.gif) Chile           | 0     - **4** | **Noruega** ![](/wiki/shared/flag/No.gif)        | Ganó por default              |
+| ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 3     | Canadá ![](/wiki/shared/flag/Ca.gif)             | [#1](//osu.ppy.sh/mp/8434796) |
+| ![](/wiki/shared/flag/Nz.gif) Nueva Zelanda   | 0     - **4** | **Malasia** ![](/wiki/shared/flag/My.gif)        | [#1](//osu.ppy.sh/mp/8454627) |
+| ![](/wiki/shared/flag/Ru.gif) Rusia           | 0     - **4** | **Japón** ![](/wiki/shared/flag/Jp.gif)          | [#1](//osu.ppy.sh/mp/8454720) |
+| ![](/wiki/shared/flag/Nz.gif) Nueva Zelanda   | 1     - **4** | **Reino Unido** ![](/wiki/shared/flag/Gb.gif)    | [#1](//osu.ppy.sh/mp/8455468) |
+| ![](/wiki/shared/flag/Jp.gif) Japón           | 3     - **4** | **Malasia** ![](/wiki/shared/flag/My.gif)        | [#1](//osu.ppy.sh/mp/8455514) |
+| ![](/wiki/shared/flag/Ph.gif) **Filipinas**   | **4** - 0     | Alemania ![](/wiki/shared/flag/De.gif)           | [#1](//osu.ppy.sh/mp/8455568) |
+| ![](/wiki/shared/flag/Au.gif) Australia       | 1     - **4** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif)  | [#1](//osu.ppy.sh/mp/8455602) |
+| ![](/wiki/shared/flag/Cz.gif) República Checa | 0     - **4** | **Indonesia** ![](/wiki/shared/flag/Id.gif)      | Ganó por default              |
+| ![](/wiki/shared/flag/Ru.gif) Rusia           | 0     - **4** | **Reino Unido** ![](/wiki/shared/flag/Gb.gif)    | [#1](//osu.ppy.sh/mp/8456621) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina       | 0     - **4** | **Filipinas** ![](/wiki/shared/flag/Ph.gif)      | [#1](//osu.ppy.sh/mp/8457365) |
+| ![](/wiki/shared/flag/No.gif) Noruega         | 0     - **4** | **Francia** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/8457430) |
+| ![](/wiki/shared/flag/Us.gif) Estados Unidos  | 1     - **4** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif)  | [#1](//osu.ppy.sh/mp/8457534) |
+| ![](/wiki/shared/flag/Es.gif) España          | 1     - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)         | [#1](//osu.ppy.sh/mp/8458504) |
+| ![](/wiki/shared/flag/Ca.gif) Canadá          | 0     - **4** | **Noruega** ![](/wiki/shared/flag/No.gif)        | Ganó por default              |
+| ![](/wiki/shared/flag/Ar.gif) **Argentina**   | **4** - 3     | Alemania ![](/wiki/shared/flag/De.gif)           | [#1](//osu.ppy.sh/mp/8458561) |
+| ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 0     | Chile ![](/wiki/shared/flag/Cl.gif)              | Ganó por default              |
+| ![](/wiki/shared/flag/Au.gif) **Australia**   | **4** - 0     | Estados Unidos ![](/wiki/shared/flag/Us.gif)     | [#1](//osu.ppy.sh/mp/8458616) |
+| ![](/wiki/shared/flag/Cz.gif) República Checa | 0     - **4** | **Estados Unidos** ![](/wiki/shared/flag/Us.gif) | Ganó por default              |
+| ![](/wiki/shared/flag/Ca.gif) **Canadá**      | **4** - 0     | Chile ![](/wiki/shared/flag/Cl.gif)              | Ganó por default              |
+| ![](/wiki/shared/flag/Es.gif) España          | 0     - **4** | **Alemania** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/8459866) |
+| ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 2     | Francia ![](/wiki/shared/flag/Fr.gif)            | [#1](//osu.ppy.sh/mp/8459894) |
 
 
 ------------------------------------------------------------------------

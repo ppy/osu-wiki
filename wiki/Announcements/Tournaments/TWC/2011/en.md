@@ -58,94 +58,94 @@ Previous timetable is here. **Round 1-1**
 
 **Group A**
 
-*   ![](/wiki/shared/Ph.gif) **Philippines** vs ![](/wiki/shared/Cn.gif) **China**: 16th April 12:00 UTC (20:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/My.gif) **Malaysia** vs ![](/wiki/shared/ItNl.png) **Italy-Netherlands**: 16th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/Cn.gif) **China** vs ![](/wiki/shared/My.gif) **Malaysia**: 17th April 12:00 UTC (20:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/Ph.gif) **Philippines** vs ![](/wiki/shared/De.gif) **Germany A**: 17th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/Ph.gif) **Philippines** vs ![](/wiki/shared/flag/Cn.gif) **China**: 16th April 12:00 UTC (20:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/My.gif) **Malaysia** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 16th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/My.gif) **Malaysia**: 17th April 12:00 UTC (20:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/Ph.gif) **Philippines** vs ![](/wiki/shared/flag/De.gif) **Germany A**: 17th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
 
 **Group B**
 
-*   ![](//wiki/shared/Tw.gif) **Taiwan** vs ![](//wiki/shared/Fr.gif) **France**: 16th April 14:00 UTC (15:00 UTC+1, 22:00 UTC+8) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
-*   ![](//wiki/shared/Gb.gif) **United Kingdom** vs ![](//wiki/shared/Kr.gif) **Korea A**: 15th April 15:10 UTC (16th 00:10 UTC+9) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
+*   ![](//wiki/shared/flag/Tw.gif) **Taiwan** vs ![](//wiki/shared/flag/Fr.gif) **France**: 16th April 14:00 UTC (15:00 UTC+1, 22:00 UTC+8) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
+*   ![](//wiki/shared/flag/Gb.gif) **United Kingdom** vs ![](//wiki/shared/flag/Kr.gif) **Korea A**: 15th April 15:10 UTC (16th 00:10 UTC+9) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
 
 **Group C**
 
-*   ![](/wiki/shared/Pl.gif) **Poland** vs ![](/wiki/shared/Hk.gif) **Hong Kong**: 16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*　　![](/wiki/shared/Us.gif) **United States** vs ![](/wiki/shared/ItNl.png) **Brazil-Chile**: 16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Pl.gif) **Poland** vs ![](/wiki/shared/flag/Hk.gif) **Hong Kong**: 16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*　　![](/wiki/shared/flag/Us.gif) **United States** vs ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: 16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/Fi.gif) **Finland** vs ![](/wiki/shared/De.gif) **Germany B**: 16th April 17:00 (18:00 in UTC+1, 19:00 in UTC+2) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/Kr.gif) **Korea B** vs ![](/wiki/shared/Jp.gif) **Japan**: 17th April 11:00 UTC (20:00 in UTC+9) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
+*   ![](/wiki/shared/flag/Fi.gif) **Finland** vs ![](/wiki/shared/flag/De.gif) **Germany B**: 16th April 17:00 (18:00 in UTC+1, 19:00 in UTC+2) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 17th April 11:00 UTC (20:00 in UTC+9) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
 
 **Round 1-2**
 
 **Group A**
 
-*   ![](/wiki/shared/De.gif) **Germany A** vs ![](/wiki/shared/ItNl.png) **Italy-Netherlands**: 26th April 18:00 UTC (20:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/De.gif) **Germany A** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 26th April 18:00 UTC (20:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
 **Group B**
 
-*   ![](/wiki/shared/Gb.gif) **United Kingdom** vs ![](/wiki/shared/Tw.gif) **Taiwan**: 22nd April 14:00 UTC (15:00 WEST, 22:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/Kr.gif) **Korea A** vs ![](/wiki/shared/Fr.gif) **France**: 22nd April 15:10 UTC (17:10 CEST, 23rd 00:10 KST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![](/wiki/shared/flag/Gb.gif) **United Kingdom** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 22nd April 14:00 UTC (15:00 WEST, 22:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/Kr.gif) **Korea A** vs ![](/wiki/shared/flag/Fr.gif) **France**: 22nd April 15:10 UTC (17:10 CEST, 23rd 00:10 KST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
 
 **Group C**
 
-*   ![](/wiki/shared/Hk.gif) **Hong Kong** vs ![](/wiki/shared/Us.gif) **United States**: 23rd Apirl 4:00 UTC (12:00 HKT, 22th 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/BrCl.png) **Brazil-Chile** vs ![](/wiki/shared/Pl.gif) **Poland**: 26th April 20:00 UTC (16:00 CLT, 17:00 BRT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/Us.gif) **United States**: 23rd Apirl 4:00 UTC (12:00 HKT, 22th 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/BrCl.png) **Brazil-Chile** vs ![](/wiki/shared/flag/Pl.gif) **Poland**: 26th April 20:00 UTC (16:00 CLT, 17:00 BRT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/Kr.gif) **Korea B** vs ![](/wiki/shared/Fi.gif) **Finland**: 24th April 13:00 UTC (16:00 EEST, 22:00 KST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Fi.gif) **Finland**: 24th April 13:00 UTC (16:00 EEST, 22:00 KST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
-　　![](/wiki/shared/Jp.gif) **Japan** vs ![](/wiki/shared/De.gif) **Germany B**: 24th April 14:00 UTC (16:00 CEST, 23:00 JST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+　　![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/De.gif) **Germany B**: 24th April 14:00 UTC (16:00 CEST, 23:00 JST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
 
 **Round 1-3**
 
 **Group A**
 
-*   ![](/wiki/shared/De.gif) **Germany A** vs ![](/wiki/shared/My.gif) **Malaysia**: 29th April 12:00 UTC (14:00 CEST, 20:00 MST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/Cn.gif) **China**: 30th April 12:15 UTC (14:15 CEST, 20:15 Beijing time) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/Ph.gif) **Philippines**: 30th April 15:00 UTC (17:00 CEST, 23:00 PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/My.gif) **Malaysia** vs ![](/wiki/shared/Ph.gif) **Philippines**: 1st May 11:00 UTC (19:00 MST/PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/Cn.gif) **China** vs ![](/wiki/shared/De.gif) **Germany A**: 1st May 12:00 UTC (20:00 Beijing time, 14:00 CEST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/De.gif) **Germany A** vs ![](/wiki/shared/flag/My.gif) **Malaysia**: 29th April 12:00 UTC (14:00 CEST, 20:00 MST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/flag/Cn.gif) **China**: 30th April 12:15 UTC (14:15 CEST, 20:15 Beijing time) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/flag/Ph.gif) **Philippines**: 30th April 15:00 UTC (17:00 CEST, 23:00 PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/My.gif) **Malaysia** vs ![](/wiki/shared/flag/Ph.gif) **Philippines**: 1st May 11:00 UTC (19:00 MST/PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/De.gif) **Germany A**: 1st May 12:00 UTC (20:00 Beijing time, 14:00 CEST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
 
 **Group B**
 
-*   ![](/wiki/shared/Kr.gif) **Korea A** vs ![](/wiki/shared/Tw.gif) **Taiwan**: 30th April 11:30 UTC (20:30 KST, 19:30 NST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/Fr.gif) **France** vs ![](/wiki/shared/Gb.gif) **United Kingdom**: 30th April 18:00 UTC (20:00 CEST, 19:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Kr.gif) **Korea A** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 30th April 11:30 UTC (20:30 KST, 19:30 NST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
+*   ![](/wiki/shared/flag/Fr.gif) **France** vs ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: 30th April 18:00 UTC (20:00 CEST, 19:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
 **Group C**
 
-*   ![](/wiki/shared/Hk.gif) **Hong Kong** vs ![](/wiki/shared/ItNl.png) **Brazil-Chile**: 30th April 2:00 UTC (10:00 HKT, 29th 22:00 CLT, 29th 23:00 BRT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
-*   ![](/wiki/shared/Us.gif) **United States** vs ![](/wiki/shared/Pl.gif) **Poland**: 30th April 20:00 UTC (13:00 PDT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: 30th April 2:00 UTC (10:00 HKT, 29th 22:00 CLT, 29th 23:00 BRT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![](/wiki/shared/flag/Us.gif) **United States** vs ![](/wiki/shared/flag/Pl.gif) **Poland**: 30th April 20:00 UTC (13:00 PDT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/De.gif) **Germany B** vs ![](/wiki/shared/Kr.gif) **Korea B**: 30th April 13:00 UTC (15:00 CEST, 22:00 KST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/Jp.gif) **Japan** vs ![](/wiki/shared/Fi.gif) **Finland**: 1st May 13:00 UTC (22:00 JST, 16.00 EEST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![](/wiki/shared/flag/De.gif) **Germany B** vs ![](/wiki/shared/flag/Kr.gif) **Korea B**: 30th April 13:00 UTC (15:00 CEST, 22:00 KST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
+*   ![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/Fi.gif) **Finland**: 1st May 13:00 UTC (22:00 JST, 16.00 EEST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
 
 **Round 2**
 
-*   ![](/wiki/shared/Tw.gif) **Taiwan** vs ![](/wiki/shared/ItNl.png) **Italy-Netherlands**: 7th May 12:00 UTC (20:00 NST, 14:00 CEST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/Cn.gif) **China** vs ![](/wiki/shared/Gb.gif) **United Kingdom**: 7th May 14:00 UTC (22:00 Beijing time, 15:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/Kr.gif) **Korea B** vs ![](/wiki/shared/Us.gif) **United States**: 7th May 22:30 UTC (8th 7:30 KST, 15:30 PDT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
-*   ![](/wiki/shared/Hk.gif) **Hong Kong** vs ![](/wiki/shared/Jp.gif) **Japan**: 8th May 13:00 UTC (21:00 HKT, 22:00 JST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![](/wiki/shared/flag/Tw.gif) **Taiwan** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 7th May 12:00 UTC (20:00 NST, 14:00 CEST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
+*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: 7th May 14:00 UTC (22:00 Beijing time, 15:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Us.gif) **United States**: 7th May 22:30 UTC (8th 7:30 KST, 15:30 PDT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 8th May 13:00 UTC (21:00 HKT, 22:00 JST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
 
 **Round 3**
 
-*   ![](/wiki/shared/Cn.gif) **China** vs ![](/wiki/shared/Jp.gif) **Japan**: 14th May 14:00 UTC (22:00 Beijing time, 23:00 JST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/Tw.gif) **Taiwan** vs ![](/wiki/shared/Us.gif) **United States**: 14th May 15:00 UTC (23:00 NST, 8:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 14th May 14:00 UTC (22:00 Beijing time, 23:00 JST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![](/wiki/shared/flag/Tw.gif) **Taiwan** vs ![](/wiki/shared/flag/Us.gif) **United States**: 14th May 15:00 UTC (23:00 NST, 8:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
 
 **Round 4**
 
 **Final**
 
-*   ![](/wiki/shared/Jp.gif) **Japan** vs ![](/wiki/shared/Tw.gif) **Taiwan**: 29th May 12:00 UTC (21:00 JST, 20:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 29th May 12:00 UTC (21:00 JST, 20:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
 
 **3rd Place Play-off**
 
-*   ![](/wiki/shared/Cn.gif) **China** vs ![](/wiki/shared/Us.gif) **United States**: 22nd May 4:00 UTC (12:00 Beijing time, 21st 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Us.gif) **United States**: 22nd May 4:00 UTC (12:00 Beijing time, 21st 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
 
 ## Map List
 
@@ -356,35 +356,35 @@ Previous Map List is here.
 
 *   Prizes for 1st, 2nd, 3rd prizes are sponsored by [peppy](//osu.ppy.sh/u/2).
 
-**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/../../../../Osu!supporter/en.md), and a nice **Profile Badge** designed by [crystalsuicune](//osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
+**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md), and a nice **Profile Badge** designed by [crystalsuicune](//osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
 
-**2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/../../../../Osu!supporter/en.md).
+**2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md).
 
-**3rd Place**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/../../../../Osu!supporter/en.md).
+**3rd Place**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md).
 
-**Special prize**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/../../../../Osu!supporter/en.md). (Other than above prizes, this prize is sponsored by the manager. All players will vote for the team which showed best gameplay, attitude, spirit of fair play, etc., and the team with the most votes will win the prize. Of course players can't vote for his/her own team. This prize won't be given to 1st~3rd place.)
+**Special prize**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md). (Other than above prizes, this prize is sponsored by the manager. All players will vote for the team which showed best gameplay, attitude, spirit of fair play, etc., and the team with the most votes will win the prize. Of course players can't vote for his/her own team. This prize won't be given to 1st~3rd place.)
 
 ## Teams
 
 Sorted by alphabetic order by Country. **Bold** is for captain, and _italic_ is for back-up.
 
-*   ![](/wiki/shared/ItNl.png) **Brazil-Chile**: **[Hyguys](//osu.ppy.sh/u/362851)**, [Kurisuchianu](//osu.ppy.sh/u/194345), [Foster Don](//osu.ppy.sh/u/144464), _[JhowM](//osu.ppy.sh/u/599290)_
-*   ![](/wiki/shared/Cn.gif) **China**: **[Yowane \_ Haku](//osu.ppy.sh/u/255267)**, [yukey](//osu.ppy.sh/u/81972), [sagelord](//osu.ppy.sh/u/56200), _small-qiang_
-*   ![](/wiki/shared/Fi.gif) **Finland**: **XZero94**, LunaticMara, [Orkel](//osu.ppy.sh/u/39385), _[Pallero](//osu.ppy.sh/u/7381)_
-*   ![](/wiki/shared/Fr.gif) **France**: [\_Gezo\_](//osu.ppy.sh/u/481582), [omegaflo](//osu.ppy.sh/u/83291), Dagonpater, _Didou_
-*   ![](/wiki/shared/De.gif) **Germany A**: **[OnosakiHito](//osu.ppy.sh/u/290128), [DarkDunskin](//osu.ppy.sh/u/98985), RockeDon, _[Trashy](//osu.ppy.sh/u/55191)_**
-*   ![](/wiki/shared/De.gif) **Germany B**: **[BrokenArrow1](//osu.ppy.sh/u/384034)**, [Zeitgeist](//osu.ppy.sh/u/227765), Der_Locher, _[bennius](//osu.ppy.sh/u/3129206)_
-*   ![](/wiki/shared/Hk.gif) **Hong Kong**: **[aabc271](//osu.ppy.sh/u/155707)**, [XeBi320](//osu.ppy.sh/u/342622), [KanaRin](//osu.ppy.sh/u/310747), _[Kanpakyin](//osu.ppy.sh/u/394326)_
-*   ![](/wiki/shared/ItNl.png) **Italy-Netherlands**: **[NeoRainier](//osu.ppy.sh/u/326049)**, [Pheon](//osu.ppy.sh/u/292295), [Lokamp](//osu.ppy.sh/u/63671), _[Henkie](//osu.ppy.sh/u/16944)_
-*   ![](/wiki/shared/Jp.gif) **Japan**: **inaba9510**, [TTTL](//osu.ppy.sh/u/164583), [aruru1234](//osu.ppy.sh/u/228812), _[03123456789](//osu.ppy.sh/u/295488)_
-*   ![](/wiki/shared/Kr.gif) **Korea A**: **[KRZY](//osu.ppy.sh/u/114017)**, BloodyLove, [Remilia-Scarlet](//osu.ppy.sh/u/602783), _[[Shalon]](//osu.ppy.sh/u/317802)_
-*   ![](/wiki/shared/Kr.gif) **Korea B**: **samiljul**, [Nyan](//osu.ppy.sh/u/36102), kds7769, _[Kim Jin Seok](//osu.ppy.sh/u/58034)_
-*   ![](/wiki/shared/My.gif) **Malaysia**: **[HeatKai](//osu.ppy.sh/u/332555)**, mekadon, [ffyong](//osu.ppy.sh/u/168154), _[taiko_maniac1811](//osu.ppy.sh/u/595764)_
-*   ![](/wiki/shared/Pl.gif) **Poland**: **[1miko1](//osu.ppy.sh/u/95690)**, [rEdo](//osu.ppy.sh/u/49329), [Acrith](//osu.ppy.sh/u/389880), _Niko-_
-*   ![](/wiki/shared/Ph.gif) **Philippines**: **[blacksymbian](//osu.ppy.sh/u/53956)**, [Zekira](//osu.ppy.sh/u/36749), [caelumangelus](//osu.ppy.sh/u/710623), _[[Zero_One]](//osu.ppy.sh/u/347574)_
-*   ![](/wiki/shared/Tw.gif) **Taiwan**: **[Numbers 596108](//osu.ppy.sh/u/194653)**, [TW-KUMA01](//osu.ppy.sh/u/244499), ISHIDAMITSUNARI, _[zx0502442](//osu.ppy.sh/u/457766)_
-*   ![](/wiki/shared/Gb.gif) **United Kingdom**: **[Rokodo](//osu.ppy.sh/u/23374)**, Sander-Don, [MMzz](//osu.ppy.sh/u/128993), _[Nazo](//osu.ppy.sh/u/55106)_
-*   ![](/wiki/shared/Us.gif) **United States**: **[OzzyOzrock](//osu.ppy.sh/u/465153)**, [KYOUI](//osu.ppy.sh/u/460978), [Backfire](//osu.ppy.sh/u/263110), _[anongos](//osu.ppy.sh/u/7135)_
+*   ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: **[Hyguys](//osu.ppy.sh/u/362851)**, [Kurisuchianu](//osu.ppy.sh/u/194345), [Foster Don](//osu.ppy.sh/u/144464), _[JhowM](//osu.ppy.sh/u/599290)_
+*   ![](/wiki/shared/flag/Cn.gif) **China**: **[Yowane \_ Haku](//osu.ppy.sh/u/255267)**, [yukey](//osu.ppy.sh/u/81972), [sagelord](//osu.ppy.sh/u/56200), _small-qiang_
+*   ![](/wiki/shared/flag/Fi.gif) **Finland**: **XZero94**, LunaticMara, [Orkel](//osu.ppy.sh/u/39385), _[Pallero](//osu.ppy.sh/u/7381)_
+*   ![](/wiki/shared/flag/Fr.gif) **France**: [\_Gezo\_](//osu.ppy.sh/u/481582), [omegaflo](//osu.ppy.sh/u/83291), Dagonpater, _Didou_
+*   ![](/wiki/shared/flag/De.gif) **Germany A**: **[OnosakiHito](//osu.ppy.sh/u/290128), [DarkDunskin](//osu.ppy.sh/u/98985), RockeDon, _[Trashy](//osu.ppy.sh/u/55191)_**
+*   ![](/wiki/shared/flag/De.gif) **Germany B**: **[BrokenArrow1](//osu.ppy.sh/u/384034)**, [Zeitgeist](//osu.ppy.sh/u/227765), Der_Locher, _[bennius](//osu.ppy.sh/u/3129206)_
+*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong**: **[aabc271](//osu.ppy.sh/u/155707)**, [XeBi320](//osu.ppy.sh/u/342622), [KanaRin](//osu.ppy.sh/u/310747), _[Kanpakyin](//osu.ppy.sh/u/394326)_
+*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: **[NeoRainier](//osu.ppy.sh/u/326049)**, [Pheon](//osu.ppy.sh/u/292295), [Lokamp](//osu.ppy.sh/u/63671), _[Henkie](//osu.ppy.sh/u/16944)_
+*   ![](/wiki/shared/flag/Jp.gif) **Japan**: **inaba9510**, [TTTL](//osu.ppy.sh/u/164583), [aruru1234](//osu.ppy.sh/u/228812), _[03123456789](//osu.ppy.sh/u/295488)_
+*   ![](/wiki/shared/flag/Kr.gif) **Korea A**: **[KRZY](//osu.ppy.sh/u/114017)**, BloodyLove, [Remilia-Scarlet](//osu.ppy.sh/u/602783), _[[Shalon]](//osu.ppy.sh/u/317802)_
+*   ![](/wiki/shared/flag/Kr.gif) **Korea B**: **samiljul**, [Nyan](//osu.ppy.sh/u/36102), kds7769, _[Kim Jin Seok](//osu.ppy.sh/u/58034)_
+*   ![](/wiki/shared/flag/My.gif) **Malaysia**: **[HeatKai](//osu.ppy.sh/u/332555)**, mekadon, [ffyong](//osu.ppy.sh/u/168154), _[taiko_maniac1811](//osu.ppy.sh/u/595764)_
+*   ![](/wiki/shared/flag/Pl.gif) **Poland**: **[1miko1](//osu.ppy.sh/u/95690)**, [rEdo](//osu.ppy.sh/u/49329), [Acrith](//osu.ppy.sh/u/389880), _Niko-_
+*   ![](/wiki/shared/flag/Ph.gif) **Philippines**: **[blacksymbian](//osu.ppy.sh/u/53956)**, [Zekira](//osu.ppy.sh/u/36749), [caelumangelus](//osu.ppy.sh/u/710623), _[[Zero_One]](//osu.ppy.sh/u/347574)_
+*   ![](/wiki/shared/flag/Tw.gif) **Taiwan**: **[Numbers 596108](//osu.ppy.sh/u/194653)**, [TW-KUMA01](//osu.ppy.sh/u/244499), ISHIDAMITSUNARI, _[zx0502442](//osu.ppy.sh/u/457766)_
+*   ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: **[Rokodo](//osu.ppy.sh/u/23374)**, Sander-Don, [MMzz](//osu.ppy.sh/u/128993), _[Nazo](//osu.ppy.sh/u/55106)_
+*   ![](/wiki/shared/flag/Us.gif) **United States**: **[OzzyOzrock](//osu.ppy.sh/u/465153)**, [KYOUI](//osu.ppy.sh/u/460978), [Backfire](//osu.ppy.sh/u/263110), _[anongos](//osu.ppy.sh/u/7135)_
 
 ### Disqualifications
 
@@ -410,13 +410,13 @@ HeatKai is no longer banned from TWC.
 
 ## Staff
 
-*   ![](/wiki/shared/Kr.gif) [lepidopodus](//osu.ppy.sh/u/194807) (Tournament manager)
-*   ![](/wiki/shared/Kr.gif) [arien666](//osu.ppy.sh/u/113646) (Vice-manager)
-*   ![](/wiki/shared/Hk.gif) [wmfchris](//osu.ppy.sh/u/7401)
-*   ![](/wiki/shared/Tw.gif) [Alace](//osu.ppy.sh/u/25993)
-*   ![](/wiki/shared/Il.gif) [Noobita](//osu.ppy.sh/u/119188)
+*   ![](/wiki/shared/flag/Kr.gif) [lepidopodus](//osu.ppy.sh/u/194807) (Tournament manager)
+*   ![](/wiki/shared/flag/Kr.gif) [arien666](//osu.ppy.sh/u/113646) (Vice-manager)
+*   ![](/wiki/shared/flag/Hk.gif) [wmfchris](//osu.ppy.sh/u/7401)
+*   ![](/wiki/shared/flag/Tw.gif) [Alace](//osu.ppy.sh/u/25993)
+*   ![](/wiki/shared/flag/Il.gif) [Noobita](//osu.ppy.sh/u/119188)
 
 ## Streamers
 
-*   ![](/wiki/shared/Jp.gif) [dvorak](//osu.ppy.sh/u/271359)
-*   ![](/wiki/shared/Hk.gif) [matthewhln](//osu.ppy.sh/u/291487)
+*   ![](/wiki/shared/flag/Jp.gif) [dvorak](//osu.ppy.sh/u/271359)
+*   ![](/wiki/shared/flag/Hk.gif) [matthewhln](//osu.ppy.sh/u/291487)

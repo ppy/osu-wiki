@@ -2,7 +2,7 @@
 
 El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](//osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
-El país campeón del torneo anterior es **![](/wiki/shared/Jp.gif) Japón**.
+El país campeón del torneo anterior es **![](/wiki/shared/flag/Jp.gif) Japón**.
 
 Agenda del Torneo
 =================
@@ -32,11 +32,11 @@ Organización
 
 | Job                        | Person                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administradores del Torneo | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Seleccionador de Beatmaps  | ![](/wiki/shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Conductores (Video Stream) | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Comentaristas              | ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Estadistico                | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Administradores del Torneo | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Seleccionador de Beatmaps  | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Conductores (Video Stream) | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Comentaristas              | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Estadistico                | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

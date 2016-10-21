@@ -1,6 +1,6 @@
 ![TWC 2014 logo](logo.png)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](//osu.ppy.sh/g/26) 举办的[太鼓模式](../../../../Game-Modes/Taiko/zh.md)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](../../../../shared/Tw.gif) 台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](//osu.ppy.sh/g/26) 举办的[太鼓模式](/wiki/Game-Modes/Taiko/zh.md)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](/wiki/shared/flag/Tw.gif) 台湾**。
 
 比赛流程
 ========
@@ -20,19 +20,19 @@
 
 | Placing                                                    | Country                         |
 |------------------------------------------------------------|---------------------------------|
-| ![Gold Crown](../../../../shared/GCrown.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
-| ![Silver Crown](../../../../shared/SCrown.png "2nd place") | 3 个月 supporter 标签               |
-| ![Bronze Crown](../../../../shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 个月 supporter 标签               |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
 
 主办方
 ======
 
 | Job    | Person(s)                                                                                                                                                                                                                                                                                     |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理   | ![](../../../../shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](../../../../shared/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                                  |
-| 比赛地图选择 | ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
-| 比赛直播旁述 | ![](../../../../shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](../../../../shared/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](../../../../shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128) // ![](../../../../shared/Us.gif) ztrot // ![](../../../../shared/No.gif) Dolphin |
-| 赛果统计   | ![](../../../../shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
+| 赛事管理   | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                                  |
+| 比赛地图选择 | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
+| 比赛直播旁述 | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128) // ![](/wiki/shared/flag/Us.gif) ztrot // ![](/wiki/shared/flag/No.gif) Dolphin |
+| 赛果统计   | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 

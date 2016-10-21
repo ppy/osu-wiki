@@ -1,6 +1,6 @@
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](//osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![](/wiki/shared/Jp.gif) Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](//osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Jp.gif) Япония**.
 
 Расписание
 ==========
@@ -30,11 +30,11 @@
 
 | Job          | Person                                                                                                                                                                                        |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Организаторы | ![](/wiki/shared/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Подбор карт  | ![](/wiki/shared/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Стримеры     | ![](/wiki/shared/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Комментаторы | ![](/wiki/shared/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Статистик    | ![](/wiki/shared/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Организаторы | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Подбор карт  | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Стримеры     | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Комментаторы | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Статистик    | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 

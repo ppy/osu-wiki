@@ -2,7 +2,7 @@
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](//osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](/wiki/shared/Kr.gif) 대한민국**입니다..
+저번 우승자는 **![](/wiki/shared/flag/Kr.gif) 대한민국**입니다..
 
 토너먼트 일정
 =============
@@ -32,11 +32,11 @@
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](/wiki/shared/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
-| 비트맵 선별  | ![](/wiki/shared/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](/wiki/shared/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
-| 방송      | ![](/wiki/shared/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
-| 해설      | ![](/wiki/shared/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](/wiki/shared/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](/wiki/shared/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
-| 통계      | ![](/wiki/shared/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
+| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
+| 비트맵 선별  | ![](/wiki/shared/flag/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](/wiki/shared/flag/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
+| 방송      | ![](/wiki/shared/flag/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
+| 해설      | ![](/wiki/shared/flag/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](/wiki/shared/flag/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](/wiki/shared/flag/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
+| 통계      | ![](/wiki/shared/flag/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
