@@ -31,7 +31,7 @@ Italic
 |---------------------------|--------------------------------------------------------------------------------|
 | Dedicated button?         | Yes: ![](Italic button.png "fig:Italic button.png")                            |
 | Syntax                    | Write this                                                                     |
-| [i]Your text here[/i]     | *Your text here*                                                               |
+| ``[i]Your text here[/i]``     | *Your text here*                                                               |
 
 Underline
 ---------
@@ -40,7 +40,7 @@ Underline
 |---------------------------|-----------------------------------------------------------|
 | Dedicated button?         | Yes: ![](Underline button.png "fig:Underline button.png") |
 | Syntax                    | Write this                                                |
-| [u]Your text here[/u]     | <ins>Your text here</ins>                                 |
+| ``[u]Your text here[/u]``     | <ins>Your text here</ins>                                 |
 
 Strike
 ------
@@ -49,84 +49,30 @@ Strike
 |-------------------------------------|-----------------------------------------------------|
 | Dedicated button?                   | Yes: ![](Strike button.png "fig:Strike button.png") |
 | Syntax                              | Write this                                          |
-| [strike]Your text here[/strike]     | ~~Your text here~~                                  |
+| ``[strike]Your text here[/strike]``     | ~~Your text here~~                              |
 
 Color
 -----
-
+| Purpose                             | Use this to color a text                            |
+|-------------------------------------|-----------------------------------------------------|
+| Dedicated button?                   | Yes: See on the right                               |
+| Syntax                              | Write this                                          |
+| Note                                | You can either click on the buttons on the right of the edit box to select a color or enter any hexadecimal value or [HTML color name](http://www.w3schools.com/html/html_colornames.asp)
+| ``[color=#FF0000]Your text here[/color]``     | ~~Your text here~~                        |
 ![The color box](Color button.png "The color box")
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Purpose</p></th>
-<th><p>Use this to color text.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Dedicated button?</p></td>
-<td><p>Yes: see on the right</p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>You can either click on the buttons on the right of the edit box to select a color or enter any hexadecimal value or <a href="http://www.w3schools.com/html/html_colornames.asp">HTML color name</a>.<br />
-Use this tag sparingly as some colors like <span style="color: #FFFF00;">yellow</span> are barely readable on a white background and may cause eye pain.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntax</p></td>
-<td><p>Write this</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[color=#FF0000]Your text here[/color]</code></pre></td>
-<td><p><span style="color: #FF0000;">Your text here</span></p></td>
-</tr>
-</tbody>
-</table>
+
 
 Font size
 ---------
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Purpose</p></th>
-<th><p>Use this to make your text smaller or bigger.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Dedicated button?</p></td>
-<td><p>Yes: <img src="Font size button expanded.png" title="fig:Font size button expanded.png" alt="Font size button expanded.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Only 4 sizes are available: 50 (tiny), 85 (small), 150 (large) and the regular size (normal, which is 100). Using anything else will switch the text back to its normal size.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntax</p></td>
-<td><p>Write this</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[size=50]Your text here[/size]
+| Purpose                             | Use this to make your text smaller or bigger.  |
+|-------------------------------------|-----------------------------------------------------|
+| Dedicated button?                   | Yes: ![](Font size button expanded.png "fig:Font size button expanded.png") |
+| Note                                | Only 4 sizes are available: 50 (tiny), 85 (small), 150 (large) and the regular size (normal, which is 100). Using anything else will switch the text back to its normal size.
+| Syntax                              | Write this                                             |
+| ``[size=50]Your text here[/size]``     | <span style="font-size: 9px;">Your text here</span> |
 
-[size=85]Your text here[/size]
-
-Your text here
-
-[size=150]Your text here[/size]</code></pre></td>
-<td><p><span style="font-size: 9px;">Your text here</span><br />
-<br />
-<span style="font-size: 10px;">Your text here</span><br />
-<br />
-Your text here<br />
-<br />
-<span style="font-size: 14px;">Your text here</span><br />
-<br />
-</p></td>
-</tr>
-</tbody>
-</table>
 
 Spoiler
 -------
