@@ -49,7 +49,7 @@ Strike
 |-------------------------------------|-----------------------------------------------------|
 | Dedicated button?                   | Yes: ![](Strike button.png "fig:Strike button.png") |
 | Syntax                              | Write this                                          |
-| ``[strike]Your text here[/strike]``     | ~~Your text here~~                              |
+| ``[strike]Your text here[/strike]``     |                               |
 
 Color
 -----
