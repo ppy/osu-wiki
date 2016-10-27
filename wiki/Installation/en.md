@@ -222,7 +222,7 @@ It is another game quite similar to osu! but that has its own features and ranki
 
 *Make sure your iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).*
 
-**how to install(Apple Store)**
+**How to install(Apple Store)**
 
 - Go to "App Store" from your iDevice
 - Search for osu!stream
