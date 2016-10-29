@@ -69,13 +69,13 @@ to find a way provided by the community to install the newest versions of osu!.
 
 ###### How to install
 1. Basic setup.
-2. First, check your Graphic Card.
-  - For best results, get a nVIDIA-Chipset.
-  - On Intel graphic cards, you need to enable Vsync.
-  - On AMD HD**** cards you need to disable the shaders.
-3. Install "Wine". (If you didn't already)
+  - First, check your Graphic Card.
+    - For best results, get a nVIDIA-Chipset.
+    - On Intel graphic cards, you need to enable Vsync.
+    - On AMD HD**** cards you need to disable the shaders.
+  - Install "Wine". (If you didn't already)
 
-4. Getting Wine to work.
+2. Getting Wine to work.
   - For Ubuntu/GNU/LINUX Debian, just do:
     - sudo apt-get -y install wine
   - For Gentoo / Sabayon do:
@@ -83,13 +83,13 @@ to find a way provided by the community to install the newest versions of osu!.
   - For Fedora do:
     - sudo dnf install wine
   - For any other OS read the install-manual of the system.
-5. Create a 32 bit wine prefix
+3. Create a 32 bit wine prefix
   - mkdir ~/.wine-osu
   - cd ~/.wine-osu
   - export WINEPREFIX=~/.wine-osu WINEARCH=win32
   - winecfg
 
-6. Getting osu! to work.
+4. Getting osu! to work.
     - You will need to use winetricks...
       - As normal user,
         - winetricks install dotnet20 ie7
@@ -212,10 +212,9 @@ It is another game quite similar to osu! but that has its own features and ranki
   - It is suggested you download packs that do not cost you money first. Free packs have "FREE" tag instead of the "USD$" cost tag.
 
 FAQ and troubleshooting
-=======================
+-----------------------
 
-osu!
-----
+### osu!
 
 -   **I try to run osu! and get an 'Initialization Error**'
     -   Make sure you have the [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22) installed.
@@ -228,8 +227,7 @@ osu!
     -   If you come across a bug or error not listed above, check out the [Bug Reports forum](http://osu.ppy.sh/forum/5) and post there (searching through existing threads first is highly recommended). Someone will definitely be around to help. Just make sure you speak your points clearly and provide a proof to back-up your points (like a screenshot, video, and/or the steps to reproduce).
     -   Also, please consider using the osu! IRC channel if you are bit skeptical to post at Bug Reports section.
 
-osu!droid
----------
+### osu!droid
 
 -   What versions of Android OS are supported?
     -   All versions since 1.6 (Donut).
@@ -238,15 +236,14 @@ osu!droid
 -   Will you make a <feature name>?
     -   Make your request in the [feature requests thread](http://osu.ppy.sh/forum/t/62313).
 
-T-Aiko
-------
+### T-Aiko
 
 -   I can't play on my Android phone!
     -   Do you happen to be using a Motorola smartphone? There seems to be a bug in Motorola Android firmware that causes the game to crash when pressing play without even letting you send an error report. The only recommendation to-do is to install a (Stock) Google ROM.
     -   If you discover any (bugs/problems), please post at [this forum post](http://osu.ppy.sh/forum/t/58640) complete with what smartphone you are using and the steps to reproduce the problem.
 
 External links
-==============
+--------------
 
 -   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
 -   peppy's download page [2](http://osu.ppy.sh/p/download)
