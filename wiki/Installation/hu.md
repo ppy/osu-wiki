@@ -70,4 +70,3 @@ Külső hivatkozások
 -   peppy osu!stream hivatalos oldala [12](http://osustream.com/)
     -   osu!stream App Store oldala [13](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
 
-

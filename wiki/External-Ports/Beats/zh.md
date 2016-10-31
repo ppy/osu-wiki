@@ -22,7 +22,7 @@
 2.  在左上角选择难度。(初学者\\新手，简单，中等\\标准，困难，挑战)
 3.  点击“选择歌曲”
 4.  点击你想玩的歌曲文件
-      
+
     你可能需要一段时间的摸索和练习才能<s>学会游<span style="background-color: black;">yoooooo</span>泳![](Huaji.png "fig:Huaji.png")</s>进入osu!droid的歌曲文件夹。
 
 5.  可以玩了！

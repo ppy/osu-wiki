@@ -38,8 +38,6 @@ osu!の[Editorによって](JP:Beatmap_Editor "wikilink")、BSSは自動で全�
 譜面のModding
 -------------
 
-  
-  
 *主な記事: [Modding](JP:Modding "wikilink").*
 
 あなたが提出した譜面はフォーラムメンバーとModeratorがダウンロードができるようになります。そして彼らは譜面に対してコメントやフィードバックを提供することがあります(一般的にそれは"Modding"と呼ばれます)。拡大された時の[チャットウィンドウでは](JP:Chat_Console#Extended_Chat_Console "wikilink")、他の人の譜面を見ているプレイヤーは"Modding"のステータスとして扱われ、パネルの色が緑になります。譜面をModすることは誰もができ、することを推奨されていますが、譜面がどれだけRankに近いかはModeratorのModによって判定されます。
@@ -105,8 +103,6 @@ MapperもBSSはRankした譜面にはアップデートを適用することが�
 Rank基準
 --------
 
-  
-  
 *主な記事: [Ranking Criteria](JP:Ranking_Criteria "wikilink").*
 
 それぞれの譜面はユニークな創作物であるので、譜面をRankすることを妨害する全ての問題となる可能性のあるリストを作ることは難しいです。しかしここでは譜面をRankする上で守るべきガイドラインがあります:

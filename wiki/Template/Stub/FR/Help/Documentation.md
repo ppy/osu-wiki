@@ -7,7 +7,5 @@ Usage
 
 Mettez sur une page:
 
-  
     {{Stub/FR/Help}}
-
 

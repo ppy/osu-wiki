@@ -3,7 +3,6 @@ Having trouble getting your [map](Glossary#Beatmap "wikilink") ranked? You've co
 Step 1: Modding
 ---------------
 
-  
 ***Precursor: [Getting Your Map Modded](Getting_Your_Map_Modded "wikilink")***
 
 The first and most important step towards getting your map ranked is to get people looking at it - people willing to [mod](Modding "wikilink") your map can be found in \#modreqs, the modding queues subforum or by asking them directly after checking their signature for modding policies. Remember that all mods are useful - any perspective on your map can be used to make it a better one. Consider every suggestion a modder makes, and if you turn any down, post a detailed response in the map thread making it clear the reasons why. It makes them a better modder and makes you think more about how your map can improve! Also, if you found the mod particularly useful, be sure to give the post a [kudosu](kudosu "wikilink").

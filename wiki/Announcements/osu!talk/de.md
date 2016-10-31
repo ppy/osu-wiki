@@ -31,7 +31,6 @@ Episoden
 | Episode 16 | [mit OnosakiHito - Taiko QAT (38:58)](//www.youtube.com/watch?v=ZYby7r3YNPg)                          |
 | Episode 17 | [mit RBRat3 - osu!painter (23:37)](//www.youtube.com/watch?v=kSotXmkCN4I)                             |
 
-
 Spezialfolgen
 =============
 
@@ -40,6 +39,5 @@ Spezialfolgen
 | Spezialfolge 01 | [mit Ephemeral, deadbeat und OnosakiHito - Personalüberarbeitung (52:34)](//www.youtube.com/watch?v=c10Jiq1xZus)  |
 | Spezialfolge 02 | [mit Kyonko Hizara, Loctav, MMzz und OnosakiHito - Over-Mapping (1:08:03)](//www.youtube.com/watch?v=RepSYE3hN3A) |
 | Spezialfolge 03 | [mit deadbeat, LoliFlan und Kitokofox - Moderation (1:09:33)](//www.youtube.com/watch?v=C1hvpnW5A7k)              |
-
 
 [Category: Deutsch](Category:_Deutsch "wikilink")

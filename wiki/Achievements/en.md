@@ -14,32 +14,30 @@ There are currently 16 achievements in this group which are divided into 4 secti
 
 Each of these sections currently have 4 volumes to them.
 
-### Requirements & Notes about getting the badge.                                                                                                         
+### Requirements & Notes about getting the badge.  
 
+#### Requirements:  
 
-#### Requirements:                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                               
- -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t).                                                                                                                                                         
- -   The mode must be [osu! Standard](Standard "wikilink").                                                                                                                                                                                                                    
- -   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.                                                                                                                                                    
-     -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t)         
-     -   Alternately, you can download the songs inside manually one by one and it would still count.                                                                                                                                                                          
- -   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.                                                                                                                     
- -   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.                                                                                                                                                      
- -   Mods can be used except mods that can cause unranked play (like Auto-pilot). Use the mods wisely to your favour.                                                                                                                                                          
-                                                                                                                                                                                                                                                                               
-#### Notes:                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                               
- -   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.  
- -   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
- -   Badge given after you complete all the songs in that theme in question.                                                                                                                                                                                                   
-     -   Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?                                                                                                  
- -   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
-                                                                                                                                                                                                                                                                               
-#### Trivia:                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                               
- -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Packs0916/en.md "wikilink")                                                                      
+ -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t).
+ -   The mode must be [osu! Standard](Standard "wikilink").
+ -   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
+     -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t)
+     -   Alternately, you can download the songs inside manually one by one and it would still count.
+ -   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.
+ -   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.
+ -   Mods can be used except mods that can cause unranked play (like Auto-pilot). Use the mods wisely to your favour.
 
+#### Notes:  
+
+ -   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.
+ -   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.
+ -   Badge given after you complete all the songs in that theme in question.
+     -   Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?
+ -   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.
+
+#### Trivia:  
+
+ -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Packs0916/en.md "wikilink")
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -47,7 +45,6 @@ Each of these sections currently have 4 volumes to them.
 | ![Video Game Pack vol.2](all-packs-gamer-2.png "Video Game Pack vol.2") | ![Anime Pack vol.2](all-packs-anime-2.png "Anime Pack vol.2") | ![Internet Pack vol.2](all-packs-internet-2.png "Internet Pack vol.2") | ![Rhythm Pack vol.2](all-packs-rhythm-2.png "Rhythm Pack vol.2") |
 | ![Video Game Pack vol.3](all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](all-packs-rhythm-4.png "Rhythm Pack vol.4") |
-
 
 Skill
 =====
@@ -61,7 +58,6 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 
 **The High Ranker** achievements can be obtained by reaching a certain global ranking position in **any** game mode.
 
-
 | Combo | The High Ranker |
 | :---: | :-------------: |
 | ![500 Combo (any song)](osu-combo-500.png "500 Combo (any song)") | ![The Highranker Lvl1](all-skill-highranker-1.png "The Highranker Lvl1") |
@@ -69,21 +65,17 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 | ![1000 Combo (any song)](osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](all-skill-highranker-4.png "The Highranker Lvl4") |
 
-
 **Star-based** achivements are split into two groups, **Pass** and **S**. The **Pass** achievements can be obtained by passing any map of a certain star difficulty. The **S** achievements will be obtained if you pass the map with a S ranking whilst also having a FC. The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn an achievement. Shown below are the **Pass** and **S** medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
-
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
 | ![8 Star Standard Pass](osu-skill-pass-8.png "8 Star Standard Pass") | ![8 Star Taiko Pass](taiko-skill-pass-8.png "8 Star Taiko Pass") | ![8 Star Catch the Beat Pass](fruits-skill-pass-8.png "8 Star Catch the Beat Pass") | ![8 Star Mania Pass](mania-skill-pass-8.png "8 Star Mania Pass") |
 | ![8 Star Standard S](osu-skill-fc-8.png "8 Star Standard S") | ![8 Star Taiko S](taiko-skill-fc-8.png "8 Star Taiko S") | ![8 Star Catch the Beat S](fruits-skill-fc-8.png "8 Star Catch the Beat S") | ![8 Star Mania S](mania-skill-fc-8.png "8 Star Mania S") |
 
-
 Dedication
 ==========
 
 **The Dedication** achievements can be obtained by (playing a lot of times in Standard mode/ collecting many fruits in [Catch the Beat](Catch_the_Beat "wikilink") mode/ hitting a lot of drum hits in [Taiko](Taiko "wikilink") mode / pressing a lot of keys in [Mania](Mania "wikilink")).
-
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
@@ -92,12 +84,10 @@ Dedication
 | ![25,000 Plays (osu! mode)](osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu! mode)](osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](mania-hits-40000000.png "40,000,000 Keys") |
 
-
 Mod Introduction
 ==========
 
 **The Mod Introduction** achievements can be obtained by clearing maps with the specified game modifier. They're meant to encourage newer players to try out each mod and explore what the game has to offer.
-
 
 | Difficulty Increasing | Difficulty Reducing | Special |
 | :---- | :---: | :---: |
@@ -107,12 +97,10 @@ Mod Introduction
 | ![Hidden](all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](all-intro-suddendeath.png "Sudden Death") ![Perfect](all-intro-perfect.png "Perfect") | | |
 
-
 Hush-Hush
 =========
 
 Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement. The title itself is a clue.
-
 
 | ![Don't let the bunny distract you!](all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](all-secret-rank-s.png "S-Ranker") | ![Most Improved](all-secret-improved.png "Most Improved") | ![Non-stop Dancer](all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -123,7 +111,6 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 | ![Eclipse](osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](all-secret-challenge.png "Up For The Challenge") | ![Lights Out](all-secret-lightsout.png "Lights Out") |![Unstoppable](osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
-
 
 External Link
 =============

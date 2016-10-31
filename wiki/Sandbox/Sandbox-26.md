@@ -546,4 +546,3 @@ Important rule changes between 1st and 2nd edition
 4.  The additional back-up players are not necessary, but we still prefer if you have at least 1 if there's a possibility.
 5.  Timezone needed in the post of team sign-up.
 
-

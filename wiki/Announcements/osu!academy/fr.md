@@ -55,6 +55,4 @@ Ces tutoriels vidéo, œuvres de , sont **en anglais**.
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Épisode 32")   | In this episode, we will go over the new ranking system!                                               |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Épisode 33")   | In this episode, we will cover more advanced editor tips!                                              |
 
-
-
 [Category:History of osu!/FR](Category:History_of_osu!/FR "wikilink")

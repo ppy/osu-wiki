@@ -57,6 +57,4 @@ Click on the image to be taken to corresponding episode.
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Episode 32")   | In this episode, we will go over the new ranking system!                                                                                                          |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Episode 33")   | In this episode, we will cover more advanced editor tips!                                                                                                         |
 
-
-
 [Category:History of osu!](Category:History_of_osu! "wikilink")

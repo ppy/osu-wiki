@@ -13,7 +13,6 @@
 음악 목록
 ---------
 
-  
 ***전체적인 음악 목록입니다. [Osu!stream/Song list](KO:Osu!stream/Song_list "wikilink")***.
 
 **Osu! Stream의 난이도**

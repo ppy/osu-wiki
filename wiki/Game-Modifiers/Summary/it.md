@@ -1,4 +1,4 @@
-  
+
 ***[Clicca qui per tornare ai modificatori di gioco](IT:Game_Modifiers "wikilink")***
 
 Sommario

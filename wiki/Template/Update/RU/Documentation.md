@@ -7,7 +7,6 @@
 
 Добавьте в начало статьи:
 
-  
     {{Update/RU}}
 
 <noinclude></noinclude>

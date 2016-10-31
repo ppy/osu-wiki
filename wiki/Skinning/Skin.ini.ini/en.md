@@ -192,7 +192,6 @@ If you're still unsure, these images should help explain it (in most cases!)</p>
 \[Colours\]
 -----------
 
-  
 <span style="color:red;font-weight:bold;">Caution: "\[Colors\]" (spelling without the "u") will not work!</span>
 
 Notes:
@@ -202,15 +201,15 @@ Notes:
 
 | Command                 | Question                                                                | Values | Default        | Notes                                                                                               |
 |-------------------------|-------------------------------------------------------------------------|--------|----------------|-----------------------------------------------------------------------------------------------------|
-| Combo1:                 | What colour should the last combo be?                                   | RGB    | 255,192,0      | **[Catch the Beat](Catch_the_Beat "wikilink") and [Standard](Standard "wikilink") modes**           
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
-                                                                                                                               This will override the beatmap's colours!                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
-                                                                                                                               Combo1 appears at the end                                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| Combo1:                 | What colour should the last combo be?                                   | RGB    | 255,192,0      | **[Catch the Beat](Catch_the_Beat "wikilink") and [Standard](Standard "wikilink") modes**  
+
+                                                                                                                               <hr/>  
+                                                                                                                               This will override the beatmap's colours!  
+
+                                                                                                                               <hr/>  
+                                                                                                                               Combo1 appears at the end  
+
+                                                                                                                               <hr/>  
                                                                                                                                Combo2 appears first                                                                                 |
 | Combo2:                 | What colour should the first combo be?                                  | RGB    | 0,202,0        |
 | Combo3:                 | What colour should the second combo be?                                 | RGB    | 18,124,255     |
@@ -219,28 +218,28 @@ Notes:
 | Combo6:                 | What colour should the fifth combo be?                                  | RGB    |                |
 | Combo7:                 | What colour should the sixth combo be?                                  | RGB    |                |
 | Combo8:                 | What colour should the seventh combo be?                                | RGB    |                |
-| SliderBorder:           | What colour should the slider's border be?                              | RGB    | 255,255,255    | **[Standard](Standard "wikilink") mode**                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| SliderBorder:           | What colour should the slider's border be?                              | RGB    | 255,255,255    | **[Standard](Standard "wikilink") mode**  
+
+                                                                                                                               <hr/>  
                                                                                                                                Determines the colour for the slider's border                                                        |
-| MenuGlow:               | What colour should the spectrum bars be coloured in?                    | RGB    | 0,78,155       | This is the spectrum bars in the main menu, around the [osu!cookie](osu!cookie "wikilink")          
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| MenuGlow:               | What colour should the spectrum bars be coloured in?                    | RGB    | 0,78,155       | This is the spectrum bars in the main menu, around the [osu!cookie](osu!cookie "wikilink")  
+
+                                                                                                                               <hr/>  
                                                                                                                                required                                                                                             |
-| SliderBall:             | What should the non-tinted sliderball's colour be?                      | RGB    | 2,170,255      | **[Standard](Standard "wikilink") mode**                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| SliderBall:             | What should the non-tinted sliderball's colour be?                      | RGB    | 2,170,255      | **[Standard](Standard "wikilink") mode**  
+
+                                                                                                                               <hr/>  
                                                                                                                                To use this, tinting the sliderball must be disabled in [Options](Options "wikilink")                |
-| SpinnerBackground:      | What colour should be added to the spinner-background?                  | RGB    | 100, 100, 100  | **[Standard](Standard "wikilink") mode**                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| SpinnerBackground:      | What colour should be added to the spinner-background?                  | RGB    | 100, 100, 100  | **[Standard](Standard "wikilink") mode**  
+
+                                                                                                                               <hr/>  
                                                                                                                                Suggestion: if using a transparent image, use 0,0,0                                                  |
 | SongSelectActiveText:   | What colour should the text of the <u>active</u> panels be tinted in?   | RGB    | 0,0,0          | The colour of text in the currently active group in song selection                                  |
 | SongSelectInactiveText: | What colour should the text of the <u>inactive</u> panels be tinted in? | RGB    | 255,255,255    |                                                                                                     |
 | StarBreakAdditive:      | What colour should be added to star2 during breaks?                     | RGB    | 255,182,193    |                                                                                                     |
-| SliderTrackOverride:    | What colour should the slider's track be coloured in?                   | RGB    | *combo colour* | **[Standard](Standard "wikilink") mode**                                                            
-                                                                                                                                                                                                                                    
-                                                                                                                               <hr/>                                                                                                
+| SliderTrackOverride:    | What colour should the slider's track be coloured in?                   | RGB    | *combo colour* | **[Standard](Standard "wikilink") mode**  
+
+                                                                                                                               <hr/>  
                                                                                                                                Using this command will make <u>all</u> slider tracks that specified colour!                         |
 | InputOverlayText:       | What color should the input text color be?                              | RGB    | 124,108,246    | **[Catch the Beat](Catch_the_Beat "wikilink") and [Standard](Standard "wikilink") modes** &lt;!--|- |
 ||
@@ -248,7 +247,6 @@ Notes:
 \[Fonts\]
 ---------
 
-  
 All font sprites follow this style: **prefix-\#.png** where \# is from 0 to 9 and prefix is the font's "name"
 
 | Command           | Question                                                 | Values                                                                 | Default | Notes                                                             |
@@ -258,8 +256,8 @@ All font sprites follow this style: **prefix-\#.png** where \# is from 0 to 9 an
 | ScorePrefix:      | What prefix is used for the score numbers?               | *prefix*                                                               | score   | You can use a custom path                                         |
 | ScoreOverlap:     | By how many pixels should the score numbers overlap?     | *+/- integer*                                                          | -2      | Negative integers will add a gap and vise versa                   |
 | ComboPrefix:      | What prefix is used for the combo numbers?               | *prefix*                                                               | score   | If custom pathed score numbers are set, the default score is used 
-                                                                                                                                                                                                                                      
-                                                                                                                                                                   <hr/>                                                              
+
+                                                                                                                                                                   <hr/>  
                                                                                                                                                                    You can use a custom path                                          |
 | ComboOverlap:     | By how many pixels should the combo numbers overlap?     | *+/- integer*                                                          | -2      | Negative integers will add a gap and vise versa                   |
 

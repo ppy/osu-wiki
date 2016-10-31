@@ -212,7 +212,6 @@ Gyakori problémák és kérdések
 Hol találhatom meg és szerezhetem be a beatmapeket?
 ---------------------------------------------------
 
-  
 *Részletesen a beatmapekről angol nyelven: [Beatmaps](HU:Beatmaps "wikilink")*
 
 A főoldalról, a "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)" menüpont alatt találod őket.

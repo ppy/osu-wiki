@@ -83,7 +83,6 @@ The name of game modes should always be capitalised unless if it is following th
 
 Example:
 
-  
 *osu!mania is a game mode that has been introduced years later the original game mode that is osu! Standard.*
 
 <!-- -->
@@ -94,7 +93,6 @@ Game modifiers as well as their abbreviations *should* always be capitalised.
 
 Examples:
 
-  
 *In Taiko mode, Hard Rock increases Slider Velocity as well as Overall Difficulty.*
 
 *Auto Pilot is not available for use in Taiko or Catch the Beat modes.*
@@ -107,7 +105,6 @@ The different difficulty settings of a beatmap as well as their abbreviations *s
 
 Example:
 
-  
 *Circle Size, known as "CS" in Edit's song selection, determines the size of circles and sliders*
 
 <!-- -->
@@ -118,7 +115,6 @@ Gameplay elements should *never* be be capitalised.
 
 Example:
 
-  
 *In osu! Standard, beatmaps are composed of three different gameplay elements: circles, sliders and spinners.*
 
 ### Section headings

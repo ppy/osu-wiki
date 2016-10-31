@@ -137,7 +137,7 @@ To start, listen and find all the places where the rhythm changes (metronome usa
 1.  Make sure that the parameters (BPM and offset) of the current point are shown in the timeline;
 2.  While testplaying, keep an eye on hit error. When it starts to change, stop;
 3.  Test your "map" several times near that point. If you see the same picture of hit error increasing, then test a little bit more;
-      
+
     If there is a noticeable shift in tempo and it is **not** a result of early/late hit, add a new offset (aka time pointer to override base) and shift it by an appropriate number of milliseconds (hit error will tell);
 
     If there is no shift, but you see that the error starts to increase, as if you set wrong BPM (except that it was fine all the way before getting to that point), add a new uninherited offset and alter its BPM. Do this at the Timing tab. (F3) That is, use the osu!metronome and try to catch a change, then test it like a normal single offset. Unlike traditional and monotonous songs, the new BPM value may differ from the average one. The important thing is to determine it as accurately as possible.

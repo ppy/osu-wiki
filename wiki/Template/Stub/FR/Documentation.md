@@ -7,7 +7,6 @@ Usage
 
 Mettez au début d'une page/section:
 
-  
     {{Stub/FR}}
 
 <noinclude></noinclude>

@@ -143,7 +143,6 @@ Melhores dos temas
 | \#2     | [Bomfunk MC's - Freestyler (Lesjuh)](//osu.ppy.sh/s/35629)    |
 | \#3     | [07th Expansion - Final Answer (gowww)](//osu.ppy.sh/s/26226) |
 
-
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 -    [Diagramas](//osu.ppy.sh/p/chart?ch=best2011)
 -    DL packs:
@@ -372,7 +371,6 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/138781453998)
 -    [Resultados #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-
 osu!semanal
 ===========
 
@@ -402,5 +400,4 @@ Você pode mandar por email suas ideias para serem usadas nas novidades diretame
 | \#16 | [osu!semanal \#16](https://osu.ppy.sh/news/122554029063) |
 | \#17 | [osu!semanal \#17](https://osu.ppy.sh/news/123204635333) |
 | \#18 | [osu!semanal \#18](https://osu.ppy.sh/news/123767691448) |
-
 

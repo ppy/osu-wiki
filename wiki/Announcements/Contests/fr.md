@@ -101,7 +101,6 @@ Note: Le vainqueur remporte un **pack osu! store** (1x [osu!tablet](//store.ppy.
 | #2       | [Sharlo](//osu.ppy.sh/u/1622450) - [緋色月下、狂咲ノ絶 -1st Anniversary Remix-](//soundcloud.com/sharlosharlo/1st-anniversary-remix) | [EastNewSound](//www.youtube.com/watch?v=liA-7xNLiYU)    |
 | #3       | [MissTitannia](//osu.ppy.sh/u/4490361) - *unknown*                                                                          | *unknown*                                                |
 
-
 -   [Archive des résultats pour chaque stage (cliquez sur les onglets en bas du tableau)](//docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
 -   [News](//osu.ppy.sh/news/95662228778)
 -   [Résultats](//osu.ppy.sh/news/106902823593)
@@ -114,7 +113,6 @@ Note: Le vainqueur remporte un **pack osu! store** (1x [osu!tablet](//store.ppy.
 | #1       | [Sagi](//osu.ppy.sh/u/491799) - [Systematic Love](//flan.s-ul.eu/OQXT0SsA)                 | [Camelia (Hatsune Miku)](//www.youtube.com/watch?v=16iOXrf3dQ8)  |
 | #2       | [CptHampton](//osu.ppy.sh/u/3200587) - [Drumming Song](//flan.s-ul.eu/ZCA8KxCl)            | [>Florence + The Machine](//www.youtube.com/watch?v=TpLXQorSQe8) |
 | #3       | [yealina](//osu.ppy.sh/u/139551) - [Hyadain no Kakakata☆Kataomoi](//flan.s-ul.eu/8w5u4phq) | [Hyadain](//www.youtube.com/watch?v=WhQvgHM_Nd4)                 |
-
 
 -   [Archive des résultats pour chaque stage (cliquez sur les onglets en bas du tableau)](//docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 -   [News](//osu.ppy.sh/news/125447383718)

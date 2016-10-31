@@ -19,7 +19,6 @@ General
 -   **You are not allowed to leave any column empty**.
 -   **You are not allowed to put more than 6 notes simultaneously.**
 
-  
 Considering most keyboards use USB connections which do not allow 7 simultaneous presses, we make this rule to help more people enjoy the game. *The end of hold notes are an exception, because they are released and not pressed.*
 
 -   **You can't have two notes in the same column that overlap each other, and there must always be a space between two notes in the same column.**
@@ -44,7 +43,6 @@ Guidelines are important and should be followed in most maps. However, they are 
 -   **Life Drain** rate is suggested to be at least **7** or higher to get same HP drain rate in IIDX.
 -   **Overall Difficulty** should be:
 
-  
 **9-10** when using mainly notes and just a few amount of holds
 
 **7-8** when using a mix a balanced notes and holds

@@ -17,7 +17,6 @@ Miembros del Equipo
 
 Nota: Todos los BN Hablan/Escriben en inglés al menos que se indique lo contrario.'' [Link](http://osu.ppy.sh/g/28)
 
-
 Otra nota: la columna de "Modos" de la tabla aqui abajo menciona en que modos de juego es apto para Modear/Dar Burbuja/Calificar, Pero no están forzosamente sujetos a esos modos como tal.
 
 | Nombre | Standard | Taiko | Catch | Mania | Otros Lenguajes |

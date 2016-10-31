@@ -34,7 +34,6 @@ Um eine neue Beatmap zu starten, folge diesen einfachen Schritten:
 
 -   Die Audiodatei in osu! ziehen und ablegen.
 
-  
 Alternativ kann die Audiodatei auch in den "Songs" Ordner verschoben werden.
 
 -   Nach dem Einfügen sollte sich der Song öffnen und direkt im Edit angezeigt werden.

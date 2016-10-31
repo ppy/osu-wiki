@@ -42,7 +42,6 @@ Sliders, with patterns!
 
 ### Short Repeating Sliders
 
-  
 *Also known as the **Kick Slider***
 
 *Not to be confused with [Hold Sliders](Unrankable_Techniques#Hold_Sliders "wikilink")*

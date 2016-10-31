@@ -79,4 +79,3 @@ T-Aiko
 -   peppy's osu!stream official page [11](http://osustream.com/)
     -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
 
-

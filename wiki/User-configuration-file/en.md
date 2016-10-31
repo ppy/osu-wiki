@@ -1,4 +1,4 @@
-  
+
 ***[Click to return to Main page](Osu!_Program_Files "wikilink")***
 
 <img src="CF_DEAD.jpg" title="fig:Combo Fire." alt="Combo Fire." width="200" /> This a list of options in the osu!.<yourpcname>.cfg file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
@@ -228,5 +228,4 @@
 | ManiaSpeedBPMScale           | Forces osu!mania scroll speed to scale with BPM                                                                                                                                                            |
 | MenuTriangles                | Enables triangles                                                                                                                                                                                          |
 ||
-
 

@@ -1,7 +1,6 @@
 Como se registrar?
 ------------------
 
-  
 Se registrar no osu! é simples como o um dois três! Siga os passos abaixo.
 
 Caso você não se conecte com sua conta dentro do jogo em 24 horas, o registro da conta será removido e anulado.
@@ -18,11 +17,10 @@ Passos
 
 | <b>Legenda</b>                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Username</b> - Seu nome de usuário. Escolha com cuidado! Você só podera mudar o nome <b>uma vez</b> se possuir emblema de supporter.                                       
-                                                                                                                                                                                   
-                                                                                                                                                                                   
- a. Máximo de 15 caracteres                                                                                                                                                        
-                                                                                                                                                                                   
+| 1. <b>Username</b> - Seu nome de usuário. Escolha com cuidado! Você só podera mudar o nome <b>uma vez</b> se possuir emblema de supporter.  
+
+ a. Máximo de 15 caracteres  
+
  b. Caracteres Alfanumericos ("a-z, A-Z, 0-9"), underline ("\_"), Colchetes ("\[" and "\]"), e traços ("-") são os únicos permitidos.                                              |
 | 2.<b> E-mail Address</b> - Vai ser usado em caso de perda de senha e outras coisas. Não esqueça esse email!                                                                      |
 | 3. <b>Password</b> - Crie uma senha que ninguém além de você saberá.                                                                                                             |
@@ -37,9 +35,8 @@ Passos
 
 | <b>Legenda</b>                                                                                                |
 |---------------------------------------------------------------------------------------------------------------|
-| 1. osu! icon - Execute osu! com dois cliques ou pressione o botão direito depois abrir.                       
-                                                                                                                
-                                                                                                                
+| 1. osu! icon - Execute osu! com dois cliques ou pressione o botão direito depois abrir.  
+
  <i>Nota: Você não precisa executar osu! como administrador. Ele vai te notificar caso osu! precise disso.</i>  |
 | 2. User Panel - Clique nisso para se Conectar ou Desconectar do jogo.                                         |
 | 3. Log-in dialog - Preencha os campos de nome de usuario e senha que criou anteriormente e pressione login.   |

@@ -21,7 +21,6 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 | ![Video Game Pack vol.3](all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
-
 Combo
 -----
 

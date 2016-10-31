@@ -38,15 +38,15 @@ From an archiver
 **Procedure**
 
 1.  Compile your files into a folder (.mp3, .flv, .osu, SB, etc. into the folder). Name the folder.
-      
+
     For explanation purpose, folder will be named "Amigo Fiesta".
 
 2.  Right-click the folder and choose to archive the folder (Add to archive...).
-      
+
     You can also choose to open the File archiver software first and drag-and-drop the folder in.
 
 3.  Inspect the settings. Set archive method as ".zip" (not .7z, .rar) and rename the folder file extension to .osz manually in the text box.
-      
+
     Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Archive method: ".zip"
 
 4.  Allow the archive process. An .osz file will be produced as end product along with the distinctive osu! icon for the file.
@@ -68,7 +68,7 @@ From the game
 **Procedure**
 
 1.  Like above, compile your files into a folder and name it.
-      
+
     Usually, if you edited the beatmap before, everything will be ready to be converted to .osz. For skins, you must compile the files before.
 
 2.  Open osu!.

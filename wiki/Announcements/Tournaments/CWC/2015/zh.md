@@ -18,7 +18,6 @@
 | 决赛第一周     | 2015年6月6日-7日     |
 | 决赛第二周     | 2015年6月13日-14日   |
 
-
 奖励
 ====
 
@@ -71,7 +70,6 @@
 | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **[MeGl](//osu.ppy.sh/u/1126814)**, [VagaNNN](//osu.ppy.sh/u/1260040), [Zlocktar](//osu.ppy.sh/u/2882387), [spider_yoba](//osu.ppy.sh/u/1912659), [MayFlit](//osu.ppy.sh/u/1651627)                                          |
 | ![](/wiki/shared/flag/Sg.gif) | Singapore          | **[He Ang Erika](//osu.ppy.sh/u/2451381)**, [Mung](//osu.ppy.sh/u/1018228), [geraldwch](//osu.ppy.sh/u/2923441), [chibipingers](//osu.ppy.sh/u/1756003), [Accel](//osu.ppy.sh/u/1169796), [Kagayane](//osu.ppy.sh/u/1777691) |
 | ![](/wiki/shared/flag/Pl.gif) | Poland             | **[WujekGrzyb](//osu.ppy.sh/u/258289)**, [Sawa88](//osu.ppy.sh/u/993495), [wampir](//osu.ppy.sh/u/261497), [Krzysiek](//osu.ppy.sh/u/294277), [Kosmit](//osu.ppy.sh/u/1749173), [Hirikoshi](//osu.ppy.sh/u/2114149)          |
-
 
 | Flag                           | Country   | Group E Members                                                                                                                                                                                                                   |
 |--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -592,5 +590,4 @@ Sunday, 10\. May 2015
 3.  所有比赛都会在周六或者周日进行。
 4.  比赛时间由赛事管理小组安排。具体时间安排会在每个阶段之前的一周周日进行公告。赛事管理小组尽量尊重每个参赛队伍的时区来进行安排。
 5.  队长对于队伍的能否参赛负责。队伍的人数上限就是为了保证每队至少可以提供三名队员来参加每一场比赛。比赛时不足三名队员到场的队伍会被当做弃权处理。
-
 

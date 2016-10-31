@@ -103,7 +103,6 @@ Osu!droid MM.jpg| Menu Utama Osu!droid Play.jpg| Pemilih lagu (Skin Okami) Osu!d
 Layar Options
 -------------
 
-  
 ***Mohon buka [Laman Options osu!droid](ID:Osu!droid/Options "wikilink") untuk informasi lebih lanjut.***
 
 Bagaimana cara memasang skin?

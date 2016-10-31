@@ -35,7 +35,6 @@
 | 해설      | ![](/wiki/shared/flag/Au.gif) [Ephemeral](//osu.ppy.sh/u/102335) // ![](/wiki/shared/flag/Ca.gif) [Kitokofox](//osu.ppy.sh/u/1815420) // ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Us.gif) [-Ryuujii-](//osu.ppy.sh/u/2107523) |
 | 통계      | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
 
-
 ------------------------------------------------------------------------
 
 링크
@@ -233,14 +232,12 @@
 | [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
 | [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
 
-
 | Hidden                                                                               |
 |--------------------------------------------------------------------------------------|
 | [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
 | [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
 | [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
 | [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
-
 
 | HardRock                                                                         |
 |----------------------------------------------------------------------------------|
@@ -249,7 +246,6 @@
 | [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
 | [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
 
-
 | DoubleTime                                                                                          |
 |-----------------------------------------------------------------------------------------------------|
 | [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
@@ -257,14 +253,12 @@
 | [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
 | [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
 
-
 | FreeMod                                                                      |
 |------------------------------------------------------------------------------|
 | [DJ Genericname - Dear You (Rue) \[Dear Rue\]](//osu.ppy.sh/b/136400&m=2)    |
 | [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](//osu.ppy.sh/b/59643&m=2)   |
 | [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
 | [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
-
 
 | Tiebreaker                                                                                        |
 |---------------------------------------------------------------------------------------------------|
@@ -283,14 +277,12 @@
 | [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
 | [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
 
-
 | 히든                                                                               |
 |--------------------------------------------------------------------------------------|
 | [Maksim Mrvica - 크로아티아n Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
 | [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
 | [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
 | [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
-
 
 | 하드락                                                                         |
 |----------------------------------------------------------------------------------|
@@ -299,7 +291,6 @@
 | [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
 | [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
 
-
 | 더블타임                                                                                          |
 |-----------------------------------------------------------------------------------------------------|
 | [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
@@ -307,14 +298,12 @@
 | [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
 | [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
 
-
 | 프리모드                                                                      |
 |------------------------------------------------------------------------------|
 | [DJ Genericname - Dear You (Rue) \[Dear Rue\]](//osu.ppy.sh/b/136400&m=2)    |
 | [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](//osu.ppy.sh/b/59643&m=2)   |
 | [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
 | [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
-
 
 | 타이브레이커                                                                                        |
 |---------------------------------------------------------------------------------------------------|

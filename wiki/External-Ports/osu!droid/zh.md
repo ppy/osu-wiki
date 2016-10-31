@@ -108,7 +108,6 @@ Osu!droid MM.jpg| 主界面 Osu!droid MM2.jpg| 主界面 Osu!droid Play.jpg| 歌
 设置界面
 --------
 
-  
 ***请参阅 [osu!droid option page](osu!droid/Options "wikilink") （英文）获取更多信息.***
 
 如何安装皮肤

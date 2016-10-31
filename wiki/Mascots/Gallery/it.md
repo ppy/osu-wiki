@@ -1,4 +1,4 @@
-  
+
 ***[Clicca per tonare alla pagina delle Mascotte](IT:Mascots "wikilink")***
 
 Originali osu!

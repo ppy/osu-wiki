@@ -370,7 +370,6 @@ Group Stage
 | ![](/wiki/shared/flag/Ca.gif) Canada             | 0      - **4** | **Germany** ![](/wiki/shared/flag/De.gif)        | [#1](//osu.ppy.sh/mp/21705868) |
 | ![](/wiki/shared/flag/Pl.gif) Poland             | 0      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/21705874) |
 
-
 ------------------------------------------------------------------------
 
 Ruleset

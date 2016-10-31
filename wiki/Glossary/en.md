@@ -56,7 +56,6 @@ In [Mania](Mania "wikilink"), **100** is a possible [score](score "wikilink") fo
 
 ### 300
 
-  
 *For [Mania](Mania "wikilink"), not to be confused with: [\#MAX](#MAX "wikilink")*
 
 Hit300.png|Default skin for *hit300.png* Mania300.png|Default skin for *mania-hit300.png* <File:Apple.png%7CDefault> skin for 1 of the 4 fruits Taiko-hit300.png|Default skin for *taiko-hit300.png* Taiko-hit300k.png|Default skin for *taiko-hit300k.png* Taiko-hit300g.png|Default skin for *taiko-hit300g.png*
@@ -100,7 +99,6 @@ The **approach circle** is the outermost circle that will enclose the [\#Hitcirc
 
 ### Approach Rate (AR)
 
-  
 *Main Article: [Song Setup\#Approach Rate](Song_Setup#Approach_Rate "wikilink")*
 
 The **approach rate**, or AR for short, is a number (from 0 to 10) that indicates how fast the [\#Approach Circle](#Approach_Circle "wikilink") will enclose the [hitobject](hitobject "wikilink") and how long that [hitobject](hitobject "wikilink") will stay on the screen. This affects from the moment they appear until the time to click on them. Higher **approach rates** mean that the [hitobject](hitobject "wikilink") will be shown for a shorter period of time, giving you less reaction time to plan ahead when to click on them. Inversely, lower **approach rates** mean that the [hitobject](hitobject "wikilink") will be shown on the screen for a longer time, giving you more time to react to each circle. Do note that if the **approach rate** is too low, this can result in excessive amount number of circles on the screen, a similar flaw of [\#Easy](#Easy "wikilink").
@@ -128,7 +126,6 @@ Banana.png|Default skin for the bananas during gameplay
 
 ### BAT
 
-  
 *This term is to help preserve the history of the **BAT**s*
 
 The **BAT** team—which is short for the **B**eatmap **A**ppreciation **T**eam—was a group of users that would rank beatmaps<sup>\[Citation\\ Needed\]</sup>. This team was eventually renamed to the "[Beatmap Nominator](Beatmap_Nominator "wikilink")".
@@ -181,7 +178,6 @@ A **beatmapset**, or "mapset" for short, is the collection of [\#Beatmaps](#Beat
 
 ### BPM
 
-  
 *Main Article: [Timing](Timing "wikilink")*
 
 **BPM** (short for **B**eats **P**er **M**inute) represents the number of whole beats in a minute.
@@ -192,7 +188,6 @@ A **beatmapset**, or "mapset" for short, is the collection of [\#Beatmaps](#Beat
 
 ### BSS
 
-  
 *Main Article: [Submission](Submission "wikilink")*<img src="BSS_Base.jpg" title="fig:BSS window in the Editor" alt="BSS window in the Editor" width="250" />
 
 Short for "[\#**B**eatmap](#Beatmap "wikilink") **S**ubmission **S**ystem". An automated process by which one submits their [\#Beatmaps](#Beatmap "wikilink") to the Beatmap Help or Completed Beatmaps forums for people to see, comment on, [mod](Modding "wikilink") and [rank](Ranked_beatmap "wikilink"). **BSS** allows the [\#Mapper](#Mapper "wikilink") to do either action: [\#Standard Submission](#Standard_Submission "wikilink") and [\#Full Submission](#Full_Submission "wikilink").
@@ -224,7 +219,7 @@ A **choke** occurs when the player almosts obtains a [\#Full Combo](#Full_Combo 
 </div>
 <div id="CS">
 </div>
-  
+
 ''Main Article: [Song Setup\#Circle Size](Song_Setup#Circle_Size_.28osu.21.2C_Catch_the_Beat.2C_Taiko_only.29 "wikilink")
 
 <img src="Circle sizes.png" title="fig:Comparison of the Circle Sizes" alt="Comparison of the Circle Sizes" width="300" />**Circle Size**, "CS" for short, is a number from 2 to 7. This value will determine how big or small the [hit objects](hit_objects "wikilink")/[\#Fruit](#Fruit "wikilink") will be. [Mania](Mania "wikilink") follows a uses a different scale which are called "[\#Keys](#Key "wikilink")."
@@ -237,7 +232,7 @@ A **choke** occurs when the player almosts obtains a [\#Full Combo](#Full_Combo 
 
 <div id="Collaboration">
 </div>
-  
+
 *Similar to: [\#GD](#GD "wikilink") (**G**uest **D**ifficulty)*
 
 **Collab**, short for "collaboration", has two meanings:
@@ -301,7 +296,7 @@ D
 
 <div id="Deathstream">
 </div>
-  
+
 *Main Article: [Deathstreams](Rhythm_Techniques#Deathstreams "wikilink")*
 
 **Deathstreams** are particularly challenging and often extra long [Stream](Stream "wikilink") whose [objects](objects "wikilink") follow each other in very rapid succession and/or in confusing patterns. These usually causes the player to lose their stamina very quickly. **Deathstreams** are to only be used in a [\#Beatmap](#Beatmap "wikilink") that hints it and/or has a high BPM only, but should NOT be used to [\#Overmap](#Overmap "wikilink")!
@@ -322,14 +317,13 @@ D
 
 <div id="Drain">
 </div>
-  
+
 *Not to be confused with: [\#HP Drain Rate](#HP_Drain_Rate "wikilink") or [\#Play Time](#Play_Time "wikilink")*
 
 **Drain time**, or "Drain" for short, refers to the total duration of the [\#Beatmap](#Beatmap "wikilink") that requires the player to be active. **Drain time** does not consider the [\#Breaks](#Break "wikilink") and unmapped parts throughout the [\#Beatmap](#Beatmap "wikilink").
 
 ### Drop
 
-  
 *Not to be confused with: [\#Droplets](#Droplet "wikilink")*
 
 Fruit-drop.png|Default skin for *fruit-drop.png*
@@ -338,7 +332,6 @@ A **drop** is a [\#Slider Tick](#Slider_Tick "wikilink") for [Catch the Beat](Ca
 
 ### Droplet
 
-  
 *Not to be confused with: [\#Drop](#Drop "wikilink")*
 
 Fruit-drop.png|Default skin for *fruit-drop.png*
@@ -365,7 +358,6 @@ E
 
 ### Extended Chat
 
-  
 *Colour codes are explained at [Chat Console](Chat_Console#panels "wikilink")*
 
 The **Extended Chat** can be activated by pressing \[F9\] in [\#osu!](#osu! "wikilink") where the Chat window is expanded with a list of user panels. These panels are sortable by various attributes. Users that are using the osu!client are displayed, not ones that are participating in chat from using a [IRC](IRC "wikilink") client. The user panels supply lots of information on each user. If the mouse cursor is placed on them. The colour of the user panels indicates the user's current activity.
@@ -426,7 +418,7 @@ Hit300g.png|Default skin for Geki (hit300g.png)
 </div>
 <div id="Guest Difficulties">
 </div>
-  
+
 *Similar to: [\#Collab](#Collab "wikilink")*
 
 **GD**, short for "**G**uest **D**ifficulty", is a [\#Mapper](#Mapper "wikilink") [\#Mapping](#Mapping "wikilink") another [\#Mapper](#Mapper "wikilink")'s [\#Mapset](#Mapset "wikilink") (or a [\#Mapper](#Mapper "wikilink"), other than its creator, [\#Mapping](#Mapping "wikilink") a [\#Difficulty](#Difficulty "wikilink")). **Guest Difficulties** usually have the [\#Mapper](#Mapper "wikilink")'s username in the [\#Difficulty](#Difficulty "wikilink")'s name.
@@ -448,7 +440,6 @@ More than one guest [\#Mapper](#Mapper "wikilink") is allowed to contribute to a
 
 ### Good
 
-  
 *Main Article: [Score\#Taiko Scoring Values](Score#Taiko_Scoring_Values "wikilink")*
 
 Taiko-hit100.png|Default skin for *taiko-hit100.png* Taiko-hit100k.png|Default skin for *taiko-hit100k.png*
@@ -457,7 +448,6 @@ Taiko-hit100.png|Default skin for *taiko-hit100.png* Taiko-hit100k.png|Default s
 
 ### Grade
 
-  
 *Not to be confused with: [\#Rank](#Rank "wikilink")*
 
 **Grade**, sometimes referred to as [\#Rank](#Rank "wikilink")—this term was renamed to prevent confusion with other terms sharing that name—is a letter **grade** that evaluates a player's performance when playing a [\#Beatmap](#Beatmap "wikilink"). It accompanies the total score at the [Result Screen](Result_Screen "wikilink") and appears in all lists where scores appear. From lowest to highest, the possible **grades** are D, C, B, A, S, Silver S, SS, and Silver S.
@@ -466,7 +456,6 @@ In order to achieve an S, one should not [\#Miss](#Miss "wikilink") when playing
 
 ### Great
 
-  
 *Main Article: [Score\#Taiko Scoring Values](Score#Taiko_Scoring_Values "wikilink")*
 
 Taiko-hit300.png|Default skin for *taiko-hit300.png* Taiko-hit300k.png|Default skin for *taiko-hit300k.png* Taiko-hit300g.png|Default skin for *taiko-hit300g.png*
@@ -507,7 +496,7 @@ The default hitsounds can be found here: [Skinning Tutorial](Skinning_Tutorial "
 
 <div id="Drain Rate">
 </div>
-  
+
 *Not to be confused with: [\#Drain Time](#Drain_Time "wikilink")*
 
 **HP Drain Rate**, or "Drain Rate" for short, is a number (from 0 to 10) that determines the constant decrease in the [\#Life Bar](#Life_Bar "wikilink") throughout playing a [\#Beatmap](#Beatmap "wikilink"), except during [\#Breaks](#Break "wikilink"). [\#Beatmappers](#Beatmapper "wikilink") can adjust the drain rate of their beatmaps in the difficulty tab of the [Song Setup](Song_Setup "wikilink") dialog box in the [Editor](Editor "wikilink"). The higher the drain, the more difficult the beatmap is to [\#Pass](#Pass "wikilink"). Drain is the main reason that [\#Combos](#Combo "wikilink") must not be designed too long, in order to provide a good player with [\#Life Bar](#Life_Bar "wikilink") boosts frequently enough to counteract it.
@@ -525,7 +514,6 @@ The **ignore list** is a blacklist of words or users that the user does not want
 
 ### iNiS
 
-  
 *[Wikipedia description](https://en.wikipedia.org/wiki/INiS)*
 
 **iNiS** is a Japanese video game developer that specializes in rhythm games. It is the creator of the three "[\#DS games](#DS_games "wikilink")" on which [\#osu!](#osu! "wikilink") is based on.
@@ -535,7 +523,6 @@ J
 
 ### Jump
 
-  
 *For techniques, see [Jumping Techniques](Jumping_Techniques "wikilink")*
 
 A **jump** is when a [hit circle](hit_circle "wikilink") or [slider](slider "wikilink") that is close to another one of the timeline noticeably farther than [\#Beat spacing](#Beat_spacing "wikilink") would suggest, forcing the player to "jump" from one point of the screen to another to [\#Tap](#Tap "wikilink") it on time. More apparent, in early [\#Beatmaps](#Beatmap "wikilink") and even the first [\#Ouendan](#Ouendan "wikilink") game, **jumps** can make a beatmap more fun and thrilling... though they should be used very rarely and only on harder [difficulty](difficulty "wikilink") versions.
@@ -591,7 +578,6 @@ M
 
 ### MAX
 
-  
 *For [Mania](Mania "wikilink"), not to be confused with: [\#300](#300 "wikilink")*
 
 Mania500.png|Default skin for mania-hit300g.png
@@ -609,7 +595,6 @@ A **marathon** is a type of [\#Beatmap](#Beatmap "wikilink") that can only be [\
 
 ### MAT
 
-  
 *This term is to help preserve the history of the **MAT**s*
 
 The **MAT** team—which is short for the **M**odding **A**ssistance **T**eam—was a group of users experienced in [modding](modding "wikilink"). **MAT** members can mark [\#Beatmap](#Beatmap "wikilink") they approve of with a [bubble](bubble "wikilink"), noting them as worthy of further consideration by the [\#BAT](#BAT "wikilink").
@@ -663,7 +648,6 @@ The **offset** is a period of time between the beginning of a [\#Beatmap](#Beatm
 
 ### osu!coin
 
-  
 *[osu!academy](osu!academy "wikilink") introduces the **osu!coins**: \[//www.youtube.com/watch?v=BImc5McuK1o Introduction to **osu!coins**\]*
 
 *[\#peppy](#peppy "wikilink") announces the **osu!coins**: \[//osu.ppy.sh/news/115118189213 osu!news\]*
@@ -727,7 +711,6 @@ P
 
 ### Play Time
 
-  
 *Not to be confused with: [\#Drain Time](#Drain_Time "wikilink")*
 
 **Play time** is the total duration of a [\#Beatmap](#Beatmap "wikilink"), including the [\#Lead-in](#Lead-in "wikilink") time and the [\#Break](#Break "wikilink") time(s).
@@ -754,7 +737,6 @@ R
 
 ### Rank
 
-  
 *For Ranked beatmaps see [Ranked beatmap](Ranked_beatmap "wikilink").*
 
 i) Another word for a [grade](#Grade "wikilink").

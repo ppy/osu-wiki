@@ -12,7 +12,6 @@ Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay 
 Paano maglaro?
 --------------
 
-  
 *Buong explenation (English): [osu! Standard](PH:Standard "wikilink")*
 
 Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin malaro ng normal na mouse, at ang iba pang input devices na pwede mong maisip. Iba ibang klase ng play style ay matagpuhan sa [Play Styles](PH:Play_Styles "wikilink") na pahina. May mga kanta na tinutulak ang limitation ng normal na mouse (at tsaka ikaw), pero lahat ng (ranked at approved) na beatmaps ay na tested at (ilan lang ang) mapapasado gamit ng mouse lang.
@@ -87,12 +86,10 @@ Mga Issues at Tanong
 
 ### Hindi ko mapagana ang osu! dahil may nakukuha ako na 'Initialization Error'!
 
-  
 Siguraduhin na merong nakainstall na [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22) para mapagana ang osu!.
 
 ### Bakit hindi ko ma access ang listahan ng mga beatmaps?
 
-  
 Kailangan mo munang mag-[register](https://osu.ppy.sh/p/register) sa forums bago ka magka-access sa listahan ng mga beatmaps.
 
 Kung ikaw ay naka register na, pwede ka na ring makapag-download ng beatmaps at makakuha ng mga ranks sa leaderboards!
@@ -101,12 +98,10 @@ Maari ka na ring makipag-chat sa mga ibang tao sa loob ng laro, kaya wala kang n
 
 ### Hindi ko ma laro ang beatmap na download ko!
 
-  
 Maaaring na-corrupt ang beatmap na na-idownload mo o kaya naman hindi nakumpleto and pag-download. Pakibasa ang "Downloads" page kung bakit.
 
 ### May iba bang mali na hindi naka sulat dito?
 
-  
 Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa [Technical Support](https://osu.ppy.sh/forum/5) sa wikang Ingles.
 
 "Bago magpost sa [Technical Support](https://osu.ppy.sh/forum/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
@@ -115,21 +110,18 @@ Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa
 
 ### Gumagana ba ang osu! sa OSX?
 
-  
 May test release para sa OSX na [makikita dito](https://osu.ppy.sh/forum/t/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
 
 Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/forum/t/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
 
 ### Gumagana ba ang osu! sa loob ng Linux?
 
-  
 May mga tao na nagsasabi na pwede mo rin mapagana ang osu! sa loob ng Linux gamit Wine.
 
 Tignan ang [thread na ito](https://osu.ppy.sh/forum/t/14614) para sa mga detalye kung paano gawin.
 
 ### Ang hirap ng mga maps! Saan ako makaka hanapa ng madaling maps?
 
-  
 Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <http://osu.ppy.sh/forum/t/5456>
 
 At tsaka, [ang ranked na beatmap ng osu! tutorial](http://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.

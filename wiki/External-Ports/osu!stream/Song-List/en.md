@@ -1,4 +1,4 @@
-  
+
 ***[Click here to go back to osu!stream](Osu!stream "wikilink")***
 
 Osu!stream SONG.jpg|Song list Os SI.png|Song Information Os store.jpg|Store screen Os Demo load.jpg|Loading Preview Os Song Demo.jpg|Preview Song Information Os Demo play SU.jpg| Preview Stream Up to Expert (Note: Does not occur in actual gameplay) Os Demo play.jpg|Preview of Expert play

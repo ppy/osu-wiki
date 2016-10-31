@@ -5,7 +5,6 @@ Uso
 
 Colocar al inicio del artículo/sección:
 
-  
     {{Update/ES}}
 
 <noinclude></noinclude>

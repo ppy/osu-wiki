@@ -1,4 +1,4 @@
-  
+
 ***[Klik disini untuk kembali ke laman osu!droid](ID:Osu!droid "wikilink")***
 
 (Pilihan mungkin berbeda di tiap perangkat)

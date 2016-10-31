@@ -55,5 +55,4 @@ Clique na imagem do episódio que deseja assistir.
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Episódio 32")   | Novo Sistema de Ranking!                                         |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Episódio 33")   | Dicas Avançadas do Editor!                                       |
 
-
 [Category:History of osu!/PT](Category:History_of_osu!/PT "wikilink")

@@ -1,7 +1,6 @@
 ¿Cómo puedo registrarme?
 ------------------------
 
-  
 Registrarse en osu! es muy fácil. Lo único que tienes que hacer es seguir unos cuantos pasos.
 
 **Nota:** Si no inicias sesión en el juego 24 horas después de haberte registrado, perderás tu cuenta.
@@ -18,11 +17,10 @@ Pasos
 
 | **Leyenda**                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. **Username** - ¡Tu nombre de usuario! ¡Escógelo cuidadosamente! Solo puedes cambiar tu nombre **una vez** si donaste algo a osu! (support).                
-                                                                                                                                                                
-                                                                                                                                                                
- a. 15 caracteres como máximo                                                                                                                                   
-                                                                                                                                                                
+| 1. **Username** - ¡Tu nombre de usuario! ¡Escógelo cuidadosamente! Solo puedes cambiar tu nombre **una vez** si donaste algo a osu! (support).  
+
+ a. 15 caracteres como máximo  
+
  b. Solo están permitidos los caracteres alfanuméricos ("a-z, A-Z, 0-9"), subguiones ("\_"), corchetes, ("\[" and "\]") y guiones ("-").                        |
 | 2. **E-mail Address** - Tu correo será usado si olvidas tu contraseña. ¡No la olvides!                                                                        |
 | 3. **Password** - Escribe una contraseña que solo tú conozcas.                                                                                                |
@@ -33,9 +31,8 @@ Pasos
 
 | **Leyenda**                                                                                               |
 |-----------------------------------------------------------------------------------------------------------|
-| 1. Ícono de osu! - Ejecuta osu!                                                                           
-                                                                                                            
-                                                                                                            
+| 1. Ícono de osu! - Ejecuta osu!  
+
  *Nota: No necesitas ejecutar osu! como administrador, pero aparecerá un mensaje si es necesario.*          |
 | 2. Panel de usuario - Haz clic para iniciar o cerrar sesión en el juego.                                  |
 | 3. Inicio de sesión - Escribe el usuario y contraseña que creaste anteriormente y pulsa *Iniciar sesión*. |

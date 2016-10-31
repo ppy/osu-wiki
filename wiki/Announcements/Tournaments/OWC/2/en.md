@@ -86,7 +86,6 @@ Time zone: GMT+0 (if you don't know your time zone, visit this site [Time and Da
 
 ### Important rule changes
 
-  
 Changes in the rules from [OWC 1](../1/en.md) and this OWC
 
 1.  3 maps won by one of the teams gives them a match win. Not 2 maps like it was in the 1st edition.

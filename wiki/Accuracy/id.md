@@ -59,7 +59,6 @@ Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu perol
 
 ### Grafik Performa
 
-  
 Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informasi tambahan akan muncul jika kamu mengarahkan kursormu ke sana:
 
 ![Grafik Performa](Accuracy_TR.jpg "Grafik Performa")

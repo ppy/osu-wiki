@@ -37,8 +37,6 @@ Kamu juga dapat memilih opsi berikut lewat kotak centang dibawah kotak masukan p
 Proses Modding Beatmap
 ----------------------
 
-  
-  
 *Artikel utama: [Modding](ID:Modding "wikilink").*
 
 Setelah kamu mengirim beatmapmu, itu akan tersedia untuk diunduh oleh anggota forum osu! dan moderator, yang mungkin dapat memberikan komentar dan umpan balik pada beatmapmu (secara umum disebut sebagai *modding* sebuah beatmap). Dalam [konsol obrolan yang diperluas](ID:Chat_Console#Extended_Chat_Console "wikilink"), status dari seseorang yang sedang membuka beatmap orang lain dalam Penyunting akan disetel sebagai *Modding* dan panel mereka akan berubah menjadi warna hijau. Semua diperbolehkan - *dianjurkan*, faktanya untuk memberikan mod pada beatmap, namun hanya modding oleh moderator yang menentukan seberapa dekat sebuah beatmap untuk dapat dirank.
@@ -100,8 +98,6 @@ Walaupun beatmapmu masuk ke dalam Graveyard, kamu dapat memulihkannya kembali de
 Kriteria untuk pemeringkatan
 ----------------------------
 
-  
-  
 *Artikel Utama: [Kriteria Pemeringkatan](ID:Ranking_Criteria "wikilink").*
 
 Sangat sulit untuk menuliskan semua hal yang mungkin dapat menghalangi sebuah beatmap untuk dirank, sebab setiap beatmap memiliki kreasi yang unik. Bagaimanapun, berikut adalah beberapa petunjuk umum yang harus diikuti beatmap dalam rangka agar dapat dirank:

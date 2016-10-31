@@ -55,7 +55,6 @@ Odcinki
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                                 | [Odnośnik](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                                     | [Odnośnik](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
-
 Dyskusje
 ========
 
@@ -74,8 +73,6 @@ Dyskusje
 | #11  | Catch The Beat                               | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Odnośnik](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | osu!idol                                     | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara](//osu.ppy.sh/u/444868)                                                                          | [Odnośnik](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-
-
 Skróty meczów Mistrzostw Świata
 ===============================
 
@@ -89,7 +86,6 @@ Skróty meczów Mistrzostw Świata
 | Półfinały    | deadbeat, FLANKs, Two Fruit Cakes oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=ALMrQ0GUmhY) |
 | Finały       | _Gezo_, deadbeat, Tasha, oraz tiamus         | [Odnośnik](http://www.youtube.com/watch?v=iTOig6vSS28) |
 
-
 ### Mistrzostwa Świata w Catch The Beat 2015
 
 | Typ          | Uczestnicy                 | [Odnośnik]                                             |
@@ -97,7 +93,6 @@ Skróty meczów Mistrzostw Świata
 | Faza 1/16    | Pominięte                  | Brak                                                   |
 | Ćwierćfinały | deadbeat, Tasha oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Półfinały    | deadbeat, Tasha oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=n6X5fZEEpRA) |
-
 
 Odcinki specjalne
 =================
@@ -109,6 +104,5 @@ Odcinki specjalne
 | #3   | Jubileusz osu!talk      | [Charles445](//osu.ppy.sh/u/85000), [deadbeat](//osu.ppy.sh/u/128370), and [ztrot](//osu.ppy.sh/u/6347)                                                                  | [Odnośnik](//www.youtube.com/watch?v=AHU7RgGCB50) |
 | #4   | Welcome back            | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Odnośnik](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Odnośnik](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
-
 
 [Category:History of osu!/PL](Category:History_of_osu!/PL "wikilink")

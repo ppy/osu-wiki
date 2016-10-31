@@ -126,7 +126,6 @@ Os MM.png|Main Menu Osu!stream SONG.jpg|Song list Os store.jpg|Store screem Os D
 Song list
 ---------
 
-  
 ***Go to this [link for a full list](Osu!stream/Song_list "wikilink")***.
 
 Scoring

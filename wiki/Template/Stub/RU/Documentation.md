@@ -5,7 +5,6 @@
 
 Напишите в самом начале статьи:
 
-  
     {{Stub/RU}}
 
 <noinclude></noinclude>

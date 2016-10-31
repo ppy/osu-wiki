@@ -265,7 +265,6 @@ Fase de Grupos (4K)
 | ![](/wiki/shared/flag/Es.gif) España          | 0     - **4** | **Alemania** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/8459866) |
 | ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 2     | Francia ![](/wiki/shared/flag/Fr.gif)            | [#1](//osu.ppy.sh/mp/8459894) |
 
-
 ------------------------------------------------------------------------
 
 Reglamento

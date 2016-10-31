@@ -19,7 +19,6 @@ Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama
 Bagaimana memulai memainkan lagu-lagu kesukaanmu!
 =================================================
 
-  
 *Penjelasan Lengkap: [Beatmaps](ID:Beatmaps "wikilink")*
 
 Langkah 1 - Cari Lagunya!
@@ -73,7 +72,6 @@ Jadi, apa *sih* mode permainan "Solo" itu sebenarnya? Pada dasarnya, mode permai
 Multiplayer
 -----------
 
-  
 *Penjelasan lebih lengkap: [ID:Multi](ID:Multiplayer "wikilink")*
 
 Jika kamu merasa bosan bermain sendiri pada mode *Solo*, kamu dapat bergabung dengan lobi mode multiplayer. Syarat yang diperlukan untuk memasukinya hanyalah memiliki akun osu! yang telah masuk dalam game dengan koneksi Internet yang memadai. Untuk memasukinya, tekan tombol *Multi*. Disana, kamu akan melihat tumpukan ruang,kamu mungkin akan mengunduh beatmap yang telah dipilih olah *host*. Klik pada *Tekan disini untuk mengunduh ini* (seharusnya ada di bagian kanan, di tab berwarna merah), dan *web browser* milikmu akan membuka halaman beatmap yang telah diklik sebelumnya. Hanya dengan menekan tombol *Unduh Beatmap* yang besar (kamu harus login terlebih dahulu) dan buka .osz setelah unduhan selesai! Jangan khawatir jika unduhanmu terlalu lama, banyak host yang masih akan menunggumu menyelesaikan unduhanmu dan mereka akan bertanya berapa persen fiile sudah kamu unduh. Jangan malu dan katakan pada mereka! Jika kamu merasa itu membutuhkan waktu yang cukup lama, kamu dapat berkata kepada mereka untuk bermain tanpamu (Host memiliki hak khusus untuk itu, Paksa Permainan dimulai). Permainan multiplayer cukup berbeda dengan mode *Solo*, dimana kamu tidak diperbolehkan untuk menghentikan sejenak permainan dan mod pada pemain dibatasi daripada Host (Host punya hak penuh dan dapat memberi izin untuk mengaktifkan *Mod Bebas*). Fitur unik yang dimiliki Multiplayer adalah *Tag Co-Op* (atau Team Co-Op untuk jenis tim) dan Tim VS. Selain itu, kamu dapat melihat skor musuh/kawan bersamaan saat kamu bermain, menciptakan atmosfer yang menegangkan yang membuat kamu ingin tetap berada pada puncak.
@@ -91,7 +89,6 @@ Level pemain hanya menunjukkan jumlah skor (ranked ataupun tidak) seorang pemain
 Poin Performa
 -------------
 
-  
 *Penjelasan lebih lengkap: [ID:Performance Points](ID:Performance_Points "wikilink")*
 
 [Performance Points](ID:Performance_Points "wikilink") adalah sebuah poin yang digunakan untuk mengukur tingkat kompetitif seorang pemain. Semakin banyak poin yang kamu dapat, maka rank yang kamu dapat akan menjadi lebih tinggi daripada pemain online lainnya. Terdapat banyak perbedaan dalam kalkulasi saat perhitungan poin seorang pemain, tetapi ingatlah; kamu *mungkin* mendapat pp lebih banyak saat kamu mencapai rank yang tinggi di setiap map yang telah ranked. Dalam beberapa kasus, untuk mencapai titik tertinggi dalam setiap permainan, kamu pasti harus mendapatkan semua kombo dalam sebuah lagu (jangan meninggalkan satupun not) untuk mendapatkan skor tertinggi (dari total kombo). Seorang pemain dengan akurasi 99% yang mendapatkan *satu* not yang terlewat dimana pun tempatnya dapat tertinggal oleh pemain yang mendapat akurasi 80% namun tidak mendapatkan miss satu pun. Penyimpangan skor (contoh: 3.8 mil vs 5.0 mil) akan cukup jelas ketika sebuah lagu tersebut cukup lama (3 ~ 5 menit). Bagaimanapun, kamu mungkin mengaplikasikan beberapa mod penambah kesulitan (seperti [HR](ID:HR "wikilink"),[HD](ID:HD "wikilink")) yang dapat membuatmu mendapat skor yang lebih tinggi!
@@ -99,7 +96,6 @@ Poin Performa
 Akurasi
 -------
 
-  
 *Penjelasan lebih lengkap: [Accuracy](ID:Accuracy "wikilink")* <img src="Accuracy.png" title="fig:Right|Akurasi seorang pemain|alt=Sebuah gambar yang memperlihatkan akurasi pemain setelah menyelesaikan sebuah beatmap." alt="Right|Akurasi seorang pemain|alt=Sebuah gambar yang memperlihatkan akurasi pemain setelah menyelesaikan sebuah beatmap." width="110" />
 
 Pengukuran ini adalah akurasi rata-rata untuk segala skor dari beatmap ranked yang pernah mereka mainkan. Ini dibagi menjadi dua jenis, yaitu total akurasi pemain dan akurasi pp. Di dalam tab game, akurasi yang ditunjukkan adalah akurasi pp. Untuk akurasi total pemain, kamu mungkin harus melihat *Hasil Online* setelah kamu memainkan sebuah beatmap online atau melihat melalui halaman forum akun milikmu. Di dalam osu!, akurasi menunjukkan bukan hanya pengarahanmu, namun *timing* juga masuk dalam penilaian ini, jadi sangat penting untuk menekan tombol benar-benar tepat pada beat-nya. Lebih perhatikanlah lingkaran yang datang!
@@ -107,7 +103,6 @@ Pengukuran ini adalah akurasi rata-rata untuk segala skor dari beatmap ranked ya
 Prestasi
 --------
 
-  
 *Penjelasan lebih lengkap: [Achievements](ID:Achievements "wikilink")*
 
 Prestasi adalah sebuah lencana kecil yang ada pada profil seseorang yang menunjukkan bahwa mereka telah menyelesaikan hasil yang hebat. Lencana prestasi dapat didapatkan melalui dengan berbagai cara seperti bermain lebih banyak atau menekan kombo-kombo tertentu dalam suatu beatmap. Ketika kamu telah memenuhi kriteria yang dibutuhkan, kamu akan menerima lencana tersebut saat *Hasil Online* dan dalam tab prestasi personal pada akunmu. Bagaimanapun, selain itu adalah misi rahasia, Hush-Hush, dimana kriterianya tidak ditunjukkan dan itu terserah kamu untuk mendapatkannya. Mereka cukup susah untuk didapatkan tetapi itu sangat menyenangkan jika kamu dapat mendapatkannya oleh dirimu sendiri.
@@ -117,7 +112,6 @@ Prestasi adalah sebuah lencana kecil yang ada pada profil seseorang yang menunju
 Chat
 ====
 
-  
 *Penjelasan lebih lengkap: [Chat Console](ID:Chat_Console "wikilink")*
 
 Dengan mengetahui dasar pada penggunaan [Chat Console](ID:Chat_Console "wikilink") cukup penting untuk mereka yang tertarik mendapat teman baru dalam lingkungan pertemanan kita. Itu juga penting untuk mengetahui bagaimana cara menggunakannya jika saja seseorang mengirim pesan kepadamu (jarang terjadi kecuali kamu memang cukup dikenal), memberitahumu sebuah tips ataupun bertanya kepada mereka. Terdapat sebuah tombol untuk membuka fungsi ini yang berada di pojok bawah kanan pada layar tetapi ada cara yang lebih cepat yaitu dengan menekan tombol F8 pada keyboardmu. Kamu akan memiliki beberapa tab seperti *\#osu!*, *\#announce*, *\#userlog* atau jika kamu dalam percakapan dengan seseorang, kamu akan melihat nama mereka dalam tab yang terpisah. Menggunakannya melalui tab sangatlah mudah, hanya tekan sebuah tab dan ketikan pesanmu dan tekan *ENTER* untuk mengirim pesan tersebut pada tab terbuka. Bagaimanapun juga, jangan pernah melakukan *spam* (secara berlanjut mengirimkan pesan kecil ke dalam chat) yang secara otomatis akan membisukan akunmu untuk beberapa menit dan semua *kerja-keras*-mu akan terhapus dari chat. Kamu dapat menekan *F9* untuk membuka daftar pemain (disebut Konsol Chat Lanjut) yang terhubung dalam server, dan kamu dapat mem*filter*-nya untuk mencari sesuatu di dalamnya.
@@ -129,7 +123,6 @@ Itu semua adalah dasar, janganlah malu untuk bertanya pada bantuan dalam permain
 Beatmapping (Edit)
 ==================
 
-  
 *Penjelasan lebih lengkap: [Beatmapping](ID:Beatmapping "wikilink")*
 
 osu! menyediakan sebuah kesempatan untuk setiap pemain untuk membuat beatmap kalian sendiri. Jika kamu pikir kamu kreatif dan bergairah untuk mempelajarinya, kamu mungkin memulainya dengan lagu yang kamu miliki. Untuk memulai, klik mode *Edit* dan tarik file lagumu **.mp3** ke dalam editor. Tekan *F5* untuk menyegarkan daftar lagu dan kamu harus mencari map kosong dengan nama lagu tersebut. Bagaimanapun, beatmapping adalah sesuatu yang *sangat* sulit dimana kamu membutuhkan dedikasimu, dan demikian itu tidak akan dijelaskan dalam halaman ini. Jalan terbaik untuk mempelajarinya adalah latihlah dirimu sendiri. Kamu mungkin dapat membaca petunjuk untuk memulai mapping [disini](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=60228). Selain itu, mode *Edit* juga dapat berguna untuk melihat lebih jelas beberapa beatmap yang membuatmu selalu gagal dalam suatu bagian tersebut! Selain itu **hindari meng-edit map yang sudah ranked** karena mereka akan secara otomatis berganti menjadi *tak ranked* (tentu saja pada milikmu saja) dan kamu tidak akan dapat memperoleh pp/akurasi dari itu sampai kamu memperbarui map tersebut kembali.
@@ -145,5 +138,4 @@ Berikut adalah beberapa sumber yang dapat membantumu berpetualang:-
 -   [Hal yang Sering Ditanyakan](http://osu.ppy.sh/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
 -   [osu!academy](ID:Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
 -   [Tips dan Trik untuk Memulai osu!](ID:Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
-
 

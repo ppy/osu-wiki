@@ -43,7 +43,6 @@ osu! World Cup is a country-based 4v4 Team VS tourNazwant following single-elimi
 | [Catch the Beat World Cup 2014](CWC/2014/pl.md) | 11/04/2014  | 15/06/2014  | ![](/wiki/shared/flag/Kr.gif) Korea Południowa          | ![](/wiki/shared/flag/De.gif) Niemcy                      | ![](/wiki/shared/flag/Se.gif) Szwecja                     |
 | [Catch the Beat World Cup 2015](CWC/2015/pl.md) | 02/04/2015  | 14/06/2015  | ![](/wiki/shared/flag/Kr.gif) Korea Południowa          | ![](/wiki/shared/flag/Cn.gif) Chiny                       | ![](/wiki/shared/flag/De.gif) Niemcy                      |
 
-
 ![](/wiki/shared/Mania.gif) osu!mania World Cup
 --------------------------------------------------
 

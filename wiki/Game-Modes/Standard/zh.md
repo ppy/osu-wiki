@@ -225,7 +225,6 @@
 哪里能找到谱面？
 ----------------
 
-  
 *关于谱面的详细解释位于条目 [Beatmaps中](ZH:Beatmaps "wikilink")。*
 
 你可以在主页上的 "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)" 中进行搜索。

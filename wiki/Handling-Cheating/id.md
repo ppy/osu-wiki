@@ -81,4 +81,3 @@ Catatan: *Isi surel harus berbahasa Inggris.*
 
 Kamu cukup mengikuti peraturan yang tertulis di sini: <ID:Rules>
 
-

@@ -57,5 +57,4 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Odcinek 32")   | W tym odcinku, powiemy o nowym systemie rankingowym                                                              |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Odcinek 33")   | W tym odcinku, zajmiemy się zaawansowanymi wskazówkami do edytora                                                |
 
-
 [Category:History of osu!/PL](Category:History_of_osu!/PL "wikilink")

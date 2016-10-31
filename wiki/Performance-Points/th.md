@@ -1,6 +1,5 @@
 <img src="Performancepoints.png" title="ภาพ infographic แสดงการคำนวณหาค่า pp" alt="ภาพ infographic แสดงการคำนวณหาค่า pp" width="300" />
 
-  
 *This article was translated from [Performance Points](Performance_Points "wikilink")*
 
 Performance Points (pp) เป็นค่าใช้จัดอันดับผู้เล่น ถูกออกแบบมาเพื่อให้เหมาะสมกับเกมที่มีการเล่นเป็นเวลานานๆ อย่าง osu! เพื่อให้การจัดอันดับขึ้นอยู่กับฝีมือจริงๆ ของผู้เล่นมากกว่าระยะเวลาในการเล่นของแต่ละคน

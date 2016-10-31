@@ -397,7 +397,7 @@ Group Stage
 | ![](/wiki/shared/flag/Pl.gif) Poland | 2 - **4** | **Canada** | ![](/wiki/shared/flag/Ca.gif) | [#1](//osu.ppy.sh/mp/23543708) |
 | ![](/wiki/shared/flag/Br.gif) Brazil | 0 - **4** | **United States** | ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/23545079) |
 | ![](/wiki/shared/flag/It.gif) Italy | 1 - **4** | **Poland** | ![](/wiki/shared/flag/Pl.gif) | [#1](//osu.ppy.sh/mp/23545089) |
- 
+
 ------------------------------------------------------------------------
 
 Ruleset

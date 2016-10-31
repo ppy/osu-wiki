@@ -15,7 +15,6 @@ The \*.osz package is actually a \*.zip file, and will compress your beatmap, al
 Video
 -----
 
-  
 Recommended reading: [Encoding Video](Encoding_Video "wikilink").
 
 Videos are usually where people go wrong. There are thousands of video codecs out there, and *believe it or not, YouTube is usually a terrible place to get videos*. For the best quality, you should always downsize from a high resolution source (720p YouTube videos are fine for this).

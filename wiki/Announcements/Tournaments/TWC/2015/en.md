@@ -347,7 +347,6 @@ Finals - Week 1
 | ![](/wiki/shared/flag/Jp.gif) Japan       | **6** - 2 | France ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/15210189) |
 | ![](/wiki/shared/flag/Fr.gif) France      | 1 - **6** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)    | [#1](//osu.ppy.sh/mp/15239715) |
 
-
 **Sunday, 5\. April 2015**
 
 | Team A                                    | Score     | Team B                                   | History                        |

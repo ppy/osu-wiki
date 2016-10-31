@@ -20,7 +20,6 @@ Ang mga articles na makikita dito ay ang mga direktang natranslate sa wiki Ingle
 
 Mag contribute kayo kung gusto niyo din. -- [dkun](User:Dkun "wikilink") 16:31, 6 December 2011 (WST)
 
-  
 Contributing... -- [Nathanael](User:Nathanael "wikilink") ([talk](User_talk:Nathanael "wikilink")) 13:47, 22 October 2013 (UTC)
 
 <Category:Tagalog>

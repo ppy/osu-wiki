@@ -6,7 +6,6 @@
 
 :\* When they are re-added, it will no longer be a hassle like asking them again for information.
 
-  
 — [Nathanael](User:Nathanael "wikilink") ([talk](User_Talk:Nathanael "wikilink")) 06:56, 22 April 2014 (UTC)
 
 </noinclude>

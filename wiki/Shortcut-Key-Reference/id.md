@@ -165,4 +165,3 @@ Mode Penyunting
 -   **Alt + Roda Mouse**: Menambah/Mengurangi jarak konstan not. Memperbesar/Memperkecil tampilan timeline ketika di dalam timeline.
 -   **Menyeret**: Memindahkan not yang dipilih (posisi atau waktu), memindahkan titik di dalam sebuah slider. Menyeret akhir dari slider atau spinner di timeline untuk memperpanjang.
 
-

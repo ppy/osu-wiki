@@ -1,4 +1,4 @@
-  
+
 ***[Click here to go back to Game Modifiers](KO:Game_Modifiers "wikilink")***
 
 Summary

@@ -1,4 +1,4 @@
-  
+
 *'*Also checkout: *'[Basic MP3 Modifications](Basic_MP3_Modifications "wikilink")*
 
 [osu!academy](osu!academy "wikilink") covered this in [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk). It also contains how to install and use Audacity with LAME's .mp3 export ability.

@@ -55,7 +55,6 @@ Onglet en relation avec le cœur des paramètres de la beatmap. Chaque paramètr
 
 ### HP Drain Rate (Drain de vie)
 
-  
 Aussi connu en tant que "**HP**" lors de la sélection d'une beatmap.
 
 La vitesse à laquelle la vie diminue, qui est toujours constante sauf pendant une pause. Plus de vie est perdue avec des miss. La vie peut être récupérée en obtenant des [valeurs de points](FR:Score#Valeurs_des_scores_en_osu.21_Standard "wikilink") et en tournant des spinners. Plus de vie est récupérée en obtenant [des Geki et des Katu](FR:Score#Valeurs_des_scores_en_osu.21_Standard "wikilink") à la fin d'un combo.
@@ -64,7 +63,6 @@ La vitesse à laquelle la vie diminue, qui est toujours constante sauf pendant u
 
 <img src="Circle sizes.png" title="fig:Aperçu des différentes tailles de cercle" alt="Aperçu des différentes tailles de cercle" width="250" /> <img src="ARTable.png" title="fig:Graphique d&#39;AR détaillé (cliquez pour une version plus large)" alt="Graphique d&#39;AR détaillé (cliquez pour une version plus large)" width="250" />
 
-  
 Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
 Ceci détermine la taille des cercles et des sliders. La valeur varie entre 2 et 7 avec les plus petites valeurs donnant des plus grosses tailles. Les petits cercles rendent la map difficile en exigeant le joueur à être plus précis.
@@ -75,7 +73,6 @@ Il est possible en éditant manuellement le fichier [.osu](FR:Osu_(file_format) 
 
 #### Key Count (Nombre de touches; osu!mania seulement)
 
-  
 Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
 Cela détermine le nombres de touches pour la difficulté. La valeur varie entre 1 et 9 avec le nombre choisi signifiant le nombre de touches xK utilisées pour la difficulté.
@@ -84,7 +81,6 @@ Cliquer sur la case "Co-op mode" double le nombre actuel de touches (à partir d
 
 ### Approach Rate (Vitesse d'approche)
 
-  
 Aussi connu en tant que "**AR**" lors de la sélection d'une beatmap.
 
 #### Général
@@ -106,7 +102,6 @@ Quatre mods peuvent altérer l'AR quand actifs :
 
 ### Overall Difficulty (Difficulté Générale)
 
-  
 Aussi connu en tant que "**OD**" lors de la sélection d'une beatmap.
 
 #### Général

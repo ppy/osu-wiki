@@ -55,7 +55,6 @@ Episodi
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                       | [Link](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                           | [Link](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
-
 Discussions
 ===========
 
@@ -74,7 +73,6 @@ Discussions
 | #11  | Catch the Beat Discussion                  | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Link](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | osu!idol Discussion                        | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara](//osu.ppy.sh/u/444868)                                                                          | [Link](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-
 World Cup Recaps
 ================
 
@@ -88,7 +86,6 @@ World Cup Recaps
 | Semi Finals    | deadbeat, FLANKs, Two Fruit Cakes et ztrot | [Lien](http://www.youtube.com/watch?v=ALMrQ0GUmhY) |
 | Finals         | _Gezo_, deadbeat, Tasha, et tiamus         | [Lien](http://www.youtube.com/watch?v=iTOig6vSS28) |
 
-
 ### Catch the Beat World Cup 2015
 
 | Type           | Interviste               | [Lien]                                             |
@@ -96,7 +93,6 @@ World Cup Recaps
 | Round of 16    | Skipped                  | N/A                                                |
 | Quarter Finals | deadbeat, Tasha et ztrot | [Lien](http://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals    | deadbeat, Tasha et ztrot | [Lien](http://www.youtube.com/watch?v=n6X5fZEEpRA) |
-
 
 Specials
 ========
