@@ -142,7 +142,7 @@ Please keep in mind that each time you will want to launch/install osu! or confi
     - Directory will vary **if you did modify it in Advanced Option. You need to put in that directory you set instead.**
 - Plug off your device and launch osu!droid
 
-#### T-Aiko [Taiko] (unofficial, created by Guy-kun)
+#### T-Aiko [Taiko]  (unofficial, created by Guy-kun)
 
 ##### How to install (Phone way)
 > [Original Post](http://osu.ppy.sh/forum/t/58640)

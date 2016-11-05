@@ -135,7 +135,7 @@ Pamiętaj, że za każdym razem, jeśli będziesz chciał uruchomić/zainstalowa
     - Lokacja będzie inna **jeżeli zmodyfikowałeś ją w zaawansowanych opcjach. Musisz wtedy przenieść pliki tam, gdzie ustawiłeś lokację.**
 - Odłącz swoje urządzenie i uruchom osu!droida.
 
-#### T-Aiko [Taiko] (nieoficjalne, stworzone przez Guy-kun)
+#### T-Aiko [Taiko]  (nieoficjalne, stworzone przez Guy-kun)
 
 ##### Jak zainstalować
 > [Oryginalny post](http://osu.ppy.sh/forum/t/58640)

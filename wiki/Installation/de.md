@@ -135,7 +135,7 @@ Android Geräte
     - Pfad ändert sich bei anderen Eintsellungen in Advanced Option. Dann ins festgelegte Ordner rein.
 - Die Verbindung trennen und osu!droid starten
 
-#### T-Aiko [Taiko] (inoffiziell, von Guy-kun)
+#### T-Aiko [Taiko]  (inoffiziell, von Guy-kun)
 
 ##### Installation über das Smartphone
 >[Originaler Eintrag](http://osu.ppy.sh/forum/t/58640)
