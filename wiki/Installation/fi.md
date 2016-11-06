@@ -1,3 +1,6 @@
+Installation - Finnish
+======================
+
 Tässä on suurin osa yleisistä ongelmista kun yrittää käynnistää osu!:a.
 
 Ongelmat
