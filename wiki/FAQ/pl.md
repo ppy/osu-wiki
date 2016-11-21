@@ -5,15 +5,13 @@ Wprowadzenie
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera. Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek. Na Nintendo DS sama gra wygląda następująco:
 
-![](Ouendan.jpg "Ouendan.jpg")
+![Ouendan](http://w.ppy.sh/b/b5/Ouendan.jpg)
 
 Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia. Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem. Właśnie to jest moment, gdzie Ouendan (drużyna pocieszająca) wkracza do gry. Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
 
 Jak w to się gra?
 -----------------
 
-  
-*Pełny artykuł: [osu!standard](PL:Standard "wikilink")*
 
 Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](PL:Play_Styles "wikilink"). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
@@ -37,7 +35,7 @@ Jakie są więc rodzaje obiektów?
 
 #### Kółka
 
-![](Hitcircles.jpg "Hitcircles.jpg")
+![Kołka](http://w.ppy.sh/e/eb/Hitcircles.jpg)
 
 -   Tutaj można zobaczyć kółka (circles), które należy kliknąć.
     -   Mniejszy, kolorowy okrąg na zewnątrz kurczy się i należy wcisnąć koło dokładnie wtedy, kiedy zewnętrzny okrąg nałoży się na białą obwódkę.
@@ -45,46 +43,46 @@ Jakie są więc rodzaje obiektów?
 
 #### Slidery
 
-![](Slider.jpg "Slider.jpg")
+![Slidery](http://w.ppy.sh/7/7f/Slider.jpg)
 
--   To jest slider.
-    -   Po pierwsze, należy kliknąć na kółko w odpowiednim momencie. Ale to nie koniec.
-    -   Piłka zacznie się poruszać po wyznaczonej i widocznej trasie.
-    -   Musisz trzymać przycisk myszy/klawisz na klawiaturze (lub swój palec/pen na tablecie) i utrzymywać swój kursor w obrębie dużego, pomarańczowego okręgu otaczającego piłkę podczas kiedy ta się porusza.
-        -   Nie możesz kontrolować ruchu piłki, musisz tylko za nią podążać.
-        -   Pomarańczowe kółko pojawi się, jeśli będziesz podążać za piłką, i zniknie, gdy ją zgubisz.
-    -   Czasami, jak widzisz na screenshocie wyżej, musisz wrócić z powrotem, gdy dotrzesz to końca ścieżki.
-    -   Dzieje się, tak jeśli na końcu ścieżki widzisz strzałkę.
+*   To jest slider.
+    *   Po pierwsze, należy kliknąć na kółko w odpowiednim momencie. Ale to nie koniec.
+    *   Piłka zacznie się poruszać po wyznaczonej i widocznej trasie.
+    *   Musisz trzymać przycisk myszy/klawisz na klawiaturze (lub swój palec/pen na tablecie) i utrzymywać swój kursor w obrębie dużego, pomarańczowego okręgu otaczającego piłkę podczas kiedy ta się porusza.
+        *   Nie możesz kontrolować ruchu piłki, musisz tylko za nią podążać.
+        *   Pomarańczowe kółko pojawi się, jeśli będziesz podążać za piłką, i zniknie, gdy ją zgubisz.
+    *   Czasami, jak widzisz na screenshocie wyżej, musisz wrócić z powrotem, gdy dotrzesz to końca ścieżki.
+    *   Dzieje się, tak jeśli na końcu ścieżki widzisz strzałkę.
 
 #### Spinnery
 
-![](Spinner.jpg "Spinner.jpg")
+![Spinner](http://w.ppy.sh/a/ad/Spinner.jpg)
 
--   To jest spinner.
-    -   Musisz kliknąć i przytrzymać przycisk na myszce lub klawiaturze, a następnie kręcić kółka (zgodnie z ruchem wskazówek zegara lub odwrotnie).
-        -   Paski na zewnątrz pokazują, jak blisko jesteś zaliczenia spinnera.
-        -   Mały pasek poniżej spinnera pokazuje kręcenia na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
-        -   Jeżeli nie przytrzymasz żadnego przycisku kręcąc, spinner nie zostanie zaliczony.
--   Na konsoli Nintendo DS, spinnery pozwalają na szybkie porysowanie ekranu dotykowego, szczególnie na wyższych poziomach trudności.
--   W osu! spinnery zostały zrobione tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
-    -   Maksymalna liczba kręceń na minutę wynosi 477, i z taką prędkością kręci mod Auto. W przypadku moda Spun Out ta prędkość zmniejsza się do 287 kręceń na minutę.
-    -   Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
--   \[Myszka\] Jeżeli twój kursor nie kręci się prawidłowo, mimo że kręcisz myszką bardzo szybko, to albo się pogódź z limitami sprzętu, albo kup nową myszkę/ podkładkę pod nią.
+*   To jest spinner.
+    *   Musisz kliknąć i przytrzymać przycisk na myszce lub klawiaturze, a następnie kręcić kółka (zgodnie z ruchem wskazówek zegara lub odwrotnie).
+        *   Paski na zewnątrz pokazują, jak blisko jesteś zaliczenia spinnera.
+        *   Mały pasek poniżej spinnera pokazuje kręcenia na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
+        *   Jeżeli nie przytrzymasz żadnego przycisku kręcąc, spinner nie zostanie zaliczony.
+*   Na konsoli Nintendo DS, spinnery pozwalają na szybkie porysowanie ekranu dotykowego, szczególnie na wyższych poziomach trudności.
+*   W osu! spinnery zostały zrobione tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
+    *   Maksymalna liczba kręceń na minutę wynosi 477, i z taką prędkością kręci mod Auto. W przypadku moda Spun Out ta prędkość zmniejsza się do 287 kręceń na minutę.
+    *   Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
+*   \[Myszka\] Jeżeli twój kursor nie kręci się prawidłowo, mimo że kręcisz myszką bardzo szybko, to albo się pogódź z limitami sprzętu, albo kup nową myszkę/ podkładkę pod nią.
 
 ### Interfejs (rozgrywka)
 
-![](Hierophobicintro.jpg "Hierophobicintro.jpg")
+![Interfejs](http://w.ppy.sh/f/fd/Hierophobicintro.jpg)
 
 To jest interfejs osu!.
 
--   Pasek w górnym prawym rogu to twoje „życie” (HP).
-    -   Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę (twórców) mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
-    -   Perfekcyjnie wciśnięty obiekt (z wynikiem 300 lub Geki) zwiększy twoje HP bardziej niż źle wciśnięty (z wynikiem 50).
-    -   Miss zabierze ci całkiem spory kawałek HP.
--   Obok paska życia (po prawej) znajduje się twoja liczba punktów.
--   Poniżej punktów jest twój wynik w procentach.
--   Kółko obok procentów i poniżej punktów to timer, który pokazuje długość piosenki.
--   Liczba w lewym dolnym rogu to twoje combo.
+*   Pasek w górnym prawym rogu to twoje „życie” (HP).
+    *   Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę (twórców) mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
+    *   Perfekcyjnie wciśnięty obiekt (z wynikiem 300 lub Geki) zwiększy twoje HP bardziej niż źle wciśnięty (z wynikiem 50).
+    *   Miss zabierze ci całkiem spory kawałek HP.
+*   Obok paska życia (po prawej) znajduje się twoja liczba punktów.
+*   Poniżej punktów jest twój wynik w procentach.
+*   Kółko obok procentów i poniżej punktów to timer, który pokazuje długość piosenki.
+*   Liczba w lewym dolnym rogu to twoje combo.
 
 Inne tryby gry
 ==============
@@ -92,10 +90,9 @@ Inne tryby gry
 Czym jest „Taiko”?
 ------------------
 
-  
-*Pełny artykuł: [Taiko](PL:Taiko "wikilink")*
 
-[200px|thumb|right|Rozgrywka w trybie Taiko.](image:taiko.jpg "wikilink") Dla niezaznajomionych, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
+
+![Rozrywka w trybie Taiko](https://osu.ppy.sh/wiki/File:Taiko.jpg) Dla niezaznajomionych, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
 
 Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
@@ -133,9 +130,9 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
-`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
-`W trakcie gry umiejscowienie kursora nie jest ważne.`
+* Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
+* Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
+* W trakcie gry umiejscowienie kursora nie jest ważne.`
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
 
