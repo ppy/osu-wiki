@@ -1,4 +1,4 @@
-  
+
 Use essentially the same technique for any sliders symmetrical in one axis
 
 ![](MGS_01.png "MGS_01.png")

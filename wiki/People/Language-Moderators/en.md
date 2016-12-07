@@ -35,5 +35,4 @@ List of (current) language-specific moderators
 | #turkish | [Türkçe](https://osu.ppy.sh/forum/93) | [Nishiji](https://osu.ppy.sh/u/167629) |
 | #vietnamese | | |
 
-
 <Category:People>

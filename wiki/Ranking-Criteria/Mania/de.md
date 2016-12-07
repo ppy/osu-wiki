@@ -29,7 +29,6 @@ Allgemeines
 -   **Es ist nicht erlaubt eine Column leer zu lassen**.
 -   **Es ist nicht erlaubt mehr als 6 Tasten gleichzeitig auf einem Timing zu platzieren.**
 
-  
 Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erkennen. Diese Regel wurde erstellt um den Spielspaß aller sicherzustellen *Das Ende eines Hold's ist davon nicht betroffen denn sie werden losgelassen, nicht gedrückt*
 
 -   **Es ist nicht erlaubt zwei Noten auf der gleichen Column auf dem selben Timing zu platzieren. Es muss immer ein Abstand zur nächsten Note auf der gleichen Column bestehen.**
@@ -54,7 +53,6 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 -   Die **Life Drain** rate sollte mindestens bei **7** oder höher liegen um die gleiche HP wie bei IIDX zu erreichen.
 -   **Overall Difficulty** sollte wie folgt aussehen:
 
-  
 **9-10** bei Benutzung vieler einfachen Noten mit wenig Holds.
 
 **7-8** bei einem guten Mix aus einfachen Noten und Holds.

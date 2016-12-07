@@ -13,7 +13,6 @@ Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawi
 Jak w to się gra?
 -----------------
 
-  
 *Pełny artykuł: [osu!standard](PL:Standard "wikilink")*
 
 Z racji że większość użytkowników komputera nie ma żadnego ekranu dotykowego do dyspozycji, do gry można używać normalnej myszki komputerowej czy innych urządzeń (tablet graficzny, gamepad). Różne style gry są wymienione w [tym artykule](PL:Play_Styles "wikilink"). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ranked i approved) zostały dogłębnie sprawdzone i są do przejścia na myszce.
@@ -39,7 +38,6 @@ Let's learn about what the hit-able objects are, shall we?
 
 #### Kółka
 
-  
 *Pełny artykuł: [Obiekty](PL:Hit_Objects "wikilink")*
 
 <img src="Hitcircles.jpg" title="Hitcircles.jpg" alt="Hitcircles.jpg" width="400" height="300" />
@@ -50,7 +48,6 @@ Let's learn about what the hit-able objects are, shall we?
 
 #### Slidery
 
-  
 *Pełny artykuł: [Obiekty](PL:Hit_Objects "wikilink")*
 
 <img src="Slider.jpg" title="Slider.jpg" alt="Slider.jpg" width="400" height="300" />
@@ -66,7 +63,6 @@ Let's learn about what the hit-able objects are, shall we?
 
 #### Spinnery
 
-  
 *Pełny artykuł: [Obiekty](PL:Hit_Objects "wikilink")*
 
 <img src="Spinner.jpg" title="Spinner.jpg" alt="Spinner.jpg" width="400" height="300" />
@@ -105,7 +101,6 @@ Inne tryby gry
 Czym jest „Taiko”?
 ------------------
 
-  
 *Pełny artykuł: [Taiko](PL:Taiko "wikilink")*
 
 [200px|thumb|right|Rozgrywka w trybie Taiko](image:taiko.jpg "wikilink") [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
@@ -157,7 +152,6 @@ Czym jest „Catch the Beat”?
 
 [200px|thumb|right|Catch the Beat gameplay.](image:ctbaqua.jpg "wikilink")
 
-  
 *Full explanation: [Catch the Beat](Catch_the_Beat "wikilink")*
 
 Catch the Beat is the second special game mode to be added in, after Taiko game mode.
@@ -165,7 +159,6 @@ Instead of clicking circles, you are now tasked to move the catcher at the botto
 
 ### Sterowanie łapaczem
 
-  
 If the [Relax](Relax "wikilink") mod is used, control of the catcher is done by moving the mouse instead.
 
 -   By default, the left \[&lt;-\] and right \[-&gt;\] arrow keys are used to move the catcher.
@@ -176,7 +169,6 @@ Czym jest „osu!mania”?
 
 ![ thumb | 200px | osu!mania (7K) gameplay.]( Mania screenshot.jpg  " thumb | 200px | osu!mania (7K) gameplay.")
 
-  
 *Full explanation: [osu!mania](Osu!mania "wikilink")*
 
 osu!mania is the third special game mode to be added in, after Taiko and CtB game mode.
@@ -279,7 +271,6 @@ Styl przypisania **Lewo-Prawo** (w stylu Beatmanii IIDX)
 Zdobywanie punktów
 ==================
 
-  
 *Detailed explanation of scoring can be found at the game style's own respective page or [the "Score" page](Score "wikilink").*
 
 Oceny
@@ -344,7 +335,6 @@ Oceny
 Performance Points
 ------------------
 
-  
 *Pełny artykuł: [Performance Points](PL:Performance_Points "wikilink")*
 
 Performance Points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points are heavily based on map difficulty which is determined by a unique algorithm in every gamemode. Based on this difficulty alone each of your scores is rated and assigned a pp value. Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your scores on difficult songs. Do note that game modes are counted separately \[which means, playing (osu!/Taiko/CtB/osu!mania) raises (osu!/Taiko/CtB/osu!mania) pp\].
@@ -360,7 +350,6 @@ Główne
 
 ### Gdzie mogę znaleźć i pobrać beatmapy?
 
-  
 *Detailed explanation of the beatmaps: [Beatmaps](Beatmaps "wikilink")*
 
 You can find it from the main page under the name "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
@@ -454,12 +443,10 @@ Mapowanie
 
 ### "Beatmapa którą chcesz wysłać nie należy do ciebie"
 
-  
 *For unranked beatmaps only.*
 
 Please follow these steps:
 
-  
 1. Leave the editor (or close osu!) to make sure the changes apply properly
 
 2. Check the name of the beatmap's folder

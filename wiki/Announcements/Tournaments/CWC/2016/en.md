@@ -117,7 +117,6 @@ Participants
 | ![](/wiki/shared/flag/Se.gif) | Sweden  | **[Setomi](//osu.ppy.sh/u/2205929)**, [Yukiteru Amano](//osu.ppy.sh/u/1894511), [DamnEasy](//osu.ppy.sh/u/4452911), [27845913](//osu.ppy.sh/u/4312036), [Negri_sk](//osu.ppy.sh/u/2231396), [Toggeni](//osu.ppy.sh/u/3555166)       |
 | ![](/wiki/shared/flag/Cn.gif) | China   | **[Dusk](//osu.ppy.sh/u/533210)**, [Intensity](//osu.ppy.sh/u/3072921), [- N a g i -](//osu.ppy.sh/u/2956936), [Sakurano Kurimu](//osu.ppy.sh/u/1338103), [Crystal](//osu.ppy.sh/u/1646397), [KagamineRin02](//osu.ppy.sh/u/518503) |
 
-
 ------------------------------------------------------------------------
 
 Mappools
@@ -370,7 +369,7 @@ Semifinals
 | ![](/wiki/shared/flag/De.gif) **Germany**     | **6**  - 4     | United States ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/25537230) |
 
 ** Sunday, 12\. June 2016**
- 
+
 | Team A                                         | Score          | Team B                                   | History                        |
 |:-----------------------------------------------|:--------------:|-----------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Kr.gif) **South Korea** | **6**  - 1     | Singapore ![](/wiki/shared/flag/Sg.gif) | [#1](//osu.ppy.sh/mp/25559066) |

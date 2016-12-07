@@ -70,7 +70,6 @@ Semua rotasi dan perubahan ukuran (termasuk perubahan ukuran terpisah) yang terp
 
 **filepath**: arah relatif terhadap file gambar (harus sefolder dalam .osu)
 
-
 Aturan Khusus jika tidak berada satu folder, gunakan "..\" untuk menaikkan 1 level terhadap direktori lagu.
 
 *Note: file path* ***must*** *be in double quotes if it has spaces in the filename*

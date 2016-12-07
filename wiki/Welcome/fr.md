@@ -20,7 +20,6 @@ Avec le temps et l'expérience, vous apprendrez à jouer des beatmaps plus diffi
 Commencer à jouer
 =================
 
-  
 *Plus d'informations : [Beatmaps](FR:Beatmaps "wikilink")*
 
 Chercher une beatmap
@@ -78,7 +77,6 @@ Il s'agit du mode 1-joueur d'osu!. Vous pouvez jouer à n'importe quelle beatmap
 Multijoueur
 -----------
 
-  
 *Informations complémentaires : [Multijoueur](FR:Multiplayer "wikilink")*
 
 Une fois avoir acquis les bases du jeu, vous pouvez tenter de rejoindre un salon multijoueur.
@@ -110,7 +108,6 @@ Il n'y a pas de limite de niveau, mais en gagner devient de plus en plus long, s
 Points de performance
 ---------------------
 
-  
 *Plus d'informations : <FR:Performance_Points>*
 
 [Les points de performance](FR:Performance_Points "wikilink") (abrégés **pp**) sont l'unité utilisée pour le classement général du jeu. Son algorithme très complexe dépend de nombreux facteurs et est gardé secret. Lorsque vous réussissez une beatmap *[ranked](FR:Beatmaps#Beatmaps_classées "wikilink")* (classée, approuvée par le staff), vous entrez dans le classement de la beatmap (selon votre score) et vous gagnez des points de performance.
@@ -122,7 +119,6 @@ Il est plus facile de gagner des pp lorsque vous effectuez un **FC** (*Full Comb
 Précision
 ---------
 
-  
 *Plus d'informations : <FR:Accuracy>* <img src="Accuracy.png" title="fig:Right|La précision du joueur|alt=Screenshot représentant la précision du joueur après avoir réussi une beatmap." alt="Right|La précision du joueur|alt=Screenshot représentant la précision du joueur après avoir réussi une beatmap." width="110" />
 
 La précision du joueur varie en fonction de son timing par rapport aux maps qu'il joue. La précision baisse lorsque le joueur obtient [des 100, des 50 ou des erreurs](FR:Standard#Calculs_des_scores "wikilink").
@@ -132,7 +128,6 @@ Chaque joueur possède deux pourcentages de précision ; le premier, public, est
 Succès
 ------
 
-  
 *Plus d'informations : <FR:Achievements>*
 
 Les succès (*achievements* en anglais) sont des badges sur le profil d'un joueur indiquant que ce dernier a accompli un certain objectif.
@@ -144,7 +139,6 @@ Il existe aussi des succès *hush hush* (littéralement "chut chut" en anglais),
 Chat
 ====
 
-  
 *Plus d'informations : [FR:Chat Console](FR:Chat_Console "wikilink")*
 
 Savoir comment le [Chat](FR:Chat_Console "wikilink") fonctionne est primordial afin d'entrer en contact avec la communauté d'osu! ; pour envoyer et recevoir des messages privés, discuter dans les canaux publics ou encore demander à des joueurs de rejoindre votre salle multijoueur dans **\#lobby**.
@@ -160,7 +154,6 @@ Vous pouvez aussi voir la liste des utilisateurs connectés en appuyant sur F9 e
 Beatmapping
 ===========
 
-  
 *Plus d'informations : <FR:Beatmapping>*
 
 osu! offre la possibilité aux joueurs de créer leurs propres beatmaps. Si vous avez l'esprit créatif et que vous souhaiterez apprendre à mapper sur les musiques de votre choix, vous pouvez toujours vous lancer dans le beatmapping.
@@ -182,5 +175,4 @@ Voici quelques liens utiles pour vous aider à débuter :
 -   \[<http://osu.ppy.sh/p/beatmaplist>?= Liste des beatmaps\] - Recherchez ici de nouvelles beatmaps à télécharger.
 -   [FAQ - Questions fréquentes](http://osu.ppy.sh/wiki/FAQ) sur le jeu.
 -   L'[osu!academy](FR:osu!academy "wikilink"), gérée par ztrot, qui présente osu! dans tous ses aspects. (en anglais)
-
 

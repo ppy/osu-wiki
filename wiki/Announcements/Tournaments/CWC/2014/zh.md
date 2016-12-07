@@ -17,7 +17,6 @@
 | 半决赛（4强）   | 2014年5月31日-6月1日    |
 | 决赛/三四名    | 2014年6月7日-8日       |
 
-
 奖励
 ====
 
@@ -157,7 +156,6 @@
 | [Akiakane - FlashBack (Kiiwa) \[Insane\]](//osu.ppy.sh/b/166126&m=2)                      |
 | [Caravan Palace - Dragons (Charles445) \[Insane\]](//osu.ppy.sh/b/145361&m=2)             |
 | [paraoka - boot (rickyboi) \[Shoe\]](//osu.ppy.sh/b/154226&m=2)                           |
-
 
 | DoubleTime                                                                                    |
 |-----------------------------------------------------------------------------------------------|

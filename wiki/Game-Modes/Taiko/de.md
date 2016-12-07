@@ -1,7 +1,7 @@
 |                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="taiko.jpg" title="Taiko Gameplay." alt="Taiko Gameplay." width="200" />                                                                                                                          
-                                                                                                                                                                                                             
+| <img src="taiko.jpg" title="Taiko Gameplay." alt="Taiko Gameplay." width="200" />  
+
  **Taiko** ist ein spezieller Spielmodus in osu!, der fast alle seiner Elemente von dem japanischem Rhythmusspiel Taiko no Tatsujin (in Nordamerika unter dem Namen Taiko: Drum Master veröffentlicht) hat.  |
 
 Gameplay

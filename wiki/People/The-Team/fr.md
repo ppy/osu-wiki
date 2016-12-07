@@ -6,7 +6,6 @@ Fondateur
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | Création d'osu! sur PC |
 
-
 Membres actifs
 ----------------------
 
@@ -22,7 +21,6 @@ Membres actifs
 | [yelle](https://osu.ppy.sh/u/4916903) | Gestion du magasin osu! |
 | [ztrot](https://osu.ppy.sh/u/6347) | Professeur de osu!academy, Conception media/personnage |
 | [Zallius](https://osu.ppy.sh/u/55) | Espèce en voie de disparition |
-
 
 Inactifs
 ----------------------
@@ -42,7 +40,6 @@ Inactifs
 | [Sinistro](https://osu.ppy.sh/u/5530) | Meeting minutes, Importantes contributions à la FAQ |
 | [woc2006](https://osu.ppy.sh/u/1105845) | Développeur d'osu!, Développaur d'osu!mania |
 
-
 User Groups
 ----------------------
 
@@ -56,6 +53,5 @@ User Groups
 | [osu!news](http://osu.ppy.sh/g/25) | Vous donne à lire du contenu de qualité depuis 2013. |
 | [Gérants des tournois](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Équipe de Certification de Qualité des Beatmaps](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | On vous aide à vous amuser sur osu!, en commencant par assurer la qualité des Beatmaps. |
-
 
 <Category:People>

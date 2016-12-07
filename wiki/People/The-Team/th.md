@@ -6,7 +6,6 @@
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | ผู้นำโครงการ |
 
-
 ใช้งาน
 ----------------------
 
@@ -22,7 +21,6 @@
 | [yelle](https://osu.ppy.sh/u/4916903) | จัดการเกี่ยวกับ osu!store |
 | [ztrot](https://osu.ppy.sh/u/6347) | ผู้ฝึกสอนที่ osu!academy, ออกแบบสื่อ/ตัวละคร |
 | [Zallius](https://osu.ppy.sh/u/55) | บุคคลหายาก |
-
 
 ไม่ได้ใช้งาน
 ----------------------
@@ -42,7 +40,6 @@
 | [Sinistro](https://osu.ppy.sh/u/5530) | รายงานการประชุม, มีส่วนร่วมใน FAQ |
 | [woc2006](https://osu.ppy.sh/u/1105845) | ทีม osu! dev, พัฒนาโหมด osu!mania |
 
-
 กลุ่มของผู้ใช้งาน
 ----------------------
 
@@ -56,6 +53,5 @@
 | [osu!news](http://osu.ppy.sh/g/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | ช่วยแมพของคุณให้มีคุณภาพที่ดีขึ้น |
-
 
 <Category:People>

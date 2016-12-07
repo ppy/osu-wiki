@@ -22,7 +22,6 @@ osu!-specific file format
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr](ID:Osr_(file_format) "wikilink")        | replay file (tidak bisa decompress).                                                                      |
 
-
 ![.osk/.osz file icon](Osu!sys os.png) Membuat file .osz/.osk
 ==========================================================================================================================
 
@@ -39,15 +38,15 @@ Dari archiver
 **Langkah - Langkah**
 
 1.  Jadikan file ke dalam folder (.mp3, .flv, .osu, SB, etc. masukan ke dalam folder). lalu ubahlah nama folder tersebut.
-      
+
     example, foldernya akan diberi nama "DECO27 - Streaming Heart".
 
 2.  Klik kanan pada folder lalu pilih Add archive (Add to archive...).
-      
+
     Kamu dapat membuka software archive pertama kali dan memindahkan file/folder ke dalam archive.
 
 3.  Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
-      
+
     DECO27 - Streaming Heart.zip -&gt; DECO27 - Streaming Heart.osz, Archive: ".zip"
 
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
@@ -69,7 +68,7 @@ Membuat file di game
 **Langkah - Langkah**
 
 1.  Seperti yang diatas, Jadikan file-file kamu di dalam satu folder dan ubahlah nama folder tersebut.
-      
+
     Biasanya, kalo kamu membuat/mengedit beatmap, nanti otomatis membuat file .osz. Nah untuk skins, kamu harus melakukan langkah seperti diatas.
 
 2.  Buka osu!.

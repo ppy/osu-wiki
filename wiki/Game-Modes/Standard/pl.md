@@ -209,7 +209,6 @@ Popularne problemy i pytania
 Gdzie mogę znaleźć i ściągnąć beatmapy?
 ---------------------------------------
 
-  
 *Szczegółowa informacja na temat beatmap: [Beatmapy (jak na razie po angielsku)](PL:Beatmaps "wikilink")*
 
 Możesz znaleźć je pod nazwą "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".

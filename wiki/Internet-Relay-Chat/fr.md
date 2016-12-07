@@ -60,8 +60,8 @@ Désactivation des messages de connexion/déconnexion dans les clients les plus 
 
 | Client                                    | Commandes                                                                                                                                                                                                             |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Faites un clic droit sur ​​le canal souhaité, puis cochez la case "Masquer les messages de connexion/déconnexion " dans le sous-menu Paramètres.                                                                   
-                                                                                                                                                                                                                                                                    
+| [HexChat](http://hexchat.github.io/)      | a. Faites un clic droit sur ​​le canal souhaité, puis cochez la case "Masquer les messages de connexion/déconnexion " dans le sous-menu Paramètres.  
+
                                              b. Allez dans Options » Préférences, sous Discussion » Général, cochez la case "Masquer les messages de connexion/déconnexion".                                                                                        |
 | [Irssi](http://www.irssi.org)             | Tapez /ignore -channels \#nomducanal \* JOINS PARTS QUITS                                                                                                                                                             |
 | [KVIrc](http://www.kvirc.net)             | Reportez-vous à [ce lien](http://www.kvirc.ru/forum/?topic=609.0) menant aux forums officiels de KVIrc.                                                                                                               |
@@ -70,5 +70,4 @@ Désactivation des messages de connexion/déconnexion dans les clients les plus 
 | [XChat](http://www.xchat.org)             | Faites un clic droit sur le canal désiré. Dans le menu, décochez "Montrer les messages de connexion et déconnexion".                                                                                                  |
 
 Si votre client ne figure pas ici, consultez la documentation de votre logiciel.
-
 

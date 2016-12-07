@@ -62,13 +62,13 @@ Disabling Join/Part Messages In Common Clients
 
 | Client                                    | Command                                                                                                                                                                                                                                                                  |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Right click on the channel you want to change, under the settings submenu, check "Hide Join/Part Messages"                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                       
+| [HexChat](http://hexchat.github.io/)      | a. Right click on the channel you want to change, under the settings submenu, check "Hide Join/Part Messages"  
+
                                              b. Go to Settings » Preferences, under Chatting » General, check "Hide join and part Messages"                                                                                                                                                                            |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
 | [Irssi](http://www.irssi.org)             | /ignore -channels \#somechannel \* JOINS PARTS QUITS                                                                                                                                                                                                                     |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#somechannel irc\_smart\_filter \*                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                       
+| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#somechannel irc\_smart\_filter \*  
+
                                              **Note:** somename is the name you gave when you added the IRC server to Weechat.                                                                                                                                                                                         |
 | [KVIrc](http://www.kvirc.net)             | Refer to [this thread](http://www.kvirc.ru/forum/?topic=609.0) in the official KVIrc forums.                                                                                                                                                                             |
 | [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
@@ -83,7 +83,6 @@ Frequently Asked Questions (FAQ)
 I am having an error "Bad Authentication Token". What should I do?
 ------------------------------------------------------------------
 
-  
 1. Make sure you are using the password at the [IRC Authentication](https://osu.ppy.sh/p/irc) page.
 
 2. If your username had a space, replace it to underscores (e.g. **This Username** to **This\_Username**)
@@ -91,15 +90,12 @@ I am having an error "Bad Authentication Token". What should I do?
 Can I use another username?
 ---------------------------
 
-  
 No. You can only use the username that you're using ingame.
 
 What is this voice status that I have? I also see some people having it.
 ------------------------------------------------------------------------
 
-  
 Users with voice (prefix +) status are connected using an IRC client (except the chat moderators who have *operator (prefix @)* status).
 
 Users who have no mode are basically who are connected using the game client.
-
 

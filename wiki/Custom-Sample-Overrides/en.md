@@ -59,7 +59,6 @@ Put any of these files in your beatmap or skin's directory and reload in edit/pl
 Related articles
 ----------------
 
-  
 Also check out:
 
 -   [Custom Hitsound Library](Custom_Hitsound_Library "wikilink")

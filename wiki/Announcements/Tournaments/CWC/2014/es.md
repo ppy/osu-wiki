@@ -155,7 +155,6 @@ Finales
 | [Caravan Palace - Dragons (Charles445) \[Insane\]](//osu.ppy.sh/b/145361&m=2)             |
 | [paraoka - boot (rickyboi) \[Shoe\]](//osu.ppy.sh/b/154226&m=2)                           |
 
-
 | DoubleTime                                                                                    |
 |-----------------------------------------------------------------------------------------------|
 | [Zektbach - L'avide (eXseeD) \[gowww\]](//osu.ppy.sh/b/103403&m=2)                            |
@@ -173,7 +172,6 @@ Finales
 | Tiebreaker                                                                      |
 |---------------------------------------------------------------------------------|
 | [t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](//osu.ppy.sh/b/240488&m=2) |
-
 
 Semifinales
 -----------
@@ -281,14 +279,12 @@ Octavos de final
 | [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
 | [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
 
-
 | Hidden                                                                               |
 |--------------------------------------------------------------------------------------|
 | [Maksim Mrvica - Croacian Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
 | [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
 | [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
 | [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
-
 
 | HardRock                                                                         |
 |----------------------------------------------------------------------------------|
@@ -297,7 +293,6 @@ Octavos de final
 | [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
 | [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
 
-
 | DoubleTime                                                                                          |
 |-----------------------------------------------------------------------------------------------------|
 | [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
@@ -305,14 +300,12 @@ Octavos de final
 | [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
 | [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
 
-
 | FreeMod                                                                      |
 |------------------------------------------------------------------------------|
 | [DJ Genericname - Dear You (Rue) \[Dear Rue\]](//osu.ppy.sh/b/136400&m=2)    |
 | [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](//osu.ppy.sh/b/59643&m=2)   |
 | [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
 | [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
-
 
 | Tiebreaker                                                                                        |
 |---------------------------------------------------------------------------------------------------|
@@ -336,13 +329,11 @@ Fase de grupos
 | [Takanashi Yasuharu - Doku Ryuu no Kobura (\_Kiva) \[Extra\]](//osu.ppy.sh/b/128872&m=2)                 |
 | [goreshit - MATZcore (\_LRJ\_) \[Lolicore\]](//osu.ppy.sh/b/83975&m=2)                                   |
 
-
 | Hidden                                                                                 |
 |----------------------------------------------------------------------------------------|
 | [3L - Extend Ash ~ Hourai Victim (Dangaard) \[Extra Stage\]](//osu.ppy.sh/b/36223&m=2) |
 | [Syuiro - Ama no Jaku (Natteke) \[Insane\]](//osu.ppy.sh/b/126677&m=2)                 |
 | [paraoka - Manima ni (Sandpig) \[('(oo)')\]](//osu.ppy.sh/b/135396&m=2)                |
-
 
 | HardRock                                                                                           |
 |----------------------------------------------------------------------------------------------------|
@@ -350,20 +341,17 @@ Fase de grupos
 | [Naoki & Tatsh - Red Zone (HenkieBP) \[Extra\]](//osu.ppy.sh/b/28422&m=2)                          |
 | [Maximum the Hormone - What's up, people?! (TV Size) (Envi) \[Insane\]](//osu.ppy.sh/b/155914&m=2) |
 
-
 | DoubleTime                                                                                   |
 |----------------------------------------------------------------------------------------------|
 | [Billy Talent - Fallen Leaves (MystykAMV) \[Insane\]](//osu.ppy.sh/b/151569&m=2)             |
 | [The Good Natured - Be My Animal (Larto) \[Rukarioman's Extreme\]](//osu.ppy.sh/b/91495&m=2) |
 | [ZUN - Fall of Fall ~ Autumnal Waterfall (dksslqj) \[Lunatic\]](//osu.ppy.sh/b/56542&m=2)    |
 
-
 | FreeMod                                                                             |
 |-------------------------------------------------------------------------------------|
 | [Jun Wakita - Shounen A (Mystearica) \[Another\]](//osu.ppy.sh/b/36161&m=2)         |
 | [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](//osu.ppy.sh/b/54581&m=2) |
 | [Masayoshi Minoshima feat. nomico - Bad Apple](//osu.ppy.sh/b/64780&m=2)            |
-
 
 | Tiebreaker                                                                       |
 |----------------------------------------------------------------------------------|

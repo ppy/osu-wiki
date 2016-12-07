@@ -7,7 +7,6 @@
 
 將此代碼放到條目的最上方：
 
-  
     {{Update/HK}}
 
 <noinclude></noinclude>

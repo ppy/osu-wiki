@@ -4,7 +4,6 @@ There are three types of accuracy: per [beatmap](../Beatmaps/en.md "wikilink")'s
 
 In simple terms, the beatmap's accuracy is dependent on [Hit-scores](../Score/en.md "wikilink") gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
 
-
 ## Standard
 
 In [Standard](../Game-Modes/Standard/en.md "wikilink"), accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount. In other words:
@@ -53,7 +52,7 @@ Note that MAX and 300 are both worth the maximum for calculating accuracy, despi
 ### Ranking
 
   This shows your grade, an overview of your hits, as well as your actual accuracy percentage. For more details, see [Score](../Score/en.md "wikilink").
-  
+
 ![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
 [Larger osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
@@ -65,7 +64,6 @@ Note that MAX and 300 are both worth the maximum for calculating accuracy, despi
 [Larger osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
 
 [Larger osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
-
 
 ### Performance Graph
 

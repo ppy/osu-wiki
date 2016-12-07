@@ -33,4 +33,3 @@ Bien que théoriquement possible, la plupart des joueurs ne préfèrent pas util
 
 Bien que possible, les prix de PC à écran tactile sont fort élevés. Un joueur n'a qu'a toucher l'écran pour jouer. Bien entendu ceci dépend de la sensitivité de l'écran, les clics peuvent ne pas être enregistrés. L'écran peut aussi être trop lourd pour être posé sur les genoux pour jouer.
 
-

@@ -14,14 +14,12 @@ Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
 Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
-
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
 | ![Video Game Pack vol.1](all-packs-gamer-1.png "Video Game Pack vol.1") | ![Anime Pack vol.1](all-packs-anime-1.png "Anime Pack vol.1") | ![Internet Pack vol.1](all-packs-internet-1.png "Internet Pack vol.1") | ![Rhythm Pack vol.1](all-packs-rhythm-1.png "Rhythm Pack vol.1") |
 | ![Video Game Pack vol.2](all-packs-gamer-2.png "Video Game Pack vol.2") | ![Anime Pack vol.2](all-packs-anime-2.png "Anime Pack vol.2") | ![Internet Pack vol.2](all-packs-internet-2.png "Internet Pack vol.2") | ![Rhythm Pack vol.2](all-packs-rhythm-2.png "Rhythm Pack vol.2") |
 | ![Video Game Pack vol.3](all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](all-packs-rhythm-4.png "Rhythm Pack vol.4") |
-
 
 Combo
 =====

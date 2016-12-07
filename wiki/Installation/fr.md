@@ -97,4 +97,3 @@ Questions et problèmes fréquents
     -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](http://osu.ppy.sh/forum/5) (en anglais).
     -   Si votre problème concerne des versions non-officielles du jeu, veuillez consulter leur section appropriée sur le forum (voir plus haut).
 
-

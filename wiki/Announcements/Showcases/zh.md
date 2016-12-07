@@ -86,4 +86,3 @@ osu!mania
 
 [An - アートコア神社](https://osu.ppy.sh/s/114807)：Flower（\#2）、Amamiya Yuko（\#1）、Regou（\#14）
 
-

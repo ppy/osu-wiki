@@ -1,16 +1,16 @@
 <noinclude></noinclude>
 
-| [Making Good Sliders](Making_Good_Sliders "wikilink")                              
-                                                                                     
+| [Making Good Sliders](Making_Good_Sliders "wikilink")  
+
  <div align="right" class="plainlinks" style="margin-top:-16px;padding-right:8px;">  
- \[\[ <span title="Edit">+</span>\]\]                                                
-                                                                                     
+ \[\[ <span title="Edit">+</span>\]\]  
+
  </div>                                                                              |
 |------------------------------------------------------------------------------------|
 | Basic                                                                              |
-| -   [Arcs](Making_Good_Slider_Arcs "wikilink")                                     
- -   [Waves](Making_Good_Slider_Waves "wikilink")                                    
- -   [Beat Blankets](Making_Good_Slider_Beat_Blankets "wikilink")                    
+| -   [Arcs](Making_Good_Slider_Arcs "wikilink")  
+ -   [Waves](Making_Good_Slider_Waves "wikilink")
+ -   [Beat Blankets](Making_Good_Slider_Beat_Blankets "wikilink")
  -   [Circles](Making_Good_Slider_Circles "wikilink")                                |
 ||
 

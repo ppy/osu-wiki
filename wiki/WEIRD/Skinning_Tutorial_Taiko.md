@@ -25,14 +25,10 @@ I will explain here with one element and where it's applied in gameplay.
 
 -   **Taiko-bar-right** and **Taiko-bar-right-glow** - Right part of taiko bar. "Glow" bar appear in kiai time.
 
-  
-  
 Taiko-bar-right:
 
 <img src="ST_130.jpg" title="ST_130.jpg" alt="ST_130.jpg" width="600" />
 
-  
-  
 Taiko-bar-right-glow:
 
 <img src="ST_131.jpg" title="ST_131.jpg" alt="ST_131.jpg" width="600" />

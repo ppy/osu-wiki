@@ -55,7 +55,6 @@ Tab related to the core of beatmap's settings. Each setting affects different as
 
 ### HP Drain Rate
 
-  
 Known as "**HP**" in Edit's song selection.
 
 The rate at which HP decreases, which is always constant except during [breaks](break "wikilink"). Further HP is lost with misses. HP is recovered by getting a [score value](Score#osu.21_Scoring_Values "wikilink") and spinning spinners. More HP is recovered with [Geki and Katu](Score#osu.21_Scoring_Values "wikilink") at the end of a combo.
@@ -64,7 +63,6 @@ The rate at which HP decreases, which is always constant except during [breaks](
 
 <img src="Circle sizes.png" title="Overview of various Circle Sizes" alt="Overview of various Circle Sizes" width="250" />
 
-  
 Known as "**CS**" in Edit's song selection.
 
 This determines the size of circles and sliders. The value range from 2 to 7 with the smaller numbers being large sizes (like needle gauges). The smaller circles make the map harder by requiring the player to be more precise.
@@ -75,7 +73,6 @@ It is possible by manually editing the .osu file to assign a value of 0-10 but t
 
 #### Key Count (osu!mania only)
 
-  
 Known as "**Keys**" in Edit's song selection.
 
 This determines the xK count for the difficulty. The value range from 1 to 9 with the selected number signify the amount of xK to be used on the difficulty.
@@ -86,7 +83,6 @@ Clicking on "Co-op mode" checkbox doubles the currently selected amount (from 5 
 
 <img src="ARTable.png" title="Detailed AR chart (click to view larger version)" alt="Detailed AR chart (click to view larger version)" width="250" />
 
-  
 Known as "**AR**" in Edit's song selection.
 
 #### General
@@ -108,7 +104,6 @@ Four mods can alter approach rate timing when activated:
 
 ### Overall Difficulty
 
-  
 Known as "**OD**" in Edit's song selection but as "**Accuracy**" on Beatmap Listing page.
 
 #### General

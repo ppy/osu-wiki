@@ -2,7 +2,6 @@
 
 Legacy/Original themed packs packed during osu! infancy years (2009) before being updated by [Stefan in 16 January 2016](http://osu.ppy.sh/news/137535031193).
 
-
 ## Trivia
 
 -   16 packs. (4 themes x 4 volumes)
@@ -11,7 +10,6 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 -   [662 difficulties](Media:RH_Beatmap_packs_difficulties.jpg "wikilink") (660 ![](Heart.gif "fig:Heart.gif") ranked, 1 ![](Fire.gif "fig:Fire.gif") [approved](http://osu.ppy.sh/b/21010) and 1 [pending](http://osu.ppy.sh/b/19630))
 -   [1.39 GB (zipped), 1.47 GB (imported)](Media:RH_Beatmap_packs_comparison.jpg "wikilink")
 -   3 minutes 33 seconds. (Import time estimation of all 16 packs)
-
 
 ## Anime Pack
 
@@ -27,7 +25,7 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [Hirano Aya - Hare Hare Yukai](http://osu.ppy.sh/s/301)
 * [Access - Doubt & Trust](http://osu.ppy.sh/s/442)
 * [Pokemon - Pokerap](http://osu.ppy.sh/s/551)
-* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584) 
+* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584)
 * [Manzo - My-Pace Daiou](http://osu.ppy.sh/s/842)
 * [Younha - Houkiboshi](http://osu.ppy.sh/s/897)
 * [Miwako Okuda - Shizuku](http://osu.ppy.sh/s/1005)
@@ -98,8 +96,6 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [The Delgados - The Light Before We Land](http://osu.ppy.sh/s/14694)
 * [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](http://osu.ppy.sh/s/16252)
 * [DOMINO - U Can Do It! (TV Size)](http://osu.ppy.sh/s/21197)
-
-
 
 ## Internet Pack
 
@@ -184,8 +180,6 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [Hatsune Miku - Nico Nico Messe no Uta](http://osu.ppy.sh/s/17145)
 * [yamas03 - bloomin' octagon](http://osu.ppy.sh/s/17217)
 * [8corporation - The Ultimate Trololo Mashup](http://osu.ppy.sh/s/17724)
-
-
 
 ## Rhythm Game Music Pack
 
@@ -273,7 +267,6 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~](http://osu.ppy.sh/s/19809)
 * [M2U - Memory of Beach](http://osu.ppy.sh/s/22401)
 
-
 ## Video Game Music Pack
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
@@ -356,14 +349,10 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [Crush 40 - Sonic Heroes](http://osu.ppy.sh/s/21836)
 * [Anamanaguchi - Scott Pilgrim Anthem](http://osu.ppy.sh/s/23073)
 
-
-
-
 Special thanks
 ==============
 
 -   [Wayback Machine](http://archive.org/web/)
-
 
 [media-anime-vol-1]: http://www.mediafire.com/?9n65pm9fp8yp5bn
 [media-anime-vol-2]: http://www.mediafire.com/?722os55j52ikylq

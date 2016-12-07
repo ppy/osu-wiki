@@ -52,7 +52,6 @@ Messages
 | OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
 | The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
 
-
 ### Errors
 
 #### Compose
@@ -66,7 +65,6 @@ Messages
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
 | Your beatmap has no background image. | The current difficulty doesn't have a background image! Note that videos don't count as background images because the user isn't required to download them | Find a suitable image and use it as the background image. |
-
 
 ### Warnings
 
@@ -169,6 +167,5 @@ Messages
 | This mapset needs at least 2 standard diffs. | Standard maps only! | |
 | This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
 | Uninherited timing points conflict with {0} diff. | | |
-
 
 <Category:Beatmapping> <Category:Modding>

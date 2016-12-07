@@ -210,7 +210,6 @@ Pertanyaan Yang Sering Ditanyakan (FAQ)
 Dimana aku bisa mengunduh beatmap?
 ----------------------------------
 
-  
 *Penjelasan terperinci untuk beatmap: [Beatmaps](ID:Beatmaps "wikilink")*
 
 Kamu dapat mencarinya dari halaman dengan judul "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".

@@ -8,19 +8,16 @@ Caranya
 [Ranked/Approved Beatmaps](http://osu.ppy.sh/forum/14)
 ======================================================
 
-  
 ***Tempat dimana beatmap Ranked/Approved berada.***
 
 [Pending Beatmaps](http://osu.ppy.sh/forum/6)
 =============================================
 
-  
 ***Beatmap yang belum selesai atau penyetujuannya masih ditunda.***
 
 [Works In Progress/Help](http://osu.ppy.sh/forum/10)
 ====================================================
 
-  
 ***Tempat dimana beatmap yang masih WIP, atau untuk mencari bantuan tentang Beatmaps***
 
 **WIP** map adalah akronim dari **Work In Progress (Dalam Tahap Pengerjaan)** [beatmap](ID:beatmap "wikilink"), suatu beatmap yang memang masih dalam tahap pengerjaan dan belum siap dirank oleh pembuat beatmap tersebut (contoh versi [tingkat kesulitan](ID:difficulty "wikilink") yang belum selesai, hanya satu versi tingkat kesulitan, [koreksi / saran](ID:Modding "wikilink") yang tertunda di dalam [timing](ID:Timing "wikilink"), dll.) WIP dapat di submit ke [BSS](ID:BSS "wikilink") untuk dipindahkan ke Beatmap Help forum untuk mendapat bantuan, umpan balik dan bantuan dari mods dan user lain.
@@ -30,7 +27,6 @@ Jika pembuat beatmap merasa beatmapnya sudah bagus, beatmap tersebut dapat dipin
 [General Questions](http://osu.ppy.sh/forum/56)
 -----------------------------------------------
 
-  
 '**'Tempat dimana para Modder/Mapper bertanya tentang pertanyaan yang mereka kurang pahami tentang Mapping.**
 
 Ingat, tempat ini bukan untuk meminta sebuah saran, lebih baik jika kamu memintanya di subforum [Modding Queues](http://osu.ppy.sh/forum/60)
@@ -38,7 +34,6 @@ Ingat, tempat ini bukan untuk meminta sebuah saran, lebih baik jika kamu meminta
 [Storyboarding](http://osu.ppy.sh/forum/20)
 -------------------------------------------
 
-  
 ***Membicarakan Storyboarding, mencari bantuan dan kamu boleh membagi storyboard kamu disini!.***
 
 [Modding Queues](http://osu.ppy.sh/forum/60)
@@ -49,13 +44,11 @@ Tempat dimana Modders/Mapper untuk memberikan servis dalam hal Modding/Membuat B
 [Beatmap Graveyard](http://osu.ppy.sh/forum/19)
 ===============================================
 
-  
 ***Beatmap yang sudah tidak diperbaharui selama 4 minggu akan di pindahkan kesini.***
 
 [Beatmap Projects](http://osu.ppy.sh/forum/53)
 ==============================================
 
-  
 ***Membicarakan suatu proyek untuk beatmap disini.***
 
 Forum ini dimana tempat untuk bersenang senang, membicarakan suatu proyek beatmap bersama-sama dengan pengguna lain dan membentuk kolaborasi dalam membuat proyek seperti sekitar Album atau Artis. Jika kamu melihat di beberapa thread di sini, kamu seharusnya mengerti bagaimana caranya berkerja.
@@ -65,7 +58,6 @@ Forum ini **bukan** untuk meminta lagu yang kamu suka untuk dijadikan beatmap ta
 [Completed Projects](http://osu.ppy.sh/forum/62)
 ------------------------------------------------
 
-  
 ***Tempat dimana semua proyek yang telah selesai berada.***
 
 [Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink") <Category:Website/ID>

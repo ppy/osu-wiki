@@ -7,7 +7,6 @@
 
 将以下代码复制到词条代码的最上方：
 
-  
     {{Update/ZH}}
 
 <noinclude></noinclude>

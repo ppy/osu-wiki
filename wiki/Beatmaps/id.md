@@ -1,7 +1,6 @@
 Apa itu "Beatmaps"?
 ===================
 
-  
 *halaman daftar Beatmaps: <http://osu.ppy.sh/p/beatmaplist>*
 
 *Beatmaps* atau bisa disingkat *maps* adalah sebuah *level* dalam [osu!](ID:Glossary#osu! "wikilink"), seperti tiap stage di versi [DS games](ID:Glossary#DS_games "wikilink"). Di bentuk paling dasar mereka, *beatmaps*; mempunyai lagu dan [*Hit Circles*](ID:Glossary#Hit_Circle "wikilink"), [*Sliders*](ID:Slider "wikilink"), dan/atau [*Spinners*](ID:Glossary#Spinner "wikilink") terletakkan sesuai dengan ritme musik, tapi beatmaps juga dapat ditambah dengan gambar dasar atau video, atau bahkan dengan [Storyboard](ID:Storyboarding "wikilink"). Pembuat *beatmaps* disebut *beatmappers* atau *mappers* untuk lebih singkatnya. *Beatmaps* di unggah untuk dilihat dan dimainkan oleh semua orang menggunakan [BSS](ID:Glossary#BSS "wikilink"), dan kemudian di [mod](ID:Modding "wikilink"). Jika sebuah beatmap sudah dinilai cukup bagus, beatmap tersebut di [rank](ID:Ranked_beatmap "wikilink") atau, di beberapa kasus yang jarang, di [approve](ID:Approved_Beatmap "wikilink").

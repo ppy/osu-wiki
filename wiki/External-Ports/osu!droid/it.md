@@ -91,7 +91,6 @@ Osu!droid MM.jpg| Menù principale Osu!droid Play.jpg| Selezione della beatmap (
 Schermata delle Opzioni
 -----------------------
 
-  
 ***Visita [la pagina di opzioni di osu!](IT:osu!droid/Options "wikilink") per ulteriori informazioni.***
 
 Come inserire skin

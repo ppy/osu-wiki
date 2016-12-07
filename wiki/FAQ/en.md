@@ -1,4 +1,4 @@
-  
+
 ***If you got here to answer your questions about editing beatmaps, please consider redirecting yourself to [Beatmapping](Beatmapping "wikilink")!***
 
 Introduction
@@ -16,7 +16,6 @@ You can see the circles on the bottom screen, and on the top screen you have the
 How do I play?
 --------------
 
-  
 *Full explanation: [osu! Standard](Standard "wikilink")*
 
 While most PC users won't have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles](Play_Styles "wikilink") page. There are some songs which push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
@@ -99,7 +98,6 @@ Alternative Game Modes
 What is "Taiko"?
 ----------------
 
-  
 *Full explanation: [Taiko](Taiko "wikilink")*
 
 [200px|thumb|right|Taiko gameplay.](image:taiko.jpg "wikilink") *[Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* is a Taiko Drum rhythm game made by Namco, that involves the simulation of playing the drums to the beat of the music. In osu!, beatmaps can be played in the styling of Taiko no Tatsujin through the use of special Taiko game mode.
@@ -151,7 +149,6 @@ What is "Catch the Beat"?
 
 [200px|thumb|right|Catch the Beat gameplay.](image:ctbaqua.jpg "wikilink")
 
-  
 *Full explanation: [Catch the Beat](Catch_the_Beat "wikilink")*
 
 Catch the Beat is the second special game mode to be added in, after Taiko game mode.
@@ -159,7 +156,6 @@ Instead of clicking circles, you are now tasked to move the catcher at the botto
 
 ### Controlling the catcher
 
-  
 If the [Relax](Relax "wikilink") mod is used, control of the catcher is done by moving the mouse instead.
 
 -   By default, the left \[&lt;-\] and right \[-&gt;\] arrow keys are used to move the catcher.
@@ -170,7 +166,6 @@ What is "osu!mania"?
 
 ![ thumb | 200px | osu!mania (7K) gameplay.]( Mania screenshot.jpg  " thumb | 200px | osu!mania (7K) gameplay.")
 
-  
 *Full explanation: [osu!mania](Osu!mania "wikilink")*
 
 osu!mania is the third special game mode to be added in, after Taiko and CtB game mode.
@@ -273,7 +268,6 @@ Currently, you can set from 1 to 9 Key by game modifier (by default, it would be
 Scoring
 =======
 
-  
 *Detailed explanation of scoring can be found at the game style's own respective page or [the "Score" page](Score "wikilink").*
 
 Grades
@@ -338,7 +332,6 @@ Grades
 Performance Points
 ------------------
 
-  
 *Full explanation: [Performance Points](Performance_Points "wikilink")*
 
 Performance Points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points are heavily based on map difficulty which is determined by a unique algorithm in every gamemode. Based on this difficulty alone each of your scores is rated and assigned a pp value. Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your scores on difficult songs. Do note that game modes are counted separately \[which means, playing (osu!/Taiko/CtB/osu!mania) raises (osu!/Taiko/CtB/osu!mania) pp\].
@@ -354,7 +347,6 @@ General
 
 ### Where can I find and get the beatmaps?
 
-  
 *Detailed explanation of the beatmaps: [Beatmaps](Beatmaps "wikilink")*
 
 You can find it from the main page under the name "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
@@ -448,12 +440,10 @@ Beatmapping
 
 ### "This beatmap you're trying to submit isn't owned by you!"
 
-  
 *For unranked beatmaps only.*
 
 Please follow these steps:
 
-  
 1. Leave the editor (or close osu!) to make sure the changes apply properly
 
 2. Check the name of the beatmap's folder

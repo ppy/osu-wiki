@@ -55,8 +55,6 @@ Episode
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Episode 32")   | Pada episode ini, kami akan berbincang mengenai sistem peringkat yang baru!                                                                                                            |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Episode 33")   | Pada episode ini, kami akan mengemas hal-hal mengenai tips editor yang lebih canggih!                                                                                                  |
 
-
-
 Klik pada gambar untuk menyaksikan episode yang diinginkan.
 
 [Category:History of osu!/ID](Category:History_of_osu!/ID "wikilink")

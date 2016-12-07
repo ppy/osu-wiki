@@ -6,7 +6,6 @@ Twórca
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | Prowadzenie projektu |
 
-
 Aktywni
 ----------------------
 
@@ -22,7 +21,6 @@ Aktywni
 | [yelle](https://osu.ppy.sh/u/4916903) | Zarządzanie sklepem osu! |
 | [ztrot](https://osu.ppy.sh/u/6347) | Profesor osu!academy, wygląd maskotek |
 | [Zallius](https://osu.ppy.sh/u/55) | Zagrożony wyginięciem |
-
 
 Nieaktywni
 ----------------------
@@ -42,7 +40,6 @@ Nieaktywni
 | [Sinistro](https://osu.ppy.sh/u/5530) | Meeting minutes, Ogromny wkład w FAQ |
 | [woc2006](https://osu.ppy.sh/u/1105845) | Jeden z twórców gry, Twórca osu!manii |
 
-
 Grupy
 ----------------------
 
@@ -56,6 +53,5 @@ Grupy
 | [osu!news](http://osu.ppy.sh/g/25) | Zapewnianie dobrej lektury od 2013 |
 | [Staff Turniejowy](http://osu.ppy.sh/g/26) | Ludzie odpowiadający za prowadzenie oficjalnych mistrzostw świata w osu! |
 | [Zespół zapewnienia jakości](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |
-
 
 <Category:People>

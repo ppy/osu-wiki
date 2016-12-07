@@ -8,19 +8,16 @@ Kurzanleitung
 [Ranked/Approved Beatmaps](http://osu.ppy.sh/forum/14)
 ======================================================
 
-  
 ***Hier werden alle Ranked, Approved und Qualified Beatmaps gelagert.***
 
 [Pending Beatmaps](http://osu.ppy.sh/forum/6)
 =============================================
 
-  
 ***Beatmaps, die vollständig sind, aber noch auf eine Freigabe warten.***
 
 [Works In Progress/Help](http://osu.ppy.sh/forum/10)
 ====================================================
 
-  
 ***Veröffentlichen Sie Ihre unvollständigen Beatmaps dort, oder suchen Sie dort nach Hilfe!***
 
 **WIP** ist ein Akkronym für **Work In Progress**, WIP Beatmaps sind für den ein oder anderen Grund als unvollständig erachtet, z. B. unvollständiges Mapset, unvollständige Schwierigkeitsstufe, inkorrektes Timing, etc. WIPs können ganz normal durch den [BSS](DE:Submission "wikilink") hochgeladen werden, um Feedback, Mods von anderen Spielern, etc. zu bekommen.
@@ -37,7 +34,6 @@ Hier können Sie Fragen übers Beatmapping, Modding, usw. stellen, wenn das osu!
 [Storyboarding](http://osu.ppy.sh/forum/20)
 -------------------------------------------
 
-  
 ***Diskutieren Sie über Storyboarding, suchen Sie nach Hilfe, oder teilen Sie Ihre WIPs.***
 
 [Modding Queues](http://osu.ppy.sh/forum/60)
@@ -48,13 +44,11 @@ Dieses Subforum ist für Modder/Mapper, die unter selbst-festgelegten Bedingunge
 [Beatmap Graveyard](http://osu.ppy.sh/forum/19)
 ===============================================
 
-  
 ***Beatmaps, die 4 Wochen lang nicht geupdated wurden, werden dorthin verschoben.***
 
 [Beatmap Projects](http://osu.ppy.sh/forum/53)
 ==============================================
 
-  
 ***Kündige an, diskutiere oder nimm an Beatmapping Projekten hier teil.***
 
 Dieser Forum ist nur aus Spaß da, Community-gesteuerte gemeinschaftliche Projekte f+r Alben oder Artisten. Wenn Sie sich viele Thread hier mal anschauen, werden Sie schon merken, wie das Forum so funktioniert.

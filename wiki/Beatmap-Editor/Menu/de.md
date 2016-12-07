@@ -279,7 +279,6 @@ Komponieren
 
 <img src="DE-Editor_Komponieren.jpg" title="Right|Kompositionsmenü" alt="Right|Kompositionsmenü" width="200" />
 
-  
 ***Hauptseite: [Komposition](DE:Compose "wikilink")***
 
 <table>
@@ -327,7 +326,6 @@ Design
 
 <img src="DE-Editor_Design.jpg" title="Right|Designmenü" alt="Right|Designmenü" width="200" />
 
-  
 ***Main page: [Design](Design "wikilink")***
 
 | Designmenü               |
@@ -339,7 +337,6 @@ Timing
 
 <img src="DE-Editor_Timing.jpg" title="Right|Timingmenü" alt="Right|Timingmenü" width="200" />
 
-  
 ***Main page: [Timing](Timing "wikilink")***
 
 <table>

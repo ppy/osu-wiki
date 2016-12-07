@@ -1,9 +1,9 @@
 |                                                                       |
 |-----------------------------------------------------------------------|
 | <div style="text-align: center; font-size: 120%; font-weight: bold;"> 
- }}}                                                                    
-                                                                        
- </div>                                                                 
+ }}}  
+
+ </div>  
  <includeonly></includeonly><noinclude>                                 |
 
 </noinclude> <noinclude></noinclude>

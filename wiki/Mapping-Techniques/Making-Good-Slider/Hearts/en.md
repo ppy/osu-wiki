@@ -1,4 +1,4 @@
-  
+
 Use same technique for any slider which is symmetrical, but the startpoint is on the centre line
 
 ![](MGS_06.png "MGS_06.png")

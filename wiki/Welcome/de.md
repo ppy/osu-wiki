@@ -12,7 +12,6 @@ Nachdem du das Spiel heruntergeladen und installiert hast, sollte beim ersten St
 Wie du dein Lieblingslied spielen kannst!
 =========================================
 
-  
 *Vollständige Erklärung: [Beatmaps](DE:Beatmaps "wikilink")*
 
 Schritt 1 - Das Lied finden!
@@ -64,7 +63,6 @@ Was genau ist dieser "Solo" Spielmodus? Grundsätzlich kann man in diesem Modus 
 Multiplayer
 -----------
 
-  
 *Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")*
 
 Wenn du dich im "Solo" Modus einsam fühlen solltest, kannst du auch in einer Multiplayer Lobby beitreten. Die einzige Voraussetzung, um den Multiplayer Lobby betreten zu können, ist der Besitz eines osu! Accounts, mit dem man im Spiel eingeloggt ist, der mit einer dezenten Internetverbindung zum Server verbunden ist. Um Zugang zu erhalten, drücke auf den "Multi" Knopf. Dort wird dir dann eine Menge an Räumen angezeigt, die von "Easy" bis "Expert" gehen können. Der Multiplayer eignet sich am besten dazu, um neue Freundschaften zu schließen und um seine Fähigkeiten mit anderen Spielern zu vergleichen. Nachdem du dann einen Raum betreten bist, wirst du dann in der Regel die Beatmap herunterladen müssen, welche vom Host ausgewählt wurde. Klicke auf "Klicke hier, um die Map herunterzuladen" (es sollte an der rechten Seite in einem Knallrot anzeigt werden), dadurch sollte sich eine Seite von der gewählten Beatmap in deinem Browser öffnen. Klicke danach auf den "Download Beatmap" Knopf (sie müssen mit ihrem Account angemeldet sein) und öffne dann die heruntergeladene .osz Datei! Du musst dir um die Downloadzeiten keine Sorgen machen, die meisten Hosts werden auf dich warten und fragen ab und zu nach, wie weit der Download fortgeschritten ist. Sei nicht schüchtern und werde kommunikativ! Wenn es deiner Meinung nach zu lange dauern sollte, kannst du deinen Mitspielern sagen, dass du die jetzige Runde aussetzen wirst und ohne dich starten können (dem Host steht ein spezieller Commando zur Verfügung, Force Start Game, wodurch die Runde gestartet wird, auch wenn nicht jeder bereit sein sollte). Die Spielweise im Multiplayer unterscheidet sich leicht im Solo. Du bist nicht in der Lage, um das Spiel zu pausieren. Außerdem stehen dir nur bestimmte Mods zur Verfügung, wenn du nicht der Host (Host besitzen den vollen Privileg und sie können Berechtigungen erteilen, indem sie "Free Mods" freigeben, damit die Mitspieler ihre Mods frei auswählen können) bist. Die größte Besonderheit am Multiplayer ist der Tag Co-Op, Tag Team Vs. und der Team Vs. Modus. Du kannst sogar die Scores deines Gegners/Mitspielers während dem Spielen sehen, wodurch eine intensive Atmosphäre erschaffen wird, während du versuchst deine Topposition zu halten.
@@ -82,7 +80,6 @@ Das Level vom Spieler wiederspiegelt die Menge an Scores, die der Spieler beim S
 Performance Points
 ------------------
 
-  
 *Vollständige Erklärung: [Performance Points](DE:Performance_Points "wikilink")*
 
 [Performance Points](Performance_Points "wikilink") sind grundsätzlich Punkte, deren Ziel es ist, das Können bzw. Talent der einzelnen Spieler zu bewerten. Je mehr Punkte du im Vergleich zu anderen Spielern hast, desto höher bist du im Rank aufgelistet. Die Kalkulation der Performance Points hängt von mehreren Faktoren ab - Aim, Speed, Accuracy und/oder Strain, je nach Modi kommen nur bestimmte Faktoren in Betrachtung. Durch Mods wird die Schwierigkeit der Map hochgeschraubt, wodurch du bei einem erfolgreichen Abschluss mit mehr Performance Points rechnen kannst, als wenn du die Map ohne Mods gespielt hättest. Grundlegend kann man sagen, dass du versuchen solltest, die schweren Maps mit einer möglichst hohen Accuracy und der gesamten Beatmap Kombo (FC = full combo) zu absolvieren. Je weniger 100er/50er, desto besser.
@@ -90,7 +87,6 @@ Performance Points
 Accuracy
 --------
 
-  
 *Vollständige Erklärung: [Accuracy](DE:Accuracy "wikilink")* <img src="Accuracy.png" title="fig:Right|Accuracy vom Spieler" alt="Right|Accuracy vom Spieler" width="110" />
 
 Es gibt drei verschiedenen Arten von Accuracy - \[1\] Accuracy der jeweiligen Beatmap, \[2\] der Gesamtaccuracy und \[3\] pp-Accuracy. In einfachen Worten, die Accuracy der Beatmap hängt von den erhaltenen Hit-Scores ab, der Gesamtaccuracy ist der Durchschnitt aus allen gerankten Scores und die pp-Accuracy von den gerankten Scores, welche einem pp geben. In osu! zählt neben den exakten Treffen des Hit-Objektes auch noch der Zeitpunkt, wann der Hit-Objekte angeklickt wird. Sie sollten daher stark auf den Approach-Circle achten!
@@ -98,7 +94,6 @@ Es gibt drei verschiedenen Arten von Accuracy - \[1\] Accuracy der jeweiligen Be
 Achievements
 ------------
 
-  
 *Vollständige Erklärung: [Achievements](DE:Achievements "wikilink")*
 
 Achievements sind kleine Abzeichen im Profil, wenn außergewöhnliche Ziele erreicht wurden. Achievementabzeichen können auf verschiedene Art und Weisen freigeschaltet werden, wie z. B. durch vieles Spielen und das Erzielen eines hohen Combos in einer Beatmap. Wenn Sie die Bedingungen erfüllt haben sollten, wird Ihnen das erhaltene Abzeichen im Ranking Panel - nach Abschluss einer Beatmap - und im Achievementbereich auf dem Profil angezeigt. Ihre geheime Mission besteht jedoch darin die versteckten Hush-Hush Achievements herauszufinden, wobei Ihnen die Bedingungen nicht bekannt sind und es daher an Ihnen liegt es selbst herauszufinden. Sie sind ziemlich schwer zu bekommen, es ist jedoch immer wieder toll sehen, wenn man etwas selbst herausgefunden hat.
@@ -108,7 +103,6 @@ Achievements sind kleine Abzeichen im Profil, wenn außergewöhnliche Ziele erre
 Chat
 ====
 
-  
 *Vollständige Erklärung: [Chat Konsole](DE:Chat_Console "wikilink")*
 
 Die Grundlagen zur Bedingung der [Chat Konsole](DE:Chat_Console "wikilink") ist all denen wichtig, die daran interessiert sind neue Freundschaften in unserer freundlichen Umgebung zu schließen. Es ist auch noch wichtig zu verstehen, wie Sie es bei gewissen Fällen anwenden, wenn jemand Ihnen Nachrichten schickt, Ihnen Tipps erzählt oder nach Hilfe fragt. Unten rechts gibt's einen Knopf mit der Aufschrift "Show Chat", wodurch sich das Chat öffnen lässt. Es ginge jedoch schneller, wenn Sie stattdesen die F8 Taste verwenden. Ihnen werden dann mehrere Chats, wie z. B. "\#osu!", "\#announce", "\#userlog" und möglicherweise ein weiteres Fenster mit dem Namen des Spielers mit dem Sie sich unterhalten haben sollten. Ungeachtet davon, unterlassen Sie es bitte zu spammen (kontinuierlich sehr kurze Nachrichten in den Chat einzugeben), ansonsten kann es passieren, dass Ihr Account für ein paar Minuten automatisch stummgeschaltet wird und all Ihre, bis dahin gesendeten Nachrichten, werden aus allen Chats entfernt. Sie können durch das Drücken der F9 Taste zur Benutzerliste gelangen (auch genannt als "erweiterte Chat Console") und mit Hilfe des Filters die Suche beeinschränken.
@@ -120,7 +114,6 @@ Dies waren die Grundlagen, scheuen Sie sich nicht davor nach Hilfe im Spiel oder
 Beatmapping (Edit)
 ==================
 
-  
 *Vollständige Erklärung: [Beatmapping](DE:Beatmapping "wikilink")*
 
 osu! bietet für jeden Spieler die Möglichkeit an seine eigenen Beatmaps zu erstellen. Wenn Sie denken, dass Sie kreativ sind und keine Angst vor dem Lernen haben, dann sollten Sie vielleicht damit beginnen Ihre eigenen Maps zu Liedern zu kreieren. Um zu beginnen, starten Sie einfach den "Edit" Modus und ziehen Sie direkt das Lied im .mp3 Format in osu! Danach sollte Ihnen eine leere Map ohne Namen angezeigt werden. Wie auch immer, Beatmapping ist ein "sehr" komplizierte Prozess, welches ein gewisses Maß an Einsatz fordert. Der beste Weg es zu lernen ist immernoch es selbst auszuprobieren. Sie können sich auch diverse Anleitungen über das Mapping [hier](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=60228) durchlesen. Der "Edit" Modus ist auch ziemlich nützlich, um einen genaueren Blick auf die Map zu werfen bzw. schon vorhandene Beatmaps mit Ihren selbsterstellten Beatmaps zu vergleichen. Sie sollten es auch **vermeiden gerankte Maps zu editieren**, da sie sonst wieder in den **unranked** zurückverfallen (natürlich nur lokal). Sie werden dann auch nicht mehr in der Lage sein einen Score zu submitten bzw. pp zu erhalten, solange die Map nicht wieder in ihren gerankten Zustand zurückgekehrt ist.

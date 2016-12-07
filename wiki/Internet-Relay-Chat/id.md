@@ -72,13 +72,13 @@ Menonaktifkan Pesan Masuk/Meninggalkan pada Beberapa Perangkat Lunak IRC
 
 | Perangkat Lunak                           | Perintah                                                                                                                                                                                                                                                                                                              |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Klik kanan di kanal yang ingin kamu ubah, di bawah bagian menu *Settings* (Pengaturan) centang *Hide Join/Part Message* (Hilangkan Pesan Masuk/Meninggalkan)                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                    
+| [HexChat](http://hexchat.github.io/)      | a. Klik kanan di kanal yang ingin kamu ubah, di bawah bagian menu *Settings* (Pengaturan) centang *Hide Join/Part Message* (Hilangkan Pesan Masuk/Meninggalkan)  
+
                                              b. Pergi ke *Settings* (Pengaturan) » *Preferences* (Preferensi), di bawah *Chatting* (Mengobrol) » *General* (Umum) centang *Hide Join/Part Message* (Hilangkan Pesan Masuk/Meninggalkan)                                                                                                                             |
 | [ircII](http://www.eterna.com.au/ircii/)  | **/ignore \* crap**                                                                                                                                                                                                                                                                                                   |
 | [Irssi](http://www.irssi.org)             | **/ignore** *-channels \#somechannel* \* **JOINS PARTS QUITS** (/ignore -kanal \#suatukanal \* JOINS PARTS QUITS)                                                                                                                                                                                                     |
-| [Weechat](http://www.weechat.org)         | **/filter add irc\_smart\_weechat** *irc.somename.* *\#somechannel* **irc\_smart\_filter \*** (/filter add irc\_smart\_weechat irc.suatunama. \#suatukanal irc\_smart\_filter \*)                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                                                    
+| [Weechat](http://www.weechat.org)         | **/filter add irc\_smart\_weechat** *irc.somename.* *\#somechannel* **irc\_smart\_filter \*** (/filter add irc\_smart\_weechat irc.suatunama. \#suatukanal irc\_smart\_filter \*)  
+
                                              **Catat:** suatunama adalah nama yang kamu berikan jika kamu menambahkan **server IRC** ke Weechat.                                                                                                                                                                                                                    |
 | [KVIrc](http://www.kvirc.net)             | Merujuk ke [galur berikut](http://www.kvirc.ru/forum/?topic=609.0) di forum ofisial KVIrc                                                                                                                                                                                                                             |
 | [mIRC](http://www.mirc.com/)              | *Tools* (Peralatan) » *Options* (Opsi) » pilih **IRC**. Klik tombol **Events...**. Ganti **joins**, **parts**, **quits**, dan **nicks** menjadi pengaturan yang kamu inginkan: *In Status* (Sedang digunakan) atau *Hide* (Hilangkan) adalah pengaturan yang baik [1](http://i.clintecker.com/disable-irc-msgs.html). |
@@ -93,7 +93,6 @@ Frequently Asked Questions (FAQ)
 Saya mendapat error "Bad Authentication Token". Apa yang seharusnya saya lakukan?
 ---------------------------------------------------------------------------------
 
-  
 1. Pastikan kamu menggunakan password yang ada di halaman [IRC Authentication](https://osu.ppy.sh/p/irc).
 
 2. Jika nama pengenalmu memiliki tanda spasi, ganti dengan tanda garis bawah (contoh: "Ini Nama" ganti ke "Ini\_Nama")
@@ -101,7 +100,5 @@ Saya mendapat error "Bad Authentication Token". Apa yang seharusnya saya lakukan
 Bisakah saya menggunakan nama pengenal lain?
 --------------------------------------------
 
-  
 Tidak. Kamu hanya bisa menggunakan nama pengenal yang kamu gunakan di dalam game.
-
 

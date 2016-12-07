@@ -220,7 +220,6 @@ Common issues and questions
 Where can I find and get the beatmaps?
 --------------------------------------
 
-  
 *Detailed explanation of the beatmaps: [Beatmaps](JP:Beatmaps "wikilink")*
 
 You can find it from the main page under the name "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".

@@ -22,14 +22,12 @@ Well nice decision, but remember skinning can be little hard for a newbie. In th
 
 #### R-15
 
-  
 **You must add warning that your skin have these.**
 
 Probably some of you ~~perverts~~ would like to make a skin that will contain mature content. All cases are simple, if you are going to post a skin that have it, you are only allowed to post R-15 "ecchi" (suggestive, visible underwear, swimsuits/bikini, etc.) and you need to avoid adding characters with really skimpy clothing.
 
 #### R-18
 
-  
 <span style="color:#F00">**You are NOT allowed to post skins that contains any R-18 (nudity, pornography, etc.) in skinning subforum. Period.**</span>
 
 If you post it somewhere else in the osu!community, be aware that you might be punished for that. (On the other hand, if you release it outside the osu!community walls nobody will hunt you down).
@@ -76,7 +74,6 @@ If you are going to make "skin mix" keep it for yourself or post it on your prof
 
 ### Parts that can be animated
 
-  
 For a list of animatable elements, please go to [Skinning](Skinning "wikilink") and check out its subpages!
 
 osu! allows to create animations for some elements. To create animation all you will need to do is creating frame by frame and naming them by <name of part>-0.png, <name of part>-1.png, <name of part>-2.png etc. You are not limited to amount of frames. Exception is only sliderb with is named sliderb0, sliderb1, sliderb2 etc.
@@ -87,12 +84,10 @@ If your animation is too fast, you can fix that in 2 ways. First, try to make th
 
 #### Interface
 
-  
 See [Skinning Tutorial (Interface)](Skinning/Tutorial/Interface "wikilink") for more details.
 
 #### Standard
 
-  
 See [Skinning Tutorial (Standard)](Skinning/Tutorial/Standard "wikilink") for more details.
 
 **Normal** - Kind of skin, that skinner creates as he/she wish. Follow or don't follow template sizes. These are often colourful and creative. May contains many different animations. Typical skin for casual player.
@@ -103,7 +98,6 @@ See [Skinning Tutorial (Standard)](Skinning/Tutorial/Standard "wikilink") for mo
 
 #### Catch the Beat
 
-  
 See [Skinning Tutorial (Catch the Beat)](Skinning/Tutorial/Catch_the_Beat "wikilink") for more details.
 
 Keep droplets large (but not huge) and visible. These are small and is easy to miss.
@@ -112,21 +106,18 @@ Be careful with the catcher's plate size! If you make it too short, player won�
 
 #### Taiko
 
-  
 See [Skinning Tutorial (Taiko)](Skinning/Tutorial/Taiko "wikilink") for more details.
 
 **VERY IMPORTANT** (in taiko skinning) that you must make Don (red notes) and Katsu (Blue notes) visible at all costs! Taiko is dynamic game mode and you don’t have time to think if it’s a Don or Katsu!!
 
 #### osu!mania
 
-  
 See [Skinning Tutorial (Mania)](Skinning/Tutorial/Mania "wikilink") for more details.
 
 When skinning Mania, it is important that the keys are aligned properly. This will ensure that the user will not press the key too early or too late.
 
 #### Sounds
 
-  
 See [Skinning Tutorial (Sounds)](Skinning/Tutorial/Sounds "wikilink") for more details.
 
 What is a skin.ini?
@@ -134,7 +125,6 @@ What is a skin.ini?
 
 The skin.ini file allows you to define specific behaviors on how osu! will display your skin. List includes (but isn't limited to): creator name and name of a skin that show up in osu!
 
-  
 For the list of possible skin.ini commands, please check out: [skin.ini](skin.ini "wikilink")
 
 Creating .osk files
@@ -171,7 +161,6 @@ First, delete all non-skinned parts (You shouldn't include them!). Next, create 
 
 If you don't know how to make friendly looking thread use this template.
 
-  
 by Dragvon
 
 `[General]`

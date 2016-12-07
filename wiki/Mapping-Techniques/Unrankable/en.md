@@ -5,7 +5,6 @@ Hold Sliders
 
 :\*Reason: Manipulation of time points is prohibited because the time points are to follow BPM of the music
 
-  
 *Not to be confused with [Short Repeating Sliders](Short_Repeating_Sliders#Short_Repeating_Sliders "wikilink")*
 
 Burai Sliders

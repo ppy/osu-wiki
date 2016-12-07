@@ -172,7 +172,6 @@ O chat do osu! é conhecido como IRC (Internet Relay Chat) ja que esse é o prot
 
 ### iNiS
 
-  
 *[Wikipedia description](https://en.wikipedia.org/wiki/INiS)*
 
 **iNiS** é um desenvolvedor de jogos Japonês de jogos musicais. É o criador dos três "[Jogos de DS](#DS_games "wikilink")" que osu! é baseado.

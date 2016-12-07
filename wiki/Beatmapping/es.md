@@ -37,7 +37,6 @@ Para empezar un nuevo beatmap, sigue estos simples pasos:
 
 -   Arrastra el archivo de audio y suéltalo en osu! (no importa si está o no abierto)
 
-  
 Ruta alternativa: Coloca el archivo de audio en la carpeta "Songs".
 
 -   Se debe abrir y te dirigirá a la pantalla de edición con tu archivo de audio allí.
@@ -50,7 +49,6 @@ Ruta alternativa: Coloca el archivo de audio en la carpeta "Songs".
 ¿Cómo puedo hacer un timing apropiado?
 --------------------------------------
 
-  
 ''Artículo principal: [Timing](ES:Timing "wikilink")
 
 **El Timing es fundamental - los beatmaps con un timing incorrecto no serán considerados para el ranking.** Asegúrate que tu timing sea perfecto antes de poner cualquier nota in él. Si tienes dudas sobre el timing, contacta a un moderador por ayuda al principio, o entrega tu canción al [foro de Ayuda de Beatmaps (en inglés)](http://osu.ppy.sh/forum/10). Esto te ahorrará *mucho* fastidio más tarde.
@@ -67,7 +65,6 @@ Aquí hay algunos consejos para conseguir un timing correcto:
 ¿Qué información debo ingresar en Song Setup?
 ---------------------------------------------
 
-  
 ''Artículo principal: [Song Setup\#Song and Map Meta Data](ES:Song_Setup#Song_and_Map_Meta_Data "wikilink")
 
 Debes ingresar esta información antes de crear una segunda dificultad, para asegurarte de que la descripción sea coherente a través de todos los beatmaps en el *set*. Actualmente está **permitido usar caracteres Unicode.**

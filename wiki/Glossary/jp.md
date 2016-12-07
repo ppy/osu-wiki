@@ -552,7 +552,6 @@ WIPと略される
 
 作成者は譜面が十分に完成されたと考えた時、管理者もしくは[BSSを通じて](JP:Submission "wikilink")[Pendingに移動させる事ができます](JP:Pending_Beatmap "wikilink")。 もし譜面が様々な理由によってunrankedされた場合、Pendingの代わりにWIPに移動されます。
 
-
 X
 -
 

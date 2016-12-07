@@ -13,7 +13,6 @@ Mod berikut membuat permainan menjadi lebih mudah, namun membuat skor menjadi ti
 
 ### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
-  
 ***Pengali Skor: 0,5***
 
 EN: ***"Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required."***
@@ -32,7 +31,6 @@ easymod.jpg|Mod Easy mengurangi kesulitan dengan berbagai cara. easymod2.jpg|Kad
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
-  
 ***Pengali Skor: 0,5***
 
 EN: ***"You can't fail, no matter what."***
@@ -49,7 +47,6 @@ Di mode [Catch The Beat](ID:Catch_the_Beat "wikilink"), mod ini memiliki efek ya
 
 <img src="GM_HT.jpg" title="Durasi lagu meningkat 33% BPM berkurang 25%" alt="Durasi lagu meningkat 33% BPM berkurang 25%" width="300" />
 
-  
 ***Pengali Skor: 0,3***
 
 EN: ***"Less zoom"*** ("Zoom" disini artinya seberapa cepat BPM dari sebuah beatmap)
@@ -71,7 +68,6 @@ Mod berikut memperkenalkan elemen baru untuk membuat permainan menjadi lebih sul
 
 <img src="hardrock.jpg" title="Hard Rock mempersulit beatmap dengan berbagai cara" alt="Hard Rock mempersulit beatmap dengan berbagai cara" width="400" />
 
-  
 ***Pengali Skor: 1.06 (osu!, Taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)***
 
 EN: ***"Everything just got a bit harder..."***
@@ -90,7 +86,6 @@ Di mode [osu!mania](ID:Osu!mania "wikilink"), Hard Rock tidak akan mengubah pene
 
 <img src="SD Rarecase.jpeg" title="Contoh dari kasus yang jarang terjadi, yaitu selamat dari Sudden Death. Pemain berhasil mengambil slider tick yang mengisi lifebar dari kekosongan. Hasil akhir" alt="Contoh dari kasus yang jarang terjadi, yaitu selamat dari Sudden Death. Pemain berhasil mengambil slider tick yang mengisi lifebar dari kekosongan. Hasil akhir" width="200" />
 
-  
 EN: ***"Miss a note and fail."***
 
 ID: ***"Lakukan satu kesalahan dan semuanya akan berakhir!"***
@@ -105,7 +100,6 @@ Di mode [Catch The Beat](ID:Catch_The_Beat "wikilink"), mod ini memiliki efek ya
 
 #### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
 
-  
 ***Klik mod Sudden Death lagi untuk menerapkan mod Perfect***
 
 EN: ***"SS or quit."***
@@ -118,7 +112,6 @@ Jika kamu mengklik mod Sudden Death kedua kalinya, akan muncul mod Perfect. Keti
 
 <img src="GM_DT.jpg" title="Durasi lagu berkurang sebesar 33% BPM meningkat 50%" alt="Durasi lagu berkurang sebesar 33% BPM meningkat 50%" width="300" />
 
-  
 ***Score multiplier: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat)***
 
 EN: ***"Zoooooooooom"***
@@ -135,7 +128,6 @@ Di mode [Catch The Beat](ID:Catch_The_Beat "wikilink"), perubahan kecepatan dan 
 
 #### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
 
-  
 ***Klik mod Double Time lagi untuk mengaktifkan mod Nightcore***
 
 EN: ***"uguuuuuuuu"***
@@ -148,7 +140,6 @@ Jika kamu mengklik ikon Double Time kedua kalinya, mod Nightcore akan aktif yang
 
 ### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
 
-  
 ***Pengali skor: 1,06*** (osu!,Taiko,CtB) , ***1,00*** (osu!mania)
 
 EN: ***"Play with no approach circles and fading notes for a slight score advantage."***
@@ -165,7 +156,6 @@ Di mode [osu!mania](ID:Osu!mania "wikilink"), Hidden dapat diterapkan dengan men
 
 #### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
 
-  
 ***Pengali skor: 1,00*** (khusus osu!mania)
 
 Mod ini dikhususkan untuk osu!mania. Mod ini menyebabkan not muncul secara perlahan ketika not tersebut mendekati judgement bar. Kecepatan not tersebut muncul yaitu berdasarkan kombomu, dengan kombo yang lebih tinggi menyebabkan not muncul dengan cepat namun tidak terlihat dalam waktu yang lebih lama.
@@ -180,7 +170,6 @@ Untuk perbandingan, lihat gambar dibawah.
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
-  
 ***Pengali skor: 1,12*** (osu!,Taiko,CtB) ,*'* 1,00 ***(osu!mania)***
 
 EN: ***"Restricted view area."***
@@ -199,7 +188,6 @@ Di mode [osu!mania](ID:Osu!mania "wikilink"), pandangan dibatasi hanya pada pada
 
 #### Senternya kehabisan baterai!
 
-  
 5 tahun yang lalu, mod Flashlight, terdeteksi bahwa telah dihack; yang menyebabkan tercegahnya layar permainan menjadi gelap di klien yang telah dihack. Dari situ, Flashlight <span style="text-decoration:underline;">tidak</span> dicabut sepenuhnya, namun pengunggahan skor untuk penggunaan mod Flashlight pun ditutup (unranked). Untungnya, kini kasus tersebut sudah tidak terjadi lagi! \\:D/
 
 Apabila kamu ingin tahu lebih lanjut, rujuklah kedua thread forum berikut:
@@ -214,7 +202,6 @@ Mod yang terdaftar dibawah tidak dapat digunakan bersamaan dengan mod lain, deng
 
 ### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
 
-  
 ***Pengali skor: 1,00 (Unranked)***
 
 EN: ***<osu!> "You don't need to click.
@@ -245,7 +232,6 @@ Di mode [Catch The Beat](ID:Catch_The_Beat "wikilink"), mod ini memperbolehkan k
 
 ### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
 
-  
 ***Pengali skor: 1,00 (Unranked, khusus osu)***
 
 EN: ***"Automatic cursor movement - just follow the rhythm.
@@ -260,7 +246,6 @@ Auto Pilot tidak tersedia di mode lain.
 
 ### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
 
-  
 ***Pengali skor: 0,9 (khusus osu!)***
 
 EN: ***"Spinners will be automatically completed"***
@@ -273,7 +258,6 @@ Spun Out tidak tersedia di mode lain
 
 ### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
 
-  
 EN: ***"Watch a perfect automated play through the song"***
 
 ID: ***"Tonton permainan sempurna yang berjalan secara otomatis."***
@@ -288,14 +272,12 @@ Di mode [Catch The Beat](ID:Catch_The_Beat "wikilink"), mod ini akan menyelesaik
 
 <img src="GM_Cinema_comp.jpg" title="Perbedaan mod Auto dan Cinema" alt="Perbedaan mod Auto dan Cinema" width="200" />
 
-  
 ***Klik mod Auto lagi untuk mengaktifkan mod Cinema***
 
 Mod ini hanya akan menampilkan **latar belakang, video, dan storyboard** tanpa objek gameplay. Kamu bisa menggunakan Double Time/Nightcore/Half Time, dan kamu masih bisa mendengar hitsound dari tingkat kesulitan beatmap yang dipilih. Layar hasil dan komentar pengguna dinonaktifkan. Keredupan Latar Belakang diatur ke 0%, dan Video Latar Belakang dan Storyboard akan diaktifkan bila mod ini tengah berjalan.
 
 ### xK
 
-  
 ***Pengali skor: 0,66 ~ 1,0 (khusus osu!mnania)***
 
 Mod ini akan memaksa seluruh tingkat kesulitan beatmap untuk menggunakan pengaturan K (jumlah tombol/key) terpilih, mengabaikan pengaturan K yang terdapat pada tingkat kesulitan beatmap yang mengakibatkan adanya pengurangan skor maksimal.
@@ -310,7 +292,6 @@ Pengali skor hanya diterapkan pada beberapa kondisi: **Tabel ini hanya berlaku p
 
 <img src="GM COOP2.jpg" title="fig:Perbedaan antara asli {Atas} dan Co-Op {Bawah} untuk tingkat kesulitan nonspesifik." alt="Perbedaan antara asli {Atas} dan Co-Op {Bawah} untuk tingkat kesulitan nonspesifik." width="100" /> <img src="GM COOP.jpg" title="fig:Perbedaan antara asli {Atas} dan Co-Op {Bawah} untuk tingkat kesulitan beatmap spesifik osu!mania." alt="Perbedaan antara asli {Atas} dan Co-Op {Bawah} untuk tingkat kesulitan beatmap spesifik osu!mania." width="200" />
 
-  
 ***Pengali skor: 0,70 ~ 1,00 (khusus osu!mania)***
 
 [Mod ini diperkenalkan pada tanggal 5 Maret 2015.](http://osu.ppy.sh/p/changelog?v=b20150305). Mod ini menampilkan playfield kedua dengan kontrol yang berbeda berdasarkan jumlah key yang sedang dimainkan (7K -&gt; 7K + 7K). Untuk beatmap spesifik osu!mania, jumlah keynya dibagi 2 (7K -&gt; 4K + 3K). Ini berarti sangat mungkin untuk bermain dengan jumlah 18 key'' (9K \[mod\] -&gt; 9K + 9K, hanya untuk beatmap nonspesifik).
@@ -406,7 +387,6 @@ Pengali skor hanya diterapkan pada kondisi berikut:
 
 <img src="GM Random.jpg" title="Efek dari mod Random" alt="Efek dari mod Random" width="300" />
 
-  
 ***Pengali skor: 1,00 (Unranked, khusus osu!mania)***
 
 Mod ini hanya akan **mengubah peletakan not**. Mod ini tidak mempengaruhi timing dan tidak akan mengacak tiap kali mod ini digunakan. Harap perhatikan bahwa suatu pola not akan berubah menjadi lebih mudah atau lebih sulit, seperti yang terlihat pada gambar disamping.
@@ -423,7 +403,6 @@ Mod Spesial
 
 <img src="GM_TP.jpg" title="Perbedaan antara aslinya dengan Target Practics" alt="Perbedaan antara aslinya dengan Target Practics" width="300" />
 
-  
 ***Pengali skor: 1,00 (Unranked, khusus osu!)***
 
 Mainkan permainan "Target Practice" yang sederhana dan konsisten. Timing sangat memengaruhi skor yang akan didapat (pengetukan sempurna bernilai 300). Kecepatan dari permainan ini dipengaruhi oleh BPM dan semakin dekat penghujung map, semakin jauh pula jarak diantara tiap sasaran. Permainan akan berakhir apabila kamu gagal mengenai salah satu targetnya (seperti mod Sudden Death namun setelah gagal kamu akan beralih ke layar hasil).

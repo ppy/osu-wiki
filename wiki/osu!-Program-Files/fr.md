@@ -130,4 +130,3 @@ Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont s
 
 -   ![Logo](logo.png "Logo") osu!.exe (Démarre osu!)
 
-

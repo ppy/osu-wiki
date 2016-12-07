@@ -113,7 +113,6 @@ Participants
 | ![](/wiki/shared/flag/Dk.gif) Denmark   | **[Jole](//osu.ppy.sh/u/2883132)**, [Ramena](//osu.ppy.sh/u/1245964), [Crowii](//osu.ppy.sh/u/3795152), [mart732c](//osu.ppy.sh/u/4402263), [Oriba Hoi](//osu.ppy.sh/u/7129731)                                                     |
 | ![](/wiki/shared/flag/Mx.gif) Mexico    | **[\_Mytros\_](//osu.ppy.sh/u/6507028)**, [Pollo184](//osu.ppy.sh/u/3350481), [Chizuru-](//osu.ppy.sh/u/4301301), [ShaddBladex](//osu.ppy.sh/u/2530995)                                                                             |
 
-
 ------------------------------------------------------------------------
 
 Mappools

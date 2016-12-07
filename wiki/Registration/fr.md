@@ -1,7 +1,6 @@
 Comment s'inscrire?
 -------------------
 
-  
 S'inscrire sur osu! est une chose très simple, en deux ou trois étapes c'est fini.
 
 Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création de votre compte, votre inscription sera annulée.
@@ -18,11 +17,10 @@ Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création 
 
 | <b>Légende</b>                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Username</b> - Votre pseudo sur osu!. Choisissez bien ! Vous ne pouvez changer de pseudo qu'<b>une fois</b> si vous avez un [supporter tag](FR:Osu!supporter "wikilink").                                     
-                                                                                                                                                                                                                      
-                                                                                                                                                                                                                      
- a. Maximum de 15 caractères                                                                                                                                                                                          
-                                                                                                                                                                                                                      
+| 1. <b>Username</b> - Votre pseudo sur osu!. Choisissez bien ! Vous ne pouvez changer de pseudo qu'<b>une fois</b> si vous avez un [supporter tag](FR:Osu!supporter "wikilink").  
+
+ a. Maximum de 15 caractères  
+
  b. Seuls les caractères alphanumériques ("a-z, A-Z, 0-9"), les underscores ("\_"), les crochets, ("\[" et "\]") et les tirets ("-") sont acceptés.                                                                   |
 | 2.<b> E-mail Address</b> - Elle sera utilisée dans le cas où vous perdez votre compte, ou à d'autres occasions. Ne l'oubliez pas.                                                                                   |
 | 3. <b>Password</b> - Votre mot de passe que personne ne doit en aucun cas connaître.                                                                                                                                |
@@ -37,9 +35,8 @@ Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création 
 
 | <b>Légende</b>                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------|
-| 1. **Icône du jeu** - Lancez osu! en double-cliquant sur l'icône.                                                            
-                                                                                                                               
-                                                                                                                               
+| 1. **Icône du jeu** - Lancez osu! en double-cliquant sur l'icône.  
+
  <i>Note: Vous n'avez pas besoin de lancer osu! en mode administrateur. Vous serez invité à le faire si osu! en a besoin.</i>  |
 | 2. **Panel d'utilisateur** - Cliquez dessus pour vous connecter ou vous déconnecter                                          |
 | 3. **Fenêtre de connexion** - Écrivez le pseudo et le mot de passe que vous avez entrés plus tôt et cliquez sur "Connexion"  |

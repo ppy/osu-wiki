@@ -223,7 +223,6 @@
 哪裡能找到譜面？
 ----------------
 
-  
 ''關於譜面的詳細解釋位於條目[譜面中](HK:Beatmaps "wikilink")。 ''
 
 你可以在主頁上的"[Beatmaps](http://osu.ppy.sh/p/beatmaplist)" 中進行搜索。

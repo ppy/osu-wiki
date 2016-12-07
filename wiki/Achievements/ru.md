@@ -26,14 +26,12 @@
 -   У некоторых карт *может* быть сбит [тайминг](RU:Timing "wikilink"), поэтому Вам может понадобиться [мод Easy](RU:Game_Modifiers#Easy "wikilink") или настройка оффсета с помощью клавиш +/- (во время игры).
 -   Архивы были обновлены Stefan'ом в январе 2016 года, с оригинальными версиями [можно ознакомиться здесь](RU:Achievements/Packs0916 "wikilink").
 
-
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
 | ![Video Game Pack vol.1](all-packs-gamer-1.png "Video Game Pack vol.1") | ![Anime Pack vol.1](all-packs-anime-1.png "Anime Pack vol.1") | ![Internet Pack vol.1](all-packs-internet-1.png "Internet Pack vol.1") | ![Rhythm Pack vol.1](all-packs-rhythm-1.png "Rhythm Pack vol.1") |
 | ![Video Game Pack vol.2](all-packs-gamer-2.png "Video Game Pack vol.2") | ![Anime Pack vol.2](all-packs-anime-2.png "Anime Pack vol.2") | ![Internet Pack vol.2](all-packs-internet-2.png "Internet Pack vol.2") | ![Rhythm Pack vol.2](all-packs-rhythm-2.png "Rhythm Pack vol.2") |
 | ![Video Game Pack vol.3](all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](all-packs-rhythm-4.png "Rhythm Pack vol.4") |
-
 
 Комбо (Combo)
 =============
@@ -60,7 +58,6 @@
 | ![15,000 Plays (osu! mode)](osu-plays-15000.png "15,000 Plays (osu! mode)") | ![300,000 Drum Hits](taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](mania-hits-400000.png "400,000 Keys") |
 | ![25,000 Plays (osu! mode)](osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu! mode)](osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](mania-hits-40000000.png "40,000,000 Keys") |
-
 
 Секретные (Hush-Hush)
 =====================

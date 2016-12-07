@@ -59,5 +59,4 @@
 | [![]("//w.ppy.sh/a/ac/Academy_32.png")]("//www.youtube.com/watch?v=wa_hNegtBw0" "Эпизод 32")   | В этом эпизоде мы расскажем о новой системе ранкинга!                                    |
 | [![]("//w.ppy.sh/a/ac/Academy_33.png")]("//www.youtube.com/watch?v=_-Xke2bqzok" "Эпизод 33")   | В этом эпизоде мы узнаем ещё больше возможностей эдитора!                                |
 
-
 <Category:Russian>

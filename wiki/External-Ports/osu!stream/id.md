@@ -124,7 +124,6 @@ Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar 
 Song list
 ---------
 
-  
 ***Buka [laman ini untuk daftar lagunya](ID:Osu!stream/Song_list "wikilink")***.
 
 Penilaian

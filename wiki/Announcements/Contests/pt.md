@@ -26,7 +26,6 @@ Competição Mensal de Fanart
 
 **Observação:** Os dois vencedores (Escolha do publico e escolha da staff) ganham um ano de supporter tag, um e um . Vice-campeões ganham um mês de supporter tag. Você pode ver a galeria de cada competição na [pagina do grupo do facebook.](http://www.facebook.com/osugame)
 
-
 ### Pippi, the osu! mascot!
 
 -    [Resultados](//osu.ppy.sh/news/86373762103)

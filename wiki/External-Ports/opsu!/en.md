@@ -10,10 +10,8 @@ opsu! runs on Windows, OS X, and Linux platforms. A [libGDX](https://github.com/
 Releases
 --------
 
-  
 ***[Please refer to the official website release notes (itdelatrisu).](https://github.com/itdelatrisu/opsu/releases/)***
 
-  
 ***[Alternatively, Android's port official website release notes (fluddokt).](https://github.com/fluddokt/opsu/releases/)***
 
 Installation

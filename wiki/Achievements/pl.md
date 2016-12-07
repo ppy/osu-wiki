@@ -14,29 +14,29 @@ Obecnie mamy 16 osiągnięć w tej grupie, które są podzielone na 4 sekcje:
 
 Każda z tych sekcji ma obecnie po 4 zestawy.
 
-### Wymagania i uwagi dotyczące zdobywania tych osiągnięć.                                                                                                                                     
+### Wymagania i uwagi dotyczące zdobywania tych osiągnięć.  
 
-#### Wymagania:                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                        
- -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t).                                                       
- -   Trybem musi być [osu!standard](PL:Standard "wikilink").                                                                                                                                                                                            
- -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!                                                                                                                                                      
-     -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.                                                      
-     -   Możesz także pobierać każdą beatmapę oddzielnie i nadal będzie się to liczyło.                                                                                                                                                                 
- -   Inne wersje tej samej piosenki nie będą liczone. MUSI być to specyficzna piosenka zmapowana przez specyficzną osobę.                                                                                                                               
- -   Musisz być zalogowany w grze. Zalogowanie na stronie, ale nie w grze nie będzie liczone.                                                                                                                                                           
- -   Nie można używać modyfikatorów rozgrywki które powodują że rozgrywka jest nierankingowa (na przykład Relax). Używaj innych modyfikatorów jak chcesz.                                                                                               
-                                                                                                                                                                                                                                                        
-#### Uwagi:                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                        
- -   Po ukończeniu osiągnięcia, możesz skasować osiągnięcia danej paczki. Twoje osiągnięcie oraz wynik zostaną. Jeżeli chcesz poprawić swój wynik, będzie trzeba pobrać beatmapę od początku.                                                           
- -   Jeżeli dziwisz się dlaczego osiągnięcie nie zostało otrzymane i czujesz że jakaś beatmapa została przez ciebie pominięta, możesz to sprawdzić [tutaj](http://osu.ppy.sh/p/packlist?t=t). Ukończona beatmapa będzie oznaczona napisem **CLEARED**.  
- -   Osiągnięcie otrzymasz dopiero po ukończenie wszystkich beatmap z paczki.                                                                                                                                                                           
-     -   Wpierw zaczekaj aż twój wynik zostanie zatwierdzony. Chyba nie chcesz powtarzać tej samej beatmapy, prawda?                                                                                                                                    
- -   Zaleca się używanie Kalibratora Opóźnienia. Beatmapy są stare i część obiektów może pojawiać się za wcześnie lub za późno.                                                                                                                         
-                                                                                                                                                                                                                                                        
- #### Specjalne:                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                        
+#### Wymagania:  
+
+ -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t).
+ -   Trybem musi być [osu!standard](PL:Standard "wikilink").
+ -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!
+     -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.
+     -   Możesz także pobierać każdą beatmapę oddzielnie i nadal będzie się to liczyło.
+ -   Inne wersje tej samej piosenki nie będą liczone. MUSI być to specyficzna piosenka zmapowana przez specyficzną osobę.
+ -   Musisz być zalogowany w grze. Zalogowanie na stronie, ale nie w grze nie będzie liczone.
+ -   Nie można używać modyfikatorów rozgrywki które powodują że rozgrywka jest nierankingowa (na przykład Relax). Używaj innych modyfikatorów jak chcesz.
+
+#### Uwagi:  
+
+ -   Po ukończeniu osiągnięcia, możesz skasować osiągnięcia danej paczki. Twoje osiągnięcie oraz wynik zostaną. Jeżeli chcesz poprawić swój wynik, będzie trzeba pobrać beatmapę od początku.
+ -   Jeżeli dziwisz się dlaczego osiągnięcie nie zostało otrzymane i czujesz że jakaś beatmapa została przez ciebie pominięta, możesz to sprawdzić [tutaj](http://osu.ppy.sh/p/packlist?t=t). Ukończona beatmapa będzie oznaczona napisem **CLEARED**.
+ -   Osiągnięcie otrzymasz dopiero po ukończenie wszystkich beatmap z paczki.
+     -   Wpierw zaczekaj aż twój wynik zostanie zatwierdzony. Chyba nie chcesz powtarzać tej samej beatmapy, prawda?
+ -   Zaleca się używanie Kalibratora Opóźnienia. Beatmapy są stare i część obiektów może pojawiać się za wcześnie lub za późno.
+
+#### Specjalne:  
+
  -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Achievements/Packs0916 "wikilink")                                                                                                                                                |
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -45,7 +45,6 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 | ![Video Game Pack vol.2](all-packs-gamer-2.png "Video Game Pack vol.2") | ![Anime Pack vol.2](all-packs-anime-2.png "Anime Pack vol.2") | ![Internet Pack vol.2](all-packs-internet-2.png "Internet Pack vol.2") | ![Rhythm Pack vol.2](all-packs-rhythm-2.png "Rhythm Pack vol.2") |
 | ![Video Game Pack vol.3](all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](all-packs-rhythm-4.png "Rhythm Pack vol.4") |
-
 
 Skill
 =====

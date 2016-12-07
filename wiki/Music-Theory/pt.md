@@ -89,4 +89,3 @@ Chances are you’re mapping it wrong then.
 
 If you really want to overmap something due to difficulty/fun reasons (the most common excuse) then make sure that there is not some other way to map the notes correctly (like using a repeating slider). Mapping a 1/6 snap roll with a 1/4 or 1/8 repeating slider is just plain <u>wrong</u>. They all play identically, and the only difference is how it sounds and the impact on the score.
 
-

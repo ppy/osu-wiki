@@ -85,7 +85,6 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 | \#2     | [Bomfunk MC's - Freestyler (Lesjuh)](//osu.ppy.sh/s/35629)    |
 | \#3     | [07th Expansion - Final Answer (gowww)](//osu.ppy.sh/s/26226) |
 
-
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2011)
 -    DL Paket:

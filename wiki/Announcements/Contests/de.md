@@ -19,7 +19,6 @@ Monatliches Mapping Wettbewerb
 | \#9        | [Furries in a Blender - Storm World](//osu.ppy.sh/s/319473)     | ![osu!taiko](Taiko.gif)  | [Firce777](//osu.ppy.sh/u/274072)    | [Ergebnis](//osu.ppy.sh/news/122549062138)                                       | [Score #9](//osu.ppy.sh/p/contestresults?c=18) |
 | \#10       | [Hylian Lemon - Foresight Is for Losers]()                      | ![osu!catch](Ctb.gif)    | [Winner]()                           | [Ergebnis]()                                                                     | [Score #10]()                                       |
 
-
 Monatliches Fanart Wettbewerb
 -----------------------------
 

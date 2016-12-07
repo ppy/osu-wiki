@@ -45,7 +45,6 @@ Organisateurs
 | Commentaires              | ![](/wiki/shared/flag/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](/wiki/shared/flag/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](/wiki/shared/flag/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
 | Statistiques              | ![](/wiki/shared/flag/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
-
 Retransmission des matchs
 =========================
 
@@ -553,7 +552,6 @@ Organisation des phases
 | Finales (semaine 1) | O et AB, AC, AD, AE       |
 | Finales (semaine 2) | P, Q                      |
 
-  
 3. Conditions de victoire :
 
 :\* 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),

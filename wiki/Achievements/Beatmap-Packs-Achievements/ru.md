@@ -26,7 +26,7 @@
 * [Hirano Aya - Hare Hare Yukai](http://osu.ppy.sh/s/301)
 * [Access - Doubt & Trust](http://osu.ppy.sh/s/442)
 * [Pokemon - Pokerap](http://osu.ppy.sh/s/551)
-* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584) 
+* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584)
 * [Manzo - My-Pace Daiou](http://osu.ppy.sh/s/842)
 * [Younha - Houkiboshi](http://osu.ppy.sh/s/897)
 * [Miwako Okuda - Shizuku](http://osu.ppy.sh/s/1005)
@@ -97,8 +97,6 @@
 * [The Delgados - The Light Before We Land](http://osu.ppy.sh/s/14694)
 * [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](http://osu.ppy.sh/s/16252)
 * [DOMINO - U Can Do It! (TV Size)](http://osu.ppy.sh/s/21197)
-
-
 
 ## Internet Pack
 
@@ -183,8 +181,6 @@
 * [Hatsune Miku - Nico Nico Messe no Uta](http://osu.ppy.sh/s/17145)
 * [yamas03 - bloomin' octagon](http://osu.ppy.sh/s/17217)
 * [8corporation - The Ultimate Trololo Mashup](http://osu.ppy.sh/s/17724)
-
-
 
 ## Rhythm Game Music Pack
 
@@ -271,7 +267,6 @@
 * [ORANGE RANGE - O2 (Taiko Cut)](http://osu.ppy.sh/s/18492)
 * [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~](http://osu.ppy.sh/s/19809)
 * [M2U - Memory of Beach](http://osu.ppy.sh/s/22401)
-
 
 ## Video Game Music Pack
 

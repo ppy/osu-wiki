@@ -7,7 +7,6 @@ Utilizzo
 
 Posiziona il template sopra alla pagina/sezione:
 
-  
     {{Update/IT}}
 
 <noinclude></noinclude>
