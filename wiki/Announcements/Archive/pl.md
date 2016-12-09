@@ -1,3 +1,6 @@
+Archiwum ogłoszeń
+==================
+
 W tym artykule jest wymieniona większość (jak nie wszystkie) ogłoszeń ze świata osu!.
 
 osu!weekly
@@ -119,7 +122,7 @@ Listy
 Turnieje
 --------
 
-  
+
 ***[Osobny artykuł](PL:Tournaments "wikilink")***
 
 -   [Rezultat Mistrzostw Świata w Taiko 2016! (osu!weekly \#58)](//osu.ppy.sh/news/143474255578)
@@ -148,7 +151,7 @@ Turnieje
 Comiesięczny konkurs mapowania
 ------------------------------
 
-  
+
 ***[Osobny artykuł](PL:Contests#Monthly_Beatmapping_Contest "wikilink")***
 
 -   [Konkurs Mapowania \#12 (osu!)](//osu.ppy.sh/news/140452368663)
@@ -179,7 +182,7 @@ Comiesięczny konkurs mapowania
 Konkursy artystyczne
 --------------------
 
-  
+
 ***[Osobny artykuł](PL:Contests#Fanarty "wikilink")***
 
 -   [Plany beatmap osu! dostępne & Informacje dot. konkursu](//osu.ppy.sh/news/114095906408)
@@ -198,7 +201,7 @@ Konkursy artystyczne
 Prezentacje
 -----------
 
-  
+
 ***[Pełny artykuł](PL:Showcases "wikilink")***
 
 -   [Prezentacja tła \#2](//osu.ppy.sh/news/143359597258)
@@ -220,7 +223,7 @@ Inne
 
 ### Najlepsze mapy roku
 
-  
+
 ***[Osobny artykuł](PL:Showcases#Seria_.E2.80.9EBest_of.E2.80.9D "wikilink")***
 
 -   [Najlepsze mapy 2015: Rezultat](//osu.ppy.sh/news/138781453998)
@@ -237,7 +240,7 @@ Inne
 
 ### osu!monthly
 
-  
+
 **Porzucone!**
 
 Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące mapowania, sekcję gamingową i konkursy. [Oficjalny Twitter](//twitter.com/osumonthly)

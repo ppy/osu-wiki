@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="logotipo do osu!talk" alt="logotipo do osu!talk" width="300" />
-
-Introdução
+osu!talk
 ==========
 
-Canal Oficial do YouTube: <http://www.youtube.com/user/osuacademy/videos>
-Fórum Oficial: <http://osu.ppy.sh/forum/t/225111>
+![osu!talk logo](Osu!talk.png "osu!talk logo")
+
+Introdução
+-----------
+
+Canal Oficial do YouTube: http://www.youtube.com/user/osuacademy/videos
+Fórum Oficial: http://osu.ppy.sh/forum/t/225111
 **osu!talk** é uma serie de áudio digital apresentada por [ztrot](http://osu.ppy.sh/u/ztrot), e [deadbeat](http://osu.ppy.sh/u/deadbeat) como co-apresentador. A série tem como foco entrevistar varias pessoas da comunidade do osu!. Porém algumas vezes arranjam uma discussão em grupo sobre coisas diferentes acontecendo pela comunidade como mudanças na staff, ou problemas a longo prazo discutidos frequentemente como overmapping. A serie de áudio digital é feita de forma com que qualquer um possa se juntar a sessão e fazer perguntas durante o bloco "[Perguntas e Respostas](http://en.wikipedia.org/wiki/Q%26A)" do episódio.
 
 Episódios
-=========
+-----------
 
 | EP\#  | Entrevistas                                              | Profession                                   | [Link]                                                        |
 |-------|----------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
@@ -57,7 +60,7 @@ Episódios
 
 
 Discussões
-==========
+-----------
 
 | EP\# | Tópicos                                 | Entrevistas                                                                                                                                                                                                                 | [Link]                                        |
 |------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -76,7 +79,7 @@ Discussões
 
 
 Repescagens do Campeonato Mundial
-=================================
+---------------------------------
 
 ### Taiko World Cup 2015
 
@@ -98,7 +101,7 @@ Repescagens do Campeonato Mundial
 
 
 Especiais
-=========
+------------
 
 | EP\# | Events                          | Entrevistas                                                                                                                                                              | [Link]                                        |
 |------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -108,4 +111,4 @@ Especiais
 | #4   | Welcome back                    | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Link](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A         | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Link](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-[Category:History of osu!/PT](Category:History_of_osu!/PT "wikilink")
+<Category:History of osu!/PT>

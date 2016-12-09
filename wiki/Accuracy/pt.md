@@ -1,49 +1,57 @@
-Existem três tipos de precisão - \[1\] por precisão no [beatmap](PT:Beatmap "wikilink"), \[2\] precisão de geral do jogador, e \[3\] precisão de [pp](PT:pp "wikilink").
+Precisão
+=========
 
-Em termos simples, a precisão em beatmaps depende dos [pontos de acertos](PT:Score "wikilink") adquiridos, precisão geral do jogador depende da precisão de cada melhor pontuação online que é elegível para ganho de pp.
+Existem três tipos de precisão - [1] por precisão no [beatmap](/wiki/Beatmaps/pt.md), [2] precisão de geral do jogador, e [3] precisão de [pp](/wiki/Performance-Points/pt.md).
 
-\_\_TOC\_\_ Precisão é calculada pelas seguinte formulas:-
+Em termos simples, a precisão em beatmaps depende dos [pontos de acertos](/wiki/Score/pt.md) adquiridos, precisão geral do jogador depende da precisão de cada melhor pontuação online que é elegível para ganho de pp.
+
+Precisão é calculada pelas seguinte formulas:
 
 Modo Standard
 -------------
 
-Em [Standard](PT:Standard "wikilink"), precisão é calculada pela media de pontos adquiridas em cada nota por seu valor e dividindo pela quantidade máxima possível. Em outras palavras:-
+Em [Standard](/wiki/Game-Modes/Standard/pt.md), precisão é calculada pela media de pontos adquiridas em cada nota por seu valor e dividindo pela quantidade máxima possível. Em outras palavras:
 
-| *Variables* | Precisão = Pontos de Acertos Totais / (Numero de Acertos Totais * 300) |
-| ------------| ---------------------------------------------------------------------- |
-| Pontos de Acertos Totais | (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 300s * 300) |
-| Numero de Acertos Totais | (Numero de erros + Numero de 50's + Numero de 100's + Numero de 300's) |
+**Precisão = Pontos de Acertos Totais / (Numero de Acertos Totais * 300)**
+
+| Pontos de Acertos Totais | Numero de Acertos Totais |
+| ------------------------ | ----------------- |
+| (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 300s * 300) | (Numero de erros + Numero de 50's + Numero de 100's + Numero de 300's) |
 
 Para referencia: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
 Modo Taiko
 ----------
 
-No modo [Taiko](PT:Taiko "wikilink"), a precisão da musica é calculada pela soma da precisão de todas as notas divididas pelo numero de notas. Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um ERRO/RUIM (不可) como 0% (que quebra o combo). Drumrolls e spinners não influenciam na precisão.
+No modo [Taiko](/wiki/Game-Modes/Taiko/pt.md), a precisão da musica é calculada pela soma da precisão de todas as notas divididas pelo numero de notas. Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um ERRO/RUIM (不可) como 0% (que quebra o combo). Drumrolls e spinners não influenciam na precisão.
 
-| *Variables* | Precisão = Pontos totais de acertos / (Numero total de acertos * 300) |
-| ------------| --------------------------------------------------------------------- |
-| Pontos totais de acertos | (Numero de Erros * 0% + Numero de 100(BOM) * 50% + Numero de 300(ÓTIMO) * 100%) |
-| Numero total de acertos | (Numero de Erros + Numero de 100 + Numero de 300) |
+**Precisão = Pontos totais de acertos / (Numero total de acertos * 300)**
+
+| Pontos totais de acertos | Numero total de acertos |
+| ------------------------ | ----------------------- |
+| (Numero de Erros * 0% + Numero de 100(BOM) * 50% + Numero de 300(ÓTIMO) * 100%) | (Numero de Erros + Numero de 100 + Numero de 300) |
 
 Modo Catch the Beat
 -------------------
 
-Em [Catch the Beat](PT:Catch_the_Beat "wikilink"), a precisão da musica é calculada com o total de objetos coletados (spinners não contam) divididos pelo numero total de objetos (sem contar spinners); todas as frutas, gotas grandes e gotas pequenas tem o mesmo valor.
+Em [Catch the Beat](/wiki/Game-Modes/Catch-The-Beat/pt.md), a precisão da musica é calculada com o total de objetos coletados (spinners não contam) divididos pelo numero total de objetos (sem contar spinners); todas as frutas, gotas grandes e gotas pequenas tem o mesmo valor.
 
-| *Variables* | Precisão = Numero total de frutas coletadas / Numero total de frutas |
-| ------------| -------------------------------------------------------------------- |
-| Condição | "Bananas" (Frutas de Spinner) não contam. |
+**Precisão = Numero total de frutas coletadas / Numero total de frutas**
+
+| Condição |
+| ---------|
+| "Bananas" (Frutas de Spinner) não contam. |
 
 Modo osu!mania
 --------------
 
-A precisão é calculada de forma semelhante a \[\[standard deste modo.
+A precisão é calculada de forma semelhante a [[standard deste modo.
 
-| *Variables* | Precisão = Total de pontos de acertos / (Numero total de acertos * 300) |
-| ------------| ----------------------------------------------------------------------- |
-| Total de pontos de acertos | (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 200s * 200 + Numero de 300s * 300 + Numero de MAXes * 300) |
-| Numero total de acertos | (Numero de erros + Numero de 50s + Numero de 100s + Numero de 200s + Numero de 300s + Numero de MAXes) |
+**Precisão = Total de pontos de acertos / (Numero total de acertos * 300)**
+
+| Total de pontos de acertos | Numero total de acertos |
+| -------------------------- | ----------------------- |
+| (Numero de 50s * 50 + Numero de 100s * 100 + Numero de 200s * 200 + Numero de 300s * 300 + Numero de MAXes * 300) | (Numero de erros + Numero de 50s + Numero de 100s + Numero de 200s + Numero de 300s + Numero de MAXes) |
 
 Note que ambos MAX e 300 possuem valor máximo para calculo de precisão, apesar de que MAX ter maior valor em termos de pontuação se comparado a um 300.
 
@@ -52,7 +60,7 @@ Tela de Resultados
 
 ### Ranking
 
-  Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](PT:Score "wikilink").
+  Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](/wiki/Score/pt.md).
 
 ![Modo osu!](Accuracy_osu!_Small.jpg "Modo osu!") ![Modo Taiko](Accuracy_Taiko_Small.jpg "Modo Taiko")
 ![Modo Catch the Beat](Accuracy_CtB_Small.jpg "Modo Catch the Beat") ![Modo osu!mania](Accuracy_Mania_Small.jpg "Modo osu!mania")
@@ -64,12 +72,14 @@ Tela de Resultados
 ![Gráfico de Performance](Accuracy_TR.jpg "Gráfico de Performance")
 
 #### Precisão
+
 | Term | Meaning |
 | ---- | ------- |
 | Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](../Song-Setup/pt.md) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
 | Taxa de Instabilidade | **Este valor representa o quão consistentemente você cronometra seus acertos **, com números mais baixos sendo melhores (os melhores jogadores, muitas vezes obtém pontuação abaixo de 150). Note que isso é uma medição de consistência, e não de precisão, por isso, se você é consistente em acertar 15ms cedo, você poderá obter resultados semelhantes aos se você é consistente em bater no tempo. A fórmula é, essencialmente, o padrão de desvio dos seus erros de cronometragem (em milissegundos) multiplicado por 10. |
 
 #### Giro [apenas em standard]
+
 | Term | Meaning |
 | ---- | ------- |
 | Velocidade | **Velocidade media de giro em todo o spinner(s) no beatmap.** <br> Max é o rpm máximo (rotações por minuto) atingido em um dos spinners do beatmap. |
@@ -80,4 +90,4 @@ Tela de Resultados
 -   Os quatro valores acima não são guardados e desaparecerão depois de fechar osu!. Você só pode vê-los novamente assistindo um replay salvo.
 -   Devido à forma como os mods Double Time e Half Time são implementados, os valores de Erro e Taxa de Instabilidade serão multiplicados pelo mesmo fator que a musica. Para obter os valores reais quando jogar DT, divida os resultados por 1,5. Da mesma forma, multiplique os resultados por 1.33 ao jogar HT.
 
-<Category:Gameplay/PT> <Category:Taiko/PT> [Category:Catch The Beat/PT](Category:Catch_The_Beat/PT "wikilink") <Category:Osu!mania/PT> <Category:Osu!Standard/PT>
+<Category:Gameplay/PT><Category:Taiko/PT><Category:Catch The Beat/PT><Category:Osu!mania/PT> <Category:Osu!Standard/PT>

@@ -1,3 +1,6 @@
+Announcements archive
+======================
+
 This page is to be used to archive announcements for easy access
 
 osu!weekly
@@ -123,7 +126,7 @@ Ranking Charts
 Tournaments
 -----------
 
-  
+
 ***[Official wiki page.](Tournaments "wikilink")***
 
 -   [osu!mania 4K World Cup 2016 - Registrations now open!](//osu.ppy.sh/news/146609981558)
@@ -153,7 +156,7 @@ Tournaments
 Monthly Beatmapping Contest
 ---------------------------
 
-  
+
 ***[Official wiki page for results.](Contests#Monthly_Beatmapping_Contest "wikilink")***
 
 | Announcement                                                                                                                                                             | Results                                                                        |

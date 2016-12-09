@@ -1,3 +1,6 @@
+osu! Taiko World Cup 2015
+===============================
+
 ![TWC 2015 logo](logo.png)
 
 El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](//osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
@@ -5,7 +8,7 @@ El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizad
 El país campeón del torneo anterior es **![](/wiki/shared/flag/Jp.gif) Japón**.
 
 Agenda del Torneo
-=================
+--------------------
 
 | Event                                | Timestamp                |
 |--------------------------------------|--------------------------|
@@ -19,7 +22,7 @@ Agenda del Torneo
 | Finales (Semana 2)                   | 11-12 Abril 2015         |
 
 Premios
-=======
+----------
 
 | Placing                                                    | Prizes                                                                                                                                                      |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +31,7 @@ Premios
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
 Organización
-============
+--------------
 
 | Job                        | Person                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +44,7 @@ Organización
 ------------------------------------------------------------------------
 
 Links
-=====
+-----------
 
 -   [Tema de Discusion (Solo en inglés)](//osu.ppy.sh/forum/t/279723)
 -   [osu! Taiko World Cup 2015 en Twitch](//www.twitch.tv/osulive/)
@@ -49,20 +52,19 @@ Links
 ------------------------------------------------------------------------
 
 Set de Reglas
-=============
+--------------
 
-Reglas del Torneo
------------------
+### Reglas del Torneo
 
 1.  El osu! Taiko World Cup está basado en equipos por países.
 2.  Los beatmaps de cada fase serán elegidos por el **Seleccionador de Beatmaps** cada domingo antes de que la ronda a continuación tome lugar y solo podrán ser usados durante las respectivas fases.
     -   Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
-    -   En los beatmaps se usarán los mod [Hidden](ES:HD "wikilink"), [HardRock](ES:HR "wikilink"), [DoubleTime](ES:DT "wikilink") y FreeMod.
+    -   En los beatmaps se usarán los mod [Hidden](/wiki/Game-Modifiers/es.md), [HardRock](/wiki/Game-Modifiers/es.md), [DoubleTime](/wiki/Game-Modifiers/es.md) y FreeMod.
 
 3.  Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
 4.  Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).
 5.  Los jugadores que fallen su partida no contarán sus scores junto a su equipo.
-6.  El uso de [Visual Settings](ES:Visual_Settings "wikilink") en Opciones será permitido.
+6.  El uso de [Visual Settings](/wiki/Game-Modifiers/es.md) en Opciones será permitido.
 7.  Si el juego termina en empate podrá ser anulado.
 8.  Si un jugador se desconecta/abandona la partida, se contará como perdido.
 9.  Los beatmaps seleccionados para una partida no podrán ser usados para las siguientes partidas.
@@ -73,8 +75,7 @@ Reglas del Torneo
 14. Incidencias no especificadas serán tratadas con los **Administradores del Torneo**.
 15. Cualquier modificación a las reglas serán anunciadas.
 
-Registro en el Torneo
----------------------
+### Registro en el Torneo
 
 1.  El registro puede ser individual.
     1.  Esto para figurar y completar los equipos sean 3vs3 o 4vs4.
@@ -97,8 +98,7 @@ Registro en el Torneo
 5.  Todos los formatos completos podrán ser publicados despues de la Fase de Registro.
 6.  Los **Seleccionadores de Beatmaps** no podrán participar en este torneo.
 
-Instrucciones de Fases
-----------------------
+### Instrucciones de Fases
 
 1.  En la primera fase (Fase de grupos), los equipos serán divididos en 8 grupos de 4 equipos.
     1.  Esto podrá ser cambiado de acuerdo al total de equipos registrados.
@@ -106,9 +106,9 @@ Instrucciones de Fases
 2.  Todos los equipos de cada grupo se enfrentarán entre si.
 3.  El ranking de cada grupo será determinado por la organizacion de resultados por rendimiento de cada equipo siguiendo estas prioridades:
     1.  Mas partidas ganadas.
-    2.  Tenga mas `{(El` `numero` `de` `beatmaps` `ganados)` `-` `(El` `numero` `de` `beatmaps` `perdidos)}`.
+    2.  Tenga mas `{(El numero de beatmaps ganados) - (El numero de beatmaps perdidos)}`.
     3.  Mas mapas ganados
-    4.  Tener mas `∑{(Diferencia` `total` `de` `puntaje)` `/` `(Maximo` `puntaje)}`.
+    4.  Tener mas `∑{(Diferencia total de puntaje) / (Maximo puntaje)}`.
     5.  Ganador de la revancha
 
 4.  Los 2 equipos mas altos de cada grupo serán movidos a la fase de K.O.
@@ -133,8 +133,7 @@ Instrucciones de Fases
 
 \#\* En Semifinales y Finales, necesitas ganar en 6 beatmaps para ganar la partida (El mejor de 11)
 
-Instrucciones en las Partidas
------------------------------
+### Instrucciones en las Partidas
 
 1.  Un Referee podrá crear una sala Multiplayer 15 minutos antes y durante ese periodo deberán entrar los jugadores correspondientes.
     1.  Las configuraciones de la sala serán en Taiko, Modo: Equipo Vs. // Condicion para ganar: Puntaje, El nombre de la sala será **TWC 2015: TeamBlue vs TeamRed**
@@ -154,14 +153,13 @@ Instrucciones en las Partidas
 
 7.  Los resultados serán publicados en el sitio de Estadisticas.
 
-Instrucciones de Sorteo
------------------------
+### Instrucciones de Sorteo
 
 1.  Habrá una categoria para la Fase de Grupos, una para la ronda de 16avos, una para Cuartos de Final, una para Semifinales y una para Finales (Semana 1 & 2)
 
 <!-- -->
 
-1.  Cada categoría consiste de 5 mods: NoMod, [Hidden](ES:Hidden "wikilink"), [HardRock](ES:HardRock "wikilink"), [DoubleTime](ES:DoubleTime "wikilink") y modo Libre.
+1.  Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game-Modifiers/es.md), [HardRock](/wiki/Game-Modifiers/es.md), [DoubleTime](/wiki/Game-Modifiers/es.md) y modo Libre.
 2.  Cada categoría consiste de un total de 19 beatmaps
 3.  Cada categoría tendrá un beatmap para desempate
 4.  El NoMod se jugará sin mods activados.
@@ -176,8 +174,7 @@ Instrucciones de Sorteo
 8.  El limite total de jugadores NoMod en una partida es de 6.
 9.  El limite de un mod-especifico será de 3 minimo en todas las fases
 
-Instrucciones sobre Horarios
-----------------------------
+### Instrucciones sobre Horarios
 
 1.  Cada fase se hará en un **Fin de Semana**
 2.  Las partidas en Fase de Grupos podrán sobreponerse.
@@ -185,4 +182,4 @@ Instrucciones sobre Horarios
 4.  Los horarios serán asignados por los **Administradores del Torneo**, estos serán revelados los domingos antes de las primeras partidas de la fase en curso. Los **Administradores del Torneo** intentarán crear los horarios de acuerdo a los participantes y sus zonas horarias.
 5.  Los capitanes son responsables de la disponibilidad de sus equipos. La idea de tener 6 jugadores por equipos es para asegurar que cada equipo pueda tener al menos 3 jugadores por cada partida. Si un equipo no cuenta con 3 jugadores, la partida sera considerada perdida.
 
-<Category:Tournaments/ES> [Category:Official Tournaments/ES](Category:Official_Tournaments/ES "wikilink") [Category:Taiko Tournaments/ES](Category:Taiko_Tournaments/ES "wikilink") [Category:Taiko World Cup/ES](Category:Taiko_World_Cup/ES "wikilink")
+<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Taiko Tournaments/ES><Category:Taiko World Cup/ES>

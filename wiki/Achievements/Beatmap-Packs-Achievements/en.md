@@ -1,19 +1,23 @@
-***[Click here to return to the "Achievements" page](Achievements "wikilink")***
+Achievements/Packs0916
+=========================
+
+***[Click here to return to the "Achievements" page](/wiki/Achievements/en.md)***
 
 Legacy/Original themed packs packed during osu! infancy years (2009) before being updated by [Stefan in 16 January 2016](http://osu.ppy.sh/news/137535031193).
 
 
-## Trivia
+Trivia
+---------
 
 -   16 packs. (4 themes x 4 volumes)
     -   1 hour 20 minutes = 1 pack (Time estimation required to complete one beatmap pack)
--   [211 songs](Media:RH_Beatmap_packs.jpg "wikilink") (206 + [3](http://osu.ppy.sh/s/2490) ![](Heart.gif "fig:Heart.gif") ranked, 1 ![](Fire.gif "fig:Fire.gif") [approved](http://osu.ppy.sh/b/21010) and 1 [pending](http://osu.ppy.sh/b/19630))
--   [662 difficulties](Media:RH_Beatmap_packs_difficulties.jpg "wikilink") (660 ![](Heart.gif "fig:Heart.gif") ranked, 1 ![](Fire.gif "fig:Fire.gif") [approved](http://osu.ppy.sh/b/21010) and 1 [pending](http://osu.ppy.sh/b/19630))
--   [1.39 GB (zipped), 1.47 GB (imported)](Media:RH_Beatmap_packs_comparison.jpg "wikilink")
+-   [211 songs](Media:RH_Beatmap_packs.jpg) (206 + [3](http://osu.ppy.sh/s/2490) ![](Heart.gif "fig:Heart.gif") ranked, 1 ![](Fire.gif "fig:Fire.gif") [approved](http://osu.ppy.sh/b/21010) and 1 [pending](http://osu.ppy.sh/b/19630))
+-   [662 difficulties](Media:RH_Beatmap_packs_difficulties.jpg) (660 ![](Heart.gif "fig:Heart.gif") ranked, 1 ![](Fire.gif "fig:Fire.gif") [approved](http://osu.ppy.sh/b/21010) and 1 [pending](http://osu.ppy.sh/b/19630))
+-   [1.39 GB (zipped), 1.47 GB (imported)](Media:RH_Beatmap_packs_comparison.jpg)
 -   3 minutes 33 seconds. (Import time estimation of all 16 packs)
 
-
-## Anime Pack
+Anime Pack
+-----------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -27,7 +31,7 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [Hirano Aya - Hare Hare Yukai](http://osu.ppy.sh/s/301)
 * [Access - Doubt & Trust](http://osu.ppy.sh/s/442)
 * [Pokemon - Pokerap](http://osu.ppy.sh/s/551)
-* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584) 
+* [Hirano Aya (Haruhi Suzumiya) - God Knows](http://osu.ppy.sh/s/584)
 * [Manzo - My-Pace Daiou](http://osu.ppy.sh/s/842)
 * [Younha - Houkiboshi](http://osu.ppy.sh/s/897)
 * [Miwako Okuda - Shizuku](http://osu.ppy.sh/s/1005)
@@ -101,7 +105,8 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 
 
 
-## Internet Pack
+Internet Pack
+---------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -187,7 +192,8 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 
 
 
-## Rhythm Game Music Pack
+Rhythm Game Music Pack
+------------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -274,7 +280,8 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 * [M2U - Memory of Beach](http://osu.ppy.sh/s/22401)
 
 
-## Video Game Music Pack
+Video Game Music Pack
+-----------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -360,7 +367,7 @@ Legacy/Original themed packs packed during osu! infancy years (2009) before bein
 
 
 Special thanks
-==============
+---------------
 
 -   [Wayback Machine](http://archive.org/web/)
 

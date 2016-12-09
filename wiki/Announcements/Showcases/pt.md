@@ -1,48 +1,51 @@
+Torneios/Apresentações
+==========================
+
 Uma pagina wiki dedicada a torneios oficiais. [para outros torneios visite esse forum.](http://osu.ppy.sh/forum/55)
 
 osu! World Cup
-==============
+-----------------
 
 osu! World Cup (ou Copa do Mundo de Osu!) é um torneio onde 4 representantes de cada país enfrentam 4 representantes de países rivais seguindo regras de eliminação. É um evento internacional e normalmente é feito uma vez por ano com as comunidades de osu! ao redor do mundo trabalhando junto pare fazer do torneio competitivo e divertido.
 
 Estilo de listagem `Nome` `da` `copa` `mundial` `(DD/MM/AAAA` `-` `DD/MM/AAAA)` `{1º,` `2º,` `3º}`
 
--   [osu! World Cup \#1](PT:Osu!_World_Cup/1 "wikilink") (inicio 31/01/2011 - fim 08/04/2011) {![](Tw.gif "fig:Tw.gif") Taiwan(\#1), ![](Nl.gif "fig:Nl.gif") Holanda(\#2), ![](Kr.gif "fig:Kr.gif") Coreia(\#3)}
--   [osu! World Cup \#2](PT:Osu!_World_Cup/2 "wikilink") (inicio 28/10/2011 - fim 24/03/2012) {![](Kr.gif "fig:Kr.gif") Coreia(\#1), ![](Jp.gif "fig:Jp.gif") Japão(\#2), ![](Br.gif "fig:Br.gif") Brasil(\#3)}
--   [osu! World Cup \#3](PT:Osu!_World_Cup/3 "wikilink") (inicio 25/10/2012 - fim 20/01/2013) {![](Kr.gif "fig:Kr.gif") Coreia(\#1), ![](Jp.gif "fig:Jp.gif") Japão(\#2), ![](Tw.gif "fig:Tw.gif") Taiwan(\#3)}
--   [osu! World Cup 2013](PT:Osu_World_Cup_2013 "wikilink") (inicio 15/10/2013 - fim 08/12/2013) {![](Kr.gif "fig:Kr.gif") Coreia(\#1), ![](Tw.gif "fig:Tw.gif") Taiwan(\#2), ![](Pl.gif "fig:Pl.gif") Polônia(\#3)}
--   [osu! World Cup 2014‎](PT:Osu!_World_Cup_2014 "wikilink") (02/10/2014 - 14/12/2014) {![](Jp.gif "fig:Jp.gif") Japão, ![](Pl.gif "fig:Pl.gif") Polônia, ![](De.gif "fig:De.gif") Alemanha}
+-   [osu! World Cup \#1](PT:Osu!_World_Cup/1 "wikilink") (inicio 31/01/2011 - fim 08/04/2011) {![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#1), ![](/wiki/shared/flag/Nl.gif "https://Nl.gif") Holanda(\#2), ![](/wiki/shared/flag/Kr.gif "https://Kr.gif") Coreia(\#3)}
+-   [osu! World Cup \#2](PT:Osu!_World_Cup/2 "wikilink") (inicio 28/10/2011 - fim 24/03/2012) {![](/wiki/shared/flag/Kr.gif "https://Kr.gif") Coreia(\#1), ![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão(\#2), ![](/wiki/shared/flag/Br.gif "https://Br.gif") Brasil(\#3)}
+-   [osu! World Cup \#3](PT:Osu!_World_Cup/3 "wikilink") (inicio 25/10/2012 - fim 20/01/2013) {![](/wiki/shared/flag/Kr.gif "https://Kr.gif") Coreia(\#1), ![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão(\#2), ![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#3)}
+-   [osu! World Cup 2013](PT:Osu_World_Cup_2013 "wikilink") (inicio 15/10/2013 - fim 08/12/2013) {![](/wiki/shared/flag/Kr.gif "https://Kr.gif") Coreia(\#1), ![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#2), ![](/wiki/shared/flag/Pl.gif "https://Pl.gif") Polônia(\#3)}
+-   [osu! World Cup 2014‎](PT:Osu!_World_Cup_2014 "wikilink") (02/10/2014 - 14/12/2014) {![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão, ![](/wiki/shared/flag/Pl.gif "https://Pl.gif") Polônia, ![](/wiki/shared/flag/De.gif "https://De.gif") Alemanha}
 -   [osu! World Cup 2015‎](PT:Osu!_World_Cup_2015 "wikilink")
 
 Taiko World Cup
-===============
+---------------
 
--   Taiko World Cup 2011 (12/03/2011 - 29/04/2011) {![](Tw.gif "fig:Tw.gif") Taiwan(\#1), ![](Jp.gif "fig:Jp.gif") Japão(\#2), ![](Cn.gif "fig:Cn.gif") China(\#3)}
--   Taiko World Cup 2012 (03/02/2012 - 01/04/2012) {![](Jp.gif "fig:Jp.gif") Japão A(\#1), ![](Hk.gif "fig:Hk.gif") Hong Kong A(\#2), ![](Jp.gif "fig:Jp.gif") Japão B(\#3)}
--   Taiko World Cup \#3 (22/09/2012 - 24/03/2013) {![](Tw.gif "fig:Tw.gif") Taiwan A(\#1), ![](Hk.gif "fig:Hk.gif") Hong Kong A(\#2),![](Jp.gif "fig:Jp.gif") Japão A(\#3)}
--   [PT:Taiko World Cup 2014](PT:Taiko_World_Cup_2014 "wikilink") (15/01/2014 - 09/03/2014) {![](Jp.gif "fig:Jp.gif") Japão, ![](Hk.gif "fig:Hk.gif") Hong Kong, ![](Fr.gif "fig:Fr.gif") França}
--   [PT:Taiko World Cup 2015](PT:Taiko_World_Cup_2015 "wikilink") (12/01/2015 - 12/04/2015) {![](Jp.gif "fig:Jp.gif") Japão, ![](Tw.gif "fig:Tw.gif") Taiwan, ![](Fr.gif "fig:Fr.gif") França}
+-   Taiko World Cup 2011 (12/03/2011 - 29/04/2011) {![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#1), ![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão(\#2), ![](/wiki/shared/flag/Cn.gif "https://Cn.gif") China(\#3)}
+-   Taiko World Cup 2012 (03/02/2012 - 01/04/2012) {![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão A(\#1), ![](/wiki/shared/flag/Hk.gif "https://Hk.gif") Hong Kong A(\#2), ![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão B(\#3)}
+-   Taiko World Cup \#3 (22/09/2012 - 24/03/2013) {![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan A(\#1), ![](/wiki/shared/flag/Hk.gif "https://Hk.gif") Hong Kong A(\#2),![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão A(\#3)}
+-   [PT:Taiko World Cup 2014](PT:Taiko_World_Cup_2014 "wikilink") (15/01/2014 - 09/03/2014) {![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão, ![](/wiki/shared/flag/Hk.gif "https://Hk.gif") Hong Kong, ![](/wiki/shared/flag/Fr.gif "https://Fr.gif") França}
+-   [PT:Taiko World Cup 2015](PT:Taiko_World_Cup_2015 "wikilink") (12/01/2015 - 12/04/2015) {![](/wiki/shared/flag/Jp.gif "https://Jp.gif") Japão, ![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan, ![](/wiki/shared/flag/Fr.gif "https://Fr.gif") França}
 
 Catch the Beat World Cup
-========================
+--------------------------
 
--   Catch the beat World Cup 2012 (05/11/2011 - 02/05/2012) {![](Cn.gif "fig:Cn.gif") China(\#1), ![](Tw.gif "fig:Tw.gif") Taiwan(\#2), ![](cl.gif "fig:cl.gif") Chile(\#3)}
--   Catch the beat World Cup 2013 (15/01/2013 - 10/03/2013) {![](cl.gif "fig:cl.gif") Chile(\#1), ![](Tw.gif "fig:Tw.gif") Taiwan(\#2), ![](ar.gif "fig:ar.gif") Arg/Col(\#3)}
--   [Catch the Beat World Cup 2014](PT:Catch_the_Beat_World_Cup_2014 "wikilink") (11/04/2014 - 15/06/2014) {![](kr.gif "fig:kr.gif") Coreia do Sul, ![](De.gif "fig:De.gif") Alemanha, ![](Se.gif "fig:Se.gif") Suécia}
--   [Catch the Beat World Cup 2015](PT:Catch_the_Beat_World_Cup_2015 "wikilink") (02/04/2015 - 14/06/2015) {![](kr.gif "fig:kr.gif") Coreia do Sul, ![](Cn.gif "fig:Cn.gif") China, ![](De.gif "fig:De.gif") Alemanha}
+-   Catch the beat World Cup 2012 (05/11/2011 - 02/05/2012) {![](/wiki/shared/flag/Cn.gif "https://Cn.gif") China(\#1), ![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#2), ![](/wiki/shared/flag/cl.gif "https://cl.gif") Chile(\#3)}
+-   Catch the beat World Cup 2013 (15/01/2013 - 10/03/2013) {![](/wiki/shared/flag/cl.gif "https://cl.gif") Chile(\#1), ![](/wiki/shared/flag/Tw.gif "https://Tw.gif") Taiwan(\#2), ![](/wiki/shared/flag/ar.gif "https://ar.gif") Arg/Col(\#3)}
+-   [Catch the Beat World Cup 2014](PT:Catch_the_Beat_World_Cup_2014 "wikilink") (11/04/2014 - 15/06/2014) {![](/wiki/shared/flag/kr.gif "https://kr.gif") Coreia do Sul, ![](/wiki/shared/flag/De.gif "https://De.gif") Alemanha, ![](/wiki/shared/flag/Se.gif "https://Se.gif") Suécia}
+-   [Catch the Beat World Cup 2015](PT:Catch_the_Beat_World_Cup_2015 "wikilink") (02/04/2015 - 14/06/2015) {![](/wiki/shared/flag/kr.gif "https://kr.gif") Coreia do Sul, ![](/wiki/shared/flag/Cn.gif "https://Cn.gif") China, ![](/wiki/shared/flag/De.gif "https://De.gif") Alemanha}
 
 osu!mania World Cup
-===================
+-----------------------
 
 -   [osu!mania World Cup 2014](PT:Osu!mania_World_Cup_2014 "wikilink") (01/07/2014 - 14/09/2014)
-    -   4K: {![](kr.gif "fig:kr.gif") Coreia do Sul, ![](Ph.gif "fig:Ph.gif") Filipinas, ![](My.gif "fig:My.gif") Malásia}
-        7K: {![](kr.gif "fig:kr.gif") Coreia do Sul, ![](Th.gif "fig:Th.gif") Tailândia, ![](My.gif "fig:My.gif") Malásia}
+    -   4K: {![](/wiki/shared/flag/kr.gif "https://kr.gif") Coreia do Sul, ![](/wiki/shared/flag/Ph.gif "https://Ph.gif") Filipinas, ![](/wiki/shared/flag/My.gif "https://My.gif") Malásia}
+        7K: {![](/wiki/shared/flag/kr.gif "https://kr.gif") Coreia do Sul, ![](/wiki/shared/flag/Th.gif "https://Th.gif") Tailândia, ![](/wiki/shared/flag/My.gif "https://My.gif") Malásia}
 -   osu!mania World Cup 2015
     -   [4K](PT:Osu!mania_4K_World_Cup_2015 "wikilink") (13/07/2015 - 27/09/2015)
     -   7K
 
 Premiações
-==========
+---------------
 
 | Placing | Premiações                                                                      |
 |---------|---------------------------------------------------------------------------------|
@@ -51,19 +54,18 @@ Premiações
 | \#3     | 1 mez de supporter para todos os membros do time                                |
 
 Veja também
-===========
+-----------------
 
--   [Lista de países que já participaram de torneios](PT:Countries_that_participated_in_osu!_tournaments "wikilink")
+-   [Lista de países que já participaram de torneios](/wiki/Countries-that-participated-in-osu!-tournaments/pt.md)
 
 Apresentações
-=============
+---------------
 
 Seção dedicada para apresentações e "Melhores de" temas.
 
-Apresentação de Skins
----------------------
+### Apresentação de Skins
 
-Fonte: <http://osu.ppy.sh/forum/t/166778>
+Fonte: http://osu.ppy.sh/forum/t/166778
 
 | Apresentação | Nome                                                                   | Criador                                     | Link de Novidades                                   | Link do Vídeo                                            |
 |--------------|------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
@@ -75,8 +77,7 @@ Fonte: <http://osu.ppy.sh/forum/t/166778>
 | \#6          | [NeOsu](http://osu.ppy.sh/forum/t/181489)                              | [OsuMe65](http://osu.ppy.sh/u/852867)       | [Novidades \#6](http://osu.ppy.sh/news/79496003745) | [Vídeo \#6](http://www.youtube.com/watch?v=Fa4T-AnyHHQ)  |
 | \#7          | [Catch the Beat Special](http://osu.ppy.sh/news/86623206423) (4 skins) | *Vários*                                    | [Novidades \#7](http://osu.ppy.sh/news/86623206423) | [Vídeo \#7](http://www.youtube.com/watch?v=DVVr2WQO5pQ)  |
 
-Apresentação de Storyboards
----------------------------
+### Apresentação de Storyboards
 
 Fonte: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
@@ -90,12 +91,11 @@ Fonte: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 | \#6          | [YUI - Sea (VanMoNky)](http://osu.ppy.sh/s/13021)                            | [VanMoNky](http://osu.ppy.sh/u/117865)   | [Novidades \#6](http://news.ppy.sh/post/72951293450/storyboard-showcase-yui-sea)                    | \[Vídeo \#6\]                                                                    |
 | \#7          | [Lia - Toki wo Kizamu Uta (kanpakyin)](http://osu.ppy.sh/s/35701)            | [JoJo](http://osu.ppy.sh/u/421286)       | [Novidades \#6](http://news.ppy.sh/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta)     | [Vídeo \#6](https://www.youtube.com/watch?feature=player_embedded&v=ZwYPDOutZPc) |
 
-Melhores dos temas
-------------------
+###Melhores dos temas
 
-### osu!standard
+#### osu!standard
 
-#### 2009 osu!standard
+##### 2009 osu!standard
 
 | Placing | 2009 Resultados                                                         |
 |---------|-------------------------------------------------------------------------|
@@ -115,7 +115,7 @@ Melhores dos temas
 -    [Novidades](//osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
 -    [Resultados](//osu.ppy.sh/forum/t/22162)
 
-#### 2010 osu!standard
+##### 2010 osu!standard
 
 | Placing | 2010 Resultados                                                                                                                               |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -135,7 +135,7 @@ Melhores dos temas
 -    [Novidades](//osu.ppy.sh/forum/t/42889)
 -    [Resultados](//osu.ppy.sh/forum/t/43834)
 
-#### 2011 osu!standard
+##### 2011 osu!standard
 
 | Placing | 2011 Resultados                                               |
 |---------|---------------------------------------------------------------|
@@ -155,7 +155,7 @@ Melhores dos temas
         -    [Part 2](//osu.yas-online.net/tagthis.php?tag=R45)
 -    [Resultados](//osu.ppy.sh/forum/t/71477)
 
-#### 2012 osu!standard
+##### 2012 osu!standard
 
 | Placing | 2012 Resultados                                                                                                              |
 |---------|------------------------------------------------------------------------------------------------------------------------------|
@@ -172,7 +172,7 @@ Melhores dos temas
 -    [Novidades](//osu.ppy.sh/forum/t/110066)
 -    [Resultados](//osu.ppy.sh/forum/t/113613)
 
-#### 2013 osu!standard
+##### 2013 osu!standard
 
 | Placing | 2013 Resultados                                                 |
 |---------|-----------------------------------------------------------------|
@@ -189,7 +189,7 @@ Melhores dos temas
 -    [Resultados #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Resultados #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!standard
+##### 2014 osu!standard
 
 | Placing | 2014 Resultados                                                                  |
 |---------|----------------------------------------------------------------------------------|
@@ -204,7 +204,7 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/109804193683)
 -    [Resultados #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!standard
+##### 2015 osu!standard
 
 | Placing | 2014 Resultados                                                              |
 |---------|------------------------------------------------------------------------------|
@@ -219,9 +219,9 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/138781453998)
 -    [Resultados #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!taiko
+#### osu!taiko
 
-#### 2013 osu!taiko
+##### 2013 osu!taiko
 
 | Placing | 2013 Resultados                                                                                                              |
 |---------|------------------------------------------------------------------------------------------------------------------------------|
@@ -238,7 +238,7 @@ Melhores dos temas
 -    [Resultados #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Resultados #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!taiko
+##### 2014 osu!taiko
 
 | Placing | 2014 Resultados                                                                        |
 |---------|----------------------------------------------------------------------------------------|
@@ -255,7 +255,7 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/109804193683)
 -    [Resultados #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!taiko
+##### 2015 osu!taiko
 
 | Placing | 2015 Resultados                                                              |
 |---------|------------------------------------------------------------------------------|
@@ -270,9 +270,9 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/138781453998)
 -    [Resultados #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!catch
+#### osu!catch
 
-#### 2013 osu!catch
+##### 2013 osu!catch
 
 | Placing | 2013 Resultados                                                      |
 |---------|----------------------------------------------------------------------|
@@ -289,7 +289,7 @@ Melhores dos temas
 -    [Resultados #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Resultados #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!catch
+##### 2014 osu!catch
 
 | Placing | 2014 Resultados                                                                  |
 |---------|----------------------------------------------------------------------------------|
@@ -306,7 +306,7 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/109804193683)
 -    [Resultados #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!catch
+##### 2015 osu!catch
 
 | Placing | 2015 Resultados                                                                                |
 |---------|------------------------------------------------------------------------------------------------|
@@ -321,9 +321,9 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/138781453998)
 -    [Resultados #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!mania
+#### osu!mania
 
-#### 2013 osu!mania
+##### 2013 osu!mania
 
 | Placing | 2013 Resultados                                                      |
 |---------|----------------------------------------------------------------------|
@@ -340,7 +340,7 @@ Melhores dos temas
 -    [Resultados #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Resultados #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!mania
+##### 2014 osu!mania
 
 | Placing | 2014 Resultados                                                                  |
 |---------|----------------------------------------------------------------------------------|
@@ -357,7 +357,7 @@ Melhores dos temas
 -    [Resultados #1](//osu.ppy.sh/news/109804193683)
 -    [Resultados #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!mania
+##### 2015 osu!mania
 
 | Placing | 2015 Resultados                                                             |
 |---------|-----------------------------------------------------------------------------|
@@ -374,7 +374,7 @@ Melhores dos temas
 
 
 osu!semanal
-===========
+---------------
 
 osu!semanal (osu!weekly) é um resumo de noticias que cobre os mais recentes acontecimentos do jogo e da comunidade.
 
@@ -402,5 +402,3 @@ Você pode mandar por email suas ideias para serem usadas nas novidades diretame
 | \#16 | [osu!semanal \#16](https://osu.ppy.sh/news/122554029063) |
 | \#17 | [osu!semanal \#17](https://osu.ppy.sh/news/123204635333) |
 | \#18 | [osu!semanal \#18](https://osu.ppy.sh/news/123767691448) |
-
-

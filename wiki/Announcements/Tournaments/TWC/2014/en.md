@@ -1,3 +1,6 @@
+osu! Taiko World Cup 2014
+=============================
+
 ![TWC 2014 logo](logo.png)
 
 The **osu! Taiko World Cup 2014** (***TWC 2014***) is a country-based Taiko tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![](/wiki/shared/flag/Tw.gif) Taiwan**.
@@ -11,7 +14,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Fr.gif) **France**    |
 
 Tournament schedule
-===================
+---------------------
 
 | Event                  | Timestamp                 |
 |------------------------|---------------------------|
@@ -24,7 +27,7 @@ Tournament schedule
 | Finals/3rd place match | 08-09 Mar 2014            |
 
 Prizes
-======
+---------
 
 | Placing                                                    | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|
@@ -33,7 +36,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                            |
 
 Organization
-============
+--------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +49,7 @@ Organization
 ------------------------------------------------------------------------
 
 Links
-=====
+--------
 
 -   [Discussion thread](//osu.ppy.sh/forum/t/179127)
 -   [osu! Taiko World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
@@ -55,12 +58,12 @@ Links
 ------------------------------------------------------------------------
 
 Knock-Out Bracket
-=================
+-----------------
 
 ![TWC 2014 bracket](bracket.jpg)
 
 Participants
-============
+----------------
 
 | Country                                 | Group A                                                                                                                                                                                                                                                                        |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -97,10 +100,9 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+------------
 
-Finals
-------
+### Finals
 
 [Click here to download whole pool in one pack!](//www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)
 
@@ -145,8 +147,7 @@ Finals
 |----------------------------------------------------------------------------------------------------------|
 | **[Tatsh - IMAGE -MATERIAL- \<Version 0\> (Scorpiour) \[Firce777's Taiko Oni\]](//osu.ppy.sh/b/261205)** |
 
-Semi-finals
------------
+### Semi-finals
 
 [Click here to download whole pool in one pack!](//www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)
 
@@ -191,8 +192,7 @@ Semi-finals
 |---------------------------------------------------------------------------------------------|
 | **[Yousei Teikoku - gothic lolita agitator (TKSalt) \[Inner Oni\]](//osu.ppy.sh/b/267841)** |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 [Click here to download whole pool in one pack!](//www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)
 
@@ -237,8 +237,7 @@ Quarter-finals
 |----------------------------------------------------------------------------------------------------|
 | **[Demetori - Higan Retour ~ View of The River Styx (RLC) \[Love's Oni\]](//osu.ppy.sh/s/140944)** |
 
-Round 16
---------
+### Round 16
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
 
@@ -284,8 +283,7 @@ Round 16
 | **[DystopiaGround - AugoEidEs (jonathanlfj) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/353849)** |
 
 
-Group Stage
------------
+### Group Stage
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
 
@@ -334,20 +332,18 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+--------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! Taiko World Cup is a country-based 3v3 team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod bracket.
-
+    -   There will also be a [Hidden](/wiki/Game-Modifiers/en.md), [HardRock](/wiki/Game-Modifiers/en.md), [DoubleTime](/wiki/Game-Modifiers/en.md) and FreeMod bracket.
 3.  Match schedule will be settled by Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed player's score do not get added to the team score.
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game-Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -360,8 +356,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Your team needs **at least 3 players** to participate.
     1.  The maximum team size is 6.
@@ -379,16 +374,15 @@ Tournament Registration
 
 7.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 4 teams of each group will move on to the Knock-Out Stages.
@@ -398,8 +392,7 @@ Stage instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -416,11 +409,10 @@ Match Instructions
 
 4.  Results will be published via Statistics site.
 
-Mappool instructions
---------------------
+### Mappool instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game-Modifiers/en.md), [HardRock](/wiki/Game-Modifiers/en.md), [DoubleTime](/wiki/Game-Modifiers/en.md) and FreeMod
 3.  Each mappool consists of 23 maps in total.
 4.  Each mappool has one tiebreaker
 5.  The NoMod bracket will be played with no modes activated.
@@ -439,8 +431,7 @@ Mappool instructions
     -   3 in Group Stage
     -   4 in Knock-Out Stages
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**
 2.  Matches in Group Stage may overlap.
@@ -448,4 +439,4 @@ Scheduling instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:Taiko Tournaments](Category:Taiko_Tournaments "wikilink") [Category:Taiko World Cup](Category:Taiko_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:Taiko Tournaments> <Category:Taiko World Cup>
