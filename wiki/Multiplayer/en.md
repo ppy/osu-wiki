@@ -1,68 +1,53 @@
 <!--Wiki links used-->
 [osu!academy wikilink]: www.google.com "NOT COMPLETE!"
 [Chat_Console#Extended_Chat_Console wikilink]: www.google.com "NOT COMPLETE!"
+[Beatmaps2 wikilink]:
+[osu!supporter wikilink]:
 [Standard wikilink]: www.google.com "NOT COMPLETE!"
 [Taiko wikilink]: www.google.com "NOT COMPLETE!"
 [Catch the Beat wikilink]: www.google.com "NOT COMPLETE!"
 [osu!mania wikilink]: www.google.com "NOT COMPLETE!"
 [Sudden Death wikilink]: www.google.com "NOT COMPLETE!"
 
+<!-- External links used -->
+[Release b335]: http://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
+[osu!academy Ep6]: http://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
+
+<!-- Image link used -->
+[Beatmaps_peppy image]: ./Multiplayer/Beatmaps_peppy.jpg "Official image on beatmap extraction."
+
 <!--Title-->
 # Multiplayer <a name="multiplayer"></a>
-<img src="Multiplay_flowchart.jpg" title="Multiplay Flowchart" alt="Multiplay Flowchart" style="width:400px; float:right;" />
+<img src="Multiplay_flowchart.jpg" title="Multiplay Flowchart" alt="Multiplay Flowchart" width="400px" align="right" />
 
 ## Introduction <a name="introduction"></a>
-Multiplayer was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335](http://osu.ppy.sh/forum/p/26660), and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
+Multiplayer was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
 
-[osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) along with [Online Users Panel][Chat_Console#Extended_Chat_Console wikilink].
+[osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with [Online Users Panel][Chat_Console#Extended_Chat_Console wikilink].
 
 ## How to enter <a name="how-to-enter"></a>
-<table style="width:70%; border:1px solid black;">
-	<thead>
-		<tr>
-			<th>Title</th>
-			<th>Description</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<th>Minimum requirements</th>
-			<td>
-				<ul>
-					<li>Decent online connection.</li>
-					<li>osu!account logged into Bancho (should be done automatically)</li>
-					<li>Have a fair amount of beatmaps in your Songs folder (unless you prefer to download as you go)</li>
-					<li>Knowing <a href="Beatmaps2 'wikilink'">how to transfer beatmaps without leaving the room.</a> <a href="Media:Beatmaps_peppy.jpg 'wikilink'">Picture example here.</a></li>
-					<li>Logical thinking (knowing when to ask about something you don't understand)</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<th>Ways to enter</th>
-			<td>From Main menu,  
+### Minimum requirements
+- Decent online connection.
+- osu!account logged into Bancho (should be done automatically)
+- Have a fair amount of beatmaps in your Songs folder (unless you prefer to download as you go)
+- Knowing [how to transfer beatmaps without leaving the room.][Beatmaps2 wikilink] [Picture example here.][Beatmaps_peppy image]
+- Logical thinking (knowing when to ask about something you don't understand)
 
-				1.  Press "<strong>Play</strong>" then "<strong>Multi</strong>"; or
-				2.  Press "<strong>P</strong>" then "<strong>M</strong>". (from Keyboard)
+### Ways to enter
+From Main menu,  
+- Press "**Play**" then "**Multi**"; or
+- Press "**P**" then "**M**". (from Keyboard)
 
-				You will be directed to the "<strong>lobby</strong>", the core of the Multi-play.
-			</td>
-		</tr>
-		<tr>
-			<th>Notes</th>
-			<td>
-				<ul>
-					<li>Keep in mind that downloading times can range from a few seconds to 15mins depending on your internet connection.</li>
-					<li>Losing connection to Bancho will send you back to Main Menu until connection is recovered to Bancho. This will force you to be considered "Quit" when playing a match.</li>
-					<li>"Quit" when playing a match.</li>
-					<li>Requires <a href="osu!supporter's wikilink">osu!supporter</a> in cuttingedge build.</li>
-				</ul>
-			</td>
-		</tr>
-	</tbody>
-</table>
+You will be directed to the "**lobby**", the core of the Multi-play.
+
+### Notes
+- Keep in mind that downloading times can range from a few seconds to 15mins depending on your internet connection.
+- Losing connection to Bancho will send you back to Main Menu until connection is recovered to Bancho. This will force you to be considered "Quit" when playing a match.
+- "Quit" when playing a match.
+- Requires [osu!supporter][osu!supporter wikilink] in cuttingedge build.
 
 ## Lobby <a name="lobby"></a>
-<img src="Multiplay_lobby.jpg" title="fig:Example of Multiplayer Lobby" alt="Example of Multiplayer Lobby" style="width:200px; float:right;" />
+<img src="Multiplay_lobby.jpg" title="Example of a typical day in the Multiplayer Lobby" alt="Example of Multiplayer Lobby" style="width:200px; float:right;" />
 
 This is a (waiting) Multiplayer Lobby.
 -   Here's a list of things that a player can do in the lobby:
@@ -77,7 +62,7 @@ This is a (waiting) Multiplayer Lobby.
 	-   Select and playing your jukebox songs at the upper-right of the screen.
 
 ## New game <a name="new-game"></a>
-<img src="Multiplay_new_game.jpg" title="New Game" alt="New Game" style="width:200px; float:right;" />
+<img src="Multiplay_new_game.jpg" title="Setting up configuration for a New Game" alt="New Game setup screen" style="width:200px; float:right;" />
 
 Title | Description
 :---: | :---
@@ -274,10 +259,10 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 	</tr>
 	<tr>
 		<th>Interface</th>
-		<td style="width:25%;"><img src="File:Multiplay_failed.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="File:Multiplay_tag_co-op.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="File:Multiplay_team_vs.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="File:Multiplay_tag_team_vs.jpg" style="width:150px; height:150px;"></td>
+		<td style="width:25%;"><img src="Multiplay_failed.jpg" style="width:150px; height:150px;"></td>
+		<td style="width:25%;"><img src="Multiplay_tag_co-op.jpg" style="width:150px; height:150px;"></td>
+		<td style="width:25%;"><img src="Multiplay_team_vs.jpg" style="width:150px; height:150px;"></td>
+		<td style="width:25%;"><img src="Multiplay_tag_team_vs.jpg" style="width:150px; height:150px;"></td>
 	</tr>
 	<tr>
 		<th>Team Mode</th>
@@ -351,12 +336,12 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 #### Player box colour
 Picture | Name/Colour | Description
 ---|:---:|:---
-<img src="File:Multiplay_PB_B.jpg"> | Blue | Player have more than half of health, usually at full.
-<img src="File:Multiplay_PB_R.jpg"> | Purple-Red | Player have less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
-<img src="File:Multiplay_PB_F.jpg"> | Failed/Grey | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink] is not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state.<br />Text colour will be changed from white to red.
-<img src="File:Multiplay_PB_TAG.jpg"> | Tag/Green | Tag Co-Op and Tag Team VS only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
-<img src="File:Multiplay_PB_SKIP.jpg"> | Skipped | If the beatmap have a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
-<img src="File:Multiplay_PB_QUIT.jpg"> | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end.
+<img src="Multiplay_PB_B.jpg"> | Blue | Player have more than half of health, usually at full.
+<img src="Multiplay_PB_R.jpg"> | Purple-Red | Player have less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
+<img src="Multiplay_PB_F.jpg"> | Failed/Grey | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink] is not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state.<br />Text colour will be changed from white to red.
+<img src="Multiplay_PB_TAG.jpg"> | Tag/Green | Tag Co-Op and Tag Team VS only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
+<img src="Multiplay_PB_SKIP.jpg"> | Skipped | If the beatmap have a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
+<img src="Multiplay_PB_QUIT.jpg"> | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end.
 
 ### Win Condition
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
