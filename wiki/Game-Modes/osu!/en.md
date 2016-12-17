@@ -1,10 +1,8 @@
-[300px|thumb|right|osu! gameplay.](image:Hierophobicintro.jpg "wikilink")
+# osu!
 
-Introduction
-============
+<img src="img/intro.jpg" style="width:250px;float:right;"/>
 
-What is "Ouendan"?
-------------------
+## What is "Ouendan"?
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) is a rhythm game for the Nintendo DS. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the DS:
 
