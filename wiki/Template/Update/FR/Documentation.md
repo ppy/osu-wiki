@@ -7,6 +7,7 @@ Usage
 
 Mettez au début d'une page/section:
 
+  
     {{Update/FR}}
 
 <noinclude></noinclude>

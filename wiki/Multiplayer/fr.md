@@ -10,19 +10,19 @@ L'[osu!academy](FR:osu!academy "wikilink") a abordé le sujet dans l'[Episode 6 
 Comment participer
 ==================
 
-| Minimum requis  | -   Une connexion en ligne correcte.  
-                   -   Un compte osu! connecté à Bancho (doit être fait automatiquement)
-                   -   Un nombre considérable de beatmaps dans le dossier Songs (à moins que vous préféreriez les télécharger au fur et à mesure)
-                   -   Savoir [comment transférer des beatmaps sans quitter la salle](FR:Beatmaps#Comment_obtenir_des_beatmaps_sur_osu.21_.3F "wikilink").[Exemple en anglais ici.](Media:Beatmaps_peppy.jpg "wikilink")
+| Minimum requis  | -   Une connexion en ligne correcte.                                                                                                                                                                  
+                   -   Un compte osu! connecté à Bancho (doit être fait automatiquement)                                                                                                                                  
+                   -   Un nombre considérable de beatmaps dans le dossier Songs (à moins que vous préféreriez les télécharger au fur et à mesure)                                                                         
+                   -   Savoir [comment transférer des beatmaps sans quitter la salle](FR:Beatmaps#Comment_obtenir_des_beatmaps_sur_osu.21_.3F "wikilink").[Exemple en anglais ici.](Media:Beatmaps_peppy.jpg "wikilink")  
                    -   De la pensée logique (oser demander quand vous ne savez pas comment faire).                                                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Moyens d'entrer | Depuis le menu principal,  
-
-                   1.  Cliquez sur "**Play**" puis sur "**Multi**"; ou
-                   2.  Appuyez sur "**P**" puis sur "**M**". (sur le clavier)
-
+| Moyens d'entrer | Depuis le menu principal,                                                                                                                                                                             
+                                                                                                                                                                                                                          
+                   1.  Cliquez sur "**Play**" puis sur "**Multi**"; ou                                                                                                                                                    
+                   2.  Appuyez sur "**P**" puis sur "**M**". (sur le clavier)                                                                                                                                             
+                                                                                                                                                                                                                          
                    Vous serez dirigé vers le "**lobby**", le cœur du Multijoueur.                                                                                                                                         |
-| Notes           | -   Il est suggéré que vous ayez quelques beatmaps (30+ musiques) dans votre dossier Songs. Sinon, selon votre connexion, le temps de téléchargement veut varier de 30 s à 15 min.  
+| Notes           | -   Il est suggéré que vous ayez quelques beatmaps (30+ musiques) dans votre dossier Songs. Sinon, selon votre connexion, le temps de téléchargement veut varier de 30 s à 15 min.                    
                    -   Perdre la connexion avec Bancho vous ramène au menu principal jusqu'à ce que la connexion avec Bancho soit rétablie. Cela va vous forcer à être considéré "Quited" quand vous jouez un match.      |
 
 Lobby
@@ -199,38 +199,38 @@ Type d'équipes
 
 | Règles générales (s'applique à tous sauf si mentionné contraire)                                                                                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <u>**Règle de la progresion de la beatmap</u>**  
-
- -   Head-To-Head / Team VS : Continue jusqu'à la fin de la beatmap.
- -   Tag Co-Op / Tag Team VS : S'arrête quand la barre de vie est complètement vide.
-
- **<u>Règles d'échec</u>** (Ne s'applique pas à Tag Co-Op / Tag Team VS)
-
- -   **Le score et la précision ne seront pas pris en compte dans votre total classé.**
- -   La couleur du panneau du joueur détermine sa vie. Gris veut dire que la barre de vie est vide, donc "Failed".
- -   Vos objets deviennent tous gris peu importe les couleurs définies par la map ou le skin.
- -   Vous pouvez continuer de jouer et revivre si la barre de vie est à nouveau remplie. Si [SD](FR:Game_Modifiers#Sudden_Death "wikilink") est utilisé, la résurrection est impossible (si vous arrivez à revivre, considérez ceci comme un bug ou ignorez-le).
-
- <u>**Règles de Gameplay</u>**  
-
- -   **Appuyer sur \[Échap\] deux fois résulte dans un "Quitting" du match, et non pas une pause du jeu.**
- -   Vous avez un certain temps pour utiliser les "Paramètres visuels" en bas de la beatmap pendant le temps de chargement.
- -   Quand les "Mods libres" sont utilisés, ceux que vous utilisez ne s'appliquent qu'à votre interface. Ceux des autres peuvent varier.
-
- <u>**Tag Co-Op / Tag Team VS</u>**  
-
- -   **Seulement disponible dans le mode osu!standard.**
- -   **Le placement des joueurs est très important, puisqu'il détermine quand c'est votre tour.**
- -   Tous les membres d'une même équipe (tout le monde si Tag Co-Op) partagent la même barre de vie dans leur équipe, visible seulement par les coéquipiers.
-     -   **En cas d'échec, tout le monde sera renvoyé dans la "salle".**
- -   Une flèche montre le joueur jouant actuellement la beatmap. Leur nom sera inscrit dans le coin inférieur droit de l'écran.
-     -   Des "warning arrows" s'afficheront peu de temps avant votre tour et le combo sera en couleur jusqu'à la fin de votre combo.
-     -   Vous pouvez ajuster la couleir dans le "Match Setup".
- -   **Tout le monde doit faire le spinner peu importe si c'est votre tour ou non.**
-     -   Refuser ou ne pas compléter le spinner brisera le combo actuel.
- -   Si un joueur quitte, "Auto" prendra sa place.
- -   Si vous utilisez [SD](FR:Game_Modifiers#Sudden_Death "wikilink"), votre barre de vie tombera a zéro si votre coéquipier commet une faute.
-     -   Si ce coéquipier n'utilise pas [SD](FR:Game_Modifiers#Sudden_Death "wikilink"), la beatmap continuera.
+| <u>**Règle de la progresion de la beatmap</u>**                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                  
+ -   Head-To-Head / Team VS : Continue jusqu'à la fin de la beatmap.                                                                                                                                                                                              
+ -   Tag Co-Op / Tag Team VS : S'arrête quand la barre de vie est complètement vide.                                                                                                                                                                              
+                                                                                                                                                                                                                                                                  
+ **<u>Règles d'échec</u>** (Ne s'applique pas à Tag Co-Op / Tag Team VS)                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                  
+ -   **Le score et la précision ne seront pas pris en compte dans votre total classé.**                                                                                                                                                                           
+ -   La couleur du panneau du joueur détermine sa vie. Gris veut dire que la barre de vie est vide, donc "Failed".                                                                                                                                                
+ -   Vos objets deviennent tous gris peu importe les couleurs définies par la map ou le skin.                                                                                                                                                                     
+ -   Vous pouvez continuer de jouer et revivre si la barre de vie est à nouveau remplie. Si [SD](FR:Game_Modifiers#Sudden_Death "wikilink") est utilisé, la résurrection est impossible (si vous arrivez à revivre, considérez ceci comme un bug ou ignorez-le).  
+                                                                                                                                                                                                                                                                  
+ <u>**Règles de Gameplay</u>**                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                  
+ -   **Appuyer sur \[Échap\] deux fois résulte dans un "Quitting" du match, et non pas une pause du jeu.**                                                                                                                                                        
+ -   Vous avez un certain temps pour utiliser les "Paramètres visuels" en bas de la beatmap pendant le temps de chargement.                                                                                                                                       
+ -   Quand les "Mods libres" sont utilisés, ceux que vous utilisez ne s'appliquent qu'à votre interface. Ceux des autres peuvent varier.                                                                                                                          
+                                                                                                                                                                                                                                                                  
+ <u>**Tag Co-Op / Tag Team VS</u>**                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                  
+ -   **Seulement disponible dans le mode osu!standard.**                                                                                                                                                                                                          
+ -   **Le placement des joueurs est très important, puisqu'il détermine quand c'est votre tour.**                                                                                                                                                                 
+ -   Tous les membres d'une même équipe (tout le monde si Tag Co-Op) partagent la même barre de vie dans leur équipe, visible seulement par les coéquipiers.                                                                                                      
+     -   **En cas d'échec, tout le monde sera renvoyé dans la "salle".**                                                                                                                                                                                          
+ -   Une flèche montre le joueur jouant actuellement la beatmap. Leur nom sera inscrit dans le coin inférieur droit de l'écran.                                                                                                                                   
+     -   Des "warning arrows" s'afficheront peu de temps avant votre tour et le combo sera en couleur jusqu'à la fin de votre combo.                                                                                                                              
+     -   Vous pouvez ajuster la couleir dans le "Match Setup".                                                                                                                                                                                                    
+ -   **Tout le monde doit faire le spinner peu importe si c'est votre tour ou non.**                                                                                                                                                                              
+     -   Refuser ou ne pas compléter le spinner brisera le combo actuel.                                                                                                                                                                                          
+ -   Si un joueur quitte, "Auto" prendra sa place.                                                                                                                                                                                                                
+ -   Si vous utilisez [SD](FR:Game_Modifiers#Sudden_Death "wikilink"), votre barre de vie tombera a zéro si votre coéquipier commet une faute.                                                                                                                    
+     -   Si ce coéquipier n'utilise pas [SD](FR:Game_Modifiers#Sudden_Death "wikilink"), la beatmap continuera.                                                                                                                                                   
      -   Si quelqu'un utilisant [SD](FR:Game_Modifiers#Sudden_Death "wikilink") commet une faute, le mod prendra effet et enverra immédiatement tout le monde vers l'écran des résultats.                                                                         |
 
 <table>
@@ -288,12 +288,12 @@ Les joueurs seront directement redirigés ici sauf mention contraire.
 
 | Règles générales des résultats                                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   **Si vous avez reçu un "Failed" durant la partie, le score et la précision ne sera automatiquement pas compté en ranked score, même si vous avez revécu.**  
- -   **Si "Free Mod" a été autorisé par l'hôte, les différences de score peuvent dépendre des mods utilisés**
- -   **Malgré qu'il n'y aie pas de classement en multijoueur, votre performance sera bien prise en compte comme score au classement général**.
- -   Votre résultat ne sera pas affiché dans le classement local. La seule manière de le voir est par le classement en ligne (en supposant que le score en multi est meilleur)
-     -   L'exception a la rêgle est Tag Co-Op et Tag Team VS (les 2 ne sont pas classé), ou votre score est considéré inclassable.
- -   Vous ne pouvez pas ré-essayer (retry) la beatmap mais vous pouvez exporter votre performance (replay) en pressant \[F2\] (Ne contient pas les éléments du multijoueur)
+| -   **Si vous avez reçu un "Failed" durant la partie, le score et la précision ne sera automatiquement pas compté en ranked score, même si vous avez revécu.**                
+ -   **Si "Free Mod" a été autorisé par l'hôte, les différences de score peuvent dépendre des mods utilisés**                                                                   
+ -   **Malgré qu'il n'y aie pas de classement en multijoueur, votre performance sera bien prise en compte comme score au classement général**.                                  
+ -   Votre résultat ne sera pas affiché dans le classement local. La seule manière de le voir est par le classement en ligne (en supposant que le score en multi est meilleur)  
+     -   L'exception a la rêgle est Tag Co-Op et Tag Team VS (les 2 ne sont pas classé), ou votre score est considéré inclassable.                                              
+ -   Vous ne pouvez pas ré-essayer (retry) la beatmap mais vous pouvez exporter votre performance (replay) en pressant \[F2\] (Ne contient pas les éléments du multijoueur)     
      -   L'exception a la rêgle est Tag Co-Op et Tag Team VS (les 2 ne sont pas classé), ou le replay ne peux être sauvegarder.                                                 |
 
 <table>

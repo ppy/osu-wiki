@@ -279,6 +279,7 @@ Compose
 
 <img src="M_Compose.jpg" title="Right|Compose menu" alt="Right|Compose menu" width="200" />
 
+  
 ***Main page: [Compose](Compose "wikilink")***
 
 <table>
@@ -326,6 +327,7 @@ Design
 
 <img src="M_Design.jpg" title="Right|Design menu" alt="Right|Design menu" width="200" />
 
+  
 ***Main page: [Design](Design "wikilink")***
 
 | Design menu                  |
@@ -337,6 +339,7 @@ Timing
 
 <img src="M_Timing.jpg" title="Right|Timing menu" alt="Right|Timing menu" width="200" />
 
+  
 ***Main page: [Timing](Timing "wikilink")***
 
 <table>

@@ -1,4 +1,4 @@
-
+  
 Use same technique for any slider with straight bits and curved bits
 
 ![](MGS_05.png "MGS_05.png")

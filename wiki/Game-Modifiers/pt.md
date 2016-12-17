@@ -11,6 +11,7 @@ These mods make the game easier at the cost of decreasing the score obtained.
 
 ### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
+  
 ***Score multiplier: 0.5***
 
 ***"Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required."***
@@ -27,6 +28,7 @@ easymod.jpg|Easy decreases the difficulty in many ways. easymod2.jpg|Sometimes, 
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
+  
 ***Score multiplier: 0.5***
 
 ***"You can't fail, no matter what."***
@@ -41,6 +43,7 @@ In [Catch the Beat](PT:Catch_the_Beat "wikilink") mode, this mod acts exactly th
 
 <img src="GM_HT.jpg" title="Length of the song is increased by 1/3 BPM decreased by 1/4" alt="Length of the song is increased by 1/3 BPM decreased by 1/4" width="300" />
 
+  
 ***Score multiplier: 0.3***
 
 ***"Less zoom"*** ("Zoom" meaning here means how fast the beatmap's BPM is)
@@ -60,6 +63,7 @@ These mods introduce new elements to make the game harder and rewards the player
 
 <img src="hardrock.jpg" title="Hard Rock increases the difficulty in many ways." alt="Hard Rock increases the difficulty in many ways." width="400" />
 
+  
 ***Score multiplier: 1.06 (osu!, Taiko) , 1.12 (Catch the Beat)***
 
 ***"Everything just got a bit harder..."***
@@ -76,6 +80,7 @@ In [osu!mania](PT:Osu!mania "wikilink") mode, however, Hard Rock will not affect
 
 <img src="SD Rarecase.jpeg" title="Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely. Results screen" alt="Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely. Results screen" width="200" />
 
+  
 ***"Miss a note and fail."***
 
 **Sudden Death causes the player to fail the map if the [combo](PT:Combo "wikilink") is ever broken, creating an extra large miss figure and a full HP drain.** Combos can be broken by missing notes, slider ticks, or failing a spinner, but will not be broken by missing a slider end (but may result in getting 100). This mod can be useful when trying to full combo a map, although many players dislike using it as it denies them a chance to practice the remainder of the map and get better at it faster.
@@ -88,6 +93,7 @@ In [Catch the Beat](PT:Catch_the_Beat "wikilink") mode, this mod has the exact s
 
 #### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
 
+  
 ***Click on Sudden Death again to get Perfect mod***
 
 ***"SS or quit."***
@@ -98,6 +104,7 @@ If you click the Sudden Death mod, the Perfect mod will come out. When this mod 
 
 <img src="GM_DT.jpg" title="Length of the song is decreased by 1/3 BPM increases by 1/2" alt="Length of the song is decreased by 1/3 BPM increases by 1/2" width="300" />
 
+  
 ***Score multiplier: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat)***
 
 ***"Zoooooooooom"***
@@ -112,6 +119,7 @@ In [Catch the Beat](PT:Catch_the_Beat "wikilink") mode, the speed and approach r
 
 #### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
 
+  
 ***Click on Double Time again to get Nightcore mod***
 
 ***"uguuuuuuuu"***
@@ -122,6 +130,7 @@ If you click the Double Time icon again, it becomes the Nightcore mod which incr
 
 ### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
 
+  
 ***Score multiplier: 1.06*** (osu!,Taiko,CtB) , ***1.00*** (osu!mania)
 
 ***"Play with no approach circles and fading notes for a slight score advantage."***
@@ -136,6 +145,7 @@ In [osu!mania](PT:Osu!mania "wikilink") mode, Hidden can be used by pressing Fad
 
 #### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
 
+  
 ***Score multiplier: 1.00*** (osu!mania only)
 
 This mod is specially for osu!mania only. It causes notes to fade in as they approach the judgement bar. The speed at which they fade is based on your combo, with higher combos causing the notes to fade in faster and remain invisible for longer.
@@ -150,6 +160,7 @@ For a comparison, see pictures below.
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
+  
 ***Score multiplier: 1.12*** (osu!,Taiko,CtB) ,*'* 1.00 ***(osu!mania)***
 
 ***"Restricted view area."***
@@ -166,6 +177,7 @@ In [osu!mania](PT:Osu!mania "wikilink") mode, vision is restricted to a thin hor
 
 #### Flashlight nearly ran out of batteries!
 
+  
 5 years ago, the mod, Flashlight, was caught in the act of being *hacked*; errored the hacked client's game screen from darkening. From there, it <span style="text-decoration:underline;">wasn't</span> on the edge of being removed but just scores being denied of submission. Luckily now, that isn't the case today! \\:D/
 
 If you want to know more, refer to these two threads:
@@ -180,6 +192,7 @@ The mods listed below can't be used in conjunction with each other, except for R
 
 ### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
 
+  
 ***Score multiplier: 0 (Unranked)***
 
 ***<osu!> "You don't need to click.
@@ -200,6 +213,7 @@ In [Catch the Beat](PT:Catch_the_Beat "wikilink") mode, this mod allows the char
 
 ### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
 
+  
 ***Score multiplier: 0 (Unranked, osu! only)***
 
 ***"Automatic cursor movement - just follow the rhythm.
@@ -211,6 +225,7 @@ Auto Pilot is not available for use in [Taiko](PT:Taiko "wikilink") or [Catch th
 
 ### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
 
+  
 ***Score multiplier: 0.9 (osu! only)***
 
 ***"Spinners will be automatically completed"***
@@ -221,6 +236,7 @@ Spun Out is not available for use in [Taiko](PT:Taiko "wikilink") or [Catch the 
 
 ### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
 
+  
 ***"Watch a perfect automated play through the song"***
 
 A mod that allows the player to watch a perfect playthrough of the selected beatmap. This mod functions exactly like a [Replay](PT:Replay "wikilink"), allowing 2x speed to be used and comments on the beatmap to be seen and made. The Auto mod will always get an SS, except in special cases.
@@ -233,12 +249,14 @@ In [Catch the Beat](PT:Catch_the_Beat "wikilink") mode, the Auto mod will actual
 
 <img src="GM_Cinema_comp.jpg" title="Comparison of Auto and Cinema mod" alt="Comparison of Auto and Cinema mod" width="200" />
 
+  
 ***Click on Auto again to get Cinema mod***
 
 This mod will show **background and storyboard only** without the gameplay objects. You can use DT/NC/HT, and you can still hear the hitsounds of the respective difficulty selected. User comments and the Results screen are disabled. Background Dim will be set to 0%, Background Video and Storyboard will be turned on when this mod is in effect.
 
 ### xK
 
+  
 ***Score multiplier: 0.66~1.0 (osu!mania only)***
 
 This mod will force all beatmap difficulties to use the selected K setting, ignoring the supposed K setting of the beatmap's difficulty at the cost of decreasing Score punishment.
@@ -253,6 +271,7 @@ Score multiplier only applies within this condition: **This table only affects b
 
 <img src="GM COOP2.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." width="100" /> <img src="GM COOP.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." width="200" />
 
+  
 ***Score multiplier: 0.70 ~ 1.00 (osu!mania only)***
 
 [Introduced in 5th of March, 2015 build](http://osu.ppy.sh/p/changelog?v=b20150305), this mod will introduce a second playfield with second set of control based on current xK count (7K -&gt; 7K + 7K). For osu!mania specific mode, the xK is split to half (7K -&gt; 4K + 3K). It is entirely possible to increase the key count to *18 Keys* (9K \[mod\] -&gt; 9K + 9K, applied to non-specific difficulties only).
@@ -348,6 +367,7 @@ Score multiplier only applies within this condition:
 
 <img src="GM Random.jpg" title="Effect of &quot;Random&quot; mod" alt="Effect of &quot;Random&quot; mod" width="300" />
 
+  
 ***Score multiplier: 0 (Unranked, osu!mania only)***
 
 This mod will **change the note placement** only. It does not affect the timeline note to hit and is not shuffled every time this mod is used. Take caution prior using the mod as certain note pattern will change to be easier/harder to do, as shown on the picture at the right.
@@ -364,6 +384,7 @@ Special Mods
 
 <img src="GM_TP.jpg" title="Comparison between original and Target Practice" alt="Comparison between original and Target Practice" width="300" />
 
+  
 ***Score multiplier: 1.00 (Unranked, osu! only)***
 
 Play a simple and consistent "Target Practice" game. The game will immediately end if you failed to hit the target once.

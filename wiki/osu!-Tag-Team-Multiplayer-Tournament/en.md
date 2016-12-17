@@ -1,5 +1,6 @@
 [Osu! Tag Team Multiplayer Tournament](https://osu.ppy.sh/forum/t/12710) Hosted by Gabi
 
+  
 *Also checkout: [Tag Tournament Winners](https://osu.ppy.sh/forum/t/17169) (from osu!forum announcement archives)*
 
 ![Osu! Tag Team Multiplayer Tournament Logo](Tour_12710_H.png "Osu! Tag Team Multiplayer Tournament Logo")
@@ -83,6 +84,7 @@ Teams and Players
 
 ### Winners
 
+  
 #### #1 Team Animalz D: (Niedzwiedz1124, White wolf)
 
 #### #2 Team Lubimy Ponczgi! (Ryohan, SeymourLyon)
@@ -119,46 +121,57 @@ FAQ
 
 Q: Why do we need a team leader?
 
+  
 A: It makes it more organized. He will keep you updated and should take contact with Judges/Teams.
 
 Q: Why can't we pick our own mods and Beatmaps?
 
+  
 A: To make this as fair as possible
 
 Q: How will the Beatmaps be selected after they have been announced?
 
+  
 A: Each team will get to pick 1 beatmap each (out of the announced ones), and if it goes on to a 3rd round, the judge will pick for you.
 
 Q: Why can't we play Team Vs instead of Team Tag?
 
+  
 A: Because this is a Team Tag Tournament
 
 Q: How will i know what team to play against?
 
+  
 A: This topic will be updated everyday, make sure you or your team leader takes a look at it.
 
 Q: Are judges allowed to participate in the tournament?
 
+  
 A: Currently being discussed
 
 Q: I Disconnected/Crashed, I demand a rematch
 
+  
 A: Quits will result in a score deduction. -25% per quit. Since there is no reliable way of confirming a disconnection or internet trouble, these will be regarded as intentional quits and are subject to the score deduction. If Osu! crashes, the crash report must be sent in, and a rematch will take place. Alternatively, a team can take the -25% score deduction in case of a crash.
 
 Q:Can teams communicate to agree on mods, etc. before the match will be played?
 
+  
 A:Yes, besides those blacklisted. i.e. If both teams agree on Hidden, then it can be done, but not Spun Out
 
 Q: How does the screenshot of the winner look like?
 
+  
 A: <http://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
 
 Q: Huh, i thought this was a 4vs4 tournament as well, why did you ditch that?
 
+  
 A: People are having trouble with who to choose on their team, and because of that they won't sign up, so we decided to cancel the 4vs4 tournament and just keep the 2vs2. Maybe in the near future there will be a 4vs4 ![](Smiley_smile.gif "fig:Smiley_smile.gif")
 
 Q: Are you a girl?
 
+  
 A: *facepalm*
 
 Beatmap Selection

@@ -13,6 +13,7 @@ Aparência e trabalho
     -   Se você mandar o comando sem uma exclamação("!") enquanto estiver no chat do BanchoBot, ele ainda vai receber o comando e mostrar sua função.
 -   Você não pode usar comandos com exclamação em PMs que não sejam do BanchoBot.
 
+
 #### Comandos Padrões (!Comando)
 
 | Comando | Efeito | Exemplo | Resposta do BanchoBot |
@@ -24,3 +25,4 @@ Aparência e trabalho
 | REQUEST (list) | Mostra mapas aleatórios do #modreqs. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (número ou palavra chave) | Rola um dado (virtual) e recebe um número aleatório de 1 à 100 | !roll 9000 | John rolls 1337 point(s) |
 
+			

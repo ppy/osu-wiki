@@ -10,6 +10,7 @@ Skins vary from "for-fun" skins with some central theme (i.e some anime) that ar
 The Basic of Skinning
 ---------------------
 
+  
 *Want to read on the basics? Go to [Skinning Tutorial](Skinning_Tutorial "wikilink")*
 
 Skin Versions
@@ -19,35 +20,35 @@ Skin Versions
 |---------|----------------------------------------------------------------------------------------------------|
 | 1.x     | 1.0                                                                                                |
 | 2.x     | 2.0                                                                                                |
-| 2.1     | Same as 2.0, but includes Taiko @2x support as well as Taiko alignment changes to match.  
-
-           -   <b>taiko-bar-right(-glow).png</b> is directly placed under <b>taiko-bar-left.png</b>
+| 2.1     | Same as 2.0, but includes Taiko @2x support as well as Taiko alignment changes to match.           
+                                                                                                               
+           -   <b>taiko-bar-right(-glow).png</b> is directly placed under <b>taiko-bar-left.png</b>            
            -   Taiko drum positions changed                                                                    |
-| 2.2     | Introduction of new beatmap panel layout.  
-
-           -   Thumbnails (can be disabled with [Options](Options "wikilink"))
-           -   Star Difficulty Ratings are scaled (rather than halved)
+| 2.2     | Introduction of new beatmap panel layout.                                                          
+                                                                                                               
+           -   Thumbnails (can be disabled with [Options](Options "wikilink"))                                 
+           -   Star Difficulty Ratings are scaled (rather than halved)                                         
            -   Panel text alignments optimized                                                                 |
-| 2.3     | Includes the new CtB mascot [Yuzu](Mascots#Yuzu "wikilink"), changes in CtB catcher behaviour.  
-
-           -   <b>fruit-ryuuta.png</b> will not work from this point forward
+| 2.3     | Includes the new CtB mascot [Yuzu](Mascots#Yuzu "wikilink"), changes in CtB catcher behaviour.     
+                                                                                                               
+           -   <b>fruit-ryuuta.png</b> will not work from this point forward                                   
            -   new Catch the Beat specific combobursts using <b>comboburst-fruits(-\#).png</b>                 |
-| 2.4     | Improvements to mania scaling  
-
-           -   Smaller combo counter and hitbursts
-           -   column lines are drawn on both sides, if spaced
+| 2.4     | Improvements to mania scaling                                                                      
+                                                                                                               
+           -   Smaller combo counter and hitbursts                                                             
+           -   column lines are drawn on both sides, if spaced                                                 
            -   added the hold note tails (works on all versions)                                               |
 | 2.5     | Allowed osu!mania to be more skinnable! (use the [skin.ini](Skin.ini#.5BMania.5D "wikilink") file) 
-
-           -   New commands <b>KeyFlipWhenUpsideDown</b> and <b>NoteFlipWhenUpsideDown</b>
-           -   New command <b>NoteBodyStyle</b> (stretch, cascade from top, cascade from bottom)
+                                                                                                               
+           -   New commands <b>KeyFlipWhenUpsideDown</b> and <b>NoteFlipWhenUpsideDown</b>                     
+           -   New command <b>NoteBodyStyle</b> (stretch, cascade from top, cascade from bottom)               
            -   New command <b>LightingNWidth</b> and <b>LightingLWidth</b>                                     |
 | Misc.   | latest                                                                                             |
-| User    | Use this only when you want to change a skin element or two (or a few) for your own purposes!  
-
-           -   **Label the folder (that holds these elements) *User***
-           -   Do <u>not</u> use this when trying to distribute skins!
-           -   does not require a skin.ini file
+| User    | Use this only when you want to change a skin element or two (or a few) for your own purposes!      
+                                                                                                               
+           -   **Label the folder (that holds these elements) *User***                                         
+           -   Do <u>not</u> use this when trying to distribute skins!                                         
+           -   does not require a skin.ini file                                                                
            -   this will ensure you'll use the latest version                                                  |
 
 General Skinning Tips

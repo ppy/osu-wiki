@@ -22,7 +22,7 @@ Cara Bermain
 2.  Pilihlah tingkat kesulitan di pojok kiri atas (Beginner, Easy, Medium, Hard, Challenge).
 3.  Ketuk "SELECT SONG".
 4.  Pilih berkas lagu yang ingin kamu mainkan.
-
+      
     Kamu harus melakukan navigasi apabila kamu ingin mengakses lagu di folder lagu osu!droidmu.
 
 5.  Nikmati permainanmu.

@@ -24,10 +24,12 @@ Easy [difficulties](Song_Setup#Difficulty) are easy to make once you get the han
 
 You'll want to use [Distance Snapping](Distance_Snap) to allow equal distances over time. So, **adjust the distance snap multiplier so that hit circles only one beat apart don't overlap each other.** For a circle size of 4, a distance snap of 0.5 should work. New players often find hit circles that overlap each other like that hard to read. Most of the time, just having them next to each other without overlapping is good enough.
 
+
 | This is easier to follow                                | than something like this                                 |
 |---------------------------------------------------------|----------------------------------------------------------|
 | ![Farther Aparts](Farther_Aparts.png "Farther Aparts")  | ![Less so](Less_so.png "Less so")                        |
 | Beats that are farther apart, better for newer players. | Beats closer together, better for more advanced players. |
+
 
 Set the [Beat Snap Divisor](Beat_Snap_Divisor) to 1/1, then select the circle and hit play and start placing circles in time to the music.
 

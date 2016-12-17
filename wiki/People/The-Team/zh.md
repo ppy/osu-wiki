@@ -6,6 +6,7 @@
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | 项目领头人 |
 
+
 活跃用户
 ----------------------
 
@@ -21,6 +22,7 @@
 | [yelle](https://osu.ppy.sh/u/4916903) | 举办美术竞赛, osu!store 管理 |
 | [ztrot](https://osu.ppy.sh/u/6347) | osu! 学院教授, 音频/文字设计 |
 | [Zallius](https://osu.ppy.sh/u/55) | 濒危物种 |
+
 
 不活跃用户
 ----------------------
@@ -40,6 +42,7 @@
 | [Sinistro](https://osu.ppy.sh/u/5530) | 讨论记录, FAQ 贡献者 |
 | [woc2006](https://osu.ppy.sh/u/1105845) | osu! dev 团队, osu!mania 模式创始人 |
 
+
 用户组
 ----------------------
 
@@ -53,5 +56,6 @@
 | [osu!news](http://osu.ppy.sh/g/25) | 从2013年开始给你带来高质量的阅读体验 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | 为所有模式举办官方的 osu! 联赛 |
 | [Quality Assurance Team](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | 审核将要上架谱面的质量 |
+
 
 <Category:People>

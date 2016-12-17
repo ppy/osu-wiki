@@ -1,4 +1,4 @@
-
+  
 Use essentially the same technique for any sliders that are rotationally symmetrical
 
 ![](MGS_02.png "MGS_02.png")

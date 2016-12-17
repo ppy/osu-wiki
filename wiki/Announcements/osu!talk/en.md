@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="osu!talk logo" alt="osu!talk logo" width="300" />
+osu!talk
+===============
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Introduction
-============
+-------------
 
-Official YouTube Channel: <//www.youtube.com/user/osuacademy/videos>
-Official Thread: <//osu.ppy.sh/forum/t/225111>
+Official YouTube Channel: https://www.youtube.com/user/osuacademy/videos
+Official Thread: https://osu.ppy.sh/forum/t/225111
 **osu!talk** is a podcast series hosted by [ztrot](//osu.ppy.sh/u/6347) with [deadbeat](//osu.ppy.sh/u/128370) as the co-host. The series focuses on interviewing many people from around the osu! community. However sometimes we arrange a group discussion about different things happening around the community such as changes to the staff, or long lasting issues often discussed like overmapping. The podcast series is set up so that anyone is free to join in on the live session and ask questions during the public [Q&A](//en.wikipedia.org/wiki/Q%26A) part of the episode. These aren't live streamed anywhere as we'd rather encourage users to join in and take part themselves.
 
 Episodes
-========
+--------
 
 | EP\#  | Interviewees                                             | Profession                       | [Link]                                                        |
 |-------|----------------------------------------------------------|----------------------------------|---------------------------------------------------------------|
@@ -55,8 +58,9 @@ Episodes
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                 | [Link](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Link](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
+
 Discussions
-===========
+-------------
 
 | EP\# | Topics                                   | Profession                                                                                                                                                                                                                  | [Link]                                        |
 |------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -73,8 +77,9 @@ Discussions
 | #11  | Catch the Beat Discussion                | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Link](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | osu!idol Discussion                      | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara](//osu.ppy.sh/u/444868)                                                                          | [Link](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
+
 Specials
-========
+--------
 
 | EP\# | Topics                  | Profession                                                                                                                                                               | [Link]                                        |
 |------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -84,4 +89,5 @@ Specials
 | #4   | Welcome back            | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Link](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Link](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-[Category:History of osu!](Category:History_of_osu! "wiki[link]")
+
+<Category:History of osu!>

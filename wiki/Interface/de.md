@@ -32,6 +32,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ==Multiplayer-Lobby==
 
+  
 *Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")*
 
 <img src="DE-Multiplay.jpg" title="fig:DE-Multiplay.jpg" alt="DE-Multiplay.jpg" width="280" /> <img src="DE-Multiplay-1.jpg" title="fig:DE-Multiplay-1.jpg" alt="DE-Multiplay-1.jpg" width="280" />
@@ -41,6 +42,7 @@ Songauswahl
 
 <img src="soloplay1.jpeg" title="Songauswahl" alt="Songauswahl" width="300" />
 
+  
 Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
 
 ![](osu.gif "fig:osu.gif")"osu!" ist [osu!](DE:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Trommel" ist [Taiko](DE:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apfel" ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](mania.gif "fig:mania.gif")"Piano" ist [osu!mania](:DE:Osu!mania "wikilink")
@@ -154,6 +156,7 @@ Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko Skin) Accuracy\_CtB.jpg| 
 Online Score Führungstabelle
 ----------------------------
 
+  
 Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")

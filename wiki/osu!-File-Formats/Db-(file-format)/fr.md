@@ -175,6 +175,7 @@ Cette base de donnée contient touts les scores réalisés localement.
 | Entier (Int) | Devrait toujours être définit par 0xffffffff (-1). |
 | Long (long) | ID du score en ligne |
 
+
 Sans compter l'ID du score en ligne, le format des scores est le même que le format du replay. [FR:Osr (file format)](FR:Osr_(file_format) Cela peut expliquer la chaîne de caractère vide et l'entier définit par -1.
 
 <Category:File Formats/FR>

@@ -1,5 +1,6 @@
 <img src="Beatspacing.jpg" title="An example of what exactly beat spacing does." alt="An example of what exactly beat spacing does." width="400" />
 
+  
 ***Distance between consecutive circles will be snapped based on their rhythmical difference.***
 
 The simplest way to ensure beat spacing is correct on your beatmaps is to utilize the editor's Distance Snapping function, found in the upper-right hand side of the editor. The relative distance between notes can be adjusted using 'Alt' and the mouse wheel. This enables one to ensure beats that are close together on the timeline are close together on the beatmap, and vice versa. This helps with intuitive play and good beat spacing. If you stick to using Distance Snap for the whole song, correct beat spacing is guaranteed!

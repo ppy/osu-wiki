@@ -1,3 +1,6 @@
+Taiko World Cup 2011
+======================
+
 [2011 Taiko World Cup (15th Apr ~ 29th May) hosted by lepidopodus](//osu.ppy.sh/forum/t/47356)
 
 ![TWC 2011 logo](logo.png)
@@ -8,7 +11,8 @@ Statistics is available ==> [here](//spreadsheets.google.com/ccc?key=0Aozv0NW718
 
 Streaming was offered by [dvorak](//www.ustream.tv/channel/osu-dvo) and [matthewhln](//www.justin.tv/matthewhln). Check those channels for streaming!
 
-## Tournament Instructions
+Tournament Instructions
+--------------------------
 
 The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
 
@@ -22,7 +26,8 @@ Other stages will be Knockout stage. If your team wins the match, your team will
 
 Usually you will have a match per a week, but in the 1st round you may have two matches in certain week if your group consists of 5 teams.
 
-## Match Instructions
+Match Instructions
+--------------------
 
 1.  One of referees will make the room 15 minutes before the time. All players should arrive the room in right time.
     1.  The room will be locked. The password will be sent to the two captains as soon as possible.
@@ -40,7 +45,8 @@ Usually you will have a match per a week, but in the 1st round you may have two 
 8.  In Robin-round stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
 9.  In final round, you have to win 5 games first.
 
-## Groups
+Groups
+---------
 
 ### Round 1
 

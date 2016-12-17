@@ -13,6 +13,7 @@ A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minde
 Hogyan kell játszani?
 ---------------------
 
+  
 *Teljes magyarázat: [osu! Standard](HU:Standard "wikilink")*
 
 A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](HU:Play_Styles "wikilink") oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
@@ -97,6 +98,7 @@ Alternatív játékmódok
 Mi az a "Taiko"?
 ----------------
 
+  
 *Teljes magyarázat: [Taiko](HU:Taiko "wikilink")*
 
 [200px|thumb|right|Taiko játékmenet.](image:taiko.jpg "wikilink") A [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) egy taiko-dob ritmusjáték, amelyet a Namco készített. Lényege a dobolás szimulálása a zene ütemére. Az osu!-ban a beatmapek Taiko no Tatsujin-stílusban is játszhatók a Taiko játékmód kiválasztásával.
@@ -148,6 +150,7 @@ Mi az a "Catch the Beat"?
 
 [200px|thumb|right|Catch The Beat játékmenet.](image:ctbaqua.jpg "wikilink")
 
+  
 *Teljes magyarázat: [Catch the Beat](HU:Catch_the_Beat "wikilink")*
 
 -   A Taiko mód után a Catch the Beat volt a második különleges játékmód, ami bekerült.
@@ -155,6 +158,7 @@ Mi az a "Catch the Beat"?
 
 ### A fogó irányítása
 
+  
 Ha a [Relax](Relax "wikilink") mod aktiválva van, a fogót az egérrel mozgathatod.
 
 -   Alapértelmezetten a bal \[&lt;-\] és jobb \[-&gt;\] nyílgombok mozgatják.
@@ -165,6 +169,7 @@ Mi az az "osu!mania"?
 
 ![ thumb | 200px | Példa a játékmenetre (7K)]( Mania screenshot.jpg  " thumb | 200px | Példa a játékmenetre (7K)")
 
+  
 *Teljes magyarázat: [osu!mania](HU:Osu!mania "wikilink")*
 
 -   A Taiko és CtB (Catch the Beat) módok után az osu!mania volt a harmadik különleges játékmód, ami bekerült.
@@ -262,6 +267,7 @@ Mi az az "osu!mania"?
 Pontozás
 ========
 
+  
 *A pontozásról részletes magyarázat az adott játékstílus oldalán található.*
 
 Osztályzatok
@@ -294,6 +300,7 @@ Gyakori problémák és kérdések
 Hol találhatom meg és szerezhetem be a beatmapeket?
 ---------------------------------------------------
 
+  
 *Részletesen a beatmapekről angol nyelven: [Beatmaps](HU:Beatmaps "wikilink")*
 
 A főoldalról, a "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)" menüpont alatt találod őket.

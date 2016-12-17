@@ -37,6 +37,8 @@ You can also select the following via checkboxes under the message input box:
 The Beatmap Modding Process
 ---------------------------
 
+  
+  
 *Main article: [Modding](Modding "wikilink").*
 
 After you submit your beatmap, it will be available for downloading by the osu! forum members and moderators, who may provide comments and feedback on it (commonly referred to as "modding" a beatmap). In [Extended Chat](Chat_Console#Extended_Chat_Console "wikilink"), the status of someone who has opened another person's beatmap in the Editor is set as "Modding" and their panel turns green. Everyone is allowed - *encouraged*, in fact - to mod beatmaps, but only the modding of moderators determines how close a beatmap is to be Ranked.
@@ -98,6 +100,8 @@ Even if your beatmap gets sent to the graveyard, you can easily recover it from 
 Criteria for ranking
 --------------------
 
+  
+  
 *Main article: [Ranking Criteria](Ranking_Criteria "wikilink").*
 
 It is very hard to list all possible issues that can prevent a beatmap for being ranked, since each beatmap is a unique creation. However, here are some general guidelines that a beatmap set should follow in order to be ranked:

@@ -11,6 +11,7 @@ Ces mods rendent le jeu plus facile au coût d'une réduction du score final.
 
 ### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
+  
 ***Multiplicateur de score: 0.5***
 
 ***"Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise."***
@@ -27,6 +28,7 @@ easymod.jpg|Bien que le mod Easy peut réduire la difficulté de différentes ma
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
+  
 ***Multiplicateur de score: 0.5***
 
 ***"Impossible d'échouer, quoi que vous fassiez."***
@@ -41,6 +43,7 @@ Dans [Catch the Beat](FR:Catch_The_Beat "wikilink"), ce mod agit exactement comm
 
 <img src="GM_HT.jpg" title="Durée de la musique augmentée par 1/3 BPM réduit d&#39;1/4" alt="Durée de la musique augmentée par 1/3 BPM réduit d&#39;1/4" width="300" />
 
+  
 ***Multiplicateur de score: 0.3***
 
 ***"Tout va plus lentement..."***
@@ -60,6 +63,7 @@ Ces mods introduisent de nouveaux éléments pour rendre le jeu plus difficile e
 
 <img src="hardrock.jpg" title="Hard Rock augmente la difficulté de manières différentes." alt="Hard Rock augmente la difficulté de manières différentes." width="400" />
 
+  
 ***Multiplicateur de score: 1.06 (osu!, Taiko) , 1.12 (Catch the Beat)***
 
 ***"Tout devient un petit peu plus compliqué."***
@@ -76,6 +80,7 @@ Cependant, dans [osu!mania](FR:Osu!mania "wikilink"), Hard Rock n'affecte pas le
 
 <img src="SD Rarecase.jpeg" title="Exemple de cas de survie en Sudden Death. Le joueur a réussi à attraper un slider tick qui remplit la barre de vie pour pouvoir survivre. Écran des résultats" alt="Exemple de cas de survie en Sudden Death. Le joueur a réussi à attraper un slider tick qui remplit la barre de vie pour pouvoir survivre. Écran des résultats" width="200" />
 
+  
 ***"Ratez une note et vous échouez."***
 
 **Sudden Death cause au joueur d'échouer si le combo n'est brisé ne serait-ce qu'une seule fois, créant une énorme image miss et drainant toute la vie.** Les combos peuvent être brisés en manquant des hit circles, des slider ticks, ou en échouant à compléter le spinner, mais ils ne le seront pas en manquant la fin d'un slider (mais peut donner un 100). Ce mod peut être utile pour obtenir un full combo, bien que beaucoup de joueurs ne l'aiment pas puisque il ne permet pas de continuer la map et empêche de devenir meilleur plus vite.
@@ -88,6 +93,7 @@ En [Catch the Beat](FR:Catch_The_Beat "wikilink"), ce mod a les mêmes effets qu
 
 #### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
 
+  
 ***Cliquez sur Sudden Death à nouveau pour obtenir ce mod***
 
 ***"Un SS sinon rien."***
@@ -98,6 +104,7 @@ Si vous re-cliquez sur Sudden Death, le mod Perfect va apparaître. Quand ce mod
 
 <img src="GM_DT.jpg" title="Durée de la musique réduite de 1/3 BPM augmenté d&#39;1/2" alt="Durée de la musique réduite de 1/3 BPM augmenté d&#39;1/2" width="300" />
 
+  
 ***Multiplicateur de score: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat)***
 
 ***"Tout va plus vite !"***
@@ -112,6 +119,7 @@ En [Catch the Beat](FR:Catch_The_Beat "wikilink"), la vitesse et l'AR sont augme
 
 #### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
 
+  
 ***Cliquez sur Double Time une nouvelle fois pour obtenir ce mod***
 
 ***"uguuuu~"***
@@ -122,6 +130,7 @@ Si vous re-cliquez sur Double Time, il devient le mod Nightcore qui rend le ton 
 
 ### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
 
+  
 ***Multiplicateur de score: 1.06*** (osu!,Taiko,CtB) , ***1.00*** (osu!mania)
 
 ***"Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement."***
@@ -136,6 +145,7 @@ Dans [osu!mania](FR:Osu!mania "wikilink"), Hidden peut être utilisé en re-cliq
 
 #### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
 
+  
 ***Multiplicateur de score: 1.00*** (osu!mania seulement)
 
 Ce mod est spécialement pour osu!mania seulement. Il cache 1/4 de la vision de l'aire supérieure. L'obscurité va s'étendre jusqu'au 500ème combo où les 3/4 de l'écran seront bloqués jusqu'à ce que vous brisez le combo. Au 300ème combo, c'est la moitié de l'écran.
@@ -150,6 +160,7 @@ Pour une comparaison, regardez les images en dessous.
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
+  
 ***Multiplicateur de score: 1.12*** (osu!,Taiko,CtB) ,*'* 1.00 ***(osu!mania)***
 
 ***"Jouez dans la pénombre avec votre curseur en guise de lampe torche."***
@@ -172,6 +183,7 @@ Ces mods ne peuvent pas être utilisés l'un avec l'autre, à l'exception de Rel
 
 ### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
 
+  
 ***Multiplicateur: 0 (Non classé)***
 
 ***<osu!> "Vous n'avez pas besoin ce cliquer.
@@ -192,6 +204,7 @@ En [Catch the Beat](FR:Catch_The_Beat "wikilink"), ce mod permet au personnage d
 
 ### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
 
+  
 ***Multiplicateur de score: 0 (Non classé, osu! seulement)***
 
 ***"Le mouvement du curseur est automatique, contentez-vous de suivre le rythme.
@@ -203,6 +216,7 @@ Auto Pilot n'est pas disponible pour les modes [Taiko](FR:Taiko "wikilink") ou [
 
 ### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
 
+  
 ***Multiplicateur de score: 0.9 (osu! seulement)***
 
 ***"Les spinners sont effectués automatiquement."***
@@ -213,6 +227,7 @@ Spun Out n'est pas disponible pour les modes [Taiko](FR:Taiko "wikilink") ou [Ca
 
 ### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
 
+  
 ***"Regardez l'ordinateur réaliser un score parfait."***
 
 Un mod qui permet au joueur de regarder une partie parfaite de la beatmap sélectionnée. Ce mod agit exactement comme un replay, permettant les changements de vitesse et les commentaires de la beatmap à être vus et faits. Le mod Auto obtiendra le grade SS (argenté si HD ou FL est activé), à l'exception de certains cas rares. Ces cas sont des beatmaps ayant un design qui les empêchent d'être ranked et à l'exception de ninja-spinners dans certaines maps anciennes, n'arrivera jamais dans les beatmaps ranked actuelles.
@@ -225,6 +240,7 @@ En [Catch the Beat](FR:Catch_The_Beat "wikilink"), le mod Auto ira au delà du p
 
 <img src="GM_Cinema_comp.jpg" title="Comparaison d&#39;Auto et de Cinema" alt="Comparaison d&#39;Auto et de Cinema" width="200" />
 
+  
 ***Cliquez sur Auto une nouvelle fois pour obtenir ce mod***
 
 ***Appuyez sur Crtl+Maj+Entrée pour utiliser directement le mod sans avoir à le sélectionner***
@@ -233,6 +249,7 @@ Ce mod ne montrera **que l'arrière-plan et le storyboard seulement** et sans le
 
 ### xK
 
+  
 ***Multiplicateur de score: 0.78~1.0 (osu!mania seulement)***
 
 Ce mod forcera toutes les beatmaps à utiliser le réglage sélectionné, ignorant donc le nombre de touches initial de la difficulté au coût d'une baisse du score.
@@ -247,6 +264,7 @@ Le multiplicateur s'applique seulement dans ces conditions: **Ce tableau affecte
 
 <img src="GM COOP2.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." width="100" /> <img src="GM COOP.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." width="200" />
 
+  
 ***Score multiplier: 0.70 ~ 1.00 (osu!mania only)***
 
 [Introduced in 5th of March, 2015 build](http://osu.ppy.sh/p/changelog?v=b20150305), this mod will introduce a second playfield with second set of control based on current xK count (7K -&gt; 7K + 7K). For osu!mania specific mode, the xK is split to half (7K -&gt; 4K + 3K). It is entirely possible to increase the key count to *18 Keys* (9K \[mod\] -&gt; 9K + 9K, applied to non-specific difficulties only).
@@ -342,6 +360,7 @@ Score multiplier only applies within this condition:
 
 <img src="GM Random.jpg" title="Effet du mod &quot;Random&quot;" alt="Effet du mod &quot;Random&quot;" width="200" />
 
+  
 ***Multiplicateur de score: 0 (Non classé, osu!mania seulement)***
 
 Ce mode va **changer l'emplacement des notes** seulement. Il ne change en rien quand appuyer et les notes ne sont pas mélangés à chaque fois que le mod est sélectionné. Faites attention en utilisant le mod puisque certains patterns seront changés pour être plus faciles/plus difficiles à faire, comme vu ci-contre.

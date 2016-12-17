@@ -2,6 +2,7 @@ Gunakan Template ini pada artikel yang terlalu panjang, dan artikel tersebut aka
 
 Tempatkan kode ini pada bagian puncak halaman artikel:
 
+  
     {{Long/ID}}
 
 <noinclude></noinclude>

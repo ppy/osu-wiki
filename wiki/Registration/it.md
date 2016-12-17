@@ -1,6 +1,7 @@
 Come registrarsi?
 -----------------
 
+  
 Registrare un account in osu! è semplice come contare fino a tre! Segui le istruzioni qui sotto.
 
 Se non effettuerai il log-in con il tuo account nel gioco entro 24 ore, la registrazione verrà rimossa ed annullata.
@@ -18,9 +19,10 @@ Steps
 | **Legenda**                                                                                                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. **Nome Utente (Username)** — Il tuo nome su osu!. Scegli con cura! Potrai cambiare il tuo nickname soltanto **una volta** se hai il supporter tag. 
-
- a. Massimo 15 caratteri  
-
+                                                                                                                                                        
+                                                                                                                                                        
+ a. Massimo 15 caratteri                                                                                                                                
+                                                                                                                                                        
  b. Soltanto i caratteri alfanumerici («a-z, A-Z, 0-9»), sottolineature («\_»), parentesi quadre, («\[» and «\]») e trattini («-») sono permessi.       |
 | 2.*' Indirizzo E-mail (E-mail Address)*' — Verrà usato in caso ti dimentichi la password e altre cose. Non scordartelo!                               |
 | 3. **Password** — Scrivi una password che rimanga solo in tuo possesso e di nessun altro.                                                             |
@@ -35,8 +37,9 @@ Steps
 
 | **Legenda**                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. **Icona di osu!** — Esegui osu! cliccando due volte o facendo click destro e poi esegui.  
-
+| 1. **Icona di osu!** — Esegui osu! cliccando due volte o facendo click destro e poi esegui.                                              
+                                                                                                                                           
+                                                                                                                                           
  *Nota: Non è necessario eseguire osu! come amministratore. Apparirà un prompt se sarà necessario farlo.*                                  |
 | 2. **Pannello Utent** — Cliccalo per eseguire il log-in oppure il log-out.                                                               |
 | 3. **Finestra di accesso (Log-in)** — Immetti l'username e la password che hai utilizzato in precedenza per registrarti e premi Sign in. |

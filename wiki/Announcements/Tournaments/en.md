@@ -1,12 +1,14 @@
+Tournaments
+===============
+
 Section dedicated for Tournaments and/or Competitons. [Forum link here.](//osu.ppy.sh/forum/55)
 
 Official World Cups
-===================
+----------------------
 
 Official tournaments hosted by the [Tournament Management](//osu.ppy.sh/g/26).
 
-![](/wiki/shared/Osu.gif) osu! World Cup
------------------------------------------
+### ![](/wiki/shared/Osu.gif) osu! World Cup
 
 osu! World Cup is a country-based 4v4 Team VS tournament following single-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
 
@@ -19,8 +21,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu! World Cup 2014](OWC/2014/en.md) | 02/10/2014 | 14/12/2014 | ![](/wiki/shared/flag/Jp.gif) Japan                     | ![](/wiki/shared/flag/Pl.gif) Poland                      | ![](/wiki/shared/flag/De.gif) Germany                     |
 | [osu! World Cup 2015](OWC/2015/en.md) | 01/10/2015 | 13/12/2015 | ![](/wiki/shared/flag/Us.gif) USA                       | ![](/wiki/shared/flag/Cn.gif) China                       | ![](/wiki/shared/flag/Pl.gif) Poland                      |
 
-![](/wiki/shared/Taiko.gif) Taiko World Cup
--------------------------------------------
+### ![](/wiki/shared/Taiko.gif) Taiko World Cup
 
 | Name                                   | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |----------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -31,8 +32,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [Taiko World Cup 2015](TWC/2015/en.md) | 12/01/2015 | 15/03/2015 | ![](/wiki/shared/flag/Jp.gif) Japan                     | ![](/wiki/shared/flag/Tw.gif) Taiwan                      | ![](/wiki/shared/flag/Fr.gif) France                      |
 | [Taiko World Cup 2016](TWC/2016/en.md) | 09/02/2016 | 24/04/2016 | ![](/wiki/shared/flag/Jp.gif) Japan                     | ![](/wiki/shared/flag/Tw.gif) Taiwan                      | ![](/wiki/shared/flag/Ca.gif) Canada                      |
 
-![](/wiki/shared/Ctb.gif) Catch the Beat World Cup
----------------------------------------------------
+### ![](/wiki/shared/Ctb.gif) Catch the Beat World Cup
 
 | Name                                            | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -41,8 +41,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [Catch the Beat World Cup 2014](CWC/2014/en.md) | 11/04/2014 | 15/06/2014 | ![](/wiki/shared/flag/Kr.gif) South Korea               | ![](/wiki/shared/flag/De.gif) Germany                     | ![](/wiki/shared/flag/Se.gif) Sweden                      |
 | [Catch the Beat World Cup 2015](CWC/2015/en.md) | 02/04/2015 | 14/06/2015 | ![](/wiki/shared/flag/Kr.gif) South Korea               | ![](/wiki/shared/flag/Cn.gif) China                       | ![](/wiki/shared/flag/De.gif) Germany                     |
 
-![](/wiki/shared/Mania.gif) osu!mania World Cup
---------------------------------------------------
+### ![](/wiki/shared/Mania.gif) osu!mania World Cup
 
 | Name                                             | Start      | End        | Mode | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -52,27 +51,26 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu!mania 7K World Cup 2016](MWC/2016/7K/en.md) | 01/12/2015 | 14/02/2016 | 7K   | ![](/wiki/shared/flag/Cn.gif) China                     | ![](/wiki/shared/flag/Kr.gif) South Korea                 | ![](/wiki/shared/flag/My.gif) Malaysia                    |
 
 Community
-=========
+----------
 
 Unofficial tournaments/competitions hosted by the communities.
 
-![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
-------------------------------------------------------------------
+### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
 
-The North American osu! Standard Tournament is a yearly tournament run by , it uses the [Double Elimination](wikipedia:Double-elimination_tournament "wikilink") style to determine a winner and is a solo tournament (1vs1). This style allows for a player to lose a match but still have a chance of winning, to counter the fact that newer players may be put against high ranked players in the first round.
+The North American osu! Standard Tournament is a yearly tournament run by , it uses the [Double Elimination](https://en.wikipedia.org/wiki/Double-elimination_tournament) style to determine a winner and is a solo tournament (1vs1). This style allows for a player to lose a match but still have a chance of winning, to counter the fact that newer players may be put against high ranked players in the first round.
 The tournament has been running since 2013, and will likely continue in the future. The Forum Post outlining all details of the tournament can be found [here](https://osu.ppy.sh/forum/t/324720)
 
-### Previous Winners
+#### Previous Winners
 
 - **NAT 2013 WINNER:** SapphireGhost
 - **NAT 2014 WINNER:**
 - **NAT 2015 WINNER:**
 
 See also
-========
+---------
 
--   [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments "wikilink")
+-   [List of countries that participated in osu! tournaments](/wiki/Countries-that-participated-in-osu!-tournaments/en.md)
 -   [World Cup Season Schedule 2013/14](http://osu.ppy.sh/forum/t/148024)
--   [osu!tourney](osu!tourney "wikilink") (Client used for tournament streaming)
+-   [osu!tourney](/wiki/osu!tourney/en.md) (Client used for tournament streaming)
 
-[Category:History of osu!](Category:History_of_osu! "wikilink")
+<Category:History of osu!>

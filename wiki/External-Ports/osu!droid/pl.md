@@ -103,6 +103,7 @@ Osu!droid MM.jpg| Główne menu Osu!droid Play.jpg| Wybór piosenek (skórka Oka
 Opcje
 -----
 
+  
 ***Przejdź do [tej](PL:osu!droid/Options "wikilink") strony aby dowiedzieć się czegoś więcej.***
 
 Jak zainstalować skórkę

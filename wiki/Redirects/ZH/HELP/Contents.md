@@ -31,47 +31,48 @@
 
 | 您所看到的                                                                              | 您所输入的                                                 |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------|
-| <div style="font-size:150%;border-bottom:1px solid #000000;">  
- 一级标题  
-
- </div>  
+| <div style="font-size:150%;border-bottom:1px solid #000000;">                           
+ 一级标题                                                                                 
+                                                                                          
+ </div>                                                                                   
  您可以使用*段落标题*来更好地编排文章结构。 维基的软件会自动将文章中的标题生成一个目录。  
-
- <div style="font-size:132%;font-weight:bold;">  
- 二级标题  
-
- </div>  
- 左右分別输入多一個的“等于号”(=)可以创建更多下一级标题。  
-
- <div style="font-size:116%;font-weight:bold;">  
- 三级标题  
-
- </div>  
- 请不要跳跃标题等级，例如一级标题之下直接就是三级标题，而没有二级标题。  
-
- 请在输入标题时最少使用2个等于号(=)，而不是1个。  
-
- <div style="font-size:100%;font-weight:bold;">  
- 四级标题  
-
- </div>  
- 四級標題非常罕有。                                                                       | == 一级标题 ==  
-
-                                                                                               您可以使用''段落标题''来更好地编排文章结构。  
-                                                                                               维基的软件会自动将文章中的标题生成一个目录。  
-
-                                                                                               === 二级标题 ===  
-
-                                                                                               输入更多的“等于号”(=)可以创建更多下一级标题。  
-
-                                                                                               ==== 三级标题 ====  
-
+                                                                                          
+ <div style="font-size:132%;font-weight:bold;">                                           
+ 二级标题                                                                                 
+                                                                                          
+ </div>                                                                                   
+ 左右分別输入多一個的“等于号”(=)可以创建更多下一级标题。                                  
+                                                                                          
+ <div style="font-size:116%;font-weight:bold;">                                           
+ 三级标题                                                                                 
+                                                                                          
+ </div>                                                                                   
+ 请不要跳跃标题等级，例如一级标题之下直接就是三级标题，而没有二级标题。                   
+                                                                                          
+ 请在输入标题时最少使用2个等于号(=)，而不是1个。                                          
+                                                                                          
+ <div style="font-size:100%;font-weight:bold;">                                           
+ 四级标题                                                                                 
+                                                                                          
+ </div>                                                                                   
+ 四級標題非常罕有。                                                                       | == 一级标题 ==                                             
+                                                                                                                                                       
+                                                                                               您可以使用''段落标题''来更好地编排文章结构。            
+                                                                                               维基的软件会自动将文章中的标题生成一个目录。            
+                                                                                                                                                       
+                                                                                               === 二级标题 ===                                        
+                                                                                                                                                       
+                                                                                               输入更多的“等于号”(=)可以创建更多下一级标题。           
+                                                                                                                                                       
+                                                                                               ==== 三级标题 ====                                      
+                                                                                                                                                       
                                                                                                请不要跳跃标题等级，例如一级标题之下直接就是三级标题。  
-
-                                                                                               请在输入标题时最少使用2个等于号(=)，而不是1个。  
-
-                                                                                               ===== 四級标题 ====  
-
+                                                                                                                                                       
+                                                                                               请在输入标题时最少使用2个等于号(=)，而不是1个。         
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                               ===== 四級标题 ====                                     
+                                                                                                                                                       
                                                                                                四級標題非常罕有。                                      |
 
 ### 列表
@@ -229,96 +230,96 @@
 | 您所看到的                                                                                                                                                           | 您所输入的                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 这是一个到名叫[Wikipedia:关于的链接](Wikipedia:关于 "wikilink")，你也可以写作[wikipedia:关于一樣正確](wikipedia:关于 "wikilink")。因为系统会自动将首字母转换为大写。 
-
- 但是不能链接自己：[帮助:编辑页面](帮助:编辑页面 "wikilink")。                                                                                                         | <nowiki>  
-                                                                                                                                                                            这是一个到名叫[[Wikipedia:关于]]的链接，  
-                                                                                                                                                                            你也可以写作[[wikipedia:关于]]一樣正確。  
-                                                                                                                                                                            因为系统会自动將首字母转换为大写。  
-                                                                                                                                                                            但是不能链接自己：[[帮助:编辑页面]]。  
+                                                                                                                                                                       
+ 但是不能链接自己：[帮助:编辑页面](帮助:编辑页面 "wikilink")。                                                                                                         | <nowiki>                                              
+                                                                                                                                                                            这是一个到名叫[[Wikipedia:关于]]的链接，           
+                                                                                                                                                                            你也可以写作[[wikipedia:关于]]一樣正確。           
+                                                                                                                                                                            因为系统会自动將首字母转换为大写。                 
+                                                                                                                                                                            但是不能链接自己：[[帮助:编辑页面]]。              
                                                                                                                                                                             </nowiki>                                          |
-| 你可以对链接文字进行样式处理，比如：*[Wikipedia:关于](Wikipedia:关于 "wikilink")*。                                                                                  | <nowiki>  
-                                                                                                                                                                            你可以对链接文字进行样式处理，比如：  
-                                                                                                                                                                            ''[[Wikipedia:关于]]''。  
+| 你可以对链接文字进行样式处理，比如：*[Wikipedia:关于](Wikipedia:关于 "wikilink")*。                                                                                  | <nowiki>                                              
+                                                                                                                                                                            你可以对链接文字进行样式处理，比如：               
+                                                                                                                                                                            ''[[Wikipedia:关于]]''。                           
                                                                                                                                                                             </nowiki>                                          |
-| [Wikipedia:野猪页面不存在](Wikipedia:野猪 "wikilink")。你可以点击该链接而创建该页面。                                                                                | <nowiki>  
-                                                                                                                                                                            [[Wikipedia:野猪]]页面不存在。  
-                                                                                                                                                                            你可以点击该链接而创建该页面。  
+| [Wikipedia:野猪页面不存在](Wikipedia:野猪 "wikilink")。你可以点击该链接而创建该页面。                                                                                | <nowiki>                                              
+                                                                                                                                                                            [[Wikipedia:野猪]]页面不存在。                     
+                                                                                                                                                                            你可以点击该链接而创建该页面。                     
                                                                                                                                                                             </nowiki>                                          |
-| 您可以用章节标题来链接到某一章节：  
-
- -   [Wikipedia:关于\#其他语言版本](Wikipedia:关于#其他语言版本 "wikilink")；
- -   [\#编辑要点链接到本页这一章节](#编辑要点 "wikilink")。
-
- 如果有几个章节标题相同，你可以加上一个数字。例如[\#样例\_3就链接到第三个叫](#样例_3 "wikilink")“样例”的章节。                                                         | <nowiki>  
-                                                                                                                                                                            您可以用章节标题来链接到某一章节：  
-                                                                                                                                                                            *[[Wikipedia:关于#其他语言版本]]；
-                                                                                                                                                                            *[[#编辑要点]]链接到本页这一章节。
-                                                                                                                                                                            如果有几个章节标题相同，  
-                                                                                                                                                                            你可以加上一个数字。  
-                                                                                                                                                                            [[#样例_3]]就链接到第三个叫“样例”的章节。  
+| 您可以用章节标题来链接到某一章节：                                                                                                                                   
+                                                                                                                                                                       
+ -   [Wikipedia:关于\#其他语言版本](Wikipedia:关于#其他语言版本 "wikilink")；                                                                                          
+ -   [\#编辑要点链接到本页这一章节](#编辑要点 "wikilink")。                                                                                                            
+                                                                                                                                                                       
+ 如果有几个章节标题相同，你可以加上一个数字。例如[\#样例\_3就链接到第三个叫](#样例_3 "wikilink")“样例”的章节。                                                         | <nowiki>                                              
+                                                                                                                                                                            您可以用章节标题来链接到某一章节：                 
+                                                                                                                                                                            *[[Wikipedia:关于#其他语言版本]]；                 
+                                                                                                                                                                            *[[#编辑要点]]链接到本页这一章节。                 
+                                                                                                                                                                            如果有几个章节标题相同，                           
+                                                                                                                                                                            你可以加上一个数字。                               
+                                                                                                                                                                            [[#样例_3]]就链接到第三个叫“样例”的章节。          
                                                                                                                                                                             </nowiki>                                          |
-| 链接目标相同，但显示不同：[Wikipedia:关关关关于](Wikipedia:关于 "wikilink")。若“|”后没有字符直接以“\]\]”结束，则保存时链接页面名会被自动添加。  
-
- -   [野猪](Wikipedia:野猪 "wikilink")
- -   [野猪](Wikipedia:野猪_(消歧义) "wikilink")：注意“()”不是“（）”
- -   [关于\#其他](Wikipedia:关于#其他 "wikilink")：这里没有自动生成链接                                                                                                | <nowiki>
-                                                                                                                                                                            链接目标相同，但显示不同：  
-                                                                                                                                                                            [[Wikipedia:关于|Wikipedia:关关关关于]]。  
-                                                                                                                                                                            若“|”后没有字符直接以“]]”结束，  
-                                                                                                                                                                            则保存时链接页面名会被自动添加。  
-                                                                                                                                                                            *[[Wikipedia:野猪|]]
-                                                                                                                                                                            *[[Wikipedia:野猪 (消歧义)|]]：注意“()”不是“（）”
-                                                                                                                                                                            *[[Wikipedia:关于#其他|]]：这里没有自动生成链接
+| 链接目标相同，但显示不同：[Wikipedia:关关关关于](Wikipedia:关于 "wikilink")。若“|”后没有字符直接以“\]\]”结束，则保存时链接页面名会被自动添加。                       
+                                                                                                                                                                       
+ -   [野猪](Wikipedia:野猪 "wikilink")                                                                                                                                 
+ -   [野猪](Wikipedia:野猪_(消歧义) "wikilink")：注意“()”不是“（）”                                                                                                    
+ -   [关于\#其他](Wikipedia:关于#其他 "wikilink")：这里没有自动生成链接                                                                                                | <nowiki>                                              
+                                                                                                                                                                            链接目标相同，但显示不同：                         
+                                                                                                                                                                            [[Wikipedia:关于|Wikipedia:关关关关于]]。          
+                                                                                                                                                                            若“|”后没有字符直接以“]]”结束，                    
+                                                                                                                                                                            则保存时链接页面名会被自动添加。                   
+                                                                                                                                                                            *[[Wikipedia:野猪|]]                               
+                                                                                                                                                                            *[[Wikipedia:野猪 (消歧义)|]]：注意“()”不是“（）”  
+                                                                                                                                                                            *[[Wikipedia:关于#其他|]]：这里没有自动生成链接    
                                                                                                                                                                             </nowiki>                                          |
-| 直接键入URL，即可得到外部链接：  
-
- -   <http://uncyclopedia.org> ；
- -   <ftp://uncyclopedia.org> ；
- -   <telnet://uncyclopedia.org>
-
- 或者有一个名称：  
-
- -   [伪基百科](http://uncyclopedia.org)
-
- 或者干脆不要名称：  
-
- -   [1](http://uncyclopedia.org)，
- -   [2](http://uncyclopedia.org)，
- -   [3](http://uncyclopedia.org)（自动编号）                                                                                                                          | <nowiki>
-                                                                                                                                                                            直接键入URL，即可得到外部链接：  
-                                                                                                                                                                            *http://uncyclopedia.org ；
-                                                                                                                                                                            *ftp://uncyclopedia.org ；
-                                                                                                                                                                            *telnet://uncyclopedia.org
-                                                                                                                                                                            或者有一个名称：  
-                                                                                                                                                                            *[http://uncyclopedia.org 伪基百科]
-                                                                                                                                                                            或者干脆不要名称：  
-                                                                                                                                                                            *[http://uncyclopedia.org]，
-                                                                                                                                                                            *[http://uncyclopedia.org]，
-                                                                                                                                                                            *[http://uncyclopedia.org]（自动编号）
+| 直接键入URL，即可得到外部链接：                                                                                                                                      
+                                                                                                                                                                       
+ -   <http://uncyclopedia.org> ；                                                                                                                                      
+ -   <ftp://uncyclopedia.org> ；                                                                                                                                       
+ -   <telnet://uncyclopedia.org>                                                                                                                                       
+                                                                                                                                                                       
+ 或者有一个名称：                                                                                                                                                      
+                                                                                                                                                                       
+ -   [伪基百科](http://uncyclopedia.org)                                                                                                                               
+                                                                                                                                                                       
+ 或者干脆不要名称：                                                                                                                                                    
+                                                                                                                                                                       
+ -   [1](http://uncyclopedia.org)，                                                                                                                                    
+ -   [2](http://uncyclopedia.org)，                                                                                                                                    
+ -   [3](http://uncyclopedia.org)（自动编号）                                                                                                                          | <nowiki>                                              
+                                                                                                                                                                            直接键入URL，即可得到外部链接：                    
+                                                                                                                                                                            *http://uncyclopedia.org ；                        
+                                                                                                                                                                            *ftp://uncyclopedia.org ；                         
+                                                                                                                                                                            *telnet://uncyclopedia.org                         
+                                                                                                                                                                            或者有一个名称：                                   
+                                                                                                                                                                            *[http://uncyclopedia.org 伪基百科]                
+                                                                                                                                                                            或者干脆不要名称：                                 
+                                                                                                                                                                            *[http://uncyclopedia.org]，                       
+                                                                                                                                                                            *[http://uncyclopedia.org]，                       
+                                                                                                                                                                            *[http://uncyclopedia.org]（自动编号）             
                                                                                                                                                                             </nowiki>                                          |
-| 使用[重定向](Help:重定向 "wikilink")，将用户重定向到其他页面。                                                                                                       | <nowiki>  
-#REDIRECT [[Wikipedia:野猪]]  
+| 使用[重定向](Help:重定向 "wikilink")，将用户重定向到其他页面。                                                                                                       | <nowiki>                                              
+                                                                                                                                                                            #REDIRECT [[Wikipedia:野猪]]                       
                                                                                                                                                                             </nowiki>                                          |
-| [分类链接并不会在字里行间出现](Help:分类 "wikilink")，但一旦使用，这个页面就会出现相应的分类：[](:Category:帮助文档 "wikilink")  
-
- 在链接前部加上一个冒号，就能链接到指定分类，而不是将页面加入分类：[](:Category:帮助文档 "wikilink")  
-
- 图像也是如此：![](Wiki.png "fig:Wiki.png")，[:File:Wiki.png](:File:Wiki.png "wikilink")                                                                               | <nowiki>  
-                                                                                                                                                                            [[Help:分类|分类链接]]并不会在字里行间出现，  
-                                                                                                                                                                            但一旦使用，这个页面就会出现相应的分类：  
-                                                                                                                                                                            [[:Category:帮助文档|{{PAGENAME}}]]  
-                                                                                                                                                                            在链接前部加上一个冒号，  
-                                                                                                                                                                            就能链接到指定分类，  
-                                                                                                                                                                            而不是将页面加入分类。  
-                                                                                                                                                                            [[:Category:帮助文档|{{PAGENAME}}]]  
-                                                                                                                                                                            图像也是如此：  
-                                                                                                                                                                            [[File:Wiki.png]]，  
-                                                                                                                                                                            [[:File:Wiki.png]]  
+| [分类链接并不会在字里行间出现](Help:分类 "wikilink")，但一旦使用，这个页面就会出现相应的分类：[](:Category:帮助文档 "wikilink")                                      
+                                                                                                                                                                       
+ 在链接前部加上一个冒号，就能链接到指定分类，而不是将页面加入分类：[](:Category:帮助文档 "wikilink")                                                                   
+                                                                                                                                                                       
+ 图像也是如此：![](Wiki.png "fig:Wiki.png")，[:File:Wiki.png](:File:Wiki.png "wikilink")                                                                               | <nowiki>                                              
+                                                                                                                                                                            [[Help:分类|分类链接]]并不会在字里行间出现，       
+                                                                                                                                                                            但一旦使用，这个页面就会出现相应的分类：           
+                                                                                                                                                                            [[:Category:帮助文档|{{PAGENAME}}]]                
+                                                                                                                                                                            在链接前部加上一个冒号，                           
+                                                                                                                                                                            就能链接到指定分类，                               
+                                                                                                                                                                            而不是将页面加入分类。                             
+                                                                                                                                                                            [[:Category:帮助文档|{{PAGENAME}}]]                
+                                                                                                                                                                            图像也是如此：                                     
+                                                                                                                                                                            [[File:Wiki.png]]，                                
+                                                                                                                                                                            [[:File:Wiki.png]]                                 
                                                                                                                                                                             </nowiki>                                          |
-| 要得到一本书的站外书源，你可以使用[ISBN链接](Wikipedia:ISBN "wikilink")，例如：ISBN 0-12-345678-9 。                                                                 | <nowiki>  
-                                                                                                                                                                            要得到一本书的站外书源，  
-                                                                                                                                                                            你可以使用[[Wikipedia:ISBN|ISBN]]链接，  
-                                                                                                                                                                            例如：ISBN 0-12-345678-9 。  
+| 要得到一本书的站外书源，你可以使用[ISBN链接](Wikipedia:ISBN "wikilink")，例如：ISBN 0-12-345678-9 。                                                                 | <nowiki>                                              
+                                                                                                                                                                            要得到一本书的站外书源，                           
+                                                                                                                                                                            你可以使用[[Wikipedia:ISBN|ISBN]]链接，            
+                                                                                                                                                                            例如：ISBN 0-12-345678-9 。                        
                                                                                                                                                                             </nowiki>                                          |
 
 ### 控制语法
@@ -407,21 +408,21 @@ pre标记忽略[[维基]]代码。
 
 | 您所看到的                                                                                          | 您所输入的                                          |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 图片，包含：  
-
- ![中文维基](Wiki.png "中文维基")  
-
- 图片可以加框加标题：  
-
- ![中文维基](Wiki.png "中文维基")                                                                     | <nowiki>  
-                                                                                                           图片，包含：  
-                                                                                                           [[File:Wiki.png|中文维基]]  
-                                                                                                           图片可以加框加标题：  
-                                                                                                           [[File:Wiki.png|frame|中文维基]]  
+| 图片，包含：                                                                                        
+                                                                                                      
+ ![中文维基](Wiki.png "中文维基")                                                                     
+                                                                                                      
+ 图片可以加框加标题：                                                                                 
+                                                                                                      
+ ![中文维基](Wiki.png "中文维基")                                                                     | <nowiki>                                            
+                                                                                                           图片，包含：                                     
+                                                                                                           [[File:Wiki.png|中文维基]]                       
+                                                                                                           图片可以加框加标题：                             
+                                                                                                           [[File:Wiki.png|frame|中文维基]]                 
                                                                                                            </nowiki>                                        |
-| 使用**File:**标记可直接链接到媒体文件的地址。 例如：![一个声音文件](Sg_mrob.ogg "fig:一个声音文件") | <nowiki>  
+| 使用**File:**标记可直接链接到媒体文件的地址。 例如：![一个声音文件](Sg_mrob.ogg "fig:一个声音文件") | <nowiki>                                            
                                                                                                            使用'''File:'''标记可直接链接到媒体文件的地址。  
-                                                                                                           例如：[[File:Sg_mrob.ogg|一个声音文件]]  
+                                                                                                           例如：[[File:Sg_mrob.ogg|一个声音文件]]          
                                                                                                            </nowiki>                                        |
 
 ### 字符格式
@@ -519,24 +520,24 @@ X&lt;sup&gt;2&lt;/sup&gt;, H&lt;sub&gt;2&lt;/sub&gt;O</code></pre></td>
 | | 这           | 是   | 
  |--------------|------|  
  | 个           | 表格 |  
- | |          |  
-  |----------|  
-  | 表格嵌套 |  
-  | 见否？   |  |         | <nowiki>  
+ | |          |           
+  |----------|            
+  | 表格嵌套 |            
+  | 见否？   |  |         | <nowiki>                                                         
                                {| border="1" cellspacing="0" cellpadding="5" align="center"  
-                               ! 这  
-                               ! 是  
-                               |-  
-                               | 个  
-                               | 表格  
-                               |-  
-                               | colspan=2 |  
-                               {| border=3  
-                               | 表格嵌套  
-                               |-  
-                               | style="background:#ff3322" | 见否？  
-                               |}  
-                               |}  
+                               ! 这                                                          
+                               ! 是                                                          
+                               |-                                                            
+                               | 个                                                          
+                               | 表格                                                        
+                               |-                                                            
+                               | colspan=2 |                                                 
+                               {| border=3                                                   
+                               | 表格嵌套                                                    
+                               |-                                                            
+                               | style="background:#ff3322" | 见否？                         
+                               |}                                                            
+                               |}                                                            
                                </nowiki>                                                     |
 
 ### 数学公式
@@ -545,7 +546,7 @@ X&lt;sup&gt;2&lt;/sup&gt;, H&lt;sub&gt;2&lt;/sub&gt;O</code></pre></td>
 
 | 您所看到的                             | 您所输入的                                        |
 |----------------------------------------|---------------------------------------------------|
-| $\\sum\_{n=0}^\\infty \\frac{x^n}{n!}$ | <nowiki>  
+| $\\sum\_{n=0}^\\infty \\frac{x^n}{n!}$ | <nowiki>                                          
                                               <math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>  
                                               </nowiki>                                      |
 
@@ -650,13 +651,13 @@ X&lt;sup&gt;2&lt;/sup&gt;, H&lt;sub&gt;2&lt;/sub&gt;O</code></pre></td>
 
 | 您所看到的                                                                     | 您所输入的                                                                         |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|                                                                                | <nowiki>  
-                                                                                      {{demo}}  
+|                                                                                | <nowiki>                                                                           
+                                                                                      {{demo}}                                                                        
                                                                                       </nowiki>                                                                       |
-| 此模板有两个参数，生成下划线文字，且鼠标停留其上时，出现的有特定内容的悬浮框。 | <nowiki>  
+| 此模板有两个参数，生成下划线文字，且鼠标停留其上时，出现的有特定内容的悬浮框。 | <nowiki>                                                                           
                                                                                       此模板有两个参数，生成下划线文字，且鼠标停留其上时，出现的有特定内容的悬浮框。  
-
-                                                                                      {{Template:H:title|老虎不吃人，因为没眼神。|一二三四五，上山打老虎。}}  
+                                                                                                                                                                      
+                                                                                      {{Template:H:title|老虎不吃人，因为没眼神。|一二三四五，上山打老虎。}}          
                                                                                       </nowiki>                                                                       |
 
 提示与技巧

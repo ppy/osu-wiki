@@ -1,3 +1,6 @@
+Announcements archive
+======================
+
 This page is to be used to archive announcements for easy access
 
 osu!weekly
@@ -82,6 +85,7 @@ You can email any tips for news directly to tips@ppy.sh or news@ppy.sh
 | [osu!weekly #2](//osu.ppy.sh/news/114180316308)                                          | Hello again! I’m Tasha, and I’m here to bring you the second week of osu!weekly...                           |
 | [osu!weekly #1](//osu.ppy.sh/news/113518228483)                                          | Hello there! I’m Tasha, and I’m here to bring you the first week of osu!weekly!                              |
 
+
 Ranking Charts
 --------------
 
@@ -122,6 +126,7 @@ Ranking Charts
 Tournaments
 -----------
 
+
 ***[Official wiki page.](Tournaments "wikilink")***
 
 -   [osu!mania 4K World Cup 2016 - Registrations now open!](//osu.ppy.sh/news/146609981558)
@@ -151,6 +156,7 @@ Tournaments
 Monthly Beatmapping Contest
 ---------------------------
 
+
 ***[Official wiki page for results.](Contests#Monthly_Beatmapping_Contest "wikilink")***
 
 | Announcement                                                                                                                                                             | Results                                                                        |
@@ -168,6 +174,7 @@ Monthly Beatmapping Contest
 | [Monthly Beatmapping Contest #3 - Submissions Open](//osu.ppy.sh/news/70079897578) // [Monthly Beatmapping Contest #3 - Submissions Ext](//osu.ppy.sh/news/75911965309) | [Monthly Beatmapping Contest #3 results](//osu.ppy.sh/news/77183675009)        |
 | [Monthly Beatmapping Contest #2 - Submissions Open!](//osu.ppy.sh/news/65311349854)                                                                                      | [Monthly Beatmapping Contest #2 - Results](//osu.ppy.sh/news/72422807506)      |
 | [Monthly Beatmapping Contest #1 - Results!](//osu.ppy.sh/news/64561724273)                                                                                               | [osu! Monthly Beatmapping Contest #1](//osu.ppy.sh/news/60440803370)           |
+
 
 ### Mapping with Rewards
 
@@ -189,6 +196,7 @@ Some remarks about mapping with rewards (and some differences with [\#Monthly Be
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | [Mapping With Rewards (Sep. 2015)](http://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [Mapping With Rewards #1 - Bounties Complete!](//osu.ppy.sh/news/145260581333) |
 | [Mapping With Rewards (Oct. 2015)](http://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | *still active!*                                                                |
+
 
 Fan Art Contests
 ----------------
@@ -265,6 +273,7 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 | #6  | [osu!monthly #6 (High res)](//puu.sh/7EyB)                                                                                                                                                | [Forum #6](//osu.ppy.sh/forum/t/65452) | 27/10/11                    | [Lybydose](//osu.ppy.sh/u/64501), [RandomJibberish](//osu.ppy.sh/u/157879)                                |
 | #7  | [osu!monthly #7]()                                                                                                                                                                        | [Forum #7]()                           | *unknown*                   | [mm201](//osu.ppy.sh/u/30655)                                                                             |
 
+
 ### Old osu!news group
 
 | Title/Link                                                                 | 15 word snippet (preview)                                                                                    |
@@ -277,6 +286,7 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 | [Easy Mod: How and Why](//osu.ppy.sh/news/56948486143)                     | The Easy mod is notorious for actually making most maps harder, creating massive overlaps and...             |
 | [Interview with Ephmeral](//osu.ppy.sh/news/56947685704)                   | Ephemeral, joining the game in August of 2009, has taken an active part in the...                            |
 | [The Revival](//osu.ppy.sh/news/56943222761)                               | The osu!monthly’s original concept was to be a newsletter for the community to find the...                   |
+
 
 ### Media
 

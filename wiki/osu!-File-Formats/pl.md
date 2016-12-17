@@ -22,6 +22,7 @@ Specyficzne formaty plików osu!
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr](PL:Osr_(file_format) "wikilink")        | Uruchamialny plik z powtórką (nie może zostać zdekompresowany).                                                        |
 
+
 ![.osk/.osz file icon](Osu!sys os.png) Tworzenie pliku .osz/.osk
 =============================================================================================================================
 
@@ -38,15 +39,15 @@ Za pomocą archiwum
 **Procedura**
 
 1.  Skompiluj swoje pliki do foldera (.mp3, .flv, .osu, SB, itd. do foldera). Nazwij folder.
-
+      
     Dla potrzeby wyjaśnienia, folder zostanie nazwany "Amigo Fiesta".
 
 2.  Kliknij folder prawym przyciskiem myszy i wybierz opcję archiwizacji foldera (Add to archive....).
-
+      
     Możesz także otworzyć archiwizer plików i przeciągnąć do niego folder.
 
 3.  Przejrzyj ustawienia. Ustaw metodę archiwizacji jako ".zip" (nie .7z, .rar) i zmień ręcznie rozszerzenie foldera na .osz w polu tekstowym.
-
+      
     Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Metoda archiwizacji: ".zip"
 
 4.  Umożliw proces archiwizacji. Plik .osz będzie wyprodukowany jako produkt końcy wraz z charakterystyczną ikonką osu!.
@@ -68,7 +69,7 @@ Za pomocą gry
 **Procedura**
 
 1.  Tak samo jak powyżej, skompiluj pliki do foldera, którego potem nazwij.
-
+      
     Zazwyczaj, jeśli edytowałeś beatmapę wcześniej, wszystko było gotowe do konwersji na .osz. Dla skinów, musisz wcześniej skompresować pliki.
 
 2.  Otwórz osu!.

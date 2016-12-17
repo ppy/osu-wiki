@@ -6,6 +6,7 @@
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | Лидер проекта |
 
+
 В строю
 ----------------------
 
@@ -21,6 +22,7 @@
 | [yelle](https://osu.ppy.sh/u/4916903) | Управление онлайн-магазином osu! |
 | [ztrot](https://osu.ppy.sh/u/6347) | Профессор osu!academy, Ответственный за медиа и дизайн персонажей |
 | [Zallius](https://osu.ppy.sh/u/55) | Вымирающий вид |
+
 
 Ушедшие на покой
 ----------------------
@@ -40,6 +42,7 @@
 | [Sinistro](https://osu.ppy.sh/u/5530) | Организатор встреч, Значительный вклад в FAQ |
 | [woc2006](https://osu.ppy.sh/u/1105845) | Разработчик osu!, Разработчик osu!mania |
 
+
 Группы пользователей
 ----------------------
 
@@ -53,5 +56,6 @@
 | [osu!news](http://osu.ppy.sh/g/25) | Качественные статьи с 2013 года |
 | [Турнирный персонал](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Контроль качества (QAT)](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Контроль качества ранкнутых карт |
+
 
 <Category:People>

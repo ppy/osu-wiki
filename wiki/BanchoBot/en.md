@@ -10,6 +10,7 @@ Appearance and task
     -   If you send the COMMAND without an exclamation mark ("!") while in BanchoBot tab, BanchoBot still receives same like when you use /bb
 -   You can't use exclamation mark based command on non-BanchoBot Private Message tab.
 
+
 #### Standard Commands (!COMMAND or /bb COMMAND)
 
 | COMMAND | Effect | Example | BanchoBot response |

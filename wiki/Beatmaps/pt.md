@@ -1,6 +1,7 @@
 O que são "Beatmaps"?
 =====================
 
+  
 *Pagina de Listagem de Beatmaps: <http://osu.ppy.sh/p/beatmaplist>*
 
 Um mapa de batidas, também chamado de map (mapa) para abreviar. É um nível de jogo no [osu!](PT:Glossary#osu! "wikilink"), assim como os estágios nos [jogos de DS](PT:Glossary#DS_Games "wikilink"). Na sua forma mais básica, beatmaps têm uma música e [Hit Circles](PT:Glossary#Hit_Circle "wikilink"), [Sliders](PT:Slider "wikilink"), e/ou [Spinners](PT:Glossary#Spinner "wikilink") colocados ao ritmo da música, mas eles também poderão ter uma imagem ou vídeo de fundo, ou até uma [Storyboard](PT:Storyboarding "wikilink"). Criadores dos beatmaps são também chamados de [beatmappers](PT:Mapper "wikilink") ou apenas mappers, para abreviar. Beatmaps são carregados para os jogadores assistirem e jogarem usando o [BSS](PT:Glossary#BSS "wikilink"), e de seguida são modificados aos poucos usando sugestões de outros players através do processo de [modding](PT:Modding "wikilink"). Se/Quando o beatmap for considerado bom o suficiente, ele se tornará [ranked](PT:Ranked_beatmap "wikilink") ou, em casos raros, [approved](PT:Approved_Beatmap "wikilink").

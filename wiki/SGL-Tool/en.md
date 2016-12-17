@@ -39,6 +39,7 @@ Also, if you have a great SGL script which you think needs sharing, post/PM. And
 Known Issues
 ------------
 
+  
 that hopefully will be fixed in the next release:
 
 -   ~~Support for Storyboard Loops~~ (Done)

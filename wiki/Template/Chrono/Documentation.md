@@ -26,6 +26,7 @@ Note: if a parameter is empty, remove it, or it will break the template
 Example
 -------
 
+  
 *From [Making Good Slider Waves](Making_Good_Slider_Waves "wikilink")*
 
 <!-- -->

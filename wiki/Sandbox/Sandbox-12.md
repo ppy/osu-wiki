@@ -76,6 +76,7 @@ Main Menu
 User Options
 ------------
 
+  
 *User Panel color codes explained here: [Chat Console](Chat_Console#Extended_Chat_Console "wikilink")*
 
 <img src="useroptions1.png" title="User Options" alt="User Options" width="415" />
@@ -307,6 +308,7 @@ Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| 
 
 #### Online score leaderboard
 
+  
 Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
@@ -343,6 +345,7 @@ Multiplayer
 Lobby
 -----
 
+  
 *Also see: [Multiplayer\#Lobby](Multiplayer#Lobby "wikilink")*
 
 <img src="Multi-play.png" title="fig:Multi-play.png" alt="Multi-play.png" width="415" />

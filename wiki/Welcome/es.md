@@ -18,6 +18,7 @@ Para técnicas de juego, tendrás que aprender conforme vayas jugando, pues es u
 Cómo empezar a jugar tus canciones favoritas!
 =============================================
 
+  
 *Explicación completa: [Beatmaps](ES:Beatmaps "wikilink")*
 
 Paso 1 - ¡Encuentra la canción!
@@ -67,6 +68,7 @@ Entonces qué es exactamente el modo de juego "Solo"? Básicamente, es el modo d
 Multijugador
 ------------
 
+  
 *Explicación completa: [Multijugador](ES:Multiplayer "wikilink")*
 
 Si te sientes un poco solo jugando en el modo de Un Jugador, siempre puedes unirte a un lobby multijugador. El requerimiento mínimo para jugar en multijugador ces únicamente una cuenta con una conexión de Internet decente. Para entrar, presiona el botón "Multi". Ahí, verás muchos opciones que van desde niveles "Fácil" a "Insane". Jugando en multijugador es una buena manera de hacer nuevos amigos y comparar tu habilidad con otros jugadores. Una vez que te unas a una partida, probablemente tendrás que descargar el beatmap escogido por el anfitrión. Clic en "Clic aquí para desccargar este mapa" (debería estar en la parte derecha, es una pestaña roja), y tu navegador web debería abrir la página para descargar el beatmap. Solo da clic en el gran botón de "Descargar el Beatmap" (necesitas iniciar sesión primero) y abrir el archivo .osz tan pronto como la descarga termine. No te preocupes si crees que la descarga es muy lenta, la mayoría de los anfitriones esperarán a que tu descarga finalice y te preguntarán por el porcentaje de la descarga. ¡No seas tímido y diles! Si sientes que tomará demasiado, puedes decirles que jueguen sin ti (el anfitrión tiene un comando especial para ello, Forzar Iniciar Juego). El gameplay de multijugador es ligeramente diferente al de un jugador, pues no podrás pausar el juego y los mods estarán limitados para que solo el anfitrión pueda seleccionarlos (este tiene el privilegio y puede dar permiso al activar "Mods Libres"). La característica única en el Multijugador es el Tag Co-Op (o Team Co-Op para hacerlo en equipo) y el Team VS. También, puedes ver los puntos de tus oponentes/compañeros de equipo mientras juegas, creando una intensa atmósfera mientras intentas asegurar tu lugar.

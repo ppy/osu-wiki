@@ -11,6 +11,7 @@ Diese Mods machen das Spiel einfacher, aber bringen einen geringeren Punktemulti
 
 ### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
+  
 ***Punktemultiplikator: 0,5x***
 
 ***"Reduziert Overall Difficulty - größere Circles, großzügigerer HP Abzug, weniger Genauigkeit benötigt."***
@@ -27,6 +28,7 @@ easymod.jpg|Easy macht die Schwierigkeit auf viele Art und Weisen leichter. easy
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
+  
 ***Punktemultiplikator: 0,5x***
 
 ***"Du kannst nicht scheitern, egal was kommt"***
@@ -41,6 +43,7 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus gilt das selbe wie im os
 
 <img src="GM_HT.jpg" title="Die Länge des Liedes wird um 1/3 erhöht Die BPM wird um 1/4 erniedrigt" alt="Die Länge des Liedes wird um 1/3 erhöht Die BPM wird um 1/4 erniedrigt" width="300" />
 
+  
 ***Punktemultiplikator: 0,3x***
 
 ***"Trucker Trucker"***
@@ -60,6 +63,7 @@ Diese Mods führen neue Elemente ein, welche das Spiel schwerer machen und den S
 
 <img src="hardrock.jpg" title="HardRock erhöht die Schwierigkeit auf viele Art und Weisen." alt="HardRock erhöht die Schwierigkeit auf viele Art und Weisen." width="400" />
 
+  
 ***Punktemultiplikator: 1,06x (osu!, Taiko) , 1,12x (Catch the Beat)***
 
 ***"Alles wird etwas schwerer..."***
@@ -76,6 +80,7 @@ In osu!mania werden die Platzierung der Noten durch Hardock nicht beeinflusst. L
 
 <img src="SD Rarecase.jpeg" title="Beispiel für den seltenen Fall SuddenDeath zu überleben. Der Spieler schafft es einen Slidertick zu erwischen, welcher die HP Leiste vor der kompletten Entleerung bewahrt." alt="Beispiel für den seltenen Fall SuddenDeath zu überleben. Der Spieler schafft es einen Slidertick zu erwischen, welcher die HP Leiste vor der kompletten Entleerung bewahrt." width="200" />
 
+  
 ***"Verfehle eine Note und du verlierst."***
 
 SuddenDeath sorgt dafür das der Spieler verliert, sobald die Combo abbricht. Dies sorgt für ein extra großes Verfehlt-Symbol sowie einem vollen HP Abzug. Combos können abbrechen wenn Noten, Sliderticks nicht getroffen oder ein Spinner nicht geschafft wird, allerdings brechen Combos nicht ab, wenn Sliderenden nicht getroffen werden (Dies führt nur dazu, dass man einen 100er Treffer für den Slider bekommt). Dieser Mod kann nützlich sein, wenn man versucht, eine volle Combo auf der Map zu erreichen. Jedoch mögen viele Spieler es nicht SuddenDeath zu benutzen, weil es ihnen die Möglichkeit nimmt den Rest der Map zu üben.
@@ -88,6 +93,7 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus hat der Mod die selben E
 
 #### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
 
+  
 ***Doppelklick oder Rechtsklick auf Sudden Death***
 
 ***"SS oder hau ab."***
@@ -98,6 +104,7 @@ Wenn du einen Rechtsklick oder einen Doppelklick auf den SuddenDeath Mod machst,
 
 <img src="GM_DT.jpg" title="Die Lied Länge wird um 1/3 kürzer Die BPM wird um 1/2 erhöht" alt="Die Lied Länge wird um 1/3 kürzer Die BPM wird um 1/2 erhöht" width="300" />
 
+  
 ***Punktemultiplikator: 1,12x (osu!, Taiko) , 1,06x (Catch the Beat)***
 
 ***"Brumm Brumm"***
@@ -112,6 +119,7 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus wird die Geschwindigkeit
 
 #### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
 
+  
 ***Doppelklick oder Rechtsklick auf DoubleTime***
 
 ***"uguuuuuuuu"***
@@ -122,6 +130,7 @@ Wenn du auf das DoubleTime Symbol doppel- oder rechtsklickst, wird es zum Nightc
 
 ### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
 
+  
 ***Punktemultiplikator: 1,06x***
 
 ***"Spiele ohne Approach Circles und verschwindenden Noten für einen kleinen Punkte Bonus."***
@@ -134,6 +143,7 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus sorgt Hidden dafür, das
 
 #### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
 
+  
 ***Punktemultiplikator: 1.00x*** (Nur in osu!mania)
 
 Dieser Mod ist nur für osu!mania verfügbar. Es versteckt ca. 1/4 der oberen Hälfte des Spielfeldes. Die Dunkelheit wird sich langsam bis zur 500. Combo auf ungefähr 3/4 des Spielfeldes erstrecken, bis die Combo abbricht. Ab einer Combo von 300 ist bereits die Hälfte des Spielfeldes verdeckt.
@@ -148,6 +158,7 @@ Zum Vergleich siehe die folgenden Bilder
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
+  
 ***Punktemultiplikator: 1,12x***
 
 ***"Eingeschränktes Sichtfeld"***
@@ -173,6 +184,7 @@ Die unten gelisteten Mods können nicht miteinander benutzt werden außer Relax 
 
 ### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
 
+  
 ***Punktemultiplikator: 0x (Ungewertet)***
 
 ***"Du brauchst nicht zu klicken.
@@ -187,6 +199,7 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus kann der Fänger einfach
 
 ### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
 
+  
 ***Punktemultiplikator: 0x (Ungewertet und nur im osu! Modus verfügbar)***
 
 ***"Automatische Cursor Bewegung - Folge nur dem Rhythmus.
@@ -196,6 +209,7 @@ Ein Mod in welchem man nur klicken braucht. Das Spiel bewegt den Cursor für dic
 
 ### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
 
+  
 ***Punktemultiplikator: 0.9 (nur im osu! Modus)***
 
 ***"Spinner werden automatisch beendet."***
@@ -206,6 +220,7 @@ Spun Out ist nicht im [Taiko](DE:Taiko "wikilink"), [Catch the Beat](DE:Catch_Th
 
 ### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
 
+  
 ***"Sieh dir einen perfekten Durchlauf von der Map an"***
 
 Der Auto Mod erlaubt es dem Spieler einen perfekten Durchlauf von einer Beatmap anzusehen. Dieser Mod funktioniert genauso, als ob man sich ein Replay anguckt und erlaubt es, die Map mit doppelter Geschwindigkeit zu sehen sowie Kommentare auf der Beatmap zu verfassen oder zu sehen. Auto Mod wird immer ein SS Rang bekommen außer in besonderen Fällen. Diese Fälle gelten als nicht rankbar und treten nicht in heutigen ranked Beatmaps auf. Alte Maps können allerdings nicht rankbare Sachen wie Ninja [Spinner](DE:Hit_Objects "wikilink") aufweisen.
@@ -218,12 +233,14 @@ Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus erreicht der Auto Mod ei
 
 <img src="GM_Cinema_comp.jpg" title="Comparison of Auto and Cinema mod" alt="Comparison of Auto and Cinema mod" width="200" />
 
+  
 ***Klick ein weiteres Mal auf Auto, um den Cinema Mod zu aktivieren***
 
 Der Mod zeigt nur das **Hintergrundbild und Storyboard** an, ohne den ganzen Hit Objekten. Sie können die Mods DT/NC/HT benutzen und den Hit Sounds von der gewählten Schwierigkeitsstufe zuhören. Es kann nicht pausiert werden. User-Kommentare und das Ergebnis werden nicht angezeigt. Der Background Dimmer wird auf 0% zurückgesetzt, dazu wird auch noch das Video und das Storyboard mit abgespielt, wenn dieser Mod im Einsatz ist.
 
 ### <img src="4K.png" title="fig:4K.png" alt="4K.png" width="69" height="65" /><img src="5k.png" title="fig:5k.png" alt="5k.png" width="69" height="65" /><img src="6k.png" title="fig:6k.png" alt="6k.png" width="69" height="65" /><img src="7k.png" title="fig:7k.png" alt="7k.png" width="69" height="65" /><img src="8k.png" title="fig:8k.png" alt="8k.png" width="69" height="65" /> 4K/5K/6K/7K/8K
 
+  
 ***Punktemultiplikator: 0.78~1.0 (Nur in osu!mania)***
 
 Dieser Mod zwingt alle Beatmap Schwierigkeiten eine bestimmte Tasten- oder Keyanzahl (oder kurz xK) zu haben, vermindert allerdings dafür den Punktemultiplikator.
@@ -293,6 +310,7 @@ Der Punktemultiplikator funktioniert nur unter folgenden Bedingungen:
 
 <img src="GM Random.jpg" title="Effekt vom &quot;Random&quot; Mod" alt="Effekt vom &quot;Random&quot; Mod" width="200" />
 
+  
 ***Score multiplier: 0 (Unranked, nur im osu!mania)***
 
 Dieser Mod ändert die Platzierung der Noten, zeittechnisch bleiben die Noten unverändert. Gib acht auf die Noten Pattern, wenn sie den Mod benutzen, da sie entweder einfacher oder schwerer werden. It does not affect the timeline note to hit and is not shuffled every time this mod is used.

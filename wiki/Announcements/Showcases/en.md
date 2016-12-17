@@ -1,4 +1,8 @@
-## Showcases
+Showcases
+=============
+
+Showcases
+----------
 
 ### Skinning Showcase
 
@@ -12,7 +16,7 @@
 | \#6      | [NeOsu](//osu.ppy.sh/forum/t/181489)                              | [OsuMe65](//osu.ppy.sh/u/852867)       | [News \#6](//osu.ppy.sh/news/79496003745) | [Video \#6](//www.youtube.com/watch?v=Fa4T-AnyHHQ)  |
 | \#7      | [Catch the Beat Spezial](//osu.ppy.sh/news/86623206423) (4 Skins) | *Various*                              | [News \#7](//osu.ppy.sh/news/86623206423) | [Video \#7](//www.youtube.com/watch?v=DVVr2WQO5pQ)  |
 
-## Storyboard Showcase
+### Storyboard Showcase
 
 | Showcase | Beatmap (Creator)                                                       | Storyboader                         | News link                                                                                 | Video link                                                                 |
 |----------|-------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -24,7 +28,8 @@
 | \#6      | [YUI - Sea (VanMoNky)](//osu.ppy.sh/s/13021)                            | [VanMoNky](//osu.ppy.sh/u/117865)   | [News \#6](//news.ppy.sh/post/72951293450/storyboard-showcase-yui-sea)                    | [Video \#6](//docs.google.com/file/d/0B0tdQFULXfZfWlFKMnJtNjJremM/view)    |
 | \#7      | [Lia - Toki wo Kizamu Uta (kanpakyin)](//osu.ppy.sh/s/35701)            | [JoJo](//osu.ppy.sh/u/421286)       | [News \#6](//news.ppy.sh/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta)     | [Video \#6](//www.youtube.com/watch?feature=player_embedded&v=ZwYPDOutZPc) |
 
-## Best of series
+Best of series
+-----------------
 
 ### osu!standard
 
@@ -75,6 +80,7 @@
 | \#1     | [DJ Fresh - Gold Dust (galvenize)](//osu.ppy.sh/s/28107)      |
 | \#2     | [Bomfunk MC's - Freestyler (Lesjuh)](//osu.ppy.sh/s/35629)    |
 | \#3     | [07th Expansion - Final Answer (gowww)](//osu.ppy.sh/s/26226) |
+
 
 -    [Top 100](//docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 -    [Charts](//osu.ppy.sh/p/chart?ch=best2011)

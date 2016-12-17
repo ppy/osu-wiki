@@ -1,4 +1,4 @@
-
+  
 ***[Click here to go back to History of osu! 2013/2014](History_of_osu!/4 "wikilink")***
 
 -   Full list of 2012 beatmaps (The vote button will not work): <http://osu.ppy.sh/p/bestof2012>

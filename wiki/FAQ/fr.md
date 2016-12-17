@@ -23,6 +23,7 @@ Vous pouvez voir les cibles sur l’écran inférieur et l’histoire (ou [Story
 Comment est-ce que je joue ?
 ----------------------------
 
+  
 *Explication complète: [osu! Standard](FR:Standard "wikilink")*
 
 Vu que la plupart des utilisateurs de PC ne possèdent pas d’écran tactile à leur dispotion, ce jeu a été fait pour être joué avec une souris ordinaire ou avec tous les autres périphériques auxquels vous pouvez penser. Différents styles de jeu peuvent être trouvés sur la page [Styles de jeu](FR:Play_Styles "wikilink"). Il y a quelques fois des chansons qui poussent la souris à ses limites (et vous en passant), mais toutes les beatmaps (approuvées par le staff) ont été testées et sont passables avec uniquement une souris.
@@ -103,6 +104,7 @@ Les modes de jeu alternatifs
 Qu'est-ce que le "Taiko"?
 -------------------------
 
+  
 *Explication complète: [Taiko](FR:Taiko "wikilink")*
 
 [200px|thumb|right|Taiko gameplay.](image:taiko.jpg "wikilink") [Taiko no Tatsujin](http://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) est un jeu de rythme fait par Namco Bandai où l'on frappe sur un tambour au rythme de la musique. Sur osu!, les beatmaps peuvent être jouées comme dans ce jeu grâce au mode de jeu alternatif Taiko.
@@ -152,6 +154,7 @@ Qu'est-ce que le «Catch the Beat» ?
 
 [200px|thumb|right|Catch The Beat gameplay.](image:ctbaqua.jpg "wikilink")
 
+  
 *Explication complète: [Catch The Beat](FR:Catch_The_Beat "wikilink")*
 
 -   Catch the Beat est le second mode de jeu spécial de osu!.
@@ -159,6 +162,7 @@ Qu'est-ce que le «Catch the Beat» ?
 
 ### Contrôler le personnage
 
+  
 Si le mod Relax est utilisé, le contrôle du personnage se fait en déplaçant la souris à la place.
 
 -   Par défaut, la gauche \[&lt;-\] et droite \[-&gt;\] touches fléchées permettent de déplacer le personnage.
@@ -169,6 +173,7 @@ Qu'est-ce que le mode "osu! Mania" ?
 
 ![ thumb | 200px | Exemple de gameplay (7K)]( Mania screenshot.jpg  " thumb | 200px | Exemple de gameplay (7K)")
 
+  
 *Explication complète: [osu!mania](FR:Osu!mania "wikilink")*
 
 -   osu!mania est le troisième mode de jeu spécial.
@@ -266,6 +271,7 @@ Configuration pour le mode de jeu *Gauche à droite* (style Beatmania IIDX)
 Le Score
 ========
 
+  
 *Les explications détaillées du score peuvent être trouvées dans les pages de chaque mode de jeu.*
 
 Rangs
@@ -298,6 +304,7 @@ Questions récurrentes
 Où puis-je obtenir des maps ?
 -----------------------------
 
+  
 *Explication complète: [beatmaps](FR:Beatmapping "wikilink")*
 
 Vous pouvez les trouver à partir de la page d'accueil sous le nom de "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".

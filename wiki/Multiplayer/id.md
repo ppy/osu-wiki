@@ -8,20 +8,20 @@ Bermain Bersama (Multiplayer) diimplementasikan pada 3 Juni 2008 (3.6.08) di baw
 Bagaimana untuk Memasukinya
 ===========================
 
-| Syarat Minimum   | -   Koneksi daring yang layak.  
-                    -   Akun osu! yang telah terhubung ke dalam Bancho (seharusnya telah dilakukan secara otomatis)
-                    -   Mempunyai jumlah beatmap yang cukup di dalam folder Songs (kecuali jika kamu lebih memilih untuk mengunduh selama bermain)
-                    -   Mengetahui [cara untuk memindahkan beatmap tanpa meninggalkan ruangan](ID:Beatmaps2 "wikilink"). [Contoh gambar di sini.](Media:Beatmaps_peppy.jpg "wikilink")
+| Syarat Minimum   | -   Koneksi daring yang layak.                                                                                                                                                                       
+                    -   Akun osu! yang telah terhubung ke dalam Bancho (seharusnya telah dilakukan secara otomatis)                                                                                                       
+                    -   Mempunyai jumlah beatmap yang cukup di dalam folder Songs (kecuali jika kamu lebih memilih untuk mengunduh selama bermain)                                                                        
+                    -   Mengetahui [cara untuk memindahkan beatmap tanpa meninggalkan ruangan](ID:Beatmaps2 "wikilink"). [Contoh gambar di sini.](Media:Beatmaps_peppy.jpg "wikilink")                                    
                     -   Pikiran yang masuk akal (mengetahui kapan untuk bertanya sesuatu yang kamu tak mengerti)                                                                                                          |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cara untuk masuk | Dari menu utama,  
-
-                    1.  Tekan "**Play**" kemudian "**Multi**"; atau
-                    2.  Tekan "**P**" kemudian "**M**". (dari keyboard)
-
+| Cara untuk masuk | Dari menu utama,                                                                                                                                                                                     
+                                                                                                                                                                                                                          
+                    1.  Tekan "**Play**" kemudian "**Multi**"; atau                                                                                                                                                       
+                    2.  Tekan "**P**" kemudian "**M**". (dari keyboard)                                                                                                                                                   
+                                                                                                                                                                                                                          
                     Kamu akan diarahkan ke "**lobi**", inti dari bermain bersama.                                                                                                                                         |
-| Catatan          | -   Tolong diingat bahwa waktu mengunduh mulai dari beberapa detik hingga 15 menit bergantung pada koneksi internetmu.  
-                    -   Kehilangan koneksi ke Bancho akan mengirimmu kembali ke menu utama hingga koneksi terhubung kembali ke Bancho. Ini akan memaksamu untuk dianggap sebagai "Keluar" ketika sedang bermain bersama.
+| Catatan          | -   Tolong diingat bahwa waktu mengunduh mulai dari beberapa detik hingga 15 menit bergantung pada koneksi internetmu.                                                                               
+                    -   Kehilangan koneksi ke Bancho akan mengirimmu kembali ke menu utama hingga koneksi terhubung kembali ke Bancho. Ini akan memaksamu untuk dianggap sebagai "Keluar" ketika sedang bermain bersama.  
                     -   Memerlukan osu!supporter pada versi cuttingedge.                                                                                                                                                  |
 
 Lobi
@@ -200,38 +200,38 @@ Mode Tim
 
 | Peraturan umum (berlaku untuk semua kecuali dinyatakan lain)                                                                                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <u>**Peraturan proses beatmap</u>**  
-
- -   Head-To-Head / Team VS: Berlanjut hingga akhir beatmap.
- -   Tag Co-Op / Tag Team VS: Tidak berlanjut jika bar HP telah habis.
-
- **<u>Peraturan gagal</u>** (Tidak berlaku untuk Tag Co-Op / Tag Team VS)
-
- -   **Skor dan akurasi tidak akan dihitung dalam peringkat.**
- -   Warna bar pemain menandakan status HP bar-nya. Abu-abu artinya HPnya telah habis, maka "Gagal"
- -   Warna objekmu semuanya akan berubah menjadi abu-abu yang semestinya berwarna asli sesuai skema.
- -   Kamu dapat tetap bermain dan dapat dihidupkan kembali ketika mencapai HP penuh. Jika [SD](ID:SD "wikilink") digunakan, penghidupan kembali adalah mustahil. (jika kamu dapat menghidupkan kembali, anggap itu sebuah bug atau abaikan)
-
- <u>**Peraturan cara bermain</u>**  
-
- -   **Menekan \[ESC\] 2 kali akan menghasilkan "keluar" dari pertandingan, bukan menghentikan sementara permainan.**
- -   Kamu boleh menggunakan "Visual Settings - Pengaturan Visual" di bagian bawah layar ketika tahap pemrosesan beatmap.
- -   Ketika "Free Mods - Mod Bebas" diperbolehkan, mods yang digunakan olehmu hanya akan berlaku pada tampilanmu. Tampilan pemain lain bisa saja berbeda.
-
- <u>**Tag Co-Op / Tag Team VS</u>**  
-
- -   **Hanya tersedia dalam mode osu! Standard.**
- -   **Penempatan pemain itu penting, sebab itu akan menandakan kapan giliranmu.**
- -   Semua orang berbagi sebuah lifebar / Setiap tim memiliki lifebar-nya masing-masing yang hanya terlihat kepada rekan setim saja.
-     -   **Jika gagal, semuanya akan dikirim kembali ke "ruangan".**
- -   Sebuah tanda panah akan muncul pada pemain yang sedang bermain beatmap tersebut. Nama mereka akan muncul pada bagian bawah kanan layar.
-     -   Akan ada tanda panah peringatan jika itu giliranmu dan kombo akan tetap berwarna hingga kombomu berakhir.
-     -   Kamu dapat mengatur warna kombo di Match Setup - Pengaturan Pertandingan.
- -   **Semua harus melakukan spinner meskipun itu adalah gilirannya atau bukan.**
-     -   Penolakan atau ketidaksanggupan untuk menyelesaikan spinner akan memutuskan hitungan kombo yang sedang berlangsung.
- -   Jika seorang pemain keluar, Auto akan mengambil alih giliran pemain yang "keluar".
- -   Jika kamu menggunakan [SD](ID:SD "wikilink"), tampilan HP bar-mu akan berkurang tanpa kamu sadari sebab kesalahan rekan setimmu.
-     -   Jika rekan setim tidak menggunakan [SD](ID:SD "wikilink"), beatmap akan berlanjut.
+| <u>**Peraturan proses beatmap</u>**                                                                                                                                                                                                        
+                                                                                                                                                                                                                                             
+ -   Head-To-Head / Team VS: Berlanjut hingga akhir beatmap.                                                                                                                                                                                 
+ -   Tag Co-Op / Tag Team VS: Tidak berlanjut jika bar HP telah habis.                                                                                                                                                                       
+                                                                                                                                                                                                                                             
+ **<u>Peraturan gagal</u>** (Tidak berlaku untuk Tag Co-Op / Tag Team VS)                                                                                                                                                                    
+                                                                                                                                                                                                                                             
+ -   **Skor dan akurasi tidak akan dihitung dalam peringkat.**                                                                                                                                                                               
+ -   Warna bar pemain menandakan status HP bar-nya. Abu-abu artinya HPnya telah habis, maka "Gagal"                                                                                                                                          
+ -   Warna objekmu semuanya akan berubah menjadi abu-abu yang semestinya berwarna asli sesuai skema.                                                                                                                                         
+ -   Kamu dapat tetap bermain dan dapat dihidupkan kembali ketika mencapai HP penuh. Jika [SD](ID:SD "wikilink") digunakan, penghidupan kembali adalah mustahil. (jika kamu dapat menghidupkan kembali, anggap itu sebuah bug atau abaikan)  
+                                                                                                                                                                                                                                             
+ <u>**Peraturan cara bermain</u>**                                                                                                                                                                                                           
+                                                                                                                                                                                                                                             
+ -   **Menekan \[ESC\] 2 kali akan menghasilkan "keluar" dari pertandingan, bukan menghentikan sementara permainan.**                                                                                                                        
+ -   Kamu boleh menggunakan "Visual Settings - Pengaturan Visual" di bagian bawah layar ketika tahap pemrosesan beatmap.                                                                                                                     
+ -   Ketika "Free Mods - Mod Bebas" diperbolehkan, mods yang digunakan olehmu hanya akan berlaku pada tampilanmu. Tampilan pemain lain bisa saja berbeda.                                                                                    
+                                                                                                                                                                                                                                             
+ <u>**Tag Co-Op / Tag Team VS</u>**                                                                                                                                                                                                          
+                                                                                                                                                                                                                                             
+ -   **Hanya tersedia dalam mode osu! Standard.**                                                                                                                                                                                            
+ -   **Penempatan pemain itu penting, sebab itu akan menandakan kapan giliranmu.**                                                                                                                                                           
+ -   Semua orang berbagi sebuah lifebar / Setiap tim memiliki lifebar-nya masing-masing yang hanya terlihat kepada rekan setim saja.                                                                                                         
+     -   **Jika gagal, semuanya akan dikirim kembali ke "ruangan".**                                                                                                                                                                         
+ -   Sebuah tanda panah akan muncul pada pemain yang sedang bermain beatmap tersebut. Nama mereka akan muncul pada bagian bawah kanan layar.                                                                                                 
+     -   Akan ada tanda panah peringatan jika itu giliranmu dan kombo akan tetap berwarna hingga kombomu berakhir.                                                                                                                           
+     -   Kamu dapat mengatur warna kombo di Match Setup - Pengaturan Pertandingan.                                                                                                                                                           
+ -   **Semua harus melakukan spinner meskipun itu adalah gilirannya atau bukan.**                                                                                                                                                            
+     -   Penolakan atau ketidaksanggupan untuk menyelesaikan spinner akan memutuskan hitungan kombo yang sedang berlangsung.                                                                                                                 
+ -   Jika seorang pemain keluar, Auto akan mengambil alih giliran pemain yang "keluar".                                                                                                                                                      
+ -   Jika kamu menggunakan [SD](ID:SD "wikilink"), tampilan HP bar-mu akan berkurang tanpa kamu sadari sebab kesalahan rekan setimmu.                                                                                                        
+     -   Jika rekan setim tidak menggunakan [SD](ID:SD "wikilink"), beatmap akan berlanjut.                                                                                                                                                  
      -   Jika pengguna(anggaplah kamu) [SD](ID:SD "wikilink") melakukan kesalahan, *Efek sebenarnya akan terjadi*, menyebabkan semua orang segera dibawa ke tampilan hasil.                                                                  |
 
 <table>
@@ -305,12 +305,12 @@ Para pemain akan diarahkan ke sini setelah beatmap selesai kecuali dinyatakan la
 
 | Peraturan Hasil secara Keseluruhan                                                                                                                                       |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   **Jika kamu mendapat pernyataan "Failed/Gagal", skor dan akurasimu secara otomatis tidak akan dihitung sebagai skor ranked bahkan setelah "penghidupan kembali".**  
- -   **Jika "Free Mod/Mod Bebas" diaktifkan oleh host, perbedaan skor mungkin terjadi bergantung mod yang digunakan**
- -   **Meskipun di sini tidak ada papan peringkat skor daring, skor ranked akan tetap dihitung sebagai entri skor ranked yang sah**.
- -   Hasilmu tidak akan muncul di papan skor lokal. Satu-satunya cara untuk melihatnya melalui papan peringkat daring (dengan anggapan skor bermain bersama lebih tinggi)
-     -   Pengecualian peraturan itu untuk Tag Co-Op dan Tag Team VS (Keduanya tidak dirank), dimana skormu akan dianggap tidak dapat dirank.
- -   Kamu tidak bisa mengulang beatmap tapi kamu dapat mengekspor replaymu dengan menekan \[F2\] (Tidak akan mengandung elemen-elemen bermain bersama).
+| -   **Jika kamu mendapat pernyataan "Failed/Gagal", skor dan akurasimu secara otomatis tidak akan dihitung sebagai skor ranked bahkan setelah "penghidupan kembali".**   
+ -   **Jika "Free Mod/Mod Bebas" diaktifkan oleh host, perbedaan skor mungkin terjadi bergantung mod yang digunakan**                                                      
+ -   **Meskipun di sini tidak ada papan peringkat skor daring, skor ranked akan tetap dihitung sebagai entri skor ranked yang sah**.                                       
+ -   Hasilmu tidak akan muncul di papan skor lokal. Satu-satunya cara untuk melihatnya melalui papan peringkat daring (dengan anggapan skor bermain bersama lebih tinggi)  
+     -   Pengecualian peraturan itu untuk Tag Co-Op dan Tag Team VS (Keduanya tidak dirank), dimana skormu akan dianggap tidak dapat dirank.                               
+ -   Kamu tidak bisa mengulang beatmap tapi kamu dapat mengekspor replaymu dengan menekan \[F2\] (Tidak akan mengandung elemen-elemen bermain bersama).                    
      -   Pengecualian peraturan itu untuk Tag Co-Op dan Tag Team VS (Keduanya tidak dirank), dimana replay tidak bisa disimpan.                                            |
 
 <table>

@@ -5,6 +5,8 @@ Parameters
 *`type`*` -- use `**`section`**` or `**`article`**
 *`nocat`*` -- use this to not include the article with `[`:Category:Stubs`](:Category:Stubs "wikilink")`.`
 
+ 
+
 <noinclude></noinclude>
 
 [Category:Template Documentation](Category:Template_Documentation "wikilink")

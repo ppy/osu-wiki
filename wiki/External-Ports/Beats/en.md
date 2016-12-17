@@ -22,7 +22,7 @@ How to play
 2.  Select your difficulty at upper-left corner (Beginner, Easy, Medium, Hard, Challenge)
 3.  Tap on "SELECT SONG"
 4.  Click on the song file you want to play
-
+      
     You need to do some navigation if you want to access your osu!droid Songs folder.
 
 5.  Enjoy your game.

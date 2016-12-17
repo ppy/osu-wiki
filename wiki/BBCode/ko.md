@@ -6,6 +6,7 @@
 
 참고: BBCode의 태그는 여러가지를 결합하는 것으로 다양한 결과물을 낼 수 있습니다. 하지만 그렇게 하기 위해서는 태그의 순서를 잘 지켜주셔야 합니다. 그렇지 않으면 결과물이 깨져 나올수 있습니다.
 
+  
 예제: \[<span style="color: red;">centre</span>\]\[<span style="color: blue;">b</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\]는 작동되지만 \[<span style="color: blue;">b</span>\]\[<span style="color: red;">centre</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\]는 작동되지 않습니다.
 
 팁이나 요령은 Stefan이 작성한 [이 스레드](https://osu.ppy.sh/forum/t/445599)에서 확인할 수있습니다.

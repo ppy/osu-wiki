@@ -51,12 +51,14 @@
 
 ### 血量设定(HP Drain Rate)
 
+  
 在编辑模式的歌曲选择界面中显示为"**HP**"。
 
 掉血率，除了在[休息时段外保持恒定](ZH:break "wikilink")。miss会导致更多的扣血，通过[得分和转盘可以回血](Score#osu.21_Scoring_Values "wikilink")。通过一组物件末尾的[“激”和“喝”可以回复更多血量](Score#osu.21_Scoring_Values "wikilink")。
 
 ### Note大小设定(Circle Size)
 
+  
 在编辑模式的歌曲选择界面中显示为"**CS**"。
 
 <img src="Circle sizes.png" title="fig:圆圈大小概览" alt="圆圈大小概览" width="250" /> 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
@@ -69,6 +71,7 @@
 
 <img src="ARTable.png" title="AR细节总表（点击放大）" alt="AR细节总表（点击放大）" width="250" />
 
+  
 在编辑模式的歌曲选择界面中显示为"**AR**"。
 
 #### 基本定义(General)
@@ -94,6 +97,7 @@ Approach Rate通常缩写为"**AR**"。
 
 ### 判定标准(Overall Difficulty)
 
+  
 在编辑模式的歌曲选择界面中显示为"**OD**"，而在谱面信息页中显示为"**Accuracy**"。
 
 #### 基本定义(General)

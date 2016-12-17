@@ -1,9 +1,12 @@
-***[Вернуться к описанию достижений](RU:Achievements "wikilink")***
+Achievements/Packs0916 - Russian
+==================================
+
+***[Вернуться к описанию достижений](/wiki/Achievements/ru.md)***
 
 Оригинальные тематические архивы карт прямиком из 2009 до их обновления [Stefan'ом 16 января 2016](http://osu.ppy.sh/news/137535031193).
 
 В цифрах
-========
+-----------
 
 -   16 архивов (4 тематики по 4 части)
     -   Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
@@ -12,7 +15,8 @@
 -   [1.39 GB в запакованном виде и 1.47 GB — после импорта](Media:RH_Beatmap_packs_comparison.jpg "wikilink")
 -   Примерное время импорта — 3 minutes 33 seconds.
 
-## Anime Pack
+Anime Pack
+-----------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -98,7 +102,10 @@
 * [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](http://osu.ppy.sh/s/16252)
 * [DOMINO - U Can Do It! (TV Size)](http://osu.ppy.sh/s/21197)
 
-## Internet Pack
+
+
+Internet Pack
+--------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -182,7 +189,10 @@
 * [yamas03 - bloomin' octagon](http://osu.ppy.sh/s/17217)
 * [8corporation - The Ultimate Trololo Mashup](http://osu.ppy.sh/s/17724)
 
-## Rhythm Game Music Pack
+
+
+Rhythm Game Music Pack
+----------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -268,7 +278,9 @@
 * [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~](http://osu.ppy.sh/s/19809)
 * [M2U - Memory of Beach](http://osu.ppy.sh/s/22401)
 
-## Video Game Music Pack
+
+Video Game Music Pack
+----------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
 
@@ -350,4 +362,21 @@
 * [Crush 40 - Sonic Heroes](http://osu.ppy.sh/s/21836)
 * [Anamanaguchi - Scott Pilgrim Anthem](http://osu.ppy.sh/s/23073)
 
-[Category: Russian](Category:_Russian "wikilink")
+<Category: Russian>
+
+[media-anime-vol-1]: http://www.mediafire.com/?9n65pm9fp8yp5bn
+[media-anime-vol-2]: http://www.mediafire.com/?722os55j52ikylq
+[media-anime-vol-3]: http://www.mediafire.com/?tky7bjc58hcno6b
+[media-anime-vol-4]: http://www.mediafire.com/?j5b5b6bimr5ahdv
+[yas-anime-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T4
+[yas-anime-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T6
+[yas-anime-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T15
+[yas-anime-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T30
+[media-rhythm-vol-1]: http://www.mediafire.com/?87n2agcrcgmwxob
+[media-rhythm-vol-2]: http://www.mediafire.com/?axvxrnx637767ls
+[media-rhythm-vol-3]: http://www.mediafire.com/?781tio8fge7y7d2
+[media-rhythm-vol-4]: http://www.mediafire.com/?6hc29ws6j36dcag
+[yas-rhythm-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T9
+[yas-rhythm-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T2
+[yas-rhythm-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T16
+[yas-rhythm-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T32

@@ -169,3 +169,4 @@ Mode Edit
 -   **Alt + Molette**: Augmente/Réduit le multiplicateur de distance. Change le zoom du timeline dans le timeline.
 -   **Glisser**: Déplace la sélection des notes (position et temps), déplace les points dans le slider. Déplace la fin des sliders/spinners pour la rallonger dans le temps.
 
+

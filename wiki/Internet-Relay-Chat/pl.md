@@ -62,13 +62,13 @@ Ukrywanie wiadomości o dołączaniu lub wychodzeniu w najczęściej używanych 
 
 | Klient                                    | Komenda                                                                                                                                                                                                                                                                  |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”  
-
+| [HexChat](http://hexchat.github.io/)      | a. Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                       
                                              b. Settings » Preferences, (pod Chatting) » General i zaznaczyć „Hide join and part Messages”                                                                                                                                                                             |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
 | [Irssi](http://www.irssi.org)             | /ignore -channels \#kanał \* JOINS PARTS QUITS                                                                                                                                                                                                                           |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.nick.\#kanał irc\_smart\_filter \*  
-
+| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.nick.\#kanał irc\_smart\_filter \*                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                       
                                              **Notka:** nick to nazwa podana przy dodawaniu serwera IRC do WeeChat.                                                                                                                                                                                                    |
 | [KVIrc](http://www.kvirc.net)             | Należy odnieść się do [tego wątku](http://www.kvirc.ru/forum/?topic=609.0) na oficjalnym forum KVIrc                                                                                                                                                                     |
 | [mIRC](http://www.mirc.com/)              | Tools » Options » „IRC”. Kliknąć przycisk „Events...”, po czym zmienić „joins”, „parts”, „quits”, and „nicks” na pożądane opcje: „In Status” lub „Hide” są rekomendowanymi ustawieniami [1](http://i.clintecker.com/disable-irc-msgs.html).                              |
@@ -83,6 +83,7 @@ Często zadawane pytania (FAQ)
 Pojawia się błąd „Bad Authentication Token”. Co robić?
 ------------------------------------------------------
 
+  
 1. Upewnić się że używa się hasła podanego na stronie [Autoryzacji IRC](https://osu.ppy.sh/p/irc).
 
 2. Jeżeli twój pseudonim ma spację, zastąp ją podkreślnikiem (np. **Ten pseudonim** na **Ten\_pseudonim**).
@@ -90,12 +91,15 @@ Pojawia się błąd „Bad Authentication Token”. Co robić?
 Czy można użyć innego pseudonimu?
 ---------------------------------
 
+  
 Nie. Jedynym dozwolonym pseudonimem jest ten posiadany w grze.
 
 Czym jest status +v? Widać także innych ludzi, którzy go mają.
 --------------------------------------------------------------
 
+  
 Użytkownicy ze statusem głosowym (przedrostek +) są połączeni za pomocą klienta IRC (nie wliczając w to moderatorów czatu, którzy mają *status operatora (przedrostek @)*.
 
 Użytkownicy nieposiadający żadnego statusu są połączeni przez klienta gry.
+
 

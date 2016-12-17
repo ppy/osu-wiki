@@ -1,6 +1,7 @@
 Qu'est ce qu'une "Beatmap" ?
 ============================
 
+  
 *Liste des beatmaps : <http://osu.ppy.sh/p/beatmaplist>*
 
 Aussi appelées "maps", il s'agit des niveaux d'osu!, de la même manière que sur les jeux DS. Dans leur forme la plus basique sur le mode [osu!standard](FR:Standard "wikilink"), les beatmaps sont constituées de cercles, de sliders et de spinners ([les éléments du jeu](FR:Hit_Objects "wikilink")), le tout placé en rythme sur une musique. Il est possible qu'elles contiennent aussi un [storyboard](FR:Storyboarding "wikilink"). Les créateurs des beatmaps sont appelés les beatmappeurs ou plus communément mappeurs (*beatmapper*/*mapper* en anglais). Tout le monde peut devenir mappeur et envoyer leur map à l'aide du BSS (*Beatmap Submission System*, système d'envoi de beatmaps), une fonctionnalité du client osu!. D'autres joueurs (appelés moddeurs) doivent donner des conseils et des suggestions de correction (appelés [mods](FR:Modding "wikilink")) aux mappeurs afin que leur map finisse par être vérifiée par les [BATs](FR:Beatmap_Appreciation_Team "wikilink"), chargés du contrôle et de l'acceptation des beatmaps, puis devienne **classée** (*Ranked*) ou, dans certains cas, **approuvée** (*approved*).
@@ -186,4 +187,5 @@ Pourquoi ne puis-je pas télécharger de beatmaps ?
 
 -   Vous n'êtes pas connecté au site avec votre compte osu!. Les beatmaps ne peuvent pas téléchargées si vous n'êtes pas connecté.
 -   Le serveur d'osu! a un problème. Restez informé en consultant [stat.ppy.sh](http://stat.ppy.sh).
+
 

@@ -68,3 +68,4 @@ Duration
 
 <img src="Osu!support mail-gifted.png" title="fig:A letter one receives when acquiring osu!supporter" alt="A letter one receives when acquiring osu!supporter" width="200" /> Oh, and you will receive a "Thank You" letter from osu!, too! See the example on the right.
 
+

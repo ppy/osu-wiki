@@ -33,6 +33,7 @@ Top-Left (Hit Objects Timeline)
 
 ==Top-Right (Beat Snap Divisor)== <img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
 
+  
 *'*Main page: [Beat Snap Divisor](JP:Beat_Snap_Divisor "wikilink") / [Distance Snap](JP:Distance_Snap "wikilink") *'*
 
 **In layman term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).**
@@ -205,6 +206,7 @@ Top-Right (Beat Snap Divisor)
 
 <img src="BEM_BSD.jpg" title="Beat Snap Divisor (osu!mania ver.)" alt="Beat Snap Divisor (osu!mania ver.)" width="200" />
 
+  
 ***Main Article: [Beat Snap Divisor](JP:Beat_Snap_Divisor "wikilink")***
 
 **In layman term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).** Since osu!mania highly prioritise every timing of the notes, **Time signature** (MM:B) from the Timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (-8:-3 for example) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
@@ -402,4 +404,5 @@ The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Sec
 **Example:** 1:57:745 kick.wav@100% means at 1 min 57 second 745th millisecond, trigger the "kick.wav" file at 100% volume regardless of condition.
 
 [If this doesn't tickle your fancy, you can always go for the hardcore SBS way.](JP:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
+
 

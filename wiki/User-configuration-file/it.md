@@ -1,4 +1,4 @@
-
+  
 ***[Click to return to Main page](IT:Osu!_Program_Files "wikilink")***
 
 <img src="CF_DEAD.jpg" title="fig:Combo Fire." alt="Combo Fire." width="200" /> C'è una lista di opzioni in osu!.<NomeDelTuoUtenteNelPC>.cfg. Molte di queste opzioni sono disponibili tramite le opzioni dentro al gioco ed è raccomandato che le cambi da li. Modifica i valori manualmente solo se necessario.
@@ -229,4 +229,5 @@
 | ManiaSpeedBPMScale           | La velocità della tastiera di osu!mania aumenta e diminuisce a seconda del BPM. Disattivando questa opzione, la tastiera scorrerà normalmente.                                                                                                |
 | MenuTriangles                | Attiva i triangoli se si possiede la cutting edge.                                                                                                                                                                                            |
 ||
+
 

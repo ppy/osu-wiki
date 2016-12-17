@@ -1,4 +1,4 @@
-
+  
 这些年来，[osu!](ZH:Glossary#osu! "wikilink") 社群已经发展出了独有的一套术语，所以新人可能会看得一头雾水。
 
 本页面收集了此类词汇以供参考，多数取自[这一篇文](http://osu.ppy.sh/p/formatpost&id=21575)。欢迎大家进行增添和修改。
@@ -91,6 +91,7 @@ C
 
 　**连击火焰**，在[应援团中被称为激励之火](ZH:Glossary#Ouendan "wikilink")（The Flames of Encouragement）。当玩家达成 30 以上的[连击数时](ZH:Glossary#Combo "wikilink")，萤幕底部便会燃起火焰，象征其熊熊燃烧的灵魂。当连击数达到 60、100、150、200、250，及最后的 300 时火焰便会升高。在设定中可以调整连击火焰的最高高度。它可以被停用。
 
+  
 **注意：**这个功能目前已从游戏中被移除。
 
 D
@@ -182,6 +183,7 @@ H
 
 ### Hit Circle
 
+  
 *另可参考：[打击物件](ZH:Hit_Objects "wikilink")。*
 
 　**打击圈圈**，在 [DS 游戏中则称为](ZH:Glossary#DS_games "wikilink") Hit Marker（打击目标）。是三种[物件](ZH:Glossary#Object "wikilink")（其他两种为[滑条和](ZH:Slider "wikilink")[大轮盘](ZH:Glossary#Spinner "wikilink")）之中玩家最可能常常碰到的[物件](ZH:Glossary#Object "wikilink")。其外观为一个有色实心圆圈，圆心中央有数字（确切数字依其于一串 [Combo](ZH:Glossary#Combo "wikilink") 中的排序而定）和另一个在其周围逐渐收缩的空心圆圈（即[缩小圈圈](ZH:Glossary#Approach_Circle "wikilink")）。当[缩小圈圈一碰到打击圈圈的瞬间](ZH:Glossary#Approach_Circle "wikilink")，玩家应迅速进行[打击](ZH:Glossary#Tap "wikilink")，即可获得分数（50、100、300），分数大小由这次[打击的准确率而定](ZH:Glossary#Tap "wikilink")。如果该打击圈圈是一串 [Combo](ZH:Glossary#Combo "wikilink") 的结尾，则可能会获得 50、[喝和](ZH:Score#Katu "wikilink")[激三种评价的其中之一](ZH:Score#Elite_Beat! "wikilink")。对打击圈圈进行[打击时会微微补充](ZH:Glossary#Tap "wikilink")[血量条](ZH:Glossary#Life_Bar "wikilink")。
@@ -199,6 +201,7 @@ I
 
 ### iNiS
 
+  
 *[维基百科](https://en.wikipedia.org/wiki/INiS)*
 
 　**iNiS** 是一家专门开发节奏游戏的日本电玩游戏开发商。[osu!](ZH:Glossary#osu! "wikilink") 所参考的三套 [DS 游戏便归于该公司旗下](ZH:Glossary#DS_games "wikilink")。
@@ -315,6 +318,7 @@ R
 
 ### Rank
 
+  
 *For Ranked beatmaps see [Ranked beatmap](Ranked_beatmap "wikilink").*
 
 i) Another word for a [grade](Glossary#Grade "wikilink").

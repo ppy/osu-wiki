@@ -19,10 +19,12 @@ Symmetrical Shape Formations
 
 ### Zig-Zag Sliders
 
+  
 *Also known as: **Zig-Zag Formation***
 
 #### Reversed Zig-zag Sliders
 
+  
 *Also known as: **Reversed Zig-Zag Formation***
 
 Creative Formations
@@ -30,22 +32,26 @@ Creative Formations
 
 ### Star Formations
 
+  
 *Similar to: [Flower Combo](#Flower_Combo "wikilink")*
 
 Starfor.png|Another example with a slider
 
 ### Tornado Combos
 
+  
 *Also known as: **Tornado Formation***
 
 ### ztrot Spacing
 
+  
 *Also known as: **ztrot Formation***
 
 Ztrot's\_true\_power.png|Another example
 
 ### Flower Combo
 
+  
 *Similar to: [Star Formations](#Star_Formations "wikilink")*
 
 MT\_16.2.png|They could look like [Honeycomb Beats](#Honeycomb_Beats "wikilink")!

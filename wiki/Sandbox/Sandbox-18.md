@@ -9,11 +9,11 @@ Albums
 ======
 
 1.  時代改正ドミナント (Jidai Kaisei Dominant / Era Amendment Dominant)
-
+      
     31/12/2013
 
 2.  ヘイセイプロジェクト -ホワイトノイズ- (Heisei Project -White Noise– / Peace Project -White Noise–)
-
+      
     17/12/2014
 
 Songlist

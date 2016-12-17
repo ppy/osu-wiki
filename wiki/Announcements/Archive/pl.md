@@ -1,3 +1,6 @@
+Archiwum ogłoszeń
+==================
+
 W tym artykule jest wymieniona większość (jak nie wszystkie) ogłoszeń ze świata osu!.
 
 osu!weekly
@@ -119,6 +122,7 @@ Listy
 Turnieje
 --------
 
+
 ***[Osobny artykuł](PL:Tournaments "wikilink")***
 
 -   [Rezultat Mistrzostw Świata w Taiko 2016! (osu!weekly \#58)](//osu.ppy.sh/news/143474255578)
@@ -146,6 +150,7 @@ Turnieje
 
 Comiesięczny konkurs mapowania
 ------------------------------
+
 
 ***[Osobny artykuł](PL:Contests#Monthly_Beatmapping_Contest "wikilink")***
 
@@ -177,6 +182,7 @@ Comiesięczny konkurs mapowania
 Konkursy artystyczne
 --------------------
 
+
 ***[Osobny artykuł](PL:Contests#Fanarty "wikilink")***
 
 -   [Plany beatmap osu! dostępne & Informacje dot. konkursu](//osu.ppy.sh/news/114095906408)
@@ -194,6 +200,7 @@ Konkursy artystyczne
 
 Prezentacje
 -----------
+
 
 ***[Pełny artykuł](PL:Showcases "wikilink")***
 
@@ -216,6 +223,7 @@ Inne
 
 ### Najlepsze mapy roku
 
+
 ***[Osobny artykuł](PL:Showcases#Seria_.E2.80.9EBest_of.E2.80.9D "wikilink")***
 
 -   [Najlepsze mapy 2015: Rezultat](//osu.ppy.sh/news/138781453998)
@@ -231,6 +239,7 @@ Inne
 -   [Przygody z kółkami \#1 - Nigdy więcej!](//osu.ppy.sh/news/61337066445)
 
 ### osu!monthly
+
 
 **Porzucone!**
 
@@ -258,6 +267,7 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 | [Modyfikator Easy: Jak i dlaczego](//osu.ppy.sh/news/56948486143) | Modyfikator Easy jest znany z utrudniania większości beatmap, tworzenia ogromnych stosów i...                      |
 | [Wywiad z Ephmeralem](//osu.ppy.sh/news/56947685704)              | Ephemeral, który dołączył do nas w sierpniu 2009 roku, brał udział w...                                            |
 | [Odrodzenie](//osu.ppy.sh/news/56943222761)                       | Głównym konceptem osu!monthly było stworzenie gazetki dla społeczności która...                                    |
+
 
 ### Media
 

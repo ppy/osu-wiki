@@ -22,6 +22,8 @@ Formats de fichiers spécifiques d'osu!
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr](FR:Osr_(file_format) "wikilink")        | Executable replay file (cannot be decompressed).                                                 |
 
+
+
 ![.osk/.osz file icon](Osu!sys os.png) Créer un fichier .osz/.osk
 ==============================================================================================================================
 
@@ -38,15 +40,15 @@ Depuis un logiciel d'archivage
 **Procédure**
 
 1.  Compilez vos fichiers dans un dossier (.mp3, .flv, .osu, SB, etc. dans le dossier) et nommez-le.
-
+      
     Pour des raisons d'explication, le dossier sera nommé "Amigo Fiesta".
 
 2.  Faites un clic droit sur le dossier et choisissez d'archiver le dossier (Ajouter à l'archive...).
-
+      
     Vous pouvez aussi choisir d'ouvrir le logiciel d'archivage et de faire glisser le dossier à l'intérieur.
 
 3.  Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
-
+      
     Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Méthode d'archivage : ".zip"
 
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
@@ -86,4 +88,5 @@ Depuis le jeu
     - Sur l'écran de sélection du skin, choisissez le skin que vous voulez et cliquez sur "Exporter en .osk".
 
     - Le fichier .osk sera créé et placé dans le dossier "Exports" du dossier d'osu!.
+
 

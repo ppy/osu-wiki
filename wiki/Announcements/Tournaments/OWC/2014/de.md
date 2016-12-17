@@ -226,6 +226,7 @@ Viertelfinale
 | [Hatsune Miku - Homework Crisis (val0108) [Let's Jump!!]](//osu.ppy.sh/b/108021)     |
 | [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](//osu.ppy.sh/b/104389)     |
 
+
 | Hidden                                                                          |
 |---------------------------------------------------------------------------------|
 | [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](//osu.ppy.sh/b/285549) |

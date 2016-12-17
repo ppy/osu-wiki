@@ -6,6 +6,8 @@ Pelopor pembuatan
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | Pemimpin proyek |
 
+
+
 Aktif
 ----------------------
 
@@ -21,6 +23,7 @@ Aktif
 | [yelle](https://osu.ppy.sh/u/4916903) | Pengelola market osu! |
 | [ztrot](https://osu.ppy.sh/u/6347) | Profesor academy osu!, Media/desain karakter |
 | [Zallius](https://osu.ppy.sh/u/55) | Spesies yang terancam punah |
+
 
 Tidak aktif
 ----------------------
@@ -40,6 +43,7 @@ Tidak aktif
 | [Sinistro](https://osu.ppy.sh/u/5530) | Menit Pertemuan, Kontribusi pertanyaan-pertanyaan umum |
 | [woc2006](https://osu.ppy.sh/u/1105845) | Tim pengembang osu!, Pengembang mode osu!mania |
 
+
 Anggota grup
 ----------------------
 
@@ -53,5 +57,6 @@ Anggota grup
 | [Berita osu!](http://osu.ppy.sh/g/25) | Menyediakan Anda dengan kualitas bacaan sejak 2013 |
 | [Karyawan Turnamen](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Tim Penjamin Asuransi](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, mulai dari menjamin kualitas beatmap. |
+
 
 <Category:People>

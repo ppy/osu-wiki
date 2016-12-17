@@ -81,6 +81,7 @@ blame naraku
 
 ### Zodiac Signs
 
+  
 By Krisom
 
 #### Capricorn
@@ -97,6 +98,7 @@ By Krisom
 
 ### More Zodiac Signs
 
+  
 By Soaprman
 
 #### Scorpio
@@ -123,6 +125,7 @@ By Soaprman
 
 #### Spirals
 
+  
 with and without anchor points
 
 <img src="MGS_56.jpg" title="fig:MGS_56.jpg" alt="MGS_56.jpg" width="500" /> <img src="MGS_57.jpg" title="fig:MGS_57.jpg" alt="MGS_57.jpg" width="500" />
@@ -133,6 +136,7 @@ with and without anchor points
 
 #### Other stuff/patterns
 
+  
 please read notes, if any
 
 <img src="MGS_60.jpg" title="fig:MGS_60.jpg" alt="MGS_60.jpg" width="500" /> <img src="MGS_61.jpg" title="fig:MGS_61.jpg" alt="MGS_61.jpg" width="500" /> <img src="MGS_62.jpg" title="fig:MGS_62.jpg" alt="MGS_62.jpg" width="500" /> <img src="MGS_63.jpg" title="fig:MGS_63.jpg" alt="MGS_63.jpg" width="500" /> <img src="MGS_64.jpg" title="fig:MGS_64.jpg" alt="MGS_64.jpg" width="500" />

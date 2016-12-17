@@ -7,6 +7,7 @@ Cercle
 
 ==Slider== <img src="Slider2.jpg" title="fig:Un slider avec le skin par défaut." alt="Un slider avec le skin par défaut." width="200" />
 
+  
 *Article principal : [Slider](FR:Slider "wikilink")*
 
 Un slider est constitué de deux cercles reliés entre eux par un chemin défini. Un cercle d'approche entoure le premier cercle du slider. Tout comme pour le cercle seul, le joueur doit appuyer en rythme sur le premier cercle et se diriger (toujours en rythme) vers l'autre cercle sans relâcher le bouton de sa souris, en suivant le chemin. Pour le guider, un élément graphique appelé « **slider ball** » (une balle) suit le chemin en même temps. Cette balle est elle-même entourée d'un « **slider ring** » (un anneau) qui suit la balle en permanence. Si le joueur, censé suivre la balle avec sa souris, sort de l'anneau, son multiplicateur de combo est remis à zéro.

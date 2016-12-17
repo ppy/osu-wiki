@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="Logo d&#39;osu!talk" alt="Logo d&#39;osu!talk" width="300" />
+osu!talk
+========
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Introduction
-============
+---------------
 
-Chaîne YouTube officielle: <http://www.youtube.com/user/osuacademy/videos>
-Topic officiel: <http://osu.ppy.sh/forum/t/225111>
+Chaîne YouTube officielle: http://www.youtube.com/user/osuacademy/videos
+Topic officiel: http://osu.ppy.sh/forum/t/225111
 **osu!talk** est une série de podcasts présenté par [ztrot](http://osu.ppy.sh/u/ztrot) avec [deadbeat](http://osu.ppy.sh/u/deadbeat). Lors de la série, ces hôtes invitent des personnes importantes dans la communauté de osu! pour les interviewer. Toutefois, il est possible d'avoir des discussions sur de différents thèmes autour de la communauté et du jeu. Ces séries permettent notamment de laisser la communauté poser leur question aux invités et parler en direct avec l'invité lors de la partie Q&A *(Questions et Réponses)*. **Attention: Tout les épisodes sont enregistrés et publiés en anglais.**
 
 Épisodes
-========
+---------
 
 | ÉP\#  | Interviewés                                              | Profession                          | [Lien]                                                        |
 |-------|----------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
@@ -55,8 +58,9 @@ Topic officiel: <http://osu.ppy.sh/forum/t/225111>
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                    | [Lien](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                        | [Lien](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
+
 Discussions
-===========
+-----------
 
 | ÉP\# | Topic                                         | Interviewés                                                                                                                                                                                                                 | [Lien]                                        |
 |------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -73,8 +77,10 @@ Discussions
 | #11  | Catch the Beat Discussion                     | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Lien](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | osu!idol Discussion                           | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara ](//osu.ppy.sh/u/444868)                                                                         | [Lien](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
+
+
 Récapitulatifs de WCs
-=====================
+-----------------------
 
 ### Taiko World Cup 2015
 
@@ -86,6 +92,7 @@ Récapitulatifs de WCs
 | Demi finales     | deadbeat, FLANKs, Two Fruit Cakes et ztrot | [Lien](http://www.youtube.com/watch?v=ALMrQ0GUmhY) |
 | Finales          | _Gezo_, deadbeat, Tasha, et tiamus         | [Lien](http://www.youtube.com/watch?v=iTOig6vSS28) |
 
+
 ### Catch the Beat World Cup 2015
 
 | Type             | Interviewés              | [Lien]                                             |
@@ -94,8 +101,9 @@ Récapitulatifs de WCs
 | Quarts de finale | deadbeat, Tasha et ztrot | [Lien](http://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Demi finales     | deadbeat, Tasha et ztrot | [Lien](http://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
+
 Épisodes Spéciaux
-=================
+--------------------
 
 | ÉP\# | Événements                           | Interviewés                                                                                                                                                              | [Lien]                                        |
 |------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -105,4 +113,5 @@ Récapitulatifs de WCs
 | #4   | Welcome back                         | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Lien](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A              | [Kyonko Hizara ](//osu.ppy.sh/u/444868) and [ztrot](//osu.ppy.sh/u/6347)                                                                                                 | [Lien](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-[Category:History of osu!/FR](Category:History_of_osu!/FR "wikilink")
+
+<Category:History of osu!/FR>

@@ -13,7 +13,7 @@ Spacing
 ### 15° Patterns
 
 </div>
-
+  
 Want to try this out? Read a short tutorial at [How to do 15° Patterns](15_degree_Patterns/Tutorial "wikilink")
 
 MT\_57.2.jpg| MT\_57.3.jpg| MT\_57.4.jpg| MT\_57.5.jpg|

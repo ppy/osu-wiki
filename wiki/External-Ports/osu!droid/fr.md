@@ -70,6 +70,7 @@ Osu!droid MM.jpg| Main Menu Osu!droid Play.jpg| Song selection (Okami skin) Osu!
 Options Screen
 --------------
 
+  
 ***Please go to [osu!droid option page](FR:osu!droid/Options "wikilink") for more information.***
 
 How to install skins

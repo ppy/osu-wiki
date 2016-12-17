@@ -17,6 +17,7 @@ Kombofarben ändern
 
 Die Kombofarbe lässt entweder Beatmap-spezifisch im [Editor](DE:Editor "wikilink") ändern (siehe [Beatmapping](DE:Beatmapping "wikilink")), oder Skin-spezifisch im [skin.ini](DE:Skin.ini "wikilink") (unter der Sektion [Colours](Colours "wikilink") für Farben). One can change those colours and/or their order on the beatmap editor's Song Setup section (see [Beatmapping](Beatmapping "wikilink")), or in the skin being used, on the skin properties located on [Skin.ini](Skin.ini "wikilink") (refer to section \[Colours\]).
 
+
 # Guest Difficulty
 
 Als [Gast Schwierigkeitsstufe](DE:Guest_Difficulty "wikilink") (aus dem Eng. "guest difficulty") bezeichnet man Schwierigkeitsstufen, die ein Mapper für eine Beatmap erstellt hat, die aber nicht seine eigene ist. Die Chance auf eine Gast Schwierigkeitsstufe wird vorallem von neuen Mappern wahrgenommen, da sie sich so in einer spezifischen Schwierigkeitsstufe üben können, ohne dabei den Zwang zu haben, ein volles Mapset erstellen zu müssen (sowie die richtige .mp3, Hintergründe und dergleichen zu erstellen oder suchen zu müssen). Manchmal ist auch sogar der Fall, dass der Bestizer der Beatmap nach Gast Schwierigkeitstufen bittet. Dadurch lässt sich dann der Arbeitsaufwand für eine komplette Beatmap, die aus mehreren verschiedenen Schwierigkeitsstufen besteht, auf mehrere Mapper verteilen.

@@ -134,7 +134,7 @@ Ryuuta
 
 #### Aspetto
 * Catch the Beat (come chibi-Ryuuta) [sostituito da Yuzu],
-* pagina web di osu!(chibi-Ryuuta come Mascotte) [Ritirato]
+* pagina web di osu!(chibi-Ryuuta come Mascotte) [Ritirato]  
 * [Skin](https://osu.ppy.sh/forum/t/190357/)
 * Yandere Simulator (as NPC Easter Egg)
 
@@ -171,7 +171,7 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aspetto
-* pagina web di osu!(chibi-J come mascotte) [Ritirato]
+* pagina web di osu!(chibi-J come mascotte) [Ritirato]  
 * [Skin](https://osu.ppy.sh/forum/t/190357/)
 
 #### Creator

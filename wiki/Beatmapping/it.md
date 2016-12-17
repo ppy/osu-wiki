@@ -34,6 +34,7 @@ To start a new beatmap, follow these simple steps:-
 
 -   Drag and drop the audio file onto osu! (Opened or not is not an issue here)
 
+  
 Alternative route: Put audio file onto the "Songs" folder.
 
 -   It should open and direct you to the edit screen with your audio file at there.

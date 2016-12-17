@@ -9,6 +9,7 @@
 
 ### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
+  
 ***得分加成：0.5***
 
 ***"降低总体难度——更大的圈，HP下降更慢，更低的准确度要求，有3条命。"***
@@ -25,6 +26,7 @@ easymod.jpg|很多情况下，Easy 这个 mod 可以在很多地方降低难度�
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
+  
 ***得分加成：0.5***
 
 ***"不管怎么样，你都失败不了。"***
@@ -39,6 +41,7 @@ easymod.jpg|很多情况下，Easy 这个 mod 可以在很多地方降低难度�
 
 <img src="GM_HT.jpg" title="音乐的长度会延长 1/3 ，同时BPM会降低 1/4" alt="音乐的长度会延长 1/3 ，同时BPM会降低 1/4" width="300" />
 
+  
 ***得分加成：0.3***
 
 ***"减&lt;&lt;&lt;&lt;&lt;&lt;速（0.75倍速）"***
@@ -58,6 +61,7 @@ Half Time 将会降低音乐的速度，以达到降低难度的目的。不过�
 
 <img src="hardrock.jpg" title="Hard Rock在很多情况下都会提升难度。" alt="Hard Rock在很多情况下都会提升难度。" width="400" />
 
+  
 ***得分加成：1.06 (osu!, Taiko) , 1.12 (Catch the Beat)***
 
 ***"各方面的难度都增加一点..."***
@@ -74,6 +78,7 @@ Hard Rock（来源于 NDS 游戏：[Elite Beat Agents](ZH:Elite_Beat_Agents "wik
 
 <img src="SD Rarecase.jpeg" title="能够在开启 Sudden Death 中存活并不是一件容易的事情。因为只要漏掉一个 slider tick 都能够将你 K.O. 掉。 通常完成游戏的大概都会这样" alt="能够在开启 Sudden Death 中存活并不是一件容易的事情。因为只要漏掉一个 slider tick 都能够将你 K.O. 掉。 通常完成游戏的大概都会这样" width="200" />
 
+  
 ***无得分加成***
 
 ***"断掉连击就算失败。"***
@@ -88,6 +93,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod has the exact same
 
 #### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
 
+  
 ***无得分加成***
 
 ***在Sudden Death打开的情况下，再点击一遍就能切换到Perfect这个mod***
@@ -100,6 +106,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod has the exact same
 
 <img src="GM_DT.jpg" title="Length of the song is decreased by 1/3 BPM increases by 1/2" alt="Length of the song is decreased by 1/3 BPM increases by 1/2" width="300" />
 
+  
 ***Score multiplier: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat)***
 
 ***"Zoooooooooom"***
@@ -114,6 +121,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, the speed and approach rate
 
 #### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
 
+  
 ***在Double Time打开的情况下，再点击一遍就能切换到Nightcore这个mod。***
 
 ***"洞次打次洞次打次"***
@@ -122,6 +130,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, the speed and approach rate
 
 ### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
 
+  
 ***Score multiplier: 1.06*** (osu!,Taiko,CtB) , ***1.00*** (osu!mania)
 
 ***"Play with no approach circles and fading notes for a slight score advantage."***
@@ -136,6 +145,7 @@ In [osu!mania](osu!mania "wikilink") mode, Hidden can be used upon pressing Fade
 
 #### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
 
+  
 ***Score multiplier: 1.00*** (osu!mania only)
 
 This mod is specially for osu!mania only. It hides about 1/4 vision dead above the conveyor. The darkness will spread until the 500th combo count where 3/4 of the conveyor will be blocked until you break the combo streak. At 300th combo count, it is 1/2 of the conveyor.
@@ -150,6 +160,7 @@ For a comparison, see pictures below.
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
+  
 ***Score multiplier: 1.12***
 
 ***"Restricted view area."***
@@ -172,6 +183,7 @@ The mods listed below can't be used in conjunction with each other, except for R
 
 ### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
 
+  
 ***Score multiplier: 0 (Unranked)***
 
 ***"You don't need to click.
@@ -186,6 +198,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod allows the charact
 
 ### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
 
+  
 ***Score multiplier: 0 (Unranked, osu! only)***
 
 ***"Automatic cursor movement - just follow the rhythm.
@@ -197,6 +210,7 @@ Auto Pilot is not available for use in [Taiko](Taiko "wikilink") or [Catch the B
 
 ### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
 
+  
 ***得分加成： 0.9 ( 只在osu模式下有效）***
 
 ***"转盘将会自动完成"***
@@ -207,6 +221,7 @@ Spun Out 在[Taiko或](Taiko "wikilink")[Catch the Beat](Catch_the_Beat "wikilin
 
 ### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
 
+  
 ***"Watch a perfect automated play through the song"***
 
 A mod that allows the player to watch a perfect playthrough of the selected beatmap. This mod functions exactly like a [replay](replay "wikilink"), allowing 2x speed to be used and comments on the beatmap to be seen and made. The Auto mod will always get an SS, except in special cases. These cases are all noted as unrankable designs and with the exception of ninja [spinners](spinners "wikilink") in some old maps, will never occur in current ranked beatmaps.
@@ -219,12 +234,14 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, the Auto mod will actually 
 
 <img src="GM_Cinema_comp.jpg" title="Auto和Cinema mod之间的比较" alt="Auto和Cinema mod之间的比较" width="200" />
 
+  
 ***"按Auto两下就会切换到Cinema mod"***
 
 这mod只会显示背景图、故事模板(Storyboard)和视频，其他hitcircle神马的鬼东东都会隐藏掉。你可以开启HT/DT/NC mod和听见该难度的音效。但是，你不可以暂停还有只显示"pass"的故事模板而已。背景暗化会自动调成0%，视频和故事模板会自动开启(即使你在设定中没开启这些特效)。
 
 ### <img src="4K.png" title="fig:4K.png" alt="4K.png" width="69" height="65" /><img src="5k.png" title="fig:5k.png" alt="5k.png" width="69" height="65" /><img src="6k.png" title="fig:6k.png" alt="6k.png" width="69" height="65" /><img src="7k.png" title="fig:7k.png" alt="7k.png" width="69" height="65" /><img src="8k.png" title="fig:8k.png" alt="8k.png" width="69" height="65" /> 4K/5K/6K/7K/8K
 
+  
 ***Score multiplier: 0.78~1.0 (osu!mania only)***
 
 This mod will force all beatmap difficulties to use the selected K setting, ignoring the supposed K setting of the beatmap's difficulty at the cost of decreasing Score punishment.
@@ -294,6 +311,7 @@ Score multiplier only applies within this condition:
 
 <img src="GM COOP2.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." width="100" /> <img src="GM COOP.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." width="200" />
 
+  
 ***Score multiplier: 0.70 ~ 1.00 (osu!mania only)***
 
 ***"双倍键位，双人合奏，基情无限！"***
@@ -389,6 +407,7 @@ Score multiplier only applies within this condition:
 
 ===<img src="Random.png" title="fig:Random.png" alt="Random.png" width="69" height="65" /> Random=== <img src="GM Random.jpg" title="fig:Effect of &quot;Random&quot; mod" alt="Effect of &quot;Random&quot; mod" width="200" />
 
+  
 ***Score multiplier: 1.0 (osu!mania only)***
 
 This mod will **change the note placement** only. It does not affect the timeline note to hit and is not shuffled every time this mod is used. Take caution prior using the mod as certain note pattern will change to be easier/harder to do, as shown on the picture at the right.

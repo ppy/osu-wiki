@@ -32,6 +32,7 @@ Para começar um novo mapa, siga esses passos:-
 
 -   Arraste e largue o ficheiro de áudio no osu! (Aberto ou não, não é um problema aqui)
 
+  
 Rota alternativa: Coloque o ficheiro de áudio na pasta "Songs".
 
 -   Deverá abrir e redirecionar você para a tela de edit com seu ficheiro de áudio lá.

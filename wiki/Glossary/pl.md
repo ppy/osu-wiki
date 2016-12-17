@@ -195,6 +195,7 @@ H
 
 ### Hit Circle
 
+  
 *See also, [Hit Objects](Hit_Objects "wikilink").*
 
 Called Hit Marker in the [DS games](#DS_games "wikilink"). One of three [objects](#Object "wikilink") the player interacts with (the other two being the [Slider](Slider "wikilink") and the [Spinner](#Spinner "wikilink")) and probably the one most commonly seen. It's a coloured circle with a number on it (depending on its place in a [Combo](#Combo "wikilink")) with the outline of another circle ([Approach Circle](#Approach_Circle "wikilink")) shrinking around it. Once the Approach Circle outline overlaps the Hit Circle's border, the player should [Tap](#Tap "wikilink") the Hit Circle, earning a number of points (50, 100 or 300) depending on how accurate their tapping was, and possibly scoring a [Beat!](Score#Katu "wikilink") or an [Elite Beat!](Score#Elite_Beat! "wikilink") if the circle is the end of a combo. Tapping Hit Circles gives a very small boost to the [Life Bar](#Life_Bar "wikilink").
@@ -222,6 +223,7 @@ I
 
 ### iNiS
 
+  
 *[Artykuł Wikipedii (ang.)](https://en.wikipedia.org/wiki/INiS)*
 
 **iNiS** to japońska korporacja tworząca gry a zwłaszcza rytmiczne. Jest twórcą trzech [gier na konsolę DS](#DS_games "wikilink") na których jest bazowane [osu!](osu! "wikilink").
@@ -335,6 +337,7 @@ i) In Japanese culture, a cheer squad which, similar to western cheerleaders, ra
 
 ### Overmapping
 
+  
 *Main articles: [Insane](Insane#Overmapping "wikilink") and [Music Theory](Music_Theory#Part_3:_Overmapping "wikilink")*
 
 When the [beats](Hit_Objects "wikilink") or placement of beats is placed in a way that makes the difficulty of the map contrast the actual song. This can be done by adding unnecessary [jumps](jumps "wikilink") or slider [speed-ups](Slider_Velocity_Changes "wikilink"), or by mapping to an unknown beat in the music consistently, in order to add difficulty (ie. Adding notes on blue ticks when the song is only using red ticks).
@@ -370,6 +373,7 @@ R
 
 ### Rank
 
+  
 *For Ranked beatmaps see [Ranked beatmap](Ranked_beatmap "wikilink").*
 
 i) Another word for a [grade](#Grade "wikilink").

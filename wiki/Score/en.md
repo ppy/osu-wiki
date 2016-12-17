@@ -266,6 +266,7 @@ Scoring Formulae
 
 [Circle Size](Song_Setup#Circle_Size "wikilink"), [HP Drain](Song_Setup#HP_Drain "wikilink") and [Overall Difficulty](Song_Setup#Overall_Difficulty "wikilink") are giving for each tick a "diffculty point"; e.g. the maximum a map can give is 27 difficulty points with CS7, OD10 and HP10; the minimum a map can give is 2 difficulty points with CS2, OD0 and HP0. CS cannot normally go below 2 or above 7.
 
+  
 These "difficulty points" affect the multiplier as so:
 \* 0-5: 2x multiplier
 \* 6-12: 3x multiplier

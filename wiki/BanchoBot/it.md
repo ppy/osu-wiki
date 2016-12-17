@@ -14,6 +14,7 @@ Apparenza e funzioni
     -   Se invii il comando senza il punto esclamativo ("!") mentre sei nella chat con BanchoBot, egli riceverà comunque i messaggio come quando usi il comando /bb
 -   Non puoi usare i comandi senza il punto esclamativo se non sei sulla chat di BanchoBot.
 
+
 #### Comandi standard (!COMANDO oppure /bb COMANDO)
 
 | COMANDO | Effetti | Esempio | Risposta di BanchoBot |
@@ -24,6 +25,7 @@ Apparenza e funzioni
 | REPORT (ragione) | Mostra una mod request recente. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST | Show a random recent mod request. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (numero) | Tira un dado (virtuale) e dà un risultato casuale da uno a (numero) (il default è di 100) | !roll 9000 | John rolls 1337 point(s) |
+
 
 Curiosità
 ---------

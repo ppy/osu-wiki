@@ -3,6 +3,7 @@ Pattern-matic
 
 Hitcircles, with patterns.
 
+  
 *Not to be confused with: [Formations](Formations "wikilink")*
 
 ### Double Stacks

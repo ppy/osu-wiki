@@ -1,4 +1,4 @@
-
+  
 ***[Click here to go back to osu!droid](Osu!droid "wikilink")***
 
 (The design may vary depending on your device)

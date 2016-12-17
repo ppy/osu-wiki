@@ -5,6 +5,7 @@ There are a couple of ways to do this, depending on what kind of wiggle you're a
 Type 1
 ------
 
+  
 Start and end pointing the same way.
 
 ![](MGS_12.png "MGS_12.png")
@@ -14,6 +15,7 @@ The important thing here is that each arc that make up the wiggle is made up of 
 Type 2
 ------
 
+  
 Start and end pointing different ways.
 
 ![](MGS_13.png "MGS_13.png")
@@ -23,6 +25,7 @@ Similarly to type 1, each arc is made up of four points, but in my experience it
 Type 3
 ------
 
+  
 Super Tight Wiggles
 
 ![](MGS_14.png "MGS_14.png")

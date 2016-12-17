@@ -1,4 +1,4 @@
-
+  
 *Ceci est un post que [peppy](peppy "wikilink") a écrit il y a quelque temps et demandé d'en faire un article.Vous pouvez lire l'original [ici](http://osu.ppy.sh/forum/t/83155/start=0).*
 
 \_\_TOC\_\_

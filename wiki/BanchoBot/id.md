@@ -24,4 +24,5 @@ Tampilan dan Tugas
 | REQUEST (list) | Menampilkan sebuah permintaan mod secara acak. [list] Menampilkan 5 permintaan mod terbaru secara acak. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (nomor) | Menggulingkan sebuah dadu (virtual/maya) dan mendapatkan hasil yang acak dari 1 hingga (nomor)(biasanya 100) | !roll 9000 | John rolls 1337 point(s) |
 
+
 *\*Alasan dalam perintah !REPORT harus menggunakan bahasa Inggris sebab Moderator Obrolan umumnya menggunakan bahasa Inggris.*

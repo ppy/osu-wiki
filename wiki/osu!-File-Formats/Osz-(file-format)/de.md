@@ -1,6 +1,6 @@
-**.osz** ist ein Beatmapdateiformat, welches Hitsounds, .osu Datei, Skin Elemente, .osb Datei und Storyboard Elemente enthalten kann.
+**.osz** ist eine Beatmapdateiformat, welches Hitsounds, .osu Datei, Skin Elemente, .osb Datei und Storyboard Elemente enthalten kann.
 
-Um eine .osz Datei zu erstellen, öffnet man einfach die Beatmap, die man als .osz exportieren möchte, im Editor und klickt oben-links auf "Datei" und dann auf "Paket exportieren", siehe Bild.
+Um eine .osz Datei zu erstellen, öffnet man einfach die Beatmap, die man als .osz exportieren möchte, im Editor, klickt oben-rechts auf "Datei" und dann auf "Paket exportieren", siehe Bild.
 
 ![Exporting .osz](DE-.osz_export.jpg "Exporting .osz")
 

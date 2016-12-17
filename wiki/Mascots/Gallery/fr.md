@@ -1,4 +1,4 @@
-
+  
 ***[Cliquez ici pour revenir à la page des Mascottes](FR:Mascots "wikilink")***
 
 Originals d'osu!

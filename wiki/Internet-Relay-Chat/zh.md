@@ -60,13 +60,13 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 
 | 客户端                                    | 操作                                                                                                                                                                                                                                                                     |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"  
-
+| [HexChat](http://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                       
                                              b. 前往 Settings » Preferences, 在 Chatting » General中 , 勾选 "Hide join and part Messages"                                                                                                                                                                              |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
 | [Irssi](http://www.irssi.org)             | /ignore -channels \#频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*  
-
+| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                       
                                              **Note:** somename是你在Weechat中定义的irc服务器地址.                                                                                                                                                                                                                     |
 | [KVIrc](http://www.kvirc.net)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
 | [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
@@ -81,6 +81,7 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 发生了错误 "Bad Authentication Token". 我该怎么办?
 --------------------------------------------------
 
+  
 1. 检查你使用的密码是否和 [IRC Authentication](https://osu.ppy.sh/p/irc) 页面上的一致.
 
 2. 如果你的用户名中有空格，用下划线替代它 (**This Username** 应该是 **This\_Username**)
@@ -88,11 +89,13 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 我能使用其他的昵称么?
 ---------------------
 
+  
 不能，你必须使用你游戏中的用户名。
 
 我在某些人的名字前看到了voice状态，那是什么？
 ---------------------------------------------
 
+  
 voice状态（名字前面有一个“+”）的用户是通过IRC客户端连接的用户，（除了IRC管理员，他们的名字前有一个“@”）。
 
 名字前没有前缀的用户是通过游戏连接到osu! Bancho 的用户。

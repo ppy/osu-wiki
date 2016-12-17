@@ -1,7 +1,10 @@
-Einführung
+osu!talk
 ==========
 
-<img src="Osu!talk.png" title="fig:osu!talk Logo" alt="osu!talk Logo" width="300" />
+Einführung
+------------
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 -   Offizieller Youtube Kanel: [http://www.youtube.com/user/osuacademy/videos](//www.youtube.com/user/osuacademy/videos)
 -   Offizieller Thread: [http://osu.ppy.sh/forum/t/225111](//osu.ppy.sh/forum/t/225111)
@@ -9,7 +12,7 @@ Einführung
 **osu!talk** ist eine Podcast Serie, die von ztrot und Charles445 geführt wird, die sich mit vielen Leuten aus der Community unterhalten. Durch die Art und Weise wie die Podcast Serie aufgestellt wurde, kann jeder, der Lust und Interesse hat, am Podcast live teilnehmen und am Ende im Frage&amp;Antwort Teil seine Frage(n) zum Thema/zur Person stellen.
 
 Episoden
-========
+----------
 
 | \#         | Episoden (alle auf Englisch)                                                                          |
 |------------|-------------------------------------------------------------------------------------------------------|
@@ -31,8 +34,9 @@ Episoden
 | Episode 16 | [mit OnosakiHito - Taiko QAT (38:58)](//www.youtube.com/watch?v=ZYby7r3YNPg)                          |
 | Episode 17 | [mit RBRat3 - osu!painter (23:37)](//www.youtube.com/watch?v=kSotXmkCN4I)                             |
 
+
 Spezialfolgen
-=============
+--------------
 
 | \#              | Spezialfolgen (alle auf Englisch)                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------------------------|
@@ -40,4 +44,5 @@ Spezialfolgen
 | Spezialfolge 02 | [mit Kyonko Hizara, Loctav, MMzz und OnosakiHito - Over-Mapping (1:08:03)](//www.youtube.com/watch?v=RepSYE3hN3A) |
 | Spezialfolge 03 | [mit deadbeat, LoliFlan und Kitokofox - Moderation (1:09:33)](//www.youtube.com/watch?v=C1hvpnW5A7k)              |
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+
+<Category: Deutsch>

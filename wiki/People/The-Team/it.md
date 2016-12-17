@@ -6,6 +6,7 @@ Creatore
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/u/2) | Leader del progetto |
 
+
 Attivi
 ----------------------
 
@@ -21,6 +22,7 @@ Attivi
 | [yelle](https://osu.ppy.sh/u/4916903) | Gestione osu!store |
 | [ztrot](https://osu.ppy.sh/u/6347) | Professore osu!academy, Desing Media/personaggi |
 | [Zallius](https://osu.ppy.sh/u/55) | Specie in via di estinzione |
+
 
 Inattivi
 ----------------------
@@ -40,6 +42,7 @@ Inattivi
 | [Sinistro](https://osu.ppy.sh/u/5530) | Meeting minutes, Grande contributo alle FAQ |
 | [woc2006](https://osu.ppy.sh/u/1105845) |Team sviluppatori di osu!, Sviluppatore della modalità osu!mania |
 
+
 Gruppi Utente
 ----------------------
 
@@ -53,5 +56,6 @@ Gruppi Utente
 | [osu!news](http://osu.ppy.sh/g/25) | Provvedono a darti della lettura di qualità dal 2013 |
 | [Staff dei Tornei](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Ti aiutiamo a farti piacere osu!, iniziando dalla qualità delle beatmaps. |
+
 
 <Category:People>

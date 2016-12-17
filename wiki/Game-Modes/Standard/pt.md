@@ -13,6 +13,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 Como jogar?
 -----------
 
+  
 *Explicação completa: [osu! Standard](PT:Standard "wikilink")*
 
 como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](PT:Play_Styles "wikilink") para mais informação.
@@ -202,6 +203,7 @@ Problemas e Perguntas frequentes
 Onde eu encontro beatmaps para baixar?
 --------------------------------------
 
+  
 *Explicação detalhada sobre beatmaps: [Beatmaps](PT:Beatmaps "wikilink")*
 
 Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".

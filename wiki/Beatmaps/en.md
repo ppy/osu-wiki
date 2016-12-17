@@ -1,6 +1,7 @@
 What are "Beatmaps"?
 ====================
 
+  
 *Beatmaps listing page: <http://osu.ppy.sh/p/beatmaplist>*
 
 Also called map for short, they are game levels in [osu!](Glossary#osu! "wikilink"), like the stages in the [DS games](Glossary#DS_games "wikilink"). In their most basic form, beatmaps have a song and [Hit Circles](Glossary#Hit_Circle "wikilink"), [Sliders](Slider "wikilink"), and/or [Spinners](Glossary#Spinner "wikilink") placed according to the rhythm of the music, but they can also have a background image or video, or even a [Storyboard](Storyboarding "wikilink"). Creators of beatmaps are called beatmappers or mappers for short. Beatmaps are uploaded for everyone to see and play with using the [BSS](Glossary#BSS "wikilink"), and are then [modded](Modding "wikilink"). If/Once a beatmap is deemed good enough, it is [ranked](Ranked_beatmap "wikilink") or, if fulfilling certain criteria, [approved](Approved_Beatmap "wikilink").

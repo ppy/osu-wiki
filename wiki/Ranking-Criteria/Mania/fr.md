@@ -21,6 +21,7 @@ Général
 -   **Vous n'êtes pas autorisé à placer 7 notes simultanément.** La plupart des claviers USB ne sont pas capables d'enregistrer 7 touches simultanément. Cependant, une règle à cette règle existe : *la fin d'une longue note ne compte pas dans la limite des 7 notes, étant donné que la touche est relâchée, et non pressée.*
 -   **Vous ne pouvez pas avoir 2 notes placées dans une même colonne sur un même temps (les notes se superposent), et il doit toujours y avoir un espace entre 2 notes d'une même colonne.**
 
+  
 Par exemple (imaginons que les exemples énoncées sont situés dans une mesure de 4 temps) :
 
 | <u>Note 1:</u>           | <u>Note 2:</u>           | O/N | Raison                                                                                                                                                                                                        |
@@ -39,6 +40,7 @@ Echelle de difficulté
 -   **Chaque mapset doit comprendre au moins deux difficultés et l'une d'elle doit être Easy ou Normal.**
 -   **Le nombre de colonnes de la difficulté maximale de votre mapset ne doit pas être inférieur au nombre de colonnes présent dans les difficultés plus simples.**
 
+  
 Par exemple (4K étant le nombre de colonnes inférieur et 7K le nombre de colonnes supérieur) :
 
 4K Easy + 7K Insane: Accepté

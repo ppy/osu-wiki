@@ -5,6 +5,7 @@ The point of having correct timing is so that the timeline in the [editor](edito
 How to time songs
 -----------------
 
+  
 ***Main page: [How to time songs](How_to_time_songs "wikilink")***
 
 Timing is extremely important. To time the song, you need to switch to timing tab.

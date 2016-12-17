@@ -99,6 +99,7 @@ For each of the event types below, the initial value(s) of that event will assum
 
 **startscale**: the scale factor at the beginning of the animation **endscale**: the scale factor at the end of the animation
 
+
 Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_V,[...],startx,starty,endx,endy`
@@ -108,6 +109,7 @@ Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 `_R,[...],startangle,endangle`
 
 **startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation **endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
+
 
 Note: positive angle is clockwise rotation
 
@@ -205,6 +207,7 @@ Trigger loops are zero-based similar to normal loops. If two overlap, the first 
 
 **layer**:
 
+
 Background = **0**
 
 Fail = **1**
@@ -214,6 +217,7 @@ Pass = **2**
 Foreground = **3**
 
 **filepath**: relative path of the sound file (should be in the same directory as the .osu file)
+
 
 *Note: file path must be in double quotes*
 

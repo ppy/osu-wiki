@@ -24,6 +24,7 @@ To ease the description of the format of each .db file, the following names for 
 | Boolean | 1 | 0x00 for false, everything else is true |
 | String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8). |
 
+
 osu!.db
 -------
 
