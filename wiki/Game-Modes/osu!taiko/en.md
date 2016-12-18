@@ -1,6 +1,6 @@
 # osu!taiko
 
-<img src="img/intro.jpg" alt="Gameplay of osu!taiko" style="padding:0 0 16px 16px;width:250px;float:right;"/>
+![Gameplay of osu!taiko](img/intro.jpg)
 
 osu!taiko is a game mode in osu! that borrows *almost* every of it's elements from the Japanese rhythm game, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (Released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master) in North America).
 
@@ -9,7 +9,7 @@ osu!taiko is a game mode in osu! that borrows *almost* every of it's elements fr
 By default, the keys to hit the drums are `X` and `C` for Don (red) and `Z` and `V` for Katsu (blue).
 
 Red notes indicate that you must hit the middle of the drum (`X` and/or `C`).
-Blue notes indicate that you must hit the rims of the drum ( `Z` and/or `V`).
+Blue notes indicate that you must hit the rims of the drum (`Z` and/or `V`).
 
 Large red or blue notes indicate that you should tap with both buttons (according to colour).
 However, you *could* tap with just one of the buttons, but you would get less points (300 instead of 600).

@@ -1,6 +1,6 @@
 # osu!
 
-<img src="img/intro.jpg" alt="Gameplay of osu!" style="padding:0 0 16px 16px;width:250px;float:right;"/>
+![Gameplay of osu!](img/intro.jpg)
 
 ## Gameplay
 
@@ -33,7 +33,7 @@ Let's learn about what the hit-able objects are shall we?
 
 #### Hitcircles
 
-<img src="img/hitcircles.jpg" alt="Hitcircles" style="padding:0 0 16px 16px;width:200px;float:right;"/>
+![Hitcircles](img/hitcircles.jpg)
 
 -   Here you can see the circles you have to tap.
     -   The smaller coloured circle on the outside shrinks and you have to hit the note at the exact point the outside circle overlaps with the white border.
@@ -41,7 +41,7 @@ Let's learn about what the hit-able objects are shall we?
 
 #### Sliders
 
-<img src="img/slider.jpg" alt="Slider" style="padding:0 0 16px 16px;width:200px;float:right;"/>
+![Slider](img/slider.jpg)
 
 -   Here we have a slider.
     -   First, you have to hit it at the right moment, but it doesn't end there.
@@ -54,7 +54,7 @@ Let's learn about what the hit-able objects are shall we?
 
 #### Spinners
 
-<img src="img/spinner.jpg" alt="Spinner" style="padding:0 0 16px 16px;width:200px;float:right;"/>
+![Spinner](img/spinner.jpg)
 
 -   This is a spinner.
     -   You have to click then hold the hit-button, and the mouse is used to spin (clockwise or counter-clockwise) in circles like mad before the time (which is, that blue circle line) runs out.

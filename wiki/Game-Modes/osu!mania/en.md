@@ -1,6 +1,6 @@
 # osu!mania
 
-<img src="img/intro.jpg" alt="Gameplay of osu!mania" style="padding:0 0 16px 16px;width:250px;float:right;"/>
+![Gameplay of osu!mania](img/intro.jpg)
 
 osu!mania is osu!'s newest game mode.
 It is similar to Beatmania IIDX (or DJMAX, Guitar Hero, O2Jam/mania, StepMania, DDR and other rhythm games that require more than 3 buttons) in which a player needs to press the specific buttons for the beat notes that are coming down.
@@ -19,7 +19,7 @@ The judgement of a beatmap is determined automatically.
 
 ## Controls
 
-<img src="img/key_binds.png" alt="Key Bind colour and placement by number of buttons" style="padding:0 0 16px 16px;width:300px;float:right;"/>
+![Key Bind colour and placement by number of buttons](img/key_binds.png)
 
 There *used to be* two different binding-styles, *Symmetrical* and *Left to Right*.
 
@@ -39,7 +39,8 @@ There *used to be* two different binding-styles, *Symmetrical* and *Left to Righ
 -   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
 -   The *Special* button — (S1)**left SHIFT** and **left control "Ctrl"**.
 
-<img src="img/key_layouts.jpg" alt="Default Key layouts of osu!mania" style="padding:0 0 16px 16px;width:350px;float:right;clear:right;"/>
+![Default Key layouts of osu!mania](img/key_layouts.jpg)
+
 <table>
  <thead>
   <tr>
@@ -174,7 +175,7 @@ There *used to be* two different binding-styles, *Symmetrical* and *Left to Righ
 
 ### Co-Op
 
-<img src="img/key_layouts2.jpg" alt="Default Key layouts of osu!mania" style="padding:0 0 16px 16px;width:300px;float:right;"/>
+![Default Key layouts of osu!mania](img/key_layouts2.jpg)
 
 The **[5th of March 2015 update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op]().
 With this mod enabled, you can control a second different set of keys along with the primary set of keys as above.
@@ -479,7 +480,7 @@ Flashlight                    1.06
 
 ### Map Editor
 
-<img src="img/editor.png" alt="The osu!mania editor" style="padding:0 0 16px 16px;width:300px;float:right;"/>
+![The osu!mania editor](img/editor.png)
 
 Just like the other modes, osu! will convert osu!standard beatmaps to osu!mania when playing in this mode.
 However, when you change the map's mode to "osu!mania", the editor will change, as shown in the screenshot.
