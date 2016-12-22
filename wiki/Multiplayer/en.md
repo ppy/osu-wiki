@@ -1,31 +1,53 @@
 <!--Wiki links used-->
-[osu!academy wikilink]: www.google.com "NOT COMPLETE!"
-[Chat_Console#Extended_Chat_Console wikilink]: www.google.com "NOT COMPLETE!"
-[Beatmaps2 wikilink]:
-[osu!supporter wikilink]:
-[Standard wikilink]: www.google.com "NOT COMPLETE!"
-[Taiko wikilink]: www.google.com "NOT COMPLETE!"
-[Catch the Beat wikilink]: www.google.com "NOT COMPLETE!"
-[osu!mania wikilink]: www.google.com "NOT COMPLETE!"
-[Sudden Death wikilink]: www.google.com "NOT COMPLETE!"
+[osu!academy wikilink]: /wiki/osu!academy/en.md "osu!academy"
+[Chat_Console#Extended_Chat_Console wikilink]: /wiki/Chat-Console/en.md#extended-chat-console "Extended chat console"
+[Beatmaps2 wikilink]: /wiki/Beatmaps/en.md#how-to-get-beatmaps-on-osu!-? "How to get beatmaps from osu!"
+[osu!supporter wikilink]: /wiki/osu!supporter/en.md "osu!supporter"
+[Standard wikilink]: /wiki/Game-Modes/osu!/en.md "osu! game mode"
+[Taiko wikilink]: /wiki/Game-Modes/osu!taiko/en.md "osu!taiko game mode"
+[Catch the Beat wikilink]: /wiki/Game-Modes/osu!catch/en.md "osu!catch game mode"
+[osu!mania wikilink]: /wiki/Game-Modes/osu!mania/en.md "osu!mania game mode"
+[Sudden Death wikilink]: /wiki/Game-Modifiers/en.md#sudden-death "Sudden Death game modifier"
+[Perfect wikilink]: /wiki/Game-Modifiers/en.md#perfect "Perfect game modifier"
 
 <!-- External links used -->
 [Release b335]: http://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
 [osu!academy Ep6]: http://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
 
-<!-- Image link used -->
-[Beatmaps_peppy image]: ./Multiplayer/Beatmaps_peppy.jpg "Official image on beatmap extraction."
+<!-- Image links used -->
+[Multi_flowchart image]: ./Multi_flowchart.png "Multiplay Flowchart."
+[Beatmaps_peppy image]: ./Beatmaps_peppy.jpg "Official image on beatmap extraction."
+[Multi_lobby image]: ./Multi_lobby.jpg "Example of a typical day in the Multiplayer Lobby"
+[Multi_new_game image]: ./Multi_new_game.jpg "Setting up configuration for a New Game"
+[Multi_roomhost image]: ./Multi_roomhost.jpg "Example of Host Match Setup"
+[Multi_roomplayer image]: ./Multi_roomplayer.jpg "Example of Player Match Setup (With &quot;Free Mods&quot; on)"
+[Multi_mods_host image]: ./Multi_mods_host.jpg "Host (osu!) mods options"
+[Multi_mods_player image]: ./Multi_mods_player.jpg "Player (osu!) mods options (With &quot;Free Mods&quot; on)"
+[Multi_host_song_change image]: ./Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
+[Multi_SS image]: ./Multi_SS.jpg "Example of how the Song Selection will look like for host."
+[Multi_mh_single image]: ./Multi_mh_single.jpg "Example of Match History."
+[Multi_mh_team image]: ./Multi_mh_team.jpg "Example of Team Match History."
+[osu! icon link]: /wiki/shared/Osu.gif
+[osu!taiko icon link]: /wiki/shared/Taiko.gif
+[osu!catch icon link]: /wiki/shared/Ctb.gif
+[osu!mania icon link]: /wiki/shared/Mania.gif
+[Multi_PB_B image]: ./Multi_PB_B.jpg "Blue"
+[Multi_PB_R image]: ./Multi_PB_R.jpg "Purple-Red"
+[Multi_PB_F image]: ./Multi_PB_F.jpg "Failed/Grey"
+[Multi_PB_TAG image]: ./Multi_PB_TAG.jpg "Tag/Green"
+[Multi_PB_SKIP image]: ./Multi_PB_SKIP.jpg "Skipped"
+[Multi_PB_QUIT image]: ./Multi_PB_QUIT.jpg "Quit"
 
 <!--Title-->
-# Multiplayer <a name="multiplayer"></a>
-<img src="Multiplay_flowchart.jpg" title="Multiplay Flowchart" alt="Multiplay Flowchart" width="400px" align="right" />
+# Multiplayer
+![Flowchart of a multi game][Multi_flowchart image]
 
-## Introduction <a name="introduction"></a>
+## Introduction
 Multiplayer was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
 
 [osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with [Online Users Panel][Chat_Console#Extended_Chat_Console wikilink].
 
-## How to enter <a name="how-to-enter"></a>
+## How to enter
 ### Minimum requirements
 - Decent online connection.
 - osu!account logged into Bancho (should be done automatically)
@@ -34,7 +56,7 @@ Multiplayer was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public 
 - Logical thinking (knowing when to ask about something you don't understand)
 
 ### Ways to enter
-From Main menu,  
+From Main menu,
 - Press "**Play**" then "**Multi**"; or
 - Press "**P**" then "**M**". (from Keyboard)
 
@@ -46,11 +68,11 @@ You will be directed to the "**lobby**", the core of the Multi-play.
 - "Quit" when playing a match.
 - Requires [osu!supporter][osu!supporter wikilink] in cuttingedge build.
 
-## Lobby <a name="lobby"></a>
-<img src="Multiplay_lobby.jpg" title="Example of a typical day in the Multiplayer Lobby" alt="Example of Multiplayer Lobby" style="width:200px; float:right;" />
+## Lobby
+![Example of Multiplayer Lobby][Multi_lobby image]
 
 This is a (waiting) Multiplayer Lobby.
--   Here's a list of things that a player can do in the lobby:
+-   Here is a list of things that a player can do in the lobby:-
 	-   Press one of the tabs above to sort out the game style they want.
 	-   Selecting the few options below the tab to sort out the list.
 	-   Creating a new "room" by pressing "New Game"
@@ -61,8 +83,8 @@ This is a (waiting) Multiplayer Lobby.
 	-   Check out the players logged into lobby by looking at the right of the screen.
 	-   Select and playing your jukebox songs at the upper-right of the screen.
 
-## New game <a name="new-game"></a>
-<img src="Multiplay_new_game.jpg" title="Setting up configuration for a New Game" alt="New Game setup screen" style="width:200px; float:right;" />
+## New game
+![New Game setup screen][Multi_new_game image]
 
 Title | Description
 :---: | :---
@@ -72,18 +94,18 @@ Title | Description
 
 After you are done, you can press the "Start Game" to create the "room" with you as the host of the room. You will be directed to **Match Setup**
 
-<br style="clear: both" />
-
-## Match Setup <a name="match-setup"></a>
+## Match Setup
 `Nicknamed "(game) room"`
 
-<img src="Multiplay_Host.jpg" title="fig:Example of Host Match Setup" alt="Example of Host Match Setup" style="width:300px; float:right;" />
-<img src="Multiplay_Player.jpg" title="fig:Example of Player Match Setup (With &quot;Free Mods&quot; on)" alt="Example of Player Match Setup (With &quot;Free Mods&quot; on)" style="width:300px; float:right;" />
-<img src="Multiplay_mods_Host.jpg" title="fig:Host (osu!) mods options" alt="Host (osu!) mods options" style="width:300px; float:right;" />
-<img src="Multiplay_mods_Player.jpg" title="fig:Player (osu!) mods options (With &quot;Free Mods&quot; on)" alt="Player (osu!) mods options (With &quot;Free Mods&quot; on)" style="width:300px; float:right;" />
-Pictured right is the Match Setup (Team Setup) for the Host only. For the purpose of comparison, the second picture is Match Setup (Head-To-Head Setup) for a player with "Free Mods" enabled.
+Image | Description
+---|:---
+![Host room view][Multi_roomhost image] | Host room view
+![Player room view][Multi_roomplayer image] | Player room view
+![Host mods view][Multi_mods_host image] | Host game mode view
+![Player mods view][Multi_mods_player image] | Player game mode view (Free Mode ON)
 
-<table style="width:60%; border:1px solid black;">
+<!-- Reason: Long list readibility -->
+<table border="1">
 	<thead>
 		<tr>
 			<th>Title</th>
@@ -97,7 +119,7 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 		</tr>
 		<tr>
 			<th>Player bar</th>
-			<td><strong>Your player bar.</strong> Currently, it is based on <a href="Performance Points wikilink">pp</a>. Changes depending by the currently playing game mode.</td>
+			<td><strong>Your player bar.</strong> Currently, it is based on <a href="/wiki/Performance-Points/en.md" title="Performance Points">pp</a>. Changes depending by the currently playing game mode.</td>
 		</tr>
 		<tr>
 			<th>Pause button</th>
@@ -109,7 +131,7 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 				<strong>The players inside the room.</strong> Player can move around the placing if they want.
 				<ul>
 					<li><strong>Note:</strong> Flag = Small Rectangle , Bar = Long rectangle</li>
-					<li><strong>Flag Colour legend:<strong>
+					<li><strong>Flag Colour legend:</strong>
 						<ul>
 							<li>Upon click(Team):Change Team colour</li>
 							<li>White: Player has the beatmap but did not press the Ready button.</li>
@@ -120,7 +142,7 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 							<li>Light Blue: Player is playing.</li>
 						</ul>
 					</li>
-					<li><strong>Bar Colour legend:<strong>
+					<li><strong>Bar Colour legend:</strong>
 						<ul>
 							<li>Cursor on bar: Shows Level, Nation and Accuracy of the player.</li>
 							<li>White: Player has the beatmap but did not press the Ready button.</li>
@@ -142,7 +164,7 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 			</td>
 		</tr>
 		<tr>
-			<th>Game Name:</th>
+			<th>Game Name</th>
 			<td><strong>The name of the game.</strong> Only the Host can change the name and create/change the room password.</td>
 		</tr>
 		<tr>
@@ -153,28 +175,29 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 					<li>If the beatmap is ranked/approved/pending/graveyard, player will be directed to the beatmap page by player's web browser.</li>
 					<li>If the beatmap is not uploaded or not up to date, it will not link to the beatmap. The host should find the link (Beatmap Listing) for the player if the issue persists.</li>
 					<li>If you can't update, the <a href="http://osu.ppy.sh/forum/t/135726">host is probably playing a modified version.</a></li>
+					<li>Scrolling over the beatmap will show the <a href="./Multi_beatmapinfo.jpg">BPM, Length, Last Played, CS, AR, OD, HP, and Stars.</a></li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<th>Mods</th>
 			<td>
-				<strong><a href="Game Modifier wikilink">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
+				<strong><a href="/wiki/Game-Modifiers/en.md">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
 				<ul>
-					<li><strong>Free Mods:</strong> Host's special command. When enabled, players are allowed to use any mods except Speed (<a href="DT" title="wikilink">DT</a>/<a href="NC" title="wikilink">NC</a>,<a href="HT" class="uri" title="wikilink">HT</a>) mods, in which, is determined by the host. Host-selected mods other than Speed mods will not be forced upon players.</li>
+					<li><strong>Free Mods:</strong> Host's special command. When enabled, players are allowed to use any mods except Speed (<a href="/wiki/Game-Modifiers/en.md#double-time" title="Double Time">DT</a>/<a href="/wiki/Game-Modifiers/en.md#nightcore" title="NightCore">NC</a>,<a href="/wiki/Game-Modifiers/en.md#half-time" title="Half-Time">HT</a>) mods, in which, is determined by the host. Host-selected mods other than Speed mods will not be forced upon players.</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<th>Game Type</th>
-			<td><a href="#game-type" title="wikilink"><strong>Settings for the room.</strong></a></td>
+			<td><a href="#game-type" title="Multi's Game Type"><strong>Settings for the room.</strong></a></td>
 		</tr>
 		<tr>
 			<th>Ready!</th>
 			<td><strong>Press this button to prove you are ready.</strong> All player must press it and the final decision is decided by the host.
 				<ul>
 					<li><strong>Start Game!:</strong> Host command. Start the game with all the players.</li>
-					<li><strong>Force Start Game! (x/\#):</strong> Host command. Start the game with players (x) that have the beatmap. Players without the beatmap (Red) will be ignored.</li>
+					<li><strong>Force Start Game! (x/#):</strong> Host command. Start the game with players(x) that have the beatmap. Players without the beatmap (Red) will be ignored.</li>
 				</ul>
 			</td>
 		</tr>
@@ -182,7 +205,7 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 			<th><a href="Chat_Console" title="wikilink">Chat Console</a></th>
 			<td><strong>The first line given by BachoBot at #multiplayer, &quot;Match history available <a href="http://osu.ppy.sh/mp/x">here</a>&quot; is known as match history.</strong> The link is <a href="http://osu.ppy.sh/mp/x">http://osu.ppy.sh/mp/x</a> (Replace &quot;x&quot; with numbers). The data will be removed after one month.
 			<ul>
-				<li>Also, it is worth noting that <a href="Media:Multiplay_userlog.jpg" title="wikilink">your result will be displayed at \#userlog after a match privately.</a> Currently, it is applied to &quot;Head-To-Head&quot; game style only.</li>
+				<li>Also, it is worth noting that <a href="Multi_userlog.jpg" title="Private userlog results">your result will be displayed at #userlog after a match privately.</a> Currently, it is applied to &quot;Head-To-Head&quot; game style only.</li>
 			</ul>
 			</td>
 		</tr>
@@ -197,29 +220,28 @@ Pictured right is the Match Setup (Team Setup) for the Host only. For the purpos
 		</tr>
 	</tbody>
 </table>
-<br style="clear: both" />
 
-<!-- Image Gallery here start -->
-Host song change.jpg| When the Host is changing songs, this bar will become a temporary placeholder.
-SS (Host, Multi).jpeg| Example of how the Song Selection will look like for host.
-Multiplay HTH.jpg| Example of Match History.
-Multiplay Team VS.jpg| Example of Team.
-<!-- Image Gallery here end -->
+Image | Description
+---|:---
+![host song change][Multi_host_song_change image] | When the Host is changing songs, this bar will become a temporary placeholder."
+![host song selection][Multi_SS image] | Example of how the Song Selection will look like for host.
+![match history single][Multi_mh_single image] | Example of Match History (Single).
+![match history team][Multi_mh_team image] | Example of Match History (Team).
 
 **When all players is ready** (there should be a second sound to show that everyone is ready) and **the host give the final call (Start Game!/Force Start Game!) to start the match, the game will start.**
 
-## Game Type <a name="game-type"></a>
+## Game Type
 `Only the host can determine the Game Type. Players should make requests to the host if they want something.`
 
-### Play Mode <a name="play-mode"></a>
+### Play Mode
 The game style you wish the map to be played. Can only be changed at "Song Select" by Host. Do note that the game style's leitmotif will be shown at the lobby of your "room".
 
--	[osu! Standard][Standard wikilink]
--	[Taiko][Taiko wikilink]
--	[Catch the Beat][Catch the Beat wikilink]
--	[osu!mania][osu!mania wikilink]
+-	![osu! icon][osu! icon link] [osu!][Standard wikilink]
+-	![osu!taiko icon][osu!taiko icon link]  [osu!taiko][Taiko wikilink]
+-	![osu!catch icon][osu!catch icon link] [osu!catch][Catch the Beat wikilink]
+-	![osu!mania icon][osu!mania icon link] [osu!mania][osu!mania wikilink]
 
-### Team Mode <a name="team-mode"></a>
+### Team Mode
 <!-- Rules -->
 #### General rules (applies to all unless stated otherwise)
 **<u>Beatmap progress rule</u>**
@@ -230,7 +252,7 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 - **The score and accuracy will not be counted as ranked entry.**
 - The colour of the player bar determines his/her HP bar status. Grey means HP is fully drained, thus "Failed".
 - Your object colour will all turn gray regardless of the original colour scheme.
-- You can keep playing and can be revived upon reaching full HP. If [SD][Sudden Death wikilink] is used, revival is impossible (if you do revived, consider it a bug or ignore it)
+- You can keep playing and can be revived upon reaching full HP. If [SD][Sudden Death wikilink]/[PF][Perfect wikilink] is used, revival is impossible (if you do revived, consider it a bug or ignore it)
 
 **<u>Gameplay rule</u>**
 - **Pressing [ESC] twice will result in "Quitting" the match, not pausing the game.**
@@ -248,21 +270,21 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 - **Everyone must do the spinner regardless whether it's their turn or not.**
 	- Refusal or unable to complete the spinner will break the current combo count.
 - If a player quits, Auto will take over the "Quit" player.
-- When you use [SD][Sudden Death wikilink], your Interface's HP bar will seem drained out to oblivion because of your teammate's mistake.
-	- If the teammate in question did not use [SD][Sudden Death wikilink], the beatmap will continue.
-	- If the user(assume you) of [SD][Sudden Death wikilink] made a mistake, the _actual effect will happen_, causing everyone to be kicked to results screen immediately.
+- When you use [SD][Sudden Death wikilink]/[PF][Perfect wikilink], your Interface's HP bar will seem drained out to oblivion because of your teammate's mistake.
+	- If the teammate in question did not use [SD][Sudden Death wikilink]/[PF][Perfect wikilink], the beatmap will continue.
+	- If the user(assume you) of [SD][Sudden Death wikilink]/[PF][Perfect wikilink] made a mistake, the _actual effect will happen_, causing everyone to be kicked to results screen immediately.
 
-<!-- Gameplay difference -->
-<table style="border:1px solid black;">
+<!-- Gameplay difference. Reason: colspan, rowspan -->
+<table border="1">
 	<tr>
 		<th colspan="5">Team Modes</th>
 	</tr>
 	<tr>
 		<th>Interface</th>
-		<td style="width:25%;"><img src="Multiplay_failed.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="Multiplay_tag_co-op.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="Multiplay_team_vs.jpg" style="width:150px; height:150px;"></td>
-		<td style="width:25%;"><img src="Multiplay_tag_team_vs.jpg" style="width:150px; height:150px;"></td>
+		<td width="25%"><img src="./Multi_HTH.jpg" title="Head-to-Head Interface" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_tag_co-op.jpg" title="Tag Co-Op Interface" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_team_vs.jpg" title="Team VS Interface" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_tag_team_vs.jpg" title="Tag Team VS Interface" width="150px" height="150px"></td>
 	</tr>
 	<tr>
 		<th>Team Mode</th>
@@ -286,7 +308,7 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 				<li>If Accuracy: Team's accuracy percentage and hit score are shown in real-time.</li>
 				<li>If Combo: Team's current combo count, score and hit score are shown in real-time.</li>
 				<li>If "Failed": Beatmap stops and automated win for the surviving team.</li>
-				<li>If "Quit": <a href="Auto-play wikilink">Auto</a> will take over the "Quit" player.</li>
+				<li>If "Quit": <a href="/wiki/Game-Modifiers/en.md#autoplay" title="Autoplay">Auto</a> will take over the "Quit" player.</li>
 			</ul>
 		</td>
 	</tr>
@@ -335,13 +357,13 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 <!-- Play colour -->
 #### Player box colour
 Picture | Name/Colour | Description
----|:---:|:---
-<img src="Multiplay_PB_B.jpg"> | Blue | Player have more than half of health, usually at full.
-<img src="Multiplay_PB_R.jpg"> | Purple-Red | Player have less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
-<img src="Multiplay_PB_F.jpg"> | Failed/Grey | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink] is not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state.<br />Text colour will be changed from white to red.
-<img src="Multiplay_PB_TAG.jpg"> | Tag/Green | Tag Co-Op and Tag Team VS only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
-<img src="Multiplay_PB_SKIP.jpg"> | Skipped | If the beatmap have a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
-<img src="Multiplay_PB_QUIT.jpg"> | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end.
+:---|:---:|:---
+![Blue player box][Multi_PB_B image] | Blue | Player have more than half of health, usually at full.
+![Red player box][Multi_PB_R image] | Purple-Red | Player have less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
+![Failed/Grey player box][Multi_PB_F image] | Failed/Grey | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink]/[PF][Perfect wikilink] is not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state.<br />Text colour will be changed from white to red.
+![Tag/Green player box][Multi_PB_TAG image] | Tag/Green | Tag Co-Op and Tag Team VS only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
+![Skip player box][Multi_PB_SKIP image] | Skipped | If the beatmap have a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
+![Quit player box][Multi_PB_QUIT image] | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end.
 
 ### Win Condition
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
@@ -362,19 +384,20 @@ Players will be directed here after the beatmap is completed unless stated other
 - **Despite there is no Online score leader-board, your ranked score will still be counted as legitimate ranked entry.**
 - Your result will not be shown at the Local scoreboard. The only way to see it is by Online Ranking scoreboard (assuming Multi's score is higher)
 	- The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where your score is considered unrankable.
-- You cannot retry the beatmap but you can export your replay by pressing [F2] (Will not contain the Multi-play elements).
+- You cannot retry the beatmap but you can export your replay by pressing \[F2\] (Will not contain the Multi-play elements).
 	- The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where the replay cannot be saved.
 
+<!-- Reason: colspan -->
 <table border="1">
 	<tr>
 		<th colspan="5">Team Modes</th>
 	</tr>
 	<tr>
 		<th>Interface</th>
-		<td><img src="File:Multiplay_grade.jpg" style="width:150px; height:150px;"></td>
-		<td><img src="File:Multiplay_co-op_grade.jpg" style="width:150px; height:150px;"></td>
-		<td><img src="File:Multiplay_team_grade.jpg" style="width:150px; height:150px;"></td>
-		<td><img src="File:Multiplay_tag_team_grade.jpg" style="width:150px; height:150px;"></td>
+		<td width="25%"><img src="./Multi_grade.jpg" title="Head-to-Head grade screen" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_co-op_grade.jpg" title="Team Co-Op grade screen" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_team_grade.jpg" title="Team VS grade screen" width="150px" height="150px"></td>
+		<td width="25%"><img src="./Multi_tag_team_grade.jpg" title="Tag Team VS grade screen" width="150px" height="150px"></td>
 	</tr>
 	<tr>
 		<th>Team Mode</th>
@@ -424,6 +447,5 @@ Players will be directed here after the beatmap is completed unless stated other
 	</tr>
 </table>
 
-<!-- <br /> -->
-<!-- {{Contents}} -->
+<!-- <br /> {{Contents}} -->
 <!-- [[Category:Gameplay]] -->
