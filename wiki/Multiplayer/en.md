@@ -1,7 +1,7 @@
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/osu!academy/en.md "osu!academy"
 [Chat_Console#Extended_Chat_Console wikilink]: /wiki/Chat-Console/en.md#extended-chat-console "Extended chat console"
-[Beatmaps2 wikilink]: /wiki/Beatmaps/en.md#how-to-get-beatmaps-on-osu!-? "How to get beatmaps from osu!"
+[Beatmaps2 wikilink]: /wiki/Beatmaps/en.md#how-to-get-beatmaps-on-osu- "How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter/en.md "osu!supporter"
 [Standard wikilink]: /wiki/Game-Modes/osu!/en.md "osu! game mode"
 [Taiko wikilink]: /wiki/Game-Modes/osu!taiko/en.md "osu!taiko game mode"
@@ -9,6 +9,7 @@
 [osu!mania wikilink]: /wiki/Game-Modes/osu!mania/en.md "osu!mania game mode"
 [Sudden Death wikilink]: /wiki/Game-Modifiers/en.md#sudden-death "Sudden Death game modifier"
 [Perfect wikilink]: /wiki/Game-Modifiers/en.md#perfect "Perfect game modifier"
+[Auto wikilink]: /wiki/Game-Modifiers/en.md#auto "Auto game modifier"
 
 <!-- External links used -->
 [Release b335]: http://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
@@ -202,10 +203,10 @@ Image | Description
 			</td>
 		</tr>
 		<tr>
-			<th><a href="Chat_Console" title="wikilink">Chat Console</a></th>
+			<th><a href="/wiki/Chat-Console/en.md" title="Chat Console">Chat Console</a></th>
 			<td><strong>The first line given by BachoBot at #multiplayer, &quot;Match history available <a href="http://osu.ppy.sh/mp/x">here</a>&quot; is known as match history.</strong> The link is <a href="http://osu.ppy.sh/mp/x">http://osu.ppy.sh/mp/x</a> (Replace &quot;x&quot; with numbers). The data will be removed after one month.
 			<ul>
-				<li>Also, it is worth noting that <a href="Multi_userlog.jpg" title="Private userlog results">your result will be displayed at #userlog after a match privately.</a> Currently, it is applied to &quot;Head-To-Head&quot; game style only.</li>
+				<li>Also, it is worth noting that <a href="./Multi_userlog.jpg" title="Private userlog results">your result will be displayed at #userlog after a match privately.</a> Currently, it is applied to &quot;Head-To-Head&quot; game style only.</li>
 			</ul>
 			</td>
 		</tr>
@@ -237,39 +238,39 @@ Image | Description
 The game style you wish the map to be played. Can only be changed at "Song Select" by Host. Do note that the game style's leitmotif will be shown at the lobby of your "room".
 
 -	![osu! icon][osu! icon link] [osu!][Standard wikilink]
--	![osu!taiko icon][osu!taiko icon link]  [osu!taiko][Taiko wikilink]
+-	![osu!taiko icon][osu!taiko icon link] [osu!taiko][Taiko wikilink]
 -	![osu!catch icon][osu!catch icon link] [osu!catch][Catch the Beat wikilink]
 -	![osu!mania icon][osu!mania icon link] [osu!mania][osu!mania wikilink]
 
 ### Team Mode
 <!-- Rules -->
 #### General rules (applies to all unless stated otherwise)
-**<u>Beatmap progress rule</u>**
+**_Beatmap progress rule_**
 - Head-To-Head / Team VS: Continue until the end of the beatmap.
 - Tag Co-Op / Tag Team VS: Discontinued when HP bar is completely drained.
 
-**<u>Failed rule</u>** (Does not apply to Tag Co-Op / Tag Team VS)
+**_Failed rule_** (Does not apply to Tag Co-Op / Tag Team VS)
 - **The score and accuracy will not be counted as ranked entry.**
 - The colour of the player bar determines his/her HP bar status. Grey means HP is fully drained, thus "Failed".
 - Your object colour will all turn gray regardless of the original colour scheme.
 - You can keep playing and can be revived upon reaching full HP. If [SD][Sudden Death wikilink]/[PF][Perfect wikilink] is used, revival is impossible (if you do revived, consider it a bug or ignore it)
 
-**<u>Gameplay rule</u>**
+**_Gameplay rule_**
 - **Pressing [ESC] twice will result in "Quitting" the match, not pausing the game.**
 - You may have some time to use the "Visual Settings" below the beatmap during the loading phase of the beatmap.
 - When "Free Mods" is applied, the mods used by you only applies to your Interface. Other members' Interface may vary.
 
-**<u>Tag Co-Op / Tag Team VS</u>**
+**_Tag Co-Op / Tag Team VS_**
 - **Only available in osu! Standard mode.**
 - **Player placing is important, as it will determine when it is your turn.**
 - Everyone shares a lifebar / Each team have it's own respective lifebar that are visible to teammates only.
-	- **If Failed, everyone will be sent back to the "room" again.**
+	- **If "Failed", everyone will be sent back to the "room" again.**
 - An arrow will show the player who is currently playing the beatmap. Their name will be shown at the lower right of the screen.
 	- There will be warning arrows when it is your turn and the combo will be in colour until your combo ends.
 	- You can adjust your own combo colour at Match Setup.
 - **Everyone must do the spinner regardless whether it's their turn or not.**
 	- Refusal or unable to complete the spinner will break the current combo count.
-- If a player quits, Auto will take over the "Quit" player.
+- If a player quits, [Auto][Auto wikilink] will take over the "Quit" player.
 - When you use [SD][Sudden Death wikilink]/[PF][Perfect wikilink], your Interface's HP bar will seem drained out to oblivion because of your teammate's mistake.
 	- If the teammate in question did not use [SD][Sudden Death wikilink]/[PF][Perfect wikilink], the beatmap will continue.
 	- If the user(assume you) of [SD][Sudden Death wikilink]/[PF][Perfect wikilink] made a mistake, the _actual effect will happen_, causing everyone to be kicked to results screen immediately.
@@ -289,20 +290,20 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 	<tr>
 		<th>Team Mode</th>
 		<td><strong>Head-to-Head</strong></td>
-		<td><strong><u>UNRANKED</u></strong><br /><strong>Tag Co-Op</strong></td>
+		<td><strong><em>UNRANKED</em></strong><br /><strong>Tag Co-Op</strong></td>
 		<td><strong>Team VS</strong></td>
-		<td><strong><u>UNRANKED</u></strong><br /><strong>Tag Team VS</strong></td>
+		<td><strong><em>UNRANKED</em></strong><br /><strong>Tag Team VS</strong></td>
 	</tr>
 	<tr>
 		<th>Rankboard</th>
 		<td colspan="5">
-			<strong><u>Head-To-Head / Team VS only</u></strong>
+			<strong><em>Head-To-Head / Team VS only</em></strong>
 			<ul>
 				<li>If Score/Score v2: Their score, hit score and combo multiplier are shown in real-time.</li>
 				<li>If Accuracy: Their accuracy, hit score and combo multiplier are shown in real-time.</li>
 				<li>If Combo: Their combo count are shown in real-time. Maximum combo count is not shown.</li>
 			</ul>
-			<strong><u>Tag Co-Op / Tag Team VS only</u></strong>
+			<strong><em>Tag Co-Op / Tag Team VS only</em></strong>
 			<ul>
 				<li>If Score/Score v2: Team's score and hit score are shown in real-time.</li>
 				<li>If Accuracy: Team's accuracy percentage and hit score are shown in real-time.</li>
@@ -358,12 +359,12 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 #### Player box colour
 Picture | Name/Colour | Description
 :---|:---:|:---
-![Blue player box][Multi_PB_B image] | Blue | Player have more than half of health, usually at full.
-![Red player box][Multi_PB_R image] | Purple-Red | Player have less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
+![Blue player box][Multi_PB_B image] | Blue | Player has more than half of health, usually at full.
+![Red player box][Multi_PB_R image] | Purple-Red | Player has less than half of health. The concentration of red colour will grow brighter if player is near failing and diminished to blue by filling up the lifebar more than half.
 ![Failed/Grey player box][Multi_PB_F image] | Failed/Grey | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink]/[PF][Perfect wikilink] is not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state.<br />Text colour will be changed from white to red.
 ![Tag/Green player box][Multi_PB_TAG image] | Tag/Green | Tag Co-Op and Tag Team VS only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
-![Skip player box][Multi_PB_SKIP image] | Skipped | If the beatmap have a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
-![Quit player box][Multi_PB_QUIT image] | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end.
+![Skip player box][Multi_PB_SKIP image] | Skipped | If the beatmap has a start-up rest, players that press the Skip button at the lower-right of the screen will be given the name on their box. Everyone must do so for the Skip to take effect.
+![Quit player box][Multi_PB_QUIT image] | Quit | [1] Hitting ESC twice. [2] Disconnected from Bancho.<br />Text colour will be changed from white to red, with '[Quit]' appended at the end. Box colour signify the play status before quitting the game.
 
 ### Win Condition
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
@@ -372,15 +373,15 @@ Title | Description
 :---:|:---
 **Score** | Player with **highest score** wins.
 **Accuracy** | Player with the **highest accuracy** wins.<br />If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there are no spinners.
-**Combo** | Player with the **highest combo count** <u>at the end of the beatmap</u> wins.<br/>If combo count is the same, player with the highest score wins. **Maximum combo is not counted**.
-**Score v2** | Player with **highest standardised score** wins.
+**Combo** | Player with the **highest combo count** _at the end of the beatmap_ wins.<br/>If combo count is the same, player with the highest score wins. **Maximum combo is not counted**.
+**Score v2** | Player with **highest _standardised_ score** wins.
 
 ## Multiplayer Results
 Players will be directed here after the beatmap is completed unless stated otherwise.
 
 ### Overall result rule
 - **If you received a "Failed" statement, your score and accuracy will automatically not be counted as ranked score at all even after "revival".**
-- **If "Free Mod" is enabled by Host, score differences may occur depending on mods used.**
+- **If "Free Mod" was enabled by Host, score differences may occur depending on mods used.**
 - **Despite there is no Online score leader-board, your ranked score will still be counted as legitimate ranked entry.**
 - Your result will not be shown at the Local scoreboard. The only way to see it is by Online Ranking scoreboard (assuming Multi's score is higher)
 	- The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where your score is considered unrankable.
@@ -402,9 +403,9 @@ Players will be directed here after the beatmap is completed unless stated other
 	<tr>
 		<th>Team Mode</th>
 		<td><strong>Head-to-Head</strong></td>
-		<td><strong><u>UNRANKED</u></strong><br /><strong>Tag Co-Op</strong></td>
+		<td><strong><em>UNRANKED</em></strong><br /><strong>Tag Co-Op</strong></td>
 		<td><strong>Team VS</strong></td>
-		<td><strong><u>UNRANKED</u></strong><br /><strong>Tag Team VS</strong></td>
+		<td><strong><em>UNRANKED</em></strong><br /><strong>Tag Team VS</strong></td>
 	</tr>
 	<tr>
 		<th>Notable differences</th>
@@ -447,5 +448,4 @@ Players will be directed here after the beatmap is completed unless stated other
 	</tr>
 </table>
 
-<!-- <br /> {{Contents}} -->
-<!-- [[Category:Gameplay]] -->
+<!-- <br /> {{Contents}} [[Category:Gameplay]] -->
