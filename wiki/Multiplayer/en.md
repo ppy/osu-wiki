@@ -1,5 +1,5 @@
 <!--Wiki links used-->
-[osu!academy wikilink]: /wiki/osu!academy/en.md "osu!academy"
+[osu!academy wikilink]: /wiki/Announcements/osu!academy/en.md "osu!academy"
 [Chat_Console#Extended_Chat_Console wikilink]: /wiki/Chat-Console/en.md#extended-chat-console "Extended chat console"
 [Beatmaps2 wikilink]: /wiki/Beatmaps/en.md#how-to-get-beatmaps-on-osu- "How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter/en.md "osu!supporter"
@@ -12,8 +12,8 @@
 [Auto wikilink]: /wiki/Game-Modifiers/en.md#auto "Auto game modifier"
 
 <!-- External links used -->
-[Release b335]: http://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
-[osu!academy Ep6]: http://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
+[Release b335]: https://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
+[osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
 
 <!-- Image links used -->
 [Multi_flowchart image]: ./Multi_flowchart.png "Multiplay Flowchart."
