@@ -751,12 +751,19 @@ These are categorized under three names:
 
 Inside each categories has these four hitsounds:
 
--    *normal*
+-    *normal* (the sound when none of the below is used)
 -    whistle
 -    clap
 -    final
 
 However, there are other parts of a sample set that may include the slider tick sounds and the sound made when filling the spinner metre.
+
+### Silence
+
+A silence is an action taken against an osu!user who spams the osu!chat.
+Silences will stack on top of each other, adding more time for each one.
+
+Silences lasts for 4 weeks before being reset, along with the time that gets added.
 
 ### Skin
 
@@ -778,6 +785,11 @@ In osu!stanard, a sliderbreak is when the player loses their combo by not holdin
 This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
 This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
 Unlike missing, you can still achieve an "S" rank after sliderbreaking.
+
+### Slider tick
+
+The slider tick is a hitobject that gives out 10 points.
+The amount of slider ticks used in a slider is dependent on the slider velocity, the BPM and the inherited timing.
 
 ### Spectate
 
@@ -824,15 +836,138 @@ Star priority has two meanings:
 1.    Star priority is a method of helping Beatmap Nominators to find beatmaps worthy of bubbling and later ranking. The star priority of a beatmap is determined by how many mod posts that have gained kudosu in the beatmap's thread, the sum of kudosu stars the map set has received. A kudosu star can be given by any user to any map, though shooting a kudosu star comes at the price of one kudosu. The conversion rate was formerly three kudosu for one kudosu star that increased the Star Priority by two. The higher the star priority, the higher the beatmap's thread appears in the Works in Progress or Pending subforum. At least 12 star priority is needed for a map to be bubbled or ranked.
 2.    It is also a method in determining whether a Feature Request is wanted by the community. The higher the star priority, the faster it gets noticed. Users that have supporter status active when voting will shoot a pink star (![Kudosu](Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (Star.gif) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
 
+### Storyboard
+
+A storyboard is a set of still and/or animated images and sound effects that tells a story during a beatmap’s course but especially before the beatmap’s beginning, during breaks and after the beatmap’s end.
+In the DS games, storyboards concern one or more persons facing a difficult challenge or predicament which they then try to overcome whilst being cheered on by the player-controlled characters to the tune of a song.
+Therefore, a storyboard can take various directions depending on the player’s performance.
+osu!storyboarding is supported through the use of a scripting language or through the storyboard editor which can be accessed in editor mode under "Design".
+
+There is a sub-forum dedicated to storyboards, see [Storyboarding](http://osu.ppy.sh/forum/20).
+
+### Storyboard editor
+
+The storyboard editor can be found under "Design" in the editor in edit mode.
+As the name implies, storyboards can be easily created and edited here.
 
 ### Storyboarder
 
-A storyboarder refers to the osu!user who releases storyboards someone else's beatmap.
+A storyboarder refers to the osu!user who makes storyboards for their own or someone else's beatmap.
 They may have used the editor's design section to storyboard, used a third party application, or have done Storyboard Scripting (or SBS).
 
+### Stream
 
+A stream is a mapping technique that requires the mapper to place a long series of hitobjects in short but rapid succession.
+Steams does not require the hitobjects to be in the same comboset.
 
-----
+### SV
+
+SV, meaning "Slider Velocity", is the speed in which the slider moves at in relation to the BPM.
+This term may sometimes be used during the modding process.
+
+## T
+
+### TAG
+
+A TAG difficulty is a type of beatmap version that is designed for more than one person to play at the same time in Multi-play mode.
+
+Each player is responsible for one comboset, where each hitobject in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player.
+Therefore it becomes a challenge for elite players in terms of precision of jumping.
+
+TAG difficulties are usually named TAG in a beatmap set.
+`TAG2` maps are meant for 2 players while `TAG4` maps (the hardest) are meant for 4 players.
+
+Note that tag difficulties are unrankable because they are far too hard to be ranked and are not designed for the ordinary single player.
+
+### Tablet
+
+A graphics tablet is an alternative input medium to the computer mouse.
+
+A tablet consists of a flat surface on which one can point and/or drag using an attached stylus, if one is included.
+The image of the screen does not appear on the tablet, thus making it different in functionality from a touch screen.
+
+### Tap
+
+In osu!standard, tapping is a term that "means to press a button while the cursor is over a hitobject".
+Tapping hitobjects at the right moment, as indicated by the beatmap’s music and the approach circle, is an essential part of osu! gameplay.
+There are a few different buttons one can use to tap:
+
+-     the left and right mouse buttons,
+-     the `Z` and `X` keys on the keyboard,
+-     using the buttons on the tablet/touchpad, or
+-     directly on the tablet
+
+### Test mode
+
+Test mode is a feature of the beatmap editor.
+This allows you to best your beatmap without having to submit anything.
+However, you are required to overwrite and save the beatmap before continuing.
+This creates issues if you need to rollback on your recent changes.
+
+### Time signature
+
+The time signature is a musical term that indicats how many beats are in each measure and what note value constitutes a single beat.
+osu! offers two alternative time signatures, which can be selected from the Timing menu: `4/4`, which is the one most commonly used, and `3/4`, which is selected when the rhythm of the song is of, or similar to, a waltz.
+
+### Timing
+
+Good timing of a beatmap is big a requirement for a beatmap to get ranked.
+Timing a beatmap consists of determining the offset and then the BPM of the song it uses.
+
+When the tempo changes, you are required to add a new timing section to accompany the new tempo.
+
+The timing process creates the timeline on which objects will be placed.
+
+One of many reasons as to why your timing of a beatmap is important is because osu! takes the given BPM and offset to determine where the hitobjects should go.
+If your timing is off, even by a little, then it is next to unrankable to map hitobjects on the editor.
+
+### Timing section
+
+A timing section is a part of a song which follows a different rhythm than the parts preceding and following it.
+Many songs have a constant tempo and thus a single timing section.
+However, there may be some that have more.
+If this does happen, the beatmapper needs to identify any areas where the song BPM and/or time signature changes and find the timing for each one.
+
+Timing sections can also be used even if the rhythm of the song remains constant throughout the beatmap, for example in order to allow the beatmapper to assign different sample sets to different parts of the song.
+Those are called "inherited timing sections" and are identified by green lines.
+
+### Touchscreen
+
+A touchscreen is one of the input mediums used by the DS games that osu! is based on.
+osu! supports touchscreen functionality, but the hardware required is generally expensive for the average player.
+A computer whose entire screen functions as a touchscreen is called a Tablet PC.
+This is different than a tablet because a touchscreen has some kind of display while tablets don't.
+
+### Touchpad
+
+A touchpad is a substitute for the computer mouse.
+Touchpads are most commonly found on laptop computers.
+The touchpad usually consists of a small rectangular area which one can drag one’s finger to move the mouse cursor.
+Due to the way touchpads are designed, they do not work with a stylus or similar devices.
+
+## U
+
+### Universal offset
+
+The universal offset is the time delay between...
+
+-     the object graphics and sample set sounds associated with them and
+-     the point of the song where they should be heard.
+
+The universal offset applies to all songs used in osu! and its value differs according to each system's specifications.
+After being determined, it doesn't need to be modified again.
+An incorrectly universal offset will cause timing problems in every beatmap played or edited.
+If everything sounds off to you while playing a few ranked beatmaps, try checking your universal offset.
+The universal offset settings is located in the Options.
+
+### upppy
+
+upppy is a fast and easy-to-use uploading service coded by peppy.
+If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like, just put it on upppy and everyone's happy! :)
+
+For more information about upppy, see [upppy!](http://up.ppy.sh/) **(NFSW: there may be a few stray images that may contain R-18 work)**.
+
+## V
 
 ### Version
 
@@ -841,3 +976,32 @@ This term can be used in place of beatmap to prevent disambiguation.
 
 The version of a beatmap could be called "Easy", "Normal", "Hard", "Insane", and "Expert".
 However, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps.
+
+## W
+
+### WIP
+
+WIP is an acronym for "Work In Progress".
+
+There are various reasons to mark a beatmap as WIP:
+
+-     deemed incomplete by its creator
+      -     incomplete difficulty versions
+      -     only one difficulty versions or not enough difficulty versions
+      -     pending correction
+      -     suggestions on the timing
+      -     needs feedback
+
+WIPs can be submitted through the BSS to the Beatmap Help forum to get comments, feedback and help from mods and other users.
+
+## Z
+
+### z/x
+
+z/x are the default keys on the keyboard to tap in osu!.
+A very popular alternative to the left and right mouse buttons.
+
+During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa.
+The same applies to the `Z` key and the right mouse button and vice versa.
+
+The keyboard tapping keys can be changed in the options menu.
