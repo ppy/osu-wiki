@@ -97,7 +97,7 @@ It is quite like the stages in the DS games.
 At their most basic form, beatmaps have a song, hitcircles, sliders, and/or spinners placed based on the rhythm of the music.
 Nowadays, beatmaps may also have a background image or video, or even a storyboard.
 
-For more details about how beatmaps are uploaded, see [#BSS](#BSS).
+For more details about how beatmaps are uploaded, see [#BSS](#bss).
 
 ### Beatmapper
 
@@ -199,7 +199,7 @@ Combo has two meanings:
 
 ### Comboburst
 
-The comboburst is a collection of skinned elements/images that will _burst_ out from the left or right (or center, in Mania) of the screen after obtaining a combo of 30, 60, 100, (multiples of 50, after 100).
+The comboburst is a collection of skinned elements/images that will _burst_ out from the left or right (or center, in osu!mania) of the screen after obtaining a combo of 30, 60, 100, (multiples of 50, after 100).
 
 Using the default skin:
 
@@ -243,7 +243,7 @@ A deathstream is a very long stream whose objects follow each other in very rapi
 These usually causes the player to lose their stamina very quickly.
 
 It is heavily sugguested to only use deathstreams when a beatmap hints it and/or has a high BPM.
-This should **not** be used to [#overmap](#Overmap)!
+This should **not** be used to [#overmap](#overmap)!
 
 ### Difficulty stars
 
@@ -309,7 +309,7 @@ osu! is mostly based on these games.
 
 EBA has two meanings:
 
--    "Elite Beat Agents", one of the [#DS games](#DS games) which osu! is based on
+-    "Elite Beat Agents", one of the [#DS games](#ds-games) which osu! is based on
 -    the collective term for the playable characters in that game (referring to #1), i.e. "The EBA" or "The Agents".
 
 ### Extended chat
@@ -375,7 +375,7 @@ Each guest beatmapper is also allowed to create more than one difficulty to cont
 
 ### Grade
 
-A grade, usually confused with [#rank](#Rank) is a term created to prevent confusion with other terms sharing that name.
+A grade, usually confused with [#rank](#rank) is a term created to prevent confusion with other terms sharing that name.
 A grade is a letter-grade that repersents the player's performance when playing a beatmap.
 It accompanies the total score at the result screen and appears in all lists where scores appear.
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
@@ -400,7 +400,7 @@ A beatmapper who's beatmap is in the graveyard can "resurrect" their beatmap fro
 3.   click the "Graveyarded Beatmaps" tab, and
 4.   click the "Resurrect" link
 
-This will allow you to update the beatmap through the [#BSS](#BSS).
+This will allow you to update the beatmap through the [#BSS](#bss).
 
 ## H
 
@@ -414,9 +414,9 @@ These are complementary to approach circles and spacing which are the visual mec
 
 There are 4 types of hitsounds:
 
--     _(normal)_,
--     whistle,
--     clap, and
+-     _(normal)_ (used when there is none of the below are used)
+-     whistle
+-     clap
 -     finish
 
 These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music.
