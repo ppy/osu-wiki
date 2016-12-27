@@ -169,7 +169,7 @@ Les [points de timing](FR:Timing) décrivent un certain nombre de propriétés r
 
 `Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
-Un point de timing non-hérité diffère d'un point de timing hérité quand la valeur Milliseconds per Beat (Millisecondes par Battement) est négative, et définit un nouveat Millisecondes par Battements basé sur le dernier point de timing non hérité. Cela peut être utilisé pour changer le volume sans affecter le décalage audio, ou changer la vitesse des sliders.
+Un point de timing non-hérité diffère d'un point de timing hérité quand la valeur Milliseconds per Beat (Millisecondes par Battement) est négative, et définit un nouveau Millisecondes par Battements basé sur le dernier point de timing non hérité. Cela peut être utilisé pour changer le volume sans affecter le décalage audio, ou changer la vitesse des sliders.
 
 Exemple d'un point de timing :
 
