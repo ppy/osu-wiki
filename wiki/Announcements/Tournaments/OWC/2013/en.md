@@ -1,3 +1,6 @@
+osu! World Cup 2013
+======================
+
 ![OWC 2013 logo](logo.png)
 
 The osu! World Cup 2013 was a tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It lasted from the 15th Oct 2013 till 8th Dec 2013. The previous title holder is **![](/wiki/shared/flag/Kr.gif) Korea**.
@@ -10,7 +13,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Pl.gif) **Poland** |
 
 Tournament schedule
-===================
+-----------------------
 
 | Event                  | Timestamp               |
 |------------------------|-------------------------|
@@ -23,7 +26,7 @@ Tournament schedule
 | Finals/3rd place match | 7-8 Dec 2013            |
 
 Prizes
-======
+--------
 
 | Placing                                                    | Prize(s)                                                                                    |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -32,7 +35,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                                                                       |
 
 Organization
-============
+--------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +48,7 @@ Organization
 ------------------------------------------------------------------------
 
 Links
-=====
+----------
 
 -   [Discussion thread](//osu.ppy.sh/forum/t/160181/start=0)
 -   [osu! World Cup past broadcasts](//www.twitch.tv/osulive/profile/pastBroadcasts)
@@ -54,7 +57,7 @@ Links
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 ### Top-seeded
 
@@ -111,17 +114,16 @@ Participants
 ------------------------------------------------------------------------
 
 Knock-Out Bracket
-=================
+-------------------
 
 ![OWC 2013 brackets](brackets.jpg)
 
 ------------------------------------------------------------------------
 
 Mappools
-========
+-------------
 
-Finals
-------
+### Finals
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
@@ -166,8 +168,7 @@ Finals
 |-----------------------------------------------------------------------------------------|
 | **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) \[Love\]](//osu.ppy.sh/b/226605)** |
 
-Semi-finals
------------
+### Semi-finals
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/?pn3yxce7m6v4j13)**
 
@@ -212,8 +213,7 @@ Semi-finals
 |---------------------------------------------------------------------------------------|
 | **[Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](//osu.ppy.sh/b/151229)** |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
@@ -258,8 +258,7 @@ Quarter-finals
 |------------------------------------------------------------------------------------------|
 | **[HujuniseikouyuuP - Talent Shredder (val0108) \[0108 style\]](//osu.ppy.sh/b/178966)** |
 
-Round 16
---------
+### Round 16
 
 **[Click here to download whole pool in one pack!](//www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
@@ -304,8 +303,7 @@ Round 16
 |------------------------------------------------------------------------------------|
 | **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](//osu.ppy.sh/b/221777)** |
 
-Group Stage
------------
+### Group Stage
 
 **[Click here to download whole pool in one pack](//www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
@@ -353,10 +351,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
+--------------
 
-Finals
-------
+### Finals
 
 **07\. Dec 2013 (Saturday)**
 
@@ -370,8 +367,7 @@ Finals
 |:----------------------------------------------|:-----------:|------------------------------------------:|-------------------------------------|
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 1   - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif) | [#1](https://osu.ppy.sh/mp/3272199) |
 
-Semi-finals
------------
+### Semi-finals
 
 **30\. Nov 2013 (Saturday)**
 
@@ -380,8 +376,7 @@ Semi-finals
 | ![](/wiki/shared/flag/Kr.gif) **Korea**  | **6**  - 1 | United Kingdom ![](/wiki/shared/flag/Gb.gif) | [#1](http://osu.ppy.sh/mp/3088440) |
 | ![](/wiki/shared/flag/Tw.gif) **Taiwan** | **6**  - 0 | Poland ![](/wiki/shared/flag/Pl.gif)         | [#1](http://osu.ppy.sh/mp/3091169) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **24\. Nov 2013 (Sunday)**
 
@@ -392,8 +387,7 @@ Quarter-finals
 | ![](/wiki/shared/flag/Cn.gif) China              | 4 - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif) | [#1](http://osu.ppy.sh/mp/2966197)                                          |
 | ![](/wiki/shared/flag/Gb.gif) **United Kingdom** | **5** - 3 | Germany ![](/wiki/shared/flag/De.gif)    | [#1](http://osu.ppy.sh/mp/2969031) [#A](http://puu.sh/5rT5F/9b2a7bfa74.jpg) |
 
-Round 16
---------
+### Round 16
 
 **16\. Nov 2013 (Saturday)**
 
@@ -413,8 +407,7 @@ Round 16
 | ![](/wiki/shared/flag/Fr.gif) France      | 4      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](http://osu.ppy.sh/mp/2817324)                                                                       |
 | ![](/wiki/shared/flag/At.gif) **Austria** | **5**  - 0     | Latvia ![](/wiki/shared/flag/Lv.gif)        | [#1](https://osu.ppy.sh/mp/2820030)                                                                      |
 
-Group Stage
------------
+### Group Stage
 
 **8\. Nov 2013 (Friday)**
 
@@ -479,20 +472,19 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+------------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! World Cup is a country-based 4v4 team tournament.
 2.  The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game-Modifiers/en.md), [HardRock](/wiki/Game-Modifiers/en.md), [DoubleTime](/wiki/Game-Modifiers/en.md) and FreeMod bracket.
 
 3.  Match schedule will be settled by Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Revived player's scores will be added to the total score.
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game-Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If one of players gets disconnected, the game will be nullified. This can happen up to twice. After exceeding two attempts, disconnected players get treated as if they left on their own.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -507,8 +499,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the judges. A referee's decision can be overwritten by the Tournament Management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Your team needs **at least 4 players** to participate.
     1.  The maximum team size is 8.
@@ -522,16 +513,15 @@ Tournament Registration
 5.  The total amount of teams is 32. First come, first serve.
 6.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top two teams of each group will move on to the Knock-Out Stages.
@@ -541,8 +531,7 @@ Stage instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 30 minutes in advance. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -562,11 +551,10 @@ Match Instructions
 5.  Each captain must save the result of each game with a screenshot. Referees will remind each captain to do this.
 6.  Results will be published via Statistics spreadsheet.
 
-Mappool instructions
---------------------
+### Mappool instructions
 
 1.  There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game-Modifiers/en.md), [HardRock](/wiki/Game-Modifiers/en.md), [DoubleTime](/wiki/Game-Modifiers/en.md) and FreeMod
 3.  Each mappool consists of 23 maps in total.
 4.  Each mappool has one tiebreaker
 5.  The NoMod bracket will be played with no modes activated.
@@ -581,8 +569,7 @@ Mappool instructions
     -   3 in Group Stage
     -   4 in Knock-Out Stages
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend** (refer to Tournament Schedule at the top)
 2.  In Group Stage, the first matches will be held on Friday (8th Nov.), the second on Saturday (9th Nov.), the third on Sunday (10th Nov.)
@@ -592,4 +579,4 @@ Scheduling instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu! Standard Tournaments](Category:osu!_Standard_Tournaments "wikilink") [Category:osu! World Cup](Category:osu!_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu! Standard Tournaments><Category:osu! World Cup>

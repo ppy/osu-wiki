@@ -1,11 +1,14 @@
+osu! World Cup 2014
+========================
+
 ![OWC 2014 logo](logo.png)
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](//osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](/wiki/shared/flag/Kr.gif) 대한민국**입니다..
+저번 우승자는 **![](/wiki/shared/flag/Kr.gif) 대한민국** 입니다..
 
 토너먼트 일정
-=============
+-------------------
 
 | Event      | Timestamp                |
 |------------|--------------------------|
@@ -19,7 +22,7 @@
 | 결승전 - 2주차  | 13-14 Dec 2014           |
 
 우승 상품
-=========
+---------
 
 | Placing                                                    | Prizes                               |
 |------------------------------------------------------------|--------------------------------------|
@@ -28,7 +31,7 @@
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                              |
 
 운영 위원
-=========
+----------
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +44,7 @@
 ------------------------------------------------------------------------
 
 링크
-====
+-------
 
 -   [osu! World Cup 2014 트위치 방송](//www.twitch.tv/osulive/)
 -   [등록 양식](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -50,10 +53,9 @@
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+---------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  osu! 월드컵은 국가대항 4대 4 토너먼트입니다.
 2.  각 라운드의 곡은 맵 선별위원이 경기 1주일 전에 발표 할 것이며, 이때 발표된 곡들만 대회에서 선곡이 가능합니다.
@@ -77,10 +79,9 @@ Tournament Rules
 14. 예상치 못한 사태의 경우에는 운영위원에 판정됩니다.
 15. 규칙에 변경사항이 있을 경우 통보될 것입니다.
 
-참가신청 관련
--------------
+### 참가신청 관련
 
-1.  각 팀의 팀원은 **최소 6명 이상**이어야 합니다.
+1.  각 팀의 팀원은 **최소 6명 이상** 이어야 합니다.
     1.  최대 인원은 8명입니다.
     2.  팀을 대표할 주장이 반드시 선발해야 합니다.
         1.  주요 선수와 백업 선ㅅ에 차별을 두지 않습니다.
@@ -100,8 +101,7 @@ Tournament Rules
 
 7.  맵 선정 위원은 이 대회에 플레이어로서 참가할 수 없습니다.
 
-스테이지 관련
--------------
+### 스테이지 관련
 
 1.  조별 예선은 4팀씩 8그룹으로 나뉘어지며, 이후 해당 조의 다른 세 팀과 한번씩 경기를 하게 됩니다.
 2.  All the teams from each group will face each other.
@@ -129,8 +129,7 @@ Tournament Rules
     -   16강과 8강은 9선 5승제입니다.
     -   준결승전 및 결승전은 11선 6승제입니다.
 
-결기 관련
----------
+### 결기 관련
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -148,8 +147,7 @@ Tournament Rules
 
 5.  Results will be published on the wiki and via the Statistics website.
 
-비트맵 풀 관련
---------------
+### 비트맵 풀 관련
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
 2.  Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
@@ -167,8 +165,7 @@ Tournament Rules
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-일정 관련
----------
+### 일정 관련
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -176,4 +173,4 @@ Tournament Rules
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments/KO> [Category:Official Tournaments/KO](Category:Official_Tournaments/KO "wikilink") [Category:Osu! Standard Tournaments/KO](Category:Osu!_Standard_Tournaments/KO "wikilink") [Category:Osu! World Cup/KO](Category:Osu!_World_Cup/KO "wikilink") [Category:Translation Request](Category:Translation_Request "wikilink")
+<Category:Tournaments/KO><Category:Official Tournaments/KO><Category:Osu! Standard Tournaments/KO><Category:Osu! World Cup/KO><Category:Translation Request>

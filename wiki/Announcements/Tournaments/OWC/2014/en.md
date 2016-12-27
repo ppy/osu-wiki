@@ -1,3 +1,6 @@
+osu! World Cup 2014
+======================
+
 ![OWC 2014 logo](logo.png)
 
 The **osu! World Cup 2014** (***OWC 2014*** ) is a country-based osu! tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 5th installment of the osu! World Cup.
@@ -13,7 +16,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/De.gif) **Germany** |
 
 Tournament schedule
-===================
+----------------------
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -27,7 +30,7 @@ Tournament schedule
 | Finals - Week 2    | 13-14 Dec 2014           |
 
 Prizes
-======
+---------
 
 | Placing                                                    | Prizes                                                                             |
 |------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -36,7 +39,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                                                              |
 
 Organization
-============
+-------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                    |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +52,7 @@ Organization
 ------------------------------------------------------------------------
 
 Links
-=====
+---------
 
 -   [osu! World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
 -   [Registration Form](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -64,7 +67,7 @@ Links
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,10 +128,9 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+----------
 
-Finals
-------
+### Finals
 
 **[Download the mappack here!](//www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
@@ -169,8 +171,7 @@ Finals
 |-----------------------------------------------------------|
 | [onoken - P8107 (Kloyd) \[KA071\]](//osu.ppy.sh/b/457061) |
 
-Semi-finals
------------
+### Semi-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
@@ -211,8 +212,7 @@ Semi-finals
 |-----------------------------------------------------------------------------------|
 | [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](//osu.ppy.sh/b/444356) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
@@ -254,8 +254,7 @@ Quarter-finals
 |-----------------------------------------------------------------------------|
 | [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](//osu.ppy.sh/b/431957) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the mappack here!](//www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
@@ -296,8 +295,7 @@ Round of 16
 |-------------------------------------------------------------------------------------------------|
 | [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](//osu.ppy.sh/b/311573) |
 
-Group Stage
------------
+### Group Stage
 
 **[Download the mappack here!](//www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
@@ -341,10 +339,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
+----------------
 
-Finals
-------
+### Finals
 
 **Saturday, 13\. December 2014**
 
@@ -362,8 +359,7 @@ Finals
 | ![](/wiki/shared/flag/Kr.gif) South Korea     | 5      - **6** | **Japan** ![](/wiki/shared/flag/Jp.gif)     | [#1](//osu.ppy.sh/mp/10955976) |
 | ![](/wiki/shared/flag/De.gif) Germany         | 3      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](//osu.ppy.sh/mp/10966299) |
 
-Semi-finals
------------
+### Semi-finals
 
 **Saturday, 29\. November 2014**
 
@@ -383,8 +379,7 @@ Semi-finals
 | ![](/wiki/shared/flag/De.gif) **Germany**     | **6**  - 5     | Austria ![](/wiki/shared/flag/At.gif)     | [#1](//osu.ppy.sh/mp/10835928) |
 | ![](/wiki/shared/flag/Us.gif) United States   | 0      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)  | [#1](//osu.ppy.sh/mp/10837599) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **Saturday, 22\. November 2014**
 
@@ -404,8 +399,7 @@ Quarter-finals
 | ![](/wiki/shared/flag/Ua.gif) Ukraine           | 0     - **5** | **Austria** ![](/wiki/shared/flag/At.gif) | [#1](//osu.ppy.sh/mp/10672689) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 4     | Sweden ![](/wiki/shared/flag/Se.gif)      | [#1](//osu.ppy.sh/mp/10674065) |
 
-Round of 16
------------
+### Round of 16
 
 **Sunday, 16\. November 2014**
 
@@ -420,8 +414,7 @@ Round of 16
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 2      - **5** | **Austria** ![](/wiki/shared/flag/At.gif)        | [#1](//osu.ppy.sh/mp/10520060) |
 | ![](/wiki/shared/flag/Ar.gif) Argentina      | 2      - **5** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/10521646) |
 
-Group Stage
------------
+### Group Stage
 
 **Saturday, 8\. November 2014**
 
@@ -484,10 +477,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+----------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! World Cup is a country-based 4v4 team tournament
 2.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
@@ -498,7 +490,7 @@ Tournament Rules
 5.  Failed player's score do not get added to the team score.
 -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game-Modifiers/en.md) options are allowed.
 7.  If the beatmap ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the beatmap.
 9.  Beatmaps cannot be reused in the same match unless the beatmap was nullified.
@@ -511,8 +503,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Your team needs **at least 6 players** to participate.
 1.  The maximum team size is 8.
@@ -534,16 +525,15 @@ Tournament Registration
 
 7.  Mapset selectors must not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
 1.  Most matches won.
-2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
 3.  Most maps won.
-4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+4.  Have higher `∑{(total score difference) / (maximum score)}`.
 5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
@@ -563,8 +553,7 @@ Stage instructions
 -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
 -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
 1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -582,8 +571,7 @@ Match Instructions
 
 5.  Results will be published on the wiki and via the Statistics website.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
 2.  Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
@@ -601,8 +589,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -610,4 +597,4 @@ Scheduling instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu! Standard Tournaments](Category:osu!_Standard_Tournaments "wikilink") [Category:osu! World Cup](Category:osu!_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu! Standard Tournaments><Category:osu! World Cup>

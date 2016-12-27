@@ -1,3 +1,6 @@
+osu! World Cup 2013
+======================
+
 ![OWC 2013 logo](logo.png)
 
 La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](//osu.ppy.sh/g/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![](/wiki/shared/flag/Kr.gif) Corea del Sur**.
@@ -9,7 +12,7 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](/
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Pl.gif) **Polonia**       |
 
 Calendario
-==========
+----------------
 
 | Event                | Timestamp               |
 |----------------------|-------------------------|
@@ -22,7 +25,7 @@ Calendario
 | Final/3er puesto     | 7-8 Dic 2013            |
 
 Premios
-=======
+------------
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -31,7 +34,7 @@ Premios
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                |
 
 Organización
-============
+---------------
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +47,7 @@ Organización
 ------------------------------------------------------------------------
 
 Participantes
-=============
+--------------
 
 ### Top-seeded
 
@@ -99,9 +102,9 @@ Participantes
 | ![](/wiki/shared/flag/Ve.gif) Venezuela   | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli                               |
 
 Links
-=====
+-----------
 
 -   [Hilo de discusión en inglés](//osu.ppy.sh/forum/t/160181/start=0)
 -   [Hilo de discusión en español](//osu.ppy.sh/forum/t/161538/start=0)
 
-<Category:Tournaments/ES> [Category:Official Tournaments/ES](Category:Official_Tournaments/ES "wikilink") [Category:Osu! Standard Tournaments/ES](Category:Osu!_Standard_Tournaments/ES "wikilink") [Category:Osu! World Cup/ES](Category:Osu!_World_Cup/ES "wikilink")
+<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Osu! Standard Tournaments/ES><Category:Osu! World Cup/ES>

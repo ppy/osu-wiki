@@ -1,3 +1,6 @@
+osu! World Cup 2014
+=====================
+
 ![OWC 2014 logo](logo.png)
 
 El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](//osu.ppy.sh/g/26). Esta es la 5ª temporada de osu! World Cup.
@@ -13,7 +16,7 @@ Esta competición ha terminado y el podio resultante es:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/De.gif) **Alemania** |
 
 Calendario
-==========
+----------
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -27,7 +30,7 @@ Calendario
 | Finales - Semana 2 | 13-14 Dic 2014           |
 
 Premios
-=======
+-----------
 
 | Placing                                                    | Prizes                                                                                               |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -36,7 +39,7 @@ Premios
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de supporter tag                                                                               |
 
 Organización
-============
+------------
 
 | Job                 | Person(s)                                                                                                                                                                                                                                                    |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +52,7 @@ Organización
 ------------------------------------------------------------------------
 
 Links
-=====
+--------
 
 -   [osu! World Cup 2014 en Twitch](//www.twitch.tv/osulive/)
 -   [Forma de registro](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -64,7 +67,7 @@ Links
 ------------------------------------------------------------------------
 
 Participantes
-=============
+-------------
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,10 +128,9 @@ Participantes
 ------------------------------------------------------------------------
 
 Grupos de mapas
-===============
+---------------
 
-Finales
--------
+### Finales
 
 **[¡Descarga el pack de mapas aquí!](//www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
@@ -169,8 +171,7 @@ Finales
 |-----------------------------------------------------------|
 | [onoken - P8107 (Kloyd) \[KA071\]](//osu.ppy.sh/b/457061) |
 
-Semifinales
------------
+### Semifinales
 
 **[¡Descarga el pack de mapas aquí!](//www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
@@ -211,8 +212,7 @@ Semifinales
 |-----------------------------------------------------------------------------------|
 | [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](//osu.ppy.sh/b/444356) |
 
-Cuartos de final
-----------------
+### Cuartos de final
 
 **[¡Descarga el pack de mapas aquí!](//www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
@@ -253,8 +253,7 @@ Cuartos de final
 |-----------------------------------------------------------------------------|
 | [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](//osu.ppy.sh/b/431957) |
 
-Octavos de final
-----------------
+### Octavos de final
 
 **[¡Descarga el pack de mapas aquí!](//www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
@@ -295,8 +294,7 @@ Octavos de final
 |-------------------------------------------------------------------------------------------------|
 | [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](//osu.ppy.sh/b/311573) |
 
-Fase de grupos
---------------
+### Fase de grupos
 
 **[¡Descarga el pack de mapas aquí!](//www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
@@ -340,10 +338,9 @@ Fase de grupos
 ------------------------------------------------------------------------
 
 Resultados
-==========
+-------------
 
-Finales
--------
+### Finales
 
 **Sábado, 13. Diciembre 2014 (tarde)**
 
@@ -361,8 +358,7 @@ Finales
 | ![](/wiki/shared/flag/Kr.gif) South Korea     | 5      - **6** | **Japan** ![](/wiki/shared/flag/Jp.gif)     | [#1](//osu.ppy.sh/mp/10955976) |
 | ![](/wiki/shared/flag/De.gif) Germany         | 3      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](//osu.ppy.sh/mp/10966299) |
 
-Semifinales
------------
+### Semifinales
 
 **Sábado, 29. Noviembre 2014**
 
@@ -382,8 +378,7 @@ Semifinales
 | ![](/wiki/shared/flag/De.gif) **Germany**     | **6**  - 5     | Austria ![](/wiki/shared/flag/At.gif)     | [#1](//osu.ppy.sh/mp/10835928) |
 | ![](/wiki/shared/flag/Us.gif) United States   | 0      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)  | [#1](//osu.ppy.sh/mp/10837599) |
 
-Cuartos de final
-----------------
+### Cuartos de final
 
 **Sábado, 22. Noviembre 2014**
 
@@ -403,8 +398,7 @@ Cuartos de final
 | ![](/wiki/shared/flag/Ua.gif) Ukraine           | 0     - **5** | **Austria** ![](/wiki/shared/flag/At.gif) | [#1](//osu.ppy.sh/mp/10672689) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 4     | Sweden ![](/wiki/shared/flag/Se.gif)      | [#1](//osu.ppy.sh/mp/10674065) |
 
-Octavos de final
-----------------
+### Octavos de final
 
 **Domingo, 16. Noviembre 2014**
 
@@ -419,8 +413,7 @@ Octavos de final
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 2      - **5** | **Austria** ![](/wiki/shared/flag/At.gif)        | [#1](//osu.ppy.sh/mp/10520060) |
 | ![](/wiki/shared/flag/Ar.gif) Argentina      | 2      - **5** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/10521646) |
 
-Fase de grupos
---------------
+### Fase de grupos
 
 **Sábado, 8. Noviembre 2014**
 
@@ -480,4 +473,4 @@ Fase de grupos
 | ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 3     - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)             | [#1](//osu.ppy.sh/mp/10355083) |
 | ![](/wiki/shared/flag/Sg.gif) Singapore       | 1     - **4** | **United States** ![](/wiki/shared/flag/Us.gif)      | [#1](//osu.ppy.sh/mp/10355087) |
 
-<Category:Tournaments/ES> [Category:Official Tournaments/ES](Category:Official_Tournaments/ES "wikilink") [Category:Osu! Standard Tournaments/ES](Category:Osu!_Standard_Tournaments/ES "wikilink") [Category:Osu! World Cup/ES](Category:Osu!_World_Cup/ES "wikilink")
+<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Osu! Standard Tournaments/ES><Category:Osu! World Cup/ES>
