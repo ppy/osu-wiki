@@ -208,7 +208,7 @@ x peut aller entre 0 et 512 (inclus) et y entre 0 et 384 (inclus).
 
 time est en millisecondes depuis le début de la chanson.
 
-NOTE: 'addition' est optionnel, est est par défaut "0:0:0:0:".
+NOTE: 'addition' est optionnel, et est par défaut "0:0:0:0:".
 
 Hit object type est un bitmap:
 
