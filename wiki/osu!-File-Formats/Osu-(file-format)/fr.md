@@ -11,7 +11,7 @@ Les lignes suivantes sont séparées en sections multiples, indiqués par des cr
 
 -   General - Propriétés variées à propos du gameplay de la beatmap.
 -   Editor - Paramètres sauvés pour les mappers pendant l'édition de beatmaps.
--   Metadata - Information descriptives à propos de la musique et de la beatmap.
+-   Metadata - Informations descriptives à propos de la musique et de la beatmap.
 -   Difficulty - Valeurs définissant la difficulté de la beatmap.
 -   Events - Une liste d’événements du storyboard.
 -   Timing Points - Une liste des points de timing et hitsounds de la beatmap.
@@ -189,7 +189,7 @@ Combo# (Integer List) est une liste de trois numéros, chacun entre 0 et 255, d�
 Hit Objects (Objets de jeu)
 ---------------------------
 
-Syntaxes des Hit Circles :
+Syntaxe des Hit Circles :
 
 `x,y,time,type,hitSound,addition`
 `164,260,2434,1,0,0:0:0:0:`
