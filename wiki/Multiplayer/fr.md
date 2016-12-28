@@ -1,14 +1,14 @@
+# Multiplayer
+
 <img src="Multiplay flowchart.jpg" title="fig:Multiplay Flowchart" alt="Multiplay Flowchart" width="400" /> \_\_TOC\_\_
 
-Introduction
-============
+## Introduction
 
 Le mode Multijoueur, introduit le 3 Juin 2008 (3.6.08) dans l'[osu! Public Release b335](http://osu.ppy.sh/forum/p/26660), est un mode où jusqu'à 16 joueurs peuvent participer dans un match contre chacun sur une map décidée par l'hôte.
 
 L'[osu!academy](FR:osu!academy "wikilink") a abordé le sujet dans l'[Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) en même temps que les [panneaux des joueurs en ligne](FR:Chat_Console#La_console_de_chat_étendue "wikilink") (en anglais).
 
-Comment participer
-==================
+## Comment participer
 
 | Minimum requis  | -   Une connexion en ligne correcte.  
                    -   Un compte osu! connecté à Bancho (doit être fait automatiquement)
@@ -25,8 +25,7 @@ Comment participer
 | Notes           | -   Il est suggéré que vous ayez quelques beatmaps (30+ musiques) dans votre dossier Songs. Sinon, selon votre connexion, le temps de téléchargement veut varier de 30 s à 15 min.  
                    -   Perdre la connexion avec Bancho vous ramène au menu principal jusqu'à ce que la connexion avec Bancho soit rétablie. Cela va vous forcer à être considéré "Quited" quand vous jouez un match.      |
 
-Lobby
-=====
+## Lobby
 
 <img src="Multi-Play-2016.png" title="fig:Exemple du Lobby Multijoueur" alt="Exemple du Lobby Multijoueur" width="200" /> Ceci est le Lobby du mode Multijoueur.
 
@@ -40,8 +39,7 @@ Lobby
         -   Vous serez connecté à \#lobby par défaut.
     -   Sélectionner et jouer les musiques du jukebox dans le coin supérieur droit de l'écran.
 
-Nouvelle partie
-===============
+## Nouvelle partie
 
 <img src="New game (Multi).jpg" title="New Game" alt="New Game" width="200" />
 
@@ -68,8 +66,7 @@ Votre salle affichera un verrou.</p></td>
 
 Après avoir fini, vous pouvez appuyer sur "Start Game" pour créer la "salle" avec vous pour hôte. Vous serez dirigé vers les **paramètres de la salle**.
 
-Paramètres le la salle
-======================
+## Paramètres le la salle
 
 `Surnommé "(game) room"`
 
@@ -179,13 +176,11 @@ Host song change.jpg| Quand l'hôte change de map, cette barre devient un espace
 
 **Quand tous les joueurs sont prêts (un second son doit être entendu au moment où tout le monde est prêt) et que l'hôte donne l'appel final (C'est parti !) pour démarrer le match, la partie commencera.**
 
-Type de jeu
-===========
+## Type de jeu
 
 `Seul l'hôte peut déterminer le type de jeu. Les joueurs doivent faire des requêtes à l'hôte si ils veulent quelque chose.`
 
-Mode de jeu
------------
+### Mode de jeu
 
 Le mode de jeu dans lequel vous souhaitez que la map soit jouée. Peut seulement être changé par l'hôte à l'écran de sélection des beatmaps. Notez que l'icône du mode sera affiché au lobby de vote "salle".
 
@@ -194,8 +189,7 @@ Le mode de jeu dans lequel vous souhaitez que la map soit jouée. Peut seulement
 -   [Catch the Beat](FR:Catch_The_Beat "wikilink")
 -   [osu!mania](FR:Osu!mania "wikilink")
 
-Type d'équipes
---------------
+### Type d'équipes
 
 | Règles générales (s'applique à tous sauf si mentionné contraire)                                                                                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -271,8 +265,7 @@ Type d'équipes
 | ![](PB SKIP.jpg "PB SKIP.jpg")           |
 | ![](PB QUIT.jpg "PB QUIT.jpg")           |
 
-Conditions de victoire
-----------------------
+### Conditions de victoire
 
 Les conditions pour déterminer le gagnant. L'avatar du gagnant sera affiché dans une boite. (Head-To-Head seulement).
 
@@ -281,8 +274,7 @@ Les conditions pour déterminer le gagnant. L'avatar du gagnant sera affiché da
 | **Accuracy** | Joueur avec la **meilleure précision gagne**. Si il y a plusieurs 100.0%, le joueur avec le meilleur score au spinner gagne. Inconfirmé si il n'y a pas de spinners.                              |
 | **Combo**    | Joueur avec le **plus grand combo de notes a la fin de la beatmap gagne**. Si 2 joueurs on le même combo, le joueur avec le plus haut score gagne. **Le combo maximum n'est pas pris en compte**. |
 
-Résultats du multijoueur
-========================
+## Résultats du multijoueur
 
 Les joueurs seront directement redirigés ici sauf mention contraire.
 
@@ -315,4 +307,4 @@ Les joueurs seront directement redirigés ici sauf mention contraire.
 </tbody>
 </table>
 
-<Category:Gameplay/FR>
+<!-- <Category:Gameplay/FR> -->
