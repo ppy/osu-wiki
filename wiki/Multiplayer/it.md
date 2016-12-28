@@ -1,14 +1,14 @@
+# Multiplayer
+
 <img src="IT-Multiplay flowchart.png" title="fig:Multiplay Flowchart" alt="Multiplay Flowchart" width="400" /> \_\_TOC\_\_
 
-Introduzione
-============
+## Introduzione
 
 Il Multi-Play viene implementato il 3 Giugno 2008 (3.6.08) con la [osu! Public Release b335](http://osu.ppy.sh/forum/p/26660), ed è una modalità di gioco che permette ad 8 giocatori di competere su una stessa mappa, scelta dall'host della stanza.
 
 La <IT:Osu!academy> copre questa pagina nell'[Episodio 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) con anche il [Pannello degli utenti online](IT:Chat_Console#Extended_Chat_Console "wikilink").
 
-Come entrare
-============
+## Come entrare
 
 | Requisiti minimi | -   Una connessione internet sufficiente.  
                     -   Un osu!account loggato su Bancho (dovrebbe essere fatto automaticamente)
@@ -25,8 +25,7 @@ Come entrare
 | Note             | -   È consigliato avere alcune mappe (30+ canzoni) nella cartella delle canzoni di osu!. Altrimenti, in base alla tua connessione, il tempo di download può variare da 30sec a 15min.  
                     -   Perdere la connessione con Bancho ti farà tornare al menù principale fino a che la connessione non sarà ripristinata. Quando questo succede verrai considerato "Quitted" durante un match.  |
 
-Lobby
-=====
+## Lobby
 
 <img src="IT-Multi-play.png" title="fig:Esempio della lobby Multiplayer" alt="Esempio della lobby Multiplayer" width="200" /> Questa è la Lobby del Multiplayer (sala d'attesa).
 
@@ -41,8 +40,7 @@ Lobby
     -   Controllare i giocatori che ci sono in una stanza guardando la parte destra di ogni stanza.
     -   Selezionare ed ascoltare le canzoni del proprio jukebox mediante il player in alto a destra.
 
-Nuovo Gioco
-===========
+## Nuovo Gioco
 
 <img src="New game (Multi).jpg" title="Nuovo Gioco" alt="Nuovo Gioco" width="200" />
 
@@ -69,8 +67,7 @@ Il cartello della tua stanza sarà marcato con un lucchetto.</p></td>
 
 Una volta finito puoi premere "Start Game" per creare la stanza di cui sarai l'host. Sarai mandato al **Match Setup**
 
-Match Setup
-===========
+## Match Setup
 
 `Nicknamed "(game) room"`
 
@@ -132,13 +129,11 @@ Host song change.jpg| Quando l'Host starà scegliendo la Beatmap, questa barra d
 
 **Quando tutti i giocatori sono pronti (Ci sarà un suono ogni volta che un giocatore passerà allo stato di "Pronto") e l'Host avrà dato l'ultimo segnale (Inizia Gioco!) per cominciare il gioco, esso inizierà.**
 
-Modalità di gioco
-=================
+## Modalità di gioco
 
 Solo l'Host può decidere la modalità di gioco. I giocatori possono comunque fare richieste all'Host se volgiono qualcosa in particolare.
 
-Stile di Gioco
---------------
+### Stile di Gioco
 
 Lo stile di gioco in cui vuoi sia giocata la canzone. Può essere cambiata solo al "Song Select" dall'Host. Ricorda che lo stile di gioco attuale verrà mostrato anche fuori dalla stanza, nella lobby.
 
@@ -147,8 +142,7 @@ Lo stile di gioco in cui vuoi sia giocata la canzone. Può essere cambiata solo 
 -   [Catch the Beat](IT:Catch_the_Beat "wikilink")
 -   [osu!mania](IT:Osu!mania "wikilink")
 
-Modalità Team
--------------
+### Modalità Team
 
 | Regole Generali (sempre applicate se non diversamente specificato)                                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -224,8 +218,7 @@ Modalità Team
 | ![](PB SKIP.jpg "PB SKIP.jpg") |
 | ![](PB QUIT.jpg "PB QUIT.jpg") |
 
-Condizioni di vittoria
-----------------------
+### Condizioni di vittoria
 
 Le condizioni per determinare il vincitore. L'avatar del vincitore sarà mostrato in cima al pannello dei risultati (Solo Head-To-Head).
 
@@ -234,8 +227,7 @@ Le condizioni per determinare il vincitore. L'avatar del vincitore sarà mostrat
 | **Accuracy**  | Il giocatore con **l'accuracy (precisione) più alta vince**. Se ci sono due 100.00%, vincerà il giocatore col punteggio più alto (determinato dagli spinner). Non ci sarà vincitore se non ci sono spinner. |
 | **Combo**     | Il giocatore con **la combo più alta alla fine della partita vince**. Se la combo è uguale, vince il giocatore col punteggio più alto. **La combo massima non viene conteggiata**.                          |
 
-Risultati del Multiplayer
-=========================
+## Risultati del Multiplayer
 
 I giocatori verranno indirazzati qui appena finita una Beatmap, salvo eccezioni.
 
@@ -268,4 +260,4 @@ I giocatori verranno indirazzati qui appena finita una Beatmap, salvo eccezioni.
 </tbody>
 </table>
 
-<Category:Gameplay/IT>
+<!-- <Category:Gameplay/IT> -->
