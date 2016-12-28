@@ -1,14 +1,13 @@
+# Multiplayer
 <img src="Multiplay flowchart.jpg" title="fig:Fluxograma do Multiplay" alt="Fluxograma do Multiplay" width="400" /> \_\_TOC\_\_
 
-Introdução
-==========
+## Introdução
 
 Multiplayer foi implementado em 3 de Junho de 2008 no [osu! Public Release b335](http://osu.ppy.sh/forum/p/26660), e é um modo de jogo onde até dezesseis jogadores podem competir de uma vez em um beatmap escolhido pelo hospedeiro.
 
 A [Academia do osu!](PT:Osu!academy "wikilink") fala sobre esse modo no [Episódio 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) junto com [Painel de Usuários Online](PT:Chat_Console#Extended_Chat_Console "wikilink").
 
-Como entrar
-===========
+## Como entrar
 
 | Requisitos mínimos | -   Conexão à Internet decente  
                       -   Conta no Osu! logada no Bancho (será logada automaticamente)
@@ -26,8 +25,7 @@ Como entrar
                       -   Perder a conexão com o Bancho irá fazer você voltar à Tela inicial até que a conexão seja recuperada. Isso irá forçar você a sair da sala enquanto estiver jogando.
                       -   Requer ser osu!supporter caso esteja em uma atualização em cuttingedge.                                                                                              |
 
-Lobby
-=====
+## Lobby
 
 <img src="Multi-Play-2016.png" title="fig:Example of Multiplayer Lobby" alt="Example of Multiplayer Lobby" width="200" /> This is a (waiting) Multiplayer Lobby.
 
@@ -42,8 +40,7 @@ Lobby
     -   Check out the players logged into lobby by looking at the right of the screen.
     -   Select and playing your jukebox songs at the upper-right of the screen.
 
-New game
-========
+## New game
 
 <img src="New game (Multi).jpg" title="New Game" alt="New Game" width="200" />
 
@@ -70,8 +67,7 @@ Your play sign will be shown with a lock.</p></td>
 
 After you are done, you can press the "Start Game" to create the "room" with you as the host of the room. You will be directed to **Match Setup**
 
-Match Setup
-===========
+## Match Setup
 
 `Nicknamed "(game) room"`
 
@@ -181,13 +177,11 @@ Host song change.jpg| When the Host is changing songs, this bar will become a te
 
 **When all players is ready (there should be a second sound to show that everyone is ready) and the host give the final call (Start Game!) to start the match, the game will start.**
 
-Game Type
-=========
+## Game Type
 
 `Only the host can determine the Game Type. Players should make requests to the host if they want something.`
 
-Play Mode
----------
+### Play Mode
 
 The game style you wish the map to be played. Can only be changed at "Song Select" by Host. Do note that the game style's leitmotif will be shown at the lobby of your "room".
 
@@ -196,8 +190,7 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 -   [PT:Catch The Beat](PT:Catch_The_Beat "wikilink")
 -   [osu!mania](PT:Osu!mania "wikilink")
 
-Team Mode
----------
+### Team Mode
 
 | General rules (applies to all unless stated otherwise)                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -273,8 +266,7 @@ Team Mode
 | ![](PB SKIP.jpg "PB SKIP.jpg") |
 | ![](PB QUIT.jpg "PB QUIT.jpg") |
 
-Win Condition
--------------
+### Win Condition
 
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
 
@@ -299,8 +291,7 @@ If combo count is the same, player with the highest score wins. <strong>Maximum 
 </tbody>
 </table>
 
-Multiplayer Results
-===================
+## Multiplayer Results
 
 Players will be directed here after the beatmap is completed unless stated otherwise.
 
@@ -333,4 +324,4 @@ Players will be directed here after the beatmap is completed unless stated other
 </tbody>
 </table>
 
-<Category:Gameplay/PT>
+<!-- <Category:Gameplay/PT> -->

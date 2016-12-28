@@ -1,12 +1,11 @@
+# Multiplayer
 <img src="Multiplay Flowchart (KO).jpg" title="fig:멀티플레이 흐름도" alt="멀티플레이 흐름도" width="400" /> \_\_TOC\_\_
 
-소개
-====
+## 소개
 
 **멀티-플레이**는 2008년 6월 3일에 [osu! 공개 릴리즈 b335](http://osu.ppy.sh/forum/p/26660) 업데이트로 추가된 최대 8명의 유저가 방장에 의해 선택된 한 맵을 두고 경쟁할 수 있는 게임 모드입니다.
 
-입장방법
-========
+## 입장방법
 
 | Minimum requirement | -   Decent online connection.  
                        -   osu!account logged into Bancho (should be done automatically)
@@ -23,8 +22,7 @@
 | Notes               | -   It is suggested you have some beatmaps (30+ songs) in your osu! Songs folder. Otherwise, depending on your connection, downloading time can range from 30s to 15mins.  
                        -   Losing connection to Bancho will send you back to Main Menu until connection is recovered to Bancho. This will force you to be considered "Quited" when playing a match.  |
 
-로비
-====
+## 로비
 
 <img src="Multi-Play-2016.png" title="fig:멀티플레이어 로비의 예시" alt="멀티플레이어 로비의 예시" width="200" /> 멀티플레이어 로비 대기 화면입니다.
 
@@ -39,8 +37,7 @@
     -   화면의 오른쪽을 보고 로비에 접속중인 플레이어를 확인할 수 있습니다.
     -   화면의 우측 상단의 주크박스에서 노래를 선택하고 재생시키세요.
 
-새 게임(방 만들기)
-==================
+## 새 게임(방 만들기)
 
 <img src="New game (Multi).jpg" title="새 게임(방 만들기)" alt="새 게임(방 만들기)" width="200" />
 
@@ -67,8 +64,7 @@
 
 설정이 끝난 뒤, "Start Game" 버튼을 눌러 당신이 방장인 "방" 을 만들 수 있습니다. 당신은 **매치 설정** 으로 들어가게 됩니다.
 
-매치 설정
-=========
+## 매치 설정
 
 `닉네임 "(game) room"`
 
@@ -178,13 +174,11 @@ Host song change.jpg| 방장이 비트맵을 변경할 때, 이 바가 일시적
 
 **모든 플레이어가 준비 상태일 때 (분명 모두가 준비됨을 알리는 두번째 소리가 울릴 것입니다), 방장이 최종 결정(게임 시작! 버튼)을 내리면 게임이 시작됩니다.**
 
-게임 형식
-=========
+## 게임 형식
 
 `오직 방장만이 게임 형식을 결정할 수 있습니다. 다른 플레이어들은 다른 무언가를 원한다면 방장에게 요청할 수 있습니다.`
 
-게임 모드
----------
+### 게임 모드
 
 선택된 맵에서 플레이하길 원하는 게임 스타일입니다. 방장에 의해, "비트맵 선택" 화면에서만 선택 가능합니다. 선택된 게임 스타일의 아이콘이 여러분의 "방"의 로비에 나타나는 것에 주목하세요.
 
@@ -193,8 +187,7 @@ Host song change.jpg| 방장이 비트맵을 변경할 때, 이 바가 일시적
 -   [캐치 더 비트](KO:Catch_the_Beat "wikilink")
 -   [osu!매니아](KO:Osu!mania "wikilink")
 
-Team Mode
----------
+### Team Mode
 
 | General rules (applies to all unless stated otherwise)                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -270,8 +263,7 @@ Team Mode
 | ![](PB SKIP.jpg "PB SKIP.jpg") |
 | ![](PB QUIT.jpg "PB QUIT.jpg") |
 
-Win Condition
--------------
+### Win Condition
 
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
 
@@ -280,8 +272,7 @@ The condition to determine the winner. The winner's avatar will be shown at the 
 | **Accuracy** | Player with the **highest accuracy wins**. If there is two 100.00%, the player with the highest score (from spinners) wins. Unconfirmed if there is no spinners.          |
 | **Combo**    | Player with the **highest combo count at the end of the beatmap wins**. If combo count is the same, player with the highest score wins. **Maximum combo is not counted**. |
 
-Multiplayer Results
-===================
+## Multiplayer Results
 
 Players will be directed here after the beatmap is completed unless stated otherwise.
 
@@ -314,4 +305,4 @@ Players will be directed here after the beatmap is completed unless stated other
 </tbody>
 </table>
 
-<Category:Gameplay/KO> [Category:Translation Request](Category:Translation_Request "wikilink")
+<!-- <Category:Gameplay/KO> [Category:Translation Request](Category:Translation_Request "wikilink") -->

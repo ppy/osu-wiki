@@ -1,12 +1,12 @@
+# Multiplayer
+
 <img src="Multiplay flowchart.jpg" title="fig:Bagan Bermain Bersama" alt="Bagan Bermain Bersama" width="400" /> \_\_TOC\_\_
 
-Perkenalan
-==========
+## Perkenalan
 
 Bermain Bersama (Multiplayer) diimplementasikan pada 3 Juni 2008 (3.6.08) di bawah [Perilisan Publik osu! b335](http://osu.ppy.sh/forum/p/26660), dan itu adalah mode permainan yang di dalamnya terdapat hingga 16 pemain dapat berkompetisi satu sama lain dengan sebuah map yang ditentukan oleh host. [osu!academy](ID:Osu!academy "wikilink") menampilkan halaman ini dalam [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersama [Panel Pemain yang Daring](ID:Chat_Console#Extended_Chat_Console "wikilink").
 
-Bagaimana untuk Memasukinya
-===========================
+## Bagaimana untuk Memasukinya
 
 | Syarat Minimum   | -   Koneksi daring yang layak.  
                     -   Akun osu! yang telah terhubung ke dalam Bancho (seharusnya telah dilakukan secara otomatis)
@@ -24,8 +24,7 @@ Bagaimana untuk Memasukinya
                     -   Kehilangan koneksi ke Bancho akan mengirimmu kembali ke menu utama hingga koneksi terhubung kembali ke Bancho. Ini akan memaksamu untuk dianggap sebagai "Keluar" ketika sedang bermain bersama.
                     -   Memerlukan osu!supporter pada versi cuttingedge.                                                                                                                                                  |
 
-Lobi
-====
+## Lobi
 
 <img src="Multi-Play-2016.png" title="fig:Contoh dari Lobi Bermain Bersama" alt="Contoh dari Lobi Bermain Bersama" width="200" /> Ini adalah sebuah lobi (tempat menunggu) bermain bersama.
 
@@ -40,8 +39,7 @@ Lobi
     -   Mengecek pemain yang masuk ke lobby dengan melihat bagian kanan dari layar.
     -   Memilih dan memainkan daftar putar lagumu pada bagian atas kanan layar.
 
-Permainan Baru
-==============
+## Permainan Baru
 
 <img src="New game (Multi).jpg" title="Permainan Baru" alt="Permainan Baru" width="200" />
 
@@ -68,8 +66,7 @@ Ruanganmu akan muncul di daftar ruangan dengan tanda gembok.</p></td>
 
 Ketika kamu selesai, kamu dapat menekan "Start Game" untuk membuat "ruangan" dengan kamu sebagai host ruangan. Kamu akan diarahkan ke **Match Setup - Pengaturan Pertandingan**.
 
-Pengaturan Pertandingan
-=======================
+## Pengaturan Pertandingan
 
 `Disebut sebagai "(game) room"`
 
@@ -180,13 +177,11 @@ Host song change.jpg| Jika host mengganti lagu, bar ini akan menjadi tempat pemb
 
 **Jika semua main sudah siap (di situ akan ada suara yang menandakan semuanya telah siap) dan host memberikan panggilan terakhir (Mulai permainan!) untuk memulai pertandingan, dan permainan akan mulai.**
 
-Tipe Permainan
-==============
+## Tipe Permainan
 
 Hanya host yang dapat menentukan tipe permainan. Para pemain sebaiknya meminta host untuk merubahnya jika mereka menginginkan sesuatu.
 
-Mode Bermain
-------------
+### Mode Bermain
 
 Gaya permainan yang kamu ingin mainkan. Hanya dapat diubah di "Song Select - Pemilihan Lagu" oleh host. Tolong diingat bahwa lambang gaya permainan ruanganmu akan ditampilkan di lobby.
 
@@ -195,8 +190,7 @@ Gaya permainan yang kamu ingin mainkan. Hanya dapat diubah di "Song Select - Pem
 -   [Catch the Beat](ID:Catch_The_Beat "wikilink")
 -   [osu!mania](ID:Osu!mania "wikilink")
 
-Mode Tim
---------
+### Mode Tim
 
 | Peraturan umum (berlaku untuk semua kecuali dinyatakan lain)                                                                                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -272,8 +266,7 @@ Mode Tim
 | ![](PB SKIP.jpg "PB SKIP.jpg") |
 | ![](PB QUIT.jpg "PB QUIT.jpg") |
 
-Kondisi Menang
---------------
+### Kondisi Menang
 
 Kondisi yang menandakan sang pemenang. Avatar pemenang akan tampil pada tampilan hasil (hanya Head-To-Head).
 
@@ -298,8 +291,7 @@ Jika hitungan kombo sama, pemain dengan skor tertinggi yang menang. <strong>Komb
 </tbody>
 </table>
 
-Hasil Bermain Bersama
-=====================
+## Hasil Bermain Bersama
 
 Para pemain akan diarahkan ke sini setelah beatmap selesai kecuali dinyatakan lain.
 
@@ -332,4 +324,4 @@ Para pemain akan diarahkan ke sini setelah beatmap selesai kecuali dinyatakan la
 </tbody>
 </table>
 
-<Category:Gameplay/ID>
+<!-- <Category:Gameplay/ID> -->
