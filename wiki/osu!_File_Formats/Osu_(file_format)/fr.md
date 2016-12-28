@@ -11,7 +11,7 @@ Les lignes suivantes sont séparées en sections multiples, indiqués par des cr
 
 -   General - Propriétés variées à propos du gameplay de la beatmap.
 -   Editor - Paramètres sauvés pour les mappers pendant l'édition de beatmaps.
--   Metadata - Information descriptives à propos de la musique et de la beatmap.
+-   Metadata - Informations descriptives à propos de la musique et de la beatmap.
 -   Difficulty - Valeurs définissant la difficulté de la beatmap.
 -   Events - Une liste d’événements du storyboard.
 -   Timing Points - Une liste des points de timing et hitsounds de la beatmap.
@@ -169,7 +169,7 @@ Les [points de timing](FR:Timing) décrivent un certain nombre de propriétés r
 
 `Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
-Un point de timing non-hérité diffère d'un point de timing hérité quand la valeur Milliseconds per Beat (Millisecondes par Battement) est négative, et définit un nouveat Millisecondes par Battements basé sur le dernier point de timing non hérité. Cela peut être utilisé pour changer le volume sans affecter le décalage audio, ou changer la vitesse des sliders.
+Un point de timing non-hérité diffère d'un point de timing hérité quand la valeur Milliseconds per Beat (Millisecondes par Battement) est négative, et définit un nouveau Millisecondes par Battements basé sur le dernier point de timing non hérité. Cela peut être utilisé pour changer le volume sans affecter le décalage audio, ou changer la vitesse des sliders.
 
 Exemple d'un point de timing :
 
@@ -189,7 +189,7 @@ Combo# (Integer List) est une liste de trois numéros, chacun entre 0 et 255, d�
 Hit Objects (Objets de jeu)
 ---------------------------
 
-Syntaxes des Hit Circles :
+Syntaxe des Hit Circles :
 
 `x,y,time,type,hitSound,addition`
 `164,260,2434,1,0,0:0:0:0:`
@@ -208,7 +208,7 @@ x peut aller entre 0 et 512 (inclus) et y entre 0 et 384 (inclus).
 
 time est en millisecondes depuis le début de la chanson.
 
-NOTE: 'addition' est optionnel, est est par défaut "0:0:0:0:".
+NOTE: 'addition' est optionnel, et est par défaut "0:0:0:0:".
 
 Hit object type est un bitmap:
 
