@@ -1,4 +1,4 @@
-Utilisez le modèle {{CURRENTDAYNAME/FR}} pour spécifier le jour de la semaine actuel.
+Utilisez le modèle {{CURRENTDAYNAME/FR}} pour spécifier le jour de la semaine actuelle.
 
 Contrairement au modèle original {{CURRENTDAYNAME}} qui ne retourne que les jours de la semaine en anglais (exemple : ), {{CURRENTDAYNAME/FR}} retourne le jour en français. Exemple d'utilisation : *aujourd'hui, nous sommes ****.*
 
