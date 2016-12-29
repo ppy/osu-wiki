@@ -1,9 +1,12 @@
+osu!mania 4K World Cup 2015
+============================
+
 ![MWC 2015 logo](logo.png)
 
 The **osu!mania 4K World Cup 2015** (***MWC 4K 2015*** ) is a country-based osu!mania 4-key tournament hosted by the [osu! staff](//osu.ppy.sh/wiki/The_Team). It is the 2nd installment of the osu!mania World Cup. It lasts from the 13th July till 27th September 2015.
 
 Tournament schedule
-===================
+------------------------
 
 | Event              | Timestamp                 |
 |--------------------|---------------------------|
@@ -17,7 +20,7 @@ Tournament schedule
 | Finals - Week 2    | 26-27 sep 2015            |
 
 Prizes
-======
+---------
 
 | Placing                                                    | Prize(s)                                                                                |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -26,7 +29,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag, profile badge                                                    |
 
 Organization
-============
+-------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +46,7 @@ Organization
 ------------------------------------------------------------------------
 
 Participants
-============
+------------
 
 | Top Seed                                      | High Seed                                  | Low Seed                                   | No Seed                                           |
 |-----------------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------------|
@@ -115,10 +118,9 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+---------
 
-Group Stage
------------
+### Group Stage
 
 **[Download the map pack here!](//www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar)**
 
@@ -141,8 +143,7 @@ Group Stage
 |--------------------------------------------------------------------------------------------|
 | [Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](//osu.ppy.sh/b/494045) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the map pack here!](//www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar)**
 
@@ -167,8 +168,7 @@ Round of 16
 |--------------------------------------------------------------------------------|
 | [Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](//osu.ppy.sh/b/577429) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **[Download the mappack here!](//www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar)**
 
@@ -193,8 +193,7 @@ Quarterfinals
 |---------------------------------------------------------|
 | [Camellia - Lunatic Rough Party](//osu.ppy.sh/b/646319) |
 
-Semifinals
-----------
+### Semifinals
 
 **[Download the mappack here!](//www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar)**
 
@@ -221,8 +220,7 @@ Semifinals
 |-------------------------------------------------------------------------------------------------|
 | [goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](//osu.ppy.sh/b/692640) |
 
-Finals
-------
+### Finals
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
@@ -253,13 +251,13 @@ Finals
 |-------------------------------------------------------------------------------|
 | [xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](//osu.ppy.sh/b/777348) |
 
+
 ------------------------------------------------------------------------
 
 Match Results
-=============
+-------------
 
-Grand Finals
-------------
+### Grand Finals
 
 **Sunday, 27\. September 2015**
 
@@ -267,8 +265,7 @@ Grand Finals
 |:-------------------------------------------------|:----------:|-------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Us.gif) **United States** | **7**  - 0 | Japan ![](/wiki/shared/flag/Jp.gif) | [#1](//osu.ppy.sh/mp/19202583) |
 
-Finals - Week 1
----------------
+### Finals - Week 1
 
 **Saturday, 19\. September 2015**
 
@@ -285,8 +282,8 @@ Finals - Week 1
 |:----------------------------------------------|:---------:|-----------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 3 - **6** | **Japan** ![](/wiki/shared/flag/Jp.gif) | [#1](//osu.ppy.sh/mp/19064573) |
 
-Semifinals
-----------
+
+### Semifinals
 
 **Saturday, 12\. September 2015**
 
@@ -306,8 +303,7 @@ Semifinals
 | ![](/wiki/shared/flag/My.gif) **Malaysia** | **6** - 5 | Philippines ![](/wiki/shared/flag/Ph.gif) | [#1](//osu.ppy.sh/mp/18916080) |
 | ![](/wiki/shared/flag/Br.gif) **Brazil**   | **6** - 3 | Indonesia ![](/wiki/shared/flag/Id.gif)   | [#1](//osu.ppy.sh/mp/18917606) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **Saturday, 5\. September 2015**
 
@@ -327,8 +323,7 @@ Quarterfinals
 | ![](/wiki/shared/flag/Au.gif) Australia   | 0 - **5** | **Canada** ![](/wiki/shared/flag/Ca.gif)        | [#1](//osu.ppy.sh/mp/18754356) |
 | ![](/wiki/shared/flag/Kr.gif) South Korea | 0 - **5** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/18755307) |
 
-Round of 16
------------
+### Round of 16
 
 **Sunday, 30\. August 2015**
 
@@ -343,8 +338,7 @@ Round of 16
 | ![](/wiki/shared/flag/Pl.gif) Poland             | 1      - **5** | **Argentina** ![](/wiki/shared/flag/Ar.gif)   | [#1](//osu.ppy.sh/mp/18614619) |
 | ![](/wiki/shared/flag/Us.gif) **United States**  | **5**  - 0     | Canada ![](/wiki/shared/flag/Ca.gif)          | [#1](//osu.ppy.sh/mp/18616004) |
 
-Group Stage
------------
+### Group Stage
 
 **[Find the Group Stage statistics here!](//owc.nicarim.pw/results/view/6)**
 
@@ -409,10 +403,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+------------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
@@ -424,7 +417,7 @@ Tournament Rules
 5.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -435,8 +428,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the Tournament Management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -446,15 +438,14 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Mapset selectors may not participate as a player in this tournament.
 
 **To sign up, visit [this page](//jizz.ppy.sh/tournaments/1)**
 
-Stage Instructions
-------------------
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     1.  This may change according to the final amount of formed teams.
@@ -462,9 +453,9 @@ Stage Instructions
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
@@ -487,8 +478,7 @@ Stage Instructions
     -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
     -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 4K 2015: (TeamBlue) vs (TeamRed)".
@@ -508,8 +498,7 @@ Match Instructions
 
 7.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
@@ -523,8 +512,7 @@ Mappool Instructions
 4.  All maps, including the tiebreaker, will be played on FreeMod condition.
     1.  Every individual player can pick Hidden, Flashlight or Fade-In or no mode at all.
 
-Scheduling Instructions
------------------------
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -532,4 +520,4 @@ Scheduling Instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu!mania Tournaments](Category:osu!mania_Tournaments "wikilink") [Category:osu!mania World Cup](Category:osu!mania_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu!mania Tournaments><Category:osu!mania World Cup>

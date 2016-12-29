@@ -1,3 +1,6 @@
+osu! World Cup #1
+=====================
+
 Original Thread: [#1 osu! World Cup (Team vs) \[OFFICIAL\] (Taiwan Wins!!)](//osu.ppy.sh/forum/t/45412)
 
 ![Dedicate to japan -- In honor about the Japan earthquake, we are with you.](dedicate.png)
@@ -5,17 +8,15 @@ Original Thread: [#1 osu! World Cup (Team vs) \[OFFICIAL\] (Taiwan Wins!!)](//os
 ![OWC 1 logo](logo.png)
 
 Information and Rules
-=====================
+------------------------
 
-Timetables and Dates
---------------------
+### Timetables and Dates
 
 -   The OWC start at 21st February 2011
 -   All matches will be played in this time slot "15:00 ~ 22:00 (GMT)" at "Thursday - Sunday"
 -   Timetables will be posted every Monday night (GMT+1).
 
-Information
------------
+### Information
 
 -   The first stage of the cup divided depending on continent
     -   Example: Europe country vs Europe country (Poland vs Portugal)
@@ -25,8 +26,7 @@ Information
 -   Captains will be chosen by language specific topics or discussions in IRC specific language channels made by trusted players/staffs.
 -   Teams should made up of 4 players and 2 backups in case one or more players are not available to play.
 
-Match Information
------------------
+### Match Information
 
 1.  For each round, a list of 15 Beatmaps will be given chosen by a staff member of the tournament(a non-player). Countries can choose one of these beatmaps to play for a match (I recommend you prepare another choice in case your opponent chooses the same map) of the round. Beatmap packs containing the 15 beatmaps for every round will be created for convenience.
 2.  The matches will be played in a private room created by one of the two competing captains.
@@ -36,20 +36,19 @@ Match Information
 6.  In the case of a 1-1 draw, there will be a default tiebreaker map that decided by the cup staff.
 7.  When a team fails, the other team automatically wins the match.
 
-Rules
------
+### Rules
 
 -   One of two captains must post the link of the multiplayer history after the match, you can find it when you join the room into the chat.
 -   If a team not present during the match, that team will be disqualified. Opposing team is obliged to wait for at least 15 minutes for the team to show up.
 -   Any form of cheating will be punished with the disqualification of the team and ban of the cheating player.
 
 Brackets
-========
+-------------
 
 ![OWC 1 brackets](brackets.png)
 
 Prizes
-======
+---------
 
 | Place                                                      | Prize(s)                                                                                                   |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -59,7 +58,7 @@ Prizes
 | *Special*                                                  | 1 month supporter tag \[Won by the ![](/wiki/shared/flag/Jp.gif) Japan team\]                             |
 
 Tournament Staff
-================
+---------------
 
 Tournament Staff is currently composed by:
 
@@ -72,13 +71,13 @@ Tournament Staff is currently composed by:
 -   ![](/wiki/shared/flag/It.gif) [Lunah](//osu.ppy.sh/u/1227377)
 
 Teams and Players
-=================
+---------------
 
 28/32 Teams
 
 Note: this table is formated like so: `Country` \| `Captain, P1, P2, P3 (B1, B2)`
 
-## Asia/Oceania Teams
+### Asia/Oceania Teams
 
 | Country                                    | Members                                                                        |
 |--------------------------------------------|--------------------------------------------------------------------------------|
@@ -92,7 +91,7 @@ Note: this table is formated like so: `Country` \| `Captain, P1, P2, P3 (B1, B2)
 | ![](/wiki/shared/flag/Ph.gif) Philippines | **dayun10**, blacksymbian, jockeytiyan, wyndII (nachopiggy, bakaloidsky)       |
 | ![](/wiki/shared/flag/Tw.gif) Taiwan      | **Uan**, Rucker, 0222101916, Tomoka Rin (FuNnY--, NanaDesu)                    |
 
-## Europe Teams
+### Europe Teams
 
 | Country                                       | Members                                                            |
 |-----------------------------------------------|--------------------------------------------------------------------|
@@ -110,7 +109,7 @@ Note: this table is formated like so: `Country` \| `Captain, P1, P2, P3 (B1, B2)
 | ![](/wiki/shared/flag/Ua.gif) Ukraine        | **gorlum**, rockleejkooo, Mosya, RainForce (gef)                   |
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | **Doomsday**, Natteke, aevv, Jericho2442 (DiamondCrash)            |
 
-## America Teams
+### America Teams
 
 | Country                                           | Members                                                                |
 |---------------------------------------------------|------------------------------------------------------------------------|
@@ -122,7 +121,7 @@ Note: this table is formated like so: `Country` \| `Captain, P1, P2, P3 (B1, B2)
 | ![](/wiki/shared/flag/Us.gif) United States      | **Lybydose**, Mafiamaster, Cyclone (ebacho, naptime)                   |
 
 Map list
-========
+---------
 
 Win condition: Team with highest total team score wins the match.
 
@@ -144,8 +143,8 @@ Win condition: Team with highest total team score wins the match.
 | Semifinal, 3rd place | #7 beatmap (3-3)             |
 | Final                | #9 beatmap (4-4)             |
 
-\#1st week
-----------
+### \#1st week
+
 
 | Pick one beatmap                                                                           |
 |--------------------------------------------------------------------------------------------|
@@ -169,8 +168,7 @@ Win condition: Team with highest total team score wins the match.
 |-------------------------------------------------------------------------|
 | [Hyadain - Battle with the Four Fiends (Sinistro)](//osu.ppy.sh/s/2619) |
 
-\#2nd week
-----------
+### \#2nd week
 
 | Pick one beatmap                                                                      |
 |---------------------------------------------------------------------------------------|
@@ -194,8 +192,7 @@ Win condition: Team with highest total team score wins the match.
 |---------------------------------------------------------|
 | [Seiryu - Time to Air (DaRRi MIx)](//osu.ppy.sh/s/4597) |
 
-\#3rd week
-----------
+### \#3rd week
 
 | Pick one beatmap                                                                         |
 |------------------------------------------------------------------------------------------|
@@ -219,8 +216,7 @@ Win condition: Team with highest total team score wins the match.
 |-----------------------------------------------------|
 | [DJ Mars - Lemon Tree (Hard)](//osu.ppy.sh/b/34045) |
 
-\#4 week (Semifinal)
---------------------
+### \#4 week (Semifinal)
 
 | Order            | Play by order                                                               |
 |------------------|-----------------------------------------------------------------------------|
@@ -232,10 +228,9 @@ Win condition: Team with highest total team score wins the match.
 | 6                | [Nobuo Uematsu - The Fierce Battle (Omega)](//osu.ppy.sh/b/27466)           |
 | Tiebreaker (3-3) | [Rhapsody - Emerald Sword (Extreme)](//osu.ppy.sh/b/25580)                  |
 
-\#5 week (Finals and 3rd place)
--------------------------------
+### \#5 week (Finals and 3rd place)
 
-### 3rd place (Korea vs Chile)
+#### 3rd place (Korea vs Chile)
 
 **Download provided by [puush](//puu.sh/): [//puu.sh/1rVy](//puu.sh/1rVy)**
 
@@ -251,7 +246,7 @@ Win condition: Team with highest total team score wins the match.
 |                  | **Break time**                                                                      |
 | Tiebreaker (3-3) | [Renard - Banned Forever (Nogard)](//osu.ppy.sh/s/16349)                            |
 
-### Final (Netherlands vs Taiwan)
+#### Final (Netherlands vs Taiwan)
 
 **Download provided by [puush](//puu.sh/): [//puu.sh/1rVF](//puu.sh/1rVF)**
 
@@ -270,7 +265,7 @@ Win condition: Team with highest total team score wins the match.
 |                  | **Break time**                                                                                                  |
 | Tiebreaker (4-4) | [IOSYS - Usatei (RUN!!)](//osu.ppy.sh/b/22993)                                                                  |
 
-#### Replay files
+##### Replay files
 
 | Item         | Links                                                                        |
 |--------------|------------------------------------------------------------------------------|
@@ -287,4 +282,4 @@ Win condition: Team with highest total team score wins the match.
 | [1st+2nd](//www.mediafire.com/?ab6j6k4ihtp25o2)      |
 | Streams provided by [dvorak](//osu.ppy.sh/u/271359). |
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu! Standard Tournaments](Category:osu!_Standard_Tournaments "wikilink") [Category:osu! World Cup](Category:osu!_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu! Standard Tournaments><Category:osu! World Cup>

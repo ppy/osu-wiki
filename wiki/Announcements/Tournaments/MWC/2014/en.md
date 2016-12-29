@@ -1,3 +1,6 @@
+osu!mania World Cup 2014
+========================
+
 ![MWC 2014 logo](logo.png)
 
 The **osu!mania World Cup 2014** (***MWC 2014*** ) is a country-based osu!mania tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 1st installment of the osu!mania World Cup and is separated in a 7-keys and 4-keys bracket.
@@ -17,7 +20,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/My.gif) **Malaysia**    |
 
 Tournament schedule
-===================
+-----------------------
 
 | Event                  | Timestamp      |
 |------------------------|----------------|
@@ -31,7 +34,7 @@ Tournament schedule
 | Finals/3rd place match | 14 Sep 2014    |
 
 Prizes
-======
+---------
 
 | Placing                                                    | Prize(s)                                                                               |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -40,7 +43,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/flag/BCrown.png "3rd place") | 1 month supporter tag                                                                  |
 
 Organization
-============
+--------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +56,7 @@ Organization
 ------------------------------------------------------------------------
 
 Links
-=====
+-----------
 
 -   [osu!mania World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
 -   [Registration Form](//docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
@@ -64,16 +67,16 @@ Links
 ------------------------------------------------------------------------
 
 Knock-Out Brackets
-==================
+---------------------
 
 ![MWC 2014 4K brackets](brackets-4K.jpg)
 
 ![MWC 2014 7K brackets](brackets-7K.jpg)
 
 Participants
-============
+--------------
 
-## 4K Bracket
+### 4K Bracket
 
 | Country                                           | Members                                                                                                                                                       |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -98,7 +101,7 @@ Participants
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom     | **[Cozzzy](//osu.ppy.sh/u/2003917)**, [H A Y A B U S A](//osu.ppy.sh/u/3104108)                                                                               |
 | ![](/wiki/shared/flag/Us.gif) United States      | **[Ayaya](//osu.ppy.sh/u/3088679)**, [Zyph](//osu.ppy.sh/u/1600432), [Ziergdsx18](//osu.ppy.sh/u/869702), [RemiFlan](//osu.ppy.sh/u/3061151)                  |
 
-## 7K Bracket
+### 7K Bracket
 
 | Country                                           | Members                                                                                                                                                    |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -124,9 +127,9 @@ Participants
 | ![](/wiki/shared/flag/Us.gif) United States      | **[October Scream](//osu.ppy.sh/u/2812237)**, [Squishykorean](//osu.ppy.sh/u/4372604), [Blocko](//osu.ppy.sh/u/4075092)                                    |
 
 Groups
-======
+----------
 
-## 4K Bracket
+### 4K Bracket
 
 | Group A                                     | Group B                                        | Group C                                            | Group D                                |
 |---------------------------------------------|------------------------------------------------|----------------------------------------------------|----------------------------------------|
@@ -136,7 +139,7 @@ Groups
 | ![](/wiki/shared/flag/Ph.gif)  Philippines | ![](/wiki/shared/flag/Us.gif)  United States  | ![](/wiki/shared/flag/Gb.gif)  United Kingdom     | ![](/wiki/shared/flag/No.gif)  Norway |
 | ![](/wiki/shared/flag/De.gif)  Germany     | ![](/wiki/shared/flag/Kr.gif)  South Korea    | ![](/wiki/shared/flag/My.gif)  Malaysia           | ![](/wiki/shared/flag/Fr.gif)  France |
 
-## 7K Bracket
+### 7K Bracket
 
 | Group A                                       | Group B                                            | Group C                                   | Group D                                        |
 |-----------------------------------------------|----------------------------------------------------|-------------------------------------------|------------------------------------------------|
@@ -149,10 +152,9 @@ Groups
 ------------------------------------------------------------------------
 
 4K Mappools
-===========
+----------------
 
-Finals
-------
+### Finals
 
 | FreeMod                                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------|
@@ -174,8 +176,7 @@ Finals
 |------------------------------------------------------------------------------------|
 | [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](//osu.ppy.sh/b/473228) |
 
-Semi-finals
------------
+### Semi-finals
 
 | FreeMod                                                                                           |
 |---------------------------------------------------------------------------------------------------|
@@ -197,8 +198,7 @@ Semi-finals
 |--------------------------------------------------------------------------------------------------|
 | [DJ Sharpnel - Over the Fullereneshift (Fullerene-) \[Komm, susser Tod\]](//osu.ppy.sh/b/450928) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 | FreeMod                                                                                               |
 |-------------------------------------------------------------------------------------------------------|
@@ -218,8 +218,7 @@ Quarter-finals
 |------------------------------------------------------------------------------------------------------|
 | [senya - Melody Blooming in the Earth(Nurarihyon REMIX) (ecafree2) \[4K SC\]](//osu.ppy.sh/b/331091) |
 
-Round 16
---------
+### Round 16
 
 | FreeMod                                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------|
@@ -239,8 +238,7 @@ Round 16
 |-------------------------------------------------------------------------------------|
 | [Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](//osu.ppy.sh/b/400353) |
 
-Group Stage
------------
+### Group Stage
 
 | FreeMod                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------|
@@ -259,10 +257,9 @@ Group Stage
 | [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](//osu.ppy.sh/b/407642) |
 
 7K Mappools
-===========
+--------------
 
-Finals
-------
+### Finals
 
 | FreeMod                                                                                                       |
 |---------------------------------------------------------------------------------------------------------------|
@@ -284,8 +281,7 @@ Finals
 |--------------------------------------------------------------------|
 | [xi - Ascension to Heaven (CLSW) \[L'SHD\]](//osu.ppy.sh/b/449528) |
 
-Semi-finals
------------
+### Semi-finals
 
 | FreeMod                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------|
@@ -307,8 +303,7 @@ Semi-finals
 |-------------------------------------------------------------------------------------------|
 | [Aya Hirano - God Knows (Eurobeat Remix) (ishimaru94) \[Insane+\]](//osu.ppy.sh/b/198272) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 | FreeMod                                                                                         |
 |-------------------------------------------------------------------------------------------------|
@@ -328,8 +323,7 @@ Quarter-finals
 |----------------------------------------------------------------------------------------------|
 | [anubasu-anubasu - Nemesis (pi/3's Remix) (Sp3ct3r\_2k11) \[Insane\]](//osu.ppy.sh/b/395545) |
 
-Round 16
---------
+### Round 16
 
 | FreeMod                                                                                              |
 |------------------------------------------------------------------------------------------------------|
@@ -349,8 +343,7 @@ Round 16
 |------------------------------------------------------------|
 | [ensou - COMA (Paulmrm) \[Insane\]](//osu.ppy.sh/b/459425) |
 
-Group Stage
------------
+### Group Stage
 
 | FreeMod                                                                                           |
 |---------------------------------------------------------------------------------------------------|
@@ -371,26 +364,23 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results: 4K
-=================
+------------------
 
-Finals
-------
+### Finals
 
 | Team A                                     | Score          | Team B                                         | History                       |
 |:-------------------------------------------|:--------------:|-----------------------------------------------:|-------------------------------|
 | ![](/wiki/shared/flag/Pl.gif) Poland      | 0      - **6** | **Malaysia** ![](/wiki/shared/flag/My.gif)    | [#1](//osu.ppy.sh/mp/9193332) |
 | ![](/wiki/shared/flag/Ph.gif) Philippines | 0      - **6** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/9194419) |
 
-Semi-finals
------------
+### Semi-finals
 
 | Team A                                         | Score          | Team B                                         | History                       |
 |:-----------------------------------------------|:--------------:|-----------------------------------------------:|-------------------------------|
 | ![](/wiki/shared/flag/Ph.gif) **Philippines** | **6**  - 0     | Poland ![](/wiki/shared/flag/Pl.gif)          | [#1](//osu.ppy.sh/mp/9049440) |
 | ![](/wiki/shared/flag/My.gif) Malaysia        | 0      - **6** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/9050433) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 | Team A                                         | Score          | Team B                                         | History                       |
 |:-----------------------------------------------|:--------------:|-----------------------------------------------:|-------------------------------|
@@ -399,8 +389,7 @@ Quarter-finals
 | ![](/wiki/shared/flag/Fr.gif) France          | 0      - **5** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/8906666) |
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom  | 3      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)      | [#1](//osu.ppy.sh/mp/8908074) |
 
-Round of 16
------------
+### Round of 16
 
 | Team A                                            | Score          | Team B                                            | History                       |
 |:--------------------------------------------------|:--------------:|--------------------------------------------------:|-------------------------------|
@@ -413,8 +402,7 @@ Round of 16
 | ![](/wiki/shared/flag/De.gif) Germany            | 1      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](//osu.ppy.sh/mp/8751265) |
 | ![](/wiki/shared/flag/Fr.gif) **France**         | **5**  - 0     | Argentina ![](/wiki/shared/flag/Ar.gif)          | [#1](//osu.ppy.sh/mp/8752601) |
 
-Group Stage
------------
+### Group Stage
 
 | Team A                                                | Score          | Team B                                            | History                       |
 |:------------------------------------------------------|:--------------:|--------------------------------------------------:|-------------------------------|
@@ -460,26 +448,23 @@ Group Stage
 | ![](/wiki/shared/flag/Pl.gif) **Poland**             | **4**  - 2     | France ![](/wiki/shared/flag/Fr.gif)             | [#1](//osu.ppy.sh/mp/8459894) |
 
 Match Results: 7K
-=================
+--------------------
 
-Finals
-------
+### Finals
 
 | Team A                                      | Score          | Team B                                         | History                       |
 |:--------------------------------------------|:--------------:|-----------------------------------------------:|-------------------------------|
 | ![](/wiki/shared/flag/My.gif) **Malaysia** | **6**  - 1     | Japan ![](/wiki/shared/flag/Jp.gif)           | [#1](//osu.ppy.sh/mp/9195322) |
 | ![](/wiki/shared/flag/Th.gif) Thailand     | 2      - **6** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/9196502) |
 
-Semi-finals
------------
+### Semi-finals
 
 | Team A                                  | Score          | Team B                                         | History                       |
 |:----------------------------------------|:--------------:|-----------------------------------------------:|-------------------------------|
 | ![](/wiki/shared/flag/Jp.gif) Japan    | 0      - **6** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/9047313) |
 | ![](/wiki/shared/flag/My.gif) Malaysia | 3      - **6** | **Thailand** ![](/wiki/shared/flag/Th.gif)    | [#1](//osu.ppy.sh/mp/9048167) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 | Team A                                         | Score          | Team B                                       | History                       |
 |:-----------------------------------------------|:--------------:|---------------------------------------------:|-------------------------------|
@@ -488,8 +473,7 @@ Quarter-finals
 | ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 0      - **5** | **Thailand** ![](/wiki/shared/flag/Th.gif)  | Win by default                |
 | ![](/wiki/shared/flag/My.gif) **Malaysia**    | **5**  - 0     | Chile ![](/wiki/shared/flag/Cl.gif)         | [#1](//osu.ppy.sh/mp/8936545) |
 
-Round of 16
------------
+### Round of 16
 
 | Team A                                           | Score          | Team B                                            | History                       |
 |:-------------------------------------------------|:--------------:|--------------------------------------------------:|-------------------------------|
@@ -502,8 +486,7 @@ Round of 16
 | ![](/wiki/shared/flag/Cl.gif) **Chile**         | **5**  - 0     | Poland ![](/wiki/shared/flag/Pl.gif)             | [#1](//osu.ppy.sh/mp/8777543) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5**  - 4     | United Kingdom ![](/wiki/shared/flag/Gb.gif)     | [#1](//osu.ppy.sh/mp/8778916) |
 
-Group Stage
------------
+### Group Stage
 
 | Team A                                            | Score         | Team B                                            | History                       |
 |:--------------------------------------------------|:-------------:|--------------------------------------------------:|-------------------------------|
@@ -543,10 +526,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+---------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu!mania World Cup is a country-based 2v2 team tournament, separated in a 7-keys bracket and a 4-keys bracket
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
@@ -557,7 +539,7 @@ Tournament Rules
 5.  Failed player's score do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -570,8 +552,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Your team needs **at least 2 players** to participate.
     1.  The maximum team size is 4.
@@ -594,16 +575,15 @@ Tournament Registration
 
 7.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 4 teams of each group will move on to the Knock-Out Stages.
@@ -613,8 +593,7 @@ Stage instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -628,8 +607,7 @@ Match Instructions
 
 4.  Results will be published on the wiki and via the Statistics website.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals for each bracket.
 2.  The mappools for the 4-keys and 7-keys bracket are separated.
@@ -643,8 +621,7 @@ Mappool Instructions
     -   11 in Round 16 & Quarter-finals
     -   13 in Semi-finals & Finals
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -653,4 +630,4 @@ Scheduling instructions
 5.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3rd Aug for Group Stage (4K)). Tournament Management will try to create the schedule to respect the participant's time zone.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu!mania Tournaments](Category:osu!mania_Tournaments "wikilink") [Category:osu!mania World Cup](Category:osu!mania_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu!mania Tournaments><Category:osu!mania World Cup>

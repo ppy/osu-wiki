@@ -1,9 +1,12 @@
+osu! World Cup 2015
+===================
+
 ![OWC 2015 logo](logo.jpg)
 
 **osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](//osu.ppy.sh/g/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
 
 比赛日程
-========
+---------
 
 | Event  | Timestamp                  |
 |--------|----------------------------|
@@ -17,9 +20,9 @@
 | 决赛第二周  | 12-13日 十二月 2015年           |
 
 奖项
-====
+-------
 
-我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](//store.ppy.sh/store/product/38)**来支持它。
+我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](//store.ppy.sh/store/product/38)** 来支持它。
 
 | Placing                                                    | Prizes                                      |
 |------------------------------------------------------------|---------------------------------------------|
@@ -28,7 +31,7 @@
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% 奖池l, profile badge                      |
 
 比赛组织
-========
+----------
 
 | Job          | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +44,7 @@
 ------------------------------------------------------------------------
 
 链接
-====
+------
 
 -   [osu! World Cup 2015 在 Twitch 上的直播](//www.twitch.tv/osulive/)
 -   [讨论页](//osu.ppy.sh/forum/p/4550383)
@@ -60,7 +63,7 @@
 ------------------------------------------------------------------------
 
 参加者
-======
+-----
 
 | Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
 |---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
@@ -76,10 +79,9 @@
 ------------------------------------------------------------------------
 
 图池
-====
+--------
 
-决赛
-----
+### 决赛
 
 **这个图池将会被用于决赛第一周和第二周。**
 
@@ -122,8 +124,7 @@
 |----------------------------------------------------------------------------------------|
 | [gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](//osu.ppy.sh/b/633993) |
 
-半决赛
-------
+### 半决赛
 
 **[在这里下载图包](//www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
 
@@ -164,8 +165,7 @@
 |------------------------------------------------------------------------------|
 | [Ohka - Nanairo Anniversary (Rizia) \[Kaleidoscope\]](//osu.ppy.sh/b/541044) |
 
-四分之一决赛
-------------
+### 四分之一决赛
 
 **[在这里下载图包](//www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
@@ -206,8 +206,7 @@
 |---------------------------------------------------------------------------------------------|
 | [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](//osu.ppy.sh/b/550235) |
 
-十六强
-------
+### 十六强
 
 **[在这里下载图包](//www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
@@ -248,8 +247,7 @@
 |------------------------------------------------------------------------------------------------------------------|
 | [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](//osu.ppy.sh/b/734339) |
 
-小组赛
-------
+### 小组赛
 
 **[在这里下载图包](//www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
@@ -293,10 +291,9 @@
 ------------------------------------------------------------------------
 
 比赛结果
-========
+---------
 
-总决赛
-------
+### 总决赛
 
 **星期日 13日 十二月 2015年**
 
@@ -305,8 +302,7 @@
 | ![](/wiki/shared/flag/Cn.gif) China             | 2       - **7** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/20910697) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **7**   - 6     | China ![](/wiki/shared/flag/Cn.gif)             | [#1](//osu.ppy.sh/mp/20912739) |
 
-决赛第一周
-----------
+### 决赛第一周
 
 **星期六 5日 十二月 2015年**
 
@@ -323,8 +319,7 @@
 |:-------------------------------------------------|:----------:|--------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Us.gif) **United States** | **6**  - 3 | Poland ![](/wiki/shared/flag/Pl.gif) | [#1](//osu.ppy.sh/mp/20762171) |
 
-半决赛
-------
+### 半决赛
 
 **星期六 28日 十一月 2015年**
 
@@ -344,8 +339,7 @@
 |:---------------------------------------|:--------------:|---------------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/At.gif) Austria | 4      - **6** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif) | [#1](//osu.ppy.sh/mp/20591359) |
 
-四分之一决赛
-------------
+### 四分之一决赛
 
 **星期六 21日 十一月 2015年**
 
@@ -365,8 +359,7 @@
 | ![](/wiki/shared/flag/De.gif) **Germany**     | **5**  - 1     | Finland ![](/wiki/shared/flag/Fi.gif)      | [#1](//osu.ppy.sh/mp/20430864) |
 | ![](/wiki/shared/flag/Pl.gif) **Poland**      | **5**  - 0     | Austria ![](/wiki/shared/flag/At.gif)      | [#1](//osu.ppy.sh/mp/20432995) |
 
-十六强
-------
+### 十六强
 
 **星期日 15日 十一月2015 年**
 
@@ -381,8 +374,7 @@
 | ![](/wiki/shared/flag/No.gif) Norway            | 0      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)      | [#1](//osu.ppy.sh/mp/20285332) |
 | ![](/wiki/shared/flag/Ca.gif) Canada            | 1      - **5** | **Brazil** ![](/wiki/shared/flag/Br.gif)      | [#1](//osu.ppy.sh/mp/20287601) |
 
-小组赛
-------
+### 小组赛
 
 **星期六 8日 十一月 2015年**
 
@@ -445,13 +437,12 @@
 ------------------------------------------------------------------------
 
 规则
-====
+-------
 
-竞赛规则
---------
+### 竞赛规则
 
 1.  osu! World Cup 是一个基于国家的4v4比赛。
-2.  使用新的 **[Score V2](//osu.ppy.sh/forum/t/375428)**计分。
+2.  使用新的 **[Score V2](//osu.ppy.sh/forum/t/375428)** 计分。
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 
@@ -460,7 +451,7 @@
 6.  Failed player's score do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-7.  Use of the [Visual Settings](ZH:Game_Modifiers#Visual_Settings "wikilink") options are allowed.
+7.  Use of the [Visual Settings](/wiki/Game_Modifiers/zh.md) options are allowed.
 8.  If the beatmap ends in a draw, the game will be nullified.
 9.  If a player disconnects, they get treated as if they failed the beatmap.
     1.  Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -473,7 +464,7 @@
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](ZH:Rules "wikilink"). All chat rules apply to the multiplayer chatrooms, too.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules/zh.md). All chat rules apply to the multiplayer chatrooms, too.
     1.  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -487,8 +478,7 @@
 
 22. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -498,22 +488,21 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](ZH:Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/zh.md) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Rejected players may appeal this decision by contacting tournaments@ppy.sh.
 5.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
@@ -534,8 +523,7 @@ Stage instructions
     -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
     -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players will be gathered during this period.
     1.  Room settings are osu!, Team-Vs., Win Condition: 'Score V2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
@@ -555,8 +543,7 @@ Match Instructions
 
 7.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round pf 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
@@ -576,8 +563,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -588,4 +574,4 @@ Scheduling instructions
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments/ZH> [Category:Official Tournaments/ZH](Category:Official_Tournaments/ZH "wikilink") [Category:osu! Standard Tournaments/ZH](Category:osu!_Standard_Tournaments/ZH "wikilink") [Category:osu! World Cup/ZH](Category:osu!_World_Cup/ZH "wikilink")
+<Category:Tournaments/ZH><Category:Official Tournaments/ZH><Category:osu! Standard Tournaments/ZH><Category:osu! World Cup/ZH>

@@ -1,7 +1,10 @@
-Einführung
-==========
+osu!academy
+===============
 
-<img src="Osu!academy base.png" title="fig:osu! academys Logo" alt="osu! academys Logo" width="300"/>
+Einführung
+------------
+
+![osu!academy's logo](/wiki/Announcements/osu!academy/img/Osu!academy_base.png "osu!academy's logo")
 
 Quelle: [//news.ppy.sh/post/70504430082/introducing-the-osu-academy](//news.ppy.sh/post/70504430082/introducing-the-osu-academy)
 - Offizielles Youtube Kanal: [//www.youtube.com/user/osuacademy/videos](//www.youtube.com/user/osuacademy/videos)
@@ -12,9 +15,9 @@ Wir hoffen dadurch, dass die neuen Spieler diese Videos informativ finden und ih
 [Jetzt sogar mit einem Trailer](//www.youtube.com/watch?v=z5gy34k3RI0&amp;feature=c4-overview&amp;list=UUMeRgqzTfC5ja40B6kM6pdg).
 
 Episoden
-========
+---------
 
-| \#  | Episoden (alle auf Englisch)                                                                                       |
+| # | Episoden (alle auf Englisch)                                                                                       |
 |-----|--------------------------------------------------------------------------------------------------------------------|
 | 1   | [Installation/Account-Erstellung (4:51)](//www.youtube.com/watch?v=mOl2QgJ13OQ)                                    |
 | 2   | [Standard Gameplay/Einstellungen bearbeiten (4:39)](//www.youtube.com/watch?v=CLDMuyNZj3M)                         |
@@ -51,4 +54,5 @@ Episoden
 | 30  | [Grundlagen fürs Storyboard 2 (1:58)](//www.youtube.com/watch?v=EvICgPuOylk)                                       |
 | 31  | [Gast Mapping und Limitierung an der Anteilnahme (3:21)](//www.youtube.com/watch?v=s2ZK4o8V5tI)                    |
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+
+<Category: Deutsch>

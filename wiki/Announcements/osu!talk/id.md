@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="osu!talk logo" alt="osu!talk logo" width="300" />
+osu!talk
+=========
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Pengenalan
-==========
+-----------
 
-Kanal Youtube resmi: <http://www.youtube.com/user/osuacademy/videos>
-Forum resmi: <http://osu.ppy.sh/forum/t/225111>
+Kanal Youtube resmi: http://www.youtube.com/user/osuacademy/videos
+Forum resmi: http://osu.ppy.sh/forum/t/225111
 **osu!talk** adalah sebuah serial program rekaman yang diselenggarakan oleh [ztrot](http://osu.ppy.sh/u/ztrot), bersama dengan [deadbeat](http://osu.ppy.sh/u/deadbeat) yang berperan sebagai co-host. Serial ini berfokus pada kegiatan mewawancarai banyak orang dari berbagai tempat di komunitas osu!. Meski begitu, terkadang kami juga mengadakan diskusi grup mengenai berbagai hal yang berbeda yang terjadi di sekitar komunitas seperti perubahan-perubahan yang terjadi pada jajaran staff, atau isu-isu berkepanjangan yang sering sekali dibahas seperti isu mengenai overmapping. Program rekaman ini telah diatur sehingga siapapun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](http://en.wikipedia.org/wiki/Q%26A) publik berlangsung pada episode tersebut. Kesemua ini tidak disiarkan secara langsung dimana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan mengambil bagian mereka sendiri.
 
 Episode
-=======
+---------
 
 | EP\#  | Orang yang diwawancarai                                  | Profesi                          | [Tautan]                                                        |
 |-------|----------------------------------------------------------|----------------------------------|-----------------------------------------------------------------|
@@ -55,8 +58,9 @@ Episode
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                 | [Tautan](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Tautan](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
+
 Diskusi
-=======
+----------
 
 | EP\# | Topik                                     | Orang yang diwawancara                                                                                                                                                                                                      | [Tautan]                                        |
 |------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -73,8 +77,9 @@ Diskusi
 | #11  | Diskusi mengenai Catch the Beat           | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Tautan](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | Diskusi mengenai osu!idol                 | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara](//osu.ppy.sh/u/444868)                                                                          | [Tautan](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
+
 Rekapitulasi World Cup
-======================
+-----------------------
 
 ### Taiko World Cup 2015
 
@@ -86,6 +91,7 @@ Rekapitulasi World Cup
 | Semi Finals    | deadbeat, FLANKs, Two Fruit Cakes and ztrot | [Tautan](http://www.youtube.com/watch?v=ALMrQ0GUmhY) |
 | Finals         | _Gezo_, deadbeat, Tasha, and tiamus         | [Tautan](http://www.youtube.com/watch?v=iTOig6vSS28) |
 
+
 ### Catch the Beat World Cup 2015
 
 | Tipe           | Interviewés               | [Tautan]                                             |
@@ -94,8 +100,9 @@ Rekapitulasi World Cup
 | Quarter Finals | deadbeat, Tasha and ztrot | [Tautan](http://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals    | deadbeat, Tasha and ztrot | [Tautan](http://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
+
 Spesial
-=======
+---------
 
 | EP\# | Acara                      | Orang yang diwawancara                                                                                                                                                   | [Tautan]                                        |
 |------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -105,4 +112,4 @@ Spesial
 | #4   | Welcome back               | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Tautan](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A    | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Tautan](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-[Category:History of osu!/ID](Category:History_of_osu!/ID "wikilink")
+<Category:History of osu!/ID>

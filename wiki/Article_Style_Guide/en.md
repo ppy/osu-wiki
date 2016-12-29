@@ -1,3 +1,8 @@
+Article Style Guide
+===================
+
+**Outdated**
+
 This article aims to provide a comprehensive style guide for all osu!wiki articles to follow. Although Wikipedia already provides a more general [style guide](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style), a more specific one is necessary for *osu!* specific guidelines. As such, only guidelines pertaining to the osu!wiki and its basic formatting rules should be included here.
 
 Notability
@@ -5,21 +10,21 @@ Notability
 
 Articles are only allowed in the main namespace if they fit the following criteria. Articles which do not fit the criteria may be deleted without notice.
 
-General  
+### General  
 
 1.  Articles must contain enough information to warrant a full page. If they do not have enough content, they should be merged with other similar articles.
 2.  Articles must pertain directly to *osu!* in some way.
-3.  Articles about people are only allowed if the person in question is a developer of *osu!* and/or either a part of or closely related to [osu!](osu! "wikilink").
-    1.  Notable people should be listed in the [List of Notable People](List_of_Notable_People "wikilink") page.
+3.  Articles about people are only allowed if the person in question is a developer of *osu!* and/or either a part of or closely related to [osu!](/wiki/Glossary/en.md).
+    1.  Notable people should be listed in the [List of Notable People](#) page.
 
 4.  Features that are not currently in the game should avoid having their own article.
     1.  This excludes features which have been removed and April Fool's day features, which may be noted in articles affected by them.
 
-Community  
+### Community  
 
-1.  Gameplay strategies, guides, how-tos, etc., should be subarticles of [Guides](Guides "wikilink").
+1.  Gameplay strategies, guides, how-tos, etc., should be subarticles of [Guides](/wiki/List_of_Guides/en.md).
 
-Wiki Rules  
+### Wiki Rules  
 
 1.  Parody, comedic, nonsense, hoax, and speculation articles, or any other article that could mislead players are not allowed to be created.
 2.  Articles created for the purpose of advertising are not allowed.
@@ -31,15 +36,15 @@ Articles in the "User:" namespace are exempt from the notability guidelines. The
 
 Redirects are exempt from the normal notability, but must redirect to an article that fits the notability guidelines. If a redirect leads to another wiki. Redirects can be created if they fit one of the following:
 
-1.  Alternate spelling of the title, such as "[Combo color](Combo_color "wikilink")" for "[Combo colour](Combo_colour "wikilink")".
+1.  Alternate spelling of the title, such as "Combo color" for "Combo colour".
     1.  Incorrect spelling, typos, and irregular formatting are not allowed.
 
-2.  Alternate or shortened name, provided the name is common usage, such as "[CtB](CtB "wikilink")" for "[Catch the Beat](Catch_the_Beat "wikilink")".
+2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Catch_the_Beat/en.md)".
 3.  Previous article title.
     1.  An exception is if the previous title was not commonly used.
 
 4.  Alternate capitalisation or form, including changing the title to plural case.
-5.  A part of a merged or multi-topic article, such as a [Double Time](Double_Time "wikilink") for [Game Modifiers](Game_Modifiers "wikilink").
+5.  A part of a merged or multi-topic article, such as a "Double Time" for [Game Modifiers](/wiki/Game_Modifiers/en.md).
 
 Redirects in the user namespace may lead anywhere, except to an article that does not exist or another redirect.
 
@@ -47,8 +52,8 @@ Article titles
 --------------
 
 1.  Titles are to be written in sentence case. The first letter of a title must always be capitalised except in cases which are dully justified. Otherwise, words are to be capitalised only if they would be in running text.
-    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](osu!mania "wikilink"). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
-        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania` `(Language` `Name)}}`. For example, the [French osu!mania](FR:Osu!mania "wikilink") article should use `{{DISPLAYTITLE:osu!mania` `(Français)}}`
+    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Osu!mania/en.md). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
+        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Osu!mania/fr.md) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
 
 2.  Article titles should be in the singular form to maintain consistency. *e.g.* Beatmap and not Beatmaps.
 3.  It is unnecessary to include an acronym or an abbreviation in addition to the name in a title. *e.g.* Double Time (DT).
@@ -77,21 +82,23 @@ Pages on the wiki should only use *British English* as a matter of consistency. 
 
 2.  In-game terms should be treated as common nouns and as such *should not* be capitalised. Proper nouns, however, such as the different game mode names (Standard, Taiko, Catch the Beat and Mania) or the mascots' names (Pippi, Yuzu, Maria) *should* always be capitalised.
 
-Game modes  
+#### Game modes  
 
 The name of game modes should always be capitalised unless if it is following the exclamation mark without a blank space of the name *osu!*.
 
 Example:
 
+
 *osu!mania is a game mode that has been introduced years later the original game mode that is osu! Standard.*
 
 <!-- -->
 
-Game Modifiers  
+#### Game Modifiers  
 
 Game modifiers as well as their abbreviations *should* always be capitalised.
 
 Examples:
+
 
 *In Taiko mode, Hard Rock increases Slider Velocity as well as Overall Difficulty.*
 
@@ -99,21 +106,23 @@ Examples:
 
 <!-- -->
 
-Difficulty Settings  
+#### Difficulty Settings  
 
 The different difficulty settings of a beatmap as well as their abbreviations *should* always be capitalised.
 
 Example:
 
+
 *Circle Size, known as "CS" in Edit's song selection, determines the size of circles and sliders*
 
 <!-- -->
 
-Gameplay Elements  
+#### Gameplay Elements  
 
 Gameplay elements should *never* be be capitalised.
 
 Example:
+
 
 *In osu! Standard, beatmaps are composed of three different gameplay elements: circles, sliders and spinners.*
 
@@ -180,5 +189,4 @@ Linking to a redirect is preferred over using a piped link except in templates a
 
 1.  To avoid having dates using different formats, dates should be written in "DD, Month, YYYY" format, *e.g.* "10 December 2011".
 2.  Do not use superscripts or suffixes such as "23<sup>rd</sup> April" or "4th of May".
-3.  If a numeric or terse date is needed (such as in a table), then use YYYY-MM-DD, always with 2 digits for month and day (*e.g.*, 2011-12-10 or 2012-05-04). Besides being the [ISO standard](wikipedia:ISO_8601 "wikilink"), dates in this format will naturally sort properly, say if the table column is later made sortable.
-
+3.  If a numeric or terse date is needed (such as in a table), then use YYYY-MM-DD, always with 2 digits for month and day (*e.g.*, 2011-12-10 or 2012-05-04). Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.

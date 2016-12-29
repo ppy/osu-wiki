@@ -1,9 +1,12 @@
+osu! Catch the Beat World Cup 2015
+==================================
+
 ![CWC 2015 logo](logo.png)
 
-The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](../../../../People/The-Team/en.md). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
+The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
 
 Tournament schedule
-===================
+------------------------
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -17,7 +20,7 @@ Tournament schedule
 | Finals - Week 2    | 13-14 Jun 2015           |
 
 Prizes
-======
+---------
 
 | Place                                                      | Prize(s)                                                                          |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -26,7 +29,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag, profile badge                                              |
 
 Organization
-============
+-------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +42,7 @@ Organization
 ------------------------------------------------------------------------
 
 Participants
-============
+--------------
 
 | Flag                           | Country     | Group A Members                                                                                                                                                                                                                  |
 |--------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -68,6 +71,7 @@ Participants
 | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **[MeGl](//osu.ppy.sh/u/1126814)**, [VagaNNN](//osu.ppy.sh/u/1260040), [Zlocktar](//osu.ppy.sh/u/2882387), [spider_yoba](//osu.ppy.sh/u/1912659), [MayFlit](//osu.ppy.sh/u/1651627)                                          |
 | ![](/wiki/shared/flag/Sg.gif) | Singapore          | **[He Ang Erika](//osu.ppy.sh/u/2451381)**, [Mung](//osu.ppy.sh/u/1018228), [geraldwch](//osu.ppy.sh/u/2923441), [chibipingers](//osu.ppy.sh/u/1756003), [Accel](//osu.ppy.sh/u/1169796), [Kagayane](//osu.ppy.sh/u/1777691) |
 | ![](/wiki/shared/flag/Pl.gif) | Poland             | **[WujekGrzyb](//osu.ppy.sh/u/258289)**, [Sawa88](//osu.ppy.sh/u/993495), [wampir](//osu.ppy.sh/u/261497), [Krzysiek](//osu.ppy.sh/u/294277), [Kosmit](//osu.ppy.sh/u/1749173), [Hirikoshi](//osu.ppy.sh/u/2114149)          |
+
 
 | Flag                           | Country   | Group E Members                                                                                                                                                                                                                   |
 |--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -100,7 +104,7 @@ Participants
 ------------------------------------------------------------------------
 
 Links
-=====
+---------
 
 -   [Discussion thread](//osu.ppy.sh/forum/t/316279)
 -   **[Group Stage Statistics](//owc.nicarim.pw/results/view/5)**
@@ -116,10 +120,9 @@ Links
 ------------------------------------------------------------------------
 
 Mappools
-========
+-----------
 
-Finals
-------
+### Finals
 
 **This mappool will be used on Finals Week 1 & Week 2**
 
@@ -159,8 +162,7 @@ Finals
 |----------------------------------------------------------------------|
 | [onoken - P8107 (CLSW) \[Nervous Breakdown\]](//osu.ppy.sh/b/686192) |
 
-Semi-finals
------------
+### Semi-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar)**
 
@@ -198,8 +200,7 @@ Semi-finals
 |-------------------------------------------------------|
 | [ICE - L (Deif) \[Ascension\]](//osu.ppy.sh/b/465454) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar)**
 
@@ -237,8 +238,7 @@ Quarter-finals
 |---------------------------------------------------------------------------------|
 | [Hatsuki Yura - Yoiyami Hanabi (Spectator) \[Twilight\]](//osu.ppy.sh/b/456933) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the mappack here!](//www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
 
@@ -276,8 +276,8 @@ Round of 16
 |-------------------------------------------------------------------------|
 | [Saiya - Remote Control (CLSW) \[Crystal Spec\]](//osu.ppy.sh/b/423373) |
 
-Group Stage
------------
+### Group Stage
+
 
 **[Download the mappack here!](//www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
 
@@ -318,10 +318,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
+-------------
 
-Grand Finals
-------------
+### Grand Finals
 
 Sunday, 14\. June 2015
 
@@ -329,8 +328,7 @@ Sunday, 14\. June 2015
 |:-----------------------------------------------|:---------:|-------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Kr.gif) **South Korea** | **6** - 2 | China ![](/wiki/shared/flag/Cn.gif) | [#1](//osu.ppy.sh/mp/16799312) |
 
-Finals: Week 1
---------------
+### Finals: Week 1
 
 Saturday, 6\. June 2015
 
@@ -347,8 +345,7 @@ Sunday, 7\. June 2015
 |:-----------------------------------------|:---------:|---------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Cn.gif) **China** | **6** - 1 | Germany ![](/wiki/shared/flag/De.gif) | [#1](//osu.ppy.sh/mp/16644793) |
 
-Semi-finals
------------
+### Semi-finals
 
 Saturday, 30\. May 2015
 
@@ -368,8 +365,7 @@ Sunday, 31\. May 2015
 | ![](/wiki/shared/flag/De.gif) **Germany** | **6** - 0 | Taiwan ![](/wiki/shared/flag/Tw.gif)      | - Win by default -             |
 | ![](/wiki/shared/flag/My.gif) Malaysia    | 1 - **6** | Chile ![](/wiki/shared/flag/Cl.gif)       | [#1](//osu.ppy.sh/mp/16493275) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 Saturday, 23\. May 2015
 
@@ -389,8 +385,7 @@ Sunday, 24\. May 2015
 | ![](/wiki/shared/flag/Fr.gif) France          | 3 - **5** | **Indonesia** ![](/wiki/shared/flag/Id.gif) | [#1](//osu.ppy.sh/mp/16337429) |
 | ![](/wiki/shared/flag/Cl.gif) Chile           | 2 - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](//osu.ppy.sh/mp/16338988) |
 
-Round of 16
------------
+### Round of 16
 
 Saturday, 16\. May 2015
 
@@ -405,8 +400,7 @@ Saturday, 16\. May 2015
 | ![](/wiki/shared/flag/De.gif) **Germany**            | **5** - 1 | United States ![](/wiki/shared/flag/Us.gif)     | [#1](//osu.ppy.sh/mp/16164371) |
 | ![](/wiki/shared/flag/Ar.gif) Argentina              | 0 - **5** | **Chile** ![](/wiki/shared/flag/Cl.gif)         | [#1](//osu.ppy.sh/mp/16166132) |
 
-Group Stage
------------
+### Group Stage
 
 Saturday, 9\. May 2015
 
@@ -469,22 +463,21 @@ Sunday, 10\. May 2015
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+---------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! Catch the Beat World Cup is a country-based team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink") and [DoubleTime](DT "wikilink") bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md) bracket.
 
 3.  Match schedule will be settled by the Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -495,8 +488,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the Tournament Management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -506,7 +498,7 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
 
 3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “CWC Registration”.
     1.  You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
@@ -514,8 +506,7 @@ Tournament Registration
 4.  All successfully formed teams will be published after the Registration Phase.
 5.  Mapset selectors may not participate as a player in this tournament.
 
-Stage Instructions
-------------------
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     1.  This may change according to the final amount of formed teams.
@@ -523,9 +514,9 @@ Stage Instructions
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
@@ -547,8 +538,7 @@ Stage Instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  Room settings are Catch the Beat, Team-Vs., Win Condition: 'Score'. Room name must be "CWC 2015: TeamBlue vs TeamRed".
@@ -568,13 +558,12 @@ Match Instructions
 
 7.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
 
-2.  Each mappool consists of 4 brackets: NoMod, [Hidden](Hidden "wikilink"), [HardRock](HardRock "wikilink") and [DoubleTime](DoubleTime "wikilink")
+2.  Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md)
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.
@@ -587,8 +576,7 @@ Mappool Instructions
 8.  The size of the NoMod bracket will be 6 in all stages.
 9.  The size of the mod-specific brackets will be 4 in all stages.
 
-Scheduling Instructions
------------------------
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -596,4 +584,4 @@ Scheduling Instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:Catch the Beat Tournaments](Category:Catch_the_Beat_Tournaments "wikilink") [Category:Catch the Beat World Cup](Category:Catch_the_Beat_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:Catch the Beat Tournaments><Category:Catch the Beat World Cup>

@@ -1,9 +1,12 @@
+osu! World Cup 2015
+=====================
+
 ![OWC 2015 logo](logo.jpg)
 
 올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](//osu.ppy.sh/g/26)에 의해 개최되는 국가 대항 토너먼트입니다.
 
 토너먼트 일정
-=============
+-----------
 
 | Event       | Timestamp                  |
 |-------------|----------------------------|
@@ -17,9 +20,9 @@
 | 결승 - Week 2 | 2015년 12월 12일 - 13일        |
 
 상품
-====
+----
 
-저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](//store.ppy.sh/store/product/38)**를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
+저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](//store.ppy.sh/store/product/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
 
 | Placing                                                    | Prizes                                    |
 |------------------------------------------------------------|-------------------------------------------|
@@ -28,7 +31,7 @@
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 총 상금의 12%, 프로필 뱃지                         |
 
 주최자 구성
-===========
+----------
 
 | Job     | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +44,7 @@
 ------------------------------------------------------------------------
 
 링크
-====
+------
 
 -   [osu! World Cup 2015 트위치](//www.twitch.tv/osulive/)
 -   [논의 스레드](//osu.ppy.sh/forum/p/4550383)
@@ -56,7 +59,7 @@
 ------------------------------------------------------------------------
 
 참가자
-======
+-------
 
 | Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
 |---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
@@ -72,10 +75,9 @@
 ------------------------------------------------------------------------
 
 맵풀
-====
+-------
 
-8강
----
+### 8강
 
 **[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
@@ -116,8 +118,7 @@
 |---------------------------------------------------------------------------------------------|
 | [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](//osu.ppy.sh/b/550235) |
 
-16강
-----
+### 16강
 
 **[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
@@ -158,8 +159,7 @@
 |------------------------------------------------------------------------------------------------------------------|
 | [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](//osu.ppy.sh/b/734339) |
 
-그룹 스테이지
--------------
+### 그룹 스테이지
 
 **[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
@@ -203,10 +203,9 @@
 ------------------------------------------------------------------------
 
 경기 결과
-=========
+-------------
 
-16강
-----
+### 16강
 
 **2015년 11월 15일 일요일**
 
@@ -221,8 +220,7 @@
 | ![](/wiki/shared/flag/No.gif) Norway            | 0      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)      | [#1](//osu.ppy.sh/mp/20285332) |
 | ![](/wiki/shared/flag/Ca.gif) Canada            | 1      - **5** | **Brazil** ![](/wiki/shared/flag/Br.gif)      | [#1](//osu.ppy.sh/mp/20287601) |
 
-그룹 스테이지
--------------
+### 그룹 스테이지
 
 **2015년 11월 8일 토요일**
 
@@ -285,10 +283,9 @@
 ------------------------------------------------------------------------
 
 룰셋
-====
+-------
 
-토너먼트 규칙
--------------
+### 토너먼트 규칙
 
 1.  osu! World Cup은 국가 대항의 4:4 토너먼트입니다.
 2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](//osu.ppy.sh/forum/t/375428)**
@@ -300,7 +297,7 @@
 6.  페일한 플레이어의 점수는 그 플레이어의 팀의 점수에 포함되지 않습니다.
     -   플레이 중에 부활한다면, 패스한 것으로 간주합니다.
 
-7.  [Visual Settings](KO:Game_Modifiers#Visual_Settings "wikilink") 를 선택하는 것이 허용됩니다.
+7.  [Visual Settings](/wiki/Game_Modifiers/ko.md) 를 선택하는 것이 허용됩니다.
 8.  무승부일 경우 그 게임은 무효가 됩니다.
 9.  만약 플레이어의 연결이 끊기면, 페일한 것으로 간주됩니다.
     1.  경기가 시작된 지 30초 이내에 연결이 끊기면 리매치를 할 수 있지만, 이것은 심판의 판단에 따릅니다.
@@ -327,8 +324,7 @@
 
 22. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -338,22 +334,21 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](KO:Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/ko.md) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Rejected players may appeal this decision by contacting tournaments@ppy.sh.
 5.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
@@ -374,8 +369,7 @@ Stage instructions
     -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
     -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players will be gathered during this period.
     1.  Room settings are osu!, Team-Vs., Win Condition: 'Score V2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
@@ -395,8 +389,7 @@ Match Instructions
 
 7.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round pf 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
@@ -416,8 +409,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -428,4 +420,4 @@ Scheduling instructions
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments/KO> [Category:Official Tournaments/KO](Category:Official_Tournaments/KO "wikilink") [Category:osu! Standard Tournaments/KO](Category:osu!_Standard_Tournaments/KO "wikilink") [Category:osu! World Cup/KO](Category:osu!_World_Cup/KO "wikilink")
+<Category:Tournaments/KO><Category:Official Tournaments/KO><Category:osu! Standard Tournaments/KO><Category:osu! World Cup/KO>
