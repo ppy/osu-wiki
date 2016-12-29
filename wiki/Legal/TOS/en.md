@@ -2,6 +2,7 @@
 
 osu.ppy.sh is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 By visiting osu.ppy.sh and it's affiliates, and/or using osu.ppy.sh's services or any of it's affiliates' services you are acknowledging your full compliance to the terms and conditions listed here.
+
 As a condition of your use of this web site, you warrant to osu.ppy.sh that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 If you violate any of these Terms of Use, your permission to use the web site automatically terminates.
 
@@ -18,6 +19,7 @@ We assume no responsibility over whether users have the rights to distribute upl
 
 osu.ppy.sh may change the terms and conditions of the TOS from time to time.
 Your failure to abide by the modified STS may result in termination of your osu.ppy.sh Service.
+
 User's continued use of the Service constitutes: (1) an acknowledgment by User of the STS and its modifications; and (2) an agreement by User to abide and be bound by the TOS and its modifications.
 
 **3\. MODIFICATIONS TO SERVICE**
@@ -75,9 +77,13 @@ osu.ppy.sh's services are free of any charge, no prior registration is needed fo
 osu.ppy.sh will explicitly ask for information about you when such information is needed for use of the services provided by osu.ppy.sh.
 Any submission of any personal information is done only with your voluntary act (website), or automatically (game client software) where necessary to provide diagnostics and feedback.
 osu.ppy.sh keeps all private and personal information private, and does not, or will not share this information with any third parties except under the following circumstances :
+
 When such action is necessary to conform to legal requirements or comply with legal process.
+
 When such action is necessary to protect and defend rights or property of osu.ppy.sh.
+
 When such action is necessary to enforce osu.ppy.sh terms and conditions of service.
+
 osu.ppy.sh may use cookies as party of tracking process, but cookies will not be used to personally identify you without your prior consent.
 If the user decides to participate in the forum, with user's consent, a cookie will be issued to keep track of the username and password for the period of 1 year.
 
