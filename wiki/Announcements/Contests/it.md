@@ -1,30 +1,33 @@
+Contenuti
+============
+
 Contest Mensile Mapping
 -----------------------
 
-**Nota:**I vincitori di questo contest ottengono il titolo nel forum di "Elite Mapper" e la loro mappa verrà scaricata al primo avvio di osu! (insieme con [osu! tutorial](http://osu.ppy.sh/s/3756)) dentro all' [osu!installer](http://osu.ppy.sh/p/download) se non c'è alcuna nota che nega ciò.
+**Nota:** I vincitori di questo contest ottengono il titolo nel forum di "Elite Mapper" e la loro mappa verrà scaricata al primo avvio di osu! (insieme con [osu! tutorial](http://osu.ppy.sh/s/3756)) dentro all' [osu!installer](http://osu.ppy.sh/p/download) se non c'è alcuna nota che nega ciò.
 
 | Contest | Mappa                                                                                          | Mode                     | Creatore/i                            | Risultati                                                                         | Punteggi                                           |
 |---------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------|
-| #1      | [Rostik - Liquid (Paul Rosenthal Remix)](//osu.ppy.sh/s/123593)                                  | ![osu!standard](Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Risultati](//news.ppy.sh/post/64561724273/monthly-beatmapping-contest-1-results) | [Punteggi #1](//osu.ppy.sh/p/contestresults?c=7)    |
-| #2      | [cYsmix feat. Emmy - Tear Rain](//osu.ppy.sh/s/140662)                                           | ![osu!standard](Osu.gif) | [jonathanlfj](//osu.ppy.sh/u/270377) | [Risultati](//news.ppy.sh/post/72422807506/monthly-beatmapping-contest-2-results) | [Punteggi #2](//osu.ppy.sh/p/contestresults?c=8)    |
-| #3      | [Chasers - Lost](//osu.ppy.sh/s/151878)                                                          | ![osu!standard](Osu.gif) | [ktgster](//osu.ppy.sh/u/53378)      | [Risultati](//news.ppy.sh/post/77183675009/monthly-beatmapping-contest-3-results) | [Punteggi #3](//osu.ppy.sh/p/contestresults?c=9)    |
-| #4      | [Kuba Oms - My Love](//osu.ppy.sh/s/163112)                                                      | ![osu!standard](Osu.gif) | [W h i t e](//osu.ppy.sh/u/685229)   | [Risultati](//osu.ppy.sh/news/84122008873)                                        | [Punteggi #4](//osu.ppy.sh/p/contestresults?c=10)   |
-| #5      | [Rameses B - Flaklypa](//osu.ppy.sh/s/190390)                                                    | ![osu!standard](Osu.gif) | [-kevincela-](//osu.ppy.sh/u/266596) | [Risultati](//osu.ppy.sh/news/91735660223)                                        | [Punteggi #5](//osu.ppy.sh/p/contestresults?c=11)   |
-| #6      | [LeaF - Evanescent](//osu.ppy.sh/s/227126)                                                       | ![osu!standard](Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Risultati](//osu.ppy.sh/news/102534475143)                                       | [Punteggi #6](//osu.ppy.sh/p/contestresults?c=12)   |
-| #7.1    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!standard](Osu.gif) | [Gamu](//osu.ppy.sh/u/611174)        | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.1](//osu.ppy.sh/p/contestresults?c=13) |
-| #7.2    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!taiko](Taiko.gif)  | [MMzzGamu](//osu.ppy.sh/u/128993)    | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.2](//osu.ppy.sh/p/contestresults?c=14) |
-| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!catch](Ctb.gif)    | [Deif](//osu.ppy.sh/u/318565)        | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.3](//osu.ppy.sh/p/contestresults?c=15) |
-| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!mania](Mania.gif)  | [ExPew](//osu.ppy.sh/u/665612)       | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.4](//osu.ppy.sh/p/contestresults?c=16) |
-| #8      | [raja_ffm - the light](//osu.ppy.sh/b/671412)                                                    | ![osu!standard](Osu.gif) | [Damnae](//osu.ppy.sh/u/989377)      | [Risultati](//osu.ppy.sh/news/115885774698)                                       | [Punteggi #8](//osu.ppy.sh/p/contestresults?c=17)   |
-| #9      | [Furries in a Blender - Storm World](//osu.ppy.sh/s/319473)                                      | ![osu!taiko](Taiko.gif)  | [Firce777](//osu.ppy.sh/u/274072)    | [Risultati](//osu.ppy.sh/news/122549062138)                                       | [Punteggi #9](//osu.ppy.sh/p/contestresults?c=18)   |
-| #10     | [Hylian Lemon - Foresight Is for Losers](//osu.ppy.sh/s/342751)                                  | ![osu!catch](Ctb.gif)    | [ZiRoX](//osu.ppy.sh/u/200768)       | [Risultati](//osu.ppy.sh/news/126037472723)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=19)  |
-| #11     | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](//osu.ppy.sh/s/385056) | ![osu!mania](Mania.gif)  | [LordRaika](//osu.ppy.sh/u/3265023)  | [Risultati](//osu.ppy.sh/news/134459652408)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=20)  |
-| #12     | [IAHN - Candy Luv](//osu.ppy.sh/s/456054)                                                        | ![osu!standard](Osu.gif) | [Taeyang](//osu.ppy.sh/u/2732340)    | [Risultati](//osu.ppy.sh/news/144933230753)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=21)  |
+| #1      | [Rostik - Liquid (Paul Rosenthal Remix)](//osu.ppy.sh/s/123593)                                  | ![osu!standard](/wiki/shared/Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Risultati](//news.ppy.sh/post/64561724273/monthly-beatmapping-contest-1-results) | [Punteggi #1](//osu.ppy.sh/p/contestresults?c=7)    |
+| #2      | [cYsmix feat. Emmy - Tear Rain](//osu.ppy.sh/s/140662)                                           | ![osu!standard](/wiki/shared/Osu.gif) | [jonathanlfj](//osu.ppy.sh/u/270377) | [Risultati](//news.ppy.sh/post/72422807506/monthly-beatmapping-contest-2-results) | [Punteggi #2](//osu.ppy.sh/p/contestresults?c=8)    |
+| #3      | [Chasers - Lost](//osu.ppy.sh/s/151878)                                                          | ![osu!standard](/wiki/shared/Osu.gif) | [ktgster](//osu.ppy.sh/u/53378)      | [Risultati](//news.ppy.sh/post/77183675009/monthly-beatmapping-contest-3-results) | [Punteggi #3](//osu.ppy.sh/p/contestresults?c=9)    |
+| #4      | [Kuba Oms - My Love](//osu.ppy.sh/s/163112)                                                      | ![osu!standard](/wiki/shared/Osu.gif) | [W h i t e](//osu.ppy.sh/u/685229)   | [Risultati](//osu.ppy.sh/news/84122008873)                                        | [Punteggi #4](//osu.ppy.sh/p/contestresults?c=10)   |
+| #5      | [Rameses B - Flaklypa](//osu.ppy.sh/s/190390)                                                    | ![osu!standard](/wiki/shared/Osu.gif) | [-kevincela-](//osu.ppy.sh/u/266596) | [Risultati](//osu.ppy.sh/news/91735660223)                                        | [Punteggi #5](//osu.ppy.sh/p/contestresults?c=11)   |
+| #6      | [LeaF - Evanescent](//osu.ppy.sh/s/227126)                                                       | ![osu!standard](/wiki/shared/Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Risultati](//osu.ppy.sh/news/102534475143)                                       | [Punteggi #6](//osu.ppy.sh/p/contestresults?c=12)   |
+| #7.1    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!standard](/wiki/shared/Osu.gif) | [Gamu](//osu.ppy.sh/u/611174)        | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.1](//osu.ppy.sh/p/contestresults?c=13) |
+| #7.2    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!taiko](/wiki/shared/Taiko.gif)  | [MMzzGamu](//osu.ppy.sh/u/128993)    | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.2](//osu.ppy.sh/p/contestresults?c=14) |
+| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!catch](/wiki/shared/Ctb.gif)    | [Deif](//osu.ppy.sh/u/318565)        | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.3](//osu.ppy.sh/p/contestresults?c=15) |
+| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!mania](/wiki/shared/Mania.gif)  | [ExPew](//osu.ppy.sh/u/665612)       | [Risultati](//osu.ppy.sh/news/112654662093)                                       | [Punteggi #7.4](//osu.ppy.sh/p/contestresults?c=16) |
+| #8      | [raja_ffm - the light](//osu.ppy.sh/b/671412)                                                    | ![osu!standard](/wiki/shared/Osu.gif) | [Damnae](//osu.ppy.sh/u/989377)      | [Risultati](//osu.ppy.sh/news/115885774698)                                       | [Punteggi #8](//osu.ppy.sh/p/contestresults?c=17)   |
+| #9      | [Furries in a Blender - Storm World](//osu.ppy.sh/s/319473)                                      | ![osu!taiko](/wiki/shared/Taiko.gif)  | [Firce777](//osu.ppy.sh/u/274072)    | [Risultati](//osu.ppy.sh/news/122549062138)                                       | [Punteggi #9](//osu.ppy.sh/p/contestresults?c=18)   |
+| #10     | [Hylian Lemon - Foresight Is for Losers](//osu.ppy.sh/s/342751)                                  | ![osu!catch](/wiki/shared/Ctb.gif)    | [ZiRoX](//osu.ppy.sh/u/200768)       | [Risultati](//osu.ppy.sh/news/126037472723)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=19)  |
+| #11     | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](//osu.ppy.sh/s/385056) | ![osu!mania](/wiki/shared/Mania.gif)  | [LordRaika](//osu.ppy.sh/u/3265023)  | [Risultati](//osu.ppy.sh/news/134459652408)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=20)  |
+| #12     | [IAHN - Candy Luv](//osu.ppy.sh/s/456054)                                                        | ![osu!standard](/wiki/shared/Osu.gif) | [Taeyang](//osu.ppy.sh/u/2732340)    | [Risultati](//osu.ppy.sh/news/144933230753)                                       | [Punteggi #10](//osu.ppy.sh/p/contestresults?c=21)  |
 
 Contest Fanart Mensile
 ----------------------
 
-**Nota:**Due vincitori (uno da un sondaggi pubblico e uno dallo staff) otteranno un'anno di osu!supporter e l'/. I secondi arrivati otterranno un mese di osu!supporter. Puoi vedere la galleria dei contest nella [pagina facebook.](http://www.facebook.com/osugame)
+**Nota:** Due vincitori (uno da un sondaggi pubblico e uno dallo staff) otteranno un'anno di osu!supporter e l'/. I secondi arrivati otterranno un mese di osu!supporter. Puoi vedere la galleria dei contest nella [pagina facebook.](http://www.facebook.com/osugame)
 
 ### Pippi, la mascotte di osu!
 
@@ -89,10 +92,10 @@ Contest Fanart Mensile
 osu!store Contests
 ------------------
 
-**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](IT:Osu!supporter "wikilink")) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](IT:Osu!supporter "wikilink").
+**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](/wiki/osu!supporter/it.md)) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](/wiki/osu!supporter/it.md).
 
 | Contest | Titolo                                        | Requisiti                                  | Vincitori | Notizie                                   | Risultati       |
 |---------|-----------------------------------------------|--------------------------------------------|-----------|-------------------------------------------|-----------------|
 | #1      | Mappa con gli sticker osu! Beatmap Blueprints | osu! Beatmap Blueprints ("Mappa Dovunque") | (WIN)     | [Notizie](//osu.ppy.sh/news/114095906408) | \[(Risultati)\] |
 
-[Category:History of osu!/IT](Category:History_of_osu!/IT "wikilink")
+<Category:History of osu!/IT>

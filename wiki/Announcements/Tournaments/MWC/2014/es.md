@@ -1,9 +1,12 @@
+osu!mania World Cup 2014
+========================
+
 ![MWC 2014 logo](logo.png)
 
 La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu!mania organizado por el [Tournament Management](//osu.ppy.sh/g/26). Es la primera entrega de la osu!mania World Cup y está separada por 7-keys y 4-keys.
 
 Calendario
-==========
+----------------
 
 | Event               | Timestamp      |
 |---------------------|----------------|
@@ -17,7 +20,7 @@ Calendario
 | Final/3er puesto    | 14 Sep 2014    |
 
 Premios
-=======
+-----------
 
 | Placing                                                    | Prize(s)                                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -26,7 +29,7 @@ Premios
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                      |
 
 Organización
-============
+----------------
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +42,7 @@ Organización
 ------------------------------------------------------------------------
 
 Cronograma: 7K
-==============
+-----------------
 
 **Viernes, 15 de Agosto de 2014**
 
@@ -86,7 +89,7 @@ Cronograma: 7K
 ------------------------------------------------------------------------
 
 Links
-=====
+--------
 
 -   [osu!mania 2014 en Twitch](//www.twitch.tv/osulive/)
 -   [Forma de Registro](//docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
@@ -97,7 +100,7 @@ Links
 ------------------------------------------------------------------------
 
 Participantes
-=============
+------------
 
 | Country                                        | Grupo 4K Members                                                                                                                                                |
 |------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -146,7 +149,7 @@ Participantes
 | ![](/wiki/shared/flag/Us.gif) Estados Unidos | **[October Scream](//osu.ppy.sh/u/2812237)**, [Squishykorean](//osu.ppy.sh/u/4372604), [Blocko](//osu.ppy.sh/u/4075092)                                    |
 
 Grupos
-======
+---------
 
 ### Grupo 4K
 
@@ -171,10 +174,9 @@ Grupos
 ------------------------------------------------------------------------
 
 Mappools 4K
-===========
+-----------
 
-Fase de grupos
---------------
+### Fase de grupos
 
 | Mods Libres                                                                                                 |
 |-------------------------------------------------------------------------------------------------------------|
@@ -193,10 +195,9 @@ Fase de grupos
 | [BABYMETAL — Megitsune (arcwinolivirus) \[4K MX\]](//osu.ppy.sh/b/407642) |
 
 Mappools 7K
-===========
+----------------
 
-Fase de Grupos
---------------
+### Fase de Grupos
 
 | FreeMod                                                                                           |
 |---------------------------------------------------------------------------------------------------|
@@ -217,10 +218,9 @@ Fase de Grupos
 ------------------------------------------------------------------------
 
 Resultados de las partidas
-==========================
+----------------------------
 
-Fase de Grupos (4K)
--------------------
+### Fase de Grupos (4K)
 
 | Equipo A                                       | Equipo B      | Historia                                          |                               |
 |------------------------------------------------|---------------|---------------------------------------------------|-------------------------------|
@@ -265,13 +265,13 @@ Fase de Grupos (4K)
 | ![](/wiki/shared/flag/Es.gif) España          | 0     - **4** | **Alemania** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/8459866) |
 | ![](/wiki/shared/flag/Pl.gif) **Polanda**     | **4** - 2     | Francia ![](/wiki/shared/flag/Fr.gif)            | [#1](//osu.ppy.sh/mp/8459894) |
 
+
 ------------------------------------------------------------------------
 
 Reglamento
-==========
+------------
 
-Reglas del Torneo
------------------
+### Reglas del Torneo
 
 1.  La osu!mania World Cup es un torneo por países en equipos de 2v2, separados en grupos de 7-teclas (7K) y 4-teclas (4K).
 2.  Los beatmaps escogidos para cada ronda serán anunciados por el *seleccionador de mapas* por anticipado el Domingo anterior a cuando tenga lugar la partida. Solo estos beatmaps podrán ser usados durante las partidas respectivas.
@@ -282,7 +282,7 @@ Reglas del Torneo
 5.  Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
     -   Revivir y sobrevivir durante un map es considerado como pasarlo.
 
-6.  Está permitido usar las opciones de [Configuración Visual](ES:Visual_Settings "wikilink").
+6.  Está permitido usar las opciones de [Configuración Visual](/wiki/Game_Modifiers/es.md).
 7.  Si la partida termina en un empate, la partida será anulada.
 8.  Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
 9.  Los beatmaps no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.
@@ -295,4 +295,4 @@ Reglas del Torneo
 14. Los incidentes inesperados están a cargo del tournament management.
 15. Se dará a conocer cualquier modificación a estas reglas.
 
-<Category:Tournaments/ES> [Category:Official Tournaments/ES](Category:Official_Tournaments/ES "wikilink") [Category:osu!mania Tournaments/ES](Category:osu!mania_Tournaments/ES "wikilink") [Category:osu!mania World Cup/ES](Category:osu!mania_World_Cup/ES "wikilink")
+<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:osu!mania Tournaments/ES><Category:osu!mania World Cup/ES>

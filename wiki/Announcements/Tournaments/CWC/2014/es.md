@@ -1,3 +1,6 @@
+osu! Catch the Beat World Cup 2014
+=====================================
+
 ![CWC 2014 logo](logo.png)
 
 La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](//osu.ppy.sh/g/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![](/wiki/shared/flag/Cl.gif) Chile**.
@@ -11,7 +14,7 @@ La competición ha concluido con el siguiente podio:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Se.gif) **Suecia**        |
 
 Calendario
-==========
+-----------
 
 | Event            | Timestamp                |
 |------------------|--------------------------|
@@ -24,7 +27,7 @@ Calendario
 | Final/3er puesto | 14-15 Jun 2014           |
 
 Premios
-=======
+-------
 
 | Place                                                      | Premios                                                    |
 |------------------------------------------------------------|------------------------------------------------------------|
@@ -33,7 +36,7 @@ Premios
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                           |
 
 Organización
-============
+--------------
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                      |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +49,7 @@ Organización
 ------------------------------------------------------------------------
 
 Links
-=====
+-------
 
 -   [osu! Catch the Beat World Cup 2014 en Twitch](//www.twitch.tv/osulive/)
 -   [Forma de registro](//docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
@@ -55,14 +58,14 @@ Links
 ------------------------------------------------------------------------
 
 Cuadro
-======
+-----
 
 ![CWC 2014 brackets](brackets.jpg)
 
 ------------------------------------------------------------------------
 
 Participantes
-=============
+-------------
 
 | Flag                           | Grupo A Members |                                                                                                                                                                                                                      |
 |--------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -123,12 +126,11 @@ Participantes
 ------------------------------------------------------------------------
 
 Mappools
-========
+---------
 
 **[Todos los mapas del torneo pueden descargarse aquí](//www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
-Finales
--------
+### Finales
 
 **[Click aquí para descargar todos los mapas](//www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar)**
 
@@ -155,6 +157,7 @@ Finales
 | [Caravan Palace - Dragons (Charles445) \[Insane\]](//osu.ppy.sh/b/145361&m=2)             |
 | [paraoka - boot (rickyboi) \[Shoe\]](//osu.ppy.sh/b/154226&m=2)                           |
 
+
 | DoubleTime                                                                                    |
 |-----------------------------------------------------------------------------------------------|
 | [Zektbach - L'avide (eXseeD) \[gowww\]](//osu.ppy.sh/b/103403&m=2)                            |
@@ -173,8 +176,8 @@ Finales
 |---------------------------------------------------------------------------------|
 | [t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](//osu.ppy.sh/b/240488&m=2) |
 
-Semifinales
------------
+
+### Semifinales
 
 **[Click aquí para descargar todos los mapas](//www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)**
 
@@ -219,8 +222,7 @@ Semifinales
 |--------------------------------------------------------------------------------|
 | [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](//osu.ppy.sh/b/297463&m=2) |
 
-Cuartos de final
-----------------
+### Cuartos de final
 
 **[Click aquí para descargar todos los mapas](//www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)**
 
@@ -265,8 +267,7 @@ Cuartos de final
 |----------------------------------------------------------------------|
 | [nano - Nevereverland (CLSW) \[Crystal\]](//osu.ppy.sh/b/369563&m=2) |
 
-Octavos de final
-----------------
+### Octavos de final
 
 **[Click aquí para descargar todos los mapas](//www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)**
 
@@ -279,12 +280,14 @@ Octavos de final
 | [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
 | [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
 
+
 | Hidden                                                                               |
 |--------------------------------------------------------------------------------------|
 | [Maksim Mrvica - Croacian Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
 | [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
 | [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
 | [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
+
 
 | HardRock                                                                         |
 |----------------------------------------------------------------------------------|
@@ -293,12 +296,14 @@ Octavos de final
 | [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
 | [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
 
+
 | DoubleTime                                                                                          |
 |-----------------------------------------------------------------------------------------------------|
 | [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
 | [Korpiklaani - Vodka (Charles445) \[Insane\]](//osu.ppy.sh/b/90466&m=2)                             |
 | [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
 | [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
+
 
 | FreeMod                                                                      |
 |------------------------------------------------------------------------------|
@@ -307,12 +312,12 @@ Octavos de final
 | [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
 | [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
 
+
 | Tiebreaker                                                                                        |
 |---------------------------------------------------------------------------------------------------|
 | [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](//osu.ppy.sh/b/105143&m=2) |
 
-Fase de grupos
---------------
+### Fase de grupos
 
 **[Click aquí para descargar todos los mapas](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Grupo_Stage.rar)**
 
@@ -329,11 +334,13 @@ Fase de grupos
 | [Takanashi Yasuharu - Doku Ryuu no Kobura (\_Kiva) \[Extra\]](//osu.ppy.sh/b/128872&m=2)                 |
 | [goreshit - MATZcore (\_LRJ\_) \[Lolicore\]](//osu.ppy.sh/b/83975&m=2)                                   |
 
+
 | Hidden                                                                                 |
 |----------------------------------------------------------------------------------------|
 | [3L - Extend Ash ~ Hourai Victim (Dangaard) \[Extra Stage\]](//osu.ppy.sh/b/36223&m=2) |
 | [Syuiro - Ama no Jaku (Natteke) \[Insane\]](//osu.ppy.sh/b/126677&m=2)                 |
 | [paraoka - Manima ni (Sandpig) \[('(oo)')\]](//osu.ppy.sh/b/135396&m=2)                |
+
 
 | HardRock                                                                                           |
 |----------------------------------------------------------------------------------------------------|
@@ -341,17 +348,20 @@ Fase de grupos
 | [Naoki & Tatsh - Red Zone (HenkieBP) \[Extra\]](//osu.ppy.sh/b/28422&m=2)                          |
 | [Maximum the Hormone - What's up, people?! (TV Size) (Envi) \[Insane\]](//osu.ppy.sh/b/155914&m=2) |
 
+
 | DoubleTime                                                                                   |
 |----------------------------------------------------------------------------------------------|
 | [Billy Talent - Fallen Leaves (MystykAMV) \[Insane\]](//osu.ppy.sh/b/151569&m=2)             |
 | [The Good Natured - Be My Animal (Larto) \[Rukarioman's Extreme\]](//osu.ppy.sh/b/91495&m=2) |
 | [ZUN - Fall of Fall ~ Autumnal Waterfall (dksslqj) \[Lunatic\]](//osu.ppy.sh/b/56542&m=2)    |
 
+
 | FreeMod                                                                             |
 |-------------------------------------------------------------------------------------|
 | [Jun Wakita - Shounen A (Mystearica) \[Another\]](//osu.ppy.sh/b/36161&m=2)         |
 | [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](//osu.ppy.sh/b/54581&m=2) |
 | [Masayoshi Minoshima feat. nomico - Bad Apple](//osu.ppy.sh/b/64780&m=2)            |
+
 
 | Tiebreaker                                                                       |
 |----------------------------------------------------------------------------------|
@@ -360,10 +370,9 @@ Fase de grupos
 ------------------------------------------------------------------------
 
 Resultados
-==========
+----------
 
-Fase de grupos
---------------
+### Fase de grupos
 
 | Equipo A                                         | Scores        | Equipo B                                          | Historial                     |
 |:-------------------------------------------------|:-------------:|--------------------------------------------------:|-------------------------------|
@@ -404,8 +413,7 @@ Fase de grupos
 | ![](/wiki/shared/flag/Mx.gif) **México**        | **4** - 0     | Dinamarca ![](/wiki/shared/flag/Dk.gif)          | Victoria por default          |
 | ![](/wiki/shared/flag/Hk.gif) **Hong Kong**     | **4** - 0     | Estonia ![](/wiki/shared/flag/Ee.gif)            | [#1](//osu.ppy.sh/mp/6685082) |
 
-Octavos de final
-----------------
+### Octavos de final
 
 | Equipo A                                          | Scores        | Equipo B                                       | Historial                     |
 |:--------------------------------------------------|:-------------:|-----------------------------------------------:|-------------------------------|
@@ -418,8 +426,7 @@ Octavos de final
 | ![](/wiki/shared/flag/Jp.gif) **Japón**          | **5** - 1     | México        ![](/wiki/shared/flag/Mx.gif)   | [#1](//osu.ppy.sh/mp/6840792) |
 | ![](/wiki/shared/flag/Us.gif) **Estados Unidos** | **5** - 4     | Uruguay       ![](/wiki/shared/flag/Uy.gif)   | [#1](//osu.ppy.sh/mp/6842138) |
 
-Cuartos de final
-----------------
+### Cuartos de final
 
 | Equipo A                                         | Scores        | Equipo B                                    | Historial                     |
 |:-------------------------------------------------|:-------------:|--------------------------------------------:|-------------------------------|
@@ -428,16 +435,14 @@ Cuartos de final
 | ![](/wiki/shared/flag/Se.gif) **Suecia**        | **5** - 4     | Singapur   ![](/wiki/shared/flag/Sg.gif)   | [#1](//osu.ppy.sh/mp/6975640) |
 | ![](/wiki/shared/flag/Us.gif) Estados Unidos    | 1     - **5** | **Alemania** ![](/wiki/shared/flag/De.gif) | [#1](//osu.ppy.sh/mp/6977532) |
 
-Semifinales
------------
+### Semifinales
 
 | Equipo A                                    | Scores        | Equipo B                                         | Historial                     |
 |:--------------------------------------------|:-------------:|-------------------------------------------------:|-------------------------------|
 | ![](/wiki/shared/flag/Se.gif) Suecia       | 2     - **6** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/7127415) |
 | ![](/wiki/shared/flag/De.gif) **Alemania** | **6** - 1     | Japón           ![](/wiki/shared/flag/Jp.gif)   | [#1](//osu.ppy.sh/mp/7128373) |
 
-Final / Tercer puesto
----------------------
+### Final / Tercer puesto
 
 | Equipo A                                  | Scores    | Equipo B                                         | Historial                     |
 |:------------------------------------------|:---------:|-------------------------------------------------:|-------------------------------|
@@ -447,22 +452,21 @@ Final / Tercer puesto
 ------------------------------------------------------------------------
 
 Reglamento
-==========
+----------
 
-Reglas del torneo
------------------
+### Reglas del torneo
 
 1.  La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
 2.  Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
     -   Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-    -   Habrá también mapas para [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") y FreeMod.
+    -   Habrá también mapas para [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y FreeMod.
 
 3.  El programa de partidos será establecido por la organización del torneo (ver abajo).
 4.  Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5.  El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
     -   Revivir y sobrevivir hasta el final se considera como pasarlo.
 
-6.  Está permitido el uso de [Visual Settings](Visual_Settings "wikilink").
+6.  Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers/es.md).
 7.  Si un mapa termina en empate, será anulado.
 8.  Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
 9.  Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
@@ -475,8 +479,7 @@ Reglas del torneo
 14. Incidentes inesperados son manejados por la organización del torneo.
 15. Cualquier modificación de estas reglas será anunciada.
 
-Inscripción
------------
+### Inscripción
 
 1.  Tu equipo necesita **al menos 3 jugadores** para participar.
     1.  El máximo de jugadores es 6.
@@ -496,8 +499,7 @@ Inscripción
 
 7.  Los selectores de mapas no pueden participar como jugadores en el torneo.
 
-Instrucciones de partido
-------------------------
+### Instrucciones de partido
 
 1.  Un árbitro creará una sala multijugador con 20 minutos de anticipación. Los jugadores deben reunirse en ese periodo.
     1.  La sala estará bloqueada. La contraseña e invitación serán enviadas a los dos capitanes lo antes posible.
@@ -514,11 +516,10 @@ Instrucciones de partido
 
 4.  Los resultados serán publicados en una página de estadísticas.
 
-Instrucciones del mappool
--------------------------
+### Instrucciones del mappool
 
 1.  Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
-2.  Cada mappool consiste de 5 grupos: NoMod, [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") y FreeMod.
+2.  Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y FreeMod.
 3.  Cada mappool consiste de 23 mapas en total.
 4.  Cada mappool tiene un tiebreaker.
 5.  Los mapas NoMod serán jugados sin mods activados.
@@ -538,8 +539,7 @@ Instrucciones del mappool
     -   3 en la fase de grupos
     -   4 en la fase de eliminación directa
 
-Calendario
-----------
+### Calendario
 
 1.  Cada ronda se llevará a cabo en **un fin de semana**.
 2.  Los partidos de la fase de grupos pueden superponerse.
@@ -547,4 +547,4 @@ Calendario
 4.  La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
 5.  Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
 
-<Category:Tournaments/ES> [Category:Official Tournaments/ES](Category:Official_Tournaments/ES "wikilink") [Category:Catch the Beat Tournaments/ES](Category:Catch_the_Beat_Tournaments/ES "wikilink") [Category:Catch the Beat World Cup/ES](Category:Catch_the_Beat_World_Cup/ES "wikilink")
+<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Catch the Beat Tournaments/ES><Category:Catch the Beat World Cup/ES>

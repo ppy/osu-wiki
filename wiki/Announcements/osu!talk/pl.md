@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="Osu!talk.png" alt="Osu!talk.png" width="300" />
+osu!talk
+===========
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Wprowadzenie
-============
+---------------
 
-Oficjalny kanał YouTube: <http://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek na forum: <http://osu.ppy.sh/forum/t/225111>
-**osu!talk** to seria podcastowa prowadzona przez [ztrota](http://osu.ppy.sh/u/ztrot) i [deadbeata](http://osu.ppy.sh/u/deadbeat). Seria składa się głównie z wywiadów z osobami ze społeczności osu!. Jednakże, czasami dyskutujemy w większej grupie o rzeczach dziejących się w społeczności osu! (są to np. zmiany w załodze czy długotrwałe błędy takie jak przesadzone mapowanie). Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć w trakcie sesji na żywo i zadawać pytania podczas bloku pytań i odpowiedzi każdego odcinka. Odcinki nie są nigdzie strumieniowane/nadawane, ponieważ staramy się zachęcić graczy, by dołączali i sami brali w nich udział.'''
+Oficjalny kanał YouTube: http://www.youtube.com/user/osuacademy/videos
+Oficjalny wątek na forum: http://osu.ppy.sh/forum/t/225111
+**osu!talk** to seria podcastowa prowadzona przez [ztrota](http://osu.ppy.sh/u/ztrot) i [deadbeata](http://osu.ppy.sh/u/deadbeat). Seria składa się głównie z wywiadów z osobami ze społeczności osu!. Jednakże, czasami dyskutujemy w większej grupie o rzeczach dziejących się w społeczności osu! (są to np. zmiany w załodze czy długotrwałe błędy takie jak przesadzone mapowanie). Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć w trakcie sesji na żywo i zadawać pytania podczas bloku pytań i odpowiedzi każdego odcinka. Odcinki nie są nigdzie strumieniowane/nadawane, ponieważ staramy się zachęcić graczy, by dołączali i sami brali w nich udział.
 
 Odcinki
-=======
+----------
 
 | Odc.  | Osoba udzielająca wywiadu                                | Funkcja                                          | [Odnośnik]                                                        |
 |-------|----------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|
@@ -55,8 +58,9 @@ Odcinki
 | #39   | [Arf](//osu.ppy.sh/u/3716999)                            | Some frandom guy                                 | [Odnośnik](//www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | #40   | [The8BitDrummer](//www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                                     | [Odnośnik](//www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
+
 Dyskusje
-========
+---------
 
 | Odc. | Temat                                        | Uczestnicy                                                                                                                                                                                                                  | [Odnośnik]                                        |
 |------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -73,8 +77,10 @@ Dyskusje
 | #11  | Catch The Beat                               | [deadbeat](//osu.ppy.sh/u/128370), [Kingkevin30](//osu.ppy.sh/u/564334), [- Magic Bomb -](//osu.ppy.sh/u/3071175), [Candlestorm](//osu.ppy.sh/u/6115166), [Saki](//osu.ppy.sh/u/3026611), and [Zak](//osu.ppy.sh/u/1375955) | [Odnośnik](//www.youtube.com/watch?v=1SvUNLkcoQg) |
 | #12  | osu!idol                                     | [deadbeat](//osu.ppy.sh/u/128370), [Flanster](//osu.ppy.sh/u/447818), [shARPII](//osu.ppy.sh/u/776257), and [Kyonko Hizara](//osu.ppy.sh/u/444868)                                                                          | [Odnośnik](//www.youtube.com/watch?v=gwtlGM1GpWM) |
 
+
+
 Skróty meczów Mistrzostw Świata
-===============================
+-------------------------------
 
 ### Mistrzostwa Świata w Taiko 2015
 
@@ -86,6 +92,7 @@ Skróty meczów Mistrzostw Świata
 | Półfinały    | deadbeat, FLANKs, Two Fruit Cakes oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=ALMrQ0GUmhY) |
 | Finały       | _Gezo_, deadbeat, Tasha, oraz tiamus         | [Odnośnik](http://www.youtube.com/watch?v=iTOig6vSS28) |
 
+
 ### Mistrzostwa Świata w Catch The Beat 2015
 
 | Typ          | Uczestnicy                 | [Odnośnik]                                             |
@@ -94,8 +101,9 @@ Skróty meczów Mistrzostw Świata
 | Ćwierćfinały | deadbeat, Tasha oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Półfinały    | deadbeat, Tasha oraz ztrot | [Odnośnik](http://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
+
 Odcinki specjalne
-=================
+------------------
 
 | Odc. | Wydarzenia              | Uczestnicy                                                                                                                                                               | [Odnośnik]                                        |
 |------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -105,4 +113,5 @@ Odcinki specjalne
 | #4   | Welcome back            | [deadbeat](//osu.ppy.sh/u/128370), [Kyonko Hizara](//osu.ppy.sh/u/444868), [Nyquill](//osu.ppy.sh/u/682935), [Zak](//osu.ppy.sh/u/1375955), [ztrot](//osu.ppy.sh/u/6347) | [Odnośnik](//www.youtube.com/watch?v=mxXNNH5bnU4) |
 | #5   | Upcoming events Q&amp;A | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Odnośnik](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-[Category:History of osu!/PL](Category:History_of_osu!/PL "wikilink")
+
+<Category:History of osu!/PL>

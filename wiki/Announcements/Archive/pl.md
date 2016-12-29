@@ -1,3 +1,6 @@
+Archiwum ogłoszeń
+==================
+
 W tym artykule jest wymieniona większość (jak nie wszystkie) ogłoszeń ze świata osu!.
 
 osu!weekly
@@ -119,7 +122,8 @@ Listy
 Turnieje
 --------
 
-***[Osobny artykuł](PL:Tournaments "wikilink")***
+
+***[Osobny artykuł](/wiki/Announcements/Tournaments/pl.md)***
 
 -   [Rezultat Mistrzostw Świata w Taiko 2016! (osu!weekly \#58)](//osu.ppy.sh/news/143474255578)
 -   [Mistrzostwa Świata w Catch The Beat 2016 - zapisy w toku!](//osu.ppy.sh/news/142680619968)
@@ -147,7 +151,8 @@ Turnieje
 Comiesięczny konkurs mapowania
 ------------------------------
 
-***[Osobny artykuł](PL:Contests#Monthly_Beatmapping_Contest "wikilink")***
+
+***[Osobny artykuł](/wiki/Announcements/Contests/pl.md)***
 
 -   [Konkurs Mapowania \#12 (osu!)](//osu.ppy.sh/news/140452368663)
 -   [Comiesięczny Konkurs Mapowania \#11 Rezultat](//osu.ppy.sh/news/134459652408)
@@ -177,7 +182,8 @@ Comiesięczny konkurs mapowania
 Konkursy artystyczne
 --------------------
 
-***[Osobny artykuł](PL:Contests#Fanarty "wikilink")***
+
+***[Osobny artykuł](/wiki/Announcements/Contests/pl.md)***
 
 -   [Plany beatmap osu! dostępne & Informacje dot. konkursu](//osu.ppy.sh/news/114095906408)
 -   [Wyniki Piątego Oficjalnego Konkursu Artystycznego (Święta)!](//osu.ppy.sh/news/107496626248)
@@ -195,7 +201,8 @@ Konkursy artystyczne
 Prezentacje
 -----------
 
-***[Pełny artykuł](PL:Showcases "wikilink")***
+
+***[Pełny artykuł](/wiki/Announcements/Showcases/pl.md)***
 
 -   [Prezentacja tła \#2](//osu.ppy.sh/news/143359597258)
 -   [Prezentacja tła \#1](//osu.ppy.sh/news/141179581633)
@@ -216,7 +223,8 @@ Inne
 
 ### Najlepsze mapy roku
 
-***[Osobny artykuł](PL:Showcases#Seria_.E2.80.9EBest_of.E2.80.9D "wikilink")***
+
+***[Osobny artykuł](/wiki/Announcements/Showcases/pl.md)***
 
 -   [Najlepsze mapy 2015: Rezultat](//osu.ppy.sh/news/138781453998)
 -   [Najlepsze mapy 2015: Głosowanie rozpoczęte!](//osu.ppy.sh/news/137019258158)
@@ -231,6 +239,7 @@ Inne
 -   [Przygody z kółkami \#1 - Nigdy więcej!](//osu.ppy.sh/news/61337066445)
 
 ### osu!monthly
+
 
 **Porzucone!**
 
@@ -258,6 +267,7 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 | [Modyfikator Easy: Jak i dlaczego](//osu.ppy.sh/news/56948486143) | Modyfikator Easy jest znany z utrudniania większości beatmap, tworzenia ogromnych stosów i...                      |
 | [Wywiad z Ephmeralem](//osu.ppy.sh/news/56947685704)              | Ephemeral, który dołączył do nas w sierpniu 2009 roku, brał udział w...                                            |
 | [Odrodzenie](//osu.ppy.sh/news/56943222761)                       | Głównym konceptem osu!monthly było stworzenie gazetki dla społeczności która...                                    |
+
 
 ### Media
 
@@ -291,4 +301,4 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 -   [Zasłużeni dla osu!](//osu.ppy.sh/news/59476410622)
 -   [Testowy buildy są teraz bardziej użyteczne](//osu.ppy.sh/news/57687830738)
 
-[Category:History of osu!/PL](Category:History_of_osu!/PL "wikilink")
+<Category:History of osu!/PL>

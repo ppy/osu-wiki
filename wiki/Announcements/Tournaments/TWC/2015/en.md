@@ -1,3 +1,6 @@
+osu! Taiko World Cup 2015
+===========================
+
 ![TWC 2015 logo](logo.png)
 
 The **osu! Taiko World Cup 2015** (***TWC 2015***) is a country-based Taiko tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 5th installment of the osu! Taiko World Cup. It lasts from the 12th January 2015 till 15th March 2015. The previous title holder is **![](/wiki/shared/flag/Jp.gif) Japan**.
@@ -11,7 +14,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Fr.gif) **France** |
 
 Tournament schedule
-===================
+-------------------
 
 | Event              | Timestamp                 |
 |--------------------|---------------------------|
@@ -25,7 +28,7 @@ Tournament schedule
 | Finals - Week 2    | 11-12 Apr 2015            |
 
 Prizes
-======
+---------
 
 | Placing                                                    | Prizes                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -34,7 +37,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag, profile badge                                                |
 
 Organization
-============
+--------------
 
 | Job                   | Person                                                                                                                                                                                        |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +50,7 @@ Organization
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,7 +91,7 @@ Participants
 ------------------------------------------------------------------------
 
 Links
-=====
+----------
 
 -   [Discussion thread](//osu.ppy.sh/forum/t/279723)
 -   [osu! Taiko World Cup 2015 on Twitch](//www.twitch.tv/osulive/)
@@ -107,10 +110,9 @@ Links
 ------------------------------------------------------------------------
 
 Mappools
-========
+---------
 
-Finals
-------
+### Finals
 
 **This mappool will be used on Finals Week 1 & Week 2**
 
@@ -153,8 +155,7 @@ Finals
 |----------------------------------------------------------------------------------|
 | [DragonForce - Revolution Deathsquad (MMzz) \[Tatsujin\]](//osu.ppy.sh/b/295715) |
 
-Semi-finals
------------
+### Semi-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
@@ -195,8 +196,7 @@ Semi-finals
 |--------------------------------------------------------------------------------------|
 | [Kikuo - Ten Sho Sho Ten Sho (Squigly) \[Donphin Inner Oni\]](//osu.ppy.sh/b/460595) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 **[Download the mappack here!](//www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
@@ -237,8 +237,7 @@ Quarter-finals
 |----------------------------------------------------------------------------------------------------|
 | [Infected Mushroom - Never Mind (SuperMICrophone) \[Nwolf's Infected Oni\]](//osu.ppy.sh/b/364661) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the mappack here!](//www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
@@ -279,8 +278,7 @@ Round of 16
 |---------------------------------------------------------------------------|
 | [Resonecia - Legende (lolcubes) \[Legendary Oni\]](//osu.ppy.sh/b/380524) |
 
-Group Stage
------------
+### Group Stage
 
 **[Download the mappack here!](//www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
@@ -324,21 +322,19 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
-
-Finals - Week 2
 ---------------
 
-**Sunday, 12\. April 2015**
+### Finals - Week 2
+
+**Sunday, 12. April 2015**
 
 | Team A                                   | Score     | Team B                                | History                        |
 |:-----------------------------------------|:---------:|--------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Jp.gif) **Japan** | **6** - 3 | Taiwan ![](/wiki/shared/flag/Tw.gif) | [#1](//osu.ppy.sh/mp/15407376) |
 
-Finals - Week 1
----------------
+### Finals - Week 1
 
-**Saturday, 4\. April 2015**
+**Saturday, 4. April 2015**
 
 | Team A                                     | Score     | Team B                                       | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
@@ -347,16 +343,16 @@ Finals - Week 1
 | ![](/wiki/shared/flag/Jp.gif) Japan       | **6** - 2 | France ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/15210189) |
 | ![](/wiki/shared/flag/Fr.gif) France      | 1 - **6** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)    | [#1](//osu.ppy.sh/mp/15239715) |
 
-**Sunday, 5\. April 2015**
+
+**Sunday, 5. April 2015**
 
 | Team A                                    | Score     | Team B                                   | History                        |
 |:------------------------------------------|:---------:|-----------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Tw.gif) **Taiwan** | **6** - 0 | Hong Kong ![](/wiki/shared/flag/Hk.gif) | [#1](//osu.ppy.sh/mp/15233261) |
 
-Semi-finals
------------
+### Semi-finals
 
-**Saturday, 28\. March 2015**
+**Saturday, 28. March 2015**
 
 | Team A                                    | Score     | Team B                                           | History                        |
 |:------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
@@ -365,7 +361,7 @@ Semi-finals
 | ![](/wiki/shared/flag/Ca.gif) **Canada** | **6** - 4 | Germany ![](/wiki/shared/flag/De.gif)           | [#1](//osu.ppy.sh/mp/15044042) |
 | ![](/wiki/shared/flag/Fi.gif) Finland    | 1 - **6** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/15047132) |
 
-**Sunday, 29\. March 2015**
+**Sunday, 29. March 2015**
 
 | Team A                                     | Score     | Team B                                           | History                        |
 |:-------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
@@ -374,10 +370,9 @@ Semi-finals
 | ![](/wiki/shared/flag/Jp.gif) **Japan**   | **6** - 3 | Taiwan ![](/wiki/shared/flag/Tw.gif)            | [#1](//osu.ppy.sh/mp/15063686) |
 | ![](/wiki/shared/flag/Kr.gif) South Korea | 0 - **6** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](/osu.ppy.sh/mp/15065321)  |
 
-Quarter-finals
---------------
+### Quarter-finals
 
-**Saturday, 21\. March 2015**
+**Saturday, 21. March 2015**
 
 | Team A                                     | Score     | Team B                                       | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
@@ -395,10 +390,9 @@ Quarter-finals
 | ![](/wiki/shared/flag/Tw.gif) **Taiwan**      | **5** - 2 | Germany ![](/wiki/shared/flag/De.gif)    | [#1](//osu.ppy.sh/mp/14906461) |
 | ![](/wiki/shared/flag/Us.gif) United States   | 4 - **5** | **France** ![](/wiki/shared/flag/Fr.gif) | [#1](//osu.ppy.sh/mp/14909642) |
 
-Round of 16
------------
+### Round of 16
 
-**Saturday, 14\. March 2015**
+**Saturday, 14. March 2015**
 
 | Team A                                     | Score     | Team B                                             | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------------:|--------------------------------|
@@ -408,7 +402,7 @@ Round of 16
 | ![](/wiki/shared/flag/De.gif) **Germany** | **5** - 1 | Argentina ![Ar.gif](/wiki/shared/flag/Ar.gif)     | [#1](//osu.ppy.sh/mp/14711069) |
 | ![](/wiki/shared/flag/Fr.gif) **France**  | **5** - 0 | Poland ![Pl.gif](/wiki/shared/flag/Pl.gif)        | [#1](//osu.ppy.sh/mp/14712960) |
 
-**Sunday, 15\. March 2015**
+**Sunday, 15. March 2015**
 
 | Team A                                           | Score     | Team B                                         | History                        |
 |:-------------------------------------------------|:---------:|-----------------------------------------------:|--------------------------------|
@@ -416,10 +410,9 @@ Round of 16
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 0 | Philippines ![](/wiki/shared/flag/Ph.gif)     | [#1](//osu.ppy.sh/mp/14732731) |
 | ![](/wiki/shared/flag/Id.gif) Indonesia         | 2 - **5** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/14733838) |
 
-Group Stage
------------
+### Group Stage
 
-**Saturday, 7\. March 2015**
+**Saturday, 7. March 2015**
 
 | Team A                                       | Score     | Team B                                           | History                        |
 |:---------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
@@ -455,7 +448,7 @@ Group Stage
 | ![](/wiki/shared/flag/Ca.gif) Canada        | 0 - **4** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/14565653) |
 | ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | - Win by default -             |
 
-**Sunday, 8\. March 2015**
+**Sunday, 8. March 2015**
 
 | Team A                                       | Score     | Team B                                           | History                        |
 |:---------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
@@ -492,20 +485,19 @@ Group Stage
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+---------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! Taiko World Cup is a country-based team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod bracket.
 
 3.  Match schedule will be settled by the Tournament Management (see below).
 4.  Failed players' scores do get added to the team score.
 5.  If no staff or referee is available, the match will be postponed.
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -516,8 +508,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the Tournament Management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -527,7 +518,7 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global Taiko performace ranking is above \#8000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
 
 3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
     1.  Add your local time zone to the registration PM.
@@ -539,16 +530,15 @@ Tournament Registration
 5.  All successfully formed teams will be published after the Registration Phase.
 6.  Mapset selectors may not participate as a player in this tournament.
 
-Stage Instructions
-------------------
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 4 groups of 6 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 4 teams of each group will move on to the Knock-Out Stages.
@@ -568,8 +558,7 @@ Stage Instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  Room settings are Taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2015: TeamBlue vs TeamRed".
@@ -589,11 +578,10 @@ Match Instructions
 
 7.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals (Week 1 & Week 2 are using the same pool).
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](Hidden "wikilink"), [HardRock](HardRock "wikilink"), [DoubleTime](DoubleTime "wikilink") and FreeMod.
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod.
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.
@@ -607,8 +595,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-Scheduling Instructions
------------------------
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -616,4 +603,4 @@ Scheduling Instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:Taiko Tournaments](Category:Taiko_Tournaments "wikilink") [Category:Taiko World Cup](Category:Taiko_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:Taiko Tournaments><Category:Taiko World Cup>

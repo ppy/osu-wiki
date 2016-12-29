@@ -1,6 +1,11 @@
-[AiMod](AiMod "wikilink") is a tool built in the osu! Beatmap Editor, you can open it by pressing **[Control] + [Shift] + [A]** or by clicking **File** » **Open AiMod**. ![AiMod](Aimod.png "AiMod is usually your first modder") AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](Modder "wikilink") to mod your beatmap.
+AiMod
+========
 
-After AiMod checks over your beatmap (should take less than a minute), the warnings and errors are displayed. If "No problems were found in this map!"… Then congratulations! Your beatmap passed the AiMod "modding", but you'll still need to find [modder](Modder "wikilink") to mod your beatmap because they will find more issues than what AiMod can detect.
+**AiMod** is a tool built in the osu! Beatmap Editor, you can open it by pressing **[Control] + [Shift] + [A]** or by clicking **File** » **Open AiMod**. AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](/wiki/Glossary/en.md) to mod your beatmap.
+
+![AiMod](Aimod.png "AiMod is usually your first modder")
+
+After AiMod checks over your beatmap (should take less than a minute), the warnings and errors are displayed. If "No problems were found in this map!"… Then congratulations! Your beatmap passed the AiMod "modding", but you'll still need to find [modder](/wiki/Glossary/en.md) to mod your beatmap because they will find more issues than what AiMod can detect.
 
 Tabs
 ----
@@ -52,6 +57,7 @@ Messages
 | OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
 | The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
 
+
 ### Errors
 
 #### Compose
@@ -65,6 +71,7 @@ Messages
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
 | Your beatmap has no background image. | The current difficulty doesn't have a background image! Note that videos don't count as background images because the user isn't required to download them | Find a suitable image and use it as the background image. |
+
 
 ### Warnings
 
@@ -83,7 +90,7 @@ Messages
 | These two objects exist at the same point in time! | Two objects are on top of each other. This will make the map impossible to rank! | Find the two hit objects and move it or delete it. |
 | Spinners must have a new combo. | | |
 | Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
-| Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). | 
+| Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | This hold note is less than 10ms long! | Mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | |
 | This object overlaps with another object. | Mania maps only! | |
 | This object is stacked on top of another object. | Mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
@@ -131,7 +138,7 @@ Messages
 
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
-| Stack leniency is larger than 0.9 or smaller than 0.3. | | | 
+| Stack leniency is larger than 0.9 or smaller than 0.3. | | |
 | Romanised artist contains unicode. | | |
 | Romanised title contains unicode. | | |
 | Countdown is not allowed in mania mode. | Mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
@@ -168,4 +175,5 @@ Messages
 | This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
 | Uninherited timing points conflict with {0} diff. | | |
 
-<Category:Beatmapping> <Category:Modding>
+
+<Category:Beatmapping><Category:Modding>
