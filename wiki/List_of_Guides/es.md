@@ -1,7 +1,7 @@
 Lista de Guías
 =================
 
-reguntas Frecuentes / Criterios para ranking
+Preguntas Frecuentes / Criterios para ranking
 ---------------------------------------------
 
 -   [Preguntas frecuentes](/wiki/FAQ)

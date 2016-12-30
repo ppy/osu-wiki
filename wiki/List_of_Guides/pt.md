@@ -108,7 +108,7 @@ Erros Comuns
 osu!forums Guides
 -----------------
 
--   </wiki/BBCode>
+-   [BBCode](/wiki/BBCode)
 -   [Começando um Projeto de Beatmaps](/wiki/Starting_a_Beatmap_Project)
 -   [How to not Embarrass Yourself in the Projects Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum)
 -   [How to not Embarrass Yourself in the Modding Queues Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum)
@@ -116,7 +116,7 @@ osu!forums Guides
 Diversos
 --------
 
--   </wiki/BanchoBot>
+-   [BanchoBot](/wiki/BanchoBot)
 -   [Mudando o Texto do Titulo](/wiki/Changing_Title_Text)
 -   [Teoria Musical](/wiki/Music_Theory)
 -   [Adicionando o Offset na Batida Correta](/wiki/Setting_the_Offset_on_the_Correct_Beat)
