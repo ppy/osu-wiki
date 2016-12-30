@@ -1,17 +1,17 @@
 <!-- wiki -->
-[Beatmaps wikilink]: /wiki/Beatmaps/en.md "Beatmaps"
-[Game_Modifiers wikilink]: /wiki/Game_Modifiers/en.md "Game Modifiers"
-[Multi wikilink]: /wiki/Multiplayer/en.md "Multi-play"
-[Performance_Points wikilink]: /wiki/Performance_Points/en.md "Performance Points"
-[Performance_Points#FAQ wikilink]: /wiki/Performance_Points/en.md#FAQ "Performance Points FAQ"
-[Accuracy wikilink]: /wiki/Accuracy/en.md "Accuracy"
-[Achievements wikilink]: /wiki/Achievements/en.md "Achievements"
-[Chat_Console wikilink]: /wiki/Chat_Console/en.md "Chat Console"
-[FAQ wikilink]: /wiki/FAQ/en.md "FAQ"
-[Glossary wikilink]: /wiki/Glossary/en.md "Glossary"
-[osu!academy wikilink]: /wiki/Announcements/osu!academy/en.md "osu!academy"
-[Beginner wikilink]: /wiki/Beginner/en.md "Beginner"
-[Beatmapping wikilink]: /wiki/Beatmapping/en.md "Beatmapping"
+[Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
+[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
+[Multi wikilink]: /wiki/Multiplayer/ "Multi-play"
+[Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
+[Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
+[Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
+[Achievements wikilink]: /wiki/Achievements/ "Achievements"
+[Chat_Console wikilink]: /wiki/Chat_Console/ "Chat Console"
+[FAQ wikilink]: /wiki/FAQ/ "FAQ"
+[Glossary wikilink]: /wiki/Glossary/ "Glossary"
+[osu!academy wikilink]: /wiki/Announcements/osu!academy/ "osu!academy"
+[Beginner wikilink]: /wiki/Beginner/ "Beginner"
+[Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
 
 <!-- external -->
 [osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
@@ -29,8 +29,8 @@
 [Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Chat Console's friendlist"
 
 <!-- shared image -->
-[.osz icon link]: /wiki/shared/osz_icon.png ".osz file, clean beatmap file"
-[Accuracy results image]: /wiki/shared/Accuracy_results.jpg "Accuracy of player"
+[.osz icon link]: /wiki/shared/osz_icon_full.png ".osz file, clean beatmap file"
+[Accuracy results image]: /wiki/shared/Accuracy_results.png "Accuracy of player"
 
 <!-- Title -->
 # Welcome
@@ -48,7 +48,7 @@ For playing techniques, you have to learn as you go as it's a skill you obtain o
 **Note:** If for some reason you don't have the tutorial, you can re-download it [right here][osu!tutorial_basic]. After playing the tutorial, you're ready to start downloading different beatmaps!
 
 ## How to start playing your favourite songs!
-> _Full explanation: [Beatmaps][Beatmaps wikilink]_
+_Full explanation: [Beatmaps][Beatmaps wikilink]_
 
 ### Step 1 - Find the song!
 What is a beatmap you might ask? Just like any game, it will have levels, or sometimes maps. Well in osu!, we have "Beatmaps" which are exactly what you think they are, they are maps with beat (rhythm). Finding beatmaps for songs is easy! You can find every submitted beatmap [here][Beatmaplist link]. You can type anything related to your search: song's name, artist's name, album's name, and even the genre! For this example we'll try to find "Coldplay - Don't Let It Break Your Heart"
@@ -86,7 +86,7 @@ There we go! Now you're ready to play osu!. If you're having any issues, feel fr
 So what exactly is the "Solo" game mode? Basically, this is the game mode that can be played both offline and online by yourself. This game mode has no limits, you can play any map you have, use any [Game Modifiers][Game_Modifiers wikilink] (sometimes called "score modifiers") you want, pause the game when your hand gets too sore, and restart it when ever you feel that your score or accuracy is too low. You can also check out the Local or Online leaderboard and see the results or watch the replays simply by clicking their tab. You can press "F2" to save a replay externally so you can enjoy the replay without the hassle of searching for it.
 
 ### Multiplayer
-> _Full explanation: [Multi][Multi wikilink]_
+_Full explanation: [Multi][Multi wikilink]_
 
 If you feel a bit lonely playing alone in "Solo" mode, you can always join the multiplayer lobby. The minimum requirement to enter the multiplayer lobby is only an osu! account logged into the game with a decent Internet connection. To gain access, press the "Multi" button. There, you will see heaps of rooms ranging from "Easy" to "Insane" levels.
 
@@ -101,28 +101,28 @@ This may look like a simple game of clicking circles and holding sliders, but it
 The player's level only represents the total amount of score the player has gained on ranked or approved maps, regardless of finishing the beatmap or setting a new score. In short, relative experience of the player in the game. However, unlike other games (read: MMO games) you might have played, osu! does **NOT** give any advantages to any players whatsoever. A naturally gifted level 10 player can potentially beat a level 100 player (this means that all the level says is that the level 100 player spent more time playing beatmaps online). Also, keep in mind that you get higher scores when you get higher combos (hitting notes without missing any in a row).
 
 ### Performance Points
-> *Full explanation: [Performance Points][Performance_Points wikilink]*
+*Full explanation: [Performance Points][Performance_Points wikilink]*
 
 Performance Points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points are heavily based on map difficulty which is determined by a unique algorithm in every gamemode. Based on this difficulty alone each of your scores is rated and assigned a pp value. Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your scores on difficult songs. Do note that game modes are counted separately \[which means, playing (osu!/osu!taiko/osu!catch/osu!mania) raises (osu!/osu!taiko/osu!catch/osu!mania) pp\].
 
 If you have any questions regarding pp, please refer to the [wiki page for pp first][Performance_Points#FAQ wikilink].
 
 ### Accuracy
-> _Full explanation: [Accuracy][Accuracy wikilink]_
+_Full explanation: [Accuracy][Accuracy wikilink]_
 
 ![A screenshot depicting a player&#39;s accuracy after completing a beatmap.][Accuracy results image]
 
 This measurement is the average accuracy among all the ranked scores the player played. It is split into two types, player's overall and pp's accuracy. In your player tab in-game, the accuracy shown is pp's accuracy. For player's overall, you may have to visit the "Online Results" after you played a beatmap online or refer to your own forum page. In osu!, accuracy measures not only your aim, but the timing as well, so it is important to tap the notes perfectly to the beat. Pay extra attention to the approach circles!
 
 ### Achievements
-> _Full explanation: [Achievements][Achievements wikilink]_
+_Full explanation: [Achievements][Achievements wikilink]_
 
 Achievements are little badges on one's profile which indicate that someone has accomplished an exceptional goal. Achievements' badge can be unlocked in various ways such as playing a lot or hitting a certain combo count in one beatmap. When you fulfilled the criteria, you will receive a badge at "Online Results" and your account's personal achievement tab. However, the meat of it is the hidden mission, Hush-Hush, where the criteria is not known and it is up to us to figure it out on how to get it. They are pretty hard to get but it is fulfilling when you managed to achieved it by yourself.
 
 **Note:** Achievement badges can only be unlocked online based on your current account logged-in.
 
 ## Chat
-> *Full explanation: [Chat Console][Chat_Console wikilink]*
+*Full explanation: [Chat Console][Chat_Console wikilink]*
 
 Knowing the basics on how the [Chat Console][Chat_Console wikilink] works is important to those who are interested into making new friends in our friendly environment. It's also important to understand how to use it in case someone messages you (unlikely to happen unless you are well-known), telling you tips or asking for help themselves. There is a button to open up the chat on the bottom right of the screen but it's way quicker to just press F8 on your keyboard.
 
@@ -133,7 +133,7 @@ You will have a few tabs like "\#osu!", "\#announce", "\#userlog" or if you're i
 Those are the basics, don't be shy to ask for help in-game or in forums, also the osu!wiki is here to help understand the game more.
 
 ## Beatmapping (Edit)
-> _Full explanation: [Beatmapping][Beatmapping wikilink]_
+_Full explanation: [Beatmapping][Beatmapping wikilink]_
 
 osu! offers an opportunity to any player to create their own beatmaps. If you think you're creative and passionate about learning, you may start mapping your own songs. To start, simply access the "Edit" mode and drag your song's **.mp3** file onto the editor. Press "F5" to refresh the song list and you should find a blank map with your song name in it. However, beatmapping is a _very_ complicated process which requires a bit of dedication, and thus it will not be covered on this page. The best way to learn is to try it out yourself. You may read useful guides to get you started with mapping [right here][Beatmapping/Modding: Guide Compendium link]. Also, "Edit" mode can also be useful to take a closer look at any beatmap so you can see whats up with that part where you always fail! Also try to **avoid editing ranked maps** because they will automatically revert to being **unranked** (locally only of course) and you will not be able to earn pp/accuracy from it until you update the map again.
 
