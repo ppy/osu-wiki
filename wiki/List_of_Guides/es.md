@@ -1,125 +1,127 @@
-Preguntas Frecuentes / Criterios para ranking
+Lista de Guías
+=================
+
+reguntas Frecuentes / Criterios para ranking
 ---------------------------------------------
 
--   [Preguntas frecuentes](ES:FAQ "wikilink")
-    -   [Guía para nuevos jugadores](ES:Welcome "wikilink")
-    -   [Reglas oficiales](ES:Rules "wikilink")
-    -   [¿Cómo me registro?](ES:Registration "wikilink")
-    -   [¿Cómo instalo Osu!?](ES:Installation "wikilink")
-    -   [Consejos para Osu!](ES:Beginner "wikilink")
-    -   [Centro de ayuda](ES:Help_Center "wikilink")
-    -   [Manejo de trampas](ES:Handling_Cheating/Foul_Play "wikilink")
-    -   [Elementos de un beatmap](ES:Hit_Objects "wikilink")
-    -   [Entiendo la interfaz de Osu!](ES:Interface "wikilink")
--   [Criterio de ranking](ES:Ranking_Criteria "wikilink")
-    -   [Para Standard](ES:Standard_Ranking_Criteria "wikilink")
-    -   [Para Taiko](ES:Taiko_Ranking_Criteria "wikilink")
-    -   [Para Catch the Beat](ES:Catch_the_Beat_Ranking_Criteria "wikilink")
-    -   [Para Mania](ES:Osu!mania_Ranking_Criteria "wikilink")
+-   [Preguntas frecuentes](/wiki/FAQ)
+    -   [Guía para nuevos jugadores](/wiki/Welcome)
+    -   [Reglas oficiales](/wiki/Rules)
+    -   [¿Cómo me registro?](/wiki/Registration)
+    -   [¿Cómo instalo Osu!?](/wiki/Installation)
+    -   [Consejos para Osu!](/wiki/Beginner)
+    -   [Centro de ayuda](/wiki/Help_Center)
+    -   [Manejo de trampas](/wiki/Handling_Cheating)
+    -   [Elementos de un beatmap](/wiki/Hit_Objects)
+    -   [Entiendo la interfaz de Osu!](/wiki/Interface)
+-   [Criterio de ranking](/wiki/Ranking_Criteria)
+    -   [Para Standard](/wiki/Ranking_Criteria/Standard)
+    -   [Para Taiko](/wiki/Ranking_Criteria/Taiko)
+    -   [Para Catch the Beat](/wiki/Ranking_Criteria/Catch_the_Beat)
+    -   [Para Mania](/wiki/Ranking_Criteria/Mania)
 
 Guías Generales de Mapping
 --------------------------
 
--   [¿Qué es un Beatmap?](ES:Beatmaps "wikilink")
--   [¿Cómo hago un Beatmap?](ES:Beatmapping "wikilink")
--   [¿Cómo son aprobados los Beatmaps?](ES:Beatmap_Approval "wikilink")
--   [Difficulty appropriate gameplay elements](ES:Difficulty_appropriate_gameplay_elements "wikilink")
--   [How to time songs](ES:How_to_time_songs "wikilink")
--   [Song Setup](ES:Song_Setup "wikilink")
--   [Mapping Taiko Difficulties](ES:Mapping_Taiko_Difficulties "wikilink")
--   [Fitting the Size-limit](ES:Compressing_Beatmap_Files "wikilink")
--   [Submission](ES:Submission "wikilink")
-    -   [How to Get Your Map Ranked](ES:How_to_Get_Your_Map_Ranked "wikilink")
-    -   [Getting Your Map Modded](ES:Getting_Your_Map_Modded "wikilink")
+-   [¿Qué es un Beatmap?](/wiki/Beatmaps)
+-   [¿Cómo hago un Beatmap?](/wiki/Beatmapping)
+-   [¿Cómo son aprobados los Beatmaps?](/wiki/Beatmap_Ranking_Procedure)
+-   [Difficulty appropriate gameplay elements](/wiki/Difficulties)
+-   [How to time songs](/wiki/How_to_time_songs)
+-   [Song Setup](/wiki/Song_Setup)
+-   [Mapping Taiko Difficulties](/wiki/Mapping_Taiko_Difficulties)
+-   [Fitting the Size-limit](/wiki/Compressing_Beatmap_Files)
+-   [Submission](/wiki/Submission)
+    -   [How to Get Your Map Ranked](/wiki/How_to_Get_Your_Map_Ranked)
+    -   [Getting Your Map Modded](/wiki/Getting_Your_Map_Modded)
 
 Modding Aides
 -------------
 
--   [AIBat](ES:Project_akrolsmir "wikilink")
+-   [AIBat](/wiki/AiBat)
 
 Técnicas de Mapping
 -------------------
 
--   [Técnicas de Mapping](ES:Mapping_Techniques "wikilink")
--   [Haciendo buenos sliders](ES:Making_Good_Sliders "wikilink")
--   [Cómo hacer patrones de 15°](ES:15_degree_Patterns/Tutorial "wikilink")
+-   [Técnicas de Mapping](/wiki/Mapping_Techniques)
+-   [Haciendo buenos sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
+-   [Cómo hacer patrones de 15°](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Información de Modding
 ----------------------
 
-[¿Cómo puedo modear?](ES:Modding "wikilink")
+[¿Cómo puedo modear?](/wiki/Modding)
 
 Guías de Skinning/Hitsound
 --------------------------
 
--   [Skinning](ES:Skinning "wikilink")
--   [Tutorial de Skinning](ES:Skinning_Tutorial "wikilink")
-    -   [Interfaz](ES:Skinning_Tutorial_Interface "wikilink")
-    -   [Standard](ES:Skinning_Tutorial_Standard "wikilink")
-    -   [Taiko](ES:Skinning_Tutorial_Taiko "wikilink")
-    -   [Catch the Beat](ES:Skinning_Tutorial_Catch_the_Beat "wikilink")
-    -   [Mania](ES:Skinning_Tutorial_Mania "wikilink")
-    -   [Sounds](ES:Skinning_Tutorial_Sounds "wikilink")
--   [Cropping with Complex Backgrounds](ES:Cropping_with_Complex_Backgrounds "wikilink")
--   [Cropping with Simple Backgrounds](ES:Cropping_with_Simple_Backgrounds "wikilink")
--   [Making Properly Centered Spinners](ES:Making_Properly_Centered_Spinners "wikilink")
--   [What are Custom Sample Overrides?](ES:Custom_Sample_Overrides "wikilink")
--   [Librería de Hitsounds Personalizados](ES:Custom_Hitsound_Library "wikilink")
--   [Añadiendo Hitsounds Personalizados](ES:Adding_Custom_Hitsounds "wikilink")
+-   [Skinning](/wiki/Skinning)
+-   [Tutorial de Skinning](/wiki/Skinning/Tutorial)
+    -   [Interfaz](/wiki/Skinning/Tutorial/Interface)
+    -   [Standard](/wiki/Skinning/Tutorial/Standard)
+    -   [Taiko](/wiki/Skinning/Tutorial/Taiko)
+    -   [Catch the Beat](/wiki/Skinning/Tutorial/Catch_the_Beat)
+    -   [Mania](/wiki/Skinning/Tutorial/Mania)
+    -   [Sounds](/wiki/Skinning/Tutorial/Sounds)
+-   [Cropping with Complex Backgrounds](/wiki/Cropping_with_Complex_Backgrounds)
+-   [Cropping with Simple Backgrounds](/wiki/Cropping_with_Simple_Backgrounds)
+-   [Making Properly Centered Spinners](/wiki/Making_Properly_Centered_Spinners)
+-   [What are Custom Sample Overrides?](/wiki/Custom_Sample_Overrides)
+-   [Librería de Hitsounds Personalizados](/wiki/Custom_Hitsound_Library)
+-   [Añadiendo Hitsounds Personalizados](/wiki/Adding_Custom_Hitsounds)
 
 Guías para la creación de Storyboards
 -------------------------------------
 
--   [Storyboard Scripting](ES:Storyboard_Scripting "wikilink")
--   [Storyboard Scripting (Cheat Sheet)](ES:Storyboard_Scripting/Cheat_Sheet "wikilink")
--   [SGL Tool](ES:SGL_Tool "wikilink")
--   [Reducing SB Load](ES:SB_Load "wikilink")
+-   [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting)
+-   [Storyboard Scripting (Cheat Sheet)](/wiki/Storyboarding/Storyboard_Scripting_Cheat_Sheet)
+-   [SGL Tool](/wiki/SGL_Tool)
+-   [Reducing SB Load](/wiki/SB_Load)
 
 Guías de Edición de Audio
 -------------------------
 
--   [Edición de Audio](ES:Audio_Editing "wikilink")
--   [Modificaciones básicas a MP3](ES:Basic_MP3_Modifications "wikilink")
--   [Obteniendo canciones de videojuegos](ES:Getting_songs_from_Video_Games "wikilink")
+-   [Edición de Audio](/wiki/Audio_Editing)
+-   [Modificaciones básicas a MP3](/wiki/Basic_MP3_Modifications)
+-   [Obteniendo canciones de videojuegos](/wiki/Getting_songs_from_Video_Games)
 
 Guías de Edición de Video
 -------------------------
 
--   [Comprimiendo videos](ES:Compressing_Videos "wikilink")
--   [Videos para Youtube](ES:Videos_from_YouTube "wikilink")
+-   [Comprimiendo videos](/wiki/Compressing_Videos)
+-   [Videos para Youtube](/wiki/Videos_from_YouTube)
 
 Guías Gameplay
 --------------
 
--   [Estilos de Juego](ES:Play_Styles "wikilink")
--   [Cómo mejorar tu rank](ES:Performance_Points "wikilink")
--   [Haciendo una buena grabación para Youtube](ES:Making_nice_recording_for_Youtube "wikilink")
--   [Live streaming osu!](ES:Live_streaming_osu! "wikilink")
--   [¿Cómo uso la consola de chat?](ES:Chat_Console "wikilink")
+-   [Estilos de Juego](/wiki/Play_Styles)
+-   [Cómo mejorar tu rank](/wiki/Performance_Points)
+-   [Haciendo una buena grabación para Youtube](/wiki/Making_nice_recording_for_Youtube)
+-   [Live streaming osu!](/wiki/Live_streaming_osu!)
+-   [¿Cómo uso la consola de chat?](/wiki/Chat_Console)
 
 Errores Comunes
 ---------------
 
--   [Cambiando el título o artista a un mapa](ES:Changing_the_Map's_Artist_or_Title "wikilink")
+-   [Cambiando el título o artista a un mapa](/wiki/Changing_the_Map's_Artist_or_Title)
 
 Guías del Foro
 --------------
 
--   [BBCode](ES:BBCode "wikilink")
--   [Empezando un Proyecto de Beatmap](ES:Starting_a_Beatmap_Project "wikilink")
--   [How to not Embarrass Yourself in the Projects Subforum](ES:How_to_not_Embarrass_Yourself_in_the_Projects_Subforum "wikilink")
--   [How to not Embarrass Yourself in the Modding Queues Subforum](ES:How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum "wikilink")
+-   [BBCode](/wiki/BBCode)
+-   [Empezando un Proyecto de Beatmap](/wiki/Starting_a_Beatmap_Project)
+-   [How to not Embarrass Yourself in the Projects Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum)
+-   [How to not Embarrass Yourself in the Modding Queues Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum)
 
 Miscelanea
 ----------
 
--   [BanchoBot](ES:BanchoBot "wikilink")
--   [Changing Title Text](ES:Changing_Title_Text "wikilink")
--   [Music Theory](ES:Music_Theory "wikilink")
--   [Setting the Offset on the Correct Beat](ES:Setting_the_Offset_on_the_Correct_Beat "wikilink")
--   [Collab Information](ES:Collab_Information "wikilink")
--   [Shortcut Key Reference](ES:Shortcut_Key_Reference "wikilink")
--   [GL Support Issues](ES:GL_Support_Issues "wikilink")
--   [What is Internet Relay Chat?](ES:Internet_Relay_Chat "wikilink")
--   [How to Run osu! on Your Mac without using Boot Camp](ES:How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink")
-
+-   [BanchoBot](/wiki/BanchoBot)
+-   [Changing Title Text](/wiki/Changing_Title_Text)
+-   [Music Theory](/wiki/Music_Theory)
+-   [Setting the Offset on the Correct Beat](/wiki/Setting_the_Offset_on_the_Correct_Beat)
+-   [Collab Information](/wiki/Collab_Information)
+-   [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)
+-   [GL Support Issues](/wiki/GL_Support_Issues)
+-   [What is Internet Relay Chat?](/wiki/Internet_Relay_Chat)
+-   [How to Run osu! on Your Mac without using Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)

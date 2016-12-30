@@ -1,3 +1,6 @@
+Petunjuk
+===========
+
 Hingga kami dapat melengkapi dan menjalankannya secara penuh, berikut adalah daftar tentang pedoman di forum
 
 <http://osu.ppy.sh/forum/viewtopic.php?f=56&t=60228>
@@ -5,125 +8,124 @@ Hingga kami dapat melengkapi dan menjalankannya secara penuh, berikut adalah daf
 FAQ/Ranking Guidelines
 ----------------------
 
--   [Pertanyaan yang sering ditanyakan](ID:FAQ "wikilink")
-    -   [Selamat Datang](ID:Welcome "wikilink")
-    -   [Peraturan Resmi](ID:Rules "wikilink")
-    -   [Bagaimana caranya untuk mendatarkan diri?](ID:Registration "wikilink")
-    -   [Bagaimana caranya untuk menginstal osu!?](ID:Installation "wikilink")
-    -   [Tips dan Trik untuk Memulai osu!](ID:Beginner "wikilink")
-    -   [Pusat Bantuan](ID:Help_Center "wikilink")
-    -   [Menangani Perbuatan Curang](ID:Handling_Cheating/Foul_Play "wikilink")
-    -   [Elemen-elemen beatmap](ID:Hit_Objects "wikilink")
-    -   [Memahami tampilan permainan](ID:Interface "wikilink")
--   [Kriteria Peringkat](ID:Ranking_Criteria "wikilink")
-    -   [Standard](ID:Standard_Ranking_Criteria "wikilink")
-    -   [Taiko](ID:Taiko_Ranking_Criteria "wikilink")
-    -   [Catch the Beat](ID:Catch_the_Beat_Ranking_Criteria "wikilink")
-    -   [Mania](ID:Osu!mania_Ranking_Criteria "wikilink")
+-   [Pertanyaan yang sering ditanyakan](/wiki/FAQ)
+    -   [Selamat Datang](/wiki/Welcome)
+    -   [Peraturan Resmi](/wiki/Rules)
+    -   [Bagaimana caranya untuk mendatarkan diri?](/wiki/Registration)
+    -   [Bagaimana caranya untuk menginstal osu!?](/wiki/Installation)
+    -   [Tips dan Trik untuk Memulai osu!](/wiki/Beginner)
+    -   [Pusat Bantuan](/wiki/Help_Center)
+    -   [Menangani Perbuatan Curang](/wiki/Handling_Cheating)
+    -   [Elemen-elemen beatmap](/wiki/Hit_Objects)
+    -   [Memahami tampilan permainan](/wiki/Interface)
+-   [Kriteria Peringkat](/wiki/Ranking_Criteria)
+    -   [Standard](/wiki/Ranking_Criteria/Standard)
+    -   [Taiko](/wiki/Ranking_Criteria/Taiko)
+    -   [Catch the Beat](/wiki/Ranking_Criteria/Catch_the_Beat)
+    -   [Mania](/wiki/Ranking_Criteria/Mania)
 
 Dasar Mapping
 -------------
 
--   [Apa itu "Beatmaps"?](ID:Beatmaps "wikilink")
--   [Bagaimana caranya untuk membuat beatmap?](ID:Beatmapping "wikilink")
--   [Bagaimana agar beatmap saya disetujui?](ID:Beatmap_Approval "wikilink")
--   [Cara untuk Melakukan Timing](ID:Difficulty_appropriate_gameplay_elements "wikilink")
--   [Mengisi Bagian pada Song Setup](ID:How_to_time_songs "wikilink")
--   [Mengisi Bagian pada Song Setup](ID:Song_Setup "wikilink")
--   [Pedoman Map Taiko](ID:Mapping_Taiko_Difficulties "wikilink")
--   [Menyesuaikan Batas Ukuran Berkas](ID:Compressing_Beatmap_Files "wikilink")
--   [Pengajuan](ID:Submission "wikilink")
-    -   [Bagaimana agar Beatmapmu Dirank](ID:How_to_Get_Your_Map_Ranked "wikilink")
-    -   [Membuat mapmu di-mod](ID:Getting_Your_Map_Modded "wikilink")
+-   [Apa itu "Beatmaps"?](/wiki/Beatmaps)
+-   [Bagaimana caranya untuk membuat beatmap?](/wiki/Beatmapping)
+-   [Bagaimana agar beatmap saya disetujui?](/wiki/Beatmap_Ranking_Procedure)
+-   [Cara untuk Melakukan Timing](/wiki/Difficulties)
+-   [Mengisi Bagian pada Song Setup](/wiki/How_to_time_songs)
+-   [Mengisi Bagian pada Song Setup](/wiki/Song_Setup)
+-   [Pedoman Map Taiko](/wiki/Mapping_Taiko_Difficulties)
+-   [Menyesuaikan Batas Ukuran Berkas](/wiki/Compressing_Beatmap_Files)
+-   [Pengajuan](/wiki/Submission)
+    -   [Bagaimana agar Beatmapmu Dirank](/wiki/How_to_Get_Your_Map_Ranked)
+    -   [Membuat mapmu di-mod](/wiki/Getting_Your_Map_Modded)
 
 Pembantu Modding
 ----------------
 
--   [AIBat](ID:Project_akrolsmir "wikilink")
+-   [AIBat](/wiki/AiBat)
 
 Daftar Teknik Mapping
 ---------------------
 
--   [Daftar Teknik Mapping](ID:Mapping_Techniques "wikilink")
--   [Membuat Slider yang Bagus](ID:Making_Good_Sliders "wikilink")
--   [Bagaimana cara membuat Motif 15°](ID:15_degree_Patterns/Tutorial "wikilink")
+-   [Daftar Teknik Mapping](/wiki/Mapping_Techniques)
+-   [Membuat Slider yang Bagus](/wiki/Mapping_Techniques/Making_Good_Sliders)
+-   [Bagaimana cara membuat Motif 15°](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Info Modding
 ------------
 
-[Cara untuk Mod](ID:Modding "wikilink")
+[Cara untuk Mod](/wiki/Modding)
 
 Info Skinning/Hitsound
 ----------------------
 
--   <ID:Skinning>
--   [Skinning Tutorial](ID:Skinning_Tutorial "wikilink")
-    -   [Interface](ID:Skinning_Tutorial_Interface "wikilink")
-    -   [Standard](ID:Skinning_Tutorial_Standard "wikilink")
-    -   [Taiko](ID:Skinning_Tutorial_Taiko "wikilink")
-    -   [Catch the Beat](ID:Skinning_Tutorial_Catch_the_Beat "wikilink")
-    -   [Mania](ID:Skinning_Tutorial_Mania "wikilink")
-    -   [Sounds](ID:Skinning_Tutorial_Sounds "wikilink")
--   [Memotong dengan Latar yang Kompleks](ID:Cropping_with_Complex_Backgrounds "wikilink")
--   [Memotong dengan Latar yang Sederhana](ID:Cropping_with_Simple_Backgrounds "wikilink")
--   [Membuat Spinner yang Berpusat di Tengah](ID:Making_Properly_Centered_Spinners "wikilink")
--   [Apakah yang dimaksud dengan Custom Sample Overrides?](ID:Custom_Sample_Overrides "wikilink")
--   [Perpustakaan Hitsound Kustom](ID:Custom_Hitsound_Library "wikilink")
--   [Menambahkan Hitsound Kustom](ID:Adding_Custom_Hitsounds "wikilink")
+-   [Skinning](/wiki/Skinning)
+-   [Skinning Tutorial](/wiki/Skinning/Tutorial)
+    -   [Interface](/wiki/Skinning/Tutorial/Interface)
+    -   [Standard](/wiki/Skinning/Tutorial/Standard)
+    -   [Taiko](/wiki/Skinning/Tutorial/Taiko)
+    -   [Catch the Beat](/wiki/Skinning/Tutorial/Catch_the_Beat)
+    -   [Mania](/wiki/Skinning/Tutorial/Mania)
+    -   [Sounds](/wiki/Skinning/Tutorial/Sounds)
+-   [Memotong dengan Latar yang Kompleks](/wiki/Cropping_with_Complex_Backgrounds)
+-   [Memotong dengan Latar yang Sederhana](/wiki/Cropping_with_Simple_Backgrounds)
+-   [Membuat Spinner yang Berpusat di Tengah](/wiki/Making_Properly_Centered_Spinners)
+-   [Apakah yang dimaksud dengan Custom Sample Overrides?](/wiki/Custom_Sample_Overrides)
+-   [Perpustakaan Hitsound Kustom](/wiki/Custom_Hitsound_Library)
+-   [Menambahkan Hitsound Kustom](/wiki/Adding_Custom_Hitsounds)
 
 Info Storyboarding
 ------------------
 
--   [Membuat Storyboard](ID:Storyboard_Scripting "wikilink")
--   [Membuat Storyboard (Cheat Sheet)](ID:Storyboard_Scripting/Cheat_Sheet "wikilink")
--   [Alat SGL](ID:SGL_Tool "wikilink")
--   [Mengurangi waktu muatan SB](ID:SB_Load "wikilink")
+-   [Membuat Storyboard](/wiki/Storyboard_Scripting)
+-   [Membuat Storyboard (Cheat Sheet)](/wiki/Storyboard_Scripting/Cheat_Sheet)
+-   [Alat SGL](/wiki/SGL_Tool)
+-   [Mengurangi waktu muatan SB](/wiki/SB_Load)
 
 Audio Editing Guides
 --------------------
 
--   [Audio Editing](ID:Audio_Editing "wikilink")
--   [Dasar Modifikasi MP3](ID:Basic_MP3_Modifications "wikilink")
--   [Mendapatkan Lagu dari video game](ID:Getting_songs_from_Video_Games "wikilink")
+-   [Audio Editing](/wiki/Audio_Editing)
+-   [Dasar Modifikasi MP3](/wiki/Basic_MP3_Modifications)
+-   [Mendapatkan Lagu dari video game](/wiki/Getting_songs_from_Video_Games)
 
 Penyuntingan Video
 ------------------
 
--   [Mengompres Video](ID:Compressing_Videos "wikilink")
--   [Video dari YouTube](ID:Videos_from_YouTube "wikilink")
+-   [Mengompres Video](/wiki/Compressing_Videos)
+-   [Video dari YouTube](/wiki/Videos_from_YouTube)
 
 Gameplay Guides
 ---------------
 
--   [ID:Play Styles](ID:Play_Styles "wikilink")
--   [Meningkatkan peringkatmu](ID:Performance_Points "wikilink")
--   [Membuat rekaman bagus untuk diunggah ke YouTube](ID:Making_nice_recording_for_Youtube "wikilink")
--   [Siaran Langsung osu!](ID:Live_streaming_osu! "wikilink")
--   [Cara menggunakan Konsol Obrolan](ID:Chat_Console "wikilink")
+-   [/wiki/Play Styles](/wiki/Play_Styles)
+-   [Meningkatkan peringkatmu](/wiki/Performance_Points)
+-   [Membuat rekaman bagus untuk diunggah ke YouTube](/wiki/Making_nice_recording_for_Youtube)
+-   [Siaran Langsung osu!](/wiki/Live_streaming_osu!)
+-   [Cara menggunakan Konsol Obrolan](/wiki/Chat_Console)
 
 Kesalahan umum
 --------------
 
--   [Bagaimana Cara Mengganti Artis/Judul Map yang Benar](ID:Changing_the_Map's_Artist_or_Title "wikilink")
+-   [Bagaimana Cara Mengganti Artis/Judul Map yang Benar](/wiki/Changing_the_Map's_Artist_or_Title)
 
 osu!forums Guides
 -----------------
 
--   <ID:BBCode>
--   [Memulai Proyek Beatmap](ID:Starting_a_Beatmap_Project "wikilink")
--   [How to not Embarrass Yourself in the Projects Subforum](ID:How_to_not_Embarrass_Yourself_in_the_Projects_Subforum "wikilink")
--   [How to not Embarrass Yourself in the Modding Queues Subforum](ID:How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum "wikilink")
+-   </wiki/BBCode>
+-   [Memulai Proyek Beatmap](/wiki/Starting_a_Beatmap_Project)
+-   [How to not Embarrass Yourself in the Projects Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum)
+-   [How to not Embarrass Yourself in the Modding Queues Subforum](/wiki/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum)
 
 Lainnya
 -------
 
--   <ID:BanchoBot>
--   [Mengubah Teks Judul](ID:Changing_Title_Text "wikilink")
--   [Teori Musik](ID:Music_Theory "wikilink")
--   [Mengatur Offset dalam Ketukan yang Benar](ID:Setting_the_Offset_on_the_Correct_Beat "wikilink")
--   [Informasi tentang Kolaborasi](ID:Collab_Information "wikilink")
--   [Referensi Tombol Pintasan](ID:Shortcut_Key_Reference "wikilink")
--   [Penunjang isu-isu GL](ID:GL_Support_Issues "wikilink")
--   [Apakah itu Internet Relay Chat?](ID:Internet_Relay_Chat "wikilink")
--   [Cara menjalankan Mac milikmu tanpa menggunakan Boot Camp](ID:How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink")
-
+-   </wiki/BanchoBot>
+-   [Mengubah Teks Judul](/wiki/Changing_Title_Text)
+-   [Teori Musik](/wiki/Music_Theory)
+-   [Mengatur Offset dalam Ketukan yang Benar](/wiki/Setting_the_Offset_on_the_Correct_Beat)
+-   [Informasi tentang Kolaborasi](/wiki/Collab_Information)
+-   [Referensi Tombol Pintasan](/wiki/Shortcut_Key_Reference)
+-   [Penunjang isu-isu GL](/wiki/GL_Support_Issues)
+-   [Apakah itu Internet Relay Chat?](/wiki/Internet_Relay_Chat)
+-   [Cara menjalankan Mac milikmu tanpa menggunakan Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)
