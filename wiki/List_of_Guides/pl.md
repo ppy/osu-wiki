@@ -108,7 +108,7 @@ Powszechne błędy
 Poradniki dotyczące osu!forums
 ------------------------------
 
--   </wiki/BBCode>
+-   [BBCode](/wiki/BBCode)
 -   [Jak zacząć Projekt Beatmapy?](/wiki/Starting_a_Beatmap_Project)
 -   [Jak nie skompromitować się w subforum z Projektami?](/wiki/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum)
 -   [Jak nie skompromitować się w subforum z Kolejkami Modowania?](/wiki/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum)
@@ -116,7 +116,7 @@ Poradniki dotyczące osu!forums
 Różne
 -----
 
--   </wiki/BanchoBot>
+-   [BanchoBot](/wiki/BanchoBot)
 -   [Jak zmienić tytuł?](/wiki/Changing_Title_Text)
 -   [Teoria Muzyki](/wiki/Music_Theory)
 -   [Jak poprawnie ustawić offset na rytm?](/wiki/Setting_the_Offset_on_the_Correct_Beat)

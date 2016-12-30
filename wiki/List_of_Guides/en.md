@@ -126,4 +126,4 @@ Miscellaneous
 -   [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)
 -   [GL Support Issues](/wiki/GL_Support_Issues)
 -   [What is Internet Relay Chat?](/wiki/Internet_Relay_Chat)
--   [How to Run osu! on Your Mac without using Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)komp-
+-   [How to Run osu! on Your Mac without using Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)
