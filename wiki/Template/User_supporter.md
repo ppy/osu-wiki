@@ -1,3 +1,0 @@
-<noinclude></noinclude>
-
-<Category:Templates>
