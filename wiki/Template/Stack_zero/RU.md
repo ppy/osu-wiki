@@ -1,2 +1,0 @@
-<noinclude></noinclude> |nominator= Номинатор: (нет) |examples= Примеры: [ND Lee - Seoleim \[HardStyle\] (lesjuh)](https://osu.ppy.sh/s/8216)
-[Megurine Luka - DYE 2 \[Die\] (Card N'FoRcE)](https://osu.ppy.sh/s/39553) {Extreme example} |img=Stackzero.png |desc={{\#switch: |\#default = [Изменение параметра "Stack Leniency" до 0 путём расширенного использования Блокнота](Song_Setup#Stack_Leniency "wikilink") }} }}
