@@ -140,21 +140,17 @@ Like basic osu!, there are three elements of gameplay.
 This will appear as either a red or a pale-blue circle. They are named as red (Don) notes and blue (Katu) notes.
 -   If it is a small red note, you must press the button bound to the inner portion of the Taiko drum or hit the large flat area (center) of the TaTaCon.
 -   If it is a small blue note, you must press the button bound to the outer ring of the Taiko drum or hit the sides of the TaTaCon.
--   If the note is a LARGE circle, you should press or hit both of either inner or outer drum depending on the colour of the note for additional points.
+-   If the note is a **LARGE** circle, you should press or hit both of either inner or outer drum depending on the colour of the note for additional points.
     -   The notes must be pressed or hit when they reach the small white circle next to the drum below the status bar on the play-field.
-
-##### Hit balloons
-They are shown as normal small red notes but with a inflatable balloon behind it.
--   You should hit the inner drum continuously until the hit counter reaches zero.
--   You gain points for each hit and bonus points for popping the balloon.
 
 ##### Drum rolls
 ![Taiko drumroll][Taiko drumroll image]
 
-Drum rolls appears as yellow bar in the play-field.
+Drum rolls appears as yellow bar in the play-field with tiny hitcircles evenly-spaced inside.
 -   You should hit the inner (or outer) drum continuously until it is done.
-    -   For LARGE note, you should hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
+    -   For **LARGE** note, you should hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
 -   You gain points for each successful hits.
+    -   Do note that drum rolls hits were hardcapped based on settings (specifically, slider settings) and only counts when you hit on the tiny hitcircles, rather than drumrolling as fast as you can in _Taiko no Tatsujin_.
 -   You can choose to ignore it at the cost of your possible points gained from the drum roll.
 
 ##### Dendens
