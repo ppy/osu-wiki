@@ -1,3 +1,5 @@
+# FAQ
+
 Les bases du gameplay d’osu! sont affichées dans cette section en plus d'un petit topo sur le système de score et sur l’interface du jeu.
 
 **Les noms des éléments de gameplay sont laissés en anglais (Spinner, Slider), en raison des traductions françaises qui ne sont pas esthétiques (roulette, disque, balle...), d'une part, et le fait qu'absolument tous les joueurs utilisent les termes anglais, d'autre part.**
@@ -342,5 +344,3 @@ Credits
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
-
-<Category:FAQ/FR> <Category:Gameplay/FR>

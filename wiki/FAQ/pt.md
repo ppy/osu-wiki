@@ -1,3 +1,5 @@
+# FAQ
+
 Introdução
 ==========
 
@@ -369,5 +371,3 @@ Créditos
 -   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)
-
-<Category:FAQ/PT> <Category:Gameplay/PT>

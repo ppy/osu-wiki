@@ -1,3 +1,5 @@
+# FAQ
+
 Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting van het puntensysteem en het speluitzicht.
 
 Het spel
@@ -206,5 +208,3 @@ NEEN.
 Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: <http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456&start=0>.
 
 Daarnaast kan je de de geclassifiëerde ('ranked') beatmaps ook per moeilijkheidsgraad sorteren. De gemakkelijkste staan dan bovenaan de lijst.
-
-<Category:FAQ/NL> <Category:Gameplay/NL>

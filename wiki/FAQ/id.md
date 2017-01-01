@@ -1,3 +1,5 @@
+# FAQ
+
 Pendahuluan
 ===========
 
@@ -254,5 +256,3 @@ Gaya bermain *Kiri ke Kanan* (Untuk gaya Beatmania IIDX)
 </tr>
 </tbody>
 </table>
-
-[Category: FAQ/ID](Category:_FAQ/ID "wikilink") <Category:Gameplay/ID>

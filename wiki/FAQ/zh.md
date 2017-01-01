@@ -1,3 +1,5 @@
+# FAQ
+
 下列为 osu! 的基本游戏玩法，以及游戏的得点系统与分界面。
 
 游戏玩法
@@ -430,5 +432,3 @@ Level是根据你在线时所累积的分数(及时你中途失败也会计算�
 -   纯板：只使用数位板进行游戏
 -   键板：使用数位板移动，用键盘来点击
 -   双刀：用键盘点击的同时，鼠标或数位板也承担一部分点击操作
-
-[Category: FAQ/ZH](Category:_FAQ/ZH "wikilink") <Category:Gameplay/ZH> <Category:Guides/ZH>

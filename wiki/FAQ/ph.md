@@ -1,3 +1,5 @@
+# FAQ
+
 Panimula
 ========
 
@@ -125,5 +127,3 @@ Tignan ang [thread na ito](https://osu.ppy.sh/forum/t/14614) para sa mga detalye
 Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <http://osu.ppy.sh/forum/t/5456>
 
 At tsaka, [ang ranked na beatmap ng osu! tutorial](http://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.
-
-<Category:FAQ/PH> <Category:Gameplay/PH>
