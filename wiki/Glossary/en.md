@@ -21,7 +21,7 @@ osu! will mark users as "Idle" if they have been inactive for sometime.
 
 ### Approach Circle
 
-In [osu!standard](/wiki/Game-Modes/osu!/en.md), the approach circle is the outermost circle that will enclose the hitcircle, the start of a Slider, or the center of the spinner.
+In [osu!standard](/wiki/Game_Modes/osu!/), the approach circle is the outermost circle that will enclose the hitcircle, the start of a Slider, or the center of the spinner.
 When the approach circle touches the outer border of the hitcircle or slider you should click.
 For the spinners, the approach circle will indicate the duration of the spinner.
 
@@ -36,7 +36,7 @@ Authentic is a word that denotes a beatmap that emulates in every aspect of a sp
 A ban is an action taken against a player if caught violating a rule (i.e. multi-accounts or cheating).
 However, there is a step-by-step process that users follow before getting banned, in most cases.
 
-To see the number of bans given each month, see [Ban history](http://osu.ppy.sh/p/bans).
+To see the number of bans given each month, see [Ban history](https://osu.ppy.sh/p/bans).
 
 ### Bancho
 
@@ -71,7 +71,7 @@ Most beatmap packs are sets of beatmaps that were ranked during the same time pe
 
 Downloading beatmap packs is the recommended way of downloading beatmaps because this method of downloading beatmaps would save peppy bandwidth.
 
-To see the beatmap packs, see [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist)
+To see the beatmap packs, see [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist)
 
 ### Beat Spacing
 
@@ -119,7 +119,7 @@ Inside a beatmap folder, "BG" is usually the name for the background image.
 BN is short for "Beatmap Nominator" which is a group of osu!users who nominate pending beatmaps.
 This group was once called the "BAT" (the "Beatmap Appreciation Team").
 
-For details about Beatmap Nominators, see [Beatmap Nominator](/wiki/People/Beatmap-Nomination-Group/en.md).
+For details about Beatmap Nominators, see [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group/).
 
 ### BPM
 
@@ -149,7 +149,7 @@ The fourm thread it generates will help you get feedback from modders and other 
 
 The changelog is a forum thread where peppy and the osu!dev team details their day-by-day improvements, additions and bug fixes.
 
-To see the changelog, see [Recent Releases](http://osu.ppy.sh/p/changelog).
+To see the changelog, see [Recent Releases](https://osu.ppy.sh/p/changelog).
 
 ### Choke
 
@@ -183,7 +183,7 @@ Combo has two meanings:
 1.   A set of hitcircles and sliders that comes one after another (also called "Comboset").
      -    They have the same colour and correspond to a specific part of a beatmap's song.
      -    The last object in each combo, if hit, provides the player with a small boost to their life bar, if the player also achieves a Katu (or Beat!) or an Geki (or Elite Beat!).
-     -    Every Spinner is a combo by itself (except for [osu!catch](/wiki/Game-Modes/osu!catch/en.md)).
+     -    Every Spinner is a combo by itself (except for [osu!catch](/wiki/Game_Modes/osu!catch/)).
      -    Combos should be kept under approximately 20 objects, and even lower than that the lower the difficulty is supposed to be.
 2.   The number representing the number of objects a player has hit consecutively without missing or sliderbreaking once.
      -    This number is displayed in various places:
@@ -299,8 +299,8 @@ This term is usually seen during the modding process.
 
 ### DS games
 
-Collective term for [Osu! Tatakae! Ouendan!](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](http://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](http://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
-A set of rhythm games, developed by [iNiS](http://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
+Collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
+A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
 osu! is mostly based on these games.
 
 ## E
@@ -319,7 +319,7 @@ These panels are sortable by various attributes.
 Users that are using the osu!client are displayed, not ones that are participating in chat from using a IRC client.
 The user panels supply lots of information on each user.
 If the mouse cursor is placed on them.
-The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat-Console/en.md#panels).
+The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat-Console/#panels).
 
 ## F
 
@@ -370,7 +370,7 @@ Guest difficulties are often requested by private messages in-game or via forum 
 Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
 
 More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four gamemodes.
-If an additional gamemode is to be featured in a mapset, that gamemode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking-Criteria/en.md).
+If an additional gamemode is to be featured in a mapset, that gamemode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking-Criteria/).
 Each guest beatmapper is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
 
 ### Grade
@@ -424,7 +424,7 @@ osu! provides a wide array of hitsounds (eight in the stable release, since upgr
 Though, mappers can go further add up to 24 more.
 Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
-For a list of skinnable hitsounds, see [Skinning Sounds](/wiki/Skinning/Sounds/en.md)
+For a list of skinnable hitsounds, see [Skinning Sounds](/wiki/Skinning/Sounds/)
 
 ## I
 
@@ -556,7 +556,7 @@ MAT members can mark beatmap they approve of with a bubble, noting them as worth
 
 A modder is a term given to osu!users that gives comments or suggestions on another mappers's maps in the forums.
 
-Activities are shown either at [Works In Progress/Help](http://osu.ppy.sh/forum/10) (including the [Modding Queues](http://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](http://osu.ppy.sh/forum/6).
+Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
 
 ## N
 
@@ -593,11 +593,11 @@ osu! has three meanings:
 
 -     the rhythm video game for the Microsoft Windows Operating Systems. Spelled with a lowercase "o" and an exclamation mark at the end.
 -     osu!standard, the game mode that osu! was originally based on.
--     An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!) Pronounced with a silent u ("OSS"). Close English equivalents include "Yo!" or "Hey!". To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](http://osu.ppy.sh/forum/viewtopic.php?p=2686#p2686).
+-     An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!) Pronounced with a silent u ("OSS"). Close English equivalents include "Yo!" or "Hey!". To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/viewtopic.php?p=2686#p2686).
 
 ### osu!academy
 
-The osu!academy is a YouTube channel hosted by the osu!user, [ztrot](http://osu.ppy.sh/u/6347).
+The osu!academy is a YouTube channel hosted by the osu!user, [ztrot](https://osu.ppy.sh/u/6347).
 
 The osu!academy aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
@@ -606,7 +606,7 @@ For more information, see [osu!academy](/wiki/Announcements/osu!academy).
 ### osu!coin
 
 -     osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
--     peppy announces the osu!coins: [osu!coins!](http://osu.ppy.sh/news/115118189213)
+-     peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/news/115118189213)
 
 The osu!coin was the ingame currency that was still "in development", as a 2015 April Fools joke.
 
@@ -623,7 +623,7 @@ If the player runs out of osu!coins, they may purchase more—out of their own w
 -     999USD = 1000 osu!coins (0.001% savings!)
 -     first unborn child = infinite osu!coins (unborn child will work for osu!)
 
-The following day, peppy had "Rollback osu!coins due to popular demand" and ends with this [remark](http://disq.us/p/w2ydos).
+The following day, peppy had "Rollback osu!coins due to popular demand" and ends with this [remark](https://disq.us/p/w2ydos).
 
 ### osu!cookie
 
@@ -639,7 +639,7 @@ The osu!cookie is seen in the main menu, in solo mode, and once in old crash rep
 An osupixel is the representation of one screen pixel when osu! is running in 640x480 resolution.
 osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
 
-In contrast, textures are scaled such that one texture pixel ([texel](http://en.wikipedia.org/wiki/Texel_%28graphics%29)) corresponds to one screen pixel at 1024x768 resolution.
+In contrast, textures are scaled such that one texture pixel ([texel](https://en.wikipedia.org/wiki/Texel_%28graphics%29)) corresponds to one screen pixel at 1024x768 resolution.
 
 ### Ouendan
 
@@ -659,7 +659,7 @@ There are two ways to avoid this:
 1.    Jumps, slider speed-ups, and other difficulty increasing techniques should only be used when they fit with the music. If there is no sudden change that requires (or could greatly be supplemented with) then simply don't add them. Insane beatmaps are not to show how hard you can make a beatmap, but rather how well you can make a map that is difficult but fun.
 2.    The map might not need an Insane difficulty. If you feel that your map is too boring without adding a plethora of difficulty increasing techniques, then maybe your map does not need it. Remember, mapsets do not require a Insane difficulty, so you'll be just fine without one.
 
-This topic was discussed in an episode of osu!talk ([osu!talk special Over Mapping](http://www.youtube.com/watch?v=RepSYE3hN3A)) that overmapping actually has a positive effect in osu!taiko maps.
+This topic was discussed in an episode of osu!talk ([osu!talk special Over Mapping](https://www.youtube.com/watch?v=RepSYE3hN3A)) that overmapping actually has a positive effect in osu!taiko maps.
 This was observed since the drums is the beat of the song.
 
 ## P
@@ -683,7 +683,7 @@ This includes the lead-in time and the break time(s).
 puush is a screen capturing and file uploading application developed by peppy.
 puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!.
 
-For more information about puush, see [puush / home](http://puush.me/).
+For more information about puush, see [puush / home](https://puush.me/).
 
 ## Q
 
@@ -769,11 +769,11 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 A skin is a set of graphics and custom sample sets that can be chosen to replace the default ones used by osu! in order to customise one's playing experience.
 Most of what you see and hear in osu! can be skinned.
-To see the dedicated sub-forum for skins, see [Skinning](http://osu.ppy.sh/forum/viewforum.php?f=15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/viewforum.php?f=15).
 
-For a list of skinnable elements, see [Skinning](/wiki/Skinning/en.md) (and its subpages).
+For a list of skinnable elements, see [Skinning](/wiki/Skinning/) (and its subpages).
 
--     For a tutorial, see [Skinning Tutorial](/wiki/Skinning/Tutorial/en.md) (and its subpages).
+-     For a tutorial, see [Skinning Tutorial](/wiki/Skinning/Tutorial/) (and its subpages).
 
 ### Skinner
 
@@ -843,7 +843,7 @@ In the DS games, storyboards concern one or more persons facing a difficult chal
 Therefore, a storyboard can take various directions depending on the player’s performance.
 osu!storyboarding is supported through the use of a scripting language or through the storyboard editor which can be accessed in editor mode under "Design".
 
-There is a sub-forum dedicated to storyboards, see [Storyboarding](http://osu.ppy.sh/forum/20).
+There is a sub-forum dedicated to storyboards, see [Storyboarding](https://osu.ppy.sh/forum/20).
 
 ### Storyboard editor
 
@@ -965,7 +965,7 @@ The universal offset settings is located in the Options.
 upppy is a fast and easy-to-use uploading service coded by peppy.
 If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like, just put it on upppy and everyone's happy! :)
 
-For more information about upppy, see [upppy!](http://up.ppy.sh/) **(NFSW: there may be a few stray images that may contain R-18 work)**.
+For more information about upppy, see [upppy!](https://up.ppy.sh/) **(NSFW: there may be a few stray images that may contain R-18 work)**.
 
 ## V
 
@@ -1002,6 +1002,6 @@ z/x are the default keys on the keyboard to tap in osu!.
 A very popular alternative to the left and right mouse buttons.
 
 During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa.
-The same applies to the `Z` key and the right mouse button and vice versa.
+The same applies to the `X` key and the right mouse button and vice versa.
 
 The keyboard tapping keys can be changed in the options menu.
