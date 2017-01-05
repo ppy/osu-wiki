@@ -92,15 +92,15 @@ To make the client work properly, please assure that the players occupy the appr
 
 | osu!tourney control panel |
 | ----------------------------------------- |
-| ![osu!tourney control panel](osutourneypanel.png "osu!tourney control panel") |
+| ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel") |
 
-![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
-![osu!tourney assigns team names and usernames automatically](osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
+![osu!tourney assigns team names and usernames automatically](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
 
-![osu!tourney does not simply spectate. It also shows the current team score and the currently played song](osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
+![osu!tourney does not simply spectate. It also shows the current team score and the currently played song](Osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
 
-![osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.](osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
+![osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
 
 It shows the template you need to follow to name the multiplayer room you wish to spectate. It consists of the acronym you defined in the `tournament.cfg` file and of 2 team names. Read **[Multiplayer session creation and handling](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")** for more information.
 
@@ -108,7 +108,7 @@ If the multiplayer room is properly set up, the control panel will list all prop
 
 When a beatmap is over, osu!tourney increments the team score by filling in one star on the respective winning team's side. **You can also left-click to increase or right-click to decrease on the stars to manually change the team score**.
 
-![osu!tourney with activated annotation](osutourneywarmup.png "osu!tourney with activated annotation")
+![osu!tourney with activated annotation](Osutourneywarmup.png "osu!tourney with activated annotation")
 
 If you want to display a message, you can click the toggle annotation button. When activated, the message in the appropriate text box in the control panel will be shown at the top of the screen and the team score will remain unchanged after the beatmap has completed.
 

@@ -80,15 +80,15 @@ Pour que le client fonctionne correctement, assurez-vous que les joueurs occupen
 
 | Panneau de contrôle de osu!tourney |
 | ----------------------------------------- |
-| ![osu!tourney control panel](osutourneypanel.png "osu!tourney control panel") |  
+| ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel") |  
 
-![Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions](osutourneyroomlist.png "Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions")
+![Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions](Osutourneyroomlist.png "Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions")
 
-![osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement](osutourneyidle.png "osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement")
+![osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement](Osutourneyidle.png "osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement")
 
-![osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement](osutourneyspectate.png "osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement")
+![osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement](Osutourneyspectate.png "osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement")
 
-![osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.](osutourneyresults.png "osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.")
+![osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.](Osutourneyresults.png "osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.")
 
 Cela montre le modèle à suivre pour nommer la salle multijoueur vous voulez regarder. Elle consiste de l'acronyme définie dans `tournament.cfg` et de 2 noms d'équipe. Lisez **[Création de match et gestion](FR:Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")** pour plus d'informations.
 
@@ -96,7 +96,7 @@ Si la salle est réglée correctement, le panneau de contrôle va lister toutes 
 
 Quand une beatmap est finie, osu!tourney incrémente le score de l'équipe en remplissant une étoile de l'équipe gagnante. **Vous pouvez aussi utiliser sur les étoiles le clic gauche pour augmenter ou le clic droit pour diminuer le score de l'équipe**.
 
-![osu!tourney avec une annotation active](osutourneywarmup.png "osu!tourney avec une annotation active")
+![osu!tourney avec une annotation active](Osutourneywarmup.png "osu!tourney avec une annotation active")
 
 Si vous voulez afficher un message, vous pouvez cliquer sur le bouton d'activation de l'annotation. Quand actif, le message de la boîte de texte correspondante du panneau de contrôle sera affiché en haut de l'écran et le score de l'équipe restera inchangé après la fin de la beatmap.
 
