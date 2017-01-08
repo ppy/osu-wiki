@@ -217,7 +217,7 @@ A deathstream is a very long stream whose objects follow each other in a very ra
 These usually causes the player to lose their stamina very quickly and potentially fail the beatmap.
 
 It is heavily sugguested to only use deathstreams when a beatmap hints it and/or has a high BPM.
-This should **not** be used to [#overmap](#overmap)!
+This should **not** be used to overmap!
 
 ### Difficulty stars
 
@@ -284,7 +284,7 @@ osu! is mostly based on these games.
 
 EBA has two meanings:
 
-- Elite Beat Agents, one of the [#DS games](#ds-games) which osu! is based on
+- Elite Beat Agents, one of the DS games which osu! is based on
 - the collective term for the playable characters in that game (referring to #1), i.e. "The EBA" or "The Agents"
 
 ### Extended chat
@@ -309,6 +309,7 @@ Fail has three meanings:
 ### FC
 
 ![](img/CombosCanHurt.png)
+
 The score on the top has a full combo, while the one on the bottom has a broken combo.
 Losing your combo halfway through the game could easily lose you half as many points!
 
@@ -349,7 +350,7 @@ Each guest beatmapper is also allowed to create more than one difficulty to cont
 
 ### Grade
 
-A grade, usually confused with [#rank](#rank) is a term created to prevent confusion with other terms sharing that name.
+A grade, usually confused with rank is a term created to prevent confusion with other terms sharing that name.
 A grade is a letter-grade that repersents the player's performance when playing a beatmap.
 It accompanies the total score at the result screen and appears in all lists where scores appear.
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
@@ -671,7 +672,7 @@ QAT, meaning Quality Assurance Team, members are the ones responsible for ensuri
 
 Rank has three meanings:
 
-1. another word for a [#grade](#grade)
+1. another word for a grade
 2. a player’s standing in the online leaderboard (a.k.a. player ranking)
 3. the verb "to rank", which is when someone second another moderator’s nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player’s ranking. Getting their beatmaps ranked is a goal of every beatmapper.
 
