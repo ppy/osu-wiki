@@ -49,7 +49,7 @@ Pemilihan Lagu
 -   **F3**: Opsi Beatmap
 -   **F5**: Menyegarkan kembali daftar lagu
 -   **Shift-Delete**: Menghapus map yang disorot
--   **Ctrl-1/2/3/4**: Mengubah ke ![osu! Icon](/wiki/shared/osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) mode permainan (berurut).
+-   **Ctrl-1/2/3/4**: Mengubah ke ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) mode permainan (berurut).
 -   **Ctrl-Enter**: Memainkan map yang dipilih dengan mod [Otomatis](/wiki/Game_Modifiers)
 -   **Ctrl-Shift-Enter**: Memainkan map yang dipilih dengan mod Cinema
 -   **Ctrl-A**: Mengaktifkan/Menon-aktifkan mod [Otomatis](/wiki/Game_Modifiers)
