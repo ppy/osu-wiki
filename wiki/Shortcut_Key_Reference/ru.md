@@ -1,3 +1,6 @@
+Горячие клавиши
+===================
+
 Здесь перечислены горячие клавиши в игре.
 
 Общие
@@ -42,13 +45,13 @@
 Выбор песен
 -----------
 
--   **F1**: [Выбор модов](RU:Game_Modifiers "wikilink")
+-   **F1**: [Выбор модов](/wiki/Game_Modifiers)
 -   **F2**: Случайная карта (если нажать 2 раза быстро, то к песне перенесёт моментально)
 -   **Shift-F2**: Отмена выбора случайной карты
 -   **F3**: Опции карты
 -   **F5**: Обновить карты (переиндексация)
 -   **Shift-Delete**: Удалить текущую карту
--   **Ctrl-(1/2/3/4)**: Переключение между режимами ![](osu.gif "fig:osu.gif")[osu! Standard](RU:Standard "wikilink")/![](taiko.gif "fig:taiko.gif")[Тайко](RU:Taiko "wikilink")/![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](RU:Catch_the_Beat "wikilink")/![](mania.gif "fig:mania.gif")[osu!mania](RU:Osu!mania "wikilink")
+-   **Ctrl-(1/2/3/4)**: Переключение между режимами ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania)
 -   **Ctrl-Enter**: Сыграть текущую карту с модом Auto
 -   **Ctrl-Shift-Enter**: Сыграть текущую карту с модом Cinema
 -   **Ctrl-A**: Включить мод Auto
@@ -64,26 +67,26 @@
 Выбор модов
 -----------
 
-Примечание: [Perfect](RU:Game_Modifiers#Perfect "wikilink"), [Nightcore](RU:Game_Modifiers#Nightcore "wikilink") и Cinema требуют двойного нажатия
+Примечание: [Perfect](/wiki/Game_Modifiers#Perfect), [Nightcore](/wiki/Game_Modifiers#Nightcore) и Cinema требуют двойного нажатия
 
--   **Q**: [Easy](RU:Game_Modifiers#Easy "wikilink")
--   **W**: [No Fail](RU:Game_Modifiers#No_Fail "wikilink")
--   **E**: [Half Time](RU:Game_Modifiers#Half_Time "wikilink")
-
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](RU:Game_Modifiers#Hard_Rock "wikilink")
--   **S**: [Sudden Death](RU:Game_Modifiers#Sudden_Death "wikilink")
--   **D**: [Double Time](RU:Game_Modifiers#Double_Time "wikilink")
--   **F**: [Hidden](RU:Game_Modifiers#Hidden "wikilink")
--   **G**: [Flashlight](RU:Game_Modifiers#Flashlight "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers#Easy)
+-   **W**: [No Fail](/wiki/Game_Modifiers#No_Fail)
+-   **E**: [Half Time](/wiki/Game_Modifiers#Half_Time)
 
 ------------------------------------------------------------------------
 
--   **Z**: [Relax](RU:Game_Modifiers#Relax "wikilink")
--   **X**: [Auto Pilot](RU:Game_Modifiers#Auto_Pilot "wikilink") (Random в режиме osu!mania)
--   **C**: [Spun Out](RU:Game_Modifiers#Spun_Out "wikilink")
--   **V**: [Auto](RU:Game_Modifiers#Auto "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers#Hard_Rock)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers#Sudden_Death)
+-   **D**: [Double Time](/wiki/Game_Modifiers#Double_Time)
+-   **F**: [Hidden](/wiki/Game_Modifiers#Hidden)
+-   **G**: [Flashlight](/wiki/Game_Modifiers#Flashlight)
+
+------------------------------------------------------------------------
+
+-   **Z**: [Relax](/wiki/Game_Modifiers#Relax)
+-   **X**: [Auto Pilot](/wiki/Game_Modifiers#Auto_Pilot) (Random в режиме osu!mania)
+-   **C**: [Spun Out](/wiki/Game_Modifiers#Spun_Out)
+-   **V**: [Auto](/wiki/Game_Modifiers#Auto)
 
 Режим игры
 ----------
@@ -105,27 +108,27 @@
 
 -   **H**: Помощь
 
-<u>**Музыка**</u>
+**Музыка**
 
 -   **Z**: Стоп
 -   **X**: Играть с начала
 -   **C** или **Пробел**: Пауза/возобновление
 -   **Left/Right**: Прокрутка песни (Shift увеличивает скорость в 4 раза)
 
-<u>**Закладки**</u>
+**Закладки**
 
 -   **Ctrl-B**: Создать закладку
 -   **Ctrl-Shift-B**: Удалить закладку
 -   **Ctrl-Left**: Перейти к предыдущей закладке
 -   **Ctrl-Right**: Перейти к следующей закладке
 
-<u>**Сохранение и очистка**</u>
+**Сохранение и очистка**
 
 -   **Ctrl-L**: Вернуться к последнему сохранению
 -   **Ctrl-S**: Быстрое сохранение
 -   **Ctrl-N**: Удалить все ноты (сохранив тайминг и настройки песни)
 
-<u>**Вкладки**</u>
+**Вкладки**
 
 -   **F1**: Вкладка "Compose"
 -   **F2**: Вкладка "Design"
@@ -167,5 +170,3 @@
 -   **Ctrl-Колёсико**: Изменение шага временной шкалы
 -   **Alt-Колёсико**: На временной шкале изменение масштаба, иначе изменение спейсинга
 -   **Перетаскивание**: Перемещение объектов и опорных точек слайдеров, изменение длительности слайдеров/спиннеров (на временной шкале)
-
-<Category:Russian> <Category:Guides/RU>
