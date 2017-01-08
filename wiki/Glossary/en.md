@@ -130,8 +130,8 @@ In addition to this, a passing or failing graphic and sound will appear and play
 BSS is short for Beatmap Submission System.
 
 When a beatmapper is finished mapping their beatmap and is ready to share their creation around the world, they must first submit it to the BSS.
-When they do this, the BSS will automatically assign a fourm thread and will generate a post with information about your beatmapset.
-The fourm thread it generates will help you get feedback from modders and other players who play your map.
+When they do this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset.
+The forum thread it generates will help you get feedback from modders and other players who play your map.
 
 ## C
 
@@ -200,14 +200,14 @@ The combo fire was a feature in osu! that would display a burning yellow flame a
 If the player obtains a combo of 500, the combo fire colour will change from yellow to blue.
 The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
-This feature was disabled due to it being a suspect of lag spikes and having a bad appearance then was removed.
+This feature was later disabled due to performance concerns.
 
 ### Cookie
 
-![](img/Intro_static.jpg "Yes, that big circle that reads osu! is the cookie")
+![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its circular shape.")
 
 The cookie, is another word for "osu!logo" which has appeared many times in the osu!client.
-The cookie is seen in the main menu, in solo mode, and once in old crash reports (seen [here](img/Pippi_corruption.jpg)).
+The cookie is seen in the main menu, in solo mode, and previously in old crash reports (seen [here](img/Pippi_corruption.jpg)).
 
 ## D
 
@@ -216,7 +216,7 @@ The cookie is seen in the main menu, in solo mode, and once in old crash reports
 A deathstream is a very long stream whose objects follow each other in a very rapid succession and/or in confusing patterns.
 These usually causes the player to lose their stamina very quickly and potentially fail the beatmap.
 
-It is heavily sugguested to only use deathstreams when a beatmap hints it and/or has a high BPM.
+It is heavily suggested to only use deathstreams when a beatmap hints it and/or has a high BPM.
 This should **not** be used to overmap!
 
 ### Difficulty stars
@@ -234,7 +234,7 @@ You can see a beatmap's difficulty stars when testing it in the editor, on the s
 
 ### Difficulties
 
-Beatmaps can have multiple difficulties, or diffs for short (or diff for singular), varying from Easy to Expert.
+Beatmaps can have multiple difficulties, or diffs for short (or diff for singular), varying from Easy to Expert and above.
 A beatmap should generally have two to five versions of varying difficulty.
 This would allow both novices and experienced players to be able to enjoy playing it.
 
@@ -252,6 +252,8 @@ The osu!website sorts difficulty versions into into 5 categories:
 
 The drain time, or drain, refers to the total duration of the beatmap that requires the player to be active.
 Drain time does not consider the breaks and unmapped parts throughout the beatmap.
+
+Maps with very long drain times are typically referred to as "marathon" maps and require endurance beyond the norm in order to complete successfully.
 
 ### Drop
 
@@ -322,11 +324,12 @@ Full combos usually give the most score in the osu!standard and osu!catch modes.
 
 ### Geki
 
-Geki, or Elite Beat!, is a scoring term used when you complete the comboset with 300s.
+Geki, or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
+Many geki will happen during the course of a successful play.
 
 ### Guest difficulty
 
-Guest difficulty, or GD, is a beatmapper mapping another mapper's mapset.
+Guest difficulty, or GD, refers to any difficulty made by a mapper for inclusion in another mapper's set.
 Guest difficulties usually have the mapper's username as the difficulty's name.
 
 There are many reasons for guest difficulties to exist:
@@ -361,9 +364,11 @@ There are also the Silver S and Silver SS grades, which are, respectively, an S 
 
 ### Grid snapping
 
-Grid snapping is a button on the right side of the editor screen.
+Grid snapping refers to a same-named button on the right hand side of the editor screen.
+
 Enabling it will force every newly placed (or existing, but moved) object to snap along the intersections of the grid.
-The level of sparseness can be adjusted by pressing `G` or by going to `View` then `Grid Level`.
+
+The base level of spacing between each sector of the grid can be adjusted by pressing `G` or by going to `View` then `Grid Level`.
 Grid snapping can help with aligning objects to each other and arranging them in patterns.
 
 ### Graveyard
@@ -413,16 +418,14 @@ The ignore list is a blacklist of words (or users) that the player does not want
 ### IRC
 
 IRC is an abbreviation for Internet Relay Chat.
-This is the protocol that osu! uses for its ingame chat.
-Because of this, you can use your favorite IRC client to connect to the ingame chat without needing to open the osu!client.
-Connect to `irc.ppy.sh` and you will auto-join the osu channel.
+
+For more information about IRC, see [Internet Relay Chat](/wiki/Internet_Relay_Chat/).
 
 ## J
 
 ### Jump
 
 A jump is an osu!standard and osu!catch mapping technique that requires hitobjects to be placed farther than they would be with the distance snapping.
-This forces the player to _jump_ from one hitobject to the next.
 
 More apparent, in early beatmaps and even the first Ouendan games, jumps can make a beatmap more fun and thrilling... though they should be used very rarely and only on harder difficulty versions.
 
@@ -433,7 +436,7 @@ If a jump is too wide, a hyperdash may be used to prevent impossible jumps, thus
 
 ### Katu
 
-Katu, or beat, is when you complete a comboset with a 300 (or 100) while getting a 100 or worse throughout that comboset.
+Katu, or beat, is when you complete a particular combo without achieving the highest level of accuracy throughout that set.
 
 This is different than a Geki because the comboset wasn't done perfectly with 300s.
 
@@ -518,7 +521,7 @@ A marathon is a type of beatmap that can only be approved.
 Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty.
 However, some marathon mapsets may contain a single osu!taiko variant as well.
 
-Some marathon beatmaps are sometimes collaborated due to the length of the music.
+Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a draining endeavour when done solo.
 
 Upon the creation of the marathon beatmap, one should name their beatmap version "Marathon" to bypass the BSS from preventing the pending status.
 
@@ -542,11 +545,12 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum
 NC has two meanings:
 
 1. short for new combo, a modding term to suggest that a beat needs to be the start of a new combo
-2. an abbreviation for nightcore mod, a variant of the double time mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
+2. an abbreviation for the nightcore mod, a variant of the double time mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
 
 ### Nuke
 
-A beatmap that is really far from completion is considered to be nuked.
+Any beatmap that is considered to be disregarding the rules (or the mapper disregarding the Code of Conduct) can be nuked.
+Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -601,7 +605,7 @@ If the player runs out of osu!coins, they may purchase more—out of their own w
 - 999USD = 1000 osu!coins (0.001% savings!)
 - first unborn child = infinite osu!coins (unborn child will work for osu!)
 
-The following day, peppy had "Rollback osu!coins due to popular demand" and ends with [this remark](https://disq.us/p/w2ydos).
+The following day, peppy rolled back the implementation of osu!coins due to popular demand, and ended with [this remark](https://disq.us/p/w2ydos).
 
 ### osupixel
 
@@ -646,7 +650,7 @@ Pass has three meanings:
 ### peppy
 
 peppy, written with a lowercase p, is the online alias of Dean Herbert.
-He is the creator and primary developer of the code and sprites that make osu! tick.
+He is the creator of the osu! project and its primary developer.
 
 ### Play time
 
