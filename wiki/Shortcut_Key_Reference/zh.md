@@ -1,3 +1,6 @@
+Shortcut Key Reference - Chinese
+=================================
+
 以下是各种模式下可以使用的快捷键：
 
 游戏通用
@@ -28,10 +31,10 @@
 ------
 
 -   **P**: 游戏模式（敲击两次为 osu! 模式歌曲选择）
--   **P-M**: 游戏模式 （[多人游戏](ZH:Multiplayer "wikilink")）
--   **P-S-T**: 游戏模式 （[太鼓歌曲选择](ZH:Taiko "wikilink")）
--   **P-S-C**: 游戏模式 （[接水果歌曲选择](ZH:Catch_The_Beat "wikilink")）
--   **P-S-M**: 游戏模式（[osu!mania](ZH:Osu!mania "wikilink") 歌曲选择）
+-   **P-M**: 游戏模式 （[多人游戏](/wiki/Game_Modes/Multiplayer)）
+-   **P-S-T**: 游戏模式 （[太鼓歌曲选择](/wiki/Game_Modes/Taiko)）
+-   **P-S-C**: 游戏模式 （[接水果歌曲选择](/wiki/Game_Modes/Catch_The_Beat)）
+-   **P-S-M**: 游戏模式（[osu!mania](/wiki/Game_Modes/Osu!mania) 歌曲选择）
 -   **E**: 编辑模式（歌曲选择）
 -   **J**: 跳转至(jukebox)
 -   **Z/X/C/V/B**: Jukebox控制（Winamp布局）
@@ -43,7 +46,7 @@
 歌曲选择
 --------
 
--   **F1**: [Mod选择](Game_Modifiers "wikilink")
+-   **F1**: [Mod选择](/wiki/Game_Modifiers)
 -   **F2**: 随机谱面（快速按下两次立即选择随机谱面）
 -   **F3**: 谱面选项
 -   **F5**: 刷新列表（修复模式）
@@ -57,26 +60,28 @@
 模式选择
 --------
 
-注意：特殊模式如[Prefect或](PF "wikilink")[Nightcore需要多点击一次来选择](NC "wikilink")。 <img src="Soloplay8.png" title="fig:osu!模式列表（依次序绑定键盘）" alt="osu!模式列表（依次序绑定键盘）" width="300" />
+注意：特殊模式如[Perfect或](/wiki/Game_Modifiers)[Nightcore需要多点击一次来选择](/wiki/Game_Modifiers)。
 
--   **Q**: [Easy](EZ "wikilink")
--   **W**: [No Fail](NF "wikilink")
--   **E**: [Half-Time](HT "wikilink")
+![osu!模式列表（依次序绑定键盘）](Soloplay8.png "osu!模式列表（依次序绑定键盘）")
 
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](HR "wikilink")
--   **S**: [Sudden Death](SD "wikilink")
--   **D**: [Double Time](DT "wikilink")
--   **F**: [Hidden](HD "wikilink")
--   **G**: [Flashlight](FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](RL "wikilink") （在osu!mania 4/5/6/7/8K模式下无效）
--   **C**: [Auto-Pilot](AP "wikilink")
--   **V**: [Spun-Out](SO "wikilink")
--   **B**: [Auto](Auto "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers) （在osu!mania 4/5/6/7/8K模式下无效）
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
+-   **B**: [Auto](/wiki/Game_Modifiers)
 
 游戏模式
 --------
@@ -94,31 +99,31 @@
 
 #### 一般
 
-<img src="Edit Help.jpg" title="How it would look like when you press H (Help) key" alt="How it would look like when you press H (Help) key" width="500" />
+![How it would look like when you press H (Help) key](Edit_Help.jpg "How it would look like when you press H <Help> key")
 
 -   **H**: 帮助（包括下列所有快捷键）
 
-<u>**音乐**</u>
+**音乐**
 
 -   **Z**: 停止
 -   **X**: 从开始播放
 -   **C或空格**: 暂停/恢复
 -   **左右箭头键**: 歌曲内快进（按住SHIFT四倍速快进）
 
-**<u>书签指令</u>**
+**书签指令**
 
 -   **Ctrl+B**: 在当前位置添加书签
 -   **Ctrl+Shift+G**: 移除当前位置书签
 -   **Ctrl+←**: 跳转至前一书签
 -   **Ctrl+→**: 跳转至后一书签
 
-**<u>保存与重置</u>**
+**保存与重置**
 
 -   **Ctrl+L**: 恢复原保存状态
 -   **Ctrl+S**: 快速保存
 -   **Ctrl+N**: 移除所有note（但保持时间/歌曲设置不变）
 
-**<u>模式切换</u>**
+**模式切换**
 
 -   **F1**: 做图模式
 -   **F2**: 设计模式（目前只有基础可用）
@@ -160,5 +165,3 @@
 -   **Ctrl + 鼠标滚轮**: 增加/减少节奏分数
 -   **Alt + 鼠标滚轮**: 增加/减少自动间距控制的倍数。当鼠标指在时间轴上时改变时间轴的紧密程度
 -   **拖拽**: 移动选择物件的空间或时间位置，移动滑条的轨迹点，在时间轴上拖动滑条或转盘的尾部可以延长它们
-
-[Category: Chinese](Category:_Chinese "wikilink") <Category:Guides/ZH>

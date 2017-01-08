@@ -1,3 +1,6 @@
+Referensi Tombol Pintasan
+==========================
+
 Di osu!, terdapat variasi pintasan yang dapat berguna baik dalam game maupun tampilan awal. Dibawah ini tertulis beserta fungsinya
 
 Semua (Baik dalam Permainan maupun Tampilan Awal)
@@ -29,7 +32,7 @@ Menu Utama
 ----------
 
 -   **P**: Mode Bermain (2 kali untuk masuk ke pemilihan lagu)
--   **P-M**: Mode ([Bermain Bersama](ID:Multiplayer "wikilink"))
+-   **P-M**: Mode ([Bermain Bersama](/wiki/Multiplayer))
 -   **E**: Mode Sunting (Pemilihan lagu)
 -   **J**: Loncat ke (jukebox)
 -   **Z/X/C/V/B**: kontrol Jukebox (tampilan Winamp)
@@ -41,15 +44,15 @@ Menu Utama
 Pemilihan Lagu
 --------------
 
--   **F1**: [Pemilihan Mod](ID:Game_Modifiers "wikilink")
+-   **F1**: [Pemilihan Mod](/wiki/Game_Modifiers)
 -   **F2**: Map Acak (tekan 2x secara cepat untuk map acak instan)
 -   **F3**: Opsi Beatmap
 -   **F5**: Menyegarkan kembali daftar lagu
 -   **Shift-Delete**: Menghapus map yang disorot
--   **Ctrl-1/2/3/4**: Mengubah ke ![](osu.gif "fig:osu.gif")[osu! Standard](ID:Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")<ID:Taiko> / ![](Ctb.gif "fig:Ctb.gif")[ID:Catch the Beat](ID:Catch_the_Beat "wikilink") / ![](mania.gif "fig:mania.gif")<ID:osu!mania> mode permainan (berurut).
--   **Ctrl-Enter**: Memainkan map yang dipilih dengan mod [Otomatis](ID:Auto "wikilink")
+-   **Ctrl-1/2/3/4**: Mengubah ke ![osu! Icon](/wiki/shared/osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) mode permainan (berurut).
+-   **Ctrl-Enter**: Memainkan map yang dipilih dengan mod [Otomatis](/wiki/Game_Modifiers)
 -   **Ctrl-Shift-Enter**: Memainkan map yang dipilih dengan mod Cinema
--   **Ctrl-A**: Mengaktifkan/Menon-aktifkan mod [Otomatis](ID:Auto "wikilink")
+-   **Ctrl-A**: Mengaktifkan/Menon-aktifkan mod [Otomatis](/wiki/Game_Modifiers)
 -   **Up/Down**: Mengganti pilihan
 -   **PageUp/PageDown**: Mengganti pilihan (Besar)
 -   **Enter**: Memilih
@@ -57,25 +60,27 @@ Pemilihan Lagu
 Tampilan Mod
 ------------
 
-Catatan: Mod spesial seperti [Perfect](ID:PF "wikilink") atau [Nightcore](ID:NC "wikilink") perlu ditekan sekali lagi. <img src="Soloplay8.png" title="fig:Daftar mod yang dapat digunakan (Sesuai Urutan)" alt="Daftar mod yang dapat digunakan (Sesuai Urutan)" width="300" />
+Catatan: Mod spesial seperti [Perfect](/wiki/Game_Modifiers) atau [Nightcore](/wiki/Game_Modifiers) perlu ditekan sekali lagi.
 
--   **Q**: [Easy](ID:EZ "wikilink")
--   **W**: [No-Fail](ID:NF "wikilink")
--   **E**: [Half Time](ID:HT "wikilink")
+![Daftar mod yang dapat digunakan (Sesuai Urutan)](Soloplay8.png "Daftar mod yang dapat digunakan <Sesuai Urutan>")
 
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](ID:HR "wikilink")
--   **S**: [Sudden Death](ID:SD "wikilink")
--   **D**: [Double Time](ID:DT "wikilink")
--   **F**: [Hidden](ID:HD "wikilink")
--   **G**: [Flashlight](ID:FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No-Fail](/wiki/Game_Modifiers)
+-   **E**: [Half Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](ID:RL "wikilink") (di osu!mania 4/5/6/7/8K mod)
--   **C**: [Auto-Pilot](ID:AP "wikilink")
--   **V**: [Spun-Out](ID:SO "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers) (di osu!mania 4/5/6/7/8K mod)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
 Mode Bermain
@@ -95,31 +100,31 @@ Mode Penyunting
 
 #### Umum
 
-<img src="Edit Help.jpg" title="Tampilan ketika menekan tombol H (Bantuan)" alt="Tampilan ketika menekan tombol H (Bantuan)" width="500" />
+![Tampilan ketika menekan tombol H (Bantuan)](Edit_Help.jpg "Tampilan ketika menekan tombol H <Bantuan>")
 
 -   **H**: Bantuan (Berisi tentang semua pintasan yang ditampilkan berikut ini)
 
-<u>**Musik**</u>
+**Musik**
 
 -   **Z**: Berhenti
 -   **X**: Mulai dari Awal
 -   **C atau spasi**: Jeda / Melanjutkan
 -   **Tombol Panah Kiri atau Panah Kanan**: Melewatkan (tahan SHIFT untuk kecepatan 4x)
 
-**<u>Perintah Bookmarks</u>**
+**Perintah Bookmarks**
 
 -   **Ctrl+B**: Menambahkan bookmark di posisi sekarang.
 -   **Ctrl+Shift+B**: Menghapus bookmark di posisi sekarang.
 -   **Ctrl+Panah Kiri**: Lompat ke bookmark sebelumnya.
 -   **Ctrl+Panah Kanan**: Lompat ke bookmark selanjutnya.
 
-**<u>Menyimpan dan Mereset</u>**
+**Menyimpan dan Mereset**
 
 -   **Ctrl+L**: Mereset ke simpanan terakhir
 -   **Ctrl+S**: Menyimpan cepat
 -   **Ctrl+N**: Menghapus semua not (tapi tetap menyimpan pengaturan tempo/lagu)
 
-**<u>Penggantian Mode</u>**
+**Penggantian Mode**
 
 -   **F1**: Mode Menyusun
 -   **F2**: Mode Mendesain
@@ -164,4 +169,3 @@ Mode Penyunting
 -   **Ctrl + Roda Mouse**: Menambah/Mengurangi ketukan not.
 -   **Alt + Roda Mouse**: Menambah/Mengurangi jarak konstan not. Memperbesar/Memperkecil tampilan timeline ketika di dalam timeline.
 -   **Menyeret**: Memindahkan not yang dipilih (posisi atau waktu), memindahkan titik di dalam sebuah slider. Menyeret akhir dari slider atau spinner di timeline untuk memperpanjang.
-

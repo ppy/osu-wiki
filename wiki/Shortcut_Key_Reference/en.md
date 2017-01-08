@@ -1,3 +1,6 @@
+Shortcut Key Reference
+=======================
+
 In osu!, there are various shortcuts that can be utilized in the game and in menus. They are listed out with their functions below.
 
 Game-Wide
@@ -31,7 +34,7 @@ Main Menu
 ---------
 
 -   **P**: Play mode (twice for osu! song select)
--   **P-M**: Play mode ([Multi-Play](Multiplayer "wikilink"))
+-   **P-M**: Play mode ([Multi-Play](/wiki/Multiplayer))
 -   **E**: Edit Mode (Song selection)
 -   **J**: Jump To (jukebox)
 -   **Z/X/C/V/B**: Jukebox controls (Winamp layout)
@@ -43,14 +46,14 @@ Main Menu
 Song Select
 -----------
 
--   **F1**: [Mod Selection](Game_Modifiers "wikilink")
+-   **F1**: [Mod Selection](/wiki/Game_Modifiers)
 -   **F2**: Random Map
 -   **Shift+F2**: Undo Random Map
 -   **F3**: Beatmap Options
 -   **F5**: Refresh listing (Repair mode)
 -   **Shift+Delete**: Delete current map
--   **Ctrl+(1/2/3/4)**: Switch to ![](osu.gif "fig:osu.gif")[osu! Standard](Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")[Taiko](Taiko "wikilink") / ![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](Catch_the_Beat "wikilink") / ![](mania.gif "fig:mania.gif")[osu!mania](osu!mania "wikilink") game mode respectively.
--   **Ctrl+Enter**: Play current map with [Auto](Auto "wikilink") mod
+-   **Ctrl+(1/2/3/4)**: Switch to ![osu! Icon](/wiki/shared/osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) game mode respectively.
+-   **Ctrl+Enter**: Play current map with [Auto](/wiki/Game_Modifiers) mod
 -   **Ctrl+Shift+Enter**: Play current map with Cinema mod
 -   **Ctrl+A**: Toggle Auto mod
 -   **Ctrl+(F3/F4)** or **Ctrl+(+/-)**: Increase/decrease osu!mania speed (only in osu!mania mode)
@@ -65,25 +68,27 @@ Song Select
 Mods screen
 -----------
 
-Note: Special modes like [Perfect](PF "wikilink") or [Nightcore](NC "wikilink") will require clicking on it once more.<img src="Soloplay8.png" title="fig:osu! List of possible mods (Key binding in order)" alt="osu! List of possible mods (Key binding in order)" width="300" />
+Note: Special modes like [Perfect](/wiki/Game_Modifiers) or [Nightcore](/wiki/Game_Modifiers) will require clicking on it once more.
 
--   **Q**: [Easy](EZ "wikilink")
--   **W**: [No Fail](NF "wikilink")
--   **E**: [Half-Time](HT "wikilink")
+![osu! List of possible mods (Key binding in order)](Soloplay8.png "osu! List of possible mods <Key binding in order>")
 
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](HR "wikilink")
--   **S**: [Sudden Death](SD "wikilink")
--   **D**: [Double Time](DT "wikilink")
--   **F**: [Hidden](HD "wikilink")
--   **G**: [Flashlight](FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](RL "wikilink") (No effect on osu!mania's 4/5/6/7/8K mod)
--   **C**: [Auto-Pilot](AP "wikilink")
--   **V**: [Spun-Out](SO "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers) (No effect on osu!mania's 4/5/6/7/8K mod)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
 Play Mode
@@ -104,31 +109,31 @@ Edit Mode
 
 #### General
 
-<img src="Edit Help.jpg" title="How it would look like when you press H (Help) key" alt="How it would look like when you press H (Help) key" width="500" />
+![How it would look like when you press H (Help) key](Edit_Help.jpg "How it would look like when you press H <Help> key")
 
 -   **H**: Help (Contains all the shortcuts shown below)
 
-<u>**Music**</u>
+**Music**
 
 -   **Z**: Stop
 -   **X**: Play from start
 -   **C or Spacebar**: Pause/Resume
 -   **Left and Right arrow keys**: Skip through the song. Hold shift for 4x speed
 
-**<u>Bookmarks commands</u>**
+**Bookmarks commands**
 
 -   **Ctrl+B**: Add bookmark at current location.
 -   **Ctrl+Shift+B**: Remove bookmark at current location.
 -   **Ctrl+Left Arrow**: Jump to previous bookmark.
 -   **Ctrl+Right Arrow**: Jump to next bookmark.
 
-**<u>Save and Reset</u>**
+**Save and Reset**
 
 -   **Ctrl+L**: Revert to saved
 -   **Ctrl+S**: Quick save
 -   **Ctrl+N**: Remove all notes (but keep timing/song setup)
 
-**<u>Mode switch</u>**
+**Mode switch**
 
 -   **F1**: Compose mode
 -   **F2**: Design mode (only basics available at the moment)
@@ -172,4 +177,3 @@ Edit Mode
 -   **Ctrl + Mouse Wheel**: Increase/decrease the snap divisor.
 -   **Alt + Mouse Wheel**: Increase/decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline.
 -   **Dragging**: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them.
-
