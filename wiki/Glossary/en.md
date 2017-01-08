@@ -8,7 +8,7 @@ Additions and edits are always welcome.
 
 ## A
 
-### Abandoned Wasteland
+### Abandoned wasteland
 
 If the name isn't obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we don't really need in here."
 When a thread is "wastelanded", it is moved there.
@@ -204,7 +204,7 @@ This feature was later disabled due to performance concerns.
 
 ### Cookie
 
-![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its circular shape.")
+![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
 The cookie, is another word for "osu!logo" which has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and previously in old crash reports (seen [here](img/Pippi_corruption.jpg)).
@@ -287,7 +287,7 @@ osu! is mostly based on these games.
 EBA has two meanings:
 
 - Elite Beat Agents, one of the DS games which osu! is based on
-- the collective term for the playable characters in that game (referring to #1), i.e. "The EBA" or "The Agents"
+- the collective term for the playable characters in that game (referring to meaning above), i.e. "The EBA" or "The Agents"
 
 ### Extended chat
 
