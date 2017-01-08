@@ -963,7 +963,7 @@ Version has two meanings:
   - they could be called "Easy", "Normal", "Hard", "Insane", and "Expert"
   - however, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
-  - see [Skin #Version](/wiki/Skinning/#version)
+  - see [Skinning](/wiki/Skinning/)
 
 ## W
 
