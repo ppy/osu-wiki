@@ -482,7 +482,7 @@ Please be aware that beatmap nominators may revoke your kudosu if they deem that
 
 ### Lead-in
 
-The lead-in time is a ~3 second time period of silence that might automatically be inserted before the beginning of a beatmap.
+The lead-in time is a 3 second time period of silence that might automatically be inserted before the beginning of a beatmap.
 This only happens if the beatmapper has placed objects right at or very close at the start of the song.
 
 ### Life bar
@@ -754,7 +754,7 @@ A skinner refers to the osu!user who releases downloadable skins on the osu!foru
 
 ### Sliderbreak
 
-In osu!stanard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
+In osu!standard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
 This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
 This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
 Unlike missing, you can still achieve an "S" rank after sliderbreaking.
@@ -770,7 +770,7 @@ Spectate, or spec, is when someone watches another player playing a beatmap in r
 To spectate, open the extended chat and click on a grey user panel.
 
 For this to work, you'll need to have a copy of the exact same beatmap the player you wish to spectate is playing.
-However, if you have an [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter/) tag, the beatmapset will be downloaded and loaded for you.
+However, if you have an [osu!supporter](/wiki/osu!supporter/) tag, the beatmapset will be downloaded and loaded for you.
 
 ### Spectator aura
 
