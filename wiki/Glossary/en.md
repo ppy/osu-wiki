@@ -31,13 +31,6 @@ Authentic is a word that denotes a beatmap that emulates in every aspect of a sp
 
 ## B
 
-### Ban
-
-A ban is an action taken against a player if caught violating a rule (i.e. multi-accounts or cheating).
-However, there is a step-by-step process that users follow before getting banned in most cases.
-
-To see the number of bans given each month, see [Ban history](https://osu.ppy.sh/p/bans).
-
 ### Bancho
 
 Bancho is the easily expandable server coded by peppy.
@@ -74,7 +67,7 @@ To see the beatmap packs, see [Beatmap Pack Listing](https://osu.ppy.sh/p/packli
 ### Beat spacing
 
 Beat spacing is a principle which states that the spacing of every object (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
-This basically means, `close in time = close in space` and `farther in time = farther in space`.
+This basically means, close in time = close in space and farther in time = farther in space.
 
 Your beat spacing plays a crucial role when the player is playing your beatmap!
 Consistent beat spacing is a basic requirement to rank a beatmap because it provides the player with a more intuitive experience as the player will learn where to move their cursor along the screen, at a constant speed.
@@ -94,7 +87,7 @@ It is quite like the stages in the DS games.
 At their most basic form, beatmaps have a song, hitcircles, sliders, and/or spinners placed based on the rhythm of the music.
 Nowadays, beatmaps may also have a background image or video, or even a storyboard.
 
-For more details about how beatmaps are uploaded, see [#BSS](#bss).
+For more details about how beatmaps are uploaded, see BSS.
 
 ### Beatmapper
 
@@ -211,8 +204,7 @@ This feature was disabled due to it being a suspect of lag spikes and having a b
 
 ### Cookie
 
-![](img/Intro_static.jpg)
-Yes, that big circle that reads "osu!" is the cookie
+![](img/Intro_static.jpg "Yes, that big circle that reads osu! is the cookie")
 
 The cookie, is another word for "osu!logo" which has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and once in old crash reports (seen [here](img/Pippi_corruption.jpg)).
@@ -302,7 +294,7 @@ These panels are sortable by various attributes.
 Users that are using the osu!client are displayed, not ones that are participating in chat from using a IRC client.
 The user panels supply lots of information on each user.
 If the mouse cursor is placed on them.
-The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat-Console/#panels).
+The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat_Console/).
 
 ## F
 
@@ -385,7 +377,7 @@ A beatmapper whose beatmap is in the graveyard can resurrect their beatmap from 
 3. click the `Graveyarded Beatmaps` tab, and
 4. click the `Resurrect` link
 
-This will allow you to update the beatmap through the [#BSS](#bss).
+This will allow you to update the beatmap through the BSS.
 
 ## H
 
@@ -459,11 +451,9 @@ Thus mappers are advised to use it judiciously.
 
 ### Kudosu!
 
-![Kudosu! Durp](img/Kudosu-Durp.png)
-Kudosu!
+![](img/Kudosu-Durp.png "Kudosu! Durp")
 
-![Button to give a Kudosu!](img/Givekudosu.jpg)
-Button to give Kudosu!
+![](img/Givekudosu.jpg "Button to give a Kudosu!")
 
 Kudosu is a form of reward obtained from modding beatmaps.
 The term "Kudosu" is named after a combination of the words "kudos" and "osu!".
@@ -580,7 +570,7 @@ osu! has three meanings:
 
 - the rhythm video game for the Microsoft Windows Operating Systems. Spelled with a lowercase "o" and an exclamation mark at the end.
 - osu!standard, the game mode that osu! was originally based on.
-- An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!) Pronounced with a silent u ("OSS"). Close English equivalents include "Yo!" or "Hey!". To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/viewtopic.php?p=2686#p2686).
+- An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!) Pronounced with a silent u ("OSS"). Close English equivalents include "Yo!" or "Hey!". To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
 
 ### osu!academy
 
@@ -752,7 +742,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 A skin is a set of graphics and custom sample sets that can be chosen to replace the default ones used by osu! in order to customise one's playing experience.
 Most of what you see and hear in osu! can be skinned.
 
-To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/viewforum.php?f=15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
 
 For a list of skinnable elements, see [Skinning](/wiki/Skinning/).
 
@@ -828,7 +818,7 @@ Star priority has two meanings:
    - at least 12 star priority is needed for a map to be bubbled or ranked
 2. a method in determining whether a Feature Request is wanted by the community
    - the higher the star priority, the faster it gets noticed
-   - users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/Star.png)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
+   - users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/Star.gif)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
 
 ### Storyboard
 
@@ -989,7 +979,7 @@ There are various reasons to mark a beatmap as WIP:
   - suggestions on the timing,
   - needs feedback
 
-WIPs can be submitted through the [#BSS](#bss) to the Beatmap Help forum to get comments, feedback and help from mods and other users.
+WIPs can be submitted through the BSS to the Beatmap Help forum to get comments, feedback and help from mods and other users.
 
 ## Z
 
