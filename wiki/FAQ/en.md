@@ -69,10 +69,10 @@ _Full explanation: [osu!][osu wikilink]_
 While most PC users will not have a touchscreen at their disposal, this game was made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Game-play Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial_basic], [Ranked beatmap version][osu!tutorial_rank]_
+*Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial_basic], [Ranked beatmap version][osu!tutorial_rank]*
 
 The game-play puts emphasis on your:-
--   Adaptability and reaction to stimuli (that is, the hitable objects appearing all over the screen at lightning speed).
+-   Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
 -   Understanding of the song beat and design.
 -   Your control of your mouse (or your fingers/pen-control skills if you are using a tablet instead).
 -   Timing of your hits on the object that appeared on the screen.
@@ -81,23 +81,23 @@ The game-play puts emphasis on your:-
 -   Proper mouse positioning and hand-eye coordination.
 -   Your hardware capability (especially your mouse/tablet).
 
-These are some of the vital skills you will learn as you progress your journey on becoming an osu! rhythm master. Before you set out to become a rhythm master, you must learn the basics (and theories) of the hitable objects.
+These are some of the vital skills you will learn as you progress your journey on becoming an osu! rhythm master. Before you set out to become a rhythm master, you must learn the basics (and theories) of the hittable objects.
 
-Let us learn about what the hitable objects are, shall we?
+Let us learn about what the hittable objects are, shall we?
 
 ##### Hit-circles
 ![Hit-circles][osu_hitcircles image]
 
 Here you can see the circles you have to tap.
 
-The smaller coloured approach circle on the outside shrinks and you have to hit the note at the exact point when it touches the white border of hit-circle. To understand the hidden charm of hit-circles, you should not only rely on your perception (your eyes) but also the understanding of the beatmaps' beats and rhythm by your ears (auditory).
+A thin, similar coloured approach circle on the outside of the hit-circle will shrinks over time, and you have to hit the note at the exact point when it touches the white border of the hit-circle. To understand the hidden charm of hit-circles, you should not only rely on your perception (your eyes) but also the understanding of the beatmap's beats and rhythm by your ears (auditory).
 
 ##### Sliders
 ![Sliders][osu_slider image]
 
 Here we have a slider.
 
-First, you have to hit it at the right moment, but it does not end there. A ball will start to move across the path you see. You have to hold the mouse/keyboard-button (or your finger/pen on the tablet) and keep your pointer inside the thick orange circle surrounding the ball as it moves. You cannot control the movement, and you must follow its movement. The orange circle will appear if you are holding it and disappears when you leave it.
+First, you have to hit it at the right moment, but it does not end there. A ball will start to move across the path you see. You have to hold the mouse/keyboard-button (or your finger/pen on the tablet) and keep your pointer inside the thick orange circle surrounding the ball as it moves. The orange circle will appear if you are holding it and disappears when you leave it.
 
 Sometimes, as in the screenshot above, you have to move back at the end of the path. You can tell by the reverse symbol at the end of the path.
 
@@ -106,7 +106,7 @@ Sometimes, as in the screenshot above, you have to move back at the end of the p
 
 This is a spinner.
 
-You have to click then hold the hit-button, and the mouse is used to spin (clockwise or counter-clockwise) in circles like mad before the time (which is, that blue circle line) runs out. The bars on the outside indicate how close you are to passing. The small bar below the spinner shows spins per minute, means the number of spins you are making if you continue that speed of spinning for one minute. If you did not hold any hit-button prior to spinning, you will not fill up the gauge at all.
+You have to click, then hold the hit-button, and use the mouse to spin (clockwise or counter-clockwise) in circles like mad before the time (blue circle line) runs out. The bars on the outside indicate how close you are to passing. The small bar below the spinner shows spins per minute, means the number of spins you are making if you continue that speed of spinning for one minute. If you did not hold any hit-button prior to spinning, you will not fill up the gauge at all.
 
 On the DS, this is a good way to scratch your touchscreen (or screen protectors), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto][Auto wikilink] game modifier spins while the [Spun Out][Spun Out wikilink] game modifier spins slower at 287 spins per minute.
 
@@ -128,7 +128,7 @@ _Full explanation: [osu!taiko][osu!taiko wikilink]_
 
 ![osu!taiko Interface][osu!taiko Interface image]
 
-_[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ is a Taiko Drum rhythm game made by Namco, that involves the simulation of playing the taiko drums to the beat of the music. In osu!, beatmaps can be played in the styling of Taiko no Tatsujin through the use of special Taiko game mode.
+_[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ is a Taiko Drum rhythm game made by Namco, that involves the simulation of playing the Taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of Taiko no Tatsujin through the use of Taiko game mode.
 
 Like basic osu!, there are three elements of gameplay.
 
@@ -138,27 +138,24 @@ Like basic osu!, there are three elements of gameplay.
 ![Taiko hitcircles][Taiko hitcircles image]
 
 This will appear as either a red or a pale-blue circle. They are named as red (Don) notes and blue (Katu) notes.
--   If it is a small red note, you must press the button bound to the inner portion of the Taiko drum or hit the large flat area (center) of the TaTaCon.
--   If it is a small blue note, you must press the button bound to the outer ring of the Taiko drum or hit the sides of the TaTaCon.
--   If the note is a **LARGE** circle, you should press or hit both of either inner or outer drum depending on the colour of the note for additional points.
-    -   The notes must be pressed or hit when they reach the small white circle next to the drum below the status bar on the play-field.
+
+If it is a small red note, you must press the button bound to the inner portion of the Taiko drum or hit the large flat area (center) of the TaTaCon. If it is a small blue note, you must press the button bound to the outer ring of the Taiko drum or hit the sides of the TaTaCon. If the note is a **LARGE** circle, you should press or hit both of either inner or outer drum depending on the colour of the note for additional points.
+
+The notes must be pressed or hit when they reach the small white circle next to the drum below the status bar on the playfield.
 
 ##### Drum rolls
 ![Taiko drumroll][Taiko drumroll image]
 
-Drum rolls appears as yellow bar in the play-field with tiny hitcircles evenly-spaced inside.
--   You should hit the inner (or outer) drum continuously until it is done.
-    -   For **LARGE** note, you should hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
--   You gain points for each successful hits.
-    -   Do note that drum rolls hits were hardcapped based on settings (specifically, slider settings) and only counts when you hit on the tiny hitcircles, rather than drumrolling as fast as you can in _Taiko no Tatsujin_.
--   You can choose to ignore it at the cost of your possible points gained from the drum roll.
+Drum rolls appears as yellow bar in the play-field with tiny hit-circles evenly-spaced inside.
+
+You should hit the inner (or outer) drum continuously for points until it is done. For **LARGE** note, you should hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done. Do note that drum rolls hits were hardcapped and only counted when you hit on the tiny hitcircles, rather than drumrolling as fast as you can as in _Taiko no Tatsujin_. You can choose to ignore it with no health penalty but at the cost of your possible points gained from the drum roll.
 
 ##### Dendens
 ![Taiko spinner][Taiko spinner image]
 
 These appear as spinners, with a countdown displaying the time you have remaining to clear it.
--   You must hit the inner and outer drum in order (like red,red, blue,blue, red,red, and so on) until the Denden meter is full.
--   Bonus points are given for extra hits after completing the Denden.
+
+You must hit the inner and outer drum in order (like red,red, blue,blue, red,red, and so on) until the Denden meter is full. Bonus points are given for extra hits after completing the Denden.
 
 #### Controls
 The default controls for the Taiko mod are:
@@ -182,9 +179,9 @@ _osu!catch_ (previously known as _Catch the Beat_) is the second special game mo
 Instead of clicking circles, you are now tasked to move the catcher at the bottom of the screen while the fruits fall from above.
 
 #### Controlling the catcher
-If the [Relax][Relax wikilink] mod was used, control of the catcher will be done by moving the mouse instead.
--   By default, the left \[&lt;-\] and right \[-&gt;\] arrow keys are used to move the catcher.
--   Pressing the left \[SHIFT\] key with one of the arrow keys will make the catcher _dash_ in that direction at x1.5 speed (indicated by a **bright glow** at the catcher).
+If [Relax][Relax wikilink] mod was used, control of the catcher will be done by moving the mouse instead.
+-   By default, the left `&lt;-` and right `-&gt;` arrow keys are used to move the catcher.
+-   Pressing the left `SHIFT` key with one of the arrow keys will make the catcher _dash_ in that direction at x1.5 speed (indicated by a **bright glow** at the catcher).
 
 ### What is "osu!mania"?
 _Full explanation: [osu!mania][osu!mania wikilink]_
@@ -294,8 +291,7 @@ If you have any questions regarding pp, please refer to the [wiki page for pp fi
 #### Where can I find and get the beatmaps?
 _Detailed explanation of the beatmaps: [Beatmaps][Beatmaps wikilink]_
 
-You can find it from the main page under the name "[Beatmaps][Beatmaplist link]".
--   Just remember to log in to your osu! account beforehand or the server treats you as a guest and prohibit you from downloading beatmaps from the site.
+You can find it from the main page under the name "[Beatmaps][Beatmaplist link]". Just remember to log in to your osu! account beforehand or the server treats you as a guest and prohibit you from downloading beatmaps from the site.
 
 #### Can I disable "Kiai Time"?
 **No**, because unlike video, it was integrated to the game (as a part with the hit objects), thus cannot be disabled.
@@ -322,10 +318,13 @@ Manually select the game mode at your profile that you want to view.
 #### Why am I seeing random white lines on screen every time I play?
 Make sure that the smoke/skywriting key binding is not the same as the keybinding you use at playing.
 
-Image | Description
-:---: | :---
-![osu! smoke effect][osu_smoke image] | Usage of "Smoke"
-![osu! smoke settings][osu_smoke_set image] | "Smoke" in key bindings settings; hold [C] key to trigger by default in osu!
+![osu! smoke effect][osu_smoke image]
+
+_Usage of "Smoke"_
+
+![osu! smoke settings][osu_smoke_set image]
+
+_"Smoke" in key bindings settings; hold [C] key to trigger by default in osu!_
 
 ### Why do I not have the max possible combo when I have no misses?
 You released a slider too early or you barely clicked the hit-circle. [Answer's Source][reddit osugame wiki]
@@ -336,15 +335,15 @@ _For unranked beatmaps only._
 
 ![Example of an .osu file content][Beatmap_not_owned image]
 
-Please follow these steps:
+Please follow these steps:-
 1.  Leave the editor (or close osu!) to make sure the changes apply properly
 2.  Check the name of the beatmap's folder
-    -   If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
+  -   If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
 3.  Make sure that the .mp3 does not start with numbers. Edit the filename in the .osu files if it does.
 4.  Open all the .osu files with a text editor (Notepad will work)
-    -   Set your name as creator (and replace it in the file name as well)
-    -   Set the BeatmapID to 0
-    -   Set the BeatmapSetID to -1
+  -   Set your name as creator (and replace it in the file name as well)
+  -   Set the BeatmapID to 0
+  -   Set the BeatmapSetID to -1
 
 ## Credits
 -   peppy's old FAQ ("/p/faq/" which this page is based on)
