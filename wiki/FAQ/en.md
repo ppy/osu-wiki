@@ -294,7 +294,7 @@ _Detailed explanation of the beatmaps: [Beatmaps][Beatmaps wikilink]_
 You can find it from the main page under the name "[Beatmaps][Beatmaplist link]". Just remember to log in to your osu! account beforehand or the server treats you as a guest and prohibit you from downloading beatmaps from the site.
 
 #### Can I disable "Kiai Time"?
-**No**, because unlike video, it was integrated to the game (as a part with the hit objects), thus cannot be disabled.
+**No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
 
 #### The maps are too hard! Where can I find some easier maps?
 Pokebis has compiled a set of beatmaps suitable for beginners to play. You can find them here: <https://osu.ppy.sh/forum/t/5456>
@@ -326,8 +326,8 @@ _Usage of "Smoke"_
 
 _"Smoke" in key bindings settings; hold [C] key to trigger by default in osu!_
 
-### Why do I not have the max possible combo when I have no misses?
-You released a slider too early or you barely clicked the hit-circle. [Answer's Source][reddit osugame wiki]
+<!-- ### Why do I not have the max possible combo when I have no misses? -->
+<!-- You released a slider too early or you barely clicked the hit-circle. [Answer's Source][reddit osugame wiki] -->
 
 ### Beatmapping
 #### "This beatmap you're trying to submit isn't owned by you!"
@@ -350,4 +350,4 @@ Please follow these steps:-
 -   Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial_basic], [Ranked beatmap ver.][osu!tutorial_rank])
 -   Pokebis's Beginner's Training [\[2\]](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis")
 -   Wikipedia [\[3\]][ouendan wikipedia], [\[4\]][Taiko no Tatsujin wikipedia]
--   Reddit's /r/osugame/wiki [\[5\]][reddit osugame wiki]
+<!-- -   Reddit's /r/osugame/wiki [\[5\]][reddit osugame wiki] -->
