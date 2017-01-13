@@ -1,3 +1,6 @@
+Raccourcis clavier
+==================
+
 Dans osu!, il existe divers raccourcis qui peuvent être utilisés dans le jeu et les menus. Ils sont listés ici avec leurs fonctions ci-dessous.
 
 Raccourcis généraux
@@ -29,7 +32,7 @@ Menu principal
 --------------
 
 -   **P**: Mode Play (deux fois pour l'écran de sélection des beatmaps)
--   **P-M**: Mode Play ([Multijoueur](FR:Multiplayer "wikilink"))
+-   **P-M**: Mode Play ([Multijoueur](/wiki/Multiplayer))
 -   **E**: Mode Edit (Sélection de la beatmap)
 -   **J**: Aller à (jukebox)
 -   **Z/X/C/V/B**: Commandes du jukebox (interface Winamp)
@@ -41,15 +44,15 @@ Menu principal
 Sélection de la beatmap
 -----------------------
 
--   **F1**: [Modes de difficulté](FR:Game_Modifiers "wikilink")
+-   **F1**: [Modes de difficulté](/wiki/Game_Modifiers)
 -   **F2**: Map aléatoire
 -   **Shift+F2**: Annuler la sélection aléatoire
 -   **F3**: Options de la beatmap sélectionnée
 -   **F5**: Rafraîchir la liste des beatmaps (réparer la liste)
 -   **MAJ-Suppr**: Supprimer la map sélectionnée
--   **Ctrl-1/2/3/4**: Passer respectivement entre les modes ![](osu.gif "fig:osu.gif")[osu! Standard](FR:Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")[Taiko](FR:Taiko "wikilink") / ![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](FR:Catch_The_Beat "wikilink") / ![](mania.gif "fig:mania.gif")[osu!mania](FR:Osu!mania "wikilink").
--   **Ctrl-Entrée**: Jouer la map actuelle avec le mod [Auto](FR:Game_Modifiers#Auto "wikilink").
--   **Ctrl-MAJ-Entrée**: Jouer la map actuelle avec le mod [Cimema](FR:Game_Modifiers#Cinema "wikilink").
+-   **Ctrl-1/2/3/4**: Passer respectivement entre les modes ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania).
+-   **Ctrl-Entrée**: Jouer la map actuelle avec le mod [Auto](/wiki/Game_Modifiers#Auto).
+-   **Ctrl-MAJ-Entrée**: Jouer la map actuelle avec le mod [Cimema](/wiki/Game_Modifiers#Cinema).
 -   **Ctrl-A**: Active le mod Auto
 -   **Ctrl+(F3/F4) ou Ctrl+(+/-)**: Augmente ou diminue la vitesse de défilement (osu!mania seulement)
 -   **Ctrl+Backspace**: Efface le dernier mot de la recherche
@@ -63,25 +66,27 @@ Sélection de la beatmap
 Modes de difficulté
 -------------------
 
-Note: Les mods spéciaux comme [Perfect](FR:Game_Modifiers#Perfect "wikilink") ou [Nightcore](FR:Game_Modifiers#Nightcore "wikilink") nécessitent d'appuyer sur la touche correspondante une nouvelle fois.<img src="Soloplay8.png" title="fig:osu! Liste des mods possibles (Touches dans l&#39;ordre)" alt="osu! Liste des mods possibles (Touches dans l&#39;ordre)" width="300" />
+Note: Les mods spéciaux comme [Perfect](/wiki/Game_Modifiers#Perfect) ou [Nightcore](/wiki/Game_Modifiers#Nightcore) nécessitent d'appuyer sur la touche correspondante une nouvelle fois.
 
--   **Q**: [Easy](FR:Game_Modifiers#Easy "wikilink")
--   **W**: [No Fail](FR:Game_Modifiers#No_Fail "wikilink")
--   **E**: [Half-Time](FR:Game_Modifiers#Half_Time "wikilink")
+![osu! Liste des mods possibles (Touches dans l'ordre)](Soloplay8.png "osu! Liste des mods possibles <Touches dans l'ordre>")
 
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](FR:Game_Modifiers#Hard_Rock "wikilink")
--   **S**: [Sudden Death](FR:Game_Modifiers#Sudden_Death "wikilink")
--   **D**: [Double Time](FR:Game_Modifiers#Double_Time "wikilink")
--   **F**: [Hidden](FR:Game_Modifiers#Hidden "wikilink")
--   **G**: [Flashlight](FR:Game_Modifiers#Flashlight "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers#Easy)
+-   **W**: [No Fail](/wiki/Game_Modifiers#No_Fail)
+-   **E**: [Half-Time](/wiki/Game_Modifiers#Half_Time)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](FR:Game_Modifiers#Relax "wikilink") (Aucun effet sur les mods 4/5/6/7/8K d'osu!mania)
--   **C**: [Auto-Pilot](FR:Game_Modifiers#Auto_Pilot "wikilink")
--   **V**: [Spun-Out](FR:Game_Modifiers#Spun_Out "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers#Hard_Rock)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers#Sudden_Death)
+-   **D**: [Double Time](/wiki/Game_Modifiers#Double_Time)
+-   **F**: [Hidden](/wiki/Game_Modifiers#Hidden)
+-   **G**: [Flashlight](/wiki/Game_Modifiers#Flashlight)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers#Relax) (Aucun effet sur les mods 4/5/6/7/8K d'osu!mania)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers#Auto_Pilot)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers#Spun_Out)
 -   **B**: Auto
 
 Mode Play
@@ -102,36 +107,36 @@ Mode Edit
 
 #### Géneral
 
-<img src="Edit Help.jpg" title="Ce qui apparaît en appuyant sur H (l&#39;aide)" alt="Ce qui apparaît en appuyant sur H (l&#39;aide)" width="500" />
+![Ce qui apparaît en appuyant sur H (l'aide)](Edit_Help.jpg "Ce qui apparaît en appuyant sur H <l'aide>")
 
 -   **H**: Aide (Contient tous les raccourcis montrés ci-contre)
 
-<u>**Musique**</u>
+**Musique**
 
 -   **Z**: Arrêter
 -   **X**: Jouer depuis le début
 -   **C ou Espace**: Pause/Reprendre
 -   **Flèches gauche et droite**: Naviguer dans la musique. Maintenez MAJ pour aller 4 fois plus vite.
 
-**<u>Commandes des marques-pages</u>**
+**Commandes des marques-pages**
 
 -   **Ctrl+B**: Ajoute un marque-page au moment actuel.
 -   **Ctrl+MAJ+B**: Retire un marque-page au moment actuel.
 -   **Ctrl+Flèche gauche**: Saute au marque-page précédent.
 -   **Ctrl+Flèche droite**: Saute au marque-page suivant.
 
-**<u>Sauvegarde et réinitialisation</u>**
+**Sauvegarde et réinitialisation**
 
 -   **Ctrl+L**: Revenir à la dernière sauvegarde
 -   **Ctrl+S**: Sauvegarde rapide
 -   **Ctrl+N**: Retire toutes les notes (mais garde le timing/configuration de la beatmap)
 
-**<u>Changement de mode</u>**
+**Changement de mode**
 
--   **F1**: Mode [Composition](FR:Compose "wikilink")
--   **F2**: Mode [Design](FR:Design "wikilink")
--   **F3**: Mode [Timing](FR:Timing "wikilink")
--   **F4**: [Configuration de la beatmap](FR:Song_Setup "wikilink")
+-   **F1**: Mode [Composition](/wiki/Compose)
+-   **F2**: Mode [Design](/wiki/Design)
+-   **F3**: Mode [Timing](/wiki/Timing)
+-   **F4**: [Configuration de la beatmap](/wiki/Song_Setup)
 
 #### Mode Composition
 
@@ -165,7 +170,6 @@ Mode Edit
 -   **Clic droit**: Commence un nouveau combo, termine le placeùent d'un slider ou retire un point, retire un cercle (seulement en mode sélection ou en je jouant pas l'audio).
 -   **Molette de la souris**: Avance/Recule dans la musique. Maintenez MAJ pour aller 4x plus vite.
 -   **Ctrl + Alt + Molette de la souris**: Change le mode de placement/sélection dans l'aire de jeu.
--   **Ctrl + Molette**: Augmente/Réduit le [snap divisor](FR:Distance_Snap "wikilink").
+-   **Ctrl + Molette**: Augmente/Réduit le [snap divisor](/wiki/Distance_Snap).
 -   **Alt + Molette**: Augmente/Réduit le multiplicateur de distance. Change le zoom du timeline dans le timeline.
 -   **Glisser**: Déplace la sélection des notes (position et temps), déplace les points dans le slider. Déplace la fin des sliders/spinners pour la rallonger dans le temps.
-

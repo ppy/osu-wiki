@@ -1,3 +1,6 @@
+Shortcut Key Reference - Spanish
+=================================
+
 En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectivos menús. Están mencionados a continuación con sus respectivas funciones.
 
 Global
@@ -29,7 +32,7 @@ Menú Principal
 --------------
 
 -   **P**: Modo Jugar (doble click para seleccionar canción)
--   **P-M**: Modo Jugar ([Multijugador](ES:Multiplayer "wikilink"))
+-   **P-M**: Modo Jugar ([Multijugador](/wiki/Multiplayer))
 -   **E**: Modo Editar (elección de canción)
 -   **J**: Saltar a (pestaña)
 -   **Z/X/C/V/B**: Control de la jukebox (layout de Winamp)
@@ -41,16 +44,16 @@ Menú Principal
 Elección de Canción
 -------------------
 
--   **F1**: [Selección de Mods](ES:Game_Modifiers "wikilink")
+-   **F1**: [Selección de Mods](/wiki/Game_Modifiers)
 -   **F2**: Mapa aleatorio
 -   **Shift+F2**: Deshace el mapa aleatorio
 -   **F3**: Opciones del beatmap
 -   **F5**: Refrescar la lista de canciones (modo de reparación)
 -   **Shift+Delete**: Borrar el mapa actual
--   **Ctrl+(1/2/3/4)**: Cambia a ![](osu.gif "fig:osu.gif")[osu! Standard](ES:Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")<ES:Taiko> / ![](Ctb.gif "fig:Ctb.gif")[ES:Catch the Beat](ES:Catch_the_Beat "wikilink") / ![](mania.gif "fig:mania.gif")<ES:osu!mania> los modos de juego respectivamente.
--   **Ctrl+Enter**: Juega el mapa actual con el mod <ES:Auto>
+-   **Ctrl+(1/2/3/4)**: Cambia a ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) los modos de juego respectivamente.
+-   **Ctrl+Enter**: Juega el mapa actual con el mod </wiki/Auto>
 -   **Ctrl+Shift+Enter**: Juega el mapa actual con el mod Cinema
--   **Ctrl+A**: Activa/Desactiva el mod <ES:Auto>
+-   **Ctrl+A**: Activa/Desactiva el mod </wiki/Auto>
 -   **Ctrl+(F3/F4)** o **Ctrl+(+/-)**: Aumenta / Disminuye la velocidad de osu!mania (solamente en el modo osu!mania)
 -   **Ctrl+Retroceso**: Borra la última palabra (mientras se usa el buscador)
 -   **Arriba/Abajo**: Cambia la selección de dificultades en el mismo beatmap
@@ -63,25 +66,27 @@ Elección de Canción
 Pantalla de Mods
 ----------------
 
-Nota: Mods especiales tales como [Perfect](ES:PF "wikilink") o [Nightcore](ES:NC "wikilink") necesitan de un clic adicional.<img src="Soloplay8.png" title="fig:Lista de posibles mods de osu! (teclas en orden)" alt="Lista de posibles mods de osu! (teclas en orden)" width="300" />
+Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/wiki/Game_Modifiers) necesitan de un clic adicional.
 
--   **Q**: [Easy](ES:EZ "wikilink")
--   **W**: [No Fail](ES:NF "wikilink")
--   **E**: [Half-Time](ES:HT "wikilink")
+![Lista de posibles mods de osu! (teclas en orden)](Soloplay8.png "Lista de posibles mods de osu! <teclas en orden>")
 
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](ES:HR "wikilink")
--   **S**: [Sudden Death](ES:SD "wikilink")
--   **D**: [Double Time](ES:DT "wikilink")
--   **F**: [Hidden](ES:HD "wikilink")
--   **G**: [Flashlight](ES:FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](ES:RL "wikilink") (No hace efecto en osu!mania en 4/5/6/7/8K mod)
--   **C**: [Auto-Pilot](ES:AP "wikilink")
--   **V**: [Spun-Out](ES:SO "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers) (No hace efecto en osu!mania en 4/5/6/7/8K mod)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
 Durante la partida
@@ -102,31 +107,31 @@ Modo de Edición
 
 #### General
 
-<img src="Edit Help.jpg" title="Cómo se debería ver cuando presionas la tecla H (Ayuda)" alt="Cómo se debería ver cuando presionas la tecla H (Ayuda)" width="500" />
+![Cómo se debería ver cuando presionas la tecla H (Ayuda)](Edit_Help.jpg "Cómo se debería ver cuando presionas la tecla H <Ayuda>")
 
 -   **H**: Ayuda (Contiene todos los atajos que se demuestran abajo)
 
-<u>**Música**</u>
+**Música**
 
 -   **Z**: Parar
 -   **X**: Reproducir desde el principio
 -   **C o Barra espaciadora**: Pausar/Reproducir
 -   **Teclas Izquierda y Derecha**: Avanzar/Retroceder la canción. Mantén apretado Shift para velocidad 4x.
 
-**<u>Comandos de marcador</u>**
+**Comandos de marcador**
 
 -   **Ctrl+B**: Adiciona un marcador en la posición actual.
 -   **Ctrl+Shift+B**: Remueve el marcador en la posición actual.
--   *'Ctrl+Flecha Izquierda*: Salta al marcador anterior.
+-   **Ctrl+Flecha Izquierda**: Salta al marcador anterior.
 -   **Ctrl+Flecha Derecha**: Salta al marcador siguiente.
 
-**<u>Guardar y Reiniciar</u>**
+**Guardar y Reiniciar**
 
 -   **Ctrl+L**: Revertir para la versión guardada.
 -   **Ctrl+S**: Guardado rápido.
 -   **Ctrl+N**: Remover todas las notas (mantiene el timing/ajustes del mapa)
 
-**<u>Cambio de Modo</u>**
+**Cambio de Modo**
 
 -   **F1**: Modo de Composición
 -   **F2**: Modo de Diseño (únicamente cosas básicas por el momento)
@@ -170,4 +175,3 @@ Modo de Edición
 -   **Ctrl + Rueda de Desplazamiento**: Aumenta/Reduce el Snap Divisor.
 -   **Alt + Rueda de Desplazamiento**: Aumenta/Reduce el alt-Snapping Distance Multiplier. Cambia el zoom de la línea de tiempo cuando el mouse está sobre el mismo.
 -   **Arrastrar**: Mover selecciones de notas (posición y tiempo), mover puntos de un mismo slider. Arrastrar el final de los sliders o spinners en la línea de tiempo para extenderlos.
-

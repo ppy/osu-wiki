@@ -1,3 +1,6 @@
+Tastenkürzel
+==============
+
 In osu! gibt es viele verschiedene Tastenkürzel, welche im Spiel und in den Meüus genutzt werden können.
 
 Im Spiel
@@ -29,7 +32,7 @@ Nur im Menü
 <!-- -->
 
 -   **P**: Spielmodus (zweimal, um zur Songauswahl zu gelangen)
--   **P-M**: Spielmodus ([Multi-Play](DE:Multiplayer "wikilink"))
+-   **P-M**: Spielmodus ([Multi-Play](/wiki/Multiplayer))
 -   **E**: Edit Mode (Songauswahl)
 -   **J**: Spring zu (Jukebox)
 -   **Z/X/C/V/B**: Jukebox Steuerung (Winamp Layout)
@@ -41,14 +44,14 @@ Nur im Menü
 Songauswahl
 -----------
 
--   **F1**: [Modauswahl](DE:Game_Modifiers "wikilink")
+-   **F1**: [Modauswahl](/wiki/Game_Modifiers)
 -   **F2**: Zufällige Beatmap
 -   **Shift + F2**:
 -   **F3**: Beatmap Options
 -   **F5**: Songauswahl neuladen (Repariermodus)
 -   **Shift + Entf**: Ausgewählte Beatmap löschen
--   **STRG + (1/2/3/4)**: Wechselt zum ![](osu.gif "fig:osu.gif")[osu! Standard](DE:Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")[Taiko](DE:Taiko "wikilink") / ![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](DE:CtB "wikilink") / ![](mania.gif "fig:mania.gif")[osu!mania](DE:Osu!mania "wikilink") Spielmodus.
--   **STRG + Eingabetaste**: Spielt die ausgewählte Map mit [Auto](DE:Auto "wikilink") Mod.
+-   **STRG + (1/2/3/4)**: Wechselt zum ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) Spielmodus.
+-   **STRG + Eingabetaste**: Spielt die ausgewählte Map mit [Auto](/wiki/Game_Modifiers) Mod.
 -   **STRG + Shift + Eingabetaste**: Spielt die ausgewählte Map mit Cinema Mod.
 -   **STRG + A**: Schaltet den Auto Mod an
 -   **STRG + (F3/F4)** oder **STRG + (+/-)**: osu!mania Geschwindigkeit erhöhen/verringern (nur im osu!mania Modus)
@@ -61,26 +64,26 @@ Songauswahl
 Modauswahl
 ----------
 
-<img src="DE-Soloplay8.jpg" title="osu! listet alle möglichen Mods auf" alt="osu! listet alle möglichen Mods auf" width="300" />
+![osu! listet alle möglichen Mods auf](Soloplay8.png "osu! listet alle möglichen Mods auf")
 
--   **Q**: [Easy](DE:EZ "wikilink")
--   **W**: [No Fail](DE:NF "wikilink")
--   **E**: [Half-Time](DE:HT "wikilink")
-
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](DE:HR "wikilink")
--   **S**: [Sudden Death](DE:SD "wikilink")/[Perfect](DE:PF "wikilink")
--   **D**: [Double Time](DE:DT "wikilink")/[Nightcore](DE:NC "wikilink")
--   **F**: [Hidden](DE:HD "wikilink")
--   **G**: [Flashlight](DE:FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **Z**: [Relax](DE:RL "wikilink") (Kein Einfluss auf osu!manias 4/5/6/7/8K Mod)
--   **X**: [Auto-Pilot](DE:AP "wikilink")
--   **C**: [Spun-Out](DE:SO "wikilink")
--   **V**: [Auto](DE:Auto "wikilink")/[Cinema](DE:Cinema "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)/[Perfect](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)/[Nightcore](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **Z**: [Relax](/wiki/Game_Modifiers) (Kein Einfluss auf osu!manias 4/5/6/7/8K Mod)
+-   **X**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **C**: [Spun-Out](/wiki/Game_Modifiers)
+-   **V**: [Auto](/wiki/Game_Modifiers)/[Cinema](/wiki/Game_Modifiers)
 
 Spielmodus
 ----------
@@ -100,31 +103,31 @@ Editor Modus
 
 #### Allgemeines
 
-<img src="Edit Help.jpg" title="Wie es aussehen würde, wenn Sie auf die H-Taste klicken." alt="Wie es aussehen würde, wenn Sie auf die H-Taste klicken." width="500" />
+![Wie es aussehen würde, wenn Sie auf die H-Taste klicken.](Edit_Help.jpg "Wie es aussehen würde, wenn Sie auf die H-Taste klicken.")
 
 -   **H**: Hilfe (Beinhaltet alle hier unten genannten Tastenkürzel)
 
-<u>**Musik**</u>
+**Musik**
 
 -   **Z**: Stop
 -   **X**: Von vorne beginnen
 -   **C oder Leertaste**: Pause/Fortsetzen
 -   **Linke und rechte Pfeiltaste**: Position im Lied ändern. Halte Shift für die 4-fache Geschwindigkeit gedrückt.
 
-**<u>Lesezeichen Kommandos</u>**
+**Lesezeichen Kommandos**
 
 -   **STRG + B**: Lesezeichen an die Position hinzufügen.
 -   **STRG + Shift + B**: Lesezeichen von der Position entfernen.
 -   **STRG + linke Pfeiltaste**: Zum vorherigen Lesezeichen springen.
 -   **STRG + rechte Pfeiltaste**: Zum nächsten Lesezeichen springen.
 
-**<u>Speichern und zurücksetzen</u>**
+**Speichern und zurücksetzen**
 
 -   **STRG + L**: Das Gespeicherte rückgängig machen
 -   **STRG + S**: Schnellspeichern
 -   **STRG + N**: Alle Hit Objekte entfernen
 
-**<u>Modus wechseln</u>**
+**Modus wechseln**
 
 -   **F1**: Kompositonsmodus
 -   **F2**: Designmodus
@@ -168,5 +171,3 @@ Editor Modus
 -   **STRG + Mausrad**: Snap Divisor erhöhen/verringern.
 -   **Alt + Mausrad**: Distance Snap Multiplikator erhöhen/verringern.
 -   **Ziehen**: Ausgewählte Hit Objekte oder Punkte von Slider bewegen. Sliderende oder Spinnerende in der Zeitleiste ziehen, um es zu erweitern.
-
-<Category:Deutsch>

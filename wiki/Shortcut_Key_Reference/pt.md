@@ -1,4 +1,7 @@
-''No osu!, existem varios atalhos que podem ser utilizados durante o jogo e em menus. Eles estão listados com suas funções abaixo.
+Teclas de Atalho
+=================
+
+*No osu!, existem varios atalhos que podem ser utilizados durante o jogo e em menus. Eles estão listados com suas funções abaixo.*
 
 Globais
 -------
@@ -28,10 +31,10 @@ Menu Principal
 --------------
 
 -   **P**: Vai para modo jogar (Aperte duas vezes para ir a lista de musicas)
--   **P-M**: Play mode Vai para modo [Multi-Play](Multiplayer "wikilink")
--   **P-S-T**: Vai para modo [Taiko](Taiko "wikilink")
--   **P-S-C**: Vai para modo [Catch the Beat](Catch_the_Beat "wikilink")
--   **P-S-M**: Vai para modo [osu!mania](osu!mania "wikilink")
+-   **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multiplayer)
+-   **P-S-T**: Vai para modo [Taiko](/wiki/Game_Modes/Taiko)
+-   **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat)
+-   **P-S-M**: Vai para modo [osu!mania](/wiki/Game_Modes/Osu!mania)
 -   **E**: Vai para modo Edição de beatmaps
 -   **J**: Abre janela para localizar musica (jukebox)
 -   **Z/X/C/V/B**: comandos do Jukebox (layout do Winamp)
@@ -43,13 +46,13 @@ Menu Principal
 Seleção de Musicas
 ------------------
 
--   **F1**: [Seleçao de Mods](Game_Modifiers "wikilink")
+-   **F1**: [Seleçao de Mods](/wiki/Game_Modifiers)
 -   **F2**: Map Aleatorio (pressione duas vezes rapidamente para seleção aleatória instantânea)
 -   **F3**: Opções do Beatmap
 -   **F5**: Atualizar lista(Modo de Reparo)
 -   **Shift-Delete**: Deleta o Map atual
--   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![](osu.gif "fig:osu.gif")[osu! Standard](Standard "wikilink")/ ![](taiko.gif "fig:taiko.gif")[Taiko](Taiko "wikilink") / ![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](Catch_the_Beat "wikilink") / ![](mania.gif "fig:mania.gif")[osu!mania](osu!mania "wikilink") respectivamente.
--   **Ctrl-Enter**: Jogar map atual com mod [Auto](Auto "wikilink")
+-   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) respectivamente.
+-   **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_Modifiers)
 -   **Ctrl-A**: Alterna Auto mod
 -   **Up/Down**: Muda a seleção
 -   **PageUp/PageDown**: Muda seleção (em grande escala)
@@ -58,25 +61,25 @@ Seleção de Musicas
 Tela de Mods
 ------------
 
-<img src="Soloplay8.png" title="Lista de mods" alt="Lista de mods" width="300" />
+![Lista de mods](Soloplay8.png "Lista de mods")
 
--   **Q**: [Easy](EZ "wikilink")
--   **W**: [No Fail](NF "wikilink")
--   **E**: [Half-Time](HT "wikilink")
-
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](HR "wikilink")
--   **S**: [Sudden Death](SD "wikilink") (Para ativar o mod[Perfect](PF "wikilink") é preciso clicar uma vez mais)
--   **D**: [Double Time](DT "wikilink") (Para ativar o mod [Nightcore](NC "wikilink") é preciso clicar uma vez mais)
--   **F**: [Hidden](HD "wikilink")
--   **G**: [Flashlight](FL "wikilink")
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](RL "wikilink") (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
--   **C**: [Auto-Pilot](AP "wikilink")
--   **V**: [Spun-Out](SO "wikilink")
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers) (Para ativar o mod [Perfect](/wiki/Game_Modifiers) é preciso clicar uma vez mais)
+-   **D**: [Double Time](/wiki/Game_Modifiers) (Para ativar o mod  [Nightcore](/wiki/Game_Modifiers) é preciso clicar uma vez mais)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **X**: [Relax](/wiki/Game_Modifiers) (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
 Durante uma Partida
@@ -96,31 +99,31 @@ Modo de Edição
 
 #### Geral
 
-<img src="Edit Help.jpg" title="Painel de ajuda do editor (ativado ao pressionar H)" alt="Painel de ajuda do editor (ativado ao pressionar H)" width="500" />
+![Painel de ajuda do editor (ativado ao pressionar H)](Edit_Help.jpg "Painel de ajuda do editor <ativado ao pressionar H>")
 
 -   **H**: Ajuda (Contem todos os atalhos listados abaixo)
 
-<u>**Musica**</u>
+**Musica**
 
 -   **Z**: Parar
 -   **X**: Reproduzir do inicio
 -   **C ou Espaço**: Pausar/Reproduzir
 -   **Setas Esquerda e Direita**: Avançar/Retroceder na musica. Segure shift para 4x a velocidade
 
-**<u>Comandos de Bookmarks</u>**
+**Comandos de Bookmarks**
 
 -   **Ctrl+B**: Adiciona bookmark na posição atual.
 -   **Ctrl+Shift+G**: Remove o bookmark na posição atual.
 -   **Ctrl+Left Arrow**: Voltar para o bookmark anterior.
 -   **Ctrl+Right Arrow**: Ir para o proximo bookmark.
 
-**<u>Salvar e Resetar</u>**
+**Salvar e Resetar**
 
 -   **Ctrl+L**: Reverter para versão Salva
 -   **Ctrl+S**: Salvar
 -   **Ctrl+N**: Remover todas notas (Mantém timing/Song Setup)
 
-**<u>Troca de Modo</u>**
+**Troca de Modo**
 
 -   **F1**: Modo Composição
 -   **F2**: Modo Design (apenas para funções básicas)
@@ -162,5 +165,3 @@ Modo de Edição
 -   **Ctrl + Roda do Mouse**: Aumenta/Diminui o snap divisor. Increase/decrease the snap divisor.
 -   **Alt + Roda do Mouse**: Aumenta/Diminui o valor selecionado no Distance Snapping. Muda o zoom da timeline quando o mouse está sobre a mesma.
 -   **Segurar Click esquerdo**: Mover seleções de notas (posição ou tempo), mover pontos do slider. Arrasta o final de slider para adicionar repeat ou muda o tempo inicial/final de Spinners.
-
-<Category:Portuguese> <Category:Guides/PT>
