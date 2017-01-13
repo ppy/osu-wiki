@@ -22,10 +22,9 @@
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
-[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
-[osu!tutorial_rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
-[reddit osugame wiki]: https://www.reddit.com/r/osugame/wiki/index "Reddit r/osugame's wiki"
 
 <!-- image -->
 [ouendan image]: ./Ouendan.jpg "Gameplay footage of Osu! Tatakae! Ouendan in Nintendo DS"
@@ -49,7 +48,10 @@
 [osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch Interface"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
 [osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "osu!mania key layout"
+[Options quickicons image]: /wiki/shared/Options_quickicons.jpg "Options quickicons"
+[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
 [Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "Example of an .osu file content"
+[Mode Interface image]: /wiki/shared/Interface_mode.png "Mode change interface"
 
 <!-- Title -->
 # FAQ
@@ -70,7 +72,7 @@ _Full explanation: [osu!][osu wikilink]_
 While most PC users will not have a touchscreen at their disposal, this game was made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Game-play Basics
-*Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial_basic], [Ranked beatmap version][osu!tutorial_rank]*
+_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
 
 The game-play puts emphasis on your:-
 -   Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
@@ -125,7 +127,12 @@ On the right of the health bar is your score. Below that is your accuracy. The c
 ---
 
 ## Alternative Game Modes
-<!-- Add a section here on how to change the mode -->
+### How to change game mode?
+![Mode change interface][Mode Interface image]
+
+_Image showcasing the Mode toolbox in Song Selection (Solo)_
+
+Click on the _Mode_ button to **open up a list of gameplay modes available on osu!**. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant scoreboard change. Alternatively, you can press `Ctrl` and `1` (![osu! icon][osu! icon link] [osu!standard][osu! wikilink]) / `2` ( ![osu!taiko icon][osu!taiko icon link] [osu!taiko][osu!taiko wikilink]) / `3` (![osu!catch icon][osu!catch icon link] [osu!catch][osu!catch wikilink]) / `4` (![osu!mania icon][osu!mania icon link] [osu!mania][osu!mania wikilink]) on your keyboard to quickly switch to your desired gameplay mode.
 
 ### What is osu!taiko?
 _Full explanation: [osu!taiko][osu!taiko wikilink]_
@@ -183,7 +190,7 @@ _osu!catch_ (previously known as _Catch the Beat_) is the second game mode added
 Instead of clicking circles, you are now tasked to move the catcher at the bottom of the screen while the fruits fall from above.
 
 #### Controlling the catcher
--   By default, the left `&lt;-` and right `-&gt;` arrow keys are used to move the catcher.
+-   By default, the left `<-` and right `->` arrow keys are used to move the catcher.
 -   Pressing the left `Shift` key with one of the arrow keys will make the catcher _dash_ in that direction at x1.5 speed (as indicated with a **bright glow** from the catcher).
 
 If you enable the [Relax][Relax wikilink] mod, you can control the catcher with your in-game cursor instead. However, this will make your play unrankable.
@@ -197,7 +204,7 @@ osu!mania is the third game mode added to osu!, after osu!taiko and osu!catch ga
 
 This mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. With this, the player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the Beatmania style of playing, osu!mania allows changing number of keys you play with (this means you can make it look more like Guitar Hero \[5 keys\] or Dance Dance Revolution \[4 keys\] and so on).
 
-Currently, you can manually set from 1 to 9 Key by the [xK][xK wikilink] game modifier (when converting from osu!standard, the default key range would be around 4 to 7 Key, except for osu!mania-specific beatmaps) to an upward of 2 to 18 Key (two playfield) with the [Co-Op][Co-Op wikilink] game modifier.
+When converting an osu!standard beatmap, the default key range would be around 4 to 7 keys. With the [xK][xK wikilink] game modifier, you can manually set the number of keys you play with 1 to a total of 9 keys with a score multiplier reduction. However, this game modifier will not work with osu!mania-specific beatmaps. With the [Co-Op][Co-Op wikilink] game modifier, you can split the stage in two. This will use Co-Op's control scheme and will allows you to play with 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
 
 #### Controls
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
@@ -207,10 +214,10 @@ There two different binding-styles, _Symmetrical_ and _Left to Right_.
 -   _Left to Right_ style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
 
 _Symmetrical_ key binding (For DJMAX style)
--   For _left_ hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
--   For _right_ hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
--   *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
--   The _Special_ button — **left SHIFT** and **left control "Ctrl"**.
+-   For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+-   For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+-   *Center* button — (K5)`Spacebar`. \[On 5K and 7K only\]
+-   The _Special_ button — `leftShift` and `leftCtrl`.
 
 Key | L | C | R
 :---:|:---|:---:|---:
@@ -221,8 +228,8 @@ Key | L | C | R
 8K|K1, K2, K3, K4|-|K6, K7, K8, K9
 
 _Left to Right_ key binding (For Beatmania IIDX style)
--   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
--   The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+-   From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
+-   The *Special* button — `leftShift` and `leftCtrl`.
 
 Key | Bindings
 :---:|:---
@@ -275,15 +282,15 @@ _Detailed explanation of scoring can be found at the game style's own respective
 -   Silver S (SH) = Normal grade S with _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
 
 **Regarding the "Ranks" in profile page**
--   Grades you obtained will be set at your profile page under General-&gt;Ranks provided you are online when receiving the grade.
-  -   **Offline play** even when your account is logged in is **not counted**.
+-   Grades obtained will be set at your profile page under General-&gt;Ranks provided you are online when receiving the grade.
+  -   **Offline play**, even with your account logged in, **will not be counted**.
 -   **Grades given for your profile depends on beatmap difficulties, not as whole.**
   -   If the beatmap has 3 difficulties, and you SS all three of them, you will receive 3 SS and not just one SS in your profile.
 
 ## Performance Points
 _Full explanation: [Performance Points][Performance Points wikilink]_
 
-Performance points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of your scores will be rated and assigned a pp value. Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your scores on difficult songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for that game mode.
+Performance points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of your scores will be rated and assigned a pp value. Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your scores on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for that game mode.
 
 If you have any questions regarding pp, please refer to the [wiki page for pp first][Performance Points#FAQ wikilink].
 
@@ -311,33 +318,35 @@ Alternatively, you can [sort the ranked beatmap list by difficulty][sort beatmap
 #### What does Level in my profile actually do?
 **Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
 
-Level was based on your total score accumulated when online with your account whether you passed or failed the beatmap. [Formula given here][Score#Level wikilink].
+Level will be based on your total score accumulated when online with your account whether you passed or failed the beatmap. [Formula given here][Score#Level wikilink].
 
 #### Why is my profile stats different ingame?
 Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
-Manually select the game mode at your profile that you want to view.
-
 ![Profile_Mode_Buttons][Profile_Mode_Buttons image]
 
-#### How do I change the default keyboard key input for my game mode of choice?
-You may configure the keyboard buttons as you see fit, from the Input tab in the Options menu.
+_Manually select the game mode at your profile that you want to view._
 
-<!-- Add image here, some notice about mania gamepad -->
+#### How do I change the default keyboard key input for my game mode of choice?
+![Options sidebar with quickicons][Options quickicons image]
+
+You may configure the keyboard buttons as you see fit, from the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard** section as shown below.
+
+![Options keyboard section][Options keyboard image]
 
 #### Why am I seeing random white lines on screen every time I play?
-Make sure that the smoke/skywriting key binding is not the same as the keybinding you use at playing.
+Make sure that the smoke/skywriting key binding is not the same as the key binding you use to tap with when playing.
 
 ![osu! smoke effect][osu_smoke image]
 
-_Usage of "Smoke"_
+_Usage of Smoke_
 
 ![osu! smoke settings][osu_smoke_set image]
 
-_"Smoke" in key bindings settings; hold [C] key to trigger by default in osu!_
+_Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 
 <!-- ### Why do I not have the max possible combo when I have no misses? -->
-<!-- You released a slider too early or you barely clicked the hitcircle. [Answer's Source][reddit osugame wiki] -->
+<!-- You released a slider too early or you barely clicked the hitcircle. [Answer's Source](https://www.reddit.com/r/osugame/wiki/index "Reddit r/osugame's wiki") -->
 
 ### Beatmapping
 #### "This beatmap you're trying to submit isn't owned by you!"
@@ -356,8 +365,7 @@ Please follow these steps:-
   -   Set the BeatmapSetID to -1
 
 ## Credits
--   peppy's old FAQ ("/p/faq/" which this page is based on)
--   Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial_basic], [Ranked beatmap ver.][osu!tutorial_rank])
+-   peppy's old FAQ ("/p/faq/" which this page was based on)
+-   Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
 -   Pokebis's Beginner's Training [\[2\]](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis")
 -   Wikipedia [\[3\]][ouendan wikipedia], [\[4\]][Taiko no Tatsujin wikipedia]
-<!-- -   Reddit's /r/osugame/wiki [\[5\]][reddit osugame wiki] -->
