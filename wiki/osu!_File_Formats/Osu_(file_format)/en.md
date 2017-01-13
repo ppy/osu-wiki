@@ -194,26 +194,58 @@ Hit Circle Syntax:
 `x,y,time,type,hitSound,addition`
 `164,260,2434,1,0,0:0:0:0:`
 
+x (Integer) ranges from 0 to 512 (inclusive) and y (Integer) ranges from 0 to 384 (inclusive).
+
+time (Integer) is in milliseconds from the beginning of the song.
+
+type (Integer) is a bitmap:
+
+1 = Circle, 2 = Slider, 4 = New combo, 8 = Spinner. More significant bits can be used to choose the next combo color.
+
+hitSound (Integer) is a bitmap:
+
+2 = Whistle, 4 = Finish, 8 = Clap
+
+The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
+
+addition (Integer:Integer:Integer:Integer) is optional, and defaults to "0:0:0:0:". The first value corresponds to the sample set, and the second value corresponds to additions.
+
+0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
+
+The third value corresponds to the sample index, e.g. normal-3. The fourth value declares the volume of the sample.
+
 Slider Syntax:
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...|repeat,pixelLength|edgeHitsound:edgeAddition,addition`
+`x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
 `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+
+x, y, time, and type behave the same as described in Hit Circle Syntax.
+
+hitSound and addition apply to all circles of the slider.
+
+sliderType will be `L` (linear), `P` (perfect), `C` (Catmull), or `B` (Bezier). Catmull sliders a deprecated. A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier.
+
+curvePoints (x:y|...) is a series of `|`-separated coordinates describing the control points of the slider. Red points appear twice. NOTE: curvePoints is separated from sliderType with a `|`, not a comma.
+
+repeat (Integer) is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
+
+pixelLength (Float) is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
+
+edgeHitsounds (hitSound|...) is a `|`-separated list of hitSounds to apply to individual circles of the slider. The values match those of Hit Circle hitSounds.
+
+edgeAdditions (sampleSet:addition|...) is a `|`-separated list of additions to apply to individual circles of the slider. The values match those of the first two values in Hit Circle additions.
 
 Spinner Syntax:
 
 `x,y,time,type,hitSound,endTime,addition`
 `256,192,730,12,8,3983`
 
-x ranges from 0 to 512 (inclusive) and y ranges from 0 to 384 (inclusive).
+type, hitSound, and addition behaves the same as described in Hit Circle Syntax.
 
-time is in milliseconds from the beginning of the song.
+time (Integer) is when the slider will start, in milliseconds from the beginning of the song.
 
-NOTE: 'addition' is optional, and defaults to "0:0:0:0:".
+endTime (Integer) is when the slider will end, in milliseconds from the beginning of the song.
 
-Hit object type is a bitmap:
-
-circle = 1 slider = 2 new combo = 4 spinner = 8
-
-The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
+NOTE: Hit sounds play at the end of the spinner.
 
 <Category:File Formats>
