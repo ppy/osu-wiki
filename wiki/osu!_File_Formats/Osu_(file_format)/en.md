@@ -189,63 +189,84 @@ Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an 
 Hit Objects
 -----------
 
-Hit Circle Syntax:
+**Hit Circle Syntax:**
 
 `x,y,time,type,hitSound,addition`
+
 `164,260,2434,1,0,0:0:0:0:`
 
-x (Integer) ranges from 0 to 512 (inclusive) and y (Integer) ranges from 0 to 384 (inclusive).
+A hit circle is a single hit in all osu! game modes.
 
-time (Integer) is in milliseconds from the beginning of the song.
+*x (Integer)* ranges from 0 to 512 (inclusive) and *y (Integer)* ranges from 0 to 384 (inclusive).
 
-type (Integer) is a bitmap:
+*time (Integer)* is in milliseconds from the beginning of the song.
 
-1 = Circle, 2 = Slider, 4 = New combo, 8 = Spinner. More significant bits can be used to choose the next combo color.
+*type (Integer)* is a bitmap for the hitobject type:
 
-hitSound (Integer) is a bitmap:
+Bit 0 (1) = circle, bit 1 (2) = slider, bit 2 (4) = new combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip. Bit 7 (128) is for an osu!mania hold note. Circles, sliders, and spinners can be OR'd with new combos and the combo skip value, but not with each other.
+
+`1` - circle, `5` - circle starting a new combo, `22` - slider starting a new combo, skipping 2 colors.
+
+*hitSound (Integer)* is a bitmap of hitsounds to play on top of the normal hitsound:
 
 2 = Whistle, 4 = Finish, 8 = Clap
 
-The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
-
-addition (Integer:Integer:Integer:Integer) is optional, and defaults to "0:0:0:0:". The first value corresponds to the sample set, and the second value corresponds to additions.
+*addition (sampleSet:additions:customIndex:sampleVolume:filename)* is optional and defines the samplesets of the hitobject. It defaults to "0:0:0:0:". *sampleSet (Integer)* changes the sampleset of the object, and *addition (Integer)* changes the sampleset for additions (whistle, finish, clap). The values for these are:
 
 0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
 
-The third value corresponds to the sample index, e.g. normal-3. The fourth value declares the volume of the sample.
+*customIndex (Integer)* is the custom sampleset index, e.g. 3 for `normal-3.wav`. *sampleVolume (Integer)* is the volume of the sample, 0-100 (percent). *filename (String)* names an audio file in the folder to play instead of sounds from samplesets.
 
-Slider Syntax:
+**Slider Syntax:**
+
+A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and does not appear in osu!mania.
 
 `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
+
 `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
-x, y, time, and type behave the same as described in Hit Circle Syntax.
+*x*, *y*, *time*, and *type* behave the same as described in Hit Circle Syntax.
 
-hitSound and addition apply to all circles of the slider.
+*hitSound* applies to the body of the slider. Only whistle sounds will play during the slider body.
 
-sliderType will be `L` (linear), `P` (perfect), `C` (Catmull), or `B` (Bezier). Catmull sliders a deprecated. A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier.
+*sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull). A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier. Catmull sliders are deprecated.
 
-curvePoints (x:y|...) is a series of `|`-separated coordinates describing the control points of the slider. Red points appear twice. NOTE: curvePoints is separated from sliderType with a `|`, not a comma.
+*curvePoints (x:y|...)* is a series of `|`-separated coordinates describing the control points of the slider. Red points appear twice. NOTE: curvePoints is separated from sliderType with a `|`, not a comma.
 
-repeat (Integer) is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
+*repeat (Integer)* is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
 
-pixelLength (Float) is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
+*pixelLength (Float)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
 
-edgeHitsounds (hitSound|...) is a `|`-separated list of hitSounds to apply to individual circles of the slider. The values match those of Hit Circle hitSounds.
+*edgeHitsounds (hitSound|...)* is a `|`-separated list of hitSounds to apply to the circles of the slider. The values are the same as those for Hit Circle hitSounds.
 
-edgeAdditions (sampleSet:addition|...) is a `|`-separated list of additions to apply to individual circles of the slider. The values match those of the first two values in Hit Circle additions.
+*edgeAdditions (sampleSet:additions|...)* is a `|`-separated list of samplesets to apply to the circles of the slider. *sampleSet* and *additions* are the same as in a hit circle's *addition* field.
 
-Spinner Syntax:
+*addition* defines the samplesets to use on the slider body. It functions like *addition* for a circle.
+
+**Spinner Syntax:**
 
 `x,y,time,type,hitSound,endTime,addition`
+
 `256,192,730,12,8,3983`
 
-type, hitSound, and addition behaves the same as described in Hit Circle Syntax.
+A spinner also creates bananas in Catch the Beat, a spinner in Taiko, and does not appear in osu!mania.
 
-time (Integer) is when the slider will start, in milliseconds from the beginning of the song.
+*type*, *time*, *hitSound*, and *addition* behave the same as described in Hit Circle Syntax.
 
-endTime (Integer) is when the slider will end, in milliseconds from the beginning of the song.
+*endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song. NOTE: Hit sounds play at the end of the spinner.
 
-NOTE: Hit sounds play at the end of the spinner.
+**osu!mania Hold Note Syntax**
+
+`x,y,time,type,hitSound,endTime:addition`
+
+`329,192,16504,128,0,16620:0:0:0:0:`
+
+A hold note unique to osu!mania.
+
+**time**, **type**, **hitSound**, and **addition** behave the same as described in Hit Circle Syntax.
+
+**x (Integer)** determines which column/key a note will fall on. The value does not have to be precise. **y (Integer)** is ignored.
+
+**endTime (Integer)** is the time when the key should be released.
 
 <Category:File Formats>
