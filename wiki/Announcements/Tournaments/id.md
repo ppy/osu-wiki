@@ -1,7 +1,7 @@
 Turnamen
 ===========
 
-  ***[Tautan cepat untuk kembali menuju Arsip Pengumuman](/wiki/Announcements/Archive/id.md#Turnamen)***
+  ***[Tautan cepat untuk kembali menuju Arsip Pengumuman](/wiki/Announcements/Archive)***
 
 Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum dsini.](//osu.ppy.sh/forum/55)
 
@@ -70,8 +70,8 @@ Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berla
 Lihat juga
 ------------
 
--   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Countries_that_participated_in_osu!_tournaments/id.md)
+-   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Countries_that_participated_in_osu!_tournaments)
 -   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](//osu.ppy.sh/forum/t/148024)
--   [osu!tourney](/wiki/osu!tourney/id.md) (Klien yang digunakan untuk merekam turnamen)
+-   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk merekam turnamen)
 
 <Category:History of osu!/ID>

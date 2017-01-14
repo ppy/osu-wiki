@@ -2,7 +2,7 @@
 
 Il a été conçu par [Zallius](https://osu.ppy.sh/u/Zallius) lors de la création d'osu!.
 
-Les [GMT](https://osu.ppy.sh/wiki/FR:GMT), [modérateurs de langue](https://osu.ppy.sh/wiki/FR:Language_Moderators) et autres membres du Staff ont le grand privilège de pouvoir le contrôler.
+Les [GMT](/wiki/GMT), [modérateurs de langue](/wiki/Language_Moderators) et autres membres du Staff ont le grand privilège de pouvoir le contrôler.
 
 Profil de
 

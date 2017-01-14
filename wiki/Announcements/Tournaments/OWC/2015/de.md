@@ -85,7 +85,7 @@ Regelsätze
 6.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
     -   Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
 
-7.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers/de.md) ist erlaubt.
+7.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 8.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9.  Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
     1.  Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.
@@ -98,7 +98,7 @@ Regelsätze
 15. Wenn ein Spieler außerhalb der Matches die Verbindung verlieren sollte und das Team keine Alternative zur Verfügung hat, kann das Match bis zu maximal 10 Minuten verschoben werden.
 16. Alle Spieler und Schiedrichter müssen mit Respekt behandelt werden. Anweisungen von den Schiedsrichtern und Turnier Management ist Folge zu leisten. Endgültige Entscheidungen können nicht beanstandet werden.
 17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen WarmUp Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Matches oder absichtiliches unangemessenes Verhalten wird strengstens bestraft.
-18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](/wiki/Rules/de.md). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
+18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](/wiki/Rules). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
     1.  Das Verletzen der Chatregeln führt zu Silences. Gesilencte Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
 
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
@@ -122,7 +122,7 @@ Regelsätze
 2.  Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier Management überprüft.
     1.  Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
     2.  Um erfolgreich akzeptiert zu werden, muss Ihr globaler Rang in osu! mindestens \#5000 oder besser sein.
-    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules/de.md) in den letzten 12 Monaten verletzt haben.
+    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules) in den letzten 12 Monaten verletzt haben.
 
 3.  Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 4.  Abgelehnte Spieler können diese Entscheidung anfechten, indem sie tournaments@ppy.sh kontaktieren.

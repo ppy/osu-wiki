@@ -3,7 +3,7 @@
 :\* New template for the BNG listing, comprehensive of the specific modes they are modding </noinclude>
 
 <center>
-| <span class="plainlinks"> [](https://osu.ppy.sh/wiki/index.php?title=Template:Beatmap_Nomination_Group/Members&action=edit) </span> |
+| <span class="plainlinks"> [](/wiki/index.php?title=Template:Beatmap_Nomination_Group/Members&action=edit) </span> |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                     |
 | osu!                                                                                                                                |
@@ -85,7 +85,7 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><span class="plainlinks"> <a href="https://osu.ppy.sh/wiki/index.php?title=Template:Beatmap_Nomination_Group/Members&amp;action=edit"></a> </span></p></th>
+<th><p><span class="plainlinks"> <a href="/wiki/index.php?title=Template:Beatmap_Nomination_Group/Members&amp;action=edit"></a> </span></p></th>
 <th><p>Placeholder</p></th>
 <th><div class="figure">
 <img src="na-s.png" title="na-s.png" alt="na-s.png" />

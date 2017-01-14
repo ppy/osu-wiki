@@ -139,5 +139,5 @@ osu! даёт возможность делать игровые карты лю
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Специально подобранные битмапы, которые помогут вам научиться играть.
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - Собранные наборы битмап(тематические, или без определённой тематики).
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - Тут можно скачать новые битмапы.
--   [Frequently Asked Questions](http://osu.ppy.sh/wiki/FAQ) - FAQ для ответов на основные вопросы новичков.
+-   [Frequently Asked Questions](/wiki/FAQ) - FAQ для ответов на основные вопросы новичков.
 

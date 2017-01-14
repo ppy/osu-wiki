@@ -59,12 +59,12 @@ Set de Reglas
 1.  El osu! Taiko World Cup está basado en equipos por países.
 2.  Los beatmaps de cada fase serán elegidos por el **Seleccionador de Beatmaps** cada domingo antes de que la ronda a continuación tome lugar y solo podrán ser usados durante las respectivas fases.
     -   Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
-    -   En los beatmaps se usarán los mod [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y FreeMod.
+    -   En los beatmaps se usarán los mod [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
 3.  Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
 4.  Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).
 5.  Los jugadores que fallen su partida no contarán sus scores junto a su equipo.
-6.  El uso de [Visual Settings](/wiki/Game_Modifiers/es.md) en Opciones será permitido.
+6.  El uso de [Visual Settings](/wiki/Game_Modifiers) en Opciones será permitido.
 7.  Si el juego termina en empate podrá ser anulado.
 8.  Si un jugador se desconecta/abandona la partida, se contará como perdido.
 9.  Los beatmaps seleccionados para una partida no podrán ser usados para las siguientes partidas.
@@ -159,7 +159,7 @@ Set de Reglas
 
 <!-- -->
 
-1.  Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y modo Libre.
+1.  Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y modo Libre.
 2.  Cada categoría consiste de un total de 19 beatmaps
 3.  Cada categoría tendrá un beatmap para desempate
 4.  El NoMod se jugará sin mods activados.

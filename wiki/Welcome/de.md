@@ -126,7 +126,7 @@ Hier sind ein paar Hilfsmittel, die Ihnen auf Ihrer Reise ganz nützlich sind:-
 -   [Anfänger Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - von Hand hinzugefügte Beatmaps um loszulegen.
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - holen Sie sich gebrauchsfertige Pakete aus Beatmaps für bestimmte Themen.
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - lade Beatmaps (Lieder) zum Spielen herunter.
--   [Häufig gestellte Fragen](http://osu.ppy.sh/wiki/FAQ) - finde die Grundlagen vom Spiel heraus.
+-   [Häufig gestellte Fragen](/wiki/FAQ) - finde die Grundlagen vom Spiel heraus.
 -   [osu!academy](osu!academy "wikilink") - Videos, die Ihnen dabei helfen soll, sich an allen Aspekten von osu! zu gewöhnen.
 
 <Category:Deutsch>

@@ -95,7 +95,7 @@ Ważne: Obaj zwycięzcy (wybierani przez społeczność i przez zespół) dostaj
 Konkursy dot. sklepu osu!
 ---------------------------
 
-Ważne: Zwycięzca otrzymuje **zestaw sklepu osu!** - 1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [zestaw naklejek osu!](//store.ppy.sh/store/product/2), 1x [zestaw naklejek osu! #2](//store.ppy.sh/store/product/4) oraz [6-miesięczny status donatora](/wiki/osu!supporter/pl.md). Zdobywca drugiego miejsca otrzymuje natomiast [4-miesięczny status donatora](/wiki/osu!supporter/pl.md).
+Ważne: Zwycięzca otrzymuje **zestaw sklepu osu!** - 1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [zestaw naklejek osu!](//store.ppy.sh/store/product/2), 1x [zestaw naklejek osu! #2](//store.ppy.sh/store/product/4) oraz [6-miesięczny status donatora](/wiki/osu!supporter). Zdobywca drugiego miejsca otrzymuje natomiast [4-miesięczny status donatora](/wiki/osu!supporter).
 
 | Konkurs | Tytuł                           | Wymaganie                                 | Zwycięzca | Post informujący                                   | Rezultat       |
 |---------|---------------------------------|-------------------------------------------|-----------|----------------------------------------------------|----------------|

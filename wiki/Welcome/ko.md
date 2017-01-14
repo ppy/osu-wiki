@@ -58,7 +58,7 @@ Step 4 - 다른 유저들과 플레이하자!
 솔로 (싱글)
 -----------
 
-그럼 "솔로 (싱글)" 게임 모드는 무엇일까요? 쉽게 말해 이 모드에서는 혼자서 오프라인이나 온라인으로 플레이 할수있는 모드입니다. 이 게임 모드는 아무런 제한이 없으며 당신이 가지고 있는 모든 비트맵을 플레이 할수있고 어느 [게임 Mod](http://osu.ppy.sh/wiki/Game_Modifiers) ("점수 modifier")도 사용이 가능하며 손이 아플때 일시중지할 수 있고 점수나 정확도가 낮을때 게임을 다시 시작할 수도 있습니다. 유저들은 로컬 혹은 온라인 랭킹도 확인이 가능하며 그 탭을 클릭하여 게임 결과나 리플레이 영상을 볼수있습니다. F2키를 누르면 컴퓨터에 리플레이 영상을 저장 할수있습니다.
+그럼 "솔로 (싱글)" 게임 모드는 무엇일까요? 쉽게 말해 이 모드에서는 혼자서 오프라인이나 온라인으로 플레이 할수있는 모드입니다. 이 게임 모드는 아무런 제한이 없으며 당신이 가지고 있는 모든 비트맵을 플레이 할수있고 어느 [게임 Mod](/wiki/Game_Modifiers) ("점수 modifier")도 사용이 가능하며 손이 아플때 일시중지할 수 있고 점수나 정확도가 낮을때 게임을 다시 시작할 수도 있습니다. 유저들은 로컬 혹은 온라인 랭킹도 확인이 가능하며 그 탭을 클릭하여 게임 결과나 리플레이 영상을 볼수있습니다. F2키를 누르면 컴퓨터에 리플레이 영상을 저장 할수있습니다.
 
 멀티플레이어
 ------------
@@ -126,7 +126,7 @@ osu!는 모든 플레이어에게 자신의 맵을 만들 기회를 제공합니
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - hand-picked beatmaps to get you started.
 -   [비트맵 팩](http://osu.ppy.sh/p/packlist) - 공통된 주제를 기반으로 한 비트맵 컬렉션 패키지.
 -   [비트맵 리스트](http://osu.ppy.sh/p/beatmaplist) - 플레이하기위해 새로운 비트맵(노래)를 다운받으세요.
--   [Frequently Asked Questions](http://osu.ppy.sh/wiki/FAQ) - find out the basics of the game.
+-   [Frequently Asked Questions](/wiki/FAQ) - find out the basics of the game.
 -   [osu!academy](KO:Osu!academy "wikilink") - Videos to help you familiarise every aspects of osu!
 -   [Tips and Tricks to Getting A Start in osu!](KO:Beginner "wikilink") - Need a bit of help? Check here!
 

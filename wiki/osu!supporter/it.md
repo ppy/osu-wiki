@@ -17,7 +17,7 @@ Vantaggi degli osu!supporter
 -   [Skinning](IT:Skinning "wikilink"): Puoi usare altri elementi della skin, come lo sfondo del [menù principale](http://osu.ppy.sh/forum/t/96949), lo sfondo di osu!direct o lo sfondo del multiplayer.
     -   Nello specifico, `menu-background.jpg` (per il menù principale); `matchsetup-background.png` (per il multiplayer); `search-background.png` (per osu!direct)
 -   [Feature Requests](http://osu.ppy.sh/forum/4): Voti extra per le Feature Requests (solitamente c'è solo 1 voto al mese mentre con il supporter sono 2).
--   [Selezione delle mappe](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.
+-   [Selezione delle mappe](/wiki/Interface): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.
 -   Il tuo profilo: <http://osu.ppy.sh/u/>
     -   Puoi aggiungere una pagina sopra le tue statistiche sul tuo profilo.
         -   La tua pagina non sarà eliminata quando l'osu!supporter scade.

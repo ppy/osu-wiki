@@ -297,7 +297,7 @@ osu! World Cup 2015
 6.  페일한 플레이어의 점수는 그 플레이어의 팀의 점수에 포함되지 않습니다.
     -   플레이 중에 부활한다면, 패스한 것으로 간주합니다.
 
-7.  [Visual Settings](/wiki/Game_Modifiers/ko.md) 를 선택하는 것이 허용됩니다.
+7.  [Visual Settings](/wiki/Game_Modifiers) 를 선택하는 것이 허용됩니다.
 8.  무승부일 경우 그 게임은 무효가 됩니다.
 9.  만약 플레이어의 연결이 끊기면, 페일한 것으로 간주됩니다.
     1.  경기가 시작된 지 30초 이내에 연결이 끊기면 리매치를 할 수 있지만, 이것은 심판의 판단에 따릅니다.
@@ -334,7 +334,7 @@ osu! World Cup 2015
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/ko.md) within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Rejected players may appeal this decision by contacting tournaments@ppy.sh.

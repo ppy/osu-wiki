@@ -128,7 +128,7 @@ Here are a few resources to help you start your journey:-
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - hand-picked beatmaps to get you started.
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - Get pre-packaged collections of beatmaps based around a common theme.
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - Download some new beatmaps (songs) to play.
--   [Frequently Asked Questions](http://osu.ppy.sh/wiki/FAQ) - find out the basics of the game.
+-   [Frequently Asked Questions](/wiki/FAQ) - find out the basics of the game.
 -   [osu!academy](PT:Osu!academy "wikilink") - Videos to help you familiarise every aspects of osu!
 -   [Tips and Tricks to Getting A Start in osu!](PT:Beginner "wikilink") - Need a bit of help? Check here!
 

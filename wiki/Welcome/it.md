@@ -126,7 +126,7 @@ Eccoti alcune risorse che potrebbero tornarti utili:
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Beatmap selezionate per farti incominciare il gioco gradualmente.
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - Scarica pacchetti di beatmap che hanno lo stesso tema.
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - Scarica nuove Beatmap da giocare.
--   [Frequently Asked Questions](http://osu.ppy.sh/wiki/FAQ) - Scopri le basi del gioco.
+-   [Frequently Asked Questions](/wiki/FAQ) - Scopri le basi del gioco.
 -   [osu!academy](IT:Osu!academy "wikilink") - Alcuni video per familiarizzare con tutti gli aspetti del gioco.
 -   [Tips and Tricks to Getting A Start in osu!](IT:Beginner "wikilink") - Hai bisogno di un piccolo aiuto? Clicca qui!
 

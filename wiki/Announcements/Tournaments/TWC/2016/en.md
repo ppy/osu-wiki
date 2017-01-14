@@ -3,7 +3,7 @@ osu!Taiko World Cup 2016
 
 ![TWC 2016 logo](logo.png)
 
-The **osu!taiko World Cup 2016** (***TWC 2016***) is a country-based osu!taiko tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is the 6th installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2016** (***TWC 2016***) is a country-based osu!taiko tournament hosted by the [osu! staff](/wiki/People/The-Team). It is the 6th installment of the osu!taiko World Cup.
 
 Tournament schedule
 ------------------------
@@ -400,12 +400,12 @@ Ruleset
 1.  The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
 
 3.  Match schedule will be settled by the Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed player's score do not get added to the team score.
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md#Visual_Settings) options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7.  If the beatmap ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the beatmap.
     1.  Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -418,7 +418,7 @@ Ruleset
 14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 15. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules/en.md). All chat rules apply to the multiplayer chatrooms, too.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     1.  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 18. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -442,7 +442,7 @@ Ruleset
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!taiko performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -508,7 +508,7 @@ Ruleset
 1.  There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
 
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod.
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.

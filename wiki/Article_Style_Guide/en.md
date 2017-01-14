@@ -14,7 +14,7 @@ Articles are only allowed in the main namespace if they fit the following criter
 
 1.  Articles must contain enough information to warrant a full page. If they do not have enough content, they should be merged with other similar articles.
 2.  Articles must pertain directly to *osu!* in some way.
-3.  Articles about people are only allowed if the person in question is a developer of *osu!* and/or either a part of or closely related to [osu!](/wiki/Glossary/en.md).
+3.  Articles about people are only allowed if the person in question is a developer of *osu!* and/or either a part of or closely related to [osu!](/wiki/Glossary).
     1.  Notable people should be listed in the [List of Notable People](#) page.
 
 4.  Features that are not currently in the game should avoid having their own article.
@@ -22,7 +22,7 @@ Articles are only allowed in the main namespace if they fit the following criter
 
 ### Community  
 
-1.  Gameplay strategies, guides, how-tos, etc., should be subarticles of [Guides](/wiki/List_of_Guides/en.md).
+1.  Gameplay strategies, guides, how-tos, etc., should be subarticles of [Guides](/wiki/List_of_Guides).
 
 ### Wiki Rules  
 
@@ -39,12 +39,12 @@ Redirects are exempt from the normal notability, but must redirect to an article
 1.  Alternate spelling of the title, such as "Combo color" for "Combo colour".
     1.  Incorrect spelling, typos, and irregular formatting are not allowed.
 
-2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Catch_the_Beat/en.md)".
+2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Catch_the_Beat)".
 3.  Previous article title.
     1.  An exception is if the previous title was not commonly used.
 
 4.  Alternate capitalisation or form, including changing the title to plural case.
-5.  A part of a merged or multi-topic article, such as a "Double Time" for [Game Modifiers](/wiki/Game_Modifiers/en.md).
+5.  A part of a merged or multi-topic article, such as a "Double Time" for [Game Modifiers](/wiki/Game_Modifiers).
 
 Redirects in the user namespace may lead anywhere, except to an article that does not exist or another redirect.
 
@@ -52,8 +52,8 @@ Article titles
 --------------
 
 1.  Titles are to be written in sentence case. The first letter of a title must always be capitalised except in cases which are dully justified. Otherwise, words are to be capitalised only if they would be in running text.
-    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Osu!mania/en.md). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
-        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Osu!mania/fr.md) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
+    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Osu!mania). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
+        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Osu!mania) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
 
 2.  Article titles should be in the singular form to maintain consistency. *e.g.* Beatmap and not Beatmaps.
 3.  It is unnecessary to include an acronym or an abbreviation in addition to the name in a title. *e.g.* Double Time (DT).

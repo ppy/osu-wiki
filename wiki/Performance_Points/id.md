@@ -88,7 +88,7 @@ Maka, jumlah ppmu dihitung sebagai berikut. Anggap *PP* mengandung nilai setiap 
 
 **Jumlah pp** = *PP*\[1\] \* **0.95**^0 + *PP*\[2\] \* **0.95**^1 + *PP*\[3\] \* **0.95**^2 + ... + *PP*\[*n*\] \* **0.95**^(*n*-1)
 
-[Klik untuk sebuah contoh dari penggunaan formula (scroll ke bawah untuk melihat contohnya).](http://osu.ppy.sh/wiki/File:Pp_bp.jpg)
+[Klik untuk sebuah contoh dari penggunaan formula (scroll ke bawah untuk melihat contohnya).](/wiki/Pp_bp.jpg)
 
 Berikut juga bonus pp berdasarkan peringkat skormu pada sebuah map yang ranked. Bonusnya ialah:
 

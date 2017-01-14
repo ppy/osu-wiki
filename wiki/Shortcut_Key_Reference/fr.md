@@ -51,8 +51,8 @@ Sélection de la beatmap
 -   **F5**: Rafraîchir la liste des beatmaps (réparer la liste)
 -   **MAJ-Suppr**: Supprimer la map sélectionnée
 -   **Ctrl-1/2/3/4**: Passer respectivement entre les modes ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania).
--   **Ctrl-Entrée**: Jouer la map actuelle avec le mod [Auto](/wiki/Game_Modifiers#Auto).
--   **Ctrl-MAJ-Entrée**: Jouer la map actuelle avec le mod [Cimema](/wiki/Game_Modifiers#Cinema).
+-   **Ctrl-Entrée**: Jouer la map actuelle avec le mod [Auto](/wiki/Game_Modifiers).
+-   **Ctrl-MAJ-Entrée**: Jouer la map actuelle avec le mod [Cimema](/wiki/Game_Modifiers).
 -   **Ctrl-A**: Active le mod Auto
 -   **Ctrl+(F3/F4) ou Ctrl+(+/-)**: Augmente ou diminue la vitesse de défilement (osu!mania seulement)
 -   **Ctrl+Backspace**: Efface le dernier mot de la recherche
@@ -66,27 +66,27 @@ Sélection de la beatmap
 Modes de difficulté
 -------------------
 
-Note: Les mods spéciaux comme [Perfect](/wiki/Game_Modifiers#Perfect) ou [Nightcore](/wiki/Game_Modifiers#Nightcore) nécessitent d'appuyer sur la touche correspondante une nouvelle fois.
+Note: Les mods spéciaux comme [Perfect](/wiki/Game_Modifiers) ou [Nightcore](/wiki/Game_Modifiers) nécessitent d'appuyer sur la touche correspondante une nouvelle fois.
 
 ![osu! Liste des mods possibles (Touches dans l'ordre)](Soloplay8.png "osu! Liste des mods possibles <Touches dans l'ordre>")
 
--   **Q**: [Easy](/wiki/Game_Modifiers#Easy)
--   **W**: [No Fail](/wiki/Game_Modifiers#No_Fail)
--   **E**: [Half-Time](/wiki/Game_Modifiers#Half_Time)
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half-Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **A**: [Hard Rock](/wiki/Game_Modifiers#Hard_Rock)
--   **S**: [Sudden Death](/wiki/Game_Modifiers#Sudden_Death)
--   **D**: [Double Time](/wiki/Game_Modifiers#Double_Time)
--   **F**: [Hidden](/wiki/Game_Modifiers#Hidden)
--   **G**: [Flashlight](/wiki/Game_Modifiers#Flashlight)
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **X**: [Relax](/wiki/Game_Modifiers#Relax) (Aucun effet sur les mods 4/5/6/7/8K d'osu!mania)
--   **C**: [Auto-Pilot](/wiki/Game_Modifiers#Auto_Pilot)
--   **V**: [Spun-Out](/wiki/Game_Modifiers#Spun_Out)
+-   **X**: [Relax](/wiki/Game_Modifiers) (Aucun effet sur les mods 4/5/6/7/8K d'osu!mania)
+-   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
+-   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
 Mode Play

@@ -1,14 +1,14 @@
 Akurasi
 =========
 
-Ada tiga tipe akurasi - [1] akurasi per [Beatmap](/wiki/Beatmaps/id.md), [2] akurasi satu untuk semua, dan [3] akurasi [pp](/wiki/Performance_Points/id.md). Dalam istilah sederhananya, akurasi beatmap bergantung pada [skor](/wiki/Score/id,md) yang diperoleh, akurasi satu untuk semua bergantung pada setiap akurasi di skor terbaik yang dikirim daring, dan akurasi pp bergantung pada akurasi di skor yang dikirim daring dan memenuhi syarat untuk memperoleh pp.
+Ada tiga tipe akurasi - [1] akurasi per [Beatmap](/wiki/Beatmaps), [2] akurasi satu untuk semua, dan [3] akurasi [pp](/wiki/Performance_Points). Dalam istilah sederhananya, akurasi beatmap bergantung pada [skor](/wiki/Score) yang diperoleh, akurasi satu untuk semua bergantung pada setiap akurasi di skor terbaik yang dikirim daring, dan akurasi pp bergantung pada akurasi di skor yang dikirim daring dan memenuhi syarat untuk memperoleh pp.
 
 Akurasi dihitung menggunakan formula berikut:
 
 Mode Standar
 ------------
 
-Di mode [Standar](/wiki/Game_Modes/Standard/id.md), akurasi dihitung dengan mempertimbangkan akurasi yang diperoleh di setiap objek berdasarkan jumlah poin objek yang diperoleh dibagi dengan jumlah poin objek secara keseluruhan. Atau dalam kata lain:
+Di mode [Standar](/wiki/Game_Modes/Standard), akurasi dihitung dengan mempertimbangkan akurasi yang diperoleh di setiap objek berdasarkan jumlah poin objek yang diperoleh dibagi dengan jumlah poin objek secara keseluruhan. Atau dalam kata lain:
 
 **Akurasi = Poin objek keseluruhan yang diperoleh / (Jumlah poin dari objek * 300)**
 
@@ -21,7 +21,7 @@ Untuk referensi: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 Mode Taiko
 ----------
 
-Di mode [Taiko](/wiki/Game_Modes/Taiko/id.md), akurasi sebuah lagu dihitung berdasarkan akurasi semua objek dibagi dengan jumlah objek keseluruhan. HEBAT (良/Ryō) dihitung sebagai 100%, BAGUS (可/Kě) sebagai 50% (sebagian) dan MISS (不可/Bùkě) sebagai 0% (yang memutuskan kombo). **Drumrolls** dan putaran tidak mempengaruhi akurasi.
+Di mode [Taiko](/wiki/Game_Modes/Taiko), akurasi sebuah lagu dihitung berdasarkan akurasi semua objek dibagi dengan jumlah objek keseluruhan. HEBAT (良/Ryō) dihitung sebagai 100%, BAGUS (可/Kě) sebagai 50% (sebagian) dan MISS (不可/Bùkě) sebagai 0% (yang memutuskan kombo). **Drumrolls** dan putaran tidak mempengaruhi akurasi.
 
 **Akurasi = Jumlah poin objek yang diperoleh / (Jumlah poin objek secara keseluruhan * 300)**
 
@@ -32,7 +32,7 @@ Di mode [Taiko](/wiki/Game_Modes/Taiko/id.md), akurasi sebuah lagu dihitung berd
 Mode Catch the Beat
 -------------------
 
-Di mode [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat/id.md), akurasi lagu dihitung berdasarkan jumlah objek non-putaran yang diperoleh dibagi dengan jumlah objek non-putaran secara keseluruhan; buah, objek yang besar, dan objek yang kecil semuanya mempunyai nilai yang sama.
+Di mode [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat), akurasi lagu dihitung berdasarkan jumlah objek non-putaran yang diperoleh dibagi dengan jumlah objek non-putaran secara keseluruhan; buah, objek yang besar, dan objek yang kecil semuanya mempunyai nilai yang sama.
 
 **Akurasi = Jumlah buah yang ditangkap / Jumlah buah secara keseluruhan**
 
@@ -43,7 +43,7 @@ Di mode [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat/id.md), akurasi lagu di
 Mode osu!mania
 --------------
 
-Akurasi pada mode ini dihitung kurang lebih sama dengan mode [Standar](/wiki/Game_Modes/Standard/id.md).
+Akurasi pada mode ini dihitung kurang lebih sama dengan mode [Standar](/wiki/Game_Modes/Standard).
 
 **Akurasi = Jumlah objek yang diperoleh / (Jumlah objek secara keseluruhan * 300)**
 
@@ -56,7 +56,7 @@ Tampilan Hasil
 
 ### Peringkat
 
-Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu peroleh, dan juga persen akurasi yang sebenarnya. Untuk detail lebih lanjut, lihat [Skor](/wiki/Score/id,md).
+Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu peroleh, dan juga persen akurasi yang sebenarnya. Untuk detail lebih lanjut, lihat [Skor](/wiki/Score).
 
 ![Contoh untuk osu!](Accuracy_osu!_Small.jpg "Contoh untuk osu!")![Contoh untuk Taiko](Accuracy_Taiko_Small.jpg "Contoh untuk Taiko")
 ![Contoh untuk Catch the Beat](Accuracy_CtB_Small.jpg "Contoh untuk Catch the Beat")![Contoh untuk osu!mania](Accuracy_Mania_Small.jpg "Contoh untuk osu!mania")

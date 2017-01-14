@@ -45,13 +45,13 @@ Benutzergruppen
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| [Global Moderation Team](https://osu.ppy.sh/wiki/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
-| [Beatmap Nomination Group](https://osu.ppy.sh/wiki/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
+| [Global Moderation Team](/wiki/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
+| [Beatmap Nomination Group](/wiki/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
 | [Entwickler](http://osu.ppy.sh/g/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
-| [osu! alumni](https://osu.ppy.sh/wiki/Osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
-| [Support Team Redux](https://osu.ppy.sh/wiki/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
+| [osu! alumni](/wiki/Osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
+| [Support Team Redux](/wiki/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
 | [osu!nachichten](http://osu.ppy.sh/g/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
 | [Turnierleitung](http://osu.ppy.sh/g/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |
-| [Qualität Bestätigungs Team](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |
+| [Qualität Bestätigungs Team](/wiki/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |
 
 <Category:People/DE>

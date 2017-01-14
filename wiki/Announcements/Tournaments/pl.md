@@ -1,7 +1,7 @@
 Turnieje
 ===========
 
-  ***[Przekierowanie do Archiwum ogłoszeń.](/wiki/Announcements/Archive/pl.md#Turnieje)***
+  ***[Przekierowanie do Archiwum ogłoszeń.](/wiki/Announcements/Archive)***
 
 Sekcja dotycząca turniejów. [Wątek na forum.](//osu.ppy.sh/forum/55)
 
@@ -72,7 +72,7 @@ NAT jest prowadzony od 2013 roku i najpewniej będzie jeszcze w przyszłości. W
 Przejrzyj!
 -----------
 
--   [Lista państw uczestniczących w oficjalnych turniejach](/wiki/Countries_that_participated_in_osu!_tournaments/pl.md)
--   [osu!tourney](/wiki/osu!tourney/pl.md) (klient używany przy streamowaniu turniejów)
+-   [Lista państw uczestniczących w oficjalnych turniejach](/wiki/Countries_that_participated_in_osu!_tournaments)
+-   [osu!tourney](/wiki/osu!tourney) (klient używany przy streamowaniu turniejów)
 
 <Category:History of osu!/PL>

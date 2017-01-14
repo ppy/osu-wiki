@@ -6,7 +6,7 @@ Achievements
 Beatmap Packs
 -------------
 
-**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t). You must play in [Standard](/wiki/Game_Modes/Standard/en.md) mode to qualify a **CLEARED** status at the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) and the badge.
+**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t). You must play in [Standard](/wiki/Game_Modes/Standard) mode to qualify a **CLEARED** status at the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) and the badge.
 
 There are currently 16 achievements in this group which are divided into 4 sections:
 
@@ -22,7 +22,7 @@ Each of these sections currently have 4 volumes to them.
 #### Requirements:
 
  -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t).
- -   The mode must be [osu!Standard](/wiki/Game_Modes/Standard/en.md).                                       
+ -   The mode must be [osu!Standard](/wiki/Game_Modes/Standard).                                       
  -   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
      -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t)
      -   Alternately, you can download the songs inside manually one by one and it would still count.
@@ -40,7 +40,7 @@ Each of these sections currently have 4 volumes to them.
 
 #### Trivia:
 
- -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_Achievements/en.md)
+ -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_Achievements)
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -56,7 +56,7 @@ Skill
 
 **Skill** achievements are currently divided into three groups: **Combo**, **High Ranker**, and **Star-based**
 
-**The Combo** achievements can be obtained by gaining a specific [Combo](/wiki/Glossary/en.md) in osu! Standard mode and can be completed with any one song.
+**The Combo** achievements can be obtained by gaining a specific [Combo](/wiki/Glossary) in osu! Standard mode and can be completed with any one song.
 Achieving the same combo in Taiko, Catch the Beat or osu!mania mode does **not** result in getting the achievement.
 
 For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead of ranked beatmaps. Do not search for unapproved beatmaps.
@@ -84,7 +84,7 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 Dedication
 -----------
 
-**The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat/en.md) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/Taiko/en.md) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/Osu!mania/en.md)).
+**The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/Taiko) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/Osu!mania)).
 
 
 | Standard | Taiko | Catch the Beat | Mania |

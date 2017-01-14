@@ -18,7 +18,7 @@ Tous ces éléments suivent le rythme des chansons populaires japonaises. Voilà
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
-Vous pouvez voir les cibles sur l’écran inférieur et l’histoire (ou [Storyboard](http://osu.ppy.sh/wiki/FR:Storyboarding)) sur l’écran supérieur. Chaque niveau contient une histoire contant les mésaventures d’une personne. Et c’est à ce moment-là qu’Ouendan (Équipe de supporter) passe à l’action. À l'aide des encouragements virils des supporters, vous devez venir en aide aux personnes en détresse !
+Vous pouvez voir les cibles sur l’écran inférieur et l’histoire (ou [Storyboard](/wiki/Storyboarding)) sur l’écran supérieur. Chaque niveau contient une histoire contant les mésaventures d’une personne. Et c’est à ce moment-là qu’Ouendan (Équipe de supporter) passe à l’action. À l'aide des encouragements virils des supporters, vous devez venir en aide aux personnes en détresse !
 
 Comment est-ce que je joue ?
 ----------------------------

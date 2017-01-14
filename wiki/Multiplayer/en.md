@@ -120,7 +120,7 @@ Image | Description
 		</tr>
 		<tr>
 			<th>Player bar</th>
-			<td><strong>Your player bar.</strong> Currently, it is based on <a href="/wiki/Performance_Points/en.md" title="Performance Points">pp</a>. Changes depending by the currently playing game mode.</td>
+			<td><strong>Your player bar.</strong> Currently, it is based on <a href="/wiki/Performance_Points" title="Performance Points">pp</a>. Changes depending by the currently playing game mode.</td>
 		</tr>
 		<tr>
 			<th>Pause button</th>
@@ -183,9 +183,9 @@ Image | Description
 		<tr>
 			<th>Mods</th>
 			<td>
-				<strong><a href="/wiki/Game-Modifiers/en.md">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
+				<strong><a href="/wiki/Game-Modifiers">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
 				<ul>
-					<li><strong>Free Mods:</strong> Host's special command. When enabled, players are allowed to use any mods except Speed (<a href="/wiki/Game_Modifiers/en.md#double-time" title="Double Time">DT</a>/<a href="/wiki/Game_Modifiers/en.md#nightcore" title="NightCore">NC</a>,<a href="/wiki/Game_Modifiers/en.md#half-time" title="Half-Time">HT</a>) mods, in which, is determined by the host. Host-selected mods other than Speed mods will not be forced upon players.</li>
+					<li><strong>Free Mods:</strong> Host's special command. When enabled, players are allowed to use any mods except Speed (<a href="/wiki/Game_Modifiers" title="Double Time">DT</a>/<a href="/wiki/Game_Modifiers" title="NightCore">NC</a>,<a href="/wiki/Game_Modifiers" title="Half-Time">HT</a>) mods, in which, is determined by the host. Host-selected mods other than Speed mods will not be forced upon players.</li>
 				</ul>
 			</td>
 		</tr>
@@ -203,7 +203,7 @@ Image | Description
 			</td>
 		</tr>
 		<tr>
-			<th><a href="/wiki/Chat_Console/en.md" title="Chat Console">Chat Console</a></th>
+			<th><a href="/wiki/Chat_Console" title="Chat Console">Chat Console</a></th>
 			<td><strong>The first line given by BachoBot at #multiplayer, &quot;Match history available <a href="http://osu.ppy.sh/mp/x">here</a>&quot; is known as match history.</strong> The link is <a href="http://osu.ppy.sh/mp/x">http://osu.ppy.sh/mp/x</a> (Replace &quot;x&quot; with numbers). The data will be removed after one month.
 			<ul>
 				<li>Also, it is worth noting that <a href="./Multi_userlog.jpg" title="Private userlog results">your result will be displayed at #userlog after a match privately.</a> Currently, it is applied to &quot;Head-To-Head&quot; game style only.</li>
@@ -309,7 +309,7 @@ The game style you wish the map to be played. Can only be changed at "Song Selec
 				<li>If Accuracy: Team's accuracy percentage and hit score are shown in real-time.</li>
 				<li>If Combo: Team's current combo count, score and hit score are shown in real-time.</li>
 				<li>If "Failed": Beatmap stops and automated win for the surviving team.</li>
-				<li>If "Quit": <a href="/wiki/Game_Modifiers/en.md#autoplay" title="Autoplay">Auto</a> will take over the "Quit" player.</li>
+				<li>If "Quit": <a href="/wiki/Game_Modifiers" title="Autoplay">Auto</a> will take over the "Quit" player.</li>
 			</ul>
 		</td>
 	</tr>

@@ -135,7 +135,7 @@ Berikut adalah beberapa sumber yang dapat membantumu berpetualang:-
 -   [Latihan Awal](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Pilih beatmap untuk memulai dirimu.
 -   [Pak Beatmap](http://osu.ppy.sh/p/packlist) - Dapatkan koleksi beberapa beatmap yang ditata menurut secara umum.
 -   [Daftar Beatmap](http://osu.ppy.sh/p/beatmaplist) - Unduh beberapa beatmap (lagu) baru untuk bermain.
--   [Hal yang Sering Ditanyakan](http://osu.ppy.sh/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
+-   [Hal yang Sering Ditanyakan](/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
 -   [osu!academy](ID:Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
 -   [Tips dan Trik untuk Memulai osu!](ID:Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
 

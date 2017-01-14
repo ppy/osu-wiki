@@ -18,7 +18,7 @@ Gebe die benötigten Daten ein und drücke auf "Continue" </span>
 
 | <b>Legende</b>                                                                                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Benutzername</b> - Wähle deinen Namen für osu! weise! Wenn du deinen Namen ändern willst, dann lies dir bitte das [hier](https://osu.ppy.sh/wiki/DE:Help_Center#Kann_ich_meinen_Benutzernamen_vom_Account_.C3.A4ndern.3F) durch. 
+| 1. <b>Benutzername</b> - Wähle deinen Namen für osu! weise! Wenn du deinen Namen ändern willst, dann lies dir bitte das [hier](/wiki/Help_Center) durch. 
 
  a. Maximal 15 Zeichen.  
 

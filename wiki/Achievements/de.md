@@ -6,7 +6,7 @@ Achievements
 Beatmap Packs
 -------------
 
-**Beatmap Packs** Achievements können erlangt werden, indem man "aus jedem Mapset einer [Thematischen Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe" schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/Standard/de.md) Modus von osu! gespielt werden.
+**Beatmap Packs** Achievements können erlangt werden, indem man "aus jedem Mapset einer [Thematischen Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe" schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/Standard) Modus von osu! gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -21,7 +21,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 #### Anforderungen:
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t)
-- Der Spielmodus muss der osu! [Standard](/wiki/Game_Modes/Standard/de.md) Modus sein.
+- Der Spielmodus muss der osu! [Standard](/wiki/Game_Modes/Standard) Modus sein.
 - "Extrahiere das "Theme Pack" und packe alle Beatmaps in den osu! Song Ordner. Starte osu! und spiel die Maps. Das ist alles.
   - Sollte die Beatmap als .zip Datei vorliegen, dann verschieb sie als .zip in den osu! Song Ordner und erstelle keine extra Ordner dafür. Falls Sie ein extra Ordner für die .zips erstellen, dann könnte es sein, dass Sie evtl. den Erfolg und den **CLEARED** Status auf der [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) nicht bekommen.
   - Alternativ könnten Sie auch jede benötigte Map einzeln runterladen und spielen.
@@ -56,7 +56,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 Combo
 -----
 
-**Combo** Erfolge können erlangt werden, indem man eine bestimmte [Combo](/wiki/Glossary/de.md) im Standard Modus auf einer beliebigen "Ranked/Approved" Beatmap erreicht bzw. überschreitet.
+**Combo** Erfolge können erlangt werden, indem man eine bestimmte [Combo](/wiki/Glossary) im Standard Modus auf einer beliebigen "Ranked/Approved" Beatmap erreicht bzw. überschreitet.
 Die selbe Combo im Taiko, Catch the Beat oder osu!mania zu erreichen wird "nicht" zu diesen Erfolgen führen.
 
 Zur Zeit sind folgende Erfolge verfügbar:-
@@ -78,7 +78,7 @@ Für die "1.000 -" und "2.000 Combo" Erfolge sollten Sie nach Approved Beatmaps 
 Dedication
 ----------
 
-**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [Standard](/wiki/Game_Modes/Standard/de,md) Modus spielt / Früchte in [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat/de,md) sammelt / Noten in [Taiko](/wiki/Game_Modes/Taiko/de,md) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/Osu!mania/de,md) drückt.
+**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [Standard](/wiki/Game_Modes/Standard) Modus spielt / Früchte in [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) sammelt / Noten in [Taiko](/wiki/Game_Modes/Taiko) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/Osu!mania) drückt.
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

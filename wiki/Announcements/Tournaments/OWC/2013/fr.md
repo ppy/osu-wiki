@@ -477,12 +477,12 @@ Règlement
 1.  L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2.  Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
     -   Une map, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-    -   Certaines maps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_Modifiers/fr.md), [HardRock](/wiki/Game_Modifiers/fr.md) et [DoubleTime](/wiki/Game_Modifiers/fr.md). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
+    -   Certaines maps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) et [DoubleTime](/wiki/Game_Modifiers). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
 
 3.  Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4.  Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5.  Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-6.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers/fr.md) est autorisée.
+6.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers) est autorisée.
 7.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 8.  Si l'un des joueurs est déconnecté durant un match, la partie est annulée et recommencée. Le nombre maximal de déconnexions autorisées est de deux ; au-delà, le joueur est considéré comme ayant déclaré forfait.
 9.  Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -555,7 +555,7 @@ Règlement
 ### Beatmaps
 
 1.  Chaque phase se verra attribuer des beatmaps uniques.
-2.  Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_Modifiers/fr.md), [HardRock](/wiki/Game_Modifiers/fr.md), [DoubleTime](/wiki/Game_Modifiers/fr.md) et FreeMod.
+2.  Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) et FreeMod.
 3.  Durant chaque phase, 23 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4.  Aucun mod n'est autorisé pour les maps de la catégorie NoMod et pour le tiebreaker.
 5.  Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.

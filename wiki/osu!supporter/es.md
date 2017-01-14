@@ -19,7 +19,7 @@ Ventajas del osu!supporter
 -   [Skinning](Skinning "wikilink"): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949) y en las partidas multijugador y el acceso a osu!direct .
     -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
 -   [*Feature Requests*](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
--   [Selección de Canción](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
+-   [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
 -   En tu perfil: <http://osu.ppy.sh/u/>
     -   Puedes agregar una página de usuario a tu perfil.
         -   Tu página de usuario no será borrado cuando tu osu!supporter expire.

@@ -353,12 +353,12 @@ Regras
 1.  A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2.  Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
     -   Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod.
+    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod.
 
 3.  O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4.  Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5.  A pontuação dos jogadores que falharam e reviveram será contada.
-6.  O uso das [PT:Visual Settings](/wiki/Game_Modifiers/pt.md) será permitido.
+6.  O uso das [PT:Visual Settings](/wiki/Game_Modifiers) será permitido.
 7.  Em caso de empate na pontuação, o beatmap jogado será anulado.
 8.  Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9.  Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
@@ -426,7 +426,7 @@ Regras
 ### Instruções dos Grupos de Beatmaps
 
 1.  Existirá um grupo de beatmaps para a Fase de Grupos, um grupo para as Oitavas de Final, um grupo para as Quartas de final, um grupo para as Semi-finais e um grupo para as Finais.
-2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod
+2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod
 3.  Cada grupo de beatmaps consiste de 23 beatmaps no total.
 4.  Cada grupo de beatmaps terá um tiebreaker.
 5.  O subgrupo NoMod será jogado sem nenhum mod específico.

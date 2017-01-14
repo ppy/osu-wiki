@@ -8,7 +8,7 @@ osu!에 새로운 계정을 등록하는 일은 하나 둘 셋을 세는 것 만
 :
 
 <center>
-**<font size="5"><span style="color:#FF0000"><span class="plainlinks"> [osu! 규칙](https://osu.ppy.sh/wiki/KO:Rules)</span>상, 한 사람이 두 개 이상의 계정을 가지는 것은 금지되어 있습니다! 딱 하나만! 만들어서 즐겨주세요.</span></font>**
+**<font size="5"><span style="color:#FF0000"><span class="plainlinks"> [osu! 규칙](/wiki/Rules)</span>상, 한 사람이 두 개 이상의 계정을 가지는 것은 금지되어 있습니다! 딱 하나만! 만들어서 즐겨주세요.</span></font>**
 
 </center>
 **회원 가입 과정**

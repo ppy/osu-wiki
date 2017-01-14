@@ -91,7 +91,7 @@ Monatliches Fanart Wettbewerb
 osu!store Wettbewerb
 --------------------
 
-**Hinweis:** Der Gewinner bekommt ein **osu! store pack** (1x , 1x , 1x und [Supporter Tag für 6 Monate](/wiki/osu!supporter/de.md)), Nachplatzierte bekommen ein [Supporter Tag für 4 Monate](/wiki/osu!supporter/de.md).
+**Hinweis:** Der Gewinner bekommt ein **osu! store pack** (1x , 1x , 1x und [Supporter Tag für 6 Monate](/wiki/osu!supporter)), Nachplatzierte bekommen ein [Supporter Tag für 4 Monate](/wiki/osu!supporter).
 
 | Contest | Titel                              | Bedingung                                     | Gewinner   | News                                   | Ergebnis       |
 |---------|------------------------------------|-----------------------------------------------|------------|----------------------------------------|----------------|

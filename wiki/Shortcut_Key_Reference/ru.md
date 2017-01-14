@@ -67,26 +67,26 @@
 Выбор модов
 -----------
 
-Примечание: [Perfect](/wiki/Game_Modifiers#Perfect), [Nightcore](/wiki/Game_Modifiers#Nightcore) и Cinema требуют двойного нажатия
+Примечание: [Perfect](/wiki/Game_Modifiers), [Nightcore](/wiki/Game_Modifiers) и Cinema требуют двойного нажатия
 
--   **Q**: [Easy](/wiki/Game_Modifiers#Easy)
--   **W**: [No Fail](/wiki/Game_Modifiers#No_Fail)
--   **E**: [Half Time](/wiki/Game_Modifiers#Half_Time)
-
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](/wiki/Game_Modifiers#Hard_Rock)
--   **S**: [Sudden Death](/wiki/Game_Modifiers#Sudden_Death)
--   **D**: [Double Time](/wiki/Game_Modifiers#Double_Time)
--   **F**: [Hidden](/wiki/Game_Modifiers#Hidden)
--   **G**: [Flashlight](/wiki/Game_Modifiers#Flashlight)
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **Z**: [Relax](/wiki/Game_Modifiers#Relax)
--   **X**: [Auto Pilot](/wiki/Game_Modifiers#Auto_Pilot) (Random в режиме osu!mania)
--   **C**: [Spun Out](/wiki/Game_Modifiers#Spun_Out)
--   **V**: [Auto](/wiki/Game_Modifiers#Auto)
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **Z**: [Relax](/wiki/Game_Modifiers)
+-   **X**: [Auto Pilot](/wiki/Game_Modifiers) (Random в режиме osu!mania)
+-   **C**: [Spun Out](/wiki/Game_Modifiers)
+-   **V**: [Auto](/wiki/Game_Modifiers)
 
 Режим игры
 ----------

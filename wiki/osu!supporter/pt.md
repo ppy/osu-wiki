@@ -20,7 +20,7 @@ Vantagens de ser osu!supporter
 <!-- -->
 
 -   [Feature Requests](http://osu.ppy.sh/forum/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
--   [Seleção de Musica](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
+-   [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
 -   Seu Perfil: <http://osu.ppy.sh/u/>
     -   Você pode adicionar uma pagina do usuário no seu perfil.
         -   Sua pagina do usuário não será deletada quando osu!supporter expirar.

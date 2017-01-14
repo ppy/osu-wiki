@@ -91,7 +91,7 @@ URL
 | Aufgabe                                                  | Benutzen Sie es, um ein Text zu einer URL zu verlinken. |
 |----------------------------------------------------------|---------------------------------------------------------|
 | Syntax                                                   | Schreib das                                             |
-| [https://osu.ppy.sh/wiki/Deutsch Deutsches osu!wiki]     | [Deutsches osu!wiki](https://osu.ppy.sh/wiki/Deutsch)   |
+| [https://osu.ppy.sh/wiki/Deutsch Deutsches osu!wiki]     | [Deutsches osu!wiki](/wiki/Deutsch)   |
 
 Wiki Link
 ---------

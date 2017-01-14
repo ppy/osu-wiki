@@ -4,7 +4,7 @@
 
 osu!mania is osu!'s newest game mode.
 It is similar to Beatmania IIDX (or DJMAX, Guitar Hero, O2Jam/mania, StepMania, DDR and other rhythm games that require more than 3 buttons) in which a player needs to press the specific buttons for the beat notes that are coming down.
-It is somewhat similar to [osu!taiko](/wiki/Game-Modes/osu!taiko/en.md), but with more buttons to press and notes moving downward rather than moving horizontally to the left.
+It is somewhat similar to [osu!taiko](/wiki/Game-Modes/osu!taiko), but with more buttons to press and notes moving downward rather than moving horizontally to the left.
 
 ## Gameplay
 

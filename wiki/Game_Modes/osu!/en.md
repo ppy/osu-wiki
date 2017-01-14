@@ -5,7 +5,7 @@
 ## Gameplay
 
 While most PC users won't have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of.
-Different play styles can be found in the [Play Styles](/wiki/Play-Styles/en.md) page.
+Different play styles can be found in the [Play Styles](/wiki/Play-Styles) page.
 There are some songs which push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 ### Basics

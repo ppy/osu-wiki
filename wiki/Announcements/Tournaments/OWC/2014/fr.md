@@ -461,7 +461,7 @@ Règlement
 
 ### Lexique
 
--   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Announcements/Tournaments/OWC/2014/fr.md#Calendrier),
+-   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Announcements/Tournaments/OWC/2014),
 -   Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
 -   Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
 -   Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
@@ -478,7 +478,7 @@ Règlement
 6.  Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
     -   Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
-7.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers/fr.md) est autorisée.
+7.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers) est autorisée.
 8.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9.  Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
 10. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -505,7 +505,7 @@ Règlement
 
 4.  Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
     -   les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
-    -   des participants ont violé les termes du [règlement général](/wiki/Rules/fr.md) de osu! ([détails](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
+    -   des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
 
 5.  32 équipes maximum sont autorisées à participer.
 6.  La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
@@ -570,7 +570,7 @@ Règlement
 ### Beatmaps
 
 1.  Chaque phase se verra attribuer des beatmaps uniques.
-2.  Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_Modifiers/fr.md), [Hidden](/wiki/Game_Modifiers/fr.md), [DoubleTime](/wiki/Game_Modifiers/fr.md) et FreeMod.
+2.  Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_Modifiers), [Hidden](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) et FreeMod.
 3.  Durant chaque phase, 19 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4.  Aucun mod n'est autorisé pour les maps de la catégorie NoMod.
 5.  Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.

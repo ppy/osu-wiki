@@ -193,5 +193,5 @@ osu!のBeatmapは、作りたい意欲がある人なら誰でも作ることが
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - 初心者向け譜面を紹介しているトピック
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - テーマ別にまとめられたBeatmap Packのダウンロードリンク
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - ここから新しい譜面を入手できます
--   [Frequently Asked Questions](http://osu.ppy.sh/wiki/FAQ) - ゲームについてのFAQ
+-   [Frequently Asked Questions](/wiki/FAQ) - ゲームについてのFAQ
 

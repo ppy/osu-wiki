@@ -279,14 +279,14 @@ osu! Catch the Beat World Cup 2014
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
 -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
--   图有可能带有 [Hidden](/wiki/Game_Modifiers/zh.md)、[HardRock](/wiki/Game_Modifiers/zh.md)、[DoubleTime或者自由选择mod](/wiki/Game_Modifiers/zh.md)。
+-   图有可能带有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime或者自由选择mod](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛将会推迟。
 5.  如果有玩家中途游戏失败，失败的玩家的分数将不会计算分数。
 -   如果在游戏失败后重新满血复活，分数将会重新计算。
 
-6.  允许使用 [Visual Settings](/wiki/Game_Modifiers/zh.md) 。
+6.  允许使用 [Visual Settings](/wiki/Game_Modifiers) 。
 7.  如果出现平局（所有人的分数一样），该局比赛无效。
 8.  如果玩家掉线，将会判游戏失败。
 9.  除非比赛无效，比赛用图不会在该场比赛中再次使用。
@@ -359,7 +359,7 @@ osu! Catch the Beat World Cup 2014
 ### 图池说明
 
 1.  每个环节都有独立的图池
-2.  每个图池里都有5个模式: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers/zh.md)、[HardRock](/wiki/Game_Modifiers/zh.md)、[DoubleTime](/wiki/Game_Modifiers/zh.md) 以及 FreeMod（自由选择mod）
+2.  每个图池里都有5个模式: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 以及 FreeMod（自由选择mod）
 3.  每个图池里会有23张图
 4.  每个图池里都有一张决胜图
 5.  在NoMod模式里，没有一个模式会被激活

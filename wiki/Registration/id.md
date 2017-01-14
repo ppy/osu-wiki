@@ -2,7 +2,7 @@ Bagaimana cara saya mendaftar?
 ------------------------------
 
 <center>
-**<font size="3">Tolong diingat bahwa kamu hanya boleh mempunyai satu akun! 2 akun atau lebih adalah pelanggaran keras dari <span class="plainlinks"> [peraturan osu!](http://osu.ppy.sh/wiki/ID:Rules)</span>. Ikuti langkah di bawah ini untuk membuat akun osu!mu.**</font>
+**<font size="3">Tolong diingat bahwa kamu hanya boleh mempunyai satu akun! 2 akun atau lebih adalah pelanggaran keras dari <span class="plainlinks"> [peraturan osu!](/wiki/Rules)</span>. Ikuti langkah di bawah ini untuk membuat akun osu!mu.**</font>
 <span style="font-size:18px">1.Pergi ke <span class="plainlinks"> [website](https://osu.ppy.sh)</span> dan klik "<b>I'm new!</b>" untuk melanjutkan ke formulir pendaftaran. </span>
 
 <span style="font-size:18px">2. Isilah formulir di bawah ini kemudian tekan "Continue" </span>

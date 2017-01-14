@@ -1,4 +1,4 @@
-Pending mapがRanked mapになるためのランキング基準(Ranking Criteria)です。 公式： <https://osu.ppy.sh/wiki/Ranking_Criteria>
+Pending mapがRanked mapになるためのランキング基準(Ranking Criteria)です。 公式： </wiki/Ranking_Criteria>
 
 [ここ](https://osu.ppy.sh/forum/t/73281)から勝手ながら文章を引用し、それに追加点または修正点を付け加えてここに書きました。
 

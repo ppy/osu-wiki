@@ -369,7 +369,7 @@ If you have been banned in the past, it is a warning call to be more truthful an
 -   奔四+某地摊货显卡等“曾经辉煌”的电脑--&gt;升级电脑。
 -   旧驱动--&gt;更新驱动。
 -   使用 OpenGL 进行渲染或者减少使用 visual settings 的效果。
--   更多卡顿原因，详见：[Game Lag: Common Causes and Solutions](https://osu.ppy.sh/wiki/Help_Center#Game_Lag:_Common_Causes_and_Solutions)
+-   更多卡顿原因，详见：[Game Lag: Common Causes and Solutions](/wiki/Help_Center)
 
 ------------------------------------------------------------------------
 

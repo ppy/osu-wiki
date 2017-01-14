@@ -98,6 +98,6 @@
 
 **Общее кол-во пп** = PP\[1\] \* **0.95**^0 + PP\[2\] \* **0.95**^1 + PP\[3\] \* **0.95**^2 + ... + PP\[n\] \* **0.95**^(n-1)
 
-[Образец расчетов (прокрутите чуть вниз)](http://osu.ppy.sh/wiki/File:Pp_bp.jpg)
+[Образец расчетов (прокрутите чуть вниз)](/wiki/Pp_bp.jpg)
 
 [Category:Infrastructure of osu!/RU](Category:Infrastructure_of_osu!/RU "wikilink") <Category:Guides/RU>

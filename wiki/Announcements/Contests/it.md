@@ -92,7 +92,7 @@ Contest Fanart Mensile
 osu!store Contests
 ------------------
 
-**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](/wiki/osu!supporter/it.md)) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](/wiki/osu!supporter/it.md).
+**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](/wiki/osu!supporter)) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](/wiki/osu!supporter).
 
 | Contest | Titolo                                        | Requisiti                                  | Vincitori | Notizie                                   | Risultati       |
 |---------|-----------------------------------------------|--------------------------------------------|-----------|-------------------------------------------|-----------------|
