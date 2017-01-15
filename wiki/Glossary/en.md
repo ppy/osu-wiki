@@ -77,7 +77,7 @@ On the otherhand, placing them too far may force the player to move their cursor
 A common exception to beat spacing is stacked hitcircles.
 
 To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor.
-You can choose a beat spacing value by holding `ALT` and sliding the selector at the top right until you reach the desired value.
+You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value.
 Note that the higher the value would allow a more difficult beatmap.
 
 ### Beatmap
@@ -105,9 +105,9 @@ BG is short for background.
 BG refers to the background image and/or video of a beatmap.
 Inside a beatmap folder, "BG" is usually the name for the background image.
 
-## BN
+### BN
 
-BN is short for Beatmap Nominator which is a group of osu!users who nominate pending beatmaps.
+BN is short for Beatmap Nominator which is a group of users who nominate pending beatmaps.
 This group was once called the BAT (Beatmap Appreciation Team).
 
 For details about Beatmap Nominators, see [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group/).
@@ -202,6 +202,16 @@ The combo fire will extinguish itself if the combo was broken but would still be
 
 This feature was later disabled due to performance concerns.
 
+### Combo multiplier effect
+
+The combo multiplier effect occurs in the osu!standard, osu!taiko, and osu!catch game modes.
+This occurs because said game modes use the player's current combo as a part of the score calculations.
+Meaning that a player would get a higher score, if they had gotten a full combo, than someone who played the same map with a broken combo.
+
+However, if you obtain a combo of ~10,000, your score will begin to count backwards.
+This is a flaw with the 32-bit signed integer where—in computing—the max integer is 2,147,483,647.
+A fix, scoreV2, for this in still being tested
+
 ### Cookie
 
 ![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
@@ -258,14 +268,14 @@ Maps with very long drain times are typically referred to as "marathon" maps and
 ### Drop
 
 A drop is an osu!catch element that gives a score of 100.
-A drop is the equivalent to the osu!standard's slider tick.
+It is the equivalent to the osu!standard's slidertick.
 
 The difference between drops and droplets is that a drop is twice as big as droplets are.
 
 ### Droplet
 
 A droplet is an osu!catch element that gives a score of 10.
-A droplet is the equivalent to the osu!standard's slider track.
+It is the equivalent to the osu!standard's slider track.
 
 The difference between drops and droplets is that a droplet is half as big as drops are.
 
@@ -276,7 +286,7 @@ This term is usually seen during the modding process.
 
 ### DS games
 
-Collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
+DS games is a collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
 A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
 osu! is mostly based on these games.
 
@@ -318,7 +328,7 @@ Losing your combo halfway through the game could easily lose you half as many po
 FC or, a "full combo", is when a player completes a beatmap while obtaining the maximum combo possible.
 This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or sliderbreaks.
 
-Full combos usually give the most score in the osu!standard and osu!catch modes.
+Because of the combo multiplier effect, full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
 ## G
 
@@ -342,7 +352,7 @@ There are many reasons for guest difficulties to exist:
 On the other hand, it may be the creator who wants a few guest difficulties:
 
 - this&mdash;usually&mdash;is to give the mapset a "community effort" feel
-- or, simply, they don't want to create such difficulties by themselves
+- or simply because they don't want to create such difficulties by themselves
 
 Guest difficulties are often requested by private messages in-game or via forum private messages.
 Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
@@ -759,15 +769,17 @@ A skinner refers to the osu!user who releases downloadable skins on the osu!foru
 
 ### Sliderbreak
 
-In osu!standard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
-This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
-This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
-Unlike missing, you can still achieve an "S" rank after sliderbreaking.
+Sliderbreak has two meanings:
 
-### Slider tick
+- In osu!standard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
+  This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
+  This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
+  Unlike missing, you can still achieve an "S" rank after sliderbreaking.
 
-The slider tick is a hitobject that gives out 10 points.
-The amount of slider ticks used in a slider is dependent on the slider velocity, the BPM and the inherited timing.
+### Slidertick
+
+The slidertick is a hitobject that gives out 10 points.
+The amount of sliderticks used in a slider is dependent on the slider velocity, the BPM and the inherited timing.
 
 ### Spectate
 
@@ -790,7 +802,7 @@ On the other hand, there is the inverse of this, very long spinners that are pla
 
 Before considering this mapping technique, it is very important to note:
 
-- apinners can cause fatigue to the player, since it requires rapid, repetitive, and vigorous motion
+- spinners can cause fatigue to the player, since it requires rapid, repetitive, and vigorous motion
 - the circular motion of a spinner will cause the cursor to be placed in random locations after completion.
   - This will confuse the player when they are needed to click the next object(s).
 
@@ -881,10 +893,10 @@ In osu!standard, tapping is a term that means "to press a button while the curso
 Tapping hitobjects at the right moment, as indicated by the beatmap’s music and the approach circle, is an essential part of osu! gameplay.
 There are a few different buttons one can use to tap:
 
--     the left and right mouse buttons,
--     the `Z` and `X` keys on the keyboard,
--     using the buttons on the tablet/touchpad, or
--     directly on a touchscreen/tablet
+- the left and right mouse buttons,
+- the `Z` and `X` keys on the keyboard,
+- using the buttons on the tablet/touchpad, or
+- directly on a touchscreen/tablet
 
 ### Test mode
 
