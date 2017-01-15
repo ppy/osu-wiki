@@ -772,9 +772,8 @@ A skinner refers to the osu!user who releases downloadable skins on the osu!foru
 Sliderbreak has two meanings:
 
 - In osu!standard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
-  This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
-  This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
-  Unlike missing, you can still achieve an "S" rank after sliderbreaking.
+  - This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider). This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed. Unlike missing, you can still achieve an "S" rank after sliderbreaking.
+- The case where the player doesn't obtain the max possible combo without missing an object.
 
 ### Slidertick
 
