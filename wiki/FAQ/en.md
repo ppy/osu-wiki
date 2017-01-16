@@ -1,6 +1,6 @@
 <!-- wiki -->
 [Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
-[osu wikilink]: /wiki/Game_Modes/osu!/ "osu! game mode"
+[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu! game mode"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko game mode"
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch game mode"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania game mode"
@@ -67,7 +67,7 @@ _[Osu! Tatakae! Ouendan][ouendan wikipedia]_ is a rhythm game for the Nintendo D
 You can see the circles on the bottom screen, and on the top screen you have the story. Each stage is basically a self-contained story about a person in trouble. That's where the _Ouendan_ (Cheer squad) comes in. Through the magical power of male cheerleading, you have to help the people in trouble.
 
 ### How do I play?
-_Full explanation: [osu!][osu wikilink]_
+_Full explanation: [osu!][osu! wikilink]_
 
 While most PC users will not have a touchscreen at their disposal, this game was made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
@@ -334,6 +334,8 @@ You may configure the keyboard buttons as you see fit, from the _Input_ icon in 
 
 ![Options keyboard section][Options keyboard image]
 
+### osu!
+
 #### Why am I seeing random white lines on screen every time I play?
 Make sure that the smoke/skywriting key binding is not the same as the key binding you use to tap with when playing.
 
@@ -345,8 +347,17 @@ _Usage of Smoke_
 
 _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 
-<!-- ### Why do I not have the max possible combo when I have no misses? -->
-<!-- You released a slider too early or you barely clicked the hitcircle. [Answer's Source](https://www.reddit.com/r/osugame/wiki/index "Reddit r/osugame's wiki") -->
+#### Why do I not have the max possible combo when I have no misses?
+<!-- An image of three different sliders with red markers on sensitive scoring points here? -->
+_You released a slider too early (meaning that you released the ball before it had finished the ending slider point)._
+
+A slider is composed of a starting point, middle points (also known as sliderticks), repeat points (if used, it will be treated as starting point instead; it is a proper slider in reverse), and an ending point. Each of those points on a slider will add one to your combo. Note that the starting point is worth 30 points, the middle points are worth 10 points, the repeat points are worth 30 points, and the end point is worth 300 (or geki), 100 (or katu), or 50 points.
+
+If you miss the timing to tap the starting point, miss the middle points (sliderticks), or miss the repeat points, your combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if you miss the ending point, your combo does not break but does not increment by 1 as it should. It is also not considered a miss; instead, you will get 100 (or katu for end of a combo) for the entire slider, assuming you had at least started the slider and completed all the sliderticks when given.
+
+These situations, caused by a slider, are collectively called sliderbreak. You can check whether you get the max combo by checking the result screen for the _Perfect_ notice on the performance graph. Not having the _Perfect_ notice, especially without misses, usually means that one or more sliderbreak occurs during play.
+
+[Answer source with example](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
 ### Beatmapping
 #### "This beatmap you're trying to submit isn't owned by you!"
