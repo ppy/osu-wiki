@@ -289,4 +289,4 @@ Notas
 
 <sup>×2</sup> Tenía dos equipos.
 
-<Category:Tournaments/ES> [Category:History of osu!/ES](Category:History_of_osu!/ES "wikilink")
+ 

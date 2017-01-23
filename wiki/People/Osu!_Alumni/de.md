@@ -186,4 +186,4 @@ Die **osu! Alumni** sind für ihre bewegenden Beiträge an osu! bekannt. Hätten
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |
 
-<Category:Deutsch><Category:People/DE>
+

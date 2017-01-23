@@ -63,4 +63,4 @@ If you’re unsure on the nature of a potential problem, ask for other opinions 
 
 **Note that it is the community’s responsibility ALONE to report issues with qualified beatmaps**. The Quality Assurance Team will NOT actively check and disqualify mapsets unless prompted to do so.
 
-[Category:Catch The Beat](Category:Catch_The_Beat "wikilink") [Category:Ranking Criteria](Category:Ranking_Criteria "wikilink") <Category:Beatmapping>
+  

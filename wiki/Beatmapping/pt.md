@@ -323,4 +323,4 @@ Aqui tem uma lista deles:
 |     **Alt + Roda do Mouse**    |
 |          **Arrastar**          |
 
-<Category:Beatmapping/PT>
+

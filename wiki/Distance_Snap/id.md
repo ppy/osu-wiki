@@ -2,4 +2,4 @@
 
 Ketika Distance Snap dihidupkan, setiap objek hanya dapat ditempatkan dalam sebuah lingkaran di sekitar objek sebelumnya. Jari-jari lingkaran didasarkan pada berapa banyak waktu telah berlalu sejak objek terakhir. Jarak / waktu variabel dapat diubah dalam editor untuk membuat lingkaran kecil / besar. Setelah jangka waktu tertentu (waktu yang dibutuhkan), patah dimatikan.
 
-[Category: Beatmapping/ID](Category:_Beatmapping/ID "wikilink")
+

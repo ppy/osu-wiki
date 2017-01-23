@@ -102,4 +102,4 @@ Spin is only for osu!Standard
 -   The above four values are not saved and will disappear after you close osu!. You can only see them again by watching a saved replay.
 -   Due to the way the Double Time and Half Time mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing DT, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing HT.
 
-<Category:Gameplay><Category:Taiko><Category:Mania><Category:Catch-The-Beat><Category:osu!>
+

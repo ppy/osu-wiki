@@ -28,4 +28,4 @@
 
 Во время [Киаи тайма](RU:Kiai_Time "wikilink") вы получаете на 20% больше очков за все действия.
 
-<Category:Gameplay/RU> [Category:Game Modes/RU](Category:Game_Modes/RU "wikilink") <Category:Taiko/RU>
+  

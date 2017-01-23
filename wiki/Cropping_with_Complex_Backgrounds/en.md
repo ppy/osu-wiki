@@ -42,4 +42,4 @@ Finish
 
                                                                          It can take a little time, but final effect is really good.                                                                            |
 
-<Category:Skinning>
+

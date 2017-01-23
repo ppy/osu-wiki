@@ -83,4 +83,4 @@ Note: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">and 10K</span> 
 
 Not included: Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\].
 
-<Category:osu!mania> [Category:Ranking Criteria](Category:Ranking_Criteria "wikilink") <Category:Beatmapping>
+  

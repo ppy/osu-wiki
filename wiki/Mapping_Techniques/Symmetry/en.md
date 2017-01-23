@@ -53,4 +53,4 @@ Other Examples
 
 This map has other good examples to use; just look through it. However, if you want to look at other maps, Krisom's maps are considered by many to be a stellar example of good patterns and structure, with some good examples of symmetry involved.
 
-[Category: Guides](Category:_Guides "wikilink") [Category: Mapping Techniques](Category:_Mapping_Techniques "wikilink") [Category: Beatmapping](Category:_Beatmapping "wikilink")
+  

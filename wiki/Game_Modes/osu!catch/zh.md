@@ -36,4 +36,4 @@
 
 注：接水果=CTB=Catch the Beat
 
-<Category:Catch_The_Beat/ZH>
+

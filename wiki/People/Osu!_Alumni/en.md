@@ -186,4 +186,4 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |
 
-<Category:People>
+

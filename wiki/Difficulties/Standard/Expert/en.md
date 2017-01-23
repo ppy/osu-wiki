@@ -22,4 +22,4 @@ Also note: in most cases it's the [mapping](mapping), not the [Song Setup](Song_
 
 ![Potential difficulty settings for Expert.](Expertsetup.png "Potential difficulty settings for Expert.")
 
-<Category: Beatmapping>
+

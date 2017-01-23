@@ -53,4 +53,4 @@ osu!新人mapper群：133605766
 
 最后，祝各位 mapper 都能找到 mod，并且成功将你的图送进 rank 图中。
 
-[Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink") <Category:Guides/ZH>
+ 

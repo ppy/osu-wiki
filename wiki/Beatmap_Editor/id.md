@@ -16,4 +16,4 @@ Artikel Terkait
 -   [Custom Sample Overrides](ID:Custom_Sample_Overrides "wikilink")
 -   [Kiai Time](ID:Kiai_Time "wikilink")
 
-<Category:Beatmapping/ID> [Category:Bahasa Indonesia](Category:Bahasa_Indonesia "wikilink")
+ 

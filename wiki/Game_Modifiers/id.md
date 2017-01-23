@@ -485,4 +485,4 @@ Hitsound dari skin pilihan pemain akan digunakan.</p></td>
 </tbody>
 </table>
 
-[Category: Gameplay/ID](Category:_Gameplay/ID "wikilink")
+

@@ -34,4 +34,4 @@ Trivialitäten
 
 -   [Anonymous](http://osu.ppy.sh/u/1) ist 1. [peppy](http://osu.ppy.sh/u/2) ist 2. [BanchoBot](http://osu.ppy.sh/u/3) ist 3. \#4-\#52 sind weitere Bots, die in alphabetischer Reihenfolge geordnet sind.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category:Infrastructure of osu!/DE](Category:Infrastructure_of_osu!/DE "wikilink")
+ 

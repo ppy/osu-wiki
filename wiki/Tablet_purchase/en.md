@@ -50,4 +50,4 @@ I'll try to update this guide as new models come out to reflect changes in recom
 Good luck!
 Created by [Daru](http://osu.ppy.sh/u/Daru), link to original thread [here](http://osu.ppy.sh/forum/t/71895)
 
-<Category:Guides>
+

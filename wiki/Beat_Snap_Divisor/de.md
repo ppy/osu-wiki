@@ -37,4 +37,4 @@ Grüne Linie: Sie.
 | Tick Noten         | Hat zwei lila Ticks zwischen jeden roten Tick     | Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu |                                               |                                                          |
 | Noten              | Compound timing                                   |                                                          |                                               |                                                          |
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Editor/DE> [Category:Edit mode/DE](Category:Edit_mode/DE "wikilink")
+  

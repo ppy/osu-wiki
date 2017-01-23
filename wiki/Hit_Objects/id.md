@@ -26,4 +26,4 @@ Spinner
 
 **Catatan:** Skin default sekarang \[osu! by peppy\] tidak memiliki Circles Pendekatan dan Spinner Meter, Skin default digantikan \[osu!default by peppy\] memilikinya.
 
-<Category:Gameplay/ID>
+

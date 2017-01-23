@@ -54,4 +54,4 @@ Caso você queira mudar ambos normal soft e drum samples em uma skin, simplesmen
 
 Agora que ja adicionou seus custom hitsounds simplesmente atualize a lista no modo play ou edit
 
-[Category:Edit mode/PT](Category:Edit_mode/PT "wikilink") <Category:Skinning/PT>
+ 

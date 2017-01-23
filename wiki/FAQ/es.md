@@ -347,4 +347,4 @@ Créditos
 -   Wikipedia [2](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
 
-<Category:FAQ/ES> <Category:Gameplay/ES>
+ 

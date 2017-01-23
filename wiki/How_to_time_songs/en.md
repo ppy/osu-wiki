@@ -190,4 +190,4 @@ You should <u>only</u> help with timing if:
 
 That should be all you really need to know about timing beatmaps. Although this guide is written to decrease the amount of incorrectly timed beatmaps, it may not be perfect. Feel free to ask around if you are having any trouble, since timing is by no means a simple topic.
 
-<Category:Beatmapping>
+

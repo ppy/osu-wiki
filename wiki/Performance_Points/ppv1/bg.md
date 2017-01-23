@@ -44,4 +44,4 @@
 Снимка
 ======
 
-[Category:Infrastructure of osu!/BG](Category:Infrastructure_of_osu!/BG "wikilink")
+

@@ -29,4 +29,4 @@ Anggota Tim
 | [Tom94](https://osu.ppy.sh/u/1857058) | Jerman |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | Belanda |
 
-<Category:People/ID>
+

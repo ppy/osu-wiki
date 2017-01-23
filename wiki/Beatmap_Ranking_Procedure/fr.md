@@ -29,4 +29,4 @@ L’erreur est humaine. C’est pourquoi si une map contient une énorme erreur 
 
 Note: Il peut arriver que l’on vous demande de modifier certaines choses que vous ne voulez pas changer. Dans certains cas, vous pouvez vous en sortir sans avoir à y toucher mais si la moitié des BAT vous dit de le changer, alors mettez votre orgueil de côté et changez-le.
 
-<Category:Beatmapping/FR>
+

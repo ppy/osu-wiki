@@ -13,4 +13,4 @@ Artigos relacionados
 -   [Distance Snap](PT:Distance_Snap "wikilink")
 -   [Kiai Time](PT:Kiai_Time "wikilink")
 
-<Category:Beatmapping/PT>
+

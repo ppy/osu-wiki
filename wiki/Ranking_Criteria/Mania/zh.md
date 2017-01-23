@@ -116,4 +116,4 @@
 | 8K(R)    | Beatmania IIDX(P2)                 |
 | 8K (L)   | Beatmania IIDX(P1)                 |
 
-<Category:Guides/ZH> <Category:Osu!mania/ZH> [Category:Ranking Criteria/ZH](Category:Ranking_Criteria/ZH "wikilink") <Category:Beatmapping/ZH>
+   

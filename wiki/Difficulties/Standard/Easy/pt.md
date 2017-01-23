@@ -53,4 +53,4 @@ Spinners should be used sparingly in Easy difficulties - generally ends of mappe
 
 The reasoning is because most new players are going to react slowly to a spinner, so there's a delay in starting them. Then they will also spin wildly, usually drawing along the perimeter of the screen. Once the spinner is complete, they will be most probably disoriented and wondering where their cursor is. This is the reason why if you have a spinner in the middle of a mapped phrase, you should allow for as much time as possible for recovery. A good rule of thumb is 3-4 beats after a spinner, but this can vary depending on BPM.
 
-<Category:Beatmapping/PT>
+

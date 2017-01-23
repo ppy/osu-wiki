@@ -54,4 +54,4 @@
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | ช่วยแมพของคุณให้มีคุณภาพที่ดีขึ้น |
 
-<Category:People>
+

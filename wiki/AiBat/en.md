@@ -80,4 +80,4 @@ Source Code
 
 Source now on Git: [<https://github.com/akrolsmir/AIBat>](https://github.com/akrolsmir/AIBat)
 
-<Category:osu!user projects>
+

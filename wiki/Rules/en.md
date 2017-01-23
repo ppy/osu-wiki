@@ -74,4 +74,4 @@ Restricted users have all the penalties of silenced users, along with being unab
 
 Restriction is SERIOUS, and can only be revoked by a member of the player support staff, accessible via accounts@ppy.sh or the live chat support periodically available on all pages of the website.
 
-<Category:Guides>
+

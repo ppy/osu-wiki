@@ -61,4 +61,4 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Odcinek 33")   | W tym odcinku, zajmiemy się zaawansowanymi wskazówkami do edytora                                                |
 
 
-<Category:History of osu!/PL>
+

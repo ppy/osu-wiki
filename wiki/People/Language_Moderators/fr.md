@@ -35,4 +35,4 @@ Liste des modérateurs actuels triés par canal
 | #turkish | [Türkçe](https://osu.ppy.sh/forum/93) | [Nishiji](https://osu.ppy.sh/u/167629) |
 | #vietnamese | | |
 
-<Category:People/FR>
+

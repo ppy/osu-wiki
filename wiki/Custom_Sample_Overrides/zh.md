@@ -45,4 +45,4 @@
 
 在替换音效之后，你需要退出编辑器或者是正在进行的游戏，然后重新进入谱面。
 
-[Category: Edit mode/ZH](Category:_Edit_mode/ZH "wikilink") <Category:Skinning/ZH>
+ 

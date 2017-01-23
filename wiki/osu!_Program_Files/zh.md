@@ -139,4 +139,4 @@ Program files
 -   osu!ui.dll
 -   osu.dll
 
-[Category:Infrastructure of osu!/ZH](Category:Infrastructure_of_osu!/ZH "wikilink")
+

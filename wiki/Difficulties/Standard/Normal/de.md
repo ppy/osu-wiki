@@ -23,4 +23,4 @@ Viel Erfolg mit deinen Maps der Schwierigkeit "Normal"!
 ^Übrigens: Wenn du schon eine Easy zu dem Lied erstellt hast, gehe sicher, dass deine Normal natürlich ein wenig schwieriger ist.
 ^^Nunja, es sei denn, du spammst überall 1/4-Sliders. Oder zwängst 1/2 Sliders ein. Bestimmte [BAT members](DE:Beatmap_Nomination_Group) haben sich schon per PN über solche Sachen beschwert.
 
-<Category:Deutsch>
+

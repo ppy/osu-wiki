@@ -29,4 +29,4 @@ Berjuanglah dengan map buatanmu!
 
 Bila masih ada beberapa hal yang kurang jelas mengenai hal ini, bisa langsung menghubungi pada beberapa mapper yang memang sudah bisa dan bisa juga langsung menghubungi anggota [BNG](ID:Beatmap_Nomination_Group) untuk beberapa pencerahan mengenai cara mapping tingkat kesulitan Normal.
 
-<Category: Beatmapping/ID>
+

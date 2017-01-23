@@ -36,4 +36,4 @@ Baris hijau: Kamu.
 | Catatan pada tanda   | Mempunyai tanda berwarna ungu di setiap tanda berwarna merah | Menambahkan tanda berwarna kuning di antara tanda berwarna merah & berwarna biru |                                                                             |                                                                                 |
 | Catatan              | Timing gabungan                                              |                                                                                  |                                                                             |                                                                                 |
 
-[Category: Edit mode/ID](Category:_Edit_mode/ID "wikilink")
+

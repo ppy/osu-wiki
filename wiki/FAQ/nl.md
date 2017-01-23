@@ -207,4 +207,4 @@ Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners o
 
 Daarnaast kan je de de geclassifiëerde ('ranked') beatmaps ook per moeilijkheidsgraad sorteren. De gemakkelijkste staan dan bovenaan de lijst.
 
-<Category:FAQ/NL> <Category:Gameplay/NL>
+ 

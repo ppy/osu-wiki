@@ -32,4 +32,4 @@ Diferente de osu! E catch the beat, um miss em taiko não reduz a pontuação m�
 
 E também, diferente dos outros modos de jogo, kiai time afeta scores multiplicando o valor de cada nota em 1.2x. quando kiai é ativado, o tambor na parte superior esquerda começa a dançar, vários efeitos de iluminação são ativados e chamas aparecem ao redor da área de acerto
 
-<Category:Gameplay/PT> [Category:Game Modes/PT](Category:Game_Modes/PT "wikilink") <Category:Taiko/PT>
+  

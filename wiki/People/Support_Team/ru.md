@@ -42,4 +42,4 @@
 | [Tom94](https://osu.ppy.sh/u/1857058) | немецкий |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | голландский |
 
-<Category:People/RU><Category:Russian>
+

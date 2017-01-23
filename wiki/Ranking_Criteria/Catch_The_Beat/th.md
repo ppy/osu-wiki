@@ -24,4 +24,4 @@
 
 -   **ค่า Overall Difficulty ควรจะมีค่าเท่ากับ Approach Rate.** เพื่อทำให้เป็นค่ามาตรฐาน (ต้นฉบับมันแปลมาอย่างนี้อะ :( ) แม้ว่าค่า OD จะไม่มีผลต่อการเล่น ก็แค่เพิ่มคะแนนสูงสุดของระดับความยากเท่านั้นเอง
 
-[Category:Catch The Beat/TH](Category:Catch_The_Beat/TH "wikilink") [Category:Ranking Criteria/TH](Category:Ranking_Criteria/TH "wikilink") <Category:Beatmapping/TH>
+  

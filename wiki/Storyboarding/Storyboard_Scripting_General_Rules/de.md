@@ -107,4 +107,4 @@ You can do single-line C-style comments, but be advised they may be removed if y
 
 Nicht so wie in C/C++/C#/Java, kannst du keine Kommentare in einer Zeile platzieren, in der schon ein gültiger Code vorhanden ist.
 
-<Category:Deutsch>
+

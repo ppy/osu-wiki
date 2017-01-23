@@ -583,4 +583,4 @@ Liens importants
 
 -   [Topic de discussion sur le forum de osu!](//osu.ppy.sh/forum/t/160181/start=0)
 
-<Category:Tournaments/FR><Category:Official Tournaments/FR><Category:Osu! Standard Tournaments/FR><Category:Osu! World Cup/FR>
+

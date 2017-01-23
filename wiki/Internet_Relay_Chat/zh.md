@@ -97,4 +97,4 @@ voice状态（名字前面有一个“+”）的用户是通过IRC客户端连�
 
 名字前没有前缀的用户是通过游戏连接到osu! Bancho 的用户。
 
-[Category: Guides/ZH](Category:_Guides/ZH "wikilink") [Category: Chinese](Category:_Chinese "wikilink")
+ 

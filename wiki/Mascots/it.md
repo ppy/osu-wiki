@@ -231,4 +231,4 @@ Galleria Immagini
 
 [Clicca qui per andare nella Galleria Immagini.](Gallery/en.md "wikilink")
 
-[Category:History of osu!/IT](Category:History_of_osu!/IT "wikilink")
+

@@ -35,4 +35,4 @@ Team di traduzione Italiano dell'osu!wiki
 
 Maggiori informazioni possono essere trovate [qui](https://osu.ppy.sh/forum/t/215753).
 
-<Category:Italian>
+

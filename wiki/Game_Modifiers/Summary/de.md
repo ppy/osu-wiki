@@ -559,4 +559,4 @@ Gegenseitig aufhebende Mods
 | colspan=2|Nur in osu!mania.                                                                                                                                                                            |
 | <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /><img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" />                         | <img src="Flashlight.png" title="Flashlight.png" alt="Flashlight.png" width="69" height="65" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-<Category:Gameplay/DE> <Category:Deutsch>
+ 

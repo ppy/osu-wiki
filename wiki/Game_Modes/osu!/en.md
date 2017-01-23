@@ -243,4 +243,4 @@ You reserve life from:
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
 
-[Category: Game Modes](Category:_Game_Modes "wikilink") <Category:osu!Standard>
+ 

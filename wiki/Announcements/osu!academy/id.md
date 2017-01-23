@@ -62,4 +62,4 @@ Episode
 
 Klik pada gambar untuk menyaksikan episode yang diinginkan.
 
-<Category:History of osu!/ID>
+

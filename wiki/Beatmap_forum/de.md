@@ -60,4 +60,4 @@ Dieses Forum ist **nicht** zum erstellen von Threads gedacht, indem Ihr fragt, o
 
 Hier werden alle abgeschlossenen Projekte verschoben.
 
-<Category:Deutsch> [Category:Infrastructure of osu!/DE](Category:Infrastructure_of_osu!/DE "wikilink") <Category:Website/DE>
+  

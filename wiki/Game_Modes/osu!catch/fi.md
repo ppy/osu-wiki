@@ -36,4 +36,4 @@ Sijoitustaulukoissa
 
 Erityisesti Catch The Beat pelimuotoon tehtyjä beatmappeja ei voida tällä hetkellä rankata tai pystytä liittämään hyväksyttyihin mappeihin, mutta mappaajat voivat tehdä mappeja CTB:ta ajatellen. CTB-mapeilla ei ole mitään yleisiä linjauksia minkälaisia niiden pitäisi olla. Niitä on yritetty laatia mutta huonoin tuloksin.
 
-[Category:Catch The Beat/FI](Category:Catch_The_Beat/FI "wikilink")
+

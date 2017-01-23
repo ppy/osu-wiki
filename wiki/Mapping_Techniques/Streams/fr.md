@@ -16,4 +16,4 @@ Pour des maps [osu!standard](FR:Standard "wikilink"), il est recommandé de ne p
 
 Notez que il s'agit des cas pour des maps "standard". Les maps [Taiko](FR:Taiko "wikilink") créent de nouveaux motifs allant avec la musique, ce qui fait qu'on trouve généralement plus de streams dans les maps [Taiko](FR:Taiko "wikilink"). Cependant, une surutilisation des streams ("overmapping") est toujours **jamais recommandé**.
 
-<Category:Beatmapping/FR> [Category:Mapping Techniques/FR](Category:Mapping_Techniques/FR "wikilink")
+ 

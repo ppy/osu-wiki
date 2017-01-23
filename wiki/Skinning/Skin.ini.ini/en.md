@@ -876,4 +876,4 @@ This is not part of the skin.ini file but we'd like to thank these users/resourc
 -   [MLGnom](https://osu.ppy.sh/forum/viewtopic.php?p=815247#p815247)
 -   [Skin Element List](https://docs.google.com/spreadsheets/d/1bhnV-CQRMy3Z0npQd9XSoTdkYxz0ew5e648S00qkJZ8/edit#gid=617540681)
 
-<Category:Skinning>
+

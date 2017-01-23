@@ -75,4 +75,4 @@ Przejrzyj!
 -   [Lista państw uczestniczących w oficjalnych turniejach](/wiki/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (klient używany przy streamowaniu turniejów)
 
-<Category:History of osu!/PL>
+

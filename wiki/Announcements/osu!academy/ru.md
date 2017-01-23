@@ -63,4 +63,4 @@
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Эпизод 33")   | В этом эпизоде мы узнаем ещё больше возможностей эдитора!                                |
 
 
-<Category:Russian>
+

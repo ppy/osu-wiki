@@ -73,4 +73,4 @@ See also
 -   [World Cup Season Schedule 2013/14](http://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
-<Category:History of osu!>
+

@@ -15,4 +15,4 @@ Bahkan ada tingkatan khusus pula:
 
 Setiap link memiliki sekumpulan pedoman umum untuk diikuti para [mapper](ID:Mappers "wikilink") agar dapat membuat sebuah [beatmap](ID:Beatmap "wikilink") yang menyenangkan yang sesuai dengan tingkat kesulitannya.
 
-<Category:Beatmapping/ID>
+

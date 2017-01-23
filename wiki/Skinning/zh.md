@@ -77,4 +77,4 @@
     -   section-pass.png
     -   section-fail.png
 
-[Category: Skinning/ZH](Category:_Skinning/ZH "wikilink")
+

@@ -17,4 +17,4 @@ Es basiert grundsätzlich auf [die offizielen Spezifikationen](http://osu.ppy.sh
 
 Hinweis: **Speichere es zuerst in der Beatmap als .osb-Datei ab**, bevor du es im Textdokument abspeicherst. Der Editor ist dazu auch noch sehr sensibel, daher solltest du **sehr oft** abspeichern, um mögliche Abstürze vorzubeugen.
 
-<Category:Deutsch>
+

@@ -19,4 +19,4 @@ Slider
 Spinner
 -------
 
-<Category:Skinning/FR> <Category:Taiko/FR>
+ 

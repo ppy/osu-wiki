@@ -29,4 +29,4 @@ Jokainen *Hyvä* antaa puolet *Mahtavan* arvosta ja hudista ei saa pisteitä. Ka
 
 Toisin kuin "tavallisessa" ja [CatchTheBeatissä](FI:Catch_The_Beat "wikilink"), huti Taikossa ei vaikuta maksimi pistemäärään huimasti.
 
-[Category:Game Modes/FI](Category:Game_Modes/FI "wikilink") <Category:Taiko/FI>
+ 

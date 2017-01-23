@@ -36,4 +36,4 @@ osu!のモードや[CTBなどとは別にACC](JP:CTB "wikilink")・Ranked Score�
 
 デフォルトの設定では左右クリック・ZXCVで叩けます
 
-<Category:Gameplay/JP> [Category:Game Modes/JP](Category:Game_Modes/JP "wikilink") <Category:Taiko/JP>
+  

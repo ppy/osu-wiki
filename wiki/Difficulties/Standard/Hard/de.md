@@ -7,4 +7,4 @@ Eine etwaige Orientierung (Keineswegs absolut, kann nach Geschmack des Mappers b
 -   Approach Rate: 6 oder höher
 -   Overall Difficulty: 6 oder höher
 
-<Category:Deutsch>
+

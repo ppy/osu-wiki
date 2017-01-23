@@ -60,4 +60,4 @@ Forum ini **bukan** untuk meminta lagu yang kamu suka untuk dijadikan beatmap ta
 
 ***Tempat dimana semua proyek yang telah selesai berada.***
 
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink") <Category:Website/ID>
+ 

@@ -273,4 +273,4 @@ Références
 -   [Forum topic](http://ha.ppy.sh/forum/p/1284932)
 -   [An example of the gameplay on YouTube](http://www.youtube.com/watch?v=y-Af27ZNujg) (Not Auto)
 
-[Category:Game Modes/FR](Category:Game_Modes/FR "wikilink") <Category:Osu!mania/FR>
+ 

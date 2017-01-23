@@ -159,4 +159,4 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online
 
-[Category:Infrastructure of osu!/FR](Category:Infrastructure_of_osu!/FR "wikilink")
+

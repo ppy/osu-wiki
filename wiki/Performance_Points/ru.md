@@ -100,4 +100,4 @@
 
 [Образец расчетов (прокрутите чуть вниз)](/wiki/Pp_bp.jpg)
 
-[Category:Infrastructure of osu!/RU](Category:Infrastructure_of_osu!/RU "wikilink") <Category:Guides/RU>
+ 

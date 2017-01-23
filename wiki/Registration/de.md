@@ -52,4 +52,4 @@ Ab hier bist du bereit dein Abenteuer auf der Seite ["Leitfaden für Neueinsteig
 
 Wenn du Hilfe im Spiel benötigen solltest, melde dich einfach im \#help Channel. Am einfachsten kommst du in den \#help Channel, wenn du "/join \#help" in den Chat eingebst (ohne Anführungszeichen).
 
-<Category:Deutsch>
+

@@ -17,4 +17,4 @@ Steps
 
 4) Done.
 
-[Category:Mapping Techniques](Category:Mapping_Techniques "wikilink")
+

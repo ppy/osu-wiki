@@ -29,4 +29,4 @@ Miembros del Equipo
 | [Tom94](https://osu.ppy.sh/u/1857058) | Alemán |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | Dutch |
 
-<Category:People/ES>
+

@@ -343,4 +343,4 @@ Pokebis ได้รวบรวมแมปที่เหมาะสมกั
 
 และคุณยังสามารถเรียงบีตแมปได้ตามความยาก บีตแมปที่ง่ายกว่าจะอยู่ด้านบนของรายการ
 
-[Category: FAQ/TH](Category:_FAQ/TH "wikilink") <Category:Gameplay/TH> <Category:Guides/TH>
+  

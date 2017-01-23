@@ -87,4 +87,4 @@ Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informas
 -   4 nilai di atas tidak akan tersimpan dan akan menghilang setelah kamu menutup osu!. Kamu hanya dapat melihatnya lagi dengan menonton replay yang tersimpan.
 -   Karena mod Double Time dan Half Time diimplementasikan, nilai **Error** dan **Unstable Rate** akan dilipatgandakan dengan faktor yang sama dengan lagu. Untuk mendapatkan nilai sebenarnya ketika bermain menggunakan Double Time, bagi hasilnya dengan 1.5. Sama dengan sebelumnya, kalikan hasilnya dengan 1.33 jika bermain menggunakan Half Time.
 
-<Category:Gameplay/ID><Category:Taiko/ID><Category:Catch_the_Beat/ID><Category:Osu!mania/ID> <Category:Osu!Standard/ID>
+ 

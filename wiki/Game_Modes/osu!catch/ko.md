@@ -31,4 +31,4 @@ CTB에서는 좌우 방향키 2개와 쉬프트키를 사용하며, 화면상에
 `* C랭크 : 정확도 85.01% ~ 90.00%`
 `* D랭크 : 정확도 85.00% 이하`
 
-[Category:Catch The Beat/KO](Category:Catch_The_Beat/KO "wikilink")
+

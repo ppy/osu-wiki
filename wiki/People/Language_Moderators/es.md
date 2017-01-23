@@ -35,4 +35,4 @@ Lista de moderadores actuales (con un idioma específico)
 | #turkish | [Türkçe](https://osu.ppy.sh/forum/93) | [Nishiji](https://osu.ppy.sh/u/167629) |
 | #vietnamese | | |
 
-<Category:People/ES>
+

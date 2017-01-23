@@ -64,4 +64,4 @@
 
 Это просто: прочитайте [правила](RU:Rules "wikilink") и следуйте им.
 
-<Category:Russian>
+

@@ -19,4 +19,4 @@ Inne, często spotykane nazwy poziomu easy to:
 -   Shikai/Kuro Shikai (z anime "Bleach")
 -   Light
 
-<Category:Beatmapping/PL>
+

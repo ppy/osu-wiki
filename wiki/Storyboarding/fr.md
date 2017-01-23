@@ -48,4 +48,4 @@ Avec la création de l'Editeur de Storyboards pour créer des effets graphiques 
 
 D'autres Storyboards sympas peuvent être trouvées [ici](FR:Storyboarding/Maps).
 
-<Category:Storyboarding/FR>
+

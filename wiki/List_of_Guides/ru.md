@@ -122,4 +122,4 @@ FAQ и критерии ранкинга
 -   [Что такое IRC?](/wiki/Internet_Relay_Chat)
 -   [Запуск osu! на Mac без Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)
 
-<Category:Russian>
+

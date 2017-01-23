@@ -130,4 +130,4 @@ In a full-combo attempt, since GOOD always counts as 50% (unlike in Standard), y
 -    Unlike the other game modes, [Kiai Time](/wiki/Kiai_Time) has an effect on scores because it refers to the "Go-Go Time" in Taiko no Tatsujin. While Kiai Time is active, the drum in the upper-left changes animation (named pippidon or Don/Katsu in Taiko no Tatsujin), the playfield has a background gradient and the hit area gains a fire graphic around it.
      -    Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
 
-<Category:Gameplay> [Category:Game Modes](Category:Game_Modes "wikilink") <Category:Taiko>
+  

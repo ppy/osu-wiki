@@ -208,4 +208,4 @@ osu! World Cup 2015
 5.  スケジュール変更は、wiki上でのスケジュールが発表された後は、いかなる状況でも行われません。
 6.  各チームキャプテンは、責任を持って参加可能なメンバーを選出してください。確実に各試合で4名のプレイヤーが参加できるように、チームには多くの人が所属しています。もし4名を選出できなかった場合、その試合は棄権とみなします。
 
-<Category:Tournaments/JP><Category:Official Tournaments/JP><Category:Osu! Standard Tournaments/JP><Category:Osu! World Cup/JP>
+

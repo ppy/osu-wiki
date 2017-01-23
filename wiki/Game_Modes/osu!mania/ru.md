@@ -101,4 +101,4 @@
 -   [варианты раскладок управления](http://puu.sh/I6wO)
 -   [пример геймплея на YouTube](http://www.youtube.com/watch?v=y-Af27ZNujg) (не Auto)
 
-<Category:Russian> [Category: Game Modes/RU](Category:_Game_Modes/RU "wikilink") <Category:osu!mania/RU>
+  

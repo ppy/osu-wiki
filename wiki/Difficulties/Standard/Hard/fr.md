@@ -7,4 +7,4 @@ Idée générale (Pas nécessaire, peut être modifié selon la préférence du 
 -   Approach rate (Fenêtre d'approche) : 6 ou plus
 -   Overall Difficulty (Difficulté générale) : 6 ou plus
 
-<Category:Beatmapping/FR>
+

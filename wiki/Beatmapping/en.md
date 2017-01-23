@@ -336,4 +336,4 @@ Here's a list of them:
 |     **Alt + Mouse Wheel**    |
 |           **Drag**           |
 
-<Category:Beatmapping>
+

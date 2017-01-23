@@ -163,4 +163,4 @@
 
 Если вам лень считать, но узнать пороги уровней очень хочется, они уже кем-то посчитаны [здесь](http://pastebin.com/5gkQ1B6Q) (исходник на Java прилагается).
 
-<Category:Russian> [Category: Gameplay/RU](Category:_Gameplay/RU "wikilink")
+ 

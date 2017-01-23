@@ -88,4 +88,4 @@ Za pomocą gry
 
     - Plik .osk zostanie wyprodukowany i umieszczony w folderze "Exports".
 
-<Category:File_Formats/PL>
+

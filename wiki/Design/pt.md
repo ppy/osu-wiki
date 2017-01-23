@@ -29,4 +29,4 @@ Limitações
 -   Sem suporte para loop ou trigger.
 -   Sem comandos de cor ou Move-X/Move-Y.
 
-<Category:Storyboarding/PT> [Category:Edit mode/PT](Category:Edit_mode/PT "wikilink")
+ 

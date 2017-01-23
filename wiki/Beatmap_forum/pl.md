@@ -23,4 +23,4 @@ Podział forum beatmap
 -   -   [Completed Projects](https://osu.ppy.sh/forum/62) - ***Można tutaj umieszczać i omawiać ukończone projekty.***
 -   -   [Beatmap Management](https://osu.ppy.sh/forum/115) - ***Tutaj członkowie Nominatorów Beatmap omawiają pewne sprawy.***
 
-[Category:Infrastructure of osu!/PL](Category:Infrastructure_of_osu!/PL "wikilink") <Category:Website/PL>
+ 

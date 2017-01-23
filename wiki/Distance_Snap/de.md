@@ -2,4 +2,4 @@
 
 Wenn Distance Snap aktiviert ist, können Sie den nächsten Hit Objekt nur auf einer Kreisbahn, bei dem der vorherige Hit Objekt der Mittelpunkt ist, platzieren. Der Radius des Kreises hängt vom zeitlichen Abstand beider Hit Objekte ab. Der Abstand bzw. die zeitliche Variable können Sie im Editor ändern, um den Radius zu verkleinern oder zu vergrößern. Sobald der zeitliche Abstand zweier Hit Objekte einen gewissen Wert überschreitet, wird das Distance Snap deaktiviert.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category: Beatmapping/DE](Category:_Beatmapping/DE "wikilink") [Category: Edit mode/DE](Category:_Edit_mode/DE "wikilink")
+  

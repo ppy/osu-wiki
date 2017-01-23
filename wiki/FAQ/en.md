@@ -355,4 +355,4 @@ Please follow these steps:
 -   Wikipedia [\[3\]][ouendan wikipedia], [\[4\]][Taiko no Tatsujin wikipedia]
 -   Reddit's /r/osugame/wiki [\[5\]][reddit osugame wiki]
 
-<!-- <Category:FAQ> <Category:Gameplay> -->
+<!--   -->

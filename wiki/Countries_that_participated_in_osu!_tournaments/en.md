@@ -295,4 +295,4 @@ Notes
 
 <sup>×2</sup> Had two teams.
 
-<Category:Tournaments> [Category:History of osu!](Category:History_of_osu! "wikilink")
+ 

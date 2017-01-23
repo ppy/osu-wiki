@@ -2,4 +2,4 @@
 
 Je mehr Kudosu-Sterne eine Beatmap besitzt, desto weiter vorne erscheinen die Beatmap-Threads im Subforum "Works in Progress" und "Pending". Es werden mindestens 12 Kudosu-Sterne benötigt, um eine Beatmap zu bubblen oder zu ranken.
 
-<Category:Deutsch>
+

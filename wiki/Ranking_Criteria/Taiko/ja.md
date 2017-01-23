@@ -40,4 +40,4 @@ Slider Velocityはむずかしい以上の難易度で 1.40 もしくは 1.60 �
 
 カスタムヒットサウンドはdrum関連の音でなければいけません。カスタムヒットサウンドを使用する場合は、ドンには低い音、カッには高い音を使用してください。
 
-<Category:Taiko/JP> [Category:Ranking Criteria/JP](Category:Ranking_Criteria/JP "wikilink") <Category:Beatmapping/JP>
+  

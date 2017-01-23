@@ -42,4 +42,4 @@ Voici quelques astuces :
 
 Bonne chance dans le modding de votre map !
 
-<Category:Beatmapping/FR>
+

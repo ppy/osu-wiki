@@ -36,4 +36,4 @@ Mod4Mod(m4m)は彼らにModをされた時、あなたが他の誰かの譜面(�
 
 Modの確保とRankedを頑張ってください!
 
-<Category:Beatmapping/JP>
+

@@ -31,4 +31,4 @@ Le persone fanno degli errori. Quindi, se una mappa raggiunge il sistema di Rank
 
 Nota bene: A volte ti verrà chiesto di cambiare qualcosa che non vorresti cambiare. A volte riuscirai a farla rankare di nuovo senza aggiustare il problema citato dal BAT, ma se più di metà dei BAT approva che tu dovresti cambiarlo, allora dovresti fartene una ragione e aggiustarlo.
 
-<Category:Beatmapping/IT>
+

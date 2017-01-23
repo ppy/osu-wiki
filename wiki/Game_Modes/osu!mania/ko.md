@@ -214,4 +214,4 @@ Mania500.png|MAX300 Mania300.png|300 Mania200.png|200 Mania100.png|100 Mania50.p
 `  보너스 = 0 + 2 - 0 / 1 = `**`2`**
 `* 획득 점수: `**`4736`**
 
-<Category:Osu!mania/KO>
+

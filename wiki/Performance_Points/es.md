@@ -91,4 +91,4 @@ Tu rank en rendimiento está principalmente basado en mapas individuales. La for
 -   Consigue buenas puntuaciones en mapas muy difíciles.
 -   Mejora viejos récords.
 
-[Category:Infrastructure of osu!/ES](Category:Infrastructure_of_osu!/ES "wikilink")
+

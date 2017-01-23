@@ -31,4 +31,4 @@ A Slider speed é medida em *centenas de [osupixels](PT:Osupixel "wikilink") por
 
 Slider speed pode ser definida na aba Timing pela janela principal do editor. você também pode definir um multiplicador para esse valor de velocidade ao adicionar uma inherited [timing section](PT:Timing "wikilink").
 
-<Category:Gameplay/PT> <Category:Beatmapping/PT>
+ 

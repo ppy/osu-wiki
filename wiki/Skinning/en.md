@@ -161,4 +161,4 @@ These skinning elements, below, were once used before but are now resting in pea
 
 -   playfield.png -- this skinning element allowed the user to change the playfield image, if a beatmap doesn't have one. This was replaced with menu-background.jpg, which requires .
 
-<Category:Beatmapping> <Category:Skinning>
+ 

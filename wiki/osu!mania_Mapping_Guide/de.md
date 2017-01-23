@@ -632,4 +632,4 @@ Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr
 
 Probiert einfach mal ein wenig rum. Man kann damit wirklich sehr lustige Maps erstellen.
 
-<Category:Deutsch> <Category:Guides/DE> <Category:Osu!mania/DE>
+  

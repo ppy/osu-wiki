@@ -36,4 +36,4 @@ Klassement
 
 Tot 10 april 2012, konden Catch The Beat maps niet geklasseerd worden of in geklasseerde maps gezet worden, maar dat is nu veranderd, mappers kunnen nu CTB-speciefieke maps maken, op voorwaarde dat ze voldoen aan de richtlijnen. Deze richtlijnen zijn in ontwikkelingmaar naarmate er meer CTB maps worden gerangschikt en feedback wordt gegeven van hun spelers, zullen de richtlijnen evolueren.
 
-[Category:Catch The Beat/NL](Category:Catch_The_Beat/NL "wikilink")
+

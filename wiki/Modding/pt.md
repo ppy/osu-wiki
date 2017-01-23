@@ -97,4 +97,4 @@ What to avoid in your mod post
 
 Essentially, each point of your mod post should have a **"when"**, **"what"**, and **"why"**. When you do not have the "why" or the "what", the suggestions may be a little confusing for the mapper. This, in turn, makes your mod a lot less useful than it should be. Simply explaining your suggestions will make your mod a lot more useful.
 
-<Category:Modding/PT>
+

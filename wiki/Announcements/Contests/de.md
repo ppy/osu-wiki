@@ -97,4 +97,4 @@ osu!store Wettbewerb
 |---------|------------------------------------|-----------------------------------------------|------------|----------------------------------------|----------------|
 | \#1     | osu! Beatmap Blueprints Wettbewerb | osu! Beatmap Blueprints  ("Beatmap irgendwo") | (Gewinner) | [News](//osu.ppy.sh/news/114095906408) | \[(Ergebnis)\] |
 
-<Category:Deutsch><Category:History of osu!/DE>
+

@@ -122,4 +122,4 @@ Other styles
 
 **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is that you only have two arms to input commands, excluding the use of legs.
 
-<Category:Gameplay>
+

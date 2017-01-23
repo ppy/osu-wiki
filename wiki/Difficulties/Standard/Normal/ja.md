@@ -23,4 +23,4 @@ Set Up
 
 それでは頑張ってNormalを作ってください。
 
-<Category:Beatmapping/JP>
+

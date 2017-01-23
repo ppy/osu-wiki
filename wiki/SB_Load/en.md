@@ -58,4 +58,4 @@ Hopefully these tips are of some use to people. I know a lot of people don't kno
 -   If an image has a large amount of transparent pixels, split it into multiple images and connect them in-engine.
 -   If a scene is complicated (a lot of overlapping), try making it a single image in GIMP/Photoshop and then displaying only that (be careful, as doing this too much could lead to larger filesizes).
 
-<Category:Storyboarding>
+

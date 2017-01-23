@@ -5,4 +5,4 @@
 -   **Approach Rate**: 6 или выше
 -   **Overall Difficulty**: 6 или выше
 
-<Category: Russian>
+

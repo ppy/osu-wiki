@@ -7,4 +7,4 @@ Introduzione
 
 Non supporta le classiche mappe di osu!. Piuttosto, le beatmaps sono create da uno speciale team di mappers che utilizzano i nuovi elementi and adhere ad uno stretto livello di regole. Entrami i pacchetti gratis e a pagamento sono disponibili nello "Store".
 
-[Category:Game Ports/IT](Category:Game_Ports/IT "wikilink")
+

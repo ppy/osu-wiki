@@ -155,4 +155,4 @@ Your performance rank is predominantly based on your performance on individual m
 -   Get higher combo. Go for Full Combo/Perfect or "SS/SSH".
 -   Play well on harder difficulties.
 
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink")
+

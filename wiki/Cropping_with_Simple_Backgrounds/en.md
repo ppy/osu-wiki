@@ -39,4 +39,4 @@ Finish
 
                                                                          This method only works with one coloured background, but with it you can easily and quickly remove the background.  |
 
-<Category:Skinning>
+

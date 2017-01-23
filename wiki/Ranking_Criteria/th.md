@@ -105,4 +105,4 @@ Storyboarding
 -   **There must not be any unnecessary transparency around storyboarded images,** so crop and resize them as much as possible. If there are particular reasons for apparently useless transparency, then please explain them. For transparent sprites, there should be at least one pixel of transparent border around them so that interpolation (e.g. a black-bordered image on a black background) works properly (although a shadow or glow around the image will fix this problem as well).
 -   **Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <u>must</u> use the epilepsy warning.** There is one built-into the editor, which will display a visual warning at the beginning of the map and also mark the map's online thumbnail with a warning icon. Also, it helps to make a note of the flashing/strobes/etc. in the map's thread. This warning is absolutely needed so that players with epilepsy can avoid any danger.
 
-[Category:Ranking Criteria/TH](Category:Ranking_Criteria/TH "wikilink") <Category:Beatmapping/TH>
+ 

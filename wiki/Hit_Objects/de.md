@@ -29,4 +29,4 @@ Spinner
 
 **Achtung:** Der aktuelle Standardskin \[osu! by peppy\] hat keinen Approach Circle oder Spinnermeter, der vorherige Standardskin \[osu!default by peppy\] hat diese noch.
 
-<Category:Deutsch>
+

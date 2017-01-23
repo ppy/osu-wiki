@@ -35,4 +35,4 @@ Inherited timing sections are displayed as a green line in the editor. These do 
 
 These two types of timing sections are also commonly referred to as "red offsets" and "green offsets" respectively.
 
-[Category: Beatmapping](Category:_Beatmapping "wikilink") [Category: Edit mode](Category:_Edit_mode "wikilink")
+ 

@@ -60,4 +60,4 @@ TataCon
 
 Memungkinkan untuk menyambungkan kontroler drum TataCon, yang terutama diciptakan untuk port asal dari Tatsujin dan Drum Master
 
-[Category:Game Modes/ID](Category:Game_Modes/ID "wikilink") <Category:Taiko/ID>
+ 

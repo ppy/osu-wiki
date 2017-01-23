@@ -60,4 +60,4 @@ Ces tutoriels vidéo, œuvres de , sont **en anglais**.
 
 
 
-<Category:History of osu!/FR>
+

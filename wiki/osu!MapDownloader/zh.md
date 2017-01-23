@@ -161,4 +161,4 @@ Links
 -   [来源（在5楼）](http://tieba.baidu.com/p/3628301383)
 -   [http://bloodcat.com/osu/（下载来源](http://bloodcat.com/osu/（下载来源)）
 
-[Category:Game Clients](Category:Game_Clients "wikilink") [Category:Translation Request](Category:Translation_Request "wikilink")
+ 

@@ -31,4 +31,4 @@ Elke *GOOD* geeft een halve score van *GREAT* , terwijl geen score staat voor *M
 
 In tegenstelling tot osu! of [CatchTheBeat](NL:CatchTheBeat "wikilink"), een gemiste noot in Taiko zal de uiteindelijke mogelijke score niet gigantisch omlaag brengen. Een constante score wordt eraf gehaald bij een gemiste noot als elke mis minimaal een combi van 100 ervoor en erna heeft.
 
-[Category:Game Modes/NL](Category:Game_Modes/NL "wikilink") <Category:Taiko/NL>
+ 

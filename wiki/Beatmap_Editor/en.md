@@ -16,4 +16,4 @@ Related articles
 -   [Custom Sample Overrides](Custom_Sample_Overrides "wikilink")
 -   [Kiai Time](Kiai_Time "wikilink")
 
-<Category:Beatmapping>
+

@@ -37,4 +37,4 @@
 | Цвет тиков     | Между каждым красным тиком появляется по два <span style="color:#a05050; background-color:#000000; font-weight:bold;">коричневых</span> | Добавляет к красным и синим тикам <span style="color:#fefe50; background-color:#000000; font-weight:bold;">жёлтые</span> |                                                                                                                                       |                                                                                                               |
 | Примечания     | Смешанный тайминг                                                                                                                       |                                                                                                                          |                                                                                                                                       |                                                                                                               |
 
-[Category:Edit mode/RU](Category:Edit_mode/RU "wikilink")
+

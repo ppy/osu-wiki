@@ -328,4 +328,4 @@
 
 -   **Старайтесь, чтобы нагрузка сториборда не превышала 5.0х,** чтобы игра не тормозила на старых компьютерах. Уменьшение размера картинок может это исправить.
 
-[Category:Ranking Criteria/RU](Category:Ranking_Criteria/RU "wikilink") <Category:Beatmapping/RU>
+ 

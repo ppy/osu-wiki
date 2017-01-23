@@ -26,4 +26,4 @@ Nota adicional: en la mayoría de los casos lo importante es el [mapping](ES:Map
 
 En general, es lo mismo que en [Insane](ES:Insane).''
 
-<Category:Beatmapping/ES>
+

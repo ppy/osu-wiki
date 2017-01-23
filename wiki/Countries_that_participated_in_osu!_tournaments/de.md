@@ -269,4 +269,4 @@ Hinweis
 
 <sup>×2</sup> bedeutet, dass das Land 2 volle Teams hatte.
 
-<Category:Deutsch> <Category:Tournaments/DE> [Category:History of osu!/DE](Category:History_of_osu!/DE "wikilink")
+  

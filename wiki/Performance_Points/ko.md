@@ -43,4 +43,4 @@
 자신의 퍼포먼스 포인트를 보는 방법
 ==================================
 
-[Category:Infrastructure of osu!/KO](Category:Infrastructure_of_osu!/KO "wikilink")
+

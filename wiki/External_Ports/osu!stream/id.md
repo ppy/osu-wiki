@@ -278,4 +278,4 @@ Tautan
 -   [Website resmi osu!stream](http://www.osustream.com)
 -   [Forum diskusi (osu!)](http://osu.ppy.sh/forum/79)
 
-[Category:Game Ports/ID](Category:Game_Ports/ID "wikilink")
+

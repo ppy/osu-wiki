@@ -54,4 +54,4 @@
 | [Турнирный персонал](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Контроль качества (QAT)](/wiki/People/Quality_Assurance_Team) | Контроль качества ранкнутых карт |
 
-<Category:People>
+

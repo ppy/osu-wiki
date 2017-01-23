@@ -25,4 +25,4 @@ Installation - Thai
 
 ###### การเพิ่มเพลง
 
-<Category:Stubs><Category:Guides/TH>
+

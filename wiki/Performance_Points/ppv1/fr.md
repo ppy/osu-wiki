@@ -37,4 +37,4 @@ Votre classement est principalement lié à vos performances sur des maps indivi
 -   Améliorez vos anciens records,
 -   Obtenez le grade SS.
 
-[Category:History of osu!/FR](Category:History_of_osu!/FR "wikilink")
+

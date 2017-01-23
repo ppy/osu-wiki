@@ -34,4 +34,4 @@ Richtlinien sind **keine** Regeln und dürfen in speziellen Situationen ignorier
 -   **Pass auf, dass deine Combos nicht zu lang werden (15+)!** Denk dran, dass die Slider mit Anfang und Ende als 2 Früchte auf Yuzus Platte gelten und diese dir die Sicht von neuen Früchten während des Gameplays nehmen kann. Eine gute allgemeine Basis ist ein Maximum von 10 Früchten für eine komplette Combo. Damit kann dir keine Frucht die Sicht versperren!
     -   Deine Spinner sollten auch nicht zu lang werden! Spinner Bananen können sich auch stapeln.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Guides/DE> [Category:Catch The Beat/DE](Category:Catch_The_Beat/DE "wikilink") <Category:Beatmapping/DE>
+   

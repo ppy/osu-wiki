@@ -32,4 +32,4 @@ Le défaut le plus couramment rencontré sur les Insane en cours de mapping est 
 
 2. Les critères de ranking n'imposent pas que toutes les mapsets doivent avoir une Insane. Si vous trouvez votre Insane ennuyante et que vous n'arrivez pas à produire quelque chose d'original, peut-être devriez-vous songer à la supprimer et publier le mapset sans.
 
-<Category:Beatmapping/FR>
+

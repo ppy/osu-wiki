@@ -15,4 +15,4 @@ Things to take into consideration when using Kiai
 5.  **[Guest difficulties](Guest_Difficulty "wikilink") may have different Kiai**. This is due to the fact that not everyone thinks the same spot is the "cool" spot of the beatmap; however Kiai should still be consistent.
 6.  [Colorhaxing](Colorhaxing "wikilink") to make Kiai have a different set of [combo colours](combo_colours "wikilink") is a nice touch.
 
-<Category:Gameplay> [Category:Edit mode](Category:Edit_mode "wikilink") <Category:Beatmapping>
+  

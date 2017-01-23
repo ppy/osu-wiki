@@ -59,4 +59,4 @@ Clique na imagem do episódio que deseja assistir.
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Episódio 33")   | Dicas Avançadas do Editor!                                       |
 
 
-<Category:History of osu!/PT>
+

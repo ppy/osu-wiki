@@ -49,4 +49,4 @@ Queste sono solo alcune delle skill necessarie che imparerai giocando e diventad
     -   A volte, come nella foto sopra, dovrai tornare indietro alla fine del percorso.
     -   Lo puoi capire da simbolo indietro alla fine del percorso.
 
-<Category:FAQ/IT> <Category:Gameplay/IT>
+ 

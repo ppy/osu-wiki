@@ -16,4 +16,4 @@ Related articles
 -   [自定义音效](ZH:Custom_Sample_Overrides "wikilink")
 -   [Kiai 时间](ZH:Kiai_Time "wikilink")
 
-<Category:Beatmapping/ZH>
+

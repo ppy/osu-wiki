@@ -33,4 +33,4 @@ Manusia juga membuat kesalahan. Maka dari itu, apabila suatu map masuk ke sistem
 
 Catatan: Pasti ada waktu di mana kamu tidak ingin mengganti hal yang diminta untuk mengganti. Di saat saat tertentu, kamu mungkin bisa tidak menggantinya. Tetapi, apabila setengah dari Beatmap Approval Team setuju bahwa kamu harus menggantinya, maka gantilah.
 
-<Category:Beatmapping/ID>
+

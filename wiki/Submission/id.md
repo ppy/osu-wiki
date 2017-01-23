@@ -141,4 +141,4 @@ Bergantung dari berapa banyak map ranked yang kamu miliki, kamu diperbolehkan mu
 
 **osu!supporter** memiliki batas yang lebih besar dan diperbolehkan mulai dari **4 hingga 10 map unranked**. sss Beatmap unranked di dalam graveyard *tidak memiliki batas*.
 
-<Category:Beatmapping/ID>
+

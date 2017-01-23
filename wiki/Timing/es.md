@@ -35,4 +35,4 @@ Las secciones de timing heredadas son mostradas como una línea verde en el edit
 
 Estos dos tipos de secciones de timing son también conocidas comúnmente como "red offsets" y "green offsets" respectivamente.
 
-[Category: Beatmapping/ES](Category:_Beatmapping/ES "wikilink") [Category: Edit mode/ES](Category:_Edit_mode/ES "wikilink")
+ 

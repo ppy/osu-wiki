@@ -342,4 +342,4 @@ GM COOP2.jpg|Сравнение оригинала (сверху) и коопа 
 
 Работает как и 1K~9K, но подключает 10 клавиш (можно получить при совмещении 5K и COOP).
 
-[Category: Gameplay/RU](Category:_Gameplay/RU "wikilink")
+

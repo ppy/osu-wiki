@@ -143,4 +143,4 @@ Depending on how many ranked maps you have, you are allowed between **3 to 6 unr
 
 Unranked beatmaps in the graveyard *don't have a limit*.
 
-<Category:Beatmapping/PT>
+

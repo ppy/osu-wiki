@@ -39,4 +39,4 @@ Using Distance Snap
 
 Distance Snap is just a **tool** to maintain proportional distance between two hit-objects, a "crutch" if you will. It works well in most situations but over-reliance will make your difficulty predictable and with limited working space. While it is not wrong to use Distance Snap, remember that it is just a tool intended to suit the mapper's purpose. A change in distance should make sense and follow to the rhythm well. Distance Snap is just a helper and does not constitute a professional advice, that would be in the [beatmap forum](beatmap_forum "wikilink") if you need one.
 
-<Category:Beatmapping>
+

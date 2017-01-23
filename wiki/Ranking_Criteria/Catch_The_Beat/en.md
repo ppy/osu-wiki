@@ -174,4 +174,4 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 6-8
 -   Circle Size should be between 3-6
 
-[Category:Catch The Beat](Category:Catch_The_Beat "wikilink") [Category:Ranking Criteria](Category:Ranking_Criteria "wikilink") <Category:Beatmapping>
+  

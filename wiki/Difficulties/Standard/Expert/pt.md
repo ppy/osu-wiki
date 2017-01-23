@@ -16,4 +16,4 @@ Settings
 
 Em geral, *o mesmo que em [insane](PT:Insane).*
 
-<Category: Beatmapping/PT>
+

@@ -15,4 +15,4 @@ Remember, that you should read the copyright license and make sure it is a licen
 
 [For further reference, click here for wikipedia article.](wikipedia:Creative_Commons "wikilink")
 
-<Category:Beatmapping>
+

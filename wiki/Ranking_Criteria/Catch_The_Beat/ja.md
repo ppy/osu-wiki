@@ -34,4 +34,4 @@ Guidelines
 
 -   **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as OD does not affect gameplay nor the amount of fruits a spinner has, just the max score of a difficulty.
 
-[Category:Catch The Beat/JP](Category:Catch_The_Beat/JP "wikilink") [Category:Ranking Criteria/JP](Category:Ranking_Criteria/JP "wikilink") <Category:Beatmapping/JP>
+  

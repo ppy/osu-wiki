@@ -232,4 +232,4 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 
 Osu! Online score.png| osu! Daring Taiko Online.jpg| Taiko Daring CtB Online.png| Catch the Beat Daring
 
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")
+

@@ -31,4 +31,4 @@ Spinner
 
 **Note:** Current default skin \[osu! by peppy\] do not have Approach Circles and Spinner Metre, the superseded default skin \[osu!default by peppy\] have them.
 
-[Category: Gameplay/ZH](Category:_Gameplay/ZH "wikilink")
+

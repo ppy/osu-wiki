@@ -448,4 +448,4 @@ Players will be directed here after the beatmap is completed unless stated other
 	</tr>
 </table>
 
-<!-- <br /> {{Contents}} [[Category:Gameplay]] -->
+<!-- <br /> {{Contents}} [] -->

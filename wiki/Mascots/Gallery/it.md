@@ -17,4 +17,4 @@ Cameo
 
 <File:Fruit> ryuuta.png| Ryuuta in Catch the Beat. J chibi Header.png| Chibi-J <File:CtB> Menu.png| Vecchia pippi e amici nelle deprecate Modalità Speciali.
 
-[Category:History of osu!/IT](Category:History_of_osu!/IT "wikilink")
+

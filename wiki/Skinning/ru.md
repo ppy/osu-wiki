@@ -105,4 +105,4 @@ HD-спрайты
 -   [Интерфейс](RU:Skinning_Interface "wikilink")
 -   [Звуковые файлы](RU:Skinning_Sounds "wikilink")
 
-<Category:Editor/RU> <Category:Beatmapping/RU> <Category:Skinning/RU>
+  

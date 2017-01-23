@@ -39,4 +39,4 @@
 
 Достаточно только поместить файлы с нужными названиями в папку с картой, переоткрыть её (Ctrl+Shift+L) и звуки появятся!
 
-[Category: Edit mode/RU](Category:_Edit_mode/RU "wikilink") <Category:Skinning/RU>
+ 

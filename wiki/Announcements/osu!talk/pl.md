@@ -114,4 +114,4 @@ Odcinki specjalne
 | #5   | Upcoming events Q&amp;A | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Odnośnik](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 
-<Category:History of osu!/PL>
+

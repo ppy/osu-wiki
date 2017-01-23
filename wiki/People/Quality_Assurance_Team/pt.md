@@ -27,4 +27,4 @@ Membros da equipe
 | [Okorin](https://osu.ppy.sh/u/1623405) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | German |
 | [Tari](https://osu.ppy.sh/u/1779172) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | |
 
-<Category:Beatmapping/PT><Category:People/PT>
+

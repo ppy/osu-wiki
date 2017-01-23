@@ -31,4 +31,4 @@ Unranked (언랭크) ![](heartpop.gif "fig:heartpop.gif")
 
 참고: 때로는 수정하고 싶지 않은 부분의 수정을 요구할지도 모릅니다. 당신은 Mod에 잡힌 문제점을 바꾸지 않고 방치할수도 있지만 BAT이 그 문제점을 바꾸는것에 동의할 시에는 자존심을 버려서라도 어쩔수 없이 변경해야 합니다.
 
-<Category:Beatmapping/KO>
+

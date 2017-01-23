@@ -49,4 +49,4 @@
 | 40                         | 145                                           | ![](heart.gif "heart.gif")                       | [worldenddominator](http://osu.ppy.sh/s/57032) | Natteke                                                             |
 ||
 
-[Category:History of osu!](Category:History_of_osu! "wikilink")
+

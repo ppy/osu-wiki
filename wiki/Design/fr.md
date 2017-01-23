@@ -29,4 +29,4 @@ Limites
 -   Loops et déclencheurs impossibles à créer.
 -   Pas de couleurs ou de commandes de déplacement Move-X/Move-Y.
 
-<Category:Storyboarding/FR> [Category:Edit mode/FR](Category:Edit_mode/FR "wikilink")
+ 

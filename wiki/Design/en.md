@@ -192,4 +192,4 @@ Source
 -   [m980's basic explanation](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=8145&p=67660#p67660)
 -   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)
 
-<Category:Storyboarding> [Category: Edit mode](Category:_Edit_mode "wikilink")
+ 

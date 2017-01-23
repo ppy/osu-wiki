@@ -39,4 +39,4 @@ Karena *Map* nya dianggap mudah, direkomendasikan untuk membuat *map* nya menjad
 
 Ada banyak hal yang dapat anda lakukan dengan *easy*, jadi bereksperimen lah untuk mengetahui apa yang terbaik untuk anda
 
-<Category:Beatmapping/ID>
+

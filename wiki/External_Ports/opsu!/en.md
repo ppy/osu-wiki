@@ -333,4 +333,4 @@ Links
     -   [opsu! Releases for .apk (fluddokt)](https://github.com/fluddokt/opsu/releases)
 -   <http://bloodcat.com/osu/> (Download source)
 
-[Category:Game Ports](Category:Game_Ports "wikilink") <Category:Guides>
+ 

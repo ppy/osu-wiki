@@ -40,4 +40,4 @@ Following up from [\#ranked](#Ranked "wikilink"), a BN can approve these beatmap
 
 Note: Beatmaps (that are less than 5 minutes) are planned to be [\#ranked](#Ranked "wikilink"), not approved!
 
-<Category:Beatmapping>
+

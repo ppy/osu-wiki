@@ -48,4 +48,4 @@ Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankea
 
 Otros buenos beatmaps pueden ser encontrados en [aquí](ES:Storyboarding/Maps).
 
-<Category:Storyboarding/ES>
+

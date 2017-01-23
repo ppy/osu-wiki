@@ -120,4 +120,4 @@ When your guideline-breaking map gets modded, try to be as reasonable as possibl
 -   **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, would be extremely jarring.
 -   **Avoid going over a 5.0x storyboard load** to help prevent lag on older computers. Resizing some of your storyboard images may help with this.
 
-[Category:Ranking Criteria/IT](Category:Ranking_Criteria/IT "wikilink") <Category:Beatmapping/IT>
+ 

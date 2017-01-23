@@ -41,4 +41,4 @@ Ces informations sont importantes et devraient être suivis par la plupart des m
 -   **Empiler des objets de façon manuelle est acceptable** tant qu'ils sont lisibles en jouant.
 -   **Essayez de ne pas couvrir les objets avec des "hitbursts", et tout autre élément de gameplay, surtout dans les difficultés non-expert.** Réduire leur lisibilité rend la map difficile à jouer pour les débutants. Si vos objets suivent un "pattern" clair et prévisible, vous pouvez ignorer ce conseil.
 
-<Category:Osu!Standard/FR> [Category:Ranking Criteria/FR](Category:Ranking_Criteria/FR "wikilink") <Category:Beatmapping/FR>
+  

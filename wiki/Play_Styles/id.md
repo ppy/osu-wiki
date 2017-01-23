@@ -120,4 +120,4 @@ Gaya lainnya
 
 **Kontrol Para Para**(5K): Opsi biasa untuk [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) seri. Pemain menggerakkan lengan mereka, siku dan tangan lurus di atas sensor dekat dengan perintah masukan berdasarkan posisi tangan melalui sensor dekat. Kekurangannya adalah bahwa Anda hanya memiliki dua lengan untuk perintah input, tidak termasuk penggunaan kaki.
 
-<Category:Gameplay>
+

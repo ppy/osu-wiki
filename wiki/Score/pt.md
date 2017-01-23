@@ -215,4 +215,4 @@ Formulas de Scoring
 | Multiplicador de Dificuldade                                                                                                           |
 | Multiplicador de mods                                                                                                                  |
 
-<Category:Gameplay/PT> <Category:Taiko/PT> [Category:Catch The Beat/PT](Category:Catch_The_Beat/PT "wikilink") <Category:Osu!mania/PT> <Category:Osu!Standard/PT>
+    

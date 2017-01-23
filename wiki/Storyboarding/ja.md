@@ -48,4 +48,4 @@ Storyboard Editorの出現により簡単に譜面にエフェクトを追加で
 
 その他のSBは[こちらから](JP:Storyboarding/Maps).
 
-<Category:Storyboarding/JP>
+

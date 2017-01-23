@@ -22,4 +22,4 @@ Veja Também
 
 -   [Ranking Criteria](PT:Ranking_Criteria "wikilink")
 
-<Category:Beatmapping/PT> <Category:Modding/PT>
+ 

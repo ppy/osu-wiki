@@ -19,4 +19,4 @@ Il y a plusieurs moyen de lire un fichier .osz
 -   Le lire avec osu! Il en est l'application principale, un fichier .osz est toujours redirigé vers osu!. Lors du double clic sur le fichier ou du glissé-déposé dans osu!, le fichier va s'extraire. Pour pouvoir retrouver les fichiers contenus dans cette extension, ceux-ci se trouvent dans un dossier que vous pouvez retrouver dans le dossiers "Songs" sous le nom de "<ID> <Artiste> - <Titre >".
 -   Le lire avec des fichiers lisant les fichiers .zip, en effet, un fichier .osz est un fichier compressé, il est donc logique que l'on puisse y accéder avec des logiciels lisant les fichiers compressés, cela peut être très pratique pour ne pas perdre son temps à trouver la beatmap dans le dossiers Songs pour pouvoir en extraire une partie, comme des [Hitsounds](FR:Hitsounds).
 
-<Category:File Formats/FR>
+

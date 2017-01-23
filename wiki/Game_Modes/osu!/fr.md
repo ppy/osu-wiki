@@ -223,4 +223,4 @@ Votre vie ne bouge pas pendant :
 -   Une pause,
 -   En continuant à tourner après la fin d’un spinner.
 
-[Category:Game Modes/FR](Category:Game_Modes/FR "wikilink") <Category:Osu!Standard/FR>
+ 

@@ -16,4 +16,4 @@
 -   [Нестандартные хитсаунды](RU:Custom_Sample_Overrides "wikilink")
 -   [Киаи](RU:Kiai_Time "wikilink")
 
-<Category:Beatmapping/RU>
+

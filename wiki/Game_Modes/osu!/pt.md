@@ -261,4 +261,4 @@ Créditos
 -   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
 
-[Category:Game Modes/PT](Category:Game_Modes/PT "wikilink") <Category:Osu!Standard/PT>
+ 

@@ -7,4 +7,4 @@ Introduction
 
 Cette application ne supporte pas les maps classiques d'osu!. Les maps disponibles sont créées spécialement pour la version portable d'osu! par une équipe de mappers qualifiés. Toutes les maps gratuites et payantes sont disponible dans le "Store".
 
-[Category:Game Ports/FR](Category:Game_Ports/FR "wikilink")
+

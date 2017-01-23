@@ -90,4 +90,4 @@ As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | Key3           | 134217728 (27)    |                                      |
 | Key2           | 268435456 (28)    |                                      |
 
-<Category: File Formats>
+

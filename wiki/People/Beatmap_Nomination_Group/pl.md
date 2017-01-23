@@ -88,4 +88,4 @@ Członkowie zespołu
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Tak](/wiki/shared/Insane-f.png "Tak") | ![Nie](/wiki/shared/Na-m.png "Nie") | Hiszpański |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Chiński |
 
-<Category: Beatmapping/PL><Category:People/PL>
+

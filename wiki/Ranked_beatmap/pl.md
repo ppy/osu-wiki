@@ -4,4 +4,4 @@ Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza
 
 Mapy oznaczone jako Ranked mają ikonę serca ![](heart.gif "fig:heart.gif") w temacie oraz na ekranie wyboru piosenki w osu!.
 
-<Category:Beatmapping/PL> <Category:Modding/PL>
+ 

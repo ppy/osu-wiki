@@ -54,4 +54,4 @@ Grupos de Usuarios
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Encargados de revisar la calidad de los mapas que tanto disfrutas! |
 
-<Category:People>
+

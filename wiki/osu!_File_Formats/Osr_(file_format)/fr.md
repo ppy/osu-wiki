@@ -83,4 +83,4 @@ Comme montré dans l'[API d'osu!](https://github.com/peppy/osu-api/wiki#mods).
 -   Relax2 = [Autopilot](FR:AP)
 -   LastMod = [Cinema](FR:Cinema)
 
-<Category:File Formats/FR>
+

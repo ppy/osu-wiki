@@ -274,4 +274,4 @@ John: Kamu kenal dokter yang bagus?</p></td>
 
 </center>
 
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")
+

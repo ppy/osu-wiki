@@ -53,4 +53,4 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Bertahun-tahun menegakkan dan meningkatkan kualitas pemetaan, memberikan bantuan pada banyak kesempatan untuk membantu menyelesaikan berbagai masalah di dalam komunitas. |
 
-<Category:People/ID>
+

@@ -65,4 +65,4 @@ Cheater werden permanent gebannt und fürs erste Vergehen gesperrt und gewungen 
 
 Das Verletzen von diesen Regeln führt für den Angreifer entweder zu einem Silence oder einer Restriktion. Gesilencte Spieler können nicht chatten, Beiträge im Forum verfassen, ihre Beatmaps updaten, oder im Multiplayer spielen. Gesperrte Spieler haben die selben Strafen wie gesilencte Spieler und sind nicht in der Lage Scores hochzuladen oder online zu spielen. Eine Restriktion ist sehr ERNST und kann nur von einem Mitglied vom Support aufgehoben werden. Man kann sie entweder über ihre E-Mail Addresse accounts@ppy.sh erreichen oder durch den Live Support Chat, welcher temporär auf allen Seiten der Webseite verfügbar ist.
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+

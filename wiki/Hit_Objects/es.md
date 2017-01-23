@@ -29,4 +29,4 @@ Spinner
 
 **Nota:** La actual skin por defecto \[osu! by peppy\] no tiene Approach Circles ni Spinner Metre, la skin por defecto reemplazada \[osu!default by peppy\] los tiene.
 
-<Category:Gameplay/ES>
+

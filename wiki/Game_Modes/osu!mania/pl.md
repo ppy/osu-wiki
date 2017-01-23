@@ -450,4 +450,4 @@ References
 
 -   [Announcement post](http://osu.ppy.sh/forum/p/1825880)
 
-[Category: Game Modes/PL](Category:_Game_Modes/PL "wikilink") <Category:osu!mania/PL>
+ 

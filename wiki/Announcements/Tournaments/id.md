@@ -74,4 +74,4 @@ Lihat juga
 -   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](//osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk merekam turnamen)
 
-<Category:History of osu!/ID>
+

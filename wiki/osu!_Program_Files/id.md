@@ -133,4 +133,4 @@ Komponen utama. Klik di atasnya untuk start-up. Fail .exe adalah selama untuk di
 
 -   ![Logo](logo.png "Logo") osu!.exe (Buka osu!)
 
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")
+

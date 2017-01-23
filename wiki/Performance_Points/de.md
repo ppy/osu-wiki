@@ -97,4 +97,4 @@ Daraus folgt, dass deine Gesamt-pp wie folgt berechnet wird. PP enthält den ung
 
 Basierend auf die Anzahl als Beatmaps, wo sie einen Score besitzen, bekommen sie eine bestimmte Menge an pp als Bonus. Die Formel dazu lautet: 416.6667 \* (1- 0.9994^Anzahl\_an\_Scores).
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+

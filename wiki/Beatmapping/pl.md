@@ -16,4 +16,4 @@ Nazwy [poziomów trudności](Poziom_trudności "wikilink") mogą być zupełnie 
 
 Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [Guest Difficulties](PL:Guest_Difficulty "wikilink")), które są najczęściej oznaczane jako \[x's y\], gdzie x to nick twórcy a y to poziom trudności, np. \[Larto's Insane\].
 
-<Category:Beatmapping/PL>
+

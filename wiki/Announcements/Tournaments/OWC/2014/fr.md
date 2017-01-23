@@ -593,4 +593,4 @@ Liens divers
 -   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
 -   [Topic de discussion sur le forum de osu!](//osu.ppy.sh/forum/t/247090)
 
-<Category:Tournaments/FR><Category:Official Tournaments/FR><Category:Osu! Standard Tournaments/FR><Category:Osu! World Cup/FR>
+

@@ -45,4 +45,4 @@
 
 Другие карты с хорошим СБ можно посмотреть [тут](Storyboarding/Maps).
 
-<Category:Storyboarding/RU>
+

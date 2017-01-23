@@ -15,4 +15,4 @@ Coisas para se considerar quando usar Kiai
 5.  **[Guest difficulties](PT:Guest_Difficulty "wikilink") podem ter Kiai diferentes**. Isso porque cada um tem uma opinião diferente sobre a parte mais importante da musica.
 6.  [Colorhaxing](PT:Colorhaxing "wikilink") fazer o kiai ter um conjunto diferente de [cores de combo](PT:Combo_colours "wikilink") é uma ótima ideia.
 
-<Category:Gameplay/PT> [Category:Edit mode/PT](Category:Edit_mode/PT "wikilink") <Category:Beatmapping/PT>
+  

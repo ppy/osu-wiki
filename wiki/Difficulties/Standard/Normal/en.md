@@ -52,4 +52,4 @@ Good luck with your Normal difficulties!
 
 ^^Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](Beatmap_Appreciation_Team) have been known to rage via PMs over this sort of thing.
 
-<Category:Beatmapping>
+

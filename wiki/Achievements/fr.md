@@ -99,4 +99,4 @@ Lien Externe
 
 -   Graphique de Succès par peppy [1](http://osu.ppy.sh/forum/t/80448)
 
-<Category:Gameplay/FR>
+

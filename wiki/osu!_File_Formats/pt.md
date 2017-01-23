@@ -88,4 +88,4 @@ From the game
 
     - The .osk will be produced and placed in the "Exports" folder of the osu! folder.
 
-[Category:File Formats/PT](Category:File_Formats/PT "wikilink")
+

@@ -24,4 +24,4 @@ Petunjuk BUKAN peraturan, jadi boleh dilanggar dalam kasus tertentu. Jika kamu i
 
 -   **Overall Difficulty sebaiknya memiliki nilai sama dengan Approach Rate.** Ini hanyalah nilai standar, sebagaimana **Overall Difficulty** tidak mempengaruhi permainan maupun jumlah buah pada spinner yang didapat, hanya skor maksimal pada suatu tingkat kesulitan.
 
-[Category:Catch The Beat/ID](Category:Catch_The_Beat/ID "wikilink") [Category:Ranking Criteria/ID](Category:Ranking_Criteria/ID "wikilink") <Category:Beatmapping/ID>
+  

@@ -83,4 +83,4 @@ Observação: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">e 10K</
 
 Não incluido: Keyboardmania (Light+, Real) \[24K\] e (Double) \[48K\].
 
-<Category:Osu!mania/PT> [Category:Ranking Criteria/PT](Category:Ranking_Criteria/PT "wikilink") <Category:Beatmapping/PT>
+  

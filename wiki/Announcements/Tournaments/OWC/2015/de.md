@@ -206,4 +206,4 @@ Regelsätze
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-<Category: Deutsch><Category:Tournaments/DE><Category:Official Tournaments/DE><Category:osu! Standard Tournaments/DE><Category:osu! World Cup/DE>
+

@@ -54,4 +54,4 @@ Anggota grup
 | [Karyawan Turnamen](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Tim Penjamin Asuransi](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, mulai dari menjamin kualitas beatmap. |
 
-<Category:People>
+

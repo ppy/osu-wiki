@@ -24,4 +24,4 @@
 -   [Stack zero](KO:Stacking "wikilink")
 -   Ninja Spinners (짧은 스피너와는 다름)
 
-[Category:Mapping Techniques/KO](Category:Mapping_Techniques/KO "wikilink") <Category:Beatmapping/KO>
+ 

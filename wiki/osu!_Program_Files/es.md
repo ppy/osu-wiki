@@ -139,4 +139,4 @@ The .dll files are components of osu!.exe so ignore it.
 -   osu!ui.dll
 -   osu.dll
 
-<Category:Spanish> [Category:Translation Request](Category:Translation_Request "wikilink")
+ 

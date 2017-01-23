@@ -17,4 +17,4 @@ Lors d'un téléchargement de fichier .osk, il est très simple pour quiconque d
 -   osu! permet directement d'installer un skin, il suffit soit de glisser-déposer le fichier .osk dans le jeu, sois double-cliquer sur le fichier. osu! va vous installer le skin dans le dossier "Skins" et vous ouvrir une visualisation de ce skin, pour connaître les éléments de ce skin.
 -   Avec des logiciels externes lisant les fichiers .zip, cela permettra de modifier le skin sans avoir besoin d'exporter celui-ci à chaque fois.
 
-<Category:File Formats/FR>
+

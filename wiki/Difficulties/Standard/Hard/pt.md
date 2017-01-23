@@ -10,4 +10,4 @@ Note que isso é apenas uma sugestão geral. As configurações de dificuldade v
 -   Approach rate: 6 ou mais
 -   Overall Difficulty: 6 ou mais
 
-<Category:Beatmapping/PT>
+

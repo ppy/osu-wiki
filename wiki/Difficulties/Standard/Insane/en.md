@@ -12,4 +12,4 @@ Note that this is only a general suggestion. The difficulty setting varies depen
 -   Approach Rate: 7 or above
 -   Overall Difficulty: 7 or above
 
-<Category:Beatmapping>
+

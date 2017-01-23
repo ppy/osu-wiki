@@ -10,4 +10,4 @@ Settings
 -   Approach rate: 6以上
 -   Overall Difficulty: 6以上
 
-<Category:Beatmapping/JP>
+

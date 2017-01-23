@@ -71,4 +71,4 @@ Join/Part Nachrichten in bekannten Clients deaktivieren
 
 Sofern euer IRC Client nicht verzeichnet ist, könnt ihr diese hier hinzufügen und wie es bei diesen funktioniert.
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+

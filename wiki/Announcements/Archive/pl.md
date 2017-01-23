@@ -301,4 +301,4 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 -   [Zasłużeni dla osu!](//osu.ppy.sh/news/59476410622)
 -   [Testowy buildy są teraz bardziej użyteczne](//osu.ppy.sh/news/57687830738)
 
-<Category:History of osu!/PL>
+

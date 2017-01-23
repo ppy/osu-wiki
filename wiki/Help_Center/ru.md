@@ -555,4 +555,4 @@ osu!tablet и osu!keyboard
 
 Если у Вас возникли какие-то проблемы, свяжитесь с **<accounts@ppy.sh>**
 
-<Category:Russian>
+

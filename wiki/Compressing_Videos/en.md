@@ -63,4 +63,4 @@ If avidemux does not open your file correctly, there are alternatives: [Mediacod
 
 The reason I like avidemux is because you can easily edit each frame, and it has a good interface, unlike mediacoder (which has greater compatibility). I've never been able to get virtualdub to work properly.
 
-<Category:Beatmapping>
+

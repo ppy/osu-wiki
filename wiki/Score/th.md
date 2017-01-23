@@ -353,4 +353,4 @@ Scoring Formulae
 `5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), เมื่อ n <= 100`
 `26,931,190,829 + 100,000,000,000 * (n - 100), เมื่อ n >= 101`
 
-<Category:Gameplay/TH> <Category:Taiko/TH> [Category:Catch The Beat/TH](Category:Catch_The_Beat/TH "wikilink") <Category:osu!mania/TH> <Category:osu!Standard/TH>
+    

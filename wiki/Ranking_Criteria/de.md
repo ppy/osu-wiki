@@ -116,4 +116,4 @@ Wenn sie gewisse Richtlinien nicht einhalten sollten, versuchen sie es an dann s
 -   **Sie sollten vermeiden den Storyboard Load über 5.0x zu bekommen**, um mögliche Ruckler auf alten Computern zu vermeiden. Das Ändern der Größen von Storyboard Bildern kann mögliche Abhilfe schaffen.
 -   **Gast Mapper sollten nicht mehr Schwierigkeitsstufen haben als der eigentliche Ersteller des Mapsets.** Mapsets, bei denen mehrere Mapper an den Schwierigkeitsstufen gearbeitet haben, sollter derjenige, der die Map rauflädt, daran gearbeitet haben. Die Person, die am meisten dazu beigetragen hat, sollte die Map auch hochladen.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Guides/DE> <Category:Beatmapping/DE>
+  

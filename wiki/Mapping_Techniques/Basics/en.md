@@ -24,4 +24,4 @@ A stream is a succession of hit circles at a quick, consistent pace from each ot
 
 A spread is an advanced mapping technique where the mapper places two hit objects and irregularly located like jump style but doesn't make sense when they're click . This is usually done by either temporarily changing the distance snap multiplier or temporarily turning off distance snap.
 
-[Category:Mapping Techniques](Category:Mapping_Techniques "wikilink")
+

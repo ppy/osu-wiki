@@ -26,4 +26,4 @@
 
 每一个（良）值（ 300 + （连击/10）(整数) \* 80 ）分，最高 1100分（从第100连击开始每一个良将会给你1100分），而（可）则是那个的一半，而（不可）则没有分数。在游戏的一半失去连击（只计算普通音符）会令你失去最多 44,000分 （从0至100连击所需）
 
-<Category:Gameplay/ZH> [Category:Game Modes/ZH](Category:Game_Modes/ZH "wikilink") <Category:Taiko/ZH>
+  

@@ -90,4 +90,4 @@ Tela de Resultados
 -   Os quatro valores acima não são guardados e desaparecerão depois de fechar osu!. Você só pode vê-los novamente assistindo um replay salvo.
 -   Devido à forma como os mods Double Time e Half Time são implementados, os valores de Erro e Taxa de Instabilidade serão multiplicados pelo mesmo fator que a musica. Para obter os valores reais quando jogar DT, divida os resultados por 1,5. Da mesma forma, multiplique os resultados por 1.33 ao jogar HT.
 
-<Category:Gameplay/PT><Category:Taiko/PT><Category:Catch The Beat/PT><Category:Osu!mania/PT> <Category:Osu!Standard/PT>
+ 

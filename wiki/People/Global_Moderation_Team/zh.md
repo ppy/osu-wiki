@@ -61,4 +61,4 @@
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | 中文 | 聊天室管理 |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | 匈牙利语 | 聊天室管理 |
 
-<Category:People/ZH>
+

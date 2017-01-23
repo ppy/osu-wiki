@@ -323,4 +323,4 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 -   [osu! community contributors](//osu.ppy.sh/news/59476410622)
 -   [osu!test build now more usable](//osu.ppy.sh/news/57687830738)
 
-<Category:History of osu!>
+

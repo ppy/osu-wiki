@@ -51,4 +51,4 @@ Taiko 모드에는 良([osu! 스탠다드의](KO:osu!_Standard "wikilink") 300�
 `* A랭크 : 90% 이상의 정확도. (可가 전체 콤보 / 5 만큼보다 적게 나와야 함.)`
 `* B랭크 : 85% 이상의 정확도. (可가 전체 콤보 / 3.33 만큼보다 적게 나와야 함.)`
 
-[Category:Game Modes/KO](Category:Game_Modes/KO "wikilink") <Category:Taiko/KO>
+ 

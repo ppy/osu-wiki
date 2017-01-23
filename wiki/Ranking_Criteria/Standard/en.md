@@ -43,4 +43,4 @@ Guidelines are important and should be followed in most maps. However, they are 
 -   **Avoid covering up objects with hitbursts, slider tracks, and other objects, especially in easier difficulties.** Obscuring objects can make them difficult to read. There can be some exceptions where patterns have a clear and logical path and the timing for these objects can be told easily.
 -   **All hitcircles and the starting point of any sliders should be snapped to a beat in the music.** Slider end points should be snapped to a beat in the music, or the end of a prolonged note where appropriate. Adding hitobjects where there is no musical cue to justify them can result in confusing patterns which are difficult to follow and incongruent with the backing track.
 
-<Category:Guides> <Category:osu!Standard> [Category:Ranking Criteria](Category:Ranking_Criteria "wikilink") <Category:Beatmapping>
+   

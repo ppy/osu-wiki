@@ -419,4 +419,4 @@ Own selected skin's hitsound will be used.</p></td>
 </tbody>
 </table>
 
-[Category: Gameplay/IT](Category:_Gameplay/IT "wikilink")
+

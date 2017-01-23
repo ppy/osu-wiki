@@ -165,4 +165,4 @@ Guidelines
 -   **Slider tickにヒットサウンドを用いるのは推奨されません。**それ用いる場合、音量のバランスを考えなければいけません。非常に大きなtick音、特に1度や2度しか使われないような場合、それは非常に耳障りなものになります。
 -   **古いコンピュータでもラグを生じさせないために、ストーリーボードの読み込みが5.0xを越えないようにしましょう。**いくつかストーリーボードの画像をリサイズすることで解決できるでしょう。
 
-[Category:Ranking Criteria/JP](Category:Ranking_Criteria/JP "wikilink") <Category:Beatmapping/JP>
+ 

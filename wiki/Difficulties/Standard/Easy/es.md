@@ -44,4 +44,4 @@ La razón es porque la mayoría de los jugadores nuevos van a reaccionar muy len
 
 Las ruletas son frecuentemente usadas en dificultades faciles en lugares donde un [stream](/wiki/Mapping_Techniques/Streams) iría en un mapa más dificil.
 
-<Category:Beatmapping/ES><Category:Spanish>
+

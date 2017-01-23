@@ -58,4 +58,4 @@ Esse forum **não** deve ser usado para pedir para que mapeiem uma musica qualqu
 
 ***Quando um projeto de beatmapping é completado ele é movido para esse forum.***
 
-[Category:Infrastructure of osu!/PT](Category:Infrastructure_of_osu!/PT "wikilink") <Category:Website/PT>
+ 

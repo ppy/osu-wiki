@@ -182,4 +182,4 @@ Trivia
 -   [主页](http://beatsportable.com/)
 -   [他们的非死不可（雾](https://www.facebook.com/beatsportable)
 
-[Category:Game Ports](Category:Game_Ports "wikilink") [Category:Translation Request](Category:Translation_Request "wikilink")
+ 

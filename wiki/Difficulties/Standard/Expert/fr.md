@@ -20,4 +20,4 @@ Paramètres de la map
 
 ![Paramètres de mapping potentiels pour une difficulté Expert.](Expertsetup.png "Paramètres de mapping potentiels pour une difficulté Expert.")
 
-<Category: Beatmapping>
+

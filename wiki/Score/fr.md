@@ -344,4 +344,4 @@ Le niveau d'un joueur repose uniquement sur le score total du joueur. Le score t
 
 La progression vers le prochain niveau de difficulté est représentée par une barre qui se complète au fur et à mesure que le joueur progresse. **Note :** Pour passer du niveau 101 au niveau 102, il vous faudra environ 1,25 milliard de points.
 
-<Category:Gameplay/FR> <Category:Taiko/FR> [Category:Catch The Beat/FR](Category:Catch_The_Beat/FR "wikilink") <Category:Osu!mania/FR> <Category:Osu!Standard/FR>
+    

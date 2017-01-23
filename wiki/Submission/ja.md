@@ -150,4 +150,4 @@ Moderatorは何かの譜面をModするでしょうが、あなたの譜面で�
 
 Graveyardにある譜面には保有できる数に*制限はありません*。
 
-<Category:Beatmapping/JP>
+

@@ -137,4 +137,4 @@ The .dll files are components of osu!.exe so ignore it.
 -   osu!ui.dll
 -   osu.dll
 
-[Category:Infrastructure of osu!/PT](Category:Infrastructure_of_osu!/PT "wikilink")
+

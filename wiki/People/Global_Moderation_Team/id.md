@@ -61,4 +61,4 @@ Anggota Tim
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Cina | Moderasi Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungaria | Moderasi Chat |
 
-<Category:People/ID>
+

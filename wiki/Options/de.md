@@ -958,4 +958,4 @@ Set 4: Scorezahlen</p></td>
 
 -   b(Jahr)(Monat)(Tag).(Überarbeitung) = Public Build. Also, b20140323.3 bedeutet: Public Build vom 23. März 2014, dritte Überarbeitung.
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+

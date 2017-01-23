@@ -134,4 +134,4 @@ D = 모두 아닐경우.
 -   [Official website](http://www.osustream.com)
 -   [Discussion forum (osu! website)](http://osu.ppy.sh/forum/79)
 
-[Category:Game Ports/KO](Category:Game_Ports/KO "wikilink")
+

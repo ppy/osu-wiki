@@ -295,4 +295,4 @@ Reglamento
 14. Los incidentes inesperados están a cargo del tournament management.
 15. Se dará a conocer cualquier modificación a estas reglas.
 
-<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:osu!mania Tournaments/ES><Category:osu!mania World Cup/ES>
+

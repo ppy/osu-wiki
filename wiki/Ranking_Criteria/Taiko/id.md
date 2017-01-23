@@ -66,4 +66,4 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
 
 **Hitsound khusus haruslah berhubungan dengan drum.** Jika hitsound khusus digunakan, mereka harus mempunyai nada yang lebih dalam/rendah dari don dan lebih tinggi/ringan dari kat.
 
-<Category:Taiko/ID> [Category:Ranking Criteria/ID](Category:Ranking_Criteria/ID "wikilink") <Category:Beatmapping/ID>
+  

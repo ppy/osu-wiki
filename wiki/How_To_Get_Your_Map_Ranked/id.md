@@ -17,4 +17,4 @@ Langkah Ketiga: Bubbles
 
 Hanya karena mapmu dibubble, bukan berarti pekerjaanmu sudah selesai. Jangan mengabaikan mod apapun dari modder normal di mapmu yang dibubble, walaupun hanya BNG yang bisa merank mapmu, siapapun masih bisa membantu mapmu agar bisa diimprovisasi, dan yang lebih baik lagi, map yang dimod secara mendetail meringankan pekerjaan BNG yang mengecek mapmu. Sesudah kamu menerapkan modnya, BNG yang awalnya memberi bubble pada mapmu akan kembali dan memberikan bubblenya kembali dengan senang hati. Ingat bahwa kamu juga akan mendapat perhatian BNG dengan lebih mudah apabila mapmu mempunyai prioritas yang tinggi dan ada di halaman pertama dari pending beatmap. Berilah mapmu beberapa kudosu star untuk mendorong mapmu sehingga berada di atas (atau sekitarnya) agar tidak terlalu lama menunggu untuk BNG datang dan mengecek mapmu untuk dirank.
 
-[Category: Beatmapping/ID](Category:_Beatmapping/ID "wikilink") [Category: Modding/ID](Category:_Modding/ID "wikilink")
+ 

@@ -105,4 +105,4 @@ Peringkat performamu didominasi berdasarkan performamu pada sebuah map. Cara ter
 -   Dapatkan kombo lebih tinggi. Coba dapatkan Kombo Full/Sempurna atau "SS/SSH".
 -   Bermain lebih baik pada tingkat kesulitan yang lebih sulit.
 
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")
+

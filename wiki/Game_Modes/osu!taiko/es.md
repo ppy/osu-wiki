@@ -40,4 +40,4 @@ Además, a diferencia de los otros modos de juego, el [Kiai Time](ES:Kiai_Time "
 
 Esta es una traduccion al español de el original [Taiko](ES:Taiko "wikilink"), no se modifico nada a exepcion de la coherencia y cohesión de las palabras.
 
-<Category:Gameplay/ES> [Category:Game Modes/ES](Category:Game_Modes/ES "wikilink") <Category:Taiko/ES>
+  

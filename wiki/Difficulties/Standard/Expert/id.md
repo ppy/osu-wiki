@@ -22,4 +22,4 @@ Juga mohon dicatat: pada kebanyakan kasus, ini dilihat dari sisi [mappingnya](ID
 
 Umumnya, lihat pada halaman [Insane](ID:Insane).
 
-<Category:Beatmapping/ID>
+

@@ -56,4 +56,4 @@ Habituellement les fichiers WAVE sont utilisés pour tous les hitsounds dû à l
 
 Placez ces fichiers dans le dossier de votre skin ou de votre beatmap et chargez-les en mode Play/Edit !
 
-[Category: Edit mode/FR](Category:_Edit_mode/FR "wikilink") <Category:Skinning/FR>
+ 

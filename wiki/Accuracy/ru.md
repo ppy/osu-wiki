@@ -107,4 +107,4 @@
 -   Описанные выше значения можно увидеть только после просмотра реплея, после чего они исчезают.
 -   В связи с тем, как реализована работа игровых модов, погрешность и разброс умножаются на скорость песни. Таким образом, для реплеев с [Double Time](/wiki/Game_Modifiers) результаты нужно разделить на 3/2. Аналогично, при игре с [Hardrock](/wiki/Game_Modifiers) их нужно умножить на 4/3.
 
-<Category:Gameplay/RU> <Category:Taiko/RU><Category:Catch The Beat/RU><Category:osu!mania/RU> <Category:osu!Standard/RU>
+  

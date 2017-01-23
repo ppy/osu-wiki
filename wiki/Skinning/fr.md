@@ -35,4 +35,4 @@ Articles liés
 
 -   [Skin.ini](FR:Skin.ini "wikilink")
 
-[Category: Skinning/FR](Category:_Skinning/FR "wikilink")
+

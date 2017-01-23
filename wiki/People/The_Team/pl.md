@@ -54,4 +54,4 @@ Grupy
 | [Staff Turniejowy](http://osu.ppy.sh/g/26) | Ludzie odpowiadający za prowadzenie oficjalnych mistrzostw świata w osu! |
 | [Zespół zapewnienia jakości](/wiki/People/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |
 
-<Category:People>
+

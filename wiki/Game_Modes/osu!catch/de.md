@@ -44,4 +44,4 @@ Bewertung
 
 Bis zum 10. April 2012 konnten Catch the Beat spezifische Maps nicht in die "Ranked" Kategorie aufgenommen werden. Mittlerweile können diese aber in die Ranked Kategrorie aufgenommen werden, wenn sie sich an die entsprechenden Regeln und Richtlinien halten. Das Regelwerk ist noch nicht zu 100% fertig gestellt, jedoch werden mit immer weiteren Maps die Regeln weiter angepasst.
 
-<Category:Deutsch> [Category:Game Modes/DE](Category:Game_Modes/DE "wikilink") [Category:Catch The Beat/DE](Category:Catch_The_Beat/DE "wikilink")
+  

@@ -129,4 +129,4 @@ Hier sind ein paar Hilfsmittel, die Ihnen auf Ihrer Reise ganz nützlich sind:-
 -   [Häufig gestellte Fragen](/wiki/FAQ) - finde die Grundlagen vom Spiel heraus.
 -   [osu!academy](osu!academy "wikilink") - Videos, die Ihnen dabei helfen soll, sich an allen Aspekten von osu! zu gewöhnen.
 
-<Category:Deutsch>
+

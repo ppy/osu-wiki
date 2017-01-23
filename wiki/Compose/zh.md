@@ -389,4 +389,4 @@ Sampling
 
 [如果这满足不了你，你也可以试试更硬派的故事板制作法。](ZH:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
 
-<Category:Chinese>
+

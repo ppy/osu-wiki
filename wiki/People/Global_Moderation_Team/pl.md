@@ -61,4 +61,4 @@ Członkowie zespołu
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chiński | Moderacja czatu |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Węgierski | Moderacja czatu |
 
-<Category:People/PL>
+

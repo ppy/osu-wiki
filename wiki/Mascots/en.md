@@ -233,4 +233,4 @@ Image gallery
 
 [Click here to go to image gallery.](Gallery/en.md "wikilink")
 
-[Category:History of osu!](Category:History_of_osu! "wikilink")
+

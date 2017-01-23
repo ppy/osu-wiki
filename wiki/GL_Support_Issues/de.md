@@ -30,4 +30,4 @@ Zusätzliche Hilfe
 
 Wenn Ihr Problem nach den genannten Lösungen immernoch besteht, dann erstellen Sie bitte ein Thread im [Help Forum](https://osu.ppy.sh/forum/5) mit dem Output von [diesem Programm](http://www.realtech-vr.com/glview/download.php) und Ihrer gl\_info.txt, wenn Sie den Cutting Edge Build benutzen.
 
-<Category:Deutsch>
+

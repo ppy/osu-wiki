@@ -23,4 +23,4 @@
 
 **P.S.**: не забудьте, что если у вас есть [Easy](RU:Easy_(Difficulty)), то нормал должен быть чуть труднее.
 
-<Category: Beatmapping/RU><Category:Russian>
+

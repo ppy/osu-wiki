@@ -29,4 +29,4 @@ Spinner
 
 **정보:** 현재 osu! 기본 스킨 \[osu! by peppy\] 는 스피너에 어프로치 서클과 스피너 게이지가 없습니다만, 구 버전 스킨 \[osu!default by peppy\] 에는 둘다 있습니다.
 
-<Category:Gameplay/KO>
+

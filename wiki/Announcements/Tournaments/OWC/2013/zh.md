@@ -581,4 +581,4 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](//osu.ppy.sh/g/26)组织�
 4.  赛事将由赛事管理者进行调度。时间安排将会在第一场赛事前的一个星期日公布。（例如，在11月3日发布小组赛时间安排）赛事管理者将会尝试根据参赛者的所在时区来调整进行比赛的时间。
 5.  每支队伍的队长负责通知其队伍的成员。当然，成员更多的队伍更容易确保凑齐至少四名选手进行每场比赛。如果某支队伍无法提供四名选手进行比赛，本场比赛的结果无效。
 
-<Category:Tournaments/ZH><Category:Official Tournaments/ZH><Category:Osu! Standard Tournaments/ZH><Category:Osu! World Cup/ZH>
+

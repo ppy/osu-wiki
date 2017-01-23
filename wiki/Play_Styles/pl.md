@@ -118,4 +118,4 @@ Inne style
 
 **Kontroler Para Para**(5K): Domyślny kontroler dla serii [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise). Gracze ruszają swoimi rękami, dłońmi i łokciami stając naprzeciwko czujnika ruchu aby wprowadzić polecenia na podstawie pozycji rąk. Wadą tego stylu gry jest to że gracz ma tylko dwie ręce do wprowadzania poleceń, włączając w to nogi.
 
-<Category:Gameplay/PL>
+

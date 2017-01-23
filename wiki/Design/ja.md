@@ -190,4 +190,4 @@
 -   [m980's basic explanation](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=8145&p=67660#p67660)
 -   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)
 
-<Category:Storyboarding/JP> [Category:Edit mode/JP](Category:Edit_mode/JP "wikilink")
+ 

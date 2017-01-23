@@ -22,4 +22,4 @@ Articles connexes
 
 -   [Critères de Ranking Généraux](FR:Ranking_Criteria "wikilink")
 
-<Category:Beatmapping/FR> <Category:Modding/FR>
+ 

@@ -31,4 +31,4 @@ Spinner
 
 **Ważne:** Obecna domyślna skórka \[osu! by peppy\] nie posiada obręczy i miernika spinnera, poprzednia skórka \[osu!default by peppy\] zawiera je.
 
-<Category:Gameplay/PL>
+

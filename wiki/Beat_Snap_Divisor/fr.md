@@ -13,4 +13,4 @@ Le 1/3 et 1/6 sont particuliers, car cela signifie que vous mappez sur une map a
 
 Maintenir la touche alt au-dessus d'un slider modifie la [distance d'alignement](FR:Distance_Snap "wikilink") du slider
 
-[Category:Edit mode/FR](Category:Edit_mode/FR "wikilink")
+

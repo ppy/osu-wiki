@@ -126,4 +126,4 @@ Las guidelines (pautas) son importantes y deben ser seguidas en la mayoría de l
 -   '''Guidelines para puntajes en general: '''
 -   '''El numero de beatmaps creados por un invitado no debe exceder el numero de beatmaps de la persona que sube el Mapset: '''
 
-[Category:Ranking Criteria/ES](Category:Ranking_Criteria/ES "wikilink") <Category:Beatmapping/ES>
+ 

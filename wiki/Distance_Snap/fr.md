@@ -2,4 +2,4 @@
 
 Quand l'alignement des distances est enclenché, chaque objet peut seulement être placé dans un cercle avant le prochain objet. Le rayon de ce cercle est basé sur combien de temps est passé depuis le dernier objet. La variable distance/temps peut être changé dans l'éditeur pour rendre le cercle plus gros/petit. Après une certaine période de temps (un temps nécessaire) l'alignement est éteint.
 
-<Category:Beatmapping/FR>
+

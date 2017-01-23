@@ -36,4 +36,4 @@ Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, k
 
 Semoga beruntung dengan mapmu!
 
-[Category: Beatmapping/ID](Category:_Beatmapping/ID "wikilink")
+

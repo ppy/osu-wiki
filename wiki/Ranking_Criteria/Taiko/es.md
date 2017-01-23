@@ -62,4 +62,4 @@ Las guidelines (pautas) son importantes y deben ser seguidas en la mayoría de l
 
 -   **Los hitsounds personalizados deben estar relacionados con percusiones.** Si son usados, el sonido de un tono más grave/bajo debe ser usado como don y el de un tono más agudo/suave como kat.
 
-<Category:Taiko/ES> [Category:Ranking Criteria/ES](Category:Ranking_Criteria/ES "wikilink") <Category:Beatmapping/ES>
+  

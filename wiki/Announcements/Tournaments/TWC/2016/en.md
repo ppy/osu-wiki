@@ -533,4 +533,4 @@ Ruleset
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments><Category:Official Tournaments><Category:Taiko Tournaments><Category:Taiko World Cup>
+

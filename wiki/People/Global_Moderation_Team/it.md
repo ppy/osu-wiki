@@ -61,4 +61,4 @@ Membri
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Cinese | Moderazione della chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Ungherese | Moderazione della chat |
 
-<Category:People/IT>
+

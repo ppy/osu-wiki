@@ -33,4 +33,4 @@ Menschen machen Fehler. Deshalb wird ein Beatmap zeitweise unranked, wenn es mit
 
 Hinweis: Sie werden des öfteren gefragt, gewisse Sachen zu ändern, die sie aber nicht ändern wollen. Oftmals ist es jedoch möglich die gewissen Sachen nicht zu ändern, wenn aber die Hälfte aller BAT-Mitglieder zustimmen sollten es jedoch doch zu ändern, sollten sie ihren Stolz beiseite legen und sich fügen.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Beatmapping/DE>
+ 

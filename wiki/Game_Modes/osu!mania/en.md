@@ -496,4 +496,4 @@ Number of lines can be set in the “Song Setup” =&gt; Column Count.
 
 -    [Announcement post](http://osu.ppy.sh/forum/p/1825880)
 
-[Category: Game Modes](Category:_Game_Modes "wikilink") <Category:osu!mania>
+ 

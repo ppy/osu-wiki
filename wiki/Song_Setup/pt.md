@@ -203,4 +203,4 @@ Do note that stacked hit-circles will *move* towards the point where the stackin
 
 Normally, beatmaps are playable on all <abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">four</abbr> play modes by default. If this is set to Taiko, CtB or osu!mania, then only that mode will be forcefully used for this difficulty setting.
 
-<Category:Beatmapping/PT> [Category:Edit mode/PT](Category:Edit_mode/PT "wikilink")
+ 

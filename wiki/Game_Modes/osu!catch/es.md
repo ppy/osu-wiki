@@ -34,4 +34,4 @@ Mapas específicos de Catch the Beat
 
 Hasta el 10 de abril de 2012, los mapas específicos de Catch the Beat no podían ser rankeados o incluidos en mapas rankeados. Sin embargo esto ha cambiado, y los mappers pueden hacer ahora dificultades específicas de Catch the Beat , siempre que sigan las directrices del mapeo en Catch the Beat. Aún se está trabajando en estas directrices, pero como cada vez más mapas de CtB están rankeados y los jugadores lo agradecen, se están trabajando para que sean tan estrictas como las de [Standard](ES:Standard "wikilink").
 
-[Category:Catch The Beat/ES](Category:Catch_The_Beat/ES "wikilink")
+

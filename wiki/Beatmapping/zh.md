@@ -16,4 +16,4 @@
 
 另外[客串难度一般以客串做图的制图者的名字来命名](ZH:Guest_Difficulty "wikilink")（比如kioukiou‘s Hard）
 
-<Category:Beatmapping/ZH>
+

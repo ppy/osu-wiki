@@ -15,4 +15,4 @@ Kiai ส่วนใหญ่มักจะใช้ตอนที่ถึง
 5.  **GD อาจจะมี kiai ที่ต่างจากดิฟปกติ** แต่ไม่ต้องห่วง เดี๋ยวก็โดนให้แก้ :v แต่อย่างไรก็ตาม ถ้ามันไม่มีปัญหาต่อการเล่นก็ไม่เป็นไร.
 6.  [Colorhaxing](TH:Colorhaxing "wikilink") ทำให้ท่อน kiai นั้นน่าเล่นยิ่งขึ้น.
 
-<Category:Gameplay/TH> [Category:Edit mode/TH](Category:Edit_mode/TH "wikilink") <Category:Beatmapping/TH>
+  

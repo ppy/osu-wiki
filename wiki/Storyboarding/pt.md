@@ -44,4 +44,4 @@ A lista completa de beatmaps [Ranked](PT:Ranked) que incluem storyboards [pode s
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-<Category:Storyboarding/PT>
+

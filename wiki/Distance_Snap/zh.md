@@ -4,4 +4,4 @@
 
 當Distance Snap工具開啟的時候,每個物件只能排在以上一個物件為圓心的一個圓周上.半徑取決於距離上一個物件過去了多長的時間.距離/時間變數可以在編輯器中改變以便讓這個圓周更大或者更小.當經過一些時候,這個工具會自動關閉.
 
-[Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink")
+

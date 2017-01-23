@@ -48,4 +48,4 @@ le chart. |
 | [Hatsu](https://osu.ppy.sh/u/322480) | Mikuia.tv - sviluppo di bot per twitch |
 | [Tillerino](https://osu.ppy.sh/u/2070907) | Sviluppo del bot che raccomanda beatmap |
 
-<Category:People/IT>
+

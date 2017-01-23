@@ -15,4 +15,4 @@ En plus des difficultés que nous venons de mentionner, il n'est pas rare de ren
 
 À ces difficultés alternatives, vous pourrez trouver [des Guest Difficulties](FR:Guest_Difficulty "wikilink") qui sont surnommées du nom du créateur suivie de la difficulté (comme par exemple *Larto's Insane*) voir même des adjectifs de difficulté (exemple "0108 pour les créations de Val0108").
 
-<Category:Beatmapping/FR>
+

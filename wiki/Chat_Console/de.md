@@ -273,4 +273,4 @@ Phobos: Wie werde ich besser?</p></td>
 
 </center>
 
-<Category:Deutsch> [Category:Infrastructure of osu!/DE](Category:Infrastructure_of_osu!/DE "wikilink") <Category:Guides/DE>
+  

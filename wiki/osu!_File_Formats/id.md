@@ -88,4 +88,4 @@ Membuat file di game
 
     - file .osk akan otomatis terbuat dan berada di folder "Exports".
 
-[Category:File Formats/ID](Category:File_Formats/ID "wikilink")
+

@@ -24,4 +24,4 @@ Ustawienie
 
 *Przejrzyj artykuł [Szalony](PL:Insane).*
 
-[Category: Beatmapping/PL](Category:_Beatmapping/PL)
+

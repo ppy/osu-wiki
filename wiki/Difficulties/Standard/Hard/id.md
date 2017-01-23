@@ -11,4 +11,4 @@ Kasaran gagasan (ini tidak mutlak, masih bisa diubah sesuai selera mapper)
 -   **Approach Rate** (Tingkat Capaian): 6+
 -   **Overall Difficulty** (Tingkat kesulitan secara Keseluruhan): 6+
 
-<Category:Beatmapping/ID>
+

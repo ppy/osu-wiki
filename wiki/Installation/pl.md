@@ -252,4 +252,4 @@ FAQ i rozwiązywanie problemów
 -   Oficjalna strona osu!stream peppy'ego [11](http://osustream.com/)
     -   Strona osu!streama w App Store [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
 
-<Category:Polish>
+

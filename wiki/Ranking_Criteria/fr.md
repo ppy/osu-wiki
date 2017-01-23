@@ -115,4 +115,4 @@ Lorsque pour une raison ou une autre, votre map ne respecte pas ces conseils, es
 -   **Il est déconseillé d'utiliser des hitsounds pour les slider ticks.** Si vous insistez pour en utiliser, faites en sorte que leur volume soit ni trop faible, ni trop fort. Ils doivent être moins bruyants que les hitsounds normaux.
 -   **Essayez de rester en dessous du seuil de 5,0x en SB Load (storyboard loading, visible dans l'éditeur)** afin d'éviter les lags sur certains ordinateurs peu puissants. Réduire la taille des ressources utilisées peut aider.
 
-[Category:Ranking Criteria/FR](Category:Ranking_Criteria/FR "wikilink") <Category:Beatmapping/FR>
+ 

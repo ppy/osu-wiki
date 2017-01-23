@@ -126,4 +126,4 @@ Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahaha
 
 At tsaka, [ang ranked na beatmap ng osu! tutorial](http://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.
 
-<Category:FAQ/PH> <Category:Gameplay/PH>
+ 

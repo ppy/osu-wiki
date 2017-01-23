@@ -14,4 +14,4 @@ Rady dotyczące używania Czasu Kiai
 4.  Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
 5.  **[Gościnne poziomy trudności](Guest_Difficulty "wikilink") mogą mieć inaczej ustawione sekcje Czasu Kiai**. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.
 
-<Category:Gameplay/PL> [Category:Edit mode/PL](Category:Edit_mode/PL "wikilink") <Category:Beatmapping/PL>
+  

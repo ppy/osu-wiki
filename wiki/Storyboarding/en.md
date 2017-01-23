@@ -48,4 +48,4 @@ With the advent of the Storyboard Editor to create simple graphical effects in B
 
 Other good SB's can be found [here](Storyboarding/Maps).
 
-<Category:Storyboarding>
+

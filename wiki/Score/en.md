@@ -359,4 +359,4 @@ The level of a player is based solely on the player's total score. The total sco
 
 The progress to the next level is displayed using a bar next to the player's level.
 
-[Category: Gameplay](Category:_Gameplay "wikilink") <Category:Taiko> [Category:Catch The Beat](Category:Catch_The_Beat "wikilink") <Category:osu!mania> <Category:osu!Standard>
+    

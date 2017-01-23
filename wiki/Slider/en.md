@@ -42,4 +42,4 @@ Slider tick rate is the rate that [slider tick](slider_tick "wikilink") appears 
 
 Typical slider tick rate includes 1, 2 and 4. 3 is also available but used rarely. In the past slider tick 4 is widely used but slider tick rate 1 and 2 are used more popularly. Slider tick rate 0.5 (slider tick per 2 beat) is also available in the past but it is unrankable now.
 
-<Category:Gameplay> <Category:Beatmapping>
+ 

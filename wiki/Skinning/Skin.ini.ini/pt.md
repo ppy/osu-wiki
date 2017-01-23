@@ -271,4 +271,4 @@ Seção \[General\]
 `//Sprite image name for mania warning arrow`
 `WarningArrow: mania-warningarrow`
 
-<Category:Skinning/PT>
+

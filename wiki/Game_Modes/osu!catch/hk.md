@@ -34,4 +34,4 @@
 
 注：接水果＝CtB＝Catch the Beat
 
-[Category:Catch The Beat/HK](Category:Catch_The_Beat/HK "wikilink")
+

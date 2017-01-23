@@ -36,4 +36,4 @@ osu!mania
 | 线条颜色 | 在两根红色线条中间多了两根紫色线条 | 在红和蓝色线条中间多了一根黄色线条 |                                    |                                    |
 | 注释     | 复合节奏                           |                                    |                                    |                                    |
 
-[Category: Edit mode/ZH](Category:_Edit_mode/ZH "wikilink")
+

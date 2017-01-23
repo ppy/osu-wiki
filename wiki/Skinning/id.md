@@ -91,4 +91,4 @@ Jika beatmap anda memiliki beberapa elemen yang terdapat dalam daftar ini, maka 
     -   section-pass.png
     -   section-fail.png
 
-<Category:Beatmapping/ID> <Category:Skinning/ID>
+ 

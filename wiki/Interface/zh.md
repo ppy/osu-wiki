@@ -48,4 +48,4 @@
 
 ![](osu.gif "fig:osu.gif")标准 <ZH:Standard>, ![](taiko.gif "fig:taiko.gif")太鼓 <ZH:Taiko>, ![](ctb.gif "fig:ctb.gif")接水果 [ZH:Catch the Beat](ZH:Catch_the_Beat "wikilink") 以及 ![](mania.gif "fig:mania.gif")下落 [osu!mania](ZH:Mania "wikilink")
 
-<Category:Gameplay/ZH> <Category:Chinese>
+ 

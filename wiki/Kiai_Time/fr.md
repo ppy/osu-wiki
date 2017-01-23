@@ -15,4 +15,4 @@ Le moment le plus adapté pour placer un Kiai Time sur une musique est de trouve
 6.  Les difficultés créées par d'autres personnes que l'auteur peuvent avoir des Kiai Time différents, car ils peuvent avoir des points de vue différents concernant "le moment le plus intense de la musique".
 7.  Ajouter un set de couleurs de combo différent spécialement pour le Kiai Time est une bonne idée, très appréciée des joueurs et des BAT.
 
-[Category: Gameplay/FR](Category:_Gameplay/FR "wikilink") [Category: Beatmapping/FR](Category:_Beatmapping/FR "wikilink")
+ 

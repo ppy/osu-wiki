@@ -107,4 +107,4 @@ Links
 -   [Hilo de discusión en inglés](//osu.ppy.sh/forum/t/160181/start=0)
 -   [Hilo de discusión en español](//osu.ppy.sh/forum/t/161538/start=0)
 
-<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Osu! Standard Tournaments/ES><Category:Osu! World Cup/ES>
+

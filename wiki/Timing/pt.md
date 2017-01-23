@@ -18,4 +18,4 @@ Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da músi
     -   Exemplo: 150.02 deverá ser arredondado para 150.00 a não ser que outro mapper peça que não o faça porque o som poderá ficar errado, por alguma razão.
 -   Para ajuste certo no offset, reduza a velocidade da música para metade - 0,5x (ou até 0.25x, se necessário) e ajuste os valores até as batidas coincidirem exatamente com os cliques do metrônomo.
 
-[Category: Beatmapping/PT](Category:_Beatmapping/PT "wikilink")
+

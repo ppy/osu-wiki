@@ -34,4 +34,4 @@ Koszty
 
 Wszystkie koszty podane są **bez przesyłki.** [Użyj tego konwertera waluty](http://www.oanda.com/currency/converter/) lub [zapytaj Google](https://www.google.com.my/#q=usd+exchange+rate), aby sprawdzić kurs waluty.
 
-<Category:Website>
+

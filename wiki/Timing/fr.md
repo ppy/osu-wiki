@@ -18,4 +18,4 @@ Les sections de timing héritées sont représentées par des lignes vertes dans
 
 Ces deux types de sections sont souvent appelés respectivement « décalage rouge » et « décalage vert » (*red offsets* et *green offsets*).
 
-[Category: Beatmapping/FR](Category:_Beatmapping/FR "wikilink") [Category:Edit mode/FR](Category:Edit_mode/FR "wikilink")
+ 

@@ -53,4 +53,4 @@ The current users with this badge are noted in this table:
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
 
-<Category:People>
+

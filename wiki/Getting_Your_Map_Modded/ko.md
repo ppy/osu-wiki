@@ -36,4 +36,4 @@ Mod4Mod(m4m)는 타인에게 Mod를 받았을 때, 당신이 타인의 비트맵
 
 mod의 확보로 비트맵이 ranked될 수 있도록 힘내주세요!
 
-<Category:Beatmapping/KO>
+

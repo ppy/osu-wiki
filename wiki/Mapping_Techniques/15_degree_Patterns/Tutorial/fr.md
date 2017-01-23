@@ -16,4 +16,4 @@
 
 4) C'est fait.
 
-<Category:French> [Category:Mapping Techniques/FR](Category:Mapping_Techniques/FR "wikilink")
+ 

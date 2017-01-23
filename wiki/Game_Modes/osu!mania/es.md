@@ -275,4 +275,4 @@ Referencias
 
 -   [Post del lanzamiento](http://osu.ppy.sh/forum/p/1825880)
 
-[Category:Game Modes/ES](Category:Game_Modes/ES "wikilink") <Category:Osu!mania/ES>
+ 

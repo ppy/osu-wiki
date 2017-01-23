@@ -48,4 +48,4 @@ Mit der Einführung des Storyboard Editors, für das Erstellen simpler grafische
 
 Andere Maps mit Storyboards die als gutes Beispiel dienen, können [hier](Storyboarding/Maps) gefunden werden.
 
-<Category:Storyboarding/DE> <Category:Deutsch>
+ 

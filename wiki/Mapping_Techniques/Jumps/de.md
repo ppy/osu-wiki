@@ -15,4 +15,4 @@ Ein üblicher Fehler von neueren [Mappern](DE:Mapper "wikilink") ist, dass sie d
 
 Es wird empfohlen Abstand von "Feel"-Jumps zu halten, bis man mehr Erfahrung im Mappen hat und versteht, wie man diese anständig einsetzt. Ja, ein erfahrener Mapper kann mit "Feel"-Jumps eine Map, machen die total genial ist. Für Ihre erste Map, ist es jedoch besser, es einfach zu halten und von dort aus sich zu verbessern.
 
-[Category: Beatmapping/DE](Category:_Beatmapping/DE "wikilink") <Category:Deutsch>
+ 

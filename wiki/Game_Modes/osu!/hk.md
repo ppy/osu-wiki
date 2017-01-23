@@ -280,4 +280,4 @@ Credits
 -   Pokebis's B​​eginner's Training [1](http://osu.ppy.sh/forum/t/5456)
 -   維基百科 [2](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
 
-[Category:Game Modes/HK](Category:Game_Modes/HK "wikilink") <Category:Osu!Standard/HK>
+ 
