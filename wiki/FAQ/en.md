@@ -1,9 +1,9 @@
 <!-- wiki -->
 [Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
-[osu wikilink]: /wiki/Game_Modes/osu!/ "osu! game mode"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko game mode"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch game mode"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania game mode"
+[osu wikilink]: /wiki/Game_Modes/osu! "osu! game mode"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko game mode"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch game mode"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania game mode"
 [Play_Styles wikilink]: /wiki/Play_Styles/ "Play Styles"
 [Relax wikilink]: /wiki/Game_Modifiers#relax "Relax game modifier"
 [Co-Op wikilink]: /wiki/Game_Modifiers#co-op "Co-Op game modifier"
@@ -16,7 +16,7 @@
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry"
+[ouendan wikipedia]: https://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan "Wikipedia entry"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"

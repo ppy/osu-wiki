@@ -23,7 +23,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Bekerja selama 3 tahun lebih tanpa lelah untuk menghandel [pamaketan beatmap](http://osu.ppy.sh/p/packlist) dan beberapa tahun mengatur grafis beatmap. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Pelayanan dari tahun ke tahun, termasuk mendesain skin beatmap yang asli, menyatakan pembuatan storyboard sebagai sebuah karya dan motivasi. |
 | [awp](https://osu.ppy.sh/u/2650) | Mengelola dan memoderasi komunitas terdahulu dan memberikan kontribusi yang besar sepanjang waktunya. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/u/827) | Menjadi staff manajer pertama, manajer BAT pertama, dan orang pertama yang satu-satunya membentuk tim moderasi beatmap elit yang semulanya bukan apa-apa. |
 
 ### Maret 2015

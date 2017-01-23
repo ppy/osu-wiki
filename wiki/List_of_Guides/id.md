@@ -48,7 +48,7 @@ Daftar Teknik Mapping
 ---------------------
 
 -   [Daftar Teknik Mapping](/wiki/Mapping_Techniques)
--   [Membuat Slider yang Bagus](/wiki/Mapping_Techniques/Making_Good_Sliders)
+-   [Membuat Slider yang Bagus](/wiki/Mapping_Techniques/Making_Good_Slider)
 -   [Bagaimana cara membuat Motif 15°](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Info Modding
@@ -77,8 +77,8 @@ Info Skinning/Hitsound
 Info Storyboarding
 ------------------
 
--   [Membuat Storyboard](/wiki/Storyboard_Scripting)
--   [Membuat Storyboard (Cheat Sheet)](/wiki/Storyboard_Scripting/Cheat_Sheet)
+-   [Membuat Storyboard](/wiki/Storyboarding/Storyboard_Scripting)
+-   [Membuat Storyboard (Cheat Sheet)](/wiki/Storyboarding/Storyboard_Scripting_Cheat_Sheet)
 -   [Alat SGL](/wiki/SGL_Tool)
 -   [Mengurangi waktu muatan SB](/wiki/SB_Load)
 

@@ -3,10 +3,10 @@
 [Chat_Console#Extended_Chat_Console wikilink]: /wiki/Chat_Console/en.md#extended-chat-console "Extended chat console"
 [Beatmaps2 wikilink]: /wiki/Beatmaps/en.md#how-to-get-beatmaps-on-osu- "How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter/en.md "osu!supporter"
-[Standard wikilink]: /wiki/Game_Modes/osu!/en.md "osu! game mode"
-[Taiko wikilink]: /wiki/Game_Modes/osu!taiko/en.md "osu!taiko game mode"
-[Catch the Beat wikilink]: /wiki/Game_Modes/osu!catch/en.md "osu!catch game mode"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/en.md "osu!mania game mode"
+[Standard wikilink]: /wiki/Game_Modes/osu!en.md "osu! game mode"
+[Taiko wikilink]: /wiki/Game_Modes/osu!taikoen.md "osu!taiko game mode"
+[Catch the Beat wikilink]: /wiki/Game_Modes/osu!catchen.md "osu!catch game mode"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!maniaen.md "osu!mania game mode"
 [Sudden Death wikilink]: /wiki/Game_Modifiers/en.md#sudden-death "Sudden Death game modifier"
 [Perfect wikilink]: /wiki/Game_Modifiers/en.md#perfect "Perfect game modifier"
 [Auto wikilink]: /wiki/Game_Modifiers/en.md#auto "Auto game modifier"
@@ -183,7 +183,7 @@ Image | Description
 		<tr>
 			<th>Mods</th>
 			<td>
-				<strong><a href="/wiki/Game-Modifiers">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
+				<strong><a href="/wiki/Game_Modifiers">Game Modifiers</a>.</strong> When "Free Mods" is enabled, host-selected mods (except Speed mods) will not be forced upon players.
 				<ul>
 					<li><strong>Free Mods:</strong> Host's special command. When enabled, players are allowed to use any mods except Speed (<a href="/wiki/Game_Modifiers" title="Double Time">DT</a>/<a href="/wiki/Game_Modifiers" title="NightCore">NC</a>,<a href="/wiki/Game_Modifiers" title="Half-Time">HT</a>) mods, in which, is determined by the host. Host-selected mods other than Speed mods will not be forced upon players.</li>
 				</ul>

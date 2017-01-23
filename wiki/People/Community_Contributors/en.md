@@ -23,7 +23,7 @@ The current users with this badge are noted in this table:
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | 3+ years of silent work tirelessly handling [beatmap packing](http://osu.ppy.sh/p/packlist) and several years of managing the beatmap charts. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboarding) as an art and motivation. |
 | [awp](https://osu.ppy.sh/u/2650) | Early community management and moderation and huge contributions over the course of his time. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Being the first impromptu community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/Global_Moderation_Team) to follow. |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Being the first impromptu community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ### March 2015

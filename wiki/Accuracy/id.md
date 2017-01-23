@@ -8,7 +8,7 @@ Akurasi dihitung menggunakan formula berikut:
 Mode Standar
 ------------
 
-Di mode [Standar](/wiki/Game_Modes/Standard), akurasi dihitung dengan mempertimbangkan akurasi yang diperoleh di setiap objek berdasarkan jumlah poin objek yang diperoleh dibagi dengan jumlah poin objek secara keseluruhan. Atau dalam kata lain:
+Di mode [Standar](/wiki/Game_Modes/osu!), akurasi dihitung dengan mempertimbangkan akurasi yang diperoleh di setiap objek berdasarkan jumlah poin objek yang diperoleh dibagi dengan jumlah poin objek secara keseluruhan. Atau dalam kata lain:
 
 **Akurasi = Poin objek keseluruhan yang diperoleh / (Jumlah poin dari objek * 300)**
 
@@ -21,7 +21,7 @@ Untuk referensi: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 Mode Taiko
 ----------
 
-Di mode [Taiko](/wiki/Game_Modes/Taiko), akurasi sebuah lagu dihitung berdasarkan akurasi semua objek dibagi dengan jumlah objek keseluruhan. HEBAT (良/Ryō) dihitung sebagai 100%, BAGUS (可/Kě) sebagai 50% (sebagian) dan MISS (不可/Bùkě) sebagai 0% (yang memutuskan kombo). **Drumrolls** dan putaran tidak mempengaruhi akurasi.
+Di mode [Taiko](/wiki/Game_Modes/osu!taiko), akurasi sebuah lagu dihitung berdasarkan akurasi semua objek dibagi dengan jumlah objek keseluruhan. HEBAT (良/Ryō) dihitung sebagai 100%, BAGUS (可/Kě) sebagai 50% (sebagian) dan MISS (不可/Bùkě) sebagai 0% (yang memutuskan kombo). **Drumrolls** dan putaran tidak mempengaruhi akurasi.
 
 **Akurasi = Jumlah poin objek yang diperoleh / (Jumlah poin objek secara keseluruhan * 300)**
 
@@ -32,7 +32,7 @@ Di mode [Taiko](/wiki/Game_Modes/Taiko), akurasi sebuah lagu dihitung berdasarka
 Mode Catch the Beat
 -------------------
 
-Di mode [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat), akurasi lagu dihitung berdasarkan jumlah objek non-putaran yang diperoleh dibagi dengan jumlah objek non-putaran secara keseluruhan; buah, objek yang besar, dan objek yang kecil semuanya mempunyai nilai yang sama.
+Di mode [Catch the Beat](/wiki/Game_Modes/osu!catch), akurasi lagu dihitung berdasarkan jumlah objek non-putaran yang diperoleh dibagi dengan jumlah objek non-putaran secara keseluruhan; buah, objek yang besar, dan objek yang kecil semuanya mempunyai nilai yang sama.
 
 **Akurasi = Jumlah buah yang ditangkap / Jumlah buah secara keseluruhan**
 
@@ -43,7 +43,7 @@ Di mode [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat), akurasi lagu dihitung
 Mode osu!mania
 --------------
 
-Akurasi pada mode ini dihitung kurang lebih sama dengan mode [Standar](/wiki/Game_Modes/Standard).
+Akurasi pada mode ini dihitung kurang lebih sama dengan mode [Standar](/wiki/Game_Modes/osu!).
 
 **Akurasi = Jumlah objek yang diperoleh / (Jumlah objek secara keseluruhan * 300)**
 

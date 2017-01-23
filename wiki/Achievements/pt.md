@@ -6,7 +6,7 @@ Conquistas
 Beatmap Packs
 --------------
 
-As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](http://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_Modes/Standard).
+As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](http://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_Modes/osu!).
 
 Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
@@ -21,7 +21,7 @@ Cada uma dessas seções possuem 4 volumes.
 
 #### Requerimentos:
 - Jogar todos os beatmaps de um [Beatmap Pack Temático](http://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
-- O modo de jogo deve ser osu! [Standard](/wiki/Game_Modes/Standard). (Não confirmado para o modo Taiko)
+- O modo de jogo deve ser osu! [Standard](/wiki/Game_Modes/osu!). (Não confirmado para o modo Taiko)
 - Extraia o Pack Temático e arraste e solte todos os beatmaps (.osz) dentro da janela do osu!
   - Você pode baixar todos os beatmaps de um Beatmap Pack Temático manualmente que ainda irá contar.
 - Qualquer variação na música fará com que a conquista não seja contada. TEM de ser a música e criador específicos.
@@ -68,7 +68,7 @@ Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approv
 Dedication
 ----------
 
-As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) acertar várias vezes os "tambores" do modo [Taiko](/wiki/Game_Modes/Taiko) / pressionando varias teclas em [osu!mania](/wiki/Game_Modes/Osu!mania)
+As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](/wiki/Game_Modes/osu!catch) acertar várias vezes os "tambores" do modo [Taiko](/wiki/Game_Modes/osu!taiko) / pressionando varias teclas em [osu!mania](/wiki/Game_Modes/Osu!mania)
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

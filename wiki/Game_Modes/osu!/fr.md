@@ -4,7 +4,7 @@ Introduction
 Qu’est ce que « Ouendan » ?
 ---------------------------
 
-[Osu! Tatakae! Ouendan](http://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan) est un jeu de rythme sur Nintendo DS. Le jeu se résume à seulement trois éléments : toucher des cercles sur l'écran tactile, guider une balle sur un circuit défini et faire rapidement tourner un spinner, le tout en rythme sur des musiques japonaises connues. Il existe deux versions du jeu.
+[Osu! Tatakae! Ouendan](http://fr.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_%C5%8Cendan) est un jeu de rythme sur Nintendo DS. Le jeu se résume à seulement trois éléments : toucher des cercles sur l'écran tactile, guider une balle sur un circuit défini et faire rapidement tourner un spinner, le tout en rythme sur des musiques japonaises connues. Il existe deux versions du jeu.
 
 Qu’est ce que « EBA » ?
 -----------------------

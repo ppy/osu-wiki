@@ -3,7 +3,7 @@ osu!catch World Cup 2016
 
 ![CWC 2016 logo](logo.png)
 
-The **osu!catch World Cup 2016** (***CWC 2016*** ) is a country-based osu!catch tournament hosted by the [osu! staff](/wiki/People/The-Team). It is the 5th installment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016*** ) is a country-based osu!catch tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 5th installment of the osu!catch World Cup.
 
 Tournament Schedule
 ----------------------

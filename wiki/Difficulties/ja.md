@@ -234,4 +234,4 @@ Rest moments in Taiko
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 3/4 or 2/1 breaks
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[</wiki/T-Aiko>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[</wiki/External_Ports/T_Aiko/Old>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

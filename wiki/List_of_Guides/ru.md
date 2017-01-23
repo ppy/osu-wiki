@@ -39,7 +39,7 @@ FAQ и критерии ранкинга
     -   [Как затаймить песню?](/wiki/How_to_time_songs)
     -   [Правильный offset](/wiki/Setting_the_Offset_on_the_Correct_Beat)
     -   [Список техник маппинга](/wiki/Mapping_Techniques)
-    -   [Создание красивых слайдеров](/wiki/Mapping_Techniques/Making_Good_Sliders)
+    -   [Создание красивых слайдеров](/wiki/Mapping_Techniques/Making_Good_Slider)
     -   [Сжатие файлов карты](/wiki/Compressing_Beatmap_Files)
     -   [Как ранкают карты?](/wiki/Beatmap_Approval)
 -   [Как мапать Taiko?](/wiki/Mapping_Taiko_Difficulties)

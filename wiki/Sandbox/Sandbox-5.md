@@ -358,7 +358,7 @@ Lagi mają wiele, wiele źródeł. Poniżej przedstawiliśmy powszechne powody l
 -   Twój komputer potrzebuje uaktualnienia - część bardzo starych komputerów wykorzystujących old Intel Integrated GPU na przykład GMA, mają problemy podczas grania w osu!. Jeżeli taki posiadasz, zalecamy rozważenie kupna nowego komputera.
 -   Nie masz najnowszych sterowników - jedną z najłatwiejszych metod poprawienia szybkości komputera jest aktualizacja sterowników, zwłaszcza karty dźwiękowej i GPU.
 -   Spróbuj używania trybu OpenGL oraz/czy ograniczenia efektów specjalnych w grze.
--   Aby dowiedzieć się czegoś więcej o radzeniu sobie z lagami, przejdź [tutaj](/wiki/Sandbox-5).
+-   Aby dowiedzieć się czegoś więcej o radzeniu sobie z lagami, przejdź [tutaj](/wiki/Sandbox_5).
 
 ------------------------------------------------------------------------
 

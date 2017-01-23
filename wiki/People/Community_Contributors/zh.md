@@ -23,7 +23,7 @@
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | 3年多默默无闻而又不辞勤劳地管理 [谱面集合包](http://osu.ppy.sh/p/packlist) 并且在几年内管理了月度新谱面排名竞赛 |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboarding)使之成为了一种艺术 |
 | [awp](https://osu.ppy.sh/u/2650) | 早期的社区管理并且在有限的时间中作出了巨大的贡献 |
-| [Sinistro](https://osu.ppy.sh/u/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](/wiki/Global_Moderation_Team) 树立了一个非常高大的榜样 |
+| [Sinistro](https://osu.ppy.sh/u/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常高大的榜样 |
 | [Ivalset](https://osu.ppy.sh/u/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ### 2015年3月

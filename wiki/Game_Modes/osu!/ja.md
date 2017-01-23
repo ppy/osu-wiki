@@ -6,7 +6,7 @@ Introduction
 『応援団』とは？
 ----------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) は、任天堂DSのリズムゲームです。ゲームの遊び方は、タッチスクリーン上のサークルをタップすること、決められた経路を通ってボールをドラッグすること、そしてスピナーを回転させることの三つから成り立ちます。全て、日本の人気曲(やカバー曲)のリズムに合わせて行います。DSでは、このようにプレイします。
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) は、任天堂DSのリズムゲームです。ゲームの遊び方は、タッチスクリーン上のサークルをタップすること、決められた経路を通ってボールをドラッグすること、そしてスピナーを回転させることの三つから成り立ちます。全て、日本の人気曲(やカバー曲)のリズムに合わせて行います。DSでは、このようにプレイします。
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -298,6 +298,6 @@ Credits
 -   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
 
 [Category:Game Modes/JP](Category:Game_Modes/JP "wikilink") <Category:osu!Standard/JP>

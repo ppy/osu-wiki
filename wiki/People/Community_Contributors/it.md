@@ -24,7 +24,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 le chart. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Anni su anni di servizio, incluso il creare la skin per le beatmap originale, creare [storyboard](/wiki/Storyboarding) avanzati come un'opera d'arte e ha motivato il team. |
 | [awp](https://osu.ppy.sh/u/2650) | Gestione della comunità iniziale e moderazione ed enormi contributi nel corso del tempo. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/u/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/u/827) | E' stato il primo gestore dello staff e gestore dei BAT e ha creato un team di moderazione beatmap d'elite dal nulla. |
 
 ### Marzo 2015

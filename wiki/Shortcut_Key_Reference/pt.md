@@ -32,8 +32,8 @@ Menu Principal
 
 -   **P**: Vai para modo jogar (Aperte duas vezes para ir a lista de musicas)
 -   **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multiplayer)
--   **P-S-T**: Vai para modo [Taiko](/wiki/Game_Modes/Taiko)
--   **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat)
+-   **P-S-T**: Vai para modo [Taiko](/wiki/Game_Modes/osu!taiko)
+-   **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_Modes/osu!catch)
 -   **P-S-M**: Vai para modo [osu!mania](/wiki/Game_Modes/Osu!mania)
 -   **E**: Vai para modo Edição de beatmaps
 -   **J**: Abre janela para localizar musica (jukebox)
@@ -51,7 +51,7 @@ Seleção de Musicas
 -   **F3**: Opções do Beatmap
 -   **F5**: Atualizar lista(Modo de Reparo)
 -   **Shift-Delete**: Deleta o Map atual
--   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) respectivamente.
+-   **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) respectivamente.
 -   **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_Modifiers)
 -   **Ctrl-A**: Alterna Auto mod
 -   **Up/Down**: Muda a seleção

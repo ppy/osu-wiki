@@ -3,7 +3,7 @@ Panimula
 
 ### Hindi ko pa nalaro tong "Ouendan" na laro, ano ba ito?
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) ay isang rhythm na laro para sa Nintendo DS. ang gameplay nito ay may nabibilang na tatlong elemento: Pagpindot ng hitcircle sa touchscreen, pag drag ng sliders at pag-ikot ng spinner ng mabilis. Lahat ng elements ay nakuha sa (cover ng mga) popular Japanese songs. Ito ang muka nito sa DS:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) ay isang rhythm na laro para sa Nintendo DS. ang gameplay nito ay may nabibilang na tatlong elemento: Pagpindot ng hitcircle sa touchscreen, pag drag ng sliders at pag-ikot ng spinner ng mabilis. Lahat ng elements ay nakuha sa (cover ng mga) popular Japanese songs. Ito ang muka nito sa DS:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 

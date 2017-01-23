@@ -23,7 +23,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](http://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboarding) sztuką i motywacją. |
 | [awp](https://osu.ppy.sh/u/2650) | Wczesne zarządzanie i moderowanie społecznością oraz duży wkład, zanim opuścił osu!. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/Global_Moderation_Team) |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
 | [Ivalset](https://osu.ppy.sh/u/827) | Bycie pierwszym zarządcą staffu oraz BAT, a także stworzenie elitarnego zespołu mapperów. |
 
 ### Marzec 2015

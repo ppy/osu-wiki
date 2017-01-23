@@ -10,7 +10,7 @@ Precisão é calculada pelas seguinte formulas:
 Modo Standard
 -------------
 
-Em [Standard](/wiki/Game_Modes/Standard), precisão é calculada pela media de pontos adquiridas em cada nota por seu valor e dividindo pela quantidade máxima possível. Em outras palavras:
+Em [Standard](/wiki/Game_Modes/osu!), precisão é calculada pela media de pontos adquiridas em cada nota por seu valor e dividindo pela quantidade máxima possível. Em outras palavras:
 
 **Precisão = Pontos de Acertos Totais / (Numero de Acertos Totais * 300)**
 
@@ -23,7 +23,7 @@ Para referencia: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 Modo Taiko
 ----------
 
-No modo [Taiko](/wiki/Game_Modes/Taiko), a precisão da musica é calculada pela soma da precisão de todas as notas divididas pelo numero de notas. Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um ERRO/RUIM (不可) como 0% (que quebra o combo). Drumrolls e spinners não influenciam na precisão.
+No modo [Taiko](/wiki/Game_Modes/osu!taiko), a precisão da musica é calculada pela soma da precisão de todas as notas divididas pelo numero de notas. Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um ERRO/RUIM (不可) como 0% (que quebra o combo). Drumrolls e spinners não influenciam na precisão.
 
 **Precisão = Pontos totais de acertos / (Numero total de acertos * 300)**
 
@@ -34,7 +34,7 @@ No modo [Taiko](/wiki/Game_Modes/Taiko), a precisão da musica é calculada pela
 Modo Catch the Beat
 -------------------
 
-Em [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat), a precisão da musica é calculada com o total de objetos coletados (spinners não contam) divididos pelo numero total de objetos (sem contar spinners); todas as frutas, gotas grandes e gotas pequenas tem o mesmo valor.
+Em [Catch the Beat](/wiki/Game_Modes/osu!catch), a precisão da musica é calculada com o total de objetos coletados (spinners não contam) divididos pelo numero total de objetos (sem contar spinners); todas as frutas, gotas grandes e gotas pequenas tem o mesmo valor.
 
 **Precisão = Numero total de frutas coletadas / Numero total de frutas**
 

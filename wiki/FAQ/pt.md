@@ -4,7 +4,7 @@ Introdução
 eu nunca joguei essa coisa chamada "Ouendan" - o que é isso?
 ------------------------------------------------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) é um jogo rítmico para Nintendo DS. A jogabilidade consiste de três elementos: tocar em círculos na tela de toque, arrastar uma bola através de um caminho fixo e girar um spinner rapidamente. O jogo é assim no DS:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) é um jogo rítmico para Nintendo DS. A jogabilidade consiste de três elementos: tocar em círculos na tela de toque, arrastar uma bola através de um caminho fixo e girar um spinner rapidamente. O jogo é assim no DS:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -367,7 +367,7 @@ Créditos
 -   FAQ do peppy[1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](http://osu.ppy.sh/s/3756), [Tutorial não-oficial Ranqueado](http://osu.ppy.sh/s/19928))
 -   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)
 
 <Category:FAQ/PT> <Category:Gameplay/PT>

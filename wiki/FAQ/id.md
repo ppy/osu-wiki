@@ -4,7 +4,7 @@ Pendahuluan
 Saya tidak pernah bermain "Ouendan" - Apakah itu ?
 --------------------------------------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) adalah permainan irama untuk Nintendo DS. Permainan tersebut hanya terdiri dari tiga elemen: menekan lingkaran di layah sentuh, membawa bola mengikuti alur yang ditentukan dan memutar sebuah pemutar dengan sangat cepat. Semua elemen ini didasari oleh lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini di DS:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) adalah permainan irama untuk Nintendo DS. Permainan tersebut hanya terdiri dari tiga elemen: menekan lingkaran di layah sentuh, membawa bola mengikuti alur yang ditentukan dan memutar sebuah pemutar dengan sangat cepat. Semua elemen ini didasari oleh lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini di DS:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 

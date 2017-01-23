@@ -4,7 +4,7 @@ Wprowadzenie
 Nigdy nie grałem w tego całego „Ouendana” - co to jest?
 -------------------------------------------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka składa się z trzech elementów: naciskania kółek na ekranie dotykowym, przeciągania piłki po określonym torze i szybkiego kręcenia spinnerem. Wszystkie elementy są zsynchronizowane z (coverami) popularnymi japońskimi piosenkami. Tak wygląda rozgrywka w Osu! Tatakae! Ouendan:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka składa się z trzech elementów: naciskania kółek na ekranie dotykowym, przeciągania piłki po określonym torze i szybkiego kręcenia spinnerem. Wszystkie elementy są zsynchronizowane z (coverami) popularnymi japońskimi piosenkami. Tak wygląda rozgrywka w Osu! Tatakae! Ouendan:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -473,7 +473,7 @@ Please follow these steps:
 -   peppy's old FAQ ("/p/faq/" which this page is based on)
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)
 -   CXu's Performance Points FAQ [6](https://osu.ppy.sh/forum/p/4587984)
 

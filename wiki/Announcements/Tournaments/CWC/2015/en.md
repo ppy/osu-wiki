@@ -3,7 +3,7 @@ osu! Catch the Beat World Cup 2015
 
 ![CWC 2015 logo](logo.png)
 
-The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The-Team). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
+The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
 
 Tournament schedule
 ------------------------

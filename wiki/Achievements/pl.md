@@ -6,7 +6,7 @@ Osiągnięcia
 Beatmap Packs
 ---------------
 
-Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/Standard).
+Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/osu!).
 
 Obecnie mamy 16 osiągnięć w tej grupie, które są podzielone na 4 sekcje:
 
@@ -21,7 +21,7 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 
 #### Wymagania:
  -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t).                                                       
- -   Trybem musi być [osu!standard](/wiki/Game_Modes/Standard).  
+ -   Trybem musi być [osu!standard](/wiki/Game_Modes/osu!).  
  -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!
      -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.
      -   Możesz także pobierać każdą beatmapę oddzielnie i nadal będzie się to liczyło.
@@ -70,7 +70,7 @@ Osiągnięcia **The High Ranker** mogą zostać otrzymane poprzez zdobycie okre�
 Dedication
 -----------
 
-Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/Taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/Osu!mania).
+Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/osu!catch) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/osu!taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/Osu!mania).
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

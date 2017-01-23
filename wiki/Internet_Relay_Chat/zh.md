@@ -1,7 +1,7 @@
 什么是互联网中继聊天?
 =====================
 
-[互联网中继聊天](http://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
+[互联网中继聊天](http://zh.wikipedia.org/wiki/Internet_Relay_Chat), 简称IRC, 是一种用于群体聊天的协议.
 
 <center>
 </center>

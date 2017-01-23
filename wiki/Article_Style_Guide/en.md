@@ -39,7 +39,7 @@ Redirects are exempt from the normal notability, but must redirect to an article
 1.  Alternate spelling of the title, such as "Combo color" for "Combo colour".
     1.  Incorrect spelling, typos, and irregular formatting are not allowed.
 
-2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Catch_the_Beat)".
+2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Game_Modes/osu!catch)".
 3.  Previous article title.
     1.  An exception is if the previous title was not commonly used.
 
@@ -52,8 +52,8 @@ Article titles
 --------------
 
 1.  Titles are to be written in sentence case. The first letter of a title must always be capitalised except in cases which are dully justified. Otherwise, words are to be capitalised only if they would be in running text.
-    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Osu!mania). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
-        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Osu!mania) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
+    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Game_Modes/osu!mania). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
+        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Game_Modes/osu!mania) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
 
 2.  Article titles should be in the singular form to maintain consistency. *e.g.* Beatmap and not Beatmaps.
 3.  It is unnecessary to include an acronym or an abbreviation in addition to the name in a title. *e.g.* Double Time (DT).

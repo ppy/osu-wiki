@@ -29,7 +29,7 @@ Mapowanie
 -   [Zależność poziomu trudności beatmapy od jej elementów](/wiki/Difficulties)
 -   [Jak poprawnie ustawić rytm?](/wiki/How_to_time_songs)
 -   [Ustawienia piosenki](/wiki/Song_Setup)
--   [Jak tworzyć poziomy trudności Taiko?](/wiki/Mapping_Taiko_Difficultiesz)
+-   [Jak tworzyć poziomy trudności Taiko?](/wiki/Mapping_Taiko_Difficulties)
 -   [Jak umieścić limit wielkości pliku?](/wiki/Compressing_Beatmap_Files)
 -   [Wniosek](/wiki/Submission)
     -   [Co zrobić aby beatmapy została rankingowa?](/wiki/How_to_Get_Your_Map_Ranked)
@@ -44,7 +44,7 @@ Techniki mapowania
 ------------------
 
 -   [Techniki mapowania](/wiki/Mapping_Techniques)
--   [Jak tworzyć dobre slidery?](/wiki/Mapping_Techniques/Making_Good_Sliders)
+-   [Jak tworzyć dobre slidery?](/wiki/Mapping_Techniques/Making_Good_Slider)
 -   [Jak zrobić patterny 15°?](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Informacje o modowaniu

@@ -23,7 +23,7 @@ Derzeitig tragen folgende User dieses Abzeichen:
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Mehr als drei Jahre lang für die Aufrechthaltung der [Beatmap Packs](http://osu.ppy.sh/p/packlist) verantwortlich und mehrere Jahre hindurch der Manager der Beatmap Charts. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Jahrelanger Dienst und Mithilfe, insbesondere des Skinning und fortgeschrittenem [Storyboarding](/wiki/Storyboarding) und Designer des originalen Skins. |
 | [awp](https://osu.ppy.sh/u/2650) | Frühes Mitglied und für das damalige Community Management verantwortlich. Außerdem sehr stark mitwirkend innerhalb der Community. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Der erste Team- sowie BATmanager, der damals alleine das elitäre Beatmap Moderation Team aus dem Nichts gegründet hat. |
 
 <Category: Deutsch><Category: People/DE>

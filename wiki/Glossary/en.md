@@ -21,7 +21,7 @@ osu! will mark users as "Idle" if they have been inactive for sometime.
 
 ### Approach circle
 
-In [osu!standard](/wiki/Game_Modes/osu!/), the approach circle is the outermost circle that will enclose the hitcircle, the start of a slider, or the center of the spinner.
+In [osu!standard](/wiki/Game_Modes/osu!), the approach circle is the outermost circle that will enclose the hitcircle, the start of a slider, or the center of the spinner.
 When the approach circle touches the outer border of the hitcircle or slider you should click.
 For spinners, the approach circle will indicate the duration of that spinner.
 
@@ -276,7 +276,7 @@ This term is usually seen during the modding process.
 
 ### DS games
 
-Collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
+Collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
 A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
 osu! is mostly based on these games.
 

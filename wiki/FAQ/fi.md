@@ -5,7 +5,7 @@ Pelaaminen
 
 ### En ole koskaan pelannut Ouendania - Mikä se on?
 
-Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) on rytmipeli Nintendo DS'lle. Peli koostuu vain kolmesta elementistä: ympyröiden napauttamisesta kosketusnäytöllä, pallon raahaamista määrättyä polkua pitkin ja spinnerin pyörittämisestä todella nopeasti. Kaikki nämä elementit ajoitetaan suosittuihin japanilaisiin kappaleisiin. Se näyttää tältä DS'llä:
+Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)) on rytmipeli Nintendo DS'lle. Peli koostuu vain kolmesta elementistä: ympyröiden napauttamisesta kosketusnäytöllä, pallon raahaamista määrättyä polkua pitkin ja spinnerin pyörittämisestä todella nopeasti. Kaikki nämä elementit ajoitetaan suosittuihin japanilaisiin kappaleisiin. Se näyttää tältä DS'llä:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 

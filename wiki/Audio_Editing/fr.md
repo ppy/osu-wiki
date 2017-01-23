@@ -21,7 +21,7 @@ Vous aurez besoin de [LAME](http://lame.sourceforge.net/) pour exporter le fichi
 
 Vous pouvez choisir entre ces 2 méthodes mais pour ce qui est du débit final, restez entre 128 kbps et 192 kbps.
 
-Si vous cherchez de la musique à mapper sur osu!, de nombreux sites proposent des musiques libres de droits : [Newgrounds](http://www.newgrounds.com/audio/), [SoundCloud](https://soundcloud.com), [OCRemix](http://ocremix.org/), et [Bandcamp](http://bandcamp.com/) qui offrent de la musique gratuite sous la licence [Creative Commons](/wiki/Creative-Commons). Dans le cas où vous souhaiteriez mapper une musique protégée par droits d'auteur, assurez-vous d'avoir le consentement de ce dernier.
+Si vous cherchez de la musique à mapper sur osu!, de nombreux sites proposent des musiques libres de droits : [Newgrounds](http://www.newgrounds.com/audio/), [SoundCloud](https://soundcloud.com), [OCRemix](http://ocremix.org/), et [Bandcamp](http://bandcamp.com/) qui offrent de la musique gratuite sous la licence [Creative Commons](/wiki/Creative_Commons). Dans le cas où vous souhaiteriez mapper une musique protégée par droits d'auteur, assurez-vous d'avoir le consentement de ce dernier.
 
 ### Réduire le débit de la musique avec foobar2000
 

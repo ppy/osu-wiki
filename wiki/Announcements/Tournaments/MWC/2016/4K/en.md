@@ -3,7 +3,7 @@ osu!mania 4K World Cup 2016
 
 ![MWC 4K 2016 logo](logo.png)
 
-The **osu!mania 4K World Cup 2016** (***MWC4K 2016*** ) is a country-based 4-key osu!mania tournament hosted by the [osu! staff](/wiki/People/The-Team). It is part of the 3rd installment of the osu!mania World Cup.
+The **osu!mania 4K World Cup 2016** (***MWC4K 2016*** ) is a country-based 4-key osu!mania tournament hosted by the [osu! staff](/wiki/People/The_Team). It is part of the 3rd installment of the osu!mania World Cup.
 
 Tournament Schedule
 --------------------
