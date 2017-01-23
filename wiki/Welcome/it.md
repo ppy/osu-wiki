@@ -129,4 +129,3 @@ Eccoti alcune risorse che potrebbero tornarti utili:
 -   [Frequently Asked Questions](/wiki/FAQ) - Scopri le basi del gioco.
 -   [osu!academy](IT:Osu!academy "wikilink") - Alcuni video per familiarizzare con tutti gli aspetti del gioco.
 -   [Tips and Tricks to Getting A Start in osu!](IT:Beginner "wikilink") - Hai bisogno di un piccolo aiuto? Clicca qui!
-

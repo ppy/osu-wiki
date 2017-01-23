@@ -395,5 +395,3 @@ The player's selected skin's hitsounds will be used.</p></td>
 </tr>
 </tbody>
 </table>
-
-

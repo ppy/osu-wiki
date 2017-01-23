@@ -229,4 +229,3 @@
 | ManiaSpeedBPMScale           | La velocità della tastiera di osu!mania aumenta e diminuisce a seconda del BPM. Disattivando questa opzione, la tastiera scorrerà normalmente.                                                                                                |
 | MenuTriangles                | Attiva i triangoli se si possiede la cutting edge.                                                                                                                                                                                            |
 ||
-

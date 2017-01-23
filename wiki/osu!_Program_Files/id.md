@@ -132,5 +132,3 @@ Konfigurasi file atau file konfigurasi mengkonfigurasi pengaturan awal untuk osu
 Komponen utama. Klik di atasnya untuk start-up. Fail .exe adalah selama untuk dibuka jika anda menggunakan osu! Installer untuk menginstal osu!.
 
 -   ![Logo](logo.png "Logo") osu!.exe (Buka osu!)
-
-

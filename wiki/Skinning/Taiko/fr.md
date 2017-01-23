@@ -18,5 +18,3 @@ Slider
 
 Spinner
 -------
-
- 

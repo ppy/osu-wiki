@@ -322,5 +322,3 @@ Aqui tem uma lista deles:
 |    **Ctrl + Roda do Mouse**    |
 |     **Alt + Roda do Mouse**    |
 |          **Arrastar**          |
-
-

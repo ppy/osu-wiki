@@ -35,5 +35,3 @@ Rangok
 ------
 
 2012. április 10-ig a Catch the Beat mapek nem lehettek rankoltak. Ez azonban megváltozott, így a mapperek (a javaslatok figyelembe vételével) készíthetnek CtB-re tervezett nehézségi szinteket. A javaslatok folyamatosan átdolgozás alatt állnak, de ahogy egyre több rankolt Ctb map lesz és a játékosok egyre több visszajelzést adnak, úgy fejlődnek majd a javaslatok is, míg idővel el nem érik az osu! mód javaslatainak szintjét.
-
- 

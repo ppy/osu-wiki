@@ -59,5 +59,3 @@ TataCon
 -------
 
 Memungkinkan untuk menyambungkan kontroler drum TataCon, yang terutama diciptakan untuk port asal dari Tatsujin dan Drum Master
-
- 

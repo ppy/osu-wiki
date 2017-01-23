@@ -27,4 +27,3 @@
 |                                                                         |
 |-------------------------------------------------------------------------|
 | [Official Rules](Rules "wikilink") [Learn to play!](Welcome "wikilink") |
-

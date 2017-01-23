@@ -58,5 +58,3 @@ Probeer tenminste ½ beat vrij te laten tussen Shakers en andere objecten. Het i
 -   **Custom hitsounds**
 
 Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat.
-
-  

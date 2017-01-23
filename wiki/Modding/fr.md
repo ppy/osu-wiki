@@ -104,5 +104,3 @@ What to avoid in your mod post
 2.  **Offensive Language** Even if the mapper is a close friend, please try to keep the mod post clean. It is understandable that certain patterns may seem completely illogical to you, but that is not a reason for insulting the mapper. Refraining from terms such as "WTF is this?" or "This is completely stupid" can help to repress any potential argument and create a better osu! environment.
 
 Essentially, each point of your mod post should have a **"when"**, **"what"**, and **"why"**. When you do not have the "why" or the "what", the suggestions may be a little confusing for the mapper. This, in turn, makes your mod a lot less useful than it should be. Simply explaining your suggestions will make your mod a lot more useful.
-
-

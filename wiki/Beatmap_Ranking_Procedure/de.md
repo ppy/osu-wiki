@@ -32,5 +32,3 @@ Unranked ![](heartpop.gif "fig:heartpop.gif")
 Menschen machen Fehler. Deshalb wird ein Beatmap zeitweise unranked, wenn es mit einem drastischen Fehler durch die Genehmigungsprozesse geschafft hat. Wenn ihr Map unranked wurde, wird ihnen empfohlen sich mit dem BAT auseinanderzusetzen, die ihre Map unranked hat, um gewisse Dinge auszubessern, damit die Map erneut geranked werden kann.
 
 Hinweis: Sie werden des öfteren gefragt, gewisse Sachen zu ändern, die sie aber nicht ändern wollen. Oftmals ist es jedoch möglich die gewissen Sachen nicht zu ändern, wenn aber die Hälfte aller BAT-Mitglieder zustimmen sollten es jedoch doch zu ändern, sollten sie ihren Stolz beiseite legen und sich fügen.
-
- 

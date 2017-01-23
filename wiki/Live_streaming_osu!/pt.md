@@ -269,4 +269,3 @@ Twitch.tv comandos para moderação do chat (todos os usernames devem ser escrit
 | Unban   | /unban username   | Desbane um usuário do seu canal                   |
 
 Você, o broadcaster, é o responsável pelo que acontece na sala de chat!
-

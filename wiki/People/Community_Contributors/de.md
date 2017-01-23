@@ -25,5 +25,3 @@ Derzeitig tragen folgende User dieses Abzeichen:
 | [awp](https://osu.ppy.sh/u/2650) | Frühes Mitglied und für das damalige Community Management verantwortlich. Außerdem sehr stark mitwirkend innerhalb der Community. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Der erste Team- sowie BATmanager, der damals alleine das elitäre Beatmap Moderation Team aus dem Nichts gegründet hat. |
-
-

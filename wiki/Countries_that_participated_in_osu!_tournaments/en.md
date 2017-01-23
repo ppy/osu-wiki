@@ -294,5 +294,3 @@ Notes
 <sup>½</sup> Participated with another country as a single team.
 
 <sup>×2</sup> Had two teams.
-
- 

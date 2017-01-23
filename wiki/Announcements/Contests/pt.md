@@ -98,5 +98,3 @@ Competições do osu!store
 | Competição | Titulo                                | Requerimentos                                          | Seleções premiadas | Novidades                                   | Resultados       |
 |------------|---------------------------------------|--------------------------------------------------------|--------------------|---------------------------------------------|------------------|
 | #1         | osu! Competição de Beatmap Blueprints | osu! Beatmap Blueprints ("Beatmaps em qualquer lugar") | (WIN)              | [Novidades](//osu.ppy.sh/news/114095906408) | \[(Resultados)\] |
-
-

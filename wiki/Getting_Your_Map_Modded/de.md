@@ -33,5 +33,3 @@ Auch das direkte fragen anderer Spieler ist eine sehr effektive Methode um an Mo
 -   Seid kein Idiot im Chat und in den Foren. Wenn ihr anderen Negativ auffallt und die Leute euch nicht mögen werden sie wahrscheinlich eure Map nicht modden wollen. Wer würde schon jemandem helfen wollen den er nicht mag?
 
 Viel glück bei der suche nach Mods und auf dem Weg eure Map zu ranken!
-
-

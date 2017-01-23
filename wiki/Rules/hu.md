@@ -64,4 +64,3 @@ Kliens szabályzat
 ------------
 Csalók azonnali korlátozásban és kitiltásban részesülnek az első alkalom után, várniuk kell 6 hónapot MINIMUM, hogy fellebbezzenek a tiltás ellen. Egyszerűen ne csináld. Kitiltások ritkán, ha egyáltalán, történnek hiba miatt.
 Bármelyik szabály megsértése korlátozással vagy némítással jár. Némított felhasználók nem használhatják a chatet, nem posztolhatnak a fórumra, nem frissíthetik beatmapjaikat és nem játszhatnak többjátékos módban. Korlátozott felhasználók megkapnak mindent amit a némított felhasználók ami mellett nem tölthetnek fel eredményeket és nem játszhatnak online semmiképpen sem. A korlátozás KOMOLY és csak a player support csapat tagjai oldhatják fel amit az accounts@ppy.sh e-mailen-en vagy a weboldalon periódikusan elérhető élő chaten lehet elérni
-

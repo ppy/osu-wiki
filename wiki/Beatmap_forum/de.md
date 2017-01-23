@@ -59,5 +59,3 @@ Dieses Forum ist **nicht** zum erstellen von Threads gedacht, indem Ihr fragt, o
 ------------------------------------------------
 
 Hier werden alle abgeschlossenen Projekte verschoben.
-
-  

@@ -47,5 +47,3 @@ Mit der Einführung des Storyboard Editors, für das Erstellen simpler grafische
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 Andere Maps mit Storyboards die als gutes Beispiel dienen, können [hier](Storyboarding/Maps) gefunden werden.
-
- 

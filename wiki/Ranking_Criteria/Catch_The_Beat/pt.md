@@ -23,5 +23,3 @@ Diretrizes NÃO SÃO regras, podendo ser quebradas em casos especiais. Se você 
 <!-- -->
 
 -   **A Overall Difficulty deve possuir o mesmo valor que a Approach Rate.** Isso é apenas um valor padrão, pois o OD não influencia na jogabilidade e nem na quantia de bananas que um spinner possui, apenas no score máximo da dificuldade.
-
-  

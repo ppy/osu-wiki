@@ -17,5 +17,3 @@ Les sections de timing ordinaires sont représentées par des lignes rouges dans
 Les sections de timing héritées sont représentées par des lignes vertes dans l'éditeur. Elles ne changent pas en réalité le timing du son. Le but des sections héritées est de vous laisser changer le volume des [Hitsounds](FR:Hitsounds "wikilink") de la map, les hitsounds eux-mêmes, la vitesse des [sliders](FR:Slider "wikilink") ainsi que d'autres paramètres sans avoir à modifier le timing de la musique (ce qui se produirait avec une section ordinaire).
 
 Ces deux types de sections sont souvent appelés respectivement « décalage rouge » et « décalage vert » (*red offsets* et *green offsets*).
-
- 

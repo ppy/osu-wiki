@@ -589,5 +589,3 @@ Wird ebenfalls in <a href="Taiko" class="uri" title="wikilink">Taiko</a> benutzt
 </tr>
 </tbody>
 </table>
-
-  

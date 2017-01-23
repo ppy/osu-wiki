@@ -28,5 +28,3 @@ Mahtavan arvo on *300 + (Combo / 10)* kertaa *n* maksimissaan *300+10n* joissa "
 Jokainen *Hyvä* antaa puolet *Mahtavan* arvosta ja hudista ei saa pisteitä. Kaksinkertainen pistemäärä annetaan, jos saa kaksi osumaa isoon ympyrään (toisin kuin Taiko no Tatsujinissa vasemman ja oikean pitää osua täsmälleen samaan aikaan). Slidereissa, 300 saa jokaisesta pienestä ja 840 isosta. Spinnereissä jokainen kierros antaa 300 ja spinnerin päättyminen antaa sen hetkisen combon verran pisteitä.
 
 Toisin kuin "tavallisessa" ja [CatchTheBeatissä](FI:Catch_The_Beat "wikilink"), huti Taikossa ei vaikuta maksimi pistemäärään huimasti.
-
- 

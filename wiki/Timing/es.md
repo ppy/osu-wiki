@@ -34,5 +34,3 @@ Una sección de timing regular es mostrada como una línea roja en el editor. Ca
 Las secciones de timing heredadas son mostradas como una línea verde en el editor. Estas en realidad no cambian el timing de la canción. Lo que las secciones de timing heredado hacen es permitirte cambiar el volumen de los [hitsounds](ES:Hitsounds "wikilink") del beatmap, los hitsounds en sí, la velocidad del slider, etc. para una sección determinada sin modificar el timing de la canción (que pasaría con una sección de timing regular).
 
 Estos dos tipos de secciones de timing son también conocidas comúnmente como "red offsets" y "green offsets" respectivamente.
-
- 

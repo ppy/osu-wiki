@@ -69,5 +69,3 @@ Dinge, die du wissen solltest:
 5.  Du kannst einen existierenden Namen eines Spielers nehmen, **wenn der Spieler nach den letzten 6 Monaten kein einziges Mal gespielt hat. Für jede weitere 500 Spiele (Playcount) in allen Spielmodi wird die zusätzliche Wartezeit, um 1 Jahr erhöht, in dem der Spieler, dessen Namen man haben möchte, inaktiv sein muss, bevor Sie dessen Namen benutzen können.** Beispiel: Wenn du den Namen eines Spielers haben möchtest, der ein Playcount von 680 in allen Spielmodi hat, dann musst du ab seinem letzten Login 1,86 Jahre bzw. 678 Tage warten.
 
 ------------------------------------------------------------------------
-
-

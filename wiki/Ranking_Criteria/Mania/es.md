@@ -14,5 +14,3 @@ General
 
 -   **osu!topus (Modo-Auto) debe ser capaz de lograr la máxima puntuación (1,000,000) en todas las dificultades.**
 -   **Usted no esta autorizado para dejar ninguna columna vacía.**
-
-  

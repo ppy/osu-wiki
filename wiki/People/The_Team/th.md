@@ -53,5 +53,3 @@
 | [osu!news](http://osu.ppy.sh/g/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | ช่วยแมพของคุณให้มีคุณภาพที่ดีขึ้น |
-
-

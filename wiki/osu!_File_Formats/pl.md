@@ -87,5 +87,3 @@ Za pomocą gry
     - Wybierz skórkę, którą chcesz i kliknij na "Eksportuj jako .osk".
 
     - Plik .osk zostanie wyprodukowany i umieszczony w folderze "Exports".
-
-

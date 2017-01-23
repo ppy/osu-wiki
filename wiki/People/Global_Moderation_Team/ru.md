@@ -68,5 +68,3 @@
 | [Yason](https://osu.ppy.sh/u/2574392) | польский | чат |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | китайский | чат |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | венгерский | чат |
-
-

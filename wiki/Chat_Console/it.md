@@ -270,5 +270,3 @@ John: Conosci qualche bravo attore?</p></td>
 </table>
 
 </center>
-
-

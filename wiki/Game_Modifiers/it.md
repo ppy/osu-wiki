@@ -418,5 +418,3 @@ Own selected skin's hitsound will be used.</p></td>
 </tr>
 </tbody>
 </table>
-
-

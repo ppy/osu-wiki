@@ -47,5 +47,3 @@ Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankea
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 Otros buenos beatmaps pueden ser encontrados en [aquí](ES:Storyboarding/Maps).
-
-

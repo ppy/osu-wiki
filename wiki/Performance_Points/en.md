@@ -154,5 +154,3 @@ Your performance rank is predominantly based on your performance on individual m
 -   Get higher accuracy (even 1% difference can help light-years!).
 -   Get higher combo. Go for Full Combo/Perfect or "SS/SSH".
 -   Play well on harder difficulties.
-
-

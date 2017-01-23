@@ -96,5 +96,3 @@ osu!store Wettbewerb
 | Contest | Titel                              | Bedingung                                     | Gewinner   | News                                   | Ergebnis       |
 |---------|------------------------------------|-----------------------------------------------|------------|----------------------------------------|----------------|
 | \#1     | osu! Beatmap Blueprints Wettbewerb | osu! Beatmap Blueprints  ("Beatmap irgendwo") | (Gewinner) | [News](//osu.ppy.sh/news/114095906408) | \[(Ergebnis)\] |
-
-

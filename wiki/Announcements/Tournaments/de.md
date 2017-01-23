@@ -52,5 +52,3 @@ Siehe auch
 -   [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Countries_that_participated_in_osu!_tournaments)
 -   [World Cup Season Schedule 2013/14](//osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)
-
-

@@ -60,5 +60,3 @@
 | [Yason](https://osu.ppy.sh/u/2574392) | 波兰语 | 聊天室管理 |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | 中文 | 聊天室管理 |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | 匈牙利语 | 聊天室管理 |
-
-

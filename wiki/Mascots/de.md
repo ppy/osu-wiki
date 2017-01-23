@@ -230,5 +230,3 @@ Bildergalerie
 =============
 
 [Klicke hier drauf, um zur Bildergalerie zu gelangen.](Mascots/Gallery "wikilink")
-
-

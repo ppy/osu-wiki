@@ -15,5 +15,3 @@ Settings
 ### Overmapping
 
 Em geral, *o mesmo que em [insane](PT:Insane).*
-
-

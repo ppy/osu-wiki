@@ -12,5 +12,3 @@ Apa itu osu!editor?
 -------------------
 
 Osu!editor adalah tempat di mana pembuatan peta secara ajaibterjadi! Setelah semua, peta tidak muncul begitu saja (sayangnya). Ada pengguna yang mendedikasikan banyak upaya untuk menciptakan apa yang kita dapatkan untuk bermain di Osu! dan Anda dapat menjadi mapper juga! Meskipun segala sesuatu di dalam editor mungkin muncul membingungkan pada pandangan pertama, itu jauh lebih mudah digunakan dari satu mungkin berpikir! Jelas, editor menangani semua mode permainan, namun, dalam pengantar ini, kami hanya akan fokus pada Osu! Mania. Mode ini memiliki penampilan yang sangat berbeda dibandingkan dengan mode mappable lainnya. Sebagian besar, daerah di mana catatan dapat ditempatkan, sama sekali berbeda. Hal ini agak kompak, karena semua modus lainnya menggunakan seluruh layar untuk penempatan objek. Tergantung pada hitungan kunci, daerah meningkat mappable atau penurunan ukuran. Panduan ini akan berkisar 4-key-mapping. Di bawah ini Anda dapat melihat screenshot menunjukkan kompartemen redaksi secara rinci
-
- 

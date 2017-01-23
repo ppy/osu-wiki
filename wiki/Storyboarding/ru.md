@@ -44,5 +44,3 @@
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 Другие карты с хорошим СБ можно посмотреть [тут](Storyboarding/Maps).
-
-

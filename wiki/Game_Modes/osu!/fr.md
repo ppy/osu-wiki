@@ -222,5 +222,3 @@ Votre vie ne bouge pas pendant :
 
 -   Une pause,
 -   En continuant à tourner après la fin d’un spinner.
-
- 

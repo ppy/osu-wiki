@@ -274,5 +274,3 @@ Referencias
 -----------
 
 -   [Post del lanzamiento](http://osu.ppy.sh/forum/p/1825880)
-
- 

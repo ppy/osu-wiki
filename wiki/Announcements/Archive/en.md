@@ -322,5 +322,3 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 -   [Mapping analysis \#1 - Flow](//osu.ppy.sh/news/61334266941)
 -   [osu! community contributors](//osu.ppy.sh/news/59476410622)
 -   [osu!test build now more usable](//osu.ppy.sh/news/57687830738)
-
-

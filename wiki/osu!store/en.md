@@ -33,5 +33,3 @@ Cost
 ----
 
 All costs are **excluding shipping fees.** [Use this currency converter](http://www.oanda.com/currency/converter/) or [ask Google](https://www.google.com.my/#q=usd+exchange+rate) to check the price on your country rate.
-
-

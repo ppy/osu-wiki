@@ -29,5 +29,3 @@ Ranking
 -------
 
 Sejak April 2012, Catch The Beat dapat dimasukkan dalam mapset untuk medapatkan Rangking. itu juga mungkin mapset dengan cara ini. jika pemain ingin menambah tingkat kesulitan CTB dalam satu mapset, harus mencukupi setidaknya 2 tingkat kesulitan dan salah satu dari mereka harus dimainkan untuk pemula. Untuk beatmaps Osu! Standard, dapat memilih hanya 1 tingkat kesulitan. karena mapset memiliki tingkat kesulitan untuk pemula. menciptakan tingkat kesulitan dalam CTB hampir sama dengan tingkat kesulitan standar lingkaran, setara dengan buah normal.
-
-

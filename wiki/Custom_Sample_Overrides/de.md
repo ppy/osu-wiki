@@ -38,5 +38,3 @@ Die folgenden Dateien können ersetzt werden:
 
 -   spinnerspin
 -   spinnerbonus (Ding)
-
-   

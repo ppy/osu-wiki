@@ -28,5 +28,3 @@ Limites
 -   Pas d'effets sonores, pas très gênant du fait qu'ils pourraient gêner les joueurs si ils sont placés près des [Hit objects](FR:Hit_objects "wikilink"). L'utilisation d'effets sonores n'est autorisée qu'aux mappers expérimentés, avec l'aide d'un BAT.
 -   Loops et déclencheurs impossibles à créer.
 -   Pas de couleurs ou de commandes de déplacement Move-X/Move-Y.
-
- 

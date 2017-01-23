@@ -63,5 +63,3 @@ Also check out:
 
 -   [Custom Hitsound Library](Custom_Hitsound_Library "wikilink")
 -   [Skinning/Sounds](Skinning/Sounds "wikilink")
-
- 

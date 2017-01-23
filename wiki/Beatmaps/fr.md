@@ -186,4 +186,3 @@ Pourquoi ne puis-je pas télécharger de beatmaps ?
 
 -   Vous n'êtes pas connecté au site avec votre compte osu!. Les beatmaps ne peuvent pas téléchargées si vous n'êtes pas connecté.
 -   Le serveur d'osu! a un problème. Restez informé en consultant [stat.ppy.sh](http://stat.ppy.sh).
-

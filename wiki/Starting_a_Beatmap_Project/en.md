@@ -31,4 +31,3 @@ How **not** to do:
 **Collab:** Creating a group-mapping project for a certain song. May range from SB request to mapping parts of a marathon map. [Reference](https://osu.ppy.sh/forum/t/35841)
 
 -   Examples: [Voca Nico Party Nonstop Mix - Marathon](https://osu.ppy.sh/forum/t/188118)
-

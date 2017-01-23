@@ -131,5 +131,3 @@ External Link
 -------------
 
 -   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)
-
-

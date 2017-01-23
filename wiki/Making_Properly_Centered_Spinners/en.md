@@ -87,5 +87,3 @@ Then you can see how it looks filled in by turning on the old layer. Note it has
 ![](MPCS_14.png "fig:MPCS_14.png")
 
 If you do this, the transition from background to spinner will be seamless, and you won't have the background move up a few pixels.
-
-

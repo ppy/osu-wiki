@@ -59,5 +59,3 @@ Forum ini **bukan** untuk meminta lagu yang kamu suka untuk dijadikan beatmap ta
 ------------------------------------------------
 
 ***Tempat dimana semua proyek yang telah selesai berada.***
-
- 

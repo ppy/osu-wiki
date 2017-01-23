@@ -194,4 +194,3 @@ osu!のBeatmapは、作りたい意欲がある人なら誰でも作ることが
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - テーマ別にまとめられたBeatmap Packのダウンロードリンク
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - ここから新しい譜面を入手できます
 -   [Frequently Asked Questions](/wiki/FAQ) - ゲームについてのFAQ
-

@@ -70,4 +70,3 @@ Désactivation des messages de connexion/déconnexion dans les clients les plus 
 | [XChat](http://www.xchat.org)             | Faites un clic droit sur le canal désiré. Dans le menu, décochez "Montrer les messages de connexion et déconnexion".                                                                                                  |
 
 Si votre client ne figure pas ici, consultez la documentation de votre logiciel.
-

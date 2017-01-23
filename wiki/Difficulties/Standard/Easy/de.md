@@ -33,5 +33,3 @@ Slider Nutzung
 Slider können auch helfen bestimmte Teile der Musik zu repräsentieren, zum Beispiel mit einem einfach zu spielenden Objekt. Ihr könnt Semi-Komplexe Rhythmen als auch das Enden auf einem Off-Beat (oder rotem Tick) nutzen, wie auch das Einleiten von 3-er Rhythmen.
 
 Vermeidet auch **nur** Slider mit einem 1/2 Takt zu nutzen. Den Rhythmus, den diese Takte vermitteln, sind oft durch das Erweitern eines vorherigen Sliders überdeckt. 1/2-Slider sind für neue Spieler einfach zu verwirrend, da sie nicht wissen, wann der Slider aufhören wird sich zu wiederholen.
-
-

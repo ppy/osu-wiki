@@ -33,5 +33,3 @@ Custo
 -----
 
 Todos os custos são descritos **excluindo preço de exportação.** [Use esse conversor de moeda](http://www.oanda.com/currency/converter/) ou [pergunte ao Google](https://www.google.com.my/#q=usd+exchange+rate) para verificar o preço na moeda do seu País.
-
-

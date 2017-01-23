@@ -144,5 +144,3 @@ Voici quelques conseils pour vous aider à grimper dans le classement :
 -   Jouez de manière efficace et perfectionnez votre style de jeu.
 
 Si l'on devait résumer le tout en un seul conseil, ce serait : **jouez des beatmaps qui vous semblent difficiles et faites en sorte d'obtenir de bons scores et une bonne précision**.
-
-

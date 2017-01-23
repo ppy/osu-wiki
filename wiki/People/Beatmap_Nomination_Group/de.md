@@ -85,5 +85,3 @@ Mitglieder
 | [Zero__Wind](https://osu.ppy.sh/u/1822830) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Kantonesisch, Chinesisch |
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | Spanisch |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Chinesisch |
-
-

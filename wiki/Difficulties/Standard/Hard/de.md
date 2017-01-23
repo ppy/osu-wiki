@@ -6,5 +6,3 @@ Eine etwaige Orientierung (Keineswegs absolut, kann nach Geschmack des Mappers b
 -   Circle Size: 4 oder 5
 -   Approach Rate: 6 oder höher
 -   Overall Difficulty: 6 oder höher
-
-

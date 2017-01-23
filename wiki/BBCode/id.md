@@ -575,5 +575,3 @@ A second line</p>
 </tr>
 </tbody>
 </table>
-
-

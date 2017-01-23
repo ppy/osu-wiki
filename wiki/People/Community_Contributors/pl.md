@@ -52,5 +52,3 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | Użytkownik | Wkład |
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Lata poprawiania jakości mapowania, pomoc w rozwiązywaniu problemów społeczności. |
-
-

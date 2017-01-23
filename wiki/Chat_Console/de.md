@@ -272,5 +272,3 @@ Phobos: Wie werde ich besser?</p></td>
 </table>
 
 </center>
-
-  

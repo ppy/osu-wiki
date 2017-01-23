@@ -39,5 +39,3 @@ Approved ![](fire.gif "fig:fire.gif")
 Following up from [\#ranked](#Ranked "wikilink"), a BN can approve these beatmaps if they are longer than 5 minutes long (aka [marathon](marathon "wikilink") beatmaps) and/or that don't follow the [ranking criteria](ranking_criteria "wikilink") but are considered "okay" by a BN.
 
 Note: Beatmaps (that are less than 5 minutes) are planned to be [\#ranked](#Ranked "wikilink"), not approved!
-
-

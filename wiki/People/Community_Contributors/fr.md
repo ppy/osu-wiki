@@ -25,5 +25,3 @@ Les joueurs possédant ce grade sont notés ici :
 | [awp](https://osu.ppy.sh/u/2650) | L'un des premiers managers et modérateurs de la communauté. Contributions significatives sur le long terme. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Premier manager de la communauté et modérateur, qui a mis la barre extrêmement haut pour [l'équipe de modération](/wiki/People/Global_Moderation_Team) actuelle. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Premier manager du staff et des BAT. A formé une équipe d'élite de modération des beatmaps à partir de rien. |
-
-

@@ -439,5 +439,3 @@ Hilfe
 </tr>
 </tbody>
 </table>
-
- 

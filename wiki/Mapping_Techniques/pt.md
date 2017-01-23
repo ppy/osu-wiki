@@ -156,5 +156,3 @@ Fonte
 
 -   [forum de técnicas de Mapping do osu!](http://osu.ppy.sh/forum/61)
     -   ["Avalie a técnica de mapping" criado por kingcobra52](http://osu.ppy.sh/forum/t/17785)
-
- 

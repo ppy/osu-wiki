@@ -15,5 +15,3 @@ Related articles
 -   [距離捕捉](距離捕捉 "wikilink")
 -   [自定義樣本](自定義樣本 "wikilink")
 -   [Kia i時間](Kia_i時間 "wikilink")
-
-

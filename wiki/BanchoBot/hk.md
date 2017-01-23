@@ -31,4 +31,3 @@ IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](HK:IRC "wikilink").
 ------
 
 -   is 1, is 2, is 3. \#4-\#52 不同的Bot，按字母順序排列。
-

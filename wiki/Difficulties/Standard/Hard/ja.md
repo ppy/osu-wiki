@@ -9,5 +9,3 @@ Settings
 -   Circle Size: 4 か 5
 -   Approach rate: 6以上
 -   Overall Difficulty: 6以上
-
-

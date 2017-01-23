@@ -48,5 +48,3 @@ Queste sono solo alcune delle skill necessarie che imparerai giocando e diventad
         -   Il cerchio arancione appare se stai tenendo premuto il pulsante e lo stai seguendo col cursore e scompare se lo lasci.
     -   A volte, come nella foto sopra, dovrai tornare indietro alla fine del percorso.
     -   Lo puoi capire da simbolo indietro alla fine del percorso.
-
- 

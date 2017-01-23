@@ -74,4 +74,3 @@ Perlu di garis besarkan bahwa anda perlu **<u>menyimpan filenya</u>** bukan memb
     -   Jika anda tidak tahu, C: adalah nama lokasi hard-disk yang diketahui oleh komputer anda. Jika anda tidak dapat menemukannya di C: dan anda mempunyai nama lokasi hard-disk lainnya (seperti D: atau H:), maka pergi ke sana dan cari di sana.
     -   Jika anda tahu bagaimana cara mengoperasi komputer anda, buat *link shortcut* ke folder osu! di *program files* dan pilih *"create shortcut"*. Jika anda memang melakukan ini, ini akan menghemat waktu dan tenaga anda. Tinggal ingat saja dimana anda menyimpan *shortcut* nya.
 -   <u>**Pindahkan *beatmap* (dalam bentuk .osz atau .zip) ke file *songs***</u>.
-

@@ -52,5 +52,3 @@ Artículos relacionados
 ----------------------
 
 -   [Skin.ini](Skin.ini "wikilink")
-
- 

@@ -377,5 +377,3 @@ Die eigenen Skin Hitsounds werden dafür verwendet.</p></td>
 </tr>
 </tbody>
 </table>
-
- 

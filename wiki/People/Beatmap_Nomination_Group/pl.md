@@ -87,5 +87,3 @@ Członkowie zespołu
 | [Zero__Wind](https://osu.ppy.sh/u/1822830) | ![Tak](/wiki/shared/Insane-s.png "Tak") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Nie](/wiki/shared/Na-m.png "Nie") | Kantoński, Chiński |
 | [ZiRoX](https://osu.ppy.sh/u/200768) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Tak](/wiki/shared/Insane-f.png "Tak") | ![Nie](/wiki/shared/Na-m.png "Nie") | Hiszpański |
 | [ZZHBOY](https://osu.ppy.sh/u/1565739) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Chiński |
-
-

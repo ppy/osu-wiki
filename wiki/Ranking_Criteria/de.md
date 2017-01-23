@@ -115,5 +115,3 @@ Wenn sie gewisse Richtlinien nicht einhalten sollten, versuchen sie es an dann s
 -   **Hit Sounds für Sliderticks sind nicht gern gesehen.** Wenn sie sie trotzdem benutzen wollen, dann sollte die Lautstärke dem entsprechend angepasst werden. Zum Beispiel sollten sie etwas leiser als die normalen Hit Sounds sein. Ein sehr lauter Slidertick, vor allem wenn es nur ein- oder zweimal in Verwendung ist, kann ziemlich misstönend klingen.
 -   **Sie sollten vermeiden den Storyboard Load über 5.0x zu bekommen**, um mögliche Ruckler auf alten Computern zu vermeiden. Das Ändern der Größen von Storyboard Bildern kann mögliche Abhilfe schaffen.
 -   **Gast Mapper sollten nicht mehr Schwierigkeitsstufen haben als der eigentliche Ersteller des Mapsets.** Mapsets, bei denen mehrere Mapper an den Schwierigkeitsstufen gearbeitet haben, sollter derjenige, der die Map rauflädt, daran gearbeitet haben. Die Person, die am meisten dazu beigetragen hat, sollte die Map auch hochladen.
-
-  

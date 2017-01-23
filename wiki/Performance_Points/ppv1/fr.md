@@ -36,5 +36,3 @@ Votre classement est principalement lié à vos performances sur des maps indivi
 -   Jouez à des maps difficiles,
 -   Améliorez vos anciens records,
 -   Obtenez le grade SS.
-
-

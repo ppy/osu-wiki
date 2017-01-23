@@ -57,6 +57,3 @@ Clique na imagem do episódio que deseja assistir.
 | [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](http://www.youtube.com/watch?v=s2ZK4o8V5tI "Episódio 31")   | Guest Mapping e limites de contribuição!                         |
 | [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](http://www.youtube.com/watch?v=wa_hNegtBw0 "Episódio 32")   | Novo Sistema de Ranking!                                         |
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Episódio 33")   | Dicas Avançadas do Editor!                                       |
-
-
-

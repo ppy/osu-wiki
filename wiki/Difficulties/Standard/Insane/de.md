@@ -16,5 +16,3 @@ Das größte Problem mit der "Insane" Schwierigkeitsstufe ist das sogenannte [Ov
 
 1.  Jumps, Slider Speed-Ups, und andere Schwierigkeitserhöhende Techniken sollten nur verwendet werden wenn sie zur Musik passen. Wenn es keinen Grund gibt [difficulty increasing techniques](Mapping_techniques#Difficulty_Increasing_Techniques) zu verwenden, verwende sie nicht! Die Schwierigkeitsstufe ist nicht dazu dar zu zeigen wie schwierig man eine Beatmap machen kann sondern wie gut du Schwierigkeit und Spaß verbinden kannst.
 2.  Deine Map braucht vielleicht keine Insane Schwierigkeitsstufe. Wenn du denkst, dass deine Map ohne [difficulty increasing techniques](Mapping_techniques#Difficulty_Increasing_Techniques) langweilig ist dann braucht sie diese Schwierigkeitsstufe nicht. Insane Schwierigkeitsstufen werden außerdem nicht erwartet.
-
-

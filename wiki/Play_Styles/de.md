@@ -35,5 +35,3 @@ Laptop Touchpad/Trackpad
 ------------------------
 
 Das Trackpad von Laptops wird dazu benutzt,den Cursor zu steuern. Obwohl es theoretisch möglich ist, damit zu spielen, bevorzugen es die meisten Spieler nicht, da es aufgrund der hohen Schwierigkeit, den Cursor zu bewegen, oder auf der kleinen Fläche zu steuern, schwieriger ist, als die anderen Methoden.
-
-

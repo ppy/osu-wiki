@@ -230,5 +230,3 @@ Galleria Immagini
 =================
 
 [Clicca qui per andare nella Galleria Immagini.](Gallery/en.md "wikilink")
-
-

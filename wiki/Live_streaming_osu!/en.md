@@ -322,4 +322,3 @@ Twitch.tv commands for chat moderation (all usernames must be converted to lower
 | Unban   | /unban username   | Unban a user from your channel                      |
 
 You, the broadcaster, are responsible for whatever happens in your chatroom.
-

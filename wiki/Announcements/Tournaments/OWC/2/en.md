@@ -342,5 +342,3 @@ Extra:
 Extra:
 
 -   [Loathing in Las Vegas - Just Awake [Insane]](http://osu.ppy.sh/b/139446)
-
-

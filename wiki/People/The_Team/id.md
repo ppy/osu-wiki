@@ -53,5 +53,3 @@ Anggota grup
 | [Berita osu!](http://osu.ppy.sh/g/25) | Menyediakan Anda dengan kualitas bacaan sejak 2013 |
 | [Karyawan Turnamen](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Tim Penjamin Asuransi](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, mulai dari menjamin kualitas beatmap. |
-
-

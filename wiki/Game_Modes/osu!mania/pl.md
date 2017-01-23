@@ -449,5 +449,3 @@ References
 ----------
 
 -   [Announcement post](http://osu.ppy.sh/forum/p/1825880)
-
- 

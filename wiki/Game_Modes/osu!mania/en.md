@@ -495,5 +495,3 @@ Number of lines can be set in the “Song Setup” =&gt; Column Count.
 ## References
 
 -    [Announcement post](http://osu.ppy.sh/forum/p/1825880)
-
- 

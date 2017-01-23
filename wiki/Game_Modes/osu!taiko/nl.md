@@ -30,5 +30,3 @@ Elke GREAT is *300 + RoundDown(Combo / 10)* keer *n* tot een maximum van *300+10
 Elke *GOOD* geeft een halve score van *GREAT* , terwijl geen score staat voor *MISS/BAD*s. Een dubbele score krijg je voor *successful hit* grote noten (verschillend in Taiko no Tatsujin, de linker en de rechter drum moeten teglijk gehit worden in volgorde voor succes). voor gele noten worden 300 punten gegeven voor een kleine hit en 600 voor een grote noot. Voor shaker noten krijg je 300 per noot en wordt de score van een succesvolle finish verdubbeld.
 
 In tegenstelling tot osu! of [CatchTheBeat](NL:CatchTheBeat "wikilink"), een gemiste noot in Taiko zal de uiteindelijke mogelijke score niet gigantisch omlaag brengen. Een constante score wordt eraf gehaald bij een gemiste noot als elke mis minimaal een combi van 100 ervoor en erna heeft.
-
- 

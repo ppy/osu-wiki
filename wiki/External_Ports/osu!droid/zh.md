@@ -179,5 +179,3 @@ Osu!droid MM.jpg| 主界面 Osu!droid MM2.jpg| 主界面 Osu!droid Play.jpg| 歌
 -   [血猫下图站](http://bloodcat.com/osu/)
 -   [osu!MapDownloader 手机下图器](https://play.google.com/store/apps/details?id=com.myapp.downloader)
 -   [新的osuevo下载站](http://ops.dgsrz.com)
-
-

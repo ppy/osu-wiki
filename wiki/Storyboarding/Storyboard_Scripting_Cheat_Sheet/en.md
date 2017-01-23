@@ -227,5 +227,3 @@ Primitive support for variables is now available. You can define any number of v
 `$white=255,255,255`
 
 Once you define variables, you can use them \*anywhere\* in the storyboard. This means you can have a variable containing as much as a whole line. Please don't make variable too small for the moment (ie. don't assign $var=1) because the editor is not smart enough to know where to put variables when it saves. All occurrences of the variables will currently be replaced at save time (so if you have one place you used $white and another you used 255,255,255 they will both become $white after a save in the editor).
-
-

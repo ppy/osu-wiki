@@ -37,5 +37,3 @@ Utilisez les avec modération et gardez un espace d'1/2 entre eux et une note ad
 -   **Hitsounds personnalisés**
 
 Les Hitsounds personnalisés doivent rappeler une percussion. Si vous les utilisez, les sons graves doivent être réglés en tant que *don* et les aigus en tant que *kat*. Custom hitsounds must be drum-related. If custom hitsounds are used, they should have deeper/lower tone set as don and a higher/lighter tone as kat.
-
-  

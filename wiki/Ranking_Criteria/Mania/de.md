@@ -92,5 +92,3 @@ Note: 1K, 2K, 3K <span style="text-decoration:line-through;">und 10K</span> wurd
 | <span style="text-decoration:line-through;">20K</span> | <span style="text-decoration:line-through;"></span>                             |
 
 Beinhaltet nicht: Keyboardmania (Light+, Real) \[24K\] und (Double) \[48K\].
-
- 

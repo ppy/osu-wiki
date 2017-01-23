@@ -90,5 +90,3 @@ Tu rank en rendimiento está principalmente basado en mapas individuales. La for
 -   Consigue buenas puntuaciones en mapas muy populares.
 -   Consigue buenas puntuaciones en mapas muy difíciles.
 -   Mejora viejos récords.
-
-

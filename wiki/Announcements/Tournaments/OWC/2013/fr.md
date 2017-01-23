@@ -582,5 +582,3 @@ Liens importants
 ---------------
 
 -   [Topic de discussion sur le forum de osu!](//osu.ppy.sh/forum/t/160181/start=0)
-
-

@@ -117,5 +117,3 @@ Other styles
 **Guitar/Drum set**(5/6K): The default controller for guitar-themed([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players streams on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands(two hands) at a time without a special kick pedal.
 
 **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is that you only have two arms to input commands, excluding the use of legs.
-
-

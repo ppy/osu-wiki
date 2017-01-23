@@ -21,5 +21,3 @@ Skin Versionen
 | 2.2     | Neues Beatmap Panel Layout mit rotierenden und skalierten Sternen (besser als "halbe" Sterne), Thumbnails und allgemeine Ausrichtungsänderungen. |
 | 2.3     | Wie 2.2, nur mit dem neuen CtB Maskottchen Yuzu, Änderungen im CtB-Catcher Verhalten und CtB-exklusive Combobursts.                              |
 | 2.4     | Skaliert osu!mania Kombozähler, Score, Beleuchtung und Warnungspfeile, wenn die komplette Größe des mania-Feldes verkleinert wird.               |
-
- 

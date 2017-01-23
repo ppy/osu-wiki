@@ -50,5 +50,3 @@ Rank caiu
 
 Imagem
 ======
-
-

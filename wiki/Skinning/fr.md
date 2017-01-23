@@ -34,5 +34,3 @@ Articles liés
 -------------
 
 -   [Skin.ini](FR:Skin.ini "wikilink")
-
-

@@ -44,5 +44,3 @@ Il tuo punteggio in classifica è basato principalmente sulla performance su map
 
 Immagine
 ========
-
-

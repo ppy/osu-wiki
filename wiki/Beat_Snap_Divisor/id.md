@@ -35,5 +35,3 @@ Baris hijau: Kamu.
 | Ketukan              | Ketukan Seperenam                                            | Ketukan Seperdelapan                                                             | Ketukan Seperduabelas                                                       | Ketukan Seperenambelas                                                          |
 | Catatan pada tanda   | Mempunyai tanda berwarna ungu di setiap tanda berwarna merah | Menambahkan tanda berwarna kuning di antara tanda berwarna merah & berwarna biru |                                                                             |                                                                                 |
 | Catatan              | Timing gabungan                                              |                                                                                  |                                                                             |                                                                                 |
-
-

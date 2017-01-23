@@ -106,5 +106,3 @@ Link
 ----
 
 -   peppys Achievement Grafiken [1](http://osu.ppy.sh/forum/t/80448)
-
-

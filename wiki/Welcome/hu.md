@@ -128,4 +128,3 @@ Itt van egy pár hasznos link az utazásod megkezdéséhez:-
 -   [Beatmap Lista](http://osu.ppy.sh/p/beatmaplist) - Itt tölthetsz le új beatmapeket (számokat) a játékhoz.
 -   [Gyakran Ismételt Kérdések (GYIK)](/wiki/FAQ) - a játék alapjai.
 -   [osu!academy](HU:Osu!academy "wikilink") - Videók, amelyek segítségével megismerheted az osu! minden részét.
-

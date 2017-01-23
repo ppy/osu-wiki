@@ -16,5 +16,3 @@ Es basiert grundsätzlich auf [die offizielen Spezifikationen](http://osu.ppy.sh
 [ Noch mehr Leckerbissen, falls du interessiert sein solltest.](DE:Storyboard_Scripting_-_Sonstiges)
 
 Hinweis: **Speichere es zuerst in der Beatmap als .osb-Datei ab**, bevor du es im Textdokument abspeicherst. Der Editor ist dazu auch noch sehr sensibel, daher solltest du **sehr oft** abspeichern, um mögliche Abstürze vorzubeugen.
-
-

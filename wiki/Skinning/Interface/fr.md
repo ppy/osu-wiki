@@ -50,5 +50,3 @@ Touches de jeu
 
 Rangs
 -----
-
-

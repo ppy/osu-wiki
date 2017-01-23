@@ -47,5 +47,3 @@ Storyboard Editorの出現により簡単に譜面にエフェクトを追加で
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 その他のSBは[こちらから](JP:Storyboarding/Maps).
-
-

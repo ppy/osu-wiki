@@ -97,5 +97,3 @@ osu!store Contests
 | Contest | Titolo                                        | Requisiti                                  | Vincitori | Notizie                                   | Risultati       |
 |---------|-----------------------------------------------|--------------------------------------------|-----------|-------------------------------------------|-----------------|
 | #1      | Mappa con gli sticker osu! Beatmap Blueprints | osu! Beatmap Blueprints ("Mappa Dovunque") | (WIN)     | [Notizie](//osu.ppy.sh/news/114095906408) | \[(Risultati)\] |
-
-

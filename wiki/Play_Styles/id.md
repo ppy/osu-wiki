@@ -119,5 +119,3 @@ Gaya lainnya
 **Gitar/set Drum**(5/6K): Opsi biasa untuk game bertemakan gitar([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/bertemakan drum([Drummania](https://wikipedia.org/wiki/Drum_Mania)) dalam game irama. Pemain stream pada gitar mereka / memukul gendang atau simbal untuk perintah masukan. Pemain drum memiliki kelemahan dibandingkan dengan pemain gitar karena mereka hanya dapat memasukkan dua perintah (dua tangan) pada satu waktu tanpa tendangan pedal khusus.
 
 **Kontrol Para Para**(5K): Opsi biasa untuk [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) seri. Pemain menggerakkan lengan mereka, siku dan tangan lurus di atas sensor dekat dengan perintah masukan berdasarkan posisi tangan melalui sensor dekat. Kekurangannya adalah bahwa Anda hanya memiliki dua lengan untuk perintah input, tidak termasuk penggunaan kaki.
-
-

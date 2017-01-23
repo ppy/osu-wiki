@@ -358,5 +358,3 @@ The level of a player is based solely on the player's total score. The total sco
 `26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101`
 
 The progress to the next level is displayed using a bar next to the player's level.
-
-    

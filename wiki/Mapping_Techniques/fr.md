@@ -158,5 +158,3 @@ Source
 
 -   [Forum des Techniques de Mapping d'osu!](http://osu.ppy.sh/forum/61)
     -   [kingcobra52's Rate the Mapping Technique - Nominations](http://osu.ppy.sh/forum/t/17785)
-
- 

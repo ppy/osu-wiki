@@ -215,5 +215,3 @@ Hit object type est un bitmap:
 circle = 1 slider = 2 new combo = 4 spinner = 8
 
 Les seuls "types" actuels sont les cercles, sliders et spinners. Les nouveaux combos peuvent être OR'd afin d'étendre le comportement du cercle.
-
-

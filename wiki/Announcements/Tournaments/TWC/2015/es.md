@@ -181,5 +181,3 @@ Set de Reglas
 3.  Todas las Doble Eliminacion serán en Sabado o Domingo.
 4.  Los horarios serán asignados por los **Administradores del Torneo**, estos serán revelados los domingos antes de las primeras partidas de la fase en curso. Los **Administradores del Torneo** intentarán crear los horarios de acuerdo a los participantes y sus zonas horarias.
 5.  Los capitanes son responsables de la disponibilidad de sus equipos. La idea de tener 6 jugadores por equipos es para asegurar que cada equipo pueda tener al menos 3 jugadores por cada partida. Si un equipo no cuenta con 3 jugadores, la partida sera considerada perdida.
-
-

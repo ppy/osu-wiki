@@ -235,5 +235,3 @@ Carlito: Carlito! Carlito!</p></td>
 </tr>
 </tbody>
 </table>
-
-

@@ -9,5 +9,3 @@
 *Full explanation: [osu! Standard](Standard "wikilink")*
 
 현제 제작중입니다...
-
-  

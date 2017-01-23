@@ -332,5 +332,3 @@ Links
     -   [opsu! Desktop Releases for .jar (itdelatrisu)](https://github.com/itdelatrisu/opsu/releases/)
     -   [opsu! Releases for .apk (fluddokt)](https://github.com/fluddokt/opsu/releases)
 -   <http://bloodcat.com/osu/> (Download source)
-
- 

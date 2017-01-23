@@ -53,5 +53,3 @@
 | [osu!news](http://osu.ppy.sh/g/25) | 从2013年开始给你带来高质量的阅读体验 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | 为所有模式举办官方的 osu! 联赛 |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | 审核将要上架谱面的质量 |
-
-

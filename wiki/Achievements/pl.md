@@ -98,5 +98,3 @@ Jest to ten typ osiągnięć w którym nie wiadomo do końca jak je otrzymać. G
 ----------
 
 -   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)
-
-

@@ -140,4 +140,3 @@ osu! даёт возможность делать игровые карты лю
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist) - Собранные наборы битмап(тематические, или без определённой тематики).
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist) - Тут можно скачать новые битмапы.
 -   [Frequently Asked Questions](/wiki/FAQ) - FAQ для ответов на основные вопросы новичков.
-

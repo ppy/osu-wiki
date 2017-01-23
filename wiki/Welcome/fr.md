@@ -175,4 +175,3 @@ Voici quelques liens utiles pour vous aider à débuter :
 -   \[<http://osu.ppy.sh/p/beatmaplist>?= Liste des beatmaps\] - Recherchez ici de nouvelles beatmaps à télécharger.
 -   [FAQ - Questions fréquentes](/wiki/FAQ) sur le jeu.
 -   L'[osu!academy](FR:osu!academy "wikilink"), gérée par ztrot, qui présente osu! dans tous ses aspects. (en anglais)
-

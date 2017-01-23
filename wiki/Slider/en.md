@@ -41,5 +41,3 @@ Slider Tick Rate
 Slider tick rate is the rate that [slider tick](slider_tick "wikilink") appears in [slider](slider "wikilink"). For example, slider tick rate 1 means that slider ticks appears once per beat. However, as the slider ticks does not appear in the two end-points of a [slider](slider "wikilink"), some [slider](slider "wikilink") does not contain any slider tick. For example, a 1-beat slider does not contain slider tick in slider tick rate 1.
 
 Typical slider tick rate includes 1, 2 and 4. 3 is also available but used rarely. In the past slider tick 4 is widely used but slider tick rate 1 and 2 are used more popularly. Slider tick rate 0.5 (slider tick per 2 beat) is also available in the past but it is unrankable now.
-
- 

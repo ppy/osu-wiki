@@ -19,5 +19,3 @@ How to download videos from YouTube
 ### Loading video in osu!
 
 Open your beatmap and press F2, click Insert Background Video. Use the slider below to adjust the start time offset and voila, your done.
-
-

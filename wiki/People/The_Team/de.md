@@ -53,5 +53,3 @@ Benutzergruppen
 | [osu!nachichten](http://osu.ppy.sh/g/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
 | [Turnierleitung](http://osu.ppy.sh/g/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |
 | [Qualität Bestätigungs Team](/wiki/People/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |
-
-

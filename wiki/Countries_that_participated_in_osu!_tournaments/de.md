@@ -268,5 +268,3 @@ Hinweis
 <sup>½</sup> bedeutet, dass das Land mit einem anderen Land ein Team gebildet haben.
 
 <sup>×2</sup> bedeutet, dass das Land 2 volle Teams hatte.
-
-  

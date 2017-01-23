@@ -114,5 +114,3 @@ Lorsque pour une raison ou une autre, votre map ne respecte pas ces conseils, es
 -   **Les hitsounds storyboardés sont déconseillés** afin d'éviter une certaine confusion chez le joueur qui penserait avoir manqué une note. osu! est un jeu de rythme qui repose sur l'audio : tout élément audio susceptible de distraire ou confondre le joueur est déconseillé.
 -   **Il est déconseillé d'utiliser des hitsounds pour les slider ticks.** Si vous insistez pour en utiliser, faites en sorte que leur volume soit ni trop faible, ni trop fort. Ils doivent être moins bruyants que les hitsounds normaux.
 -   **Essayez de rester en dessous du seuil de 5,0x en SB Load (storyboard loading, visible dans l'éditeur)** afin d'éviter les lags sur certains ordinateurs peu puissants. Réduire la taille des ressources utilisées peut aider.
-
- 

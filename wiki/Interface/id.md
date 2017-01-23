@@ -231,5 +231,3 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 9.  Kembali ke Layar Pemilihan Lagu.
 
 Osu! Online score.png| osu! Daring Taiko Online.jpg| Taiko Daring CtB Online.png| Catch the Beat Daring
-
-

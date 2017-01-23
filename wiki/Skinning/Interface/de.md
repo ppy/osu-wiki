@@ -52,5 +52,3 @@ Ranking Grades
 --------------
 
 \[\[Category:Deutsch
-
-

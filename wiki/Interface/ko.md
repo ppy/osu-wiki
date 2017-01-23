@@ -270,5 +270,3 @@ Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg| 태고 (태고 스킨 사용) 
 9.  선곡화면으로 돌아갑니다.
 
 Osu! Online score.png| 스텐다드 온라인 Taiko Online.jpg| 태고 온라인 CtB Online.png| 캐치 더 비트 온라인
-
-

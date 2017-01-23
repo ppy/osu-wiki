@@ -268,5 +268,3 @@ Observações
 <sup>½</sup> Participou com outro país como um único time.
 
 <sup>×2</sup> Teve dois times.
-
- 

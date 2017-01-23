@@ -378,5 +378,3 @@ Should face DOWNWARDS</p></td>
 </tr>
 </tbody>
 </table>
-
-  

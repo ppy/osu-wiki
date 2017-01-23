@@ -270,5 +270,3 @@ Seção \[General\]
 
 `//Sprite image name for mania warning arrow`
 `WarningArrow: mania-warningarrow`
-
-

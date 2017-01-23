@@ -79,5 +79,3 @@
 | ![Eclipse](/wiki/Achievements/img/osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](/wiki/Achievements/img/all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](/wiki/Achievements/img/osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](/wiki/Achievements/img/osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](/wiki/Achievements/img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](/wiki/Achievements/img/all-secret-lightsout.png "Lights Out") |![Unstoppable](/wiki/Achievements/img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](/wiki/Achievements/img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](/wiki/Achievements/img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](/wiki/Achievements/img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](/wiki/Achievements/img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](/wiki/Achievements/img/all-secret-hourbeforethedawn.png "Hour Before The Dawn")  |
-
-

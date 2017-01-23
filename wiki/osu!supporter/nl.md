@@ -62,4 +62,3 @@ Duur
 ----
 
 <img src="O!s Duration.jpg" title="fig:Vergelijking tussen een actieve en inactieve osu!supporter-tag." alt="Vergelijking tussen een actieve en inactieve osu!supporter-tag." width="200" /> Nadat je transactie voltooid is, zal onder het kopje 'Recent Activity' op je profiel het volgende woorden weergegeven: "{Accountnaam} has become an osu! supporter - thanks for your generosity!" als het de eerste keer is dat je account osu!supporter krijgt, "{Accountnaam} has once again chosen to donate to the osu! cause - thanks for your generosity!" als je al eerder supporter hebt gehad en "{Accountnaam} has received the gift of osu! supporter!" als je osu!supporter van iemand anders krijgt. Als je supporter op je eigen account hebt, zie je onder je profielfoto de osu!supporter badge staan. Om te kijken wanneer je osu!supporter afloopt, keer je terug naar [keer je terug naar de plek waar je het gekocht hebt](http://osu.ppy.sh/p/support).
-

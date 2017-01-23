@@ -14,5 +14,3 @@ Cliquer sur un de ces liens vous emmènera vers un guide de [mappers](FR:Mappers
 En plus des difficultés que nous venons de mentionner, il n'est pas rare de rencontrer des difficultés alternatives personnalisées pouvant être des intermédiaires à deux difficultés ou bien qui soient plus dures que les Insanes.
 
 À ces difficultés alternatives, vous pourrez trouver [des Guest Difficulties](FR:Guest_Difficulty "wikilink") qui sont surnommées du nom du créateur suivie de la difficulté (comme par exemple *Larto's Insane*) voir même des adjectifs de difficulté (exemple "0108 pour les créations de Val0108").
-
-

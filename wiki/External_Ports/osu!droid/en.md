@@ -159,5 +159,3 @@ Links
 -   [osu!droid website](http://osudroid.com/) (Offline)
 -   <http://bloodcat.com/osu/>
 -   [osu!MapDownloader](https://play.google.com/store/apps/details?id=com.myapp.downloader)
-
- 

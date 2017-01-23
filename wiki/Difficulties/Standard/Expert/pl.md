@@ -23,5 +23,3 @@ Ustawienie
 ### Przesadzone mapowanie
 
 *Przejrzyj artykuł [Szalony](PL:Insane).*
-
-

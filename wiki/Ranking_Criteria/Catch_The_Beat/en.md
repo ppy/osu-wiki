@@ -173,5 +173,3 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   Approach Rate/Overall Difficulty should be between 8-10
 -   HP drain should be between 6-8
 -   Circle Size should be between 3-6
-
-  

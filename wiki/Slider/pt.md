@@ -30,5 +30,3 @@ Uma **slider speed** define quanto tempo um slider demora para atravessar determ
 A Slider speed é medida em *centenas de [osupixels](PT:Osupixel "wikilink") por batida,* sendo assim, um slider com velocidade de 1.00 vai percorrer 100 osupixels (100 pixels em resolução 640x480) em um uma batida completa. Isso significa que sliders com uma configuração particular de velocidade vão se mover mais rápido quando o BPM for maior.
 
 Slider speed pode ser definida na aba Timing pela janela principal do editor. você também pode definir um multiplicador para esse valor de velocidade ao adicionar uma inherited [timing section](PT:Timing "wikilink").
-
- 

@@ -25,5 +25,3 @@ Usuários que atualmente possuem o emblema:
 | [awp](https://osu.ppy.sh/u/2650) | Antigo gerente da comunidade e moderador, imensas contribuições desde o inicio. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Foi o primeiro gerente da comunidade "improvisado" e moderador global, que serviu de base para os membros do [GMT](/wiki/People/Global_Moderation_Team) seguirem. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Foi o primeiro gerente dos membros da equipe e primeiro gerente dos BATs criou sozinho um time de moderação de beatmaps elite. |
-
-

@@ -14,5 +14,3 @@ Things to take into consideration when using Kiai
 4.  It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the **strongest part of the map**.
 5.  **[Guest difficulties](Guest_Difficulty "wikilink") may have different Kiai**. This is due to the fact that not everyone thinks the same spot is the "cool" spot of the beatmap; however Kiai should still be consistent.
 6.  [Colorhaxing](Colorhaxing "wikilink") to make Kiai have a different set of [combo colours](combo_colours "wikilink") is a nice touch.
-
-  

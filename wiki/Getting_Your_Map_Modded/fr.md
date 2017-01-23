@@ -41,5 +41,3 @@ Voici quelques astuces :
 -   N'hésitez pas à prendre des initiatives : Moddez les maps de vos amis et de la communauté française en général. Tout ce que vous faites vous reviendra un jour.
 
 Bonne chance dans le modding de votre map !
-
-

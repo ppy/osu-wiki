@@ -40,5 +40,3 @@ Guias são importantes e devem ser seguidos na maioria dos beatmaps. Porém, ele
 -   **Evite usar stack leniency de uma forma que você tenha coberto perfeitamente hitobjects consecutivos.** Essa opção é usada se stacking estiver estragando arranjos existentes em um map. É normalmente uma boa ideia mantê-lo ativado.
 -   **Stack manual é aceitável** desde que seja legível durante o jogo.
 -   **Evite cobrir objetos com hitbursts, slider tracks, e outros objetos, especialmente em dificuldades mais fáceis.** Ocultar objetos torna-os dificil de ler. Podem existir exceções onde as notas tem um caminho limpo e lógico além do tempo entre os objetos poder ser compreendido facilmente.
-
-  

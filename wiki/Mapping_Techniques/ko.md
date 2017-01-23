@@ -23,5 +23,3 @@
 -   Hold Sliders(커서 위치의 변화가 전혀 없는 슬라이더)
 -   [Stack zero](KO:Stacking "wikilink")
 -   Ninja Spinners (짧은 스피너와는 다름)
-
- 

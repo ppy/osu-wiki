@@ -102,5 +102,3 @@ Players will be forced to move slowly on a track going left for about a second, 
 ## Trivia
 
 -    Until April 10, 2012, osu!catch maps could not be ranked or be included in ranked maps. However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines. These guidelines are very much a work in progress, but as more CTB maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
-
-

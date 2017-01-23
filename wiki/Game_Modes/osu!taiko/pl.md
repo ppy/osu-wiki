@@ -37,5 +37,3 @@ TaTaCon
 -------
 
 osu! obsługuje kontroler TaTaCon, jeżeli takowy posiadasz.
-
- 

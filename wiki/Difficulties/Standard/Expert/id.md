@@ -21,5 +21,3 @@ Juga mohon dicatat: pada kebanyakan kasus, ini dilihat dari sisi [mappingnya](ID
 ### Overmapping
 
 Umumnya, lihat pada halaman [Insane](ID:Insane).
-
-

@@ -160,5 +160,3 @@ Links
 -   [Dropbox的链接](https://osu.ppy.sh/forum/t/243961)
 -   [来源（在5楼）](http://tieba.baidu.com/p/3628301383)
 -   [http://bloodcat.com/osu/（下载来源](http://bloodcat.com/osu/（下载来源)）
-
- 

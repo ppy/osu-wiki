@@ -214,5 +214,3 @@ Formulas de Scoring
 | Multiplicador de Combo                                                                                                                 |
 | Multiplicador de Dificuldade                                                                                                           |
 | Multiplicador de mods                                                                                                                  |
-
-    

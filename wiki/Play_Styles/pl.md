@@ -117,5 +117,3 @@ Inne style
 **Gitara/Bębny**(5/6K): Domyślny kontroler dla rytmicznych gier o charakterze gitarowym ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/charakterze bębnowym ([Drummania](https://wikipedia.org/wiki/Drum_Mania)). Gracze wciskają klawisze na gitarze/uderzają bębenki aby wprowadzić uderzenie. Osoby grające na bębnach mają gorzej od osób grających na gitarze, ponieważ mogą wprowadzić tylko dwa uderzenia (dwie ręce) w tym samym czasie, jeśli nie posiadają specjalnych pedałów.
 
 **Kontroler Para Para**(5K): Domyślny kontroler dla serii [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise). Gracze ruszają swoimi rękami, dłońmi i łokciami stając naprzeciwko czujnika ruchu aby wprowadzić polecenia na podstawie pozycji rąk. Wadą tego stylu gry jest to że gracz ma tylko dwie ręce do wprowadzania poleceń, włączając w to nogi.
-
-

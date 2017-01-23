@@ -104,5 +104,3 @@ Peringkat performamu didominasi berdasarkan performamu pada sebuah map. Cara ter
 -   Dapatkan akurasi yang lebih tinggi (walaupun perbedaannya hanya 1% namun itu cukup berarti banyak!).
 -   Dapatkan kombo lebih tinggi. Coba dapatkan Kombo Full/Sempurna atau "SS/SSH".
 -   Bermain lebih baik pada tingkat kesulitan yang lebih sulit.
-
-

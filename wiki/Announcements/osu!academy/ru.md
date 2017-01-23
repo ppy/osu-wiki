@@ -61,6 +61,3 @@
 | [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](http://www.youtube.com/watch?v=s2ZK4o8V5tI "Эпизод 31")   | В этом эпизоде мы рассмотрим правила загрузки гостевых сложностей (и не только)!         |
 | [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](http://www.youtube.com/watch?v=wa_hNegtBw0 "Эпизод 32")   | В этом эпизоде мы расскажем о новой системе ранкинга!                                    |
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Эпизод 33")   | В этом эпизоде мы узнаем ещё больше возможностей эдитора!                                |
-
-
-

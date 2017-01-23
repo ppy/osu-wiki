@@ -484,5 +484,3 @@ Hitsound dari skin pilihan pemain akan digunakan.</p></td>
 </tr>
 </tbody>
 </table>
-
-

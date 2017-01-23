@@ -159,5 +159,3 @@ Tautan
 -   [situs osu!droid](http://osudroid.com/) (sedang luring)
 -   <http://bloodcat.com/osu/>
 -   [osu!MapDownloader](https://play.google.com/store/apps/details?id=com.myapp.downloader)
-
-

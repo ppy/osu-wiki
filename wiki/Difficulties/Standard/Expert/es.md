@@ -25,5 +25,3 @@ Nota adicional: en la mayoría de los casos lo importante es el [mapping](ES:Map
 ### Overmapping
 
 En general, es lo mismo que en [Insane](ES:Insane).''
-
-

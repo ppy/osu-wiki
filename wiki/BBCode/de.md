@@ -575,5 +575,3 @@ Zweite Zeile</p>
 </tr>
 </tbody>
 </table>
-
- 

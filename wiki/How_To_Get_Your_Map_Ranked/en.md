@@ -23,5 +23,3 @@ See Also
 --------
 
 -   [Ranking Criteria](Ranking_Criteria "wikilink")
-
- 

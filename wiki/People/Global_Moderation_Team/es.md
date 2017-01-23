@@ -60,5 +60,3 @@ Miembros del equipo
 | [Yason](https://osu.ppy.sh/u/2574392) | Polaco | Moderacion del chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chino | Moderacion del chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Húngaro | Moderacion del chat |
-
-

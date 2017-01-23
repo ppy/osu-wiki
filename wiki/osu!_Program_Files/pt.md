@@ -136,5 +136,3 @@ The .dll files are components of osu!.exe so ignore it.
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
-
-

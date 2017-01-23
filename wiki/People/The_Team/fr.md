@@ -53,5 +53,3 @@ User Groups
 | [osu!news](http://osu.ppy.sh/g/25) | Vous donne à lire du contenu de qualité depuis 2013. |
 | [Gérants des tournois](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Équipe de Certification de Qualité des Beatmaps](/wiki/People/Quality_Assurance_Team) | On vous aide à vous amuser sur osu!, en commencant par assurer la qualité des Beatmaps. |
-
-

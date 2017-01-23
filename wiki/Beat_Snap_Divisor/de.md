@@ -36,5 +36,3 @@ Grüne Linie: Sie.
 | Beat               | Doppelte-Tripel                                   | 8. Beats                                                 | 12. Beats                                     | 16. Beats                                                |
 | Tick Noten         | Hat zwei lila Ticks zwischen jeden roten Tick     | Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu |                                               |                                                          |
 | Noten              | Compound timing                                   |                                                          |                                               |                                                          |
-
-  

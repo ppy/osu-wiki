@@ -159,5 +159,3 @@ Spinner
 | spinner-circle.png         | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="spinner-circle.png" title="spinner-circle.png" alt="spinner-circle.png" height="50" />                         | Dieser Sprite wird auch in [Skinning/Standard](DE:Skinning#Standard "wikilink") verwendet. |
 | spinner-approachcircle.png | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="spinner-approachcircle.png" title="spinner-approachcircle.png" alt="spinner-approachcircle.png" height="50" /> | Dieser Sprite wird auch in [Skinning/Standard](DE:Skinning#Standard "wikilink") verwendet. |
 ||
-
-  

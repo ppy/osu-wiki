@@ -56,5 +56,3 @@ Remember, always keep in mind that a good map is one that takes time and is at i
 -   Collaborations are the hardest map to start off and complete.
 
 Just remember, collaborations, despite being complex to begin and follow through, are often the most rewarding once completed.
-
-

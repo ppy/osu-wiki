@@ -94,5 +94,3 @@ Ces informations sont importantes et devraient être suivis par la plupart des m
 -   **N'utilisez que les *breaks* lorsque c'est nécéssaire** (long silence, pas l'instrument que vous mappez, etc...)
 -   **Il est conseillé d'avoir au moins deux nombres de colonnes dans votre mapset**, mais il est tout à fait acceptable de ne faire que du 4K ou du 6K si vous le souhaitez.
 -   **Les *SV changes* devraient être utilisés avec parcimonie.** Utilisez-les lorsqu'il y a un changement notable dans la musique. Tout dépend du mapper.
-
-  

@@ -21,5 +21,3 @@ Articles connexes
 -----------------
 
 -   [Critères de Ranking Généraux](FR:Ranking_Criteria "wikilink")
-
- 

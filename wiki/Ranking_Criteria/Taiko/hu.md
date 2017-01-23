@@ -58,5 +58,3 @@ Próbálj legalább 1/2 ütemnyi szünetet tenni a pörgető és a karika közé
 -   **Saját ütemhangok**
 
 A saját ütemhangoknak muszáj dobhangzásúnak lennie. Ha saját ütemhangokat használsz, muszáj a katnak magasabbnak, míg a donnak mélyebb hangúnak lennie.
-
-  

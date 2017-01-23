@@ -124,5 +124,3 @@ When your guideline-breaking map gets modded, try to be as reasonable as possibl
 -   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
 -   **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, would be extremely jarring.
 -   **Avoid going over a 5.0x storyboard load** to help prevent lag on older computers. Resizing some of your storyboard images may help with this.
-
- 

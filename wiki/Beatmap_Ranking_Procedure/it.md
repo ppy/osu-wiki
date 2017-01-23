@@ -30,5 +30,3 @@ Unranked ![](heartpop.gif "fig:heartpop.gif")
 Le persone fanno degli errori. Quindi, se una mappa raggiunge il sistema di Ranking con un grave errore, allora diventerà temporaneamente unrankata. Se la mappa viene unrankata, allora si raccomanda di chiedere al BAT che l'ha unrankata il problema nella mappa per poi, di conseguenza, aggiustarlo il più presto possibile per vederla di nuovo rankata.
 
 Nota bene: A volte ti verrà chiesto di cambiare qualcosa che non vorresti cambiare. A volte riuscirai a farla rankare di nuovo senza aggiustare il problema citato dal BAT, ma se più di metà dei BAT approva che tu dovresti cambiarlo, allora dovresti fartene una ragione e aggiustarlo.
-
-

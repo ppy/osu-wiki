@@ -53,6 +53,3 @@ Episoden
 | 29  | [Grundlagen fürs Storyboard (2:51)](//www.youtube.com/watch?v=uvCRwcyJ4TA)                                         |
 | 30  | [Grundlagen fürs Storyboard 2 (1:58)](//www.youtube.com/watch?v=EvICgPuOylk)                                       |
 | 31  | [Gast Mapping und Limitierung an der Anteilnahme (3:21)](//www.youtube.com/watch?v=s2ZK4o8V5tI)                    |
-
-
-

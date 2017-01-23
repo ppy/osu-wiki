@@ -22,5 +22,3 @@ Directory of the Beatmaps forum
 
 -   -   [Completed Projects](https://osu.ppy.sh/forum/62) - ***Completed projects can be archived and discussed here.***
 -   -   [Beatmap Management](https://osu.ppy.sh/forum/115) - ***Members of the Beatmap Nomination Group discuss recent issues here.***
-
- 

@@ -53,5 +53,3 @@ Grupos de Usuarios
 | [osu!news](http://osu.ppy.sh/g/25) | Encargados de traerte noticias de calidad desde 2013 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Encargados de revisar la calidad de los mapas que tanto disfrutas! |
-
-

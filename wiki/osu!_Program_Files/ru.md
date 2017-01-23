@@ -178,5 +178,3 @@ Songs
 | [RU:Beatmap Editor](RU:Beatmap_Editor "wikilink") |
 | .osu                                              |
 | .osb                                              |
-
-

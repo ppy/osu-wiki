@@ -476,5 +476,3 @@ Sudden Death/Perfect, Relax, Auto Pilot, Spun Out</p></td>
 </tr>
 </tbody>
 </table>
-
-

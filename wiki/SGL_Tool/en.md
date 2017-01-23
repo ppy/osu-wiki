@@ -45,5 +45,3 @@ that hopefully will be fixed in the next release:
 -   ~~Support for Sound Samples~~ (Done)
 -   Compiler blocks UI
 -   Several Bugs, see Bug List
-
- 

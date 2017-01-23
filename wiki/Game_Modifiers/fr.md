@@ -420,5 +420,3 @@ Les hitsounds de votre skin seront utilisés.</p></td>
 </tr>
 </tbody>
 </table>
-
- 

@@ -300,5 +300,3 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 -   [Analiza mapowania \#1 - Flow](//osu.ppy.sh/news/61334266941)
 -   [Zasłużeni dla osu!](//osu.ppy.sh/news/59476410622)
 -   [Testowy buildy są teraz bardziej użyteczne](//osu.ppy.sh/news/57687830738)
-
-

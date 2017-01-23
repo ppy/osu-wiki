@@ -72,4 +72,3 @@ How can I avoid being silenced or banned?
 -----------------------------------------
 
 You can simply read the rules here: [Osu!:Rules](Osu!:Rules "wikilink")
-

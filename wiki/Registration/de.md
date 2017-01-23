@@ -51,5 +51,3 @@ Was als nächstes?
 Ab hier bist du bereit dein Abenteuer auf der Seite ["Leitfaden für Neueinsteiger"](DE:Willkommen "wikilink") fortzusetzen. Vergesse auch nicht die [Regeln](DE:Regeln "wikilink") vorher durchzulesen!
 
 Wenn du Hilfe im Spiel benötigen solltest, melde dich einfach im \#help Channel. Am einfachsten kommst du in den \#help Channel, wenn du "/join \#help" in den Chat eingebst (ohne Anführungszeichen).
-
-

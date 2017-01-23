@@ -131,4 +131,3 @@ Here are a few resources to help you start your journey:-
 -   [Frequently Asked Questions](/wiki/FAQ) - find out the basics of the game.
 -   [osu!academy](PT:Osu!academy "wikilink") - Videos to help you familiarise every aspects of osu!
 -   [Tips and Tricks to Getting A Start in osu!](PT:Beginner "wikilink") - Need a bit of help? Check here!
-

@@ -125,5 +125,3 @@ Las guidelines (pautas) son importantes y deben ser seguidas en la mayoría de l
 -   '''Evita sobrepasar 5.0x en la carga del storyboard para prevenir lag en computadores antiguos: '''
 -   '''Guidelines para puntajes en general: '''
 -   '''El numero de beatmaps creados por un invitado no debe exceder el numero de beatmaps de la persona que sube el Mapset: '''
-
- 

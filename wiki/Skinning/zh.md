@@ -76,5 +76,3 @@
 -   **暂停和失败背景图套**
     -   section-pass.png
     -   section-fail.png
-
-

@@ -93,5 +93,3 @@
 | 8K                 | Dance Dance Revolution (Double)    |
 | 8K(R)              | Beatmania IIDX(P2)                 |
 | 8K (L)             | Beatmania IIDX(P1)                 |
-
-   

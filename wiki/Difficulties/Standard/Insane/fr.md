@@ -31,5 +31,3 @@ Le défaut le plus couramment rencontré sur les Insane en cours de mapping est 
 1. Les [jumps](FR:Jumps) et modifications brutales de la vitesse des sliders ne doivent être appliqués que lorsqu'ils suivent la musique. S'il ne s'agit pas d'une note importante (qui ne se différencie pas des autres), il est inutile d'utiliser ces techniques. Les Insanes ne servent pas à montrer votre talent à créer des maps difficiles ; le but que vous devez viser est plutôt de créer une map fun, agréable à jouer, tout en gardant un minimum de difficulté.
 
 2. Les critères de ranking n'imposent pas que toutes les mapsets doivent avoir une Insane. Si vous trouvez votre Insane ennuyante et que vous n'arrivez pas à produire quelque chose d'original, peut-être devriez-vous songer à la supprimer et publier le mapset sans.
-
-

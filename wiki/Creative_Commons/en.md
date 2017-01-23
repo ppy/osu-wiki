@@ -14,5 +14,3 @@ Some audio portals host free audio tracks under these very licenses, Here is a l
 Remember, that you should read the copyright license and make sure it is a license that allows you to use their work freely or non commercially as long as credit is given.
 
 [For further reference, click here for wikipedia article.](wikipedia:Creative_Commons "wikilink")
-
-

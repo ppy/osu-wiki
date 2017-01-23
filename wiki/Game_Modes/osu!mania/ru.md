@@ -100,5 +100,3 @@
 -   [Тема на форуме](http://ha.ppy.sh/forum/p/1284932)
 -   [варианты раскладок управления](http://puu.sh/I6wO)
 -   [пример геймплея на YouTube](http://www.youtube.com/watch?v=y-Af27ZNujg) (не Auto)
-
-  

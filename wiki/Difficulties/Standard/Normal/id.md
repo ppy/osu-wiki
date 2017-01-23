@@ -28,5 +28,3 @@ Berjuanglah dengan map buatanmu!
 ^^Yah, apabila kamu tidak meletakkan slider 1/4 di mana mana. Atau slider 1/2 juga dalam hal tersebut. Salah satu [anggota BAT](ID:Beatmap_Appreciation_Team) pernah dibuat marah melalui PM (Pesan Pribadi) mengenai hal ini.
 
 Bila masih ada beberapa hal yang kurang jelas mengenai hal ini, bisa langsung menghubungi pada beberapa mapper yang memang sudah bisa dan bisa juga langsung menghubungi anggota [BNG](ID:Beatmap_Nomination_Group) untuk beberapa pencerahan mengenai cara mapping tingkat kesulitan Normal.
-
-

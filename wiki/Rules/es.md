@@ -62,5 +62,3 @@ Reglas del Cliente
 ------------
 Los tramposos serán baneados y restringidos permanentemente a la primera ofensa y se verán obligados a esperar 6 meses COMO MÍNIMO antes de que puedan apelar el ban. Simplemente no hagas trampas. Los baneos son aplicados por error rara vez, o nunca.
 La violación de cualquiera de estas normas dará lugar a que el infractor se le aplique ya sea un silencio o una restricción. Usuarios silenciados no pueden chatear, publicar en los foros, actualizar sus beatmaps o jugar en partidas multijugador. Los usuarios restringidos tienen todas las penas que los usuarios silenciados, además de no poder enviar sus puntuaciones o jugar en línea de ninguna manera. Las restricciones son GRAVES y sólo pueden ser revocadas por un miembro del personal de soporte al jugador, accesible a través del correo accounts@ppy.sh o del chat de soporte en vivo, el cual suele estar disponible de forma periódica en todas las páginas del sitio web.
-
- 

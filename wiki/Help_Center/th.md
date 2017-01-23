@@ -637,4 +637,3 @@ Some other quick solutions to improve performance.
 <!-- -->
 
 -   Certain resolutions automatically set the game up to use High Definition textures. Set LowResolution to 1 in the config to force the game to use the normal resolution textures for any resolution. Do this by turning off osu! and opening your .cfg file with a text editor. It will be the name of your computer user in your osu! folder. Save changes
-

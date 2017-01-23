@@ -9,5 +9,3 @@ Note que isso é apenas uma sugestão geral. As configurações de dificuldade v
 -   Circle Size: 4 ou 5
 -   Approach rate: 6 ou mais
 -   Overall Difficulty: 6 ou mais
-
-

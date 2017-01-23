@@ -281,5 +281,3 @@ Credits
 -   Peter Lambert - osu! tutorial ([原版教程谱面](http://osu.ppy.sh/s/3756), [Ranked版教程谱面](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   维基百科 [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
-
-

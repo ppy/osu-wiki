@@ -66,4 +66,3 @@
 <img src="O!s Duration.jpg" title="fig:เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." alt="เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." width="200" /> หลังจากจ่ายเงินเป็นที่เรียบร้อยแล้ว ที่หน้าโปรไฟล์ของคุณจะขึ้น (ถ้าคุณเป็นครั้งแรก) "{ชื่อบัญชีของคุณที่นี่} has become an osu! supporter - thanks for your generosity!" หรือ (เคยเป็นมาแล้วแต่เป็นอีก) "{ชื่อบัญชีของคุณที่นี่} has once again chosen to donate to the osu! cause - thanks for your generosity!" ถ้าคุณซื้อให้ตัวเอง คุณจะเห็นตรา osu!supporter ใต้รูปโปรไฟล์ของคุณ ถ้าจะเช็คว่าเมื่อไหร่ supporter tag จะหมดอายุ [ก็ให้กลับไปที่เดิมที่เคยเสียเงิน](http://osu.ppy.sh/p/support).
 
 <img src="Osu!support mail-gifted.png" title="fig:อีเมล์ที่ว่า" alt="อีเมล์ที่ว่า" width="200" /> อ้อ ลืมไป และคุณจะได้รับอีเมล์ "ขอบคุณ" จาก osu! ด้วย ตัวอย่างอยู่ทางขวามือ
-

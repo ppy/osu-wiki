@@ -472,5 +472,3 @@ Increase</p></td>
 -   2008년 9월 2일 : Flashlight 모드의 배율을 1.12로 변경.
 -   2008년 9월 12일 : Auto , SpunOut 모드 추가.
 -   2012년 12월 21일 : NoVideo 모드 삭제.
-
-

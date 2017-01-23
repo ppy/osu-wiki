@@ -28,5 +28,3 @@ Anggota Tim
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanyol |
 | [Tom94](https://osu.ppy.sh/u/1857058) | Jerman |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | Belanda |
-
-

@@ -281,5 +281,3 @@ Win condition: Team with highest total team score wins the match.
 |------------------------------------------------------|
 | [1st+2nd](//www.mediafire.com/?ab6j6k4ihtp25o2)      |
 | Streams provided by [dvorak](//osu.ppy.sh/u/271359). |
-
-

@@ -138,4 +138,3 @@ Berikut adalah beberapa sumber yang dapat membantumu berpetualang:-
 -   [Hal yang Sering Ditanyakan](/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
 -   [osu!academy](ID:Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
 -   [Tips dan Trik untuk Memulai osu!](ID:Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
-

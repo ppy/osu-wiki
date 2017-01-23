@@ -59,7 +59,3 @@ Click on the image to be taken to corresponding episode.
 | [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](http://www.youtube.com/watch?v=s2ZK4o8V5tI "Episode 31")   | In this episode, we will go further in-depth about guest difficulties and other beatmap contributions!                                                            |
 | [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](http://www.youtube.com/watch?v=wa_hNegtBw0 "Episode 32")   | In this episode, we will go over the new ranking system!                                                                                                          |
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Episode 33")   | In this episode, we will cover more advanced editor tips!                                                                                                         |
-
-
-
-

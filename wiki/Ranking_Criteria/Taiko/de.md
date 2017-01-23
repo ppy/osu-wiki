@@ -60,5 +60,3 @@ Versuch mindestens einen 1/2-Takt zwischen der Note und dem Spinner Platz zu las
 -   **Selbsterstellte Hitsounds**
 
 Selbsterstellte Hitsounds müssen im Zusammenhang mit Trommeln stehen. Wenn Sie selbsterstellte Hitsounds benutzen, sollten die Töne für die Dons tief/niedrig und für die Kats hoch/leicht sein.
-
-   

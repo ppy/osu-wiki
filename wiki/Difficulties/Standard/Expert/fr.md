@@ -19,5 +19,3 @@ Paramètres de la map
 -   OD (Overall Difficulty/Difficulté générale): 8+
 
 ![Paramètres de mapping potentiels pour une difficulté Expert.](Expertsetup.png "Paramètres de mapping potentiels pour une difficulté Expert.")
-
-

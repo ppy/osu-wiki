@@ -22,5 +22,3 @@ Siehe auch
 
 -   [Ranking Kriterien](DE:Ranking_Criteria "wikilink")
 -   [Wie wird eine Beatmap gerankt? - Die Anleitung (Forum Post)](https://osu.ppy.sh/forum/t/210406)
-
-

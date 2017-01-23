@@ -557,5 +557,3 @@ Generally said: DCP-Style charting cares more about the songs rhythm and its pit
 **BMS Style**
 
 Will be added soon!
-
- 

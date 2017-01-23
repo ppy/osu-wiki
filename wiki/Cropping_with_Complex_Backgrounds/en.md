@@ -41,5 +41,3 @@ Finish
 | <img src="CCB-6.png" title="CCB-6.png" alt="CCB-6.png" width="150" /> | It's finished. It does not look that great especially ends of hair, but this is only because I wasn't that precise while making this. 
 
                                                                          It can take a little time, but final effect is really good.                                                                            |
-
-

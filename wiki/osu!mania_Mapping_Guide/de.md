@@ -631,5 +631,3 @@ Sobald wir bei einem SV Punkt angekommen sind der schneller ist als das Normale 
 Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr gut dafür ist diese [Guide](https://osu.ppy.sh/forum/t/155780). **(Englisch)**
 
 Probiert einfach mal ein wenig rum. Man kann damit wirklich sehr lustige Maps erstellen.
-
-  

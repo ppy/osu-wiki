@@ -16,5 +16,3 @@ El mayor problema con las dificultades Insane es la existencia del [Overmapping]
 
 1.  Jumps, aumentos de velocidad de Slider, y otras técnicas de aumento de dificultad deberían ser usado solo cuando "encajen en la música". Si no hay un cambio repentino que requiera (o pueda ser perfectamente complementado con) [técnicas de aumento de dificultad](ES:Mapping_techniques#Difficulty_Increasing_Techniques), entonces simplemente no los añadas. Las Insanes no son para enseñar cuán duro puedes hacer un beatmap/mapa, sino cómo de bien puedes hacer un mapa que sea difícil pero divertido.
 2.  El mapa puede no necesitar un Insane. Si sientes que tu mapa es muy aburrido sin añadir una gran cantidad de técnicas de aumento de dificultad, entonces tal vez tu Beatmap no necesita una dificultad Insane. No se requieren estas dificultades, y estarás bien sin una.
-
-

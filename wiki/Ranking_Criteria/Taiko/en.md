@@ -61,5 +61,3 @@ Guidelines are important and should be followed in most maps. However, they are 
 <!-- -->
 
 -   **Custom hitsounds must be drum-related.** If custom hitsounds are used, they should have deeper/lower tone set as don and a higher/lighter tone as kat.
-
-   

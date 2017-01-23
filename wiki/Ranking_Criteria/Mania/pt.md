@@ -82,5 +82,3 @@ Observação: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">e 10K</
 | <span style="text-decoration:line-through;">20K</span> | <span style="text-decoration:line-through;"></span>                             |
 
 Não incluido: Keyboardmania (Light+, Real) \[24K\] e (Double) \[48K\].
-
-  

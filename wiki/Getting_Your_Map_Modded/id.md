@@ -35,5 +35,3 @@ Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, k
 -   Jangan menjadi orang yang menyebalkan di forum maupun di chat. Jika banyak orang tidak suka denganmu, maka mereka tidak akan mau mengemod mapmu. Siapa yang mau membantu orang yang tidak disukainya?
 
 Semoga beruntung dengan mapmu!
-
-

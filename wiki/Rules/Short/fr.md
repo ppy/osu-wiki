@@ -27,4 +27,3 @@
 |                                                                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Règlement complet](FR:Rules "wikilink") [Règlement de \#french par Shiro](http://osu.ppy.sh/forum/t/190234) [Liens utiles](http://osu.ppy.sh/forum/t/187251) |
-

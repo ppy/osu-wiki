@@ -21,5 +21,3 @@ Bubbleが付けられただけであなたの役目は終わりではありま�
 ----------------------
 
 -   [Ranking Criteria](JP:Ranking_Criteria "wikilink")
-
- 

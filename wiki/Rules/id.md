@@ -62,4 +62,3 @@ Peraturan Klien
 ------------
 Cheaters secara permanen dilarang dan dibatasi pada pelanggaran pertama dan terpaksa menunggu 6 bulan MINIMUM sebelum mereka dapat mengajukan banding larangan tersebut. Hanya saja, janganlah untuk melakukan hal tersebut. Pelarangan ini pada umumnya jarang, jika pernah, akan menyebabkan kerusakan.
 Melanggar salah satu aturan ini, hasilnya adalah pelaku akan dikenakan dengan dua pilihan yaitu dibungkam atau dibatasi. Pengguna yang dibungkam tidak bisa mengobrol, mempost di forum, memperbarui beatmaps mereka, atau bermain game multiplayer. Pengguna yang dibatasi memiliki semua hukuman dari pengguna yang dibungkam, bersama dengan tidak mampu untuk mengirimkan skor atau bermain online dalam kapasitas apapun. Pembatasan ini SERIUS, dan hanya dapat dicabut oleh anggota staf pendukung pemain yang dapat diakses melalui accounts@ppy.sh atau dukungan obrolan langsung secara berkala tersedia pada semua halaman website.
-

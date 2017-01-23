@@ -53,5 +53,3 @@ Grupo de usuários
 | [osu!news](http://osu.ppy.sh/g/25) | Disponibilizando boas noticias desde 2013 |
 | [Organizadores de Torneios](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Ajudam você a aproveitar o osu!, garantindo a qualidade dos beatmaps. |
-
-

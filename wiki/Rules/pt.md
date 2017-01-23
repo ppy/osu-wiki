@@ -64,4 +64,3 @@ Regras do Cliente
 ------------
 Trapaceiros são banidos permanentemente e restritos na primeira infração e são obrigados a aguardar no MÍNIMO 6 meses antes de poderem recorrer ao banimento. Apenas não faça isso. Banimentos são raramente, isso se já foram, feitos por engano.
 Violar qualquer uma dessas regras pode resultar em um silenciamento ou em uma restrição. Usuários silenciados não podem falar no chat, postar nos fórums, enviar seus beatmaps ou jogar no multiplayer. Usuários restritos possuem todas as penalidades que os usuários silenciados, junto com a impossibilidade de enviar pontuações ou de jogar online de qualquer maneira. Restrição é algo SÉRIO, e só pode ser revogada por um membro do Suporte ao Jogador, acessível via email (accounts@ppy.sh, lembrando que o email deve ser em inglês) ou com o uso do Chat de Suporte que fica periodicamente disponível em todas as páginas do site.
-

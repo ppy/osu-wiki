@@ -6,5 +6,3 @@ Idée générale (Pas nécessaire, peut être modifié selon la préférence du 
 -   Circle Size (Taille des cercles) : 4 ou 5
 -   Approach rate (Fenêtre d'approche) : 6 ou plus
 -   Overall Difficulty (Difficulté générale) : 6 ou plus
-
-

@@ -467,5 +467,3 @@ Visual Settings
 </tr>
 </tbody>
 </table>
-
- 

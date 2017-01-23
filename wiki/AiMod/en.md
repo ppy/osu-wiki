@@ -174,6 +174,3 @@ Messages
 | This mapset needs at least 2 standard diffs. | Standard maps only! | |
 | This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
 | Uninherited timing points conflict with {0} diff. | | |
-
-
-

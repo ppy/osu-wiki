@@ -27,4 +27,3 @@
 |                                                                                           |
 |-------------------------------------------------------------------------------------------|
 | [Peraturan Resmi](ID:Rules "wikilink") [Cara untuk mulai bermain!](ID:Welcome "wikilink") |
-

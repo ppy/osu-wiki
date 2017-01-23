@@ -15,5 +15,3 @@
 [制图者可以使用自定义的难度名](ZH:Mappers "wikilink")，不过请确保难度名能够一眼看出究竟哪个更难或者哪个更简单。否则，请尽量避免使用自定义难度名。
 
 另外[客串难度一般以客串做图的制图者的名字来命名](ZH:Guest_Difficulty "wikilink")（比如kioukiou‘s Hard）
-
-

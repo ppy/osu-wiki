@@ -247,5 +247,3 @@ John: Do you know any good doctor?</p></td>
 </tr>
 </tbody>
 </table>
-
-

@@ -4,5 +4,3 @@
 -   **Circle Size**: 4 или 5
 -   **Approach Rate**: 6 или выше
 -   **Overall Difficulty**: 6 или выше
-
-

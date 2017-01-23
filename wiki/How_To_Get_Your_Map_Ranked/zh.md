@@ -22,5 +22,3 @@
 --------
 
 -   [Rank 准则](ZH:Ranking_Criteria "wikilink")
-
- 

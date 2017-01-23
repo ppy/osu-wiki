@@ -158,5 +158,3 @@ Note: The back transparent leitmotif is based on what mode you played in.
 9.  Return to Song Selection.
 
 Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online
-
-

@@ -31,5 +31,3 @@ Mapeando Catch the Beat
 -----------------------
 
 Desde Abril de 2012, Catch the Beat podem ser incluído em mapsets para ranking, podendo também ser um mapset apenas para este modo. Caso o jogador queira adicionar dificuldades de ctb em um mapset, deve se incluir pelo-menos duas dificuldades e uma delas tem que ser jogavel para iniciantes, no caso de mapsets de taiko ou osu!mania. Para beatmaps de osu!standard, pode se optar por apenas uma dificuldade, desde que o mapset tenha dificuldades para iniciantes. a criação de dificuldades para CtB é quase a mesma que de dificuldades standard, circles sao equivalentes a frutas normais. sliders fazem os juice drops e spinner faz a chuva de bananas. o local onde as notas são colocadas no editor definem onde elas vão aparecer no jogo (incluindo o alinhamento do corpo do slider) porém apenas o angulo vertical é considerado ja que as notas sempre vao cair do topo da tela, sendo assim colocar notas mais no topo ou mais abaixo não faz diferença.
-
-

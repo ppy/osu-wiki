@@ -343,5 +343,3 @@ Le niveau d'un joueur repose uniquement sur le score total du joueur. Le score t
 `26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101`
 
 La progression vers le prochain niveau de difficulté est représentée par une barre qui se complète au fur et à mesure que le joueur progresse. **Note :** Pour passer du niveau 101 au niveau 102, il vous faudra environ 1,25 milliard de points.
-
-    

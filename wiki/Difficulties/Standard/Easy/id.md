@@ -38,5 +38,3 @@ Telihat menarik secara visual
 Karena *Map* nya dianggap mudah, direkomendasikan untuk membuat *map* nya menjadi menarik secara visual karena dengan itu pola nya akan dianggap dan di hargai di *easy*.
 
 Ada banyak hal yang dapat anda lakukan dengan *easy*, jadi bereksperimen lah untuk mengetahui apa yang terbaik untuk anda
-
-

@@ -28,5 +28,3 @@ Limitações
 -   Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](PT:Hit_Objects "wikilink"). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
 -   Sem suporte para loop ou trigger.
 -   Sem comandos de cor ou Move-X/Move-Y.
-
- 

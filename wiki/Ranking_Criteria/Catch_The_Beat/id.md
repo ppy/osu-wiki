@@ -23,5 +23,3 @@ Petunjuk BUKAN peraturan, jadi boleh dilanggar dalam kasus tertentu. Jika kamu i
 <!-- -->
 
 -   **Overall Difficulty sebaiknya memiliki nilai sama dengan Approach Rate.** Ini hanyalah nilai standar, sebagaimana **Overall Difficulty** tidak mempengaruhi permainan maupun jumlah buah pada spinner yang didapat, hanya skor maksimal pada suatu tingkat kesulitan.
-
-  
