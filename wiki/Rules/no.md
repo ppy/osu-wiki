@@ -1,4 +1,7 @@
-Denne siden viser reglene omkring [osu!](osu! "wikilink"). Nedenfor er en detaljert beskrivelse av hver seksjon, og hvordan reglene blir vedtatt.
+Rules - Norwegian
+======================
+
+Denne siden viser reglene omkring [osu!](/wiki/Glossary). Nedenfor er en detaljert beskrivelse av hver seksjon, og hvordan reglene blir vedtatt.
 
 Samfunnsregler
 --------------
@@ -22,12 +25,12 @@ Regler for nettforum
 8.  Reklame og annet innhold av den natur, slik som henvisningslenker, er STRENGT forbudt.
 9.  Innhold som laster automatisk (YouTube videoer, Flash, etc.) er forbudt.
 
-[BSS](BSS "wikilink") Forum Regler
+[BSS](/wiki/Glossary) Forum Regler
 ----------------------------------
 
-Disse reglene er ment for [BSS](BSS "wikilink") ([Beatmap](Beatmap "wikilink") Submission System) tråder. Disse trådene er lagd gjennom osu! klienten når en beatmap er sendt gjennom skapersystemet, [editor](editor "wikilink").
+Disse reglene er ment for [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) tråder. Disse trådene er lagd gjennom osu! klienten når en beatmap er sendt gjennom skapersystemet, [editor](/wiki/Beatmap_Editor).
 
-1.  Ikke lag manuelle tråder i [Pending Submissions](Pending "wikilink") og [WIP](WIP "wikilink") forumene. Bruk passende subforum når du skaper en tråd. (Med unntak av BSS tråder)
+1.  Ikke lag manuelle tråder i [Pending Submissions](/wiki/Beatmaps) og [WIP](/wiki/Glossary) forumene. Bruk passende subforum når du skaper en tråd. (Med unntak av BSS tråder)
 2.  Ikke diskuter annet innhold i BSS tråder. BSS tråder handler om den enkelte beatmap. Hvis du har et problem med noe som ikke handler direkte om dette, lag en tråd i et passende forum.
 3.  Ikke stjel andres beatmap, eller presenter den som om du er skaperen. Ikke last opp en annens arbeid uten deres tillatelse (inkludert skins og andres vanskelighetsgrader).
 
@@ -60,5 +63,6 @@ Regler for osu! klienten
 2.  Endring av spillkomponenter gjennom noen form UNTATT beatmap skins/klient skins blir ansett som juksing, og vil bli alvorlig straffet.
 
 ------------
+
 Juksere vil bli utestengt og begrenses på permanent basis hvis oppdaget, og blir tvunget til å vente 6 måneder MINIMUM før de kan anke utestengningen. Utestengelser blir sjeldent, hvis i hele tatt, gjort feil. Vi tar dette svært seriøst.
 Brudd av disse reglene vil resultere i enten en Silence, eller begrensning av brukerkontoen. Om brukerkontoen din er Silenced, kan du ikke kommunisere, poste på forumet, oppdatere dine beatmaps, eller spille med andre. Begrensede brukerkontoer har alle de samme straffene, sammen med å miste muligheten til å laste opp scores, eller spille online i noen som helst form. Begrensning av brukere er SERIØST, og kan bare bli fjernet av en moderator, som du kan kontakte via accounts@ppy.sh eller live support chat som er online under noen perioder.
