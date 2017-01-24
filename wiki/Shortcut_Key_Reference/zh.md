@@ -34,7 +34,7 @@ Shortcut Key Reference - Chinese
 -   **P-M**: 游戏模式 （[多人游戏](/wiki/Multiplayer)）
 -   **P-S-T**: 游戏模式 （[太鼓歌曲选择](/wiki/Game_Modes/osu!taiko)）
 -   **P-S-C**: 游戏模式 （[接水果歌曲选择](/wiki/Game_Modes/osu!catch)）
--   **P-S-M**: 游戏模式（[osu!mania](/wiki/Game_Modes/Osu!mania) 歌曲选择）
+-   **P-S-M**: 游戏模式（[osu!mania](/wiki/Game_Modes/osu!mania) 歌曲选择）
 -   **E**: 编辑模式（歌曲选择）
 -   **J**: 跳转至(jukebox)
 -   **Z/X/C/V/B**: Jukebox控制（Winamp布局）

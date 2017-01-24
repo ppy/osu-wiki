@@ -8,7 +8,7 @@ Introduction
 Je n’ai jamais joué à "Ouendan", de quoi s'agit-il ?
 ----------------------------------------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) est une série de jeu rythme sortie sur Nintendo DS seulement au Japon. Une version occidentale est sortie sous le nom de [Elite Beat Agents](http://fr.wikipedia.org/wiki/Elite_Beat_Agents) en 2007. Le gameplay du jeu consiste en trois éléments :
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) est une série de jeu rythme sortie sur Nintendo DS seulement au Japon. Une version occidentale est sortie sous le nom de [Elite Beat Agents](http://fr.wikipedia.org/wiki/Elite_Beat_Agents) en 2007. Le gameplay du jeu consiste en trois éléments :
 
 -   Toucher des cercles à l'écran
 -   Suivre le trajet prédéfini d’une balle (sliders)
@@ -341,4 +341,4 @@ Credits
 -   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

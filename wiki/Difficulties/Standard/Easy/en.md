@@ -70,4 +70,5 @@ Spinners
 Spinners should be used sparingly in Easy difficulties - generally ends of mapped parts before a break and the entire song. When using a spinner, make sure the length is fairly long. 2-4 measures is a good guide.
 
 The reasoning is because most new players are going to react slowly to a spinner, so there's a delay in starting them. Then they will also spin wildly, usually drawing along the perimeter of the screen. Once the spinner is complete, they will be most probably disoriented and wondering where their cursor is. This is the reason why if you have a spinner in the middle of a mapped phrase, you should allow for as much time as possible for recovery. A good rule of thumb is 3-4 beats after a spinner, but this can vary depending on BPM. Mappers are also encouraged to place notes/sliders within the center of the play field once a spinner has ended.
+
 Spinners are often used in Easy difficulties in a similar position as to where [Streams](/wiki/Mapping_Techniques/Streams) would be placed on harder difficulty maps.

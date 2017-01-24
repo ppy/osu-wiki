@@ -78,7 +78,7 @@ Für die "1.000 -" und "2.000 Combo" Erfolge sollten Sie nach Approved Beatmaps 
 Dedication
 ----------
 
-**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [Standard](/wiki/Game_Modes/osu!) Modus spielt / Früchte in [Catch the Beat](/wiki/Game_Modes/osu!catch) sammelt / Noten in [Taiko](/wiki/Game_Modes/osu!taiko) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/Osu!mania) drückt.
+**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [Standard](/wiki/Game_Modes/osu!) Modus spielt / Früchte in [Catch the Beat](/wiki/Game_Modes/osu!catch) sammelt / Noten in [Taiko](/wiki/Game_Modes/osu!taiko) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania) drückt.
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

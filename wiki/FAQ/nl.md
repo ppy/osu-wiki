@@ -5,7 +5,7 @@ Het spel
 
 ### "Ouendan"? Nog nooit van gehoord - wat is het?
 
-Oké, dus, Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)) is een ritme-spel bedoeld voor Nintendo DS. De speeltechniek bestaat maar uit drie elementen: het aantikken van de cirkels die op het scherm verschijnen, het slepen van een bal volgens een bepaald traject en het snel ronddraaien van een spinner. Elk van deze elementen is getimed op (covers van) bekende Japanse liedjes. Zo ziet het eruit op de DS:
+Oké, dus, Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) is een ritme-spel bedoeld voor Nintendo DS. De speeltechniek bestaat maar uit drie elementen: het aantikken van de cirkels die op het scherm verschijnen, het slepen van een bal volgens een bepaald traject en het snel ronddraaien van een spinner. Elk van deze elementen is getimed op (covers van) bekende Japanse liedjes. Zo ziet het eruit op de DS:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 

@@ -69,7 +69,7 @@ Les succès **"High Ranker"** s'obtiennent en atteignant une certaine position d
 Consécration
 -------------
 
-Les succès de **Consécration** s'obtiennent : en jouant un grand nombre de parties en mode Standard / en collectant beaucoup de fruits en mode [Catch the Beat](/wiki/Game_Modes/osu!catch) / en frappant un grand nombre de coups en mode [Taiko](/wiki/Game_Modes/osu!taiko) / en jouant de nombreuses notes en mode [osu!mania](/wiki/Game_Modes/Osu!mania).
+Les succès de **Consécration** s'obtiennent : en jouant un grand nombre de parties en mode Standard / en collectant beaucoup de fruits en mode [Catch the Beat](/wiki/Game_Modes/osu!catch) / en frappant un grand nombre de coups en mode [Taiko](/wiki/Game_Modes/osu!taiko) / en jouant de nombreuses notes en mode [osu!mania](/wiki/Game_Modes/osu!mania).
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

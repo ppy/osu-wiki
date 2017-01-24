@@ -4,7 +4,7 @@ Introduzione
 Non ho mai giocato ad "Ouendan" qualcosa - che cos'è?
 -----------------------------------------------------
 
-[Osu! Tatakae! Ouendan](http://it.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) è un gioco ritmico per il Nintendo DS. Il gameplay consiste in tre elementi: cliccare i cerchi sul touchscreen, trascinare una palla su un percorso già tracciato e ruotare uno spinner molto veloce. Tutti questi elementi sono messi a tempo su (cover di) canzoni popolari Giapponesi. Sul Nintendo DS è così:
+[Osu! Tatakae! Ouendan](http://it.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) è un gioco ritmico per il Nintendo DS. Il gameplay consiste in tre elementi: cliccare i cerchi sul touchscreen, trascinare una palla su un percorso già tracciato e ruotare uno spinner molto veloce. Tutti questi elementi sono messi a tempo su (cover di) canzoni popolari Giapponesi. Sul Nintendo DS è così:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 

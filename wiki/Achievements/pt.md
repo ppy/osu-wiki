@@ -68,7 +68,7 @@ Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approv
 Dedication
 ----------
 
-As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](/wiki/Game_Modes/osu!catch) acertar várias vezes os "tambores" do modo [Taiko](/wiki/Game_Modes/osu!taiko) / pressionando varias teclas em [osu!mania](/wiki/Game_Modes/Osu!mania)
+As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](/wiki/Game_Modes/osu!catch) acertar várias vezes os "tambores" do modo [Taiko](/wiki/Game_Modes/osu!taiko) / pressionando varias teclas em [osu!mania](/wiki/Game_Modes/osu!mania)
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

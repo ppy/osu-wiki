@@ -6,7 +6,7 @@ Wstęp
 Czym jest "Ouendan"?
 --------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera. Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek. Na Nintendo DS sama gra wygląda następująco:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) to gra rytmiczna stworzona na konsolę Nintendo DS. Rozgrywka skupia się na trzech elementach: naciskaniu kółek na ekranie dotykowym, przeciąganiu po piłce, która porusza się po określonym torze oraz jak najszybszym kręceniu kółek wzdłuż środka tzw. spinnera. Wszystkie te elementy wykonujemy słuchając (coverów) popularnych japońskich piosenek. Na Nintendo DS sama gra wygląda następująco:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -287,4 +287,4 @@ Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trud
 -   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)

@@ -84,7 +84,7 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 Dedication
 -----------
 
-**The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/osu!catch) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/osu!taiko) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/Osu!mania)).
+**The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/osu!catch) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/osu!taiko) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/osu!mania)).
 
 
 | Standard | Taiko | Catch the Beat | Mania |

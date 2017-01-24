@@ -6,7 +6,7 @@ Perkenalan
 Apa itu "Ouendan"?
 ------------------
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) adalah sebuah game berbasis ritme untuk game konsol Nintendo DS. Permainannya terdiri dari 3 elemen: dengan menyentuh *circle* pada layar sentuh, menggeser bola pada jalur yang sudah ditentukan dan memutar *spinner* dengan sangat cepat. Semua elemen tersebut dibundel ke dalam beberapa lagu populer yang berasal dari Jepang. Kira-kira seperti inilah tampilannya di Nintendo DS:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) adalah sebuah game berbasis ritme untuk game konsol Nintendo DS. Permainannya terdiri dari 3 elemen: dengan menyentuh *circle* pada layar sentuh, menggeser bola pada jalur yang sudah ditentukan dan memutar *spinner* dengan sangat cepat. Semua elemen tersebut dibundel ke dalam beberapa lagu populer yang berasal dari Jepang. Kira-kira seperti inilah tampilannya di Nintendo DS:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -288,4 +288,4 @@ Credits
 -   FAQ dari Peppy[1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Tutorial asli](http://osu.ppy.sh/s/3756), [Versi Ranked](http://osu.ppy.sh/s/19928))
 -   Pokebis: Latihan Untuk Pemula [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)

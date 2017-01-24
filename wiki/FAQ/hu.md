@@ -4,7 +4,7 @@ Bevezető
 Sosem játszottam ezzel az "Ouendan" dologgal - Mi is ez?
 --------------------------------------------------------
 
-Az [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan) egy Nintendo DS-re kiadott ritmusjáték. A játékmenet mindössze három elemből áll: körökre tapintás az érintőképernyőn, egy labda húzása egy rögzített útvonalon és egy pörgettyű nagyon gyors forgatása. Ezek az elemek mind népszerű japán zenékre (vagy azok feldolgozásaira) vannak időzítve. Így néz ki a DS-en:
+Az [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) egy Nintendo DS-re kiadott ritmusjáték. A játékmenet mindössze három elemből áll: körökre tapintás az érintőképernyőn, egy labda húzása egy rögzített útvonalon és egy pörgettyű nagyon gyors forgatása. Ezek az elemek mind népszerű japán zenékre (vagy azok feldolgozásaira) vannak időzítve. Így néz ki a DS-en:
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
@@ -337,4 +337,4 @@ Készítők
 -   peppy GYIK-je [1](http://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis kezdőknek szánt listája [2](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [3](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

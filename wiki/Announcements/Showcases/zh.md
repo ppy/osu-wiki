@@ -17,7 +17,7 @@ osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了�
 ### osu!mania
 
 [osu!mania World Cup 2014](/wiki/Announcements/Tournaments/MWC/2014)
-[osu!mania 4K World Cup 2015](/wiki/Announcements/Tournaments/MWC/2015)
+[osu!mania 4K World Cup 2015](/wiki/Announcements/Tournaments/MWC/2015/4K)
 [osu!mania 7K World Cup 2016](/wiki/Announcements/Tournaments/MWC/2016/7K)
 
 ### 其他

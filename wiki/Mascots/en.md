@@ -231,4 +231,4 @@ Don is the protagonist of the Taiko no Tatsujin series. He is a taiko drum with 
 Image gallery
 =============
 
-[Click here to go to image gallery.](Gallery/en.md "wikilink")
+[Click here to go to image gallery.](/wiki/Mascots/Gallery "wikilink")

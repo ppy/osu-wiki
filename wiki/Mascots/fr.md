@@ -231,4 +231,4 @@ Don est le protagoniste de la série de jeux Taiko no Tatsujin. Il ressemble à 
 Galerie d'images
 ================
 
-[Cliquez ici pour voir la galerie.](Gallery/en.md "wikilink")
+[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery "wikilink")

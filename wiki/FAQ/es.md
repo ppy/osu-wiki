@@ -344,5 +344,5 @@ Créditos
 -   FAQ viejo de peppy
 -   Peter Lambert - osu! tutorial ([Tutorial original](http://osu.ppy.sh/s/3756), [Versión rankeada](http://osu.ppy.sh/s/19928))
 -   Entrenamiendo para principiantes de Pokebis [1](http://osu.ppy.sh/forum/t/5456)
--   Wikipedia [2](http://en.wikipedia.org/wiki/Game_Modes/osu!!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)

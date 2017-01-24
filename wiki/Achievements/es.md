@@ -70,7 +70,7 @@ Para el logro de 1,000 y 2,000 combo, Debe ser un beatmap en estado "Aprobado". 
 Dedicación (Dedication)
 ------------------------
 
-Los logros por **Dedicación (Dedication)** pueden ser obtenidos por (Jugando continuamente en modo Standard / Recoger muchas frutas en modo [Catch the Beat (CTB)](/wiki/Game_Modes/osu!catch) / golpear un montón de golpes los tambores en modo [Taiko](/wiki/Game_Modes/osu!taiko) / presionando muchas teclas en [osu!mania](/wiki/Game_Modes/Osu!mania)).
+Los logros por **Dedicación (Dedication)** pueden ser obtenidos por (Jugando continuamente en modo Standard / Recoger muchas frutas en modo [Catch the Beat (CTB)](/wiki/Game_Modes/osu!catch) / golpear un montón de golpes los tambores en modo [Taiko](/wiki/Game_Modes/osu!taiko) / presionando muchas teclas en [osu!mania](/wiki/Game_Modes/osu!mania)).
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

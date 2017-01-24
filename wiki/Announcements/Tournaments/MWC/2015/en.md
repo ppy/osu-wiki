@@ -3,7 +3,7 @@ osu!mania 4K World Cup 2015
 
 ![MWC 2015 logo](logo.png)
 
-The **osu!mania 4K World Cup 2015** (***MWC 4K 2015*** ) is a country-based osu!mania 4-key tournament hosted by the [osu! staff](//osu.ppy.sh/wiki/People/The_Team). It is the 2nd installment of the osu!mania World Cup. It lasts from the 13th July till 27th September 2015.
+The **osu!mania 4K World Cup 2015** (***MWC 4K 2015*** ) is a country-based osu!mania 4-key tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 2nd installment of the osu!mania World Cup. It lasts from the 13th July till 27th September 2015.
 
 Tournament schedule
 ------------------------

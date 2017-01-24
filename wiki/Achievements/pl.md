@@ -70,7 +70,7 @@ Osiągnięcia **The High Ranker** mogą zostać otrzymane poprzez zdobycie okre�
 Dedication
 -----------
 
-Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/osu!catch) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/osu!taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/Osu!mania).
+Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/osu!catch) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/osu!taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/osu!mania).
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |

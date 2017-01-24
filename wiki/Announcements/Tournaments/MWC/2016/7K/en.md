@@ -3,7 +3,7 @@ osu!mania 7K World Cup 2016
 
 ![MWC 7K 2016 logo](logo.png)
 
-The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) is a country-based osu!mania 7-key tournament hosted by the [osu! staff](//osu.ppy.sh/wiki/People/The_Team). It is part of the 2nd installment of the osu!mania World Cup.
+The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) is a country-based osu!mania 7-key tournament hosted by the [osu! staff](/wiki/People/The_Team). It is part of the 2nd installment of the osu!mania World Cup.
 
 Tournament schedule
 -------------------------
@@ -425,7 +425,7 @@ Ruleset
 
 5.  Mapset selectors may not participate as a player in this tournament.
 
-**[Visit this page to sign-up!](//osu.ppy.sh/wiki/Announcements/Tournaments/MWC/2016/7K)**
+**[Visit this page to sign-up!](/wiki/Announcements/Tournaments/MWC/2016/7K)**
 
 ### Stage Instructions
 
