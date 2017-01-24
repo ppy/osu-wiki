@@ -82,7 +82,7 @@ You can see the circles on the bottom screen, and on the top screen you have the
 ### How do I play?
 _Full explanation: [osu!][osu! wikilink]_
 
-While most PC users will not have a touchscreen at their disposal, the game was made to be playable with a normal mouse, as well as any number of input devices. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most PC users may not have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Game-play Basics
 _Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
@@ -124,7 +124,11 @@ Sometimes, as seen in the screenshot above, you may have to follow the ball back
 
 This is a spinner.
 
-You will have to click and hold the hit-button. From there, you will have to use the mouse (or your finger/pen) and spin in a circular motion (clockwise or counterclockwise) before the time (blue circle line) runs out. The gauges on the outside of the spinner will indicate how close you are to passing the spinner. The small box below the spinner shows your spins per minute. The number inside that box translates to the number of spins you could make, if you were to continue to spin the spinner at that speed for one minute. Know that you will be unable to spin the spinner if you did not hold any of the hit-buttons prior to spinning.
+You will have to click and hold the hit-button. From there, use the mouse (or your finger/pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A _Clear_ notice will appear to indicate that the spinner was completed. If the spinner was cleared early, continue spinning to collect score bonus and gain some health back.
+
+The outer white circle shows how much time left to complete the spinner. This circle will turn red to notify that time is almost out. Older beatmaps, using skin version 1.0, will have a meter/gauge to indicate how close to clearing the spinner.
+
+The small box below the spinner shows your spins per minute. The number inside that box translates to the number of spins you could make, if you were to continue to spin the spinner at that speed for one minute. Know that you will be unable to spin the spinner, if you did not hold any of the hit-buttons prior to spinning.
 
 On the DS, this is a good way to scratch your touchscreen (or screen protectors), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto][Auto wikilink] game modifier spins while the [Spun Out][Spun Out wikilink] game modifier spins slower at 286 spins per minute.
 
@@ -133,7 +137,7 @@ On the DS, this is a good way to scratch your touchscreen (or screen protectors)
 
 This is the in-game interface for osu!.
 
-The top left bar is your health. This will decrease at a steady rate (depending on the beatmap difficulty set by the mapper), but you can replenish it by tapping notes at the right time. A perfectly timed hit (a 300 or Geki) will increase your health more than a badly timed hit (50). A total miss will take a good chunk of your health out.
+The top left bar is your health. This will decrease at a steady rate (depending on the beatmap difficulty set by the mapper), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will increase your health more than a badly timed hit (50). A total miss will take a good chunk of your health out.
 
 On the right of the health bar is your score. Below that is your accuracy. The circle beside your accuracy (and below your score) is a timer for the duration of the beatmap. The number on the bottom left is your combo counter/score multiplier.
 
@@ -171,9 +175,9 @@ Please note that health drain is disabled in osu!taiko, so only the hitobjects w
 
 Each hitcircles will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes) respectively.
 
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the TaTaCon. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the TaTaCon. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point.
+If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the TaTaCon. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the TaTaCon. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point).
 
-The notes must be pressed or hit when reached the small white judgment circle next to the drum. Hitting the wrong colour, or both at the same time, will be considered a miss.
+The notes must be pressed or hit when reached the small white judgement circle next to the drum. Hitting the wrong colour, or both at the same time, will be considered a miss.
 
 ##### Drumrolls
 ![Taiko drumroll][Taiko drumroll image]
@@ -189,17 +193,17 @@ Drumrolls can be ignored with no health penalty, as it does not recover the heal
 
 These appear as spinners, with a countdown displaying the number of hits remaining (denden counter) to clear it, and a shirking blue circle showing the time left to clear it.
 
-Hit the inner and outer drum _in order_ (like red,blue, red,blue, red,blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur health penalty. Hitting the same colour will not decrement the denden counter, until a different colour was hitted instead.
+Hit the inner and outer drum _in order_ (like red,blue, red,blue, red,blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour was hitted instead.
 
-It does not increment the combo counter, and recover healthbar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect large note score.
+It does not increment the combo counter, and does not recover the healthbar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
 #### Controls
 The default controls for the osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
 ---|---|---|---
-Red |Left click|`X` or `C`|Flat surface of the drum
-Blue|Right click|`Z` or `V`|Outer surface of the drum
+Red |Left click|`X` / `C`|Flat surface of the drum
+Blue|Right click|`Z` / `V`|Outer surface of the drum
 
 The placement of in-game cursor does not matter when playing.
 
@@ -213,7 +217,7 @@ _osu!catch_ (previously known as _Catch the Beat_) is the second game mode added
 Instead of clicking circles, you are now tasked to move the catcher at the bottom of the screen while the fruits fall from above.
 
 #### Basic explanation
-All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate. Timing and where it falls on the plate does not matter; either a full score for successful catch or miss (except for bananas).  
+All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate. Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.  
 
 ##### Fruits
 ![Fruits][Fruits image]
@@ -223,9 +227,9 @@ Fruits are the hitcircles of osu!catch, and it rains down from top of the screen
 ##### Fruit trails
 ![Fruit trails][Fruit trails image]
 
-Fruit trails are the sliders of osu!catch. A typical fruit trail will contains two fruits (start and end), droplets (sliderpath), juice droplet (sliderticks), and more fruits for each repeat points along with a reversed sliderpath. Droplet gives 10pt each and treated as 50 in result screen. Juice droplet gives 30pt each, increment combo by 1, and treated as 100 in result screen.
+Fruit trails are the sliders of osu!catch. A typical fruit trail will contains two fruits (start and end), droplets (sliderpath), juice drop (sliderticks), and more fruits for each repeat points along with a reversed sliderpath. Droplet gives 10pt each and treated as 50 in result screen. Juice drop gives 30pt each, increment combo by 1, and treated as 100 in result screen.
 
-Missing the juice droplet will break the combo (as it is a slidertick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_. Miss Droplet notably affects accuracy (missed out the droplet, which is a 50) and score (10pt for each droplet missed).
+Missing the juice drop will break the combo (as it is a slidertick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_. Miss Droplet notably affects accuracy (missed out the droplet, which is a 50) and score (10pt for each droplet missed).
 
 ##### Bananas
 ![Bananas][Bananas image]
@@ -264,21 +268,21 @@ When converting an osu!standard beatmap, the default key range would be around 4
 ##### Playfield
 ![osu!mania playfield][osu!mania playfield image]
 
-By default, the flow of the hitobjects falls from top to bottom of the convenyor (the starting arrow will show where hitobjects will flow to), with the key control at the bottom and the judgment barline above the key control. To reverse the control and flow of the playfield, it can be changed in the Options sidebar; click on _osu!mania layout_ to set osu!mania keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+By default, the flow of the hitobjects falls from top to bottom of the convenyor (the starting arrow will show where hitobjects will flow to), with the key control at the bottom and the judgement barline above the key control. To reverse the control and flow of the playfield, it can be changed in the Options sidebar; click on _osu!mania layout_ to set osu!mania keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
 
 Healthbar is located at the right side of the conveyor belt. Please note that health drain is disabled in osu!mania, so only the hitobjects will affect the healthbar. Combo will not break when playing the keys on empty judgement barline.
 
 ##### Tapbars
 ![osu!mania's tapbars][osu!mania tapbars image]
 
-Tapbars are the hitcircles of osu!mania. Tapbars are falling bars to be tapped on the judgement barline, with correct key corresponding to each of the tapbar falls into. More correct keys must be tapped simultaneously if the tapbars fall simulatneously.
+Tapbars are the hitcircles of osu!mania. Tapbars are falling bars to be tapped on the judgement barline, with correct key corresponding to each of the tapbar falls into. More correct keys must be tapped simultaneously if the tapbars fall simultaneously.
 
 ##### Holdbars
 ![osu!mania's Holdbars][osu!mania Holdbars image]
 
 Holdbars are the sliders and spinners of osu!mania. When the holdbar reached the judgement barline, tap the starting tapbar in time with correct key, hold, and release at the ending tapbar of the holdbar.
 
-While holding the holdbar(s), the healthbar will be charged slowly. Depending on the difficulty, it is possible that other tapbars or holdbars will appear while holding the holdbar(s), so please take that into account.
+While holding the holdbar(s), the healthbar will be charged slowly. Depending on the song and mapping quirks, it is possible that other tapbars or holdbars will appear while holding the holdbar(s), so please take that into account.
 
 #### Controls
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
