@@ -145,7 +145,7 @@ On the right of the health bar is the score. Below that is the accuracy. The cir
 ---
 
 ## Alternative Game Modes
-### How to change the game mode
+### Changing the game mode
 ![Mode change interface][Mode Interface image]
 
 _Image showcasing the Mode toolbox in Song Selection (Solo)_
