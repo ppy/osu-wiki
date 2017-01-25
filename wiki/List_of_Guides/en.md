@@ -46,7 +46,7 @@ Mapping Techniques
 ------------------
 
 -   [Mapping Techniques](/wiki/Mapping_Techniques)
--   [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Slider)
+-   [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
 -   [How to do 15° Patterns](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Modding Info

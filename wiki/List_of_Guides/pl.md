@@ -44,7 +44,7 @@ Techniki mapowania
 ------------------
 
 -   [Techniki mapowania](/wiki/Mapping_Techniques)
--   [Jak tworzyć dobre slidery?](/wiki/Mapping_Techniques/Making_Good_Slider)
+-   [Jak tworzyć dobre slidery?](/wiki/Mapping_Techniques/Making_Good_Sliders)
 -   [Jak zrobić patterny 15°?](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Informacje o modowaniu

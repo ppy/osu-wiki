@@ -48,7 +48,7 @@ Daftar Teknik Mapping
 ---------------------
 
 -   [Daftar Teknik Mapping](/wiki/Mapping_Techniques)
--   [Membuat Slider yang Bagus](/wiki/Mapping_Techniques/Making_Good_Slider)
+-   [Membuat Slider yang Bagus](/wiki/Mapping_Techniques/Making_Good_Sliders)
 -   [Bagaimana cara membuat Motif 15°](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Info Modding

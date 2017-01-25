@@ -44,7 +44,7 @@ Técnicas de Mapping
 -------------------
 
 -   [Técnicas de Mapping](/wiki/Mapping_Techniques)
--   [Haciendo buenos sliders](/wiki/Mapping_Techniques/Making_Good_Slider)
+-   [Haciendo buenos sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
 -   [Cómo hacer patrones de 15°](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
 
 Información de Modding
