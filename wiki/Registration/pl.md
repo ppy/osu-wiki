@@ -2,7 +2,7 @@ Jak się zarejestrować?
 ----------------------
 
 <center>
-**<font size="3">Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z <span class="plainlinks"> \[<http://osu.ppy.sh/wiki/Osu>!:Rules zasadami osu!\]</span>. Aby stworzyć konto, wykonaj następujące kroki.**
+**<font size="3">Pamiętaj, że posiadanie więcej niż jednego konta jest niezgodne z <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules zasadami osu!\]</span>. Aby stworzyć konto, wykonaj następujące kroki.**
 </font>
 <span style="font-size:18px">1. Na <span class="plainlinks"> [stronie osu!](https://osu.ppy.sh)</span> naciśnij „<b>I'm new!</b>”, aby się zarejestrować. </span>
 

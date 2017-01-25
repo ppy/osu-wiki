@@ -70,5 +70,3 @@ Dadurch wird ein Bild (Sprite) deklariert, was sich auf die "Play2-HaveFunH.png"
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
 Die Deklarierung einer Animation, dessen Frames als "explosion0.png", "explosion1.png", ..., "explosion11.png" im Ordner "Play3" in dem Unterordner "Other" zu finden sind. Das Bild erscheint im unteren, mittigen Feld (418,108) in der Fail Ebene auf dem Bildschirm. Die Animation besteht aus 12 Frames (deshalb wird der letzte Frame auch "explosion11.png" genannt) und Frames wechseln alle 31 Millisekunden (31 \* 12 = 372 Millisekunden für eine komplette Animation). Nachdem der letzte Frame für 31 Millisekunden angezeigt wurde, fängt die Animation wieder von vorne an und zwar solange bis das Objekt entfernt wird.
-
-(Category:Deutsch)

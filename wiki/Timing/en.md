@@ -34,5 +34,3 @@ A regular timing section is displayed as a red line in the editor. Every map has
 Inherited timing sections are displayed as a green line in the editor. These do not actually change the song's timing. What inherited timing sections do is let you change the map's [hitsound](Hitsounds "wikilink")'s volume, the hitsounds themselves, [slider speed](slider_speed "wikilink"), etc. for that section without modifying the song's timing (which would happen with a regular timing section).
 
 These two types of timing sections are also commonly referred to as "red offsets" and "green offsets" respectively.
-
-[Category: Beatmapping](Category:_Beatmapping "wikilink") [Category: Edit mode](Category:_Edit_mode "wikilink")

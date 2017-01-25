@@ -28,5 +28,3 @@ Unrank ![](heartpop.gif "fig:heartpop.gif")
 L’erreur est humaine. C’est pourquoi si une map contient une énorme erreur après avoir franchi toutes les étapes d’approbation, alors elle peut se faire retirer son rank temporairement (on dit aussi “se faire unrank”). Si votre map se voit retirer son rank, il est recommandé de discuter avec le BAT qui en est la cause afin de rectifier ce qui ne va pas pour pouvoir ensuite ranker votre map à nouveau aussi vite que possible.
 
 Note: Il peut arriver que l’on vous demande de modifier certaines choses que vous ne voulez pas changer. Dans certains cas, vous pouvez vous en sortir sans avoir à y toucher mais si la moitié des BAT vous dit de le changer, alors mettez votre orgueil de côté et changez-le.
-
-<Category:Beatmapping/FR>

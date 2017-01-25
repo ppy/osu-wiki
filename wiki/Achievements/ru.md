@@ -19,15 +19,15 @@
 
 -   Скачайте нужный архив из списка: [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t), или же скачайте карты из него по отдельности.
 -   Распакуйте архив в папку Songs, которая находится в директории osu!, и нажмите F5 на экране с картами.
--   Выберите [стандартный режим](/wiki/Game_Modes/Standard/ru.md) игры. Можно пользоваться любыми модами, кроме внеранговых (автопилот, релакс и т.д.)
+-   Выберите [стандартный режим](/wiki/Game_Modes/osu!) игры. Можно пользоваться любыми модами, кроме внеранговых (автопилот, релакс и т.д.)
 -   Пройдите любую сложность одной карты до конца.
 -   Если всё сделано правильно, на странице со списком архивов напротив карты будет написано **CLEARED**.
 -   Пройдите таким же образом остальные карты и убедитесь, что засчитано прохождение каждой из них.
 
 Примечания:
 
--   У некоторых карт *может* быть сбит [тайминг](/wiki/Timing/ru.md), поэтому Вам может понадобиться [мод Easy](/wiki/Game_Modifiers/ru.md) или настройка оффсета с помощью клавиш +/- (во время игры).
--   Архивы были обновлены Stefan'ом в январе 2016 года, с оригинальными версиями [можно ознакомиться здесь](/wiki/Achievements/Beatmap_Pack_Achievements/ru.md).
+-   У некоторых карт *может* быть сбит [тайминг](/wiki/Timing), поэтому Вам может понадобиться [мод Easy](/wiki/Game_Modifiers) или настройка оффсета с помощью клавиш +/- (во время игры).
+-   Архивы были обновлены Stefan'ом в январе 2016 года, с оригинальными версиями [можно ознакомиться здесь](/wiki/Achievements/Beatmap_Packs_Achievements).
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -43,7 +43,7 @@
 
 Требуется набрать комбо некоторой длины при игре в стандартном режиме.
 
--   Карта, которую Вы будете играть, должна быть [ранкнутой](/wiki/Beatmaps/ru.md) или [аппрувнутой](/wiki/Beatmaps/ru.md).
+-   Карта, которую Вы будете играть, должна быть [ранкнутой](/wiki/Beatmaps) или [аппрувнутой](/wiki/Beatmaps).
 
 | Combo | The High Ranker |
 | :---: | :-------------: |
@@ -68,7 +68,7 @@
 Секретные (Hush-Hush)
 ----------------------
 
-Вы должны сами угадать, что нужно сделать для получения ачивки. Иногда подсказка содержится в названии достижения. Примечание: в настоящее время обсуждать ачивки этой категории нельзя, за это полагается [сайленс](/wiki/Game_Modes/Glossary/ru.md).
+Вы должны сами угадать, что нужно сделать для получения ачивки. Иногда подсказка содержится в названии достижения. Примечание: в настоящее время обсуждать ачивки этой категории нельзя, за это полагается [сайленс](/wiki/Game_Modes/Glossary).
 
 | ![Don't let the bunny distract you!](/wiki/Achievements/img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](/wiki/Achievements/img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](/wiki/Achievements/img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](/wiki/Achievements/img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -79,5 +79,3 @@
 | ![Eclipse](/wiki/Achievements/img/osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](/wiki/Achievements/img/all-secret-reckless.png "Reckless Abandon") |![Tunnel Vision](/wiki/Achievements/img/osu-secret-tunnelvision.png "Tunnel Vision") |![Behold No Deception](/wiki/Achievements/img/osu-secret-deception.png "Behold No Deception") |
 | ![Up For The Challenge](/wiki/Achievements/img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](/wiki/Achievements/img/all-secret-lightsout.png "Lights Out") |![Unstoppable](/wiki/Achievements/img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](/wiki/Achievements/img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](/wiki/Achievements/img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](/wiki/Achievements/img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](/wiki/Achievements/img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](/wiki/Achievements/img/all-secret-hourbeforethedawn.png "Hour Before The Dawn")  |
-
-<Category:Gameplay/RU>

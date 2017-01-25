@@ -45,13 +45,11 @@ Grupy
 
 | Pseudonim | Opis |
 | ---- | ----------- |
-| [Moderatorzy globalni](https://osu.ppy.sh/wiki/Global_Moderation_Team) | Sprawowanie porządku na forum i w czacie |
-| [Nominatorzy Beatmap](https://osu.ppy.sh/wiki/Beatmap_Nomination_Group) | Osoby które zrobią wszystko, żeby twoja mapa była "zakwalifikowana" |
+| [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) | Sprawowanie porządku na forum i w czacie |
+| [Nominatorzy Beatmap](/wiki/People/Beatmap_Nomination_Group) | Osoby które zrobią wszystko, żeby twoja mapa była "zakwalifikowana" |
 | [Twórcy](http://osu.ppy.sh/g/11) | Tworzenie wspaniałej gry poprzez naprawianie bugów i dodawanie nowych opcji |
-| [osu! alumni](https://osu.ppy.sh/wiki/Osu!_Alumni) | Ludzie zapisani w historii osu! |
-| [Support Team Redux](https://osu.ppy.sh/wiki/Support_Team) | Pomoc z prośbami nt. nowych rzeczy |
+| [osu! alumni](/wiki/People/Osu!_Alumni) | Ludzie zapisani w historii osu! |
+| [Support Team Redux](/wiki/People/Support_Team) | Pomoc z prośbami nt. nowych rzeczy |
 | [osu!news](http://osu.ppy.sh/g/25) | Zapewnianie dobrej lektury od 2013 |
 | [Staff Turniejowy](http://osu.ppy.sh/g/26) | Ludzie odpowiadający za prowadzenie oficjalnych mistrzostw świata w osu! |
-| [Zespół zapewnienia jakości](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |
-
-<Category:People>
+| [Zespół zapewnienia jakości](/wiki/People/Quality_Assurance_Team) | Zapewniamy jakość beatmap, abyś mógł się dobrze bawić. |

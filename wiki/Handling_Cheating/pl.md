@@ -72,4 +72,3 @@ Jak uniknąć uciszenia/blokady konta?
 ------------------------------------
 
 Po prostu przeczytaj [zasady](PL:Rules "wikilink").
-

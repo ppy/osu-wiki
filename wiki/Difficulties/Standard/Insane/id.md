@@ -14,5 +14,3 @@ Tolong diingat bahwa ini hanyalah saran secara umum. Pengaturan tingkat kesulita
 
 1.  Jump, Peningkatan Kecepatan Slider, dan teknik tingkat kesulitan lainnya hanya digunakan jika mereka **cocok dengan musiknya**. Jika di sana tidak ada perubahan mendadak yang membutuhkan [teknik penambahan tingkat kesulitan](ID:Mapping_techniques#Difficulty_Increasing_Techniques), maka jangan menambahkannya. Insane tidak untuk menunjukkan seberapa sulit kamu dapat membuat sebuah [map](ID:Beatmap), melainkan untuk bagaimanaca caramu membuat sebuah map yang sulit tapi menyenangkan.
 2.  Mapnya mungkin tidak memerlukan sebuah Insane. Jika kamu merasa mapmu sangat membosankan tanpa menambahkan kebanyakan teknik penambahan tingkat kesulitan, mungkin mapmu tidak membutuhkan sebuah tingkat kesulitan Insane. Tingkat kesulitan Insane tidak wajib, dan kamu tidak akan apa-apa tanpa itu.
-
-<Category:Beatmapping/ID>

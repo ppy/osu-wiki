@@ -1129,4 +1129,3 @@ The screen(s) *used* to be available in the Options menu. You can access this sc
 
 5.  Clicking "Random Beatmap" will load randomly selected difficulty from your collection to review the currently selected skin's appearance.
 6.  Click Back or press Esc to return to the Skins tab of the Options Screen.
-

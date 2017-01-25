@@ -13,7 +13,7 @@ Nello schermo inferiore si vedono i cerchi, in quello superiore una storia relat
 Come si gioca?
 --------------
 
-Dal momento che la maggior parte degli utenti PC non possiede un touch-screen è possibile giocare a osu! sia utilizzando il mouse sia tramite una lunga e fantasiosa lista di altri dispositivi. La lista degli stili di gioca è reperibile \[qui\][1](http://osu.ppy.sh/wiki/Play_Styles).
+Dal momento che la maggior parte degli utenti PC non possiede un touch-screen è possibile giocare a osu! sia utilizzando il mouse sia tramite una lunga e fantasiosa lista di altri dispositivi. La lista degli stili di gioca è reperibile \[qui\][1](/wiki/Play_Styles).
 
 Le basi del gameplay
 --------------------
@@ -48,5 +48,3 @@ Queste sono solo alcune delle skill necessarie che imparerai giocando e diventad
         -   Il cerchio arancione appare se stai tenendo premuto il pulsante e lo stai seguendo col cursore e scompare se lo lasci.
     -   A volte, come nella foto sopra, dovrai tornare indietro alla fine del percorso.
     -   Lo puoi capire da simbolo indietro alla fine del percorso.
-
-<Category:FAQ/IT> <Category:Gameplay/IT>

@@ -90,7 +90,7 @@ Time zone: GMT+0 (if you don't know your time zone, visit this site [Time and Da
 ### Important rule changes
 
 
-Changes in the rules from [OWC 1](/wiki/Announcements/Tournaments/OWC/1/en.md) and this OWC
+Changes in the rules from [OWC 1](/wiki/Announcements/Tournaments/OWC/1) and this OWC
 
 1.  3 maps won by one of the teams gives them a match win. Not 2 maps like it was in the 1st edition.
 2.  The final maps will be chosen more carefully this time.
@@ -342,5 +342,3 @@ Extra:
 Extra:
 
 -   [Loathing in Las Vegas - Just Awake [Insane]](http://osu.ppy.sh/b/139446)
-
-<Category:Tournaments><Category:Osu! Standard Tournaments>

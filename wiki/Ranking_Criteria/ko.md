@@ -131,5 +131,3 @@
     -   그 외: 랭크가 아닌 어프루브를 받아야 할 맵입니다.
 -   본인의 맵셋이라면 본인 이외에 다른 사람이 본인보다 더 많은 난이도를 제작해선 안 됩니다. 콜랍 맵셋인 경우 예외가 인정됩니다.
 -   "Short", "Full", 혹은 "Cut Ver." 등을 제목에 넣지 않도록 합니다.
-
-[Category:Ranking Criteria/KO](Category:Ranking_Criteria/KO "wikilink") <Category:Beatmapping/KO>

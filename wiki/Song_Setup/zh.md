@@ -206,5 +206,3 @@ Approach Rate通常缩写为"**AR**"。
 ### 谱面适用模式指定(Mode Specific)
 
 通常情况下，谱面对于<abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">四个模式</abbr>来说都是通用的。如果你将此项设定设置为“Taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。
-
-<Category:Beatmapping/ZH> [Category: Edit mode/ZH](Category:_Edit_mode/ZH "wikilink") <Category:Chinese>

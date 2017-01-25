@@ -51,5 +51,3 @@ Les spinners
 Les Spinners doivent être utilisé avec parcimonie en facile - généralement achevant une partie de la map avant une pause ou la fin de la musique. Lors de l'utilisation d'un spinner, soyez sur que sa longueur soit suffisante. 2 à 4 mesures est un bon exemple.
 
 Le raisonnement est que la plupart des nouveaux joueurs répondrons lentement à l'apparition d'un spinner, il y a donc un délai d'action. Aussi il se peut qu'ils spins de manières anarchiques, en brossant les bord de l'écran. Une fois qu'un spinner est terminé, ils seront la plupart du temps désorienté et se demanderons où peut bien être leur curseur. C'est la raison pour laquelle si vous devez placer un spinner en plein milieux d'une musique, vous devez leur laisser assez de temps pour récupérer. Une bonne mesure est 3 à 4 battements après le spinner, mais cela peut varier selon les BPM.
-
-<Category:Beatmapping/FR>

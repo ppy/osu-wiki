@@ -37,5 +37,3 @@ TaTaCon
 -------
 
 osu! obsługuje kontroler TaTaCon, jeżeli takowy posiadasz.
-
-[Category:Game Modes/PL](Category:Game_Modes/PL "wikilink") <Category:Taiko/PL>

@@ -163,5 +163,3 @@ An overview of them can be found here: [Unrankable Techniques](Unrankable_Techni
 -   Hold Sliders
 -   Stack zero
 -   Ninja Spinners (Not to be confused with *[Short Spinners](Spinner_Techniques#Short_Spinners "wikilink")*)
-
-<Category:Beatmapping>

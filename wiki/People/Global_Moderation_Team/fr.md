@@ -65,5 +65,3 @@ Liste des GM
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | modération du chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | modération du chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | modération du chat |
-
-<Category:People/FR>

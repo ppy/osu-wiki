@@ -27,5 +27,3 @@ En général, si vous pensez que votre map est impossible à finir, consultez un
 
 -   **Pixel jumps**: Un bug assez rare qui empêche d’attraper 3 fruits qui se suivent. Dû à la complexité du phénomène, cela n'arrive que rarement et c'est très difficile de l'expliquer sans entrer dans les détails. Consultez quelqu'un si vous pensez avoir ce problème.
 -   **In-slider jumps**: Ceci arrive quand la vélocité horizontale du slider est telle que Ryuuta ne peut pas attraper les deux bouts du slider sans Hyperfruit, sauf que le slider est assez long ce qui fait apparaître un droplet. Un droplet ne peut pas devenir un hyperfruit ce qui fait merder le code et aucun hyperfruit n’apparaît. La limite pour ce bug semble être une vélocité horizontale de 600 BPM (BPM de votre map \* La vélocité horizontale du slider), évitez donc d'utiliser une vélocité supérieure à 400 BPM pour votre map !
-
-[Category:Ranking Criteria/FR](Category:Ranking_Criteria/FR "wikilink") <Category:Beatmapping/FR>

@@ -101,5 +101,3 @@ Az irányelvek fontosak, és a legtöbb mapen használatosak. Ugyanakkor nem sza
 -   **Nem ajánlott a slider pontokra (slider tickekre) találatjelző hangot tenni.** Ha mégis használnál ilyet, ügyelj arra, hogy ez jelentősen halkabb, mint a normál találatjelzők. Nagyon fülsértő lehet, főleg ha csak egyszer-kétszer használod.
 -   **Próbáld meg elkerülni az 5.0-szörösnél nagyobb storyboard terhelést.** Ezzel elkerülheted a régebbi gépeken jelentkező lagot. Egyes storyboard elemek átméretezése segíthet ebben.
 -   **Egyik vendég-mapper se készítsen több nehézséget, mint a feltöltő maga.** Collaboration (másokkal közösen készített) mapseteknél a feltöltőnek részt kell vennie az összes collab nehézségben. A feltöltő az a személy legyen, aki legtöbbet dolgozott a mapen.
-
-[Category:Ranking Criteria/HU](Category:Ranking_Criteria/HU "wikilink") <Category:Beatmapping/HU>

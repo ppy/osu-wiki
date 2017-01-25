@@ -37,4 +37,3 @@ Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportemen
 Attendez une semaine maximum pour une réponse. Si votre demande de débanissement a été rejetée, toutes vos prochaines demandes seront rejetées, donc appliquez-vous dans la première.
 
 == Comment éviter un bannissement/mute ? == Lisez et respectez simplement [le règlement](FR:Rules "wikilink").
-

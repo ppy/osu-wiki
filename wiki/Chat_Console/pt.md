@@ -273,5 +273,3 @@ John: Do you know any good doctor?</p></td>
 </table>
 
 </center>
-
-[Category:Infrastructure of osu!/PT](Category:Infrastructure_of_osu!/PT "wikilink")

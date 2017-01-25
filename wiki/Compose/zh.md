@@ -388,5 +388,3 @@ Sampling
 **例如：** 1:57:745 kick.wav@100% 代表在 1 分 57.745 秒钟，会以 100% 音量播放文件 "kick.wav"。
 
 [如果这满足不了你，你也可以试试更硬派的故事板制作法。](ZH:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
-
-<Category:Chinese>

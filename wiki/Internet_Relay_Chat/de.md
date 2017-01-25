@@ -70,5 +70,3 @@ Join/Part Nachrichten in bekannten Clients deaktivieren
 | [XChat](http://www.xchat.org)             | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt /set irc\_conf\_mode 1 ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
 
 Sofern euer IRC Client nicht verzeichnet ist, könnt ihr diese hier hinzufügen und wie es bei diesen funktioniert.
-
-[Category: Deutsch](Category:_Deutsch "wikilink")

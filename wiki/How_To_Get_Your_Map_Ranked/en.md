@@ -23,5 +23,3 @@ See Also
 --------
 
 -   [Ranking Criteria](Ranking_Criteria "wikilink")
-
-[Category: Beatmapping](Category:_Beatmapping "wikilink") [Category: Modding](Category:_Modding "wikilink")

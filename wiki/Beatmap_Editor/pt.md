@@ -12,5 +12,3 @@ Artigos relacionados
 -   [Hitsounds Personalizáveis](PT:Custom_Sample_Overrides "wikilink")
 -   [Distance Snap](PT:Distance_Snap "wikilink")
 -   [Kiai Time](PT:Kiai_Time "wikilink")
-
-<Category:Beatmapping/PT>

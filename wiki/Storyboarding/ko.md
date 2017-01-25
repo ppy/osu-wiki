@@ -51,5 +51,3 @@
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 기타 스토리보드 작품은 **[이곳](KO:Storyboarding/Maps)** 에서 확인하실 수 있습니다.
-
-<Category:Storyboarding/KO>

@@ -28,5 +28,3 @@ Support Team 主要负责:
 | [Trosk-](https://osu.ppy.sh/u/3469385) | 西班牙语 |
 | [Tom94](https://osu.ppy.sh/u/1857058) | 德语 |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | 荷兰语 |
-
-<Category:People/ZH>

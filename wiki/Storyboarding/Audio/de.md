@@ -27,5 +27,3 @@ In diesen Beispiel soll am Ende einer Pass Sektion eine Musikdatei abgespielt we
 `Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100`
 
 Hinweis: Die Lautstärke der Musikdatei ist leiser als die des Soundeffektes, um es stärker herausstechen zu lassen. Die Ebene bei beiden ist 2 (Pass).
-
-<Category:Deutsch>

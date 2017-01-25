@@ -73,7 +73,7 @@ Il s'agit d'un autre jeu développé par peppy, très similaire mais qui dispose
 ### Autres plateformes (non officiel)
 
 #### Linux/Ubuntu
-- Pour installer osu! sur Linux/Ubuntu (en utilisant Wine), [cliquez ici](https://osu.ppy.sh/forum/t/14614) ou lisez la [version anglaise](/wiki/Installation/en.md) de cette page.
+- Pour installer osu! sur Linux/Ubuntu (en utilisant Wine), [cliquez ici](https://osu.ppy.sh/forum/t/14614) ou lisez la [version anglaise](/wiki/Installation) de cette page.
 
 #### Android (osu!droid)
 - Rendez vous sur [cette page](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) du Google Play Store.
@@ -89,11 +89,10 @@ Questions et problèmes fréquents
 -   **J'essaye de lancer osu! et j'obtiens une "Initialization Error"**
     -   Assurez-vous d'avoir installé la dernière version de [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/fr-FR/download/details.aspx?id=22)
 -   **Pourquoi je ne peux pas télécharger des beatmaps ?**
-    -   Vous devez vous connecter ou [vous inscrire](/wiki/Registration/fr.md) si ce n'est pas déjà fait.
+    -   Vous devez vous connecter ou [vous inscrire](/wiki/Registration) si ce n'est pas déjà fait.
 -   **Je ne peux pas jouer la beatmap que j'ai téléchargée.**
     -   Votre beatmap est peut-être corrompue. Essayez de la retélécharger ?
 -   **Autres problèmes**
     -   Veuillez vous adresser aux joueurs sur le canal #help afin de recevoir de l'aide.
     -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](http://osu.ppy.sh/forum/5) (en anglais).
     -   Si votre problème concerne des versions non-officielles du jeu, veuillez consulter leur section appropriée sur le forum (voir plus haut).
-

@@ -1,4 +1,4 @@
-Si vous souhaitez que votre map soit [classée](https://osu.ppy.sh/wiki/FR:Comment_faire_ranker_votre_map), vous devrez vous la faire [modder](https://osu.ppy.sh/wiki/FR:Modding). Il y a plusieurs moyens d'y arriver.
+Si vous souhaitez que votre map soit [classée](/wiki/How_To_Get_Your_Map_Ranked), vous devrez vous la faire [modder](/wiki/Modding). Il y a plusieurs moyens d'y arriver.
 
 \#modreqs
 ---------
@@ -28,7 +28,7 @@ Un **M4M** (**Mod for Mod**) désigne l'action de modder une map en échange du 
 Demander directement aux autres joueurs
 ---------------------------------------
 
-Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](https://osu.ppy.sh/wiki/FR:Kudosu) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](https://osu.ppy.sh/wiki/FR:Beatmap_Appreciation_Team) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
+Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](/wiki/Kudosu) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](/wiki/People/Beatmap_Nomination_Group) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
 
 Astuces
 -------
@@ -41,5 +41,3 @@ Voici quelques astuces :
 -   N'hésitez pas à prendre des initiatives : Moddez les maps de vos amis et de la communauté française en général. Tout ce que vous faites vous reviendra un jour.
 
 Bonne chance dans le modding de votre map !
-
-<Category:Beatmapping/FR>

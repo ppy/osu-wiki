@@ -77,8 +77,8 @@ Info Skinning/Hitsound
 Info Storyboarding
 ------------------
 
--   [Membuat Storyboard](/wiki/Storyboard_Scripting)
--   [Membuat Storyboard (Cheat Sheet)](/wiki/Storyboard_Scripting/Cheat_Sheet)
+-   [Membuat Storyboard](/wiki/Storyboarding/Storyboard_Scripting)
+-   [Membuat Storyboard (Cheat Sheet)](/wiki/Storyboarding/Storyboard_Scripting_Cheat_Sheet)
 -   [Alat SGL](/wiki/SGL_Tool)
 -   [Mengurangi waktu muatan SB](/wiki/SB_Load)
 

@@ -140,5 +140,3 @@ Semua pengguna osu! mempunyai angka maksimum dari beatmap unranked di Pending ya
 Bergantung dari berapa banyak map ranked yang kamu miliki, kamu diperbolehkan mulai dari **3 hingga 6 map unranked**. Angka ini bertambah 1 setiap kali mapmu dirank. Hanya map di forum Pending dan Help yang dihitung. Batas ini dibuat untuk membantu mengatur laju beatmap baru dan agar para mapper tetap berdedikasi terhadap map yang mereka buat.
 
 **osu!supporter** memiliki batas yang lebih besar dan diperbolehkan mulai dari **4 hingga 10 map unranked**. sss Beatmap unranked di dalam graveyard *tidak memiliki batas*.
-
-<Category:Beatmapping/ID>

@@ -376,5 +376,3 @@ Koizumi Zehetbauer - Get Back!</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category:Game Ports](Category:Game_Ports "wikilink")

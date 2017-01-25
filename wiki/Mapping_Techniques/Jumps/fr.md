@@ -14,5 +14,3 @@ Une erreur commune des nouveaux mappeurs est qu'ils voient des sauts utilisés d
 "Est-ce qu'il y a quelque chose dans la musique ou dans le rythme qui suggère un saut ici ?"
 
 Il est recommandé de rester éloigné des sauts "à sensations" jusqu'à ce que vous ayez plus d'expérience en mapping et que vous sachiez les utiliser correctement. Oui, un mappeur expérimenté utilisant des sauts "à sensations" peuvent créer des maps vraiment géniales. Pour vos premières maps, cependant, c'est souvent une bonne idée de rester simple et de travailler tel que.
-
-[Category: Beatmapping/FR](Category:_Beatmapping/FR "wikilink") [Category: Mapping Techniques/FR](Category:_Mapping_Techniques/FR "wikilink")

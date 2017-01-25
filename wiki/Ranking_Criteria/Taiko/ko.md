@@ -58,5 +58,3 @@
 -   **커스텀 히트사운드**
 
 커스텀 히트사운드는 반드시 드럼에 관련되야 합니다. 만일 커스텀 히트사운드가 사용된다면, 반드시 동으로는 더 깊거나 낮은 음으로, 캇으로는 더 높거나 가벼운 음을 사용해야 합니다.
-
-<Category:Taiko/KO> [Category:Ranking Criteria/KO](Category:Ranking_Criteria/KO "wikilink") <Category:Beatmapping/KO>

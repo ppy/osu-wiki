@@ -52,5 +52,3 @@ osu!新人mapper群：133605766
 一般QQ群都会有其特定的圈子，在 mapper 群里面发 mod 请求，或者在 player 群发一个 testplay 请求，或者直接改个群名片。或多或少都会有人响应，语言障碍也基本没有。（效果同上，但没贴吧发帖的效果好。）
 
 最后，祝各位 mapper 都能找到 mod，并且成功将你的图送进 rank 图中。
-
-[Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink") <Category:Guides/ZH>

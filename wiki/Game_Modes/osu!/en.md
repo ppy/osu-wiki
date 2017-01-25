@@ -5,7 +5,7 @@
 ## Gameplay
 
 While most PC users won't have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of.
-Different play styles can be found in the [Play Styles](/wiki/Play-Styles/en.md) page.
+Different play styles can be found in the [Play Styles](/wiki/Play_Styles) page.
 There are some songs which push the limits of the normal mouse (and you), but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 ### Basics
@@ -242,5 +242,3 @@ You reserve life from:
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)
-
-[Category: Game Modes](Category:_Game_Modes "wikilink") <Category:osu!Standard>

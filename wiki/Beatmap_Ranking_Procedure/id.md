@@ -32,5 +32,3 @@ Unranked ![](heartpop.gif "fig:heartpop.gif")
 Manusia juga membuat kesalahan. Maka dari itu, apabila suatu map masuk ke sistem approval dengan kesalahan yang berlebihan, maka map tersebut mungkin bisa diunrank dalam jangka waktu yang singkat. Apabila mapmu diunrank, disarankan untuk bertanya kepada anggota tim approval yang mengunrank mapmu, agar kamu bisa membenahi apa yang salah dan mapmu bisa dirank kembali dan dinikmati secepat mungkin. Pada sistem ranking yang baru, map yang sudah mendapat ikon ranked akan dianggap sebagai map "Qualified" dan sewaktu waktu, dalam jangka waktu 7 hari, map tersebut bisa diunrank oleh QAT.
 
 Catatan: Pasti ada waktu di mana kamu tidak ingin mengganti hal yang diminta untuk mengganti. Di saat saat tertentu, kamu mungkin bisa tidak menggantinya. Tetapi, apabila setengah dari Beatmap Approval Team setuju bahwa kamu harus menggantinya, maka gantilah.
-
-<Category:Beatmapping/ID>

@@ -108,5 +108,3 @@ Genre wie z. B. Rock and Pop, Techno, usw. wird nicht ins &quot;Source&quot; Fel
 </table>
 
 Wie gesagt, um mögliche Unannehmlichkeiten zu vermeiden, solltest du sicherstellen, dass bei allen Schwierigkeitsstufen die Informationen, abgesehen vom Namen der Schwierigkeitsstufe, übereinstimmen.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Beatmapping/DE>

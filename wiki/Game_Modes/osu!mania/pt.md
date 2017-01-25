@@ -260,5 +260,3 @@ References
 -   [Announcement post](http://osu.ppy.sh/forum/p/1825880)
 -   [Forum topic](http://ha.ppy.sh/forum/p/1284932)
 -   [An example of the gameplay on YouTube](http://www.youtube.com/watch?v=y-Af27ZNujg) (Not Auto)
-
-[Category:Game Modes/PT](Category:Game_Modes/PT "wikilink") <Category:Osu!mania/PT>

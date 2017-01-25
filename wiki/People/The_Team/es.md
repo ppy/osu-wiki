@@ -45,13 +45,11 @@ Grupos de Usuarios
 
 | Nombre | Descripción |
 | ---- | ----------- |
-| [Global Moderation Team](https://osu.ppy.sh/wiki/Global_Moderation_Team) | Encargados de revisar los foros y el Chat dentro del juego |
-| [Beatmap Nomination Group](https://osu.ppy.sh/wiki/Beatmap_Nomination_Group) | Los usuarios que van más allá de la llamada para garantizar tus mapas sean Calificados |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Encargados de revisar los foros y el Chat dentro del juego |
+| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Los usuarios que van más allá de la llamada para garantizar tus mapas sean Calificados |
 | [Developers](http://osu.ppy.sh/g/11) | Hacen el juego grandioso agregando nuevas funciones y arreglando sus errores |
-| [osu! alumni](https://osu.ppy.sh/wiki/Osu!_Alumni) | Conocidos por sus contribuciones que desde entonces siguieron adelante |
-| [Support Team Redux](https://osu.ppy.sh/wiki/Support_Team) | Ayuda/Solicitudes de funciones |
+| [osu! alumni](/wiki/People/Osu!_Alumni) | Conocidos por sus contribuciones que desde entonces siguieron adelante |
+| [Support Team Redux](/wiki/People/Support_Team) | Ayuda/Solicitudes de funciones |
 | [osu!news](http://osu.ppy.sh/g/25) | Encargados de traerte noticias de calidad desde 2013 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
-| [Quality Assurance Team](https://osu.ppy.sh/wiki/Quality_Assurance_Team) | Encargados de revisar la calidad de los mapas que tanto disfrutas! |
-
-<Category:People>
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Encargados de revisar la calidad de los mapas que tanto disfrutas! |

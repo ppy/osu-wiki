@@ -1,7 +1,7 @@
 Anciens packs de beatmaps
 =========================
 
-***[Cliquez ici pour retourner à la page des "Succès/Médailles"](/wiki/Achievements/fr.md)***
+***[Cliquez ici pour retourner à la page des "Succès/Médailles"](/wiki/Achievements)***
 
 Packs originaux pendant les années de début d'osu! (2009) avant d'être mis à jour par [Stefan le 16 janvier 2016](http://osu.ppy.sh/news/137535031193).
 

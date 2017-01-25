@@ -13,5 +13,3 @@ Quando não usar
 ---------------
 
 Para mapas de osu! standard, é recomendado colocar stream apenas onde corresponde ás instrumentais na música. Não fazer isso é frequentemente referido como "overmapping". Agora, alguns poderão colocar streams onde não existe qualquer instrumental na música, mas não é recomendado, especialmente se você for um mapper novato. Nota: Essa regra se implica apenas para mapas "Standard". Mapas [Taiko](PT:Taiko "wikilink") criam novos padrões para se adequarem a música, então geralmente mais streams (mesmo que mais curtas) são encontradas em mapas de [Taiko](PT:Taiko "wikilink"). No entanto, usar em demasia streams nunca é recomendado. Evite isso.
-
-[Category:Mapping Techniques/PT](Category:Mapping_Techniques/PT "wikilink")

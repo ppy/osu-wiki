@@ -25,5 +25,3 @@
 -   轨迹不清晰的滑条
 -   [完全重叠](重叠 "wikilink")
 -   极短的轮盘（与短轮盘不同）
-
-<Category:Beatmapping/ZH> [Category:Mapping Techniques/ZH](Category:Mapping_Techniques/ZH "wikilink")

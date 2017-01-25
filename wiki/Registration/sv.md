@@ -46,4 +46,3 @@ Du är redo för att starta ditt aväntyr på osu! så fortsätt till [välkomst
 Om du behöver hjälp i spelet, så kan du ansluta dig till \#help kanalen genom att skriva "join /\#help" och ställa din fråga.
 
 <i>Rhythm is just a click away so have fun!</i>
-

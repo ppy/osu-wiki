@@ -40,5 +40,3 @@ Ces informations sont importantes et devraient être suivis par la plupart des m
 -   **Evitez d'empiler vos cercles de façon parfaite en utilisation le paramètre de "stack leniency".** Il est préfèrable de conserver ce paramètre activé pour une meilleure lisibilité des objets.
 -   **Empiler des objets de façon manuelle est acceptable** tant qu'ils sont lisibles en jouant.
 -   **Essayez de ne pas couvrir les objets avec des "hitbursts", et tout autre élément de gameplay, surtout dans les difficultés non-expert.** Réduire leur lisibilité rend la map difficile à jouer pour les débutants. Si vos objets suivent un "pattern" clair et prévisible, vous pouvez ignorer ce conseil.
-
-<Category:Osu!Standard/FR> [Category:Ranking Criteria/FR](Category:Ranking_Criteria/FR "wikilink") <Category:Beatmapping/FR>

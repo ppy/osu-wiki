@@ -88,5 +88,3 @@ Mods
 | Key1           | 67108864 (26)  |                                    |
 | Key3           | 134217728 (27) |                                    |
 | Key2           | 268435456 (28) |                                    |
-
-<Category: File Formats/ZH>

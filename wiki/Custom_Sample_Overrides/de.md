@@ -38,5 +38,3 @@ Die folgenden Dateien können ersetzt werden:
 
 -   spinnerspin
 -   spinnerbonus (Ding)
-
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Editor/DE> <Category:Guides/DE> [Category:Edit mode/DE](Category:Edit_mode/DE "wikilink")

@@ -36,10 +36,10 @@ osu! Catch the Beat World Cup 2015
 
 | Job               | Person(s)                                                                                                                                                                                                                                                                                                                                                                                               |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理              | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // [![](/wiki/shared/flag/Fr.gif)](/wiki/File:Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                    |
-| beatmap选择团队       | ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Ve.gif) [Orihime chan](//osu.ppy.sh/u/708258) // [![](/wiki/shared/flag/Kr.gif)](/wiki/File:Kr.gif) [CLSW](//osu.ppy.sh/u/531253)                                                                                                                                                                               |
+| 赛事管理              | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // [![](/wiki/shared/flag/Fr.gif)](/wiki/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                    |
+| beatmap选择团队       | ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Ve.gif) [Orihime chan](//osu.ppy.sh/u/708258) // [![](/wiki/shared/flag/Kr.gif)](/wiki/Kr.gif) [CLSW](//osu.ppy.sh/u/531253)                                                                                                                                                                               |
 | 在线直播              | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                              |
-| 解说人员              | ![](/wiki/shared/flag/Ca.gif) [Tasha](//osu.ppy.sh/u/1031958) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // [![](/wiki/shared/flag/Nz.gif)](/wiki/File:Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // [![](/wiki/shared/flag/De.gif)](/wiki/File:De.gif) [Kingkevin30](//osu.ppy.sh/u/564334) // [![](/wiki/shared/flag/Us.gif)](/wiki/File:Us.gif) [Zak](//osu.ppy.sh/u/1375955) |
+| 解说人员              | ![](/wiki/shared/flag/Ca.gif) [Tasha](//osu.ppy.sh/u/1031958) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // [![](/wiki/shared/flag/Nz.gif)](/wiki/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // [![](/wiki/shared/flag/De.gif)](/wiki/De.gif) [Kingkevin30](//osu.ppy.sh/u/564334) // [![](/wiki/shared/flag/Us.gif)](/wiki/Us.gif) [Zak](//osu.ppy.sh/u/1375955) |
 | 统计                | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                          |
 
 ------------------------------------------------------------------------
@@ -466,12 +466,12 @@ Sunday, 10\. May 2015
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
     -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
-    -   同样会有 [Hidden](/wiki/Game_Modifiers/zh.md)、[HardRock](/wiki/Game_Modifiers/zh.md)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers/zh.md)。
+    -   同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛会被延期。
 5.  如果有玩家失败，失败的玩家的分数将不会计算分数。
-6.  允许使用 [Visual Settings](/wiki/Game_Modifiers/zh.md) 。
+6.  允许使用 [Visual Settings](/wiki/Game_Modifiers) 。
 7.  如果比赛以平分结束（所有人的分数一样），该局比赛无效。
 8.  掉线玩家判为游戏失败。
 9.  除非比赛无效，比赛用图不能在该场比赛中再次使用。
@@ -492,7 +492,7 @@ Sunday, 10\. May 2015
 2.  为了确保报名的有效性和正式性，赛事管理人员将对每位报名者进行安全检查。
     1.  每位报名者将被分配到各自国家的预选选手名单。
     2.  预选选手有 Catch the Beat 世界排名高于 \#5000 的最低资格要求。
-    3.  预选选手的另一资格要求是在过去12个月之内没有违反过任何 osu! [规则](/wiki/Rules/zh.md)。
+    3.  预选选手的另一资格要求是在过去12个月之内没有违反过任何 osu! [规则](/wiki/Rules)。
 
 3.  想报名的玩家请用「CWC Registration」作为标题, 向 [Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 发出私信。
     1.  在注册成功的时候，你会收到一个确认信息，确认你的报名已经在审理中。
@@ -558,7 +558,7 @@ Sunday, 10\. May 2015
 1.  小组赛、16强、四分之一决赛、半决赛和决赛分别会有一个图池。
     1.  决赛第一周和第二周使用同一个图池。
 
-2.  每个图池由四个mod的图组组成: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers/zh.md)、[HardRock](/wiki/Game_Modifiers/zh.md) 以及 [DoubleTime](/wiki/Game_Modifiers/zh.md) 。
+2.  每个图池由四个mod的图组组成: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers) 以及 [DoubleTime](/wiki/Game_Modifiers) 。
 3.  每个图池由总共19张图组成。
 4.  每个图池里都有一张决胜 (tiebreaker) 图。
 5.  NoMod图组是在无mod的情况下进行比赛的。
@@ -566,7 +566,7 @@ Sunday, 10\. May 2015
     1.  选手可以在HardRock或DoubleTime图组中另外加选Hidden mod.
 
 7.  决胜图 (tiebreaker) 可以使用任意mod进行比赛。
-    1.  在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_Modifiers/zh.md)、[Hidden](/wiki/Game_Modifiers/zh.md) 或者两个一起开。
+    1.  在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_Modifiers)、[Hidden](/wiki/Game_Modifiers) 或者两个一起开。
 
 8.  NoMod图组在每阶段的图池中会有6张图。
 9.  各其他模式的图组会在每阶段的图池中各有4张。

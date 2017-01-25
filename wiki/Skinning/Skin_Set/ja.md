@@ -410,5 +410,3 @@ osu!mania
 ### .mp3
 
 ### .wav
-
-[Category: Japanese](Category:_Japanese "wikilink") [Category: Skinning/JP](Category:_Skinning/JP "wikilink")

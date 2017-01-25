@@ -53,5 +53,3 @@ A Catch the Beat nehézségi szintek: "\[username\]'s CTB/CtB \[nehézségi szin
 ` mindkét végét elkapni hyperfruit nélkül, DE a slider elég hosszú, hogy egy köztes gyümi megjelenjen. Köztes gyümik nem lehetnek`
 ` hyperfruitok. A köztes vonal ehez a hibához úgy néz ki hogy a vízszintes velocity 600BPM (Map-ed BPM-je*a slider velocity-d, `
 ` teljesen vízszintesen), úgyhogy óvakodj a teljes velocity-t használni 400BPM felett!`
-
-[Category:Catch The Beat/HU](Category:Catch_The_Beat/HU "wikilink") [Category:Ranking Criteria/HU](Category:Ranking_Criteria/HU "wikilink") <Category:Beatmapping/HU>

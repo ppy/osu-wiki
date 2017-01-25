@@ -29,5 +29,3 @@ osu!のゲームルールと同じようにコンボが続くとスコアの入�
 
 デフォルトの設定では「←（Leftarrow）」「→(Rightarrow)」「Shift」の3キーで操作できます
 基本は左右の矢印でそれぞれ左右に動き、Shiftキーで移動速度を上げることができます
-
-[Category:Catch The Beat/JP](Category:Catch_The_Beat/JP "wikilink")

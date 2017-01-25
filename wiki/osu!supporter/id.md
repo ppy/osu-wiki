@@ -18,7 +18,7 @@ Kelebihan dari osu!supporter
 -   [Skinning](ID:Skinning "wikilink"): Beberapa tambahan elemen skin yang dapat digunakan, seperti [menu utama](http://osu.ppy.sh/forum/t/96949), osu!direct atau latar belakang ketika *Multiplayer* / bermain bersama.
     -   Secara spesifik, `menu-background.jpg` (Menu utama); `matchsetup-background.png` (Latar belakang ketika *Multiplayer* / bermain bersama); `search-background.png` (osu!direct); `triangle.jpg` (Segitiga); `welcome.wav` (Suara Selamat Datang); `seeya.wav` (Suara ketika keluar)
 -   [Permintaan Fitur](http://osu.ppy.sh/forum/4): Jumlah dukungan yang lebih banyak untuk digunakan di forum permintaan fitur (2 kali perbulan, lebih banyak dari yang biasa 1 kali perbulan).
--   [Pemilihan Lagu](http://osu.ppy.sh/wiki/ID:Interface#Song_Selection_Screen): Kemampuan untuk melihat **country / friends / mod-specific ranking** dari sebuah beatmap di dalam game.
+-   [Pemilihan Lagu](/wiki/Interface): Kemampuan untuk melihat **country / friends / mod-specific ranking** dari sebuah beatmap di dalam game.
 -   Profil kamu: <http://osu.ppy.sh/u/>
     -   Kamu dapat menambahkan user page di profil kamu.
         -   User page kamu tidak akan dihapus meskipun durasi osu!supportermu telah habis.

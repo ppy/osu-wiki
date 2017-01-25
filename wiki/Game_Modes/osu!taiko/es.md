@@ -39,5 +39,3 @@ A diferencia de Osu! o [CatchTheBeat](ES:CatchTheBeat "wikilink"), fallar en **T
 Además, a diferencia de los otros modos de juego, el [Kiai Time](ES:Kiai_Time "wikilink") tiene cierta influencia en la puntuación, ya que hace referencia al "gogo time" en "Taiko no Tatsujin". Cuando el Kiai Time está activo, el tambor situado en la parte de arriba a la izquierda cambia de animación, la zona de juego tiene un gradiente y el área de acierto gana un gráfico de fuego alrededor de ella. Además, cada nota acertada aumenta su puntuación 1.2x (un 20%), incluidos los sliders, a excepción de cada acierto en un spinner (salvo el final, que igualmente es multiplicado).
 
 Esta es una traduccion al español de el original [Taiko](ES:Taiko "wikilink"), no se modifico nada a exepcion de la coherencia y cohesión de las palabras.
-
-<Category:Gameplay/ES> [Category:Game Modes/ES](Category:Game_Modes/ES "wikilink") <Category:Taiko/ES>

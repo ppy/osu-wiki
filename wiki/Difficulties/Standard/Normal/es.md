@@ -24,5 +24,3 @@ Ahora, deje que su imaginación fluya! Crear bonitos patrones nunca es perjudici
 Buena suerte con tus dificultades Normal!
 
 ^Nota: Si usted tiene un fácil, asegúrese de que su Normal es un poco más difícil que su fácil, por supuesto.
-
-<Category:Beatmapping/ES>

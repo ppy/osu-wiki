@@ -19,7 +19,7 @@ Ventajas del osu!supporter
 -   [Skinning](Skinning "wikilink"): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949) y en las partidas multijugador y el acceso a osu!direct .
     -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
 -   [*Feature Requests*](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
--   [Selección de Canción](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
+-   [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
 -   En tu perfil: <http://osu.ppy.sh/u/>
     -   Puedes agregar una página de usuario a tu perfil.
         -   Tu página de usuario no será borrado cuando tu osu!supporter expire.
@@ -64,5 +64,3 @@ Duración
 --------
 
 <img src="O!s Duration.jpg" title="fig:Diferencia entre osu!supporter activo e inactivo." alt="Diferencia entre osu!supporter activo e inactivo." width="200" /> Una vez completes el pago, en tu actividad reciente en tu perfil dirá "{Tu cuenta} has become an osu! supporter - thanks for your generosity!" si es la primera vez que tu cuenta obtiene osu!supporter o bien "{Tu cuenta} has once again chosen to donate to the osu! cause - thanks for your generosity!" si tu cuenta ya había sido osu!supporter anteriormente. Si compraste una para tu cuenta, podrás ver el título de osu!support abajo de tu imagen de perfil. Para verificar cuándo tu osu!supporter expirará, [vuelve al mismo lugar donde lo compraste](http://osu.ppy.sh/p/support).
-
-[Category:Infrastructure of osu!/ES](Category:Infrastructure_of_osu!/ES "wikilink")

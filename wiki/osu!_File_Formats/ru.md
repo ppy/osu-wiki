@@ -77,5 +77,3 @@
     - Выберите необходимый скин и нажмите "Экспортировать в .osk".
 
     - .osk будет создан и сохранён в папку "Exports" в папке osu!.
-
-[Category:File Formats/RU](Category:File_Formats/RU "wikilink")

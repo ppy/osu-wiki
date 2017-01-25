@@ -62,5 +62,3 @@
 
 1.  将第一个节奏点设置为offset。
 2.  播放音乐，听到第九个节奏点时，停下来，调整bpm，使其对齐第三个拍子的开始处（第三条长白线）。
-
-[Category: Beatmapping/ZH](Category:_Beatmapping/ZH "wikilink")

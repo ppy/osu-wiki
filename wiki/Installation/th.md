@@ -24,5 +24,3 @@ Installation - Thai
 - เล่นให้สนุกนะครับ ^^
 
 ###### การเพิ่มเพลง
-
-<Category:Stubs><Category:Guides/TH>

@@ -86,4 +86,3 @@ Depuis le jeu
     - Sur l'écran de sélection du skin, choisissez le skin que vous voulez et cliquez sur "Exporter en .osk".
 
     - Le fichier .osk sera créé et placé dans le dossier "Exports" du dossier d'osu!.
-

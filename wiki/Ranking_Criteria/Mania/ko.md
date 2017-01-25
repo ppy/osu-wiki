@@ -72,5 +72,3 @@ Guidelines (가이드 라인)
 | 8K       | Dance Dance Revolution (Double)    |
 | 8K(R)    | Beatmania IIDX(P2)                 |
 | 8K (L)   | Beatmania IIDX(P1)                 |
-
-<Category:Osu!mania/KO> [Category:Ranking Criteria/KO](Category:Ranking_Criteria/KO "wikilink") <Category:Beatmapping/KO>

@@ -6,7 +6,7 @@ Osiągnięcia
 Beatmap Packs
 ---------------
 
-Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/Standard/pl.md).
+Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/osu!).
 
 Obecnie mamy 16 osiągnięć w tej grupie, które są podzielone na 4 sekcje:
 
@@ -21,7 +21,7 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 
 #### Wymagania:
  -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t).                                                       
- -   Trybem musi być [osu!standard](/wiki/Game_Modes/Standard/pl.md).  
+ -   Trybem musi być [osu!standard](/wiki/Game_Modes/osu!).  
  -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!
      -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.
      -   Możesz także pobierać każdą beatmapę oddzielnie i nadal będzie się to liczyło.
@@ -38,7 +38,7 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 
 #### Specjalne:
 
- -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs_Achievements/en.md)
+ -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs_Achievements)
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -53,7 +53,7 @@ Skill
 
 Osiągnięcia **Skill** są obecnie podzielone na dwie grupy: **Combo** oraz **High Ranked**.
 
-Osiągnięcia **The Combo** mogą zostać otrzymane poprzez ukończenie beatmapy ze specyficznym [Combo](/wiki/Glossary/pl.md) w trybie osu!standard.
+Osiągnięcia **The Combo** mogą zostać otrzymane poprzez ukończenie beatmapy ze specyficznym [Combo](/wiki/Glossary) w trybie osu!standard.
 Zdobycie takiego combo w trybie Taiko, CTB czy osu!mania **nie** odblokuje nam osiągnięcia.
 
 Aby odblokować osiągnięcia 1000 czy 2000 combo, zalecamy zagranie beatmap zatwierdzonych zamiast rankingowych. Nie szukaj beatmap niezatwierdzonych.
@@ -70,7 +70,7 @@ Osiągnięcia **The High Ranker** mogą zostać otrzymane poprzez zdobycie okre�
 Dedication
 -----------
 
-Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat/pl.md) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/Taiko/pl.md) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/Osu!mania/pl.md).
+Osiągnięcia **The Dedication** mogą zostać zdobyte poprzez spędzanie dużo czasu w osu!standard / zbieranie owoców w trybie [Catch the Beat](/wiki/Game_Modes/osu!catch) / uderzanie w bębenki w trybie [Taiko](/wiki/Game_Modes/osu!taiko) / naciskanie klawiszy w trybie [osu!mania](/wiki/Game_Modes/osu!mania).
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
@@ -98,5 +98,3 @@ Jest to ten typ osiągnięć w którym nie wiadomo do końca jak je otrzymać. G
 ----------
 
 -   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)
-
-<Category:Gameplay/PL>

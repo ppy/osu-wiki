@@ -886,5 +886,3 @@ RepeatTopAndBottom</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category: Skinning/ZH](Category:_Skinning/ZH "wikilink")

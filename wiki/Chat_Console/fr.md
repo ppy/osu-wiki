@@ -235,5 +235,3 @@ Carlito: Carlito! Carlito!</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category:Infrastructure of osu!/FR](Category:Infrastructure_of_osu!/FR "wikilink")

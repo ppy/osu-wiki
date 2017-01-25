@@ -268,5 +268,3 @@ Observações
 <sup>½</sup> Participou com outro país como um único time.
 
 <sup>×2</sup> Teve dois times.
-
-<Category:Tournaments/PT> [Category:History of osu!/PT](Category:History_of_osu!/PT "wikilink")

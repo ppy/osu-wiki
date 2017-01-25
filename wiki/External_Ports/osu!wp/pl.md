@@ -97,5 +97,3 @@ Nie możesz.
 
 -   Jeżeli chcesz się zalogować (wymaga połączenia internetowego), musisz zalogować się na swoje konto osu!WP albo je wpierw stworzyć.
     -   Nazwa wspiera chińskie, japońskie oraz koreańskie znaki.
-
-[Category:Game Ports/PL](Category:Game_Ports/PL "wikilink")

@@ -139,5 +139,3 @@ Pliki .dll są komponentami osu!.exe, więc je zignoruj.
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
-
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu!/PL "wikilink")

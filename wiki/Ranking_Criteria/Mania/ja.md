@@ -68,5 +68,3 @@ Guidelines
 | 8K       | Dance Dance Revolution (Double)    |
 | 8K(R)    | Beatmania IIDX(P2)                 |
 | 8K (L)   | Beatmania IIDX(P1)                 |
-
-<Category:Osu!mania/JP> [Category:Ranking Criteria/JP](Category:Ranking_Criteria/JP "wikilink") <Category:Beatmapping/JP>

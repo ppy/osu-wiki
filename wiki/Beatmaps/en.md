@@ -215,4 +215,3 @@ Why I can't download the beatmaps?
 
 -   You are not using an osu! account. The server treats you as a guest and beatmaps (except Beatmaps Packs that is) cannot be downloaded from the site until you log in.
     -   Downloading from the site contributes to server cost. The server cost itself to sustain osu! is not cheap (say, roughly $5,000 (USD) -- $10,000+ (USD) a month) and further increasing it may cause updates and further improvement delayed due to the asset mostly used up by the server cost.
-

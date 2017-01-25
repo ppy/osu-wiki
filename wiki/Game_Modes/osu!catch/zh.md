@@ -35,5 +35,3 @@
 接水果专用谱面目前已经可以被rank上架或者被包括在rank谱面里，在查找谱面时在Mode处选择Catch the Beat即可过滤出接水果/含有接水果专谱的图。 不过接水果的mapper数量比standard的mapper来讲相对较少，所以总的来说Catch the Beat 的专谱数是四个Mode里面最少的。相关的接水果谱面的制作向导也较少。
 
 注：接水果=CTB=Catch the Beat
-
-<Category:Catch_The_Beat/ZH>

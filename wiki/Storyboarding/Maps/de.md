@@ -120,5 +120,3 @@ Haben keine Seele™, sind aber dennoch gut
 -   [Sanch - Hoshi no Yuuki](http://osu.ppy.sh/s/36302)
 -   [DJ Sharpnel - StrangeProgram](http://osu.ppy.sh/s/5774)
 -   [Shiori Mikami - Watashi, Shuyaku no Akaza Akari Desu (Short Ver.)](http://osu.ppy.sh/s/48072)
-
-<Category:Deutsch>

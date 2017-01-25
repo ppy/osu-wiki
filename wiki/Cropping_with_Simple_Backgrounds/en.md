@@ -38,5 +38,3 @@ Finish
 | <img src="CSB-6.png" title="CSB-6.png" alt="CSB-6.png" width="150" /> | After removing any leftovers, your picture should be ready.  
 
                                                                          This method only works with one coloured background, but with it you can easily and quickly remove the background.  |
-
-<Category:Skinning>

@@ -93,7 +93,7 @@ Note: Deux gagnants (par vote du public et du staff) reçoivent chacun une anné
 Concours de l'osu!store
 ---------------------------
 
-Note: Le vainqueur remporte un **pack osu! store** (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), and [6 mois de supporter](/wiki/osu!supporter/fr.md)) tandis que les autres finalistes obtiennent [4 mois de supporter](/wiki/osu!supporter/fr.md).
+Note: Le vainqueur remporte un **pack osu! store** (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), and [6 mois de supporter](/wiki/osu!supporter)) tandis que les autres finalistes obtiennent [4 mois de supporter](/wiki/osu!supporter).
 
 | Concours | Titre                             | Exigences                                    | Sélections gagnantes | News                                   | Résultats       |
 |----------|-----------------------------------|----------------------------------------------|----------------------|----------------------------------------|-----------------|

@@ -35,5 +35,3 @@ W rankingu
 ----------
 
 Do 10 kwietnia 2012, mapy Catch the Beat nie mogły być rankingowe oraz wliczane w mapy rankingowe. Jednakże, to się zmieniło, i ludzie tworzący mapy mogą tworzyć poziomy trudności unikalne dla CtB, pod warunkiem, że będą oni przestrzegać wytycznych. Te wytyczne są jeszcze w trakcie ustalania, jednak im więcej map CtB będzie rankingowych i im więcej graczy będzie wystawiać swoje twórcze opinie, wytyczne rozwiną się by być dokładniejsze i wyczerpujące tak jak zasady osu! standard.
-
-[Category:Catch The Beat/PL](Category:Catch_The_Beat/PL "wikilink")

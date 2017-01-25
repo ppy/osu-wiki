@@ -288,5 +288,3 @@ Notas
 <sup>½</sup> Participó con otro equipo como uno solo.
 
 <sup>×2</sup> Tenía dos equipos.
-
-<Category:Tournaments/ES> [Category:History of osu!/ES](Category:History_of_osu!/ES "wikilink")

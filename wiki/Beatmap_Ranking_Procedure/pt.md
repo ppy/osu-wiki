@@ -32,5 +32,3 @@ Unranked ![](heartpop.gif "fig:heartpop.gif")
 Pessoas cometem erros. Então, se um mapa passar pelo sistema de aprovação com um erro grave, ele pode ser temporariamente unranked. Se o seu mapa for unrankeado, você pode arrumar os erros e então tentar chamar os BNs que qualificaram anteriormente, para então seu mapa ser ranked novamente o mais rápido possível.
 
 Nota: De vez em quando, será pedido para mudar coisas que você não quer. As vezes você pode seguir em frente sem mudar, mas se metade do Beatmap Nomination Group responsável concordar que você deve mudar aquilo, largue o seu orgulho e apenas mude.
-
-<Category:Beatmapping/PT>

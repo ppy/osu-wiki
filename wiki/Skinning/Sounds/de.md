@@ -216,5 +216,3 @@ Only played when mapped and included</p></td>
 </tr>
 </tbody>
 </table>
-
-<Category:Deutsch> <Category:Skinning/DE> <Category:Osu!Standard/DE> <Category:Taiko/DE> [Category:Catch the Beat/DE](Category:Catch_the_Beat/DE "wikilink") <Category:Osu!mania/DE>

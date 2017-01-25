@@ -208,4 +208,3 @@ Resuming osu! Play
 
 1.  Start Virtualbox, click on the virtual machine in the list and press "Start". [88](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup89.png)
 2.  After it has started up, double-click on the osu! logo on the Desktop to start osu!. [89](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup90.png)
-

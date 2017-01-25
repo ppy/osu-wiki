@@ -142,5 +142,3 @@ Depending on how many ranked maps you have, you are allowed between **3 to 6 unr
 **osu!supporters** have a larger cap and are allowed between **4 to 10 unranked maps.**
 
 Unranked beatmaps in the graveyard *don't have a limit*.
-
-<Category:Beatmapping/PT>

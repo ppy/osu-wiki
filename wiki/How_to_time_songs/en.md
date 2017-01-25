@@ -189,5 +189,3 @@ You should <u>only</u> help with timing if:
 -   You know what you are doing. Please do not rush to help with muilti timing, unless you are dead sure that you will be able to maintain and correct (if necessary) the result provided to the mapper all the way during the ranking process, and that the said result is correct or at least more accurate.
 
 That should be all you really need to know about timing beatmaps. Although this guide is written to decrease the amount of incorrectly timed beatmaps, it may not be perfect. Feel free to ask around if you are having any trouble, since timing is by no means a simple topic.
-
-<Category:Beatmapping>

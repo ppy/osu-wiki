@@ -80,5 +80,3 @@ Example
 `[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
 
 Line 1 will start fading in for 50 ms at 672, be a red color, and be midsized and bold, fading out to 0 at 1672. Line 2 will start fading in for 300 ms at 1172 and fade to 0 at 7172, be white, and large but not bold.
-
-<Category:Beatmapping>

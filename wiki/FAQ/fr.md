@@ -18,7 +18,7 @@ Tous ces éléments suivent le rythme des chansons populaires japonaises. Voilà
 
 ![](Ouendan.jpg "Ouendan.jpg")
 
-Vous pouvez voir les cibles sur l’écran inférieur et l’histoire (ou [Storyboard](http://osu.ppy.sh/wiki/FR:Storyboarding)) sur l’écran supérieur. Chaque niveau contient une histoire contant les mésaventures d’une personne. Et c’est à ce moment-là qu’Ouendan (Équipe de supporter) passe à l’action. À l'aide des encouragements virils des supporters, vous devez venir en aide aux personnes en détresse !
+Vous pouvez voir les cibles sur l’écran inférieur et l’histoire (ou [Storyboard](/wiki/Storyboarding)) sur l’écran supérieur. Chaque niveau contient une histoire contant les mésaventures d’une personne. Et c’est à ce moment-là qu’Ouendan (Équipe de supporter) passe à l’action. À l'aide des encouragements virils des supporters, vous devez venir en aide aux personnes en détresse !
 
 Comment est-ce que je joue ?
 ----------------------------
@@ -342,5 +342,3 @@ Credits
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
-
-<Category:FAQ/FR> <Category:Gameplay/FR>

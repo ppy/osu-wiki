@@ -19,12 +19,12 @@ Guías de instalación
 - Descarga el [instalador de osu!](https://osu.ppy.sh/p/download).
 - Haz doble clic en el archivo descargado y sigue las instrucciones para instalar osu!.
 - Ejecuta el juego haciendo doble clic en el ícono de osu! creado en tu escritorio.
-- Aparecerá el menú principal, pedirá que inicies sesión con tu cuenta de osu! (véase [Registro](/wiki/Registration/es.md)) o juegues sin conexión (offline).
+- Aparecerá el menú principal, pedirá que inicies sesión con tu cuenta de osu! (véase [Registro](/wiki/Registration)) o juegues sin conexión (offline).
 	- Si juegas en línea (online), el juego registrará tus puntuaciones y aparecerás en la tabla de posiciones.
 - ¡Disfruta la experiencia de jugar osu!
 
 ###### Añadir beatmaps
-Un [beatmap](/wiki/Glossary/es.md) es un archivo .osz, el cual contiene la canción y otros archivos necesarios para jugar.
+Un [beatmap](/wiki/Glossary) es un archivo .osz, el cual contiene la canción y otros archivos necesarios para jugar.
 
 - Ve a la [lista de beatmaps](https://osu.ppy.sh/p/beatmaplist). Busca una canción que te guste y haz clic en el título para abrir la página del beatmap.
 - Descárgalo haciendo clic en el botón rosado "Download beatmap!" (o, si está disponible, en el botón morado "Without Video" si no quieres descargar el video incluido).

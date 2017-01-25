@@ -1,15 +1,15 @@
 Accuracy
 ==========
 
-There are three types of accuracy: per [beatmap](/wiki/Beatmaps/en.md)'s accuracy, one's overall accuracy, and [pp](/wiki/Performance_Points/en.md)'s accuracy.
+There are three types of accuracy: per [beatmap](/wiki/Beatmaps)'s accuracy, one's overall accuracy, and [pp](/wiki/Performance_Points)'s accuracy.
 
-In simple terms, the beatmap's accuracy is dependent on [Hit-scores](/wiki/Score/en.md) gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
+In simple terms, the beatmap's accuracy is dependent on [Hit-scores](/wiki/Score) gained, overall accuracy is dependent on each submitted top score's accuracy (note that the accuracy will the weighted in some way so better scores influence your overall accuracy more than worse scores), and pp's accuracy is dependent on submitted online score's accuracy which is eligible for pp gain.
 
 
 Standard
 ----------
 
-In [Standard](/wiki/Game_Modes/Standard/en.md), accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount. In other words:
+In [Standard](/wiki/Game_Modes/osu!), accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount. In other words:
 
 **Accuracy = Total points of hits / (Total number of hits * 300)**
 
@@ -22,7 +22,7 @@ For reference: 300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 Taiko
 ------
 
-In [Taiko](/wiki/Game_Modes/Taiko/en.md) mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
+In [Taiko](/wiki/Game_Modes/osu!taiko) mode, the song accuracy is calculated by sum of all note accuracy divided by number of notes. A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo). Drumrolls and spinners do not influence the accuracy.
 
 **Accuracy = Total points of hits / (Total number of hits * 300)**
 
@@ -33,7 +33,7 @@ In [Taiko](/wiki/Game_Modes/Taiko/en.md) mode, the song accuracy is calculated b
 Catch the Beat
 ------------------
 
-In [Catch the Beat](/wiki/Game_Modes/Catch_The_Beat/en.md), the song accuracy is calculated as the number of non-spinner objects collected divided by the total number of non-spinner objects; fruits, large drops and small drops all have the same value.
+In [Catch the Beat](/wiki/Game_Modes/osu!catch), the song accuracy is calculated as the number of non-spinner objects collected divided by the total number of non-spinner objects; fruits, large drops and small drops all have the same value.
 
 **Accuracy = Total numbers of fruits caught / Total number of fruits**
 
@@ -46,7 +46,7 @@ Note that if you use the API to calculate the accuracy, number of droplets is un
 Mania
 ---------
 
-Accuracy is calculated similarly to [Standard](/wiki/Game_Modes/Standard/en.md) in this mode.
+Accuracy is calculated similarly to [Standard](/wiki/Game_Modes/osu!) in this mode.
 
 **Accuracy = Total points of hits / (Total number of hits * 300)**
 
@@ -61,7 +61,7 @@ Results screen
 
 ### Ranking
 
-  This shows your grade, an overview of your hits, as well as your actual accuracy percentage. For more details, see [Score](/wiki/Score/en.md).
+  This shows your grade, an overview of your hits, as well as your actual accuracy percentage. For more details, see [Score](/wiki/Score).
 
 ![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
@@ -85,7 +85,7 @@ Results screen
 #### Accuracy
 | Term | Meaning |
 | ---- | ------- |
-| Error | **These two values represent how far off your early hits are on average, and how far off your late hits are on average.** The higher the [OD value](/wiki/Song-Setup/en.md#Overall_Difficulty) of the beatmap you're playing, the lower these will have to be to do well. |
+| Error | **These two values represent how far off your early hits are on average, and how far off your late hits are on average.** The higher the [OD value](/wiki/Song_Setup) of the beatmap you're playing, the lower these will have to be to do well. |
 | Unstable Rate | **This value represents how consistently you time your hits**, with lower numbers being better (top players often score below 100). Note that this measures consistency, and not accuracy, so if you're consistent in hitting 15ms early, you'll get similar results to if you're consistent in hitting on time. The formula is essentially the standard deviation of your hit errors (in milliseconds) multiplied by 10. |
 
 #### Spin
@@ -101,5 +101,3 @@ Spin is only for osu!Standard
 
 -   The above four values are not saved and will disappear after you close osu!. You can only see them again by watching a saved replay.
 -   Due to the way the Double Time and Half Time mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing DT, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing HT.
-
-<Category:Gameplay><Category:Taiko><Category:Mania><Category:Catch-The-Beat><Category:osu!>

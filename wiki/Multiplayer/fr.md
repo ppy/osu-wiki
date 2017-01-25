@@ -307,4 +307,4 @@ Les joueurs seront directement redirigés ici sauf mention contraire.
 </tbody>
 </table>
 
-<!-- <Category:Gameplay/FR> -->
+<!--  -->

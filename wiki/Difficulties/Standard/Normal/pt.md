@@ -26,5 +26,3 @@ Agora, deixe sua imaginação fluir! Criar sequencias interessantes não machuca
 Boa sorte com suas dificuldades Normal!
 
 Nota: Se você possui uma dificuldade Easy, faça com que sua Normal seja um pouco mais difícil que sua Easy, obviamente.
-
-<Category:Beatmapping/PT>

@@ -24,5 +24,3 @@
 --------------
 
 待移动中……
-
-<Category:Storyboarding/ZH>

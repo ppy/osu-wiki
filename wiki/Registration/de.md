@@ -18,7 +18,7 @@ Gebe die benötigten Daten ein und drücke auf "Continue" </span>
 
 | <b>Legende</b>                                                                                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Benutzername</b> - Wähle deinen Namen für osu! weise! Wenn du deinen Namen ändern willst, dann lies dir bitte das [hier](https://osu.ppy.sh/wiki/DE:Help_Center#Kann_ich_meinen_Benutzernamen_vom_Account_.C3.A4ndern.3F) durch. 
+| 1. <b>Benutzername</b> - Wähle deinen Namen für osu! weise! Wenn du deinen Namen ändern willst, dann lies dir bitte das [hier](/wiki/Help_Center) durch. 
 
  a. Maximal 15 Zeichen.  
 
@@ -51,5 +51,3 @@ Was als nächstes?
 Ab hier bist du bereit dein Abenteuer auf der Seite ["Leitfaden für Neueinsteiger"](DE:Willkommen "wikilink") fortzusetzen. Vergesse auch nicht die [Regeln](DE:Regeln "wikilink") vorher durchzulesen!
 
 Wenn du Hilfe im Spiel benötigen solltest, melde dich einfach im \#help Channel. Am einfachsten kommst du in den \#help Channel, wenn du "/join \#help" in den Chat eingebst (ohne Anführungszeichen).
-
-<Category:Deutsch>
