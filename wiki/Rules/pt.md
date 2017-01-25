@@ -1,4 +1,7 @@
-Essa pagina é seu painel de informações de todas as regras do [osu!](PT:Osu! "wikilink"). Abaixo temos uma divisão de cada seção para fornecer mais detalhes de cada particularidade do jogo.
+Regras do osu!
+==================
+
+Essa pagina é seu painel de informações de todas as regras do [osu!](/wiki/Glossary). Abaixo temos uma divisão de cada seção para fornecer mais detalhes de cada particularidade do jogo.
 
 Regras da Comunidade
 --------------------
@@ -22,12 +25,12 @@ Regras do Fórum
 8.  Qualquer tipo de anúncio, propaganda ou links relacionados as mesmas são completamente proibidos. Não poste-os, ponto final.
 9.  Conteúdo que possui carregamento ou play automático (como vídeos do youtube, aplicativos feitos em flash, etc.) não são permitidos.
 
-Regras do Fórum de [BSS](PT:BSS "wikilink")
+Regras do Fórum de [BSS](/wiki/Glossary)
 -------------------------------------------
 
-Essas regras aplicam-se aos tópicos criados pelo [BSS](PT:BSS "wikilink") ([Beatmap](PT:Beatmap "wikilink") Submission System/Sistema de Envio de Beatmaps). Esses tópicos são criados automaticamente pelo cliente do osu! quando um beatmap é enviado pelo [editor](PT:Editor "wikilink").
+Essas regras aplicam-se aos tópicos criados pelo [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System/Sistema de Envio de Beatmaps). Esses tópicos são criados automaticamente pelo cliente do osu! quando um beatmap é enviado pelo [editor](/wiki/Beatmap_Editor).
 
-1.  Não crie tópicos no sub-fórum de [Pending Submissions](PT:Pending "wikilink") ou no [WIP](PT:WIP "wikilink") . Use o sub-fórum apropriado quando criar um tópico. (Isso obviamente exclui tópicos do BSS.)
+1.  Não crie tópicos no sub-fórum de [Pending Submissions](/wiki/Beatmaps) ou no [WIP](/wiki/Glossary) . Use o sub-fórum apropriado quando criar um tópico. (Isso obviamente exclui tópicos do BSS.)
 2.  Não fuja do assunto nos tópicos criados pelo BSS. Esses tópicos são sobre o mapa enviado. Se você tem algum problema que não é diretamente relacionado ao mapa, poste no fórum apropriado.
 3.  Não roube o beatmap dos outros, apresentando-os como se fossem feitos por você. Também não faça envios ou uso do trabalho dos outros sem a permissão dos mesmos (incluindo, mas não se limitando a skins e dificuldades de outras pessoas).
 
@@ -44,14 +47,12 @@ Regras do Chat
 1.  Não faça spam ou flood.
 2.  Evitar silenciamentos irá evoluí-los a uma restrição caso você seja encontrado fazendo isso, e você será encontrado.
     1.  Falar sobre silenciamentos (seja próprio ou de outra pessoa) em canais públicos é proibido e punível com outro silenciamento.
-
 3.  Discussão pública sobre conteúdo impróprio ou referência sexual não são permitidos como citado na Regra da Comunidade \#5. Mensagens privadas não são incluídas nessa regra.
 4.  Qualquer link para conteúdo externo (imagens, tópicos, vídeos, etc) não devem conter conteúdo fotossensível (flashes rápidos, tremedeiras, etc).
 5.  É expressamente proibido a falsidade ideológica, especialmente no caso de membros da staff.
 6.  Não divulgue ou peça por partidas multiplayer fora do \#lobby.
 7.  Discutir sobre qualquer tipo de trapaça ou alteração do cliente é completamente proibido.
     1.  Mencionar ou falar sobre jogadores banidos é proibido da mesma forma.
-
 8.  Em canais que possuem um idioma específico, fale o idioma predominante se você está ou quer participar da conversa. Caso o canal não esteja sendo específico com o idioma que deve ser utilizado, sempre será o Inglês.
     1.  Moderadores talvez falem em inglês em canais de idioma específico caso vejam a necessidade, para então poderem controlar a situação.
 

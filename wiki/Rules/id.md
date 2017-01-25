@@ -1,4 +1,7 @@
-Halaman ini adalah tempat pemberhentian yang tepat untuk semua hal-hal bersifat ilegal dalam [osu!](ID:Osu! "wikilink"). Berikut ini adalah rincian dari setiap bagian untuk memberikan detail lebih rinci yang berlaku untuk suatu fakta tertentu dalam osu!.
+Peraturan osu!
+===============
+
+Halaman ini adalah tempat pemberhentian yang tepat untuk semua hal-hal bersifat ilegal dalam [osu!](/wiki/Glossary). Berikut ini adalah rincian dari setiap bagian untuk memberikan detail lebih rinci yang berlaku untuk suatu fakta tertentu dalam osu!.
 
 Aturan Komunitas
 ----------------
@@ -22,12 +25,12 @@ Aturan Seluruh Forum
 8.  Iklan dan link referral secara eksplisit dilarang. Hanya saja, jangan mempostingnya, dalam kurun waktu yang lama.
 9.  Memuat konten (video youtube, applet flash, dll) tidak diperbolehkan.
 
-Peraturan Forum [BSS](ID:BSS "wikilink")
+Peraturan Forum [BSS](/wiki/Glossary)
 ----------------------------------------
 
-Aturan-aturan ini berlaku secara ketat dengan sifat unik dari [BSS](ID:BSS "wikilink") ([Beatmap](ID:Beatmap "wikilink") Submission System/Sistem Pengajuan Beatmap). Postingan ini dibuat melalui klien osu! yang ketika sebuah beatmap disampaikan melalui [editor](ID:Editor "wikilink").
+Aturan-aturan ini berlaku secara ketat dengan sifat unik dari [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System/Sistem Pengajuan Beatmap). Postingan ini dibuat melalui klien osu! yang ketika sebuah beatmap disampaikan melalui [editor](/wiki/Beatmap_Editor).
 
-1.  Jangan membuat thread di [Pending Submissions](ID:Pending "wikilink") dan [WIP](ID:WIP "wikilink") . Gunakan subforum yang tepat saat membuat thread. (Ini jelas tidak termasuk posting di BSS.)
+1.  Jangan membuat thread di [Pending Submissions](/wiki/Beatmaps) dan [WIP](/wiki/Glossary) . Gunakan subforum yang tepat saat membuat thread. (Ini jelas tidak termasuk posting di BSS.)
 2.  Janganlah membuat posting diluar topik di forum BSS. Forum BSS itu mengenai induk sebuah beatmaps. Jika Anda memiliki masalah dengan sesuatu yang tidak secara langsung berkaitan dengan beatmap itu, posting di forum yang tepat.
 3.  Jangan mencuri beatmaps orang lain, menghadirkan mereka seolah-olah mereka sedang diplagiatkan oleh Anda. Jangan juga meng-upload atau menggunakan karya orang lain tanpa izin yang jelas (termasuk, namun tidak terbatas pada skin dan Guest Diff).
 
@@ -46,7 +49,7 @@ Peraturan Obrolan-game
 3.  Diskusi publik mengenai konten NSFW atau segala tentang eksplisit seksual tidak diizinkan sesuai aturan komunitas \#5. Pesan pribadi tidak tercakup oleh aturan ini atau dengan kata lain, diperbolehkan.
 4.  Semua link ke konten eksternal (gambar, forum, video, dll) harus tidak mengandung konten fotosensitif (sangat cepat berkedip lampunya, dll).
 5.  Peniruan secara eksplisit dilarang, terutama staf.
-6.  Jangan mengiklankan game multiplayer diluar \#lobby.
+6.  Jangan mengiklankan game multiplayer diluar #lobby.
 7.  Membahas kecurangan, hacking, atau bentuk lain dari pelecehan klien atau kecurangan secara eksplisit dilarang.
     1.  Menyebutkan atau berbicara tentang pemain yang diblokir dilarang juga.
 
@@ -60,5 +63,6 @@ Peraturan Klien
 2.  Mengubah elemen gameplay melalui metode apapun SELAIN Beatmap skin / klien skin mungkin dianggap sebagai sebuah kecurangan dan akan ditangani secara kasar.
 
 ------------
+
 Cheaters secara permanen dilarang dan dibatasi pada pelanggaran pertama dan terpaksa menunggu 6 bulan MINIMUM sebelum mereka dapat mengajukan banding larangan tersebut. Hanya saja, janganlah untuk melakukan hal tersebut. Pelarangan ini pada umumnya jarang, jika pernah, akan menyebabkan kerusakan.
 Melanggar salah satu aturan ini, hasilnya adalah pelaku akan dikenakan dengan dua pilihan yaitu dibungkam atau dibatasi. Pengguna yang dibungkam tidak bisa mengobrol, mempost di forum, memperbarui beatmaps mereka, atau bermain game multiplayer. Pengguna yang dibatasi memiliki semua hukuman dari pengguna yang dibungkam, bersama dengan tidak mampu untuk mengirimkan skor atau bermain online dalam kapasitas apapun. Pembatasan ini SERIUS, dan hanya dapat dicabut oleh anggota staf pendukung pemain yang dapat diakses melalui accounts@ppy.sh atau dukungan obrolan langsung secara berkala tersedia pada semua halaman website.

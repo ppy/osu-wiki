@@ -1,4 +1,7 @@
-This page is your one stop shop for all things illegal within [osu!](osu! "wikilink").
+osu! Rules
+============
+
+This page is your one stop shop for all things illegal within [osu!](/wiki/Glossary).
 
 Below is a breakdown of each section to provide more detail as it applies to one particular fact of osu!
 
@@ -24,12 +27,12 @@ Forum-wide rules
 8.  Advertisements and referral links are explicitly forbidden. Just don't post them, period.
 9.  Autoloading content (youtube videos, flash applets, etc) is not allowed.
 
-[BSS](BSS "wikilink") Forum Rules
+[BSS](/wiki/Glossary) Forum Rules
 ---------------------------------
 
-These rules apply strictly to the unique nature of the [BSS](BSS "wikilink") ([Beatmap](Beatmap "wikilink") Submission System) threads. These threads are created via the osu! client when a beatmap is submitted through the [editor](editor "wikilink").
+These rules apply strictly to the unique nature of the [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) threads. These threads are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
-1.  Do not create threads in the [Pending Submissions](Pending "wikilink") and [WIP](WIP "wikilink") boards. Use the appropriate subforum when creating a thread. (This obviously excludes BSS threads.)
+1.  Do not create threads in the [Pending Submissions](/wiki/Beatmaps) and [WIP](/wiki/Glossary) boards. Use the appropriate subforum when creating a thread. (This obviously excludes BSS threads.)
 2.  Do not get off topic in BSS threads. BSS threads are about the parent beatmap. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3.  Do not steal others' beatmaps, presenting them as if they're mapped by you. Do not also upload or use other people's work without their explicit permission (including, but not limited to skins and guest difficulties).
 
@@ -46,14 +49,12 @@ In-Game Chat Rules
 1.  No spamming or flooding.
 2.  Evading silences will immediately escalate to a restriction if you are found doing it, and you will be found.
     1.  Talking about silences (your own previous or someone else's) in public chats is forbidden and will be punished with a silence.
-
 3.  Public discussion of NSFW content or anything explicitly sexual is not permitted as per community rule \#5. Private messages are not covered by this rule.
 4.  All links to external content (images, threads, videos, etc) must not contain photosensitive content (very fast flashing strobes, etc).
 5.  Impersonation is explicitly forbidden, especially of staff.
 6.  Do not advertise multiplayer games outside of \#lobby.
 7.  Discussing cheating, hacking, or any other form of client abuse or foul play is explicitly forbidden.
     1.  Mentioning or talking about banned players is forbidden as well.
-
 8.  In language-specific channels, speak the dominant language if you are participating in discussion. Where the language for a channel is not explicitly stated, it is always English.
     1.  Moderators might talk English in language-specific channels as they see need for it to handle the situation appropriately.
 
@@ -64,6 +65,7 @@ Client rules
 2.  Altering gameplay elements through any method BESIDES beatmap skins/client skins is considered as possible cheating and will be dealt with harshly.
 
 ------------
+
 Cheaters are permanently banned and restricted upon the first offense and are forced to wait 6 months MINIMUM before they may appeal the ban. Just don't do it. Bans are rarely, if ever, made in error.
 
 Violating any of these rules results in the offender being hit with either a silence or a restriction.
