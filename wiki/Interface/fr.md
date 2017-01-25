@@ -35,7 +35,6 @@ Menu de jeu
 
 ==Le hall multijoueur==
 
-  
 *Pour plus d'informations: <FR:Multiplayer>*
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
@@ -45,7 +44,6 @@ Ecran de sélection des beatmaps
 
 <img src="soloplay1.jpeg" title="L&#39;écran de sélection" alt="L&#39;écran de sélection" width="300" />
 
-  
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
 ![](osu.gif "fig:osu.gif")"osu!" pour [osu!](FR:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Tambour" pour [osu!Taiko](FR:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Pomme" pour [osu!Catch The Beat](FR:Catch_the_Beat "wikilink") et ![](mania.gif "fig:mania.gif")"Piano" pour [osu!mania](FR:Mania "wikilink")
@@ -133,7 +131,6 @@ Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| 
 Online score leader-board
 -------------------------
 
-  
 Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")

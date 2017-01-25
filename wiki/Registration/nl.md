@@ -1,7 +1,6 @@
 Hoe kan ik registreren?
 -----------------------
 
-  
 Een osu! account registreren is heel erg simpel als 1,2,3! Volg deze stappen.
 
 Als je binnen 24 uur niet inlogt op je account dan wordt de registratie ongeldig en moet je opnieuw registreren.
@@ -18,11 +17,10 @@ Steps
 
 | <b>Legend</b>                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Username</b> - Jouw naam in osu!. Kies verstandig! Want je kan alleen je naam veranderen <b>EENMALIG</b> als je supporter tag hebt.                 
-                                                                                                                                                            
-                                                                                                                                                            
- a. Maximaal gebruik van 15 letters                                                                                                                         
-                                                                                                                                                            
+| 1. <b>Username</b> - Jouw naam in osu!. Kies verstandig! Want je kan alleen je naam veranderen <b>EENMALIG</b> als je supporter tag hebt.  
+
+ a. Maximaal gebruik van 15 letters  
+
  b. alfanumeriek letters ("a-z, A-Z, 0-9"), underscores ("\_"), kwadraat beugels, ("\[" and "\]") en dashes ("-") zijn alleen toegestaan.                   |
 | 2.<b> E-mail Address</b> - Dit wordt gebruikt in het geval als je je wachtwoord bent vergeten en anderen dingen. Vergeet het niet!                        |
 | 3. <b>Password</b> - Type hier je wachtwoord niemand moet er achter zien te komen en makkelijk onthoudbaar zijn voor jezelf.                              |
@@ -33,9 +31,8 @@ Steps
 
 | <b>Legend</b>                                                                                          |
 |--------------------------------------------------------------------------------------------------------|
-| 1. osu! icon - Execute osu! door er op te dubbelklikken of rechtsklik en dan op open te drukken.       
-                                                                                                         
-                                                                                                         
+| 1. osu! icon - Execute osu! door er op te dubbelklikken of rechtsklik en dan op open te drukken.  
+
  <i>Note: Je hoeft osu! niet als administrator uit te voeren. Als het nodig is vraagt osu! het.</i>      |
 | 2. User Panel - Klik er op om te kunnen inloggen en uit te loggen.                                     |
 | 3. Log-in dialog - Voer je gebruikersnaam en wachtwoord in die je toe net hebt gemaakt en druk log in. |

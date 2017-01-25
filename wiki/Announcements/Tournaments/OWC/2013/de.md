@@ -1,3 +1,6 @@
+osu! World Cup 2013
+=======================
+
 ![OWC 2013 logo](logo.png)
 
 Das osu! World Cup 2013 ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](//osu.ppy.sh/g/26). Das Turnier fand vom 15. Okt. 2013 bis zum 08. Dez. 2013 statt.
@@ -13,7 +16,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Pl.gif) **Polen**    |
 
 Turnierzeitplan
-===============
+------------------
 
 | Event                         | Timestamp                 |
 |-------------------------------|---------------------------|
@@ -26,7 +29,7 @@ Turnierzeitplan
 | Finale/Partie um den 3. Platz | 07.-08. Dez. 2013         |
 
 Preise
-======
+--------
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -35,7 +38,7 @@ Preise
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                           |
 
 Organisation
-============
+--------------
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +51,7 @@ Organisation
 ------------------------------------------------------------------------
 
 Links
-=====
+------------
 
 -   [Diskussionsthread](//osu.ppy.sh/forum/t/160181/start=0)
 -   [osu! World Cup 2013 auf Twitch](//www.twitch.tv/osulive/profile/pastBroadcasts)
@@ -57,7 +60,7 @@ Links
 ------------------------------------------------------------------------
 
 Teilnehmer
-==========
+-----------
 
 ### Top-platzierte
 
@@ -114,17 +117,16 @@ Teilnehmer
 ------------------------------------------------------------------------
 
 K.-o.-Runden
-============
+--------------
 
 ![OWC 2013 brackets](brackets.jpg)
 
 ------------------------------------------------------------------------
 
 Mappools
-========
+-----------
 
-Finals
-------
+### Finals
 
 **[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](//www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
@@ -169,8 +171,7 @@ Finals
 |-----------------------------------------------------------------------------------------|
 | **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) \[Love\]](//osu.ppy.sh/b/226605)** |
 
-Halbfinale
-----------
+### Halbfinale
 
 **[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](//www.mediafire.com/?pn3yxce7m6v4j13)**
 
@@ -215,8 +216,7 @@ Halbfinale
 |---------------------------------------------------------------------------------------|
 | **[Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](//osu.ppy.sh/b/151229)** |
 
-Viertelfinale
--------------
+### Viertelfinale
 
 **[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](//www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
@@ -261,8 +261,7 @@ Viertelfinale
 |------------------------------------------------------------------------------------------|
 | **[HujuniseikouyuuP - Talent Shredder (val0108) \[0108 style\]](//osu.ppy.sh/b/178966)** |
 
-Achtelfinale
-------------
+### Achtelfinale
 
 **[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](//www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
@@ -307,8 +306,7 @@ Achtelfinale
 |------------------------------------------------------------------------------------|
 | **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](//osu.ppy.sh/b/221777)** |
 
-Gruppenphase
-------------
+### Gruppenphase
 
 **[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](//www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
@@ -356,10 +354,9 @@ Gruppenphase
 ------------------------------------------------------------------------
 
 Ergebnisse aller Partien
-========================
+--------------------------
 
-Finale
-------
+### Finale
 
 **07\. Dez. 2013 (Samstag)**
 
@@ -373,8 +370,7 @@ Finale
 |:----------------------------------------------|:-----------:|------------------------------------------:|-------------------------------------|
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 1   - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif) | [#1](https://osu.ppy.sh/mp/3272199) |
 
-Halbfinale
-----------
+### Halbfinale
 
 **30\. Nov 2013 (Samstag)**
 
@@ -383,8 +379,7 @@ Halbfinale
 | ![](/wiki/shared/flag/Kr.gif) **Korea**  | **6**  - 1 | United Kingdom ![](/wiki/shared/flag/Gb.gif) | [#1](http://osu.ppy.sh/mp/3088440) |
 | ![](/wiki/shared/flag/Tw.gif) **Taiwan** | **6**  - 0 | Poland ![](/wiki/shared/flag/Pl.gif)         | [#1](http://osu.ppy.sh/mp/3091169) |
 
-Viertelfinale
--------------
+### Viertelfinale
 
 **24\. Nov 2013 (Sonntag)**
 
@@ -395,8 +390,7 @@ Viertelfinale
 | ![](/wiki/shared/flag/Cn.gif) China              | 4 - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif) | [#1](http://osu.ppy.sh/mp/2966197)                                          |
 | ![](/wiki/shared/flag/Gb.gif) **United Kingdom** | **5** - 3 | Germany ![](/wiki/shared/flag/De.gif)    | [#1](http://osu.ppy.sh/mp/2969031) [#A](http://puu.sh/5rT5F/9b2a7bfa74.jpg) |
 
-Achtelfinale
-------------
+### Achtelfinale
 
 **16\. Nov 2013 (Samstag)**
 
@@ -416,8 +410,7 @@ Achtelfinale
 | ![](/wiki/shared/flag/Fr.gif) France      | 4      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](http://osu.ppy.sh/mp/2817324)                                                                       |
 | ![](/wiki/shared/flag/At.gif) **Austria** | **5**  - 0     | Latvia ![](/wiki/shared/flag/Lv.gif)        | [#1](https://osu.ppy.sh/mp/2820030)                                                                      |
 
-Gruppenphase
-------------
+### Gruppenphase
 
 **8\. Nov 2013 (Freitag)**
 
@@ -482,19 +475,19 @@ Gruppenphase
 ------------------------------------------------------------------------
 
 Regelsätze
-==========
+----------------
 
-==Turnierregeln=
+### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-    -   Es wird auch einen [Hidden](DE:Game_Modifiers#Hidden "wikilink"), [HardRock](DE:Game_Modifiers#Hard_Rock "wikilink"), [DoubleTime](DE:Game_Modifiers#Double_Time "wikilink") und FreeMod Stappel geben.
+    -   Es wird auch einen [Hidden](/wiki/Game_Modifiers/de.md), [HardRock](/wiki/Game_Modifiers/de.md), [DoubleTime](/wiki/Game_Modifiers/de.md) und FreeMod Stappel geben.
 
 3.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4.  Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5.  Die Ergebnisse von wiederbelebten Spielern wird zum Teamergebnis mit angerechnet.
-6.  Das Benutzen der [visuellen Einstellungen](DE:Game_Modifiers#Visual_Settings "wikilink") ist erlaubt.
+6.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers/de.md) ist erlaubt.
 7.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8.  Wenn ein Spieler die Verbindung verlieren sollte, wird das Ergebnis als nichtig erklärt. Dies kann bis zu 2-mal passieren. Der Spieler, der die Verbindung zum 3. Mal verlieren sollte, wird so gehandhabt, als hätte er die Partie absichtlich verlassen.
 9.  Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
@@ -509,8 +502,7 @@ Regelsätze
 14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
 15. Jede Veränderung an den Regeln wird bekannt gegeben.
 
-Turnierregistrierung
---------------------
+### Turnierregistrierung
 
 1.  Ihr Team benötigt **mindestens 6 Spieler** zum Teilnehmen.
     1.  Die maximale Teamgröße ist 8.
@@ -524,16 +516,15 @@ Turnierregistrierung
 5.  Die maximale Anzahl an Teams liegt bei 32.
 6.  Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
-Etappenanweisungen
-------------------
+### Etappenanweisungen
 
 1.  In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
 2.  Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
 3.  Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
     1.  Am meisten gewonnene Partien.
-    2.  Hat ein größeres `{(Anzahl` `an` `gewonnenen` `Maps)` `-` `(Anzahl` `an` `verlorenen` `Maps)}`.
+    2.  Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
     3.  Am meisten gewonnene Maps.
-    4.  Hat ein größeres `∑{(gesamtes` `Ergebnisdifferenz)` `/` `(maximales` `Ergebnis)}`.
+    4.  Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
     5.  Gewinner von Rückspielen.
 
 4.  Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
@@ -543,8 +534,7 @@ Etappenanweisungen
     -   Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
     -   Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
-Partieanweisungen
------------------
+### Partieanweisungen
 
 1.  Ein Schiedsrichter wird 30 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
     1.  Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptiänen so früh wie möglich gesendet.
@@ -563,8 +553,7 @@ Partieanweisungen
 4.  Jeder Kapitän muss die Ergebnisse mit einem Screenshot abspeichern. Die Schiedsrichter werden den Kapitänen daran erinnern.
 5.  Die Ergebnisse werden per Statistiken auf einer Webseite veröffentlicht.
 
-Mappoolanweisungen
-------------------
+### Mappoolanweisungen
 
 1.  Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben.
 2.  Jeder Mappool besteht aus 5 Stappeln: NoMod, HardRock, Hidden, DoubleTime und FreeMod
@@ -582,8 +571,7 @@ Mappoolanweisungen
     -   3 Beatmaps in der Gruppenphase
     -   4 Beatmaps in der K.-o.-Runde
 
-Zeitplananweisungen
--------------------
+### Zeitplananweisungen
 
 1.  Jede Etappe wird **einzeln am Wochenende** abgehalten (siehe oben bei Turnierzeitplan).
 2.  -   Die Partien können sich in der Gruppenphase überlappen.
@@ -592,4 +580,4 @@ Zeitplananweisungen
 4.  Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5.  Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Tournaments/DE>
+<Category: Deutsch><Category:Tournaments/DE>

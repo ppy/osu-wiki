@@ -1,9 +1,12 @@
+osu!Taiko World Cup 2016
+========================
+
 ![TWC 2016 logo](logo.png)
 
 The **osu!taiko World Cup 2016** (***TWC 2016***) is a country-based osu!taiko tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is the 6th installment of the osu!taiko World Cup.
 
 Tournament schedule
-===================
+------------------------
 
 | Event              | Timestamp                 |
 |--------------------|---------------------------|
@@ -17,7 +20,7 @@ Tournament schedule
 | Finals - Week 2    | 23-24 Apr 2016            |
 
 Prizes
-======
+-------------
 
 We are aiming to have a minimum $3,800 cash prize pool for this world cup. You can support raising this amount of money. We will publish a method for that, as soon as we have it available!
 
@@ -28,7 +31,7 @@ We are aiming to have a minimum $3,800 cash prize pool for this world cup. You c
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge                                  |
 
 Organization
-============
+------------
 
 | Job                   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +52,7 @@ Organization
 ------------------------------------------------------------------------
 
 Participants
-============
+------------
 
 | Top Seed                                     | Mid Seed                                      | Low Seed                                          |
 |----------------------------------------------|-----------------------------------------------|---------------------------------------------------|
@@ -65,10 +68,9 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+-----------
 
-Finals
-------
+### Finals
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
@@ -111,8 +113,7 @@ Finals
 |-----------------------------------------------------------------------------------|
 | [Spawn Of Possession - Apparition (Raiden) \[Terror Oni\]](//osu.ppy.sh/b/914189) |
 
-Semifinals
-----------
+### Semifinals
 
 **[Download the mappack here!](//www.mediafire.com/download/kmqmdnde5tmdxz8/TWC_2016_Semifinals.rar)**
 
@@ -153,8 +154,7 @@ Semifinals
 |---------------------------------------------------------------------------------------------|
 | [Imperial Circus Dead Decadence - Uta (Kite) \[lolcubes' Hell Oni\]](//osu.ppy.sh/b/899716) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **[Download the mappack here!](//www.mediafire.com/download/xaag5o0tyacpcm4/TWC_2016_Quarterfinals.rar)**
 
@@ -195,8 +195,7 @@ Quarterfinals
 |-------------------------------------------------------------------------------------------------|
 | [orangentle / Yu\_Asahina - HAELEQUIN (Extended ver.) (Sayaka-) \[Oni\]](//osu.ppy.sh/b/692432) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the mappack here!](//www.mediafire.com/download/c35kxmdomnpp1sy/TWC_2016_Round_of_16.rar)**
 
@@ -237,8 +236,7 @@ Round of 16
 |------------------------------------------------------------------------|
 | [DragonForce - Defenders (Raiden) \[Tatsujin\]](//osu.ppy.sh/b/835691) |
 
-Group Stage
------------
+### Group Stage
 
 **[Download the mappool here!](//www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar)**
 
@@ -282,21 +280,19 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
+--------------
 
 **[Find all detailed Match Statistics here!](//docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml)**
 
-Finals - Week 2
----------------
+### Finals - Week 2
 
-**Sunday, 24\. April 2016 **
+**Sunday, 24\. April 2016**
 
 | Team A                                | Score       | Team B                                   | History                        |
 |:--------------------------------------|:-----------:|-----------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Tw.gif) Taiwan | 2 - ***7*** | **Japan** ![](/wiki/shared/flag/Jp.gif) | [#1](//osu.ppy.sh/mp/24400797) |
 
-Finals - Week 1
----------------
+### Finals - Week 1
 
 **Saturday, 16\. April 2016**
 
@@ -313,8 +309,7 @@ Finals - Week 1
 |:--------------------------------------|:-----:|------------------------------------------:|--------------------------------|
 | ![](/wiki/shared/flag/Ca.gif) Canada | 5 - 6 | **Taiwan** ![](/wiki/shared/flag/Tw.gif) | [#1](//osu.ppy.sh/mp/24227476) |
 
-Semifinals
-----------
+### Semifinals
 
 **Saturday, 9\. April 2016**
 
@@ -334,8 +329,7 @@ Semifinals
 | ![](/wiki/shared/flag/Kr.gif) **South Korea** | **6** - 1 | United States ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/24057716) |
 | ![](/wiki/shared/flag/Tw.gif) **Taiwan**      | **6** - 0 | Indonesia ![](/wiki/shared/flag/Id.gif)     | [#1](//osu.ppy.sh/mp/24068098) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **Saturday, 2\. April 2016**
 
@@ -350,8 +344,7 @@ Quarterfinals
 | ![](/wiki/shared/flag/Ar.gif) Argentina          | 0 - **5** | **Germany** ![](/wiki/shared/flag/De.gif)   | [#1](//osu.ppy.sh/mp/23880433) |
 | ![](/wiki/shared/flag/Us.gif) United States      | 2 - **5** | **Canada** ![](/wiki/shared/flag/Ca.gif)    | [#1](//osu.ppy.sh/mp/23883766) |
 
-Round of 16
------------
+### Round of 16
 
 **Sunday, 27\. March 2016**
 
@@ -366,8 +359,7 @@ Round of 16
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom     | 1 - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)        | [#1](//osu.ppy.sh/mp/23726773) |
 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | 1 - **5** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/23727923) |
 
-Group Stage
------------
+### Group Stage
 
 **Sunday, 20\. March 2016**
 
@@ -397,24 +389,23 @@ Group Stage
 | ![](/wiki/shared/flag/Pl.gif) Poland | 2 - **4** | **Canada** | ![](/wiki/shared/flag/Ca.gif) | [#1](//osu.ppy.sh/mp/23543708) |
 | ![](/wiki/shared/flag/Br.gif) Brazil | 0 - **4** | **United States** | ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/23545079) |
 | ![](/wiki/shared/flag/It.gif) Italy | 1 - **4** | **Poland** | ![](/wiki/shared/flag/Pl.gif) | [#1](//osu.ppy.sh/mp/23545089) |
- 
+
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+---------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod bracket.
 
 3.  Match schedule will be settled by the Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed player's score do not get added to the team score.
-6.  Use of the [Visual Settings](Game_Modifiers#Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md#Visual_Settings) options are allowed.
 7.  If the beatmap ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the beatmap.
     1.  Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -427,7 +418,7 @@ Tournament Rules
 14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 15. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-17. The multiplayer chatrooms underlie the [osu! community rules](Rules "wikilink"). All chat rules apply to the multiplayer chatrooms, too.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules/en.md). All chat rules apply to the multiplayer chatrooms, too.
     1.  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 18. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -441,8 +432,7 @@ Tournament Rules
 
 21. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -452,7 +442,7 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!taiko performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -460,8 +450,7 @@ Tournament Registration
 
 5.  Mapset selectors may not participate as a player in this tournament.
 
-Stage Instructions
-------------------
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
     1.  This may change depending on how many teams are accepted into the competition at the end.
@@ -469,9 +458,9 @@ Stage Instructions
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
@@ -494,8 +483,7 @@ Stage Instructions
     -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
     -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2016: (TeamBlue) vs (TeamRed)".
@@ -515,13 +503,12 @@ Match Instructions
 
 7.  Results of the Group Stage will be published via a Statistics sheet.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
 
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](Hidden "wikilink"), [HardRock](HardRock "wikilink"), [DoubleTime](DoubleTime "wikilink") and FreeMod.
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod.
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.
@@ -535,8 +522,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
-Scheduling Instructions
------------------------
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -547,4 +533,4 @@ Scheduling Instructions
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:Taiko Tournaments](Category:Taiko_Tournaments "wikilink") [Category:Taiko World Cup](Category:Taiko_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:Taiko Tournaments><Category:Taiko World Cup>

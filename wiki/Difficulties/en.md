@@ -18,7 +18,6 @@ This is the range that decides which Web Icons are used depending on the star ra
 
 From the [Ranking Criteria](Ranking_Criteria):
 
-
 "**The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.**"
 
 -   Consecutive order means this is the expected full spread ![Easy](/wiki/shared/Easy-s.png "Easy") ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
@@ -116,7 +115,6 @@ While Inner and Ura Oni are normally in use for hard Onis, they can also be used
 -   ![Expert](/wiki/shared/Expert-t.png "Expert") Main snapping 1/2 + demanding 1/4
 
 ### Taiko Guest Difficulties
-
 
 Note: **M** = Mapper
 

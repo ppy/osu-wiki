@@ -1,4 +1,7 @@
-Esta página es el único sitio en dónde encontrar las cosas que no están permitidas en [osu!](osu! "wikilink"). A continuación se presenta un desglose de cada sección para proporcionar más detalles de cómo se aplican estas normas a cada situación particular en osu!
+osu! Rules
+============
+
+Esta página es el único sitio en dónde encontrar las cosas que no están permitidas en [osu!](/wiki/Glossary). A continuación se presenta un desglose de cada sección para proporcionar más detalles de cómo se aplican estas normas a cada situación particular en osu!
 
 Reglas de Comunidad
 -------------------
@@ -22,12 +25,12 @@ Reglas de todo el foro
 8.  Anuncios y enlaces referidos (referral links) están explícitamente prohibidos. Simplemente no los publiques y punto.
 9.  Contenidos que se reproduzcan automáticamente (como videos de youtube, aplicaciones de flash, etc) no están permitidos.
 
-Reglas del foro de mapas ([BSS](BSS "wikilink"))
+Reglas del foro de mapas ([BSS](/wiki/Glossary))
 ------------------------------------------------
 
-Estas reglas se aplican estrictamente a los hilos creados por el [BSS](BSS "wikilink") (Sistema de envío de mapas, [Beatmap](Beatmap "wikilink") Submission System en inglés). Estos hilos son creados a través del cliente de osu! cuando un beatmap se publica a través de la [editor](editor "wikilink") de mapas.
+Estas reglas se aplican estrictamente a los hilos creados por el [BSS](/wiki/Glossary) (Sistema de envío de mapas, [Beatmap](/wiki/Glossary) Submission System en inglés). Estos hilos son creados a través del cliente de osu! cuando un beatmap se publica a través de la [editor](/wiki/Beatmap_Editor) de mapas.
 
-1.  No crees hilos manualmente en los subforos de [Pending Submissions](Pending "wikilink") ni [WIP](WIP "wikilink"). Utiliza el subforo adecuado cuando crees un hilo. (Esto obviamente excluye los hilos que hace el BSS.)
+1.  No crees hilos manualmente en los subforos de [Pending Submissions](/wiki/Beatmaps) ni [WIP](/wiki/Glossary). Utiliza el subforo adecuado cuando crees un hilo. (Esto obviamente excluye los hilos que hace el BSS.)
 2.  No te apartes del tema (off-topic) en los hilos del BSS. Los hilos del BSS son para hablar sobre los beatmap. Si tienes un problema con algo que no pertenece al beatmap, publícalo en el foro apropiado.
 3.  No robes los beatmaps de otros usuarios presentándolos como si fuesen hechos por ti. Tampoco subas ni uses el trabajo de otras personas sin su permiso explícito (incluyendo, pero no limitado, a los Skins y las dificultades de otras personas (Guest Diffs)).
 
@@ -49,7 +52,6 @@ Reglas del chat
 6.  No anuncies tus partidas de multijugador fuera del canal \#lobby.
 7.  Discutir sobre trampas, hacks, o cualquier tipo de abuso en el cliente, o juegos fraudulentos, está explícitamente prohibido.
     1.  Hablar o hacer mención sobre jugadores baneados está prohibido también.
-
 8.  En canales de idioma específico debes de hablar el idioma principal de allí si esperas participar en las discusiones. Cuando en un canal no se indica explícitamente el idioma, siempre es en inglés.
     1.  Los moderadores pueden hablar inglés en canales de idioma específico si se ven la necesidad de hacerlo para manejar la situación adecuadamente.
 
@@ -60,7 +62,6 @@ Reglas del Cliente
 2.  Alterar elementos de juego a través de cualquier método que no sean beatmap skins/client skins, se considera posiblemente hacer trampa y será tratado duramente.
 
 ------------
+
 Los tramposos serán baneados y restringidos permanentemente a la primera ofensa y se verán obligados a esperar 6 meses COMO MÍNIMO antes de que puedan apelar el ban. Simplemente no hagas trampas. Los baneos son aplicados por error rara vez, o nunca.
 La violación de cualquiera de estas normas dará lugar a que el infractor se le aplique ya sea un silencio o una restricción. Usuarios silenciados no pueden chatear, publicar en los foros, actualizar sus beatmaps o jugar en partidas multijugador. Los usuarios restringidos tienen todas las penas que los usuarios silenciados, además de no poder enviar sus puntuaciones o jugar en línea de ninguna manera. Las restricciones son GRAVES y sólo pueden ser revocadas por un miembro del personal de soporte al jugador, accesible a través del correo accounts@ppy.sh o del chat de soporte en vivo, el cual suele estar disponible de forma periódica en todas las páginas del sitio web.
-
-<Category:Guides/ES> <Category:Spanish>

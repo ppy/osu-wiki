@@ -1,3 +1,6 @@
+Announcements Archive
+======================
+
 This page is to be used to archive announcements for easy access
 
 osu!weekly
@@ -123,7 +126,7 @@ Ranking Charts
 Tournaments
 -----------
 
-  
+
 ***[Official wiki page.](Tournaments "wikilink")***
 
 -   [osu!mania 4K World Cup 2016 - Registrations now open!](//osu.ppy.sh/news/146609981558)
@@ -153,8 +156,8 @@ Tournaments
 Monthly Beatmapping Contest
 ---------------------------
 
-  
-***[Official wiki page for results.](Contests#Monthly_Beatmapping_Contest "wikilink")***
+
+***[Official wiki page for results.](/wiki/Announcements/Contests/en.md)***
 
 | Announcement                                                                                                                                                             | Results                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -175,9 +178,9 @@ Monthly Beatmapping Contest
 
 ### Mapping with Rewards
 
-Mapping with Rewards are announced on [peppy's blog](http://blog.ppy.sh/). Unlike the [\#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest "wikilink")— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
+Mapping with Rewards are announced on [peppy's blog](http://blog.ppy.sh/). Unlike the [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
 
-Some remarks about mapping with rewards (and some differences with [\#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest "wikilink")):
+Some remarks about mapping with rewards (and some differences with [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)):
 
 -   submissions are subject to last minute judgement
     -   peppy is the judge
@@ -198,7 +201,7 @@ Some remarks about mapping with rewards (and some differences with [\#Monthly Be
 Fan Art Contests
 ----------------
 
-  ***[Official wiki page for results.](../Contests/en.md)***
+  ***[Official wiki page for results.](/wiki/Announcements/Contests/en.md)***
 
 -   [osu!Taiko mascot voting](//osu.ppy.sh/news/149319979048)
 -   [osu! mascot design contest](//osu.ppy.sh/news/147587226893)
@@ -218,7 +221,7 @@ Fan Art Contests
 Showcases
 ---------
 
-  ***[Official wiki page for results.](../Showcases/en.md)***
+  ***[Official wiki page for results.](/wiki/Announcements/Showcases/en.md)***
 
 -   [Storyboard Showcase \#3](//osu.ppy.sh/news/145263178063)
 -   [Storyboard Showcase \#2](//osu.ppy.sh/news/143359597258)
@@ -240,7 +243,7 @@ Other
 
 ### Best of the Year
 
-***[Official wiki page for results.](../Showcases/en.md#Best_of_series)***
+***[Official wiki page for results.](/wiki/Announcements/Showcases/en.md#Best_of_series)***
 
 -   [Best of 2015: Results](//osu.ppy.sh/news/138781453998)
 -   [Best of 2015 Voting Now Open!](//osu.ppy.sh/news/137019258158)
@@ -320,4 +323,4 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 -   [osu! community contributors](//osu.ppy.sh/news/59476410622)
 -   [osu!test build now more usable](//osu.ppy.sh/news/57687830738)
 
-[Category:History of osu!](Category:History_of_osu! "wikilink")
+<Category:History of osu!>

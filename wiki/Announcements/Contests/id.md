@@ -1,26 +1,31 @@
-## Kontes Pembuatan Beatmap Bulanan
+Kontes
+==========
+
+Kontes Pembuatan Beatmap Bulanan
+-----------------------------------
 
 Catatan: Para pemenang kontes akan menerima julukan forum sebagai “*Elite Mapper*” dan beatmap mereka akan digabung (bersama dengan beatmap [osu! tutorial](//osu.ppy.sh/s/3756)) ke dalam [penginstal osu!](//osu.ppy.sh/p/download) kecuali bila dinyatakan sebaliknya.
 
 | Kontes | Beatmap                                                                                          | Mode                     | Mapper                            | Hasil                                                                         | Skor                                           |
 |---------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------|
-| #1      | [Rostik - Liquid (Paul Rosenthal Remix)](//osu.ppy.sh/s/123593)                                  | ![osu!standard](Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Hasil](//news.ppy.sh/post/64561724273/monthly-beatmapping-contest-1-Hasil) | [Skor #1](//osu.ppy.sh/p/contestHasil?c=7)    |
-| #2      | [cYsmix feat. Emmy - Tear Rain](//osu.ppy.sh/s/140662)                                           | ![osu!standard](Osu.gif) | [jonathanlfj](//osu.ppy.sh/u/270377) | [Hasil](//news.ppy.sh/post/72422807506/monthly-beatmapping-contest-2-Hasil) | [Skor #2](//osu.ppy.sh/p/contestHasil?c=8)    |
-| #3      | [Chasers - Lost](//osu.ppy.sh/s/151878)                                                          | ![osu!standard](Osu.gif) | [ktgster](//osu.ppy.sh/u/53378)      | [Hasil](//news.ppy.sh/post/77183675009/monthly-beatmapping-contest-3-Hasil) | [Skor #3](//osu.ppy.sh/p/contestHasil?c=9)    |
-| #4      | [Kuba Oms - My Love](//osu.ppy.sh/s/163112)                                                      | ![osu!standard](Osu.gif) | [W h i t e](//osu.ppy.sh/u/685229)   | [Hasil](//osu.ppy.sh/news/84122008873)                                        | [Skor #4](//osu.ppy.sh/p/contestHasil?c=10)   |
-| #5      | [Rameses B - Flaklypa](//osu.ppy.sh/s/190390)                                                    | ![osu!standard](Osu.gif) | [-kevincela-](//osu.ppy.sh/u/266596) | [Hasil](//osu.ppy.sh/news/91735660223)                                        | [Skor #5](//osu.ppy.sh/p/contestHasil?c=11)   |
-| #6      | [LeaF - Evanescent](//osu.ppy.sh/s/227126)                                                       | ![osu!standard](Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Hasil](//osu.ppy.sh/news/102534475143)                                       | [Skor #6](//osu.ppy.sh/p/contestHasil?c=12)   |
-| #7.1    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!standard](Osu.gif) | [Gamu](//osu.ppy.sh/u/611174)        | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.1](//osu.ppy.sh/p/contestHasil?c=13) |
-| #7.2    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!taiko](Taiko.gif)  | [MMzzGamu](//osu.ppy.sh/u/128993)    | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.2](//osu.ppy.sh/p/contestHasil?c=14) |
-| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!catch](Ctb.gif)    | [Deif](//osu.ppy.sh/u/318565)        | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.3](//osu.ppy.sh/p/contestHasil?c=15) |
-| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!mania](Mania.gif)  | [ExPew](//osu.ppy.sh/u/665612)       | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.4](//osu.ppy.sh/p/contestHasil?c=16) |
-| #8      | [raja_ffm - the light](//osu.ppy.sh/b/671412)                                                    | ![osu!standard](Osu.gif) | [Damnae](//osu.ppy.sh/u/989377)      | [Hasil](//osu.ppy.sh/news/115885774698)                                       | [Skor #8](//osu.ppy.sh/p/contestHasil?c=17)   |
-| #9      | [Furries in a Blender - Storm World](//osu.ppy.sh/s/319473)                                      | ![osu!taiko](Taiko.gif)  | [Firce777](//osu.ppy.sh/u/274072)    | [Hasil](//osu.ppy.sh/news/122549062138)                                       | [Skor #9](//osu.ppy.sh/p/contestHasil?c=18)   |
-| #10     | [Hylian Lemon - Foresight Is for Losers](//osu.ppy.sh/s/342751)                                  | ![osu!catch](Ctb.gif)    | [ZiRoX](//osu.ppy.sh/u/200768)       | [Hasil](//osu.ppy.sh/news/126037472723)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=19)  |
-| #11     | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](//osu.ppy.sh/s/385056) | ![osu!mania](Mania.gif)  | [LordRaika](//osu.ppy.sh/u/3265023)  | [Hasil](//osu.ppy.sh/news/134459652408)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=20)  |
-| #12     | [IAHN - Candy Luv](//osu.ppy.sh/s/456054)                                                        | ![osu!standard](Osu.gif) | [Taeyang](//osu.ppy.sh/u/2732340)    | [Hasil](//osu.ppy.sh/news/144933230753)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=21)  |
+| #1      | [Rostik - Liquid (Paul Rosenthal Remix)](//osu.ppy.sh/s/123593)                                  | ![osu!standard](/wiki/shared/Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Hasil](//news.ppy.sh/post/64561724273/monthly-beatmapping-contest-1-Hasil) | [Skor #1](//osu.ppy.sh/p/contestHasil?c=7)    |
+| #2      | [cYsmix feat. Emmy - Tear Rain](//osu.ppy.sh/s/140662)                                           | ![osu!standard](/wiki/shared/Osu.gif) | [jonathanlfj](//osu.ppy.sh/u/270377) | [Hasil](//news.ppy.sh/post/72422807506/monthly-beatmapping-contest-2-Hasil) | [Skor #2](//osu.ppy.sh/p/contestHasil?c=8)    |
+| #3      | [Chasers - Lost](//osu.ppy.sh/s/151878)                                                          | ![osu!standard](/wiki/shared/Osu.gif) | [ktgster](//osu.ppy.sh/u/53378)      | [Hasil](//news.ppy.sh/post/77183675009/monthly-beatmapping-contest-3-Hasil) | [Skor #3](//osu.ppy.sh/p/contestHasil?c=9)    |
+| #4      | [Kuba Oms - My Love](//osu.ppy.sh/s/163112)                                                      | ![osu!standard](/wiki/shared/Osu.gif) | [W h i t e](//osu.ppy.sh/u/685229)   | [Hasil](//osu.ppy.sh/news/84122008873)                                        | [Skor #4](//osu.ppy.sh/p/contestHasil?c=10)   |
+| #5      | [Rameses B - Flaklypa](//osu.ppy.sh/s/190390)                                                    | ![osu!standard](/wiki/shared/Osu.gif) | [-kevincela-](//osu.ppy.sh/u/266596) | [Hasil](//osu.ppy.sh/news/91735660223)                                        | [Skor #5](//osu.ppy.sh/p/contestHasil?c=11)   |
+| #6      | [LeaF - Evanescent](//osu.ppy.sh/s/227126)                                                       | ![osu!standard](/wiki/shared/Osu.gif) | [Charles445](//osu.ppy.sh/u/85000)   | [Hasil](//osu.ppy.sh/news/102534475143)                                       | [Skor #6](//osu.ppy.sh/p/contestHasil?c=12)   |
+| #7.1    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!standard](/wiki/shared/Osu.gif) | [Gamu](//osu.ppy.sh/u/611174)        | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.1](//osu.ppy.sh/p/contestHasil?c=13) |
+| #7.2    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!taiko](/wiki/shared/Taiko.gif)  | [MMzzGamu](//osu.ppy.sh/u/128993)    | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.2](//osu.ppy.sh/p/contestHasil?c=14) |
+| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!catch](/wiki/shared/Ctb.gif)    | [Deif](//osu.ppy.sh/u/318565)        | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.3](//osu.ppy.sh/p/contestHasil?c=15) |
+| #7.3    | [Soleily - Renatus](//osu.ppy.sh/s/241526)                                                       | ![osu!mania](/wiki/shared/Mania.gif)  | [ExPew](//osu.ppy.sh/u/665612)       | [Hasil](//osu.ppy.sh/news/112654662093)                                       | [Skor #7.4](//osu.ppy.sh/p/contestHasil?c=16) |
+| #8      | [raja_ffm - the light](//osu.ppy.sh/b/671412)                                                    | ![osu!standard](/wiki/shared/Osu.gif) | [Damnae](//osu.ppy.sh/u/989377)      | [Hasil](//osu.ppy.sh/news/115885774698)                                       | [Skor #8](//osu.ppy.sh/p/contestHasil?c=17)   |
+| #9      | [Furries in a Blender - Storm World](//osu.ppy.sh/s/319473)                                      | ![osu!taiko](/wiki/shared/Taiko.gif)  | [Firce777](//osu.ppy.sh/u/274072)    | [Hasil](//osu.ppy.sh/news/122549062138)                                       | [Skor #9](//osu.ppy.sh/p/contestHasil?c=18)   |
+| #10     | [Hylian Lemon - Foresight Is for Losers](//osu.ppy.sh/s/342751)                                  | ![osu!catch](/wiki/shared/Ctb.gif)    | [ZiRoX](//osu.ppy.sh/u/200768)       | [Hasil](//osu.ppy.sh/news/126037472723)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=19)  |
+| #11     | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](//osu.ppy.sh/s/385056) | ![osu!mania](/wiki/shared/Mania.gif)  | [LordRaika](//osu.ppy.sh/u/3265023)  | [Hasil](//osu.ppy.sh/news/134459652408)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=20)  |
+| #12     | [IAHN - Candy Luv](//osu.ppy.sh/s/456054)                                                        | ![osu!standard](/wiki/shared/Osu.gif) | [Taeyang](//osu.ppy.sh/u/2732340)    | [Hasil](//osu.ppy.sh/news/144933230753)                                       | [Skor #10](//osu.ppy.sh/p/contestHasil?c=21)  |
 
-## Kontes Fanart Bulanan
+Kontes Fanart Bulanan
+---------------------------
 
 Catatan: Dua pemenang (oleh publik dan staff) masing-masing akan mendaparkan supporter tag yang berjangka satu tahun penuh dan [osu!tablet](//store.ppy.sh/store/product/1)/[Plushie Pipi](//store.ppy.sh/store/product/3). Juara Runner-up mendaparkan supporter tag yang berjangka satu bulan. Anda juga dapat melihat galeri untuk masing-masing kontes di [halaman grup facebook](//www.facebook.com/osugame).
 
@@ -84,15 +89,17 @@ Catatan: Dua pemenang (oleh publik dan staff) masing-masing akan mendaparkan sup
 | Keempat    | [Riversouls](//osu.ppy.sh/u/3163257) [Karya](//s.ppy.sh/images/xmas2014/full-42.jpg)  | [Katty0505](//osu.ppy.sh/u/1340452) [Karya](//s.ppy.sh/images/xmas2014/full-44.jpg)    | [RainAid](//osu.ppy.sh/u/3344403) [Karya](//s.ppy.sh/images/xmas2014/full-67.jpg)         |
 | Kelima     | [RedViolet](//osu.ppy.sh/u/2221040) [Karya](//s.ppy.sh/images/xmas2014/full-6.jpg)    | [Dustdevilish](//osu.ppy.sh/u/4483162) [Karya](//s.ppy.sh/images/xmas2014/full-45.jpg) | [BurntToaster](//osu.ppy.sh/u/2236066) [Karya](//s.ppy.sh/images/xmas2014/full-49.jpg)    |
 
-## Kontes osu!store
+Kontes osu!store
+------------------------
 
-Catatan: Para pemenang mendapatkan “paket osu! store’” (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), dan [supporter tag berjangka 6](../osu!supporter/id.md))</a>) sedangkan runner-up mendapatkan [supporter tag berjangka 4 bulan](../osu!supporter/id.md).
+Catatan: Para pemenang mendapatkan “paket osu! store’” (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), dan [supporter tag berjangka 6](/wiki/osu!supporter/id.md))</a>) sedangkan runner-up mendapatkan [supporter tag berjangka 4 bulan](/wiki/osu!supporter/id.md).
 
 | Kontes | Judul                         | Persyaratan                                   | Kolom Pemenang | Berita                                   | Hasil       |
 |--------|-------------------------------|-----------------------------------------------|----------------|------------------------------------------|-------------|
 | #1     | Kontes Blueprint Beatmap osu! | osu! Beatmap Blueprints  ("Beatmap anywhere") | (WIN)          | [Berita](//osu.ppy.sh/news/114095906408) | \[(Hasil)\] |
 
-## osu!idol
+osu!idol
+-----------
 
 ### 2014
 

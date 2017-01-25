@@ -1,9 +1,12 @@
+osu! World Cup 2015
+======================
+
 ![OWC 2015 logo](logo.jpg)
 
 Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](//osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
-===============
+---------------
 
 | Event               | Timestamp                   |
 |---------------------|-----------------------------|
@@ -17,7 +20,7 @@ Turnierzeitplan
 | Finale - Woche 2    | 12.-13. Dez. 2015           |
 
 Preise
-======
+---------
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
@@ -28,7 +31,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
 Organisation
-============
+-------------
 
 | Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +44,7 @@ Organisation
 ------------------------------------------------------------------------
 
 Links
-=====
+--------
 
 -   [osu! World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
 -   [Diskussionsthread](//osu.ppy.sh/forum/p/4550383)
@@ -50,7 +53,7 @@ Links
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
@@ -68,10 +71,9 @@ Participants
 ------------------------------------------------------------------------
 
 Regelsätze
-==========
+------------
 
-Turnierregeln
--------------
+### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
 2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](//osu.ppy.sh/forum/t/375428)**
@@ -83,7 +85,7 @@ Turnierregeln
 6.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
     -   Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
 
-7.  Das Benutzen der [visuellen Einstellungen](DE:Game_Modifiers#Visual_Settings "wikilink") ist erlaubt.
+7.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers/de.md) ist erlaubt.
 8.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9.  Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
     1.  Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.
@@ -96,7 +98,7 @@ Turnierregeln
 15. Wenn ein Spieler außerhalb der Matches die Verbindung verlieren sollte und das Team keine Alternative zur Verfügung hat, kann das Match bis zu maximal 10 Minuten verschoben werden.
 16. Alle Spieler und Schiedrichter müssen mit Respekt behandelt werden. Anweisungen von den Schiedsrichtern und Turnier Management ist Folge zu leisten. Endgültige Entscheidungen können nicht beanstandet werden.
 17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen WarmUp Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Matches oder absichtiliches unangemessenes Verhalten wird strengstens bestraft.
-18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](Rules "wikilink"). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
+18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](/wiki/Rules/de.md). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
     1.  Das Verletzen der Chatregeln führt zu Silences. Gesilencte Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
 
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
@@ -110,8 +112,7 @@ Turnierregeln
 
 22. Jede Veränderung an den Regeln wird bekannt gegeben.
 
-Turnierregistrierung
---------------------
+### Turnierregistrierung
 
 1.  Die Anmeldung findet individuell statt.
     1.  Turnier Management wird eine Liste mit potentiellen Kandidaten für das jeweilige Länderteam erstellen.
@@ -121,22 +122,21 @@ Turnierregistrierung
 2.  Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier Management überprüft.
     1.  Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
     2.  Um erfolgreich akzeptiert zu werden, muss Ihr globaler Rang in osu! mindestens \#5000 oder besser sein.
-    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](Rules "wikilink") in den letzten 12 Monaten verletzt haben.
+    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules/de.md) in den letzten 12 Monaten verletzt haben.
 
 3.  Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 4.  Abgelehnte Spieler können diese Entscheidung anfechten, indem sie tournaments@ppy.sh kontaktieren.
 5.  Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
-Etappenanweisungen
-------------------
+### Etappenanweisungen
 
 1.  In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
 2.  Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
 3.  Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
     1.  Am meisten gewonnene Partien.
-    2.  Hat ein größeres `{(Anzahl` `an` `gewonnenen` `Maps)` `-` `(Anzahl` `an` `verlorenen` `Maps)}`.
+    2.  Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
     3.  Am meisten gewonnene Maps.
-    4.  Hat ein größeres `∑{(gesamtes` `Ergebnisdifferenz)` `/` `(maximales` `Ergebnis)}`.
+    4.  Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
     5.  Gewinner von Rückspielen.
 
 4.  Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
@@ -157,14 +157,11 @@ Etappenanweisungen
     -   Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-11)
     -   In Finale - Woche 2 werden 7 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-13)
 
-Partieanweisungen
------------------
+### Partieanweisungen
 
 1.  Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
     1.  Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
-    2.  Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team
-
-dementsprechend dann das rote Team.
+    2.  Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 
 1.  Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
 2.  Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
@@ -180,8 +177,7 @@ dementsprechend dann das rote Team.
 
 6.  Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
-Mappoolanweisungen
-------------------
+### Mappoolanweisungen
 
 1.  Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben.
 2.  Jeder Mappool besteht aus 5 Gruppen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
@@ -199,8 +195,7 @@ Mappoolanweisungen
 9.  Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 
-Zeitplananweisungen
--------------------
+### Zeitplananweisungen
 
 1.  Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2.  Die Partien können sich in der Gruppenphase überlappen.
@@ -211,4 +206,4 @@ Zeitplananweisungen
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Tournaments/DE> [Category:Official Tournaments/DE](Category:Official_Tournaments/DE "wikilink") [Category:osu! Standard Tournaments/DE](Category:osu!_Standard_Tournaments/DE "wikilink") [Category:osu! World Cup/DE](Category:osu!_World_Cup/DE "wikilink")
+<Category: Deutsch><Category:Tournaments/DE><Category:Official Tournaments/DE><Category:osu! Standard Tournaments/DE><Category:osu! World Cup/DE>

@@ -1,9 +1,12 @@
+osu!mania 4K World Cup 2016
+=============================
+
 ![MWC 4K 2016 logo](logo.png)
 
 The **osu!mania 4K World Cup 2016** (***MWC4K 2016*** ) is a country-based 4-key osu!mania tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is part of the 3rd installment of the osu!mania World Cup.
 
 Tournament Schedule
-===================
+--------------------
 
 | Event              | Timestamp                 |
 |--------------------|---------------------------|
@@ -17,7 +20,7 @@ Tournament Schedule
 | Finals - Week 2    | 10-11 Sep 2016            |
 
 Prizes
-======
+----------
 
 We are aiming to have a minimum $1,900 cash prize pool for this world cup. You can support raising this amount of money by **[purchasing a profile banner for your team here!](//store.ppy.sh/store/product/150)**
 
@@ -28,7 +31,7 @@ We are aiming to have a minimum $1,900 cash prize pool for this world cup. You c
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge                                  |
 
 Organization
-============
+------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +47,7 @@ Organization
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 | Top Seed                                         | High Seed                                     | Low Seed                                      | Unseeded                                             |
 |--------------------------------------------------|-----------------------------------------------|-----------------------------------------------|------------------------------------------------------|
@@ -117,10 +120,9 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+----------
 
-Group Stage
------------
+### Group Stage
 
 **[Download the mappack here!](//www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar)**
 
@@ -148,8 +150,7 @@ Group Stage
 |-------------------------------------------------------------------------------------------|
 | [KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](//osu.ppy.sh/b/726209) |
 
-Round of 16
------------
+### Round of 16
 
 **[Download the mappack here!](//www.mediafire.com/download/8ixrt0vl4si4fko/MWC_4K_2016_Round_of_16.rar)**
 
@@ -177,8 +178,7 @@ Round of 16
 |-------------------------------------------------------------------------------------------------------|
 | [aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](//osu.ppy.sh/b/834266) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **[Download the mappack here!](//www.mediafire.com/download/x8fv79n1mb1miss/MWC_4K_2016_Quarterfinals.rar)**
 
@@ -206,8 +206,7 @@ Quarterfinals
 |-----------------------------------------------------------------------------------------------|
 | [b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](//osu.ppy.sh/b/1040978) |
 
-Semifinals
-----------
+### Semifinals
 
 **[Download the mappack here!](//www.mediafire.com/download/wyp4gi7pun5vr0l/MWC4K_2016_Semifinals.rar)**
 
@@ -235,8 +234,7 @@ Semifinals
 |--------------------------------------------------------------------------------------------------------|
 | [D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](//osu.ppy.sh/b/823799) |
 
-Finals
-------
+### Finals
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
@@ -269,12 +267,11 @@ Finals
 ------------------------------------------------------------------------
 
 Match Results
-=============
+--------------
 
 **[Detailed match statistics here!](//docs.google.com/spreadsheets/d/1GSFF2W81heDb8oTdrp_R-w4sTNBvf3tv0Rdmpxsw_U0/pubhtml)**
 
-Group Stage
------------
+### Group Stage
 
 **Saturday, 6\. August 2016**
 
@@ -334,8 +331,7 @@ Group Stage
 | ![](/wiki/shared/flag/It.gif) Italy              | 1      - **4** | **Germany** ![](/wiki/shared/flag/De.gif)        | [#1](//osu.ppy.sh/mp/26874272) |
 | ![](/wiki/shared/flag/Ch.gif) Switzerland        | 1      - **4** | **Brazil** ![](/wiki/shared/flag/Br.gif)         | [#1](//osu.ppy.sh/mp/26874273) |
 
-Round of 16
------------
+### Round of 16
 
 **Saturday, 13\. August 2016**
 
@@ -350,8 +346,7 @@ Round of 16
 | ![](/wiki/shared/flag/Ca.gif) Canada            | 0      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](//osu.ppy.sh/mp/27017355) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5**  - 0     | Argentina ![](/wiki/shared/flag/Ar.gif)          | [#1](//osu.ppy.sh/mp/27018723) |
 
-Quarterfinals
--------------
+### Quarterfinals
 
 **Sunday, 21\. August 2016**
 
@@ -366,8 +361,7 @@ Quarterfinals
 | ![](/wiki/shared/flag/Ar.gif) **Argentina**     | **5**  - 0     | Sweden ![](/wiki/shared/flag/Se.gif)             | [#1](//osu.ppy.sh/mp/27207843) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5**  - 2     | Brazil ![](/wiki/shared/flag/Br.gif)             | [#1](//osu.ppy.sh/mp/27209327) |
 
-Semifinals
-----------
+### Semifinals
 
 **Saturday, 28\. August 2016**
 
@@ -387,8 +381,7 @@ Semifinals
 | ![](/wiki/shared/flag/Cl.gif) Chile      | 0      - **6** | **Japan** ![](/wiki/shared/flag/Jp.gif) | [#1](//new.ppy.sh/matches/27372674) |
 | ![](/wiki/shared/flag/Br.gif) **Brazil** | **6**  - 0     | Canada ![](/wiki/shared/flag/Ca.gif)    | [#1](//new.ppy.sh/matches/27382022) |
 
-Finals - Week 1
----------------
+### Finals - Week 1
 
 **Saturday, 3\. September 2016**
 
@@ -408,10 +401,9 @@ Finals - Week 1
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+--------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
     -   While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
@@ -426,7 +418,7 @@ Tournament Rules
 6.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-7.  Use of the [Visual Settings](Game_Modifiers#Visual_Settings "wikilink") options are allowed.
+7.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 8.  If the beatmap ends in a draw, the game will be nullified.
 9.  If a player disconnects, they get treated as if they failed the map.
     1.  Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -439,7 +431,7 @@ Tournament Rules
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](Rules "wikilink"). All chat rules apply to the multiplayer chatrooms, too.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules/en,md). All chat rules apply to the multiplayer chatrooms, too.
     1.  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -453,8 +445,7 @@ Tournament Rules
 
 22. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually **on the specifically created sign-up webpage**.
     1.  Tournament Management will create a list of potential candidates for a country's team.
@@ -464,7 +455,7 @@ Tournament Registration
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](Rules "wikilink") within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -472,8 +463,7 @@ Tournament Registration
 
 5.  Mapset selectors may not participate as a player in this tournament.
 
-Stage Instructions
-------------------
+### Stage Instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     1.  This may change according to the final amount of formed teams.
@@ -481,9 +471,9 @@ Stage Instructions
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
@@ -506,8 +496,7 @@ Stage Instructions
     -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
     -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     1.  Room settings are osu!mania, Team-Vs., Win Condition: 'Score v2'. Room name must be "MWC4K 2016: TeamBlue vs TeamRed".
@@ -525,8 +514,7 @@ Match Instructions
 
 7.  Results of all stages will be published via a Statistics sheet.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
@@ -548,8 +536,7 @@ Mappool Instructions
 9.  The size of the NoMod bracket will be 10 in all stages.
 10. The size of the FreeMod bracket will be 4 in all stages.
 
-Scheduling Instructions
------------------------
+### Scheduling Instructions
 
 1.  Each stage will be held on **a single weekend**.
 2.  Matches in Group Stage may overlap.
@@ -560,4 +547,4 @@ Scheduling Instructions
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:osu!mania Tournaments](Category:osu!mania_Tournaments "wikilink") [Category:osu!mania World Cup](Category:osu!mania_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:osu!mania Tournaments><Category:osu!mania World Cup>

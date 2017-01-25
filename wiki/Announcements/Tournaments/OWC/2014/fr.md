@@ -1,3 +1,6 @@
+osu! World Cup 2014
+====================
+
 ![OWC 2014 logo](logo.png)
 
 La ***osu! World Cup 2014*** (ou **OWC 2014**, littéralement « coupe du monde de osu! ») était la cinquième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
@@ -10,7 +13,7 @@ Cette compétition est terminée et a abouti au podium suivant :
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/De.gif) **Allemagne** |
 
 Calendrier
-==========
+--------------
 
 | Event                    | Timestamp                         |
 |--------------------------|-----------------------------------|
@@ -24,7 +27,7 @@ Calendrier
 | Finales - semaine 2      | 13 et 14 décembre 2014            |
 
 Lots attribués
-==============
+--------------
 
 Pour chaque participant :
 
@@ -35,7 +38,7 @@ Pour chaque participant :
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                      |
 
 Organisateurs
-=============
+------------
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                    |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,12 +50,12 @@ Organisateurs
 
 
 Retransmission des matchs
-=========================
+-----------------------------
 
 La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](//www.twitch.tv/osulive/).
 
 Équipes
-=======
+----------
 
 Les capitaines sont représentés en gras.
 
@@ -113,7 +116,7 @@ Les capitaines sont représentés en gras.
 | ![](/wiki/shared/flag/Cn.gif) China              | **[Prophet](//osu.ppy.sh/u/651307)**, [Dsan](//osu.ppy.sh/u/1266166), [N a n o](//osu.ppy.sh/u/694114), [Del soon Bye](//osu.ppy.sh/u/629717), [Rebellion](//osu.ppy.sh/u/2896273), [SpringLane](//osu.ppy.sh/u/1343504), [Spring Roll](//osu.ppy.sh/u/2499198), [wobeinimacao](//osu.ppy.sh/u/350723) |
 
 Résultats
-=========
+-------------
 
 Le graphique suivant met en évidence les équipes qui se sont qualifiées pour les huitièmes de finale :
 
@@ -121,8 +124,7 @@ Le graphique suivant met en évidence les équipes qui se sont qualifiées pour 
 
 Pour un aperçu des résultats des matchs des poules, consultez [ce site](//owc.nicarim.pw/results/view/3).
 
-Poules
-------
+### Poules
 
 **Samedi 8 novembre 2014**
 
@@ -182,8 +184,7 @@ Poules
 | ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 3     - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)             | [#1](//osu.ppy.sh/mp/10355083) |
 | ![](/wiki/shared/flag/Sg.gif) Singapore       | 1     - **4** | **United States** ![](/wiki/shared/flag/Us.gif)      | [#1](//osu.ppy.sh/mp/10355087) |
 
-Huitièmes de finale
--------------------
+### Huitièmes de finale
 
 **Dimanche 16 novembre 2014**
 
@@ -198,8 +199,7 @@ Huitièmes de finale
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 2      - **5** | **Austria** ![](/wiki/shared/flag/At.gif)        | [#1](//osu.ppy.sh/mp/10520060) |
 | ![](/wiki/shared/flag/Ar.gif) Argentina      | 2      - **5** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/10521646) |
 
-Quarts de finale
-----------------
+### Quarts de finale
 
 **Samedi 22 novembre 2014**
 
@@ -219,8 +219,7 @@ Quarts de finale
 | ![](/wiki/shared/flag/Ua.gif) Ukraine           | 0     - **5** | **Austria** ![](/wiki/shared/flag/At.gif) | [#1](//osu.ppy.sh/mp/10672689) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 4     | Sweden ![](/wiki/shared/flag/Se.gif)      | [#1](//osu.ppy.sh/mp/10674065) |
 
-Demi-finales
-------------
+### Demi-finales
 
 **Samedi 29 novembre 2014**
 
@@ -240,8 +239,7 @@ Demi-finales
 | ![](/wiki/shared/flag/De.gif) **Germany**     | **6**  - 5     | Austria ![](/wiki/shared/flag/At.gif)     | [#1](//osu.ppy.sh/mp/10835928) |
 | ![](/wiki/shared/flag/Us.gif) United States   | 0      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)  | [#1](//osu.ppy.sh/mp/10837599) |
 
-Finales
--------
+### Finales
 
 **Samedi 13 décembre 2014**
 
@@ -260,10 +258,9 @@ Finales
 | ![](/wiki/shared/flag/De.gif) Germany         | 3      - **6** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](//osu.ppy.sh/mp/10966299) |
 
 Beatmaps
-========
+-----------
 
-Poules
-------
+### Poules
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](//www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
@@ -304,8 +301,7 @@ Poules
 |-----------------------------------------------------------------------|
 | [Okui Masami - God Speed (ykcarrot) \[Insane\]](//osu.ppy.sh/b/93947) |
 
-Huitièmes de finale
--------------------
+### Huitièmes de finale
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](//www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
@@ -346,8 +342,7 @@ Huitièmes de finale
 |-------------------------------------------------------------------------------------------------|
 | [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](//osu.ppy.sh/b/311573) |
 
-Quarts de finale
-----------------
+### Quarts de finale
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](//www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
@@ -388,8 +383,7 @@ Quarts de finale
 |-----------------------------------------------------------------------------|
 | [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](//osu.ppy.sh/b/431957) |
 
-Demi-finales
-------------
+### Demi-finales
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](//www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
@@ -430,8 +424,7 @@ Demi-finales
 |-----------------------------------------------------------------------------------|
 | [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](//osu.ppy.sh/b/444356) |
 
-Finales
--------
+### Finales
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](//www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
@@ -464,18 +457,16 @@ Finales
 ||
 
 Règlement
-=========
+-----------
 
-Lexique
--------
+### Lexique
 
--   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](FR:Osu!_World_Cup_2014#Calendrier "wikilink"),
+-   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Announcements/Tournaments/OWC/2014/fr.md#Calendrier),
 -   Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
 -   Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
 -   Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
 
-Organisation générale du tournoi
---------------------------------
+### Organisation générale du tournoi
 
 1.  L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2.  Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
@@ -487,7 +478,7 @@ Organisation générale du tournoi
 6.  Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
     -   Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
-7.  L'utilisation des [Visual Settings](Visual_Settings "wikilink") est autorisée.
+7.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers/fr.md) est autorisée.
 8.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9.  Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
 10. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -500,8 +491,7 @@ Organisation générale du tournoi
 15. Les imprévus sont gérés par la direction.
 16. Si les présentes règles venaient à être modifiées pendant le tournoi, un communiqué officiel sera diffusé.
 
-Inscription des équipes
------------------------
+### Inscription des équipes
 
 1.  Chaque équipe doit être constituée au minimum de 6 joueurs.
     1.  La taille d'une équipe ne peut dépasser 8 joueurs.
@@ -515,7 +505,7 @@ Inscription des équipes
 
 4.  Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
     -   les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
-    -   des participants ont violé les termes du [règlement général](FR:Rules "wikilink") de osu! ([détails](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
+    -   des participants ont violé les termes du [règlement général](/wiki/Rules/fr.md) de osu! ([détails](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
 
 5.  32 équipes maximum sont autorisées à participer.
 6.  La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
@@ -523,8 +513,7 @@ Inscription des équipes
 
 7.  Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
-Organisation des phases
------------------------
+### Organisation des phases
 
 ### Poules
 
@@ -532,9 +521,9 @@ Organisation des phases
 2.  Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
 3.  Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
     1.  Nombre de matchs remportés,
-    2.  Ratio `{(nombre` `de` `parties` `remportées)` `-` `(nombre` `de` `parties` `perdues)}`,
+    2.  Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`,
     3.  Nombre de parties remportées,
-    4.  Ratio `∑{(score` `total` `réalisé)` `/` `(score` `total` `maximum` `possible)}`.
+    4.  Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
     5.  Éventuel second match remporté.
 
 4.  Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
@@ -553,15 +542,14 @@ Organisation des phases
 | Finales (semaine 1) | O et AB, AC, AD, AE       |
 | Finales (semaine 2) | P, Q                      |
 
-  
+
 3. Conditions de victoire :
 
 :\* 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
 
 :\* 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
 
-Organisation des matchs
------------------------
+### Organisation des matchs
 
 1.  Une salle multijoueurs sera créée par un arbitre 15 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
     1.  La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
@@ -579,11 +567,10 @@ Organisation des matchs
 
 5.  Les résultats seront publiés sur le wiki et sur le site officiel Statistics (cf. rubrique « Liens importants »).
 
-Beatmaps
---------
+### Beatmaps
 
 1.  Chaque phase se verra attribuer des beatmaps uniques.
-2.  Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](FR:HR "wikilink"), [Hidden](FR:HD "wikilink"), [DoubleTime](FR:DT "wikilink") et FreeMod.
+2.  Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_Modifiers/fr.md), [Hidden](/wiki/Game_Modifiers/fr.md), [DoubleTime](/wiki/Game_Modifiers/fr.md) et FreeMod.
 3.  Durant chaque phase, 19 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4.  Aucun mod n'est autorisé pour les maps de la catégorie NoMod.
 5.  Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.
@@ -592,8 +579,7 @@ Beatmaps
 
 7.  Pour chaque phase, la catégorie NoMod contiendra 6 beatmaps, les autres catégories 3 beatmaps.
 
-Planification des matchs
-------------------------
+### Planification des matchs
 
 1.  Chaque phase est jouée sur un seul week-end.
 2.  Certains matchs des poules peuvent se dérouler en même temps.
@@ -602,9 +588,9 @@ Planification des matchs
 5.  Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 7 autres joueurs dans son équipe plutôt que 3 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 4 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
 
 Liens divers
-============
+-------------
 
 -   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
 -   [Topic de discussion sur le forum de osu!](//osu.ppy.sh/forum/t/247090)
 
-<Category:Tournaments/FR> [Category:Official Tournaments/FR](Category:Official_Tournaments/FR "wikilink") [Category:Osu! Standard Tournaments/FR](Category:Osu!_Standard_Tournaments/FR "wikilink") [Category:Osu! World Cup/FR](Category:Osu!_World_Cup/FR "wikilink")
+<Category:Tournaments/FR><Category:Official Tournaments/FR><Category:Osu! Standard Tournaments/FR><Category:Osu! World Cup/FR>

@@ -1,9 +1,12 @@
+osu! World Cup 2014
+=====================
+
 ![OWC 2014 logo](logo.png)
 
 A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecida por OWC 2014, é gerida pela [Administração de Torneios](//osu.ppy.sh/g/26). É o 5º evento do osu! World Cup. O Atual campeão é a **![](/wiki/shared/flag/Kr.gif) Coreia do Sul**.
 
 Calendário do Torneio
-=====================
+-------------------------
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -17,7 +20,7 @@ Calendário do Torneio
 | Finals - Week 2    | 13-14 Dec 2014           |
 
 Premiação
-=========
+------------
 
 | Placing                                                    | Prizes                                                                                      |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -26,7 +29,7 @@ Premiação
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mez de supporter tag                                                                      |
 
 Organização
-===========
+-------------
 
 | Job                        | Person(s)                                                                                                                                                                                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +42,7 @@ Organização
 ------------------------------------------------------------------------
 
 Links
-=====
+-------
 
 -   [osu! World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
 -   [Registration Form](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -54,7 +57,7 @@ Links
 ------------------------------------------------------------------------
 
 Participantes
-=============
+---------------
 
 | Country                                    | Grupo A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -115,10 +118,9 @@ Participantes
 ------------------------------------------------------------------------
 
 Lista de Beatmaps
-=================
+------------------
 
-Quartas de final
-----------------
+### Quartas de final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
@@ -160,8 +162,7 @@ Quartas de final
 |-----------------------------------------------------------------------------|
 | [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](//osu.ppy.sh/b/431957) |
 
-Oitavas de final
-----------------
+### Oitavas de final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
@@ -202,8 +203,7 @@ Oitavas de final
 |-------------------------------------------------------------------------------------------------|
 | [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](//osu.ppy.sh/b/311573) |
 
-Fase de Grupos
---------------
+### Fase de Grupos
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
@@ -247,10 +247,9 @@ Fase de Grupos
 ------------------------------------------------------------------------
 
 Resultado das Partidas
-======================
+--------------------------
 
-Oitavas de final
-----------------
+### Oitavas de final
 
 **Sunday, 16\. November 2014**
 
@@ -265,8 +264,7 @@ Oitavas de final
 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | 2      - **5** | **Austria** ![](/wiki/shared/flag/At.gif)        | [#1](//osu.ppy.sh/mp/10520060) |
 | ![](/wiki/shared/flag/Ar.gif) Argentina      | 2      - **5** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/10521646) |
 
-Fase de Grupos
---------------
+### Fase de Grupos
 
 **Sunday, 9\. November 2014**
 
@@ -296,20 +294,19 @@ Fase de Grupos
 ------------------------------------------------------------------------
 
 Regras
-======
+----------
 
-Regras Gerais do Torneio
-------------------------
+### Regras Gerais do Torneio
 
 1.  A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2.  Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
     -   Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](PT:HD "wikilink"), [HardRock](PT:HR "wikilink"), [DoubleTime](PT:DT "wikilink") e FreeMod.
+    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod.
 
 3.  O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4.  Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5.  A pontuação dos jogadores que falharam e reviveram será contada.
-6.  O uso das [Visual Settings](PT:Visual_Settings "wikilink") será permitido.
+6.  O uso das [Visual Settings](/wiki/Game_Modifiers/pt.md) será permitido.
 7.  Em caso de empate na pontuação, o beatmap jogado será anulado.
 8.  Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9.  Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
@@ -324,8 +321,7 @@ Regras Gerais do Torneio
 14. Incidentes inesperados serão devidamente controlados pelos árbitros. A decisão de um árbitro pode ser anulada pela Administração do Torneio.
 15. Qualquer modificação nestas regras será anunciada.
 
-Inscrição do Torneio
---------------------
+### Inscrição do Torneio
 
 1.  Sua equipe precisa de **pelo menos 4 jogadores** para participar.
     1.  O tamanho máximo de uma equipe é 8 jogadores.
@@ -339,16 +335,15 @@ Inscrição do Torneio
 5.  O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
 6.  Selecionadores de mapas não poderão jogar no torneio.
 
-Instruções de Estágios
-----------------------
+### Instruções de Estágios
 
 1.  Na primeira fase (Fase de Grupos), as equipes serão divididas em 8 grupos de 4 equipes.
 2.  Todos os times de cada grupo se enfrentarão.
 3.  A classificação de cada grupo será determinada pelos resultados das partidas, levando em conta a seguinte prioridade:
     1.  Maior número de vitórias.
-    2.  Maior número de `{(beatmaps` `vencidos)` `-` `(beatmaps` `perdidos)}`.
+    2.  Maior número de `{(beatmaps vencidos) - (beatmaps perdidos)}`.
     3.  Maior número de beatmaps vencidos.
-    4.  Maior número de `∑{(diferença` `total` `de` `pontuação)` `/` `(pontuação` `máxima)}`.
+    4.  Maior número de `∑{(diferença total de pontuação) / (pontuação máxima)}`.
     5.  Vencedor de uma revanche.
 
 4.  As duas equipes com a melhor performance de cada grupo serão classificadas para os mata-matas.
@@ -358,8 +353,7 @@ Instruções de Estágios
     -   Nas oitavas e quartas de final, você precisa vencer 5 beatmaps para ganhar uma partida. (Melhor de 9)
     -   Nas semi-finais e finais, você precisa vencer 6 mapas para ganhar uma partida. (Melhor de 11)
 
-Instruções de Partida
----------------------
+### Instruções de Partida
 
 1.  Um árbitro criará uma partida de multiplayer 30 minutos antes do jogo. Os jogadores deverão se reunir na sala durante esse período.
     1.  A sala será devidamente fechada com senha. A senha e o convite para participar serão enviados aos capitães o mais rápido possível.
@@ -377,11 +371,10 @@ Instruções de Partida
 5.  Cada capitão deverá salvar o resultado das partidas com um screenshot. Os árbitros lembrarão os capitães de fazer isso.
 6.  Os resultados serão publicados pelo documento de estatísticas.
 
-Instruções dos Grupos de Beatmaps
----------------------------------
+### Instruções dos Grupos de Beatmaps
 
 1.  Existirá um grupo de beatmaps para a Fase de Grupos, um grupo para as Oitavas de Final, um grupo para as Quartas de final, um grupo para as Semi-finais e um grupo para as Finais.
-2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](PT:HD "wikilink"), [HardRock](PT:HR "wikilink"), [DoubleTime](PT:DT "wikilink") e FreeMod
+2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod
 3.  Cada grupo de beatmaps consiste de 23 beatmaps no total.
 4.  Cada grupo de beatmaps terá um tiebreaker.
 5.  O subgrupo NoMod será jogado sem nenhum mod específico.
@@ -396,8 +389,7 @@ Instruções dos Grupos de Beatmaps
     -   3 na Fase de Grupos
     -   4 nos mata-matas
 
-Instruções de Agendamento
--------------------------
+### Instruções de Agendamento
 
 1.  Cada estágio será realizado em **apenas um fim de semana** (dirija-se ao Calendário do Torneio, no topo, para mais informações)
 2.  Na Fase de Grupos, as primeiras partidas serão realizadas na sexta-feira (8 de Novembro), a segunda no sábado (9 de Novembro), e a terceira no domingo (10 de Novembro).
@@ -407,4 +399,4 @@ Instruções de Agendamento
 4.  O agendamento será realizado pela Administração do Torneio. As programações serão publicadas no Domingo anterior às primeiras partidas da próxima fase. A administração do torneio tentará criar a programação de acordo com os fusos horários correspondentes a cada país.
 5.  Os capitães serão responsáveis pela disponibilidade de suas equipes. O tamanho das equipes, de 4 reservas, garante que cada equipe possa providenciar pelo menos quatro jogadores em cada partida. Se as equipes não conseguirem providenciar esses quatro jogadores, a partida será considerada perdida.
 
-<Category:Tournaments/PT> [Category:Official Tournaments/PT](Category:Official_Tournaments/PT "wikilink") [Category:Osu! Standard Tournaments/PT](Category:Osu!_Standard_Tournaments/PT "wikilink") [Category:Osu! World Cup/PT](Category:Osu!_World_Cup/PT "wikilink")
+<Category:Tournaments/PT><Category:Official Tournaments/PT><Category:Osu! Standard Tournaments/PT><Category:Osu! World Cup/PT>

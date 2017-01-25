@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="osu!talk logo" alt="osu!talk logo" width="300" />
+osu!talk
+===============
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Introduction
-============
+-------------
 
-Official YouTube Channel: <//www.youtube.com/user/osuacademy/videos>
-Official Thread: <//osu.ppy.sh/forum/t/225111>
+Official YouTube Channel: https://www.youtube.com/user/osuacademy/videos
+Official Thread: https://osu.ppy.sh/forum/t/225111
 **osu!talk** is a podcast series hosted by [ztrot](//osu.ppy.sh/u/6347) with [deadbeat](//osu.ppy.sh/u/128370) as the co-host. The series focuses on interviewing many people from around the osu! community. However sometimes we arrange a group discussion about different things happening around the community such as changes to the staff, or long lasting issues often discussed like overmapping. The podcast series is set up so that anyone is free to join in on the live session and ask questions during the public [Q&A](//en.wikipedia.org/wiki/Q%26A) part of the episode. These aren't live streamed anywhere as we'd rather encourage users to join in and take part themselves.
 
 Episodes
-========
+--------
 
 | EP\#  | Interviewees                                             | Profession                       | [Link]                                                        |
 |-------|----------------------------------------------------------|----------------------------------|---------------------------------------------------------------|
@@ -57,7 +60,7 @@ Episodes
 
 
 Discussions
-===========
+-------------
 
 | EP\# | Topics                                   | Profession                                                                                                                                                                                                                  | [Link]                                        |
 |------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -76,7 +79,7 @@ Discussions
 
 
 Specials
-========
+--------
 
 | EP\# | Topics                  | Profession                                                                                                                                                               | [Link]                                        |
 |------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -87,4 +90,4 @@ Specials
 | #5   | Upcoming events Q&amp;A | [Kyonko Hizara](//osu.ppy.sh/u/444868)and [ztrot](//osu.ppy.sh/u/6347)                                                                                                   | [Link](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 
-[Category:History of osu!](Category:History_of_osu! "wiki[link]")
+<Category:History of osu!>

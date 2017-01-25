@@ -42,7 +42,6 @@
 
 == **멀티플레이 로비** ==
 
-  
 *본문: [멀티플레이어](KO:Multiplayer "wikilink")*
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
@@ -52,7 +51,6 @@
 
 <img src="soloplay1.jpeg" title="선곡화면" alt="선곡화면" width="300" />
 
-  
 팁: 배경에 투명하게 비치는 로고로 현재 게임 모드를 알 수 있습니다.
 
 ![](osu.gif "fig:osu.gif")"osu!" 는 [스탠다드 모드](KO:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"북"은 [태고 모드](KO:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"사과" 는 [캐치 더 비트(CTB)](KO:Catch_the_Beat "wikilink") 그리고 ![](mania.gif "fig:mania.gif")"피아노"는 [마니아 모드입니다](KO:Mania "wikilink").
@@ -245,7 +243,6 @@ Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg| 태고 (태고 스킨 사용) 
 **온라인 스코어 리더보드**
 --------------------------
 
-  
 팁: 배경은 어떤 게임 모드로 플레이 했는지에 따라 다르게 나타납니다.
 
 ![](osu.gif "fig:osu.gif")"osu!"는 [스텐다드 모드](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"북"은 [태고 모드](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"사과"는 [캐치 더 비트](Catch_the_Beat "wikilink"), 그리고 ![](mania.gif "fig:mania.gif")"피아노"는 [마니아 모드입니다](Mania "wikilink").

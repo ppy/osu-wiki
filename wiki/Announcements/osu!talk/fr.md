@@ -1,14 +1,17 @@
-<img src="Osu!talk.png" title="Logo d&#39;osu!talk" alt="Logo d&#39;osu!talk" width="300" />
+osu!talk
+========
+
+![osu!talk logo](Osu!talk.png "osu!talk logo")
 
 Introduction
-============
+---------------
 
-Chaîne YouTube officielle: <http://www.youtube.com/user/osuacademy/videos>
-Topic officiel: <http://osu.ppy.sh/forum/t/225111>
+Chaîne YouTube officielle: http://www.youtube.com/user/osuacademy/videos
+Topic officiel: http://osu.ppy.sh/forum/t/225111
 **osu!talk** est une série de podcasts présenté par [ztrot](http://osu.ppy.sh/u/ztrot) avec [deadbeat](http://osu.ppy.sh/u/deadbeat). Lors de la série, ces hôtes invitent des personnes importantes dans la communauté de osu! pour les interviewer. Toutefois, il est possible d'avoir des discussions sur de différents thèmes autour de la communauté et du jeu. Ces séries permettent notamment de laisser la communauté poser leur question aux invités et parler en direct avec l'invité lors de la partie Q&A *(Questions et Réponses)*. **Attention: Tout les épisodes sont enregistrés et publiés en anglais.**
 
 Épisodes
-========
+---------
 
 | ÉP\#  | Interviewés                                              | Profession                          | [Lien]                                                        |
 |-------|----------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
@@ -57,7 +60,7 @@ Topic officiel: <http://osu.ppy.sh/forum/t/225111>
 
 
 Discussions
-===========
+-----------
 
 | ÉP\# | Topic                                         | Interviewés                                                                                                                                                                                                                 | [Lien]                                        |
 |------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -77,7 +80,7 @@ Discussions
 
 
 Récapitulatifs de WCs
-=====================
+-----------------------
 
 ### Taiko World Cup 2015
 
@@ -100,7 +103,7 @@ Récapitulatifs de WCs
 
 
 Épisodes Spéciaux
-=================
+--------------------
 
 | ÉP\# | Événements                           | Interviewés                                                                                                                                                              | [Lien]                                        |
 |------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -111,4 +114,4 @@ Récapitulatifs de WCs
 | #5   | Upcoming events Q&amp;A              | [Kyonko Hizara ](//osu.ppy.sh/u/444868) and [ztrot](//osu.ppy.sh/u/6347)                                                                                                 | [Lien](//www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 
-[Category:History of osu!/FR](Category:History_of_osu!/FR "wikilink")
+<Category:History of osu!/FR>

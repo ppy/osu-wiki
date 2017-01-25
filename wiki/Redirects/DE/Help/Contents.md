@@ -178,16 +178,16 @@ Auflistung
 | Aufgabe         | Benutzen Sie es, um schnell und einfach eine Auflistung zu erstellen. |
 |-----------------|-----------------------------------------------------------------------|
 | Syntax          | Schreib das                                                           |
-| * Element 1     
-     * Element 2  
-     * Element 3  | -   Element 1                                                         
-                   -   Element 2                                                          
+| * Element 1  
+     * Element 2
+     * Element 3  | -   Element 1
+                   -   Element 2
                    -   Element 3                                                          |
 | Syntax          | Schreib das                                                           |
-| # Element 1     
-     # Element 2  
-     # Element 3  | 1.  Element 1                                                         
-                   2.  Element 2                                                          
+| # Element 1  
+# Element 2  
+# Element 3  | 1.  Element 1  
+                   2.  Element 2
                    3.  Element 3                                                          |
 
 Weiterleiten

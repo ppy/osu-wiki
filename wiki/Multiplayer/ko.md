@@ -1,30 +1,28 @@
+# Multiplayer
 <img src="Multiplay Flowchart (KO).jpg" title="fig:멀티플레이 흐름도" alt="멀티플레이 흐름도" width="400" /> \_\_TOC\_\_
 
-소개
-====
+## 소개
 
 **멀티-플레이**는 2008년 6월 3일에 [osu! 공개 릴리즈 b335](http://osu.ppy.sh/forum/p/26660) 업데이트로 추가된 최대 8명의 유저가 방장에 의해 선택된 한 맵을 두고 경쟁할 수 있는 게임 모드입니다.
 
-입장방법
-========
+## 입장방법
 
-| Minimum requirement | -   Decent online connection.                                                                                                                                                
-                       -   osu!account logged into Bancho (should be done automatically)                                                                                                             
-                       -   Considerate amount of beatmaps at Songs folder (unless you prefer to download as you go)                                                                                  
-                       -   Knowing [how to transfer beatmaps without leaving the room](KO:Beatmaps2 "wikilink").[Picture example here.](Media:Beatmaps_peppy.jpg "wikilink")                         
+| Minimum requirement | -   Decent online connection.  
+                       -   osu!account logged into Bancho (should be done automatically)
+                       -   Considerate amount of beatmaps at Songs folder (unless you prefer to download as you go)
+                       -   Knowing [how to transfer beatmaps without leaving the room](KO:Beatmaps2 "wikilink").[Picture example here.](Media:Beatmaps_peppy.jpg "wikilink")
                        -   Logical thinking (dare to ask when do not know how-to)                                                                                                                    |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ways to enter       | From Main menu,                                                                                                                                                              
-                                                                                                                                                                                                     
-                       1.  Press "**Play**" then "**Multi**"; or                                                                                                                                     
-                       2.  Press "**P**" then "**M**". (from Keyboard)                                                                                                                               
-                                                                                                                                                                                                     
+| Ways to enter       | From Main menu,  
+
+                       1.  Press "**Play**" then "**Multi**"; or
+                       2.  Press "**P**" then "**M**". (from Keyboard)
+
                        You will be directed to the "**lobby**", the core of the Multi-play.                                                                                                          |
-| Notes               | -   It is suggested you have some beatmaps (30+ songs) in your osu! Songs folder. Otherwise, depending on your connection, downloading time can range from 30s to 15mins.    
+| Notes               | -   It is suggested you have some beatmaps (30+ songs) in your osu! Songs folder. Otherwise, depending on your connection, downloading time can range from 30s to 15mins.  
                        -   Losing connection to Bancho will send you back to Main Menu until connection is recovered to Bancho. This will force you to be considered "Quited" when playing a match.  |
 
-로비
-====
+## 로비
 
 <img src="Multi-Play-2016.png" title="fig:멀티플레이어 로비의 예시" alt="멀티플레이어 로비의 예시" width="200" /> 멀티플레이어 로비 대기 화면입니다.
 
@@ -39,8 +37,7 @@
     -   화면의 오른쪽을 보고 로비에 접속중인 플레이어를 확인할 수 있습니다.
     -   화면의 우측 상단의 주크박스에서 노래를 선택하고 재생시키세요.
 
-새 게임(방 만들기)
-==================
+## 새 게임(방 만들기)
 
 <img src="New game (Multi).jpg" title="새 게임(방 만들기)" alt="새 게임(방 만들기)" width="200" />
 
@@ -67,8 +64,7 @@
 
 설정이 끝난 뒤, "Start Game" 버튼을 눌러 당신이 방장인 "방" 을 만들 수 있습니다. 당신은 **매치 설정** 으로 들어가게 됩니다.
 
-매치 설정
-=========
+## 매치 설정
 
 `닉네임 "(game) room"`
 
@@ -178,13 +174,11 @@ Host song change.jpg| 방장이 비트맵을 변경할 때, 이 바가 일시적
 
 **모든 플레이어가 준비 상태일 때 (분명 모두가 준비됨을 알리는 두번째 소리가 울릴 것입니다), 방장이 최종 결정(게임 시작! 버튼)을 내리면 게임이 시작됩니다.**
 
-게임 형식
-=========
+## 게임 형식
 
 `오직 방장만이 게임 형식을 결정할 수 있습니다. 다른 플레이어들은 다른 무언가를 원한다면 방장에게 요청할 수 있습니다.`
 
-게임 모드
----------
+### 게임 모드
 
 선택된 맵에서 플레이하길 원하는 게임 스타일입니다. 방장에 의해, "비트맵 선택" 화면에서만 선택 가능합니다. 선택된 게임 스타일의 아이콘이 여러분의 "방"의 로비에 나타나는 것에 주목하세요.
 
@@ -193,43 +187,42 @@ Host song change.jpg| 방장이 비트맵을 변경할 때, 이 바가 일시적
 -   [캐치 더 비트](KO:Catch_the_Beat "wikilink")
 -   [osu!매니아](KO:Osu!mania "wikilink")
 
-Team Mode
----------
+### Team Mode
 
 | General rules (applies to all unless stated otherwise)                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <u>**Beatmap progress rule</u>**                                                                                                                                                
-                                                                                                                                                                                  
- -   Head-To-Head / Team VS: Continue until the end of the beatmap.                                                                                                               
- -   Tag Co-Op / Tag Team VS: Discontinued when HP bar is completely drained.                                                                                                     
-                                                                                                                                                                                  
- **<u>Failed rule</u>** (Does not apply to Tag Co-Op / Tag Team VS)                                                                                                               
-                                                                                                                                                                                  
- -   **The score and accuracy will not be counted as ranked entry.**                                                                                                              
- -   The colour of the player bar determines his/her HP bar status. Grey means HP is fully drained, thus "Failed".                                                                
- -   Your object colour will all turn gray regardless of the original colour scheme.                                                                                              
- -   You can keep playing and can be revived upon reaching full HP. If [SD](KO:SD "wikilink") is used, revival is impossible (if you do revived, consider it a bug or ignore it)  
-                                                                                                                                                                                  
- <u>**Gameplay rule</u>**                                                                                                                                                         
-                                                                                                                                                                                  
- -   **Pressing \[ESC\] twice will result in "Quitting" the match, not pausing the game.**                                                                                        
- -   You may have some time to use the "Visual Settings" below the beatmap during the loading phase of the beatmap.                                                               
- -   When "Free Mods" is applied, the mods used by you only applies to your Interface. Other members' Interface may vary.                                                         
-                                                                                                                                                                                  
- <u>**Tag Co-Op / Tag Team VS</u>**                                                                                                                                               
-                                                                                                                                                                                  
- -   **Only available in osu! Standard mode.**                                                                                                                                    
- -   **Player placing is important, as it will determine when it is your turn.**                                                                                                  
- -   Everyone shares a lifebar / Each team have it's own respective lifebar that are visible to teammates only.                                                                   
-     -   **If Failed, everyone will be sent back to the "room" again.**                                                                                                           
- -   An arrow will show the player who is currently playing the beatmap. Their name will be shown at the lower right of the screen.                                               
-     -   There will be warning arrows when it is your turn and the combo will be in colour until your combo ends.                                                                 
-     -   You can adjust your own combo colour at Match Setup.                                                                                                                     
- -   **Everyone must do the spinner regardless whether it's their turn or not.**                                                                                                  
-     -   Refusal or unable to complete the spinner will break the current combo count.                                                                                            
- -   If a player quits, Auto will take over the "Quited" player.                                                                                                                  
- -   When you use [SD](KO:SD "wikilink"), your Interface's HP bar will seem drained out to oblivion because of your teammate's mistake.                                           
-     -   If the teammate in question did not use [SD](KO:SD "wikilink"), the beatmap will continue.                                                                               
+| <u>**Beatmap progress rule</u>**  
+
+ -   Head-To-Head / Team VS: Continue until the end of the beatmap.
+ -   Tag Co-Op / Tag Team VS: Discontinued when HP bar is completely drained.
+
+ **<u>Failed rule</u>** (Does not apply to Tag Co-Op / Tag Team VS)
+
+ -   **The score and accuracy will not be counted as ranked entry.**
+ -   The colour of the player bar determines his/her HP bar status. Grey means HP is fully drained, thus "Failed".
+ -   Your object colour will all turn gray regardless of the original colour scheme.
+ -   You can keep playing and can be revived upon reaching full HP. If [SD](KO:SD "wikilink") is used, revival is impossible (if you do revived, consider it a bug or ignore it)
+
+ <u>**Gameplay rule</u>**  
+
+ -   **Pressing \[ESC\] twice will result in "Quitting" the match, not pausing the game.**
+ -   You may have some time to use the "Visual Settings" below the beatmap during the loading phase of the beatmap.
+ -   When "Free Mods" is applied, the mods used by you only applies to your Interface. Other members' Interface may vary.
+
+ <u>**Tag Co-Op / Tag Team VS</u>**  
+
+ -   **Only available in osu! Standard mode.**
+ -   **Player placing is important, as it will determine when it is your turn.**
+ -   Everyone shares a lifebar / Each team have it's own respective lifebar that are visible to teammates only.
+     -   **If Failed, everyone will be sent back to the "room" again.**
+ -   An arrow will show the player who is currently playing the beatmap. Their name will be shown at the lower right of the screen.
+     -   There will be warning arrows when it is your turn and the combo will be in colour until your combo ends.
+     -   You can adjust your own combo colour at Match Setup.
+ -   **Everyone must do the spinner regardless whether it's their turn or not.**
+     -   Refusal or unable to complete the spinner will break the current combo count.
+ -   If a player quits, Auto will take over the "Quited" player.
+ -   When you use [SD](KO:SD "wikilink"), your Interface's HP bar will seem drained out to oblivion because of your teammate's mistake.
+     -   If the teammate in question did not use [SD](KO:SD "wikilink"), the beatmap will continue.
      -   If the user(assume you) of [SD](KO:SD "wikilink") made a mistake, the *actual effect will happen*, causing everyone to be kicked to results screen immediately.          |
 
 <table>
@@ -270,8 +263,7 @@ Team Mode
 | ![](PB SKIP.jpg "PB SKIP.jpg") |
 | ![](PB QUIT.jpg "PB QUIT.jpg") |
 
-Win Condition
--------------
+### Win Condition
 
 The condition to determine the winner. The winner's avatar will be shown at the grade screen (Head-To-Head only).
 
@@ -280,19 +272,18 @@ The condition to determine the winner. The winner's avatar will be shown at the 
 | **Accuracy** | Player with the **highest accuracy wins**. If there is two 100.00%, the player with the highest score (from spinners) wins. Unconfirmed if there is no spinners.          |
 | **Combo**    | Player with the **highest combo count at the end of the beatmap wins**. If combo count is the same, player with the highest score wins. **Maximum combo is not counted**. |
 
-Multiplayer Results
-===================
+## Multiplayer Results
 
 Players will be directed here after the beatmap is completed unless stated otherwise.
 
 | Overall result rule                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 | -   **If you received a "Failed" statement, your score and accuracy will automatically not be counted as ranked score at all even after "revival".** 
- -   **If "Free Mod" is enabled by Host, score differences may occur depending on mods used**                                                          
- -   **Despite there is no Online score leader-board, your ranked score will still be counted as legitimate ranked entry**.                            
- -   Your result will not be shown at the Local scoreboard. The only way to see it is by Online Ranking scoreboard (assuming Multi's score is higher)  
-     -   The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where your score is considered unrankable.                        
- -   You cannot retry the beatmap but you can export your replay by pressing \[F2\] (Will not contain the Multi-play elements).                        
+ -   **If "Free Mod" is enabled by Host, score differences may occur depending on mods used**
+ -   **Despite there is no Online score leader-board, your ranked score will still be counted as legitimate ranked entry**.
+ -   Your result will not be shown at the Local scoreboard. The only way to see it is by Online Ranking scoreboard (assuming Multi's score is higher)
+     -   The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where your score is considered unrankable.
+ -   You cannot retry the beatmap but you can export your replay by pressing \[F2\] (Will not contain the Multi-play elements).
      -   The exception to the rule is Tag Co-Op and Tag Team VS (Both are unranked), where the replay cannot be saved.                                 |
 
 <table>
@@ -314,4 +305,4 @@ Players will be directed here after the beatmap is completed unless stated other
 </tbody>
 </table>
 
-<Category:Gameplay/KO> [Category:Translation Request](Category:Translation_Request "wikilink")
+<!-- <Category:Gameplay/KO> [Category:Translation Request](Category:Translation_Request "wikilink") -->

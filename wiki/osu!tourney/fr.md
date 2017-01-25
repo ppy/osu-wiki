@@ -37,7 +37,6 @@ Pour installer le client osu!tourney, il y a juste besoin de peu d'étapes. Tout
 4.  Créez un fichier dans votre dossier root du nouvel osu! (ex. `C:\Program` `Files` `(x86)\osu!` `stream` `client\`) nommé `tournament.cfg`.
 5.  (Re)démarrez votre osu!.exe et le client osu!tourney client devrait démarrer. Ca peut prendre du temps à démarrer, alors soyez patient. Il générera automatiquement le contenu du fichier `tournament.cfg` qui contiendra les lignes suivantes :
 
-  
 `TeamSize` `=` `4`
 
 `privateserver` `=`
@@ -75,21 +74,21 @@ Ceci est l'interface du client osu!tourney. L'usage du client lui-même est asse
 
 | Les joueurs sont assignés aux fenêtres basé sur leur position dans la salle multijoueur |
 | ----------------------------------------------------------------------------------- |
-| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |   
+| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |  
 
 Pour que le client fonctionne correctement, assurez-vous que les joueurs occupent les places appropriées dans la salle multijoueur. Plus de détails peuvent être trouvés dans **[Création de match et gestion](FR:Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**. En bas du client se trouve le panneau de contrôle.
-              
+
 | Panneau de contrôle de osu!tourney |
 | ----------------------------------------- |
-| ![osu!tourney control panel](osutourneypanel.png "osu!tourney control panel") |         
+| ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel") |  
 
-![Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions](osutourneyroomlist.png "Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions")
+![Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions](Osutourneyroomlist.png "Quand les salles multijoueur sont crées correctement, elles seront listées ici à la place des instructions")
 
-![osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement](osutourneyidle.png "osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement")
+![osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement](Osutourneyidle.png "osu!tourney assigne les noms d'équipes et les noms d'utilisateurs automatiquement")
 
-![osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement](osutourneyspectate.png "osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement")
+![osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement](Osutourneyspectate.png "osu!tourney ne fait pas que regarder. Il montre aussi le score d'équipe actuel et la chanson jouée actuellement")
 
-![osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.](osutourneyresults.png "osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.")
+![osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.](Osutourneyresults.png "osu!tourney déclare un gagnant automatiquement, ajoute le score et joue un autre sprite quand l'écran des résultats s'affiche. Les joueurs ayant échoué sont noircis.")
 
 Cela montre le modèle à suivre pour nommer la salle multijoueur vous voulez regarder. Elle consiste de l'acronyme définie dans `tournament.cfg` et de 2 noms d'équipe. Lisez **[Création de match et gestion](FR:Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")** pour plus d'informations.
 
@@ -97,7 +96,7 @@ Si la salle est réglée correctement, le panneau de contrôle va lister toutes 
 
 Quand une beatmap est finie, osu!tourney incrémente le score de l'équipe en remplissant une étoile de l'équipe gagnante. **Vous pouvez aussi utiliser sur les étoiles le clic gauche pour augmenter ou le clic droit pour diminuer le score de l'équipe**.
 
-![osu!tourney avec une annotation active](osutourneywarmup.png "osu!tourney avec une annotation active")
+![osu!tourney avec une annotation active](Osutourneywarmup.png "osu!tourney avec une annotation active")
 
 Si vous voulez afficher un message, vous pouvez cliquer sur le bouton d'activation de l'annotation. Quand actif, le message de la boîte de texte correspondante du panneau de contrôle sera affiché en haut de l'écran et le score de l'équipe restera inchangé après la fin de la beatmap.
 
@@ -148,7 +147,7 @@ The following is a list of available management commands. Any properties enclose
 -   `!mp unlock` - Reverses the above.
 -   `!mp size` <size> - Sets the amount of available slots (1-16) in the room.
 -   `!mp set` <teammode> `[<scoremode>] [<size>]` - Sets various room properties.
-      
+
     `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
 
     `scoremode` - 0: Score, 1: Accuracy, 2: Combo
@@ -161,21 +160,21 @@ The following is a list of available management commands. Any properties enclose
 -   `!mp abort` - Aborts the match.
 -   `!mp kick` <username> - Kicks the player from the room.
 -   `!mp team` <username> <colour> - Moves a player to the specified team.
-      
+
     `colour` - red, blue
 
 -   `!mp map` <mapid> `[<playmode>]` - Changes the beatmap and playmode of the room.
-      
+
     `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
 
 -   `!mp mods` <mod> `[<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
-      
+
     Any amount of mods can be entered.
 
     `mod` - HR, DT, FL, HD, FI, Freemod, None
 
 -   `!mp timer [<time>]` - Begins a countdown timer.
-      
+
     `time` is 30s default.
 
     Timer announcements occur every minute, 30s, 10s, 5s and below.
@@ -187,7 +186,6 @@ The following is a list of available management commands. Any properties enclose
 
 The following is an example of command usage:
 
-  
 `!mp move Zallius 1` - Move Zallius into slot 1 of the room.
 
 `!mp move Loctav 4` - Move Loctav into slot 4 of the room.
@@ -231,7 +229,6 @@ Keep in mind that osu!tourney ignores every team color. The only thing it pays a
 | -----------------------|
 | ![TeamSize = 1](Teamsize1.png "TeamSize = 1")   | 
 
-
 Skinning
 --------
 
@@ -255,77 +252,66 @@ The optimal resolution for videos is 1280x720 @ 60fps.
 Troubleshooting
 ===============
 
-  
 **a) How do I generate a fresh osu! installation without uninstalling my current?**
 
 Copy-paste the `osu!.exe` into an empty folder and run it. This fixes a lot of issues! It’s highly recommended to run the osu!tourney as a separate osu! installation.
 
 <!-- -->
 
-  
 **b) My osu! instances are not aligning properly!**
 
 osu!tourney only runs on the primary monitor. Disable secondary monitors! It could also be that your screen resolution is too small. Ensure that you do not run osu! as administrator (unless osu! is asking for it directly on its own). Make sure to have osu! updated to the newest Cutting Edge build!
 
 <!-- -->
 
-  
 **c) osu!tourney does not open. It throws me an error prompt and/or shuts down again!**
 
 Make sure you are part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup. Most of the times, you are only added temporarily, so your access might have expired. You should ensure that the `privateserver` key in the `tournament.cfg` has no value set. Make sure that you are logged into osu! If not, run osu! and login, then close osu! again and restart as the tournament client. Make sure to only use one monitor. Ensure that you do **not** run osu! as administrator (unless osu! is asking for it directly on its own). Make sure to have osu! on the Cutting Edge release stream.
 
 <!-- -->
 
-  
 **d) My osu! song database corrupts when starting up!**
 
 Use a fresh osu! installation.
 
 <!-- -->
 
-  
 **e) The background of the osu!tourney is not showing!**
 
 Make sure your background file is properly located at `.../osu!/Skins/User/tournament/background.png`. See **[Skinning](Osu!tourney#Skinning "wikilink")**.
 
 <!-- -->
 
-  
 **f) How do I make osu! run as normal client again?**
 
 Rename or delete the `tournament.cfg` file.
 
 <!-- -->
 
-  
 **g) My client is not spectating!**
 
 Make sure you have joined the room! Click the room name on the bottom black panel until it is **bold**. If the client is still not spectating, click the `panic` button.
 
 <!-- -->
 
-  
 **h) The rooms are not showing up!**
 
 Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`. Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**. Renaming an existing multiplayer room doesn’t work. Recreate the entire room, if you did something wrong.
 
 <!-- -->
 
-  
 **i) The team names are not showing!**
 
 Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`. Make sure you use the correct room name (see **[Match Creation](Osu!tourney#Match_creation "wikilink")**). Renaming an existing multiplayer room doesn’t work. Recreate the entire room, if you did something wrong.
 
 <!-- -->
 
-  
 **j) How do I stream my tournament to services like Twitch.tv?**
 
 To set up a stream, we recommend using the Open Broadcaster Software, but you are also free to use any other streaming client you have access to. The resolution of the top part of osu!tourney is 1280x720. Do not stream the black control panel.
 
 <!-- -->
 
-  
 **k) My issue is not listed here! What to do?**
 
 Post in **[this thread](https://osu.ppy.sh/forum/t/327120)**. Developers are monitoring this thread to help you troubleshooting the problems you are encountering. Make sure to be descriptive and provide screenshots if possible.

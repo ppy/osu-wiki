@@ -1,3 +1,6 @@
+osu! Catch the Beat World Cup 2014
+=====================================
+
 ![CWC 2014 logo](logo.png)
 
 The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) is a country-based Catch the Beat tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 3rd installment of the osu! Catch the Beat World Cup. The previous title holder is **![](/wiki/shared/flag/Cl.gif) Chile**.
@@ -11,7 +14,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Se.gif) **Sweden**      |
 
 Tournament schedule
-===================
+----------------------
 
 | Event                  | Timestamp                |
 |------------------------|--------------------------|
@@ -24,7 +27,7 @@ Tournament schedule
 | Finals/3rd place match | 14-15 Jun 2014           |
 
 Prizes
-======
+----------
 
 | Place                                                      | Prize(s)                                               |
 |------------------------------------------------------------|--------------------------------------------------------|
@@ -33,7 +36,7 @@ Prizes
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                                  |
 
 Organization
-============
+---------------
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                      |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +49,7 @@ Organization
 ------------------------------------------------------------------------
 
 Links
-=====
+-------
 
 -   [osu! Catch the Beat World Cup 2014 on Twitch](//www.twitch.tv/osulive/)
 -   **[Group Stage Results](//tournaments.hiroto.eu/results/view/1)**
@@ -56,12 +59,12 @@ Links
 ------------------------------------------------------------------------
 
 Knock-Out Bracket
-=================
+-----------------
 
 ![CWC 2014 brackets](brackets.jpg)
 
 Participants
-============
+------------
 
 | Flag                           | Country        | Group A Members                                                                                                                                                                                                      |
 |--------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -122,12 +125,11 @@ Participants
 ------------------------------------------------------------------------
 
 Mappools
-========
+----------
 
 [All packs can be downloaded right here](//www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)
 
-Finals
-------
+### Finals
 
 [Click here to download whole pool in one pack!](//www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar)
 
@@ -173,8 +175,7 @@ Finals
 |---------------------------------------------------------------------------------|
 | [t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](//osu.ppy.sh/b/240488&m=2) |
 
-Semi-finals
------------
+### Semi-finals
 
 [Click here to download whole pool in one pack!](//www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)
 
@@ -219,8 +220,7 @@ Semi-finals
 |--------------------------------------------------------------------------------|
 | [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](//osu.ppy.sh/b/297463&m=2) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 [Click here to download whole mappool in one pack!](//www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)
 
@@ -265,8 +265,7 @@ Quarter-finals
 |----------------------------------------------------------------------|
 | [nano - Nevereverland (CLSW) \[Crystal\]](//osu.ppy.sh/b/369563&m=2) |
 
-Round 16
---------
+### Round 16
 
 [**Click here to download all maps in one pack!**](//www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)
 
@@ -317,8 +316,7 @@ Round 16
 | [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](//osu.ppy.sh/b/105143&m=2) |
 
 
-Group Stage
------------
+### Group Stage
 
 **[Click here to downloads all maps in one pack](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
@@ -372,10 +370,9 @@ Group Stage
 ------------------------------------------------------------------------
 
 Match Results
-=============
+---------------
 
-Group Stage
------------
+### Group Stage
 
 | Team A                                         | Scores        | Team B                                           | History                       |
 |:-----------------------------------------------|:-------------:|-------------------------------------------------:|-------------------------------|
@@ -416,8 +413,7 @@ Group Stage
 | ![](/wiki/shared/flag/Mx.gif) **Mexico**      | **4** - 0     | Denmark ![](/wiki/shared/flag/Dk.gif)           | Win by default                |
 | ![](/wiki/shared/flag/Hk.gif) **Hong Kong**   | **4** - 0     | Estonia ![](/wiki/shared/flag/Ee.gif)           | [#1](//osu.ppy.sh/mp/6685082) |
 
-Round 16
---------
+### Round 16
 
 | Team A                                           | Scores        | Team B                                       | History                       |
 |:-------------------------------------------------|:-------------:|---------------------------------------------:|-------------------------------|
@@ -430,8 +426,7 @@ Round 16
 | ![](/wiki/shared/flag/Jp.gif) **Japan**         | **5** - 1     | Mexico        ![](/wiki/shared/flag/Mx.gif) | [#1](//osu.ppy.sh/mp/6840792) |
 | ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 4     | Uruguay       ![](/wiki/shared/flag/Uy.gif) | [#1](//osu.ppy.sh/mp/6842138) |
 
-Quarter-finals
---------------
+### Quarter-finals
 
 | Team A                                         | Scores        | Team B                                     | History                       |
 |:-----------------------------------------------|:-------------:|-------------------------------------------:|-------------------------------|
@@ -440,8 +435,7 @@ Quarter-finals
 | ![](/wiki/shared/flag/Se.gif) **Sweden**      | **5** - 4     | Singapore   ![](/wiki/shared/flag/Sg.gif) | [#1](//osu.ppy.sh/mp/6975640) |
 | ![](/wiki/shared/flag/Us.gif) United States   | 1     - **5** | **Germany** ![](/wiki/shared/flag/De.gif) | [#1](//osu.ppy.sh/mp/6977532) |
 
-Semi-finals
------------
+### Semi-finals
 
 | Team A                                     | Scores        | Team B                                         | History                       |
 |:-------------------------------------------|:-------------:|-----------------------------------------------:|-------------------------------|
@@ -459,22 +453,21 @@ Finals / 3rd place match
 ------------------------------------------------------------------------
 
 Ruleset
-=======
+--------
 
-Tournament Rules
-----------------
+### Tournament Rules
 
 1.  The osu! Catch the Beat World Cup is a country-based 3v3 team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod bracket.
 
 3.  Match schedule will be settled by Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed player's score do not get added to the team score.
     -   Reviving and surviving during a map gets consideres as passing it.
 
-6.  Use of the [Visual Settings](Visual_Settings "wikilink") options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -487,8 +480,7 @@ Tournament Rules
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
-Tournament Registration
------------------------
+### Tournament Registration
 
 1.  Your team needs **at least 3 players** to participate.
     1.  The maximum team size is 6.
@@ -508,8 +500,7 @@ Tournament Registration
 
 7.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     -   This might change according to the final amount of teams
@@ -517,9 +508,9 @@ Stage instructions
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top 2 teams of each group will move on to the Knock-Out Stages.
@@ -529,8 +520,7 @@ Stage instructions
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -538,7 +528,7 @@ Match Instructions
     3.  The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 
 2.  Players are free to select up to two warm-up maps.
-3.  Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+3.  Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in #multiplayer to determine which team selects first.
     1.  The captains may select maps out of the NoMod and FreeMod bracket freely.
     2.  Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
         1.  Selection out of FreeMod bracket is unlimited.
@@ -547,11 +537,10 @@ Match Instructions
 
 4.  Results will be published via Statistics site.
 
-Mappool Instructions
---------------------
+### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod
 3.  Each mappool consists of 23 maps in total.
 4.  Each mappool has one tiebreaker
 5.  The NoMod bracket will be played with no modes activated.
@@ -571,8 +560,7 @@ Mappool Instructions
     -   3 in Group Stage
     -   4 in Knock-Out Stages
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend**
 2.  Matches in Group Stage may overlap.
@@ -580,4 +568,4 @@ Scheduling instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 4th May for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-<Category:Tournaments> [Category:Official Tournaments](Category:Official_Tournaments "wikilink") [Category:Catch the Beat Tournaments](Category:Catch_the_Beat_Tournaments "wikilink") [Category:Catch the Beat World Cup](Category:Catch_the_Beat_World_Cup "wikilink")
+<Category:Tournaments><Category:Official Tournaments><Category:Catch the Beat Tournaments><Category:Catch the Beat World Cup>

@@ -1,12 +1,14 @@
+Präsentationen
+================
+
 Showcases
-=========
+-----------
 
 Section dedicated for showcases and "Best of" series.
 
-Skin Präsentierung
-------------------
+### Skin Präsentierung
 
-Quelle: <http://osu.ppy.sh/forum/t/166778>
+Quelle: http://osu.ppy.sh/forum/t/166778
 
 | Präsentierung | Name                                                                   | Ersteller                                   | Betragslink                                       | Videolink                                                |
 |---------------|------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------------|----------------------------------------------------------|
@@ -18,10 +20,9 @@ Quelle: <http://osu.ppy.sh/forum/t/166778>
 | \#6           | [NeOsu](http://osu.ppy.sh/forum/t/181489)                              | [OsuMe65](http://osu.ppy.sh/u/852867)       | [Beitrag \#6](http://osu.ppy.sh/news/79496003745) | [Video \#6](http://www.youtube.com/watch?v=Fa4T-AnyHHQ)  |
 | \#7           | [Catch the Beat Spezial](http://osu.ppy.sh/news/86623206423) (4 Skins) | *Various*                                   | [Beitrag \#7](http://osu.ppy.sh/news/86623206423) | [Video \#7](http://www.youtube.com/watch?v=DVVr2WQO5pQ)  |
 
-Storyboard Präsentierung
-------------------------
+### Storyboard Präsentierung
 
-Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
+Quelle: http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards
 
 | Präsentierung | Beatmap (Creator)                                                            | Storyboader                              | Beitrag link                                                                                      | Video link                                                                       |
 |---------------|------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -33,11 +34,11 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 | \#6           | [YUI - Sea (VanMoNky)](http://osu.ppy.sh/s/13021)                            | [VanMoNky](http://osu.ppy.sh/u/117865)   | [Beitrag \#6](http://news.ppy.sh/post/72951293450/storyboard-showcase-yui-sea)                    | \[Video \#6\]                                                                    |
 | \#7           | [Lia - Toki wo Kizamu Uta (kanpakyin)](http://osu.ppy.sh/s/35701)            | [JoJo](http://osu.ppy.sh/u/421286)       | [Beitrag \#6](http://news.ppy.sh/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta)     | [Video \#6](https://www.youtube.com/watch?feature=player_embedded&v=ZwYPDOutZPc) |
 
-## Best of series
+### Best of series
 
-### osu!standard
+#### osu!standard
 
-#### 2009 osu!standard
+##### 2009 osu!standard
 
 | Placing | 2009 Ergebnis                                                           |
 |---------|-------------------------------------------------------------------------|
@@ -57,7 +58,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Beitrag](//osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
 -    [Ergebnis](//osu.ppy.sh/forum/t/22162)
 
-#### 2010 osu!standard
+##### 2010 osu!standard
 
 | Placing | 2010 Ergebnis                                                                                                                                 |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,7 +78,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Beitrag](//osu.ppy.sh/forum/t/42889)
 -    [Ergebnis](//osu.ppy.sh/forum/t/43834)
 
-#### 2011 osu!standard
+##### 2011 osu!standard
 
 | Placing | 2011 Ergebnis                                                 |
 |---------|---------------------------------------------------------------|
@@ -97,7 +98,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
         -    [Part 2](//osu.yas-online.net/tagthis.php?tag=R45)
 -    [Ergebnis](//osu.ppy.sh/forum/t/71477)
 
-#### 2012 osu!standard
+##### 2012 osu!standard
 
 | Placing | 2012 Ergebnis                                                                                                                |
 |---------|------------------------------------------------------------------------------------------------------------------------------|
@@ -114,7 +115,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Beitrag](//osu.ppy.sh/forum/t/110066)
 -    [Ergebnis](//osu.ppy.sh/forum/t/113613)
 
-#### 2013 osu!standard
+##### 2013 osu!standard
 
 | Placing | 2013 Ergebnis                                                   |
 |---------|-----------------------------------------------------------------|
@@ -131,7 +132,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Ergebnis #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!standard
+##### 2014 osu!standard
 
 | Placing | 2014 Ergebnis                                                                    |
 |---------|----------------------------------------------------------------------------------|
@@ -146,7 +147,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/109804193683)
 -    [Ergebnis #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!standard
+##### 2015 osu!standard
 
 | Placing | 2014 Ergebnis                                                                |
 |---------|------------------------------------------------------------------------------|
@@ -161,9 +162,9 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/138781453998)
 -    [Ergebnis #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!taiko
+#### osu!taiko
 
-#### 2013 osu!taiko
+##### 2013 osu!taiko
 
 | Placing | 2013 Ergebnis                                                                                                                |
 |---------|------------------------------------------------------------------------------------------------------------------------------|
@@ -180,7 +181,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Ergebnis #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!taiko
+##### 2014 osu!taiko
 
 | Placing | 2014 Ergebnis                                                                          |
 |---------|----------------------------------------------------------------------------------------|
@@ -197,7 +198,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/109804193683)
 -    [Ergebnis #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!taiko
+##### 2015 osu!taiko
 
 | Placing | 2015 Ergebnis                                                                |
 |---------|------------------------------------------------------------------------------|
@@ -212,9 +213,9 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/138781453998)
 -    [Ergebnis #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!catch
+#### osu!catch
 
-#### 2013 osu!catch
+##### 2013 osu!catch
 
 | Placing | 2013 Ergebnis                                                        |
 |---------|----------------------------------------------------------------------|
@@ -231,7 +232,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Ergebnis #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!catch
+##### 2014 osu!catch
 
 | Placing | 2014 Ergebnis                                                                    |
 |---------|----------------------------------------------------------------------------------|
@@ -248,7 +249,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/109804193683)
 -    [Ergebnis #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!catch
+##### 2015 osu!catch
 
 | Placing | 2015 Ergebnis                                                                                  |
 |---------|------------------------------------------------------------------------------------------------|
@@ -263,9 +264,9 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/138781453998)
 -    [Ergebnis #2](//news.ppy.sh/post/138781453998/best-of-2015-results)
 
-### osu!mania
+#### osu!mania
 
-#### 2013 osu!mania
+##### 2013 osu!mania
 
 | Placing | 2013 Ergebnis                                                  |
 |---------|----------------------------------------------------------------|
@@ -282,7 +283,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//news.ppy.sh/post/76226135369/best-maps-of-2013-results)
 -    [Ergebnis #2](//osu.ppy.sh/news/76226135369)
 
-#### 2014 osu!mania
+##### 2014 osu!mania
 
 | Placing | 2014 Ergebnis                                                                    |
 |---------|----------------------------------------------------------------------------------|
@@ -299,7 +300,7 @@ Quelle: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 -    [Ergebnis #1](//osu.ppy.sh/news/109804193683)
 -    [Ergebnis #2](//news.ppy.sh/post/109804193683/best-of-2014-results)
 
-#### 2015 osu!mania
+##### 2015 osu!mania
 
 | Placing | 2015 Ergebnis                                                               |
 |---------|-----------------------------------------------------------------------------|

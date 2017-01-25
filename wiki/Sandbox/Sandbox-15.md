@@ -503,7 +503,6 @@ The volume controls allow one to change the volume in-game.
 
 ### Universal Audio Offset
 
-  
 ***[Detailed calibration method.](Universal_Offset "wikilink")***
 
 If, in every single beatmap you play, you hear the sound effects out of sync with the song, you might need to adjust this value. Click and hold on the selector, then drag left or right. You can also place the cursor on the selector and move it using the left and right arrow keys. Continue adjusting until you find the position where the two different sounds are heard simultaneously. Alternatively, you can use Run Offset Wizard for a more graphical representation of ticks.
@@ -1015,7 +1014,6 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 
 ### Debug
 
-  
 **Do not touch these unless you know what you're doing. Cutting edge only.**
 
 Please note: you may have to restart osu! after toggling these as some of these options may not revert properly.

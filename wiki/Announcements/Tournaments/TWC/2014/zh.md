@@ -1,9 +1,12 @@
+osu! Taiko World Cup 2014
+==========================
+
 ![TWC 2014 logo](logo.png)
 
 **osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](//osu.ppy.sh/g/26) 举办的[太鼓模式](/wiki/Game-Modes/Taiko/zh.md)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](/wiki/shared/flag/Tw.gif) 台湾**。
 
 比赛流程
-========
+------------
 
 | Event             | Timestamp                               |
 |-------------------|-----------------------------------------|
@@ -16,7 +19,7 @@
 | 决赛 / 季军赛          | 2014年 3月 8日 至 9日                        |
 
 奖品
-====
+---------
 
 | Placing                                                    | Country                         |
 |------------------------------------------------------------|---------------------------------|
@@ -25,7 +28,7 @@
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
 
 主办方
-======
+--------
 
 | Job    | Person(s)                                                                                                                                                                                                                                                                                     |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +40,7 @@
 ------------------------------------------------------------------------
 
 相关鏈接
-========
+----------
 
 -   [讨论串](//osu.ppy.sh/forum/t/179127)
 -   [直播 (Twitch)](//www.twitch.tv/osulive/)
@@ -45,20 +48,19 @@
 ------------------------------------------------------------------------
 
 規則
-====
+-----
 
-比赛規則
---------
+### 比赛規則
 
 1.  osu! Taiko World Cup 2014 是以国家作队伍单位的三对三比赛。
 2.  每回合比赛的地图，都会于相应的比赛阶段开始前的星期天由 比赛地图选择者 公布。只有被公布的地图才可以在相应的比赛中被选择。
     -   每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
-    -   此外，比赛地图列表亦包含规定使用 [Hidden](HD "wikilink")、[HardRock](HR "wikilink")、[DoubleTime](DT "wikilink") 或 FreeMod 的比赛地图。
+    -   此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_Modifiers/zh.md)、[HardRock](/wiki/Game_Modifiers/zh.md)、[DoubleTime](/wiki/Game_Modifiers/zh.md) 或 FreeMod 的比赛地图。
 
 3.  每回合比赛的时间编排都会由主办方决定。
 4.  若没有裁判或主办人员在场，比赛会被延期。
 5.  任何不及格的玩家的得分都不会计算到所属队伍的总分。
-6.  玩家可以自由调整 [Visual Settings](Visual_Settings "wikilink") 里的选项。
+6.  玩家可以自由调整 [Visual Settings](/wiki/Game_Modifiers/zh.md) 里的选项。
 7.  若比赛出现和局，该局会被作废。
 8.  若有玩家断线，他们会被视为不及格。
 9.  除非比赛结果被作废，每张比赛地图皆不可被重复选择。
@@ -71,8 +73,7 @@
 14. 任何突发事件皆会由主办方处理。
 15. 任何規則的修改都会被公布。
 
-比赛报名
---------
+### 比赛报名
 
 (翻译未完成)
 
@@ -92,8 +93,7 @@
 
 7.  Mapset selectors may not participate as a player in this tournament.
 
-比赛阶段
---------
+### 比赛阶段
 
 (翻译未完成)
 
@@ -101,9 +101,9 @@
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
     1.  Most matches won.
-    2.  Have higher `{(the` `number` `of` `maps` `won)` `-` `(the` `number` `of` `maps` `defeated)}`.
+    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
     3.  Most maps won.
-    4.  Have higher `∑{(total` `score` `difference)` `/` `(maximum` `score)}`.
+    4.  Have higher `∑{(total score difference) / (maximum score)}`.
     5.  Winner of the rematch.
 
 4.  The top two teams of each group will move on to the Knock-Out Stages.
@@ -113,8 +113,7 @@
     -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-比赛方式
---------
+### 比赛方式
 
 (翻译未完成)
 
@@ -133,13 +132,12 @@
 
 4.  Results will be published via Statistics site.
 
-比赛地图
---------
+### 比赛地图
 
 (翻译未完成)
 
 1.  There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") and FreeMod
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/zh.md), [HardRock](/wiki/Game_Modifiers/zh.md), [DoubleTime](/wiki/Game_Modifiers/zh.md) and FreeMod
 3.  Each mappool consists of 23 maps in total.
 4.  Each mappool has one tiebreaker
 5.  The NoMod bracket will be played with no modes activated.
@@ -158,8 +156,7 @@
     -   3 in Group Stage
     -   4 in Knock-Out Stages
 
-比赛时间编排
-------------
+### 比赛时间编排
 
 (翻译未完成)
 
@@ -168,5 +165,3 @@
 3.  All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-

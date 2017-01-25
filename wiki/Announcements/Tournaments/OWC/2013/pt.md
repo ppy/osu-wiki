@@ -1,3 +1,6 @@
+osu! World Cup 2013
+=======================
+
 ![OWC 2013 logo](logo.png)
 
 A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecida por OWC 2013, é gerida pela [Administração de Torneios](//osu.ppy.sh/g/26). A copa começou no dia 15 de Outubro de 2013 e termou no dia 8 de Dezembro de 2013. O campeão da OWC pelo terceiro ano consecutivo foi a **![](/wiki/shared/flag/Kr.gif) Coréia do Sul**.
@@ -9,7 +12,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Pl.gif) **Polônia** |
 
 Calendário do Torneio
-=====================
+---------------------------
 
 -   Fase de Inscrições: 15 a 28 de Outubro de 2013
 -   Sorteio ao vivo: 31 de Outubro de 2013
@@ -20,14 +23,14 @@ Calendário do Torneio
 -   Finais/Disputa do terceiro lugar: 7 a 8 de Dezembro de 2013
 
 Premiação
-=========
+------------
 
 **1º:** Supporter tag de 6 meses, medalha no perfil, troféu da OWC
 **2º:** Supporter tag de 3 mês
 **3º:** Supporter tag de 1 mês
 
 Organização
-===========
+-----------
 
 **Administração do Torneio:** ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366), ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/154400)
 
@@ -42,7 +45,7 @@ Organização
 ------------------------------------------------------------------------
 
 Participantes
-=============
+-----------------
 
 ### Maiores Torcidas
 
@@ -99,17 +102,16 @@ Participantes
 ------------------------------------------------------------------------
 
 Tabela
-======
+---------
 
 ![OWC 2013 brackets](brackets.jpg)
 
 ------------------------------------------------------------------------
 
 Lista de Beatmaps
-=================
+----------------------
 
-Final
------
+### Final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
@@ -154,8 +156,7 @@ Final
 |-----------------------------------------------------------------------------------------|
 | **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) \[Love\]](//osu.ppy.sh/b/226605)** |
 
-Semi-final
-----------
+### Semi-final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/?pn3yxce7m6v4j13)**
 
@@ -200,8 +201,7 @@ Semi-final
 |---------------------------------------------------------------------------------------|
 | **[Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](//osu.ppy.sh/b/151229)** |
 
-Quartas de final
-----------------
+### Quartas de final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
@@ -246,8 +246,7 @@ Quartas de final
 |------------------------------------------------------------------------------------------|
 | **[HujuniseikouyuuP - Talent Shredder (val0108) \[0108 style\]](//osu.ppy.sh/b/178966)** |
 
-Oitavas de final
-----------------
+### Oitavas de final
 
 **[Clique aqui para baixar o pack!](//www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
@@ -292,8 +291,7 @@ Oitavas de final
 |------------------------------------------------------------------------------------|
 | **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](//osu.ppy.sh/b/221777)** |
 
-Fase de Grupos
---------------
+### Fase de Grupos
 
 **[Clique aqui para baixar o pack](//www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
@@ -341,27 +339,26 @@ Fase de Grupos
 ------------------------------------------------------------------------
 
 Links
-=====
+---------
 
 -   [Tópico de Discussão](//osu.ppy.sh/forum/t/160181/start=0)
 
 ------------------------------------------------------------------------
 
 Regras
-======
+-------
 
-Regras Gerais do Torneio
-------------------------
+### Regras Gerais do Torneio
 
 1.  A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2.  Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
     -   Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](PT:HD "wikilink"), [HardRock](PT:HR "wikilink"), [DoubleTime](PT:DT "wikilink") e FreeMod.
+    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod.
 
 3.  O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4.  Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5.  A pontuação dos jogadores que falharam e reviveram será contada.
-6.  O uso das [PT:Visual Settings](PT:Visual_Settings "wikilink") será permitido.
+6.  O uso das [PT:Visual Settings](/wiki/Game_Modifiers/pt.md) será permitido.
 7.  Em caso de empate na pontuação, o beatmap jogado será anulado.
 8.  Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9.  Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
@@ -376,8 +373,7 @@ Regras Gerais do Torneio
 14. Incidentes inesperados serão devidamente controlados pelos árbitros. A decisão de um árbitro pode ser anulada pela Administração do Torneio.
 15. Qualquer modificação nestas regras será anunciada.
 
-Inscrição do Torneio
---------------------
+### Inscrição do Torneio
 
 1.  Sua equipe precisa de **pelo menos 4 jogadores** para participar.
     1.  O tamanho máximo de uma equipe é 8 jogadores.
@@ -391,16 +387,15 @@ Inscrição do Torneio
 5.  O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
 6.  Selecionadores de mapas não poderão jogar no torneio.
 
-Instruções de Estágios
-----------------------
+### Instruções de Estágios
 
 1.  Na primeira fase (Fase de Grupos), as equipes serão divididas em 8 grupos de 4 equipes.
 2.  Todos os times de cada grupo se enfrentarão.
 3.  A classificação de cada grupo será determinada pelos resultados das partidas, levando em conta a seguinte prioridade:
     1.  Maior número de vitórias.
-    2.  Maior número de `{(beatmaps` `vencidos)` `-` `(beatmaps` `perdidos)}`.
+    2.  Maior número de `{(beatmaps vencidos) - (beatmaps perdidos)}`.
     3.  Maior número de beatmaps vencidos.
-    4.  Maior número de `∑{(diferença` `total` `de` `pontuação)` `/` `(pontuação` `máxima)}`.
+    4.  Maior número de `∑{(diferença total de pontuação) / (pontuação máxima)}`.
     5.  Vencedor de uma revanche.
 
 4.  As duas equipes com a melhor performance de cada grupo serão classificadas para os mata-matas.
@@ -410,8 +405,7 @@ Instruções de Estágios
     -   Nas oitavas e quartas de final, você precisa vencer 5 beatmaps para ganhar uma partida. (Melhor de 9)
     -   Nas semi-finais e finais, você precisa vencer 6 mapas para ganhar uma partida. (Melhor de 11)
 
-Instruções de Partida
----------------------
+### Instruções de Partida
 
 1.  Um árbitro criará uma partida de multiplayer 30 minutos antes do jogo. Os jogadores deverão se reunir na sala durante esse período.
     1.  A sala será devidamente fechada com senha. A senha e o convite para participar serão enviados aos capitães o mais rápido possível.
@@ -429,11 +423,10 @@ Instruções de Partida
 5.  Cada capitão deverá salvar o resultado das partidas com um screenshot. Os árbitros lembrarão os capitães de fazer isso.
 6.  Os resultados serão publicados pelo documento de estatísticas.
 
-Instruções dos Grupos de Beatmaps
----------------------------------
+### Instruções dos Grupos de Beatmaps
 
 1.  Existirá um grupo de beatmaps para a Fase de Grupos, um grupo para as Oitavas de Final, um grupo para as Quartas de final, um grupo para as Semi-finais e um grupo para as Finais.
-2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](PT:HD "wikilink"), [HardRock](PT:HR "wikilink"), [DoubleTime](PT:DT "wikilink") e FreeMod
+2.  Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_Modifiers/pt.md), [HardRock](/wiki/Game_Modifiers/pt.md), [DoubleTime](/wiki/Game_Modifiers/pt.md) e FreeMod
 3.  Cada grupo de beatmaps consiste de 23 beatmaps no total.
 4.  Cada grupo de beatmaps terá um tiebreaker.
 5.  O subgrupo NoMod será jogado sem nenhum mod específico.
@@ -448,8 +441,7 @@ Instruções dos Grupos de Beatmaps
     -   3 na Fase de Grupos
     -   4 nos mata-matas
 
-Instruções de Agendamento
--------------------------
+### Instruções de Agendamento
 
 1.  Cada estágio será realizado em **apenas um fim de semana** (dirija-se ao Calendário do Torneio, no topo, para mais informações)
 2.  Na Fase de Grupos, as primeiras partidas serão realizadas na sexta-feira (8 de Novembro), a segunda no sábado (9 de Novembro), e a terceira no domingo (10 de Novembro).
@@ -459,4 +451,4 @@ Instruções de Agendamento
 4.  O agendamento será realizado pela Administração do Torneio. As programações serão publicadas no Domingo anterior às primeiras partidas da próxima fase. A administração do torneio tentará criar a programação de acordo com os fusos horários correspondentes a cada país.
 5.  Os capitães serão responsáveis pela disponibilidade de suas equipes. O tamanho das equipes, de 4 reservas, garante que cada equipe possa providenciar pelo menos quatro jogadores em cada partida. Se as equipes não conseguirem providenciar esses quatro jogadores, a partida será considerada perdida.
 
-<Category:Tournaments/PT> [Category:Official Tournaments/PT](Category:Official_Tournaments/PT "wikilink") [Category:Osu! Standard Tournaments/PT](Category:Osu!_Standard_Tournaments/PT "wikilink") [Category:Osu! World Cup/PT](Category:Osu!_World_Cup/PT "wikilink")
+<Category:Tournaments/PT><Category:Official Tournaments/PT><Category:Osu! Standard Tournaments/PT><Category:Osu! World Cup/PT>

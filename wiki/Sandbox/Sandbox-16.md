@@ -5,7 +5,6 @@ R
 
 ### Rank
 
-  
 *For Ranked beatmaps see [Ranked beatmap](Ranked_beatmap "wikilink").*
 
 1.  Another word for a [grade](#Grade "wikilink").
