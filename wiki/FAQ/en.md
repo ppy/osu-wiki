@@ -24,6 +24,7 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
+[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium by deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
 [osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
@@ -82,22 +83,22 @@ You can see the circles on the bottom screen, and on the top screen you have the
 ### How do I play?
 _Full explanation: [osu!][osu! wikilink]_
 
-While most PC users may not have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most players may not have a touchscreen at their disposal, this game is made to be playable with a normal mouse, as well as any number of input devices you can possibly think of. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
-#### Game-play Basics
+#### Gameplay Basics
 _Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
 
-The game-play puts emphasis on:-
+The gameplay puts emphasis on:-
 
 -   Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
 -   Understanding of the song beat and design.
 -   Input device control.
 -   Timing of hits on the object that appeared on the screen.
 -   Ability to spin the mouse (or your finger/pen for tablet) on spinners.
--   Physical stamina and mental fortitude (especially marathon songs).
+-   Physical stamina and mental fortitude (especially longer, marathon-type songs).
 -   Proper positioning and hand-eye coordination.
 
-These are some of the vital skills you will learn as you progress your journey on becoming an osu! rhythm master. Before you set out to become a rhythm master, you must learn the basics (and theories) of the hittable objects.
+These are some of the vital skills you will learn as you progress your journey on becoming an osu! rhythm master. Before you set out to become the rhythm master, you must learn the basics (and theories) of the hittable objects.
 
 Let us learn about what the hittable objects are, shall we?
 
@@ -137,9 +138,9 @@ On the DS, this is a good way to scratch your touchscreen (or screen protectors)
 
 This is the in-game interface for osu!.
 
-The top left bar is your health. This will decrease at a steady rate (depending on the beatmap difficulty set by the mapper), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will increase your health more than a badly timed hit (50). A total miss will take a good chunk of your health out.
+The top left bar is the healthbar. This will decrease at a steady rate (depending on the beatmap difficulty set by the mapper), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will increase your health more than a badly timed hit (50). A total miss will take a good chunk of your health out.
 
-On the right of the health bar is your score. Below that is your accuracy. The circle beside your accuracy (and below your score) is a timer for the duration of the beatmap. The number on the bottom left is your combo counter/score multiplier.
+On the right of the health bar is the score. Below that is the accuracy. The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap. The number on the bottom left is the combo counter/score multiplier.
 
 ---
 
@@ -158,17 +159,17 @@ _Full explanation: [osu!taiko][osu!taiko wikilink]_
 
 _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ is a taiko drum rhythm game made by Namco. This game involves the simulation of playing the taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of Taiko no Tatsujin through the use of osu!taiko game mode.
 
-Like osu! game mode, there are three elements of gameplay.
+Just like the osu! game mode shown above, there are three elements of gameplay.
 
 #### Basic explanation
 ##### Playfield
 ![Taiko playfield][Taiko playfield image]
 
-If you have played _Taiko no Tatsujin_ before, the only difference is that there is no chibi dancers at the bottom (must be storyboarded), the pass rate is _half_ of the healthbar (not immediately obvious in the default skin; please manually find and get a decent taiko skin), Kiai Time triggers Go-Go Time, gameplay gimmick elements like hit balloons or forked paths are not implemented (only the bare-bone basics), and background display difference (osu!taiko-specific beatmaps usually has its own custom background, leaving upper section empty; a video or static background image-only will take the lower portion only; if storyboard or storyboard+video, it will take over all the available screen space except the gameplay-important parts).
+If you have played _Taiko no Tatsujin_ before, the only difference is that there are no chibi dancers at the bottom (must be storyboarded), the healthbar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin), kiai time triggers the "Go-Go Time", gameplay gimmicks like the hit balloons or forked paths are not implemented (only the bare-bone basics), and background display difference (osu!taiko-specific beatmaps usually has its own custom background, leaving upper section empty; a video or static background image-only will take the lower portion only; if storyboard or storyboard+video, it will take over all the available screen space except the gameplay-important parts).
 
-If you have not played _Taiko no Tatsujin_ before, the screen is split to two different section; the upper section contains the gameplay elements, and the lower section contains image/video of the beatmap. At the upper section, there is the healthbar, which unlike other gamemodes, starts off empty and must be filled it up to at least half-full to be considered a pass. At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving convenyor belt which carries the hitobjects from right to left passing through a double white circles which serves as judgement circle near the taiko drum. Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes. Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
+If you have not played _Taiko no Tatsujin_ before, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap. At the upper section, there is the healthbar, which unlike other gamemodes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty. At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving convenyor belt which carries the hitobjects from right to left passing through a double white circles which serves as judgement circle near the taiko drum. Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes. Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-Please note that health drain is disabled in osu!taiko, so only the hitobjects will affect the healthbar. Combo does not break when you play on an empty field. Unlike osu!, the combo milestone celebration is now every 50 hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (this is the max combo limit for this boost). If the combo is broken, this boost resets back to the base score. During Kiai Time, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right in red.
+Please note that health drain is disabled in osu!taiko, so only the hitobjects will affect the healthbar. Combo wil not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (this is the max combo limit for this boost). If the combo is broken, this boost resets back to the base score. During Kiai Time, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
 ##### Hitcircles
 ![Taiko hitcircles][Taiko hitcircles image]
@@ -193,7 +194,7 @@ Drumrolls can be ignored with no health penalty, as it does not recover the heal
 
 These appear as spinners, with a countdown displaying the number of hits remaining (denden counter) to clear it, and a shirking blue circle showing the time left to clear it.
 
-Hit the inner and outer drum _in order_ (like red,blue, red,blue, red,blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour was hitted instead.
+Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour was hitted instead.
 
 It does not increment the combo counter, and does not recover the healthbar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
@@ -212,7 +213,7 @@ _Full explanation: [osu!catch][osu!catch wikilink]_
 
 ![osu!catch Interface][osu!catch Interface image]
 
-_osu!catch_ (previously known as _Catch the Beat_) is the second game mode added to osu!, after osu!taiko game mode.
+_osu!catch_ (formerly known as _Catch the Beat_) is the second game mode added to osu!, after the osu!taiko game mode.
 
 Instead of clicking circles, you are now tasked to move the catcher at the bottom of the screen while the fruits fall from above.
 
@@ -222,21 +223,21 @@ All fruits will stay at the plate until its combo ends, which the fruits will bo
 ##### Fruits
 ![Fruits][Fruits image]
 
-Fruits are the hitcircles of osu!catch, and it rains down from top of the screen. To catch these fruits, make sure it falls to the plate, and not over the plate. Collected fruits will always give 300pt each, increment combo by 1, and treated as 300 in result screen.
+Fruits are the hitcircles of osu!catch, and it rains down from top of the screen. To catch these fruits, make sure it falls to the plate, and not over the plate. Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
 
 ##### Fruit trails
 ![Fruit trails][Fruit trails image]
 
-Fruit trails are the sliders of osu!catch. A typical fruit trail will contains two fruits (start and end), droplets (sliderpath), juice drop (sliderticks), and more fruits for each repeat points along with a reversed sliderpath. Droplet gives 10pt each and treated as 50 in result screen. Juice drop gives 30pt each, increment combo by 1, and treated as 100 in result screen.
+Fruit trails are the sliders of osu!catch. A typical fruit trail will contains two fruits (start and end), droplets (sliderpath), juice drop (sliderticks), and more fruits for each reverse arrow points along with a reversed sliderpath. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
 
-Missing the juice drop will break the combo (as it is a slidertick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_. Miss Droplet notably affects accuracy (missed out the droplet, which is a 50) and score (10pt for each droplet missed).
+Missing the juice drop will break the combo (as it is a slidertick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_. Miss Droplet notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
 ##### Bananas
 ![Bananas][Bananas image]
 
 Bananas serves as spinners in osu!catch. Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it will cost possible points gained and health recovery from collecting the bananas.
+The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas.
 
 Notably, [Auto][Auto wikilink] mod will go above and beyond to catch _all_ of the bananas without fail. Also, each banana rains has its own consistent pattern, not randomised patterns.
 
@@ -280,9 +281,9 @@ Tapbars are the hitcircles of osu!mania. Tapbars are falling bars to be tapped o
 ##### Holdbars
 ![osu!mania's Holdbars][osu!mania Holdbars image]
 
-Holdbars are the sliders and spinners of osu!mania. When the holdbar reached the judgement barline, tap the starting tapbar in time with correct key, hold, and release at the ending tapbar of the holdbar.
+Holdbars are the sliders and spinners of osu!mania. When the holdbar reaches the judgement barline, tap the starting tapbar in time with correct key, hold, and release it at the ending tapbar of the holdbar.
 
-While holding the holdbar(s), the healthbar will be charged slowly. Depending on the song and mapping quirks, it is possible that other tapbars or holdbars will appear while holding the holdbar(s), so please take that into account.
+Healthbar regeneration occurs slowly while holding the holdbar(s). Depending on the song and mapping quirks, it is possible that other tapbars or holdbars will appear while holding the holdbar(s), so please take that into account.
 
 #### Controls
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
@@ -379,19 +380,19 @@ If you have any questions regarding pp, please refer to the [wiki page for pp fi
 #### Where can I find and get the beatmaps?
 _Detailed explanation of the beatmaps: [Beatmaps][Beatmaps wikilink]_
 
-You can find it from the main page under the name "[Beatmaps][Beatmaplist link]". Just remember to log in to your osu! account beforehand or the server treats you as a guest and prohibit you from downloading beatmaps from the site.
+You can find it from the main page under the name _[Beatmaps][Beatmaplist link]_. Just remember to log in to your osu! account beforehand or the server will treat you as a guest and will not let you to download beatmaps from the site.
 
 #### Can I disable Kiai Time?
 **No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
 
 #### The maps are too hard! Where can I find some easier maps?
-For osu!, Pokebis has compiled a set of beatmaps suitable for beginners to play. You can find them here: <https://osu.ppy.sh/forum/t/5456>
+For osu! gamemode, Pokebis has compiled a set of beatmaps suitable for beginners to play. You can find them here: <https://osu.ppy.sh/forum/t/5456>
 
-For osu!taiko, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. You can find it here: <https://osu.ppy.sh/forum/t/175867>
+For osu!taiko gamemode, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. You can find it here: <https://osu.ppy.sh/forum/t/175867>
 
-For osu!catch, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. You can find it here: <https://osu.ppy.sh/forum/t/131067>
+For osu!catch gamemode, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. You can find it here: <https://osu.ppy.sh/forum/t/131067>
 
-For osu!mania, Entozer has compiled a decent list sorted by relative play difficulties. You can find it here: <https://osu.ppy.sh/forum/t/147552>
+For osu!mania gamemode, Entozer has compiled a decent list sorted by relative play difficulties. You can find it here: <https://osu.ppy.sh/forum/t/147552>
 
 Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design you will come across. It is an excellent training map for newbies and experienced players.
 
@@ -419,16 +420,16 @@ From the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard*
 #### Game over? Where did I messed up?
 _Full explanation: [Replay][Replay wikilink]_
 
-Press `F1` to replay the currently failed play. To restart the replay again, hold the custom default grave/tilde (`` `/~ ``) key (can be changed) or `Ctrl`+`R` for a while. The replay ends when the screen darkens with an osu!logo in the middle, rather than the game over screen.
+Press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (`` `/~ ``) key (can be changed) or `Ctrl`+`R` for a while.
 
-Due to the non-standard replay screen, use `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when you are given the game over screen. **This replay will not be saved nor allowed to be exported.** Use third-party software to record and save this failed replay instead.
+Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when you are given the game over screen. **This replay will not be saved nor allowed to be exported.** To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
 #### Does osu! has keyboard shortcuts?
 _Full list: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
 
-Pressing `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the Windows sidebar. Find the osu!logo in the Windows sidebar, and click on it to return osu! to the state before pressing the key. It is called the _Boss key_, and can be modified in _Change keyboard bindings_ (in Options, under Keyboard section), located at the end of the Universal section.
+Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the Windows sidebar. Find the osu!logo in the Windows sidebar, and click on it to return osu! to the state before pressing the key. It is called the _Boss key_, and can be modified in _Change keyboard bindings_ (in Options, under Keyboard section), located at the end of the Universal section.
 
-Another interesting shortcut is `Alt`+`Enter`, which makes osu! goes fullscreen/windowed mode. It does not work during gameplay, so please use it anywhere outside gameplay.
+Another interesting shortcut is `Alt`+`Enter`. This shortcut toggles the fullscreen mode button in Options, but does not work during gameplay.
 
 #### What should I backup when fresh installing osu! on a new device?
 The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe`, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
@@ -452,18 +453,18 @@ _Top image shows a slider with all the sliderticks shown in Edit mode; Bottom im
 
 **You released a slider early (meaning that you released the ball before it had finished the ending slider point).**
 
-A slider is composed of a starting circle point, spaced smaller circles known as sliderticks, repeat points (if used, it will be treated as starting point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to your combo. Note that the starting circle point is worth 30 points, the sliderticks are worth 10 points each, the repeat points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
+A slider is composed of a starting circle point, spaced smaller circles known as sliderticks, reverse arrow points (if used, it will be treated as starting point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to your combo. Note that the starting circle point is worth 30 points, the sliderticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
 
-Sliderticks only appears inside its own sliderpath; if the sliderticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden sliderticks still counts into combo and score, so it must be collected along with the visible sliderticks. If the slider has one or more repeat points, then the sliderticks will reappear at the same place to be collected in reverse.
+Sliderticks only appears inside its own sliderpath; if the sliderticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden sliderticks still counts into combo and score, so it must be collected along with the visible sliderticks. If the slider has one or more reverse arrow points, then the sliderticks will reappear at the same place to be collected in reverse.
 
-If miss the timing to tap the starting circle point, miss the sliderticks, or miss the repeat points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by 1. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least started the slider properly, and completed all the sliderticks/repeat points when given. Notably, [Sudden Death][Sudden Death wikilink] game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
+If miss the timing to tap the starting circle point, miss the sliderticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by 1. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least started the slider properly, and completed all the sliderticks/reverse arrow points when given. Notably, [Sudden Death][Sudden Death wikilink] game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
 
 These situations, caused by a slider, are collectively called sliderbreak. A max combo play can be known by checking the result screen for the _Perfect_ notice on the performance graph; not having the _Perfect_ notice, especially without misses, usually means that one or more sliderbreak occured during play.
 
 [Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
 ### osu!taiko
-#### What does Use Taiko skin for Taiko mode in Options under Skin section does?
+#### What does "Use Taiko skin for Taiko mode" in Options under Skin section do?
 This button only works if you have a folder named `taiko` (capitalisation does not matter) inside the `Skins` folder of the `osu!` file directory.
 
 When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
