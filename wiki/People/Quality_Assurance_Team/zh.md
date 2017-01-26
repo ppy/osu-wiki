@@ -24,5 +24,3 @@
 | [Tari](https://osu.ppy.sh/u/1779172) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | |
 
 小提示：所有 QAT 都能够熟练的使用英文进行交流，特别说明的除外。 [当前在任的 QAT 成员可以在这里看到](http://osu.ppy.sh/g/7)
-
-<Category: Beatmapping/ZH>

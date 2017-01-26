@@ -1,4 +1,7 @@
-Cette page est le premier endroit où vous devez vous arrêter pour savoir tout ce qui est interdit concernant [osu!](FR:Osu! "wikilink"). Ci-dessous sont listés les règles qui, si vous les respectez, vous permettront d'apprécier votre temps sur osu!
+Règlement général
+====================
+
+Cette page est le premier endroit où vous devez vous arrêter pour savoir tout ce qui est interdit concernant [osu!](/wiki/Glossary). Ci-dessous sont listés les règles qui, si vous les respectez, vous permettront d'apprécier votre temps sur osu!
 
 Règles de la Communauté
 -----------------------
@@ -26,8 +29,8 @@ Règles du Forum
 Règles du Forum SSB
 -------------------
 
-1.  Ces règles ne s'appliquent qu'aux discussions de type [SSB (en)](BSS "wikilink") (Système de Soumission des [Beatmaps (en)](Beatmaps "wikilink")). Ces discussions sont créées en jeu quand une beatmap est upload via l'[Éditeur](FR:Editor "wikilink").
-2.  Ne créez pas de discussions dans la partie du Forum des [beatmaps en attente](FR:Beatmaps#Beatmaps_en_attente "wikilink") ou les tableaux du [Glossaire](FR:WIP "wikilink"). Utilisez une section appropriée du Forum pour créer votre discussion. (Cela exclu évidemment les discussions du SSB.)
+1.  Ces règles ne s'appliquent qu'aux discussions de type [SSB (en)](/wiki/Glossary) (Système de Soumission des [Beatmaps (en)](/wiki/Glossary)). Ces discussions sont créées en jeu quand une beatmap est upload via l'[Éditeur](/wiki/Beatmap_Editor).
+2.  Ne créez pas de discussions dans la partie du Forum des [beatmaps en attente](/wiki/Beatmaps) ou les tableaux du [Glossaire](/wiki/Glossary). Utilisez une section appropriée du Forum pour créer votre discussion. (Cela exclu évidemment les discussions du SSB.)
 3.  Ne faites de pas hors-sujet des les discussions du SSB. Les discussions du SSB ne parlent que de la beatmap à laquelle elles sont liées. Si vous avez un problème qui n'est pas en lien avec la beatmap, postez dans la section appropriée.
 4.  Ne pas voler les beatmaps des autres et les présenter sous votre pseudo. Ne pas upload de contenu appartenant à un autre joueur sans sa permission explicite.
 
@@ -59,5 +62,6 @@ Règles sur le client de jeu
 2.  Altérer le gameplay avec n'importe quelle méthode autre que le skin est considéré comme de l'éventuelle triche et va être traité avec sévérité.
 
 ------------
+
 Les tricheurs sont automatiquement bannis dès la première fois et doivent attendre AU MINIMUM 6 mois avant de faire appel. Ne le faites juste pas. Les bans sont pratiquement, si ce n'est le cas, TOUJOURS donnés à raison.
 Enfreindre n'importe laquelle de ces règles mènera toujours à un silence ou à la restriction du compte. Les utilisateurs mis au silence ne peuvent plus parler, poster sur le forum, ne peuvent plus poster de nouvelle beatmap ou mettre leur beatmap à jour. Les utilisateurs restreins, en plus des restrictions des joueurs mis au silence, ne peuvent plus jouer en ligne. La restriction du compte est très sérieuse, elle ne peut être révoquée que par un membre du support technique, accessible via accounts@ppy.sh ou le support du site.

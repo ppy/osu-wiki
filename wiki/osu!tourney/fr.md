@@ -315,5 +315,3 @@ To set up a stream, we recommend using the Open Broadcaster Software, but you ar
 **k) My issue is not listed here! What to do?**
 
 Post in **[this thread](https://osu.ppy.sh/forum/t/327120)**. Developers are monitoring this thread to help you troubleshooting the problems you are encountering. Make sure to be descriptive and provide screenshots if possible.
-
-[Category:Game Clients/FR](Category:Game_Clients/FR "wikilink")

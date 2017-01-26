@@ -215,5 +215,3 @@ Hit object type is a bitmap:
 circle = 1 slider = 2 new combo = 4 spinner = 8
 
 The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
-
-<Category:File Formats/PL>

@@ -381,7 +381,7 @@ There may be few possibilities for that to happen, here are the most common ones
 -   **คอมพิวเตอร์ของคุณต้องการ "การพัฒนา"** คอมพิวเตอร์ที่เก่ามากๆ (10 ปีขึ้นไป) จะเป็นปัญหาใหญ่ในการเล่นเกมนี้ โดยเฉพาะพวก "Integrated GPU" ทางเดียวที่จะแก้ปัญหานี้ได้คือ "ปรับปรุงคอมพิวเตอร์ของคุณให้แรงกว่าเดิม"
 -   **ไดร์เวอร์ล้าสมัย** ทำได้โดยการอัพเดทไดร์เวอร์ จบ
 -   ลองเปิดโหมด OpenGL และ/หรือปรับการตั้งค่าบางอย่างลง
--   สำหรับขั้นตอนการแก้ปัญหาเกมกระตุกอย่างละเอียด ลองดูลิงก์นี้ [Game Lag: Common Causes and Solutions](https://osu.ppy.sh/wiki/Help_Center#Game_Lag:_Common_Causes_and_Solutions)
+-   สำหรับขั้นตอนการแก้ปัญหาเกมกระตุกอย่างละเอียด ลองดูลิงก์นี้ [Game Lag: Common Causes and Solutions](/wiki/Help_Center)
 
 ------------------------------------------------------------------------
 
@@ -637,4 +637,3 @@ Some other quick solutions to improve performance.
 <!-- -->
 
 -   Certain resolutions automatically set the game up to use High Definition textures. Set LowResolution to 1 in the config to force the game to use the normal resolution textures for any resolution. Do this by turning off osu! and opening your .cfg file with a text editor. It will be the name of your computer user in your osu! folder. Save changes
-

@@ -16,5 +16,3 @@ Steps
 <img src="H15dP_2.jpg" title="H15dP_2.jpg" alt="H15dP_2.jpg" width="600" />
 
 4) Done.
-
-[Category:Mapping Techniques](Category:Mapping_Techniques "wikilink")

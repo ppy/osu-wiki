@@ -313,5 +313,3 @@ BGの色をどうやって変えるの?
 | **Ctrl + Alt + Mouse Wheel** |
 |    **Ctrl + Mouse Wheel**    |
 |     **Alt + Mouse Wheel**    |
-
-<Category:Beatmapping/JP>

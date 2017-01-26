@@ -14,5 +14,3 @@ Kiaiを使用する際の注意事項
 4.  Kiaiを譜面の終わりが難しい/派手な場合、**最も強いパート**として最後の部分だけに使用することができます。
 5.  **[ゲスト難易度は異なる位置でKiaiを使うことができます](JP:Guest_Difficulty "wikilink")。**これは誰もが同じ場所が"格好良い"とは思わない事実に基づいています。
 6.  Kiaiの時他と差別化させるために、コンボカラーを異なるものにするのは良いことです。
-
-<Category:Gameplay/JP> [Category:Edit mode/JP](Category:Edit_mode/JP "wikilink") <Category:Beatmapping/JP>

@@ -35,5 +35,3 @@ Directly asking other users is a great way to get mods, too, if you ask the righ
 -   Don't be a jerk on the forums or in chat. If people don't like you, then they aren't going to be willing to mod your map. Who wants to help out somebody they don't like?
 
 Good luck in getting your map modded and ranked!
-
-<Category:Beatmapping>

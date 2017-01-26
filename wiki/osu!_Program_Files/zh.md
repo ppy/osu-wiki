@@ -138,5 +138,3 @@ Program files
 -   osu!gameplay.dll
 -   osu!ui.dll
 -   osu.dll
-
-[Category:Infrastructure of osu!/ZH](Category:Infrastructure_of_osu!/ZH "wikilink")

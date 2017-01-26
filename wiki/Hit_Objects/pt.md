@@ -28,5 +28,3 @@ Spinner
 A Spinner is a circle that takes up the entire height of the play area and has a [Spinner Metre](PT:Glossary#Spinner_Metre "wikilink") on either side. A large circular outline similar to a
 
 **Nota:**A skin padrão atual \[osu! do peppy\] não possui Approach Circles ou Spinner Metre.
-
-<Category:Gameplay/PT>

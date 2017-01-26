@@ -28,5 +28,3 @@
 -   Нулевой стак
 -   Короткие спиннеры
 -   «Ниндзя»-спиннеры (это немного другое)
-
-<Category:Russian> <Category:Beatmapping/RU> [Category:Mapping Techniques/RU](Category:Mapping_Techniques/RU "wikilink")

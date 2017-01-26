@@ -15,5 +15,3 @@ Quand ne pas utiliser
 Pour des maps [osu!standard](FR:Standard "wikilink"), il est recommandé de ne placer des streams qu'à des moments correspondant aux instruments de la musique. Faire autrement est souvent considéré comme de l'"overmapping". Bien sûr, des streams peuvent être placés même si ça ne correspond pas à la musique, mais ce n'est pas recommandé, particulièrement si vous êtes un nouveau mappeur.
 
 Notez que il s'agit des cas pour des maps "standard". Les maps [Taiko](FR:Taiko "wikilink") créent de nouveaux motifs allant avec la musique, ce qui fait qu'on trouve généralement plus de streams dans les maps [Taiko](FR:Taiko "wikilink"). Cependant, une surutilisation des streams ("overmapping") est toujours **jamais recommandé**.
-
-<Category:Beatmapping/FR> [Category:Mapping Techniques/FR](Category:Mapping_Techniques/FR "wikilink")

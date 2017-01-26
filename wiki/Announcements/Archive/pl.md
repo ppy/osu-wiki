@@ -123,7 +123,7 @@ Turnieje
 --------
 
 
-***[Osobny artykuł](/wiki/Announcements/Tournaments/pl.md)***
+***[Osobny artykuł](/wiki/Announcements/Tournaments)***
 
 -   [Rezultat Mistrzostw Świata w Taiko 2016! (osu!weekly \#58)](//osu.ppy.sh/news/143474255578)
 -   [Mistrzostwa Świata w Catch The Beat 2016 - zapisy w toku!](//osu.ppy.sh/news/142680619968)
@@ -152,7 +152,7 @@ Comiesięczny konkurs mapowania
 ------------------------------
 
 
-***[Osobny artykuł](/wiki/Announcements/Contests/pl.md)***
+***[Osobny artykuł](/wiki/Announcements/Contests)***
 
 -   [Konkurs Mapowania \#12 (osu!)](//osu.ppy.sh/news/140452368663)
 -   [Comiesięczny Konkurs Mapowania \#11 Rezultat](//osu.ppy.sh/news/134459652408)
@@ -183,7 +183,7 @@ Konkursy artystyczne
 --------------------
 
 
-***[Osobny artykuł](/wiki/Announcements/Contests/pl.md)***
+***[Osobny artykuł](/wiki/Announcements/Contests)***
 
 -   [Plany beatmap osu! dostępne & Informacje dot. konkursu](//osu.ppy.sh/news/114095906408)
 -   [Wyniki Piątego Oficjalnego Konkursu Artystycznego (Święta)!](//osu.ppy.sh/news/107496626248)
@@ -202,7 +202,7 @@ Prezentacje
 -----------
 
 
-***[Pełny artykuł](/wiki/Announcements/Showcases/pl.md)***
+***[Pełny artykuł](/wiki/Announcements/Showcases)***
 
 -   [Prezentacja tła \#2](//osu.ppy.sh/news/143359597258)
 -   [Prezentacja tła \#1](//osu.ppy.sh/news/141179581633)
@@ -224,7 +224,7 @@ Inne
 ### Najlepsze mapy roku
 
 
-***[Osobny artykuł](/wiki/Announcements/Showcases/pl.md)***
+***[Osobny artykuł](/wiki/Announcements/Showcases)***
 
 -   [Najlepsze mapy 2015: Rezultat](//osu.ppy.sh/news/138781453998)
 -   [Najlepsze mapy 2015: Głosowanie rozpoczęte!](//osu.ppy.sh/news/137019258158)
@@ -300,5 +300,3 @@ Gazetka od społeczności osu!. Zawiera wywiady, wypracowania, porady dotyczące
 -   [Analiza mapowania \#1 - Flow](//osu.ppy.sh/news/61334266941)
 -   [Zasłużeni dla osu!](//osu.ppy.sh/news/59476410622)
 -   [Testowy buildy są teraz bardziej użyteczne](//osu.ppy.sh/news/57687830738)
-
-<Category:History of osu!/PL>

@@ -235,5 +235,3 @@ Galeria zdjęć
 =============
 
 [Kliknij, aby przejść do galerii zdjęć.](Mascots/Gallery "wikilink")
-
-[Category:History of osu!/PL](Category:History_of_osu!/PL "wikilink")

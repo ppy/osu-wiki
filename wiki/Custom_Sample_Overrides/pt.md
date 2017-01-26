@@ -53,5 +53,3 @@ você pode usar wav ou mp3, mas tenha em mente que WAVE é melhor em todos os ca
 Caso você queira mudar ambos normal soft e drum samples em uma skin, simplesmente nao inclua os prefixos normal- soft- drum-. Internamente o formato WAVE é utilizado para todos os hitsounds. Internally WAVE format files are used for all hitsounds due to the inherent lower latency for initial triggering and loop compatibility.
 
 Agora que ja adicionou seus custom hitsounds simplesmente atualize a lista no modo play ou edit
-
-[Category:Edit mode/PT](Category:Edit_mode/PT "wikilink") <Category:Skinning/PT>

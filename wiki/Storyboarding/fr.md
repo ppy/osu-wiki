@@ -47,5 +47,3 @@ Avec la création de l'Editeur de Storyboards pour créer des effets graphiques 
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 D'autres Storyboards sympas peuvent être trouvées [ici](FR:Storyboarding/Maps).
-
-<Category:Storyboarding/FR>

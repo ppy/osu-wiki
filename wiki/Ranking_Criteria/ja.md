@@ -1,4 +1,4 @@
-Pending mapがRanked mapになるためのランキング基準(Ranking Criteria)です。 公式： <https://osu.ppy.sh/wiki/Ranking_Criteria>
+Pending mapがRanked mapになるためのランキング基準(Ranking Criteria)です。 公式： </wiki/Ranking_Criteria>
 
 [ここ](https://osu.ppy.sh/forum/t/73281)から勝手ながら文章を引用し、それに追加点または修正点を付け加えてここに書きました。
 
@@ -164,5 +164,3 @@ Guidelines
 -   **ストーリーボードでのヒットサウンドの使用は避けましょう。**プレイヤーがヒットオブジェクトを叩けなかった場合でも、そこにストーリーボードに組み込まれたヒットサウンドが存在した場合、ヒットサウンドの音が鳴ってしまいます。また、ヒットオブジェクトが無い場所でストーリーボードに組み込まれたヒットサウンドが鳴ると、プレイヤーはオブジェクトを見逃したのではないかと混乱してしまいます。
 -   **Slider tickにヒットサウンドを用いるのは推奨されません。**それ用いる場合、音量のバランスを考えなければいけません。非常に大きなtick音、特に1度や2度しか使われないような場合、それは非常に耳障りなものになります。
 -   **古いコンピュータでもラグを生じさせないために、ストーリーボードの読み込みが5.0xを越えないようにしましょう。**いくつかストーリーボードの画像をリサイズすることで解決できるでしょう。
-
-[Category:Ranking Criteria/JP](Category:Ranking_Criteria/JP "wikilink") <Category:Beatmapping/JP>

@@ -177,5 +177,3 @@ This database contains the scores achieved locally.
 | Long | Online Score ID |
 
 Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)](Osr_(file_format). This explains the empty string and -1 int.
-
-<Category:Infrastructure of osu!><Category:File Formats>

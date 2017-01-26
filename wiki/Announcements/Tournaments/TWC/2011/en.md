@@ -362,13 +362,13 @@ Previous Map List is here.
 
 *   Prizes for 1st, 2nd, 3rd prizes are sponsored by [peppy](//osu.ppy.sh/u/2).
 
-**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md), and a nice **Profile Badge** designed by [crystalsuicune](//osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
+**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter), and a nice **Profile Badge** designed by [crystalsuicune](//osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
 
-**2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md).
+**2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter).
 
-**3rd Place**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md).
+**3rd Place**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter).
 
-**Special prize**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/Osu!supporter/en.md). (Other than above prizes, this prize is sponsored by the manager. All players will vote for the team which showed best gameplay, attitude, spirit of fair play, etc., and the team with the most votes will win the prize. Of course players can't vote for his/her own team. This prize won't be given to 1st~3rd place.)
+**Special prize**: 1 month of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter). (Other than above prizes, this prize is sponsored by the manager. All players will vote for the team which showed best gameplay, attitude, spirit of fair play, etc., and the team with the most votes will win the prize. Of course players can't vote for his/her own team. This prize won't be given to 1st~3rd place.)
 
 ## Teams
 

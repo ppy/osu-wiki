@@ -24,4 +24,3 @@ Appearance and task
 Notes:
 
 -   List of maps for REQUEST doesn't update for a long time, so you may even get a map that's ranked already.
-

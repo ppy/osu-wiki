@@ -42,4 +42,3 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
 -   **Penumpukan secara manual dapat diterima** selama penumpukan tersebut masih dapat dibaca saat dimainkan.
 -   **Hindari menutupi objek dengan hitburst, jalur slider, dan objek lain, terutama tingkat kesulitan yang mudah.** Menghalangi objek dapat membuat mereka sulit untuk dibaca. Ada beberapa pengecualian di mana suatu pola mempunyai jalur yang jelas dan masuk akal, dan timing terhadap objek dapat dipahami dengan mudah, sehingga dapat diterima.
 -   **Semua lingkaran dan awal dari setiap slider harus tepat pada suatu ketukan pada musik.** Akhir slider juga harus tepat pada ketukan musik, atau di akhir not yang diperpanjang, di mana hal tersebut pantas. Penambahan objek di mana tidak ada musik untuk memenuhi persyaratan pertama dapat membuat pola yang membingungkan, susah untuk diikuti, dan tidak selaras dengan musik yang minor atau tidak terlalu menonjol.
-

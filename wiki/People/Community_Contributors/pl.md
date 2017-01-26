@@ -13,7 +13,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Stworzenie i utrzymywanie [osu!record](http://osu.ppy.sh/forum/t/108092) (.osr do pliku wideo.) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Stworzenie i utrzymywanie jednego z najdłużej działających [serwerów map](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Nieopisany wkład graficzny w osu! |
-| [Ballance](https://osu.ppy.sh/u/165946) | Stworzenie artworku [osiągnięć](https://osu.ppy.sh/wiki/Achievements). |
+| [Ballance](https://osu.ppy.sh/u/165946) | Stworzenie artworku [osiągnięć](/wiki/Achievements). |
 | [akrolsmir](https://osu.ppy.sh/u/576800) | Stworzenie [AIBat](http://osu.ppy.sh/forum/t/55305), najbardziej znanego narzędzia do modowania kiedykolwiek stworzonego przez społeczność. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji oraz tworzenie wielu narzędzi dla mapperów i modderów. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Organizacja wszystkich oficjalnych turniejów |
@@ -21,9 +21,9 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Stworzenie i utrzymywanie [osu!stats](http://osustats.ppy.sh/) i wielu narzędzi dla mapperów, modderów i ogólnej rozgrywki. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji a także odpowiadanie na pytania graczy. |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](http://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](https://osu.ppy.sh/wiki/Storyboarding) sztuką i motywacją. |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboarding) sztuką i motywacją. |
 | [awp](https://osu.ppy.sh/u/2650) | Wczesne zarządzanie i moderowanie społecznością oraz duży wkład, zanim opuścił osu!. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](https://osu.ppy.sh/wiki/Global_Moderation_Team) |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
 | [Ivalset](https://osu.ppy.sh/u/827) | Bycie pierwszym zarządcą staffu oraz BAT, a także stworzenie elitarnego zespołu mapperów. |
 
 ### Marzec 2015
@@ -52,5 +52,3 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | Użytkownik | Wkład |
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Lata poprawiania jakości mapowania, pomoc w rozwiązywaniu problemów społeczności. |
-
-<Category:People/PL>

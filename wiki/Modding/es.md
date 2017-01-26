@@ -79,5 +79,3 @@ Nota importante
 ---------------
 
 Otra cosa importante es que tienes que mantener en mente que el idioma por defecto en el foro es el ingles, por lo que no te servirá de nada hacer un mod en español a alguien que no entenderá lo que estas diciendo, así que un paso importante antes de empezar es revisar maps en Pending o WIP que ya tengan mods para así aprender como se deben hacer, a modo de sugerencia busca mods hechos por MATs o BATs.
-
-<Category:Modding/ES>

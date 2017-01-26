@@ -18,5 +18,3 @@ Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
 4.  Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.
 5.  **Die Kiai Time-Sektionen in [Gast Schwierigkeitsstufen](DE:Guest_Difficulty "wikilink") können sich von den Schwierigkeitsstufen des Beatmaperstellers unterscheiden**. Dies ist des öfteren der Fall, da nicht jeder denkt, dass die eine Stelle am besten für den Kiai geeignet ist; nichts desto trotz sollte sie jedoch passend zur Map definiert werden.
 6.  Colorhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category: Gameplay/DE](Category:_Gameplay/DE "wikilink")

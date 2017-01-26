@@ -251,5 +251,3 @@ FAQ i rozwiązywanie problemów
     -   Strona T-Aiko w Google Play [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 -   Oficjalna strona osu!stream peppy'ego [11](http://osustream.com/)
     -   Strona osu!streama w App Store [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
-
-<Category:Polish>

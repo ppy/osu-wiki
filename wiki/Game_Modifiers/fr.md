@@ -420,5 +420,3 @@ Les hitsounds de votre skin seront utilisés.</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category: Gameplay/FR](Category:_Gameplay/FR "wikilink") [Category: French](Category:_French "wikilink")

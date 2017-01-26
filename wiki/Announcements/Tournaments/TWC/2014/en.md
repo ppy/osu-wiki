@@ -339,11 +339,11 @@ Ruleset
 1.  The osu! Taiko World Cup is a country-based 3v3 team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
 3.  Match schedule will be settled by Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed player's score do not get added to the team score.
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -412,7 +412,7 @@ Ruleset
 ### Mappool instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md), [DoubleTime](/wiki/Game_Modifiers/en.md) and FreeMod
+2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
 3.  Each mappool consists of 23 maps in total.
 4.  Each mappool has one tiebreaker
 5.  The NoMod bracket will be played with no modes activated.
@@ -438,5 +438,3 @@ Ruleset
 3.  All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-<Category:Tournaments><Category:Official Tournaments><Category:Taiko Tournaments> <Category:Taiko World Cup>

@@ -104,5 +104,3 @@ HD-спрайты
 -   [osu!mania](RU:Skinning_Mania "wikilink")
 -   [Интерфейс](RU:Skinning_Interface "wikilink")
 -   [Звуковые файлы](RU:Skinning_Sounds "wikilink")
-
-<Category:Editor/RU> <Category:Beatmapping/RU> <Category:Skinning/RU>

@@ -59,6 +59,3 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](http://www.youtube.com/watch?v=s2ZK4o8V5tI "Odcinek 31")   | W tym odcinku, pójdziemy jeszcze głębiej w temat gościnnych poziomów trudności oraz innych beatmapowych darów    |
 | [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](http://www.youtube.com/watch?v=wa_hNegtBw0 "Odcinek 32")   | W tym odcinku, powiemy o nowym systemie rankingowym                                                              |
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](http://www.youtube.com/watch?v=_-Xke2bqzok "Odcinek 33")   | W tym odcinku, zajmiemy się zaawansowanymi wskazówkami do edytora                                                |
-
-
-<Category:History of osu!/PL>

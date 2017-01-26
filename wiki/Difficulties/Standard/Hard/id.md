@@ -10,5 +10,3 @@ Kasaran gagasan (ini tidak mutlak, masih bisa diubah sesuai selera mapper)
 -   **Circle Size** (Ukuran Lingkaran): 4 or 5
 -   **Approach Rate** (Tingkat Capaian): 6+
 -   **Overall Difficulty** (Tingkat kesulitan secara Keseluruhan): 6+
-
-<Category:Beatmapping/ID>

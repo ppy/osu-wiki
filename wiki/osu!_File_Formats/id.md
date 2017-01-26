@@ -87,5 +87,3 @@ Membuat file di game
     - Pilih skins yang akan di export ke .osk file dan pilih "Export as .osk".
 
     - file .osk akan otomatis terbuat dan berada di folder "Exports".
-
-[Category:File Formats/ID](Category:File_Formats/ID "wikilink")

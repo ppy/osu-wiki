@@ -14,5 +14,4 @@ Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) o
 Ympyrät ovat alanäytössä ja tarina ylänäytössä. Jokainen kenttä on käytännössä pienoistarina henkilöstä pulassa. Silloin Ouendan (kannustusjoukko) tulee apuun.
 
 ### Kuinka pelaan?
-
 Koska monilla PCn käyttäjillä ei ole kosketusnäyttöä, tämä peli on tehty pelaatavaksi hiirellä tai muilla mahdollisilla ohjaimilla (wiimote toimii melko hyvin, samoin graafinen tabletti). Eri pelityylejä voi löytää [Play Styles](FI:Play_Styles "wikilink") sivulta. Jotkut kappaleet panevat hiiren äärirajoille, mutta kaikki ovat testattuja ja ovat (jotenkin) läpäistävissä pelkällä hiirellä.

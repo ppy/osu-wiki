@@ -99,5 +99,3 @@ No.
 
 -   If you wish to log-in (requires internet connection, either Wi-Fi, 3G, or anything to get you connected), you have to log-in your osu! WP account or sign up first.
     -   The name can support Chinese, Japanese and Korean characters.
-
-[Category:Game Ports](Category:Game_Ports "wikilink")

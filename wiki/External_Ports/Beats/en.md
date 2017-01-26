@@ -184,5 +184,3 @@ Links
 -   [Beats, Advanced Rhythm Game at Play Store](https://play.google.com/store/apps/details?id=com.beatsportable.beats)
 -   [Home page](http://beatsportable.com/)
 -   [Facebook](https://www.facebook.com/beatsportable)
-
-[Category:Game Ports](Category:Game_Ports "wikilink")

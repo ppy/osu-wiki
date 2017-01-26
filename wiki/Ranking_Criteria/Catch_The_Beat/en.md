@@ -57,7 +57,7 @@ Skinning
 ### Rules
 
 -   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are "fruit-catcher-idle.png", "fruit-catcher-kiai.png" and "fruit-catcher-fail.png".
--   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found in the osu! wiki <https://osu.ppy.sh/wiki/Skinning_Catch_the_Beat#Fruits> . Additionally, it is recommendable to use transparent elements for the overlays.
+-   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found in the osu! wiki </wiki/Skinning_Catch_the_Beat> . Additionally, it is recommendable to use transparent elements for the overlays.
 -   **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the fruits, 82x103 for the drops and 306x320 for the catcher.
 
 ### Guidelines
@@ -173,5 +173,3 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   Approach Rate/Overall Difficulty should be between 8-10
 -   HP drain should be between 6-8
 -   Circle Size should be between 3-6
-
-[Category:Catch The Beat](Category:Catch_The_Beat "wikilink") [Category:Ranking Criteria](Category:Ranking_Criteria "wikilink") <Category:Beatmapping>

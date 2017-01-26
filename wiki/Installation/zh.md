@@ -73,5 +73,3 @@ to find a way provided by the community to install the newest versions of osu!.
 
 ##### Adding Beatmaps
 - Drag and drop the .osz file from a file manager to an osu! window.
-
-<Category:Guides/ZH>

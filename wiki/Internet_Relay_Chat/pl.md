@@ -98,4 +98,3 @@ Czym jest status +v? Widać także innych ludzi, którzy go mają.
 Użytkownicy ze statusem głosowym (przedrostek +) są połączeni za pomocą klienta IRC (nie wliczając w to moderatorów czatu, którzy mają *status operatora (przedrostek @)*.
 
 Użytkownicy nieposiadający żadnego statusu są połączeni przez klienta gry.
-

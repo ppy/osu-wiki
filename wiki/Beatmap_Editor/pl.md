@@ -15,5 +15,3 @@ Powiązane artykuły
 -   [Odległość pomiędzy obiektami](PL:Distance_Snap "wikilink")
 -   [Własne paczki dźwięków](PL:Custom_Sample_Overrides "wikilink")
 -   [Czas Kiai](PL:Kiai_Time "wikilink")
-
-<Category:Beatmapping/PL>

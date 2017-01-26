@@ -47,5 +47,3 @@ With the advent of the Storyboard Editor to create simple graphical effects in B
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 Other good SB's can be found [here](Storyboarding/Maps).
-
-<Category:Storyboarding>

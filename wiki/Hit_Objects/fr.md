@@ -29,5 +29,3 @@ Si le joueur gagne 100 ou 50 points à la fin du spinner, c'est qu'il a **semi-c
 Un indicateur de la vitesse de tournoiement est aussi affiché en bas de l'écran. Il donne un nombre en tours par minute.
 
 **Note :** sur le nouveau skin par défaut d'osu!, les spinners n'ont pas de cercle d'approche ni de spinner metre ; seules sa forme et sa couleur peut aider le joueur à déterminer le statut du spinner.
-
-<Category:Gameplay/FR>

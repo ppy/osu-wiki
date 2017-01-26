@@ -3,7 +3,7 @@ osu!mania 4K World Cup 2015
 
 ![MWC 2015 logo](logo.png)
 
-The **osu!mania 4K World Cup 2015** (***MWC 4K 2015*** ) is a country-based osu!mania 4-key tournament hosted by the [osu! staff](//osu.ppy.sh/wiki/The_Team). It is the 2nd installment of the osu!mania World Cup. It lasts from the 13th July till 27th September 2015.
+The **osu!mania 4K World Cup 2015** (***MWC 4K 2015*** ) is a country-based osu!mania 4-key tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 2nd installment of the osu!mania World Cup. It lasts from the 13th July till 27th September 2015.
 
 Tournament schedule
 ------------------------
@@ -417,7 +417,7 @@ Ruleset
 5.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -438,7 +438,7 @@ Ruleset
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Mapset selectors may not participate as a player in this tournament.
@@ -519,5 +519,3 @@ Ruleset
 3.  All matches will be held on either Saturday or Sunday, UTC+0.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-<Category:Tournaments><Category:Official Tournaments><Category:osu!mania Tournaments><Category:osu!mania World Cup>

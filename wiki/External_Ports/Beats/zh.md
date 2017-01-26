@@ -181,5 +181,3 @@ Trivia
 -   [一个下载链接](http://android.d.cn/game/2793.html)
 -   [主页](http://beatsportable.com/)
 -   [他们的非死不可（雾](https://www.facebook.com/beatsportable)
-
-[Category:Game Ports](Category:Game_Ports "wikilink") [Category:Translation Request](Category:Translation_Request "wikilink")

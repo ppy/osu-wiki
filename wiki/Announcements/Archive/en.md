@@ -157,7 +157,7 @@ Monthly Beatmapping Contest
 ---------------------------
 
 
-***[Official wiki page for results.](/wiki/Announcements/Contests/en.md)***
+***[Official wiki page for results.](/wiki/Announcements/Contests)***
 
 | Announcement                                                                                                                                                             | Results                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -201,7 +201,7 @@ Some remarks about mapping with rewards (and some differences with [#Monthly Bea
 Fan Art Contests
 ----------------
 
-  ***[Official wiki page for results.](/wiki/Announcements/Contests/en.md)***
+  ***[Official wiki page for results.](/wiki/Announcements/Contests)***
 
 -   [osu!Taiko mascot voting](//osu.ppy.sh/news/149319979048)
 -   [osu! mascot design contest](//osu.ppy.sh/news/147587226893)
@@ -221,7 +221,7 @@ Fan Art Contests
 Showcases
 ---------
 
-  ***[Official wiki page for results.](/wiki/Announcements/Showcases/en.md)***
+  ***[Official wiki page for results.](/wiki/Announcements/Showcases)***
 
 -   [Storyboard Showcase \#3](//osu.ppy.sh/news/145263178063)
 -   [Storyboard Showcase \#2](//osu.ppy.sh/news/143359597258)
@@ -243,7 +243,7 @@ Other
 
 ### Best of the Year
 
-***[Official wiki page for results.](/wiki/Announcements/Showcases/en.md#Best_of_series)***
+***[Official wiki page for results.](/wiki/Announcements/Showcases)***
 
 -   [Best of 2015: Results](//osu.ppy.sh/news/138781453998)
 -   [Best of 2015 Voting Now Open!](//osu.ppy.sh/news/137019258158)
@@ -322,5 +322,3 @@ Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping 
 -   [Mapping analysis \#1 - Flow](//osu.ppy.sh/news/61334266941)
 -   [osu! community contributors](//osu.ppy.sh/news/59476410622)
 -   [osu!test build now more usable](//osu.ppy.sh/news/57687830738)
-
-<Category:History of osu!>

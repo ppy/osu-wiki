@@ -15,5 +15,3 @@ Related articles
 -   [Distance Snap](Distance_Snap "wikilink")
 -   [Custom Sample Overrides](Custom_Sample_Overrides "wikilink")
 -   [Kiai Time](Kiai_Time "wikilink")
-
-<Category:Beatmapping>

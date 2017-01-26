@@ -88,7 +88,7 @@ It follows, that your total pp is computed as follows. Let *PP* contain each sco
 
 **Total pp** = *PP*\[1\] \* **0.95**^0 + *PP*\[2\] \* **0.95**^1 + *PP*\[3\] \* **0.95**^2 + ... + *PP*\[*n*\] \* **0.95**^(*n*-1)
 
-[Click for an example of the formula usage (scroll down to see the example).](http://osu.ppy.sh/wiki/File:Pp_bp.jpg)
+[Click for an example of the formula usage (scroll down to see the example).](/wiki/Pp_bp.jpg)
 
 There is also bonus pp based on the number of ranked maps you have a score on. The bonus is:
 
@@ -154,5 +154,3 @@ Your performance rank is predominantly based on your performance on individual m
 -   Get higher accuracy (even 1% difference can help light-years!).
 -   Get higher combo. Go for Full Combo/Perfect or "SS/SSH".
 -   Play well on harder difficulties.
-
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink")

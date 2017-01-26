@@ -2,5 +2,3 @@ Molti dei canali presenti in osu! hanno i loro moderatori, che si occupano di tu
 
 Lista dei moderatori di una lingua specifica (al momento)
 ----------------------------------------------
-
-<Category:People>

@@ -5,7 +5,7 @@ Osu!とは
 
 このゲームのメインとなるモードで、カーソルを動かしサークル、スライダー、スピナーの3つをタイミングよく叩くモードです
 叩くタイミングの正確さによって300、100、50、missと4つの判定が出ます
-また[太鼓モードや](/wiki/Game_Modes/osu!taiko/ja.md)[CTBとは別々にスコア管理がされます](/wiki/Game_Modes/osu!catch/ja.md)
+また[太鼓モードや](/wiki/Game_Modes/osu!taiko)[CTBとは別々にスコア管理がされます](/wiki/Game_Modes/osu!catch)
 
 ゲームを始める前によくある質問
 ==============================
@@ -122,7 +122,7 @@ Cよりも下の条件でクリア
 ==========
 
 メインメニューのSOLOを選択すればプレイできます
-ですが、一部の譜面は強制的に[太鼓モードまたは](/wiki/Game_Modes/osu!taiko/ja.md)[CTBモードにされるものもあるので注意してください](/wiki/Game_Modes/osu!catch/ja.md)
+ですが、一部の譜面は強制的に[太鼓モードまたは](/wiki/Game_Modes/osu!taiko)[CTBモードにされるものもあるので注意してください](/wiki/Game_Modes/osu!catch)
 
 ルール
 ======

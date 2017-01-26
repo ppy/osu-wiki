@@ -13,7 +13,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Mengembangkan dan menjaga pelayanan [osu!record](http://osu.ppy.sh/forum/t/108092) (penayangan ulang .osr ke file video) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Menyelenggarakan dan menjaga salah satu [mirror beatmap](http://osu.yas-online.net/) yang berjalan paling lama. |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Berbagai kontribusi grafis terhadap klien game dan yang lainnya (diluar hitungan). |
-| [Ballance](https://osu.ppy.sh/u/165946) | Karya-karya untuk bagian [Achievement](https://osu.ppy.sh/wiki/Achievements). |
+| [Ballance](https://osu.ppy.sh/u/165946) | Karya-karya untuk bagian [Achievement](/wiki/Achievements). |
 | [akrolsmir](https://osu.ppy.sh/u/576800) | Mengembangkan dan menjaga [AIBat](http://osu.ppy.sh/forum/t/55305), yang merupakan perangkat modding beatmap pihak ketiga yang paling terkenal yang digunakan oleh kebanyakkan orang di dalam komunitas. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Performan yang sangat bagus dalam mengetes bug/fitur-fitur dan mengkoding berbagai peralatan untuk mapper dan modder. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Mengatur beberapa turnamen-turnamen besar resmi (termasuk OWC). |
@@ -23,7 +23,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Bekerja selama 3 tahun lebih tanpa lelah untuk menghandel [pamaketan beatmap](http://osu.ppy.sh/p/packlist) dan beberapa tahun mengatur grafis beatmap. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Pelayanan dari tahun ke tahun, termasuk mendesain skin beatmap yang asli, menyatakan pembuatan storyboard sebagai sebuah karya dan motivasi. |
 | [awp](https://osu.ppy.sh/u/2650) | Mengelola dan memoderasi komunitas terdahulu dan memberikan kontribusi yang besar sepanjang waktunya. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](https://osu.ppy.sh/wiki/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/u/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/u/827) | Menjadi staff manajer pertama, manajer BAT pertama, dan orang pertama yang satu-satunya membentuk tim moderasi beatmap elit yang semulanya bukan apa-apa. |
 
 ### Maret 2015
@@ -52,5 +52,3 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | User | Kontributor |
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Bertahun-tahun menegakkan dan meningkatkan kualitas pemetaan, memberikan bantuan pada banyak kesempatan untuk membantu menyelesaikan berbagai masalah di dalam komunitas. |
-
-<Category:People/ID>

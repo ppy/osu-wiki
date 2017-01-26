@@ -26,5 +26,3 @@ osu!-spezifische Dateiformate
 =============================================================================================================================
 
 .osz/.osk Datei ist ein Dateierweiterung, die extra für osu!.exe zugeschnitten ist. Wenn eine .osz Datei geöffnet wird, wird die Datei von der osu!.exe extrahiert und zum "Songs" Ordner transferiert. Die .osk Datei wird hingegen zum "Skins" Ordner transferiert. Standardmäßig werden Beatmapdateien direkt von der offiziellen Webseite im .osz Dateiformat heruntergeladen. Wie man .osz/.osk Dateien erstellt, zählt als fundamentales Wissen eines Beatmappers/Skinners.
-
-<Category:Deutsch> <Category:Guides/DE> [Category:File Formats/DE](Category:File_Formats/DE "wikilink")

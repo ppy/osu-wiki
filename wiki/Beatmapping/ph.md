@@ -10,5 +10,3 @@ Ang mga difficulties nakikita karaniwan sa mga mapas ay:
 -   [Insane](PH:Insane "wikilink")
 
 Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [mappers](PH:Mappers "wikilink").
-
-<Category:Beatmapping/PH>

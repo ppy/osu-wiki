@@ -51,4 +51,3 @@ Song Setup의 Overall Difficulty, Approach Rate가 영향을 준다.
 -   B: 300 비율 70%초과, 미스 0개 or 300 비율 90%초과
 -   C: 300 비율 60% 초과
 -   D: 300 비율 60% 이하
-

@@ -50,5 +50,3 @@ Rank caiu
 
 Imagem
 ======
-
-[Category:Infrastructure of osu!/PT](Category:Infrastructure_of_osu!/PT "wikilink")

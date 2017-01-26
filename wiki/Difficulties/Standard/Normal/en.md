@@ -51,5 +51,3 @@ Good luck with your Normal difficulties!
 ^ If you have an [Easy](Easy_(Difficulty)), make sure your Normal is a bit harder than your Easy, of course. If you do not have an Easy, you should still make your Normal suitable for beginners. A 1.6-1.7 star Normal will comfortably make up for an Easy.
 
 ^^Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](Beatmap_Appreciation_Team) have been known to rage via PMs over this sort of thing.
-
-<Category:Beatmapping>

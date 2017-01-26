@@ -270,5 +270,3 @@ John: Conosci qualche bravo attore?</p></td>
 </table>
 
 </center>
-
-[Category:Infrastructure of osu!/IT](Category:Infrastructure_of_osu!/IT "wikilink")

@@ -115,4 +115,3 @@ Timing
 | Blue                    |
 
 At right, it shows **Time Signature script (known as "Meter")** and **Metronome set**. The meter's **4:2** means **4th measure and 2nd beat of the song**. The **Metronome set plays the BPM beat** and **doubles as a helper to estimate a BPM value.**
-

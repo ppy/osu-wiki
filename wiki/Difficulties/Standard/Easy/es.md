@@ -42,6 +42,4 @@ Los Spinners (Ruletas) deben ser usadas muy moderadamente en dificultades facile
 
 La razón es porque la mayoría de los jugadores nuevos van a reaccionar muy lentamente a una ruleta, así que se retrasan para empezarlas. Lo que también provocará que empiecen a girar de manera alocada, usualmente rayando en todo el perimetro de la pantalla. Una vez que la ruleta este completada, estarán muy probablemente desorientados y preguntandose donde está su cursor. This is la razón por la que si tienes una ruleta enmedio de una fase mapeada, deberías permitirle al jugador el mayor tiempo posible para recuperarse. Esto es de 3-4 pulsos después de la ruleta, pero puede variar dependiendo del BPM. También se sugiere a los Mapeadores colocar las notas/deslizadores cerca del centro del área de juego una vez que la ruleta haya acabado.
 
-Las ruletas son frecuentemente usadas en dificultades faciles en lugares donde un [stream](https://osu.ppy.sh/wiki/Streams) iría en un mapa más dificil.
-
-<Category:Beatmapping/ES><Category:Spanish>
+Las ruletas son frecuentemente usadas en dificultades faciles en lugares donde un [stream](/wiki/Mapping_Techniques/Streams) iría en un mapa más dificil.

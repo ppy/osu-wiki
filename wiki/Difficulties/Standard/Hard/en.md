@@ -36,5 +36,3 @@ An ideal setup for a Hard difficulty would be:
 ![Typical difficulty settings for Hard.](Hardsetup.png "Typical difficulty settings for Hard.")
 
 These are just **ideas of how the difficulty settings will be like - set it to how you find fit!**
-
-<Category:Beatmapping>

@@ -229,6 +229,4 @@ Don è il protagonista della serie Taiko no Tatsujin. Lui è un tamburo di taiko
 Galleria Immagini
 =================
 
-[Clicca qui per andare nella Galleria Immagini.](Gallery/en.md "wikilink")
-
-[Category:History of osu!/IT](Category:History_of_osu!/IT "wikilink")
+[Clicca qui per andare nella Galleria Immagini.](/wiki/Mascots/Gallery "wikilink")

@@ -179,5 +179,3 @@
 </tr>
 </tbody>
 </table>
-
-[Category:Game Ports/ID](Category:Game_Ports/ID "wikilink")

@@ -305,4 +305,4 @@ Players will be directed here after the beatmap is completed unless stated other
 </tbody>
 </table>
 
-<!-- <Category:Gameplay/KO> [Category:Translation Request](Category:Translation_Request "wikilink") -->
+<!--   -->

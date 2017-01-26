@@ -228,4 +228,3 @@
 | ManiaSpeedBPMScale           | Forces osu!mania scroll speed to scale with BPM                                                                                                                                                            |
 | MenuTriangles                | Enables triangles                                                                                                                                                                                          |
 ||
-

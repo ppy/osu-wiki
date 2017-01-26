@@ -31,5 +31,3 @@ Para conseguir os melhores rankings é necessário atingir determinado nível de
 Diferente de osu! E catch the beat, um miss em taiko não reduz a pontuação máxima em grandes proporções. Isso porque o valor das notas chega ao máximo quando se atinge 100 combo. Enquanto em osu! e catch the beat o valor das notas não para de aumentar.
 
 E também, diferente dos outros modos de jogo, kiai time afeta scores multiplicando o valor de cada nota em 1.2x. quando kiai é ativado, o tambor na parte superior esquerda começa a dançar, vários efeitos de iluminação são ativados e chamas aparecem ao redor da área de acerto
-
-<Category:Gameplay/PT> [Category:Game Modes/PT](Category:Game_Modes/PT "wikilink") <Category:Taiko/PT>

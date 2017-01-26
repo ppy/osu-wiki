@@ -33,4 +33,3 @@ Hal-Hal Yang Perlu Diperhatikan Dalam Modding
 -   Setelah folder check, hal yang paling sering dilakukan adalah mencek kesalahan pada info field lagu. Misalnya nama artis, judul lagu, source, dan tags.
 -   Ingat bahwa semua info field pada lagu harus sama. Dan beritahu mapper jika mapper mengulang artis dan source pada tag.
 -   Setelah itu hal yang paling mudah dilakukan adalah mengecek konsistensi timing, seperti BPM dan offset, pada tiap tingkat kesulitan.
-

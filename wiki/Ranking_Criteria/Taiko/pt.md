@@ -61,5 +61,3 @@ Diretrizes são importantes e devem ser seguidas na maioria dos mapas. Contudo, 
 <!-- -->
 
 -   '''Hitsounds customizadas devem ter alguma relação a tambor/instrumentos de percussão. ''' Se hitsounds customizadas são usadas, elas devem ter um som mais baixo/grave para don, e um mais alto/agudo para katsu.
-
-<Category:Taiko/PT> [Category:Ranking Criteria/PT](Category:Ranking_Criteria/PT "wikilink") <Category:Beatmapping/PT>

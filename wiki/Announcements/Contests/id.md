@@ -92,7 +92,7 @@ Catatan: Dua pemenang (oleh publik dan staff) masing-masing akan mendaparkan sup
 Kontes osu!store
 ------------------------
 
-Catatan: Para pemenang mendapatkan “paket osu! store’” (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), dan [supporter tag berjangka 6](/wiki/osu!supporter/id.md))</a>) sedangkan runner-up mendapatkan [supporter tag berjangka 4 bulan](/wiki/osu!supporter/id.md).
+Catatan: Para pemenang mendapatkan “paket osu! store’” (1x [osu!tablet](//store.ppy.sh/store/product/1), 1x [osu! sticker set](//store.ppy.sh/store/product/2), 1x [osu! sticker set #2](//store.ppy.sh/store/product/4), dan [supporter tag berjangka 6](/wiki/osu!supporter))</a>) sedangkan runner-up mendapatkan [supporter tag berjangka 4 bulan](/wiki/osu!supporter).
 
 | Kontes | Judul                         | Persyaratan                                   | Kolom Pemenang | Berita                                   | Hasil       |
 |--------|-------------------------------|-----------------------------------------------|----------------|------------------------------------------|-------------|

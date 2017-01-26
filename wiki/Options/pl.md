@@ -1121,4 +1121,3 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
 6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.
-

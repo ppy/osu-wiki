@@ -40,5 +40,3 @@ TataCon
 =======
 
 Es ist möglich TatoCon als Controller zu benutzen, welches primär dafür erstellt wurden, damit man Zuhause Tatsujin oder Drum Master spielen kann.
-
-<Category:Deutsch> <Category:Taiko/DE>

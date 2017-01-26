@@ -65,4 +65,3 @@ To-Do List
 -   Add every page to <Template:Contents>.
 -   Port over guides if there's any left.
 -   Search and check for grammar mistakes.
-

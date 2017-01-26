@@ -101,4 +101,4 @@ PP权重系统
 
 计算公式：![](TotalPP2.png "fig:TotalPP2.png")
 
-[公式使用示例 (向下滚动以查看示例).](http://osu.ppy.sh/wiki/File:Pp_bp.jpg)
+[公式使用示例 (向下滚动以查看示例).](/wiki/Pp_bp.jpg)

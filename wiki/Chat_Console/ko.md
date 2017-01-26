@@ -245,5 +245,3 @@ John: Do you know any good doctor?</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category:Infrastructure of osu!/KO](Category:Infrastructure_of_osu!/KO "wikilink")

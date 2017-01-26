@@ -65,4 +65,3 @@ Lista rzeczy do zrobienia
 -   Dodaj wszystkie strony do szablonu <Template:Contents>.
 -   Dodaj poradniki, jeżeli takowych brakuje.
 -   Popraw błędy w artykułach jeżeli takowe są.
-

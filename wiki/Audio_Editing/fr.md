@@ -2,14 +2,14 @@ Encodage audio
 ================
 
 >L 'osu! academy a fait [une vidéo](https://www.youtube.com/watch?v=muu3HkG38kk) à ce propos, en anglais.
-Il apprend aussi comment installer et utiliser LAME dans Audacity. (Lien vers l'[osu!academy](/wiki/Announcements/osu!academy/fr.md))
+Il apprend aussi comment installer et utiliser LAME dans Audacity. (Lien vers l'[osu!academy](/wiki/Announcements/osu!academy))
 
 Cet article est un guide pour apprendre à encoder correctement un fichier mp3 pour osu!, dans le cadre de la réalisation de votre propre map ou celle des autres mappeurs qui n'ont pas l'encodage approprié.
 
 Encodage audio
 -----------------
 
-Le débit (*bitrate* en anglais) du fichier audio doit être compris entre 128 et 192 kbps (kilobits par seconde), selon les [critères de ranking](/wiki/Ranking_Criteria/fr.md).
+Le débit (*bitrate* en anglais) du fichier audio doit être compris entre 128 et 192 kbps (kilobits par seconde), selon les [critères de ranking](/wiki/Ranking_Criteria).
 
 Dans la majorité des cas, vous avez un fichier mp3 possédant un débit de 256 ou 320 kbps, ce qui dépasse la limite autorisée, il vous faudra donc réduire celui-ci avec un logiciel d'encodage audio.
 
@@ -21,7 +21,7 @@ Vous aurez besoin de [LAME](http://lame.sourceforge.net/) pour exporter le fichi
 
 Vous pouvez choisir entre ces 2 méthodes mais pour ce qui est du débit final, restez entre 128 kbps et 192 kbps.
 
-Si vous cherchez de la musique à mapper sur osu!, de nombreux sites proposent des musiques libres de droits : [Newgrounds](http://www.newgrounds.com/audio/), [SoundCloud](https://soundcloud.com), [OCRemix](http://ocremix.org/), et [Bandcamp](http://bandcamp.com/) qui offrent de la musique gratuite sous la licence [Creative Commons](/wiki/Creative-Commons/en.md). Dans le cas où vous souhaiteriez mapper une musique protégée par droits d'auteur, assurez-vous d'avoir le consentement de ce dernier.
+Si vous cherchez de la musique à mapper sur osu!, de nombreux sites proposent des musiques libres de droits : [Newgrounds](http://www.newgrounds.com/audio/), [SoundCloud](https://soundcloud.com), [OCRemix](http://ocremix.org/), et [Bandcamp](http://bandcamp.com/) qui offrent de la musique gratuite sous la licence [Creative Commons](/wiki/Creative_Commons). Dans le cas où vous souhaiteriez mapper une musique protégée par droits d'auteur, assurez-vous d'avoir le consentement de ce dernier.
 
 ### Réduire le débit de la musique avec foobar2000
 

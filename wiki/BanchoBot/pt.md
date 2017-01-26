@@ -23,4 +23,3 @@ Aparência e trabalho
 | REPORT (razão) | Chama um Moderador de Chat | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | Mostra mapas aleatórios do #modreqs. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (número ou palavra chave) | Rola um dado (virtual) e recebe um número aleatório de 1 à 100 | !roll 9000 | John rolls 1337 point(s) |
-

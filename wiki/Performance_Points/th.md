@@ -48,5 +48,3 @@ Performance Points (pp) เป็นค่าใช้จัดอันดั�
 
 ภาพประกอบ
 =========
-
-[Category:Infrastructure of osu!/TH](Category:Infrastructure_of_osu!/TH "wikilink") <Category:Guides/TH>

@@ -88,5 +88,3 @@ TataCon
 -------
 
 Il est possible de jouer en Taiko avec un contrôleur de jeu en forme de tambour appelé TataCon, à la base conçus pour Taiko no Tatsujin et Drum Master.
-
-[Category:Game Modes/FR](Category:Game_Modes/FR "wikilink") <Category:Taiko/FR>

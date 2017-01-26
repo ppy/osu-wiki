@@ -21,5 +21,3 @@ Artigos relacionados
 --------------------
 
 -   <PT:Skin.ini>
-
-<Category:Skinning/PT>

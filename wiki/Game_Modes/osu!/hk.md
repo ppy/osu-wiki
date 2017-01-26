@@ -279,5 +279,3 @@ Credits
 -   Peter Lambert - osu! tutorial（[原版教程譜面](http://osu.ppy.sh/s/3756)，[Ranked版教程譜面](http://osu.ppy.sh/s/19928)）
 -   Pokebis's B​​eginner's Training [1](http://osu.ppy.sh/forum/t/5456)
 -   維基百科 [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)
-
-[Category:Game Modes/HK](Category:Game_Modes/HK "wikilink") <Category:Osu!Standard/HK>

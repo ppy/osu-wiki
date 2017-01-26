@@ -35,5 +35,3 @@ Les maps CtB ranked
 -------------------
 
 Jusqu'au 10 avril 2012 les maps Catch the Beat ne pouvaient être ranked ni être inclus avec des maps ranked. Ceci a changé et les mappeurs ont désormais la permission de faire des difficultés spécifiques au CtB s'ils suivent les directives. Ces directives sont toujours en état d'évolution, mais plus des maps CtB se font ranked, plus les directives se précisent (pour espérer un jour avoir la précision des directives de mapping de l'osu!standard).
-
-[Category: Game Modes/FR](Category:_Game_Modes/FR "wikilink") [Category:Catch The Beat/FR](Category:Catch_The_Beat/FR "wikilink")
