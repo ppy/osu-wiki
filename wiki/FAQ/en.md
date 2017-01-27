@@ -5,18 +5,18 @@
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch game mode"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania game mode"
 [Play_Styles wikilink]: /wiki/Play_Styles/ "Play Styles"
-[Auto wikilink]: /wiki/Game_Modifiers#auto "Auto game modifier"
-[Spun Out wikilink]: /wiki/Game_Modifiers#spun-out "Spun Out game modifier"
-[Relax wikilink]: /wiki/Game_Modifiers#relax "Relax game modifier"
-[Co-Op wikilink]: /wiki/Game_Modifiers#co-op "Co-Op game modifier"
-[Hidden wikilink]: /wiki/Game_Modifiers#hidden "Hidden game modifier"
-[Flashlight wikilink]: /wiki/Game_Modifiers#flashlight "Flashlight game modifier"
-[xK wikilink]: /wiki/Game_Modifiers#xk "osu!mania play key set"
-[Sudden Death wikilink]: /wiki/Game_Modifiers#sudden-death "Sudden Death game modifier"
+[Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
+[Spun Out wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Spun Out"
+[Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
+[Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
+[Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
+[Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
+[xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
+[Sudden Death wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Sudden Death"
 [Score wikilink]: /wiki/Score/ "Score"
-[Score#Level wikilink]: /wiki/Score#level "Level formula"
+[Score#Level wikilink]: /wiki/Score "more info can be found on Score under Level"
 [Performance Points wikilink]: /wiki/Performance_Points/ "Performance Points"
-[Performance Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
+[Performance Points#FAQ wikilink]: /wiki/Performance_Points "more info can be found on Performance Points under FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
 [Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Shortcut Key Reference"
@@ -90,13 +90,13 @@ _Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ra
 
 The gameplay puts emphasis on:-
 
--   Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
--   Understanding of the song beat and design.
--   Input device control.
--   Timing of hits on the object that appeared on the screen.
--   Ability to spin the mouse (or your finger/pen for tablet) on spinners.
--   Physical stamina and mental fortitude (especially longer, marathon-type songs).
--   Proper positioning and hand-eye coordination.
+- Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
+- Understanding of the song beat and design.
+- Input device control.
+- Timing of hits on the object that appeared on the screen.
+- Ability to spin the mouse (or your finger/pen for tablet) on spinners.
+- Physical stamina and mental fortitude (especially longer, marathon-type songs).
+- Proper positioning and hand-eye coordination.
 
 These are some of the vital skills you will learn as you progress your journey on becoming an osu! rhythm master. Before you set out to become the rhythm master, you must learn the basics (and theories) of the hittable objects.
 
@@ -249,8 +249,8 @@ _Left: Before collecting the hyperfruit. Right: Catcher hyperdash to the next fr
 Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default; collecting the hyperfruit will make the catcher's dash upgraded to _hyperdash_ (just fast enough to catch the next fruit), glows red, and leaves a temporary red _afterimage_ at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
 
 #### Controlling the catcher
--   By default, the left `<-` and right `->` arrow keys are used to move the catcher.
--   Pressing the `leftShift` key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
+- By default, the left `<-` and right `->` arrow keys are used to move the catcher.
+- Pressing the `leftShift` key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
 
 If [Relax][Relax wikilink] mod was enabled, the control of the catcher will be the in-game cursor instead. However, this will make the play unrankable (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
@@ -289,14 +289,14 @@ Healthbar regeneration occurs slowly while holding the holdbar(s). Depending on 
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
 
 There two different binding-styles, _Symmetrical_ and _Left to Right_.
--   _Symmetrical_ style mimics the button placement of DJMAX, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
--   _Left to Right_ style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
+- _Symmetrical_ style mimics the button placement of DJMAX, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+- _Left to Right_ style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
 
 _Symmetrical_ key binding (For DJMAX style)
--   For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
--   For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
--   *Center* button — (K5)`Spacebar`. \[On 5K and 7K only\]
--   The _Special_ button — `leftShift` and `leftCtrl`.
+- For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+- *Center* button — (K5)`Spacebar`. \[On 5K and 7K only\]
+- The _Special_ button — `leftShift` and `leftCtrl`.
 
 Key | L | C | R
 :---:|:---|:---:|---:
@@ -307,8 +307,8 @@ Key | L | C | R
 8K|K1, K2, K3, K4|-|K6, K7, K8, K9
 
 _Left to Right_ key binding (For Beatmania IIDX style)
--   From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
--   The *Special* button — `leftShift` and `leftCtrl`.
+- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
+- The *Special* button — `leftShift` and `leftCtrl`.
 
 Key | Bindings
 :---:|:---
@@ -325,45 +325,45 @@ _Detailed explanation of scoring can be found at the game style's own respective
 
 ### Grades
 #### ![osu! icon][osu! icon link] osu! Standard
--   SS = 100% Accuracy
--   S = Over 90% 300s, less than 1% 50s and no misses.
--   A = Over 80% 300s and no misses **OR** over 90% 300s.
--   B = Over 70% 300s and no misses **OR** over 80% 300s.
--   C = Over 60% 300s.
--   D = Anything else.
+- SS = 100% Accuracy
+- S = Over 90% 300s, less than 1% 50s and no misses.
+- A = Over 80% 300s and no misses **OR** over 90% 300s.
+- B = Over 70% 300s and no misses **OR** over 80% 300s.
+- C = Over 60% 300s.
+- D = Anything else.
 
 #### ![osu!taiko icon][osu!taiko icon link] Taiko
--   SS = 100% Accuracy.
--   S = Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes).
--   A = Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes).
--   B = Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes).
+- SS = 100% Accuracy.
+- S = Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes).
+- A = Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes).
+- B = Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes).
 
 #### ![osu!catch icon][osu!catch icon link] Catch the Beat
--   SS = 100.00% Accuracy
--   S = 98.01% to 99.99% Accuracy (You can have 'S' rank even if you make several misses, like in osu!mania).
--   A = 94.01% to 98.00% Accuracy
--   B = 90.01% to 94.00% Accuracy
--   C = 85.01% to 90.00% Accuracy
--   D = Any other accuracy under 85.00%.
+- SS = 100.00% Accuracy
+- S = 98.01% to 99.99% Accuracy (You can have 'S' rank even if you make several misses, like in osu!mania).
+- A = 94.01% to 98.00% Accuracy
+- B = 90.01% to 94.00% Accuracy
+- C = 85.01% to 90.00% Accuracy
+- D = Any other accuracy under 85.00%.
 
 #### ![osu!mania icon][osu!mania icon link] osu!mania
--   SS = 100% Accuracy (only MAX and/or 300).
--   S = Over 95% Accuracy (You can achieve an 'S' rank even if you make several misses, like in Catch the Beat).
--   A = Over 90% Accuracy.
--   B = Over 80% Accuracy.
--   C = Over 70% Accuracy.
--   D = Anything else.
+- SS = 100% Accuracy (only MAX and/or 300).
+- S = Over 95% Accuracy (You can achieve an 'S' rank even if you make several misses, like in Catch the Beat).
+- A = Over 90% Accuracy.
+- B = Over 80% Accuracy.
+- C = Over 70% Accuracy.
+- D = Anything else.
 
 #### All
 **Special grades**
--   Silver SS (SSH) = Normal grade SS with _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
--   Silver S (SH) = Normal grade S with _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
+- Silver SS (SSH) = Normal grade SS with _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
+- Silver S (SH) = Normal grade S with _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
 
 **Regarding the _Ranks_ in profile page**
--   Grades obtained will be set at the profile page under General-&gt;Ranks provided the in-game account connected online with Bancho server when receiving the grade.
-  -   **Offline play**, even with account logged in, **will not be counted**.
--   **Grades given for profile depends on beatmap difficulties, not as whole.**
-  -   If the beatmap has 3 difficulties, and SS'ed all three of them; 3 SS will be given, not just one SS in the profile.
+- Grades obtained will be set at the profile page under General-&gt;Ranks provided the in-game account connected online with Bancho server when receiving the grade.
+  - **Offline play**, even with account logged in, **will not be counted**.
+- **Grades given for profile depends on beatmap difficulties, not as whole.**
+  - If the beatmap has 3 difficulties, and SS'ed all three of them; 3 SS will be given, not just one SS in the profile.
 
 ## Performance Points
 _Full explanation: [Performance Points][Performance Points wikilink]_
@@ -479,14 +479,14 @@ _For unranked beatmaps only._
 
 Please follow these steps:-
 
-1.  Leave the editor (or close osu!) to make sure the changes apply properly
-2.  Check the name of the beatmap's folder
-  -   If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
-3.  Make sure that the .mp3 does not start with numbers. Edit the filename in the .osu files if it does.
-4.  Open all the .osu files with a text editor (Notepad will work)
-  -   Set your name as creator (and replace it in the file name as well)
-  -   Set the BeatmapID to 0
-  -   Set the BeatmapSetID to -1
+1. Leave the editor (or close osu!) to make sure the changes apply properly
+2. Check the name of the beatmap's folder
+   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
+3. Make sure that the .mp3 does not start with numbers. Edit the filename in the .osu files if it does.
+4. Open all the .osu files with a text editor (Notepad will work)
+   - Set your name as creator (and replace it in the file name as well)
+   - Set the BeatmapID to 0
+   - Set the BeatmapSetID to -1
 
 ## Credits
 - peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
