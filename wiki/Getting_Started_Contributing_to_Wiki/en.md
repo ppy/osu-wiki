@@ -60,7 +60,7 @@ If you don't want the hassle of cloning your fork into your PC, GitHub offers Ed
 
 Go to your desired Folder that you want to edit and pick a Markdown File to edit.
 
-_Note: Each article is grouped into folders and each folder contains markdown files and their media.
+_Note: Each article is grouped into folders and each folder contains markdown files arranged by language and their media.
 Please follow this format if you're creating a new Article._
 
 Now click your desired Markdown file to edit. And you should see something like this.
