@@ -89,7 +89,7 @@ Pick a option and click "Commit Changes".
 GitHub under the hood is a Git Service. You can clone your fork in your Machine and make changes there.
 
 if you have git installed, put this in your Command Line Interface :
-```armasm
+```prolog
 git clone https://github.com/<username>/osu-wiki 
 ```
 and this should clone your fork into your specified folder.
@@ -97,7 +97,7 @@ and this should clone your fork into your specified folder.
 Now after Making your changes locally, we need to commit this on your local copy.
 
 this can be done by 
-```armasm
+```prolog
 git add .
 git commit -m "<commit message here>"
 ```
@@ -107,7 +107,7 @@ However, in some Editors like Visual Studio Code, they provide a Git Management 
 
 After Committing your changes, we ned to sync this on GitHub, to be able to do this, Enter the following in your Command Line Interface :
 
-```armasm
+```prolog
 git push
 ```
 and this should upload your changes in GitHub.
