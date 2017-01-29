@@ -62,7 +62,7 @@ Go to your desired Folder that you want to edit and pick a Markdown File to edit
 _Note: Each article is grouped into folders and each folder contains markdown files and their media.
 Please follow this format if you're creating a new Article._
 
-Now click your desired Markdown file to edit. And you shoudl see something like this.
+Now click your desired Markdown file to edit. And you should see something like this.
 
 ![GitHub Preview](7.jpg)
 
