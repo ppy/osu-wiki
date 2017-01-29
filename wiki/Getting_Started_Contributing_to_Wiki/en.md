@@ -52,9 +52,71 @@ And you should see something like this.
 
 Congratulations! You made a copy of the osu!wiki repository! You can now proceed in making changes.
 
-If you, however, want to edit into your local machine, after forking, enter this through your command line 
-(this would be ``cmd`` for windows and ``bash`` for Linux and MacOS).
+### Making Changes 
+
+#### Through GitHub's Web Editor
+If you don't want the hassle of cloning your fork into your PC, GitHub offers Editing through your browser.
+
+Go to your desired Folder that you want to edit and pick a Markdown File to edit.
+
+_Note: Each article is grouped into folders and each folder contains markdown files and their media.
+Please follow this format if you're creating a new Article._
+
+Now click your desired Markdown file to edit. And you shoudl see something like this.
+
+![GitHub Preview](7.jpg)
+
+Now Click on the Pencil Icon to edit. And it should redirect you to the Web Editor.
+
+![GitHub's Web Editor](8.jpg "web Editor Snapshot")
+
+If you want to preview your changes, click the "Preview Changes" Tab. Click "Edit File" to go back to Editing.
+
+After making your changes, scroll down and Fill the following fields to explain your edit to other contributors.
+
+![Commit Message](9.jpg "Commit Message")
+
+You would be given a option where to save your edits.
+
+- Commit Directly to the ``xy`` branch will commit the changes through your branch directly.
+
+- Create a New Branch will automatically create a Branch for your edits. This is useful if you're making bulk edits.
+
+Pick a option and click "Commit Changes".
+
+#### Through your local Machine
+
+GitHub under the hood is a Git Service. You can clone your fork in your Machine and make changes there.
+
+if you have git installed, put this in your Command Line Interface :
+```armasm
+git clone https://github.com/<username>/osu-wiki 
+```
+and this should clone your fork into your specified folder.
+
+Now after Making your changes locally, we need to commit this on your local copy.
+
+this can be done by 
+```armasm
+git add .
+git commit -m "<commit message here>"
+```
+However, in some Editors like Visual Studio Code, they provide a Git Management Interface.
+
+![Visual Studio code's Git Interface](10.jpg "Visual Studio's Git Interface")
+
+After Committing your changes, we ned to sync this on GitHub, to be able to do this, Enter the following in your Command Line Interface :
 
 ```armasm
-git clone https://github.com/<username>/osu-wiki
+git push
 ```
+and this should upload your changes in GitHub.
+
+### Pull Requests
+
+After making your changes, you must make a "Pull Request" to be able for your changes to be made into the wiki.
+
+Go to your Pull Requests tab.
+
+![Pull Request Tab](6.jpg "Pull Request Tab")
+
