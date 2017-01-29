@@ -173,5 +173,6 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 We avoid to use HTML mostly in Wiki but in extreme cases, we allow HTML for Tables and Linking.
 
 
+ ## Conclusion
 I hope this briefs you on how to contribute to the new osu!wiki. If you have any more questions
 you can inquire at the [osu!development Discord Server](https://discord.gg/ppy).
