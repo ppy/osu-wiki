@@ -155,7 +155,7 @@ Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, 
 
 ### Q: Why is the old osu!wiki not staying?
 
-Due to abysmal Performance, the old wiki is getting deprecated
+Due to abysmal performance, the old wiki is getting deprecated
 as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
 ### Q : How would this differ from the old wiki?
