@@ -165,7 +165,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 - Linking is done Manually, and must be done using Static Linking.
 - **No Templates**. You must duplicate the Template and paste it accordingly to your file.
 - Deletion of Media is easier and requires no special wiki function. However, this has to go under go the Pull request Protocol and may cause Git Conflicts.
-- Tables are supported bare-minimum by GFM without requiring Mediawiki Extensions. However, this does mean we need to code some tables in HTML in extreme cases.
+- Tables are supported bare-minimum by GFM without requiring extensions, unlike Mediawiki. However, this does mean we need to code some tables in HTML in extreme cases.
 - Markdown is sensitive. any wrong Capitalization can break things like Static Links.
 
 #### Q: Can we use HTML?
