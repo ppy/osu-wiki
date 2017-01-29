@@ -26,7 +26,7 @@ To be able to contribute to osu!wiki you must have the following :
 
  ![Registration Snapshot Example](2.jpg "Registration Snapshot")
 
- Now click "Create an account" and you're well on your way to Contribute to osu!wiki.
+ Now click "Create an account" and you're well on your way to contribute to osu!wiki.
 
 
 ## Forking
