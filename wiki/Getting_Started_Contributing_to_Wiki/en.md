@@ -24,7 +24,7 @@ To be able to contribute to osu!wiki you must have the following :
 
  Then click "Sign Up" and fill the following Fields like this example.
 
- ![Registration Snapshot Example](2.JPG "Registration Snapshot")
+ ![Registration Snapshot Example](2.jpg "Registration Snapshot")
 
  Now Click "Create an account" and you have a GitHub Account! You're well on your way to Contribute to the Wiki.
 
