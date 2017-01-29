@@ -1,20 +1,24 @@
+Storyboarding
+=================
+
 ![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
 ![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
-A **Storyboard** (SB) is a custom-made 640x480 or 1366x768 (with the recent advent of widescreen storyboarding) animated background that accompanies a [beatmap](beatmap), often for decorative and sometimes for gameplay purposes. A storyboard can be comprised of just about anything, but usually consist of a set of visual effects designed to make a map more aesthetically pleasing and distinctive to users. Storyboards are inspired from the animated backgrounds from osu!'s inspiration, Osu! Tatakae! Ouendan. Like their inspiration, Storyboards are able to adjust to the player's performance in the game and display different things depending on how well the player is doing. Storyboards are saved as ".osb" files in their respective beatmap folder.
+
+A **Storyboard** (SB) is a custom-made 640x480 or 1366x768 (with the recent advent of widescreen storyboarding) animated background that accompanies a [beatmap](/wiki/Glossary), often for decorative and sometimes for gameplay purposes. A storyboard can be comprised of just about anything, but usually consist of a set of visual effects designed to make a map more aesthetically pleasing and distinctive to users. Storyboards are inspired from the animated backgrounds from osu!'s inspiration, Osu! Tatakae! Ouendan. Like their inspiration, Storyboards are able to adjust to the player's performance in the game and display different things depending on how well the player is doing. Storyboards are saved as ".osb" files in their respective beatmap folder.
 
 Storyboards are often very difficult to make and require considerable time and expertise in standard animation and in the creation of graphics.
 
 Creating a storyboard
 ---------------------
 
-The [Storyboard Editor](Storyboard_Editor) (SBE) is located in the Design Tab (keyboard shortcut F2) in the Beatmap Editor. Fundamentally, the SBE offers users an easy way to control the movement of simple sprites, but is often regarded as clunky and unusable for anything beyond the most basic of storyboards. If one would wish to create a widescreen storyboard, you can do so by going to the song setup dialog.
+The [Storyboard Editor](/wiki/Storyboard_Editor) (SBE) is located in the Design Tab (keyboard shortcut F2) in the Beatmap Editor. Fundamentally, the SBE offers users an easy way to control the movement of simple sprites, but is often regarded as clunky and unusable for anything beyond the most basic of storyboards. If one would wish to create a widescreen storyboard, you can do so by going to the song setup dialog.
 
-Users skilled in storyboard creation often use the backend code created by the SBE, entitled [Storyboard Scripting](Storyboard_Scripting) (SBS) instead, as it affords them more control. See that article for details.
+Users skilled in storyboard creation often use the backend code created by the SBE, entitled [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting) (SBS) instead, as it affords them more control. See that article for details.
 
 Full Storyboards
 ----------------
 
-With the advent of the Storyboard Editor to create simple graphical effects in Beatmaps, the full list of [Ranked](Ranked) Beatmaps with storyboards [is rather long](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Therefore, this page only lists those Beatmaps who have “full” storyboards. If you want more, go to the [full maps list](Storyboarding/Maps).
+With the advent of the Storyboard Editor to create simple graphical effects in Beatmaps, the full list of [Ranked](/wiki/Beatmaps) Beatmaps with storyboards [is rather long](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Therefore, this page only lists those Beatmaps who have “full” storyboards. If you want more, go to the [full maps list](/wiki/Storyboarding/Maps).
 
 ### Storyboards
 
@@ -46,4 +50,4 @@ With the advent of the Storyboard Editor to create simple graphical effects in B
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-Other good SB's can be found [here](Storyboarding/Maps).
+Other good SB's can be found [here](/wiki/Storyboarding/Maps).

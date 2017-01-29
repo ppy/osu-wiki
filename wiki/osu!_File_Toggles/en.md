@@ -1,8 +1,11 @@
-The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](skinning "wikilink") / [storyboarding](storyboarding "wikilink"). Those that are added/removed by the [Beatmap Editor](Beatmap_Editor "wikilink") can also be included.
+Osu File Toggles
+================
 
-See also [skin.ini](skin.ini "wikilink").
+The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboarding). Those that are added/removed by the [Beatmap Editor](/wiki/Beatmap_Editor) can also be included.
 
-Under \[General\] Section
+See also [skin.ini](/wiki/Skinning/Skin.ini).
+
+Under [General] Section
 -------------------------
 
 `UseSkinSprites: 1`

@@ -1,5 +1,8 @@
-![An example of scripting in .osb.](SBS Base.jpg "An example of scripting in .osb.")
-  In addition to using the [Storyboard Editor](Storyboard_Editor)(Design tab) to create [Storyboards](Storyboarding) for maps, you can also use a plain text editor (such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/)). This is referred to as "**Storyboarding by Scripting**" (SBS), and allows you to be more precise (to the pixel and the millisecond) as to when sprites appear, what they do, and so on.
+Storyboard Scripting
+======================
+
+![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
+  In addition to using the [Storyboard Editor](/wiki/Design)(Design tab) to create [Storyboards](/wiki/Storyboarding) for maps, you can also use a plain text editor (such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/)). This is referred to as "**Storyboarding by Scripting**" (SBS), and allows you to be more precise (to the pixel and the millisecond) as to when sprites appear, what they do, and so on.
 
 Beginner's Guide
 ----------------
@@ -11,6 +14,6 @@ Full Specification
 
 It is primarily based on [the official specifications](http://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
 
-[Please read the rule before doing SBS.](Storyboard_Scripting_General_Rules) It will save you the hassle later on. [For sprite/object spec.](Storyboard_Objects) and [their moveset](Storyboard_Scripting_Commands). [Extra tidbits if you are interested](Storyboard_Scripting_Miscellaneous).
+[Please read the rule before doing SBS.](/wiki/Storyboarding/Storyboard_Scripting_General_Rules) It will save you the hassle later on. [For sprite/object spec.](/wiki/Storyboarding/Objects) and [their moveset](/wiki/Storyboarding/Storyboard_Scripting_Commands). [Extra tidbits if you are interested](/wiki/Storyboarding/Storyboard_Scripting_Miscellaneous).
 
 Note: **Save on beatmap first** before saving in Notepad. Also, the editor can be insensitive at times so **save often**.

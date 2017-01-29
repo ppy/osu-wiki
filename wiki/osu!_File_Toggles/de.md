@@ -1,8 +1,11 @@
-Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateien das [Skinning](DE:Skinning "wikilink")/[Storyboarding](DE:Storyboarding "wikilink") beeinflussen.
+Storyboard Scripting - Schalter
+=================================
 
-Siehe auch <DE:Skin.ini>.
+Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateien das [Skinning](/wiki/Skinning)/[Storyboarding](/wiki/Storyboarding) beeinflussen.
 
-Unter \[General\] Sektion
+Siehe auch [skin.ini](/wiki/Skinning/Skin.ini)
+
+Unter [General] Sektion
 -------------------------
 
 UseSkinSprites: 1

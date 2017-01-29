@@ -1,8 +1,11 @@
-.osu もしくは.osbファイルに[スキン](JP:Skinning "wikilink") / [ストーリーボードに影響を与えるコードも記述することが可能です](JP:Storyboarding "wikilink")。それらには[エディタで追加](JP:Beatmap_Editor "wikilink")/削除されたデータも含みます。
+Osu File Toggles - Japanese
+============================
 
-[skin.iniも参照してください](JP:Skin.ini "wikilink")。
+.osu もしくは.osbファイルに[スキン](/wiki/Skinning) / [ストーリーボードに影響を与えるコードも記述することが可能です](/wiki/Storyboarding)。それらには[エディタで追加](/wiki/Beatmap_Editor)/削除されたデータも含みます。
 
-\[General\]セクション以下
+[skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
+
+[General]セクション以下
 -------------------------
 
 `UseSkinSprites: 1`
