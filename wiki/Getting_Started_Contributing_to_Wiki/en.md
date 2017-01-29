@@ -20,11 +20,11 @@ To be able to contribute to osu!wiki you must have the following :
 
  1:) Go to the [GitHub Homepage](https://github.com).
 
- ![GitHub Homepage Screenshot](1.jpg "Github Homepage")
+ ![GitHub Homepage Screenshot](1.JPG "Github Homepage")
 
  Then click "Sign Up" and fill the following Fields like this example.
 
- ![Registration Snapshot Example](2.jpg "Registration Snapshot")
+ ![Registration Snapshot Example](2.JPG "Registration Snapshot")
 
  Now Click "Create an account" and you have a GitHub Account! You're well on your way to Contribute to the Wiki.
 
@@ -40,7 +40,7 @@ To be able to contribute to osu!wiki you must have the following :
 
 Now click the "Fork" Button on the top-right and it would prompt you on where to fork the repository.
 
-![Fork prompt dialogue](4.jpg "Fork prompt dialogue")
+![Fork prompt dialogue](4.JPG "Fork prompt dialogue")
 
 If you have already made a fork, the Prompt will also say where was it forked.
 
@@ -48,7 +48,7 @@ Now click at your profile and GitHub would redirect you to where the fork is.
 
 And you should see something like this.
 
-![Fork Snapshot](5.jpg "Fork Snapshot")
+![Fork Snapshot](5.JPG "Fork Snapshot")
 
 Congratulations! You made a copy of the osu!wiki repository! You can now proceed in making changes.
 
@@ -64,17 +64,17 @@ Please follow this format if you're creating a new Article._
 
 Now click your desired Markdown file to edit. And you should see something like this.
 
-![GitHub Preview](7.jpg)
+![GitHub Preview](7.JPG "Github Preview")
 
 Now Click on the Pencil Icon to edit. And it should redirect you to the Web Editor.
 
-![GitHub's Web Editor](8.jpg "web Editor Snapshot")
+![GitHub's Web Editor](8.JPG "web Editor Snapshot")
 
 If you want to preview your changes, click the "Preview Changes" Tab. Click "Edit File" to go back to Editing.
 
 After making your changes, scroll down and Fill the following fields to explain your edit to other contributors.
 
-![Commit Message](9.jpg "Commit Message")
+![Commit Message](9.JPG "Commit Message")
 
 You would be given a option where to save your edits.
 
@@ -103,7 +103,7 @@ git commit -m "<commit message here>"
 ```
 However, in some Editors like Visual Studio Code, they provide a Git Management Interface.
 
-![Visual Studio code's Git Interface](10.jpg "Visual Studio's Git Interface")
+![Visual Studio code's Git Interface](10.JPG "Visual Studio's Git Interface")
 
 After Committing your changes, we ned to sync this on GitHub, to be able to do this, Enter the following in your Command Line Interface :
 
@@ -118,5 +118,5 @@ After making your changes, you must make a "Pull Request" to be able for your ch
 
 Go to your Pull Requests tab.
 
-![Pull Request Tab](6.jpg "Pull Request Tab")
+![Pull Request Tab](6.JPG "Pull Request Tab")
 
