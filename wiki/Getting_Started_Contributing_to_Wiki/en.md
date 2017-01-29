@@ -147,4 +147,30 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
 Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, Merge your changes.
+ 
+ Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/en.md) to be able to get merged.
 
+### FAQ
+
+#### Q: Why is the old osu!wiki not staying?
+
+Due to Abysmal Performance, the old wiki is getting deprecated
+as stated [here](https://github.com/ppy/osu-wiki/issues/69).
+
+#### Q : How would this differ from the old wiki?
+
+- We use GitHub for Collaboration. You can Make mass changes easily and efficiently and you can delay your changes as long as you like.
+- Unlike the old osu!wiki, Changes has to go Pull Requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
+- Linking is done Manually, and must be done using Static Linking.
+- **No Templates**. You must duplicate the Template and paste it accordingly to your file.
+- Deletion of Media is easier and requires no special wiki function. However, this has to go under go the Pull request Protocol and may cause Git Conflicts.
+- Tables are supported bare-minimum by GFM without requiring Mediawiki Extensions. However, this does mean we need to code some tables in HTML in extreme cases.
+- Markdown is sensitive. any wrong Capitalization can break things like Static Links.
+
+#### Q: Can we use HTML?
+
+We avoid to use HTML mostly in Wiki but in some cases, we allow HTML like for Tables and Linking.
+
+
+I hope this briefs you on how to contribute to the new osu!wiki. If you have any more questions
+you can inquire at the [osu!development Discord Server](https://discord.gg/ppy).
