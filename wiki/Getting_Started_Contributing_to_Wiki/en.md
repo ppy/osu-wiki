@@ -79,9 +79,9 @@ After making your changes, scroll down and Fill the following fields to explain 
 
 You would be given a option where to save your edits.
 
-- Commit Directly to the ``xy`` branch will commit the changes through your branch directly.
+- "Commit Directly to the ``xy`` branch" will commit the changes through your branch directly.
 
-- Create a New Branch will automatically create a Branch for your edits. This is useful if you're making bulk edits.
+- "Create a New Branch" will automatically create a Branch for your edits. This is useful if you're making bulk edits.
 
 Pick a option and click "Commit Changes".
 
