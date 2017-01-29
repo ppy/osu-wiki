@@ -27,4 +27,34 @@ To be able to contribute to osu!Wiki you must have the following :
  ![Registration Snapshot Example](2.jpg "Registration Snapshot")
 
  Now Click "Create an account" and you have a GitHub Account! You're well on your way to Contribute to the Wiki.
+
+ ### Forking
  
+ To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "Forking".
+ 
+ Go to the [GitHub repository](https://github.com/ppy/osu-wiki).
+ 
+ You should see something like this.
+
+![osu-wiki Repository Snapshot](3.JPG "Snapshot of the osu!Wiki Repository")
+
+Now click the "Fork" Button on the top-right and it would prompt you on where to fork the repository.
+
+![Fork prompt dialogue](4.jpg "Fork prompt dialogue")
+
+If you have already made a fork, the Prompt will also say where was it forked.
+
+Now click at your profile and GitHub would redirect you to where the fork is.
+
+And you should see something like this.
+
+![Fork Snapshot](5.jpg "Fork Snapshot")
+
+Congratulations! You made a copy of the osu!Wiki repository! You can now proceed in making changes.
+
+If you, however, want to edit into your local machine, after forking, enter this through your command line 
+(this would be ``cmd`` for windows and ``bash`` for Linux and MacOS).
+
+```armasm
+git clone https://github.com/<username>/osu-wiki
+```
