@@ -12,7 +12,7 @@ To be able to contribute to osu!wiki you must have the following :
 - Basic Knowledge in VCS (Version Control System), Particularly Git (If you plan to make changes locally).
 - Basic Knowledge in Markdown.
 - a Github Account.
-- a Markdown Editor. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) but in some cases, Github's web Editor will suffice.
+- a Markdown Editor. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (If you plan to make changes locally).
 - a Markdown Previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's Built In Markdown Previewers (If you plan to make changes locally).
 
 ### Creating a GitHub Account 
