@@ -27,9 +27,9 @@ To be able to contribute to osu!wiki you must have the following :
  ![Registration Snapshot Example](2.jpg "Registration Snapshot")
 
  Now Click "Create an account" and you have a GitHub Account! You're well on your way to Contribute to the Wiki.
- 
 
- ### Forking
+
+### Forking
  
  To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "Forking".
  
