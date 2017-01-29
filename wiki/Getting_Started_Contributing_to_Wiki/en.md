@@ -120,3 +120,31 @@ Go to your Pull Requests tab.
 
 ![Pull Request Tab](6.JPG "Pull Request Tab")
 
+You should see the Pull Requests Page.
+
+![PR UI](11.jpg "Pull Requests Page")
+
+This is your Pull Request Page. Now click on "New Pull Request"
+
+and you should see something like this.
+
+![Compare Changes Page](12.jpg "Comparing Changes")
+
+Now we want to compare ``ppy:master`` against your changes.
+
+Now Select where did you made your changes in "branch" beside your "head Fork".
+
+![Comparing Changes 2](13.jpg "Comparing Changes 2")
+
+_However if you made changes in your Master Branch, The Changes will be shown without changing anything in the head fork options_.
+
+Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
+
+**Title** : The Summary of the Changes you've made.
+
+**PR Sub-Message** : the Details of the changes you've made. 
+
+![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
+
+Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, Merge your changes.
+
