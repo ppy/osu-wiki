@@ -5,7 +5,7 @@ Thanks for your interest in making osu!wiki Better! As you can see, we have move
 So here's some few things in mind to get you started in Contributing to the new Wiki.
 
 
-### Prerequisites
+## Prerequisites
 
 To be able to contribute to osu!wiki you must have the following :
 
@@ -15,7 +15,7 @@ To be able to contribute to osu!wiki you must have the following :
 - a Markdown Editor. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (If you plan to make changes locally).
 - a Markdown Previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's Built In Markdown Previewers (If you plan to make changes locally).
 
-### Creating a GitHub Account 
+## Creating a GitHub Account 
  To get started in contributing to osu!wiki, you must first sign up for a GitHub Account.
 
  1:) Go to the [GitHub Homepage](https://github.com).
@@ -29,7 +29,7 @@ To be able to contribute to osu!wiki you must have the following :
  Now Click "Create an account" and you have a GitHub Account! You're well on your way to Contribute to the Wiki.
 
 
-### Forking
+## Forking
  
  To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "Forking".
  
@@ -53,7 +53,7 @@ And you should see something like this.
 
 Congratulations! You made a copy of the osu!wiki repository! You can now proceed in making changes.
 
-### Making Changes 
+## Making Changes 
 
 #### Through GitHub's Web Editor
 If you don't want the hassle of cloning your fork into your PC, GitHub offers Editing through your browser.
@@ -113,7 +113,7 @@ git push
 ```
 and this should upload your changes in GitHub.
 
-### Pull Requests
+## Pull Requests
 
 After making your changes, you must make a "Pull Request" to be able for your changes to be made into the wiki.
 
@@ -151,7 +151,7 @@ Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, 
  
  Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/en.md) to be able to get merged.
 
-### FAQ
+## FAQ
 
 #### Q: Why is the old osu!wiki not staying?
 
