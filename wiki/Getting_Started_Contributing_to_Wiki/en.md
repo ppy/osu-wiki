@@ -55,7 +55,7 @@ Congratulations! You made a copy of the osu!wiki repository! You can now proceed
 
 ## Making Changes 
 
-#### Through GitHub's Web Editor
+### Through GitHub's Web Editor
 If you don't want the hassle of cloning your fork into your PC, GitHub offers Editing through your browser.
 
 Go to your desired Folder that you want to edit and pick a Markdown File to edit.
@@ -85,7 +85,7 @@ You would be given a option where to save your edits.
 
 Pick a option and click "Commit Changes".
 
-#### Through your local Machine
+### Through your local Machine
 
 GitHub under the hood is a Git Service. You can clone your fork in your Machine and make changes there.
 
@@ -153,12 +153,12 @@ Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, 
 
 ## FAQ
 
-#### Q: Why is the old osu!wiki not staying?
+### Q: Why is the old osu!wiki not staying?
 
 Due to Abysmal Performance, the old wiki is getting deprecated
 as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
-#### Q : How would this differ from the old wiki?
+### Q : How would this differ from the old wiki?
 
 - We use GitHub for Collaboration. You can Make mass changes easily and efficiently and you can delay your changes as long as you like.
 - Unlike the old osu!wiki, Changes has to go Pull Requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
@@ -168,7 +168,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 - Tables are supported bare-minimum by GFM without requiring extensions, unlike Mediawiki. However, this does mean we need to code some tables in HTML in extreme cases.
 - Markdown is sensitive. any wrong Capitalization can break things like Static Links.
 
-#### Q: Can we use HTML?
+### Q: Can we use HTML?
 
 We avoid to use HTML mostly in Wiki but in extreme cases, we allow HTML for Tables and Linking.
 
