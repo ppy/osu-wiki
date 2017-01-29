@@ -16,7 +16,7 @@ To be able to contribute to osu!wiki you must have the following :
 - a Markdown Previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's Built In Markdown Previewers (If you plan to make changes locally).
 
 ### Creating a GitHub Account 
- To get started in contributing to osu!Wiki, you must first sign up for a GitHub Account.
+ To get started in contributing to osu!wiki, you must first sign up for a GitHub Account.
 
  1:) Go to the [GitHub Homepage](https://github.com).
 
