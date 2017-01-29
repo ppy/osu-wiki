@@ -1,13 +1,13 @@
-Getting Started on contributing to the osu!Wiki
+Getting Started on contributing to the osu!wiki
 ==================
 
-Thanks for your interest in making osu!Wiki Better! As you can see, we have moved everything to [GitHub](https://github.com/ppy/osu-wiki).
+Thanks for your interest in making osu!wiki Better! As you can see, we have moved everything to [GitHub](https://github.com/ppy/osu-wiki).
 So here's some few things in mind to get you started in Contributing to the new Wiki.
 
 
 ### Prerequisites
 
-To be able to contribute to osu!Wiki you must have the following :
+To be able to contribute to osu!wiki you must have the following :
 
 - Basic Knowledge in VCS (Version Control System), Particularly Git (If you plan to make changes locally).
 - Basic Knowledge in Markdown.
@@ -50,7 +50,7 @@ And you should see something like this.
 
 ![Fork Snapshot](5.jpg "Fork Snapshot")
 
-Congratulations! You made a copy of the osu!Wiki repository! You can now proceed in making changes.
+Congratulations! You made a copy of the osu!wiki repository! You can now proceed in making changes.
 
 If you, however, want to edit into your local machine, after forking, enter this through your command line 
 (this would be ``cmd`` for windows and ``bash`` for Linux and MacOS).
