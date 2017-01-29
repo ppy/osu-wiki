@@ -18,7 +18,7 @@ To be able to contribute to osu!wiki you must have the following :
 ## Creating a GitHub Account 
  To get started in contributing to osu!wiki, you must first sign up for a GitHub Account.
 
- 1:) Go to the [GitHub Homepage](https://github.com).
+ Go to the [GitHub Homepage](https://github.com).
 
  ![GitHub Homepage Screenshot](1.JPG "Github Homepage")
 
