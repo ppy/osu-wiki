@@ -109,7 +109,7 @@ However, in some Editors like Visual Studio Code, they provide a Git Management 
 After Committing your changes, we ned to sync this on GitHub, to be able to do this, Enter the following in your Command Line Interface :
 
 ```prolog
-git push
+git push origin <branch>
 ```
 and this should upload your changes in GitHub.
 
