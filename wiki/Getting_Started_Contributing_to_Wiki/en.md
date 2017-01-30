@@ -148,7 +148,7 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 
 When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
 
-Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/en.md) to be able to get merged.
+Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/) to be able to get merged.
 
 ## FAQ
 
