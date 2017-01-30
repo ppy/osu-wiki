@@ -1,4 +1,4 @@
-Getting Started on contributing to the osu!wiki
+Getting started on contributing to the osu!wiki
 ==================
 
 Thanks for your interest in making osu!wiki Better! As you can see, we have moved everything to [GitHub](https://github.com/ppy/osu-wiki).
