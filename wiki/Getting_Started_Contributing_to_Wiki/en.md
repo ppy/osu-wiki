@@ -140,9 +140,9 @@ _However if you made changes in your Master Branch, The Changes will be shown wi
 
 Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
 
-**Title** : The Summary of the Changes you've made.
+- **Title** : The Summary of the Changes you've made.
 
-**PR Sub-Message** : the Details of the changes you've made. 
+- **Leave a Comment** : the Details of the changes you've made. 
 
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
