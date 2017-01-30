@@ -84,7 +84,7 @@ You would be given a option where to save your edits.
 
 Pick a option and click "Commit Changes".
 
-### Through your local Machine
+### Through your Local Machine
 
 GitHub under the hood is a Git Service. You can clone your fork in your Machine and make changes there.
 
