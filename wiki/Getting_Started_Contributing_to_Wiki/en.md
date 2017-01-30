@@ -146,9 +146,9 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
-Then Click "Create Pull Request" and wait for a Reviewer to check and possibly, Merge your changes.
- 
- Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/en.md) to be able to get merged.
+When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
+
+Your Changes must follow the [Article Styling Guidelines](wiki/Article_Style_Guide/en.md) to be able to get merged.
 
 ## FAQ
 
@@ -161,11 +161,11 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
 - We use GitHub for Collaboration. You can Make mass changes easily and efficiently and you can delay your changes as long as you like.
 - Unlike the old osu!wiki, Changes has to go Pull Requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
-- Linking is done Manually, and must be done using Static Linking.
+- Linking is done Manually, and must be done using static linking.
 - **No Templates**. You must duplicate the Template and paste it accordingly to the article you are editing.
 - Deletion of Media is easier and requires no special wiki function. However, this has to go under go the Pull request Protocol and may cause Git Conflicts.
 - Tables are supported bare-minimum by GFM without requiring extensions, unlike Mediawiki. However, this does mean we need to code some tables in HTML in extreme cases.
-- Markdown is sensitive. any wrong Capitalization can break things like Static Links.
+- Markdown is sensitive. any wrong capitalization can break things like static links.
 
 ### Can we use HTML?
 
@@ -173,5 +173,5 @@ We avoid to use HTML mostly in Wiki but in extreme cases, we allow HTML for Tabl
 
 
 ## Conclusion
-I hope this briefs you on how to contribute to the new osu!wiki. If you have any more questions
+We hope this briefs you on how to contribute to the new osu!wiki. If you have any more questions
 you can inquire at the [osu!development Discord Server](https://discord.gg/ppy).
