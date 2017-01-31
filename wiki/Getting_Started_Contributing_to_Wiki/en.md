@@ -29,14 +29,13 @@ To be able to contribute to osu!wiki you must have the following :
 
  Now click "Create an account" and you're well on your way to contribute to osu!wiki.
 
- _Note: Pease be reminded that GitHub requires you to confirm your email to be able to use your account._
-
+_Note: GitHub will send you a confirmation email to continue usage of your account._
 
 ## Forking
  
- To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "Forking".
+ To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "forking".
  
- Go to the [osu!wiki's repository](https://github.com/ppy/osu-wiki).
+ Go to the [osu!wiki repository](https://github.com/ppy/osu-wiki).
  
  You should see something like this.
 
@@ -52,8 +51,7 @@ Finally, you should see something like this.
 
 ![Fork Snapshot](5.JPG "Fork Snapshot")
 
-Congratulations! You have made a copy of the osu!wiki repository! You can now proceed to making changes.
-
+Congratulations! You have made a copy of the osu!wiki repository! You can now proceed to make changes.
 ## Making Changes 
 
 ### Through GitHub's Web Editor
@@ -65,95 +63,95 @@ _Note: Each article is grouped into folders where they contain markdown files ar
 
 ![GitHub Preview](7.JPG "Github Preview")
 
-Now Click on the Pencil Icon to edit. And it should redirect you to the Web Editor.
+Click on the pencil icon to edit; this should redirect you to the web editor.
 
 ![GitHub's Web Editor](8.JPG "web Editor Snapshot")
 
-If you want to preview your changes, click the "Preview Changes" Tab. To go back to editing, click the "Edit File" Tab
+If you want to preview your changes, click the "Preview Changes" tab. To go back and edit, click the "Edit File" tab.
 
-After making your changes, scroll down and Fill the following fields to explain your edit(s) to other contributors.
+After making your changes, scroll down and fill the following fields to explain your edit(s) to other contributors.
 
 ![Commit Message](9.JPG "Commit Message")
 
-_**Note: Your Commit Messages must explain thoroughly your changes, otherwise, it would not get merged**._
+_**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get merged!**_
 
-You would be given a option where to save your edits.
+You would be given an option where to save your edits.
 
 - **"Commit Directly to the ``xyz`` branch"** 
-  - will commit the changes through your branch directly.
+  - This will commit the changes through your branch directly.
 
 - **"Create a New Branch"** 
-  - automatically creates a Branch for your edits. This is useful if you're making bulk edits.
+  - Automatically creates a Branch for your edits. This is useful if you're making bulk edits.
 
-Pick a option and click "Commit Changes".
+Pick an option and click "Commit Changes".
 
 ### Through your Local Machine
 
-GitHub under the hood is a Git Service. You can clone your fork in your Machine and make changes there.
+GitHub under the hood is a Git Service. You can clone your fork to your PC and make changes there.
 
-if you have git installed, put this in your Command Line Interface (CLI) :
+if you have Git installed, enter this in your Command Line Interface (CLI) :
 ```prolog
-git clone https://github.com/<username>/osu-wiki 
+git clone https://github.com/<your github username (ie. peppy)>/osu-wiki 
 ```
-and this should clone your fork into your specified folder.
+*Note: If you don't have Git installed, you can go to [their website](https://git-scm.com/) to download Git.*
 
-Now after making your changes locally, you will need to commit this on your local copy.
+and this should clone your fork into the folder you specified. You can now proceed to make your changes.
 
-this can be done by entering : 
+After making your changes locally, you will need to commit this on your local copy.
+
+This can be done by entering this to the Command Line Interface (CLI) : 
 ```prolog
 git add .
-git commit -m "<commit message here>"
+git commit -m "<explain your changes here>"
 ```
-However, in some editors (ie. Visual Studio Code), they provide a Git interface.
+However, some editors (ie. Visual Studio Code) may provide a Git interface.
 
-![Visual Studio code's Git Interface](10.JPG "Visual Studio's Git Interface")
-
-After Committing your changes, we need to sync this on GitHub, to be able to do this, Enter the following in your Command Line Interface (CLI) :
+After committing your changes, you need to push the commits to GitHub so everyone can see it. To do this, enter the following to your Command Line Interface:
 
 ```prolog
 git push origin <branch>
 ```
-It would prompt you to enter your login details, then it should push to GitHub.
+This should prompt you to enter your GitHub login credentials. After you enter them, this should push your commits to GitHub.
 
 _Note: However, If you're authentication details were saved in Git already, no prompt will appear and will proceed directly to push._
 
 ## Pull Requests
 
-After making your changes, you must make a "Pull Request" to be able for your changes to be made into the live osu!wiki.
+After pushing your commits, you must make a "Pull Request". This lets us know that your commits are ready to be reviewed.
+
 
 Go to the "Pull Requests" tab.
 
 ![Pull Request Tab](6.JPG "Pull Request Tab")
 
-This would lead you to the Pull Requests page.
+This would lead you to the pull requests page.
 
 ![PR UI](11.jpg "Pull Requests Page")
 
-This is the Pull Request Page. Now click on "New Pull Request"
+This is the Pull Request Page. Now click on "New pull request"
 
 ![Compare Changes Page](12.jpg "Comparing Changes")
 
-Now we want to compare ``ppy:master`` against your branch.
+We want to compare ``ppy:master`` against your branch.
 
-Now select where did you made your changes in "branch" beside your "head Fork".
+From here, select the branch that contains your commits besides your "head fork".
 
 ![Comparing Changes 2](13.jpg "Comparing Changes 2")
 
-_However if you made changes in your Master Branch, The Changes will be shown without changing anything in the head fork options_.
+_However, if you made changes in your master branch, the changes will be shown without the need to change anything in the head fork options._
 
 Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
 
-- **Title** : The Summary of the Changes you've made.
+- **Title** : the summary of the changes you have made
+  - Note: it is really important to have a meaningful and clear title, otherwise it will cause confusion
 
-- **Leave a Comment** : the Details of the changes you've made. 
+- **Leave a Comment** : the details of the changes you have made
 
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
 When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
 
-Your Changes must follow the [Article Styling Guidelines](/wiki/Article_Style_Guide/) to be able to get merged.
-
-**Your Commit Messages must also explain thoroughly your changes, otherwise, it would not get merged**.
+**Your commit messages must thoroughly explain your changes, otherwise, they will not get merged!**
 
 ## FAQ
 
@@ -164,13 +162,13 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
 ###  How would this differ from the old wiki?
 
-- We use GitHub for Collaboration. You can Make mass changes easily and efficiently and you can delay your changes as long as you like.
-- Unlike the old osu!wiki, Changes has to go Pull Requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
-- Linking is done Manually, and must be done using static linking.
-- **No Templates**. You must duplicate the Template and paste it accordingly to the article you are editing.
-- Deletion of Media is easier and requires no special wiki function. However, this has to go under go the Pull request Protocol and may cause Git Conflicts.
-- Tables are supported bare-minimum by GFM without requiring extensions, unlike Mediawiki. However, this does mean we need to code some tables in HTML in extreme cases.
-- Markdown is sensitive. any wrong capitalization can break things like static links.
+- We use GitHub for collaboration. You can make mass changes easily and efficiently and you can delay your changes as long as you like.
+- Unlike the old osu!wiki, Changes has to go pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
+- Linking is done manually, and must be done using static linking.
+- **No Templates**. You must duplicate the template and paste it accordingly to the article you are editing.
+- Deletion of media is easier and requires no special wiki function. However, this has to go under go the pull request protocol.
+- Tables are supported by a bare-minimum with GFM (without extensions), unlike MediaWiki. However, this does mean we will need to code some tables with HTML for extreme cases.
+- Markdown is sensitive. Using the wrong capitalization in links can break them (i.e. links and images).
 
 ### Can we use HTML?
 
@@ -178,5 +176,5 @@ We avoid to use HTML mostly in Wiki but in extreme cases, we allow HTML for Tabl
 
 
 ## Conclusion
-We hope this briefs you on how to contribute to the new osu!wiki. If you have any more questions
-you can inquire at the [osu!development Discord Server](https://discord.gg/ppy).
+We hope this briefs you on how to contribute to the new osu!wiki. If you have any questions,
+you can inquire at the [osu!dev Discord Server](https://discord.gg/ppy).
