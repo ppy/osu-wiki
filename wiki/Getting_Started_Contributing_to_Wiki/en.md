@@ -16,6 +16,7 @@ To be able to contribute to osu!wiki you must have the following :
 - A Markdown previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's built in Markdown previewers (If you plan to make changes locally).
 
 ## Creating a GitHub Account 
+
  To get started in contributing to osu!wiki, you must first sign up for a GitHub Account.
 
  Go to the [GitHub Homepage](https://github.com).
@@ -73,6 +74,8 @@ If you want to preview your changes, click the "Preview Changes" Tab. To go back
 After making your changes, scroll down and Fill the following fields to explain your edit(s) to other contributors.
 
 ![Commit Message](9.JPG "Commit Message")
+
+_**Note: Your Commit Messages must explain thoroughly your changes, otherwise, it would not get merged**._
 
 You would be given a option where to save your edits.
 
@@ -149,6 +152,8 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
 
 Your Changes must follow the [Article Styling Guidelines](/wiki/Article_Style_Guide/) to be able to get merged.
+
+**Your Commit Messages must also explain thoroughly your changes, otherwise, it would not get merged**.
 
 ## FAQ
 
