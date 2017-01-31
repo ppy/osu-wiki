@@ -159,5 +159,3 @@ Strony
 -   [Strona osu!droid](http://osudroid.com/) (offline)
 -   <http://bloodcat.com/osu/>
 -   [osu!MapDownloader](https://play.google.com/store/apps/details?id=com.myapp.downloader)
-
-[Category:Game Ports/PL](Category:Game_Ports/PL "wikilink") <Category:Guides/PL>

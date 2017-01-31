@@ -260,5 +260,3 @@ Créditos
 -   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](http://osu.ppy.sh/s/3756), [Tutorial não-oficial Ranqueado](http://osu.ppy.sh/s/19928))
 -   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)
-
-[Category:Game Modes/PT](Category:Game_Modes/PT "wikilink") <Category:Osu!Standard/PT>

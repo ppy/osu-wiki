@@ -2,7 +2,7 @@ How do I register?
 ------------------
 
 <center>
-**<font size="3">Please note that having more than one account at any time is an infringement of <span class="plainlinks"> \[<http://osu.ppy.sh/wiki/Osu>!:Rules osu! rules\]</span>. Follow the below steps to set up your osu! account.**
+**<font size="3">Please note that having more than one account at any time is an infringement of <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules osu! rules\]</span>. Follow the below steps to set up your osu! account.**
 </font>
 <span style="font-size:18px">1. On the <span class="plainlinks"> [main webpage](https://osu.ppy.sh)</span>, click "<b>I'm new!</b>" to start the registration process. </span>
 

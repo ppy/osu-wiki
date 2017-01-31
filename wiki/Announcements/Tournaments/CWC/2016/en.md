@@ -3,7 +3,7 @@ osu!catch World Cup 2016
 
 ![CWC 2016 logo](logo.png)
 
-The **osu!catch World Cup 2016** (***CWC 2016*** ) is a country-based osu!catch tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is the 5th installment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016*** ) is a country-based osu!catch tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 5th installment of the osu!catch World Cup.
 
 Tournament Schedule
 ----------------------
@@ -472,14 +472,14 @@ Ruleset
 2.  **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
 3.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md) bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) bracket.
 
 4.  Match schedule will be settled by the Tournament Management (see below).
 5.  If no staff or referee is available, the match will be postponed.
 6.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-7.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
+7.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 8.  If the beatmap ends in a draw, the game will be nullified.
 9.  If a player disconnects, they get treated as if they failed the map.
     1.  Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -492,7 +492,7 @@ Ruleset
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules/en.md). All chat rules apply to the multiplayer chatrooms, too.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     1.  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -516,7 +516,7 @@ Ruleset
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global osu!catch performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -582,7 +582,7 @@ Ruleset
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
 
-2.  Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md)
+2.  Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers)
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.
@@ -605,5 +605,3 @@ Ruleset
 
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-<Category:Tournaments><Category:Official Tournaments><Category:Catch the Beat Tournaments><Category:Catch the Beat World Cup>

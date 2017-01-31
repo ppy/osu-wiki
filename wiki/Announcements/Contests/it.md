@@ -92,10 +92,8 @@ Contest Fanart Mensile
 osu!store Contests
 ------------------
 
-**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](/wiki/osu!supporter/it.md)) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](/wiki/osu!supporter/it.md).
+**Nota:** Il vincitore ottiene il **osu! store pack** (1x , 1x , 1x , e [6 mesi di osu!supporter](/wiki/osu!supporter)) mentre il secondo/secondi arrivato/i otterranno [4 mesi di supporter](/wiki/osu!supporter).
 
 | Contest | Titolo                                        | Requisiti                                  | Vincitori | Notizie                                   | Risultati       |
 |---------|-----------------------------------------------|--------------------------------------------|-----------|-------------------------------------------|-----------------|
 | #1      | Mappa con gli sticker osu! Beatmap Blueprints | osu! Beatmap Blueprints ("Mappa Dovunque") | (WIN)     | [Notizie](//osu.ppy.sh/news/114095906408) | \[(Risultati)\] |
-
-<Category:History of osu!/IT>

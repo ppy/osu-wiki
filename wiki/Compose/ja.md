@@ -402,4 +402,3 @@ The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Sec
 **Example:** 1:57:745 kick.wav@100% means at 1 min 57 second 745th millisecond, trigger the "kick.wav" file at 100% volume regardless of condition.
 
 [If this doesn't tickle your fancy, you can always go for the hardcore SBS way.](JP:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
-

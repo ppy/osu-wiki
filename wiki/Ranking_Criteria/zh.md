@@ -140,5 +140,3 @@
 <!-- -->
 
 -   **上传者必须至少完成一个完整难度。** 若是其中有Collab难度，则所有Collab难度中上传者都必须参与。并且Guest mapper不能比上传者的贡献更多。让一个贡献不多的人上传map是没有道理的。
-
-[Category:Ranking Criteria/ZH](Category:Ranking_Criteria/ZH "wikilink") <Category:Beatmapping/ZH>

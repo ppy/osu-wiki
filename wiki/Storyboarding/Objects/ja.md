@@ -1,8 +1,11 @@
-![SBS Sprite](SBS Sprite.jpg "SBS Sprite")
+SB オブジェクト/スプライト
+========================
 
-*[osu!でのヒットオブジェクトに関しては](JP:Standard "wikilink")[Beatmappingと](JP:Beatmapping "wikilink")[Hit Objects](JP:Hit_Objects "wikilink")*を参照してください。
+![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
-[SBでの](JP:Storyboarding "wikilink")**Objects**はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](JP:Storyboard_Audio "wikilink")。
+*[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
+
+[SBでの](/wiki/Storyboarding)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboarding/Audio)。
 
 オブジェクトの定義
 ------------------
@@ -15,7 +18,7 @@
 
 Where:
 
--   **(layer)** は**オブジェクトが表示される[レイヤーを示します](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")。** 有効な値は以下のとおりです:
+-   **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboarding/Storyboard_Scripting_General_Rules)。** 有効な値は以下のとおりです:
     -   Background
     -   Fail
     -   Pass
@@ -50,7 +53,7 @@ Where:
     -   LoopForever (これを有効化するとデフォルトではアニメーションの最後のフレームが終わると最初のフレームに戻ります。)
     -   LoopOnce (こちらは最後のフレームが終わると停止し、最後の画像を表示させ続けます。)
 
-*オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](JP:Storyboard_Scripting_Commands "wikilink")。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
+*オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboarding/Storyboard_Scripting_Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
 
 具体例
 ------

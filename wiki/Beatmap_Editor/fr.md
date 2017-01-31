@@ -13,5 +13,3 @@ Articles liés
 -   [Espacement des notes](FR:Distance_Snap "wikilink")
 -   [Kiai Time](FR:Kiai_Time "wikilink")
 -   [Représentation du tempo](FR:Beat_Snap_Divisor "wikilink")
-
-<Category:Beatmapping/FR>

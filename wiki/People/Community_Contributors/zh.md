@@ -13,7 +13,7 @@
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | 开发了 [ osu! 回放系统](http://osu.ppy.sh/forum/t/108092) (将 .osr 回放文件录制成视频) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [ 谱面镜像下载站](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | 无数的客户端图像设计贡献及其它 |
-| [Ballance](https://osu.ppy.sh/u/165946) | [成就](https://osu.ppy.sh/wiki/Achievements) 的美术设计. |
+| [Ballance](https://osu.ppy.sh/u/165946) | [成就](/wiki/Achievements) 的美术设计. |
 | [akrolsmir](https://osu.ppy.sh/u/576800) | 开发了 [AIBat](http://osu.ppy.sh/forum/t/55305) 这个最受欢迎的第三方摸图工具 |
 | [statementreply](https://osu.ppy.sh/u/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多使用功能 |
 | [Loctav](https://osu.ppy.sh/u/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
@@ -21,9 +21,9 @@
 | [Piotrekol](https://osu.ppy.sh/u/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | 在 Bug 修复和新功能测试方面杰出的表现以及管理用户支持请求 |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | 3年多默默无闻而又不辞勤劳地管理 [谱面集合包](http://osu.ppy.sh/p/packlist) 并且在几年内管理了月度新谱面排名竞赛 |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](https://osu.ppy.sh/wiki/Storyboarding)使之成为了一种艺术 |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboarding)使之成为了一种艺术 |
 | [awp](https://osu.ppy.sh/u/2650) | 早期的社区管理并且在有限的时间中作出了巨大的贡献 |
-| [Sinistro](https://osu.ppy.sh/u/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](https://osu.ppy.sh/wiki/Global_Moderation_Team) 树立了一个非常高大的榜样 |
+| [Sinistro](https://osu.ppy.sh/u/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常高大的榜样 |
 | [Ivalset](https://osu.ppy.sh/u/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ### 2015年3月

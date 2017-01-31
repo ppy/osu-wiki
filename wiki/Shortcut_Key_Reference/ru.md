@@ -51,7 +51,7 @@
 -   **F3**: Опции карты
 -   **F5**: Обновить карты (переиндексация)
 -   **Shift-Delete**: Удалить текущую карту
--   **Ctrl-(1/2/3/4)**: Переключение между режимами ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania)
+-   **Ctrl-(1/2/3/4)**: Переключение между режимами ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania)
 -   **Ctrl-Enter**: Сыграть текущую карту с модом Auto
 -   **Ctrl-Shift-Enter**: Сыграть текущую карту с модом Cinema
 -   **Ctrl-A**: Включить мод Auto
@@ -67,26 +67,26 @@
 Выбор модов
 -----------
 
-Примечание: [Perfect](/wiki/Game_Modifiers#Perfect), [Nightcore](/wiki/Game_Modifiers#Nightcore) и Cinema требуют двойного нажатия
+Примечание: [Perfect](/wiki/Game_Modifiers), [Nightcore](/wiki/Game_Modifiers) и Cinema требуют двойного нажатия
 
--   **Q**: [Easy](/wiki/Game_Modifiers#Easy)
--   **W**: [No Fail](/wiki/Game_Modifiers#No_Fail)
--   **E**: [Half Time](/wiki/Game_Modifiers#Half_Time)
-
-------------------------------------------------------------------------
-
--   **A**: [Hard Rock](/wiki/Game_Modifiers#Hard_Rock)
--   **S**: [Sudden Death](/wiki/Game_Modifiers#Sudden_Death)
--   **D**: [Double Time](/wiki/Game_Modifiers#Double_Time)
--   **F**: [Hidden](/wiki/Game_Modifiers#Hidden)
--   **G**: [Flashlight](/wiki/Game_Modifiers#Flashlight)
+-   **Q**: [Easy](/wiki/Game_Modifiers)
+-   **W**: [No Fail](/wiki/Game_Modifiers)
+-   **E**: [Half Time](/wiki/Game_Modifiers)
 
 ------------------------------------------------------------------------
 
--   **Z**: [Relax](/wiki/Game_Modifiers#Relax)
--   **X**: [Auto Pilot](/wiki/Game_Modifiers#Auto_Pilot) (Random в режиме osu!mania)
--   **C**: [Spun Out](/wiki/Game_Modifiers#Spun_Out)
--   **V**: [Auto](/wiki/Game_Modifiers#Auto)
+-   **A**: [Hard Rock](/wiki/Game_Modifiers)
+-   **S**: [Sudden Death](/wiki/Game_Modifiers)
+-   **D**: [Double Time](/wiki/Game_Modifiers)
+-   **F**: [Hidden](/wiki/Game_Modifiers)
+-   **G**: [Flashlight](/wiki/Game_Modifiers)
+
+------------------------------------------------------------------------
+
+-   **Z**: [Relax](/wiki/Game_Modifiers)
+-   **X**: [Auto Pilot](/wiki/Game_Modifiers) (Random в режиме osu!mania)
+-   **C**: [Spun Out](/wiki/Game_Modifiers)
+-   **V**: [Auto](/wiki/Game_Modifiers)
 
 Режим игры
 ----------

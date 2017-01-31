@@ -146,5 +146,3 @@ Links
 -   [Informazioni generali e download](http://osu.ppy.sh/forum/t/62680)
 -   [osu!droid su Google Play](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
 -   [sito di osu!drodi](http://osudroid.com/) (non disponibile)
-
-[Category:Game Ports/IT](Category:Game_Ports/IT "wikilink")

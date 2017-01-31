@@ -377,5 +377,3 @@ Die eigenen Skin Hitsounds werden dafür verwendet.</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category: Gameplay/DE](Category:_Gameplay/DE "wikilink")

@@ -61,5 +61,3 @@
 <!-- -->
 
 -   **Все нестандартные хитсаунды должны относиться к игре на барабанах** и, по возможности, иметь различную тональность (для донов — ниже, для катов — выше).
-
-<Category:Guides/RU> <Category:Taiko/RU> [Category:Ranking Criteria/RU](Category:Ranking_Criteria/RU "wikilink") <Category:Beatmapping/RU>

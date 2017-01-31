@@ -439,5 +439,3 @@ Help
 </tr>
 </tbody>
 </table>
-
-<Category:Beatmapping>

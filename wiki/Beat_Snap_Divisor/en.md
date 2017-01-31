@@ -35,5 +35,3 @@ Green line: You.
 | Beat         | Double Triplets                            | Eighth Beats                                       | Twelveth Beats                               | Sixteenth Beats                               |
 | Tick notes   | Has two purple ticks between each red tick | Adds yellow ticks, in addition to the red and blue |                                              |                                               |
 | Notes        | Compound timing                            |                                                    |                                              |                                               |
-
-[Category:Edit mode](Category:Edit_mode "wikilink")

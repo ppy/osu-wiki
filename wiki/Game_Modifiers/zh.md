@@ -467,5 +467,3 @@ Visual Settings
 </tr>
 </tbody>
 </table>
-
-[Category: Gameplay/ZH](Category:_Gameplay/ZH "wikilink") [Category:Translation Request](Category:Translation_Request "wikilink")

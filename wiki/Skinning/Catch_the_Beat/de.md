@@ -135,5 +135,3 @@ Früchte
 | fruit-pear.ong            | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="True.png" title="True.png" alt="True.png" width="15" /> | <img src="fruit-pear.png" title="fruit-pear.png" alt="fruit-pear.png" height="50" />                                  |                                    |
 | fruit-pear-overlay.png    | <img src="False.png" title="False.png" alt="False.png" width="15" /> | <img src="True.png" title="True.png" alt="True.png" width="15" /> | <img src="fruit-pear-overlay.png" title="fruit-pear-overlay.png" alt="fruit-pear-overlay.png" height="50" />          |                                    |
 ||
-
-<Category:Deutsch> <Category:Skinning/DE> [Category:Catch the Beat/DE](Category:Catch_the_Beat/DE "wikilink")

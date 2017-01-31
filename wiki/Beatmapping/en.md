@@ -335,5 +335,3 @@ Here's a list of them:
 |    **Ctrl + Mouse Wheel**    |
 |     **Alt + Mouse Wheel**    |
 |           **Drag**           |
-
-<Category:Beatmapping>

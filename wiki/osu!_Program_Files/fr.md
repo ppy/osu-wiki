@@ -129,4 +129,3 @@ Les fichiers de configurations ou fichiers CFG configurent les paramètres initi
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 
 -   ![Logo](logo.png "Logo") osu!.exe (Démarre osu!)
-

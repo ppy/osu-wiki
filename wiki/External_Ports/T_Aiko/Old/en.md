@@ -127,5 +127,3 @@ Links
 -   [Official forum post](http://osu.ppy.sh/forum/t/58640)
 -   [T-Aiko! at Google Play](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 -   [T-Aiko! forum page](http://osudroid.com/forum/viewforum.php?f=12) (Dead)
-
-[Category:Game Ports](Category:Game_Ports "wikilink")

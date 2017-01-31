@@ -554,5 +554,3 @@ osu!tablet и osu!keyboard
 [Отсюда](https://puu.sh/ii9Kb/f3ec24c1c4/nono-1.0a.zip). Извлеките её куда-нибудь и запустите файл `Nosumor.exe`.
 
 Если у Вас возникли какие-то проблемы, свяжитесь с **<accounts@ppy.sh>**
-
-<Category:Russian>

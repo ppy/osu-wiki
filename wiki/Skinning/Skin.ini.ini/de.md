@@ -160,5 +160,3 @@ skin.ini im Skin ohne Wert = latest</p></td>
 
 \[Mania\]
 ---------
-
-<Category:Deutsch> <Category:Skinning/DE>

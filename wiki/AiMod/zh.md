@@ -109,5 +109,3 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 ..at least xxx diff(s)的xxx可能代表的信息：1 easy/normal（需要1个easy或者normal的难度）、2 standard（需要2个难度）
 
 级别：警告
-
-<Category:Beatmapping/ZH> <Category:Modding/ZH>

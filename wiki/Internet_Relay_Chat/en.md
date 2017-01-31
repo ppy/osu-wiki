@@ -98,4 +98,3 @@ What is this voice status that I have? I also see some people having it.
 Users with voice (prefix +) status are connected using an IRC client (except the chat moderators who have *operator (prefix @)* status).
 
 Users who have no mode are basically who are connected using the game client.
-

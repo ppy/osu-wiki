@@ -93,5 +93,3 @@
 | 8K                 | Dance Dance Revolution (Double)    |
 | 8K(R)              | Beatmania IIDX(P2)                 |
 | 8K (L)             | Beatmania IIDX(P1)                 |
-
-<Category:Guides/RU> <Category:Osu!mania/RU> [Category:Ranking Criteria/RU](Category:Ranking_Criteria/RU "wikilink") <Category:Beatmapping/RU>

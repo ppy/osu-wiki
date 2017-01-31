@@ -260,4 +260,4 @@ I giocatori verranno indirazzati qui appena finita una Beatmap, salvo eccezioni.
 </tbody>
 </table>
 
-<!-- <Category:Gameplay/IT> -->
+<!--  -->

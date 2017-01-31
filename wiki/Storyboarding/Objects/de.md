@@ -1,6 +1,9 @@
-![Aufruf von Objekten/Sprites im SB](SBS Sprite.jpg "Aufruf von Objekten/Sprites im SB")
+Storyboard Scripting - Objekte
+=================================
 
- Beim [Storyboarding](DE:Storyboarding "wikilink") sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](DE:Storyboard_Audio "wikilink") noch einen eigenen Artikel dazu.  |
+![Aufruf von Objekten/Sprites im SB](SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
+
+ Beim [Storyboarding](/wiki/Storyboarding) sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](/wiki/Storyboard/Audio) noch einen eigenen Artikel dazu.  |
 
 Definition von Objekten
 -----------------------
@@ -11,7 +14,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 | ----------- | ------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
--   **(layer)** (eng. für Ebene) ist die **[Ebene](DE:Storyboard_Scripting_-_allgemeine_Regeln#Ebenen "wikilink") auf denen Objekte erscheinen.** Erlaubte Werte sind:
+-   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboarding/Storyboard_Scripting_General_Rules) auf denen Objekte erscheinen.** Erlaubte Werte sind:
     -   Background
     -   Fail
     -   Pass
@@ -52,7 +55,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
     -   LoopForever (Standardwert, wenn kein Wert eingegeben ist; die Animation fängt nach der letzten Frame wieder von vorne an)
     -   LoopOnce (die Animation endet nach dem letzten Frame und zeigt den letzten Frame weiter an; nützlich für Animationen, die sich rotieren sollen)
 
-Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird*. Das kommt ganz auf [die Befehle selbst](Storyboard_Scripting_-_Befehle "wikilink") an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
+Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird*. Das kommt ganz auf [die Befehle selbst](/wiki/Storyboarding/Storyboard_Scripting_Commands) an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
 
 Beispiele
 ---------
@@ -70,5 +73,3 @@ Dadurch wird ein Bild (Sprite) deklariert, was sich auf die "Play2-HaveFunH.png"
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
 Die Deklarierung einer Animation, dessen Frames als "explosion0.png", "explosion1.png", ..., "explosion11.png" im Ordner "Play3" in dem Unterordner "Other" zu finden sind. Das Bild erscheint im unteren, mittigen Feld (418,108) in der Fail Ebene auf dem Bildschirm. Die Animation besteht aus 12 Frames (deshalb wird der letzte Frame auch "explosion11.png" genannt) und Frames wechseln alle 31 Millisekunden (31 \* 12 = 372 Millisekunden für eine komplette Animation). Nachdem der letzte Frame für 31 Millisekunden angezeigt wurde, fängt die Animation wieder von vorne an und zwar solange bis das Objekt entfernt wird.
-
-(Category:Deutsch)

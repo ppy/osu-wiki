@@ -1,12 +1,22 @@
-**ปฐมลิขิต**: แปลมาจาก[ต้นฉบับอันนี้](https://osu.ppy.sh/wiki/Short_Rules)
+Short Rules - Thai
+=====================
 
-![](RulesTH1.PNG "fig:RulesTH1.PNG") ![](RulesTH2.PNG "fig:RulesTH2.PNG") ![](RulesTH3.PNG "fig:RulesTH3.PNG") ![](RulesTH4.PNG "fig:RulesTH4.PNG") ![](RulesTH5.PNG "fig:RulesTH5.PNG") ![](RulesTH6.PNG "fig:RulesTH6.PNG") ![](RulesTH7.PNG "fig:RulesTH7.PNG") ![](RulesTH8.PNG "fig:RulesTH8.PNG") ![](RulesTH9.PNG "fig:RulesTH9.PNG") ![](RulesTH10.PNG "fig:RulesTH10.PNG") ![](RulesTH11.PNG "fig:RulesTH11.PNG") ![](RulesTH12.PNG "fig:RulesTH12.PNG") ![](RulesTH13.PNG "fig:RulesTH13.PNG")
+**ปฐมลิขิต**: แปลมาจาก[ต้นฉบับอันนี้](/wiki/Rules/Short)
 
-|              |
-|--------------|
-| **ทิ้งท้าย** |
+![Introduction](/wiki/Rules/Short/img/RulesTH1.png "Introduction")
+![Rule 1](/wiki/Rules/Short/img/RulesTH2.png "Rule 1")
+![Rule 2](/wiki/Rules/Short/img/RulesTH3.png "Rule 2")
+![Rule 3](/wiki/Rules/Short/img/RulesTH4.png "Rule 3")
+![Rule 4](/wiki/Rules/Short/img/RulesTH5.png "Rule 4")
+![Rule 5](/wiki/Rules/Short/img/RulesTH6.png "Rule 5")
+![Introduction 2](/wiki/Rules/Short/img/RulesTH7.png "Introduction")
+![Advice 1](/wiki/Rules/Short/img/RulesTH8.png "Advice 1")
+![Advice 2](/wiki/Rules/Short/img/RulesTH9.png "Advice 2")
+![Advice 3](/wiki/Rules/Short/img/RulesTH10.png "Advice 3")
+![Advice 4](/wiki/Rules/Short/img/RulesTH11.png "Advice 4")
+![Advice 5](/wiki/Rules/Short/img/RulesTH12.png "Advice 5")
+![The End](/wiki/Rules/Short/img/RulesTH13.png "The End")
 
-|                                                                                       |
-|---------------------------------------------------------------------------------------|
-| [กฎฉบับเต็ม (ยาวมาก)](TH:Rules "wikilink") [เรียนรู้ที่จะเล่น](TH:Welcome "wikilink") |
-
+**ทิ้งท้าย**
+- [กฎฉบับเต็ม (ยาวมาก)](/wiki/Rules)
+- [เรียนรู้ที่จะเล่น](/wiki/Welcome)

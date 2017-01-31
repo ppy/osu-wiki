@@ -15,5 +15,3 @@ Zusammenhängende Artikel
 -   [Distance Snap](DE:Distance_Snap "wikilink")
 -   [Custom Sample Overrides](DE:Custom_Sample_Overrides "wikilink")
 -   [Kiai Time](DE:Kiai_Time "wikilink")
-
-<Category:Beatmapping/DE> <Category:Deutsch>

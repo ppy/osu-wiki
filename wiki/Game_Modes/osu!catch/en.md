@@ -6,7 +6,7 @@ osu!catch, previously well known as "Catch the Beat" or "CTB", is a game mode th
 
 ## Score
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game-Modes/osu!/en.md).
+Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_Modes/osu!).
 However, the fruit that adds up your score is different from osu!stanard.
 
 A regular sized fruit gives a score of 300 times the multiplier. While a large juice drop gives a score of 100.
@@ -77,7 +77,7 @@ If you use the API to calculate the accuracy, number of droplets is under count5
 Here are the possible grades:
 
 -   SS: 100.00% Accuracy
--   S: 98.01% to 99.99% Accuracy (You can have an S-rank even if you make several misses, just like in [osu!mania](/wiki/Game-Modes/osu!mania/en.md))
+-   S: 98.01% to 99.99% Accuracy (You can have an S-rank even if you make several misses, just like in [osu!mania](/wiki/Game_Modes/osu!mania))
 -   A: 94.01% - 98.00% Accuracy
 -   B: 90.01% - 94.00% Accuracy
 -   C: 85.01% - 90.00% Accuracy
@@ -102,5 +102,3 @@ Players will be forced to move slowly on a track going left for about a second, 
 ## Trivia
 
 -    Until April 10, 2012, osu!catch maps could not be ranked or be included in ranked maps. However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines. These guidelines are very much a work in progress, but as more CTB maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
-
-[Category:Catch The Beat](Category:Catch_The_Beat "wikilink")

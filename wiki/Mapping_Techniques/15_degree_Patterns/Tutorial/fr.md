@@ -15,5 +15,3 @@
 <img src="H15dP_2.jpg" title="H15dP_2.jpg" alt="H15dP_2.jpg" width="600" />
 
 4) C'est fait.
-
-<Category:French> [Category:Mapping Techniques/FR](Category:Mapping_Techniques/FR "wikilink")

@@ -14,5 +14,3 @@ Bagian timing turunan ditunjukkan sebagai garis hijau di dalam editor. Garis hij
 Dua tipe bagian timing ini biasanya disebut sebagai offset merah dan offset hijau berturutan.
 
 --[Raxar](User:Raxar "wikilink") 16:16, 6 December 2011 (WST) --[Sumatran](User:Sumatran "wikilink") 16:49, 6 December 2011 (WST)
-
-<Category:Beatmapping/ID> [Category:Edit mode/ID](Category:Edit_mode/ID "wikilink")

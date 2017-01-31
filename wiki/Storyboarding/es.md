@@ -1,3 +1,6 @@
+Storyboarding - Spanish
+========================
+
 ***Artículo original aquí***
 
 El **Storyboard** (SB) es un fondo animado, hecho a medida en las resoluciones de 640x480 ó 1366x768 (por la reciente llegada de storyboarding en pantalla panorámica) que acompaña a un beatmap. Normalmente se ocupa para propósitos decorativos pero en algunos casos puede cambiar la experiencia de juego. Un storyboard puede estar compuesto por cualquier cosa, pero normalmente consiste de un conjunto de efectos visuales para hacer que el beatmap se vea estéticamente más agradable y distintivo para los jugadores. Los storyboards están inspirados de los fondos animados de Osu! Tatakae! Ouendan. Es posible ajustar el Storyboard según al rendimiento del jugador y mostrar diferentes cosas dependiendo de si el jugador falla o acierta. Los storyboards se guardan en archivos con la extensión de ".osb".
@@ -14,7 +17,7 @@ Jugadores más hábiles en la creación de storyboards normalmente usan el "back
 Storyboards Completos
 ---------------------
 
-Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankeados con storyboards es [bastante larga](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1), por lo tanto esta página solo alista Beatmaps que tienen un storyboard "completo". Si quieres ver más, ve a [la lista completa.](ES:Storyboarding/Maps)
+Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankeados con storyboards es [bastante larga](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1), por lo tanto esta página solo alista Beatmaps que tienen un storyboard "completo". Si quieres ver más, ve a [la lista completa.](/wiki/Storyboarding/Maps)
 
 ### Storyboards
 
@@ -46,6 +49,4 @@ Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankea
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-Otros buenos beatmaps pueden ser encontrados en [aquí](ES:Storyboarding/Maps).
-
-<Category:Storyboarding/ES>
+Otros buenos beatmaps pueden ser encontrados en [aquí](/wiki/Storyboarding/Maps).

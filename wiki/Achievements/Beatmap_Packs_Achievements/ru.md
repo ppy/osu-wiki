@@ -1,7 +1,7 @@
 Achievements/Packs0916 - Russian
 ==================================
 
-***[Вернуться к описанию достижений](/wiki/Achievements/ru.md)***
+***[Вернуться к описанию достижений](/wiki/Achievements)***
 
 Оригинальные тематические архивы карт прямиком из 2009 до их обновления [Stefan'ом 16 января 2016](http://osu.ppy.sh/news/137535031193).
 
@@ -362,7 +362,7 @@ Video Game Music Pack
 * [Crush 40 - Sonic Heroes](http://osu.ppy.sh/s/21836)
 * [Anamanaguchi - Scott Pilgrim Anthem](http://osu.ppy.sh/s/23073)
 
-<Category: Russian>
+
 
 [media-anime-vol-1]: http://www.mediafire.com/?9n65pm9fp8yp5bn
 [media-anime-vol-2]: http://www.mediafire.com/?722os55j52ikylq

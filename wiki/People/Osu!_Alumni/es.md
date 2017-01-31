@@ -185,5 +185,3 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | BAT |
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |
-
-<Category:People/ES>

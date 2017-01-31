@@ -56,7 +56,7 @@ Premiações
 Veja também
 -----------------
 
--   [Lista de países que já participaram de torneios](/wiki/Countries-that-participated-in-osu!-tournaments/pt.md)
+-   [Lista de países que já participaram de torneios](/wiki/Countries_that_participated_in_osu!_tournaments)
 
 Apresentações
 ---------------

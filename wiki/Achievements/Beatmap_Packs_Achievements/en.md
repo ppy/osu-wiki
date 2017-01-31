@@ -1,7 +1,7 @@
 Achievements/Packs0916
 =========================
 
-***[Click here to return to the "Achievements" page](/wiki/Achievements/en.md)***
+***[Click here to return to the "Achievements" page](/wiki/Achievements)***
 
 Legacy/Original themed packs packed during osu! infancy years (2009) before being updated by [Stefan in 16 January 2016](http://osu.ppy.sh/news/137535031193).
 

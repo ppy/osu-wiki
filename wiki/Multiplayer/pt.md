@@ -324,4 +324,4 @@ Players will be directed here after the beatmap is completed unless stated other
 </tbody>
 </table>
 
-<!-- <Category:Gameplay/PT> -->
+<!--  -->

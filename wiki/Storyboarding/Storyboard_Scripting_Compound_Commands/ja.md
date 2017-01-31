@@ -1,20 +1,24 @@
+Storyboard Scripting Compound Commands - Japanese
+=========================================
+
 これらは単体では動作をしない複合的なコマンドです。代わりに対象ページに書かれている**他のイベントが起きる条件**が揃えば、セットで書かれているコードが動作するようになります。
 
 Loop (L) ループ コマンド
-========================
+------------------------------
 
-[SBにおいていくつかの同じ](JP:Storyboarding "wikilink")[エフェクトが何度か起こることはよくあります](JP:Storyboard_Scripting_Commands "wikilink")。
+[SBにおいていくつかの同じ](/wiki/Storyboarding)[エフェクトが何度か起こることはよくあります](/wiki/Storyboarding/Storyboard_Scripting_Commands)。
 
 例えば特定のプレイタイムでフェードインとフェードアウトをオブジェクトが繰り返している場合などは、**ループ** コマンドを使用するのがベストです。
 
-使用法
-------
+### 使用法
 
 ループは1つのオブジェクト内、複数ではないオブジェクトにおいて行われます。そしてこれらは特別なコマンドの形式として扱われます。
 
-`_L,(starttime),(loopcount)`
-`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
-`// More events allowed`
+```
+_L,(starttime),(loopcount)
+__(event),(easing),(relative_starttime),(relative_endtime),(params...)
+// More events allowed
+```
 
 場所について:
 
@@ -23,15 +27,16 @@ Loop (L) ループ コマンド
 -   (relative_starttime) はloopの開始時を0とした時の相対的な**反復させたいエフェクトの開始位置**
 -   (relative_endtime)はloopの開始時を0とした時の相対的な**反復させたいエフェクトの終了位置**
 
-使用例
-------
+### 使用例
 
 開始位置60000から、フェードインとアウトを1秒(1000ms)周期でトータル30秒間(30000ms)エフェクトをループさせたい場合(要するに30ループ)、
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_L,60000,30`
-`__F,0,0,500,0,1`
-`__F,0,500,1000,1,0`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_L,60000,30
+__F,0,0,500,0,1
+__F,0,500,1000,1,0
+```
 
 1行目は対象とする画像の定義、座標
 
@@ -46,23 +51,24 @@ Loop (L) ループ コマンド
 3行目の時と同様に60000に500を足した数値と1000を足した数値にそれぞれエフェクト。要するに60500(+500)から61000(+1000)でフェードアウト効果が入る
 
 Trigger (T) トリガー コマンド
-=============================
+-------------------------------
 
-普段は[Pass/Fail layersと同じように](JP:Storyboard_Scripting_General_Rules#レイヤー "wikilink")"沈黙"しているレイヤーですが、**発動条件** を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](JP:Storyboard_Scripting_Commands "wikilink")。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
+普段は[Pass/Fail layersと同じように](/wiki/Storyboarding/Storyboard_Scripting_General_Rules)"沈黙"しているレイヤーですが、**発動条件** を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](/wiki/Storyboarding/Storyboard_Scripting_Commands)。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
 
-使用法
-------
+### 使用法
 
 Triggers take the form:
 
-`_T,(triggerType),(starttime),(endtime)`
-`__(event),(easing),(relative_starttime),(relative_endtime),(params...)`
-`// More events allowed`
+```
+_T,(triggerType),(starttime),(endtime)
+__(event),(easing),(relative_starttime),(relative_endtime),(params...)
+// More events allowed
+```
 
 where:
 
 -   (triggerType)は発動条件を示し、以下の一つが当てはまります:
-    -   HitSoundClap (Clap[ヒットサウンドが鳴った時](JP:Hitsounds "wikilink"))
+    -   HitSoundClap (Clap[ヒットサウンドが鳴った時](/wiki/Glossary))
     -   HitSoundFinish (Finishが鳴った時)
     -   HitSoundWhistle (Whistleが鳴った時)
     -   Passing (Fail状態からPass状態へ変化した時)
@@ -76,18 +82,19 @@ where:
 
 ただし別のトリガーが実行中にトリガーが発生した場合、以前のトリガーは消滅し、代わりに新しいトリガーが動作します。
 
-使用例
-------
+### 使用例
 
 SBで指定した条件(Pass/Fail)が満たされた時、20000から40000の間でLargeWhiteImage.png(大きな白い画像)が画面全体に表示されます。
 
-`Sprite,Foreground,Centre,"LargeWhiteImage.png",320,240`
-`_T,Passing,20000,40000`
-`__F,0,0,500,1`
-`__F,0,500,501,0`
-`_T,Failing,20000,40000`
-`__F,0,0,500,1`
-`__F,0,500,501,0`
+```
+Sprite,Foreground,Centre,"LargeWhiteImage.png",320,240
+_T,Passing,20000,40000
+__F,0,0,500,1
+__F,0,500,501,0
+_T,Failing,20000,40000
+__F,0,0,500,1
+__F,0,500,501,0
+```
 
 1行目は対象とする画像の定義、座標
 

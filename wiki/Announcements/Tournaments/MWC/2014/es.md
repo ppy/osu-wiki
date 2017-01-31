@@ -282,7 +282,7 @@ Reglamento
 5.  Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
     -   Revivir y sobrevivir durante un map es considerado como pasarlo.
 
-6.  Está permitido usar las opciones de [Configuración Visual](/wiki/Game_Modifiers/es.md).
+6.  Está permitido usar las opciones de [Configuración Visual](/wiki/Game_Modifiers).
 7.  Si la partida termina en un empate, la partida será anulada.
 8.  Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
 9.  Los beatmaps no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.
@@ -294,5 +294,3 @@ Reglamento
 13. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 4:0, +1.0 diferencia de puntajes.
 14. Los incidentes inesperados están a cargo del tournament management.
 15. Se dará a conocer cualquier modificación a estas reglas.
-
-<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:osu!mania Tournaments/ES><Category:osu!mania World Cup/ES>

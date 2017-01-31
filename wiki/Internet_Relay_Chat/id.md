@@ -101,4 +101,3 @@ Bisakah saya menggunakan nama pengenal lain?
 --------------------------------------------
 
 Tidak. Kamu hanya bisa menggunakan nama pengenal yang kamu gunakan di dalam game.
-

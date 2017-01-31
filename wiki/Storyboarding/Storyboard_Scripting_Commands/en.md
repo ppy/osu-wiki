@@ -1,4 +1,7 @@
- Each [object declaration](Storyboard_Objects "wikilink") is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
+Storyboard Scripting Commands
+=============================
+
+Each [object declaration](/wiki/Storyboarding/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
 A command under an object declaration looks like:
 
@@ -47,15 +50,15 @@ where:
 -   (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
 -   (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
-An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F). (img src="SBS Base C.jpg" title="fig: Setting a(n) sprite/object with their commands to do (Event)." alt=" Setting a(n) sprite/object with their commands to do (Event)." width="200" /)
+An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
+![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 Basic command
-=============
+-------------------
 
 These are the fundamental command for any object. The command are easy to use and only requires minor calculation.
 
-Fade (F) Command
-----------------
+### Fade (F) Command
 
 `_F,(easing),(starttime),(endtime),(start_opacity),(end_opacity)`
 
@@ -70,21 +73,24 @@ where:
 
 For example, to fade an object in 1 second (starting at 1 second after the map starts), wait 2 seconds at half-transparency, and then fade out in 1 second, we would write something like:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_F,0,1000,2000,0,0.5`
-`_F,0,4000,5000,0.5,0`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_F,0,1000,2000,0,0.5
+_F,0,4000,5000,0.5,0
+```
 
 If we want an object to just appear on screen and nothing to happen to it for 2 seconds, we could write:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_F,0,1000,3000,1,1`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_F,0,1000,3000,1,1
+```
 
 See the shorthand section for an explanation of how to shorten this last line to just:
 
 `_F,0,1000,3000,1`
 
-Move (M) Command
-----------------
+### Move (M) Command
 
 `M,(easing),(starttime),(endtime),(start_x),(start_y),(end_x),(end_y)`
 
@@ -99,27 +105,31 @@ where:
 
 For example, to move an object across the screen from the top left to bottom right (assuming the image is less than 200 pixels wide, otherwise it will appear to pop in and pop out of existence at the endpoints):
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_M,0,1500,6000,-110,-100,740,580`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_M,0,1500,6000,-110,-100,740,580
+```
 
 So,
 
 -   x-coordinate: (320 overwritten with) -110 -> 740
 -   y-coordinate: (240 overwritten with) -100 -> 580
 
-### Move X (MX) Command
+#### Move X (MX) Command
 
 Like Move, but only changes X-coordinate. Y-coordinate stays the same. For example, to move an object from the left of the screen to the right:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_MX,0,1500,6000,-110,740`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_MX,0,1500,6000,-110,740
+```
 
 So,
 
 -   x-coordinate: (320 overwritten with) -110 -> 740
 -   y-coordinate: 240
 
-### Move Y (MY) Command
+#### Move Y (MY) Command
 
 Like Move, but only changes Y-coordinate. X-coordinate stays the same. For example, to move an object from the bottom of the screen to the top:
 
@@ -132,12 +142,11 @@ So,
 -   y-coordinate: (240 overwritten with) -100 -> 580
 
 Advanced command
-================
+-----------------
 
 These are extra command for an object to use. These command are quite advanced, so consult with others or experiment yourself before use.
 
-Scale (S) Command
------------------
+### Scale (S) Command
 
 `_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale>`
 
@@ -152,14 +161,16 @@ where:
 
 For example, to have an object "zoom" (e.g., a background) from nothing to five times its original size:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_S,0,36500,37000,0,5`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_S,0,36500,37000,0,5
+```
 
 So,
 
 -   Assuming the image is 100x100, it will enlarge to 500x500.
 
-### Vector Scale (V) Command
+#### Vector Scale (V) Command
 
 This is the same as S, except X and Y scale separately.
 
@@ -167,15 +178,16 @@ This is the same as S, except X and Y scale separately.
 
 For example, to have an object widen to two times its original size, but lose half of its vertical size:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_V,0,36500,37000,1,1,2,0.5`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_V,0,36500,37000,1,1,2,0.5
+```
 
 So,
 
 -   Assuming the image is 100x100, it will enlarge to 200x50.
 
-Rotate (R) Command
-------------------
+### Rotate (R) Command
 
 `_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate>`
 
@@ -190,16 +202,19 @@ where:
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_R,0,47210,47810,-0.785,0.785`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_R,0,47210,47810,-0.785,0.785
+```
 
 Or to have an object spin counterclockwise four times (4 rotations = 8\*pi radians = 25.133 radians):
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_R,0,47210,47810,0,-25.133`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_R,0,47210,47810,0,-25.133
+```
 
-Color / Colour (C) Command
---------------------------
+### Color / Colour (C) Command
 
 `_C,(easing),(starttime),(endtime),(start_r),(start_g),(start_b),(end_r),(end_g),(end_b)`
 
@@ -214,19 +229,22 @@ where:
 
 For example, to make an object appear as a shadow (entirely black) and fade into its actual color:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_C,0,58810,59810,0,0,0,255,255,255`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_C,0,58810,59810,0,0,0,255,255,255
+```
 
 To make something appear in (span style="background:#CCCC00")this yellow color(/span):
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_C,0,58810,59810,CC,CC,0`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_C,0,58810,59810,CC,CC,0
+```
 
 Extra command
-=============
+-----------------
 
-Parameter (P) Command
----------------------
+### Parameter (P) Command
 
 Unlike the other commands, which can be seen as setting endpoints along continually-tracked values, the Parameter command apply ONLY while they are active, i.e.,you can't put a command from timestamps 1000 to 2000 and expect the value to apply at time 3000, even if the object's other commands aren't finished by that point.
 
@@ -240,14 +258,16 @@ where (parameter) is one of the following:
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
 
-`Sprite,Pass,Centre,"Sample.png",320,240`
-`_P,0,60000,62000,H`
-`_P,0,60000,62000,V`
+```
+Sprite,Pass,Centre,"Sample.png",320,240
+_P,0,60000,62000,H
+_P,0,60000,62000,V
+```
 
 Compound Commands
-=================
+-------------------
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 
--   [Loop (L) Command](Storyboard_Loops)
--   [Trigger (T) Command](Storyboard_Triggers)
+-   [Loop (L) Command](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)
+-   [Trigger (T) Command](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)

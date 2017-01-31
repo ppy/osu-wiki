@@ -1,4 +1,7 @@
-Ta strona zawiera wszystko, co potrzebujesz wiedzieć o niedozwolonych rzeczach na [osu!](PL:Osu! "wikilink"). Znajdują się tu dokładne informacje porozmieszczane w kategorie dotyczące każdego aspektu społecznościowego:
+Zasady
+=========
+
+Ta strona zawiera wszystko, co potrzebujesz wiedzieć o niedozwolonych rzeczach na [osu!](/wiki/Glossary). Znajdują się tu dokładne informacje porozmieszczane w kategorie dotyczące każdego aspektu społecznościowego:
 
 Zasady ogólne
 -------------
@@ -22,14 +25,14 @@ Zasady dot. forum
 8.  Reklamy i linki polecające są bezwzględnie zabronione.
 9.  Żadna treść (wliczając filmiki na YouTube) nie może być automatycznie odtwarzana po załadowaniu strony.
 
-Zasady dot. forum [BSS](PL:BSS "wikilink")
+Zasady dot. forum [BSS](/wiki/Glossary)
 ------------------------------------------
 
-Te zasady dotyczą ściśle wątków poświęconych [BSS](PL:BSS "wikilink") ([Beatmap](PL:Beatmap "wikilink") Submission System). Wątki te tworzone są za pomocą klienta osu! w momencie wysłania mapy przez edytor.
+Te zasady dotyczą ściśle wątków poświęconych [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System). Wątki te tworzone są za pomocą klienta osu! w momencie wysłania mapy przez edytor.
 
-1.  Nie twórz wątku w [Pending Submissions](PL:Pending "wikilink") (mapy czekające na akceptację) ani w [WIP](PL:WIP "wikilink") (mapy w trakcie tworzenia). Użyj odpowiedniego podforum podczas tworzenia wątku. (To oczywiście wyklucza wątki BSS.)
+1.  Nie twórz wątku w [Pending Submissions](/wiki/Beatmaps) (mapy czekające na akceptację) ani w [WIP](/wiki/Glossary) (mapy w trakcie tworzenia). Użyj odpowiedniego podforum podczas tworzenia wątku. (To oczywiście wyklucza wątki BSS.)
 2.  Nie poruszaj tematów niezwiązanych z BSS w wątkach ich dotyczących. Wątki BSS dotyczą tylko i wyłącznie beatmap. Jeśli masz jakiś problem niezwiązany bezpośrednio z daną beatmapą, załóż temat na odpowiednim forum.
-3.  Nie kradnij cudzych beatmap udając, podszywając się pod ich. Nie wysyłaj oraz nie wykorzystuj pracy innych ludzi bez ich zgody (mowa tutaj o skinach oraz [Guest\_Difficulty](PL:Guest_Difficulty "wikilink") i nie tylko).
+3.  Nie kradnij cudzych beatmap udając, podszywając się pod ich. Nie wysyłaj oraz nie wykorzystuj pracy innych ludzi bez ich zgody (mowa tutaj o skinach oraz Guest_Difficulty i nie tylko).
 
 Zasady dot. sekcji Off-Topic
 ----------------------------
@@ -46,14 +49,11 @@ Zasady dot. IRC
 3.  Publiczna rozmowa na tematy +18 jest zakazana przez zasadę ogólną nr 5. Prywatne rozmowy nie są ograniczone przez tę zasadę.
 4.  Jakiekolwiek linki do zewnętrznej treści (filmiki, zdjęcia, tematy itp.) nie mogą zawierać elementów epileptycznych (migoczące światła itd.).
 5.  Podszywanie się pod kogokolwiek, a w szczególności moderatorów, jest zabronione.
-6.  Nie zapraszaj do gier wieloosobowej nigdzie poza \#lobby.
+6.  Nie zapraszaj do gier wieloosobowej nigdzie poza #lobby.
 7.  Rozmowa na temat oszustw oraz innych nadużyć gry jest zakazana.
-
-:\# Rozmowa na temat zbanowanych graczy jest również zakazana
-
-1.  Na kanałach z określonym językiem rozmawiaj w tym, który przeważa w dyskusji. Na kanałach, gdzie język nie jest określony, rozmawiamy po angielsku. Kanały językowe mówią same za siebie. Pisz po chińsku na \#chinese, japońsku na \#japanese, francusku na \#french i tak dalej.
-
-:\# Moderatorzy mogą rozmawiać po angielsku na kanałach z wyznaczonym językiem, jeżeli uznają to za konieczne, by rozwiązać problemy.
+  1. Rozmowa na temat zbanowanych graczy jest również zakazana
+8.  Na kanałach z określonym językiem rozmawiaj w tym, który przeważa w dyskusji. Na kanałach, gdzie język nie jest określony, rozmawiamy po angielsku. Kanały językowe mówią same za siebie. Pisz po chińsku na #chinese, japońsku na #japanese, francusku na #french i tak dalej.
+  1. Moderatorzy mogą rozmawiać po angielsku na kanałach z wyznaczonym językiem, jeżeli uznają to za konieczne, by rozwiązać problemy.
 
 Zasady dot. klienta gry
 -----------------------

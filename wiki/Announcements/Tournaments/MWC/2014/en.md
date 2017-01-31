@@ -539,7 +539,7 @@ Ruleset
 5.  Failed player's score do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -629,5 +629,3 @@ Ruleset
 4.  All Knock-Out Stages will be held on either Saturday or Sunday per bracket (refer to Tournament Schedule).
 5.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3rd Aug for Group Stage (4K)). Tournament Management will try to create the schedule to respect the participant's time zone.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
-
-<Category:Tournaments><Category:Official Tournaments><Category:osu!mania Tournaments><Category:osu!mania World Cup>

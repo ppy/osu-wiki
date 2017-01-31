@@ -1,3 +1,6 @@
+Storyboard Audio
+===================
+
 **Audio Dateien** (WAV, MP3, und OGG) können abgespielt werden. Es ist wie beim Deklarieren von Objekten, keine Kommandos, sie werden also in Triggern oder Schleifen benutzt. Sie können die Audio Datei auf irgendeine der vier Ebenen legen, wodurch es Ihnen möglich ist, dass zum Beispiel nur im Pass oder Fail Status die Audio Datei abgespielt wird.
 
 Verwendung
@@ -27,5 +30,3 @@ In diesen Beispiel soll am Ende einer Pass Sektion eine Musikdatei abgespielt we
 `Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100`
 
 Hinweis: Die Lautstärke der Musikdatei ist leiser als die des Soundeffektes, um es stärker herausstechen zu lassen. Die Ebene bei beiden ist 2 (Pass).
-
-<Category:Deutsch>

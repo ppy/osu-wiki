@@ -239,5 +239,3 @@ Beatmap Selection
 -   Digital R.i.S.E. - Cerulean Sky [Hard]
 -   Megumi Nakajima (Ranka Mei) - Nyan Nyan Song (Touhou Rock Remix) [Nyaaaaa]
 -   bubbles - F [Insane]
-
-<Category:Tournaments> [Category:Osu! Standard Tournaments](Category:Osu!_Standard_Tournaments "wikilink")

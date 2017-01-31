@@ -5,5 +5,3 @@ Um einen Skin als .osk Datei zu exportieren, geht man dazu in den Einstellungen,
 ![Skin](DE-Skin.jpg "Skin")
 
 Die exportierte Datei wird dann im osu! Verzeichnis im "Export" Ordner gespeichert und aufbewahrt.
-
-<Category:Deutsch>

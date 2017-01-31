@@ -174,5 +174,3 @@ Links
     -   [Dropbox link source](https://osu.ppy.sh/forum/t/243961)
 -   [Source (ZH)](http://tieba.baidu.com/p/3628301383)
 -   <http://bloodcat.com/osu/> (Download source)
-
-[Category:Game Clients](Category:Game_Clients "wikilink")

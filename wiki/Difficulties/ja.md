@@ -3,7 +3,7 @@ Star Rating and Web Icons
 
 ![Star Rating Range](SR_range.png "Star Rating Range")
 
--   [JP:Ranking Criteria](https://osu.ppy.sh/wiki/JP:Ranking_Criteria):
+-   [JP:Ranking Criteria](/wiki/Ranking_Criteria):
     -   1.5未満: Easy ![Easy](/wiki/shared/Easy-s.png "Easy")
     -   2.25未満: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
     -   3.75未満: Hard ![Hard](/wiki/shared/Hard-s.png "Hard")
@@ -60,7 +60,7 @@ Changes and new trends in mapping will steadily evolve the Insane and Extra tier
 Example Spreads
 ---------------
 
-From the [Ranking Criteria](http://osu.ppy.sh/wiki/Ranking_criteria):
+From the [Ranking Criteria](/wiki/Ranking_criteria):
 
 -   **The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.**
 
@@ -97,7 +97,7 @@ Guidelines for Taiko Game Mode
 
 Some of the accepted and established general attributes of Taiko difficulties which have previously found their roots in Taiko no Tatsujin(太鼓の達人). There have been guidelines for years and they have been consistent for the lower difficulties. This should cover most of the ideas that are the "norm" but it is not complete and exceptions can be made if necessary. For a more in depth going guide, follow these links:
 
--   [Mapping Taiko Difficulties](https://osu.ppy.sh/wiki/Mapping_Taiko_Difficulties) ([original thread](https://osu.ppy.sh/forum/t/152263))
+-   [Mapping Taiko Difficulties](/wiki/Mapping_Taiko_Difficulties) ([original thread](https://osu.ppy.sh/forum/t/152263))
 -   [Taiko Mapping Basics](https://docs.google.com/document/d/1STnZVwB-RN6glJbSlOiTEiUxu7XmgMInXrG15s2pfbQ/edit)
 
 Kantan
@@ -155,7 +155,7 @@ These difficulties are **equal to Oni**, yet, are considered as extra Oni and re
 Example Taiko Spreads
 ---------------------
 
-From the [Ranking Criteria](http://osu.ppy.sh/wiki/Ranking_criteria):
+From the [Ranking Criteria](/wiki/Ranking_criteria):
 
 -   **The difficulties in the mapset must be in a consecutive order.** Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.
 -   '''A mapset cannot have just one Taiko difficulty. ''' If you decide to include Taiko in your map, make sure you have at least 2 Taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty.
@@ -234,4 +234,4 @@ Rest moments in Taiko
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 3/4 or 2/1 breaks
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[<https://osu.ppy.sh/wiki/T-Aiko>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[</wiki/External_Ports/T_Aiko/Old>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

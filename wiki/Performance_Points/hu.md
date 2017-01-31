@@ -44,5 +44,3 @@ A teljesítmény rangod a összes map-en nyújtott teljesítményeden alapszik. 
 
 Kép
 ===
-
-[Category:Infrastructure of osu!/HU](Category:Infrastructure_of_osu!/HU "wikilink")

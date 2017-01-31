@@ -21,5 +21,3 @@ Also note: in most cases it's the [mapping](mapping), not the [Song Setup](Song_
 -   OD (Overall Difficulty): 8+
 
 ![Potential difficulty settings for Expert.](Expertsetup.png "Potential difficulty settings for Expert.")
-
-<Category: Beatmapping>

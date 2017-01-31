@@ -3,7 +3,7 @@ osu! Catch the Beat World Cup 2015
 
 ![CWC 2015 logo](logo.png)
 
-The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The-Team/en.md). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
+The **osu! Catch World Cup 2015** (***CWC 2015*** ) is a country-based Catch the Beat tournament hosted by the [osu! staff](/wiki/People/The_Team). It is the 4th installment of the osu! Catch the Beat World Cup. It lasts from the 2nd April till 13th June 2015. The winner of the competition is **![](/wiki/shared/flag/Kr.gif) South Korea**.
 
 Tournament schedule
 ------------------------
@@ -33,10 +33,10 @@ Organization
 
 | Job                   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tournament Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // [![](/wiki/shared/flag/Fr.gif)](/wiki/File:Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                    |
-| Map Selectors         | ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Ve.gif) [Orihime chan](//osu.ppy.sh/u/708258) // [![](/wiki/shared/flag/Kr.gif)](/wiki/File:Kr.gif) [CLSW](//osu.ppy.sh/u/531253)                                                                                                                                                                               |
+| Tournament Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // [![](/wiki/shared/flag/Fr.gif)](/wiki/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                    |
+| Map Selectors         | ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Ve.gif) [Orihime chan](//osu.ppy.sh/u/708258) // [![](/wiki/shared/flag/Kr.gif)](/wiki/Kr.gif) [CLSW](//osu.ppy.sh/u/531253)                                                                                                                                                                               |
 | Streamers             | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                              |
-| Commentators          | ![](/wiki/shared/flag/Ca.gif) [Tasha](//osu.ppy.sh/u/1031958) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // [![](/wiki/shared/flag/Nz.gif)](/wiki/File:Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // [![](/wiki/shared/flag/De.gif)](/wiki/File:De.gif) [Kingkevin30](//osu.ppy.sh/u/564334) // [![](/wiki/shared/flag/Us.gif)](/wiki/File:Us.gif) [Zak](//osu.ppy.sh/u/1375955) |
+| Commentators          | ![](/wiki/shared/flag/Ca.gif) [Tasha](//osu.ppy.sh/u/1031958) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // [![](/wiki/shared/flag/Nz.gif)](/wiki/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // [![](/wiki/shared/flag/De.gif)](/wiki/De.gif) [Kingkevin30](//osu.ppy.sh/u/564334) // [![](/wiki/shared/flag/Us.gif)](/wiki/Us.gif) [Zak](//osu.ppy.sh/u/1375955) |
 | Statistician          | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                          |
 
 ------------------------------------------------------------------------
@@ -470,14 +470,14 @@ Ruleset
 1.  The osu! Catch the Beat World Cup is a country-based team tournament.
 2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md) bracket.
+    -   There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) bracket.
 
 3.  Match schedule will be settled by the Tournament Management (see below).
 4.  If no staff or referee is available, the match will be postponed.
 5.  Failed players' scores do not get added to the team score.
     -   Reviving and surviving during a map gets considered as passing it.
 
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers/en.md) options are allowed.
+6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7.  If the game ends in a draw, the game will be nullified.
 8.  If a player disconnects, they get treated as if they failed the map.
 9.  Maps cannot be reused in the same match unless the game was nullified.
@@ -498,7 +498,7 @@ Ruleset
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
     1.  Every registered user will be assigned to their respective country's candidate list.
     2.  To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
-    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules/en.md) within the last 12 months.
+    3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
 3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “CWC Registration”.
     1.  You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
@@ -563,7 +563,7 @@ Ruleset
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
     1.  Finals Week 1 & Finals Week 2 use the same mappool.
 
-2.  Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers/en.md), [HardRock](/wiki/Game_Modifiers/en.md) and [DoubleTime](/wiki/Game_Modifiers/en.md)
+2.  Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers)
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no modes activated.
@@ -583,5 +583,3 @@ Ruleset
 3.  All matches will be held on either Saturday or Sunday.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-<Category:Tournaments><Category:Official Tournaments><Category:Catch the Beat Tournaments><Category:Catch the Beat World Cup>

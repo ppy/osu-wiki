@@ -132,4 +132,3 @@ Mamy tutaj kilka stron, które pomogą Ci zacząć przygodę z osu!:
 -   [Słowniczek](PL:Glossary "wikilink") - Zmierz się ze słownictwem osu!
 -   [Akademia osu!](PL:Osu!academy "wikilink") - Filmiki które pomogą Ci przyswoić wszystkie aspekty osu!
 -   [Rady mogące pomóc Ci zacząć grę w osu!](PL:Beginner "wikilink") - Potrzebujesz pomocy? Zajrzyj!
-

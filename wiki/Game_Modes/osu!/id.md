@@ -289,5 +289,3 @@ Credits
 -   Peter Lambert - osu! tutorial ([Tutorial asli](http://osu.ppy.sh/s/3756), [Versi Ranked](http://osu.ppy.sh/s/19928))
 -   Pokebis: Latihan Untuk Pemula [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)
-
-[Category:Game Modes/ID](Category:Game_Modes/ID "wikilink") <Category:Osu!Standard/ID>

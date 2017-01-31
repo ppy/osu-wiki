@@ -49,5 +49,3 @@ I hope this guide has cleared up some questions you may have about those tablets
 I'll try to update this guide as new models come out to reflect changes in recommendations.
 Good luck!
 Created by [Daru](http://osu.ppy.sh/u/Daru), link to original thread [here](http://osu.ppy.sh/forum/t/71895)
-
-<Category:Guides>

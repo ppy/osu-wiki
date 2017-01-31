@@ -21,5 +21,3 @@ Step 3: Bubbles(버블)
 ----
 
 -   [Ranking Criteria/랭킹 크리테리아](KO:Ranking_Criteria "wikilink")
-
-<Category:Beatmapping/KO> <Category:Modding/KO>

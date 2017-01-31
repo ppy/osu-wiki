@@ -346,5 +346,3 @@ Créditos
 -   Entrenamiendo para principiantes de Pokebis [1](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
-
-<Category:FAQ/ES> <Category:Gameplay/ES>

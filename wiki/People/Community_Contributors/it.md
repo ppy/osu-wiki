@@ -13,7 +13,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | [Darkimmortal](https://osu.ppy.sh/u/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](http://osu.ppy.sh/forum/t/108092) (da .osr a Video su YouTube.) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
-| [Ballance](https://osu.ppy.sh/u/165946) | Grafica degli [Obiettivi](https://osu.ppy.sh/wiki/Achievements). |
+| [Ballance](https://osu.ppy.sh/u/165946) | Grafica degli [Obiettivi](/wiki/Achievements). |
 | [akrolsmir](https://osu.ppy.sh/u/576800) | Sviluppa e mantiene [AIBat](http://osu.ppy.sh/forum/t/55305), il più popolare strumento di modding delle beatmap di terza parte. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Performance straordinaria nei bugfix o test delle funzionalità e ha programmato numerose utilities per i mapper e modders. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Ha organizzato molti tornei ufficiali di maggiore importanza (incluso l'OWC). |
@@ -22,9 +22,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Performance straordinaria nei bugfix o test delle funzionalità e nel gestire le richieste di supporto dagli utenti. |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Più di 3 anni di lavoro silenzioso e instancabile nel creare [pacchetti beatmaps](http://osu.ppy.sh/p/packlist) e diversi anni nel gestire
 le chart. |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | Anni su anni di servizio, incluso il creare la skin per le beatmap originale, creare [storyboard](https://osu.ppy.sh/wiki/Storyboarding) avanzati come un'opera d'arte e ha motivato il team. |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | Anni su anni di servizio, incluso il creare la skin per le beatmap originale, creare [storyboard](/wiki/Storyboarding) avanzati come un'opera d'arte e ha motivato il team. |
 | [awp](https://osu.ppy.sh/u/2650) | Gestione della comunità iniziale e moderazione ed enormi contributi nel corso del tempo. |
-| [Sinistro](https://osu.ppy.sh/u/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](https://osu.ppy.sh/wiki/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/u/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/u/827) | E' stato il primo gestore dello staff e gestore dei BAT e ha creato un team di moderazione beatmap d'elite dal nulla. |
 
 ### Marzo 2015
@@ -47,5 +47,3 @@ le chart. |
 | [MoonShade](https://osu.ppy.sh/u/273649) | Ha sviluppato utities rivoluzionarie per fare le storyboard (SGL) |
 | [Hatsu](https://osu.ppy.sh/u/322480) | Mikuia.tv - sviluppo di bot per twitch |
 | [Tillerino](https://osu.ppy.sh/u/2070907) | Sviluppo del bot che raccomanda beatmap |
-
-<Category:People/IT>

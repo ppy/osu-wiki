@@ -167,5 +167,3 @@ où <number> est le nombre de pixels où deux images de la première police sont
 `ScoreOverlap: `<number>
 
 Pareil qu'au dessus, mais pour la seconde police. Notez que les deux polices peuvent utiliser les mêmes fichiers (donc c'est vraiment seulement une police), spécifiez juste la même chose pour HitCirclePrefix et ScorePrefix.
-
-<Category:Skinning/FR>

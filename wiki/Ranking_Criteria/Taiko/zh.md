@@ -60,5 +60,3 @@
 -   **自定义音效**
 
 自定义音效必须是鼓类的音效. 如果使用自定义音效的话, don的音色应该比较偏低而kat音色比较比don偏高.
-
-<Category:Guides/ZH> <Category:Taiko/ZH> [Category:Ranking Criteria/ZH](Category:Ranking_Criteria/ZH "wikilink") <Category:Beatmapping/ZH>

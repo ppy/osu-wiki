@@ -62,5 +62,3 @@ Dauer
 -----
 
 <img src="O!s Duration.jpg" title="fig:Der Vergleich: Inaktiver und aktiver osu!supporter." alt="Der Vergleich: Inaktiver und aktiver osu!supporter." width="200" /> Sobald die Transaktion abgeschlossen ist, wird auf deinem Profil unter "Recent Activity" folgendes stehen: "{Name des Benutzers} has become an osu! supporter - thanks for your generosity!" (sofern das der erste Tag auf dem jeweiligen Account ist). Sofern schonmal osu!Supporter geholt wurde, wird stattdessen "{Name des Benutzers} has once again chosen to donate to the osu! cause - thanks for your generosity!" stehen. Wenn du dir den für dich selber gekauft hast, wirst du unter deinem Profilbild das osu!supporter Abzeichen finden. Um nachzuprüfen, wann dieser abläuft, [kehre zur Seite zurück, woher du diesen gekauft hast](http://osu.ppy.sh/p/support).
-
-<Category:Deutsch>

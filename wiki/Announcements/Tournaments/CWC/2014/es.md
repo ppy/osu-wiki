@@ -459,14 +459,14 @@ Reglamento
 1.  La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
 2.  Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
     -   Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-    -   Habrá también mapas para [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y FreeMod.
+    -   Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
 3.  El programa de partidos será establecido por la organización del torneo (ver abajo).
 4.  Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5.  El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
     -   Revivir y sobrevivir hasta el final se considera como pasarlo.
 
-6.  Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers/es.md).
+6.  Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers).
 7.  Si un mapa termina en empate, será anulado.
 8.  Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
 9.  Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
@@ -519,7 +519,7 @@ Reglamento
 ### Instrucciones del mappool
 
 1.  Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
-2.  Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers/es.md), [HardRock](/wiki/Game_Modifiers/es.md), [DoubleTime](/wiki/Game_Modifiers/es.md) y FreeMod.
+2.  Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 3.  Cada mappool consiste de 23 mapas en total.
 4.  Cada mappool tiene un tiebreaker.
 5.  Los mapas NoMod serán jugados sin mods activados.
@@ -546,5 +546,3 @@ Reglamento
 3.  Todas las fases de eliminación directa se llevarán a cabo el sábado o domingo (ver Tournament Schedule).
 4.  La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
 5.  Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
-
-<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Catch the Beat Tournaments/ES><Category:Catch the Beat World Cup/ES>

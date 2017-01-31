@@ -93,10 +93,8 @@ Competição Mensal de Fanart
 Competições do osu!store
 ------------------------
 
-**Observação:** O vencedor ganha um **kit do osu! store** (1x , 1x , 1x , e [6 meses de supporter tag](/wiki/osu!supporter/pt.md)). Vice-campeões ganham4 meses de supporter tag.
+**Observação:** O vencedor ganha um **kit do osu! store** (1x , 1x , 1x , e [6 meses de supporter tag](/wiki/osu!supporter)). Vice-campeões ganham4 meses de supporter tag.
 
 | Competição | Titulo                                | Requerimentos                                          | Seleções premiadas | Novidades                                   | Resultados       |
 |------------|---------------------------------------|--------------------------------------------------------|--------------------|---------------------------------------------|------------------|
 | #1         | osu! Competição de Beatmap Blueprints | osu! Beatmap Blueprints ("Beatmaps em qualquer lugar") | (WIN)              | [Novidades](//osu.ppy.sh/news/114095906408) | \[(Resultados)\] |
-
-<Category:Portuguese>

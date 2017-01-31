@@ -10,5 +10,3 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 | ![](BSD 1 8.jpg "BSD 1 8.jpg")   | 1/8     | {Nome} | Adicionado ticks amarelos além dos ticks azuis e vermelhos |                                |
 
 1/3 e 1/6 são especiais pois significam que o bpm da musica é dividido por três, mas esse tipo de musica é "difícil" de encontrar. Segurar o botão **\[ALT\]** faz com que o metrônomo seja substituído pelo [Distance Snap](PT:Distance_Snap "wikilink")
-
-[Category:Edit mode/PT](Category:Edit_mode/PT "wikilink")

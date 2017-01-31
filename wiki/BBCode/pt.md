@@ -577,5 +577,3 @@ A second line</p>
 </tr>
 </tbody>
 </table>
-
-<Category:Website/PT>

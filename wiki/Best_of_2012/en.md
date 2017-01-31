@@ -48,5 +48,3 @@
 | 39                         | 146                                           | ![](heart.gif "heart.gif")                       | rowspan=2|07th Expansion                       | [goldenslaughterer](http://osu.ppy.sh/s/37729)                      | La Cataline                   | rowspan=2|Umineko no Naku Koro ni  |
 | 40                         | 145                                           | ![](heart.gif "heart.gif")                       | [worldenddominator](http://osu.ppy.sh/s/57032) | Natteke                                                             |
 ||
-
-[Category:History of osu!](Category:History_of_osu! "wikilink")

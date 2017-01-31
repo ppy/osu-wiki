@@ -57,5 +57,3 @@ Team Members
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
-
-<Category:People>

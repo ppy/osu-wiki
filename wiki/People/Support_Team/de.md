@@ -28,5 +28,3 @@ Teammitglieder
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanisch |
 | [Tom94](https://osu.ppy.sh/u/1857058) | Deutsch |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | Niederländisch |
-
-<Category:People/DE>

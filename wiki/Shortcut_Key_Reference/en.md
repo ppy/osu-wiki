@@ -52,7 +52,7 @@ Song Select
 -   **F3**: Beatmap Options
 -   **F5**: Refresh listing (Repair mode)
 -   **Shift+Delete**: Delete current map
--   **Ctrl+(1/2/3/4)**: Switch to ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/Standard)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/Taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/Catch_the_Beat) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/Osu!mania) game mode respectively.
+-   **Ctrl+(1/2/3/4)**: Switch to ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) game mode respectively.
 -   **Ctrl+Enter**: Play current map with [Auto](/wiki/Game_Modifiers) mod
 -   **Ctrl+Shift+Enter**: Play current map with Cinema mod
 -   **Ctrl+A**: Toggle Auto mod

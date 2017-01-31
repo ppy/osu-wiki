@@ -198,5 +198,3 @@ Les objets sont empilés si ils appartiennent aux mêmes coordonnées et ne sont
 ### Mode Specific (Mode spécifique)
 
 Normalement, les beatmaps sont jouables dans tous les <abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">quatre</abbr> modes par défaut. Si cette option est réglée sur Taiko, CtB or osu!mania, alors ce mode sera forcé pour cette difficulté.
-
-<Category:Beatmapping/FR> [Category:Edit mode/FR](Category:Edit_mode/FR "wikilink")

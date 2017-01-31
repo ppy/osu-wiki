@@ -9,5 +9,3 @@ Idea aproximada (No es absoluto, puede ser modificado en base a la preferencia d
 -   Circle Size (Tamaño de círculo): 4 o 5
 -   Approach rate (Ratio de aproximación): 6+
 -   Overall Difficulty (Dificultad general): 6+
-
-<Category:Beatmapping/ES>

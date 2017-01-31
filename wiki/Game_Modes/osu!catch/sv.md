@@ -28,5 +28,3 @@ Rankinghistoria
 ---------------
 
 Det var inte möjligt att ranka sin scores i CtB förrens den 10 April, 2012. CtB-maps kunde inte heller bli inkluderade i rankade mapsets fast detta är nu ändrat och CtB är nu mera allmänt vedertaget som ett game-mode. Vid mappningen av CtB skede en stor förändring runt 2014-2015 som satte en ny standard för vad som är CtB-specifica mappar nu idag. Det sattes även hårdare regler för vad som var accepterat och inte för att försöka skapa en gemensam standard över svårighetsgraderna så att nya spelare lättare skall veta vad som är svårt och inte.
-
-[Category:Catch the Beat/SV](Category:Catch_the_Beat/SV "wikilink")

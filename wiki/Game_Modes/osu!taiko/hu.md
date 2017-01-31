@@ -50,5 +50,3 @@ Nehezítések és könnyítések.
 -   1,12x : Double Time, Flashlight
 
 Persze ezek közül néha a Half Time hasznos is lehet, mert a sliderek hosszabbak és könnyebben játszhatóak osu!-ból konvertált [könnyű](HU:Easy "wikilink") mapeken.
-
-<Category:Gameplay/HU> [Category:Game Modes/HU](Category:Game_Modes/HU "wikilink") <Category:Taiko/HU>

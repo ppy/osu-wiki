@@ -126,6 +126,5 @@ Itt van egy pár hasznos link az utazásod megkezdéséhez:-
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - válogatott, kezdőknek szánt beatmapek.
 -   [Beatmap Csomagok](http://osu.ppy.sh/p/packlist) - Közös témájú, előre csomagolt beatmapek.
 -   [Beatmap Lista](http://osu.ppy.sh/p/beatmaplist) - Itt tölthetsz le új beatmapeket (számokat) a játékhoz.
--   [Gyakran Ismételt Kérdések (GYIK)](http://osu.ppy.sh/wiki/HU:FAQ) - a játék alapjai.
+-   [Gyakran Ismételt Kérdések (GYIK)](/wiki/FAQ) - a játék alapjai.
 -   [osu!academy](HU:Osu!academy "wikilink") - Videók, amelyek segítségével megismerheted az osu! minden részét.
-

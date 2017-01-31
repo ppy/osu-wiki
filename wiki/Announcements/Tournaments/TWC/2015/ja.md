@@ -96,12 +96,12 @@ osu! Taiko World Cup 2015
 1.  osu! Taiko World Cupは国別対抗トーナメントです。
 2.  それぞれのラウンドの譜面はあらかじめ試合が行われる前の日曜日に譜面選択者によって告知されます。各試合においてこの譜面だけが使用可能です。
     -   1つは同点決勝譜面です。これは引き分けの場合のみプレイされます。
-    -   [Hidden](/wiki/Game_Modifiers/jp.md)、 [HardRock](/wiki/Game_Modifiers/jp.md)、 [DoubleTime](/wiki/Game_Modifiers/jp.md)、そして自由Mod枠の譜面もあります。
+    -   [Hidden](/wiki/Game_Modifiers)、 [HardRock](/wiki/Game_Modifiers)、 [DoubleTime](/wiki/Game_Modifiers)、そして自由Mod枠の譜面もあります。
 
 3.  試合日程は大会運営者によって決定されます。（以下参照）
 4.  スタッフもしくは審判員の手があいていない場合、試合は延期されます。
 5.  Failしたプレイヤーのスコアはチームスコアに加算されません。
-6.  [Visual Settingsオプションの使用は可能です](/wiki/Game_Modifiers/jp.md)。
+6.  [Visual Settingsオプションの使用は可能です](/wiki/Game_Modifiers)。
 7.  試合が引き分けで終わった場合、その試合は無効になります。
 8.  プレイヤーが回線切れになった場合、failしたとして扱われます。
 9.  ゲームが無効にならない限り、同じ譜面を使うことは出来ません。
@@ -122,7 +122,7 @@ osu! Taiko World Cup 2015
 2.  正当で真剣な登録を保証するため、各登録ユーザーは大会運営者にチェックされます。
     1.  各登録ユーザーはそれぞれの国の候補者リストに割り当てられます。
     2.  リストへの追加を認められるには、太鼓ppランキングが世界8000位以上でなければいけません。
-    3.  リストへの追加を認められるには、この12ヶ月間[osu! community rulesに違反していてはいけません](/wiki/Rules/jp.md)。
+    3.  リストへの追加を認められるには、この12ヶ月間[osu! community rulesに違反していてはいけません](/wiki/Rules)。
 
 3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
 4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)。
@@ -190,7 +190,7 @@ osu! Taiko World Cup 2015
 ### 譜面群の説明
 
 1.  譜面群はグループステージ、決勝トーナメント、準々決勝、準決勝、決勝にそれぞれ1つずつ用意されます。（決勝のWeek 1とWeek 2では同じ譜面群が使用されます。）
-2.  それぞれの譜面群は5つの枠で構成されます: NoMod, <JP:Hidden>, <JP:HardRock>, [JP:DoubleTimeそして自由Modです](/wiki/Game_Modifiers/jp.md)。
+2.  それぞれの譜面群は5つの枠で構成されます: NoMod, <JP:Hidden>, <JP:HardRock>, [JP:DoubleTimeそして自由Modです](/wiki/Game_Modifiers)。
 3.  それぞれの譜面群は合計19譜面で構成されます。
 4.  それぞれの譜面群には1つ同点決勝譜面が含まれます。
 5.  NoMod枠は何もModをつけないでプレイしてください。

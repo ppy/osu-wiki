@@ -472,5 +472,3 @@ Resultados
 | ![](/wiki/shared/flag/Mx.gif) Mexico          | 2     - **4** | **Ukraine** ![](/wiki/shared/flag/Ua.gif)            | [#1](//osu.ppy.sh/mp/10355079) |
 | ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 3     - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)             | [#1](//osu.ppy.sh/mp/10355083) |
 | ![](/wiki/shared/flag/Sg.gif) Singapore       | 1     - **4** | **United States** ![](/wiki/shared/flag/Us.gif)      | [#1](//osu.ppy.sh/mp/10355087) |
-
-<Category:Tournaments/ES><Category:Official Tournaments/ES><Category:Osu! Standard Tournaments/ES><Category:Osu! World Cup/ES>

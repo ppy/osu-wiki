@@ -13,5 +13,3 @@ Rady dotyczące używania Czasu Kiai
 3.  **Nie powinno się używać całkowicie białego [koloru combo](combo_colours "wikilink")** (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
 4.  Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
 5.  **[Gościnne poziomy trudności](Guest_Difficulty "wikilink") mogą mieć inaczej ustawione sekcje Czasu Kiai**. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.
-
-<Category:Gameplay/PL> [Category:Edit mode/PL](Category:Edit_mode/PL "wikilink") <Category:Beatmapping/PL>

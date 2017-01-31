@@ -277,5 +277,3 @@ Seperti di .osu dan .osb files, single-line comments adalah OK:
 `Key5: K`
 `Key6: L`
 `Key7: ;`
-
-<Category:Skinning/ID>

@@ -22,4 +22,3 @@ Apariencia y tareas
 | REPORT (reason) | Solicitar a un moderador | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | Muestra un beatmap reciente para modear aleatorio. [list] Muestra 5 solicitudes de modeo recientes aleatorias | !request | Seether - Fake It by [Dellirium] |
 | ROLL (number) | Lanza un dado (virtual) y obtiene un resultado alreatorio del 1 al 100 (por defecto) | !roll 9000 | John rolls 1337 point(s) |
-

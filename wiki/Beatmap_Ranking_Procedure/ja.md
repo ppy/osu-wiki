@@ -30,5 +30,3 @@ Unranked ![](heartpop.gif "fig:heartpop.gif")
 人々はミスをします。なのでもし根本的な問題がある状態でApprovalシステムを通過した場合、それは一時的にunrankになるかもしれません。もしあなたの譜面がunrankをされたなら、unrankをした[BATと話し合い](JP:Beatmap_Appreciation_Team "wikilink")、あなたの譜面の問題点を解決し、Rerankをさせ可能な限り迅速に喜ばせるようにします。
 
 注: 時々変更したくない物を変更するように言われるかもしれません。あなたは変更をせずに逃げ切ることも可能かもしれませんが、BATがその指摘を同意したなら変更をするべきです。あなたのプライドを捨て直すのが良いでしょう。
-
-<Category:Beatmapping/JP>
