@@ -1,3 +1,6 @@
+Storyboard Audio
+===================
+
 **Audio Dateien** (WAV, MP3, und OGG) können abgespielt werden. Es ist wie beim Deklarieren von Objekten, keine Kommandos, sie werden also in Triggern oder Schleifen benutzt. Sie können die Audio Datei auf irgendeine der vier Ebenen legen, wodurch es Ihnen möglich ist, dass zum Beispiel nur im Pass oder Fail Status die Audio Datei abgespielt wird.
 
 Verwendung

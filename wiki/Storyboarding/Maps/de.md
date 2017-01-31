@@ -1,6 +1,10 @@
-Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](DE:Storyboard "wikilink") aufgelistet.
+Maps with Storyboards - German
+===============================
 
-### Storyboard
+Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](/wiki/Storyboarding) aufgelistet.
+
+Storyboard
+-------------
 
 -   [Suzuta Miyako - one's future (Full Ver.)](http://osu.ppy.sh/b/156919)
 -   [Queen - Don't Stop Me Now](http://osu.ppy.sh/b/26567)
@@ -27,7 +31,8 @@ Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](DE:Storyb
 -   [Katakiri Rekka - Get The Regret Over](http://osu.ppy.sh/s/27328)
 -   [Lon - Yuru Fuwa Jukai Girl](http://osu.ppy.sh/s/50462)
 
-### Lieder mit coolen Effekten
+Lieder mit coolen Effekten
+----------------------------
 
 -   [Kayano Ai - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)](http://osu.ppy.sh/b/106358)
 -   [Hayami Saori - Fallen Down](http://osu.ppy.sh/b/84748)
@@ -89,7 +94,8 @@ Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](DE:Storyb
 -   [Doppelman - Error!!](http://osu.ppy.sh/s/50042)
 -   [SOUND HOLIC - Drive My Life](http://osu.ppy.sh/b/178904)
 
-### Beatmaps, die eine Seele haben™
+Beatmaps, die eine Seele haben™
+---------------------------------
 
 -   [Wiklund - Billy Boogie](http://osu.ppy.sh/s/22082)
 -   [Jimmy Eat World - The Middle](http://osu.ppy.sh/s/24685)
