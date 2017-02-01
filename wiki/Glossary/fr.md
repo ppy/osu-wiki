@@ -64,20 +64,20 @@ La grande majorité des packs sont des ensembles de beatmaps rankées durant la 
 
 Pour voir la liste des packs, consultez le [Listing des packs de beatmaps](https://osu.ppy.sh/p/packlist)
 
-### Beat spacing
+### Espacement des pulsations (terme original : Beat spacing)
 
-Beat spacing is a principle which states that the spacing of every object (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
-This basically means, close in time = close in space and farther in time = farther in space.
+L'espacement des pulsations est un preincipe qui statue que l'espacement de chaque objet (excepté les spinners) doit être soit rapproché, si plaçés de manière proche dans la timeline, soit éloigné, si plaçés de manière éloignées dans la timeline.
+De manière simplifiée, proche dans le temps = proche dans l'espace et loin dans le temps = loin dans l'espace.
 
-Your beat spacing plays a crucial role when the player is playing your beatmap!
-Consistent beat spacing is a basic requirement to rank a beatmap because it provides the player with a more intuitive experience as the player will learn where to move their cursor along the screen, at a constant speed.
+Votre espacement des pulsations joue un rôle crucial lorsque le joueur joue à votre beatmap !
+Un espacement constant des pulsations est une condition de base pour ranker votre beatmap, car il procure au joueur une expérience plus intuitive qui lui permet d'apprendre comment bouger son curseur sur l'écran à vitesse constante.
 
-Placing an object closer than the beat spacing may trick the player into clicking on them too soon.
-On the otherhand, placing them too far may force the player to move their cursor across the screen to click on them in time.
-A common exception to beat spacing is stacked hitcircles.
+Placer un objet plus proche que l'espacement de pulsation peut tromper le joueur et le faire cliquer sur ces éléments trop tôt.
+D'autre part, le placer trop loin peut forcer le joueur à bouger son curseur à travers l'écran pour cliquer dessus dans les temps.
+Une exception commune pour l'espacement des pulsations sont les cercles de frappe superposés.
 
-To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor.
-You can choose a beat spacing value by holding `ALT` and sliding the selector at the top right until you reach the desired value.
+Pour assurer un espacement constant, activez le bouton `Distance Snap` sur le côté droit de l'éditeur.
+Vous pouvez choisir une valeur d'espacement en maintenant `ALT` et en slidant le sélecteur situé en haut à droite jusqu'a ce que vous atteignez la valeur désirée.
 Note that the higher the value would allow a more difficult beatmap.
 
 ### Beatmap
