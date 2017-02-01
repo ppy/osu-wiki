@@ -41,7 +41,7 @@ _Note: GitHub will send you a confirmation email to continue usage of your accou
 
 ![osu-wiki Repository Snapshot](3.JPG "Snapshot of the osu!Wiki Repository")
 
-Now click the "Fork" button on the top-right and it would prompt you on where to fork the repository.
+Click on the "Fork" button, located at the top-right of the page. This should redirect you to the location for the fork.
 
 ![Fork prompt dialogue](4.JPG "Fork prompt dialogue")
 
