@@ -2,6 +2,7 @@ Storyboard Scripting
 ========================
 
 ![Ein Bespiel eines Skriptes im .osb.](SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
+
 Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Design), um [Storyboards](/wiki/Storyboarding) für Maps zu erstellen, können Sie auch ein Textdokument (oder den [Notepad++](http://www.notepad-plus-plus.org/)) dazu verwenden. Dies wird als ***Storyboarding durchs Skripten*** (SBS) bezeichnet und erlaubt es Ihnen präziser (in Pixeln und Millisekunden) mit Sprites/Objekten arbeiten zu lassen. |
 
 Anleitung für Neueinsteiger
