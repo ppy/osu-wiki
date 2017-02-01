@@ -95,43 +95,43 @@ Un beatmappeur (ou mappeur) est un utilisateur qui se sert de l'éditeur pour cr
 
 ### Beatmapset
 
-A beatmapset (or mapset) is the collection of beatmaps that are packaged inside the `OSZ` file, under the same beatmapper.
-Beatmapsets will always have the same music/sound, video, if any.
-However, do note that some beatmaps from a beatmapset may specifically contain a certain background image or storyboard that is separate from the others.
+Un beatmapset (ou mapset) représente l'ensemble des beatmaps qui sont contenues dans un fichier `OSZ` crées par le même beatmappeur.
+Les beatmapsets auront toujours la même musique/son, vidéo, si présente.
+Cependant, merci de noter que certaines beatmaps d'un beatmapset peuvent contenir une image d'arrière-plan et/ou un storyboard spécifique différent des autres.
 
 ### BG
 
-BG is short for background.
-BG refers to the background image and/or video of a beatmap.
-Inside a beatmap folder, "BG" is usually the name for the background image.
+BG est l'acronyme pour background.
+BG représente l'image (ou la vidéo) d'arrière-plan d'une beatmap.
+A l'intérieur du dossier d'une beatmap, "BG" est le nom courant pour l'image de fond.
 
 ## BN
 
-BN is short for Beatmap Nominator which is a group of osu!users who nominate pending beatmaps.
-This group was once called the BAT (Beatmap Appreciation Team).
+BN est l'acronyme pour Beatmap Nominator qui est un groupe d'utilisateurs chargés de nominer les beatmaps dites "en attente" (pending beatmaps).
+Ce groupe était précédemment connu sous l'acronyme de BAT (Beatmap Appreciation Team).
 
-For details about Beatmap Nominators, see [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group/).
+Pour plus de détails à propos des Beatmap Nominators, consultez cet article : [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group/).
 
 ### BPM
 
-BPM is short for Beats Per Minute and represents the number of whole beats in a minute.
+BPM est l'acronyme de Beats Per Minute. Il représente le nombre de pulsations entières en une minute.
 
-### Break
+### Pause (terme original : Break)
 
-A break is when a section of a beatmap has no objects.
-During this time, the drain in the life bar is temporarily halted.
-Breaks usually allow the player to rest their arm for a short while and reposition their input device.
+Un break est une section de la beatmap qui ne possède aucun objet.
+Pendant ce temps, la vie ne chute plus dans la barre de vie.
+Les pauses permettent généralement au joueur de reposer son bras pendant une courte période, ainsi que de repositionner son périphérique d'entrée (souris, tablette, clavier...)
 
-Depending on the settings, when a break is initated, letterboxes (the black horizontal bars on the top and bottom off the screen) may appear.
-In addition to this, a passing or failing graphic and sound will appear and play to indicate if the player is doing well or not, if there is enough time.
+En fonction du paramétrage de la beatmap, quand une pause est déclanchée, la zone de jeu passe en format letterbox (barres noires en haut et en bas).
+De plus, une image et un son dépendant de si le joueur peut continuer ou est trop juste pour réussir se déclanche pour indiquer au joueur si il y'arrive bien, et si il reste assez de temps.
 
 ### BSS
 
-BSS is short for Beatmap Submission System.
+BSS est l'acronyme pour Beatmap Submission System.
 
-When a beatmapper is finished mapping their beatmap and is ready to share their creation around the world, they must first submit it to the BSS.
-When they do this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset.
-The forum thread it generates will help you get feedback from modders and other players who play your map.
+Quand un beatmappeur a fini de mapper sa beatmap et qu'il est prêt à la partager avec le monde entier, il doit d'abord la soumettre au BBS.
+Quand ils font cette démarche, le BBS assigne automatiquement un thread et génère un post regroupant des informations sur la beatmapset.
+Le thread généré vous aide à obtenir des feedbacks de moddeurs et d'autres joueurs qui auront testé votre map.
 
 ## C
 
