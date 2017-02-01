@@ -44,7 +44,6 @@ Songs With Cool Effects
 -   [Nightcore - Jump Jump](http://osu.ppy.sh/b/45924)
 -   [Lia - Toki wo Kizamu Uta](http://osu.ppy.sh/s/35701)
 -   [Skrillex - First Of The Year](http://osu.ppy.sh/s/56791)
--   ~~Nightcore - I Touch Myself~~
 -   [765PRO ALLSTARS - READY!!](http://osu.ppy.sh/s/41121)
 -   [Yuyoyuppe feat. Hanatan - Palette](http://osu.ppy.sh/b/57528)
 -   [Mike Morasky - Science is Fun](http://osu.ppy.sh/b/102450)
