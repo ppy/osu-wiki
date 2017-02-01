@@ -78,20 +78,20 @@ Une exception commune pour l'espacement des pulsations sont les cercles de frapp
 
 Pour assurer un espacement constant, activez le bouton `Distance Snap` sur le côté droit de l'éditeur.
 Vous pouvez choisir une valeur d'espacement en maintenant `ALT` et en slidant le sélecteur situé en haut à droite jusqu'a ce que vous atteignez la valeur désirée.
-Note that the higher the value would allow a more difficult beatmap.
+Notez qu'une valeur plus élevée donnerait lieu à une beatmap plus difficile.
 
 ### Beatmap
 
-A beatmap (also known as a level or a map) is where the majority of osu! lies.
-It is quite like the stages in the DS games.
-At their most basic form, beatmaps have a song, hitcircles, sliders, and/or spinners placed based on the rhythm of the music.
-Nowadays, beatmaps may also have a background image or video, or even a storyboard.
+Une beatmap (aussi connue comme étant un niveau (level) ou encore une map) est là ou repose la majeure partie d'osu! .
+C'est comme les niveaux dans le jeu DS.
+Dans leurs formes les plus basiques, les beatmaps ont une chanson, des cercles de frappe, des sliders et / ou des spinners plaçés en fonction du rythme de la musique.
+De nos jours, les beatmaps peuvent aussi contenir des images ou vidéos d'arrière-plan, ou encore un storyboard.
 
-For more details about how beatmaps are uploaded, see BSS.
+Pour plus de détails à propos de l'upload des maps, consultez BSS.
 
-### Beatmapper
+### Beatmappeur
 
-A beatmapper (or mapper) refers to the osu!user who uses the editor to create a beatmap.
+Un beatmappeur (ou mappeur) est un utilisateur qui se sert de l'éditeur pour créer des beatmaps.
 
 ### Beatmapset
 
