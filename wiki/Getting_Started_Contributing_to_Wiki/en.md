@@ -172,7 +172,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
 ### Can we use HTML?
 
-We avoid to use HTML mostly in Wiki but in extreme cases, we allow HTML for Tables and Linking.
+We avoid the use of HTML with rare exceptions (usually for complicated tables).
 
 
 ## Conclusion
