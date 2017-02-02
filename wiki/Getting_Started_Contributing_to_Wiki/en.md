@@ -7,13 +7,13 @@ So here's a few things you should have in mind to get you started for contributi
 
 ## Prerequisites
 
-To be able to contribute to osu!wiki you must have the following :
+To be able to contribute to osu!wiki you must have the following:
 
-- Basic knowledge in VCS (Version control system), particularly Git (Optional, if you plan to make changes locally).
+- Basic knowledge in VCS (Version control system), particularly Git (optional, if you plan to make changes locally).
 - Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - A GitHub account.
-- A text editor with Markdown syntax highlighting. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (Optional, if you plan to make changes locally).
-- A Markdown previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's built in Markdown previewers (Optional, if you plan to make changes locally).
+- A text editor with Markdown syntax highlighting. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (optional, if you plan to make changes locally).
+- A Markdown previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's built in Markdown previewers (optional, if you plan to make changes locally).
 
 ## Forking
  
@@ -73,7 +73,7 @@ Pick an option and click "Commit Changes".
 
 GitHub under the hood is a Git Service. You can clone your fork to your PC and make changes there.
 
-if you have Git installed, enter this in your Command Line Interface (CLI) :
+if you have Git installed, enter this in your Command Line Interface (CLI):
 ```prolog
 git clone https://github.com/<your github username (ie. peppy)>/osu-wiki 
 ```
@@ -83,7 +83,7 @@ and this should clone your fork into the folder you specified. You can now proce
 
 After making your changes locally, you will need to commit this on your local copy.
 
-This can be done by entering this to the Command Line Interface (CLI) : 
+This can be done by entering this to the Command Line Interface (CLI): 
 ```prolog
 git add .
 git commit -m "<explain your changes here>"
@@ -147,7 +147,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 ###  How would this differ from the old wiki?
 
 - We use GitHub for collaboration. You can make mass changes easily and efficiently and you can delay your changes as long as you like.
-- Unlike the old osu!wiki, changes has to go pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
+- Unlike the old osu!wiki, changes has to be made by pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
 - Linking is done manually, and must be done using static linking.
 - **No Templates**. You must duplicate the template and paste it accordingly to the article you are editing.
 - Deletion of media is easier and requires no special wiki function. However, this has to go under go the pull request protocol.
