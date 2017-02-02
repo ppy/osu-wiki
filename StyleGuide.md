@@ -20,8 +20,6 @@ _Special thanks: <http://ecotrust-canada.github.io/markdown-toc/> (sourced from 
   + [Notable difference from MediaWiki background.](#endmw)
 
 ## Introduction <a name="introduction"></a>
-This is a draft wiki styling guide v7.
-
 **Restructure or rewrite the whole page to GitHub-flavoured Markdown(GFM)-compliance.** HTML tags are out-of-question.
 
 GFM can be learned in one day, but do not expect too much out of it as it intended for plaintext with bare-minimum formatting needed to function as a readable file for a webpage.
@@ -32,18 +30,18 @@ Link: <https://new.ppy.sh/wiki/>
 1. HTML tags not supported (any HTML tags and its contents will be removed from public view).
 2. Image display is literal display without proper encapsulation.
 
-**_Not supported (in GitHub view):-_**
+**_Not supported (in GitHub view):_**
 1. HTML5 inline CSS (specifically, "style"/"class" attribute) standard,
 2. color (all types),
 3. underline (the `<u>` tag). Use **_Bold&Italic_** instead or _Italic_ depending on the paragraph styling used.
 
 ## Page rule <a name="page-rule"></a>
-**_Headers:-_**
+**_Headers:_**
 - **Level 1 header** must be the **title of the page**.
 - All other headers used must be level 2 onwards as see fit.
 - Leave a space empty before writing the header name after setting `#` (header level).
 
-**_Links:-_**
+**_Links:_**
 - When linking to other pages, you do not need to specify the specific language file (done by osu!web with 'locales').
   - Capitalisation and punctuation is strict (must be spelt exactly or _404 not found_) when directing to the page.
     - Linking to osu!catch: `/wiki/Game_Modes/osu!catch/`
@@ -53,7 +51,7 @@ Link: <https://new.ppy.sh/wiki/>
 - When translating, keep the **english link reference name**.
   - This is to ease maintenance in the event of image/link problem (direct copy and paste, rather than hunting for that one link to be fixed).
 
-**_Keyboard keys:-_**
+**_Keyboard keys:_**
 - Use grave marks (\`) and [camelCase](https://en.wikipedia.org/wiki/Camel_case) format.
   - Example 1: `;`
   - Example 2: `D`
@@ -61,7 +59,7 @@ Link: <https://new.ppy.sh/wiki/>
   - Example 4: `leftCtrl`
   - Example 5: `Shift`-`1`
 
-**_Page study of interest:-_**
+**_Page study of interest:_**
 - [FAQ](https://github.com/ppy/osu-wiki/tree/master/wiki/FAQ/en.md) {general structure, image structure style (same level)}
 - [Multiplayer](https://github.com/ppy/osu-wiki/tree/master/wiki/Multiplayer/en.md) {general structure, raw HTML table usage, image structure style (same level)}
 - [Skinning](https://github.com/ppy/osu-wiki/tree/master/wiki/Skinning/en.md) {Image structure style (img folder)}
@@ -70,7 +68,7 @@ Link: <https://new.ppy.sh/wiki/>
 
 ## General styling <a name="general-styling"></a>
 ```Markdown
-GitHub-flavoured Markdown (GFM)-specific:-
+GitHub-flavoured Markdown (GFM)-specific:
 Headers     : Use '#' styling. Keep it less than 5 levels if possible.
 Bold        : **bold**    (double asterisks)
 Italics     : _italics_   (single underscore)
@@ -111,14 +109,14 @@ Assuming the fact that the file structure right now is _not a permanent file str
 - When translating, keep the **english link reference name**.
   - This is to ease maintenance in the event of image/link problem (direct copy and paste, rather than hunting for that one link to be fixed).
 
-Markdown:-
+Markdown:
 ```Markdown
-Reference style:-
+Reference style:
 [page text][my-reference]
 ...
 [myreference]: https://www.google.com "Omnipotent searchbar"
 
-Inline style:-
+Inline style:
 [page text](link "hover-over text")
 ```
 
@@ -134,7 +132,7 @@ Inline style:-
     - Linking to specific section of FAQ: `/wiki/FAQ#ive-never-played-this-ouendan-thing---what-is-it/`
 
 ## Images <a name="images"></a>
-**_Image display on the page:-_**
+**_Image display on the page:_**
 - Image display is as is without any formatting at all.
   - It is best not to nest images inside GFM's table. (?)
 - For mobile display, hover-over text can be displayed by tapping on the image. The display of the hover-text may show up in extreme-left side of the mobile screen, rendering the alt-text unreadable. If the image was clickable, the hover-over text will not be displayed, and you will be directed to the link instead.
@@ -158,7 +156,7 @@ or
 [![alt-text][thumb1]][full1]
 ```
 
-**_Image storage:-_**
+**_Image storage:_**
 - Put **images relevant only to the page** at the **same level as the page itself**.
   - For older images, put in a deprecated folder (?).
   - For images that will be used on other pages, put to `/wiki/shared` folder.
@@ -226,13 +224,13 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
 ```
 
 ## Unconfirmed <a name="#unconfirmed"></a>
-**_Reusable templates:-_**
+**_Reusable templates:_**
 - No idea. Likely, no support.
 
-**_Navigation bar/box:-_**
+**_Navigation bar/box:_**
 - Waiting for new wiki's user front-page prototype.
 
-**_Main page?:-_**
+**_Main page?:_**
 - See #94 for a proposed public draft (Welcome).
   - For a wiki meta-sitemap, no idea as of now. Refer to oldwiki's
   - [Click for the project page](https://github.com/ppy/osu-wiki/projects/1)
