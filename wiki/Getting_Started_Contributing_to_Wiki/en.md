@@ -147,7 +147,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 ###  How would this differ from the old wiki?
 
 - We use GitHub for collaboration. You can make mass changes easily and efficiently and you can delay your changes as long as you like.
-- Unlike the old osu!wiki, changes has to be made by pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
+- Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
 - Linking is done manually, and must be done using static linking.
 - **No Templates**. You must duplicate the template and paste it accordingly to the article you are editing.
 - Deletion of media is easier and requires no special wiki function. However, this has to go under go the pull request protocol.
