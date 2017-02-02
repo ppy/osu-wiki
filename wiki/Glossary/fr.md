@@ -196,41 +196,41 @@ Cependant, veuillez noter que les couleurs de combo définies dans le skin sont 
 
 ![R.I.P. combo fire](img/combo-fire.jpg)
 
-The combo fire was a feature in osu! that would display a burning yellow flame after obtaining a combo of 30.
-If the player obtains a combo of 500, the combo fire colour will change from yellow to blue.
-The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+Le combo fire était une fonctionnalité dans osu! qui affichait une flamme jaune après avoir obtenu un combo de 30.
+Si le joueur obtenait un combo de 500, la couleur du combo fire passait du jaune au bleu.
+Le combo fire s'éteignait de lui-même si le combo était cassé, mais pouvait toujours être redéclanché.
 
-This feature was later disabled due to performance concerns.
+Cette fonctionnalité a été par la suite désactivée à cause de problèmes de performances.
 
 ### Cookie
 
 ![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie, is another word for "osu!logo" which has appeared many times in the osu!client.
-The cookie is seen in the main menu, in solo mode, and previously in old crash reports (seen [here](img/Pippi_corruption.jpg)).
+Le cookie est un autre terme désignant le "osu!logo", qui apparaît plusieurs fois dans le client osu!.
+Le cookie est présent dans le menu principal, en mode solo, et précédemment dans les vieux rapports de crash ([voir un exemple](img/Pippi_corruption.jpg)).
 
 ## D
 
 ### Deathstreams
 
-A deathstream is a very long stream whose objects follow each other in a very rapid succession and/or in confusing patterns.
-These usually causes the player to lose their stamina very quickly and potentially fail the beatmap.
+Un deathstream est un long flux ou les objets se suivent les uns les autres en se succédant de manière rapide et/ou en formant des patterns assez confus.
+Ils amènent généralement le joueur à perdre sa "stamina" de manière rapide, et potentiellement à échouer la beatmap.
 
-It is heavily suggested to only use deathstreams when a beatmap hints it and/or has a high BPM.
-This should **not** be used to overmap!
+Il est fortement suggéré d'utiliser les deathstreams uniquement lorsque la beatmap l'insinue et/ou qu'elle a un BPM élevé.
+Ce principe **ne devrait pas** être utilisé pour faire des overmaps!
 
-### Difficulty stars
+### Etoiles (terme original : Difficulty stars)
 
-The difficulty stars is the visual representation of a beatmap's difficulty.
-This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+Les étoiles sont la représentation visuelle de la difficulté d'une beatmap.
+Cette note est comprise entre 0 et 10 étoiles (en théorie), et est basé sur un algorithme.
 
-osu! currently uses two different algorithms to calculate difficulty stars:
+osu! utilise actuellement deux algorithmes pour calculer les étoiles:
 
-- peppy's algorithm
-  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
-- Echo's algorithm (not in use)
+- l'algorithme de peppy
+  - déterminé en utilisant le multiplicateur bonus de score (en fonction de la difficulté) et l'algorithme d'eyup
+- l'algorithme d'Echo (non utilisé actuellement)
 
-You can see a beatmap's difficulty stars when testing it in the editor, on the song selection screen, or at its listing in the site.
+Vous pouvez voir les étoiles d'une beatmap en la testant dans l'éditeur, sur l'écran de sélection de la chanson, ou sur son listing sur le site.
 
 ### Difficulties
 
