@@ -15,22 +15,6 @@ To be able to contribute to osu!wiki you must have the following :
 - A text editor with Markdown syntax highlighting. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (Optional, if you plan to make changes locally).
 - A Markdown previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's built in Markdown previewers (Optional, if you plan to make changes locally).
 
-## Creating a GitHub Account 
-
- To get started in contributing to osu!wiki, you must first sign up for a GitHub Account.
-
- Go to the [GitHub Homepage](https://github.com).
-
- ![GitHub Homepage Screenshot](1.JPG "Github Homepage")
-
- Then click "Sign Up" and fill the following Fields like in this example.
-
- ![Registration Snapshot Example](2.jpg "Registration Snapshot")
-
- Now click "Create an account" and you're well on your way to contribute to osu!wiki.
-
-_Note: GitHub will send you a confirmation email to continue usage of your account._
-
 ## Forking
  
  To be able to make changes to the repository, you must first create your own copy of the repository. This is known as "forking".
