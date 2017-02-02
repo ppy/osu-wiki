@@ -18,9 +18,6 @@ _Special thanks: <http://ecotrust-canada.github.io/markdown-toc/> (sourced from 
 * [Et Cetera](#et-cetera)
   + [Why not stay at MediaWiki?](#emw)
   + [Notable difference from MediaWiki background.](#endmw)
-* [Deprecated](#deprecated)
-  + [Table of Content (from @LiquidPL and @TPGPL on Discord, not needed. End-result website will auto-generate TOC)](#dtoc)
-* [Download](#download)
 
 ## Introduction <a name="introduction"></a>
 This is a draft wiki styling guide v7.
