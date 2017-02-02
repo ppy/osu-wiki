@@ -137,60 +137,60 @@ Le thread généré vous aide à obtenir des feedbacks de moddeurs et d'autres j
 
 ### Changelog
 
-The changelog is a forum thread where peppy and the osu!dev team details their day-by-day improvements, additions and bug fixes.
+Le changelog est un thread ou peppy et la team osu!dev détaillent leurs améliorations, ajouts et bug fixes jour après jour.
 
-To see the changelog, see [Recent Releases](https://osu.ppy.sh/p/changelog).
+Pour consulter le changelog, allez sur [Les dernières releases (en anglais)](https://osu.ppy.sh/p/changelog).
 
 ### Choke
 
-A choke occurs when the player almosts obtains a full combo while playing a beatmap, but loses it near the end.
+Un choke intervient quand le joueur obtient presque un full combopendant qu'il joue à une beatmap, mais qu'il le perd peu avant la fin.
 
-On the contrary, a reverse choke is when the player loses their combo at the beginning but obtains a full combo for the rest of the beatmap.
+Au contraire, un "reverse choke" intervient quand un joueur perd son combo au début, mais obtient un full combo sur le reste de la beatmap.
 
 ### Collab
 
-Collab (or collaboration) has two meanings:
+Collab (or collaboration) a deux significations:
 
-1. the work of multiple mappers mapping a single beatmap; usually a marathon beatmap
-   - when collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap
-   - this is to ensure that the creator has done enough to upload the map under their username
-2. the mapset containing guest difficulties
+1. le travail de plusieurs mappeurs mappant une seule beatmap; généralement une beatmap marathon
+   - quand il y'a collaboration sur une beatmap, le créateur doit mapper la majorité (au moins la moitié) de la beatmap
+   - ceci afin de s'assurer que le créateur en a fait assez pour uploader la beatmap avec son nom d'utilisateur
+2. une mapset contenant des difficultés crées par des "guests"
 
-Collab may sometimes be used in difficulty version names.
+La collab peut parfois être utilisée en tant que nom de difficulté pour la ou les maps.
 
 ### Combo
 
-Combo has two meanings:
+Combo a deux significations:
 
-1. a set of hitcircles and sliders that comes one after another (also called a comboset)
-2. the number representing the number of objects a player has hit consecutively without missing or sliderbreaking once
-   - this number is displayed in various places:
-     - bottom-left for osu!standard
-     - on the drums in osu!taiko
-     - above the fruit catcher in osu!catch
-     - centre of the stage in osu!mania (vertical height varies by skin)
+1. un ensemble de cercles de frappe et de sliders qui viennent les uns après les autres (aussi appelé comboset)
+2. Le combo représente le nombre d'objets qu'un joueur a frappé consécutivement sans en manquer ou sans casser un slider une seule fois
+   - ce nombre est affiché à de multiples endroits:
+     - en bas à gauche en osu!standard
+     - sur les tambours en osu!taiko
+     - au dessus du fruit catcher en osu!catch
+     - au centre du niveau en osu!mania (la hauteur verticale varie en fonction du skin utilisé)
 
 ### Comboburst
 
-The comboburst is a collection of skinned elements/images that will _burst_ out from the left or right of the screen (or the right side of the osu!mania stage) after obtaining a combo of 30, 60, 100, (multiples of 50, after 100).
+Le comboburst est une collection d'éléments/images qui _"burst"_ depuis la gauche ou la droite de l'écran (ou la droite du niveau en mode osu!mania) après avoir obtenu un combo de 30, 60, 100, (multiples de 50, après 100).
 
 ### Combo colour
 
-The combo colour is a colour that that separates one combo from another.
+La combo colour est une couleur qui sépare un combo d'un autre.
 
-In osu!standard, all combos have a colour.
-A new combo is started when the colour of the hitobject changes.
-The colours will keep repeating themselves depending on how many the mapper defined (or how many your skin's skin.ini file defines).
-There is a minimum of 2 and a maximum of 8 combo colours.
+En osu!standard, tous les combos ont une couleur.
+Un nouveau combo démarre quand la couleur de l'objet à frapper change.
+Les couleurs se répèteront indéfiniment en fonction du nombre de couleurs défini par le mappeur (ou de combien de couleurs sont définies dans le skin.ini du skin personnalisé).
+Il y'a un minimum de 2 et un maximum de 8 couleurs de combo.
 
-In osu!catch, each object is coloured in the order given.
-Droplets and end-slider fruit will always have the same colour as the start-fruit.
-However, bananas will always have a tint of yellow.
+En osu!catch, chaque objet est coloré dans l'ordre donné.
+Les droplets et fruits de fin de sliders auront toujours la même couleur que le fruit de départ.
+Cependant, les bananes auront toujours une teinte jaune.
 
-When editing a beatmap, one can change those colours and/or their order in the Song Setup section.
+A l'édition d'une beatmap, il est possible de changer les couleurs et leur ordre dans la section "Song Setup".
 
-For skins, the skin properties for the combo colours is located on in the `[Colours]` section of the skin.ini.
-However, do note that the skin's defined combo colours is only used when the mapper does **not** define them.
+Pour les skins, les propriétés pour les couleurs personnalisées sont situées dans la section `[Colours]` du fichier skin.ini.
+Cependant, veuillez noter que les couleurs de combo définies dans le skin sont utilisées que si le mappeur **ne les définit pas** pour une beatmap.
 
 ### Combo fire
 
