@@ -8,10 +8,10 @@ Les ajouts et modifications sont les bienvenus !
 
 ## A
 
-### Abandoned wasteland -- TODO
+### Friche abandonnée (terme original : Abandoned wasteland)
 
-If the name isn't obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we don't really need in here."
-When a thread is "wastelanded", it is moved there.
+Pour ceux qui trouvent que le nom n'est pas assez évident, la friche abandonnée est un sous-forum caché ou les instructions données aux modérateurs en charge sont "Mettez dedans les choses dont nous n'avons pas besoin".
+Quand un thread est considéré comme un "wastelanded", il est déplaçé dans ce sous-forum.
 
 ### AFK
 
@@ -149,7 +149,7 @@ Au contraire, un "reverse choke" intervient quand un joueur perd son combo au d�
 
 ### Collab
 
-Collab (or collaboration) a deux significations:
+Collab (abbréviation de collaboration) a deux significations:
 
 1. le travail de plusieurs mappeurs mappant une seule beatmap; généralement une beatmap marathon
    - quand il y'a collaboration sur une beatmap, le créateur doit mapper la majorité (au moins la moitié) de la beatmap
