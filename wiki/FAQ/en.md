@@ -54,8 +54,8 @@
 [Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch bananas"
 [Hyperfruit image]: /wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits"
 [osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
-[osu!mania tapbars image]: /wiki/shared/Mania_tapbars.jpg "osu!mania tapbars"
-[osu!mania holdbars image]: /wiki/shared/Mania_holdbars.jpg "osu!mania holdbars"
+[osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
+[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania holdnotes"
 [osu! Interface image]: /wiki/shared/Interface_osu.jpg "osu! Interface"
 [osu!taiko Interface image]: /wiki/shared/Interface_taiko.jpg "osu!taiko Interface"
 [osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch Interface"
@@ -184,7 +184,7 @@ For newcomers of osu!taiko mode, the screen is split to two different sections; 
 
 Please note that health drain is disabled in osu!taiko, so only the hitobjects will affect the healthbar. Combo will not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During Kiai Time, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
-##### Taiko note
+##### Taiko notes
 ![Taiko hitcircles][Taiko hitcircles image]
 
 _osu!taiko notes of various colour and size_
@@ -296,27 +296,27 @@ When converting an osu!standard beatmap, the default key range would be around 4
 
 _In-game playfield interface of osu!catch_
 
-By default, the flow of the hitobjects falls from top to bottom of the convenyor (the starting arrow will show where hitobjects will flow to), with the key control at the bottom and the judgement barline above the key control. To reverse the control and flow of the playfield, it can be changed in the Options sidebar; click on _osu!mania layout_ button to set osu!mania keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+By default, the flow of the notes falls from top to bottom of the convenyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement barline above the key control. To reverse the control and flow of the playfield, it can be changed in the Options sidebar; click on _osu!mania layout_ button to set osu!mania keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
 
 Healthbar is located at the right side of the conveyor belt. Please note that health drain is disabled in osu!mania, so only the hitobjects will affect the healthbar. Combo will not break when playing the keys on empty judgement barline.
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) while playing or while in song selection menu. Alternatively, `F3` (faster) or `F4` (slower) during gameplay only.
 
-##### Tapbars
-![osu!mania's tapbars][osu!mania tapbars image]
+##### Notes
+![osu!mania's notes][osu!mania notes image]
 
-_A typical play with consecutive and simultaneous tapbars_
+_A typical play with consecutive and simultaneous notes_
 
-Tapbars are the hitcircles of osu!mania. Tapbars are falling bars to be tapped on the judgement barline, with correct key corresponding to each of the tapbar falls into. More keys corresponding to the falling tapbars must be tapped simultaneously if the tapbars fall simultaneously.
+Notes are the hitcircles of osu!mania. The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to. More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
 
-##### Holdbars
-![osu!mania's Holdbars][osu!mania Holdbars image]
+##### Holdnotes
+![osu!mania's holdnotes][osu!mania holdnotes image]
 
-_A typical play with some holdbars_
+_A typical play with some holdnotes_
 
-Holdbars are the sliders and spinners of osu!mania. When the holdbar reaches the judgement barline, tap the starting tapbar in time with correct key, hold, and release it at the ending tapbar of the holdbar.
+Holdnotes are the sliders and spinners of osu!mania. When the holdnote reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the holdnote.
 
-Healthbar regeneration occurs slowly while holding the holdbar(s). Depending on the song and mapping quirks, it is possible that other tapbars or holdbars will appear while holding the holdbar(s).
+Healthbar regeneration occurs slowly while holding the holdnote(s). Depending on the song and mapping quirks, it is possible that other notes or holdnotes will appear while holding the holdnote(s).
 
 #### Controls
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
@@ -395,8 +395,9 @@ _Detailed explanation of scoring can be found at the game style's own respective
 **Regarding the "Ranks" in profile page**
 - Grades obtained will be set at the profile page under General-&gt;Ranks provided the in-game account connected online with Bancho server when receiving the grade.
   - **Offline play**, even with account logged in, **will not be counted**.
-- **Grades given for profile depends on beatmap difficulties, not as whole.**
+- **Grades given for profile depends on beatmap difficulties and top score grade, not as whole.**
   - If the beatmap has 3 difficulties, and SS'ed all three of them; 3 SS will be given, not just one SS in the profile.
+  - However, if replaying an SS'ed difficulty and gained a new highscore (from better spinner bonus or game modifiers bonus) but was an S, then the SS counter will decrement by one and S counter increment by one instead.
 
 ## Performance Points
 _Full explanation: [Performance Points][Performance Points wikilink]_
