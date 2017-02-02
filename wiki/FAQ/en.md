@@ -184,12 +184,12 @@ For newcomers of osu!taiko mode, the screen is split to two different sections; 
 
 Please note that health drain is disabled in osu!taiko, so only the hitobjects will affect the healthbar. Combo will not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During Kiai Time, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
-##### Note
+##### Taiko note
 ![Taiko hitcircles][Taiko hitcircles image]
 
 _osu!taiko notes of various colour and size_
 
-Each notes will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes) respectively.
+Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes) respectively.
 
 If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the TaTaCon. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the TaTaCon. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
 
