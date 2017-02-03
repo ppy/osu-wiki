@@ -1,29 +1,27 @@
-Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt?* von: neonat](https://osu.ppy.sh/forum/p/3215699) (und modifiziert)
+Eigene Hinsounds hinzufügen
+===========================
 
-Notiz
-----
-
-\***.mp3** ist ein Platzhalter! Es ist empfohlen das du \***.wav** nutzt! (Aber du kann auch nach wie vor \***.mp3** nutzen)!
+Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt* von: neonat](https://osu.ppy.sh/forum/p/3215699) (und modifiziert)
 
 Die eigenen Hitsounds besorgen
 ---------------------------
 
 Als erstes wirst du einige eigene Hitsounds benötigen.
 
--   Du kannst sie aus der [Custom Hitsound Library](Custom_Hitsound_Library "wikilink") bekommen
--   Oder dir deine eigene erstellen
+-   Du kannst sie aus der [Custom Hitsound Library](Custom_Hitsound_Library "wikilink") bekommen.
+-   Oder du erstellst dir deine eigene!
 
 Selber die Hitsounds in den Song Ordner einfügen
 -------------------------------------
 
-Wenn du nicht weißt wo du den Song Ordner findest, kannst du diese Schritte befolgen.
+Wenn du nicht weißt wo du den Song Ordner findest, kannst du diese Schritte befolgen:
 
 1.  Öffne osu!
-2.  Klicke auf Edit
-3.  Navigiere zu *deine Beatmap hier* und öffne sie
-4.  Klicke oben auf Datein (Files) (Das Menu oben-links, es ist die weiß gefärbte Leiste oben)
-5.  Öffne den Song Ordner
-6.  *und füge sie hier ein*
+2.  Klicke auf Edit.
+3.  Navigiere zu *deine Beatmap hier* und öffne sie.
+4.  Klicke oben auf Datein (Files) (Das Menu oben-links, es ist die weiß gefärbte Leiste oben).
+5.  Öffne den Song Ordner.
+6.  *und füge die Hitsounds hier ein*
 
 Entscheide dich welche Art von Ton sie sind
 ----------------------------------
@@ -40,15 +38,15 @@ Dann entscheidest du dich, ob du möchtest das dein Hitsound ein Hit, Clap, Whis
 
 Du hast die Datei (Sagen wir mal Soft clap) **soft-hitclap**.mp3 genant.
 
-Mehrere Hitsound mit dem  selben Namen
+Mehrere Hitsound mit dem selben Namen
 -------------------------------------
 
-Wenn du mehr Abwechslung haben möchtest, oder mehr Optionen für Clap und so weiter brauchst, kannst du einfach eine Zahl dahinter schreiben.
+Wenn du mehr Abwechslung haben möchtest oder mehr Optionen für Clap und so weiter brauchst, kannst du einfach eine Zahl dahinter schreiben.
 
 ### Beispiel 2
 
 Wie **normal-hitclap2**.mp3 oder wie **soft-hitfinish3**.mp3
 
-Du solltest nicht vergessen, dass du in den Timing Setup gehen muss und die Hitsound Choice auf Custom stellen musst, und die Spezifische Nummer.
+Du solltest nicht vergessen, dass du im *Timing Setup* die Hitsound Choice auf Custom mit der jeweiligen Nummer stellen musst.
 
 ![](ACH_02.png "ACH_02.png")
