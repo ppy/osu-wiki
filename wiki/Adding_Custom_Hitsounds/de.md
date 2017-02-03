@@ -3,7 +3,7 @@ Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt?* von: neonat](https
 Notiz
 ----
 
-\***.mp3** ist ein Platzhallter! Es ist empholen das du \***.wav** nutzt! (Aber du kann auch nachwievor \***.mp3** nutzen)!
+\***.mp3** ist ein Platzhalter! Es ist empfohlen das du \***.wav** nutzt! (Aber du kann auch nach wie vor \***.mp3** nutzen)!
 
 Die eigenen Hitsounds besorgen
 ---------------------------
@@ -28,7 +28,7 @@ Wenn du nicht weißt wo du den Song Ordner findest, kannst du diese Schritte bef
 Entscheide dich welche Art von Ton sie sind
 ----------------------------------
 
-Das ist wichtig... irgendwie. Bennene sie wie du willst, sei es **finish**, die **whistle**, die **clap** oder nur der **normal hit**.
+Das ist wichtig! Benenne sie wie du willst, sei es **finish**, die **whistle**, die **clap** oder nur der **normal hit**.
 
 Abhängig von welcher Art von Hitsound du haben möchtest, sollte der Dateiname mit **soft**, **normal** oder **drum** beginnen.
 
@@ -38,7 +38,7 @@ Dann entscheidest du dich, ob du möchtest das dein Hitsound ein Hit, Clap, Whis
 
 ### Beispiel 1
 
-Du hast die Datei (Sagen wir mal Soft clap) **soft-hitclap**.mp3 gennant.
+Du hast die Datei (Sagen wir mal Soft clap) **soft-hitclap**.mp3 genant.
 
 Mehrere Hitsound mit dem  selben Namen
 -------------------------------------
