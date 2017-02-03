@@ -181,7 +181,7 @@ or
   - May need to manually salvage the images from the old osu!wiki yourself.
 
 ## Table styling <a name="table-styling"></a>
-Based from #70 :<br>
+Based from #70 :  
 Use Markdown table. Most of the Markdown will work except the unordered/ordered listing (must use HTML tags, see: <https://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table>).
 
 Please be reminded that (minimum):
@@ -201,20 +201,24 @@ Name | Play mode
 **Bob** | ~~Taiko~~ _osu!mania_
 **Anon** | Hi!<ul><li>osu!<ul><li>Skill: A</li></ul></li><li>Taiko<ul><li>Skill: B</li></ul></li><li>Catch the Beat<ul><li>Skill: C</li></ul></li><li>osu!mania<ul><li>Skill: B</li></ul></li></ul> **_[My page!](http://osu.ppy.sh/u/1 "Annoying moose")_**
 
-^ For a more extreme version of GFM & HTML hybrid, check out [osu!store](/wiki/osu!store/en.md) page. <br />
-GitHub link: https://github.com/ppy/osu-wiki/blob/master/wiki/osu!store/en.md <br />
+For a more extreme version of GFM & HTML hybrid, check out [osu!store](/wiki/osu!store/en.md) page.  
+GitHub link: https://github.com/ppy/osu-wiki/blob/master/wiki/osu!store/en.md  
 RAW: https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/osu!store/en.md
+
+(Please note that the above three lines have two trailing whitespaces intentionally)
 ```
 
 Name | Play mode
 :---: | ---
-**RH** | osu! <br />Catch the Beat
+**RH** | osu! <br /> Catch the Beat
 **Bob** | ~~Taiko~~ _osu!mania_
 **Anon** | Hi!<ul><li>osu!<ul><li>Skill: A</li></ul></li><li>Taiko<ul><li>Skill: B</li></ul></li><li>Catch the Beat<ul><li>Skill: C</li></ul></li><li>osu!mania<ul><li>Skill: B</li></ul></li></ul> **_[My page!](http://osu.ppy.sh/u/1 "Annoying moose")_**
 
-^ For a more extreme version of GFM & HTML hybrid, check out [osu!store](/wiki/osu!store/en.md) page. <br />
-GitHub link: https://github.com/ppy/osu-wiki/blob/master/wiki/osu!store/en.md <br />
+For a more extreme version of GFM & HTML hybrid, check out [osu!store](/wiki/osu!store/en.md) page.  
+GitHub link: https://github.com/ppy/osu-wiki/blob/master/wiki/osu!store/en.md  
 RAW: https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/osu!store/en.md
+
+(Please note that the above three lines have two trailing whitespaces intentionally)
 
 P.S. A neat feature if you are using Github's Atom; you can type `table` then press ENTER and it will generate a template GFM table for you.
 ```Markdown
