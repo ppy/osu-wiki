@@ -9,11 +9,17 @@ So here's a few things you should have in mind to get you started for contributi
 
 To be able to contribute to osu!wiki you must have the following:
 
-- Basic knowledge in VCS (Version control system), particularly Git (optional, if you plan to make changes locally).
-- Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - A [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/).
-- A text editor with Markdown syntax highlighting. We either use [Visual Studio Code](https://code.visualstudio.com) or [Atom](https://atom.io) (optional, if you plan to make changes locally).
-- A Markdown previewer with **GFM** Support (Github-Flavoured Markdown). We use [Shiba](https://github.com/rhysd/Shiba) or Atom and Visual Studio Code's built in Markdown previewers (optional, if you plan to make changes locally).
+- Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), specifically [Github-Flavoured Markdown(GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub").
+
+Optionally, if you plan to make changes locally:
+
+- A text editor with Markdown syntax highlighting.
+  - We either use Microsoft's [Visual Studio Code](https://code.visualstudio.com) or Github's [Atom](https://atom.io).
+  - Any text editor will suffice if you do not need the syntax highlighting.
+- A Markdown previewer with **GFM** support. 
+  - We use [Shiba](https://github.com/rhysd/Shiba), or Visual Studio Code/Atom's built-in GFM previewers.
+- Basic knowledge in VCS (Version control system), particularly [Git](https://git-scm.com/ "Git").
 
 ## Forking
  
@@ -36,9 +42,11 @@ Finally, you should see something like this.
 ![Fork Snapshot](5.JPG "Fork Snapshot")
 
 Congratulations! You have made a copy of the osu!wiki repository! You can now proceed to make changes.
+
 ## Making Changes 
 
 ### Through GitHub's Web Editor
+
 If you don't want the hassle of cloning your fork into your PC, GitHub offers editing through your browser.
 
 To edit a page, go to the folder of that page and select the language of that article. From here, you should see something like this.
@@ -65,7 +73,7 @@ You would be given an option where to save your edits.
   - This will commit the changes through your branch directly.
 
 - **"Create a New Branch"** 
-  - Automatically creates a Branch for your edits. A commit and a branch with a default name (normally, it would be called ``username : patch-1``) would be created.
+  - Automatically creates a branch for your edits. A commit and a branch with a default name (normally, it would be called ``username : patch-1``) would be created.
 
 Pick an option and click "Commit Changes".
 
