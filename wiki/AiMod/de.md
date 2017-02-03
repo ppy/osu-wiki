@@ -1,6 +1,6 @@
 [AiMod](AiMod "wikilink") ist ein Programm in den Beatmap Editor, welchen du öffnest, indem du **\[Strg\] + \[Shift\] + \[A\]** drückst oder auf **File**, dann **Open AiMod** klickst. <img src="Aimod.png" title="fig:AiMod ist normalerweise dein erster Modder" alt="AiMod ist normalerweise dein erster Modder" width="300" /> AiMod wird neuen Mappern helfen ihre Beatmaps zu Modden. Das Problem mit dem AiMod ist, das der AiMod dazu erstellt wurde, um einfach zu sein, daher wird der AiMod keine Probleme mit "mapping patterns" oder schlecht eingestellten BPM/Timing finden. Daher wirst du auch einen [Modder](Modder "wikilink") benötigen um deine Beatmaps Modden zu lasssen.
 
-Nachdem der AiMod ein Blick über deine Beatmap geworfen hat (sollte recht schnell gehen), sollten Warnungnen und Fehler angezeigt werden. Wenn kein Problem gefunden wurde, dann Glückwunsch! Deine Beatmaphat den AiMod überstanden, jedoch wirst du noch einen menschlichen [Modder](Modder "wikilink") benötigen, der auch einen Blick über deinen Beatmap wirft., da, wie schon gesagt, der AiMod nicht alle Fehler bemerkt.
+Nachdem der AiMod ein Blick über deine Beatmap geworfen hat (sollte recht schnell gehen), sollten Warnungnen und Fehler angezeigt werden. Wenn kein Problem gefunden wurde, dann Glückwunsch! Deine Beatmap hat den AiMod überstanden, jedoch wirst du noch einen menschlichen [Modder](Modder "wikilink") benötigen, der auch einen Blick über deinen Beatmap wirft, da der AiMod nicht alle Fehler bemerkt.
 
 Tabs
 ----
@@ -11,7 +11,7 @@ Tabs
 
 **Compose**
 
--   Diese Probleme sind verbunden mit dem Platzieren der HitObjekte (HitCircle, Spinner, Slider, ...)
+-   Diese Probleme sind verbunden mit dem Platzieren der Hitobjekte (HitCircle, Spinner, Slider, ...)
     -   Du solltest auch ein Häckchen bei "Check distance snap" setzen. (Je nach länge der Beatmap könnte das etwas länger dauern)
 
 **Design**
