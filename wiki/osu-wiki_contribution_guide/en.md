@@ -111,8 +111,7 @@ _Note: However, If your authentication details were saved in Git already, no pro
 
 ## Pull Requests
 
-After pushing your commits, you must make a "Pull Request". This lets us know that your commits are ready to be reviewed.
-
+After pushing your commits, you must make a "Pull Request"(Abbreviated as "PR"). This lets us know that your commits are ready to be reviewed.
 
 Go to the "Pull Requests" tab.
 
@@ -136,14 +135,14 @@ _However, if you made changes in your master branch, the changes will be shown w
 
 Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
 
-- **Title** : the summary of the changes you have made
+- **Title** : The summary of the changes you have made
   - Note: it is really important to have a meaningful and clear title, otherwise it will cause confusion
 
-- **Leave a Comment** : the details of the changes you have made
+- **Leave a Comment** : The details of the changes you have made
 
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
-When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
+Click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes to the official branch.
 
 **Your commit messages should thoroughly explain your changes. Otherwise, the pull request may not be merged to the official branch!**
 
@@ -156,7 +155,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 
 ###  How would this differ from the old wiki?
 
-- We use GitHub for collaboration. You can make mass changes easily and efficiently and you can delay your changes as long as you like.
+- We use GitHub for collaboration. You can make mass changes easily and efficiently, and you can delay your changes for as long as you like.
 - Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
 - Linking is done manually, and must be done using static linking.
 - **No Templates**. You must duplicate the template and paste it accordingly to the article you are editing.
