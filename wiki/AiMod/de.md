@@ -43,8 +43,6 @@ Nachrichten
 >Beachte: Nummer innerhalb von geschwungenen Klammern ("{0}") sind Platzhallter für eine Nummer oder ein Wort.
 
 
-### Informationen
-
 #### All
 
 | Nachricht | Erklärung | Lösung |
@@ -58,7 +56,7 @@ Nachrichten
 | HP rate for Easy/Normal is suggested to be at least 4. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 4 oder höher |
 | HP rate for Hard and up is suggested to be at least 7. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 7 oder höher |
 | OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Geh zu den Song Einstellungen und setze die "OD rate" auf 7 oder höher  |
-| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Geh zu den Timing Tab und setze die 'Slider Velocity' zu 1,40 oder 1,60 |
+| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Geh in den Timing Tab und setze die 'Slider Velocity' auf 1,40 oder 1,60 |
 
 
 ### Errors
@@ -73,7 +71,7 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Beachte das Videos nicht als Hintergrundbilder zählen, da der Spieler die Videos nicht unbedingt herrunterladen muss! | Finde ein angemessendes Bild und nutze es als Hintergrundbild. |
+| Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Beachte das Videos nicht als Hintergrundbilder zählen, da der Spieler die Videos nicht unbedingt herunterladen muss! | Finde ein angemessendes Bild und nutze es als Hintergrundbild. |
 
 
 ### Warnings
@@ -83,9 +81,9 @@ Nachrichten
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
 | This slider moves in an abnormal way. | | |
-| This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo. (It is prefered that length of combos are, at most, 15-18) |
-| This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (time-wise) to the spinner. | Change the length of the spinner and/or remove the following objects |
-| Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object's end |
+| This combo is very long. Consider splitting it up. | Die länge der Combo kann die die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Geh zu der Problematischen Combo und entscheide wo eine neue Combo gestartet werden soll. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
+| This spinner appears onscreen later than objects which follow it. | Objekte erscheinen wenn der der Spinner sichtbar ist. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Ändere die Länge des Spinners und/oder entferne die Folgenen Objekte. |
+| Object's end is offscreen! | Objeckte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Remove or move the object's end |
 | Object is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object |
 | This object is too close to the previous object. | | |
 | This object is too far from the previous object. | | |
