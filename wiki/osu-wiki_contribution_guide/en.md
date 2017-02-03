@@ -107,6 +107,8 @@ git push origin <branch>
 ```
 This should prompt you to enter your GitHub login credentials. After you enter them, this should push your commits to GitHub.
 
+_Note: Always check if your copy is synced with your remote. enter ``git status`` to check for any uncommitted changes and the status of your local repositry versus your remote repository._
+
 _Note: However, If your authentication details were saved in Git already, no prompt will appear and will proceed directly to push. This can be done by [caching your Git credentials](https://help.github.com/articles/caching-your-github-password-in-git/)._
 
 ## Pull Requests
