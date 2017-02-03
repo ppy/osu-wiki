@@ -1,6 +1,13 @@
-[AiMod](AiMod "wikilink") ist ein Programm in den Beatmap Editor, welchen du öffnest, indem du **\[Strg\] + \[Shift\] + \[A\]** drückst oder auf **File**, dann **Open AiMod** klickst. <img src="Aimod.png" title="fig:AiMod ist normalerweise dein erster Modder" alt="AiMod ist normalerweise dein erster Modder" width="300" /> AiMod wird neuen Mappern helfen ihre Beatmaps zu Modden. Das Problem mit dem AiMod ist, das der AiMod dazu erstellt wurde, um einfach zu sein, daher wird der AiMod keine Probleme mit "mapping patterns" oder schlecht eingestellten BPM/Timing finden. Daher wirst du auch einen [Modder](Modder "wikilink") benötigen um deine Beatmaps Modden zu lasssen.
+AiMod
+========
 
-Nachdem der AiMod ein Blick über deine Beatmap geworfen hat (sollte recht schnell gehen), sollten Warnungnen und Fehler angezeigt werden. Wenn kein Problem gefunden wurde, dann Glückwunsch! Deine Beatmap hat den AiMod überstanden, jedoch wirst du noch einen menschlichen [Modder](Modder "wikilink") benötigen, der auch einen Blick über deinen Beatmap wirft, da der AiMod nicht alle Fehler bemerkt.
+[AiMod](AiMod "wikilink") ist ein Programm im Beatmap Editor, welchen du öffnest, indem du **\[Strg\] + \[Shift\] + \[A\]** drückst oder auf **File**, dann **Open AiMod** klickst.
+
+![AiMod](Aimod.png "AiMod is usually your first modder")
+
+ AiMod wird neuen Mappern helfen ihre Beatmaps zu Modden. Das Problem mit dem AiMod ist, dass der AiMod dazu erstellt wurde, um einfach zu sein. Daher wird der AiMod keine Probleme mit **mapping patterns** oder schlecht eingestellten BPM/Timing finden. Daher wirst du auch einen [Modder](/wiki/Glossary) benötigen, der dir deine Beatmaps Moddet.
+
+Nachdem der AiMod ein Blick über deine Beatmap geworfen hat (sollte recht schnell gehen), sollten Warnungnen und Fehler angezeigt werden. Wenn kein Problem gefunden wurde, dann Glückwunsch! Deine Beatmap hat den AiMod überstanden, jedoch wirst du noch einen menschlichen [Modder](/wiki/Glossary) benötigen, der auch einen Blick über deinen Beatmap wirft, da der AiMod nicht alle Fehler bemerkt.
 
 Tabs
 ----
@@ -11,7 +18,7 @@ Tabs
 
 **Compose**
 
--   Diese Probleme sind verbunden mit dem Platzieren der Hitobjekte (HitCircle, Spinner, Slider, ...)
+-   Diese Probleme sind verbunden mit dem Platzieren der Hitobjekte (Hitcircle, Spinner, Slider, ...)
     -   Du solltest auch ein Häckchen bei "Check distance snap" setzen. (Je nach länge der Beatmap könnte das etwas länger dauern)
 
 **Design**
@@ -20,15 +27,15 @@ Tabs
 
 **Timing**
 
--   Wenn diese Probleme erscheinen, solltest du die Timeline überprüfen, da warscheinlich irgendetwas falsch platziert wurde.
+-   Wenn diese Art von Problemen erscheint, solltest du die Timeline überprüfen, da warscheinlich irgendetwas falsch platziert wurde.
 
 **Meta**
 
--   Wenn diese Art von Problemen erscheinen, solltest du deinen Einstellungen im Song Setup überprüfen.
+-   Wenn diese Art von Problemen erscheint, solltest du deine Einstellungen im Song Setup überprüfen.
 
 **Mapset**
 
--   Diese Probleme betreffen dein Mapset als ein ganzes.
+-   Diese Probleme betreffen dein gesammtes Mapset.
 
 Nachrichten
 --------
@@ -36,7 +43,7 @@ Nachrichten
 >Beachte: Nummer innerhalb von geschwungenen Klammern ("{0}") sind Platzhallter für eine Nummer oder ein Wort.
 
 
-### Informational
+### Informationen
 
 #### All
 
@@ -170,6 +177,3 @@ Nachrichten
 | This mapset needs at least 2 standard diffs. | Standard maps only! | |
 | This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
 | Uninherited timing points conflict with {0} diff. | | |
-
-
-<Category:Beatmapping> <Category:Modding>
