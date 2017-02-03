@@ -1,7 +1,7 @@
-Getting started on contributing to the osu!wiki
+How to Contribute to the osu!wiki
 ==================
 
-Thanks for your interest in making osu!wiki better! As you can see, we have moved everything to [GitHub](https://github.com/ppy/osu-wiki).
+Thanks for your interest in making osu!wiki better! As you can see, everything has been moved to [GitHub](https://github.com/ppy/osu-wiki).
 
 So here's a few things you should have in mind to get you started for contributing to the osu!wiki.
 
@@ -65,7 +65,7 @@ You would be given an option where to save your edits.
   - This will commit the changes through your branch directly.
 
 - **"Create a New Branch"** 
-  - Automatically creates a Branch for your edits. This is useful if you're making bulk edits.
+  - Automatically creates a Branch for your edits. A commit and a branch with a default name (normally, it would be called ``username : patch-1``) would be created.
 
 Pick an option and click "Commit Changes".
 
