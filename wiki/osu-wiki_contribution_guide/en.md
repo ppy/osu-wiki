@@ -145,7 +145,7 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 
 When you are finished, click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes.
 
-**Your commit messages must thoroughly explain your changes, otherwise, they will not get merged!**
+**Your commit messages should thoroughly explain your changes. Otherwise, the pull request may not be merged to the official branch!**
 
 ## FAQ
 
@@ -160,7 +160,7 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 - Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed by staff or someone with write permissions. This adds a layer of security against spammers and vandals.
 - Linking is done manually, and must be done using static linking.
 - **No Templates**. You must duplicate the template and paste it accordingly to the article you are editing.
-- Deletion of media is easier and requires no special wiki function. However, this has to go under go the pull request protocol.
+- Addition, deletion, and renaming of media is easier and requires no special wiki function. However, this has to undergo the pull request protocol.
 - Tables are supported by a bare-minimum with GFM (without extensions), unlike MediaWiki. However, this does mean we will need to code some tables with HTML for extreme cases.
 - Markdown is sensitive. Using the wrong capitalization in links can break them (i.e. links and images).
 
