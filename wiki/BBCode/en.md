@@ -6,7 +6,6 @@ In osu!, BBCode is used in forum posts, signatures and userpages. This article i
 
 Notice: BBCode tags can be combined to create an even richer formatting but if you do so, make sure to respect the order of the tags or your code might break.
 
-  
 For example: \[<span style="color: red;">centre</span>\]\[<span style="color: blue;">b</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] is correct but \[<span style="color: blue;">b</span>\]\[<span style="color: red;">centre</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] isn't.
 
 For tips and tricks, you can check out [this thread](https://osu.ppy.sh/forum/t/445599) by .
@@ -580,5 +579,3 @@ A second line</p>
 </tr>
 </tbody>
 </table>
-
-<Category:Website>

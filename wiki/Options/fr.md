@@ -96,10 +96,10 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 
 | scope="col" width="15%" colspan=2| Nom                                         | scope="col" width="35%" colspan=3| Effet                                                                                                             |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| colspan=2|OpenGL                                                               | colspan=3|Cochez cette option si vous :                                                                                                              
-                                                                                                                                                                                                                                        
-                                                                                  -   N'avez pas de carte graphique supportant les shaders                                                                                              
-                                                                                  -   Subissez des lags intenses en cours de jeu                                                                                                        
+| colspan=2|OpenGL                                                               | colspan=3|Cochez cette option si vous :  
+
+                                                                                  -   N'avez pas de carte graphique supportant les shaders
+                                                                                  -   Subissez des lags intenses en cours de jeu
                                                                                   -   Utilisez une carte graphique ne supportant pas DirectX.                                                                                           |
 | colspan=2|DirectX (Par défaut)                                                 | colspan=3|Utilise les shaders pour améliorer grandement les graphismes et les effets visuels, mais peut ne pas fonctionner sur d'anciennes machines. |
 | colspan=5|Limiteur de FPS: (contrôle le nombre d'images maximales par seconde) |
@@ -718,5 +718,3 @@ Onglet Maintenance
 </tr>
 </tbody>
 </table>
-
-

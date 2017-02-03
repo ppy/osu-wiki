@@ -163,7 +163,6 @@ skin.ini 就跟 .osu 和 .osb 文件一样，可以使用“//”来进行注释
 
 ***注：所有的颜色值均使用RGB或RGBa格式表示。*** (关于RGB颜色，参考 [维基百科条目](wikipedia:三原色光模式 "wikilink"))
 
-  
 以下是默认值
 
 <table>
@@ -280,11 +279,11 @@ skin.ini 就跟 .osu 和 .osb 文件一样，可以使用“//”来进行注释
 | HitCircleOverlap: | *正/负整数* | -2      | 圆圈所用字体元素重叠的像素数  |
 | ScorePrefix:      | *prefix*    | score   | 游戏右上表示分数的字体名称    |
 | ScoreOverlap:     | *正/负整数* | -2      | 分数所用字体元素重叠的像素数  |
-| ComboPrefix:      | *prefix*    | score   | 表示combo的字体名称：         
-                                                                            
-                                             -   osu!: 位于左下方           
-                                             -   CtB: 位于小人上方          
-                                             -   Taiko: 位于鼓面上          
+| ComboPrefix:      | *prefix*    | score   | 表示combo的字体名称：  
+
+                                             -   osu!: 位于左下方
+                                             -   CtB: 位于小人上方
+                                             -   Taiko: 位于鼓面上
                                              -   Mania: 位于游戏区域中央    |
 | ComboOverlap:     | *正/负整数* | -2      | combo所用字体元素重叠的像素数 |
 
@@ -887,5 +886,3 @@ RepeatTopAndBottom</p></td>
 </tr>
 </tbody>
 </table>
-
-[Category: Skinning/ZH](Category:_Skinning/ZH "wikilink")

@@ -1,4 +1,4 @@
-  
+
 ***[Click to return to Mascots page](Mascots "wikilink")***
 
 osu! Originals

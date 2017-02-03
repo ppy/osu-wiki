@@ -1,4 +1,4 @@
-Las [dificultades](ES:Song_Setup#Difficulty "wikilink") faciles son faciles de hacer una vez que entiendes sus bases. Primero, empieza siguiente la siguiente configuración recomendada para la difucultad:
+Las [dificultades](ES:Song_Setup#Difficulty) faciles son faciles de hacer una vez que entiendes sus bases. Primero, empieza siguiente la siguiente configuración recomendada para la difucultad:
 
 -   Drenaje de HP: 4 o menos
 -   Tamaño de circulos (CS) : 2 o 3
@@ -6,24 +6,24 @@ Las [dificultades](ES:Song_Setup#Difficulty "wikilink") faciles son faciles de h
 -   Dificultad general (OD): 4 or less
 -   Velocidad de deslizadores: De acuerdo con los beats por minuto (BPM), puede ser desde 0.8x en canciones más rápidas o incluso 1.6x en canciones más lentas.
 
-Ahora, vas a querer usar la función de [Distance Snap](ES:Distance_Snap "wikilink") sobre todo en una dificultad Facil. Asi que, '''ajusta el multiplicador de la distancia de chasqueo de tal manera que los círculos que están separados por un sólo beat no se superpongan entre ellos. Para círculos tamaño 4 una distancia de chasqueo de .5 debería funcionar. Los nuevos jugadores a seguido notan que los círculos que se sobreponen así son difíciles de leer.
+Ahora, vas a querer usar la función de [Distance Snap](ES:Distance_Snap) sobre todo en una dificultad Facil. Asi que, '''ajusta el multiplicador de la distancia de chasqueo de tal manera que los círculos que están separados por un sólo beat no se superpongan entre ellos. Para círculos tamaño 4 una distancia de chasqueo de .5 debería funcionar. Los nuevos jugadores a seguido notan que los círculos que se sobreponen así son difíciles de leer.
 
-![](Farther Aparts.png "Farther Aparts.png")
+![Farther Aparts](Farther_Aparts.png "Farther Aparts")
 
 Los beats más alejados entre si son mejores para los jugadores nuevos.
 
-![](Less_so.png "Less_so.png")
+![Less so](Less_so.png "Less so")
 
 Los beats más cercanos entre ellos son mejores para jugadores avanzados.
 
-Ajusta el [Beat Snap Divisor](ES:Beat_Snap_Divisor "wikilink") a 1/1, luego selecciona el círculo, presiona a reproducir y empieza a colocar círculos al ritmo de la música.
+Ajusta el [Beat Snap Divisor](ES:Beat_Snap_Divisor) a 1/1, luego selecciona el círculo, presiona a reproducir y empieza a colocar círculos al ritmo de la música.
 
-Ahora, tu ritmo principal aquí debería ser todo otro beat. Empieza con el [downbeat](ES:Timing "wikilink") y comienza colocando un círculo en cada beat. Como sea, verás que esto es aburrido y da mucho sueño. Es por esto que regresamos y editamos cosas para pulir el caso un poco y que los jugadores no mueran de aburrimiento. Te conviene hacer tres cosas:
+Ahora, tu ritmo principal aquí debería ser todo otro beat. Empieza con el [downbeat](ES:Timing) y comienza colocando un círculo en cada beat. Como sea, verás que esto es aburrido y da mucho sueño. Es por esto que regresamos y editamos cosas para pulir el caso un poco y que los jugadores no mueran de aburrimiento. Te conviene hacer tres cosas:
 
 Mantenerte a ritmo
 ------------------
 
-Imagina que un "." es un beat sin un [hit circle](ES:Hit_Object "wikilink"), y que una "O" es un beat con un "hit circle" (Las dificultades fáciles deberían ser mapeadas conforme al ritmo en la mayoría de los casos, con unas cuantas excepciones). Este es un patrón simple que podrías intentar:
+Imagina que un "." es un beat sin un [hit circle](ES:Hit_Object), y que una "O" es un beat con un "hit circle" (Las dificultades fáciles deberían ser mapeadas conforme al ritmo en la mayoría de los casos, con unas cuantas excepciones). Este es un patrón simple que podrías intentar:
 
 O.O.OOO.
 
@@ -42,6 +42,4 @@ Los Spinners (Ruletas) deben ser usadas muy moderadamente en dificultades facile
 
 La razón es porque la mayoría de los jugadores nuevos van a reaccionar muy lentamente a una ruleta, así que se retrasan para empezarlas. Lo que también provocará que empiecen a girar de manera alocada, usualmente rayando en todo el perimetro de la pantalla. Una vez que la ruleta este completada, estarán muy probablemente desorientados y preguntandose donde está su cursor. This is la razón por la que si tienes una ruleta enmedio de una fase mapeada, deberías permitirle al jugador el mayor tiempo posible para recuperarse. Esto es de 3-4 pulsos después de la ruleta, pero puede variar dependiendo del BPM. También se sugiere a los Mapeadores colocar las notas/deslizadores cerca del centro del área de juego una vez que la ruleta haya acabado.
 
-Las ruletas son frecuentemente usadas en dificultades faciles en lugares donde un [stream](https://osu.ppy.sh/wiki/Streams) iría en un mapa más dificil.
-
-<Category:Beatmapping/ES> <Category:Spanish>
+Las ruletas son frecuentemente usadas en dificultades faciles en lugares donde un [stream](/wiki/Mapping_Techniques/Streams) iría en un mapa más dificil.

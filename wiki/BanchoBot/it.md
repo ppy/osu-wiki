@@ -14,7 +14,6 @@ Apparenza e funzioni
     -   Se invii il comando senza il punto esclamativo ("!") mentre sei nella chat con BanchoBot, egli riceverà comunque i messaggio come quando usi il comando /bb
 -   Non puoi usare i comandi senza il punto esclamativo se non sei sulla chat di BanchoBot.
 
-
 #### Comandi standard (!COMANDO oppure /bb COMANDO)
 
 | COMANDO | Effetti | Esempio | Risposta di BanchoBot |
@@ -26,9 +25,7 @@ Apparenza e funzioni
 | REQUEST | Show a random recent mod request. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (numero) | Tira un dado (virtuale) e dà un risultato casuale da uno a (numero) (il default è di 100) | !roll 9000 | John rolls 1337 point(s) |
 
-
 Curiosità
 ---------
 
 -   [Anonymous](http://osu.ppy.sh/u/1) è l'utente 1, [peppy](http://osu.ppy.sh/u/2) è l'utente 2, [BanchoBot](http://osu.ppy.sh/u/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.
-

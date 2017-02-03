@@ -502,7 +502,6 @@ Ustawienia te pozwalają na zmianę poszczególnych elementów dźwięku w grze.
 
 ### Globalne opóźnienie muzyki
 
-  
 ***[Szczegółowa metoda konfiguracji.](PL:Universal_Offset "wikilink")***
 
 If, in every single beatmap you play, you hear the sound effects out of sync with the song, you might need to adjust this value. Click and hold on the selector, then drag left or right. You can also place the cursor on the selector and move it using the left and right arrow keys. Continue adjusting until you find the position where the two different sounds are heard simultaneously. Alternatively, you can use Run Offset Wizard for a more graphical representation of ticks.
@@ -1009,7 +1008,6 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 
 ### Debug
 
-  
 **Nie ruszaj jeżeli nie wiesz do czego co służy. Tylko Eksperymentalna.**
 
 Ważne: Po przełączeniu części z nich będzie trzeba zrestartować osu!, ponieważ mogą nie działać prawidłowo.
@@ -1123,5 +1121,3 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
 6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.
-
-

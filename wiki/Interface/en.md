@@ -32,7 +32,6 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 
 ==Multi's lobby==
 
-  
 *Full explanation: [Multiplayer](Multiplayer "wikilink")*
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
@@ -42,7 +41,6 @@ Song Selection Screen
 
 <img src="soloplay1.jpeg" title="Song selection" alt="Song selection" width="300" />
 
-  
 Note: You can identify the song selection for a specific mode by checking the transparent leitmotif.
 
 ![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
@@ -200,7 +198,6 @@ Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| 
 Online score leader-board
 -------------------------
 
-  
 Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
@@ -228,5 +225,3 @@ Note: The back transparent leitmotif is based on what mode you played in.
 9.  Return to Song Selection.
 
 Osu! Online.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online osu!mania Online.png| osu!mania Online
-
-[Category:Infrastructure of osu!](Category:Infrastructure_of_osu! "wikilink")

@@ -1,20 +1,26 @@
-[200px|thumb|right|Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300".](image:sbpassing.png "wikilink") [200px|thumb|right|Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.](image:sbfailing.png "wikilink") Uma **Storyboard** (conhecida como SB) é uma imagem animada com dimensões máximas 640x480 (para 4:3) ou 1366x768 (para 16:9) que acompanha o [Beatmap](PT:Beatmap "wikilink"), normalmente apenas para enfeitar, algumas vezes para mudanças na jogabilidade. Storyboards são inspiradas de jogos como Osu! Tatakae! Ouendan, onde as storyboards se ajustam a performance do jogador e mostram coisas diferentes dependendo do quão bem o jogador esta jogando.
+Storyboarding
+===============
+
+![Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"](Sbpassing.png "Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"")
+![Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.](Sbfailing.png "Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.")
+
+Uma **Storyboard** (conhecida como SB) é uma imagem animada com dimensões máximas 640x480 (para 4:3) ou 1366x768 (para 16:9) que acompanha o [Beatmap](/wiki/Glossary), normalmente apenas para enfeitar, algumas vezes para mudanças na jogabilidade. Storyboards são inspiradas de jogos como Osu! Tatakae! Ouendan, onde as storyboards se ajustam a performance do jogador e mostram coisas diferentes dependendo do quão bem o jogador esta jogando.
 
 Storyboards são difíceis de fazer e requerem habilidade em animação e criação de gráficos
 
 Criando uma Storyboard
 ----------------------
 
-O [Editor de Storyboard](PT:Storyboard_Editor "wikilink") (conhecido como SBE) é localizado na Design tab (atalho do teclado F2) no Editor de Beatmaps. O SBE oferece aos usuários uma maneira simples de controlar os movimentos de imagens. porém ainda não tem todas as funcionalidades implementadas, apenas as funções principais estão disponíveis. Para fazer Storyboards mais complexas o mapper precisa adquirir conhecimento sobre o código de Storyboard e fazer efeitos diretamente no arquivo OSB. visite [Storyboard Scripting](PT:Storyboard_Scripting "wikilink") para mais informações
+O [Editor de Storyboard](/wiki/Storyboard_Editor) (conhecido como SBE) é localizado na Design tab (atalho do teclado F2) no Editor de Beatmaps. O SBE oferece aos usuários uma maneira simples de controlar os movimentos de imagens. porém ainda não tem todas as funcionalidades implementadas, apenas as funções principais estão disponíveis. Para fazer Storyboards mais complexas o mapper precisa adquirir conhecimento sobre o código de Storyboard e fazer efeitos diretamente no arquivo OSB. visite [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting) para mais informações
 
 Storyboards complexas
 ---------------------
 
-A lista completa de beatmaps [Ranked](PT:Ranked "wikilink") que incluem storyboards \[<http://osu.ppy.sh/p/beatmaplist?s=7&o=1&q>=&r=0&g=0&la=0&sb=1 pode ser vista aqui\]. Porém, essa pagina apenas mostra beatmaps com storyboards complexas. Para outras storyboards visite a [lista completa](PT:_Storyboarding/Maps "wikilink").
+A lista completa de beatmaps [Ranked](/wiki/Beatmaps) que incluem storyboards [pode ser vista aqui](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Porém, essa pagina apenas mostra beatmaps com storyboards complexas. Para outras storyboards visite a [lista completa](/wiki/Storyboarding/Maps).
 
 ### Notáveis Storyboards
 
--   [Suzuta Miyako - one's future](http://osu.ppy.sh/b/156919) (Full Ver.)
+-   [Suzuta Miyako - one's future (Full Ver.)](http://osu.ppy.sh/b/156919)
 -   [Queen - Don't Stop Me Now](http://osu.ppy.sh/b/26567)
 -   [minmin - O.M.E.N.](http://osu.ppy.sh/b/84355)
 -   [IOSYS feat. 3L - Miracle-Hinacle](http://osu.ppy.sh/b/67621)
@@ -41,5 +47,3 @@ A lista completa de beatmaps [Ranked](PT:Ranked "wikilink") que incluem storyboa
 
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
-
-<Category:Storyboarding/PT>

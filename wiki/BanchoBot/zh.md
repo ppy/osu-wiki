@@ -23,8 +23,6 @@
 | REQUEST (list) | 随机显示一个最近MOD的要求。 [list] Shows 5 random recent mod request | !request | Seether - Fake It by [Dellirium] |
 | ROLL (number) | 滚骰子随机得到数字 从1到(编号) （默认100） | !roll 9000 | John rolls 1337 point(s) |
 
-
 注意:
 
 -   !request指令中的地图不会经常更新，所以你可能会接到一个已经Rank的图
-

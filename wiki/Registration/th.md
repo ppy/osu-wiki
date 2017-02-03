@@ -2,7 +2,7 @@
 --------------
 
 <center>
-**<font size="5"><span style="color:#FF0000">คำเตือน: การสมัครมากกว่าหนึ่งไอดีจะเป็นการละเมิด<span class="plainlinks">[กฎของ osu!](http://osu.ppy.sh/wiki/TH:Rules)</span></span>**
+**<font size="5"><span style="color:#FF0000">คำเตือน: การสมัครมากกว่าหนึ่งไอดีจะเป็นการละเมิด<span class="plainlinks">[กฎของ osu!](/wiki/Rules)</span></span>**
 </font>
 <span style="font-size:18px">1. ที่<span class="plainlinks">[หน้าหลัก](https://osu.ppy.sh)</span> คลิก "<b>I'm new!</b>" เพื่อเริ่มลงทะเบียน </span>
 
@@ -34,6 +34,6 @@
 แล้วไงต่อ
 ---------
 
-คุณพร้อมผจญภัยในโลกของดนตรีแล้ว ดังนั้นรีบไปยังหน้า [welcome](https://osu.ppy.sh/wiki/TH:Welcome) แล้วเริ่มเล่นเลย และอย่าลืมอ่าน[กฎ](https://osu.ppy.sh/wiki/TH:Rules)ด้วยล่ะ
+คุณพร้อมผจญภัยในโลกของดนตรีแล้ว ดังนั้นรีบไปยังหน้า [welcome](/wiki/Welcome) แล้วเริ่มเล่นเลย และอย่าลืมอ่าน[กฎ](/wiki/Rules)ด้วยล่ะ
 
 ถ้ามีปัญหาอะไรในเกม ก็ลองถามคนในห้อง \#help (ภาษาอังกฤษ) ไม่ก็ห้อง \#thai (**ภาษาไทย** มีแต่คนไทย) หรือโพสต์ลงกระทู้ (ภาษาอังกฤษ)

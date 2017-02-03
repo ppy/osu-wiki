@@ -1,6 +1,9 @@
-![](Owc-2013.png "Owc-2013.png")
+osu! World Cup 2013
+======================
 
-L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](http://osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](Kr.gif "fig:Kr.gif") Korea**. AL momento, il torneo è in fase *' Registrazione*'.
+![OWC 2013 logo](logo.png)
+
+L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](//osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![](/wiki/shared/flag/Kr.gif) Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =
 
 -   Registrazione: 15-28 Oct 2013
@@ -12,41 +15,44 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](http://osu.ppy.sh
 -   Finali/lotta per il terzo posto: 7-8 Dec 2013
 
 Premi
-=====
+---------
 
 **\#1:** 6 mesi di supporter, piccolo banner sotto al nome utente, trofeo OWC
 **\#2:** 3 mesi di supporter
 **\#3:** 1 mese di supporter
 
 Organizzazione
-==============
+---------------
 
-**Gestione torneo:** ![](De.gif "fig:De.gif") [Loctav](http://osu.ppy.sh/u/Loctav), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](De.gif "fig:De.gif") [p3n](http://osu.ppy.sh/u/p3n)
-**Riferimenti:** [Tournament Management usergroup](http://osu.ppy.sh/g/26)
-**Scelta delle beatmap:** ![](Ar.gif "fig:Ar.gif") [Darksonic](http://osu.ppy.sh/u/Darksonic), ![](Ar.gif "fig:Ar.gif") [Wishy](http://osu.ppy.sh/u/Wishy)
-**Diretta trasmessa da:** ![](Ca.gif "fig:Ca.gif") [Nyquill](http://osu.ppy.sh/u/Nyquill), ![](Au.gif "fig:Au.gif") [kingking9](http://osu.ppy.sh/u/kingking9), ![](Us.gif "fig:Us.gif") [Love](http://osu.ppy.sh/u/Love), ![](Ee.gif "fig:Ee.gif") [ShinseinaTenshi](http://osu.ppy.sh/u/ShinseinaTenshi)
-**Commentatori:** ![](Fr.gif "fig:Fr.gif") [Mr Color](http://osu.ppy.sh/u/Mr_Color), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](Us.gif "fig:Us.gif") [Agnes](http://osu.ppy.sh/u/Agnes)
+**Gestione torneo:** ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/Loctav), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/p3n)
+
+**Riferimenti:** [Tournament Management usergroup](//osu.ppy.sh/g/26)
+
+**Scelta delle beatmap:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](//osu.ppy.sh/u/Darksonic), ![](/wiki/shared/flag/Ar.gif) [Wishy](//osu.ppy.sh/u/Wishy)
+
+**Diretta trasmessa da:** ![](/wiki/shared/flag/Ca.gif) [Nyquill](//osu.ppy.sh/u/Nyquill), ![](/wiki/shared/flag/Au.gif) [kingking9](//osu.ppy.sh/u/kingking9), ![](/wiki/shared/flag/Us.gif) [Love](//osu.ppy.sh/u/Love), ![](/wiki/shared/flag/Ee.gif) [ShinseinaTenshi](//osu.ppy.sh/u/ShinseinaTenshi)
+
+**Commentatori:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/Mr_Color), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/dkun), ![](/wiki/shared/flag/Us.gif) [Agnes](//osu.ppy.sh/u/Agnes)
 
 ------------------------------------------------------------------------
 
 Partecipanti (0/32)
-===================
+--------------------
 
 Mappools
-========
+-----------
 
 Links
-=====
+---------
 
--   [Discuti qui](http://osu.ppy.sh/forum/t/160181/start=0)
+-   [Discuti qui](//osu.ppy.sh/forum/t/160181/start=0)
 
 ------------------------------------------------------------------------
 
 Regolamento
-===========
+--------------
 
-Regolamento del torneo
-----------------------
+### Regolamento del torneo
 
 1.  L'osu! World Cup è un torneo 4 contro 4 a nazioni.
 2.  Le mappe per ogni round saranno annunciate da chi sceglie le mappe con una settimana in anticipo. Solo quelle saranno usate nei match.
@@ -71,23 +77,21 @@ Regolamento del torneo
 14. Unexpected incidences are handled by the judges. A referee's decision can be overwritten by the Tournament Management.
 15. Any modification of this rules will be announced.
 
-Registrazione al torneo
------------------------
+### Registrazione al torneo
 
 1.  Your team needs **at least 4 players** to participate.
     1.  The maximum team size is 8.
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
-    1.  Captains may change their setup by [notifying the management](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](//docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
+    1.  Captains may change their setup by [notifying the management](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5.  The total amount of teams is 32. First come, first serve.
 6.  Mapset selectors may not participate as a player in this tournament.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
@@ -105,8 +109,7 @@ Stage instructions
     -   In Round 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     -   In Semi-finals and Finals, you need to win 6 maps to with a match. (Best-of-11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  A referee will create a multiplayer room 30 minutes in advace. Players must gather during this period.
     1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -124,8 +127,7 @@ Match Instructions
 5.  Each captain must save the result of each game with a screenshot. Referees will remind each captain to do this.
 6.  Results will be published via Statistics spreadsheet.
 
-Mappool instructions
---------------------
+### Mappool instructions
 
 1.  There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
 2.  Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod
@@ -143,8 +145,7 @@ Mappool instructions
     -   3 in Group Stage
     -   4 in Knock-Out Stages
 
-Scheduling instructions
------------------------
+### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend** (refer to Tournament Schedule at the top)
 2.  In Group Stage, the first matches will be held on Friday (8. Nov), the second on Saturday (9. Nov), the third on Sunday (10. Nov)
@@ -154,4 +155,4 @@ Scheduling instructions
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3. Nov for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-<Category:Tournaments/IT> [Category:Official Tournaments/IT](Category:Official_Tournaments/IT "wikilink") [Category:Osu! Standard Tournaments/IT](Category:Osu!_Standard_Tournaments/IT "wikilink") [Category:Osu! World Cup/IT](Category:Osu!_World_Cup/IT "wikilink")
+>

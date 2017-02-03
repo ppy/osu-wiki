@@ -1,4 +1,4 @@
-  
+
 ***This is not a game nor a port. It only downloads beatmaps and basic navigation.***
 
 ![osu!MapDownloader](O!md.png "osu!MapDownloader")
@@ -71,8 +71,6 @@ Interface
 | ----- | ----- | ----- | ----- |
 | ![Settings (the sidebar)](Omd_Settings.jpg "Settings (the sidebar)") | ![Downloads list](Omd_Downloads.jpg "Downloads list") | ![Player info page](Omd_Player.jpg "Player info page") | |
 
-
-
 Settings sidebar
 ================
 
@@ -106,8 +104,7 @@ Shown details:
 * Total Score
 * Current Level
 * No. of SS/S/A
-* Recently played 
-
+* Recently played
 
 ### Some Options (Requires refresh)
 
@@ -118,7 +115,6 @@ Shown details:
 | Prefer full song | Set song preview to full song rather than a short five seconds song clip. |
 | Set Background | Set a background from your device's gallery. |
 | BG Blur radius | Apply how much blur to your background to ease reading the beatmap list. |
-
 
 ### Download Options
 
@@ -178,5 +174,3 @@ Links
     -   [Dropbox link source](https://osu.ppy.sh/forum/t/243961)
 -   [Source (ZH)](http://tieba.baidu.com/p/3628301383)
 -   <http://bloodcat.com/osu/> (Download source)
-
-[Category:Game Clients](Category:Game_Clients "wikilink")

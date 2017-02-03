@@ -1,4 +1,7 @@
-Ezen az oldalon találsz meg mindent ami tiltott [osu!](HU:Osu! "wikilink")-n belül. Lent kifejtett szekciókat találsz amik részletes információkkal látnak el bizonyos részeiről a játéknak.
+Szabályzat
+=============
+
+Ezen az oldalon találsz meg mindent ami tiltott [osu!](/wiki/Glossary)-n belül. Lent kifejtett szekciókat találsz amik részletes információkkal látnak el bizonyos részeiről a játéknak.
 
 Közösségi szabályzat
 --------------------
@@ -25,9 +28,9 @@ Fórum szabályzat
 BSS Fórum szabályzat
 --------------------
 
-Ezek a szabályok kifejezetten az egyedülálló természetű [BSS](HU:BSS "wikilink") ([Beatmap](HU:Beatmap "wikilink") Submission System) szálakra vonatkoznak. Ezek a szálak a játék kliens által generálódnak amikor egy beatmap töltődik fel az editoron keresztül.
+Ezek a szabályok kifejezetten az egyedülálló természetű [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) szálakra vonatkoznak. Ezek a szálak a játék kliens által generálódnak amikor egy beatmap töltődik fel az editoron keresztül.
 
-1.  Ne kreálj szálat a [Pending](HU:Pending "wikilink") és a [WIP](HU:WIP "wikilink") fórumokon. Használd a megfelelő alfórumot szál készítésénél. (Ez egyértelműen kizárja a BSS szálakat.)
+1.  Ne kreálj szálat a [Pending](/wiki/Beatmaps) és a [WIP](/wiki/Glossary) fórumokon. Használd a megfelelő alfórumot szál készítésénél. (Ez egyértelműen kizárja a BSS szálakat.)
 2.  Ne térj el a témától BSS szálakon. BSS szálak egy bizonyos mapról szólnak. Ha problémád van valami nem kifejezetten a maphoz tartozó dologgal, posztold azt a megfelelő fórumon.
 3.  Ne lopd el mások beatmapját és tégy úgy mint ha azt te készítetted volna. Ne töltsd fel mások munkáját az engedélyük nélkül sem (beleértve de nem kizárólag skinek és mások által készített nehézségek).
 
@@ -44,14 +47,12 @@ Játékbeli chat szabályzat
 1.  Semmi spam.
 2.  Némítás elkerülése azonnali korlátozáshoz vezet ha rajta kapnak, és rajta fognak.
     1.  Némításról való beszéd (előző saját vagy másé) publikus chaten tiltott és legalább 1 óra némítással büntetendő.
-
 3.  Publikus beszélgetés felnőtt tartalomról vagy bármiféle más kifejezett szexualitásról nem engedélyezett ahogy az a \#5-ös közösségi szabályzatban olvasható. Privát üzenetekre ez nem vonatkozik.
 4.  Semmilyen külső oldalra vezető link (képek, szálak, videók, stb) nem tartalmazhat fényérzékeny tartalmat (villódzó fények, stb).
 5.  Másoknak kiadni magad tilos, vezetőségnek kifejezetten.
 6.  Ne hirdess többjátékos szobákat \#lobby-n kívül.
 7.  Csalásról, hackelésről, bármilyen kliens módosításról vagy nem tisztességes játékról beszélgetni kifejezetten tilos.
     1.  Kitiltott játékosokat említeni és beszélgetni róluk is tilos.
-
 8.  Nyelv specifikus csatornákban beszélj a csatorna nyelvén. Ahol nincs feltüntetve a csatorna nyelve ott az angol a kötelező.
     1.  Moderátorok beszélhetnek angolul nyelv specifikus csatornákban ha az szükséges a helyzet megoldásához.
 
@@ -62,6 +63,6 @@ Kliens szabályzat
 2.  Játékmenet elemeket megváltoztatni bármilyen másfajta módon mint skinek, csalásnak minősül és súlyos büntetést von maga után.
 
 ------------
+
 Csalók azonnali korlátozásban és kitiltásban részesülnek az első alkalom után, várniuk kell 6 hónapot MINIMUM, hogy fellebbezzenek a tiltás ellen. Egyszerűen ne csináld. Kitiltások ritkán, ha egyáltalán, történnek hiba miatt.
 Bármelyik szabály megsértése korlátozással vagy némítással jár. Némított felhasználók nem használhatják a chatet, nem posztolhatnak a fórumra, nem frissíthetik beatmapjaikat és nem játszhatnak többjátékos módban. Korlátozott felhasználók megkapnak mindent amit a némított felhasználók ami mellett nem tölthetnek fel eredményeket és nem játszhatnak online semmiképpen sem. A korlátozás KOMOLY és csak a player support csapat tagjai oldhatják fel amit az accounts@ppy.sh e-mailen-en vagy a weboldalon periódikusan elérhető élő chaten lehet elérni
-

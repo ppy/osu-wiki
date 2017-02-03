@@ -1,7 +1,6 @@
 What are "Beatmaps"?
 ====================
 
-  
 *Beatmaps listing page: <http://osu.ppy.sh/p/beatmaplist>*
 
 Also called map for short, they are game levels in [osu!](Glossary#osu! "wikilink"), like the stages in the [DS games](Glossary#DS_games "wikilink"). In their most basic form, beatmaps have a song and [Hit Circles](Glossary#Hit_Circle "wikilink"), [Sliders](Slider "wikilink"), and/or [Spinners](Glossary#Spinner "wikilink") placed according to the rhythm of the music, but they can also have a background image or video, or even a [Storyboard](Storyboarding "wikilink"). Creators of beatmaps are called beatmappers or mappers for short. Beatmaps are uploaded for everyone to see and play with using the [BSS](Glossary#BSS "wikilink"), and are then [modded](Modding "wikilink"). If/Once a beatmap is deemed good enough, it is [ranked](Ranked_beatmap "wikilink") or, if fulfilling certain criteria, [approved](Approved_Beatmap "wikilink").
@@ -216,4 +215,3 @@ Why I can't download the beatmaps?
 
 -   You are not using an osu! account. The server treats you as a guest and beatmaps (except Beatmaps Packs that is) cannot be downloaded from the site until you log in.
     -   Downloading from the site contributes to server cost. The server cost itself to sustain osu! is not cheap (say, roughly $5,000 (USD) -- $10,000+ (USD) a month) and further increasing it may cause updates and further improvement delayed due to the asset mostly used up by the server cost.
-

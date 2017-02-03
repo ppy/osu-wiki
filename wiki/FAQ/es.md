@@ -13,7 +13,6 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 ¿Cómo puedo jugar?
 ------------------
 
-  
 *Explicación completa: [osu! Standard](ES:Standard "wikilink")*
 
 Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](ES:Play_Styles "wikilink") página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](ES:Ranked_beatmap "wikilink") y [aprobados](ES:Approved_Beatmap "wikilink")) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
@@ -95,7 +94,6 @@ Otros Modos de Juego
 ¿Qué es "Taiko"?
 ----------------
 
-  
 *Explicación completa: [Taiko](ES:Taiko "wikilink")*
 
 [200px|thumb|right|Jugando Taiko.](image:taiko.jpg "wikilink") [Taiko no Tatsujin](http://es.wikipedia.org/wiki/Taiko_no_Tatsujin) es un juego de ritmo hecho por Namco, que consiste en simular tocar los tambores al ritmo de la música. En osu!, los beatmaps pueden ser jugados al estilo de Taiko no Tatsujin mediante el uso del modo de juego special llamado Taiko.
@@ -147,7 +145,6 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 [200px|thumb|right|Jugando Catch The Beat.](image:ctbaqua.jpg "wikilink")
 
-  
 *Explicación completa: [Catch the Beat](ES:Catch_the_Beat "wikilink")*
 
 -   Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
@@ -155,7 +152,6 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 ### Controlando al catcher
 
-  
 Si el mod [relax](ES:Relax "wikilink") es usado, el catcher se controla moviendo el ratón.
 
 -   Por defecto, las flechas izquierda \[&lt;-\] y derecha \[-&gt;\] son usadas para mover al catcher.
@@ -166,7 +162,6 @@ Si el mod [relax](ES:Relax "wikilink") es usado, el catcher se controla moviendo
 
 ![ thumb | 200px | Ejemplo de juego (7K)]( Mania screenshot.jpg  " thumb | 200px | Ejemplo de juego (7K)")
 
-  
 *Explicación completa: [osu!mania](ES:Osu!mania "wikilink")*
 
 -   osu!mania es el tercer modo de juego especial añadido, después de Taiko y CtB.
@@ -264,7 +259,6 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 Scoring (Puntaje)
 =================
 
-  
 *Una explicación detallada del "scoring" puede ser encontrada en la página respectiva de cada modo de juego.*
 
 Notas
@@ -300,7 +294,6 @@ Problemas y Preguntas Frecuentes
 ¿Donde puedo encontrar beatmaps?
 --------------------------------
 
-  
 *Explicación detallada de los beatmaps: [Beatmaps](ES:Beatmaps "wikilink")*
 
 Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
@@ -353,5 +346,3 @@ Créditos
 -   Entrenamiendo para principiantes de Pokebis [1](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
-
-<Category:FAQ/ES> <Category:Gameplay/ES>

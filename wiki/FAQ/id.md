@@ -13,7 +13,6 @@ Kamu dapat melihat lingkaran-lingkaran di layar bawah, dan di layar atas terdapa
 Bagaimana cara memainkannya ?
 -----------------------------
 
-  
 "Penjelasan lebih lanjut: [osu! Standard](ID:Standard "wikilink")''
 
 Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](ID:Play_Styles "wikilink") . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
@@ -94,7 +93,6 @@ Alternatif Mode Permainan
 Apa itu"Taiko"?
 ---------------
 
-  
 *Penjelasan lebih lengkap: [Taiko](ID:Taiko "wikilink")*
 
 [200px|thumb|right|Permainan Taiko.](image:taiko.jpg "wikilink") [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) adalah sebuah game ritme yang menggunakan Drum yang dibuat oleh Namco, yang melibatkan simulasi permainan drum berdasarkan beat dalam suatu musik. Di dalam osu!, beatmap dapat dimainkan dalam mode Taiko no Tatsujin melalui penggunaan mode permainan special Taiko.
@@ -146,7 +144,6 @@ Apa itu "Catch the Beat"?
 
 [200px|thumb|right| Permainan Catch The Beat .](image:ctbaqua.jpg "wikilink")
 
-  
 *Penjelasan lebih lengkap: [Catch the Beat](ID:Catch_the_Beat "wikilink")*
 
 -   Catch the Beat (Tangkap Beat-nya) adalah mode permainan spesial kedua yang ditambahkan, setelah mode permainan Taiko.
@@ -154,7 +151,6 @@ Apa itu "Catch the Beat"?
 
 ### Mengarahkan penangkap
 
-  
 Jika mod [Relax](ID:Relax "wikilink") digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
 
 -   Secara *default*, arah panah kiri \[&lt;-\] dan kanan \[-&gt;\] pada keyboard berguna untuk mengarahkan penangkap.
@@ -165,7 +161,6 @@ Apa itu "osu!mania"?
 
 ![ thumb | 200px | Contoh permainan (7K) dalam osu!mania]( Mania screenshot.jpg  " thumb | 200px | Contoh permainan (7K) dalam osu!mania")
 
-  
 *Penjelasan lebih lengkap: [osu!mania](ID:Osu!mania "wikilink")*
 
 -   osu!mania adalah mode permainan spesial ketiga yang ditambahkan, setelah mode permainan Taiko dan CtB.
@@ -259,5 +254,3 @@ Gaya bermain *Kiri ke Kanan* (Untuk gaya Beatmania IIDX)
 </tr>
 </tbody>
 </table>
-
-[Category: FAQ/ID](Category:_FAQ/ID "wikilink") <Category:Gameplay/ID>

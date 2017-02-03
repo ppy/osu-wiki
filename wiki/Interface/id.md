@@ -37,7 +37,6 @@ Menu Bermain
 
 ==Lobi Bermain Bersama==
 
-  
 *Penjelasan lebih lanjut: [Bermain Bersama](ID:Multiplayer "wikilink")*
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
@@ -47,7 +46,6 @@ Layar Pemilihan Lagu
 
 <img src="soloplay1.jpeg" title="Pemilihan lagu" alt="Pemilihan lagu" width="300" />
 
-  
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
 ![](osu.gif "fig:osu.gif")"osu!" adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif")"Piano" adalah [osu!mania](ID:Mania "wikilink").
@@ -206,7 +204,6 @@ Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| 
 Papan peringkat skor daring
 ---------------------------
 
-  
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 
 ![](osu.gif "fig:osu.gif")"osu!" adalah [osu!](ID:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" adalah [Taiko](ID:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" adalah [Catch the Beat](ID:Catch_the_Beat "wikilink") dan ![](mania.gif "fig:mania.gif")"Piano" adalah [osu!mania](ID:Mania "wikilink")
@@ -234,5 +231,3 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 9.  Kembali ke Layar Pemilihan Lagu.
 
 Osu! Online score.png| osu! Daring Taiko Online.jpg| Taiko Daring CtB Online.png| Catch the Beat Daring
-
-[Category:Infrastructure of osu!/ID](Category:Infrastructure_of_osu!/ID "wikilink")

@@ -2,7 +2,7 @@ Les difficultés "Insane" (littéralement *folles*, *insensées* en anglais) son
 
 Ces difficutés peuvent aussi porter le nom "Lunatic" (provenant des séries *Touhou*), Another (des séries *beatmania*), Extreme (des séries *Jubeat Series*), etc.
 
-Les [critères de ranking](FR:Ranking_Criteria "wikilink") laissent aussi le droit au mapper de choisir le nom de sa difficulté Insane dans le cas où il s'agit de la difficulté la plus difficile de son mapset.
+Les [critères de ranking](FR:Ranking_Criteria) laissent aussi le droit au mapper de choisir le nom de sa difficulté Insane dans le cas où il s'agit de la difficulté la plus difficile de son mapset.
 
 Réglages initiaux
 -----------------
@@ -28,8 +28,6 @@ Overmapping
 
 Le défaut le plus couramment rencontré sur les Insane en cours de mapping est l*'overmapping*, il s'agit du fait de placer des éléments sur la map lorsqu'il n'y a pas lieu d'en placer à ce moment dans la musique. Voici deux points à retenir :
 
-1. Les [jumps](FR:Jumps "wikilink") et modifications brutales de la vitesse des sliders ne doivent être appliqués que lorsqu'ils suivent la musique. S'il ne s'agit pas d'une note importante (qui ne se différencie pas des autres), il est inutile d'utiliser ces techniques. Les Insanes ne servent pas à montrer votre talent à créer des maps difficiles ; le but que vous devez viser est plutôt de créer une map fun, agréable à jouer, tout en gardant un minimum de difficulté.
+1. Les [jumps](FR:Jumps) et modifications brutales de la vitesse des sliders ne doivent être appliqués que lorsqu'ils suivent la musique. S'il ne s'agit pas d'une note importante (qui ne se différencie pas des autres), il est inutile d'utiliser ces techniques. Les Insanes ne servent pas à montrer votre talent à créer des maps difficiles ; le but que vous devez viser est plutôt de créer une map fun, agréable à jouer, tout en gardant un minimum de difficulté.
 
 2. Les critères de ranking n'imposent pas que toutes les mapsets doivent avoir une Insane. Si vous trouvez votre Insane ennuyante et que vous n'arrivez pas à produire quelque chose d'original, peut-être devriez-vous songer à la supprimer et publier le mapset sans.
-
-<Category:Beatmapping/FR>

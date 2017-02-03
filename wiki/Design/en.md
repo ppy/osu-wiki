@@ -8,20 +8,20 @@ Getting Started
 1.  Place all your storyboard elements/pictures into your map's song folder and create a subfolder named "SB" for them.
 2.  Access your map through the editor and go to the "Design" screen.
 3.  Find the correct tick on the timeline above where you want your storyboard element to appear, then click on "Sprite Library" and select your picture.
-      
+
     Make sure your element doesn't surpass 800x600 px. That is the maximum threshold.
 
 4.  Now select the command of what you want your element to do (Move, Scale, Fade, Rotate or Colour) and press the "+" at "Keyframe Control" to place a point for the command at the current time you are on.
-      
+
     "-" on "Keyframe Control" removes the point again, and the arrows buttons let you jump between more points in the same command for the same SB element.
 
 5.  Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding color line between those points.
-      
+
     Green - Move ; Red - Scale ; Pink - Fade ; Yellow - Rotate ; Light Pink - Colour
 
 6.  At the command points you can change the factors of the function by holding your left mousebutton and moving your cursor up (increasing factor) or down (decreasing factor)
 7.  Repeat Step 3-6 for other elements.
-      
+
     To remove, use **"DEL" key** or Edit -&gt; Delete from top menu.
 
 **Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (eg move up -&gt; move down).
@@ -191,5 +191,3 @@ Source
 
 -   [m980's basic explanation](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=8145&p=67660#p67660)
 -   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)
-
-<Category:Storyboarding> [Category: Edit mode](Category:_Edit_mode "wikilink")

@@ -34,7 +34,6 @@ Um eine neue Beatmap zu starten, folge diesen einfachen Schritten:
 
 -   Die Audiodatei in osu! ziehen und ablegen.
 
-  
 Alternativ kann die Audiodatei auch in den "Songs" Ordner verschoben werden.
 
 -   Nach dem Einfügen sollte sich der Song öffnen und direkt im Edit angezeigt werden.
@@ -109,5 +108,3 @@ Genre wie z. B. Rock and Pop, Techno, usw. wird nicht ins &quot;Source&quot; Fel
 </table>
 
 Wie gesagt, um mögliche Unannehmlichkeiten zu vermeiden, solltest du sicherstellen, dass bei allen Schwierigkeitsstufen die Informationen, abgesehen vom Namen der Schwierigkeitsstufe, übereinstimmen.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Beatmapping/DE>

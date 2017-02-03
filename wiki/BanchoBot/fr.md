@@ -2,7 +2,7 @@
 
 Il a été conçu par [Zallius](https://osu.ppy.sh/u/Zallius) lors de la création d'osu!.
 
-Les [GMT](https://osu.ppy.sh/wiki/FR:GMT), [modérateurs de langue](https://osu.ppy.sh/wiki/FR:Language_Moderators) et autres membres du Staff ont le grand privilège de pouvoir le contrôler.
+Les [GMT](/wiki/People/Global_Moderation_Team), [modérateurs de langue](/wiki/People/Language_Moderators) et autres membres du Staff ont le grand privilège de pouvoir le contrôler.
 
 Profil de
 
@@ -26,6 +26,3 @@ Apparence et tâches
 | REPORT (reason) | Appelle un modérateur. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | 	Affiche une récente requête pour modding au hasard. [list] Affiche les 5 dernières requêtes pour modding. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (nombre) | Ecrit un chiffre au hasard compris entre 1 et le nombre tapé (100 par défaut) | !roll 9000 | John rolls 1337 point(s) |
-
-
-

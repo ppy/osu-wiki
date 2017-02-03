@@ -1,8 +1,12 @@
-This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
+Maps with Storyboards
+=====================
 
-### Storyboards
+This is an expanded list of beatmaps with [storyboard](/wiki/Storyboarding).
 
--   [Suzuta Miyako - one's future](http://osu.ppy.sh/b/156919) (Full Ver.)
+Storyboards
+------------------
+
+-   [Suzuta Miyako - one's future (Full Ver.)](http://osu.ppy.sh/b/156919)
 -   [Queen - Don't Stop Me Now](http://osu.ppy.sh/b/26567)
 -   [minmin - O.M.E.N.](http://osu.ppy.sh/b/84355)
 -   [IOSYS feat. 3L - Miracle-Hinacle](http://osu.ppy.sh/b/67621)
@@ -27,7 +31,8 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Katakiri Rekka - Get The Regret Over](http://osu.ppy.sh/s/27328)
 -   [Lon - Yuru Fuwa Jukai Girl](http://osu.ppy.sh/s/50462)
 
-### Songs With Cool Effects
+Songs With Cool Effects
+--------------------------
 
 -   [Kayano Ai - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)](http://osu.ppy.sh/b/106358)
 -   [Hayami Saori - Fallen Down](http://osu.ppy.sh/b/84748)
@@ -39,7 +44,6 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Nightcore - Jump Jump](http://osu.ppy.sh/b/45924)
 -   [Lia - Toki wo Kizamu Uta](http://osu.ppy.sh/s/35701)
 -   [Skrillex - First Of The Year](http://osu.ppy.sh/s/56791)
--   <s>Nightcore - I Touch Myself</s>
 -   [765PRO ALLSTARS - READY!!](http://osu.ppy.sh/s/41121)
 -   [Yuyoyuppe feat. Hanatan - Palette](http://osu.ppy.sh/b/57528)
 -   [Mike Morasky - Science is Fun](http://osu.ppy.sh/b/102450)
@@ -50,10 +54,10 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Panic! at the Disco - The Ballad of Mona Lisa](http://osu.ppy.sh/b/88207)
 -   [Ruslana - Wild Dances](http://osu.ppy.sh/b/98440)
 -   [Otokaze - Karen (Short Ver.)](http://osu.ppy.sh/s/50177) ([this version](http://puu.sh/yLYs), not by 'download' link)
--   [HTT - NO, Thank You!](http://osu.ppy.sh/b/66832) (Full Ver.)
+-   [HTT - NO, Thank You! (Full Ver.)](http://osu.ppy.sh/b/66832)
 -   [Okina Reika - Tsuki no Curse](http://osu.ppy.sh/s/41357)
 -   [CROW'SCLAW - Possession](http://osu.ppy.sh/s/17558)
--   [supercell - Kimi no Shiranai Monogatari](http://osu.ppy.sh/s/24472) (TV Size)
+-   [supercell - Kimi no Shiranai Monogatari (TV Size)](http://osu.ppy.sh/s/24472)
 -   [Owl City - Dreams Don't Turn To Dust](http://osu.ppy.sh/b/113469)
 -   [Tommy February6 - Lonely in Gorgeous](http://osu.ppy.sh/s/55000)
 -   [ChouCho - Yuuhi ga Oka](http://osu.ppy.sh/s/41769)
@@ -89,7 +93,8 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Doppelman - Error!!](http://osu.ppy.sh/s/50042)
 -   [SOUND HOLIC - Drive My Life](http://osu.ppy.sh/b/178904)
 
-### Beatmaps which have a soul™
+Beatmaps which have a soul™
+-----------------------------
 
 -   [Wiklund - Billy Boogie](http://osu.ppy.sh/s/22082)
 -   [Jimmy Eat World - The Middle](http://osu.ppy.sh/s/24685)
@@ -113,7 +118,7 @@ Ones which doesn't have a soul™ but still good
 -   [Ayane - Endless Tears...](http://osu.ppy.sh/s/24960)
 -   [Kishida Kyoudan & The Akeboshi Rockets - Rewriter](http://osu.ppy.sh/s/34376)
 -   [Misato Aki - Sayonara Kimi no Koe](http://osu.ppy.sh/s/28240)
--   [Annabel - anamnesis](http://osu.ppy.sh/s/44481) (TV Size)
+-   [Annabel - anamnesis (TV Size)](http://osu.ppy.sh/s/44481)
 -   [Yuya Matsushita - Trust Me](http://osu.ppy.sh/s/53070)
 -   [Kanon Wakeshima - Kagami](http://osu.ppy.sh/s/50659)
 -   [Hiroyuki Sawano - spirit](http://osu.ppy.sh/s/43214)
@@ -127,13 +132,22 @@ Not ranked
 -   [Poets Of The Fall - The Happy Song](http://osu.ppy.sh/s/58704)
 -   [ZUN - At the End of Spring](http://osu.ppy.sh/s/28274)
 -   [Duca - Clover](http://osu.ppy.sh/s/42096)
--   [Wakaba - Ashita, Boku wa Kimi ni Ai ni Yuku](http://osu.ppy.sh/s/30660) (Full Ver.)
--   [Ceui - Asphodelus](http://osu.ppy.sh/b/126437) (Short ver.)
+-   [Wakaba - Ashita, Boku wa Kimi ni Ai ni Yuku (Full Ver.)](http://osu.ppy.sh/s/30660)
+-   [Ceui - Asphodelus (Short ver.)](http://osu.ppy.sh/b/126437)
 -   [The Adventures of Duane & BrandO - MEGA MAN 2](http://osu.ppy.sh/b/55640)
 -   [Yooh - MariannE](http://osu.ppy.sh/s/301247)
 
-### Songs Which Change the Gameplay
+Songs Which Change the Gameplay
+---------------------------------
 
 -   [Seether - Fake It](https://osu.ppy.sh/s/48738)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
+Old and not interesting Songs
+-----------------------------
+
+- [Je t'aime](http://osu.ppy.sh/s/6818)
+- [Let's Dance](http://osu.ppy.sh/s/789)
+- [You're the Inspiration](http://osu.ppy.sh/s/4365)
+- [Without A Fight](http://osu.ppy.sh/s/4434)
+- [Hajimari no Sakamichi](http://osu.ppy.sh/s/12503)

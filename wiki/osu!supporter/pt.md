@@ -20,7 +20,7 @@ Vantagens de ser osu!supporter
 <!-- -->
 
 -   [Feature Requests](http://osu.ppy.sh/forum/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
--   [Seleção de Musica](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
+-   [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
 -   Seu Perfil: <http://osu.ppy.sh/u/>
     -   Você pode adicionar uma pagina do usuário no seu perfil.
         -   Sua pagina do usuário não será deletada quando osu!supporter expirar.
@@ -67,5 +67,3 @@ Duração
 -------
 
 <img src="O!s Duration.jpg" title="fig:Comparação entre osu!supporter ativo e inativo." alt="Comparação entre osu!supporter ativo e inativo." width="200" /> Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](http://osu.ppy.sh/p/support).
-
-

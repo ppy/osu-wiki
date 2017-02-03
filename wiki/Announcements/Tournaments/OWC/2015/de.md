@@ -1,13 +1,14 @@
-<img src="Osu!-world-cup-banner.jpg" title="Osu!-world-cup-banner.jpg" alt="Osu!-world-cup-banner.jpg" width="840" />
+osu! World Cup 2015
+======================
 
-Das **osu! World Cup 2015** (***OWC 2015*** ) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](http://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
+![OWC 2015 logo](logo.jpg)
 
-\_\_TOC\_\_
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](//osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
-===============
+---------------
 
-|                     |                             |
+| Event               | Timestamp                   |
 |---------------------|-----------------------------|
 | Registrierungsphase | 01.-18. Okt. 2015           |
 | Live-Ziehungen      | 01. Nov. 2015 14:00 (UTC+0) |
@@ -17,90 +18,65 @@ Turnierzeitplan
 | Halbfinale          | 28.-29. Nov. 2015           |
 | Finale - Woche 1    | 05.-06. Dez. 2015           |
 | Finale - Woche 2    | 12.-13. Dez. 2015           |
-||
 
 Preise
-======
+---------
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
-|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 38% vom erlangten Preispool, Profilabzeichen                                    |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 12% vom erlangten Preispool, Profilabzeichen                                    |
+| Placing                                                    | Prizes                                                                          |
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
 Organisation
-============
+-------------
 
-| Turnier Management | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") | ![](Fr.gif "fig:Fr.gif") |
-|--------------------|-----------------------------------------------------------------------------------------------------------|
-| Map Auswähler      | ![](Fr.gif "fig:Fr.gif") | ![](Hk.gif "fig:Hk.gif") | ![](Kr.gif "fig:Kr.gif")                            |
-| Streamer           | ![](De.gif "fig:De.gif") | ![](Pl.gif "fig:Pl.gif")                                                       |
-| Kommentatoren      | ![](Nz.gif "fig:Nz.gif") | ![](Ca.gif "fig:Ca.gif") | ![](Us.gif "fig:Us.gif")                            |
-| Statistiker        | ![](Pl.gif "fig:Pl.gif")                                                                                  |
+| Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| Map Auswähler      | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| Streamer           | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kommentatoren      | ![](/wiki/shared/flag/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
+| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 Links
-=====
+--------
 
--   [osu! World Cup 2015 auf Twitch](http://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
--   [Registrierungsseite](https://jizz.ppy.sh/tournaments/2)
+-   [osu! World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
+-   [Diskussionsthread](//osu.ppy.sh/forum/p/4550383)
+-   [Registrierungsseite](//jizz.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
 Participants
-============
+-------------
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
-| Teams                |
-|----------------------|
-| ![](Ar.gif "Ar.gif") |
-| ![](Au.gif "Au.gif") |
-| ![](Br.gif "Br.gif") |
-| ![](Cn.gif "Cn.gif") |
-| ![](De.gif "De.gif") |
-| ![](Fi.gif "Fi.gif") |
-| ![](Fr.gif "Fr.gif") |
-| ![](Gr.gif "Gr.gif") |
-| ![](Gb.gif "Gb.gif") |
-| ![](Hk.gif "Hk.gif") |
-| ![](It.gif "It.gif") |
-| ![](Jp.gif "Jp.gif") |
-| ![](Ca.gif "Ca.gif") |
-| ![](Lv.gif "Lv.gif") |
-| ![](Lt.gif "Lt.gif") |
-| ![](My.gif "My.gif") |
-| ![](Mx.gif "Mx.gif") |
-| ![](Nz.gif "Nz.gif") |
-| ![](Nl.gif "Nl.gif") |
-| ![](No.gif "No.gif") |
-| ![](At.gif "At.gif") |
-| ![](Ph.gif "Ph.gif") |
-| ![](Pl.gif "Pl.gif") |
-| ![](Pt.gif "Pt.gif") |
-| ![](Ru.gif "Ru.gif") |
-| ![](Se.gif "Se.gif") |
-| ![](Sg.gif "Sg.gif") |
-| ![](Kr.gif "Kr.gif") |
-| ![](Tw.gif "Tw.gif") |
-| ![](Th.gif "Th.gif") |
-| ![](Ua.gif "Ua.gif") |
-| ![](Us.gif "Us.gif") |
-||
+| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+|---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
+| ![](/wiki/shared/flag/Cn.gif) China              | ![](/wiki/shared/flag/Au.gif) Australia      | ![](/wiki/shared/flag/Ar.gif) Argentina | ![](/wiki/shared/flag/Gr.gif) Greece      |
+| ![](/wiki/shared/flag/Fr.gif) France             | ![](/wiki/shared/flag/At.gif) Austria        | ![](/wiki/shared/flag/Jp.gif) Japan     | ![](/wiki/shared/flag/It.gif) Italy       |
+| ![](/wiki/shared/flag/De.gif) Germany            | ![](/wiki/shared/flag/Br.gif) Brazil         | ![](/wiki/shared/flag/Lv.gif) Latvia    | ![](/wiki/shared/flag/Mx.gif) Mexico      |
+| ![](/wiki/shared/flag/Pl.gif) Poland             | ![](/wiki/shared/flag/Ca.gif) Canada         | ![](/wiki/shared/flag/Lt.gif) Lithuania | ![](/wiki/shared/flag/Nz.gif) New Zealand |
+| ![](/wiki/shared/flag/Ru.gif) Russian Federation | ![](/wiki/shared/flag/Fi.gif) Finland        | ![](/wiki/shared/flag/My.gif) Malaysia  | ![](/wiki/shared/flag/Ph.gif) Philippines |
+| ![](/wiki/shared/flag/Kr.gif) South Korea        | ![](/wiki/shared/flag/Hk.gif) Hong Kong      | ![](/wiki/shared/flag/No.gif) Norway    | ![](/wiki/shared/flag/Pt.gif) Portugal    |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan             | ![](/wiki/shared/flag/Nl.gif) Netherlands    | ![](/wiki/shared/flag/Se.gif) Sweden    | ![](/wiki/shared/flag/Sg.gif) Singapore   |
+| ![](/wiki/shared/flag/Us.gif) United States      | ![](/wiki/shared/flag/Gb.gif) United Kingdom | ![](/wiki/shared/flag/Th.gif) Thailand  | ![](/wiki/shared/flag/Ua.gif) Ukraine     |
 
 ------------------------------------------------------------------------
 
 Regelsätze
-==========
+------------
 
-Turnierregeln
--------------
+### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](//osu.ppy.sh/forum/t/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 
@@ -109,7 +85,7 @@ Turnierregeln
 6.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
     -   Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
 
-7.  Das Benutzen der [visuellen Einstellungen](DE:Game_Modifiers#Visual_Settings "wikilink") ist erlaubt.
+7.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 8.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9.  Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
     1.  Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.
@@ -122,7 +98,7 @@ Turnierregeln
 15. Wenn ein Spieler außerhalb der Matches die Verbindung verlieren sollte und das Team keine Alternative zur Verfügung hat, kann das Match bis zu maximal 10 Minuten verschoben werden.
 16. Alle Spieler und Schiedrichter müssen mit Respekt behandelt werden. Anweisungen von den Schiedsrichtern und Turnier Management ist Folge zu leisten. Endgültige Entscheidungen können nicht beanstandet werden.
 17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen WarmUp Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Matches oder absichtiliches unangemessenes Verhalten wird strengstens bestraft.
-18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](Rules "wikilink"). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
+18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](/wiki/Rules). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
     1.  Das Verletzen der Chatregeln führt zu Silences. Gesilencte Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
 
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
@@ -136,8 +112,7 @@ Turnierregeln
 
 22. Jede Veränderung an den Regeln wird bekannt gegeben.
 
-Turnierregistrierung
---------------------
+### Turnierregistrierung
 
 1.  Die Anmeldung findet individuell statt.
     1.  Turnier Management wird eine Liste mit potentiellen Kandidaten für das jeweilige Länderteam erstellen.
@@ -147,27 +122,26 @@ Turnierregistrierung
 2.  Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier Management überprüft.
     1.  Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
     2.  Um erfolgreich akzeptiert zu werden, muss Ihr globaler Rang in osu! mindestens \#5000 oder besser sein.
-    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](Rules "wikilink") in den letzten 12 Monaten verletzt haben.
+    3.  Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules) in den letzten 12 Monaten verletzt haben.
 
 3.  Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 4.  Abgelehnte Spieler können diese Entscheidung anfechten, indem sie tournaments@ppy.sh kontaktieren.
 5.  Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
-Etappenanweisungen
-------------------
+### Etappenanweisungen
 
 1.  In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
 2.  Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
 3.  Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
     1.  Am meisten gewonnene Partien.
-    2.  Hat ein größeres `{(Anzahl` `an` `gewonnenen` `Maps)` `-` `(Anzahl` `an` `verlorenen` `Maps)}`.
+    2.  Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
     3.  Am meisten gewonnene Maps.
-    4.  Hat ein größeres `∑{(gesamtes` `Ergebnisdifferenz)` `/` `(maximales` `Ergebnis)}`.
+    4.  Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
     5.  Gewinner von Rückspielen.
 
 4.  Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](http://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Stage            | Match ID                 |
 |------------------|--------------------------|
@@ -183,14 +157,11 @@ Etappenanweisungen
     -   Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-11)
     -   In Finale - Woche 2 werden 7 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-13)
 
-Partieanweisungen
------------------
+### Partieanweisungen
 
 1.  Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
     1.  Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
-    2.  Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team
-
-dementsprechend dann das rote Team.
+    2.  Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 
 1.  Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
 2.  Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
@@ -206,8 +177,7 @@ dementsprechend dann das rote Team.
 
 6.  Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
-Mappoolanweisungen
-------------------
+### Mappoolanweisungen
 
 1.  Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben.
 2.  Jeder Mappool besteht aus 5 Gruppen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
@@ -225,8 +195,7 @@ Mappoolanweisungen
 9.  Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 
-Zeitplananweisungen
--------------------
+### Zeitplananweisungen
 
 1.  Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2.  Die Partien können sich in der Gruppenphase überlappen.
@@ -236,5 +205,3 @@ Zeitplananweisungen
 
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") <Category:Tournaments/DE> [Category:Official Tournaments/DE](Category:Official_Tournaments/DE "wikilink") [Category:osu! Standard Tournaments/DE](Category:osu!_Standard_Tournaments/DE "wikilink") [Category:osu! World Cup/DE](Category:osu!_World_Cup/DE "wikilink")

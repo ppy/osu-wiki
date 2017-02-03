@@ -12,7 +12,6 @@ Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawi
 Jak w to się gra?
 -----------------
 
-  
 *Pełny artykuł: [osu!standard](PL:Standard "wikilink")*
 
 Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](PL:Play_Styles "wikilink"). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
@@ -92,7 +91,6 @@ Inne tryby gry
 Czym jest „Taiko”?
 ------------------
 
-  
 *Pełny artykuł: [Taiko](PL:Taiko "wikilink")*
 
 [200px|thumb|right|Rozgrywka w trybie Taiko.](image:taiko.jpg "wikilink") Dla niezaznajomionych, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
@@ -144,7 +142,6 @@ Czym jest „Catch the Beat”?
 
 [200px|thumb|right|Rozgrywka w trybie Catch the Beat.](image:ctbaqua.jpg "wikilink")
 
-  
 ''Pełny artykuł: [Catch the Beat](PL:Catch_the_Beat "wikilink")
 
 -   Catch the Beat to drugi specjalny tryb gry, dodany po trybie Taiko.
@@ -162,7 +159,6 @@ Czym jest "osu!mania"?
 
 ![ thumb | 200px |Rozgrywka w trybie osu!mania]( Mania screenshot.jpg  " thumb | 200px |Rozgrywka w trybie osu!mania")
 
-  
 'Pełny artykuł: [osu!mania](PL:Osu!mania "wikilink")''
 
 -   osu!mania to trzeci specjalny tryb gry, który został dodany po CTB i Taiko.
@@ -260,7 +256,6 @@ Przypisanie klawiszy "Od lewej do prawej" (styl Beatmanii IIDX)
 Zdobywanie punktów
 ==================
 
-  
 *Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry.*
 
 Oceny
@@ -293,7 +288,6 @@ Popularne problemy i pytania
 Gdzie mogę znaleźć i ściągnąć beatmapy?
 ---------------------------------------
 
-  
 *Pełny artykuł: [Beatmapy](PL:Beatmaps "wikilink")*
 
 Możesz znaleźć je pod nazwą "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
@@ -321,5 +315,3 @@ Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trud
 -   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
 -   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
-
-<Category:FAQ/PL> <Category:Gameplay/PL>

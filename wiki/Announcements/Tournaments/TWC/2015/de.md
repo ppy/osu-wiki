@@ -1,11 +1,14 @@
-<img src="Twc2015 logo.png" title="Twc2015 logo.png" alt="Twc2015 logo.png" width="540" />
+osu! Taiko World Cup 2015
+============================
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015*** ) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](http://osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](Jp.gif "fig:Jp.gif") Japan**.
+![TWC 2015 logo](logo.png)
+
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/flag/Jp.gif) Japan**.
 
 Turnierzeitplan
-===============
+---------------------
 
-|                     |                             |
+| Event               | Timestamp                   |
 |---------------------|-----------------------------|
 | Registrierungsphase | 12.-25. Jan. 2015           |
 | Live-Ziehungen      | 07. Feb. 2015 14:00 (UTC+0) |
@@ -17,48 +20,49 @@ Turnierzeitplan
 | Finale - Woche 2    | 21.-22. Mär. 2015           |
 
 Preise
-======
+----------
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | 3 Monate Supporter Tag, Profilabzeichen                                                |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | 1 Monat Supporter Tag, Profilabzeichen                                                 |
+| Placing                                                    | Prize(s)                                                                               |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen                                                |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen                                                 |
 
 Organisation
-============
+-------------
 
-| Turnier Management | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif") |
-|--------------------|--------------------------------------------------------------------------------|
-| Map Wähler         | ![](De.gif "fig:De.gif")                                                       |
-| Streamer           | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif") |
-| Kommentatoren      | ![](Fr.gif "fig:Fr.gif") | ![](Us.gif "fig:Us.gif")                            |
-| Statistiker        | ![](Pl.gif "fig:Pl.gif")                                                       |
+| Job                | Person(s)                                                                                                                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Map Wähler         | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamer           | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Kommentatoren      | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
-=====
+------
 
--   [Diskussionsthread](https://osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 auf Twitch](http://www.twitch.tv/osulive/)
+-   [Diskussionsthread](//osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
 Regelsätze
-==========
-
-Turnierregeln
 -------------
+
+### Turnierregeln
 
 1.  Das osu! Taiko World Cup ist ein länderbezogenes Turnier.
 2.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-    -   Es wird auch ein [Hidden](HD "wikilink"), [HardRock](HR "wikilink"), [DoubleTime](DT "wikilink") und FreeMod Bracket geben.
+    -   Es wird auch ein [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Bracket geben.
 
 3.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4.  Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
-6.  Das Benutzen der [visuellen Einstellungen](Visual_Settings "wikilink") ist erlaubt.
+6.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 7.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8.  Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
 9.  Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
@@ -69,15 +73,14 @@ Turnierregeln
 14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
 15. Jede Veränderung an den Regeln wird bekannt gegeben.
 
-Turnierregistrierung
---------------------
+### Turnierregistrierung
 
 1.  Die Anmeldung findet individuell statt.
     1.  Dies wird benötigt, um herauszufinden, ob das Turnier im 3 vs. 3 oder 4 vs. 4.
     2.  Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
     3.  Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
 
-2.  Um sich anzumelden, [senden Sie eine PM an Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
+2.  Um sich anzumelden, [senden Sie eine PM an Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
     1.  Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
     2.  Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
 
@@ -93,8 +96,7 @@ Turnierregistrierung
 5.  Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 6.  Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
-Etappenanweisungen
-------------------
+### Etappenanweisungen
 
 1.  In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
     1.  Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
@@ -102,16 +104,16 @@ Etappenanweisungen
 2.  Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
 3.  Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
     1.  Am meisten gewonnene Partien.
-    2.  Hat ein größeres `{(Anzahl` `an` `gewonnenen` `Maps)` `-` `(Anzahl` `an` `verlorenen` `Maps)}`.
+    2.  Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
     3.  Am meisten gewonnene Maps.
-    4.  Hat ein größeres `∑{(gesamtes` `Ergebnisdifferenz)` `/` `(maximales` `Ergebnis)}`.
+    4.  Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
     5.  Gewinner von Rückspielen.
 
 4.  Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
     1.  Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](http://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe           | Match ID                |
 |------------------|-------------------------|
@@ -126,8 +128,7 @@ Etappenanweisungen
     -   Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
     -   Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
-Partieanweisungen
------------------
+### Partieanweisungen
 
 1.  Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
     1.  Raumeinstellungen sind Taiko, Team-Vs., Win Condition: 'Score'. Raumname muss "TWC 2014: TeamBlue vs TeamRed" lauten.
@@ -147,8 +148,7 @@ Partieanweisungen
 
 7.  Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
-Mappoolanweisungen
-------------------
+### Mappoolanweisungen
 
 1.  Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben (Woche 1 & Woche 2 verwenden den selben Mappool).
 2.  Jeder Mappool besteht aus 5 Gruppen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
@@ -166,13 +166,10 @@ Mappoolanweisungen
 9.  Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 
-Zeitplananweisungen
--------------------
+### Zeitplananweisungen
 
 1.  Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2.  Partien können sich in der Gruppenphase zeitlich überlappen.
 3.  Alle Double-Elimination Etappen finden entweder am Samstag oder am Sonntag statt.
 4.  Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5.  Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Es müssen vom jeweiligen Team mindestens 3 Spieler anwesend sein, ansonsten zählt die Partie als aufgegeben.
-
-<Category:Deutsch> <Category:Tournaments/DE>

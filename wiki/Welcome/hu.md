@@ -12,7 +12,6 @@ Mielőtt játszani kezdenél, javasolt, hogy játssz az útmutatóval ([Peter La
 Hogyan kezdj el játszani a kedvenc zenéiddel?
 =============================================
 
-  
 *Teljes magyarázat: [Beatmaps](HU:Beatmaps "wikilink")*
 
 1. lépés - Találd meg a zenét!
@@ -64,7 +63,6 @@ Szóval mi is pontosan a "Solo" mód? Ez az a mód, amit egyedül tudsz játszan
 Multi
 -----
 
-  
 *Teljes magyarázat: [Multi](HU:Multiplayer "wikilink")*
 
 Ha kicsit magányosnak érzed magad "Solo" módban, bármikor csatlakozhatsz a többjátékos lobby-hoz. Az egyedüli követelmény egy bejelentkezett osu! felhasználó és egy megfelelő internetkapcsolat. A hozzáféréshez csak válaszd a "Multi" lehetőséget. Rengeteg szobát fogsz látni, Easy-től (könnyű) Insane (őrült nehéz) nehézségig. A többjátékos mód remek lehetőséget biztosít új barátok szerzésére, illetve a képességeid összemérésére másokkal. Miután csatlakoztál egy szobához, valószínűleg le kell majd töltened a házigazda által választott beatmapet. Klikkelj a "Kattins ide a map letöltéséhez" lehetőségre (jobb oldalt kell legyen, fájdalmasan piros színnel), így az adott map letöltési oldala rögtön meg is nyílik a böngésződben. Itt kattints a nagy "Download Beatmap" gombra (előbb lehet, hogy be kell jelentkezned), és nyisd meg a .osz fájlt. Ne aggódj ha lassan töltődik, a legtöbb házigazda meg fogja várni, esetleg néha megkérdezik hol tart a letöltés. Ilyenkor ne légy szégyellős és mondd el! Ha úgy érzed, hogy túl sokáig tartana, azt is megmondhatod, hogy kezdjék el a játékot nélküled (a házigazda ilyenkor "erőltetheti" a játék indítását). A többjátékos játékmenet kissé különbözik a a solo-tól: nem tudod szüneteltetni a játékot és a modokat is a házigazda választhatja ki (kivéve, ha Ő bejelöli a "szabad modok" lehetőséget). A többjátékos mód legegyedibb része a Tag Co-Op vagy (Csapat Co-Op csapatok esetén) és a Team VS. Emellett láthatod az ellenfeleid/csapattársaid pontját is játék közben, így a játék pörgősebbnek érződik a helyekért való küzdelem során.
@@ -82,7 +80,6 @@ A játékos szintje csak az összegyűjtött pontszámot (rankolt vagy nem ranko
 Teljesítménypontok (PP)
 -----------------------
 
-  
 *Teljes magyarázat: [Performance Points](HU:Performance_Points "wikilink")*
 
 A teljesítménypontok tulajdonképpen egy játékos versenyképességét megmérő pontok. Minél többet szerzel belőlük, annál előrébb kerülsz rangban a többi játékoshoz viszonyítva. A pontok kiszámítása sokféleképp történhet, de egy dolgot tarts észben: **lehet** hogy kapsz pontokat, ha jó helyezést érsz el bármilyen rankolt mapen. A legtöbb esetben egy megfelelő helyezés eléréséhez full kombóznod (FC) kell a mapet (ne tévessz egyet sem), így a lehető legmagasabb pontszámot szerzed (a kombó szorzó miatt). Egy játékos 99% pontossággal, aki eltévesztett **egyetlen** kört valahol a szám közepén lehet, hogy kevesebb pontot kap, mint egy 80%-os pontosságú, aki nem tévesztett egyet sem. A ponteltérés (pl. 3.8 millió vs. 5.0 millió) elég feltűnő lesz, ha a szám hosszú (3 ~ 5 perc). Az is lehet, hogy nehézséget növelő modokat (pl. [HR](HU:HR "wikilink"), [HD](HU:HD "wikilink")) kell használj, hogy még magasabb pontszámot kapj!
@@ -90,7 +87,6 @@ A teljesítménypontok tulajdonképpen egy játékos versenyképességét megmé
 Pontosság
 ---------
 
-  
 *Teljes magyarázat: [Accuracy](HU:Accuracy "wikilink")* <img src="Accuracy.png" title="fig:Right|A játékos pontossága|alt=Egy játékos pontosságát mutató képernyőkép, egy beatmap végigjátszása után." alt="Right|A játékos pontossága|alt=Egy játékos pontosságát mutató képernyőkép, egy beatmap végigjátszása után." width="110" />
 
 A pontosság az összes lejátszott rankolt beatmap átlagos pontossága alapján kerül kiszámításra. Két típusra oszlik: a játékos összpontossága és a pp pontossága. A játékon belül megtekintve a pp pontosságát láthatod. A teljes pontosság megtekintéséhez meg kell látogatnod az "Online Results" részt egy beatmap végigjátszása után, vagy a saját fórum oldaladat. Az osu!-ban a pontosság nem csak a célzásod pontosságát, hanem az időzítésed pontosságát is jelöli, szóval figyelj jól a közelítő körökre!
@@ -98,7 +94,6 @@ A pontosság az összes lejátszott rankolt beatmap átlagos pontossága alapjá
 Achievement-ek/Jutalmak
 -----------------------
 
-  
 *Teljes magyarázat: [Achievements](HU:Achievements "wikilink")*
 
 Az achievement-ek kis kitűzők a profil oldalon amelyek jelzik, hogy valaki kiváló teljesítményt produkált. Többféleképpen is feloldhatók, például sok játékkal vagy egy bizonyos kombószám elérésével egy beatmapen. Ha megfeleltél a feltételeknek azonnal meg is kapod az achievement-ed, amelyet a beatmap végigjátszása után az eredmény képernyőn alul, vagy a profil oldaladon az Achievements rész alatt láthatsz. Különösen izgalmas részük a "Hush-Hush" ("Csitt-Csitt") achievement-ek, amelyek követelményei nem ismertek és neked kell rájönnöd, hogyan szerezheted meg őket. Megszerzésük meglehetősen nehéz, viszont annál jobb érzés, mikor végre kapsz egyet.
@@ -108,7 +103,6 @@ Az achievement-ek kis kitűzők a profil oldalon amelyek jelzik, hogy valaki kiv
 Chat
 ====
 
-  
 *Teljes magyarázat: [Chat Console](HU:Chat_Console "wikilink")*
 
 A chat konzol alapjainak ismerése fontos, ha új barátokra akarsz szert tenni. Abban az esetben sem árt ha tudod használni, ha valaki üzenetet küld neked (nem túl valószínű, hacsak nem vagy közismert), tippeket adva vagy segítséget kérve. A képernyő jobb alsó sarkában lévő gombbal nyithatod meg a chatet, de gyorsabb, ha megnyomod az F8 gombot. Alapból meg lesz nyitva néhány fül, például "\#osu!", "\#announce", "\#userlog". **A magyar közösség csatornáját "\#Hungarian" név alatt találod.** Ha beszélgetsz valakivel, az illető neve szintén egy külön fülön lesz. A fülek közti navigálás egyszerű, csak kattints az egyikre, írd be az üzeneted és nyomj ENTER-t. Kérjük, hogy ne spam-elj (rövid üzenetek folyamatos küldözgetése a chatbe), mivel ez automatikusan el fog némítani egy pár percre, illetve "kemény munkád gyümölcsét" is el fogja távolítani. A felhasználók listájának megtekintéséhez nyomd meg az F9 gombot (kibővített chat konzol). Itt szűrőket is használhatsz, hogy leszűkítsd a listát.
@@ -120,7 +114,6 @@ Ezek az alapok. Ne légy szégyellős, nyugodtan kérj segítséget akár játé
 Beatmapping
 ===========
 
-  
 *Teljes magyarázat: [Beatmapping](HU:Beatmapping "wikilink")*
 
 Az osu! bárki számára lehetővé teszi beatmapek készítését. Ha úgy gondolod kreatív vagy és szívesen tanulsz, akkor neki is láthatsz. A kezdéshez egyszerűen válasz a főmenüben az "Edit" (Szerkesztés) lehetőséget, majd húzd a szám **.mp3** fájlját a szerkesztőbe. Nyomj F5-öt a frissítéshez és már láthatsz is egy üres mapet a te számod címével. A beatmapping azonban egy *nagyon* komplikált folyamat, valamint szenvedélyes is kell legyél vele kapcsolatban, így ezen az oldalon bővebben nem lesz róla szó. A tanulás legjobb módja az, ha magad is kipróbálod. [Ezen a linken](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=60228) hasznos útmutatókat találhatsz a kezdéshez. A Szerkesztés módot egyébként arra is használhatod, hogy közelebbről szemügyre vegyél egy beatmapet, vagy akár csak azt a részét, ahol mindig elbuksz.**Próbáld kerülni a rankolt beatmapek szerkesztését**. mert vissza fognak állni **nem rankolt** állapotba (persze csak helyileg, a te gépeden), és nem fogsz értük pontokat kapni, amíg nem frissíted őket.
@@ -133,7 +126,5 @@ Itt van egy pár hasznos link az utazásod megkezdéséhez:-
 -   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - válogatott, kezdőknek szánt beatmapek.
 -   [Beatmap Csomagok](http://osu.ppy.sh/p/packlist) - Közös témájú, előre csomagolt beatmapek.
 -   [Beatmap Lista](http://osu.ppy.sh/p/beatmaplist) - Itt tölthetsz le új beatmapeket (számokat) a játékhoz.
--   [Gyakran Ismételt Kérdések (GYIK)](http://osu.ppy.sh/wiki/HU:FAQ) - a játék alapjai.
+-   [Gyakran Ismételt Kérdések (GYIK)](/wiki/FAQ) - a játék alapjai.
 -   [osu!academy](HU:Osu!academy "wikilink") - Videók, amelyek segítségével megismerheted az osu! minden részét.
-
-

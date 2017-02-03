@@ -1,7 +1,6 @@
 Hur registrerar jag mig?
 ------------------------
 
-  
 Att registrera ett konto till osu! är väldigt simpelt, följ stegen nedan.
 
 Om du inte loggar in med ditt konto till spelet inom 24 timmar, så kommer registreringen avbrytas och upphöra.
@@ -18,11 +17,10 @@ Steg
 
 | <b>Teckenförklaring</b>                                                                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Username</b> - Ditt användarnamn på osu!. Välj noga! Du kan endast ändra ditt namn <b>en</b> gång om du har ett supporter tag.                                                   
-                                                                                                                                                                                         
-                                                                                                                                                                                         
- a. Max 15 tecken                                                                                                                                                                        
-                                                                                                                                                                                         
+| 1. <b>Username</b> - Ditt användarnamn på osu!. Välj noga! Du kan endast ändra ditt namn <b>en</b> gång om du har ett supporter tag.  
+
+ a. Max 15 tecken  
+
  b. Alfanumeriska tecken ("a-z, A-Z, 0-9"), understrycking ("\_"), kvadratiska parenteser, ("\[" och "\]") och streck ("-") är endast tillåtna.                                          |
 | 2.<b> E-mail adress</b> - Den kommer användas utifall att du glömmer bort lösenord och annan information. Glöm det inte!                                                               |
 | 3. <b>Password</b> - Skriv ett lösenord som ingen mer än <b>du</b> vet!                                                                                                                |
@@ -34,8 +32,7 @@ Steg
 | <b>Teckenförklaring</b>                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------|
 | 1. osu! iconen - Starta osu! använd den genom att dubbel klicka iconen eller högerklicka iconen och sen öppna.  
-                                                                                                                  
-                                                                                                                  
+
  <i>Notering: Du behöver inte köra osu! som administratör. osu! kommer be dig om det utifall att det behövs.</i>  |
 | 2. User Panel - Klicka för att kunna logga in och ut från spelet.                                               |
 | 3. Inloggningsrutan - Fyll i ditt användarnamn och lösenord som du registrerade innan och tryck Sign in.        |
@@ -48,7 +45,4 @@ Du är redo för att starta ditt aväntyr på osu! så fortsätt till [välkomst
 
 Om du behöver hjälp i spelet, så kan du ansluta dig till \#help kanalen genom att skriva "join /\#help" och ställa din fråga.
 
-  
 <i>Rhythm is just a click away so have fun!</i>
-
-

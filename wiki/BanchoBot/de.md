@@ -18,7 +18,6 @@ Der Befehl "!help" für Hilfe
     -   Wenn sie den Befehl ohne dem Asterisk ("!") im BanchoBot-Tab verwenden, wird BanchoBot die Befehle trotzdem bearbeiten, so als wenn sie /bb am Anfang benutzt hätten.
 -   Sie können die asterisk-basierenden Befehle nur in öffentlichen Channeln oder im BanchoBot-Tab verwenden.
 
-
 #### Standardbefehle (!COMMAND oder /bb COMMAND)
 
 | Befehl | Effekt | Beispiel | BanchoBots Rückmeldung |
@@ -30,10 +29,7 @@ Der Befehl "!help" für Hilfe
 | REQUEST (list) | Zeigt zufällig eines der vorherigen Mod-Anfragen an. [list] Zeigt 5 zufällige, vorherig getätigte Mod-Anfragen an | !request | Seether - Fake It by [Dellirium] |
 | ROLL (Zahl) | Rollt einen (virtuellen) Würfel und gibt einen zufälligen Wert zwischen 1 und <Zahl> (Standardmäßig 100) | !roll 9000 | John rolls 1337 point(s) |
 
-
 Trivialitäten
 =============
 
 -   [Anonymous](http://osu.ppy.sh/u/1) ist 1. [peppy](http://osu.ppy.sh/u/2) ist 2. [BanchoBot](http://osu.ppy.sh/u/3) ist 3. \#4-\#52 sind weitere Bots, die in alphabetischer Reihenfolge geordnet sind.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category:Infrastructure of osu!/DE](Category:Infrastructure_of_osu!/DE "wikilink")

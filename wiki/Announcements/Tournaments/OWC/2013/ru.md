@@ -1,6 +1,9 @@
-![](Owc-2013.png "Owc-2013.png")
+osu! World Cup 2013
+======================
 
-По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](http://osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![](Kr.gif "fig:Kr.gif") Корея**.
+![OWC 2013 logo](logo.png)
+
+По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](//osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Kr.gif) Корея**.
 = Расписание турнира =
 
 -   Фаза регистрации: 15-28 октября 2013
@@ -12,85 +15,105 @@
 -   Финал и матч за третье место: 7-8 декабря 2013
 
 Призы
-=====
+------
 
 **Первое место:** Шестимесячный саппорт, профильная иконка, OWC winner trophy
 **Второе место:** Трехмесячный саппорт
 **Третье место:** Месячный саппорт
 
 Призёры
-=======
+---------
 
-**Первое место:** ![](Kr.gif "fig:Kr.gif") **Корея**
-**Второе место:** ![](Tw.gif "fig:Tw.gif") **Тайвань**
-**Третье место:** ![](Pl.gif "fig:Pl.gif") **Польша**
+**Первое место:** ![](/wiki/shared/flag/Kr.gif) **Корея**
+
+**Второе место:** ![](/wiki/shared/flag/Tw.gif) **Тайвань**
+
+**Третье место:** ![](/wiki/shared/flag/Pl.gif) **Польша**
 
 Организация турнира
-===================
+--------------------
 
-**Мереджеры турнира:** ![](De.gif "fig:De.gif") [Loctav](http://osu.ppy.sh/u/Loctav), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](De.gif "fig:De.gif") [p3n](http://osu.ppy.sh/u/p3n)
-**Судьи:** [Tournament Management usergroup](http://osu.ppy.sh/g/26)
-**Ответственные за выбор битмап:** ![](Ar.gif "fig:Ar.gif") [Darksonic](http://osu.ppy.sh/u/Darksonic), ![](Ar.gif "fig:Ar.gif") [Wishy](http://osu.ppy.sh/u/Wishy)
-**Стримеры:** ![](Ca.gif "fig:Ca.gif") [Nyquill](http://osu.ppy.sh/u/Nyquill), ![](Au.gif "fig:Au.gif") [kingking9](http://osu.ppy.sh/u/kingking9), ![](Us.gif "fig:Us.gif") [Love](http://osu.ppy.sh/u/Love), ![](Ee.gif "fig:Ee.gif") [ShinseinaTenshi](http://osu.ppy.sh/u/ShinseinaTenshi)
-**Комментаторы:** ![](Fr.gif "fig:Fr.gif") [Mr Color](http://osu.ppy.sh/u/Mr_Color), ![](Us.gif "fig:Us.gif") [dkun](http://osu.ppy.sh/u/dkun), ![](Us.gif "fig:Us.gif") [Agnes](http://osu.ppy.sh/u/Agnes)
+**Мереджеры турнира:** ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366), ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/154400)
+
+**Судьи:** [Tournament Management usergroup](//osu.ppy.sh/g/26)
+
+**Ответственные за выбор битмап:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](//osu.ppy.sh/u/570042), ![](/wiki/shared/flag/Ar.gif) [Wishy](//osu.ppy.sh/u/495477), ![](/wiki/shared/flag/It.gif) [Chewin](//osu.ppy.sh/u/617323)
+
+**Стримеры:** ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2), ![](/wiki/shared/flag/Au.gif) [Zallius](//osu.ppy.sh/u/55), ![](/wiki/shared/flag/Ca.gif) [Nyquill](//osu.ppy.sh/u/682935), ![](/wiki/shared/flag/Us.gif) [Makar](//osu.ppy.sh/u/686389)
+
+**Комментаторы:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078), ![](/wiki/shared/flag/Us.gif) [Agnes](//osu.ppy.sh/u/136982), ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347), ![](/wiki/shared/flag/No.gif) [kriers](//osu.ppy.sh/u/333241), ![](/wiki/shared/flag/No.gif) [MillhioreF](//osu.ppy.sh/u/941094), ![](/wiki/shared/flag/Au.gif) [LaVolpe024](//osu.ppy.sh/u/597796), ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370)
 
 ------------------------------------------------------------------------
 
 Участники
-=========
+-------------
 
-(17/32)
--------
+### Top-seeded
 
-![](Ar.gif "fig:Ar.gif") **Аргентина:** **[Metro](http://osu.ppy.sh/u/Metro)**, [Glazbom](http://osu.ppy.sh/u/Glazbom), [Salvage](http://osu.ppy.sh/u/Salvage), [Hernan](http://osu.ppy.sh/u/Hernan), [Fabi](http://osu.ppy.sh/u/Fabi), [druidxd](http://osu.ppy.sh/u/druidxd), [qUAKEEr](http://osu.ppy.sh/u/qUAKEEr), [Mikumiku97](http://osu.ppy.sh/u/Mikumiku97)
+| Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](/wiki/shared/flag/Cn.gif) China         | **[Furudo\_Erika](http://osu.ppy.sh/u/169878)**, [wobeinimacao](http://osu.ppy.sh/u/350723), [N a n o](http://osu.ppy.sh/u/694114), [5231\_Kinoko](http://osu.ppy.sh/u/181057), [GGBY](http://osu.ppy.sh/u/629717), [Dsan](http://osu.ppy.sh/u/1266166), [InabaTewi](http://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](http://osu.ppy.sh/u/1349849) |
+| ![](/wiki/shared/flag/De.gif) Germany       | **[ShadowSoul](http://osu.ppy.sh/u/494970)**, [CookEasy](http://osu.ppy.sh/u/453226), [Michi](http://osu.ppy.sh/u/932342), [Dustice](http://osu.ppy.sh/u/754565), [BDDav](http://osu.ppy.sh/u/1164526), [cptnXn](http://osu.ppy.sh/u/495272), [Imamoto](http://osu.ppy.sh/u/1201224), [dukambe](http://osu.ppy.sh/u/880002)                     |
+| ![](/wiki/shared/flag/Jp.gif) Japan         | **[Karuta](http://osu.ppy.sh/u/360552)**, [rrtyui](http://osu.ppy.sh/u/352328), [Potofu](http://osu.ppy.sh/u/657404), [serea](http://osu.ppy.sh/u/371961), [mugio3](http://osu.ppy.sh/u/491522), [Homura-](http://osu.ppy.sh/u/482120), [Gokuri](http://osu.ppy.sh/u/343865), [doctorindark](http://osu.ppy.sh/u/609227)                        |
+| ![](/wiki/shared/flag/Kr.gif) Korea         | **[Dungeon](http://osu.ppy.sh/u/461720)**, [K i R i K a R u](http://osu.ppy.sh/u/139670), [dragonhuman](http://osu.ppy.sh/u/713266), [ffury](http://osu.ppy.sh/u/2056071), [CheEZ](http://osu.ppy.sh/u/272117), [- Hakurei Reimu-](http://osu.ppy.sh/u/948713), [Tengu](http://osu.ppy.sh/u/380836), [Shizuru-](http://osu.ppy.sh/u/1341421)    |
+| ![](/wiki/shared/flag/Pl.gif) Poland        | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek                                                                                                                                                                                                                                                      |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan        | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou                                                                                                                                                                                                                                                         |
+| ![](/wiki/shared/flag/Th.gif) Thailand      | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution                                                                                                                                                                                                                                                                             |
+| ![](/wiki/shared/flag/Us.gif) United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost                                                                                                                                                                                                                                                          |
 
-![](At.gif "fig:At.gif") **Австрия:** **[Omgforz](http://osu.ppy.sh/u/Omgforz)**, [WhitePhoenixLP](http://osu.ppy.sh/u/WhitePhoenixLP), [M3tr01d](http://osu.ppy.sh/u/M3tr01d), [Alumetorz](http://osu.ppy.sh/u/Alumetorz)
+### High-seeded
 
-![](Be.gif "fig:Be.gif") **Бельгия:** **[DrakRainbow](http://osu.ppy.sh/u/DrakRainbow)**, [GoldenWolf](http://osu.ppy.sh/u/GoldenWolf), [Sakisan](http://osu.ppy.sh/u/Sakisan), [larshmellow](http://osu.ppy.sh/u/larshmellow), [Friendzone King](http://osu.ppy.sh/u/Friendzone%20King), [KinkehW](http://osu.ppy.sh/u/KinkehW)
+| Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](/wiki/shared/flag/Ar.gif) Argentina          | **[Metro](http://osu.ppy.sh/u/306737)**, [Glazbom](http://osu.ppy.sh/u/608277), [Salvage](http://osu.ppy.sh/u/242119), [Hernan](http://osu.ppy.sh/u/516680), [Fabi](http://osu.ppy.sh/u/173114), [druidxd](http://osu.ppy.sh/u/841441), [CBA-ES-CAB](http://osu.ppy.sh/u/1875237), [Mikumiku97](http://osu.ppy.sh/u/503749) |
+| ![](/wiki/shared/flag/Br.gif) Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
+| ![](/wiki/shared/flag/Lv.gif) Latvia             | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX                                                                                                                                                                                                                                                     |
+| ![](/wiki/shared/flag/No.gif) Norway             | **kriers**, KinomiCandy, Sniff, -GN, CXu, ivaz, 31415926535897, Amedis                                                                                                                                                                                                                                                      |
+| ![](/wiki/shared/flag/Ru.gif) Russian Federation | **cr1m**, Kert, talala, Dremor, homu-homu-tan, Maemi, TheSpaceMan, JuZu                                                                                                                                                                                                                                                     |
+| ![](/wiki/shared/flag/Se.gif) Sweden             | **Xytox**, Shimox, Gnuu, Mayis, Slizzer, Blandar, Shilkey, Gyuunyu                                                                                                                                                                                                                                                          |
+| ![](/wiki/shared/flag/Gb.gif) United Kingdom     | **jesus1412**, Doomsday, iLikeMudkipz, R a h a r u, Starry-, Charleyzard, Navi, Bubby963                                                                                                                                                                                                                                    |
 
-![](Bg.gif "fig:Bg.gif") **Болгария:** **[Scrublord](http://osu.ppy.sh/u/Scrublord)**, [Defacer](http://osu.ppy.sh/u/Defacer), [b1o](http://osu.ppy.sh/u/b1o), [-Arthus-](http://osu.ppy.sh/u/-Arthus-), [Supbads](http://osu.ppy.sh/u/Supbads), [Angeloid\_Alpha](http://osu.ppy.sh/u/Angeloid_Alpha), [Hardatyou](http://osu.ppy.sh/u/Hardatyou)
+### Low-seeded
 
-![](Ca.gif "fig:Ca.gif") **Канада:** **[Azer](http://osu.ppy.sh/u/Azer)**, [FunOrange](http://osu.ppy.sh/u/FunOrange), [Hoozimajiget](http://osu.ppy.sh/u/Hoozimajiget), [Erotik](http://osu.ppy.sh/u/Erotik), [Mariya](http://osu.ppy.sh/u/Mariya), [mochi](http://osu.ppy.sh/u/mochi)
+| Country                                    | Members                                                                                |
+|--------------------------------------------|----------------------------------------------------------------------------------------|
+| ![](/wiki/shared/flag/Au.gif) Australia   | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
+| ![](/wiki/shared/flag/At.gif) Austria     | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn                   |
+| ![](/wiki/shared/flag/Ca.gif) Canada      | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi                 |
+| ![](/wiki/shared/flag/Fi.gif) Finland     | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2                                  |
+| ![](/wiki/shared/flag/Fr.gif) France      | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not                    |
+| ![](/wiki/shared/flag/Id.gif) Indonesia   | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz                   |
+| ![](/wiki/shared/flag/It.gif) Italy       | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno            |
+| ![](/wiki/shared/flag/Nl.gif) Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5         |
 
-![](De.gif "fig:De.gif") **Германия:** **[ShadowSoul](http://osu.ppy.sh/u/ShadowSoul)**, [CookEasy](http://osu.ppy.sh/u/CookEasy), [Michi](http://osu.ppy.sh/u/Michi), [Dustice](http://osu.ppy.sh/u/Dustice), [BDDav](http://osu.ppy.sh/u/BDDav), [Lelouch](http://osu.ppy.sh/u/Lelouch), [Imamoto](http://osu.ppy.sh/u/Imamoto), [dukambe](http://osu.ppy.sh/u/dukambe)
+### Unseeded
 
-![](It.gif "fig:It.gif") **Италия:** **[Leader](http://osu.ppy.sh/u/Leader)**, [Jordan](http://osu.ppy.sh/u/Jordan), [Nemis](http://osu.ppy.sh/u/Nemis), [Andrea](http://osu.ppy.sh/u/Andrea), [Puncia](http://osu.ppy.sh/u/Puncia), [xiAmME](http://osu.ppy.sh/u/xiAmME), [My Accuracy Sucks](http://osu.ppy.sh/u/My%20Accuracy%20Sucks), [XZ19126](http://osu.ppy.sh/u/XZ19126)
-
-![](Lv.gif "fig:Lv.gif") **Латвия:** **[LoGo](http://osu.ppy.sh/u/LoGo)**, [nomen](http://osu.ppy.sh/u/nomen), [Forseen](http://osu.ppy.sh/u/Forseen), [Vmx](http://osu.ppy.sh/u/Vmx), [Suika Ibuki](http://osu.ppy.sh/u/Suika%20Ibuki), [NewNyuu](http://osu.ppy.sh/u/NewNyuu), [nek2high](http://osu.ppy.sh/u/nek2high)
-
-![](Nl.gif "fig:Nl.gif") **Нидерланды:** **[happy30](http://osu.ppy.sh/u/happy30)**, [zozozofun](http://osu.ppy.sh/u/zozozofun), [BiG\_ChilD](http://osu.ppy.sh/u/BiG_ChilD), [Kris](http://osu.ppy.sh/u/Kris), [Synchrostar](http://osu.ppy.sh/u/Synchrostar), [R3laX3R](http://osu.ppy.sh/u/R3laX3R), [Kyshiro](http://osu.ppy.sh/u/Kyshiro), [Jackylam5](http://osu.ppy.sh/u/Jackylam5)
-
-![](Nz.gif "fig:Nz.gif") **Новая Зеландия:** **[deadbeat](http://osu.ppy.sh/u/deadbeat)**, [buny](http://osu.ppy.sh/u/buny), [Kiiwa](http://osu.ppy.sh/u/Kiiwa), [TCN](http://osu.ppy.sh/u/TCN), [B O X](http://osu.ppy.sh/u/B%20O%20X), [Xiipher](http://osu.ppy.sh/u/Xiipher)
-
-![](No.gif "fig:No.gif") **Норвегия:** **[kriers](http://osu.ppy.sh/u/kriers)**, [KinomiCandy](http://osu.ppy.sh/u/KinomiCandy), [Sniff](http://osu.ppy.sh/u/Sniff), [-GN](http://osu.ppy.sh/u/-GN), [CXu](http://osu.ppy.sh/u/CXu), [ivaz](http://osu.ppy.sh/u/ivaz), [31415926535897](http://osu.ppy.sh/u/31415926535897), [Amedis](http://osu.ppy.sh/u/Amedis)
-
-![](Pl.gif "fig:Pl.gif") **Польша:** **[fartownik](http://osu.ppy.sh/u/fartownik)**, [Niko](http://osu.ppy.sh/u/Niko), [WubWoofWolf](http://osu.ppy.sh/u/WubWoofWolf), [AmaiHachimitsu](http://osu.ppy.sh/u/AmaiHachimitsu), [rEdo](http://osu.ppy.sh/u/rEdo)
-
-![](Ru.gif "fig:Ru.gif") **Российская Федерация:** **[cr1m](http://osu.ppy.sh/u/cr1m)**, [Kert](http://osu.ppy.sh/u/Kert), [talala](http://osu.ppy.sh/u/talala), [Dremor](http://osu.ppy.sh/u/Dremor), [Nattu](http://osu.ppy.sh/u/Nattu), [Maemi](http://osu.ppy.sh/u/Maemi), [TheSpaceMan](http://osu.ppy.sh/u/TheSpaceMan), [JuZu](http://osu.ppy.sh/u/JuZu)
-
-![](Se.gif "fig:Se.gif") **Швеция:** **[Xytox](http://osu.ppy.sh/u/Xytox)**, [Shimox](http://osu.ppy.sh/u/Shimox), [Gnuu](http://osu.ppy.sh/u/Gnuu), [Mayis](http://osu.ppy.sh/u/Mayis), [Slizzer](http://osu.ppy.sh/u/Slizzer), [Blandar](http://osu.ppy.sh/u/Blandar), [Shilkey](http://osu.ppy.sh/u/Shilkey), [Gyuunyu](http://osu.ppy.sh/u/Gyuunyu)
-
-![](Th.gif "fig:Th.gif") **Тайланд:** **[NonxE](http://osu.ppy.sh/u/NonxE)**, [Frostmourne](http://osu.ppy.sh/u/Frostmourne), [0OoMickeyoO0](http://osu.ppy.sh/u/0OoMickeyoO0), [Popo\[Mikoto\]](http://osu.ppy.sh/u/445236), [Cint](http://osu.ppy.sh/u/Cint), [Neolution](http://osu.ppy.sh/u/Neolution)
-
-![](Gb.gif "fig:Gb.gif") **Великобритания:** **[jesus1412](http://osu.ppy.sh/u/jesus1412)**, [Doomsday](http://osu.ppy.sh/u/Doomsday), [iLikeMudkipz](http://osu.ppy.sh/u/iLikeMudkipz), [R a h a r u](http://osu.ppy.sh/u/R%20a%20h%20a%20r%20u), [Starzd](http://osu.ppy.sh/u/Starzd)
-
-![](Us.gif "fig:Us.gif") **Соединённые Штаты Америки:** **[Kaoru](http://osu.ppy.sh/u/Kaoru)**, [Sync](http://osu.ppy.sh/u/Sync), [Kyou-kun](http://osu.ppy.sh/u/Kyou-kun), [Thatgooey](http://osu.ppy.sh/u/Thatgooey), [pielak213-](http://osu.ppy.sh/u/pielak213-), [Silynn](http://osu.ppy.sh/u/Silynn), [pooptartsonas](http://osu.ppy.sh/u/pooptartsonas), [SapphireGhost](http://osu.ppy.sh/u/SapphireGhost)
+| Country                                    | Members                                                                                |
+|--------------------------------------------|----------------------------------------------------------------------------------------|
+| ![](/wiki/shared/flag/Be.gif) Belgium     | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane  |
+| ![](/wiki/shared/flag/Bg.gif) Bulgaria    | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou             |
+| ![](/wiki/shared/flag/Cl.gif) Chile       | **Innocent** Steps, Neab, coflA, Cristian, BoopMos, Mesita, SwENeMbO, Revengexsoyah    |
+| ![](/wiki/shared/flag/Ee.gif) Estonia     | **Noriko**, Manzz, Yumz, Kafaru, YellowManul, MaDBoY94, ShinseinaTenshi                |
+| ![](/wiki/shared/flag/Nz.gif) New Zealand | **deadbeat**, buny, Kiiwa, TCN, B O X, Xiipher, shortpotato                            |
+| ![](/wiki/shared/flag/Ph.gif) Philippines | **Pizzicato**, katayoki, Jann, dayun10, Mira-san, \[Accelerator\], MioMilo, -Gio       |
+| ![](/wiki/shared/flag/Sg.gif) Singapore   | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
+| ![](/wiki/shared/flag/Ve.gif) Venezuela   | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli                               |
 
 Маппул
-======
+----------
 
 Полезные ссылки
-===============
+---------------
 
--   [Тред для обсуждения турнира](http://osu.ppy.sh/forum/t/160181/start=0)
+-   [Тред для обсуждения турнира](//osu.ppy.sh/forum/t/160181/start=0)
 
 ------------------------------------------------------------------------
 
 Список правил
-=============
+--------------
 
-Правила турнира
----------------
+### Правила турнира
 
 1.  Мировой турнир по osu! будет проводиться в режиме 4vs4.
 2.  Битмапы для каждого раунда будут заявлены за неделю до него. Только эти битмапы будут доступными для игры на турнире.
@@ -115,23 +138,21 @@
 14. Непредвиденные случаи будут разрешаться судьями. В свою очередь, их решение могут отменить менеджеры турнира.
 15. Любое изменение действующих правил будет объявлено.
 
-Регистрация на турнир
----------------------
+### Регистрация на турнир
 
 1.  Команде нужно иметь **как минимум четыре игрока** для того, чтобы принять участие в турнире.
     1.  Максимальное количество игроков в команде ограничено восьмью.
     2.  Также, команде нужен капитан, который будет её представлять.
 
 2.  Каждая команда должна быть собрана из игроков одной страны.
-3.  Для того, чтобы принять участие в турнире, заполните [эту форму](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). После этого нужно подтвердить заполнение формы, отправив личное сообщение пользователю [Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком “OWC Registration”.
-    1.  Капитаны могут изменить состав, предупредив [менеджера турнира](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  Для того, чтобы принять участие в турнире, заполните [эту форму](//docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). После этого нужно подтвердить заполнение формы, отправив личное сообщение пользователю [Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком “OWC Registration”.
+    1.  Капитаны могут изменить состав, предупредив [менеджера турнира](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Каждый заявленный участник будет проверен организаторами турнира на предмет допуска к нему.
 5.  Общее количество команд-участниц ограничивается тридцатью двумя. Кто не успел, тот опоздал.
 6.  Люди, ответственные за выбор битмап, не могут быть допущены к участию в турнире.
 
-Правила различных стадий турнира
---------------------------------
+### Правила различных стадий турнира
 
 1.  В групповой стадии будут участвовать восемь групп по четыре команды.
 2.  Каждая команда сыграет с остальными командами в своей группе.
@@ -149,8 +170,7 @@
     -   В 1/8 финала и четвертьфиналах команде нужно выиграть пять раундов, чтобы победить матч. Максимальное количество раундов — 9.
     -   В полуфиналах и финале команде нужно выиграть шесть раундов, чтобы победить матч. Максимальное количество раундов — 11.
 
-Правила проведения матчей
--------------------------
+### Правила проведения матчей
 
 1.  Судья создаст комнату в мультиплеерном лобби. У игроков есть тридцать минут на то, чтобы присоединиться.
     1.  Комната будет закрыта. Коды доступа будут отправлены капитанам команд в кратчайшие сроки.
@@ -168,8 +188,7 @@
 5.  Каждый капитан обязан сохранить скриншот результата каждого раунда. Судьи будут напоминать об этом каждый раз.
 6.  Результаты будут оповещаться посредством специального сервиса.
 
-Правила создания пулов битмап
------------------------------
+### Правила создания пулов битмап
 
 1.  Для каждой стадии турнира будет создан собственный пул битмап.
 2.  Каждый пул будет состоять из пяти брекетов: для игры без модов, для игры с Hidden, для игры c HardRock, для игры с DoubleTime и для игры со свободным выбором модов.
@@ -187,8 +206,7 @@
     -   Три битмапы в групповой стадии
     -   Четыре битмапы в матчах на вылет
 
-Правила, связанные с расписанием стадий турнира
------------------------------------------------
+### Правила, связанные с расписанием стадий турнира
 
 1.  Каждая стадия турнира пройдет на **конкретных выходных**. Конкретная информация есть где-то выше.
 2.  Первый матч групповой стадии пройдет в пятницу восьмого ноября, второй — в субботу девятого ноября, третий — в воскресенье десятого ноября.
@@ -197,5 +215,3 @@
 3.  Все последующие матчи будут проходить в субботу или воскресенье. Конкретные даты — в расписании турнира.
 4.  Расписание турнира остается на менеджерах турнира. Время проведения конкретных матчей будет анонсировано в последнее воскресенье перед соответствующими матчами. Пример: расписание для групповой стадии будет анонсировано третьего ноября. Расписание будет маскимально адаптировано под временные зоны конкретных команд.
 5.  Капитаны ответственны за доведения сведений о расписании матчей до игроков. Если команда не явится на матч с указанной выше погрешностью во времени, то матч автоматически будет признан проигранным технически.
-
-<Category:Tournaments/RU> [Category:Official Tournaments/RU](Category:Official_Tournaments/RU "wikilink") [Category:Osu! Standard Tournaments/RU](Category:Osu!_Standard_Tournaments/RU "wikilink") [Category:Osu! World Cup/RU](Category:Osu!_World_Cup/RU "wikilink")

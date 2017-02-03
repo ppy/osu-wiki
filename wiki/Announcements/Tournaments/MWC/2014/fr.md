@@ -1,11 +1,14 @@
-<img src="Omw2014.png" title="Omw2014.png" alt="Omw2014.png" width="758" />
+osu!mania World Cup 2014
+========================
 
-The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](http://osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
+![MWC 2014 logo](logo.png)
+
+The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](//osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
 Calendrier
-==========
+-------------
 
-|                         |                    |
+| Event                   | Timestamp          |
 |-------------------------|--------------------|
 | Inscription des équipes | 1-20 Juilletl 2014 |
 | Tirages aux sorts       | 2 Août 2014        |
@@ -17,27 +20,29 @@ Calendrier
 | Finale et petite finale | 14 Septembre 2014  |
 
 Prix
-====
+---------
 
-| <img src="GCrown.png" title="GCrown.png" alt="GCrown.png" width="20" /> | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| <img src="SCrown.png" title="SCrown.png" alt="SCrown.png" width="20" /> | Statut de supporter pendant 3 mois                                                                                          |
-| <img src="BCrown.png" title="BCrown.png" alt="BCrown.png" width="20" /> | Statut de supporter pendant 1 mois                                                                                          |
+| Placing                                                    | Prize(s)                                                                                                                    |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
 
 Organisation
-============
+-----------
 
-| Direction                 | ![](De.gif "fig:De.gif") | ![](De.gif "fig:De.gif") | ![](Es.gif "fig:Es.gif")                                                       |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Séléction des beatmaps    | ![](Ru.gif "fig:Ru.gif") | ![](Cl.gif "fig:Cl.gif")                                                                                  |
-| Retransmission des matchs | ![](Au.gif "fig:Au.gif") | ![](Pl.gif "fig:Pl.gif") | ![](Fr.gif "fig:Fr.gif")                                                       |
-| Commentaires              | ![](Us.gif "fig:Us.gif") | ![](Fr.gif "fig:Fr.gif") | ![](It.gif "fig:It.gif") | ![](Us.gif "fig:Us.gif") | ![](Ru.gif "fig:Ru.gif") |
-| Statistiques              | ![](Pl.gif "fig:Pl.gif")                                                                                                             |
+| Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Direction                 | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)                                                                                                                                                  |
+| Séléction des beatmaps    | ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) // ![](/wiki/shared/flag/Cl.gif) [Agka](//osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
+| Retransmission des matchs | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                 |
+| Commentaires              | ![](/wiki/shared/flag/Us.gif) [Charles445](//osu.ppy.sh/u/85000) // ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/It.gif) [Roxas](//osu.ppy.sh/u/1041833) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) |
+| Statistiques              | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
-=====
+------
 
 -   [osu!mania 2014 sur Twitch](http://www.twitch.tv/osulive/)
 -   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
@@ -46,10 +51,9 @@ Links
 ------------------------------------------------------------------------
 
 Réglement
-=========
+------------
 
-Règles du tournoi
------------------
+### Règles du tournoi
 
 1.  L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
 2.  Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
@@ -73,8 +77,7 @@ Règles du tournoi
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
 15. Si les présentes règles venaient à être modifiées pendant le tournoi, un communiqué officiel sera diffusé.
 
-Inscription des équipes
------------------------
+### Inscription des équipes
 
 1.  Chaque équipe doit être constituée au minimum de 2 joueurs.
     1.  La taille d'une équipe ne peut dépasser 6 joueurs.
@@ -96,8 +99,7 @@ Inscription des équipes
 
 7.  Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
-Stage instructions
-------------------
+### Stage instructions
 
 1.  Les équipes sont réparties en 8 groupes de quatre durant les poules à l'aide d'un tirage au sort.
     -   Ceci pouvant changer selon le nombre total d'équipes inscrites.
@@ -105,9 +107,9 @@ Stage instructions
 2.  Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
 3.  Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
     1.  Nombre de matchs remportés,
-    2.  Ratio `{(nombre` `de` `parties` `remportées)` `-` `(nombre` `de` `parties` `perdues)}`,
+    2.  Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`,
     3.  Nombre de parties remportées,
-    4.  Ratio `∑{(score` `total` `réalisé)` `/` `(score` `total` `maximum` `possible)}`.
+    4.  Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
     5.  Éventuel second match remporté.
 
 4.  Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
@@ -117,8 +119,7 @@ Stage instructions
     -   Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
     -   Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
 
-Match Instructions
-------------------
+### Match Instructions
 
 1.  Une salle multijoueurs sera créée par un arbitre 20 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
     1.  La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
@@ -132,8 +133,7 @@ Match Instructions
 
 4.  Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
 
-Beatmaps
---------
+### Beatmaps
 
 1.  Il y aura 1 mappool pour les phases de Poules, 1 mappool pour les huitièmes, 1 mappool pour les quarts de finales, 1 mappool pour les demi-finales et 1 mappool pour la finale et ce pour chacun des deux modes (4k et 7k).
 2.  Les mappool 4K et 7K sont différents.
@@ -147,8 +147,7 @@ Beatmaps
     -   11 durant les huitièmes et quarts de finales
     -   13 durant les demi-finales et finales.
 
-Planification des matchs
-------------------------
+### Planification des matchs
 
 1.  Chaque phase est jouée sur un seul week-end.
 2.  Il est possible que certains matchs se déroulent en même temps.
@@ -156,5 +155,3 @@ Planification des matchs
 4.  Chaque phase à élimination direct sera organisé soit le Samedi soit le Dimanche selon le mode (se référer au calendrier).
 5.  La programmation sera fait par la direction du tournoi. Les programmes seront diffusés le Dimanche avant le premier match de le phase courante. (par exemple le 3 Août pour les phases de poules(4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
 6.  Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
-
-<Category:Tournaments/FR> [Category:Official Tournaments/FR](Category:Official_Tournaments/FR "wikilink") [Category:Osu!mania Tournaments/FR](Category:Osu!mania_Tournaments/FR "wikilink") [Category:Osu!mania World Cup/FR](Category:Osu!mania_World_Cup/FR "wikilink")

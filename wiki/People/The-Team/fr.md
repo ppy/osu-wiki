@@ -1,1 +1,0 @@
-<Category:People/FR>

@@ -574,5 +574,3 @@ Une autre ligne</p>
 </tr>
 </tbody>
 </table>
-
-<Category:Website/FR>

@@ -19,7 +19,7 @@ Advantages of osu!supporter
 -   [Skinning](Skinning "wikilink"): Some additional skin elements can be used, such as the [main menu](http://osu.ppy.sh/forum/t/96949)'s background.
     -   Specifically, `menu-background.jpg` (Main Menu); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
 -   [Feature Requests](http://osu.ppy.sh/forum/4): Extra votes for feature requests (2 per month over usual 1 per month).
--   [Song Selection](http://osu.ppy.sh/wiki/Interface#Song_Selection_Screen): The ability to view beatmap's in your country / friends / mod-specific rankings in-game.
+-   [Song Selection](/wiki/Interface): The ability to view beatmap's in your country / friends / mod-specific rankings in-game.
 -   Your Profile: <http://osu.ppy.sh/u/>
     -   You can add a user page to your profile.
         -   Your user page will not be deleted when your osu!supporter expires.
@@ -67,5 +67,3 @@ Duration
 <img src="O!s Duration.jpg" title="fig:Comparison between active and inactive osu!supporter." alt="Comparison between active and inactive osu!supporter." width="200" /> After your transaction is completed, your profile's Recent Activity will say "{account username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{account username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. If you bought one for yourself, you can see the osu!supporter badge below your profile image. To check for *when* the osu!supporter will expire, [return to the same place you bought it](http://osu.ppy.sh/p/support).
 
 <img src="Osu!support mail-gifted.png" title="fig:A letter one receives when acquiring osu!supporter" alt="A letter one receives when acquiring osu!supporter" width="200" /> Oh, and you will receive a "Thank You" letter from osu!, too! See the example on the right.
-
-

@@ -173,7 +173,7 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Apparition
-* Site web d'osu! (chibi-J en tant que mascotte) [retiré]  
+* Site web d'osu! (chibi-J en tant que mascotte) [retiré]
 * [Skin](https://osu.ppy.sh/forum/t/190357/)
 
 #### Créateur
@@ -231,6 +231,4 @@ Don est le protagoniste de la série de jeux Taiko no Tatsujin. Il ressemble à 
 Galerie d'images
 ================
 
-[Cliquez ici pour voir la galerie.](Gallery/en.md "wikilink")
-
-[Category:History of osu!/FR](Category:History_of_osu!/FR "wikilink")
+[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery "wikilink")

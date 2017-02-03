@@ -33,7 +33,6 @@
 
 ==右上（Beat Snap Divisor）== <img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
 
-  
 *'*主条目: [ZH:Beat Snap Divisor](ZH:Beat_Snap_Divisor "wikilink") / [ZH:Distance Snap](ZH:Distance_Snap "wikilink") *'*
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**
@@ -196,7 +195,6 @@
 
 <img src="BEM_BSD.jpg" title="Beat Snap Divisor（osu!mania 版）" alt="Beat Snap Divisor（osu!mania 版）" width="200" />
 
-  
 ***主页面：[Beat Snap Divisor](ZH:Beat_Snap_Divisor "wikilink")***
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**由于 osu!mania 中的每个物件都非常要求准确性，在 Beat Snap Divisor 的旁边额外加上了原只存在于 Timing 面板的**Time signature（时间标记）**（MM:B）以供作图者参考。当第一个 Timing 区段存在于谱面歌曲档案的*几秒钟之前*，其值可为负数（例如 -8:-3）。
@@ -390,5 +388,3 @@ Sampling
 **例如：** 1:57:745 kick.wav@100% 代表在 1 分 57.745 秒钟，会以 100% 音量播放文件 "kick.wav"。
 
 [如果这满足不了你，你也可以试试更硬派的故事板制作法。](ZH:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
-
-<Category:Chinese>

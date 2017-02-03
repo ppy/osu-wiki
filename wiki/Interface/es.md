@@ -14,4 +14,3 @@ El \[1\] logo de osu! se mueve de acuerdo al [BPM](ES:Timing "wikilink") de cual
 -   \[10\] En la derecha superior está el reproductor de osu! que reproduce las canciones en un orden aleatorio.
 -   \[11\] Seguido del panel de usuario, el número de beatmaps, el tiempo actual de ejecución del programa y la hora del reloj de tu computadora.
 -   \[12\] En la izquierda superior está tu panel de usuario, clic en él para mostrar las opciones de usuario.
-
