@@ -6,9 +6,9 @@ Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt* von: neonat](https:
 Die eigenen Hitsounds besorgen
 ---------------------------
 
-Als erstes wirst du einige eigene Hitsounds benötigen.
+Als erstes werden einige Hitsounds benötigt.
 
--   Du kannst sie aus der [Custom Hitsound Library](Custom_Hitsound_Library "wikilink") bekommen.
+-   Man kann sie aus der [Custom Hitsound Library](Custom_Hitsound_Library "wikilink") bekommen.
 -   Oder du erstellst dir deine eigene!
 
 Selber die Hitsounds in den Song Ordner einfügen

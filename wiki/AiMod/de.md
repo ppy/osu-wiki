@@ -42,6 +42,7 @@ Nachrichten
 
 >Beachte: Nummer innerhalb von geschwungenen Klammern ("{0}") sind Platzhallter für eine Nummer oder ein Wort.
 
+### Informativ
 
 #### All
 
@@ -53,10 +54,10 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| HP rate for Easy/Normal is suggested to be at least 4. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 4 oder höher |
-| HP rate for Hard and up is suggested to be at least 7. | Nur für Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 7 oder höher |
-| OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Geh zu den Song Einstellungen und setze die "OD rate" auf 7 oder höher  |
-| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Geh in den Timing Tab und setze die 'Slider Velocity' auf 1,40 oder 1,60 |
+| HP rate for Easy/Normal is suggested to be at least 4. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 4 oder höher |
+| HP rate for Hard and up is suggested to be at least 7. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 7 oder höher |
+| OD rate for maps with few sliders is suggested to be at least 7. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "OD rate" auf 7 oder höher  |
+| The Slider Velocity should be 1.40 or 1.60. |	Nur bei Taiko Beatmaps! | Geh in den Timing Tab und setze die 'Slider Velocity' auf 1,40 oder 1,60 |
 
 
 ### Errors
@@ -81,7 +82,7 @@ Nachrichten
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
 | This slider moves in an abnormal way. | | |
-| This combo is very long. Consider splitting it up. | Die länge der Combo kann die die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Geh zu der Problematischen Combo und entscheide wo eine neue Combo gestartet werden soll. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
+| This combo is very long. Consider splitting it up. | Die länge der Combo kann die die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Geh zu der problematischen Combo und entscheide wo eine neue Combo gestartet werden soll. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
 | This spinner appears onscreen later than objects which follow it. | Objekte erscheinen wenn der der Spinner sichtbar ist. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Ändere die Länge des Spinners und/oder entferne die Folgenen Objekte. |
 | Object's end is offscreen! | Objekte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Remove or move the object's end |
 | Object is offscreen! | Objekte, welche ausserhalb des Bindschirmes sind könne  nicht in osu!clients mit einer 4:3 Auflösung gesehen werden. | Lösche oder Verschiebe das Objekt |
@@ -94,8 +95,8 @@ Nachrichten
 | Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | This hold note is less than 10ms long! | Mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | |
 | This object overlaps with another object. | Mania maps only! | |
-| This object is stacked on top of another object. | Mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
-| More than 6 notes simultaneously is not allowed. | Mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
+| This object is stacked on top of another object. | Nur bei Maniabeatmaps! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
+| More than 6 notes simultaneously is not allowed. | Nur bei Maniabeatmaps! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
 
 #### Design
 
@@ -142,13 +143,13 @@ Nachrichten
 | Stack leniency is larger than 0.9 or smaller than 0.3. | | |
 | Romanised artist contains unicode. | | |
 | Romanised title contains unicode. | | |
-| Countdown is not allowed in mania mode. | Mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
-| Letterboxing is not allowed in mania mode. | Mania maps only! | |
-| OD rate is suggested to be at least 5. | Mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
-| OD rate for maps with very few sliders is suggested to be at least 8. | 	Mania maps only! | |
-| Countdown is not allowed in taiko mode. | Taiko maps only! | |
-| Epilepsy warning is not allowed in taiko mode. | Taiko maps only! | |
-| Letterboxing is not allowed in taiko mode. | Taiko maps only! | |
+| Countdown is not allowed in mania mode. | Nur bei Maniabeatmaps! | Geh in die **Song Settings** und schaltest den Countdown im **"Design" tab** aus. |
+| Letterboxing is not allowed in mania mode. | Nur bei Maniabeatmaps! | |
+| OD rate is suggested to be at least 5. | Nur bei Maniabeatmaps! | Geh in die **Song Settings** und setze die **OD rate** auf 5 oder höher. |
+| OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei Maniabeatmaps! | |
+| Countdown is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
+| Epilepsy warning is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
+| Letterboxing is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
 
 #### Mapset
 
