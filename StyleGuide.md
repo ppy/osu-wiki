@@ -145,7 +145,7 @@ Add an exclamation mark, '!', in front.
                                       ...
                                       ![broken text][my-reference]
 
-Alternatively, clickable image (from @MegaApplePi):-
+Alternatively, clickable image (from @MegaApplePi):
 [![alt-text](link-to-thumb.png) "Click to view full size"](link-to-full.png)
 
 or
@@ -181,10 +181,10 @@ or
   - May need to manually salvage the images from the old osu!wiki yourself.
 
 ## Table styling <a name="table-styling"></a>
-Based from #70 :-<br>
+Based from #70 :<br>
 Use Markdown table. Most of the Markdown will work except the unordered/ordered listing (must use HTML tags, see: <https://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table>).
 
-Please be reminded that (minimum):-
+Please be reminded that (minimum):
 1. the first row should be a header,
 2. the second row must be `---|` (triggers GFM's table mode, add `:` at appropriate place for alignment),
 3. each table row is separated by a newline,
@@ -236,13 +236,13 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
   - [Click for the project page](https://github.com/ppy/osu-wiki/projects/1)
 
 ## GFM offline testing <a name="#gfm-offline-testing"></a>
-Markdown highlighting:-
+Markdown highlighting:
 1. [GitHub's Atom.](https://atom.io/) (May crash, sometimes. Temp data will be lost. Please save often)
 2. [Shiba](https://github.com/rhysd/Shiba)
 3. StackEdit.
 4. Any text editor of your choice and their plugin/modules to support GFM highlighting.
 
-Live display:-
+Live display:
 1. [GitHub's Atom.](https://atom.io/) (Shortcut: `Ctrl`-`Shift`-`M`)
 2. [Shiba](https://github.com/rhysd/Shiba)
 2. Markdown Preview Plus (Google Chrome) / Markdown Viewer (Mozilla Firefox)
@@ -251,13 +251,13 @@ Live display:-
 Source: <https://stackoverflow.com/questions/9843609/view-markdown-files-offline/>
 
 ## Links of interest <a name="#links-of-interest"></a>
-General:-
+General:
 - Cheatsheet of Markdown language: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 - GitHub help dictionary: <https://help.github.com/>
   - GitHub's git cheatsheet (basic): <https://services.github.com/resources/>
   - GitHub Desktop: <https://desktop.github.com/>
 
-git-specific:-
+git-specific:
 - git: <https://git-scm.com/>
   - Pro git book: <https://git-scm.com/book/en/v2>
 - git simple cheatsheet: <https://rogerdudler.github.io/git-guide/>
