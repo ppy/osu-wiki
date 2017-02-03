@@ -237,12 +237,14 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
 
 ## GFM offline testing <a name="#gfm-offline-testing"></a>
 Markdown highlighting:
+
 1. [GitHub's Atom.](https://atom.io/) (May crash, sometimes. Temp data will be lost. Please save often)
 2. [Shiba](https://github.com/rhysd/Shiba)
 3. StackEdit.
 4. Any text editor of your choice and their plugin/modules to support GFM highlighting.
 
 Live display:
+
 1. [GitHub's Atom.](https://atom.io/) (Shortcut: `Ctrl`-`Shift`-`M`)
 2. [Shiba](https://github.com/rhysd/Shiba)
 2. Markdown Preview Plus (Google Chrome) / Markdown Viewer (Mozilla Firefox)
