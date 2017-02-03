@@ -75,6 +75,8 @@ You would be given an option where to save your edits.
 - **"Create a New Branch"** 
   - Automatically creates a branch for your edits. A commit and a branch with a default name (normally, it would be called ``username : patch-1``) would be created.
 
+A more detailed explanation about this can be found [here]( https://guides.github.com/introduction/flow/).
+
 Pick an option and click "Commit Changes".
 
 ### Through your Local Machine
@@ -85,7 +87,7 @@ if you have Git installed, enter this in your Command Line Interface (CLI):
 ```prolog
 git clone https://github.com/<your github username (ie. peppy)>/osu-wiki 
 ```
-*Note: If you don't have Git installed, you can go to [their website](https://git-scm.com/) to download Git.*
+*Note: If you don't have Git installed, you can go to [their website](https://git-scm.com/) to download Git and [set it up](https://help.github.com/articles/set-up-git/).*
 
 and this should clone your fork into the folder you specified. You can now proceed to make your changes.
 
@@ -105,7 +107,7 @@ git push origin <branch>
 ```
 This should prompt you to enter your GitHub login credentials. After you enter them, this should push your commits to GitHub.
 
-_Note: However, If you're authentication details were saved in Git already, no prompt will appear and will proceed directly to push._
+_Note: However, If your authentication details were saved in Git already, no prompt will appear and will proceed directly to push. This can be done by [caching your Git credentials](https://help.github.com/articles/caching-your-github-password-in-git/)._
 
 ## Pull Requests
 
