@@ -83,8 +83,8 @@ Nachrichten
 | This slider moves in an abnormal way. | | |
 | This combo is very long. Consider splitting it up. | Die länge der Combo kann die die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Geh zu der Problematischen Combo und entscheide wo eine neue Combo gestartet werden soll. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
 | This spinner appears onscreen later than objects which follow it. | Objekte erscheinen wenn der der Spinner sichtbar ist. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Ändere die Länge des Spinners und/oder entferne die Folgenen Objekte. |
-| Object's end is offscreen! | Objeckte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Remove or move the object's end |
-| Object is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object |
+| Object's end is offscreen! | Objekte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Remove or move the object's end |
+| Object is offscreen! | Objekte, welche ausserhalb des Bindschirmes sind könne  nicht in osu!clients mit einer 4:3 Auflösung gesehen werden. | Lösche oder Verschiebe das Objekt |
 | This object is too close to the previous object. | | |
 | This object is too far from the previous object. | | |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. |
