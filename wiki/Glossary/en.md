@@ -27,7 +27,7 @@ For spinners, the approach circle will indicate the duration of that spinner.
 
 ### Authentic
 
-Authentic is a word that denotes a beatmap that emulates in every aspect of a specific stage from the DS games (song, settings, object placement, etc.).
+Authentic denotes a beatmap that emulates in every aspect of a specific stage from the DS games (song, settings, object placement, etc.).
 
 ## B
 
@@ -41,7 +41,7 @@ Players automatically connect to Bancho when they start osu!, that is, if the pl
 
 **As of February 1, 2015, the BAT was renamed to Beatmap Nomination Group**
 
-BAT&mdash;which was short for the Beatmap Appreciation Team&mdash;was a group of users that would rank and approve your beatmaps.
+BAT&mdash;which was short for the _Beatmap Appreciation Team_&mdash;was a group of users that would rank and approve your beatmaps.
 
 ### Beat
 
@@ -58,7 +58,7 @@ Depending on the position of your snap divisor, other lines dividing a beat may 
 ### Beatmap pack
 
 Beatmap packs _(if the name isn't clear)_ are packaged beatmaps.
-Beatmap packs are collections of ranked and/or approved beatmaps that can be downloaded from a file sharing service (either on [osu!Mirror](https://osu.yas-online.net/) or [MediaFire](https://www.mediafire.com/)).
+Beatmap packs are collections of ranked and/or approved beatmaps that can be downloaded from a file sharing service (on [MediaFire](https://www.mediafire.com/)).
 
 Most beatmap packs are sets of beatmaps that were ranked during the same time period. However, in some packs may contain songs of a similar style or theme.
 
@@ -417,8 +417,6 @@ osu! provides a wide array of hitsounds (eight in the stable release, since upgr
 Though, mappers can go further add up to 24 more.
 Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
-For a list of skinnable hitsounds, see [Skinning Sounds](/wiki/Skinning/Sounds/).
-
 ## I
 
 ### Ignore list
@@ -583,9 +581,13 @@ The offset is the first half of beatmap timing, where the other half is the BPM.
 
 osu! has three meanings:
 
-- the rhythm video game for the Microsoft Windows Operating Systems. Spelled with a lowercase "o" and an exclamation mark at the end.
+- the rhythm video game for the Microsoft Windows Operating Systems.
+  Spelled with a lowercase "o" and an exclamation mark at the end.
 - osu!standard, the game mode that osu! was originally based on.
-- An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!) Pronounced with a silent u ("OSS"). Close English equivalents include "Yo!" or "Hey!". To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
+- An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
+  - Pronounced with a silent u ("OSS").
+  - Close English equivalents include "Yo!" or "Hey!".
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
 
 ### osu!academy
 
@@ -758,10 +760,6 @@ A skin is a set of graphics and custom sample sets that can be chosen to replace
 Most of what you see and hear in osu! can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
-
-For a list of skinnable elements, see [Skinning](/wiki/Skinning/).
-
-For a tutorial, see [Skinning Tutorial](/wiki/Skinning/Tutorial/).
 
 ### Skinner
 
@@ -978,7 +976,6 @@ Version has two meanings:
   - they could be called "Easy", "Normal", "Hard", "Insane", and "Expert"
   - however, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
-  - see [Skinning](/wiki/Skinning/)
 
 ## W
 
