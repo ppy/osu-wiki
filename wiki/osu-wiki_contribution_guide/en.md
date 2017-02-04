@@ -113,7 +113,7 @@ _Note: However, If your authentication details were saved in Git already, no pro
 
 ## Pull Requests
 
-After pushing your commits, you must make a "Pull Request"(Abbreviated as "PR"). This lets us know that your commits are ready to be reviewed.
+After pushing your commits, you must make a "Pull Request"(abbreviated as "PR"). This lets us know that your commits are ready to be reviewed.
 
 Go to the "Pull Requests" tab.
 
