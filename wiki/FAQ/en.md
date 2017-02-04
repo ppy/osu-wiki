@@ -32,7 +32,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[ouendan image]: ./Ouendan.jpg "Gameplay footage of Osu! Tatakae! Ouendan in Nintendo DS"
+[ouendan image]: ./Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
 [Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Profile mode buttons"
 [osu_smoke image]: ./osu_smoke.jpg "Smoke Usage"
 [osu_smoke_set image]: ./osu_smoke_set.jpg "Smoke in key bindings"
@@ -76,16 +76,16 @@
 ### I've never played this "Ouendan" thing - what is it?
 _[Osu! Tatakae! Ouendan][ouendan wikipedia]_ is a rhythm game for the Nintendo DS. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the DS:-
 
-![Gameplay footage of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
 
-_Gameplay footage of Osu! Tatakae! Ouendan in Nintendo DS_
+_Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS_
 
 You can see the circles on the bottom screen, and on the top screen you have the story. Each stage is basically a self-contained story about a person in trouble. That is where the _Ouendan_ (Cheer squad) comes in. Through the magical power of male cheerleading, you have to help the people in trouble.
 
 ### How to play?
 _Full explanation: [osu!][osu! wikilink]_
 
-While most players may not have a touchscreen at their disposal, this game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [Play Styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most players may not have a touchscreen at their disposal, this game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles][Play_Styles wikilink] page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 _Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
@@ -420,13 +420,13 @@ The main page, under the name _[Beatmaps][Beatmaplist link]_. Just remember to l
 **No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
 
 #### The maps are too hard! Where can I find some easier maps?
-For osu! gamemode, Pokebis has compiled a set of beatmaps suitable for beginners to play. It can be found here: <https://osu.ppy.sh/forum/t/5456>
+For osu!, Pokebis has compiled a set of beatmaps suitable for beginners to play. It can be found here: <https://osu.ppy.sh/forum/t/5456>
 
-For osu!taiko gamemode, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. It can be found here: <https://osu.ppy.sh/forum/t/175867>
+For osu!taiko, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. It can be found here: <https://osu.ppy.sh/forum/t/175867>
 
-For osu!catch gamemode, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found here: <https://osu.ppy.sh/forum/t/131067>
+For osu!catch, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found here: <https://osu.ppy.sh/forum/t/131067>
 
-For osu!mania gamemode, Entozer has compiled a decent list sorted by relative player's difficulties. It can be found here: <https://osu.ppy.sh/forum/t/147552>
+For osu!mania, Entozer has compiled a decent list sorted by relative player's difficulties. It can be found here: <https://osu.ppy.sh/forum/t/147552>
 
 Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design. It is an excellent training map for newbies and experienced players.
 
@@ -454,7 +454,7 @@ From the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard*
 #### Game over? Where did I messed up?
 _Full explanation: [Replay][Replay wikilink]_
 
-Press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (`` `/~ ``) key (can be changed in Options sidebar; inside _Change keyboard bindings_ as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (`` `/~ ``) key (can be changed in Options sidebar; inside _Change keyboard bindings_ as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. **This replay will not be saved nor allowed to be exported.** To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
