@@ -80,7 +80,7 @@ _[Osu! Tatakae! Ouendan][ouendan wikipedia]_ is a rhythm game for the Nintendo D
 
 _Gameplay footage of Osu! Tatakae! Ouendan in Nintendo DS_
 
-You can see the circles on the bottom screen, and on the top screen you have the story. Each stage is basically a self-contained story about a person in trouble. That's where the _Ouendan_ (Cheer squad) comes in. Through the magical power of male cheerleading, you have to help the people in trouble.
+You can see the circles on the bottom screen, and on the top screen you have the story. Each stage is basically a self-contained story about a person in trouble. That is where the _Ouendan_ (Cheer squad) comes in. Through the magical power of male cheerleading, you have to help the people in trouble.
 
 ### How to play?
 _Full explanation: [osu!][osu! wikilink]_
@@ -96,7 +96,7 @@ The gameplay puts emphasis on:-
 - Understanding of the song's beat and design.
 - Input device control.
 - Timing of hits on the object that appeared on the screen.
-- Ability to spin the mouse (or your finger/pen for tablet) on spinners.
+- Ability to spin the mouse (or pen for tablet) on spinners.
 - Physical stamina and mental fortitude (especially longer, marathon-type songs).
 - Proper positioning and hand-eye coordination.
 
@@ -138,7 +138,7 @@ On the DS, this is a good way to scratch the touchscreen (or screen protector), 
 
 _In-game interface of osu!_
 
-The top-left bar is the healthbar. This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will increase your health more than a badly timed hit (50). A total miss will take a good chunk of your health out.
+The top-left bar is the healthbar. This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the healthbar.
 
 On the right of the healthbar is the total score. Below that is the accuracy. The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap. The number on the bottom left is the combo counter/score multiplier.
 
@@ -373,7 +373,7 @@ _Detailed explanation of scoring can be found at the game style's own respective
 
 #### ![osu!catch icon][osu!catch icon link] osu!catch
 - SS = 100.00% Accuracy
-- S = 98.01% to 99.99% Accuracy (You can have 'S' rank even if you make several misses, like in osu!mania).
+- S = 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania).
 - A = 94.01% to 98.00% Accuracy
 - B = 90.01% to 94.00% Accuracy
 - C = 85.01% to 90.00% Accuracy
@@ -381,7 +381,7 @@ _Detailed explanation of scoring can be found at the game style's own respective
 
 #### ![osu!mania icon][osu!mania icon link] osu!mania
 - SS = 100% Accuracy (only MAX and/or 300).
-- S = Over 95% Accuracy (You can achieve an 'S' rank even if you make several misses, like in osu!catch).
+- S = Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch).
 - A = Over 90% Accuracy.
 - B = Over 80% Accuracy.
 - C = Over 70% Accuracy.
@@ -395,9 +395,9 @@ _Detailed explanation of scoring can be found at the game style's own respective
 **Regarding the "Ranks" in profile page**
 - Grades obtained will be set at the profile page under General-&gt;Ranks provided the in-game account connected online with Bancho server when receiving the grade.
   - **Offline play**, even with account logged in, **will not be counted**.
-- **Grades given for profile depends on beatmap difficulties and top score grade, not as whole.**
-  - If the beatmap has 3 difficulties, and SS'ed all three of them; 3 SS will be given, not just one SS in the profile.
-  - However, if replaying an SS'ed difficulty and gained a new highscore (from better spinner bonus or game modifiers bonus) but was an S, then the SS counter will decrement by one and S counter increment by one instead.
+- **Grades given for profile depends on ranked/approved top score grade for a beatmap's difficulty, not as whole.**
+  - If the beatmap has 3 ranked difficulties, and SS'ed all three of them; 3 SS will be given, not just one SS in the profile.
+  - However, if replaying an SS'ed ranked difficulty and gained a new highscore (from better spinner bonus or game modifiers) but was an S, then the SS counter will decrement by one and S counter increment by one instead.
 
 ## Performance Points
 _Full explanation: [Performance Points][Performance Points wikilink]_
@@ -411,26 +411,26 @@ For any questions regarding pp, please refer to the [wiki page for pp first][Per
 ## Common issues and questions
 
 ### General
-#### Where can I find and get the beatmaps?
+#### Where to find and get the beatmaps?
 _Detailed explanation of the beatmaps: [Beatmaps][Beatmaps wikilink]_
 
-You can find it from the main page under the name _[Beatmaps][Beatmaplist link]_. Just remember to log in to your osu! account beforehand or the server will treat you as a guest and will not let you to download beatmaps from the site.
+The main page, under the name _[Beatmaps][Beatmaplist link]_. Just remember to login to the website with an osu! account beforehand to allow download of beatmaps from the site.
 
 #### Can I disable Kiai Time?
 **No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
 
 #### The maps are too hard! Where can I find some easier maps?
-For osu! gamemode, Pokebis has compiled a set of beatmaps suitable for beginners to play. You can find them here: <https://osu.ppy.sh/forum/t/5456>
+For osu! gamemode, Pokebis has compiled a set of beatmaps suitable for beginners to play. It can be found here: <https://osu.ppy.sh/forum/t/5456>
 
-For osu!taiko gamemode, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. You can find it here: <https://osu.ppy.sh/forum/t/175867>
+For osu!taiko gamemode, OnosakiHito has compiled a set of beatmaps for beginners to learn osu!taiko. It can be found here: <https://osu.ppy.sh/forum/t/175867>
 
-For osu!catch gamemode, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. You can find it here: <https://osu.ppy.sh/forum/t/131067>
+For osu!catch gamemode, Kingkevin30 has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found here: <https://osu.ppy.sh/forum/t/131067>
 
-For osu!mania gamemode, Entozer has compiled a decent list sorted by relative player's difficulties. You can find it here: <https://osu.ppy.sh/forum/t/147552>
+For osu!mania gamemode, Entozer has compiled a decent list sorted by relative player's difficulties. It can be found here: <https://osu.ppy.sh/forum/t/147552>
 
-Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design you will come across. It is an excellent training map for newbies and experienced players.
+Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design. It is an excellent training map for newbies and experienced players.
 
-Alternatively, you can [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
+Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
 
 #### What does Level in my profile actually do?
 **Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
@@ -442,7 +442,7 @@ Keep in mind that osu! has four game modes so you might be looking at the wrong 
 
 ![Profile_Mode_Buttons][Profile_Mode_Buttons image]
 
-_Manually select the game mode at your profile that you want to view._
+_Manually select the game mode to view at the profile._
 
 #### How do I change the default keyboard key input for my game mode of choice?
 ![Options sidebar with quickicons][Options quickicons image]
@@ -485,15 +485,15 @@ _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 
 _Top image shows a slider with all the sliderticks shown in Edit mode; Bottom image shows the same slider during play, with some sliderticks obstructed by start and end circle of the slider._
 
-**You released a slider early (meaning that you released the ball before it had finished the ending slider point).**
+**You released a slider early (meaning that the ball was released before it had finished the ending slider point).**
 
-A slider is composed of a starting circle point, spaced smaller circles known as sliderticks, reverse arrow points (if used, it will be treated as starting point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to your combo. Note that the starting circle point is worth 30 points, the sliderticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
+A slider is composed of a starting circle point, spaced smaller circles known as sliderticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to the combo. Note that the starting circle point is worth 30 points, the sliderticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
 
 Sliderticks only appears inside its own sliderpath; if the sliderticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden sliderticks still counts into combo and score, so it must be collected along with the visible sliderticks. If the slider has one or more reverse arrow points, then the sliderticks will reappear at the same place to be collected in reverse.
 
-If miss the timing to tap the starting circle point, miss the sliderticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by 1. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least started the slider properly, and completed all the sliderticks/reverse arrow points when given. Notably, [Sudden Death][Sudden Death wikilink] game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
+If miss the timing to tap the starting circle point, miss the sliderticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the sliderticks/reverse arrow points when given. Notably, [Sudden Death][Sudden Death wikilink] game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
 
-These situations, caused by a slider, are collectively called sliderbreak. A max combo play can be known by checking the result screen for the _Perfect_ notice on the performance graph; not having the _Perfect_ notice, especially without misses, usually means that one or more sliderbreak occurred during play.
+These situations, caused by a slider, are collectively called sliderbreak. A max combo play can be known by checking the result screen for the _Perfect_ notice on the performance graph; not having the _Perfect_ notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
 
 [Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
