@@ -1,5 +1,9 @@
+Storyboarding
+===================
+
 ![Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
 ![Adegan ini tampil ketika anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
+
 **Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 pixel, biasanya digunakan untuk dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari apa saja, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
 
 Dalam pembuatannya, storyboard seringkali sangat sulit dibuat dan memerlukan banyak waktu serta keahlian di bidang animasi dan pembuatan gambar.
@@ -25,17 +29,21 @@ Ukuran aktif area bermain adalah panjang 640 pixel dan lebar 480 pixel. Untuk la
 
 Static Sprite:
 
-    Sprite,"layar","pusat","filepath",x,y
-    `_event,easing,starttime,endtime,[params]`
-    `_event, [...]`
-    `_event, [...]`
+```
+Sprite,"layar","pusat","filepath",x,y
+_event,easing,starttime,endtime,[params]
+_event, [...]
+_event, [...]
+```
 
 Animasi:
 
-    Animation,"layer","origin","filepath",x,y,frameCount,frameDelay,looptype
-    `_event,easing,starttime,endtime,[params]`
-    `_event, [...]`
-    `_event, [...]`
+```
+Animation,"layer","origin","filepath",x,y,frameCount,frameDelay,looptype
+_event,easing,starttime,endtime,[params]
+_event, [...]
+_event, [...]
+```
 
 **Untuk animasi, tentukan nama file seperti "sliderball.png", dan namakan file anda seperti "sliderball0.png" sampai "sliderball9.png" untuk animasi 10 frame.**
 
@@ -100,41 +108,41 @@ Untuk setiap tipe event, nilai(-nilai) awal dari event itu akan menjadi tugas pe
 
 **params**:
 
-    `_F,[...],startopacity,endopacity`
+`_F,[...],startopacity,endopacity`
 
 **startopacity**: the opacity at the beginning of the animation **endopacity**: the opacity at the end of the animation 0 - invisible, 1 - fully visible
 
-    `_M,[...],startx,starty,endx,endy`
+`_M,[...],startx,starty,endx,endy`
 
 **startx, starty**: the position at the beginning of the animation **endx, endy**: the position at the end of the animation *Note*: the size of the play field is (640,480), with (0,0) being top left corner.
 
-    `_S,[...],startscale,endscale`
+`_S,[...],startscale,endscale`
 
 **startscale**: the scale factor at the beginning of the animation **endscale**: the scale factor at the end of the animation 1 = 100%, 2 = 200% etc. decimals are allowed.
 
-    `_V,[...],startx,starty,endx,endy`
+`_V,[...],startx,starty,endx,endy`
 
 **startx, starty**: the scale factor at the beginning of the animation **endx, endy**: the scale factor at the end of the animation 1 = 100%, 2 = 200% etc. decimals are allowed.
 
-    `_R,[...],startangle,endangle`
+`_R,[...],startangle,endangle`
 
 **startangle**: the angle to rotate by in radians at the beginning of the animation **endangle**: the angle to rotate by in radians at the end of the animation positive angle is clockwise rotation
 
-    `_C,[...],r1,g1,b1,r2,g2,b2`
+`_C,[...],r1,g1,b1,r2,g2,b2`
 
 **r1, g1, b1**: the starting component-wise colour **r2, g2, b2**: the finishing component-wise colour
 
 sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be **totally black**. anywhere in between will result in subtractive colouring. to make full use of this, brighter greyscale sprites work very well.
 
-    `_MX,[...],startx,endx`
+`_MX,[...],startx,endx`
 
 **startx**: the x position at the beginning of the animation **endx**: the x position at the end of the animation
 
-    `_MY,[...],starty,endy`
+`_MY,[...],starty,endy`
 
 **starty**: the y position at the beginning of the animation **endy**: the y position at the end of the animation
 
-    `_P,[...],p`
+`_P,[...],p`
 
 **p**: the effect parameter to apply H - horizontal flip V - vertical flip A - additive-blend colour (as opposed to alpha-blend)
 
@@ -142,57 +150,65 @@ using the shorthand below with parameters is possible. the applied parameters wi
 
 **shorthand**: This notation can be used to quickly script a large number of the same kind of event over the same time span.
 
-    `_event,easing,starttime,endtime,val1,val2,val3,...,valN`
+`_event,easing,starttime,endtime,val1,val2,val3,...,valN`
 
 would create events:
 
-    `_event,easing,starttime,endtime,val1,val2`
-    `_event,easing,starttime + duration,endtime + duration,val2,val3`
-    `_event,easing,starttime + 2duration,endtime + 2duration,val3,val4`
+```
+_event,easing,starttime,endtime,val1,val2
+_event,easing,starttime + duration,endtime + duration,val2,val3
+_event,easing,starttime + 2duration,endtime + 2duration,val3,val4
+```
 
 etc.
 
 **shorthand2**: This notation can be used when the start and end time of the event is the same.
 
-    `_M,0,1000,1000,320,240,320,240`
+`_M,0,1000,1000,320,240,320,240`
 
 becomes
 
-    `_M,0,1000,,320,240,320,240`
+`_M,0,1000,,320,240,320,240`
 
 Please note the blank space in the endtime field - this is **required**.
 
 **shorthand3**: This notation can be used when the start and end values of the event are the same.
 
-    `_M,0,1000,,320,240,320,240`
+`_M,0,1000,,320,240,320,240`
 
 becomes
 
-    `_M,0,1000,,320,240`
+`_M,0,1000,,320,240`
 
 **Looping**
 
 **Standard Loops**: Loops can be defined to repeat a set of events constantly for a set number of iterations.
 
-    `_L,starttime,loopcount`
-    `__event, [...]`
-    `__event, [...]`
+```
+_L,starttime,loopcount
+__event, [...]
+__event, [...]
+```
 
 **starttime**: the time of the first loop's start. **loopcount**: number of times to repeat the loop.
 
 Note that events inside a loop should be timed with a **zero-base**. This means that you should **start from 0ms** for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
 
-    `_L,starttime,loopcount`
-    `__event, [...]`
-    `__event, [...]`
+```
+_L,starttime,loopcount
+__event, [...]
+__event, [...]
+```
 
 **Trigger Loops**:
 
 Trigger loops can be used to trigger animations based on play-time events. Although called loops, trigger loops only execute once when triggered.
 
-    `_T,triggerName,start,end`
-    `__event, [...]`
-    `__event, [...]`
+```
+_T,triggerName,start,end
+__event, [...]
+__event, [...]
+```
 
 **start**: When the trigger is valid **end** : When the trigger stops being valid
 
