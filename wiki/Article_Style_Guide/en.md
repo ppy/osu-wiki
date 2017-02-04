@@ -1,12 +1,12 @@
-# Article Style Guide <a name="wsg"></a>
+# Article Style Guide
 
-## Introduction <a name="introduction"></a>
+## Introduction
 **Restructure or rewrite the whole page to GitHub-flavoured Markdown(GFM)-compliance.** HTML tags are out-of-question.
 
 GFM can be learned in one day, but do not expect too much out of it as it intended for plaintext with bare-minimum formatting needed to function as a readable file for a webpage.
 
-### Language support <a name="language-support"></a>
-**_osu!web [as of 14/1/2017. Still WIP]_**<br />
+### Language support
+**_osu!web [as of 14/1/2017. Still WIP]_**  
 Link: <https://new.ppy.sh/wiki/>
 1. HTML tags not supported (any HTML tags and its contents will be removed from public view).
 2. Image display is literal display without proper encapsulation.
@@ -16,7 +16,7 @@ Link: <https://new.ppy.sh/wiki/>
 2. color (all types),
 3. underline (the `<u>` tag). Use **_Bold&Italic_** instead or _Italic_ depending on the paragraph styling used.
 
-## Page rule <a name="page-rule"></a>
+## Page rule
 **_Headers:_**
 - **Level 1 header** must be the **title of the page**.
 - All other headers used must be level 2 onwards as see fit.
@@ -47,7 +47,7 @@ Link: <https://new.ppy.sh/wiki/>
 - [Accuracy](https://github.com/ppy/osu-wiki/tree/master/wiki/Accuracy/en.md) {Image structure style (same level)}
 - [osu!store](https://github.com/ppy/osu-wiki/tree/master/wiki/osu!store/en.md) {Extreme Markdown and HTML hybrid}
 
-## General styling <a name="general-styling"></a>
+## General styling
 ```Markdown
 GitHub-flavoured Markdown (GFM)-specific:
 Headers     : Use '#' styling. Keep it less than 5 levels if possible.
@@ -79,8 +79,8 @@ Code        : ```Multiline```, `Single`
 Escaping    : Use backslash, \
 ```
 
-## Link <a name="link"></a>
-### General <a name="general"></a>
+## Link
+### General
 Assuming the fact that the file structure right now is _not a permanent file structure_ (subject to restructuring).
 - Absolute linking from root to source if possible (`/wiki/{toSourcePoint}/`). Exercise caution when using relative linking (`./{sameLevelSourcePoint}`).
 - Reference style preferred over inline style (reference style is reusable).
@@ -101,18 +101,18 @@ Inline style:
 [page text](link "hover-over text")
 ```
 
-#### External links <a name="external-links"></a>
+#### External links
 - `https://` preferred.
 - Clean and direct links only; No third-party shorten links, no links to ads, no google search's complicated link.
 
-#### Wiki Internal links <a name="wiki-internal-links"></a>
+#### Wiki Internal links
 - When linking to other pages, you do not need to specify the specific language file (done by osu!web with 'locales').
   - Capitalisation and punctuation is strict (must be spelt exactly or _404 not found_) when directing to the page.
     - Linking to osu!catch: `/wiki/Game_Modes/osu!catch/`
   - For directing to a specific header in the page, the header name must be in lowercase and spaces/punctuations are to be replaced by hyphen (`-`).
     - Linking to specific section of FAQ: `/wiki/FAQ#ive-never-played-this-ouendan-thing---what-is-it/`
 
-## Images <a name="images"></a>
+## Images
 **_Image display on the page:_**
 - Image display is as is without any formatting at all.
   - It is best not to nest images inside GFM's table. (?)
@@ -161,7 +161,7 @@ or
 - No idea about all the images from the MediaWiki by time of writing.
   - May need to manually salvage the images from the old osu!wiki yourself.
 
-## Table styling <a name="table-styling"></a>
+## Table styling
 Based from #70 :  
 Use Markdown table. Most of the Markdown will work except the unordered/ordered listing (must use HTML tags, see: <https://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table>).
 
@@ -208,7 +208,7 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
 | Item One       | Item Two       |
 ```
 
-## Unconfirmed <a name="#unconfirmed"></a>
+## Unconfirmed
 **_Reusable templates:_**
 - No idea. Likely, no support.
 
@@ -220,7 +220,7 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
   - For a wiki meta-sitemap, no idea as of now. Refer to oldwiki's
   - [Click for the project page](https://github.com/ppy/osu-wiki/projects/1)
 
-## GFM offline testing <a name="#gfm-offline-testing"></a>
+## GFM offline testing
 Markdown highlighting:
 
 1. [GitHub's Atom.](https://atom.io/) (May crash, sometimes. Temp data will be lost. Please save often)
@@ -237,32 +237,32 @@ Live display:
 
 Source: <https://stackoverflow.com/questions/9843609/view-markdown-files-offline/>
 
-## Links of interest <a name="#links-of-interest"></a>
+## Links of interest
 General:
-- Cheatsheet of Markdown language: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-- GitHub help dictionary: <https://help.github.com/>
-  - GitHub's git cheatsheet (basic): <https://services.github.com/resources/>
-  - GitHub Desktop: <https://desktop.github.com/>
+- [Cheatsheet of Markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub help dictionary](https://help.github.com/)
+  - [GitHub's git cheatsheet (basic)](https://services.github.com/resources/)
+  - [GitHub Desktop](https://desktop.github.com/)
 
 git-specific:
-- git: <https://git-scm.com/>
-  - Pro git book: <https://git-scm.com/book/en/v2>
-- git simple cheatsheet: <https://rogerdudler.github.io/git-guide/>
-- Basic of forking: <https://kbroman.org/github_tutorial/pages/branching.html>
-- "-s ours" (**Merge OWN branch ONLY**, ignore other branch commits; solves back commit issues _when done correctly_): <https://stackoverflow.com/a/729723>
+- git: https://git-scm.com/
+  - Pro git book: https://git-scm.com/book/en/v2
+- git simple cheatsheet: https://rogerdudler.github.io/git-guide/
+- Basic of forking: https://kbroman.org/github_tutorial/pages/branching.html
+- "-s ours" (**Merge OWN branch ONLY**, ignore other branch commits; solves back commit issues _when done correctly_): https://stackoverflow.com/a/729723
 
 Note: Yes, go get [git](https://git-scm.com/ "git homepage") into your current OS and learn git terminal (GUI is possible but good luck). Doing it online is possible for simple immediate updates but if you want to go all the way, using git is the way to go.
 
 P.S. Study how to fork, pull(fetch/merge), push, add, commit, branch (local and remote), pull request, and basic vim terminal commands (git's default text processor). Optionally, learn how to squash commits _only if you have time_, **properly**.
 
 ---
-## Et Cetera <a name="#et-cetera"></a>
-### Why not stay at MediaWiki? <a name="#emw"></a>
+## Et Cetera
+### Why not stay at MediaWiki?
 - Abysmal performance. (See #69, MillhioreF's comment)
 - Online wiki restriction. (Need to use the wiki's own functions, editors, and syntax)
 - Spam.
 
-### Notable difference from MediaWiki background. <a name="#endmw"></a>
+### Notable difference from MediaWiki background.
 - GitHub way of collaboration. Either you go doing it all online at the repository itself, or take few days to learn it(usually, git) properly.
 - All changes(commits) are not immediate to the ppy's wiki master branch. You need to request for a pull request (from your forked repository; one of the branches) and pray it was merged to master by someone with a write-access (Team osu!).
   - You can still commit on the same pull request. The commits are not final unless it was merged to master branch.
