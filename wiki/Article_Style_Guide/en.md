@@ -223,10 +223,10 @@ P.S. A neat feature if you are using Github's Atom; you can type `table` then pr
 ## GFM offline testing
 Markdown highlighting:
 
-1. [GitHub's Atom.](https://atom.io/) (May crash, sometimes. Temp data will be lost. Please save often)
+1. [GitHub's Atom](https://atom.io/) (May crash, sometimes. Temp data will be lost. Please save often)
 2. [Shiba](https://github.com/rhysd/Shiba)
-3. StackEdit.
-4. Any text editor of your choice and their plugin/modules to support GFM highlighting.
+3. StackEdit
+4. Any text editor of your choice and their plugin/modules to support GFM highlighting
 
 Live display:
 
