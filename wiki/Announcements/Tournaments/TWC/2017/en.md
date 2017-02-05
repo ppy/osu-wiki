@@ -53,7 +53,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
   1. Reviving and surviving during a map gets considered as passing it.
-7. Use of the [[Game_Modifiers#Visual_Settings|Visual Settings]] options are allowed.
+7. Use of the Visual_Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
   1. Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
