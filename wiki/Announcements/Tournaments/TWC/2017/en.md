@@ -1,9 +1,12 @@
-![osu!taiko World Cup 2017](TWC2017logo.png "osu!taiko World Cup 2017")
+osu!taiko World Cup 2017
+=============================
 
-The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko tournament hosted by the [osu! team](People/The_Team "wikilink"). It is the 7th installment of the osu!taiko World Cup.
+![osu!taiko World Cup 2017](TWC2017logo.png)
 
-| Tournament Schedule ||
-| ---------- | ---------- |
+The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 7th installment of the osu!taiko World Cup.
+
+| Event | Timestamp |
+| ---: | :--- |
 | Registration Phase | 9-28 Feb 2016 |
 | Drawings | 11 Mar 2016 (14:00 UTC+0) |
 | Group Stage | 19-20 Mar 2016 |
@@ -13,31 +16,31 @@ The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko t
 | Finals - Week 1 | 16-17 Apr 2016 |
 | Finals - Week 2 | 23-24 Apr 2016 |
 
-# Prizes
+## Prizes
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
-| Prize List |
+| Prize List ||
 | --- | :---------------------- |
 | File:GCrown.png | unique item, profile badge, "osu!taiko Champion" user title |
 | File:SCrown.png | unique item, profile badge |
 | File:BCrown.png | unique item, profile badge |
 
-# Organization
+## Organization
 
 The osu!taiko World Cup 2017 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Organization | |
+| Organization ||
 | ------------ | -------------- |
-| Management | Loctav, p3n, Deif, shARPII |
+| Management | [![De](/wiki/shared/flag/De.png) Loctav](https://new.ppy.sh/u/71366), ![De](/wiki/shared/flag/De.png) p3n, ![Es](/wiki/shared/flag/Es.png) Deif, ![Fr](/wiki/shared/flag/Fr.png) shARPII |
 | Map Selectors | OnosakiHito |
 | Commentators | deadbeat, juankristal, Tasha, ztrot |
 | Statistician | deadbeat, Nwolf |
 
 -----------------------
 
-# Ruleset
-## Tournament Rules
+## Ruleset
+### Tournament Rules
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
   1. While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
@@ -72,7 +75,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
   5. Disqualification from the current and future official tournaments until appealed
   6. Any modification of these rules will be announced.
 
-## Tournament Registration
+### Tournament Registration
 
 1. Every user interested in joining their country's team signs up individually.
   1. Tournament Management will create a list of potential candidates for a country's team.
@@ -87,7 +90,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
   1. If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 5. Mapset selectors may not participate as a player in this tournament.
 
-## Stage Instructions
+### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
   1. This may change depending on how many teams are accepted into the competition at the end.
@@ -117,7 +120,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
   3. In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
   4. In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
-## Match Instructions
+### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
   1. Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2016: (TeamBlue) vs (TeamRed)".
@@ -133,7 +136,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
   1. In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.
 
-## Mappool Instructions
+### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
   1. Finals Week 1 & Finals Week 2 use the same mappool.
@@ -149,7 +152,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 10. The size of the NoMod bracket will be 6 in all stages.
 11. The size of the mod-specific brackets will be 3 in all stages.
 
-## Scheduling Instructions
+### Scheduling Instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
