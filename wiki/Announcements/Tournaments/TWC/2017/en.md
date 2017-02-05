@@ -5,6 +5,8 @@ osu!taiko World Cup 2017
 
 The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 7th installment of the osu!taiko World Cup.
 
+## Tournament Schedule
+
 | Event | Timestamp |
 | ---: | :--- |
 | Registration Phase | 9-28 Feb 2016 |
@@ -20,22 +22,22 @@ The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko t
 
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
 
-| Prize List ||
-| --- | :---------------------- |
-| File:GCrown.png | unique item, profile badge, "osu!taiko Champion" user title |
-| File:SCrown.png | unique item, profile badge |
-| File:BCrown.png | unique item, profile badge |
+| Placing | Prize(s) |
+| --- | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | unique item, profile badge, "osu!taiko Champion" user title |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | unique item, profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | unique item, profile badge |
 
 ## Organization
 
 The osu!taiko World Cup 2017 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Organization ||
+| Position | Member |
 | ------------ | -------------- |
-| Management | [![De](/wiki/shared/flag/De.png) Loctav](https://new.ppy.sh/u/71366), ![De](/wiki/shared/flag/De.png) p3n, ![Es](/wiki/shared/flag/Es.png) Deif, ![Fr](/wiki/shared/flag/Fr.png) shARPII |
-| Map Selectors | OnosakiHito |
-| Commentators | deadbeat, juankristal, Tasha, ztrot |
-| Statistician | deadbeat, Nwolf |
+| Management | [![](/wiki/shared/flag/De.gif) Loctav](//new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](//osu.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](//osu.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](//osu.ppy.sh/u/776257) |
+| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//osu.ppy.sh/u/290128) |
+| Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](//osu.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](//osu.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](//osu.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](//osu.ppy.sh/u/6347) |
+| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](//osu.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](//osu.ppy.sh/u/1910766) |
 
 -----------------------
 
@@ -104,7 +106,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
 5. This may change with the actual Group Stage setup.
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-7. Based on [http://puu.sh/bUq5V/f1066103b0.png this graphic], the stages are split up into the following:
+7. Based on [this image](http://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
 | -----: | -------- |
