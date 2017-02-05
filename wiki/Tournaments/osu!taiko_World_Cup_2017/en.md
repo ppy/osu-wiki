@@ -29,9 +29,8 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | Organization | |
 | ------------ | -------------- |
-| Tournament Management | Loctav, p3n, Deif, shARPII |
+| Management | Loctav, p3n, Deif, shARPII |
 | Map Selectors | OnosakiHito |
-| Streamers | Loctav, p3n |
 | Commentators | deadbeat, juankristal, Tasha, ztrot |
 | Statistician | deadbeat, Nwolf |
 
