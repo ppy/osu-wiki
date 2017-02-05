@@ -103,7 +103,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
   1. This may change depending on how many teams are accepted into the competition at the end.
 
 2. All the teams from each group will face each other.
@@ -179,6 +179,6 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
   1. In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-  
+
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
