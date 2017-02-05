@@ -248,46 +248,46 @@ Le "osu!website" trie les difficultés en 5 catégories (en anglais):
 - Insane, and
 - Expert
 
-### Temps de drainage (terme original : drain time) <!--Review needed -->
+### Temps de drainage (terme original : drain time) <!--Review needed | max priority -->
 
 Le temps de drainage, ou drain, se réfère à la durée totale de la beatmap qui requiert que le joueur soie actif.
 Le temps de drainage ne prend pas en compte les pauses et les parties non mappées à travers la beatmap.
 
-Les maps avec des temps de drinage très longs sont typiquement référencées comme étant des maps "marathon" et requièrent une endurance supérieure à la normale pour être complétées avec succès.
+Les maps avec des temps de drainage très longs sont typiquement référencées comme étant des maps "marathon" et requièrent une endurance supérieure à la normale pour être complétées avec succès.
 
-### Drop
+### Drop  <!--Review needed | max priority -->
 
-A drop is an osu!catch element that gives a score of 100.
-A drop is the equivalent to the osu!standard's slider tick.
+Un drop est un élément d' "osu!catch" qui donne un score de 100.
+Un drop est l'équivalent du point d'entrée/sortie d'un slider sur osu!standard.
 
-The difference between drops and droplets is that a drop is twice as big as droplets are.
+La différence entre les drops et les droplets est qu'un drop est deux fois plus grand qu'un droplet.
 
 ### Droplet
 
-A droplet is an osu!catch element that gives a score of 10.
-A droplet is the equivalent to the osu!standard's slider track.
+Un droplet est un élément d' "osu!catch" qui donne un score de 10.
+Un droplet est l'équivalent du "rail" d'un slider sur osu!standard.
 
-The difference between drops and droplets is that a droplet is half as big as drops are.
+La différence entre les drops et les droplets est qu'un droplet fait la moitié de la taille d'un drop.
 
 ### DS
 
-DS is an abbreviation meaning distance snapping.
-This term is usually seen during the modding process.
+DS est une abbréviation signifiant "distance snapping".
+Ce terme est généralement aperçu durant la phase de modding.
 
 ### DS games
 
-Collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
-A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
-osu! is mostly based on these games.
+Un terme désignant les jeux : [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (aussi appelé "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (généralement appelé "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (aussi appelé "EBA").
+Il s'agit d'une collection de jeux de rythme développés par [iNiS](https://en.wikipedia.org/wiki/INiS) pour la Nintendo DS, qui se partagent beaucoup d'éléments de gameplay et de présentation.
+osu! est en grande partie basé sur ces jeux.
 
 ## E
 
 ### EBA
 
-EBA has two meanings:
+EBA a deux sens:
 
-- Elite Beat Agents, one of the DS games which osu! is based on
-- the collective term for the playable characters in that game (referring to meaning above), i.e. "The EBA" or "The Agents"
+- Elite Beat Agents, un des jeux DS sur lesquels osu! est basé
+- un terme collectif désignant les personnages jouables dans le jeu ci-dessus, par exemple : "The EBA" ou "The Agents"
 
 ### Extended chat
 
