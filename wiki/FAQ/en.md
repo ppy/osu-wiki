@@ -1,8 +1,8 @@
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu! game mode"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko game mode"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch game mode"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania game mode"
+[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
 [Play_Styles wikilink]: /wiki/Play_Styles/ "Play Styles"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Spun Out wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Spun Out"
