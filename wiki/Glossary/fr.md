@@ -11,7 +11,7 @@ Les ajouts et modifications sont les bienvenus !
 ### Friche abandonnée (terme original : Abandoned wasteland)
 
 Pour ceux qui trouvent que le nom n'est pas assez évident, la friche abandonnée est un sous-forum caché ou les instructions données aux modérateurs en charge sont "Mettez dedans les choses dont nous n'avons pas besoin".
-Quand un thread est considéré comme un "wastelanded", il est déplaçé dans ce sous-forum.
+Quand un thread est considéré comme "wastelanded", il est déplaçé dans ce sous-forum.
 
 ### AFK
 
@@ -27,7 +27,7 @@ Pour les spinners, le cercle d'approche indiquera la durée de ce spinner.
 
 ### Authentique (terme original : Authentic)
 
-Authentique est un terme qui désigne une beatmap qui reprend tous les aspects d'un niveau spécifique des jeux DS originaux (chanson, paramètres, placement des objets, etc.).
+"Authentic" est un terme qui désigne une beatmap qui reprend tous les aspects d'un niveau spécifique des jeux DS originaux (chanson, paramètres, placement des objets, etc.).
 
 ## B
 
@@ -232,15 +232,15 @@ osu! utilise actuellement deux algorithmes pour calculer les étoiles:
 
 Vous pouvez voir les étoiles d'une beatmap en la testant dans l'éditeur, sur l'écran de sélection de la chanson, ou sur son listing sur le site.
 
-### Difficulties
+### Difficultés
 
-Beatmaps can have multiple difficulties, or diffs for short (or diff for singular), varying from Easy to Expert and above.
-A beatmap should generally have two to five versions of varying difficulty.
-This would allow both novices and experienced players to be able to enjoy playing it.
+Les beatmaps peuvent avoir plusieurs difficultés, allant de facile (Easy) à Expert et plus.
+Une beatmap devrait généralement avoir entre deux et cinq versoins de difficultés variables.
+Cela permettrait aux joueurs novices et expérimentés de pouvoir jouer et apprécier la beatmap.
 
-Some factors that can affect a version's difficulty are the number of object in the beatmap, whether a main or background (harder to hear) rhythm is followed for object placement, the length of combos, the beat spacing value, the drain rate, the accuracy limit the game requires to register a hit, the size of hitcircle, etc..
-Difficulty stars are one way to gauge a version's difficulty level.
-The osu!website sorts difficulty versions into into 5 categories:
+Quelques-uns des facteurs qui peuvent affecter la difficulté d'une version sont le nombre d'objets dans la beatmap, qu'importe que le rythme choisi pour le placement des objets soie le rythme principal ou un rythme d'arrière plan plus difficile à entendre,la longueur des combos, la valeur d'espacement des pulsations, le taux de drainage, la limite de précision requise par le jeu pour enregistrer une frappe ,la taille du cercle de frappe, etc..
+Les étoiles de difficulté sont un moyen de jauger la version de difficulté d'un niveau.
+Le "osu!website" trie les difficultés en 5 catégories (en anglais):
 
 - Easy,
 - Normal,
@@ -248,12 +248,12 @@ The osu!website sorts difficulty versions into into 5 categories:
 - Insane, and
 - Expert
 
-### Drain time
+### Temps de drainage (terme original : drain time) <!--Review needed -->
 
-The drain time, or drain, refers to the total duration of the beatmap that requires the player to be active.
-Drain time does not consider the breaks and unmapped parts throughout the beatmap.
+Le temps de drainage, ou drain, se réfère à la durée totale de la beatmap qui requiert que le joueur soie actif.
+Le temps de drainage ne prend pas en compte les pauses et les parties non mappées à travers la beatmap.
 
-Maps with very long drain times are typically referred to as "marathon" maps and require endurance beyond the norm in order to complete successfully.
+Les maps avec des temps de drinage très longs sont typiquement référencées comme étant des maps "marathon" et requièrent une endurance supérieure à la normale pour être complétées avec succès.
 
 ### Drop
 
