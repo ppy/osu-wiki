@@ -289,36 +289,36 @@ EBA a deux sens:
 - Elite Beat Agents, un des jeux DS sur lesquels osu! est basé
 - un terme collectif désignant les personnages jouables dans le jeu ci-dessus, par exemple : "The EBA" ou "The Agents"
 
-### Extended chat
+### Chat étandu (terme original : extanded chat)
 
-The Extended chat can be activated by pressing `F9` in osu! where the chat window is expanded with a list of user panels.
-These panels are sortable by various attributes.
-Users that are using the osu!client are displayed, not ones that are participating in chat from using a IRC client.
-The user panels supply lots of information on each user.
-If the mouse cursor is placed on them.
-The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat_Console/).
+Le chat étandu peut être activé en pressant `F9` dans la fenêtre d'osu! ou la fenêtre de chat est étandue avec une liste des utilisateurs sous forme de panneaux.
+Ces panneaux peuvent être triés selon différents attributs.
+Les utilisateurs utilisant le client osu! sont affichés, ceux qui participent au chat depuis un client IRC ne le sont pas.
+Les panneaux fournissent une grande quantité d'informations sur chaque utilisateur
+en passant le curseur de la souris dessus.
+La couleur des panneaux indique l'activité courante de l'utilisateur. Pour plus d'informations sur ces codifications, consultez [Chat Console](/wiki/Chat_Console/).
 
 ## F
 
 ### Fail
 
-Fail has three meanings:
+Fail a trois significations:
 
-- the incompletion of a beatmap due to low health
-- in multiplayer, an indicator underneath the player's name to show they have failed the beatmap
-- the player having less than 50% health during a break; where an indicator will display if you failed the section
+- l'impossibilité de compléter une beatmap dûe à une barre de santé trop basse.
+- en multijoueur, un indicateur en dessous du pseudonyme du joueur pour montrer qu'il a échoué la beatmap
+- le joueur a moins de 50% de vie pendant une pause; un indicateur s'affichera si vous avez échoué la section
 
 ### FC
 
 ![](img/CombosCanHurt.png)
 
-The score on the top has a full combo, while the one on the bottom has a broken combo.
-Losing your combo halfway through the game could easily lose you half as many points!
+Le score du haut a un full combo, tandis que celui du bas a un combo cassé.
+Perdre votre combo à mi-chemin pendant la partie peut facilement vous faire perdre la moitié des points, voire plus !
 
-FC or, a "full combo", is when a player completes a beatmap while obtaining the maximum combo possible.
-This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or sliderbreaks.
+FC, ou "full combo", est le fait de compléter une beatmap en obtenant le combo maximal qu'il est possible de réaliser.
+Cela ne compte pas la précision, car le FC est souvent utilisé pour signifier "clear une beatmap sans louper une note ou casser un slider"
 
-Full combos usually give the most score in the osu!standard and osu!catch modes.
+Les full combos donnent d'habitude les meilleurs scores en osu!standard et en osu!catch.
 
 ## G
 
