@@ -9,14 +9,14 @@ The **osu!taiko World Cup 2017** (**_TWC 2016_**) is a country-based osu!taiko t
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 9-28 Feb 2016 |
-| Drawings | 11 Mar 2016 (14:00 UTC+0) |
-| Group Stage | 19-20 Mar 2016 |
-| Round of 16 | 26-27 Mar 2016 |
-| Quarterfinals | 2-3 Apr 2016 |
-| Semifinals | 9-10 Apr 2016 |
-| Finals - Week 1 | 16-17 Apr 2016 |
-| Finals - Week 2 | 23-24 Apr 2016 |
+| Registration Phase | 7-19 Feb 2017 |
+| Drawings | 5 Mar 2017 (14:00 UTC+0) |
+| Group Stage | 11-12 Mar 2017 |
+| Round of 16 | 18-19 Mar 2017 |
+| Quarterfinals | 25-26 Mar 2017 |
+| Semifinals | 1-2 Apr 2017 |
+| Finals - Week 1 | 8-9 Apr 2017 |
+| Finals - Week 2 | 15-16 Apr 2017 |
 
 ## Prizes
 
