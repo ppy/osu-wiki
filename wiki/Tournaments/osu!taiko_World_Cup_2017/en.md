@@ -20,8 +20,8 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | Prize List |
 | --- | :---------------------- |
 | File:GCrown.png | unique item, profile badge, "osu!taiko Champion" user title |
-| File:SCrown.png |  unique item, profile badge |
-| File:BCrown.png |  unique item, profile badge |
+| File:SCrown.png | unique item, profile badge |
+| File:BCrown.png | unique item, profile badge |
 
 # Organization
 
