@@ -250,7 +250,7 @@ This would allow both novices and experienced players to be able to enjoy playin
 
 Some factors that can affect a version's difficulty are the number of object in the beatmap, whether a main or background (harder to hear) rhythm is followed for object placement, the length of combos, the beat spacing value, the drain rate, the accuracy limit the game requires to register a hit, the size of hitcircle, etc..
 Difficulty stars are one way to gauge a version's difficulty level.
-The osu!website sorts difficulty versions into into 5 categories:
+The osu!website sorts difficulty versions into 5 categories:
 
 - Easy,
 - Normal,
@@ -301,12 +301,10 @@ EBA has two meanings:
 
 ### Extended chat
 
-The Extended chat can be activated by pressing `F9` in osu! where the chat window is expanded with a list of user panels.
-These panels are sortable by various attributes.
-Users that are using the osu!client are displayed, not ones that are participating in chat from using a IRC client.
-The user panels supply lots of information on each user.
-If the mouse cursor is placed on them.
-The colour of the user panels indicates the user's current activity; an explaination for these codes, see [Chat Console](/wiki/Chat_Console/).
+Extended chat is the Chat Console (bottom portion) with the user panels (top portion) of players currently logged-in to the game client.
+Press `F8` to show the chat and/or `F9` to show the user panels (if you press `F9` without the chat opened, this will open both).
+
+For more information about the Extended Chat Console, see [Chat Console](/wiki/Chat_Console/) (under the _Extended Chat Console_ section).
 
 ## F
 
