@@ -289,7 +289,7 @@ EBA a deux sens:
 - Elite Beat Agents, un des jeux DS sur lesquels osu! est basé
 - un terme collectif désignant les personnages jouables dans le jeu ci-dessus, par exemple : "The EBA" ou "The Agents"
 
-### Chat étandu (terme original : extanded chat)
+### Chat étandu (terme original : extanded chat) -> https://github.com/ppy/osu-wiki/pull/100
 
 Le chat étandu peut être activé en pressant `F9` dans la fenêtre d'osu! ou la fenêtre de chat est étandue avec une liste des utilisateurs sous forme de panneaux.
 Ces panneaux peuvent être triés selon différents attributs.
@@ -324,18 +324,18 @@ Les full combos donnent d'habitude les meilleurs scores en osu!standard et en os
 
 ### Geki
 
-Geki, or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
-Many geki will happen during the course of a successful play.
+Geki, ou Elite Beat!, est un terme de scoring utilisé quand vous complétez un combo avec la précision maximale sur chaque note.
+Plusieurs geki peuvent intervenir durant une partie réussie.
 
 ### Guest difficulty
 
-Guest difficulty, or GD, refers to any difficulty made by a mapper for inclusion in another mapper's set.
-Guest difficulties usually have the mapper's username as the difficulty's name.
+Le terme guest difficulty, abbrévié GD, représente chaque difficulté faite par un mappeur pour être incluse dans le set d'un autre mappeur.
+Les guest difficulties portent d'habitude le nom du mappeur en tant que nom de difficulté.
 
-There are many reasons for guest difficulties to exist:
+Il y'a plusieurs raisons d'être pour ces difficultés:
 
-- etiquette in the community can make it difficult for multiple mappers to upload beatmaps of the same song around the same time
-  - a different mapper, interested in mapping that song, may choose to contribute a difficulty to the other mapper's set instead
+- Il peut être difficile pour plusieurs mappeurs d'uploader des beatmaps de la même chanson en même temps
+  - un mappeur différent, intéressé pour mapper une chanson, peut choisir de contribuer à une difficulté destinée au set d'un autre mappeur par exemple
 - they may also decide, after-the-fact, upon playing the other map that they like the music and want to create a difficulty for it
 - or the mapper doesn't want to put in the effort in creating the difficulties on their own, but rather would want to just create one and give it to another mapper
 
