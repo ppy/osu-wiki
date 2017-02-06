@@ -1,6 +1,10 @@
-This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
+Maps with Storyboards
+=====================
 
-### Storyboards
+This is an expanded list of beatmaps with [storyboard](/wiki/Storyboarding).
+
+Storyboards
+------------------
 
 -   [Suzuta Miyako - one's future (Full Ver.)](http://osu.ppy.sh/b/156919)
 -   [Queen - Don't Stop Me Now](http://osu.ppy.sh/b/26567)
@@ -27,7 +31,8 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Katakiri Rekka - Get The Regret Over](http://osu.ppy.sh/s/27328)
 -   [Lon - Yuru Fuwa Jukai Girl](http://osu.ppy.sh/s/50462)
 
-### Songs With Cool Effects
+Songs With Cool Effects
+--------------------------
 
 -   [Kayano Ai - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)](http://osu.ppy.sh/b/106358)
 -   [Hayami Saori - Fallen Down](http://osu.ppy.sh/b/84748)
@@ -39,7 +44,6 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Nightcore - Jump Jump](http://osu.ppy.sh/b/45924)
 -   [Lia - Toki wo Kizamu Uta](http://osu.ppy.sh/s/35701)
 -   [Skrillex - First Of The Year](http://osu.ppy.sh/s/56791)
--   ~~Nightcore - I Touch Myself~~
 -   [765PRO ALLSTARS - READY!!](http://osu.ppy.sh/s/41121)
 -   [Yuyoyuppe feat. Hanatan - Palette](http://osu.ppy.sh/b/57528)
 -   [Mike Morasky - Science is Fun](http://osu.ppy.sh/b/102450)
@@ -89,7 +93,8 @@ This is an expanded list of beatmaps with [storyboard](storyboard "wikilink").
 -   [Doppelman - Error!!](http://osu.ppy.sh/s/50042)
 -   [SOUND HOLIC - Drive My Life](http://osu.ppy.sh/b/178904)
 
-### Beatmaps which have a soul™
+Beatmaps which have a soul™
+-----------------------------
 
 -   [Wiklund - Billy Boogie](http://osu.ppy.sh/s/22082)
 -   [Jimmy Eat World - The Middle](http://osu.ppy.sh/s/24685)
@@ -132,7 +137,8 @@ Not ranked
 -   [The Adventures of Duane & BrandO - MEGA MAN 2](http://osu.ppy.sh/b/55640)
 -   [Yooh - MariannE](http://osu.ppy.sh/s/301247)
 
-### Songs Which Change the Gameplay
+Songs Which Change the Gameplay
+---------------------------------
 
 -   [Seether - Fake It](https://osu.ppy.sh/s/48738)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
