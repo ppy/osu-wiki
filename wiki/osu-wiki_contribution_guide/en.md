@@ -29,7 +29,6 @@ Optionally, if you plan to make changes locally:
  
  You should see something like this.
 
-
 ![osu-wiki Repository Snapshot](3.jpg "Snapshot of the osu!Wiki Repository")
 
 Click on the "Fork" button, located at the top-right of the page. This should redirect you to the location for the fork.
@@ -41,9 +40,7 @@ Now click at your profile and GitHub would redirect you to where the fork is.
 
 Finally, you should see something like this.
 
-
 ![Fork Snapshot](5.jpg "Fork Snapshot")
-
 
 Congratulations! You have made a copy of the osu!wiki repository! You can now proceed to make changes.
 
@@ -68,9 +65,7 @@ If you want to preview your changes, click the "Preview Changes" tab. To go back
 
 After making your changes, scroll down and fill the following fields to explain your edit(s) to other contributors.
 
-
 ![Commit Message](9.jpg "Commit Message")
-
 
 _**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get merged!**_
 
