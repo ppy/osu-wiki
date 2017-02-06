@@ -29,17 +29,21 @@ Optionally, if you plan to make changes locally:
  
  You should see something like this.
 
+
 ![osu-wiki Repository Snapshot](3.jpg "Snapshot of the osu!Wiki Repository")
 
 Click on the "Fork" button, located at the top-right of the page. This should redirect you to the location for the fork.
 
 ![Fork prompt dialogue](4.jpg "Fork prompt dialogue")
 
+
 Now click at your profile and GitHub would redirect you to where the fork is.
 
 Finally, you should see something like this.
 
+
 ![Fork Snapshot](5.jpg "Fork Snapshot")
+
 
 Congratulations! You have made a copy of the osu!wiki repository! You can now proceed to make changes.
 
@@ -53,6 +57,7 @@ To edit a page, go to the folder of that page and select the language of that ar
 
 _Note: Each article is grouped into folders where they contain markdown files arranged by language and their media. All article pages inside these folders must use the two letter language codes. To know which language code to use, see the [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) following the `639-1` column. Please follow this format when creating a new article._                  
 
+
 ![GitHub Preview](7.jpg "Github Preview")
 
 Click on the pencil icon to edit; this should redirect you to the web editor.
@@ -63,7 +68,9 @@ If you want to preview your changes, click the "Preview Changes" tab. To go back
 
 After making your changes, scroll down and fill the following fields to explain your edit(s) to other contributors.
 
+
 ![Commit Message](9.jpg "Commit Message")
+
 
 _**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get merged!**_
 
@@ -116,6 +123,7 @@ _Note: However, If your authentication details were saved in Git already, no pro
 After pushing your commits, you must make a "Pull Request"(abbreviated as "PR"). This lets us know that your commits are ready to be reviewed.
 
 Go to the "Pull Requests" tab.
+
 
 ![Pull Request Tab](6.jpg "Pull Request Tab")
 
