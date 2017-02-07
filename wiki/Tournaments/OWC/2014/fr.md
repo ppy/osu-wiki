@@ -461,7 +461,7 @@ Règlement
 
 ### Lexique
 
--   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Announcements/Tournaments/OWC/2014),
+-   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Tournaments/OWC/2014),
 -   Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
 -   Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
 -   Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
