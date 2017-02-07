@@ -1,28 +1,38 @@
+osu! Dateiformate
+==================
+
 osu!-spezifische Dateiformate
-=============================
+------------------------------
 
 ### Archiv
 
 | Dateiformat                                 | Verwendung                                                                                             |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz](DE:Osz_(file_format) "wikilink")        | Ausführbare Beatmapdatei.                                                                                     |
-| [.osk](DE:Osk_(file_format) "wikilink")        | Ausführbare Skindatei.                                                                                        |
-| [.db](DE:Db_(file_format) "wikilink")          | Cached Informationen.                                                                                         |
+| [.osz][Osz Link]        | Ausführbare Beatmapdatei.                                                                                     |
+| [.osk][Osk Link]        | Ausführbare Skindatei.                                                                                        |
+| [.db][Db Link]       | Cached Informationen.                                                                                         |
 
-### [Beatmap Editor](Beatmap_Editor "wikilink")
+### [Beatmap Editor](/wiki/Beatmap_Editor)
 
 | Dateiformat                                 | Verwendung                                                                                           |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu](DE:Osu_(file_format) "wikilink")        | [Komposition](DE:Compose "wikilink"), [Timing](DE:Timing "wikilink"), [Song Setup](DE:Song_Setup "wikilink"). |
-| [.osb](DE:Osb_(file_format) "wikilink")        | [Design](DE:Design "wikilink").                                                                               |
+| [.osu][Osu Link]       | [Komposition](/wiki/Compose), [Timing](/wiki/Timing), [Song Setup](/wiki/Song_Setup). |
+| [.osb][Osb Link]       | [Design](/wiki/Design).                                                                               |
 
 ### Replay
 
 | Dateiformat                                 | Verwendung                                                                                             |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr](DE:Osr_(file_format) "wikilink")        | Ausführbare Replaydatei (kann nicht dekomprimiert werden).                                               |
+| [.osr][Osr Link]     | Ausführbare Replaydatei (kann nicht dekomprimiert werden).                                               |
 
-![.osk/.osz file icon](Osu!sys os.png) .osz/.osk Datei erstellen
-=============================================================================================================================
+.osz/.osk Datei erstellen
+------------------------------
 
 .osz/.osk Datei ist ein Dateierweiterung, die extra für osu!.exe zugeschnitten ist. Wenn eine .osz Datei geöffnet wird, wird die Datei von der osu!.exe extrahiert und zum "Songs" Ordner transferiert. Die .osk Datei wird hingegen zum "Skins" Ordner transferiert. Standardmäßig werden Beatmapdateien direkt von der offiziellen Webseite im .osz Dateiformat heruntergeladen. Wie man .osz/.osk Dateien erstellt, zählt als fundamentales Wissen eines Beatmappers/Skinners.
+
+[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
+[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
+[Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
+[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
+[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
+[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
