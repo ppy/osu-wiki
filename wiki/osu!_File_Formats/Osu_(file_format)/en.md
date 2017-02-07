@@ -1,7 +1,10 @@
+Osu (file format)
+=================
+
 **.osu** is a human-readable file format containing information about a single beatmap.
 
 Format
-======
+---------
 
 The first line of the file specifies the version of beatmap file. Example:
 
@@ -23,10 +26,9 @@ Example:
 `[General]`
 
 Sections
-========
+---------
 
-General
--------
+### General
 
 AudioFilename (String) specifies the location of the audio file relative to the current folder.
 
@@ -64,8 +66,7 @@ WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be
 
 `WidescreenStoryboard: 0`
 
-Editor
-------
+### Editor
 
 Bookmarks (Integer List, milliseconds) is a list of comma-separated times of editor bookmarks.
 
@@ -87,8 +88,7 @@ TimelineZoom (Integer) specifies the zoom in the editor timeline.
 
 `TimelineZoom: 1`
 
-Metadata
---------
+### Metadata
 
 Title (String) is the title of the song limited to ASCII characters.
 
@@ -130,8 +130,7 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 
 `BeatmapSetID:114987`
 
-Difficulty
-----------
+### Difficulty
 
 HPDrainRate (Float) specifies the HP Drain difficulty.
 
@@ -157,13 +156,11 @@ SliderTickRate (Float) specifies how often slider ticks appear. Default value is
 
 `SliderTickRate:1`
 
-Events
-------
+### Events
 
-See [Storyboard Scripting](Storyboard_Scripting)
+See [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting)
 
-Timing Points
--------------
+### Timing Points
 
 Timing Points describe a number of properties regarding offsets, beats per minute and hit sounds. Offset (Integer, milliseconds) defines when the Timing Point takes effect. Milliseconds per Beat (Float) defines the beats per minute of the song. For certain calculations, it is easier to use milliseconds per beat. Meter (Integer) defines the number of beats in a measure. Sample Type (Integer) defines the type of hit sound samples that are used. Sample Set (Integer) defines the set of hit sounds that are used. Volume (Integer) is a value from 0 - 100 that defines the volume of hit sounds. Kiai Mode (Boolean) defines whether or not Kiai Time effects are active. Inherited (Boolean) defines whether or not the Timing Point is an inherited Timing Point.
 
@@ -179,30 +176,34 @@ Example of an inherited Timing Point:
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours
--------
+### Colours
 
 Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
 
 `Combo1 : 245,245,245`
 
-Hit Objects
------------
+### Hit Objects
 
 Hit Circle Syntax:
 
-`x,y,time,type,hitSound,addition`
-`164,260,2434,1,0,0:0:0:0:`
+```
+x,y,time,type,hitSound,addition
+164,260,2434,1,0,0:0:0:0:
+```
 
 Slider Syntax:
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...|repeat,pixelLength|edgeHitsound:edgeAddition,addition`
-`424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+```
+x,y,time,type,hitSound,sliderType|curveX:curveY|...|repeat,pixelLength|edgeHitsound:edgeAddition,addition
+424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:
+```
 
 Spinner Syntax:
 
-`x,y,time,type,hitSound,endTime,addition`
-`256,192,730,12,8,3983`
+```
+x,y,time,type,hitSound,endTime,addition
+256,192,730,12,8,3983
+```
 
 x ranges from 0 to 512 (inclusive) and y ranges from 0 to 384 (inclusive).
 
