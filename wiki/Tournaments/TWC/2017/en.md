@@ -35,7 +35,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | Position | Member |
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](//new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](//new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](//new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](//new.ppy.sh/u/776257) |
-| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//new.ppy.sh/u/290128) |
+| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](//new.ppy.sh/u/398275) |
 | Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](//new.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](//new.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](//new.ppy.sh/u/6347) |
 | Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](//new.ppy.sh/u/1910766) |
 
