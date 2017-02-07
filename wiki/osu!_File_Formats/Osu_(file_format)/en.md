@@ -209,7 +209,7 @@ Bit 0 (1) = circle, bit 1 (2) = slider, bit 2 (4) = new combo, bit 3 (8) = spinn
 
 *hitSound (Integer)* is a bitmap of hitsounds to play on top of the normal hitsound:
 
-2 = Whistle, 4 = Finish, 8 = Clap
+Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
 
 *addition (sampleSet:additions:customIndex:sampleVolume:filename)* is optional and defines the samplesets of the hitobject. It defaults to "0:0:0:0:". *sampleSet (Integer)* changes the sampleset of the object, and *addition (Integer)* changes the sampleset for additions (whistle, finish, clap). The values for these are:
 
@@ -227,7 +227,7 @@ A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and
 
 *x*, *y*, *time*, and *type* behave the same as described in Hit Circle Syntax.
 
-*hitSound* applies to the body of the slider. Only whistle sounds will play during the slider body.
+*hitSound* applies to the body of the slider, but only whistle sounds will play during the slider body.
 
 *sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull). A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier. Catmull sliders are deprecated.
 
