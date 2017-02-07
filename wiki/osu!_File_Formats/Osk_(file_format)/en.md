@@ -1,1 +1,4 @@
-**.osk** is a file archive containing an [osu! skin](Skinning) folder.
+Osk (file format)
+==================
+
+**.osk** is a file archive containing an [osu! skin](/wiki/Skinning) folder.
