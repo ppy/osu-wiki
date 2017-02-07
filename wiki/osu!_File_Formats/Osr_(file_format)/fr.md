@@ -1,3 +1,6 @@
+Osr (extension)
+=================
+
 L'extension **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay.
 
 Les types de données
@@ -69,7 +72,7 @@ Comme montré dans l'[API d'osu!](https://github.com/peppy/osu-api/wiki#mods).
 | Flashlight  | 1024                                                   |
 | Autoplay    | 2048                                                   |
 | SpunOut     | 4096                                                   |
-| Relax2      | 8192 |- // Autopilot?                                  |
+| Relax2      | 8192 (Autopilot)                                       |
 | Key4        | 32768                                                  |
 | Key5        | 65536                                                  |
 | Key6        | 131072                                                 |
@@ -80,5 +83,5 @@ Comme montré dans l'[API d'osu!](https://github.com/peppy/osu-api/wiki#mods).
 | Random      | 2097152                                                |
 | LastMod     | 4194304                                                |
 
--   Relax2 = [Autopilot](FR:AP)
--   LastMod = [Cinema](FR:Cinema)
+-   Relax2 = [Autopilot](/wiki/Game_Modifiers)
+-   LastMod = [Cinema](/wiki/Game_Modifiers)
