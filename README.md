@@ -17,4 +17,4 @@ Please note that this *does not cover* the usage of the "osu!" or "ppy" branding
 
 # Contributing
 
-Contributions to the osu!wiki are done through GitHub. A basic guide to using GitHub, specifically tailored for the osu!wiki project, is available [here](/wiki/osu-contribution-guide/en.md). The article style guide, which _must_ be adhered to for all new / rewritten pages going forward, is available [here](/wiki/Article-Style-Guide/en.md).
+Contributions to the osu!wiki are done through GitHub. A basic guide to using GitHub, specifically tailored for the osu!wiki project, is available [here](/wiki/osu-contribution-guide). The article style guide, which _must_ be adhered to for all new / rewritten pages going forward, is available [here](/wiki/Article-Style-Guide).
