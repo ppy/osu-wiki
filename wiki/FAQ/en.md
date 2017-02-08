@@ -556,7 +556,7 @@ From the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard*
 
 ![Options keyboard section][Options keyboard image]
 
-#### Game over? Where did I messed up?
+#### Game over? Where did I mess up?
 _Full explanation: [Replay][Replay wikilink]_
 
 After failing a beatmap, press the `F1` key to replay the currently failed play.
