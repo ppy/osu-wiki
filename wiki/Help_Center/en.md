@@ -76,7 +76,7 @@ If you have made an account whilst being unaware of this rule somehow, cease pla
 
 ### Am I allowed to change my account's username?
 
-osu! supporters can get change their usernames, which can be [at the osu!store](http://store.ppy.sh/store/product/32).
+[osu!supporters](/wiki/osu!supporter) can get change their usernames, which can be [at the osu!store](http://store.ppy.sh/store/product/32).
 
 There are some points to username changes to know:
 
@@ -126,7 +126,7 @@ osu!supporters are given the privilege of editing their very own page for displa
 
 ### When I try to register, all the fields say "invalid request"!
 
-This is a known issue, and we aren't yet sure what causes it. Some possible workarounds are:
+This has been a known issue; however, we aren't sure what causes this problem. If you see the described issue, try these workarounds:
 
 1.  Make sure JavaScript is enabled and osu.ppy.sh is allowed to use it
 2.  Register on another browser
@@ -161,9 +161,9 @@ Gameplay related issues
 
 A feature that toggles the HUD (scores, combo, accuracy display) was added recently.
 
-To enable / disable this feature, simply hit **shift + tab**.
+To enable / disable this feature, simply hit `Shift` + `Tab`.
 
-If you changed the keybinding that toggles the scoreboard, press and hold shift and press the key that toggles your scoreboard instead.
+If you changed the keybinding that toggles the scoreboard, press and hold `Shift` and press the key that toggles your scoreboard instead.
 
 ------------------------------------------------------------------------
 
@@ -223,9 +223,9 @@ If smoke appears when you don't want it to, go to **Main Menu**, from there sele
 
 ### How do I save my own replay of a completed song?
 
-You can save your replay after you have completed the song, in order to do that, once you are at the post-game results screen, hit the **F2** button. That will save the replay in the **/Replays/** folder under the osu! installation directory.
+You can save your replay after you have completed the song, in order to do that, once you are at the post-game results screen, hit the `F2` button. That will save the replay in the `/Replays/` folder under the osu! installation directory.
 
-If you have forgot to save the replay at the end of the song, don't panic! You can always check local ranking of your song, select desired score, and hit **F2**. osu! automatically saves all replays after you complete a song under the **/Data/r/** folder, also contained within the osu! installation directory.
+If you have forgot to save the replay at the end of the song, don't panic! You can always check local ranking of your song, select desired score, and hit `F2`. osu! automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
 
 ------------------------------------------------------------------------
 
@@ -233,7 +233,7 @@ If you have forgot to save the replay at the end of the song, don't panic! You c
 
 This is usually caused by your graphics card or CPU overheating, or some other hardware fault.
 
-To determine the cause more accurately, download a GPU/CPU temperature monitor and keep close watch over your hardware while playing osu!. If your hardware is regularly reaching temperatures of &gt;90C / 194F, you may wish to try enabling the 120FPS/240FPS **Frame Limiter** in the game's options, as this will significantly reduce the load on both your CPU and GPU.
+To determine the cause more accurately, download a GPU/CPU temperature monitor and keep close watch over your hardware while playing osu!. If your hardware is regularly reaching temperatures of >90C / 194F, you may wish to try enabling the 120FPS/240FPS **Frame Limiter** in the game's options, as this will significantly reduce the load on both your CPU and GPU.
 
 Alternatively, setting your CPU/GPU fans to 100% will help dissipate the building heat quicker - there are several applications which will allow you to do this, such as **MSI Afterburner** and **SpeedFan**.\]
 
@@ -245,7 +245,7 @@ If none of this helps, please send in a support ticket to accounts@ppy.sh with m
 
 ### I can't submit my score, osu! says my game version is too old!
 
-If osu! doesn't update automatically, you can force update by going into **Options** and selecting **Run Updater**. Alternatively, you can close osu! and restart the osu.exe **while holding shift**. This will provide you multiple recovery options.
+If osu! doesn't update automatically, you can force update by going into **Options** and selecting **Run Updater**. Alternatively, you can close osu! and restart the osu.exe **while holding `Shift`**. This will provide you multiple recovery options.
 
 ------------------------------------------------------------------------
 
@@ -298,9 +298,9 @@ Some computer configurations get affected by weird bugs which cause is unknown. 
 
 -   **Fixing osu! using recovery dialog**.
 
-1.  Hold down the **Shift** key on your keyboard.
-2.  While holding **Shift**, double click the osu! icon on your desktop.
-3.  Continue holding **Shift** until you see the **recovery dialog prompt**. From there, change your settings to the last known working configuration for you. If you don't remember what were your settings before, you can use the most optimal configuration below.
+1.  Hold down the `Shift` key on your keyboard.
+2.  While holding `Shift`, double click the osu! icon on your desktop.
+3.  Continue holding `Shift` until you see the **recovery dialog prompt**. From there, change your settings to the last known working configuration for you. If you don't remember what were your settings before, you can use the most optimal configuration below.
 
 -   **Optimal Configuration**:
 
@@ -370,7 +370,7 @@ On clicking this button, osu! will close and enter repair mode.
 
 -   **If you can't start osu!**
 
-You can force the updater to run by creating a new text document in your osu! folder called "help". Right-click in an empty space in your osu! folder, and choose **New &gt; Text Document**.
+You can force the updater to run by creating a new text document in your osu! folder called "help". Right-click in an empty space in your osu! folder, and choose **New > Text Document**.
 
 ![Updater Issues Part 4](UpdaterIssues1.png "Updater Issues Part 4")
 
@@ -416,7 +416,7 @@ Once a pack has been downloaded, extract the .rar into your osu! Songs directory
 
 ### I can hear osu! after launching it, but it's invisible!
 
-Hold **Shift** while starting osu!, and try changing around the settings. Most computers will solve this problem if you use DirectX, vsync and windowed mode, but this may vary from PC to PC.
+Hold `Shift` while starting osu!, and try changing around the settings. Most computers will solve this problem if you use DirectX, vsync and windowed mode, but this may vary from PC to PC.
 
 ------------------------------------------------------------------------
 
