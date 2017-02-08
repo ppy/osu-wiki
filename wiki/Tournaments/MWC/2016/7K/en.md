@@ -425,7 +425,7 @@ Ruleset
 
 5.  Mapset selectors may not participate as a player in this tournament.
 
-**[Visit this page to sign-up!](/wiki/Announcements/Tournaments/MWC/2016/7K)**
+**[Visit this page to sign-up!](/wiki/Tournaments/MWC/2016/7K)**
 
 ### Stage Instructions
 
