@@ -35,9 +35,14 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | Position | Member |
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](//new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](//new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](//new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](//new.ppy.sh/u/776257) |
-| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//new.ppy.sh/u/290128) |
+| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](//new.ppy.sh/u/398275) |
 | Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](//new.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](//new.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](//new.ppy.sh/u/6347) |
 | Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](//new.ppy.sh/u/1910766) |
+
+## Links
+
+- [Registration page](//new.ppy.sh/tournaments/9)
+- [Discussion thread](//new.ppy.sh/forum/t/555072)
 
 -----------------------
 
@@ -47,7 +52,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 
-2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://new.ppy.sh/forum/t/550582) for more information!
+2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](//new.ppy.sh/forum/t/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
