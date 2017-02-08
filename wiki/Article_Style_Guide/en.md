@@ -8,10 +8,12 @@ GFM can be learned in one day, but do not expect too much out of it as it intend
 ### Language support
 **_osu!web [as of 14/1/2017. Still WIP]_**  
 Link: <https://new.ppy.sh/wiki/>
+
 1. HTML tags not supported (any HTML tags and its contents will be removed from public view).
 2. Image display is literal display without proper encapsulation.
 
 **_Not supported (in GitHub view):_**
+
 1. HTML5 inline CSS (specifically, "style"/"class" attribute) standard,
 2. color (all types),
 3. underline (the `<u>` tag). Use **_Bold&Italic_** instead or _Italic_ depending on the paragraph styling used.
@@ -33,23 +35,18 @@ Link: <https://new.ppy.sh/wiki/>
   - This is to ease maintenance in the event of image/link problem (direct copy and paste, rather than hunting for that one link to be fixed).
 
 **_Keyboard keys:_**
-- Use grave marks (\`) and [camelCase](https://en.wikipedia.org/wiki/Camel_case) format.
+- Use grave marks (`` ` ``) and [camelCase](https://en.wikipedia.org/wiki/Camel_case) format.
   - Example 1: `;`
   - Example 2: `D`
   - Example 3: `Spacebar`
   - Example 4: `leftCtrl`
   - Example 5: `Shift`-`1`
 
-**_Page study of interest:_**
-- [FAQ](https://github.com/ppy/osu-wiki/tree/master/wiki/FAQ/en.md) {general structure, image structure style (same level)}
-- [Multiplayer](https://github.com/ppy/osu-wiki/tree/master/wiki/Multiplayer/en.md) {general structure, raw HTML table usage, image structure style (same level)}
-- [Skinning](https://github.com/ppy/osu-wiki/tree/master/wiki/Skinning/en.md) {Image structure style (img folder)}
-- [Accuracy](https://github.com/ppy/osu-wiki/tree/master/wiki/Accuracy/en.md) {Image structure style (same level)}
-- [osu!store](https://github.com/ppy/osu-wiki/tree/master/wiki/osu!store/en.md) {Extreme Markdown and HTML hybrid}
-
 ## General styling
-```Markdown
+
+### Markdown
 GitHub-flavoured Markdown (GFM)-specific:
+
 Headers     : Use '#' styling. Keep it less than 5 levels if possible.
 Bold        : **bold**    (double asterisks)
 Italics     : _italics_   (single underscore)
@@ -63,7 +60,7 @@ Image       : Add an exclamation mark, '!', in front.
               ![broken text](link "Alt text"), or   [broken text]: http://www.google.com "Omnipotent searchbar"
                                                     ...
                                                     ![broken text][my-reference]
-              Alternatively, clickable image (from @MegaApplePi).
+              Alternatively, clickable image.
               [![alt-text](link-to-thumb.png) "Click to view full size"](link-to-full.png)
 
               or
@@ -78,7 +75,6 @@ Ordered     : Use '1. /2. /3. ' styling.
 Code        : ```Multiline```, `Single`
 Escaping    : Use backslash, \
 ```
-
 ## Link
 ### General
 Assuming the fact that the file structure right now is _not a permanent file structure_ (subject to restructuring).
@@ -126,7 +122,7 @@ Add an exclamation mark, '!', in front.
                                       ...
                                       ![broken text][my-reference]
 
-Alternatively, clickable image (from @MegaApplePi):
+Alternatively, clickable image:
 [![alt-text](link-to-thumb.png) "Click to view full size"](link-to-full.png)
 
 or
