@@ -45,36 +45,24 @@ Link: <https://new.ppy.sh/wiki/>
 ## General styling
 
 ### Markdown
+
 GitHub-flavoured Markdown (GFM)-specific:
 
-Headers     : Use '#' styling. Keep it less than 5 levels if possible.
-Bold        : **bold**    (double asterisks)
-Italics     : _italics_   (single underscore)
-Strike      : ~~strike~~  (double tilde)
-Bold&Italic : **_BI_**
-Quote       : > rhythm is just a "click" away!
-Redirect    : [page text](link "Alt text"), or  [myreference]: http://www.google.com "Omnipotent searchbar"
-                                                ...
-                                                [page text][my-reference]
-Image       : Add an exclamation mark, '!', in front.
-              ![broken text](link "Alt text"), or   [broken text]: http://www.google.com "Omnipotent searchbar"
-                                                    ...
-                                                    ![broken text][my-reference]
-              Alternatively, clickable image.
-              [![alt-text](link-to-thumb.png) "Click to view full size"](link-to-full.png)
+| Item | Description |
+| :--------- | :---------- |
+| Headers     |  ``` ## Level 2 header ``` (keep to within 5 if possible) |
+| Bold | `` **bold** ``   (double asterisks) |
+| Italics | `` _italics_`` (single underscore) |
+| Strike | `` ~~strike~~ `` (double tilde) |
+| Bold & Italic | `` **_BI_** `` |
+| Quote       | `` > rhythm is just a "click" away! `` |
+| Redirect    | `` [page text](link "Alt text") `` |
+| Image       | `` ![image name](relative path to image) ``
+| Unordered list | ``` - item here ``` |
+| Ordered list | ``` 1. item here ``` |
+| Code | `` ```Multiline``` ``, `` `Single` `` |
+| Escaping | `` \ `` (backslash) |
 
-              or
-
-              [thumb1]: link-to-thumb.png "Click to view full size"
-              [full1]: link-to-full.png
-              ...
-              [![alt-text][thumb1]][full1]
-
-Unordered   : Use '-' styling.
-Ordered     : Use '1. /2. /3. ' styling.
-Code        : ```Multiline```, `Single`
-Escaping    : Use backslash, \
-```
 ## Link
 ### General
 Assuming the fact that the file structure right now is _not a permanent file structure_ (subject to restructuring).
