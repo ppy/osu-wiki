@@ -4,10 +4,10 @@ Hay tres tipos de precisión: precisión por [beatmap](/wiki/Beatmaps), la preci
 
 En resumen, la precisión por beatmap depende del [puntaje de las notas](/wiki/Score) conseguidos durante la partida, la precisión general depende de cada porcentaje de precisión en los mejores puntajes (ten en cuenta que el porcentaje general será calculado de manera de que los mejores puntajes tengan la mayor influencia), y la precisión por pp depende de la precisión de los puntajes publicados elegibles para la ganancia de pp.
 
-Estándar
+osu!
 ----------
 
-En [Estándar](/wiki/Game_Modes/osu!), el porcentaje de precisión es calculado midiendo el puntaje obtenido en cada nota y dividiéndolo por la máxima cantidad posible. En otras palabras:
+En el modo [osu!](/wiki/Game_Modes/osu!), el porcentaje de precisión es calculado midiendo el puntaje obtenido en cada nota y dividiéndolo por la máxima cantidad posible. En otras palabras:
 
 **Precisión = Puntaje total de notas / (Número total de notas * 300)**
 
@@ -17,10 +17,10 @@ En [Estándar](/wiki/Game_Modes/osu!), el porcentaje de precisión es calculado 
 
 Para referencia: 300 = 6/6, 100 = 2/6, 50 = 1/6, Fallo = 0/6.
 
-Taiko
+osu!taiko
 ------
 
-En el modo [Taiko](/wiki/Game_Modes/osu!taiko), la precisión es calculada con la suma de la precisión de todas las notas dividida entre el número de notas. Un EXCELENTE (良) cuenta como un 100%, BIEN (可) como un 50% y un FALLO/MAL(不可) como un 0%. Los drumrolls y spinners no afectan la precisión.
+En el modo [osu!taiko](/wiki/Game_Modes/osu!taiko), la precisión es calculada con la suma de la precisión de todas las notas dividida entre el número de notas. Un EXCELENTE (良) cuenta como un 100%, BIEN (可) como un 50% y un FALLO/MAL(不可) como un 0%. Los drumrolls y spinners no afectan la precisión.
 
 **Precisión = Puntaje total de notas / (Número total de notas * 300)**
 
@@ -28,10 +28,10 @@ En el modo [Taiko](/wiki/Game_Modes/osu!taiko), la precisión es calculada con l
 | ---------------------| ---------------------|
 | (Cantidad de fallos \* 0 + Cantidad de 100s(BIEN) \* 0.5 + Cantidad de Número de 300s(EXCELENTE) \* 1) \* 300 | (Cantidad de fallos + Cantidad de 100s + Cantidad de 300s) |
 
-Catch the Beat
+osu!catch
 ------------------
 
-En [Catch the Beat](/wiki/Game_Modes/osu!catch), la precisión es calculada con el numero de objetos atrapados dividido entre el numero total de objetos. Los objetos del spinner no cuentan.
+En el modo [osu!catch](/wiki/Game_Modes/osu!catch), la precisión es calculada con el numero de objetos atrapados dividido entre el numero total de objetos. Los objetos del spinner no cuentan.
 
 **Precisión = Número de frutas atrapadas / Número total de frutas**
 
@@ -41,10 +41,10 @@ En [Catch the Beat](/wiki/Game_Modes/osu!catch), la precisión es calculada con 
 
 Ten en cuenta que si usas la API para calcular la precisión, el número de droplets se encuentra bajo **count50** y el número de droplets perdidos bajo **countkatu**.
 
-Mania
+osu!mania
 ---------
 
-En este modo, la precisión es calculada de manera similar al modo [Estándar](/wiki/Game_Modes/osu!).
+En este modo, la precisión es calculada de manera similar al modo [osu!](/wiki/Game_Modes/osu!).
 
 **Precisión = Puntaje total de notas / (Número total de notas * 300)**
 
@@ -61,24 +61,24 @@ Pantalla de resultados
 
   Esto muestra tu calificación, la cantidad de aciertos y fallos, así como tu porcentaje de precisión. Para más detalles, ve a [Puntaje](/wiki/Score).
 
-![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
+![Panel de ranking del modo osu!](Accuracy_osu!_Small.jpg "Panel de ranking del modo osu!") ![Panel de ranking del modo osu!taiko](Accuracy_Taiko_Small.jpg "Panel de ranking del modo osu!taiko")
 
-[Larger osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
+[Versión ampliada del panel de ranking del modo osu!](Accuracy_osu!.jpg "Versión ampliada del panel de ranking del modo osu!")
 
-[Larger osu!Taiko Ranking Panel](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
+[Versión ampliada del panel de ranking del modo osu!taiko](Accuracy_Taiko.jpg "Versión ampliada del panel de ranking del modo osu!taiko")
 
-![osu!CtB Ranking Panel](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania Ranking Panel](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
+![Panel de ranking del modo osu!catch](Accuracy_CtB_Small.jpg "Panel de ranking del modo osu!catch") ![Panel de ranking del modo osu!mania](Accuracy_Mania_Small.jpg "Panel de ranking del modo osu!mania")
 
-[Larger osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
+[Versión ampliada del panel de ranking del modo osu!catch](Accuracy_CtB.jpg "Versión ampliada del panel de ranking del modo osu!catch")
 
-[Larger osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
+[Versión ampliada del panel de ranking del modo osu!mania](Accuracy_Mania.jpg "Versión ampliada del panel de ranking del modo osu!mania")
 
 
 ### Gráfico de rendimiento
 
   Esto muestra un gráfico de tu rendimiento en la partida. Más información es mostrada cuando mueves el cursor sobre el gráfico:
 
-![Performance Graph](Accuracy_TR.jpg "Performance Graph")
+![Gráfico de rendimiento](Accuracy_TR.jpg "Gráfico de rendimiento")
 
 #### Precisión
 
@@ -89,7 +89,7 @@ Pantalla de resultados
 
 #### Giro
 
-Sólo para osu!Estándar.
+Sólo en el modo osu!.
 
 | Término | Significado |
 | ---- | ------- |
@@ -99,5 +99,4 @@ Sólo para osu!Estándar.
 **Notas**
 
 -   Los cuatro valores mostrados hace un momento desaparecerán al cerrar osu!. Sólo puedes verlos otra vez viendo una repetición.
-
 -   Debido a la forma en la que los mods Doble tiempo y Medio Tiempo funcionan, el valor de error y la tasa de inestabilidad  serán multiplicados por el mismo factor que la canción. Para conseguir los verdaderos resultados al jugar Doble Tiempo, divide los mismos entre 1.5. Asimismo, multiplica los resultados por 1.33 al jugar con Medio Tiempo.
