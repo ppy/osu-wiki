@@ -39,7 +39,7 @@ En el modo [osu!catch](/wiki/Game_Modes/osu!catch), la precisión es calculada c
 | ------------------------------| ---------------------- | --------- |
 | (Número de droplets + Número de 100s + Número de 300s) | (Número de fallos + Número de droplets + Número de 100s + Número de 300s + Número de droplets perdidos) | Las "Bananas" (frutas del spinner) no cuentan. |
 
-Ten en cuenta que si usas la API para calcular la precisión, el número de droplets se encuentra bajo **count50** y el número de droplets perdidos bajo **countkatu**.
+Ten en cuenta que si usas la API para calcular la precisión, el número de droplets se encuentra bajo ``count50`` y el número de droplets perdidos bajo ``countkatu``.
 
 osu!mania
 ---------
