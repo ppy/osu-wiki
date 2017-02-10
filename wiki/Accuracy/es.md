@@ -1,4 +1,4 @@
-recisiónPrecisión
+Precisión
 ==========
 Hay tres tipos de precisión: precisión por [beatmap](/wiki/Beatmaps), la precisión general y la precisión por [pp](/wiki/Performance_Points).
 
