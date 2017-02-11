@@ -3,8 +3,6 @@
 
 Index page of all the "Best Of" series.
 
-<!-- FIX ALL THESE TABLES FIRST -->
-
 ### osu!standard
 
 #### 2009 osu!standard
