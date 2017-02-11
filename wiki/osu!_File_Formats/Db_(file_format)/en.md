@@ -30,7 +30,7 @@ To ease the description of the format of each .db file, the following names for 
 osu!.db
 -------
 
-**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting it will cause osu! to rebuild the cache from scratch, which may fix certain discrepancies, such as beatmaps that been removed from the Songs folder still showing up ingame. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
+**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up ingame. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
 
 ### Format
 
@@ -39,7 +39,7 @@ Some data types specific to osu!.db are defined below.
 | Name | Number of bytes | Description |
 | ---- | --------------- | ----------- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See Osu (file format) for more information regarding timing points. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)][Osu Link] for more information regarding timing points. |
 
 ### osu!.db format
 
@@ -117,7 +117,7 @@ Some data types specific to osu!.db are defined below.
 collection.db
 -------------
 
-**collection.db** contains user beatmap collection data. It can be transferred from one osu! installation to another; however, it will not work without also having all the collected beatmaps installed as well.
+**collection.db** contains the user's beatmap collection data. This file can be transferred from one osu! installation to another. However, this will not work if the PC does not have all of the collected beatmaps installed.
 
 ### collection.db format
 
@@ -181,3 +181,4 @@ This database contains the scores achieved locally.
 
 Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)][Osr Link]. This explains the empty string and -1 int.
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
