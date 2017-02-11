@@ -9,7 +9,6 @@ All articles must have proper grammar, correct spelling, and correct information
 Try your best to do fit all of those in your pull request.
 Reviewers will take a look for these before sending it off to the live osu!wiki.
 
-
 ## GFM
 
 GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
@@ -20,11 +19,20 @@ However, don't expect a lot out of Markdown as it is intended to be used as a ba
 
 ### Syntax
 
-If you need help with GFM syntax, see [markdown syntax - GitHub Guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## File names
+
+All articles in the osu-wiki repo uses the two letter language codes.
+These 2 lettered language codes must be lowercased, ending with the `.md` extension.
+
+Translated articles are to be placed in the appropriate English-named folder.
+
+For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
 
 ## Headings
 
-All articles **must have one level one heading** with the content being the article's title.
+All articles **must have a level one heading** of a translated article's title.
 
 The remaining section headings must be level 2 onwards.
 
@@ -38,24 +46,36 @@ Please limit to a heading level of 5.
 
 ## Article Titles
 
-The title of an article is the name of the folder that the article.
+Titles are to be in title case.
+The title of an article is the name of the folder that the article is located in.
 Replace the underscores (`_`) with spaces (` `).
 For English titles, if you need to reword the title, you must rename the folder, with rare expections.
-Translated articles of an article will be located inside the appropriate English-named folder.
 
 ## TOC
 
-TOC (Table of Contents) are automatically generated on the osu!wiki.
-Because of this, there is no need to include one yourself.
+The TOC (Table of Contents) are automatically generated on the osu!wiki.
+Because of this, there is no need to include add one.
 
-## Code Blocks
+## Letter Casing
 
-Use code blocks when noting:
+`osu!` is to be spelt with a lowercase `O` followed by an exclaimation mark (`!`).
+Game modes of osu! are spelt as follows:
+
+- `osu!` or `osu!standard` (to prevent ambiguity)
+- `osu!taiko`
+- `osu!catch`
+- `osu!mania`
+
+When referring to a language, capitalize the first letter of that language.
+
+## Code
+
+Use code (inline) when noting:
 
 1. a key on the keyboard
-   - i.e. `B`, `Alt` or `Control` + `Shift` + `A`
+   - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
 2. a name of a button
-   - i.e. `Let's do it.` or `Noooo! I didn't mean to!`
+   - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
 3. a name of a folder
    - i.e. `Exports` or `Downloads`
 4. a name of a directory
@@ -65,7 +85,7 @@ Use code blocks when noting:
 6. the name of a file extension
    - i.e. `.jpg` or `.osz`
 
-When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+When noting a keyboard key, use capital letters for single characters and [Camel case](en.wikipedia.org/wiki/Camel_case) for modifers.
 
 When naming a file extension, add a period (`.`) then the file extension in lower cased letters.
 
@@ -84,7 +104,7 @@ Article links must follow these rules:
 
 External links must follow these rules:
 
-- prefer the `https` protocol, if available
+- do not include the `http://` or `https://` protocol
 - if referencing, must link to a reputable source
 - must be a clean and direct link
   - do not use a third-party shortened link
@@ -95,8 +115,8 @@ External links must follow these rules:
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
-When linking to the osu!website, i.e. user profiles or beatmaps, use `https://osu.ppy.sh` not `https://new.ppy.sh`.
-`https://new.ppy.sh` is just a temporary subdomain for the new design.
+When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
+`new.ppy.sh` is just a temporary subdomain for the new design.
 
 ## Images
 
@@ -162,7 +182,7 @@ GFM is Markdown which is basically a subset of HTML that contains these styles:
 - **bold**
 - _italics_
 - ~~strikethrough~~
-- `code blocks`
+- `code` (inline and block)
 - order lists
 - bulleted lists
 - simple tables
@@ -172,5 +192,5 @@ This is to keep consistency between pages.
 
 ### Help!!!
 
-For further help, you can ask someone in the [osu!dev Discord chat](https://discord.gg/ppy) (`#osu-wiki` tab).
+For further help, you can ask someone in the [osu!dev Discord chat](discord.gg/ppy) (`#osu-wiki` tab).
 You _could_ also use GitHub issues in the osu-wiki repo to get help; however, your response time will vary.
