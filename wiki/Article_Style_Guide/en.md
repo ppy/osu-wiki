@@ -31,7 +31,8 @@ For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https
 
 ## Headings
 
-All articles **must have a level one heading** of a translated article's title.
+All articles **must have a level 1 heading** of a translated article's title.
+This level 1 heading is to be placed at the start of the article.
 
 The remaining section headings must be level 2 onwards (but limit to level 5 please).
 
@@ -41,19 +42,19 @@ This will help make the headings stand out a bit more when editing.
 There are two styles of heading levels 1 and 2 that Markdown supplies you:
 
 ```md
-heading 1
-=========
+heading level 1
+===============
 
-heading 2
----------
+heading level 2
+---------------
 ```
 
 or
 
 ```md
-# heading 1
+# heading level 1
 
-## heading 2
+## heading level 2
 ```
 
 You can choose either the underline style or hashtag style of level 1 and level 2 headings.
@@ -63,7 +64,6 @@ Note that heading levels 3 and onwards use the hashtag style.
 
 Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
-Replace the underscores (`_`) with spaces (` `).
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
 ## TOC
@@ -73,7 +73,7 @@ Because of this, there is no need to include add one.
 
 ## Grammar
 
-In the case where the American English and the British English spellings conflict, use the Brisish Engish spelling.
+In the case where the American English and the British English spellings conflict, use the British Engish spelling.
 
 For example use:
 - `colour` instead of `color`
@@ -85,7 +85,7 @@ For example use:
 
 The name of the game `osu!` is **never** capitalised.
 Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
-If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. osu! Tournaments).
+If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
 If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercased letters (like the game modes).
 
@@ -93,7 +93,9 @@ If you have `osu!` then a word immediately following it, make sure that the word
 - `osu!alumni`
 - `osu!direct`
 
-When referring to a language, capitalize the first letter of that language.
+When referring the name of a language, capitalize the first letter of that language.
+
+- The **Maltese** chat channel are for those who speak **Maltese**.
 
 #### Abbreviations
 
@@ -133,18 +135,18 @@ When listing items of 3 or more in a sentence, use the serial comma.
 
 Use code (inline) when noting:
 
-1. a key on the keyboard
-   - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
-2. a name of a button
-   - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
-3. a name of a folder
-   - i.e. `Exports` or `Downloads`
-4. a name of a directory
-   - i.e. `/Songs/` or `/Skins/User/`
-5. a name of a keyword
-   - i.e. `ComboBurstStyle` or `[Events]`
-6. the name of a file extension
-   - i.e. `.jpg` or `.osz`
+- a key on the keyboard
+  - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
+- a name of a button
+  - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
+- a name of a folder
+  - i.e. `Exports` or `Downloads`
+- a name of a directory
+  - i.e. `/Songs/` or `/Skins/User/`
+- a name of a keyword
+  - i.e. `ComboBurstStyle` or `[Events]`
+- the name of a file extension
+  - i.e. `.jpg` or `.osz`
 
 When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 
@@ -165,8 +167,8 @@ Article links must follow these rules:
 
 External links must follow these rules:
 
-- do not include the `http://` or `https://` protocol
-- if referencing, must link to a reputable source
+- prefer the `https://` protocol
+- if referencing another site, must link to a reputable source
 - must be a clean and direct link
   - do not use a third-party shortened link
   - do not use links that link to ads
@@ -174,7 +176,7 @@ External links must follow these rules:
 - the link name must be the title text of the page it is linking to
 
 Do use use the word `here` as the link text.
-As it may seem convenient to use, it could mislead what the reader.
+As it may seem convenient to use, it could be misleading.
 Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
 You can use either the reference or inline style links.
