@@ -277,11 +277,11 @@ Some factors that can affect a version's difficulty are the number of object in 
 Difficulty stars are one way to gauge a version's difficulty level.
 The osu!website sorts difficulty versions into 5 categories:
 
-- Easy,
-- Normal,
-- Hard,
-- Insane, and
-- Expert
+- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!standard/Easy/)
+- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!standard/Normal/)
+- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!standard/Hard/)
+- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!standard/Insane/)
+- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!standard/Expert/)
 
 ### Drain time
 
@@ -312,8 +312,10 @@ This term is usually seen during the modding process.
 ### DS games
 
 DS games is a collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
+
 A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
-osu! is mostly based on these games.
+
+The osu!standard game mode was is mostly based off of those games.
 
 ## E
 
@@ -337,9 +339,13 @@ For more information about the Extended Chat Console, see [Chat Console](/wiki/C
 
 Fail has three meanings:
 
-- the incompletion of a beatmap due to low health
+- the incompletion of a beatmap due
+  - not filling the healthbar up to 80% when completing a beatmap (osu!taiko)
+  - empty healthbar (osu!standard, osu!catch, and osu!mania)
 - in multiplayer, an indicator underneath the player's name to show they have failed the beatmap
 - the player having less than 50% health during a break; where an indicator will display if you failed the section
+  - a fail indicator will be shown
+  - a failed storyboard animation will be played instead (if available).
 
 ### FC
 
@@ -357,8 +363,7 @@ Because of the combo multiplier effect, full combos will give the most score in 
 
 ### Geki
 
-Geki, or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
-Many geki will happen during the course of a successful play.
+Geki(激), or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
 
 ### Guest difficulty
 
@@ -374,8 +379,8 @@ There are many reasons for guest difficulties to exist:
 
 On the other hand, it may be the creator who wants a few guest difficulties:
 
-- this (usually) is to give the mapset a "community effort" feel
-- or simply because they don't want to create such difficulties by themselves
+- to give the mapset a "community effort" feel
+- simply because they don't want to create such difficulties by themselves
 
 Guest difficulties are often requested by private messages in-game or via forum private messages.
 Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
@@ -386,14 +391,13 @@ Each guest beatmapper is also allowed to create more than one difficulty to cont
 
 ### Grade
 
-A grade, usually confused with rank is a term created to prevent confusion with other terms sharing that name.
-A grade is a letter-grade that repersents the player's performance when playing a beatmap.
+A grade, usually confused with "rank", is a letter-grade that repersents the player's performance when playing a beatmap.
 It accompanies the total score at the result screen and appears in all lists where scores appear.
+
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
 
-In order to achieve an S, one should not miss when playing the beatmap and have at most a ratio of 1:10 of 100s to 300s.
-In order to achieve an SS, one must only score 300s.
-There are also the Silver S and Silver SS grades, which are, respectively, an S and SS grade achieved when playing with the Hidden and/or Flashlight mod enabled
+<!-- TODO where do I go??!?!!?!?! -->
+For a complete explanation, see <!--[](...FAQ?)-->.
 
 ### Grid snapping
 
@@ -467,9 +471,9 @@ If a jump is too wide, a hyperdash may be used to prevent impossible jumps, thus
 
 ### Katu
 
-Katu, or beat, is when you complete a particular combo without achieving the highest level of accuracy throughout that set.
+Katu(喝), or _Beat!_, is when you complete a particular combo without achieving the highest level of accuracy throughout that set.
 
-This is different than a Geki because the comboset wasn't done perfectly with 300s.
+This is different than a Geki(激) because the comboset wasn't done perfectly with 300s.
 
 ### Keys
 
@@ -522,22 +526,34 @@ This only happens if the beatmapper has placed objects right at or very close at
 
 ### Life bar
 
-The life bar, also known as the health bar, HP bar, spirit bar, or ki bar, is a bar at the top left of the playing screen for osu!standard, osu!catch, and osu!taiko.
-For osu!mania, the life bar is rotated 90 degrees counter-clock-wise and is placed next to the bottom-right of the stage.
+The life bar, also known as the _health bar_, _v_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for osu!standard, osu!catch, and osu!taiko.
+For osu!mania, the life bar is rotated 90 degrees counter-clockwise and is placed next to the bottom-right of the stage.
 
 In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life.
 If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
 
 The bar drains at a constant rate throughout the course of a beatmap, except during a break.
-A sizeable part of the bar is also depleted in case of a miss.
-The bar is replenished by the player tapping hit circles, following sliders and slider ticks, and spinning spinners.
+For osu!taiko and osu!mania, health drain was disabled.
+
+For osu!standard, the bar is replenished by the player tapping hit circles, following sliders and slider ticks, and spinning spinners.
 The more accurate the tapping, the bigger the boost.
 The player also receives larger boosts if he achieves a katu or an geki at the end of a combo.
+
+For osu!catch, this can be done by catching fruit and drops.
+
+A sizeable part of the bar is also depleted in case of a miss.
 
 ### Local song offset
 
 The local song offset is an offset set for individual beatmaps, not the entire beatmapset itself.
 This is to offset the beatmap's offset alongside the global offset.
+
+You can change your local song offset by pressing:
+
+- `+` to increase the offset by 5 milliseconds
+- `-` to decrease the offset by 5 milliseconds
+- `Alt` + `+` to increase the offset by 1 milliseconds
+- `Alt` + `-` to decrease the offset by 1 milliseconds
 
 ## M
 
