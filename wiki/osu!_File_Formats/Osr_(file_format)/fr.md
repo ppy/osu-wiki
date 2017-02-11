@@ -1,4 +1,4 @@
-Osr (extension)
+.osr (extension)
 =================
 
 L'extension **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay.

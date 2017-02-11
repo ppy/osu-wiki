@@ -1,4 +1,4 @@
-Db (extension)
+.db (extension)
 ===============
 
 L'extension **.db** est utilisé en tant que fichier binaire par osu! pour y enregistrer des informations variée, comme les paramètres d'une beatmap, les données d'un replay ou même les collections de beatmaps.

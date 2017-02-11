@@ -1,4 +1,4 @@
-Osu (file format)
+.osu (file format)
 =================
 
 **.osu** is a human-readable file format containing information about a single beatmap.

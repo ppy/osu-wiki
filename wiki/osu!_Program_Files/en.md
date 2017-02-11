@@ -10,13 +10,13 @@ Location
 
 | Current default filepath | Old installer filepath |
 | ------------------------ | ---------------------- |
-| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (for 7 64-bit or 8) |
-> "C:" is your harddisk with osu! installed.
+| `C:\Users\<Username>\AppData\Local\osu!` | 	`C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
+> `C:` is your harddisk with osu! installed.
 
 Folders
 ------------------------------------------
 
-### \_MACOSX
+### \_MacOS
 
 **osu! for Macintosh OS.** For Windows OS users, just ignore it or delete it if you wish.
 
@@ -26,23 +26,25 @@ Only appears when you used "/savelog" at Chat Console once or if you enabled "Au
 
 The styling is `{Tab_name}-{YYYYMMDD}-{HHMMSS}` in .txt format, which basically can be opened in any word application of choice(Notepad).
 
-**Example:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
+**Example:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs)).
 
 ### Downloads
 
-Appears when you had used the "osu!direct" download service. **Holds the .osz files which you are currently downloading from osu!direct**, later to be transferred into osu!'s Songs folder as legitimate beatmaps upon completion.
+This folder appears when you use the "osu!direct" download service (requires [osu!supporter](/wiki/osu!supporter)). **This holds the .osz files which you are currently downloading from osu!direct**. It will then be transferred into osu!'s Songs folder as legitimate beatmaps upon completion.
 
 ### Exports
 
-Appears if you used the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). **Holds .osz (beatmap)/.osk (skin) file you had exported from osu!.** [For how-to, click me](/wiki/osu!_File_Formats).
+This folder appears if you used the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). **It will hold the .osz (beatmap)/.osk (skin) files you had exported from osu!.**
+
+If you want to know how to do this, see [osu! File Formats](/wiki/osu!_File_Formats).
 
 ### Localisation
 
-Appears when you had switched your Language under Graphics at Options page. **Holds translated text files which can be used each to replace the usual English text based on selected localisation.**
+This folder appears when you had switched your Language under Graphics in the Options. **It will hold the translated text files which can be used each to replace the usual English text based on the user's selected localisation.**
 
 ### Replays
 
-Holds **external executable osu! replay file (.osr)**. Does not work when the beatmap linked to the replay file is missing. Holds Results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). Does not save multi-play elements. File size ranging around 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
+This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
 
 The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
 

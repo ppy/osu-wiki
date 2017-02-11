@@ -1,4 +1,4 @@
-Db (file format)
+.db (file format)
 ==================
 
 **.db** files are binary files used by osu! to store various information, including a cache of beatmap properties, present users, cached replay data, and user beatmap collections.

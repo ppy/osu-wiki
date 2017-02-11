@@ -1,4 +1,4 @@
-Osk (extension)
+.osk (extension)
 ===================
 
 L'extension **.osk** est une archive contenant un [skin osu!](/wiki/Skinning). Tout comme le fichier [.osz][Osz Link], le fichier .osk est un fichier compressé .zip.

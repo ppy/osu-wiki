@@ -1,4 +1,4 @@
-Osr (file format)
+.osr (file format)
 ==================
 
 **.osr** is a file format containing information about an osu! replay. To use it, the beatmap specified by the file is required in "Songs" folder.

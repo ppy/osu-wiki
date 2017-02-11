@@ -1,4 +1,4 @@
-Osu (extension)
+.osu (extension)
 ==================
 
 L'extension **.osu** est un format de fichier lisible contenant les informations d'une unique beatmap. La plupart des paramètres contenus dans les fichiers **.osu** pouvant être modifiés depuis [l'éditeur](/wiki/Beatmap_Editor), il est recommandé de ne pas y toucher sauf si vous savez ce que vous faites. Il est fortement déconseillé de modifier ce que vous ne pouvez pas modifier depuis l'éditeur.
