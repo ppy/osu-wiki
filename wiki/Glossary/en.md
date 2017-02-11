@@ -17,7 +17,7 @@ When a thread is "wastelanded", it is moved there.
 
 AFK is an internet acronym that means "Away From Keyboard".
 An example of this is when an active user walks off to do something else while they're still logged on.
-osu! will mark users as "Idle" if they have been inactive for sometime.
+osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach circle
 
@@ -162,7 +162,7 @@ Collab (or collaboration) has two meanings:
    - this is to ensure that the creator has done enough to upload the map under their username
 2. the mapset containing guest difficulties
 
-Collab may sometimes be used in difficulty version names.
+Collab may some times be used in difficulty version names.
 
 ### Combo
 
@@ -606,7 +606,7 @@ osu! has three meanings:
 
 - The rhythm video game for the Microsoft Windows Operating Systems.
   Spelled with a lowercase "o" and an exclamation mark at the end.
-- The game mode (sometimes refered to as _osu!standard_ to prevent ambiguity).
+- The game mode (some times refered to as _osu!standard_ to prevent ambiguity).
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
@@ -655,7 +655,7 @@ Ouendan has three meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team on using drums, horns, banners and yells of encouragement.
 - The pair of Japanese DS games that osu! was based on.
-  This term may sometimes be used to refer specifically to the first of these games.
+  This term may some times be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, i.e. "The Ouendan".
 
 ### Overmap
@@ -903,7 +903,7 @@ Steams does not require the hitobjects to be in the same comboset.
 ### SV
 
 SV, meaning slider velocity, is the speed in which the slider moves at in relation to the BPM.
-This term may sometimes be used during the modding process.
+This term may some times be used during the modding process.
 
 ## T
 
