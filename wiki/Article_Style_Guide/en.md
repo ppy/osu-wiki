@@ -34,39 +34,101 @@ For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](en.wi
 
 All articles **must have a level one heading** of a translated article's title.
 
-The remaining section headings must be level 2 onwards.
+The remaining section headings must be level 2 onwards (but limit to level 5 please).
 
-Optionally, but preferably, add an extra line before and after the heading (level 2 and down).
+Optionally, but preferably, add an extra line before and after the headings.
 This will help make the headings stand out a bit more when editing.
 
-You can choose either the underline style or hashtag style of level 1 and level 2 headings.
-Note that level 3 and onwards uses the hashtag style.
+There are two styles of heading levels 1 and 2 that Markdown supplies you:
 
-Please limit to a heading level of 5.
+```md
+heading 1
+=========
+
+heading 2
+---------
+```
+
+or
+
+```md
+# heading 1
+
+## heading 2
+```
+
+You can choose either the underline style or hashtag style of level 1 and level 2 headings.
+Note that heading levels 3 and onwards use the hashtag style.
 
 ## Article Titles
 
 Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
 Replace the underscores (`_`) with spaces (` `).
-For English titles, if you need to reword the title, you must rename the folder, with rare expections.
+For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
 ## TOC
 
 The TOC (Table of Contents) are automatically generated on the osu!wiki.
 Because of this, there is no need to include add one.
 
-## Letter Casing
+## Grammar
 
-`osu!` is to be spelt with a lowercase `O` followed by an exclaimation mark (`!`).
-Game modes of osu! are spelt as follows:
+In the case where the American English and the British English spellings conflict, use the Brisish Engish spelling.
+
+For example use:
+- `colour` instead of `color`
+- `centre` instead of `center`
+- `skilful` instead of `skillful`
+- `analyse` instead of `analyze`
+
+### Capitalisation
+
+The name of the game `osu!` is **never** capitalised.
+Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
+If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. osu! Tournaments).
+
+If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercased letters (like the game modes).
+
+- `osu!wiki`
+- `osu!alumni`
+- `osu!direct`
+
+When referring to a language, capitalize the first letter of that language.
+
+#### Abbreviations
+
+Abbreviations of osu! terms must be capitalised (i.e. `CS` for `Circle Size`).
+
+#### Game Modes
+
+The name of game modes should always be capitalised unless if it is following the exclamation mark without a blank space of the name `osu!`.
 
 - `osu!` or `osu!standard` (to prevent ambiguity)
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
 
-When referring to a language, capitalize the first letter of that language.
+#### Game Modifiers
+
+Game modifiers must be capitalised.
+
+- `Hard Rock`
+- `Nightcore`
+- `Double Time`
+- `Easy`
+
+#### Gameplay Elements
+
+Gameplay elements should **never** be be capitalised.
+
+- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
+
+#### Serial comma
+
+When listing items of 3 or more in a sentence, use the serial comma.
+
+- The game modes of osu!: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
 
 ## Code
 
@@ -112,6 +174,10 @@ External links must follow these rules:
   - do not use a url with long url queries, parameters, or fragments
 - the link name must be the title text of the page it is linking to
 
+Do use use the word `here` as the link text.
+As it may seem convenient to use, it could mislead what the reader.
+Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
+
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
@@ -120,15 +186,22 @@ When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh
 
 ## Images
 
-**All image file extensions MUST use lower cased letters!!** Otherwise they will fail to load.
+**All image file extensions _MUST_ use lower cased letters!!**
+Otherwise they will fail to load!
 
-The osu!wiki will give every image a max-width that being the width of the article body.
+The osu!wiki will give every image a max-width, being the width of the article body.
+
+Names of images must be somewhat meaningful, please don't use the timestamp or long hashes for media file names.
 
 Images that are used in multiple different articles must go to the `/wiki/shared` folder.
 Images that are used for one article are to be placed inside their folders for linking.
 
-It is suggusted to add a subfolder for the images to go in, i.e. `/img/` for all images.
+It is suggusted to add a subfolder for the images, i.e. `/img/` for all images.
 If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; i.e. `/pr/` for preview and `/fs/` for full size.
+
+Thumnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
+
+All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
 
 ### Clickable images
 
@@ -149,6 +222,8 @@ Tables use the GFM syntax.
 
 If you cannot create a table because _something_ won't work without HTML (i.e. lists inside tables), then you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simplier fix for it.
+
+**Never** place images inside tables.
 
 ## FAQ
 
@@ -177,7 +252,7 @@ Images are handled manually as well.
 No.
 
 The osu!wiki uses GFM.
-GFM is Markdown which is basically a subset of HTML that contains these styles:
+GFM is Markdown which is basically a subset of HTML that contains:
 
 - **bold**
 - _italics_
@@ -186,11 +261,12 @@ GFM is Markdown which is basically a subset of HTML that contains these styles:
 - order lists
 - bulleted lists
 - simple tables
+- images
 
 As it _does_ support a few HTML tags, osu!wiki articles will not be using them.
 This is to keep consistency between pages.
 
 ### Help!!!
 
-For further help, you can ask someone in the [osu!dev Discord chat](discord.gg/ppy) (`#osu-wiki` tab).
+For further help, you can ask someone in the [osu!dev Discord chat](discord.gg/ppy) (`#osu-wiki` chat).
 You _could_ also use GitHub issues in the osu-wiki repo to get help; however, your response time will vary.
