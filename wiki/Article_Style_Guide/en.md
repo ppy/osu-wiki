@@ -3,11 +3,10 @@
 This guide is to serve as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All articles should use plain English.
-Your word choice should explain such things in layman's terms (basically, ask yourself, "If the reader is reading this, would they have to lookup any of the words?")
+Your word choice should explain such things in layman's terms (basically, ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
 All articles must have proper grammar, correct spelling, and correct information.
-Try your best to do fit all of those in your pull request.
-Reviewers will take a look for these before sending it off to the live osu!wiki.
+Try your best to do all of those in your pull request and know that reviewers will look for these things before sending it off to the live osu!wiki.
 
 ## GFM
 
@@ -19,7 +18,7 @@ However, don't expect a lot out of Markdown as it is intended to be used as a ba
 
 ### Syntax
 
-If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## File names
 
@@ -28,7 +27,7 @@ These 2 lettered language codes must be lowercased, ending with the `.md` extens
 
 Translated articles are to be placed in the appropriate English-named folder.
 
-For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
+For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
 
 ## Headings
 
@@ -147,7 +146,7 @@ Use code (inline) when noting:
 6. the name of a file extension
    - i.e. `.jpg` or `.osz`
 
-When noting a keyboard key, use capital letters for single characters and [Camel case](en.wikipedia.org/wiki/Camel_case) for modifers.
+When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 
 When naming a file extension, add a period (`.`) then the file extension in lower cased letters.
 
@@ -268,5 +267,5 @@ This is to keep consistency between pages.
 
 ### Help!!!
 
-For further help, you can ask someone in the [osu!dev Discord chat](discord.gg/ppy) (`#osu-wiki` chat).
+For further help, you can ask someone in the [osu!dev Discord chat](https://discord.gg/ppy) (`#osu-wiki` chat).
 You _could_ also use GitHub issues in the osu-wiki repo to get help; however, your response time will vary.
