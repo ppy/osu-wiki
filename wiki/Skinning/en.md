@@ -177,7 +177,7 @@ If your **beatmap** uses a skin and has any of the elements included in here, al
 The **individual sets** can be found on these pages **divided into each gamemode** and the user interface shared by most gamemodes:
 
 - [Interface Sets](./Interface/)
-- [osu!standard Sets](./osu!standard/)
+- [osu!standard Sets](./osu!/)
 - [osu!taiko Sets](./osu!taiko/)
 - [osu!catch Sets](./osu!catch/)
 - [osu!mania Sets](./osu!mania/)
