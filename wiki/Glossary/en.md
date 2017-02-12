@@ -149,9 +149,9 @@ To see the changelog, see [Recent Releases](https://osu.ppy.sh/p/changelog).
 
 ### Choke
 
-A choke occurs when the player almosts obtains a full combo while playing a beatmap, but loses it near the end.
+A choke occurs when the player almosts obtains a full combo while playing a beatmap, but combobreaks near the end.
 
-On the contrary, a reverse choke is when the player loses their combo at the beginning but obtains a full combo for the rest of the beatmap.
+On the contrary, a reverse choke is when the player combobreaks at the beginning but obtains a full combo for the rest of the beatmap.
 
 ### Collab
 
@@ -221,7 +221,7 @@ This feature was later disabled on March 5, 2013 due to performance concerns.
 
 ### Combo milestone
 
-A combo milestone is the set of numbers that will shoot stars and display the comboburst after obtaining one of these milestones.
+A combo milestone is a set of numbers that will shoot stars and display the comboburst after obtaining one of these milestones.
 
 The combo milestones for osu!standard and osu!catch are 30, 60, 100, and multiples of 50 after 100.
 For osu!taiko, the combo milestones are multiples of 50.
@@ -559,7 +559,7 @@ You can change your local song offset by pressing:
 
 ### M4M
 
-M4M, or Mod for Mod, is a term describing when a modder agrees to mod another modder's map in return for a mod on their own map.
+M4M, or _Mod for Mod_, is a term describing when a modder agrees to mod another modder's map in return for a mod on their own map.
 
 ### Marathon
 
@@ -576,7 +576,7 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 
 **As of the April 23, 2013, all members of the MAT at that time were promoted as full members of the BAT, with the MAT team decommissioned.**
 
-The MAT, meaning Modding Assistance Team, was a group of users experienced in modding.
+The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding.
 MAT members can mark beatmap they approve of with a bubble, noting them as worthy of further consideration by the BAT.
 
 ### Modder
@@ -622,7 +622,7 @@ osu! has three meanings:
 
 - The rhythm video game for the Microsoft Windows Operating Systems.
   Spelled with a lowercase "o" and an exclamation mark at the end.
-- The game mode (some times refered to as _osu!standard_ to prevent ambiguity).
+- The game mode (unofficially called _osu!standard_ to prevent ambiguity).
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
@@ -658,6 +658,12 @@ If the player runs out of osu!coins, they may purchase more—out of their own w
 
 The following day, peppy rolled back the implementation of osu!coins due to popular demand, and ended with [this remark](https://disq.us/p/w2ydos).
 
+### osu!dev
+
+The osu!dev team is a group of people, including peppy, that 
+
+For details about the osu!dev, see [The Team](/wiki/People/The_Team/).
+
 ### osupixel
 
 An osupixel is the representation of one screen pixel when osu! is running in 640x480 resolution.
@@ -674,7 +680,7 @@ Ouendan has three meanings:
   This term may some times be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, i.e. "The Ouendan".
 
-### Overmap
+### Overmapping
 
 Overmapping is when the beats or placement of beats is placed in a way that makes the difficulty of the map contrast the actual song.
 This can be done by adding unnecessary jumps, slider speed-ups, or by mapping to an unknown beat in the music consistently (ie. adding notes on blue ticks when the song is only using red ticks), in order to add difficulty.
@@ -720,7 +726,9 @@ For more information about puush, see [puush / home](https://puush.me/).
 
 ### QAT
 
-QAT, meaning Quality Assurance Team, members are the ones responsible for ensuring that beatmaps will remain playable and enjoyable.
+QAT, meaning _Quality Assurance Team_, members are the ones responsible for ensuring that beatmaps will remain playable and enjoyable.
+
+To view the list of current QAT memebers, see [QAT](wiki/People/Quality_Assurance_Team).
 
 ## R
 
@@ -728,14 +736,14 @@ QAT, meaning Quality Assurance Team, members are the ones responsible for ensuri
 
 Rank has three meanings:
 
-1. another word for a grade
+1. another word for a letter grade
 2. a player’s standing in the online leaderboard (a.k.a. player ranking)
 3. the verb "to rank", which is when someone second another moderator’s nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player’s ranking.
    Getting their beatmaps ranked is a goal of every beatmapper.
 
 ### Ranking
 
-Ranking, alternatively called "leaderboard", is a list that sorts members of the osu!community according to certain criteria.
+Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria.
 This can also refer to one's position in such a list.
 
 osu! currently has three rankings:
@@ -765,10 +773,17 @@ Usage is suggested when there has been a change in offset and/or BPM, after obje
 This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows.
 If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the timeline manually, where necessary.
 
+### Restricted Mode
+
+Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/wiki/Legal/TOS/).
+Submitted scores of gameplay are not allowed publically displayed.
+
+For more info, see [What is "restricted" mode, exactly?](http://osu.enchanthq.com/article/6/what-is-restricted-mode-exactly).
+
 ### RSI
 
-RSI, meaning Repetitive Strain Injury, is a type of injury that affects the musculoskeletal and nervous system of the body.
-It can be caused by repetitive tasks in awkward positions which may include playing osu! for an extended amount of time.
+RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body.
+This can be caused by doing repetitive tasks in an awkward position which may include playing osu! for an extended amount of time.
 
 ## S
 
@@ -810,10 +825,13 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 ### Skin
 
-A skin is a set of graphics and custom sample sets that can be chosen to replace the default ones used by osu! in order to customise one's playing experience.
+A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!.
+This will allow for a more customised user experience.
 Most of what you see and hear in osu! can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
+
+To see the list of skinnable eleemnts, see [Skinning](/wiki/Skinning/) (and its subpages).
 
 ### Skinner
 
@@ -856,8 +874,8 @@ On the other hand, there is the inverse of this, very long spinners that are pla
 
 Before considering this mapping technique, it is very important to note:
 
-- spinners can cause fatigue to the player, since it requires rapid, repetitive, and vigorous motion
-- the circular motion of a spinner will cause the cursor to be placed in random locations after completion.
+- Spinners can cause fatigue to the player, since it requires rapid, repetitive, and vigorous motion.
+- The circular motion of a spinner will cause the cursor to be placed in random locations after completion.
   - This will confuse the player when they are needed to click the next object(s).
 
 ### Stacked
