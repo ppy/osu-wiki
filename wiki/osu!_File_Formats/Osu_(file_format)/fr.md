@@ -1,7 +1,10 @@
-L'extension **.osu** est un format de fichier lisible contenant les informations d'une unique beatmap. La plupart des paramètres contenus dans les fichiers **.osu** pouvant être modifiés depuis [l'éditeur](FR:Beatmap_Editor), il est recommandé de ne pas y toucher sauf si vous savez ce que vous faites. Il est fortement déconseillé de modifier ce que vous ne pouvez pas modifier depuis l'éditeur.
+.osu (extension)
+==================
+
+L'extension **.osu** est un format de fichier lisible contenant les informations d'une unique beatmap. La plupart des paramètres contenus dans les fichiers **.osu** pouvant être modifiés depuis [l'éditeur](/wiki/Beatmap_Editor), il est recommandé de ne pas y toucher sauf si vous savez ce que vous faites. Il est fortement déconseillé de modifier ce que vous ne pouvez pas modifier depuis l'éditeur.
 
 Format
-======
+-------
 
 La première ligne du fichier spécifie la version du fichier beatmap. Exemple:
 
@@ -23,10 +26,9 @@ Exemple:
 `[General]`
 
 Sections
-========
+----------
 
-General (Général)
------------------
+### General (Général)
 
 AudioFilename (String) spécifie l'emplacement du fichier audio par rapport au dossier actuel.
 
@@ -64,8 +66,7 @@ WidescreenStoryboard (Boolean) spécifie si le storyboard est pour écran large 
 
 `WidescreenStoryboard: 0`
 
-Editor (Éditeur)
-----------------
+### Editor (Éditeur)
 
 Bookmarks (Integer List, millisecondes) est une liste de marque-pages placés temporellement et séparés par des virgules.
 
@@ -87,8 +88,7 @@ TimelineZoom (Integer) spécifie le zoom dans la barre de temps en haut de l'éd
 
 `TimelineZoom: 1`
 
-Metadata (Métadonnées)
-----------------------
+### Metadata (Métadonnées)
 
 Title (String) est le titre de la chanson limité aux caractères ASCII.
 
@@ -130,8 +130,7 @@ BeatmapSetID (Integer) est l'ID du set de beatmaps.
 
 `BeatmapSetID:114987`
 
-Difficulty (Difficulté)
------------------------
+### Difficulty (Difficulté)
 
 HPDrainRate (Float) spécifie le drainage de vie de la difficulté.
 
@@ -157,15 +156,13 @@ SliderTickRate (Float) spécifie la fréquence d'apparition des slider ticks. La
 
 `SliderTickRate:1`
 
-Events (Évènements)
--------------------
+### Events (Évènements)
 
-Il s'agit ici [d'évènements de storyboard](FR:Design) spécifiques à une unique difficulté. Le principe de cette section étant la même que pour un fichier **[.osb](FR:Osb_(file_format)**, lisez la section sur le [Storyboarding](FR:Storyboarding) pour plus de détails.
+Il s'agit ici [d'évènements de storyboard](/wiki/Design) spécifiques à une unique difficulté. Le principe de cette section étant la même que pour un fichier **[.osb][Osb Link]**, lisez la section sur le [Storyboarding](/wiki/Storyboarding) pour plus de détails.
 
-Timing Points (Points de timing)
---------------------------------
+### Timing Points (Points de timing)
 
-Les [points de timing](FR:Timing) décrivent un certain nombre de propriétés regardant le décalage audio, le BPM, les hitsounds, etc. Offset (Integer, milliseconds) définit quand le point de timing prend effet. Milliseconds per Beat (Float) définit le BPM le la chanson. Pour certain calculs, il est plus facile d'utiliser des Millisecondes Par Battement. Meter (Integer) définit le nombre de battements dans une mesure. Sample Type (Integer) définit le type de hitsounds utilisés. Sample Set (Integer) définit le set de hitsounds utilisés. Volume (Integer) est une valeur entre 0 et 100 qui définit le volume des hitsounds. Kiai Mode (Boolean) définit si le Kiai Time est actif ou non. Inherited (Boolean) définit si le point de timing est hérité ou non.
+Les [points de timing](/wiki/Timing) décrivent un certain nombre de propriétés regardant le décalage audio, le BPM, les hitsounds, etc. Offset (Integer, milliseconds) définit quand le point de timing prend effet. Milliseconds per Beat (Float) définit le BPM le la chanson. Pour certain calculs, il est plus facile d'utiliser des Millisecondes Par Battement. Meter (Integer) définit le nombre de battements dans une mesure. Sample Type (Integer) définit le type de hitsounds utilisés. Sample Set (Integer) définit le set de hitsounds utilisés. Volume (Integer) est une valeur entre 0 et 100 qui définit le volume des hitsounds. Kiai Mode (Boolean) définit si le Kiai Time est actif ou non. Inherited (Boolean) définit si le point de timing est hérité ou non.
 
 `Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
@@ -179,30 +176,34 @@ Exemple d'un point de timing non-hérité :
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours (Couleurs)
-------------------
+### Colours (Couleurs)
 
 Combo# (Integer List) est une liste de trois numéros, chacun entre 0 et 255, définissant une couleur RVB.
 
 `Combo1 : 245,245,245`
 
-Hit Objects (Objets de jeu)
----------------------------
+### Hit Objects (Objets de jeu)
 
 Syntaxe des Hit Circles :
 
-`x,y,time,type,hitSound,addition`
-`164,260,2434,1,0,0:0:0:0:`
+```
+x,y,time,type,hitSound,addition
+164,260,2434,1,0,0:0:0:0:
+```
 
 Syntaxe des Sliders :
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition`
-`424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+```
+x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
+424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:
+```
 
 Syntaxe des Spinners :
 
-`x,y,time,type,hitSound,endTime,addition`
-`256,192,730,12,8,3983`
+```
+x,y,time,type,hitSound,endTime,addition
+256,192,730,12,8,3983
+```
 
 x peut aller entre 0 et 512 (inclus) et y entre 0 et 384 (inclus).
 
@@ -215,3 +216,4 @@ Hit object type est un bitmap:
 circle = 1 slider = 2 new combo = 4 spinner = 8
 
 Les seuls "types" actuels sont les cercles, sliders et spinners. Les nouveaux combos peuvent être OR'd afin d'étendre le comportement du cercle.
+[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)

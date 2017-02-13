@@ -1,1 +1,4 @@
-**.osk** to archiwum zawierające folder ze [skórką osu!](PL:Skinning).
+.osk (format plików)
+=======================
+
+**.osk** to archiwum zawierające folder ze [skórką osu!](/wiki/Skinning).

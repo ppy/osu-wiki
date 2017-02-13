@@ -1,7 +1,10 @@
+.osu (формат файла)
+================
+
 **.osu** — читабельный файловый формат, содержащий информацию о карте.
 
 Формат
-======
+--------
 
 Первая строка файла содержит версию карты, например:
 
@@ -23,10 +26,9 @@
 `[General]`
 
 Секции
-======
-
-General
 -------
+
+### General
 
 **AudioFilename** (строка): относительный путь к аудио-файлу.
 
@@ -64,8 +66,7 @@ General
 
 `WidescreenStoryboard: 0`
 
-Editor
-------
+### Editor
 
 **Bookmarks** (список целых чисел, мс): разделённый запятыми список закладок.
 
@@ -87,8 +88,7 @@ Editor
 
 `TimelineZoom: 1`
 
-Metadata
---------
+### Metadata
 
 **Title** (строка): название песни (только ASCII).
 
@@ -130,8 +130,7 @@ Metadata
 
 `BeatmapSetID:114987`
 
-Difficulty
-----------
+### Difficulty
 
 **HPDrainRate** (десятичное число): скорость уменьшения полоски жизни.
 
@@ -157,13 +156,11 @@ Difficulty
 
 `SliderTickRate:1`
 
-Events
-------
+### Events
 
-См. [скрипты для сториборд](RU:Storyboard_Scripting)
+См. [скрипты для сториборд](/wiki/Storyboarding/Storyboard_Scripting)
 
-Timing Points
--------------
+### Timing Points
 
 Точки тайминга имеют несколько параметров, касающихся оффсета, BPM и хитсаундов. Offset (целое число, мс) определяет, когда тайминг вступает в силу. Milliseconds per Beat (десятичное число) задаёт длительность одного бита в мс. Meter (целое число) указывает число долей в такте. Sample Type (целое число) задаёт тип сэмплов хитсаундов. Sample Set (целое число) задаёт сет хитсаундов. Volume (целое число, 0-100) указывает громкость звука. Kiai Mode (булево значение) определяет, активен ли киай тайм. Inherited (булево значение) указывает, является ли точка тайминга дочерней.
 
@@ -177,20 +174,20 @@ Timing Points
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours
--------
+### Colours
 
 **Combo1**—**Combo8** (список целых чисел): список из трёх чисел, задающих цвет комбо в формате RGB.
 
 `Combo1: 245, 245, 245`
 
-Hit Objects
------------
+### Hit Objects
 
 **Синтаксис для кружков**:
 
-`x,y,time,type,hitSound,addition`
-`(x-координата, y-координата, время, тип объекта, хитсаунд, addition)`
+```
+x,y,time,type,hitSound,addition
+(x-координата, y-координата, время, тип объекта, хитсаунд, addition)
+```
 
 Например:
 
@@ -198,8 +195,10 @@ Hit Objects
 
 **Синтаксис для слайдеров**:
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition`
-`(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)`
+```
+x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
+(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
+```
 
 Например:
 
@@ -207,8 +206,10 @@ Hit Objects
 
 **Синтаксис для спиннеров**:
 
-`x,y,time,type,hitSound,endTime,addition`
-`(x, y, время появления, тип объекта, хитсаунд, время конца, addition)`
+```
+x,y,time,type,hitSound,endTime,addition
+(x, y, время появления, тип объекта, хитсаунд, время конца, addition)
+```
 
 Например:
 
