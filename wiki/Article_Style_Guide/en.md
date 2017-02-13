@@ -73,9 +73,10 @@ Because of this, there is no need to include add one.
 
 ## Grammar
 
-In the case where the American English and the British English spellings conflict, use the British Engish spelling.
+In the case where the American English and the British English spellings conflict, prefer the British Engish spelling.
 
 For example use:
+
 - `colour` instead of `color`
 - `centre` instead of `center`
 - `skilful` instead of `skillful`
@@ -83,7 +84,9 @@ For example use:
 
 ### Capitalisation
 
-The name of the game `osu!` is **never** capitalised.
+#### osu!
+
+The name of the game `osu!` is **never** capitalised, even if it is the first word in the sentence.
 Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
 If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
@@ -92,6 +95,8 @@ If you have `osu!` then a word immediately following it, make sure that the word
 - `osu!wiki`
 - `osu!alumni`
 - `osu!direct`
+
+#### Language Names
 
 When referring the name of a language, capitalize the first letter of that language.
 
@@ -269,5 +274,7 @@ This is to keep consistency between pages.
 
 ### Help!!!
 
-For further help, you can ask someone in the [osu!dev Discord chat](https://discord.gg/ppy) (`#osu-wiki` chat).
+For further help, you can ask someone in the [osu!dev Discord chat](https://discord.gg/ppy) (`#osu-wiki` channel).
+If you are not apart of the osu!dev Discord chat, you will need to go to the `#arrival` channel first.
+
 You _could_ also use GitHub issues in the osu-wiki repo to get help; however, your response time will vary.
