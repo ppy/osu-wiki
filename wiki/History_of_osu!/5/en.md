@@ -1,3 +1,9 @@
+# 2015/2016
+
+Previous|Main page|Next
+:---:|:---:|:---:
+[2013/2014](/wiki/History_of_osu!/4)|[Main](/wiki/History_of_osu!/)|[2017/2018](/wiki/History_of_osu!/6)
+
 2015
 ====
 

@@ -1,3 +1,9 @@
+# 2007/2008
+
+Previous|Main page|Next
+:---:|:---:|:---:
+-|[Main](/wiki/History_of_osu!/)|[2009/2010](/wiki/History_of_osu!/2)
+
 The following are some of the history of osu! since its beginning. Special thanks to [Sinistro](http://osu.ppy.sh/u/Sinistro) for helping in compiling 2007/2008 content. [Source link](http://osu.ppy.sh/p/history).
 
 2007
