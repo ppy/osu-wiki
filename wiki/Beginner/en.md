@@ -25,7 +25,7 @@ Mouse play tends to struggle with:
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](Tablet_purchase "wikilink") guide. Additionally, buy some spare nibs, you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](wiki/List_of_Guides/Tablet_purchase "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
 -   Precise movement and speed.
@@ -97,7 +97,7 @@ A commonly overlooked feature of the game is the Raw Input function. This allows
 
 ### Skins
 
-There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](http://osu.ppy.sh/forum/t/87675&start=0) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
+There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](http://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
 
 Beginner Maps
 =============
@@ -147,4 +147,4 @@ Want to push yourself and take on a challenge? Try these!
 Going Beyond
 ============
 
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on \[<http://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra>= difficulty suggestion\], as it will help you get an idea of where you need to go next. Don't be afraid to ask other users too about how you can improve, most often they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Most importantly, have fun!
+Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](http://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users too about how you can improve, most often they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Most importantly, have fun!
