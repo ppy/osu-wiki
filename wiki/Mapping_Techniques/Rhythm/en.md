@@ -1,5 +1,31 @@
-Spacing
--------
+# Rhythm
+
+Rhythm techniques use the beat of the music to place objects.
+
+## Spacing
+
+1. [Back and Forth Beats](./Rhythm/Back_and_Forth_Beats/)
+2. [Linear Back and Forth](./Rhythm/Linear_Back_and_Forth/)
+3. [Hub and Spoke](./Rhythm/Hub_and_Spoke/)
+4. [Step-Too-Fars](./Rhythm/Step-Too-Fars/)
+5. [15° Patterns](./Rhythm/15_degree_Patterns/)
+6. [Spacing Out](./Rhythm/Spacing_Out/)
+7. [Accelerated Spacing](./Rhythm/Accelerated_Spacing/)
+8. [Drain Sections](./Rhythm/Drain_Sections/)
+9. [Differential Stacks](./Rhythm/Differential_Stacks/)
+10. [Half-backing](./Rhythm/Half-backing/)
+
+## Streams
+
+1. [Triplet Streams](./Formation/Triplet_Streams/)
+2. [Compressed Streams](./Formation/Compressed_Streams/)
+3. [Deathstreams](./Formation/Deathstreams/)
+4. [Slider Stream Jumps](./Formation/Slider_Stream_Jumps/)
+5. [Zig-Zag Streams](./Formation/Zig-Zag_Streams/)
+6. [Variable Spaced Streams](./Formation/Variable_Spaced_Streams/)
+7. [Discontinuous Streams](./Formation/Discontinuous_Streams/)
+
+## Spacing
 
 ### Back and Forth Beats
 
@@ -9,10 +35,7 @@ Spacing
 
 ### Step-Too-Fars
 
-<div id="15 degree Patterns">
-### 15° Patterns
-
-</div>
+### 15 degree Patterns
 
 Want to try this out? Read a short tutorial at [How to do 15° Patterns](15_degree_Patterns/Tutorial "wikilink")
 

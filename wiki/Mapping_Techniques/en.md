@@ -21,11 +21,13 @@ Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./
 
 ### Formation Techniques
 
+See [Formation](./Formation/) for more details.
+
 #### Symmetrical Shape Formations
 
 1. [Triangle Beats](./Formation/Triangle_Beats/)
 2. [Square Formation](./Formation/Square_Formation/)
-   1. [Square Formation v2](./Formation/Square_Formation_v2/)
+   1. [Square Formation v2](./Formation/Square_Formation/)
 4. [Diamond Formation](./Formation/Diamond_Formation/)
    1. [QQ Diamonds](./Formation/QQ_Diamonds/)
 5. [Circle Formation](./Formation/Circle_Formation/)
@@ -44,6 +46,8 @@ Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./
 8. [The Kickstream](./Formation/The_Kickstream/)
 
 ### Rhythm Techniques
+
+See [Rhythm](./Rhythm/) for more details.
 
 #### Spacing
 
@@ -72,23 +76,27 @@ Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./
 
 1. [Slider Slowdowns](./Rhythm/Slider_Slowdowns/)
 
-### Jumping Techniques
+### Jump Techniques
+
+See [Jump](./Jump) for more details.
 
 #### Hitcircle Jumps
 
-1. [Large Jumps](./Jumps/Large_Jumps/)
-2. [Oibon Jumps](./Jumps/Oibon_Jumps/)
-3. [Anti-Jumps](./Jumps/Anti-Jumps/)
-   1. [Anti-SeibeiStyle-Jumps](./Jumps/Anti-SeibeiStyle-Jumps/)
-4. [Center Anti-Jumps](./Jumps/Center_Anti-Jumps/)
+1. [Large Jumps](./Jump/Large_Jumps/)
+2. [Oibon Jumps](./Jump/Oibon_Jumps/)
+3. [Anti-Jumps](./Jump/Anti-Jumps/)
+   1. [Anti-SeibeiStyle-Jumps](./Jump/Anti-SeibeiStyle-Jumps/)
+4. [Center Anti-Jumps](./Jump/Center_Anti-Jumps/)
 
 #### Slider Jumps
 
-1. [Endpoint Slider Jumps](./Jumps/Endpoint_Slider_Jumps/)
-2. [Orbital Sliders](./Jumps/Orbital_Sliders/)
-3. [B&F Sliderbased Jumps](./Jumps/B&F_Sliderbased_Jumps/)
+1. [Endpoint Slider Jumps](./Jump/Endpoint_Slider_Jumps/)
+2. [Orbital Sliders](./Jump/Orbital_Sliders/)
+3. [B&F Sliderbased Jumps](./Jump/B&F_Sliderbased_Jumps/)
 
 ### Unrankable Techniques
+
+See [Unrankable](./Unrankable) for more details.
 
 1. [Hold Sliders](./Unrankable/Hold_Sliders/)
 2. [Burai Sliders](./Unrankable/Burai_Sliders/)
@@ -97,11 +105,15 @@ Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./
 
 ### Hitcircle Techniques
 
+See [Hitcircle](./Hitcircle) for more details.
+
 #### Patterns
 
 1. [Double Stacks](./Hitcircle/Double_Stacks/)
 
 ### Slider Techniques
+
+See [Slider](./Slider) for more details.
 
 #### Stylish Techniques
 
@@ -134,6 +146,8 @@ Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./
 3. [Tricky Triple Combo](./Slider/Tricky_Triple_Combo/)
 
 ### Spinner Techniques
+
+See [Spinner](./Spinner/) for more details.
 
 #### Spinner Variation
 
