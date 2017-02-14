@@ -60,13 +60,13 @@ or
 You can choose either the underline style or hashtag style of level 1 and level 2 headings.
 Note that heading levels 3 and onwards use the hashtag style.
 
-## Article Titles
+### Article Titles
 
 Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-## Section Headings
+### Section Headings
 
 All section headings are to use title case, just like the article titles.
 
