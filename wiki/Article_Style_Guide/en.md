@@ -66,9 +66,21 @@ Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
+All article titles are to be using the level one heading.
+
 ### Section Headings
 
 All section headings are to use title case, just like the article titles.
+
+Section headings must **never** have a link in it.
+Instead place the link underneath the section heading.
+For example:
+
+```
+## Editor
+
+For a full explaination, see [Editor](/wiki/Editor/).
+```
 
 ## TOC
 
@@ -95,6 +107,7 @@ Any words following `osu!`, if not divided by a blank space, should not be capit
 If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
 If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercased letters (like the game modes).
+Other examples may include:
 
 - `osu!wiki`
 - `osu!alumni`
