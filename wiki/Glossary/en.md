@@ -162,7 +162,7 @@ Collab (or collaboration) has two meanings:
    - this is to ensure that the creator has done enough to upload the map under their username
 2. the mapset containing guest difficulties
 
-Collab may some times be used in difficulty version names.
+Collab may sometimes be used in difficulty version names.
 
 ### Combo
 
@@ -595,11 +595,11 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum
 NC has two meanings:
 
 1. short for _new combo_, a modding term to suggest that a beat needs to be the start of a new combo
-2. an abbreviation for the nightcore mod, a variant of the double time mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
+2. an abbreviation for the Nightcore [mod](/wiki/Game_Modifiers/), a variant of the double time mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
 
 ### Nuke
 
-Any beatmap that is considered to be disregarding the rules (or the mapper disregarding the Code of Conduct) can be nuked.
+Any beatmap that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Modding_and_Mapping/)) can be nuked.
 Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
@@ -614,7 +614,7 @@ The warning icon that accompanies nuked beatmaps is the symbol for radioactive m
 
 ### Offset
 
-The offset is a period of time between the beginning of a beatmap’s song file and the instant the first beat of the rhythm is heard, from which the position of the first beat is calculated.
+The offset is a period of time between the beginning of a beatmap's song file and the instant the first beat of the rhythm is heard, from which the position of the first beat is calculated.
 This is measured in milliseconds (ms).
 
 The offset is the first half of beatmap timing, where the other half is the BPM.
@@ -680,7 +680,7 @@ Ouendan has three meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team on using drums, horns, banners and yells of encouragement.
 - The pair of Japanese DS games that osu! was based on.
-  This term may some times be used to refer specifically to the first of these games.
+  This term may sometimes be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, i.e. "The Ouendan".
 
 ### Overmapping
@@ -741,8 +741,8 @@ To view the list of current QAT memebers, see [QAT](wiki/People/Quality_Assuranc
 Rank has three meanings:
 
 1. another word for a letter grade
-2. a player’s standing in the online leaderboard (a.k.a. player ranking)
-3. the verb "to rank", which is when someone second another moderator’s nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player’s ranking.
+2. a player's standing in the online leaderboard (a.k.a. player ranking)
+3. the verb "to rank", which is when someone second another moderator's nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player's ranking.
    Getting their beatmaps ranked is a goal of every beatmapper.
 
 ### Ranking
@@ -816,9 +816,10 @@ scoreV2 has two meanings:
 
 - The game modifier that is only available for the cuttingedge stream.
   This allows players using the cuttingedge stream to test out the new algorithm.
-- The successor to scoreV1,
+- The successor to scoreV1
 
 scoreV2 is a new scoring algorithm that will resolve issues with the combo multiplier effect.
+This caps the scores for all game modes to 1 million points, like osu!mania, and adjusts a few things within the osu!mania mode.
 
 ### Silence
 
@@ -840,16 +841,16 @@ To see the list of skinnable eleemnts, see [Skinning](/wiki/Skinning/) (and its 
 ### Skinner
 
 A skinner refers to the osu!user who releases downloadable skins on the osu!forums.
-They may have had used an photo editing application such as GIMP or Photoshop.
 
 ### Sliderbreak
 
 Sliderbreak has two meanings:
 
-- In osu!standard, a sliderbreak is when the player loses their combo by not holding a slider long enough.
-  - This can occur by the player moving their cursor out of the slider circle or not hitting the beginning of the slider (but within the follow circle of the slider).
-    This will give a score of 100 or 50 for the slider, depending on how much slider ticks are missed.
-    Unlike missing, you can still achieve an "S" rank after sliderbreaking.
+- In osu!standard:
+  - tapping the slider-start too early (this can cause the slider to shake)
+  - not collecting a slidertick (includes the hidden ones underneath the slider-start and slider-end)
+  - releasing the slider ball before it hits the slider-end
+    - this will not cause a miss, rather it will give you a 100 with no combo increment
 - The case where the player doesn't obtain the max possible combo without missing an object.
 
 ### Slidertick
@@ -871,7 +872,7 @@ Spectator aura is a mysterious phenomenon that could cause players to choke thei
 
 ### Spinner spam
 
-Spinner spam is a mapping technique that is heavily discouraged.
+Spinner spam is a **heavily discouraged** mapping technique (in fact, it will probably make your map unrankable).
 
 As the name sugguests, spinner spam occurs when a mapper spams many very short spinners (that last for ~2 sec or less) one after another.
 On the other hand, there is the inverse of this, very long spinners that are placed right after another.
@@ -887,19 +888,24 @@ Before considering this mapping technique, it is very important to note:
 Stacked objects are hitobjects that overlap each other in the playfield.
 The most common object that is stacked are hitcircles.
 
-Stacking hitcircles&mdash;while a clear violation of beat spacing&mdash;is, nevertheless, permitted if the hitcircles are very close to each other in the timeline (half a beat or usually even less).
+Stacking hitcircles (a clear violation of beat spacing) is, nevertheless, permitted if the hitcircles are very close to each other in the timeline (half a beat or usually even less).
 
 ### Star
 
-Star has two meanings:
+Star has four meanings:
 
-1. a stage in a beatmap’s modding process where a moderator judges a beatmap to be on the right track but needing some improvements before he approves of it with a bubble
+1. a stage in a beatmap's modding process where a moderator judges a beatmap to be on the right track but needing some improvements before approve with a bubble
    - examples include adjustments in timing, incorrect beat spacing in some areas, or creating additional difficulty versions
-   - beatmaps receiving a star are denoted by a star graphic next to their thread’s title
-   - a star may be removed by another mod if he judges the beatmap to need a rather larger amount of improvements than expected
-2. another term for "difficulty stars"
+   - beatmaps receiving a star are denoted by a star graphic next to their thread's title
+   - a star may be removed by another mod if the beatmap is thought to be in need of more improvements
+2. another term for "Difficulty Stars"
+   - the symbol that represents the difficulty of a beatmap
+3. another term for "Kudosu!"
+   - these are given to beatmap modders and can be used to raise a beatmap above others
+4. another term for "Stars Priority"
+   - these stars are given to [osu!supporters](/wiki/osu!support) and are used in Feature Requests
 
-### Star priority
+### Star Priority
 
 Star priority has two meanings:
 
@@ -916,9 +922,9 @@ Star priority has two meanings:
 
 ### Storyboard
 
-A storyboard is a set of still and/or animated images and sound effects that tells a story during a beatmap’s course but especially before the beatmap’s beginning, during breaks and after the beatmap’s end.
+A storyboard is a set of still and/or animated images and sound effects that tells a story during a beatmap's course but especially before the beatmap's beginning, during breaks and after the beatmap's end.
 In the DS games, storyboards concern one or more persons facing a difficult challenge or predicament which they then try to overcome whilst being cheered on by the player-controlled characters to the tune of a song.
-Therefore, a storyboard can take various directions depending on the player’s performance.
+Therefore, a storyboard can take various directions depending on the player's performance.
 osu!storyboarding is supported through the use of a scripting language or through the storyboard editor which can be accessed in editor mode under "Design".
 
 There is a sub-forum dedicated to storyboards, see [Storyboarding](https://osu.ppy.sh/forum/20).
@@ -940,23 +946,25 @@ Steams does not require the hitobjects to be in the same comboset.
 
 ### SV
 
-SV, meaning slider velocity, is the speed in which the slider moves at in relation to the BPM.
-This term may some times be used during the modding process.
+SV, meaning _slider velocity_, is the speed in which the slider moves at in relation to the BPM.
+This term may sometimes be used during the modding process.
+
+The slider velocity defines the movement speed of the slider ball. The lower the slider velocity, the slower the slider ball.
 
 ## T
 
 ### TAG
 
-A TAG difficulty is a type of beatmap version that is designed for more than one person to play at the same time in multiplayer mode.
+A TAG difficulty is a type of beatmap that is designed for more than one person to play at the same time in multiplayer mode, using the Tag Co-Op/Tag Team Co-Op Team Mode.
 
 Each player is responsible for one comboset, where each hitobject in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player.
 Therefore it becomes a challenge for elite players in terms of precision of jumping.
 
 TAG difficulties are usually named TAG in a beatmap set.
-TAG2 maps are meant for 2 players while TAG4 maps (the hardest) are meant for 4 players.
+TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
 
-Note that tag difficulties are unrankable because they are far too hard to be ranked and are not designed for the single player.
-However, this hasn't stop pros from trying.
+Note that TAG difficulties are unrankable because they are intentionally not designed for a single player.
+However, this hasn't stop users from trying.
 
 ### Tablet
 
@@ -968,7 +976,7 @@ The image of the screen does not appear on the tablet, thus making it different 
 ### Tap
 
 In osu!standard, tapping is a term that means "to press a button while the cursor is over a hitobject".
-Tapping hitobjects at the right moment, as indicated by the beatmap’s music and the approach circle, is an essential part of osu! gameplay.
+Tapping hitobjects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay.
 There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
@@ -976,16 +984,15 @@ There are a few different buttons one can use to tap:
 - using the buttons on the tablet/touchpad, or
 - directly on a touchscreen/tablet
 
-### Test mode
+### Test Mode
 
 Test mode is a feature of the beatmap editor.
-This allows you to best your beatmap without having to submit anything.
-However, you are required to overwrite and save the beatmap before continuing.
-This creates issues if you need to rollback on your recent changes.
+This allows you to test your beatmap without having to submit anything.
+However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
 
 ### Time signature
 
-The time signature is a musical term that indicats how many beats are in each measure and what note value constitutes a single beat.
+The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat.
 osu! offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
 
 ### Timing
@@ -1000,15 +1007,17 @@ The timing process creates the timeline on which objects will be placed.
 One of many reasons as to why your timing of a beatmap is important is because osu! takes the given BPM and offset to determine where the hitobjects should go.
 If your timing is off, even by a little, then it is next to unrankable to map hitobjects on the editor.
 
-### Timing section
+### Timing Section
 
-A timing section is a part of a song which follows a different rhythm than the parts preceding and following it.
-Many songs have a constant tempo and thus a single timing section.
-However, there may be some that have more.
-If this does happen, the beatmapper needs to identify any areas where the song BPM and/or time signature changes and find the timing for each one.
+Good timing of a beatmap is big a requirement for a beatmap to get ranked.
+Timing a beatmap consists of determining the offset and then the BPM of the song it uses.
 
-Timing sections can also be used even if the rhythm of the song remains constant throughout the beatmap, for example in order to allow the beatmapper to assign different sample sets to different parts of the song.
-Those are called "inherited timing sections" and are identified by green lines.
+When the tempo changes, you are required to add a new timing section to accompany the new tempo.
+
+The timing process creates the timeline on which objects will be placed.
+
+One of many reasons as to why your timing of a beatmap is important because osu! takes the given BPM and offset to determine where the hitobjects should go.
+If your timing is off, even by a little, then it is next to unrankable to map hitobjects on the editor.
 
 ### Touchscreen
 
@@ -1021,7 +1030,7 @@ This is different than a tablet because a touchscreen has some kind of display w
 
 A touchpad is a substitute for the computer mouse.
 Touchpads are most commonly found on laptop computers.
-The touchpad usually consists of a small rectangular area which one can drag one’s finger to move the mouse cursor.
+The touchpad usually consists of a small rectangular area which one can drag one's finger to move the mouse cursor.
 Due to the way touchpads are designed, they do not work with a stylus or similar devices.
 
 ## U
@@ -1037,7 +1046,7 @@ The universal offset applies to all songs used in osu! and its value differs acc
 After being determined, it doesn't need to be modified again.
 An incorrectly universal offset will cause timing problems in every beatmap played or edited.
 If everything sounds off to you while playing a few ranked beatmaps, try checking your universal offset.
-The universal offset settings is located in the Options.
+The universal offset settings is located in the [Options](/wiki/Options/).
 
 ### upppy
 
