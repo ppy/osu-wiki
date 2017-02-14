@@ -66,6 +66,10 @@ Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
+## Section Headings
+
+All section headings are to use title case, just like the article titles.
+
 ## TOC
 
 The TOC (Table of Contents) are automatically generated on the osu!wiki.
@@ -86,7 +90,7 @@ For example use:
 
 #### osu!
 
-The name of the game `osu!` is **never** capitalised, even if it is the first word in the sentence.
+The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
 Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
 If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
@@ -100,7 +104,7 @@ If you have `osu!` then a word immediately following it, make sure that the word
 
 When referring the name of a language, capitalize the first letter of that language.
 
-- The **Maltese** chat channel are for those who speak **Maltese**.
+- The **#Spanish** chat channel are for those who speak **Spanish**.
 
 #### Abbreviations
 
@@ -202,10 +206,10 @@ Names of images must be somewhat meaningful, please don't use the timestamp or l
 Images that are used in multiple different articles must go to the `/wiki/shared` folder.
 Images that are used for one article are to be placed inside their folders for linking.
 
-It is suggusted to add a subfolder for the images, i.e. `/img/` for all images.
-If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; i.e. `/pr/` for preview and `/fs/` for full size.
+It is suggusted to add a subfolder for the images, i.e. `img/` for all images.
+If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; i.e. `pr/` for preview and `fs/` for full size.
 
-Thumnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
+Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
 
 All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
 
