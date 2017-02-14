@@ -396,12 +396,9 @@ It accompanies the total score at the result screen and appears in all lists whe
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
 
-<!-- TODO where do I go??!?!!?!?! -->
-For a complete explanation, see <!--[](...FAQ?)-->.
-
 ### Grid snapping
 
-Grid snapping refers to a same-named button on the right hand side of the editor screen.
+Grid snapping refers to a button on the right hand side of the editor screen.
 
 Enabling it will force every newly placed (or existing, but moved) object to snap along the intersections of the grid.
 
@@ -526,14 +523,13 @@ This only happens if the beatmapper has placed objects right at or very close at
 
 ### Life bar
 
-The life bar, also known as the _health bar_, _v_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for osu!standard, osu!catch, and osu!taiko.
+The life bar, also known as the _health bar_, _HP bar_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for osu!standard, osu!catch, and osu!taiko.
 For osu!mania, the life bar is rotated 90 degrees counter-clockwise and is placed next to the bottom-right of the stage.
 
 In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life.
 If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
 
-The bar drains at a constant rate throughout the course of a beatmap, except during a break.
-For osu!taiko and osu!mania, health drain was disabled.
+osu!standard and osu!catch will have health drain at a constant rate throughout the course of a beatmap, except during breaks.
 
 For osu!standard, the bar is replenished by the player tapping hit circles, following sliders and slider ticks, and spinning spinners.
 The more accurate the tapping, the bigger the boost.
@@ -541,7 +537,7 @@ The player also receives larger boosts if he achieves a katu or an geki at the e
 
 For osu!catch, this can be done by catching fruit and drops.
 
-A sizeable part of the bar is also depleted in case of a miss.
+For all game modes (expect osu!taiko), a sizeable part of the bar is also depleted in case of a miss.
 
 ### Local song offset
 
@@ -561,11 +557,17 @@ You can change your local song offset by pressing:
 
 M4M, or _Mod for Mod_, is a term describing when a modder agrees to mod another modder's map in return for a mod on their own map.
 
+### Mapping Technique
+
+A mapping technique is a method to how objects are placed in any of the four game modes.
+
+For a list of the Mapping Techniques, see [Mapping Techniques](/wiki/Mapping_Techniques/).
+
 ### Marathon
 
 A marathon is a type of beatmap that can only be approved.
 
-Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty.
+Marathon beatmaps are considered to be, at least, 6 minutes long and can only have one mapped difficulty.
 However, some marathon mapsets may contain a single osu!taiko variant as well.
 
 Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a draining endeavour when done solo.
@@ -577,7 +579,8 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 **As of the April 23, 2013, all members of the MAT at that time were promoted as full members of the BAT, with the MAT team decommissioned.**
 
 The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding.
-MAT members can mark beatmap they approve of with a bubble, noting them as worthy of further consideration by the BAT.
+MAT members were able to mark any beatmap they approve of with a bubble.
+This bubble would note that the beatmap as worthy of further consideration by the BAT.
 
 ### Modder
 
@@ -660,7 +663,7 @@ The following day, peppy rolled back the implementation of osu!coins due to popu
 
 ### osu!dev
 
-The osu!dev team is a group of people, including peppy, that 
+The osu!dev team are the people who updates and improves osu!.
 
 For details about the osu!dev, see [The Team](/wiki/People/The_Team/).
 
@@ -703,11 +706,12 @@ This topic was discussed in an episode of osu!talk ([osu!talk special Over Mappi
 Pass has three meanings:
 
 - the completion of a beatmap with or without the use of mods
-- the player having more than 50% health during a break; where an indicator will display if you passed the section
+- the player having more than 50% health during a break
+  - an indicator will display if you passed the section
 
 ### peppy
 
-peppy, written with a lowercase p, is the online alias of Dean Herbert.
+peppy, written with a lowercase `p`, is the online alias of Dean Herbert.
 He is the creator of the osu! project and its primary developer.
 
 ### Play time
@@ -1053,6 +1057,7 @@ Version has two meanings:
   - they could be called "Easy", "Normal", "Hard", "Insane", and "Expert"
   - however, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
+  - see [Skinning](/wiki/Skinning/) for more details
 
 ## W
 
@@ -1069,7 +1074,7 @@ There are various reasons to mark a beatmap as WIP:
   - suggestions on the timing,
   - needs feedback
 
-WIPs can be submitted through the BSS to the Beatmap Help forum to get comments, feedback and help from mods and other users.
+WIPs can be submitted through the BSS to the Beatmap Help forum to get comments, feedback, and help from mods and other users.
 
 ## Z
 
