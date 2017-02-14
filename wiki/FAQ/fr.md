@@ -1,3 +1,5 @@
+# FAQ
+
 Les bases du gameplay d’osu! sont affichées dans cette section en plus d'un petit topo sur le système de score et sur l’interface du jeu.
 
 **Les noms des éléments de gameplay sont laissés en anglais (Spinner, Slider), en raison des traductions françaises qui ne sont pas esthétiques (roulette, disque, balle...), d'une part, et le fait qu'absolument tous les joueurs utilisent les termes anglais, d'autre part.**
