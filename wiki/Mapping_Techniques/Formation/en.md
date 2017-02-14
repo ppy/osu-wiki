@@ -1,5 +1,6 @@
-Symmetrical Shape Formations
-----------------------------
+# Formation
+
+## Symmetrical Shapes
 
 **Symmetrical shapes formation** are objects forming symmetrical shapes.
 
