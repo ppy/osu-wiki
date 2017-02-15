@@ -51,18 +51,6 @@ A correctly timed beatmap will have each beat correspond to the song's rhythm an
 
 For more information about the timeline, see [Beat Snap Divisor](/wiki/Beat_Snap_Divisor).
 
-### Beatmap pack
-
-Beatmap packs (also known as _packs_) are sets of beatmaps packaged as one compressed file.
-Beatmap packs are collections of ranked and/or approved beatmaps that can be downloaded from a file sharing service (on [MediaFire](https://www.mediafire.com/)).
-
-Most beatmap packs are sets of beatmaps that were ranked during the same time period.
-Although, some packs are tailored to a similar style or theme.
-
-To see the beatmap packs, see [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist).
-
-If you are interested in torrenting the beatmap packs instead, see [HiraOsu! - Torrents](https://osu.hiramiya.me/torrents.htm).
-
 ### Beat spacing
 
 Beat spacing is a principle which states that the spacing of every object (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
@@ -83,6 +71,18 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value.
 Note that the higher the value would allow a more difficult beatmap.
 
+### Beatmap pack
+
+Beatmap packs (also known as _packs_) are sets of beatmaps packaged as one compressed file.
+Beatmap packs are collections of ranked and/or approved beatmaps that can be downloaded from a file sharing service (on [MediaFire](https://www.mediafire.com/)).
+
+Most beatmap packs are sets of beatmaps that were ranked during the same time period.
+Although, some packs are tailored to a similar style or theme.
+
+To see the beatmap packs, see [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist).
+
+If you are interested in torrenting the beatmap packs instead, see [HiraOsu! - Torrents](https://osu.hiramiya.me/torrents.htm).
+
 ### Beatmap
 
 A beatmap (also known as a level or a map) is where the majority of osu! lies.
@@ -92,15 +92,37 @@ Nowadays, beatmaps may also have a background image or video, or even a storyboa
 
 For more details about how beatmaps are uploaded, see BSS.
 
+### BeatmapID
+
+A BeatmapID is a unique assigned number given to all uploaded beatmap's difficulty.
+
+You can use the beatmapID to find a beatmap using this url: `osu.ppy.sh/b/{BeatmapID}`
+
+This value can be found in the url of a beatmap by changing the difficulty tab, using the ingame option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty file.
+
+All unsubmitted beatmaps will have a beatmapID of `0`.
+
 ### Beatmapper
 
-A beatmapper (or mapper) refers to the osu!user who uses the editor to create a beatmap.
+A beatmapper (or _mapper_) refers to the osu!user who uses the editor to create a beatmap.
 
 ### Beatmapset
 
-A beatmapset (or mapset) is the collection of beatmaps that are packaged inside the `.osz` file, under the same beatmapper.
+A beatmapset (or _mapset_) is the collection of beatmaps that are packaged inside the `.osz` file.
+These beatmapsets are under the same mapper.
+
 Beatmapsets will always have the same music, sounds, and video, if any.
 However, do note that some beatmaps from a beatmapset may specifically contain a certain background image or storyboard that is separate from the others.
+
+### BeatmapSetID
+
+A BeatmapSetID is a unique assigned number given to all uploaded beatmapsets.
+
+You can use the BeatmapSetID to find a beatmap using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+
+This value can be found in the url of a beatmapset from osu!website beatmap list search, the numbers from own `Songs` folder, or in the `.osu` difficulty file.
+
+All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
 ### BG
 
@@ -132,7 +154,7 @@ In addition to this, a passing or failing graphic and sound will appear and play
 
 BSS is short for _Beatmap Submission System_.
 
-When a beatmapper is finished mapping their beatmap(set) and is ready to share their creation around the world, they must first submit it to the BSS.
+When a beatmapper has finished mapping their beatmap(set) and is ready to share their creation around the world, they must first submit it to the BSS.
 When they do this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset.
 The forum thread it generates will help you get feedback from modders and other players who play your map.
 Lastly, your beatmap will be given a beatmapID and can be commented on during replays.
