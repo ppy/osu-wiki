@@ -955,7 +955,7 @@ The slider velocity defines the movement speed of the slider ball. The lower the
 
 ### TAG
 
-A TAG difficulty is a type of beatmap that is designed for more than one person to play at the same time in multiplayer mode, using the Tag Co-Op/Tag Team Co-Op Team Mode.
+A TAG difficulty is a type of beatmap that is designed for more than one person to play at the same time in multiplayer mode, using the Tag Coop/Tag Team Vs Team Mode.
 
 Each player is responsible for one comboset, where each hitobject in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player.
 Therefore it becomes a challenge for elite players in terms of precision of jumping.
