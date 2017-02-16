@@ -72,7 +72,7 @@ Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informas
 
 | Term | Meaning |
 | ---- | ------- |
-| Kesalahan | **Kedua nilai ini memrepresentasikan seberapa jauh ketukan yang terlalu cepat, dan seberapa jauh ketukan yang terlambat.** Semakin tinggi [nilai OD](/wiki/Song_Setup) sebuah beatmap yang kamu mainkan, nilai ini akan semakin rendah pula. |
+| Kesalahan | **Kedua nilai ini memrepresentasikan seberapa jauh ketukan yang terlalu cepat, dan seberapa jauh ketukan yang terlambat.** Semakin tinggi [nilai OD](/wiki/Beatmap_Editor/Song_Setup) sebuah beatmap yang kamu mainkan, nilai ini akan semakin rendah pula. |
 | Laju Ketidakstabilan | **Nilai ini merepresentasikan seberapa konsistenkah kamu dalam hal menekan objek ketukan**, dengan nilai yang lebih kecil lebih baik (pemain jago sering memiliki skor di bawah 150). Tolong diingat ini menandakan konsistensi, dan bukan akurasi, jadi jika kamu konsisten dalam menekan **15ms** lebih cepat kamu akan mendapatkan nilai yang hampir sama dengan menekan tepat waktu. Formula pada dasarnya adalah simpangan standar dari **hit error** (dalam milisekon) dikalikan dengan 10. |
 
 #### Putaran [hanya osu!standar]

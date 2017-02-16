@@ -1,7 +1,7 @@
 Storyboard Scripting Commands
 =============================
 
-Each [object declaration](/wiki/Storyboarding/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
+Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change color. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
 A command under an object declaration looks like:
 
@@ -269,5 +269,5 @@ Compound Commands
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 
--   [Loop (L) Command](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)
--   [Trigger (T) Command](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)
+-   [Loop (L) Command](/wiki/Storyboard_Scripting/Compound_Commands)
+-   [Trigger (T) Command](/wiki/Storyboard_Scripting/Compound_Commands)

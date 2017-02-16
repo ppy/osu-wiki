@@ -69,6 +69,6 @@ The tournament has been running since 2013, and will likely continue in the futu
 See also
 ---------
 
--   [List of countries that participated in osu! tournaments](/wiki/Countries_that_participated_in_osu!_tournaments)
+-   [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [World Cup Season Schedule 2013/14](http://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)

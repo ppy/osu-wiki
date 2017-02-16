@@ -13,12 +13,12 @@ Storyboardの作成
 
 [Storyboard Editor](/wiki/Storyboard_Editor) (SBE)はDesignタブ(ショートカットはF2キー)にあり、SBEはユーザーに手軽な操作をする手段の一つとなります。しかしそれは"基本的"の粋を超えた内容を操作するのには不便であり、また一部の内容はそれを経由して操作をすることができません。またもしワイドスクリーン環境向けのSBを作る場合はsong setupからそれを設定してください。
 
-SBに慣れたユーザーがSBEのバックエンドのコードを作る場合は[Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting) (SBS) を利用してより自由度の高いコードを作ります。詳細については記事を参照してください。
+SBに慣れたユーザーがSBEのバックエンドのコードを作る場合は[Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) を利用してより自由度の高いコードを作ります。詳細については記事を参照してください。
 
 Full Storyboard
 ---------------
 
-Storyboard Editorの出現により簡単に譜面にエフェクトを追加できるようになり、[Rank譜面から](/wiki/Beatmaps) [全て](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1) を書き出すことは難しいです。なので“フル”で作られたものを一部抜粋します。より多くの情報が必要な場合は[full maps listを参照してください](/wiki/Storyboarding/Maps)。
+Storyboard Editorの出現により簡単に譜面にエフェクトを追加できるようになり、[Rank譜面から](/wiki/Beatmaps) [全て](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1) を書き出すことは難しいです。なので“フル”で作られたものを一部抜粋します。より多くの情報が必要な場合は[full maps listを参照してください](/wiki/Storyboards/Maps)。
 
 ### Storyboard
 
@@ -50,4 +50,4 @@ Storyboard Editorの出現により簡単に譜面にエフェクトを追加で
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-その他のSBは[こちらから](/wiki/Storyboarding/Maps).
+その他のSBは[こちらから](/wiki/Storyboards/Maps).

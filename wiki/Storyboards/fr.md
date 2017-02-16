@@ -13,7 +13,7 @@ Créer une Storyboard
 
 L'[Éditeur de Storyboards](/wiki/Storyboard_Editor) (SBE) est situé dans la partie Design (Touche F2) de l’Éditeur de Beatmaps. A la base, le SBE offre aux utilisateurs un moyen simple de contrôler des images, mais il est souvent jugé imprécis et inutilisable pour les Storyboards plus complexes.
 
-Les mappers doués en Storyboarding recourent souvent à la modification du code généré par le SBE, appelé aussi [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting) (SBS), du fait qu'il leur offre plus de possibilités.
+Les mappers doués en Storyboarding recourent souvent à la modification du code généré par le SBE, appelé aussi [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS), du fait qu'il leur offre plus de possibilités.
 
 Storyboards Complètes
 ---------------------
@@ -50,4 +50,4 @@ Avec la création de l'Editeur de Storyboards pour créer des effets graphiques 
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-D'autres Storyboards sympas peuvent être trouvées [ici](/wiki/Storyboarding/Maps).
+D'autres Storyboards sympas peuvent être trouvées [ici](/wiki/Storyboards/Maps).

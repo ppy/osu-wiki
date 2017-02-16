@@ -4,7 +4,7 @@ Storyboard Scripting Miscellaneous - Japanese
 Storyboardのコード短縮化
 ------------------------------
 
-より簡単に [SB作成をするにあたり](/wiki/Storyboarding/Storyboard_Scripting_Commands)、3つの**短縮方法**をここに記しておきます。
+より簡単に [SB作成をするにあたり](/wiki/Storyboard_Scripting/Commands)、3つの**短縮方法**をここに記しておきます。
 
 ### 同じイベント、同じ期間、順序
 
@@ -159,7 +159,7 @@ _C,0,6000,7000,12,12,12
 osu! File切り替え
 --------------------
 
-[スキン](/wiki/Skinning) / [SBを](/wiki/Storyboarding).osu(いくつかの場合は.osbファイルで)で切り替えさせることが可能です。これらは[Beatmap Editorで加えられた](/wiki/Beatmap_Editor)/削除されたものを含めることができます。
+[スキン](/wiki/Skinning) / [SBを](/wiki/Storyboards).osu(いくつかの場合は.osbファイルで)で切り替えさせることが可能です。これらは[Beatmap Editorで加えられた](/wiki/Beatmap_Editor)/削除されたものを含めることができます。
 
 [skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
 

@@ -158,7 +158,7 @@ SliderTickRate (Float) specifies how often slider ticks appear. Default value is
 
 ### Events
 
-See [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting)
+See [Storyboard Scripting](/wiki/Storyboard_Scripting)
 
 ### Timing Points
 

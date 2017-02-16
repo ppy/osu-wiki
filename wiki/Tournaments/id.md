@@ -70,6 +70,6 @@ Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berla
 Lihat juga
 ------------
 
--   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Countries_that_participated_in_osu!_tournaments)
+-   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](//osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk merekam turnamen)

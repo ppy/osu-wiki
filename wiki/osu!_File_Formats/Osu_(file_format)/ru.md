@@ -158,7 +158,7 @@
 
 ### Events
 
-См. [скрипты для сториборд](/wiki/Storyboarding/Storyboard_Scripting)
+См. [скрипты для сториборд](/wiki/Storyboard_Scripting)
 
 ### Timing Points
 

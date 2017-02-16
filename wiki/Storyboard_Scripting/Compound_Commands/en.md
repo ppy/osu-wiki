@@ -6,7 +6,7 @@ These are more complicated commands that don't do anything by themselves. Instea
 Loop (L) Command
 --------------------
 
-It's extremely common to have some [actions](/wiki/Storyboarding/Storyboard_Scripting_Commands) in [Storyboarding](/wiki/Storyboarding) repeat themselves a fixed number of times. For instance, you may want to have an object to fade in and out constantly during a certain playtime. In this case, it would be best to use a **loop**.
+It's extremely common to have some [actions](/wiki/Storyboard_Scripting/Commands) in [Storyboarding](/wiki/Storyboards) repeat themselves a fixed number of times. For instance, you may want to have an object to fade in and out constantly during a certain playtime. In this case, it would be best to use a **loop**.
 
 ### Usage
 
@@ -39,7 +39,7 @@ __F,0,500,1000,1,0
 Trigger (T) Command
 ------------------------
 
-In addition to the "implicit" player feedback via the separate [Pass/Fail layers](/wiki/Storyboarding/Storyboard_Scripting_General_Rules), you can use one of several **Trigger conditions** to cause a series of [events](/wiki/Storyboarding/Storyboard_Scripting_Commands) to happen whenever that condition is fulfilled within a certain time period. The official specification calls these "trigger loops" due to their syntactic similarity to Loops (L), but they aren't loops at all, so here they are simply called "Triggers".
+In addition to the "implicit" player feedback via the separate [Pass/Fail layers](/wiki/Storyboard_Scripting/General_Rules), you can use one of several **Trigger conditions** to cause a series of [events](/wiki/Storyboard_Scripting/Commands) to happen whenever that condition is fulfilled within a certain time period. The official specification calls these "trigger loops" due to their syntactic similarity to Loops (L), but they aren't loops at all, so here they are simply called "Triggers".
 
 ### Usage
 

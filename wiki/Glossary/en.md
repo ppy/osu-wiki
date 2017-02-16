@@ -49,7 +49,7 @@ Beat is a term that applies to the timeline in editor mode.
 Beat is a period of time that songs can be divided into based off of their BPM.
 A correctly timed beatmap will have each beat correspond to the song's rhythm and a whole beat should fall between two white lines on the timeline.
 
-For more information about the timeline, see [Beat Snap Divisor](/wiki/Beat_Snap_Divisor).
+For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor).
 
 ### Beatmap pack
 
@@ -277,11 +277,11 @@ Some factors that can affect a version's difficulty are the number of object in 
 Difficulty stars are one way to gauge a version's difficulty level.
 The osu!website sorts difficulty versions into 5 categories:
 
-- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!standard/Easy/)
-- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!standard/Normal/)
-- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!standard/Hard/)
-- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!standard/Insane/)
-- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!standard/Expert/)
+- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!/Easy)
+- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!/Normal)
+- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!/Hard)
+- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!/Insane)
+- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!/Expert)
 
 ### Drain time
 

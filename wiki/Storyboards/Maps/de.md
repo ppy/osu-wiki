@@ -1,7 +1,7 @@
 Maps with Storyboards - German
 ===============================
 
-Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](/wiki/Storyboarding) aufgelistet.
+Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](/wiki/Storyboards) aufgelistet.
 
 Storyboard
 -------------

@@ -10,7 +10,7 @@ Grundregeln
 
 ### Objekte
 
--   Ein "[Objekt](/wiki/Storyboarding/Objects)" ist eine Instanz eines Sprites oder eine Animation in Ihrem Storyboard. Es können auch Töne im Storyboard eingesetzt werden, siehe [hier](/wiki/Storyboarding/Audio) für mehr Details.
+-   Ein "[Objekt](/wiki/Storyboard_Scripting/Objects)" ist eine Instanz eines Sprites oder eine Animation in Ihrem Storyboard. Es können auch Töne im Storyboard eingesetzt werden, siehe [hier](/wiki/Storyboard_Scripting/Audio) für mehr Details.
 -   Nur PNG und JPG/JPEG werden als Bildformate akzeptiert.
     -   JPGs/JPEGs sind verlustreich, was bedeutet, dass sie 'ne kleinere Dateigröße haben, die Pixel werden jedoch nicht exakt wie bei der Eingabe positioniert bleiben. Es wird auch keine Transparenz unterstützt. Deswegen sind sie eher als Hintergrundbilder oder für quadratische, photo-realistische Bilder geeignet.
     -   PNGs sind verlustlos, was bedeuet, dass alle Pixel ihre exakten Positionen beibehalten, was zu einer größeren Dateigröße im Vergleich zum JPG/JPEG führt. Transparenz wird unterstützt, was sich daher am besten für Objekte/Text auf der Foreground-Ebene eignet.
