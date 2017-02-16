@@ -1,5 +1,7 @@
 # Square Formation
 
+![](./img/basic.png)
+
 Nominator: Beuchi-chan
 
 Basically, this is 4 hitcircles forming a square shape.
@@ -9,5 +11,10 @@ The order of the combos forces the player to go along the square rather than thr
 
 ## Examples
 
-- [KOTOKO - Oboetete ii yo (James) \[Hard\]](https://osu.ppy.sh/s/6376)
-- [Wiklund - Whip the Blip (James) \[nullPointLOL's Insane\]](https://osu.ppy.sh/s/6376)
+![](./img/29075.png)
+
+- [KOTOKO - Oboetete ii yo (James) \[Hard\]](https://osu.ppy.sh/b/29075)
+
+![](./img/36003.png)
+
+- [Wiklund - Whip the Blip (Ultimate) \[nullPointLOL's Insane\]](https://osu.ppy.sh/b/36003)
