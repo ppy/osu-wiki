@@ -1,6 +1,6 @@
 # Article Style Guide
 
-This guide is to serve as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
+The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All articles should use plain English.
 Your word choice should explain such things in layman's terms (basically, ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
@@ -79,12 +79,12 @@ For example:
 ```
 ## Editor
 
-For a full explaination, see [Editor](/wiki/Editor/).
+For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
 ```
 
 ## TOC
 
-The TOC (Table of Contents) are automatically generated on the osu!wiki.
+The TOC (Table of Contents) will automatically be generated on the osu!wiki.
 Because of this, there is no need to include add one.
 
 ## Grammar
@@ -197,7 +197,7 @@ External links must follow these rules:
   - do not use a url with long url queries, parameters, or fragments
 - the link name must be the title text of the page it is linking to
 
-Do use use the word `here` as the link text.
+Do not use the word `here` as the link text.
 As it may seem convenient to use, it could be misleading.
 Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
@@ -230,7 +230,7 @@ All beatmapset difficutly urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
 
 ## Images
 
-**All image file extensions _MUST_ use lower cased letters!!**
+**All image file extensions _MUST_ use lowercase letters!!**
 Otherwise they will fail to load!
 
 The osu!wiki will give every image a max-width, being the width of the article body.
