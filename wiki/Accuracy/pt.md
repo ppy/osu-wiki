@@ -75,7 +75,7 @@ Tela de Resultados
 
 | Term | Meaning |
 | ---- | ------- |
-| Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](/wiki/Song_Setup) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
+| Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](/wiki/Beatmap_Editor/Song_Setup) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
 | Taxa de Instabilidade | **Este valor representa o quão consistentemente você cronometra seus acertos **, com números mais baixos sendo melhores (os melhores jogadores, muitas vezes obtém pontuação abaixo de 150). Note que isso é uma medição de consistência, e não de precisão, por isso, se você é consistente em acertar 15ms cedo, você poderá obter resultados semelhantes aos se você é consistente em bater no tempo. A fórmula é, essencialmente, o padrão de desvio dos seus erros de cronometragem (em milissegundos) multiplicado por 10. |
 
 #### Giro [apenas em standard]

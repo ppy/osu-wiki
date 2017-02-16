@@ -133,10 +133,10 @@ Mode Edit
 
 **Changement de mode**
 
--   **F1**: Mode [Composition](/wiki/Compose)
--   **F2**: Mode [Design](/wiki/Design)
--   **F3**: Mode [Timing](/wiki/Timing)
--   **F4**: [Configuration de la beatmap](/wiki/Song_Setup)
+-   **F1**: Mode [Composition](/wiki/Beatmap_Editor/Compose)
+-   **F2**: Mode [Design](/wiki/Beatmap_Editor/Design)
+-   **F3**: Mode [Timing](/wiki/Beatmap_Editor/Timing)
+-   **F4**: [Configuration de la beatmap](/wiki/Beatmap_Editor/Song_Setup)
 
 #### Mode Composition
 
@@ -170,6 +170,6 @@ Mode Edit
 -   **Clic droit**: Commence un nouveau combo, termine le placeùent d'un slider ou retire un point, retire un cercle (seulement en mode sélection ou en je jouant pas l'audio).
 -   **Molette de la souris**: Avance/Recule dans la musique. Maintenez MAJ pour aller 4x plus vite.
 -   **Ctrl + Alt + Molette de la souris**: Change le mode de placement/sélection dans l'aire de jeu.
--   **Ctrl + Molette**: Augmente/Réduit le [snap divisor](/wiki/Distance_Snap).
+-   **Ctrl + Molette**: Augmente/Réduit le [snap divisor](/wiki/Beatmap_Editor/Distance_Snap).
 -   **Alt + Molette**: Augmente/Réduit le multiplicateur de distance. Change le zoom du timeline dans le timeline.
 -   **Glisser**: Déplace la sélection des notes (position et temps), déplace les points dans le slider. Déplace la fin des sliders/spinners pour la rallonger dans le temps.

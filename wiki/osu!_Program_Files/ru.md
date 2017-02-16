@@ -169,5 +169,5 @@ osu! Program Files - Russian
 
 | Расширение файла | Описание |
 | ---------------- | --------- |
-| .osu | [Compose](/wiki/Compose), [Timing](/wiki/Timing), [Design](/wiki/Song_Setup) |
-| .osb | [Design](/wiki/Design) |
+| .osu | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Design](/wiki/Beatmap_Editor/Song_Setup) |
+| .osb | [Design](/wiki/Beatmap_Editor/Design) |

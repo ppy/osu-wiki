@@ -1,7 +1,7 @@
 Storyboard Scripting Commands - Japanese
 =========================================
 
-それぞれの[オブジェクトの宣言は](/wiki/Storyboarding/Objects)1つ以上の**コマンド**に従っています。これらはオブジェクトに何をさせるかを表示しており、それは**event**と呼ばれて移動させたり、色を変化させたりなどをさせます。各コマンドはオブジェクトに影響を与える変数と考えることができ、1つのコマンドが終われば別のコマンドが発生するまで現状維持をします。コマンドが指定されていない設定についてはデフォルトの数値が使用されます。
+それぞれの[オブジェクトの宣言は](/wiki/Storyboard_Scripting/Objects)1つ以上の**コマンド**に従っています。これらはオブジェクトに何をさせるかを表示しており、それは**event**と呼ばれて移動させたり、色を変化させたりなどをさせます。各コマンドはオブジェクトに影響を与える変数と考えることができ、1つのコマンドが終われば別のコマンドが発生するまで現状維持をします。コマンドが指定されていない設定についてはデフォルトの数値が使用されます。
 
 コマンドの宣言は以下のようになります:
 
@@ -233,5 +233,5 @@ _P,0,60000,62000,V
 
 単体では動作をしない複合的なコマンドが存在します。代わりに対象ページに書かれている他のイベントが起きる条件が揃えば、セットで書かれているコードが動作するようになります。
 
--   [Loop (L) ループ コマンド](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)
--   [Trigger (T) トリガー コマンド](/wiki/Storyboarding/Storyboard_Scripting_Compound_Commands)
+-   [Loop (L) ループ コマンド](/wiki/Storyboard_Scripting/Compound_Commands)
+-   [Trigger (T) トリガー コマンド](/wiki/Storyboard_Scripting/Compound_Commands)

@@ -6,7 +6,7 @@ Storyboard Scripting Compound Commands - Japanese
 Loop (L) ループ コマンド
 ------------------------------
 
-[SBにおいていくつかの同じ](/wiki/Storyboarding)[エフェクトが何度か起こることはよくあります](/wiki/Storyboarding/Storyboard_Scripting_Commands)。
+[SBにおいていくつかの同じ](/wiki/Storyboards)[エフェクトが何度か起こることはよくあります](/wiki/Storyboard_Scripting/Commands)。
 
 例えば特定のプレイタイムでフェードインとフェードアウトをオブジェクトが繰り返している場合などは、**ループ** コマンドを使用するのがベストです。
 
@@ -53,7 +53,7 @@ __F,0,500,1000,1,0
 Trigger (T) トリガー コマンド
 -------------------------------
 
-普段は[Pass/Fail layersと同じように](/wiki/Storyboarding/Storyboard_Scripting_General_Rules)"沈黙"しているレイヤーですが、**発動条件** を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](/wiki/Storyboarding/Storyboard_Scripting_Commands)。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
+普段は[Pass/Fail layersと同じように](/wiki/Storyboard_Scripting/General_Rules)"沈黙"しているレイヤーですが、**発動条件** を満たせばトリガーで指定した一連の[イベントが発生するようにコードを記述することができます](/wiki/Storyboard_Scripting/Commands)。正式な仕様としてはループ(L)と構造が同じで、類似していることから"トリガーループ"と呼ばれます。しかしループと付いていてもそれとは全く別物です。
 
 ### 使用法
 

@@ -92,7 +92,7 @@ Program files
 配置文件确认了osu! 的初始设定,这些文件可以通过Notepad打开.
 
 -   osu!.cfg (osu! 逻辑配置.)
--   osu!.{YOUR PC NAME}.cfg ("[Options](/wiki/Options) screen". Also contains [deprecated/interesting variables and sensitive information](/wiki/User_configuration_file))
+-   osu!.{YOUR PC NAME}.cfg ("[Options](/wiki/Options) screen". Also contains [deprecated/interesting variables and sensitive information](/wiki/osu!_Program_Files/User_configuration_file))
     -   {YOUR PC NAME}: 你的计算机用户名. 如果你将admin/user的用户名设置为 "HelloWorld", .cfg 文件将被命名为, osu!.HelloWorld.cfg .
 
 ### .exe (应用程序)

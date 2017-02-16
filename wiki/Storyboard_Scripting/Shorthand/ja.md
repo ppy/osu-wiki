@@ -1,7 +1,7 @@
 Storyboard Scripting Shorthand - Japanese
 ==============================================
 
-便利なSBライフを満喫するために、[コマンドの](/wiki/Storyboarding/Storyboard_Scripting_Commands)**3つの短縮化** がここには記されています。
+便利なSBライフを満喫するために、[コマンドの](/wiki/Storyboard_Scripting/Commands)**3つの短縮化** がここには記されています。
 
 同じイベント、同じ継続時間、順番
 --------------------------------

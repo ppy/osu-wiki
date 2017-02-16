@@ -95,7 +95,7 @@ Guidelines for Taiko Game Mode
 
 Some of the accepted and established general attributes of Taiko difficulties which have previously found their roots in Taiko no Tatsujin(太鼓の達人). There have been guidelines for years and they have been consistent for the lower difficulties. This should cover most of the ideas that are the "norm" but it is not complete and exceptions can be made if necessary. For a more in depth going guide, follow these links:
 
--   [Mapping Taiko Difficulties](/wiki/Mapping_Taiko_Difficulties) ([original thread](https://osu.ppy.sh/forum/t/152263))
+-   [Mapping Taiko Difficulties](/wiki/Beatmap_Editor_Guides/Mapping_Taiko_Difficulties) ([original thread](https://osu.ppy.sh/forum/t/152263))
 -   [Taiko Mapping Basics](https://docs.google.com/document/d/1STnZVwB-RN6glJbSlOiTEiUxu7XmgMInXrG15s2pfbQ/edit)
 
 Kantan
@@ -232,4 +232,4 @@ Rest moments in Taiko
 -   ![Dificil](/wiki/shared/Hard-t.png "Dificil") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
 -   ![Insano/Demente](/wiki/shared/Insane-t.png "Insano/Demente") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[</wiki/External_Ports/T_Aiko/Old>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers / players who are having problems to distinguise when a lower difficulty becomes too hard, you can try playing your beatmap on **[</wiki/Game_Modes/External_Ports/T_Aiko/Old>! T-Aiko!]** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

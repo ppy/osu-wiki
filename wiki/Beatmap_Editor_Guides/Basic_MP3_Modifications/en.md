@@ -1,7 +1,7 @@
 Basic MP3 modifications
 =======================
 
-***Also checkout:*** *[Audio editing](/wiki/Audio_Editing)*
+***Also checkout:*** *[Audio editing](/wiki/Beatmap_Editor_Guides/Audio_Editing)*
 
 Lowering/Raising the volume
 ---------------------------

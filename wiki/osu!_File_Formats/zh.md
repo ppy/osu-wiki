@@ -16,8 +16,8 @@ osu! 特有的文件格式
 
 | 文件格式                                | 用途                                                                                             |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]    | 参见[Compose](/wiki/Compose), [Timing](/wiki/Timing), [Song Setup](/wiki/Song_Setup) |
-| [.osb][Osb Link]    | 参见[Design](/wiki/Design)                                                                           |
+| [.osu][Osu Link]    | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
+| [.osb][Osb Link]    | 参见[Design](/wiki/Beatmap_Editor/Design)                                                                           |
 
 ### 回放
 
