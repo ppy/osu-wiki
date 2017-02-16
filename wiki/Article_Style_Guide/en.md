@@ -207,6 +207,27 @@ If you are using the reference style linking, it is sugguested to place the refe
 When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
 
+### Beatmaps
+
+Whenever you are linking to a beatmap, use this format as the link text:
+
+```
+{artist} - {title} ({creator}) \[{difficuty_name}\]
+```
+
+When linking to a beatmap, make sure that the link actually links to that difficulty.
+All beatmap difficutly urls looks like this: `osu.ppy.sh/b/{BeatmapID}`
+
+### Beatmapsets
+
+If you are linking to a beatmapset, use this format as the link text:
+
+```
+{artist} - {title} ({creator})
+```
+
+All beatmapset difficutly urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
+
 ## Images
 
 **All image file extensions _MUST_ use lower cased letters!!**
