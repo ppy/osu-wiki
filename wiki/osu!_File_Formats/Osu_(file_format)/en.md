@@ -158,7 +158,7 @@ SliderTickRate (Float) specifies how often slider ticks appear. Default value is
 
 ### Events
 
-See [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting)
+See [Storyboard Scripting](/wiki/Storyboard_Scripting)
 
 ### Timing Points
 
@@ -263,5 +263,3 @@ A hold note unique to osu!mania.
 **x (Integer)** determines which column/key a note will fall on. The value does not have to be precise. **y (Integer)** is ignored.
 
 **endTime (Integer)** is the time when the key should be released.
-
-<Category:File Formats>
