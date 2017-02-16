@@ -11,6 +11,9 @@ Star Formations can be used to make jumps.
 
 Alternativly, you could use the end of a slider as the first point (or the start of a slider as the last point) of the star.
 
+These are really similar to [Flower Combos](../Flower_Combos/).
+However, the difference here is that this forces the player to go through to form a star, instead of going around it.
+
 ## Examples
 
 ![](./img/601405.png)
