@@ -3,9 +3,9 @@ Objek Ketukan
 
 Sebuah benda hit adalah elemen gameplay inti di osu!. Ada tiga jenis objek hit:
 
--   [Hit Circle](/wiki/Glossary)
--   [Slider](/wiki/Glossary)
--   [Spinner](/wiki/Glossary)
+-   Hit Circle
+-   Slider
+-   Spinner
 
 Hit circles dan sliders yang ditemui secara teratur, sementara Spinner hanya muncul sesekali. Segala sesuatu yang Anda berinteraksi dengan selama Beatmap adalah objek hit.
 
@@ -32,6 +32,6 @@ Spinner
 
 ![Sebuah spinner in default skin.](Spinner.jpg "Sebuah spinner in default skin.")
 
-Sebuah Spinner adalah sebuah lingkaran yang mengambil seluruh ketinggian area bermain dan memiliki [Spinner Metre](/wiki/Glossary) di kedua sisi. Sebuah garis melingkar yang besar mirip dengan [Approach Circle](/wiki/Glossary) muncul di perbatasan Spinner dan secara bertahap menyatu pada pusatnya. Pemain harus tahan tombol mouse ke bawah dan berputar baik searah jarum jam atau arah berlawanan jarum jam. Selama tombol mouse ditekan, kursor terkunci di daerah Spinner, sehingga pemain tidak perlu khawatir tentang pergi luar. Spinner dihapus jika semua tingkatan Spinner Meter diisi sebelum Pendekatan Lingkaran yang mencapai pusat. Tergantung pada pengaturan kesulitan masing-masing [beatmap](/wiki/Glossary), nomor yang berbeda dari spin diminta untuk mengisi setiap tingkat Spinner Meter (senilai 100 poin). Jika pemain mengisi Spinner Meter sebelum Lingkaran Pendekatan mencapai pusat Spinner itu, setiap putaran tambahan sebelum waktu habis akan penghargaan pemain dengan 1.000 poin bonus (masing-masing menerima bonus multiplier tergantung pada saat pemain [Combo](/wiki/Combo)). Berputar sebuah Spinner memberikan dorongan kecil terus menerus ke [Life Bar](/wiki/Glossary) tergantung pada kecepatan rotasi.
+Sebuah Spinner adalah sebuah lingkaran yang mengambil seluruh ketinggian area bermain dan memiliki Spinner Metre di kedua sisi. Sebuah garis melingkar yang besar mirip dengan [Approach Circle](/wiki/Glossary) muncul di perbatasan Spinner dan secara bertahap menyatu pada pusatnya. Pemain harus tahan tombol mouse ke bawah dan berputar baik searah jarum jam atau arah berlawanan jarum jam. Selama tombol mouse ditekan, kursor terkunci di daerah Spinner, sehingga pemain tidak perlu khawatir tentang pergi luar. Spinner dihapus jika semua tingkatan Spinner Meter diisi sebelum Pendekatan Lingkaran yang mencapai pusat. Tergantung pada pengaturan kesulitan masing-masing [beatmap](/wiki/Glossary), nomor yang berbeda dari spin diminta untuk mengisi setiap tingkat Spinner Meter (senilai 100 poin). Jika pemain mengisi Spinner Meter sebelum Lingkaran Pendekatan mencapai pusat Spinner itu, setiap putaran tambahan sebelum waktu habis akan penghargaan pemain dengan 1.000 poin bonus (masing-masing menerima bonus multiplier tergantung pada saat pemain [Combo](/wiki/Combo)). Berputar sebuah Spinner memberikan dorongan kecil terus menerus ke [Life Bar](/wiki/Glossary) tergantung pada kecepatan rotasi.
 
 **Catatan:** Skin default sekarang \[osu! by peppy\] tidak memiliki Circles Pendekatan dan Spinner Meter, Skin default digantikan \[osu!default by peppy\] memilikinya.

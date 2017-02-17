@@ -3,9 +3,9 @@ Hit Objects - Portuguese
 
 Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. Existem três tipos de objetos:
 
--   [Hit Circle](/wiki/Glossary)
--   [Slider](/wiki/Glossary)
--   [Spinner](/wiki/Glossary)
+-   Hit Circle
+-   Slider
+-   Spinner
 
 Hit circles e sliders são encontrados frequentemente, enquanto que spinners irão aparecer ocasionalmente. Tudo que você interage durante o decurso do beatmap é um objeto.
 
@@ -32,8 +32,8 @@ Spinner
 
 ![Um spinner na skin padrão.](Spinner.jpg "Um spinner na skin padrão.")
 
-Um Spinner é um círculo que consome toda a tela durante o jogo e possui um [Spinner Metre](/wiki/Glossary) em um dos lados. Uma grande borda circular similar a de um [Approach Circle](/wiki/Glossary) aparece na borda do Spinner e irá gradualmente convergir com seu centro. O jogador deverá manter o clique do mouse e rodar para qualquer direção preferida. Enquanto o botão do mouse estiver premido, o cursor será travado na área do Spinner, fazendo assim com que o jogador não tenha de se preocupar com o que está acontecendo fora do mesmo. O spinner é completo se todos os níveis do Spinner Mettre estiverem cheios antes do Approach Circle chegar no centro. Dependendo das opções de dificuldade do [beatmap](/wiki/Glossary), um número diferente de rotações será necessário para completar cada nível do Spinner Mettre (valendo 100 pontos). Se o jogador encher o Spinner Mettre antes que o Approach Circle chegue no centro, cada rotação adicional antes do tempo esgotar irá providenciar ao jogador 1,000 pontos bônus (cada um recebendo o multiplicador de bônus dependendo do [Combo](/wiki/Glossary) atual do jogador). Rodar um Spinner providencia um impulso contínuo para a [barra de HP](/wiki/Glossary) dependendo da velocidade de rotação.
+Um Spinner é um círculo que consome toda a tela durante o jogo e possui um Spinner Metre em um dos lados. Uma grande borda circular similar a de um [Approach Circle](/wiki/Glossary) aparece na borda do Spinner e irá gradualmente convergir com seu centro. O jogador deverá manter o clique do mouse e rodar para qualquer direção preferida. Enquanto o botão do mouse estiver premido, o cursor será travado na área do Spinner, fazendo assim com que o jogador não tenha de se preocupar com o que está acontecendo fora do mesmo. O spinner é completo se todos os níveis do Spinner Mettre estiverem cheios antes do Approach Circle chegar no centro. Dependendo das opções de dificuldade do [beatmap](/wiki/Glossary), um número diferente de rotações será necessário para completar cada nível do Spinner Mettre (valendo 100 pontos). Se o jogador encher o Spinner Mettre antes que o Approach Circle chegue no centro, cada rotação adicional antes do tempo esgotar irá providenciar ao jogador 1,000 pontos bônus (cada um recebendo o multiplicador de bônus dependendo do [Combo](/wiki/Glossary) atual do jogador). Rodar um Spinner providencia um impulso contínuo para a [barra de HP](/wiki/Glossary) dependendo da velocidade de rotação.
 
-A Spinner is a circle that takes up the entire height of the play area and has a [Spinner Metre](/wiki/Glossary) on either side. A large circular outline similar to a
+A Spinner is a circle that takes up the entire height of the play area and has a Spinner Metre on either side. A large circular outline similar to a
 
 **Nota:** A skin padrão atual \[osu! do peppy\] não possui Approach Circles ou Spinner Metre.

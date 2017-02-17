@@ -3,9 +3,9 @@ Hit Objects
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
--   [Hit Circle](/wiki/Glossary)
--   [Slider](/wiki/Glossary)
--   [Spinner](/wiki/Glossary)
+-   Hit Circle
+-   Slider
+-   Spinner
 
 Hit circles and sliders are encountered frequently, while spinners only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
@@ -32,6 +32,6 @@ Spinner
 
 ![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
 
-A Spinner is a circle that takes up the entire height of the play area and has a [Spinner Metre](/wiki/Glossary) on either side. A large circular outline similar to a [Approach Circle](/wiki/Glossary) appears on the Spinner’s border and gradually converges on its centre. The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. The Spinner is cleared if all the levels of the Spinner Metre are filled before its Approach Circle reaches the centre. Depending on the difficulty settings of each [beatmap](/wiki/Glossary), a different number of spins are required to fill each level of the Spinner Metre (worth 100 points). If the player fills the Spinner Metre before the Approach Circle reaches the Spinner’s centre, each additional spin before time runs out will award the player with 1,000 bonus points (each receiving a bonus multiplier depending on the player’s current [Combo](/wiki/Glossary)). Spinning a Spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
+A Spinner is a circle that takes up the entire height of the play area and has a Spinner Metre on either side. A large circular outline similar to a [Approach Circle](/wiki/Glossary) appears on the Spinner’s border and gradually converges on its centre. The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. The Spinner is cleared if all the levels of the Spinner Metre are filled before its Approach Circle reaches the centre. Depending on the difficulty settings of each [beatmap](/wiki/Glossary), a different number of spins are required to fill each level of the Spinner Metre (worth 100 points). If the player fills the Spinner Metre before the Approach Circle reaches the Spinner’s centre, each additional spin before time runs out will award the player with 1,000 bonus points (each receiving a bonus multiplier depending on the player’s current [Combo](/wiki/Glossary)). Spinning a Spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
 
 **Note:** Current default skin \[osu! by peppy\] do not have Approach Circles and Spinner Metre, the superseded default skin \[osu!default by peppy\] have them.
