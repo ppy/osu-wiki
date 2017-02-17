@@ -14,7 +14,7 @@ Hit Circle
 
 ![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
 
-Called Hit Marker in the DS games. It's a coloured circle with a number on it (depending on its place in a Combo) with the outline of another circle (Approach Circle) shrinking around it. Once the Approach Circle outline overlaps the Hit Circle's border, the player should Tap the Hit Circle, earning a number of points (50, 100 or 300) depending on how accurate his tapping was, and possibly scoring a Beat! or an Elite Beat! if the circle is the end of a combo. Tapping regular Hit Circles gives a very small boost to the Life Bar, and a good boost if it is a end combo circle.
+Hit Circles, or "Hit Marker" in the DS games, are coloured circles with a number on them (depending on its place in a Combo). These are outlined with another circle (Approach Circle) shrinking around it. Once the Approach Circle outline overlaps the Hit Circle's border, the player should Tap the Hit Circle, earning a number of points (50, 100 or 300) depending on how accurate his tapping was, and possibly scoring a Beat! or an Elite Beat! if the circle is the end of a combo. Tapping regular Hit Circles gives a very small boost to the Life Bar, and a good boost if it is a end combo circle.
 
 Slider
 ------
