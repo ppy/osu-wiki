@@ -14,7 +14,9 @@ For complete reference and help with using GitHub, please visit [GitHub Help](ht
 
 For a styling guide when writing a page, check out [Article Style Guide](/wiki/Article_Style_Guide "Article Style Guide") instead.
 
-If you have any questions, you can inquire at the [osu!dev Discord Server](https://discord.gg/ppy).
+If you have any questions, you can inquire at the [osu!dev Discord Server](https://discord.gg/ppy "osu!dev in Discord"), under ``#osu-wiki`` preferably.
+
+Reading time for the whole page is around an hour.
 
 ## Prerequisites
 
@@ -22,8 +24,8 @@ To contribute to the osu!wiki, you must have the following:
 
 - A [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/ "GitHub Help in Signing up an account").
 - Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown(GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub").
-- [Understanding the GitHub's workflow](https://help.github.com/articles/what-is-a-good-git-workflow/ "GitHub Help on GitHub workflow").
-  - A simplified visual explanation can be found [here](https://guides.github.com/introduction/flow/ "Interactive visual GitHub workflow").
+- [Understanding the Git's workflow (feature-branch workflow)](https://help.github.com/articles/what-is-a-good-git-workflow/ "GitHub Help on Git workflow").
+  - [A simplified visual explanation provided by GitHub Guides](https://guides.github.com/introduction/flow/ "Interactive visual Git workflow").
 - Able to write in English, preferably British English for consistency.
   - Everything not related to the page content itself (commit messages, pull requests, filenames, etc) **MUST** be written in English.
 
@@ -77,6 +79,10 @@ You should be in the ``master`` branch by default.
 
 #### Branching
 
+![Slide image about Feature-branch workflow](Contribute_branchworkflow.jpg "Feature-branch workflow")
+
+_[Image taken from Slide 6 from Git branch management by Matt Liu](http://www.slideshare.net/MatthewKLiu/git-branch-management "Git branch management by Matt Liu")_
+
 Frankly speaking, you _could_ do all of your changes in the ``master`` branch. However, it is _bad practice to do this in the long run_.
 
 This is where branching comes into play.
@@ -102,12 +108,12 @@ You are now all set to make changes safely with a solid bailout plan.
 #### Update
 
 To edit a page, go to the folder of that page and select the language of that article.
-From here, you should see something like this:-
+From here, you should see something like this:
 
-_Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
+*Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
 All article pages inside these folders must use the two letter language codes.
 To know which language code to use, see the [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) following the `639-1` column.
-Please follow this format when creating a new article._                  
+Please follow this format when creating a new article.*                
 
 ![GitHub Preview](Contribute_webview.jpg "GitHub Preview")
 
@@ -115,9 +121,9 @@ Please follow this format when creating a new article._
 
 If you cannot find your language code inside the folder, click on the "Create new file" button.
 
-<!-- img -->
+![New file creation on this directory](Contribute_webnewfile.jpg "New file creation on this directory")
 
-You will be given an empty file with no filename given.
+You will be given an empty file with no filename given, as shown above.
 
 Name the file in accordance to two letter [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language, following the `639-1` column, with an ``.md`` file extension at the end, all in lowercase.
 For example, if you are writing in Japanese, then name it as ``jp.md``.
@@ -131,20 +137,21 @@ After making your changes, scroll down to _Commit Changes_ and fill the followin
 Before adding a directory, please explain what you are doing in the [Issues](https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page") tab to prevent wasted effort and connection usage.
 This is because once you upload the directory, renaming or moving the directory must be done using Git.
 
-To add a directory, prepare a properly named folder with a file inside and nothing else.
+To add a directory, prepare a properly named folder with at least a filled file inside and nothing else.
 The file must follow the naming convention of [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
 Navigate to the proper filepath to put the directory in.
 Then, click on the "Upload files" button.
-Drag and drop the folder to the upload window.
 
-<!-- img -->
+![Upload files on this directory](Contribute_webuploadfiles.jpg "Upload files on this directory")
+
+Drag and drop the folder to the upload window.
 
 After uploading your changes, scroll down to _Commit Changes_ and fill the following fields to explain your upload to other contributors.
 
 ##### Update a file
 
-If the file exist but was written badly or syntax errors are found, click on the pencil icon to edit.
+If the file exist but was written badly or syntax errors were found, click on the pencil icon to edit.
 This should redirect you to the web editor.
 
 ![GitHub's Web Editor](Contribute_webeditor.jpg "Web Editor Snapshot")
@@ -185,13 +192,13 @@ Please be reminded that local copy and remote copy are two different things.
 If you did commits without pushing to remote copy, you are effectively talking to yourself.
 
 You can delay the push to remote copy for as long as you want, but you must push your commit at the end when you are done.
-It is usually preferred to push the commit immediately once you complete a commit.
+It is usually preferred to push the local commit immediately to the remote copy.
 
 #### One-time setup only
 
 ##### Preparation of local copy
 
-_Note: If you do not have Git installed, you can go to [their website](https://git-scm.com/) to download Git and [set it up](https://help.github.com/articles/set-up-git/) (only ignore step 1)._
+_Note: If you do not have Git installed, you can go to [the official Git website](https://git-scm.com/ "Git official website") to download Git and [set it up](https://help.github.com/articles/set-up-git/ "GitHub Help in Setting up Git") (only ignore step 1)._
 
 Once you have Git installed and ready to deploy (see the note above if you have not), open up Git Bash or your terminal and enter this in the Command Line Interface (CLI):
 
@@ -201,13 +208,13 @@ git clone https://github.com/<your GitHub username>/osu-wiki.git
 
 Replace ``<your GitHub username>`` with, well, your GitHub username you sign up with and fork from.
 
-This will clone your fork (``master`` branch only) in the filepath you specified (usually in your root user's home folder, when running Git directly).
+This will clone your fork (``master`` branch only) in the filepath you specified (usually in your root user's home folder, when running Git directly by default).
 Moreover, the link is now nicknamed to ``origin``, and the significance will be explained at the next header.
 
 Make sure you are connected to the Internet before using the command.
 Also, please consider doing this in an unmetered connection like a Wi-Fi area to preserve your connection quota, as the content size of osu-wiki is _quite large_.
 
-_Note: For further reference, check GitHub Help on fork a repo: <https://help.github.com/articles/fork-a-repo/>_
+_Note: For further reference, check [GitHub Help on fork a repo](https://help.github.com/articles/fork-a-repo/ "GitHub Help on fork a repo")_
 
 ##### Nicknames significance
 
@@ -262,7 +269,7 @@ Read what was given for the quit command.
 - If you are in Windows environment or your Linux environment does not provide ``nano`` by default, then ``vim`` will be used instead.
 - For Mac OSX environment, ``emacs`` should be set by default if it is not ``nano``, or ``vim`` will be used instead.
 
-If you have an adversity to terminal text editor, and want to use a familiar text editor like Notepad++ or GitHub's Atom instead, see this reference link to set Git to always use that instead: <https://swcarpentry.github.io/git-novice/02-setup/>
+If you have an adversity to terminal text editor, and want to use a familiar text editor like Notepad++ or GitHub's Atom instead, [swcarpentry provides a guide to set Git to always use that instead](https://swcarpentry.github.io/git-novice/02-setup/ "swcarpentry on setting up the default editor").
 
 If you are fine with the given terminal text editor, then you can skip the above configuration and read below.
 If you already set your own, ignore below and head to the next header.
@@ -285,7 +292,7 @@ The only three keywords you need to remember when using ``vim`` appears are as f
 ```
 1. i   (lowercase i key, once)
 2. Esc
-3. ZZ  (UPPERCASE Z key, twice) or :q (colon and a lowercase q key)
+3. ZZ  (UPPERCASE Z key, twice) or :q (a colon and a lowercase q key)
 ```
 
 By default, you will be in normal mode.
@@ -374,23 +381,15 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 git add .
-git commit -m "<explain your changes here>"
+git commit -m "<short title>" -m "<long description>"
 ```
 
-- The first command will stage everything changed.
+- The first command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
-- The second command takes a GitHub's snapshot (``commit`` keyword) and your title summary (``-m "<explain your changes here>"``) of what was changed.
+- The second command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
   - Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
   - Also, write the commit message in **English**.
-  - If you write longer than the 72 characters limit, the rest of the text will be shown in description instead.
-
-Alternatively, you can also do this:
-
-```prolog
-git add -a -m "<short title>" -m "<long description>"
-```
-
-This single-line command will stage and commit all the files (``-a``) with a refined commit message of a title (the first ``-m``) and description (the second ``-m``).
+  - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
 
 _Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default instead to write your summary.
 If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._
@@ -430,7 +429,7 @@ To begin, go to your own forked repository.
 
 #### Plan A (PR current branch)
 
-Switch your ``Branch: master`` dropdown button to the branch you want to do a PR for.
+Switch your ``Branch: master`` dropdown button **to the branch you want to do a PR** for.
 Then, press on either the "New pull request" right beside the dropdown button, or the "Pull request" with a merge-branch icon right beside the "Compare" button.
 
 Either of the buttons will still lead you to the same PR branch compare page.
@@ -480,7 +479,12 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 
 ![PR Creation Dialogue](Contribute_prcontent.jpg "PR Creation Dialogue")
 
-Click on the "Create pull request" button and wait for a reviewer to check and, possibly, merge your changes to the official branch.
+Click on the "Create pull request" button.
+
+![A typical PR page](Contribute_prexample.jpg "A typical PR page")
+
+With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
+If your PR was deemed good enough, a Team osu! member may come and merge your changes to the official branch.
 
 **Your commit messages should thoroughly explain your changes.
 Otherwise, the pull request may not be merged to the official branch!**
@@ -492,7 +496,7 @@ Two important things you must do at all cost:
 1. Updating your ``master`` branch to the latest official ``master`` commit.
 2. If the branch has merge conflicts, fix it immediately.
 
-Updating a branch and cleaning up stale or merged branches is an optional personal task.
+Updating a branch and cleaning up stale/merged branches is an optional personal task.
 
 ### Through GitHub's Web Editor
 
@@ -503,7 +507,7 @@ Go to your own forked repository.
 There are two ways of cleaning a branch:
 
 - overview branch cleanup, and
-- merged PR manual branch deletion.
+- merged/closed PR manual branch deletion.
 
 As the second way requires the branch to be merged/closed for the branch's delete button appear in the merged/closed PR page, the first way of cleaning the branches is preferred for this guide.
 
@@ -517,7 +521,7 @@ The branch will be marked for deletion, and will be deleted after you leave the 
 
 Once you have done cleaning the branches, it is time to update your own forked repository.
 
-_Note: For further reference, see GitHub Help answer: <https://help.github.com/articles/viewing-branches-in-your-repository/>_
+_Note: For further reference, see [GitHub Help in viewing branches in your repository](https://help.github.com/articles/viewing-branches-in-your-repository/ "GitHub Help in viewing branches in your repository")_
 
 #### Branch sync
 
@@ -561,7 +565,7 @@ Press the green "Merge pull request" button.
 
 ![Setting the merge message](Contribute_syncmerge2.jpg "Setting the merge message")
 
-Click on the green "Confirm merge" button, and the branch is updated successfully to the latest version.
+Click on the green "Confirm merge" button and the branch will be updated successfully to the latest version.
 
 To update your other branches, do the same thing in this section in a new PR but with different branch this time.
 
@@ -599,7 +603,7 @@ Do a checkout to the branch you want to sync.
 git checkout <branchname>
 ```
 
-There are two ways of updating it
+There are two ways of updating it:
 
 - The first way provides a open choice (will not be explained in this guide) to do a forensic check on what was changed before doing any merging.
 - The second way is best used if you know that there will not be any merge conflicts, does not care about what was changed, and lazy to type two commands.
@@ -668,13 +672,13 @@ To remove it, there are two safe ways of doing it:
 - The manual method, being much more straightforward but becomes very tedious quickly the more files with conflicts.
 - The mergetool method, requiring some familiarity with the default tools used without explicit configuration and installation of other program by personal preference.
 
-To check for files with merge conflict, use:-
+To check for files with merge conflict, use:
 
 ```prolog
 git status
 ```
 
-A typical textfile merge conflict will look like this:-
+A typical textfile merge conflict will look like this:
 
 ```
 <<<<<<< HEAD
@@ -693,7 +697,7 @@ For major or complicated merge conflicts, ask for help.
 
 ##### Manually
 
-Reference: <https://githowto.com/resolving_conflicts> and <https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/>
+Reference: [Githowto on resolving conflicts](https://githowto.com/resolving_conflicts "Githowto's 30. Resolving Conflicts") and [GitHub Help on resolving a merge conflict using the command line](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/ "GitHub Help on resolving a merge conflict using the command line")
 
 The procedure is basically:
 
@@ -720,7 +724,7 @@ Once all the merge conflict(s) resolved, do a commit with a message, and push to
 Like so:
 
 ```prolog
-git commit -m "Solved merge conflicts"
+git commit -a -m "Solved merge conflicts"
 git push origin <branchname>
 ```
 
@@ -738,15 +742,15 @@ Use only lowercased variant of the file extension (like ``.jpg``, ``.gif``, ``.p
 
 ### What are the green "Verified" button beside the commits in a PR page?
 
-GitHub supports GPG signature verification as written in their blog post: <https://github.com/blog/2144-gpg-signature-verification>
+[GitHub supports GPG signature verification as written in their blog post](https://github.com/blog/2144-gpg-signature-verification "GitHub blog on GPG signature verification").
 
 It is a personal proof that the commit made by the account user personally, not from a malicious account using the same name.
 By default, all accounts will not have the "Verified" button, as it is an optional commit integrity feature.
 
 To get the "Verified" button, it will take a while; from downloading a tool, generation of the key from the tool, and some careful configuration.
 
-- For a Windows guide, check this blog post: <http://mrexodia.cf/guide/2016/05/30/Github-Gpg>
-- For a GitHub's guide, check the GitHub index page for GPG: <https://help.github.com/articles/signing-commits-with-gpg/>
+- For a Windows-only guide, check [the mrexodia's blog post guide by Duncan](http://mrexodia.cf/guide/2016/05/30/Github-Gpg "mrexodia blog post on GitHub GPG by Duncan")
+- For a GitHub's guide, check the [GitHub index page for GPG](https://help.github.com/articles/signing-commits-with-gpg/ "GitHub Help on signing commits with GPG")
 
 Do note that it is only applied to **Git usage only**, and is not related to two-factor authorisation.
 
@@ -785,7 +789,7 @@ This will open your default browser with the manual of the command written as a 
 ### Why is the old osu!wiki not staying?
 
 Due to abysmal performance, the old wiki is getting deprecated,
-as stated [here](https://github.com/ppy/osu-wiki/issues/69).
+as stated [by MillhioreF in issue 69 (fourth post)](https://github.com/ppy/osu-wiki/issues/69).
 
 ### How would this differ from the old wiki (running on MediaWiki)?
 
@@ -810,4 +814,4 @@ as stated [here](https://github.com/ppy/osu-wiki/issues/69).
 ## Conclusion
 
 We hope this briefs you on how to contribute to the new osu!wiki.
-If you have any questions, you can inquire at the [osu!dev Discord Server](https://discord.gg/ppy).
+If you have any questions, you can inquire at the [osu!dev Discord Server](https://discord.gg/ppy "osu!dev in Discord").
