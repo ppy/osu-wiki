@@ -285,7 +285,7 @@ The only three keywords you need to remember when using ``vim`` appears are as f
 ```
 1. i   (lowercase i key, once)
 2. Esc
-3. ZZ  (UPPERCASE Z key, twice) or :q (semicolon and a lowercase q key)
+3. ZZ  (UPPERCASE Z key, twice) or :q (colon and a lowercase q key)
 ```
 
 By default, you will be in normal mode.
@@ -589,7 +589,7 @@ git push origin :<branchname>
 - The second command will tell Git to delete the branch.
   If Git refuse to delete it for a reason (usually the branch was not updated) but you do not want the branch anyway, use the force delete variant by replacing the soft local delete attribute, ``-d``, to force local delete attribute, ``-D``.
 - The third command will update the forked remote repo to also remove the branch (make sure you are connected to the Internet).
-  The semicolon, ``:``, will tells Git to delete this ``<branchname>`` branch in the ``origin`` nickname (which is your forked remote repo).
+  The colon, ``:``, will tells Git to delete this ``<branchname>`` branch in the ``origin`` nickname (which is your forked remote repo).
 
 #### Branch sync
 
