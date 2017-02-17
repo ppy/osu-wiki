@@ -274,6 +274,16 @@ If you need help making a complicated table, try to see if you can improvise a s
 
 **Never** place images inside tables.
 
+## Miscellaneous
+
+- Do not use an inline image link for osu!supporter
+  - use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`
+- These words are spelt as follows (note the space):
+  - `hit circles`
+  - `approach circles`
+  - `slider ticks`
+  - `slider ball`
+
 ## FAQ
 
 ### What happened to the old osu!wiki?
