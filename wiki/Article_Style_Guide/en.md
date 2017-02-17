@@ -152,7 +152,7 @@ Gameplay elements should **never** be be capitalised.
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 
-#### Serial comma
+### Serial comma
 
 When listing items of 3 or more in a sentence, use the serial comma.
 
