@@ -6,7 +6,8 @@ All articles should use plain English.
 Your word choice should explain such things in layman's terms (basically, ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
 All articles must have proper grammar, correct spelling, and correct information.
-Try your best to do all of those in your pull request and know that reviewers will look for these things before sending it off to the live osu!wiki.
+Know that reviewers may ask for changes in your pull request for blunders or suggestions.
+A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure for the best for an osu!wiki reader.
 
 ## GFM
 
@@ -23,7 +24,7 @@ If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://g
 ## File names
 
 All articles in the osu-wiki repo uses the two letter language codes.
-These 2 lettered language codes must be lowercased, ending with the `.md` extension.
+These 2 lettered language codes must use lowercase letters, ending with the `.md` extension.
 
 Translated articles are to be placed in the appropriate English-named folder.
 
@@ -66,11 +67,13 @@ Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-All article titles are to be using the level one heading.
+All article titles are to be using the level 1 heading.
 
 ### Section Headings
 
 All section headings are to use title case, just like the article titles.
+
+All section headings are to be using level 2 to level 5 headings.
 
 Section headings must **never** have a link in it.
 Instead place the link underneath the section heading.
@@ -106,7 +109,7 @@ The name of the game `osu!` is **never capitalised**, even if it is the first wo
 Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
 If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
-If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercased letters (like the game modes).
+If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
 Other examples may include:
 
 - `osu!wiki`
@@ -125,9 +128,11 @@ Abbreviations of osu! terms must be capitalised (i.e. `CS` for `Circle Size`).
 
 #### Game Modes
 
-The name of game modes should always be capitalised unless if it is following the exclamation mark without a blank space of the name `osu!`.
+Writting the name of the game modes, they are to be written as follows:
 
-- `osu!` or `osu!standard` (to prevent ambiguity)
+- `osu!`
+  - `osu!standard` (unofficial, but to prevent ambiguity)
+    - for folder names, it is required to use `osu!`, not `osu!standard`
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
@@ -237,7 +242,7 @@ The osu!wiki will give every image a max-width, being the width of the article b
 
 Names of images must be somewhat meaningful, please don't use the timestamp or long hashes for media file names.
 
-Images that are used in multiple different articles must go to the `/wiki/shared` folder.
+Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 Images that are used for one article are to be placed inside their folders for linking.
 
 It is suggusted to add a subfolder for the images, i.e. `img/` for all images.
@@ -289,7 +294,7 @@ On the other hand, GitHub osu!wiki does not support templates!
 This means that you will have to copy a section of text on other articles instead of having them in one place.
 
 Linking is managed manually and any typos in the link can cause it to 404 (link to nowhere).
-Images are handled manually as well.
+Images links and sizes are handled manually as well.
 
 ### But Markdown supports HTML tags, can I use them?
 
@@ -308,9 +313,9 @@ GFM is Markdown which is basically a subset of HTML that contains:
 - images
 
 As it _does_ support a few HTML tags, osu!wiki articles will not be using them.
-This is to keep consistency between pages.
+This is to maintain consistency between articles.
 
-### Help!!!
+### Help!
 
 For further help, you can ask someone in the [osu!dev Discord chat](https://discord.gg/ppy) (`#osu-wiki` channel).
 If you are not apart of the osu!dev Discord chat, you will need to go to the `#arrival` channel first.
