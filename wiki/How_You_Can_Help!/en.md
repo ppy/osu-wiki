@@ -14,10 +14,9 @@ Here is a current list of areas I can think of where anyone can help out, ordere
 In order to keep the content on the website as fresh as possible, I'd like to move all sections containing text to the wiki. This includes FAQ, ranking guidelines, all our forum-based guides, the history/information sections. While we have made huge progress already (thanks to a few very dedicated users), keeping a wiki up-to-date is an ongoing process which basically anyone can help with. There is also a lot of translation opportunities remaining to make the content accessible in every language known to mankind!
 
 ### Where to start:
-<!-- TODO: Change MediaWiki context to GitHub's context -->
 
 -   Go through all the FAQ and other information sections on the osu! site, and make sure the info is easily accessible (and complete) on the wiki. If it isn't, add it in (you can begin by just copying, pasting and reformatting). Make an Issue to discuss any changes if you are not confident about it, or go straight ahead to do a Pull Request and update old information you come across.
--   Watch the [recent changes list](Special:RecentChanges "wikilink") as often as you can (bookmark it :p), and make sure people aren't adding useless or incorrect information. Keep a tab on what is being worked on and chip in if you can!
+-   Watch the [Pull Requests](https://github.com/ppy/osu-wiki/pulls "Pull Requests") as often as you can (bookmark it :p), and make sure people aren't adding useless or incorrect information by reviewing. Keep a tab on what is being worked on and chip in if you can!
 -   Make sure the information on the wiki is as concise, clear and beautiful as possible. Tidy up any formatting issues you find, and push people in the right direction where required.
 -   Make this post into a wiki page :D! Translate it to more languages — we need help from more than just English writers (fact: over 75% of the osu! community doesn't speak English and/or understand English fully).
 
@@ -28,7 +27,7 @@ We have moderators doing their best to keep chat under control, but there are 25
 ### Where to start:
 
 -   Follow your favourite channels on in-game chat, and forums on the web.
--   If you see something happening which disturbs you (or would generally be found inappropriate), use the !report command to notify moderators.
+-   If you see something happening which disturbs you (or would generally be found inappropriate), use the ``!report`` command to notify moderators.
 -   You can use the ``!report`` command for anything that happens anywhere in osu!. Your reports will always be read.
 
 ## Help answer technical, beatmap and gameplay support questions!
@@ -60,7 +59,6 @@ While we have set teams that handle the approval process, there's nothing stoppi
 There are quite a few proposals or projects in action, including tournaments, larger beatmapping projects, third-party application development projects and other unique ideas. Go contact the people involved and show that you are interested, and offer your help if you have skills that could be used.
 
 ### Where to start:
-<!-- osu!monthly -> osu!weekly? -->
 
 -   Browse the [tournaments](http://osu.ppy.sh/forum/55) forum. Tournaments take a lot of man-power to organise and to make happen without hitches, and you can help out by just sitting in as a spectator judge for matches in some cases.
 -   Check what's going on in [General Development](http://osu.ppy.sh/forum/2). This is a low activity forum where more [serious](http://osu.ppy.sh/forum/t/58855) [projects](http://osu.ppy.sh/forum/t/80027) [happen](http://osu.ppy.sh/forum/t/79354).
