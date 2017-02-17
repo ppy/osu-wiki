@@ -1,20 +1,25 @@
+Hit Objects - Korean
+========================
+
 히트 오브젝트는 osu! 플레이의 중심이라고 봐도 됩니다. 이 히트 오브젝트에는 세가지의 종류가 있는데 :
 
--   [히트 서클](KO:Hit_Circle "wikilink")
--   [슬라이더](KO:Slider "wikilink")
--   [스피너](KO:Spinner "wikilink")
+-   [히트 서클](/wiki/Glossary)
+-   [슬라이더](/wiki/Glossary)
+-   [스피너](/wiki/Glossary)
 
 히트 서클과 슬라이더는 맵에서 매우 많이 볼수 있지만 스피너는 가끔씩만 나옵니다. 비트맵 플레이중 보이는 모든 것들을 통틀어서 히트 오브젝트라고 합니다.
 
 히트 서클
 ---------
 
-<img src="Hit_circle.png" title="fig:A hit circle in the default skin." alt="A hit circle in the default skin." width="100" /> [DS 게임들에서는](KO:Glossary#DS_games "wikilink") 히트 마커라고 불렀던 것들입니다. 동그라미 중간에 해당 [콤보](KO:Glossary#Combo "wikilink") 숫자에 따라서 숫자가 적혀있습니다. 이 주위에([어프로치 서클이](KO:Glossary#Approach_Circle "wikilink") 생기고 히트 서클로 다가오는데 이 두개가 겹칠때 히트 서클을 [눌러주셔야](KO:Glossary#Tap "wikilink") 합니다 , 서클을 누른 정확도에 따라 (50,100,300)점중 하나를 획득하게 됩니다, 또한 해당 서클이 해당 콤보의 마지막 서클이였다면 [Beat!](KO:Score#Katu "wikilink") 또는 [Elite Beat!을](KO:Score#Elite_Beat! "wikilink") 받을수도 있습니다. Tapping regular Hit Circles gives a very small boost to the [Life Bar](KO:Glossary#Life_Bar "wikilink"), and a good boost if it is a end combo circle.
+![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
+
+[DS 게임들에서는](/wiki/Glossary) 히트 마커라고 불렀던 것들입니다. 동그라미 중간에 해당 [콤보](/wiki/Glossary) 숫자에 따라서 숫자가 적혀있습니다. 이 주위에([어프로치 서클이](/wiki/Glossary) 생기고 히트 서클로 다가오는데 이 두개가 겹칠때 히트 서클을 [눌러주셔야](/wiki/Glossary) 합니다 , 서클을 누른 정확도에 따라 (50,100,300)점중 하나를 획득하게 됩니다, 또한 해당 서클이 해당 콤보의 마지막 서클이였다면 [Beat!](/wiki/Score) 또는 [Elite Beat!을](/wiki/Score#Elite_Beat!) 받을수도 있습니다. Tapping regular Hit Circles gives a very small boost to the [Life Bar](/wiki/Glossary), and a good boost if it is a end combo circle.
 
 슬라이더
 --------
 
-<img src="Slider2.jpg" title="fig:A slider in the default skin." alt="A slider in the default skin." width="200" />
+![A slider in the default skin.](Slider2.jpg "A slider in the default skin.")
 
 슬라이더는 두개의 히트 서클 사이를 잇는 직선 또는 베지어 곡선으로 이루어져 있습니다. An Approach Circle is around the beginning Hit Circle of the Slider. Once the Approach Circle reaches its border, the player must tap the beginning of the Slider and then, keeping the button pressed, follow (with his cursor) a moving graphical image \[called Slider Ball - An graphic (ball-shaped by default) that moves along a Slider's path based on BPM and Slider Velocity given by the mapper\] along the Slider's path until the end Hit Circle is reached. If there is a reverse arrow graphic at that point, the player follows the Slider Ball back along the same path and repeats as long as a reverse arrow graphic is visible.
 
@@ -25,6 +30,8 @@
 Spinner
 -------
 
-<img src="Spinner.jpg" title="fig:A spinner in the default skin." alt="A spinner in the default skin." width="200" /> A Spinner is a circle that takes up the entire height of the play area and has a [Spinner Metre](KO:Glossary#Spinner_Metre "wikilink") on either side. A large circular outline similar to a [Approach Circle](KO:Glossary#Approach_Circle "wikilink") appears on the Spinner’s border and gradually converges on its centre. The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. The Spinner is cleared if all the levels of the Spinner Metre are filled before its Approach Circle reaches the centre. Depending on the difficulty settings of each [beatmap](KO:Glossary#Beatmap "wikilink"), a different number of spins are required to fill each level of the Spinner Metre (worth 100 points). If the player fills the Spinner Metre before the Approach Circle reaches the Spinner’s centre, each additional spin before time runs out will award the player with 1,000 bonus points (each receiving a bonus multiplier depending on the player’s current [Combo](KO:Combo "wikilink")). Spinning a Spinner provides a continuous minor boost to the [Life Bar](KO:Glossary#Life_Bar "wikilink") depending on the spinning speed.
+![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
+
+A Spinner is a circle that takes up the entire height of the play area and has a [Spinner Metre](/wiki/Glossary) on either side. A large circular outline similar to a [Approach Circle](/wiki/Glossary) appears on the Spinner’s border and gradually converges on its centre. The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. The Spinner is cleared if all the levels of the Spinner Metre are filled before its Approach Circle reaches the centre. Depending on the difficulty settings of each [beatmap](/wiki/Glossary), a different number of spins are required to fill each level of the Spinner Metre (worth 100 points). If the player fills the Spinner Metre before the Approach Circle reaches the Spinner’s centre, each additional spin before time runs out will award the player with 1,000 bonus points (each receiving a bonus multiplier depending on the player’s current [Combo](/wiki/Glossary)). Spinning a Spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
 
 **정보:** 현재 osu! 기본 스킨 \[osu! by peppy\] 는 스피너에 어프로치 서클과 스피너 게이지가 없습니다만, 구 버전 스킨 \[osu!default by peppy\] 에는 둘다 있습니다.
