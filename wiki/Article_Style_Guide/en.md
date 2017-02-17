@@ -3,7 +3,7 @@
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All articles should use plain English.
-Your word choice should explain such things in layman's terms (basically, ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
+Your word choice should explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
@@ -309,11 +309,21 @@ GFM is Markdown which is basically a subset of HTML that contains:
 - `code` (inline and block)
 - order lists
 - bulleted lists
-- simple tables
 - images
 
-As it _does_ support a few HTML tags, osu!wiki articles will not be using them.
+With GFM, we can also use:
+
+- simple tables
+
+As Markdown and GFM _does_ support a few HTML tags, osu!wiki articles will not be using them.
 This is to maintain consistency between articles.
+
+### Can I use inline styles?
+
+No.
+
+As stated in the section above, Markdown and GFM is already a simple markup langauge.
+Only containing a few styles, those styles listed above will help maintain consistency in layout and format between articles.
 
 ### Help!
 
