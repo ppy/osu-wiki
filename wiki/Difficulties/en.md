@@ -1,10 +1,12 @@
+Difficulty appropriate gameplay elements
+==========================================
 
 Star Rating and Web Icons
 -------------------------
 
 ![Star Rating Range](SR_range.png "Star Rating Range")
 
--   From the [Ranking Criteria](Ranking_Criteria):
+-   From the [Ranking Criteria](/wiki/Ranking_Criteria):
     -   Below 1.5: Easy ![Easy](/wiki/shared/Easy-s.png "Easy")
     -   Below 2.25: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
     -   Below 3.75: Hard ![Hard](/wiki/shared/Hard-s.png "Hard")
@@ -13,10 +15,10 @@ Star Rating and Web Icons
 
 This is the range that decides which Web Icons are used depending on the star rating of any given map. Following the icon range is a good estimate to achieve a balanced difficulty spread. There are some guidelines you can follow to improve the difficulty spread of your mapset.
 
-[Standard](Standard) difficulty spreads
+[Standard](/wiki/Game_Modes/osu!) difficulty spreads
 --------------------------------------------------
 
-From the [Ranking Criteria](Ranking_Criteria):
+From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 "**The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.**"
 
@@ -47,7 +49,7 @@ A good difficulty spread is **more than just Star Rating and Web Icons**! Howeve
 Example Taiko Spreads
 ---------------------
 
-From the [Ranking Criteria](Ranking_Criteria "wikilink"):
+From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 -   **The difficulties in the mapset must be in a consecutive order.** Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.
 -   **A mapset cannot have just one Taiko difficulty.** If you decide to include Taiko in your map, make sure you have at least 2 Taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty.
@@ -146,4 +148,4 @@ Rest moments in Taiko
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers / players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](T-Aiko! "wikilink")** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers / players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](/wiki/Game_Modes/External_Ports/T-Aiko/Old)** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
