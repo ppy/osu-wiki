@@ -158,6 +158,13 @@ When listing items of 3 or more in a sentence, use the serial comma.
 
 - The game modes of osu!: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
 
+## Emphasizing
+
+When you need to emphasize something (such as warning someone not to do something or note its importantance), do **not** use capital letters for emphases.
+Instead, use **bold**, _italics_, or **_both_**.
+
+For example, don't `Do NOT contact peppy for ingame issues!` but do `Do **not** contact peppy for ingame issues!`
+
 ## Code
 
 Use code (inline) when noting:
@@ -177,7 +184,7 @@ Use code (inline) when noting:
 
 When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 
-When naming a file extension, add a period (`.`) then the file extension in lower cased letters.
+When naming a file extension, add a period (`.`) then the file extension in lower case letters.
 
 ## Links
 
