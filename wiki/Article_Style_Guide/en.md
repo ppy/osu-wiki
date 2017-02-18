@@ -283,6 +283,7 @@ If you need help making a complicated table, try to see if you can improvise a s
   - `approach circles`
   - `slider ticks`
   - `slider ball`
+  - `slider path`
 
 ## FAQ
 
