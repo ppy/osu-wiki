@@ -78,9 +78,9 @@ See [Rhythm](./Rhythm/) for more details.
 
 ### Jump Techniques
 
-See [Jump](./Jump) for more details.
+See [Jump](./Jump/) for more details.
 
-#### Hitcircle Jumps
+#### Hit Circle Jumps
 
 1. [Large Jumps](./Jump/Large_Jumps/)
 2. [Oibon Jumps](./Jump/Oibon_Jumps/)
@@ -96,24 +96,24 @@ See [Jump](./Jump) for more details.
 
 ### Unrankable Techniques
 
-See [Unrankable](./Unrankable) for more details.
+See [Unrankable](./Unrankable/) for more details.
 
 1. [Hold Sliders](./Unrankable/Hold_Sliders/)
 2. [Burai Sliders](./Unrankable/Burai_Sliders/)
 3. [Stack Zero](./Unrankable/Stack_Zero/)
 4. [Ninja Spinners](./Unrankable/Ninja_Spinners/)
 
-### Hitcircle Techniques
+### Hit Circle Techniques
 
-See [Hitcircle](./Hitcircle) for more details.
+See [Hit Circle](./Hit_Circle/) for more details.
 
 #### Patterns
 
-1. [Double Stacks](./Hitcircle/Double_Stacks/)
+1. [Double Stacks](./Hit_Circle/Double_Stacks/)
 
 ### Slider Techniques
 
-See [Slider](./Slider) for more details.
+See [Slider](./Slider/) for more details.
 
 #### Stylish Techniques
 

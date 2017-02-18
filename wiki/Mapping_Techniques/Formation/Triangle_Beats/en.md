@@ -6,8 +6,8 @@ _Also known as: **Triangle Formation**_
 
 Nominator: [kingcobra52](https://osu.ppy.sh/u/9934)
 
-This is a very common mapping technique where 3 hitcircles are arranged in a triangle.
-The order of the 3 hitcircles nor the size of the triangle does not matter.
+This is a very common mapping technique where 3 hit circles are arranged in a triangle.
+The order of the 3 hit circles nor the size of the triangle does not matter.
 
 ## Examples
 

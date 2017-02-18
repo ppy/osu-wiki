@@ -4,7 +4,7 @@
 
 Nominator: [Xgor](https://osu.ppy.sh/u/98661)
 
-A Star Formation is a 5 pointed star, using 5 or 6 hitcircles (the sixth one would usually be placed underneath the first point to complete the star).
+A Star Formation is a 5 pointed star, using 5 or 6 hit circles (the sixth one would usually be placed underneath the first point to complete the star).
 The star can visually appear by following the followpoints.
 
 Star Formations can be used to make jumps.

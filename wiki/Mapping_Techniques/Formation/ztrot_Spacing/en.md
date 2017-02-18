@@ -8,11 +8,11 @@ Nominator: JarJarJacob
 
 ztrot Spacing uses consistant beats placed in a circle-like shape.
 The distance between each note increases, then decreases.
-The following hitcircles will always be on opposite sides of the "circle".
+The following hit circles will always be on opposite sides of the "circle".
 
 It is recommended to do this with half (or more) beats apart from each other.
 
-After the "circle" is completed, a few more hitcircles are placed to go straight through it.
+After the "circle" is completed, a few more hit circles are placed to go straight through it.
 
 ## Examples
 

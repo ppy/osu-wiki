@@ -4,7 +4,7 @@
 
 Nominator: Beuchi-chan
 
-Basically, this is 4 hitcircles forming a square shape.
+Basically, this is 4 hit circles forming a square shape.
 These usually have some space between each other.
 The square can be angled to form a diamond.
 The order of the combos forces the player to go along the square rather than through it.
