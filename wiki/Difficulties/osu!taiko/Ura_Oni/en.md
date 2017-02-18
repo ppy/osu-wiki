@@ -1,3 +1,6 @@
+Ura Oni
+=========
+
 **Inner Oni** and **Ura Oni** are just an extra **Oni** and equal to it. In most cases these difficulties are harder as the common Oni and appear when a *Taiko-Set* is able to carry a harder difficulty. In such cases, the Ura/Inner is the real "Oni" while the Oni is just a filler for having a better spread. The word *Inner* or *Ura* means "Hidden", which are the Hidden Onis in the arcade game.
 
 Guidelines
@@ -8,8 +11,12 @@ These difficulties are **equal to Oni**, yet, are considered as extra Oni and re
 Examples
 --------
 
+[Zeami - Music Revolver (Inner Oni) (KanaRin)](http://osu.ppy.sh/b/162520)
+
 -   The Inner Oni is the "real" Oni in this map-set.
 -   The Oni is only an addition for lower players.
+
+[Hatsune Miku - Hatsune Miku no Shoushitsu -Gekijouban- (Inner Oni) (mint_ong89)](http://osu.ppy.sh/b/158904)
 
 -   The Inner Oni is the "real" Oni in this map-set.
 -   The Oni is only an addition for lower players.

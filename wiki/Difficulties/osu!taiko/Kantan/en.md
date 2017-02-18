@@ -1,4 +1,7 @@
-A **Kantan** difficulty is, in general, the entry point for new players who come for the first time with the game [Taiko](Taiko) in touch. That means, these people are not familiar with the game and need to learn the basics of it: **How to hit the notes** and facing for the first time **easy pattern constellations**. To achieve this, you have to map mostly(not only) independently of the songs beat or vocal, since these are often used uneven which the beginner can't handle well enough. In that meaning: Typical for a Kantan is the usage of 1/1 notes and 2/1 spaces or above, which gives the new player the possibility to prepare himself for the next patterns.
+Kantan
+==========
+
+A **Kantan** difficulty is, in general, the entry point for new players who come for the first time with the game [Taiko](/wiki/Game_Modes/osu!taiko) in touch. That means, these people are not familiar with the game and need to learn the basics of it: **How to hit the notes** and facing for the first time **easy pattern constellations**. To achieve this, you have to map mostly(not only) independently of the songs beat or vocal, since these are often used uneven which the beginner can't handle well enough. In that meaning: Typical for a Kantan is the usage of 1/1 notes and 2/1 spaces or above, which gives the new player the possibility to prepare himself for the next patterns.
 
 Guidelines
 ----------
@@ -16,6 +19,8 @@ And try to avoid these:
 
 Examples
 --------
+
+[PON & Makino Mizuta - WO AI NI (Kantan) (MMzz)](http://osu.ppy.sh/b/284900)
 
 -   Mostly a usage of **monotonically patterns.**
 -   Easy beat-wise mapping at 00:02:951 (4) - with a big space afterwards.
