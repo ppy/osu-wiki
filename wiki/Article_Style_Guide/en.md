@@ -158,12 +158,23 @@ When listing items of 3 or more in a sentence, use the serial comma.
 
 - The game modes of osu!: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
 
+### Contractions
+
+Contractions are a shortened form of a word or group of words.
+In the osu!wiki, contractions are **heavily** discouraged.
+This is to keep a formal tone in the osu!wiki.
+
+For example, use:
+
+- `Do not` instead of `Don't`
+- `You will` instead of `You'll`
+
 ## Emphasizing
 
-When you need to emphasize something (such as warning someone not to do something or note its importantance), do **not** use capital letters for emphases.
+When you need to emphasize something (such as warning someone not to do something or note its importance), do **not** use capital letters for emphases.
 Instead, use **bold**, _italics_, or **_both_**.
 
-For example, don't `Do NOT contact peppy for ingame issues!` but do `Do **not** contact peppy for ingame issues!`
+For example, instead of `Do NOT contact peppy for ingame issues!` use `Do **not** contact peppy for ingame issues!`
 
 ## Code
 
@@ -291,6 +302,13 @@ If you need help making a complicated table, try to see if you can improvise a s
   - `slider ticks`
   - `slider ball`
   - `slider path`
+  - `hit burst`
+  - `game mode` (or just `mode`)
+  - `game mod` (or just `mod`)
+  - `play style`
+  - `hit sound`
+- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
+- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity
 
 ## FAQ
 
