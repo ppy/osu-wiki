@@ -60,20 +60,22 @@ Click on the `Discussion` button to show the options available.
 _Replay with discussion options in view_
 
 Click on `Show Comments` to enable flowing comments regarding the beatmap(set) at the middle of the screen.
-Click on `Click to add a comment at the current time!` to comment on the current difficulty/beatmap.
-The replay will be paused, darken, and with an osu!logo at the foreground center until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
+Active osu!supporter will have an extra `Colour` button which allows new comment to be coloured.
 
 ![Adding a comment by a player/mapper][Replay discussion comment]
 
 _Making a comment_
 
-To filter the comments by difficulty, enable `Difficulty (#)`.
-To filter the comments by the overall beatmapset, enable `Song (#)`.
-When watching a top play from the _Global leaderboard_, enable `Player (#)` to show comments from the player itself.
+Click on `Click to add a comment at the current time!` to comment on the current difficulty/beatmap.
+The replay will be paused, darken, and with an osu!logo at the foreground center until the comment was completed (usually, `Enter` key) or cancelled (usually, `Esc` key).
 
 ![Replay with discussion enabled][Replay discussion example]
 
 _Commentary by the community at the middle, mapper at the top in blue_
+
+To filter the comments by difficulty, enable `Difficulty (#)`.
+To filter the comments by the overall beatmapset, enable `Song (#)`.
+When watching a top play from the _Global leaderboard_, enable `Player (#)` to show comments from the player itself.
 
 Mapper's comment will be placed above the flowing comments with a light-blue text and an jump-out/jump-in animation instead.
 Depending on resolution, it may be obstructed by a **UNRANKED** notice when watching an Auto replay.
@@ -81,21 +83,7 @@ To remove the **UNRANKED** notice, either watch a top replay from the _Global le
 
 When watching a top replay, the player of the replay's comment(s) will be shown _below_ the screen instead, and will only be shown in this replay only.
 
-The colour of the comment status will be based on profile's current group by time of writing.
-
-Possible text colour and comment status are as below:-
-
-<!-- TODO: No idea. -->
-Colour (size) | Comment status
----|---
-Light Blue (medium) | Mapper
-White (small) | Normal
-Yellow (medium) | osu!supporter
-Orange (medium) | ?
-Red (large) | ?
-Blue (medium) | ?
-Green (medium) | ?
-others (medium) | ?
+By default without active osu!supporter, comments will be coloured based on chat colour (normal accounts will be white) except for mapper's comment(s) (light-blue). 
 
 ### Collections
 
