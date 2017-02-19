@@ -122,7 +122,18 @@ When referring the name of a language, capitalize the first letter of that langu
 
 - The #spanish chat channel are for those who speak **Spanish**.
 
-Chat channel names are exempt from this and are to use lowercase letters.
+##### Chat Channels
+
+The chat channel names are to use lowercase letters.
+For example:
+
+- `#spanish`
+- `#french`
+- `#highlight`
+- `#multiplayer`
+- `#userlog`
+
+The private chat channel names will use the letter casing as they appear.
 
 #### Abbreviations
 
