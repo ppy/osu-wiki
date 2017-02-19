@@ -7,7 +7,7 @@ Your word choice should explain such things in layman's terms (basically ask you
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
-A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure for the best for an osu!wiki reader.
+A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure the most optimal experience for an osu!wiki reader
 
 ## GFM
 
