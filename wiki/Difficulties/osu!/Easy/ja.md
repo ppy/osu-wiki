@@ -1,15 +1,18 @@
-Easy [difficulties](JP:Song_Setup#Difficulty) are easy to make once you get the hang of it. First off, start with the following recommended difficulty settings:
+Easy (Difficulty) - Japanese
+==============================
+
+Easy [difficulties](/wiki/Beatmap_Editor/Song_Setup) are easy to make once you get the hang of it. First off, start with the following recommended difficulty settings:
 
 -   HP Drain: 4以下
 -   Circle Size: 2か3
 -   Approach Rate: 4以下
 -   Overall Difficulty: 4以下
 
-今ほとんどのEasyは[Distance Snapが使用されています](JP:Distance_Snap)。なのでまずは **1拍離れた時点において、他のヒットサークルが重ならない距離に設定を調節します。** 初心者は重なっているヒットサークルがある時、読みにくいと感じます。重複せずに隣に置くだけならば問題はありません。
+今ほとんどのEasyは[Distance Snapが使用されています](/wiki/Beatmap_Editor/Distance_Snap)。なのでまずは **1拍離れた時点において、他のヒットサークルが重ならない距離に設定を調節します。** 初心者は重なっているヒットサークルがある時、読みにくいと感じます。重複せずに隣に置くだけならば問題はありません。
 
-[JP:Beat Snap Divisorを](JP:Beat_Snap_Divisor)1/1にセットし、サークルを選択してから曲を流し始め、曲に合わせてサークルを置き始めてください。
+[Beat Snap Divisorを](/wiki/Beatmap_Editor/Beat_Snap_Divisor)1/1にセットし、サークルを選択してから曲を流し始め、曲に合わせてサークルを置き始めてください。
 
-メインのリズムはそれぞれのBeatに置くべきです。[ダウンビートで始まり](JP:Timing)、各Beatにヒットサークルを置くことで始まります。しかしそれは退屈で眠くなるかもしれません。なので少しそれを飾り、死ぬほど退屈な状態からの脱却を試みてください。
+メインのリズムはそれぞれのBeatに置くべきです。[ダウンビートで始まり](/wiki/Beatmap_Editor/Timing)、各Beatにヒットサークルを置くことで始まります。しかしそれは退屈で眠くなるかもしれません。なので少しそれを飾り、死ぬほど退屈な状態からの脱却を試みてください。
 
 それをする3つの方法があります
 

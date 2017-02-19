@@ -1,3 +1,6 @@
+Easy (Difficulty) - Indonesian
+===================================
+
 Kesulitan Easy mudah untuk dilakukan begitu anda telah terbiasa. Pertama-tama, mulai dengan pengaturan kesulitan yang direkomendasikan berikut ini:
 
 -   HP Drain (penguras HP): 4 atau kurang
@@ -6,11 +9,11 @@ Kesulitan Easy mudah untuk dilakukan begitu anda telah terbiasa. Pertama-tama, m
 -   Overall difficulty (kesulitan keseluruhan) : 4 atau kurang
 -   Slider velocity (kecepatan peluncur) : 1.00x atau kurang
 
-Sekarang, anda akan memerlukan [Distance Snap](ID:Distance_Snap) untuk kebanyakan Easy. Jadi, '''atur ''distance snap multiplier supaya *hit circles hanya terpisah satu beat, tidak menindih satu sama lain.*' Untuk circle 4 seharusnya bisa dengan distance snap 5. Pemain baru sering menemukan *hit circles* yang saling menindih satu sama lain seperti itu sulit untuk di baca. keseringan, hanya membuat mereka berada di samping satu sama lain tanpa bertindihan sudah cukup bagus.
+Sekarang, anda akan memerlukan [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) untuk kebanyakan Easy. Jadi, '''atur ''distance snap multiplier supaya *hit circles hanya terpisah satu beat, tidak menindih satu sama lain.*' Untuk circle 4 seharusnya bisa dengan distance snap 5. Pemain baru sering menemukan *hit circles* yang saling menindih satu sama lain seperti itu sulit untuk di baca. keseringan, hanya membuat mereka berada di samping satu sama lain tanpa bertindihan sudah cukup bagus.
 
-Atur [Beat Snap Divisor](ID:Beat_Snap_Divisor) menjadi 1/1, lalu pilih lingkarannya dan tekan *play* dan mulai tempatkan lingkaran-lingkaran pada saat yang tepat sesuai dengan musiknya.
+Atur [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) menjadi 1/1, lalu pilih lingkarannya dan tekan *play* dan mulai tempatkan lingkaran-lingkaran pada saat yang tepat sesuai dengan musiknya.
 
-Sekarang, ritme utamamu di sini adalah *beat* yang lainnya. awali dengan [downbeat](ID:Timing) dan mulai menempatkan *hit circle* di *beat* yang lainnya. Namun, anda akan menemukan bahwa ini membosankan dan membuatmu ingin tidur. Ini mengapa kita kembali dan mengedit berbagai hal untuk merapikan berbagai hal sedikit supaya para pemain tidak mati kebosanan. Kau akan perlu melakukan 3 hal:
+Sekarang, ritme utamamu di sini adalah *beat* yang lainnya. awali dengan [downbeat](/wiki/Beatmap_Editor/Timing) dan mulai menempatkan *hit circle* di *beat* yang lainnya. Namun, anda akan menemukan bahwa ini membosankan dan membuatmu ingin tidur. Ini mengapa kita kembali dan mengedit berbagai hal untuk merapikan berbagai hal sedikit supaya para pemain tidak mati kebosanan. Kau akan perlu melakukan 3 hal:
 
 Tepat pada irama
 ----------------
