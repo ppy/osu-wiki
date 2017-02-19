@@ -249,6 +249,11 @@ If you are using the reference style linking, it is sugguested to place the refe
 When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
 
+### Section Linking
+
+Section linking in the osu!wiki does not work as of now.
+Do not attempt to section link.
+
 ### Beatmaps
 
 Whenever you are linking to a beatmap, use this format as the link text:
