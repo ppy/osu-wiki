@@ -1,7 +1,7 @@
 # osu-wiki
 [osu! on the web](https://osu.ppy.sh) | [dev chat](https://discord.gg/ppy)
 
-future home of osu!wiki
+The future home of osu!wiki
 
 ## Requirements
 
