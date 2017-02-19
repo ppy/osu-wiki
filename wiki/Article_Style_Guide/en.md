@@ -182,6 +182,12 @@ For example, use:
 - `Do not` instead of `Don't`
 - `You will` instead of `You'll`
 
+### Point of View
+
+When refering to the player, use `the player` or `a player`.
+**Never** use `he`/`his` or `she`/`her's`!
+Instead, use `they`/`their's`.
+
 ## Emphasizing
 
 When you need to emphasize something (such as warning someone not to do something or note its importance), do **not** use capital letters for emphases.
@@ -321,4 +327,7 @@ If you need help making a complicated table, try to see if you can improvise a s
   - `play style`
   - `hit sound`
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
-- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity
+- The term `Beatmap` may refer to a `Beatmapset`
+  - to prevent ambiguity, use:
+    - `Beatmap` when refering to the specific difficulty
+    - `Beatmapset` when refering to the set of beatmaps (beatmapset = same song mapped by same user)
