@@ -120,7 +120,9 @@ Other examples may include:
 
 When referring the name of a language, capitalize the first letter of that language.
 
-- The **#Spanish** chat channel are for those who speak **Spanish**.
+- The #spanish chat channel are for those who speak **Spanish**.
+
+Chat channel names are exempt from this and are to use lowercase letters.
 
 #### Abbreviations
 
