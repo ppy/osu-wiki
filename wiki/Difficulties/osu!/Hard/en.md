@@ -1,9 +1,12 @@
+Hard
+========
+
 Summary
 -------
 
 Hard difficulties are considered the second most difficult in the general of 4 difficulty mapset. This difficulty level between normal and hard difficulty is considered enormous and is considered by many one of the hardest learning curves.
 
-These maps generally have a higher [approach rate](approach_rate), [HP drain](HP_drain) rate and [overall difficulty](overall_difficulty) compared with [Normal](Normal) difficulties. More complex/difficult patterns also appear in this difficulty such as short [streams](streams) and [jumps](jumps). Depending on the mapper's ability and the song used, this name will be used instead of Insane, based on mapper's relative comparison on testplay results.
+These maps generally have a higher [Approach Rate](/wiki/Beatmap_Edtior/Song_Setup), [HP Drain](/wiki/Beatmap_Edtior/Song_Setup) rate and [Overall Difficulty](/wiki/Beatmap_Edtior/Song_Setup) compared with [Normal](/wiki/Difficulties/osu!/Normal) difficulties. More complex/difficult patterns also appear in this difficulty such as short [streams](/wiki/Mapping_Techniques/Streams) and [jumps](/wiki/Mapping_Techniques/Jumps). Depending on the mapper's ability and the song used, this name will be used instead of Insane, based on mapper's relative comparison on testplay results.
 
 If your map has a Hard difficulty you should try to keep the map considerably easier than the Insane. (Avoid big jumps and fast/long streams)
 
@@ -21,7 +24,7 @@ Difficulty setup should include a BPM appropriate slider velocity that captures 
 And try to avoid these:
 
 -   extremely long streams
--   fullscreen jump patterns ([Jumps](Jumps) that are wide as the screen)
+-   fullscreen jump patterns ([Jumps](/wiki/Mapping_Techniques/Jumps) that are wide as the screen)
 
 Setup
 -----
