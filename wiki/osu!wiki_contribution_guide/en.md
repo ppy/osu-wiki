@@ -861,42 +861,33 @@ The osu!wiki is in a process of being moved over to GitHub.
 This is because MediaWiki (the engine that the old osu!wiki ran on) has many performance issues.
 The old osu!wiki also had no solution to prevent spam.
 
-### What are the differences between GitHub and MediaWiki osu!wiki?
-
-osu!wiki will be ran like a git repo (repository).
-This means that _anyone_ can suggest changes to the master branch using a pull request.
-However, unlike MediaWiki osu!wiki, this process requires a member of the osu-wiki repo to merge changes.
-
-This also allows reviewers to find errors and myths in your edits before sending it off to the live osu!wiki.
-
-On the other hand, GitHub osu!wiki does not support templates!
-This means that you will have to copy a section of text on other articles instead of having them in one place.
-
-Linking is managed manually and any typos in the link can cause it to 404 (link to nowhere).
-Images links and sizes are handled manually as well.
-
-
 ### How would this differ from the old wiki (running on MediaWiki)?
 
-- osu!wiki will be ran like a git repo (repository).
-  You can make mass changes easily and efficiently, and you can delay your changes for as long as you like.
-  - Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed for errors and myths before merging by someone with write permission to the master branch.
-    This adds a layer of security against spammers and vandals.
-- All linking must be done manually, and must be done using strict static linking without any filepath errors.
-  - **Any typos in the link** will cause **Error 404 (content not found; link to nowhere because of nonexistent file)**.
-  - **No section anchors**.
-  - **No redirects**.
-    - It is a known issue since it requires specific configuration from osu!web part and no formulated syntax support to redirect ``DT`` keyword to ``Game_Modifier#-double-time`` section of the page rather than to the top of the ``Game_Modifiers`` page, for now.
-- **No Templates**.
-  - You must duplicate the template and paste it accordingly with changes to the article you are editing.
-- Addition, deletion, moving, and renaming of media is easier and requires no special wiki function (except for moving files/folders and renaming folders, which requires Git usage).
-  - However, this has to undergo the pull request protocol.
-  - While osu!wiki will resize images to the width size limit if the image is too large, specific media size requirements must be handled manually.
-- Tables are supported by a bare-minimum with GFM (without extensions), unlike MediaWiki.
-  However, this does mean we may need to code some tables with HTML for extreme cases.
-- Markdown is sensitive.
-  - Using the wrong capitalization in links can break them (i.e. links and images).
-  - Newline spacing errors for lists or tables may cause the Markdown parser to be confused and not parse the part.
+osu!wiki will be ran like a git repo (repository).
+You can make mass changes easily and efficiently, and you can delay your changes for as long as you like.
+Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed for errors and myths before merging by someone with write permission to the master branch.
+This adds a layer of security against spammers and vandals.
+
+All linking must be done manually, and must be done using strict static linking without any filepath errors.
+
+A few things to take note when linking:
+
+- **Any typos in the link** will cause **Error 404 (content not found; link to nowhere because of nonexistent file)**.
+- **No section anchors**.
+- **No redirects**.
+  - It is a known issue since it requires specific configuration from osu!web part and no formulated syntax support to redirect ``DT`` keyword to ``Game_Modifier#-double-time`` section of the page rather than to the top of the ``Game_Modifiers`` page, for now.
+
+Addition, deletion, moving, and renaming of media is easier now and requires no special wiki function (except for moving files/folders and renaming folders, which requires Git usage).
+However, this has to undergo the pull request protocol.
+While osu!wiki will resize images to the width size limit if the image is too large, specific media size requirements must be handled manually.
+
+The most damaging change for pages that use it liberally would be **no Templates support**.
+You must manually duplicate the template and paste it accordingly with proper changes to the article you are editing, _on every language file_.
+
+Tables are supported by a bare-minimum with GFM (without extensions), unlike MediaWiki.
+
+Markdown is sensitive, as using the wrong capitalization in links can break them (i.e. links and images).
+Newline spacing errors for lists or tables may cause the Markdown parser to be confused and not parse the part.
 
 ## Conclusion
 
