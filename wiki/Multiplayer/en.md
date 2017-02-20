@@ -1,7 +1,7 @@
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/Announcements/osu!academy "osu!academy"
-[Chat_Console wikilink]: /wiki/Chat_Console "Chat Console"
-[Chat_Console#Extended_Chat_Console wikilink]: /wiki/Chat_Console "more info can be found on Chat Console under Extended Chat Console"
+[Chat Console wikilink]: /wiki/Chat_Console "Chat Console"
+[Chat_Console#Extended_Chat Console wikilink]: /wiki/Chat_Console "more info can be found on Chat Console under Extended Chat Console"
 [Beatmaps2 wikilink]: /wiki/Beatmaps "more info can be found on Beatmaps under How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter "osu!supporter"
 [BanchoBot wikilink]: /wiki/BanchoBot "BanchoBot"
@@ -21,34 +21,36 @@
 
 <!-- Image links used -->
 [Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction."
-[Multi_lobby image]: ./Multi_lobby.jpg "Example of a typical day in the Multiplayer Lobby"
-[Multi_new_game image]: ./Multi_new_game.jpg "Setting up configuration for a New Game"
-[Multi_roomhost image]: ./Multi_roomhost.jpg "Example of Host Match Setup"
-[Multi_roomplayer image]: ./Multi_roomplayer.jpg "Example of Player Match Setup (With Free Mods on)"
-[Multi_mods_host image]: ./Multi_mods_host.jpg "Host (osu!) mods options"
-[Multi_mods_player image]: ./Multi_mods_player.jpg "Player (osu!) mods options (With Free Mods on)"
-[Multi_host_song_change image]: ./Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
-[Multi_SS image]: ./Multi_SS.jpg "Example of how the Song Selection will look like for host."
-[Multi_mh_single image]: ./Multi_mh_single.jpg "Example of Match History."
-[Multi_mh_team image]: ./Multi_mh_team.jpg "Example of Team Match History."
+[Multi_lobby image]: ./img/Multi_lobby.jpg "Example of a typical day in the Multiplayer Lobby"
+[Multi_new_game image]: ./img/Multi_new_game.jpg "Setting up configuration for a New Game"
+[Multi_roomhost image]: ./img/Multi_roomhost.jpg "Example of Host Match Setup"
+[Multi_roomplayer image]: ./img/Multi_roomplayer.jpg "Example of Player Match Setup (With Free Mods on)"
+[Multi_mods_host image]: ./img/Multi_mods_host.jpg "Host (osu!) mods options"
+[Multi_mods_player image]: ./img/Multi_mods_player.jpg "Player (osu!) mods options (With Free Mods on)"
+[Multi_beatmapinfo image]: ./img/Multi_beatmapinfo.jpg "Beatmap information when hovered over."
+[Multi_host_song_change image]: ./img/Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
+[Multi_SS image]: ./img/Multi_SS.jpg "Example of how the Song Selection will look like for host."
+[Multi_mh_single image]: ./img/Multi_mh_single.jpg "Example of Match History."
+[Multi_mh_team image]: ./img/Multi_mh_team.jpg "Example of Team Match History."
 
 <!-- Team Mode images -->
-[HTH Interface image]: ./Multi_HTH.jpg "Head-to-Head Interface"
-[Team Vs Interface image]: ./Multi_team_vs.jpg "Team Vs Interface"
-[Tag Coop Interface image]: ./Multi_tag_co-op.jpg "Tag Coop Interface"
-[Tag Team Vs Interface image]: ./Multi_tag_team_vs.jpg "Tag Team Vs Interface"
-[HTH Grade image]: ./Multi_grade.jpg "Head-to-Head grade screen"
-[Team Vs Grade image]: ./Multi_team_grade.jpg "Team Vs grade screen"
-[Tag Coop Grade image]: ./Multi_co-op_grade.jpg "Team Co-Op grade screen"
-[Tag Team Vs Grade image]: ./Multi_tag_team_grade.jpg "Tag Team Vs grade screen"
+[HTH Interface image]: ./img/Multi_HTH.jpg "Head-to-Head Interface"
+[Team Vs Interface image]: ./img/Multi_team_vs.jpg "Team Vs Interface"
+[Tag Coop Interface image]: ./img/Multi_tag_co-op.jpg "Tag Coop Interface"
+[Tag Team Vs Interface image]: ./img/Multi_tag_team_vs.jpg "Tag Team Vs Interface"
+[HTH Grade image]: ./img/Multi_grade.jpg "Head-to-Head grade screen"
+[Team Vs Grade image]: ./img/Multi_team_grade.jpg "Team Vs grade screen"
+[Tag Coop Grade image]: ./img/Multi_co-op_grade.jpg "Team Co-Op grade screen"
+[Tag Team Vs Grade image]: ./img/Multi_tag_team_grade.jpg "Tag Team Vs grade screen"
 
 <!--Title-->
 # Multiplayer
 
 ## Introduction
+
 Multiplayer or _Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
 
-[osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with [Online Users Panel][Chat_Console#Extended_Chat_Console wikilink].
+[osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with [Online Users Panel][Chat_Console#Extended_Chat Console wikilink].
 
 ## How to enter
 
@@ -62,14 +64,16 @@ Multiplayer or _Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [o
 ### Ways to enter
 
 From Main menu,
+
 - Press `Play` then `Multi`; or
 - Press `P` then `M`. (from Keyboard)
 
-If request successful, _osu!_ will be directed to the **lobby**, the core of the Multi-play.
+If the connection request with _Bancho_ was successful, _osu!_ will be directed to the **lobby**, the core of the Multi-play.
 
 ### Notes
 
 Keep in mind that downloading times can range from a few seconds to 15 minutes onwards depending on internet connection.
+
 Losing connection to _Bancho_ will direct _osu!_ back to Main Menu until connection to _Bancho_ has been recovered.
 When playing a match, a "Quit" will be given on the playerbox.
 
@@ -88,11 +92,11 @@ Sort out by game mode or fine-tune the search by filtering or searching for a pl
 Each row contains a Match Setup with its game mode symbol, game mode name (Team Mode), number of players inside/number of players allowed, rank difference from highest to lowest at the left section; large host profile image and smaller players profile image in the Match Setup along with the Match Setup name and the beatmap's name \[difficulty\] to be played for this match at the right section.
 
 Click on the row to enter the Match Setup.
-If the game mode symbol contains a lock, clicking on it will prompt a password request; fill in the Match Setup password correctly, and allowed to enter the locked Match Setup.
+If the game mode symbol contains a lock, clicking on it will prompt a password request; fill in the Match Setup password correctly to enter the locked Match Setup.
 
 A new room can be created by pressing the _New Game_ button, or _Quick Join_ a Match Setup by randomly join a room based on available beatmap.
 
-You can click on the _Back to Menu_ button to return to the Main Menu.
+Click on the _Back to Menu_ button to return to the Main Menu.
 
 ## New game
 
@@ -102,8 +106,8 @@ _Setting up a new game_
 
 Title | Description
 :---: | :---
-**Game Name** | **Name of the room.** Default to {accountname}'s game. Foreign characters allowed (parsed in Unicode). Enable the Require Password to join button to make the Match Setup private.
-**Password** | **Password to enter the room.** Only appears if the Require Password to join button was enabled. Match Setup game mode symbol will be shown with a lock.
+**Game Name**   | **Name of the room.** Default to {accountname}'s game. Foreign characters allowed (parsed in Unicode). Enable the Require Password to join button to make the Match Setup private.
+**Password**    | **Password to enter the room.** Only appears if the Require Password to join button was enabled. Match Setup game mode symbol will be shown with a lock.
 **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the placements.
 
 Press the `1. Start Game` button to create the room with the player as the host of the room and the beatmap playing in the jukebox as the match's beatmap difficulty.
@@ -127,6 +131,7 @@ The top section at the left display the name of the screen, status in the room (
 The bottom section is the [Chat Console][Chat Console wikilink].
 A new tab called \#multiplayer will be opened, with [BanchoBot][BanchoBot wikilink] providing the match history link in the first line (Match history available [here][Match History link]).
 The link is <http://osu.ppy.sh/mp/x> (replace "x" with digits generated by _Bancho_ for this Match Setup), and will be removed after one month.
+
 After a concluded match, result will be displayed at another tab called \#userlog privately (only apply to Head-To-Head Team Mode).
 It should be sent by [BanchoBot][BanchoBot wikilink] with content, `You placed #{placement} of {total} players in multiplayer on {Beatmap} [difficulty] <game mode>.`
 
@@ -158,6 +163,7 @@ Colour (State) | Description
 <!-- Right -->
 On the right side, it shows the key settings of the Match Setup.
 Do note that only the host can change these settings except for Mods when Free Mods was enabled.
+
 Starting from the top is the Game Name, which is self-explanatory.
 The host can change the name or create/change the Match Setup's password by pressing the Change Password button.
 
@@ -171,10 +177,15 @@ _Example of how the Song Selection will look like for host._
 
 The middle section is the Beatmap section.
 This section shows the beatmap to be played for this match.
+
 It will show the image, game mode symbol, the title, artist of the song, beatmapper, difficulty selected and the star rating of the difficulty.
-When hovered, it will show BPM, Length, Last Played, CS, AR, OD, HP, and Stars.
+
+![Information about the beatmap when hovered over][Multi_beatmapinfo image]
+
+_When hovered, it will show BPM, Length, Last Played, CS, AR, OD, HP, and Stars._
 
 If the player does not have the beatmap, some information will be shown, and one of these will occur:-
+
 - If the beatmap was **ranked/approved/pending/graveyard**, player will be directed to the **beatmap page by player's default web browser**.
   If the player has **osu!direct**, it will be **downloaded and extracted automatically upon click**.
 - If the beatmap was **not uploaded or not up-to-date**, it will **not link to the beatmap**.
@@ -227,8 +238,8 @@ Title | Description
 :---:|:---
 **Ready!**                   | Click to enter Ready state (green state). Button will change to Not Ready for players, either Start Game! or Force Start Game! for host if there are players in the Match Setup, Not Ready otherwise.
 **Not Ready**                | Click to return to Not Ready state (white state). Button will change to Ready!
-**Start Game!**              | Host-only button, starts the match. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to Force Start Game! when at least one player pressed the Not Ready button.
-**Force Start Game! (x/\#)** | Host-only button, forcefully ready all players with the beatmap and starts the match. Appears when host press the Ready! button but not all players in the Match Setup pressed the Ready! button (where x is the number of players in Ready! state, and \# is the total players in the Match Setup).
+**Start Game!**              | Host-only button; starts the match. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to Force Start Game! when at least one player pressed the Not Ready button.
+**Force Start Game! (x/\#)** | Host-only button; forcefully ready all players with the beatmap and starts the match. Appears when host press the Ready! button but not all players in the Match Setup pressed the Ready! button (where x is the number of players in Ready! state, and \# is the total players in the Match Setup).
 
 ![match history single][Multi_mh_single image]
 
@@ -271,10 +282,11 @@ If playing Tag Coop/Tag Team Vs, a failed state means immediate match set and to
 A failed or quit player will be placed at the bottom of the leaderboard separately from alive players, and placement changes can still occur among failed/quit players.
 The failed players will not contribute towards the team score as long as they are in the state of failed.
 
-Despite no online score leaderboard at below the results screen, ranked score will still be counted as legitimate ranked entry.
-Result will not be shown at the Local scoreboard.
-The only way to see it is by Online Ranking scoreboard (assuming this score is higher).
-No retry but can be export the replay by pressing `F2` key in keyboard (will not contain any Multi-play elements).
+Despite no online score leaderboard below the results screen, ranked score will still be counted as legitimate ranked entry.
+Result will not be shown at the Local leaderboard.
+The only way to see it is by Online Ranking leaderboard (assuming this score is higher).
+
+No retry allowed but the replay can be exported by pressing `F2` key in keyboard (will not contain any Multi-play elements).
 Do note that this does not apply to Tag Coop and Tag Team Vs (both are unranked), where score will not be recorded and replay cannot be saved.
 
 The leaderboard now shows the players in the match with live placements changes based on Win Condition as shown below:-
@@ -288,7 +300,7 @@ The leaderboard now shows the players in the match with live placements changes 
 - If Score/Score v2: Team's score and hit score are shown in real-time.
 - If Accuracy: Team's accuracy percentage and hit score are shown in real-time.
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
-- If _Failed_: Beatmap stops and automated win for the surviving team.
+- If _Failed_: Match ends and automated win for the surviving team.
 - If _Quit_: [Auto][Auto wikilink] will take over the _Quit_ player.
 
 ### Head-To-Head
@@ -298,19 +310,20 @@ The leaderboard now shows the players in the match with live placements changes 
 
 _Head-To-Head interface_
 
-![Head-to-Head Grade screen][HTH Grade image]
-
-_Head-To Head grade screen_
-
 <!-- Interface -->
 Head-To-Head is a team mode where players duke it all out in a free-for-all Match Setup for the top spot at the leaderboard.
 This is the default team mode to be selected and does not have any special characteristics in play; just go for the top spot.
+
+![Head-to-Head Grade screen][HTH Grade image]
+
+_Head-To Head grade screen_
 
 <!-- Result -->
 At the end of the match, first place player's avatar picture will be shown at the Winner section.
 If the player do not have one, it will simply be blank.
 Grades are now put inside the record like a watermark.
 Other players' results can be checked by pressing their player tab.
+
 Personal match result placement will be privately sent under \#userlog tab of the Chat Console.
 
 ### Team Vs
@@ -319,27 +332,31 @@ Personal match result placement will be privately sent under \#userlog tab of th
 
 _Team Vs interface_
 
-![Team Vs Grade screen][Team Vs Grade image]
-
-_Team Vs grade screen_
-
 <!-- Interface -->
 Team Vs mode pit two teams (Blue/Red) against each other based on Win Condition set.
 Fulfill the Win Condition criteria as closely as possible to reach the top spot in the team, and compete with the other team by team total.
-Blue team members were placed at left side, red team members were placed at right side, and a crown at center shows the current team supremacy.
+
+Blue team members placed at left side, red team members placed at right side, and a crown at center shows the current team supremacy.
 It will move left and right depending on which team fulfill the Win Condition most closely.
 
 When this mode was selected, all players in the Match Setup will receive either red or blue flag.
 The players can click on it to change from blue to red or vice versa.
+
 It is entirely possible to start a match with one colour team only, and there is no handicap bonus for the other team with lesser members.
 Placement of the players prior to the match does not matter; all blue members will be grouped to blue team and all red members will be grouped to red team.
 There is no role (like "Leader" or "Captain") distinction in the team; compete for both the team top spot and beating the other team score in total as a team.
+
 The surviving highest scoring member of either team will be shown as 1st at their respective team.
 Members in failed state will be located at the bottom of the team leaderboard and will not contribute to the team total as long as the members are in failed state.
+
+![Team Vs Grade screen][Team Vs Grade image]
+
+_Team Vs grade screen_
 
 <!-- Result -->
 In the results screen, declaration of match winner will be based on team total and announced at the center in winner's colour, with blue team total at the left and red team total at the right.
 Only surviving members of the team's score will be counted; it is possible for red team to be declared winner of the match when blue team has the superiority just because some blue team members providing the superiority were in failed state.
+
 The Team tab will show the total amount of hit score (300, 100, etc) done by the whole team and the average of the accuracy of the team.
 Combo not counted.
 Grade will not be shown on "Team" tab but will be shown at player's tab as watermark (if passed).
@@ -356,17 +373,10 @@ _Tag Coop interface_
 
 _Tag Team Vs interface_
 
-![Tag Coop Grade screen][Tag Coop Grade image]
-
-_Tag Coop grade screen_
-
-![Tag Team Vs Grade screen][Tag Team Vs Grade image]
-
-_Tag Team Vs grade screen_
-
 <!-- Interface -->
 Tag Coop let everyone in the Match Setup work together to pass the beatmap, one combo at a time.
 Tag Team Vs is just Tag Coop with red/blue team competition.
+
 Do note that this team mode is only available in **_osu!_ only**, and it is an **UNRANKED** play (meaning, it will not be counted to ranked score).
 
 In this mode, player placement is important as it will determine when it is the player's turn.
@@ -377,13 +387,23 @@ An arrow will show the player who is currently playing the beatmap's combo.
 The name will be shown at the lower right of the screen.
 There will be warning arrows when it is the player's turn and the combo will be in colour until the combo ends.
 The player can adjust for personal combo colour at Match Setup.
-All players must do the spinner.
+
+**All players must do the spinner**.
 Refusal or unable to complete the spinner will break the current combo count.
+
 If a player quits, [Auto][Auto wikilink] will take over the "Quit" player.
 
 Players using [SD][Sudden Death wikilink]/[PF][Perfect wikilink] will have a different interface than other players, especially when it comes to the effects.
 If the teammate does not use that mod and made a small mistake enough to trigger the mod effect, the beatmap will continue as normal, and players using the mod will have their healthbar interface drained and stuck to empty with no ill effect (meaning, visual effect only).
 If the user using the mod made a mistake and triggered it, the actual effect will occur, and failed state will be triggered immediately.
+
+![Tag Coop Grade screen][Tag Coop Grade image]
+
+_Tag Coop grade screen_
+
+![Tag Team Vs Grade screen][Tag Team Vs Grade image]
+
+_Tag Team Vs grade screen_
 
 <!-- Result -->
 As stated before, score will not be counted for ranked score and pp calculation because it is an **UNRANKED** play.
