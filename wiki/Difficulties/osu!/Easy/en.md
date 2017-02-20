@@ -1,5 +1,5 @@
-Easy (Difficulty)
-==================
+Easy
+=======
 
 Guidelines
 ----------
@@ -12,7 +12,7 @@ And try to avoid these:
 
 -   stacked notes
 -   overlapping notes
--   Kick slider
+-   [Short Repeating Sliders](/wiki/Mapping_Techniques/Slider/Short_Repeating_Sliders/)
 
 Setup
 -----
@@ -27,10 +27,13 @@ Easy [difficulties](/wiki/Beatmap_Editor/Song_Setup) are easy to make once you g
 
 You'll want to use [Distance Snapping](/wiki/Beatmap_Editor/Distance_Snap) to allow equal distances over time. So, **adjust the distance snap multiplier so that hit circles only one beat apart don't overlap each other.** For a circle size of 4, a distance snap of 0.5 should work. New players often find hit circles that overlap each other like that hard to read. Most of the time, just having them next to each other without overlapping is good enough.
 
-| This is easier to follow                                | than something like this                                 |
-|---------------------------------------------------------|----------------------------------------------------------|
-| ![Farther Aparts](Farther_Aparts.png "Farther Aparts")  | ![Less so](Less_so.png "Less so")                        |
-| Beats that are farther apart, better for newer players. | Beats closer together, better for more advanced players. |
+This is easier to follow:
+
+![Beats that are farther apart, better for newer players.](Farther_Aparts.png "Beats that are farther apart, better for newer players.")
+
+than something like this:
+
+![Beats closer together, better for more advanced players.](Less_so.png "Beats closer together, better for more advanced players.")  
 
 Set the [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, then select the circle and hit play and start placing circles in time to the music.
 
@@ -39,7 +42,7 @@ Now, your main rhythm here should be every other beat. Start with the [downbeat]
 Being on the beat
 -----------------
 
-Assume that a "." (period) is a beat without a [hit circle](/wiki/Hit_Objects), and an "O" ("o", not a zero) is a beat with a hit circle (Easy difficulties should be mapped to the beat for the most part, with a few exceptions). Here's a simple pattern you can try:
+Assume that a `.` (period) is a beat without a [hit circle](/wiki/Hit_Objects), and an `O` (`o`, not a zero) is a beat with a hit circle (Easy difficulties should be mapped to the beat for the most part, with a few exceptions). Here's a simple pattern you can try:
 
 O.O.OOO.
 
@@ -74,4 +77,4 @@ Spinners should be used sparingly in Easy difficulties - generally ends of mappe
 
 The reasoning is because most new players are going to react slowly to a spinner, so there's a delay in starting them. Then they will also spin wildly, usually drawing along the perimeter of the screen. Once the spinner is complete, they will be most probably disoriented and wondering where their cursor is. This is the reason why if you have a spinner in the middle of a mapped phrase, you should allow for as much time as possible for recovery. A good rule of thumb is 3-4 beats after a spinner, but this can vary depending on BPM. Mappers are also encouraged to place notes/sliders within the center of the play field once a spinner has ended.
 
-Spinners are often used in Easy difficulties in a similar position as to where [Streams](/wiki/Mapping_Techniques/Streams) would be placed on harder difficulty maps.
+Spinners are often used in Easy difficulties in a similar position as to where [Streams](/wiki/Mapping_Techniques/Rhythm) would be placed on harder difficulty maps.

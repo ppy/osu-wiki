@@ -7,7 +7,7 @@ Tingkat kesulitan ini dapat menjadi tingkat kesulitan tambahan yang “ke-5” (
 
 Pada halaman daftar osu!beatmap (seperti: [Shiro Sagisu - Soundscape To Ardor Morning Remembrance (Expert)](https://osu.ppy.sh/s/303861)), seseorang dapat menyatakan map tersebut sebagai map Expert dari ikon berikut: ![Expert](/wiki/shared/Expert-s.png "Expert")
 
-Expert juga dapat dianggap sebagai *[streamnya](/wiki/Mapping_Techniques/Streams) hit circles!*
+Expert juga dapat dianggap sebagai *[streamnya](/wiki/Mapping_Techniques/Rhythm) hit circles!*
 
 Pengaturan
 ----------

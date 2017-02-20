@@ -13,9 +13,9 @@ Star Rating and Web Icons
     -   Below 5.25: Insane ![Insane](/wiki/shared/Insane-s.png "Insane")
     -   Above 5.25: Expert ![Expert](/wiki/shared/Expert-s.png "Expert")
 
-This is the range that decides which Web Icons are used depending on the star rating of any given map. Following the icon range is a good estimate to achieve a balanced difficulty spread. There are some guidelines you can follow to improve the difficulty spread of your mapset.
+This is the range that decides which web icons are used depending on the star rating of any given map. Following the icon range is a good estimate to achieve a balanced difficulty spread. There are some guidelines you can follow to improve the difficulty spread of your mapset.
 
-[Standard](/wiki/Game_Modes/osu!) difficulty spreads
+osu! difficulty spreads
 --------------------------------------------------
 
 From the [Ranking Criteria](/wiki/Ranking_Criteria):
@@ -34,7 +34,7 @@ From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 <!-- -->
 
--   It is **NOT** allowed to skip a huge difficulty range like **[Hard]** or **[Insane]**
+-   It is **not** allowed to skip a huge difficulty range like **[Hard]** or **[Insane]**
     -   ![Easy](/wiki/shared/Easy-s.png "Easy") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
     -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
     -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Expert](/wiki/shared/Expert-s.png "Expert") ![Expert](/wiki/shared/Expert-s.png "Expert")
@@ -44,9 +44,9 @@ From the [Ranking Criteria](/wiki/Ranking_Criteria):
 -   Depending on the prevalent gameplay elements in your **[Insane]** and **[Expert]** you could be asked to include another lower or higher rated additional **[Insane]**
     -   ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9) needs the addition of something like ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")**(4.3)** ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9)
 
-A good difficulty spread is **more than just Star Rating and Web Icons**! However, the icons help players to get a quick overview and if possible you should always aim to use them appropriately.
+A good difficulty spread is **more than just star rating and web icons**! However, the icons help players to get a quick overview and if possible you should always aim to use them appropriately.
 
-Example Taiko Spreads
+osu!taiko difficulty spreads
 ---------------------
 
 From the [Ranking Criteria](/wiki/Ranking_Criteria):
@@ -148,4 +148,4 @@ Rest moments in Taiko
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers / players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](/wiki/Game_Modes/External_Ports/T-Aiko/Old)** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers or players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](/wiki/Game_Modes/External_Ports/T-Aiko/Old)** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

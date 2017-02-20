@@ -43,7 +43,7 @@ The Actual Mapping
 
 Note that most of the [notes](/wiki/Hit_Objects) should be on [white or red Ticks](/wiki/Beatmap_Editor/Beat_Snap_Divisor) (Of course, this does not apply to songs that use 1/3 snap, though this is rare.). Blue ticks (also known as 1/4 snap) are often difficult for newer players to play because of how quick and/or awkward they are when you start playing, so **avoid using them** if you can.
 
-Remember, think of simple [patterns](/wiki/Mapping_Techniques) and note placements that everyone would be able to hit and identify, no matter who plays your normal difficulty^. Remember to use [sliders](/wiki/Hit_Objects) whenever a long note or key is held in the song you are mapping. If the part of the map you're mapping plays better with a slider, add it in there too. You can never make enough awesome sliders in Normal and Easy difficulties^^.
+Remember, think of simple [patterns](/wiki/Mapping_Techniques) and note placements that everyone would be able to hit and identify, no matter who plays your normal difficulty&sup1;. Remember to use [sliders](/wiki/Hit_Objects) whenever a long note or key is held in the song you are mapping. If the part of the map you're mapping plays better with a slider, add it in there too. You can never make enough awesome sliders in Normal and Easy difficulties&sup2;.
 
 Now, let your imagination run wild! Creating pretty patterns never hurts, and they make your beatmaps look more appealing.
 
@@ -51,6 +51,6 @@ Good luck with your Normal difficulties!
 
 **OTHER NOTES**
 
-^ If you have an [Easy](/wiki/Difficulties/osu!/Easy), make sure your Normal is a bit harder than your Easy, of course. If you do not have an Easy, you should still make your Normal suitable for beginners. A 1.6-1.7 star Normal will comfortably make up for an Easy.
+&sup1; If you have an [Easy](/wiki/Difficulties/osu!/Easy), make sure your Normal is a bit harder than your Easy, of course. If you do not have an Easy, you should still make your Normal suitable for beginners. A 1.6-1.7 star Normal will comfortably make up for an Easy.
 
-^^Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](/wiki/People/Beatmap_Nomination_Group) have been known to rage via PMs over this sort of thing.
+&sup2; Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](/wiki/People/Beatmap_Nomination_Group) have been known to rage via PMs over this sort of thing.
