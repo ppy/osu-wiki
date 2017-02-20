@@ -3,9 +3,9 @@ Expert
 
 In ways to push and extend the limits of beatmapping, Expert was invented/created to be beatmaps *like* [Insane](/wiki/Difficulties/osu!/Insane) but go beyond.
 
-It could be the extra *5th* difficulty (if beatmaps are formatted in ![Easy](/wiki/shared/Easy-s.png "Easy")![Normal](/wiki/shared/Normal-s.png "Normal")![Hard](/wiki/shared/Hard-s.png "Hard")![Insane](/wiki/shared/Insane-s.png "Insane")![Expert](/wiki/shared/Expert-s.png "Expert")) or the *4th* (if beatmaps are formatted in ![Easy](/wiki/shared/Easy-s.png "Easy")![Normal](/wiki/shared/Normal-s.png "Normal")![Hard](/wiki/shared/Hard-s.png "Hard")![Insane](/wiki/shared/Insane-s.png "Insane")![Expert](/wiki/shared/Expert-s.png "Expert")). These maps, like [Insane](/wiki/Difficulties/osu!/Insane), quote, "generally exemplifications of the mapper's skill, and are the difficulties where creativity can be easily shown."
+It could be the extra *5th* difficulty (if beatmaps are formatted in ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")![Expert icon](/wiki/shared/Expert-s.png "Expert icon")) or the *4th* (if beatmaps are formatted in ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")![Expert icon](/wiki/shared/Expert-s.png "Expert icon")). These maps, like [Insane](/wiki/Difficulties/osu!/Insane), quote, "generally exemplifications of the mapper's skill, and are the difficulties where creativity can be easily shown."
 
-On the osu!beatmap listing page (for example: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/b/774564)), one may tell it is an Expert map with this icon: ![Expert](/wiki/shared/Expert-s.png "Expert")
+On the osu!beatmap listing page (for example: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/b/774564)), one may tell it is an Expert map with this icon: ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
 Characteristically, expert difficulties are difficult maps, usually featuring both streams and jumps. A map receives the expert icon when its star rating reaches more than 5.25 stars.
 

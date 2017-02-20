@@ -7,11 +7,11 @@ Star Rating and Web Icons
 ![Star Rating Range](SR_range.png "Star Rating Range")
 
 -   From the [Ranking Criteria](/wiki/Ranking_Criteria):
-    -   Below 1.5: Easy ![Easy](/wiki/shared/Easy-s.png "Easy")
-    -   Below 2.25: Normal ![Normal](/wiki/shared/Normal-s.png "Normal")
-    -   Below 3.75: Hard ![Hard](/wiki/shared/Hard-s.png "Hard")
-    -   Below 5.25: Insane ![Insane](/wiki/shared/Insane-s.png "Insane")
-    -   Above 5.25: Expert ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   Below 1.5: Easy ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")
+    -   Below 2.25: Normal ![Normal icon](/wiki/shared/Normal-s.png "Normal icon")
+    -   Below 3.75: Hard ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")
+    -   Below 5.25: Insane ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")
+    -   Above 5.25: Expert ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
 This is the range that decides which web icons are used depending on the star rating of any given map. Following the icon range is a good estimate to achieve a balanced difficulty spread. There are some guidelines you can follow to improve the difficulty spread of your mapset.
 
@@ -22,27 +22,27 @@ From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 "**The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.**"
 
--   Consecutive order means this is the expected full spread ![Easy](/wiki/shared/Easy-s.png "Easy") ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+-   Consecutive order means this is the expected full spread ![Easy icon](/wiki/shared/Easy-s.png "Easy icon") ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Hard icon](/wiki/shared/Hard-s.png "Hard icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 -   Depending on the star rating gap several combinations of lower difficulties are theoretically allowed:
-    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.5) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.6)
-    -   ![Easy](/wiki/shared/Easy-s.png "Easy")(1.4) ![Hard](/wiki/shared/Hard-s.png "Hard")(2.6) ![Insane](/wiki/shared/Insane-s.png "Insane")(3.8)
+    -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")(1.4) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(2.5) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.6)
+    -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")(1.4) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(2.6) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(3.8)
 
 <!-- -->
 
 -   It is generally allowed to skip the **[Easy]** difficulty if the **[Normal]** difficulty follows the general guidelines of an Easy map
-    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Hard icon](/wiki/shared/Hard-s.png "Hard icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
 <!-- -->
 
 -   It is **not** allowed to skip a huge difficulty range like **[Hard]** or **[Insane]**
-    -   ![Easy](/wiki/shared/Easy-s.png "Easy") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
-    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Insane](/wiki/shared/Insane-s.png "Insane") ![Expert](/wiki/shared/Expert-s.png "Expert")
-    -   ![Normal](/wiki/shared/Normal-s.png "Normal") ![Hard](/wiki/shared/Hard-s.png "Hard") ![Expert](/wiki/shared/Expert-s.png "Expert") ![Expert](/wiki/shared/Expert-s.png "Expert")
+    -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
+    -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
+    -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Hard icon](/wiki/shared/Hard-s.png "Hard icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
 <!-- -->
 
 -   Depending on the prevalent gameplay elements in your **[Insane]** and **[Expert]** you could be asked to include another lower or higher rated additional **[Insane]**
-    -   ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9) needs the addition of something like ![Normal](/wiki/shared/Normal-s.png "Normal")(1.9) ![Hard](/wiki/shared/Hard-s.png "Hard")(3.2) ![Insane](/wiki/shared/Insane-s.png "Insane")**(4.3)** ![Insane](/wiki/shared/Insane-s.png "Insane")(5.1) ![Expert](/wiki/shared/Expert-s.png "Expert")(5.9)
+    -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon")(1.9) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.2) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(5.1) ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")(5.9) needs the addition of something like ![Normal icon](/wiki/shared/Normal-s.png "Normal icon")(1.9) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.2) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")**(4.3)** ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(5.1) ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")(5.9)
 
 A good difficulty spread is **more than just star rating and web icons**! However, the icons help players to get a quick overview and if possible you should always aim to use them appropriately.
 
