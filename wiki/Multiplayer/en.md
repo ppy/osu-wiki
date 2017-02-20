@@ -20,13 +20,13 @@
 [modified version link]: https://osu.ppy.sh/forum/t/135726 "ppy's reply on a bug report."
 
 <!-- Image links used -->
-[Beatmaps_peppy image]: ./Beatmaps_peppy.jpg "Official image on beatmap extraction."
+[Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction."
 [Multi_lobby image]: ./Multi_lobby.jpg "Example of a typical day in the Multiplayer Lobby"
 [Multi_new_game image]: ./Multi_new_game.jpg "Setting up configuration for a New Game"
 [Multi_roomhost image]: ./Multi_roomhost.jpg "Example of Host Match Setup"
-[Multi_roomplayer image]: ./Multi_roomplayer.jpg "Example of Player Match Setup (With &quot;Free Mods&quot; on)"
+[Multi_roomplayer image]: ./Multi_roomplayer.jpg "Example of Player Match Setup (With Free Mods on)"
 [Multi_mods_host image]: ./Multi_mods_host.jpg "Host (osu!) mods options"
-[Multi_mods_player image]: ./Multi_mods_player.jpg "Player (osu!) mods options (With &quot;Free Mods&quot; on)"
+[Multi_mods_player image]: ./Multi_mods_player.jpg "Player (osu!) mods options (With Free Mods on)"
 [Multi_host_song_change image]: ./Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
 [Multi_SS image]: ./Multi_SS.jpg "Example of how the Song Selection will look like for host."
 [Multi_mh_single image]: ./Multi_mh_single.jpg "Example of Match History."
@@ -73,27 +73,32 @@ Keep in mind that downloading times can range from a few seconds to 15 minutes o
 Losing connection to _Bancho_ will direct _osu!_ back to Main Menu until connection to _Bancho_ has been recovered.
 When playing a match, a "Quit" will be given on the playerbox.
 
-If not in _Stable_ build, the logged _osu!account_ must has an active _[osu!supporter][osu!supporter wikilink]_ to enter Multi.
+If _not_ in _Stable_ build, the logged _osu!account_ must has an active _[osu!supporter][osu!supporter wikilink]_ to enter Multi.
 
 ## Lobby
 
 ![Example of Multiplayer Lobby][Multi_lobby image]
 
-This is a (waiting) Multiplayer Lobby.
+_This is a (waiting) Multiplayer Lobby._
+
 It will show all the available Match Setup in the _Bancho_ server.
 Sort out by game mode or fine-tune the search by filtering or searching for a player's name.
-Chat Console will be available at the screen and connected to \#lobby by default.
+[Chat Console][Chat Console wikilink] will be available at the screen and connected to \#lobby by default.
 
 Each row contains a Match Setup with its game mode symbol, game mode name (Team Mode), number of players inside/number of players allowed, rank difference from highest to lowest at the left section; large host profile image and smaller players profile image in the Match Setup along with the Match Setup name and the beatmap's name \[difficulty\] to be played for this match at the right section.
 
 Click on the row to enter the Match Setup.
 If the game mode symbol contains a lock, clicking on it will prompt a password request; fill in the Match Setup password correctly, and allowed to enter the locked Match Setup.
 
-A new room can be created by pressing the _New Game_ button, or _Quick Join_ a Match Setup by randomly join a room based on available beatmap. You can click on the _Back to Menu_ button to return to the Main Menu.
+A new room can be created by pressing the _New Game_ button, or _Quick Join_ a Match Setup by randomly join a room based on available beatmap.
+
+You can click on the _Back to Menu_ button to return to the Main Menu.
 
 ## New game
 
 ![New Game setup screen][Multi_new_game image]
+
+_Setting up a new game_
 
 Title | Description
 :---: | :---
@@ -101,15 +106,26 @@ Title | Description
 **Password** | **Password to enter the room.** Only appears if the Require Password to join button was enabled. Match Setup game mode symbol will be shown with a lock.
 **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the placements.
 
-Press the `1. Start Game` button to create the room with the player as the host of the room and the beatmap playing in the jukebox as the match's beatmap difficulty. _osu!_ will be directed to **Match Setup**.
+Press the `1. Start Game` button to create the room with the player as the host of the room and the beatmap playing in the jukebox as the match's beatmap difficulty.
+
+_osu!_ will be directed to **Match Setup**.
 
 ## Match Setup
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu!wiki for Song Selection? -->
+
+![Host room view][Multi_roomhost image]
+
+_Host room view_
+
+![Player room view][Multi_roomplayer image]
+
+_Player room view_
+
 The top section at the left display the name of the screen, status in the room (either host or player), player box at the middle based on current game mode played, and a pause button to pause the beatmap's song (if have the beatmap) located at the right side.
 
 The bottom section is the [Chat Console][Chat Console wikilink].
-A new tab called \#multiplayer will be opened, with BanchoBot providing the match history link in the first line (Match history available [here][Match History link]).
+A new tab called \#multiplayer will be opened, with [BanchoBot][BanchoBot wikilink] providing the match history link in the first line (Match history available [here][Match History link]).
 The link is <http://osu.ppy.sh/mp/x> (replace "x" with digits generated by _Bancho_ for this Match Setup), and will be removed after one month.
 After a concluded match, result will be displayed at another tab called \#userlog privately (only apply to Head-To-Head Team Mode).
 It should be sent by [BanchoBot][BanchoBot wikilink] with content, `You placed #{placement} of {total} players in multiplayer on {Beatmap} [difficulty] <game mode>.`
@@ -129,17 +145,13 @@ If Free Mods was enabled, it will also shows the mods used by the player.
 For the host side, the host can transfer its host rights to one of the players, kick players out, or unlock/lock the placements.
 
 There are four important states to take note of:-
-- Red (No Map): The player does not have the beatmap.
-  A \[no map\] notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play (which the player will enter to white state).
-  This player will not be affected by the Force Start effect.
-- White (Not Ready): The player has the beatmap but does not click the Ready button.
-  Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect.
-  This player will be affected by the Force Start effect regardless of Ready state.
-- Green (Ready): The player is ready.
-  Game modifiers cannot be changed in this state.
-  A player can press Not Ready button to return to white state but for a host, usually a one-way trip unless there were no players except the host, which a return to white state by pressing the Not Ready button will be allowed.
-- Light Blue (Playing): The player is playing.
-  A \[playing\] notice will be appended at the end of player's name until the match ended, in which the player will return to white state.
+
+Colour (State) | Description
+---|---
+**Red (No Map)**         | **The player does not have the beatmap**. A \[no map\] notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play (which the player will enter to white state). This player will not be affected by the Force Start effect.
+**White (Not Ready)**    | **The player has the beatmap but does not click the Ready button**. Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect. This player will be affected by the Force Start effect regardless of Ready state.
+**Green (Ready)**        | **The player is ready**. Game modifiers cannot be changed in this state. A player can press Not Ready button to return to white state but for a host, usually a one-way trip unless there were no players except the host, which a return to white state by pressing the Not Ready button will be allowed.
+**Light Blue (Playing)** | **The player is playing**. A \[playing\] notice will be appended at the end of player's name until the match ended, in which the player will return to white state.
 
 ### Match Settings
 
@@ -149,17 +161,33 @@ Do note that only the host can change these settings except for Mods when Free M
 Starting from the top is the Game Name, which is self-explanatory.
 The host can change the name or create/change the Match Setup's password by pressing the Change Password button.
 
+![host song change][Multi_host_song_change image]
+
+_When the Host is changing songs, this bar will become a temporary placeholder."_
+
+![host song selection][Multi_SS image]
+
+_Example of how the Song Selection will look like for host._
+
 The middle section is the Beatmap section.
 This section shows the beatmap to be played for this match.
 It will show the image, game mode symbol, the title, artist of the song, beatmapper, difficulty selected and the star rating of the difficulty.
 When hovered, it will show BPM, Length, Last Played, CS, AR, OD, HP, and Stars.
 
 If the player does not have the beatmap, some information will be shown, and one of these will occur:-
-- If the beatmap was ranked/approved/pending/graveyard, player will be directed to the beatmap page by player's default web browser.
-  If the player has osu!direct, it will be downloaded and extracted automatically upon click.
-- If the beatmap was not uploaded or not up to date, it will not link to the beatmap.
+- If the beatmap was **ranked/approved/pending/graveyard**, player will be directed to the **beatmap page by player's default web browser**.
+  If the player has **osu!direct**, it will be **downloaded and extracted automatically upon click**.
+- If the beatmap was **not uploaded or not up-to-date**, it will **not link to the beatmap**.
   The host should find the link (Beatmap Listing) for the player if the issue persists.
 - If cannot update, the [host is probably playing a modified version.][modified version link]
+
+![Host mods view][Multi_mods_host image]
+
+_Host game mode view_
+
+![Player mods view][Multi_mods_player image]
+
+_Player game mode view (Free Mode ON)_
 
 The lower left section is the Mods section.
 This section will show the [game mods][Game Modifiers wikilink] used for this match.
@@ -169,19 +197,22 @@ Host-selected mods other than the Speed mods will not be enforced upon players.
 The lower right section will shows how the beatmap will be played in the match (Team Mode) and the Win Condition.
 
 Team Mode contains four ways of how a multiplayer match will be played.
-- Head-To-Head: Compete against each other to reach the top spot of the match leaderboard.
-- Team Vs: Compete against Red/Blue team for match supremacy.
-- Tag Coop [_osu!_ only, UNRANKED]: Team up to complete the beatmap, one combo at a time together.
-- Tag Team Vs [_osu!_ only, UNRANKED]: Tag Coop, with Red Team and Blue Team match competition.
+
+Team Mode | Description
+---|---
+**Head-To-Head** | Compete against each other to reach the top spot of the match leaderboard.
+**Team Vs**      | Compete against Red/Blue team for match supremacy.
+**Tag Coop [_osu!_ only, UNRANKED]**    |Team up to complete the beatmap, one combo at a time together.
+**Tag Team Vs [_osu!_ only, UNRANKED]** |Tag Coop, with Red Team and Blue Team match competition.
 
 Win Condition is self-explanatory; the condition to determine the winner of the match.
 The winner's avatar will be shown at the grade screen (Head-To-Head only).
 
 Title | Description
 :---:|:---
-**Score** | Player with **highest score** wins.
+**Score**    | Player with **highest score** wins.
 **Accuracy** | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there are no spinners.
-**Combo** | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**.
+**Combo**    | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**.
 **Score v2** | Player with **highest _standardised_ score** wins.
 
 If Team Mode was set to Tag Coop/Tag Team Vs, a combo colour section will be shown which allows fixed combo colour adjustment when it is the player's turn.
@@ -194,48 +225,39 @@ The different effects of the blue button can be seen below.
 
 Title | Description
 :---:|:---
-Ready! | Click to enter Ready state (green state). Button will change to Not Ready for players, either Start Game! or Force Start Game! for host if there are players in the Match Setup, Not Ready otherwise.
-Not Ready | Click to return to Not Ready state (white state). Button will change to Ready!
-Start Game! | Host-only button, starts the match. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to Force Start Game! when at least one player pressed the Not Ready button.
-Force Start Game! (x/\#) | Host-only button, forcefully ready all players with the beatmap and starts the match. Appears when host press the Ready! button but not all players in the Match Setup pressed the Ready! button (where x is the number of players in Ready! state, and \# is the total players in the Match Setup).
+**Ready!**                   | Click to enter Ready state (green state). Button will change to Not Ready for players, either Start Game! or Force Start Game! for host if there are players in the Match Setup, Not Ready otherwise.
+**Not Ready**                | Click to return to Not Ready state (white state). Button will change to Ready!
+**Start Game!**              | Host-only button, starts the match. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to Force Start Game! when at least one player pressed the Not Ready button.
+**Force Start Game! (x/\#)** | Host-only button, forcefully ready all players with the beatmap and starts the match. Appears when host press the Ready! button but not all players in the Match Setup pressed the Ready! button (where x is the number of players in Ready! state, and \# is the total players in the Match Setup).
 
-<!-- Help needed to put these images nicely without HTML or GFM's table(?). A gallery would be nice, but yeah... -->
-![Host room view][Multi_roomhost image]
-_Host room view_
-![Player room view][Multi_roomplayer image]
-_Player room view_
-![Host mods view][Multi_mods_host image]
-_Host game mode view_
-![Player mods view][Multi_mods_player image]
-_Player game mode view (Free Mode ON)_
-![host song change][Multi_host_song_change image]
-_When the Host is changing songs, this bar will become a temporary placeholder."_
-![host song selection][Multi_SS image]
-_Example of how the Song Selection will look like for host._
 ![match history single][Multi_mh_single image]
+
 _Example of Match History (Single)._
+
 ![match history team][Multi_mh_team image]
+
 _Example of Match History (Team)._
 
 #### Player box colour
 
-<!-- A player box reference here -->
+<!-- A player box reference here? -->
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
+
 Status/Colour | Description
 :---:|:---
-Normal/Blue | Player has more than half of health, usually at full. The concentration of blue colour will grow brighter if player's healthbar increasing to full and bleed to red by losing the lifebar more than half the healthbar length.
-Danger/Purple-Red | Player has less than half of health. The concentration of red colour will grow brighter if player's healthbar decreasing to empty and diminished to blue by filling the lifebar more than half the healthbar length.
-Failed/Gray | Player unable to reserve the final sliver of health. Player can continue playing and if [SD][Sudden Death wikilink]/[PF][Perfect wikilink] was not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
-Tag/Green | Tag Coop and Tag Team Vs only. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme and will not change based on lifebar status.
-Skipped/White | If the beatmap's difficulty has a start-up rest, players that press the Skip button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. Everyone must do so for the Skip to take effect.
-Quit/Varies | [1] Hitting `Esc` twice. [2] Disconnected from _Bancho_. Text colour will be changed from white to red, with '[Quit]' appended at the end. Box colour signify the status before quitting the game.
+**Normal/Blue** | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if player's healthbar increasing to full and bleed to red by losing the lifebar more than half the healthbar length.
+**Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if player's healthbar decreasing to empty and diminished to blue by filling the lifebar more than half the healthbar length.
+**Failed/Gray** | **Player unable to reserve the final sliver of health/no health left in the healthbar**. Player can continue playing and if [SD][Sudden Death wikilink]/[PF][Perfect wikilink] was not used, player can be "revived" from the failed status by refilling the lifebar completely. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
+**Tag/Green** | _Tag Coop and Tag Team Vs only_. There will be an arrow (play-warningarrow) pointing the current player playing the beatmap and given a small white glow. This is a permanent colour scheme to all and will not change based on lifebar status.
+**Skipped/White** | If the beatmap's difficulty has a start-up rest, players that press the Skip button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. Everyone must do so for the Skip to take effect.
+**Quit/Varies** | **Player quit the game**. Two possible ways to enter this state: [1] hitting `Esc` twice, or [2] disconnected from _Bancho_. Text colour will be changed from white to red, with '[Quit]' appended at the end. Box colour signify the status before quitting the game.
 
 ## Team Mode
 
 ### General
 
 In general, pressing the `Esc` (Escape) key in keyboard now _does not pause the match_; in fact, it will trigger a warning at the lower-right to press `Esc` key again to quit.
-Press it again to quit the match and return to lobby.
+Press it _again_ to quit the match and return to lobby.
 
 Some time given to use the Visual Settings below the beatmap during the loading phase of the beatmap.
 If Free Mods was used, the mods used applies to per player's interface and score differences may occur depending on mods used.
@@ -257,12 +279,12 @@ Do note that this does not apply to Tag Coop and Tag Team Vs (both are unranked)
 
 The leaderboard now shows the players in the match with live placements changes based on Win Condition as shown below:-
 
-Head-To-Head / Team Vs:-
+**Head-To-Head / Team Vs:-**
 - If Score/Score v2: Score, hit score and combo multiplier are shown in real-time.
 - If Accuracy: Accuracy, hit score and combo multiplier are shown in real-time.
 - If Combo: Combo count are shown in real-time. Maximum combo count not shown.
 
-Tag Coop / Tag Team Vs:-
+**Tag Coop / Tag Team Vs:-**
 - If Score/Score v2: Team's score and hit score are shown in real-time.
 - If Accuracy: Team's accuracy percentage and hit score are shown in real-time.
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
