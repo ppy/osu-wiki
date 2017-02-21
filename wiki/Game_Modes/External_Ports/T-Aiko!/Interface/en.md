@@ -1,4 +1,10 @@
-<!-- If possible, use a script to do this, mate -->
+<!-- If possible, use a script to do this, mate. Pardon the terrible naming sense. ~RaikireHiuduo -->
+
+<!-- Reference: [{image}]: {link}/{image} "{altText}" -->
+<!-- Content  : ![{altText}][{image}] \n\n _{altText}_ -->
+
+<!-- Original page -->
+[T-Aiko!]: /wiki/Game_Modes/External_Ports/T-Aiko! "T-Aiko! main page"
 
 <!-- Normal -->
 [T2-MM.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-MM.jpg "Main Menu"
@@ -25,9 +31,10 @@
 [T2-CMINFO.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-CMINFO.jpg "Competitive Mode Information"
 [T2-CMGrade.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-CMGrade.jpg "Competitive Mode Grade screen"
 
+<!-- Title -->
 # T-Aiko v2 Interface
 
-**[Click here to return to T-Aiko! main page.](wiki/Game_Modes/External_Ports/T-Aiko!)**
+**[Click here to return to T-Aiko! main page.][T-Aiko!]**
 
 ## Normal
 
@@ -83,20 +90,6 @@ _Grade screen_
 
 _Main Menu (Guest)_
 
-T2-MM.jpg| Main Menu
-T2-LogIn.jpg| Log-in pop-up
-T2-SignUp.jpg| Sign Up pop-up
-T2-SS.jpg| Song Selection (Solo)
-T2-SSblank.jpg| Song Selection (blank)
-T2-SSDL.jpg| Download stream
-T2-DELETE.jpg| Delete screen
-T2-Gameplay.jpg| Gameplay example
-T2-Spinner.jpg| Spinner
-T2-Paused.jpg| Paused screen
-T2-Failed.jpg| Failed screen
-T2-Grade.jpg| Grade screen
-T2-Guest.jpg| Main Menu (Guest)
-
 ## Online
 
 ![Online screen][T2-ONLINE.jpg]
@@ -130,12 +123,3 @@ _Competitive Mode Information_
 ![Competitive Mode Grade screen][T2-CMGrade.jpg]
 
 _Competitive Mode Grade screen_
-
-T2-ONLINE.jpg| Online screen
-T2-RANKOWN.jpg| Own Ranking
-T2-RANKTOP.jpg| Top Ranking
-T2-SSO.png| [Daily] Competitive Mode Song Selection
-T2-SSOB.jpg| Competitive Mode Song Selection (blank)
-T2-CMDL.jpg| Competitive Mode Download stream
-T2-CMINFO.jpg| Competitive Mode Information
-T2-CMGrade.jpg| Competitive Mode Grade screen
