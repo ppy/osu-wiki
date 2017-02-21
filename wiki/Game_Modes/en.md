@@ -15,6 +15,7 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
+[osu! iPhone link]: https://osu.ppy.sh/forum/47 "osu! iPhone forum (dead)"
 
 <!-- shared image -->
 [osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
@@ -78,13 +79,7 @@ Ports done by the community of osu!.
   - ![osu!taiko icon][osu!taiko icon link] [T-Aiko! v1][T-Aiko! v1 wikilink] [Android]:
     Deprecated Taiko special game mode developed by **Guy-kun**.
 
-Deprecated:-
-
-(none)
-
 ### Android
-
-(none)
 
 Deprecated:-
 
@@ -97,17 +92,13 @@ Deprecated:-
 
 ### iOS
 
-(none)
-
 Deprecated:-
 
-(none)
+- ![osu! icon][osu! icon link] [osu! iPhone][osu! iPhone link]:
+  Ancient osu! port developed by **nuudles** for jailbroken iOS.
+  Deprecated due to disappearance of the original developer and age of the program.
 
 ### Windows Phone
 
 - ![osu! icon][osu! icon link] [osu!wp][osu!wp wikilink]:
   osu! port developed by **cxy783670568**
-
-Deprecated:-
-
-(none)
