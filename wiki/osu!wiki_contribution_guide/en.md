@@ -241,7 +241,7 @@ It is usually preferred to push the local commit immediately to the remote copy.
 
 _Note: If you do not have Git installed, you can go to [the official Git website][Git] to download Git and [set it up][GH Help Git setup] (only ignore step 1)._
 
-Once you have Git installed and ready to deploy (see the note above if you have not), open up Git Bash or your terminal and enter this in the Command Line Interface (CLI):
+Once you have Git installed and ready to deploy (see the note above if you have not), open up Git Bash or your terminal directly and enter this in the Command Line Interface (CLI):
 
 ```prolog
 git clone https://github.com/<your GitHub username>/osu-wiki.git
@@ -249,7 +249,7 @@ git clone https://github.com/<your GitHub username>/osu-wiki.git
 
 Replace ``<your GitHub username>`` with, well, your GitHub username you sign up with and fork from.
 
-This will clone your fork (``master`` branch only) in the filepath you specified (usually in your root user's home folder, when running Git directly by default).
+This will clone your fork (``master`` branch only) in the filepath you specified (usually in your user's home folder, when running Git directly by default).
 Moreover, the link is now nicknamed to ``origin``, and the significance will be explained at the next header.
 
 Make sure you are connected to the Internet before using the command.
@@ -319,8 +319,8 @@ If you already set your own, ignore below and head to the next header.
 
 For ``nano``, it is very self-explanatory as all the important commands was shown at the lower part of the editor.
 
-Use ``Ctrl``-``X`` to exit ``nano`` editor.
-If the content was changed, the lower-part will be changed to ask for confirmation; type in ``Y`` to save changes, or type in ``N`` to cancel changes.
+Press these two keys, ``Ctrl``-``X``, together at the same time to exit ``nano`` editor.
+If the content was changed, the lower-part will be changed to ask for confirmation; press ``Y`` key to save changes, or press ``N`` key to cancel changes.
 
 ---
 
@@ -366,11 +366,19 @@ cd $HOME
 cd osu-wiki
 ```
 
-Assuming you are following the guide and did not do any modification to Git Bash/terminal (saving the cloned osu-wiki repository in your home's root folder):
+Assuming you are following the guide and did not do any modification to Git Bash/terminal (saving the cloned osu-wiki repository in your user home's folder):
 
 - The first command tells the terminal to go back to your home directory, `~` (if you somehow end up somewhere).
   - An alternative method is to reopen the Git Bash/terminal again.
 - The second command, using the terminal command, `cd`, will move the terminal down to ``osu-wiki`` if found, which is where your freshly created local copy is at.
+
+or
+
+```prolog
+cd ~/osu-wiki
+```
+
+Which does the same thing as above.
 
 There should be a light-blue coloured brackets with text inside (``master``) at the end of the line when done right in Git Bash.
 That is the branch name your local copy is currently in.
@@ -421,13 +429,15 @@ After making your changes locally (such as add/delete/rename/move/modify files/f
 This can be done by entering this to the Git's CLI:
 
 ```prolog
+cd ~/osu-wiki
 git add .
 git commit -m "<short title>" -m "<long description>"
 ```
 
-- The first command will **stage everything**, including untracked and changed files.
+- The first command will direct Git to the root of the repository (assuming the repository was cloned at user directory)
+- The second command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
-- The second command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+- The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
   - Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
   - Also, write the commit message in **English**.
   - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
@@ -765,7 +775,9 @@ Once all the merge conflict(s) resolved, do a commit with a message, and push to
 Like so:
 
 ```prolog
-git commit -a -m "Solved merge conflicts"
+cd ~/osu-wiki
+git add .
+git commit -m "Solved merge conflicts"
 git push origin <branchname>
 ```
 
@@ -854,6 +866,8 @@ git help pull
 ```
 
 This will open your default browser with the manual of the command written as a HTML page.
+
+Also, terminal commands will work as usual; Git is just one of the installed additional feature in terminal environment which can be called by `git` keyword.
 
 ### What happened to the old osu!wiki?
 
