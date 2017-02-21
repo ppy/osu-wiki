@@ -15,24 +15,24 @@
 [Tutorial animation]: ./img/T2-Tutorial.gif "Tutorial screen (animated)"
 [SS image]: ./img/T2-SS.jpg "Song Selection screen for Solo mode."
 [SSOB image]: ./img/T2-SSOB.jpg "Song Selection screen for Online (Daily) mode."
-[Delete beatmap image]: ./img/T2-DELETE.jpg "Delete beatmap"
 [PC image]: ./img/T2-PC.jpg "List of profile cards available"
-
 [BB image]: ./img/T2-BB.jpg "Black border"
 [BLEG image]: ./img/T2-BLEG.jpg "Red border with LEGEND mark at lower-right"
 [BR image]: ./img/T2-BR.jpg "Yellow border with RANKER mark at lower-right"
 [BDEV image]: ./img/T2-BDEV.jpg "Purple border with DEV mark at lower-right"
 [BART image]: ./img/T2-BART.png "Green border with ARTIST mark at lower-right"
 [BTESTER image]: ./img/T2-BTESTER.png "Grey border with TESTER mark at lower-right"
-
 [Options image]: ./img/T2-Options.jpg "Options screen"
 [SDirectory image]: ./img/T2-SDirectory.jpg "Song Directory screen"
 [Offset image]: ./img/T2-Offset.jpg "Offset screen"
 [Credits image]: ./img/T2-Credits.jpg "Credits screen"
-
 [Senpai image]: ./img/T2-Senpai.jpg "Senpai"
 
 # T-Aiko v2
+
+![T-Aiko v2 logo][T-Aiko v2 logo]
+
+_T-Aiko v2 logo_
 
 [Click for deprecated version 1 by Guy-kun][T_Aiko! v1 wikilink].
 
@@ -179,7 +179,7 @@ _Tutorial screen (animated)_
 - Beatmap search is missing.
 - Replays are not available.
 - Scoreboard's detailed results cannot be removed nor read. Only top 4 is shown. Older, lower scores can only be found by replaying that difficulty and reaching the results screen.
-- Delete the beatmap by holding down on the beatmap tab. [There should be a pop-up asking for delete confirmation][Delete beatmap image]. Scores gained will not be lost.
+- Delete the beatmap by holding down on the beatmap tab. There should be a pop-up asking for delete confirmation. Scores gained will not be lost.
 - Interface of Song Selection will change depending on which play mode as shown below.
 
 ![Song Selection screen for Solo mode.][SS image]
