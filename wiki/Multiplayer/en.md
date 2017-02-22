@@ -56,10 +56,15 @@ Multiplayer or _Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [o
 
 ### Minimum requirements
 
+![One of the ways to transfer the beatmap without leaving the room][Beatmaps_peppy image]
+
+_One of the ways to transfer the beatmap without leaving the room_
+
 - Decent online connection.
 - _osu!account_ logged into _Bancho_ (should be done automatically during ingame login)
 - Have a fair amount of beatmaps in the `Songs` folder (except for personal preference to download on the spot)
-- Knowing [how to transfer beatmaps without leaving the room.][Beatmaps2 wikilink] [Picture example here.][Beatmaps_peppy image]
+- Knowing [how to transfer beatmaps without leaving the room.][Beatmaps2 wikilink].
+  - Opening the file directly usually works.
 
 ### Ways to enter
 
