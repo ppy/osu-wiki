@@ -85,7 +85,7 @@ Pick an option and click "Commit Changes".
 
 GitHub under the hood is a Git Service. You can clone your fork to your PC and make changes there.
 
-if you have Git installed, enter this in your Command Line Interface (CLI):
+If you have Git installed, enter this in your Command Line Interface (CLI):
 ```prolog
 git clone https://github.com/<your github username (ie. peppy)>/osu-wiki 
 ```
@@ -140,10 +140,10 @@ _However, if you made changes in your master branch, the changes will be shown w
 
 Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
 
-- **Title** : The summary of the changes you have made
-  - Note: it is really important to have a meaningful and clear title, otherwise it will cause confusion
+- **Title** : The summary of the changes you have made,
+  - Note: it is really important to have a meaningful and clear title, otherwise it will cause confusion.
 
-- **Leave a Comment** : The details of the changes you have made
+- **Leave a Comment** : The details of the changes you have made.
 
 ![PR Creation Dialogue](14.jpg "PR Creation Dialogue")
 
