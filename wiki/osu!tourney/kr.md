@@ -26,7 +26,7 @@ osu! tourney를 사용하려면 [토너먼트 스텝](https://osu.ppy.sh/g/26)�
 3.  osu!tourney를 사용하려는 Osu!닉네임
 4.  대회의 취지 (아랫부분 참조)
 
-**최소 대회시작 2주전**에 매일를 보내야 합니다. 만약 당신이 이 방법대로 하면 모든 항목을 적절하게 설정할 수 있습니다. 
+**최소 대회시작 2주전**에 메일를 보내야 합니다. 만약 당신이 이 방법대로 하면 모든 항목을 적절하게 설정할 수 있습니다. 
 
 엑세스 권한이 부여되면, [토너먼트 스텝](https://osu.ppy.sh/g/26) 에 추가됩니다. 추가가 완료되면 특정 IRC명령을 포함한 모든 기능을 사용가능합니다. 단, 토너먼트(대회)가 끝나면 만료됩니다.
 
@@ -42,7 +42,7 @@ osu! tourney를 사용하려면 [토너먼트 스텝](https://osu.ppy.sh/g/26)�
 
 osu!tourney 클라이먼트를 설정하려면 몇 단계만 수행 하시면 됩니다.
 
-먼저, 노래 데이터베이스 때문에 망가지므로 **새로운 오스를 설치하는 것이 좋습니다.** (여러 개의 osu! 설치는 분리 된 폴더에 보관할 수 있습니다.)
+먼저, 노래 데이터베이스 때문에 망가지므로 **새로운 오스를 설치하는 것이 좋습니다.** (여러개의 osu! 설치는 분리 된 폴더에 보관할 수 있습니다.)
 
 자신의 대회에서 필요한 곡(클라이언트가 자동으로 다운로드 되지 않은 비트맵인 경우)을 /songs 폴더에 추가합니다(맵풀) osu!tourney는 오직 제출된 비트맵만 가능합니다.
 1.  자신의 osu! 폴더에서 osu!.exe 파일을 복사하여 새로운 폴더에 붙여 넣은 후 osu!.exe파일을 실행합니다. osu!.exe 실행하면 자동으로 업데이트 및 설치됩니다.  
@@ -85,31 +85,31 @@ osu!tourney 사용법
 | ----------------------------------------- |
 | ![osu!tourney 인터페이스](Osutourneymain.png "osu!tourney Interface") |
 
-위 사진은 클라이언트의 인터페이스입니다. 클라이언트 자체 사용은 매우 간단합니다. 화면 상단은 두 개의 파트로 나뉘여 있으며 멀티 방의 두 팀을 대표합니다. 각각의 osu! 화면은 멀티 룸의 슬롯에 해당됩니다. 이것은 각각의 플레이어들이 각자의 자리에 있을 것 이라는 것을 의미 합니다. 
+위 사진은 클라이언트의 인터페이스입니다. 클라이언트 자체 사용은 매우 간단합니다. 화면 상단은 두 개의 파트로 나뉘여 있으며 멀티방의 두 팀을 대표합니다. 각각의 osu! 화면은 멀티방의 슬롯에 해당됩니다. 그러므로 여러 플레이어들은 각자의 자리에 있어야 합니다.
 
-| 플레이어는 멀티방에 위치에 따라 윈도우창에 할당됩니다. |
+| 플레이어는 멀티방에 위치에 따라 창에 배치됩니다. |
 | ----------------------------------------------------------------------------------- |
 | ![osu!tourney 플레이 창](Osutourneywindows.png "osu!tourney Player Windows")   |  
 
-제대로된 진행을 위해서 선수들이 멀티 방에서 적절한 슬롯에 있는 지 확인 하십시오. 정확한방법에 대한 내용은 멀티플레이어 세션 생성 및 취급에서 확인 가능 합니다.
+제대로 된, 진행을 위해서 선수들이 멀티방에서 적절한 슬롯에 있는지 확인 하십시오. 정확한 방법에 대한 내용은 멀티플레이어 세션 생성 및 취급에서 확인 가능 합니다.
 
 | osu!tourney 컨트롤 패널 |
 | ----------------------------------------- |
 | ![osu!tourney 컨트롤 패널](Osutourneypanel.png "osu!tourney control panel") |
 
-![멀티방이 올바르게 생성되면 지시 사항 대신 나열됩니다.](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![멀티방이 올바르게 생성되면 지시사항 대신 나열됩니다.](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
-![osu!tourney은 팀 이름과 사용자 이름을 자동으로 할당합니다.](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
+![osu!tourney은 팀이름과 사용자 이름을 자동으로 배치합니다.](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
 
 ![osu!tourney는 단순히 관전만하지 않습니다. 현재 팀 점수와 현재 재생중인 노래를 보여줍니다](Osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
 
-![osu! tourney는 결과 화면을 표시할 때 승자를 자동으로 선언하고 점수를 추가합니다. 그리고, 다른 스프라이트를 재생하고, 실패한 선수는 검게 칠합니다.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
+![osu! tourney는 결과화면을 표시할 때, 승자를 자동으로 선언하고 점수를 추가합니다. 그리고, 다른 스프라이트를 재생하고, 실패한 선수는 검게 칠합니다.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
 
-클라이언트 하단에 제어판이 표시 됩니다.이것은 당신이 원하는 멀티방의 이름을 짓기 위해 필요한 템플릿을 보여드립니다. 그것은 tournament.cfg 파일설정과 2개의 팀 이름으로 정의된 약어로 구성됩니다. **[자세한 내용은 멀티 플레이어 세션 생성 및 취급을 참조하십시오.](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**
+클라이언트 하단에 제어판이 표시됩니다.이것은 당신이 원하는 멀티방의 이름을 짓기 위해 필요한 템플릿을 보여드립니다. 그것은 tournament.cfg 파일설정과 2개의 팀 이름으로 정의된 약어로 구성됩니다. **[자세한 내용은 멀티 플레이어 세션 생성 및 취급을 참조하십시오.](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**
 
-멀티 방이 적절하게 되어 있는 경우, 제어판은 적절하게 제작된 멀티 방을 나열합니다. 멀티 플레이어를 자동으로 선택할 수 있도록 선택할 수 있는 멀티 방을 클릭합니다. 모든 것을 제대로 설정하였다면 자동으로 클라이언트 사용자에게 타 플레이어들의 연주나 노래 소리를 듣거나 보게 됩니다.  
+멀티방이 적절하게 되어있는 경우, 제어판은 적절하게 제작된 멀티방을 나열합니다. 멀티플레이어들은 자동으로 선택할 수 있도록, 선택할 수 있는 멀티방을 클릭합니다. 모든 것을 제대로 설정하였다면 자동으로 클라이언트 사용자에게, 타 플레이어들의 연주나 노래소리를 듣거나 보게 됩니다.  
 
-경기가 종료되면 점수가 높은 팀에게 별 하나가 채워지며 팀 점수(별)를 증가됩니다. 또한 팀점수를 수동으로 변경할 수 있도록 하여. **마우스 오른쪽키와 왼쪽키를 클릭하여 별의 개수를 수동으로 변경 할 수 있습니다.**.
+경기가 종료되면 점수가 높은 팀에게 별 하나가 채워지며 팀 점수(별)를 증가됩니다. 또한 팀 점수를 수동으로 변경할 수 있도록 하여. **마우스 오른쪽키와 왼쪽키를 클릭하여 별의 개수를 수동으로 변경 할 수 있습니다.**.
 
 ![osu!tourney 활성화 된 주석](Osutourneywarmup.png "osu!tourney with activated annotation")
 
@@ -141,7 +141,7 @@ osu!tourney을 사용하여 멀티 방을 원활하게 상호작용을 하기 �
 
 `Your_acronym_in_tournament.cfg: (팀 이름 1) vs (팀 이름 2)`
 
-`Your_acronym_in_tournament.cfg` 설치 중에 tournaments.cfg에서 정의한 값으로 대체됩니다. 예를 들어, 이 값은 **[Setup](Osu!tourney#Setup "wikilink")**. "Test Tourney"로 정의되었습니다. 여기 다음 예제에서는 템플릿을 사용합니다.
+`Your_acronym_in_tournament.cfg` 설치 중에 tournaments.cfg에서 정의한 값으로 대체됩니다. 예를 들어, 이 값은 **[Setup](Osu!tourney#Setup "wikilink")**. "Test Tourney"로 정의되었습니다. 다음 예제에서는 템플릿을 사용합니다.
 
 `Test Tourney: (팀 이름 1) vs (팀 이름 2)`
 
@@ -219,7 +219,7 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
 
 osu! tourney 클라이언트가 방을 성공적으로 인식하려면 !mp move 및 !mp team 명령을 사용하여 방에 들어오는 플레이어에게 올바른 슬롯으로 배정해야합니다.
 
-**[osu!tourney 사용법](Osu!tourney#Using_osu!tourney "wikilink")** 설명한대로, 클라이언트의 각 창은 멀티 플레이어 로비슬롯에 배정됩니다. tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯을 차지하고 오른쪽 팀이 아래슬롯을 차지합니다.
+**[osu!tourney 사용법](Osu!tourney#Using_osu!tourney "wikilink")** 설명한대로, 클라이언트의 각 창은 멀티 플레이어 로비슬롯에 배정됩니다. tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯을 차지하고 오른쪽 팀이 아래 슬롯을 차지합니다.
 
 | 각 멀티방 슬롯에 대한 osu!tourney에 대응 |
 | ------------------------------------------------------------------------------------- |
@@ -232,9 +232,9 @@ osu! tourney 클라이언트가 방을 성공적으로 인식하려면 !mp move 
 
 **Tip : 왼쪽 팀은 항상 파랑 팀이고, 오른쪽 팀은 항상 빨강 팀입니다.**
 
-osu!tourney는 모든 팀의 색깔을 무시한다는 것을 명심하시기 바랍니다. 유일하게 주목할 만한 것은 멀티방의 위치입니다.
+osu!tourney는 모든 팀의 색깔을 무시하는 것을 명심해주시기 바랍니다. 유일하게 주목할 만한 것은 멀티방의 위치입니다.
 
-모든 팀 멤버가 osu!tourney 내에 있는 팀에 속해 있도록 하려면 선수들은 반드시 멀티방에 있는 올바른 슬롯에 위치해야 합니다. 아래 그림은 다양한 팀사이즈를 가진 osu!tourney 사진입니다. 화면의 숫자는 멀티 플레이어 로비에서 배정된 슬롯을 나타냅니다. 숫자는 보이지 않으며 설명 목적으로만 여기에 표시됩니다.
+모든 팀 멤버가 osu!tourney 내에 있는 팀에 속해 있도록 하려면 선수들은 반드시 올바른 슬롯에 위치해야 합니다. 아래 그림은 다양한 팀사이즈를 가진 osu!tourney 사진입니다. 화면의 숫자는 멀티 플레이어 로비에서 배정된 슬롯을 나타냅니다. 숫자는 보이지 않으며 설명 목적으로만 여기에 표시됩니다.
 
 
 | TeamSize = 4 |
@@ -351,4 +351,4 @@ Osu!에 들어 왔는지 확인하십시오! 굵은 글씨가 될 때까지 검�
 
 **k) 내 문제는 여기에 나와 있지 않습니다! 어떻게 해야 합니까?**
 
-**[이 스레드](https://osu.ppy.sh/forum/t/327120)**. 에 게시하십시오. 개발자는 문제를 해결하는데 도움이 되는 문제를 해결하기 위해 이 스레드를 모니터링합니다. 가능한 한 설명하고 스크린 샷을 제공하십시오.
+**[이 스레드](https://osu.ppy.sh/forum/t/327120)**에 게시하십시오. 개발자는 문제를 해결하기 위해 이 스레드를 모니터링합니다. 가능한 한 설명하고 스크린 샷을 제공해주세요.
