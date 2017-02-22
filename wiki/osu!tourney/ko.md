@@ -69,7 +69,7 @@ osu!를 닫은 후 다른 옵션을 위하여 위의 파일을 편집하거나 �
 -   **TeamSize:** 팀의 크기를 지정합니다. 이에 따라 osu!tourney는 1-8개의 창을 엽니다(최대 값은 8입니다.)
 -   **ClientNameSize:** 클라이언트 속 플레이어의 이름 크기를 변경합니다.
 -   **privateserver:** 절대손대지마세요. 이것은 당신들에게 중요하지 않습니다.
--   **acronym:** 당신의 토너먼트에 대한 약자를 넣으세요, 예) 'OWC 2013'. **[멀티 플레이 세션 생성 및 처리에 대한 자세한 내용](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**.
+-   **acronym:** 당신의 토너먼트에 대한 약자를 넣으세요, 예) 'OWC 2013'. **[멀티플레이 세션 생성 및 처리에 대한 자세한 내용](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**.
 -   **BufferTimeoutTime:** 클라이언트는 이 시간동안 재생되지 않았던 플레이어화면을 다시 포맷하여 다른 모든 플레이어와 같은 재생 시간을 가지게 됩니다. (밀리초 단위)
 -   **BufferTotalTime:** 클라이언트가 일시 중지 빈도를 줄이기 위하여 플레이어를 추월하는 시간입니다. 이 값은 변경하지 않는 것이 좋습니다.
 -   **BufferDangerTime:** 클라이언트가 더 많은 프레임을 기다리기 위해 일시 정지전 재생 버퍼의 남은 시간. 이 값은 변경하지 않는 것이 좋습니다. 
@@ -105,7 +105,7 @@ osu!tourney 사용법
 
 ![osu! tourney는 결과화면을 표시할 때, 승자를 자동으로 선언하고 점수를 추가합니다. 그리고, 다른 스프라이트를 재생하고, 실패한 선수는 검게 칠합니다.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
 
-클라이언트 하단에 제어판이 표시됩니다.이것은 당신이 원하는 멀티방의 이름을 짓기 위해 필요한 템플릿을 보여드립니다. 그것은 tournament.cfg 파일설정과 2개의 팀 이름으로 정의된 약어로 구성됩니다. **[자세한 내용은 멀티 플레이어 세션 생성 및 취급을 참조하십시오.](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**
+클라이언트 하단에 제어판이 표시됩니다.이것은 당신이 원하는 멀티방의 이름을 짓기 위해 필요한 템플릿을 보여드립니다. 그것은 tournament.cfg 파일설정과 2개의 팀 이름으로 정의된 약어로 구성됩니다. **[자세한 내용은 멀티플레이어 세션 생성 및 취급을 참조하십시오.](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**
 
 멀티방이 적절하게 되어있는 경우, 제어판은 적절하게 제작된 멀티방을 나열합니다. 멀티플레이어들은 자동으로 선택할 수 있도록, 선택할 수 있는 멀티방을 클릭합니다. 모든 것을 제대로 설정하였다면 자동으로 클라이언트 사용자에게, 타 플레이어들의 연주나 노래소리를 듣거나 보게 됩니다.  
 
@@ -119,17 +119,17 @@ osu!tourney 사용법
 
 -   **Sync music:** 음악이 동기화되지 않는다면 버튼을 누릅니다. osu!tourney은 음악을 다시 동기화하려고 시도합니다.
 -   **Toggle annotation:** 주석을 끄거나 켭니다.(자동화된 팀 점수 계산에 영향을 미칩니다)
--   **Panic:** 프로그램이 잘못되어 창이 닫히거나 윈도우 충돌이 발생 할 경우 이를 누릅니다. 그러면 모든 스트림 윈도우가 열립니다.
+-   **Panic:** 프로그램이 잘못되어 창이 닫히거나 윈도우 충돌이 발생 할 경우 이를 누릅니다. 그러면 모든 스트림 창이 열립니다.
 -   **Exit:** osu!tourney를 종료합니다.
 
 아래에 있는 제어판의 각 텍스트 상자의 가능은 아래에 설명되어 있습니다.
 
--   **주석 텍스트:** 주석에 표시할 텍스트입니다.
--   **최대 승리수:** 각각의 팀이 이겨야 할 별의 개수를 지정합니다.
+-   **Annotation text:** 주석에 표시할 텍스트입니다.
+-   **Best Of:** 각각의 팀이 이겨야 할 별의 개수를 지정합니다.
 
 ------------------------------------------------------------------------
 
-Multiplayer 세션 생성 및 취급
+멀티플레이어 세션 생성 및 취급
 =========================================
 
 매칭설정
@@ -160,12 +160,12 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
 
 경기가 끝나면, `!mp close` 명령을 보내 방을 닫아야 합니다. 
 
-사용 가능한 관리 명령 목록은 다음과 같습니다. 단 대괄호 []로 묶인 속성은 선택 사항입니다.
+사용 가능한 관리 명령 목록은 다음과 같습니다. 단 대괄호 []로 묶인 속성은 선택사항입니다.
 
 -   `!mp lock` - 플레이어가 팀과 슬롯을 변경할 수 없도록 방을 잠급니다.
 -   `!mp unlock` - 위의 내용을 반대로 바꿉니다.
 -   `!mp size` <size> -방에서 사용 가능한 슬롯(1-16)의 양을 설정합니다.
--   `!mp set` <teammode> `[<scoremode>] [<size>]` - 다양한 방 속성을 설정합니다. 
+-   `!mp set` <teammode> `[<scoremode>] [<size>]` - 방 속성을 다양하게 설정합니다. 
 
     `teammode` - 0: 개인전, 1: 태그 개인전, 2: 팀전, 3: 태그 팀전 Vs
 
@@ -198,7 +198,7 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
     
 -   `!mp aborttimer` - 현재 타이머를 중지합니다. (게임시작, 일반 타이머 모두 적용)
 -   `!mp addref <username>, <username>...` - 방에 심판을 추가하여 채팅을 볼 수 있고, mp 명령을 사용할 수 있습니다.
--   `#`<userid>는 위의 모든 명령에서 <username>을 대체 할 수 있습니다. 사용자 이름에는 밑줄 (**_ **)로 대체 된 공백이 있어야합니다.
+-   `#`<userid>는 위의 모든 명령에서 <username>을 대체 할 수 있습니다. 사용자 이름에는 밑줄 (**_ **)로 대체 된 공백이 있어야 합니다.
 -   `!mp password` - 멀티 플레이어 방 암호화 활성화 / 비활성화 (초기화된 경우).
 
 다음은 명령 사용의 예입니다.
@@ -256,7 +256,7 @@ osu!tourney는 모든 팀의 색깔을 무시하는 것을 명심해주시기 �
 스킨
 --------
 
-![osu!tourney 다양한 방법으로 커스텀마이즈 할 수 .](Osutourneycustom.png "osu!tourney can be customized in various ways")
+![osu!tourney 다양한 방법으로 커스텀마이즈 할 수 있다.](Osutourneycustom.png "osu!tourney can be customized in various ways")
 
 osu! tourney는 다양한 디자인을 위해 클라이언트 스킨이 수정 가능 합니다. 그것을 위해서 당신은 토너먼트 폴더에 스킨을 넣어야 합니다.
 
