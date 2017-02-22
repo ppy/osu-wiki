@@ -61,7 +61,7 @@ Ecran de résultat
 
 ### Classement (Ranking)
 
-Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi que le la précision de la beatmap en pourcentage. Pour plus d'informationn, regardez [Score](/wiki/Score).
+Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi que le la précision de la beatmap en pourcentage. Pour plus d'informations, regardez [Score](/wiki/Score).
 
 ![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
