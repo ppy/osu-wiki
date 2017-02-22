@@ -193,7 +193,12 @@ Term | Formulae
 
 ## Beatmapping
 
-_(?) -bzzt- Agent R here! We are looking for a writer to fill in this place here! If you know well about this topic, jump in the GitHub page and write this section! I am a placeholder text. Agent R over and out! -bzzt-_
+- Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
+- The appearance is based on the timing set to clear it, as usual.
+- Speed of fruit trail is similar to slider ball speed.
+- Spinner creates a banana rain.
+
+**Note:** Hyperfruits are automatically generated.
 
 ## Trivia
 
