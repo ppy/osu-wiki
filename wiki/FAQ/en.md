@@ -19,6 +19,7 @@
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
 [Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Shortcut Key Reference"
+[Options wikilink]: /wiki/Options "Options"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -54,7 +55,7 @@
 [Hyperfruit image]: /wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits"
 [osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
-[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania holdnotes"
+[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
 [osu! Interface image]: /wiki/shared/Interface_osu.jpg "osu! Interface"
 [osu!taiko Interface image]: /wiki/shared/Interface_taiko.jpg "osu!taiko Interface"
 [osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch Interface"
@@ -107,7 +108,7 @@ The gameplay puts emphasis on:-
 - Proper positioning and hand-eye coordination.
 
 These are some of the vital skills to become an _osu! rhythm master_.
-The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hitobjects_ from here onwards).
+The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
 
 ##### Hit circles
 ![Hit circles][osu_hit circles image]
@@ -177,7 +178,7 @@ Mouse|Keyboard|Tablet/Touchscreen
 ---|---|---|
 Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
-The hitobjects in _osu!_ will accept any input from the input device, as long as each hitobjects was tapped in time.
+The hit objects in _osu!_ will accept any input from the input device, as long as each hit objects was tapped in time.
 
 ---
 
@@ -221,11 +222,11 @@ For players with prior _Taiko no Tatsujin_ experience:-
 
 For newcomers of _osu!taiko_ mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap.
 At the upper section, there is the healthbar, which unlike other gamemodes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty.
-At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hitobjects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
+At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
 Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes.
 Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-Please note that health drain is disabled in _osu!taiko_, so only the hitobjects will affect the healthbar.
+Please note that health drain is disabled in _osu!taiko_, so only the hit objects will affect the healthbar.
 Combo will not break when playing on an empty field.
 Unlike _osu!_, the combo milestone celebration is every 50 consecutive hits.
 The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost).
@@ -360,7 +361,7 @@ _osu!mania_ is the third game mode added to _osu!_, after _osu!taiko_ and _osu!c
 This mode has been widely used in almost all of the major rhythm games.
 It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
 With this, the player will have to press the correct key for that specific note in time.
-Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, _osu!mania_ allows changing the number of keys (this means it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
+Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, _osu!mania_ allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 With the [xK][xK wikilink] game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction.
@@ -373,13 +374,13 @@ Do note that while the preset number of keys will not be doubled on osu!mania-sp
 ##### Playfield
 ![osu!mania playfield][osu!mania playfield image]
 
-_In-game playfield interface of osu!catch_
+_In-game playfield interface of osu!mania_
 
 By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
-To reverse the control and flow of the playfield, it can be changed in the _Options_ sidebar; click on _osu!mania layout_ button to set _osu!mania_ keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+To change the flow of the playfield from bottom-to-top instead, it can be changed in the _Options_ sidebar; click on _osu!mania layout_ button to set _osu!mania_ keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
 
 Healthbar is located at the right side of the conveyor belt.
-Please note that health drain is disabled in osu!mania, so only the hitobjects will affect the healthbar.
+Please note that health drain is disabled in osu!mania, so only the hit objects will affect the healthbar.
 Combo will not break when playing the keys on empty judgement line.
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) while playing or while in song selection screen.
@@ -395,16 +396,16 @@ The falling notes must be tapped on the judgement line, with correct key corresp
 More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
 A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
 
-##### Holdnotes
-![osu!mania's holdnotes][osu!mania holdnotes image]
+##### Hold notes
+![osu!mania's hold notes][osu!mania holdnotes image]
 
-_A typical play with some holdnotes_
+_A typical play with some hold notes_
 
-Holdnotes are the sliders and spinners of osu!mania.
-When the holdnote reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the holdnote.
+Hold notes are the sliders and spinners of osu!mania.
+When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
 
-Healthbar regeneration occurs slowly while holding the holdnote(s).
-Depending on the song and mapping quirks, it is possible that other notes or holdnotes to appear while holding the previous holdnote(s).
+Healthbar regeneration occurs slowly while holding the hold note(s).
+Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
 
 #### Controls
 ![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
@@ -417,7 +418,7 @@ There two different binding-styles, _Symmetrical_ and _Left to Right_.
 _Symmetrical_ key binding (For _DJMAX_ style)
 - For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
 - For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
-- *Center* button — (K5)`Spacebar`. \[On 5K and 7K only\]
+- _Center_ button — (K5)`Spacebar`. \[odd numbered keys only\]
 - The _Special_ button — `leftShift` and `leftCtrl`.
 
 Key | L | C | R
@@ -430,7 +431,7 @@ Key | L | C | R
 
 _Left to Right_ key binding (For _Beatmania IIDX_ style)
 - From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
-- The *Special* button — `leftShift` and `leftCtrl`.
+- The _Special_ button — `leftShift` and `leftCtrl`.
 
 Key | Bindings
 :---:|:---
@@ -469,12 +470,15 @@ _Detailed explanation of scoring can be found at the game style's own respective
 - D  = Any other accuracy under 85.00%.
 
 #### ![osu!mania icon][osu!mania icon link] osu!mania
-- SS = 100% Accuracy (only MAX and/or 300).
-- S = Over 95% Accuracy (an 'S' rank is possible even with several misses, like in _osu!catch_).
-- A = Over 90% Accuracy.
-- B = Over 80% Accuracy.
-- C = Over 70% Accuracy.
-- D = Anything else.
+
+Grade| Condition
+:---:|:---
+SS   | 100% Accuracy (only MAX and/or 300).
+S    | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in _osu!catch_).
+A    | Over 90% Accuracy.
+B    | Over 80% Accuracy.
+C    | Over 70% Accuracy.
+D    | Anything else.
 
 #### All
 **Special grades**
@@ -550,6 +554,8 @@ Keep in mind that _osu!_ has four game modes so you might be looking at the wron
 _Manually select the game mode to view at the profile._
 
 #### How do I change the default keyboard key input for my game mode of choice?
+_Full explanation: [Options][Options wikilink]_
+
 ![Options sidebar with quickicons][Options quickicons image]
 
 From the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard** section as shown below.

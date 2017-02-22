@@ -1,447 +1,293 @@
+<!-- wiki -->
+[Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!mania"
+[Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
+[xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
+[Score#osu!maniaSV wikilink]: /wiki/Score/ "more info can be found on Score under osu!mania Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
+[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "osu!mania Skinning"
+[Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
+[Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
+[Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
+[Mascots#Maria wikilink]: /wiki/Mascots "more info can be found on Mascots under Maria"
+
+<!-- osu!mania specific -->
+[osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Game Mode"
+[osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
+[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
+
+<!-- shared image -->
+[osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
+[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
+[osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
+[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
+[osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
+[osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "osu!mania key layout"
+[osu!mania key layout2 image]: /wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)"
+[osu!mania editor image]: /wiki/shared/Editor_Mania.png "osu!mania-specific Editor"
+[osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg.jpg "osu!mania-specific Difficulty setup.jpg"
+[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
+
 # osu!mania
 
-![Gameplay of osu!mania](img/intro.jpg)
+**[Click to return to Game Modes page][Game_Modes wikilink]**
 
-osu!mania is osu!'s newest game mode.
-It is similar to Beatmania IIDX (or DJMAX, Guitar Hero, O2Jam/mania, StepMania, DDR and other rhythm games that require more than 3 buttons) in which a player needs to press the specific buttons for the beat notes that are coming down.
-It is somewhat similar to [osu!taiko](/wiki/Game_Modes/osu!taiko), but with more buttons to press and notes moving downward rather than moving horizontally to the left.
+## ![osu!mania icon][osu!mania icon link] Introduction
 
-## Gameplay
+![Gameplay of osu!mania][osu!mania Interface image]
 
-This mode has been widely used in almost all the major rhythm games that require good hands/legs coordination, where the beat notes with their quantity depending on BPM and difficulty move on the conveyor, and the player have to press the correct button for that specific beat note in time.
-Though the game mode was originally made as an imitation of Beatmania style of playing, however, by changing the number of buttons, you can make it look more like Guitar Hero (5) or Dance Dance Revolution (4) and so on.
-Currently, you can play with 1 to 10 buttons.
+This mode has been widely used in almost all of the major rhythm games.
+It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
+With this, the player will have to press the correct key for that specific note in time.
+Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, _osu!mania_ allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
 
-In the song selection screen, the number next to the "K" tells you how many keys you'll be playing (can be changed with the xKey mods, if not an osu!mania-specific map).
-When you see "K↓", it means that the judgement is easier (meaning that it easier to get a higher score).
-Without the "↓" symbol, the beatmap will be played with its normal judgement.
-The judgement of a beatmap is determined automatically.
+It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons notes moving vertically rather than moving horizontally.
+
+## Gameplay explanation
+
+### Song Selection
+
+#### Keys and Judgement
+
+In the song selection screen, the number next to the _K_ shows how many keys will be used for the play.
+The beatmap will be played with looser judgement if "↓" symbol was appended at the end of _K_.
+
+For example, _4K↓_ means that it will be played with four(4) keys with a looser judgement timing than usual.
+
+Do note that the judgement of a beatmap is determined automatically.
+
+#### osu!specific beatmaps and conversion from osu! beatmap difference
+
+When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
+
+With the [xK][xK wikilink] game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction.
+However, this game modifier will not work with osu!mania-specific beatmaps.
+
+With the [Co-Op][Co-Op wikilink] game modifier, the stage will be split in two.
+This will use Co-Op's control scheme and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction.
+
+Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+
+#### Speed Change
+
+![Speed Change value is located at the top-right][osu!mania SC image]
+
+_Speed Change value is located at the top-right_
+
+**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower).
+
+![A difference Speed Change can make depending on beatmap's density][osu!mania SCDiff image]
+
+_A difference Speed Change can make depending on beatmap's density_
+
+The lowest limit is 1 and the highest limit is 40.
+By default, it is 7.
+
+### Gameplay
+
+#### Playfield
+
+![osu!mania playfield][osu!mania playfield image]
+
+_In-game playfield interface of osu!mania_
+
+By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
+To change the flow of the playfield from bottom-to-top instead, it can be changed in the _Options_ sidebar; click on _osu!mania layout_ button to set _osu!mania_ keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+
+Healthbar is located at the right side of the conveyor belt.
+Please note that health drain is disabled in osu!mania, so only the hit objects will affect the healthbar.
+Combo will not break when playing the keys on empty judgement line.
+
+**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
+
+#### Notes
+
+![osu!mania's notes][osu!mania notes image]
+
+_A typical play with consecutive and simultaneous notes_
+
+Notes are the hit circles of osu!mania.
+The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to.
+More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
+
+A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
+
+#### Hold notes
+
+![osu!mania's hold notes][osu!mania holdnotes image]
+
+_A typical play with some hold notes_
+
+Hold notes are the sliders and spinners of osu!mania.
+When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
+
+Healthbar regeneration occurs slowly while holding the hold note(s).
+Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
+
+## Play Styles
+
+**[Refer to Play Styles page under osu!mania.][Play_Styles#osu!mania wikilink]**
 
 ## Controls
 
-![Key Bind colour and placement by number of buttons](img/key_binds.png)
+![Options keyboard section][Options keyboard image]
 
-There *used to be* two different binding-styles, *Symmetrical* and *Left to Right*.
+_[Refer to Options-&gt;Input under Keyboard section, specifically the osu!mania layout button to adjust the key settings][Options#Keyboard wikilink]_
 
--   *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K, 7K, and 9K only) and the other column matches the keys in its corresponding place.
--   *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
-    -   However, the option to pick had already been removed and the current style is based on "Symmetrical" style. For legacy reason, "Left to Right" style is kept here.
+### Normal
 
-*Symmetrical* key binding (For DJMAX style)
+![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
 
--   For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
--   For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
--   *Center* button — (K5)**spacebar**. \[On 5K, 7K, and 9K only\]
--   The *Special* button — (S1)**left SHIFT** \[Using special style\] or **left control "Ctrl"** \[Alternate binding\].
+There _used to be_ two different binding-styles, _Symmetrical_ and _Left to Right_:-
 
-*Left to Right* key binding (For Beatmania IIDX style)
+- _Symmetrical_ style mimics the button placement of _DJMAX_, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
+  Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+- _Left to Right_ style mimics the button placement of _Beatmania IIDX_, where the first column matches to the _key1_, then the second column matches the _key2_ and so on.
+  - However, the option to pick had been removed and the current style is based on "Symmetrical" style.
+    For legacy reason, "Left to Right" style is kept here.
 
--   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
--   The *Special* button — (S1)**left SHIFT** and **left control "Ctrl"**.
+_Symmetrical_ key binding (For _DJMAX_ style)
+- For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+- _Center_ button — (K5)`Spacebar`. \[odd numbered keys only\]
+- The _Special_ button — `leftShift` \[Using special style\] and `leftCtrl` \[Alternate binding\].
 
-![Default Key layouts of osu!mania](img/key_layouts.jpg)
+Key | L | C | R
+:---:|:---|:---:|---:
+1K|-|K5|
+2K|K4|-|K6
+3K|K4|K5|K6
+4K|K3, K4|-|K6, K7
+5K|K3, K4|K5|K6, K7
+6K|K2, K3, K4|-|K6, K7, K8
+6K(L)|**S1**, K3, K4|K5|K6, K7
+6K(R)|K3, K4|K5|K6, K7, **S1**
+7K|K2, K3, K4|K5|K6, K7, K8
+8K|K1, K2, K3, K4|-|K6, K7, K8, K9
+8K(L)|**S1**, K2, K3, K4|K5|K6, K7, K8
+8K(R)|K2, K3, K4|K5|K6, K7, K8, **S1**
+9K|K1, K2, K3, K4|K5|K6, K7, K8, K9
 
-<table>
- <thead>
-  <tr>
-   <th>Key</th>
-   <th colspan="3">Symmetrical binding</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>1K</td>
-   <td>-</td>
-   <td>K5</td>
-   <td>-</td>
-  </tr>
-  <tr>
-   <td>2K</td>
-   <td>K4</td>
-   <td>-</td>
-   <td>K6</td>
-  </tr>
-  <tr>
-   <td>3K</td>
-   <td>K4</td>
-   <td>K5</td>
-   <td>K6</td>
-  </tr>
-  <tr>
-   <td>4K</td>
-   <td>K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7</td>
-  </tr>
-  <tr>
-   <td>5K</td>
-   <td>K3, K4</td>
-   <td>-</td>
-   <td>K6, K7</td>
-  </tr>
-  <tr>
-   <td>6K</td>
-   <td>K2, K3, K4</td>
-   <td>-</td>
-   <td>K6, K7, K8</td>
-  </tr>
-  <tr>
-   <td>6K (L)</td>
-   <td><b>S1</b>, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7</td>
-  </tr>
-  <tr>
-   <td>6K (R)</td>
-   <td>K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, <b>S1</b></td>
-  </tr>
-   <tr>
-   <td>7K</td>
-   <td>K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8</td>
-  </tr>
-  <tr>
-   <td>8K</td>
-   <td>K1, K2, K3, K4</td>
-   <td>-</td>
-   <td>K5, K6, K7, K8</td>
-  </tr>
-  <tr>
-   <td>8K(L)</td>
-   <td><b>S1</b>, K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8</td>
-  </tr>
-  <tr>
-   <td>8K(R)</td>
-   <td>K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8, <b>S1</b></td>
-  </tr>
-  <tr>
-   <td>9K</td>
-   <td>K1, K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8, K9</td>
-  </tr>
- </tbody>
-</table>
+_Left to Right_ key binding (For _Beatmania IIDX_ style)
+- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
+- The _Special_ button — `leftShift` and `leftCtrl`.
 
-<table>
- <thead>
-  <tr>
-   <th>Key</th>
-   <th colspan="3">Left-To-Right binding</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>4K</td>
-   <td>K1, K2</td>
-   <td>-</td>
-   <td>K4, K5</td>
-  </tr>
-  <tr>
-   <td>5K</td>
-   <td colspan="3">K1, K2, K3, K4, K5</td>
-  </tr>
-  <tr>
-   <td>6K</td>
-   <td colspan="3">K1, K2, K3, K4, K5, K6</td>
-  </tr>
-  <tr>
-   <td>7K</td>
-   <td colspan="3">K1, K2, K3, K4, K5, K6, K7</td>
-  </tr>
-  <tr>
-   <td>8K</td>
-   <td colspan="3">K1, K2, K3, K4, K5, K6, K7, K8</td>
-  </tr>
-  <tr>
-   <td>8K(L)</td>
-   <td colspan="3"><b>S1</b>, K1, K2, K3, K4, K5, K6, K7</td>
-  </tr>
-  <tr>
-   <td>8K(R)</td>
-   <td colspan="3">K1, K2, K3, K4, K5, K6, K7, <b>S1</b></td>
-  </tr>
- </tbody>
-</table>
+Key | Bindings
+:---:|:---
+4K|K1, K2, -, K4, K5
+5K|K1, K2, K3, K4, K5
+6K|K1, K2, K3, K4, K5, K6
+7K|K1, K2, K3, K4, K5, K6, K7
+8K|K1, K2, K3, K4, K5, K6, K7, K8
+8K(L)|**S1**, K1, K2, K3, K4, K5, K6, K7
+8K(R)|K1, K2, K3, K4, K5, K6, K7, **S1**
 
 -   Note: Please refer to the picture based on style used.
 
 ### Co-Op
 
-![Default Key layouts of osu!mania](img/key_layouts2.jpg)
+![Default Key layouts of osu!mania (Co-Op)][osu!mania key layout2 image]
 
-The **[5th of March 2015 update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op]().
-With this mod enabled, you can control a second different set of keys along with the primary set of keys as above.
+The **[5th of March 2015 update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
+With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
 
-*Symmetrical* key binding for second set.
+_Symmetrical_ key binding for second set.
 
--   For *left* hand buttons — (B1)**Q**, (B2)**W**, (B3)**E**, (B4)**R**
--   For *right* hand buttons — (B6)**U**, (B7)**I**, (B8)**O**, (B9)**P**.
--   *Center* button — (B5)**right ALT**. \[On 5K, 7K, and 9K only\]
--   *Special* button - (X1)**right SHIFT** \[Using special style\] or **right control "Ctrl"** \[Alternate binding\].
+-   For _left_ hand buttons — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
+-   For _right_ hand buttons — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
+-   _Center_ button — (B5)`rightAlt`. \[odd numbered keys only\]
+-   _Special_ button - (X1)`rightShift` \[Using special style\] or `rightCtrl` \[Alternate binding\].
 
-<table>
- <thead>
-  <tr>
-   <th>Key</th>
-   <th colspan="3">Primary</th>
-   <th colspan="3">Secondary</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-  </tr>
-  <tr>
-   <td>1K Co-op</td>
-   <td>-</td>
-   <td>K5</td>
-   <td>-</td>
-   <td>-</td>
-   <td>B5</td>
-   <td>-</td>
-  </tr>
-  <tr>
-   <td>2K Co-op</td>
-   <td>K4</td>
-   <td>-</td>
-   <td>K6</td>
-   <td>B4</td>
-   <td>-</td>
-   <td>B6</td>
-  </tr>
-  <tr>
-   <td>3K Co-op</td>
-   <td>K4</td>
-   <td>K5</td>
-   <td>K6</td>
-   <td>B4</td>
-   <td>B5</td>
-   <td>B6</td>
-  </tr>
-  <tr>
-   <td>4K Co-op</td>
-   <td>K3,K4</td>
-   <td>-</td>
-   <td>K6, K7</td>
-   <td>B3, B4</td>
-   <td>-</td>
-   <td>B6, B7</td>
-  </tr>
-  <tr>
-   <td>5K Co-op</td>
-   <td>K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7</td>
-   <td>B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7</td>
-  </tr>
-  <tr>
-   <td>6K Co-op</td>
-   <td>K2, K3, K4</td>
-   <td>-</td>
-   <td>K6, K7, K8</td>
-   <td>B2, B3, B4</td>
-   <td>-</td>
-   <td>B6, B7, B8</td>
-  </tr>
-  <tr>
-   <td>6K(L) Co-op</td>
-   <td><b>S1</b>, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7</td>
-   <td>B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7, <b>X1</b></td>
-  </tr>
-  <tr>
-   <td>6K(R) Co-op</td>
-   <td>K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, <b>S1</b></td>
-   <td>X1, B3, <b>B4</b></td>
-   <td>B5</td>
-   <td>B6, B7</td>
-  </tr>
-  <tr>
-   <td>7K Co-op</td>
-   <td>K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8</td>
-   <td>B2, B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7, B8</td>
-  </tr>
-  <tr>
-   <td>8K Co-op</td>
-   <td>K1, K2, K3, K4</td>
-   <td>-</td>
-   <td>K6, K7, K8, K9</td>
-   <td>B1, B2, B3, B4</td>
-   <td>-</td>
-   <td>B6, B7, B8, B9</td>
-  </tr>
-  <tr>
-   <td>8K(L) Co-op</td>
-   <td><b>S1</b>, K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8</td>
-   <td>B2, B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7, B8, <b>X1</b></td>
-  </tr>
-  <tr>
-   <td>8K(R) Co-op</td>
-   <td>K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8, <b>S1</b></td>
-   <td><b>X1</b>, B2, B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7, B8</td>
-  </tr>
-  <tr>
-   <td>9K Co-op</td>
-   <td>K1, K2, K3, K4</td>
-   <td>K5</td>
-   <td>K6, K7, K8, K9</td>
-   <td>B1, B2, B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7, B8, B9</td>
-  </tr>
- </tbody>
-</table>
+**Table below is based on xK mod used in conjunction with Co-Op mod.**
 
--   This table is based on xK mod used in conjunction with Co-Op mod.
+Key | PL | PC | PR | SL | SC | SR
+:---:|:---|:---:|---:|:---|:---:|---:
+1K Co-op|-|K5|-|-|B5|-
+2K Co-op|K4|-|K6|B4|-|B6
+3K Co-op|K4|K5|K6|B4|B5|B6
+4K Co-op|K3, K4|-|K6, K7|B3, B4|-|B6, B7
+5K Co-op|K3, K4|K5|K6, K7|B3, B4|B5|B6, B7
+6K Co-op|K2, K3, K4|-|K6, K7, K8|B2, B3, B4|-|B6, B7, B8
+6K(L) Co-op|**S1**, K3, K4|K5|K6, K7|B3, B4|B5|B6, B7, **X1**
+6K(R) Co-op|K3, K4|K5|K6, K7, **S1**|**X1**, B3, B4|B5|B6, B7
+7K Co-op|K2, K3, K4|K5|K6, K7, K8|B2, B3, B4|B5|B6, B7, B8
+8K Co-op|K1, K2, K3, K4|-|K6, K7, K8, K9|B1, B2, B3, B4|-|B6, B7, B8, B9
+8K(L) Co-op|**S1**, K2, K3, K4|K5|K6, K7, K8|B2, B3, B4|B5|B6, B7, B8, **X1**
+8K(R) Co-op|K2, K3, K4|K5|K6, K7, K8, **S1**|**X1**, B2, B3, B4|B5|B6, B7, B8
+9K Co-op|K1, K2, K3, K4|K5|K6, K7, K8, K9|B1, B2, B3, B4|B5|B6, B7, B8, B9
 
-<table>
- <thead>
-  <tr>
-   <th>Key</th>
-   <th colspan="3">Primary</th>
-   <th colspan="3">Secondary</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-  </tr>
-  <tr>
-   <td>3K</td>
-   <td>K4</td>
-   <td>-</td>
-   <td>K6</td>
-   <td>-</td>
-   <td>B5</td>
-   <td>-</td>
-  </tr>
-  <tr>
-   <td>5K</td>
-   <td>K4</td>
-   <td>K5</td>
-   <td>K6</td>
-   <td>B4</td>
-   <td>-</td>
-   <td>B6</td>
-  </tr>
-  <tr>
-   <td>7K</td>
-   <td>K3, K4</td>
-   <td>-</td>
-   <td>K6, K7</td>
-   <td>B4</td>
-   <td>B5</td>
-   <td>B6</td>
-  </tr>
-  <tr>
-   <td>9K</td>
-   <td>K3, K4</td>
-   <td>-</td>
-   <td>K6, K7</td>
-   <td>B3, B4</td>
-   <td>B5</td>
-   <td>B6, B7</td>
-  </tr>
- </tbody>
-</table>
+**Table below only applies to osu!mania-specific beatmaps.
+Only odd-numbered xK specifics are mentioned.
+Refer to first table for even number xK specific (For 4K specific, refer to 2K Co-op and so on).**
 
--   This only applies to osu!mania specific difficulties. Only odd-numbered xK specifics are mentioned. Refer to first table for even number xK specific (For 4K specific, refer to 2K Co-op and so on)
-
-### Speed Change
-
-**Scrolling speed of the beat notes** can be changed by pressing **\[Ctrl\]** (Or **\[Shift\]**) with (**\[+\]** / **\[-\]**) while playing the beatmap or while in song selection menu.
-Alternatively, you can also use **F3** or **F4**, but they will not work in the song selection menu.
+Key | PL | PC | PR | SL | SC | SR
+:---:|:---|:---:|---:|:---|:---:|---:
+3K|K4|-|K6|-|B5|-
+5K|K4|K5|K6|B4|-|B6
+7K|K3, K4|-|K6, K7|B4|B5|B6
+9K|K3, K4|-|K6, K7|B3, B4|B5|B6, B7
 
 ## Scoring
+
+_[Scoring Values can be found in Score under osu!mania Scoring Values section][Score#osu!maniaSV wikilink]_
 
 This section details all the intricacies of scoring, including mathematical formulas.
 
 ### Grades
 
--   SS: 100% accuracy (only MAX and/or 300).
--   S: Over 95% accuracy (You can have 'S' rank even if you make several misses, like in osu!catch).
--   A: Over 90% accuracy.
--   B: Over 80% accuracy.
--   C: Over 70% accuracy.
--   D: Anything else.
+Grade| Condition
+:---:|:---
+SS   | 100% Accuracy (only MAX and/or 300).
+S    | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in _osu!catch_).
+A    | Over 90% Accuracy.
+B    | Over 80% Accuracy.
+C    | Over 70% Accuracy.
+D    | Anything else.
 
-It is possible to obtain SSH or SH ranks (silver S or SS), if you can obtain S or SS with Hidden, FadeIn or Flashlight mod.
+It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden][Hidden wikilink]/[Fade In][Fade In wikilink] or [Flashlight][Flashlight wikilink] mod.
 
 ### Judgement
 
-**Hit notes**
+**Notes**
 
--   You get a MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on how accurately you hit it.
--   If you do not hit a note at all or hit it way too early, you will receive a miss.
+- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
+- A Miss given when missing a note or hit it way too early.
 
 **Hold notes**
 
--   The judgement for hold notes depends on both how accurately you hit it and how accurately you release it.
+-   The judgement for hold notes depends on both starting hold and ending release points.
 -   Keep holding till end of note, with initial and final with perfect timing: MAX
 -   Keep holding till end of note, without releasing the note: 200
--   Do a *NG* and not recover the hold note: Miss
--   Do a *NG* and even hold back the note: 50
+-   Do a _NG_ and not recover the hold note: Miss
+-   Do a _NG_ and even hold back the note: 50
 
-(NG: *Not Good* aka *NG* terms in StepMania and DDR, which happens when you release the hold note during hold timing.)
+NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was released during hold timing.
 
 ### Accuracy
 
-<table>
- <thead>
-  <tr>
-   <th colspan="2">Accuracy = (Total points of hits) / (Total number of hits)</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>(Total points of hits)</td>
-   <td>(50s * 50) + (100s * 100) + (200s * 200) + (300s * 300) + (MAXs * 300)</td>
-  </tr>
-  <tr>
-   <td>(Total number of hits)</td>
-   <td>(Misses + 50s + 100s + 200s + 300s + MAXs) * 300</td>
-  </tr>
- </tbody>
-</table>
+Terms | Formulae
+--- | ---
+**Accuracy** | Total points of hits / (Total number of hits * 300)
+**Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
+**Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
 
 Note that MAX and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
 
 ### Score
 
-In osu!mania, each beatmap has the same maximum total score (it's 1,000,000).
+In osu!mania, each beatmap has the same maximum total score (1 million; 1,000,000).
 
 The score is given in two parts, base score and bonus score, each contributing 50% of total score.
 
-Base score is based on hit judgement. A rainbow 300 is worth a bit more than 300.
+- Base score is based on hit judgement.
+  - A rainbow 300 is worth a bit more than 300.
+- Bonus score is based on hit judgement and a floating bonus multiplier.
+  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
+  - The better judgement, the more multiplier increase/less punishment.
+    - There's an upper limit for the multiplier.
 
-Bonus score is based on hit judgement and a floating bonus multiplier. The multiplier increases when you get a rainbow 300 or 300, while it decreases when you get a 200 or below. The better judgement you get, the more the multiplier increase, or the less punishment. There's an upper limit for the multiplier.
-
-The score given by each note is calculated with the following formula:
+The score given by each note is calculated with the following formula:-
 
 ```
 Score = BaseScore + BonusScore
@@ -454,7 +300,7 @@ Bonus is limited to [0, 100], initially 100.
 
 MaxScore = 1 000 000
 ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-ModDivider = The punishment divider of the selected mods (difficulty increase) 
+ModDivider = The punishment divider of the selected mods (difficulty increase)
 
 Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
    MAX       320          32            2
@@ -476,22 +322,43 @@ DoubleTime                     1.1
 Flashlight                    1.06
 ```
 
-## Editing
+## Skinning
+
+**[Refer to Skinning page of osu!mania for full information.][Skinning#osu!mania wikilink]**
+
+## Beatmapping
 
 ### Map Editor
 
-![The osu!mania editor](img/editor.png)
+![The osu!mania editor][osu!mania editor image]
 
-Just like the other modes, osu! will convert osu!standard beatmaps to osu!mania when playing in this mode.
-However, when you change the map's mode to "osu!mania", the editor will change, as shown in the screenshot.
-If you press the arrow button you will see the lines with possible notes.
-Number of lines can be set in the “Song Setup” =&gt; Column Count.
+_The osu!mania-specific editor_
+
+To access osu!mania-specific editor, change the beatmap to osu!mania-specific in Song Setup under Advanced tab.
+Do note that the beatmap will be locked to osu!mania only when the settings was changed from _All_ to _osu!mania_.
+
+![Changing the key counts][osu!mania SSD image]
+
+_Changing the enforced key count_
+
+To change the enforce key count, go to Song Setup under Difficulty tab and adjust the _Key Count_.
+Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with doubled _Key Count_ to map on.
 
 ## Trivia
 
--    osu!mania was released on **08.10.2012**
--    The old osu!mania editor required the beatmapper to place hitcircles onto the playfield, where they'll be transcribed onto the stage.
+![osu!mania logo in the Special Game Modes][osu!mania logo]
+
+_osu!mania logo in the deprecated Special Game Modes_
+
+- osu!mania was released on [**08/10/2012**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
+- If the key count is the same after using the xK or Co-Op modifier, no score reduction will be given.
+  - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
+  - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
+  - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
+- The old osu!mania editor used to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
+- The first osu!mania beatmap to be officially ranked is [fripSide - only my railgun by DJPop](https://osu.ppy.sh/s/63089 "fripSide - only my railgun by DJPop").
+- Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
 
 ## References
 
--    [Announcement post](http://osu.ppy.sh/forum/p/1825880)
+- [Announcement post](http://osu.ppy.sh/forum/p/1825880)
