@@ -5,7 +5,7 @@
 
 **토너먼트 프로그램 사용시 스트리밍을 하는 대회, 멀티유저 이벤트 이외의 클라이언트 사용을 금지합니다. 또한 클라이언트는 개인용으로 사용할 수 없습니다.**
 
-사용의 **문제**가 있는 경우  **[이 스레드](https://osu.ppy.sh/forum/t/327120)**에서 **[문제해결](Osu!tourney#Troubleshooting "wikilink")** 섹션을 읽거나, 게시 할 수 있습니다. 
+사용의 **문제**가 있는 경우 **[문제해결](Osu!tourney#Troubleshooting "wikilink")** 섹션을 읽거나, **[이 스레드](https://osu.ppy.sh/forum/t/327120)**에 게시 할 수 있습니다. 
 
 osu!tourney 무엇인가?
 ===================
