@@ -11,9 +11,10 @@
 [Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
 [Mascots#Maria wikilink]: /wiki/Mascots "more info can be found on Mascots under Maria"
+[Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
 <!-- osu!mania specific -->
-[osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Game Mode"
+[osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Mode"
 [osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
 [osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
 
@@ -28,6 +29,8 @@
 [osu!mania editor image]: /wiki/shared/Editor_Mania.png "osu!mania-specific Editor"
 [osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg.jpg "osu!mania-specific Difficulty setup.jpg"
 [Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
+
+<!-- Title -->
 
 # osu!mania
 
@@ -47,6 +50,10 @@ It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons
 ## Gameplay explanation
 
 ### Song Selection
+
+To access the osu!mania game mode, press `Ctrl`+`4` at the same time.
+
+Alternatively, click on the `Mode` button and select `osu!mania`.
 
 #### Keys and Judgement
 
@@ -232,7 +239,7 @@ Key | PL | PC | PR | SL | SC | SR
 
 _[Scoring Values can be found in Score under osu!mania Scoring Values section][Score#osu!maniaSV wikilink]_
 
-This section details all the intricacies of scoring, including mathematical formulas.
+This section details all the intricacies of scoring, including mathematical formulaes.
 
 ### Grades
 
@@ -266,7 +273,7 @@ NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was re
 
 ### Accuracy
 
-Terms | Formulae
+Term | Formulae
 --- | ---
 **Accuracy** | Total points of hits / (Total number of hits * 300)
 **Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
@@ -346,9 +353,9 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 ## Trivia
 
-![osu!mania logo in the Special Game Modes][osu!mania logo]
+![osu!mania logo in the Special Modes][osu!mania logo]
 
-_osu!mania logo in the deprecated Special Game Modes_
+_osu!mania logo in the deprecated Special Modes_
 
 - osu!mania was released on [**08/10/2012**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
 - If the key count is the same after using the xK or Co-Op modifier, no score reduction will be given.
@@ -356,8 +363,9 @@ _osu!mania logo in the deprecated Special Game Modes_
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
 - The old osu!mania editor used to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
-- The first osu!mania beatmap to be officially ranked is [fripSide - only my railgun by DJPop](https://osu.ppy.sh/s/63089 "fripSide - only my railgun by DJPop").
+- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun by DJPop](https://osu.ppy.sh/s/63089 "fripSide - only my railgun by DJPop").
 - Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
+- When played by [Auto][Auto wikilink], the player name will be _osu!topus_.
 
 ## References
 

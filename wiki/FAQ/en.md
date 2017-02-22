@@ -49,6 +49,7 @@
 [Taiko hit circles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles"
 [Taiko drumroll image]: /wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll"
 [Taiko spinner image]: /wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)"
+[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS"
 [Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
 [Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch bananas"
@@ -296,6 +297,18 @@ _osu!catch_ (formerly known as _Catch the Beat_) is the second game mode added t
 Instead of tapping circles to the beat, move the catcher at the bottom of the screen while the fruits fall from above.
 
 #### Basic explanation
+
+##### Playfield
+
+![osu!catch playfield difference between CS2 and CS7][osu!catch Playfield]
+
+_Left is CS2 playfield and right is CS7 playfield_
+
+The zoom size of the playfield is based on CS (Circle Size) settings, with lower CS means much more zoomed in and smaller space, while higher CS means much more zoomed out and larger movement space.
+
+The catcher can move from left to right, with the fruits falling from top to bottom.
+The catcher cannot move pass the left and right walls of the playfield.
+
 All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate.
 Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
 
@@ -342,8 +355,9 @@ All hyperfruits have a signature red colour surrounding the hyperfruit itself by
 Collecting the hyperfruit will make the catcher's dash upgraded to _hyperdash_ (just fast enough to catch the next fruit), glows red, and leaves a temporary red _afterimage_ at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
 
 #### Controlling the catcher
-- By default, the left `<-` and right `->` arrow keys to move the catcher.
-- Pressing the `leftShift` key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
+- By default, the left `<-`(L) and right `->`(R) arrow keys to move the catcher.
+- Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
+  - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
 
 The placement of in-game cursor does not matter when playing normally.
 If [Relax][Relax wikilink] mod was enabled, the control of the catcher will be the in-game cursor instead.
@@ -462,12 +476,15 @@ _Detailed explanation of scoring can be found at the game style's own respective
 - B  = Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes).
 
 #### ![osu!catch icon][osu!catch icon link] osu!catch
-- SS = 100.00% Accuracy
-- S  = 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in _osu!mania_).
-- A  = 94.01% to 98.00% Accuracy
-- B  = 90.01% to 94.00% Accuracy
-- C  = 85.01% to 90.00% Accuracy
-- D  = Any other accuracy under 85.00%.
+
+Grade| Condition
+:---:|:---
+SS | 100.00% Accuracy
+S  | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in _osu!mania_).
+A  | 94.01% to 98.00% Accuracy
+B  | 90.01% to 94.00% Accuracy
+C  | 85.01% to 90.00% Accuracy
+D  | Any other accuracy under 85.00%.
 
 #### ![osu!mania icon][osu!mania icon link] osu!mania
 
