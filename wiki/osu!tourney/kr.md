@@ -12,7 +12,7 @@ osu!tourney 무엇인가?
 
 osu!tourney 클라이언트는 멀티방에서 모든 플레어어의 플레이를 동시에 관전하는데 사용되는 공식 스트리밍 클라이언트입니다. 클라이언트는 월드컵용으로 제작되었기 때문에 약간의 제약이 있을 수도 있습니다.
 
-토너먼트 클라이언트는 양팀을 합쳐서 16명 까지 지원 가능하며 각 팀 인원은 최소 1명에서 최대 8명 까지 팀을 구성할 수 있습니다. The number of windows opened cannot currently be changed, but this behaviour will be modified in the future.
+토너먼트 클라이언트는 양팀을 합쳐서 16명 까지 지원 가능하며 각 팀 인원은 최소 1명에서 최대 8명 까지 팀을 구성할 수 있습니다. 열린 창 수는 현재 변경할 수 없지만, 이 동작은 나중에 수정됩니다.
 
 osu! tourney를 사용하려면 [토너먼트 스텝](https://osu.ppy.sh/g/26)에 일원이 되어야 합니다. 토너먼트 스텝이 되지 않으면 접속할 수 없습니다.
 
@@ -79,27 +79,27 @@ osu!tourney 사용법
 
 | 클라이언트/서버 클라이언트의 기본 인터페이스 |
 | ----------------------------------------- |
-| ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface") |
+| ![osu!tourney 인터페이스](Osutourneymain.png "osu!tourney Interface") |
 
 위 사진은 클라이언트의 인터페이스입니다. 클라이언트 자체 사용은 매우 간단합니다. 화면 상단은 두 개의 파트로 나뉘여 있으며 멀티 방의 두 팀을 대표합니다. 각각의 osu! 화면은 멀티 룸의 슬롯에 해당됩니다. 이것은 각각의 플레이어들이 각자의 자리에 있을 것 이라는 것을 의미 합니다. 
 
 | 플레이어는 멀티방에 위치에 따라 윈도우창에 할당됩니다. |
 | ----------------------------------------------------------------------------------- |
-| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |  
+| ![osu!tourney 플레이 창](Osutourneywindows.png "osu!tourney Player Windows")   |  
 
 제대로된 진행을 위해서 선수들이 멀티 방에서 적절한 슬롯에 있는 지 확인 하십시오. 정확한방법에 대한 내용은 멀티플레이어 세션 생성 및 취급에서 확인 가능 합니다.
 
 | osu!tourney 컨트롤 패널 |
 | ----------------------------------------- |
-| ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel") |
+| ![osu!tourney 컨트롤 패널](Osutourneypanel.png "osu!tourney control panel") |
 
-![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![멀티방이 올바르게 생성되면 지시 사항 대신 나열됩니다.](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
-![osu!tourney assigns team names and usernames automatically](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
+![osu!tourney은 팀 이름과 사용자 이름을 자동으로 할당합니다.](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
 
-![osu!tourney does not simply spectate. It also shows the current team score and the currently played song](Osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
+![osu!tourney는 단순히 관전만하지 않습니다. 현재 팀 점수와 현재 재생중인 노래를 보여줍니다](Osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
 
-![osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
+![osu! tourney는 결과 화면을 표시할 때 승자를 자동으로 선언하고 점수를 추가합니다. 그리고, 다른 스프라이트를 재생하고, 실패한 선수는 검게 칠합니다.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
 
 클라이언트 하단에 제어판이 표시 됩니다.이것은 당신이 원하는 멀티방의 이름을 짓기 위해 필요한 템플릿을 보여드립니다. 그것은 tournament.cfg 파일설정과 2개의 팀 이름으로 정의된 약어로 구성됩니다. **[자세한 내용은 멀티 플레이어 세션 생성 및 취급을 참조하십시오.](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**
 
@@ -107,7 +107,7 @@ osu!tourney 사용법
 
 경기가 종료되면 점수가 높은 팀에게 별 하나가 채워지며 팀 점수(별)를 증가됩니다. 또한 팀점수를 수동으로 변경할 수 있도록 하여. **마우스 오른쪽키와 왼쪽키를 클릭하여 별의 개수를 수동으로 변경 할 수 있습니다.**.
 
-![osu!tourney with activated annotation](Osutourneywarmup.png "osu!tourney with activated annotation")
+![osu!tourney 활성화 된 주석](Osutourneywarmup.png "osu!tourney with activated annotation")
 
 메시지를 표시하려면 주석단추를 클릭하여 설정할 수 있습니다. 활성화되면 제어판의 해당 텍스트 상자에 있는 메시지가 화면 상단에 표시되고 팀 점수는 beatmap이 완료된 후에도 변경되지 않습니다.
 
@@ -141,7 +141,7 @@ osu!tourney을 사용하여 멀티 방을 원활하게 상호작용을 하기 �
 
 `Test Tourney: (팀 이름 1) vs (팀 이름 2)`
 
-팀 이름 1과 팀 이름 2를 임의로 할당할 수 있지만, 괄호를 묶어 두면 됩니다. **괄호를 묶어 두면 됩니다 () **.
+팀 이름 1과 팀 이름 2를 임의로 배치할 수 있지만, 괄호를 묶어 두면 됩니다. **괄호를 묶어 두면 됩니다 () **.
 
 IRC Commands (optional)
 -----------------------
@@ -204,7 +204,6 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
 `!mp move Loctav 4` - Loctav를 방의 슬롯 4로 이동시킵니다.
 
 `!mp team Zallius blue` -Zallius를 파란색 팀으로 이동시킵니다.
-
 `!mp team Loctav red` - Loctav를 빨간색 팀으로 이동시킵니다.
 
 `!mp set 0 2` - 개인전, 스코어 모드로 설정합니다.
@@ -216,11 +215,11 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
 
 osu! tourney 클라이언트가 방을 성공적으로 인식하려면 !mp move 및 !mp team 명령을 사용하여 방에 들어오는 플레이어에게 올바른 슬롯으로 배정해야합니다.
 
-**[Using osu!tourney](Osu!tourney#Using_osu!tourney "wikilink")** 설명한대로, 클라이언트의 각 창은 멀티 플레이어 로비슬롯에 배정됩니다. tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯을 차지하고 오른쪽 팀이 아래슬롯을 차지합니다.
+**[osu!tourney 사용법](Osu!tourney#Using_osu!tourney "wikilink")** 설명한대로, 클라이언트의 각 창은 멀티 플레이어 로비슬롯에 배정됩니다. tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯을 차지하고 오른쪽 팀이 아래슬롯을 차지합니다.
 
 | 각 멀티방 슬롯에 대한 osu!tourney에 대응 |
 | ------------------------------------------------------------------------------------- |
-| ![osu!tourney Player Assignment](Osutourneyassignment.png "osu!tourney Player Assignment") |
+| ![osu!tourney 플레이어 ](Osutourneyassignment.png "osu!tourney Player Assignment") |
 
 예를 들어 TeamSize = 4로 설정하면 1, 2, 3, 4 번 슬롯은 왼쪽 팀에 속하게 되고, 5, 6, 7, 8 번 슬롯은 오른쪽 팀에 속하게 됩니다. 
 
@@ -231,7 +230,7 @@ osu! tourney 클라이언트가 방을 성공적으로 인식하려면 !mp move 
 
 osu!tourney는 모든 팀의 색깔을 무시한다는 것을 명심하시기 바랍니다. 유일하게 주목할 만한 것은 멀티방의 위치입니다.
 
-모든 팀 멤버가 osu!tourney 내에 있는 팀에 속해 있도록 하려면 선수들은 반드시 멀티방에 있는 올바른 슬롯에 위치해야 합니다. 아래 그림은 다양한 팀사이즈를 가진 osu!tourney 사진입니다. 화면의 숫자는 멀티 플레이어 로비에서 할당된 슬롯을 나타냅니다. 숫자는 보이지 않으며 설명 목적으로만 여기에 표시됩니다.
+모든 팀 멤버가 osu!tourney 내에 있는 팀에 속해 있도록 하려면 선수들은 반드시 멀티방에 있는 올바른 슬롯에 위치해야 합니다. 아래 그림은 다양한 팀사이즈를 가진 osu!tourney 사진입니다. 화면의 숫자는 멀티 플레이어 로비에서 배정된 슬롯을 나타냅니다. 숫자는 보이지 않으며 설명 목적으로만 여기에 표시됩니다.
 
 
 | TeamSize = 4 |
@@ -253,9 +252,9 @@ osu!tourney는 모든 팀의 색깔을 무시한다는 것을 명심하시기 �
 스킨
 --------
 
-![osu!tourney can be customized in various ways](Osutourneycustom.png "osu!tourney can be customized in various ways")
+![osu!tourney 다양한 방법으로 커스텀마이즈 할 수 .](Osutourneycustom.png "osu!tourney can be customized in various ways")
 
-osu! tourney는 다양한 디자인을 위해 클라이언트 스킨이 수정 가능 합니다. 그것을 위해서 당신은 토너먼트 폴더에 스킨을 넣어야 합니다. 
+osu! tourney는 다양한 디자인을 위해 클라이언트 스킨이 수정 가능 합니다. 그것을 위해서 당신은 토너먼트 폴더에 스킨을 넣어야 합니다.
 
 폴더의 경로는 `.../osu!/Skins/User/tournament`입니다.스킨 요소는 이 폴더(tournament)에 배치 할 수 있으며 `*.jpg`, `*.png` and `*.mp4` 파일 확장자를 지원합니다. 적절한 스킨 배치를 위하여 다음요소에 따라 이름을 지정하십시오.
 
@@ -266,7 +265,7 @@ osu! tourney는 다양한 디자인을 위해 클라이언트 스킨이 수정 �
 
 이것에 최적화된 해상도는 1280x720 60FPS입니다.
 
-![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
+![osu!tourney 팀 아이콘 입니다. 왼쪽 아이콘 이름은 Team 1.png 그리고 오른쪽 아이콘 이른은 named Team 2.png 입니다.](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
 
 (예: 국기 또는 사용자 아바타)을 skin폴더에 생성할 수 있습니다. 아이콘은 반드시 /osu!/Skins/User/tournament/icons  `.../osu!/Skins/User/tournament/icons`. 이 경로로 배치해야 합니다. 또한 모든 아이콘은 팀 이름과 정확히 일치해야 합니다.
 
@@ -345,8 +344,6 @@ Osu!에 들어 왔는지 확인하십시오! 굵은 글씨가 될 때까지 검�
 **j) Twitch.tv와 같은 서비스에 내 토너먼트를 스트리밍하려면 어떻게 해야 합니까?**
 
 스트리밍을 설정하려면 Open Broadcaster Software를 사용하는 것이 좋지만 액세스 권한이 있는 다른 스트리밍 클라이언트를 자유롭게 사용할 수도 있습니다. osu! tourney의 윗부분의 해상도는 1280x720입니다. 검은 색 컨트롤 패널을 스트리밍하지 마십시오.
-
-<!-- -->
 
 **k) 내 문제는 여기에 나와 있지 않습니다! 어떻게 해야 합니까?**
 
