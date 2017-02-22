@@ -1,7 +1,7 @@
 Précision
 ==========
 
-Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), La précision golbale personnelle et la précision des [pp](/wiki/Performance_Points).
+Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), La précision globale personnelle et la précision des [pp](/wiki/Performance_Points).
 
 En bref, la précision de la beatmap dépend du [Score](/wiki/Score) obtenu, la précision globale dépend de la précision de chaque soumission de meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influence plus que les scores à faible précision), et la précision des pp dépend des soumission des scores en ligne sur les beatmaps éligible au gain de pp.
 
