@@ -184,7 +184,7 @@ Bancho (반쵸)에게 개인 메시지로 !mp help를 보내면 모든 명령 �
 
 -   `!mp map` <mapid> `[<playmode>]` - 방의 비트맵과 플레이모드를 변경합니다.
 
-    `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
+    `playmode` - 0: osu!, 1: osu!taiko, 2: osu!catch, 3: osu!mania
 
 -   `!mp mods` <mod> `[<mod>] [<mod>] …` - 현재 적용중인 모드를 모두 제거하고, 이 모드를 방에 적용합니다.
 
