@@ -53,7 +53,6 @@ Dans ce mode, la précision est calculée de manière similaire au mode [Standar
 | -------------------------- | --------------- |
 | (Nombre de droplets + Nombre de 100 + Nombre de 300) | (Nombre de Ratés + Nombre de 50 + Nombre de 100 + Nombre de 200 + Nombre de 300 + Nombre de MAX) |
 
-Note that MAX and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
 Veuillez noter que MAX et 300 valent tout les deux le maximum dans le calcul de la précision, bien qu'un MAX soit plus fort qu'un 300 en terme de score.
 
 Ecran de résultat
