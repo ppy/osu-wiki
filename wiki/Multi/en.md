@@ -21,7 +21,7 @@
 
 <!-- Image links used -->
 [Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction."
-[Multi_lobby image]: ./img/Multi_lobby.jpg "Example of a typical day in the Multiplayer Lobby"
+[Multi_lobby image]: ./img/Multi_lobby.jpg "Example of a typical day in the Multi's Lobby"
 [Multi_new_game image]: ./img/Multi_new_game.jpg "Setting up configuration for a New Game"
 [Multi_roomhost image]: ./img/Multi_roomhost.jpg "Example of Host Match Setup"
 [Multi_roomplayer image]: ./img/Multi_roomplayer.jpg "Example of Player Match Setup (With Free Mods on)"
@@ -44,13 +44,11 @@
 [Tag Team Vs Grade image]: ./img/Multi_tag_team_grade.jpg "Tag Team Vs grade screen"
 
 <!--Title-->
-# Multiplayer
+# Multi
 
-## Introduction
+_Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
 
-Multiplayer or _Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen players can compete against each other on a single map decided by the host.
-
-[osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with [Online Users Panel][Chat_Console#Extended_Chat Console wikilink].
+The [osu!academy][osu!academy wikilink] covered this page in [Episode 6 (6:52)][osu!academy Ep6] along with the [Online Users Panel][Chat_Console#Extended_Chat Console wikilink].
 
 ## How to enter
 
@@ -61,14 +59,12 @@ Multiplayer or _Multi_ was implemented on the 3rd of June 2008 (3.6.08) under [o
 _One of the ways to transfer the beatmap without leaving the room_
 
 - Decent online connection.
-- _osu!account_ logged into _Bancho_ (should be done automatically during ingame login)
-- Have a fair amount of beatmaps in the `Songs` folder (except for personal preference to download on the spot)
+- _osu!account_ logged into _Bancho_ (should be done automatically during in-game login)
 - Knowing [how to transfer beatmaps without leaving the room.][Beatmaps2 wikilink].
-  - Opening the file directly usually works.
 
 ### Ways to enter
 
-From Main menu,
+From the main menu:-
 
 - Press `Play` then `Multi`; or
 - Press `P` then `M`. (from Keyboard)
@@ -77,31 +73,38 @@ If the connection request with _Bancho_ was successful, _osu!_ will be directed 
 
 ### Notes
 
-Keep in mind that downloading times can range from a few seconds to 15 minutes onwards depending on internet connection.
+Keep in mind that downloading times can range from a few seconds to 15 minutes onwards depending on the player's connection speed.
 
-Losing connection to _Bancho_ will direct _osu!_ back to Main Menu until connection to _Bancho_ has been recovered.
+Losing connection to _Bancho_ will direct _osu!_ back to main menu until connection to _Bancho_ has been recovered.
 When playing a match, a "Quit" will be given on the playerbox.
 
-If _not_ in _Stable_ build, the logged _osu!account_ must has an active _[osu!supporter][osu!supporter wikilink]_ to enter Multi.
+If the player is in the _cuttingedge_ build, the in-game _osu!account_ must have an active _[osu!supporter][osu!supporter wikilink]_ tag to enter.
 
 ## Lobby
 
-![Example of Multiplayer Lobby][Multi_lobby image]
+![Example of Multi's Lobby screen][Multi_lobby image]
 
-_This is a (waiting) Multiplayer Lobby._
+_A typical day in the Lobby screen._
 
-It will show all the available Match Setup in the _Bancho_ server.
+The lobby will show all the currently available Match Setup in _Bancho_.
 Sort out by game mode or fine-tune the search by filtering or searching for a player's name.
-[Chat Console][Chat Console wikilink] will be available at the screen and connected to \#lobby by default.
+The [Chat Console][Chat Console wikilink] will be available at the bottom of the screen and connected to \#lobby by default.
 
-Each row contains a Match Setup with its game mode symbol, game mode name (Team Mode), number of players inside/number of players allowed, rank difference from highest to lowest at the left section; large host profile image and smaller players profile image in the Match Setup along with the Match Setup name and the beatmap's name \[difficulty\] to be played for this match at the right section.
+Each row contains a Match Setup, with the explanation split between left and right side for easier reading:-
+- On the left side, there is the game mode symbol, game mode with (Team Mode) enclosed in brackets, number of players inside over number of players allowed, and rank difference from highest to lowest
+- On the right side, there is a large host profile image and smaller players profile image placement in the Match Setup along with the Match Setup's name and the beatmapset's name with \[beatmap/difficulty\] enclosed in square brackets to be played for this match.
 
 Click on the row to enter the Match Setup.
-If the game mode symbol contains a lock, clicking on it will prompt a password request; fill in the Match Setup password correctly to enter the locked Match Setup.
 
-A new room can be created by pressing the _New Game_ button, or _Quick Join_ a Match Setup by randomly join a room based on available beatmap.
+**Note:** If the game mode symbol contains a lock icon, clicking on it will prompt an empty text box to enter the Match Setup password.
+The player should enter the correct password to access the locked Match Setup.
+Alternatively, the player can request an invite from the Match Setup's host directly to bypass the locked password requirement.
 
-Click on the _Back to Menu_ button to return to the Main Menu.
+A new Match Setup can be created by pressing the `New Game` button.
+
+The `Quick Join` button will direct the player to an available Match Setup randomly based on current rank range.
+
+Click on the _Back to Menu_ button to return to the main menu.
 
 ## New game
 
@@ -117,7 +120,7 @@ Title | Description
 
 Press the `1. Start Game` button to create the room with the player as the host of the room and the beatmap playing in the jukebox as the match's beatmap difficulty.
 
-_osu!_ will be directed to **Match Setup**.
+The player will be directed to **Match Setup**.
 
 ## Match Setup
 
@@ -212,7 +215,7 @@ Host-selected mods other than the Speed mods will not be enforced upon players.
 
 The lower right section will shows how the beatmap will be played in the match (Team Mode) and the Win Condition.
 
-Team Mode contains four ways of how a multiplayer match will be played.
+Team Mode contains four ways of how a match will be played.
 
 Team Mode | Description
 ---|---
