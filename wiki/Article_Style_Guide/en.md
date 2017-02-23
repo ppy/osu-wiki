@@ -249,6 +249,60 @@ If you are using the reference style linking, it is sugguested to place the refe
 When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
 
+### Linking Types
+
+There are three kinds of links:
+
+- absolute
+- relative-absolute
+- relative-relative
+
+The one you use may depend on the scenario.
+
+#### Absolute Links
+
+Absolute links contains the the `http://` or `https://` protocol, the sub/domain, the directory, and the file it links to (if available).
+Or basically, a url.
+For example:
+
+```
+https://www.example.com/osu/lazer.md
+```
+
+Use of this type of link may include:
+
+- linking to another website
+
+#### Relative-Absolute Links
+
+Relative-absolute links are relative links that start in an absolute location (the root directory).
+For example:
+
+```
+/wiki/shared/False.png
+```
+
+Use of this type of link may include:
+
+- linking to an article within the osu!wiki
+- linking to a shared image (images that are used in multiple places)
+
+#### Relative-Relative Links
+
+Relative-relative links are relative links that start from the current directory.
+For example:
+
+```
+img/example.png
+./img/example.png
+../Insane/
+```
+
+Use of this type of link may include:
+
+- linking to an article that is a subdirectory of an article
+- linking to images for a specific article
+
 ### Section Linking
 
 Section linking in the osu!wiki does not work as of now.
