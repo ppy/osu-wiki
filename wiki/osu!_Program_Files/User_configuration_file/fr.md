@@ -7,12 +7,12 @@
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TreeSortMode                 | Détermine la valeur de 'Regrouper' au menu de sélection des chansons.                                                                                                                                      |
 | TreeSortMode2                | Détermine la valeur de 'Trier' au menu de sélection des chansons.                                                                                                                                          |
-| keyOsuLeft                   | osu! keyboard bindings                                                                                                                                                                                     |
+| keyOsuLeft                   | Touche clavier pour osu!                                                                                                                                                                                     |
 | keyOsuRight                  |
-| keyFruitsDash                | Touches de mouvement osu!Catch the Beat                                                                                                                                                                    |
+| keyFruitsDash                | Touches de mouvement osu!catch                                                                                                                                                                  |
 | keyFruitsLeft                |
 | keyFruitsRight               |
-| keyTaikoInnerLeft            | Touches de batterie pour osu!Taiko                                                                                                                                                                         |
+| keyTaikoInnerLeft            | Touches de batterie pour osu!taiko                                                                                                                                                                         |
 | keyTaikoInnerRight           |
 | keyTaikoOuterLeft            |
 | keyTaikoOuterRight           |
@@ -90,7 +90,7 @@
 | LobbyShowFriendsOnly         |
 | LobbyShowFull                |
 | LobbyPlayMode                |
-| ShowReplayComments           | Active/Désactive "Afficher les commentaires" lorsu'un replay est visionné.                                                                                                                                 |
+| ShowReplayComments           | Active/Désactive "Afficher les commentaires" lorsqu'un replay est visionné.                                                                                                                                 |
 | ChatFilter                   | Active/Désactive le filtre de langage                                                                                                                                                                      |
 | ChatRemoveForeign            | Active/Désactive le filtre des caractères étrangers                                                                                                                                                        |
 | ChatLastChannel              | Dernier canal actif                                                                                                                                                                                        |
@@ -133,7 +133,7 @@
 | keyInheritingSection         |
 | keyRemoveSection             |
 | keyDisableButtons            | Touche pour désactiver les boutons de souris (par défaut F10)                                                                                                                                                                  |
-| keyKeySpecial                | Touches pour osu!Mania                                                                                                                                                                                            |
+| keyKeySpecial                | Touches pour osu!mania                                                                                                                                                                                            |
 | keyKeyLeft1                  |
 | keyKeyLeft2                  |
 | keyKeyLeft3                  |
@@ -145,7 +145,7 @@
 | keyKeyRight1                 |
 | ManiaSpeed                   | Taux de vitesse d'approche Mania                                                                                                                                                                                  |
 | LogPrivateMessages           | Sauvegarde automatiquement les logs des chat privés                                                                                                                                                                       |
-| keyKey1                      | Touches pour osu!Mania                                                                                                                                                                                             |
+| keyKey1                      | Touches pour osu!mania                                                                                                                                                                                             |
 | keyKey2                      |
 | keyKey3                      |
 | keyKey4                      |
@@ -225,6 +225,6 @@
 | keyDecreaseSpeed             |                                                                                                                                                                                                            |
 | UsePerBeatmapManiaSpeed      |                                                                                                                                                                                                            |
 | LastVersionPermissionsFailed |                                                                                                                                                                                                            |
-| ManiaSpeedBPMScale           | Force la vitesse de défilemnt d' osu!Mania à s'adapter au BPM                                                                                                                                              |
+| ManiaSpeedBPMScale           | Force la vitesse de défilemnt d' osu!mania à s'adapter au BPM                                                                                                                                              |
 | MenuTriangles                | Active les triangles                                                                                                                                                                                       |
 ||
