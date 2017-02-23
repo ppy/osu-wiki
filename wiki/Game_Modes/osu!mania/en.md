@@ -36,8 +36,6 @@
 
 **[Click to return to Game Modes page][Game_Modes wikilink]**
 
-## ![osu!mania icon][osu!mania icon link] Introduction
-
 ![Gameplay of osu!mania][osu!mania Interface image]
 
 This mode has been widely used in almost all of the major rhythm games.
@@ -47,7 +45,7 @@ Though the game mode was originally made as an imitation of the _Beatmania_ styl
 
 It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons notes moving vertically rather than moving horizontally.
 
-## Gameplay explanation
+## ![osu!mania icon][osu!mania icon link] Gameplay explanation
 
 ### Song Selection
 

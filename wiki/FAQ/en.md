@@ -32,12 +32,10 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[ouendan image]: ./Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
 [Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Profile mode buttons"
-[osu_smoke image]: ./osu_smoke.jpg "Smoke Usage"
-[osu_smoke_set image]: ./osu_smoke_set.jpg "Smoke in key bindings"
 
 <!-- shared image -->
+[ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
 [osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
 [osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
 [osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
@@ -67,6 +65,8 @@
 [Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "Example of an .osu file content"
 [Mode Interface image]: /wiki/shared/Interface_mode.png "Mode change interface"
 [Slider ticks image]: /wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play"
+[osu_smoke image]: /wiki/shared/osu_smoke.jpg "Smoke Usage"
+[osu_smoke_set image]: /wiki/shared/osu_smoke_set.jpg "Smoke in key bindings"
 
 <!-- Title -->
 # FAQ
@@ -166,9 +166,11 @@ _In-game interface of osu!_
 
 The top-left bar is the healthbar.
 This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
-A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the healthbar.
+A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50).
+A total miss will take a good chunk of health out of the healthbar.
 
-On the right of the healthbar is the total scoreBelow that is the accuracy.
+On the right of the healthbar is the total score.
+Below that is the accuracy.
 The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap.
 The number on the bottom left is the combo counter/score multiplier.
 
@@ -180,6 +182,14 @@ Mouse|Keyboard|Tablet/Touchscreen
 Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
 The hit objects in _osu!_ will accept any input from the input device, as long as each hit objects was tapped in time.
+
+If [Relax][Relax wikilink] mod was used, only the in-game cursor will work.
+Use the in-game cursor to follow the hit objects with automated tap.
+Spinners must still be completed.
+
+If [Auto Pilot][Auto Pilot wikilink] mod was used, only the input from the input device will work.
+Time the tap on the hit objects with automated cursor movement.
+Spinner will follow the [Spun Out][Spun Out wikilink] mod speed.
 
 ---
 
@@ -462,12 +472,15 @@ _Detailed explanation of scoring can be found at the game style's own respective
 
 ### Grades
 #### ![osu! icon][osu! icon link] osu!
-- SS = 100% Accuracy
-- S  = Over 90% 300s, less than 1% 50s and no misses.
-- A  = Over 80% 300s and no misses **OR** over 90% 300s.
-- B  = Over 70% 300s and no misses **OR** over 80% 300s.
-- C  = Over 60% 300s.
-- D  = Anything else.
+
+Grade| Condition
+:---:|:---
+SS | 100% accuracy
+S  | Over 90% 300s, less than 1% 50s and no misses
+A  | Over 80% 300s and no misses **OR** over 90% 300s
+B  | Over 70% 300s and no misses **OR** over 80% 300s
+C  | Over 60% 300s
+D  | Anything else
 
 #### ![osu!taiko icon][osu!taiko icon link] osu!taiko
 - SS = 100% Accuracy.
