@@ -41,7 +41,7 @@ Releasing the key early will fail the quick retry.
 
 Access to [Chat Console][Chat Console wikilink] (`F8`)/[Extended Chat Console][Extended Chat Console wikilink] (`F9`) will still be available.
 Press the `Tab` key to hide/show the currently-selected leaderboard.
-Press the `H` key to hide all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto][Auto wikilink].
+Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto][Auto wikilink].
 
 A [Cinema][Cinema wikilink] replay will:-
 
@@ -145,7 +145,7 @@ _A typical local replay_
 A local _Solo_ play.
 As long as the difficulty was passed, a replay will be generated internally and can be exported to `Replays` folder.
 
-At the backend, one pair of files will be created in the hidden folder, `Data\r`: `.osr` (_osu replay_; the replay file), and `.osg` (accuracy and combo in real-time; used for spectators' replay only) with same encrypted filename.
+At the backend, one pair of files will be created in the hidden folder, `Data/r`: `.osr` (_osu replay_; the replay file), and `.osg` (accuracy and combo in real-time; used for spectators' replay only) with same encrypted filename.
 It is highly suggested to **not rename the encrypted filename**, and make use of the export `F2` key instead.
 
 Deleting the `.osg` file has no effect (it is a leftover file for spectator's replay; can be safely removed).
