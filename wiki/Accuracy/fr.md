@@ -5,10 +5,10 @@ Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), La p
 
 En bref, la précision de la beatmap dépend du [Score](/wiki/Score) obtenu, la précision globale dépend de la précision de chaque soumission de meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influence plus que les scores à faible précision), et la précision des pp dépend des soumission des scores en ligne sur les beatmaps éligible au gain de pp.
 
-Osu!Standard
+osu!standard
 ---------------
 
-En mode [Standard](/wiki/Game_Modes/osu!), la précision en pourcentage est calculée en mesurant le score obtenu de chaque note et en le divisant par le montant maximal possible. En d'autres termes :
+En mode [osu!](/wiki/Game_Modes/osu!), la précision en pourcentage est calculée en mesurant le score obtenu de chaque note et en le divisant par le montant maximal possible. En d'autres termes :
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -18,10 +18,10 @@ En mode [Standard](/wiki/Game_Modes/osu!), la précision en pourcentage est calc
 
 Pour référence: 300 = 6/6, 100 = 2/6, 50 = 1/6, Raté = 0/6.
 
-Osu!Taiko
+osu!taiko
 -----------
 
-En mode [Taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est calculée en sommant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATE/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
+En mode [osu!taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est calculée en sommant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATE/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -29,10 +29,10 @@ En mode [Taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est cal
 | ---------------------------| --------------- |
 | (Nombre de Ratés * 0 + Nombre de 100(BIEN) * 0.5 + Nombre de 300(EXCELLENT) * 1) * 300 | (Nombre de Ratés + Nombre de 100 + Nombre de 300) |
 
-Osu!Catch the Beat
+osu!catch
 ---------------------
 
-En mode [Catch the Beat](/wiki/Game_Modes/osu!catch), la précision de la chanson est calculée en sommant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
+En mode [osu!catch](/wiki/Game_Modes/osu!catch), la précision de la chanson est calculée en sommant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
 
 **Précision = Nombre de fruits attrapés / Nombre de fruits total**
 
@@ -42,10 +42,10 @@ En mode [Catch the Beat](/wiki/Game_Modes/osu!catch), la précision de la chanso
 
 Veuillez noter que si vous utilisez l'API pour calculer la précision, le nombre de droplets est sous **count50** et le nombre de droplets ratés est sous **countkatu**.
 
-Osu!Mania
+osu!mania
 ------------
 
-Dans [osu!mania](/wiki/Game_Modes/osu!mania), la précision est calculée de manière similaire au mode [Standard](/wiki/Game_Modes/osu!).
+Dans [osu!mania](/wiki/Game_Modes/osu!mania), la précision est calculée de manière similaire au mode [osu!](/wiki/Game_Modes/osu!).
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
