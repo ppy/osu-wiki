@@ -336,3 +336,4 @@ If you need help making a complicated table, try to see if you can improvise a s
   - to prevent ambiguity, use:
     - `Beatmap` when refering to the specific difficulty
     - `Beatmapset` when refering to the set of beatmaps (beatmapset = same song mapped by same user)
+- When refering to the Multiplayer mode, use `Multi` instead of `Multiplayer`
