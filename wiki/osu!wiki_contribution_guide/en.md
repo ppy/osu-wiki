@@ -78,6 +78,7 @@ Optionally, if you plan to make changes locally:
 - A Markdown previewer with **GFM** support.
   - We use [Shiba][Shiba] or Visual Studio Code's/Atom's built-in GFM previewers.
 - Basic knowledge in VCS (Version control system), particularly in using [Git][Git].
+  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or programs like [Git Extensions][Git Extensions].
 
 ## Forking osu-wiki repository
 
@@ -148,13 +149,16 @@ You are now all set to make changes safely with a solid bailout plan.
 
 #### Updating the branch content
 
-To edit a page, go to the folder of that page and select the language of that article.
-From here, you should see something like this:
+![GitHub Folder Preview](./img/Contribute_folderview.jpg "GitHub Folder Preview")
 
-*Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
+_Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
 All article pages inside these folders must use the two letter language codes.
 To know which language code to use, see the [List of ISO 639-1 codes][ISO 639-1] following the `639-1` column.
-Please follow this format when creating a new article.*                
+Please follow this format when creating a new article._
+
+To edit a page, go to the folder of that page and select the language of the article.
+
+From here, you should see something like this:            
 
 ![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
 
@@ -192,7 +196,7 @@ After uploading your changes, scroll down to _Commit Changes_ and fill the follo
 
 ##### Update a file
 
-If the file exist but was written badly or syntax errors were found, click on the pencil icon to edit.
+If the file was available but was written badly or syntax errors were found, click on the pencil icon to edit.
 This should redirect you to the web editor.
 
 ![GitHub's Web Editor](./img/Contribute_webeditor.jpg "Web Editor Snapshot")
@@ -206,7 +210,7 @@ After making your changes, scroll down to _Commit Changes_ and fill the followin
 
 ![Commit Message](./img/Contribute_webcommit.jpg "Commit Message")
 
-_**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get merged!
+_**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get accepted!
 Also, please write it in English.**_
 
 You would be given an option where to save your edits.
@@ -267,7 +271,7 @@ cd osu-wiki
 
 The terminal command, `cd`, will move Git down to ``osu-wiki``, which is where your freshly created local copy is at.
 
-Remember previous mention about ``origin``?
+Remember the previous mention about ``origin``?
 
 Well, do the below first:
 
@@ -362,7 +366,7 @@ This command is used to check for Git's response about the status of the local c
 If it throws up an error (meaning, you are in the wrong directory), type in this command in the CLI:
 
 ```prolog
-cd $HOME
+cd ~
 cd osu-wiki
 ```
 
@@ -538,7 +542,7 @@ With the PR up, you can either refine your PR content and files by pushing to th
 If your PR was deemed good enough, a Team osu! member may come and merge your changes to the official branch.
 
 **Your commit messages should thoroughly explain your changes.
-Otherwise, the pull request may not be merged to the official branch!**
+Otherwise, the pull request may not be accepted to the official branch!**
 
 ## Repo Sync and cleanups
 
