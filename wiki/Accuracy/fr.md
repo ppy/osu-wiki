@@ -1,14 +1,14 @@
 Précision
 ==========
 
-Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps/fr.md), La précision globale personnelle et la précision des [pp](/wiki/Performance_Points/fr.md).
+Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), La précision globale personnelle et la précision des [pp](/wiki/Performance_Points).
 
-En bref, la précision de la beatmap dépend du [Score](/wiki/Score/fr.md) obtenu, la précision globale dépend de la précision de chaque soumission de meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influence plus que les scores à faible précision), et la précision des pp dépend des soumission des scores en ligne sur les beatmaps éligible au gain de pp.
+En bref, la précision de la beatmap dépend du [Score](/wiki/Score) obtenu, la précision globale dépend de la précision de chaque soumission de meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influence plus que les scores à faible précision), et la précision des pp dépend des soumission des scores en ligne sur les beatmaps éligible au gain de pp.
 
 Osu!Standard
 ---------------
 
-En mode [Standard](/wiki/Game_Modes/osu!/fr.md), la précision en pourcentage est calculée en mesurant le score obtenu de chaque note et en le divisant par le montant maximal possible. En d'autres termes :
+En mode [Standard](/wiki/Game_Modes/osu!), la précision en pourcentage est calculée en mesurant le score obtenu de chaque note et en le divisant par le montant maximal possible. En d'autres termes :
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -21,7 +21,7 @@ Pour référence: 300 = 6/6, 100 = 2/6, 50 = 1/6, Raté = 0/6.
 Osu!Taiko
 -----------
 
-En mode [Taiko](/wiki/Game_Modes/osu!taiko/fr.md), la précision de la chanson est calculée en sommant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATE/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
+En mode [Taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est calculée en sommant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATE/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -32,7 +32,7 @@ En mode [Taiko](/wiki/Game_Modes/osu!taiko/fr.md), la précision de la chanson e
 Osu!Catch the Beat
 ---------------------
 
-En mode [Catch the Beat](/wiki/Game_Modes/osu!catch/fr.md), la précision de la chanson est calculée en sommant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
+En mode [Catch the Beat](/wiki/Game_Modes/osu!catch), la précision de la chanson est calculée en sommant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
 
 **Précision = Nombre de fruits attrapés / Nombre de fruits total**
 
@@ -45,7 +45,7 @@ Veuillez noter que si vous utilisez l'API pour calculer la précision, le nombre
 Osu!Mania
 ------------
 
-Dans [osu!mania](/wiki/Game_Modes/osu!mania/fr.md), la précision est calculée de manière similaire au mode [Standard](/wiki/Game_Modes/osu!/fr.md).
+Dans [osu!mania](/wiki/Game_Modes/osu!mania), la précision est calculée de manière similaire au mode [Standard](/wiki/Game_Modes/osu!).
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -60,7 +60,7 @@ Ecran de résultat
 
 ### Classement (Ranking)
 
-Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi que le la précision de la beatmap en pourcentage. Pour plus d'informations, regardez [Score](/wiki/Score/fr.md).
+Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi que le la précision de la beatmap en pourcentage. Pour plus d'informations, regardez [Score](/wiki/Score).
 
 ![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
