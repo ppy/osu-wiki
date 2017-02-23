@@ -89,7 +89,7 @@ Votre performance au cours de votre partie y est affiché. Des informations addi
 
 #### Spin
 
-Spin est affiché uniquement pour osu!Standard
+Spin est affiché uniquement pour osu!
 
 | Terme | Signification |
 | ----- | ------------- |
