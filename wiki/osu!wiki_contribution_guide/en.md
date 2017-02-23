@@ -78,7 +78,8 @@ Optionally, if you plan to make changes locally:
 - A Markdown previewer with **GFM** support.
   - We use [Shiba][Shiba] or Visual Studio Code's/Atom's built-in GFM previewers.
 - Basic knowledge in VCS (Version control system), particularly in using [Git][Git].
-  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or programs like [Git Extensions][Git Extensions].
+  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
+  - Some editors (like Visual Studio Code) may provide a Git interface.
 
 ## Forking osu-wiki repository
 
@@ -109,6 +110,20 @@ You can now proceed to make changes.
 
 ## Making Changes
 
+### Concept of feature-branch workflow
+
+![Slide image about Feature-branch workflow](./img/Contribute_branchworkflow.jpg "Feature-branch workflow")
+
+_[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_
+
+Frankly speaking, you _could_ do all of your changes in the ``master`` branch.
+However, it is _bad practice to do this in the long run_.
+
+This is where branching comes into play.
+By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
+
+In the event of major slip-ups, you can cut off the branch and start a new branch copy based on the clean branch.
+
 ### Through GitHub's Web Editor
 
 #### Accessing the correct repository and branch.
@@ -120,16 +135,6 @@ First, visit your own forked repo (you can rename the ``ppy`` part in ``https://
 You should be in the ``master`` branch by default.
 
 #### Making a new branch
-
-![Slide image about Feature-branch workflow](./img/Contribute_branchworkflow.jpg "Feature-branch workflow")
-
-_[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_
-
-Frankly speaking, you _could_ do all of your changes in the ``master`` branch. However, it is _bad practice to do this in the long run_.
-
-This is where branching comes into play.
-By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
-In the event of major slip-ups, you can cut off the branch and start a new branch copy based on the clean branch.
 
 ![Branch dropdown list](./img/Contribute_webbranch.jpg "Branch dropdown list")
 
@@ -230,8 +235,9 @@ GitHub under the hood, is a Git Service.
 You can clone your fork to your PC and make changes there.
 
 This guide was written for Command Line Interface (CLI) version of Git.
-If you have any adversity in using the CLI, you can find and self-learn the GUI (Graphical User Interface) version of Git or programs like [Git Extensions][Git Extensions].
-Some editors (ie. Visual Studio Code) may provide a Git interface.
+
+If you have any adversity in using the CLI, you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
+Some editors (like Visual Studio Code) may provide a Git interface.
 
 Please be reminded that local copy and remote copy are two different things.
 If you did commits without pushing to remote copy, you are effectively talking to yourself.
@@ -283,6 +289,7 @@ The command will set the link (which is the osu-wiki official repository link) t
 If you do not like the ``upstream`` nickname, you can change it to whatever you like, but the guide onwards will still use ``upstream`` nickname to refer to the ``osu-wiki`` official repository link.
 
 Now you have two nicknames, ``origin`` and ``upstream``.
+
 Nicknames are just link-shorthand for you to type in Git when you want to do something, such as telling Git to push (important) local changes to where it should be or telling Git to cross-check and update your own local copy with the latest official copy.
 You can have more nicknames with links based on other repositories of ``osu-wiki``, but two is mostly sufficient for now.
 
@@ -438,7 +445,7 @@ git add .
 git commit -m "<short title>" -m "<long description>"
 ```
 
-- The first command will direct Git to the root of the repository (assuming the repository was cloned at user directory)
+- The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
 - The second command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
 - The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
@@ -446,7 +453,7 @@ git commit -m "<short title>" -m "<long description>"
   - Also, write the commit message in **English**.
   - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
 
-_Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default instead to write your summary.
+_Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default or your predefined text-editor instead to write your summary.
 If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._
 
 After committing your changes, you need to push the commits to GitHub so everyone can see it.
@@ -485,9 +492,10 @@ To begin, go to your own forked repository.
 #### Plan A (PR current branch)
 
 Switch your ``Branch: master`` dropdown button **to the branch you want to do a PR** for.
-Then, press on either the "New pull request" right beside the dropdown button, or the "Pull request" with a merge-branch icon right beside the "Compare" button.
 
-Either of the buttons will still lead you to the same PR branch compare page.
+Then, press on either the "New pull request" right beside the dropdown button, the "Pull request" with a merge-branch icon right beside the "Compare" button, or the "Compare" button.
+
+Either one of the buttons will still lead you to the same PR branch compare page.
 
 #### Plan B (The branch page)
 
@@ -509,6 +517,7 @@ This would lead you to the pull requests page.
 ![PR UI](./img/Contribute_pr3.jpg "Pull Requests Page")
 
 This is the Pull Request Page.
+
 Now click on "New pull request"
 
 ### Preparing the PR
@@ -520,8 +529,6 @@ We want to compare ``ppy:master`` as base fork branch against your branch as hea
 From here, select the branch that contains your commits besides your "head fork".
 
 ![Comparing Changes 2](./img/Contribute_prcomp2.jpg "Comparing Changes 2")
-
-_However, if you made changes in your master branch, the changes will be shown without the need to change anything in the head fork options._
 
 Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
 
@@ -539,7 +546,7 @@ Click on the "Create pull request" button.
 ![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
 
 With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
-If your PR was deemed good enough, a Team osu! member may come and merge your changes to the official branch.
+If your PR was deemed good enough, a _Team osu!_ member may come and merge your changes to the official branch.
 
 **Your commit messages should thoroughly explain your changes.
 Otherwise, the pull request may not be accepted to the official branch!**
@@ -817,7 +824,7 @@ For further information on a styling guide when writing a page, check out [Artic
 ### Why does the file I uploaded not load on the osu!wiki?
 
 Currently, **1MB** size is the upper limit for any files.
-Resize, or compress the file to stay below the file limit.
+Resize or compress the file to stay below the file limit.
 
 Also, check the file extension in use.
 Use only lowercased variant of the file extension (like ``.jpg``, ``.gif``, ``.png``, or ``.md``).
@@ -883,6 +890,7 @@ The old osu!wiki also had no solution to prevent spam.
 
 osu!wiki will be ran like a git repo (repository).
 You can make mass changes easily and efficiently, and you can delay your changes for as long as you like.
+
 Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed for errors and myths before merging by someone with write permission to the master branch.
 This adds a layer of security against spammers and vandals.
 
