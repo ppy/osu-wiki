@@ -6,7 +6,7 @@ Introduction
 **[osu!store](http://store.ppy.sh/store/listing)** (previously known as *[osu!market](http://market.ppy.sh/)*, selling mugs, shirts and hoodies) is an online merchandise store for everything osu!. Each of the merchandises are created with the highest quality available while having a reasonable price tag. Most, if not, all of the merchandises have been quality-checked and approved by the creator of osu! to ensure your purchase was a satisfactory one and valuable of a gift for your friends.
 
 Merchandise
-===========
+-----------
 
 | No. | Image | Product Name / "Caption" | Description |
 | :-: | :---: | :----------------------: | ----------- |
