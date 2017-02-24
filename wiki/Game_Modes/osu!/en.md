@@ -21,9 +21,6 @@
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
 [osu! icon link]: /wiki/shared/Osu.gif "osu! icon"
-[osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
-[osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
-[osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
 [osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "osu! hit circles"
 [osu_slider image]: /wiki/shared/osu_slider.jpg "osu! Slider"
 [osu_spinner image]: /wiki/shared/osu_spinner.jpg "osu! Spinner"
@@ -181,8 +178,6 @@ This section details all the intricacies of scoring, including mathematical form
 
 ### Grades
 
-**Normal grades**
-
 Grade| Condition
 :---:|:---
 SS | 100% accuracy
@@ -196,18 +191,23 @@ A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or
 
 ### Accuracy
 
+Accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount.
+
+In other words: **Accuracy = Total points of hits / (Total number of hits * 300p)**
+
 Term | Formulae
 :---:|:---
-**Accuracy**               | Total points of hits / Total number of hits
-**Total points of hits**   | (50s * 50) + (100s * 100) + (300s * 300)
+**Total points of hits**   | (50s * 50p) + (100s * 100p) + (300s * 300p)
 **Total number of hits**   | (Misses + 50s + 100s + 300s) * 300
+**s**                      | Number of
+**p**                      | points
 
 In other words, each _Miss_ counts as 0 points, each _50_ counts as 50 points, each _100_ as 100 points and each _300_ as 300 points.
 
 Add them all together and divide the sum with the number of hits multiplied by 300.
 
-If you score only 300s you will get a result of 1.00, which means 100% accuracy.
-If you score only 100s you will get a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
+If only 300s: a result of 1.00, which means 100% accuracy.
+If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
 
 ### Score
 
@@ -223,7 +223,7 @@ Term | Formulae
 
 Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
-You are also awarded with additional bonus of 1,000 points for each spin of a spinner after the spinner meter is full.
+Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
 ### Hit circle judgement
 

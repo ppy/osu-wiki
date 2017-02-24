@@ -1,5 +1,6 @@
 <!-- wiki -->
 [Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
 [Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
@@ -41,7 +42,7 @@
 This mode has been widely used in almost all of the major rhythm games.
 It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
 With this, the player will have to press the correct key for that specific note in time.
-Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, _osu!mania_ allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
+Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
 
 It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons notes moving vertically rather than moving horizontally.
 
@@ -98,7 +99,7 @@ By default, it is 7.
 _In-game playfield interface of osu!mania_
 
 By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
-To change the flow of the playfield from bottom-to-top instead, it can be changed in the _Options_ sidebar; click on _osu!mania layout_ button to set _osu!mania_ keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+To change the flow of the playfield from bottom-to-top instead, it can be changed in the `Options` sidebar; click on `osu!mania layout` button to set osu!mania keys settings and enable `Vertically flip playfield (DDR style)` for this key setting manually.
 
 Healthbar is located at the right side of the conveyor belt.
 Please note that health drain is disabled in osu!mania, so only the hit objects will affect the healthbar.
@@ -271,13 +272,16 @@ NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was re
 
 ### Accuracy
 
-Term | Formulae
---- | ---
-**Accuracy** | Total points of hits / (Total number of hits * 300)
-**Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
-**Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
+Accuracy is calculated similarly to [osu!standard][osu! wikilink] in this mode.
 
-Note that MAX and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
+In other words: **Accuracy = Total points of hits / (Total number of hits * 300)**
+
+Term | Formulae
+:---:|:---
+**Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
+**Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
+
+Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
 
 ### Score
 
@@ -333,7 +337,7 @@ Flashlight                    1.06
 
 ## Beatmapping
 
-### Map Editor
+### osu!mania-specific Editor
 
 ![The osu!mania editor][osu!mania editor image]
 
@@ -351,19 +355,24 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 ## Trivia
 
+### Gameplay
+
+- If the key count is the same after using the xK or Co-Op modifier, no score reduction will be given.
+  - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
+  - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
+  - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
+- Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
+- When played by [Auto][Auto wikilink], the player name will be _osu!topus_.
+
+### Others
+
 ![osu!mania logo in the Special Modes][osu!mania logo]
 
 _osu!mania logo in the deprecated Special Modes_
 
 - osu!mania was released on [**08/10/2012**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
-- If the key count is the same after using the xK or Co-Op modifier, no score reduction will be given.
-  - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
-  - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
-  - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
 - The old osu!mania editor used to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
 - The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun by DJPop](https://osu.ppy.sh/s/63089 "fripSide - only my railgun by DJPop").
-- Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!topus_.
 
 ## References
 

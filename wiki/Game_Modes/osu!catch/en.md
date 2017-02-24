@@ -37,7 +37,7 @@
 
 osu!catch, formerly known as _Catch the Beat_ or _CtB_, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
 
-## ![osu!catch icon][osu!catch icon link] Gameplay explanation
+## ![osu!catch icon][osu!catch icon link] Gameplay
 
 ### Song Selection
 
@@ -45,7 +45,7 @@ To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
 
 Alternatively, click on the `Mode` button and select `osu!catch`.
 
-### Gameplay
+### Gameplay Basics
 
 #### Playfield
 
@@ -148,28 +148,29 @@ A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or
 
 ### Accuracy
 
-Your accuracy is defined by how much you have caught over how much you missed, excluding spinner's bananas.
+Accuracy is defined by how much caught over how much missed, excluding spinner's bananas.
+
+In other words: **Accuracy = Total numbers of fruits caught / Total number of fruits**
 
 Term | Formulae
 :---:|:---
-**Accuracy**                       | Total numbers of fruits caught / Total number of fruits
-**Total numbers of fruits caught** | Number of droplets + 100s + 300s
-**Total numbers of fruits**        | Misses + Droplets + 100s + 300s + Missed droplets
+**Total numbers of fruits caught** | Droplets + Drops + Fruits
+**Total numbers of fruits**        | Misses + Missed droplets + Droplets + Drops + Fruits
 
-Note that bananas (or spinner fruit) are considered to be bonus or extra points you could obtain and does not count towards your accuracy.
+Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
 
-If you use the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
+If using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
 
 ### Score
 
 Scoring for osu!catch follows the same multiplier as in [osu!standard][osu! wikilink].
-However, the fruit that adds up your score is different from osu!standard.
+However, the fruit that adds up the score is different from osu!standard.
 
 - A regular sized fruit gives a score of 300 times the multiplier.
 - A large juice drop (slider tick) gives a score of 100.
 - The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
 
-You will not lose your combo for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but you will lose Accuracy and score gain from it.
+Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
 Term | Formulae
 :---:|:---
@@ -200,6 +201,16 @@ Term | Formulae
 
 ## Trivia
 
+### Gameplay
+
+- If `Hit-error` was enabled, it will always use `Colour`.
+- The catcher can be moved around during any break.
+- The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
+- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series][ouendan wikipedia]) until 2014, which was replaced by current catcher and mascot, [Yuzu][Mascots#Yuzu wikilink].
+- When played by [Auto][Auto wikilink], the player name will be _salad!_.
+
+### Others
+
 [first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) by NatsumeRin, with the osu!catch beatmap guest mapped by Uran"
 
 ![osu!catch logo in the Special Modes][osu!catch logo]
@@ -209,10 +220,5 @@ _osu!catch logo in deprecated Special Mode_
 - Until 10th of April 2012, osu!catch maps could not be ranked or be included in ranked maps.
   However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines.
   These guidelines are very much a work in progress, but as more CtB maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series][ouendan wikipedia]) until 2014, which was replaced by current catcher and mascot, [Yuzu][Mascots#Yuzu wikilink].
-- The catcher can be moved around during any break.
-- The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- If `Hit-error` was enabled, it will always use `Colour`.
 - The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) by	NatsumeRin, with the osu!catch beatmap guest mapped by Uran][first catch link]
 - The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki by Deif](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki by Deif")
-- When played by [Auto][Auto wikilink], the player name will be _salad!_.
