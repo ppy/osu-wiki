@@ -135,7 +135,7 @@ _**List of countries is not complete yet!**_
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
   - This may change depending on how many teams are accepted into the competition at the end.
 
 2. All the teams from each group will face each other.
