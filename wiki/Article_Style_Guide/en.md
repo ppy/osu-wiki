@@ -201,6 +201,7 @@ Use code (inline) when noting:
 
 - a key on the keyboard
   - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
+  - When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 - a name of a button
   - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
 - a name of a folder
@@ -211,10 +212,9 @@ Use code (inline) when noting:
   - i.e. `ComboBurstStyle` or `[Events]`
 - the name of a file extension
   - i.e. `.jpg` or `.osz`
-
-When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
-
-When naming a file extension, add a period (`.`) then the file extension in lower case letters.
+  - When naming a file extension, add a period (`.`) then the file extension in lower case letters.
+- the name of a chat channel
+  - i.e. `#lobby`, `#osu`
 
 ## Links
 
@@ -262,7 +262,7 @@ The one you use may depend on the scenario.
 #### Absolute Links
 
 Absolute links contains the the `http://` or `https://` protocol, the sub/domain, the directory, and the file it links to (if available).
-Or basically, a url.
+Basically, this is a url.
 For example:
 
 ```
@@ -370,6 +370,10 @@ If you need help making a complicated table, try to see if you can improvise a s
 
 **Never** place images inside tables.
 
+It is up to you whether or not if you want to beautify the tables.
+They will appear nicer when editing them; however, for those who use text wrapping, the tables will appear as a clumped mess.
+Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
+
 ## Miscellaneous
 
 - Do not use an inline image link for osu!supporter
@@ -386,8 +390,4 @@ If you need help making a complicated table, try to see if you can improvise a s
   - `play style`
   - `hit sound`
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
-- The term `Beatmap` may refer to a `Beatmapset`
-  - to prevent ambiguity, use:
-    - `Beatmap` when refering to the specific difficulty
-    - `Beatmapset` when refering to the set of beatmaps (beatmapset = same song mapped by same user)
-- When refering to the Multiplayer mode, use `Multi` instead of `Multiplayer`
+- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
