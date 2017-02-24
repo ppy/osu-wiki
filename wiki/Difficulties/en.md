@@ -52,7 +52,7 @@ osu!taiko difficulty spreads
 From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 -   **The difficulties in the mapset must be in a consecutive order.** Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars.
--   **A mapset cannot have just one Taiko difficulty.** If you decide to include Taiko in your map, make sure you have at least 2 Taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty.
+-   **A mapset cannot have just one osu!taiko difficulty.** If you decide to include osu!taiko in your map, make sure you have at least 2 osu!taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty.
 
 A common set contains the following four difficulties: Kantan, Futsuu, Muzukashii and Oni which difficulty spread between them **should be approximately kept the same**. To achieve this, it is highly recommended to set a **main snapping** for each difficulty which **follows the pace of the song**. If the spread still happens to be uneven, you may move to another type of set which contains an additional Inner Oni and sometimes even an Ura Oni. These difficulties can be used as filler in a mapset to ensure a consistent spread in case four difficulties are not enough. Also in this way, an **Oni can be mapped easier for people who are still not familiar with harder difficulties, while Inner/Ura serves as harder Oni**.
 
@@ -116,7 +116,7 @@ While Inner and Ura Oni are normally in use for hard Onis, they can also be used
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + easy 1/4
 -   ![Expert](/wiki/shared/Expert-t.png "Expert") Main snapping 1/2 + demanding 1/4
 
-### Taiko Guest Difficulties
+### osu!taiko Guest Difficulties
 
 Note: **M** = Mapper
 
@@ -126,7 +126,7 @@ Note: **M** = Mapper
 
 ![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Insane](/wiki/shared/Insane-t.png "Insane")(M1,M1,M2) ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") (M1,M1,M2)
 
--   Think about lower/new players. They are the **future for our community**, so give them easy difficulties to get used to *Taiko*. ♥
+-   Think about lower/new players. They are the **future for our community**, so give them easy difficulties to get used to *osu!taiko*. ♥
 
 ![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")
 
@@ -136,10 +136,10 @@ Note: **M** = Mapper
 
 -   Make lower players happy by giving them easier difficulties. Experienced players can use several mods to make the map harder for themself.
 
-Rest moments in Taiko
+Rest moments in osu!taiko
 ---------------------
 
-**Rest moments** or **breaks** are really important in a Taiko beatmap and can be seen as the *hidden extra note*. They have a great influence when it's about the **difficulty** and **spread** of a mapset and can **emphasize certain places** in a map. Beside following the song, the length of a rest moment depends also of the **main snapping** in a map. So if for example a Muzukashii has a main snapping of 2/1 + 1/1, the breaks should be bigger than this snapping to **avoid continuous mapping**. Sometimes the length of a rest moment can also vary by the hardness of the previous pattern but this rather apply to lower difficulties.
+**Rest moments** or **breaks** are really important in a osu!taiko beatmap and can be seen as the *hidden extra note*. They have a great influence when it's about the **difficulty** and **spread** of a mapset and can **emphasize certain places** in a map. Beside following the song, the length of a rest moment depends also of the **main snapping** in a map. So if for example a Muzukashii has a main snapping of 2/1 + 1/1, the breaks should be bigger than this snapping to **avoid continuous mapping**. Sometimes the length of a rest moment can also vary by the hardness of the previous pattern but this rather apply to lower difficulties.
 
 **Example what break maps could have:**
 
@@ -148,4 +148,4 @@ Rest moments in Taiko
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 3/2 or 2/1 breaks
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with 1/1 breaks
 
-For skilled mappers or players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](/wiki/Game_Modes/External_Ports/T-Aiko/Old)** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.
+For skilled mappers or players who are having problems to distinguish when a lower difficulty becomes too hard, you can try playing your beatmap on **[T-Aiko!](/wiki/Game_Modes/External_Ports/T-Aiko!)** which gives you a different difficulty feeling and can show how lower player could feel when playing your maps.

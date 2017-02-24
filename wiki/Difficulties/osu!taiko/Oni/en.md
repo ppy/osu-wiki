@@ -1,7 +1,7 @@
 Oni
 ======
 
-An **Oni** is for experienced players. It is in most cases the last difficulty in [Taiko](/wiki/Game_Modes/osu!taiko) which is mostly mapped to a songs significant soundings and contains all the properties from the previous difficulties at once, with the difference, **that the note density is higher**. In that meaning, the usage of longer pattern constellations; more 1/4 notes and for the first time **1/6** is allowed.
+An **Oni** is for experienced players. It is in most cases the last difficulty in [osu!taiko](/wiki/Game_Modes/osu!taiko) which is mostly mapped to a songs significant soundings and contains all the properties from the previous difficulties at once, with the difference, **that the note density is higher**. In that meaning, the usage of longer pattern constellations; more 1/4 notes and for the first time **1/6** is allowed.
 
 Guidelines
 ----------

@@ -1,7 +1,7 @@
 Ura Oni
 =========
 
-**Inner Oni** and **Ura Oni** are just an extra **Oni** and equal to it. In most cases these difficulties are harder as the common Oni and appear when a *Taiko-Set* is able to carry a harder difficulty. In such cases, the Ura/Inner is the real "Oni" while the Oni is just a filler for having a better spread. The word *Inner* or *Ura* means "Hidden", which are the Hidden Onis in the arcade game.
+**Inner Oni** and **Ura Oni** are just an extra **Oni** and equal to it. In most cases these difficulties are harder as the common Oni and appear when a *osu!taiko-Set* is able to carry a harder difficulty. In such cases, the Ura/Inner is the real "Oni" while the Oni is just a filler for having a better spread. The word *Inner* or *Ura* means "Hidden", which are the Hidden Onis in the arcade game.
 
 Guidelines
 ----------

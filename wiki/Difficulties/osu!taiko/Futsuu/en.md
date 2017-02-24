@@ -1,7 +1,7 @@
 Futsuu
 ========
 
-A **Futsuu** difficulty is for players who understood the very basics in [Taiko](/wiki/Game_Modes/osu!taiko) and are ready to go one step forward. Here for the first time, the player is getting confronted **with 1/2 notes** and **different spacings**, which are the basic entry to **Muzukashii** and **Oni**. Together with 2/1 patterns, there can be also an usage of 1/4 and even 1/2, depending on the song. But even so, 1/2 should be used sparingly and only in songs which are intended to be the hardest level of Futsuu. So mapping to the beat becomes more significant at this point but shouldn't be overtaken. That means, a Futsuu can follow a songs beat or vocal but should contain enough 2/1 spacings to give the player the possibility to prepare themself for the upcoming patterns.
+A **Futsuu** difficulty is for players who understood the very basics in [osu!taiko](/wiki/Game_Modes/osu!taiko) and are ready to go one step forward. Here for the first time, the player is getting confronted **with 1/2 notes** and **different spacings**, which are the basic entry to **Muzukashii** and **Oni**. Together with 2/1 patterns, there can be also an usage of 1/4 and even 1/2, depending on the song. But even so, 1/2 should be used sparingly and only in songs which are intended to be the hardest level of Futsuu. So mapping to the beat becomes more significant at this point but shouldn't be overtaken. That means, a Futsuu can follow a songs beat or vocal but should contain enough 2/1 spacings to give the player the possibility to prepare themself for the upcoming patterns.
 
 Also Note: 1/4 notes are still meant for Muzukashii, but can be used in Futsuu; for example when the BPM of a song is really low.
 

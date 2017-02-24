@@ -8,8 +8,8 @@ Normal [difficulties](/wiki/Difficulties) are difficulties in which you must hav
 
 [Mapping](/wiki/Beatmapping) good Normal difficulties can appear to be hard at times, but after a while, it's pretty simple. Here's how to get things started.
 
-Guidelines
-----------
+Mapping Tips
+--------------
 
 Generally following the most distinctive features of a song. **Recovery times** should be plenty but can be less than in the related Easy map. **Use of 1/2 notes** is encouraged as well as the development of more **interesting beat placements** if the song allows it. **Spacing should be mostly consistent** to teach beginners the correlation between timing and distance. It is **not recommended** to change the distance spacing during the mapping process.
 

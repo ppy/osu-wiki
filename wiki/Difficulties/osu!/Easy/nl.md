@@ -13,7 +13,7 @@ osu! standaard
 -   Afrader: heen en weer gaan met hit circles. Beginners lijken vaak een route te volgen, en worden snel van hun stuk gebracht als ze scherpe bochten moeten maken, alsook terugkeren op hun pad.
 -   Zorg dat je combokleuren duidelijk van elkaar onderscheidbaar zijn. Dit is natuurlijk ook nodig op hard of insane, maar des te meer voor beginners.
 
-Taiko spelmodus
+osu!taiko spelmodus
 -----------------
 
 In taiko modus staat de easy bekend onder de naam 'Kantan'. Dit is Japans voor 'gemakkelijk' en is afgeleid van de namen van de moeilijkheidsgraad in Taiko no Tatsujin. 'Kantan'-easy's zijn aan te raden aan de beginnende taiko speler, meer dan de taiko-versie van gemakkelijke beatmaps. Kantans zijn immers aangepast aan de spelmodus.
