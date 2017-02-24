@@ -84,7 +84,6 @@ tournament.cfg 파일을 수정한후에는 osu!를 다시 시작하면 osu! tou
 ### osu!tourney 사용법
 
 ![osu!tourney 인터페이스](Osutourneymain.png "osu!tourney Interface") |
-
 _위 사진은 클라이언트의 기본적인 인터페이스입니다._
 
 위 사진은 클라이언트의 인터페이스입니다. 
@@ -96,12 +95,10 @@ _위 사진은 클라이언트의 기본적인 인터페이스입니다._
 
 ![osu!tourney 플레이 화면](Osutourneywindows.png "osu!tourney Player Windows")
 
-_플레이어는 멀티방에서의 위치에 따라 화면이 할당됩니다._
+_플레이어는 멀티방에서의 위치에 따라 화면 할당됩니다._
 
 ---
-
 ![osu!tourney 컨트롤 패널](Osutourneypanel.png "osu!tourney control panel") |
-
 _osu!tourney 컨트롤 패널_
 
 ![멀티방이 올바르게 생성되면 지시사항 대신 나열됩니다.](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
