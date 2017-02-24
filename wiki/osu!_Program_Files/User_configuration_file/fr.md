@@ -1,7 +1,9 @@
 
-***[Retour à la page principale](../ "Osu!_Program_Files")***
+***[Retour à la page principale](../ "Osu! Program Files")***
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire") Ceci est une liste d'option située dans le fichier osu!.\<nomdevotrepc\>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
+![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
+
+Ceci est une liste d'option située dans le fichier osu!.\<nomdevotrepc\>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
 
 | Code                         | Description                                                                                                                                                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
