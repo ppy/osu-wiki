@@ -55,7 +55,7 @@ _**List of countries is not complete yet!**_
 | | Country | Member |
 | ---: | :---: | :--- |
 | ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [Elementaires](https://new.ppy.sh/u/2284328), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
-| ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[taiko_maniac1811](https://new.ppy.sh/u/595764)**, [Jerry](https://new.ppy.sh/u/605973), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
+| ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[Jerry](https://new.ppy.sh/u/605973)**, [taiko_maniac1811](https://new.ppy.sh/u/595764), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
 | ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
