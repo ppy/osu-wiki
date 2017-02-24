@@ -1,3 +1,11 @@
+<!-- wiki -->
+[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
+
+# Score
+
 A player's performance on a map is given in terms of score after successful completion of the map. Most of the time, combo plays the major part in the scoring system since it serves as a multiplier of the score. The only score limiter known now is [Mania](Mania "wikilink") which is capped at 1,000,000 score at 1.00x score boost. The other gamemodes are not capped, which can result in ridiculous level of score, due to the [combo multiplier effect](combo_multiplier_effect "wikilink").
 
 Because of the combo multiplier effect, if the player exceeds a combo of ~2,000, the player's score will begin to count backwards. This is a flaw with the 32-bit signed integer where—in computing—the max integer is 2,147,483,647. This issue is currently being *resolved* with [scoreV2](scoreV2 "wikilink") which is still being tested.
@@ -250,10 +258,17 @@ Given when failed to catch the Fruit/Slider Tick Droplet*. No score given and br
 </tbody>
 </table>
 
-Scoring Formulae
-----------------
+## Scoring Formulae
 
-### osu!
+### ScoreV2
+
+Introducing the new score modeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+1 million or bust (excluding game mod and bonus).
+
+### Score
+
+#### osu!
 
 | colspan=2|Score = Hit Value + Hit Value \* (Combo multiplier \* Difficulty multiplier \* Mod multiplier) / 25 |
 |---------------------------------------------------------------------------------------------------------------|
@@ -262,7 +277,7 @@ Scoring Formulae
 | Difficulty multiplier                                                                                         |
 | Mod multiplier                                                                                                |
 
-#### How to calculate the Difficulty multiplier
+##### How to calculate the Difficulty multiplier
 
 [Circle Size](Song_Setup#Circle_Size "wikilink"), [HP Drain](Song_Setup#HP_Drain "wikilink") and [Overall Difficulty](Song_Setup#Overall_Difficulty "wikilink") are giving for each tick a "diffculty point"; e.g. the maximum a map can give is 27 difficulty points with CS7, OD10 and HP10; the minimum a map can give is 2 difficulty points with CS2, OD0 and HP0. CS cannot normally go below 2 or above 7.
 
@@ -275,25 +290,51 @@ These "difficulty points" affect the multiplier as so:
 
 Note that mods won't change the Difficulty multiplier. The original values are counting.
 
-### Taiko
+#### osu!taiko
 
-Each GREAT is worth *300 + RoundDown(Combo / 10)* times *n* up to a maximum of *300+10n* points in which n depends on the difficulty settings of the map (HP drain and Overall Difficulty). A typical value of n is 80, which gives a maximum score of 1100 at later combos. For easier difficulty settings, n is equal to 64 in which the maximum score per hit is 940. In the hardest case n is equal to 96 in which the maximum score per hit is 1260. Yet there are lower value of n for even easier difficulties.
+Each GREAT (excluding Kiai Time's 1.2x bonus) is worth _300 + RoundDown(Combo / 10)_ times _n_ up to a maximum of _300+10n_ points, in which _n_ depends on the difficulty rating of the song.
 
-Each *GOOD* gives half of the score as *GREAT* does, while zero score is given for *MISS/BAD*s. Double score is given for *successful hit* large notes (different from Taiko no Tatsujin, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes). For yellow long notes, 300 is given per hit in the small one while 720 per hit is given to the large one. For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
+Each _GOOD_ gives half of the score as _GREAT_ does, while zero score is given for _MISS/BAD_.
 
-Unlike osu! or [CatchTheBeat](CatchTheBeat "wikilink"), a miss in Taiko will not reduce the score from maximum possible score greatly. Instead, constant score is reduced per miss if each miss is separated by more than 100 combos. (With the existence of shaker and large notes, score loss would be larger) For example, in typical difficulty, breaking a combo in the middle of a song without accounting for large notes and spinners, would result in a maximum loss of 44,000 points (to bring the combo back up to 100).
+Double score is given for _successful hit_ on large notes (different from _Taiko no Tatsujin_, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes).
 
-Also unlike the other game modes, [Kiai Time](Kiai_Time "wikilink") has an effect on scores because it refers to the "gogo time" in Taiko no Tatsujin. While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it. Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied.)
+For yellow long notes, 300 is given per hit in the small one while 600 per hit is given to the large one.
 
-| colspan=2|Score = (300 + min(RoundDown(Combo / 10), 10) \* score multiplier \* mod multiplier) |
-|------------------------------------------------------------------------------------------------|
-| Combo                                                                                          |
-| Score multiplier                                                                               |
-| Mod multiplier                                                                                 |
+For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
 
--   Score multiplier includes 32, 48, 64, 80, 96. See [Taiko](Taiko "wikilink") for details.
+A typical value of _n_ (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
+For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per hit is 940/1,880.
+In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
+There are lower value of _n_ for even easier difficulties.
 
-### Catch the Beat
+Unlike [osu!standard][osu! wikilink]/[osu!catch][osu!catch wikilink], a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
+With the existence of shaker and large notes, score loss would be larger.
+
+For example, in a typical difficulty (80), breaking a combo in the middle of a song without accounting for large notes and spinners, would result in a maximum loss of 44,000 points (to bring the combo back up to 100, all GREAT score value).
+
+Also unlike the other game modes, Kiai Time has an effect on scores because it refers to the _"Go-Go Time"_ in _Taiko no Tatsujin_.
+While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
+Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
+
+In short: **Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time**
+
+Term | Meaning
+:---:|:---
+**ScoreValue**             | The Score Value gained from the hit (300/600, 150/300, or 0/0).
+**Combo**                  | (Combo before this hit - 1) or 0; whichever is higher
+**taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
+**raw mod multiplier**     | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up)
+**RoundDown**              | Round down this value to a whole number instead, removing all the decimal values.
+**min(x, y)**              | Always pick the lowest value between _x_ or _y_.
+**Kiai Time**              | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.
+
+Exceptions:-
+
+- Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
+- Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
+
+#### Catch the Beat
 
 | colspan=2|Score = Hit Value + Hit Value \* (Combo multiplier \* Difficulty multiplier \* Mod multiplier) / 25 |
 |---------------------------------------------------------------------------------------------------------------|
@@ -307,7 +348,7 @@ Also unlike the other game modes, [Kiai Time](Kiai_Time "wikilink") has an effec
 -   No "300" is given to a finished spinner, nor combo is given;
 -   Reverse tick counts as full score of a hit. (In osu! Standard, a reverse tick only gives 30 points)
 
-### osu!mania
+#### osu!mania
 
 In osu!mania mode, each beatmap has the **same maximum total score, currently 1,000,000.**
 
@@ -329,7 +370,7 @@ The score given by each note is calculated with the following formula:
 
     MaxScore = 1 000 000
     ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-    ModDivider = The punishment divider of the selected mods (difficulty increase) 
+    ModDivider = The punishment divider of the selected mods (difficulty increase)
 
     Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
        MAX       320          32            2
@@ -339,8 +380,7 @@ The score given by each note is calculated with the following formula:
         50        50           4                       44
       Miss         0           0                        ∞
 
-Other Scores
-------------
+## Other Scores
 
 ### Ranked Score
 

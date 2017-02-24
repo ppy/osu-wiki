@@ -63,8 +63,8 @@ In other words: **Accuracy = Total numbers of fruits caught / Total number of fr
 
 Term | Formulae
 :---:|:---
-**Total numbers of fruits caught** | Number of droplets + Number of 100s + Number of 300s
-**Total numbers of fruits**        | Number of misses + Number of droplets + Number of 100s + Number of 300s + Number of miss droplets
+**Total numbers of fruits caught** | Number of droplets + Number of drops + Number of fruits
+**Total numbers of fruits**        | Number of misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits
 
 "Bananas" (Spinner's fruits) do not count.
 
@@ -130,6 +130,6 @@ _Spin is only for [osu!standard][osu! wikilink]_
 
 -   The above four values are not saved and will disappear after closing _osu!_.
     To see them again, watch an exported replay.
--   Due to the way the Double Time and Half Time mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song.
+-   Due to the way the Double Time (DT) and Half Time (HT) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song.
     To get the true values when playing DT, divide the results by 1.5.
     Similarly, multiply the results by 1.33 when playing HT.

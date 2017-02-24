@@ -9,6 +9,8 @@
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
+[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
@@ -143,9 +145,9 @@ This section details all the intricacies of scoring, including mathematical form
 
 The scoring terms in osu!taiko use the same terms used in _Taiko no Tatsujin_ as shown below:
 
-- GREAT (良)
-- GOOD  (可)
-- MISS/BAD (不可)
+- GREAT (良), or 300
+- GOOD  (可), or 100
+- MISS/BAD (不可), or Miss
 
 ## Grading
 
@@ -177,28 +179,7 @@ For example, in a typical difficulty, breaking a combo in the middle of a song, 
 
 ### Score
 
-<!-- WHUT? -->
-
-Term | Formulae
-:---:|:---
-**Score**            | 300 + min(RoundDown(Combo / 10), 10) * score multiplier * mod multiplier
-**Combo**            | Curent combo number
-**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher
-**Score multiplier** | \[Depends on difficulty rating\]
-**Mod multiplier**   | The multiplier of the selected mods
-**RoundDown**        | Round down this value to a whole number.
-**min**              | (?)
-
-32, 48, 64, 80, 96
-
-Each GREAT is worth _300 + RoundDown(Combo / 10)_ times _n_ up to a maximum of _300+10n_ points in which _n_ depends on the difficulty rating of the song.
-
-<!-- Old or new star system? -->
-
-A typical value of n (4.5-5 star difficulties) is 80, which gives a maximum score of 1100 at later combos.
-For 4 - 4.5 star difficulties, n is equal to 64 in which the maximum score per hit is 940.
-In the hardest case n is equal to 96 in which the maximum score per hit is 1260.
-There are lower value of n for even easier difficulties.
+Each GREAT (excluding Kiai Time's 1.2x bonus) is worth _300 + RoundDown(Combo / 10)_ times _n_ up to a maximum of _300+10n_ points, in which _n_ depends on the difficulty rating of the song.
 
 Each _GOOD_ gives half of the score as _GREAT_ does, while zero score is given for _MISS/BAD_.
 
@@ -207,6 +188,38 @@ Double score is given for _successful hit_ on large notes (different from _Taiko
 For yellow long notes, 300 is given per hit in the small one while 600 per hit is given to the large one.
 
 For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
+
+A typical value of _n_ (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
+For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per hit is 940/1,880.
+In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
+There are lower value of _n_ for even easier difficulties.
+
+Unlike [osu!standard][osu! wikilink]/[osu!catch][osu!catch wikilink], a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
+With the existence of shaker and large notes, score loss would be larger.
+
+For example, in a typical difficulty (80), breaking a combo in the middle of a song without accounting for large notes and spinners, would result in a maximum loss of 44,000 points (to bring the combo back up to 100, all GREAT score value).
+
+Also unlike the other game modes, Kiai Time has an effect on scores because it refers to the _"Go-Go Time"_ in _Taiko no Tatsujin_.
+While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
+Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
+
+In short: **Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time**
+
+Term | Meaning
+:---:|:---
+**ScoreValue**             | The Score Value gained from the hit (300/600, 150/300, or 0/0).
+**Combo**                  | (Combo before this hit - 1) or 0; whichever is higher
+**taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
+**raw mod multiplier**     | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up)
+**RoundDown**              | Round down this value to a whole number instead, removing all the decimal values.
+**min(x, y)**              | Always pick the lowest value between _x_ or _y_.
+**Kiai Time**              | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.
+
+Exceptions:-
+
+- Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
+- Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
 
 ## Skinning
 

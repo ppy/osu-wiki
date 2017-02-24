@@ -155,9 +155,11 @@ In other words: **Accuracy = Total numbers of fruits caught / Total number of fr
 Term | Formulae
 :---:|:---
 **Total numbers of fruits caught** | Droplets + Drops + Fruits
-**Total numbers of fruits**        | Misses + Missed droplets + Droplets + Drops + Fruits
+**Total numbers of fruits**        | Misses + Miss droplets + Droplets + Drops + Fruits
 
-Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
+Exception:-
+
+- Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
 
 If using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
 
