@@ -1,11 +1,14 @@
+Nominatorzy Beatmap
+==========================
+
 Grupa **Nominatorów Beatmap**, bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią "staffu", zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
 
 Role i zadania
 --------------
 
-![Odznaka Nominatora](nominator.png "Odznaka Nominatora")
+![Odznaka Nominatora](Nominator.png "Odznaka Nominatora")
 
-Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding) [oczekujących map](Pending_Beatmap). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](/wiki/Modding) [oczekujących map](/wiki/Beatmaps). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
 
 Stawanie się BN
 ---------------

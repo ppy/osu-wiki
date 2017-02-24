@@ -1,9 +1,12 @@
-Ang **Beatmap Appreciation Team**, dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [rank ng beatmaps](PH:Ranked_Beatmap). Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [GMT](PH:GMT).
+Beatmap Nomination Group - Tagalog
+=====================================
+
+Ang **Beatmap Appreciation Team**, dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [rank ng beatmaps](/wiki/Beatmaps). Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [GMT](/wiki/People/Global_Moderation_Team).
 
 Ano ang posisyon at responsibilidad ng BAT?
 -------------------------------------------
 
-Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa [pag-mod](PH:Modding) ng mga [Pending Beatmaps](PH:Pending_Beatmap)
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa [pag-mod](/wiki/Modding) ng mga [Pending Beatmaps](/wiki/Beatmaps)
 
 papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
 

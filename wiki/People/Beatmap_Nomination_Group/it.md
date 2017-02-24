@@ -1,9 +1,12 @@
-Il **Gruppo Beatmap Nomination**, più comunemente riferito come BN, è un gruppo incaricato di [rankare mappe](IT:Ranked_Beatmap). Questo gruppo ha subito molti cambiamenti di recente. Da Agosto 22, 2014, Non sono più parte dello staff, rimossa la moderazione della chat nel gioco, il nome rosso in gioco, e nel forum. Il cambiamento più recente è stato il Febbraio 1, 2015 quanto il team è stato cambiato da Beatmap Appreciation Team a Beatmap Nominator Group e hanno perso il colore rosso nel forum.
+Gruppo Beatmap Nomination
+============================
+
+Il **Gruppo Beatmap Nomination**, più comunemente riferito come BN, è un gruppo incaricato di [rankare mappe](/wiki/Beatmaps). Questo gruppo ha subito molti cambiamenti di recente. Da Agosto 22, 2014, Non sono più parte dello staff, rimossa la moderazione della chat nel gioco, il nome rosso in gioco, e nel forum. Il cambiamento più recente è stato il Febbraio 1, 2015 quanto il team è stato cambiato da Beatmap Appreciation Team a Beatmap Nominator Group e hanno perso il colore rosso nel forum.
 
 Regole e Responsabilità
 -----------------------
 
-I membri del **Gruppo Beatmap Nomination** sono primariamente responsabili di gestire la [morerazione](IT:Modding) delle [mappe in attesa](IT:Pending_Beatmap) nel ciclo del ranking. BN sono le persone da contattare per qualsiasi richiesta di mod o consiglio su qualsiasi cosa riguardo il mapping o relativo al modding.
+I membri del **Gruppo Beatmap Nomination** sono primariamente responsabili di gestire la [morerazione](/wiki/Modding) delle [mappe in attesa](/wiki/Beatmaps) nel ciclo del ranking. BN sono le persone da contattare per qualsiasi richiesta di mod o consiglio su qualsiasi cosa riguardo il mapping o relativo al modding.
 
 Diventare un BN
 ---------------

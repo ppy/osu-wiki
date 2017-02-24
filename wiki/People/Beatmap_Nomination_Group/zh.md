@@ -1,4 +1,7 @@
-**B** eatmap **N** omination **G** roup，通常简称为 **BN** 或是 **BNG**，是一支负责[审核谱面的团队](ZH:Ranked_Beatmap)。BN 近期经历了数次改制。
+Beatmap Nomination Group - Chinese
+===================================
+
+**B** eatmap **N** omination **G** roup，通常简称为 **BN** 或是 **BNG**，是一支负责[审核谱面的团队](/wiki/Beatmaps)。BN 近期经历了数次改制。
 
 2014 年 8 月 22 日，他们不再属于官方管理团队的一部分，于游戏内聊天室不再拥有管理权和红色名字。
 
@@ -7,7 +10,7 @@
 工作与责任
 ----------
 
-Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面进行](ZH:Pending_Beatmap)[修正](ZH:Modding)。若在做图时需要修正或建议，就可以找 BN 帮忙。
+Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面进行](/wiki/Beatmaps)[修正](/wiki/Modding)。若在做图时需要修正或建议，就可以找 BN 帮忙。
 
 成为 BN
 -------

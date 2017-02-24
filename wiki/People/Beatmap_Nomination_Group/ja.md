@@ -1,9 +1,12 @@
-**Beatmap Nomination Group** は一般的にBNと呼ばれ、譜面の[Rankに関して司るチームです](JP:Ranked_Beatmap)。このグループは近年多くの変更があり、2014年8月22日にスタッフの一部ではなくなり、ゲーム内におけるモデレータ権限とフォーラムなどでの赤い名前などを失いました。最近の変更では2015年2月1日にBeatmap Appreciation Team、通称BATと呼ばれていたチームからこのBeatmap Nominator Groupというチームへ名称が変わり、また赤い名前の表示もフォーラムでされなくなりました。
+Beatmap Nomination Group - Japanese
+========================================
+
+**Beatmap Nomination Group** は一般的にBNと呼ばれ、譜面の[Rankに関して司るチームです](/wiki/Beatmaps)。このグループは近年多くの変更があり、2014年8月22日にスタッフの一部ではなくなり、ゲーム内におけるモデレータ権限とフォーラムなどでの赤い名前などを失いました。最近の変更では2015年2月1日にBeatmap Appreciation Team、通称BATと呼ばれていたチームからこのBeatmap Nominator Groupというチームへ名称が変わり、また赤い名前の表示もフォーラムでされなくなりました。
 
 役割とその責務について
 ----------------------
 
-**Beatmap Nomination Group** のグループメンバーは主に譜面のRankingのプロセスのために[pending譜面の](JP:Pending_Beatmap) [Modに関して管理する責任があります](JP:Modding)。 BNはModをしに行ったり、mappingやmoddingに関してのアドバイスをします。
+**Beatmap Nomination Group** のグループメンバーは主に譜面のRankingのプロセスのために[pending譜面の](/wiki/Beatmaps) [Modに関して管理する責任があります](/wiki/Modding)。 BNはModをしに行ったり、mappingやmoddingに関してのアドバイスをします。
 
 BNになるには
 ------------
