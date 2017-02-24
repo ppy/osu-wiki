@@ -1,4 +1,7 @@
-A **Muzukashii** difficulty is now for those who got used to [Taiko](Taiko); who know how to handle basic patterns and different spacings. These properties from **Kantan** and **Futsuu** appear in a Muzukashii as well, but in a large amount. - **Patterns can become longer and spacings more infrequent.** Additional to this, a Muzukashii can also provide **short 1/4, 1/3 and 1/6 patterns** which structure is preferable monotonically and short. The rule of thumb is the following one:
+Muzukashii
+=============
+
+A **Muzukashii** difficulty is now for those who got used to [osu!taiko](/wiki/Game_Modes/osu!taiko); who know how to handle basic patterns and different spacings. These properties from **Kantan** and **Futsuu** appear in a Muzukashii as well, but in a large amount. - **Patterns can become longer and spacings more infrequent.** Additional to this, a Muzukashii can also provide **short 1/4, 1/3 and 1/6 patterns** which structure is preferable monotonically and short. The rule of thumb is the following one:
 
 -   Stick to simple 1/4 patterns like **ddd** / **kkk**, **ddk** / **kkd** but do not overuse them.
 -   **kdk** / **dkd** are acceptable as long as they're not coupled with triplets of other kinds.
@@ -26,10 +29,14 @@ And try to avoid these:
 Examples
 --------
 
+[Takamitsu Yoko - Angel Dream (Muzukashi) (Ra-s)](http://osu.ppy.sh/b/64427)
+
 -   Short 1/2 patterns
 -   4/1 spacings
 -   Appearance of 1/4 leads to **more spacings**.
 -   Mostly **alone standing** 1/4 5-plet notes.
+
+[Nami Nakagawa - DON'T CUT (Muzukashii) (lepidopodus)](http://osu.ppy.sh/b/67203)
 
 -   **Maximum** of three consecutive 1/4 triplets
 -   Mostly **alone standing** 1/4 5-plet notes.

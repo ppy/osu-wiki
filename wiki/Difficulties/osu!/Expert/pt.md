@@ -1,6 +1,9 @@
-Como forma de estender os limites de beatmapping, Experts foram criados para serem níveis *semelhantes* a [Insane](PT:Insane) mas vão além.
+Expert - Portuguese
+=====================
 
-Esses níveis usam esse icone: ![Expert](/wiki/shared/Expert-s.png "Expert")
+Como forma de estender os limites de beatmapping, Experts foram criados para serem níveis *semelhantes* a [Insane](/wiki/Difficulties/osu!/Insane) mas vão além.
+
+Esses níveis usam esse icone: ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
 Settings
 --------
@@ -14,4 +17,4 @@ Settings
 
 ### Overmapping
 
-Em geral, *o mesmo que em [insane](PT:Insane).*
+Em geral, *o mesmo que em [insane](/wiki/Difficulties/osu!/Insane).*

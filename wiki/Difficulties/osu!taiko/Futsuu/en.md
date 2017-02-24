@@ -1,4 +1,7 @@
-A **Futsuu** difficulty is for players who understood the very basics in [Taiko](Taiko) and are ready to go one step forward. Here for the first time, the player is getting confronted **with 1/2 notes** and **different spacings**, which are the basic entry to **Muzukashii** and **Oni**. Together with 2/1 patterns, there can be also an usage of 1/4 and even 1/2, depending on the song. But even so, 1/2 should be used sparingly and only in songs which are intended to be the hardest level of Futsuu. So mapping to the beat becomes more significant at this point <u>but shouldn't be overtaken</u>. That means, a Futsuu can follow a songs beat or vocal but should contain enough 2/1 spacings to give the player the possibility to prepare themself for the upcoming patterns.
+Futsuu
+========
+
+A **Futsuu** difficulty is for players who understood the very basics in [osu!taiko](/wiki/Game_Modes/osu!taiko) and are ready to go one step forward. Here for the first time, the player is getting confronted **with 1/2 notes** and **different spacings**, which are the basic entry to **Muzukashii** and **Oni**. Together with 2/1 patterns, there can be also an usage of 1/4 and even 1/2, depending on the song. But even so, 1/2 should be used sparingly and only in songs which are intended to be the hardest level of Futsuu. So mapping to the beat becomes more significant at this point but shouldn't be overtaken. That means, a Futsuu can follow a songs beat or vocal but should contain enough 2/1 spacings to give the player the possibility to prepare themself for the upcoming patterns.
 
 Also Note: 1/4 notes are still meant for Muzukashii, but can be used in Futsuu; for example when the BPM of a song is really low.
 
@@ -18,11 +21,13 @@ And try to avoid these:
 Examples
 --------
 
-Third party link &gt;&gt; [Motteke! Sailor-fuku (Futsuu)](https://skydrive.live.com/?cid=B31284EF24826F96&id=B31284EF24826F96%21148) (lepidopodus)
+Third party link >> [Motteke! Sailor-fuku (Futsuu)](https://skydrive.live.com/?cid=B31284EF24826F96&id=B31284EF24826F96%21148) (lepidopodus)
 
 -   Usage of 1/2 notes
 -   **2/1 spacings available**
 -   01:14:305 (8) - Long slider.
+
+[Halozy - Serenade of Love (Futsuu) (OnosakiHito)](http://osu.ppy.sh/b/203303)
 
 -   Usage of 1/2 notes
 -   **2/1 spacings available**

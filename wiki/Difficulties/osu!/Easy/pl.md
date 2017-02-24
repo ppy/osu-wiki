@@ -1,3 +1,6 @@
+Łatwy (poziom trudności)
+==========================
+
 Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
 
 -   HP Drain Rate: 4 lub mniej
