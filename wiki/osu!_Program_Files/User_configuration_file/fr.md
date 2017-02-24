@@ -1,7 +1,7 @@
 
-***[Click to return to Main page](Osu!_Program_Files "wikilink")***
+***[Retour à la page principale](../ "Osu!_Program_Files")***
 
-<img src="CF_DEAD.jpg" title="fig:Combo Fire." alt="Combo Fire." width="200" /> Ceci est une liste d'option située dans le fichier osu!.<nomdevotrepc>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
+![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire") Ceci est une liste d'option située dans le fichier osu!.\<nomdevotrepc\>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
 
 | Code                         | Description                                                                                                                                                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@
 | ComboFireHeight              | Détermine la hauteur maximale où les Combo Fire peuvent aller sur l'écran. Cette option ne peut pas être modifiée en jeu                                                                                   |
 | ScreenshotId                 | Affiche l'identifiant de la prochaine capture d'écran                                                                                                                                                      |
 | ScoreboardVisible            | Affiche si oui ou non le tableau des scores est caché                                                                                                                                                      |
-| HelpTips                     | Autrefois se souvenait de quelle astuce à déja été affichée une fois. Cette option n'existe plus                                                                                                           |
+| HelpTips                     | Autrefois se souvenait quelle astuce à déja été affichée une fois. Cette option n'existe plus                                                                                                           |
 | ChatSortMode                 | Affiche le dernier filtre d'utilisateur connecté utilisé                                                                                                                                                   |
 | Bloom                        | Active/Désactive "Effets Spéciaux" en jeu                                                                                                                                                                  |
 | BloomSoftening               | Active/Désactive "Filtre adoucissant" en jeu                                                                                                                                                               |
@@ -207,13 +207,13 @@
 | MenuSnow                     | Affiche la neige dans le menu principal                                                                                                                                                                    |
 | BeatmapDirectory             | Affiche le répertoire où osu! va trouver les beatmaps téléchargées                                                                                                                                         |
 | FastEditor                   |                                                                                                                                                                                                            |
-| LoadSubmittedThread          | (BSS option) ouvre une pagé liée au topic de la beatmap soumise                                                                                                                                            |
+| LoadSubmittedThread          | (BSS option) ouvre une page liée au topic de la beatmap soumise                                                                                                                                            |
 | ShowMenuTips                 | Active les astuces du menu                                                                                                                                                                                 |
 | AlternativeChatFont          | Vous laisse choisir entre l'ancienne ou la nouvelle police de caractères                                                                                                                                   |
 | EditorDefaultSkin            | Force l'usage du skin par défaut dans l'éditeur                                                                                                                                                            |
 | keyOsuSmoke                  | Touche pour utiliser la fumée                                                                                                                                                                              |
-| ComboColourSliderBall        | toggle whether or not to use slider ball aligned to combo colour                                                                                                                                           |
-| SongSelectThumbnails         | Toggle whether thumbnails are used in song select                                                                                                                                                          |
+| ComboColourSliderBall        | Force ou non la couleur de la balle de slider à s'adapter à la couleur du combo                                                                                                                                          |
+| SongSelectThumbnails         | Active/Désactive l'affichage des miniatures dans le menu de séléction des chansons                                                                                                                                                          |
 | CursorSize                   | Taille du curseur                                                                                                                                                                                          |
 | UpdateStream                 |                                                                                                                                                                                                            |
 | MenuMusic                    | Active/Désactive la musique lors du lançement d'osu!                                                                                                                                                       |
@@ -225,6 +225,6 @@
 | keyDecreaseSpeed             |                                                                                                                                                                                                            |
 | UsePerBeatmapManiaSpeed      |                                                                                                                                                                                                            |
 | LastVersionPermissionsFailed |                                                                                                                                                                                                            |
-| ManiaSpeedBPMScale           | Force la vitesse de défilemnt d' osu!mania à s'adapter au BPM                                                                                                                                              |
+| ManiaSpeedBPMScale           | Force la vitesse de défilement d' osu!mania à s'adapter au BPM                                                                                                                                              |
 | MenuTriangles                | Active les triangles                                                                                                                                                                                       |
 ||
