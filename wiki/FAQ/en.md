@@ -41,11 +41,11 @@
 [osu!taiko icon link]: /wiki/shared/Taiko.gif "osu!taiko icon"
 [osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"
 [osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
-[osu_hitcircles image]: /wiki/shared/osu_hitcircles.jpg "osu! Hitcircles"
+[osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "osu! hit circles"
 [osu_slider image]: /wiki/shared/osu_slider.jpg "osu! Slider"
 [osu_spinner image]: /wiki/shared/osu_spinner.jpg "osu! Spinner"
 [Taiko playfield image]: /wiki/shared/Taiko_playfield.jpg "osu!taiko playfield"
-[Taiko hitcircles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hitcircles"
+[Taiko hit circles image]: /wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles"
 [Taiko drumroll image]: /wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll"
 [Taiko spinner image]: /wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)"
 [Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
@@ -64,7 +64,7 @@
 [Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
 [Beatmap_not_owned image]: /wiki/shared/Beatmap_not_owned.png "Example of an .osu file content"
 [Mode Interface image]: /wiki/shared/Interface_mode.png "Mode change interface"
-[Sliderticks image]: /wiki/shared/Sliderticks.png "Image showing a slider with sliderticks, with top part during Edit and bottom part during play"
+[Slider ticks image]: /wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play"
 
 <!-- Title -->
 # FAQ
@@ -109,23 +109,23 @@ The gameplay puts emphasis on:-
 These are some of the vital skills to become an _osu! rhythm master_.
 The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hitobjects_ from here onwards).
 
-##### Hitcircles
-![Hitcircles][osu_hitcircles image]
+##### Hit circles
+![Hit circles][osu_hit circles image]
 
-_Some hitcircles placed in a path to tap to the beat_
+_Some hit circles placed in a path to tap to the beat_
 
-A thin, similarly-coloured approach circle on the outside of the hitcircle will shrink over time.
-Tap on the note at the exact point when it touches the white border of the hitcircle.
-A score burst will appear after tapping the hitcircle, showing the score and health changes depending on timing of the tap to the beat.
-The hitcircle will disappear after the score burst.
+A thin, similarly-coloured approach circle on the outside of the hit circle will shrink over time.
+Tap on the note at the exact point when it touches the white border of the hit circle.
+A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat.
+The hit circle will disappear after the score burst.
 
-To understand the hidden charm of hitcircles, do not rely only on perception only; feel the beatmap's beats and rhythm.
-It will help in juggling some of the visually-complex hitcircles patterns found in later difficulties.
+To understand the hidden charm of hit circles, do not rely only on perception only; feel the beatmap's beats and rhythm.
+It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
 
 ##### Sliders
 ![Sliders][osu_slider image]
 
-_A single-repeat straight slider with active orange followcircle surrounding the sliderball and a slidertick inside the slider (small white circle)_
+_A single-repeat straight slider with active orange followcircle surrounding the slider ball and a slider tick inside the slider (small white circle)_
 
 First, tap on it at the right moment, however, it does not end there.
 A ball will begin to move across the path.
@@ -234,7 +234,7 @@ During _Kiai Time_, every successful hit will give the player 20% more points ov
 Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
 ##### Taiko notes
-![Taiko hitcircles][Taiko hitcircles image]
+![Taiko hit circles][Taiko hit circles image]
 
 _osu!taiko notes of various colour and size_
 
@@ -251,15 +251,15 @@ Hitting the wrong colour, or both red and blue colours at the same time, will be
 ##### Drumrolls
 ![Taiko drumroll][Taiko drumroll image]
 
-_Drumrolls appears as yellow bar with a starting yellow circle in the playfield with tiny white/yellow hitcircles evenly-spaced inside_
+_Drumrolls appears as yellow bar with a starting yellow circle in the playfield with tiny white/yellow hit circles evenly-spaced inside_
 
 Hit the inner (or outer) drum continuously for points until the end of the drumroll.
 For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
-Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hitcircles, rather than drumrolling as fast as possible as in _Taiko no Tatsujin_.
+Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in _Taiko no Tatsujin_.
 
 Drumrolls can be ignored with no health penalty, as it does not recover the healthbar at all.
 However, it will cost possible points gained from the drumroll.
-Each successful hit on the tiny hitcircle gives a static 300 score.
+Each successful hit on the tiny hit circle gives a static 300 score.
 
 ##### Dendens
 ![Taiko spinner][Taiko spinner image]
@@ -301,7 +301,7 @@ Timing and where it falls on the plate does not matter; either a full score for 
 ##### Fruits
 ![Fruits][Fruits image]
 
-_Fruits are the hitcircles of osu!catch, and it rains down from top of the screen_
+_Fruits are the hit circles of osu!catch, and it rains down from top of the screen_
 
 To catch these fruits, make sure it falls to the plate, and not over the plate.
 Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
@@ -311,11 +311,11 @@ Collected fruits will always give 300 points each, increment combo by 1, and tre
 
 _Fruit trails are the sliders of osu!catch_
 
-A typical fruit trail will contains two fruits (start and end), droplets (sliderpath), juice drop (sliderticks), and more fruits for each reverse arrow points along with a reversed sliderpath.
+A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path.
 Droplet gives 10 points each and treated as 50 in result screen.
 Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
 
-Missing the juice drop will break the combo (as it is a slidertick), but missing the droplet will not break the combo.
+Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo.
 However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
 ##### Bananas
@@ -390,7 +390,7 @@ Alternatively, `F3` (faster) or `F4` (slower) during gameplay only.
 
 _A typical play with consecutive and simultaneous notes_
 
-Notes are the hitcircles of osu!mania.
+Notes are the hit circles of osu!mania.
 The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to.
 More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
 A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
@@ -598,23 +598,23 @@ _Usage of Smoke_
 _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 
 #### Why do I not have the max possible combo when I have no misses?
-![Image showing a slider with sliderticks, with top part during Edit and bottom part during play][Sliderticks image]
+![Image showing a slider with slider ticks, with top part during Edit and bottom part during play][Slider ticks image]
 
-_Top image shows a slider with all the sliderticks shown in Edit mode; Bottom image shows the same slider during play, with some sliderticks obstructed by start and end circle of the slider._
+_Top image shows a slider with all the slider ticks shown in Edit mode; Bottom image shows the same slider during play, with some slider ticks obstructed by start and end circle of the slider._
 
 **A slider was released early (meaning that the ball was released before it had finished the ending slider point).**
 
-A slider is composed of a starting circle point, spaced smaller circles known as sliderticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point.
+A slider is composed of a starting circle point, spaced smaller circles known as slider ticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point.
 Each of those points on a slider will add one to the combo.
-Note that the starting circle point is worth 30 points, the sliderticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
+Note that the starting circle point is worth 30 points, the slider ticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
 
-Sliderticks only appears inside its own sliderpath; if the sliderticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle.
-Hidden sliderticks still counts into combo and score, so it must be collected along with the visible sliderticks.
-If the slider has one or more reverse arrow points, then the sliderticks will reappear at the same place to be collected in reverse.
+Slider ticks only appears inside its own slider path; if the slider ticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle.
+Hidden slider ticks still counts into combo and score, so it must be collected along with the visible slider ticks.
+If the slider has one or more reverse arrow points, then the slider ticks will reappear at the same place to be collected in reverse.
 
-If miss the timing to tap the starting circle point, miss the sliderticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss.
+If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss.
 However, if miss the ending circle point, combo does not break and does not increment by one.
-It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the sliderticks/reverse arrow points when given.
+It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given.
 Notably, [Sudden Death][Sudden Death wikilink] game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
 
 These situations, caused by a slider, are collectively called **sliderbreak**.

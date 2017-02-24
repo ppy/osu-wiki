@@ -13,12 +13,12 @@ Erstellen eines Storyboards
 
 Den [Storyboard Editor](/wiki/Storyboard_Editor) (SBE) findet man im Design-Tab (alternativ F2) im Beatmap Editor. Grundsätzlich bietet der SBE den Benutzern einen simplen Weg, um die Bewegung von einfachen Sprites zu kontrollieren. Allerdings wird das oftmals als schwerfällig angesehen, da diese meistens über die Grundlagen eines Storyboards hinausgehen. Falls jemand den Wunsch hat, ein Widescreen Storyboard zu erstellen, dann kann er dies tun, indem er auf den Song-Setup Dialog geht.
 
-Erfahrene Nutzer im Storyboarding benutzen oftmals den Back-End-Code, welcher stattdessen als [Storyboard Scripting](/wiki/Storyboarding/Storyboard_Scripting) (SBS) betitelt wird, da dieser mehr Kontrolle bietet. Siehe im Artikel für mehr Details.
+Erfahrene Nutzer im Storyboarding benutzen oftmals den Back-End-Code, welcher stattdessen als [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) betitelt wird, da dieser mehr Kontrolle bietet. Siehe im Artikel für mehr Details.
 
 Komplette Storyboards
 ---------------------
 
-Mit der Einführung des Storyboard Editors, für das Erstellen simpler grafischer Effekte in Beatmaps, fällt die volle Liste mit [ranked](/wiki/Beatmaps) Beatmaps mit Storyboards [ziemlich lang aus](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Daher listet dieser Artikel nur Beatmaps mit "kompletten" Storyboards. Wenn du mehr Beatmaps mit Storyboards sehen möchtest, sieh dir die [komplette Liste](/wiki/Storyboarding/Maps) an.
+Mit der Einführung des Storyboard Editors, für das Erstellen simpler grafischer Effekte in Beatmaps, fällt die volle Liste mit [ranked](/wiki/Beatmaps) Beatmaps mit Storyboards [ziemlich lang aus](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Daher listet dieser Artikel nur Beatmaps mit "kompletten" Storyboards. Wenn du mehr Beatmaps mit Storyboards sehen möchtest, sieh dir die [komplette Liste](/wiki/Storyboards/Maps) an.
 
 ### Storyboards
 
@@ -50,4 +50,4 @@ Mit der Einführung des Storyboard Editors, für das Erstellen simpler grafische
 -   [Seether - Fake It](http://osu.ppy.sh/b/150578)
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
-Andere Maps mit Storyboards die als gutes Beispiel dienen, können [hier](/wiki/Storyboarding/Maps) gefunden werden.
+Andere Maps mit Storyboards die als gutes Beispiel dienen, können [hier](/wiki/Storyboards/Maps) gefunden werden.

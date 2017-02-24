@@ -72,5 +72,5 @@ NAT jest prowadzony od 2013 roku i najpewniej będzie jeszcze w przyszłości. W
 Przejrzyj!
 -----------
 
--   [Lista państw uczestniczących w oficjalnych turniejach](/wiki/Countries_that_participated_in_osu!_tournaments)
+-   [Lista państw uczestniczących w oficjalnych turniejach](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (klient używany przy streamowaniu turniejów)

@@ -10,7 +10,7 @@ Basic Rules
 
 ### Objects
 
--   An "[object](/wiki/Storyboarding/Objects)" in the following sections is an instance of a sprite or an animation in your storyboard. Storyboards can also have sound; see [that section](/wiki/Storyboarding/Audio) for more details.
+-   An "[object](/wiki/Storyboard_Scripting/Objects)" in the following sections is an instance of a sprite or an animation in your storyboard. Storyboards can also have sound; see [that section](/wiki/Storyboard_Scripting/Audio) for more details.
 -   The accepted formats are PNG and JPEG.
     -   JPEG is lossy, which means it's smaller in filesize, but isn't pixel-for-pixel exactly what was input. It also doesn't support transparency. Therefore, it's good for backgrounds and for square, photo-realistic images.
     -   PNG is lossless, which means it retains pixel-for-pixel information, but is of a larger filesize than JPEG. It supports transparency, so it's usually the best for foreground objects / text.

@@ -4,7 +4,7 @@ Storyboard Scripting Miscellaneous
 Storyboard Scripting Shorthand
 ----------------------------------
 
-To make life easier, there are three cases of **shorthand** when writing [storyboard commands](/wiki/Storyboarding/Storyboard_Scripting_Commands).
+To make life easier, there are three cases of **shorthand** when writing [storyboard commands](/wiki/Storyboard_Scripting/Commands).
 
 ### Same Event, Same Duration, Sequentially
 
@@ -159,7 +159,7 @@ Saving will replace the "12"s in color specification with "$number_of_loops", wh
 osu! File Toggle
 -------------------
 
-The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboarding). Those that are added/removed by the [Beatmap Editor](/wiki/Beatmap_Editor) can also be included.
+The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboards). Those that are added/removed by the [Beatmap Editor](/wiki/Beatmap_Editor) can also be included.
 
 See also [skin.ini](/wiki/Skinning/Skin.ini).
 

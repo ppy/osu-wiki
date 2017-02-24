@@ -158,11 +158,11 @@ SliderTickRate (Float) spécifie la fréquence d'apparition des slider ticks. La
 
 ### Events (Évènements)
 
-Il s'agit ici [d'évènements de storyboard](/wiki/Design) spécifiques à une unique difficulté. Le principe de cette section étant la même que pour un fichier **[.osb][Osb Link]**, lisez la section sur le [Storyboarding](/wiki/Storyboarding) pour plus de détails.
+Il s'agit ici [d'évènements de storyboard](/wiki/Beatmap_Editor/Design) spécifiques à une unique difficulté. Le principe de cette section étant la même que pour un fichier **[.osb][Osb Link]**, lisez la section sur le [Storyboarding](/wiki/Storyboards) pour plus de détails.
 
 ### Timing Points (Points de timing)
 
-Les [points de timing](/wiki/Timing) décrivent un certain nombre de propriétés regardant le décalage audio, le BPM, les hitsounds, etc. Offset (Integer, milliseconds) définit quand le point de timing prend effet. Milliseconds per Beat (Float) définit le BPM le la chanson. Pour certain calculs, il est plus facile d'utiliser des Millisecondes Par Battement. Meter (Integer) définit le nombre de battements dans une mesure. Sample Type (Integer) définit le type de hitsounds utilisés. Sample Set (Integer) définit le set de hitsounds utilisés. Volume (Integer) est une valeur entre 0 et 100 qui définit le volume des hitsounds. Kiai Mode (Boolean) définit si le Kiai Time est actif ou non. Inherited (Boolean) définit si le point de timing est hérité ou non.
+Les [points de timing](/wiki/Beatmap_Editor/Timing) décrivent un certain nombre de propriétés regardant le décalage audio, le BPM, les hitsounds, etc. Offset (Integer, milliseconds) définit quand le point de timing prend effet. Milliseconds per Beat (Float) définit le BPM le la chanson. Pour certain calculs, il est plus facile d'utiliser des Millisecondes Par Battement. Meter (Integer) définit le nombre de battements dans une mesure. Sample Type (Integer) définit le type de hitsounds utilisés. Sample Set (Integer) définit le set de hitsounds utilisés. Volume (Integer) est une valeur entre 0 et 100 qui définit le volume des hitsounds. Kiai Mode (Boolean) définit si le Kiai Time est actif ou non. Inherited (Boolean) définit si le point de timing est hérité ou non.
 
 `Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 

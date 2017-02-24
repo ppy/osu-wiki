@@ -16,8 +16,8 @@ Formats de fichiers spécifiques d'osu!
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]        | [Compose](/wiki/Compose), [Timing](/wiki/Timing), [Song Setup](/wiki/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Design).                                                                     |
+| [.osu][Osu Link]        | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                     |
 
 ### Replay
 

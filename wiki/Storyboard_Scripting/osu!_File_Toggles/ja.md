@@ -1,7 +1,7 @@
 Osu File Toggles - Japanese
 ============================
 
-.osu もしくは.osbファイルに[スキン](/wiki/Skinning) / [ストーリーボードに影響を与えるコードも記述することが可能です](/wiki/Storyboarding)。それらには[エディタで追加](/wiki/Beatmap_Editor)/削除されたデータも含みます。
+.osu もしくは.osbファイルに[スキン](/wiki/Skinning) / [ストーリーボードに影響を与えるコードも記述することが可能です](/wiki/Storyboards)。それらには[エディタで追加](/wiki/Beatmap_Editor)/削除されたデータも含みます。
 
 [skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
 

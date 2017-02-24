@@ -84,7 +84,7 @@ Pantalla de resultados
 
 | Término | Significado |
 | ---- | ------- |
-| Error | **Estos dos valores representan, en promedio, qué tan imprecisos son tus golpes adelantados y atrasados.** Cuanto más [OD](/wiki/Song_Setup) posea el beatmap que estás jugando, estos valores deberán ser menores para ir bien. |
+| Error | **Estos dos valores representan, en promedio, qué tan imprecisos son tus golpes adelantados y atrasados.** Cuanto más [OD](/wiki/Beatmap_Editor/Song_Setup) posea el beatmap que estás jugando, estos valores deberán ser menores para ir bien. |
 | Tasa de inestabilidad | **Este valor representa qué tan consistentemente sincronizas tus golpes**, cuanto menor sea el valor, mejor (los mejores jugadores usualmente consiguen menos de 100). Ten en cuenta que esto mide consistencia, no precisión, así que si consistentemente golpeas 15 milisegundos antes, conseguirás los mismos resultados que obtendrías si consistentemente golpeas a tiempo. La fórmula es esencialmente la deviación estándar de tus fallos (en milisegundos) multiplicado por 100. |
 
 #### Giro

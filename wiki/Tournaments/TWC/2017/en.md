@@ -34,17 +34,43 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | Position | Member |
 | ------------ | -------------- |
-| Management | [![](/wiki/shared/flag/De.gif) Loctav](//new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](//new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](//new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](//new.ppy.sh/u/776257) |
-| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](//new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](//new.ppy.sh/u/398275) |
-| Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](//new.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](//new.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](//new.ppy.sh/u/6347) |
-| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](//new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](//new.ppy.sh/u/1910766) |
+| Management | [![](/wiki/shared/flag/De.gif) Loctav](https://new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](https://new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://new.ppy.sh/u/776257) |
+| Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](https://new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](https://new.ppy.sh/u/398275) |
+| Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](https://new.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
+| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://new.ppy.sh/u/1910766) |
 
 ## Links
 
-- [Registration page](//new.ppy.sh/tournaments/9)
-- [Discussion thread](//new.ppy.sh/forum/t/555072)
+- [Registration page](https://new.ppy.sh/tournaments/9)
+- [Discussion thread](https://new.ppy.sh/forum/t/555072)
 
 -----------------------
+
+## Participants
+
+_**List of countries is not complete yet!**_
+
+### Confirmed Rosters
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [Elementaires](https://new.ppy.sh/u/2284328), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
+| ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[taiko_maniac1811](https://new.ppy.sh/u/595764)**, [Jerry](https://new.ppy.sh/u/605973), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
+| ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
+| ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
+| ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
+| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [[\_Chichinya\_]](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [[\_LordEnder\_]](https://new.ppy.sh/u/4609767), [-YuriPrincess](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
+
+### Pending Rosters
+
+| | Country | Captain |
+| ---: | :---: | :--- |
+| ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[Sylarn](https://new.ppy.sh/u/4266840)** |
+| ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
+| ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
+| ![](/wiki/shared/flag/Ru.gif) | **Russian Federation** | **[Wolfjkeee](https://new.ppy.sh/u/1282662)** |
+
+------------------------------------------------------------------------
 
 ## Ruleset
 ### Tournament Rules
@@ -52,7 +78,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 
-2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](//new.ppy.sh/forum/t/550582) for more information!
+2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://new.ppy.sh/forum/t/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
@@ -109,7 +135,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
   - This may change depending on how many teams are accepted into the competition at the end.
 
 2. All the teams from each group will face each other.
@@ -151,7 +177,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
   - The winner of the !roll starts picking the first beatmap of the match.
-  - The loser of the !roll starts banning two beatmaps.
+  - The loser of the !roll starts banning.
 
 6. Captains may pick freely from any bracket.
   - In case of a tie, the tiebreaker map must be played.
@@ -176,9 +202,9 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
   - When playing the tiebreaker, no one needs to have a mode activated.
   - Tiebreakers will also have allowed and disallowed mod combinations. Usually, all combinations will be allowed, but there might be exceptions depending on the selected beatmap.
 
-10. The size of the NoMod bracket will be 6 in all stages.
-11. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
-12. The size of the FreeMod brackets will be 3 in all stages.
+9. The size of the NoMod bracket will be 6 in all stages.
+10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
+11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling Instructions
 

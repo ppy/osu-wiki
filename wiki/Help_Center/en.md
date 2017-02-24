@@ -505,7 +505,7 @@ While you might not be able to solve the issue after a single search, it might a
 
 If you're getting an error message that is related to the .NET Framework there might be an issue with the installation or integrity of the .NET Framework. Make sure you have the [.NET Framework 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=17851) as well as the [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) installed. If you do, but are still getting a .NET Framework related error message, try running [.NET Framework Repair Tool](https://www.microsoft.com/en-us/download/details.aspx?id=30135).
 
-Also make sure that you have the latest drivers for your graphics card installed. See [this page](/wiki/GL_Support_Issues) for more information as well as links to where you can download the drivers for your specific graphics card.
+Also make sure that you have the latest drivers for your graphics card installed. See [this page](/wiki/List_of_Guides/GL_Support_Issues) for more information as well as links to where you can download the drivers for your specific graphics card.
 
 Other than that, something with the environment you're running osu! in might be at fault. Make sure that you have all available updates for your operating system installed. It's also a good idea to do scan for malware, just in case.
 

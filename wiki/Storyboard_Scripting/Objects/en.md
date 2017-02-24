@@ -5,7 +5,7 @@ Storyboard Objects
 
 *For Objects in [osu!](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see [Hit Objects](/wiki/Hit_Objects).*
 
-In [Storyboarding](/wiki/Storyboarding), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboarding/Audio).
+In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 
 Object Definition
 -----------------
@@ -18,7 +18,7 @@ To call an instance of a sprite (a still image) or an animation, use a single li
 
 Where:
 
--   **(layer)** is the **[layer](/wiki/Storyboarding/Storyboard_Scripting_General_Rules) the object appears on.** Valid values are:
+-   **(layer)** is the **[layer](/wiki/Storyboard_Scripting/General_Rules) the object appears on.** Valid values are:
     -   Background
     -   Fail
     -   Pass
@@ -54,7 +54,7 @@ Where:
     -   LoopForever (default if you leave this value off; the animation will return to the first frame after finishing the last frame)
     -   LoopOnce (the animation will stop on the last frame and continue to display that last frame; useful for, like, an animation of someone turning around)
 
-Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboarding/Storyboard_Scripting_Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
+Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
 
 Examples
 --------

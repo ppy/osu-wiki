@@ -16,8 +16,8 @@ Specyficzne formaty plików osu!
 
 | Format                                         | Korzystanie                                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Kompozycja](/wiki/Compose), [Rytmika](/wiki/Timing), [Ustawienia piosenki](/wiki/Song_Setup). |
-| [.osb][Osb Link]        | [Projekt](/wiki/Design).                                                                                       |
+| [.osu][Osu Link]       | [Kompozycja](/wiki/Beatmap_Editor/Compose), [Rytmika](/wiki/Beatmap_Editor/Timing), [Ustawienia piosenki](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link]        | [Projekt](/wiki/Beatmap_Editor/Design).                                                                                       |
 
 ### Powtórka
 

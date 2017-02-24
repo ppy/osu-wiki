@@ -47,7 +47,7 @@ Beat is a term that applies to the timeline in editor mode.
 It is a period of time that songs can be divided into based off of their BPM.
 A correctly timed beatmap will have each beat correspond to the song's rhythm and a whole beat should fall between two white lines on the timeline.
 
-For more information about the timeline, see [Beat Snap Divisor](/wiki/Beat_Snap_Divisor/).
+For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor).
 
 ### Beat spacing
 
@@ -70,6 +70,16 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value.
 Note that the higher the value would allow a more difficult beatmap.
 
+### Beatmap
+
+A beatmap (also known as a _level_ or a _map_) is where the majority of osu! lies.
+These could be related to those in the stages in the DS games.
+In their most basic form, beatmaps have a song and hit objects placed based on the rhythm of the music.
+
+Nowadays, beatmaps usually have a background image, video, or even a storyboard.
+
+For more details about how beatmaps are uploaded, see BSS.
+
 ### Beatmap pack
 
 _Not to be confused with Beatmapsets_
@@ -83,16 +93,6 @@ Although, some packs are tailored to a similar style or theme.
 To see the beatmap packs, see [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist).
 
 If you are interested in torrenting the beatmap packs instead, see [HiraOsu! - Torrents](https://osu.hiramiya.me/torrents.htm).
-
-### Beatmap
-
-A beatmap (also known as a _level_ or a _map_) is where the majority of osu! lies.
-These could be related to those in the stages in the DS games.
-In their most basic form, beatmaps have a song and hit objects placed based on the rhythm of the music.
-
-Nowadays, beatmaps usually have a background image, video, or even a storyboard.
-
-For more details about how beatmaps are uploaded, see BSS.
 
 ### BeatmapID
 
@@ -323,11 +323,11 @@ Some factors that can affect a version's difficulty are the number of object in 
 Difficulty stars are one way to gauge a version's difficulty level.
 The osu!website sorts difficulty versions into 5 categories:
 
-- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!standard/Easy/)
-- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!standard/Normal/)
-- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!standard/Hard/)
-- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!standard/Insane/)
-- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!standard/Expert/)
+- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!/Easy/)
+- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!/Normal/)
+- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!/Hard/)
+- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!/Insane/)
+- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!/Expert/)
 <!-- TODO add other diff from other game modes? -->
 
 ### Drain time
