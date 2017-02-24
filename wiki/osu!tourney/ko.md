@@ -205,12 +205,12 @@ Bancho (반쵸)에게 개인 메시지로 '!mp help'를 보내면 모든 명령 
 
 다음은 명령 사용의 예입니다.
 
-`!mp move Zallius 1` - Zallius를 방의 슬롯 1로 이동시킵니다.
-`!mp move Loctav 4` - Loctav를 방의 슬롯 4로 이동시킵니다.
-`!mp team Zallius blue` -Zallius를 파란색 팀으로 이동시킵니다.
-`!mp team Loctav red` - Loctav를 빨간색 팀으로 이동시킵니다.
-`!mp set 0 2` - 개인전, 스코어 모드로 설정합니다.
-`!mp start` - 즉시 게임을 시작합니다.
+-   `!mp move Zallius 1` - Zallius를 방의 슬롯 1로 이동시킵니다.
+-   `!mp move Loctav 4` - Loctav를 방의 슬롯 4로 이동시킵니다.
+-   `!mp team Zallius blue` -Zallius를 파란색 팀으로 이동시킵니다.
+-   `!mp team Loctav red` - Loctav를 빨간색 팀으로 이동시킵니다.
+-   `!mp set 0 2` - 개인전, 스코어 모드로 설정합니다.
+-   `!mp start` - 즉시 게임을 시작합니다.
 
 ### 방 관리
 
