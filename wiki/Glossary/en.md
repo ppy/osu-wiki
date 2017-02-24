@@ -245,7 +245,7 @@ However, do note that the skin's defined combo colours is only used when the map
 
 ### Combo fire
 
-![](img/combo-fire.jpg "R.I.P. combo fire")
+![](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
 The combo fire was a background gameplay feature from the ouendan game integrated in osu!.
 This would display a burning yellow flame after obtaining the first combo milestone, 30.
