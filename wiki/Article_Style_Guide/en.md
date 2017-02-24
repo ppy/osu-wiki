@@ -246,8 +246,8 @@ Instead, take the page's title (from the top of page, or from the `<title>` tag)
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
-When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
-`new.ppy.sh` is just a temporary subdomain for the new design.
+When linking to the osu!website, i.e. user profiles or beatmaps, use `new.ppy.sh` not `osu.ppy.sh`.
+<!-- `new.ppy.sh` is just a temporary subdomain for the new design. -->
 
 ### Linking Types
 
@@ -317,7 +317,7 @@ Whenever you are linking to a beatmap, use this format as the link text:
 ```
 
 When linking to a beatmap, make sure that the link actually links to that difficulty.
-All beatmap difficutly urls looks like this: `osu.ppy.sh/b/{BeatmapID}`
+All beatmap difficutly urls looks like this: `new.ppy.sh/b/{BeatmapID}`
 
 ### Beatmapsets
 
@@ -327,7 +327,7 @@ If you are linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficutly urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
+All beatmapset difficutly urls looks like this: `new.ppy.sh/s/{BeatmapSetID}`
 
 ## Images
 
