@@ -200,29 +200,30 @@ Any properties enclosed with brackets `[]` are optional:
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
 - `!mp size` \<size\> - Sets the amount of available slots (1-16) in the room.
-- `!mp set` \<teammode\> `[\<scoremode\>] [\<size\>]` - Sets various room properties.
+- `!mp set` \<teammode\> `[<scoremode>] [<size>]` - Sets various room properties.
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo
-- `!mp move` <\username\> `[<\slot\>]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
-- `!mp host` <\username\> - Transfers host to the player.
+- `!mp move` \<username\> `[<slot>]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
+- `!mp host` \<username\> - Transfers host to the player.
 - `!mp clearhost` - Clears match host.
 - `!mp settings` - Displays full match details.
-- `!mp start [<\time\>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
+- `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
 - `!mp abort` - Aborts the match.
-- `!mp kick` <\username\> - Kicks the player from the room.
-- `!mp team` <\username\> <\colour\> - Moves a player to the specified team.
+- `!mp kick` \<username\> - Kicks the player from the room.
+- `!mp team` \<username\> \<colour\> - Moves a player to the specified team.
   - `colour` - red, blue
-- `!mp map` <\mapid\> `[<\playmode\>]` - Changes the beatmap and playmode of the room.
+- `!mp map` \<mapid\> `[<playmode>]` - Changes the beatmap and playmode of the room.
   - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
-- `!mp mods` <\mod\> `[<\mod\>] [<\mod\>] …` - Removes all currently applied mods and applies these mods to the room.
+- `!mp mods` \<mod\> `[<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
   - Any amount of mods can be entered.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<\time\>]` - Begins a countdown timer.
+- `!mp timer [<time>]` - Begins a countdown timer.
+- `!mp timer [<time>]` - Begins a countdown timer.
   - `time` is 30s default.
   - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
-- `!mp addref <\username\>, <\username\>...` - Adds referees to the room so they can see the chat and use the !mp commands.
-- `#`<\userid\> may substitute <\username\> in all of the above commands.
+- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
+- `#`\<userid\> may substitute \<username\> in all of the above commands.
    Usernames must have any whitespace be replaced with underscores ( `_` ).
 - `!mp password` - Enables/disables the multiplayer room password (initially enabled).
 
