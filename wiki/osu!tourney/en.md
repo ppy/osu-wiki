@@ -80,7 +80,7 @@ Close osu! and edit or add to the above lines as required for your tournament wi
 - `ClientNameSize` Change the yellow player names size.
 - `privateserver` Leave this untouched. It does not matter for you.
 - `acronym` Put an abbreviation for your tournament here, e.g. 'OWC 2013'.
-  More details at **[Multiplayer session creation and handling](Osu!tourney#Multiplayer_session_creation_and_handling "wikilink")**.
+  More details at **Multiplayer session creation and handling** section.
 - `BufferTimeoutTime` The client will desynchronize any player that fails to buffer for this amount of time (in milliseconds), continuing playback with all other players synchronized.
 - `BufferTotalTime` The amount of time the client falls behind the players to reduce the frequency of pausing to wait for the buffer.
   It is not recommended to change this.
