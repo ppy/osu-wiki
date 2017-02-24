@@ -5,7 +5,7 @@ Role i zadania
 
 ![Odznaka Nominatora](nominator.png "Odznaka Nominatora")
 
-Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding "wikilink") [oczekujących map](Pending_Beatmap "wikilink"). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding) [oczekujących map](Pending_Beatmap). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
 
 Stawanie się BN
 ---------------

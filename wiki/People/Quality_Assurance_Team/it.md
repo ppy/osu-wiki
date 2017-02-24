@@ -2,7 +2,7 @@ Il  **Team di Garanzia della Qualità**, normalmente indicato come QAT, sono i g
 
 I membri QAT saranno tenuti ad agire seguendo severi standard di attività siccome il loro ruolo richiede di essere coinvolti nel valutare le qualità delle beatmap.
 
-I membri di questo team saranno promossi dal team [BN](Beatmap_Nomination_Group "wikilink"), qualora dovessero accettare il nuovo ruolo offerto. I membri QAT hanno un nome rosso nella chat in gioco e sul forum, mentre i BN non più.
+I membri di questo team saranno promossi dal team [BN](Beatmap_Nomination_Group), qualora dovessero accettare il nuovo ruolo offerto. I membri QAT hanno un nome rosso nella chat in gioco e sul forum, mentre i BN non più.
 
 Membri del Team
 ------------

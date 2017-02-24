@@ -2,7 +2,7 @@ The **Quality Assurance Team**, commonly referred to as QAT, are the aptly-named
 
 QAT members will be held to strict activity standards as their role requires them to be regularly involved in assessing beatmap quality.
 
-Members of this team will be promoted from [BN](Beatmap_Nomination_Group "wikilink"), should they accept the new role offered. Members of QAT have a red name in ingame chat and on the forums, whereas BN no longer do.
+Members of this team will be promoted from [BN](Beatmap_Nomination_Group), should they accept the new role offered. Members of QAT have a red name in ingame chat and on the forums, whereas BN no longer do.
 
 Team Members
 ------------

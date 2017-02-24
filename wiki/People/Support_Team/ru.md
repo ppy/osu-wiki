@@ -2,7 +2,7 @@
 
 -   [Development](https://osu.ppy.sh/forum/2) (разработка);
 -   [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (геймплей и ранкинги), за исключением [Tournaments](https://osu.ppy.sh/forum/55) (организация турниров) и [Mapping Techniques](https://osu.ppy.sh/forum/61) (техники маппинга);
--   [Skinning](https://osu.ppy.sh/forum/15) ([скининг](RU:Skinning "wikilink"));
+-   [Skinning](https://osu.ppy.sh/forum/15) ([скининг](RU:Skinning));
 -   [Feature Requests](https://osu.ppy.sh/forum/4) (нововведения);
 -   [Help](https://osu.ppy.sh/forum/5) (техподдержка).
 

@@ -2,7 +2,7 @@ El **Quality Assurance Team**, más comúnmente referido como QAT, son los llama
 
 Los miembros del QAT serán sometidos a estrictas normas de actividad, sus roles requieren que estén involucrados regularmente en la evaluación de la calidad del mapa.
 
-Los miembros de este equipo serán promovidos del [BN](ES:Beatmap_Nomination_Group "wikilink"), siempre y cuando acepten el rol ofrecido. Los miembros del QAT tienen un nombre rojo en el chat del juego y en el foro, mientras que los BN ya no lo tienen.
+Los miembros de este equipo serán promovidos del [BN](ES:Beatmap_Nomination_Group), siempre y cuando acepten el rol ofrecido. Los miembros del QAT tienen un nombre rojo en el chat del juego y en el foro, mientras que los BN ya no lo tienen.
 
 Miembros del Equipo
 -------------------

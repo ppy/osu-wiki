@@ -2,7 +2,7 @@ QAT로 흔히 알려져 있는 **Quality Assurance Team** 은 최근 퀄리파�
 
 QAT 구성원의 역할은 정기적으로 비트맵의 퀄리티를 평가하는 것을 요구하므로, 높은 활동량을 요구한다.
 
-팀의 구성원은 [BN으로부터](KO:Beatmap_Nomination_Group "wikilink") 새로운 역할을 받아들이면 선발된다. QAT 구성원은 온라인 채팅과 포럼에서 붉은 닉네임 색깔을 갖게 된다.
+팀의 구성원은 [BN으로부터](KO:Beatmap_Nomination_Group) 새로운 역할을 받아들이면 선발된다. QAT 구성원은 온라인 채팅과 포럼에서 붉은 닉네임 색깔을 갖게 된다.
 
 팀 구성원
 ---------

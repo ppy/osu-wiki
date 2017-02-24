@@ -2,7 +2,7 @@
 
 Anggota QAT akan memegang teguh aktifitas standard yang ketat sebagaimana peran mereka yang mengharuskan mereka untuk menjamin kualitas suatu beatmap secara teratur.
 
-Para member di dalam tim ini akan dipromosikan dari [Grup Penominasi Beatmap (BN)](ID:Beatmap_Nomination_Group "wikilink"), dan mereka harus menerima posisi yang ditawarkan. Nama para nggota QAT berwarna merah pada obrolan di dalam permainan dan forum, yang dimana para anggota BN sudah tidak miliki.
+Para member di dalam tim ini akan dipromosikan dari [Grup Penominasi Beatmap (BN)](ID:Beatmap_Nomination_Group), dan mereka harus menerima posisi yang ditawarkan. Nama para nggota QAT berwarna merah pada obrolan di dalam permainan dan forum, yang dimana para anggota BN sudah tidak miliki.
 
 Anggota Tim
 -----------

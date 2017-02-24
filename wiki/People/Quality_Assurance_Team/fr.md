@@ -1,5 +1,5 @@
-L**'équipe de certification de qualité des beatmaps**, connue sous l'acronyme de QAT (*Quality Assurance Team*), est un groupe de joueurs chargés de contrôler la qualité des beatmaps mises en statut "Qualified" par les [BN](FR:BN "wikilink"). Si une map vient à être acceptée par les QAT après le passage des BN, la map en question devient [classée](FR:Beatmap_Approval#Rank "wikilink").
-Ils possèdent aussi des droits de modération dans les canaux de discussion et leur nom en rouge, au même titre que les [GMT](FR:GMT "wikilink").
+L**'équipe de certification de qualité des beatmaps**, connue sous l'acronyme de QAT (*Quality Assurance Team*), est un groupe de joueurs chargés de contrôler la qualité des beatmaps mises en statut "Qualified" par les [BN](FR:BN). Si une map vient à être acceptée par les QAT après le passage des BN, la map en question devient [classée](FR:Beatmap_Approval#Rank).
+Ils possèdent aussi des droits de modération dans les canaux de discussion et leur nom en rouge, au même titre que les [GMT](FR:GMT).
 
 Membres de l'équipe
 -------------------

@@ -2,7 +2,7 @@ Das **Quality Assurance Team**, allgemein auch **QAT**, sind für die Qualitäts
 
 QAT-Mitglieder werden aufgrund ihrer Position dazu aufgerufen das strikte Einhalten der Norm durch regelmäßiges Beteiligen am Beurteilen der Mapqualität zu gewährleisten.
 
-Für mögliche Mitglieder dieses Teams kommen nur [BATs](DE:Beatmap_Appreciation_Team "wikilink") infrage, wenn sie die neue Rolle akzeptieren sollten.
+Für mögliche Mitglieder dieses Teams kommen nur [BATs](DE:Beatmap_Appreciation_Team) infrage, wenn sie die neue Rolle akzeptieren sollten.
 
 Teammitglieder
 --------------

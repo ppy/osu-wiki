@@ -2,7 +2,7 @@
 
 Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
 
-Członkowie tej grupy awansują z grupy [BNów](Beatmap_Nomination_Group "wikilink"), jeżeli zgodzą się na przyznaną im nową rolę. Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+Członkowie tej grupy awansują z grupy [BNów](Beatmap_Nomination_Group), jeżeli zgodzą się na przyznaną im nową rolę. Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
 
 Członkowie zespołu
 ------------------
