@@ -5,7 +5,7 @@
 **[osu!store](https://store.ppy.sh/store/listing)** (appelé autrefois *[osu!market](https://market.ppy.sh/)*, vente de mugs, T-shirts et Hoodies) est une boutique en ligne de marchandises osu!. Toutes les marchandises sont fabriquées avec la plus grande qualité tout en ayant un prix raisonable. La plupart ,sinon, toutes les marchandises ont été vérifiées qualitativement et approvées par le créateur de osu! pour s'assurer que votre achat apporte satisfaction à vous comme pour un de vos ami.
 
 Marchandise
-===========
+-----------
 
 | No. | Image | Nom du produit| Description |
 | :-: | :---: | :-----------: | ----------- |
