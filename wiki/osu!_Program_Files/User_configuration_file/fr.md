@@ -1,9 +1,8 @@
-
-***[Retour à la page principale](../ "Osu! Program Files")***
+***[Retour à la page principale](../ "osu! Program Files")***
 
 ![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
 
-Ceci est une liste d'option située dans le fichier osu!.\<nomdevotrepc\>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
+Ceci est une liste d'options située dans le fichier osu!.\<nomdevotrepc\>.cfg. Beaucoup de ces options son disponibles en jeu et il est recommandé d'y modifier ces options par son biais. N'éditez ces valeurs manuellement qu'en cas de vrai besoin.
 
 | Code                         | Description                                                                                                                                                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -86,7 +85,7 @@ Ceci est une liste d'option située dans le fichier osu!.\<nomdevotrepc\>.cfg. B
 | YahooIntegration             | Active/Désactive "Intégrer au statut Yahoo! Messenger" en jeu                                                                                                                                              |
 | HighlightWords               | Contient la totalité de "Chat highlight words" en jeu                                                                                                                                                      |
 | HitLighting                  | Active/Désactive "Lueurs de fond" en jeu                                                                                                                                                                   |
-| ScreenshotFormat             | Osu! va sauvegarder ses captures d'écran au format .PNG ou .JPEG                                                                                                                                           |
+| ScreenshotFormat             | osu! va sauvegarder ses captures d'écran au format .PNG ou .JPEG                                                                                                                                           |
 | LobbyShowPassworded          | Paramètres des filtres du lobby multijoueur                                                                                                                                                                |
 | LobbyShowExistingOnly        |
 | LobbyShowFriendsOnly         |
