@@ -6,7 +6,7 @@ Additions and edits are always welcome.
 
 ## A
 
-### Abandoned wasteland
+### Abandoned Wasteland
 
 If the name is not obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we do not really need in here."
 When a thread is or is said to be "wastelanded", it is moved there.
@@ -17,7 +17,7 @@ AFK is an internet acronym that means _Away From Keyboard_.
 An example of this is when an active user walks off to do something else while they're still logged on.
 osu! will mark users as "Idle" if they have been inactive for some time.
 
-### Approach circle
+### Approach Circle
 
 In [osu!standard](/wiki/Game_Modes/osu!/), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the center of the spinner (for older skins).
 When the approach circle touches the outer border of the hit circle or slider you should click.
@@ -49,7 +49,7 @@ A correctly timed beatmap will have each beat correspond to the song's rhythm an
 
 For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor).
 
-### Beat spacing
+### Beat Spacing
 
 Beat spacing is a principle that applies to osu!standard.
 This states that the spacing of every object (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
@@ -80,7 +80,7 @@ Nowadays, beatmaps usually have a background image, video, or even a storyboard.
 
 For more details about how beatmaps are uploaded, see BSS.
 
-### Beatmap pack
+### Beatmap Pack
 
 _Not to be confused with Beatmapsets_
 
@@ -225,11 +225,11 @@ For osu!mania, the starts will shoot out from the stage.
 
 Combobursts can be disabled in the options.
 
-### Combo colour
+### Combo Colour
 
 The combo colour is a colour that that separates a comboset from another.
 
-In osu!standard, all ncombos have a colour.
+In osu!standard, all combosets have a colour.
 A new combo is started when the colour of the hit object changes.
 The colours will keep repeating themselves depending on how many the mapper defined (or how many your skin's skin.ini file defines).
 There is a minimum of 2 and a maximum of 8 combo colours.
@@ -243,7 +243,7 @@ When editing a beatmap, one can change those colours and/or their order in the S
 For skins, the skin properties for the combo colours is located on in the `[Colours]` section of the skin.ini.
 However, do note that the skin's defined combo colours is only used when the mapper does **not** define them.
 
-### Combo fire
+### Combo Fire
 
 ![](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
@@ -254,7 +254,7 @@ The combo fire will extinguish itself if the combo was broken but would still be
 
 This feature was later disabled on March 5, 2013 due to performance concerns.
 
-### Combo milestone
+### Combo Milestone
 
 A combo milestone is a set of numbers that will shoot stars and display the comboburst after obtaining one of these milestones.
 
@@ -262,7 +262,7 @@ The combo milestones for osu!standard and osu!catch are 30, 60, 100, and multipl
 For osu!taiko, the combo milestones are multiples of 50.
 For osu!mania, the combo milestones are multiples of 100.
 
-### Combo multiplier effect
+### Combo Multiplier Effect
 
 The combo multiplier effect occurs in the osu!standard, osu!taiko, and osu!catch game modes.
 This occurs because said game modes use the player's current combo as a part of the score calculations.
@@ -284,7 +284,7 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie is another word for "osu!logo".
+The cookie is another word for the osu! logo.
 This has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and previously in old crash reports (seen [here](img/Pippi_corruption.jpg)).
 
@@ -298,7 +298,7 @@ These usually causes the player to lose their stamina very quickly and potential
 It is heavily suggested to only use deathstreams when a beatmap _hints_ it and/or has a high BPM.
 This should **never** be used to overmap a beatmap!
 
-### Difficulty stars
+### Difficulty Stars
 
 The difficulty stars is the visual representation of a beatmap's difficulty.
 This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
@@ -330,7 +330,7 @@ The osu!website sorts difficulty versions into 5 categories:
 - [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!/Expert/)
 <!-- TODO add other diff from other game modes? -->
 
-### Drain time
+### Drain Time
 
 The drain time, or _drain_, refers to the total duration of the beatmap that requires the player to be active.
 Drain time does not consider the breaks and unmapped parts throughout the beatmap.
@@ -358,7 +358,7 @@ The difference between drops and droplets is that a droplet is half as big as dr
 DS is an abbreviation meaning distance snapping.
 This term is usually seen during the modding process.
 
-### DS games
+### DS Games
 
 DS games is a collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
 
@@ -375,7 +375,7 @@ EBA has two meanings:
 - Elite Beat Agents, one of the DS games which osu! is based on
 - the collective term for the playable characters in that game (referring to meaning above), i.e. "The EBA" or "The Agents"
 
-### Extended chat
+### Extended Chat
 
 Extended chat is the Chat Console (bottom portion) with the user panels (top portion) of players currently logged-in to the game client.
 Press `F8` to show the chat and/or `F9` to show the user panels (if you press `F9` without the chat opened, this will open both).
@@ -414,7 +414,7 @@ Because of the combo multiplier effect, full combos will give the most score in 
 
 Geki(激), or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
 
-### Guest difficulty
+### Guest Difficulty
 
 Guest difficulty, or GD, refers to any difficulty made by a mapper for inclusion in another mapper's set.
 Guest difficulties usually have the mapper's username as the difficulty's name.
@@ -445,7 +445,7 @@ It accompanies the total score at the result screen and appears in all lists whe
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
 
-### Grid snapping
+### Grid Snapping
 
 Grid snapping refers to a button on the right hand side of the editor screen.
 
@@ -470,29 +470,29 @@ This will allow you to update the beatmap through the BSS.
 
 ## H
 
-### Hitsound
+### Hit Sound
 
-Hitsounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game.
+Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game.
 This is in contrast to the underlying music and sounds created by the user interface.
 
-Hitsounds are used to provide an auditory feedback mechanism to the player to help them judge their timing.
+Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing.
 These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
-There are 4 types of hitsounds:
+There are 4 types of hit sounds:
 
 - _(normal)_ (used when there is none of the below are used)
 - whistle
 - clap
 - finish
 
-These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music.
-osu! provides a wide array of hitsounds (eight in the stable release, since upgraded to twelve).
+These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music.
+osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve).
 Though, mappers can go further add up to 24 more.
 Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
 ## I
 
-### Ignore list
+### Ignore List
 
 The ignore list is a blacklist of words (or users) that the player does not want to be displayed in the osu!chat.
 
@@ -506,7 +506,7 @@ For more information about IRC, see [Internet Relay Chat](/wiki/Internet_Relay_C
 
 ### Jump
 
-A jump is an osu!standard and osu!catch mapping technique that requires hit objects to be placed farther than they would be with the distance snapping.
+A jump is an osu!standard and osu!catch mapping technique that requires the hit objects to be placed farther than they would be with the distance snapping.
 
 More apparent, in early beatmaps and even the first Ouendan games, jumps can make a beatmap more fun and thrilling... though they should be used very rarely and only on harder difficulty versions.
 
@@ -570,7 +570,7 @@ Please be aware that beatmap nominators may revoke your kudosu if they deem that
 The lead-in time is a 3 second time period of silence that might automatically be inserted before the beginning of a beatmap.
 This only happens if the beatmapper has placed objects right at or very close at the start of the song.
 
-### Life bar
+### Life Bar
 
 The life bar, also known as the _health bar_, _HP bar_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for osu!standard, osu!catch, and osu!taiko.
 For osu!mania, the life bar is rotated 90 degrees counter-clockwise and is placed next to the bottom-right of the stage.
@@ -588,7 +588,7 @@ For osu!catch, this can be done by catching fruit and drops.
 
 For all game modes (expect osu!taiko), a sizeable part of the bar is also depleted in case of a miss.
 
-### Local song offset
+### Local Song Offset
 
 The local song offset is an offset set for individual beatmaps, not the entire beatmapset itself.
 This is to offset the beatmap's offset alongside the global offset.
@@ -763,7 +763,7 @@ Pass has three meanings:
 peppy, written with a lowercase `p`, is the online alias of Dean Herbert.
 He is the creator of the osu! project and its primary developer.
 
-### Play time
+### Play Time
 
 Play time is the total duration of a beatmap.
 This includes the lead-in time and the break time(s).
@@ -840,7 +840,7 @@ This can be caused by doing repetitive tasks in an awkward position which may in
 
 ## S
 
-### Sample set
+### Sample Set
 
 A sample set is the collection of sound effects that are heard during gameplay.
 
@@ -850,7 +850,7 @@ These are categorized under three names:
 - Soft
 - Drum
 
-Inside each categories has these four hitsounds:
+Inside each categories has these four hit sounds:
 
 - _(normal)_ (the sound when none of the below is used)
 - whistle
@@ -869,6 +869,7 @@ scoreV2 has two meanings:
 
 scoreV2 is a new scoring algorithm that will resolve issues with the combo multiplier effect.
 This caps the scores for all game modes to 1 million points, like osu!mania, and adjusts a few things within the osu!mania mode.
+<!-- TODO expand scoreV2... somehow? -->
 
 ### Silence
 
@@ -902,7 +903,7 @@ Sliderbreak has two meanings:
     - this will not cause a miss, rather it will give you a 100 with no combo increment
 - The case where the player does not obtain the max possible combo without missing an object.
 
-### slider tick
+### slider Tick
 
 The slider tick is a hit object that gives out 10 points.
 The amount of slider ticks used in a slider is dependent on the slider velocity, the BPM and the inherited timing.
@@ -915,11 +916,11 @@ To spectate, open the extended chat and click on a grey user panel.
 For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing.
 However, if you have an [osu!supporter](/wiki/osu!supporter/) tag, the beatmapset will be downloaded and loaded for you.
 
-### Spectator aura
+### Spectator Aura
 
 Spectator aura is a mysterious phenomenon that could cause players to choke their combo, or fail a beatmap from having a spectator(s) spectate their gameplay.
 
-### Spinner spam
+### Spinner Spam
 
 Spinner spam is a **heavily discouraged** mapping technique (in fact, it will probably make your map unrankable).
 
@@ -978,7 +979,7 @@ osu!storyboarding is supported through the use of a scripting language or throug
 
 There is a sub-forum dedicated to storyboards, see [Storyboarding](https://osu.ppy.sh/forum/20).
 
-### Storyboard editor
+### Storyboard Editor
 
 The storyboard editor can be found under `Design` in the editor in edit mode.
 As the name implies, storyboards can be easily created and edited here.
@@ -1039,7 +1040,7 @@ Test mode is a feature of the beatmap editor.
 This allows you to test your beatmap without having to submit anything.
 However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
 
-### Time signature
+### Time Signature
 
 The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat.
 osu! offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
@@ -1084,7 +1085,7 @@ Due to the way touchpads are designed, they do not work with a stylus or similar
 
 ## U
 
-### Universal offset
+### Universal Offset
 
 The universal offset is the time delay between:
 
@@ -1108,7 +1109,7 @@ For more information about upppy, see [upppy!](https://up.ppy.sh/) **(NSFW: ther
 
 ### Version
 
-Version has two meanings:
+Version has four meanings:
 
 - the specific beatmap of the beatmapset
   - this term can be used in place of beatmap to prevent disambiguation
@@ -1116,6 +1117,8 @@ Version has two meanings:
   - however, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
   - see [Skinning](/wiki/Skinning/) for more details
+- the release date of your osu!client
+- the build release of your osu!client (Stable, Beta, and cuttingedge)
 
 ## W
 
