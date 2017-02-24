@@ -46,6 +46,32 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 -----------------------
 
+## Participants
+
+_**List of countries is not complete yet!**_
+
+### Confirmed Rosters
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](//new.ppy.sh/u/1694000)**, [FrancisRave](//new.ppy.sh/u/1733728), [Elementaires](//new.ppy.sh/u/2284328), [Ekoro](//new.ppy.sh/u/284905), [Nofool](//new.ppy.sh/u/672430), [TimmyAkmed](//new.ppy.sh/u/1799973) |
+| ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[taiko_maniac1811](//new.ppy.sh/u/595764)**, [Jerry](//new.ppy.sh/u/605973), [xelticrival](//new.ppy.sh/u/7500364), [newme96](//new.ppy.sh/u/2782769), [kclee2172](//new.ppy.sh/u/5481817), [LSK0204](//new.ppy.sh/u/2530378) |
+| ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](//new.ppy.sh/u/2917312)**, [Kiwi-P](//new.ppy.sh/u/1794766), [Fallen Demon](//new.ppy.sh/u/2908051) |
+| ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](//new.ppy.sh/u/249094)**, [Don Omar](//new.ppy.sh/u/689414), [gavnono](//new.ppy.sh/u/1625581) |
+| ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](//new.ppy.sh/u/1387762)**, [Hydria](//new.ppy.sh/u/808176), [goheegy](//new.ppy.sh/u/8057655), [Mekelemembe](//new.ppy.sh/u/3289191), [abrian159](//new.ppy.sh/u/1159051), [RileySpook](//new.ppy.sh/u/7266040) |
+| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](//new.ppy.sh/u/1368025)**, [[\_Chichinya\_]](//new.ppy.sh/u/2140739), [Thousand](//new.ppy.sh/u/2852968), [[\_LordEnder\_]](//new.ppy.sh/u/4609767), [-YuriPrincess](//new.ppy.sh/u/2114483), [Satoruu](//new.ppy.sh/u/2243452) |
+
+### Pending Rosters
+
+| | Country | Captain |
+| ---: | :---: | :--- |
+| ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[Sylarn](//new.ppy.sh/u/4266840)** |
+| ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](//new.ppy.sh/u/1074143)** |
+| ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](//new.ppy.sh/u/389880)** |
+| ![](/wiki/shared/flag/Ru.gif) | **Russian Federation** | **[Wolfjkeee](//new.ppy.sh/u/1282662)** |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
