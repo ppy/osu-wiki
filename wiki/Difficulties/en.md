@@ -27,19 +27,13 @@ From the [Ranking Criteria](/wiki/Ranking_Criteria):
     -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")(1.4) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(2.5) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.6)
     -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon")(1.4) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(2.6) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(3.8)
 
-<!-- -->
-
 -   It is generally allowed to skip the **[Easy]** difficulty if the **[Normal]** difficulty follows the general guidelines of an Easy map
     -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Hard icon](/wiki/shared/Hard-s.png "Hard icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
-
-<!-- -->
 
 -   It is **not** allowed to skip a huge difficulty range like **[Hard]** or **[Insane]**
     -   ![Easy icon](/wiki/shared/Easy-s.png "Easy icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
     -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Insane icon](/wiki/shared/Insane-s.png "Insane icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
     -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon") ![Hard icon](/wiki/shared/Hard-s.png "Hard icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon") ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
-
-<!-- -->
 
 -   Depending on the prevalent gameplay elements in your **[Insane]** and **[Expert]** you could be asked to include another lower or higher rated additional **[Insane]**
     -   ![Normal icon](/wiki/shared/Normal-s.png "Normal icon")(1.9) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.2) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(5.1) ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")(5.9) needs the addition of something like ![Normal icon](/wiki/shared/Normal-s.png "Normal icon")(1.9) ![Hard icon](/wiki/shared/Hard-s.png "Hard icon")(3.2) ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")**(4.3)** ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")(5.1) ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")(5.9)
@@ -96,8 +90,6 @@ To have an idea of how these sets can be build up, examples will be given:
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 1/4
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4
 
-<!-- -->
-
 -   Different type of set:![Easy](/wiki/shared/Easy-t.png "Easy")![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Expert](/wiki/shared/Expert-t.png "Expert")
 
 While Inner and Ura Oni are normally in use for hard Onis, they can also be used for **fixing spread problems**. For example, if a spread happens to become too large between two difficulties, you can either try refining the existing difficulties to fit the spread or add a **new map** if the gap between two difficulties is too large to be refined. **Example 6:** This would be a common set with additional Inner / Ura Oni a song can carry.
@@ -131,8 +123,6 @@ Note: **M** = Mapper
 ![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")
 
 -   A song doesn't always require an Oni. Think about mapping lower difficulties.
-
-<!-- -->
 
 -   Make lower players happy by giving them easier difficulties. Experienced players can use several mods to make the map harder for themself.
 
