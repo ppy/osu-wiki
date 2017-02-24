@@ -59,7 +59,7 @@ _**List of countries is not complete yet!**_
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
 | ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
-| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [[\_Chichinya\_]](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [[\_LordEnder\_]](https://new.ppy.sh/u/4609767), [-YuriPrincess](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
+| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [\[\_Chichinya\_\]](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [\[\_LordEnder\_\]](https://new.ppy.sh/u/4609767), [-YuriPrincess](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
 
 ### Pending Rosters
 
