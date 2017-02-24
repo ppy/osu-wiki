@@ -27,7 +27,7 @@
 # Replay
 
 A replay is a direct emulation of a play, either by a player or a perfect play done by [Auto][Auto wikilink] mod.
-As long as the local replay emulation file with a `.osr` file extension was available with the difficulty/beatmap it reference or a top _Global leaderboard_ play was downloaded, a complete replay can be constructed by osu! to be watched.
+As long as the local replay emulation file with a `.osr` file extension was available with the difficulty/beatmap it reference or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by _osu!_ to be watched.
 
 ## Replay options
 
@@ -35,7 +35,7 @@ As long as the local replay emulation file with a `.osr` file extension was avai
 
 _Left is offline replay; Right is online replay_
 
-To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/``~``) key (which can be changed in [Options sidebar under keyboard][Options#Keyboard wikilink]; inside the `Change keyboard bindings` button as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/`~`) key (which can be changed in [Options sidebar under keyboard][Options#Keyboard wikilink]; inside the `Change keyboard bindings` button as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 The screen should darken and a sound will be played when the quick restart was successful.
 Releasing the key early will fail the quick retry.
 
@@ -57,7 +57,7 @@ To skip the starting/ending point of the play, press the `Spacebar` key.
 
 ### Discussion
 
-The button **only appears when an in-game osu! account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmaplist (ranked or otherwise)**.
+The button **only appears when an in-game osu!account was connected to Bancho and the difficulty/beatmap can be found in the osu! beatmaplist (ranked or otherwise)**.
 Shows flowing right-to-left comments left by the community on the beatmap.
 
 Click on the `Discussion` button to show the options available.
@@ -82,11 +82,11 @@ _Commentary by the community at the middle, mapper at the top in blue_
 
 To filter the comments by difficulty, enable `Difficulty (#)`.
 To filter the comments by the overall beatmapset, enable `Song (#)`.
-When watching a top play from the _Global leaderboard_, enable `Player (#)` to show comments from the player itself.
+When watching a top play from the `Global leaderboard`, enable `Player (#)` to show comments from the player itself.
 
 Mapper's comment will be placed above the flowing comments with a light-blue text and an jump-out/jump-in animation instead.
 Depending on resolution, it may be obstructed by a **UNRANKED** notice when watching an Auto replay.
-To remove the **UNRANKED** notice, either watch a top replay from the _Global leaderboard_, or a local replay from the _Local leaderboard_ without the Auto mod used.
+To remove the **UNRANKED** notice, either watch a top replay from the `Global leaderboard`, or a local replay from the `Local leaderboard` without the Auto mod used.
 
 When watching a top replay, the player of the replay's comment(s) will be shown _below_ the screen instead, and will only be shown in this replay only.
 
@@ -102,11 +102,13 @@ The replay will not pause and continue at the background while in this screen.
 ### Playback Speed
 
 Click to adjust the `1x`/`2x`/`0.5x` playback speed of the replay to `2x`/`0.5x`/`1x` playback speed.
+
 Shortcut key is the `F` key.
 
 ### End Replay
 
 Self-explanatory; click to end the replay.
+
 Shortcut key is the `Esc` key.
 
 ## Types of Replay
@@ -145,14 +147,14 @@ _A typical local replay_
 A local _Solo_ play.
 As long as the difficulty was passed, a replay will be generated internally and can be exported to `Replays` folder.
 
-At the backend, one pair of files will be created in the hidden folder, `Data/r`: `.osr` (_osu replay_; the replay file), and `.osg` (accuracy and combo in real-time; used for spectators' replay only) with same encrypted filename.
+At the backend, one pair of files will be created in the hidden folder, `Data/r`: `.osr` (osu! replay; the replay file), and `.osg` (accuracy and combo in real-time; used for spectators' replay only) with same encrypted filename.
 It is highly suggested to **not rename the encrypted filename**, and make use of the export `F2` key instead.
 
 Deleting the `.osg` file has no effect (it is a leftover file for spectator's replay; can be safely removed).
 Deleting the `.osr` file will make the replay _lost forever_ (since the replay data is missing and nothing to export).
 Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make all (not exported) replays and local leaderboard scores lost forever_.
 
-To set a name when not logged-in (_Guest_ account), scroll down the result screen to access the _online results screen_ directly after passing the difficulty and type in the name under _Guest player name_.
+To **set a local leaderboard name** when not logged-in (_Guest_ account), **scroll down** the result screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
 In this screen, an alternative to using the export `F2` key is to enable the `Save replay to Replays folder` button located at the upper-right.
 
 Return to the _Song Selection_ and changes will be updated for this replay (if no name was given, it will simply be blank).
@@ -171,13 +173,13 @@ The replay ends when the screen darkens, with osu!logo in the middle, rather tha
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection.
 Trying to restart the beatmap to directly play the beatmap again in this state is not possible.
 
-It currently works in _Solo_ only when given the game over screen.
+It currently works in `Solo` only when given the game over screen.
 
 Viewing a failed play does not work with the [No Fail(NF)][No Fail wikilink]/[Relax(RL)][Relax wikilink]/[Auto Pilot(AP)][Auto Pilot wikilink] game modifier because it is impossible to fail.
 Using the [Perfect(PF)][Perfect wikilink] game modifier would forcefully quick-retry instead of failing the player.
 
 **This type of replay will not be saved internally nor is allowed to be exported**.
-To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
+To record the failed replay, please use external third-party software for now since _osu!_ has yet to have native export support for failed replay.
 
 If there was a retry streak, it will be lost once entering the _Failed_ replay state.
 
@@ -196,7 +198,7 @@ Multi elements will not be saved as shown in the image comparison above (refer t
 As spectator mode requires access to [Extended Chat Console][Extended Chat Console wikilink], please log-in with an active in-game account and connect to Bancho.
 
 After that, press `F9` to access the Extended Chat Console and pick a player to spectate.
-Make sure to have the _same_ difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.
+Make sure to have the **same** difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.
 Exiting the Extended Chat Console will start the spectator replay if both the spectator and player have the same difficulty/beatmap.
 
 A `#spectator` tab will be opened in the Chat Console (both the spectator and the player) to discuss about the player's play.
@@ -239,12 +241,12 @@ Do note that the **UNRANKED** notice cannot be removed at all.
 
 #### Preview Gameplay
 
-When the `Preview Gameplay` button in the _Options_ sidebar is clicked, Auto will **randomly take a difficulty/beatmap** based on **currently selected game mode (set in Solo's Song Selection screen)** and **a random timespan to start**.
+When the `Preview Gameplay` button in the `Options` sidebar is clicked, Auto will **randomly take a difficulty/beatmap** based on **currently selected game mode (set in Solo's Song Selection screen)** and **a random timespan to start**.
 
 In this type of replay, Auto may randomly miss a few hit objects to show how the skins elements looks like.
-If the `Preview Gameplay` button was not clicked again to randomise another difficulty/beatmap and timespan when the song ended, result screen will be shown for this play and the _Options_ sidebar will be closed.
+If the `Preview Gameplay` button was not clicked again to randomise another difficulty/beatmap and timespan when the song ended, result screen will be shown for this play and the `Options` sidebar will be closed.
 
-The _Options_ sidebar cannot be reopened while playing or in results screen.
+The `Options` sidebar cannot be reopened while playing or in results screen.
 
 ### Server
 
@@ -252,7 +254,7 @@ The _Options_ sidebar cannot be reopened while playing or in results screen.
 
 _A server replay_
 
-Server replays are reserved for the top 50 play in the global leaderboard of a difficulty/beatmap.
+Server replays are reserved for the top 50 play in the `Global leaderboard` of a difficulty/beatmap.
 The replay will be saved server-side.
 It can be exported, or downloaded and watched immediately by request.
 
@@ -260,8 +262,8 @@ When watching a server-side replay (excluding exported replays), the player of t
 If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
 
 To watch a server replay, an osu!account must be logged in-game and be connected to Bancho.
-At the _Song Selection_ screen in _Solo_, switch the leaderboard to _Global leaderboard_ and click on the preferred player at the leaderboard to watch the replay.
-Press on the _Watch replay_ button and osu! will download the replay file from the Bancho as shown in the left of the image.
+At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
+Press on the `Watch replay` button and _osu!_ will download the replay file from the Bancho as shown in the left of the image.
 The replay only plays once and will be deleted after the replay ends/quit early.
 
 ## Trivia
@@ -269,6 +271,8 @@ The replay only plays once and will be deleted after the replay ends/quit early.
 ### General
 
 Playback speed does not affect the `REPLAY MODE/SPECTATOR MODE` notice scrolling speed.
+
+Pausing breaks during play will not be accounted in the replay data; only the active playing data was collected.
 
 ### Spectator
 
@@ -278,7 +282,7 @@ The exported replay file will only contain the play data from the timespan of th
 
 For the timespan before that, the cursor will be placed at the starting point of the spectating timespan and shows no reaction, no hit burst occurrence, and health drain occur as usual (depending on game mode).
 
-An empty healthbar will not fail the beatmap and the replay.
+An empty healthbar will not fail the beatmap replay.
 
 Do note that a failed spectator replay cannot be exported.
 
@@ -297,7 +301,7 @@ Do note that this is currently the only way to save a replay which will continue
 _An exceptional case of Preview Gameplay's result screen in a bad timespan_
 
 Depending on the random timespan selected, it may start at the _end of the song_ without any hit objects, leading directly to the results screen with 0 score, 0 combo, 0x hit bursts, D Grade, no performance graph, and 100.00% accuracy.
-When watching the replay, the health drain will work as usual, no cursor movement, and _no miss_ (hence 100.00% accuracy) until the point where the _Preview Gameplay_ timespan was set to run, which the hit bursts will start to work.
+When watching the replay, the health drain will work as usual, no cursor movement, and _no miss_ (hence 100.00% accuracy) until the point where the `Preview Gameplay` timespan was set to run, which the hit bursts will start to work.
 
 Since Auto unable to fail, an empty healthbar has no effect on Auto.
-However, for _osu!taiko_, this will make the replay stuck in an _infinite loop_ because Auto _unable to fail at all_ (healthbar always starts empty, and it was not filled to half to be considered a pass).
+However, for osu!taiko, if Auto is unable to fill the healthbar 50% or more, the replay will be stuck in an _infinite loop_.
