@@ -43,19 +43,23 @@ This will help make the headings stand out a bit more when editing.
 There are two styles of heading levels 1 and 2 that Markdown supplies you:
 
 ```md
-heading level 1
-===============
+title of page
+=============
 
 heading level 2
 ---------------
+
+### heading level 3
 ```
 
 or
 
 ```md
-# heading level 1
+# title of page
 
 ## heading level 2
+
+### heading level 3
 ```
 
 You can choose either the underline style or hashtag style of level 1 and level 2 headings.
@@ -68,6 +72,11 @@ The title of an article is the name of the folder that the article is located in
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
 All article titles are to be using the level 1 heading.
+For example:
+
+```
+# Folder Name
+```
 
 ### Section Headings
 
@@ -80,7 +89,7 @@ Instead place the link underneath the section heading.
 For example:
 
 ```
-## Editor
+## Beatmap Editor
 
 For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
 ```
@@ -115,8 +124,16 @@ Other examples may include:
 - `osu!direct`
 
 When refering to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
+For example:
 
-- *e.g.* `osu!standard` or `osu!direct`.
+- `osu!standard`
+- `osu!direct`
+
+### Serial comma
+
+When listing items of 3 or more in a sentence, use the serial comma.
+
+- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
 
 ### Capitalisation
 
@@ -124,7 +141,7 @@ When refering to `osu!` (the game/framework itself, not the game mode), it shoul
 
 When referring the name of a language, capitalize the first letter of that language.
 
-- The #spanish chat channel are for those who speak **Spanish**.
+- The `#spanish` chat channel are for those who speak **Spanish**.
 
 ##### Chat Channels
 
@@ -137,13 +154,26 @@ For example:
 - `#multiplayer`
 - `#userlog`
 
-The private chat channel names will use the letter casing as they appear.
+The private chat channel names are to use the letter casing as they appear.
 
 #### Abbreviations
 
-Abbreviations of osu! terms must be capitalised (e.g. `CS` for `Circle Size`).
+When using abbreviations, it is really important to note what the abbreviation means upon first instance.
+For example:
 
-When shortening the word: "for example"; use `e.g.` instead of `e.x.` or `i.e.`.
+```
+The NC (Night Core) mod is similar to the DT (Double Time) mod.
+While NC and DT increases the speed of the music by 25%, NC will change the pitch of the music and adds a clap and finish to each beat.
+```
+
+Abbreviations of osu! terms **must** be capitalised.
+For example:
+
+- `CS` for `Circle Size`
+- `AR` for `Approach Rate`
+- `DT` for `Double Time`
+
+When shortening the word "for example"; use `e.g.` instead of `e.x.` or `i.e.`.
 
 #### Game Modes
 
@@ -158,7 +188,7 @@ Writting the name of the game modes, they are to be written as follows:
 
 #### Game Modifiers
 
-Game modifiers must be capitalised.
+Game modifiers **must** be capitalised.
 
 - `Hard Rock`
 - `Nightcore`
@@ -171,12 +201,6 @@ Gameplay elements should **never** be be capitalised.
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 
-### Serial comma
-
-When listing items of 3 or more in a sentence, use the serial comma.
-
-- The game modes of osu!: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
-
 ### Contractions
 
 Contractions are a shortened form of a word or group of words.
@@ -188,18 +212,25 @@ For example, use:
 - `Do not` instead of `Don't`
 - `You will` instead of `You'll`
 
-### Point of View
+## Point of View
 
 When refering to the player, use `the player` or `a player`.
 **Never** use `he`/`his` or `she`/`her's`!
 Instead, use `they`/`their's`.
+
+In instances where you are talking directly to the reader (e.g. tutorial page), you could use the word `you`.
 
 ## Emphasizing
 
 When you need to emphasize something (such as warning someone not to do something or note its importance), do **not** use capital letters for emphases.
 Instead, use **bold**, _italics_, or **_both_**.
 
-For example, instead of `Do NOT contact peppy for ingame issues!` use `Do **not** contact peppy for ingame issues!`
+### Bold
+
+Use bold when you need to caution or note something's importance.
+For example:
+
+- instead of `Do NOT contact peppy for ingame issues!` use `Do **not** contact peppy for ingame issues!`
 
 ### Italics
 
@@ -215,19 +246,33 @@ Know that the overuse of emphasis will reduce its effectiveness.
 Use code (inline) when noting:
 
 - a key on the keyboard
-  - e.g. `B`, `Alt` or `Ctrl` + `Shift` + `A`
-  - When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
-- a name of a button
-  - e.g. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
-- a name of a folder
-  - e.g. `Exports` or `Downloads`
-- a name of a directory
-  - e.g. `/Songs/` or `/Skins/User/`
-- a name of a keyword
-  - e.g. `ComboBurstStyle` or `[Events]`
+  - examples:
+    - `.`
+    - `Alt`
+    - `Ctrl` + `Shift` + `A`
+  - should use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+- the text of a button
+  - examples:
+    - `1. Let's do it.`
+    - `4. Noooo! I didn't mean to!`
+- the name of a folder
+  - examples:
+    - `Exports`
+    - `Downloads`
+- the name of a directory
+  - examples:
+    - `/Songs/`
+    - `/Skins/User/`
+- the name of a keyword
+  - examples:
+    - `ComboBurstStyle`
+    - `[Events]`
 - the name of a file extension
-  - e.g. `.jpg` or `.osz`
-  - When naming a file extension, add a period (`.`) then the file extension in lower case letters.
+  - examples:
+    - `.jpg`
+    - `.gif`
+    - `.osz`
+  - must add a period (`.`) then the file extension in lowercase letters.
 - the name of a chat channel
   - e.g. `#lobby` or `#osu`
 
@@ -236,12 +281,13 @@ Use code (inline) when noting:
 Article links must follow these rules:
 
 1. must use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
-  - e.g. `[Welcome](/wiki/Welcome/)`
-  - e.g. (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
+   - for example:
+     - `[Welcome](/wiki/Welcome/)`
+     - (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
 2. **must be spelt correctly** (links are case sensitive!!)
 3. must **not** specify the specific file name **regardless of language** (osu!wiki will handle this)
-  - do: `[Glossary](/wiki/Glossary/)`
-  - don't: `[Glossary](/wiki/Glossary/fr.md)`
+   - do: `[Glossary](/wiki/Glossary/)`
+   - don't: `[Glossary](/wiki/Glossary/fr.md)`
 4. must not link to section headings (section headings on osu!wiki does not work)
 
 External links must follow these rules:
@@ -254,17 +300,15 @@ External links must follow these rules:
   - do not use a url with long url queries, parameters, or fragments
 - the link name must be the title text of the page it is linking to
 
-Do not use the word `here` as the link text.
-As it may seem convenient to use, it could be misleading.
-Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
-
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
 When linking to the osu!website, e.g. user profiles or beatmaps, use `new.ppy.sh` not `osu.ppy.sh`.
 <!-- `new.ppy.sh` is just a temporary subdomain for the new design. -->
 
-### Linking Types
+**Never** use protocol relative links (e.g. `//example.com`)!
+
+### Link Types
 
 There are three kinds of links:
 
@@ -276,12 +320,11 @@ The one you use may depend on the scenario.
 
 #### Absolute Links
 
-Absolute links contains the the `http://` or `https://` protocol, the sub/domain, the directory, and the file it links to (if available).
-Basically, this is a url.
+Absolute links are URLs.
 For example:
 
 ```
-https://www.example.com/osu/lazer.md
+https://www.example.com/osu/lazer.xhtml?locale=jp&state=1
 ```
 
 Use of this type of link may include:
@@ -317,6 +360,12 @@ Use of this type of link may include:
 
 - linking to an article that is a subdirectory of an article
 - linking to images for a specific article
+
+### Link Text
+
+Do not use the word `here` as the link text.
+As it may seem convenient to use, it could be misleading.
+Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
 ### Section Linking
 
@@ -363,7 +412,7 @@ Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (u
 
 All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
 
-### Clickable images
+### Clickable Images
 
 If when you need an image to be clickable, e.g. click on thumbnail to view a full sized version, you can use this syntax:
 
@@ -388,6 +437,15 @@ If you need help making a complicated table, try to see if you can improvise a s
 It is up to you whether or not if you want to beautify the tables.
 They will appear nicer when editing them; however, for those who use text wrapping, the tables will appear as a clumped mess.
 Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
+
+## Date Formatting
+
+1. To avoid having dates using different formats, all dates should be written in `DD, Month, YYYY` format
+   - e.g. `10 December 2011`
+2. Do **not** use superscripts or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
+3. If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
+   - e.g., `2011-12-10` or `2012-05-04`
+<!--4. Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
 
 ## Miscellaneous
 
