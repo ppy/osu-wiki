@@ -13,7 +13,7 @@
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
 [Sudden Death wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Sudden Death"
 [Score wikilink]: /wiki/Score/ "Score"
-[Score#Level wikilink]: /wiki/Score "more info can be found on Score under Level"
+[Score#Level wikilink]: /wiki/Score#Level "more info can be found on Score under Level"
 [Performance Points wikilink]: /wiki/Performance_Points/ "Performance Points"
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "more info can be found on Performance Points under FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"

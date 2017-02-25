@@ -5,7 +5,7 @@
 [Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
-[Score#osu!maniaSV wikilink]: /wiki/Score/ "more info can be found on Score under osu!mania Scoring Values"
+[Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "more info can be found on Score under osu!mania Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
 [Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "osu!mania Skinning"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"

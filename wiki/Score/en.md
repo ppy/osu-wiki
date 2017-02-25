@@ -93,7 +93,7 @@ Image | Name | Effect
 ![50][m50] | 50 | Very early or very late hit or hold. If you did not release the hold, you will get this by default. This decreases HP, but not for a drastic amount. Does not break combo.
 ![0][m0] | Miss | Not hitting the note or holding the note using the correct keys. This will drastically drain the HP and breaks the current combo.
 
-## Scoring Formulae
+## Scoring
 
 ### ScoreV2
 

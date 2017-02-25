@@ -1,10 +1,10 @@
 <!-- wiki -->
 [Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
 [Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!taiko"
-[Score#osu!taikoSV wikilink]: /wiki/Score/ "more info can be found on Score under osu!taiko Scoring Values"
+[Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
 [Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko/ "osu!taiko Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots "more info can be found on Mascots under pippi"
+[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "more info can be found on Mascots under pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
