@@ -171,12 +171,14 @@ However, the fruit that adds up the score is different from osu!standard.
 - A regular sized fruit gives a score of 300 times the multiplier.
 - A large juice drop (slider tick) gives a score of 100.
 - The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
+- Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
 
 Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
-Term | Formulae
+**Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]**
+
+Term | Meaning
 :---:|:---
-**Score**                 | Hit Value + Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
 **Difficulty multiplier** | The difficulty setting for the beatmap
@@ -184,7 +186,7 @@ Term | Formulae
 
 **Note:** There is a difference between osu!standard and osu!catch's scoring methods:
 
-- 300s and a combo increment aren't given to a finished spinner
+- 300s and a combo increment are not given to a finished spinner
 - reverse slider ticks are counted as a full score of a hit
   - note that in osu!standard, a reverse tick only gives 30 points
 

@@ -12,6 +12,9 @@
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto Pilot"
 [Spun Out wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Spun Out"
 [Beatmapping wikilink]: /wiki/Beatmapping "Beatmapping"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
+[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
+[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Overall Difficulty"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -213,17 +216,40 @@ If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
 
 The score given by each hit circle and end of a slider is calculated with the following formula:-
 
-Term | Formulae
+**Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))**
+
+Term | Meaning
 :---:|:---
-**Score**                 | Hit Value + Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap
-**Mod multiplier**        | The multiplier of the selected mods</td>
+**Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
+**Mod multiplier**        | The multiplier of the selected mods
 
 Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
 Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
+
+##### How to calculate the Difficulty multiplier
+
+[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_
+
+The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
+
+Difficulty points range | Difficulty multiplier
+:---:|---
+0 - 5   | 2x multiplier
+6 - 12  | 3x multiplier
+13 - 17 | 4x multiplier
+18 - 24 | 5x multiplier
+25 - 30 | 6x multiplier
+
+The limited highest is 27 difficulty points with CS7, OD10 and HP10.
+The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
+
+CS cannot normally go below 2 or above 7 (requires direct modification to the `.osu` file).
+
+Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**.
+It will only account for original values only.
 
 ### Hit circle judgement
 

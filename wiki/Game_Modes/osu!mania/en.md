@@ -285,7 +285,7 @@ Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculatin
 
 ### Score
 
-In osu!mania, each beatmap has the same maximum total score (1 million; 1,000,000).
+Each beatmap has the same maximum total score of 1 million (1,000,000).
 
 The score is given in two parts, base score and bonus score, each contributing 50% of total score.
 

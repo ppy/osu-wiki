@@ -4,291 +4,153 @@
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
 
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
+[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
+[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Overall Difficulty"
+
+<!-- shared -->
+<!-- SV -->
+[o300]: /wiki/Skinning/osu!/fs/hit300.png "300"
+[o300g]: /wiki/Skinning/osu!/fs/hit300g.png "Geki"
+[o100]: /wiki/Skinning/osu!/fs/hit100.png "100"
+[o300k]: /wiki/Skinning/osu!/fs/hit300k.png "300 Katu"
+[o100k]: /wiki/Skinning/osu!/fs/hit100k.png "100 Katu"
+[o50]: /wiki/Skinning/osu!/fs/hit50.png "50"
+[o0]: /wiki/Skinning/osu!/fs/hit0.png "Miss"
+
+[t300k]: /wiki/Skinning/osu!taiko/fs/taiko-hit300k.png "GREAT"
+[t300g]: /wiki/Skinning/osu!taiko/fs/taiko-hit300g.png "GREAT"
+[t300]: /wiki/Skinning/osu!taiko/fs/taiko-hit300.png "GREAT"
+[t100k]: /wiki/Skinning/osu!taiko/fs/taiko-hit100k.png "GOOD"
+[t100]: /wiki/Skinning/osu!taiko/fs/taiko-hit100.png "GOOD"
+[t0]: /wiki/Skinning/osu!taiko/fs/taiko-hit0.png "MISS"
+
+[Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
+[c300]: ./img/catch-300.jpg "Fruit"
+[c100]: ./img/catch-100.jpg "Juice Drop"
+[c50]: ./img/catch-50.jpg "Droplet"
+[cBanana]: ./img/catch-banana.jpg "Banana"
+[c0]: ./img/catch-0.jpg "Miss"
+
+[m500]: /wiki/Skinning/osu!mania/fs/mania-hit300g-0.png "Rainbow 300"
+[m300]: /wiki/Skinning/osu!mania/fs/mania-hit300.png "300"
+[m200]: /wiki/Skinning/osu!mania/fs/mania-hit200.png "200"
+[m100]: /wiki/Skinning/osu!mania/fs/mania-hit100.png "100"
+[m50]: /wiki/Skinning/osu!mania/fs/mania-hit50.png "50"
+[m0]: /wiki/Skinning/osu!mania/fs/mania-hit0.png "Miss"
+
+<!-- icons -->
+[rank]: /wiki/shared/Heart.gif "Ranked"
+[fire]: /wiki/shared/Fire.gif  "Approved"
+
 # Score
 
-A player's performance on a map is given in terms of score after successful completion of the map. Most of the time, combo plays the major part in the scoring system since it serves as a multiplier of the score. The only score limiter known now is [Mania](Mania "wikilink") which is capped at 1,000,000 score at 1.00x score boost. The other gamemodes are not capped, which can result in ridiculous level of score, due to the [combo multiplier effect](combo_multiplier_effect "wikilink").
+A player's performance on a map is given in terms of score after a successful completion of the map.
+Most of the time, combo plays a major part in the scoring system since it serves as a multiplier of the score.
 
-Because of the combo multiplier effect, if the player exceeds a combo of ~2,000, the player's score will begin to count backwards. This is a flaw with the 32-bit signed integer where—in computing—the max integer is 2,147,483,647. This issue is currently being *resolved* with [scoreV2](scoreV2 "wikilink") which is still being tested.
+## Scoring Values
 
-[osu!standard](Standard "wikilink") Scoring Values
---------------------------------------------------
+### osu!
 
-<table style="width:116%;">
-<colgroup>
-<col width="12%" />
-<col width="40%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit300.png" title="hit300.png" alt="hit300.png" height="50" />
-<p class="caption">hit300.png</p>
-</div></td>
-<td><p>300</p></td>
-<td><p>A possible score one can get when <a href="Glossary#Tap" title="wikilink">tapping</a> a <a href="hit_circle" title="wikilink">hit circle</a> precisely on time, completing a <a href="Slider" class="uri" title="wikilink">Slider</a> and keeping the cursor over every tick, or completing a <a href="Spinner" class="uri" title="wikilink">Spinner</a> with the <a href="Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a <a href="beatmap" class="uri" title="wikilink">beatmap</a> will award the player with the SS or SSH <a href="Glossary#grade" title="wikilink">grade</a>.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="hit300g.png" title="hit300g.png" alt="hit300g.png" height="50" />
-<p class="caption">hit300g.png</p>
-</div></td>
-<td><p>(激) Geki</p></td>
-<td><p>A term from <a href="Glossary#DS_games" title="wikilink">Ouendan</a>, called Elite Beat! in <a href="Glossary#EBA" title="wikilink">EBA</a>. Appears when playing the last element in a <a href="combo" class="uri" title="wikilink">combo</a> in which the player has scored only 300s. Getting a Geki will give a sizable boost to the <a href="Glossary#Life_Bar" title="wikilink">Life Bar</a>. By default, it is blue.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit100.png" title="hit100.png" alt="hit100.png" height="50" />
-<p class="caption">hit100.png</p>
-</div></td>
-<td><p>100</p></td>
-<td><p>A possible score one can get when <a href="Glossary#Tap" title="wikilink">tapping</a> a <a href="Hit_Object" title="wikilink">Hit Object</a> slightly late or early, completing a <a href="Slider" class="uri" title="wikilink">Slider</a> and missing a number of ticks, or completing a <a href="Spinner" class="uri" title="wikilink">Spinner</a> with the <a href="Glossary#Spinner_Metre" title="wikilink">Spinner Meter</a> almost full. A score of 100 appears in a green score by default. When very skilled players test a <a href="beatmap" class="uri" title="wikilink">beatmap</a> and they get a lot of 100s, this may mean that the beatmap does not have correct <a href="timing" class="uri" title="wikilink">timing</a>.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="Hit300k.png" title="fig:Hit300k.png" alt="Hit300k.png" height="50" /><img src="Hit100k.png" title="fig:Hit100k.png" alt="Hit100k.png" height="50" /></p></td>
-<td><p>(喝) Katu or Katsu</p></td>
-<td><p>A term from <a href="Glossary#DS_games" title="wikilink">Ouendan</a>, called Beat! in <a href="Glossary#EBA" title="wikilink">EBA</a>. Appears when playing the last element in a <a href="combo" class="uri" title="wikilink">combo</a> in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the <a href="Glossary#Life_Bar" title="wikilink">Life Bar</a>. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit50.png" title="hit50.png" alt="hit50.png" height="50" />
-<p class="caption">hit50.png</p>
-</div></td>
-<td><p>50</p></td>
-<td><p>A possible score one can get when <a href="Glossary#Tap" title="wikilink">tapping</a> a <a href="hit_circle" title="wikilink">hit circle</a> rather early or late but not early or late enough to cause a <a href="Glossary#Miss" title="wikilink">miss</a>, completing a <a href="Slider" class="uri" title="wikilink">Slider</a> and missing a lot of <a href="ticks" class="uri" title="wikilink">ticks</a>, or completing a <a href="Spinner" class="uri" title="wikilink">Spinner</a> with the <a href="Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> close to full. A score of 50 appears in a orange score by default. Scoring a 50 in a <a href="combo" class="uri" title="wikilink">combo</a> will prevent the appearance of a Katu or a Geki at the combo's end.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Hit0.png" title="Hit0.png" alt="Hit0.png" height="50" />
-<p class="caption">Hit0.png</p>
-</div></td>
-<td><p>Miss</p></td>
-<td><p>A possible score one can get when not <a href="Glossary#Tap" title="wikilink">tapping</a> a <a href="hit_circle" title="wikilink">hit circle</a> or too early (based on OD and AR, it may &quot;shake&quot; instead), not tapping or holding the <a href="Slider" class="uri" title="wikilink">Slider</a> at least once, or completing a <a href="Spinner" class="uri" title="wikilink">Spinner</a> with low <a href="Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> fill. Scoring a Miss will reset the current combo to 0 and will prevent the appearance of a Katu or a Geki at the combo's end.</p></td>
-</tr>
-</tbody>
-</table>
+Image | Name | Effect
+:---:|:---:|:---
+![300][o300] | 300 | A possible score one can get when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade.
+![Geki][o300g] | (激) Geki | A term from Ouendan, called Elite Beat! in EBA. Appears when playing the last element in a combo in which the player has scored only 300s. Getting a Geki will give a sizable boost to the Life Bar. By default, it is blue.
+![100][o100] | 100 | A possible score one can get when tapping a Hit Object slightly late or early, completing a Slider and missing a number of ticks, or completing a Spinner with the Spinner Meter almost full. A score of 100 appears in a green score by default. When very skilled players test a beatmap and they get a lot of 100s, this may mean that the beatmap does not have correct timing.
+![300 Katu][o300k] ![100 Katu][o100k] | (喝) Katu or Katsu | A term from Ouendan, called Beat! in EBA. Appears when playing the last element in a combo in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the Life Bar. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300.
+![50][o50] | 50 | A possible score one can get when tapping a hit circle rather early or late but not early or late enough to cause a miss, completing a Slider and missing a lot of ticks, or completing a Spinner with the Spinner Metre close to full. A score of 50 appears in a orange score by default. Scoring a 50 in a combo will prevent the appearance of a Katu or a Geki at the combo's end.
+![Miss][o0] | Miss | A possible score one can get when not tapping a hit circle or too early (based on OD and AR, it may _shake_ instead), not tapping or holding the Slider at least once, or completing a Spinner with low Spinner Metre fill. Scoring a Miss will reset the current combo to 0 and will prevent the appearance of a Katu or a Geki at the combo's end.
 
-[Taiko](Taiko "wikilink") Scoring Values
-----------------------------------------
+### osu!taiko
 
-<table style="width:116%;">
-<colgroup>
-<col width="12%" />
-<col width="40%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Taiko-hit300k.png" title="fig:Taiko-hit300k.png" alt="Taiko-hit300k.png" height="50" /> <img src="Taiko-hit300g.png" title="fig:Taiko-hit300g.png" alt="Taiko-hit300g.png" height="50" /> <img src="Taiko-hit300.png" title="fig:Taiko-hit300.png" alt="Taiko-hit300.png" height="50" /></p></td>
-<td><p>(良) Great</p></td>
-<td><p>A possible score one can get when hitting the note exactly on the hit area in correct colour.<br />
-Picture: [1] Large Note [2] Small Note</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="Taiko-hit100k.png" title="fig:Taiko-hit100k.png" alt="Taiko-hit100k.png" height="50" /> <img src="Taiko-hit100.png" title="fig:Taiko-hit100.png" alt="Taiko-hit100.png" height="50" /></p></td>
-<td><p>(可) Good</p></td>
-<td><p>A possible score one can get when hitting the note slightly early or late on the hit area in correct colour.<br />
-Picture: [1] Large Note [2] Small Note.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Taiko-hit0.png" title="Taiko-hit0.png" alt="Taiko-hit0.png" height="50" />
-<p class="caption">Taiko-hit0.png</p>
-</div></td>
-<td><p>(不可) Miss</p></td>
-<td><p>A possible score one can get for not hitting the note or hitting the note in wrong colour.</p></td>
-</tr>
-</tbody>
-</table>
+Image | Name | Effect
+:---:|:---:|:---
+![GREAT][t300k] ![GREAT][t300g] ![GREAT][t300] | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: [1] Large Note [2] Small Note
+![GOOD][t100k] ![GOOD][t100] | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: [1] Large Note [2] Small Note.
+![MISS/BAD][t0] | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour.
 
-[Catch the Beat](Catch_the_Beat "wikilink") Scoring Values
-----------------------------------------------------------
+### osu!catch
 
-<table style="width:80%;">
-<colgroup>
-<col width="8%" />
-<col width="12%" />
-<col width="60%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C 300.jpg" title="SC C 300.jpg" alt="SC C 300.jpg" />
-<p class="caption">SC C 300.jpg</p>
-</div></td>
-<td><p><strong>Fruit</strong></p></td>
-<td><p>A large fruit which is <strong>equivalent to normal Hit-circle or Slider's starting, repeating and ending point.</strong><br />
-Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="SC_C_100.jpg" title="SC_C_100.jpg" alt="SC_C_100.jpg" />
-<p class="caption">SC_C_100.jpg</p>
-</div></td>
-<td><p><strong>Slider Tick Droplets* (Slider Tick)</strong></p></td>
-<td><p>These <strong>large droplets signifies Slider's ticks, similar to the dots you see inside the sliders.</strong> It is compulsory to catch if you want to retain your combo. It is <strong>twice the the size of Droplet (Slider Trails).</strong><br />
-30pt for successful capture (shown as 100 on multiplayer and result).</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C 50.jpg" title="SC C 50.jpg" alt="SC C 50.jpg" />
-<p class="caption">SC C 50.jpg</p>
-</div></td>
-<td><p><strong>Droplets (Slider Trails)</strong></p></td>
-<td><p>These <strong>small droplets are slider trails. They form the trails of the slider</strong> and are <strong>smaller comparatively to Slider Tick Droplets*.</strong><br />
-10pt for each Droplets. If you not catching it, it'll decrease accuracy but doesn't break combo count (shown as 50 on multiplayer and result)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>(None)</p>
-</div></td>
-<td><p><strong>Miss Droplets</strong></p></td>
-<td><p><strong>Droplets (Slider Trails) you fail to catch.</strong> Will <strong>not be shown in Results screen</strong> but is <strong>shown in server-side.</strong><br />
-Does not break your combo but decrease accuracy and lose one of the 50's score. <strong>Not considered a miss.</strong>(Not shown at multiplayer and result but shown as &quot;Droplet Miss&quot; in website leaderboard)</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C Banana.jpg" title="SC C Banana.jpg" alt="SC C Banana.jpg" height="100" />
-<p class="caption">SC C Banana.jpg</p>
-</div></td>
-<td><p><strong>Bananas</strong></p></td>
-<td><p><strong>Spinner's equivalent.</strong> These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them.<br />
-1100pt given, however this one follows spinner clear in standard which combines 1000 as bonus and 100 as spinning score.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="SC C MISS.jpg" title="fig:SC C MISS.jpg" alt="SC C MISS.jpg" /><br />
-</p></td>
-<td><p><strong>Miss</strong></p></td>
-<td><p><strong>Normal Fruit and Slider Tick Droplets* you failed to catch.</strong> Breaks your combo count.<br />
-Given when failed to catch the Fruit/Slider Tick Droplet*. No score given and breaks combo. This can only be seen from the results screen.</p></td>
-</tr>
-</tbody>
-</table>
+![Fruit trails][Fruit trails image]
 
-&gt; \* : For a size comparison, Slider Tick Droplet\* is twice (i.e. x2) the size of a Droplet. Therefore, **Tick &gt; Trails** size. [Picture example](Media:SC_CtB_TT.jpg "wikilink")
+Image | Name | Effect
+:---:|:---:|:---
+![Fruit][c300] | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).
+![Juice Drop][c100] | Juice Drops* (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots you see inside the sliders. It is compulsory to catch if you want to retain your combo. It is twice the the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
+![Droplets][c50] | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops*.10pt for each Droplets. If you not catching it, it'll decrease accuracy but doesn't break combo count (shown as 50 on multiplayer and result)
+(None) | Miss Droplets | Droplets (Slider Trails) you fail to catch. Will not be shown in Results screen but is shown in server-side. Does not break your combo but decrease accuracy and lose one of the 50's score. Not considered a miss.(Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard)
+![Banana][cBanana] | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1100pt given, however this one follows spinner clear in standard which combines 1000 as bonus and 100 as spinning score.
+![Miss][c0] | Miss | Normal Fruit and Juice Drops* you failed to catch. Breaks your combo count. Given when failed to catch the Fruit/Juice Drops*. No score given and breaks combo. This can only be seen from the results screen.
 
-[osu!mania](o!m "wikilink") Scoring Values
-------------------------------------------
+### osu!mania
 
-<table style="width:84%;">
-<colgroup>
-<col width="12%" />
-<col width="8%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania500.png" title="Mania500.png" alt="Mania500.png" height="50" />
-<p class="caption">Mania500.png</p>
-</div></td>
-<td><p>Rainbow 300 (MAX)</p></td>
-<td><p>Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, you will get regular 300. If you manage to complete the beatmap with just this score, you will get 1 mil score (score limit). This is equivalent to &quot;Marvelous&quot; in DDR term.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania300.png" title="Mania300.png" alt="Mania300.png" height="50" />
-<p class="caption">Mania300.png</p>
-</div></td>
-<td><p>300</p></td>
-<td><p>Almost perfect hit of the note or hold. If you did not get MAX, you will most likely to get this because your timing is a bit off by a small amount. You can't hit the score limit when you get this mark.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania200.png" title="Mania200.png" alt="Mania200.png" height="50" />
-<p class="caption">Mania200.png</p>
-</div></td>
-<td><p>200</p></td>
-<td><p>Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania100.png" title="Mania100.png" alt="Mania100.png" height="50" />
-<p class="caption">Mania100.png</p>
-</div></td>
-<td><p>100</p></td>
-<td><p>Early or late hit or hold. It doesn't affect the HP bar at all.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania50.png" title="Mania50.png" alt="Mania50.png" height="50" />
-<p class="caption">Mania50.png</p>
-</div></td>
-<td><p>50</p></td>
-<td><p>Very early or very late hit or hold. If you did not release the hold, you will get this by default. This decreases HP, but not for a drastic amount. Does not break combo.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania0.png" title="Mania0.png" alt="Mania0.png" height="50" />
-<p class="caption">Mania0.png</p>
-</div></td>
-<td><p>Miss</p></td>
-<td><p>Not hitting the note or holding the note using the correct keys. This will drastically drain the HP and breaks the current combo.</p></td>
-</tr>
-<tr class="odd">
-</tr>
-</tbody>
-</table>
+Image | Name | Effect
+:---:|:---:|:---
+![Rainbow 300][m500] | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, you will get regular 300. If you manage to complete the beatmap with just this score, you will get 1 mil score (score limit). This is equivalent to _Marvelous_ in DDR term.
+![300][m300] | 300 | Almost perfect hit of the note or hold. If you did not get MAX, you will most likely to get this because your timing is a bit off by a small amount. You can't hit the score limit when you get this mark.
+![200][m200] | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.
+![100][m100] | 100 | Early or late hit or hold. It doesn't affect the HP bar at all.
+![50][m50] | 50 | Very early or very late hit or hold. If you did not release the hold, you will get this by default. This decreases HP, but not for a drastic amount. Does not break combo.
+![0][m0] | Miss | Not hitting the note or holding the note using the correct keys. This will drastically drain the HP and breaks the current combo.
 
 ## Scoring Formulae
 
 ### ScoreV2
 
-Introducing the new score modeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Before ScoreV2, each game modes has their own scoring system in place:
 
-1 million or bust (excluding game mod and bonus).
+- osu! and osu!catch use a strictly combo-based score multiplier,
+- osu!taiko roughly follows the _Taiko no Tatsujin_ scoring system with a small constant score affected with combo bonus, and
+- osu!mania is the only game mode with a score limiter, which is capped at 1,000,000 (1 million) score at 1.00x score modifier.
+
+While the issue only arise on _very long and combo-intensive_ beatmap, if the player managed to exceed a combo of ~2,000, the player's score will begin to count _backwards_.
+This is a known flaw with the 32-bit signed integer where (in computing) the max integer is **2,147,483,647**.
+
+This is where ScoreV2 comes in.
+
+ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 (1 million) score at 1.00x score modifier with extra score gains from spinner's bonus for osu!, drumrolls for osu!taiko, and bananas as usual for osu!catch.
+Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
 ### Score
 
 #### osu!
 
-| colspan=2|Score = Hit Value + Hit Value \* (Combo multiplier \* Difficulty multiplier \* Mod multiplier) / 25 |
-|---------------------------------------------------------------------------------------------------------------|
-| Hit Value                                                                                                     |
-| Combo multiplier                                                                                              |
-| Difficulty multiplier                                                                                         |
-| Mod multiplier                                                                                                |
+The score given by each hit circle and end of a slider is calculated with the following formula:-
+
+**Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))**
+
+Term | Meaning
+:---:|:---
+**Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
+**Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
+**Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
+**Mod multiplier**        | The multiplier of the selected mods
+
+Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
+
+Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
 ##### How to calculate the Difficulty multiplier
 
-[Circle Size](Song_Setup#Circle_Size "wikilink"), [HP Drain](Song_Setup#HP_Drain "wikilink") and [Overall Difficulty](Song_Setup#Overall_Difficulty "wikilink") are giving for each tick a "diffculty point"; e.g. the maximum a map can give is 27 difficulty points with CS7, OD10 and HP10; the minimum a map can give is 2 difficulty points with CS2, OD0 and HP0. CS cannot normally go below 2 or above 7.
+[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_
 
-These "difficulty points" affect the multiplier as so:
-\* 0-5: 2x multiplier
-\* 6-12: 3x multiplier
-\* 13-17: 4x multiplier
-\* 18-24: 5x multiplier
-\* 25-30: 6x multiplier
+The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
-Note that mods won't change the Difficulty multiplier. The original values are counting.
+Difficulty points range | Difficulty multiplier
+:---:|---
+0 - 5   | 2x multiplier
+6 - 12  | 3x multiplier
+13 - 17 | 4x multiplier
+18 - 24 | 5x multiplier
+25 - 30 | 6x multiplier
+
+The limited highest is 27 difficulty points with CS7, OD10 and HP10.
+The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
+
+CS cannot normally go below 2 or above 7 (requires direct modification to the `.osu` file).
+
+Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**.
+It will only account for original values only.
 
 #### osu!taiko
 
@@ -334,67 +196,125 @@ Exceptions:-
 - Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
 - Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
 
-#### Catch the Beat
+#### osu!catch
 
-| colspan=2|Score = Hit Value + Hit Value \* (Combo multiplier \* Difficulty multiplier \* Mod multiplier) / 25 |
-|---------------------------------------------------------------------------------------------------------------|
-| Hit Value                                                                                                     |
-| Combo multiplier                                                                                              |
-| Difficulty multiplier                                                                                         |
-| Mod multiplier                                                                                                |
+Scoring for osu!catch follows the same multiplier as in [osu!standard][osu! wikilink].
+However, the fruit that adds up the score is different from osu!standard.
 
-**NOTE:** Comparison between osu! Standard and Catch the Beat:
+- A regular sized fruit gives a score of 300 times the multiplier.
+- A large juice drop (slider tick) gives a score of 100.
+- The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
+- Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
 
--   No "300" is given to a finished spinner, nor combo is given;
--   Reverse tick counts as full score of a hit. (In osu! Standard, a reverse tick only gives 30 points)
+Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
+
+**Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]**
+
+Term | Meaning
+:---:|:---
+**Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
+**Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
+**Difficulty multiplier** | The difficulty setting for the beatmap
+**Mod multiplier**        | The multiplier of the selected mods
+
+**Note:** There is a difference between osu!standard and osu!catch's scoring methods:
+
+- 300s and a combo increment are not given to a finished spinner
+- reverse slider ticks are counted as a full score of a hit
+  - note that in osu!standard, a reverse tick only gives 30 points
 
 #### osu!mania
 
-In osu!mania mode, each beatmap has the **same maximum total score, currently 1,000,000.**
+In osu!mania, each beatmap has the same maximum total score of 1 million (1,000,000).
 
 The score is given in two parts, base score and bonus score, each contributing 50% of total score.
 
-Base score is based on hit judgement. A rainbow 300 is worth a bit more than 300.
+- Base score is based on hit judgement.
+  - A rainbow 300 is worth a bit more than 300.
+- Bonus score is based on hit judgement and a floating bonus multiplier.
+  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
+  - The better judgement, the more multiplier increase/less punishment.
+    - There's an upper limit for the multiplier.
 
-Bonus score is based on hit judgement and a floating bonus multiplier. The multiplier increases when you get a rainbow 300 or 300, while it decreases when you get a 200 or below. The better judgement you get, the more the multiplier increase, or the less punishment. There's an upper limit for the multiplier.
+The score given by each note is calculated with the following formula:-
 
-The score given by each note is calculated with the following formula:
+```
+Score = BaseScore + BonusScore
 
-    Score = BaseScore + BonusScore
+BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
 
-    BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
+Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
+Bonus is limited to [0, 100], initially 100.
 
-    BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-    Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
-    Bonus is limited to [0, 100], initially 100.
+MaxScore = 1 000 000
+ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
+ModDivider = The punishment divider of the selected mods (difficulty increase)
 
-    MaxScore = 1 000 000
-    ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-    ModDivider = The punishment divider of the selected mods (difficulty increase)
+Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
+   MAX       320          32            2
+   300       300          32            1
+   200       200          16                        8
+   100       100           8                       24
+    50        50           4                       44
+  Miss         0           0                        ∞
 
-    Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
-       MAX       320          32            2
-       300       300          32            1
-       200       200          16                        8
-       100       100           8                       24
-        50        50           4                       44
-      Miss         0           0                        ∞
+       Mod  ModMultiplier  ModDivider
+      Easy       0.5
+    NoFail       0.5
+  HalfTime       0.5
+  HardRock                    1.08
+DoubleTime                     1.1
+ NightCore                     1.1
+    FadeIn                    1.06
+    Hidden                    1.06
+Flashlight                    1.06
+```
 
 ## Other Scores
 
+Suppose a player played these four beatmaps online with a logged-in osu!account on a single game mode, osu!standard:-
+
+- ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/s/3302 "BRANDY - The Festival of Ghosts 2 by darrihuka")
+  - Relaxing : 3,000,000
+  - **DaRRi MIx : 5,000,000**
+- ![Ranked icon][rank] [ZZ - Samurai Blue](https://osu.ppy.sh/s/271 "ZZ - Samurai Blue by elzamxrai")
+  - Easy : 500,000
+  - **Normal : 1,000,000**
+  - Hard : No score
+- ![Ranked icon][rank] [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/s/1264 "Matchbox 20 - How Far We've Come by Sushi")
+  - **Normal : 2,000,000**
+  - Hard : 1,500,000
+    - First failed online play : 2,450,000
+    - Second failed online play : 50,000
+- ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her?](https://osu.ppy.sh/s/1785 "Nico Nico Douga - U.N. Owen Was Her? by Reikin")
+  - **Normal : 2,000,000**
+    - Offline play : 50,000,000
+
+The player's **total ranked score for osu!standard** would be: 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
+
+Meanwhile, the player's **total score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
+
 ### Ranked Score
 
-The ranked score is the **total sum of the best scores for all the ranked beatmap played online.**
+The ranked score is the **total sum of the best scores for all the ranked beatmapset played online.**
 
 ### Total Score
 
-The total score is the **total sum of all scores on ranked and/or approved beatmaps, including failed trials.** If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k. Then, the player plays again and gets 400k, only the total score increases by 400k.
+The total score is the **total sum of all scores on ranked and/or approved beatmaps, including failed trials.**
+
+If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k.
+Then, the player plays again and gets 400k, only the total score increases by 400k.
 
 #### Level
 
-The level of a player is based solely on the player's total score. The total score requirement for a given level is as follows:
+The level of a player is **based solely** on the **player's total score**.
 
-`5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100`
-`26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101`
+The total score requirement for a given level is as follows:
+
+```
+5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100
+26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101
+```
 
 The progress to the next level is displayed using a bar next to the player's level.
