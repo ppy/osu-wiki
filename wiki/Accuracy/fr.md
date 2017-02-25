@@ -1,9 +1,9 @@
 Précision
 ==========
 
-Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), La précision globale personnelle et la précision des [pp](/wiki/Performance_Points).
+Il y a 3 types de précision : La précision par [beatmap](/wiki/Beatmaps), la précision globale personnelle et la précision des [pp](/wiki/Performance_Points).
 
-En bref, la précision de la beatmap dépend du [Score](/wiki/Score) obtenu, la précision globale dépend de la précision de chaque soumission de meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influencent plus que les scores à faible précision), et la précision des pp dépend des soumissions des scores en ligne sur les beatmaps éligibles au gain de pp.
+En bref, la précision de la beatmap dépend du [Score](/wiki/Score) obtenu, la précision globale dépend de la précision de chaque meilleur score sur une beatmap (veuillez noter que la précision est pondérée d'une certaine manière afin que les scores à forte précision influencent plus que les scores à faible précision), et la précision des pp dépend des scores en ligne sur les beatmaps éligibles au gain de pp.
 
 osu!
 ---------------
@@ -21,7 +21,7 @@ Pour référence: 300 = 6/6, 100 = 2/6, 50 = 1/6, Raté = 0/6.
 osu!taiko
 -----------
 
-En mode [osu!taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est calculée en sommant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATE/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
+En mode [osu!taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est calculée en additionnant la précision de chaque note puis en la divisant par le nombre total de notes. Un EXCELLENT (良) vaut 100%, un BIEN (可) vaut 50% et un RATÉ/MAUVAIS (不可) vaut 0%. Les drumrolls et spinners n'influencent pas la précision.
 
 **Précision = Total des points des notes / (Nombre de notes * 300)**
 
@@ -32,7 +32,7 @@ En mode [osu!taiko](/wiki/Game_Modes/osu!taiko), la précision de la chanson est
 osu!catch
 ---------------------
 
-En mode [osu!catch](/wiki/Game_Modes/osu!catch), la précision de la chanson est calculée en sommant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
+En mode [osu!catch](/wiki/Game_Modes/osu!catch), la précision de la chanson est calculée en additionnant les objets collectés hormis les spinners puis divisé par le nombre total d'objets hors spinners.
 
 **Précision = Nombre de fruits attrapés / Nombre de fruits total**
 
@@ -75,7 +75,7 @@ Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi 
 [osu!Mania Ranking Panel (Agrandi)](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
 
-### Graphe de Performance
+### Graphique de Performance
 
 Votre performance au cours de votre partie y est affichée. Des informations additionnelles sont affichées au survol du graphe :
 
