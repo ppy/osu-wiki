@@ -7,7 +7,7 @@ Your word choice should explain such things in layman's terms (basically ask you
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
-A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure the most optimal experience for an osu!wiki reader
+A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure optimal experience for an osu!wiki reader
 
 ## GFM
 
@@ -96,6 +96,13 @@ For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
 
 Section headings must **never** have any styles applied to it.
 
+Section headings can have **small icons** in their section headings.
+For example:
+
+```
+#### ![osu! icon](/wiki/shared/Osu.gif) osu!
+```
+
 ## TOC
 
 The TOC (Table of Contents) will automatically be generated on the osu!wiki.
@@ -164,7 +171,7 @@ When using abbreviations, it is really important to note what the abbreviation m
 For example:
 
 ```
-The NC (Night Core) mod is similar to the DT (Double Time) mod.
+The NC (Nightcore) mod is similar to the DT (Double Time) mod.
 While NC and DT increases the speed of the music by 25%, NC will change the pitch of the music and adds a clap and finish to each beat.
 ```
 
@@ -422,6 +429,25 @@ If you have thumbnails and full sized images, it is suggested to use two folders
 Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
 
 All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
+
+### Flag icons
+
+Flag icons are located inside this folder: `/wiki/shared/flag/`.
+Most of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension.
+A few expections are the multi-flag icons that are in the `.png` format.
+
+For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
+
+When adding a flag inline, use this format:
+
+```
+![full-country-name](/wiki/shared/flag/xx.gif)
+```
+
+- `full-country-name` is the full country name
+- `xx.gif` is the two letter code for the flag
+
+To see if a flag exists, see the `/wiki/shared/flag/` folder.
 
 ## Tables
 
