@@ -15,7 +15,7 @@ When a thread is or is said to be "wastelanded", it is moved there.
 
 AFK is an internet acronym that means _Away From Keyboard_.
 An example of this is when an active user walks off to do something else while they're still logged on.
-osu! will mark users as "Idle" if they have been inactive for some time.
+_osu!_ will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -33,7 +33,7 @@ Authentic denotes a beatmap that emulates in every aspect of a specific stage fr
 
 Bancho is the easily expandable server coded by peppy.
 Bancho replaces the need for a third-party IRC server in the management of all online content in osu!.
-Logging with an osu! account ingame will automatically attempt to connect to Bancho until done successfully.
+Logging with an osu!account ingame will automatically attempt to connect to Bancho until done successfully.
 
 ### BAT
 
@@ -72,7 +72,7 @@ Note that the higher the value would allow a more difficult beatmap.
 
 ### Beatmap
 
-A beatmap (also known as a _level_ or a _map_) is where the majority of osu! lies.
+A beatmap (also known as a _level_ or a _map_) is where the majority of _osu!_ lies.
 These could be related to those in the stages in the DS games.
 In their most basic form, beatmaps have a song and hit objects placed based on the rhythm of the music.
 
@@ -284,7 +284,7 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie is another word for the osu! logo.
+The cookie is another word for the _osu!_ logo.
 This has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and previously in old crash reports (seen [here](img/Pippi_corruption.jpg)).
 
@@ -303,7 +303,7 @@ This should **never** be used to overmap a beatmap!
 The difficulty stars is the visual representation of a beatmap's difficulty.
 This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
-osu! currently uses two different algorithms to calculate difficulty stars:
+_osu!_ currently uses two different algorithms to calculate difficulty stars:
 
 - peppy's algorithm
   - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
@@ -321,14 +321,32 @@ This would allow both novices and experienced players to be able to enjoy playin
 
 Some factors that can affect a version's difficulty are the number of object in the beatmap, whether a main or background (harder to hear) rhythm is followed for object placement, the length of combos, the beat spacing value, the drain rate, the accuracy limit the game requires to register a hit, the size of hit circle, etc.
 Difficulty stars are one way to gauge a version's difficulty level.
-The osu!website sorts difficulty versions into 5 categories:
+The osu!website sorts difficulty versions into 5 categories for each game mode:
 
-- [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!/Easy/)
-- [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!/Normal/)
-- [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!/Hard/)
-- [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!/Insane/)
-- [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!/Expert/)
-<!-- TODO add other diff from other game modes? -->
+- [osu!standard](/wiki/Game_Modes/osu!/)
+  - [![Easy icon](/wiki/shared/Easy-s.png) Easy](/wiki/Difficulties/osu!/Easy/)
+  - [![Normal icon](/wiki/shared/Normal-s.png) Normal](/wiki/Difficulties/osu!/Normal/)
+  - [![Hard icon](/wiki/shared/Hard-s.png) Hard](/wiki/Difficulties/osu!/Hard/)
+  - [![Insane icon](/wiki/shared/Insane-s.png) Insane](/wiki/Difficulties/osu!/Insane/)
+  - [![Expert icon](/wiki/shared/Expert-s.png) Expert](/wiki/Difficulties/osu!/Expert/)
+- [osu!taiko](/wiki/Game_Modes/osu!taiko/)
+  - [![Kantan icon](/wiki/shared/Easy-t.png) Kantan](/wiki/Difficulties/osu!taiko/Kantan/)
+  - [![Futsuu icon](/wiki/shared/Normal-t.png) Futsuu](/wiki/Difficulties/osu!taiko/Futsuu/)
+  - [![Muzukashii icon](/wiki/shared/Hard-t.png) Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii/)
+  - [![Oni icon](/wiki/shared/Insane-t.png) Oni](/wiki/Difficulties/osu!taiko/Oni/)
+  - [![Ura icon](/wiki/shared/Expert-t.png) Ura](/wiki/Difficulties/osu!taiko/Ura/)
+- [osu!catch](/wiki/Game_Modes/osu!catch/)
+  - [![Cup icon](/wiki/shared/Easy-t.png) Cup](/wiki/Difficulties/osu!taiko/Cup/)
+  - [![Salad icon](/wiki/shared/Normal-t.png) Salad](/wiki/Difficulties/osu!taiko/Salad/)
+  - [![Platter icon](/wiki/shared/Hard-t.png) Platter](/wiki/Difficulties/osu!taiko/Platter/)
+  - [![Rain icon](/wiki/shared/Insane-t.png) Rain](/wiki/Difficulties/osu!taiko/Rain/)
+  - [![Overdose icon](/wiki/shared/Expert-t.png) Overdose](/wiki/Difficulties/osu!taiko/Overdose/)
+- [osu!mania](/wiki/Game_Modes/osu!mania/)
+  - [![Basic icon](/wiki/shared/Easy-t.png) Basic](/wiki/Difficulties/osu!taiko/Basic/)
+  - [![Standard icon](/wiki/shared/Normal-t.png) Standard](/wiki/Difficulties/osu!taiko/Standard/)
+  - [![Hyper icon](/wiki/shared/Hard-t.png) Hyper](/wiki/Difficulties/osu!taiko/Hyper/)
+  - [![Another icon](/wiki/shared/Insane-t.png) Another](/wiki/Difficulties/osu!taiko/Another/)
+  - [![Maximum icon](/wiki/shared/Expert-t.png) Maximum](/wiki/Difficulties/osu!taiko/Maximum/)
 
 ### Drain Time
 
@@ -360,7 +378,7 @@ This term is usually seen during the modding process.
 
 ### DS Games
 
-DS games is a collective term for [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (also called "Ouendan" or "Ouendan 1"), [Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2) (almost always called "Ouendan 2") and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (also called "EBA").
+DS games is a collective term for _[Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)_ (also called "Ouendan" or "Ouendan 1"), _[Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan! 2](https://en.wikipedia.org/wiki/Moero!_Nekketsu_Rhythm_Damashii_Osu!_Tatakae!_Ouendan!_2)_ (almost always called "Ouendan 2") and _[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)_ (also called "EBA").
 
 A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
 
@@ -372,7 +390,7 @@ The osu!standard game mode was is mostly based off of those games.
 
 EBA has two meanings:
 
-- Elite Beat Agents, one of the DS games which osu! is based on
+- Elite Beat Agents, one of the DS games which _osu!_ is based on
 - the collective term for the playable characters in that game (referring to meaning above), i.e. "The EBA" or "The Agents"
 
 ### Extended Chat
@@ -434,8 +452,8 @@ On the other hand, it may be the creator who wants a few guest difficulties:
 Guest difficulties are often requested by private messages in-game or via forum private messages.
 Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
 
-More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four gamemodes.
-If an additional gamemode is to be featured in a mapset, that gamemode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria/).
+More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four game modes.
+If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria/).
 Each guest beatmapper is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
 
 ### Grade
@@ -472,7 +490,7 @@ This will allow you to update the beatmap through the BSS.
 
 ### Hit Sound
 
-Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game.
+Hit sounds are the sounds that _osu!_ plays in response to user input when completing one of the hit objects in the game.
 This is in contrast to the underlying music and sounds created by the user interface.
 
 Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing.
@@ -486,7 +504,7 @@ There are 4 types of hit sounds:
 - finish
 
 These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music.
-osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve).
+_osu!_ provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve).
 Though, mappers can go further add up to 24 more.
 Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
@@ -670,7 +688,7 @@ The offset is the first half of beatmap timing, where the other half is the BPM.
 
 ### osu!
 
-osu! has three meanings:
+_osu!_ has three meanings:
 
 - The rhythm video game for the Microsoft Windows Operating Systems.
   Spelled with a lowercase "o" and an exclamation mark at the end.
@@ -718,7 +736,7 @@ For details about the osu!dev, see [The Team](/wiki/People/The_Team/).
 
 ### osupixel
 
-An osupixel is the representation of one screen pixel when osu! is running in 640x480 resolution.
+An osupixel is the representation of one screen pixel when _osu!_ is running in 640x480 resolution.
 osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
 
 In contrast, textures are scaled such that one texture pixel ([texel](https://en.wikipedia.org/wiki/Texel_%28graphics%29)) corresponds to one screen pixel at 1024x768 resolution.
@@ -728,7 +746,7 @@ In contrast, textures are scaled such that one texture pixel ([texel](https://en
 Ouendan has three meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team on using drums, horns, banners and yells of encouragement.
-- The pair of Japanese DS games that osu! was based on.
+- The pair of Japanese DS games that _osu!_ was based on.
   This term may sometimes be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, i.e. "The Ouendan".
 
@@ -761,7 +779,7 @@ Pass has three meanings:
 ### peppy
 
 peppy, written with a lowercase `p`, is the online alias of Dean Herbert.
-He is the creator of the osu! project and its primary developer.
+He is the creator of the _osu!_ project and its primary developer.
 
 ### Play Time
 
@@ -799,7 +817,7 @@ Rank has three meanings:
 Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria.
 This can also refer to one's position in such a list.
 
-osu! currently has three rankings:
+_osu!_ currently has three rankings:
 
 - Player rankings: the ranking most commonly referred to, this list sorts players depending on their ranked score.
   Ranked score is the sum of the highest scores that a player has achieved in every ranked beatmap they had played.
@@ -836,7 +854,7 @@ For more info, see [What is "restricted" mode, exactly?](http://osu.enchanthq.co
 ### RSI
 
 RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body.
-This can be caused by doing repetitive tasks in an awkward position which may include playing osu! for an extended amount of time.
+This can be caused by doing repetitive tasks in an awkward position which may include playing _osu!_ for an extended amount of time.
 
 ## S
 
@@ -882,7 +900,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!.
 This will allow for a more customised user experience.
-Most of what you see and hear in osu! can be skinned.
+Most of what you see and hear in _osu!_ can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
 
@@ -1026,7 +1044,7 @@ The image of the screen does not appear on the tablet, thus making it different 
 ### Tap
 
 In osu!standard, tapping is a term that means "to press a button while the cursor is over a hit object".
-Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay.
+Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of _osu!_ gameplay.
 There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
@@ -1043,7 +1061,7 @@ However, you are required to save the beatmap before continuing to test mode; cr
 ### Time Signature
 
 The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat.
-osu! offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
+_osu!_ offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
 
 ### Timing
 
@@ -1054,7 +1072,7 @@ When the tempo changes, you are required to add a new timing section to accompan
 
 The timing process creates the timeline on which objects will be placed.
 
-One of many reasons as to why your timing of a beatmap is important is because osu! takes the given BPM and offset to determine where the hit objects should go.
+One of many reasons as to why your timing of a beatmap is important is because _osu!_ takes the given BPM and offset to determine where the hit objects should go.
 If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
 
 ### Timing Section
@@ -1066,13 +1084,13 @@ When the tempo changes, you are required to add a new timing section to accompan
 
 The timing process creates the timeline on which objects will be placed.
 
-One of many reasons as to why your timing of a beatmap is important because osu! takes the given BPM and offset to determine where the hit objects should go.
+One of many reasons as to why your timing of a beatmap is important because _osu!_ takes the given BPM and offset to determine where the hit objects should go.
 If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
 
 ### Touchscreen
 
-A touchscreen is one of the input mediums used by the DS games that osu! is based on.
-osu! supports touchscreen functionality, but the hardware required is generally expensive for the average player.
+A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on.
+_osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player.
 A computer whose entire screen functions as a touchscreen is called a Tablet PC.
 This is different than a tablet because a touchscreen has some kind of display while tablets do not.
 
@@ -1092,7 +1110,7 @@ The universal offset is the time delay between:
 - the object graphics and sample set sounds associated with them and
 - the point of the song where they should be heard.
 
-The universal offset applies to all songs used in osu! and its value differs according to each system's specifications.
+The universal offset applies to all songs used in _osu!_ and its value differs according to each system's specifications.
 After being determined, it does not need to be modified again.
 An incorrectly universal offset will cause timing problems in every beatmap played or edited.
 If everything sounds off to you while playing a few ranked beatmaps, try checking your universal offset.
