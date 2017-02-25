@@ -406,7 +406,7 @@ For more information about the Extended Chat Console, see [Chat Console](/wiki/C
 
 Fail has three meanings:
 
-- the incompletion of a beatmap due
+- the incompletion of a beatmap due to:
   - not filling the healthbar up to 80% when completing a beatmap (osu!taiko)
   - empty healthbar (osu!standard, osu!catch, and osu!mania)
 - in multiplayer, an indicator underneath the player's name to show they have failed the beatmap
@@ -516,7 +516,7 @@ The ignore list is a blacklist of words (or users) that the player does not want
 
 ### IRC
 
-IRC is an abbreviation for Internet Relay Chat.
+IRC is an abbreviation for _Internet Relay Chat_.
 
 For more information about IRC, see [Internet Relay Chat](/wiki/Internet_Relay_Chat/).
 
@@ -618,6 +618,8 @@ You can change your local song offset by pressing:
 - `Alt` + `+` to increase the offset by 1 milliseconds
 - `Alt` + `-` to decrease the offset by 1 milliseconds
 
+If you play a beatmap that has a local song offset, _osu!_ will tell you that there the previous offset will be used.
+
 ## M
 
 ### M4M
@@ -685,6 +687,12 @@ The offset is a period of time between the beginning of a beatmap's song file an
 This is measured in milliseconds (ms).
 
 The offset is the first half of beatmap timing, where the other half is the BPM.
+
+### Online Song Offset
+
+The online song offset is an offset that is **already** applied to a beatmap after it was ranked.
+
+Asjusting your local song offset will only add more to this value.
 
 ### osu!
 
