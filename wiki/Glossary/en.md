@@ -692,7 +692,7 @@ The offset is the first half of beatmap timing, where the other half is the BPM.
 
 The online song offset is an offset that is **already** applied to a beatmap after it was ranked.
 
-Asjusting your local song offset will only add more to this value.
+Adjusting your local song offset will only add more to this value.
 
 ### osu!
 
