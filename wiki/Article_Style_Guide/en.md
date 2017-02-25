@@ -314,8 +314,8 @@ External links must follow these rules:
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
-When linking to the osu!website, e.g. user profiles or beatmaps, use `new.ppy.sh` not `osu.ppy.sh`.
-<!-- `new.ppy.sh` is just a temporary subdomain for the new design. -->
+When linking to the osu!website, e.g. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
+`new.ppy.sh` is just a temporary subdomain for the new design. 
 
 **Never** use protocol relative links (e.g. `//example.com`)!
 
