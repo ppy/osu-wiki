@@ -1,3 +1,6 @@
+Global Moderation Team
+=========================
+
 **Global Moderation Team** (formerly known as the Administrators, Global Mod Team or “GreenBAT”), commonly referred to as **GMT**, are members of the osu!Staff whom are focused primarily on player moderation and issues pertinent to the staff and the community at large.
 
 Becoming a GMT

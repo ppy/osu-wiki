@@ -1,4 +1,7 @@
-L**'équipe de modération globale** (*Global Moderation Team* ou *GMT* en anglais), dont les membres sont aussi connus sous le nom de **global mods** ou simplement **modos**, sont des membres du staff d'osu! dont l'objectif premier est d'encadrer la communauté sur le chat et le forum à l'aide du [règlement](FR:Rules). Tous les GM maîtrisent les bases (voire plus) en [beatmapping](FR:Beatmapping).
+Équipe de modération globale
+==============================
+
+L**'équipe de modération globale** (*Global Moderation Team* ou *GMT* en anglais), dont les membres sont aussi connus sous le nom de **global mods** ou simplement **modos**, sont des membres du staff d'osu! dont l'objectif premier est d'encadrer la communauté sur le chat et le forum à l'aide du [règlement](/wiki/Rules). Tous les GM maîtrisent les bases (voire plus) en [beatmapping](/wiki/Beatmapping).
 
 **Note :** La GMT a fusionné avec le groupe des *Chat Moderators* le 20 Août 2015.
 
@@ -15,7 +18,7 @@ Rôle et responsabilités
 
 L'équipe de modération globale est responsable du maintien de la bonne ambiance sur le chat et le forum et sont prêts à donner des sanctions en cas d'infraction du règlement. Ils sont disponibles à tout joueur ayant des questions pertinentes concernant le jeu et son fonctionnement général ou diverses infractions.
 
-Malgré leur travail de modération important, ils peuvent, tout comme les [QAT](FR:QAT) et les [BN](FR:BN), aider à l'amélioration des beatmaps de la communauté.
+Malgré leur travail de modération important, ils peuvent, tout comme les [QAT](/wiki/People/Quality_Assurance_Team) et les [BN](/wiki/People/Beatmap_Nomination_Group), aider à l'amélioration des beatmaps de la communauté.
 
 Liste des GM
 ------------

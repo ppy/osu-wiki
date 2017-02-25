@@ -1,3 +1,6 @@
+Moderatorzy globalni
+=====================
+
 **Globalni Moderatorzy** (znani też jako Administratorzy, Global Mod Team lub “GreenBAT”), najczęściej nazywani **GMT**, są członkami załogi osu!. Ich zadaniem jest moderowanie czatów do których są przydzieleni.
 
 Struktura

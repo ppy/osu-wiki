@@ -1,4 +1,7 @@
-**Global Moderation Team** (conhecidos como Administradores, Global Mod Team, “GreenBAT” / "BAT verde" ou GMT), também chamados de **GMT**, são membros da osu!Staff focados principalmente na moderação, problemas relacionados à staff e em toda a comunidade em si. Mesmo que todo o GMT tenha um conhecimento sobre [modding](PT:Modding) e [mapping](PT:Mapping), nem todos se envolvem nisso, e por conta disso, devem ser chamados para tais deveres apenas como último recurso.
+Global Moderation Team - Portuguese
+======================================
+
+**Global Moderation Team** (conhecidos como Administradores, Global Mod Team, “GreenBAT” / "BAT verde" ou GMT), também chamados de **GMT**, são membros da osu!Staff focados principalmente na moderação, problemas relacionados à staff e em toda a comunidade em si. Mesmo que todo o GMT tenha um conhecimento sobre [modding](/wiki/Modding) e [mapping](/wiki/Beatmapping), nem todos se envolvem nisso, e por conta disso, devem ser chamados para tais deveres apenas como último recurso.
 
 Estrutura
 ---------

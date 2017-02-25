@@ -1,3 +1,6 @@
+글로벌 모더레이터
+==================
+
 **글로벌 모더레이터(Global Moderation Team)** 는 주로 **GMT** 라고 불리는데 *(이전에는 관리자(Administrators), Global Mod Team 혹은 «GreenBAT»으로 불림)*, 이들은 주로 플레이어에 대한 중재, 관리단과 커뮤니티에 관련된 사안에 중점을 두고 활동하는 osu!Staff에 속한 구성원입니다.
 
 GMT가 되는 방법

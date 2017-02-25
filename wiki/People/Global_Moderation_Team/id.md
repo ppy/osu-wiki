@@ -1,4 +1,7 @@
-**Tim Global Moderasi** (sebelumnya dikenal sebagai Administrator,Tim Global Mod atau “GreenBAT”), sering disebut sebagai GMT adalah anggota dari osu!staf yang berfokus terutama pada pemain moderasi dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya. Sementara semua GMT memiliki beberapa dasar dalam Beatmap [Modding](ID:Modding) dan [Mapping](ID:Mapping), Beberapa tetap aktif terlibat dalam proses
+Tim Global Moderasi
+=====================
+
+**Tim Global Moderasi** (sebelumnya dikenal sebagai Administrator,Tim Global Mod atau “GreenBAT”), sering disebut sebagai GMT adalah anggota dari osu!staf yang berfokus terutama pada pemain moderasi dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya. Sementara semua GMT memiliki beberapa dasar dalam Beatmap [Modding](/wiki/Modding) dan [Mapping](/wiki/Beatmapping), Beberapa tetap aktif terlibat dalam proses
 
 Struktur
 --------
