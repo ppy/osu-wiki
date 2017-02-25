@@ -101,13 +101,11 @@ For example use:
 - `skilful` instead of `skillful`
 - `analyse` instead of `analyze`
 
-### Capitalisation
-
-#### osu!
+### osu!
 
 The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
 Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
-If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
+If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. osu! Tournaments).
 
 If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
 Other examples may include:
@@ -115,6 +113,12 @@ Other examples may include:
 - `osu!wiki`
 - `osu!alumni`
 - `osu!direct`
+
+When refering to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
+
+- *e.g.* `osu!standard` or `osu!direct`.
+
+### Capitalisation
 
 #### Language Names
 
@@ -137,14 +141,16 @@ The private chat channel names will use the letter casing as they appear.
 
 #### Abbreviations
 
-Abbreviations of osu! terms must be capitalised (i.e. `CS` for `Circle Size`).
+Abbreviations of osu! terms must be capitalised (e.g. `CS` for `Circle Size`).
+
+When shortening the word: "for example"; use `e.g.` instead of `e.x.` or `i.e.`.
 
 #### Game Modes
 
 Writting the name of the game modes, they are to be written as follows:
 
 - `osu!`
-  - `osu!standard` (unofficial, but to prevent ambiguity)
+  - `osu!standard` (unofficial, but used to prevent ambiguity)
     - for folder names, it is required to use `osu!`, not `osu!standard`
 - `osu!taiko`
 - `osu!catch`
@@ -195,36 +201,45 @@ Instead, use **bold**, _italics_, or **_both_**.
 
 For example, instead of `Do NOT contact peppy for ingame issues!` use `Do **not** contact peppy for ingame issues!`
 
+### Italics
+
+Any instances of the name of a videogame should also be in italics.
+For example:
+
+- _Elite Beat Agents_.
+
+Know that the overuse of emphasis will reduce its effectiveness.
+
 ## Code
 
 Use code (inline) when noting:
 
 - a key on the keyboard
-  - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
+  - e.g. `B`, `Alt` or `Ctrl` + `Shift` + `A`
   - When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 - a name of a button
-  - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
+  - e.g. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
 - a name of a folder
-  - i.e. `Exports` or `Downloads`
+  - e.g. `Exports` or `Downloads`
 - a name of a directory
-  - i.e. `/Songs/` or `/Skins/User/`
+  - e.g. `/Songs/` or `/Skins/User/`
 - a name of a keyword
-  - i.e. `ComboBurstStyle` or `[Events]`
+  - e.g. `ComboBurstStyle` or `[Events]`
 - the name of a file extension
-  - i.e. `.jpg` or `.osz`
+  - e.g. `.jpg` or `.osz`
   - When naming a file extension, add a period (`.`) then the file extension in lower case letters.
 - the name of a chat channel
-  - i.e. `#lobby`, `#osu`
+  - e.g. `#lobby` or `#osu`
 
 ## Links
 
 Article links must follow these rules:
 
 1. must use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
-  - i.e. `[Welcome](/wiki/Welcome/)`
-  - i.e. (from `Game_Modes` page) `[osu!mania](./osu!mania)`
-2. must be spelt correctly (links are case sensitive!!)
-3. must not specify the specific file name **regardless of language** (osu!wiki will handle this)
+  - e.g. `[Welcome](/wiki/Welcome/)`
+  - e.g. (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
+2. **must be spelt correctly** (links are case sensitive!!)
+3. must **not** specify the specific file name **regardless of language** (osu!wiki will handle this)
   - do: `[Glossary](/wiki/Glossary/)`
   - don't: `[Glossary](/wiki/Glossary/fr.md)`
 4. must not link to section headings (section headings on osu!wiki does not work)
@@ -246,7 +261,7 @@ Instead, take the page's title (from the top of page, or from the `<title>` tag)
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
-When linking to the osu!website, i.e. user profiles or beatmaps, use `new.ppy.sh` not `osu.ppy.sh`.
+When linking to the osu!website, e.g. user profiles or beatmaps, use `new.ppy.sh` not `osu.ppy.sh`.
 <!-- `new.ppy.sh` is just a temporary subdomain for the new design. -->
 
 ### Linking Types
@@ -341,8 +356,8 @@ Names of images must be somewhat meaningful, please don't use the timestamp or l
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 Images that are used for one article are to be placed inside their folders for linking.
 
-It is suggusted to add a subfolder for the images, i.e. `img/` for all images.
-If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; i.e. `pr/` for preview and `fs/` for full size.
+It is suggusted to add a subfolder for the images, e.g. `img/` for all images.
+If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; e.g. `pr/` for preview and `fs/` for full size.
 
 Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
 
@@ -350,7 +365,7 @@ All images don't necessarily need to have an alternative text (text that display
 
 ### Clickable images
 
-If when you need an image to be clickable, i.e. click on thumbnail to view a full sized version, you can use this syntax:
+If when you need an image to be clickable, e.g. click on thumbnail to view a full sized version, you can use this syntax:
 
 ```md
 [![Alt](thumnbail/link.jpg)](full/link.png "hover")
@@ -365,7 +380,7 @@ If when you need an image to be clickable, i.e. click on thumbnail to view a ful
 
 Tables use the GFM syntax.
 
-If you cannot create a table because _something_ won't work without HTML (i.e. lists inside tables), then you are overthinking both the table and the content.
+If you cannot create a table because _something_ won't work without HTML (e.g. lists inside tables), then you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simplier fix for it.
 
 **Never** place images inside tables.
@@ -376,8 +391,6 @@ Another thing to note, a slight change in a beautified table will require you to
 
 ## Miscellaneous
 
-- Do not use an inline image link for osu!supporter
-  - use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`
 - These words are spelt as follows (note the space):
   - `hit circles`
   - `approach circles`
@@ -389,5 +402,7 @@ Another thing to note, a slight change in a beautified table will require you to
   - `game mod` (or just `mod`)
   - `play style`
   - `hit sound`
+- Do not use an inline image link for osu!supporter
+  - use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
 - The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
