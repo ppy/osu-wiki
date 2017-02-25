@@ -8,8 +8,8 @@
 [Perfect wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Perfect"
 [osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format)/ ".osr file format"
 [Chat Console wikilink]: /wiki/Chat_Console/ "Chat Console"
-[Extended Chat Console wikilink]: /wiki/Chat_Console/ "more info can be found on Chat Console under Extended Chat Console"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard section"
+[Extended Chat Console wikilink]: /wiki/Chat_Console/#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
+[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard section"
 
 <!-- image -->
 [Replay Auto]: ./Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
@@ -101,7 +101,10 @@ The replay will not pause and continue at the background while in this screen.
 
 ### Playback Speed
 
-Click to adjust the `1x`/`2x`/`0.5x` playback speed of the replay to `2x`/`0.5x`/`1x` playback speed.
+Adjust the playback speed of the replay.
+
+The playback speed rotates between `1x`, `2x`, `0.5x`, or rotate back to `1x` playback speed per click.
+Starting playback speed is always `1x`.
 
 Shortcut key is the `F` key.
 
