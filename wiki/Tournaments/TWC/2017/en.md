@@ -77,6 +77,7 @@ _**List of countries is not complete yet!**_
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
 | ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)** |
 | ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Nishizumi](https://new.ppy.sh/u/2496768)** |
+| ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)** |
 | ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
 | ![](/wiki/shared/flag/Kr.gif) | **South Korea** | **[Runa](https://new.ppy.sh/u/4643294)** |
 | ![](/wiki/shared/flag/Es.gif) | **Spain** | **[Raiden](https://new.ppy.sh/u/2239480)** |
