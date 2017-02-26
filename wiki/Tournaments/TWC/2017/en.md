@@ -48,8 +48,6 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ## Participants
 
-_**List of countries is not complete yet!**_
-
 ### Confirmed Rosters
 
 | | Country | Member |
