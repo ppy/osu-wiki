@@ -36,7 +36,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](https://new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](https://new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://new.ppy.sh/u/776257) |
 | Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](https://new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](https://new.ppy.sh/u/398275) |
-| Commentators | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Ar.gif) juankristal](https://new.ppy.sh/u/443656), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
+| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/u/3716999), [![](/wiki/shared/flag/Fr.gif) Arrival](https://osu.ppy.sh/u/1694000), [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Au.gif) Jaye](https://osu.ppy.sh/u/4841352), [![](/wiki/shared/flag/Hk.gif) magnomizer](https://osu.ppy.sh/u/1893718), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/De.gif) Zetera](https://osu.ppy.sh/u/587737), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
 | Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://new.ppy.sh/u/1910766) |
 
 ## Links
@@ -54,34 +54,35 @@ _**List of countries is not complete yet!**_
 
 | | Country | Member |
 | ---: | :---: | :--- |
+| ![](/wiki/shared/flag/Au.gif) | **Australia** | **[Jaye](https://new.ppy.sh/u/4841352)**, [RollingDango](https://new.ppy.sh/u/7728466), [Ceryuia](https://new.ppy.sh/u/5253213), [andrew000000](https://new.ppy.sh/u/122174), [Aloda](https://new.ppy.sh/u/1190127), [SpiritsUnite](https://new.ppy.sh/u/1198002) |
+| ![](/wiki/shared/flag/Ar.gif) | **Argentina** | **[Pollotuc](https://new.ppy.sh/u/42440)**, [Midnaait](https://new.ppy.sh/u/1506011), [Arnon](https://new.ppy.sh/u/5332868), [gaston_2199](https://new.ppy.sh/u/5938161), [Laut1G](https://new.ppy.sh/u/7286821), [Axer](https://new.ppy.sh/u/7299864) |
 | ![](/wiki/shared/flag/Cn.gif) | **China** | **[Nikubenki Saya](https://new.ppy.sh/u/2250591)**, [[sACRIFICe]](https://new.ppy.sh/u/6294200), [unsigned_int](https://new.ppy.sh/u/5835635), [Suikaaaa](https://new.ppy.sh/u/3014603) [JEFF_Y](https://new.ppy.sh/u/2534853) |
-| ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[Sylarn](https://new.ppy.sh/u/4266840)**, [duski](https://new.ppy.sh/u/6506484), [Maffe](https://new.ppy.sh/u/4773855), [Reikocchi](https://new.ppy.sh/u/1110109), [loe4boe](https://new.ppy.sh/u/831807), [LefafeI](https://new.ppy.sh/u/2295850) |
-| ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [Elementaires](https://new.ppy.sh/u/2284328), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
+| ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[duski](https://new.ppy.sh/u/6506484)**, [Sylarn](https://new.ppy.sh/u/4266840), [Maffe](https://new.ppy.sh/u/4773855), [Reikocchi](https://new.ppy.sh/u/1110109), [loe4boe](https://new.ppy.sh/u/831807), [LefafeI](https://new.ppy.sh/u/2295850) |
+| ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [-Valony-](https://new.ppy.sh/u/6487540), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
 | ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[Jerry](https://new.ppy.sh/u/605973)**, [taiko_maniac1811](https://new.ppy.sh/u/595764), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
 | ![](/wiki/shared/flag/Ru.gif) | **Russian Federation** | **[Wolfjkeee](https://new.ppy.sh/u/1282662)**, [greenyoyo](https://new.ppy.sh/u/1581472), [Alt](https://new.ppy.sh/u/736496), [DayzeekFeed](https://new.ppy.sh/u/5009970), [Youth](https://new.ppy.sh/u/4993235), [Naninub](https://new.ppy.sh/u/8188876) |
 | ![](/wiki/shared/flag/Se.gif) | **Sweden** | **[Raphalge](https://new.ppy.sh/u/3918650)**, [Eiuh](https://new.ppy.sh/u/4653213), [Tanaka](https://new.ppy.sh/u/1897905), [Karl-Johan](https://new.ppy.sh/u/6686840)
 | ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
-| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [`[_Chichinya_]`](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [`[_LordEnder_]`](https://new.ppy.sh/u/4609767), [-YuriPrincess](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
+| ![](/wiki/shared/flag/Us.gif) | **United States** | **[n1doking](https://new.ppy.sh/u/5991961)**, [Shyguy](https://new.ppy.sh/u/178038), [Das](https://new.ppy.sh/u/3165416), [Protonori](https://new.ppy.sh/u/6049990), [JDrago14](https://new.ppy.sh/u/7690078), [Catgirl](https://new.ppy.sh/u/2771995) |
+| ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [`[_Chichinya_]`](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [`[_LordEnder_]`](https://new.ppy.sh/u/4609767), [Seok Hyejin](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
 
 ### Pending Rosters
 
 | | Country | Captain |
 | ---: | :---: | :--- |
-| ![](/wiki/shared/flag/Ar.gif) | **Argentina** | **[Pollotuc](https://new.ppy.sh/u/42440)** |
-| ![](/wiki/shared/flag/Au.gif) | **Australia** | **[Jaye](https://new.ppy.sh/u/4841352)** |
 | ![](/wiki/shared/flag/Br.gif) | **Brazil** | **[LuckySonicGHz](https://new.ppy.sh/u/3949268)** |
 | ![](/wiki/shared/flag/Ca.gif) | **Canada** | **[Tasha](https://new.ppy.sh/u/1031958)** |
 | ![](/wiki/shared/flag/Cl.gif) | **Chile** | **[-Anhedonia-](https://new.ppy.sh/u/920861)** |
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
 | ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)** |
 | ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Nishizumi](https://new.ppy.sh/u/2496768)** |
+| ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)** |
 | ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
 | ![](/wiki/shared/flag/Kr.gif) | **South Korea** | **[Runa](https://new.ppy.sh/u/4643294)** |
 | ![](/wiki/shared/flag/Es.gif) | **Spain** | **[Raiden](https://new.ppy.sh/u/2239480)** |
 | ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[-[ ix Ishida xi ]-](https://new.ppy.sh/u/242910)** |
-| ![](/wiki/shared/flag/Us.gif) | **United States** | **[Garpo](https://new.ppy.sh/u/4097035)** |
 
 ------------------------------------------------------------------------
 
