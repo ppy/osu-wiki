@@ -78,6 +78,15 @@ For example:
 # Folder Name
 ```
 
+In the case where a title cannot be translated, use the language title (in English) followed by the language name (in that language) in round brackets.
+For example:
+
+```
+# osu!mania (Español)
+# Live Streaming (日本)
+# Skinning osu!catch (Français)
+```
+
 ### Section Headings
 
 All section headings are to use title case, just like the article titles.
