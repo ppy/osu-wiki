@@ -1,7 +1,10 @@
+Support technique
+===================
+
 L**'équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (sauf [Tournois](https://osu.ppy.sh/forum/55) et [Techniques de mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4), et [Support technique](https://osu.ppy.sh/forum/5).
 
 Responsabilités
-===============
+-------------------
 
 L'équipe de support est responsable de :
 
@@ -11,7 +14,8 @@ L'équipe de support est responsable de :
 Si quelqu'un a besoin d'aide sur lesdits sous-forums, l'équipe de support est là pour ça.
 
 Membres de l'équipe
-===================
+-----------------------
+
 [Page du groupe](https://osu.ppy.sh/g/22)
 *Veuillez noter que tous les membres de l'équipe de support peuvent également parler anglais en plus des langues listées ci-dessous.*
 
