@@ -218,10 +218,10 @@ tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯�
 
 ![osu!tourney 플레이어 배정](Osutourneyassignment.png "osu!tourney Player Assignment")
 
+_각 멀티방에 해당하는 화면_
+
 예를 들어 TeamSize = 4로 설정하면 1, 2, 3, 4 번 슬롯은 왼쪽 팀에 속하게 되고, 5, 6, 7, 8 번 슬롯은 오른쪽 팀에 속하게 됩니다. 
 만약 당신이 'TeamSize = 3'을 설정하면 1, 2, 3 슬롯은 왼쪽 팀에 속하게 되고, 4, 5, 6 번 슬롯은 오른쪽 팀에 속할 것입니다.
-
-_각 멀티방에 해당하는 화면_
 
 **Tip : 왼쪽 팀은 항상 파랑 팀이고, 오른쪽 팀은 항상 빨강 팀입니다.**
 
