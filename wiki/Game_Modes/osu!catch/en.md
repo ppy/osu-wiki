@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
 [Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
@@ -150,9 +150,9 @@ A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or
 
 Accuracy is defined by how much caught over how much missed, excluding spinner's bananas.
 
-In other words: **Accuracy = Total numbers of fruits caught / Total number of fruits**
+In other words: `Accuracy = Total numbers of fruits caught / Total number of fruits`
 
-Term | Formulae
+Term | Formula
 :---:|:---
 **Total numbers of fruits caught** | Droplets + Drops + Fruits
 **Total numbers of fruits**        | Misses + Miss droplets + Droplets + Drops + Fruits
@@ -175,7 +175,7 @@ However, the fruit that adds up the score is different from osu!standard.
 
 Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
-**Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]**
+`Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
 Term | Meaning
 :---:|:---
@@ -207,6 +207,7 @@ Term | Meaning
 
 ### Gameplay
 
+- [Auto][Auto wikilink] will _always_ collect all the bananas.
 - If `Hit-error` was enabled, it will always use `Colour`.
 - The catcher can be moved around during any break.
 - The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
@@ -215,7 +216,7 @@ Term | Meaning
 
 ### Others
 
-[first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) by NatsumeRin, with the osu!catch beatmap guest mapped by Uran"
+[first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran"
 
 ![osu!catch logo in the Special Modes][osu!catch logo]
 
@@ -224,5 +225,5 @@ _osu!catch logo in deprecated Special Mode_
 - Until 10th of April 2012, osu!catch maps could not be ranked or be included in ranked maps.
   However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines.
   These guidelines are very much a work in progress, but as more CtB maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
-- The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) by	NatsumeRin, with the osu!catch beatmap guest mapped by Uran][first catch link]
-- The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki by Deif](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki by Deif")
+- The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran][first catch link]
+- The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki (Deif)")

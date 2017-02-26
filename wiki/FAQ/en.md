@@ -10,10 +10,11 @@
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
+[Auto Pilot wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto Pilot"
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
 [Sudden Death wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Sudden Death"
 [Score wikilink]: /wiki/Score/ "Score"
-[Score#Level wikilink]: /wiki/Score#Level "more info can be found on Score under Level"
+[Score#Level wikilink]: /wiki/Score/#level "more info can be found on Score under Level"
 [Performance Points wikilink]: /wiki/Performance_Points/ "Performance Points"
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "more info can be found on Performance Points under FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
@@ -156,7 +157,7 @@ The number inside that box translates to the number of spins possible, if to con
 If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
 On the _DS_, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties.
-In _osu!_, spinners have been toned down as to not be such a nuisance to complete.
+In osu!, spinners have been toned down as to not be such a nuisance to complete.
 The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto][Auto wikilink] game modifier spins while the [Spun Out][Spun Out wikilink] game modifier spins slower at 287 spins per minute.
 
 #### In-Game Interface
@@ -164,12 +165,12 @@ The maximum number of spins per minute achievable is 477 which is also the rate 
 
 _In-game interface of osu!_
 
-The top-left bar is the healthbar.
+The top-left bar is the health bar.
 This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
 A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50).
-A total miss will take a good chunk of health out of the healthbar.
+A total miss will take a good chunk of health out of the health bar.
 
-On the right of the healthbar is the total score.
+On the right of the health bar is the total score.
 Below that is the accuracy.
 The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap.
 The number on the bottom left is the combo counter/score multiplier.
@@ -223,7 +224,7 @@ _In-game playfield interface of osu!taiko_
 For players with prior _Taiko no Tatsujin_ experience:-
 
 - No chibi dancers at the bottom (must be storyboarded)
-- The healthbar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin)
+- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin)
 - _Kiai Time_ triggers the _"Go-Go Time"_
   - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
 - Background display difference
@@ -232,12 +233,12 @@ For players with prior _Taiko no Tatsujin_ experience:-
   - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
 
 For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap.
-At the upper section, there is the healthbar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty.
-At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
+At the upper section, there is the health bar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty.
+At the top-middle part below the health bar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
 Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes.
 Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the healthbar.
+Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the health bar.
 Combo will not break when playing on an empty field.
 Unlike osu!, the combo milestone celebration is every 50 consecutive hits.
 The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost).
@@ -269,7 +270,7 @@ Hit the inner (or outer) drum continuously for points until the end of the drumr
 For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
 Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in _Taiko no Tatsujin_.
 
-Drumrolls can be ignored with no health penalty, as it does not recover the healthbar at all.
+Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all.
 However, it will cost possible points gained from the drumroll.
 Each successful hit on the tiny hit circle gives a static 300 score.
 
@@ -282,7 +283,7 @@ Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue,
 Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break.
 Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
-It does not increment the combo counter, and does not recover the healthbar in any way.
+It does not increment the combo counter, and does not recover the health bar in any way.
 Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
 #### Controls
@@ -403,14 +404,13 @@ Do note that while the preset number of keys will not be doubled on osu!mania-sp
 _In-game playfield interface of osu!mania_
 
 By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
-To change the flow of the playfield from bottom-to-top instead, it can be changed in the _Options_ sidebar; click on _osu!mania layout_ button to set osu!mania keys settings and enable _Vertically flip playfield (DDR style)_ for this key setting manually.
+To change the flow of the playfield from bottom-to-top instead, it can be changed in the `Options` sidebar; click on `osu!mania layout` button to set osu!mania keys settings and enable `Vertically flip playfield (DDR style)` for this key setting manually.
 
-Healthbar is located at the right side of the conveyor belt.
-Please note that health drain is disabled in osu!mania, so only the hit objects will affect the healthbar.
+Health bar is located at the right side of the conveyor belt.
+Please note that health drain is disabled in osu!mania, so only the hit objects will affect the health bar.
 Combo will not break when playing the keys on empty judgement line.
 
-**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) while playing or while in song selection screen.
-Alternatively, `F3` (faster) or `F4` (slower) during gameplay only.
+**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
 
 ##### Notes
 ![osu!mania's notes][osu!mania notes image]
@@ -430,7 +430,7 @@ _A typical play with some hold notes_
 Hold notes are the sliders and spinners of osu!mania.
 When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
 
-Healthbar regeneration occurs slowly while holding the hold note(s).
+Health bar regeneration occurs slowly while holding the hold note(s).
 Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
 
 #### Controls
@@ -573,6 +573,9 @@ It is an excellent training map for newbies and experienced players.
 Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty].
 The easiest maps are at the top of the list.
 
+Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching by Rivenation") named [osu!search](http://osusearch.com/ "osu!search") which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement.
+The unofficial beatmap searchbar can be found at <http://osusearch.com/>.
+
 #### What does Level in my profile actually do?
 **Absolutely nothing**.
 There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question.
@@ -698,4 +701,5 @@ Please follow these steps:-
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/forum/t/131067 "CBT Project by Kingkevin30")
 - Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/forum/t/147552 "osu!mania maps, sorted by difficulty by Entozer")
 - Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/forum/t/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Wikipedia [\[6\]][ouendan wikipedia], [\[7\]][Taiko no Tatsujin wikipedia]
+- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Wikipedia [\[7\]][ouendan wikipedia], [\[8\]][Taiko no Tatsujin wikipedia]

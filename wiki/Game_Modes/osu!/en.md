@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!"
 [Score#osu!SV wikilink]: /wiki/Score/#osu "more info can be found on Score under osu! Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
@@ -91,13 +91,13 @@ Alternatively, click on the `Mode` button and select `osu!`.
 
 _In-game interface of osu!_
 
-The top-left bar is the healthbar.
+The top-left bar is the health bar.
 This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
 
 A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50).
-A total miss will take a good chunk of health out of the healthbar.
+A total miss will take a good chunk of health out of the health bar.
 
-On the right of the healthbar is the total score.
+On the right of the health bar is the total score.
 Below that is the accuracy.
 The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap.
 
@@ -148,7 +148,7 @@ The number inside that box translates to the number of spins possible, if to con
 If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
 On the _DS_, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties.
-In _osu!_, spinners have been toned down as to not be such a nuisance to complete.
+In osu!, spinners have been toned down as to not be such a nuisance to complete.
 The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto][Auto wikilink] game modifier spins while the [Spun Out][Spun Out wikilink] game modifier spins slower at 287 spins per minute.
 
 ## Play Styles
@@ -157,13 +157,13 @@ The maximum number of spins per minute achievable is 477 which is also the rate 
 
 ## Controls
 
-The default controls for _osu!_ are:-
+The default controls for osu! are:-
 
-Mouse|Keyboard|Tablet/Touchscreen
+Mouse | Keyboard | Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1)
 
-The hit objects in _osu!_ will accept any input from the input device, as long as each hit objects was tapped in time.
+The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
 If [Relax][Relax wikilink] mod was used, only the in-game cursor will work.
 Use the in-game cursor to follow the hit objects with automated tap.
@@ -196,9 +196,9 @@ A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or
 
 Accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount.
 
-In other words: **Accuracy = Total points of hits / (Total number of hits * 300p)**
+In other words: `Accuracy = Total points of hits / (Total number of hits * 300p)`
 
-Term | Formulae
+Term | Formula
 :---:|:---
 **Total points of hits**   | (50s * 50p) + (100s * 100p) + (300s * 300p)
 **Total number of hits**   | (Misses + 50s + 100s + 300s) * 300
@@ -209,14 +209,14 @@ In other words, each _Miss_ counts as 0 points, each _50_ counts as 50 points, e
 
 Add them all together and divide the sum with the number of hits multiplied by 300.
 
-If only 300s: a result of 1.00, which means 100% accuracy.
-If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
+- If only 300s: a result of 1.00, which means 100% accuracy.
+- If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
 
 ### Score
 
 The score given by each hit circle and end of a slider is calculated with the following formula:-
 
-**Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))**
+`Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
 Term | Meaning
 :---:|:---
@@ -231,7 +231,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 ##### How to calculate the Difficulty multiplier
 
-[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_
+[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
@@ -251,7 +251,7 @@ CS cannot normally go below 2 or above 7 (requires direct modification to the `.
 Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**.
 It will only account for original values only.
 
-### Hit circle judgement
+### Hit objects judgement
 
 **Hit circles**
 
@@ -300,21 +300,21 @@ The following will not increase or reset your score multiplier:
 The system used to calculate life drain and life gain is complicated so it will not be explained in detail.
 It all revolves around the life difficulty setting which can only be set by the mapper itself.
 
-You gain life from:
+**You gain life from:-**
 
 - Hitting a hit circle. (Better judgement leads to more life gain. The last hit circle in a color combo awards more life.)
 - Hitting a slider start, end or return tick. (Better judgement at the end tick leads to more life gain)
 - Spinning and completing a spinner. (Better judgement at the end of the spinner leads to more life gain)
 - Continue to spin the spinner (depends on how fast you spin per spin difficulty)
 
-You lose life from:
+**You lose life from:-**
 
 - Constant life drain.
 - Missing a hit circle or a slider.
 - Not completing a spinner.
 - Not spinning after you completed your spinner.
 
-You reserve life from:
+**You reserve life from:-**
 
 - Break time
 - Spinning after you completed your spinner.
@@ -361,8 +361,8 @@ _Combo Fire_
   - The first version of default skin, which was _osu!default by peppy_ skin, which provides an almost identical copy of the ouendan interface.
     - Replaced by nicer current default skin.
 - The first three beatmaps ranked on the same day (7th of October, 2007) when the online leaderboard went live were:-
-  - [Kenji Ninuma - DISCO PRINCE by peppy](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE by peppy"), or `discoprince`; which was apparently mapped in around an hour.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] by MCXD](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] by MCXD") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
-  - [Brandy - Love Fighter by FFFanatic](https://osu.ppy.sh/s/16 "Brandy - Love Fighter by FFFanatic"), or `Brandy - Love Fighter`.
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in _ancient_ beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the beatmaplist does follow the current enforced naming format regardless.  
+  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.  

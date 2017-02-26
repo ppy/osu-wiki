@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!taiko"
 [Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
@@ -57,7 +57,7 @@ _In-game playfield interface of osu!taiko_
 For players with prior _Taiko no Tatsujin_ experience:-
 
 - No chibi dancers at the bottom (must be storyboarded)
-- The healthbar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin or the [Taiko skin by LuigiHann][Taiko by LuigiHann link])
+- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin or the [Taiko skin by LuigiHann][Taiko by LuigiHann link])
 - _Kiai Time_ triggers the _"Go-Go Time"_
   - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
 - Background display difference
@@ -66,12 +66,12 @@ For players with prior _Taiko no Tatsujin_ experience:-
   - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
 
 For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap.
-At the upper section, there is the healthbar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty.
-At the top-middle part below the healthbar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
+At the upper section, there is the health bar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty.
+At the top-middle part below the health bar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum.
 Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes.
 Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the healthbar.
+Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the health bar.
 Combo will not break when playing on an empty field.
 Unlike osu!, the combo milestone celebration is every 50 consecutive hits.
 The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost).
@@ -103,7 +103,7 @@ Hit the inner (or outer) drum continuously for points until the end of the drumr
 For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
 Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in _Taiko no Tatsujin_.
 
-Drumrolls can be ignored with no health penalty, as it does not recover the healthbar at all.
+Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all.
 However, it will cost possible points gained from the drumroll.
 Each successful hit on the tiny hit circle gives a static 300 score.
 
@@ -116,7 +116,7 @@ Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue,
 Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break.
 Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
-It does not increment the combo counter, and does not recover the healthbar in any way.
+It does not increment the combo counter, and does not recover the health bar in any way.
 Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
 ## Play Styles
@@ -143,7 +143,7 @@ _[Scoring Values can be found in Score under osu!taiko Scoring Values section][S
 
 This section details all the intricacies of scoring, including mathematical formula.
 
-The scoring terms in osu!taiko use the same terms used in _Taiko no Tatsujin_ as shown below:
+The scoring terms in osu!taiko use the same terms used in _Taiko no Tatsujin_ as shown below:-
 
 - GREAT (良), or 300
 - GOOD  (可), or 100
@@ -164,9 +164,9 @@ The song accuracy is calculated by sum of all note accuracy divided by number of
 A GREAT (良) counts as 100%, a GOOD (可) as 50% (half) and a MISS/BAD (不可) as 0% (which breaks the combo).
 Drumrolls and spinners do not influence the accuracy.
 
-In other words: **Accuracy = Total points of hits / (Total number of hits * 300)**
+In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
-Term | Formulae
+Term | Formula
 :---:|:---
 **Total points of hits** | ((Misses * 0) + (100s\[GOOD\] * 0.5) + 300s\[GREAT\]) * 300
 **Total number of hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\]
@@ -204,7 +204,7 @@ Also unlike the other game modes, Kiai Time has an effect on scores because it r
 While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
 Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
 
-In short: **Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time**
+In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
 Term | Meaning
 :---:|:---
@@ -266,5 +266,5 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 
 _osu!taiko logo in deprecated Special Mode_
 
-- The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 by Kharl](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 by Kharl")
-- The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose by lepidopodus](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose by lepidopodus")
+- The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
+- The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")

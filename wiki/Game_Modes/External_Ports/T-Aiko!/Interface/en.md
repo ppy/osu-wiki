@@ -4,7 +4,7 @@
 <!-- Content  : ![{altText}][{image}] \n\n _{altText}_ -->
 
 <!-- Original page -->
-[T-Aiko!]: /wiki/Game_Modes/External_Ports/T-Aiko! "T-Aiko! main page"
+[T-Aiko!]: ../ "T-Aiko! main page"
 
 <!-- Normal -->
 [T2-MM.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-MM.jpg "Main Menu"

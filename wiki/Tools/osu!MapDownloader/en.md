@@ -1,17 +1,15 @@
 
+# osu!MapDownloader
+
 ***This is not a game nor a port. It only downloads beatmaps and basic navigation.***
 
 ![osu!MapDownloader](O!md.png "osu!MapDownloader")
 
-Introduction
-============
-
-**osu!MapDownloader** is a beatmap downloading client created by for Android's ports. The client requires Internet access on your device to work. **This is not a port nor a game.** Please download [osu!droid](osu!droid "wikilink")/[T-Aiko](T-Aiko "wikilink")/[opsu!](opsu! "wikilink")/[Beats](Beats "wikilink") before use.
+**osu!MapDownloader** is a beatmap downloading client created by for Android's ports. The client requires Internet access on your device to work. **This is not a port nor a game.** Please download [osu!droid](/wiki/Game_Modes/External_Ports/osu!droid/ "osu!droid")/[T-Aiko](/wiki/Game_Modes/External_Ports/T-Aiko!/ "T-Aiko!")/[opsu!](/wiki/Game_Modes/External_Ports/opsu!/ "opsu!") before use.
 
 It was previously available in international Play Store but it has been taken down.
 
-Installation
-------------
+## Installation
 
 **How to install (PC way)**
 
@@ -40,22 +38,19 @@ Installation
 -   Download and Install [the app @Play Store (2.3MB)](https://play.google.com/store/apps/details?id=com.myapp.downloader)
 -   osu!MapDownloader is now installed in your phone.
 
-Usage
-=====
+## Usage
 
 -   Unrestricted beatmap download (thanks to bloodcat's website) with filter options.
 -   Basic navigation to player's profiles and pp ranking with filter options.
 
-Flick options
--------------
+### Flick options
 
 -   Flick up: Next Page
 -   Flick down: Refresh
 -   Flick left: (none)
 -   Flick right: Opens Settings sidebar
 
-Downloading Beatmaps
---------------------
+### Downloading Beatmaps
 
 -   Open "osu!MapDownloader"
 -   Select your preferred beatmaps. A pop-up will show you the options, and select "Download".
@@ -64,15 +59,36 @@ Downloading Beatmaps
     -   You can check the progress in "Downloads" in the Settings sidebar.
 -   Once the download is completed, the beatmap will be unzipped for use.
 
-Interface
-=========
+## Interface
 
-| ![Main Menu](Omd_Main.jpg "Main Menu") | ![Main Menu (Tablet size)](Omd_TMain.jpg "Main Menu (Tablet size)") | ![Song Preview](Omd_Preview.jpg "Song Preview") | ![Song Preview (Tablet size)](Omd_TPreview.jpg "Song Preview (Tablet size)") |
-| ----- | ----- | ----- | ----- |
-| ![Settings (the sidebar)](Omd_Settings.jpg "Settings (the sidebar)") | ![Downloads list](Omd_Downloads.jpg "Downloads list") | ![Player info page](Omd_Player.jpg "Player info page") | |
+![Main Menu](Omd_Main.jpg "Main Menu")
 
-Settings sidebar
-================
+_Main Menu_
+
+![Main Menu (Tablet size)](Omd_TMain.jpg "Main Menu (Tablet size)")
+_Main Menu (Tablet size)_
+
+![Song Preview](Omd_Preview.jpg "Song Preview")
+
+_Song Preview_
+
+![Song Preview (Tablet size)](Omd_TPreview.jpg "Song Preview (Tablet size)")
+
+_Song Preview (Tablet size)_
+
+![Settings (the sidebar)](Omd_Settings.jpg "Settings (the sidebar)")
+
+_Settings (the sidebar)_
+
+![Downloads list](Omd_Downloads.jpg "Downloads list")
+
+_Downloads list_
+
+![Player info page](Omd_Player.jpg "Player info page")
+
+_Player info page_
+
+## Settings sidebar
 
 **Pick your choice:**
 
@@ -134,8 +150,8 @@ Shown details:
 
 Information about the creator.
 
-Data from http://bloodcat.com/osu, http://osu.ppy.sh 
-Author: eprendre 
+Data from http://bloodcat.com/osu, http://osu.ppy.sh
+Author: eprendre
 Email: oblivion0413@qq.com
 
 Version: {Version}
@@ -150,24 +166,20 @@ Options:
 * Resume all
 * Clear finished songs
 
-Questions
-=========
+## Questions
 
-I don't have/want to put it on osu!droid
-----------------------------------------
+### I don't have/want to put it on osu!droid
 
 -   Open the "Options Screen"
 -   Scroll down and tap on "Select download folder"
 -   Navigate to your preferred download place and confirm.
     -   If opsu!, go to `opsu/Songs` and set it there. It will automatically unzip the file.
 
-Why are some functions missing?
--------------------------------
+### Why are some functions missing?
 
 -   It a messy hack with the main focus on getting the beatmap download to work. Some of the extra stuff (such as the follow function and sort by popularity) might be broken from oversight in developer part.
 
-Links
-=====
+## Links
 
 -   [Play Store link (removed)](https://play.google.com/store/apps/details?id=com.myapp.downloader)
     -   [Alternative download link (ZH)](http://shouji.baidu.com/software/item?docid=7336907)

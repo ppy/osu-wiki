@@ -1,5 +1,5 @@
 <!-- wikilink -->
-[T_Aiko! v1 wikilink]: /wiki/Game_Modes/External_Ports/T_Aiko!/v1 "T_Aiko! v1 by Guy-kun"
+[T-Aiko! v1 wikilink]: ./v1 "T_Aiko! v1 by Guy-kun"
 [Game Modifiers wikilink]: /wiki/Game_Modifiers "Game Modifiers"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
@@ -34,7 +34,7 @@
 
 _T-Aiko v2 logo_
 
-[Click for deprecated version 1 by Guy-kun][T_Aiko! v1 wikilink].
+[Click for deprecated version 1 by Guy-kun][T-Aiko! v1 wikilink].
 
 ## Introduction
 
@@ -309,7 +309,7 @@ Autoplay|Enable/Disable [Auto][Auto wikilink]|A special "Not saved: Autoplay" no
 Name|Effect|Note
 ---|---|---
 Show Drum|Show/Hide the drum in-game.|
-Song Folder|Default (mnt/sdcard/T-Aiko/Songs)|Not suggested to modify
+Song Folder|Default (`mnt/sdcard/T-Aiko/Songs`)|Not suggested to modify
 Low Performance mode|Use this mode if T-Aiko is being sluggish or processor chip is not strong.|
 Show Timings|Show whether timing is EARLY/LATE when getting 可 (GOOD) rating slightly above the conveyor drum.|
 

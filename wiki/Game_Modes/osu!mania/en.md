@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: /wiki/Game_Modes/ "Game Modes"
+[Game_Modes wikilink]: ../ "Game Modes"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
 [Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!mania"
@@ -11,7 +11,7 @@
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
-[Mascots#Maria wikilink]: /wiki/Mascots "more info can be found on Mascots under Maria"
+[Mascots#Maria wikilink]: /wiki/Mascots/#maria "more info can be found on Mascots under Maria"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
 <!-- osu!mania specific -->
@@ -28,7 +28,7 @@
 [osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "osu!mania key layout"
 [osu!mania key layout2 image]: /wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)"
 [osu!mania editor image]: /wiki/shared/Editor_Mania.png "osu!mania-specific Editor"
-[osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg.jpg "osu!mania-specific Difficulty setup.jpg"
+[osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg "osu!mania-specific Difficulty setup"
 [Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
 
 <!-- Title -->
@@ -101,8 +101,8 @@ _In-game playfield interface of osu!mania_
 By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
 To change the flow of the playfield from bottom-to-top instead, it can be changed in the `Options` sidebar; click on `osu!mania layout` button to set osu!mania keys settings and enable `Vertically flip playfield (DDR style)` for this key setting manually.
 
-Healthbar is located at the right side of the conveyor belt.
-Please note that health drain is disabled in osu!mania, so only the hit objects will affect the healthbar.
+Health bar is located at the right side of the conveyor belt.
+Please note that health drain is disabled in osu!mania, so only the hit objects will affect the health bar.
 Combo will not break when playing the keys on empty judgement line.
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
@@ -128,7 +128,7 @@ _A typical play with some hold notes_
 Hold notes are the sliders and spinners of osu!mania.
 When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
 
-Healthbar regeneration occurs slowly while holding the hold note(s).
+Health bar regeneration occurs slowly while holding the hold note(s).
 Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
 
 ## Play Styles
@@ -195,7 +195,7 @@ Key | Bindings
 
 ![Default Key layouts of osu!mania (Co-Op)][osu!mania key layout2 image]
 
-The **[5th of March 2015 update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
+The **[05 March 2015 (2015-03-05) update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
 With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
 
 _Symmetrical_ key binding for second set.
@@ -274,9 +274,9 @@ NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was re
 
 Accuracy is calculated similarly to [osu!standard][osu! wikilink] in this mode.
 
-In other words: **Accuracy = Total points of hits / (Total number of hits * 300)**
+In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
-Term | Formulae
+Term | Formula
 :---:|:---
 **Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
 **Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
@@ -370,9 +370,9 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 _osu!mania logo in the deprecated Special Modes_
 
-- osu!mania was released on [**08/10/2012**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
+- osu!mania was released on [**08 August 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
 - The old osu!mania editor used to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
-- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun by DJPop](https://osu.ppy.sh/s/63089 "fripSide - only my railgun by DJPop").
+- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
 ## References
 

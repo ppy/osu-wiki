@@ -65,7 +65,7 @@ Image | Name | Effect
 
 Image | Name | Effect
 :---:|:---:|:---
-![GREAT][t300k] ![GREAT][t300g] ![GREAT][t300] | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: [1] Large Note [2] Small Note
+![GREAT][t300k] ![GREAT][t300g] ![GREAT][t300] | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: [1 and 2] Large Note [3] Small Note
 ![GOOD][t100k] ![GOOD][t100] | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: [1] Large Note [2] Small Note.
 ![MISS/BAD][t0] | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour.
 
@@ -76,8 +76,8 @@ Image | Name | Effect
 Image | Name | Effect
 :---:|:---:|:---
 ![Fruit][c300] | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).
-![Juice Drop][c100] | Juice Drops* (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots you see inside the sliders. It is compulsory to catch if you want to retain your combo. It is twice the the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
-![Droplets][c50] | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops*.10pt for each Droplets. If you not catching it, it'll decrease accuracy but doesn't break combo count (shown as 50 on multiplayer and result)
+![Juice Drop][c100] | Juice Drops* (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots you see inside the sliders. It is compulsory to catch if you want to retain your combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
+![Droplets][c50] | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops*. 10pt for each Droplets. If you not catching it, it'll decrease accuracy but doesn't break combo count (shown as 50 on multiplayer and result)
 (None) | Miss Droplets | Droplets (Slider Trails) you fail to catch. Will not be shown in Results screen but is shown in server-side. Does not break your combo but decrease accuracy and lose one of the 50's score. Not considered a miss.(Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard)
 ![Banana][cBanana] | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1100pt given, however this one follows spinner clear in standard which combines 1000 as bonus and 100 as spinning score.
 ![Miss][c0] | Miss | Normal Fruit and Juice Drops* you failed to catch. Breaks your combo count. Given when failed to catch the Fruit/Juice Drops*. No score given and breaks combo. This can only be seen from the results screen.
@@ -97,6 +97,8 @@ Image | Name | Effect
 
 ### ScoreV2
 
+_For a summarised explanation, refer to [Glossary page for ScoreV2](/wiki/Glossary/#scorev2 "ScoreV2 in Glossary")_
+
 Before ScoreV2, each game modes has their own scoring system in place:
 
 - osu! and osu!catch use a strictly combo-based score multiplier,
@@ -111,13 +113,16 @@ This is where ScoreV2 comes in.
 ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 (1 million) score at 1.00x score modifier with extra score gains from spinner's bonus for osu!, drumrolls for osu!taiko, and bananas as usual for osu!catch.
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
+ScoreV2 can be tested in [Multi](/wiki/Multi) mode as one of the Match Setup's Win Condition.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers/) game modifier.
+
 ### Score
 
 #### osu!
 
 The score given by each hit circle and end of a slider is calculated with the following formula:-
 
-**Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))**
+`Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
 Term | Meaning
 :---:|:---
@@ -132,7 +137,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 ##### How to calculate the Difficulty multiplier
 
-[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_
+[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
@@ -179,7 +184,7 @@ Also unlike the other game modes, Kiai Time has an effect on scores because it r
 While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
 Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
 
-In short: **Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time**
+In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
 Term | Meaning
 :---:|:---
@@ -208,7 +213,7 @@ However, the fruit that adds up the score is different from osu!standard.
 
 Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
-**Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]**
+`Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
 Term | Meaning
 :---:|:---

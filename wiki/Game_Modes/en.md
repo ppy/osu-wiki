@@ -1,16 +1,16 @@
 <!-- wiki -->
 [FAQ wikilink]: /wiki/FAQ/ "FAQ"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
-[Beats wikilink]: /wiki/Game_Modes/External_Ports/Beats "Beats by Keripo"
-[opsu! wikilink]: /wiki/Game_Modes/External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
-[osu!droid wikilink]: /wiki/Game_Modes/External_Ports/osu!droid "osu!droid by Pesets"
-[osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
-[osu!wp wikilink]: /wiki/Game_Modes/External_Ports/osu!wp "osu!wp by cxy783670568"
-[T-Aiko! v2 wikilink]: /wiki/Game_Modes/External_Ports/T-Aiko! "T-Aiko! v2 by low.moe team"
-[T-Aiko! v1 wikilink]: /wiki/Game_Modes/External_Ports/T-Aiko!/v1 "T-Aiko! v1 by Guy-kun"
+[osu! wikilink]: ./osu!/ "osu!"
+[osu!taiko wikilink]: ./osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: ./osu!catch/ "osu!catch"
+[osu!mania wikilink]: ./osu!mania/ "osu!mania"
+[Beats wikilink]: ./External_Ports/Beats "Beats by Keripo"
+[opsu! wikilink]: ./External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
+[osu!droid wikilink]: ./External_Ports/osu!droid "osu!droid by Pesets"
+[osu!stream wikilink]: ./External_Ports/osu!stream "osu!stream by osu! team"
+[osu!wp wikilink]: ./External_Ports/osu!wp "osu!wp by cxy783670568"
+[T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 by low.moe team"
+[T-Aiko! v1 wikilink]: ./External_Ports/T-Aiko!/v1 "T-Aiko! v1 by Guy-kun"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -70,7 +70,7 @@ Deprecated:-
 
 Ports done by the community of osu!.
 
-### Multiplatform
+#### Multiplatform
 
 - ![osu! icon][osu! icon link] [opsu!][opsu! wikilink] [Windows/OS X/Linux/Android]:
   Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
@@ -79,18 +79,18 @@ Ports done by the community of osu!.
   - ![osu!taiko icon][osu!taiko icon link] [T-Aiko! v1][T-Aiko! v1 wikilink] [Android]:
     Deprecated Taiko special game mode developed by **Guy-kun**.
 
-### Android
+#### Android
 
 Deprecated:-
 
-- ![osu! icon][osu! icon link] [Beats v1.75 FINAL][Beats wikilink]:
+- ![osu! icon][osu! icon link] Beats v1.75 FINAL:
   Old Stepmania/ancient osu! port by **Keripo**.
-  Scrapped in Beats v2.
+  - The final build is 1.7.5b as in 10th April 2014. [Previous builds can be found here](http://beatsportable.com/static/releases/). Please note that the osu! mode is based on osu! as in February 2011 and there will be no support for osu! (superseded by [osu!droid][osu!droid wikilink] since August 2011) in Beats 2.
 - ![osu! icon][osu! icon link] [osu!droid][osu!droid wikilink]:
   osu! port developed by **Pesets**.
   Broken due to no support for newer beatmap version and the disappearance of the original developer.
 
-### iOS
+#### iOS
 
 Deprecated:-
 
@@ -98,7 +98,7 @@ Deprecated:-
   Ancient osu! port developed by **nuudles** for jailbroken iOS.
   Deprecated due to disappearance of the original developer and age of the program.
 
-### Windows Phone
+#### Windows Phone
 
 - ![osu! icon][osu! icon link] [osu!wp][osu!wp wikilink]:
   osu! port developed by **cxy783670568**
