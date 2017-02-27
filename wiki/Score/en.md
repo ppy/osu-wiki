@@ -105,7 +105,7 @@ Before ScoreV2, each game modes has their own scoring system in place:
 - osu!taiko roughly follows the _Taiko no Tatsujin_ scoring system with a small constant score affected with combo bonus, and
 - osu!mania is the only game mode with a score limiter, which is capped at 1,000,000 (1 million) score at 1.00x score modifier.
 
-While the issue only arise on _very long and combo-intensive_ beatmap, if the player managed to exceed a combo of ~2,000, the player's score will begin to count _backwards_.
+While the issue only arise on _very long and combo-intensive_ beatmap, if the player managed to exceed a combo of ~6,500 onwards, the player's score will begin to count _backwards_.
 This is a known flaw with the 32-bit signed integer where (in computing) the max integer is **2,147,483,647**.
 
 This is where ScoreV2 comes in.
