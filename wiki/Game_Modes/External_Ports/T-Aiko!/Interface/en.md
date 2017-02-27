@@ -1,5 +1,6 @@
 <!-- If possible, use a script to do this, mate. Pardon the terrible naming sense. ~RaikireHiuduo -->
 
+<!-- Line break: --- ->
 <!-- Reference: [{image}]: {link}/{image} "{altText}" -->
 <!-- Content  : ![{altText}][{image}] \n\n _{altText}_ -->
 
@@ -38,88 +39,134 @@
 
 ## Normal
 
+---
+
 ![Main Menu][T2-MM.jpg]
 
 _Main Menu_
+
+---
 
 ![Log-in pop-up][T2-LogIn.jpg]
 
 _Log-in pop-up_
 
+---
+
 ![Sign Up pop-up][T2-SignUp.jpg]
 
 _Sign Up pop-up_
+
+---
 
 ![Song Selection (Solo)][T2-SS.jpg]
 
 _Song Selection (Solo)_
 
+---
+
 ![Song Selection (blank)][T2-SSblank.jpg]
 
 _Song Selection (blank)_
+
+---
 
 ![Download stream][T2-SSDL.jpg]
 
 _Download stream_
 
+---
+
 ![Delete screen][T2-DELETE.jpg]
 
 _Delete screen_
+
+---
 
 ![Gameplay example][T2-Gameplay.jpg]
 
 _Gameplay example_
 
+---
+
 ![Spinner][T2-Spinner.jpg]
 
 _Spinner_
+
+---
 
 ![Paused screen][T2-Paused.jpg]
 
 _Paused screen_
 
+---
+
 ![Failed screen][T2-Failed.jpg]
 
 _Failed screen_
+
+---
 
 ![Grade screen][T2-Grade.jpg]
 
 _Grade screen_
 
+---
+
 ![Main Menu (Guest)][T2-Guest.jpg]
 
 _Main Menu (Guest)_
 
+---
+
 ## Online
+
+---
 
 ![Online screen][T2-ONLINE.jpg]
 
 _Online screen_
 
+---
+
 ![Own Ranking][T2-RANKOWN.jpg]
 
 _Own Ranking_
+
+---
 
 ![Top Ranking][T2-RANKTOP.jpg]
 
 _Top Ranking_
 
+---
+
 ![[Daily] Competitive Mode Song Selection][T2-SSO.png]
 
 _[Daily] Competitive Mode Song Selection_
+
+---
 
 ![Competitive Mode Song Selection (blank)][T2-SSOB.jpg]
 
 _Competitive Mode Song Selection (blank)_
 
+---
+
 ![Competitive Mode Download stream][T2-CMDL.jpg]
 
 _Competitive Mode Download stream_
+
+---
 
 ![Competitive Mode Information][T2-CMINFO.jpg]
 
 _Competitive Mode Information_
 
+---
+
 ![Competitive Mode Grade screen][T2-CMGrade.jpg]
 
 _Competitive Mode Grade screen_
+
+---

@@ -36,8 +36,6 @@ _T-Aiko v2 logo_
 
 [Click for deprecated version 1 by Guy-kun][T-Aiko! v1 wikilink].
 
-## Introduction
-
 Description | Release date
 ---|---
 Hinted (Android) | [February 7, 2015](http://www.facebook.com/permalink.php?story_fbid=769891039790996&id=125194317594008).
@@ -280,23 +278,33 @@ Border|Name|Condition
 
 ## Options Screen
 
+`(!)` = Credits
+
+---
+
 ![Options screen][Options image]
 
 _Options screen_
+
+---
 
 ![Song Directory screen][SDirectory image]
 
 _Song Directory screen_
 
+---
+
 ![Offset screen][Offset image]
 
 _Offset screen_
+
+---
 
 ![Credits screen][Credits image]
 
 _Credits screen_
 
-(!) = Credits
+---
 
 ### Game mods
 
