@@ -12,7 +12,7 @@ March
 
 Links: [1](https://osu.ppy.sh/news/115118189213)
 
-[peppy](peppy "wikilink") reconsiders that his current business model will not obtain him his "Private osu! G6 Jet" and enables the *osu!coin* to hopefully increase revenue. Every current player is given 10 osu!coins to play (at the rate of 1 play = 1 osu!coin). These can be replenished after obtaining a combo of multiples of 100. Or simply by purchasing them at these rates:
+[peppy](/wiki/People/The_Team/*#peppy) reconsiders that his current business model will not obtain him his "Private osu! G6 Jet" and enables the *osu!coin* to hopefully increase revenue. Every current player is given 10 osu!coins to play (at the rate of 1 play = 1 osu!coin). These can be replenished after obtaining a combo of multiples of 100. Or simply by purchasing them at these rates:
 
 -   1 osu!coin = $1 USD
 -   10 osu!coins = $10 USD
@@ -22,4 +22,4 @@ Links: [1](https://osu.ppy.sh/news/115118189213)
 April
 -----
 
-The next day, [peppy](peppy "wikilink") decides to rollback on the osu!coins due to popular demand.
+The next day, [peppy](/wiki/People/The_Team/*#peppy) decides to rollback on the osu!coins due to popular demand.
