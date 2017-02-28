@@ -394,10 +394,29 @@ Do not use the word `here` as the link text.
 As it may seem convenient to use, it could be misleading.
 Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
-### Section Linking
+### Section Links
 
-Section linking in the osu!wiki does not work as of now.
-Do not attempt to section link.
+All section links follow these rules:
+
+- all letters **must** use lowercase letters
+- all special characters (e.g. `!`, `?`, `,`, `"`, `'`) **must** be replaced with a hyphen (`-`)
+  - if one of the spacial characters is the last character in the section name, remove it, but do not add a hyphen (`-`).
+- all spaces are replaced with hyphens (`-`), not underscores (`_`)
+- if a header is not unique (two or more of the same section heading names exist at any level),
+  - the first instance of said heading will follow the above rules
+  - the following instances will follow the above rules **and** must add `.` followed by an incremental integer starting from 2
+
+You will need to check to make sure it links to the correct section.
+
+Examples:
+
+```
+[Scoring](#scoring)
+[osu!mania](#osu-mania)
+[What is osu!taikio?](#what-is-osu-taiko)
+```
+
+Section liking will work for unsafe ASCII characters; however, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
 
 ### Beatmaps
 
