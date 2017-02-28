@@ -76,7 +76,6 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | | Country | Captain |
 | ---: | :---: | :--- |
-
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
 | ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Nishizumi](https://new.ppy.sh/u/2496768)** |
 | ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
