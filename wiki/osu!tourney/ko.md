@@ -212,7 +212,7 @@ Bancho (반쵸)에게 개인 메시지로 '!mp help'를 보내면 모든 명령 
 ### 방 
 osu! tourney 클라이언트가 방을 성공적으로 인식하려면 !mp move 및 !mp team 명령을 사용하여 방에 들어오는 플레이어에게 올바른 슬롯으로 배정해야합니다.
 
-**osu!tourney 사용법**(#osu!tourney 사용법) 섹션에서 설명한대로, 클라이언트의 각 화면은 멀티 플레이어 로비슬롯에 배정됩니다. 
+**[osu!tourney 사용법](#osu!tourney 사용법)**  섹션에서 설명한대로, 클라이언트의 각 화면은 멀티 플레이어 로비슬롯에 배정됩니다. 
 tournament.cfg의 TeamSize 변수 값에 따라 왼쪽 팀이 첫 번째 슬롯을 차지하고 오른쪽 팀이 아래 슬롯을 차지합니다.
 
 ![osu!tourney 플레이어 배정](Osutourneyassignment.png "osu!tourney Player Assignment")
