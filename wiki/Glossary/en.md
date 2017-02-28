@@ -208,23 +208,6 @@ Combo has two meanings:
 
 A _max combo_ is simply the player's highest achieved combo throughout the play.
 
-### Combobreak
-
-A combobreak is when the player loses their combo during any part of playing a beatmap.
-
-### Comboburst
-
-A comboburst is a celebration of achieving a combo milestone.
-
-- For osu!standard and osu!catch, a character will _burst_ out from either the left or right side of the window
-- For osu!taiko, a collection of flowers will _burst_ behind pippidon
-- For osu!mania, a character will _burst_ from the right side of the stage (or left side if specified in the skin.ini)
-
-In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher.
-For osu!mania, the starts will shoot out from the stage.
-
-Combobursts can be disabled in the options.
-
 ### Combo Colour
 
 The combo colour is a colour that that separates a comboset from another.
@@ -272,6 +255,23 @@ However, if you obtain a combo of ~10,000, your score will begin to count backwa
 This is a flaw with the 32-bit signed integer where (in computing) the max integer is 2,147,483,647.
 A fix, _scoreV2_, for this in still being tested.
 
+### Combobreak
+
+A combobreak is when the player loses their combo during any part of playing a beatmap.
+
+### Comboburst
+
+A comboburst is a celebration of achieving a combo milestone.
+
+- For osu!standard and osu!catch, a character will _burst_ out from either the left or right side of the window
+- For osu!taiko, a collection of flowers will _burst_ behind pippidon
+- For osu!mania, a character will _burst_ from the right side of the stage (or left side if specified in the skin.ini)
+
+In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher.
+For osu!mania, the starts will shoot out from the stage.
+
+Combobursts can be disabled in the options.
+
 ### Comboset
 
 A comboset is a group of combos that starts their count at 1 and goes up for each hit circle and/or slider until a slider or a new comboset starts.
@@ -297,21 +297,6 @@ These usually causes the player to lose their stamina very quickly and potential
 
 It is heavily suggested to only use deathstreams when a beatmap _hints_ it and/or has a high BPM.
 This should **never** be used to overmap a beatmap!
-
-### Difficulty Stars
-
-The difficulty stars is the visual representation of a beatmap's difficulty.
-This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
-
-_osu!_ currently uses two different algorithms to calculate difficulty stars:
-
-- peppy's algorithm
-  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
-<!-- TODO wth is Echo's algorithm? -->
-- Echo's algorithm (not in use)
-
-You can see a beatmap's difficulty when testing it in the editor.
-The difficulty stars can be seen on the song selection screen or at its listing in the site.
 
 ### Difficulties
 
@@ -347,6 +332,21 @@ The osu!website sorts difficulty versions into 5 categories for each game mode:
   - [![Hyper icon](/wiki/shared/Hard-t.png) Hyper](/wiki/Difficulties/osu!taiko/Hyper/)
   - [![Another icon](/wiki/shared/Insane-t.png) Another](/wiki/Difficulties/osu!taiko/Another/)
   - [![Maximum icon](/wiki/shared/Expert-t.png) Maximum](/wiki/Difficulties/osu!taiko/Maximum/)
+
+### Difficulty Stars
+
+The difficulty stars is the visual representation of a beatmap's difficulty.
+This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+
+_osu!_ currently uses two different algorithms to calculate difficulty stars:
+
+- peppy's algorithm
+  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
+<!-- TODO wth is Echo's algorithm? -->
+- Echo's algorithm (not in use)
+
+You can see a beatmap's difficulty when testing it in the editor.
+The difficulty stars can be seen on the song selection screen or at its listing in the site.
 
 ### Drain Time
 
@@ -432,30 +432,6 @@ Because of the combo multiplier effect, full combos will give the most score in 
 
 Geki(激), or Elite Beat!, is a scoring term used when you complete a combo with the highest accuracy on every note.
 
-### Guest Difficulty
-
-Guest difficulty, or GD, refers to any difficulty made by a mapper for inclusion in another mapper's set.
-Guest difficulties usually have the mapper's username as the difficulty's name.
-
-There are many reasons for guest difficulties to exist:
-
-- etiquette in the community can make it difficult for multiple mappers to upload beatmaps of the same song around the same time
-  - a different mapper, interested in mapping that song, may choose to contribute a difficulty to the other mapper's set instead
-- they may also decide, after-the-fact, upon playing the other map that they like the music and want to create a difficulty for it
-- or the mapper does not want to put in the effort in creating the difficulties on their own, but rather would want to just create one and give it to another mapper
-
-On the other hand, it may be the creator who wants a few guest difficulties:
-
-- to give the mapset a "community effort" feel
-- simply because they do not want to create such difficulties by themselves
-
-Guest difficulties are often requested by private messages in-game or via forum private messages.
-Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
-
-More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four game modes.
-If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria/).
-Each guest beatmapper is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
-
 ### Grade
 
 A grade, usually confused with "rank", is a letter-grade that repersents the player's performance when playing a beatmap.
@@ -485,6 +461,30 @@ A beatmapper whose beatmap is in the graveyard can resurrect their beatmap from 
 4. click the `Resurrect` link
 
 This will allow you to update the beatmap through the BSS.
+
+### Guest Difficulty
+
+Guest difficulty, or GD, refers to any difficulty made by a mapper for inclusion in another mapper's set.
+Guest difficulties usually have the mapper's username as the difficulty's name.
+
+There are many reasons for guest difficulties to exist:
+
+- etiquette in the community can make it difficult for multiple mappers to upload beatmaps of the same song around the same time
+  - a different mapper, interested in mapping that song, may choose to contribute a difficulty to the other mapper's set instead
+- they may also decide, after-the-fact, upon playing the other map that they like the music and want to create a difficulty for it
+- or the mapper does not want to put in the effort in creating the difficulties on their own, but rather would want to just create one and give it to another mapper
+
+On the other hand, it may be the creator who wants a few guest difficulties:
+
+- to give the mapset a "community effort" feel
+- simply because they do not want to create such difficulties by themselves
+
+Guest difficulties are often requested by private messages in-game or via forum private messages.
+Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
+
+More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four game modes.
+If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria/).
+Each guest beatmapper is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
 
 ## H
 
@@ -929,7 +929,7 @@ Sliderbreak has two meanings:
     - this will not cause a miss, rather it will give you a 100 with no combo increment
 - The case where the player does not obtain the max possible combo without missing an object.
 
-### slider Tick
+### Slider Tick
 
 The slider tick is a hit object that gives out 10 points.
 The amount of slider ticks used in a slider is dependent on the slider velocity, the BPM and the inherited timing.
@@ -1029,6 +1029,13 @@ The slider velocity defines the movement speed of the slider ball. The lower the
 
 ## T
 
+### Tablet
+
+A graphics tablet is an alternative input medium to the computer mouse.
+
+A tablet consists of a flat surface on which one can point and/or drag using an attached stylus, if one is included.
+The image of the screen does not appear on the tablet, thus making it different in functionality from a touch screen.
+
 ### TAG
 
 A TAG difficulty is a type of beatmap that is designed for more than one person to play at the same time in multiplayer mode, using the Tag Coop/Tag Team Vs Team Mode.
@@ -1041,13 +1048,6 @@ TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4
 
 Note that TAG difficulties are unrankable because they are intentionally not designed for a single player.
 However, this has not stop users from trying.
-
-### Tablet
-
-A graphics tablet is an alternative input medium to the computer mouse.
-
-A tablet consists of a flat surface on which one can point and/or drag using an attached stylus, if one is included.
-The image of the screen does not appear on the tablet, thus making it different in functionality from a touch screen.
 
 ### Tap
 
@@ -1095,19 +1095,19 @@ The timing process creates the timeline on which objects will be placed.
 One of many reasons as to why your timing of a beatmap is important because _osu!_ takes the given BPM and offset to determine where the hit objects should go.
 If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
 
-### Touchscreen
-
-A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on.
-_osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player.
-A computer whose entire screen functions as a touchscreen is called a Tablet PC.
-This is different than a tablet because a touchscreen has some kind of display while tablets do not.
-
 ### Touchpad
 
 A touchpad is a substitute for the computer mouse.
 Touchpads are most commonly found on laptop computers.
 The touchpad usually consists of a small rectangular area which one can drag one's finger to move the mouse cursor.
 Due to the way touchpads are designed, they do not work with a stylus or similar devices.
+
+### Touchscreen
+
+A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on.
+_osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player.
+A computer whose entire screen functions as a touchscreen is called a Tablet PC.
+This is different than a tablet because a touchscreen has some kind of display while tablets do not.
 
 ## U
 
