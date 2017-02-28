@@ -5,7 +5,7 @@ Mitwirkende der Community
 
 Die "Community Mitwirkenden" sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, der zeigt, dass sie besonders nennenswert sind und etwas in und für die osu! Community getan haben.
 
-Dabei sollten diese nicht mit den [osu! Alumni](/wiki/People/Osu!_Alumni) verwechselt werden, die davor Teil des osu!Teams waren ([GMT](/wiki/People/Global_Moderation_Team), [BAT](/wiki/People/Beatmap_Nomination_Group), etc.), dieses Abzeichen wird überwiegend denen verliehen, die unabhängig deren Position und Rolle einen großen Dienst der Community geleistet haben und osu! merklich verbessert haben.
+Dabei sollten diese nicht mit den [osu! Alumni](/wiki/People/osu!_Alumni) verwechselt werden, die davor Teil des osu!Teams waren ([GMT](/wiki/People/Global_Moderation_Team), [BAT](/wiki/People/Beatmap_Nomination_Group), etc.), dieses Abzeichen wird überwiegend denen verliehen, die unabhängig deren Position und Rolle einen großen Dienst der Community geleistet haben und osu! merklich verbessert haben.
 
 Derzeitig tragen folgende User dieses Abzeichen:
 

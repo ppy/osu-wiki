@@ -5,7 +5,7 @@
 
 **社区贡献者** 是对那些为 osu! 社区投入了大量的心血提供服务，贡献工具和新功能使许多用户受益的人进行表彰所给予的名牌。这个名牌代表着他们曾为整个社区做出了显著的贡献
 
-与 [osu! 校友纪念的是曾经的](/wiki/People/Osu!_Alumni) osu! 团队成员 (例如 [GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), 等等) 不同的是，社区贡献者名牌授予那些超越了使命召唤自发地来帮助改进 osu! 和社区环境的人
+与 [osu! 校友纪念的是曾经的](/wiki/People/osu!_Alumni) osu! 团队成员 (例如 [GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), 等等) 不同的是，社区贡献者名牌授予那些超越了使命召唤自发地来帮助改进 osu! 和社区环境的人
 
 现在拥有社区贡献者名牌的用户：
 

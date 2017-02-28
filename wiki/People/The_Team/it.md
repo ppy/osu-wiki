@@ -50,7 +50,7 @@ Gruppi Utente
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Controllano il forum e la chat nel gioco |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Gli utenti che vanno oltre il dovere per assicurare che le tue mappe siano qualificate |
 | [Sviluppatori](http://osu.ppy.sh/g/11) | Rendono il gioco eccellente aggiungendo nuove funzioni e correggendo i bug |
-| [osu! alumni](/wiki/People/Osu!_Alumni) | Coloro che sono conosciuti per il loro contributi che se ne sono andati |
+| [osu! alumni](/wiki/People/osu!_Alumni) | Coloro che sono conosciuti per il loro contributi che se ne sono andati |
 | [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
 | [osu!news](http://osu.ppy.sh/g/25) | Provvedono a darti della lettura di qualità dal 2013 |
 | [Staff dei Tornei](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |

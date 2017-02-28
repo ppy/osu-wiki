@@ -5,7 +5,7 @@ Kontributor Komunitas
 
 Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](/wiki/Glossary) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
 
-Berbeda dari [osu! Alumni](/wiki/People/Osu!_Alumni) yang merupakan anggota osu!tim ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), dan lainnya) sebelumnya yang telah mengundurkan diri, lencana para Kontributor Komunitas tersebut diberikan kepada pekerja lepas publik yang telah bekerja diatas segala panggilan pekerjaan apapun untuk mengembangkan osu! dan lingkup komunitas.
+Berbeda dari [osu! Alumni](/wiki/People/osu!_Alumni) yang merupakan anggota osu!tim ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), dan lainnya) sebelumnya yang telah mengundurkan diri, lencana para Kontributor Komunitas tersebut diberikan kepada pekerja lepas publik yang telah bekerja diatas segala panggilan pekerjaan apapun untuk mengembangkan osu! dan lingkup komunitas.
 
 Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 

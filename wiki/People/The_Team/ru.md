@@ -50,7 +50,7 @@
 | [Глобальные модераторы (GMT)](/wiki/People/Global_Moderation_Team) | Наблюдение за форумами и игровым чатом |
 | [Номинаторы карт (BNG)](/wiki/People/Beatmap_Nomination_Group) | Те, кто номинирует карты и днём и ночью |
 | [Разработчики](http://osu.ppy.sh/g/11) | Реализация нововведений, исправление багов |
-| [osu!alumni](/wiki/People/Osu!_Alumni) | Those known for their contributions who have since moved on |
+| [osu!alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Техподдержка](/wiki/People/Support_Team) | Помощь в разделах Help и Feature Requests |
 | [osu!news](http://osu.ppy.sh/g/25) | Качественные статьи с 2013 года |
 | [Турнирный персонал](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |

@@ -50,7 +50,7 @@ Grupo de usuários
 | [Time de Moderação Global](/wiki/People/Global_Moderation_Team) | Tomam conta dos forums e chat in-game |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Te ajudam a melhorar seus Beatmaps |
 | [Desenvolvedores](http://osu.ppy.sh/g/11) | Tornando o jogo incrível adicionando novos recursos e concretando erros |
-| [osu! alumni](/wiki/People/Osu!_Alumni) | São reconhecidos por suas contribuições mas que não são mais ativos |
+| [osu! alumni](/wiki/People/osu!_Alumni) | São reconhecidos por suas contribuições mas que não são mais ativos |
 | [Equipe de Suporte](/wiki/People/Support_Team) | Assistentes dos subforums Tech Support/Feature Request |
 | [osu!news](http://osu.ppy.sh/g/25) | Disponibilizando boas noticias desde 2013 |
 | [Organizadores de Torneios](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |

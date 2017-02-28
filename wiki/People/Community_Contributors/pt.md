@@ -5,7 +5,7 @@ Contribuidores da Comunidade
 
 Os **Contribuidores da Comunidade** são as pessoas que deram tudo se si para o bem da comunidade do [osu!](/wiki/Glossary) - criando ferramentas e funcionalidades que usamos com frequência hoje. Essas pessoas ganharam um emblema que indica que eles fizeram algo notável pela comunidade.
 
-Não os confunda com [osu!Alumni](/wiki/People/Osu!_Alumni) que são membros de alguma equipe ([GMT](/wiki/People/Global_Moderation_Team),[QAT](/wiki/People/Quality_Assurance_Team),etc) que decidiram se afastar, Emblema de Contribuidores da Comunidade são dados a usuários que foram além das expectativas com ideias e ferramentas inovadoras que beneficiaram a comunidade.
+Não os confunda com [osu!Alumni](/wiki/People/osu!_Alumni) que são membros de alguma equipe ([GMT](/wiki/People/Global_Moderation_Team),[QAT](/wiki/People/Quality_Assurance_Team),etc) que decidiram se afastar, Emblema de Contribuidores da Comunidade são dados a usuários que foram além das expectativas com ideias e ferramentas inovadoras que beneficiaram a comunidade.
 
 Usuários que atualmente possuem o emblema:
 
