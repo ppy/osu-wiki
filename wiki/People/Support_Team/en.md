@@ -1,7 +1,10 @@
+Support Team
+===============
+
 The **Support Team** (also known as **Support Team Redux**, not to be confused with the account support team, colloquially known as the "Support Team") are members of the osu! staff whom are focused at forum moderation on several subforums: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (excluding [Tournaments](https://osu.ppy.sh/forum/55) and [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), and [Help](https://osu.ppy.sh/forum/5).
 
 Responsibilities
-================
+-------------------
 
 The Support Team is responsible on:
 
@@ -11,7 +14,8 @@ The Support Team is responsible on:
 If someone needs any assistance on the said subforums, they can be first approached.
 
 Team Members
-============
+---------------
+
 *Every Support Team member speaks English unless specified otherwise. [Support Team's Group Page](https://osu.ppy.sh/g/22).*
 
 | Name | Languages |

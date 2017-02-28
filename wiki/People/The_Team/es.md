@@ -1,3 +1,5 @@
+El Equipo de osu!
+===================
 
 Creador
 ----------------------
@@ -48,7 +50,7 @@ Grupos de Usuarios
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Encargados de revisar los foros y el Chat dentro del juego |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Los usuarios que van más allá de la llamada para garantizar tus mapas sean Calificados |
 | [Developers](http://osu.ppy.sh/g/11) | Hacen el juego grandioso agregando nuevas funciones y arreglando sus errores |
-| [osu! alumni](/wiki/People/Osu!_Alumni) | Conocidos por sus contribuciones que desde entonces siguieron adelante |
+| [osu! alumni](/wiki/People/osu!_Alumni) | Conocidos por sus contribuciones que desde entonces siguieron adelante |
 | [Support Team Redux](/wiki/People/Support_Team) | Ayuda/Solicitudes de funciones |
 | [osu!news](http://osu.ppy.sh/g/25) | Encargados de traerte noticias de calidad desde 2013 |
 | [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |

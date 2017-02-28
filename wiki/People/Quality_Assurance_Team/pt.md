@@ -1,16 +1,19 @@
+Quality Assurance Team (Português)
+=====================================
+
 **Quality Assurance Team**, também conhecido como QAT, são os moderadores de qualidade que julgam os mapas recém-qualificados, procurando por boa jogabilidade e qualidade, retirando seu status de "Qualified" quando apropriado. Eles formam os pilares de controle básico e reforçam a qualidade esperada de todos os mapas que entrarem no processo de ranking.
 
 Os membros do QAT são bem rígidos, já que seu papel na comunidade envolve basicamente o asseguramento da qualidade de todos os mapas.
 
-Membros desse time serão promovidos do [BN](PT:Beatmap_Nomination_Group "wikilink"), quando os mesmos forem considerados aptos. Membros do QAT tem o nome vermelho no chat, diferente dos membros do BN.
+Membros desse time serão promovidos do [BN](/wiki/People/Beatmap_Nomination_Group), quando os mesmos forem considerados aptos. Membros do QAT tem o nome vermelho no chat, diferente dos membros do BN.
 
 Membros da equipe
 -----------------
 
 [Página da Equipe](http://osu.ppy.sh/g/7)
 
-| Nomes | Standard | Taiko | Catch | Mania | Idiomas adicionais |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Nomes | osu! | osu!taiko | osu!catch | osu!mania | Idiomas adicionais |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Japanese, some French |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Spanish |

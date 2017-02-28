@@ -1,9 +1,12 @@
-Die **Beatmap Nomination Group** (dt.: Beatmap Nominierungsgruppe), auch bekannt als "BN", ist ein Gruppe mit der Aufgabe, [Beatmaps zu ranken](DE:Beatmap "wikilink"). Seit dem 22. August 2014 gehört diese Gruppe nicht mehr zum Moderationsteam und haben demnach auch keine moderatorische Kraft und keinen farbigen Namen mehr. Am 1. Februar 2015 wurde das Team vom Beatmap Appreciation Team zum Beatmap Nominaton Group umbenannt, sowie verloren sie ihren rotfarbigen Namen im Forum.
+Beatmap Nomination Group
+===========================
+
+Die **Beatmap Nomination Group** (dt.: Beatmap Nominierungsgruppe), auch bekannt als "BN", ist ein Gruppe mit der Aufgabe, [Beatmaps zu ranken](/wiki/Beatmaps). Seit dem 22. August 2014 gehört diese Gruppe nicht mehr zum Moderationsteam und haben demnach auch keine moderatorische Kraft und keinen farbigen Namen mehr. Am 1. Februar 2015 wurde das Team vom Beatmap Appreciation Team zum Beatmap Nominaton Group umbenannt, sowie verloren sie ihren rotfarbigen Namen im Forum.
 
 Rollen und Verantwortung
 ------------------------
 
-Mitglieder des **Beatmap Nomination Group** sind verantwortlich für das [Modden](DE:Modding "wikilink") von [Pending Beatmaps](DE:Beatmap "wikilink") während des Rankingzyklus. BNs sind Leute, die man anschreiben kann, wenn es um das Modding geht oder um Meinungen und Tipps bezüglich Mapping oder Gameplay herholen zu möchten.
+Mitglieder des **Beatmap Nomination Group** sind verantwortlich für das [Modden](/wiki/Modding) von [Pending Beatmaps](/wiki/Beatmaps) während des Rankingzyklus. BNs sind Leute, die man anschreiben kann, wenn es um das Moddinggeht oder um Meinungen und Tipps bezüglich Mapping oder Gameplay herholen zu möchten.
 
 Ein BN Mitglied werden
 ----------------------
@@ -15,8 +18,8 @@ Mitglieder
 
 *Anmerkung: Alle BN Mitglieder sprechen ausschließlich Englisch mit der Ausnahme, wenn etwas zusätzlich erwähnt wird.* [Link](http://osu.ppy.sh/g/28)
 
-| Name | Standard | Taiko | Catch | Mania | Zusätzlich gesprochene Sprachen |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Zusätzlich gesprochene Sprachen |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polnisch |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesisch |
