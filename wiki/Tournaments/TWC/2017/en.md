@@ -60,7 +60,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | ![](/wiki/shared/flag/Cn.gif) | **China** | **[Nikubenki Saya](https://new.ppy.sh/u/2250591)**, [[sACRIFICe]](https://new.ppy.sh/u/6294200), [unsigned_int](https://new.ppy.sh/u/5835635), [Suikaaaa](https://new.ppy.sh/u/3014603) [JEFF_Y](https://new.ppy.sh/u/2534853) |
 | ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[duski](https://new.ppy.sh/u/6506484)**, [Sylarn](https://new.ppy.sh/u/4266840), [Maffe](https://new.ppy.sh/u/4773855), [Reikocchi](https://new.ppy.sh/u/1110109), [loe4boe](https://new.ppy.sh/u/831807), [LefafeI](https://new.ppy.sh/u/2295850) |
 | ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [-Valony-](https://new.ppy.sh/u/6487540), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
-| ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)** | **[thomas1195](https://new.ppy.sh/u/1691488)**, [magnomizer](https://new.ppy.sh/u/1893718), [iloveyou4ever](https://new.ppy.sh/u/4964596), [john571](https://new.ppy.sh/u/2930055), [sing216](https://new.ppy.sh/u/6096445), [Chocola_2287](https://new.ppy.sh/u/1163051) |
+| ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)**, [magnomizer](https://new.ppy.sh/u/1893718), [iloveyou4ever](https://new.ppy.sh/u/4964596), [john571](https://new.ppy.sh/u/2930055), [sing216](https://new.ppy.sh/u/6096445), [Chocola_2287](https://new.ppy.sh/u/1163051) |
 | ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)**, [_yu68](https://new.ppy.sh/u/6170507), [shinchikuhome](https://new.ppy.sh/u/3174184), [uone](https://new.ppy.sh/u/5321719), [asuasu_yura](https://new.ppy.sh/u/2875968), [sobatsuyu](https://new.ppy.sh/u/2076374) |
 | ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[Jerry](https://new.ppy.sh/u/605973)**, [taiko_maniac1811](https://new.ppy.sh/u/595764), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
@@ -76,7 +76,6 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | | Country | Captain |
 | ---: | :---: | :--- |
-
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
 | ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Nishizumi](https://new.ppy.sh/u/2496768)** |
 | ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
