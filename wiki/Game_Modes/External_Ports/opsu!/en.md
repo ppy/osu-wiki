@@ -403,8 +403,8 @@ Otherwise (especially if it keep crashing), transport the beatmaps to opsu! and 
 _opsu! Main Menu (first version)_
 
 - Main menu image:-
-  - ? (character is _IA_ from _Vocaloid_)
-  - [Teddy Kelley's photo](https://unsplash.com/photos/weuWmzv7xnU)
+  - Generic _Vocaloid_ wallpaper (character is _IA_ from _Vocaloid_)
+  - [Teddy Kelley's photo](https://unsplash.com/photos/weuWmzv7xnU) [Current]
 - The theme song used:-
   - [Jingle Punks: On the Bach](https://www.youtube.com/audiolibrary/music)
   - [Rainbows - Kevin MacLeod](incompetech.com) [Current]

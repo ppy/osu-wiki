@@ -2,11 +2,11 @@
 [Game_Modes wikilink]: ../ "Game Modes"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!mania"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "more info can be found on Play Styles under osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
 [Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "more info can be found on Score under osu!mania Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
+[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard"
 [Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "osu!mania Skinning"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
@@ -18,6 +18,7 @@
 [osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Mode"
 [osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
 [osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
+[set fixed scaling image]: ./img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/Mania.gif "osu!mania icon"
@@ -79,16 +80,29 @@ Do note that while the preset number of keys will not be doubled on osu!mania-sp
 
 ![Speed Change value is located at the top-right][osu!mania SC image]
 
-_Speed Change value is located at the top-right_
+_The upper-right corner displays the scroll speed.
+This image shows the difference between the BPM scaling and fixed scroll speeds respectively._
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower).
 
+The lowest limit is 1 and the highest limit is 40.
+
+##### BPM scaling and Fixed scroll speed.
+
 ![A difference Speed Change can make depending on beatmap's density][osu!mania SCDiff image]
 
-_A difference Speed Change can make depending on beatmap's density_
+_A difference Speed Change can make depending on beatmap's density, BPM, and scaling system used_
 
-The lowest limit is 1 and the highest limit is 40.
-By default, it is 7.
+**BPM scaling** is the current default old scaling system which scale the scroll speed relative to the current BPM played.
+There will be a difference in scroll speed when playing a 100BPM (scrolls slower) and 200BPM (scrolls faster) beatmap with the same scaling speed.
+
+![Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`][set fixed scaling image]
+
+_Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`_
+
+**Fixed** scroll speed is the new system that allows a fixed absolute scrolling speed.
+It will _always_ scroll in that speed regardless of current BPM.
+[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/forum/t/254145).
 
 ### Gameplay
 
@@ -139,7 +153,13 @@ Depending on the song and mapping quirks, it is possible that other notes or hol
 
 ![Options keyboard section][Options keyboard image]
 
-_[Refer to Options-&gt;Input under Keyboard section, specifically the osu!mania layout button to adjust the key settings][Options#Keyboard wikilink]_
+_[Refer to Options-&gt;Input under Keyboard section, specifically the `osu!mania layout` button to adjust the key settings][Options#Keyboard wikilink]_
+
+Do note that the controls information provided below refers to the old key settings used in Options where the keys are mapped relatively and applied to all key settings.
+
+The new key settings require the player to manually set it using the `osu!mania layout` button provided above for _every_ key layout (unmapped key layouts will use the default key settings instead).
+
+The current default key settings is based on _Symmetrical_ style.
 
 ### Normal
 
