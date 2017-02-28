@@ -64,7 +64,7 @@ _Also see the [osu!weekly #53](https://osu.ppy.sh/news/141509444448) announement
 
 ## November 2016
 
-_Also see the [Recognising the Best of the Best](https://osu.ppy.sh/news/152637359823) announement post.
+_Also see the [Recognising the Best of the Best](https://osu.ppy.sh/news/152637359823) announement post._
 
 | User | Contributions |
 | ---- | ------------- |
