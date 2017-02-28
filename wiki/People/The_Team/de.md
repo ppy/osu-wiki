@@ -40,7 +40,7 @@ Inaktive
 | Phil | Forum Design Arbeit |
 | [Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales Pippi Entwurf und Grafikdesign |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
-| [woc2006](https://osu.ppy.sh/u/1105845) | osu! Entwickler Team, osu! Mania Modus Entwickler |
+| [woc2006](https://osu.ppy.sh/u/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
 
 Benutzergruppen
 ----------------------

@@ -35,7 +35,7 @@
 
 Все номинаторы разговаривают на английском, не считая ниже упомянутых языков. Актуальный список можно найти [здесь](https://osu.ppy.sh/g/28).
 
-| Имя | Standard | Taiko | Catch | Mania | Дополнительные языки |
+| Имя | osu! | osu!taiko | osu!catch | osu!mania | Дополнительные языки |
 | ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | польский |

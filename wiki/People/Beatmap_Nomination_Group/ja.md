@@ -18,7 +18,7 @@ BNになるには
 
 *注意点: 全てのBNは何か記載されていなければ英語を話します。* [Link](http://osu.ppy.sh/g/28)
 
-| Names | Standard | Taiko | Catch | Mania | Additional Languages |
+| Names | osu! | osu!taiko | osu!catch | osu!mania | Additional Languages |
 | ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |

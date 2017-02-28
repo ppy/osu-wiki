@@ -20,7 +20,7 @@ Mga Members
 
 *Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.* [Link](http://osu.ppy.sh/g/7)
 
-| Name | Standard | Taiko | Catch | Mania | Ibang wika na naiintindihan |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Ibang wika na naiintindihan |
 | ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |

@@ -1,7 +1,7 @@
 Beatmap Nomination Group
 =========================
 
-The **Beatmap Nomination Group**, more commonly referred to as BN, is a group in charge of [beatmap nomination](/wiki/Beatmaps). This group has undergone many changes recently. As of August 22, 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. The most recent change was on February 1, 2015 when the team was changed from Beatmap Appreciation Team to Beatmap Nominator Group and lost their red forum name.
+The **Beatmap Nomination Group**, more commonly referred to as BN, is a group in charge of [beatmap nomination](/wiki/Beatmaps). This group has undergone many changes recently. As of August 22, 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. The most recent change was on February 1, 2015 when the team was changed from Beatmap Appreciation Team to Beatmap Nominator Group.
 
 Roles and Responsibilities
 --------------------------
@@ -20,9 +20,9 @@ Team Members
 
 *Please note: All BN speak English unless otherwise noted.* [Link](http://osu.ppy.sh/g/28)
 
-Also note: the "Modes" column of the table below denotes which game mode(s) the user would focus more at, but aren't forcibly subject to that game mode(s).
+Also note: the game modes columns of the table below denotes which game mode(s) the user would focus more at, but aren't forcibly subject to that game mode(s).
 
-| Name | Standard | Taiko | Catch | Mania | Additional Languages |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Additional Languages |
 | ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
