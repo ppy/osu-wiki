@@ -276,7 +276,7 @@ osu! tourney는 다양한 디자인을 위해 클라이언트 스킨이 수정 �
 
 이것에 최적화된 해상도는 1280x720 60FPS입니다.
 
-![osu!tourney 팀 아이콘 입니다. 왼쪽 아이콘 이름은 Team 1.png 그리고 오른쪽 아이콘 이름은 named Team 2.png 입니다.](Osutourneyicons.png "fig:osu!tourney 팀 아이콘 입니다. 왼쪽 아이콘 이름은 Team 1.png 그리고 오른쪽 아이콘 이름은 Team 2.png" 입니다.)
+![osu!tourney 팀 아이콘 입니다. 왼쪽 아이콘 이름은 Team 1.png 그리고 오른쪽 아이콘 이름은 named Team 2.png 입니다.](Osutourneyicons.png "fig:osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
 
 (예: 국기 또는 사용자 아바타)을 skin폴더에 생성할 수 있습니다. 아이콘은 반드시 /osu!/Skins/User/tournament/icons  `.../osu!/Skins/User/tournament/icons`. 이 경로로 배치해야 합니다. 또한 모든 아이콘은 팀 이름과 정확히 일치해야 합니다.
 
