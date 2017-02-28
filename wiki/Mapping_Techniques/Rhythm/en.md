@@ -8,7 +8,7 @@ Rhythm techniques use the beat of the music to place objects.
 2. [Linear Back and Forth](./Rhythm/Linear_Back_and_Forth/)
 3. [Hub and Spoke](./Rhythm/Hub_and_Spoke/)
 4. [Step-Too-Fars](./Rhythm/Step-Too-Fars/)
-5. [15° Patterns](./Rhythm/15_degree_Patterns/)
+5. [15 Degree Patterns](./Rhythm/15_Degree_Patterns/)
 6. [Spacing Out](./Rhythm/Spacing_Out/)
 7. [Accelerated Spacing](./Rhythm/Accelerated_Spacing/)
 8. [Drain Sections](./Rhythm/Drain_Sections/)
