@@ -13,7 +13,7 @@ QAT 구성원의 역할은 정기적으로 비트맵의 퀄리티를 평가하�
 [Group Link](http://osu.ppy.sh/g/7)
 
 | Name | Standard | Taiko | Catch | Mania | Additional Languages Spoken |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Japanese, some French |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Spanish |

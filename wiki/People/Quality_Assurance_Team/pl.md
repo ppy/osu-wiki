@@ -13,7 +13,7 @@ Członkowie zespołu
 [Strona grupy](http://osu.ppy.sh/g/7)
 
 | Nick | Standard | Taiko | Catch | Mania | Dodatkowe języki |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Tak](/wiki/shared/Insane-s.png "Tak") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Nie](/wiki/shared/Na-m.png "Nie") | Japoński, częściowo Francuski |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Tak](/wiki/shared/Insane-t.png "Tak") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Nie](/wiki/shared/Na-m.png "Nie") | Hiszpański |

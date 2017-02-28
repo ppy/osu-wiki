@@ -19,7 +19,7 @@ Membri del Team
 *NOTA: Tutti i BN parlano Inglese se non scritto il contrario.* [Link](http://osu.ppy.sh/g/28)
 
 | Name | Standard | Taiko | Catch | Mania | Additional Languages |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesian |

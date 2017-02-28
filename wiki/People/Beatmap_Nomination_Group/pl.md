@@ -21,7 +21,7 @@ Członkowie zespołu
 *Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.* [Strona grupy](http://osu.ppy.sh/g/28)
 
 | Pseudonim | Standard | Taiko | Catch | Mania | Dodatkowe języki |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Tak](/wiki/shared/Insane-f.png "Tak") | ![Nie](/wiki/shared/Na-m.png "Nie") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Polski |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Indonezyjski |

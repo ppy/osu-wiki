@@ -13,7 +13,7 @@ Anggota Tim
 [Tautan Grup](http://osu.ppy.sh/g/7)
 
 | Nama | Standard | Taiko | Catch | Mania | Bahasa Tambahan |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | JJepang, beberapa Perancis |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Spanyol |

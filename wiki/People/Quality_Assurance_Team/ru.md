@@ -28,7 +28,7 @@ QAT была создана 21 августа 2014 года в результа�
 [Всегда актуальная ссылка](http://osu.ppy.sh/g/7) (список). *Помимо указанных языков, все эти люди знают английский.*
 
 | Имя | Standard | Taiko | Catch | Mania | Дополнительные языки |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | японский, частично французский |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | испанский |
