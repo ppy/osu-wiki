@@ -157,8 +157,3 @@ The last month of 2008 had plenty in store for osu! development. By osu!'s secon
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 
 Another noticeable event is that the Catch the Beat score is [wiped](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) this month. Since then, the score multiplier of mods has been changed on Catch The Beat mod as well.
-
-The Future
-==========
-
-*"Think big, and expect big."* — peppy
