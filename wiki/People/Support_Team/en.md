@@ -20,15 +20,14 @@ Team Members
 
 | Name | Languages |
 | ---- | --------- |
-| [deadbeat](https://osu.ppy.sh/u/128370) | |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | |
 | [Ezoda](https://osu.ppy.sh/u/1231180) | German |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polish |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | |
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  |
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish |
 | [smoogipooo](https://osu.ppy.sh/u/1040328) | |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish |
 | [Tom94](https://osu.ppy.sh/u/1857058) | German |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | Dutch |
