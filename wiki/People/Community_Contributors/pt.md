@@ -21,7 +21,7 @@ Usuários que atualmente possuem o emblema:
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Criador do [osu!stats](http://osustats.ppy.sh/) e outros utilitários para beatmapping, modding e jogabilidade. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Performance destaque em resolução de bugs/Teste de novas funcionalidades e lidando com perguntas de usuários com problemas. |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) |  anos trabalhando duro e por-traz-das-cenas fazendo os [beatmap packs](http://osu.ppy.sh/p/packlist) e por vários anos gerenciando os charts. |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | Anos de contribuição, incluindo a criação da skin original e tornando [storyboarding](/wiki/Storyboarding) mais avançado. |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | Anos de contribuição, incluindo a criação da skin original e tornando [storyboarding](/wiki/Storyboards) mais avançado. |
 | [awp](https://osu.ppy.sh/u/2650) | Antigo gerente da comunidade e moderador, imensas contribuições desde o inicio. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Foi o primeiro gerente da comunidade "improvisado" e moderador global, que serviu de base para os membros do [GMT](/wiki/People/Global_Moderation_Team) seguirem. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Foi o primeiro gerente dos membros da equipe e primeiro gerente dos BATs criou sozinho um time de moderação de beatmaps elite. |

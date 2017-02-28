@@ -1,10 +1,12 @@
+Centro de Ayuda
+================
+
 Aquí podrás encontrar asistencia para todo tipo de problemas. Utiliza el **Listado de Contenido** para acceder rápidamente al problema que buscas.
 
 Problemas relacionados con tu cuenta
-====================================
+----------------------------------------
 
-¡La bandera que se muestra en mi cuenta es incorrecta!
-------------------------------------------------------
+### ¡La bandera que se muestra en mi cuenta es incorrecta!
 
 Tu nacionalidad es determinada automáticamente por osu!, basada en desde donde has registrado la cuenta, geográficamente hablando. Por ejemplo, si te has registrado desde Estados Unidos, la nacionalidad de tu cuenta será automáticamente detectada como si fuera de Estados Unidos, y también asignada a los rankings de Estados Unidos.
 
@@ -14,8 +16,7 @@ Ofrecernos información falsa puede resultar en un bloqueo de tu cuenta, o en un
 
 ------------------------------------------------------------------------
 
-¡He olvidado mi usuario o contraseña!
--------------------------------------
+### ¡He olvidado mi usuario o contraseña!
 
 Por favor, utiliza **<https://osu.ppy.sh/p/forgot>** para recuperar tu cuenta automáticamente, suponiendo que todavía tienes acceso al correo que tienes asignado a tu cuenta de osu!.
 
@@ -25,8 +26,7 @@ Es preferible que nos contactes desde el email que tienes asociado a tu cuenta d
 
 ------------------------------------------------------------------------
 
-Mi cuenta ha sido baneada o restringida. ¿Qué hago?
----------------------------------------------------
+### Mi cuenta ha sido baneada o restringida. ¿Qué hago?
 
 Antes de nada, siéntate un rato y recapacita. ¿Has usado algún programa externo para tener ventaja sobre otros usuarios? ¿Has creado varias cuentas o violado cualquier norma de la comunidad?
 
@@ -46,8 +46,7 @@ Los usuarios que han sido bloqueados por segunda vez después de volver de un bl
 
 ------------------------------------------------------------------------
 
-¡Mi cuenta ha sido robada!
---------------------------
+### ¡Mi cuenta ha sido robada!
 
 Prueba a usar **<http://osu.ppy.sh/p/forgot>** para ver si tu cuenta sigue asociada a tu email. Si es así, podrás recuperar tu contraseña sin necesidad de contactar con Support.
 
@@ -57,8 +56,7 @@ Por favor, **no incluyas** repeticiones o información de puntuaciones en el tic
 
 ------------------------------------------------------------------------
 
-¿Puedo tener varias cuentas o jugar en la cuenta de otra persona?
------------------------------------------------------------------
+### ¿Puedo tener varias cuentas o jugar en la cuenta de otra persona?
 
 La respuesta es simple, **NO**. Probablemente esta sea la regla que más en serio nos tomamos, ya que el ranking no tendría sentido si cada uno tuviera varias cuentas.
 
@@ -76,8 +74,7 @@ Si has creado más de una cuenta sin saber que esta regla existía, deja de juga
 
 ------------------------------------------------------------------------
 
-¿Puedo cambiarme mi nombre de usuario?
---------------------------------------
+### ¿Puedo cambiarme mi nombre de usuario?
 
 Aquellos usuarios que hayan sido osu!supporter alguna vez pueden cambiar su nombre de usuario desde [la osu!store.](http://store.ppy.sh/store/product/32)
 

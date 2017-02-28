@@ -1,10 +1,12 @@
+Help Center
+==============
+
 Here you can find assistance for multiple issues across various fields. Use the **Content Listing** to jump to your question directly!
 
 Account related issues
-======================
+-------------------------
 
-The flag on my account profile is wrong!
-----------------------------------------
+### The flag on my account profile is wrong!
 
 Your nationality is automatically determined by the game based on where you register your account from geographically speaking, meaning that if you register an account in the US, your account will be automatically assigned as being from the United States, and also placed within the US country rankings.
 
@@ -14,8 +16,7 @@ Providing false information to us may result in your account being placed under 
 
 ------------------------------------------------------------------------
 
-I've forgotten my username and password!
-----------------------------------------
+### I've forgotten my username and password!
 
 Please use **<https://osu.ppy.sh/p/forgot>** to reclaim your account automatically, provided that you still have access to the email you registered with.
 
@@ -25,8 +26,7 @@ It also helps significantly if you email us from your registration email, as thi
 
 ------------------------------------------------------------------------
 
-My account has been banned/disabled/restricted! What do I do now?
------------------------------------------------------------------
+### My account has been banned/disabled/restricted! What do I do now?
 
 First, sit down and think for a short while. Have you used any third-party cheating utilities or any other programs to try and get an edge over other users? Have you been making multiple accounts or otherwise violating our community rules?
 
@@ -46,8 +46,7 @@ Users that are banned after having returned from a successful appeal will be per
 
 ------------------------------------------------------------------------
 
-My account has been stolen!
----------------------------
+### My account has been stolen!
 
 Try using **<http://osu.ppy.sh/p/forgot>** to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
@@ -57,8 +56,7 @@ Please **do not** include replay or score data in your ticket - we cannot use th
 
 ------------------------------------------------------------------------
 
-Can I make more than one account for a fresh start or play on another person's account?
----------------------------------------------------------------------------------------
+### Can I make more than one account for a fresh start or play on another person's account?
 
 Simply put, **no - you can not**. This is possibly our most enforced rule as far as things go, and it exists solely to keep ranking fair for the vast majority of players who obey the rules.
 
@@ -76,10 +74,9 @@ If you have made an account whilst being unaware of this rule somehow, cease pla
 
 ------------------------------------------------------------------------
 
-Am I allowed to change my account's username?
----------------------------------------------
+### Am I allowed to change my account's username?
 
-osu! supporters can get change their usernames, which can be [at the osu!store](http://store.ppy.sh/store/product/32).
+[osu!supporters](/wiki/osu!supporter) can get change their usernames, which can be [at the osu!store](http://store.ppy.sh/store/product/32).
 
 There are some points to username changes to know:
 
@@ -91,10 +88,9 @@ There are some points to username changes to know:
 ------------------------------------------------------------------------
 
 Website related issues
-======================
+------------------------
 
-I've paid for a supporter tag, but still haven't got it!
---------------------------------------------------------
+### I've paid for a supporter tag, but still haven't got it!
 
 Payments can take time to process, especially if you don't use Paypal, so be patient and wait 24 hours.
 
@@ -104,8 +100,7 @@ If you still haven't received your supporter tag after all this, please e-mail a
 
 ------------------------------------------------------------------------
 
-My support ticket was closed with no response!
-----------------------------------------------
+### My support ticket was closed with no response!
 
 This means that the support staff have determined that your issue is not appropriate for this service.
 
@@ -113,8 +108,7 @@ If you have been banned in the past, it is a warning call to be more truthful an
 
 ------------------------------------------------------------------------
 
-My user page has been locked and I can't edit it! Why?
-------------------------------------------------------
+### My user page has been locked and I can't edit it! Why?
 
 If your user page has been locked, it means that one of our volunteer moderators has judged it to have content which is inappropriate for our community. Usually, these offensive pages are cleared first, and a warning issued.
 
@@ -124,17 +118,15 @@ If you believe that you have had your user page access revoked in error, feel fr
 
 ------------------------------------------------------------------------
 
-What are these "user pages" that I see on other players profiles?
------------------------------------------------------------------
+### What are these "user pages" that I see on other players profiles?
 
 osu!supporters are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the community rules!
 
 ------------------------------------------------------------------------
 
-When I try to register, all the fields say "invalid request"!
--------------------------------------------------------------
+### When I try to register, all the fields say "invalid request"!
 
-This is a known issue, and we aren't yet sure what causes it. Some possible workarounds are:
+This has been a known issue; however, we aren't sure what causes this problem. If you see the described issue, try these workarounds:
 
 1.  Make sure JavaScript is enabled and osu.ppy.sh is allowed to use it
 2.  Register on another browser
@@ -144,43 +136,38 @@ If none of these solutions work for you, or the first two don't work and you hav
 
 ------------------------------------------------------------------------
 
-Do I need to use my email address to register?
-----------------------------------------------
+### Do I need to use my email address to register?
 
 No - **osu! authenticates your account by having you log in to the game client**. If you have trouble connecting with the client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
 ------------------------------------------------------------------------
 
-I can't search for a beatmap artist who's name is less than 3 characters long!
-------------------------------------------------------------------------------
+### I can't search for a beatmap artist who's name is less than 3 characters long!
 
 Due to the limitation of the current search engine, it is simply not possible to search for less than three characters at once. If you want to find a specific artist with a short name, try using the Google Search bar at the upper left-hand corner and typing the artist's name in enclosed quotation marks - such as "Xi", for instance.
 
 ------------------------------------------------------------------------
 
-My stats on the web are all wrong! Help!
-----------------------------------------
+### My stats on the web are all wrong! Help!
 
 You have most likely switched your web profile view to a different game mode. Click on your primary game mode and your normal stats will come back.
 
 ------------------------------------------------------------------------
 
 Gameplay related issues
-=======================
+----------------------------
 
-My combo/scores/accuracy display are missing!
----------------------------------------------
+### My combo/scores/accuracy display are missing!
 
 A feature that toggles the HUD (scores, combo, accuracy display) was added recently.
 
-To enable / disable this feature, simply hit **shift + tab**.
+To enable / disable this feature, simply hit `Shift` + `Tab`.
 
-If you changed the keybinding that toggles the scoreboard, press and hold shift and press the key that toggles your scoreboard instead.
+If you changed the keybinding that toggles the scoreboard, press and hold `Shift` and press the key that toggles your scoreboard instead.
 
 ------------------------------------------------------------------------
 
-I can't login or connect to the game at all!
---------------------------------------------
+### I can't login or connect to the game at all!
 
 Please ensure that osu! is allowed full access in whatever firewall or anti-virus software you may be using - internet connectivity is required to log into our game servers.
 
@@ -190,8 +177,7 @@ If you're still having issues connecting to our game servers, please submit a su
 
 ------------------------------------------------------------------------
 
-I receive some sort of server-side error when trying to play online!
---------------------------------------------------------------------
+### I receive some sort of server-side error when trying to play online!
 
 Are you using an open connection, such as a proxy, VPN or university campus internet?
 
@@ -201,8 +187,7 @@ If you are not using any of the above, then you will need to send in a support t
 
 ------------------------------------------------------------------------
 
-My scores are missing!
-----------------------
+### My scores are missing!
 
 There are few causes for this:
 
@@ -224,8 +209,7 @@ This is normal - as you play other maps, the game client will automatically down
 
 ------------------------------------------------------------------------
 
-White trails / smoke appears when playing, how do I remove it?
---------------------------------------------------------------
+### White trails / smoke appears when playing, how do I remove it?
 
 These trails are called **smoke** and can be used to draw on your playfield for novelty's sake. Anybody who is spectating you can see this smoke as well.
 
@@ -237,21 +221,19 @@ If smoke appears when you don't want it to, go to **Main Menu**, from there sele
 
 ------------------------------------------------------------------------
 
-How do I save my own replay of a completed song?
-------------------------------------------------
+### How do I save my own replay of a completed song?
 
-You can save your replay after you have completed the song, in order to do that, once you are at the post-game results screen, hit the **F2** button. That will save the replay in the **/Replays/** folder under the osu! installation directory.
+You can save your replay after you have completed the song, in order to do that, once you are at the post-game results screen, hit the `F2` button. That will save the replay in the `/Replays/` folder under the osu! installation directory.
 
-If you have forgot to save the replay at the end of the song, don't panic! You can always check local ranking of your song, select desired score, and hit **F2**. osu! automatically saves all replays after you complete a song under the **/Data/r/** folder, also contained within the osu! installation directory.
+If you have forgot to save the replay at the end of the song, don't panic! You can always check local ranking of your song, select desired score, and hit `F2`. osu! automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
 
 ------------------------------------------------------------------------
 
-My PC reboots while playing osu!
---------------------------------
+### My PC reboots while playing osu!
 
 This is usually caused by your graphics card or CPU overheating, or some other hardware fault.
 
-To determine the cause more accurately, download a GPU/CPU temperature monitor and keep close watch over your hardware while playing osu!. If your hardware is regularly reaching temperatures of &gt;90C / 194F, you may wish to try enabling the 120FPS/240FPS **Frame Limiter** in the game's options, as this will significantly reduce the load on both your CPU and GPU.
+To determine the cause more accurately, download a GPU/CPU temperature monitor and keep close watch over your hardware while playing osu!. If your hardware is regularly reaching temperatures of >90C / 194F, you may wish to try enabling the 120FPS/240FPS **Frame Limiter** in the game's options, as this will significantly reduce the load on both your CPU and GPU.
 
 Alternatively, setting your CPU/GPU fans to 100% will help dissipate the building heat quicker - there are several applications which will allow you to do this, such as **MSI Afterburner** and **SpeedFan**.\]
 
@@ -261,15 +243,13 @@ If none of this helps, please send in a support ticket to accounts@ppy.sh with m
 
 ------------------------------------------------------------------------
 
-I can't submit my score, osu! says my game version is too old!
---------------------------------------------------------------
+### I can't submit my score, osu! says my game version is too old!
 
-If osu! doesn't update automatically, you can force update by going into **Options** and selecting **Run Updater**. Alternatively, you can close osu! and restart the osu.exe **while holding shift**. This will provide you multiple recovery options.
+If osu! doesn't update automatically, you can force update by going into **Options** and selecting **Run Updater**. Alternatively, you can close osu! and restart the osu.exe **while holding `Shift`**. This will provide you multiple recovery options.
 
 ------------------------------------------------------------------------
 
-I can't hold more than a few keys at once while playing osu!mania.
-------------------------------------------------------------------
+### I can't hold more than a few keys at once while playing osu!mania.
 
 This is due to an issue that most keyboards suffer from called "**ghosting**", where certain key combinations cannot be pressed together. Many newer keyboards can allow up to **6 keys** to be held down at once, mostly in random combinations. This application will help you determine how many keys your keyboard is capable of handling at once
 
@@ -279,8 +259,7 @@ If you cannot reliably play osu!mania due to ghosting issues, then your only rec
 
 ------------------------------------------------------------------------
 
-My scores are not submitting, and I have everything updated!
-------------------------------------------------------------
+### My scores are not submitting, and I have everything updated!
 
 1.  Check if you were connected to the internet while achieving score - your internet might have just died when you achieved the score.
 2.  Make sure you don't have any software running in the background that could block the score submission, such as a firewall.
@@ -290,22 +269,20 @@ Unfortunately, **we cannot upload scores for you** - even by request. If you can
 
 ------------------------------------------------------------------------
 
-My mouse cursor goes crazy whenever I try to play osu!
-------------------------------------------------------
+### My mouse cursor goes crazy whenever I try to play osu!
 
 If you are seeing two cursors, cursor jumps when you move or its movement is simply unnatural, you should make sure that **Mouse Sensitivity** in options is set to **1.0x**. If the mouse cursor is too sluggish and moves far too slowly, try some of the options below, depending on what peripheral you are using:
 
 -   **Mouse**: check if your mouse supports a manual setting of DPI (dots per inch). If so, try adjusting it to alter your mouse sensitivity over using the **Mouse Sensitivity** slider in osu!'s options.
 -   **Tablet**: If you have recently bought a new tablet, and you feel like your mouse is too slow, check out this screenshot for instructions on how to change your area.
 
-<img src="Tabarea.png" title="Tabarea.png" alt="Tabarea.png" width="800" />
+![Tablet Area](Tabarea.png "Tablet Area")
 
 -   **osu! Tablet**: osu! tablet is one of tablets that supports raw input - just enable **Raw Input** in the options and adjust your **Mouse Sensitivity** like you would a mouse!
 
 ------------------------------------------------------------------------
 
-My song list keeps scrolling!
------------------------------
+### My song list keeps scrolling!
 
 In order to fix this, try one of the following steps:
 
@@ -315,16 +292,15 @@ In order to fix this, try one of the following steps:
 
 ------------------------------------------------------------------------
 
-I have changed my settings, and now I can't start osu! or it freezes.
----------------------------------------------------------------------
+### I have changed my settings, and now I can't start osu! or it freezes.
 
 Some computer configurations get affected by weird bugs which cause is unknown. If you happen to change your settings into state that osu! is unusable, there is still possibility to recover osu! **without** reinstalling.
 
 -   **Fixing osu! using recovery dialog**.
 
-1.  Hold down the **Shift** key on your keyboard.
-2.  While holding **Shift**, double click the osu! icon on your desktop.
-3.  Continue holding **Shift** until you see the **recovery dialog prompt**. From there, change your settings to the last known working configuration for you. If you don't remember what were your settings before, you can use the most optimal configuration below.
+1.  Hold down the `Shift` key on your keyboard.
+2.  While holding `Shift`, double click the osu! icon on your desktop.
+3.  Continue holding `Shift` until you see the **recovery dialog prompt**. From there, change your settings to the last known working configuration for you. If you don't remember what were your settings before, you can use the most optimal configuration below.
 
 -   **Optimal Configuration**:
 
@@ -336,8 +312,7 @@ Some computer configurations get affected by weird bugs which cause is unknown. 
 
 ------------------------------------------------------------------------
 
-Notes are not synced to the rhythm of music.
---------------------------------------------
+### Notes are not synced to the rhythm of music.
 
 There may be few possibilities for that to happen, here are the most common ones:
 
@@ -348,32 +323,28 @@ There may be few possibilities for that to happen, here are the most common ones
 
 ------------------------------------------------------------------------
 
-When I try to download Beatmap Packs I get a message requesting me to login to download!
-----------------------------------------------------------------------------------------
+### When I try to download Beatmap Packs I get a message requesting me to login to download!
 
 Try to turn off your browser caching.
 
 ------------------------------------------------------------------------
 
-I never get more than 3 FPS on osu! and my PC doesn't belong in the junkyard yet!
----------------------------------------------------------------------------------
+### I never get more than 3 FPS on osu! and my PC doesn't belong in the junkyard yet!
 
 Try messing around with visual settings (renderer, frame limiter, etc.) This can also happen if you have faulty audio drivers or output devices, so make sure everything is firmly plugged in and you have the latest/proper audio drivers for your soundcard.
 
 ------------------------------------------------------------------------
 
-I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
----------------------------------------------------------------------------
+### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
 
 Once a pack has been downloaded, extract the .rar into your osu! Songs directory. All songs are still .zip'd and/or .osz'd inside the pack, so osu! will need to extract the beatmaps itself the next time you go into Play mode. Do NOT extract the zip's/osz's yourself, or the beatmaps will display incorrectly in osu and will not function properly.
 
 ------------------------------------------------------------------------
 
 Installation
-============
+-------------
 
-Updater Issues
---------------
+### Updater Issues
 
 osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong. This is usually due to unique circumstances on your PC. Here are the steps you should take if updating is failing:
 
@@ -385,32 +356,31 @@ This will solve a **lot** of issues, so please try it before continuing.
 
 From the main menu, click Options and find the **UPDATES** section (near the top). Change your release stream to **stable**.
 
-<img src="UpdaterIssues1.png" title="UpdaterIssues1.png" alt="UpdaterIssues1.png" width="350" />
+![Updater Issues Part 1](UpdaterIssues1.png "Updater Issues Part 1")
 
 -   **Try running the updater manually**
 
 You can find a "Run updater" button at the bottom of options.
 
-<img src="UpdaterIssues2.png" title="UpdaterIssues2.png" alt="UpdaterIssues2.png" width="350" />
+![Updater Issues Part 2](UpdaterIssues1.png "Updater Issues Part 2")
 
 On clicking this button, osu! will close and enter repair mode.
 
-<img src="UpdaterIssues3.png" title="UpdaterIssues3.png" alt="UpdaterIssues3.png" width="350" />
+![Updater Issues Part 3](UpdaterIssues1.png "Updater Issues Part 3")
 
 -   **If you can't start osu!**
 
-You can force the updater to run by creating a new text document in your osu! folder called "help". Right-click in an empty space in your osu! folder, and choose **New &gt; Text Document**.
+You can force the updater to run by creating a new text document in your osu! folder called "help". Right-click in an empty space in your osu! folder, and choose **New > Text Document**.
 
-<img src="UpdaterIssues4.png" title="UpdaterIssues4.png" alt="UpdaterIssues4.png" width="350" />
+![Updater Issues Part 4](UpdaterIssues1.png "Updater Issues Part 4")
 
 Name it **help** and then **run osu!** to start the updater in forced maintenance mode.
 
-<img src="UpdaterIssues5.png" title="UpdaterIssues5.png" alt="UpdaterIssues5.png" width="350" />
+![Updater Issues Part 5](UpdaterIssues5.png "Updater Issues Part 5")
 
 ------------------------------------------------------------------------
 
-How do I download osu!?
------------------------
+### How do I download osu!?
 
 Simply click **Download** in the top bar of any page on the osu! website. Alternately, [click here for a direct link to the download page](https://osu.ppy.sh/p/download).
 
@@ -418,8 +388,7 @@ Please ensure that you are using the latest version of osu! as downloaded from t
 
 ------------------------------------------------------------------------
 
-Where do I register for osu!?
------------------------------
+### Where do I register for osu!?
 
 Simply click "**I'm new!**" in the upper right corner of any page on the osu! website, or go there directly via this link.
 
@@ -429,8 +398,7 @@ If you create your account and do not authenticate it by logging into the game o
 
 ------------------------------------------------------------------------
 
-The game installer throws an error or does not work when I use it!
-------------------------------------------------------------------
+### The game installer throws an error or does not work when I use it!
 
 If game installer throws errors when attempting to install, you can try few things:
 
@@ -440,43 +408,37 @@ If game installer throws errors when attempting to install, you can try few thin
 
 ------------------------------------------------------------------------
 
-I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
----------------------------------------------------------------------------
+### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
 
 Once a pack has been downloaded, extract the .rar into your osu! Songs directory. If you don't know what .rar file is, or how to extract it, you can install free software called 7-zip, after installing it, right click on a beatmap pack file, go to **7-zip** tab, and select "**Extract to 'Beatmap Pack \#xxx**". After you extract the package, you can either double click every single song so osu! opens them, or you can select all songs and drag and drop them into osu! window. Do **not** extract the zip's/osz's yourself, or the beatmaps will display incorrectly in osu and will not function properly.
 
 ------------------------------------------------------------------------
 
-I can hear osu! after launching it, but it's invisible!
--------------------------------------------------------
+### I can hear osu! after launching it, but it's invisible!
 
-Hold **Shift** while starting osu!, and try changing around the settings. Most computers will solve this problem if you use DirectX, vsync and windowed mode, but this may vary from PC to PC.
+Hold `Shift` while starting osu!, and try changing around the settings. Most computers will solve this problem if you use DirectX, vsync and windowed mode, but this may vary from PC to PC.
 
 ------------------------------------------------------------------------
 
-Can't change settings, textures seem corrupted.
------------------------------------------------
+### Can't change settings, textures seem corrupted.
 
 If your can't drag any sliders, checkbox are missing, or your osu! seems overall corrupted, you should try deleting **all \*.dll files** from the folder where your osu! is installed, and then run osu.exe, in order to retrieve them again.
 
 ------------------------------------------------------------------------
 
-Cursor stops when using tablet, but I'm still able to tap.
-----------------------------------------------------------
+### Cursor stops when using tablet, but I'm still able to tap.
 
 In one of the recent updates, a feature called **Raw Input** was introduced. Sadly, tablets manufactured by **Wacom** and some mouses that use proprietary **drivers** are not supported by this feature yet, and using it causes user cursor to stop moving. To fix this issue, simply go to **Options** using input device that still works (mostly likely your mouse) and search for **Raw Input** checkbox and disable it.
 
 ------------------------------------------------------------------------
 
-I have 64-bit Windows and cannot install osu! correctly.
---------------------------------------------------------
+### I have 64-bit Windows and cannot install osu! correctly.
 
 Try to install 64-bit .NET Framework. This should come with the osu! installer.
 
 ------------------------------------------------------------------------
 
-I've installed the game but I'm getting an error about font styles.
--------------------------------------------------------------------
+### I've installed the game but I'm getting an error about font styles.
 
 If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
@@ -493,10 +455,9 @@ See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-
 ------------------------------------------------------------------------
 
 Community Help
-==============
+---------------
 
-I applied to play in an official tournament, but was denied!
-------------------------------------------------------------
+### I applied to play in an official tournament, but was denied!
 
 We scrutinize every participant in our official tournaments closely before allowing them to play. If your account has any history of breaking our community rules, whether it is from multi-accounting, cheating or just generally being a disruption, you may be barred from playing in any official tournaments completely **for a minimum of 1 year from the time of your most recent offense**.
 
@@ -510,8 +471,7 @@ To do so would be to denigrate the efforts of legitimate players who work hard t
 
 ------------------------------------------------------------------------
 
-I would like official support for a tournament/event that I am hosting.
------------------------------------------------------------------------
+### I would like official support for a tournament/event that I am hosting.
 
 We provide official support in the form of streaming support and prize donations to some well-hosted community tournaments and other events upon request.
 
@@ -519,7 +479,7 @@ After you have completed organizing your event and have a full roster of attende
 
 -   The start and end date of the tournament
 -   A link where the tournament can be followed (forum thread/external publicly accessible webpage)
--   A list of osu! users who will need the dedicated [osu!tourney](osu!tourney "wikilink") client
+-   A list of osu! users who will need the dedicated [osu!tourney](/wiki/osu!tourney) client
 -   A short summary about the tournament setup (e.g. A regional 1v1 tournament with special rules)
 -   A rough estimate of the number of participants
 -   A list of your tournament staff and their responsibilities within your competition or event.
@@ -531,10 +491,9 @@ We may take some time to respond to your request, but we will give it ample cons
 ------------------------------------------------------------------------
 
 General Tips & Tricks
-=====================
+---------------------
 
-Troubleshooting Information
----------------------------
+### Troubleshooting Information
 
 -   **Any Issue**
 
@@ -546,7 +505,7 @@ While you might not be able to solve the issue after a single search, it might a
 
 If you're getting an error message that is related to the .NET Framework there might be an issue with the installation or integrity of the .NET Framework. Make sure you have the [.NET Framework 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=17851) as well as the [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) installed. If you do, but are still getting a .NET Framework related error message, try running [.NET Framework Repair Tool](https://www.microsoft.com/en-us/download/details.aspx?id=30135).
 
-Also make sure that you have the latest drivers for your graphics card installed. See [this page](GL_Support_Issues "wikilink") for more information as well as links to where you can download the drivers for your specific graphics card.
+Also make sure that you have the latest drivers for your graphics card installed. See [this page](/wiki/List_of_Guides/GL_Support_Issues) for more information as well as links to where you can download the drivers for your specific graphics card.
 
 Other than that, something with the environment you're running osu! in might be at fault. Make sure that you have all available updates for your operating system installed. It's also a good idea to do scan for malware, just in case.
 
@@ -574,8 +533,7 @@ Include as much (relevant) information as you can think of in your post. Includi
 
 ------------------------------------------------------------------------
 
-Game Lag: Common Causes and Solutions
--------------------------------------
+### Game Lag: Common Causes and Solutions
 
 Lag can be caused by a variety of things. Here are some common causes that may help if you're experiencing lag:
 

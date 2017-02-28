@@ -1,3 +1,6 @@
+.db (extension)
+===============
+
 L'extension **.db** est utilisé en tant que fichier binaire par osu! pour y enregistrer des informations variée, comme les paramètres d'une beatmap, les données d'un replay ou même les collections de beatmaps.
 
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
@@ -175,4 +178,5 @@ Cette base de donnée contient touts les scores réalisés localement.
 | Entier (Int) | Devrait toujours être définit par 0xffffffff (-1). |
 | Long (long) | ID du score en ligne |
 
-Sans compter l'ID du score en ligne, le format des scores est le même que le format du replay. [FR:Osr (file format)](FR:Osr_(file_format) Cela peut expliquer la chaîne de caractère vide et l'entier définit par -1.
+Sans compter l'ID du score en ligne, le format des scores est le même que le format du replay. [Osr (file format)][Osr Link] Cela peut expliquer la chaîne de caractère vide et l'entier définit par -1.
+[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
