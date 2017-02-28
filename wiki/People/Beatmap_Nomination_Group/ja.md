@@ -1,4 +1,4 @@
-Beatmap Nomination Group - Japanese
+Beatmap Nomination Group (日本語)
 ========================================
 
 **Beatmap Nomination Group** は一般的にBNと呼ばれ、譜面の[Rankに関して司るチームです](/wiki/Beatmaps)。このグループは近年多くの変更があり、2014年8月22日にスタッフの一部ではなくなり、ゲーム内におけるモデレータ権限とフォーラムなどでの赤い名前などを失いました。最近の変更では2015年2月1日にBeatmap Appreciation Team、通称BATと呼ばれていたチームからこのBeatmap Nominator Groupというチームへ名称が変わり、また赤い名前の表示もフォーラムでされなくなりました。

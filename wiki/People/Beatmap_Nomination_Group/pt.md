@@ -1,4 +1,4 @@
-Beatmap Nomination Group - Portuguese
+Beatmap Nomination Group (Português)
 ===========================================
 
 O **Beatmap Nomination Group** (Grupo de Nominação de Beatmaps), mais comumente referido pela sigla BN, é um grupo encarregado de [qualificar beatmaps](/wiki/Beatmaps). Tal grupo tem passado por inúmeras mudanças recentemente. Desde 22 de agosto de 2014, eles não são mais parte da direção do projeto e, portanto, não possuem poder de moderação no ambiente de chat IRC, bem como não têm seus nomes em vermelho (tanto no chat quanto nos fóruns). A mudança mais relevante, ocorrida em 1º de fevereiro de 2015, concretizou-se com a mudança de nome (de *Beatmap Appreciation Team* para *Beatmap Nominator Group*), juntamente com a perda da cor vermelha em seus nomes no fórum.

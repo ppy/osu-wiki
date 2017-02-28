@@ -1,4 +1,4 @@
-Beatmap Nomination Group - Tagalog
+Beatmap Nomination Group (Tagalog)
 =====================================
 
 Ang **Beatmap Appreciation Team**, dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [rank ng beatmaps](/wiki/Beatmaps). Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [GMT](/wiki/People/Global_Moderation_Team).

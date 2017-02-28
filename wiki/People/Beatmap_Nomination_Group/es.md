@@ -1,4 +1,4 @@
-Beatmap Nomination Group - Spanish
+Beatmap Nomination Group (Español)
 ======================================
 
 El **Beatmap Nomination Group**, mas comúnmente referido como BN, es un grupo a cargo de [nominar beatmaps](/wiki/Beatmaps). Este grupo ha sufrido muchos cambios, Especialmente el 22/Agosto/2014, el cual declararon que ya no formarían parte del staff, revocandoles sus atributos de moderadores de chat, sus nombres en Rojo tanto en el juego como en el foro. El mas reciente cambio ocurrió el 1/Febrero/2015 cuando el nombre del equipo fue cambiado de Beatmap Appreciation Team (BAT) -> Equipo de Apreciación de Beatmaps, a Beatmap Nominator Group (BNG) -> Grupo Nominador de Beatmaps. y perdieron el color Rojo de su nickname del foro.

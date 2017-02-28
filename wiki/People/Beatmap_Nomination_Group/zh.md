@@ -1,4 +1,4 @@
-Beatmap Nomination Group - Chinese
+Beatmap Nomination Group (中文)
 ===================================
 
 **B** eatmap **N** omination **G** roup，通常简称为 **BN** 或是 **BNG**，是一支负责[审核谱面的团队](/wiki/Beatmaps)。BN 近期经历了数次改制。

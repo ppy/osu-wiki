@@ -1,4 +1,4 @@
-The Team - Chinese
+The Team (中文)
 =====================
 
 游戏创建者
