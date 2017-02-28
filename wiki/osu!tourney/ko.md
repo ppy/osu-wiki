@@ -150,7 +150,7 @@ osu!tourney을 사용하여 멀티 방을 원활하게 상호작용을 하기 �
 `Your_acronym_in_tournament.cfg: (팀 이름 1) vs (팀 이름 2)`
 
 `Your_acronym_in_tournament.cfg` 설치 중에 'tournaments.cfg'에서 정의한 값으로 대체됩니다. 
-예를 들어, 이 값은 **[설정](#설정)** "Test Tourney"로 정의되었습니다. 다음 예제에서는 템플릿을 사용합니다.
+예를 들어, 이 값은 **[설정](#설정)**. "Test Tourney"로 정의되었습니다. 다음 예제에서는 템플릿을 사용합니다.
 
 `Test Tourney: (팀 이름 1) vs (팀 이름 2)`
 
