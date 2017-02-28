@@ -5,13 +5,12 @@ The **osu! Alumni** are those known for their contributions who have since moved
 
 | Name | Epitaph |
 | ----- | ------- |
-| [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Chat Moderator |
+| [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
 | [Agnes](https://osu.ppy.sh/u/136982) | GMT |
-| [alacat](https://osu.ppy.sh/u/869782) | QAT |
 | [Alace](https://osu.ppy.sh/u/25993) | BAT |
 | [Aleks719](https://osu.ppy.sh/u/360176) | QAT |
 | [An64fan](https://osu.ppy.sh/u/38836)	| BAT |
@@ -27,8 +26,6 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [blissfulyoshi](https://osu.ppy.sh/u/20865) | BAT |
 | [bossandy](https://osu.ppy.sh/u/360437) | BAT |
 | [Breeze](https://osu.ppy.sh/u/77537) | BAT |
-| [buraimaster1234](https://osu.ppy.sh/u/5772) | BAT |
-| [Byakugan249](https://osu.ppy.sh/u/660484) | BAT |
 | [captin1](https://osu.ppy.sh/u/689997) | GMT |
 | [Card N'FoRcE](https://osu.ppy.sh/u/3936) | BAT |
 | [Cecilthemos](https://osu.ppy.sh/u/2233) | BAT |
@@ -36,8 +33,10 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [Charles445](https://osu.ppy.sh/u/85000) | GMT |
 | [CheeseWarlock](https://osu.ppy.sh/u/9072) | BAT |
 | [Chewin](https://osu.ppy.sh/u/617323) | BAT |
+| [CLSW](https://osu.ppy.sh/u/531253) | QAT |
 | [Colin Hou](https://osu.ppy.sh/u/196614) | BAT |
 | [CXu](https://osu.ppy.sh/u/84841) | BAT |
+| [Cyclohexane](https://osu.ppy.sh/u/116078) | GMT |
 | [Cyclone](https://osu.ppy.sh/u/18589) | GMT |
 | [Cyril_Scarlet](https://osu.ppy.sh/u/108066) | MAT |
 | [Dakeyrus](https://osu.ppy.sh/u/10441) | GMT |
@@ -64,7 +63,7 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [Faust](https://osu.ppy.sh/u/65152) | BAT |
 | [foulcoon](https://osu.ppy.sh/u/19883) | BAT |
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
-| [FrostxE](https://osu.ppy.sh/u/199669) | GMT |
+| [Frostmourne](https://osu.ppy.sh/u/199669) | GMT |
 | [Gabe](https://osu.ppy.sh/u/654108) | BAT |
 | [Gamu](https://osu.ppy.sh/u/611174) | QAT |
 | [Garven](https://osu.ppy.sh/u/244216) | QAT |
@@ -96,6 +95,7 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [Krah](https://osu.ppy.sh/u/1436748) | GMT |
 | [Krisom](https://osu.ppy.sh/u/99269) | BAT |
 | [KRZY](https://osu.ppy.sh/u/114017) | Chat Moderator |
+| [KSHR](https://osu.ppy.sh/u/409957) | GMT |
 | [Kylecito](https://osu.ppy.sh/u/488) | BAT |
 | [Kytoxid](https://osu.ppy.sh/u/98460) | BAT |
 | [La Cataline](https://osu.ppy.sh/u/301279) | Chat Moderator |
@@ -112,6 +112,7 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [Lust](https://osu.ppy.sh/u/2316951) | QAT |
 | [Lybydose](https://osu.ppy.sh/u/64501) | BAT |
 | [m980](https://osu.ppy.sh/u/3288) | BAT |
+| [machol30](https://osu.ppy.sh/u/5772) | BAT |
 | [Maeglwn](https://osu.ppy.sh/u/2440936) | GMT |
 | [Mafiamaster](https://osu.ppy.sh/u/17695) | BAT |
 | [Makar](https://osu.ppy.sh/u/686389) | GMT |
@@ -120,9 +121,9 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [MaxwellDemon](https://osu.ppy.sh/u/4254) | BAT |
 | [Melophobia](https://osu.ppy.sh/u/1077845) | BAT |
 | [minyeob](https://osu.ppy.sh/u/9207) | BAT |
+| [MMzz](https://osu.ppy.sh/u/128993) | QAT |
 | [Mogsworth](https://osu.ppy.sh/u/4018) | BAT |
 | [MOOMANiBE](https://osu.ppy.sh/u/8950) | BAT |
-| [Mr Color](https://osu.ppy.sh/u/116078) | GMT |
 | [mrtn](https://osu.ppy.sh/u/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/u/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/u/930165) | Chat Moderator |
@@ -166,13 +167,16 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [Sync](https://osu.ppy.sh/u/806921) | BAT |
 | [Takuma](https://osu.ppy.sh/u/43677) | GMT |
 | [Tapdancingmetroid](https://osu.ppy.sh/u/1733) | BAT |
+| [Tari](https://osu.ppy.sh/u/1779172) | QAT |
 | [Teara](https://osu.ppy.sh/u/123491) | BAT |
 | [tensheapz](https://osu.ppy.sh/u/60) | BAT |
 | [theowest](https://osu.ppy.sh/u/60604) | GMT |
 | [tieff](https://osu.ppy.sh/u/89619) | BAT |
 | [TKS](https://osu.ppy.sh/u/940878) | BAT |
+| [ToGlette](https://osu.ppy.sh/u/1076236) | GMT |
 | [tsububu](https://osu.ppy.sh/u/61) | BAT |
 | [UnderminE](https://osu.ppy.sh/u/444223) | Chat Moderator |
+| [Uni](https://osu.ppy.sh/u/617106) | GMT |
 | [vytalibus](https://osu.ppy.sh/u/10028) | BAT |
 | [Where](https://osu.ppy.sh/u/549172) | GMT |
 | [whymeman](https://osu.ppy.sh/u/51994) | GMT |
@@ -185,6 +189,6 @@ The **osu! Alumni** are those known for their contributions who have since moved
 | [yaya](https://osu.ppy.sh/u/50163) | BAT |
 | [yeahyeahyeahhh](https://osu.ppy.sh/u/58042) | MAT |
 | [YGOKid8](https://osu.ppy.sh/u/69114) | BAT |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | BAT |
+| [YTYuyu](https://osu.ppy.sh/u/660484) | BAT |
 | [ZHSteven](https://osu.ppy.sh/u/142413) | BAT |
 | [Zyid](https://osu.ppy.sh/u/2778) | BAT |
