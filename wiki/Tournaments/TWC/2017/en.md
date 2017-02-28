@@ -54,12 +54,18 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | ---: | :---: | :--- |
 | ![](/wiki/shared/flag/Ar.gif) | **Argentina** | **[Pollotuc](https://new.ppy.sh/u/42440)**, [Midnaait](https://new.ppy.sh/u/1506011), [Arnon](https://new.ppy.sh/u/5332868), [gaston_2199](https://new.ppy.sh/u/5938161), [Laut1G](https://new.ppy.sh/u/7286821), [Axer](https://new.ppy.sh/u/7299864) |
 | ![](/wiki/shared/flag/Au.gif) | **Australia** | **[Jaye](https://new.ppy.sh/u/4841352)**, [RollingDango](https://new.ppy.sh/u/7728466), [Ceryuia](https://new.ppy.sh/u/5253213), [andrew000000](https://new.ppy.sh/u/122174), [Aloda](https://new.ppy.sh/u/1190127), [SpiritsUnite](https://new.ppy.sh/u/1198002) |
+| ![](/wiki/shared/flag/Br.gif) | **Brazil** | **[LuckySonicGHz](https://new.ppy.sh/u/3949268)**, [Marm](https://new.ppy.sh/u/5143353), [Serial Dreemurr](https://new.ppy.sh/u/1235444), [Ppus](https://new.ppy.sh/u/5918857), [Magg](https://new.ppy.sh/u/2648271), [Coryn](https://new.ppy.sh/u/2828556) |
+| ![](/wiki/shared/flag/Ca.gif) | **Canada** | **[janitoreihil](https://new.ppy.sh/u/3307897)**, [Tasha](https://new.ppy.sh/u/1031958), [vladyushko](https://new.ppy.sh/u/4908773), [Fudgyking](https://new.ppy.sh/u/3802922), [Stevenrama](https://new.ppy.sh/u/3649978), [IControl](https://new.ppy.sh/u/2307285) |
+| ![](/wiki/shared/flag/Cl.gif) | **Chile** | **[-Anhedonia-](https://new.ppy.sh/u/920861)**, [MikuWRS](https://new.ppy.sh/u/1619547), [le gagoguigo3](https://new.ppy.sh/u/6451537), [Ulqui](https://new.ppy.sh/u/1263669), [Pohm](https://new.ppy.sh/u/2083934), [[ T-pazolite ]](https://new.ppy.sh/u/2412835) |
 | ![](/wiki/shared/flag/Cn.gif) | **China** | **[Nikubenki Saya](https://new.ppy.sh/u/2250591)**, [[sACRIFICe]](https://new.ppy.sh/u/6294200), [unsigned_int](https://new.ppy.sh/u/5835635), [Suikaaaa](https://new.ppy.sh/u/3014603) [JEFF_Y](https://new.ppy.sh/u/2534853) |
 | ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[duski](https://new.ppy.sh/u/6506484)**, [Sylarn](https://new.ppy.sh/u/4266840), [Maffe](https://new.ppy.sh/u/4773855), [Reikocchi](https://new.ppy.sh/u/1110109), [loe4boe](https://new.ppy.sh/u/831807), [LefafeI](https://new.ppy.sh/u/2295850) |
 | ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [-Valony-](https://new.ppy.sh/u/6487540), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
+| ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)** | **[thomas1195](https://new.ppy.sh/u/1691488)**, [magnomizer](https://new.ppy.sh/u/1893718), [iloveyou4ever](https://new.ppy.sh/u/4964596), [john571](https://new.ppy.sh/u/2930055), [sing216](https://new.ppy.sh/u/6096445), [Chocola_2287](https://new.ppy.sh/u/1163051) |
+| ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)**, [_yu68](https://new.ppy.sh/u/6170507), [shinchikuhome](https://new.ppy.sh/u/3174184), [uone](https://new.ppy.sh/u/5321719), [asuasu_yura](https://new.ppy.sh/u/2875968), [sobatsuyu](https://new.ppy.sh/u/2076374) |
 | ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[Jerry](https://new.ppy.sh/u/605973)**, [taiko_maniac1811](https://new.ppy.sh/u/595764), [xelticrival](https://new.ppy.sh/u/7500364), [newme96](https://new.ppy.sh/u/2782769), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
 | ![](/wiki/shared/flag/Ru.gif) | **Russian Federation** | **[Wolfjkeee](https://new.ppy.sh/u/1282662)**, [greenyoyo](https://new.ppy.sh/u/1581472), [Alt](https://new.ppy.sh/u/736496), [DayzeekFeed](https://new.ppy.sh/u/5009970), [Youth](https://new.ppy.sh/u/4993235), [Naninub](https://new.ppy.sh/u/8188876) |
+| ![](/wiki/shared/flag/Es.gif) | **Spain** | **[Raiden](https://new.ppy.sh/u/2239480)**, [Maitroxsk](https://new.ppy.sh/u/4875451), [LZD](https://new.ppy.sh/u/224335), [Hanjamon](https://new.ppy.sh/u/1703330), [AlvaroYL](https://new.ppy.sh/u/6333166), [TheMadnessLady](https://new.ppy.sh/u/3928960) |
 | ![](/wiki/shared/flag/Se.gif) | **Sweden** | **[Raphalge](https://new.ppy.sh/u/3918650)**, [Eiuh](https://new.ppy.sh/u/4653213), [Tanaka](https://new.ppy.sh/u/1897905), [Karl-Johan](https://new.ppy.sh/u/6686840)
 | ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
@@ -70,16 +76,11 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 | | Country | Captain |
 | ---: | :---: | :--- |
-| ![](/wiki/shared/flag/Br.gif) | **Brazil** | **[LuckySonicGHz](https://new.ppy.sh/u/3949268)** |
-| ![](/wiki/shared/flag/Ca.gif) | **Canada** | **[Tasha](https://new.ppy.sh/u/1031958)** |
-| ![](/wiki/shared/flag/Cl.gif) | **Chile** | **[-Anhedonia-](https://new.ppy.sh/u/920861)** |
+
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[[TaikoTori]](https://new.ppy.sh/u/1074143)** |
-| ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)** |
 | ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Nishizumi](https://new.ppy.sh/u/2496768)** |
-| ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)** |
 | ![](/wiki/shared/flag/Pl.gif) | **Poland** | **[Acrith](https://new.ppy.sh/u/389880)** |
 | ![](/wiki/shared/flag/Kr.gif) | **South Korea** | **[Runa](https://new.ppy.sh/u/4643294)** |
-| ![](/wiki/shared/flag/Es.gif) | **Spain** | **[Raiden](https://new.ppy.sh/u/2239480)** |
 | ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[-[ ix Ishida xi ]-](https://new.ppy.sh/u/242910)** |
 
 ------------------------------------------------------------------------
