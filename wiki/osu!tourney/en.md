@@ -1,8 +1,8 @@
 # osu!tourney
 
-**osu!tourney** is the designated multi-spectator client used to view and stream entire online multiplayer matches at once.
+**osu!tourney** is the official multi-spectator client used to view and stream an entire multiplayer match at once in _osu!_.
 
-Access to the osu!tourney client is limited to tournament hosts and their staff.
+Access to the osu!tourney client is limited to a specific tournament's hosts and their staff.
 Tournament hosts will have to contact `tournaments@ppy.sh` to apply for access, which is limited for the time needed to conclude the tournament they host.
 Using the client is not meant for public as of right now and requires approval from the game administration.
 
@@ -23,7 +23,7 @@ The number of windows opened cannot currently be changed, but this behaviour wil
 
 Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup; otherwise, you won’t be able to login properly to it.
 
-### How do I get access?
+### Getting access to the client
 
 After you have organized your event completely, send in an e-mail to `tournaments@ppy.sh` including:
 
