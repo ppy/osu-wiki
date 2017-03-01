@@ -1,4 +1,4 @@
-Normal - French
+Normal (Français)
 ================
 
 Les [difficultés](/wiki/Beatmap_Editor/Song_Setup) "Normal" sont des niveaux de difficultés dans lesquels vous devez avoir des compétences basiques pour y jouer. Ce sont les niveaux les plus faciles juste après les difficultés [Facile](/wiki/Difficulties/osu!/Easy).

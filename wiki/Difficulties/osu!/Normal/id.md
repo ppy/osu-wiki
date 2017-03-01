@@ -1,4 +1,4 @@
-Normal - Indonesian
+Normal (Bahasa Indonesia)
 =====================
 
 [Tingkat kesulitan](/wiki/Difficulties) Normal adalah tingkat kesulitan di mana kamu harus punya kemampuan dasar untuk memainkan mereka. Tingkat kesulitan ini adalah tingkat kesulitan yang termudah setelah [Easy](/wiki/Difficulties/osu!/Easy).
