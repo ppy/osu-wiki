@@ -53,7 +53,7 @@ Mania(매니아)
 
 | 총합 히트의 점수 | 총합 히트의 수 |
 | -------------------- | -------------------- |
-| (방울의 수 + 100s의 수 + 300s의 수) | (Miss(미스)의 수 50s의 수 + 100s의 수+ 200s의수 + 300s의 수 + MAXes의 수) |
+| (방울의 수 + 100s의 수 + 300s의 수) | (Miss의 수 50s의 수 + 100s의 수+ 200s의수 + 300s의 수 + MAXes의 수) |
 
 Max는 300점보다 점수에서 더 많은 가치를 지녔음에도 불구하고, MAX와 300, 모두 정확도를 계산할 때 최대값을 가집니다.
 
@@ -63,17 +63,17 @@ Max는 300점보다 점수에서 더 많은 가치를 지녔음에도 불구하�
 ### 랭킹
   여기에는 성적, 실제 히트수, 실제 정확도 백분율이 표시됩니다. 자세한 내용은 [점수](/wiki/Score)를 참고하세요.
 
-![Osu! 랭킹 패널](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
+![Osu! 랭킹 패널](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko(태고) 랭킹 패널](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
 [Osu! 랭킹 패널) 랭킹 패널](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
 
-[osu!Taiko(태고) 랭킹 패널 ](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
+[osu!Taiko(태고) 랭킹 패널](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
 
-![osu!CtB(캐치 더 비트) 랭킹 패널](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania Ranking Panel](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
+![osu!CtB(캐치 더 비트) 랭킹 패널](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania(매니아) 랭킹 패널](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
 
 [osu!CtB(캐치 더 비트) 랭킹 패널](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
 
-[osu!Mania(매니아)](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
+[osu!Mania(매니아) 랭킹 패널](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
 
 ### Performance(퍼포머스) 그래프
@@ -94,7 +94,7 @@ Spin(스핀)은 osu!Standard(스탠다드) 전용입니다.
 
 | 용어 | 뜻 |
 | ---- | ------- |
-| speed | **비트맵에 있는 Spin(스핀)의 평균 회전속도입니다. 최대속도는 비트맵의 Spin(스핀) 중 하나에서 달성 된 최고 rpm (분당 라운드)입니다. | 
+| speed | **비트맵에 있는 Spin(스핀)의 평균 회전속도입니다.** 최대속도는 비트맵의 Spin(스핀) 중 하나에서 달성 된 최고 rpm (분당 라운드)입니다. | 
 | Unstable Rate (UR) | **최대 편차에 대한 평균을 기준으로 한 값은**, 낮을수록 좋습니다. 공식은 알려져 있지 않습니다. |
 
 **Notes(노트)**
