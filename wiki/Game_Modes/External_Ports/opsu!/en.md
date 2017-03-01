@@ -403,7 +403,7 @@ Otherwise (especially if it keep crashing), transport the beatmaps to opsu! and 
 _opsu! Main Menu (first version)_
 
 - Main menu image:-
-  - Generic _Vocaloid_ wallpaper (character is _IA_ from _Vocaloid_)
+  - [イア by 春アキ＠ついったー](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=27065892 "IA by haru_aki pixiv source")
   - [Teddy Kelley's photo](https://unsplash.com/photos/weuWmzv7xnU) [Current]
 - The theme song used:-
   - [Jingle Punks: On the Bach](https://www.youtube.com/audiolibrary/music)
