@@ -34,7 +34,7 @@ Taiko(태고)
 Catch the Beat(캐치 더 비트)
 ------------------
 
-[Catch the Beat(캐치 더 비트)](/wiki/Game_Modes/osu!catch), Catch the Beat(캐치 더 비트)에서 노래 정확도는 수집된 non-spinner 개체의 수를 non-spinner; 개체의 총 수로 나눈 값으로 계산됩니다. 과일, 큰 방울과 작은 방울은 모두 같은 가치를 지니게 됩니다.
+[Catch the Beat(캐치 더 비트)](/wiki/Game_Modes/osu!catch),에서 노래 정확도는 수집된 non-spinner 개체의 수를 non-spinner; 개체의 총 수로 나눈 값으로 계산됩니다. 과일, 큰 방울과 작은 방울은 모두 같은 가치를 지니게 됩니다.
 
 **정확도 = 잡은 과일의 총 수 / 과일의 총 수**
 
