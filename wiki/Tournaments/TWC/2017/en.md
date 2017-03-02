@@ -48,8 +48,6 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ## Participants
 
-### Confirmed Rosters
-
 **Bold users** are the team captains.
 
 | | Country | Member |
