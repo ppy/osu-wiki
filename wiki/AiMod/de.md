@@ -1,13 +1,12 @@
 AiMod
 ========
 
-[AiMod](AiMod "wikilink") ist ein Programm im Beatmap Editor, welchen du öffnest, indem du **\[Strg\] + \[Shift\] + \[A\]** drückst oder auf **File**, dann **Open AiMod** klickst.
+[AiMod](AiMod "wikilink") ist ein Programm im Beatmap Editor, welchen man öffnet, indem man **\[Strg\] + \[Shift\] + \[A\]** drückt oder auf **File**, dann **Open AiMod** klickst.
 
 ![AiMod](Aimod.png "AiMod is usually your first modder")
 
- AiMod wird neuen Mappern helfen ihre Beatmaps zu Modden. Das Problem mit dem AiMod ist, dass der AiMod dazu erstellt wurde, um einfach zu sein. Daher wird der AiMod keine Probleme mit **mapping patterns** oder schlecht eingestellten BPM/Timing finden. Daher wirst du auch einen [Modder](/wiki/Glossary) benötigen, der dir deine Beatmaps Moddet.
-
-Nachdem der AiMod ein Blick über deine Beatmap geworfen hat (sollte recht schnell gehen), sollten Warnungnen und Fehler angezeigt werden. Wenn kein Problem gefunden wurde, dann Glückwunsch! Deine Beatmap hat den AiMod überstanden, jedoch wirst du noch einen menschlichen [Modder](/wiki/Glossary) benötigen, der auch einen Blick über deinen Beatmap wirft, da der AiMod nicht alle Fehler bemerkt.
+ AiMod hilft neuen Mappern ihre Beatmaps zu Modden,
+ indem es grundlegende Probleme erkennt. Komplizierteres, wie das überprüfen Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Die Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 
 Tabs
 ----
@@ -19,23 +18,23 @@ Tabs
 **Compose**
 
 -   Diese Probleme sind verbunden mit dem Platzieren der Hitobjekte (Hitcircle, Spinner, Slider, ...)
-    -   Du solltest auch ein Häckchen bei "Check distance snap" setzen. (Je nach länge der Beatmap könnte das etwas länger dauern)
+    -   Man sollte ein Häckchen bei "Check distance snap" setzen. (Je nach länge der Beatmap könnte das etwas länger dauern)
 
 **Design**
 
--   Diese Probleme haben mit den Oberflächen zu tun (Hintergrund, Storyboard usw.)
+-   Diese Probleme haben mit den Design der Beatmap zu tun (Hintergrund, Storyboard usw.)
 
 **Timing**
 
--   Wenn diese Art von Problemen erscheint, solltest du die Timeline überprüfen, da warscheinlich irgendetwas falsch platziert wurde.
+-   Wenn diese Art von Problemen erscheint, sollte man die Timeline überprüfen, da warscheinlich irgendetwas falsch platziert wurde.
 
 **Meta**
 
--   Wenn diese Art von Problemen erscheint, solltest du deine Einstellungen im Song Setup überprüfen.
+-   Wenn diese Art von Problemen erscheint, solltest man die Einstellungen im Song Setup überprüfen.
 
 **Mapset**
 
--   Diese Probleme betreffen dein gesammtes Mapset.
+-   Diese Probleme betreffen das gesammtes Mapset.
 
 Nachrichten
 --------
@@ -48,16 +47,16 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| No problems were found in this map! | AiMod konnte keine Probleme mit deiner Beatmap finden! | Du kannst deine Beatmap mithilfe von BBS hochladen, um von osu!moddern Verbesserungsvorschläge zu bekommen, so wie deine Fehler gezeigt zu bekommen. |
+| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von den BBS hochladen, um von osu!moddern Verbesserungsvorschläge zu bekommen, so wie weitere Verbesserungsvorschläge gezeigt zu bekommen. |
 
 #### Meta
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| HP rate for Easy/Normal is suggested to be at least 4. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 4 oder höher |
-| HP rate for Hard and up is suggested to be at least 7. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "HP rate" auf 7 oder höher |
-| OD rate for maps with few sliders is suggested to be at least 7. | Nur bei Mania Beatmaps! | Geh zu den Song Einstellungen und setze die "OD rate" auf 7 oder höher  |
-| The Slider Velocity should be 1.40 or 1.60. |	Nur bei Taiko Beatmaps! | Geh in den Timing Tab und setze die 'Slider Velocity' auf 1,40 oder 1,60 |
+| HP rate for Easy/Normal is suggested to be at least 4. | Nur bei osu!Mania! | In den Song Einstellungen muss "HP rate" auf 4 oder höher gesetzt werden. |
+| HP rate for Hard and up is suggested to be at least 7. | Nur bei osu!Mania! | In den Song Einstellungen muss "HP rate" auf 7 oder höher gesetzt werden. |
+| OD rate for maps with few sliders is suggested to be at least 7. | Nur bei osu!Mania! | In den Song Einstellungen muss die "OD rate" auf 7 oder höher gesetzt werden. |
+| The Slider Velocity should be 1.40 or 1.60. |	Nur bei Taiko Beatmaps! | In den Timing Tab muss 'Slider Velocity' auf 1,40 oder 1,60 gesetzt werden. |
 
 
 ### Errors
@@ -66,13 +65,13 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| These two objects are less than 10ms apart! | Zwei Hitobjeckte sind sehr nah zueinnander. Das bedeutet, die Spieler in einer unmöglichen Geschwindigkeit klicken müssen! | Finde die 2 Hitobjekte und verschiebe oder lösche Sie. |
+| These two objects are less than 10ms apart! | Zwei Hitobjeckte sind sehr nah zueinnander. Die Spieler können nicht so schnell klicken! | Die 2 Hitobjekte müssen verschoben oder gelöscht werden. |
 
 #### Design
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Beachte das Videos nicht als Hintergrundbilder zählen, da der Spieler die Videos nicht unbedingt herunterladen muss! | Finde ein angemessendes Bild und nutze es als Hintergrundbild. |
+| Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Das Video gilt nicht als Hintergrundbild, da der Spieler die Videos nicht unbedingt herunterladen muss! | Ein angemessendes Bild muss als Hintergrundbild genutzt werden. |
 
 
 ### Warnings
@@ -82,10 +81,10 @@ Nachrichten
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
 | This slider moves in an abnormal way. | | |
-| This combo is very long. Consider splitting it up. | Die länge der Combo kann die die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Geh zu der problematischen Combo und entscheide wo eine neue Combo gestartet werden soll. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
-| This spinner appears onscreen later than objects which follow it. | Objekte erscheinen wenn der der Spinner sichtbar ist. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Ändere die Länge des Spinners und/oder entferne die Folgenen Objekte. |
-| Object's end is offscreen! | Objekte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Remove or move the object's end |
-| Object is offscreen! | Objekte, welche ausserhalb des Bindschirmes sind könne  nicht in osu!clients mit einer 4:3 Auflösung gesehen werden. | Lösche oder Verschiebe das Objekt |
+| This combo is very long. Consider splitting it up. | Die länge der Combo kann die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Die problematischen Combo muss aufgespalltet werden. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
+| This spinner appears onscreen later than objects which follow it. | Objekte überlappen den Spinner. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Die Länge des Spinners muss verändert werden und/oder die überlappende Objekte entfernt werden. |
+| Object's end is offscreen! | Objekte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Das Object muss verschoben oder gelöscht werden. |
+| Object is offscreen! | Objekte, welche ausserhalb des Bindschirmes sind könne nicht in osu!clients mit einer 4:3 Auflösung gesehen werden. | Das Object muss verschoben oder gelöscht werden. |
 | This object is too close to the previous object. | | |
 | This object is too far from the previous object. | | |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. |
