@@ -1,4 +1,3 @@
-
 <!-- Link -->
 [opsu forum]: https://osu.ppy.sh/forum/t/221726 "opsu! - an open-source osu! client (UNOFFICIAL)"
 [opsu main]: https://itdelatrisu.github.io/opsu/ "opsu!"
@@ -18,6 +17,8 @@
 [MM1]: ./img/opsu_MM1.jpg "opsu! Main Menu (first version)"
 
 # opsu!
+
+**[Click here to return to External Ports index page](../ "External Ports index page")**
 
 ![opsu! logo][opsu]
 

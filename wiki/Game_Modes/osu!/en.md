@@ -103,7 +103,7 @@ The circle beside the accuracy (and below the score) is a timer for the duration
 
 The number on the bottom left is the combo counter/score multiplier.
 
-##### Hit circles
+#### Hit circles
 ![Hit circles][osu_hit circles image]
 
 _Some hit circles placed in a path to tap to the beat_
@@ -116,7 +116,7 @@ The hit circle will disappear after the score burst.
 To understand the hidden charm of hit circles, do not rely only on perception only; feel the beatmap's beats and rhythm.
 It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
 
-##### Sliders
+#### Sliders
 ![Sliders][osu_slider image]
 
 _A single-repeat straight slider with active orange followcircle surrounding the slider ball and a slider tick inside the slider (small white circle)_
@@ -129,7 +129,7 @@ The orange outer circle, called the follow circle, will appear if when holding o
 Sometimes, as seen in the screenshot above, the ball may reverse its direction and must follow the ball back to the start of the path or vice versa.
 The visual cue is a reverse arrow at the ending/starting circle of the path.
 
-##### Spinners
+#### Spinners
 ![Spinner][osu_spinner image]
 
 _A cleared spinner with spinner bonus_
@@ -229,7 +229,7 @@ Additionally each slider start, end and repeat tick awards 30 points, each slide
 
 Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
 
-##### How to calculate the Difficulty multiplier
+#### How to calculate the Difficulty multiplier
 
 [Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
 
@@ -255,27 +255,27 @@ It will only account for original values only.
 
 **Hit circles**
 
-- You get a 300, 100 or 50 from a normal hit circle depending on how accurately you click on it.
-- If you do not click on the hit circle at all or click on it way too early, you will receive a miss.
+- The player gains 300, 100 or 50 from a normal hit circle depending on how accurately the player click on it.
+- If the player do not click on the hit circle at all or click on it way too early, the player will receive a miss.
 
 **Sliders**
 
 - The judgement for sliders does not depend on the accuracy of the initial hit.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-- You receive a 300 if you successfully get all slider ticks, a 100 if you get at least half of them and a 50 if you manage to hit even one of the ticks.
+- The player receive a 300 if the player successfully get all slider ticks, a 100 if the player get at least half of them and a 50 if the player manage to hit even one of the ticks.
 - Tapping a slider **too early** does not incur a miss, but will **reset** the score multiplier to **0**.
   - Not collecting the slider ticks, shown or otherwise, will not incur a miss, but will **reset** the score multiplier to **0**.
   - Missing the slider end does not incur a miss, but will **not** increment the score multiplier.
-- You only receive a miss if you hit none of the slider ticks.
+- The player only receive a miss if the player hit none of the slider ticks.
 
 **Spinner**
 
-- For a spinner, you receive a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
-- You receive a miss if you are not able to fill the meter shown on both sides of the spinner.
+- For a spinner, the player receive a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
+- The player receive a miss if the player are not able to fill the meter shown on both sides of the spinner.
 
 ### Score/Combo Multiplier
 
-The following each add a point to your score/combo multiplier:
+The following each add a point to the score/combo multiplier:
 
 - A successfully hit on the hit circle.
 - A successfully hit at the start of a slider.
@@ -283,41 +283,40 @@ The following each add a point to your score/combo multiplier:
 - A successfully touched on the slider tick.
 - A successfully completed/semi-completed spinner.
 
-The following will reset your score multiplier to zero:
+The following will reset the score multiplier to zero:
 
 - Missing a hit circle.
 - Tapping a slider start too early.
 - Missing a slider start or slider tick.
 - Unable to fill up at least half the gauge of a spinner.
 
-The following will not increase or reset your score multiplier:
+The following will not increase or reset the score multiplier:
 
 - Missing a slider end (will result in getting Katu or 100/50 Hit).
 - Spinner: 1,000 Bonus
 
-### Life meter
+## Life meter
 
 The system used to calculate life drain and life gain is complicated so it will not be explained in detail.
 It all revolves around the life difficulty setting which can only be set by the mapper itself.
 
-**You gain life from:-**
+**The player gain life from:-**
 
 - Hitting a hit circle. (Better judgement leads to more life gain. The last hit circle in a color combo awards more life.)
 - Hitting a slider start, end or return tick. (Better judgement at the end tick leads to more life gain)
 - Spinning and completing a spinner. (Better judgement at the end of the spinner leads to more life gain)
-- Continue to spin the spinner (depends on how fast you spin per spin difficulty)
+- Continue to spin the spinner (depends on how fast the player spin per spin difficulty)
 
-**You lose life from:-**
+**The player lose life from:-**
 
 - Constant life drain.
 - Missing a hit circle or a slider.
 - Not completing a spinner.
-- Not spinning after you completed your spinner.
+- Not spinning after the player completed the spinner.
 
-**You reserve life from:-**
+**The player reserve life from:-**
 
 - Break time
-- Spinning after you completed your spinner.
 
 ## Skinning
 

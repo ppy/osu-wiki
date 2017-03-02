@@ -35,9 +35,9 @@
 [Os-O1.png]: ./img/Os-O1.png "Option screen 1"
 [Os-O2.png]: ./img/Os-O2.png "Option screen 2"
 
-
-
 # osu!stream
+
+**[Click here to return to External Ports index page](../ "External Ports index page")**
 
 ![osu!stream logo][osu!stream logo]
 

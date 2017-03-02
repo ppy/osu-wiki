@@ -8,6 +8,8 @@
 
 # osu!droid
 
+**[Click here to return to External Ports index page](../ "External Ports index page")**
+
 **osu!droid has been abandoned by the official developers (Pesets: Missing; neico: Lost motivation) and taken down from Google Play Store for inactivity and bad reviews.
 This page is an archived page.**
 

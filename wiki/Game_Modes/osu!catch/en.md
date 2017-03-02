@@ -190,11 +190,60 @@ Term | Meaning
 - reverse slider ticks are counted as a full score of a hit
   - note that in osu!standard, a reverse tick only gives 30 points
 
+### Hit objects judgement
+
+**All except bananas**
+
+- Full score when collected.
+- Miss when failed.
+
+**Bananas**
+
+- Constant score of 1,100 per banana collected.
+- Nothing happens for missed bananas.
+
+### Score/Combo Multiplier
+
+The following each add a point to the score/combo multiplier:
+
+- Collecting the fruits.
+- Collecting the juice drops.
+
+The following will reset the score multiplier to zero:
+
+- Missed the fruits.
+- Missed the juice drops.
+
+The following will not increase or reset the score multiplier:
+
+- Collecting the droplets.
+- Collecting the bananas.
+
+## Life meter
+
+The system used to calculate life drain and life gain is complicated so it will not be explained in detail.
+It all revolves around the life difficulty setting which can only be set by the mapper itself.
+
+**The player gain life from:-**
+
+- Collecting any fruits, juice drops, droplets, and bananas.
+
+**The player lose life from:-**
+
+- Constant life drain.
+- Not collecting the fruits, juice drops, droplets, and bananas.
+
+**The player reserve life from:-**
+
+- Break time
+
 ## Skinning
 
 **[Refer to Skinning page of osu!catch for full information.][Skinning#osu!catch wikilink]**
 
 ## Beatmapping
+
+### osu!standard conversion notes
 
 - Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
 - The appearance is based on the timing set to clear it, as usual.

@@ -209,7 +209,7 @@ Key | Bindings
 8K(L)|**S1**, K1, K2, K3, K4, K5, K6, K7
 8K(R)|K1, K2, K3, K4, K5, K6, K7, **S1**
 
--   Note: Please refer to the picture based on style used.
+- Note: Please refer to the picture based on style used.
 
 ### Co-Op
 
@@ -220,10 +220,10 @@ With this mod enabled, a second different set of keys will be given along with t
 
 _Symmetrical_ key binding for second set.
 
--   For _left_ hand buttons — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
--   For _right_ hand buttons — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
--   _Center_ button — (B5)`rightAlt`. \[odd numbered keys only\]
--   _Special_ button - (X1)`rightShift` \[Using special style\] or `rightCtrl` \[Alternate binding\].
+- For _left_ hand buttons — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
+- For _right_ hand buttons — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
+- _Center_ button — (B5)`rightAlt`. \[odd numbered keys only\]
+- _Special_ button - (X1)`rightShift` \[Using special style\] or `rightCtrl` \[Alternate binding\].
 
 **Table below is based on xK mod used in conjunction with Co-Op mod.**
 
@@ -272,23 +272,6 @@ C    | Over 70% Accuracy.
 D    | Anything else.
 
 It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden][Hidden wikilink]/[Fade In][Fade In wikilink] or [Flashlight][Flashlight wikilink] mod.
-
-### Judgement
-
-**Notes**
-
-- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
-- A Miss given when missing a note or hit it way too early.
-
-**Hold notes**
-
--   The judgement for hold notes depends on both starting hold and ending release points.
--   Keep holding till end of note, with initial and final with perfect timing: MAX
--   Keep holding till end of note, without releasing the note: 200
--   Do a _NG_ and not recover the hold note: Miss
--   Do a _NG_ and even hold back the note: 50
-
-NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was released during hold timing.
 
 ### Accuracy
 
@@ -350,6 +333,57 @@ DoubleTime                     1.1
     Hidden                    1.06
 Flashlight                    1.06
 ```
+
+### Hit objects judgement
+
+**Notes**
+
+- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
+- A Miss given when missing a note or hit it way too early.
+
+**Hold notes**
+
+- The judgement for hold notes depends on both starting hold and ending release points.
+- Keep holding till end of note, with initial and final with perfect timing: MAX
+- Keep holding till end of note, without releasing the note: 200
+- Do a _NG_ and not recover the hold note: Miss
+- Do a _NG_ and even hold back the note: 50
+
+NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was released during hold timing.
+
+### Score/Combo Multiplier
+
+The following each add a point to the score/combo multiplier:
+
+- Completing the note with correct key.
+- Holding the hold note with correct key.
+
+The following will reset the score multiplier to zero:
+
+- Not completing the note.
+- Releasing the hold note during the hold period.
+
+The following will not increase or reset the score multiplier:
+
+- Releasing the hold note on the ending note of the hold.
+
+## Life meter
+
+The system used to calculate life gain is complicated so it will not be explained in detail.
+It all revolves around the life difficulty setting which can only be set by the mapper itself.
+
+**The player gain life from:-**
+
+- Getting Rainbow 300, 300, or 200.
+- Holding the hold note with correct key.
+
+**The player lose life from:-**
+
+- Getting 50 or Miss.
+
+**The player reserve life from:-**
+
+- Getting 100.
 
 ## Skinning
 

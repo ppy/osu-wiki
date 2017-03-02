@@ -30,6 +30,8 @@
 
 # T-Aiko v2
 
+**[Click here to return to External Ports index page](../ "External Ports index page")**
+
 ![T-Aiko v2 logo][T-Aiko v2 logo]
 
 _T-Aiko v2 logo_

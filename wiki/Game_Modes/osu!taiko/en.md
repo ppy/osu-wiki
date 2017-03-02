@@ -79,7 +79,7 @@ If the combo is broken, the boost resets back to the base score.
 During _Kiai Time_, every successful hit will give the player 20% more points over the current score amount.
 Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
-##### Taiko notes
+#### Taiko notes
 ![Taiko hit circles][Taiko hit circles image]
 
 _osu!taiko notes of various colour and size_
@@ -94,7 +94,7 @@ If the note is a **LARGE** circle, press or hit both of either inner or outer dr
 The notes must be pressed or hit in the small white judgement circle next to the drum.
 Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
 
-##### Drumrolls
+#### Drumrolls
 ![Taiko drumroll][Taiko drumroll image]
 
 _Drumrolls appears as yellow bar with a starting yellow circle in the playfield with tiny white/yellow hit circles evenly-spaced inside_
@@ -107,7 +107,7 @@ Drumrolls can be ignored with no health penalty, as it does not recover the heal
 However, it will cost possible points gained from the drumroll.
 Each successful hit on the tiny hit circle gives a static 300 score.
 
-##### Dendens/Shaker
+#### Dendens/Shaker
 ![Taiko spinner][Taiko spinner image]
 
 _These appear as spinners, with a countdown displaying the number of hits remaining (denden counter) to clear it, and a shirking blue circle showing the time left to clear it_
@@ -123,7 +123,7 @@ Each successful denden hit only gives a static 300 score, and denden completion 
 
 **[Refer to Play Styles page under osu!taiko.][Play_Styles#osu!taiko wikilink]**
 
-#### Controls
+## Controls
 The default controls for osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
@@ -221,6 +221,71 @@ Exceptions:-
 - Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
 - Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
 
+### Hit objects judgement
+
+#### Score v2
+
+_(To be added)_
+
+#### Score v1
+
+**Small/Large Notes**
+
+- _GREAT_ given if drummed inside the judgement circle perfectly with correct colour.
+- _GOOD_ given if drummed slightly away from the judgement circle with correct colour.
+- _MISS/BAD_ given if drummed too early, too late, missed the judgement circle, or drummed the wrong colour.
+
+**Drumroll**
+
+- Score given when drummed successfully on the small notes in the drumroll with any colour.
+- No score given when drummed on the gap of the small notes.
+- No _MISS/BAD_ for not doing the drumroll as per _Taiko no Tatsujin_ style.
+
+**Denden/Shaker**
+
+- Score given per hit/shake until completed.
+- _MISS/BAD_ damage given (not considered a miss) if failed to complete the Denden/Shaker successfully.
+
+### Score/Combo Multiplier
+
+The following each add a point to the score/combo multiplier:
+
+- Getting _GREAT_ or _GOOD_ on small/large notes.
+
+The following will reset the score multiplier to zero:
+
+- Getting _MISS/BAD_ on small/large notes
+
+The following will not increase or reset the score multiplier:
+
+- Doing the drumroll.
+- Not doing the drumroll.
+- Completing the Denden/Shaker
+- Not completing the Denden/Shaker
+
+## Life meter
+
+The system used to calculate life gain is complicated so it will not be explained in detail.
+It all revolves around the life difficulty setting which can only be set by the mapper itself.
+
+**The player gain life from:-**
+
+- Getting _GREAT_ or _GOOD_ on small/large notes.
+
+**The player lose life from:-**
+
+- Getting _MISS/BAD_ on small/large notes
+- Not completing the Denden/Shaker
+
+**No effect from:-**
+
+- Doing the drumroll.
+- Not doing the drumroll.
+- Completing the Denden/Shaker
+
+**Note:** The life meter must be at least **50% full** to pass the beatmap.
+As such, it is entirely possible for a beatmap to _never pass by design_ due to the beatmap containing drumrolls and/or dendens/shakers only.
+
 ## Skinning
 
 **[Refer to Skinning page of osu!taiko for full information.][Skinning#osu!taiko wikilink]**
@@ -266,5 +331,6 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 
 _osu!taiko logo in deprecated Special Mode_
 
+- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an _osu!_ updater when _osu!_ need to update) under `Skin` tab.
 - The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
 - The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")

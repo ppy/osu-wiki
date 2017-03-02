@@ -8,7 +8,7 @@
 
 # osu!wp
 
-**[Click here to return to External_Ports page](../ "External Ports index page")**
+**[Click here to return to External Ports index page](../ "External Ports index page")**
 
 ![osu!wp logo][osu!wp logo]
 
