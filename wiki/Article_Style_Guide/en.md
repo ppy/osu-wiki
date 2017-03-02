@@ -25,6 +25,13 @@ If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://g
 
 All articles in the osu-wiki repo uses the two letter language codes.
 These 2 lettered language codes must use lowercase letters, ending with the `.md` extension.
+For example:
+
+- `en.md` for English
+- `fr.md` for French
+- `ko.md` for Korean
+- `ja.md` for Japanese
+- `es.md` for Spanish
 
 Translated articles are to be placed in the appropriate English-named folder.
 
@@ -83,9 +90,11 @@ For example:
 
 ```
 # osu!mania (Español)
-# Live Streaming (日本)
+# Live Streaming (日本語)
 # Skinning osu!catch (Français)
 ```
+
+You can find a list of language names in their language at []().
 
 ### Section Headings
 
@@ -132,7 +141,7 @@ For example use:
 
 The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
 Any words following `osu!`, if not divided by a blank space, should not be capitalised.
-If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. osu! Tournaments).
+If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. `osu! Tournaments` or `osu! Alumni`).
 
 If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
 Other examples may include:
@@ -306,16 +315,16 @@ Use code (inline) when noting:
 
 Article links must follow these rules:
 
-1. must use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
-   - for example:
-     - `[Welcome](/wiki/Welcome/)`
-     - (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
-   - see the Link Types section below
-2. **must be spelt correctly** (links are case sensitive!!)
-3. must **not** specify the specific file name **regardless of language** (osu!wiki will handle this)
-   - do: `[Glossary](/wiki/Glossary/)`
-   - don't: `[Glossary](/wiki/Glossary/fr.md)`
-4. must not link to section headings (section headings on osu!wiki does not work)
+- must use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
+  - for example:
+    - `[Welcome](/wiki/Welcome/)`
+    - (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
+  - see the Link Types section below
+- **must be spelt correctly** (links are case sensitive!!)
+- must **not** specify the specific file name **regardless of language** (osu!wiki will handle this)
+  - do: `[Glossary](/wiki/Glossary/)`
+  - don't: `[Glossary](/wiki/Glossary/fr.md)`
+- must not link to section headings (section headings on osu!wiki does not work)
 
 External links must follow these rules:
 
@@ -410,13 +419,11 @@ You will need to check to make sure it links to the correct section.
 
 Examples:
 
-```
-[Scoring](#scoring)
-[osu!mania](#osu-mania)
-[What is osu!taikio?](#what-is-osu-taiko)
-```
+- `[Scoring](#scoring)`
+- `[osu!mania](#osu-mania.2)`
+- `[What is osu!taiko?](#what-is-osu-taiko)`
 
-Section liking will work for unsafe ASCII characters; however, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
+Section linking **will** work for unsafe ASCII characters; however, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
 
 ### Beatmaps
 
