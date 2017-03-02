@@ -3,7 +3,7 @@ Eigene Hinsounds hinzufügen
 
 Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt* von: neonat](https://osu.ppy.sh/forum/p/3215699)
 
-Die eigenen Hitsounds besorgen
+Eigene Hitsounds
 ---------------------------
 
 Als erstes werden einige Hitsounds benötigt.
