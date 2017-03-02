@@ -10,4 +10,10 @@ It is very important that the mapper makes it clear as to the direction of where
 
 ## Examples
 
+![](./img/65756.png)
 
+- [Aya Ishihara - Reset (Full ver) (Bikko) \[Madness\]](https://osu.ppy.sh/b/65756)
+
+![](./img/34901.png)
+
+- [Lucky Twice - Lucky (CrazyBanana) \[EEeee's Hard\]](https://osu.ppy.sh/b/34901)
