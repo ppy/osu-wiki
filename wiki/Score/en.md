@@ -54,7 +54,7 @@ Most of the time, combo plays a major part in the scoring system since it serves
 
 Image | Name | Effect
 :---:|:---:|:---
-![300][o300] | 300 | A possible score one can get when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade.
+![300][o300] | 300 | A possible score when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade.
 ![Geki][o300g] | (激) Geki | A term from Ouendan, called Elite Beat! in EBA. Appears when playing the last element in a combo in which the player has scored only 300s. Getting a Geki will give a sizable boost to the Life Bar. By default, it is blue.
 ![100][o100] | 100 | A possible score one can get when tapping a Hit Object slightly late or early, completing a Slider and missing a number of ticks, or completing a Spinner with the Spinner Meter almost full. A score of 100 appears in a green score by default. When very skilled players test a beatmap and they get a lot of 100s, this may mean that the beatmap does not have correct timing.
 ![300 Katu][o300k] ![100 Katu][o100k] | (喝) Katu or Katsu | A term from Ouendan, called Beat! in EBA. Appears when playing the last element in a combo in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the Life Bar. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300.
@@ -76,22 +76,22 @@ Image | Name | Effect
 Image | Name | Effect
 :---:|:---:|:---
 ![Fruit][c300] | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).
-![Juice Drop][c100] | Juice Drops* (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots you see inside the sliders. It is compulsory to catch if you want to retain your combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
-![Droplets][c50] | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops*. 10pt for each Droplets. If you not catching it, it'll decrease accuracy but doesn't break combo count (shown as 50 on multiplayer and result)
-(None) | Miss Droplets | Droplets (Slider Trails) you fail to catch. Will not be shown in Results screen but is shown in server-side. Does not break your combo but decrease accuracy and lose one of the 50's score. Not considered a miss.(Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard)
-![Banana][cBanana] | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1100pt given, however this one follows spinner clear in standard which combines 1000 as bonus and 100 as spinning score.
-![Miss][c0] | Miss | Normal Fruit and Juice Drops* you failed to catch. Breaks your combo count. Given when failed to catch the Fruit/Juice Drops*. No score given and breaks combo. This can only be seen from the results screen.
+![Juice Drop][c100] | Juice Drops (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots (slider ticks) inside the sliders. It is compulsory to catch for combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
+![Droplets][c50] | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops. 10pt for each Droplets. It would decrease accuracy for not capturing but does not break combo count (shown as 50 on multiplayer and result)
+(None) | Miss Droplets | Droplets (Slider Trails) not caught. Not shown in Results screen but is shown in server-side. Combo will not be broken but will decrease accuracy and lose out one of the 50's score. Not considered a miss. Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard.
+![Banana][cBanana] | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1,100pt given, however this one follows spinner clear in osu!standard which combines 1000 as bonus and 100 as spinning score.
+![Miss][c0] | Miss | Normal Fruit and Juice Drops not caught. Breaks combo count. Given when failed to catch the Fruit/Juice Drops. No score given and breaks combo. This can only be seen from the results screen.
 
 ### osu!mania
 
 Image | Name | Effect
 :---:|:---:|:---
-![Rainbow 300][m500] | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, you will get regular 300. If you manage to complete the beatmap with just this score, you will get 1 mil score (score limit). This is equivalent to _Marvelous_ in DDR term.
-![300][m300] | 300 | Almost perfect hit of the note or hold. If you did not get MAX, you will most likely to get this because your timing is a bit off by a small amount. You can't hit the score limit when you get this mark.
+![Rainbow 300][m500] | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term.
+![300][m300] | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given.
 ![200][m200] | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.
-![100][m100] | 100 | Early or late hit or hold. It doesn't affect the HP bar at all.
-![50][m50] | 50 | Very early or very late hit or hold. If you did not release the hold, you will get this by default. This decreases HP, but not for a drastic amount. Does not break combo.
-![0][m0] | Miss | Not hitting the note or holding the note using the correct keys. This will drastically drain the HP and breaks the current combo.
+![100][m100] | 100 | Early or late hit or hold. It does not affect the HP bar at all.
+![50][m50] | 50 | Very early or very late hit or hold. This score will be given for unreleased hold notes by default. Decreases HP, but not for a drastic amount. Does not break combo.
+![0][m0] | Miss | Not hitting the note or holding the note using the correct keys. Drastically drain the HP and breaks the current combo.
 
 ## Scoring
 
