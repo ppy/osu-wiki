@@ -268,6 +268,12 @@ The following will not increase or reset the score multiplier:
 The system used to calculate life gain is complicated so it will not be explained in detail.
 It all revolves around the life difficulty setting which can only be set by the mapper itself.
 
+### Score v2
+
+_(To be added)_
+
+### Score v1
+
 **The player gain life from:-**
 
 - Getting _GREAT_ or _GOOD_ on small/large notes.
