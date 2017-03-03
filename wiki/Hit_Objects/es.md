@@ -1,4 +1,4 @@
-Hit Objects - Spanish
+Hit Objects (Español)
 ===========================
 
 Un *hit object* (objetos de golpeo) es un elemento principal en osu!. Hay tres tipos de *hit objects*:

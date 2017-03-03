@@ -1,4 +1,4 @@
-Normal - Spanish
+Normal (Español)
 ================
 
 Dificultad Normal, Son dificultades en las que usted debe tener conocimientos básicos para jugar con ellos. Son los más fáciles las dificultades junto a [Facil](/wiki/Difficulties/osu!/Easy).

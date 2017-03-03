@@ -1,4 +1,4 @@
-Insane - Spanish
+Insane (Español)
 =================
 
 Las dificultades Insane son las más difíciles en un conjunto de 4 mapas. Estos mapas generalmente son donde mejor se nota la habilidad del mapper y donde suele haber mayor creatividad. Algunos otros nombres de dificultad han sido utilizados como equivalente de "insane", como "Lunatic" (como puede verse en las dificultades más difíciles de *Touhou* series), "Another" (en *IIDX beatmania* series), "Extreme" (en *Jubeat* Series), etc.

@@ -1,4 +1,4 @@
-Expert - Indonesian
+Expert (Bahasa Indonesia)
 ======================
 
 Untuk mendorong dan memperluas batasan dalam pembuatan suatu map, tingkat kesulitan Expert dibuat guna menjadi suatui beatmap yang menyerupai tingkat kesulitan [Insane](/wiki/Difficulties/osu!/Insane) namun lebih sulit dari itu.

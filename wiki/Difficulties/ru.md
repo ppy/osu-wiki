@@ -1,4 +1,4 @@
-Difficulty appropriate gameplay elements - Russian
+Difficulty appropriate gameplay elements (Русский)
 =================================================
 
 Звёзды сложности и иконки
