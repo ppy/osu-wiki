@@ -40,9 +40,9 @@
 
 ![Gameplay of osu!mania][osu!mania Interface image]
 
-This mode has been widely used in almost all of the major rhythm games.
+The mode has been widely used in almost all of the major rhythm games.
 It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
-With this, the player will have to press the correct key for that specific note in time.
+The player will have to press the correct key for that specific note in time.
 Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
 
 It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons notes moving vertically rather than moving horizontally.
@@ -69,11 +69,9 @@ Do note that the judgement of a beatmap is determined automatically.
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
 With the [xK][xK wikilink] game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction.
-However, this game modifier will not work with osu!mania-specific beatmaps.
+However, the game modifier will not work with osu!mania-specific beatmaps.
 
-With the [Co-Op][Co-Op wikilink] game modifier, the stage will be split in two.
-This will use Co-Op's control scheme and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction.
-
+With the [Co-Op][Co-Op wikilink] game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction.
 Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
 
 #### Speed Change
@@ -81,7 +79,7 @@ Do note that while the preset number of keys will not be doubled on osu!mania-sp
 ![Speed Change value is located at the top-right][osu!mania SC image]
 
 _The upper-right corner displays the scroll speed.
-This image shows the difference between the BPM scaling and fixed scroll speeds respectively._
+The image shows the difference between the BPM scaling and fixed scroll speeds respectively._
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower).
 
@@ -91,7 +89,7 @@ The lowest limit is 1 and the highest limit is 40.
 
 ![A difference Speed Change can make depending on beatmap's density][osu!mania SCDiff image]
 
-_A difference Speed Change can make depending on beatmap's density, BPM, and scaling system used_
+_A difference Speed Change can make depending on beatmap's density, BPM, and scaling system used (image above use Speed Change value of  1)_
 
 **BPM scaling** is the current default old scaling system which scale the scroll speed relative to the current BPM played.
 There will be a difference in scroll speed when playing a 100BPM (scrolls slower) and 200BPM (scrolls faster) beatmap with the same scaling speed.
@@ -100,9 +98,10 @@ There will be a difference in scroll speed when playing a 100BPM (scrolls slower
 
 _Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`_
 
-**Fixed** scroll speed is the new system that allows a fixed absolute scrolling speed.
-It will _always_ scroll in that speed regardless of current BPM.
+**Fixed** scroll speed is the new system that enforce a constant scroll speed along with the current BPM speed.
 [A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/forum/t/254145).
+
+Do note that both scaling system will still be affected by speed up/down by BPM changes, with the changes ranging from drastic (usually for BPM scaling to higher BPM with speedy notes; very low BPM for fixed scaling with condensed notes) to minor (usually fixed scaling on most BPM spectrum) depending on Speed Change settings used.
 
 ### Gameplay
 
@@ -155,7 +154,7 @@ Depending on the song and mapping quirks, it is possible that other notes or hol
 
 _[Refer to Options-&gt;Input under Keyboard section, specifically the `osu!mania layout` button to adjust the key settings][Options#Keyboard wikilink]_
 
-Do note that the controls information provided below refers to the old key settings used in Options where the keys are mapped relatively and applied to all key settings.
+Do note that the controls information provided below refers to the _old_ key settings used in Options where the keys are mapped relatively and applied to all key settings.
 
 The new key settings require the player to manually set it using the `osu!mania layout` button provided above for _every_ key layout (unmapped key layouts will use the default key settings instead).
 
@@ -258,7 +257,7 @@ Key | PL | PC | PR | SL | SC | SR
 
 _[Scoring Values can be found in Score under osu!mania Scoring Values section][Score#osu!maniaSV wikilink]_
 
-This section details all the intricacies of scoring, including mathematical formulaes.
+Scoring section details all the intricacies of scoring, including mathematical formula.
 
 ### Grades
 
@@ -349,41 +348,41 @@ Flashlight                    1.06
 - Do a _NG_ and not recover the hold note: Miss
 - Do a _NG_ and even hold back the note: 50
 
-NG: _Not Good_, a term in StepMania/DDR, which happens when the hold note was released during hold timing.
+NG: _Not Good_, a term in _StepMania/DDR_, which happens when the hold note was released during hold timing.
 
 ### Score/Combo Multiplier
 
-The following each add a point to the score/combo multiplier:
+**The following each add a point to the score/combo multiplier:-**
 
 - Completing the note with correct key.
 - Holding the hold note with correct key.
 
-The following will reset the score multiplier to zero:
+**The following will reset the score multiplier to zero:-**
 
 - Not completing the note.
 - Releasing the hold note during the hold period.
 
-The following will not increase or reset the score multiplier:
+**The following will not increase or reset the score multiplier:-**
 
 - Releasing the hold note on the ending note of the hold.
 
-## Life meter
+## Health bar
 
-The system used to calculate life gain is complicated so it will not be explained in detail.
-It all revolves around the life difficulty setting which can only be set by the mapper itself.
+The system used to calculate health gain is complicated so it will not be explained in detail.
+It all revolves around the HP difficulty setting which can only be set by the mapper itself.
 
-**The player gain life from:-**
+**The following will result in health recovery:-**
 
 - Getting Rainbow 300, 300, or 200.
 - Holding the hold note with correct key.
 
-**The player lose life from:-**
+**The following will result in health loss:-**
 
 - Getting 50 or Miss.
 
-**The player reserve life from:-**
+**The following will reserve health in the health bar:-**
 
-- Getting 100.
+- None.
 
 ## Skinning
 
@@ -418,14 +417,14 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 - Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
 - When played by [Auto][Auto wikilink], the player name will be _osu!topus_.
 
-### Others
+### History
 
 ![osu!mania logo in the Special Modes][osu!mania logo]
 
 _osu!mania logo in the deprecated Special Modes_
 
 - osu!mania was released on [**08 August 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
-- The old osu!mania editor used to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
+- The old osu!mania editor _used_ to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
 - The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
 ## References

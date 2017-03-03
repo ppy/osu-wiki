@@ -91,9 +91,7 @@ Alternatively, click on the `Mode` button and select `osu!`.
 
 _In-game interface of osu!_
 
-The top-left bar is the health bar.
-This will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
-
+The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner.
 A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50).
 A total miss will take a good chunk of health out of the health bar.
 
@@ -113,7 +111,7 @@ Tap on the note at the exact point when it touches the white border of the hit c
 A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat.
 The hit circle will disappear after the score burst.
 
-To understand the hidden charm of hit circles, do not rely only on perception only; feel the beatmap's beats and rhythm.
+To understand the hidden charm of hit circles, do not rely on perception only; feel the beatmap's beats and rhythm.
 It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
 
 #### Sliders
@@ -126,7 +124,7 @@ A ball will begin to move across the path.
 Hold the mouse/keyboard-button (or keep the pen onto the tablet) and follow the ball within the thick orange circle, surrounding the ball, as it moves.
 The orange outer circle, called the follow circle, will appear if when holding onto the slider's ball, but will disappear when released.
 
-Sometimes, as seen in the screenshot above, the ball may reverse its direction and must follow the ball back to the start of the path or vice versa.
+Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa.
 The visual cue is a reverse arrow at the ending/starting circle of the path.
 
 #### Spinners
@@ -159,25 +157,25 @@ The maximum number of spins per minute achievable is 477 which is also the rate 
 
 The default controls for osu! are:-
 
-Mouse | Keyboard | Tablet/Touchscreen
+Mouse|Keyboard|Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1)
+Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax][Relax wikilink] mod was used, only the in-game cursor will work.
+If [Relax][Relax wikilink] game modifer was used, only the in-game cursor will work.
 Use the in-game cursor to follow the hit objects with automated tap.
 Spinners must still be completed.
 
-If [Auto Pilot][Auto Pilot wikilink] mod was used, only the input from the input device will work.
+If [Auto Pilot][Auto Pilot wikilink] game modifier was used, only the input from the input device will work.
 Time the tap on the hit objects with automated cursor movement.
-Spinner will follow the [Spun Out][Spun Out wikilink] mod speed.
+Spinners will follow the [Spun Out][Spun Out wikilink] mod speed.
 
 ## Scoring
 
 _[Scoring Values can be found in Score under osu! Scoring Values section][Score#osu!SV wikilink]_
 
-This section details all the intricacies of scoring, including mathematical formula.
+Scoring section details all the intricacies of scoring, including mathematical formula.
 
 ### Grades
 
@@ -255,68 +253,73 @@ It will only account for original values only.
 
 **Hit circles**
 
-- The player gains 300, 100 or 50 from a normal hit circle depending on how accurately the player click on it.
-- If the player do not click on the hit circle at all or click on it way too early, the player will receive a miss.
+- A 300, 100 or 50 given from a normal hit circle depending on how accurately the player tap on it.
+- A miss given if the player do not click on the hit circle at all or click on it way too early.
 
 **Sliders**
 
 - The judgement for sliders does not depend on the accuracy of the initial hit.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-- The player receive a 300 if the player successfully get all slider ticks, a 100 if the player get at least half of them and a 50 if the player manage to hit even one of the ticks.
-- Tapping a slider **too early** does not incur a miss, but will **reset** the score multiplier to **0**.
+- A 300 given if the player successfully gets all slider ticks, a 100 given if the player gets at least half of them, and a 50 given if the player manages to collect even one of the ticks.
+- Tapping a slider **too early** does not incur a miss but will **reset** the score multiplier to **0**.
   - Not collecting the slider ticks, shown or otherwise, will not incur a miss, but will **reset** the score multiplier to **0**.
-  - Missing the slider end does not incur a miss, but will **not** increment the score multiplier.
-- The player only receive a miss if the player hit none of the slider ticks.
+  - Missing the slider end does not incur a miss but will **not** increment the score multiplier.
+- A miss given if the player collects none of the slider ticks.
 
 **Spinner**
 
-- For a spinner, the player receive a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
-- The player receive a miss if the player are not able to fill the meter shown on both sides of the spinner.
+- A 300, 100 or 50 given depending on the number of spins done compared to the length of the spinner.
+- A miss if the player unable to expand the spinner circle to a satisfactory limit for a 50 to be given.
+  - v1 skin behaviour: A miss if the player unable to fill the meter shown on both sides of the spinner to a satisfactory limit for a 50 to be given.
 
 ### Score/Combo Multiplier
 
-The following each add a point to the score/combo multiplier:
+**The following each add a point to the score/combo multiplier:-**
 
-- A successfully hit on the hit circle.
-- A successfully hit at the start of a slider.
-- A successfully touched end of a slider.
-- A successfully touched on the slider tick.
-- A successfully completed/semi-completed spinner.
+- A successful tap on the hit circle.
+- A successful tap at the start of a slider.
+- The slider ball collected a slider tick successfully.
+- The slider ball touched the end or a reverse arrow of a slider successfully.
+- A successful completed/semi-completed spinner.
 
-The following will reset the score multiplier to zero:
+**The following will reset the score multiplier to zero:-**
 
 - Missing a hit circle.
-- Tapping a slider start too early.
+- Tapping a slider start early.
 - Missing a slider start or slider tick.
-- Unable to fill up at least half the gauge of a spinner.
+- Unable to expand the spinner circle to a satisfactory size.
+  - v1 skin behaviour: Unable to fill up at least half the gauge of a spinner.
 
-The following will not increase or reset the score multiplier:
+**The following will not increase or reset the score multiplier:-**
 
 - Missing a slider end (will result in getting Katu or 100/50 Hit).
 - Spinner: 1,000 Bonus
 
-## Life meter
+## Health bar
 
-The system used to calculate life drain and life gain is complicated so it will not be explained in detail.
-It all revolves around the life difficulty setting which can only be set by the mapper itself.
+The system used to calculate health drain and health gain is complicated so it will not be explained in detail.
+It all revolves around the HP difficulty setting which can only be set by the mapper itself.
 
-**The player gain life from:-**
+**The following will result in health recovery:-**
 
-- Hitting a hit circle. (Better judgement leads to more life gain. The last hit circle in a color combo awards more life.)
-- Hitting a slider start, end or return tick. (Better judgement at the end tick leads to more life gain)
-- Spinning and completing a spinner. (Better judgement at the end of the spinner leads to more life gain)
-- Continue to spin the spinner (depends on how fast the player spin per spin difficulty)
+- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a color combo awards more health).
+- A successful tap on a slider start.
+- The slider ball collected a slider tick successfully.
+- The slider ball touched the end or a reverse arrow of a slider successfully (better judgement at the end tick leads to more health gain).
+- Completing a spinner and continuous spinning in the spinner duration (better judgement at the end of the spinner leads to more health gain).
 
-**The player lose life from:-**
+**The following will result in health loss:-**
 
-- Constant life drain.
-- Missing a hit circle or a slider.
-- Not completing a spinner.
-- Not spinning after the player completed the spinner.
+- Constant health drain.
+- Miss was given.
+- Missing a hit circle.
+- Tapping a slider start early.
+- Missing a slider tick, or slider reverse arrow.
+- Unable to complete a spinner for a 50 to be given.
 
-**The player reserve life from:-**
+**The following will reserve health in the health bar:-**
 
-- Break time
+- Break time.
 
 ## Skinning
 
@@ -339,26 +342,32 @@ _Usage of Smoke_
 _Smoke in key bindings settings; hold `C` key to trigger by default in osu!_
 
 - Depending on difficulty setting and the timing tolerance, tapping on the hit object _way too early_ will heavily vibrate the hit object instead.
-- Releasing slider ball on empty slider path without hidden or visible slider ticks does not breaks combo nor gives any score.
-  Slider only checks whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
+- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given.
+  Slider judgement only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction.
   The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
+- Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail.
   Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi][Mascots#pippi wikilink].
 - When played by [Auto][Auto wikilink], the player name will be _osu!_.
 
-### Others
+### History
 
 ![Combo Fire][Combo Fire image]
 
 _Combo Fire_
 
-- Older version of osu! used to emulate some of the elements from the ouendan series before being removed or replaced.
+- Older version of osu! used to emulate some of the elements from the _ouendan_ series before being removed or replaced.
   - Combo fire when hitting new combo milestones.
     - Removed on 5th of March, 2013, due to performance issues.
-  - The first version of default skin, which was _osu!default by peppy_ skin, which provides an almost identical copy of the ouendan interface.
-    - Replaced by nicer current default skin.
+  - The first version of default skin using v1 skin behaviour, which was _osu!default by peppy_ skin, provides an almost identical copy of the _ouendan_ interface.
+    - It was replaced by nicer current default skin using v2 skin behaviour.
+  - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
+    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per _ouendan_ series.
+      - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
+    - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
+      - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
 - The first three beatmaps ranked on the same day (7th of October, 2007) when the online leaderboard went live were:-
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.

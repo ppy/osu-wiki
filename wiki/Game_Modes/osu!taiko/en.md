@@ -57,12 +57,12 @@ _In-game playfield interface of osu!taiko_
 For players with prior _Taiko no Tatsujin_ experience:-
 
 - No chibi dancers at the bottom (must be storyboarded)
-- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in this [Skin Compendium][Skin Compendium link] to find and get a decent osu!taiko skin or the [Taiko skin by LuigiHann][Taiko by LuigiHann link])
+- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in the [Skin Compendium][Skin Compendium link] for a decent osu!taiko skin)
 - _Kiai Time_ triggers the _"Go-Go Time"_
   - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
 - Background display difference
-  - osu!taiko-specific beatmaps usually has its own custom background, leaving upper section empty
-  - A video or static background image-only will take the lower portion only
+  - osu!taiko-specific beatmap usually has its own custom background, leaving upper section empty
+  - A video or static background image-only beatmap will take the lower portion only
   - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
 
 For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap.
@@ -141,7 +141,7 @@ _TaTaCon_ drum controller were primarily made for the home ports of _Taiko no Ta
 
 _[Scoring Values can be found in Score under osu!taiko Scoring Values section][Score#osu!taikoSV wikilink]_
 
-This section details all the intricacies of scoring, including mathematical formula.
+Scoring section details all the intricacies of scoring, including mathematical formula.
 
 The scoring terms in osu!taiko use the same terms used in _Taiko no Tatsujin_ as shown below:-
 
@@ -185,9 +185,9 @@ Each _GOOD_ gives half of the score as _GREAT_ does, while zero score is given f
 
 Double score is given for _successful hit_ on large notes (different from _Taiko no Tatsujin_, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes).
 
-For yellow long notes, 300 is given per hit in the small one while 600 per hit is given to the large one.
+For yellow long notes (drumroll), 300 is given per hit in the small one while 600 per hit is given to the large one.
 
-For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
+For denden/shaker notes, each strike/shake gives 300 and finishing the denden/shaker gives score twice as much as a GREAT of the current combo.
 
 A typical value of _n_ (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
 For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per hit is 940/1,880.
@@ -202,7 +202,7 @@ For example, in a typical difficulty (80), breaking a combo in the middle of a s
 
 Also unlike the other game modes, Kiai Time has an effect on scores because it refers to the _"Go-Go Time"_ in _Taiko no Tatsujin_.
 While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it.
-Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a shaker (the final hit is still multiplied).
+Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (drumroll) included, except for hits on a denden/shaker (the final hit is still multiplied).
 
 In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
@@ -216,7 +216,7 @@ Term | Meaning
 **min(x, y)**              | Always pick the lowest value between _x_ or _y_.
 **Kiai Time**              | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.
 
-Exceptions:-
+**Exceptions:-**
 
 - Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
 - Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
@@ -237,36 +237,39 @@ _(To be added)_
 
 **Drumroll**
 
-- Score given when drummed successfully on the small notes in the drumroll with any colour.
+- Constant 300/600 score with Kiai Time bonus when available given per small notes drummed successfully in the drumroll with any colour.
 - No score given when drummed on the gap of the small notes.
 - No _MISS/BAD_ for not doing the drumroll as per _Taiko no Tatsujin_ style.
 
 **Denden/Shaker**
 
-- Score given per hit/shake until completed.
+- Constant 300 score given per hit/shake until completed.
+- _GREAT_ given on the last hit/shake.
 - _MISS/BAD_ damage given (not considered a miss) if failed to complete the Denden/Shaker successfully.
 
 ### Score/Combo Multiplier
 
-The following each add a point to the score/combo multiplier:
+**The following each add a point to the score/combo multiplier:-**
 
 - Getting _GREAT_ or _GOOD_ on small/large notes.
 
-The following will reset the score multiplier to zero:
+**The following will reset the score multiplier to zero:-**
 
 - Getting _MISS/BAD_ on small/large notes
 
-The following will not increase or reset the score multiplier:
+**The following will not increase or reset the score multiplier:-**
 
 - Doing the drumroll.
 - Not doing the drumroll.
 - Completing the Denden/Shaker
 - Not completing the Denden/Shaker
 
-## Life meter
+## Health bar
 
-The system used to calculate life gain is complicated so it will not be explained in detail.
-It all revolves around the life difficulty setting which can only be set by the mapper itself.
+The system used to calculate health gain is complicated so it will not be explained in detail.
+It all revolves around the HP difficulty setting which can only be set by the mapper itself.
+
+**Note:** The health bar must be at least **50% full** to pass the beatmap.
 
 ### Score v2
 
@@ -274,23 +277,22 @@ _(To be added)_
 
 ### Score v1
 
-**The player gain life from:-**
+**The following will result in health recovery:-**
 
 - Getting _GREAT_ or _GOOD_ on small/large notes.
 
-**The player lose life from:-**
+**The following will result in health loss:-**
 
 - Getting _MISS/BAD_ on small/large notes
 - Not completing the Denden/Shaker
 
-**No effect from:-**
+**The following does nothing to the health bar:-**
 
 - Doing the drumroll.
 - Not doing the drumroll.
 - Completing the Denden/Shaker
 
-**Note:** The life meter must be at least **50% full** to pass the beatmap.
-As such, it is entirely possible for a beatmap to _never pass by design_ due to the beatmap containing drumrolls and/or dendens/shakers only.
+**Note:** It is entirely possible for a beatmap to _never pass by design_ due to the beatmap containing drumrolls and/or dendens/shakers only.
 
 ## Skinning
 
@@ -302,7 +304,7 @@ As such, it is entirely possible for a beatmap to _never pass by design_ due to 
   - large red notes needs a finish hit sound.
 - The blue notes needs to have a whistle/clap hitsound on that hit circle,
   - large blue notes need both finish and whistle together.
-- The sliders represents the long yellow note (also known as "drumroll")
+- The sliders represents the long yellow note (also known as drumroll)
 - The spinner represents a shaker.
 
 Design placement of the notes does not matter.
@@ -314,7 +316,7 @@ When a map conversion happens (playing an osu!standard map in osu!taiko mode), v
 For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
 
 Do note that 1/8 rhythms are not often used in music.
-Because of this, it's not suggested to place slider when something like this happens.
+It is not suggested to place slider when in 1/8 rhythm.
 
 Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used.
 
@@ -331,7 +333,7 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 - Mascot for osu!taiko is [pippidon][Mascots#pippi wikilink].
 - When played by [Auto][Auto wikilink], the player name will be _mekkadosu!_.
 
-### Others
+### History
 
 ![osu!taiko logo in the Special Modes][osu!taiko logo]
 

@@ -59,7 +59,7 @@ Ports done by the community of osu!.
 
 - ![osu! icon][osu! icon link] Beats v1.75 FINAL:
   Old Stepmania/ancient osu! port by **Keripo**.
-  - The final build is 1.7.5b as in 10th April 2014. [Previous builds can be found here](http://beatsportable.com/static/releases/). Please note that the osu! mode is based on osu! as in February 2011 and there will be no support for osu! (superseded by [osu!droid][osu!droid wikilink] since August 2011) in Beats 2.
+  - The final build is 1.7.5b as in 10 April 2014 (2014-04-10). [Previous builds can be found here](http://beatsportable.com/static/releases/). Please note that the osu! mode is based on osu! as in February 2011 and there will be no support for osu! mode (superseded by [osu!droid][osu!droid wikilink] since August 2011) in Beats 2.
 - ![osu! icon][osu! icon link] [osu!droid][osu!droid wikilink]:
   osu! port developed by **Pesets**.
   Broken due to no support for newer beatmap version and the disappearance of the original developer.

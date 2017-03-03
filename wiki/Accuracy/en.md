@@ -74,7 +74,7 @@ Note that if using the API to calculate the accuracy, number of droplets is unde
 
 ### osu!mania
 
-In [osu!mania][osu!mania wikilink], accuracy is calculated similarly to [osu!standard][osu! wikilink] in this mode.
+In [osu!mania][osu!mania wikilink], accuracy is calculated similarly to [osu!standard][osu! wikilink].
 
 In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
@@ -89,7 +89,7 @@ Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculatin
 
 ### Ranking
 
-This shows the grade, an overview of the hits, as well as the actual accuracy percentage of the player.
+Ranking shows the grade, an overview of the hits, as well as the actual accuracy percentage of the player.
 
 For more details, see [Score][Score wikilink].
 
@@ -100,7 +100,7 @@ For more details, see [Score][Score wikilink].
 
 ### Performance Graph
 
-This shows a graph of the performance over the course of a play.
+A graph of the performance over the course of a play.
 
 Additional information is shown when hovering the in-game cursor over it:
 
@@ -110,8 +110,8 @@ Additional information is shown when hovering the in-game cursor over it:
 
 Term | Meaning
 ---- | -------
-Error | **These two values represent how far off the early hits are on average, and how far off the late hits are on average.** The higher the [OD value][OD wikilink] of the beatmap played, the lower these will have to be to do well.
-Unstable Rate | **This value represents how consistently the timing of the hits**, with lower numbers being better (top players often score below 100). Note that this measures **consistency**, and not _accuracy_, so consistently in hitting 15ms early is the same as consistently in hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
+Error | **These two values represent how far off the early hits are on average, and how far off the late hits are on average**. The higher the [OD value][OD wikilink] of the beatmap played, the lower these will have to be to do well.
+Unstable Rate | **The value represents how consistently the timing of the hits**, with lower numbers being better (top players often score below 100). Note that the value measures **consistency**, and not _accuracy_, so consistently in hitting 15ms early is the same as consistently in hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
 
 #### Spin
 
@@ -119,7 +119,7 @@ _Spin is only for [osu!standard][osu! wikilink]_
 
 Term | Meaning
 ---- | -------
-Speed | **Average spinning speed on all the spinner(s) in the beatmap.** Max is the highest rpm(rounds per minute) achieved in one of the beatmap's spinner(s).
+Speed | **Average spinning speed on all the spinner(s) in the beatmap**. Max is the highest rpm(rounds per minute) achieved in one of the beatmap's spinner(s).
 Unstable Rate | **Values based on average against Max deviation**, the lower the better. Formula is unknown.
 
 **Notes**

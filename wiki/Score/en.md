@@ -113,7 +113,7 @@ This is where ScoreV2 comes in.
 ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 (1 million) score at 1.00x score modifier with extra score gains from spinner's bonus for osu!, drumrolls for osu!taiko, and bananas as usual for osu!catch.
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
-ScoreV2 can be tested in [Multi](/wiki/Multi) mode as one of the Match Setup's Win Condition.
+ScoreV2 can be tested in [Multi](/wiki/Multi "Multi") mode as one of the Match Setup's Win Condition.
 As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers/) game modifier.
 
 ### Score
@@ -280,19 +280,19 @@ Flashlight                    1.06
 
 Suppose a player played these four beatmaps online with a logged-in osu!account on a single game mode, osu!standard:-
 
-- ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/s/3302 "BRANDY - The Festival of Ghosts 2 by darrihuka")
+- ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/s/3302 "BRANDY - The Festival of Ghosts 2 (darrihuka)")
   - Relaxing : 3,000,000
   - **DaRRi MIx : 5,000,000**
-- ![Ranked icon][rank] [ZZ - Samurai Blue](https://osu.ppy.sh/s/271 "ZZ - Samurai Blue by elzamxrai")
+- ![Ranked icon][rank] [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/s/271 "ZZ - Samurai Blue (elzamxrai)")
   - Easy : 500,000
   - **Normal : 1,000,000**
   - Hard : No score
-- ![Ranked icon][rank] [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/s/1264 "Matchbox 20 - How Far We've Come by Sushi")
+- ![Ranked icon][rank] [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/s/1264 "Matchbox 20 - How Far We've Come (Sushi)")
   - **Normal : 2,000,000**
   - Hard : 1,500,000
     - First failed online play : 2,450,000
     - Second failed online play : 50,000
-- ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her?](https://osu.ppy.sh/s/1785 "Nico Nico Douga - U.N. Owen Was Her? by Reikin")
+- ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/s/1785 "Nico Nico Douga - U.N. Owen Was Her? (Reikin)")
   - **Normal : 2,000,000**
     - Offline play : 50,000,000
 

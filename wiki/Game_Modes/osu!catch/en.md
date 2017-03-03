@@ -67,7 +67,7 @@ Timing and where it falls on the plate does not matter; either a full score for 
 
 _Fruits are the hit circles of osu!catch, and it rains down from top of the screen_
 
-To catch these fruits, make sure it falls to the plate, and not over the plate.
+To catch these fruits, make sure it falls to the plate and not over the plate.
 Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
 
 #### Fruit trails
@@ -125,13 +125,13 @@ _[Refer to Options-&gt;Input under Keyboard section, specifically the Change key
 
 The placement of in-game cursor does not matter when playing normally.
 If [Relax][Relax wikilink] mod was enabled, the control of the catcher will be the in-game cursor instead.
-However, this will make the play unrankable (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ## Scoring
 
 _[Scoring Values can be found in Score under osu!catch Scoring Values section][Score#osu!catchSV wikilink]_
 
-This section details all the intricacies of scoring, including mathematical formulaes.
+Scoring section details all the intricacies of scoring, including mathematical formula.
 
 ### Grades
 
@@ -157,7 +157,7 @@ Term | Formula
 **Total numbers of fruits caught** | Droplets + Drops + Fruits
 **Total numbers of fruits**        | Misses + Miss droplets + Droplets + Drops + Fruits
 
-Exception:-
+**Exception:-**
 
 - Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
 
@@ -184,7 +184,7 @@ Term | Meaning
 **Difficulty multiplier** | The difficulty setting for the beatmap
 **Mod multiplier**        | The multiplier of the selected mods
 
-**Note:** There is a difference between osu!standard and osu!catch's scoring methods:
+**Note:** There is a difference between osu!standard and osu!catch's scoring methods:-
 
 - 300s and a combo increment are not given to a finished spinner
 - reverse slider ticks are counted as a full score of a hit
@@ -204,36 +204,36 @@ Term | Meaning
 
 ### Score/Combo Multiplier
 
-The following each add a point to the score/combo multiplier:
+**The following each add a point to the score/combo multiplier:-**
 
 - Collecting the fruits.
 - Collecting the juice drops.
 
-The following will reset the score multiplier to zero:
+**The following will reset the score multiplier to zero:-**
 
 - Missed the fruits.
 - Missed the juice drops.
 
-The following will not increase or reset the score multiplier:
+**The following will not increase or reset the score multiplier:-**
 
 - Collecting the droplets.
 - Collecting the bananas.
 
-## Life meter
+## Health bar
 
-The system used to calculate life drain and life gain is complicated so it will not be explained in detail.
-It all revolves around the life difficulty setting which can only be set by the mapper itself.
+The system used to calculate health drain and health gain is complicated so it will not be explained in detail.
+It all revolves around the HP difficulty setting which can only be set by the mapper itself.
 
-**The player gain life from:-**
+**The following will result in health recovery:-**
 
-- Collecting any fruits, juice drops, droplets, and bananas.
+- Collecting any fruits, juice drops, or bananas.
 
-**The player lose life from:-**
+**The following will result in health loss:-**
 
 - Constant life drain.
-- Not collecting the fruits, juice drops, droplets, and bananas.
+- Not collecting any fruits or juice drops.
 
-**The player reserve life from:-**
+**The following will reserve health in the health bar:-**
 
 - Break time
 
@@ -263,16 +263,16 @@ It all revolves around the life difficulty setting which can only be set by the 
 - The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series][ouendan wikipedia]) until 2014, which was replaced by current catcher and mascot, [Yuzu][Mascots#Yuzu wikilink].
 - When played by [Auto][Auto wikilink], the player name will be _salad!_.
 
-### Others
+### History
 
 [first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran"
 
 ![osu!catch logo in the Special Modes][osu!catch logo]
 
-_osu!catch logo in deprecated Special Mode_
+_osu!catch (Catch the Beat) logo in deprecated Special Mode_
 
-- Until 10th of April 2012, osu!catch maps could not be ranked or be included in ranked maps.
+- Until 10 April 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps.
   However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines.
-  These guidelines are very much a work in progress, but as more CtB maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
+  These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
 - The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran][first catch link]
 - The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki (Deif)")
