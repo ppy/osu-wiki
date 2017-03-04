@@ -15,7 +15,7 @@ First, let's check if this applies to you:
 
 Check whether you are using Microsoft Basic Display Adapter as per the following diagram:
 
-<img src="Devicemanager.png" title="Devicemanager.png" alt="Devicemanager.png" width="800" />
+![Device Manager](Devicemanager.png "Device Manager")
 
 Please find drivers for your card from your manufacturer's website. Here are some common links:
 

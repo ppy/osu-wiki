@@ -16,7 +16,8 @@ Requirements
 ### Configuring Fraps
 
 Open Fraps, and lets screw around with the settings.
-<img src="Recording_1.png" title="fig:Recording_1.png" alt="Recording_1.png" width="400" />
+
+![Fraps](Recording_1.png "Fraps")
 
 Make sure that:
 
@@ -32,11 +33,12 @@ Recording your gameplay
 
 Open osu! whilst Fraps is running. If everything goes right (and if you haven't disabled this feature), you'll see a yellow FPS counter in a corner of the screen.
 
-<img src="Recording_2.png" title="Recording_2.png" alt="Recording_2.png" width="400" />
+![osu! while running Fraps](Recording_2.png "osu! while running Fraps")
 
 Now, go to the thing that you want to record. i.e: a replay of yourself getting a highscore! When you are at the part where you want to start the recording, press your Video Capture Hotkey. The FPS counter might drop and must turn red. You are now recording. Look for a minute if the FPS rate isn't changing allot. If so, try some of these tips listed above.
 
-<img src="Recording_3.png" title="fig:Recording_3.png" alt="Recording_3.png" width="400" />
+![osu! while recording with Fraps](Recording_3.png "osu! while recording with Fraps")
+
 Press the Video Capture Hotkey again to stop recording.
 
 Editing your output video
@@ -44,7 +46,8 @@ Editing your output video
 
 Drag and drop the video on the timeline in Vegas. If there are multiple files, Vegas will add them to the end of the previous part automatically.
 
-<img src="Recording_4.png" title="fig:Recording_4.png" alt="Recording_4.png" width="400" />
+![Editing video clip](Recording_4.png "Editing video clip")
+
 You can do some optional editing now.
 
 Rendering your video
@@ -52,11 +55,13 @@ Rendering your video
 
 Now that you are done editing the video, go to 'File', then click 'Render As'
 Use the following options (depending on your Vegas version):
-<img src="Recording_5.png" title="fig:Recording_5.png" alt="Recording_5.png" width="250" /> <img src="Recording_6.png" title="fig:Recording_6.png" alt="Recording_6.png" width="320" />
+
+![Rendering video clip](Recording_5.png "Rendering video clip")
+
+![Rendering video clip](Recording_6.png "Rendering video clip")
 
 Press the save button, and your video will be done in a couple of minutes. It's now ready for Youtube!
 Please note that it will take some time before the video will be available in high res on Youtube, be patient!
-[This is my video after uploading it to Youtube](http://youtube.com/watch?v=Icbvko8W2yI)
 
 **Now, go make videos and spread osu!**
 Guide done by [Remco32](http://osu.ppy.sh/u/9199), original thread [here](https://osu.ppy.sh/forum/t/18112)

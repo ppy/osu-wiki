@@ -15,7 +15,7 @@ Vérifiez tout d'abord que vous êtes concerné par le problème :
 
 À l'aide des captures ci-dessous, déterminez quel pilote est installé pour votre carte graphique.
 
-<img src="Gestionnaire périphériques fr Basic Display Adapter.png" title="Gestionnaire périphériques fr Basic Display Adapter.png" alt="Gestionnaire périphériques fr Basic Display Adapter.png" width="800" />
+![Device Manager](FR-Devicemanager.png "Device Manager")
 
 Si vous êtes concerné par le problème, deux étapes à suivre :
 

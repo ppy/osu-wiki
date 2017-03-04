@@ -6,7 +6,7 @@ Perilisan besar-besaran osu! selanjutnya menghilangkan dukungan DirectX dalam ra
 Driver yang Kuno atau Hilang
 -----------------------------
 
-<img src="IDSystemProperties.png" title="Letak Device Manager (Pengelola Perangkat) pada System Properties (Properti Sistem)" alt="Letak Device Manager (Pengelola Perangkat) pada System Properties (Properti Sistem)" width="300" />
+![Letak Device Manager (Pengelola Perangkat) pada System Properties (Properti Sistem)](IDSystemProperties.png "Letak Device Manager (Pengelola Perangkat) pada System Properties (Properti Sistem)")
 
 Jika kamu tidak mempunyai driver grafik yang terinstal, Windows akan menggunakan sebuah driver "Basic Display Adapter" secara otomatis, yang mana **bekerja** pada permainan DirectX akan tetapi sangat lambat. Ini tidak bekerja sama sekali pada OpenGL, karena itulah kami harus memastikan kamu mempunyai driver yang benar.
 
@@ -17,7 +17,7 @@ Pertama, cobalah cek jika ini juga terjadi padamu:
 
 Pastikan jika kamu menggunakan Microsoft Basic Display Adapter seperti gambar berikut:
 
-<img src="IDDevicemanager.png" title="IDDevicemanager.png" alt="IDDevicemanager.png" width="800" />
+![Device Manager](IDDevicemanager.png "Device Manager")
 
 Carilah driver untuk kartu grafikmu dari halaman web pabrikannya. Berikut beberapa tautan umum:
 
