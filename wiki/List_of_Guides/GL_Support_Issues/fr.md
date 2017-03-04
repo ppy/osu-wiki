@@ -1,3 +1,6 @@
+Aide aux problèmes d'incompatibilité d'OpenGL
+===============================================
+
 La prochaine mise à jour majeure d'osu!, prévue pour août/septembre 2015, retire définitivement la possibilité de choisir DirectX comme moteur de rendu pour le bénéfice d'OpenGL (pour des fins de simplification du framework). Si on vous a redirigé vers cette page, cela veut dire que la prochaine version d'osu! ne pourra vraisemblablement pas tourner correctement sur votre PC. Vous trouverez ci-dessous des solutions aux problèmes que vous serez susceptibles de rencontrer.
 
 Pilote d'affichage trop ancien ou inexistant

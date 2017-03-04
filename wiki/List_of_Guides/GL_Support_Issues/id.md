@@ -1,3 +1,6 @@
+Masalah Dukungan OpenGL
+========================
+
 Perilisan besar-besaran osu! selanjutnya menghilangkan dukungan DirectX dalam rangka untuk menyederhanakan framework kita. Jika kamu melihat halaman ini, itu berarti kamu tidak dapat bermain osu! pada sistemmu yang sekarang ketika rilis terbaru muncul. Halaman ini memiliki solusi umum untuk masalah yang telah kita temukan. Baca dan cobalah!
 
 Driver yang Kuno atau Hilang

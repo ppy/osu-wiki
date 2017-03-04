@@ -1,3 +1,6 @@
+Making nice recording for Youtube
+===================================
+
 [Want to use Virtualdub instead of Sony Vegas? Click here!](http://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 
 Always wanted to make a video for Youtube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.

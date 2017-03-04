@@ -1,3 +1,6 @@
+Probleme mit GL Unterstützung
+==============================
+
 Die nächste große Veröffentlichung von osu! (kommt in August-September 2015) entfernt die DirectX Unterstützung, um unseren Framework zu vereinfachen. Wenn Sie diesen Artikel sehen, bedeutet es, dass Sie, wenn der neue Build veröffentlich wurde, nicht in der Lage sind osu! auf Ihren derzeitigen System zu spielen. Bitte lesen Sie sich die folgenden Informationen gründlich durch und versuchen Sie sie aus.
 
 Fehlender oder alter Treiber
