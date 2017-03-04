@@ -503,7 +503,7 @@ Another thing to note, a slight change in a beautified table will require you to
    - e.g. `10 December 2011` or `01 April 2008`
 2. Do **not** use superscripts or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
 3. If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
-   - e.g., `2011-12-10` or `2012-05-04`
+   - e.g. `2011-12-10` or `2012-05-04`
 <!--4. Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
 
 ## Miscellaneous
