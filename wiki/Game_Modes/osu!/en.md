@@ -287,8 +287,8 @@ It will only account for original values only.
 - Missing a hit circle.
 - Tapping a slider start early.
 - Missing a slider start or slider tick.
-- Unable to expand the spinner circle to a satisfactory size.
-  - v1 skin behaviour: Unable to fill up at least half the gauge of a spinner.
+- Failed to expand the spinner circle to a satisfactory size.
+  - v1 skin behaviour: Failed to fill up at least half the gauge of a spinner.
 
 **The following will not increase or reset the score multiplier:-**
 
@@ -315,7 +315,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 - Missing a hit circle.
 - Tapping a slider start early.
 - Missing a slider tick, or slider reverse arrow.
-- Unable to complete a spinner for a 50 to be given.
+- Failed to complete a spinner for a 50 to be given.
 
 **The following will reserve health in the health bar:-**
 

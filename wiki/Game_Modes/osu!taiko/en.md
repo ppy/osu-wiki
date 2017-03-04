@@ -223,12 +223,6 @@ Term | Meaning
 
 ### Hit objects judgement
 
-#### Score v2
-
-_(To be added)_
-
-#### Score v1
-
 **Small/Large Notes**
 
 - _GREAT_ given if drummed inside the judgement circle perfectly with correct colour.
@@ -270,12 +264,6 @@ The system used to calculate health gain is complicated so it will not be explai
 It all revolves around the HP difficulty setting which can only be set by the mapper itself.
 
 **Note:** The health bar must be at least **50% full** to pass the beatmap.
-
-### Score v2
-
-_(To be added)_
-
-### Score v1
 
 **The following will result in health recovery:-**
 

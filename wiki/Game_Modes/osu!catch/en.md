@@ -161,7 +161,7 @@ Term | Formula
 
 - Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
 
-If using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
+Note that if using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
 
 ### Score
 
@@ -173,7 +173,7 @@ However, the fruit that adds up the score is different from osu!standard.
 - The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
 - Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
 
-Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
+Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode but a drop of Accuracy and score gain from it.
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
@@ -235,7 +235,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 
 **The following will reserve health in the health bar:-**
 
-- Break time
+- Break time.
 
 ## Skinning
 
