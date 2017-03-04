@@ -6,14 +6,13 @@ Original post in forums is located... right about~, here! [*How to Run osu! on Y
 Note: External Images cannot (or I assume so) be loaded through osu!wiki unless uploaded through osu!wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
 
 Introduction/Description
-========================
+-------------------------
 
 This (very detailed) guide will show you how to run osu! on Mac OS X without using Boot Camp.
 
 **Boot Camp is probably the best way to run osu!, unless you have some issues that prevent you from using Boot Camp / you want to run OS X and osu! at the same time.**
 
-System Requirements:
---------------------
+### System Requirements:
 
 -   1 Mac with an Intel Processor (Check [1](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup01.png))
 -   A minimum of 1 GB Memory (Also in [2](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup01.png))
@@ -22,7 +21,7 @@ System Requirements:
 -   1 Windows XP disc or a disc image of a Windows XP disc
 
 Installing Virtualbox
-=====================
+-----------------------
 
 1.  Go to [virtualbox.org](http://www.virtualbox.org). [4](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup02.png)
 2.  Find the Downloads section located on the left column. [5](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup03.png)
@@ -34,7 +33,7 @@ Installing Virtualbox
 8.  After the install completes, you can eject the Virtualbox disk image by selecting it on the desktop and choosing "Eject". [12](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup12.png)
 
 Configuring Virtualbox
-======================
+----------------------
 
 1.  Find VirtualBox in your Applications folder and open it. [13](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup13.png)
 2.  Select "Machine &gt; New..." or press ⌘N. [14](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup14.png)
@@ -57,16 +56,14 @@ Configuring Virtualbox
 17. You will need to set the **Base Memory Size to 512 MB**, **the Video Memory Size to 32 MB** and **Enable 3D Acceleration**. [28](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup28.png)
     1.  Click on the "Storage" tab (**1**) and select "CD/DVD-ROM" (**2**). [29](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup29.png)
 
-Users using a physical disc:
-----------------------------
+### Users using a physical disc:
 
 **(If you are using a disc image, skip ahead to "Users using a disk image:")**
 
 1.  Check the "Mount CD/DVD Drive" box and select "Host CD/DVD Drive". [30](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup30.png)
 2.  Move on to step 18.
 
-Users using a disc image:
--------------------------
+### Users using a disc image:
 
 **(If you are using a physical CD, skip ahead to step 18.)**
 
@@ -79,7 +76,7 @@ Users using a disc image:
 18. Click "OK". [35](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup35.png)
 
 Installing Windows
-==================
+------------------
 
 *Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu!wiki is strict; so I had to manually input them in.*
 
@@ -150,7 +147,7 @@ Installing Windows
 31. If the virtual machine window seems to be too small, you can now drag the bottom-right corner out to make it bigger [66](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup69.png)
 
 Installing osu!
-===============
+----------------
 
 *Notice: These instructions for "Installing osu!" are somewhat out of date... image- and some information-wise. So*
 
@@ -181,7 +178,7 @@ After the installation completes, check the box marked with the *1* and then cli
 2.  Have fun! :) [83](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup86.png)
 
 Closing Virtualbox Properly / Resuming osu! Play
-================================================
+------------------------------------------------
 
 There are two ways to do this:
 
@@ -190,24 +187,21 @@ There are two ways to do this:
 
 Both methods will allow you to quit Virtualbox <span style="text-decoration: underline;">properly</span>.
 
-Suspending the Virtual Machine:
--------------------------------
+### Suspending the Virtual Machine:
 
 1.  Quit osu!.
 2.  Close the Virtualbox window. It will prompt you with a dialog. Choose "Save the Machine State" and click "OK". [84](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup91.png)
 3.  This may take a few moments. [85](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup92.png)
 4.  After this completes, you may quit Virtualbox.
 
-Shutting Down the Virtual Machine:
-----------------------------------
+### Shutting Down the Virtual Machine:
 
 1.  Quit osu!.
 2.  Click the Start button (**1**) and then select "Turn Off Computer" (**2**). [86](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup87.png)
 3.  Select "Turn Off". [87](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup88.png)
 4.  After this completes, you may quit Virtualbox.
 
-Resuming osu! Play
-------------------
+### Resuming osu! Play
 
 1.  Start Virtualbox, click on the virtual machine in the list and press "Start". [88](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup89.png)
 2.  After it has started up, double-click on the osu! logo on the Desktop to start osu!. [89](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup90.png)
