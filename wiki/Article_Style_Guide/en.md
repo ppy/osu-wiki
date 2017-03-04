@@ -506,6 +506,10 @@ Another thing to note, a slight change in a beautified table will require you to
    - e.g. `2011-12-10` or `2012-05-04`
 <!--4. Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
 
+For consistency, please write all dates in this format (using both): `DD, Month, YYYY (YYYY-MM-DD)`. For example:
+
+- `5 August, 2015 (2015-08-05)`
+
 ## Miscellaneous
 
 - These words are spelt as follows (note the space):
