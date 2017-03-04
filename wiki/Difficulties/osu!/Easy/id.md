@@ -1,4 +1,4 @@
-Easy (Difficulty) - Indonesian
+Easy (Difficulty) (Bahasa Indonesia)
 ===================================
 
 Kesulitan Easy mudah untuk dilakukan begitu anda telah terbiasa. Pertama-tama, mulai dengan pengaturan kesulitan yang direkomendasikan berikut ini:

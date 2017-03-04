@@ -1,4 +1,4 @@
-Tournaments/Showcases - Chinese
+Tournaments/Showcases (中文)
 ======================================
 
 osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了。

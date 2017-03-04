@@ -1,4 +1,4 @@
-Normal - Japanese
+Normal (日本語)
 =====================
 
 Normalはプレイするのに必要なスキルが備わっている必要のある難易度で、[Easyの次に簡単な難易度です](/wiki/Difficulties/osu!/Easy)。

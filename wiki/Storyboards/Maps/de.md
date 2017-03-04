@@ -1,4 +1,4 @@
-Maps with Storyboards - German
+Maps with Storyboards (Deutsch)
 ===============================
 
 Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](/wiki/Storyboards) aufgelistet.

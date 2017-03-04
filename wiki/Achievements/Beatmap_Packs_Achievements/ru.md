@@ -1,4 +1,4 @@
-Achievements/Packs0916 - Russian
+Achievements/Packs0916 (Русский)
 ==================================
 
 ***[Вернуться к описанию достижений](/wiki/Achievements)***
