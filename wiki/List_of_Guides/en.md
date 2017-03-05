@@ -98,7 +98,7 @@ Gameplay Guides
 
 -   [Play Styles](/wiki/Play_Styles)
 -   [How to increase your rank](/wiki/Performance_Points)
--   [Making nice recording for Youtube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Recording osu!](/wiki/List_of_Guides/Recording_osu!)
 -   [Live streaming osu!](/wiki/Live_streaming_osu!)
 -   [How do I use the Chat Console?](/wiki/Chat_Console)
 

@@ -47,20 +47,20 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 
 ```
 例1：
- **√** 初音ミク
- **×** 初音未来
+ √ 初音ミク
+ × 初音未来
 ```
 
 ```
 例2：
- **√** 杀马特遇见洗剪吹
- **×** When Shamate meets Xijianchui
+ √ 杀马特遇见洗剪吹
+ × When Shamate meets Xijianchui
 ```
 
 ```
 例3：
- **√** 八雲 紫
- **×** 紫妈dal;fj;eij;;sdlkjmajfejf;ealija;slgvbmnfdsjme
+ √ 八雲 紫
+ × 紫妈dal;fj;eij;;sdlkjmajfejf;ealija;slgvbmnfdsjme
 ```
 
 至于“国际化”，则是将非英文转化成英文的通用表示方法。Osu!在2013年以前，并不使用非英文信息进行谱面检索，因此想要检索2013年的谱面，就需要将以上提到的信息进行**罗马音化**。
@@ -72,8 +72,8 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 对于中文，其罗马音就是其汉语拼音，单字之间以空格分隔。
 
 ```
-**例** 最炫民族风
-**结果** zui xuan min zu feng
+例  最炫民族风
+结果  zui xuan min zu feng
 ```
 
 对于日文，采用[平文式罗马字](http://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)进行罗马音化，单词之间以空格分隔。
@@ -102,7 +102,7 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 此外还有一些专辑百科类的网站，例如针对动漫/游戏音乐的 <http://vgmdb.net/> 等。
 
 ```
-**例** 搜索专辑歌曲《My Love》（月度作图比赛歌曲）
+例 搜索专辑歌曲《My Love》（月度作图比赛歌曲）
 搜索歌手和歌名可以转到专辑信息页面：http://kubaoms.bandcamp.com/album/adhd
 可以知道以下信息：歌手Kuba Oms，歌名My Love，专辑ADHD
 因此搜索关键词应该填写：Kuba Oms My Love ADHD

@@ -1,4 +1,4 @@
-Making nice recording for Youtube
+Recording osu!
 ===================================
 
 [Want to use Virtualdub instead of Sony Vegas? Click here!](http://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
@@ -10,8 +10,15 @@ Always wanted to make a video for Youtube about osu!, but never figured a good w
 Requirements
 -------------
 
--   Fraps
--   Sony Vegas (Never ever use Windows Moviemaker, it will lower the quality of the video drastically!)
+-   Recording software
+    - OBS
+    - Fraps
+    - Action!
+    - Bandicam
+-   Editing/Rendering software (Never ever use Windows Moviemaker, it will lower the quality of the video drastically!)
+    - Sony Vegas
+    - Adobe Premier
+    - AVS Video Editor
 
 ### Configuring Fraps
 

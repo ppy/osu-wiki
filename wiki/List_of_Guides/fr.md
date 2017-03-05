@@ -96,7 +96,7 @@ Guides de gameplay
 
 -   [Play Styles](/wiki/Play_Styles)
 -   [Comment augmenter votre rank](/wiki/Performance_Points)
--   [Comment ajouter des vidéos prises de YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Comment ajouter des vidéos prises de YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Live streamer du osu!](/wiki/Live_streaming_osu!)
 -   [Comment utiliser la console de chat?](/wiki/Chat_Console)
 

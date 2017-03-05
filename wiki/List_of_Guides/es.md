@@ -96,7 +96,7 @@ Guías Gameplay
 
 -   [Estilos de Juego](/wiki/Play_Styles)
 -   [Cómo mejorar tu rank](/wiki/Performance_Points)
--   [Haciendo una buena grabación para Youtube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Haciendo una buena grabación para Youtube](/wiki/List_of_Guides/Recording_osu!)
 -   [Live streaming osu!](/wiki/Live_streaming_osu!)
 -   [¿Cómo uso la consola de chat?](/wiki/Chat_Console)
 

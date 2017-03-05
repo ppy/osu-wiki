@@ -96,7 +96,7 @@ Poradniki dotyczące rozgrywki
 
 -   [Style gry](/wiki/Play_Styles)
 -   [Jak zwiększyć swoją rangę](/wiki/Performance_Points)
--   [Jak dobrze nagrywać na YouTube?](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Jak dobrze nagrywać na YouTube?](/wiki/List_of_Guides/Recording_osu!)
 -   [Jak streamować osu!?](/wiki/Live_streaming_osu!)
 -   [Jak używać czatu?](/wiki/Chat_Console)
 

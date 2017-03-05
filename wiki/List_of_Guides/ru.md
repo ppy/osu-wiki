@@ -101,7 +101,7 @@ FAQ и критерии ранкинга
 
 -   [Стили игры](/wiki/Play_Styles)
 -   [Как поднять ранк](/wiki/Performance_Points)
--   [Как записать геймплей для YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Как записать геймплей для YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Как стримить osu!](/wiki/Live_streaming_osu!)
 -   [Как пользоваться чатом?](/wiki/Chat_Console)
 
