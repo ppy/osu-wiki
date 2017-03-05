@@ -43,6 +43,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 - [Registration page](https://new.ppy.sh/tournaments/9)
 - [Discussion thread](https://new.ppy.sh/forum/t/555072)
+- [Statistics](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)
 
 -----------------------
 
@@ -98,7 +99,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | [dj TAKA VS DJ TOTTO feat.Ai - IX (yaoyujie0332)](http://osu.ppy.sh/b/1152251&m=1) | [Oni] |
 
 | Hidden | |
-| --- | :--- | 
+| --- | :--- |
 | [EBICO & jioyi - Slit (Firce777)](http://osu.ppy.sh/b/497928&m=1) | [Inner [O]ni] |
 | [BlackY vs. Yooh - HAVOX (Arrival)](http://osu.ppy.sh/b/1172439&m=1) | [Inner Oni] |
 
