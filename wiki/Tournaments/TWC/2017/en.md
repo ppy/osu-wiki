@@ -120,10 +120,6 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 18.00 (6pm) UTC +3 |
 | Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 16.00 (4pm) UTC +1 |
 
-
-
-
-
 ------------------------------------------------------------------------
 
 ## Mappool
