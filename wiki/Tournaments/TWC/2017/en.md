@@ -82,6 +82,46 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ## Schedule: Group Stage
 
+**_No responsibility is taken for the correctness of the local times in the schedules!_**
+
+### Saturday, 11. March 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 20.00 (8pm) UTC +8 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **12.00 (12pm)** | 20.00 (8pm) UTC +8 | 20.00 (8pm) UTC +8 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 13.00 (1pm) UTC +0 |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 21.00 (9pm) UTC +8 |
+| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 15.00 (3pm) UTC +2 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **14.00 (2pm)** | 22.00 (10pm) UTC +8 | 11.00 (11am) UTC -3 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 21.00 (9pm) UTC +7 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **20.00 (8pm)** | 20.00 (8pm) UTC +0 | 21.00 (9pm) UTC +1 |
+| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **20.00 (8pm)** | 21.00 (9pm) UTC +1 | 22.00 (10pm) UTC +2 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **21.00 (9pm)** | 14.00 (2pm) UTC -7 | 22.00 (10pm) UTC +1 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **21.00 (9pm)** | 22.00 (10pm) UTC +1 | 22.00 (10pm) UTC +1 |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **22.00 (10pm)** | 15.00 (3pm) UTC -7 | 18.00 (6pm) UTC -4 |
+| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **23.00 (11pm)** | 9.00 (9am) (Sun.) UTC +10 | 19.00 (7pm) UTC -4 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **23.00 (11pm)** | 16.00 (4pm) UTC -7 | 20.00 (8pm) UTC -3 |
+
+### Sunday, 12. March 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.00 (12am)** | 17.00 (5pm) (Sat.) UTC -7 | 10.00 (10am) UTC +10 |
+| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **12.00 (12pm)** | 21.00 (9pm) UTC +9 | 13.00 (1pm) UTC +1 |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 14.00 (2pm) UTC +2 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 14.00 (2pm) UTC +1 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **13.00 (1pm)** | 20.00 (8pm) UTC +7 | 16.00 (4pm) UTC +3 |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 14.00 (2pm) UTC +1 |
+| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 22.00 (10pm) UTC +8 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **14.00 (2pm)** | 15.00 (3pm) UTC +1 | 16.00 (4pm) UTC +2 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 18.00 (6pm) UTC +3 |
+| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 16.00 (4pm) UTC +1 |
+
+
+
+
+
 ------------------------------------------------------------------------
 
 ## Mappool
