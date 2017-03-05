@@ -41,15 +41,17 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ## Links
 
-- [Registration page](https://new.ppy.sh/tournaments/9)
 - [Discussion thread](https://new.ppy.sh/forum/t/555072)
-- [Statistics](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)
+- [Livestream](https://www.twitch.tv/osulive)
 
 -----------------------
 
 ## Participants
 
 **Bold users** are the team captains.
+
+Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)**
 
 | | Country | Member |
 | ---: | :---: | :--- |
