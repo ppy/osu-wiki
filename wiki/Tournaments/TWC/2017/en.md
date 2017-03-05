@@ -127,7 +127,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 ## Mappool
 ### Group Stage
 
-**[Download the mappack here!]()**
+**[Download the mappack here!](http://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar)**
 
 | NoMod | |
 | --- | :--- |
