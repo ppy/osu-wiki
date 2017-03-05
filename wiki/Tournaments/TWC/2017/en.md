@@ -79,6 +79,50 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Schedule: Group Stage
+
+------------------------------------------------------------------------
+
+## Mappool
+### Group Stage
+
+**[Download the mappack here!]()**
+
+| NoMod | |
+| --- | :--- |
+| [ENNNN - Nightfall (Ryui)](http://osu.ppy.sh/b/700552&m=1) | [Collab] |
+| [Nekomata Master+ - POINT ZERO (Nyan)](http://osu.ppy.sh/b/680907&m=1) | [NONSTOP] |
+| [shirole2 - Shounen wa Sora o Tadoru (Like Jazz Remix) (tasuke912)](http://osu.ppy.sh/b/755254&m=1) | [Oni] |
+| [COSIO(ZUNTATA) - FUJIN Rumble (seanhappy8520)](http://osu.ppy.sh/b/786641&m=1) | [GrooveCoaster-Hard(no SV)] |
+| [Venetian Snares - Epidermis (Tasha)](http://osu.ppy.sh/b/269160&m=1) | [Muri] |
+| [dj TAKA VS DJ TOTTO feat.Ai - IX (yaoyujie0332)](http://osu.ppy.sh/b/1152251&m=1) | [Oni] |
+
+| Hidden | |
+| --- | :--- | 
+| [EBICO & jioyi - Slit (Firce777)](http://osu.ppy.sh/b/497928&m=1) | [Inner [O]ni] |
+| [BlackY vs. Yooh - HAVOX (Arrival)](http://osu.ppy.sh/b/1172439&m=1) | [Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [YUC'e - MUDPIE (Y O U T A)](http://osu.ppy.sh/b/1185733&m=1) | [Kinobles' Pie] |
+| [USAO - Dynamite (Extended Mix) (tsubaki131)](http://osu.ppy.sh/b/1149905&m=1) | [nyan] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Caravan Palace - Dragons (Charles445)](http://osu.ppy.sh/b/145511&m=1) | [MM's Taiko] |
+| [yassu - dolosus (yassu-)](http://osu.ppy.sh/b/927446&m=1) | [Inner Oni] |
+
+| FreeMod | |
+| --- | :--- |
+| [Feryquitous - Dstorv (Juuryoushin)](http://osu.ppy.sh/b/719626&m=1) | [Distortion] (HD, HR) |
+| [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool)](http://osu.ppy.sh/b/932407&m=1) | [Hard Oni] (HD, HDHR) |
+| [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (EvilElvis)](http://osu.ppy.sh/b/1030166&m=1) | [taiko] (Any) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](http://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
