@@ -100,7 +100,7 @@ Gameplay Guides
 
 -   [/wiki/Play Styles](/wiki/Play_Styles)
 -   [Meningkatkan peringkatmu](/wiki/Performance_Points)
--   [Membuat rekaman bagus untuk diunggah ke YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Membuat rekaman bagus untuk diunggah ke YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Siaran Langsung osu!](/wiki/Live_streaming_osu!)
 -   [Cara menggunakan Konsol Obrolan](/wiki/Chat_Console)
 
