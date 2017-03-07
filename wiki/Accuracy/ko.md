@@ -6,11 +6,10 @@
 간단하게 말해서, 비트맵의 정확도는 Hit-scores에 따라 달라지며, 전체적인 정확도는 각 최고점수의 정확도에 따라 달라집니다. (정확도는 어떤 식으로든 가중되므로, 점수가 나쁠수록 전체의 정확도에 영향을 미치는 점에 유의하세요.) PP의 정확도는 온라인 점수의 정확도에 따라 달라집니다.
 
 
-
-Osu!Standard
+Standard
 ----------
 
-[Osu!Standard](/wiki/Game_Modes/osu!)에서 정확도는 각 노트에서 얻은 판단에, 그 값으로 가중치를 부여하고, 가능한 최대 양으로 나눔으로서 계산됩니다. 다른 말로 : 
+[Standard](/wiki/Game_Modes/osu!)에서 정확도는 각 노트에서 얻은 판단에, 그 값으로 가중치를 부여하고, 가능한 최대 양으로 나눔으로서 계산됩니다. 다른 말로 : 
 
 **정확도 = 총합 점수의 히트 / (총합 히트의 수 * 300)**
 
@@ -20,10 +19,10 @@ Osu!Standard
 
 참고 :　300 = 6/6, 100 = 2/6, 50 = 1/6, Miss = 0/6.
 
-Osu!Taiko
+Taiko
 ------
 
-[Osu!Taiko](/wiki/Game_Modes/osu!taiko) 모드에서 노래 정확도는 노트 정확도를 노트 수로 나눈 값의 합으로 계산됩니다. A GREAT (良)는 100%, a GOOD (可)은 50% (반) 그리고, MISS/BAD (不可)는 0% (콤보 깨트림) 이라 간주합니다. 드럼 롤(Drumrolls)과 스피너는 정확도에 영향을 미치지 않습니다.
+[Taiko](/wiki/Game_Modes/osu!taiko) 모드에서 노래 정확도는 노트 정확도를 노트 수로 나눈 값의 합으로 계산됩니다. A GREAT (良)는 100%, a GOOD (可)은 50% (반) 그리고, MISS/BAD (不可)는 0% (콤보 깨트림) 이라 간주합니다. 드럼 롤(Drumrolls)과 스피너는 정확도에 영향을 미치지 않습니다.
 
 **정확도 = 총합 점수의 히트 / (총합 히트의 수 * 300)**
 
@@ -31,10 +30,10 @@ Osu!Taiko
 | ---------------------| -------------------- |
 | (Miss(미스)의 수 * 0 + 100(GOOD)의 수 300(GREAT)의 수* 1) * 300 | (Miss의 수 + 100의 수 + 300의 수) |
 
-Osu!Catch
+Catch the Beat
 ------------------
 
-[Osu!Catch](/wiki/Game_Modes/osu!catch)에서 노래 정확도는 수집된 non-spinner 개체의 수를 non-spinner; 개체의 총 수로 나눈 값으로 계산됩니다. 과일, 큰 방울과 작은 방울은 모두 같은 가치를 지니게 됩니다.
+[Catch the Beat](/wiki/Game_Modes/osu!catch)에서 노래 정확도는 수집된 non-spinner 개체의 수를 non-spinner; 개체의 총 수로 나눈 값으로 계산됩니다. 과일, 큰 방울과 작은 방울은 모두 같은 가치를 지니게 됩니다.
 
 **정확도 = 잡은 과일의 총 수 / 과일의 총 수**
 
@@ -44,10 +43,10 @@ Osu!Catch
 
 API를 사용하여 정확도를 계산할 경우, 방울의 수는 **count50** 미만이며 누락 된 방울의 수는 **countkatu** 미만입니다.
 
-Osu!Mania
+Mania
 ---------
 
-정확도는 [Osu!Standard(스탠다드)](/wiki/Game_Modes/osu!)하고 유사하게 계산됩니다.
+정확도는 [Standard(스탠다드)](/wiki/Game_Modes/osu!)하고 유사하게 계산됩니다.
 
 **정확도 = 총합 점수의 히트 / (총합 히트의 수 * 300)**
 
@@ -61,19 +60,20 @@ Max는 300점보다 점수에서 더 많은 가치를 지녔음에도 불구하�
 -----------------
 
 ### 랭킹
+
   여기에는 성적, 실제 히트수, 실제 정확도 백분율이 표시됩니다. 자세한 내용은 [점수](/wiki/Score)를 참고하세요.
 
-![Osu! 랭킹 패널](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko 랭킹 패널](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
+![osu! 랭킹 패널](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko 랭킹 패널](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
 
-[Osu! 랭킹 패널](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
+[osu! 랭킹 패널](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
 
 [osu!Taiko 랭킹 패널](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
 
-[Osu!Catch 랭킹 패널](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania 랭킹 패널](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
+![osu!CtB 랭킹 패널](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania 랭킹 패널](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
 
-[Osu!Catch 랭킹 패널](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
+[osu!CtB 랭킹 패널](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
 
-[Osu!Mania 랭킹 패널](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
+[osu!Mania 랭킹 패널](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
 
 ### Performance(퍼포머스) 그래프
@@ -90,7 +90,7 @@ Max는 300점보다 점수에서 더 많은 가치를 지녔음에도 불구하�
 
 #### Spin(스핀)
 
-Spin(스핀)은 Osu!Standard(스탠다드) 전용입니다.
+Spin(스핀)은 osu!Standard(스탠다드) 전용입니다.
 
 | 용어 | 뜻 |
 | ---- | ------- |
