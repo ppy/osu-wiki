@@ -16,6 +16,7 @@
 
 <!-- External links used -->
 [Release b335]: https://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
+[Release b335 wm]: https://web.archive.org/web/20140910195837/https://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page provided by Wayback Machine."
 [osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 youtube link."
 [Match History link]: http://osu.ppy.sh/mp/x
 [modified version link]: https://osu.ppy.sh/forum/t/135726 "ppy's reply on a bug report."
@@ -50,7 +51,7 @@
 <!--Title-->
 # Multi
 
-Multi (also known as _Multiplayer_) was implemented on 03 June 2008 (2008-06-03) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
+Multi (also known as _Multiplayer_) was implemented on 03 June 2008 (2008-06-03) under [osu! Public Release b335][Release b335] (moved to mods-only abandoned wasteland forum, [Wayback Machine managed to save the original forum post][Release b335 wm]), and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
 
 The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)][osu!academy Ep6] along with the [Online Users Panel][Chat_Console#Extended_Chat Console wikilink].
 
