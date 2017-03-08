@@ -12,6 +12,7 @@
 [Sudden Death wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Sudden Death"
 [Perfect wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Perfect"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
+[Easy wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Easy"
 
 <!-- External links used -->
 [Release b335]: https://osu.ppy.sh/forum/p/26660 "osu! Public Release b335 announcement forum page."
@@ -49,7 +50,7 @@
 <!--Title-->
 # Multi
 
-Multi (also known as _Multiplayer_) was implemented on the 03 June 2008 (2008-06-03) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
+Multi (also known as _Multiplayer_) was implemented on 03 June 2008 (2008-06-03) under [osu! Public Release b335][Release b335], and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
 
 The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)][osu!academy Ep6] along with the [Online Users Panel][Chat_Console#Extended_Chat Console wikilink].
 
@@ -57,13 +58,13 @@ The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)]
 
 ### Minimum requirements
 
-![One of the ways to transfer the beatmap without leaving the room][Beatmaps_peppy image]
+![One of the ways to transfer the beatmap without leaving the Match Setup][Beatmaps_peppy image]
 
-_One of the ways to transfer the beatmap without leaving the room_
+_One of the ways to transfer a beatmap without leaving the Match Setup_
 
 - Decent online connection.
 - An osu!account logged into Bancho (should be done automatically during in-game osu!account sign-in)
-- Knowing [how to transfer beatmaps without leaving the room.][Beatmaps2 wikilink].
+- Knowing [how to transfer beatmaps without leaving the Match Setup.][Beatmaps2 wikilink].
 
 ### Ways to enter
 
@@ -76,14 +77,13 @@ If the connection request with Bancho was successful, the player will be directe
 
 ### Notes
 
-Keep in mind that downloading times can range from a few seconds to 15 minutes onwards depending on the player's connection speed.
-
-Losing connection to Bancho will direct the player back to main menu until the connection to Bancho has been recovered.
-When playing a match, a "Quit" will be given on the player box.
-
-If the player is in the **cuttingedge** build, the in-game osu!account must have an active [osu!supporter][osu!supporter wikilink] tag to enter.
-
-To access the Options screen while in a Match Setup, `Ctrl`+`O`.
+- Keep in mind that downloading times can range from a few seconds to few minutes onwards depending on the player's connection speed.
+- Losing connection to Bancho will direct the player back to main menu.
+  - When playing a match, a "Quit" will be given on the player box.
+  - To re-enter the Lobby, wait until the reconnection to Bancho was successful and click on `Multi` again.
+    - If the connection problem persists, the player should rectify the connection device used to proper working order.
+- If the player is in the **cuttingedge** build, the in-game osu!account must have an active [osu!supporter][osu!supporter wikilink] tag to enter.
+- To access the Options screen while in a Match Setup, `Ctrl`+`O`.
 
 ## Lobby
 
@@ -101,13 +101,13 @@ The filter options provided are shown below; reading from left-to-right, top-to-
 
 Title | Description
 :---: | :---
-`All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the currently specified game mode.
-`Owned Beatmaps` | Show only Match Setup which the player has the beatmap when enabled.
-`Show Full`      | Show Match Setup with full slots. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup.
-`Search`         | Click on the searchbar and type in the title of the Match Setup or the host/player name to find the Match Setup with the specified search term. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty.
-`Games with Friends` | Only show Match Setup hosted/entered by the friends of the player when enabled. This filter option will overwrites all other filter options when enabled.
-`Show Locked`      | Show locked Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given.
-`Show In-progress` | Show currently-playing Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends.
+`All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**.
+`Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled.
+`Show Full`      | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup.
+`Search`         | Click on the searchbar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty.
+`Games with Friends` | **Only show Match Setup hosted/entered by the friends of the player** when enabled. This filter option will overwrites all other filter options when enabled.
+`Show Locked`      | Show **locked** Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given.
+`Show In-progress` | Show **currently-playing** Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends.
 
 ---
 
@@ -141,9 +141,9 @@ The three buttons above the Chat Console are special commands a player can use w
 
 Title | Description
 :---: | :---
-`Back to Menu` | Self-explanatory; leave the lobby and return to the main menu.
-`New Game`     | Preparation to create a new Match Setup
-`Quick Join`   | Place the player to an available Match Setup randomly based on current pp rank range.
+`Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**.
+`New Game`     | **Preparation to create a new Match Setup**
+`Quick Join`   | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**.
 
 The [Chat Console][Chat Console wikilink] will be available at the bottom of the screen and connected to `#lobby` by default.
 
@@ -155,28 +155,26 @@ _Setting up a new game_
 
 Title | Description
 :---: | :---
-**Game Name**   | **Name of the room.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
-**Password**    | **Password to enter the room.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock.
+**Game Name**   | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
+**Password**    | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock.
 **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots.
 
-Press the `1. Start Game` button to create the room with the player as the host of the room and the beatmap playing in the jukebox as the match's beatmap/difficulty.
-
-The player will be directed to **Match Setup**.
+Press the `1. Start Game` button to **create the Match Setup** with the **player as the host** of the Match Setup and the **beatmap playing in the jukebox as the match's beatmap/difficulty**.
 
 ## Match Setup
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu!wiki for Song Selection? -->
 
-![Host room view][Multi_roomhost image]
+![Host Match Setup view][Multi_roomhost image]
 
-_Host room view_
+_Host Match Setup view_
 
-![Player room view][Multi_roomplayer image]
+![Player Match Setup view][Multi_roomplayer image]
 
-_Player room view_
+_Player Match Setup view_
 
 <!-- Top -->
-The top section at the left display the name of the screen, status in the room (either host or player), player box at the middle based on current game mode played, and a pause button to pause the beatmap's song (if the player has the beatmap) located at the right side.
+The top section at the left display the name of the screen, status in the Match Setup (either host or player), player box at the middle based on current game mode played, and a pause button to pause the beatmap's song (if the player has the beatmap) located at the right side.
 
 ---
 
@@ -196,7 +194,7 @@ For the middle section, it will be split into two parts; the left side (Current 
 
 <!-- Left -->
 On the left side, it shows the current slots available and players in this Match Setup.
-The bracket shows the number of available players in the room over the total allocated for this Match Setup.
+The bracket shows the number of available players in the Match Setup over the total allocated for this Match Setup.
 
 Players can move around the unlocked white slots except the locked black slots and other players' slots while waiting, or change their flag colour to blue/red if it is a team play.
 Hovering above a player bar will show the level, nation and accuracy of the player in question.
@@ -536,5 +534,5 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 _Screenshot of Lobby of an unpatched osu! when osu!mania was released to public (08 October 2012, 2012-10-08)_
 
 - Match Setup used to only allows up to a total of 8 players only.
-- osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their _osu!_ to the latest release patch.
-- No Video was the _only_ game modifier that was allowed for players to use; however, it was removed in favour of its placement in the Visual Settings.
+- osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their _osu!_ to the latest release patch (which enables osu!mania mode with no ranking support yet).
+- No Video was the _only_ game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.
