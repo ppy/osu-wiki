@@ -94,7 +94,7 @@ For example:
 # Skinning osu!catch (Français)
 ```
 
-You can find a list of language names in their language at [Language names in their own languages and scripts](http://www.omniglot.com/language/names.htm) or [List of language names](https://en.wikipedia.org/wiki/List_of_language_names).
+You can find a list of native language names at [Language names in their own languages and scripts](http://www.omniglot.com/language/names.htm) or [List of language names](https://en.wikipedia.org/wiki/List_of_language_names).
 
 ### Section Headings
 
@@ -274,18 +274,69 @@ For example:
 - `_Elite Beat Agents_`
 - `_Taiko no Tatsujin_`
 
-As explain in the _osu!_ section, the word `osu!` (the game or framework itself) **must** be italicized.
+As explained in the _osu!_ section, the word `osu!` (the game or framework itself) **must** be italicized.
+
+## Lists
+
+All lists (bulleted or numbered) must end in a period, if it ends the stem sentence.
+
+All lists (bulleted or numbered) **must** have one empty line space before the list starts.
+Otherwise the list may be parsed incorrectly.
+
+```
+## Section
+
+- item A
+- item B
+```
+
+To break lines in a numbered list, use:
+
+```
+- The combo fire was a gameplay feature.
+  It would display a burning yellow flame after obtaining a combo of 30.
+  - This was disabled on March 5, 2013.
+    Most likely due to performance concerns.
+```
+
+There are two kinds of lists:
+
+- bulleted
+  - used when the order of each item does not matter (e.g. describing an object)
+- numbered
+  - used when the order of each item does matter (e.g. tutorial instuctions)
+
+### Sub-Lists
+
+Sub-lists are lists that are indented underneath a listed item.
+
+Please limit to a level of four (4) sub-lists at a time (if you need more, you should reconsider about how you are structuring the list).
+
+```
+- item A
+  - sub-item A.1
+    - sub-sub-item A.1.i
+      - sub-sub-sub-item A.1.i.a
+      - sub-sub-sub-item A.1.i.b
+    - sub-sub-item A.1.ii
+      - sub-sub-sub-item A.1.ii.a
+    - sub-sub-item A.1.iii
+  - sub-item A.2
+    - sub-sub-item A.2.i
+  - sub-item A.3
+- item B
+```
 
 ## Code
 
 Use code (inline) when noting:
 
 - a key on the keyboard
+  - should use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
   - examples:
     - `.`
     - `Alt`
     - `Ctrl` + `Shift` + `A`
-  - should use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 - the text of a button
   - examples:
     - `1. Let's do it.`
@@ -303,13 +354,21 @@ Use code (inline) when noting:
     - `ComboBurstStyle`
     - `[Events]`
 - the name of a file extension
+  - must add a period (`.`) then the file extension in lowercase letters.
   - examples:
     - `.jpg`
     - `.gif`
     - `.osz`
-  - must add a period (`.`) then the file extension in lowercase letters.
 - the name of a chat channel
-  - e.g. `#lobby` or `#osu`
+  - examples:
+    - `#lobby`
+    - `#osu`
+
+### Code Blocks
+
+When using code blocks, use the ` ``` ` (triple grave mark) syntax.
+
+The osu!wiki site has a feature where you _could_ use four spaces to trigger the code blocks; however, this is **heavily** discouraged.
 
 ## Links
 
@@ -365,7 +424,7 @@ https://www.example.com/osu/lazer.xhtml?locale=jp&state=1
 
 Use of this type of link may include:
 
-- linking to another website
+- linking to another website.
 
 #### Relative-Absolute Links
 
@@ -378,8 +437,8 @@ For example:
 
 Use of this type of link may include:
 
-- linking to an article within the osu!wiki
-- linking to a shared image (images that are used in multiple places)
+- linking to an article within the osu!wiki.
+- linking to a shared image (images that are used in multiple places).
 
 #### Relative-Relative Links
 
