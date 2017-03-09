@@ -453,8 +453,8 @@ img/example.png
 
 Use of this type of link may include:
 
-- linking to an article that is a subdirectory of an article
-- linking to images for a specific article
+- linking to an article that is a subdirectory of an article.
+- linking to images for a specific article.
 
 ### Link Text
 
