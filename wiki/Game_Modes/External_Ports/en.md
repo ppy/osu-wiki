@@ -70,7 +70,7 @@ Ports done by the community of osu!.
 
 - ![osu! icon][osu! icon link] [osu! iPhone][osu! iPhone link]:
   Ancient osu! port developed by **nuudles** for jailbroken iOS.
-  Deprecated due to disappearance of the original developer and age of the program.
+  Deprecated due to disappearance of the original developer and the age of the program.
 
 ### Windows Phone
 

@@ -32,7 +32,7 @@ Here are the available game modes in osu!:-
   Collect falling fruits by moving the catcher with a plate.
   Keep dancing and do not miss the step of the beat.
 - ![osu!mania icon][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
-  Based on conveyor-type rhythm games, chiefly implemented by **woc2006**.
+  Based on conveyor-type rhythm games, chiefly introduced and implemented by **woc2006**.
   Make the notes play a melody of the beat.
 
 For a general explanation of the game modes above, see [FAQ][FAQ wikilink].

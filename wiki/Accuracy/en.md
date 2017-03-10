@@ -97,7 +97,6 @@ For more details, see [Score][Score wikilink].
 
 [Larger osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel") | [Larger osu!Taiko Ranking Panel](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel") | [Larger osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel") | [Larger osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
-
 ### Performance Graph
 
 A graph of the performance over the course of a play.
@@ -122,7 +121,7 @@ Term | Meaning
 Speed | **Average spinning speed on all the spinner(s) in the beatmap**. Max is the highest rpm(rounds per minute) achieved in one of the beatmap's spinner(s).
 Unstable Rate | **Values based on average against Max deviation**, the lower the better. Formula is unknown.
 
-**Notes**
+**Notes:-**
 
 - The above four values are not saved and will disappear after closing _osu!_.
   To see them again, watch an exported replay.
