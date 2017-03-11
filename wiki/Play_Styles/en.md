@@ -33,7 +33,7 @@ The key overlay shows left/right click as `M1` and `M2`.
 
 Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
 
-It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/Ca.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) starting getting scores on maps such as [With a Dance Number](http://osu.ppy.sh/s/29691) and [The Big Black](http://osu.ppy.sh/s/41823) whilst playing Dual Mouse.
+It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/Ca.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](http://osu.ppy.sh/s/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
 It is also common for Dual Mouse players to tape the tapping mouse to the desk.
 
 ### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Mouse + Keyboard
@@ -87,7 +87,7 @@ The play style can be similar to Tablet + Keyboard as some monitors allows for a
 
 - **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
 - **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
-- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by [geckogates](https://osu.ppy.sh/u/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/Us.gif "USA Flag") [geckogates](https://osu.ppy.sh/u/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 

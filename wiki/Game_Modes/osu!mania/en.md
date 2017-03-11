@@ -426,7 +426,7 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 _osu!mania logo in the deprecated Special Modes_
 
-- osu!mania was released on [**08 August 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
+- osu!mania was released on [**08 October 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
 - The old osu!mania editor _used_ to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
 - The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 

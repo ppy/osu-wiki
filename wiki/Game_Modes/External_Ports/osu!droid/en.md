@@ -10,17 +10,22 @@
 
 **[Click here to return to External Ports index page](../ "External Ports index page")**
 
-**osu!droid has been abandoned by the official developers (Pesets: Missing; neico: Lost motivation) and taken down from Google Play Store for inactivity and bad reviews.
-This page is an archived page.**
+**osu!droid has been abandoned by the official developers (Pesets: Missing; neico: Lost motivation) and taken down from Google Play Store on 11 August 2016 (2016-08-11) for inactivity and bad reviews.
+This page is an archived page as is without any changes.**
 
 **Do not update this page with iffy sources or sources not from osu! forums.
 This is the first and last warning.**
 
+**Thank you.**
+
 ![osu!droid](./img/Osu!droid_header.png "osu!droid")
 
-**osu!droid** is a port (or a remake) of the original game on the Android platform by [Pesets](http://osu.ppy.sh/u/Pesets). It has been under beta stage for a few months before officially released on Google Play.
+**osu!droid** is a port (or a remake) of the original game on the Android platform by [Pesets](http://osu.ppy.sh/u/Pesets).
+It has been under beta stage for a few months before officially released on Google Play.
 
-Currently, osu!droid is in ver.1.5.10 (15 January 2014). [neico](http://osu.ppy.sh/u/119665) is working on behalf of Pesets's absence. [A different pre-alpha version](http://osu.ppy.sh/forum/t/107611) is in works which may supersede osu!droid (which is currently on hiatus, though). 11/08/16
+Currently, osu!droid is in ver.1.5.10 (15 January 2014, 2014-01-15).
+[neico](http://osu.ppy.sh/u/119665) is working on behalf of Pesets's absence.
+[A different pre-alpha version](http://osu.ppy.sh/forum/t/107611) is in works which may supersede osu!droid (which is currently on ~~hiatus~~ abandoned).
 
 [Announcement by peppy about osu!droid](https://osu.ppy.sh/forum/t/62561)
 
@@ -32,21 +37,21 @@ Currently, osu!droid is in ver.1.5.10 (15 January 2014). [neico](http://osu.ppy.
 
 - You have 3 choices. Pick either one.
   - Going to [Google play page for osu!droid](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Highly suggested) or searching it in Google Play.
-  - Using [this download link](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (osu!droid.apk ver. 1.5.5) \[If you can't find it, go to Settings &gt; Security &gt; Check "Unknown Sources"\]
+  - Using [this download link](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (`osu!droid.apk ver. 1.5.5`) \[If you can't find it, go to Settings &gt; Security &gt; Check "Unknown Sources"\]
   - Older version: [1.5.2](http://dl.dropbox.com/u/45596631/osudroid1.5.2/osudroid.apk)
   - Use the QR code. (see the Original Post above)
-- Allow osu!droid.apk to install.
+- Allow `osu!droid.apk` to install.
 - osu!droid is now installed in your phone.
 
 **How to install (PC way)**
 
-- Use [this download link](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (osu!droid.apk ver. 1.5.5) \[outdated\]
+- Use [this download link](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (`osu!droid.apk ver. 1.5.5`) \[outdated\]
   - Older version: [1.5.2](http://dl.dropbox.com/u/45596631/osudroid1.5.2/osudroid.apk)
-- Download the .apk file from your computer.
-- Transfer the .apk file to your device using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
+- Download the `.apk` file from your computer.
+- Transfer the `.apk` file to your device using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
   - Please set your device to "USB connection mode" first. (Depending on your device)
-- Find and open the .apk file from your device.
-- Allow osu!droid.apk to install.
+- Find and open the `.apk` file from your device.
+- Allow `osu!droid.apk` to install.
 - osu!droid is now installed in your phone.
 
 ## Adding Beatmaps
@@ -66,7 +71,7 @@ P.S. It has *many other uses* other than downloading beatmaps for osu!droid only
 
 - Open your preferred browser and go to <http://bloodcat.com/osu/>
 - Select your desired beatmap for downloading
-- Change the download directory to "``/mnt/sdcard/osu!droid/``" (This directory is by default)
+- Change the download directory to ``/mnt/sdcard/osu!droid/`` (This directory is by default)
 - Wait until the beatmap is downloaded.
 - The beatmap will be imported automatically at the next launch of osu!droid
 
@@ -76,7 +81,7 @@ P.S. It has *many other uses* other than downloading beatmaps for osu!droid only
 
 - Connect your device to PC with USB cable
 - The location you should put in now depends on what type the file is.
-  - If you have **.osz or .zip files**, copy them into your device's **`osu!droid`** directory.
+  - If you have **`.osz` or `.zip` files**, copy them into your device's **`osu!droid`** directory.
   - If you have **unpacked songs (i.e. in folders)**, copy them into **`osu!droid/Songs`** directory.
   - Directory will vary **if you did modify it in Library-&gt;Beatmap location**, then, **you need to put in that directory you set instead**.
 - Disconnect your device and launch osu!droid
@@ -158,7 +163,7 @@ _Get Songs screen_
 
 ![osu!droid skin](./img/Osu!droid_skin.png "osu!droid skin")
 
-- osu!droid does not have a skin selector. Therefore, if you want to use a skin, you must manually open your wanted skin folder and move all the files into `mnt/sdcard/osu!droid/Skin/``
+- osu!droid does not have a skin selector. Therefore, if you want to use a skin, you must manually open your wanted skin folder and move all the files into `mnt/sdcard/osu!droid/Skin/`
   - **It is not suggested to modify the filepath**.
 
 ### What elements to remove
@@ -166,7 +171,7 @@ _Get Songs screen_
 - Fail Background (The fail sound should be kept)
 - Combo Burst
 - Any Game Modifiers that is not stated in the "What's the difference?"
-- Any ``.zip`` or folder contents in the skin. (To save space)
+- Any `.zip` or folder contents in the skin. (To save space)
 - Taiko, Catch the Beat, and osu!mania skinning elements (if exist).
 
 ## Questions
@@ -179,7 +184,7 @@ Any beatmap that is made for original osu! is also made for osu!droid. There are
 
 - From **Main Menu**; press **Options**.
 - Under "**Library**"; press "**Beatmap location**".
-- Modify "**`mnt/sdcard/osu!droid/Songs`**" to "**``mnt/sdcard/T-Aiko!/Songs``**".
+- Modify "**`mnt/sdcard/osu!droid/Songs`**" to "**`mnt/sdcard/T-Aiko!/Songs`**".
 - Return to **Main Menu**; press "**Play**". osu!droid should start to process your beatmaps.
 
 ## Trivia
@@ -194,7 +199,7 @@ _Capability of osu!droid&#39;s Auto. Able to do simultaneous sliders and hit-cir
   - If the hit-object is not rendered in time or screen freeze happened, the screen may "skip" and auto will not be able to hit it (as that hit-object must appear at that specific time frame) and miss will occur.
 - This may happen especially when you set your rendering settings very high and your device may not up to it (especially on intensive parts).
 
-*Fun Fact: Even original osu! Auto may miss on maps that it can perfect combo. This may happen if you are simultaneously using another program (Like Firefox or anything to make your CPU and RAM work more) while leaving osu! in Auto mode. The exception to this if your computer can handle the extra task (like gaming notebook for example) and the beatmap in question has a low Overall Difficulty.*
+_Fun Fact: Even original osu! Auto may miss on maps that it can perfect combo. This may happen if you are simultaneously using another program (Like Firefox or anything to make your CPU and RAM work more) while leaving osu! in Auto mode. The exception to this if your computer can handle the extra task (like gaming notebook for example) and the beatmap in question has a low Overall Difficulty._
 
 ## Links
 

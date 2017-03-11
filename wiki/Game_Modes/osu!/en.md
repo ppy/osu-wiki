@@ -363,7 +363,7 @@ _Combo Fire_
 
 - Older version of osu! used to emulate some of the elements from the _ouendan_ series before being removed or replaced.
   - Combo fire when hitting new combo milestones.
-    - Removed on 5th of March, 2013, due to performance issues.
+    - Removed on 05 March 2013 (2013-03-05), due to performance issues.
   - The first version of default skin using v1 skin behaviour, which was _osu!default by peppy_ skin, provides an almost identical copy of the _ouendan_ interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
@@ -371,7 +371,7 @@ _Combo Fire_
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
-- The first three beatmaps ranked on the same day (7th of October, 2007) when the online leaderboard went live were:-
+- The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:-
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), or `Brandy - Love Fighter`.

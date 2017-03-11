@@ -61,7 +61,7 @@ A [libGDX](https://github.com/fluddokt/opsu "opsu! fork from fluddokt") port by 
 - Transfer the `.apk` file to the device using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
   - Please set the device to "USB connection mode" first depending on device requirement.
 - Find and open the `.apk` file from the device.
-- Allow "opsu!-android{releasenum}.apk" to install.
+- Allow `opsu!-android{releasenum}.apk` to install.
   - If the phone alerts about the security issue, disable the `Unknown source` button. It can re-enabled later anyway in Settings.
 - opsu! is now installed in the phone.
 
@@ -69,7 +69,7 @@ A [libGDX](https://github.com/fluddokt/opsu "opsu! fork from fluddokt") port by 
 
 - Visit <https://itdelatrisu.github.io/opsu/> .
 - Tap on the `Android release` button and download it.
-- Wait for download to complete and allow "opsu!-android{releasenum}.apk" to install.
+- Wait for download to complete and allow `opsu!-android{releasenum}.apk` to install.
   - If the phone alerts about the security issue, disable the `Unknown source` button. It can re-enabled later anyway in Settings.
 - opsu! is now installed in the phone.
 

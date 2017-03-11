@@ -40,10 +40,10 @@ _T-Aiko v2 logo_
 
 Description | Release date
 ---|---
-Hinted (Android) | [February 7, 2015](http://www.facebook.com/permalink.php?story_fbid=769891039790996&id=125194317594008).
-Public release (Android) | [May 27, 2015](http://www.facebook.com/permalink.php?story_fbid=827026784077421&id=125194317594008).
-Hinted (iOS) | [November 2, 2015](http://osu.ppy.sh/forum/t/58640/start=411).
-Public release (iOS) | [December 19, 2015](http://www.facebook.com/permalink.php?story_fbid=922928534487245&id=125194317594008).
+Hinted (Android) | [07 February 2015 (2015-02-07)](http://www.facebook.com/permalink.php?story_fbid=769891039790996&id=125194317594008).
+Public release (Android) | [27 May 2015 (2015-05-27)](http://www.facebook.com/permalink.php?story_fbid=827026784077421&id=125194317594008).
+Hinted (iOS) | [02 November 2015 (2015-11-02)](http://osu.ppy.sh/forum/t/58640/start=411).
+Public release (iOS) | [19 December 2015 (2015-12-19)](http://www.facebook.com/permalink.php?story_fbid=922928534487245&id=125194317594008).
 
 Welcome to T-Aiko! 2.0: A complete remake of the original T-Aiko!
 
