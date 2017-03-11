@@ -1,6 +1,6 @@
 The Beat Snap Divisor is used to limit where notes can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the notes, that is, more notes can be placed in the same measure.
 
-Each of the settings put different colors of ticks on the [Timelines](Timelines "wikilink"). The ticks are as follows (for [Standard](Standard "wikilink"), [Taiko](Taiko "wikilink"), and [Catch the Beat](Catch_the_Beat "wikilink")):
+Each of the settings put different colors of ticks on the [Timelines](/wiki/Beatmap_Editor/Timelines). The ticks are as follows (for [Standard](/wiki/Game_Modes/osu!), [Taiko](/wiki/Game_Modes/osu!taiko), and [Catch the Beat](/wiki/Game_Modes/osu!catch)):
 
 | A Measure                        | Divisor | Beat              | Ticks notes                                        | Notes                          |
 |----------------------------------|---------|-------------------|----------------------------------------------------|--------------------------------|
@@ -13,7 +13,7 @@ Each of the settings put different colors of ticks on the [Timelines](Timelines 
 
 The 1/3 and 1/6 are special because it means your BPM is divisible by three, but this is *rare*.
 
-Holding down the **\[ALT\]** button over the slider changes it to the [distance spacing](Distance_Snap "wikilink") slider
+Holding down the `Alt` button over the slider changes it to the [distance spacing](/wiki/Beatmap_Editor/Distance_Snap) slider
 
 Mania
 -----

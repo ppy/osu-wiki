@@ -1,4 +1,4 @@
-歌曲设置是[制图中很重要的一个界面](制图 "wikilink")，它包含了制作规范谱面的诸多重要信息的设定。 <img src="Song Setup nav.jpg" title="fig:歌曲设置的位置" alt="歌曲设置的位置" width="350" />
+歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。 <img src="Song Setup nav.jpg" title="fig:歌曲设置的位置" alt="歌曲设置的位置" width="350" />
 
 基本设定(General)
 -----------------
@@ -27,7 +27,7 @@
 
 <!-- -->
 
--   **Beatmap Creator:** **就是你。** osu!会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](ZH:Guest_Difficulty "wikilink")，那么应当在下面的字段中填写，而不是这里。
+-   **Beatmap Creator:** **就是你。** osu!会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](/wiki/Glossary)，那么应当在下面的字段中填写，而不是这里。
 
 <!-- -->
 
@@ -53,7 +53,7 @@
 
 在编辑模式的歌曲选择界面中显示为"**HP**"。
 
-掉血率，除了在[休息时段外保持恒定](ZH:break "wikilink")。miss会导致更多的扣血，通过[得分和转盘可以回血](Score#osu.21_Scoring_Values "wikilink")。通过一组物件末尾的[“激”和“喝”可以回复更多血量](Score#osu.21_Scoring_Values "wikilink")。
+掉血率，除了在[休息时段外保持恒定](/wiki/Glossary)。miss会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Score)。
 
 ### Note大小设定(Circle Size)
 
@@ -61,7 +61,7 @@
 
 <img src="Circle sizes.png" title="fig:圆圈大小概览" alt="圆圈大小概览" width="250" /> 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](ZH:Game_Modifiers#Hard_Rock "wikilink") mod见到。这里有[使用CS3, 5, 6, 7](http://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](http://osu.ppy.sh/s/1208)的例子。
+大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](http://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](http://osu.ppy.sh/s/1208)的例子。
 
 可以通过手动编辑.osu文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
@@ -79,10 +79,10 @@ Approach Rate通常缩写为"**AR**"。
 
 每张谱面的AR设定范围是AR0到AR10。有四个mod可以更改AR，它们是：
 
--   [Hard Rock](ZH:HR "wikilink"): AR增加40%，最多增加到AR10。
--   [Double Time](ZH:DT "wikilink"): AR变快50%，与HR的AR增长不同，它是以毫秒计时增长的，最多增加到AR11。
--   [Easy](ZH:EZ "wikilink"): AR减半。
--   [Half Time](ZH:HT "wikilink"): AR降低33%，以毫秒计时，可以低于0。
+-   [Hard Rock](/wiki/Game_Modifiers): AR增加40%，最多增加到AR10。
+-   [Double Time](/wiki/Game_Modifiers): AR变快50%，与HR的AR增长不同，它是以毫秒计时增长的，最多增加到AR11。
+-   [Easy](/wiki/Game_Modifiers): AR减半。
+-   [Half Time](/wiki/Game_Modifiers): AR降低33%，以毫秒计时，可以低于0。
 
 #### 技术细节(Technical)
 
@@ -106,16 +106,16 @@ Approach Rate通常缩写为"**AR**"。
 
 与AR类似，同样是下列四个mod会对OD产生影响：
 
--   [Easy](ZH:EZ "wikilink"): OD折半。
--   [Hard Rock](ZH:HR "wikilink"): OD值乘1.4，最大增长到OD10。
--   [Double Time](ZH:DT "wikilink"): 增长OD值使得判定区间缩短33%。
--   [Half Time](ZH:HT "wikilink"): 降低OD值使得判定区间增长50%。
+-   [Easy](/wiki/Game_Modifiers): OD折半。
+-   [Hard Rock](/wiki/Game_Modifiers): OD值乘1.4，最大增长到OD10。
+-   [Double Time](/wiki/Game_Modifiers): 增长OD值使得判定区间缩短33%。
+-   [Half Time](/wiki/Game_Modifiers): 降低OD值使得判定区间增长50%。
 
-<img src="ODTable.png" title="fig:OD细节总表（点击放大）" alt="OD细节总表（点击放大）" width="800" /> **注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](ZH:Hit_Objects#Hit_Circle "wikilink")（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
+<img src="ODTable.png" title="fig:OD细节总表（点击放大）" alt="OD细节总表（点击放大）" width="800" /> **注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
 
 ### 星数评价(Approximate Difficulty Rating)
 
-这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](ZH:Score "wikilink")。但这并不等于谱面的最终星数，仅是一个粗略的估计。
+这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
 
 音效(Audio)
 -----------
@@ -126,11 +126,11 @@ Approach Rate通常缩写为"**AR**"。
 
 这里你可以设定你喜欢并且适合谱面的音效.
 
-如果你用[timing](timing "wikilink")(绿线或红线) 改变了音效或者音效的音量, 你就不能在这里设定音效及其音量了. 你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线.
+如果你用[timing](/wiki/Beatmap_Editor/Timing)(绿线或红线) 改变了音效或者音效的音量, 你就不能在这里设定音效及其音量了. 你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线.
 
 #### 音效选择(Sample Set Selection)
 
-你可以在这里设定适合谱面osu!自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](ZH:Custom_Sample_Overrides "wikilink"),必须先把音效文件放在谱面所在文件夹).
+你可以在这里设定适合谱面osu!自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
 
 #### 音效音量大小(Sample Set Volume)
 

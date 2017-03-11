@@ -1,6 +1,6 @@
 <img src="SE base.jpg" title="Design tab" alt="Design tab" width="250" />
 
-**ストーリーボードエディタ**は[エディタ内にある機能で](JP:Beatmap_Editor "wikilink")、Designタブに存在していて、簡単な[ストーリーボード](JP:Storyboarding "wikilink")(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](JP:Storyboard_Scripting "wikilink")。
+**ストーリーボードエディタ** は[エディタ内にある機能で](/wiki/Beatmap_Editor)、Designタブに存在していて、簡単な[ストーリーボード](/wiki/Storyboards)(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](/wiki/Storyboard_Scripting)。
 
 複雑なSBを作成する前に適当な画像を使用して、どういったコマンドがどのように動作するのかを確認するのがよいでしょう。それをすることであなたは利用方法を覚え、よりSB作成をスムーズにできるようになれるはずです。
 
@@ -51,16 +51,16 @@
 右上 (読み込み)
 ---------------
 
-<img src="SE_R.jpg" title="fig:Readings" alt="Readings" width="150" /> **ロード状態**と**背景画像/動画の切り替え**について表示されています。
+<img src="SE_R.jpg" title="fig:Readings" alt="Readings" width="150" /> **ロード状態**と** 背景画像/動画の切り替え**について表示されています。
 
-読み込みの**x/y**はeditor上にある**あなたの**マウスカーソルの座標を示し、マウスを動かせばそれは変化します。 **{数字}ms**はミリセカンド単位(1秒=1000ms)のタイムスタンプです。 **SB Load**はストーリーボードを再生する上で必要な情報処理量です。これは可能な限り低く(1.00~2.00)設定されるべきです。
+読み込みの**x/y**はeditor上にある**あなたの**マウスカーソルの座標を示し、マウスを動かせばそれは変化します。 **{数字}ms** はミリセカンド単位(1秒=1000ms)のタイムスタンプです。 **SB Load**はストーリーボードを再生する上で必要な情報処理量です。これは可能な限り低く(1.00~2.00)設定されるべきです。
 
 中央左 (ユーティリティ)
 -----------------------
 
 ### レイヤー切り替え
 
-<img src="SE_LT_B.jpg" title="fig:Layer Toggles" alt="Layer Toggles" width="200" /> これはレイヤーの**表示の有効化/無効化**を決定する項目です。もしあなたがPassingのシーン(常にeditorでfailよりも上に表示される)を見たくない場合、"Passing" を無効化することで、failのシーンを楽しむことができます。これは異なったオブジェクトへのコマンドを見たくても、何かのオブジェクトが邪魔で見れない場合などに場合に便利です。
+<img src="SE_LT_B.jpg" title="fig:Layer Toggles" alt="Layer Toggles" width="200" /> これはレイヤーの**表示の有効化/無効化** を決定する項目です。もしあなたがPassingのシーン(常にeditorでfailよりも上に表示される)を見たくない場合、"Passing" を無効化することで、failのシーンを楽しむことができます。これは異なったオブジェクトへのコマンドを見たくても、何かのオブジェクトが邪魔で見れない場合などに場合に便利です。
 
 表示/非表示の設定可能な一覧:-
 
@@ -179,10 +179,10 @@
 ============
 
 -   サウンドエフェクトはサポートされていません。これはプレイヤーの注意を逸らしてしまう危険性もあるので、BATや熟練者の指導に従うとよいでしょう。
--   [loopあるいは](JP:Storyboard_Scripting_Compound_Commands#Loop_(L)_ループ_コマンド "wikilink")[triggerはサポートしていません](JP:Storyboard_Scripting_Compound_Commands#Trigger_(T)_トリガー_コマンド "wikilink")。
--   [Move-X](JP:Storyboard_Scripting_Commands#Move_(M)_移動コマンド "wikilink")/[Move-Y](JP:Storyboard_Scripting_Commands#Move_(M)_移動コマンド "wikilink") コマンドは存在しません。
+-   [loopあるいは](/wiki/Storyboard_Scripting/Compound_Commands)[triggerはサポートしていません](/wiki/Storyboard_Scripting/Compound_Commands)。
+-   [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting_Commands) コマンドは存在しません。
 -   画像の座標は*常に* 320,240になります。座標を指定するためにMoveコマンドを使う必要があるでしょう。ただしこれは強制ではありません。
-    -   [ストーリーボードスクリプトを行っていた場合はデザインで各オブジェクトに割り当てられた](JP:Storyboard_Scripting "wikilink")*特殊なコマンド*を読み込み直す必要があります。
+    -   [ストーリーボードスクリプトを行っていた場合はデザインで各オブジェクトに割り当てられた](/wiki/Storyboard_Scripting)*特殊なコマンド*を読み込み直す必要があります。
 
 ソース
 ======

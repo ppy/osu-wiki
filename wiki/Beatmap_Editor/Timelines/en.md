@@ -5,7 +5,7 @@ Song Player
 
 <img src="BE_STL.jpg" title="Song&#39;s Timeline" alt="Song&#39;s Timeline" width="200" />
 
-*Location: [Compose](Compose "wikilink"), [Design](Design "wikilink"), [Timing](Timing "wikilink") (Bottom)*
+*Location: [Compose](/wiki/Beatmap_Editor/Compose), [Design](/wiki/Beatmap_Editor/Design), [Timing](/wiki/Beatmap_Editor/Timing) (Bottom)*
 
 At **left**, it shows **timestamp in milliseconds (ms)** and **song duration %**. The "%" may be switched to "intro/outro" when there is intro/outro storyboarding.
 
@@ -36,9 +36,9 @@ At **right**, you can adjust the **Playback Rate** by **per quarter value.**
 osu!
 ----
 
-*Location: Top @ [Compose](Compose "wikilink") tab in any modes other than osu!mania only.*
+*Location: Top @ [Compose](/wiki/Beatmap_Editor/Compose) tab in any modes other than osu!mania only.*
 
-<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" /> **Shows the timeline for hitobjects with respect to [Beat Snap Divisor](Beat_Snap_Divisor "wikilink") and timestamp.**
+<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" /> **Shows the timeline for hitobjects with respect to [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) and timestamp.**
 
 <table>
 <thead>
@@ -62,7 +62,7 @@ osu!
 osu!mania
 ---------
 
-*Location: Centre @ [Compose](Compose "wikilink") tab in osu!mania only.*
+*Location: Centre @ [Compose](/wiki/Beatmap_Editor/Compose) tab in osu!mania only.*
 
 <img src="BEM_PF.jpg" title="osu!mania playfield" alt="osu!mania playfield" width="200" />
 
@@ -81,7 +81,7 @@ osu!mania
 Design
 ======
 
-*Location: Top @ [Design](Design "wikilink") tab*
+*Location: Top @ [Design](/wiki/Beatmap_Editor/Design) tab*
 
 **Shows the timeline for transformations of the selected object.**
 
@@ -102,7 +102,7 @@ If there is a transformation, that transformation is lighted with it's colour an
 Timing
 ======
 
-*Location: Top @ [Timing](Timing "wikilink") tab*
+*Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
 
 <img src="TT.jpg" title="Timing Timeline" alt="Timing Timeline" width="350" />
 

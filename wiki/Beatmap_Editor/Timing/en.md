@@ -1,6 +1,6 @@
- <img src="Timing base.jpg" title="fig:Timing menu." alt="Timing menu." width="300" /> The timing for a [beatmap](beatmap "wikilink") consists of the song's offset and beats per minute (BPM). The song's BPM is essentially how fast the song is. The offset is the amount of time between the start of an mp3 and the first downbeat in the song.
+ <img src="Timing base.jpg" title="fig:Timing menu." alt="Timing menu." width="300" /> The timing for a [beatmap](/wiki/Beatmaps) consists of the song's offset and beats per minute (BPM). The song's BPM is essentially how fast the song is. The offset is the amount of time between the start of an mp3 and the first downbeat in the song.
 
-The point of having correct timing is so that the timeline in the [editor](editor "wikilink") lines up with the music. If the timing is incorrect, then the timeline does not match up with the song. Therefore, you cannot accurately place hit objects, and it becomes impossible to map correctly to the music.
+The point of having correct timing is so that the timeline in the [editor](/wiki/Beatmap_Editor) lines up with the music. If the timing is incorrect, then the timeline does not match up with the song. Therefore, you cannot accurately place hit objects, and it becomes impossible to map correctly to the music.
 
 How to time songs
 -----------------
@@ -31,6 +31,6 @@ Timing sections allow you to vary the timing across the song. There are two type
 
 A regular timing section is displayed as a red line in the editor. Every map has at least one. Some maps change their BPM during the song, however, and require multiple regular timing sections as a result.
 
-Inherited timing sections are displayed as a green line in the editor. These do not actually change the song's timing. What inherited timing sections do is let you change the map's [hitsound](Hitsounds "wikilink")'s volume, the hitsounds themselves, [slider speed](slider_speed "wikilink"), etc. for that section without modifying the song's timing (which would happen with a regular timing section).
+Inherited timing sections are displayed as a green line in the editor. These do not actually change the song's timing. What inherited timing sections do is let you change the map's [hitsound](/wiki/Glossary)'s volume, the hitsounds themselves, [slider speed](/wiki/Beatmap_Editor/Slider), etc. for that section without modifying the song's timing (which would happen with a regular timing section).
 
 These two types of timing sections are also commonly referred to as "red offsets" and "green offsets" respectively.

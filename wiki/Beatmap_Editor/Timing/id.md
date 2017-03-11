@@ -12,5 +12,3 @@ Bagian timing biasa ditunjukkan sebagai garis merah di dalam editor. Setiap map 
 Bagian timing turunan ditunjukkan sebagai garis hijau di dalam editor. Garis hijau ini tidak mengubah timing lagu. Apa yang dilakukan timing turunan adalah membiarkanmu mengubah sampel hitsound lagu tersebut, kecepatan slider, dll.
 
 Dua tipe bagian timing ini biasanya disebut sebagai offset merah dan offset hijau berturutan.
-
---[Raxar](User:Raxar "wikilink") 16:16, 6 December 2011 (WST) --[Sumatran](User:Sumatran "wikilink") 16:49, 6 December 2011 (WST)

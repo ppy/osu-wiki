@@ -1,11 +1,11 @@
-L' **Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](FR:Beatmap_Editor "wikilink"), dans la partie Design, qui permet de faire du [Storyboarding](FR:Storyboarding "wikilink") basique, et est en général une bonne introduction au [Storyboarding](FR:Storyboarding "wikilink") avant le [Storyboard Scripting](FR:Storyboard_Scripting "wikilink"), plus complexe.
+L' **Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](/wiki/Beatmap_Editor), dans la partie Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) basique, et est en général une bonne introduction au [Storyboarding](/wiki/Storyboards) avant le [Storyboard Scripting](/wiki/Storyboard_Scripting), plus complexe.
 
 Fonctionnalités
 ---------------
 
 -   Affichage des coordonnées du curseur et du marqueur temporel (en millisecondes).
--   Affiche les [images chargées](FR:SB_Load "wikilink") actuellement sur tous les calques visibles.
--   Les calques activables/désactivables (background (fond d'écran), failing (image en cas d'échec), passing (image en cas de réussite), foreground (premier plan), et les [Hit Objects](FR:Hit_Objects "wikilink")).
+-   Affiche les [images chargées](/wiki/Beatmap_Editor/SB_Load) actuellement sur tous les calques visibles.
+-   Les calques activables/désactivables (background (fond d'écran), failing (image en cas d'échec), passing (image en cas de réussite), foreground (premier plan), et les [Hit Objects](/wiki/Hit_Objects)).
 -   Ajout d’effets simples (sur les images):
     -   Mouvement (Move)
     -   Modification de la taille (Scale)
@@ -25,6 +25,6 @@ Fonctionnalités
 Limites
 -------
 
--   Pas d'effets sonores, pas très gênant du fait qu'ils pourraient gêner les joueurs si ils sont placés près des [Hit objects](FR:Hit_objects "wikilink"). L'utilisation d'effets sonores n'est autorisée qu'aux mappers expérimentés, avec l'aide d'un BAT.
+-   Pas d'effets sonores, pas très gênant du fait qu'ils pourraient gêner les joueurs si ils sont placés près des [Hit objects](/wiki/Hit_Objects). L'utilisation d'effets sonores n'est autorisée qu'aux mappers expérimentés, avec l'aide d'un BAT.
 -   Loops et déclencheurs impossibles à créer.
 -   Pas de couleurs ou de commandes de déplacement Move-X/Move-Y.

@@ -1,4 +1,4 @@
-The Song Setup is an important screen in [beatmapping](beatmapping "wikilink"), as it contains many important settings that are keys to make a decent map. <img src="Song Setup nav.jpg" title="fig:Where the Song Setup is located" alt="Where the Song Setup is located" width="350" />
+The Song Setup is an important screen in [beatmapping](/wiki/Beatmapping), as it contains many important settings that are keys to make a decent map. <img src="Song Setup nav.jpg" title="fig:Where the Song Setup is located" alt="Where the Song Setup is located" width="350" />
 
 General
 -------
@@ -31,7 +31,7 @@ You should enter this information before you create a second difficulty, to ensu
 
 <!-- -->
 
--   **Beatmap Creator:** **That's you.** osu! should handle this automatically, so you shouldn't edit this. If you are including a [guest difficulty](Guest_Difficulty "wikilink") made by someone else, their name belongs in the Difficulty field below, not here.
+-   **Beatmap Creator:** **That's you.** osu! should handle this automatically, so you shouldn't edit this. If you are including a [guest difficulty](/wiki/Glossary) made by someone else, their name belongs in the Difficulty field below, not here.
 
 <!-- -->
 
@@ -57,7 +57,7 @@ Tab related to the core of beatmap's settings. Each setting affects different as
 
 Known as "**HP**" in Edit's song selection.
 
-The rate at which HP decreases, which is always constant except during [breaks](break "wikilink"). Further HP is lost with misses. HP is recovered by getting a [score value](Score#osu.21_Scoring_Values "wikilink") and spinning spinners. More HP is recovered with [Geki and Katu](Score#osu.21_Scoring_Values "wikilink") at the end of a combo.
+The rate at which HP decreases, which is always constant except during [breaks](/wiki/Glossary). Further HP is lost with misses. HP is recovered by getting a [score value](/wiki/Score) and spinning spinners. More HP is recovered with [Geki and Katu](/wiki/Score) at the end of a combo.
 
 ### Circle Size (osu!, Catch the Beat, Taiko only)
 
@@ -67,7 +67,7 @@ Known as "**CS**" in Edit's song selection.
 
 This determines the size of circles and sliders. The value range from 2 to 7 with the smaller numbers being large sizes (like needle gauges). The smaller circles make the map harder by requiring the player to be more precise.
 
-Most maps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of your cursor). 7 is likely to be seen when using the [Hard Rock](Game_Modifiers#Hard_Rock "wikilink") mod. An example of [beatmap using 3, 5, 6, and 7 as default](http://osu.ppy.sh/s/2008) and [beatmap that uses 0, 1, 3 and 4 as default](http://osu.ppy.sh/s/1208).
+Most maps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of your cursor). 7 is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers) mod. An example of [beatmap using 3, 5, 6, and 7 as default](http://osu.ppy.sh/s/2008) and [beatmap that uses 0, 1, 3 and 4 as default](http://osu.ppy.sh/s/1208).
 
 It is possible by manually editing the .osu file to assign a value of 0-10 but this is not suggested as using sizes not between 2 - 7 will be considered unrankable beatmap.
 
@@ -95,10 +95,10 @@ The length a circle remains on the screen (without mods) ranges from 1800ms at A
 
 Four mods can alter approach rate timing when activated:
 
--   [Easy](EZ "wikilink"): Halves the AR value. (*ex.* AR10→AR5 ... AR2→AR1)
--   [Hard Rock](HR "wikilink"): Multiplies the AR value by 1.4, up to a maximum of AR10. (*ex.* AR3→AR4.2 ... AR9→AR10)
--   [Double Time](DT "wikilink"): The AR value doesn't change, but the 1.5x play speed causes circles to stay on screen 33% shorter.
--   [Half Time](HT "wikilink"): The AR value doesn't change, but the 0.75x play speed causes circles to stay on screen 33% longer.
+-   [Easy](/wiki/Game_Modifiers): Halves the AR value. (*ex.* AR10→AR5 ... AR2→AR1)
+-   [Hard Rock](/wiki/Game_Modifiers): Multiplies the AR value by 1.4, up to a maximum of AR10. (*ex.* AR3→AR4.2 ... AR9→AR10)
+-   [Double Time](/wiki/Game_Modifiers): The AR value doesn't change, but the 1.5x play speed causes circles to stay on screen 33% shorter.
+-   [Half Time](/wiki/Game_Modifiers): The AR value doesn't change, but the 0.75x play speed causes circles to stay on screen 33% longer.
 
 **Note:** While Half Time and Double Time do not change the actual AR value, the speed difference can lead to an apparent AR as low as -5 or as high as 11. In the chart on the right, these apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number from 0 to 10. Note that AR levels scale by 120ms below AR5, and 150ms above AR5.
 
@@ -116,18 +116,18 @@ At OD0, one can hit a 300 at less than 79.5ms away from exactly-on-time. On the 
 
 Four mods can alter overall difficulty timing when activated:
 
--   [Easy](EZ "wikilink"): Halves the OD value.
--   [Hard Rock](HR "wikilink"): Multiplies the OD value by 1.4, up to a maximum of OD10.
--   [Double Time](DT "wikilink"): The OD value doesn't change, but the 1.5x play speed causes hit windows to be 33% shorter.
--   [Half Time](HT "wikilink"): The OD value doesn't change, but the 0.75x play speed causes hit windows to be 33% longer.
+-   [Easy](/wiki/Game_Modifiers): Halves the OD value.
+-   [Hard Rock](/wiki/Game_Modifiers): Multiplies the OD value by 1.4, up to a maximum of OD10.
+-   [Double Time](/wiki/Game_Modifiers): The OD value doesn't change, but the 1.5x play speed causes hit windows to be 33% shorter.
+-   [Half Time](/wiki/Game_Modifiers): The OD value doesn't change, but the 0.75x play speed causes hit windows to be 33% longer.
 
 **Note:** While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make circles seem to have a lower or higher apparent OD, respectively. In the chart below, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests, and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values below are only for comparison: the actual OD value is always a number from 0 to 10.
 
-<img src="ODTable.png" title="fig:Detailed OD chart (click to view larger version)" alt="Detailed OD chart (click to view larger version)" width="800" /> **Note:** The osu! timing system does not allow a [hit circle](Hit_Objects#Hit_Circle "wikilink") to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
+<img src="ODTable.png" title="fig:Detailed OD chart (click to view larger version)" alt="Detailed OD chart (click to view larger version)" width="800" /> **Note:** The osu! timing system does not allow a [hit circle](/wiki/Hit_Objects) to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
 
 ### Approximate Difficulty Rating
 
-This is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score](Score "wikilink"). This is not the final star ranking of the song; it is just an approximation based on the settings you chose.
+This is a summary of all of the settings chosen on this page. More stars mean harder maps and more [score](/wiki/Score). This is not the final star ranking of the song; it is just an approximation based on the settings you chose.
 
 Audio
 -----
@@ -138,11 +138,11 @@ Audio
 
 Here you can configure the hit sounds to your liking.
 
-If you have [timing](timing "wikilink") sections (F6) that change either the hit-sound set or volume, you will not be able to adjust them here. You can click reset settings to remove them. Most mappers use timing sections to set the settings you can find here.
+If you have [timing](/wiki/Beatmap_Editor/Timing) sections (F6) that change either the hit-sound set or volume, you will not be able to adjust them here. You can click reset settings to remove them. Most mappers use timing sections to set the settings you can find here.
 
 #### Sample Set Selection
 
-Here you can choose whether to use the Normal, Soft, or Drum built-in sample set. You can also [enable custom overrides](Custom_Sample_Overrides "wikilink") (Put hitsounds files inside the map's folder first).
+Here you can choose whether to use the Normal, Soft, or Drum built-in sample set. You can also [enable custom overrides](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides) (Put hitsounds files inside the map's folder first).
 
 #### Sample Set Volume
 
@@ -176,9 +176,9 @@ You can change the speed and offset of the countdown as well.
 
 **Display storyboard in front of combo fire**: <span style="text-decoration: line-through;">A long long time ago, osu! had a flame appear if you had a combo of 30 or more (it was amazing at the time!) but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out of date. Otherwise</span> this option will do what it says, put the storyboard in front of the combo fire.
 
-**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](Ranking_Criteria#Storyboarding "wikilink") "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <span style="color:#f00; text-decoration: underline;">must</span> use the epilepsy warning.*"
+**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <span style="color:#f00; text-decoration: underline;">must</span> use the epilepsy warning.*"
 
-**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put [letterboxes](wikipedia:Letterboxing_(filming) "wikilink") during breaks in the beatmap. This is usually enabled by default, <span style="text-decoration: underline;">but is not allowed for mania specific maps!</span> (because breaks aren't allowed in Mania, anyways)
+**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, <span style="text-decoration: underline;">but is not allowed for mania specific maps!</span> (because breaks aren't allowed in Mania, anyways)
 
 ### Skinning
 

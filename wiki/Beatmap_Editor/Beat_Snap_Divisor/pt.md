@@ -1,4 +1,4 @@
-O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para que as notas sempre sigam a musica. Cada opção diferente de beat snap adiciona cores diferentes de ticks na [timeline](PT:Timing "wikilink"), como pode ser visto abaixo
+O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para que as notas sempre sigam a musica. Cada opção diferente de beat snap adiciona cores diferentes de ticks na [timeline](/wiki/Beatmap_Editor/Timing), como pode ser visto abaixo
 
 | Picture                          | Divisor | Beat   | Ticks notes                                                | Notes                          |
 |----------------------------------|---------|--------|------------------------------------------------------------|--------------------------------|
@@ -9,4 +9,4 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 | ![](BSD 1 6.jpg "BSD 1 6.jpg")   | 1/6     | {Nome} | dois ticks roxos ao redor do tick vermelhos                | Compound timing                |
 | ![](BSD 1 8.jpg "BSD 1 8.jpg")   | 1/8     | {Nome} | Adicionado ticks amarelos além dos ticks azuis e vermelhos |                                |
 
-1/3 e 1/6 são especiais pois significam que o bpm da musica é dividido por três, mas esse tipo de musica é "difícil" de encontrar. Segurar o botão **\[ALT\]** faz com que o metrônomo seja substituído pelo [Distance Snap](PT:Distance_Snap "wikilink")
+1/3 e 1/6 são especiais pois significam que o bpm da musica é dividido por três, mas esse tipo de musica é "difícil" de encontrar. Segurar o botão `Alt` faz com que o metrônomo seja substituído pelo [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)

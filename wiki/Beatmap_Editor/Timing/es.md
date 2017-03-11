@@ -1,8 +1,8 @@
-***Artículo original [aquí](Timing "wikilink")***
+***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
 
-<img src="Timing base.jpg" title="fig:Menú de timing." alt="Menú de timing." width="300" /> El **timing** (tempo) de un [beatmap](ES:Beatmap "wikilink") está compuesto por el [offset](ES:Offset "wikilink") de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
+<img src="Timing base.jpg" title="fig:Menú de timing." alt="Menú de timing." width="300" /> El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
 
-Para lograr un correcto timing es necesario que el timeline (línea de tiempo) en el [editor](ES:Editor "wikilink") se sincronice correctamente con la música. Si el timing es incorrecto, entonces el timeline no coincidirá con la canción. Por lo tanto, no podrías presionar los objetos con precisión, y sería imposible mappear correctamente la canción.
+Para lograr un correcto timing es necesario que el timeline (línea de tiempo) en el [editor](/wiki/Beatmap_Editor) se sincronice correctamente con la música. Si el timing es incorrecto, entonces el timeline no coincidirá con la canción. Por lo tanto, no podrías presionar los objetos con precisión, y sería imposible mappear correctamente la canción.
 
 Cómo poner timing a las canciones
 ---------------------------------
@@ -31,6 +31,6 @@ Las secciones de timing te permiten variar el timing en la canción. Existen dos
 
 Una sección de timing regular es mostrada como una línea roja en el editor. Cada beatmap tiene por lo menos uno. Algunos betmaps cambian su BPM durante la canción, pero para hacerlo requieren de múltiples secciones de timing regulares.
 
-Las secciones de timing heredadas son mostradas como una línea verde en el editor. Estas en realidad no cambian el timing de la canción. Lo que las secciones de timing heredado hacen es permitirte cambiar el volumen de los [hitsounds](ES:Hitsounds "wikilink") del beatmap, los hitsounds en sí, la velocidad del slider, etc. para una sección determinada sin modificar el timing de la canción (que pasaría con una sección de timing regular).
+Las secciones de timing heredadas son mostradas como una línea verde en el editor. Estas en realidad no cambian el timing de la canción. Lo que las secciones de timing heredado hacen es permitirte cambiar el volumen de los [hitsounds](/wiki/Glossary) del beatmap, los hitsounds en sí, la velocidad del slider, etc. para una sección determinada sin modificar el timing de la canción (que pasaría con una sección de timing regular).
 
 Estos dos tipos de secciones de timing son también conocidas comúnmente como "red offsets" y "green offsets" respectivamente.

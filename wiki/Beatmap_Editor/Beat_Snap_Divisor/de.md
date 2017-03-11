@@ -3,7 +3,7 @@ osu!, Taiko und Catch the Beat
 
 Der Beat Snap Divisor wird benutzt, um die Positionen, auf denen Noten gelegt werden können, zu limitieren. Um die Zählzeit zu erhöhen, bewegen Sie einfach den Balken nach rechts.
 
-Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](DE:Timelines "wikilink") unterschiedliche Farben. Die Ticks sind wie folgt:
+Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Beatmap_Editor/Timelines) unterschiedliche Farben. Die Ticks sind wie folgt:
 
 | Grundschlag                      | Divisor | Beat              | Tick Noten                                               | Noten                                            |
 |----------------------------------|---------|-------------------|----------------------------------------------------------|--------------------------------------------------|
@@ -14,7 +14,7 @@ Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](DE:Timelines 
 | ![](BSD 1 6.jpg "BSD 1 6.jpg")   | 1/6     | Doppelte-Tripel\* | Hat zwei lila Ticks zwischen jeden roten Tick            | Compound timing                                  |
 | ![](BSD 1 8.jpg "BSD 1 8.jpg")   | 1/8     | Achtel-Beats      | Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu |                                                  |
 
-Halten Sie die **ALT** Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](DE:Distance_Snap "wikilink") zu verändern.
+Halten Sie die **ALT** Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) zu verändern.
 
 osu!mania
 ---------

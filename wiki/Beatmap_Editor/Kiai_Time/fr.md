@@ -1,4 +1,4 @@
-<img src="Kiai_Time.jpg" title="fig:Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." alt="Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." width="200" /> <img src="Kiai_Time_Edit_Mode.jpg" title="fig:Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." alt="Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." width="200" /> Le **Kiai Time** est défini par le [mappeur](FR:Beatmapping "wikilink") sur une beatmap, entre deux [sections de timing](FR:Timing "wikilink"). Il est possible de reconnaître un Kiai Time grâce aux étoiles qui jaillissent des côtés de l'écran, aux flashs en rythme avec la musique et à la traînée d'étoiles qui suit le curseur (si l'option graphique correspondante est activée).
+<img src="Kiai_Time.jpg" title="fig:Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." alt="Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." width="200" /> <img src="Kiai_Time_Edit_Mode.jpg" title="fig:Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." alt="Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." width="200" /> Le **Kiai Time** est défini par le [mappeur](/wiki/Beatmapping) sur une beatmap, entre deux [sections de timing](/wiki/Beatmap_Editor/Timing). Il est possible de reconnaître un Kiai Time grâce aux étoiles qui jaillissent des côtés de l'écran, aux flashs en rythme avec la musique et à la traînée d'étoiles qui suit le curseur (si l'option graphique correspondante est activée).
 
 Kiai Time en beatmapping
 ------------------------
@@ -7,7 +7,7 @@ Le moment le plus adapté pour placer un Kiai Time sur une musique est de trouve
 
 == A savoir si vous mappez en utilisant le Kiai Time ==
 
-1.  Sur les maps [Taiko](FR:Taiko "wikilink"), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le Taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
+1.  Sur les maps [Taiko](/wiki/Game_Modes/osu!taiko), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le Taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
 2.  **Soyez raisonnable**. Utiliser le Kiai Time à tort et à travers est inutile et rend votre map inclassable. Ne l'utilisez pas pendant plus d'un tiers de votre beatmap.
 3.  Faites en sorte que toutes les difficultés de votre groupe de beatmaps aient leurs Kiai Time au même moment.
 4.  **N'utilisez pas le blanc pur pour les couleurs de vos notes.** Le Kiai Time aveuglera le joueur.

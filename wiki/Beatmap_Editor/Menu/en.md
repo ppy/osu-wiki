@@ -279,7 +279,7 @@ Compose
 
 <img src="M_Compose.jpg" title="Right|Compose menu" alt="Right|Compose menu" width="200" />
 
-***Main page: [Compose](Compose "wikilink")***
+***Main page: [Compose](/wiki/Beatmap_Editor/Compose)***
 
 <table>
 <thead>
@@ -326,7 +326,7 @@ Design
 
 <img src="M_Design.jpg" title="Right|Design menu" alt="Right|Design menu" width="200" />
 
-***Main page: [Design](Design "wikilink")***
+***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
 | Design menu                  |
 |------------------------------|
@@ -337,7 +337,7 @@ Timing
 
 <img src="M_Timing.jpg" title="Right|Timing menu" alt="Right|Timing menu" width="200" />
 
-***Main page: [Timing](Timing "wikilink")***
+***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
 <table>
 <thead>

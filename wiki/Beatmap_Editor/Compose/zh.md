@@ -1,11 +1,11 @@
 <img src="Compose.png" title="fig:视窗模式下的 osu! 编辑器 Compose 画面" alt="视窗模式下的 osu! 编辑器 Compose 画面" width="200" /> <img src="ComposeM.jpg" title="fig:osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）" alt="osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）" width="200" />
 
-**Compose（作曲）**是一个在[作图者于](Zh:mapper "wikilink") Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
+**Compose（作曲）** 是一个在[作图者于](/wiki/Glossary) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
 
 由于作图风格上有不同的需求（osu! 非常弹性，拥有许多可供发挥创意的空间；而 osu!mania 则有键数的限制，需要极高的准确度方能用键盘演奏出一段段天籁之音），osu! 的编辑器和 osu!mania 独占编辑器拥有不同的功能配置。你可以将一难度设置为 osu!mania 模式，就可以启用 osu!mania 编辑器。
 
 \_\_TOC\_\_
-= 功能（osu! 编辑器）= （以上至下、左至右的顺序编列）新手教学：<ZH:Beatmapping>。
+= 功能（osu! 编辑器）= （以上至下、左至右的顺序编列）新手教学：[Beatmapping](/wiki/Beatmapping)。
 
 左上（物件时间轴）
 ------------------
@@ -33,11 +33,11 @@
 
 ==右上（Beat Snap Divisor）== <img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
 
-*'*主条目: [ZH:Beat Snap Divisor](ZH:Beat_Snap_Divisor "wikilink") / [ZH:Distance Snap](ZH:Distance_Snap "wikilink") *'*
+*'*主条目: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) / [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) *'*
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**
 
-按着 **Alt** 可以启用 [ZH:Distance Snap](ZH:Distance_Snap "wikilink")。这个数值可为 x0.1 至 x2.0。
+按着 **Alt** 可以启用 [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)。这个数值可为 x0.1 至 x2.0。
 
 | 尺规                             | 划分方式 | 节拍         | 细线                           | 备注                  |
 |----------------------------------|----------|--------------|--------------------------------|-----------------------|
@@ -195,7 +195,7 @@
 
 <img src="BEM_BSD.jpg" title="Beat Snap Divisor（osu!mania 版）" alt="Beat Snap Divisor（osu!mania 版）" width="200" />
 
-***主页面：[Beat Snap Divisor](ZH:Beat_Snap_Divisor "wikilink")***
+***主页面：[Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**由于 osu!mania 中的每个物件都非常要求准确性，在 Beat Snap Divisor 的旁边额外加上了原只存在于 Timing 面板的**Time signature（时间标记）**（MM:B）以供作图者参考。当第一个 Timing 区段存在于谱面歌曲档案的*几秒钟之前*，其值可为负数（例如 -8:-3）。
 
@@ -387,4 +387,4 @@ Sampling
 
 **例如：** 1:57:745 kick.wav@100% 代表在 1 分 57.745 秒钟，会以 100% 音量播放文件 "kick.wav"。
 
-[如果这满足不了你，你也可以试试更硬派的故事板制作法。](ZH:Storyboard_Scripting_Miscellaneous#Storyboard_Audio "wikilink")
+[如果这满足不了你，你也可以试试更硬派的故事板制作法。](/wiki/Storyboard_Scripting/Miscellaneous)
