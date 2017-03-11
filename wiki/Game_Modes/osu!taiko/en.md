@@ -34,6 +34,9 @@
 
 **[Click to return to Game Modes page][Game_Modes wikilink]**
 
+<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
+<!-- **[Click here to visit the older version of osu!taiko using deprecated ScoreV1 system](./v1 "osu!taiko v1")** -->
+
 ![Gameplay of osu!taiko][osu!taiko Interface image]
 
 osu!taiko is a game mode in osu! that borrows _some_ elements from the Japanese rhythm game, [Taiko no Tatsujin][Taiko no Tatsujin wikipedia] (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master "Taiko: Drum Master wikipedia page") in North America).

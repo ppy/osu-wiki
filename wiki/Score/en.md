@@ -95,6 +95,9 @@ Image | Name | Effect
 
 ## Scoring
 
+<!-- Uncomment the below and delete this comment if ScoreV2 is official. -->
+<!-- **[Click here to visit the deprecated ScoreV1 system](./ScoreV1 "ScoreV1")** -->
+
 ### ScoreV2
 
 _For a summarised explanation, refer to [Glossary page for ScoreV2](/wiki/Glossary/#scorev2 "ScoreV2 in Glossary")_
@@ -117,6 +120,8 @@ ScoreV2 can be tested in [Multi](/wiki/Multi "Multi") mode as one of the Match S
 As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers/) game modifier.
 
 ### Score
+
+<!-- Delete the above heading and this comment if ScoreV2 is official, and update the child headings below to ScoreV2 system behaviour. -->
 
 #### osu!
 

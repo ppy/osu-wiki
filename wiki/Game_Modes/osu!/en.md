@@ -39,6 +39,9 @@
 
 **[Click to return to Game Modes page][Game_Modes wikilink]**
 
+<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
+<!-- **[Click here to visit the older version of osu! using deprecated ScoreV1 system](./v1 "osu! v1")** -->
+
 ![Gameplay of osu!][osu! Interface image]
 
 The first game mode and namesake which was based from the ouendan series.
