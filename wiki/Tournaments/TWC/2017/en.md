@@ -180,6 +180,41 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
+## Results
+### Group Stage
+
+| Saturday, 11. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -win by default- |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 4 | 0 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31674432) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 4 | 0 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://new.ppy.sh/matches/31675793) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -win by default- |
+| South Korea ![](/wiki/shared/flag/Kr.gif) | 4 | 0 | ![](/wiki/shared/flag/Ua.gif) Ukraine | [#1](https://new.ppy.sh/matches/31675803) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 4 | 0 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://new.ppy.sh/matches/31677429) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 3 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://new.ppy.sh/matches/31677435) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 4 | 0 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://new.ppy.sh/matches/31690990) |
+| France ![](/wiki/shared/flag/Fr.gif) | 4 | 0 | ![](/wiki/shared/flag/Ua.gif) Ukraine | [#1](https://new.ppy.sh/matches/31690995) |
+| United States ![](/wiki/shared/flag/Us.gif) | 4 | 0 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://new.ppy.sh/matches/31693122) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 1 | ![](/wiki/shared/flag/Es.gif) Spain | [#1](https://new.ppy.sh/matches/31693125) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 4 | 0 | ![](/wiki/shared/flag/Ve.gif) Venezuela | [#1](https://new.ppy.sh/matches/31695326) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 4 | 0 | ![](/wiki/shared/flag/Ve.gif) Venezuela | [#1](https://new.ppy.sh/matches/31696708) |
+| United States ![](/wiki/shared/flag/Us.gif) | 4 | 0 | ![](/wiki/shared/flag/Br.gif) Brazil | [#1](https://new.ppy.sh/matches/31696713) |
+
+| Sunday, 12. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 4 | 0 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/31698275) |
+| South Korea ![](/wiki/shared/flag/Kr.gif) | 4 | 3 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://new.ppy.sh/matches/31710151) |
+| Spain ![](/wiki/shared/flag/Es.gif) | 4 | 0 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://new.ppy.sh/matches/31710156) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 4 | 0 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://new.ppy.sh/matches/31711335) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 4 | 0 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://new.ppy.sh/matches/31711337) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 4 | 0 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://new.ppy.sh/matches/31711338) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 0 | 4 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31712895) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 0 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://new.ppy.sh/matches/31713001) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 4 | 0 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://new.ppy.sh/matches/31714550) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 4 | 1 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://new.ppy.sh/matches/31714557) |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
