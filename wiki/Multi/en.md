@@ -317,7 +317,7 @@ Title | Description
 `Ready!`                   | Click to **enter Ready state (green state)**. Button will change to `Not Ready` for players; either `Start Game!` or `Force Start Game!` for host if there are players in the Match Setup, `Not Ready` otherwise.
 `Not Ready`                | Click to **return to Not Ready state (white state)**. Button will change to `Ready!`
 `Start Game!`              | Host-only button; **starts the match**. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to `Force Start Game!` when at least one player pressed the `Not Ready` button or new players coming in.
-`Force Start Game! (x/\#)` | Host-only button; **forcefully ready all players with the beatmap** and **starts the match**. Appears when host press the `Ready!` button but not all players in the Match Setup pressed the `Ready!` button (where x is the number of players in Ready state, and \# is the total players in the Match Setup).
+`Force Start Game! (x/y)` | Host-only button; **forcefully ready all players with the beatmap** and **starts the match**. Appears when host press the `Ready!` button but not all players in the Match Setup pressed the `Ready!` button (where `x` is the number of players in Ready state, and `y` is the total players in the Match Setup).
 
 ### Match History
 
@@ -399,7 +399,7 @@ Status/Colour | Description
 **Failed/Grey**       | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)][Sudden Death wikilink]/[Perfect (PF)][Perfect wikilink] was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
 **Tag/Green**         | _Tag Coop and Tag Team Vs only_. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow.
 **Skipped/White**     | **A request notice from the player to skip the start-up rest if the beatmap/difficulty has a start-up rest**. Players that press the `Skip` button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. **All players must do so for the Skip to take effect**.
-**Quit/Varies**       | **Player quit the match**. Two possible ways to enter this state: \[1\] hitting `Esc` twice, or \[2\] disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game.
+**Quit/Varies**       | **Player quit the match**. Two possible ways to enter this state: (1) hitting `Esc` twice, or (2) disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game.
 
 ### Head to Head
 
