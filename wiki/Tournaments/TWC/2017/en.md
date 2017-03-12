@@ -60,12 +60,12 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | ![](/wiki/shared/flag/Br.gif) | **Brazil** | **[Marm](https://new.ppy.sh/u/5143353)**, [LuckySonicGHz](https://new.ppy.sh/u/3949268), [Serial Dreemurr](https://new.ppy.sh/u/1235444), [Ppus](https://new.ppy.sh/u/5918857), [Magg](https://new.ppy.sh/u/2648271), [Coryn](https://new.ppy.sh/u/2828556) |
 | ![](/wiki/shared/flag/Ca.gif) | **Canada** | **[janitoreihil](https://new.ppy.sh/u/3307897)**, [Tasha](https://new.ppy.sh/u/1031958), [vladyushko](https://new.ppy.sh/u/4908773), [Fudgyking](https://new.ppy.sh/u/3802922), [Stevenrama](https://new.ppy.sh/u/3649978), [[-Yuno-]](https://new.ppy.sh/u/459886) |
 | ![](/wiki/shared/flag/Cl.gif) | **Chile** | **[-Anhedonia-](https://new.ppy.sh/u/920861)**, [MikuWRS](https://new.ppy.sh/u/1619547), [le gagoguigo3](https://new.ppy.sh/u/6451537), [Ulqui](https://new.ppy.sh/u/1263669), [Pohm](https://new.ppy.sh/u/2083934), [[ T-pazolite ]](https://new.ppy.sh/u/2412835) |
-| ![](/wiki/shared/flag/Cn.gif) | **China** | **[Nikubenki Saya](https://new.ppy.sh/u/2250591)**, [[sACRIFICe]](https://new.ppy.sh/u/6294200), [unsigned_int](https://new.ppy.sh/u/5835635), [Suikaaaa](https://new.ppy.sh/u/3014603) [JEFF_Y](https://new.ppy.sh/u/2534853) |
+| ![](/wiki/shared/flag/Cn.gif) | **China** | **[Nikubenki Saya](https://new.ppy.sh/u/2250591)**, [[sACRIFICe]](https://new.ppy.sh/u/6294200), [Suikaaaa](https://new.ppy.sh/u/3014603), [JEFF_Y](https://new.ppy.sh/u/2534853) |
 | ![](/wiki/shared/flag/Fi.gif) | **Finland** | **[duski](https://new.ppy.sh/u/6506484)**, [Sylarn](https://new.ppy.sh/u/4266840), [Maffe](https://new.ppy.sh/u/4773855), [Reikocchi](https://new.ppy.sh/u/1110109), [loe4boe](https://new.ppy.sh/u/831807), [LefafeI](https://new.ppy.sh/u/2295850) |
 | ![](/wiki/shared/flag/Fr.gif) | **France** | **[Arrival](https://new.ppy.sh/u/1694000)**, [FrancisRave](https://new.ppy.sh/u/1733728), [-Valony-](https://new.ppy.sh/u/6487540), [Ekoro](https://new.ppy.sh/u/284905), [Nofool](https://new.ppy.sh/u/672430), [TimmyAkmed](https://new.ppy.sh/u/1799973) |
 | ![](/wiki/shared/flag/De.gif) | **Germany** | **[Chromoxx](https://new.ppy.sh/u/1881639)**, [Zetera](https://new.ppy.sh/u/587737), [Mew104](https://new.ppy.sh/u/2345156), [Xay](https://new.ppy.sh/u/961417), [MC_BongoCombo](https://new.ppy.sh/u/5822345), [Nepuri](https://new.ppy.sh/u/6637817) |
 | ![](/wiki/shared/flag/Hk.gif) | **Hong Kong** | **[thomas1195](https://new.ppy.sh/u/1691488)**, [magnomizer](https://new.ppy.sh/u/1893718), [iloveyou4ever](https://new.ppy.sh/u/4964596), [john571](https://new.ppy.sh/u/2930055), [sing216](https://new.ppy.sh/u/6096445), [Chocola_2287](https://new.ppy.sh/u/1163051) |
-| ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Niko-nyan](https://new.ppy.sh/u/906991)**, [Nishizumi](https://new.ppy.sh/u/2496768), [fajar13k](https://new.ppy.sh/u/7100002), [SE_LovelySoul](https://new.ppy.sh/u/1602428), [Kayano-](https://new.ppy.sh/u/4999506), [misaki_tk](https://new.ppy.sh/u/3866964) |
+| ![](/wiki/shared/flag/Id.gif) | **Indonesia** | **[Niko-nyan](https://new.ppy.sh/u/906991)**, [Nishizumi](https://new.ppy.sh/u/2496768), [fajar13k](https://new.ppy.sh/u/7100002), [Guardistack-](https://new.ppy.sh/u/1602428), [Kayano-](https://new.ppy.sh/u/4999506), [misaki_tk](https://new.ppy.sh/u/3866964) |
 | ![](/wiki/shared/flag/Jp.gif) | **Japan** | **[tasuke912](https://new.ppy.sh/u/2774767)**, [_yu68](https://new.ppy.sh/u/6170507), [shinchikuhome](https://new.ppy.sh/u/3174184), [uone](https://new.ppy.sh/u/5321719), [asuasu_yura](https://new.ppy.sh/u/2875968), [sobatsuyu](https://new.ppy.sh/u/2076374) |
 | ![](/wiki/shared/flag/My.gif) | **Malaysia** | **[Jerry](https://new.ppy.sh/u/605973)**, [taiko_maniac1811](https://new.ppy.sh/u/595764), [xelticrival](https://new.ppy.sh/u/7500364), [buhzidao](https://new.ppy.sh/u/1655126), [kclee2172](https://new.ppy.sh/u/5481817), [LSK0204](https://new.ppy.sh/u/2530378) |
 | ![](/wiki/shared/flag/No.gif) | **Norway** | **[Jona](https://new.ppy.sh/u/2917312)**, [Kiwi-P](https://new.ppy.sh/u/1794766), [Fallen Demon](https://new.ppy.sh/u/2908051) |
@@ -74,7 +74,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | ![](/wiki/shared/flag/Kr.gif) | **South Korea** | **[Runa](https://new.ppy.sh/u/4643294)**, [Jonah](https://new.ppy.sh/u/5509009), [Quizmaegi](https://new.ppy.sh/u/2228401), [Ni-Sokkususu](https://new.ppy.sh/u/1807472), [bbj0920](https://new.ppy.sh/u/87546), [Bonehead](https://new.ppy.sh/u/4045475) |
 | ![](/wiki/shared/flag/Es.gif) | **Spain** | **[Raiden](https://new.ppy.sh/u/2239480)**, [Maitroxsk](https://new.ppy.sh/u/4875451), [LZD](https://new.ppy.sh/u/224335), [Hanjamon](https://new.ppy.sh/u/1703330), [AlvaroYL](https://new.ppy.sh/u/6333166), [TheMadnessLady](https://new.ppy.sh/u/3928960) |
 | ![](/wiki/shared/flag/Se.gif) | **Sweden** | **[Raphalge](https://new.ppy.sh/u/3918650)**, [Eiuh](https://new.ppy.sh/u/4653213), [Tanaka](https://new.ppy.sh/u/1897905), [Karl-Johan](https://new.ppy.sh/u/6686840) |
-| ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[S a n d](https://new.ppy.sh/u/676578)**, [stu00608](https://new.ppy.sh/u/1977606), [monkeydluffy3u4](https://new.ppy.sh/u/2277798), [-[ ix Ishida xi ]-](https://new.ppy.sh/u/242910), [Xavy Lo](https://new.ppy.sh/u/3738344), [PING](https://new.ppy.sh/u/818907)  |
+| ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[S a n d](https://new.ppy.sh/u/676578)**, [stu00608](https://new.ppy.sh/u/1977606), [monkeydluffy3u4](https://new.ppy.sh/u/2277798), [-[ ix Ishida xi ]-](https://new.ppy.sh/u/242910), [X a v y](https://new.ppy.sh/u/3738344), [PING](https://new.ppy.sh/u/818907)  |
 | ![](/wiki/shared/flag/Ua.gif) | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
 | ![](/wiki/shared/flag/Us.gif) | **United States** | **[Michiyo](https://new.ppy.sh/u/5991961)**, [Shyguy](https://new.ppy.sh/u/178038), [Das](https://new.ppy.sh/u/3165416), [Protonori](https://new.ppy.sh/u/6049990), [JDrago14](https://new.ppy.sh/u/7690078), [Catgirl](https://new.ppy.sh/u/2771995) |
@@ -82,43 +82,26 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Group Stage
+![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
+## Schedule: Round of 16
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Saturday, 11. March 2017
+### Sunday, 19. March 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 20.00 (8pm) UTC +8 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **12.00 (12pm)** | 20.00 (8pm) UTC +8 | 20.00 (8pm) UTC +8 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 13.00 (1pm) UTC +0 |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 21.00 (9pm) UTC +8 |
-| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 15.00 (3pm) UTC +2 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **14.00 (2pm)** | 22.00 (10pm) UTC +8 | 11.00 (11am) UTC -3 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 21.00 (9pm) UTC +7 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **20.00 (8pm)** | 20.00 (8pm) UTC +0 | 21.00 (9pm) UTC +1 |
-| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **20.00 (8pm)** | 21.00 (9pm) UTC +1 | 22.00 (10pm) UTC +2 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **21.00 (9pm)** | 14.00 (2pm) UTC -7 | 22.00 (10pm) UTC +1 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **21.00 (9pm)** | 22.00 (10pm) UTC +1 | 22.00 (10pm) UTC +1 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **22.00 (10pm)** | 15.00 (3pm) UTC -7 | 18.00 (6pm) UTC -4 |
-| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **23.00 (11pm)** | 9.00 (9am) (Sun.) UTC +10 | 19.00 (7pm) UTC -4 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **23.00 (11pm)** | 16.00 (4pm) UTC -7 | 20.00 (8pm) UTC -3 |
-
-### Sunday, 12. March 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.00 (12am)** | 17.00 (5pm) (Sat.) UTC -7 | 10.00 (10am) UTC +10 |
-| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **12.00 (12pm)** | 21.00 (9pm) UTC +9 | 13.00 (1pm) UTC +1 |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 14.00 (2pm) UTC +2 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 14.00 (2pm) UTC +1 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **13.00 (1pm)** | 20.00 (8pm) UTC +7 | 16.00 (4pm) UTC +3 |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 14.00 (2pm) UTC +1 |
-| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 22.00 (10pm) UTC +8 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **14.00 (2pm)** | 15.00 (3pm) UTC +1 | 16.00 (4pm) UTC +2 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 18.00 (6pm) UTC +3 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 16.00 (4pm) UTC +1 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **9.00 UTC** | 17.00 UTC +8 | 10.00 UTC +1 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **10.00 UTC** | 11.00 UTC +1 | 18.00 UTC +8 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **11.00 UTC** | 18.00 UTC +7 | 21.00 UTC +10 |
+| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **12.00 UTC** | 9.00 UTC -3 | 21.00 UTC +9 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **13.00 UTC** | 13.00 UTC +0 | 22.00 UTC +9 |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **14.00 UTC** | 15.00 UTC +1 | 22.00 UTC +8 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **19.00 UTC** | 12.00 UTC -7 | 20.00 UTC +1 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 17.00 UTC -3 | 13.00 UTC -7 |
 
 ------------------------------------------------------------------------
 
@@ -160,6 +143,80 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | Tiebreaker | |
 | --- | :--- |
 | [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](http://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
+
+## Round of 16
+
+**[Download the mappack here!](http://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi)](http://osu.ppy.sh/b/1149263&m=1) | [Kraken] |
+| [Lite Show Magic - Stronghold (Nofool)](http://osu.ppy.sh/b/995363&m=1) | [Special Oni] |
+| [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki)](http://osu.ppy.sh/b/465665&m=1) | [Kagami's Taiko] |
+| [LeaF - Paraclete (Kroytz)](http://osu.ppy.sh/b/1023467&m=1) | [Nwolf's Inner Oni] |
+| [Noah - Clash of swords (myckoll)](http://osu.ppy.sh/b/1173780&m=1) | [MyckOni] |
+| [Toby Fox - Spider Dance (Camellia Remix) (nananass)](http://osu.ppy.sh/b/1195443&m=1) | [Oni] |
+
+| Hidden | |
+| --- | :--- |
+| [KillerBlood - Run Lads Run (Nwolf)](http://osu.ppy.sh/b/1210839&m=1) | [Run Oni Run] |
+| [BlackY - Harpuia (Ichigaki)](http://osu.ppy.sh/b/706841&m=1) | [Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [L.E.D. vs S-C-U - Confiserie (-xNaCLx-)](http://osu.ppy.sh/b/809880&m=1) | [Inner Oni] |
+| [Kola Kid - can't hide your love (Ekoro)](http://osu.ppy.sh/b/488844&m=1) | [Divine Light] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn)](http://osu.ppy.sh/b/978374&m=1) | [Nwolf's Oni] |
+| [SABREMISSILE - Pernicious Deed (Unmei Muma)](http://osu.ppy.sh/b/1220922&m=1) | [Pernicious] |
+
+| FreeMod | |
+| --- | :--- |
+| [AAAA Chazuke - Hop Step Adventure* (TKS)](http://osu.ppy.sh/b/998269&m=1) | [Special*] (HR, HDHR) |
+| [Mitsuyoshi Takenobu no Ani - Amphisbaena (john571)](http://osu.ppy.sh/b/1150139&m=1) | [Inner oni] (Any) |
+| [Nizikawa - F.K.S (Arrival)](http://osu.ppy.sh/b/1165727&m=1) | [Inner Oni] (HDHR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [goreshit - looming shadow of a tree long gone (grumd)](http://osu.ppy.sh/b/344834&m=1) | [Loctav's Oni] (Any) |
+
+------------------------------------------------------------------------
+
+## Results
+### Group Stage
+
+| Saturday, 11. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -win by default- |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 4 | 0 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31674432) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 4 | 0 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://new.ppy.sh/matches/31675793) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -win by default- |
+| South Korea ![](/wiki/shared/flag/Kr.gif) | 4 | 0 | ![](/wiki/shared/flag/Ua.gif) Ukraine | [#1](https://new.ppy.sh/matches/31675803) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 4 | 0 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://new.ppy.sh/matches/31677429) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 3 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://new.ppy.sh/matches/31677435) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 4 | 0 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://new.ppy.sh/matches/31690990) |
+| France ![](/wiki/shared/flag/Fr.gif) | 4 | 0 | ![](/wiki/shared/flag/Ua.gif) Ukraine | [#1](https://new.ppy.sh/matches/31690995) |
+| United States ![](/wiki/shared/flag/Us.gif) | 4 | 0 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://new.ppy.sh/matches/31693122) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 1 | ![](/wiki/shared/flag/Es.gif) Spain | [#1](https://new.ppy.sh/matches/31693125) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 4 | 0 | ![](/wiki/shared/flag/Ve.gif) Venezuela | [#1](https://new.ppy.sh/matches/31695326) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 4 | 0 | ![](/wiki/shared/flag/Ve.gif) Venezuela | [#1](https://new.ppy.sh/matches/31696708) |
+| United States ![](/wiki/shared/flag/Us.gif) | 4 | 0 | ![](/wiki/shared/flag/Br.gif) Brazil | [#1](https://new.ppy.sh/matches/31696713) |
+
+| Sunday, 12. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 4 | 0 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/31698275) |
+| South Korea ![](/wiki/shared/flag/Kr.gif) | 4 | 3 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://new.ppy.sh/matches/31710151) |
+| Spain ![](/wiki/shared/flag/Es.gif) | 4 | 0 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://new.ppy.sh/matches/31710156) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 4 | 0 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://new.ppy.sh/matches/31711335) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 4 | 0 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://new.ppy.sh/matches/31711337) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 4 | 0 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://new.ppy.sh/matches/31711338) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 0 | 4 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31712895) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 0 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://new.ppy.sh/matches/31713001) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 4 | 0 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://new.ppy.sh/matches/31714550) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 4 | 1 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://new.ppy.sh/matches/31714557) |
+
 ------------------------------------------------------------------------
 
 ## Ruleset
