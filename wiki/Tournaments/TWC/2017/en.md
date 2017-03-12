@@ -86,39 +86,18 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Saturday, 11. March 2017
+### Sunday, 19. March 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 20.00 (8pm) UTC +8 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **12.00 (12pm)** | 20.00 (8pm) UTC +8 | 20.00 (8pm) UTC +8 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 13.00 (1pm) UTC +0 |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 21.00 (9pm) UTC +8 |
-| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 15.00 (3pm) UTC +2 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **14.00 (2pm)** | 22.00 (10pm) UTC +8 | 11.00 (11am) UTC -3 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 21.00 (9pm) UTC +7 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **20.00 (8pm)** | 20.00 (8pm) UTC +0 | 21.00 (9pm) UTC +1 |
-| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Ua.gif) | Ukraine | **20.00 (8pm)** | 21.00 (9pm) UTC +1 | 22.00 (10pm) UTC +2 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **21.00 (9pm)** | 14.00 (2pm) UTC -7 | 22.00 (10pm) UTC +1 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **21.00 (9pm)** | 22.00 (10pm) UTC +1 | 22.00 (10pm) UTC +1 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **22.00 (10pm)** | 15.00 (3pm) UTC -7 | 18.00 (6pm) UTC -4 |
-| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Ve.gif) | Venezuela | **23.00 (11pm)** | 9.00 (9am) (Sun.) UTC +10 | 19.00 (7pm) UTC -4 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **23.00 (11pm)** | 16.00 (4pm) UTC -7 | 20.00 (8pm) UTC -3 |
-
-### Sunday, 12. March 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.00 (12am)** | 17.00 (5pm) (Sat.) UTC -7 | 10.00 (10am) UTC +10 |
-| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **12.00 (12pm)** | 21.00 (9pm) UTC +9 | 13.00 (1pm) UTC +1 |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **12.00 (12pm)** | 13.00 (1pm) UTC +1 | 14.00 (2pm) UTC +2 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **13.00 (1pm)** | 21.00 (9pm) UTC +8 | 14.00 (2pm) UTC +1 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **13.00 (1pm)** | 20.00 (8pm) UTC +7 | 16.00 (4pm) UTC +3 |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 14.00 (2pm) UTC +1 |
-| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **14.00 (2pm)** | 11.00 (11am) UTC -3 | 22.00 (10pm) UTC +8 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **14.00 (2pm)** | 15.00 (3pm) UTC +1 | 16.00 (4pm) UTC +2 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 18.00 (6pm) UTC +3 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **15.00 (3pm)** | 12.00 (12pm) UTC -3 | 16.00 (4pm) UTC +1 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **9.00 UTC** | 17.00 UTC +8 | 10.00 UTC +1 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **10.00 UTC** | 11.00 UTC +1 | 18.00 UTC +8 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **11.00 UTC** | 18.00 UTC +7 | 21.00 UTC +10 |
+| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **12.00 UTC** | 9.00 UTC -3 | 21.00 UTC +9 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **13.00 UTC** | 13.00 UTC +0 | 22.00 UTC +9 |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **14.00 UTC** | 15.00 UTC +1 | 22.00 UTC +8 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **19.00 UTC** | 12.00 UTC -7 | 20.00 UTC +1 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 17.00 UTC -3 | 13.00 UTC -7 |
 
 ------------------------------------------------------------------------
 
@@ -160,6 +139,45 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | Tiebreaker | |
 | --- | :--- |
 | [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](http://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
+
+## Round of 16
+
+**[Download the mappack here!](http://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi)](http://osu.ppy.sh/b/1149263&m=1) | [Kraken] |
+| [Lite Show Magic - Stronghold (Nofool)](http://osu.ppy.sh/b/995363&m=1) | [Special Oni] |
+| [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki)](http://osu.ppy.sh/b/465665&m=1) | [Kagami's Taiko] |
+| [LeaF - Paraclete (Kroytz)](http://osu.ppy.sh/b/1023467&m=1) | [Nwolf's Inner Oni] |
+| [Noah - Clash of swords (myckoll)](http://osu.ppy.sh/b/1173780&m=1) | [MyckOni] |
+| [Toby Fox - Spider Dance (Camellia Remix) (nananass)](http://osu.ppy.sh/b/1195443&m=1) | [Oni] |
+
+| Hidden | |
+| --- | :--- |
+| [KillerBlood - Run Lads Run (Nwolf)](http://osu.ppy.sh/b/1210839&m=1) | [Run Oni Run] |
+| [BlackY - Harpuia (Ichigaki)](http://osu.ppy.sh/b/706841&m=1) | [Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [L.E.D. vs S-C-U - Confiserie (-xNaCLx-)](http://osu.ppy.sh/b/809880&m=1) | [Inner Oni] |
+| [Kola Kid - can't hide your love (Ekoro)](http://osu.ppy.sh/b/488844&m=1) | [Divine Light] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn)](http://osu.ppy.sh/b/978374&m=1) | [Nwolf's Oni] |
+| [SABREMISSILE - Pernicious Deed (Unmei Muma)](http://osu.ppy.sh/b/1220922&m=1) | [Pernicious] |
+
+| FreeMod | |
+| --- | :--- |
+| [AAAA Chazuke - Hop Step Adventure* (TKS)](http://osu.ppy.sh/b/998269&m=1) | [Special*] (HR, HDHR) |
+| [Mitsuyoshi Takenobu no Ani - Amphisbaena (john571)](http://osu.ppy.sh/b/1150139&m=1) | [Inner oni] (Any) |
+| [Nizikawa - F.K.S (Arrival)](http://osu.ppy.sh/b/1165727&m=1) | [Inner Oni] (HDHR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [goreshit - looming shadow of a tree long gone (grumd)](http://osu.ppy.sh/b/344834&m=1) | [Loctav's Oni] (Any) |
+
 ------------------------------------------------------------------------
 
 ## Ruleset
