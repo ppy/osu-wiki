@@ -86,7 +86,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Group Stage
+## Schedule: Round of 16
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
