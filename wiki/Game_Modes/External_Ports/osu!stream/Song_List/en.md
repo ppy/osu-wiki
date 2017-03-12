@@ -1,378 +1,267 @@
+<!-- wikilink -->
+[osu!stream wikilink]: .,/ "osu!stream"
 
-***[Click here to go back to osu!stream](Osu!stream "wikilink")***
+<!-- img -->
+<!-- get me links -->
+[SL]: ../img/Os-SL.jpg "Song List"
+[SI]: ../img/Os-SI.png "Song Information"
+[Store]: ../img/Os-Store.jpg "Store screen"
 
-Osu!stream SONG.jpg|Song list Os SI.png|Song Information Os store.jpg|Store screen Os Demo load.jpg|Loading Preview Os Song Demo.jpg|Preview Song Information Os Demo play SU.jpg| Preview Stream Up to Expert (Note: Does not occur in actual gameplay) Os Demo play.jpg|Preview of Expert play
+[Demo load]: ./img/Os-Demo_Load.jpg "Loading Preview"
+[Demo song]: ./img/Os-Demo_Song.jpg "Preview Song Information"
+[Demo SU]: ./img/Os-Demo_SU.jpg "Preview Stream Up to Expert (Note: Does not occur in actual gameplay)"
+[Demo]: ./img/Os-Demo.jpg "Preview of Expert play"
 
--   Most of the songs are original.
--   At the Store page, you can click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
-    -   Preview demo have *four* difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
--   If the song can be found on osu!, it will be linked.
-    -   osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
+[dif2]: ./img/dif2.png "1"
+[dif3]: ./img/dif3.png "1.5"
+[dif4]: ./img/dif4.png "2"
+[dif5]: ./img/dif5.png "2.5"
+[dif6]: ./img/dif6.png "3"
+[dif7]: ./img/dif7.png "3.5"
+[dif8]: ./img/dif8.png "4"
+[dif9]: ./img/dif9.png "4.5"
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Pack name</p></th>
-<th><p>Creator - Song</p></th>
-<th><p>Level Design</p></th>
-<th><p>Difficulty (5)</p></th>
-<th><p>Website</p></th>
-<th><p>Price</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>rowspan=2|Free Pack 1</p></td>
-<td><p><a href="http://osu.ppy.sh/s/7850">Haru☆ - March Handyman</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/Sushi">Sushi</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />
-<p class="caption">Osustreamdif4.png</p>
-</div></td>
-<td><p><a href="http://viotex.matrix.jp/" class="uri">http://viotex.matrix.jp/</a><br />
-<a href="http://skatepunkscafe.blog117.fc2.com/" class="uri">http://skatepunkscafe.blog117.fc2.com/</a></p></td>
-<td><p>rowspan=2|Free</p></td>
-</tr>
-<tr class="even">
-<td><p>Garbled Waves - Apatisk</p></td>
-<td><p><a href="http://osu.ppy.sh/u/RandomJibberish">RandomJibberish</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif6.png" title="Osustreamdif6.png" alt="Osustreamdif6.png" width="200" />
-<p class="caption">Osustreamdif6.png</p>
-</div></td>
-<td><p><a href="http://soundcloud.com/garbled-waves/" class="uri">http://soundcloud.com/garbled-waves/</a><br />
-<a href="https://twitter.com/GarbledWaves">@GarbledWaves</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=2|Bundled Songs (currently bundled)</p></td>
-<td><p>nekodex - Liquid Future</p></td>
-<td><p><a href="http://osu.ppy.sh/u/mm201">mm201</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p><a href="http://soundcloud.com/nekodex/" class="uri">http://soundcloud.com/nekodex/</a><br />
-<a href="https://twitter.com/nekodex">@nekodex</a></p></td>
-<td><p>rowspan=2|Free</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://osu.ppy.sh/s/17076">tieff &amp; Natteke - Endless Tower</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/RandomJibberish">RandomJibberish</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif2.png" title="Osustreamdif2.png" alt="Osustreamdif2.png" width="200" />
-<p class="caption">Osustreamdif2.png</p>
-</div></td>
-<td><p><a href="http://osu.ppy.sh/u/natteke" class="uri">http://osu.ppy.sh/u/natteke</a><br />
-<a href="http://osu.ppy.sh/u/tieff" class="uri">http://osu.ppy.sh/u/tieff</a><br />
-<a href="https://twitter.com/Nattekee">@Nattekee</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=2|Bundled Songs</p></td>
-<td><p>SkyMarshall - Hitchhikers (<strong><abbr title="A possible tribute to Douglas Adams's The Hitchhiker's Guide to the Galaxy">Note</abbr></strong>)</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Gens">Gens</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif3.png" title="Osustreamdif3.png" alt="Osustreamdif3.png" width="200" />
-<p class="caption">Osustreamdif3.png</p>
-</div></td>
-<td><p><a href="http://www.skymarshallarts.com/" class="uri">http://www.skymarshallarts.com/</a></p></td>
-<td><p>rowspan=2|Free</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://osu.ppy.sh/s/34430">tieff &amp; Natteke - Sunrise</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/jericho2442">jericho2442</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />
-<p class="caption">Osustreamdif4.png</p>
-</div></td>
-<td><p><a href="http://osu.ppy.sh/u/natteke" class="uri">http://osu.ppy.sh/u/natteke</a><br />
-<a href="http://osu.ppy.sh/u/tieff" class="uri">http://osu.ppy.sh/u/tieff</a><br />
-<a href="https://twitter.com/Nattekee">@Nattekee</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=4|Cranky Pack Vol. 1</p></td>
-<td><p>Cranky - 1970</p></td>
-<td><p><a href="http://osu.ppy.sh/u/IceBeam">IceBeam</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />
-<p class="caption">Osustreamdif4.png</p>
-</div></td>
-<td><p>rowspan=4|<a href="http://www.rave-slave.com/" class="uri">http://www.rave-slave.com/</a></p></td>
-<td><p>rowspan=4|$1.99</p></td>
-</tr>
-<tr class="even">
-<td><p>Cranky - Crocus</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Xgor">Xgor</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />
-<p class="caption">Osustreamdif4.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>Cranky - Into the Unknown</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Samah">Samah</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif8.png" title="Osustreamdif8.png" alt="Osustreamdif8.png" width="200" />
-<p class="caption">Osustreamdif8.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>Cranky - Dee Dee Cee</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif9.png" title="Osustreamdif9.png" alt="Osustreamdif9.png" width="200" />
-<p class="caption">Osustreamdif9.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=4|OK Go Vol. 1</p></td>
-<td><p>OK Go - All Is Not Lost</p></td>
-<td><p><a href="http://osu.ppy.sh/u/mm201">mm201</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif5.png" title="Osustreamdif5.png" alt="Osustreamdif5.png" width="200" />
-<p class="caption">Osustreamdif5.png</p>
-</div></td>
-<td><p>rowspan=4|<a href="http://okgo.net/" class="uri">http://okgo.net/</a></p></td>
-<td><p>rowspan=4|$1.99</p></td>
-</tr>
-<tr class="even">
-<td><p>OK Go - End Love</p></td>
-<td><p><a href="http://osu.ppy.sh/u/RandomJibberish">RandomJibberish</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif3.png" title="Osustreamdif3.png" alt="Osustreamdif3.png" width="200" />
-<p class="caption">Osustreamdif3.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://osu.ppy.sh/s/16424">OK Go - This Too Shall Pass</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/m980">m980</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://osu.ppy.sh/s/20159">OK Go - WTF</a></p></td>
-<td><p>Team STREAM</p></td>
-<td><div class="figure">
-<img src="Osustreamdif6.png" title="Osustreamdif6.png" alt="Osustreamdif6.png" width="200" />
-<p class="caption">Osustreamdif6.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=4|Koizumi Vol. 1</p></td>
-<td><p>Koizumi UNDERGROUND - Get Back!<br />
-Koizumi Zehetbauer - Get Back!</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p>rowspan=4|<a href="http://tsundererecordings.bandcamp.com/" class="uri">http://tsundererecordings.bandcamp.com/</a><br />
-<a href="http://koizumi.teknolust.org/" class="uri">http://koizumi.teknolust.org/</a><br />
-<a href="https://twitter.com/sosayaze">@sosayaze</a></p></td>
-<td><p>rowspan=4|$2.99</p></td>
-</tr>
-<tr class="even">
-<td><p>samplingmasters Koizumi - With Me</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif4.png" title="Osustreamdif4.png" alt="Osustreamdif4.png" width="200" />
-<p class="caption">Osustreamdif4.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>samplingmasters Koizumi - Love is a Danger Zone</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif6.png" title="Osustreamdif6.png" alt="Osustreamdif6.png" width="200" />
-<p class="caption">Osustreamdif6.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>samplingmasters Koizumi - Infinity Loop</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=2|Free Pack 2</p></td>
-<td><p>Bomb Boy - Ignition, Set, GO!</p></td>
-<td><p><a href="http://osu.ppy.sh/u/D33d">D33d</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif8.png" title="Osustreamdif8.png" alt="Osustreamdif8.png" width="200" />
-<p class="caption">Osustreamdif8.png</p>
-</div></td>
-<td><p><a href="https://twitter.com/BomuBoi">@BomuBoi</a></p></td>
-<td><p>rowspan=2|Free</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://osu.ppy.sh/s/12892">daniwellP - Nekomimi Switch</a></p></td>
-<td><p>Team STREAM</p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p><a href="http://dic.nicovideo.jp/a/daniwellp/" class="uri">http://dic.nicovideo.jp/a/daniwellp/</a><br />
-<a href="https://twitter.com/daniwell_aidn">@daniwell_aidn</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=4|Electronic Pack Vol. 1</p></td>
-<td><p>Kenneth Nilsen - Space Music</p></td>
-<td><p><a href="http://osu.ppy.sh/u/jericho2442">jericho2442</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif6.png" title="Osustreamdif6.png" alt="Osustreamdif6.png" width="200" />
-<p class="caption">Osustreamdif6.png</p>
-</div></td>
-<td><p>rowspan=2|<a href="http://soundcloud.com/keosni391" class="uri">http://soundcloud.com/keosni391</a></p></td>
-<td><p>rowspan=4|$0.99</p></td>
-</tr>
-<tr class="even">
-<td><p>Kenneth Nilsen - Woohoo!</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Krisom">Krisom</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif8.png" title="Osustreamdif8.png" alt="Osustreamdif8.png" width="200" />
-<p class="caption">Osustreamdif8.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>NIGHTkilla - Fracture</p></td>
-<td><p><a href="http://osu.ppy.sh/u/jericho2442">jericho2442</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p><a href="http://soundcloud.com/qbiq-nightkilla" class="uri">http://soundcloud.com/qbiq-nightkilla</a></p></td>
-</tr>
-<tr class="even">
-<td><p>SkyMarshall - It's True</p></td>
-<td><p><a href="http://osu.ppy.sh/u/jericho2442">jericho2442</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif8.png" title="Osustreamdif8.png" alt="Osustreamdif8.png" width="200" />
-<p class="caption">Osustreamdif8.png</p>
-</div></td>
-<td><p><a href="http://www.skymarshallarts.com/" class="uri">http://www.skymarshallarts.com/</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan=4|Odyssey Pack</p></td>
-<td><p>Odyssey - Wings of Burning Love</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Larto">Larto</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p>rowspan=2|<a href="http://odysseymusic.bandcamp.com/" class="uri">http://odysseymusic.bandcamp.com/</a></p></td>
-<td><p>rowspan=4|$0.99</p></td>
-</tr>
-<tr class="even">
-<td><p>Odyssey - Cherry Blossoms (2010 Mix)</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Mashley">Mashley</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif5.png" title="Osustreamdif5.png" alt="Osustreamdif5.png" width="200" />
-<p class="caption">Osustreamdif5.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>Mortimer - River</p></td>
-<td><p><a href="http://osu.ppy.sh/u/ouranhshc">ouranhshc</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif5.png" title="Osustreamdif5.png" alt="Osustreamdif5.png" width="200" />
-<p class="caption">Osustreamdif5.png</p>
-</div></td>
-<td><p><a href="http://odysseymusic.bandcamp.com/" class="uri">http://odysseymusic.bandcamp.com/</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Travis Stebbins - Magnetic Love</p></td>
-<td><p><a href="http://osu.ppy.sh/u/mm201">mm201</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif3.png" title="Osustreamdif3.png" alt="Osustreamdif3.png" width="200" />
-<p class="caption">Osustreamdif3.png</p>
-</div></td>
-<td><p><a href="http://odysseymusic.bandcamp.com/" class="uri">http://odysseymusic.bandcamp.com/</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Free Pack 1.5</p></td>
-<td><p><a href="http://osu.ppy.sh/s/29296">Aperture Science - Want You Gone</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/12328">Larto</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-<td><p><a href="http://thinkwithportals.com/" class="uri">http://thinkwithportals.com/</a><br />
-<a href="http://www.thinkwithportals.com/music.php" class="uri">http://www.thinkwithportals.com/music.php</a> (Volume 3)<br />
-<a href="https://twitter.com/portal2news">@portal2news</a></p></td>
-<td><p>Free</p></td>
-</tr>
-<tr class="even">
-<td><p>rowspan=4|VVVVVV Pack Vol. 1</p></td>
-<td><p><a href="http://osu.ppy.sh/s/12952">Souleye - Positive Force</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/RandomJibberish">RandomJibberish</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif5.png" title="Osustreamdif5.png" alt="Osustreamdif5.png" width="200" />
-<p class="caption">Osustreamdif5.png</p>
-</div></td>
-<td><p>rowspan=4|<a href="http://www.souleye.se/" class="uri">http://www.souleye.se/</a></p></td>
-<td><p>rowspan=4|$0.99</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="http://osu.ppy.sh/s/24271">Souleye - Pressure Cooker</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/Xgor">Xgor</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif6.png" title="Osustreamdif6.png" alt="Osustreamdif6.png" width="200" />
-<p class="caption">Osustreamdif6.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>Souleye - Potential for Anything</p></td>
-<td><p><a href="http://osu.ppy.sh/u/Larto">Larto</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>Souleye - Passion for Exploring</p></td>
-<td><p><a href="http://osu.ppy.sh/u/mm201">mm201</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif3.png" title="Osustreamdif3.png" alt="Osustreamdif3.png" width="200" />
-<p class="caption">Osustreamdif3.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>rowspan=4|SHIKI Pack Vol. 1</p></td>
-<td><p><a href="http://osu.ppy.sh/s/19230">SHIKI - Lapis</a></p></td>
-<td><p>Team STREAM</p></td>
-<td><div class="figure">
-<img src="Osustreamdif5.png" title="Osustreamdif5.png" alt="Osustreamdif5.png" width="200" />
-<p class="caption">Osustreamdif5.png</p>
-</div></td>
-<td><p>rowspan=4|<a href="http://shiki2.sakura.ne.jp/" class="uri">http://shiki2.sakura.ne.jp/</a></p></td>
-<td><p>rowspan=4|$1.99</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="http://osu.ppy.sh/b/82604">SHIKI - Pure Ruby</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/lybydose">Lybydose</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif9.png" title="Osustreamdif9.png" alt="Osustreamdif9.png" width="200" />
-<p class="caption">Osustreamdif9.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://osu.ppy.sh/s/31373">SHIKI - BABYLON</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/Xgor">Xgor</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif8.png" title="Osustreamdif8.png" alt="Osustreamdif8.png" width="200" />
-<p class="caption">Osustreamdif8.png</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p><a href="http://osu.ppy.sh/s/19221">SHIKI - Jade Star</a></p></td>
-<td><p><a href="http://osu.ppy.sh/u/Nakagawa-Kanon">Nakagawa-Kanon</a></p></td>
-<td><div class="figure">
-<img src="Osustreamdif7.png" title="Osustreamdif7.png" alt="Osustreamdif7.png" width="200" />
-<p class="caption">Osustreamdif7.png</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+<!-- link -->
+[Sushi]: https://osu.ppy.sh/u/Sushi/ "Sushi"
+[RandomJibberish]: https://osu.ppy.sh/u/RandomJibberish/ "RandomJibberish"
+[mm201]: https://osu.ppy.sh/u/mm201/ "mm201"
+[Gens]: https://osu.ppy.sh/u/Gens/ "Gens"
+[jericho2442]: https://osu.ppy.sh/u/jericho2442/ "jericho2442"
+[IceBeam]: https://osu.ppy.sh/u/IceBeam/ "IceBeam"
+[Xgor]: https://osu.ppy.sh/u/Xgor/ "Xgor"
+[Samah]: https://osu.ppy.sh/u/Samah/ "Samah"
+[D33d]: https://osu.ppy.sh/u/D33d/ "D33d"
+[m980]: https://osu.ppy.sh/u/m980/ "m980"
+[Krisom]: https://osu.ppy.sh/u/Krisom/ "Krisom"
+[Larto]: https://osu.ppy.sh/u/12328 "Larto"
+[Mashley]: https://osu.ppy.sh/u/Mashley/ "Mashley"
+[ouranhshc]: https://osu.ppy.sh/u/ouranhshc/ "ouranhshc"
+[Lybydose]: https://osu.ppy.sh/u/Lybydose/ "Lybydose"
+[Nakagawa-Kanon]: https://osu.ppy.sh/u/Nakagawa-Kanon/ "Nakagawa-Kanon"
+
+# osu!stream/Song List
+
+***[Click here to go back to osu!stream][osu!stream wikilink]***
+
+- Most of the songs are original.
+- At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
+  - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
+- If the song can be found on osu!, it will be linked.
+  - osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
+
+## Free Pack 1
+
+Price: **Free**
+
+**Packlist:-**
+
+- [Haru☆ - March Handyman](http://osu.ppy.sh/s/7850) - [Sushi][Sushi] - ![2][dif4]
+  - http://viotex.matrix.jp/
+  - http://skatepunkscafe.blog117.fc2.com/
+- Garbled Waves - Apatisk - [RandomJibberish][RandomJibberish] - ![3][dif6]
+  - http://soundcloud.com/garbled-waves/
+  - [@GarbledWaves](https://twitter.com/GarbledWaves)
+
+## Bundled Songs (currently bundled)
+
+Price: **Free**
+
+**Packlist:-**
+
+- nekodex - Liquid Future - [mm201][mm201] - ![3.5][dif7]
+  - http://soundcloud.com/nekodex/
+  - [@nekodex](https://twitter.com/nekodex)
+- [tieff & Natteke - Endless Tower](http://osu.ppy.sh/s/17076) - [RandomJibberish][RandomJibberish] - ![1][dif2]
+  - http://osu.ppy.sh/u/natteke
+  - http://osu.ppy.sh/u/tieff
+  - [@Nattekee](https://twitter.com/Nattekee)
+
+## Bundled Songs
+
+Price: **Free**
+
+**Packlist:-**
+
+- SkyMarshall - Hitchhikers - [Gens][Gens] - ![1.5][dif3]
+  - http://www.skymarshallarts.com/
+- [tieff & Natteke - Sunrise](http://osu.ppy.sh/s/34430) - [jericho2442][jericho2442] - ![2][dif4]
+  - http://osu.ppy.sh/u/natteke
+  - http://osu.ppy.sh/u/tieff
+  - [@Nattekee](https://twitter.com/Nattekee)
+
+## Cranky Pack Vol. 1
+
+Price: **USD$1.99**
+
+**Packlist:-**
+
+- Cranky - 1970 - [IceBeam][IceBeam] - ![2][dif4]
+- Cranky - Crocus - [Xgor][Xgor] - ![2][dif4]		
+- Cranky - Into the Unknown - [Samah][Samah] - ![4][dif8]
+- Cranky - Dee Dee Cee - [D33d][D33d] - ![4.5][dif9]
+
+**Source:-**
+
+- http://www.rave-slave.com/
+
+## OK Go Vol. 1
+
+Price: **USD$1.99**
+
+**Packlist:-**
+
+- OK Go - All Is Not Lost - [mm201][mm201] - ![2.5][dif5]
+- OK Go - End Love - [RandomJibberish][RandomJibberish] - ![1.5][dif3]
+- [OK Go - This Too Shall Pass](https://osu.ppy.sh/s/16424) - [m980][m980] - ![3.5][dif7]
+- [OK Go - WTF](http://osu.ppy.sh/s/20159) - Team STREAM - ![3][dif6]
+
+**Source:-**
+
+- http://okgo.net/
+
+## Koizumi Vol. 1
+
+Price: **USD$2.99**
+
+**Packlist:-**
+
+- Koizumi UNDERGROUND - Get Back! - [D33d][D33d] - ![3.5][dif7]
+  - Koizumi Zehetbauer - Get Back! - [D33d][D33d] - ![3.5][dif7]
+- samplingmasters Koizumi - With Me - [D33d][D33d] - ![2][dif4]
+- samplingmasters Koizumi - Love is a Danger Zone - [D33d][D33d] - ![3][dif6]
+- samplingmasters Koizumi - Infinity Loop - [D33d][D33d] - ![3.5][dif7]
+
+**Source:-**
+
+- http://tsundererecordings.bandcamp.com/
+- http://koizumi.teknolust.org/
+- [@sosayaze](https://twitter.com/sosayaze)
+
+## Free Pack 2
+
+Price: **Free**
+
+**Packlist:-**
+
+- Bomb Boy - Ignition, Set, GO! - [D33d][D33d] - ![4][dif8]
+  - [@BomuBoi](https://twitter.com/BomuBoi)
+- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/s/12892) - Team STREAM - ![3.5][dif7]
+  - http://dic.nicovideo.jp/a/daniwellp/
+  - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
+
+## Electronic Pack Vol. 1
+
+Price: **USD$0.99**
+
+**Packlist:-**
+
+- Kenneth Nilsen - Space Music - [jericho2442][jericho2442] - ![3][dif6]
+  - http://soundcloud.com/keosni391
+- Kenneth Nilsen - Woohoo! - [Krisom][Krisom] - ![4][dif8]
+  - http://soundcloud.com/keosni391
+- NIGHTkilla - Fracture - [jericho2442][jericho2442] - ![3.5][dif7]
+  - http://soundcloud.com/qbiq-nightkilla
+- SkyMarshall - It's True - [jericho2442][jericho2442] - ![4][dif8]
+  - http://www.skymarshallarts.com/
+
+## Odyssey Pack
+
+Price: **USD$0.99**
+
+**Packlist:-**
+
+- Odyssey - Wings of Burning Love - [Larto][Larto] - ![3.5][dif7]
+- Odyssey - Cherry Blossoms (2010 Mix) - [Mashley][Mashley] - ![2.5][dif5]
+- Mortimer - River - [ouranhshc][ouranhshc] - ![2.5][dif5]
+- Travis Stebbins - Magnetic Love - [mm201][mm201] - ![1.5][dif3]
+
+**Source:-**
+
+- http://odysseymusic.bandcamp.com/
+
+## Free Pack 1.5
+
+Price: **Free**
+
+**Packlist:-**
+
+- [Aperture Science - Want You Gone](http://osu.ppy.sh/s/29296) - [Larto][Larto] - ![3.5][dif7]
+  - http://thinkwithportals.com/
+  - http://www.thinkwithportals.com/music.php (Volume 3)
+  - [@portal2news](https://twitter.com/portal2news)
+
+## VVVVVV Pack Vol. 1
+
+Price: **USD$0.99**
+
+**Packlist:-**
+
+- [Souleye - Positive Force](http://osu.ppy.sh/s/12952) - [RandomJibberish][RandomJibberish] - ![2.5][dif5]
+- [Souleye - Pressure Cooker](http://osu.ppy.sh/s/24271) - [Xgor][Xgor] - ![3][dif6]
+- Souleye - Potential for Anything - [Larto][Larto] - ![3.5][dif7]
+- Souleye - Passion for Exploring - [mm201][mm201] - ![1.5][dif3]
+
+**Source:-**
+
+- http://www.souleye.se/
+
+## SHIKI Pack Vol. 1
+
+Price: **USD$1.99**
+
+**Packlist:-**
+
+- [SHIKI - Lapis](http://osu.ppy.sh/s/19230 ) - Team STREAM - ![2.5][dif5]
+- [SHIKI - Pure Ruby](http://osu.ppy.sh/b/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
+- [SHIKI - BABYLON](http://osu.ppy.sh/s/31373) - [Xgor][Xgor] - ![4][dif8]
+- [SHIKI - Jade Star](http://osu.ppy.sh/s/19221) - [Nakagawa-Kanon][Nakagawa-Kanon] - ![3.5][dif7]
+
+**Source:-**
+
+- http://shiki2.sakura.ne.jp/
+
+## Images
+
+---
+
+![Song List][SL]
+
+_Song List_
+
+---
+
+![Song Information][SI]
+
+_Song Information_
+
+---
+
+![Store screen][Store]
+
+_Store screen_
+
+---
+
+![Loading Preview][Demo load]
+
+_Loading Preview_
+
+---
+
+![Preview Song Information][Demo song]
+
+_Preview Song Information_
+
+---
+
+![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)][Demo SU]
+
+_Preview Stream Up to Expert (Note: Does not occur in actual gameplay)_
+
+---
+
+![Preview of Expert play][Demo]
+
+_Preview of Expert play_
+
+---

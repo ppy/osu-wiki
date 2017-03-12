@@ -1,9 +1,10 @@
 <!-- wiki -->
 [FAQ wikilink]: /wiki/FAQ/ "FAQ"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
+[osu! wikilink]: ./osu!/ "osu!"
+[osu!taiko wikilink]: ./osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: ./osu!catch/ "osu!catch"
+[osu!mania wikilink]: ./osu!mania/ "osu!mania"
+[External Ports wikilink]: ./External_Ports "External Ports"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
@@ -17,6 +18,8 @@
 
 # Game Modes
 
+## Official game modes
+
 Here are the available game modes in osu!:-
 
 - ![osu! icon][osu! icon link] _[osu!standard/osu!][osu! wikilink]_:
@@ -29,7 +32,13 @@ Here are the available game modes in osu!:-
   Collect falling fruits by moving the catcher with a plate.
   Keep dancing and do not miss the step of the beat.
 - ![osu!mania icon][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
-  Based on conveyor-type rhythm games.
+  Based on conveyor-type rhythm games, chiefly introduced and implemented by **woc2006**.
   Make the notes play a melody of the beat.
 
 For a general explanation of the game modes above, see [FAQ][FAQ wikilink].
+
+## External ports
+
+Playable ports of osu! game modes.
+
+[Click here to visit the External Ports page][External Ports wikilink]

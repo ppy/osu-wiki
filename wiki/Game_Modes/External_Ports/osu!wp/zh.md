@@ -1,14 +1,19 @@
-<img src="Osu-wp-logo.png" title="fig:osu!wp的logo" alt="osu!wp的logo" width="150" />
+[osu!wp logo]: ./img/Osu-wp-logo.png "osu!wp的logo"
+[Osuwp-MM.png]: ./img/Osuwp-MM.png "主菜单"
+[Osuwp-SS.png]: ./img/Osuwp-SS.png "选歌界面"
+[Osuwp-IS.png]: ./img/Osuwp-IS.png "游戏界面"
+[Osuwp-RS.png]: ./img/Osuwp-RS.png "结果界面"
+[Osuwp-MH.png]: ./img/Osuwp-MH.png "Music Hub模式"
 
-介绍
-====
+# osu!wp
+
+![osu!wp的logo][osu!wp logo]
 
 osu!wp是一个由 [cxy783670568](http://osu.ppy.sh/u/cxy783670568) 制作的在 Windows Phone 运行的 osu! 应用。如果你拥有 Windows Phone 7 以及 Windows Phone 8 的手机（**256MB 内存的手机除外**，例如 Nokia Lumia 610），可以 [到 Windows Phone 应用商店进行下载](http://www.windowsphone.com/zh-cn/store/app/osu-wp/83be2e91-48ca-4cfe-9a0d-851b01e62d42)。
 
 游戏界面默认支持中文（简体）、日本語、English (United States)。
 
-安装
-----
+## 安装
 
 -   手机直接安装
 
@@ -27,13 +32,11 @@ osu!wp是一个由 [cxy783670568](http://osu.ppy.sh/u/cxy783670568) 制作的在
 
 **注意：安装完成之后，osu!wp 不会在应用列表显示，而是出现在游戏列表中。**
 
-在线系统
---------
+### 在线系统
 
 osu!wp 集成了 OpenXLive 在线系统，拥有排行榜以及成就功能。需要注意的是，**在 osu! 的用户名并不能直接在 osu!wp 进行登录**，不过也可以在 osu!wp 注册一个新的用户，**用户名支持 CJK 字符（中日韩象形文字）**。
 
-Beatmap 导入
-------------
+## Beatmap 导入
 
 ### 直接下载
 
@@ -68,8 +71,7 @@ Beatmap 导入
 2.  **如果你的手机电量不足或者启用了节电模式，下载操作可能会被挂起。此时请连接你的手机充电器进行下载。**
 3.  解析时间会比较长，请耐心等待
 
-跟 osu! 的区别
---------------
+## 跟 osu! 的区别
 
 1.  只有 osu!Standard 模式
 2.  不支持视频、StoryBoard
@@ -77,13 +79,41 @@ Beatmap 导入
 4.  Break Time没有提示
 5.  只有 Easy、No Fail、Hard Rock、Sudden Death 、Hidden、Auto 这几个 mod
 
-界面
-====
+## 界面
 
-Osu-wp-1.png|主菜单 Osu-wp-2.png|选歌界面 Osu-wp-4.png|游戏界面 Osu-wp-7.png|结果界面 Osu-wp-3.png|Music Hub模式
+---
 
-Q & A
-=====
+![主菜单][Osuwp-MM.png]
+
+_主菜单_
+
+---
+
+![选歌界面][Osuwp-SS.png]
+
+_选歌界面_
+
+---
+
+![游戏界面][Osuwp-IS.png]
+
+_游戏界面_
+
+---
+
+![结果界面][Osuwp-RS.png]
+
+_结果界面_
+
+---
+
+![Music Hub模式][Osuwp-MH.png]
+
+_Music Hub模式_
+
+---
+
+## Q & A
 
 问：能不能我自己解压缩，然后放到 songs 文件夹里
 
