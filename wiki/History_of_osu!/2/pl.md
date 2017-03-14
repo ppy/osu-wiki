@@ -6,6 +6,6 @@ Poprzedni rok|Strona główna|Następny rok
 2009
 ----
 
-### January
+### Styczeń
 Została stworzona (przez nuudles) wersja osu! dla iPhone.
 
