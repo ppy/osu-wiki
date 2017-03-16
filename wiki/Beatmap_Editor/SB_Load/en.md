@@ -1,3 +1,6 @@
+SB Load
+==========
+
 **SB Load** (short for storyboard load) is a number used in [Storyboarding](/wiki/Storyboards) to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
 
 Without any storyboarding, this value is 1x (as the 640x480 space needs to be drawn once). Including a single image that takes up exactly half of the screen would result in 1.5x; two images that overlap entirely and take up half of the screen would result in 2x.

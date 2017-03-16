@@ -1,3 +1,6 @@
+Editor de beatmap
+==================
+
 O **Editor de Beatmap** é uma interface grafica do osu! para criação de [Beatmaps](/wiki/Beatmaps). É dividido em quatro modos:
 
 -   [Compose](/wiki/Beatmap_Editor/Compose): Essa é a parte onde os [Hit Objects](/wiki/Hit_Objects) são colocados e editados. A maior parte do tempo no editor é gasto nesse modo.

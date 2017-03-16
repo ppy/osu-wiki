@@ -1,3 +1,6 @@
+Beat Snap Divisor (Deutsch)
+==============================
+
 osu!, Taiko und Catch the Beat
 ------------------------------
 

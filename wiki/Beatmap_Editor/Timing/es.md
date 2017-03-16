@@ -1,3 +1,6 @@
+Tempo
+=======
+
 ***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
 
 <img src="Timing base.jpg" title="fig:Menú de timing." alt="Menú de timing." width="300" /> El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.

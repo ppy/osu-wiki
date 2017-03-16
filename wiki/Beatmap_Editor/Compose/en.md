@@ -1,20 +1,24 @@
+Compose
+==========
+
 <img src="Compose.png" title="fig:Compose editor for osu! in Windowed mode" alt="Compose editor for osu! in Windowed mode" width="200" /> <img src="ComposeM.jpg" title="fig:Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)" alt="Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)" width="200" />
 
 **Compose** is the place where a [mapper](/wiki/Glossary) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected K, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own Features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 
-\_\_TOC\_\_
-=Features (osu!)=
+Features (osu!)
+-----------------
 
 For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
 (Starting from top-down left-right order)
 
-Top-Left (Hit Objects Timeline)
--------------------------------
+### Top-Left (Hit Objects Timeline)
 
-<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" /> **Shows the timeline for hitobjects with respect to Beat Snap Divisor and timestamp.**
+<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" />
+
+**Shows the timeline for hitobjects with respect to Beat Snap Divisor and timestamp.**
 
 <table>
 <thead>
@@ -35,7 +39,9 @@ Top-Left (Hit Objects Timeline)
 </tbody>
 </table>
 
-==Top-Right (Beat Snap Divisor)== <img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
+### Top-Right (Beat Snap Divisor)
+
+<img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
 
 **In layman term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).**
 
@@ -52,8 +58,7 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Insert Break Time** button will start/stop "Break Time" in current timestamp and **x/y** is current mouse coordinate.
 
-Centre-Left (Selector)
-----------------------
+### Centre-Left (Selector)
 
 <img src="BE_HO.jpg" title="fig:Hit Notes Selector" alt="Hit Notes Selector" width="200" /> **Your construction toolkit, made for DIY.**
 
@@ -97,13 +102,11 @@ Centre-Left (Selector)
 </tbody>
 </table>
 
-Centre (Playfield)
-------------------
+### Centre (Playfield)
 
 **Visual representation of mapping based on current timestamp.** Map your design here and your design will appear exactly like you mapped during play. This is WYSIWYG mapping. For text-based (usually for fine-tuning) mapping, you can open the .osu file directly using Notepad.
 
-Centre-Right (Hit Sounds & Assist Tools)
-----------------------------------------
+### Centre-Right (Hit Sounds & Assist Tools)
 
 **List of available subtools complement to the original DIY toolkit.** <img src="BE_HSAT.jpg" title="fig:Hit Sounds &amp; Assist Tools" alt="Hit Sounds &amp; Assist Tools" width="200" />
 
@@ -170,8 +173,7 @@ Centre-Right (Hit Sounds & Assist Tools)
 </tbody>
 </table>
 
-Bottom (Song's Timeline)
-------------------------
+### Bottom (Song's Timeline)
 
 <img src="BE_STL.jpg" title="fig:Song&#39;s Timeline" alt="Song&#39;s Timeline" width="200" /> At **bottom-left**, it shows **timestamp in milliseconds (ms)** and **song duration %**. The "%" may be switched to "intro/outro" when there is intro/outro storyboarding.
 
@@ -198,12 +200,11 @@ At **bottom-centre**, it shows the **timeline with markings and the compulsory m
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
 Features (osu!mania)
-====================
+-----------------------
 
 (The top-left hitobjects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/forum/t/118868) [Mapping & Keysound](https://osu.ppy.sh/forum/t/139139)
 
-Top-Right (Beat Snap Divisor)
------------------------------
+### Top-Right (Beat Snap Divisor)
 
 <img src="BEM_BSD.jpg" title="Beat Snap Divisor (osu!mania ver.)" alt="Beat Snap Divisor (osu!mania ver.)" width="200" />
 
@@ -213,8 +214,7 @@ Top-Right (Beat Snap Divisor)
 
 **Insert Break Time** button will put/stop "Break Time" in current timestamp. Beside the button is the **short sound file name storyboarded to the selected(blue) note**, known as **keysound** (refer to "Sampling" section at the end of this page).
 
-Centre-Left (Selector)
-----------------------
+### Centre-Left (Selector)
 
 **Your construction toolkit osu!mania ver., made for DIY.**
 
@@ -254,8 +254,7 @@ Centre-Left (Selector)
 </tbody>
 </table>
 
-Centre (Playfield)
-------------------
+### Centre (Playfield)
 
 <img src="BEM_PF.jpg" title="fig:osu!mania playfield" alt="osu!mania playfield" width="200" /> **Visual representation of mapping based on current timestamp.**
 
@@ -283,8 +282,7 @@ Centre (Playfield)
 | Ticks notes  | Has two purple ticks between each white tick | Adds blue ticks, in addition to the red ticks |
 | Notes        | Compound Timing                              | Useful for general mapping                    |
 
-Centre-Right (Hit Sounds & Assist Tools)
-----------------------------------------
+### Centre-Right (Hit Sounds & Assist Tools)
 
 <img src="BE_HSAT.jpg" title="fig:Hit Sounds &amp; Assist Tools" alt="Hit Sounds &amp; Assist Tools" width="200" /> **List of available subtools complement to the toolkit.**
 
@@ -353,7 +351,11 @@ Centre-Right (Hit Sounds & Assist Tools)
 
 For **keysound** (adding SE on hitnotes), select the note and **ALT + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder). Refer to "Sampling" section at end of page.
 
-==Bottom (Song Timeline)== <img src="BE_STL.jpg" title="fig:Song Timeline" alt="Song Timeline" width="200" /> At **bottom-left**, it shows **timestamp in milliseconds (ms)** and **song duration %**.
+### Bottom (Song Timeline)
+
+<img src="BE_STL.jpg" title="fig:Song Timeline" alt="Song Timeline" width="200" />
+
+At **bottom-left**, it shows **timestamp in milliseconds (ms)** and **song duration %**.
 
 At **bottom-centre**, it shows the **timeline with markings and the compulsory music player buttons.** For "Test" button, your beatmap will be saved to test the beatmap starting on current timestamp.
 
@@ -366,14 +368,13 @@ At **bottom-centre**, it shows the **timeline with markings and the compulsory m
 
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-Sampling
---------
+### Sampling
 
 <img src="Sample omc.jpg" title="Sample pop-up window (Windows 8&#39;s ver.)" alt="Sample pop-up window (Windows 8&#39;s ver.)" width="200" />
 
 **Sampling** is a process of **adding sound to the note.** To begin, select the note and **ALT + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder).
 
-### Sample import
+#### Sample import
 
 **Left-section** is the **list of sound files you have in the beatmap's folder.**
 
@@ -395,7 +396,7 @@ Sampling
 | Reset              |
 | Cancel             |
 
-### Sample event list
+#### Sample event list
 
 **Actual storyboarding**. Click on "Sample list" will summon another window (shown in right-side of the picture) named "Sample event list", which would be this. The two buttons should be self-explanatory (Delete = Delete the selected event. Close = Close the window). '''These storyboarded elements will go to the .osu file (the selected difficulty) '''
 

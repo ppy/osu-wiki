@@ -1,5 +1,8 @@
+Beatmap Editor/Menu
+====================
+
 File
-====
+------
 
 <img src="M_File.jpg" title="fig:Right|File menu" alt="Right|File menu" width="200" /> **Basic File commands.**
 
@@ -88,7 +91,7 @@ File
 </table>
 
 Edit
-====
+-----
 
 <img src="M_Edit.jpg" title="fig:Right|Edit menu" alt="Right|Edit menu" width="200" /> Edit commands. Same as default MS shortcuts.
 
@@ -204,7 +207,7 @@ Edit
 </table>
 
 View
-====
+--------
 
 <img src="M_View.jpg" title="fig:Right|View menu" alt="Right|View menu" width="200" /> Places of interest.
 
@@ -275,7 +278,7 @@ View
 </table>
 
 Compose
-=======
+--------
 
 <img src="M_Compose.jpg" title="Right|Compose menu" alt="Right|Compose menu" width="200" />
 
@@ -322,7 +325,7 @@ Compose
 </table>
 
 Design
-======
+-------
 
 <img src="M_Design.jpg" title="Right|Design menu" alt="Right|Design menu" width="200" />
 
@@ -333,7 +336,7 @@ Design
 | Move all elements on time... |
 
 Timing
-======
+-------
 
 <img src="M_Timing.jpg" title="Right|Timing menu" alt="Right|Timing menu" width="200" />
 
@@ -408,7 +411,7 @@ Timing
 </table>
 
 Web
-===
+------
 
 <img src="M_Web.jpg" title="fig:Right|Web menu" alt="Right|Web menu" width="200" /> Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
 
@@ -419,7 +422,7 @@ Web
 | Quick Reply                     |
 
 Help
-====
+-----
 
 <img src="M_Help.jpg" title="Right|Help menu" alt="Right|Help menu" width="200" />
 

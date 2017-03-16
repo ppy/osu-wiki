@@ -1,3 +1,6 @@
+Paramètres de la beatmap
+==========================
+
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte. <img src="Song Setup nav.jpg" title="fig:Emplacement des paramètres de la beatmap" alt="Emplacement des paramètres de la beatmap" width="350" />
 
 Général

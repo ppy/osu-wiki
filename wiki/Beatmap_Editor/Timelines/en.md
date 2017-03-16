@@ -1,7 +1,10 @@
+Timelines
+=========
+
 This will list all the possible timelines you will encounter in Beatmap Editor along with their respective location.
 
 Song Player
-===========
+------------
 
 <img src="BE_STL.jpg" title="Song&#39;s Timeline" alt="Song&#39;s Timeline" width="200" />
 
@@ -31,10 +34,10 @@ At **centre**, it shows the **timeline with markings and the compulsory music pl
 
 At **right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-=Compose=
+Compose
+------------
 
-osu!
-----
+### osu!
 
 *Location: Top @ [Compose](/wiki/Beatmap_Editor/Compose) tab in any modes other than osu!mania only.*
 
@@ -59,8 +62,7 @@ osu!
 </tbody>
 </table>
 
-osu!mania
----------
+### osu!mania
 
 *Location: Centre @ [Compose](/wiki/Beatmap_Editor/Compose) tab in osu!mania only.*
 
@@ -79,7 +81,7 @@ osu!mania
 | White/Pink/Yellow colour |
 
 Design
-======
+--------
 
 *Location: Top @ [Design](/wiki/Beatmap_Editor/Design) tab*
 
@@ -100,7 +102,7 @@ Design
 If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -&gt; going down).
 
 Timing
-======
+---------
 
 *Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
 

@@ -1,3 +1,6 @@
+Kiaiタイム
+============
+
 <img src="Kiai_Time.jpg" title="fig:Stars shower the screen indicating Kiai Time has started." alt="Stars shower the screen indicating Kiai Time has started." width="200" /> <img src="Kiai_Time_Edit_Mode.jpg" title="fig:Kiai Time shows in the upper-left of the screen when active during edit mode." alt="Kiai Time shows in the upper-left of the screen when active during edit mode." width="200" /> **Kiai タイム**は[譜面上の](/wiki/Beatmaps)[Mapperによって作成される](/wiki/Glossary)2つの[タイミングセクションによって設定されます](/wiki/Beatmap_Editor/Timing)。画面が点滅し、星のエフェクトが出るのであなたはそれを認識することができます。付け加えれば全てのオブジェクトはメインビートに従って点滅し、星はヒットサークルを当てた時やスライダーやスピナーを打つとき、カーソルから噴出されます。
 
 譜面作成でのKiaiタイム

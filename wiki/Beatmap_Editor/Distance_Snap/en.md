@@ -1,3 +1,6 @@
+Distance Snap
+===============
+
 <img src="Beatspacing.jpg" title="An example of what exactly beat spacing does." alt="An example of what exactly beat spacing does." width="400" />
 
 ***Distance between consecutive circles will be snapped based on their rhythmical difference.***

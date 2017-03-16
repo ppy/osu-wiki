@@ -1,3 +1,6 @@
+Kiai Time (Français)
+=====================
+
 <img src="Kiai_Time.jpg" title="fig:Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." alt="Etoiles jaillissant des côtés de l&#39;écran pour montrer que le Kiai Time a commencé." width="200" /> <img src="Kiai_Time_Edit_Mode.jpg" title="fig:Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." alt="Kiai Time indiqué dans l&#39;éditeur de beatmaps par un indicateur en haut à gauche de l&#39;écran." width="200" /> Le **Kiai Time** est défini par le [mappeur](/wiki/Beatmapping) sur une beatmap, entre deux [sections de timing](/wiki/Beatmap_Editor/Timing). Il est possible de reconnaître un Kiai Time grâce aux étoiles qui jaillissent des côtés de l'écran, aux flashs en rythme avec la musique et à la traînée d'étoiles qui suit le curseur (si l'option graphique correspondante est activée).
 
 Kiai Time en beatmapping

@@ -1,9 +1,12 @@
+Compose
+========
+
 <img src="SE base.jpg" title="fig:Design tab" alt="Design tab" width="250" /> The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboards). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard_Scripting).
 
 It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
 Getting Started
-===============
+----------------
 
 1.  Place all your storyboard elements/pictures into your map's song folder and create a subfolder named "SB" for them.
 2.  Access your map through the editor and go to the "Design" screen.
@@ -27,12 +30,11 @@ Getting Started
 **Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (eg move up -&gt; move down).
 
 Features
-========
+---------
 
 (Starting from top-down left-right order)
 
-Top-Left (Transformation Timeline)
-----------------------------------
+### Top-Left (Transformation Timeline)
 
 **Shows the timeline for transformations of the selected object.**
 
@@ -50,17 +52,15 @@ Top-Left (Transformation Timeline)
 
 If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -&gt; going down).
 
-Top-Right (Readings)
---------------------
+### Top-Right (Readings)
 
 <img src="SE_R.jpg" title="fig:Readings" alt="Readings" width="150" /> Shows the **readings** and a **toggle to add a background image/video.** The toggle is self-explanatory.
 
 For the readings, **x/y** are your *own* mouse coordinates on the beatmap and will change frantically as you move your mouse. **{number}ms** is the timestamp in milliseconds. **SB Load** is the amount of processing power required to play the storyboard *alone* only. Generally, keep the SB load as low as possible (1.00~2.00) during playtime and let it roll during breaktime/intro/outro.
 
-Centre-left (Utilities)
------------------------
+### Centre-left (Utilities)
 
-### Layer Toggles
+#### Layer Toggles
 
 <img src="SE_LT_B.jpg" title="fig:Layer Toggles" alt="Layer Toggles" width="200" /> These will **disable/enable layers from being shown.** If you do not want to see the passing scene (that is always on top of the fail scene in editor), turn "Passing" off and enjoy the fail scene. This is useful when you want to see commands for different objects but something is in the way.
 
@@ -76,7 +76,7 @@ All the toggles are as shown below:-
 
 **Note:** HitObjects &gt; Foreground &gt; Passing/Failing &gt; Background where "&gt;" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
 
-### Transformation (timeframe-based)
+#### Transformation (timeframe-based)
 
 These are the commands used for your object. Five of the commands have been put in; Move, Scale, Fade, Rotate and Colour. To use the Loop and Parameters, you will need to do some Storyboard Scripting to utilise them. [ An example of an object subjected to Move up/down and Fade In.](Media:SE_Move.jpg "wikilink")
 
@@ -157,13 +157,11 @@ To use them:-
 -   .osb (osu!beatmap event base): "Design" base (BG, Video, SB) for each difficulty of the beatmap set to follow.
 -   .osu (osu!beatmap difficulty): Difficulty-specific file. Holds *a lot* of information.
 
-Centre (Storyboard of the beatmap)
-----------------------------------
+### Centre (Storyboard of the beatmap)
 
 This is the **visual representation of the storyboard and changes based on both timeline and layer toggles.** Place your objects here and make the storyboard.
 
-Centre-right (Objects)
-----------------------
+### Centre-right (Objects)
 
 <img src="SE_OBJ.jpg" title="fig:List of SB objects used in the beatmap in different conditional layers" alt="List of SB objects used in the beatmap in different conditional layers" width="200" /> **List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use **"DEL" key** or Edit -&gt; Delete from top menu.
 
@@ -172,13 +170,12 @@ Centre-right (Objects)
 
 **Note:** HitObjects &gt; Foreground &gt; Passing/Failing &gt; Background where "&gt;" blocks that layer.
 
-Bottom (Play Timeline)
-----------------------
+### Bottom (Play Timeline)
 
 Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback Speed slows down the song by % against original speed. You should be familiar with this if you had did some mapping before at Compose.
 
 Limitations
-===========
+------------
 
 -   No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hitobjects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
 -   No [loop](/wiki/Storyboard_Scripting/Compound_Commands) or [trigger](/wiki/Storyboard_Scripting/Compound_Commands) support.
@@ -187,7 +184,7 @@ Limitations
     -   If you are *also* doing [Storyboard Scripting](/wiki/Storyboard_Scripting), you will need to *read an extra line* per object done in Design tab.
 
 Source
-======
+-------
 
 -   [m980's basic explanation](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=8145&p=67660#p67660)
 -   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)

@@ -1,3 +1,6 @@
+Song Setup
+============
+
 The Song Setup is an important screen in [beatmapping](/wiki/Beatmapping), as it contains many important settings that are keys to make a decent map. <img src="Song Setup nav.jpg" title="fig:Where the Song Setup is located" alt="Where the Song Setup is located" width="350" />
 
 General

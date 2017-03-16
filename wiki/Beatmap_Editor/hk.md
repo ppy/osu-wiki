@@ -1,3 +1,6 @@
+Beatmap editor (粵語)
+=====================
+
 <img src="Compose.png" title="osu!的譜面編輯器(Window 系統)" alt="osu!的譜面編輯器(Window 系統)" width="200" />
 
 **譜面編輯器** 是Osu!的遊戲中的圖形界面，用於創建Beatmaps。它被分為4種模式：

@@ -1,3 +1,6 @@
+Représentation du tempo
+========================
+
 Le diviseur de l’alignement des battements est utilisé pour limiter l'endroit où les notes peuvent être placées, de sorte qu'elles soient toujours sur un battement. Déplacer le slider sur la droite augmente la granularité des notes, ie. plus de notes peuvent être placées sur la même mesure.
 
 Chacune de ces configurations ajoute des couleurs différentes de tics sur la [ ligne du temps](/wiki/Beatmap_Editor/Timelines) . Les tics sont comme il suit :

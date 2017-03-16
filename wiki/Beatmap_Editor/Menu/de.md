@@ -1,5 +1,8 @@
+Beatmap Editor/Menü
+=====================
+
 Datei
-=====
+------
 
 <img src="DE-Editor_Datei.jpg" title="fig:Right|Dateimenü" alt="Right|Dateimenü" width="200" /> **Kommandos.**
 
@@ -88,7 +91,7 @@ Datei
 </table>
 
 Bearbeiten
-==========
+-----------
 
 <img src="DE-Editor_Bearbeiten.jpg" title="fig:Right|Bearbeitungsmenü" alt="Right|Bearbeitungsmenü" width="200" /> Edit commands. Same as default MS shortcuts.
 
@@ -204,7 +207,7 @@ Bearbeiten
 </table>
 
 Ansicht
-=======
+----------
 
 <img src="DE-Editor_Ansicht.jpg" title="Right|Ansichtmenü" alt="Right|Ansichtmenü" width="200" />
 
@@ -275,7 +278,7 @@ Ansicht
 </table>
 
 Komponieren
-===========
+------------
 
 <img src="DE-Editor_Komponieren.jpg" title="Right|Kompositionsmenü" alt="Right|Kompositionsmenü" width="200" />
 
@@ -322,7 +325,7 @@ Komponieren
 </table>
 
 Design
-======
+-------
 
 <img src="DE-Editor_Design.jpg" title="Right|Designmenü" alt="Right|Designmenü" width="200" />
 
@@ -333,7 +336,7 @@ Design
 | Alle Objekte verschieben |
 
 Timing
-======
+--------
 
 <img src="DE-Editor_Timing.jpg" title="Right|Timingmenü" alt="Right|Timingmenü" width="200" />
 
@@ -408,7 +411,7 @@ Timing
 </table>
 
 Web
-===
+------
 
 <img src="DE-Editor_Web.jpg" title="fig:Right|Webmenü" alt="Right|Webmenü" width="200" /> Öffnet Ihren Browser. Leitet Sie hauptsächlich zum Beatmap-Thread (Sie müssen angemeldet sein).
 
@@ -419,7 +422,7 @@ Web
 | Schnellantwort                   |
 
 Hilfe
-=====
+--------
 
 <img src="DE-Editor_Hilfe.jpg" title="Right|Hilfemenü" alt="Right|Hilfemenü" width="200" />
 

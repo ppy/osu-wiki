@@ -1,4 +1,7 @@
-L' **Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](/wiki/Beatmap_Editor), dans la partie Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) basique, et est en général une bonne introduction au [Storyboarding](/wiki/Storyboards) avant le [Storyboard Scripting](/wiki/Storyboard_Scripting), plus complexe.
+Éditeur de Storyboards
+======================
+
+' **Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](/wiki/Beatmap_Editor), dans la partie Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) basique, et est en général une bonne introduction au [Storyboarding](/wiki/Storyboards) avant le [Storyboard Scripting](/wiki/Storyboard_Scripting), plus complexe.
 
 Fonctionnalités
 ---------------

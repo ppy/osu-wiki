@@ -1,3 +1,6 @@
+Pembagi Derik Ketukan
+=====================
+
 Pembagi Derik Ketukan digunakan untuk membatasi penempatan not yang dapat ditempat sehingga mereka selalu tepat pada ketukannya. Memindahkan slider ke kanan meningkatkan granularitas dari not, yang berarti, lebih banyak not yang dapat ditempatkan pada satuan yang sama.
 
 Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Beatmap_Editor/Timelines). Tanda-tanda tersebut yaitu:

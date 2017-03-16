@@ -1,3 +1,6 @@
+Song Setup (中文)
+====================
+
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。 <img src="Song Setup nav.jpg" title="fig:歌曲设置的位置" alt="歌曲设置的位置" width="350" />
 
 基本设定(General)
