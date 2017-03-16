@@ -15,7 +15,7 @@
 [T2-SSblank.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-SSblank.jpg "Song Selection (blank)"
 [T2-SSDL.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-SSDL.jpg "Download stream"
 [T2-DELETE.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-DELETE.jpg "Delete screen"
-[T2-Gameplay.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-Gameplay.jpg "Gameplay example"
+[T2-Gameplay.png]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-Gameplay.png "Gameplay example"
 [T2-Spinner.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-Spinner.jpg "Spinner"
 [T2-Paused.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-Paused.jpg "Paused screen"
 [T2-Failed.jpg]: /wiki/Game_Modes/External_Ports/T-Aiko!/img/T2-Failed.jpg "Failed screen"
@@ -83,7 +83,7 @@ _Delete screen_
 
 ---
 
-![Gameplay example][T2-Gameplay.jpg]
+![Gameplay example][T2-Gameplay.png]
 
 _Gameplay example_
 
