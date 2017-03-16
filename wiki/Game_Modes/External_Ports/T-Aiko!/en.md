@@ -6,7 +6,9 @@
 <!-- external -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
 [Install post]: http://osu.ppy.sh/forum/t/58640
+[Arcaea link]: https://arcaea.lowiro.com/ "Arcaea main page by lowiro team"
 [tagi pixiv]: http://www.pixiv.net/member.php?id=9901180 "tagi"
+[cierra pixiv]: http://www.pixiv.net/member.php?id=2948941 "シエラ (cierra)"
 [Charlotte anime]: https://en.wikipedia.org/wiki/Charlotte_(anime) "Charlotte"
 [Touhou link]: https://en.wikipedia.org/wiki/Touhou_Project)
 
@@ -31,6 +33,8 @@
 # T-Aiko v2
 
 **[Click here to return to External Ports index page](../ "External Ports index page")**
+
+**Note:** Information is accurate as of version 2.4.0 update (10/11 March 2017, 2017-03-10/11, for Android/iOS respectively)
 
 ![T-Aiko v2 logo][T-Aiko v2 logo]
 
@@ -96,10 +100,10 @@ Unless for a good reason (such as re-installing T-Aiko v1 from a backup applicat
 
 ### iOS-specific
 
-**iTunes**
+**_iTunes_**
 
 - Refer to [wikiHow entry](http://www.wikihow.com/Install-an-iPhone-Application).
-  - [iTunes page for T-Aiko!](https://itunes.apple.com/us/app/t-aiko!/id1060358610?ls=1&mt=8).
+  - [_iTunes_ page for T-Aiko!](https://itunes.apple.com/us/app/t-aiko!/id1060358610?ls=1&mt=8).
 
 ## Adding Beatmaps
 
@@ -114,7 +118,7 @@ Unless for a good reason (such as re-installing T-Aiko v1 from a backup applicat
 - New beatmaps are now playable.
 
 **Note:** For iOS, this generic method only work if the device has been jailbroken.
-If the device has not been modified in any way, please use iTunes.
+If the device has not been modified in any way, please use _iTunes_.
 
 ### Android-specific
 
@@ -150,19 +154,15 @@ If the device has not been modified in any way, please use iTunes.
 
 ### iOS-specific
 
-**iTunes**
+**_iTunes_**
 
 - Refer to [Apple's official entry](https://support.apple.com/en-ap/HT201301) or [howtogeek entry](http://www.howtogeek.com/215969/use-itunes-file-sharing-to-copy-files-back-and-forth-with-apps-on-your-iphone-or-ipad/).
-  - Alternatively, ["iTunes App File Sharing" search](http://lmgtfy.com/?q=iTunes+App+File+Sharing).
+  - Alternatively, ["_iTunes_ App File Sharing" search](http://lmgtfy.com/?q=iTunes+App+File+Sharing).
 
 ## What is the difference?
 
 ### General
-- This game is supported by advertisements.
-  - To remove the advertisement permanently, please apply for "Senpai" upgrade.
-  - The advertisement usually pops up once a difficulty was completed and directed to the results screen.
-  - There will always be five (5) seconds cooldown time before being allowed to return to the song selection.
-- The game itself cannot be skinned currently.
+- The game itself cannot be skinned.
 - Video and Storyboard are unsupported.
 
 ### Song Selection
@@ -192,11 +192,11 @@ _Song Selection screen for Online (Daily) mode._
 
 Playmode | Solo | Online (Daily)
 ---|---|---
-**Requirement** | (none) | Profile and Internet Connection
-**Ranking?** | No (considered as offline play) | Yes.
+**Requirement**      | (none) | Profile and Internet Connection
+**Ranking?**         | No (considered as offline play) | Yes.
 **Direct download?** | No (redirect to external beatmap site by preferred browser) | Yes (background, notice given when done, full download)
-**Playable list?** | Beatmaps stored in device | Beatmaps stored in device (if same) or blank beatmap list to be downloaded
-**List update?** | Manual | Single beatmapset daily added to online list
+**Playable list?**   | Beatmaps stored in device | Beatmaps stored in device (if same) or blank beatmap list to be downloaded
+**List update?**     | Manual | Single beatmapset daily added to online list
 
 ### Gameplay-wise
 
@@ -209,14 +209,14 @@ Playmode | Solo | Online (Daily)
 
 ## Profile tab
 
-Implementation: Build 2.1.1 (09.09.2015)
+Implementation: Build 2.1.1 (09 September 2015, 2015-09-09)
 
 Logged-in T-Aiko! profile. Tap on the profile tab in Main Menu to pick the profile card.
 
 ### Cards
 
 **Profile Cards** are image card for the profile.
-Currently limited to 14 cards.
+Currently limited to 16 cards.
 
 ![List of profile cards available][PC image]
 
@@ -228,27 +228,27 @@ Read from left-to-right, top-to-bottom
 
 Artist|Name|Source|Senpai only?
 ---|---|---|---
+[シエラ (cierra)][cierra pixiv]|対立 (Tairitsu/Conflict)|[Arcaea][Arcaea link]|Y
+[シエラ (cierra)][cierra pixiv]|光 (Hikaru/Light)|[Arcaea][Arcaea link]|Y
 Guy-kun|?|Original|Y
 T-Aiko! original|T-Aiko!|Original|
 T-Aiko! original|PSP!|Sony PSP|
 [tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=53290273))|[Yuyuko Saigyouji](http://en.touhouwiki.net/wiki/Yuyuko_Saigyouji)|[Touhou][Touhou link]|
 [tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=53067674))|[Misa Kurobane](http://charlotte-anime.wikia.com/wiki/Misa_Kurobane)|[Charlotte][Charlotte anime]|Y
 [tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47166331))|[Remilia Scarlet](http://en.touhouwiki.net/wiki/Remilia_Scarlet)|[Touhou][Touhou link]|
-[tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=49995738))|[Isuzu Sento](http://amaburi.wikia.com/wiki/Isuzu_Sento) ([Hestia](http://dungeon-ni-deai-o-motomeru.wikia.com/wiki/Hestia) cosplay)|[Amaburi](http://myanimelist.net/anime/22147/Amagi_Brilliant_Park) (cosplay: [DanMachi](http://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka))|
-[tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=48591367))|[Rin Tohsaka](http://typemoon.wikia.com/wiki/Rin_Tohsaka)|[Fate series](http://typemoon.wikia.com/wiki/Fate_series)|Y
 
 #### Second Row
 
 Artist|Name|Source|Senpai only?
 ---|---|---|---
+[tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=49995738))|[Isuzu Sento](http://amaburi.wikia.com/wiki/Isuzu_Sento) ([Hestia](http://dungeon-ni-deai-o-motomeru.wikia.com/wiki/Hestia) cosplay)|[Amaburi](http://myanimelist.net/anime/22147/Amagi_Brilliant_Park) (cosplay: [DanMachi](http://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka))|
+[tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=48591367))|[Rin Tohsaka](http://typemoon.wikia.com/wiki/Rin_Tohsaka)|[Fate series](http://typemoon.wikia.com/wiki/Fate_series)|Y
 [tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=51272401))|[Aoi Yamada](http://wagnaria.wikia.com/wiki/Aoi_Yamada)|[Working!!](http://myanimelist.net/anime/6956/Working!!)|
 [tagi][tagi pixiv]|?|Original|
 [tagi][tagi pixiv] ([pixiv source](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50787988))|[Murakumo Kai Ni](http://kancolle.wikia.com/wiki/Murakumo)|[KanColle](https://en.wikipedia.org/wiki/Kantai_Collection)|
 [tagi][tagi pixiv]|?|Original|
 [tagi][tagi pixiv]|?|Original|
 [tagi][tagi pixiv]|?|Original|
-|||
-|||
 
 ### Borders
 
@@ -340,7 +340,6 @@ Volume|Set the volume of sound effects [0% - 100%] (default 70%)| +/- 10% per cl
 _Senpai (USD$ 4.49)_
 
 - Senpai-only profile cards.
-- No advertisement.
 - Retry button.
 - Senpai with heart image on the profile tab.
 
@@ -370,6 +369,16 @@ Notes:-
 
 ### Can I use the old T-Aiko/osu!droid account?
 **No.**
+
+## Trivia
+
+### History
+
+- T-Aikov2 used to be supported by advertisements until 10/11 March 2017 (2017-03-10/11) update (version 2.4.0), where all the advertisements has been removed.
+  - Before that update, the only way to remove the advertisement permanently is by applying for the _Senpai_ upgrade.
+  - The advertisement usually pops up once a difficulty was completed and directed to the results screen.
+  - There will always be five (5) seconds cooldown time before being allowed to return to the song selection.
+  - The advertisement does not pop-up when played offline.
 
 ## Links
 - [Official forum post](http://osu.ppy.sh/forum/t/58640)
