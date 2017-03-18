@@ -32,7 +32,7 @@ See [Formation](./Formation/) for more details.
    1. [QQ Diamonds](./Formation/QQ_Diamonds/)
 5. [Circle Formation](./Formation/Circle_Formation/)
 6. [Zig-Zag Sliders](./Formation/Zig-Zag_Sliders/)
-   1. [Reversed Zig-zag Sliders](./Formation/Reversed_Zig-zag_Sliders/)
+   1. [Reversed Zig-zag Sliders](./Formation/Reversed_Zig-Zag_Sliders/)
 
 #### Creative Formations
 
