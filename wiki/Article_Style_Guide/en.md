@@ -85,7 +85,7 @@ For example:
 # Folder Name
 ```
 
-In the case where a title cannot be translated, use the language title (in English) followed by the language name (in that language) in round brackets.
+In the case where a title can **not** be translated, use the language title (in English) followed by the language name (in that language) in round brackets.
 For example:
 
 ```
@@ -273,6 +273,8 @@ For example:
 
 - `_Elite Beat Agents_`
 - `_Taiko no Tatsujin_`
+- `*Dance Dance Revolution*`
+- `*StepMania*`
 
 As explained in the _osu!_ section, the word `osu!` (the game or framework itself) **must** be italicized.
 
