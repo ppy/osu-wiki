@@ -144,7 +144,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](http://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
 
-## Round of 16
+### Round of 16
 
 **[Download the mappack here!](http://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
 
@@ -181,6 +181,44 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | Tiebreaker | |
 | --- | :--- |
 | [goreshit - looming shadow of a tree long gone (grumd)](http://osu.ppy.sh/b/344834&m=1) | [Loctav's Oni] (Any) |
+
+### Quarterfinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz)](http://osu.ppy.sh/b/666515&m=1) | [Tatsujin] |
+| [kamome sano - Ganymede kamome mix (KDS)](http://osu.ppy.sh/b/553602&m=1) | [Firce777's Inner Oni] |
+| [FOLiACETATE - Heterochromia Iridis (Tasha)](http://osu.ppy.sh/b/659633&m=1) | [Muri] |
+| [t+pazolite - Marry me, Nightmare (Sayaka-)](http://osu.ppy.sh/b/958562&m=1) | [Inner Oni] |
+| [Rairyu - ra'am (glalucard)](http://osu.ppy.sh/b/524961&m=1) | [Taiko] |
+| [Morimori Atsushi - Tits or get the fuck out!! (ManP)](http://osu.ppy.sh/b/744166&m=1) | [Hell Oni] |
+
+| Hidden | |
+| --- | :--- |
+| [DJ Technorch - Feeling Mega-Good! (Radio Mix) (Backfire)](http://osu.ppy.sh/b/614333&m=1) | [Taikocalypse DX 3] |
+| [U1 High-Speed - EGOISM 440 (Nyan)](http://osu.ppy.sh/b/807680&m=1) | [Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [t+pazolite - Sneak Snake (R e i R i)](http://osu.ppy.sh/b/682323&m=1) | [Reiri & Ringo's Taiko] |
+| [xi - Garyou Tensei (Spicy Salsa)](http://osu.ppy.sh/b/1080076&m=1) | [Cdh's Inner Oni] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Eagle - S!ck (TKS)](http://osu.ppy.sh/b/388397&m=1) | [Ryui's Inner On!] |
+| [sakuzyo - Altale (-xNaCLx-)](http://osu.ppy.sh/b/834458&m=1) | [Inner Oni] |
+
+| FreeMod | |
+| --- | :--- |
+| [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](http://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
+| [Acrnym - Knife (LZD)](http://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
+| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD+HR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard)](http://osu.ppy.sh/b/300030&m=1) | [Impossible Taiko] (Any) |
 
 ------------------------------------------------------------------------
 
