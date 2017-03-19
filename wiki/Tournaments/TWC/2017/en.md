@@ -86,22 +86,27 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Round of 16
+## Schedule: Quarterfinals
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Sunday, 19. March 2017
+### Saturday, 25. March 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **9.00 UTC** | 17.00 UTC +8 | 10.00 UTC +1 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **10.00 UTC** | 11.00 UTC +1 | 18.00 UTC +8 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **11.00 UTC** | 18.00 UTC +7 | 21.00 UTC +10 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **12.00 UTC** | 9.00 UTC -3 | 21.00 UTC +9 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **13.00 UTC** | 13.00 UTC +0 | 22.00 UTC +9 |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **14.00 UTC** | 15.00 UTC +1 | 22.00 UTC +8 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **19.00 UTC** | 12.00 UTC -7 | 20.00 UTC +1 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 17.00 UTC -3 | 13.00 UTC -7 |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 19.00 UTC +1 | 18.00 UTC +0 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **19.30 UTC** | 16.30 UTC -3 | 16.30 UTC -3 |
+
+### Sunday, 26. March 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 10.30 UTC +10 |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 11.00 UTC +9 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **11.30 UTC** | 19.30 UTC +8 | 13.30 UTC +2 |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
+| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.30 UTC** | 16.30 UTC +2 | 21.30 UTC +7 |
 
 ------------------------------------------------------------------------
 
@@ -144,7 +149,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](http://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
 
-## Round of 16
+### Round of 16
 
 **[Download the mappack here!](http://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
 
@@ -182,9 +187,61 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [goreshit - looming shadow of a tree long gone (grumd)](http://osu.ppy.sh/b/344834&m=1) | [Loctav's Oni] (Any) |
 
+### Quarterfinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz)](http://osu.ppy.sh/b/666515&m=1) | [Tatsujin] |
+| [kamome sano - Ganymede kamome mix (KDS)](http://osu.ppy.sh/b/553602&m=1) | [Firce777's Inner Oni] |
+| [FOLiACETATE - Heterochromia Iridis (Tasha)](http://osu.ppy.sh/b/659633&m=1) | [Muri] |
+| [t+pazolite - Marry me, Nightmare (Sayaka-)](http://osu.ppy.sh/b/958562&m=1) | [Inner Oni] |
+| [Rairyu - ra'am (glalucard)](http://osu.ppy.sh/b/524961&m=1) | [Taiko] |
+| [Morimori Atsushi - Tits or get the fuck out!! (ManP)](http://osu.ppy.sh/b/744166&m=1) | [Hell Oni] |
+
+| Hidden | |
+| --- | :--- |
+| [DJ Technorch - Feeling Mega-Good! (Radio Mix) (Backfire)](http://osu.ppy.sh/b/614333&m=1) | [Taikocalypse DX 3] |
+| [U1 High-Speed - EGOISM 440 (Nyan)](http://osu.ppy.sh/b/807680&m=1) | [Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [t+pazolite - Sneak Snake (R e i R i)](http://osu.ppy.sh/b/682323&m=1) | [Reiri & Ringo's Taiko] |
+| [xi - Garyou Tensei (Spicy Salsa)](http://osu.ppy.sh/b/1080076&m=1) | [Cdh's Inner Oni] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Eagle - S!ck (TKS)](http://osu.ppy.sh/b/388397&m=1) | [Ryui's Inner On!] |
+| [sakuzyo - Altale (-xNaCLx-)](http://osu.ppy.sh/b/834458&m=1) | [Inner Oni] |
+
+| FreeMod | |
+| --- | :--- |
+| [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](http://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
+| [Acrnym - Knife (LZD)](http://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
+| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD+HR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard)](http://osu.ppy.sh/b/300030&m=1) | [Impossible Taiko] (Any) |
+
 ------------------------------------------------------------------------
 
 ## Results
+
+### Round of 16
+
+| Sunday, 19. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 5 | 0 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://new.ppy.sh/matches/31875417) |
+| Germany ![](/wiki/shared/flag/De.gif) | 5 | 2 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31876394) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 2 | 5 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/31877490) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 1 | 5 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://new.ppy.sh/matches/31878642) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 0 | 5 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/31880026) |
+| Spain ![](/wiki/shared/flag/Es.gif) | 0 | 5 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/31881564) |
+| United States ![](/wiki/shared/flag/Us.gif) | 5 | 2 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://new.ppy.sh/matches/31889735) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 0 | 5 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/31891726) |
+
 ### Group Stage
 
 | Saturday, 11. March 2017 | | | | |
