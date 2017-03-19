@@ -3,7 +3,9 @@ Tempo
 
 ***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
 
-<img src="Timing base.jpg" title="fig:Menú de timing." alt="Menú de timing." width="300" /> El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
+![Menú de timing](Timing_base.jpg "Menú de timing")
+
+ El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
 
 Para lograr un correcto timing es necesario que el timeline (línea de tiempo) en el [editor](/wiki/Beatmap_Editor) se sincronice correctamente con la música. Si el timing es incorrecto, entonces el timeline no coincidirá con la canción. Por lo tanto, no podrías presionar los objetos con precisión, y sería imposible mappear correctamente la canción.
 
@@ -28,7 +30,7 @@ Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM c
 Secciones de Timing
 -------------------
 
-<img src="TimingSetup.png" title="La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples." alt="La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples." width="300" />
+![La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.](TimingSetup.png "La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.")
 
 Las secciones de timing te permiten variar el timing en la canción. Existen dos tipos de secciones de timing, una sección de timing regular y una sección de timing heredada.
 

@@ -1,7 +1,7 @@
 Slider
 ========
 
-<img src="sliderjump01.png" title="An example of two sliders used in a very nice fashion." alt="An example of two sliders used in a very nice fashion." width="200" />
+![An example of two sliders (aqua-colored)](Sliderjump01.png "An example of two sliders (aqua-colored)")
 
 A slider is a [Hit Object](/wiki/Hit_Objects) used frequently in osu!.
 

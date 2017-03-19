@@ -1,7 +1,8 @@
 Penyunting beatmap
 ===================
 
-<img src="Compose.png" title="osu!Editor Windowed mode" alt="osu!Editor Windowed mode" width="200" />
+![osu!Editor Windowed mode](Compose/Compose.png "osu!Editor Windowed mode")
+
 
 **Penyunting beatmap** (beatmap editor) adalah osu! in-game graphical interface untuk membuat [Beatmaps](/wiki/Beatmaps). Hal ini dipisahkan menjadi 4 modes:
 

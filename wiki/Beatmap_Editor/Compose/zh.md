@@ -1,7 +1,9 @@
 Compose
 ===========
 
-<img src="Compose.png" title="fig:视窗模式下的 osu! 编辑器 Compose 画面" alt="视窗模式下的 osu! 编辑器 Compose 画面" width="200" /> <img src="ComposeM.jpg" title="fig:osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）" alt="osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）" width="200" />
+![视窗模式下的 osu! 编辑器 Compose 画面](Compose.png "视窗模式下的 osu! 编辑器 Compose 画面")
+
+![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](ComposeM.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
 
 **Compose（作曲）** 是一个在[作图者于](/wiki/Glossary) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
 
@@ -15,7 +17,9 @@ Compose
 
 ### 左上（物件时间轴）
 
-<img src="BE_NTL.jpg" title="fig:物件时间轴" alt="物件时间轴" width="200" /> **以 Beat Snap Divsor 和所在时间为基准显示物件的时间轴**
+![物件时间轴](/wiki/shared/BE_NTL.jpg "物件时间轴")
+
+**以 Beat Snap Divsor 和所在时间为基准显示物件的时间轴**
 
 <table>
 <thead>
@@ -38,7 +42,7 @@ Compose
 
 ### 右上（Beat Snap Divisor）
 
-<img src="BE_BSD.jpg" title="fig:Beat Snap Divisor" alt="Beat Snap Divisor" width="200" />
+![Beat Snap Divisor](BE_BSD.jpg "Beat Snap Divisor")
 
 *'*主条目: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) / [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) *'*
 
@@ -59,7 +63,9 @@ Compose
 
 ### 左边（Selector）
 
-<img src="BE_HO.jpg" title="fig:物件选取" alt="物件选取" width="200" /> **你的工具箱，专为 DIY 设计。**
+![物件选取](BE_HO.jpg "物件选取")
+
+**你的工具箱，专为 DIY 设计。**
 
 <table>
 <thead>
@@ -103,7 +109,9 @@ Compose
 
 ### 右边（打击音效 & 辅助工具）
 
-**其他可用的辅助工具。** <img src="BE_HSAT.jpg" title="fig:打击音效 &amp; 辅助工具" alt="打击音效 &amp; 辅助工具" width="200" />
+**其他可用的辅助工具。**
+
+![打击音效 & 辅助工具](BE_HSAT.jpg "打击音效 & 辅助工具")
 
 <table>
 <thead>
@@ -170,7 +178,7 @@ Compose
 
 ### 下方（歌曲时间轴）
 
-<img src="BE_STL.jpg" title="fig:歌曲时间轴" alt="歌曲时间轴" width="200" />
+![歌曲时间轴](/wiki/shared/BE_HSAT.jpg "歌曲时间轴")
 
 在**左下角**显示的是以**毫秒表示的所在时间**和**歌曲长度百分比**。这个百分比会在歌曲开始之前 / 结束之后还有故事板的情况下变成 "Intro" / "Outro"。
 
@@ -203,7 +211,7 @@ Compose
 
 ### 右上（Beat Snap Divisor）
 
-<img src="BEM_BSD.jpg" title="Beat Snap Divisor（osu!mania 版）" alt="Beat Snap Divisor（osu!mania 版）" width="200" />
+![Beat Snap Divisor（osu!mania 版）](BEM_BSD.jpg "Beat Snap Divisor（osu!mania 版）")
 
 ***主页面：[Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
@@ -249,7 +257,9 @@ Compose
 
 ### 中央（游玩区域）
 
-<img src="BEM_PF.jpg" title="fig:osu!mania 游玩区域" alt="osu!mania 游玩区域" width="200" /> **显示现在所在时间的谱面样貌。**
+![osu!mania 游玩区域](/wiki/shared/BEM_PF.jpg "osu!mania 游玩区域")
+
+**显示现在所在时间的谱面样貌。**
 
 | 游玩区域的框框     |
 |--------------------|
@@ -277,7 +287,9 @@ Compose
 
 ### 右边（打击音效 & 辅助工具）
 
-<img src="BE_HSAT.jpg" title="fig:打击音效 &amp; 辅助工具" alt="打击音效 &amp; 辅助工具" width="200" /> **其他可用的辅助工具。**
+![打击音效 & 辅助工具](BE_HSAT.jpg "打击音效 & 辅助工具")
+
+**其他可用的辅助工具。**
 
 <table>
 <thead>
@@ -346,7 +358,8 @@ Compose
 
 ### 下方（歌曲时间轴）
 
-<img src="BE_STL.jpg" title="fig:歌曲时间轴" alt="歌曲时间轴" width="200" />
+![歌曲时间轴](/wiki/shared/BE_STL.jpg "歌曲时间轴")
+
 
  在**左下角**会**以毫秒显示目前所在时间**及**歌曲长度百分比**。
 
@@ -363,7 +376,7 @@ Compose
 
 ### Sampling
 
-<img src="Sample omc.jpg" title="音效视窗（Windows 8 版）" alt="音效视窗（Windows 8 版）" width="200" />
+![音效视窗（Windows 8 版）](Sample_omc.jpg "音效视窗（Windows 8 版）")
 
 **Sampling** 是指**在物件上添加音效**的过程。先选取物件然后按下 **ALT+左键**即可（会跳出一个列出谱面资料夹下所有音效的视窗）。
 

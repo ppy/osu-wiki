@@ -4,7 +4,9 @@ Beatmap Editor/Menü
 Datei
 ------
 
-<img src="DE-Editor_Datei.jpg" title="fig:Right|Dateimenü" alt="Right|Dateimenü" width="200" /> **Kommandos.**
+![Dateimenü](DE-Editor_Datei.jpg "Dateimenü")
+
+**Kommandos.**
 
 <table>
 <thead>
@@ -93,7 +95,9 @@ Datei
 Bearbeiten
 -----------
 
-<img src="DE-Editor_Bearbeiten.jpg" title="fig:Right|Bearbeitungsmenü" alt="Right|Bearbeitungsmenü" width="200" /> Edit commands. Same as default MS shortcuts.
+![Bearbeitungsmenü](DE-Editor_Bearbeiten.jpg "Bearbeitungsmenü")
+
+Edit commands. Same as default MS shortcuts.
 
 <table>
 <thead>
@@ -209,7 +213,7 @@ Bearbeiten
 Ansicht
 ----------
 
-<img src="DE-Editor_Ansicht.jpg" title="Right|Ansichtmenü" alt="Right|Ansichtmenü" width="200" />
+![Ansichtmenü](DE-Editor_Ansicht.jpg "Ansichtmenü")
 
 <table>
 <thead>
@@ -280,7 +284,7 @@ Ansicht
 Komponieren
 ------------
 
-<img src="DE-Editor_Komponieren.jpg" title="Right|Kompositionsmenü" alt="Right|Kompositionsmenü" width="200" />
+![Kompositionsmenü](DE-Editor_Komponieren.jpg "Kompositionsmenü")
 
 ***Hauptseite: [Komposition](/wiki/Beatmap_Editor/Compose)***
 
@@ -327,7 +331,7 @@ Komponieren
 Design
 -------
 
-<img src="DE-Editor_Design.jpg" title="Right|Designmenü" alt="Right|Designmenü" width="200" />
+![Designmenü](DE-Editor_Design.jpg "Designmenü")
 
 ***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
@@ -338,7 +342,7 @@ Design
 Timing
 --------
 
-<img src="DE-Editor_Timing.jpg" title="Right|Timingmenü" alt="Right|Timingmenü" width="200" />
+![Timingmenü](DE-Editor_Timing.jpg "Timingmenü")
 
 ***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
@@ -413,7 +417,9 @@ Timing
 Web
 ------
 
-<img src="DE-Editor_Web.jpg" title="fig:Right|Webmenü" alt="Right|Webmenü" width="200" /> Öffnet Ihren Browser. Leitet Sie hauptsächlich zum Beatmap-Thread (Sie müssen angemeldet sein).
+![Webmenü](DE-Editor_Web.jpg "Webmenü")
+
+Öffnet Ihren Browser. Leitet Sie hauptsächlich zum Beatmap-Thread (Sie müssen angemeldet sein).
 
 | Webmenü                          |
 |----------------------------------|
@@ -424,7 +430,7 @@ Web
 Hilfe
 --------
 
-<img src="DE-Editor_Hilfe.jpg" title="Right|Hilfemenü" alt="Right|Hilfemenü" width="200" />
+![Hilfemenü](DE-Editor_Hilfe.jpg "Hilfemenü")
 
 <table>
 <thead>

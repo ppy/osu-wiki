@@ -4,7 +4,9 @@ Beatmap Editor/Menu
 File
 ------
 
-<img src="M_File.jpg" title="fig:Right|File menu" alt="Right|File menu" width="200" /> **Basic File commands.**
+![File menu](M_File.jpg "File menu")
+
+**Basic File commands.**
 
 <table>
 <thead>
@@ -93,7 +95,9 @@ File
 Edit
 -----
 
-<img src="M_Edit.jpg" title="fig:Right|Edit menu" alt="Right|Edit menu" width="200" /> Edit commands. Same as default MS shortcuts.
+![Edit menu](M_Edit.jpg "Edit menu")
+
+Edit commands. Same as default MS shortcuts.
 
 <table>
 <thead>
@@ -209,7 +213,9 @@ Edit
 View
 --------
 
-<img src="M_View.jpg" title="fig:Right|View menu" alt="Right|View menu" width="200" /> Places of interest.
+![View menu](M_View.jpg "View menu")
+
+Places of interest.
 
 <table>
 <thead>
@@ -280,7 +286,7 @@ View
 Compose
 --------
 
-<img src="M_Compose.jpg" title="Right|Compose menu" alt="Right|Compose menu" width="200" />
+![Compose menu](M_Compose.jpg "Compose menu")
 
 ***Main page: [Compose](/wiki/Beatmap_Editor/Compose)***
 
@@ -327,7 +333,7 @@ Compose
 Design
 -------
 
-<img src="M_Design.jpg" title="Right|Design menu" alt="Right|Design menu" width="200" />
+![Design menu](M_Design.jpg "Design menu")
 
 ***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
@@ -338,7 +344,7 @@ Design
 Timing
 -------
 
-<img src="M_Timing.jpg" title="Right|Timing menu" alt="Right|Timing menu" width="200" />
+![Timing menu](M_Timing.jpg "Timing menu")
 
 ***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
@@ -413,7 +419,9 @@ Timing
 Web
 ------
 
-<img src="M_Web.jpg" title="fig:Right|Web menu" alt="Right|Web menu" width="200" /> Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
+![Web menu](M_Web.jpg "Web menu")
+
+Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
 
 | Web menu                        |
 |---------------------------------|
@@ -424,7 +432,7 @@ Web
 Help
 -----
 
-<img src="M_Help.jpg" title="Right|Help menu" alt="Right|Help menu" width="200" />
+![Help menu](M_Help.jpg "Help menu")
 
 <table>
 <thead>

@@ -6,7 +6,7 @@ This will list all the possible timelines you will encounter in Beatmap Editor a
 Song Player
 ------------
 
-<img src="BE_STL.jpg" title="Song&#39;s Timeline" alt="Song&#39;s Timeline" width="200" />
+![Song's Timeline](/wiki/shared/BE_STL.jpg "Song's Timeline")
 
 *Location: [Compose](/wiki/Beatmap_Editor/Compose), [Design](/wiki/Beatmap_Editor/Design), [Timing](/wiki/Beatmap_Editor/Timing) (Bottom)*
 
@@ -41,7 +41,9 @@ Compose
 
 *Location: Top @ [Compose](/wiki/Beatmap_Editor/Compose) tab in any modes other than osu!mania only.*
 
-<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" /> **Shows the timeline for hitobjects with respect to [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) and timestamp.**
+![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
+
+**Shows the timeline for hitobjects with respect to [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) and timestamp.**
 
 <table>
 <thead>
@@ -66,7 +68,7 @@ Compose
 
 *Location: Centre @ [Compose](/wiki/Beatmap_Editor/Compose) tab in osu!mania only.*
 
-<img src="BEM_PF.jpg" title="osu!mania playfield" alt="osu!mania playfield" width="200" />
+![osu!mania playfield](/wiki/shared/BEM_PF.jpg "osu!mania playfield")
 
 | Playfield Boxes          |
 |--------------------------|
@@ -87,7 +89,7 @@ Design
 
 **Shows the timeline for transformations of the selected object.**
 
-<img src="SE_STM.jpg" title="Storyboard Timeline" alt="Storyboard Timeline" width="350" />
+![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
 
 | Timeline                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -106,7 +108,7 @@ Timing
 
 *Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
 
-<img src="TT.jpg" title="Timing Timeline" alt="Timing Timeline" width="350" />
+![Timing Timeline](TT.jpg "Timing Timeline")
 
 | Timing Timeline         |
 |-------------------------|

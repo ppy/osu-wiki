@@ -1,7 +1,9 @@
-Compose
+Design
 ========
 
-<img src="SE base.jpg" title="fig:Design tab" alt="Design tab" width="250" /> The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboards). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard_Scripting).
+![Design tab](SE_base.jpg "Design tab")
+
+The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboards). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard_Scripting).
 
 It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
@@ -25,9 +27,9 @@ Getting Started
 6.  At the command points you can change the factors of the function by holding your left mousebutton and moving your cursor up (increasing factor) or down (decreasing factor)
 7.  Repeat Step 3-6 for other elements.
 
-    To remove, use **"DEL" key** or Edit -&gt; Delete from top menu.
+    To remove, use **"DEL" key** or Edit -> Delete from top menu.
 
-**Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (eg move up -&gt; move down).
+**Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (eg move up -> move down).
 
 Features
 ---------
@@ -38,7 +40,7 @@ Features
 
 **Shows the timeline for transformations of the selected object.**
 
-<img src="SE_STM.jpg" title="Storyboard Timeline" alt="Storyboard Timeline" width="350" />
+![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
 
 | Timeline                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,13 +50,15 @@ Features
 | Keyframe Control                                                                                                                                            |
 | This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline. |
 | "+"/"-" buttons                                                                                                                                             |
-| "|&lt;" / "&gt;|" buttons                                                                                                                                   |
+| "|&lt;" / ">|" buttons                                                                                                                                   |
 
-If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -&gt; going down).
+If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -> going down).
 
 ### Top-Right (Readings)
 
-<img src="SE_R.jpg" title="fig:Readings" alt="Readings" width="150" /> Shows the **readings** and a **toggle to add a background image/video.** The toggle is self-explanatory.
+![Readings](SE_R.jpg "Readings")
+
+Shows the **readings** and a **toggle to add a background image/video.** The toggle is self-explanatory.
 
 For the readings, **x/y** are your *own* mouse coordinates on the beatmap and will change frantically as you move your mouse. **{number}ms** is the timestamp in milliseconds. **SB Load** is the amount of processing power required to play the storyboard *alone* only. Generally, keep the SB load as low as possible (1.00~2.00) during playtime and let it roll during breaktime/intro/outro.
 
@@ -62,7 +66,9 @@ For the readings, **x/y** are your *own* mouse coordinates on the beatmap and wi
 
 #### Layer Toggles
 
-<img src="SE_LT_B.jpg" title="fig:Layer Toggles" alt="Layer Toggles" width="200" /> These will **disable/enable layers from being shown.** If you do not want to see the passing scene (that is always on top of the fail scene in editor), turn "Passing" off and enjoy the fail scene. This is useful when you want to see commands for different objects but something is in the way.
+![Layer Toggles](SE_LT_B.jpg "Layer Toggles")
+
+These will **disable/enable layers from being shown.** If you do not want to see the passing scene (that is always on top of the fail scene in editor), turn "Passing" off and enjoy the fail scene. This is useful when you want to see commands for different objects but something is in the way.
 
 All the toggles are as shown below:-
 
@@ -72,13 +78,13 @@ All the toggles are as shown below:-
 -   Foreground
 -   HitObjects (automatically disabled)
 
-[An example of Layer Toggles effects](Media:SE_LT.jpg "wikilink")
-
-**Note:** HitObjects &gt; Foreground &gt; Passing/Failing &gt; Background where "&gt;" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
+**Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
 
 #### Transformation (timeframe-based)
 
-These are the commands used for your object. Five of the commands have been put in; Move, Scale, Fade, Rotate and Colour. To use the Loop and Parameters, you will need to do some Storyboard Scripting to utilise them. [ An example of an object subjected to Move up/down and Fade In.](Media:SE_Move.jpg "wikilink")
+These are the commands used for your object. Five of the commands have been put in; Move, Scale, Fade, Rotate and Colour. To use the Loop and Parameters, you will need to do some Storyboard Scripting to utilise them.
+
+![An example of an object subjected to Move up/down and Fade In.](SE_Move.jpg "An example of an object subjected to Move up/down and Fade In.")
 
 To use them:-
 
@@ -88,7 +94,7 @@ To use them:-
 4.  Set the effect usage (move up or down your mouse to trigger)
 5.  Rinse and Repeat.
 
-<img src="SE_TRANS.jpg" title="Transformations buttons" alt="Transformations buttons" width="200" />
+![Transformations buttons](SE_TRANS.jpg "Transformations buttons")
 
 <table>
 <thead>
@@ -127,7 +133,7 @@ To use them:-
 </tbody>
 </table>
 
-<img src="SE_AO.jpg" title="Extra commands" alt="Extra commands" width="200" />
+![Extra commands](SE_AO.jpg "Extra commands")
 
 <table>
 <thead>
@@ -163,12 +169,14 @@ This is the **visual representation of the storyboard and changes based on both 
 
 ### Centre-right (Objects)
 
-<img src="SE_OBJ.jpg" title="fig:List of SB objects used in the beatmap in different conditional layers" alt="List of SB objects used in the beatmap in different conditional layers" width="200" /> **List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use **"DEL" key** or Edit -&gt; Delete from top menu.
+![List of SB objects used in the beatmap in different conditional layers](SE_OBJ.jpg "List of SB objects used in the beatmap in different conditional layers")
+
+**List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use **"DEL" key** or Edit -> Delete from top menu.
 
 | Sprite Library | [Visual representation of the sprite used](Media:SE_SL.jpg "wikilink"). Click the "Browse..." button to search for sprite to use. You can duplicate the sprite by clicking on it's thumbnail at Sprite Library window. |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-**Note:** HitObjects &gt; Foreground &gt; Passing/Failing &gt; Background where "&gt;" blocks that layer.
+**Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer.
 
 ### Bottom (Play Timeline)
 

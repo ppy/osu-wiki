@@ -1,7 +1,7 @@
 デザイン
 =========
 
-<img src="SE base.jpg" title="Design tab" alt="Design tab" width="250" />
+![Design tab](SE_base.jpg "Design tab")
 
 **ストーリーボードエディタ** は[エディタ内にある機能で](/wiki/Beatmap_Editor)、Designタブに存在していて、簡単な[ストーリーボード](/wiki/Storyboards)(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](/wiki/Storyboard_Scripting)。
 
@@ -27,7 +27,7 @@
 6.  コマンドの置かれているキーフレームにて、画像の上でマウスの左をクリックしたままカーソルを上または下に動かすことで、エフェクトの数値を変更することができ、移動に関しては左クリックしたまま移動させればその場所へ画像を移動させることができます。
 7.  3-6の工程を他の画像でも繰り返します。
 
-    画像を消したくなったら**"DEL" キー**を押すか、トップメニューのEdit-&gt;Deleteで消去できます。
+    画像を消したくなったら**"DEL" キー**を押すか、トップメニューのEdit->Deleteで消去できます。
 
 特徴
 ----
@@ -36,7 +36,7 @@
 
 **選択されたオブジェクトのエフェクト追加に関するタイムラインを見ることができます。**
 
-<img src="SE_STM.jpg" title="Storyboard Timeline" alt="Storyboard Timeline" width="350" />
+![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
 
 | タイムライン                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -46,13 +46,15 @@
 | キーフレームコントロール                                                                                                  |
 | これは**開始/終了のためのキーフレームを追加するため**に使用されます。画面の下にあるブックマークと似たような挙動をします。 |
 | "+"/"-" ボタン                                                                                                            |
-| "|&lt;" / "&gt;|" ボタン                                                                                                  |
+| "|&lt;" / ">|" ボタン                                                                                                  |
 
 エフェクトが存在している場合、その変化内容に対応した色が表示され、始点と終点にはそれぞれ白い半分の短いラインが入り、それがエフェクトの入る期間を決定します。フルのラインはエフェクトが切り替わるポイント(上に移動していた画像が下に下る等)であることを示します。
 
 ### 右上 (読み込み)
 
-<img src="SE_R.jpg" title="fig:Readings" alt="Readings" width="150" /> **ロード状態**と** 背景画像/動画の切り替え**について表示されています。
+![Readings](SE_R.jpg "Readings")
+
+ **ロード状態**と** 背景画像/動画の切り替え**について表示されています。
 
 読み込みの**x/y**はeditor上にある**あなたの**マウスカーソルの座標を示し、マウスを動かせばそれは変化します。 **{数字}ms** はミリセカンド単位(1秒=1000ms)のタイムスタンプです。 **SB Load**はストーリーボードを再生する上で必要な情報処理量です。これは可能な限り低く(1.00~2.00)設定されるべきです。
 
@@ -60,7 +62,9 @@
 
 #### レイヤー切り替え
 
-<img src="SE_LT_B.jpg" title="fig:Layer Toggles" alt="Layer Toggles" width="200" /> これはレイヤーの**表示の有効化/無効化** を決定する項目です。もしあなたがPassingのシーン(常にeditorでfailよりも上に表示される)を見たくない場合、"Passing" を無効化することで、failのシーンを楽しむことができます。これは異なったオブジェクトへのコマンドを見たくても、何かのオブジェクトが邪魔で見れない場合などに場合に便利です。
+![Layer Toggles](SE_LT_B.jpg "Layer Toggles")
+
+これはレイヤーの**表示の有効化/無効化** を決定する項目です。もしあなたがPassingのシーン(常にeditorでfailよりも上に表示される)を見たくない場合、"Passing" を無効化することで、failのシーンを楽しむことができます。これは異なったオブジェクトへのコマンドを見たくても、何かのオブジェクトが邪魔で見れない場合などに場合に便利です。
 
 表示/非表示の設定可能な一覧:-
 
@@ -70,9 +74,7 @@
 -   Foreground
 -   HitObjects (自動的に無効化されます)
 
-[レイヤーの無効化エフェクトの例](Media:SE_LT.jpg "wikilink")
-
-**Note:** HitObjects &gt; Foreground &gt; Passing/Failing &gt; Backgroundの順に上から表示されます。
+**Note:** HitObjects > Foreground > Passing/Failing > Backgroundの順に上から表示されます。
 
 #### エフェクト追加 (タイムフレームに依存)
 
@@ -86,7 +88,7 @@
 4.  使用するエフェクトの強弱を設定します(左クリックをしながら上下に移動)。
 5.  これらを繰り返します。
 
-<img src="SE_TRANS.jpg" title="Transformations buttons" alt="Transformations buttons" width="200" />
+![Transformations buttons](SE_TRANS.jpg "Transformations buttons")
 
 <table>
 <thead>
@@ -125,7 +127,7 @@
 </tbody>
 </table>
 
-<img src="SE_AO.jpg" title="Extra commands" alt="Extra commands" width="200" />
+![Extra commands](SE_AO.jpg "Extra commands")
 
 <table>
 <thead>
@@ -161,9 +163,9 @@
 
 ### 中央右 (オブジェクト)
 
-<img src="SE_OBJ.jpg" title="List of SB objects used in the beatmap in different conditional layers" alt="List of SB objects used in the beatmap in different conditional layers" width="200" />
+![List of SB objects used in the beatmap in different conditional layers](SE_OBJ.jpg "List of SB objects used in the beatmap in different conditional layers")
 
-**各レイヤーにあるSBのオブジェクトのリストです。** SB用オブジェクトを追加するには"Sprite Library"をクリックしてください。そして入れたい画像をレイヤーにドラッグアンドドロップしてください。画像は入れられた直後には"Foreground"にデフォルトで割り当てられます。オブジェクトの画像名の上でクリックすると、それがあるタイムラインに移動させられます。もし使用している画像に重複があってもオリジナルの画像と同じものが使用されます。**"DEL" key** or Edit -&gt; Deleteでトップメニューから削除できます。
+**各レイヤーにあるSBのオブジェクトのリストです。** SB用オブジェクトを追加するには"Sprite Library"をクリックしてください。そして入れたい画像をレイヤーにドラッグアンドドロップしてください。画像は入れられた直後には"Foreground"にデフォルトで割り当てられます。オブジェクトの画像名の上でクリックすると、それがあるタイムラインに移動させられます。もし使用している画像に重複があってもオリジナルの画像と同じものが使用されます。**"DEL" key** or Edit -> Deleteでトップメニューから削除できます。
 
 | Sprite Library | [素材として使用されている画像の視覚情報化](Media:SE_SL.jpg "wikilink"). "Browse..."をクリックすることで、使用するための画像をサーチします。Sprite Libraryでサムネイルをクリックすることで、その画像を表示部に複製することができます。 |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,7 +1,9 @@
 Slider (Português)
 ===================
 
-<img src="sliderjump01.png" title="fig:Um exemplo de dois sliders usados de uma forma agradável." alt="Um exemplo de dois sliders usados de uma forma agradável." width="200" /> Um slider é um [Hit Object](/wiki/Hit_Objects) usado frequentemente no osu!.
+![Um exemplo de dois sliders usados de uma forma agradável.](Sliderjump01.png "Um exemplo de dois sliders usados de uma forma agradável.")
+
+Um slider é um [Hit Object](/wiki/Hit_Objects) usado frequentemente no osu!.
 
 One of three objects the player interacts with (the other two being the [Hit Circle](/wiki/Hit_Objects) and the [Spinner](/wiki/Hit_Objects). It consists of two Hit Circles with a path between them, usually straight or curved. An [Approach Circle](/wiki/Beatmap_Editor/Song_Setup) is around the beginning Hit Circle of the Slider. Once it reaches its border, the player must tap the beginning of the Slider and then, keeping the button pressed, follow with his cursor a moving graphic (the Slider Ball - An graphic (ball-shaped by default) that moves along a Slider's path and on which a player must keep his cursor while pressing the button in order to successfully clear the Slider.) along the Slider's path until the end Hit Circle is reached. If there is a reverse arrow graphic at that point, the player follows the Slider Ball back along the same path and repeats as long as a reverse arrow graphic is visible.
 
