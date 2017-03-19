@@ -223,6 +223,20 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ------------------------------------------------------------------------
 
 ## Results
+
+### Round of 16
+
+| Sunday, 19. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 5 | 0 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://new.ppy.sh/matches/31875417) |
+| Germany ![](/wiki/shared/flag/De.gif) | 5 | 2 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/31876394) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 2 | 5 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/31877490) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 1 | 5 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://new.ppy.sh/matches/31878642) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 0 | 5 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/31880026) |
+| Spain ![](/wiki/shared/flag/Es.gif) | 0 | 5 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/31881564) |
+| United States ![](/wiki/shared/flag/Us.gif) | 5 | 2 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://new.ppy.sh/matches/31889735) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 0 | 5 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/31891726) |
+
 ### Group Stage
 
 | Saturday, 11. March 2017 | | | | |
