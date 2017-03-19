@@ -86,22 +86,27 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Round of 16
+## Schedule: Quarterfinals
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Sunday, 19. March 2017
+### Saturday, 25. March 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **9.00 UTC** | 17.00 UTC +8 | 10.00 UTC +1 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **10.00 UTC** | 11.00 UTC +1 | 18.00 UTC +8 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **11.00 UTC** | 18.00 UTC +7 | 21.00 UTC +10 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **12.00 UTC** | 9.00 UTC -3 | 21.00 UTC +9 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **13.00 UTC** | 13.00 UTC +0 | 22.00 UTC +9 |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **14.00 UTC** | 15.00 UTC +1 | 22.00 UTC +8 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **19.00 UTC** | 12.00 UTC -7 | 20.00 UTC +1 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 17.00 UTC -3 | 13.00 UTC -7 |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 19.00 UTC +1 | 18.00 UTC +0 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **19.30 UTC** | 16.30 UTC -3 | 16.30 UTC -3 |
+
+### Sunday, 26. March 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 10.30 UTC +10 |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 11.00 UTC +9 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **11.30 UTC** | 19.30 UTC +8 | 13.30 UTC +2 |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
+| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.30 UTC** | 16.30 UTC +2 | 21.30 UTC +7 |
 
 ------------------------------------------------------------------------
 
