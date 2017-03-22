@@ -2,7 +2,7 @@ Kiai Time (Deutsch)
 ======================
 
 
-**Kiai Time** wird vom [Mapper](/wiki/Glossary) in der [Beatmap](/wiki/Beatmaps) zwischen 2 [Timingsektionen](/wiki/Beatmap_Editor/Timing) definiert. Sie werden es durch die Sternenfontänen und an dem Geblinke auf Ihrem Bildschirm erkennen, danach werden alle [Hit Objekte](Hit_Objekte "wikilink") im Rhythmus zum Hauptbeat anfangen zu blinken und Sterne werden aus Ihrem Cursor erscheinen, wenn Sie einen [Hit Circle](Hit_Objekte#Hit_Cirle "wikilink") anklicken oder von Ihrem Cursor runterfallen, wenn Sie die Taste bei einem [Slider](Hit_Objekte#/wiki/Hit_Objects) oder einem [Spinner](Hit_Objekte#/wiki/Hit_Objects) durchgehend gedrückt halten.
+**Kiai Time** wird vom [Mapper](/wiki/Glossary) in der [Beatmap](/wiki/Beatmaps) zwischen 2 [Timingsektionen](/wiki/Beatmap_Editor/Timing) definiert. Sie werden es durch die Sternenfontänen und an dem Geblinke auf Ihrem Bildschirm erkennen, danach werden alle [Hit Objekte](/wiki/Hit_Objects) im Rhythmus zum Hauptbeat anfangen zu blinken und Sterne werden aus Ihrem Cursor erscheinen, wenn Sie einen [Hit Circle](/wiki/Hit_Objects) anklicken oder von Ihrem Cursor runterfallen, wenn Sie die Taste bei einem [Slider](/wiki/Hit_Objects) oder einem [Spinner](/wiki/Hit_Objects) durchgehend gedrückt halten.
 
 ![Sternenfontänen erscheinen, wenn der Kiai Time beginnt.](Kiai_Time.jpg "Sternenfontänen erscheinen, wenn der Kiai Time beginnt.")
 

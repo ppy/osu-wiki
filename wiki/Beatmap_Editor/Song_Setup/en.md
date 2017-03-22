@@ -1,14 +1,16 @@
 Song Setup
 ============
 
-The Song Setup is an important screen in [beatmapping](/wiki/Beatmapping), as it contains many important settings that are keys to make a decent map. <img src="Song Setup nav.jpg" title="fig:Where the Song Setup is located" alt="Where the Song Setup is located" width="350" />
+The Song Setup is an important screen in [beatmapping](/wiki/Beatmapping), as it contains many important settings that are keys to make a decent map.
+
+![Where the Song Setup is located](Song_Setup_nav.jpg "Where the Song Setup is located")
 
 General
 -------
 
 ### Song and Map Meta Data
 
-<img src="Song Setup.jpg" title="fig:An example of complete data (General tab)" alt="An example of complete data (General tab)" width="250" /> <img src="SS Difficulty Settings.jpg" title="fig:Difficulty tab" alt="Difficulty tab" width="250" />
+![An example of complete data (General tab)](Song_Setup.jpg "An example of complete data (General tab)")
 
 [Guide on finding Metadata](https://osu.ppy.sh/forum/t/249288).
 
@@ -54,6 +56,8 @@ Again, to avoid issues, please make sure that everything (aside from Difficulty 
 Difficulty
 ----------
 
+![Difficulty section](SS_Difficulty_Settings,jpg "Difficulty section")
+
 Tab related to the core of beatmap's settings. Each setting affects different aspects of the beatmap.
 
 ### HP Drain Rate
@@ -64,7 +68,7 @@ The rate at which HP decreases, which is always constant except during [breaks](
 
 ### Circle Size (osu!, Catch the Beat, Taiko only)
 
-<img src="Circle sizes.png" title="Overview of various Circle Sizes" alt="Overview of various Circle Sizes" width="250" />
+![Overview of various Circle Sizes](Circle_sizes.png "Overview of various Circle Sizes")
 
 Known as "**CS**" in Edit's song selection.
 
@@ -84,7 +88,7 @@ Clicking on "Co-op mode" checkbox doubles the currently selected amount (from 5 
 
 ### Approach Rate
 
-<img src="ARTable.png" title="Detailed AR chart (click to view larger version)" alt="Detailed AR chart (click to view larger version)" width="250" />
+![Detailed AR chart](/wiki/shared/ARTable.png "Detailed AR chart")
 
 Known as "**AR**" in Edit's song selection.
 
@@ -126,7 +130,9 @@ Four mods can alter overall difficulty timing when activated:
 
 **Note:** While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make circles seem to have a lower or higher apparent OD, respectively. In the chart below, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests, and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values below are only for comparison: the actual OD value is always a number from 0 to 10.
 
-<img src="ODTable.png" title="fig:Detailed OD chart (click to view larger version)" alt="Detailed OD chart (click to view larger version)" width="800" /> **Note:** The osu! timing system does not allow a [hit circle](/wiki/Hit_Objects) to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
+![Detailed OD chart](ODTable.png "Detailed OD chart")
+
+**Note:** The osu! timing system does not allow a [hit circle](/wiki/Hit_Objects) to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
 
 ### Approximate Difficulty Rating
 
@@ -135,7 +141,7 @@ This is a summary of all of the settings chosen on this page. More stars mean ha
 Audio
 -----
 
-<img src="SS_Audio.jpg" title="SS_Audio.jpg" alt="SS_Audio.jpg" width="250" />
+![Audio section](SS_Audio.jpg "Audio section")
 
 ### Default Sample Settings
 
@@ -158,14 +164,17 @@ Click on the buttons to test out how the sample sounds. These sounds are additiv
 Colours
 -------
 
-<img src="SS Colours.jpg" title="fig:SS Colours.jpg" alt="SS Colours.jpg" width="250" /> These sections are used mainly to assign combo colors. Combo colors are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo color opens up your OS's color picker (At picture, uploader used Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background. Up to eight combo colors can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo color (in other word, reverse order 8-7-6-5-4-3-2).
+![Colours section](SS_Colours.jpg "Colours section")
+
+These sections are used mainly to assign combo colors. Combo colors are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo color opens up your OS's color picker (At picture, uploader used Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background. Up to eight combo colors can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo color (in other word, reverse order 8-7-6-5-4-3-2).
 
 The other part of this window is assigning the playfield background color, but this is usually a moot point because beatmaps can't be ranked without a background image which usually overrides this setting unless you are planning to use a storyboard which the background may be visible.
 
 Storyboarding
 -------------
 
-<img src="SS Storyboarding.jpg" title="fig:SS Storyboarding.jpg" alt="SS Storyboarding.jpg" width="250" /> This tab houses options on how various visual elements will look in the beatmap.
+![Design section](SS_Storyboarding.jpg "Design section")
+
 
 ### Countdown
 
@@ -187,12 +196,14 @@ You can change the speed and offset of the countdown as well.
 
 Set the preferred skin (from your own skin folder) that will be used instead if the skin is present in the another player's skin folder. If the skin is not present, a notice will pop-up and the player's default skin will be used. However, most people will just include the skin as part of the beatmap file so this setting is rarely used unless to decrease the filesize. Older beatmaps may uses this, hardly ever used nowadays.
 
-An example of the usage of it would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820). [Picture example here](Media:SS_Skin_eg.jpg "wikilink")
+An example of the usage of it would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820).
+
+![Picture example here](SS_Skin_eg.jpg)
 
 Advanced
 --------
 
-<img src="SS Advanced.jpg" title="fig:SS Advanced.jpg" alt="SS Advanced.jpg" width="250" />
+![Advanced section](SS_Advanced.jpg "Advanced section")
 
 ### Stack Leniency
 
@@ -200,7 +211,9 @@ osu! will automatically stacks notes that occur in the same place and close by i
 
 The farther to the right that this slider is, the further apart in time stacking will occur. Rules dictate that if Stack Leniency is set so that stacking no longer occurs, you must manually offset the objects. This option is best left as it is *if* you *really* do not know what will happen and what you are doing.
 
-Do note that stacked hit-circles will *move* towards the point where the stacking occurs. [Picture example here](Media:SS_SL_eg.jpg "wikilink")
+Do note that stacked hit-circles will *move* towards the point where the stacking occurs.
+
+![Picture example here](SS_SL_eg.jpg)
 
 Objects are considered to belong to same stack if they are at the same coordinate and no further in time than (Approach Window) \* (Stack Leniency) / 10, where approach window is the duration for which objects stay on screen (see Approach Rate above).
 

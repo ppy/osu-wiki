@@ -8,7 +8,9 @@ Général
 
 ### Métadonnées de la musique et de la map
 
-<img src="Song Setup.jpg" title="fig:Exemple de données complètes (Onglet &quot;General&quot;)" alt="Exemple de données complètes (Onglet &quot;General&quot;)" width="250" /> <img src="SS Difficulty Settings.jpg" title="fig:Onglet &quot;Difficulty&quot; (Difficulté)" alt="Onglet &quot;Difficulty&quot; (Difficulté)" width="250" />
+![Exemple de données complètes (Onglet "General")](Song_Setup.jpg "Exemple de données complètes (Onglet "General")")
+
+![Onglet "Difficulty" (Difficulté)](SS_Difficulty_Settings,jpg "Onglet "Difficulty" (Difficulté)")
 
 [Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/forum/t/249288).
 
@@ -124,12 +126,14 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 **Note :** Alors que HT et DT ne changent pas la valeur actuelle de l'OD, l'effet de la vitesse sur les fenêtres de temps feront croire que les objets ont un OD plus long ou court, selon le mod actif. Dans la charte ci-dessous, des valeurs semblables sont données pour permettre un comparaison entre les OD avec ou sans mods. Sachez que ces OD ne s'appliquent qu'aux 300. Les fenêtres pour les 100, 50 et les sliders (qui utilisent la fenêtre pour un 50) sont plus stricts avec DT et moins stricts avec HT, contrairement à ce que l'OD suggeste. Encore une fois, en dehors de NoMod/HR/EZ (à gauche), les valeurs ci-dessous ne sont que pour comparaison : l'OD actuelle est toujours une valeur entre 0 et 10.
 
-<img src="ODTable.png" title="fig:Charte OD détaillé (cliquez pour une version plus large)" alt="Charte OD détaillé (cliquez pour une version plus large)" width="800" /> **Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
+![Charte OD détaillé](ODTable.png "Charte OD détaillé")
+
+**Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
 
 Audio
 -----
 
-<img src="SS_Audio.jpg" title="Onglet &quot;Audio&quot;" alt="Onglet &quot;Audio&quot;" width="250" />
+![Onglet "Audio"](SS_Audio.jpg "Onglet "Audio"")
 
 ### Default Sample Settings (Sons par défaut)
 
@@ -152,14 +156,18 @@ Cliquez sur les boutons pour tester les hitsounds actuels. Ces sons sont additif
 Colours (Couleurs)
 ------------------
 
-<img src="SS Colours.jpg" title="fig:Onglet &quot;Colours&quot;" alt="Onglet &quot;Colours&quot;" width="250" /> Cette section est utilisée principalement pour assigner des couleurs de combo. Ces couleurs sone un aspect important de la valeur esthétique de la beatmap, puisque il y aura beaucoup de cercles et de sliders dans la map. Cliquer sur une couleur ouvre la fenêtre de sélection de couleur de votre système d'exploitation (sur l'image ci-contre, Windows). Choisissez des couleurs qui complimentent l'arrière-plan mais qui ne se camouflent pas avec. Jusqu'à 8 couleurs peuvent être utilisées, bien que la plupart des maps en utilisent quatre. Cliquer sur "Remove Combo Colour" supprimera la couleur avec le numéro le plus élevé (en d'autres termes, ordre inverse 8-7-6-5-4-3-2).
+![Onglet "Colours"](SS_Colours.jpg "Onglet "Colours"")
+
+Cette section est utilisée principalement pour assigner des couleurs de combo. Ces couleurs sone un aspect important de la valeur esthétique de la beatmap, puisque il y aura beaucoup de cercles et de sliders dans la map. Cliquer sur une couleur ouvre la fenêtre de sélection de couleur de votre système d'exploitation (sur l'image ci-contre, Windows). Choisissez des couleurs qui complimentent l'arrière-plan mais qui ne se camouflent pas avec. Jusqu'à 8 couleurs peuvent être utilisées, bien que la plupart des maps en utilisent quatre. Cliquer sur "Remove Combo Colour" supprimera la couleur avec le numéro le plus élevé (en d'autres termes, ordre inverse 8-7-6-5-4-3-2).
 
 L'autre partie de cette fenêtre permet d'assigner une couleur à l'arrière plan, mais c'est inutile puisque les maps ne peuvent pas être rankées sans arrière-plan, ce dernier annulant ce paramètre sauf si vous utilisez un storyboard où ce paramètre est visible.
 
 Storyboarding
 -------------
 
-<img src="SS Storyboarding.jpg" title="fig:Onglet &quot;Storyboarding&quot;" alt="Onglet &quot;Storyboarding&quot;" width="250" /> Cet onglet contient les options sur comment certains éléments visuels apparaissent dans la beatmap.
+![Onglet "Storyboarding"](SS_Storyboarding.jpg "Onglet "Storyboarding"")
+
+Cet onglet contient les options sur comment certains éléments visuels apparaissent dans la beatmap.
 
 ### Countdown (Compte a rebours)
 
@@ -181,12 +189,14 @@ Vous pouvez changer la vitesse et le décalage du compte à rebours.
 
 Choisissez le skin de préférence (depuis votre dossier de skins) qui sera utilisé si le skin est présent dans le dossier de skins d'un autre joueur. Si le skin n'est pas présent, un avertissement apparaîtra et le skin par défaut du joueur sera utilisé. Cependant, la plupart des personnes incluront les éléments de skin directement dans la beatmaps donc cette option est rarement utilisée sauf pour réduire la taille de la beatmap. D'anciennes maps peuvent utiliser cette option, et très rarement ces jours-ci.
 
-Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820). [Exemple ici](Media:SS_Skin_eg.jpg "wikilink")
+Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820).
+
+![Exemple ici](SS_Skin_eg.jpg)
 
 Advanced (Avancé)
 -----------------
 
-<img src="SS Advanced.jpg" title="fig:Onglet &quot;Advanced&quot;" alt="Onglet &quot;Advanced&quot;" width="250" />
+![Onglet "Advanced"](SS_Advanced.jpg "Onglet "Advanced"")
 
 ### Stack Leniency (Tolérance de l'empilage)
 
@@ -194,7 +204,9 @@ osu! empilera automatiquement les notes se trouvant au même endroit et proches 
 
 Plus le curseur est à droite, plus il y aura de cercles empilés sur une période de temps plus longue. Les règles disent que si cette option est réglée pour que les notes ne soient plus empilées automatiquement, vous devez vous-même décaler les objets manuellement. Cette option est meilleure laissée telle quelle *si* vous savez *vraiment* pas ce que vous faites et ce qui arrivera.
 
-Sachez que les cercles empilés se *dirigeront* vers le point d'empilage. [Exemple ici](Media:SS_SL_eg.jpg "wikilink")
+Sachez que les cercles empilés se *dirigeront* vers le point d'empilage.
+
+![Exemple ici](SS_SL_eg.jpg)
 
 Les objets sont empilés si ils appartiennent aux mêmes coordonnées et ne sont pas loin dans le temps tel que (Fenêtre d'approche) \* (Tolérance de l'empilage) / 10, où la fenêtre d'approche est la durée d'apparition des objets (Voir Approach Rate ci dessus).
 

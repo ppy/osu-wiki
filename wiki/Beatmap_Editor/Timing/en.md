@@ -10,7 +10,7 @@ The point of having correct timing is so that the timeline in the [editor](/wiki
 How to time songs
 -----------------
 
-***Main page: [How to time songs](How_to_time_songs "wikilink")***
+***Main page: [How to time songs](/wiki/Beatmap_Editor_Guides/How_to_time_songs)***
 
 Timing is extremely important. To time the song, you need to switch to timing tab.
 At the timing tab, there is a small box at the upper-right section, beside the timeline. This box will be used to set the approximate BPM based on your clicks.
