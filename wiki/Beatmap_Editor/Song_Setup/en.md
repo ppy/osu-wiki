@@ -20,19 +20,19 @@ Under "Tags" is where you can put the album title if you choose, along with spec
 
 You should enter this information before you create a second difficulty, to ensure that the text will be consistent across all of the maps in the set.
 
--   **Artist:** **<u>The band, singer, or group that performed or created the song.</u>** osu! will pull the artist from the mp3 file, but please double check it to make sure it is spelled and punctuated correctly. **Anime/Game titles or companies do not belong here (they belong to Tags).** You can usually find the composer for anime and game songs on Wikipedia or other reliable sources such as [AnimeNewsNetwork](http://www.animenewsnetwork.com/) or [MyAnimeList](http://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency).
+-   **Artist:** **The band, singer, or group that performed or created the song.** osu! will pull the artist from the mp3 file, but please double check it to make sure it is spelled and punctuated correctly. **Anime/Game titles or companies do not belong here (they belong to Tags).** You can usually find the composer for anime and game songs on Wikipedia or other reliable sources such as [AnimeNewsNetwork](http://www.animenewsnetwork.com/) or [MyAnimeList](http://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency).
 
 <!-- -->
 
--   **Romanised Artist:** **<u>The romanised (English) name of the artist of the song.</u>** It should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency). This field will become active if you use Unicode characters in the *Artist* field.
+-   **Romanised Artist:** **The romanised (English) name of the artist of the song.** It should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency). This field will become active if you use Unicode characters in the *Artist* field.
 
 <!-- -->
 
--   **Title:** **<u>The name of the song.</u>** It will be pulled automatically from the mp3 file, but double check for spelling or capitalization errors, especially if you get the mp3 online.
+-   **Title:** **The name of the song.** It will be pulled automatically from the mp3 file, but double check for spelling or capitalization errors, especially if you get the mp3 online.
 
 <!-- -->
 
--   **Romanised Title:** **<u>The romanised (English) name of the name of the song.</u>** Again, this field will become active if you use Unicode characters in the *Title* field.
+-   **Romanised Title:** **The romanised (English) name of the name of the song.** Again, this field will become active if you use Unicode characters in the *Title* field.
 
 <!-- -->
 
@@ -40,15 +40,15 @@ You should enter this information before you create a second difficulty, to ensu
 
 <!-- -->
 
--   **Difficulty:** **<u>The name of the difficulty of map.</u>** The dropdown contains the preset names: Easy, Normal, Hard, Insane. You can select one of the default names, or create your own name. While it's good to be creative, try to make it very clear which one is harder than others as ambiguous difficulty names can annoy players. This would also be the field where you indicate a guest mapper, if this is their difficulty (e.g. "Larto's Hard").
+-   **Difficulty:** **The name of the difficulty of map.** The dropdown contains the preset names: Easy, Normal, Hard, Insane. You can select one of the default names, or create your own name. While it's good to be creative, try to make it very clear which one is harder than others as ambiguous difficulty names can annoy players. This would also be the field where you indicate a guest mapper, if this is their difficulty (e.g. "Larto's Hard").
 
 <!-- -->
 
--   **Source:** **<u>Where this song originate from.</u>** This field should generally only be included for Anime or Video Game songs, and occasionally for Novelty (Movies, TV, or Internet) songs. If the song is from an anime or video game, or is famous for its use as a TV or movie theme, the title of that source goes here. Rock and Pop songs should generally leave the field blank. **This is not to be used for things like album titles.**
+-   **Source:** **Where this song originate from.** This field should generally only be included for Anime or Video Game songs, and occasionally for Novelty (Movies, TV, or Internet) songs. If the song is from an anime or video game, or is famous for its use as a TV or movie theme, the title of that source goes here. Rock and Pop songs should generally leave the field blank. **This is not to be used for things like album titles.**
 
 <!-- -->
 
--   **Tags:** **<u>Keywords to help in searches.</u>** Common uses include album names, guest difficulty creators, company name and other terms that may be used by people when searching for specific wants (like eroge or visual novel for example if your beatmap's song is based on an eroge visual novel). If your map has "collab" elements mapped by other mappers, their names can go here. Tags are separated by spaces. It is not compulsory to fill in but is greatly appreciated when using the Web search and osu! search in-game.
+-   **Tags:** **Keywords to help in searches.** Common uses include album names, guest difficulty creators, company name and other terms that may be used by people when searching for specific wants (like eroge or visual novel for example if your beatmap's song is based on an eroge visual novel). If your map has "collab" elements mapped by other mappers, their names can go here. Tags are separated by spaces. It is not compulsory to fill in but is greatly appreciated when using the Web search and osu! search in-game.
     -   Note: If you have a tag of "qwertyuiop" as a tag on your beatmap, you can also find your beatmap in-game by typing in "qwertyuiop".
 
 Again, to avoid issues, please make sure that everything (aside from Difficulty name) is filled out identically for each difficulty.
@@ -186,11 +186,11 @@ You can change the speed and offset of the countdown as well.
 
 **Wide Screen Support**: will remove [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) to the left and right side of the playfield, if the client is using any aspect ratio greater than 4:3. This is typically-automatically enabled, when you start using storyboard elements.
 
-**Display storyboard in front of combo fire**: <span style="text-decoration: line-through;">A long long time ago, osu! had a flame appear if you had a combo of 30 or more (it was amazing at the time!) but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out of date. Otherwise</span> this option will do what it says, put the storyboard in front of the combo fire.
+**Display storyboard in front of combo fire**: A long long time ago, osu! had a flame appear if you had a combo of 30 or more (it was amazing at the time!) but is now removed/deprecated/disabled... leaving this option somewhat obsolete/out of date. Otherwise this option will do what it says, put the storyboard in front of the combo fire.
 
-**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <span style="color:#f00; text-decoration: underline;">must</span> use the epilepsy warning.*"
+**Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.*"
 
-**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, <span style="text-decoration: underline;">but is not allowed for mania specific maps!</span> (because breaks aren't allowed in Mania, anyways)
+**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, but is not allowed for mania specific maps! (because breaks aren't allowed in Mania, anyways)
 
 ### Skinning
 

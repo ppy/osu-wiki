@@ -221,7 +221,9 @@ Compose
 
 ### 左边（Selector）
 
-**你的 osu!mania 版工具包，专为 DIY 设计。** <img src="BEM_HO.jpg" title="fig:物件选取（osu!mania 版）" alt="物件选取（osu!mania 版）" width="200" />
+**你的 osu!mania 版工具包，专为 DIY 设计。**
+
+![物件选取（osu!mania 版）](BEM_HO.jpg "物件选取（osu!mania 版）")
 
 <table>
 <thead>

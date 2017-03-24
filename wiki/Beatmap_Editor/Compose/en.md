@@ -228,7 +228,10 @@ Features (osu!mania)
 
 **Please note that in osu!mania's default notes hitsound works different with Standard/osu!**
 
-- adding clap on a notes will only play 'hitclap' sound instead of 'hitclap' *' + hitnormal*' sound on hit while in osu!mania : <img src="BEM_HO.jpg" title="fig:Hit Notes Selector (osu!mania ver.)" alt="Hit Notes Selector (osu!mania ver.)" width="200" />
+- adding clap on a notes will only play 'hitclap' sound instead of 'hitclap' *' + hitnormal*' sound on hit while in osu!mania :
+
+![Hit Notes Selector (osu!mania ver.)](BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
+
 
 <table>
 <thead>

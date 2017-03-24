@@ -1,7 +1,9 @@
 Paramètres de la beatmap
 ==========================
 
-Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte. <img src="Song Setup nav.jpg" title="fig:Emplacement des paramètres de la beatmap" alt="Emplacement des paramètres de la beatmap" width="350" />
+Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
+
+![Emplacement des paramètres de la beatmap](Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
 
 Général
 -------
@@ -20,19 +22,19 @@ Vous pouvez mettre le nom de l'album dans les "Tags", avec les informations spé
 
 Vous devriez entrer ces informations avant de créer une seconde difficulté, pour assurer que ce champ soit cohérent entre toutes les difficultés du set.
 
--   **Artist (Artiste) :** **<u>La bande, chanteur, ou groupe qui a joué ou crée la musique.</u>** osu! prendra l'artiste du fichier mp3 si présent, mais assurez-vous qu'il soit correctement écrit. **Les noms d'anime/jeux vidéos et des compagnies n’appartiennent pas a ce champ (ils se trouvent habituellement dans "Tags").** Vous pouvez habituellement trouver les compositeurs des musiques d'Anime ou de Jeux Vidéos sur Wikipédia ou s'autres sources sûres comme [AnimeNewsNetwork](http://www.animenewsnetwork.com/) ou [MyAnimeList](http://myanimelist.net/) (sites en anglais). Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille).
+-   **Artist (Artiste) :** **La bande, chanteur, ou groupe qui a joué ou crée la musique.** osu! prendra l'artiste du fichier mp3 si présent, mais assurez-vous qu'il soit correctement écrit. **Les noms d'anime/jeux vidéos et des compagnies n’appartiennent pas a ce champ (ils se trouvent habituellement dans "Tags").** Vous pouvez habituellement trouver les compositeurs des musiques d'Anime ou de Jeux Vidéos sur Wikipédia ou s'autres sources sûres comme [AnimeNewsNetwork](http://www.animenewsnetwork.com/) ou [MyAnimeList](http://myanimelist.net/) (sites en anglais). Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille).
 
 <!-- -->
 
--   **Romanised Artist (Artiste Romanisé) :** **<u>Le nom romanisé (sans accents) de l'artiste.</u>** Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille). Ce champ devient actif si des caractères Unicode sont utilisés dans le champ "Artist", comme des caractères japonais ou des accents.
+-   **Romanised Artist (Artiste Romanisé) :** **Le nom romanisé (sans accents) de l'artiste.** Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille). Ce champ devient actif si des caractères Unicode sont utilisés dans le champ "Artist", comme des caractères japonais ou des accents.
 
 <!-- -->
 
--   **Title (Titre) :** **<u>Le nom de la musique.</u>** Il sera pris automatiquement du fichier mp3, mais revérifiez pour des erreurs d'orthographe et les majuscules, surtout si vous obtenez le mp3 en ligne.
+-   **Title (Titre) :** **Le nom de la musique.** Il sera pris automatiquement du fichier mp3, mais revérifiez pour des erreurs d'orthographe et les majuscules, surtout si vous obtenez le mp3 en ligne.
 
 <!-- -->
 
--   **Romanised Title (Titre romanisé) :** **<u>Le nom romanisé (sans accents) de la musique.</u>** Ce champ devient aussi actif si vous utilisez des caractères Unicode dans le champ "Title".
+-   **Romanised Title (Titre romanisé) :** **Le nom romanisé (sans accents) de la musique.** Ce champ devient aussi actif si vous utilisez des caractères Unicode dans le champ "Title".
 
 <!-- -->
 
@@ -40,15 +42,15 @@ Vous devriez entrer ces informations avant de créer une seconde difficulté, po
 
 <!-- -->
 
--   **Difficulty (Difficulté) :** **<u>Le nom de la difficulté de la map.</u>** Le menu déroulant contient des noms prédéfinis : Easy, Normal, Hard, Insane. Vous pouvez choisir un des noms par défaut, ou créer le votre. Bien qu'il soit bon d'être créatif, restez spécifique sur lesquels sont plus difficiles que les autres puisque des noms ne voulant rien dire peuvent agacer les joueurs. Il s'agit aussi du champ ou vous indiquez des mappers invités s'il s'agit de la leur (ex : "Larto's Hard").
+-   **Difficulty (Difficulté) :** **Le nom de la difficulté de la map.** Le menu déroulant contient des noms prédéfinis : Easy, Normal, Hard, Insane. Vous pouvez choisir un des noms par défaut, ou créer le votre. Bien qu'il soit bon d'être créatif, restez spécifique sur lesquels sont plus difficiles que les autres puisque des noms ne voulant rien dire peuvent agacer les joueurs. Il s'agit aussi du champ ou vous indiquez des mappers invités s'il s'agit de la leur (ex : "Larto's Hard").
 
 <!-- -->
 
--   **Source :** **<u>D'où vient la musique.</u>** Ce champ devrait généralement être utilise pour des musique d'Anime ou de Jeux Vidéos, et occasionnellement des chansons de Novelty (Films, Télévision ou Internet). Si la musique vient d'un Anime ou d'un Jeu Vidéo, ou si il est célèbre pour avoir été utilisé dans une série télé ou un film, le nom de la source vient ici. Les chansons de Rock et Pop devraient généralement laisser ce champ vide. **Il n'est pas utilisé pour les choses tels que les noms d'album.**
+-   **Source :** **D'où vient la musique.** Ce champ devrait généralement être utilise pour des musique d'Anime ou de Jeux Vidéos, et occasionnellement des chansons de Novelty (Films, Télévision ou Internet). Si la musique vient d'un Anime ou d'un Jeu Vidéo, ou si il est célèbre pour avoir été utilisé dans une série télé ou un film, le nom de la source vient ici. Les chansons de Rock et Pop devraient généralement laisser ce champ vide. **Il n'est pas utilisé pour les choses tels que les noms d'album.**
 
 <!-- -->
 
--   **Tags :** **<u>Mots-clés pour aider dans les recherches.</u>** Les utilisations communes des Tags comprend les noms d'albums, nom des créateurs de GD, nom d'une compagnie et d'autres termes qui puissent être utilisés par d'autre personnes quand ils recherchent quelque chose de particulier (comme eroge ou visual novel si la musique est basé sur un visual novel eroge). Si votre map possède des éléments de "Collab" fait par d'autres mappers, leur noms peuvent aller ici. Les tags sont déparés par des espaces. Il n'est pas obligatoire de remplir ce champ mais il est grandement apprécié en utilisant les fonctions de recherche sur le site web et dans le jeu.
+-   **Tags :** **Mots-clés pour aider dans les recherches.** Les utilisations communes des Tags comprend les noms d'albums, nom des créateurs de GD, nom d'une compagnie et d'autres termes qui puissent être utilisés par d'autre personnes quand ils recherchent quelque chose de particulier (comme eroge ou visual novel si la musique est basé sur un visual novel eroge). Si votre map possède des éléments de "Collab" fait par d'autres mappers, leur noms peuvent aller ici. Les tags sont déparés par des espaces. Il n'est pas obligatoire de remplir ce champ mais il est grandement apprécié en utilisant les fonctions de recherche sur le site web et dans le jeu.
     -   Note : Si vous avez "azertyuiop" comme tag dans votre beatmap, vous pouvez aussi le trouver dans le jeu en tapant "azertyuiop".
 
 Une fois encore, pour éviter des problèmes, assurez vous que tous les champs (sauf "Difficulty") soient tous remplis identiquement dans toutes les difficultés. D'autres règles sont aussi mises en place, merci de lire les [critères de ranking](/wiki/Ranking_Criteria).
@@ -66,7 +68,9 @@ La vitesse à laquelle la vie diminue, qui est toujours constante sauf pendant u
 
 ### Circle Size (Taille des cercles; osu!, Catch the Beat, Taiko seulement)
 
-<img src="Circle sizes.png" title="fig:Aperçu des différentes tailles de cercle" alt="Aperçu des différentes tailles de cercle" width="250" /> <img src="ARTable.png" title="fig:Graphique d&#39;AR détaillé (cliquez pour une version plus large)" alt="Graphique d&#39;AR détaillé (cliquez pour une version plus large)" width="250" />
+![Aperçu des différentes tailles de cercle](Circle_sizes.png "Aperçu des différentes tailles de cercle")
+
+![Graphique d'AR détaillé](ARTable.png "Graphique d'AR détaillé")
 
 Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
@@ -179,11 +183,11 @@ Vous pouvez changer la vitesse et le décalage du compte à rebours.
 
 **Wide Screen Support (Support Écran Large)** : Retire les bords à gauche et à droite de l'écran si la résolution du jeu est différente de 4:3. Cette option est automatiquement activée quand vous commencez à utiliser des éléments de storyboard.
 
-**Display storyboard in front of combo fire (Afficher le combo devant le combo fire)** : <span style="text-decoration: line-through;">Il y a très longtemps, osu! avait du feu si vous obteniez un combo de 30 ou plus (c'était incroyable à l'époque !) mais il a maintenant été retiré... laissant cette potion quelque peu obsolète. Sinon,</span> cette potion fait ce qu'elle dit, met le storyboard en face du combo fire.
+**Display storyboard in front of combo fire (Afficher le combo devant le combo fire)** : Il y a très longtemps, osu! avait du feu si vous obteniez un combo de 30 ou plus (c'était incroyable à l'époque !) mais il a maintenant été retiré... laissant cette potion quelque peu obsolète. Sinon, cette potion fait ce qu'elle dit, met le storyboard en face du combo fire.
 
-**Display epilepsy warning (storyboard has quick strobing) (Afficher un avertissement d'épilepsie (le storyboard à des images stroboscopique))** : fait ce que ça dit, ajoute un avertissement pour avertir des flashs (rapides ou similaires) dans la beatmap causé par le storyboard. Extrait des [critères de ranking](/wiki/Ranking_Criteria) : "*Les maps qui possèdent des flashes, des pulsations ou des clignotements répétitifs <span style="color:#f00; text-decoration: underline;">doivent absolument</span> afficher l'avertissement destinés aux joueurs épileptiques.*"
+**Display epilepsy warning (storyboard has quick strobing) (Afficher un avertissement d'épilepsie (le storyboard à des images stroboscopique))** : fait ce que ça dit, ajoute un avertissement pour avertir des flashs (rapides ou similaires) dans la beatmap causé par le storyboard. Extrait des [critères de ranking](/wiki/Ranking_Criteria) : "*Les maps qui possèdent des flashes, des pulsations ou des clignotements répétitifs doivent absolument afficher l'avertissement destinés aux joueurs épileptiques.*"
 
-**Letterbox during breaks (Letterbox pendant les pauses)** : Cette option détermine si il faut (ou non) ajouter un [letterbox](https://fr.wikipedia.org/wiki/Letterbox) pendant une pause dans la beatmap. C'est habituellement activé par défaut, <span style="text-decoration: underline;">mais ce n'est pas autorisé pour les maps spécifiques à mania!</span> (puisque les pauses sont interdites dans mania de toute façon)
+**Letterbox during breaks (Letterbox pendant les pauses)** : Cette option détermine si il faut (ou non) ajouter un [letterbox](https://fr.wikipedia.org/wiki/Letterbox) pendant une pause dans la beatmap. C'est habituellement activé par défaut, mais ce n'est pas autorisé pour les maps spécifiques à mania! (puisque les pauses sont interdites dans mania de toute façon)
 
 ### Skinning
 
