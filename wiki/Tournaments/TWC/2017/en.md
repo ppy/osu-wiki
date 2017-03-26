@@ -98,14 +98,14 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **11.30 UTC** | 13.30 UTC +2 | 19.30 UTC +8 | ² |
 | Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **13.00 UTC** | 10.00 UTC -3 | 23.00 UTC +10 | ² |
 | Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **14.30 UTC** | 16.30 UTC +2 | 16.30 UTC +2 | ² |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 9.30 UTC +9 | ¹ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ¹ |
 
 
 ### Sunday, 2. April 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 9.30 UTC +9 | ¹ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ¹ |
 | Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **12.00 UTC** | 22.00 UTC +10 | 14.00 UTC +2 | ³ |
 | Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 22.00 UTC +10 | 14.00 UTC +2 | ³ |
 | Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **13.30 UTC** | 15.30 UTC +2 | 15.30 UTC +2 | ³ |
@@ -119,7 +119,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ² Loser bracket encounter
 
-³ Encounter dependent on ¹Winner bracket encounter and ²Loser bracket encounter
+³ Encounter dependent on ²Loser bracket encounter
 
 
 ------------------------------------------------------------------------
