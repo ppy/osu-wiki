@@ -239,6 +239,44 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard)](http://osu.ppy.sh/b/300030&m=1) | [Impossible Taiko] (Any) |
 
+### Semifinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [MDK - Press Start (uone)](http://osu.ppy.sh/b/1170749&m=1) | [START] |
+| [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (Backfire)](http://osu.ppy.sh/b/700831&m=1) | [Taikocalypse Act IX : The Desperation] |
+| [t+pazolite - to Luv me I *** for u. (OnosakiHito)](http://osu.ppy.sh/b/475086&m=1) | [Taikosaki 2013] |
+| [t+pazolite - Boogie Woogie Splatter Show (12358)](http://osu.ppy.sh/b/159367&m=1) | [Taiko] |
+| [xi - Aragami (Sayaka-)](http://osu.ppy.sh/b/525910&m=1) | [Inner Oni] |
+| [Kobaryo - Wavy Beach ([mikkusu-8022])](http://osu.ppy.sh/b/885384&m=1) | [mikkusu] |
+
+| Hidden | |
+| --- | :--- |
+| [Cardboard Box - ++ (Vulkin)](http://osu.ppy.sh/b/1213129&m=1) | [Grim's N+] |
+| [The Flashbulb - Lawn Wake III (tasuke912)](http://osu.ppy.sh/b/582645&m=1) | [Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [Chroma - sink to the deep sea world (Ulqui)](http://osu.ppy.sh/b/1248348&m=1) | [Overlapse Oni] |
+| [Tatsh - CYBER Sparks (Unmei Muma)](http://osu.ppy.sh/b/1233925&m=1) | [Akumu] |
+
+| DoubleTime | |
+| --- | :--- |
+| [cranky - R176 (taka1235)](http://osu.ppy.sh/b/121335&m=1) | [Pangko] |
+| [Presti - Veritas (Chromoxx)](http://osu.ppy.sh/b/1184169&m=1) | [Secret] |
+
+| FreeMod | |
+| --- | :--- |
+| [rider - Freja (Sayaka-)](http://osu.ppy.sh/b/1070630&m=1) | [Oni] (Any) |
+| [Thaehan - Bwa ! (Tasha)](http://osu.ppy.sh/b/1155334&m=1) | [Oni] (Any) |
+| [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Nofool)](http://osu.ppy.sh/b/836037&m=1) | [Ura Oni] (HDHR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [moro - Decadent Fantasy (TimmyAkmed)](http://osu.ppy.sh/b/986931&m=1) | [Supreme Oni] (Any) |
+
 ------------------------------------------------------------------------
 
 ## Results
