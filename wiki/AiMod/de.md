@@ -1,12 +1,13 @@
 AiMod
 ========
 
-[AiMod](AiMod "wikilink") ist ein Programm im Beatmap Editor, welchen man öffnet, indem man **\[Strg\] + \[Shift\] + \[A\]** drückt oder auf **File**, dann **Open AiMod** klickst.
+[AiMod](AiMod "wikilink") ist ein Programm, welchen man im Beatmap Editor finden kann.
+Der [AiMod](AiMod "wikilink") kann über den Tastenkürzel **\[Strg\] + \[Shift\] + \[A\]** oder über **File**, dann **Open AiMod** geöffnet werden.
 
-![AiMod](Aimod.png "AiMod is usually your first modder")
+![AiMod](Aimod.png "AiMod ist normalerweise din erster Modder")
 
- AiMod hilft neuen Mappern ihre Beatmaps zu Modden,
- indem es grundlegende Probleme erkennt. Komplizierteres, wie das überprüfen Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Die Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
+AiMod hilft neuen Mappern ihre Beatmaps zu Modden, indem es grundlegende Probleme erkennt.
+ Komplizierteres, wie das überprüfen Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 
 Tabs
 ----
@@ -17,7 +18,7 @@ Tabs
 
 **Compose**
 
--   Diese Probleme sind verbunden mit dem Platzieren der Hitobjekte (Hitcircle, Spinner, Slider, ...)
+-   Diese Probleme sind mit dem Platzieren der Hitobjekte verbunden (Hitcircle, Spinner, Slider)
     -   Man sollte ein Häckchen bei "Check distance snap" setzen. (Je nach länge der Beatmap könnte das etwas länger dauern)
 
 **Design**
@@ -26,11 +27,11 @@ Tabs
 
 **Timing**
 
--   Wenn diese Art von Problemen erscheint, sollte man die Timeline überprüfen, da warscheinlich irgendetwas falsch platziert wurde.
+-   Bei falsch platzierten Hitobjekten erscheinen Timing-Problem-Meldungen.
 
 **Meta**
 
--   Wenn diese Art von Problemen erscheint, solltest man die Einstellungen im Song Setup überprüfen.
+-   Die Meta Probleme erscheinen bei ungültigen / falschen Werten im Song-Setup.
 
 **Mapset**
 
@@ -39,7 +40,7 @@ Tabs
 Nachrichten
 --------
 
->Beachte: Nummer innerhalb von geschwungenen Klammern ("{0}") sind Platzhallter für eine Nummer oder ein Wort.
+>Beachte: Nummer innerhalb von geschwungenen Klammern ("{0}") sind Platzhallter für eine Zahl oder ein Wort.
 
 ### Informativ
 
@@ -56,16 +57,16 @@ Nachrichten
 | HP rate for Easy/Normal is suggested to be at least 4. | Nur bei osu!Mania! | In den Song Einstellungen muss "HP rate" auf 4 oder höher gesetzt werden. |
 | HP rate for Hard and up is suggested to be at least 7. | Nur bei osu!Mania! | In den Song Einstellungen muss "HP rate" auf 7 oder höher gesetzt werden. |
 | OD rate for maps with few sliders is suggested to be at least 7. | Nur bei osu!Mania! | In den Song Einstellungen muss die "OD rate" auf 7 oder höher gesetzt werden. |
-| The Slider Velocity should be 1.40 or 1.60. |	Nur bei Taiko Beatmaps! | In den Timing Tab muss 'Slider Velocity' auf 1,40 oder 1,60 gesetzt werden. |
+| The Slider Velocity should be 1.40 or 1.60. |	Nur bei osu!Taiko! | In den Timing Tab muss 'Slider Velocity' auf 1,40 oder 1,60 gesetzt werden. |
 
 
-### Errors
+### Fehler
 
 #### Compose
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| These two objects are less than 10ms apart! | Zwei Hitobjeckte sind sehr nah zueinnander. Die Spieler können nicht so schnell klicken! | Die 2 Hitobjekte müssen verschoben oder gelöscht werden. |
+| These two objects are less than 10ms apart! | Zwei Hitobjeckte sind sehr nah zueinnander. Die Spieler können nicht so schnell klicken. | Die 2 Hitobjekte müssen verschoben oder gelöscht werden. |
 
 #### Design
 
@@ -80,33 +81,33 @@ Nachrichten
 
 | Nachricht | Erklärung | Lösung |
 | ------ | ------------- | --------|
-| This slider moves in an abnormal way. | | |
+| This slider moves in an abnormal way. | Der Slider ist nicht mit der Maus verfolgbar oder nicht spielbar | Der Slider sollte verändert oder enfernt werden. |
 | This combo is very long. Consider splitting it up. | Die länge der Combo kann die Schwirigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, welche in osu!catch gestapelt werden. | Die problematischen Combo muss aufgespalltet werden. (Es ist besser wenn die Länge der Combos nicht 15-18 überschreitet.) |
 | This spinner appears onscreen later than objects which follow it. | Objekte überlappen den Spinner. Das könnte daran liegen, dass die AR zu niedrig ist oder die Objekte zu nah an den Spinner sind. | Die Länge des Spinners muss verändert werden und/oder die überlappende Objekte entfernt werden. |
 | Object's end is offscreen! | Objekte, welche ausserhalb des Bildschirmes sind, können nicht im osu!client gesehen werden. | Das Object muss verschoben oder gelöscht werden. |
 | Object is offscreen! | Objekte, welche ausserhalb des Bindschirmes sind könne nicht in osu!clients mit einer 4:3 Auflösung gesehen werden. | Das Object muss verschoben oder gelöscht werden. |
-| This object is too close to the previous object. | | |
-| This object is too far from the previous object. | | |
-| This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. |
-| These two objects exist at the same point in time! | Two objects are on top of each other. This will make the map impossible to rank! | Find the two hit objects and move it or delete it. |
-| Spinners must have a new combo. | | |
-| Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
-| Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
-| This hold note is less than 10ms long! | Mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | |
-| This object overlaps with another object. | Mania maps only! | |
-| This object is stacked on top of another object. | Nur bei Maniabeatmaps! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
-| More than 6 notes simultaneously is not allowed. | Nur bei Maniabeatmaps! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
+| This object is too close to the previous object. | Zwei Hitobjekte sind zu nah zu einander | Die Distanz zwischen den Hitobjekten sollte erhöht werden. |
+| This object is too far from the previous object. | Der Hitobjekt so zu weit vom letzen Hitobjekt entfernt. | Das Stück sollte gemmapt werden oder es sollte eine Pause eingefügt werden |
+| This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | Der Spinner ist zu kurz, daher ist es nicht mehr möglich ein SS zu erreichen! | Der Spinner sollte verlängert oder gelöscht werden. |
+| These two objects exist at the same point in time! | Die zwei Hitobjekte überlappen sich, daher kann die Map nicht mehr geranket werden. | Die beiden sollten verschoben oder gelöscht werden. |
+| Spinners must have a new combo. | Spinner müssen eine neue Kombo beginnen! | Setze eine neue Kombo auf den Spinner. |
+| Object isn't snapped! | Das Hitobjekt ist nicht richtig auf der Timeline ausgerichtet. | Überprüfe das Timing, falls eine Veränderung gemacht wurde sollten alle Hitobjekte neu ausgerichtet werdern. (Das kann manuell oder Automatisch im **Beatmapeditor**, unter **Timimg**, da **Resnap all notes** gemacht werden. Achtung: Manchmal tritt ein fehler beim neuausrichten auf, daher sollte das nochmal überprüft werden.) |
+| Object's end is not snapped! | Das Ende des Hitobjektes ist nicht richtig auf der Timeline ausgerichet. | Das Timing sollte überprüft werden. Falls das Timing verädert wurde, sollte überprüft werden ob beim automatischen Ausrichten nichts falsch gelaufen ist. |
+| This hold note is less than 10ms long! | Nur bei osu!mania. Aufgrund der kürze ist es nicht möglich ein SS zu erreichen! | Die Note sollte verlägert oder enfernt werden. |
+| This object overlaps with another object. | Nur bei osu!mania. Zwei Hitobjekte überlappen sich. | Enferne oder verschiebe die bestroffenen Hitobjekte. |
+| This object is stacked on top of another object. | Nur bei osu!mania. Die angegebenen Noten überlappen sich, was es nocht möglich macht die Note zu treffen, was dazu führt, dass ein SS nicht erreicht werden kann. | Die Noten sollten verschoben oder gelöscht werden. |
+| More than 6 notes simultaneously is not allowed. | Nur bei Maniabeatmaps! Die meisten Tasterturen können nur eine kleine Anzahl von Tasten gleichzeiting verarbeiten. | Versuche mehr als 6 Noten gleichzeitig zu vermeiden. |
 
 #### Design
 
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
-| Background image is larger than 1366x768. | | |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | | |
-| File missing: | | |
+| Background image is larger than 1366x768. | Das Hintergrundbild ist zu klein. | Das Bild sollte vergrößert werden. |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | Die Beatmap hat vieleicht ein Storyboard mit Inhalten, die von Epiletikern nicht verkraftet werden kann. | Überprüfe dein Storyboard und aktiviere die Warnung. |
+| File missing: | Eine Datei fehlt. | Die Datei sollte wieder hinzugefügt werden oder auf dem Projekt vollständig entfernt werden. |
 | {0}'s dimensions must be {1}x{1} | | |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. | | |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | | |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | | | |
 
 #### Timing
 
@@ -133,7 +134,7 @@ Nachrichten
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
 | More than 1/3 of the map is Kiai time. Consider reducing this. | | |
-| More than 1/3 of the map is Kiai time. Consider reducing this. | | |
+| More than 1/3 of the map is Kiai time. Consider reducing this. | | | |
 
 #### Meta
 
@@ -148,7 +149,7 @@ Nachrichten
 | OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei Maniabeatmaps! | |
 | Countdown is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
 | Epilepsy warning is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
-| Letterboxing is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
+| Letterboxing is not allowed in taiko mode. | Nur bei Taikobeatmaps! | | |
 
 #### Mapset
 
@@ -169,9 +170,9 @@ Nachrichten
 | Filesize of the mapset exceeds 10MB without video. | | |
 | Filesize of the mapset exceeds 24MB with video. | | |
 | This mapset is missing diff: {0} | | |
-| This mapset needs at least 2 Catch the Beat diffs. | Catch the Beat maps only! | |
+| This mapset needs at least 2 Catch the Beat diffs. | Nur bei osu!catch | |
 | This mapset needs at least 1 Easy/Normal diff. | | |
-| This mapset needs at least 2 osu!mania diffs. | Mania maps only! | |
-| This mapset needs at least 2 standard diffs. | Standard maps only! | |
-| This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
-| Uninherited timing points conflict with {0} diff. | | |
+| This mapset needs at least 2 osu!mania diffs. | nur bei osu!mania | |
+| This mapset needs at least 2 standard diffs. | Nur bei osu!std | |
+| This mapset needs at least 2 Taiko diffs. | Nur bei osu!Taiko | |
+| Uninherited timing points conflict with {0} diff. | | | |
