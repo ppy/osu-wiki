@@ -1,16 +1,19 @@
+Quality Assurance Team (Deutsch)
+==================================
+
 Das **Quality Assurance Team**, allgemein auch **QAT**, sind für die Qualitätskontrolle aller Beatmaps im Qualified zuständig, um deren Qualität und Spielbarkeit zu gewährleisten. Dabei kann es zum möglichen Unranken jeweiliger Beatmaps kommen. Sie bilden quasi für den Norm eine Schutzmauer und kontrollieren und setzen die grundlegenden Erwartungen im Bezug auf Qualität aller Beatmaps, die das Ranking-Verfahren vollziehen, durch.
 
 QAT-Mitglieder werden aufgrund ihrer Position dazu aufgerufen das strikte Einhalten der Norm durch regelmäßiges Beteiligen am Beurteilen der Mapqualität zu gewährleisten.
 
-Für mögliche Mitglieder dieses Teams kommen nur [BATs](DE:Beatmap_Appreciation_Team "wikilink") infrage, wenn sie die neue Rolle akzeptieren sollten.
+Für mögliche Mitglieder dieses Teams kommen nur [BATs](/wiki/People/Beatmap_Nomination_Group) infrage, wenn sie die neue Rolle akzeptieren sollten.
 
 Teammitglieder
 --------------
 
 [Team-Seite](http://osu.ppy.sh/g/7)
 
-| Name | Standard | Taiko | Catch | Mania | Zusätzlich gesprochene Sprachen |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Zusätzlich gesprochene Sprachen |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Japanisch, etwas  Französisch |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Spanisch |

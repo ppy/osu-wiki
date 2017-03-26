@@ -1,8 +1,11 @@
-![社区贡献者名牌](Contributor_Badge.png "社区贡献者名牌") 
+社区贡献者
+=============
+
+![社区贡献者名牌](Contributor_Badge.png "社区贡献者名牌")
 
 **社区贡献者** 是对那些为 osu! 社区投入了大量的心血提供服务，贡献工具和新功能使许多用户受益的人进行表彰所给予的名牌。这个名牌代表着他们曾为整个社区做出了显著的贡献
 
-与 [osu! 校友纪念的是曾经的](ZH:Osu!_Alumni) osu! 团队成员 (例如 [GMT](ZH:Global_Moderation_Team), [QAT](ZH:Quality_Assurance_Team), 等等) 不同的是，社区贡献者名牌授予那些超越了使命召唤自发地来帮助改进 osu! 和社区环境的人
+与 [osu! 校友纪念的是曾经的](/wiki/People/osu!_Alumni) osu! 团队成员 (例如 [GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), 等等) 不同的是，社区贡献者名牌授予那些超越了使命召唤自发地来帮助改进 osu! 和社区环境的人
 
 现在拥有社区贡献者名牌的用户：
 
@@ -21,7 +24,7 @@
 | [Piotrekol](https://osu.ppy.sh/u/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | 在 Bug 修复和新功能测试方面杰出的表现以及管理用户支持请求 |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | 3年多默默无闻而又不辞勤劳地管理 [谱面集合包](http://osu.ppy.sh/p/packlist) 并且在几年内管理了月度新谱面排名竞赛 |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboarding)使之成为了一种艺术 |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | 年复一年的服务，包括了设计原创谱面皮肤，发展了 [故事版](/wiki/Storyboards)使之成为了一种艺术 |
 | [awp](https://osu.ppy.sh/u/2650) | 早期的社区管理并且在有限的时间中作出了巨大的贡献 |
 | [Sinistro](https://osu.ppy.sh/u/5530) | 作为第一位临时的社区管理员和GMT，他为  [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常高大的榜样 |
 | [Ivalset](https://osu.ppy.sh/u/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |

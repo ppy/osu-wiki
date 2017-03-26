@@ -1,192 +1,324 @@
-Article Style Guide
-===================
+# Article Style Guide
 
-**Outdated**
+The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
-This article aims to provide a comprehensive style guide for all osu!wiki articles to follow. Although Wikipedia already provides a more general [style guide](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style), a more specific one is necessary for *osu!* specific guidelines. As such, only guidelines pertaining to the osu!wiki and its basic formatting rules should be included here.
+All articles should use plain English.
+Your word choice should explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
-Notability
-----------
+All articles must have proper grammar, correct spelling, and correct information.
+Know that reviewers may ask for changes in your pull request for blunders or suggestions.
+A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure the most optimal experience for an osu!wiki reader
 
-Articles are only allowed in the main namespace if they fit the following criteria. Articles which do not fit the criteria may be deleted without notice.
+## GFM
 
-### General  
+GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
+HTML use is **heavily** discouraged (and might have your pull request be denied)!!
 
-1.  Articles must contain enough information to warrant a full page. If they do not have enough content, they should be merged with other similar articles.
-2.  Articles must pertain directly to *osu!* in some way.
-3.  Articles about people are only allowed if the person in question is a developer of *osu!* and/or either a part of or closely related to [osu!](/wiki/Glossary).
-    1.  Notable people should be listed in the [List of Notable People](#) page.
+GFM has a small amount of markup that **anyone** can learn it in less than a day!
+However, don't expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
 
-4.  Features that are not currently in the game should avoid having their own article.
-    1.  This excludes features which have been removed and April Fool's day features, which may be noted in articles affected by them.
+### Syntax
 
-### Community  
+If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-1.  Gameplay strategies, guides, how-tos, etc., should be subarticles of [Guides](/wiki/List_of_Guides).
+## File names
 
-### Wiki Rules  
+All articles in the osu-wiki repo uses the two letter language codes.
+These 2 lettered language codes must use lowercase letters, ending with the `.md` extension.
 
-1.  Parody, comedic, nonsense, hoax, and speculation articles, or any other article that could mislead players are not allowed to be created.
-2.  Articles created for the purpose of advertising are not allowed.
-3.  Articles about fan communities are not allowed due to advertising issues.
+Translated articles are to be placed in the appropriate English-named folder.
 
-Articles in the "User:" namespace are exempt from the notability guidelines. They can be used for anything, provided they follow the other Wiki Rules.
+For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
 
-### Redirects
+## Headings
 
-Redirects are exempt from the normal notability, but must redirect to an article that fits the notability guidelines. If a redirect leads to another wiki. Redirects can be created if they fit one of the following:
+All articles **must have a level 1 heading** of a translated article's title.
+This level 1 heading is to be placed at the start of the article.
 
-1.  Alternate spelling of the title, such as "Combo color" for "Combo colour".
-    1.  Incorrect spelling, typos, and irregular formatting are not allowed.
+The remaining section headings must be level 2 onwards (but limit to level 5 please).
 
-2.  Alternate or shortened name, provided the name is common usage, such as "CtB" for "[Catch the Beat](/wiki/Game_Modes/osu!catch)".
-3.  Previous article title.
-    1.  An exception is if the previous title was not commonly used.
+Optionally, but preferably, add an extra line before and after the headings.
+This will help make the headings stand out a bit more when editing.
 
-4.  Alternate capitalisation or form, including changing the title to plural case.
-5.  A part of a merged or multi-topic article, such as a "Double Time" for [Game Modifiers](/wiki/Game_Modifiers).
+There are two styles of heading levels 1 and 2 that Markdown supplies you:
 
-Redirects in the user namespace may lead anywhere, except to an article that does not exist or another redirect.
+```md
+heading level 1
+===============
 
-Article titles
---------------
+heading level 2
+---------------
+```
 
-1.  Titles are to be written in sentence case. The first letter of a title must always be capitalised except in cases which are dully justified. Otherwise, words are to be capitalised only if they would be in running text.
-    1.  As *osu!* should never be capitalised, it shouldn't be capitalised in the article title either. *e.g.* [osu!mania](/wiki/Game_Modes/osu!mania). As the wiki forces the capitalisation on the first letter of the title, use `{{DISPLAYTITLE:osu!mania}}` to alter manually the display title of the article.
-        1.  Titles with a language namespace should be follow this format `{{DISPLAYTITLE:osu!mania (Language Name)}}`. For example, the [French osu!mania](/wiki/Game_Modes/osu!mania) article should use `{{DISPLAYTITLE:osu!mania (Français)}}`
+or
 
-2.  Article titles should be in the singular form to maintain consistency. *e.g.* Beatmap and not Beatmaps.
-3.  It is unnecessary to include an acronym or an abbreviation in addition to the name in a title. *e.g.* Double Time (DT).
-4.  Definite and indefinite articles (the, a, and an) should not be placed at the beginning of titles unless they are part of a proper name.
+```md
+# heading level 1
 
-Writing
--------
+## heading level 2
+```
 
-1.  As this wiki's purpose is to document facts, you should always avoid speculative and unsourced information. Generally speaking, information does not require sources if they can directly be seen in-game or are otherwise obvious. Other information however, such as information that is not widely known, must be sourced with a proper reference. Do *not* add content to an article if you cannot find a proper source.
-    1.  This does not applies to guides and tutorials which do not document facts but are here to help the userbase get a better understanding of the game mechanics and are, therefore, subjective. This does not mean that the content of guides and tutorials should not be verified.
+You can choose either the underline style or hashtag style of level 1 and level 2 headings.
+Note that heading levels 3 and onwards use the hashtag style.
 
-2.  Articles in the main namespace should always be written in the third-person perspective and without terms referential to the reader. Try not to use abbreviations of words either. For instance, sentences like "If you miss an object when playing a beatmap, you will break your combo.." should be written as "Failing to hit an object while playing a beatmap will break the current combo.".
+### Article Titles
 
-### Keeping articles concise and up to date
+Titles are to be in title case.
+The title of an article is the name of the folder that the article is located in.
+For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-Articles should only contain information that is up to date, *i.e.*, implemented in the latest version of the game. Anything that is outdated should be moved to the History section of the article. When something changes, note the change in the History section and remove the outdated information from other sections of the article. It is unnecessary to mention when a particular feature was implemented; this is once again reserved for the History section of the article.
+All article titles are to be using the level 1 heading.
 
-### Grammar
+### Section Headings
 
-Pages on the wiki should only use *British English* as a matter of consistency. For instance, “color” should be “colour”, “center” should be “centre”, “skillful” should be “skilful”, “paralleled” should be “parallelled”, and “analyze” should be “analyse”. It is recommended to get accustomed to British English and American English spelling differences before writing an article.
+All section headings are to use title case, just like the article titles.
+
+All section headings are to be using level 2 to level 5 headings.
+
+Section headings must **never** have a link in it.
+Instead place the link underneath the section heading.
+For example:
+
+```
+## Editor
+
+For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
+```
+
+## TOC
+
+The TOC (Table of Contents) will automatically be generated on the osu!wiki.
+Because of this, there is no need to include add one.
+
+## Grammar
+
+In the case where the American English and the British English spellings conflict, prefer the British Engish spelling.
+
+For example use:
+
+- `colour` instead of `color`
+- `centre` instead of `center`
+- `skilful` instead of `skillful`
+- `analyse` instead of `analyze`
 
 ### Capitalisation
 
-1.  The name of the game *osu!* should never be capitalised.
-    1.  Words following the exclamation mark of *osu!*, if not divided by a blank space, should not be capitalised, *e.g.* osu!mania. If they are divided by a blank space, they must be capitalised if they are proper nouns, *e.g.* osu! Standard.
+#### osu!
 
-2.  In-game terms should be treated as common nouns and as such *should not* be capitalised. Proper nouns, however, such as the different game mode names (Standard, Taiko, Catch the Beat and Mania) or the mascots' names (Pippi, Yuzu, Maria) *should* always be capitalised.
+The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
+Any words following `osu!`, if not divided by a blank space, should not be capitalised (i.e _see game mode spellings below_).
+If they are divided by a blank space, they must be capitalised if they are proper nouns (i.e. osu! Tournaments).
 
-#### Game modes  
+If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
+Other examples may include:
 
-The name of game modes should always be capitalised unless if it is following the exclamation mark without a blank space of the name *osu!*.
+- `osu!wiki`
+- `osu!alumni`
+- `osu!direct`
 
-Example:
+#### Language Names
 
+When referring the name of a language, capitalize the first letter of that language.
 
-*osu!mania is a game mode that has been introduced years later the original game mode that is osu! Standard.*
+- The #spanish chat channel are for those who speak **Spanish**.
 
-<!-- -->
+##### Chat Channels
 
-#### Game Modifiers  
+The chat channel names are to use lowercase letters.
+For example:
 
-Game modifiers as well as their abbreviations *should* always be capitalised.
+- `#spanish`
+- `#french`
+- `#highlight`
+- `#multiplayer`
+- `#userlog`
 
-Examples:
+The private chat channel names will use the letter casing as they appear.
 
+#### Abbreviations
 
-*In Taiko mode, Hard Rock increases Slider Velocity as well as Overall Difficulty.*
+Abbreviations of osu! terms must be capitalised (i.e. `CS` for `Circle Size`).
 
-*Auto Pilot is not available for use in Taiko or Catch the Beat modes.*
+#### Game Modes
 
-<!-- -->
+Writting the name of the game modes, they are to be written as follows:
 
-#### Difficulty Settings  
+- `osu!`
+  - `osu!standard` (unofficial, but to prevent ambiguity)
+    - for folder names, it is required to use `osu!`, not `osu!standard`
+- `osu!taiko`
+- `osu!catch`
+- `osu!mania`
 
-The different difficulty settings of a beatmap as well as their abbreviations *should* always be capitalised.
+#### Game Modifiers
 
-Example:
+Game modifiers must be capitalised.
 
+- `Hard Rock`
+- `Nightcore`
+- `Double Time`
+- `Easy`
 
-*Circle Size, known as "CS" in Edit's song selection, determines the size of circles and sliders*
+#### Gameplay Elements
 
-<!-- -->
+Gameplay elements should **never** be be capitalised.
 
-#### Gameplay Elements  
+- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 
-Gameplay elements should *never* be be capitalised.
+### Serial comma
 
-Example:
+When listing items of 3 or more in a sentence, use the serial comma.
 
+- The game modes of osu!: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
 
-*In osu! Standard, beatmaps are composed of three different gameplay elements: circles, sliders and spinners.*
+### Contractions
 
-### Section headings
+Contractions are a shortened form of a word or group of words.
+In the osu!wiki, contractions are **heavily** discouraged.
+This is to keep a formal tone in the osu!wiki.
 
-An article should always begin with an introductory lead section, which should not contain section headings.
+For example, use:
 
-Article main sections should start with level 2 headers (two equal signs) and increase by one for subsections. *Never* use level 1 headers (one equal sign). Follow sentence style capitalisation, not title style, so only the first letter of the heading and proper nouns are capitalised.
+- `Do not` instead of `Don't`
+- `You will` instead of `You'll`
 
-There should be one space between sections as well as one space between the equal signs and the section name for ease of editing. If any "main article" links or thumb images are used, place them immediately under the section header, and then a space after those before the section content.
+## Emphasizing
 
-### Italics
+When you need to emphasize something (such as warning someone not to do something or note its importance), do **not** use capital letters for emphases.
+Instead, use **bold**, _italics_, or **_both_**.
 
-1.  Any instance of "*osu!*" should be in italics unless it is included in the name of game modes or other services related to the game. *e.g.* osu! Standard or osu!direct.
-    1.  Any other instance of the name of a videogame should also be in italics. *i.e. Elite Beat Agents*.
+For example, instead of `Do NOT contact peppy for ingame issues!` use `Do **not** contact peppy for ingame issues!`
 
-2.  Any emphasis (in talk pages, etc.) should be in italics instead of being in bold or uppercase letters. Use italics when introducing or distinguishing among terms.
-    1.  The overuse of emphasis will reduce its effectiveness.
+## Code
 
-3.  Italics should be used for any occurence of foreign words including latin expressions and abbreviations like *e.g.* and *a priori*.
+Use code (inline) when noting:
 
-### Images
+- a key on the keyboard
+  - i.e. `B`, `Alt` or `Ctrl` + `Shift` + `A`
+- a name of a button
+  - i.e. `1. Let's do it.` or `4. Noooo! I didn't mean to!`
+- a name of a folder
+  - i.e. `Exports` or `Downloads`
+- a name of a directory
+  - i.e. `/Songs/` or `/Skins/User/`
+- a name of a keyword
+  - i.e. `ComboBurstStyle` or `[Events]`
+- the name of a file extension
+  - i.e. `.jpg` or `.osz`
 
-Images added to articles should fit the following guidelines:
+When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
 
--   Images should showcase an attribute of the articles topic.
-    -   Images should not have the sole purpose of showcasing a bug, instead report the bug in the [Help subforum](https://osu.ppy.sh/forum/5).
-    -   Images showcasing usage of specific features for decoration should be avoided.
--   When adding screenshots to an article, make sure the screenshots use the default skin. Screenshots that use custom skins or other custom content are not allowed.
-    -   This does not apply to articles covering skinning.
-    -   In the case of Taiko screenshots (Gameplay only), the Taiko skin can be used instead
--   Articles should only have one image showcasing an individual attribute of the articles content. For example, a slider in the beatmap editor.
--   Image captions should not have periods at the end, unless the phrase is a full sentence.
--   Images should showcase the most up to date version of *osu!* available for the content.
-    -   Images that are outdated are subject to be removed.
+When naming a file extension, add a period (`.`) then the file extension in lower case letters.
 
-### Linking
+## Links
 
-The use of links is a difficult balance between providing the reader enough useful links to allow them to "wander through" articles and excessive linking which can distract them from their reading flow.
+Article links must follow these rules:
 
-Underlinking can cause the reader to become frustrated because questions may arise about the article's contents which can only be resolved by using the search option or other sources for clarification, interrupting and distracting the reader.
+1. must use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
+  - i.e. `[Welcome](/wiki/Welcome/)`
+  - i.e. (from `Game_Modes` page) `[osu!mania](./osu!mania)`
+2. must be spelt correctly (links are case sensitive!!)
+3. must not specify the specific file name **regardless of language** (osu!wiki will handle this)
+  - do: `[Glossary](/wiki/Glossary/)`
+  - don't: `[Glossary](/wiki/Glossary/fr.md)`
+4. must not link to section headings (section headings on osu!wiki does not work)
 
-Overlinking may distract the reader because links are usually colored differently causing the eye to shift focus constantly. Additionally, if the same word is linked multiple times in the same paragraph it can cause the reader to question if the links are directing them to different articles or not.
+External links must follow these rules:
 
-The guidelines for linking are:
+- prefer the `https://` protocol
+- if referencing another site, must link to a reputable source
+- must be a clean and direct link
+  - do not use a third-party shortened link
+  - do not use links that link to ads
+  - do not use a url with long url queries, parameters, or fragments
+- the link name must be the title text of the page it is linking to
 
--   No more than 10 percent of the words in an article are contained in links.
+Do not use the word `here` as the link text.
+As it may seem convenient to use, it could be misleading.
+Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
-<!-- -->
+You can use either the reference or inline style links.
+If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
 
--   Unless it affects the sentence's wording and readability in a negative way, two links should not be next to each other in the text so that it looks like one link.
+When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
+`new.ppy.sh` is just a temporary subdomain for the new design.
 
-<!-- -->
+### Beatmaps
 
--   Links for any single term should not be excessively repeated in the same article. Excessive linking is defined as multiple use of the same term, in a line or a paragraph, which will almost certainly appear needlessly on the viewer's screen. Remember, the purpose of links is to direct the reader to a new spot at the point(s) where the reader is most likely to take a temporary detour due to needing more information.
+Whenever you are linking to a beatmap, use this format as the link text:
 
-<!-- -->
+```
+{artist} - {title} ({creator}) \[{difficuty_name}\]
+```
 
--   Duplicating an important link distant from a previous occurrence in an article may well be appropriate. If an important term appears many times in a long article, but is only linked once at the very beginning of the article, it may actually be underlinked. Indeed, readers who jump directly to a subsection of interest must still be able to find a link. But take care in fixing such problems, the distance between duplicate links is an editor's preference, however if in doubt duplicate the term further down the article.
+When linking to a beatmap, make sure that the link actually links to that difficulty.
+All beatmap difficutly urls looks like this: `osu.ppy.sh/b/{BeatmapID}`
 
-Linking to a redirect is preferred over using a piped link except in templates and other pages that will be transcluded. When a piped link is unavoidable, it should not point to a redirect. If a redirect can be avoided using a suffix on the link, that is preferred. E.g. Using `[[Beatmap]]s` instead of `[[Beatmaps]]` is desired.
+### Beatmapsets
 
-### Date formatting
+If you are linking to a beatmapset, use this format as the link text:
 
-1.  To avoid having dates using different formats, dates should be written in "DD, Month, YYYY" format, *e.g.* "10 December 2011".
-2.  Do not use superscripts or suffixes such as "23<sup>rd</sup> April" or "4th of May".
-3.  If a numeric or terse date is needed (such as in a table), then use YYYY-MM-DD, always with 2 digits for month and day (*e.g.*, 2011-12-10 or 2012-05-04). Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.
+```
+{artist} - {title} ({creator})
+```
+
+All beatmapset difficutly urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
+
+## Images
+
+**All image file extensions _MUST_ use lowercase letters!!**
+Otherwise they will fail to load!
+
+The osu!wiki will give every image a max-width, being the width of the article body.
+
+Names of images must be somewhat meaningful, please don't use the timestamp or long hashes for media file names.
+
+Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
+Images that are used for one article are to be placed inside their folders for linking.
+
+It is suggusted to add a subfolder for the images, i.e. `img/` for all images.
+If you have thumbnails and full sized images, it is suggested to use two folders and name the files the same; i.e. `pr/` for preview and `fs/` for full size.
+
+Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (unless it has transparency).
+
+All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
+
+### Clickable images
+
+If when you need an image to be clickable, i.e. click on thumbnail to view a full sized version, you can use this syntax:
+
+```md
+[![Alt](thumnbail/link.jpg)](full/link.png "hover")
+```
+
+- `Alt` is the alternative text; if image fails to load
+- `thumbnail/link.jpg` is the link of the thumbnail
+- `full/link.jpg` is the link of the thumbnail
+- `"hover"` is the hover text; when the mouse cursor is on top of the mouse
+
+## Tables
+
+Tables use the GFM syntax.
+
+If you cannot create a table because _something_ won't work without HTML (i.e. lists inside tables), then you are overthinking both the table and the content.
+If you need help making a complicated table, try to see if you can improvise a simplier fix for it.
+
+**Never** place images inside tables.
+
+## Miscellaneous
+
+- Do not use an inline image link for osu!supporter
+  - use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`
+- These words are spelt as follows (note the space):
+  - `hit circles`
+  - `approach circles`
+  - `slider ticks`
+  - `slider ball`
+  - `slider path`
+  - `hit burst`
+  - `game mode` (or just `mode`)
+  - `game mod` (or just `mod`)
+  - `play style`
+  - `hit sound`
+- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
+- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity

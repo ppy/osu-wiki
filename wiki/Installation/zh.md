@@ -1,4 +1,4 @@
-Installation - Chinese
+Installation (中文)
 ======================
 
 安装指南

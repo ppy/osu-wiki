@@ -1,11 +1,14 @@
+Nominatorzy Beatmap
+==========================
+
 Grupa **Nominatorów Beatmap**, bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią "staffu", zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
 
 Role i zadania
 --------------
 
-![Odznaka Nominatora](nominator.png "Odznaka Nominatora")
+![Odznaka Nominatora](Nominator.png "Odznaka Nominatora")
 
-Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](Modding "wikilink") [oczekujących map](Pending_Beatmap "wikilink"). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+Członkowie grupy **Nominatorów Beatmap** są odpowiedzialni głównie za [modowanie](/wiki/Modding) [oczekujących map](/wiki/Beatmaps). BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
 
 Stawanie się BN
 ---------------
@@ -17,8 +20,8 @@ Członkowie zespołu
 
 *Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.* [Strona grupy](http://osu.ppy.sh/g/28)
 
-| Pseudonim | Standard | Taiko | Catch | Mania | Dodatkowe języki |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Pseudonim | osu! | osu!taiko | osu!catch | osu!mania | Dodatkowe języki |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Tak](/wiki/shared/Insane-f.png "Tak") | ![Nie](/wiki/shared/Na-m.png "Nie") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Polski |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![Nie](/wiki/shared/Na-s.png "Nie") | ![Nie](/wiki/shared/Na-t.png "Nie") | ![Nie](/wiki/shared/Na-f.png "Nie") | ![Tak](/wiki/shared/Insane-m.png "Tak") | Indonezyjski |

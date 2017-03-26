@@ -1,7 +1,10 @@
+.osu (file format)
+=================
+
 **.osu** is a human-readable file format containing information about a single beatmap.
 
 Format
-======
+---------
 
 The first line of the file specifies the version of beatmap file. Example:
 
@@ -23,10 +26,9 @@ Example:
 `[General]`
 
 Sections
-========
+---------
 
-General
--------
+### General
 
 AudioFilename (String) specifies the location of the audio file relative to the current folder.
 
@@ -64,8 +66,7 @@ WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be
 
 `WidescreenStoryboard: 0`
 
-Editor
-------
+### Editor
 
 Bookmarks (Integer List, milliseconds) is a list of comma-separated times of editor bookmarks.
 
@@ -87,8 +88,7 @@ TimelineZoom (Integer) specifies the zoom in the editor timeline.
 
 `TimelineZoom: 1`
 
-Metadata
---------
+### Metadata
 
 Title (String) is the title of the song limited to ASCII characters.
 
@@ -130,8 +130,7 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 
 `BeatmapSetID:114987`
 
-Difficulty
-----------
+### Difficulty
 
 HPDrainRate (Float) specifies the HP Drain difficulty.
 
@@ -157,13 +156,11 @@ SliderTickRate (Float) specifies how often slider ticks appear. Default value is
 
 `SliderTickRate:1`
 
-Events
-------
+### Events
 
-See [Storyboard Scripting](Storyboard_Scripting)
+See [Storyboard Scripting](/wiki/Storyboard_Scripting)
 
-Timing Points
--------------
+### Timing Points
 
 Timing Points describe a number of properties regarding offsets, beats per minute and hit sounds. Offset (Integer, milliseconds) defines when the Timing Point takes effect. Milliseconds per Beat (Float) defines the beats per minute of the song. For certain calculations, it is easier to use milliseconds per beat. Meter (Integer) defines the number of beats in a measure. Sample Type (Integer) defines the type of hit sound samples that are used. Sample Set (Integer) defines the set of hit sounds that are used. Volume (Integer) is a value from 0 - 100 that defines the volume of hit sounds. Kiai Mode (Boolean) defines whether or not Kiai Time effects are active. Inherited (Boolean) defines whether or not the Timing Point is an inherited Timing Point.
 
@@ -179,39 +176,90 @@ Example of an inherited Timing Point:
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours
--------
+### Colours
 
 Combo# (Integer List) is a list of three numbers, each from 0 - 255 defining an RGB color.
 
 `Combo1 : 245,245,245`
 
-Hit Objects
------------
+### Hit Objects
 
-Hit Circle Syntax:
+**Hit Circle Syntax:**
 
 `x,y,time,type,hitSound,addition`
+
 `164,260,2434,1,0,0:0:0:0:`
 
-Slider Syntax:
+A hit circle is a single hit in all osu! game modes.
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...|repeat,pixelLength|edgeHitsound:edgeAddition,addition`
+*x (Integer)* ranges from 0 to 512 (inclusive) and *y (Integer)* ranges from 0 to 384 (inclusive).
+
+*time (Integer)* is in milliseconds from the beginning of the song.
+
+*type (Integer)* is a bitmap for the hitobject type:
+
+Bit 0 (1) = circle, bit 1 (2) = slider, bit 2 (4) = new combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colors to skip. Bit 7 (128) is for an osu!mania hold note. Circles, sliders, and spinners can be OR'd with new combos and the combo skip value, but not with each other.
+
+`1` - circle, `5` - circle starting a new combo, `22` - slider starting a new combo, skipping 2 colors.
+
+*hitSound (Integer)* is a bitmap of hitsounds to play on top of the normal hitsound:
+
+Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
+
+*addition (sampleSet:additions:customIndex:sampleVolume:filename)* is optional and defines the samplesets of the hitobject. It defaults to "0:0:0:0:". *sampleSet (Integer)* changes the sampleset of the object, and *addition (Integer)* changes the sampleset for additions (whistle, finish, clap). The values for these are:
+
+0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
+
+*customIndex (Integer)* is the custom sampleset index, e.g. 3 for `normal-3.wav`. *sampleVolume (Integer)* is the volume of the sample, 0-100 (percent). *filename (String)* names an audio file in the folder to play instead of sounds from samplesets.
+
+**Slider Syntax:**
+
+A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and does not appear in osu!mania.
+
+`x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
+
 `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
-Spinner Syntax:
+*x*, *y*, *time*, and *type* behave the same as described in Hit Circle Syntax.
+
+*hitSound* applies to the body of the slider, but only whistle sounds will play during the slider body.
+
+*sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull). A slider created in the editor with only a start and end point will be a linear slider. A slider with only its start, end, and one grey point will be a perfect circle slider. All others will be Bezier. Catmull sliders are deprecated.
+
+*curvePoints (x:y|...)* is a series of `|`-separated coordinates describing the control points of the slider. Red points appear twice. NOTE: curvePoints is separated from sliderType with a `|`, not a comma.
+
+*repeat (Integer)* is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
+
+*pixelLength (Float)* is the length of the slider along the path of the described curve. If the length is greater than that of the described curve, the slider will continue in a straight line.
+
+*edgeHitsounds (hitSound|...)* is a `|`-separated list of hitSounds to apply to the circles of the slider. The values are the same as those for Hit Circle hitSounds.
+
+*edgeAdditions (sampleSet:additions|...)* is a `|`-separated list of samplesets to apply to the circles of the slider. *sampleSet* and *additions* are the same as in a hit circle's *addition* field.
+
+*addition* defines the samplesets to use on the slider body. It functions like *addition* for a circle.
+
+**Spinner Syntax:**
 
 `x,y,time,type,hitSound,endTime,addition`
+
 `256,192,730,12,8,3983`
 
-x ranges from 0 to 512 (inclusive) and y ranges from 0 to 384 (inclusive).
+A spinner also creates bananas in Catch the Beat, a spinner in Taiko, and does not appear in osu!mania.
 
-time is in milliseconds from the beginning of the song.
+*type*, *time*, *hitSound*, and *addition* behave the same as described in Hit Circle Syntax.
 
-NOTE: 'addition' is optional, and defaults to "0:0:0:0:".
+*endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song. NOTE: Hit sounds play at the end of the spinner.
 
-Hit object type is a bitmap:
+**osu!mania Hold Note Syntax**
 
-circle = 1 slider = 2 new combo = 4 spinner = 8
+`x,y,time,type,hitSound,endTime:addition`
 
-The only actual "types" are circles, sliders, and spinners. New combo can be OR'd in to extend the behavior of the hit circle.
+`329,192,16504,128,0,16620:0:0:0:0:`
+
+A hold note unique to osu!mania.
+
+**time**, **type**, **hitSound**, and **addition** behave the same as described in Hit Circle Syntax.
+
+**x (Integer)** determines which column/key a note will fall on. The value does not have to be precise. **y (Integer)** is ignored.
+
+**endTime (Integer)** is the time when the key should be released.

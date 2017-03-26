@@ -123,7 +123,7 @@ Turnieje
 --------
 
 
-***[Osobny artykuł](/wiki/Announcements/Tournaments)***
+***[Osobny artykuł](/wiki/Tournaments)***
 
 -   [Rezultat Mistrzostw Świata w Taiko 2016! (osu!weekly \#58)](//osu.ppy.sh/news/143474255578)
 -   [Mistrzostwa Świata w Catch The Beat 2016 - zapisy w toku!](//osu.ppy.sh/news/142680619968)

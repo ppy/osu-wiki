@@ -1,9 +1,12 @@
-Ang **Beatmap Appreciation Team**, dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [rank ng beatmaps](PH:Ranked_Beatmap "wikilink"). Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [GMT](PH:GMT "wikilink").
+Beatmap Nomination Group (Tagalog)
+=====================================
+
+Ang **Beatmap Appreciation Team**, dating kilala bilang Beatmap Approval Team at mas kilala na tawag na BAT, ay isang grupo na ang ginagawa ay mag [rank ng beatmaps](/wiki/Beatmaps). Limitado din silang kilala bilang mga community moderators, at pumoporma bilang partner-moderators sa dami ng mga [GMT](/wiki/People/Global_Moderation_Team).
 
 Ano ang posisyon at responsibilidad ng BAT?
 -------------------------------------------
 
-Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa [pag-mod](PH:Modding "wikilink") ng mga [Pending Beatmaps](PH:Pending_Beatmap "wikilink")
+Sila ay makikilala kapag ang pangalan nila ay kulay pula sa forums (parehas din ito sa game chat, lahat ng BAT ay kulay pula). Ang responsibilidad ay sa [pag-mod](/wiki/Modding) ng mga [Pending Beatmaps](/wiki/Beatmaps)
 
 papunta sa ranking cyrcle. Sila din ay malalapitan tungkol sa pag-mod o pagbibigay ng advice kahit saan tungkol sa mapping man o sa gameplay.
 
@@ -17,8 +20,8 @@ Mga Members
 
 *Note: Lahat ng BAT ay nagsasalita ng Ingles unless na ito ay noted.* [Link](http://osu.ppy.sh/g/7)
 
-| Name | Standard | Taiko | Catch | Mania | Ibang wika na naiintindihan |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Ibang wika na naiintindihan |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesian |

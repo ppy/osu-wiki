@@ -1,3 +1,6 @@
+.osr (file format)
+==================
+
 **.osr** is a file format containing information about an osu! replay. To use it, the beatmap specified by the file is required in "Songs" folder.
 
 Data Types
@@ -35,7 +38,7 @@ Byte offsets are not included in this table due to variable length values.
 | Byte | Perfect/full combo (1 = no misses and no slider breaks and no early finished sliders) |
 | Integer | Mods used. See below for list of mod values. |
 | String | Life bar graph: comma separated pairs u/v, where u is the time in milliseconds into the song and v is a floating point value from 0 - 1 that represents the amount of life you have at the given time (0 = life bar is empty, 1= life bar is full) |
-| Long | Time stamp ([http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx](Windows ticks)) |
+| Long | Time stamp ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
 | Long | Unknown |

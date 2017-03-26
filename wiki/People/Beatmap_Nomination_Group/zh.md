@@ -1,4 +1,7 @@
-**B** eatmap **N** omination **G** roup，通常简称为 **BN** 或是 **BNG**，是一支负责[审核谱面的团队](ZH:Ranked_Beatmap "wikilink")。BN 近期经历了数次改制。
+Beatmap Nomination Group (中文)
+===================================
+
+**B** eatmap **N** omination **G** roup，通常简称为 **BN** 或是 **BNG**，是一支负责[审核谱面的团队](/wiki/Beatmaps)。BN 近期经历了数次改制。
 
 2014 年 8 月 22 日，他们不再属于官方管理团队的一部分，于游戏内聊天室不再拥有管理权和红色名字。
 
@@ -7,7 +10,7 @@
 工作与责任
 ----------
 
-Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面进行](ZH:Pending_Beatmap "wikilink")[修正](ZH:Modding "wikilink")。若在做图时需要修正或建议，就可以找 BN 帮忙。
+Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面进行](/wiki/Beatmaps)[修正](/wiki/Modding)。若在做图时需要修正或建议，就可以找 BN 帮忙。
 
 成为 BN
 -------
@@ -19,8 +22,8 @@ Beatmap Nomination Group 的成员主要负责引导准备 Rank 的[待审谱面
 
 *小提示：所有 BN 都能够熟练地使用英文进行交流，特别说明的除外。*[当前在任的 BN 成员可以在这里看到](http://osu.ppy.sh/g/28)。
 
-| Name | Standard | Taiko | Catch | Mania | 语言 |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | 语言 |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | 波兰语 |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | 印尼语 |

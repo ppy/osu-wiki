@@ -1,13 +1,19 @@
+Éléments d'une beatmap
+==========================
+
 Il existe trois principaux **objets** sur osu!, qui constituent l'intégralité du gameplay. Les cercles et les sliders sont très fréquents tandis que les spinners sont plus rares.
 
 Cercle
 ------
 
-<img src="Hit_circle.png" title="fig:Un cercle avec le skin par défaut." alt="Un cercle avec le skin par défaut." width="100" /> Appelé "marqueur" sur les [jeux Nintendo DS](FR:Standard#Introduction "wikilink"), il s'agit d'un cercle coloré avec un nombre dessus, à l'intérieur d'un second cercle plus grand nommé **cercle d'approche** qui rétrécit petit à petit. Lorsque le cercle d'approche entre en contact avec le cercle lui-même, le joueur doit cliquer sur ce cercle. Il gagne ainsi un certain nombre de points (300, 100, 50 ou rien en fonction de la précision) et un bonus à sa barre de vie. Il recevra un bonus plus important si le cercle se situe à la fin d'un combo.
+![Un cercle avec le skin par défaut.](Hit_circle.png "Un cercle avec le skin par défaut.")
 
-==Slider== <img src="Slider2.jpg" title="fig:Un slider avec le skin par défaut." alt="Un slider avec le skin par défaut." width="200" />
+Appelé "marqueur" sur les [jeux Nintendo DS](/wiki/Game_Modes/osu!), il s'agit d'un cercle coloré avec un nombre dessus, à l'intérieur d'un second cercle plus grand nommé **cercle d'approche** qui rétrécit petit à petit. Lorsque le cercle d'approche entre en contact avec le cercle lui-même, le joueur doit cliquer sur ce cercle. Il gagne ainsi un certain nombre de points (300, 100, 50 ou rien en fonction de la précision) et un bonus à sa barre de vie. Il recevra un bonus plus important si le cercle se situe à la fin d'un combo.
 
-*Article principal : [Slider](FR:Slider "wikilink")*
+Slider
+-----------
+
+![Un slider avec le skin par défaut.](Slider2.jpg "Un slider avec le skin par défaut.")
 
 Un slider est constitué de deux cercles reliés entre eux par un chemin défini. Un cercle d'approche entoure le premier cercle du slider. Tout comme pour le cercle seul, le joueur doit appuyer en rythme sur le premier cercle et se diriger (toujours en rythme) vers l'autre cercle sans relâcher le bouton de sa souris, en suivant le chemin. Pour le guider, un élément graphique appelé « **slider ball** » (une balle) suit le chemin en même temps. Cette balle est elle-même entourée d'un « **slider ring** » (un anneau) qui suit la balle en permanence. Si le joueur, censé suivre la balle avec sa souris, sort de l'anneau, son multiplicateur de combo est remis à zéro.
 
@@ -20,7 +26,7 @@ Les « **slider ticks** » sont de petits points placés sur le slider à des in
 Spinner
 -------
 
-<img src="Spinner.jpg" title="Un spinner avec le skin par défaut." alt="Un spinner avec le skin par défaut." width="200" />
+![Un spinner avec le skin par défaut.](Spinner.jpg "Un spinner avec le skin par défaut.")
 
 Un spinner est un cercle qui prend toute la zone de jeu. Il possède un « **spinner metre** » sur ses côtés. Lorsque ce dernier est rempli, le joueur gagne des points ; on dit alors que le spinner est **complété**. Le spinner dispose aussi d'un cercle d'approche, mais il ne fonctionne pas comme avec les autres objets. En effet, il détermine le temps restant avant que le spinner se termine (lorsqu'il touche son centre). Dès qu'il apparaît, le joueur doit tourner autour du centre le plus vite possible pour le compléter. Le nombre de tours pour compléter un spinner dépend de sa durée. Si le joueur fait tourner le spinner, même s'il ne le complète pas, il gagne des points quand même. S'il réussit à le compléter, il gagne des points bonus (par tranche de 1000) et sa vie ne descend plus tant qu'il continue à tourner. Il gagnera aussi 300 points à la fin du spinner.
 

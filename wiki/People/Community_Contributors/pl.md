@@ -1,8 +1,11 @@
-![Znak Zasłużonego](Contributor_Badge.png "Znak Zasłużonego") 
+Zasłużeni dla społeczności
+================================
 
-**Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](osu!) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
+![Znak Zasłużonego](Contributor_Badge.png "Znak Zasłużonego")
 
-Nie należy ich mylić z [osu! Alumni](osu!_Alumni) którzy są dawnymi członkami osu!team ([GMT](GMT), [QAT](QAT), itp), którzy odeszli. Znak Zasłużonego jest przyznawany wolnym strzelcom, którzy musieli wznieść się ponad wezwanie do obowiązku, aby ulepszyć osu! i środowisko społeczności.
+**Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](/wiki/Glossary) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
+
+Nie należy ich mylić z [osu! Alumni](/wiki/People/osu!_Alumni) którzy są dawnymi członkami osu!team ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), itp), którzy odeszli. Znak Zasłużonego jest przyznawany wolnym strzelcom, którzy musieli wznieść się ponad wezwanie do obowiązku, aby ulepszyć osu! i środowisko społeczności.
 
 Osoby posiadające obecnie Znak Zasłużonego:
 
@@ -21,7 +24,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Stworzenie i utrzymywanie [osu!stats](http://osustats.ppy.sh/) i wielu narzędzi dla mapperów, modderów i ogólnej rozgrywki. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji a także odpowiadanie na pytania graczy. |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](http://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboarding) sztuką i motywacją. |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboards) sztuką i motywacją. |
 | [awp](https://osu.ppy.sh/u/2650) | Wczesne zarządzanie i moderowanie społecznością oraz duży wkład, zanim opuścił osu!. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
 | [Ivalset](https://osu.ppy.sh/u/827) | Bycie pierwszym zarządcą staffu oraz BAT, a także stworzenie elitarnego zespołu mapperów. |
