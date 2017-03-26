@@ -86,27 +86,41 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Quarterfinals
+## Schedule: Semifinals
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Saturday, 25. March 2017
+### Saturday, 1. April 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 19.00 UTC +1 | 18.00 UTC +0 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **19.30 UTC** | 16.30 UTC -3 | 16.30 UTC -3 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 12.00 UTC +2 | 19.00 UTC +9 | ² |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **11.30 UTC** | 13.30 UTC +2 | 19.30 UTC +8 | ² |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **13.00 UTC** | 10.00 UTC -3 | 23.00 UTC +10 | ² |
+| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **14.30 UTC** | 16.30 UTC +2 | 16.30 UTC +2 | ² |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 9.30 UTC +9 | ¹ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ¹ |
 
-### Sunday, 26. March 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 10.30 UTC +10 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 11.00 UTC +9 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **11.30 UTC** | 19.30 UTC +8 | 13.30 UTC +2 |
-| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
-| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.30 UTC** | 16.30 UTC +2 | 21.30 UTC +7 |
+### Sunday, 2. April 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **12.00 UTC** | 22.00 UTC +10 | 14.00 UTC +2 | ³ |
+| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 22.00 UTC +10 | 14.00 UTC +2 | ³ |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **13.30 UTC** | 15.30 UTC +2 | 15.30 UTC +2 | ³ |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **13.30 UTC** | 15.30 UTC +2 | 22.30 UTC +9 | ³ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **13.30 UTC** | 21.30 UTC +8 | 15.30 UTC +2 | ³ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **13.30 UTC** | 21.30 UTC +8 | 22.30 UTC +9 | ³ |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Es.gif) | Spain | **15.00 UTC** | 12.00 UTC -3 | 17.00 UTC +2 | ³ |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **15.00 UTC** | 12.00 UTC -3 | 17.00 UTC +2 | ³ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on ¹Winner bracket encounter and ²Loser bracket encounter
+
 
 ------------------------------------------------------------------------
 
