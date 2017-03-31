@@ -39,7 +39,7 @@ For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https
 
 ## Language Tags
 
-Language tags are varients of a certain language (i.e. English is the language family, while American, British, Canadian, and Indian Enlish are varients).
+Language tags are varients of a certain language (e.g. English is the language family, while American, British, Canadian, and Indian Enlish are varients).
 
 All files are **not** to use language tags.
 For example, use:
@@ -201,7 +201,7 @@ For example:
 
 When listing items of 3 or more in a sentence, use the serial comma.
 
-- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch**,** and osu!mania are fun to play with others.
+- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
 ### Capitalisation
 
