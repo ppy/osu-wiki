@@ -42,15 +42,22 @@ Features
 
 ![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
 
-| Timeline                                                                                                                                                    |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| "+"/"-" buttons at left                                                                                                                                     |
-| Arrow "Up"/"Down" buttons''' left-below                                                                                                                     |
-| Centre                                                                                                                                                      |
-| Keyframe Control                                                                                                                                            |
-| This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline. |
-| "+"/"-" buttons                                                                                                                                             |
-| "|&lt;" / ">|" buttons                                                                                                                                   |
+#### Timeline
+
+| Name | Description |
+| ---- | ----------- |
+| "+"/"-" buttons at left	| Increase/Decrease timeline zoom |
+| Arrow "Up"/"Down" buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
+| Centre | Transformation Timeline for the selected SB object. |
+
+#### Keyframe Control
+
+This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline.
+
+| Name | Description |
+| ---- | ----------- |
+| "+"/"-" buttons | Add/Delete anchor points for the selected transformation. |
+| "<" / ">" buttons | Jump backward/forward to nearest anchor point of selected transformation. |
 
 If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -> going down).
 
@@ -96,66 +103,34 @@ To use them:-
 
 ![Transformations buttons](SE_TRANS.jpg "Transformations buttons")
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Transformation effects (timeframe-based)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Command</p></td>
-</tr>
-<tr class="even">
-<td><p>Move</p></td>
-</tr>
-<tr class="odd">
-<td><p>Scale</p></td>
-</tr>
-<tr class="even">
-<td><p>Fade</p></td>
-</tr>
-<tr class="odd">
-<td><p>Rotate</p></td>
-</tr>
-<tr class="even">
-<td><p>Colour</p></td>
-</tr>
-<tr class="odd">
-<td><p>Additional effects (hover over left bar):</p></td>
-</tr>
-<tr class="even">
-<td><p>Vector Scale</p></td>
-</tr>
-<tr class="odd">
-<td><p>Horizontal/Vertical Flip</p></td>
-</tr>
-</tbody>
-</table>
+##### Transformation effects (timeframe-based)
+
+| Command | Usage |
+| ------- | ----- |
+| Move | Translation [where to go (eg, move up)]. |
+| Scale	| Proportional enlargement (a square is still a square). |
+| Fade | Fade in/out. (darken vs brighten) |
+| Rotate | Rotate a certain number of "Radians" (not degrees). |
+| Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
+
+##### Additional effects (hover over left bar):
+
+| Command | Usage |
+| ------- | ----- |
+| Vector Scale | Irregular enlargement (a square becomes a rectangle). |
+| Horizontal/Vertical Flip | Reflection at x-axis/y-axis respectively |
+
+##### Extra commands
 
 ![Extra commands](SE_AO.jpg "Extra commands")
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Extra commands</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Tweening</p></td>
-</tr>
-<tr class="even">
-<td><p>Easing In/Out</p></td>
-</tr>
-<tr class="odd">
-<td><p>Origin</p></td>
-</tr>
-<tr class="even">
-<td><p>Diff. Specific</p></td>
-</tr>
-</tbody>
-</table>
+| Command | Usage |
+| ------- | ----- |
+| Tweening | You have two Keyframes (ie Start/End), do you want to animate between them? If so, turn on Tweening. If not, then turn it off. |
+| Easing In/Out | Start slow/fast then fast/slow near end point. Useful with Fade In. |
+| Origin | Point of origin. "Top-Left" corner or "Centre" of image |
+| Diff. Specific | Save all the SB into this difficulty's .osu file instead of the .osb file. (Refer note below) |
+
 
 **Note:-**
 
@@ -173,10 +148,13 @@ This is the **visual representation of the storyboard and changes based on both 
 
 **List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use **"DEL" key** or Edit -> Delete from top menu.
 
-| Sprite Library | [Visual representation of the sprite used](Media:SE_SL.jpg "wikilink"). Click the "Browse..." button to search for sprite to use. You can duplicate the sprite by clicking on it's thumbnail at Sprite Library window. |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 **Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer.
+
+#### Sprite Library
+
+![Visual representation of the sprite used.](SE_SL.jpg "Visual representation of the sprite used.")
+
+Click the "Browse..." button to search for sprite to use. You can duplicate the sprite by clicking on it's thumbnail at Sprite Library window.
 
 ### Bottom (Play Timeline)
 
