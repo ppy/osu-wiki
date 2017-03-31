@@ -2,12 +2,12 @@
 
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
-All articles should use plain English.
-Your word choice should explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
+All English articles should use plain English.
+Your word choice should help explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
-A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure optimal experience for an osu!wiki reader
+A good osu!wiki writer should read these reviews to help improve the overall quality of these articles to ensure optimal experience for an osu!wiki reader.
 
 ## GFM
 
@@ -40,12 +40,13 @@ For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https
 ## Headings
 
 All articles **must have a level 1 heading** of a translated article's title.
-This level 1 heading is to be placed at the start of the article.
+This level 1 heading is to be placed at the start of the article unless you have reference links placed there.
+If this happens, place this heading underneath the reference links.
 
-The remaining section headings must be level 2 onwards (but limit to level 5 please).
+The remaining section headings must be level 2 and onwards (but limit to level 5).
 
 Optionally, but preferably, add an extra line before and after the headings.
-This will help make the headings stand out a bit more when editing.
+This will help make the headings stand out when editing.
 
 There are two styles of heading levels 1 and 2 that Markdown supplies you:
 
@@ -76,6 +77,7 @@ Note that heading levels 3 and onwards use the hashtag style.
 
 Titles are to be in title case.
 The title of an article is the name of the folder that the article is located in.
+
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
 All article titles are to be using the level 1 heading.
@@ -85,8 +87,10 @@ For example:
 # Folder Name
 ```
 
+#### Untranslatable Titles
+
 In the case where a title can **not** be translated, use the language title (in English) followed by the language name (in that language) in round brackets.
-For example:
+Here are some examples:
 
 ```
 # osu!mania (Español)
@@ -95,12 +99,13 @@ For example:
 ```
 
 You can find a list of native language names at [Language names in their own languages and scripts](http://www.omniglot.com/language/names.htm) or [List of language names](https://en.wikipedia.org/wiki/List_of_language_names).
+<!-- NOTE this may introduce more inconsistencies because some languages use more than one script to represent their language! -->
 
 ### Section Headings
 
 All section headings are to use title case, just like the article titles.
 
-All section headings are to be using level 2 to level 5 headings.
+All section headings are to be using levels 2 to 5 headings.
 
 Section headings must **never** have a link in it.
 Instead place the link underneath the section heading.
@@ -114,7 +119,7 @@ For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
 
 Section headings must **never** have any styles applied to it.
 
-Section headings can have **small icons** in their section headings.
+Section headings can have **small icons** in their section headings but never images larger than 1 point (the typical font size height; usually 16 pixels).
 For example:
 
 ```
@@ -128,7 +133,7 @@ Because of this, there is no need to add one.
 
 ## Grammar
 
-In the case where the American English and the British English spellings conflict, prefer the British Engish spelling.
+In the case where varients of English and the British English spellings conflict, prefer the British Engish spelling.
 
 For example use:
 
@@ -140,21 +145,29 @@ For example use:
 ### osu!
 
 The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
+If `osu!` is the last word in the sentence, add a period (or the appropriate punctuation marks) immediately following `osu!`.
+For example:
+
+- `The welcome.wav file says, "Welcome to osu!."`
+
 Any words following `osu!`, if not divided by a blank space, should not be capitalised.
-If they are divided by a blank space, they must be capitalised if they are proper nouns (e.g. `osu! Tournaments` or `osu! Alumni`).
+If they are divided by a blank space, they must be capitalised if they are proper nouns.
+For example:
+
+- `osu! Tournaments`
+- `osu! Alumni`
 
 If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
 Other examples may include:
 
-- `osu!wiki`
-- `osu!alumni`
+- `osu!mania`
 - `osu!direct`
+- `osu!wiki`
 
 When refering to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
 For example:
 
-- `osu!standard`
-- `osu!direct`
+- `The language that _osu!_ is written in is C# using the .NET Framework.`
 
 ### Serial comma
 
@@ -181,7 +194,7 @@ For example:
 - `#multiplayer`
 - `#userlog`
 
-The private chat channel names are to use the letter casing as they appear.
+Though you may not use them at all, the private chat channel names are to use the letter casing as they appear.
 
 #### Abbreviations
 
@@ -555,19 +568,22 @@ If you need help making a complicated table, try to see if you can improvise a s
 **Never** place images inside tables.
 
 It is up to you whether or not if you want to beautify the tables.
-They will appear nicer when editing them; however, for those who use text wrapping, the tables will appear as a clumped mess.
+They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess.
 Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
 
 ## Date Formatting
 
-1. To avoid having dates using different formats, all dates should be written in `DD, Month, YYYY` format
-   - e.g. `10 December 2011` or `01 April 2008`
-2. Do **not** use superscripts or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
-3. If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
-   - e.g. `2011-12-10` or `2012-05-04`
-<!--4. Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
+All dates must follow these rules:
 
-For consistency, please write all dates in this format (using both): `DD, Month, YYYY (YYYY-MM-DD)`. For example:
+- To avoid having dates using different formats, all dates should be written in `DD, Month, YYYY` format
+  - e.g. `10 December 2011` or `01 April 2008`
+- Do **not** use superscripts or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
+- If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
+  - e.g. `2011-12-10` or `2012-05-04`
+<!--- Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
+
+For consistency, please write all dates in this format (using both): `DD, Month, YYYY (YYYY-MM-DD)`.
+For example:
 
 - `5 August, 2015 (2015-08-05)`
 
@@ -584,7 +600,8 @@ For consistency, please write all dates in this format (using both): `DD, Month,
   - `game mod` (or just `mod`)
   - `play style`
   - `hit sound`
-- Do not use an inline image link for osu!supporter
-  - use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`
+- Do not use an inline image link for osu!supporter.
+  - Use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`.
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
 - The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
+- All Chinese articles are to be using Simplified Chinese.
