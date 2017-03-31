@@ -37,6 +37,34 @@ Translated articles are to be placed in the appropriate English-named folder.
 
 For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
 
+## Language Tags
+
+Language tags are varients of a certain language (i.e. English is the language family, while American, British, Canadian, and Indian Enlish are varients).
+
+All files are **not** to use language tags.
+For example, use:
+
+- `en.md` instead of:
+  - `en-gb.md`,
+  - `en-us.md`,
+  - `en-ca.md`, or
+  - `en-in.md`
+- `es.md` instead of:
+  - `es-es.md`,
+  - `es-mx.md`,
+  - `es-ar.md`,
+  - `es-co.md`, or
+  - `es-cl.md`
+- `pt.md` instead of:
+  - `pt-pt.md` or
+  - `pt-br.md`
+- `zh.md` instead of:
+  - `zh-cn.md`,
+  - `zh-tw.md`, or
+  - `zh-hk.md`
+
+This is simply to maintain consistency and simplicity while following the ISO 639-1 codes.
+
 ## Headings
 
 All articles **must have a level 1 heading** of a translated article's title.
