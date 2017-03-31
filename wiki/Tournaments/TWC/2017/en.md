@@ -250,7 +250,6 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | [t+pazolite - to Luv me I *** for u. (OnosakiHito)](http://osu.ppy.sh/b/475086&m=1) | [Taikosaki 2013] |
 | [t+pazolite - Boogie Woogie Splatter Show (12358)](http://osu.ppy.sh/b/159367&m=1) | [Taiko] |
 | [xi - Aragami (Sayaka-)](http://osu.ppy.sh/b/525910&m=1) | [Inner Oni] |
-| [Kobaryo - Wavy Beach ([mikkusu-8022])](http://osu.ppy.sh/b/885384&m=1) | [mikkusu] |
 
 | Hidden | |
 | --- | :--- |
