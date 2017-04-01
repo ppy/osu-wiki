@@ -331,13 +331,13 @@ Otherwise the list may be parsed incorrectly.
 - item B
 ```
 
-To break lines in a numbered list, use:
+To break lines in a list, use:
 
 ```
-- The combo fire was a gameplay feature.
-  It would display a burning yellow flame after obtaining a combo of 30.
-  - This was disabled on March 5, 2013.
-    Most likely due to performance concerns.
+1. The combo fire was a gameplay feature.
+   It would display a burning yellow flame after obtaining a combo of 30.
+   - This was disabled on March 5, 2013.
+     Most likely due to performance concerns.
 ```
 
 There are two kinds of lists:
@@ -428,7 +428,7 @@ Article links must follow these rules:
 
 External links must follow these rules:
 
-- prefer the `https://` protocol
+- prefer the `https://` protocol, if available
 - if linking to another site, must link to a reputable source
 - must be a clean and direct link
   - do not use a third-party shortened link
@@ -613,7 +613,7 @@ Some tools for beautifying tables are:
 
 All dates must follow these rules:
 
-- To avoid having dates using different formats, all dates should be written in `DD, Month, YYYY` format
+- To avoid having dates using different formats, all dates should be written in `DD Month YYYY` format
   - e.g. `10 December 2011` or `01 April 2008`
 - Do **not** use superscripts or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
 - If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
@@ -627,9 +627,9 @@ For example:
 
 ## Miscellaneous
 
-- All folders **must** contain a page of some kind, even if they are _index_ pages (pages that just link to other pages)
-- All sections **must** contain some content, even if they are redirect links to other pages
-  - `Also see [Glossary](/wiki/Glossary)`
+- All folders **must** contain a page of some kind, even if they are _index_ pages (pages that link to other pages).
+- All sections **must** contain some content, even those who contains subsections.
+  - `_Also see [Glossary](/wiki/Glossary)._`
 - These words are spelt as follows (note the space):
   - `hit circles`
   - `approach circles`
@@ -641,7 +641,7 @@ For example:
   - `game mod` (or just `mod`)
   - `play style`
   - `hit sound`
-- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
+- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
 - The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
 - All Chinese articles are to be using Simplified Chinese.
   - This is because `ISO 639-1` notes that `zh` is Simplified Chinese.
