@@ -3,7 +3,7 @@
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All English articles should use plain English.
-Your word choice should help explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
+Your word choice should be able to explain such things in layman's terms (basically ask yourself, "If the reader is reading this, would they have to lookup any of the words?").
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
@@ -37,9 +37,9 @@ Translated articles are to be placed in the appropriate English-named folder.
 
 For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
 
-## Language Tags
+### Language Tags
 
-Language tags are varients of a certain language (e.g. English is the language family, while American, British, Canadian, and Indian Enlish are varients).
+Language tags are variants of a certain language (e.g. English is the language family, while American, British, Canadian, and Indian Enlish are variants).
 
 All files are **not** to use language tags.
 For example, use:
@@ -154,14 +154,13 @@ For example:
 #### ![osu! icon](/wiki/shared/Osu.gif) osu!
 ```
 
-## TOC
+## ToC
 
-The TOC (Table of Contents) will automatically be generated on the osu!wiki.
-Because of this, there is no need to add one.
+ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
 
 ## Grammar
 
-In the case where varients of English and the British English spellings conflict, prefer the British Engish spelling.
+In the case where variants of English and the British English spellings conflict, prefer the British Engish spelling.
 
 For example use:
 
@@ -602,6 +601,13 @@ If you need help making a complicated table, try to see if you can improvise a s
 It is up to you whether or not if you want to beautify the tables.
 They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess.
 Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
+
+Some tools for beautifying tables are:
+
+- VS Code's Native Beautifier
+  - this will require you to use [VS Code](https://code.visualstudio.com/)
+- [Markdown Table Formatter](http://markdowntable.com/)
+  - alignment syntax (`:`) will not parse correctly
 
 ## Date Formatting
 
