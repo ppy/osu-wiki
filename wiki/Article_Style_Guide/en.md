@@ -203,15 +203,13 @@ When listing items of 3 or more in a sentence, use the serial comma.
 
 - The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
-### Capitalisation
-
-#### Language Names
+### Language Names
 
 When referring to the name of a language, capitalize the first letter of that language.
 
 - The `#spanish` chat channel are for those who speak **Spanish**.
 
-##### Chat Channels
+#### Chat Channels
 
 The chat channel names are to use lowercase letters.
 For example:
@@ -224,7 +222,7 @@ For example:
 
 Though you may not use them at all, the private chat channel names are to use the letter casing as they appear.
 
-#### Abbreviations
+### Abbreviations
 
 When using abbreviations, it is really important to note what the abbreviation means upon first instance.
 For example:
@@ -243,7 +241,7 @@ For example:
 
 When shortening the word "for example"; use `e.g.` instead of `e.x.` or `i.e.`.
 
-#### Game Modes
+### Game Modes
 
 When writting the name of the game modes, they are to be written as follows:
 
@@ -256,7 +254,7 @@ When writting the name of the game modes, they are to be written as follows:
 
 You may use the old game mode names (e.g. `Catch the Beat` or `Taiko`) only when you are talking about said game mode's previous name.
 
-#### Game Modifiers
+### Game Modifiers
 
 Game modifiers **must** be capitalised.
 
@@ -265,7 +263,7 @@ Game modifiers **must** be capitalised.
 - `Double Time`
 - `Easy`
 
-#### Gameplay Elements
+### Gameplay Elements
 
 Gameplay elements should **never** be be capitalised.
 
@@ -289,8 +287,9 @@ Know that the possessive form of a word (e.g. `the player's` or `the skinner's`)
 ## Point of View
 
 When refering to the player, use `the player` or `a player`.
+
 **Never** use `he`/`his` or `she`/`hers`!
-Instead, use `they`/`theirs`.
+Instead, use `they`/`their`/`theirs`.
 
 In instances where you are talking directly to the reader (e.g. tutorial page), you could use the word `you`.
 
@@ -623,6 +622,8 @@ For example:
 ## Miscellaneous
 
 - All folders **must** contain a page of some kind, even if they are _index_ pages (pages that just link to other pages)
+- All sections **must** contain some content, even if they are redirect links to other pages
+  - `Also see [Glossary](/wiki/Glossary)`
 - These words are spelt as follows (note the space):
   - `hit circles`
   - `approach circles`
