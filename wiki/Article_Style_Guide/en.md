@@ -622,6 +622,7 @@ For example:
 
 ## Miscellaneous
 
+- All folders **must** contain a page of some kind, even if they are _index_ pages (pages that just link to other pages)
 - These words are spelt as follows (note the space):
   - `hit circles`
   - `approach circles`
