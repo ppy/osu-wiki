@@ -567,6 +567,11 @@ Thumbnails are suggested to have a width of 160px and be in the `.jpg` format (u
 
 All images don't necessarily need to have an alternative text (text that displays if the image fails to load) nor do they need to have hover text.
 
+Do **not** give the images any links.
+On a PC platform, they will work most of the time.
+However, on mobile, they will **not** work most of the time as the pointer event triggers the hover text, not the link.
+For example, use `[osu!supporters](/wiki/osu!supporter/)` and not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`.
+
 ### Flag icons
 
 Flag icons are located inside this folder: `/wiki/shared/flag/`.
@@ -628,8 +633,6 @@ For example:
   - `game mod` (or just `mod`)
   - `play style`
   - `hit sound`
-- Do not use an inline image link for osu!supporter.
-  - Use `[osu!supporters](/wiki/osu!supporter/)`, not `[![](/wiki/shared/osu!support.png/)](/wiki/osu!supporter/)`.
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable)
 - The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
 - All Chinese articles are to be using Simplified Chinese.
