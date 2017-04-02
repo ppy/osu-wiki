@@ -131,45 +131,45 @@ Nachrichten
 | Breaktime is not suggested for mania maps.                                                                    |               |          |
 | Easy/Normal diff contains too many speed changes.                                                             |               |          |
 | Kiai is toggled very frequently!                                                                              |               |          |
-| More than 1/3 of the map is Kiai time. Consider reducing this.                                                |               |          |
+| More than 1/3 of the map is Kiai time. Consider reducing this.                                                |               |          ||
 
 #### Meta
 
-| Message | Explantation | Solution |
-| ------ | ------------- | --------|
-| Stack leniency is larger than 0.9 or smaller than 0.3. | | |
-| Romanised artist contains unicode. | | |
-| Romanised title contains unicode. | | |
-| Countdown is not allowed in mania mode. | Nur bei Maniabeatmaps! | Geh in die **Song Settings** und schaltest den Countdown im **"Design" tab** aus. |
-| Letterboxing is not allowed in mania mode. | Nur bei Maniabeatmaps! | |
-| OD rate is suggested to be at least 5. | Nur bei Maniabeatmaps! | Geh in die **Song Settings** und setze die **OD rate** auf 5 oder höher. |
-| OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei Maniabeatmaps! | |
-| Countdown is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
-| Epilepsy warning is not allowed in taiko mode. | Nur bei Taikobeatmaps! | |
-| Letterboxing is not allowed in taiko mode. | Nur bei Taikobeatmaps! | | |
+| Nachricht                                                             | Erklärung         | Lösung                                                                            |
+| --------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| Stack leniency is larger than 0.9 or smaller than 0.3.                |                   |                                                                                   |
+| Romanised artist contains unicode.                                    |                   |                                                                                   |
+| Romanised title contains unicode.                                     |                   |                                                                                   |
+| Countdown is not allowed in mania mode.                               | Nur bei osu!Mania | Geh in die **Song Settings** und schaltest den Countdown im **"Design" tab** aus. |
+| Letterboxing is not allowed in mania mode.                            | Nur bei osu!Mania |                                                                                   |
+| OD rate is suggested to be at least 5.                                | Nur bei osu!Mania | Geh in die **Song Settings** und setze die **OD rate** auf 5 oder höher.          |
+| OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei osu!Mania |                                                                                   |
+| Countdown is not allowed in taiko mode.                               | Nur bei osu!Taiko |                                                                                   |
+| Epilepsy warning is not allowed in taiko mode.                        | Nur bei osu!Taiko |                                                                                   |
+| Letterboxing is not allowed in taiko mode.                            | Nur bei osu!Taiko |                                                                                   | |
 
 #### Mapset
 
-| Message | Explantation | Solution |
-| --------------------------------------- | ------------- | --------|
-| Artist conflicts with {0} diff. | | |
-| Audio file conflicts with {0} diff. | | |
-| Countdown conflicts with {0} diff. | | |
-| Audio lead-in conflicts with {0} diff. | | |
-| Letterbox in breaks conflicts with {0} diff. | | |
-| Audio preview time conflicts with {0} diff. | | |
-| Source conflicts with {0} diff. | | |
-| Tags conflict with {0} diff. | | |
-| Title conflicts with {0} diff. | | |
-| Unicode artist conflicts with {0} diff. | | |
-| Unicode title conflicts with {0} diff. | | |
-| This mapset cannot have an Insane diff. without a Hard diff. | | |
-| Filesize of the mapset exceeds 10MB without video. | | |
-| Filesize of the mapset exceeds 24MB with video. | | |
-| This mapset is missing diff: {0} | | |
-| This mapset needs at least 2 Catch the Beat diffs. | Nur bei osu!catch | |
-| This mapset needs at least 1 Easy/Normal diff. | | |
-| This mapset needs at least 2 osu!mania diffs. | nur bei osu!mania | |
-| This mapset needs at least 2 standard diffs. | Nur bei osu!std | |
-| This mapset needs at least 2 Taiko diffs. | Nur bei osu!Taiko | |
-| Uninherited timing points conflict with {0} diff. | | | |
+| Nachricht                                                    | Erklärung         | Lösung |
+| ------------------------------------------------------------ | ----------------- | ------ |
+| Artist conflicts with {0} diff.                              |                   |        |
+| Audio file conflicts with {0} diff.                          |                   |        |
+| Countdown conflicts with {0} diff.                           |                   |        |
+| Audio lead-in conflicts with {0} diff.                       |                   |        |
+| Letterbox in breaks conflicts with {0} diff.                 |                   |        |
+| Audio preview time conflicts with {0} diff.                  |                   |        |
+| Source conflicts with {0} diff.                              |                   |        |
+| Tags conflict with {0} diff.                                 |                   |        |
+| Title conflicts with {0} diff.                               |                   |        |
+| Unicode artist conflicts with {0} diff.                      |                   |        |
+| Unicode title conflicts with {0} diff.                       |                   |        |
+| This mapset cannot have an Insane diff. without a Hard diff. |                   |        |
+| Filesize of the mapset exceeds 10MB without video.           |                   |        |
+| Filesize of the mapset exceeds 24MB with video.              |                   |        |
+| This mapset is missing diff: {0}                             |                   |        |
+| This mapset needs at least 2 Catch the Beat diffs.           | Nur bei osu!catch |        |
+| This mapset needs at least 1 Easy/Normal diff.               |                   |        |
+| This mapset needs at least 2 osu!mania diffs.                | nur bei osu!mania |        |
+| This mapset needs at least 2 standard diffs.                 | Nur bei osu!std   |        |
+| This mapset needs at least 2 Taiko diffs.                    | Nur bei osu!Taiko |        |
+| Uninherited timing points conflict with {0} diff.            |                   |        | |
