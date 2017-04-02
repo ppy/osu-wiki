@@ -1,7 +1,7 @@
 AiMod
 ========
 
-**AiMod** is a tool built in the osu! Beatmap Editor, you can open it by pressing **[Control] + [Shift] + [A]** or by clicking **File** » **Open AiMod**. AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](/wiki/Glossary) to mod your beatmap.
+**AiMod** is a tool built in the osu! Beatmap Editor, you can open it by pressing `Control` + `Shift` + `A` or by clicking **File** » **Open AiMod**. AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](/wiki/Glossary) to mod your beatmap.
 
 ![AiMod](Aimod.png "AiMod is usually your first modder")
 
