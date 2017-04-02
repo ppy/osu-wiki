@@ -70,7 +70,7 @@ Skinning/Hitsound Guides
 -   [Making Properly Centered Spinners](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [What are Custom Sample Overrides?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
 -   [Custom Hitsound Library](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Adding custom hitsounds](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Adding custom hitsounds](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Storyboarding Guides
 --------------------

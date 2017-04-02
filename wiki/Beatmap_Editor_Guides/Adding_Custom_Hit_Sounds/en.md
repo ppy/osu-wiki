@@ -7,9 +7,9 @@ Getting the custom hitsounds
 ------------------------------
 
 You'll first need some custom hitsounds! You can either:
-- You can get them from the [[Custom Hitsound Library]],
+- You can get them from the [Custom Hitsound Library](../Custom_Hitsound_Library/),
 - or make your own
-  - if you do make your own, try to keep the format as `*.wav` - as it is best for looping [Citation Needed].
+  - if you do make your own, try to keep the format as `.wav` - as it is best for looping.
 
 Once you get them, move them into the song folder itself. If you don't know where your song folder is located, follow these directions:
 1. Open osu!
@@ -29,7 +29,7 @@ You then decide if you want it to be the normal hit, clap, whistle or finish.
 
 ### Example 1
 
-So then you name the file (let's say the Soft clap) "soft-hitclap.mp3".
+So then you name the file (let's say the Soft clap) `soft-hitclap.mp3`.
 
 Multiple hitsounds with the same name
 ---------------------------------------
@@ -38,7 +38,7 @@ If you want more variety and need more options for clap and all, you just add a 
 
 ### Example 2
 
-Like "normal-hitclap2.mp3" or like "soft-hitfinish3.mp3"
+Like `normal-hitclap2.mp3` or like `soft-hitfinish3.mp3`
 
 Don't forget to go to the timing setup and change the hitsound choice to custom, and to the specific number
 

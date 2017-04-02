@@ -73,7 +73,7 @@ FAQ и критерии ранкинга
 -   [Как отцентрировать спиннер?](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Что такое нестандартные хитсаунды?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
 -   [Библиотека нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Добавление нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Добавление нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Сторибординг
 ------------

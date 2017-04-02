@@ -68,7 +68,7 @@ Poradniki dotyczące skinowania/hitsoundów
 -   [Jak poprawnie tworzyć spinner?](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Omówienie Własnych Paczek Dźwięków](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
 -   [Niestandardowa Biblioteka Dźwięków](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Jak dodać niestandardowe dźwięki?](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Jak dodać niestandardowe dźwięki?](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Poradniki dotyczące Storyboardów
 --------------------------------
