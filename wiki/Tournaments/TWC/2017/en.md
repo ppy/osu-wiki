@@ -104,7 +104,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 19.00 (Fri.) UTC -7 | 19.00 (Fri.) UTC -7 | ³ |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 19.00 (Sat.) UTC -7 | ³ |
 | Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ³ |
 | Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
 | Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
