@@ -40,8 +40,9 @@
 [Git Extensions]: https://gitextensions.github.io/ "Git Extensions"
 
 # 如何在 osu!wiki 中作出自己的贡献
-感谢您对于 osu!wiki 的支持
-也许你已经发现，所有内容都已经移动到[Github][GitHub osu-wiki]. 
+感谢您对于osu!wiki 的支持。
+
+也许你已经发现，所有内容都已经移动到[Github][GitHub osu-wiki]。
  
 如果您想要编辑 osu!wiki，请时刻牢记以下几点。
  
@@ -72,7 +73,7 @@
 - 一个文本编辑器。
   - 最好可以着重显示 Markdown 语法。
     - 我们通常使用微软的 [Visual Studio Code][VSC]，Adobe 的  [Brackets][Brackets]，GitHub 的 [Atom][Atom].
-- 一个**支持GFM**的Markdown预览器。
+- 一个**支持__GFM__**的Markdown预览器。
   - 我们使用 [Shiba][Shiba] 或者Visual Studio Code / Atom 的内置GFM预览器。
 - 关于 VCS(Version control system，版本控制系统)的基本知识，特别注意[Git][Git]的有关知识。
   - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
