@@ -51,7 +51,7 @@
 
 完整的参考与帮助请点击[GitHub 帮助][GitHub Help].
 
-编辑页面时的风格指南请点击[Article Style Guide(文档风格指南)][ASG]
+编辑页面时的风格指南请点击[Article Style Guide(文章风格指导)][ASG]
 
 如果有任何疑问，请前往[osu!dev Discord Server][osu!dev Discord], 在 ``#osu-wiki`` 板块提问。
 
@@ -76,5 +76,5 @@
 - 一个**支持__GFM__**的Markdown预览器。
   - 我们通常使用 [Shiba][Shiba] 或者Visual Studio Code / Atom 的内置GFM预览器。
 - 关于 VCS(Version control system，版本控制系统)的基本知识，特别注意[Git][Git]的有关知识。
-  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
-  - Some editors (like Visual Studio Code) may provide a Git interface.
+  - 如果您在使用一些Git的CLI版本中遇到了困难 （这份指导的后文会有解释），你可以寻找并自学有图形操作界面版本的 Git 或者使用类似 [Git Extensions][Git Extensions]的程序。
+  - Some editors (like Visual Studio Code) may provide a Git interface.
