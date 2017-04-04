@@ -6,7 +6,7 @@
 
 所有文章应该语言通顺,拼写正确,并提供准确的信息.
 必须明确一点:审稿人(Reviewer)可能会在你的PR(Pull Request)中指出你的错误,或是提供建议.
-一个好的osu!wiki作者应该阅读这些建议(Review)以提高文章的整体质量保证读者能得到最佳的体验
+一个好的osu!wiki作者应该阅读这些建议(Review)以提高文章的整体质量以保证读者能得到最佳的体验
 
 ## GitHub Markdown方言(GitHub Flavored Markdown)
 
@@ -19,9 +19,7 @@ GFM的记号很少以至于**任何人**都能在一天之内学会!
 ### 语法
 
 如果你需要GFM语法帮助,参考
-[markdown-cheatsheet-online.pdf(英文)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf),[Markdown Cheatsheet(英文)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)或
-[Markdown 语法说明(中文)]
-(http://wowubuntu.com/markdown/index.html)
+[markdown-cheatsheet-online.pdf(英文)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf),[Markdown Cheatsheet(英文)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)或[Markdown 语法说明(中文)](http://wowubuntu.com/markdown/index.html)
 
 ## 文件名
 
@@ -37,18 +35,18 @@ osu-wiki仓库(repository)的所有文章均使用两个字母的语言代码.
 
 翻译的文章必须放在适当的英文文件夹下.
 
-关于两个字母的语言代码,参考[ISO 639-1代码表](https://zh.wikipedia.org/wiki/ISO_639-1%E4%BB%A3%E7%A0%81%E8%A1%A8) (表格中的639-1列).
+关于两个字母的语言代码,参见[ISO 639-1代码表](https://zh.wikipedia.org/wiki/ISO_639-1%E4%BB%A3%E7%A0%81%E8%A1%A8) (表格中的639-1列).
 
 ### 语言标签
 
-语言标签是某种语言的变体 (比如中文是一个语系,繁体中文,粤语都是中文的变体).
+语言标签是某种语言的变体(比如中文是一个语系,繁体中文,粤语等都是中文的变体).
 
 所有的文件都**不应该**使用语言标签.
 举例,使用:
 
 - `zh.md` 而不是:
   - `zh-cn.md`,
-  - `zh-tw.md`, or
+  - `zh-tw.md`,或
   - `zh-hk.md`
 
 这只是为了保持一致性和简洁性,同时遵循ISO 639-1代码表.
@@ -56,7 +54,7 @@ osu-wiki仓库(repository)的所有文章均使用两个字母的语言代码.
 ## 标题
 
 所有文章**必须有**一个翻译好的**一级标题**.
-这个一级标题必须放在文章的开头除非你使用了参考式链接.
+这个一级标题必须放在文章的开头除非你使用了参考式链接的链接定义.
 如果你使用了参考式链接,那么把标题紧跟在它的下面.
 
 接下来的章节必须使用二级或更高的标题(但是最高只能用到五级标题).
@@ -102,7 +100,7 @@ Markdown提供了两种风格来书写一、二级标题:
 
 #### 无法翻译的标题
 
-出于某些原因使得标题**无法**被翻译时,使用它的英文名称+(中文)
+出于某些原因使得标题**无法**被翻译时,使用它的英文名称+(语言代码)
 举例:
 
 ```
@@ -125,7 +123,7 @@ Markdown提供了两种风格来书写一、二级标题:
 
 章节标题**不能**使用除标题文字以外其他的标记.
 
-章节标题中可以包含**小图标**,但是不能大于一个字符高(通常情况下一个字符高16像素).
+章节标题中可以包含**小图标**,但是不能高于一个字符(通常情况下一个字符高16像素).
 举例:
 
 ```
