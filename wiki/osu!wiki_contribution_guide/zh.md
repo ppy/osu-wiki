@@ -55,7 +55,7 @@
 
 如果有任何疑问，请前往[osu!dev Discord Server][osu!dev Discord], 在 ``#osu-wiki`` 板块提问。
 
-全页的阅读时间大约1小时。
+全文的阅读时间大约1小时。
 
 ## 准备
 
@@ -64,17 +64,17 @@
 - 一个 [GitHub 账号][GH account]。
 - 懂得 [Markdown][MD] 与 [GitHub-Flavoured Markdown(GFM)][GFM]。
 - [理解 Git 的工作流 (特色分支工作流)][GH Help feature branch]。
- - [一份官方关于分支的可视化解释][GH Guide feature branch]。
+  - [一份官方关于分支的可视化解释][GH Guide feature branch]。
 - 具有英语语言能力。为了格式一致性，最好使用英式英语。
- - 所有不与页面内容相关的文本 [包括注释消息(commit messages)，PR，文件名等] **必须** 使用英语。
+  - 所有不与页面内容相关的文本 [包括注释消息(commit messages)，PR，文件名等] **必须** 使用英语。
 
 如果你想要离线编辑，你需要：
 
 - 一个文本编辑器。
- - 最好可以着重显示 Markdown 语法。
-  - 我们通常使用微软的 [Visual Studio Code][VSC]，Adobe 的  [Brackets][Brackets]，GitHub 的 [Atom][Atom].
+  - 最好可以着重显示 Markdown 语法。
+    - 我们通常使用微软的 [Visual Studio Code][VSC]，Adobe 的 [Brackets][Brackets]，GitHub 的 [Atom][Atom].
 - 一个**支持__GFM__**的Markdown预览器。
- - 我们通常使用 [Shiba][Shiba] 或者Visual Studio Code / Atom 的内置GFM预览器。
+  - 我们通常使用 [Shiba][Shiba] 或者Visual Studio Code / Atom 的内置GFM预览器。
 - 关于 VCS(Version control system，版本控制系统)的基本知识，特别注意[Git][Git]的有关知识。
- - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
+  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
   - Some editors (like Visual Studio Code) may provide a Git interface.
