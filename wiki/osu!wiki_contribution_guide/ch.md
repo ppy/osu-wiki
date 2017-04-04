@@ -1,3 +1,44 @@
+<!-- Internal -->
+[ASG]: /wiki/Article_Style_Guide "Article Style Guide"
+[GitHub osu-wiki]: https://github.com/ppy/osu-wiki "osu-wiki in GitHub"
+[GH Issue]: https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page"
+
+<!-- External -->
+[osu!dev Discord]: https://discord.gg/ppy "osu!dev in Discord"
+[MD]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"
+[ISO 639-1]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "List of ISO 639-1 codes in Wikipedia"
+[E325 error]: https://stackoverflow.com/questions/14513349/e325-attention-found-a-swap-file-by-the-name-git-commit-editmsg-swp "E325 question in Stack Overflow"
+[Matt Liu image source]: http://www.slideshare.net/MatthewKLiu/git-branch-management "Git branch management by Matt Liu"
+[Git set default editor]: https://swcarpentry.github.io/git-novice/02-setup/ "swcarpentry on setting up the default editor"
+[Githowto resolve conflicts]: https://githowto.com/resolving_conflicts "Githowto's 30. Resolving Conflicts"
+[git mergetool help by karenyyng]: https://gist.github.com/karenyyng/f19ff75c60f18b4b8149 "karenyyng's git mergetool guide"
+[Ruslan Osipov's vimdiff tutorial]: http://www.rosipov.com/blog/use-vimdiff-as-git-mergetool/ "Ruslan Osipov's vimdiff tutorial"
+[GH Blog GPG]: https://github.com/blog/2144-gpg-signature-verification "GitHub blog on GPG signature verification"
+[GPG guide by Duncan]: http://mrexodia.cf/guide/2016/05/30/Github-Gpg "mrexodia blog post on GitHub GPG by Duncan"
+
+<!-- GH Help -->
+[GitHub Help]: https://help.github.com/ "GitHub Help"
+[GH account]: https://help.github.com/articles/signing-up-for-a-new-github-account/ "GitHub Help in Signing up an account"
+[GFM]: https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub"
+[GH Help feature branch]: https://help.github.com/articles/what-is-a-good-git-workflow/ "GitHub Help on Git workflow"
+[GH Guide feature branch]: https://guides.github.com/introduction/flow/ "Interactive visual Git workflow"
+[GH Help Git setup]: https://help.github.com/articles/set-up-git/ "GitHub Help in Setting up Git"
+[GH Help fork]: https://help.github.com/articles/fork-a-repo/ "GitHub Help on fork a repo"
+[GH Help cache git password]: https://help.github.com/articles/caching-your-github-password-in-git/ "GitHub help on Caching GitHub Password in Git"
+[GH Help webbranch view]: https://help.github.com/articles/viewing-branches-in-your-repository/ "GitHub Help in viewing branches in your repository"
+[GH Help webmerge conflicts]: https://help.github.com/articles/about-merge-conflicts/ "GitHub Help about merge conflicts"
+[GH Help solve webmerge conflicts]: https://help.github.com/articles/resolving-a-merge-conflict-on-github/ "GitHub Help on resolving merge conflicts"
+[GH Help solve git merge conflicts]: https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/ "GitHub Help on resolving a merge conflict using the command line"
+[GH Help GPG]: https://help.github.com/articles/signing-commits-with-gpg/ "GitHub Help on signing commits with GPG"
+
+<!-- Programs and Extensions -->
+[VSC]: https://code.visualstudio.com "Visual Studio Code"
+[Brackets]: http://brackets.io/ "Brackets"
+[Atom]: https://atom.io "Atom"
+[Shiba]: https://github.com/rhysd/Shiba "Shiba"
+[Git]: https://git-scm.com/ "Git"
+[Git Extensions]: https://gitextensions.github.io/ "Git Extensions"
+
 # 如何在 osu!wiki 中作出自己的贡献
 感谢您对于 osu!wiki 的支持
 也许你已经发现，所有内容都已经移动到[Github][GitHub osu-wiki]. 
