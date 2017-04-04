@@ -134,17 +134,6 @@ Markdown提供了两种风格来书写一、二级标题:
 
 ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
 
-## Grammar
-
-In the case where variants of English and the British English spellings conflict, prefer the British Engish spelling.
-
-For example use:
-
-- `colour` instead of `color`
-- `centre` instead of `center`
-- `skilful` instead of `skillful`
-- `analyse` instead of `analyze`
-
 ### osu!
 
 The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
@@ -179,10 +168,6 @@ When listing items of 3 or more in a sentence, use the serial comma.
 - The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
 ### Language Names
-
-When referring to the name of a language, capitalize the first letter of that language.
-
-- The `#spanish` chat channel are for those who speak **Spanish**.
 
 #### Chat Channels
 
@@ -244,20 +229,6 @@ Gameplay elements should **never** be be capitalised.
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 - The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
-
-### Contractions
-
-Contractions are a shortened form of a word or group of words.
-In the osu!wiki, contractions are **heavily** discouraged.
-This is to keep a formal tone in the osu!wiki.
-
-For example, use:
-
-- `Do not` instead of `Don't`
-- `You will` instead of `You'll`
-- `It is` instead of `It's`
-
-Know that the possessive form of a word (e.g. `the player's` or `the skinner's`) are the expection (as these are not contractions).
 
 ## Point of View
 
