@@ -25,7 +25,7 @@ Aturan Seluruh Forum
 8.  Iklan dan link referral secara eksplisit dilarang. Hanya saja, jangan mempostingnya, dalam kurun waktu yang lama.
 9.  Memuat konten (video youtube, applet flash, dll) tidak diperbolehkan.
 
-Peraturan Forum [BSS](/wiki/Glossary)
+Peraturan Forum BSS
 ----------------------------------------
 
 Aturan-aturan ini berlaku secara ketat dengan sifat unik dari [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System/Sistem Pengajuan Beatmap). Postingan ini dibuat melalui klien osu! yang ketika sebuah beatmap disampaikan melalui [editor](/wiki/Beatmap_Editor).

@@ -25,7 +25,7 @@ osu! 규칙
 8.  광고나 위탁 링크들은 명확하게 금지되어 있습니다. 해당 내용은 쓰지 마십시오.
 9.  자동적으로 재생되는 콘텐츠(유튜브 비디오나 자바 관련 플래시 등)는 허용되지 않습니다.
 
-[BSS](/wiki/Glossary) 포럼 규칙
+BSS 포럼 규칙
 -------------------------------
 
 이 규정들은 특히 [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) 스레드에 엄격하게 적용됩니다. 이러한 스레드는 [editor를](/wiki/Beatmap_Editor) 통해 비트맵을 제출할 때 osu! 클라이언트에 의해 생성됩니다.
