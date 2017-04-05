@@ -1,20 +1,20 @@
 Eigene Hinsounds hinzufügen
 ===========================
 
-Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt* von: neonat](https://osu.ppy.sh/forum/p/3215699)
+Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt.* von: neonat](https://osu.ppy.sh/forum/p/3215699)
 
 Eigene Hitsounds
 ---------------------------
 
 Als erstes werden einige Hitsounds benötigt.
 
--   Man kann sie aus der [Custom Hitsound Library](Custom_Hitsound_Library "wikilink") bekommen.
--   Oder die Hitsounds werden selbst erstellt!
+-   Man kann sie aus der [Spieler-Hitsound-Bibliothek](Custom_Hitsound_Library "wikilink") bekommen.
+-   Oder man erstellt Hitsounds selber.
 
-Selber die Hitsounds in den Song Ordner einfügen
+Manuell die Hitsounds in den Song Ordner einfügen
 -------------------------------------
 
-Wenn nicht gewusst wird, wo man den Song Ordner findet, können diese Schritte befolgt werden:
+Der Song Ordner kann mit folgenen Schritten gefunden werden:
 
 1.  Öffne osu!
 2.  Klicke auf Edit.
@@ -26,7 +26,7 @@ Wenn nicht gewusst wird, wo man den Song Ordner findet, können diese Schritte b
 Die Wahl welche Art von Ton der Hitsound sein soll
 ----------------------------------
 
- Die Namensgebung ist für **finish**, **whistle**, **clap** und **normal hit** egal.
+Die Namensgebung ist für **finish**, **whistle**, **clap** und **normal hit** egal.
 
 Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateiname mit **soft**, **normal** oder **drum** beginnen.
 
@@ -45,6 +45,6 @@ Wenn mehr Abwechslung gebraucht oder mehr Optionen für Clap und so weiter benö
 
 Wie **normal-hitclap2**.mp3 oder wie **soft-hitfinish3**.mp3
 
-Man sollte nicht vergessen, dass im *Timing Setup* die Hitsound Choice auf Custom mit der jeweiligen Nummer gestellt werden muss.
+Man sollte nicht vergessen, dass im *Timing Setup* der Hitsound auf Custom mit der jeweiligen Nummer gestellt werden muss.
 
 ![](ACH_02.png "ACH_02.png")
