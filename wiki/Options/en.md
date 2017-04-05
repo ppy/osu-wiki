@@ -65,7 +65,7 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 | Name                      | Effect                                                                                             |
 |---------------------------|----------------------------------------------------------------------------------------------------|
-| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay) (gameplay) |
+| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay)            |
 | Show FPS Counter          | Display the FPS counter at the bottom-right corner of the screen.                                  |
 | Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                                      |
 | Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                                   |
