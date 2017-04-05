@@ -81,3 +81,19 @@
 - 关于 VCS(Version Control System，版本控制系统)的基本知识，特别注意[Git][Git]的有关知识。
   - 如果您在使用一些Git的CLI版本中遇到了困难 （这份指导的后文会有解释），您可以寻找并自学有图形操作界面版本的Git 或者使用类似 [Git Extensions][Git Extensions]的程序。
   - 一些编辑器 (例如 Visual Studio Code) 提供Git交互界面。
+
+## 复刻 osu-wiki 内容库
+
+如果您想编辑osu-wiki的数据库，您首先必须创建一所有文件的拷贝。这被称为Forking（复刻）。
+
+前往 [osu-wiki repository][GitHub osu-wiki].
+
+您应该会看到这样的页面：
+
+![osu-wiki Repository Snapshot](./img/Contribute_wikirepo.jpg "Snapshot of the osu-wiki repository")
+
+点击右上角的 Fork 按钮，前往 Fork 到的位置。
+
+![Fork prompt dialogue](./img/Contribute_forkprompt.jpg "Fork prompt dialogue")
+
+点击你的个人档案，您将前往 Fork 的位置。
