@@ -19,25 +19,25 @@ To find the build of your osu!, scroll down to the lowest part of the sidebar (o
 
 | Name              | Effect                                     |
 |-------------------|--------------------------------------------|
-| Username          | Put your registered osu! username here.    |
+| Username          | Enter a registered osu! username here.     |
 | Password          | Password for the registered osu! username. |
-| Remember Username | Have the client remember your username.    |
-| Remember Password | Have the client remember your password.    |
+| Remember Username | Have the client remember the username.     |
+| Remember Password | Have the client remember the password.     |
 
 Click on **Sign in** to to log-in or click on **Create an account** if you do not have the account. Once you have successfully logged-in, your username will display. Clicking on it will display the following:
 
-| Name          | Effect                                 |
-|---------------|----------------------------------------|
-| View Profile  | View your profile on the osu! website. |
-| Sign Out      | Sign out of your account.              |
-| Change Avatar | Change your user's profile picture.    |
-| Close         | Close the dialog.                      |
+| Name          | Effect                            |
+|---------------|-----------------------------------|
+| View Profile  | View profile on the osu! website. |
+| Sign Out      | Sign out of account.              |
+| Change Avatar | Change user's profile picture.    |
+| Close         | Close the dialog.                 |
 
 ### Language
 
 | Name                                  | Effect                                                                  |
 |---------------------------------------|-------------------------------------------------------------------------|
-| Select language                       | Select your preferred language.                                         |
+| Select language                       | Select preferred language.                                              |
 | Prefer metadata in original language  | Beatmaps will display their "original" untranslated metadata.           |
 | Use alternative font for chat display | Use old font (Tahoma) rather than current font (Aller) in Chat Console. |
 
@@ -57,19 +57,19 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 | Name               | Effect                                                    |
 |--------------------|-----------------------------------------------------------|
 | osu! is up-to-date | Clicking this will force osu! to check for updates again. |
-| Open osu! folder   | Open osu! folder...                                       |
+| Open osu! folder   | Open local osu! folder (contains skins, beatmaps, etc).   |
 
 ## Graphics section
 
 ### Renderer
 
-| Name                      | Effect                                                                                             |
-|---------------------------|----------------------------------------------------------------------------------------------------|
-| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay)            |
-| Show FPS Counter          | Display the FPS counter at the bottom-right corner of the screen.                                  |
-| Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                                      |
-| Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                                   |
-| Detect performance issues | osu! will warn you if another program on your computer may decrease performance.                   |
+| Name                      | Effect                                                                                   |
+|---------------------------|------------------------------------------------------------------------------------------|
+| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay). |
+| Show FPS Counter          | Display the FPS counter at the bottom-right corner of the screen.                        |
+| Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                            |
+| Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                         |
+| Detect performance issues | osu! will warn you if another program on your computer may decrease performance.         |
 
 ### Layout
 
@@ -101,7 +101,7 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 | Snow             | Show "snow" effect on the main menu (enabled by default during the holiday season).                                                           |
 | Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                  |
 | Menu tips        | Show a tip every time you visit the main menu.                                                                                                |
-| Interface voices | osu! will greet you when you start and quit.                                                                                                  |
+| Interface voices | "Welcome to osu!" and "See you next time!" upon opening/closing the game, respectively.                                                       |
 | osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again unless you restart osu!. |
 
 ### Song Select
@@ -135,9 +135,9 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 ## Audio section
 
 ### Devices
-| Name          | Effect                                         |
-|---------------|------------------------------------------------|
-| Output device | Select your preferred output device for audio. |
+| Name          | Effect                                        |
+|---------------|-----------------------------------------------|
+| Output device | Select the preferred output device for audio. |
 
 ### Volume
 
