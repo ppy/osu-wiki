@@ -27,7 +27,7 @@ Forum Κανόνες
 8.  Οι διαφημίσεις και οι σύνδεσμοι (links) με σκοπό την διαφήμιση απαγορεύονται ρητά.
 9.  Περιεχόμενα που φορτώνουν αυτόματα (youtube βίντεο, εφαρμογές flash κ.λπ.) δεν επιτρέπονται.
 
-[BSS](/wiki/Glossary) Forum Κανόνες
+BSS Forum Κανόνες
 -----------------------------------
 
 Aυτοί οι κανόνες ισχύουν μόνο για τα [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) threads. Αυτά τα threads δημιουργούνται αυτόματα μέσω του osu! client όταν ένα map υποβάλλεται μέσω του [editor](/wiki/Beatmap_Editor).
