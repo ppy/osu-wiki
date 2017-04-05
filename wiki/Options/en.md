@@ -220,8 +220,7 @@ Note: Your current playing song on your jukebox will be used.
 
 | Name                         | Effect                                                                                                           |
 |------------------------------|------------------------------------------------------------------------------------------------------------------|
-| OS TabletPC support          | Enable if your use a graphic tablet or tablet PC and your clicks aren't being handled correctly.                 |
-| Joystick support             | (osu!mania only) Enable this if you use a joystick or controller to play osu!mania.                              |
+| OS TabletPC support          | Improves compatibility with graphic tablets and tablet PCs.                                                      |
 | Wiimote/TaTaCon Drum support | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via bluetooth before enabling. |
 
 ## Editor section
