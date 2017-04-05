@@ -31,7 +31,7 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 | View Profile  | View your profile on the osu! website. |
 | Sign Out      | Sign out of your account.              |
 | Change Avatar | Change your user's profile picture.    |
-| Close         | Close.                                 |
+| Close         | Close the dialog.                      |
 
 ### Language
 
@@ -45,12 +45,12 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 #### Release Stream
 
-| Name                        | Effect                                                         |
-|-----------------------------|----------------------------------------------------------------|
-| Stable (Latest)             | Public build.                                                  |
-| Stable (Fallback)           | Older public build in case any major bugs come up.             |
-| Beta                        | Get new features early, but guaranteed to have bugs.           |
-| Cutting Edge (Experimental) | Get new features the instant they're complete, lots more bugs. |
+| Name                        | Effect                                                                           |
+|-----------------------------|----------------------------------------------------------------------------------|
+| Stable (Latest)             | Public release build.                                                            |
+| Stable (Fallback)           | "Backup" public build for those experiencing issues.                             |
+| Beta                        | Development version - gets new features early, but buggier.                      |
+| Cutting Edge (Experimental) | Development version - gets new features even earlier, but significantly buggier. |
 
 #### Other
 
@@ -63,23 +63,23 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 ### Renderer
 
-| Name                      | Effect                                                                           |
-|---------------------------|----------------------------------------------------------------------------------|
-| Frame Limiter             | VSync<br>120fps (Default)<br>240fps<br>Unlimited (gameplay)                      |
-| Show FPS Counter          | Show FPS counter at the bottom-right corner of the screen.                       |
-| Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                    |
-| Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                 |
-| Detect performance issues | osu! will warn you if another program on your computer may decrease performance. |
+| Name                      | Effect                                                                                             |
+|---------------------------|----------------------------------------------------------------------------------------------------|
+| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay) (gameplay) |
+| Show FPS Counter          | Display the FPS counter at the bottom-right corner of the screen.                                  |
+| Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                                      |
+| Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                                   |
+| Detect performance issues | osu! will warn you if another program on your computer may decrease performance.                   |
 
 ### Layout
 
-| Name              | Effect                                                                                |
-|-----------------  |---------------------------------------------------------------------------------------|
-| Resolution        | Change the in-game screen resolution.                                                 |
-| Fullscreen mode   | Run osu! in fullscreen (decreases input latency).                                     |
-| Letterboxing      | Run osu! in fullscreen mode, but confine the game to a smaller portion of the screen. | 
-| Horizontal offset | Adjust horizontal offset for letterboxing mode.                                       |
-| Vertical offset   | Adjust vertical offset for letterboxing mode.                                         |
+| Name              | Effect                                                                                   |
+|-----------------  |------------------------------------------------------------------------------------------|
+| Resolution        | Change the in-game screen resolution.                                                    |
+| Fullscreen mode   | Run osu! in fullscreen (decreases input latency).                                        |
+| Letterboxing      | Run osu! in fullscreen mode, but confine the game to a smaller portion of the screen.    | 
+| Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if letterboxing is enabled. |
+| Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if letterboxing is enabled.   |
 
 ### Detail Settings
 
@@ -92,17 +92,17 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 | Hit Lighting      | A subtle glow behind each hit explosion. Does not disable lighting during Kial Time.          |
 | Shader Effects    | Graphically speaking, concert-type effects.                                                   |
 | Softening filter  | Adjust "shader effects" to be less flashy. "Shader effects" must also be enabled.             |
-| Screenshot Format | PNG (Lossless)<br>JPEG (web-friendly)(Default)                                                |
+| Screenshot Format | Set the screenshot file format to PNG (Lossless) or JPEG (web-friendly) (Default)             |
 
 ### Main Menu
 
-| Name             | Effect                                                                                                       |
-|------------------|--------------------------------------------------------------------------------------------------------------|
-| Snow             | Show "snow" effect on the main menu (enabled by default during the holiday season).                          |
-| Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                 |
-| Menu tips        | Show a tip every time you visit the main menu.                                                               |
-| Interface voices | osu! will greet you when you start and quit.                                                                 |
-| osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Entering song select will override this. |
+| Name             | Effect                                                                                                                                        |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Snow             | Show "snow" effect on the main menu (enabled by default during the holiday season).                                                           |
+| Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                  |
+| Menu tips        | Show a tip every time you visit the main menu.                                                                                                |
+| Interface voices | osu! will greet you when you start and quit.                                                                                                  |
+| osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again unless you restart osu!. |
 
 ### Song Select
 
@@ -114,16 +114,16 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 ### General
 
-| Name                                          | Effect                                                                         |
-|-----------------------------------------------|--------------------------------------------------------------------------------|
-| Background Dim                                | Adjust the level of dimming applied to the background while playing a beatmap. |
-| Progress Display                              | Configure where and how the song progress bar is displayed.                    |
-| Score Meter Type                              | Configure accuracy meter appearing below the beatmap.                          |
-| Score Meter Size                              | Configure size of score meter.                                                 |
-| Always show key overlay                       | Show the key status overlay even while playing normally.                       |
-| Show approach circle on first "hidden" object | When playing with the "hidden" mod, un-hide the first note's approach circle.  |
-| Scale osu!mania scroll speed with BPM         | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap.     |
-| Remember osu!mania scroll speed per-beatmap   | Remember the scroll speed you personally set per-beatmap.                      |
+| Name                                          | Effect                                                                                                                           |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Background Dim                                | Adjust the level of dimming applied to the background while playing a beatmap.                                                   |
+| Progress Display                              | Configure where and how the song progress bar is displayed. Using a pie graph will also display the time before the song starts. |
+| Score Meter Type                              | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use "colour".                              |
+| Score Meter Size                              | Configure size of score meter.                                                                                                   |
+| Always show key overlay                       | Show the key status overlay even while playing normally.                                                                         |
+| Show approach circle on first "hidden" object | When playing with the "hidden" mod, un-hide the first note's approach circle.                                                    |
+| Scale osu!mania scroll speed with BPM         | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap.                                                       |
+| Remember osu!mania scroll speed per-beatmap   | Remember the scroll speed you personally set per-beatmap.                                                                        |
 
 ### Song Select
 
@@ -141,18 +141,20 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 ### Volume
 
-| Name                     | Effect                                                                                                                         |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Volume Control           | Master: Controls all aspects<br>Music: Affects only the music<br>Effect: Affects things such as hit sounds and in-game sounds. |
-| Ignore beatmap hitsounds | Favor hitsounds supplied by the current skin, rather than a beatmap's pack-in hitsounds.                                       |
+| Name                     | Effect                                                                                   |
+|--------------------------|------------------------------------------------------------------------------------------|
+| Master                   | Controls all aspects.                                                                    |
+| Music                    | Affects only the music.                                                                  |
+| Effect                   | Affects things such as hit sounds and in-game sounds.                                    |
+| Ignore beatmap hitsounds | Favor hitsounds supplied by the current skin, rather than a beatmap's pack-in hitsounds. |
 
 ### Universal Audio Offset
 
-***[Detailed calibration method.](Universal_Offset "wikilink")***
+_See also [Detailed calibration method](/wiki/Options/Universal_Offset)_
 
 If, in every single beatmap you play, you hear the sound effects out of sync with the song, you might need to adjust this value. Click and hold on the selector, then drag left or right. You can also place the cursor on the selector and move it using the left and right arrow keys. Continue adjusting until you find the position where the two different sounds are heard simultaneously. Alternatively, you can use _Run Offset Wizard_ for a more graphical representation of ticks.
 
-Unlike Local Song Offset (specific to that difficulty only) , this offset affects *every* beatmap you play. If you received an Online Offset, you can manually adjust it yourself for the difficulty you are playing using "Plus" (=/+) or "Minus" (-/\_) to increase/decrease the beatmap's offset by 5ms (holding alt while pressing Plus or Minus will allow you to change the offset by 1ms).
+Unlike Local Song Offset (specific to that difficulty only) , this offset affects *every* beatmap you play. If you received an Online Offset, you can manually adjust it yourself for the difficulty you are playing using `+` or `-` to increase/decrease the beatmap's offset by 5ms (holding `Alt` while pressing `+` or `-` will allow you to change the offset by 1ms).
 
 #### Offset Wizard
 
@@ -179,7 +181,7 @@ Note: Your current playing song on your jukebox will be used.
 | Export as .osk                           | Export your current skin as a .osk file.                                                       |
 | Ignore all beatmap skins                 | Favor the current skin over pack-in skins supplied by beatmaps.                                |
 | Use skin's sound samples                 | Use the custom sound effects of the currently selected skin.                                   |
-| Use Taiko skin for Taiko mode            | Always use the default skin for Taiko mode.                                                    |
+| Use Taiko skin for Taiko mode            | Use taiko-specific skin elements, if supplied by the active skin.                              |
 | Always use skin cursor                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                 |
 | Cursor Size                              | Adjust your cursor size.                                                                       |
 | Automatic Cursor Sizing                  | Automatically adjusts the cursor size based on the circle size of the current beatmap.         |
@@ -208,7 +210,7 @@ Note: Your current playing song on your jukebox will be used.
 | Name                                  | Effect                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------------|
 | Key Count                             | Normal settings for 1K ~ 9K, 5K ~ 9K Co-op                                                      |
-| Co-op Layout                          | Settings after applying co-op mod (currently apply to 1K ~ 9K. 10K ~ 18K is still in progress). |
+| Co-op Layout                          | Settings after applying co-op mod.                                                              |
 | Column Style (6K and 8K only)         | Adjust column style?                                                                            |
 | Bind alternate special keys           | (When using left/right column style) Bind the alternate special key.                            |
 | Vertically flip playfield (DDR style) | Move the judgement area and keynotes above the screen instead of below.                         |
@@ -258,14 +260,14 @@ Note: Your current playing song on your jukebox will be used.
 |------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Integrate with Yahoo! status display     | Your Yahoo! messenger will show the song you are currently playing or listening to.                     |
 | Integrate with MSN Live status display   | Your Windows Live Messenger will show the song you are currently playing or listening to.               |
-| Automatically start osu!direct downloads | (For osu!supporter only) When spectating or multiplaying, the beatmap will be downloaded automatically. |
-| Prefer no-video downloads                | (For osu!supporter only) osu!direct downloads will be confined to no-video versions of beatmaps.        |
+| Automatically start osu!direct downloads | (For [osu!supporter](/wiki/osu!supporter/) only) When spectating or multiplaying, the beatmap will be downloaded automatically. |
+| Prefer no-video downloads                | (For [osu!supporter](/wiki/osu!supporter/) only) osu!direct downloads will be confined to no-video versions of beatmaps.        |
 
 ### In-Game Chat
 
 | Name                                    | Effect                                             |
 |-----------------------------------------|----------------------------------------------------|
-| Filter offensive words                  | Replace offensive words with _*beep*_.             |
+| Filter offensive words                  | Replace offensive words with `*beep*`.             |
 | Filter foreign characters               | Removes any non-standard ASCII characters.         |
 | Log private messages                    | Private messages will be saved to the osu! folder. |
 | Block private messages from non-friends | Enabling this will confine PMs to friends only.    |
