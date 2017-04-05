@@ -176,14 +176,14 @@ Note: Your current playing song on your jukebox will be used.
 |------------------------------------------|------------------------------------------------------------------------------------------------|
 | Skin sample image                        | Shows various gameplay elements from the skin. Clicking will cycle through different elements. |
 | Current Skin                             | Change the current skin (default is at the top of the list).                                   |
-| Preview gameplay                         | Start a random song from your collection on autoplay so you can see the skin in action.        |
+| Preview gameplay                         | Starts a random beatmap on autoplay, to give a preview of what the skin looks like in action.  |
 | Open current skin folder                 | Open the directory the current skin is stored in.                                              |
-| Export as .osk                           | Export your current skin as a .osk file.                                                       |
+| Export as .osk                           | Export the current skin as a .osk file.                                                        |
 | Ignore all beatmap skins                 | Favor the current skin over pack-in skins supplied by beatmaps.                                |
 | Use skin's sound samples                 | Use the custom sound effects of the currently selected skin.                                   |
 | Use Taiko skin for Taiko mode            | Use taiko-specific skin elements, if supplied by the active skin.                              |
 | Always use skin cursor                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                 |
-| Cursor Size                              | Adjust your cursor size.                                                                       |
+| Cursor Size                              | Adjust the cursor size.                                                                        |
 | Automatic Cursor Sizing                  | Automatically adjusts the cursor size based on the circle size of the current beatmap.         |
 | Use combo colour as tint for slider ball | Slider balls will use the current combo color (usually transparent). Requires skin support.    |
 
@@ -193,7 +193,7 @@ Note: Your current playing song on your jukebox will be used.
 
 | Name                                      | Effect                                                                                       |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|
-| Sensitivity                               | Adjust the sensitivity of your mouse cursor.                                                 |
+| Sensitivity                               | Adjust the sensitivity of the mouse cursor.                                                 |
 | Raw Input                                 | Read mouse/tablet positional values directly from the hardware, without any post-processing. |
 | Map absolute raw input to the osu! window | Confine input devices with absolute positioning (e.g. pen tablets) to the osu! window only.  |
 | Confine mouse cursor                      | Prevent mouse cursor from leaving the osu! window.                                           |
@@ -231,7 +231,7 @@ Note: Your current playing song on your jukebox will be used.
 |-------------------------|-----------------------------------------------------------------------------|
 | Background Video        | Play the beatmap's background video while editing.                          |
 | Always use default skin | Use osu!'s default skin while editing, despite the current skin's settings. |
-| Disable undo states     | Sacrifice undo/redo to decrease usage load. Use at your own risk!           |
+| Disable undo states     | Disable undo/redo functions in the editor to improve performance.           |
 | Snaking sliders         | Enable snaking sliders while editing.                                       |
 | Hit animations          | Enable hit animations while editing.                                        |
 | Follow points           | Enable follow points while editing.                                         |
