@@ -136,30 +136,31 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 ### osu!
 
-The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
-If `osu!` is the last word in the sentence, add a period (or the appropriate punctuation marks) immediately following `osu!`.
-For example:
+游戏的名称`osu!`**不应该大写**,即使它在句子特开头.
+如果`osu!`在句子的结尾,在`osu!`的后面加一个句号.
+举例:
 
-- `The welcome.wav file says, "Welcome to osu!."`
+- `welcome.wav文件包含一句话："Welcome to osu!."`
 
-Any words following `osu!`, if not divided by a blank space, should not be capitalised.
-If they are divided by a blank space, they must be capitalised if they are proper nouns.
-For example:
+任何`osu!`之后的单词,如果没有用空格分隔,就不应该大写.
+如果被空格分隔,当它是名词的时候就应该大写.
+举例:
 
 - `osu! Tournaments`
 - `osu! Alumni`
 
-If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
-Other examples may include:
+如果`osu!`紧跟一个单词,这个单词应该小写(比如游戏模式).
+举例:
 
 - `osu!mania`
 - `osu!direct`
 - `osu!wiki`
 
-When refering to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
-For example:
+当提及到`osu!`时(游戏/框架),应该使用_斜体_。
+如果是游戏模式或者是其他osu!相关的服务，就不需要使用斜体
+举例:
 
-- `The language that _osu!_ is written in is C# using the .NET Framework.`
+- `_osu!_使用C#和.NET框架写成。`
 
 ### Serial comma
 
@@ -167,9 +168,9 @@ When listing items of 3 or more in a sentence, use the serial comma.
 
 - The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
 
-### Language Names
+### 语言名称
 
-#### Chat Channels
+#### 聊天频道
 
 The chat channel names are to use lowercase letters.
 For example:
