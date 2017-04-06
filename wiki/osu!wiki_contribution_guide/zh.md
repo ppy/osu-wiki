@@ -110,8 +110,9 @@
 
 ![Slide image about Feature-branch workflow](./img/Contribute_branchworkflow.jpg "Feature-branch workflow")
 
-_[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_
- 
+_[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_  
+
+ 
 事实上, 您可以在 ``master`` 分支内完成一切编辑，但是_这从长远来看_不是好习惯。
  
 这就是分支工作流的作用。
@@ -129,3 +130,30 @@ _[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu imag
 首先进入您个人文件库。（小技巧：在浏览器的地址栏中，把``https://github.com/ppy/osu-wiki`` 中的``ppy``改成自己的 Github 账号名称，回车就可以快速进入自己的库了） 
  
 系统默认每次进入都是 Master分支（总分支）。
+
+#### 创建新分支
+
+![Branch dropdown list](./img/Contribute_webbranch.jpg "Branch dropdown list")
+ 
+点击 ``Branch: master`` 按钮后，可能会显示几个分支，但其中唯一重要的就是``master`` 分支。
+ 
+在文本输入框中输入您的新分支名称。文本框中本来显示透明的【"Find or create a branch..（搜索或创建分支）"】。按下 Enter（回车）后前往分支名称的位置。如果本来没有这个分支名称，会新建一个基于``master``的分支。
+
+_注意：在新建分支时请确保您在 ``Branch: master`` 分支下，因为新建的分支总会继承您创建分支时所在的分支。_
+
+现在 ，重新查看下拉菜单，会出现 ``Branch: <您的分支名称>``。 您现在已经完全准备好，可以编辑文章了。
+
+#### 更新分支内容
+
+![GitHub Folder Preview](./img/Contribute_folderview.jpg "GitHub Folder Preview") 
+_注意: 每篇文章都被分类在子文件夹下，按照文章语言与多媒体的顺序排列。
+所有文章的格式都是 .md（markdown）文件。
+所有文章的标题都应该是两个代表文章语言的字母。
+语言对应的文章标题可以在[List of ISO 639-1 codes][ISO 639-1] 中找到。
+在新建文章时请遵守这些原则。中文文章的标题应为zh.md。_
+
+To edit a page, go to the folder of that page and select the language of the article.
+
+From here, you should see something like this:            
+
+![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
