@@ -67,7 +67,7 @@ This is simply to maintain consistency and simplicity while following the ISO 63
 
 ## Headings
 
-All articles **must have a level 1 heading** of a translated article's title.
+All articles **must have a level 1 heading** of a article's title.
 This level 1 heading is to be placed at the start of the article unless you have reference links placed there.
 If this happens, place this heading underneath the reference links.
 
