@@ -72,7 +72,7 @@ FAQ и критерии ранкинга
 -   [Как вырезать объект из простого фона?](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Как отцентрировать спиннер?](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Что такое нестандартные хитсаунды?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Библиотека нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
+-   [Библиотека нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
 -   [Добавление нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Сторибординг

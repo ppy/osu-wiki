@@ -67,7 +67,7 @@ Guides de skinning/hitsounds
 -   [Recadrer avec un fond simple](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Faire correctement des Spinners centrés](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Utilisation de bruitages différents](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Bibliothèque personnalisé de hitsounds](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
+-   [Bibliothèque personnalisé de hitsounds](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
 -   [Ajouter des hitsounds personnalisés](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Guides de storyboarding
