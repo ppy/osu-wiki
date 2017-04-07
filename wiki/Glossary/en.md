@@ -1130,6 +1130,15 @@ _osu!_ supports touchscreen functionality, but the hardware required is generall
 A computer whose entire screen functions as a touchscreen is called a Tablet PC.
 This is different than a tablet because a touchscreen has some kind of display while tablets do not.
 
+### TouHosu!
+
+_Feature Request fourm thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
+
+TouHosu! is a requested game mode that is the opposite of osu!catch.
+_Opposite_ because instead of catching objects, you avoid them.
+
+The name _TouHosu!_ is a combination of _TouHou_ (the shoot 'em up/bullet hell games) and _osu!_.
+
 ## U
 
 ### Universal Offset
