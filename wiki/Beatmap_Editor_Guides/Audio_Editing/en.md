@@ -128,3 +128,23 @@ Install and open mp3DirectCut, then follow these steps:
 7. Navigate to the location you want to save the file as.
    - You could rename the file too.
 8. Click `Save`.
+
+### Adjusting the Volume
+
+Install and open mp3DirectCut, then follow these steps:
+
+1. Open the `.mp3` file that you want to adjust.
+2. Press `Ctrl` + `A` to select all.
+3. Press `Ctrl` + `G`, or
+   1. Click `Edit`
+   2. Click `Gain...`
+4. Check the `Lock Sliders` checkbox.
+5. Take the left slider and lower it.
+   - The dB (decibels) you set it to will vary, just try various volumes until you get it right.
+6. When you are satisfied, press `OK`.
+7. Press `Ctrl` + `W`, or
+   1. Click `File`.
+   2. Click `Save complete audio...`.
+8. Navigate to the location you want to save the file as.
+   - You could rename the file too.
+9. Click `Save`.
