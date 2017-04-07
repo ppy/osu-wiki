@@ -86,27 +86,44 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Quarterfinals
+## Schedule: Finals - Week 1
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Saturday, 25. March 2017
+### Saturday, 8. April 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Spain | ![](/wiki/shared/flag/Es.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 19.00 UTC +1 | 18.00 UTC +0 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **19.30 UTC** | 16.30 UTC -3 | 16.30 UTC -3 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ² |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **4.00 UTC** | 12.00 UTC +8 | 13.00 UTC +9 | ¹ |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **17.00 UTC** | 19.00 UTC +2 | 10.00 UTC -7 | ² |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **19.00 UTC** | 12.00 UTC -7 | 21.00 UTC +2 | ³ |
 
-### Sunday, 26. March 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **0.30 UTC** | 17.30 (Sat.) UTC -7 | 10.30 UTC +10 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 11.00 UTC +9 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **11.30 UTC** | 19.30 UTC +8 | 13.30 UTC +2 |
-| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/My.gif) | Malaysia | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
-| France | ![](/wiki/shared/flag/Fr.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **14.30 UTC** | 16.30 UTC +2 | 21.30 UTC +7 |
+### Sunday, 9. April 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 19.00 (Sat.) UTC -7 | ³ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ³ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **10.00 UTC** | 18.00 UTC +8 | 12.00 UTC +2 | ³ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 | ⁴ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 21.00 UTC +9 | 20.00 UTC +8 | ⁴ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on ²Loser bracket encounter
+
+⁴ Encounter dependent on ¹Winner bracket encounter and ³second loser bracket encounter.
+
 
 ------------------------------------------------------------------------
 
@@ -225,9 +242,120 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard)](http://osu.ppy.sh/b/300030&m=1) | [Impossible Taiko] (Any) |
 
+### Semifinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [MDK - Press Start (uone)](http://osu.ppy.sh/b/1170749&m=1) | [START] |
+| [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (Backfire)](http://osu.ppy.sh/b/700831&m=1) | [Taikocalypse Act IX : The Desperation] |
+| [t+pazolite - to Luv me I *** for u. (OnosakiHito)](http://osu.ppy.sh/b/475086&m=1) | [Taikosaki 2013] |
+| [t+pazolite - Boogie Woogie Splatter Show (12358)](http://osu.ppy.sh/b/159367&m=1) | [Taiko] |
+| [xi - Aragami (Sayaka-)](http://osu.ppy.sh/b/525910&m=1) | [Inner Oni] |
+
+| Hidden | |
+| --- | :--- |
+| [Cardboard Box - ++ (Vulkin)](http://osu.ppy.sh/b/1213129&m=1) | [Grim's N+] |
+| [The Flashbulb - Lawn Wake III (tasuke912)](http://osu.ppy.sh/b/582645&m=1) | [Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [Chroma - sink to the deep sea world (Ulqui)](http://osu.ppy.sh/b/1248348&m=1) | [Overlapse Oni] |
+| [Tatsh - CYBER Sparks (Unmei Muma)](http://osu.ppy.sh/b/1233925&m=1) | [Akumu] |
+
+| DoubleTime | |
+| --- | :--- |
+| [cranky - R176 (taka1235)](http://osu.ppy.sh/b/121335&m=1) | [Pangko] |
+| [Presti - Veritas (Chromoxx)](http://osu.ppy.sh/b/1184169&m=1) | [Secret] |
+
+| FreeMod | |
+| --- | :--- |
+| [rider - Freja (Sayaka-)](http://osu.ppy.sh/b/1070630&m=1) | [Oni] (Any) |
+| [Thaehan - Bwa ! (Tasha)](http://osu.ppy.sh/b/1155334&m=1) | [Oni] (Any) |
+| [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Nofool)](http://osu.ppy.sh/b/836037&m=1) | [Ura Oni] (HDHR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [moro - Decadent Fantasy (TimmyAkmed)](http://osu.ppy.sh/b/986931&m=1) | [Supreme Oni] (Any) |
+
+### Finals
+
+**This mappool will be used in Finals - Week 1 and Finals - Week 2**
+
+**[Download the mappack here!](http://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [tarolabo - eth ken (_yu68)](http://osu.ppy.sh/b/1125322&m=1) | [Inner Oni] |
+| [tarolabo - Kowatori (Nyan)](http://osu.ppy.sh/b/1255680&m=1) | [Inner Oni] |
+| [KUMOKIRI - Shippuujinrai (yassu-)](http://osu.ppy.sh/b/996609&m=1) | [Osamix's Inner Oni] |
+| [U1 overground - Dopamine (S a n d)](http://osu.ppy.sh/b/671299&m=1) | [Sandism] |
+| [DJ Sharpnel - Pacific Girls (Osamix)](http://osu.ppy.sh/b/782480&m=1) | [Hell Oni] |
+| [t+pazolite - A.Q.Children Reincarnation (OnosakiHito)](http://osu.ppy.sh/b/1172295&m=1) | [Taikosaki] |
+
+| Hidden | |
+| --- | :--- |
+| [goreshit - boiler (_yu68)](http://osu.ppy.sh/b/1235624&m=1) | [Oni] |
+| [M-O-T-U - Calculator (wallacenew)](http://osu.ppy.sh/b/317959&m=1) | [WNW's Taiko Inner Oni] |
+
+| HardRock | |
+| --- | :--- |
+| [DJ SHARPNEL - Marunouchi surviver (OnosakiHito)](http://osu.ppy.sh/b/536650&m=1) | [Ono's Ura Oni] |
+| [xi - FREEDOM DiVE (Ekoro)](http://osu.ppy.sh/b/412126&m=1) | [EX'S ULTIMATE CHALLENGE] |
+
+| DoubleTime | |
+| --- | :--- |
+| [sasakure.UK - The UniversaL ElekiteL (Arrival)](http://osu.ppy.sh/b/1202588&m=1) | [Inner Oni] |
+| [Yuyoyuppe - AiAe (Chromoxx)](http://osu.ppy.sh/b/1185015&m=1) | [Inner Oni] |
+
+| FreeMod | |
+| --- | :--- |
+| [kuroma - Pon-Pon-Pompoko Dai-Sen-Saw! (-xNaCLx-)](http://osu.ppy.sh/b/749081&m=1) | [xN.taiCLx] (HD, HR) |
+| [Helblinde - Grief & Malice (S a n d)](http://osu.ppy.sh/b/945337&m=1) | [Sand & Backfire] (HD, HR) |
+| [LA2LY - mei(LA2LY HARD RELINQUISH REMIX) (Ryui)](http://osu.ppy.sh/b/351965&m=1) | [Ryui's Taiko] (HDHR) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] () |
+
+
+
 ------------------------------------------------------------------------
 
 ## Results
+
+### Semifinals
+
+| Saturday, 01. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![](/wiki/shared/flag/Fr.gif) | 3 | 6 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://new.ppy.sh/matches/32166125) |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 0 | 6 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/32168039) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 6 | 3 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/32169879) |
+| Spain ![](/wiki/shared/flag/Es.gif) | 0 | 6 | ![](/wiki/shared/flag/De.gif) Germany | [#1](https://new.ppy.sh/matches/32172525) |
+
+| Sunday, 02. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 0 | 6 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/32189359) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 6 | 2 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://new.ppy.sh/matches/32190652) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 2 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://new.ppy.sh/matches/32201845) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 1 | 6 | ![](/wiki/shared/flag/De.gif) Germany | [#1](https://new.ppy.sh/matches/32203683) |
+
+### Quarterfinals
+
+| Saturday, 25. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Spain ![](/wiki/shared/flag/Es.gif) | 5 | 2 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://new.ppy.sh/matches/32018493) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 5 | 2 | ![](/wiki/shared/flag/Br.gif) Brazil | [#1](https://new.ppy.sh/matches/32021588) |
+
+| Sunday, 26. March 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![](/wiki/shared/flag/Us.gif) | 5 | 1 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://new.ppy.sh/matches/32028776) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 5 | 1 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://new.ppy.sh/matches/32030302) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 0 | 5 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/32037413) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 5 | 1 | ![](/wiki/shared/flag/De.gif) Germany | [#1](https://new.ppy.sh/matches/32038891) |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 5 | 4 | ![](/wiki/shared/flag/My.gif) Malaysia | [#1](https://new.ppy.sh/matches/32040615) |
+| France ![](/wiki/shared/flag/Fr.gif) | 5 | 0 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://new.ppy.sh/matches/32042951) |
 
 ### Round of 16
 
