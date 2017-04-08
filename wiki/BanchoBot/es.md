@@ -1,4 +1,6 @@
-![BanchoBot.](BanchoBot.jpg "fig:BanchoBot.") El anfitrión del [chat de osu!](ES:IRC "wikilink").
+# BanchoBot (Español)
+
+![BanchoBot.](BanchoBot.png "fig:BanchoBot.") El anfitrión del [chat de osu!](ES:IRC "wikilink").
 
 ¡ tiene un perfil!
 

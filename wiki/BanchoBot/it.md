@@ -1,4 +1,6 @@
-![Tab di BanchoBot.](BanchoBot.jpg "Tab di BanchoBot.")
+# BanchoBot (Italiano)
+
+![Tab di BanchoBot.](BanchoBot.png "Tab di BanchoBot.")
 
 L'host del [server della chat di osu!](IT:IRC "wikilink").
 
