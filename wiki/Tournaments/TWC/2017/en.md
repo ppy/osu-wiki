@@ -86,43 +86,15 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Finals - Week 1
+## Schedule: Grand Finals
 
 **_No responsibility is taken for the correctness of the local times in the schedules!_**
 
-### Saturday, 8. April 2017
+### Saturday, 15. April 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ² |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **4.00 UTC** | 12.00 UTC +8 | 13.00 UTC +9 | ¹ |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **17.00 UTC** | 19.00 UTC +2 | 10.00 UTC -7 | ² |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **19.00 UTC** | 12.00 UTC -7 | 21.00 UTC +2 | ³ |
-
-
-### Sunday, 9. April 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 19.00 (Sat.) UTC -7 | ³ |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ³ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **10.00 UTC** | 18.00 UTC +8 | 12.00 UTC +2 | ³ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 | ⁴ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 21.00 UTC +9 | 20.00 UTC +8 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
-
-¹ Winner bracket encounter
-
-² Loser bracket encounter
-
-³ Encounter dependent on ²Loser bracket encounter
-
-⁴ Encounter dependent on ¹Winner bracket encounter and ³second loser bracket encounter.
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **5.00 UTC** | 14.00 UTC +9 | 13.00 UTC +8 |
 
 
 ------------------------------------------------------------------------
@@ -324,6 +296,19 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ------------------------------------------------------------------------
 
 ## Results
+
+### Finals - Week 1
+
+| Saturday, 08. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 0 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://new.ppy.sh/matches/32317619) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 0 | 6 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/32319543) |
+| Germany ![](/wiki/shared/flag/De.gif) | 0 | 6 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32334385) |
+
+| Sunday, 09. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 4 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32346874) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 6 | 0 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/32355825) |
 
 ### Semifinals
 
