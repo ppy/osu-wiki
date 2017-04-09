@@ -31,9 +31,9 @@ What's next?
 
 You're ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Don't forget to read the [rules](/wiki/Rules/) very carefully!
 
-If you need in-game assistance, ask the \#help channel on IRC or post your problem to the forums.
+If you need in-game assistance, ask the #help channel on IRC or post your problem to the forums.
 
-To join \#help, press F8 and type "/join \#help". You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to "#help", and click it to join the channel.
+To join #help, press F8 and type "/join #help". You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to "#help", and click it to join the channel.
 
 When in doubt, always remember that:
 > rhythm is just a click away!
