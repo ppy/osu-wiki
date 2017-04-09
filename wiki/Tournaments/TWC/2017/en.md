@@ -297,6 +297,19 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ## Results
 
+### Finals - Week 1
+
+| Saturday, 08. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 0 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://new.ppy.sh/matches/32317619) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 0 | 6 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/32319543) |
+| Germany ![](/wiki/shared/flag/De.gif) | 0 | 6 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32334385) |
+
+| Sunday, 09. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 4 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32346874) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 6 | 0 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/32355825) |
+
 ### Semifinals
 
 | Saturday, 01. April 2017 | | | | |
