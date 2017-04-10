@@ -8,13 +8,13 @@ How do I register?
 ![Register-3.png](Register-1.png)
 2. Fill out all fields in the form below and press ``Continue``  
 ![Login.png](Register-2.png)
- 1. Username          
-  1. Maximum of 15 characters                                                                                                                    
-  2. Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``) and dashes (``-``) are the only characters allowed.
- 2. E-mail Address                                                                                                                                                     
- 3. Password                                                                                                                                                            
- 4. Note                                                                                                                                                               
- 5. Continue button                                                                                                                                                    
+    1. Username          
+        1. Maximum of 15 characters                                                                                                                    
+        2. Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``) and dashes (``-``) are the only characters allowed.
+     2. E-mail Address                                                                                                                                                     
+     3. Password                                                                                                                                                            
+     4. Note                                                                                                                                                               
+     5. Continue button                                                                                                                                                    
 3. Log in to osu! and the process is finished. You have successfully registered an osu! account!
 
 
