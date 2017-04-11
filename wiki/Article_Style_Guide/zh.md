@@ -591,5 +591,4 @@ For example:
   - `hit sound`
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
 - The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
-- All Chinese articles are to be using Simplified Chinese.
-  - This is because `ISO 639-1` notes that `zh` is Simplified Chinese.
+- 所有中文文章必须使用**简体中文**
