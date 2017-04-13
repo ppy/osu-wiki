@@ -40,7 +40,7 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 #### Divisor 1/1
 
-![](/wiki/shared/BSD_1_1b.jpg)
+![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - Full Beats
 - White ticks only
@@ -48,14 +48,14 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 #### Divisor 1/2
 
-![](/wiki/shared/BSD_1_2.jpg)
+![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
 - Half Beats
 - Adds red ticks
 
 #### Divisor 1/3
 
-![](/wiki/shared/BSD_1_3.jpg)
+![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
 - Triplets*
 - Has two purple ticks between each white tick
@@ -63,7 +63,7 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 #### Divisor 1/4
 
-![](/wiki/shared/BSD_1_4.jpg)
+![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
 
 - Quarter Beats
 - Adds blue ticks, in addition to the red ticks
@@ -71,7 +71,7 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 #### Divisor 1/6
 
-![](/wiki/shared/BSD_1_6.jpg)
+![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
 
 - Double Triplets*
 - Has two purple ticks between each red tick
@@ -79,7 +79,7 @@ Hold **Alt** to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 #### Divisor 1/8
 
-![](/wiki/shared/BSD_1_8.jpg)
+![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
 
 - Eighth Beats
 - Adds yellow ticks, in addition to the red and blue
@@ -235,7 +235,7 @@ Features (osu!mania)
 
 #### Divisor 1/1
 
-![](/wiki/shared/1_1_m.jpg)
+![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
 
 - Full Beats
 - White ticks only
@@ -243,14 +243,14 @@ Features (osu!mania)
 
 #### Divisor 1/2
 
-![](/wiki/shared/1_2_m.jpg)
+![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
 
 - Half Beats
 - Adds red ticks
 
 #### Divisor 1/3
 
-![](/wiki/shared/1_3_m.jpg)
+![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
 
 - Triplets
 - Has two purple ticks between each white tick
@@ -258,7 +258,7 @@ Features (osu!mania)
 
 #### Divisor 1/4
 
-![](/wiki/shared/1_4_m.jpg)
+![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
 
 - Quarter Beats
 - Adds blue ticks, in addition to the red ticks

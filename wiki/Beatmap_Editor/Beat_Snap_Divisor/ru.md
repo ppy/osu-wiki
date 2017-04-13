@@ -7,7 +7,7 @@
 
 ### Шаг 1/1
 
-![](/wiki/shared/BSD_1_1b.jpg)
+![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - Полная нота
 - Только белые тики
@@ -15,14 +15,14 @@
 
 ### Шаг 1/2
 
-![](/wiki/shared/BSD_1_2.jpg)
+![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
 - Половинная нота
 - Добавляет красные тики
 
 ### Шаг 1/3
 
-![](/wiki/shared/BSD_1_3.jpg)
+![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
 - Триплет*
 - Между каждым белым тиком появляется по два фиолетовых
@@ -30,7 +30,7 @@
 
 ### Шаг 1/4
 
-![](/wiki/shared/BSD_1_4.jpg)
+![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
 
 - Четвертная нота
 - Добавляет к белым тикам синие
@@ -38,7 +38,7 @@
 
 ### Шаг 1/6
 
-![](/wiki/shared/BSD_1_6.jpg)
+![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
 
 - Двойной триплет*
 - Между каждым красным тиком появляется по два коричневых
@@ -46,7 +46,7 @@
 
 ### Шаг 1/8
 
-![](/wiki/shared/BSD_1_8.jpg)
+![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
 
 - Восьмая нота
 - Добавляет к красным и синим тикам жёлтые
@@ -67,7 +67,7 @@
 
 ### Шаг 1/1
 
-![](/wiki/shared/1_1_m.jpg)
+![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
 
 - Полная нота
 - Только белые тики
@@ -75,14 +75,14 @@
 
 ### Шаг 1/2
 
-![](/wiki/shared/1_2_m.jpg)
+![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
 
 - Половинная нота
 - Добавляет красные тики
 
 ### Шаг 1/3
 
-![](/wiki/shared/1_3_m.jpg)
+![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
 
 - Триплет
 - Между каждым белым тиком появляется по два фиолетовых
@@ -90,7 +90,7 @@
 
 ### Шаг 1/4
 
-![](/wiki/shared/1_4_m.jpg)
+![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
 
 - Четвертная нота
 - Добавляет к белым тикам синие
@@ -98,7 +98,7 @@
 
 ### Шаг 1/6
 
-![](/wiki/shared/1_6_m.jpg)
+![Divisor 1/6](/wiki/shared/1_6_m.jpg "Divisor 1/6")
 
 - Двойной триплет
 - Между каждым красным тиком появляется по два коричневых
@@ -106,19 +106,19 @@
 
 ### Шаг 1/8
 
-![](/wiki/shared/1_8_m.jpg)
+![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
 
 - Восьмая нота
 - Добавляет к красным и синим тикам жёлтые
 
 ### Шаг 1/12
 
-![](/wiki/shared/1_12_m.jpg)
+![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
 
 - Двенадцатая нота
 
 ### Шаг 1/16
 
-![](/wiki/shared/1_16_m.jpg)
+![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
 
 - Шестнадцатая нота

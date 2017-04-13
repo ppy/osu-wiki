@@ -7,7 +7,7 @@ Each of the settings put different colors of ticks on the [Timelines](/wiki/Beat
 
 ### Divisor 1/1
 
-![](/wiki/shared/BSD_1_1b.jpg)
+![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - Full Beats
 - White ticks only
@@ -15,14 +15,14 @@ Each of the settings put different colors of ticks on the [Timelines](/wiki/Beat
 
 ### Divisor 1/2
 
-![](/wiki/shared/BSD_1_2.jpg)
+![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
 - Half Beats
 - Adds red ticks
 
 ### Divisor 1/3
 
-![](/wiki/shared/BSD_1_3.jpg)
+![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
 - Triplets*
 - Has two purple ticks between each white tick
@@ -30,7 +30,7 @@ Each of the settings put different colors of ticks on the [Timelines](/wiki/Beat
 
 ### Divisor 1/4
 
-![](/wiki/shared/BSD_1_4.jpg)
+![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
 
 - Quarter Beats
 - Adds blue ticks, in addition to the red ticks
@@ -38,7 +38,7 @@ Each of the settings put different colors of ticks on the [Timelines](/wiki/Beat
 
 ### Divisor 1/6
 
-![](/wiki/shared/BSD_1_6.jpg)
+![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
 
 - Double Triplets*
 - Has two purple ticks between each red tick
@@ -46,7 +46,7 @@ Each of the settings put different colors of ticks on the [Timelines](/wiki/Beat
 
 ### Divisor 1/8
 
-![](/wiki/shared/BSD_1_8.jpg)
+![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
 
 - Eighth Beats
 - Adds yellow ticks, in addition to the red and blue
@@ -67,7 +67,7 @@ Green line: You.
 
 ### Divisor 1/1
 
-![](/wiki/shared/1_1_m.jpg)
+![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
 
 - Full Beats
 - White ticks only
@@ -75,14 +75,14 @@ Green line: You.
 
 ### Divisor 1/2
 
-![](/wiki/shared/1_2_m.jpg)
+![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
 
 - Half Beats
 - Adds red ticks
 
 ### Divisor 1/3
 
-![](/wiki/shared/1_3_m.jpg)
+![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
 
 - Triplets
 - Has two purple ticks between each white tick
@@ -90,7 +90,7 @@ Green line: You.
 
 ### Divisor 1/4
 
-![](/wiki/shared/1_4_m.jpg)
+![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
 
 - Quarter Beats
 - Adds blue ticks, in addition to the red ticks
@@ -98,7 +98,7 @@ Green line: You.
 
 ### Divisor 1/6
 
-![](/wiki/shared/1_6_m.jpg)
+![Divisor 1/6](/wiki/shared/1_6_m.jpg "Divisor 1/6")
 
 - Double Triplets
 - Has two purple ticks between each red tick
@@ -106,19 +106,19 @@ Green line: You.
 
 ### Divisor 1/8
 
-![](/wiki/shared/1_8_m.jpg)
+![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
 
 - Eighth Beats
 - Adds yellow ticks, in addition to the red and blue
 
 ### Divisor 1/12
 
-![](/wiki/shared/1_12_m.jpg)
+![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
 
 - Twelveth Beats
 
 ### Divisor 1/16
 
-![](/wiki/shared/1_16_m.jpg)
+![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
 
 - Sixteenth Beats
