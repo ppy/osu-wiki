@@ -1,11 +1,14 @@
-O **Editor de Storyboard** é uma seção do [Editor de Beatmap](PT:Beatmap_Editor "wikilink"), localizado na aba Design, que permite a criação simplificada de [Storyboards](PT:Storyboarding "wikilink"), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](PT:Storyboard_Scripting "wikilink").
+Design (Português)
+==================
+
+O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Beatmap_Editor), localizado na aba Design, que permite a criação simplificada de [Storyboards](/wiki/Storyboards), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](/wiki/Storyboard_Scripting).
 
 Destaques
 ---------
 
 -   Mostra as coordenadas de onde o cursor esta e sua orientação na linha do tempo (em milissegundos).
--   Mostra o nivel de [SB Load](PT:SB_Load "wikilink") de todas as imagens visíveis.
--   Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](PT:Hit_Objects "wikilink")).
+-   Mostra o nivel de [SB Load](/wiki/Beatmap_Editor/SB_Load) de todas as imagens visíveis.
+-   Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](/wiki/Hit_Objects)).
 -   Efeitos de manipulação principais:
     -   Movement (Movimento)
     -   Scaling (Escala)
@@ -25,6 +28,6 @@ Destaques
 Limitações
 ----------
 
--   Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](PT:Hit_Objects "wikilink"). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
+-   Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Hit_Objects). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
 -   Sem suporte para loop ou trigger.
 -   Sem comandos de cor ou Move-X/Move-Y.
