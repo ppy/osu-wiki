@@ -12,31 +12,31 @@ Datei
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Alle Noten löschen (Strg + N) | Entfernt alle Hit Objekte der Schwierigkeitsstufe. |
+| Alle Noten löschen (`Strg` + `N`) | Entfernt alle Hit Objekte der Schwierigkeitsstufe. |
 | Schwierigkeitsstufe öffnen... | **Zum Editieren:** Schnell zwischen den Schwierigkeitsstufen wechseln. **Zur Referenz:** ist wie Zum Editieren, aber funktioniert derzeitnicht. |
-| Speichern (Strg + S) | Speichert alle Veränderungen (.osu und .osb Dateien). |
+| Speichern (`Strg` + `S`) | Speichert alle Veränderungen (`.osu` und `.osb` Dateien). |
 | Neue Schwierigkeitsstufe erstellen... | Erstellt eine neue Schwierigkeitsstufe ohne platzierte Hit Objekte oder eine Kopie des derzeit ausgewählten Schwierigkeitsstufe. |
 
 ### Rückkehrfunktion
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Zum Gespeicherten zurücksetzen (Strg + L) | Hebt alle Veränderungen auf und kehrt zum zuletzt gespeicherten Zustand zurück. Für kleine Fehler (Hit Objekte) |
-| Zum Gespeicherten zurücksetzen (Komplett) (Strg + Shift + L) | Hebt alle Veränderungen auf und kehrt zum zuletzt gespeicherten Zustand zurück. Für komplizierte Fehler (Timing, Storyboard) |
+| Zum Gespeicherten zurücksetzen (`Strg` + `L`) | Hebt alle Veränderungen auf und kehrt zum zuletzt gespeicherten Zustand zurück. Für kleine Fehler (Hit Objekte) |
+| Zum Gespeicherten zurücksetzen (Komplett) (`Strg` + `Shift` + `L`) | Hebt alle Veränderungen auf und kehrt zum zuletzt gespeicherten Zustand zurück. Für komplizierte Fehler (Timing, Storyboard) |
 
 ### Kommandos zur Fehlerbehebung
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Beatmap testen (F5) | Test die Beatmap. Current changes will be saved in order to test. |
-| AiMod öffnen (Strg + Shift + A) | AiMod öffnen |
+| Beatmap testen (`F5`) | Test die Beatmap. Current changes will be saved in order to test. |
+| AiMod öffnen (`Strg` + `Shift` + `A`) | AiMod öffnen |
 
 ### Kommandos für Beatmap Verpackungen
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Beatmap hochladen ...  (Strg + Shift + U) | Ladet die Beatmap hoch. Sie müssen mir Ihrem Account auf der Webseite angemeldet sein, um das Beatmap Forum sehen zu können. |
-| Paket exportieren ... | Exportiert die Beatmap als .osz. Die Datei wird zum "Exports" Ordner gesendet und der Ordner wird direkt danach geöffnet. |
+| Beatmap hochladen ...  (`Strg` + `Shift` + `U`) | Ladet die Beatmap hoch. Sie müssen mir Ihrem Account auf der Webseite angemeldet sein, um das Beatmap Forum sehen zu können. |
+| Paket exportieren ... | Exportiert die Beatmap als `.osz`. Die Datei wird zum "Exports" Ordner gesendet und der Ordner wird direkt danach geöffnet. |
 | Map-Paket entpacken | ? |
 | Importieren von ... | **bms/bme:** (nur für osu!mania) Öffnet .bms/.bme Datei, um sie als osu!mania Schwierigkeitsstufe zu importieren. |
 
@@ -45,14 +45,14 @@ Datei
 | Name | Beschreibung |
 | ---- | ----------- |
 | Songs-Ordner öffnen | Öffnet den Songs-Ordner, welcher sich im osu!/Songs befindet. |
-| .osu im Editor öffnen | Öffnet die Schwierigkeitsstufe im Texteditor. |
-| .osb im Editor öffnen | Öffnet die Storyboarddatei im Texteditor. |
+| `.osu` im Editor öffnen | Öffnet die Schwierigkeitsstufe im Texteditor. |
+| `.osb` im Editor öffnen | Öffnet die Storyboarddatei im Texteditor. |
 
 ### Emergency Exit command.
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Beenden... (Esc) | Beatmap Editor verlassen. Sie werden möglicherweise gefragt, ob Sie speichern wollen. Ignoriert manchmal Veränderungen, die im Design Bereich gemacht wurden. |
+| Beenden... (`Esc`) | Beatmap Editor verlassen. Sie werden möglicherweise gefragt, ob Sie speichern wollen. Ignoriert manchmal Veränderungen, die im Design Bereich gemacht wurden. |
 
 Bearbeiten
 -----------
@@ -67,36 +67,36 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Rückängig (Strg + Z) | Ein Schritt zurück. |
-| Wiederherstellen (Strg + Y) | Ein Schritt nach vorn. |
+| Rückängig (`Strg` + `Z`) | Ein Schritt zurück. |
+| Wiederherstellen (`Strg` + `Y`) | Ein Schritt nach vorn. |
 
 ### Kommandos fürs Bearbeiten (Hit Objekt zuvor markieren)
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Ausschneiden (Strg + X) | Entfernt Hit Objekt(e). |
-| Kopieren (Strg + C) | Kopiert Hit Objekt(e). |
-| Einfügen (Strg + V) | Fügt Hit Objekt(e) ein. |
-| Löschen (Enft/ Entfernen) | Löscht Hit Objekt(e). |
+| Ausschneiden (`Strg` + `X`) | Entfernt Hit Objekt(e). |
+| Kopieren (`Strg` + `C`) | Kopiert Hit Objekt(e). |
+| Einfügen (`Strg` + `V`) | Fügt Hit Objekt(e) ein. |
+| Löschen (`Entfernen`) | Löscht Hit Objekt(e). |
 
 ### Spezielle Kommandos
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Alles auswählen (Strg + A) | Markiert alle Hit Objekte. |
-| Klonen (Strg + D) | Kopieren und Einfügen. |
+| Alles auswählen (`Strg` + `A`) | Markiert alle Hit Objekte. |
+| Klonen (`Strg` + `D`) | Kopieren und Einfügen. |
 
 ### Kommandos fürs Rotieren
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Auswahl umkehren (Strg + G) | **Slider:** Slideranfang und Sliderende vertauschen. **Wähle mehrere Objekte aus:** Der Design der Beatmap wird neu ausgerichtet, quasi andersherum. |
-| Horizontal spiegeln (Strg + H) | Kippt die Hit Objekte(e) von links nach rechts bzw. von rechts nach links (y-Achse ist die Mittelachse). |
-| Vertikal spiegeln (Strg + J) | Kippt die Hit Objekte(e) von unten nach oben bzw. von oben nach unten (x-Achse ist die Mittelachse). |
-| 90° im Uhrzeigersinn drehen (Strg + >) | Hit Objekt(e) um 90° nach rechts drehen. |
-| 90° gegen den Uhrzeigersinn drehen (Strg + <) | Hit Objekt(e) um 90° nach links drehen. |
-| Rotieren ... (Strg + Shift + R) | Leg den Rotationswinkel (+/- 180°) für die Hit Objekte fest. Sie können auch die Richtung (im/gegen Uhrzeigersinn) und Position festlegen. |
-| Skalieren... (Strg + Shift + S) | Veränder den Abstand für die Hit Objekt um ein Vielfaches (0.500x - 1.200x). Sie können die Position festlegen und ob sich die Objekte nur auf einer oder beiden Achsen verschieben werden sollen. |
+| Auswahl umkehren (`Strg` + `G`) | **Slider:** Slideranfang und Sliderende vertauschen. **Wähle mehrere Objekte aus:** Der Design der Beatmap wird neu ausgerichtet, quasi andersherum. |
+| Horizontal spiegeln (`Strg` + `H`) | Kippt die Hit Objekte(e) von links nach rechts bzw. von rechts nach links (y-Achse ist die Mittelachse). |
+| Vertikal spiegeln (`Strg` + `J`) | Kippt die Hit Objekte(e) von unten nach oben bzw. von oben nach unten (x-Achse ist die Mittelachse). |
+| 90° im Uhrzeigersinn drehen (`Strg` + `>`) | Hit Objekt(e) um 90° nach rechts drehen. |
+| 90° gegen den Uhrzeigersinn drehen (`Strg` + `<`) | Hit Objekt(e) um 90° nach links drehen. |
+| Rotieren ... (`Strg` + `Shift` + `R`) | Leg den Rotationswinkel (+/- 180°) für die Hit Objekte fest. Sie können auch die Richtung (im/gegen Uhrzeigersinn) und Position festlegen. |
+| Skalieren... (`Strg` + `Shift` + `S`) | Veränder den Abstand für die Hit Objekt um ein Vielfaches (0.500x - 1.200x). Sie können die Position festlegen und ob sich die Objekte nur auf einer oder beiden Achsen verschieben werden sollen. |
 
 ### Tasten zum Zurücksetzen
 
@@ -111,8 +111,8 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Stubs zurück (J) | Bewegt Hit Objekt(e) um ein Beat zurück im Beat Snap Divisor. |
-| Stubs vrfwärts (K) | Bewegt Hit Objekt(e) um ein Beat nach vorne im Beat Snap Divisor. |
+| Stubs zurück (`J`) | Bewegt Hit Objekt(e) um ein Beat zurück im Beat Snap Divisor. |
+| Stubs vrfwärts (`K`) | Bewegt Hit Objekt(e) um ein Beat nach vorne im Beat Snap Divisor. |
 
 Ansicht
 ----------
@@ -123,16 +123,16 @@ Ansicht
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Komponieren (F1) | Öffnet den Compose Tab. |
-| Design (F2) | Öffnet den Design Tab. |
-| Timing (F3) | Öffnet den Timing Tab. |
+| Komponieren (`F1`) | Öffnet den Compose Tab. |
+| Design (`F2`) | Öffnet den Design Tab. |
+| Timing (`F3`) | Öffnet den Timing Tab. |
 
 ### Kommandos für Einstellungen
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Map-Einstellungen ... (F4) | Öffnet das Song Setup Fenster. |
-| Timing-Einstellungen ... (F6) | Öffnet das Timing Setup Fenster. |
+| Map-Einstellungen ... (`F4`) | Öffnet das Song Setup Fenster. |
+| Timing-Einstellungen ... (`F6`) | Öffnet das Timing Setup Fenster. |
 
 ### Spezielle Kommandos
 
@@ -161,15 +161,15 @@ Komponieren
 | ---- | ----------- |
 | Taktteiler | [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
-| Gitter-Ausrichtung (T) | ? |
+| Gitter-Ausrichtung (`T`) | ? |
 
 ### Spezielle Kommandos
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Polygon-Noten erstellen ... (Strg + Shift + D) | Erstellt einen kreisförmigen Ablauf aus Hit Circles. Sie können den Distance Snap (0.1x - 2.0x) anpassen {Abstand zwischen den Objekten}, Offsetwinkel (0° - 180°) {Rotationswinkel}, Wiederholungen und Puntke (3 - 14/282) {Anzahl an Objekten pro Schleife}. |
+| Polygon-Noten erstellen ... (`Strg` + `Shift` + `D`) | Erstellt einen kreisförmigen Ablauf aus Hit Circles. Sie können den Distance Snap (0.1x - 2.0x) anpassen {Abstand zwischen den Objekten}, Offsetwinkel (0° - 180°) {Rotationswinkel}, Wiederholungen und Puntke (3 - 14/282) {Anzahl an Objekten pro Schleife}. |
 | Slider zu Stream konvertieren... | Beat Snap Divisor: Legt den Taktteiler fest. |
-| Live-Editorapping-Editorodus aktivieren (Strg + Tab) | osu!/CtB/Taiko Maps: Benutzen Sie die Taikotasten, um Hit Circles/Früchte/Taiko Hit Circles zu platzieren, während Sie das Lied im Editor spielen. Die Objekte werden am Standort des Cursors platziert. Mania Maps: Benutzen Sie die Maniatasten, um Noten während dem Spielen zu platzieren. Wenn Sie die Taste gedrückt halten, wird kein Slider dadurch erstellt. |
+| Live-Editorapping-Editorodus aktivieren (`Strg` + `Tab`) | osu!/osu!catch/osu!taiko Maps: Benutzen Sie die osu!taikotasten, um Hit Circles/Früchte/osu!taiko Hit Circles zu platzieren, während Sie das Lied im Editor spielen. Die Objekte werden am Standort des Cursors platziert. osu!mania Maps: Benutzen Sie die osu!maniatasten, um Noten während dem Spielen zu platzieren. Wenn Sie die Taste gedrückt halten, wird kein Slider dadurch erstellt. |
 | Sample importieren | [Tastentöne und Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
 
 Design
@@ -181,7 +181,7 @@ Design
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Alle Objekte verschieben | 	Bewegen Sie *alle* Objekte um #ms. Ganz nützlich, wenn Sie .mp3 Datei austauschen oder das Offset geändert haben. |
+| Alle Objekte verschieben | Bewegen Sie *alle* Objekte um #ms. Ganz nützlich, wenn Sie .mp3 Datei austauschen oder das Offset geändert haben. |
 
 Timing
 --------
@@ -201,10 +201,10 @@ Timing
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Sektion hinzufügen (Strg + P) | Erstellt eine neue rote Timing Sektion am derzeitigen Standort. |
-| Erbende Sektion hinzufügen (Strg + Shift + P) | Erstellt eine neue grüne Timing Sektion am derzeitigen Standort. |
+| Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue rote Timing Sektion am derzeitigen Standort. |
+| Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue grüne Timing Sektion am derzeitigen Standort. |
 | Aktuelle Sektion zurücksetzen | ? |
-| Sektion entfernen (Strg + I) | Entfernt die Timing Sektion, in der man gerade befindet. |
+| Sektion entfernen (`Strg` + `I`) | Entfernt die Timing Sektion, in der man gerade befindet. |
 | Sektion neu ausrichten | Richtet die Timing Sektion neu aus. |
 
 
@@ -212,7 +212,7 @@ Timing
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Timing Einstellungen... (F6) | [Timing Setup.](/wiki/Beatmap_Editor/Timing) |
+| Timing Einstellungen... (`F6`) | [Timing Setup.](/wiki/Beatmap_Editor/Timing) |
 
 ### Spezielle Kommandos
 
@@ -239,7 +239,7 @@ Web
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/b/###, ### ist die BeatmapID (findet man in .osu). |
+| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/b/###, ### ist die BeatmapID (findet man in `.osu`). |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap Thread. |
 | Schnellantwort | Erstellen Sie eine Nachricht im Beatmap Thread. |
 
@@ -250,5 +250,5 @@ Hilfe
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Ingame-Hilfe anzeigen (H) | Öffnet im Editor ein Fenster mit hilfreichen Informationen. |
+| Ingame-Hilfe anzeigen (`H`) | Öffnet im Editor ein Fenster mit hilfreichen Informationen. |
 | FAQ anzeigen | Sie werden nach [FAQ](/wiki/FAQ) geleitet. |

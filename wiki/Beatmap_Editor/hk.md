@@ -1,4 +1,4 @@
-Beatmap editor (粵語)
+Beatmap Editor (粵語)
 =====================
 
 ![osu!的譜面編輯器(Window 系統)](Compose/Compose.png "osu!的譜面編輯器(Window 系統)")

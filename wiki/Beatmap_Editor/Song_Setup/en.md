@@ -66,7 +66,7 @@ Known as "**HP**" in Edit's song selection.
 
 The rate at which HP decreases, which is always constant except during [breaks](/wiki/Glossary). Further HP is lost with misses. HP is recovered by getting a [score value](/wiki/Score) and spinning spinners. More HP is recovered with [Geki and Katu](/wiki/Score) at the end of a combo.
 
-### Circle Size (osu!, Catch the Beat, Taiko only)
+### Circle Size (osu!, osu!catch, osu!taiko only)
 
 ![Overview of various Circle Sizes](Circle_sizes.png "Overview of various Circle Sizes")
 
@@ -76,7 +76,7 @@ This determines the size of circles and sliders. The value range from 2 to 7 wit
 
 Most maps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of your cursor). 7 is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers) mod. An example of [beatmap using 3, 5, 6, and 7 as default](http://osu.ppy.sh/s/2008) and [beatmap that uses 0, 1, 3 and 4 as default](http://osu.ppy.sh/s/1208).
 
-It is possible by manually editing the .osu file to assign a value of 0-10 but this is not suggested as using sizes not between 2 - 7 will be considered unrankable beatmap.
+It is possible by manually editing the `.osu` file to assign a value of 0-10 but this is not suggested as using sizes not between 2 - 7 will be considered unrankable beatmap.
 
 #### Key Count (osu!mania only)
 
@@ -190,7 +190,7 @@ You can change the speed and offset of the countdown as well.
 
 **Display epilepsy warning (storyboard has quick strobing)**: does what its says, put a warning to warn people about (quick or any) flashing in the beatmap caused by the storyboard. Quote from [Ranking\_Criteria\#Storyboarding](/wiki/Ranking_Criteria) "*Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.*"
 
-**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, but is not allowed for mania specific maps! (because breaks aren't allowed in Mania, anyways)
+**Letterbox during breaks**: This option (does what it says) will determine if to (or not to) put letterboxes during breaks in the beatmap. This is usually enabled by default, but is not allowed for mania specific maps! (because breaks aren't allowed in osu!mania, anyways)
 
 ### Skinning
 
@@ -219,4 +219,4 @@ Objects are considered to belong to same stack if they are at the same coordinat
 
 ### Mode Specific
 
-Normally, beatmaps are playable on all <abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">four</abbr> play modes by default. If this is set to Taiko, CtB or osu!mania, then only that mode will be forcefully used for this difficulty setting.
+Normally, beatmaps are playable on all four play modes (osu!standard, osu!taiko, osu!catch, osu!mania) by default. If this is set to osu!taiko, osu!catch or osu!mania, then only that mode will be forcefully used for this difficulty setting.

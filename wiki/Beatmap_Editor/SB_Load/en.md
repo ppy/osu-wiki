@@ -32,7 +32,7 @@ So what do you do?
 
 osu! has a redundancy-eliminating feature that will automatically disable your background image from displaying throughout the song if you use that same image anywhere in your storyboard. So if your background image is being used as a background for just one "scene" of your storyboard, or if it's part of a slideshow-type deal, just call your image into the SB in the same way as you call all the other images, and everything will be fine.
 
-But if you're going to have different storyboard elements going on throughout the whole map, and just want to add an image that will show as a background on the song select menu, and as a thumbnail on the website, then what you do is set the image as a background normally, and then add a single line of SB code under the "//Storyboard Layer 0 (Background)" heading of your .osb (or .osu, if you're doing different things on each difficulty). The line simply calls the background in, and then doesn't do anything with it.
+But if you're going to have different storyboard elements going on throughout the whole map, and just want to add an image that will show as a background on the song select menu, and as a thumbnail on the website, then what you do is set the image as a background normally, and then add a single line of SB code under the "//Storyboard Layer 0 (Background)" heading of your `.osb` (or `.osu`, if you're doing different things on each difficulty). The line simply calls the background in, and then doesn't do anything with it.
 
 **Just replace "background.jpg" with the filename of your image in the following line:**
 

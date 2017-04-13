@@ -16,7 +16,7 @@ Die übliche Definition für den Kiai Time, wenn sie Beatmaps [editieren](/wiki/
 Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
 ------------------------------------------------------------------
 
-1.  Bei **[Taiko](/wiki/Game_Modes/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also Taiko spezifische [Maps](/wiki/Beatmaps) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
+1.  Bei **[osu!taiko](/wiki/Game_Modes/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmaps) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
 2.  **Konsequent sein**; es ist nervig, wenn Sie 3 Kiai-Sektionen an verschienden Sektionen innerhalb einer [Schwierigkeitsstufe](/wiki/Beatmap_Editor/Song_Setup) definieren und sich alle voneinander soundtechnisch unterscheiden. Des Weiteren ist es für einen [Mapper](/wiki/Glossary) ratsam die Kiai Time-Sektionen bei allen eigenen Schwierigkeitsstufen zu vereinheitlichen.
 3.  **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
 4.  Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.

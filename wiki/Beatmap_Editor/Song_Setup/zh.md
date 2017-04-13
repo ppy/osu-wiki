@@ -74,7 +74,7 @@ Song Setup (中文)
 
 大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](http://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](http://osu.ppy.sh/s/1208)的例子。
 
-可以通过手动编辑.osu文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
+可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
 ### 缩圈时间(Approach Rate)
 
@@ -224,4 +224,4 @@ Approach Rate通常缩写为"**AR**"。
 
 ### 谱面适用模式指定(Mode Specific)
 
-通常情况下，谱面对于<abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">四个模式</abbr>来说都是通用的。如果你将此项设定设置为“Taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。
+通常情况下，谱面对于四个模式(osu!standard, osu!taiko, osu!catch, osu!mania)来说都是通用的。如果你将此项设定设置为“osu!taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。

@@ -1,7 +1,7 @@
 Beat Snap Divisor (Deutsch)
 ==============================
 
-osu!, Taiko und Catch the Beat
+osu!, osu!taiko und osu!catch
 ------------------------------
 
 Der Beat Snap Divisor wird benutzt, um die Positionen, auf denen Noten gelegt werden können, zu limitieren. Um die Zählzeit zu erhöhen, bewegen Sie einfach den Balken nach rechts.
@@ -54,7 +54,7 @@ Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Beatmap
 - Achtel-Beats
 - Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu
 
-Halten Sie die **ALT** Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) zu verändern.
+Halten Sie die `Alt` Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) zu verändern.
 
 osu!mania
 ---------
@@ -115,7 +115,7 @@ Grüne Linie: Sie.
 
 ![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
 
--	12\. Beats
+- 12\. Beats
 
 ### Divisor 1/16
 

@@ -1,4 +1,4 @@
-Éditeur de beatmap
+Éditeur de Beatmap
 ====================
 
 ![Le mode Compose](Compose/Compose.png "Le mode Compose")

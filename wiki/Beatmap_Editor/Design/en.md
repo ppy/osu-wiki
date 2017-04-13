@@ -27,9 +27,9 @@ Getting Started
 6.  At the command points you can change the factors of the function by holding your left mousebutton and moving your cursor up (increasing factor) or down (decreasing factor)
 7.  Repeat Step 3-6 for other elements.
 
-    To remove, use **"DEL" key** or Edit -> Delete from top menu.
+    To remove, use `Delete` or Edit -> Delete from top menu.
 
-**Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (eg move up -> move down).
+**Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (e.g. move up -> move down).
 
 Features
 ---------
@@ -46,8 +46,8 @@ Features
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons at left	| Increase/Decrease timeline zoom |
-| Arrow "Up"/"Down" buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
+| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
 
 #### Keyframe Control
@@ -56,10 +56,10 @@ This will be used for **adding anchor points (Start/End points).** It works pret
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons | Add/Delete anchor points for the selected transformation. |
-| "<" / ">" buttons | Jump backward/forward to nearest anchor point of selected transformation. |
+| `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
+| `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
 
-If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -> going down).
+If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (e.g. going up -> going down).
 
 ### Top-Right (Readings)
 
@@ -95,7 +95,7 @@ These are the commands used for your object. Five of the commands have been put 
 
 To use them:-
 
-1.  Click SB object
+1.  Click on the Storyboard element
 2.  Select your transformation (MSFRC)
 3.  Set timeline for the transformation (Use Keyframe Control's "+")
 4.  Set the effect usage (move up or down your mouse to trigger)
@@ -107,7 +107,7 @@ To use them:-
 
 | Command | Usage |
 | ------- | ----- |
-| Move | Translation [where to go (eg, move up)]. |
+| Move | Translation [where to go (e.g., move up)]. |
 | Scale	| Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
@@ -129,14 +129,14 @@ To use them:-
 | Tweening | You have two Keyframes (ie Start/End), do you want to animate between them? If so, turn on Tweening. If not, then turn it off. |
 | Easing In/Out | Start slow/fast then fast/slow near end point. Useful with Fade In. |
 | Origin | Point of origin. "Top-Left" corner or "Centre" of image |
-| Diff. Specific | Save all the SB into this difficulty's .osu file instead of the .osb file. (Refer note below) |
+| Diff. Specific | Save all the SB into this difficulty's `.osu` file instead of the `.osb` file. (Refer note below) |
 
 
 **Note:-**
 
 -   Colour: "Permanent effect" - The colour you set will still be in effect even after it's timeline is over. This is quite useful for transparent image.
--   .osb (osu!beatmap event base): "Design" base (BG, Video, SB) for each difficulty of the beatmap set to follow.
--   .osu (osu!beatmap difficulty): Difficulty-specific file. Holds *a lot* of information.
+-   `.osb` (osu!beatmap event base): "Design" base (BG, Video, SB) for each difficulty of the beatmap set to follow.
+-   `.osu` (osu!beatmap difficulty): Difficulty-specific file. Holds *a lot* of information.
 
 ### Centre (Storyboard of the beatmap)
 
@@ -146,7 +146,7 @@ This is the **visual representation of the storyboard and changes based on both 
 
 ![List of SB objects used in the beatmap in different conditional layers](SE_OBJ.jpg "List of SB objects used in the beatmap in different conditional layers")
 
-**List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use **"DEL" key** or Edit -> Delete from top menu.
+**List of SB objects in their respective layers**. To add the SB objects, click on "Sprite Library". To allocate the new sprite (SB object), just drag-and-drop to the respective layer. New sprites are in "Foreground" layer by default. Clicking on the sprite name will show and forwarded to the location and timeframe of the sprite. Duplicates use the same name as the original sprite. To remove, use `Delete` or Edit -> Delete from top menu.
 
 **Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer.
 
@@ -172,5 +172,5 @@ Limitations
 Source
 -------
 
--   [m980's basic explanation](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=8145&p=67660#p67660)
+-   [m980's basic explanation](https://osu.ppy.sh/forum/p/67660)
 -   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)

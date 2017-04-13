@@ -66,7 +66,7 @@ Aussi connu en tant que "**HP**" lors de la sélection d'une beatmap.
 
 La vitesse à laquelle la vie diminue, qui est toujours constante sauf pendant une pause. Plus de vie est perdue avec des miss. La vie peut être récupérée en obtenant des [valeurs de points](/wiki/Score) et en tournant des spinners. Plus de vie est récupérée en obtenant [des Geki et des Katu](/wiki/Score) à la fin d'un combo.
 
-### Circle Size (Taille des cercles; osu!, Catch the Beat, Taiko seulement)
+### Circle Size (Taille des cercles; osu!, osu!catch, osu!taiko seulement)
 
 ![Aperçu des différentes tailles de cercle](Circle_sizes.png "Aperçu des différentes tailles de cercle")
 
@@ -78,7 +78,7 @@ Ceci détermine la taille des cercles et des sliders. La valeur varie entre 2 et
 
 La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](http://osu.ppy.sh/s/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](http://osu.ppy.sh/s/1208).
 
-Il est possible en éditant manuellement le fichier [.osu][Osu Link] pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
+Il est possible en éditant manuellement le fichier [`.osu`][Osu Link] pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
 
 #### Key Count (Nombre de touches; osu!mania seulement)
 
@@ -216,6 +216,6 @@ Les objets sont empilés si ils appartiennent aux mêmes coordonnées et ne sont
 
 ### Mode Specific (Mode spécifique)
 
-Normalement, les beatmaps sont jouables dans tous les <abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">quatre</abbr> modes par défaut. Si cette option est réglée sur Taiko, CtB or osu!mania, alors ce mode sera forcé pour cette difficulté.
+Normalement, les beatmaps sont jouables dans tous les quatre modes (osu!standard, osu!taiko, osu!catch, osu!mania) par défaut. Si cette option est réglée sur osu!taiko, osu!catch or osu!mania, alors ce mode sera forcé pour cette difficulté.
 
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)

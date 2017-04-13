@@ -1,4 +1,4 @@
-Beatmap editor
+Beatmap Editor
 ================
 
 ![Compose editor for osu! in Windowed mode](Compose/Compose.png "Compose editor for osu! in Windowed mode")

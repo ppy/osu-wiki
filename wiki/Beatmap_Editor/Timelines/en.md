@@ -58,7 +58,7 @@ Compose
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons | Increase/Decrease timeline zoom |
+| `+`/`-` buttons | Increase/Decrease timeline zoom |
 | Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
 | Click on hitobject | **Left-Click:** Select / Move hitobject against timeline. **Right-Click:** Remove hitobject. |
 
@@ -98,8 +98,8 @@ Design
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons at left	| Increase/Decrease timeline zoom |
-| Arrow "Up"/"Down" buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
+| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
 
 ### Keyframe Control
@@ -108,10 +108,10 @@ This will be used for **adding anchor points (Start/End points).** It works pret
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons | Add/Delete anchor points for the selected transformation. |
-| "<" / ">" buttons | Jump backward/forward to nearest anchor point of selected transformation. |
+| `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
+| `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
 
-If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -&gt; going down).
+If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (e.g. going up -&gt; going down).
 
 Timing
 ---------
@@ -124,7 +124,7 @@ Timing
 
 | Name | Description |
 | ---- | ----------- |
-| "+"/"-" buttons at left	| Increase/Decrease timeline zoom |
+| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
 | Centre | Timing Timeline |
 
 ### Flag colours

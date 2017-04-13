@@ -52,10 +52,10 @@ Messages
 
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
-| HP rate for Easy/Normal is suggested to be at least 4. | Mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
-| HP rate for Hard and up is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
-| OD rate for maps with few sliders is suggested to be at least 7. | Mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
-| The Slider Velocity should be 1.40 or 1.60. |	Taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
+| HP rate for Easy/Normal is suggested to be at least 4. | osu!mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
+| HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
+| OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
+| The Slider Velocity should be 1.40 or 1.60. |	osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
 
 
 ### Errors
@@ -91,10 +91,10 @@ Messages
 | Spinners must have a new combo. | | |
 | Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
-| This hold note is less than 10ms long! | Mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | |
-| This object overlaps with another object. | Mania maps only! | |
-| This object is stacked on top of another object. | Mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
-| More than 6 notes simultaneously is not allowed. | Mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
+| This hold note is less than 10ms long! | osu!mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | |
+| This object overlaps with another object. | osu!mania maps only! | |
+| This object is stacked on top of another object. | osu!mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
+| More than 6 notes simultaneously is not allowed. | osu!mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
 
 #### Design
 
@@ -141,13 +141,13 @@ Messages
 | Stack leniency is larger than 0.9 or smaller than 0.3. | | |
 | Romanised artist contains unicode. | | |
 | Romanised title contains unicode. | | |
-| Countdown is not allowed in mania mode. | Mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
-| Letterboxing is not allowed in mania mode. | Mania maps only! | |
-| OD rate is suggested to be at least 5. | Mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
-| OD rate for maps with very few sliders is suggested to be at least 8. | 	Mania maps only! | |
-| Countdown is not allowed in taiko mode. | Taiko maps only! | |
-| Epilepsy warning is not allowed in taiko mode. | Taiko maps only! | |
-| Letterboxing is not allowed in taiko mode. | Taiko maps only! | |
+| Countdown is not allowed in mania mode. | osu!mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
+| Letterboxing is not allowed in mania mode. | osu!mania maps only! | |
+| OD rate is suggested to be at least 5. | osu!mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
+| OD rate for maps with very few sliders is suggested to be at least 8. | 	osu!mania maps only! | |
+| Countdown is not allowed in taiko mode. | osu!taiko maps only! | |
+| Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! | |
+| Letterboxing is not allowed in taiko mode. | osu!taiko maps only! | |
 
 #### Mapset
 
@@ -168,9 +168,9 @@ Messages
 | Filesize of the mapset exceeds 10MB without video. | | |
 | Filesize of the mapset exceeds 24MB with video. | | |
 | This mapset is missing diff: {0} | | |
-| This mapset needs at least 2 Catch the Beat diffs. | Catch the Beat maps only! | |
+| This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! | |
 | This mapset needs at least 1 Easy/Normal diff. | | |
-| This mapset needs at least 2 osu!mania diffs. | Mania maps only! | |
+| This mapset needs at least 2 osu!mania diffs. | osu!mania maps only! | |
 | This mapset needs at least 2 standard diffs. | Standard maps only! | |
-| This mapset needs at least 2 Taiko diffs. | Taiko maps only! | |
+| This mapset needs at least 2 osu!taiko diffs. | osu!taiko maps only! | |
 | Uninherited timing points conflict with {0} diff. | | |

@@ -14,7 +14,7 @@ Le moment le plus adapté pour placer un Kiai Time sur une musique est de trouve
 
 == A savoir si vous mappez en utilisant le Kiai Time ==
 
-1.  Sur les maps [Taiko](/wiki/Game_Modes/osu!taiko), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le Taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
+1.  Sur les maps [osu!taiko](/wiki/Game_Modes/osu!taiko), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le osu!taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
 2.  **Soyez raisonnable**. Utiliser le Kiai Time à tort et à travers est inutile et rend votre map inclassable. Ne l'utilisez pas pendant plus d'un tiers de votre beatmap.
 3.  Faites en sorte que toutes les difficultés de votre groupe de beatmaps aient leurs Kiai Time au même moment.
 4.  **N'utilisez pas le blanc pur pour les couleurs de vos notes.** Le Kiai Time aveuglera le joueur.

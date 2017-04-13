@@ -1,4 +1,4 @@
-Edytor beatmap
+Edytor Beatmap
 ==============
 
 ![Tryb kompozycji osu! w trybie okienkowym](Compose/Compose.png "Tryb kompozycji osu! w trybie okienkowym")
