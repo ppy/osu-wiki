@@ -121,6 +121,7 @@ Timing
 ![Timing Timeline](TT.jpg "Timing Timeline")
 
 ### Timing Timeline
+
 | Name | Description |
 | ---- | ----------- |
 | "+"/"-" buttons at left	| Increase/Decrease timeline zoom |
