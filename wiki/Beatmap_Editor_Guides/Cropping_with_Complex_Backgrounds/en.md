@@ -1,3 +1,6 @@
+Cropping with Complex Backgrounds
+===================================
+
 Step \#1
 --------
 

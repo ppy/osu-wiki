@@ -1,3 +1,6 @@
+osu!mania Mapping Guide (Deutsch)
+====================================
+
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.
 
 Vorwort

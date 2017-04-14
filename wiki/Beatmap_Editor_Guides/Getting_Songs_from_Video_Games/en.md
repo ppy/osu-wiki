@@ -1,3 +1,6 @@
+Getting songs from Video Games
+===============================
+
 This tutorial is for mappers that want a song from video games, mainly consoles like PS2, GCN/Wii, Xbox 360, etc. It can include portable and older consoles (See SNES, PS1, PSP, N64, NDS, etc.) but it requires more things to get the music from them.
 
 Before you begin

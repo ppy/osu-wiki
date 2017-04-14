@@ -1,4 +1,7 @@
-\_\_NOTOC\_\_ No momento, sample-sets do beatmap e sample-sets da skin podem ser customizados.
+Custom Sample Overrides (Português)
+======================================
+
+No momento, sample-sets do beatmap e sample-sets da skin podem ser customizados.
 
 Os seguintes arquivos podem ser substituídos:
 

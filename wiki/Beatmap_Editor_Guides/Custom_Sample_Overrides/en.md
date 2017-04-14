@@ -1,4 +1,7 @@
-\_\_NOTOC\_\_ At the moment, per-beatmap and per-skin sample-sets can be implemented.
+Custom Sample Overrides
+===========================
+
+At the moment, per-beatmap and per-skin sample-sets can be implemented.
 
 The following files can be replaced:
 

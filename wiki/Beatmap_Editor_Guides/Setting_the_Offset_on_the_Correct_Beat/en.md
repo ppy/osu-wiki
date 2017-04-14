@@ -1,3 +1,6 @@
+Setting the Offset on the Correct Beat
+========================================
+
 [*About Offset Interval* by Alace](https://osu.ppy.sh/forum/t/20998)
 
 Most of osu players are not pro at music, so we got some maps with a problem:

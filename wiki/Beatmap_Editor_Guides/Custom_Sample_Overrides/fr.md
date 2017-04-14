@@ -1,4 +1,7 @@
-\_\_NOTOC\_\_ Pour le moment, des sons peuvent êtres implémentés dans les skins et les beatmaps.
+Bruitages
+=============
+
+Pour le moment, des sons peuvent êtres implémentés dans les skins et les beatmaps.
 
 Les fichiers suivants peuvent être remplacés :
 

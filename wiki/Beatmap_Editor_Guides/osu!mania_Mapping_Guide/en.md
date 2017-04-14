@@ -1,3 +1,6 @@
+osu!mania Mapping Guide
+=========================
+
 Prologue
 ========
 

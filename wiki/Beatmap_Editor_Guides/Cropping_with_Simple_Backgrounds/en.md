@@ -1,3 +1,6 @@
+Cropping with Simple Backgrounds
+==================================
+
 |                                                                                                                                                            |                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | So, I will show you a quick way how to remove one coloured backgrounds. Like in previous tutorial, same here, I am using GIMP and the picture you can see. | <img src="CSB-1.png" title="Example" alt="Example" width="100" /> |

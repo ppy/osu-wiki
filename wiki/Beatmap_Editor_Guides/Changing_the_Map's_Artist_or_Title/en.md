@@ -1,3 +1,6 @@
+Changing the Map's Artist or Title
+===================================
+
 [*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/forum/t/24443)
 
 This is until osz2 will be implemented.

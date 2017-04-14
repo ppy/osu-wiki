@@ -1,3 +1,6 @@
+Compressing Beatmap Files
+==========================
+
 [*How to make your map fit the size limitations: Compression* by: ziin](https://osu.ppy.sh/forum/t/60002)
 
 Osu! maps, according to the current ranking guidelines, must be under 10 MB, or 24 MB if the song has a video. In this tutorial I will tell you smart ways to get your map under that limit.

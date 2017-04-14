@@ -1,3 +1,6 @@
+Compressing Videos
+=====================
+
 [*How to re-encode/edit a video* by: ziin](https://osu.ppy.sh/forum/t/58235)
 
 Precursor/Notes

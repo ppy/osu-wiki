@@ -1,3 +1,6 @@
+Teoria Musical
+=================
+
 [Original guide by ziin](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
 
 Osu! é essencialmente um jogo de música, e beatmaps são geralmente criados com a intenção de que eles combinem com a música, em vez de combinar com um certo BPM. Nessa breve explicação eu estarei discutindo a teoria da música, uma vez que se aplica a um beatmap de osu!, e também explicar por que certas coisas soam mal (pelo menos para mim). De nenhuma maneira os assuntos discutidos podem ser considerados "diretrizes". Em vez disso, pense nisso como teoria. Na maioria das vezes eles vão aplicar-se a algumas partes de músicas, mas há muitas exceções. Tudo que eu digo aqui é opinião pessoal baseada em 12+ anos de experiência de banda ou tiradas diretamente do Wikipedia. Ela não pode ser aplicada a todas as formas de música.

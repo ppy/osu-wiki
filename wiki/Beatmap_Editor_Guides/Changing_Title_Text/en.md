@@ -1,3 +1,6 @@
+Changing Title Text
+=====================
+
 [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/forum/t/14513)
 
 How to get it changed

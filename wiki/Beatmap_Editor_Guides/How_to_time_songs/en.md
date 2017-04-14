@@ -1,3 +1,6 @@
+How to time songs
+====================
+
 <img src="Timing base.jpg" title="Timing menu." alt="Timing menu." width="300" />
 
 Introduction
