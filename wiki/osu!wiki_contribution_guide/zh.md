@@ -50,13 +50,13 @@
 这份快速指南是提供给不熟悉分支工作流的 Github 新人的。如果您之前有使用 Github 的经验，您可以跳过这份指南，在更新内容时记得工作流分支。
 
 
-这里有一份中文的 Github 教程：[廖雪峰的Github教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+这里有一份中文的[Github教程](https://git-scm.com/book/zh/v2/GitHub-%E8%B4%A6%E6%88%B7%E7%9A%84%E5%88%9B%E5%BB%BA%E5%92%8C%E9%85%8D%E7%BD%AE)
 
 完整的参考与帮助请点击[GitHub 帮助][GitHub Help].
 
 编辑页面时的风格指南请点击[Article Style Guide(文章风格指导)][ASG]
 
-如果有任何疑问，请前往[osu!dev Discord Server][osu!dev Discord], 在 ``#osu-wiki`` 板块提问。
+如果有任何疑问，请前往[osu!dev Discord Server][osu!dev Discord], 在 `#osu-wiki` 板块提问。
 
 全文的阅读时间大约1小时。
 
@@ -78,13 +78,13 @@
     - 我们通常使用微软的 [Visual Studio Code][VSC]，Adobe 的 [Brackets][Brackets]，GitHub 的 [Atom][Atom].
 - 一个**支持__GFM__**的Markdown预览器。
   - 我们通常使用 [Shiba][Shiba] 或者 Visual Studio Code / Atom 的内置 GFM 预览器。
-- 关于VCS(Version Control System，版本控制系统) 的基本知识，特别注意[Git][Git]的有关知识。
-  - 如果您在使用一些 Git 的CLI版本中遇到了困难 （这份指导的后文会有解释），您可以寻找并自学有图形操作界面版本的 Git 或者使用如 [Git Extensions][Git Extensions]的程序。
-  - 一些编辑器 (例如 Visual Studio Code) 提供 Git 交互界面。
+- 关于VCS(Version Control System，版本控制系统) 的基本知识，特别是[Git][Git]的有关知识。
+  - 如果您在使用一些 Git 的命令行版本中遇到了困难 （这份指导的后文会有解释），您可以寻找并自学有图形操作界面版本的 Git 或者使用如 [Git Extensions][Git Extensions]的程序。
+  - 一些提供 Git 交互界面的编辑器 (例如 Visual Studio Code)。
 
-## 复刻 osu-wiki 内容库
+## 克隆 osu-wiki 内容库
 
-如果您想编辑 osu-wiki 的数据库，您首先必须创建一所有内容的拷贝。这个步骤被称为 Forking（复刻）。
+如果您想编辑 osu-wiki 的内容，您必须先创建一所有内容的拷贝。这个步骤被称为 Forking（派生）。
 
 前往 [osu-wiki repository][GitHub osu-wiki].
 
@@ -92,17 +92,17 @@
 
 ![osu-wiki Repository Snapshot](./img/Contribute_wikirepo.jpg "Snapshot of the osu-wiki repository")
 
-点击右上角的 Fork 按钮，前往 Fork 到的位置。
+点击右上角的 Fork 按钮，前往 fork 到的位置。
 
 ![Fork prompt dialogue](./img/Contribute_forkprompt.jpg "Fork prompt dialogue")
 
-点击您的个人档案，将前往 Fork 的位置。
+点击您的个人档案，将前往你fork的仓库。
  
 最后 ，您会看到这样的情形：
 
 ![Fork Snapshot](./img/Contribute_ownrepo.jpg "Fork Snapshot")
  
-祝贺您！您已经拷贝了一份 osu-wiki 的内容库！现在 您可以进一步进行编辑了。
+祝贺您！您已经克隆了 osu-wiki 的内容！现在您可以进一步进行编辑了。
 
 ## 编辑 
 
@@ -113,11 +113,11 @@
 _[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_  
 
  
-事实上, 您可以在 ``master`` 分支内完成一切编辑，但是_这从长远来看_不是好习惯。
+事实上, 您可以在 `master` 分支内完成一切编辑，但是_从长远来看_不是好习惯。
  
 这就是分支工作流的作用。
  
-通过建立工作流分支，您可以在保留原有``master``分支完整的前提下在自己的分支中进行修改与编辑。
+通过建立工作流分支，您可以在保留原有`master`分支完整的前提下在自己的分支中进行修改与编辑。
 
 碰到主要错误时，不妨“切断”错误的分支，在完整的主分支下再新建一个新的分支。
 
@@ -125,9 +125,9 @@ _[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu imag
 
 #### 进入正确的库和分支
 
-如果您不想把您的复刻文件库全部导入电脑，Github 提供了一个在线网页版编辑器。您可以通过浏览器直接进行编辑。
+如果您不想把您的fork仓库全部导入电脑，Github 提供了一个在线网页版编辑器。您可以通过浏览器直接进行编辑。
 
-首先进入您个人文件库。（小技巧：在浏览器的地址栏中，把``https://github.com/ppy/osu-wiki`` 中的``ppy``改成自己的 Github 账号名称，回车就可以快速进入自己的库了） 
+首先进入您的仓库。（小技巧：在浏览器的地址栏中，把``https://github.com/ppy/osu-wiki`` 中的``ppy``改成自己的 Github 账号名称，回车就可以快速进入自己的库了） 
  
 系统默认每次进入都是 Master分支（总分支）。
 
@@ -135,13 +135,13 @@ _[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu imag
 
 ![Branch dropdown list](./img/Contribute_webbranch.jpg "Branch dropdown list")
  
-点击 ``Branch: master`` 按钮后，可能会显示几个分支，但其中唯一重要的就是``master`` 分支。
+点击 `Branch: master` 按钮后，可能会显示几个分支，但其中唯一重要的就是`master` 分支。
  
-在文本输入框中输入您的新分支名称。文本框中本来显示透明的【"Find or create a branch..（搜索或创建分支）"】。按下 Enter（回车）后前往分支名称的位置。如果本来没有这个分支名称，会新建一个基于``master``的分支。
+在文本输入框中输入您的新分支名称。文本框中本来显示透明的【"Find or create a branch..（搜索或创建分支）"】。按下 Enter（回车）后前往分支名称的位置。如果本来没有这个分支名称，会新建一个基于`master`的分支。
 
-_注意：在新建分支时请确保您在 ``Branch: master`` 分支下，因为新建的分支总会继承您创建分支时所在的分支。_
+_注意：在新建分支时请确保您在 `Branch: master` 分支下，因为新建的分支总会继承您创建分支时所在的分支。_
 
-现在 ，重新查看下拉菜单，会出现 ``Branch: <您的分支名称>``。 您现在已经完全准备好，可以编辑文章了。
+现在 ，重新查看下拉菜单，会出现 `Branch: <您的分支名称>`。 您现在已经完全准备好，可以编辑文章了。
 
 #### 更新分支内容
 
