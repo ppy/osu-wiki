@@ -96,6 +96,8 @@ After the "circle" is completed, a few more hit circles are placed to go straigh
 
 ## Symmetrical Shapes
 
+_See [Mapping Techniques/Basics](../Basics/#symmetry) for a description on symmetry._
+
 ### Circle Formation
 
 ¯\_(ツ)_/¯
