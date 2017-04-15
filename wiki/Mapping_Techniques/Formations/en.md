@@ -100,7 +100,7 @@ _See [Mapping Techniques/Basics](../Basics/#symmetry) for a description on symme
 
 ### Circle Formation
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ### Diamond Formation
 

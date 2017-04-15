@@ -129,7 +129,7 @@ These are usually discouraged by the community.
 
 ### Spider Sliders
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ### Spiral Slider
 

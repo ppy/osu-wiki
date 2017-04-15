@@ -29,7 +29,7 @@ Center anti-jumps has a note or a slider placed in the center while the other hi
 
 ### Large Jumps
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ### Oibon Jumps
 
