@@ -50,7 +50,7 @@ Some people like this, some people don't, though, so it's up to you.
 
 01:08:455 (3,4,5,6,7) is a failed attempt at modified symmetry.
 Here, the left slider is part of the right slider, with (6) attempting to "complete" the left slider.
-To put it simply, it failed because few people noticed it; many modders thought that the mapper was just [freestyle](freestyling "wikilink") it here.
+To put it simply, it failed because few people noticed it; many modders thought that the mapper was just freestyle it here.
 
 ### Other Examples
 
@@ -89,8 +89,7 @@ Streams became popular due to music from beatmania IIDX, Eurobeat, (or fast pace
 Streams are best used at higher difficulties when the stream corresponds to sounds in the music.
 In most songs this only occurs at certain parts in the music, but certain genres like Eurobeat have plenty of places where one can put streams.
 Some streams contain hit circles only but some are mixed with slider.
-Take the following song for example: [1] You'll notice that the vocals never have any parts where it'd be fitting for a stream.
-However, listen closely to the instruments.
+
 You should notice that the instruments frequently have 3 notes all 1/4 apart from each other.
 You could map a stream to each one of those instances, making for a map with frequent, short streams.
 

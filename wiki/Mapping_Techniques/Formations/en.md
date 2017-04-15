@@ -86,7 +86,7 @@ _Also known as: **ztrot Formation**_
 
 Nominator(s): [Jarby](https://osu.ppy.sh/u/25615)
 
-ztrot spacing uses consistant beats placed in a circle-like shape.
+ztrot spacing uses consistent beats placed in a circle-like shape.
 The distance between each note increases, then decreases.
 The following hit circles will always be on opposite sides of the "circle".
 
