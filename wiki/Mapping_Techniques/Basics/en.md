@@ -23,11 +23,11 @@ Explaining symmetry in text form (like we are now) isn't as effective without th
 
 
 
-#### Vertical Symmetry
+### Vertical Symmetry
 
 
 
-#### Symmetry With Respect to the Origin
+### Symmetry With Respect to the Origin
 
 `-f(x) = f(-x)`
 
@@ -38,7 +38,7 @@ It's simpler than it sounds, though.
 This type of symmetry is done by first copying and pasting a pattern, and then flipping it both vertically and horizontally.
 This type of symmetry is nice because it's more subtle than horizontal or vertical symmetry.
 
-#### Modified Symmetry
+### Modified Symmetry
 
 Modified Symmetry is when you take a symmetrical pattern and modify it in various ways.
 Sometimes it works and sometimes it doesn't.
@@ -52,7 +52,7 @@ Some people like this, some people don't, though, so it's up to you.
 Here, the left slider is part of the right slider, with (6) attempting to "complete" the left slider.
 To put it simply, it failed because few people noticed it; many modders thought that the mapper was just [freestyle](freestyling "wikilink") it here.
 
-#### Other Examples
+### Other Examples
 
 This map has other good examples to use; just look through it.
 However, if you want to look at other maps, Krisom's maps are considered by many to be a stellar example of good patterns and structure, with some good examples of symmetry involved.
