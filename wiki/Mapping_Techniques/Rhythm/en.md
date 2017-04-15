@@ -1,5 +1,7 @@
 # Rhythm
 
+<!-- please place all mapping techniques in alphabetical order -->
+
 ## Spacing
 
 ### 15 Degree Patterns
@@ -28,7 +30,7 @@ Angles between 10 and 80 degrees can also be used.
 
 ### Accelerated Spacing
 
-_Not to be confused with [Spacing Out](../Spacing_Out)._
+_Not to be confused with [Spacing Out](#spacing-out)._
 
 Nominator(s): [Gabi](https://osu.ppy.sh/u/57057)
 
@@ -68,17 +70,17 @@ Drain sections should be used sparingly and only when the song may _hint_ it.
 
 Nominator(s): Ekaru
 
-Half-Backing is comprised of a quarter beat followed by two-eighth beats, arranged similarly to [Back and Forth Beats](../Back_and_Forth_Beats/) except the third note stops.
+Half-Backing is comprised of a quarter beat followed by two-eighth beats, arranged similarly to [back and forth beats](#back-and-forth-beats) except the third note stops.
 This will create a straight line.
 
 ### Hub and Spoke
 
 Nominator(s): Beuchi-chan
 
-The Hub and Spoke formation is literally a hub with spokes peaking out.
+The hub and spoke formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
 Using this will force the player to not only move in a circular direction but also require them to return back to the center after an object was hit.
-In general, this is basically the [QQ Diamonds](../../Formations/QQ_Diamonds/) technique with a center for every other hit object.
+In general, this is basically the [QQ diamonds](../Formations/#qq-diamonds) technique with a center for every other hit object.
 
 First, place the odd numbered combos in the center of where the hub and spoke is to be mapped (this part is the "hub").
 The following, even, hit objects are to then be placed 0 degrees, 90 degrees, 180 degrees, 270 degrees (or vise versa) surrounding the "hub" (these are the "spokes").
@@ -92,17 +94,17 @@ You could, however, use 3, 5, or 6 spokes instead (when you do this, make sure t
 
 Nominator(s): Derekku Chan
 
-Linear Back and Forth is a variation of the [Back and Forth Beats](../Back_and_Forth_Beats/) spreads.
+Linear back and forth is a variation of the [back and forth beats](#back-and-forth-beats) spreads.
 The difference is that there these don't use stacks rather, they require the player to move along back and forth between the hit objects.
 It is very important that the mapper makes it clear as to the direction of where the spread is heading.
 
 ### Spacing Out
 
-_Not to be confused with [Accelerated Spacing](../Accelerated_Spacing)_
+_Not to be confused with [Accelerated Spacing](#accelerated-spacing)_
 
 Nominator(s): [Pasonia](https://osu.ppy.sh/u/43345)
 
-Spacing Out refers to hit objects in which they are placed distance-wise, not time.
+Spacing out refers to hit objects in which they are placed distance-wise, not time.
 This technique has the advantage of keeping a momentum in a tune running during that section of a map.
 However, incorrect patternmapping can lead to an almost unplayable map.
 
@@ -127,6 +129,8 @@ Nominator(s): [123MegaApple123](https://osu.ppy.sh/u/2148208)
 Slider slowdowns abruptly slows down a slider by temporarily halving an inherited timing point (the green ones) to complement the music's (or vocals') long note.
 
 ## Streams
+
+_See [Mapping Techniques/Basics](../Basics/#streams) for a description on streams._
 
 ### Compressed Streams
 

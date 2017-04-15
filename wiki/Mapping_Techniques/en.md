@@ -69,7 +69,7 @@ _See also [Mapping Techniques/Rhythm](./Rhythm/)._
 - [Back and Forth Beats](./Rhythm/#back-and-forth-beats)
 - [Differential Stacks](./Rhythm/#differential-stacks)
 - [Drain Sections](./Rhythm/#drain-sections)
-- [Half-backing](./Rhythm/#half-backing)
+- [Half-Backing](./Rhythm/#half-backing)
 - [Hub and Spoke](./Rhythm/#hub-and-spoke)
 - [Linear Back and Forth](./Rhythm/#linear-back-and-forth)
 - [Spacing Out](./Rhythm/#spacing-out)
@@ -95,8 +95,8 @@ _See also [Mapping Techniques/Spinners](./Spinners/)._
 
 #### Additional Effects
 
-- [Post-spinner Note](./Spinner/#post-spinner-note)
-- [Pre-spinner Note](./Spinner/#pre-spinner-note)
+- [Post-Spinner Note](./Spinner/#post-spinner-note)
+- [Pre-Spinner Note](./Spinner/#pre-spinner-note)
 
 #### Spinner Variation
 

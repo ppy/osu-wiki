@@ -1,5 +1,7 @@
 # Spinners
 
+<!-- please place all mapping techniques in alphabetical order -->
+
 ## Additional Effects
 
 ### Post-Spinner Note

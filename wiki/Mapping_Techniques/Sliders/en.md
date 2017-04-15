@@ -1,6 +1,6 @@
 # Sliders
 
-_If you want to know how to _make good sliders_, please see [../Making_Good_Sliders/]._
+_If you want to know how to _make good sliders_, please see [Making Good Sliders](../Making-Good-Sliders)._
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -13,7 +13,7 @@ Nominator(s): [kingcobra52](https://osu.ppy.sh/u/9934)
 Etna sliders is typically comprised of 6 to 8 sliders that are half a beat long and separated by another half a beat.
 They can go in any direction and there are usually plenty of them.
 
-The term "etna sliders" were coined by [awp](https://osu.ppy.sh/u/2650) and named after a [character from Disgaea](http://disgaea.wikia.com/wiki/Etna) who appeared in one of his maps.
+The term "Estna sliders" were coined by [awp](https://osu.ppy.sh/u/2650) and named after a [character from Disgaea](http://disgaea.wikia.com/wiki/Etna) who appeared in one of his maps.
 
 [This post was how it all began.](https://osu.ppy.sh/forum/p/5783)
 
@@ -108,7 +108,7 @@ Nominator(s): Rukarioman
 Krisom-Krosses consists of two [Wave Sliders](#wave-sliders).
 These are horizontally or vertically [mirrored sliders](#mirrored-sliders) such that the middle of both sliders overlap.
 
-Technique is named after by [Krisom](https://osu.ppy.sh/u/99269).
+This technique is named after by [Krisom](https://osu.ppy.sh/u/99269).
 
 ### Rainbow Sliders
 
@@ -161,8 +161,8 @@ The sliders may not necessarily be curved, which can instead form a cross or an 
 
 Nominator(s): Gladi
 
-Switch-Back Sliders consists of a curved half-beat slider.
-It is then copy-and-pasted, rotated 180 degrees, and placed so it curves into the previous slider (similar to [Etna Sliders](#etna-sliders)).
+Switch-Back sliders consists of a curved half-beat slider.
+It is then copy-and-pasted, rotated 180 degrees, and placed so it curves into the previous slider (similar to [Etna sliders](#etna-sliders)).
 A hit circle is then placed where the previous slider head was.
 
 ### Tick-Hitsounds

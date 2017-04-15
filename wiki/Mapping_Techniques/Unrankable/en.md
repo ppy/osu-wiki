@@ -2,6 +2,8 @@
 
 In normal situations, the use of these techniques will automatically make your map unrankable!
 
+<!-- please place all mapping techniques in alphabetical order -->
+
 ## Burai Sliders
 
 Nominator(s): Burai
@@ -12,6 +14,8 @@ This pattern is unrankable due to the confusion it creates in terms of overall r
 On the contrary, if you do a similar pattern but leave it as a slight angle, it is rankable.
 
 ## Hold Sliders
+
+_Not to be confused with [Short Repeating Sliders](../Sliders/#short-repeating-sliders)._
 
 Nominator(s): [Shinxyn](https://osu.ppy.sh/u/13996)
 
