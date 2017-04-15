@@ -6,12 +6,14 @@ In normal situations, the use of these techniques will automatically make your m
 
 ## Burai Sliders
 
-Nominator(s): Burai
+Nominator(s): [machol30](https://osu.ppy.sh/u/5772)
 
 Burai sliders is a slider that completely overlaps itself without leaving room to notice that it has actually overlapped with the exception of the slider end.
 
 This pattern is unrankable due to the confusion it creates in terms of overall readability.
 On the contrary, if you do a similar pattern but leave it as a slight angle, it is rankable.
+
+This technique was named after the creator's former name, buraimaster1234 (now known as [machol30](https://osu.ppy.sh/u/5772)).
 
 ## Hold Sliders
 

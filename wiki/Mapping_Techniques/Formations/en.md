@@ -40,7 +40,7 @@ However, the difference here is that this forces the player to go along the edge
 
 ### Honeycomb Beats
 
-Nominator(s): MetalMario201
+Nominator(s): [mm201](https://osu.ppy.sh/u/30655)
 
 Honeycomb beats is a stream of hit circles that are usually half beats apart.
 These are placed in a fashion that they all fit on a hexagonal grid.
@@ -84,7 +84,7 @@ This can also be a [square formation](#square-formation) and/or [diamond formati
 
 _Also known as: **ztrot Formation**_
 
-Nominator(s): JarJarJacob
+Nominator(s): [Jarby](https://osu.ppy.sh/u/25615)
 
 ztrot spacing uses consistant beats placed in a circle-like shape.
 The distance between each note increases, then decreases.
@@ -142,7 +142,7 @@ The order of the combos forces the player to go along the square rather than thr
 
 ### Square Formation v2
 
-Nominator(s): Beuchi-chan and MetalMario201
+Nominator(s): Beuchi-chan and [mm201](https://osu.ppy.sh/u/30655)
 
 Square formation v2 are pretty much the same as [square formation](#square-formation), but the order of the circles forces you to go diagonally through the square.
 

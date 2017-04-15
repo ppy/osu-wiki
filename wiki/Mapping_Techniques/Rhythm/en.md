@@ -68,7 +68,7 @@ Drain sections should be used sparingly and only when the song may _hint_ it.
 
 ### Half-Backing
 
-Nominator(s): Ekaru
+Nominator(s): [Ekaru](https://osu.ppy.sh/u/17938)
 
 Half-Backing is comprised of a quarter beat followed by two-eighth beats, arranged similarly to [back and forth beats](#back-and-forth-beats) except the third note stops.
 This will create a straight line.
@@ -92,7 +92,7 @@ You could, however, use 3, 5, or 6 spokes instead (when you do this, make sure t
 
 ### Linear Back and Forth
 
-Nominator(s): Derekku Chan
+Nominator(s): [Derekku](https://osu.ppy.sh/u/91341)
 
 Linear back and forth is a variation of the [back and forth beats](#back-and-forth-beats) spreads.
 The difference is that there these don't use stacks rather, they require the player to move along back and forth between the hit objects.
@@ -134,7 +134,7 @@ _See [Mapping Techniques/Basics](../Basics/#streams) for a description on stream
 
 ### Compressed Streams
 
-Nominator(s): pieguy1372
+Nominator(s): [pieguyn](https://osu.ppy.sh/u/107485)
 
 Compressed streams uses hit circles that are only 3 grid spaces apart (on a 2 or 3-grid level).
 Otherwise, just make the stream considerably smaller compared to the rest of the map.

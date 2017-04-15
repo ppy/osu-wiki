@@ -82,7 +82,7 @@ However, these are positioned so that the each slider moves away from the next s
 
 ### Cutting Sliders
 
-Nominator(s): Agent_Spin_Here
+Nominator(s): [Mashley](https://osu.ppy.sh/u/41481)
 
 Cutting sliders consists of 2 sliders, usually 1 beat long and 1/2 a beat apart, that overlap each other.
 The second slider looks like it is _cutting through_ the other slider, hence the name.

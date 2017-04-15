@@ -54,7 +54,7 @@ A slider is mapped, followed by a hit circle, followed by a horizontally-flipped
 
 ### Orbital Sliders
 
-Nominator(s): Card N'FoRcE
+Nominator(s): [Card N'FoRcE](https://osu.ppy.sh/u/3936)
 
 Orbital sliders uses mirrored sliders with a note in the middle.
 
