@@ -178,7 +178,7 @@ In the end, we should tell you some important tips:
 Epilogue
 ----------
 
-You should <u>only</u> help with timing if:
+You should only help with timing if:
 
 -   You personally have actual experience in timing.
 -   The beatmap has significant timing errors (You got 175 BPM but the beatmap is 170 BPM).

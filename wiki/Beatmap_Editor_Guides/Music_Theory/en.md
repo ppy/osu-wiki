@@ -69,7 +69,7 @@ Sliders in osu! most closely resemble a held note in music since spinners are ra
 
 ![](Music Theory Important.png "Music Theory Important.png")
 
-Most music works in groups of 2 or 4. 4 beats to a measure, 4 measures to a phrase, etc… So long as you <u>place a slider beginning or a circle on the downbeat (long white tick) and sometimes the middle of the phrase</u>, you can put in any number of upbeat or offbeat sliders with crazy slider patterns, stupid short sliders and silly streams in the map, even if it doesn’t fit the song. I’m serious. It’s obviously not entirely recommended, since then you can take any song with the same BPM and song structure, copy/paste it, and have the same low quality map. It’s also important to map to the music, but most music just repeats itself over and over again, so it’s good to throw in something different from time to time.
+Most music works in groups of 2 or 4. 4 beats to a measure, 4 measures to a phrase, etc… So long as you place a slider beginning or a circle on the downbeat (long white tick) and sometimes the middle of the phrase, you can put in any number of upbeat or offbeat sliders with crazy slider patterns, stupid short sliders and silly streams in the map, even if it doesn’t fit the song. I’m serious. It’s obviously not entirely recommended, since then you can take any song with the same BPM and song structure, copy/paste it, and have the same low quality map. It’s also important to map to the music, but most music just repeats itself over and over again, so it’s good to throw in something different from time to time.
 
 It’s common knowledge that when playing the bass line with any instrument, you can make up almost *any* rhythm and play *any* note so long as you play the downbeat in every measure in key. That’s how important the downbeat is. Obviously it’s not always perfect, but it’s at least acceptable.
 
@@ -90,4 +90,4 @@ My definition of [overmapping](overmapping "wikilink") is placing a note or slid
 
 Chances are you’re mapping it wrong then.
 
-If you really want to overmap something due to difficulty/fun reasons (the most common excuse) then make sure that there is not some other way to map the notes correctly (like using a repeating slider). Mapping a 1/6 snap roll with a 1/4 or 1/8 repeating slider is just plain <u>wrong</u>. They all play identically, and the only difference is how it sounds and the impact on the score.
+If you really want to overmap something due to difficulty/fun reasons (the most common excuse) then make sure that there is not some other way to map the notes correctly (like using a repeating slider). Mapping a 1/6 snap roll with a 1/4 or 1/8 repeating slider is just plain wrong. They all play identically, and the only difference is how it sounds and the impact on the score.

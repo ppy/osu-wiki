@@ -7,7 +7,7 @@ This is until osz2 will be implemented.
 
 When changing the **title or artist** in a map, a problem may occur in which you may not be able to submit it without making a duplicate map.
 
-<span style="color:#FF4000;">**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**</span>
+**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
 
 To fix a duplicating map, do the following:
 
@@ -34,4 +34,4 @@ Hard Method (keep local changes):
 
 If you have any duplicated maps, please contact a BAT for resolution.
 
-<span style="color:#FF4000;">**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**</span>
+**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
