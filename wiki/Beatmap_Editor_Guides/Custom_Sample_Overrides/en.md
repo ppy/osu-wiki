@@ -5,7 +5,8 @@ At the moment, per-beatmap and per-skin sample-sets can be implemented.
 
 The following files can be replaced:
 
-### Normal (loud) sampleset:
+Normal (loud) sampleset:
+------------------------------
 
 -   normal-hitnormal
 -   normal-hitwhistle
@@ -18,7 +19,8 @@ these three samples are additive, meaning when you hit a whistle you will get a 
 -   normal-sliderwhistle (loops)
 -   normal-slidertick
 
-### Soft sampleset:
+Soft sampleset:
+-----------------
 
 -   soft-hitnormal
 -   soft-hitwhistle
@@ -31,7 +33,8 @@ these three samples are additive, meaning when you hit a whistle you will get a 
 -   soft-sliderwhistle (loops)
 -   soft-slidertick
 
-### Drum sampleset:
+Drum sampleset:
+------------------
 
 -   drum-hitnormal
 -   drum-hitwhistle
@@ -44,12 +47,14 @@ these three samples are additive, meaning when you hit a whistle you will get a 
 -   drum-sliderwhistle (loops)
 -   drum-slidertick
 
-### Universal samples:
+Universal samples:
+--------------------
 
 -   spinnerspin (this sound is pitch-shifted as the spinner increases. It goes from ~500hz to 80000hz where the original sample is 44100hz)
 -   spinnerbonus (ding)
 
-### Sample Format
+Sample Format
+---------------
 
 You can use wav or mp3, but heed the following: WAVE files are best in all cases, as mp3s will not loop correctly and have a short (0-20ms) gap before they are heard, adding an extra latency variable.
 

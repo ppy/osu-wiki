@@ -2,17 +2,15 @@ osu!mania Mapping Guide
 =========================
 
 Prologue
-========
+---------
 
-What is Mania?
---------------
+### What is Mania?
 
 So what exactly is Mania? Many of you osu! veterans out there might already know what Mania is. osu!mania is one of the 4 game modes. Many people that stumble upon o!m for the first time will probably think to themselves "Oh cool! Guitar Hero!". And indeed, osu!mania is very similar to Guitar Hero. Both of these games are so-called "VSRGs", or **Vertical Scrolling Rhythm Games**. This means, as the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to o!m such as "Stepmania", “O2Jam” or "Beatmania IIDX". But for now, we will be concentrating on osu!mania only!
 
 The advantage of osu!mania lies in the fully customizable scroll speed (the speed of the notes falling) as well as the dynamic number of columns the notes fall down in.
 
-What is the osu!editor?
------------------------
+### What is the osu!editor?
 
 The osu!editor is the place where the map-making-magic happens! After all, maps do not appear out of nowhere (sadly). There are users that dedicate a lot of effort to creating what we get to play in osu! and you can become a mapper as well! Though everything inside the editor might appear confusing at first sight, it is much easier to use than one might think! Obviously, the editor handles all game modes, however, in this introduction, we will only focus on osu!mania. This mode has a very distinct appearance compared to the other mappable modes. Mostly, the area in which notes can be placed, is entirely different. It is rather compact, since all the other modes use the entire screen for object placement. Depending on the key count, the mappable area increases or decreases in size. This guide will revolve around 4-key-mapping. Below you can see a screenshot to show you the editor compartment in detail
 
@@ -35,20 +33,18 @@ The osu!editor is the place where the map-making-magic happens! After all, maps 
 
 ![](Mania Editor.jpg "Mania Editor.jpg")
 
-Alright! I want to Map!
------------------------
+### Alright! I want to Map!
 
 Now we know how to place notes in the editor. Should something still be unclear; read it again! You have all time in the world! If you have understood everything we can directly jump to point 2, the basics! This is where I will explain the song setup and how to time your beatmap!
 
 Basics
-======
+-------
 
-Song Setup
-----------
+### Song Setup
 
 Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new map will be created automatically. The map will have no name until we open it once with the editor. Whenever you open your map for the first time in the editor, the song setup will open automatically. !
 
-### General
+#### General
 
 <img src="Song Setup.png" width="300" />
 
@@ -97,7 +93,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 </tbody>
 </table>
 
-### Difficulty
+#### Difficulty
 
 <img src="Difficulty.png" width="300" />
 
@@ -134,7 +130,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 </tbody>
 </table>
 
-### Design
+#### Design
 
 <table>
 <tbody>
@@ -187,7 +183,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 </tbody>
 </table>
 
-### Advanced
+#### Advanced
 
 <img src="Advanced.png" width="300" />
 
@@ -222,8 +218,7 @@ The point **Colours** is not used in Mania so we don’t need to change anything
 
 The point **Audio** will be explained in the part “Hitsounds”
 
-Timing
-------
+### Timing
 
 Once we finished our song setup we need to time our song. The timing of a song sounds really complicated at first and if this is your first map, you might have problems with it but you can always ask the community whether or not someone can help you with the timing! Once you have timed a few songs you will get used to it! So don’t worry!t!
 
@@ -235,7 +230,7 @@ I also would like to show you a little program that can be really helpful to fin
 
 **Multiple BPM**: A lot of songs don’t have a constant BPM. For those, you need to add another BPM point. It works similar to the normal BPM. Go to the point where the BPM changes (This is the offset again because it’s the first beat of the BPM!), press F6 to open the Timing panel. Now just add another timing point by clicking on the green “plus” and adjust it to the BPM change while listening to the metronome again, or you can press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
 
-### Timing Setup Panel
+#### Timing Setup Panel
 
 <img src="TimingSetup.png" width="300" />
 
@@ -266,8 +261,7 @@ I also would like to show you a little program that can be really helpful to fin
 </tbody>
 </table>
 
-Pattern
--------
+### Pattern
 
 Once you finally have the right timings in your map it’s time to start with the mapping! But how exactly do you start? In this part of the guide I would like to show you different kinds of patterns you can use to map your song. It might be that some pattern looks really confusing for new mappers, but once you get used to it and you know how the patterns are actually called and when to use them i’m pretty sure you will learn them really fast! I will add a screenshot for each and every pattern with a short description for what they are and when you should use them.
 
@@ -377,8 +371,7 @@ Once you finally have the right timings in your map it’s time to start with th
 
 Okay! These are some of the different patterns you can use in your song! There’s still many more configurations of patterns not covered in this guide however. A lot of them can be really good combined. Try to experiment these patterns in your song and I’m sure you can find a good mix of them for your song!
 
-Mapping
--------
+### Mapping
 
 After we finally know which patterns we can use and how they are called we can start with the mapping. Just drag the song you want to map into osu!, fill out the song setup up and add the timing! If your first tries look kinda strange or you don’t like it, don’t give up! No one is born as a master. Testplay your map as often as you can and when it is finished try to get as much feedback as possible! Ask friends that play mania, ask in \#osumania or write directly to some player ingame and ask for feedback. It really helps a lot when you use the 25% playback rate while mapping. Alright, let’s go! In this part I would like to explain what exactly you should have an eye on while mapping an Easy/Normal/Hard or Insane difficulty.
 
@@ -406,8 +399,7 @@ Now I'll explain the **general guidelines** on what to chart for particular diff
 
 '''The "<span style="color: red">Insane</span>" ''' and *' "<span style="color: purple">Extreme</span>" difficulty*': Now we focus on the insane and extra difficulties. Again, we raise the density of the pattern and start to use even more complicated patterns! You can now use all kinds of pattern and try to combine them. Also, you can now use long 1/8 patterns as well as chord trills! An insane and extra difficulty is mostly for more experienced players, so you should try to make a really nice to play and still exciting difficulty. Try to combine jumpstreams with trills and heavy chord mashing. You can now use 3-note chords for more than just emphasizing the ending of a certain part in your song. But keep in mind: Should you plan to add another difficulty like an extra difficulty, you should not go to the limits! You should leave some space to make an even harder difficulty. I can’t tell much since you just have to create a harder difficult than the hard in a good spread. If you plan to add an extra difficulty you can go to the limits of the song. You can use heavy jumpstreams together with heavy chordmash. You can use 3-note chords in jumpstreams between two-note chords. You have to try out what’s the limit of the song. But take note of the following: A guideline says that you must be able to pass your own difficulties and I have to agree with this point. If you really want to create a good and playable insane/extra difficulty you should know how they play and for this you have to be able to pass them.
 
-Hitsounds
----------
+### Hitsounds
 
 You have placed your first notes and you like it? Or you Or you may have even finished a full difficulty or spread? Excellent! But something is missing, right? Yes! The Hitsounds.
 
@@ -497,12 +489,11 @@ You don’t even have to select all of this by hand. You can also change the sam
 Hitsounding may take some time but like I already mentioned it’s important for the beatmap. Once you get used to it, hitsounding will go really fast!
 
 Advanced Knowledge
-==================
+-------------------
 
 In this part I would like to explain more details of osu!mania mapping like keysounding, SV changes and pitch relevancy. Also, together with the community I want to explain different mapping styles here. The osu!mania community consists of players from different VSRG’s like o2 jam, Stepmania and BMS. All these games have a special mapping style.
 
-Pitch
------
+### Pitch
 
 Mapping to the pitch can lead to a fun to play map, especially in osu!mania!
 
@@ -514,13 +505,11 @@ What you always can try is to map the calm parts in your map to the pitch, espec
 
 Of course you don’t need to follow the pitch in your map but you can see it as a “little extra” that can make your map more exciting to play.
 
-Keysounds
----------
+### Keysounds
 
 **Will be added soon!**
 
-Slider Velocity (SV)
---------------------
+### Slider Velocity (SV)
 
 The Silver Velocity acts a bit different it osu!mania; it changes the speed, at which the notes scroll downwards. Higher slider velocity means that the notes fall faster, lower Slider Velocity means the notes fall slower.
 
@@ -534,8 +523,7 @@ The mode BPM of your map is always the number in brackets that you can find in t
 
 You take this number and divide it by the current BPM. What you will get is the SV you need to set with a Inherited Point at exactly the same timing as the BPM change.
 
-Design/Mapping Styles
----------------------
+### Design/Mapping Styles
 
 As mentioned before, the osu!mania community consists of players from different VSRGs so they are used to having different mapping styles as well.
 

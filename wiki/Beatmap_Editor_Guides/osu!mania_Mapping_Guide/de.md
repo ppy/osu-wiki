@@ -4,10 +4,9 @@ osu!mania Mapping Guide (Deutsch)
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.
 
 Vorwort
-=======
+---------
 
-Was ist Mania?
---------------
+### Was ist Mania?
 
 Also was ist Mania? Viele von euch die Osu! bereits länger spielen werden es bestimmt wissen. Osu!Mania ist einer der 4 Game Modes. Viele die Osu!Mania zum ersten mal sehen oder spielen werden sich sicher denken: "Oh cool! Guitar Hero!". Tatsächlich ist Osu!Mania sehr ähnlich zu Guitar Hero. Beides sind sogenannte "VSRG" **Vertical Scrolling Rhythm Game**. Das bedeutet, wie der Name schon sagt, dass die Noten vertikal auf euch zu kommen. Es gibt viele ähnliche Spiele wie "Stepmania", "FlashFlashRevolution" oder "Beatmania IIDX".
 
@@ -17,8 +16,7 @@ Der vorteil an Osu!Mania ist, man kann sich den Scrollspeed (Die Fallgeschwindig
 
 Schaut auch unbedingt in den Deutschsprachigen Osu!Mania Thread rein!
 
-Was ist der Editor?
--------------------
+### Was ist der Editor?
 
 Der Osu!Editor ermöglicht es uns eigene Beatmaps zu erstellen. Klar das die Maps, die wir alle Spielen, nicht einfach von allein entstehen. Für die Beatmaps sind die Beatmapper zuständig und jeder von uns kann einer werden. Auf den ersten Blick scheint der Editor sehr komplex und verwirrend, jedoch ist er viel einfacher zu bedienen als man denkt! Natürlich kann man mit dem Editor für jeden Spielmodus Beatmappen. In diesem Beitrag fokussieren wir uns jedoch nur auf Osu!Mania. Der Mania Editor hat einen großen und entscheidenen unterschied zu den anderen Modi. Die Mapping Fläche. Währen Standard, Catch the Beat und Taiko den ganzen Bildschirm benutzen haben wir in Osu!Mania nur links unsere Mapping Fläche. Je nachdem welchen Keycount ihr auswählt ist die Mapping Fläche breiter oder schmaler. In diesem Guide benutze ich 4Key.
 
@@ -45,8 +43,7 @@ Ich habe hier einen Screenshot vorbereitet um mal die Grundelemente des Mania Ed
 
 Soviel zum Editor. Ich hoffe ihr konntet mit meinem schönen Screen ein wenig mehr überblick gewinnen. Je mehr ihr Mappt umso vertrauter macht ihr euch damit!
 
-Alles klar! Ich will anfangen zu Mappen!
-----------------------------------------
+### Alles klar! Ich will anfangen zu Mappen!
 
 Wir wissen nun welcher Menüpunkt wozu gehört. Wir wissen was die "Columns" sind und wir wissen wie wir Noten platzieren.
 
@@ -55,14 +52,13 @@ Sollte noch etwas unklar sein schaut ruhig noch einmal nach und lest es in ruhe 
 Aber solltet ihr alles verstanden haben springen wir doch gleich zu Punkt 2, den Grundlagen des Guides!
 
 Grundlagen
-==========
+-------------
 
-Song Setup
-----------
+### Song Setup
 
 Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu rein und öffnen diesen im Editor. Sobald ihr den Song zum ersten mal öffnet zeigt sich sofort das Song Setup. Wollt ihr euren Song ranken müsst ihr unter "General" mögliches alle Felder korrekt ausfüllen. Auch dies versuche ich mit Screenshots genauer zu zeigen!
 
-### General
+#### General
 
 <img src="Song Setup.png" width="300" />
 
@@ -111,7 +107,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 </tbody>
 </table>
 
-### Difficulty
+#### Difficulty
 
 <img src="Difficulty.png" width="300" />
 
@@ -148,7 +144,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 </tbody>
 </table>
 
-### Design
+#### Design
 
 <table>
 <tbody>
@@ -201,7 +197,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 </tbody>
 </table>
 
-### Advanced
+#### Advanced
 
 <img src="Advanced.png" width="300" />
 
@@ -236,8 +232,7 @@ Soviel zum Song Setup. Die Punkte **Colours** und **Audio** habe ich bewusst aus
 
 Auf Audio gehe ich in Punkt "Hitsounds" näher ein.
 
-Timing
-------
+### Timing
 
 Nun kommen wir zu dem Punkt Timing. Dieser ist für die meisten am schwersten, hat man es jedoch einmal verstanden ist es ganz leicht!
 
@@ -251,7 +246,7 @@ Beachtet bitte. Dieses Programm funktioniert nur bei Single BPM! Hat euer Song M
 
 Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benutzt es nur zur Kontrolle. Sonst lernt ihr nie wirklich einen Song zu Timen.
 
-### Timing Setup Panel
+#### Timing Setup Panel
 
 <img src="TimingSetup.png" width="300" />
 
@@ -280,8 +275,7 @@ Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benu
 </tbody>
 </table>
 
-Pattern
--------
+### Pattern
 
 Jetzt geht es los! Wir haben unseren Song richtig getimte und die Meta Data richtig eingestellt. Dann können wir ja endlich anfangen! Aber, wie fangen wir an? In diesem Part des Guides zeige ich euch die verschiedenen Pattern die wir benutzen können beim Mappen! Anfangs scheint das vielleicht noch etwas kompliziert und verwirrend jedoch wenn man erst mal die Pattern kennt, weiß man auch wie man Mappen kann und sollte! Ich stelle euch möglichst alle Pattern vor die es gibt mit einem Screenshot und einer möglichst genauen erklären wann ihr diese art von Pattern benutzen solltet. Also, fangen wir doch gleich mal an!
 
@@ -393,8 +387,7 @@ Ich habe mal einen kurzen abschnitt eines Songs gemappt um die Pattern in ihrer 
 
 Soviel zu den Pattern! Viele von denen können sehr gut Kombiniert werden. Probiert einfach mal ein wenig rum! Gebt euch niemals mit dem ersten zufrieden das ihr gemappt habt. Oft muss man ein wenig um die Ecke denken!
 
-Das Mappen
-----------
+### Das Mappen
 
 Nachdem ihr euch nun mit den verschiedenen Pattern auseinander gesetzt habt geht es ans eingemacht! Legt los und Mappt! Sucht euch einen Song der euch gefällt. Timed ihn und legt los! Versucht einfach mal verschiedene der hier gezeigten Pattern aus. Viel kann ich hier nicht mehr sagen da ihr selber die Erfahrung sammeln müsst. Last euch nicht unter kriegen wenn euch euer erstes Ergebnis nicht gefällt. Testplayed es (wenn möglich) und ändert die Pattern so lange bis sie euch gefallen. Benutzt auch oft die 25% Playback rate um alle Sounds genau hören zu können! Natürlich dauert es dann länger, erhöht die Qualität einer Map aber enorm! Fragt andere nach Feedback zu euren Maps.
 
@@ -426,8 +419,7 @@ Solltet ihr euch für eine Approval Map entscheiden steht sehr viel Arbeit an! G
 
 Mappt den Song zu ende und schaut mehrmals drüber. Schaut wo ihr welche Pattern verbessern könntet.
 
-Hitsounden
-----------
+### Hitsounden
 
 Ihr habt die ersten Noten platziert und ihr seid zufrieden damit? Oder habt gar die erste Map fertig? Wunderbar! Aber.. Moment. Irgendwas fehlt doch?
 
@@ -503,10 +495,9 @@ Auch zu erwähnen wäre: Solltet ihr einfach keine lust auf Hitsounden haben (wa
 Soviel zum Thema Hitsounds! Nachdem eure Map nun auch Hitsounded ist könnt ihr sie hochladen und anderen Spieler zur Verfügung stellen!
 
 Erweiterte Kenntnisse
-=====================
+----------------------
 
-Pitch
------
+### Pitch
 
 Unter **Pitch** versteht man in Mania das Mappen nach Tonhöhe, heißt tiefe Noten werden Links, hohe Noten Rechts gemappt. Wie auf einem Piano. Grade in 4k ist es uns leider nicht möglich jedes mal nach Pitch zu Mappen da wir von den Pattern sehr eingeschränkt sind. Das sieht jedoch ab 6k schon ganz anders aus. Es kann oft zu einem ganz anderen Spielerlebnis führen wenn man mit einzelnen Noten oder ganzen Chords dem Pitch folgt.
 
@@ -516,8 +507,7 @@ Auch erwähnenswert ist hier die [MiddleIsland - Achromat](https://osu.ppy.sh/s/
 
 Also versucht euch anfangs nicht nach Pitch zu Orientieren. Es ist uns einfach nicht möglich jedes mal diesem zu folgen. Man kann es wie ein "kleines Extra" sehen was eure Map noch etwas spannender machen kann, ist aber nicht zwingend Notwendig.
 
-Design
-------
+### Design
 
 In diesem Part des Guides möchte ich etwas genauer auf das Thema **Design** eingehen. Auch in Mania kann man nach verschiedenen Designs Mappen. Im Grunde unterscheiden wir erst mal unter 2:
 
@@ -539,8 +529,7 @@ Ein gutes Beispiel wie man es **NICHT** machen sollte sehen wir in einer meiner 
 
 Soviel zum Thema Design! Wie ihr seht gibt es einige Methoden wie wir Mappen können. Sollte euch mal die Inspiration fehlen dann schaut euch andere Maps im Editor an und fragt euch selber "Wie hat der Mapper hier gemappt und warum". Vielleicht könnt ihr davon was in eure Map übernehmen. Dies ist auch die Perfekte Überleitung zu unserem nächsten Punkt:
 
-Modding
--------
+### Modding
 
 Ganz egal wie viel ihr auch Mappt. Irgendwann habt ihr eure grenzen erreicht. Es ist einfach so. Irgendwann fallen euch einfach keine weiteren Pattern ein und ihr wisst nicht weiter. Ab hier solltet ihr euch mal überlegen ob ihr es nicht mal mit **Modding** versuchen wollt!
 
@@ -566,8 +555,7 @@ Ihr möchtet mal sehen wie Modding aussieht? Kein Problem! Hier haben wir eine M
 
 Soviel zum Thema Modding! Wenn ihr eine Map ranken wollt kommt ihr nicht drum rum eine Map zu Modden. Aber vergesst nicht. Durch das Modden seht ihr unzählige verschiedene Designs auf die ihr selber vielleicht nie kommen würdet!
 
-Keysounds
----------
+### Keysounds
 
 Ein sehr interessanter Punkt und einzigartig für den Mania Modus ist das "**Keysounden**"
 
@@ -604,8 +592,7 @@ Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](htt
 
 Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkeiten offen Hitsounds und Keysounds zu verwenden!
 
-Slider Velocity (SV)
---------------------
+### Slider Velocity (SV)
 
 Die Slider Velocity oder auch SV spielt in Mania eine große Rolle. Sie kontrollieren das Scrollspeed die eine Map hat. Zur Klarstellung: Wenn ihr eine Map mit Multipler BPM habt, z.B Anfang 150 BPM und in der Mitte 200 BPM wird das Scrollspeed auf eimal viel schneller! Das wollen wir natürlich nicht und genau das regulieren wir mit den Inherited Points und der Slider Velocity.
 

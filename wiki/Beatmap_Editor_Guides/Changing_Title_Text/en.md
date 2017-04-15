@@ -4,12 +4,12 @@ Changing Title Text
 [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/forum/t/14513)
 
 How to get it changed
-=====================
+-------------------------
 
 Sadly, you can't do this yourself. Just ask a QAT to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
 
 Why change?
-===========
+------------
 
 If used correctly, it can add a certain effect (in a good way!) to a map. It changes the presentation of your map in an effective manner if used correctly by changing the elements and the time of the appearance of the title. If you're a storyboarder, this might be a very huge benefit to you!
 
@@ -17,7 +17,7 @@ If used correctly, it can add a certain effect (in a good way!) to a map. It cha
 -   You can split the title if it's too long for a single line: [example](https://osu.ppy.sh/s/1391), [another one](https://osu.ppy.sh/s/57560)
 
 General info
-============
+-------------
 
 Hand this to your favourite QAT.
 
@@ -30,7 +30,7 @@ Hand this to your favourite QAT.
 -   Empty lines are allowed, but please mind the space. The standard font size is kind of big, and 3 or 4 lines can eat the whole screen space;
 
 What can be changed?
-====================
+--------------------
 
 ### Colour of the text
 
@@ -63,7 +63,7 @@ How long the text stays on the screen, including the fade in and out.
 Font size in points.
 
 Defaults
-========
+----------
 
 Default line for every freshly submitted/updated with no artist/title changes map is:
 
@@ -78,7 +78,7 @@ Default values, if not specified:
 -   hold: 6000
 
 Example
-=======
+----------
 
 `[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
 
