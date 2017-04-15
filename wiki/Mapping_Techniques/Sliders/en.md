@@ -19,7 +19,7 @@ The term "Estna sliders" were coined by [awp](https://osu.ppy.sh/u/2650) and nam
 
 ### Introverted Flow
 
-Nominator(s): Quiz-chan
+Nominator(s): [Lizzy](https://osu.ppy.sh/u/1394757)
 
 Introverted flow is (literally translated from Latin) "pointing towards inside".
 This can be seen as:
@@ -103,7 +103,7 @@ End-Cutter sliders uses a slider whose end is stacked on another slider's path.
 
 ### Krisom-Krosses
 
-Nominator(s): Rukarioman
+Nominator(s): [Rukario](https://osu.ppy.sh/u/110372)
 
 Krisom-Krosses consists of two [Wave Sliders](#wave-sliders).
 These are horizontally or vertically [mirrored sliders](#mirrored-sliders) such that the middle of both sliders overlap.
@@ -159,7 +159,7 @@ The sliders may not necessarily be curved, which can instead form a cross or an 
 
 ### Switch-Back Sliders
 
-Nominator(s): Gladi
+Nominator(s): [GladiOol](https://osu.ppy.sh/u/23326)
 
 Switch-Back sliders consists of a curved half-beat slider.
 It is then copy-and-pasted, rotated 180 degrees, and placed so it curves into the previous slider (similar to [Etna sliders](#etna-sliders)).
@@ -174,7 +174,7 @@ These are usually used to make a hitsound seem "constant" even during a slider.
 
 ### Tricky Triple Combo
 
-Nominator(s): FishHook
+Nominator(s): [FishHook](https://osu.ppy.sh/u/167586)
 
 Tricky triple combo consists of 2 sliders and one note.
 The note is sandwiched between the sliders to give an illusion that there is a triplet when there actually isn't.
