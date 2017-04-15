@@ -12,7 +12,7 @@ From [Ephemeral](https://osu.ppy.sh/u/102335),
 
 Use essentially the same technique for any sliders symmetrical in one axis.
 
-![](img/MGS_arcs.png)
+![Image example of arcs](img/MGS_arcs.png)
 
 This is the easiest shape to make.
 You basically place all of your points symmetrically in the grid first of all.
@@ -33,7 +33,7 @@ If you want an arc at an angle, it's usually easiest to make it upright as above
 
 Use essentially the same technique for any sliders that are rotationally symmetrical.
 
-![](img/MGS_waves.png)
+![Image example of waves](img/MGS_waves.png)
 
 Waves are made very similarly to arcs, only your points should be rotationally symmetrical with each other as opposed to horizontally flipped.
 If you press `Ctrl` + `H` + `J` it rotates the slider by 180 Ddgrees so you can check the points correspond.
@@ -45,7 +45,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 _See also [../Formations/#blanket-combos]._
 
-![](img/MGS_blankets.png)
+![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 
 Blankets are easiest to do if you eyeball the slider first of all to get it roughly correct, then scroll to a point on the timeline where the approach circle of the beat lines up with the closest edge of the slider's startpoint.
 It may help to go into 1/8 snap to get it just right.
@@ -58,13 +58,13 @@ Keep in mind that if you want a slider to blanket **and** be perfectly symmetric
 From [Gonzvlo](https://osu.ppy.sh/u/237733),
 > as a variation of beat blankets, sometimes I use a spinner to make nice circles.
 
-![](img/MGS_blankets2.png)
+![Image example of beat blankets (with spinner)](img/MGS_blankets2.png)
 
 ## Circles
 
 Courtesy of mm201.
 
-![](img/MGS_circles.jpg)
+![Image example of circles](img/MGS_circles.jpg)
 
 The number of control points you want depends on the angle covered by your arc:
 
@@ -87,7 +87,7 @@ Like with most shapes, keep one (two if the number of points is even) control po
 
 Use the same technique for any slider with straight bits and curved bits.
 
-![](img/MGS_elbows.png)
+![Image example of elbows](img/MGS_elbows.png)
 
 When you want a slider with a transition between a curved bit and a straight bit you use a red point where it switches.
 The most important thing is to **always put the red point and points on either side in a straight line**.
@@ -100,7 +100,7 @@ But yeah it's pretty straightforward apart from that.
 
 Use same technique for any slider which is symmetrical, but the startpoint is on the centre line.
 
-![](img/MGS_hearts.png)
+![Image example of hearts](img/MGS_hearts.png)
 
 A nice shape to use sometimes.
 Here is how you make one.
@@ -111,33 +111,33 @@ First, make a basic heart shape, slightly longer than you need, with both the st
 Try and copy these points roughly if you're having trouble.
 Putting just a redpoint at the top is fine, but I prefer to use an elbow curve :P
 
-![](img/MGS_hearts1.png)
+![How to make hearts step 1](img/MGS_hearts1.png)
 
 ---
 
 Next, copy and paste this slider to the tick immediately after itself and horizontal flip like so.
 
-![](img/MGS_hearts2.png)
+![How to make hearts step 2](img/MGS_hearts2.png)
 
 ---
 
 Then grab the endpoint of the first slider and pull it back to the length you want your slider to be.
 
-![](img/MGS_hearts3.png)
+![How to make hearts step 3](img/MGS_hearts3.png)
 
 ---
 
 See how it's asymmetrical and ugly?
 Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind. 
 
-![](img/MGS_hearts4.png)
+![How to make hearts step 4](img/MGS_hearts4.png)
 
 ---
 
 If you managed all that, you're done!
 Delete the slider behind and edit/scale by if you want to fill any gaps.
 
-![](img/MGS_hearts5.png)
+![How to make hearts step 5](img/MGS_hearts5.png)
 
 ## Wiggles
 
@@ -147,7 +147,7 @@ There are a couple of ways to do this, depending on what kind of wiggle you're a
 
 Start and end pointing the same way.
 
-![](img/MGS_wiggles1.png)
+![Image example of wiggles (type 1)](img/MGS_wiggles1.png)
 
 The important thing here is that each arc that make up the wiggle is made up of four points, and as you get closer to the centre the taller the four points need to be.
 Once you have the basic shape, it's just messing around and eyeballing until it looks even and the tail end of the slider lines up on the last point.
@@ -159,7 +159,7 @@ Once you've made a few nice looking wiggles you'll be able to knock them out in 
 
 Start and end pointing different ways.
 
-![](img/MGS_wiggles2.png)
+![Image example of wiggles (type 2)](img/MGS_wiggles2.png)
 
 Similarly to [type 1](#type-1), each arc is made up of four points, but in my experience it helps if they're kinda twisted round, like in the image above.
 These are rotationally symmetrical, like waves, so use `Ctrl` + `H` + `J` to check points.
@@ -168,7 +168,7 @@ These are rotationally symmetrical, like waves, so use `Ctrl` + `H` + `J` to che
 
 Super Tight Wiggles.
 
-![](img/MGS_wiggles3.png)
+![Image example of wiggles (type 3)](img/MGS_wiggles3.png)
 
 Sometimes wiggles are just too tight to use the above method, so red-points are necessary.
 Make sure that the points of each section between each pair of red-points are identical, apart from the end ones.
@@ -181,7 +181,7 @@ This just takes a lot of messing around, but hopefully you'll get there eventual
 
 An easier said than done kind of slider.
 
-![](img/MGS_loops.png)
+![Image example of loops](img/MGS_loops.png)
 
 The things to remember when forming loops is that the points go up a lot further than the loop does:
 - The further each point is from the ends, the further away it needs to be from the slider.
@@ -190,12 +190,8 @@ The biggest issue I see with people's loops are the hole.
 You're looking for an open, rounded teardrop shape like the above slider.
 If the hole of the loop looks like any of these, your loop isn't as awesome as the above screenshot:
 
-![](img/MGS_loops1.png)
+![Poor Image example of loops](img/MGS_loops1.png)
 
-![](img/MGS_loops2.png)
+![Bad Image example of loops](img/MGS_loops2.png)
 
-![](img/MGS_loops3.png)
-
-## Inspiration Gallery Corner
-
-For more miscellaneous and interesting sliders, see [Inspiration Gallery Corner](../Inspiration_Gallery_Corner).
+![Horrible Image example of loops](img/MGS_loops3.png)
