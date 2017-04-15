@@ -1,165 +1,161 @@
+# Mapping Techniques
 
-***The following wiki pages are a compendium of [Mapping Techniques](Mapping_Techniques "wikilink") known and named by the players and mappers!***
+**The following wiki pages are a compendium of Mapping Techniques known and named by the players and mappers!**
 
-\_\_TOC\_\_
+## FAQ
 
-What are Mapping Techniques?
-----------------------------
+### What are Mapping Techniques?
 
-[Mapping Techniques](Mapping_Techniques "wikilink") are methods and/or circle (or slider or spinner) patterns widely used by known mappers in their maps.
+Mapping Techniques are methods and/or object placement patterns that are widely used by known mappers in their maps.
 
-Note: It is best to treat these pages as a beginner's guide until you have developed your own mapping style. At first, it is recommended to observe and copy other experienced mappers' styles, while letting your creativity free little by little. Many great mappers sharpened their skills at first by imitating others they admired, so there is no shame in doing that yourself.
+Note: It is best to treat these pages as a beginner's guide until you have developed your own mapping style.
+At first, it is recommended to observe and copy other experienced mappers' styles, while letting your creativity free little by little.
+Many great mappers sharpened their skills at first by imitating others they admired, so there is no shame in doing that yourself.
 
 ### I don't know where to start?!
 
-Not sure where to begin? You can scroll down to find an some interesting [Mapping Techniques](Mapping_Techniques "wikilink")!
-Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](Mapping_Techniques/Basics "wikilink")
+Not sure where to begin? You can scroll down to find an some interesting Mapping Techniques!
+Or you can get a gist of mapping techniques here: [Mapping Techniques/Basics](./Basics/)
 
-List of Mapping Techniques (Sorted by type)
--------------------------------------------
+## List of Mapping Techniques
 
-List of Mapping Techniques (Sorted by nomination)
--------------------------------------------------
+### Formation Techniques
 
-*Notice: This list does <u>not</u> contain every mapping technique, it only contains the ones that were nominated from the forums!*
+See [Formation](./Formation/) for more details.
 
-This list mostly originated from these forum posts below and are in order of nomination.
+#### Symmetrical Shape Formations
 
--   [osu! forum Mapping Techniques](https://osu.ppy.sh/forum/61)
-    -   [kingcobra52's Rate the Mapping Technique - Nominations](https://osu.ppy.sh/forum/t/17785)
-    -   [dkun's Rate the Mapping Technique - Nominations](https://osu.ppy.sh/forum/t/135437)
+1. [Triangle Beats](./Formation/Triangle_Beats/)
+2. [Square Formation](./Formation/Square_Formation/)
+   1. [Square Formation v2](./Formation/Square_Formation_v2/)
+4. [Diamond Formation](./Formation/Diamond_Formation/)
+   1. [QQ Diamonds](./Formation/QQ_Diamonds/)
+5. [Circle Formation](./Formation/Circle_Formation/)
+6. [Zig-Zag Sliders](./Formation/Zig-Zag_Sliders/)
+   1. [Reversed Zig-zag Sliders](./Formation/Reversed_Zig-Zag_Sliders/)
 
-| 1-20                                                                                      | 21-40                                                                           | 41-60                                                                               | 61-80                                                                 |
-|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 1. [Back and Forth Beats](Rhythm_Techniques#Back_and_Forth_Beats "wikilink")  
+#### Creative Formations
 
- 2. [Mirrored Sliders](Slider_Techniques#Mirrored_Sliders "wikilink")
+1. [Star Formations](./Formation/Star_Formations/)
+2. [Tornado Combos](./Formation/Tornado_Combos/)
+3. [ztrot Spacing](./Formation/ztrot_Spacing/)
+4. [Flower Combos](./Formation/Flower_Combos/)
+5. [Blanket Combos](./Formation/Blanket_Combos/)
+6. [Honeycomb Beats](./Formation/Honeycomb_Beats/)
+7. [Divebomb Combos](./Formation/Divebomb_Combos/)
+8. [The Kickstream](./Formation/The_Kickstream/)
 
- 3. [Half-backing](Rhythm_Techniques#Half-backing "wikilink")
+### Rhythm Techniques
 
- 4. [Etna Sliders](Slider_Techniques#Etna_Sliders "wikilink")
+See [Rhythm](./Rhythm/) for more details.
 
- 5. [Zig-Zagging Sliders](Slider_Techniques#Zig-Zagging_Sliders "wikilink")
+#### Spacing
 
- 6. [Triangle Beats](Formation_Techniques#Triangle_Beats "wikilink")
+1. [Back and Forth Beats](./Rhythm/Back_and_Forth_Beats/)
+2. [Linear Back and Forth](./Rhythm/Linear_Back_and_Forth/)
+3. [Hub and Spoke](./Rhythm/Hub_and_Spoke/)
+4. [Step-Too-Fars](./Rhythm/Step-Too-Fars/)
+5. [15 Degree Patterns](./Rhythm/15_Degree_Patterns/)
+6. [Spacing Out](./Rhythm/Spacing_Out/)
+7. [Accelerated Spacing](./Rhythm/Accelerated_Spacing/)
+8. [Drain Sections](./Rhythm/Drain_Sections/)
+9. [Differential Stacks](./Rhythm/Differential_Stacks/)
+10. [Half-backing](./Rhythm/Half-backing/)
 
- 7. [Short Repeating Sliders](Slider_Techniques#Short_Repeating_Sliders "wikilink")
+#### Streams
 
- 8. [Spacing Out](Rhythm_Techniques#Spacing_Out "wikilink")
+1. [Triplet Streams](./Formation/Triplet_Streams/)
+2. [Compressed Streams](./Formation/Compressed_Streams/)
+3. [Deathstreams](./Formation/Deathstreams/)
+4. [Slider Stream Jumps](./Formation/Slider_Stream_Jumps/)
+5. [Zig-Zag Streams](./Formation/Zig-Zag_Streams/)
+6. [Variable Spaced Streams](./Formation/Variable_Spaced_Streams/)
+7. [Discontinuous Streams](./Formation/Discontinuous_Streams/)
 
- 9. [The Kickstream](Formation_Techniques#The_Kickstream "wikilink")
+#### Speed Techniques
 
- 10. [Blanket Combos](Formation_Techniques#Blanket_Combos "wikilink")
+1. [Slider Slowdowns](./Rhythm/Slider_Slowdowns/)
 
- 11a. [Zig-zag Sliders](Formation_Techniques#Zig-zag_Sliders "wikilink")
+### Jump Techniques
 
- 11b. [Reversed Zig-zag Sliders](Formation_Techniques#Reversed_Zig-zag_Sliders "wikilink")
+See [Jump](./Jump/) for more details.
 
- 12. [Segment Sliders](Slider_Techniques#Segment_Sliders "wikilink")
+#### Hit Circle Jumps
 
- 13. [ztrot Spacing](Formation_Techniques#ztrot_Spacing "wikilink")
+1. [Large Jumps](./Jump/Large_Jumps/)
+2. [Oibon Jumps](./Jump/Oibon_Jumps/)
+3. [Anti-Jumps](./Jump/Anti-Jumps/)
+   1. [Anti-SeibeiStyle-Jumps](./Jump/Anti-SeibeiStyle-Jumps/)
+4. [Center Anti-Jumps](./Jump/Center_Anti-Jumps/)
 
- 14. [Accelerated Spacing](Rhythm_Techniques#Accelerated_Spacing "wikilink")
+#### Slider Jumps
 
- 15a. [Anti-Jumps](Jumping_Techniques#Anti-Jumps "wikilink")
+1. [Endpoint Slider Jumps](./Jump/Endpoint_Slider_Jumps/)
+2. [Orbital Sliders](./Jump/Orbital_Sliders/)
+3. [B&F Sliderbased Jumps](./Jump/B&F_Sliderbased_Jumps/)
 
- 15b. [Anti-Jumps (SeibeiStyle)](Jumping_Techniques#Anti-Jumps_(SeibeiStyle) "wikilink")
+### Unrankable Techniques
 
- 16. [Flower Combo](Formation_Techniques#Flower_Combo "wikilink")
+See [Unrankable](./Unrankable/) for more details.
 
- 17. [Rainbow Sliders](Slider_Techniques#Rainbow_Sliders "wikilink")
+1. [Hold Sliders](./Unrankable/Hold_Sliders/)
+2. [Burai Sliders](./Unrankable/Burai_Sliders/)
+3. [Stack Zero](./Unrankable/Stack_Zero/)
+4. [Ninja Spinners](./Unrankable/Ninja_Spinners/)
 
- 18. [Deathstreams](Rhythm_Techniques#Deathstreams "wikilink")
+### Hit Circle Techniques
 
- 19. [Orbital Sliders](Jumping_Techniques#Orbital_Sliders "wikilink")
+See [Hit Circle](./Hit_Circle/) for more details.
 
- 20. [Slider Art](Slider_Techniques#Slider_Art "wikilink")                                  | 21. [Triplet Streams](Rhythm_Techniques#Triplet_Streams "wikilink")
+#### Patterns
 
-                                                                                             22. [Linear Back and Forth](Rhythm_Techniques#Linear_Back_and_Forth "wikilink")
+1. [Double Stacks](./Hit_Circle/Double_Stacks/)
 
-                                                                                             23. [Slider Trains](Slider_Techniques#Slider_Trains "wikilink")
+### Slider Techniques
 
-                                                                                             24. [Parallel Sliders](Slider_Techniques#Parallel_Sliders "wikilink")
+See [Slider](./Slider/) for more details.
 
-                                                                                             25. [Windmill Sliders](Slider_Techniques#Windmill_Sliders "wikilink")
+#### Stylish Techniques
 
-                                                                                             26. [Wave Sliders](Slider_Techniques#Wave_Sliders "wikilink")
+1. [Slider Art](./Slider/Slider_Art/)
+2. [Cutting Sliders](./Slider/Cutting_Sliders/)
+3. [Crumpled Sliders](./Slider/Crumpled_Sliders/)
+4. [End-Cutter Sliders](./Slider/End-Cutter_Sliders/)
+5. [Krisom-Krosses](./Slider/Krisom-Krosses/)
+6. [Spiral Slider](./Slider/Spiral_Slider/)
+7. [Spider Sliders](./Slider/Spider_Sliders/)
+8. [Rainbow Sliders](./Slider/Rainbow_Sliders/)
+9. [Windmill Sliders](./Slider/Windmill_Sliders/)
+10. [Wave Sliders](./Slider/Wave_Sliders/)
 
-                                                                                             27. [Zig-Zag Streams](Rhythm_Techniques#Zig-Zag_Streams "wikilink")
+#### Patterns
 
-                                                                                             28a. [Square Formations](Formation_Techniques#Square_Formations "wikilink")
+1. [Mirrored Sliders](./Slider/Mirrored_Sliders/)
+2. [Etna Sliders](./Slider/Etna_Sliders/)
+3. [Short Repeating Sliders](./Slider/Short_Repeating_Sliders/)
+4. [Zig-Zagging Sliders](./Slider/Zig-Zagging_Sliders/)
+5. [Segment Sliders](./Slider/Segment_Sliders/)
+6. [Slider Trains](./Slider/Slider_Trains/)
+7. [Parallel Sliders](./Slider/Parallel_Sliders/)
+8. [Introverted Flow](./Slider/Introverted_Flow/)
 
-                                                                                             28b. [Square Formation v2](Formation_Techniques#Square_Formation_v2 "wikilink")
+#### Miscellaneous
 
-                                                                                             29. [Switch-Back Sliders](Slider_Techniques#Switch-Back_Sliders "wikilink")
+1. [Tick-Hitsounds](./Slider/Tick-Hitsounds/)
+2. [Switch-Back Sliders](./Slider/Switch-Back_Sliders/)
+3. [Tricky Triple Combo](./Slider/Tricky_Triple_Combo/)
 
-                                                                                             30. [Honeycomb Beats](Formation_Techniques#Honeycomb_Beats "wikilink")
+### Spinner Techniques
 
-                                                                                             31. [Hub and Spoke](Rhythm_Techniques#Hub_and_Spoke "wikilink")
+See [Spinner](./Spinner/) for more details.
 
-                                                                                             32. [Oibon Jumps](Jumping_Techniques#Oibon_Jumps "wikilink")
+#### Spinner Variation
 
-                                                                                             33. [Post-Spinner Note](Spinner_Techniques#Post-Spinner_Note "wikilink")
+1. [Short Spinners](./Spinner/Short_Spinners)
+2. [Double Spinners](./Spinner/Double_Spinners)
+3. [End Spinner](./Spinner/End_Spinner)
 
-                                                                                             34. [Cutting Sliders](Slider_Techniques#Cutting_Sliders "wikilink")
+#### Additional Effects
 
-                                                                                             35. [Hooooooold Sliders](Unrankable_Techniques#Hold_Sliders "wikilink")
-
-                                                                                             36. [Tricky Triple Combo](Slider_Techniques#Tricky_Triple_Combo "wikilink")
-
-                                                                                             37. [Double Stacks](Hit_Circle_Techniques#Double_Stacks "wikilink")
-
-                                                                                             38. [Tick-Hitsounds](Slider_Techniques#Tick-Hitsounds "wikilink")
-
-                                                                                             39. [Crumpled Sliders](Slider_Techniques#Crumpled_Sliders "wikilink")
-
-                                                                                             40. [Divebomb Combos](Formation_Techniques#Divebomb_Combos "wikilink")           | 41. [Pre-Spinner Notes](Spinner_Techniques#Pre-Spinner_Notes "wikilink")
-
-                                                                                                                                                                               42. [QQ Diamonds](Formation_Techniques#QQ_Diamonds "wikilink")
-
-                                                                                                                                                                               43. [Tornado Combos](Formation_Techniques#Tornado_Combos "wikilink")
-
-                                                                                                                                                                               44. [Central Anti-Jumps](Jumping_Techniques#Central_Anti-Jumps "wikilink")
-
-                                                                                                                                                                               45. [Star Formations](Formation_Techniques#Star_Formations "wikilink")
-
-                                                                                                                                                                               46. [Drain Sections](Rhythm_Techniques#Drain_Sections "wikilink")
-
-                                                                                                                                                                               47. [End-Cutter Sliders](Slider_Techniques#End-Cutter_Sliders "wikilink")
-
-                                                                                                                                                                               48. [Endpoint Slider Jumps](Jumping_Techniques#Endpoint_Slider_Jumps "wikilink")
-
-                                                                                                                                                                               49. [Differential Stacks](Rhythm_Techniques#Differential_Stacks "wikilink")
-
-                                                                                                                                                                               50. [Krisom-Krosses](Slider_Techniques#Krisom-Krosses "wikilink")
-
-                                                                                                                                                                               51. [Spiral Slider](Slider_Techniques#Spiral_Slider "wikilink")
-
-                                                                                                                                                                               52. [Compressed Streams](Rhythm_Techniques#Compressed_Streams "wikilink")
-
-                                                                                                                                                                               53. [Double Spinners](Spinner_Techniques#Double_Spinners "wikilink")
-
-                                                                                                                                                                               54. [Step-Too-Fars](Rhythm_Techniques#Step-Too-Fars "wikilink")
-
-                                                                                                                                                                               55. [Spider Sliders](Slider_Techniques#Spider_Sliders "wikilink")
-
-                                                                                                                                                                               56. [Slider Stream Jumps](Rhythm_Techniques#Slider_Stream_Jumps "wikilink")
-
-                                                                                                                                                                               57. [15° Patterns](Rhythm_Techniques#15_degree_Patterns "wikilink")
-
-                                                                                                                                                                               58. [Variable Spaced Streams](Rhythm_Techniques#Variable_Spaced_Streams "wikilink")
-
-                                                                                                                                                                               59. [Discontinuous Streams](Rhythm_Techniques#Discontinuous_Streams "wikilink")
-
-                                                                                                                                                                               60. [B&F Sliderbased Jumps](Jumping_Techniques#B&F_Sliderbased_Jumps "wikilink")     | 61. [Introverted Flow](Slider_Techniques#Introverted_Flow "wikilink") |
-
-![](heartpop.gif "fig:heartpop.gif") Unrankable Techniques
-----------------------------------------------------------
-
-These techniques are frowned upon due to making the beatmap's difficulty impossible to Perfect Combo.
-An overview of them can be found here: [Unrankable Techniques](Unrankable_Techniques "wikilink").
-
--   Burai Sliders
--   Hold Sliders
--   Stack zero
--   Ninja Spinners (Not to be confused with *[Short Spinners](Spinner_Techniques#Short_Spinners "wikilink")*)
+1. [Pre-spinner Note](./Spinner/Pre-spinner_Note)
+2. [Post-spinner Note](./Spinner/Post-spinner_Note)
