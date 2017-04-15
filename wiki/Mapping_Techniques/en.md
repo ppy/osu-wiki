@@ -9,6 +9,8 @@ Many great mappers have sharpened their skills at first by imitating others they
 Below are links to the some of the well known mapping techniques widely used by mappers.
 If need be, you could also get a gist of mapping techniques at [Mapping Techniques/Basics](./Basics/).
 
+If you want to know how to make good sliders, see [Making Good Sliders](./Making-Good-Sliders).
+
 ## List of Mapping Techniques
 
 <!-- please place all mapping techniques in alphabetical order -->
