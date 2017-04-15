@@ -44,7 +44,7 @@ Modified Symmetry is when you take a symmetrical pattern and modify it in variou
 Sometimes it works and sometimes it doesn't.
 
 00:20:455 (1,2,3) is one of the more successful examples of modified symmetry.
-It uses the [Scale By](Scale_By "wikilink") feature in order to make (3) a shorter version of (1).
+It uses the scale by feature in order to make (3) a shorter version of (1).
 It's successful because it's actually noticeable.
 Some people like this, some people don't, though, so it's up to you.
 
