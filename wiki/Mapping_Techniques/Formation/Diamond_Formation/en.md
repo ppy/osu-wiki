@@ -1,6 +1,6 @@
 # Diamond Formation
 
-![](./img/basic.png)
+![](./img/basic.gif)
 
 Nominator: QiiXshinez
 
@@ -8,6 +8,7 @@ The diamond formation is just like the [Square Formation](../Square_Formation) o
 
 ## Examples
 
+// redo the images -- use gif
 ![](./img/23811.png)
 
 - [Laura Jane - La La (Larto) \[HARD ROCK!\]](https://osu.ppy.sh/b/23811)

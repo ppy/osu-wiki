@@ -4,7 +4,7 @@ Formation techniques use paths (specifically, placement of hitobjects) to form s
 
 ## Symmetrical Shape Formations
 
-**Symmetrical shapes formation** are objects forming symmetrical shapes.
+**Symmetrical shape formations** are objects forming symmetrical shapes.
 
 1. [Triangle Beats](./Formation/Triangle_Beats/)
 2. [Square Formation](./Formation/Square_Formation/)
