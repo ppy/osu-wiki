@@ -8,12 +8,12 @@ Introduction
 
 Timing a song is, in fact, not as complicated as it may seem at first glance. You only need two things: a sense of rhythm and some dexterity. An ear for music and experience playing rhythm games are not required, but can help improve the outcome of your map.
 
-You are also supposed to know what [BPM](BPM "wikilink") and [offset](Glossary#Offset "wikilink") are, and how to set uninherited timing points (often called red offsets).
+You are also supposed to know what [BPM](/wiki/Glossary) and [offset](/wiki/Glossary) are, and how to set uninherited timing points (often called red offsets).
 
 Preparing the .mp3 file
 -------------------------
 
-If you are going to work on a beatmap and get it ranked (or approved), it is necessary for an audio file to have a bitrate between 128 and 192 kbps. (This is to ensure that songs are of acceptable quality and don't take too much space on the server and your hard drive). You can see the audio bitrate by right clicking it and selecting Properties, then Details tab. If you don't know how to reduce the bitrate (usually down to 192 kbps), there's a [wiki page](Audio_Editing "wikilink") and [our own professor's lecture {Direct to Youtube}](https://www.youtube.com/watch?v=muu3HkG38kk). You can ask your friends or you can ask around in Chat Console. If all else fails, search/ask on [forums](https://osu.ppy.sh/forum/56) or [find a way yourself](https://duckduckgo.com/?q=reducing+bitrate+mp3).
+If you are going to work on a beatmap and get it ranked (or approved), it is necessary for an audio file to have a bitrate between 128 and 192 kbps. (This is to ensure that songs are of acceptable quality and don't take too much space on the server and your hard drive). You can see the audio bitrate by right clicking it and selecting Properties, then Details tab. If you don't know how to reduce the bitrate (usually down to 192 kbps), there's a [wiki page](/wiki/Beatmap_Editor_Guides/Audio_Editing) and [our own professor's lecture {Direct to Youtube}](https://www.youtube.com/watch?v=muu3HkG38kk). You can ask your friends or you can ask around in Chat Console. If all else fails, search/ask on [forums](https://osu.ppy.sh/forum/56) or [find a way yourself](https://duckduckgo.com/?q=reducing+bitrate+mp3).
 
 The preparations may range from trimming to adding/removing any sound effects. All this is **best done before timing**, as **any** audio edits, including re-encoding, will *change the timing*.
 
@@ -147,7 +147,7 @@ These steps should be repeated until the end of the song. As output, we get the 
 The algorithm for timing speedups/slowdowns is slightly different:
 
 1.  Find a place where the song's tempo changes. Set a new offset (if possible, on a white tick). Then, zoom in the timeline scale (Alt + wheel up or press the circular "+" button);
-2.  Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](Sampleset "wikilink")). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
+2.  Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Glossary)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
 3.  Highlight a note and double-click on it, making sure it did not shift by accident after you clicked it. Put a new offset right on it;
 4.  Increase/decrease BPM of the previous offset, checking the difference between the tick before the new offset and the actual offset itself. Your goal is to remove the difference between these two by tweaking only the first section's BPM, so new section is placed exactly on the previous offset's tick.
 5.  After you are done, return to Step 2.

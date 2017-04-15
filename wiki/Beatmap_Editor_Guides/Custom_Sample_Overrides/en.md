@@ -69,5 +69,5 @@ Related articles
 
 Also check out:
 
--   [Custom Hitsound Library](Custom_Hitsound_Library "wikilink")
--   [Skinning/Sounds](Skinning/Sounds "wikilink")
+-   [Custom Hitsound Library](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
+-   [Skinning/Sounds](/wiki/Skinning/Sounds)
