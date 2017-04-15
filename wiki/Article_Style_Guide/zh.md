@@ -138,7 +138,7 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 ### 中文标点
 
-不同的人对标点符号的喜好可能不一样,但是在osu!wiki(中文文章)中建议使用**半角中文**标点,下面是中文标点表(不同的输入法可能略有不同):
+不同的人对标点符号的喜好可能不一样,但是在osu!wiki(中文文章)中建议使用**简体中文**标点(一般情况下此时输入法显示为半月、中文句号),下面是中文标点表(不同的输入法可能略有不同):
 ```
 ，逗号
 。句号
@@ -156,11 +156,13 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 |竖线
 ……省略号
 ```
-每个句子的结尾应该有一个句号。(特殊情况除外,例如感叹号)
+每个句子的结尾应该有一个终结符(句号、感叹号等)。
+
+关于中文标点的详细定义，参考[GB/T 15834-1995标准](http://www.china-language.gov.cn/wenziguifan/managed/020.htm)
 
 ### 英文标点
 
-除非强制要求(比如osu!)或是引用英文句子,否则不应该使用英文标点.
+除非英文标点是某个词的一部分(比如osu!)或是引用英文句子,否则**不应该**使用英文标点.
 
 ### osu!
 
