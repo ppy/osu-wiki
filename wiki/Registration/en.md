@@ -2,7 +2,7 @@ How do I register?
 ------------------
 
 
-**Please note that having more than one account at any time is an infringement of [Rules osu! rules](/wiki/Rules/). Follow the below steps to set up your osu! account.**
+**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the below steps to set up your osu! account.**
 
 1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
 ![Register-3.png](Register-1.png)
@@ -23,13 +23,13 @@ How do I register?
 |:---------------:|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | osu! executable | ![Register.png](Register-3.png) | This executable (which should be named osu!.exe) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._                                                |
 | Options panel   | ![Login.png](Login.png)         | If this is your first time starting osu!, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.                                                                                                                              |
-| User panel      | ![Userpanel.png](Userpanel.png) | Once you've entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into osu! and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button. |
+| User panel      | ![Userpanel.png](Userpanel.png) | Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into osu! and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button. |
 
 
 What's next?
 ------------
 
-You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Don't forget to read the [rules](/wiki/Rules/) very carefully!
+You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
 
 If you need in-game assistance, ask the #help channel on IRC or post your problem to the forums.
 
