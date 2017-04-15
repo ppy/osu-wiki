@@ -15,7 +15,7 @@ If need be, you could also get a gist of mapping techniques at [Mapping Techniqu
 
 ### Formations
 
-See [Mapping Techniques/Formations](./Formations/) for more details.
+_See also [Mapping Techniques/Formations](./Formations/)._
 
 #### Creative
 
@@ -42,7 +42,7 @@ See [Mapping Techniques/Formations](./Formations/) for more details.
 
 ### Jumps
 
-See [Mapping Techniques/Jumps](./Jumps/) for more details.
+_See also [Mapping Techniques/Jumps](./Jumps/)._
 
 #### Hit Circle
 
@@ -60,7 +60,7 @@ See [Mapping Techniques/Jumps](./Jumps/) for more details.
 
 ### Rhythm
 
-See [Mapping Techniques/Rhythm](./Rhythm/) for more details.
+_See also [Mapping Techniques/Rhythm](./Rhythm/)._
 
 #### Spacing
 
@@ -91,7 +91,7 @@ See [Mapping Techniques/Rhythm](./Rhythm/) for more details.
 
 ### Spinners
 
-See [Mapping Techniques/Spinners](./Spinners/) for more details.
+_See also [Mapping Techniques/Spinners](./Spinners/)._
 
 #### Additional Effects
 
@@ -106,7 +106,7 @@ See [Mapping Techniques/Spinners](./Spinners/) for more details.
 
 ### Sliders
 
-See [Mapping Techniques/Sliders](./Sliders/) for more details.
+_See also [Mapping Techniques/Sliders](./Sliders/)._
 
 #### Patterns
 
@@ -140,7 +140,7 @@ See [Mapping Techniques/Sliders](./Sliders/) for more details.
 
 ### Unrankable
 
-See [Mapping Techniques/Unrankable](./Unrankable/) for more details.
+_See also [Mapping Techniques/Unrankable](./Unrankable/)._
 
 - [Burai Sliders](./Unrankable/#burai-sliders)
 - [Hold Sliders](./Unrankable/#hold-sliders)
