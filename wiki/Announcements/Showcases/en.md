@@ -1,6 +1,6 @@
 # Showcases
 
-Showcases on various topics help show the osu!community 
+Showcases on various topics in the osu!community.
 
 ## Skinning
 
