@@ -209,7 +209,7 @@ Monthly Beatmapping Contest
 - [Monthly Beatmapping Contest #7](https://osu.ppy.sh/news/98300571848)                                                                                                          
   - [Monthly Beatmapping Contest #7: Results](https://osu.ppy.sh/news/112654662093)
 - [Monthly Beatmapping Contest #6](https://osu.ppy.sh/news/92453842843)                                                                                                          
-  - [Monthly Beatmapping Contest: Aspire Results!](https://osu.ppy.sh/news/102534475143
+  - [Monthly Beatmapping Contest: Aspire Results!](https://osu.ppy.sh/news/102534475143)
 - [Monthly Beatmapping Contest #5 - Submissions Now Open!](https://osu.ppy.sh/news/85034669678)                                                                                  
   - [Monthly Beatmapping Contest #5 Results](https://osu.ppy.sh/news/91735660223)
 - [Monthly Beatmapping Contest #4 - Submissions Now Open](https://osu.ppy.sh/news/76642902143)                                                                                   
