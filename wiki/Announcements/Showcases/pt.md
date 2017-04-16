@@ -1,7 +1,7 @@
 Torneios/Apresentações
 ==========================
 
-Uma pagina wiki dedicada a torneios oficiais. [para outros torneios visite esse forum.](http://osu.ppy.sh/forum/55)
+Uma pagina wiki dedicada a torneios oficiais. [para outros torneios visite esse forum.](https://osu.ppy.sh/forum/55)
 
 osu! World Cup
 -----------------
@@ -65,31 +65,31 @@ Seção dedicada para apresentações e "Melhores de" temas.
 
 ### Apresentação de Skins
 
-Fonte: http://osu.ppy.sh/forum/t/166778
+Fonte: https://osu.ppy.sh/forum/t/166778
 
 | Apresentação | Nome                                                                   | Criador                                     | Link de Novidades                                   | Link do Vídeo                                            |
 |--------------|------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
-| \#1          | [Nexus](http://osu.ppy.sh/forum/t/55948)                               | [Xiao](http://osu.ppy.sh/u/17894)           | [Novidades \#1](http://osu.ppy.sh/news/66039602799) | [Vídeo \#1](http://www.youtube.com/watch?v=TtQmqdTeNeU)  |
-| \#2          | [Oxygen](http://osu.ppy.sh/forum/t/158316)                             | [Lespedeza](http://osu.ppy.sh/u/3074492)    | [Novidades \#2](http://osu.ppy.sh/news/67430735234) | [Vídeo \#2](http://www.youtube.com/watch?v=mJEsAeIUkus)  |
-| \#3          | [Shingeki no Kyojin](http://osu.ppy.sh/forum/t/135349)                 | [RA272Nirvash](http://osu.ppy.sh/u/2019327) | [Novidades \#3](http://osu.ppy.sh/news/69104260522) | [Vídeo \#3](http://www.youtube.com/watch?v=q-by3T9L1sU)  |
-| \#4          | [Nightcore HD](http://osu.ppy.sh/forum/t/135588)                       | [evil\_genius](http://osu.ppy.sh/u/2526988) | [Novidades \#4](http://osu.ppy.sh/news/73755762190) | [Vídeo \#4](http://www.youtube.com/watch?v=_LmJWKlNSCgg) |
-| \#5          | [Taiko Special](http://osu.ppy.sh/news/75252397877) (5 skins)          | *Vários*                                    | [Novidades \#5](http://osu.ppy.sh/news/75252397877) | [Vídeo \#5](http://www.youtube.com/watch?v=WIooi4RJOGk)  |
-| \#6          | [NeOsu](http://osu.ppy.sh/forum/t/181489)                              | [OsuMe65](http://osu.ppy.sh/u/852867)       | [Novidades \#6](http://osu.ppy.sh/news/79496003745) | [Vídeo \#6](http://www.youtube.com/watch?v=Fa4T-AnyHHQ)  |
-| \#7          | [Catch the Beat Special](http://osu.ppy.sh/news/86623206423) (4 skins) | *Vários*                                    | [Novidades \#7](http://osu.ppy.sh/news/86623206423) | [Vídeo \#7](http://www.youtube.com/watch?v=DVVr2WQO5pQ)  |
+| \#1          | [Nexus](https://osu.ppy.sh/forum/t/55948)                               | [Xiao](https://osu.ppy.sh/u/17894)           | [Novidades \#1](https://osu.ppy.sh/news/66039602799) | [Vídeo \#1](https://www.youtube.com/watch?v=TtQmqdTeNeU)  |
+| \#2          | [Oxygen](https://osu.ppy.sh/forum/t/158316)                             | [Lespedeza](https://osu.ppy.sh/u/3074492)    | [Novidades \#2](https://osu.ppy.sh/news/67430735234) | [Vídeo \#2](https://www.youtube.com/watch?v=mJEsAeIUkus)  |
+| \#3          | [Shingeki no Kyojin](https://osu.ppy.sh/forum/t/135349)                 | [RA272Nirvash](https://osu.ppy.sh/u/2019327) | [Novidades \#3](https://osu.ppy.sh/news/69104260522) | [Vídeo \#3](https://www.youtube.com/watch?v=q-by3T9L1sU)  |
+| \#4          | [Nightcore HD](https://osu.ppy.sh/forum/t/135588)                       | [evil\_genius](https://osu.ppy.sh/u/2526988) | [Novidades \#4](https://osu.ppy.sh/news/73755762190) | [Vídeo \#4](https://www.youtube.com/watch?v=_LmJWKlNSCgg) |
+| \#5          | [Taiko Special](https://osu.ppy.sh/news/75252397877) (5 skins)          | *Vários*                                    | [Novidades \#5](https://osu.ppy.sh/news/75252397877) | [Vídeo \#5](https://www.youtube.com/watch?v=WIooi4RJOGk)  |
+| \#6          | [NeOsu](https://osu.ppy.sh/forum/t/181489)                              | [OsuMe65](https://osu.ppy.sh/u/852867)       | [Novidades \#6](https://osu.ppy.sh/news/79496003745) | [Vídeo \#6](https://www.youtube.com/watch?v=Fa4T-AnyHHQ)  |
+| \#7          | [Catch the Beat Special](https://osu.ppy.sh/news/86623206423) (4 skins) | *Vários*                                    | [Novidades \#7](https://osu.ppy.sh/news/86623206423) | [Vídeo \#7](https://www.youtube.com/watch?v=DVVr2WQO5pQ)  |
 
 ### Apresentação de Storyboards
 
-Fonte: <http://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
+Fonte: <https://news.ppy.sh/post/63165469542/tell-us-about-amazing-storyboards>
 
 | Apresentação | Beatmap (Criador)                                                            | Storyboader                              | Link de Novidades                                                                                   | Link do Vídeo                                                                    |
 |--------------|------------------------------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| \#1          | [Kozato - 45nen no Yukizakura (LoliSora/Rewrite)](http://osu.ppy.sh/s/50771) | [yukinohara](http://osu.ppy.sh/u/580107) | [Novidades \#1](http://news.ppy.sh/post/63423749972/storyboard-showcase-kozato-45nen-no-yukizakura) | [Vídeo \#1](http://www.youtube.com/watch?v=ZQDvSVUyhaE)                          |
-| \#2          | [Perfume - Laser Beam (Raging Bull)](http://osu.ppy.sh/s/106568)             | [Breeze](http://osu.ppy.sh/u/77537)      | [Novidades \#2](http://news.ppy.sh/post/64444482131/storyboard-showcase-perfume-laser-beam)         | [Vídeo \#2](http://www.youtube.com/watch?v=m2_gxjZZnRw)                          |
-| \#3          | [Sound Horizon - Yield (gdeath)](http://osu.ppy.sh/s/12493)                  | [Breeze](http://osu.ppy.sh/u/77537)      | [Novidades \#3](http://news.ppy.sh/post/65571250251/storyboard-showcase-sound-horizon-yield)        | [Vídeo \#3](http://www.youtube.com/watch?v=FoQgpYxwH28)                          |
-| \#4          | [Owl City - Gold (inverness)](http://osu.ppy.sh/s/65146)                     | [inverness](http://osu.ppy.sh/u/1361697) | [Novidades \#4](http://news.ppy.sh/post/66739437597/storyboard-showcase-owl-city-gold)              | [Vídeo \#4](http://www.youtube.com/watch?v=AjPSlQ2I2os)                          |
-| \#5          | [Brief & Trunks - Konbini (Gens)](http://osu.ppy.sh/s/31084)                 | [Gens](http://osu.ppy.sh/u/23062)        | [Novidades \#5](http://news.ppy.sh/post/68451876624/storyboard-showcase-brief-and-trunks-konbini)   | [Vídeo \#5](http://www.youtube.com/watch?v=ARCLirm-Fe0)                          |
-| \#6          | [YUI - Sea (VanMoNky)](http://osu.ppy.sh/s/13021)                            | [VanMoNky](http://osu.ppy.sh/u/117865)   | [Novidades \#6](http://news.ppy.sh/post/72951293450/storyboard-showcase-yui-sea)                    | \[Vídeo \#6\]                                                                    |
-| \#7          | [Lia - Toki wo Kizamu Uta (kanpakyin)](http://osu.ppy.sh/s/35701)            | [JoJo](http://osu.ppy.sh/u/421286)       | [Novidades \#6](http://news.ppy.sh/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta)     | [Vídeo \#6](https://www.youtube.com/watch?feature=player_embedded&v=ZwYPDOutZPc) |
+| \#1          | [Kozato - 45nen no Yukizakura (LoliSora/Rewrite)](https://osu.ppy.sh/s/50771) | [yukinohara](https://osu.ppy.sh/u/580107) | [Novidades \#1](https://news.ppy.sh/post/63423749972/storyboard-showcase-kozato-45nen-no-yukizakura) | [Vídeo \#1](https://www.youtube.com/watch?v=ZQDvSVUyhaE)                          |
+| \#2          | [Perfume - Laser Beam (Raging Bull)](https://osu.ppy.sh/s/106568)             | [Breeze](https://osu.ppy.sh/u/77537)      | [Novidades \#2](https://news.ppy.sh/post/64444482131/storyboard-showcase-perfume-laser-beam)         | [Vídeo \#2](https://www.youtube.com/watch?v=m2_gxjZZnRw)                          |
+| \#3          | [Sound Horizon - Yield (gdeath)](https://osu.ppy.sh/s/12493)                  | [Breeze](https://osu.ppy.sh/u/77537)      | [Novidades \#3](https://news.ppy.sh/post/65571250251/storyboard-showcase-sound-horizon-yield)        | [Vídeo \#3](https://www.youtube.com/watch?v=FoQgpYxwH28)                          |
+| \#4          | [Owl City - Gold (inverness)](https://osu.ppy.sh/s/65146)                     | [inverness](https://osu.ppy.sh/u/1361697) | [Novidades \#4](https://news.ppy.sh/post/66739437597/storyboard-showcase-owl-city-gold)              | [Vídeo \#4](https://www.youtube.com/watch?v=AjPSlQ2I2os)                          |
+| \#5          | [Brief & Trunks - Konbini (Gens)](https://osu.ppy.sh/s/31084)                 | [Gens](https://osu.ppy.sh/u/23062)        | [Novidades \#5](https://news.ppy.sh/post/68451876624/storyboard-showcase-brief-and-trunks-konbini)   | [Vídeo \#5](https://www.youtube.com/watch?v=ARCLirm-Fe0)                          |
+| \#6          | [YUI - Sea (VanMoNky)](https://osu.ppy.sh/s/13021)                            | [VanMoNky](https://osu.ppy.sh/u/117865)   | [Novidades \#6](https://news.ppy.sh/post/72951293450/storyboard-showcase-yui-sea)                    | \[Vídeo \#6\]                                                                    |
+| \#7          | [Lia - Toki wo Kizamu Uta (kanpakyin)](https://osu.ppy.sh/s/35701)            | [JoJo](https://osu.ppy.sh/u/421286)       | [Novidades \#6](https://news.ppy.sh/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta)     | [Vídeo \#6](https://www.youtube.com/watch?feature=player_embedded&v=ZwYPDOutZPc) |
 
 ###Melhores dos temas
 
@@ -388,11 +388,11 @@ Você pode mandar por email suas ideias para serem usadas nas novidades diretame
 | \#2  | [osu!semanal \#2](https://osu.ppy.sh/news/114180316308)  |
 | \#3  | [osu!semanal \#3](https://osu.ppy.sh/news/114799715018)  |
 | \#4  | [osu!semanal \#4](https://osu.ppy.sh/news/115437619683)  |
-| \#5  | [osu!semanal \#5](http://osu.ppy.sh/news/116084773988)   |
-| \#6  | [osu!semanal \#6](http://osu.ppy.sh/news/116706490333)   |
-| \#7  | [osu!semanal \#7](http://osu.ppy.sh/news/117304714888)   |
-| \#8  | [osu!semanal \#8](http://osu.ppy.sh/news/117886541118)   |
-| \#9  | [osu!semanal \#9](http://osu.ppy.sh/news/118494468743)   |
+| \#5  | [osu!semanal \#5](https://osu.ppy.sh/news/116084773988)   |
+| \#6  | [osu!semanal \#6](https://osu.ppy.sh/news/116706490333)   |
+| \#7  | [osu!semanal \#7](https://osu.ppy.sh/news/117304714888)   |
+| \#8  | [osu!semanal \#8](https://osu.ppy.sh/news/117886541118)   |
+| \#9  | [osu!semanal \#9](https://osu.ppy.sh/news/118494468743)   |
 | \#10 | [osu!semanal \#10](https://osu.ppy.sh/news/119064807443) |
 | \#11 | [osu!semanal \#11](https://osu.ppy.sh/news/119646062918) |
 | \#12 | [osu!semanal \#12](https://osu.ppy.sh/news/120228961713) |

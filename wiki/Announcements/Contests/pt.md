@@ -4,7 +4,7 @@ Competições
 Competição Mensal de Mapping
 ----------------------------
 
-**Observação:** Vencedores dessa competição recebem o titulo de fórum "Elite Mapper" e seus beatmaps são incluídos (junto com o [osu! tutorial](http://osu.ppy.sh/s/3756)) no [osu!installer](http://osu.ppy.sh/p/download).
+**Observação:** Vencedores dessa competição recebem o titulo de fórum "Elite Mapper" e seus beatmaps são incluídos (junto com o [osu! tutorial](https://osu.ppy.sh/s/3756)) no [osu!installer](https://osu.ppy.sh/p/download).
 
 | Competição | Beatmap                                                                                          | Mode                     | Mapper(s)                            | Resultados                                                                         | Pontuações                                            |
 |------------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -27,7 +27,7 @@ Competição Mensal de Mapping
 Competição Mensal de Fanart
 ---------------------------
 
-**Observação:** Os dois vencedores (Escolha do publico e escolha da staff) ganham um ano de supporter tag, um e um . Vice-campeões ganham um mês de supporter tag. Você pode ver a galeria de cada competição na [pagina do grupo do facebook.](http://www.facebook.com/osugame)
+**Observação:** Os dois vencedores (Escolha do publico e escolha da staff) ganham um ano de supporter tag, um e um . Vice-campeões ganham um mês de supporter tag. Você pode ver a galeria de cada competição na [pagina do grupo do facebook.](https://www.facebook.com/osugame)
 
 
 ### Pippi, the osu! mascot!

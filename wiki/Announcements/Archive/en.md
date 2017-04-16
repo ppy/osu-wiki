@@ -224,7 +224,7 @@ Monthly Beatmapping Contest
 
 ### Mapping with Rewards
 
-Mapping with Rewards are announced on [peppy's blog](http://blog.ppy.sh/). Unlike the [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
+Mapping with Rewards are announced on [peppy's blog](https://blog.ppy.sh/). Unlike the [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
 
 Some remarks about mapping with rewards (and some differences with [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)):
 
@@ -237,9 +237,9 @@ Some remarks about mapping with rewards (and some differences with [#Monthly Bea
 - single game mode (no TAG diffs)
 - preselected background images (current, if any, background images will be replaced)
 
-- [Mapping With Rewards (Sep. 2015)](http://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)
+- [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)
   - [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/news/145260581333)
-- [Mapping With Rewards (Oct. 2015)](http://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015)
+- [Mapping With Rewards (Oct. 2015)](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015)
   - *still active!*
 
 

@@ -26,7 +26,7 @@ Monatliches Mapping Wettbewerb
 Monatliches Fanart Wettbewerb
 -----------------------------
 
-**Hinweis:** 2 Gewinner (1 von der Community, 1 von der Belegschaft) erhalten ein Supporter Tag für 1 Jahr und das /. Nachplatzierte bekommen ein Supporter Tag für 1 Monat. Sie können sich die Galarie von jedem Wettbewerb [hier](http://www.facebook.com/osugame) ansehen.
+**Hinweis:** 2 Gewinner (1 von der Community, 1 von der Belegschaft) erhalten ein Supporter Tag für 1 Jahr und das /. Nachplatzierte bekommen ein Supporter Tag für 1 Monat. Sie können sich die Galarie von jedem Wettbewerb [hier](https://www.facebook.com/osugame) ansehen.
 
 ### Pippi, das osu! Maskottchen
 

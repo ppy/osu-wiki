@@ -4,7 +4,7 @@ Contenuti
 Contest Mensile Mapping
 -----------------------
 
-**Nota:** I vincitori di questo contest ottengono il titolo nel forum di "Elite Mapper" e la loro mappa verrà scaricata al primo avvio di osu! (insieme con [osu! tutorial](http://osu.ppy.sh/s/3756)) dentro all' [osu!installer](http://osu.ppy.sh/p/download) se non c'è alcuna nota che nega ciò.
+**Nota:** I vincitori di questo contest ottengono il titolo nel forum di "Elite Mapper" e la loro mappa verrà scaricata al primo avvio di osu! (insieme con [osu! tutorial](https://osu.ppy.sh/s/3756)) dentro all' [osu!installer](https://osu.ppy.sh/p/download) se non c'è alcuna nota che nega ciò.
 
 | Contest | Mappa                                                                                          | Mode                     | Creatore/i                            | Risultati                                                                         | Punteggi                                           |
 |---------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------|
@@ -27,7 +27,7 @@ Contest Mensile Mapping
 Contest Fanart Mensile
 ----------------------
 
-**Nota:** Due vincitori (uno da un sondaggi pubblico e uno dallo staff) otteranno un'anno di osu!supporter e l'/. I secondi arrivati otterranno un mese di osu!supporter. Puoi vedere la galleria dei contest nella [pagina facebook.](http://www.facebook.com/osugame)
+**Nota:** Due vincitori (uno da un sondaggi pubblico e uno dallo staff) otteranno un'anno di osu!supporter e l'/. I secondi arrivati otterranno un mese di osu!supporter. Puoi vedere la galleria dei contest nella [pagina facebook.](https://www.facebook.com/osugame)
 
 ### Pippi, la mascotte di osu!
 
