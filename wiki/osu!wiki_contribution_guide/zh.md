@@ -168,61 +168,54 @@ _注意: 每篇文章都被放在子文件夹下，按照语言代码顺序排�
 
 ![New file creation on this directory](./img/Contribute_webnewfile.jpg "New file creation on this directory")
 
-You will be given an empty file with no filename given, as shown above.
+文件命名规则前文已有提及。
 
-Name the file in accordance to two letter [ISO 639-1 codes][ISO 639-1] of your language, following the `639-1` column, with an ``.md`` file extension at the end, all in lowercase.
-For example, if you are writing in Japanese, then name it as ``jp.md``.
+在做出改动后，向下滚动到 _Commit Changes_ 并填写相关内容来解释您的改动。
 
-Write on the empty file content.
+##### 添加文件夹
 
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your file creation to other contributors.
+**在添加文件夹前，请在 [Issues][GH Issue] 提出您的改动以避免做无用功。
+这是因为您操作文件夹必须通过 Git 进行。**
 
-##### Add a directory/folder
+请先想好文件夹的名字并且文件夹内必须有一个非空文件。
 
-**Before adding a directory, please explain what you are doing in the [Issues][GH Issue] tab to prevent wasted effort and connection usage.
-This is because once you upload the directory, renaming or moving the directory must be done using Git.**
-
-To add a directory, prepare a properly named folder with at least a filled file inside and nothing else.
-The file must follow the naming convention of [ISO 639-1 codes][ISO 639-1]
-
-Navigate to the proper filepath to put the directory in.
-Then, click on the "Upload files" button.
+组织好您的目录结构。
+然后点击 Upload files 。
 
 ![Upload files on this directory](./img/Contribute_webuploadfiles.jpg "Upload files on this directory")
 
-Drag and drop the folder to the upload window.
+拖动文件夹到上传文件区域。
 
-After uploading your changes, scroll down to _Commit Changes_ and fill the following fields to explain your upload to other contributors.
+在确认改动后同样填写好相关信息。
 
-##### Update a file
+##### 更新文件
 
-If the file was available but was written badly or syntax errors were found, click on the pencil icon to edit.
-This should redirect you to the web editor.
+如果某篇文章写得很糟糕或是存在错误，点击铅笔图标来编辑它。
 
 ![GitHub's Web Editor](./img/Contribute_webeditor.jpg "Web Editor Snapshot")
 
-If you want to preview your changes, click the "Preview Changes" tab.
-Click the "Edit File" tab to continue editing the file.
+如果您想预览您的改动，点击 "Preview Changes" 。
+点击 "Edit File" 以回到编辑界面
 
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your edit(s) to other contributors.
+在确认改动后同样填写好相关信息。
 
-#### Commit Changes
+#### 提交改动
 
 ![Commit Message](./img/Contribute_webcommit.jpg "Commit Message")
 
-_**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get accepted!
-Also, please write it in English.**_
+_**注意：您的提交信息必须能解释您的改动，否则您的改动可能会被拒绝！
+记住，提交信息应该使用英语.**_
 
-You would be given an option where to save your edits.
+您可以选择在哪个分支保存您的改动.
 
-- **"Commit Directly to the ``xyz`` branch"**
-  - This will commit the changes through your (current) branch directly.
+- **"Commit Directly to the `xyz` branch"**
+  - 这会将改动提交到您当前所在的分支.
 
 - **"Create a New Branch"**
-  - Automatically creates a branch for your edits.
-    A commit and a branch with a default name (normally, it would be called ``username : patch-#``, with ``#`` being a number, starting from ``1``) would be created.
+  - 为您的此次改动创建一个新分支.
+    默认时，分支名称为 `用户名 : patch-#` ， `#` 是一个数字，从 `1` 开始。
 
-Pick an option and click the green "Commit Changes" button.
+选择一个选项然后点击 "Commit Changes" 。
 
 ### Through your Local Machine
 
