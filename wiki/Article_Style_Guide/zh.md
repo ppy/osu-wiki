@@ -53,7 +53,7 @@ osu-wiki仓库(repository)的所有文章均使用两个字母的语言代码.
 
 ## 标题
 
-所有文章**必须有**一个翻译好的**一级标题**.
+所有文章**必须有**一个**一级标题**.
 这个一级标题必须放在文章的开头除非你使用了参考式链接的链接定义.
 如果你使用了参考式链接,那么把标题紧跟在它的下面.
 
@@ -100,7 +100,7 @@ Markdown提供了两种风格来书写一、二级标题:
 
 #### 无法翻译的标题
 
-出于某些原因使得标题**无法**被翻译时,使用它的英文名称+(语言代码)
+出于某些原因使得标题**无法**被翻译时,使用它的英文名称+(语言名称)
 举例:
 
 ```
@@ -109,10 +109,10 @@ Markdown提供了两种风格来书写一、二级标题:
 
 ### 章节标题
 
-与标题一样,每章节也应该使用标题(二到五级)
+与文章标题一样,每章节也应该使用标题(二到五级)
 
 每章的标题**不能**带链接.
-除非你把它放在标题下面.
+除非它不在章节标题的位置.
 举例:
 
 ```
@@ -121,7 +121,7 @@ Markdown提供了两种风格来书写一、二级标题:
 完整的介绍,参见[谱面编辑器](/wiki/Beatmap_Editor/).
 ```
 
-章节标题**不能**使用除标题文字以外其他的标记.
+章节标题**不能**使用除标题文字以外其他的 Markdown 标记.
 
 章节标题中可以包含**小图标**,但是不能高于一个字符(通常情况下一个字符高16像素).
 举例:
@@ -130,15 +130,14 @@ Markdown提供了两种风格来书写一、二级标题:
 #### ![osu! 图标](/wiki/shared/Osu.gif) osu!
 ```
 
-## ToC
+## 中英差异
 
-ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
+### 标点符号
 
-## 标点符号
-
-### 中文标点
+#### 中文标点
 
 不同的人对标点符号的喜好可能不一样,但是在osu!wiki(中文文章)中建议使用**简体中文**标点(一般情况下此时输入法显示为半月、中文句号),下面是中文标点表(不同的输入法可能略有不同):
+
 ```
 ，逗号
 。句号
@@ -156,13 +155,27 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 |竖线
 ……省略号
 ```
+
 每个句子的结尾应该有一个终结符(句号、感叹号等)。
 
 关于中文标点的详细定义，参考[GB/T 15834-1995标准](http://www.china-language.gov.cn/wenziguifan/managed/020.htm)
 
-### 英文标点
+#### 英文标点
 
 除非英文标点是某个词的一部分(比如osu!)或是引用英文句子,否则**不应该**使用英文标点.
+
+### 中英混用
+
+如果英文单词需要在中文句子中出现，那么在单词两头空格。
+举例：
+
+- 游戏的名称 `osu!` **不应该大写**,即使它在句子的开头.
+
+
+## ToC
+
+ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
+
 
 ### osu!
 
@@ -172,12 +185,9 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 - `welcome.wav文件包含一句话："Welcome to osu!."`
 
-任何`osu!`之后的单词,如果没有用空格分隔,就不应该大写.
-如果被空格分隔,当它是名词的时候就应该大写.
-举例:
-
-- `osu! Tournaments`
-- `osu! Alumni`
+当 osu! 之后的词是中文且与 osu! 作为一个整体表意时，应当将其看作一个整体并添加两头空格
+举例：
+- `感谢 osu!支持者 对 osu! 长期以来的支持`
 
 如果`osu!`紧跟一个单词,这个单词应该小写(比如游戏模式).
 举例:
@@ -192,11 +202,11 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 - `_osu!_使用C#和.NET框架写成。`
 
-### Serial comma
+### 枚举
 
-When listing items of 3 or more in a sentence, use the serial comma.
+在一个句子中枚举词语时，使用顿号分隔。
 
-- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
+- _osu!_ 的游戏模式有: osu!standard、osu!taiko、osu!catch 和 osu!mania 。
 
 ### 语言名称
 
