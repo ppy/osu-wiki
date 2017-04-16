@@ -224,9 +224,10 @@ Monthly Beatmapping Contest
 
 ### Mapping with Rewards
 
-Mapping with Rewards are announced on [peppy's blog](https://blog.ppy.sh/). Unlike the [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
+Mapping with Rewards are announced on [peppy's blog](https://blog.ppy.sh/).
+Unlike the [#Monthly Beatmapping Contest](#monthly-beatmapping-contest), which runs a contest for _any_ song(s), mapping with rewards runs a beatmapping contest with **official osu!songs** from osu!artists, like cYsmix.
 
-Some remarks about mapping with rewards (and some differences with [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)):
+Some remarks about mapping with rewards (and some differences with [#Monthly Beatmapping Contest](#monthly-beatmapping-contest)):
 
 - submissions are subject to last minute judgement
   - peppy is the judge
@@ -246,7 +247,7 @@ Some remarks about mapping with rewards (and some differences with [#Monthly Bea
 Fan Art Contests
 ----------------
 
-_See also [Contests](/wiki/Announcements/Contests/)_
+_See also [Contests](/wiki/Announcements/Contests/#monthly-fanart-contest)_
 
 - [Spring Fan Art Contest Voting Now Open](https://osu.ppy.sh/news/159448419893)
 - [Fanart Contest #9: Spring](https://osu.ppy.sh/news/158662594563)
