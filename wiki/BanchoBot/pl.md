@@ -1,6 +1,8 @@
 # BanchoBot (Polski)
 
-![BanchoBot](BanchoBot.png "BanchoBot.") Twój host [serwera osu!](PL:IRC "wikilink").
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+Twój host [serwera osu!](/wiki/Internet_Relay_Chat).
 
 ma swój własny profil!
 

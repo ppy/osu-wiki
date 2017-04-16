@@ -1,8 +1,10 @@
 # BanchoBot (Español)
 
-![BanchoBot.](BanchoBot.png "fig:BanchoBot.") El anfitrión del [chat de osu!](ES:IRC "wikilink").
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
 
-¡ tiene un perfil!
+El anfitrión del [chat de osu!](/wiki/Internet_Relay_Chat).
+
+¡tiene un perfil!
 
 Apariencia y tareas
 -------------------

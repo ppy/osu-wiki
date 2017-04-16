@@ -1,6 +1,8 @@
 # BanchoBot (Português)
 
-![Tab do BanchoBot.](BanchoBot.png "Tab do BanchoBot.") Seu hospedeiro do [servidor de chat do osu!](PT:IRC "wikilink").
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+Seu hospedeiro do [servidor de chat do osu!](/wiki/Internet_Relay_Chat).
 
 tem um perfil!
 
