@@ -85,7 +85,7 @@ Note: Two winners (by public poll and staff) will each get a full one-year suppo
 | Fourth  | [JMC](https://osu.ppy.sh/u/774010) [Entry](https://s.ppy.sh/images/halloween14/full-34.jpg)             | [hamzilla15](https://osu.ppy.sh/u/3689802) [Entry](https://s.ppy.sh/images/halloween14/full-38.jpg)   | [Index-San](https://osu.ppy.sh/u/951374) [Entry](https://s.ppy.sh/images/halloween14/full-10.jpg)   |
 | Fifth   | [UUL](https://osu.ppy.sh/u/3769802) [Entry](https://s.ppy.sh/images/halloween14/full-16.jpg)            | [CosmicTea](https://osu.ppy.sh/u/5050769) [Entry](https://s.ppy.sh/images/halloween14/full-50.jpg)    | [yeongji](https://osu.ppy.sh/u/1472508) [Entry](https://s.ppy.sh/images/halloween14/full-71.jpg)    |
 
-### Chirstmas
+### Christmas
 
 - [Results](https://osu.ppy.sh/news/107496626248)
 
