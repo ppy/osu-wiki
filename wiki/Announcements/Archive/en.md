@@ -12,6 +12,7 @@ We will be covering both big and small tournaments, new programs and tools being
 
 You can email any tips for news directly to `tips@ppy.sh` or `news@ppy.sh`.
 
+- [osu!weekly #100](https://osu.ppy.sh/news/159587158628)
 - [osu!weekly #99](https://osu.ppy.sh/news/159271999848)
 - [osu!weekly #98](https://osu.ppy.sh/news/158993380768)
 - [osu!weekly #97](https://osu.ppy.sh/news/158736955798)
@@ -189,6 +190,7 @@ Monthly Beatmapping Contest
 
 ***[Official wiki page for results.](/wiki/Announcements/Contests)***
 
+- [Monthly Beatmapping Contest April 2017: osu!mania](https://osu.ppy.sh/news/159567407203)
 - [Aspire Returns For 2017](https://osu.ppy.sh/news/156171674413)
   - [Aspire 2017 - Voting Now Open!](https://osu.ppy.sh/news/158347604853)
   - [Aspire 2017 Stage One Concludes](https://osu.ppy.sh/news/159160085153)
@@ -247,6 +249,7 @@ Fan Art Contests
 
 _See also [Contests](/wiki/Announcements/Contests/)_
 
+- [Spring Fan Art Contest Voting Now Open](https://osu.ppy.sh/news/159448419893)
 - [Fanart Contest #9: Spring](https://osu.ppy.sh/news/158662594563)
 - [Fanart Contest #8: Christmas!](https://osu.ppy.sh/news/153770859513)
 - [Flash Fanart Contest #7: Halloween](https://osu.ppy.sh/news/152021157083)
