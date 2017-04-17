@@ -1,7 +1,7 @@
 Academia do osu!
 =================
 
-![osu!academy's logo](osu!academy-logo.png)
+![osu!academy's logo](./img/osu!academy-logo.png "osu!academy logo")
 
 Introdução
 -----------

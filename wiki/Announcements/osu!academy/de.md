@@ -4,7 +4,7 @@ osu!academy
 Einführung
 ------------
 
-![osu!academy's logo](osu!academy-logo.png)
+![osu!academy's logo](./img/osu!academy-logo.png "osu!academy logo")
 
 Quelle: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Offizielles Youtube Kanal: <https://www.youtube.com/user/osuacademy/videos>
