@@ -307,7 +307,7 @@ Note: Winner get **osu! store pack** (1x [osu!tablet](https://store.ppy.sh/store
 | Placing | Results                                                                                                 | Original Artists                                                       |
 |---------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | First   | [Sagi](https://osu.ppy.sh/u/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA)                  | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8)  |
-| Second  | [CptHampton](https://osu.ppy.sh/u/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl)             | [>Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| Second  | [CptHampton](https://osu.ppy.sh/u/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl)             | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
 | Third   | [yealina](https://osu.ppy.sh/u/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4)                 |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
@@ -317,11 +317,11 @@ Note: Winner get **osu! store pack** (1x [osu!tablet](https://store.ppy.sh/store
 
 ### 2016
 
-| Placing | Results                                                                                   | Original Artists |
-|---------|-------------------------------------------------------------------------------------------|------------------|
-| First   | [Slyleaf](https://osu.ppy.sh/u/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | *unknown*        |
-| Second  | [Daikyi](https://osu.ppy.sh/u/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | *unknown*        |
-| Third   | [MissTitannia](https://osu.ppy.sh/u/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*        |
+| Placing | Results                                                                                   | Original Artists                                                                                            |
+|---------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| First   | [Slyleaf](https://osu.ppy.sh/u/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](http://vocaloidlyrics.wikia.com/wiki/%E5%BF%83%E5%81%9A%E3%81%97_(Kokoronashi)) |
+| Second  | [Daikyi](https://osu.ppy.sh/u/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | Lia - (Mekakucity Actors [Anime ED])                                                                        |
+| Third   | [MissTitannia](https://osu.ppy.sh/u/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                                                                   |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/news/145357306703)
