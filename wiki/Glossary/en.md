@@ -1137,7 +1137,7 @@ _Feature Request fourm thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
 Touhosu! is a requested game mode that is the opposite of osu!catch.
 _Opposite_ because instead of catching objects, you avoid them.
 
-The name _Touhosu!_ is a combination of _TouHou_ (the shoot 'em up/bullet hell games) and _osu!_.
+The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell games) and _osu!_.
 
 ## U
 
