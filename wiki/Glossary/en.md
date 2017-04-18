@@ -126,6 +126,22 @@ This value can be found in the url of a beatmapset from osu!website beatmap list
 
 All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
+### Bit Rate
+
+Almost every music file contains something called a "bit rate".
+A bit rate is the number of bits per second that can be transmitted along a digital network.
+
+This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size).
+On-the-other-hand, a *lower bit rate* will generally mean *lower quailty* (but smaller file size).
+
+Bit rates typically range from 96 Kbps (kilobytes per second) to 320 Kbps.
+This is quite a wide range that music can use.
+However, the [ranking criteria](/wiki/Ranking_Criteria) explicitly states that all music files must range from **128 Kbps - 192 Kbps**.
+
+You can usually check to see the audio file's bit rate by checking the file properties of that file.
+Another way to check is whether or not [AiMod](/wiki/Beatmap_Editor/AiMod/) throws an error saying that the audio file's bit rate is too big.
+If either appears to be true, this means that you will have to lower the bitrate.
+
 ### BG
 
 BG is short for _background_.
@@ -620,6 +636,11 @@ You can change your local song offset by pressing:
 
 If you play a beatmap that has a local song offset, _osu!_ will tell you that there the previous offset will be used.
 
+### Looping
+
+From the [ranking criteria](/wiki/Ranking_Criteria), the required drain time **must** be at least 30 seconds.
+If your audio clip is shorter than that, you *should* loop it.
+
 ## M
 
 ### M4M
@@ -1108,6 +1129,15 @@ A touchscreen is one of the input mediums used by the DS games that _osu!_ is ba
 _osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player.
 A computer whose entire screen functions as a touchscreen is called a Tablet PC.
 This is different than a tablet because a touchscreen has some kind of display while tablets do not.
+
+### Touhosu!
+
+_Feature Request fourm thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
+
+Touhosu! is a requested game mode that is the opposite of osu!catch.
+_Opposite_ because instead of catching objects, you avoid them.
+
+The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell games) and _osu!_.
 
 ## U
 

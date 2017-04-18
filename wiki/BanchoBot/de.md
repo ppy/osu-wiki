@@ -1,4 +1,6 @@
-![BanchoBots Benutzer Panel.](BanchoBot.jpg "BanchoBots Benutzer Panel.")
+# BanchoBot (Deutsch)
+
+![BanchoBots Benutzer Panel.](BanchoBot.png "BanchoBots Benutzer Panel.")
 
 Einführung
 ==========
