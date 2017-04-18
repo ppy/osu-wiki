@@ -317,11 +317,11 @@ Note: Winner get **osu! store pack** (1x [osu!tablet](https://store.ppy.sh/store
 
 ### 2016
 
-| Placing | Results                                                                                   | Original Artists                                                                                            |
-|---------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| First   | [Slyleaf](https://osu.ppy.sh/u/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](http://vocaloidlyrics.wikia.com/wiki/%E5%BF%83%E5%81%9A%E3%81%97_(Kokoronashi)) |
-| Second  | [Daikyi](https://osu.ppy.sh/u/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | Lia - (Mekakucity Actors [Anime ED])                                                                        |
-| Third   | [MissTitannia](https://osu.ppy.sh/u/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                                                                   |
+| Placing | Results                                                                                   | Original Artist                                           |
+|---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| First   | [Slyleaf](https://osu.ppy.sh/u/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w) |
+| Second  | [Daikyi](https://osu.ppy.sh/u/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs)        |
+| Third   | [MissTitannia](https://osu.ppy.sh/u/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                 |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/news/145357306703)
