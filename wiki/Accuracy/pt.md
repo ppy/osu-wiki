@@ -62,14 +62,16 @@ Tela de Resultados
 
   Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](/wiki/Score).
 
-![Modo osu!](Accuracy_osu!_Small.jpg "Modo osu!") ![Modo Taiko](Accuracy_Taiko_Small.jpg "Modo Taiko")
-![Modo Catch the Beat](Accuracy_CtB_Small.jpg "Modo Catch the Beat") ![Modo osu!mania](Accuracy_Mania_Small.jpg "Modo osu!mania")
+![Modo osu!](img/standard.jpg "Modo osu!")
+![Modo Taiko](img/taiko.jpg "Modo Taiko")
+![Modo Catch the Beat](img/catch.jpg "Modo Catch the Beat")
+![Modo osu!mania](img/mania.jpg "Modo osu!mania")
 
 ### Gráfico de Performance
 
   Isso mostra um gráfico de sua performance durante a partida. Informação adicional é mostrada quando você posiciona o cursor acima do gráfico:
 
-![Gráfico de Performance](Accuracy_TR.jpg "Gráfico de Performance")
+![Gráfico de Performance](img/tr.jpg "Gráfico de Performance")
 
 #### Precisão
 
