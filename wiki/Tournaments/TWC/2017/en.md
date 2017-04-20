@@ -199,7 +199,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](http://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
 | [Acrnym - Knife (LZD)](http://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
-| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD+HR) |
+| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD, HR) |
 
 | Tiebreaker | |
 | --- | :--- |
@@ -280,7 +280,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 | Tiebreaker | |
 | --- | :--- |
-| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] () |
+| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] (Any) |
 
 
 
