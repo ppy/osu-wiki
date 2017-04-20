@@ -288,6 +288,12 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ## Results
 
+### Grand Finals
+
+| Saturday, 15. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 7 | 1 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://new.ppy.sh/matches/32485603) |
+
 ### Finals - Week 1
 
 | Saturday, 08. April 2017 | | | | |
