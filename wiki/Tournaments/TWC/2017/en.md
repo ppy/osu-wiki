@@ -86,16 +86,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Grand Finals
-
-**_No responsibility is taken for the correctness of the local times in the schedules!_**
-
-### Saturday, 15. April 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **5.00 UTC** | 14.00 UTC +9 | 13.00 UTC +8 |
-
+![Winner podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
