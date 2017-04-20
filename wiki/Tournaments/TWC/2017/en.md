@@ -36,7 +36,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](https://new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](https://new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://new.ppy.sh/u/776257) |
 | Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](https://new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](https://new.ppy.sh/u/398275) |
-| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/u/3716999), [![](/wiki/shared/flag/Fr.gif) Arrival](https://osu.ppy.sh/u/1694000), [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Au.gif) Jaye](https://osu.ppy.sh/u/4841352), [![](/wiki/shared/flag/Hk.gif) magnomizer](https://osu.ppy.sh/u/1893718), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/De.gif) Zetera](https://osu.ppy.sh/u/587737), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
+| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/u/3716999), [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Au.gif) Jaye](https://osu.ppy.sh/u/4841352), [![](/wiki/shared/flag/Hk.gif) magnomizer](https://osu.ppy.sh/u/1893718), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/De.gif) Zetera](https://osu.ppy.sh/u/587737), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
 | Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://new.ppy.sh/u/1910766) |
 
 ## Links
@@ -86,16 +86,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Grand Finals
-
-**_No responsibility is taken for the correctness of the local times in the schedules!_**
-
-### Saturday, 15. April 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **5.00 UTC** | 14.00 UTC +9 | 13.00 UTC +8 |
-
+![Winner podium](podium.png)
 
 ------------------------------------------------------------------------
 
@@ -208,7 +199,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](http://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
 | [Acrnym - Knife (LZD)](http://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
-| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD+HR) |
+| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD, HR) |
 
 | Tiebreaker | |
 | --- | :--- |
@@ -289,13 +280,19 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 | Tiebreaker | |
 | --- | :--- |
-| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] () |
+| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] (Any) |
 
 
 
 ------------------------------------------------------------------------
 
 ## Results
+
+### Grand Finals
+
+| Saturday, 15. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 7 | 1 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://new.ppy.sh/matches/32485603) |
 
 ### Finals - Week 1
 
