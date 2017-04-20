@@ -90,6 +90,7 @@ Markdown提供了两种风格来书写一、二级标题:
 ### 文章标题
 
 文章的标题应该是它所在的文件夹名称.
+英文以外的文章应该将该名称翻译。
 
 所有文章的标题应该使用一级标题.
 举例:
@@ -203,7 +204,7 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 - `_osu!_使用C#和.NET框架写成。`
 
-### 枚举
+### 词语的并列
 
 在一个句子中枚举词语时，使用顿号分隔。
 
@@ -213,8 +214,8 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 #### 聊天频道
 
-The chat channel names are to use lowercase letters.
-For example:
+频道名称应该使用小写字母.
+举例:
 
 - `#spanish`
 - `#french`
@@ -222,7 +223,7 @@ For example:
 - `#multiplayer`
 - `#userlog`
 
-Though you may not use them at all, the private chat channel names are to use the letter casing as they appear.
+私人聊天频道名称也应该使用小写字母，尽管您几乎不会用到.
 
 ### Abbreviations
 
