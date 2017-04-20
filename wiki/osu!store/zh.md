@@ -3,7 +3,7 @@
 介绍
 ============
 
-** [osu!store（osu!商店）](http://store.ppy.sh/store/listing) ** (曾经的* [osu!market(osu!市场)](http://market.ppy.sh/)*，售卖一些杯子、衣服之类的）是一个在线的osu!周边商店。每一件商品都以最高品质造就，且价格适中。几乎所有的商品都经过质量检测，经过osu!创始人批准，只为给您一个令人满意的商品，或是给朋友的一份精致的礼物。
+**[osu!store（osu!商店）](http://store.ppy.sh/store/listing)** (曾经的*[osu!market(osu!市场)](http://market.ppy.sh/)*，售卖一些杯子、衣服之类的）是一个在线的osu!周边商店。每一件商品都以最高品质造就，且价格适中。几乎所有的商品都经过质量检测，经过osu!创始人批准，只为给您一个令人满意的商品，或是给朋友的一份精致的礼物。
 
 商品列表
 ===========
