@@ -86,7 +86,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-![Winner podium](podium.jpg)
+![Winner podium](podium.png)
 
 ------------------------------------------------------------------------
 
