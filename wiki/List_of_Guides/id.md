@@ -71,8 +71,8 @@ Info Skinning/Hitsound
 -   [Memotong dengan Latar yang Sederhana](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Membuat Spinner yang Berpusat di Tengah](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Apakah yang dimaksud dengan Custom Sample Overrides?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Perpustakaan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Menambahkan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Perpustakaan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
+-   [Menambahkan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Info Storyboarding
 ------------------

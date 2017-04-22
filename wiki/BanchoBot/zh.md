@@ -1,4 +1,8 @@
-![BanchoBot's tab.](BanchoBot.jpg "fig:BanchoBot's tab.") 聊天服务器主机 - BanchoBot [osu! 聊天服务器](IRC "wikilink").
+# BanchoBot (中文)
+
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+聊天服务器主机 - BanchoBot [osu! 聊天服务器](/wiki/Internet_Relay_Chat).
 
 有自己的个人档案!
 

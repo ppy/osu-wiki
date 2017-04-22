@@ -1,27 +1,46 @@
-Note: Depending on the song, it is possible to use these techniques (through, [\#Ninja Spinners](#Ninja_Spinners "wikilink") are absolutely forbidden). These techniques are placed here due to it being very difficult to use while getting the [map](map "wikilink") [ranked](ranked "wikilink").
+# Unrankable
 
-Hold Sliders
-------------
+In normal situations, the use of these techniques will automatically make your map unrankable!
 
-:\*Reason: Manipulation of time points is prohibited because the time points are to follow BPM of the music
+<!-- please place all mapping techniques in alphabetical order -->
 
-*Not to be confused with [Short Repeating Sliders](Short_Repeating_Sliders#Short_Repeating_Sliders "wikilink")*
+## Burai Sliders
 
-Burai Sliders
--------------
+Nominator(s): [machol30](https://osu.ppy.sh/u/5772)
 
-Stack zero
-----------
+Burai sliders is a slider that completely overlaps itself without leaving room to notice that it has actually overlapped with the exception of the slider end.
 
-Ninja Spinners
---------------
+This pattern is unrankable due to the confusion it creates in terms of overall readability.
+On the contrary, if you do a similar pattern but leave it as a slight angle, it is rankable.
 
-A ninja spinner is an extremely short [spinner](Spinner "wikilink") (typically only two [beats](Timing "wikilink") or less) that is inserted at a point in the map where you have almost no time to prepare for it. In addition to that, it typically goes to absolutely nothing in the music and is mainly done for the heck of it. They are typically seen in older maps before pretty much everybody got tired of ninja spinners and decided to ban them.
+This technique was named after the creator's former name, buraimaster1234 (now known as [machol30](https://osu.ppy.sh/u/5772)).
 
-A typical [beatmap](beatmap "wikilink") famous for ninja spinners is [Wizards in Winter](http://osu.ppy.sh/s/132). Most players on the list get about 20 "50" in their record due to ninja spinners.
+## Hold Sliders
 
-### Why It's Unrankable
+_Not to be confused with [Short Repeating Sliders](../Sliders/#short-repeating-sliders)._
 
-Ninja spinners are [unrankable](Ranking_Criteria "wikilink") because they typically break a player's [combo](Combo "wikilink") for no real reason whatsoever. Responding to ninja spinners is not seen by the modding community as an act of skill but as an act of memorizing where the spinners appear. Most players do not find true ninja spinners enjoyable as a result, and hence they are banned. If you want to put a short spinner in your map, simply give the player time to prepare for the spinner (at least half a beat should do) and give them ample time to recover after the spinner (for short spinners, at least a beat is recommended).
+Nominator(s): [Shinxyn](https://osu.ppy.sh/u/13996)
 
-One suggested reason is that "SS can be theoretically achieved for every beatmaps". In ninja spinners, it's impossible to get 300. In even faster ones, player don't need to spin but a 50 is automatically given (like the above example, *Wizards in Winter*).
+Normal sliders that change speed normally use an inherited point of 0.5 or 2.0.
+On the other hand, hold sliders use an inherited point of 0.25 or even 0.125.
+
+This forces the player to click and hold the slider without moving their cursor at all.
+These sliders are usually accompanied by a storyboarded message telling the player to "Hold".
+
+These sliders usually match the music, rather than being placed anywhere for no reason at all.
+
+## Ninja Spinners
+
+_Not to be confused with [Short Spinners](../Spinner/#short-spinners)._
+
+Ninja spinners are extremely short spinners that are usually placed in locations where the player has no time to prepare themselves for them.
+In addition to this, the community has decided to ban these spinners due to their abuse.
+
+These spinners are prohibited because they can cause the player to lose their combo and/or allow the player to achieve an SS rank.
+
+## Stack Zero
+
+Nominator(s): 
+
+Stack zero requires the mapper to modify the `Stack Leniency` value to `0` by using Notepad.
+By doing this, osu! will no longer stack stacked hit objects (this means that all objects will be placed on top of each other instead of being placed slightly up-left).

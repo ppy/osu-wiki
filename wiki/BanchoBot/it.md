@@ -1,6 +1,8 @@
-![Tab di BanchoBot.](BanchoBot.jpg "Tab di BanchoBot.")
+# BanchoBot (Italiano)
 
-L'host del [server della chat di osu!](IT:IRC "wikilink").
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+L'host del [server della chat di osu!](/wiki/Internet_Relay_Chat).
 
 ha un profilo!
 
