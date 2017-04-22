@@ -8,18 +8,18 @@ How to get it changed
 
 Sadly, you can't do this yourself. Just ask a [QAT](/wiki/People/Quality_Assurance_Team) to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
 
-Why do I need to change?
+Why should I change it?
 ------------
 
 If used correctly, it can add a certain effect (in a good way!) to a map. It changes the presentation of your map in an effective manner if used correctly by changing the elements and the time of the appearance of the title. If you're a storyboarder, this might be a very huge benefit to you!
 
--   An effective example would be [Shiirn's Solar map](http://osu.ppy.sh/s/33483)
--   You can split the title if it's too long for a single line: [example](https://osu.ppy.sh/s/1391), [another one](https://osu.ppy.sh/s/57560)
+-   An effective example would be [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/s/33483)
+-   You can split the title if it's too long for a single line: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/s/1391), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/s/57560)
 
-General info
+General Info
 -------------
 
-Hand this to your favourite QAT.
+Send a PM (private message) with this to your favorite QAT member.
 
 -   Syntax is as follows:
 
@@ -60,7 +60,7 @@ How long the text stays on the screen, including the fade in and out.
 
 `size:N`
 
-Font size in points.
+Font size in [points][Points Link].
 
 Defaults
 ----------
@@ -83,3 +83,5 @@ Example
 `[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
 
 Line 1 will start fading in for 50 ms at 672, be a red color, and be midsized and bold, fading out to 0 at 1672. Line 2 will start fading in for 300 ms at 1172 and fade to 0 at 7172, be white, and large but not bold.
+
+[Points Link]: https://en.wikipedia.org/wiki/Point_(typography)

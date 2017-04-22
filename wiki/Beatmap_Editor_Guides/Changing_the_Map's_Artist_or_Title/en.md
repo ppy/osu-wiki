@@ -3,8 +3,6 @@ Changing the Map's Artist or Title
 
 [*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/forum/t/24443)
 
-This is until osz2 will be implemented.
-
 When changing the **title or artist** in a map, a problem may occur in which you may not be able to submit it without making a duplicate map.
 
 **DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
@@ -17,8 +15,8 @@ Easy Method (don't have any local changes):
 2.  Download copy from osu! website.
 3.  Go into editor. Make sure the "Web" menu is enabled (not greyed out).
 4.  Change the Artist/Title info.
-5.  **Do NOT exit the editor.**
-6.  Use **File > Open...** to change the Artist/Title in other difficulties.
+5. Do **not** exit the editor.
+6.  Use `File` > `Open...` to change the Artist/Title in other difficulties.
 7.  Full Submit.
 
 Hard Method (keep local changes):
@@ -29,9 +27,9 @@ Hard Method (keep local changes):
 4.  Go into editor. Make sure the "Web" menu is enabled (not greyed out).
 5.  Change the Artist/Title info.
 6.  **Do NOT exit the editor.**
-7.  Use **File > Open...** to change the Artist/Title in other difficulties.
+7.  Use `File` > `Open...` to change the Artist/Title in other difficulties.
 8.  Full Submit.
 
 If you have any duplicated maps, please contact a BAT for resolution.
 
-**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
+**Do not submit if the editor "web" menu is disabled. Your map will duplicate.**
