@@ -123,7 +123,7 @@ Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benu
 
 #### Timing Setup Panel
 
-![](/wiki/Beatmap_Editor/TimingSetup.png)
+![](/wiki/Beatmap_Editor/Timing/TimingSetup.png)
 
 | Name | Beschreibung |
 | ---- | ------------ |

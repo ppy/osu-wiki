@@ -107,7 +107,7 @@ I also would like to show you a little program that can be really helpful to fin
 
 #### Timing Setup Panel
 
-![](TimingSetup.png)
+![](/wiki/Beatmap_Editor/Timing/TimingSetup.png)
 
 | Name | Description |
 | ---- | ----------- |
