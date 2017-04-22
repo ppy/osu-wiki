@@ -27,13 +27,7 @@ h.264 and XviD are very good codecs to use but like most video codecs, they are 
 Audio
 -----
 
-Now that there is a limit on audio bitrate, it's not as much of a problem anymore. However long songs at 192 kbps will undoubtedly take up most of your space. I recommend using a variable bitrate between rate factor 2 and 5 (I try to stick around 4). With a variable bitrate, you get more compression in low activity areas, and more quality in higher areas.
-
-![](CBF_01.png "CBF_01.png")
-
-Programs such as [Audacity 1.3.13](http://audacity.sourceforge.net/download/) does an excellent job of saving variable bitrate audio with the correct plugins.
-
-Osu accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advantage over mp3 at low bitrates (under 128 kbps), but suffers from lack of support by proprietary software like apple, since mp3 is the standard for audio. However, there are severely limiting returns on using anything higher than 128 kbps. For osu! it doesn't really matter which one you use.
+_See [this guide](/wiki/Beatmap_Editor_Guides/Audio_Editing)_
 
 Images
 ------
