@@ -23,7 +23,7 @@ Hand this to your favourite QAT.
 
 -   Syntax is as follows:
 
-`[firstOption:firstValue,secondOption:secondValue] and so on, so forth; notice there are no spaces around punctuation marks`
+`[firstOption:firstValue,secondOption:secondValue]` and so on, so forth; notice there are no spaces around punctuation marks
 
 -   You can split title text into lines using the pipe character, |
 -   Text formatting can't be set for separate words or symbols. Instead, it applies to the whole line (see above). Formatting options should be in the very beginning of the line;

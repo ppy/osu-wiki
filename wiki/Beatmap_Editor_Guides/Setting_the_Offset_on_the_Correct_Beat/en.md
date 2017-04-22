@@ -9,11 +9,11 @@ Most of osu players are not pro at music, so we got some maps with a problem:
 
 The first divisor of a section is a heavy beat. See the examples.
 
-4/4 song:
+***4/4 song:***
 
 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0
 
-3/4 song:
+***3/4 song:***
 
 **0** 0 0 **0** 0 0 **0** 0 0 **0** 0 0
 

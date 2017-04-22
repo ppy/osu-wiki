@@ -21,4 +21,4 @@ Come scaricare video da YouTube
 
 ### Caricare il video in osu!
 
-Apri la tua beatmap e premi F2, clicca Video/Immagine di sfondo. Usa lo slider sotto per correggere l'offset di inizio video e voila, hai fatto.
+Apri la tua beatmap e premi `F2`, clicca Video/Immagine di sfondo. Usa lo slider sotto per correggere l'offset di inizio video e voila, hai fatto.

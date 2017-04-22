@@ -17,15 +17,15 @@ Removing audio
 
 3) If the following shows up because the video is h.264 (h.264 is the best right now):
 
+   a) Press either (no is better unless the program crashes).
+
 ![](CV_01.png "CV_01.png")
 
-a) Press either (no is better unless the program crashes).
-
-4) Select Audio -&gt; Main Track
+4) Select Audio -> Main Track
 
 ![](CV_02.png "CV_02.png")
 
-5) Select Audio Source -&gt; None
+5) Select Audio Source -> None
 
 ![](CV_03.png "CV_03.png")
 
@@ -38,7 +38,7 @@ Encoding Video
 
 7) If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264. Note that…
 
-:\*mm201 wrote: *h.264 lags single-core machines like crazy and shouldn't be used.* I do not agree with this, as we have a video toggle, and this isn't 2005. If you want to support ancient PCs, then use h.263 or Xvid.
+*mm201 wrote:* h.264 lags single-core machines like crazy and shouldn't be used. I do not agree with this, as we have a video toggle, and this isn't 2005. If you want to support ancient PCs, then use h.263 or Xvid.
 
 ![](CV_05.png "CV_05.png")
 
@@ -57,7 +57,7 @@ Encoding Video
 Save
 ----
 
-11) Press ctrl+S to save the file somewhere, then copy it into your folder.
+11) Press `Ctrl` + `S` to save the file somewhere, then copy it into your folder.
 
 Final Remarks
 -------------

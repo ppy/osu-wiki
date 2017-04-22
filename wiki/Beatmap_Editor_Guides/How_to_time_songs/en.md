@@ -1,7 +1,7 @@
 How to time songs
 ====================
 
-<img src="Timing base.jpg" title="Timing menu." alt="Timing menu." width="300" />
+![Timing menu.](/wiki/Beatmap_Editor/Timing/Timing_base.jpg "Timing menu.")
 
 Introduction
 -------------
@@ -40,7 +40,7 @@ So the plan of action in nutshell:
 
 When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](http://osu.ppy.sh/s/8894)), and in cases like this you can follow the vocals.
 
-Play your track from the beginning and keep listening to it until you come to a point where you can clearly hear the rhythm and catch it. At this point, stop the song, wind back a little bit, start listening again and tapping **T** key as consistently as possible (you can also click the button in the top right corner that says "Tap here!", but keyboard usually gives more accurate results). The parameters (BPM, Offset) will change with every new tap you make, but don't mind it, you'll iron them out later. Spend half a minute on this, a minute at maximum.
+Play your track from the beginning and keep listening to it until you come to a point where you can clearly hear the rhythm and catch it. At this point, stop the song, wind back a little bit, start listening again and tapping `T` key as consistently as possible (you can also click the button in the top right corner that says "Tap here!", but keyboard usually gives more accurate results). The parameters (BPM, Offset) will change with every new tap you make, but don't mind it, you'll iron them out later. Spend half a minute on this, a minute at maximum.
 
 #### Finding offset
 
@@ -82,7 +82,7 @@ Under Time Signature, we have
 
 ### Testing
 
-Testing is the phase where we will put the actual notes into the beatmap, similar to writing musical symbols into a musical sheet. Press **F1** or press "Compose" tab and lay some notes on the mapping grid so that you can hit them with ease.
+Testing is the phase where we will put the actual notes into the beatmap, similar to writing musical symbols into a musical sheet. Press `F1` or press "Compose" tab and lay some notes on the mapping grid so that you can hit them with ease.
 
 -   Notes should not begin immediately in the first few seconds. Give yourself some time to get used to the rhythm and start with a slider or two;
 -   Set the notes on white ticks (Beat Snap Divisor on 1/1; "Strong beat"), and nowhere else (don't use 1/2 or 1/4 yet).
@@ -95,7 +95,9 @@ So, put the notes, press F5 (Test mode) and hit the said notes as precisely as p
 -   The estimated result becomes sluggish the longer you play. So, from time to time (20 ~ 30 seconds), it is better to stop testing (F2) and run it from that same place (F5 again) after some rest;
 -   Use clap hitsounds, it can help to get the tempo right (used by DDR's "Practice mode").
 
-<img src="Editor TestMode.jpg" title="fig:The test mode" alt="The test mode" width="300" /> Along with getting 300 hitbursts, you need to peek at the left-hand side of the testing window. There is a line that looks something like this: **Mistimed Hits: 69% (ave 25ms late).** \[Refer picture\]
+![The test mode](Editor_TestMode.jpg "The test mode")
+
+Along with getting 300 hitbursts, you need to peek at the left-hand side of the testing window. There is a line that looks something like this: **Mistimed Hits: 69% (ave 25ms late).** \[Refer picture\]
 
 -   The first is the percentage of inaccurate hits.
     -   You must keep this value below, say, 5%.

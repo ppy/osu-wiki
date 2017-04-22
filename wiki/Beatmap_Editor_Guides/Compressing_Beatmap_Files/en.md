@@ -13,7 +13,7 @@ There are 2 types of compression. **Lossy** and **Lossless** compression.
 Zip
 ---
 
-The \*.osz package is actually a \*.zip file, and will compress your beatmap, although not very much, since audio, video, and images are usually compressed very well. Zip and other archives are all lossless compression, otherwise you wouldn't be able to get your data back.
+The `*.osz` package is actually a `*.zip` file, and will compress your beatmap, although not very much, since audio, video, and images are usually compressed very well. Zip and other archives are all lossless compression, otherwise you wouldn't be able to get your data back.
 
 Video
 -----
@@ -38,15 +38,15 @@ Osu accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advanta
 Images
 ------
 
-There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use \*.png and \*.jpg compression to the most of their ability however, leaving you with 4 KB pngs of 1 color, which could be compressed up to 400 times smaller.
+There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use `*.png` and `*.jpg` compression to the most of their ability however, leaving you with 4 KB pngs of 1 color, which could be compressed up to 400 times smaller.
 
-[Gimp](http://www.gimp.org/) actually does a good job with \*.jpg files.
+[Gimp](http://www.gimp.org/) actually does a good job with `*.jpg` files.
 
 ![](CBF_02.png "CBF_02.png")
 
-There are four important things to check: Optimize, Progressive, subsampling, and quality. Optimize is just a way to compress the \*.jpg without losing quality and should always be checked. Progressive is a method to make jpgs "fade in" when downloaded from the internet. It has a side effect of making the image smaller so long as the image is over 20 KB. Subsampling is a way to improve quality or compression. No subsampling (1x1) will make text and lines much clearer at the cost of space. 2x2 subsampling does very well for photographs which do not have distinct lines (like text). Quality is the easiest way to keep the image looking good. I use 95, since the gains after 95 aren't really worthwhile.
+There are four important things to check: Optimize, Progressive, subsampling, and quality. Optimize is just a way to compress the `*.jpg` without losing quality and should always be checked. Progressive is a method to make jpgs "fade in" when downloaded from the internet. It has a side effect of making the image smaller so long as the image is over 20 KB. Subsampling is a way to improve quality or compression. No subsampling (1x1) will make text and lines much clearer at the cost of space. 2x2 subsampling does very well for photographs which do not have distinct lines (like text). Quality is the easiest way to keep the image looking good. I use 95, since the gains after 95 aren't really worthwhile.
 
-Pngs are actually much simpler to compress, but GIMP does not do it very well. [Optipng](http://optipng.sourceforge.net/) and [Pngout](http://advsys.net/ken/utils.htm) are two of the best tools to compress \*.png files. Optipng can find the optimum settings for the \*.png, and pngout re-compresses the image using \*.kzip. Often times just using pngout will reduce the image size by 20%.
+Pngs are actually much simpler to compress, but GIMP does not do it very well. [Optipng](http://optipng.sourceforge.net/) and [Pngout](http://advsys.net/ken/utils.htm) are two of the best tools to compress `*.png` files. Optipng can find the optimum settings for the `*.png`, and pngout re-compresses the image using `*.kzip`. Often times just using pngout will reduce the image size by 20%.
 
 ![](CBF_03.png "CBF_03.png")
 
