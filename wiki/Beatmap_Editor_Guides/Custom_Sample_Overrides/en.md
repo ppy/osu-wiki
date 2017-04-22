@@ -1,65 +1,64 @@
-\_\_NOTOC\_\_ At the moment, per-beatmap and per-skin sample-sets can be implemented.
+# Custom Sample Overrides
 
-The following files can be replaced:
+At the moment, per-beatmap and per-skin sample-sets can be implemented.
 
-### Normal (loud) sampleset:
+The following section describes the name of files that can be replaced.
 
--   normal-hitnormal
--   normal-hitwhistle
--   normal-hitfinish
--   normal-hitclap
+## Normal (loud) sampleset:
 
-these three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle
+- `normal-hitnormal`
+- `normal-hitwhistle`
+- `normal-hitfinish`
+- `normal-hitclap`
 
--   normal-sliderslide (loops)
--   normal-sliderwhistle (loops)
--   normal-slidertick
+The following three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle.
 
-### Soft sampleset:
+- `normal-sliderslide` (loops)
+- `normal-sliderwhistle` (loops)
+- `normal-slidertick`
 
--   soft-hitnormal
--   soft-hitwhistle
--   soft-hitfinish
--   soft-hitclap
+## Soft sampleset:
 
-these three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle
+- `soft-hitnormal`
+- `soft-hitwhistle`
+- `soft-hitfinish`
+- `soft-hitclap`
 
--   soft-sliderslide (loops)
--   soft-sliderwhistle (loops)
--   soft-slidertick
+The following three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle.
 
-### Drum sampleset:
+- `soft-sliderslide` (loops)
+- `soft-sliderwhistle` (loops)
+- `soft-slidertick`
 
--   drum-hitnormal
--   drum-hitwhistle
--   drum-hitfinish
--   drum-hitclap
+## Drum sampleset:
 
-these three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle
+- `drum-hitnormal`
+- `drum-hitwhistle`
+- `drum-hitfinish`
+- `drum-hitclap`
 
--   drum-sliderslide (loops)
--   drum-sliderwhistle (loops)
--   drum-slidertick
+The following three samples are additive, meaning when you hit a whistle you will get a hitnormal + hitwhistle.
 
-### Universal samples:
+- `drum-sliderslide` (loops)
+- `drum-sliderwhistle` (loops)
+- `drum-slidertick`
 
--   spinnerspin (this sound is pitch-shifted as the spinner increases. It goes from ~500hz to 80000hz where the original sample is 44100hz)
--   spinnerbonus (ding)
+## Universal samples:
 
-### Sample Format
+- `spinnerspin` (this sound is pitch-shifted as the spinner increases. It goes from ~500hz to 80000hz where the original sample is 44100hz)
+- `spinnerbonus` (ding)
 
-You can use wav or mp3, but heed the following: WAVE files are best in all cases, as mp3s will not loop correctly and have a short (0-20ms) gap before they are heard, adding an extra latency variable.
+## Notes
 
-Also note that if you wish to replace both normal and soft samples in a skin, simply do not include the normal- or soft- prefix.
+- Internally `.wav` file formats are used for all hitsounds due to the inherent lower latency for initial triggering and loop compatibility.
+  - You can use `.wav` or `.mp3`, but heed the following: `.wav` files are best in all cases, this is because `.mp3` may sometimes loop incorrectly and noticablly have a short (0 - 20ms) gap between the loops.
+- If you want to replace both normal and soft samples in a skin, simply do not include the `normal-` or `soft-` prefixes.
+- Place these files in your beatmap or skin's directory.
+  You then have to reload the beatmap or skin to see the effect!
 
-Internally WAVE format files are used for all hitsounds due to the inherent lower latency for initial triggering and loop compatibility.
+## Related articles
 
-Put any of these files in your beatmap or skin's directory and reload in edit/play mode!
+See also:
 
-Related articles
-----------------
-
-Also check out:
-
--   [Custom Hitsound Library](Custom_Hitsound_Library "wikilink")
--   [Skinning/Sounds](Skinning/Sounds "wikilink")
+- [Custom Hitsound Library](../Custom_Hit_Sound_Library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds/)

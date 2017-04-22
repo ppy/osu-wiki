@@ -1,4 +1,8 @@
-![Tab BanchoBot.](BanchoBot.jpg "fig:Tab BanchoBot.") Hostmu untuk [server obrolan osu!](ID:IRC "wikilink").
+# Bancho (Bahasa Indonesia)
+
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+Hostmu untuk [server obrolan osu!](/wiki/Internet_Relay_Chat).
 
 mempunyai sebuah profil!
 

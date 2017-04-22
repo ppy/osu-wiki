@@ -29,15 +29,15 @@ osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了�
 
 #### 第五届OCWT
 
-[详情链接点这里](https://osu.ppy.sh/forum/t/149294)，[OCWT副赛在这里](http://osu.ppy.sh/forum/t/161959)
+[详情链接点这里](https://osu.ppy.sh/forum/t/149294)，[OCWT副赛在这里](https://osu.ppy.sh/forum/t/161959)
 
-冠军：泡麵王（[Small K](http://osu.ppy.sh/u/952751)、[Rucker](http://osu.ppy.sh/u/147515)、[SnowWhite](http://osu.ppy.sh/u/50265)）
+冠军：泡麵王（[Small K](https://osu.ppy.sh/u/952751)、[Rucker](https://osu.ppy.sh/u/147515)、[SnowWhite](https://osu.ppy.sh/u/50265)）
 
-[破比比赛没名字杯osu比赛](http://osu.ppy.sh/forum/t/163606)（[贴吧链接](http://tieba.baidu.com/p/2686012096)）←**开始报名**
+[破比比赛没名字杯osu比赛](https://osu.ppy.sh/forum/t/163606)（[贴吧链接](https://tieba.baidu.com/p/2686012096)）←**开始报名**
 
 #### 纸张杯恶俗娱乐赛
 
-[详情链接点这里](http://osu.ppy.sh/forum/t/133153)
+[详情链接点这里](https://osu.ppy.sh/forum/t/133153)
 
 双mod组：moe（momo、Elinia），单mod触手组：临港zz关爱协会（qmy nana、-Izumi Konata-），单mod沙包组：异域的沙包（YF\_HTT、no\_longer），Tag组：moe（momo、Elinia）
 
@@ -53,7 +53,7 @@ osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了�
 
 围观组:\#1:\[Kudryavka\],\#2:\[ Snow Rabbit \],\#3:21\_sucks
 
-**2014届ASOT正在进行，[详情可点击查看（注：本链接并未指向osu内部网站）](http://afterschoolosutime.weebly.com)**
+**2014届ASOT正在进行，[详情可点击查看（注：本链接并未指向osu内部网站）](https://afterschoolosutime.weebly.com)**
 
 ### Taiko
 
@@ -71,7 +71,7 @@ osu!作为一个世界级的游戏，当然也少不了各种各样的比赛了�
 
 #### 第一届骗顶杯Mapping比赛
 
-[详情链接点这里](http://osu.ppy.sh/forum/t/135492)，[结果在这里](https://osu.ppy.sh/forum/t/152966)
+[详情链接点这里](https://osu.ppy.sh/forum/t/135492)，[结果在这里](https://osu.ppy.sh/forum/t/152966)
 
 [TERRY - 華爛漫 -Flowers-](https://osu.ppy.sh/s/102498)：buhei（\#1）、Flask（\#5）、Nyquill（\#10）
 

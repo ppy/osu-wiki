@@ -27,7 +27,7 @@ Forum-wide rules
 8.  Advertisements and referral links are explicitly forbidden. Just don't post them, period.
 9.  Autoloading content (youtube videos, flash applets, etc) is not allowed.
 
-[BSS](/wiki/Glossary) Forum Rules
+BSS Forum Rules
 ---------------------------------
 
 These rules apply strictly to the unique nature of the [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) threads. These threads are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).

@@ -36,7 +36,7 @@ The osu!taiko World Cup 2017 is ran by various community members by distributing
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](https://new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](https://new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://new.ppy.sh/u/776257) |
 | Map Selectors | [![](/wiki/shared/flag/De.gif) OnosakiHito](https://new.ppy.sh/u/290128), [![](/wiki/shared/flag/Fr.gif) Sayaka-](https://new.ppy.sh/u/398275) |
-| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/u/3716999), [![](/wiki/shared/flag/Fr.gif) Arrival](https://osu.ppy.sh/u/1694000), [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Au.gif) Jaye](https://osu.ppy.sh/u/4841352), [![](/wiki/shared/flag/Hk.gif) magnomizer](https://osu.ppy.sh/u/1893718), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/De.gif) Zetera](https://osu.ppy.sh/u/587737), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
+| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/u/3716999), [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/Au.gif) Jaye](https://osu.ppy.sh/u/4841352), [![](/wiki/shared/flag/Hk.gif) magnomizer](https://osu.ppy.sh/u/1893718), [![](/wiki/shared/flag/Ca.gif) Tasha](https://new.ppy.sh/u/1031958), [![](/wiki/shared/flag/De.gif) Zetera](https://osu.ppy.sh/u/587737), [![](/wiki/shared/flag/Us.gif) ztrot](https://new.ppy.sh/u/6347) |
 | Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://new.ppy.sh/u/1910766) |
 
 ## Links
@@ -86,44 +86,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 ------------------------------------------------------------------------
 
-## Schedule: Finals - Week 1
-
-**_No responsibility is taken for the correctness of the local times in the schedules!_**
-
-### Saturday, 8. April 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ² |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **4.00 UTC** | 12.00 UTC +8 | 13.00 UTC +9 | ¹ |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **17.00 UTC** | 19.00 UTC +2 | 10.00 UTC -7 | ² |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **19.00 UTC** | 12.00 UTC -7 | 21.00 UTC +2 | ³ |
-
-
-### Sunday, 9. April 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 19.00 (Sat.) UTC -7 | 19.00 (Sat.) UTC -7 | ³ |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **2.00 UTC** | 10.00 UTC +8 | 19.00 (Sat.) UTC -7 | ³ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **4.00 UTC** | 13.00 UTC +9 | 21.00 (Sat.) UTC -7 | ⁴ |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **10.00 UTC** | 18.00 UTC +8 | 12.00 UTC +2 | ³ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 | ⁴ |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 21.00 UTC +9 | 20.00 UTC +8 | ⁴ |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **12.00 UTC** | 20.00 UTC +8 | 14.00 UTC +2 | ⁴ |
-
-¹ Winner bracket encounter
-
-² Loser bracket encounter
-
-³ Encounter dependent on ²Loser bracket encounter
-
-⁴ Encounter dependent on ¹Winner bracket encounter and ³second loser bracket encounter.
-
+![Winner podium](podium.png)
 
 ------------------------------------------------------------------------
 
@@ -236,7 +199,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | --- | :--- |
 | [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](http://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
 | [Acrnym - Knife (LZD)](http://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
-| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD+HR) |
+| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](http://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD, HR) |
 
 | Tiebreaker | |
 | --- | :--- |
@@ -317,13 +280,32 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 | Tiebreaker | |
 | --- | :--- |
-| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] () |
+| [Sasara Yuuna - dnabgib kaerB (Firce777)](http://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] (Any) |
 
 
 
 ------------------------------------------------------------------------
 
 ## Results
+
+### Grand Finals
+
+| Saturday, 15. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 7 | 1 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://new.ppy.sh/matches/32485603) |
+
+### Finals - Week 1
+
+| Saturday, 08. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 0 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://new.ppy.sh/matches/32317619) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 0 | 6 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://new.ppy.sh/matches/32319543) |
+| Germany ![](/wiki/shared/flag/De.gif) | 0 | 6 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32334385) |
+
+| Sunday, 09. April 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 6 | 4 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://new.ppy.sh/matches/32346874) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 6 | 0 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://new.ppy.sh/matches/32355825) |
 
 ### Semifinals
 

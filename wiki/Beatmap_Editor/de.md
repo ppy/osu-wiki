@@ -1,17 +1,20 @@
-<img src="Compose.png" title="Kompositionseditor im FenstermodusCompose editor for osu! in Windowed mode" alt="Kompositionseditor im FenstermodusCompose editor for osu! in Windowed mode" width="200" />
+Beatmap Editor (Deutsch)
+=========================
 
-Der **Beatmap Editor** ist osu!s grafisches Ingame-Interface zum Erstellen von [Beatmaps](DE:Beatmaps "wikilink"). Es ist in vier Bereichen aufgeteilt:
+![Kompositionseditor im Fenstermodus](Compose/Compose.png "Kompositionseditor im Fenstermodus")
 
--   [Komposition](DE:Compose "wikilink"): Hier werden [Hit Objekte](DE:Hit_Objects "wikilink") platziert und editiert.
--   [Design](DE:Design "wikilink"): Hier wird das Storyboard erstellt, die meisten Mapper benutzen nur ein Hintergrundbild/-video.
--   [Timing](DE:Timing "wikilink"): Hier wird die BPM und Offset des Liedes eingestellt. Hier werden auch die Hitsounds eingestellt, wenn nicht nur ein Sample benutzt wird.
--   [Song Setup](DE:Song_Setup "wikilink"): Hier werden spezielle Einstellungen an der Beatmap vorgenommen. Schwierigkeitseinstellungen, Kombofarben, usw.
+Der **Beatmap Editor** ist osu!s grafisches Ingame-Interface zum Erstellen von [Beatmaps](/wiki/Beatmaps). Es ist in vier Bereichen aufgeteilt:
+
+-   [Komposition](/wiki/Beatmap_Editor/Compose): Hier werden [Hit Objekte](/wiki/Hit_Objects) platziert und editiert.
+-   [Design](/wiki/Beatmap_Editor/Design): Hier wird das Storyboard erstellt, die meisten Mapper benutzen nur ein Hintergrundbild/-video.
+-   [Timing](/wiki/Beatmap_Editor/Timing): Hier wird die BPM und Offset des Liedes eingestellt. Hier werden auch die Hitsounds eingestellt, wenn nicht nur ein Sample benutzt wird.
+-   [Song Setup](/wiki/Beatmap_Editor/Song_Setup): Hier werden spezielle Einstellungen an der Beatmap vorgenommen. Schwierigkeitseinstellungen, Kombofarben, usw.
 
 Zusammenhängende Artikel
 ------------------------
 
--   [Beatmapping](DE:Beatmapping "wikilink") (Grundladen zum Mapping)
--   [Beat Snap Divisor](DE:Beat_Snap_Divisor "wikilink")
--   [Distance Snap](DE:Distance_Snap "wikilink")
--   [Custom Sample Overrides](DE:Custom_Sample_Overrides "wikilink")
--   [Kiai Time](DE:Kiai_Time "wikilink")
+-   [Beatmapping](/wiki/Beatmapping) (Grundladen zum Mapping)
+-   [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)
+-   [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)
+-   [Custom Sample Overrides](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
+-   [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time)

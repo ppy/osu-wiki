@@ -1,4 +1,8 @@
-![Etiquette de BanchoBot.](BanchoBot.jpg "fig:Etiquette de BanchoBot.") BanchoBot aide dans la modération des serveurs d'osu!. Il contrôle l'[IRC](irc://cho.ppy.sh), la sauvegarde des scores, l'organisation des matchs multijoueur...
+# BanchoBot (Français)
+
+![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+
+BanchoBot aide dans la modération des serveurs d'osu!. Il contrôle l'[IRC](/wiki/Internet_Relay_Chat), la sauvegarde des scores, l'organisation des matchs multijoueur...
 
 Il a été conçu par [Zallius](https://osu.ppy.sh/u/Zallius) lors de la création d'osu!.
 

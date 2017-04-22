@@ -1,117 +1,137 @@
+Timelines
+=========
+
 This will list all the possible timelines you will encounter in Beatmap Editor along with their respective location.
 
 Song Player
-===========
+------------
 
-<img src="BE_STL.jpg" title="Song&#39;s Timeline" alt="Song&#39;s Timeline" width="200" />
+![Song's Timeline](/wiki/shared/BE_STL.jpg "Song's Timeline")
 
-*Location: [Compose](Compose "wikilink"), [Design](Design "wikilink"), [Timing](Timing "wikilink") (Bottom)*
+*Location: [Compose](/wiki/Beatmap_Editor/Compose), [Design](/wiki/Beatmap_Editor/Design), [Timing](/wiki/Beatmap_Editor/Timing) (Bottom)*
 
 At **left**, it shows **timestamp in milliseconds (ms)** and **song duration %**. The "%" may be switched to "intro/outro" when there is intro/outro storyboarding.
 
 At **centre**, it shows the **timeline with markings and the compulsory music player buttons.** For "Test" button, your beatmap will be saved to test the beatmap starting on current timestamp.
 
-| Colour markers      |
-|---------------------|
-| Colour              |
-| Bright White Long   |
-| Yellow Long         |
-| Yellow up           |
-| Green up            |
-| Red up              |
-| Blue Down           |
-| Colour Highlights   |
-| Grey                |
-| Orange              |
-| Bookmarking command |
-| Ctrl + B            |
-| Ctrl + Shift + B    |
-| Ctrl + Right Arrow  |
-| Ctrl + Left Arrow   |
+### Colour markers
+
+| Colour | Description |
+| ------ | ----------- |
+| Bright White Long	| Current test section |
+| Yellow Long	| Preview point. |
+| Yellow up	| Start of Drain time. |
+| Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
+| Red up | Timing Points. (See Timing Setup) |
+| Blue Down |	Bookmark |
+
+### Colour Highlights
+
+| Colour | Description |
+| ------ | ----------- |
+| Grey | Break Time |
+| Orange | Kiai Time |
+
+### Bookmarking command
+
+| Shortcut | Description |
+| -------- | ----------- |
+| Ctrl + B | Add bookmark at current location. |
+| Ctrl + Shift + B | Remove bookmark at current location. |
+| Ctrl + Right Arrow | Next bookmark. |
+| Ctrl + Left Arrow	| Previous bookmark. |
 
 At **right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-=Compose=
+Compose
+------------
 
-osu!
-----
+### osu!
 
-*Location: Top @ [Compose](Compose "wikilink") tab in any modes other than osu!mania only.*
+*Location: Top @ [Compose](/wiki/Beatmap_Editor/Compose) tab in any modes other than osu!mania only.*
 
-<img src="BE_NTL.jpg" title="fig:Hit Objects Timeline" alt="Hit Objects Timeline" width="200" /> **Shows the timeline for hitobjects with respect to [Beat Snap Divisor](Beat_Snap_Divisor "wikilink") and timestamp.**
+![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Hit Object Timeline</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>&quot;+&quot;/&quot;-&quot; buttons</p></td>
-</tr>
-<tr class="even">
-<td><p>Double white vertical lines</p></td>
-</tr>
-<tr class="odd">
-<td><p>Click on hitobject</p></td>
-</tr>
-</tbody>
-</table>
+**Shows the timeline for hitobjects with respect to [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) and timestamp.**
 
-osu!mania
----------
+#### Hit Object Timeline
 
-*Location: Centre @ [Compose](Compose "wikilink") tab in osu!mania only.*
+| Name | Description |
+| ---- | ----------- |
+| `+`/`-` buttons | Increase/Decrease timeline zoom |
+| Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
+| Click on hitobject | **Left-Click:** Select / Move hitobject against timeline. **Right-Click:** Remove hitobject. |
 
-<img src="BEM_PF.jpg" title="osu!mania playfield" alt="osu!mania playfield" width="200" />
+### osu!mania
 
-| Playfield Boxes          |
-|--------------------------|
-| Name                     |
-| Left Box                 |
-| Centre                   |
-| Colour notes             |
-| Double white line        |
-| White line               |
-| Green line               |
-| Blue colour              |
-| White/Pink/Yellow colour |
+*Location: Centre @ [Compose](/wiki/Beatmap_Editor/Compose) tab in osu!mania only.*
+
+![osu!mania playfield](/wiki/shared/BEM_PF.jpg "osu!mania playfield")
+
+#### Playfield Boxes
+
+| Name | Description |
+| ---- | ----------- |
+| Left Box | Notes intensity (Timeline). |
+| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
+
+#### Colour notes
+
+| Name | Description |
+| ---- | ----------- |
+| Double white line | Measure |
+| White line | Common Time |
+| Green line | You / Judgement Line |
+| Blue colour | Currently-selected note |
+| White/Pink/Yellow colour | Normal notes colour |
 
 Design
-======
+--------
 
-*Location: Top @ [Design](Design "wikilink") tab*
+*Location: Top @ [Design](/wiki/Beatmap_Editor/Design) tab*
 
 **Shows the timeline for transformations of the selected object.**
 
-<img src="SE_STM.jpg" title="Storyboard Timeline" alt="Storyboard Timeline" width="350" />
+![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
 
-| Timeline                                                                                                                                                    |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| "+"/"-" buttons at left                                                                                                                                     |
-| Arrow "Up"/"Down" buttons''' left-below                                                                                                                     |
-| Centre                                                                                                                                                      |
-| Keyframe Control                                                                                                                                            |
-| This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline. |
-| "+"/"-" buttons                                                                                                                                             |
-| "|&lt;" / "&gt;|" buttons                                                                                                                                   |
+### Timeline
 
-If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (eg going up -&gt; going down).
+| Name | Description |
+| ---- | ----------- |
+| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
+| Centre | Transformation Timeline for the selected SB object. |
+
+### Keyframe Control
+
+This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline.
+
+| Name | Description |
+| ---- | ----------- |
+| `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
+| `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
+
+If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (e.g. going up -&gt; going down).
 
 Timing
-======
+---------
 
-*Location: Top @ [Timing](Timing "wikilink") tab*
+*Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
 
-<img src="TT.jpg" title="Timing Timeline" alt="Timing Timeline" width="350" />
+![Timing Timeline](TT.jpg "Timing Timeline")
 
-| Timing Timeline         |
-|-------------------------|
-| "+"/"-" buttons at left |
-| Centre                  |
-| Flag colours            |
-| White                   |
-| Blue                    |
+### Timing Timeline
+
+| Name | Description |
+| ---- | ----------- |
+| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| Centre | Timing Timeline |
+
+### Flag colours
+
+| Colour | Description |
+| ------ | ----------- |
+| White | Timing Points. Use new BPM value. (Red on Song Timeline) |
+| Blue | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |
 
 At right, it shows **Time Signature script (known as "Meter")** and **Metronome set**. The meter's **4:2** means **4th measure and 2nd beat of the song**. The **Metronome set plays the BPM beat** and **doubles as a helper to estimate a BPM value.**
