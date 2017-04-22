@@ -79,7 +79,7 @@ Commands list
 | Command        | Effect                                                                                         | Example           | BanchoBot response                                                               | 
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
 | /addfriend [user]   | Add [user] to your friends list.      | /addfriend Amigo | You are now friends with Amigo. |
-| /delfriend [user]   | Remove [user] from your friends list. | /delfriend Amigo | You are now friends with Amigo. |
+| /delfriend [user]   | Remove [user] from your friends list. | /delfriend Amigo | You are no longer friends with Amigo. |
 | /away [message] | Sets an away message (sent to users PMing you). Leave message blank to cancel. | /away I am John Smith. | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~?  BanchoBot: I am John Smith.|
 | /bb | Sends a message to bancho like rank [number] | /bb rank 1 | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | /chat [user] | Open a new chat tab with specified user. | /chat Amigo | (Amigo tab is opened) | 
