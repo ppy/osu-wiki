@@ -56,7 +56,7 @@ Sons universels :
 Format du fichier
 -------------------
 
-Vous pouvez utiliser un .wav ou un .mp3, mais tenez compte de ce qui suit : les fichiers WAVE sont les meilleurs dans tout les cas, puisque les mp3 n'effectueront pas une boucle correcte et auront un petit écart (0-20 ms) avant d'être entendus, ajoutant une variable de latence supplémentaire.
+Vous pouvez utiliser un `.wav` ou un `.mp3`, mais tenez compte de ce qui suit : les fichiers WAVE sont les meilleurs dans tout les cas, puisque les mp3 n'effectueront pas une boucle correcte et auront un petit écart (0-20 ms) avant d'être entendus, ajoutant une variable de latence supplémentaire.
 
 Notez aussi que si vous voulez remplacer les deux sons "normal" et "soft" dans un skin, n'incluez pas simplement le préfixe *normal-* ou *soft-*.
 

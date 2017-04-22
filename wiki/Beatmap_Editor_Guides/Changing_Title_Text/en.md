@@ -6,9 +6,9 @@ Changing Title Text
 How to get it changed
 -------------------------
 
-Sadly, you can't do this yourself. Just ask a QAT to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
+Sadly, you can't do this yourself. Just ask a [QAT](/wiki/People/Quality_Assurance_Team) to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
 
-Why change?
+Why do I need to change?
 ------------
 
 If used correctly, it can add a certain effect (in a good way!) to a map. It changes the presentation of your map in an effective manner if used correctly by changing the elements and the time of the appearance of the title. If you're a storyboarder, this might be a very huge benefit to you!
@@ -25,7 +25,7 @@ Hand this to your favourite QAT.
 
 `[firstOption:firstValue,secondOption:secondValue]` and so on, so forth; notice there are no spaces around punctuation marks
 
--   You can split title text into lines using the pipe character, |
+-   You can split title text into lines using the pipe character, `|`
 -   Text formatting can't be set for separate words or symbols. Instead, it applies to the whole line (see above). Formatting options should be in the very beginning of the line;
 -   Empty lines are allowed, but please mind the space. The standard font size is kind of big, and 3 or 4 lines can eat the whole screen space;
 

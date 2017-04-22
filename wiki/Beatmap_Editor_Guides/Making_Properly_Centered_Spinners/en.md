@@ -26,11 +26,11 @@ Use the ellipse tool (shortcut is "e") and make a circle on the entire document.
 
 ### Shrink the selection
 
-Then shrink the selection by going to Select -&gt; Shrink. Fore more accurate circles, simply redraw them with the ellipse tool, as "shrink" is only good for one or two circles.
+Then shrink the selection by going to Select -> Shrink. Fore more accurate circles, simply redraw them with the ellipse tool, as "shrink" is only good for one or two circles.
 
 ![](MPCS_03.png)
 
-I chose 15, but you can choose however much you want. Create a new layer and fill the smaller selection with a different color so you can see it.
+Here is chosen 15, but you can choose however much you want. Create a new layer and fill the smaller selection with a different color so you can see it.
 
 ### The spinner
 
@@ -52,7 +52,7 @@ And copy/paste the selection from the image you want to copy:
 
 ### Set canvas size
 
-Finally, you can add a design in the middle, or recolor the edges. Make sure you reset the canvas size to 666x666 by going to Image -&gt; Canvas Size, and center the image so you have a 1 pixel border around the image.
+Finally, you can add a design in the middle, or recolor the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and center the image so you have a 1 pixel border around the image.
 
 ![](MPCS_07.png)
 
@@ -85,7 +85,7 @@ Technically, you are done, but if you want to make the background "fill in" with
 
 ### Copy/Paste into new layer, then save your spinner meter
 
-Once you have the color, select the entire alpha channel again (right click on the alpha channel -&gt; channel to selection) copy and paste the spinner background so you have something to fill in for your spinner meter.
+Once you have the color, select the entire alpha channel again (right click on the alpha channel -> channel to selection) copy and paste the spinner background so you have something to fill in for your spinner meter.
 
 ![](MPCS_12.png)
 
@@ -97,7 +97,7 @@ To add some more detail, you can turn down the opacity on the black image.
 
 ### The fully spun spinner background and meter
 
-Then you can see how it looks filled in by turning on the old layer. Note it has a little bit of an outline. If you want to change the size of that outline, you can use the select - grow or shrink tool before you copy/paste to make the spinner meter.
+Then you can see how it looks filled in by turning on the old layer. Note it has a little bit of an outline. If you want to change the size of that outline, you can use the select -> grow or shrink tool before you copy/paste to make the spinner meter.
 
 ![](MPCS_14.png)
 
