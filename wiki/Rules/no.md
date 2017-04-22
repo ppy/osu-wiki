@@ -25,7 +25,7 @@ Regler for nettforum
 8.  Reklame og annet innhold av den natur, slik som henvisningslenker, er STRENGT forbudt.
 9.  Innhold som laster automatisk (YouTube videoer, Flash, etc.) er forbudt.
 
-[BSS](/wiki/Glossary) Forum Regler
+BSS Forum Regler
 ----------------------------------
 
 Disse reglene er ment for [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) tråder. Disse trådene er lagd gjennom osu! klienten når en beatmap er sendt gjennom skapersystemet, [editor](/wiki/Beatmap_Editor).
