@@ -1,10 +1,15 @@
-### Sample Format
+Custom Sample Overrides (Deutsch)
+==================================
 
-Sie können entweder .wav oder .mp3 verwenden, beachten Sie jedoch folgendes: WAVE Dateien sind in allen Fällen am besten geeignet, da sich die MP3 Dateien nicht richtig wiederholen lassen und man es etwas verspätet (0-20ms) hört. Fügen Sie die Dateien in den jeweiligen Skin bzw. Beatmap Ordner.
+Sample Format
+---------------
+
+Sie können entweder `.wav` oder `.mp3` verwenden, beachten Sie jedoch folgendes: WAVE Dateien sind in allen Fällen am besten geeignet, da sich die MP3 Dateien nicht richtig wiederholen lassen und man es etwas verspätet (0-20ms) hört. Fügen Sie die Dateien in den jeweiligen Skin bzw. Beatmap Ordner.
 
 Die folgenden Dateien können ersetzt werden:
 
-### Normal (laut) Sampleset:
+Normal (laut) Sampleset:
+------------------------------
 
 -   normal-hitnormal
 -   normal-hitwhistle
@@ -14,7 +19,8 @@ Die folgenden Dateien können ersetzt werden:
 -   normal-sliderwhistle (Schleife)
 -   normal-slidertick
 
-### Soft Sampleset:
+Soft Sampleset:
+------------------
 
 -   soft-hitnormal
 -   soft-hitwhistle
@@ -24,7 +30,8 @@ Die folgenden Dateien können ersetzt werden:
 -   soft-sliderwhistle (Schleife)
 -   soft-slidertick
 
-### Drum Sampleset:
+Drum Sampleset:
+-----------------
 
 -   drum-hitnormal
 -   drum-hitwhistle
@@ -34,7 +41,8 @@ Die folgenden Dateien können ersetzt werden:
 -   soft-sliderwhistle (Schleife)
 -   soft-slidertick
 
-### Universal Samples:
+Universal Samples:
+-------------------
 
 -   spinnerspin
 -   spinnerbonus (Ding)
