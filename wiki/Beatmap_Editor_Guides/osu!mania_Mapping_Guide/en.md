@@ -47,7 +47,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 
 #### General
 
-![](Song Setup.png)
+![](Song_Setup.png)
 
 | Name | Description |
 | ---- | ----------- |
