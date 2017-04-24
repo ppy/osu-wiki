@@ -1,7 +1,7 @@
 osu!talk
 ============
 
-![osu!talk logo](Osu!talk.png "osu!talk logo")
+![osu!talk logo](Osu!talk.jpg "osu!talk logo")
 
 Introduzione
 ------------

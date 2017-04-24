@@ -4,7 +4,7 @@ osu!talk
 Einführung
 ------------
 
-![osu!talk logo](Osu!talk.png "osu!talk logo")
+![osu!talk logo](Osu!talk.jpg "osu!talk logo")
 
 -   Offizieller Youtube Kanel: [https://www.youtube.com/user/osuacademy/videos](https://www.youtube.com/user/osuacademy/videos)
 -   Offizieller Thread: [https://osu.ppy.sh/forum/t/225111](https://osu.ppy.sh/forum/t/225111)
