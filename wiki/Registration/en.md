@@ -1,43 +1,39 @@
 How do I register?
 ------------------
 
-<center>
-**<font size="3">Please note that having more than one account at any time is an infringement of <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules osu! rules\]</span>. Follow the below steps to set up your osu! account.**
-</font>
-<span style="font-size:18px">1. On the <span class="plainlinks"> [main webpage](https://osu.ppy.sh)</span>, click "<b>I'm new!</b>" to start the registration process. </span>
 
-<span style="font-size:18px">2. Fill out all fields in the form below and press "Continue" </span>
+**Please note that having more than one account at any time is an infringement of the [osu! rules](/wiki/Rules/). Follow the below steps to set up your osu! account.**
 
-| <b>Legend</b>                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Username**                                                                                                                                       |
-| a. Maximum of 15 characters                                                                                                                           |
-| b. Alphanumeric characters ("a-z, A-Z, 0-9"), underscores ("\_"), squared brackets, ("\[" and "\]") and dashes ("-") are the only characters allowed. |
-| **2. E-mail Address**                                                                                                                                 |
-| **3. Password**                                                                                                                                       |
-| **4. Note**                                                                                                                                           |
-| **5. Continue button**                                                                                                                                |
+1. On the [main webpage](https://osu.ppy.sh), click ``I'm new!`` to start the registration process.
+![Register-3.png](Register-1.png)
+2. Fill out all fields in the form below and press ``Continue``  
+![Login.png](Register-2.png)
+    1. Username          
+        1. Maximum of 15 characters                                                                                                                    
+        2. Alphanumeric characters (``a-z``, ``A-Z``, ``0-9``), underscores (``_``), squared brackets, (``[`` and ``]``) and dashes (``-``) are the only characters allowed.
+     2. E-mail Address                                                                                                                                                     
+     3. Password                                                                                                                                                            
+     4. Note                                                                                                                                                               
+     5. Continue button                                                                                                                                                    
+3. Log in to osu! and the process is finished. You have successfully registered an osu! account!
 
-<span style="font-size:18px">3. Log in to osu! and the process is finished. You have successfully registered an osu! account! </span>
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
+| Name            | Image                           | Description                                                                                                                                                                                                                                                                                              |
+|:---------------:|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| osu! executable | ![Register.png](Register-3.png) | This executable (which should be named osu!.exe) will open the game itself. If updates are required, they will be applied automatically. _Note: You do not need to open osu! as an administrator. If the game requires it, it will prompt for it itself._                                                |
+| Options panel   | ![Login.png](Login.png)         | If this is your first time starting osu!, you will see this on the left side of your game's screen. Enter your username and password to their respective fields and log in.                                                                                                                              |
+| User panel      | ![Userpanel.png](Userpanel.png) | Once you have entered your username and password correctly, you will see your user panel at the top left of your screen. You are now logged into osu! and ready to play! You will also see your user panel on the bottom of your song selection screen, to the right of your ``Selection Options`` button. |
 
-| Legend                 |
-|------------------------|
-| **1. osu! executable** |
-| **2. Options panel**   |
-| **3. User panel**      |
 
-</center>
 What's next?
 ------------
 
-You're ready to start your rhythm adventure, so proceed to the [welcome](welcome "wikilink") page and start playing! Don't forget to read the [rules](rules "wikilink") very carefully!
+You are ready to start your rhythm adventure, so proceed to the [welcome](/wiki/Welcome/) page and start playing! Do not forget to read the [rules](/wiki/Rules/) very carefully!
 
-If you need in-game assistance, ask the \#help channel on IRC or post your problem to the forums.
+If you need in-game assistance, ask the #help channel on IRC or post your problem to the forums.
 
-To join \#help, press F8 and type "/join \#help". You can also click the ![](Channelopenbutton.png "fig:Channelopenbutton.png") yellow button on the right of your open channels, scroll down to "\#help", and click it to join the channel.
+To join ``#help``, press F8 and type ``/join #help``. You can also click the ![Channelopenbutton](Channelopenbutton.png) yellow button on the right of your open channels, scroll down to ``#help``, and click it to join the channel.
 
-When in doubt, always remember that rhythm is just a click away!
+When in doubt, always remember that:
+> rhythm is just a click away!
