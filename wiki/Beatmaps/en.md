@@ -76,7 +76,7 @@ A rough estimation of how many hard disk space (and your connection quota) you w
 Questions
 =========
 
-How to get beatmaps on osu! ?
+How to get beatmaps on osu!?
 -----------------------------
 
 **<u>For players without osu!supporter tags</u>**
