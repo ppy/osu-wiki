@@ -1,6 +1,6 @@
 # BanchoBot
 
-![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
 BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by that can assists people in chat by displaying certain information and announcing game-related messages.
 BanchoBot is your host for the [osu!chat server](/wiki/Internet_Relay_Chat) and has a profile named _[BanchoBot](https://osu.ppy.sh/u/3)_.
