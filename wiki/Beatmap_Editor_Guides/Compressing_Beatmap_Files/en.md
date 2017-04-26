@@ -46,9 +46,9 @@ There are 2 major image formats which make up most of the images you find online
 
 There are four important things to check: Optimize, Progressive, subsampling, and quality. Optimize is just a way to compress the `.jpg` without losing quality and should always be checked. Progressive is a method to make jpgs "fade in" when downloaded from the internet. It has a side effect of making the image smaller so long as the image is over 20 KB. Subsampling is a way to improve quality or compression. No subsampling (1x1) will make text and lines much clearer at the cost of space. 2x2 subsampling does very well for photographs which do not have distinct lines (like text). Quality is the easiest way to keep the image looking good. I use 95, since the gains after 95 aren't really worthwhile.
 
-Pngs are actually much simpler to compress, but GIMP does not do it very well. [Optipng](http://optipng.sourceforge.net/) and [PNGout](http://advsys.net/ken/utils.htm) are two of the best tools to compress `.png` files. Optipng can find the optimum settings for the `.png`, and pngout re-compresses the image using `.kzip`. Often times just using pngout will reduce the image size by 20%.
+PNGs are actually much simpler to compress, but GIMP does not do it very well. [OptiPNG](http://optipng.sourceforge.net/) and [PNGOUT](http://advsys.net/ken/utils.htm) are two of the best tools to compress `.png` files. OptiPNG can find the optimum settings for the `.png`, and PNGOUT re-compresses the image using `.kzip`. Often times just using PNGOUT will reduce the image size by 20%.
 
-![Compressing Images with PNGout](CBF_03.png "Compressing Images with PNGout")
+![Compressing Images with PNGOUT](CBF_03.png "Compressing Images with PNGOUT")
 
 For even better compression, you can use a script which combines multiple compressors and brute forces close to the smallest file possible. The script's name is [pngslim](http://people.bath.ac.uk/ea2aced/tech/png/pngslim.zip).
 
@@ -57,6 +57,6 @@ For even better compression, you can use a script which combines multiple compre
 Results
 -------
 
-So there you have it.
+Here we have results of compressing.
 
 ![Compression Results](CBF_05.png "Compression Results")

@@ -38,7 +38,7 @@ Ich habe hier einen Screenshot vorbereitet um mal die Grundelemente des Mania Ed
 
 **8. Sample Set:** Das Sample Set ermöglicht es uns noch mehr Hitsounds zu benutzen als in Punkt 5 gezeigt. Stellen wir das Sample Set auf "Drum" und fügen dann einen Finish hinzu, klingt es ganz anders als "Normal" Finish. Genauer gehe ich im Part "Hitsounds" darauf ein.
 
-![](Mania_Editor.jpg "Mania Editor.jpg")
+![Mania Editor](Mania_Editor.jpg "Mania Editor")
 
 Soviel zum Editor. Ich hoffe ihr konntet mit meinem schönen Screen ein wenig mehr überblick gewinnen. Je mehr ihr Mappt umso vertrauter macht ihr euch damit!
 
@@ -59,7 +59,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### General
 
-![](Song_Setup.png)
+![Song Setup](Song_Setup.png "Song Setup")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -73,7 +73,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Difficulty
 
-![](Difficulty.png)
+![Difficulty tab](Difficulty.png "Difficulty tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -84,7 +84,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Design
 
-![](Design.png)
+![Design tab](Design.png "Design tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -95,7 +95,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Advanced
 
-![](Advanced.png)
+![Advanced tab](Advanced.png "Advanced tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -123,7 +123,7 @@ Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benu
 
 #### Timing Setup Panel
 
-![](/wiki/Beatmap_Editor/Timing/TimingSetup.png)
+![Timing Setup](/wiki/Beatmap_Editor/Timing/TimingSetup.png "Timing Setup")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -374,7 +374,7 @@ Dieses Menü muss bei Full Keysound Maps verwendet werden damit man eine Map nic
 
 Wollt ihr eine Note mit einem Keysound belegen wählt diese mit einem ALT + Links klick an. Nun öffnet sich das Sample Menü. Wählt nun den Keysound aus, den ihr auf der Note haben wollt und klickt dann auf "Apply". Schon hat die Note den Keysound, den ihr ihr zugewiesen habt. Durch einen Doppelklick auf die Note hört ihr den Keysound. Alternativ könnt ihr auch einfach die Melodie laufen lassen.
 
-![](Sample_Import.png)
+![Sample Import](Sample_Import.png "Sample Import")
 
 Im Grunde könnte man damit ein komplett eigenen Song erstellen ohne eine mp3 verwenden zu müssen! (Dann aber nicht für Rank!)
 

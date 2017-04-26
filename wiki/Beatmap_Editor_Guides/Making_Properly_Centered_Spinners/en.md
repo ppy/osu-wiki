@@ -8,9 +8,9 @@ This guide is probably hard to understand for people with little experience with
 How to make symmetrical spinners
 --------------------------------
 
-I'm tired of seeing wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
+It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
 
-First open up your image editor, I use [GIMP](http://www.gimp.org/), since it's free.
+First open up your image editor, in this guide [GIMP](http://www.gimp.org/) will be used, since it's free.
 
 Make a new document. The template skin is 666x666, and while it's safe to go over that limit, **spinners can cause lots of lag on slow computers, so it's best to make it under that limit**. Make the document 664x664, so that when we are done, we can pad the edges with transparency, which lets osu! know that it can anti-alias the border, rather than make it a straight edge.
 
@@ -60,7 +60,7 @@ Now you should have a perfect spinner which doesn't wobble when you spin it.
 
 ![Tutorial Image 8](MPCS_08.png "Tutorial Image 8")
 
-I won't tell you how to make the edges pretty, or give it depth, that's something entirely different. I chose a very simple image and process. If you want to do that, there are guides everywhere, or you probably already know how to do that. However it seems that symmetry has escaped most of the people who make skins.
+In this guide there won't be information how to make the edges pretty, or give it depth, that's something entirely different. I chose a very simple image and process. If you want to do that, there are guides everywhere, or you probably already know how to do that. However it seems that symmetry has escaped most of the people who make skins.
 
 How to make spinner backgrounds which match the beatmap background
 ------------------------------------------------------------------
@@ -97,7 +97,7 @@ To add some more detail, you can turn down the opacity on the black image.
 
 ### The fully spun spinner background and meter
 
-Then you can see how it looks filled in by turning on the old layer. Note it has a little bit of an outline. If you want to change the size of that outline, you can use the select -> grow or shrink tool before you copy/paste to make the spinner meter.
+Then you can see how it looks filled in by turning on the old layer. Note it has a little bit of an outline. If you want to change the size of that outline, you can use the `Select` -> `Grow` or `Shrink` tool before you copy/paste to make the spinner meter.
 
 ![Tutorial Image 14](MPCS_14.png "Tutorial Image 14")
 

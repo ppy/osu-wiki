@@ -32,4 +32,4 @@ Hard Method (keep local changes):
 
 If you have any duplicated maps, please contact a BAT for resolution.
 
-**Do not submit if the editor "web" menu is disabled. Else, your map will be duplicated.**
+**Do not submit if the editor "web" menu is disabled. Otherwise, your map will be duplicated.**

@@ -32,7 +32,7 @@ Removing audio
 Encoding Video
 --------------
 
-6) Make sure that Video and Audio are on "Copy".
+6) Make sure that both the video and audio are on "Copy".
 
 ![Tutorial Image 4](CV_04.png "Tutorial Image 4")
 
