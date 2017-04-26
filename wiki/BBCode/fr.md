@@ -1,3 +1,5 @@
+# BBCode (Français)
+
 ![La boîte d'édition du forum](Usual bbcode box.png "La boîte d'édition du forum")
 
 **BBCode** est une syntaxe spéciale utilisée dans les forums d'osu! et, plus généralement, la grande majorité des forums sur Internet, pour enrichir le contenu des messages. Elle est constituée de balises qui englobent le texte à modifier et, occasionnellement, d'attributs.

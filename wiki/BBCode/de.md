@@ -1,3 +1,5 @@
+# BBCode (Deutsch)
+
 ![Der übliche Texteditierungsbereich im Forum](Usual bbcode box.png "Der übliche Texteditierungsbereich im Forum")
 
 **BBCode** ist ein spezieller Syntax, der im osu! Forum zum Einsatz kommt und zum großen Ausmaß im weiten Internet, vor allem in Foren, zur Texteditierung benutzt wird. Durch spezielle Tags ist es möglich dem Text mit gewissen Eigenschaften zu bereichern.

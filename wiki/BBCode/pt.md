@@ -1,3 +1,5 @@
+# BBCode (Português)
+
 ![The usual edit box in the forums](Usual bbcode box.png "The usual edit box in the forums")
 
 **BBCode** é uma syntax especial usada em forums do osu! e na maioria dos foruns na Internet para permitir a formatação rich text. Ela é composta de tags que cercam o texto para enriquece-lo e, às vezes, atributos.

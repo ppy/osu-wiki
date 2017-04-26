@@ -1,3 +1,5 @@
+# BBCode (Bahasa Indonesia)
+
 ![Kotak sunting yang biasa digunakan di forum](Usual bbcode box.png "Kotak sunting yang biasa digunakan di forum")
 
 **BBCode** adalah sintaks khusus yang digunakan pada forum osu! dan juga sebagian besar forum di Internet untuk melakukan perintah-perintah tertentu yang berhubungan dengan pemformatan teks. BBCode di sini terdiri dari tag yang mengelilingi teks yang akan diformat sesuai keperluan.

@@ -1,3 +1,5 @@
+# BBCode (Polski)
+
 ![Pole edycji na forum](Usual bbcode box.png "Pole edycji na forum")
 
 **BBCode** to specjalna składnia używana na forum osu, i w znacznej większości forów w internecie do formatowania tekstu. Jest zrobiona ze znaczników, które umieszczamy w tekście oraz atrybutów które do nich dodajemy, w celu urozmaicenia naszego tekstu.

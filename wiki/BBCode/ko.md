@@ -1,3 +1,5 @@
+# BBCode (한국어)
+
 ![포럼에서의 에디트 박스](Usual bbcode box.png "포럼에서의 에디트 박스")
 
 **BBCode**는 오스 포럼 외에도 여러 범위에서 사용되는 문법입니다. It is made up of tags that surround the text to enrich and, sometimes, attributes.
