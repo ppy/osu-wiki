@@ -598,6 +598,8 @@ If you need help making a complicated table, try to see if you can improvise a s
 
 **Never** place images inside tables.
 
+**Never** place lists inside tables.
+
 It is up to you whether or not if you want to beautify the tables.
 They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess.
 Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
@@ -608,6 +610,10 @@ Some tools for beautifying tables are:
   - this will require you to use [VS Code](https://code.visualstudio.com/)
 - [Markdown Table Formatter](http://markdowntable.com/)
   - alignment syntax (`:`) will not parse correctly
+
+Another tool that can help you visualize a Markdown table could be:
+
+- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 ## Date Formatting
 
