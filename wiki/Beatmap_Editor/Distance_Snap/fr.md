@@ -1,7 +1,7 @@
 Espacement des notes
 =====================
 
-![Un exemple de ce que l'espacement des battements donne.](Beatspacing.jpg "Un exemple de ce que l'espacement des battements donne.")
+![Un exemple de ce que l'espacement des battements donne.](img/Beatspacing.jpg "Un exemple de ce que l'espacement des battements donne.")
 
 Le moyen le plus simple de s'assurer que le placement d'un battement sur l'une de vos beatmaps est correcte est d'utiliser la fonction d'alignement des distances, qui se trouve en haut à droite de l'éditeur. La distance relative entre les notes peut être ajusté avec la molette de la souris. Cella permet de s'assurer que les battements collent au mieux avec les notes programmées et vice-versa. Cela aide à un jeu intuitif et avec un battement bien espacé. Si vous utilisé l'alignement des distances pour tout une musique, un placement correct des battements est garanti !
 
