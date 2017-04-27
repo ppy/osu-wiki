@@ -1,7 +1,7 @@
 Éditeur de Beatmap
 ====================
 
-![Le mode Compose](Compose/Compose.png "Le mode Compose")
+![Le mode Compose](Compose/img/compose.jpg "Le mode Compose")
 
  **L'éditeur de beatmap** est l'interface graphique d'osu! pour créer des [beatmaps](/wiki/Beatmaps). Il est divisé en 4 modes :
 

@@ -1,7 +1,7 @@
 Edytor Beatmap
 ==============
 
-![Tryb kompozycji osu! w trybie okienkowym](Compose/Compose.png "Tryb kompozycji osu! w trybie okienkowym")
+![Tryb kompozycji osu! w trybie okienkowym](Compose/img/compose.jpg "Tryb kompozycji osu! w trybie okienkowym")
 
 **Edytor beatmap** to miejsce w osu! w którym tworzy się [mapy](/wiki/Beatmaps). Jest podzielony na cztery sekcje:
 
