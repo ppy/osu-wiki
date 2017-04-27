@@ -43,7 +43,7 @@ This will help emphasize words or an entire paragraph in a heavier way than [ita
   - Use this tag sparingly.
   - Overuse of this will create discomfort for the reader's eyes.
 - Syntax:
-```
+```prolog
 [b] ... [/b]
 ```
 
@@ -56,7 +56,7 @@ This will help emphasize words or an entire paragraph in a lighter way than [bol
   - Use this tag sparingly.
   - Overuse of this will weaken the emphasize overall.
 - Syntax:
-```
+```prolog
 [i] ... [/i]
 ```
 
@@ -70,7 +70,7 @@ This will help emphasize the importance of a word(s) or an entire paragraph.
   - Overuse of this will create discomfort for the reader's eyes.
   - Overuse of this will weaken the emphasize overall.
 - Syntax:
-```
+```prolog
 [u] ... [/u]
 ```
 
@@ -85,7 +85,7 @@ This will cross out an incorrect word(s) or an entire paragraph.
   - Use this tag sparingly.
   - Overuse of this will create discomfort for the reader's eyes.
 - Syntax:
-```
+```prolog
 [strike] ... [/strike]
 ```
 
@@ -108,7 +108,7 @@ This will give colour words or an entire paragraph.
   - Where `HEXCODE` is a colour in hexadecimal or colour name.
     - If using hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
     - If using colour name, it must be a vaild html colour.
-```
+```prolog
 [color=HEXCODE] ... [/color]
 ```
 
@@ -131,7 +131,7 @@ This will make the text smaller or larger.
   - The `NUMBER` argument does not need quotation marks.
 - Syntax:
   - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
-```
+```prolog
 [size=NUMBER] ... [/size]
 ```
 
@@ -147,7 +147,7 @@ The reader, however, can still read the text by highlighting over the text.
 - Notes:
   - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
 - Syntax:
-```
+```prolog
 [spoiler] ... [/spoiler]
 ```
 
@@ -162,7 +162,7 @@ The reader, however, can still read the paragraph by clicking on the spoilerbox 
 - Notes:
   - This will create a [Box](#box) with the heading text of `collapsed text`.
 - Syntax:
-```
+```prolog
 [spoilerbox]
 ...
 [/spoilerbox]
@@ -185,7 +185,7 @@ These are commonly used to hide large images or a large amount of images.
   - The `NAME` argument can contain spaces.
 - Syntax:
   - Where `NAME` is a name for the box.
-```
+```prolog
 [box=NAME]
 ...
 [/box]
@@ -203,7 +203,7 @@ This will add a quote.
     - If you did this, the post (when you click `Post`) will be posted in the current thread.
 - Syntax:
   - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
-```
+```prolog
 [quote=NAME]
 ...
 [/quote]
@@ -219,7 +219,7 @@ This is useful when you are posting code for a storyboard or source code from a 
   - This will preserve white spacing, this means that none of the lines will break unless you break it.
   - Overflowing text lines will enable a horizontal scroll box.
 - Syntax:
-```
+```prolog
 [code]
 ...
 [/code]
@@ -234,7 +234,7 @@ This is best used for things such as the title or a heading.
 - Notes:
   - The tags **must** be spelt as `centre` not `center` (note the last two letters).
 - Syntax:
-```
+```prolog
 [centre]
 ...
 [/centre]
@@ -253,7 +253,7 @@ The osu!forums will automatically link pasted URLs inside the post.
 - Syntax:
   - Where `LINK` is the url.
   - Where `TEXT` is the link text.
-```
+```prolog
 [url=LINK]TEXT[/url]
 ```
 
@@ -273,7 +273,7 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   - The `USER` argument has to be defined.
 - Syntax:
   - Where `USER` is the name of the user.
-```
+```prolog
 [profile]USER[/profile]
 ```
 
@@ -286,7 +286,7 @@ This will add a link to a Google Search query using the provided text.
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-```
+```prolog
 [google]...[/google]
 ```
 
@@ -299,7 +299,7 @@ This will add a direct link to a page using Google's *I'm Feeling Lucky* button 
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-```
+```prolog
 [lucky]...[/lucky]
 ```
 
@@ -328,7 +328,7 @@ Where the bullets are placed inside the wrapper.
 - Syntax:
   - Where `TYPE` is one of the listed types above.
   - If `TYPE` is not defined, bullets will be used instead.
-```
+```prolog
 [list=TYPE]
 [*]...
 [/list]
@@ -350,7 +350,7 @@ Such applications could be: [imgur](https://imgur.com/) or [puush](https://puush
   - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
   - Where `LINK` is a direct link to an image.
-```
+```prolog
 [img]LINK[/img]
 ```
 
@@ -364,7 +364,7 @@ This embeds a YouTube video in your post.
 - Syntax:
   - Where `YT-ID` is the YouTube video ID (11 characters long), **not** the whole url!
     - The YouTube video ID is located after the `?v=` url parameter.
-```
+```prolog
 [youtube]YT-ID[/youtube]
 ```
 
@@ -377,7 +377,7 @@ This is usually used to denote a new section in yor post.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-```
+```prolog
 [heading]...[/heading]
 ```
 
@@ -392,7 +392,7 @@ This is usually used to denote a new section in yor post.
   - This only appears after postingm not in preview.
   - You must type the syntax yourself.
 - Syntax:
-```
+```prolog
 [...]
 ```
 
@@ -404,7 +404,7 @@ This places the paragraph inside a white box.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-```
+```prolog
 [notice]
 ...
 [/notice]
