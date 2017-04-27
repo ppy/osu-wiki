@@ -443,14 +443,32 @@ This can be done by entering this to the Git's CLI:
 cd ~/osu-wiki
 git commit -am "<commit message>"
 ```
+or
+
+```prolog
+cd ~/osu-wiki
+git add <changed_file_path_with_the_actual_file>
+git commit -m "<commit message>"
+```
+
+#### The First Command set
 
 - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
 - The second command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
 - The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
-  - Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
-  - Also, write the commit message in **English**.
-  - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
+  
+#### The Second Command set
+
+ - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
+ - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+ 
+ ** A few things to note: **
+
+- Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
+- Also, write the commit message in **English**.
+- If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
+  
 
 _Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default or your predefined text-editor instead to write your summary.
 If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._

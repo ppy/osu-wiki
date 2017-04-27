@@ -1,6 +1,6 @@
-Thanks for taking the time for making the wiki better!
+thanks for contributing to the osu!wiki.
 
-Check out the following resources to help you get started:
+To help you get started on the right track, check out the following resources to help you get started:
 
 - [The Article Style Guide](https://new.ppy.sh/wiki/Article_Style_Guide) for the styling standards in wiki.
 
