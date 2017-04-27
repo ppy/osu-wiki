@@ -441,27 +441,27 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "<commit message>"
+git commit -am "<commit message>" -m "<long description>"
 ```
 or alternatively:
 
 ```prolog
 cd ~/osu-wiki
 git add <changed_file_path_with_the_actual_file>
-git commit -m "<commit message>"
+git commit -m "<short title>" -m "<long description>"
 ```
-
 #### The first command set
+
+ - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
+ - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+
+#### The second command set
 
 - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
 - The second command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
 - The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
   
-#### The second command set
-
- - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
- - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
  
  **A few things to note:**
 
