@@ -1,7 +1,7 @@
 Beatmap Editor (Deutsch)
 =========================
 
-![Kompositionseditor im Fenstermodus](Compose/img/compose.jpg "Kompositionseditor im Fenstermodus")
+![Kompositionseditor im Fenstermodus](Compose/img/Compose.jpg "Kompositionseditor im Fenstermodus")
 
 Der **Beatmap Editor** ist osu!s grafisches Ingame-Interface zum Erstellen von [Beatmaps](/wiki/Beatmaps). Es ist in vier Bereichen aufgeteilt:
 

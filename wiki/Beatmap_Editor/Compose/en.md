@@ -1,9 +1,9 @@
 Compose
 ==========
 
-![Compose editor for osu! in Windowed mode](img/compose.jpg "Compose editor for osu! in Windowed mode")
+![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 
-![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/composeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
+![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
 
 **Compose** is the place where a [mapper](/wiki/Glossary) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
 

@@ -1,9 +1,9 @@
 Compose (中文)
 ==============
 
-![视窗模式下的 osu! 编辑器 Compose 画面](img/compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")
+![视窗模式下的 osu! 编辑器 Compose 画面](img/Compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")
 
-![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](img/composeMania.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
+![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](img/ComposeMania.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
 
 **Compose（作曲）** 是一个在[作图者于](/wiki/Glossary) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
 
