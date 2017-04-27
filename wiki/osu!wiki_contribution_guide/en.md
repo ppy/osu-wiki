@@ -451,14 +451,14 @@ git add <changed_file_path_with_the_actual_file>
 git commit -m "<commit message>"
 ```
 
-#### The First Command set
+#### The first command set
 
 - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
 - The second command will **stage everything**, including untracked and changed files.
   - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
 - The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
   
-#### The Second Command set
+#### The second command set
 
  - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
  - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
