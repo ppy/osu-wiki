@@ -441,8 +441,7 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 cd ~/osu-wiki
-git add .
-git commit -m "<short title>" -m "<long description>"
+git commit -am "<commit message>"
 ```
 
 - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
@@ -787,8 +786,7 @@ Like so:
 
 ```prolog
 cd ~/osu-wiki
-git add .
-git commit -m "Solved merge conflicts"
+git commit -am "Solved merge conflicts"
 git push origin <branchname>
 ```
 
