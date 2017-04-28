@@ -914,7 +914,7 @@ All linking must be done manually, and must be done using strict static linking 
 
 A few things to take note when linking:
 
-- **Any typos in the link** will cause an **Error 404 (content not found; link to nowhere because of nonexistent file)**.
+- **Any typos in the link** will cause an **Error 404 [content not found; link to nowhere because of nonexistent file]**.
 - **No section anchors**.
 - **No redirects**.
   - It is a known issue since it requires specific configuration from osu!web part and no formulated syntax support to redirect ``DT`` keyword to ``Game_Modifier#-double-time`` section of the page rather than to the top of the ``Game_Modifiers`` page, for now.
