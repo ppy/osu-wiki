@@ -1,31 +1,30 @@
 # BBCode
 
-![The edit box in the forums](img/fourms.jpg "The edit box in the forums")
+![The edit box in the forums](img/forums.jpg "The edit box in the forums")
 
 **BBCode** is a markup syntax that is used in the osu!forums and, to a larger extent, the vast majority of forums on the internet to enable rich text formatting.
 It is made up of tags that surround the text to enrich and, sometimes, attributes.
 
-In the osu!website, BBCode is used in forum posts, signatures and userpages.
-This article is a listing of the available tags.
+In osu!web, BBCode is used in forum posts, signatures and userpages.
 
 ## Notes
 
-Know that the osu!fourms gives you a few format buttons that you could use; however, you could just type them in yourself.
+While the post editor provides a few basic formatting tools, it is possible to manually write the BBCode.
 
 BBCode tags are case insensitive.
 
 ### BBCode Button Behavior
 
-If you highlight the text that you want to format then click on one of them, e.g. bold, italics, strikethrough, or underline, it will add said format code to the highlighted text automatically.
+Without any text highlighted, clicking the button will surround the tags around the text cursor placement in the post editor.
 
-If you click the button without highlighting text, it will surround the tags around your text cursor.
+With text highlighted in the post editor, clicking the button will surround the tags around the highlighted text.
 
 ### Combining tags
 
-You can combine tags to create an even richer formatting.
+Tags can be combined for fancier/richer formatting.
 
-When combining tags, you **must** respect the order/nesting of the tags.
-Failing to follow this may break your entire forum post, signature, or userpage.
+The order/nesting of the tags **must** be respected when combining the tags.
+Failure to adhere to the order/nesting may break the post formatting.
 
 For example (pay attention to the order of the code):
 
@@ -36,12 +35,12 @@ For example (pay attention to the order of the code):
 
 ### Bold
 
-This will help emphasize words or an entire paragraph in a heavier way than [italics](#italic).
+**Emphasize** words or an entire paragraph in a **heavier way** than [italics](#italic).
 
 - Dedicated button: ![Bold button](img/bold.jpg "Bold button")
 - Notes:
-  - Use this tag sparingly.
-  - Overuse of this will create discomfort for the reader's eyes.
+  - Use sparingly.
+    Overuse may create discomfort and making the post harder to read.
 - Syntax:
 ```prolog
 [b] ... [/b]
@@ -49,12 +48,12 @@ This will help emphasize words or an entire paragraph in a heavier way than [ita
 
 ### Italic
 
-This will help emphasize words or an entire paragraph in a lighter way than [bold](#bold).
+**Emphasize** words or an entire paragraph in a _lighter way_ than [bold](#bold).
 
 - Dedicated button: ![Italic button](img/italic.jpg "Italic button")
 - Notes:
-  - Use this tag sparingly.
-  - Overuse of this will weaken the emphasize overall.
+  - Use sparingly.
+    Overuse will weaken the effectiveness of the emphasize.
 - Syntax:
 ```prolog
 [i] ... [/i]
@@ -62,13 +61,12 @@ This will help emphasize words or an entire paragraph in a lighter way than [bol
 
 ### Underline
 
-This will help emphasize the importance of a word(s) or an entire paragraph.
+**Draws a horizontal line underneath** the word(s) or an entire paragraph.
 
 - Dedicated button: ![Underline button](img/underline.jpg "Underline button")
 - Notes:
-  - Use this tag sparingly.
-  - Overuse of this will create discomfort for the reader's eyes.
-  - Overuse of this will weaken the emphasize overall.
+  - Use sparingly.
+    Overuse may create discomfort and making the post harder to read.
 - Syntax:
 ```prolog
 [u] ... [/u]
@@ -78,12 +76,12 @@ This will help emphasize the importance of a word(s) or an entire paragraph.
 
 _Also known as **strikethrough**._
 
-This will cross out an incorrect word(s) or an entire paragraph.
+**Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
 
 - Dedicated button: ![Strike button](img/strike.jpg "Strike button")
 - Notes:
-  - Use this tag sparingly.
-  - Overuse of this will create discomfort for the reader's eyes.
+  - Use sparingly.
+    Overuse may create discomfort and making the post harder to read.
 - Syntax:
 ```prolog
 [strike] ... [/strike]
@@ -98,16 +96,16 @@ This will give colour words or an entire paragraph.
 - Dedicated buttons:
 ![The colour box](img/colour.jpg "The colour box")
 - Notes:
-  - This is located on the right side of the text box.
+  - The colour box is located on the right side of the text box.
   - Use this tag sparingly.
-  - Overuse of this will create discomfort for the reader's eyes.
-  - Misuse of this will make your text illegible.
-  - If you choose a colour, make sure it is legible so that anyone can read it.
-  - The `HEXCODE` argument does not need quotation marks.
+    Overuse of this will create discomfort for the reader's eyes.
+    Misuse of this will make your text illegible.
+  - If you choose a colour, make sure it is is contrast to the backgrounf so that anyone can read it.
+  - The `HEXCODE` argument should not use quotation marks.
 - Syntax:
   - Where `HEXCODE` is a colour in hexadecimal or colour name.
-    - If using hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
-    - If using colour name, it must be a vaild html colour.
+    - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
+    - For colour name, it must be a vaild html colour.
 ```prolog
 [color=HEXCODE] ... [/color]
 ```
@@ -128,7 +126,7 @@ This will make the text smaller or larger.
     - `100` (normal; default)
     - `150` (large)
   - If you enter a value that is not one of the listed above, it will use the default font size.
-  - The `NUMBER` argument does not need quotation marks.
+  - The `NUMBER` argument should not use quotation marks.
 - Syntax:
   - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
 ```prolog
@@ -181,7 +179,7 @@ These are commonly used to hide large images or a large amount of images.
 - Notes:
   - By default, this will create a box with the no heading text.
     - If you do leave the `NAME` argument blank (or do not include one), the height of the box will be very small!
-  - The `NAME` argument does not need quotation marks.
+  - The `NAME` argument should not use quotation marks.
   - The `NAME` argument can contain spaces.
 - Syntax:
   - Where `NAME` is a name for the box.
@@ -193,7 +191,7 @@ These are commonly used to hide large images or a large amount of images.
 
 ### Quote
 
-This will add a quote.
+Quote formatting for the given word/paragraph.
 
 - Dedicated button: ![Quote button](img/quote.jpg "Quote button")
 - Notes:
@@ -227,8 +225,7 @@ This is useful when you are posting code for a storyboard or source code from a 
 
 ### Centre
 
-This will centre a paragraph.
-This is best used for things such as the title or a heading.
+Centre align a paragraph; this is typically used for titles or headings.
 
 - Dedicated button: ![Centre button](img/centre.jpg "Centre button")
 - Notes:
@@ -242,14 +239,14 @@ This is best used for things such as the title or a heading.
 
 ### URL
 
-This will add a URL.
+Adds a link.
 
 You do not need to use this tag if you do not want to use link text.
 The osu!forums will automatically link pasted URLs inside the post.
 
 - Dedicated button: ![URL button](img/url.jpg "URL button")
 - Notes:
-  - The `LINK` argument does not need quotation marks.
+  - The `LINK` argument should not use quotation marks.
 - Syntax:
   - Where `LINK` is the url.
   - Where `TEXT` is the link text.
@@ -261,7 +258,7 @@ The osu!forums will automatically link pasted URLs inside the post.
 
 This will link to a user profile using the user's name.
 
-Usage of this button is **heavily discouraged**!!
+Usage of this button is **heavily discouraged**!
 The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter).
 And once they do, the link will fail.
 
@@ -336,14 +333,18 @@ Where the bullets are placed inside the wrapper.
 
 ### Image
 
-This will add images to your post.
-The images can be sourced from anywhere, just as long as the image exists from the given url.
+**Show an image from an online image source**.
 
-It is a nooby mistake to try to link your images directly from your PC.
-Please understand, but using `C:\Users\Alice\Pictures\got-to-see-this.jpg` will **not** work!
-Instead, you must upload it to the internet using a third party application.
+The images can be sourced from anywhere, as long as the image exists from the given url.
 
-Such applications could be: [imgur](https://imgur.com/) or [puush](https://puush.me/).
+**Do not link the image directly from a local filepath**
+Using `C:\Users\Name\Pictures\image.jpg` will **not** work!
+
+Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush").
+Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags.
+
+Also note, some websites don't appreciate direct links to their images (otherwise known as _hotlinks_).
+Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
 - Dedicated button: ![Image button](img/image.jpg "Image button")
 - Notes:
@@ -388,7 +389,7 @@ This is usually used to denote a new section in yor post.
 
 - Dedicated button: _none_
 - Notes:
-  - This only works in the beatmaps fourm!
+  - This only works in the beatmaps forum!
   - This only appears after postingm not in preview.
   - You must type the syntax yourself.
 - Syntax:
@@ -412,6 +413,9 @@ This places the paragraph inside a white box.
 
 ## Trivia
 
-- There is a colour bug on in the current osu!website, if you use the colour `transparent`, it will make the text transparent.
+- Original forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599) by [Stefan](https://osu.ppy.sh/u/626907)
+
+### History
+
+- There is a colour bug on in the current osu!web forums, if you use the colour `transparent`, it will make the text transparent.
   - This bug was however, resolved in the new design.
-- Original fourm post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599) by [Stefan](https://osu.ppy.sh/u/626907)
