@@ -1,14 +1,14 @@
 Getting Your Map Modded (Bahasa Indonesia)
 =============================================
 
-Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](ID:Ranked_beatmap "wikilink"), map tersebut harus mendapat [mod](ID:Modding "wikilink"). Ada beberapa cara untuk mencapai hal ini.
+Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmaps), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.
 
 \#modreqs
 ---------
 
-**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](ID:Mod "wikilink")) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](ID:Beatmap_Appreciation_Team "wikilink") mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
+**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/Beatmap_Nomination_Group) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
 
-[Bancho](ID:Glossary#Bancho "wikilink") mencatat 20 permintaan mod terbaru dan dapat memberitahu modder untuk mendapatkan mereka di beberapa cara, yaitu :
+[Bancho](/wiki/Glossary) mencatat 20 permintaan mod terbaru dan dapat memberitahu modder untuk mendapatkan mereka di beberapa cara, yaitu :
 
 -   Menulis perintah !request di chat akan membuat BanchoBot memPM anda dengan salah satu link map secara acak.
 -   Menulis perintah !request list di chat akan membuat BanchoBot memPM anda dengan data lima link beatmap yang paling baru dengan link ke map itu secara lengkap di website.
@@ -31,7 +31,7 @@ mod4mod, atau biasa disingkat M4M, adalah di mana kamu mengemod map orang lain, 
 Langsung Tanya ke Pemain Lain
 -----------------------------
 
-Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](ID:Kudosu "wikilink") yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](ID:Beatmap_Appreciation_Team "wikilink") juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
+Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Glossary) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/Beatmap_Nomination_Group) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
 
 -   Jika di signature atau userpage seseorang terdapat "Aku tidak menerima request", jangan meminta mereka apabila mereka bukan temanmu.
 -   Mulailah dengan percakapan yang biasa, dan secara normal masukkan permintaan requestnya saat keadaan sudah cair, atau percakapannya sedang seru. Ini lebih efektif daripada bertanya secara langsung atau frontal.

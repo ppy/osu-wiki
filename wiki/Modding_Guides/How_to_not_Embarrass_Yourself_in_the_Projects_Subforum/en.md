@@ -1,7 +1,7 @@
 How to not Embarrass Yourself in the Projects Subforum
 =======================================================
 
-So osu!forums has this subforum as many know as **[Beatmap Projects](https://osu.ppy.sh/forum/53)**. It might seem intimidating at first but here are the tips and tricks on [How to not Embarrass Yourself in the Projects Subforum](How_to_not_Embarrass_Yourself_in_the_Projects_Subforum "wikilink").
+So osu!forums has this subforum as many know as **[Beatmap Projects](https://osu.ppy.sh/forum/53)**. It might seem intimidating at first but here are the tips and tricks on **How to not Embarrass Yourself in the Projects Subforum**.
 
 Do not request songs
 --------------------

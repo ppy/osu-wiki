@@ -23,4 +23,4 @@ Step 3: Bubbles(버블)
 참고
 ----
 
--   [Ranking Criteria/랭킹 크리테리아](KO:Ranking_Criteria "wikilink")
+-   [Ranking Criteria/랭킹 크리테리아](/wiki/Ranking_Criteria)
