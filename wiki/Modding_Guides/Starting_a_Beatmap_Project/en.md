@@ -10,18 +10,18 @@ Making an informative thread title
 
 *Yes, your thread's title will determine if other osu! users will "yay" or "nay" your Beatmap Project, even before they click on it!*
 
-This should consist "\[Discography\] / \[Album\] / \[Collab\]" before the title. Chances are high that your project will be ignored or moved to [AW](/wiki/Glossary) if the thread's title lacks on informations.
+This should consist `[Discography]` / `[Album]` / `[Collab]` before the title. Chances are high that your project will be ignored or moved to [AW](/wiki/Glossary) if the thread's title lacks on informations.
 
-**<u>Examples:</u>**
+**Examples:**
 
 How to do:
 
--   `[Album]` `Pandora` `Voxx` `-complete-`
--   `[Discography]` `Deemo`
+-   `[Album] Pandora Voxx -complete-`
+-   `[Discography] Deemo`
 
 How **not** to do:
 
--   `starting` `a` `new` `project,` `need` `your` `help` `with` `this` `album`
+-   `starting a new project, need your help with this album`
 
 ### Which one do I use?
 
