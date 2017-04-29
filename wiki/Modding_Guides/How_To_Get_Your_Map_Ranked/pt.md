@@ -1,3 +1,6 @@
+Como Ranquear seu Beatmap
+============================
+
 Tendo problemas para ter seu [beatmap](PT:Glossary#Beatmap "wikilink") qualificado? Então você veio ao lugar certo.
 
 Passo 1: Modding

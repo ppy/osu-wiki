@@ -1,3 +1,6 @@
+Bagaimana agar Beatmapmu Dirank
+===============================
+
 Di sini, kamu akan diarahkan bagaimana cara agar mapmu bisa dirank.
 
 Langkah Pertama: Modding

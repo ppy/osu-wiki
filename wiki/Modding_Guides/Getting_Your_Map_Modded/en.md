@@ -1,4 +1,7 @@
-In order for your map to become [ranked](ranked_beatmap "wikilink"), it must get [modded](modding "wikilink"). There are multiple ways to accomplish this task.
+Getting Your Map Modded
+===========================
+
+n order for your map to become [ranked](ranked_beatmap "wikilink"), it must get [modded](modding "wikilink"). There are multiple ways to accomplish this task.
 
 \#modreqs
 ---------

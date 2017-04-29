@@ -1,3 +1,6 @@
+Comment faire ranker votre map
+=================================
+
 Vous avez du mal à faire ranker votre [map](Glossary#Beatmap "wikilink") ? Vous vous trouvez au bon endroit !
 
 Étape 1 : le modding

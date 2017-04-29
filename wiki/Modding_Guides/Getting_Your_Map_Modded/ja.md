@@ -1,3 +1,6 @@
+Getting Your Map Modded (日本語)
+================================
+
 あなたの譜面が[Rankedになるために](JP:Beatmapping "wikilink")、[Modを手に入れる必要があります](JP:Modding "wikilink")。 ここにはそれをするいくつかの手段があります。
 
 \#modreqs

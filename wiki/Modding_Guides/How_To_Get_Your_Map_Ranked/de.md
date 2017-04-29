@@ -1,3 +1,6 @@
+Wie kriege ich meine Map geranked?
+=====================================
+
 Haben Sie auch Probleme Ihre Beatmap zu ranken? Dann sind Sie hier genau richtig.
 
 Schritt 1: Modding

@@ -1,3 +1,6 @@
+Getting Your Map Modded (Bahasa Indonesia)
+=============================================
+
 Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](ID:Ranked_beatmap "wikilink"), map tersebut harus mendapat [mod](ID:Modding "wikilink"). Ada beberapa cara untuk mencapai hal ini.
 
 \#modreqs

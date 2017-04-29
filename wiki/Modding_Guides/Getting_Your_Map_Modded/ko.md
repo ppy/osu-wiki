@@ -1,3 +1,6 @@
+Getting Your Map Modded (한국어)
+================================
+
 당신의 비트맵이 [랭크가](KO:Ranked_beatmap "wikilink") 되기 위해 [모딩를](KO:Modding "wikilink") 받을 필요가 있습니다. 아래는 Mod를 받을수 있는 몇가지 방법들 입니다.
 
 \#modreqs (\#모드리퀘)

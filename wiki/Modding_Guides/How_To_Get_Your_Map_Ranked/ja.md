@@ -1,3 +1,6 @@
+Rankedへの道のり
+=================
+
 トラブルがあって[譜面がrankedされない](JP:Glossary#Beatmap "wikilink")?だったらあなたは正しいところに来てます。
 
 Step 1: Modding

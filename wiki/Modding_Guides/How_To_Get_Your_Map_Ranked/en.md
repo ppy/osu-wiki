@@ -1,3 +1,6 @@
+How to Get Your Map Ranked
+===========================
+
 Having trouble getting your [map](Glossary#Beatmap "wikilink") ranked? You've come to the right place.
 
 Step 1: Modding
