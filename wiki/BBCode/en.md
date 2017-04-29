@@ -91,7 +91,7 @@ _Also known as **strikethrough**._
 
 _BBCode calls this "Color"._
 
-This will give colour words or an entire paragraph.
+**Adds colour** to some text.
 
 - Dedicated buttons:
 ![The colour box](img/colour.jpg "The colour box")
@@ -114,7 +114,7 @@ For a list of colour names, see [X11 color names](https://en.wikipedia.org/wiki/
 
 ### Font Size
 
-This will make the text smaller or larger.
+Relatively adjusts the text size.
 
 - Dedicated buttons:
 ![Font size options](img/font-size.jpg "Font size options")
@@ -137,7 +137,8 @@ This will make the text smaller or larger.
 
 _Not to be confused with [Spoilerbox](#spoilerbox)._
 
-This will hide text with a black background.
+**Covers text** with a black background.
+
 This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others.
 The reader, however, can still read the text by highlighting over the text.
 
@@ -153,7 +154,7 @@ The reader, however, can still read the text by highlighting over the text.
 
 _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 
-This will hide a paragraph from the reader's view.
+**Hides a paragraph** inside an prenamed box from the reader's view.
 The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
 
 - Dedicated button: ![Spoilerbox button](img/spoilerbox.jpg "Spoilerbox button")
@@ -170,7 +171,7 @@ The reader, however, can still read the paragraph by clicking on the spoilerbox 
 
 _Not to be confused with [Spoilerbox](#spoilerbox)._
 
-This will hide a paragraph from the reader's view.
+**Hides a paragraph** inside a nameable box from the reader's view.
 The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
 These are commonly used to hide large images or a large amount of images.
@@ -209,7 +210,7 @@ Quote formatting for the given word/paragraph.
 
 ### Code
 
-This will add format text with a monospaced font-family and place it inside a gray box.
+Format text with a monospaced font-family and place it inside a gray box.
 This is useful when you are posting code for a storyboard or source code from a project.
 
 - Dedicated button: ![Code button](img/code.jpg "Code button")
@@ -256,7 +257,7 @@ The osu!forums will automatically link pasted URLs inside the post.
 
 ### Profile
 
-This will link to a user profile using the user's name.
+Links a user profile using the user's name.
 
 Usage of this button is **heavily discouraged**!
 The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter).
@@ -276,7 +277,7 @@ It is recommended to use [URL](#url) instead (using the user's id number).
 
 ### Google
 
-This will add a link to a Google Search query using the provided text.
+Automatically links to a Google Search query using the provided text.
 
 - Dedicated button: ![Google button](img/google.jpg "Google button")
 - Notes:
@@ -289,7 +290,7 @@ This will add a link to a Google Search query using the provided text.
 
 ### Lucky
 
-This will add a direct link to a page using Google's *I'm Feeling Lucky* button using the provided text.
+**Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
 
 - Dedicated button: ![Lucky button](img/lucky.jpg "Lucky button")
 - Notes:
@@ -302,7 +303,7 @@ This will add a direct link to a page using Google's *I'm Feeling Lucky* button 
 
 ### List
 
-This will format the text intro a list.
+Formats the text into a list.
 
 In BBCode, there are two parts for making the list: the wrapper and the bullets.
 Where the bullets are placed inside the wrapper.
@@ -357,7 +358,7 @@ Image sharing sites, like the ones listed above, are most likely okay with direc
 
 ### Youtube
 
-This embeds a YouTube video in your post.
+Embeds a YouTube video in your post.
 
 - Dedicated button: ![Image button](img/youtube.jpg "Image button")
 - Notes:
@@ -371,7 +372,7 @@ This embeds a YouTube video in your post.
 
 ### Heading (v1)
 
-This adds a big fancy pink heading.
+Adds a big fancy pink heading.
 This is usually used to denote a new section in yor post.
 
 - Dedicated button: _none_
@@ -384,7 +385,7 @@ This is usually used to denote a new section in yor post.
 
 ### Heading (v2)
 
-This adds a big fancy purple heading with a horizontal line.
+Adds a big fancy purple heading with a horizontal line.
 This is usually used to denote a new section in yor post.
 
 - Dedicated button: _none_
@@ -399,7 +400,7 @@ This is usually used to denote a new section in yor post.
 
 ### Notice
 
-This places the paragraph inside a white box.
+Places the paragraph inside a white box.
 
 - Dedicated button: _none_
 - Notes:
