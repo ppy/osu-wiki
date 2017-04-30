@@ -17,14 +17,14 @@ Er ist ihr Host für den osu! Chat Server.
 
 #### Standardbefehle (!COMMAND oder /bb COMMAND)
 
-| Befehl                    | Effekt                                                                                                            | Beispiel                          | BanchoBots Rückmeldung                                                  |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|
-| WHERE (Benutzer)          | Zeigt das Land an, in dem der Spieler ist                                                                         | !where John                       | John is in USA                                                          |
-| STATS (Benutzer)          | Zeigt den Status des Spielers an (basierend auf den Panel des Spielers)                                           | !stats John                       | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
-| FAQ (L.code)(item) (list) | Verschiedene Verwendung. [list] Liste mit allen benutzbaren Befehlen                                              | !faq wiki / !faq ru:wiki          | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
-| REPORT (Grund)            | Ruf einen Moderator                                                                                               | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help.                 |
-| REQUEST (list)            | Zeigt zufällig eines der vorherigen Mod-Anfragen an. [list] Zeigt 5 zufällige, vorherig getätigte Mod-Anfragen an | !request                          | Seether - Fake It by [Dellirium]                                        |
-| ROLL (Zahl)               | Rollt einen (virtuellen) Würfel und gibt einen zufälligen Wert zwischen 1 und {Zahl} (Standardmäßig 100)          | !roll 9000                        | John rolls 1337 point(s)                                                |
+| Befehl | Effekt | Beispiel | BanchoBots Rückmeldung |
+| ------ | ------ | -------- | ---------------------- |
+| WHERE (Benutzer) | Zeigt das Land an, in dem der Spieler ist | !where John | John is in USA |
+| STATS (Benutzer) | Zeigt den Status des Spielers an (basierend auf den Panel des Spielers) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
+| FAQ (L.code)(item) (list) | Verschiedene Verwendung. [list] Liste mit allen benutzbaren Befehlen | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (Grund) | Ruf einen Moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Zeigt zufällig eines der vorherigen Mod-Anfragen an. [list] Zeigt 5 zufällige, vorherig getätigte Mod-Anfragen an | !request | Seether - Fake It by [Dellirium] |
+| ROLL (Zahl) | Rollt einen (virtuellen) Würfel und gibt einen zufälligen Wert zwischen 1 und {Zahl} (Standardmäßig 100) | !roll 9000 | John rolls 1337 point(s) |
 
 ## Trivialitäten
 

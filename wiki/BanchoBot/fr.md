@@ -22,11 +22,11 @@ Apparence et tâches
 
 #### Commandes standard (à placer devant un ! ou /bb)
 
-| Commande                  | Effet                                                                                                     | Exemple                           | Réponse de BanchoBot                                                    |
-|---------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|
-| WHERE (pseudo)            | Montre l'emplacement géographique d'un joueur                                                             | !where John                       | John is in USA                                                          |
-| STATS (pseudo)            | Montre les statistiques d'un joueur (selon son étiquette)                                                 | !stats John                       | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
-| FAQ (L.code)(item) (list) | Usages variés. [list] Liste des paramètres utilisables                                                    | !faq wiki / !faq ru:wiki          | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
-| REPORT (reason)           | Appelle un modérateur.                                                                                    | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help.                 |
-| REQUEST (list)            | Affiche une récente requête pour modding au hasard. [list] Affiche les 5 dernières requêtes pour modding. | !request                          | Seether - Fake It by [Dellirium]                                        |
-| ROLL (nombre)             | Ecrit un chiffre au hasard compris entre 1 et le nombre tapé (100 par défaut)                             | !roll 9000                        | John rolls 1337 point(s)                                                |
+| Commande | Effet | Exemple | Réponse de BanchoBot |
+| -------- | ----- | ------- |- ------------------- |
+| WHERE (pseudo) | Montre l'emplacement géographique d'un joueur | !where John | John is in USA |
+| STATS (pseudo) | Montre les statistiques d'un joueur (selon son étiquette) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
+| FAQ (L.code)(item) (list) | Usages variés. [list] Liste des paramètres utilisables | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (reason) | Appelle un modérateur. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Affiche une récente requête pour modding au hasard. [list] Affiche les 5 dernières requêtes pour modding. | !request | Seether - Fake It by [Dellirium]                                        |
+| ROLL (nombre) | Ecrit un chiffre au hasard compris entre 1 et le nombre tapé (100 par défaut) | !roll 9000 | John rolls 1337 point(s) |

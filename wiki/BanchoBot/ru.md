@@ -17,14 +17,14 @@
 
 #### Стандартные команды (!команда или /bb команда)
 
-| Команда                   | Что делает                                                                                                                   | Пример команды                    | Ответ от бота                                                           |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|
-| WHERE (user)              | Показывает страну введённого пользователя.                                                                                   | !where John                       | John is in USA                                                          |
-| STATS (user)              | Показывает статистику игрока (в зависимости от последней его игры)                                                           | !stats John                       | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
-| FAQ (L.code)(item) (list) | Показывает текст в приват. При использовании команды модератором, текст показывается всему каналу. [list] Список всех статей | !faq wiki / !faq ru:wiki          | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
-| REPORT (reason)           | Отправить сообщение модераторам. Писать по-английски.                                                                        | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help.                 |
-| REQUEST (list)            | Показывает случайную карту из #modreqs. [list] При использовании команды [list], показывает 5 карт.                          | !request                          | Seether - Fake It by [Dellirium]                                        |
-| ROLL (number)             | Случайное число от 0 до number (по умолчанию 100).                                                                           | !roll 9000                        | John rolls 1337 point(s)                                                |
+| Команда | Что делает | Пример команды | Ответ от бота |
+| ------- | ---------- | -------------- | ------------- |
+| WHERE (user) | Показывает страну введённого пользователя. | !where John | John is in USA |
+| STATS (user) | Показывает статистику игрока (в зависимости от последней его игры) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
+| FAQ (L.code)(item) (list) | Показывает текст в приват. При использовании команды модератором, текст показывается всему каналу. [list] Список всех статей | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
+| REPORT (reason) | Отправить сообщение модераторам. Писать по-английски. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
+| REQUEST (list) | Показывает случайную карту из #modreqs. [list] При использовании команды [list], показывает 5 карт. | !request | Seether - Fake It by [Dellirium] |
+| ROLL (number) | Случайное число от 0 до number (по умолчанию 100). | !roll 9000 | John rolls 1337 point(s) |
 
 Примечания:
 
