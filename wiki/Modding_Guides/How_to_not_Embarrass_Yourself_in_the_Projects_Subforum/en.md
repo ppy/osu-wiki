@@ -6,7 +6,7 @@ So osu!forums has this subforum as many know as **[Beatmap Projects](https://osu
 Do not request songs
 --------------------
 
-[*Important: Do __not__ post Beatmap song requests here* by: LuigiHann](https://osu.ppy.sh/forum/t/23976/)
+[*IMPORTANT: DO NOT POST BEATMAP SONGS REQUESTS HERE* by: LuigiHann](https://osu.ppy.sh/forum/t/23976/)
 
 This forum is here for fun, community-driven collaborative projects built around albums or artists. If you look at most of the threads in here, you should get a sense of how it works.
 

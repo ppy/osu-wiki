@@ -12,7 +12,7 @@
 
 -   输入 !request 命令，BanchoBot 会随机发一个谱面链接给你。
 -   输入 !request list 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
--   访问 [special map listing](http://osu.ppy.sh/p/beatmaplist&r=8) ，将会将最后发布的20个谱面显示在这里。
+-   访问 [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) ，将会将最后发布的20个谱面显示在这里。
 
 如果你在短时间内连续发布三个以上的图，将会被 bancho 忽略掉。
 
@@ -42,7 +42,7 @@ Modding Queues 版块
 
 ### Pending吧
 
-传送门：http://tieba.baidu.com/f?kw=pending
+传送门：https://tieba.baidu.com/f?kw=pending
 
 虽然这个吧水贴会多一点，不过也有不少国内的 mapper 和 modder 都在那里逛。语言障碍基本没有，不妨在里面发个贴试一下。（效果介于 \#modreq 发 /np 跟在别人的 queue 发 mod 请求之间。）
 
