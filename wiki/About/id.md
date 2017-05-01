@@ -1,6 +1,6 @@
 Tentang
 =======
 
-osu!wiki adalah sebuah komunitas yang dibuat untuk membantu pengguna osu! memahami game dengan cara yang efisien.
+osu!wiki adalah sebuah proyek yang dibuat dan ditulis untuk membantu pengguna osu! memahami permainan dengan cara yang lebih efektif.
 
-osu! adalah hakcipta Dean Herbert (peppy).
+osu! adalah hak cipta Dean Herbert (peppy).
