@@ -176,21 +176,21 @@ Kontes beatmapping bulanan
 | [Monthly Beatmapping Contest #1 - Results!](//osu.ppy.sh/news/64561724273)                                                                                               | [osu! Monthly Beatmapping Contest #1](//osu.ppy.sh/news/60440803370)           |
 
 
-### Mapping with Rewards
+### Mapping  berhadiah
 
-Mapping with Rewards are announced on [peppy's blog](http://blog.ppy.sh/). Unlike the [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— which runs a contest for <u>any</u> song(s)— mapping with rewards runs a beatmapping contest with <u>official osu!songs</u> from osu!artists, like cYsmix.
+Mapping berhadiah di umumkan di  [peppy's blog](http://blog.ppy.sh/). Tidak seperti [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)— yang menggunakan lagu <u>any</u>. — Mapping berhadiah adalah kontes mapping yang menggunakan <u>lagu osu!songs</u> dari osu!artist, seperti cYsmix.
 
-Some remarks about mapping with rewards (and some differences with [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)):
+Beberapa ucapan tentang mapping berhadiah (dan beberapa perbedaan [#Monthly Beatmapping Contest](#Monthly_Beatmapping_Contest)):
 
--   submissions are subject to last minute judgement
-    -   peppy is the judge
+- pengajuan tunduk pada penjurian menit terakhir
+     - peppy adalah juri
 
--   no set deadline
--   ranked beatmaps of the requested songs may also subject for judgement
--   no mode specific maps (you can map any mode)
--   must be non-collab
--   single game mode (no TAG diffs)
--   preselected background images (current, if any, background images will be replaced)
+- tidak ada batas waktu yang ditetapkan
+- beatmaps peringkat dari lagu yang diminta mungkin juga tunduk untuk penilaian
+- tidak ada mode spesifik peta (Anda dapat memetakan mode apapun)
+- harus non-collab
+- mode permainan tunggal (tidak ada TAG diffs)
+- gambar latar belakang yang dipilih sebelumnya (gambar latar belakang saat ini, jika ada, akan diganti)
 
 | Pengumuman                                                                                           | Hasil                                                                       |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
