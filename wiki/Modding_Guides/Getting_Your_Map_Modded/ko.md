@@ -10,8 +10,8 @@ Getting Your Map Modded (한국어)
 
 20개의 최신리퀘스트를 표시하는 것으로, 몇가지의 방법으로 [Bancho/반초](/wiki/Glossary) 의 표시가 가능합니다:
 
--   "!request"커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 랜덤으로 비트맵의 링크를 받을 수 있습니다.
--   "!request list"커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 5개의 최신비트맵의 링크를 받을 수 있습니다.
+-   `!request`커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 랜덤으로 비트맵의 링크를 받을 수 있습니다.
+-   `!request list`커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 5개의 최신비트맵의 링크를 받을 수 있습니다.
 -   [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8)을 열어, 20개의 최신 리퀘스트와 몇개의 특별한 리퀘스트를 받을 수 있습니다.
 
 단기간에 두개 이상의 비트맵을 리퀘스트할 경우, Bancho봇은 그것을 무시합니다.

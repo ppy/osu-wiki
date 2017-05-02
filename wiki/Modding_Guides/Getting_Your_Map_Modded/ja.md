@@ -10,8 +10,8 @@ Getting Your Map Modded (日本語)
 
 [Bancho](/wiki/Glossary) 最新の20のリクエストを表示し、いくつかの方法でそれらを表示することが出来ます:
 
--   !request コマンドをチャットで打ち、BanchoBotからPMでランダムに譜面のリンクを貰う。
--   !request list をコマンドをチャットで打ち、BanchoBotからPMで最新の5つの譜面のリンクを貰う。
+-   `!request` コマンドをチャットで打ち、BanchoBotからPMでランダムに譜面のリンクを貰う。
+-   `!request list` をコマンドをチャットで打ち、BanchoBotからPMで最新の5つの譜面のリンクを貰う。
 -   [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8)を開き、20の最新のリクエストといくつかの特殊なリクエストを貰う。
 
 短期間に2つ以上の譜面をリクエストするとBanchoBotはそれを無視します。

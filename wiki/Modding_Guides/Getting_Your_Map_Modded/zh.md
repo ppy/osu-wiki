@@ -10,8 +10,8 @@
 
 [Bancho](/wiki/Glossary) 会截取在该频道中最后发布的 20 个谱面，以便 modder 找图进行 mod：
 
--   输入 !request 命令，BanchoBot 会随机发一个谱面链接给你。
--   输入 !request list 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
+-   输入 `!request` 命令，BanchoBot 会随机发一个谱面链接给你。
+-   输入 `!request list` 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
 -   访问 [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) ，将会将最后发布的20个谱面显示在这里。
 
 如果你在短时间内连续发布三个以上的图，将会被 bancho 忽略掉。

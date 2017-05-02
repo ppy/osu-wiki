@@ -8,8 +8,8 @@ Um deine Map ranked zu bekommen ist es erst nötig andere Spieler dazu zu bringe
 
 **\#modreqs** ist ein Channel im osu! chat wo Spieler andere um Hilfe bitten können sich ihre Map anzuschauen durch nutzen des /np Befehls. Andere Mapper/Modder und sogar Mitglieder der [Beatmap Nominator Gruppe](/wiki/People/Beatmap_Nomination_Group) halten dort oft ausschau nach guten Maps um diese zu Modden. Bancho zeichnet Automatisch die zuletzt 20 geposteten Maps auf und erlaubt anderen Spielern sie auf folgenden wegen zu finden:
 
--   Durch eingabe des !request befehls in den Chat wird Bancho dir eine zufällige Map posten.
--   Durch Eingabe des !request list Befehls in den Chat wird Bancho dir eine liste der zuletzt 5 geposteten Maps schicken plus einen Link zu mehr.
+-   Durch eingabe des `!request` befehls in den Chat wird Bancho dir eine zufällige Map posten.
+-   Durch Eingabe des `!request list` Befehls in den Chat wird Bancho dir eine liste der zuletzt 5 geposteten Maps schicken plus einen Link zu mehr.
 -   Durch besuchen von der [Mod Requests](https://osu.ppy.sh/p/beatmaplist&r=8) Map liste. Dort werden die 20 zuletzt geposteten Maps aufgelistet.
 
 Solltest du mehr als zwei Maps in kurzer zeit posten wird Bancho diese Ignorieren.
