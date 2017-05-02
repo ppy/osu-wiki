@@ -41,8 +41,9 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 
 ## Links
 
-- [Discussion thread](https://new.ppy.sh/forum/t/555072)
+- [Discussion thread](https://osu.ppy.sh/forum/t/589552)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Registrations](https://new.ppy.sh/tournaments/10)
 
 ------------------------------------------------------------------------
 
