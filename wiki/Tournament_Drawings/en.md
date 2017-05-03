@@ -6,7 +6,7 @@ Please note that the osu!lazer client is currently under development and there m
 
 ## Accessing the client
 
-Open osu!lazer and press `Ctrl + O` to reveal the game settings. From there, click "Open osu! folder". Go ahead and create the following two files in this directory:  
+Open osu!lazer and press `Ctrl + O` to reveal the game settings. From there, click "Open osu! folder". Create the following two files in this directory:  
 `drawings.ini`  
 `drawings.txt`  
 Next, add the following line to the `drawings.txt` file:  
@@ -26,18 +26,18 @@ There are 4 buttons in the control panel, let's go over them:
 - **Begin random**
   - This will start the randomization process, causing the flags on the screen to scroll.
 - **Stop random**
-  - This will stop the randomization process, causing the scrolling to slow down until it eventually stops on a flag in the middle of the screen.
+  - This will stop the randomization process, causing the scrolling to slow down until eventually stopping an centering on a flag in the middle of the screen.
 - **Reload**
   - This will reload the `drawings.txt` file.
 - **Reset**
   - This button should rarely, if ever be used. It is destructive and will reset all your progress.
 
 Press the `Begin random` and the `Stop random` buttons. When the scrolling stops on a flag at the centre of the screen, go back to the osu! folder and notice that there is now an additional file created: `drawings_results.txt`.  
-Open the file and observe the format - this is what you'll be using to extract the results of this process into your workflow (Google Spreasheets, etc).
+Open the file and observe the format - this is what you'll be using to extract the results of this process for use in Google Spreadsheets or your management tool of choice.
 
 ### The `drawings.ini` file
 
-As you might have noticed, a tournament may not have as many as 8 groups, and likewise a tournament may not have 8 teams per group. The `drawings.ini` file is a configuration file that allows you to adjust these two properties.
+As you might have noticed, a tournament may not have as many as 8 groups, and likewise a tournament may not have 8 teams per group. The `drawings.ini` file is a configuration file that allows you to adjust such properties.
 A valid configuration file looks like:
 ```
 Groups = 4
@@ -45,10 +45,11 @@ TeamsPerGroup = 4
 ```
 
 The following are properties which are configurable through this file:
+
 | Property | Description | Valid Values | Default Value |
 | -------- | ----------- | ------------ | ------------- |
 | Groups | The number of groups to sort teams into. | Between 1 and 8 (inclusive) | 8 |
-| TeamsPerGroup | The maximum number of teams in any group. | Betweem 1 and 8 (inclusive) | 8 |
+| TeamsPerGroup | The maximum number of teams in any one group. | Between 1 and 8 (inclusive) | 8 |
 
 ### The `drawings.txt` file
 
@@ -73,9 +74,11 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-You can define you own flags. Go back to the osu! folder where you created the files previously, create the folder `Drawings`, and inside it create the folder `Flags` such that you end up with the folder hierarchy `osu/Drawings/Flags/`.  
+You can define you own flags. To do so, go back to the osu! folder where you created the files previously, create the folder `Drawings`, and inside it create the folder `Flags` such that you end up with the folder hierarchy `osu/Drawings/Flags/`.  
 You can place your custom flag image files inside the Flags folder. For example if you place `my-flag-file.png` inside the Flags folder, you can then add the following line to the `drawings.txt` file:  
 `my-flag-file : My Team : MT`
+
+The optimal resolution for flag images is 70x47 pixels (or the same aspect ratio).
 
 ## Questions?
 
