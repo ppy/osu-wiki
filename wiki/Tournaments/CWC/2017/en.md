@@ -9,7 +9,7 @@ The **osu!catch World Cup 2017** (**_CWC 2017_**) is a country-based osu!catch t
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 2-14 May 2017 |
+| Registration Phase | 03-14 May 2017 |
 | Drawings | 28 May 2017 (14:00 UTC+0) |
 | Group Stage | 03-04 Jun 2017 |
 | Round of 16 | 10-11 Jun 2017 |
