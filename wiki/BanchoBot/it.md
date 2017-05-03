@@ -1,6 +1,6 @@
 # BanchoBot (Italiano)
 
-![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
 L'host del [server della chat di osu!](/wiki/Internet_Relay_Chat).
 
@@ -30,4 +30,4 @@ Apparenza e funzioni
 Curiosità
 ---------
 
--   [Anonymous](http://osu.ppy.sh/u/1) è l'utente 1, [peppy](http://osu.ppy.sh/u/2) è l'utente 2, [BanchoBot](http://osu.ppy.sh/u/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.
+-   [Anonymous](https://osu.ppy.sh/u/1) è l'utente 1, [peppy](https://osu.ppy.sh/u/2) è l'utente 2, [BanchoBot](https://osu.ppy.sh/u/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.

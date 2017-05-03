@@ -1,7 +1,7 @@
 Distance Snap (한국어)
 ======================
 
-![An example of what exactly beat spacing does.](Beatspacing.jpg "An example of what exactly beat spacing does.")
+![An example of what exactly beat spacing does.](img/Beatspacing.jpg "An example of what exactly beat spacing does.")
 
 노트간의 간격을 일정하게 유지 할 수 있는 가장 좋은 방법은 에디터의 Distance Snap 기능을 사용하면됩니다, 에디터의 오른쪽 메뉴에서 확인가능합니다. 마우스 휠을 사용하여 노트간 일정거리의 계산이 가능합니다. 사용하는 동안 노트가 타임 라인에서 서로 가까우면 배치도 가까워지고 마찬가지로 반대의 경우도있습니다. 곡 전체에 Distance Snap을 계속 사용하면 노트간의 일정한 간격이 유지됩니다.
 

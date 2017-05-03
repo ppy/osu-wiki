@@ -1,7 +1,7 @@
 Slider (Português)
 ===================
 
-![Um exemplo de dois sliders usados de uma forma agradável.](Sliderjump01.png "Um exemplo de dois sliders usados de uma forma agradável.")
+![Um exemplo de dois sliders usados de uma forma agradável.](Sliderjump01.jpg "Um exemplo de dois sliders usados de uma forma agradável.")
 
 Um slider é um [Hit Object](/wiki/Hit_Objects) usado frequentemente no osu!.
 
@@ -20,7 +20,7 @@ Quando estiver satisfeito com seu slider, simplesmente de um clique com o botão
 
 Você é livre para mover/adicionar/remover um ponto de controle depois que o slider estiver pronto. Você pode remover pontos de controle apertando o botão direito sobre eles depois de selecionar o slider, ou também pode adicionar um ponto de controle ao pressionar control e clicando em alguma parte das linhas do slider (clique duplo ou control+clique em um slider fazem um ponto vermelho). Adicionar slider repeats é simples, apenas clique e segure no final do slider na timeline mova para direita ou esquerda para criar/remover slider repeats.
 
-Guia para criação de sliders: [Guia para Belos Sliders](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=37194)
+Guia para criação de sliders: [Guia para Belos Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
 
 Inserindo hitsounds em sliders
 ------------------------------
@@ -32,6 +32,6 @@ Slider Speed
 
 Uma **slider speed** define quanto tempo um slider demora para atravessar determinada distancia--ou o quão longe o slider chega em determinado tempo.
 
-A Slider speed é medida em *centenas de [osupixels](/wiki/Glossary) por batida,* sendo assim, um slider com velocidade de 1.00 vai percorrer 100 osupixels (100 pixels em resolução 640x480) em um uma batida completa. Isso significa que sliders com uma configuração particular de velocidade vão se mover mais rápido quando o BPM for maior.
+A Slider speed é medida em *centenas de [osupixels](/wiki/Glossary/#osupixels) por batida,* sendo assim, um slider com velocidade de 1.00 vai percorrer 100 osupixels (100 pixels em resolução 640x480) em um uma batida completa. Isso significa que sliders com uma configuração particular de velocidade vão se mover mais rápido quando o BPM for maior.
 
 Slider speed pode ser definida na aba Timing pela janela principal do editor. você também pode definir um multiplicador para esse valor de velocidade ao adicionar uma inherited [timing section](/wiki/Beatmap_Editor/Timing).

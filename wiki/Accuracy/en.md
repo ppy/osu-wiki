@@ -93,9 +93,10 @@ Ranking shows the grade, an overview of the hits, as well as the actual accuracy
 
 For more details, see [Score][Score wikilink].
 
-![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel") ![osu!CtB Ranking Panel](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania Ranking Panel](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
-
-[Larger osu! Ranking Panel](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel") | [Larger osu!Taiko Ranking Panel](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel") | [Larger osu!CtB Ranking Panel](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel") | [Larger osu!Mania Ranking Panel](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
+![osu! Ranking Panel](img/standard.jpg "osu! Ranking Panel")
+![osu!Taiko Ranking Panel](img/taiko.jpg "osu!Taiko Ranking Panel")
+![osu!CtB Ranking Panel](img/catch.jpg "osu!CtB Ranking Panel")
+![osu!Mania Ranking Panel](img/mania.jpg "osu!Mania Ranking Panel")
 
 ### Performance Graph
 
@@ -103,7 +104,7 @@ A graph of the performance over the course of a play.
 
 Additional information is shown when hovering the in-game cursor over it:
 
-![Performance Graph](Accuracy_TR.jpg "Performance Graph")
+![Performance Graph](img/tr.jpg "Performance Graph")
 
 #### Accuracy
 

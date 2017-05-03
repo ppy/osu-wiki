@@ -1,7 +1,7 @@
 Timing
 ==========
 
-![Timing menu](Timing_base.jpg "Timing menu")
+![Timing menu](img/Timing_base.jpg "Timing menu")
 
  The timing for a [beatmap](/wiki/Beatmaps) consists of the song's offset and beats per minute (BPM). The song's BPM is essentially how fast the song is. The offset is the amount of time between the start of an mp3 and the first downbeat in the song.
 
@@ -30,7 +30,7 @@ Again after the button is pressed enough, BPM sensitivity will change from 0,1 a
 Timing Setup
 ------------
 
-![The Timing Setup dialog showing a map with a fluctuating BPM and sampleset changes.](TimingSetup.png "The Timing Setup dialog showing a map with a fluctuating BPM and sampleset changes.")
+![The Timing Setup dialog showing a map with a fluctuating BPM and sampleset changes.](img/TimingSetup.jpg "The Timing Setup dialog showing a map with a fluctuating BPM and sampleset changes.")
 
 Timing sections allow you to vary the timing across the song. There are two types of timing sections, a regular timing section and an inherited timing section.
 

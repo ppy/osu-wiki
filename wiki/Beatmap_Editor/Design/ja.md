@@ -1,7 +1,7 @@
 デザイン
 =========
 
-![Design tab](SE_base.jpg "Design tab")
+![Design tab](img/SE_base.jpg "Design tab")
 
 **ストーリーボードエディタ** は[エディタ内にある機能で](/wiki/Beatmap_Editor)、Designタブに存在していて、簡単な[ストーリーボード](/wiki/Storyboards)(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](/wiki/Storyboard_Scripting)。
 
@@ -59,7 +59,7 @@
 
 ### 右上 (読み込み)
 
-![Readings](SE_R.jpg "Readings")
+![Readings](img/SE_R.jpg "Readings")
 
  **ロード状態**と** 背景画像/動画の切り替え**について表示されています。
 
@@ -69,7 +69,7 @@
 
 #### レイヤー切り替え
 
-![Layer Toggles](SE_LT_B.jpg "Layer Toggles")
+![Layer Toggles](img/SE_LT_B.jpg "Layer Toggles")
 
 これはレイヤーの**表示の有効化/無効化** を決定する項目です。もしあなたがPassingのシーン(常にeditorでfailよりも上に表示される)を見たくない場合、"Passing" を無効化することで、failのシーンを楽しむことができます。これは異なったオブジェクトへのコマンドを見たくても、何かのオブジェクトが邪魔で見れない場合などに場合に便利です。
 
@@ -95,7 +95,7 @@
 4.  使用するエフェクトの強弱を設定します(左クリックをしながら上下に移動)。
 5.  これらを繰り返します。
 
-![Transformations buttons](SE_TRANS.jpg "Transformations buttons")
+![Transformations buttons](img/SE_TRANS.jpg "Transformations buttons")
 
 ##### エフェクト追加 (タイムフレームに依存)
 
@@ -116,7 +116,7 @@
 
 ##### エクストラコマンド
 
-![Extra commands](SE_AO.jpg "Extra commands")
+![Extra commands](img/SE_AO.jpg "Extra commands")
 
 | コマンド | 使用法 |
 | ------- | ------ |
@@ -137,13 +137,13 @@
 
 ### 中央右 (オブジェクト)
 
-![List of SB objects used in the beatmap in different conditional layers](SE_OBJ.jpg "List of SB objects used in the beatmap in different conditional layers")
+![List of SB objects used in the beatmap in different conditional layers](img/SE_OBJ.jpg "List of SB objects used in the beatmap in different conditional layers")
 
 **各レイヤーにあるSBのオブジェクトのリストです。** SB用オブジェクトを追加するには"Sprite Library"をクリックしてください。そして入れたい画像をレイヤーにドラッグアンドドロップしてください。画像は入れられた直後には"Foreground"にデフォルトで割り当てられます。オブジェクトの画像名の上でクリックすると、それがあるタイムラインに移動させられます。もし使用している画像に重複があってもオリジナルの画像と同じものが使用されます。`Delete` or Edit -> Deleteでトップメニューから削除できます。
 
 #### Sprite Library
 
-![素材として使用されている画像の視覚情報化.](SE_SL.jpg "素材として使用されている画像の視覚情報化.")
+![素材として使用されている画像の視覚情報化.](img/SE_SL.jpg "素材として使用されている画像の視覚情報化.")
 
 "Browse..."をクリックすることで、使用するための画像をサーチします。Sprite Libraryでサムネイルをクリックすることで、その画像を表示部に複製することができます。
 
@@ -164,4 +164,4 @@
 -------
 
 -   [m980's basic explanation](https://osu.ppy.sh/forum/p/67660)
--   [Kite's Basic Manual Storyboarding Guide](http://osu.ppy.sh/forum/t/46111)
+-   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/forum/t/46111)
