@@ -170,11 +170,11 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
-  - When playing a map from the HardRock pool, Hidden can be used optionally by any player.
+  - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 
-8. The tiebreaker will be played under NoMod conditions.
-9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in all stages.
+7. The tiebreaker will be played under NoMod conditions.
+8. The size of the NoMod bracket will be 6 in all stages.
+9. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in all stages.
 
 ### Scheduling Instructions
 
