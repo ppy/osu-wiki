@@ -26,7 +26,7 @@ There are 4 buttons in the control panel, let's go over them:
 - **Begin random**
   - This will start the randomization process, causing the flags on the screen to scroll.
 - **Stop random**
-  - This will stop the randomization process, causing the scrolling to slow down until eventually stopping an centering on a flag in the middle of the screen.
+  - This will stop the randomization process, causing the scrolling to slow down until eventually stopping and centering on a flag in the middle of the screen.
 - **Reload**
   - This will reload the `drawings.txt` file.
 - **Reset**
