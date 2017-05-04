@@ -4,7 +4,7 @@ The tournament drawings screen is used to livestream the sorting of teams into g
 
 Please note that the osu!lazer client is currently under development and there may be bugs.
 
-## Accessing the client
+## Accessing The Client
 
 Open osu!lazer and press `Ctrl + O` to reveal the game settings. From there, click "Open osu! folder". Create the following two files in this directory:  
 `drawings.ini`  
@@ -52,7 +52,7 @@ The following are properties which are configurable through this file:
 | Groups | The number of groups to sort teams into. | Between 1 and 8 (inclusive) | 8 |
 | TeamsPerGroup | The maximum number of teams in any one group. | Between 1 and 8 (inclusive) | 8 |
 
-### Defining teams
+### Defining Teams
 
 The `drawings.txt` file provides a way to specify the teams that will be sorted into groups on separate lines. An example line is the following:  
 `AU : Australia : AUS`  
