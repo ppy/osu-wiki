@@ -12,14 +12,14 @@ Open osu!lazer and press `Ctrl + O` to reveal the game settings. From there, cli
 Next, add the following line to the `drawings.txt` file:  
 `AU : Australia : AUS`
 
-We'll go over what each of those files do later, however for now let's jump into the screen.
+The drawings screen is now ready to be previewed. It is important to understand how the drawings screen looks and acts before modifying each of these files further.
 
 ### Usage
 
 From the main menu, press `Ctrl + Shift + D` to access the drawings screen. The following should appear:
 ![](main-screen.png "The main drawings screen")
 
-This is the screen we'll be working with. There are two sections to this screen - the main section on the left with the world map as a background, and the control panel section on the right. Please **avoid** livestreaming the control panel.
+There are two sections to this screen - the main section on the left with the world map as a background, and the control panel section on the right. Please **avoid** livestreaming the control panel.
 
 There are 4 buttons in the control panel, let's go over them:
 
@@ -30,14 +30,15 @@ There are 4 buttons in the control panel, let's go over them:
 - **Reload**
   - This will reload the `drawings.txt` file.
 - **Reset**
-  - This button should rarely, if ever be used. It is destructive and will reset all your progress.
+  - This button should rarely be used. It is destructive and will reset the results of the drawings process.
 
 Press the `Begin random` and the `Stop random` buttons. When the scrolling stops on a flag at the centre of the screen, go back to the osu! folder and notice that there is now an additional file created: `drawings_results.txt`.  
-Open the file and observe the format - this is what you'll be using to extract the results of this process for use in Google Spreadsheets or your management tool of choice.
+Open the file and observe the format - this is where the results of the drawings process are stored, and should be imported into further tools to assist in managing the tournament, such as Google Spreadsheets.  
+**Please make sure to save the `drawings_results.txt` file in a safe location before pressing the Reset button otherwise it will be destroyed!**
 
-### The `drawings.ini` file
+### Configuration
 
-As you might have noticed, a tournament may not have as many as 8 groups, and likewise a tournament may not have 8 teams per group. The `drawings.ini` file is a configuration file that allows you to adjust such properties.
+A tournament may not desire as many as 8 groups, and likewise may not desire 8 teams per group. The `drawings.ini` file is a configuration file that allows the adjustment of such properties.
 A valid configuration file looks like:
 ```
 Groups = 4
@@ -51,9 +52,9 @@ The following are properties which are configurable through this file:
 | Groups | The number of groups to sort teams into. | Between 1 and 8 (inclusive) | 8 |
 | TeamsPerGroup | The maximum number of teams in any one group. | Between 1 and 8 (inclusive) | 8 |
 
-### The `drawings.txt` file
+### Defining teams
 
-This file provides a way to specify the teams that will be sorted into groups. We have already written a line into this file, so let's dissect it:  
+The `drawings.txt` file provides a way to specify the teams that will be sorted into groups on separate lines. An example line is the following:  
 `AU : Australia : AUS`  
 This line has three sections separated by a colon (`:`):
 
@@ -75,12 +76,16 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-You can define you own flags. To do so, go back to the osu! folder where you created the files previously, create the folder `Drawings`, and inside it create the folder `Flags` such that you end up with the folder hierarchy `osu/Drawings/Flags/`.  
-You can place your custom flag image files inside the Flags folder. For example if you place `my-flag-file.png` inside the Flags folder, you can then add the following line to the `drawings.txt` file:  
+To define a custom flag, go back to the osu! folder containing the `drawings.ini` file, create the folder `Drawings`, and inside it create the folder `Flags` such that the folder hierarchy `osu/Drawings/Flags/` is created.  
+Custom flag image files can be placed inside the Flags folder. For example if the file `my-flag-file.png` was placed inside the Flags folder, then a valid line that can be added to the `drawings.txt` file is:  
 `my-flag-file : My Team : MT`
 
 The optimal resolution for flag images is 70x47 pixels (or the same aspect ratio).
 
+### Seeding
+
+It may be desirable to "seed" teams. In this case multiple `drawings.txt` files can be hotswapped with the aid of the Reload button in the control panel.
+
 ## Questions?
 
-Please don't hesitate to contact `tournaments@ppy.sh` if you have any further usage questions.
+Please don't hesitate to contact `tournaments@ppy.sh` if there are any further usage questions.
