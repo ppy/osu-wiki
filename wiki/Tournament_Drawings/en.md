@@ -53,14 +53,15 @@ The following are properties which are configurable through this file:
 
 ### The `drawings.txt` file
 
-This file provides a way to specify the teams that will be sorted into groups. We have already written a line into this file, so let's dissect it:
-```
-       AU       :       Australia       :       AUS
-^^^^^^^^^^^^^^^   ^^^^^^^^^^^^^^^^^^^^^   ^^^^^^^^^^^^^^
-   Flag Name          Full Team Name       Team Acronym
-```
+This file provides a way to specify the teams that will be sorted into groups. We have already written a line into this file, so let's dissect it:  
+`AU : Australia : AUS`  
+This line has three sections separated by a colon (`:`):
 
-- The flag name refers to the name of a file that provides the flag. By default, osu!lazer provides country flags as [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html).
+| Flag Name | Full Team Name | Team Acronym |
+| :-------: | :------------: | :----------: |
+| AU | Australia | AUS |
+
+- The flag name refers to the name of a file that provides the flag image. By default, osu!lazer provides country flags as [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html).
 - The full team name is displayed in the centre of the screen when a team is selected through the scrolling process.
 - The team acronym is displayed in the group boxes.
 
