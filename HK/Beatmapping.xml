@@ -1,0 +1,795 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>osu!wiki</sitename>
+    <base>http://osu.ppy.sh/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Osu!</namespace>
+      <namespace key="5" case="first-letter">Osu! talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HK:Beatmap ranking procedure</title>
+    <id>2985</id>
+    <revision>
+      <id>17517</id>
+      <timestamp>2014-11-03T12:20:54Z</timestamp>
+      <contributor>
+        <username>Yg061307</username>
+        <id>30231</id>
+      </contributor>
+      <comment>Translate - ZH</comment>
+      <text xml:space="preserve" bytes="3664">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 思想泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BAT]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]]。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[計時]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[Modding Assistance Team|MAT]]/[[ Beatmap Appreciation Team|BAT]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BAT在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BAT]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BAT]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，BAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>18347</id>
+      <timestamp>2014-12-28T13:36:10Z</timestamp>
+      <contributor>
+        <username>Prophecy</username>
+        <id>34019</id>
+      </contributor>
+      <comment>/* 破掉的泡泡（Popped Bubble） File:bubblepop.png */</comment>
+      <text xml:space="preserve" bytes="3664">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 思想泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BAT]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]]。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[計時]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BAT]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[Modding Assistance Team|QAT]]/[[ Beatmap Appreciation Team|BAT]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BAT在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BAT]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BAT]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，BAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>21104</id>
+      <timestamp>2015-04-06T08:16:57Z</timestamp>
+      <contributor>
+        <username>Prophecy</username>
+        <id>34019</id>
+      </contributor>
+      <comment>/* 思想泡泡（Bubble） File:thinking.gif */</comment>
+      <text xml:space="preserve" bytes="3588">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[Modding Assistance Team|QAT]]/[[ Beatmap Appreciation Team|BAT]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BAT在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BAT]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BAT]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，BAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>21105</id>
+      <timestamp>2015-04-06T08:17:45Z</timestamp>
+      <contributor>
+        <username>Prophecy</username>
+        <id>34019</id>
+      </contributor>
+      <comment>/* 破掉的泡泡（Popped Bubble） File:bubblepop.png */</comment>
+      <text xml:space="preserve" bytes="3552">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[ Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，BAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>21107</id>
+      <timestamp>2015-04-06T08:18:13Z</timestamp>
+      <contributor>
+        <username>Prophecy</username>
+        <id>34019</id>
+      </contributor>
+      <comment>/* 審核通過（Ranked） File:heart.gif */</comment>
+      <text xml:space="preserve" bytes="3552">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[ Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>25418</id>
+      <timestamp>2015-08-22T16:29:24Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3555">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[ Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping/HK]][[Category: 譜面審核]]</text>
+    </revision>
+    <revision>
+      <id>26175</id>
+      <timestamp>2015-08-30T08:11:01Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3550">譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[ Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+[[Category: Beatmapping/HK]][[Category:Guides/HK]</text>
+    </revision>
+    <revision>
+      <id>28603</id>
+      <timestamp>2015-10-03T04:20:04Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3568">{{OL/HK}}
+譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[Modding Assistance Team|MAT]]和[[Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[Beatmap Appreciation Team| BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[kudosu]]來給一個譜面加上的。一個[[kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[Modding Assistance Team|MAT]]或者[[Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[ Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+{{Guides/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>31115</id>
+      <timestamp>2015-10-24T17:09:04Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>misc fixes</comment>
+      <text xml:space="preserve" bytes="3648">{{OL/HK}}{{Shortcut/HK|HK:BAP}}
+譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[HK:Modding Assistance Team|MAT]]和[[HK:Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[HK:Beatmap Appreciation Team|BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]]==
+
+在一個譜面被[[HK:Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[HK:Kudosu|Kudosu]]來給一個譜面加上的。一個[[HK:Kudosu|Kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[HK:Timing|Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[HK:Modding Assistance Team|MAT]]或者[[HK:Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[HK:Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[HK:Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[HK:Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[HK:Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]]==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]]==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+{{Guides/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>40895</id>
+      <timestamp>2016-07-05T05:35:15Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>spacing and template fixes</comment>
+      <text xml:space="preserve" bytes="3660">{{OL|HK}}{{Shortcut|lang=HK|HK:BRP}}
+
+譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[HK:Modding Assistance Team|MAT]]和[[HK:Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[HK:Beatmap Appreciation Team|BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]] ==
+
+在一個譜面被[[HK:Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[HK:Kudosu|Kudosu]]來給一個譜面加上的。一個[[HK:Kudosu|Kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[HK:Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[HK:Timing|Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[HK:Modding Assistance Team|MAT]]或者[[HK:Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[HK:Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[HK:Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[HK:Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[HK:Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]] ==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]] ==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+{{Guides/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>40896</id>
+      <timestamp>2016-07-05T05:35:28Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[HK:Beatmap Approval]] to [[HK:Beatmap ranking process]]</comment>
+      <text xml:space="preserve" bytes="3660">{{OL|HK}}{{Shortcut|lang=HK|HK:BRP}}
+
+譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[HK:Modding Assistance Team|MAT]]和[[HK:Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[HK:Beatmap Appreciation Team|BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]] ==
+
+在一個譜面被[[HK:Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[HK:Kudosu|Kudosu]]來給一個譜面加上的。一個[[HK:Kudosu|Kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[HK:Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[HK:Timing|Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[HK:Modding Assistance Team|MAT]]或者[[HK:Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[HK:Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[HK:Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[HK:Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[HK:Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]] ==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]] ==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+{{Guides/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>41339</id>
+      <timestamp>2016-08-17T14:42:59Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[HK:Beatmap ranking process]] to [[HK:Beatmap ranking procedure]]</comment>
+      <text xml:space="preserve" bytes="3660">{{OL|HK}}{{Shortcut|lang=HK|HK:BRP}}
+
+譜面做好以後會放在論壇的Pending或者Work in Progress區。這些是還沒審核通過的譜面。這些譜面沒有計分板而且在帖子無回復和更新一段時間後會進入Graveyard區（也就是譜面的墳墓啦XD）。要想讓譜面被移到Ranked區並且有自己的計分板的話，就必須經歷一個譜面審核的過程。首先他必須要有一個思想泡泡（bubble），[[HK:Modding Assistance Team|MAT]]和[[HK:Beatmap Appreciation Team|BAT]]都可以給泡，然後才能rank，而rank只有[[HK:Beatmap Appreciation Team|BAT]]可以。
+
+
+== 泡泡（Bubble） [[File:thinking.gif]] ==
+
+在一個譜面被[[HK:Beatmap Appreciation Team|BN]]移到ranked區前，它必須先有一個泡。一個[[譜面]]要想rank，至少必須先有8個[[星]](Kudosu)。而星是自己或者其他人消耗[[HK:Kudosu|Kudosu]]來給一個譜面加上的。一個[[HK:Kudosu|Kudosu]]可以射一個星，在[[製圖者|製圖者]]的資料頁面或者[[譜面|譜面]]論壇都可以射星。在譜面有8顆星後，[[HK:Beatmap Appreciation Team|BN]]就可以給泡了，有以下兩種可能：
+
+1. 譜面完全符合[[審核標準|審核標準]]。一般來說，這意味著譜面必須有正確的[[HK:Timing|Timing]]，至少兩個[[難度|難度]]（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
+
+2. 譜面符合審核標準，只有一些小細節可以修改。例如，一個滑條拉得不是特別好看，那麼[[HK:Modding Assistance Team|MAT]]或者[[HK:Beatmap Appreciation Team|BN]]可能會要求稍事修改這個滑條之後再給泡。
+
+注意： 你的譜面在泡了之後，如果你進行更新，泡就會破掉。如果你不是進行大修改（比如只是改了一個擊打圓圈或者滑條），那麼請之前給你泡的[[HK:Beatmap Appreciation Team|BN]]再給回泡應該是沒問題的。
+
+== 破掉的泡泡（Popped Bubble） [[File:bubblepop.png]] ==
+
+更新已經泡了的譜面，這個記號就會取代泡泡記號，這意味著在這個譜面需要再回到泡泡狀態，或者不是給你泡的[[HK:Beatmap Appreciation Team|BN]]對你的譜面存在異議的可能也會用這個記號取代泡泡記號。
+有些BN在修圖的時候用這個記號標記以避免其他[[HK:Beatmap Appreciation Team|BN]]也剛好在看這圖，這時候很大可能你的譜面會在修正[[HK:Beatmap Appreciation Team|BN]]的意見後審核通過並上架。
+
+== 審核通過（Ranked） [[File:heart.gif]] ==
+
+譜面泡了之後，如果符合之前說的那兩種可能的話，QAT就可以讓它上架了。至於為什麼要兩名審核組成員的意見才能讓譜面上架，那是因為人總是可能會犯錯的，而兩名成員同時犯錯的可能性就會低很多，這樣審核上架的譜面應該都有這良好的質量。但是如果譜面在審核上架後大部分審核組成員發現有重大的問題（比如一個沒有用到的5mb的視頻在osz文件中）。那麼這個譜面就會被下架（unrank）了。
+
+== 下架（Unranked） [[File:heartpop.gif]] ==
+
+人總是會犯錯的。所以，如果通過審核流程上架後的譜面存在重大問題的話，就會被下架。如果你的譜面被下架了，建議你去和下架你譜面的審核組成員交流，以便盡快修復譜面問題並再次上架。
+
+注意：有時候你會被要求做一些你不太想做的改變。有時你確實可以不修改，但是如果半數以上審核組成員認為你應該修改的話，那麼你就真的應該改改了。
+
+{{Guides/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>HK:Beatmap editor</title>
+    <id>2984</id>
+    <revision>
+      <id>17516</id>
+      <timestamp>2014-11-03T12:12:57Z</timestamp>
+      <contributor>
+        <username>Yg061307</username>
+        <id>30231</id>
+      </contributor>
+      <comment>Created page with &quot;{{OL}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]  '''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。...&quot;</comment>
+      <text xml:space="preserve" bytes="817">{{OL}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{editor}}
+{{Contents}}
+[[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>24881</id>
+      <timestamp>2015-08-15T18:05:39Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="820">{{OL}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/KO}}
+{{Contents}}
+[[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>24883</id>
+      <timestamp>2015-08-15T18:06:06Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="820">{{OL}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents}}
+[[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>25419</id>
+      <timestamp>2015-08-22T16:29:28Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="823">{{OL}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>26736</id>
+      <timestamp>2015-09-07T15:00:34Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="848">{{OL/HK}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents}}
+[[Category:Cantonese]][[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>27667</id>
+      <timestamp>2015-09-12T00:19:37Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="829">{{OL/HK}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>29912</id>
+      <timestamp>2015-10-11T08:10:01Z</timestamp>
+      <contributor>
+        <username>Prophecy</username>
+        <id>34019</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="840">{{OL/HK}}{{Stub/HK}}{{BED}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[Beatmaps]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>31119</id>
+      <timestamp>2015-10-24T17:14:03Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="890">{{OL/HK}}{{Shortcut|HK:Editor}}
+{{BED/HK}}[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[[HK:Beatmaps|Beatmaps]]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+* [[作圖]] (基本作圖)
+* [[HK:Beat Snap Divisor|Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>41478</id>
+      <timestamp>2016-08-20T20:14:35Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>template changes</comment>
+      <text xml:space="preserve" bytes="901">{{OL|HK}}{{Shortcut|lang=HK|HK:Editor}}
+{{BED|HK}}
+
+[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[[HK:Beatmaps|Beatmaps]]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+
+* [[作圖]] (基本作圖)
+* [[HK:Beat Snap Divisor|Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+    <revision>
+      <id>41479</id>
+      <timestamp>2016-08-20T20:14:50Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[HK:Beatmap Editor]] to [[HK:Beatmap editor]]</comment>
+      <text xml:space="preserve" bytes="901">{{OL|HK}}{{Shortcut|lang=HK|HK:Editor}}
+{{BED|HK}}
+
+[[File:Compose.png|200px|thumb|right|osu!的譜面編輯器(Window 系統)]]
+
+'''譜面編輯器'''是Osu!的遊戲中的圖形界面，用於創建[[HK:Beatmaps|Beatmaps]]。它被分為4種模式：
+* [[撰寫/作圖]]: 這是其中[[點擊方塊]]放置和編輯的部分。大部分所花費的時間會在這裡完成。
+* [[設計]]: 這就是故事板設計，多數作圖者只會在這裡使用“背景圖片/視頻”按鈕。
+* [[校時/時間]]: 這是設置樂曲的BPM和Offset。這個窗口還控制點擊音效。
+* [[歌曲設置]]: 這是關於地圖的各種選項進行設置。這包括顏色和難度設置。
+
+== Related articles ==
+
+* [[作圖]] (基本作圖)
+* [[HK:Beat Snap Divisor|Beat Snap Divisor]]
+* [[距離捕捉]]
+* [[自定義樣本]]
+* [[Kia i時間]]
+
+{{Editor/HK}}
+{{Contents/HK}}
+[[Category:Beatmapping/HK]]</text>
+    </revision>
+  </page>
+</mediawiki>

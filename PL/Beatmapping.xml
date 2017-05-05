@@ -1,0 +1,2152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>osu!wiki</sitename>
+    <base>http://osu.ppy.sh/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Osu!</namespace>
+      <namespace key="5" case="first-letter">Osu! talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>PL:Graveyarded beatmap</title>
+    <id>273</id>
+    <revision>
+      <id>862</id>
+      <timestamp>2011-12-06T20:51:01Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <comment>Created page with &quot;'''Graveyarded beatmaps''' są to mapy, które nie są aktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked Beatmap|rankingowymi]], dopóki...&quot;</comment>
+      <text xml:space="preserve" bytes="523">'''Graveyarded beatmaps''' są to mapy, które nie są aktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked Beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', podczas ich gry, nie liczą się do statystyk. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).</text>
+    </revision>
+    <revision>
+      <id>863</id>
+      <timestamp>2011-12-06T20:51:25Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <text xml:space="preserve" bytes="575">'''Graveyarded beatmaps''' są to mapy, które nie są aktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked Beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', podczas ich gry, nie liczą się do statystyk. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>870</id>
+      <timestamp>2011-12-06T20:54:27Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <text xml:space="preserve" bytes="575">'''Graveyarded beatmaps''' są to mapy, które nie są aktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', podczas ich gry, nie liczą się do statystyk. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>874</id>
+      <timestamp>2011-12-06T20:56:08Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <text xml:space="preserve" bytes="574">'''Mapy o statusie Graveyarded''' są to mapy, które nie zostały zaktualizowane w ciągu co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>876</id>
+      <timestamp>2011-12-06T20:56:48Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="581">'''Mapy o statusie Graveyarded''' są to mapy, które nie zostały zaktualizowane w ciągu co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>878</id>
+      <timestamp>2011-12-06T20:57:43Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="577">'''Mapy o statusie Graveyarded''' to mapy, które nie zostały zaktualizowane w ciągu co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>879</id>
+      <timestamp>2011-12-06T20:58:13Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="574">'''Mapy o statusie Graveyarded''' to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot;, za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded' tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>881</id>
+      <timestamp>2011-12-06T21:00:13Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="574">'''Mapy o statusie Graveyarded''' to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot; za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded', tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>983</id>
+      <timestamp>2011-12-07T12:48:49Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="593">'''Mapy o statusie Graveyarded''' to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot; za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded', tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>32492</id>
+      <timestamp>2015-11-27T15:38:57Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="584">{{OL/PL}}
+'''Mapy o statusie Graveyarded''' to mapy, które nie zostały zaktualizowane przez co najmniej 4 tygodnie. Takie mapy nie mogą być mapami [[PL:Ranked beatmap|rankingowymi]], dopóki [[PL:Mapper|mapper]] nie wskrzesi ich z &quot;cmentarzyska&quot; za pomocą linku &quot;Revive Beatmap&quot; w jego profilu pod kategorią '[[PL:Beatmapa|Beatmaps]]'. Mapy o statusie 'graveyarded', tak samo jak mapy '[[PL:Pending Beatmap|pending]]' czy 'WiP', nie liczą się do statystyk gracza. ([[PL:Achievements|Osiągnięcia]], Celność, Punkty, etc).
+
+[[Category:Beatmapping/PL]][[Category:Modding/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Easy (Difficulty)</title>
+    <id>504</id>
+    <revision>
+      <id>2133</id>
+      <timestamp>2012-01-02T22:17:36Z</timestamp>
+      <contributor>
+        <username>matusiek3</username>
+        <id>355</id>
+      </contributor>
+      <comment>Created page with &quot;Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba sie nauczyc metoda prob i bledow. Zaleca sie uzyc nastepujacych ustawien : *   HP Drain Rate: 4 lub mniej * ...&quot;</comment>
+      <text xml:space="preserve" bytes="858">Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba sie nauczyc metoda prob i bledow. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej
+
+Do '''kazdego poziomu Easy''' zaleca sie uzywanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstep 1/1 nie nachodzily na siebie, poniewaz osoby ktore dopiero zaczynaja przygode z osu! moga byc zirytowane. Beat Snap Divisor powinien byc ustawiony na 1/1, aby mapka nie stala sie zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam uzywac hitsoundow, ktore sa wrecz wymagane by dana Beatmapa osiagnela status Ranked, oraz dodanie kilku nutek, sliderow oraz spinnerow.</text>
+    </revision>
+    <revision>
+      <id>11859</id>
+      <timestamp>2014-02-20T22:41:27Z</timestamp>
+      <contributor>
+        <username>Papcio</username>
+        <id>12392</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1069">Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light</text>
+    </revision>
+    <revision>
+      <id>26021</id>
+      <timestamp>2015-08-29T19:21:08Z</timestamp>
+      <contributor>
+        <username>Deimos</username>
+        <id>17899</id>
+      </contributor>
+      <minor/>
+      <comment>[[Category:Polish]]</comment>
+      <text xml:space="preserve" bytes="1089">Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+[[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>32486</id>
+      <timestamp>2015-11-27T15:22:31Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1107">{{OL/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Contents/PL}}</text>
+    </revision>
+    <revision>
+      <id>32487</id>
+      <timestamp>2015-11-27T15:22:53Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1121">{{OL/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}</text>
+    </revision>
+    <revision>
+      <id>32493</id>
+      <timestamp>2015-11-27T15:39:46Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1149">{{OL/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>32502</id>
+      <timestamp>2015-11-27T15:50:07Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1172">{{DISPLAYTITLE:Łatwy}}{{OL/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>32514</id>
+      <timestamp>2015-11-27T15:58:59Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1182">{{DISPLAYTITLE:Łatwy}}{{OL/PL}}
+{{DD/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>33211</id>
+      <timestamp>2015-12-20T19:31:59Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PL:Easy]] to [[PL:Easy (Difficulty)]]</comment>
+      <text xml:space="preserve" bytes="1182">{{DISPLAYTITLE:Łatwy}}{{OL/PL}}
+{{DD/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>33215</id>
+      <timestamp>2015-12-20T19:35:15Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>temporarily removing displaytitle (misleading as of now)</comment>
+      <text xml:space="preserve" bytes="1159">{{OL/PL}}
+{{DD/PL}}
+{{Update}}
+Zrobienie prostego poziomu wcale nie jest trudne, po prostu trzeba się nauczyć metoda prób i błędów. Zaleca sie uzyc nastepujacych ustawien :
+*   HP Drain Rate: 4 lub mniej
+*   Circle Size: 3 albo 4
+*   Approach Rate: 4 lub mniej
+*   Overall Difficulty: 4 lub mniej
+*   Slider velocity: 1,00x lub mniej (Zależy od BPM!)
+
+Do '''każdego poziomu Easy''' zaleca się używanie Distance Snap, i to ustawienie go tak, aby Circle ktore maja odstęp 1/1 nie nachodziły na siebie, ponieważ osoby które dopiero zaczynają przygodę z osu! mogą być zirytowane. Beat Snap Divisor powinien być ustawiony na 1/1, aby mapka nie stała się zbyt trudna.
+
+Nie zaleca sie postawienia circla na kazdej bialej kresce, gdyz to okazuje sie byc zbyt monotonnym.
+Polecam używać hitsoundów, które są wręcz wymagane by dana Beatmapa osiągnęła status Ranked, oraz dodanie kilku nutek, sliderów oraz spinnerów.
+
+Inne, często spotykane nazwy poziomu easy to:
+
+*  Level 1
+*  Lv. 1-4
+*  Beginner (z gry &quot;Beatmania&quot;)
+*  Basic
+*  Shikai/Kuro Shikai (z anime &quot;Bleach&quot;)
+*  Light
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Beatmapping</title>
+    <id>266</id>
+    <revision>
+      <id>831</id>
+      <timestamp>2011-12-06T19:46:57Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <comment>Created page with &quot;'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjo...&quot;</comment>
+      <text xml:space="preserve" bytes="1312">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].</text>
+    </revision>
+    <revision>
+      <id>856</id>
+      <timestamp>2011-12-06T20:27:47Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1340">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL: Mappowanie]]</text>
+    </revision>
+    <revision>
+      <id>857</id>
+      <timestamp>2011-12-06T20:28:10Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1339">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL:Mappowanie]]</text>
+    </revision>
+    <revision>
+      <id>984</id>
+      <timestamp>2011-12-07T12:49:12Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1358">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL:Mappowanie]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>11858</id>
+      <timestamp>2014-02-20T22:35:09Z</timestamp>
+      <contributor>
+        <username>Papcio</username>
+        <id>12392</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1489">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL:Mappowanie]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>17673</id>
+      <timestamp>2014-11-10T20:58:50Z</timestamp>
+      <contributor>
+        <username>IcyAgata</username>
+        <id>26308</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1491">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL:Mappowanie]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>32499</id>
+      <timestamp>2015-11-27T15:47:57Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PL:Mappowanie]] to [[PL:Beatmapping]]: following similar naming schemes</comment>
+      <text xml:space="preserve" bytes="1491">'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Easy]] (Łatwy)
+* [[PL:Normal|Normal]] (Normalny)
+* [[PL:Hard|Hard]] (Trudny)
+* [[PL:Insane|Insane]] (Szalony)
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmapa|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[PL:Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+[[Category:PL:Mappowanie]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>32507</id>
+      <timestamp>2015-11-27T15:54:51Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1526">{{DISPLAYTITLE:Mappowanie}}{{OL/PL}}{{Shortcut/PL|PL:Mapping}}
+{{Update}}
+'''Mappowanie''' to proces tworzenia [[PL:Beatmapa|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Łatwy]]
+* [[PL:Normal|Normal]]
+* [[PL:Hard|Trudny]]
+* [[PL:Insane|Szalony]]
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmap|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>32516</id>
+      <timestamp>2015-11-27T16:01:37Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1527">{{DISPLAYTITLE:Mappowanie}}{{OL/PL}}{{Shortcut/PL|PL:Mapping}}
+{{Update}}
+'''Mappowanie''' to proces tworzenia [[PL:Beatmaps|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy|Łatwy]]
+* [[PL:Normal|Normal]]
+* [[PL:Hard|Trudny]]
+* [[PL:Insane|Szalony]]
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmaps|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>33218</id>
+      <timestamp>2015-12-20T19:37:42Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>fixed link to Easy</comment>
+      <text xml:space="preserve" bytes="1540">{{DISPLAYTITLE:Mappowanie}}{{OL/PL}}{{Shortcut/PL|PL:Mapping}}
+{{Update}}
+'''Mappowanie''' to proces tworzenia [[PL:Beatmaps|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy (Difficulty)|Łatwy]]
+* [[PL:Normal|Normal]]
+* [[PL:Hard|Trudny]]
+* [[PL:Insane|Szalony]]
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmaps|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>36947</id>
+      <timestamp>2016-02-26T15:17:56Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1566">{{DISPLAYTITLE:Mappowanie}}{{OL/PL}}{{Shortcut/PL|PL:Mapping}}
+{{Update}}
+'''Mappowanie''' to proces tworzenia [[PL:Beatmaps|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Ranked]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy (Difficulty)|Łatwy]]
+* [[PL:Normal|Normal]]
+* [[PL:Hard|Trudny]]
+* [[PL:Insane|Szalony]]
+* [[PL:Expert|Ekspercki]]
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|twórcow]] do tworzenia interesujących [[PL:Beatmaps|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Ranked]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>37625</id>
+      <timestamp>2016-03-26T22:20:03Z</timestamp>
+      <contributor>
+        <username>streeteelf</username>
+        <id>95770</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1584">{{DISPLAYTITLE:Mapowanie}}{{OL/PL}}{{Shortcut/PL|PL:Mapping}}
+{{Update}}
+'''Mapowanie''' to proces tworzenia [[PL:Beatmaps|beatmapy]] w osu!. Składa się na niego wybór utworu, ustawienie [[PL:Timing|timingu]], umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i/lub storyboard'u.
+
+[[PL:Mapper|Mapperzy]] najczęściej pragną, by ich mapy otrzymały status [[PL:Ranked beatmap|Rankingowej mapy]], do którego wymagane jest przejście przez etap zatwierdzenia (akceptacji) beatmapy (ang. [[PL:beatmap approval|beatmap approval]]), a następnie przydzielenia mapie własnej tabeli wyników i uniemożliwienie dalszej edycji mapy.
+
+Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
+* [[PL:Easy (Difficulty)|Łatwy]]
+* [[PL:Normal|Normal]]
+* [[PL:Hard|Trudny]]
+* [[PL:Insane|Szalony]]
+* [[PL:Expert|Ekspercki]]
+
+Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [[PL:Mapper|mapperów]] do tworzenia interesujących [[PL:Beatmaps|map]] odpowiednich dla danego [[PL:Poziom trudności|poziomu trudności]].
+
+Nazwy [[Poziom trudności|poziomów trudności]] mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [[PL:Ranked beatmap|Rankingowej]], nazwa musi odzwierciedlać poziom trudności.
+
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [[PL:Guest Difficulty|Guest Difficulties]]), które są najczęściej oznaczane jako [x's y], gdzie x to nick twórcy a y to poziom trudności, np. [Larto's Insane].
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Ranked beatmap</title>
+    <id>270</id>
+    <revision>
+      <id>839</id>
+      <timestamp>2011-12-06T20:11:41Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <comment>Created page with &quot;[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Mo...&quot;</comment>
+      <text xml:space="preserve" bytes="719">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>840</id>
+      <timestamp>2011-12-06T20:12:17Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="719">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[PL:Category:Mappowanie]] [[PL:Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>841</id>
+      <timestamp>2011-12-06T20:12:29Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="713">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Mappowanie]] [[Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>842</id>
+      <timestamp>2011-12-06T20:12:45Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <text xml:space="preserve" bytes="719">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>843</id>
+      <timestamp>2011-12-06T20:13:45Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="713">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Mappowanie]] [[Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>845</id>
+      <timestamp>2011-12-06T20:15:19Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="719">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>846</id>
+      <timestamp>2011-12-06T20:17:12Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="714">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy o statusie Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Beatmapping]] [[Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>847</id>
+      <timestamp>2011-12-06T20:18:36Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="731">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Beatmapping]] [[Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>848</id>
+      <timestamp>2011-12-06T20:19:12Z</timestamp>
+      <contributor>
+        <username>Acrith</username>
+        <id>84</id>
+      </contributor>
+      <text xml:space="preserve" bytes="736">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>850</id>
+      <timestamp>2011-12-06T20:22:59Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="736">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[PL:Category:Mappowanie]] [[PL:Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>851</id>
+      <timestamp>2011-12-06T20:23:20Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="730">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Mappowanie]] [[Category:Modding]]</text>
+    </revision>
+    <revision>
+      <id>852</id>
+      <timestamp>2011-12-06T20:23:44Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="733">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>853</id>
+      <timestamp>2011-12-06T20:24:13Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve" bytes="736">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]]</text>
+    </revision>
+    <revision>
+      <id>981</id>
+      <timestamp>2011-12-07T12:47:50Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="755">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>982</id>
+      <timestamp>2011-12-07T12:48:19Z</timestamp>
+      <contributor>
+        <username>Ciunek</username>
+        <id>90</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="758">[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[PL:Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+[[Category:PL:Mappowanie]] [[Category:PL:Modding]][[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>32518</id>
+      <timestamp>2015-11-27T16:29:08Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="766">{{OL/PL}}
+[[File:heart.gif]] '''Beatmapami o statusie Ranked''' są mapy, które zostały zatwierdzone przez dwóch  [[PL:Beatmap Appreciation Team|BAT]]ów, bądź też jednego [[PL:Modding Assistance Team|MAT]]a i jednego BATa.
+Mapy te idealnie spełniają wszystkie kryteria, by zagwarantować graczom pewien rodzaj standardu podczas gry.
+
+Mapy o statusie Ranked mają wpływ na statystyki wyświetlane na profilu gracza. Cecha ta wyróżnia je spośród map o statusie [[PL:Approved Beatmap|Approved]], [[PL:Pending Beatmap|Pending]] oraz [[PL:Graveyarded beatmap|Graveyarded]].
+
+Mapy oznaczone jako Ranked mają ikonę serca [[File:heart.gif]] w temacie oraz na ekranie wyboru piosenki w osu!.
+
+{{Contents/PL}}
+[[Category:Beatmapping/PL]][[Category:Modding/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Quality Assurance Team</title>
+    <id>6664</id>
+    <revision>
+      <id>36578</id>
+      <timestamp>2016-02-17T10:15:43Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <comment>translaton of original page</comment>
+      <text xml:space="preserve" bytes="916">{{OL}}
+{{Shortcut|QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Group Link]
+
+{{Quality Assurance Team/Members}}
+
+&lt;br&gt;
+{{Contents}}
+[[Category:Beatmapping]]
+[[Category:People]]</text>
+    </revision>
+    <revision>
+      <id>36585</id>
+      <timestamp>2016-02-17T11:03:08Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <comment>/* Członkowie zespołu */</comment>
+      <text xml:space="preserve" bytes="922">{{OL}}
+{{Shortcut|QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Link do grupy]
+
+{{PL:Quality Assurance Team/Members}}
+
+&lt;br&gt;
+{{Contents}}
+[[Category:Beatmapping]]
+[[Category:People]]</text>
+    </revision>
+    <revision>
+      <id>36599</id>
+      <timestamp>2016-02-17T14:09:17Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <comment>adding category</comment>
+      <text xml:space="preserve" bytes="942">{{OL}}
+{{Shortcut|QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Link do grupy]
+
+{{PL:Quality Assurance Team/Members}}
+
+&lt;br&gt;
+{{Contents}}
+[[Category:Beatmapping]]
+[[Category:People]]
+[[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>36616</id>
+      <timestamp>2016-02-17T22:21:34Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PL:Zespół zapewnienia jakości]] to [[PL:Quality Assurance Team]]: naming scheme</comment>
+      <text xml:space="preserve" bytes="942">{{OL}}
+{{Shortcut|QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Link do grupy]
+
+{{PL:Quality Assurance Team/Members}}
+
+&lt;br&gt;
+{{Contents}}
+[[Category:Beatmapping]]
+[[Category:People]]
+[[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>36619</id>
+      <timestamp>2016-02-17T22:27:18Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1707">{{DISPLAYTITLE:Zespół zapewnienia jakości}}{{OL|PL}}{{Shortcut|lang=PL|PL:QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Link do grupy]
+{{Translate|PL}}
+{{Quality_Assurance_Team/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Modes=Tryb gry
+|Languages=Dodatkowe języki
+|some=some
+|Arabic=Araic
+|Bulgarian=Bulgarian
+|Cantonese=Cantonese
+|Chinese=Chiński
+|Czech=Czech
+|Dutch=Dutch
+|Filipino=Filipino
+|Finnish=Finnish
+|French=French
+|German=Niemiecki
+|Greek=Greek
+|Hebrew=Hebrew
+|Hungarian=Węgierski
+|Indonesian=Indonesian
+|Italian=Italian
+|Japanese=Japoński
+|Korean=Korean
+|Malaysian=Malaysian
+|Norwegian=Norwegian
+|Polish=Polish
+|Portuguese=Portuguese
+|Romanian=Romanian
+|Russian=Rosyjski
+|Serbian=Serbian
+|Spanish=Hiszpański
+|Swedish=Swedish
+|Swiss=Swiss
+|Thai=Thai
+|Turkish=Turkish
+|Ukrainian=Ukrainian
+|Vietnamese=Vietnamese
+}}
+
+&lt;br&gt;
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+    <revision>
+      <id>36691</id>
+      <timestamp>2016-02-19T13:15:37Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1728">{{DISPLAYTITLE:Zespół zapewnienia jakości}}{{OL|PL}}{{Shortcut|lang=PL|PL:QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to &quot;sędziowie&quot; map ze statusem &quot;zakwalifikowana&quot;, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status &quot;zakwalifikowanej&quot;, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Link do grupy]
+{{Quality_Assurance_Team/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Modes=Tryb gry
+|Languages=Dodatkowe języki
+|some=some
+|Arabic=Arabski
+|Bulgarian=Bułgarski
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czeski
+|Dutch=Holenderski
+|Filipino=Filipiński
+|Finnish=Fiński
+|French=Francuski
+|German=Niemiecki
+|Greek=Grecki
+|Hebrew=Hebrajski
+|Hungarian=Węgierski
+|Indonesian=Indonezyjski
+|Italian=Włoski
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malezyjski
+|Norwegian=Norweski
+|Polish=Polski
+|Portuguese=Portugalski
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serski
+|Spanish=Hiszpański
+|Swedish=Szwedzki
+|Swiss=Szwajcarski
+|Thai=Tajski
+|Turkish=Turecki
+|Ukrainian=Ukraiński
+|Vietnamese=Wietnamski
+}}
+
+&lt;br&gt;
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+    <revision>
+      <id>40337</id>
+      <timestamp>2016-06-05T17:59:23Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>fixes</comment>
+      <text xml:space="preserve" bytes="1739">{{DISPLAYTITLE:Zespół zapewnienia jakości}}{{OL|PL}}{{Shortcut|lang=PL|PL:QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to „sędziowie” map ze statusem „zakwalifikowana”, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status „zakwalifikowanej”, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Strona grupy]
+{{Quality_Assurance_Team/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Modes=Tryb gry
+|Languages=Dodatkowe języki
+|some=some
+|Arabic=Arabski
+|Bulgarian=Bułgarski
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czeski
+|Dutch=Holenderski
+|Filipino=Filipiński
+|Finnish=Fiński
+|French=Francuski
+|German=Niemiecki
+|Greek=Grecki
+|Hebrew=Hebrajski
+|Hungarian=Węgierski
+|Indonesian=Indonezyjski
+|Italian=Włoski
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malezyjski
+|Norwegian=Norweski
+|Polish=Polski
+|Portuguese=Portugalski
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serski
+|Spanish=Hiszpański
+|Swedish=Szwedzki
+|Swiss=Szwajcarski
+|Thai=Tajski
+|Turkish=Turecki
+|Ukrainian=Ukraiński
+|Vietnamese=Wietnamski
+}}
+
+&lt;br&gt;
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+    <revision>
+      <id>40338</id>
+      <timestamp>2016-06-05T18:00:08Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1746">{{DISPLAYTITLE:Zespół zapewnienia jakości}}{{OL|PL}}{{Shortcut|lang=PL|PL:QAT}}
+
+'''Zespół Zapewnienia Jakości''', znani również jako QAT, to „sędziowie” map ze statusem „zakwalifikowana”, którzy sprawdzają je pod względem jakości i grywalności i mogą oni zabrać status „zakwalifikowanej”, jeżeli znajdą oni błędy. Formują oni podstawowe wymagania dotyczące jakości map, które wchodzą w proces rankowania.
+
+
+Członkowie QAT są zobowiązani wysokimi wymaganiami aktywności, ponieważ ich rola wymaga od nich, aby byli aktywni w ocenianiu jakości map.
+
+Członkowie tej grupy awansują z grupy [[Beatmap_Nomination_Group|BNów]], jeżeli zgodzą się na przyznaną im nową rolę.
+Członkowie QAT mają czerwony nick w grze i na forach, gdzie BNi już takiego przywileju nie posiadają.
+
+== Członkowie zespołu ==
+
+[http://osu.ppy.sh/g/7 Strona grupy]
+{{Quality_Assurance_Team/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Modes=Tryb gry
+|Languages=Dodatkowe języki
+|some=częściowo
+|Arabic=Arabski
+|Bulgarian=Bułgarski
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czeski
+|Dutch=Holenderski
+|Filipino=Filipiński
+|Finnish=Fiński
+|French=Francuski
+|German=Niemiecki
+|Greek=Grecki
+|Hebrew=Hebrajski
+|Hungarian=Węgierski
+|Indonesian=Indonezyjski
+|Italian=Włoski
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malezyjski
+|Norwegian=Norweski
+|Polish=Polski
+|Portuguese=Portugalski
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serski
+|Spanish=Hiszpański
+|Swedish=Szwedzki
+|Swiss=Szwajcarski
+|Thai=Tajski
+|Turkish=Turecki
+|Ukrainian=Ukraiński
+|Vietnamese=Wietnamski
+}}
+
+&lt;br&gt;
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Beatmap Nomination Group</title>
+    <id>6665</id>
+    <revision>
+      <id>36581</id>
+      <timestamp>2016-02-17T10:34:05Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <comment>translation</comment>
+      <text xml:space="preserve" bytes="1188">{{OL}}{{shortcut|BNG|Beatmap Nominator|Beatmap nominators|BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+
+{{Beatmap Nomination Group/Members}}
+
+{{Contents}}
+[[Category: Beatmapping]]
+[[Category:People]]</text>
+    </revision>
+    <revision>
+      <id>36584</id>
+      <timestamp>2016-02-17T11:02:30Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1191">{{OL}}{{shortcut|BNG|Beatmap Nominator|Beatmap nominators|BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+
+{{PL:Beatmap Nomination Group/Members}}
+
+{{Contents}}
+[[Category: Beatmapping]]
+[[Category:People]]</text>
+    </revision>
+    <revision>
+      <id>36600</id>
+      <timestamp>2016-02-17T14:09:31Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1211">{{OL}}{{shortcut|BNG|Beatmap Nominator|Beatmap nominators|BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+
+{{PL:Beatmap Nomination Group/Members}}
+
+{{Contents}}
+[[Category: Beatmapping]]
+[[Category:People]]
+[[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>36620</id>
+      <timestamp>2016-02-17T22:28:28Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PL:Nominatorzy beatmap]] to [[PL:Beatmap Nomination Group]]: naming scheme</comment>
+      <text xml:space="preserve" bytes="1211">{{OL}}{{shortcut|BNG|Beatmap Nominator|Beatmap nominators|BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+
+{{PL:Beatmap Nomination Group/Members}}
+
+{{Contents}}
+[[Category: Beatmapping]]
+[[Category:People]]
+[[Category:Polish]]</text>
+    </revision>
+    <revision>
+      <id>36623</id>
+      <timestamp>2016-02-17T22:33:54Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1987">{{DISPLAYTITLE:Nominatorzy beatmap}}{{OL|PL}}{{shortcut|lang=PL|PL:BNG|PL:Beatmap Nominator|PL:Beatmap nominators|PL:BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+{{Translate|PL}}
+{{Beatmap_Nomination_Group/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Languages=Dodatkowe języki
+|some=trochę
+|Arabic=Arabski
+|Bulgarian=Bulgarian
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czech
+|Dutch=Holenderski
+|Filipino=Filipino
+|Finnish=Finnish
+|French=Francuski
+|German=Niemiecki
+|Greek=Greek
+|Hebrew=Hebrew
+|Hungarian=Hungarian
+|Indonesian=Indonezyjski
+|Italian=Italian
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malaysian
+|Norwegian=Norwegian
+|Polish=Polski
+|Portuguese=Portuguese
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serbian
+|Spanish=Hiszpański
+|Swedish=Swedish
+|Swiss=Swiss
+|Thai=Tajlandzki
+|Turkish=Turkish
+|Ukrainian=Ukrainian
+|Vietnamese=Wietnamski
+}}
+
+{{Contents/PL}}
+[[Category: Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+    <revision>
+      <id>36690</id>
+      <timestamp>2016-02-19T13:09:49Z</timestamp>
+      <contributor>
+        <username>XyloDG</username>
+        <id>87678</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1990">{{DISPLAYTITLE:Nominatorzy beatmap}}{{OL|PL}}{{shortcut|lang=PL|PL:BNG|PL:Beatmap Nominator|PL:Beatmap nominators|PL:BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Link]
+
+{{Beatmap_Nomination_Group/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Nick
+|Languages=Dodatkowe języki
+|some=trochę
+|Arabic=Arabski
+|Bulgarian=Bułgarski
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czeski
+|Dutch=Holenderski
+|Filipino=Filipiński
+|Finnish=Fiński
+|French=Francuski
+|German=Niemiecki
+|Greek=Grecki
+|Hebrew=Hebrajski
+|Hungarian=Węgierski
+|Indonesian=Indonezyjski
+|Italian=Włoski
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malezyjski
+|Norwegian=Norweski
+|Polish=Polski
+|Portuguese=Portugalski
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serbski
+|Spanish=Hiszpański
+|Swedish=Szwedzki
+|Swiss=Szwajcarski
+|Thai=Tajlandzki
+|Turkish=Turecki
+|Ukrainian=Ukraiński
+|Vietnamese=Wietnamski
+}}
+
+{{Contents/PL}}
+[[Category: Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+    <revision>
+      <id>40339</id>
+      <timestamp>2016-06-05T18:05:26Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>fixes</comment>
+      <text xml:space="preserve" bytes="2080">{{DISPLAYTITLE:Nominatorzy Beatmap}}{{OL|PL}}{{shortcut|lang=PL|PL:BNG|PL:Beatmap Nominator|PL:Beatmap nominators|PL:BN}}
+
+Grupa '''Nominatorów Beatmap''', bardziej znani jako BN, jest grupą, która zajmuje się rankowaniem map. Grupa ta przeszła przez wiele zmian. 22 sierpnia 2014 roku przestali być częścią &quot;staffu&quot;, zabrano im możliwość moderowania czatu a także czerwony nick w grze i na forum. Ostatnia zmiana była 1 lutego 2015r., gdzie grupa z BAT zmieniła się w BN.
+
+==Role i zadania==
+[[File:nominator.png|thumb|right|Odznaka Nominatora]]
+Członkowie grupy '''Nominatorów Beatmap''' są odpowiedzialni głównie za [[Modding|modowanie]] [[Pending Beatmap|oczekujących map]]. BN'i to osoby, do których powinieneś się zwracać o porady dotyczące modowania i mapowania.
+
+==Stawanie się BN==
+Dzięki zmianom wprowadzonym 22 sierpnia 2014r., stawanie się BN'em jest o wiele prostsze niż do tej pory było. Możesz przeczytać [http://osu.ppy.sh/forum/t/259742 ten temat], aby dowiedzieć się, jak dołączyć do grupy Nominatorów Beatmap.
+
+==Członkowie zespołu==
+''Uwaga: Wszyscy BN'i mówią po angielsku, chyba że jest inaczej napisane.'' [http://osu.ppy.sh/g/28 Strona grupy]
+
+{{Beatmap_Nomination_Group/Members
+|Click here to edit this table template=Kliknij tutaj, aby edytować schemat tabeli
+|Names=Pseudonim
+|Languages=Dodatkowe języki
+|some=częściowo
+|Modes = Tryby gry
+|Arabic=Arabski
+|Bulgarian=Bułgarski
+|Cantonese=Kantoński
+|Chinese=Chiński
+|Czech=Czeski
+|Dutch=Holenderski
+|Filipino=Filipiński
+|Finnish=Fiński
+|French=Francuski
+|German=Niemiecki
+|Greek=Grecki
+|Hebrew=Hebrajski
+|Hungarian=Węgierski
+|Indonesian=Indonezyjski
+|Italian=Włoski
+|Japanese=Japoński
+|Korean=Koreański
+|Malaysian=Malezyjski
+|Norwegian=Norweski
+|Polish=Polski
+|Portuguese=Portugalski
+|Romanian=Rumuński
+|Russian=Rosyjski
+|Serbian=Serbski
+|Spanish=Hiszpański
+|Swedish=Szwedzki
+|Swiss=Szwajcarski
+|Thai=Tajlandzki
+|Turkish=Turecki
+|Ukrainian=Ukraiński
+|Vietnamese=Wietnamski
+}}
+
+{{Contents/PL}}
+[[Category: Beatmapping/PL]]
+[[Category:People/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Kiai Time</title>
+    <id>7057</id>
+    <revision>
+      <id>38442</id>
+      <timestamp>2016-04-09T18:36:39Z</timestamp>
+      <contributor>
+        <username>Dawidkrainski</username>
+        <id>98717</id>
+      </contributor>
+      <comment>Created page with &quot;{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|Kiai}} [[File:Kiai_Time.jpg|200px|thumb|right|Stars shower the screen indicating Kiai Time has started.]] [[File:Kiai_Time_Edit_M...&quot;</comment>
+      <text xml:space="preserve" bytes="2340">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Stars shower the screen indicating Kiai Time has started.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Kiai Time shows in the upper-left of the screen when active during edit mode.]]
+'''Czas Kiai''' definiuje [[PL:mapper|mapper]] w [[PL:beatmap|beatmapie]] między 2 [[PL:Timing|Sekcjami]].
+Łatwo zauważysz czas Kiai, ponienaż ekran miga i jest [[PL:star (skinning)|gwiezdna]] fontanna, poteml [[PL:Hit Objects|objekty]] będą błyskać zgodnie z [PL:[bpm|rytmem]] i  gwiazdki rozsypują się, gdy klikasz [[PL:Hit Objects#Hit Circle|kółka]] oraz gdy trzymasz [[PL:slider|slidery]] i [[PL:spinner|spinnery]].
+
+== Czas Kiai w Mappowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Things to take into consideration when using Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Do not use pure white [[combo colours|combo color]]''' (255,255,255); it makes Kiai blinding and hurts the eyes.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Guest difficulties]] may have different Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor}}
+{{Contents}}
+[[Category:Gameplay]][[Category:Edit mode]][[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>38443</id>
+      <timestamp>2016-04-09T18:37:17Z</timestamp>
+      <contributor>
+        <username>Dawidkrainski</username>
+        <id>98717</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="2346">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Stars shower the screen indicating Kiai Time has started.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Kiai Time shows in the upper-left of the screen when active during edit mode.]]
+'''Czas Kiai''' definiuje [[PL:mapper|mapper]] w [[PL:beatmap|beatmapie]] między 2 [[PL:Timing|Sekcjami]].
+Łatwo zauważysz czas Kiai, ponienaż ekran miga i występuje [[PL:star (skinning)|gwiezdna]] fontanna, poteml [[PL:Hit Objects|objekty]] będą błyskać zgodnie z [PL:[bpm|rytmem]] i  gwiazdki rozsypują się, gdy klikasz [[PL:Hit Objects#Hit Circle|kółka]] oraz gdy trzymasz [[PL:slider|slidery]] i [[PL:spinner|spinnery]].
+
+== Czas Kiai w Mappowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Things to take into consideration when using Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Do not use pure white [[combo colours|combo color]]''' (255,255,255); it makes Kiai blinding and hurts the eyes.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Guest difficulties]] may have different Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor}}
+{{Contents}}
+[[Category:Gameplay]][[Category:Edit mode]][[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>38444</id>
+      <timestamp>2016-04-09T18:37:59Z</timestamp>
+      <contributor>
+        <username>Dawidkrainski</username>
+        <id>98717</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="2346">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Stars shower the screen indicating Kiai Time has started.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Kiai Time shows in the upper-left of the screen when active during edit mode.]]
+'''Czas Kiai''' definiuje [[PL:mapper|mapper]] w [[PL:beatmap|beatmapie]] między 2 [[PL:Timing|Sekcjami]].
+Łatwo zauważysz czas Kiai, ponienaż ekran miga i występuje [[PL:star (skinning)|gwiezdna]] fontanna, poteml [[PL:Hit Objects|objekty]] będą błyskać zgodnie z [[PL:bpm|rytmem]] i  gwiazdki rozsypują się, gdy klikasz [[PL:Hit Objects#Hit Circle|kółka]] oraz gdy trzymasz [[PL:slider|slidery]] i [[PL:spinner|spinnery]].
+
+== Czas Kiai w Mappowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Things to take into consideration when using Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Do not use pure white [[combo colours|combo color]]''' (255,255,255); it makes Kiai blinding and hurts the eyes.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Guest difficulties]] may have different Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor}}
+{{Contents}}
+[[Category:Gameplay]][[Category:Edit mode]][[Category:Beatmapping]]</text>
+    </revision>
+    <revision>
+      <id>38477</id>
+      <timestamp>2016-04-10T14:43:33Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>template fixes</comment>
+      <text xml:space="preserve" bytes="2372">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|lang=PL|PL:Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Stars shower the screen indicating Kiai Time has started.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Kiai Time shows in the upper-left of the screen when active during edit mode.]]
+'''Czas Kiai''' definiuje [[PL:mapper|mapper]] w [[PL:beatmap|beatmapie]] między 2 [[PL:Timing|Sekcjami]].
+Łatwo zauważysz czas Kiai, ponienaż ekran miga i występuje [[PL:star (skinning)|gwiezdna]] fontanna, poteml [[PL:Hit Objects|objekty]] będą błyskać zgodnie z [[PL:bpm|rytmem]] i  gwiazdki rozsypują się, gdy klikasz [[PL:Hit Objects#Hit Circle|kółka]] oraz gdy trzymasz [[PL:slider|slidery]] i [[PL:spinner|spinnery]].
+
+== Czas Kiai w Mappowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Things to take into consideration when using Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Do not use pure white [[combo colours|combo color]]''' (255,255,255); it makes Kiai blinding and hurts the eyes.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Guest difficulties]] may have different Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Gameplay/PL]][[Category:Edit mode/PL]][[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>38725</id>
+      <timestamp>2016-04-16T10:19:25Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>main things</comment>
+      <text xml:space="preserve" bytes="2402">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|lang=PL|PL:Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Fontanna gwiazd oznaczająca początek Czasu Kiai.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Znaczek Czasu Kiai w Edytorze.]]
+'''Czas Kiai''' jest umieszczany przez [[PL:Mapper|Mappera]] między 2 [[PL:Timing|miejscami]] w [[PL:Beatmap|beatmapie]].
+Czas Kiai jest łatwy do zauważenia, ponienaż ekran zaczyna migać i występuje [[PL:Star (skinning)|gwiezdna]] fontanna. Następnie [[PL:Hit Objects|elementy beatmapy]] zaczną migać zgodnie z [[PL:BPM|rytmem]] beatmapy oraz gdy będziesz naciskać [[PL:Hit Objects#Hit Circle|Kółka]], trzymać [[PL:slider|Slidery]] czy kręcić[[PL:spinner|Spinnery]], gwiazdki będą sypać z kursora.
+
+== Czas Kiai w Mapowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Rady dotyczące używania Czasu Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Nie używaj całkowicie białego [[combo colours|koloru combo]]''' (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Gościnne poziomy trudności]] mogą mieć inne Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Gameplay/PL]][[Category:Edit mode/PL]][[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>38726</id>
+      <timestamp>2016-04-16T10:19:56Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>little fix</comment>
+      <text xml:space="preserve" bytes="2403">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|lang=PL|PL:Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Fontanna gwiazd oznaczająca początek Czasu Kiai.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Znaczek Czasu Kiai w Edytorze.]]
+'''Czas Kiai''' jest umieszczany przez [[PL:Mapper|Mappera]] między 2 [[PL:Timing|miejscami]] w [[PL:Beatmap|beatmapie]].
+Czas Kiai jest łatwy do zauważenia, ponienaż ekran zaczyna migać i występuje [[PL:Star (skinning)|gwiezdna]] fontanna. Następnie [[PL:Hit Objects|elementy beatmapy]] zaczną migać zgodnie z [[PL:BPM|rytmem]] beatmapy oraz gdy będziesz naciskać [[PL:Hit Objects#Hit Circle|Kółka]], trzymać [[PL:Slider|Slidery]] czy kręcić [[PL:Spinner|Spinnery]], gwiazdki będą sypać z kursora.
+
+== Czas Kiai w Mapowaniu ==
+The most common term for Kiai Time when [[Editor|editing]] beatmaps is the &quot;strongest part of the song&quot; this is normally the chorus of the song, however some songs don't have a chorus, but they do have a strong part for you that feels cool, so you could insert Kiai Time in that section.
+Be advised however that spamming kiai start sections will cause a spam in kiai fountains. That is unrankable, and mostly hated by players because of the lag it may cause.
+
+== Rady dotyczące używania Czasu Kiai ==
+#On '''[[Taiko]] maps''' Kiai sections give 20% more [[score]], so if you're mapping a Taiko specific [[beatmap|map]], take into consideration that Kiai does affect gameplay.
+#'''Be consistent'''; it's annoying when you have 3 Kiai sections in different spots on the same [[difficulty]] and all of them sound different. Additionally, it's good that all difficulties from the same [[mapper]] have the exact same Kiai times.
+#'''Nie używaj całkowicie białego [[combo colours|koloru combo]]''' (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
+#It's normal that a Kiai section is slightly more challenging than the rest of the mapset, as Kiai time is also the '''strongest part of the map'''.
+#'''[[Guest Difficulty|Gościnne poziomy trudności]] mogą mieć inne Kiai'''. This is due to the fact that not everyone thinks the same spot is the &quot;cool&quot; spot of the beatmap; however Kiai should still be consistent.
+#[[Colorhaxing]] to make Kiai have a different set of [[combo colours]] is a nice touch.
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Gameplay/PL]][[Category:Edit mode/PL]][[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>38727</id>
+      <timestamp>2016-04-16T12:04:30Z</timestamp>
+      <contributor>
+        <username>Galkan</username>
+        <id>86</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2535">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|lang=PL|PL:Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Fontanna gwiazd oznaczająca początek Czasu Kiai.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Znaczek Czasu Kiai w Edytorze.]]
+'''Czas Kiai''' jest umieszczany przez [[PL:Mapper|twórcę mapy]] między dwoma [[PL:Timing|miejscami]] w [[PL:Beatmap|beatmapie]].
+Czas Kiai łatwo zauważyć, ponienaż wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [[PL:Hit_Objects|elementy beatmapy]] zaczynają migać zgodnie z [[PL:BPM|rytmem]] piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
+
+== Czas Kiai w mapowaniu ==
+Przy [[Editor|tworzeniu]] beatmap, Czas Kiai stosuje się najczęściej na „najmocniejszym” momencie w piosence - zazwyczaj refrenie. Niektóre piosenki nie mają refrenu, natomiast mają inny odczuwalnie zaakcentowany element, który może świetnie współgrać z Czasem Kiai.
+Należy pamiętać, że nadmierne użycie sekcji rozpoczynajacych Czas Kiai spowoduje tak samo nadmierne występowanie gwiezdnych fontann. Pozbawia to mapę możliwość uzyskania statusu rankingowego.
+
+== Rady dotyczące używania Czasu Kiai ==
+#Na mapach '''[[Taiko]]''' sekcje z Czasem Kiai dodają 20% więcej [[PL:Score|punktów]]. Jako że wpływa to na rozgrywkę, należy wziąć pod uwagę ewentualne rozmieszczenie tychże sekcji podczas tworzenia [[PL:beatmap|map]] dedykowanych dla trybu Taiko.
+#'''Konsekwencja''': używanie sekcji Czasu Kiai w odmiennych miejscach piosenki na tym samym [[PL:difficulty|poziomie trudności]] może być niekomfortowe dla graczy. Wszystkie poziomy trudności od tego samego [[PL:mapper|twórcy]] powinny mieć ujednolicone sekcje Czasu Kiai.
+#'''Nie powinno się używać całkowicie białego [[combo colours|koloru combo]]''' (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
+#Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
+#'''[[Guest Difficulty|Gościnne poziomy trudności]] mogą mieć inaczej ustawione sekcje Czasu Kiai'''. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Gameplay/PL]][[Category:Edit mode/PL]][[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>38728</id>
+      <timestamp>2016-04-16T12:07:26Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2535">{{DISPLAYTITLE:Czas Kiai}}{{OL|PL}}{{shortcut|lang=PL|PL:Kiai}}
+[[File:Kiai_Time.jpg|200px|thumb|right|Fontanna gwiazd oznaczająca początek Czasu Kiai.]]
+[[File:Kiai_Time_Edit_Mode.jpg|200px|thumb|right|Znaczek Czasu Kiai w Edytorze.]]
+'''Czas Kiai''' jest umieszczany przez [[PL:Mapper|twórcę mapy]] między dwoma [[PL:Timing|miejscami]] w [[PL:Beatmap|beatmapie]].
+Czas Kiai łatwo zauważyć, ponieważ wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [[PL:Hit_Objects|elementy beatmapy]] zaczynają migać zgodnie z [[PL:BPM|rytmem]] piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
+
+== Czas Kiai w mapowaniu ==
+Przy [[Editor|tworzeniu]] beatmap, Czas Kiai stosuje się najczęściej na „najmocniejszym” momencie w piosence - zazwyczaj refrenie. Niektóre piosenki nie mają refrenu, natomiast mają inny odczuwalnie zaakcentowany element, który może świetnie współgrać z Czasem Kiai.
+Należy pamiętać, że nadmierne użycie sekcji rozpoczynajacych Czas Kiai spowoduje tak samo nadmierne występowanie gwiezdnych fontann. Pozbawia to mapę możliwość uzyskania statusu rankingowego.
+
+== Rady dotyczące używania Czasu Kiai ==
+#Na mapach '''[[Taiko]]''' sekcje z Czasem Kiai dodają 20% więcej [[PL:Score|punktów]]. Jako że wpływa to na rozgrywkę, należy wziąć pod uwagę ewentualne rozmieszczenie tychże sekcji podczas tworzenia [[PL:beatmap|map]] dedykowanych dla trybu Taiko.
+#'''Konsekwencja''': używanie sekcji Czasu Kiai w odmiennych miejscach piosenki na tym samym [[PL:difficulty|poziomie trudności]] może być niekomfortowe dla graczy. Wszystkie poziomy trudności od tego samego [[PL:mapper|twórcy]] powinny mieć ujednolicone sekcje Czasu Kiai.
+#'''Nie powinno się używać całkowicie białego [[combo colours|koloru combo]]''' (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
+#Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
+#'''[[Guest Difficulty|Gościnne poziomy trudności]] mogą mieć inaczej ustawione sekcje Czasu Kiai'''. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Gameplay/PL]][[Category:Edit mode/PL]][[Category:Beatmapping/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Beatmap editor</title>
+    <id>7163</id>
+    <revision>
+      <id>39584</id>
+      <timestamp>2016-05-06T13:45:14Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>translation</comment>
+      <text xml:space="preserve" bytes="1153">{{OL|PL}}{{Shortcut|Editor}}
+{{BED|PL}}
+[[File:Compose.png|200px|thumb|right|Tryb kompozycji osu! w trybie okienkowym]]
+
+'''Edytor beatmap''' to miejsce w osu! w którym tworzy się [[PL:Beatmaps|mapy]]. Jest podzielony na cztery sekcje:
+* [[PL:Compose|Kompozycja]]: Jest to miejsce gdzie są wstawiane i edytowane [[PL:Hit Objects|obiekty]]. Większość czasu jest spędzana tutaj.
+* [[PL:Design|Design]]: Jest to miejsce gdzie tworzone jest tło. Większość osób używa tylko przycisku &quot;Background Image/Video&quot;.
+* [[PL:Timing|Rytmika]]: Jest to miejsce gdzie ustawione jest opóźnienie i BPM. Można tutaj także edytować dźwięki, jeżeli nie są stałe w mapie.
+* [[PL:Song Setup|Ustawienia mapy]]: Jest to miejsce gdzie można zmienić różne opcje mapy (od kolorów combo do ustawień poziomów trudności.
+
+== Powiązane artykuły ==
+* [[PL:Beatmapping|Mapowanie]] (podstawy mapowania)
+* [[PL:Beat Snap Divisor|Podziałka czasowa]] 
+* [[PL:Distance Snap|Odległość pomiędzy obiektami]]
+* [[PL:Custom Sample Overrides|Własne paczki dźwięków]]  
+* [[PL:Kiai Time|Czas Kiai]]
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>39585</id>
+      <timestamp>2016-05-06T13:48:29Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <minor/>
+      <comment>title :/</comment>
+      <text xml:space="preserve" bytes="1184">{{DISPLAYTITLE:Edytor beatmap}}{{OL|PL}}{{Shortcut|Editor}}
+{{BED|PL}}
+[[File:Compose.png|200px|thumb|right|Tryb kompozycji osu! w trybie okienkowym]]
+
+'''Edytor beatmap''' to miejsce w osu! w którym tworzy się [[PL:Beatmaps|mapy]]. Jest podzielony na cztery sekcje:
+* [[PL:Compose|Kompozycja]]: Jest to miejsce gdzie są wstawiane i edytowane [[PL:Hit Objects|obiekty]]. Większość czasu jest spędzana tutaj.
+* [[PL:Design|Design]]: Jest to miejsce gdzie tworzone jest tło. Większość osób używa tylko przycisku &quot;Background Image/Video&quot;.
+* [[PL:Timing|Rytmika]]: Jest to miejsce gdzie ustawione jest opóźnienie i BPM. Można tutaj także edytować dźwięki, jeżeli nie są stałe w mapie.
+* [[PL:Song Setup|Ustawienia mapy]]: Jest to miejsce gdzie można zmienić różne opcje mapy (od kolorów combo do ustawień poziomów trudności.
+
+== Powiązane artykuły ==
+* [[PL:Beatmapping|Mapowanie]] (podstawy mapowania)
+* [[PL:Beat Snap Divisor|Podziałka czasowa]] 
+* [[PL:Distance Snap|Odległość pomiędzy obiektami]]
+* [[PL:Custom Sample Overrides|Własne paczki dźwięków]]  
+* [[PL:Kiai Time|Czas Kiai]]
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>41466</id>
+      <timestamp>2016-08-20T20:04:09Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>added shortcut template parm lang ;; minor spacing fix</comment>
+      <text xml:space="preserve" bytes="1196">{{DISPLAYTITLE:Edytor beatmap}}{{OL|PL}}{{Shortcut|lang=PL|PL:Editor}}
+{{BED|PL}}
+[[File:Compose.png|200px|thumb|right|Tryb kompozycji osu! w trybie okienkowym]]
+
+'''Edytor beatmap''' to miejsce w osu! w którym tworzy się [[PL:Beatmaps|mapy]]. Jest podzielony na cztery sekcje:
+* [[PL:Compose|Kompozycja]]: Jest to miejsce gdzie są wstawiane i edytowane [[PL:Hit Objects|obiekty]]. Większość czasu jest spędzana tutaj.
+* [[PL:Design|Design]]: Jest to miejsce gdzie tworzone jest tło. Większość osób używa tylko przycisku &quot;Background Image/Video&quot;.
+* [[PL:Timing|Rytmika]]: Jest to miejsce gdzie ustawione jest opóźnienie i BPM. Można tutaj także edytować dźwięki, jeżeli nie są stałe w mapie.
+* [[PL:Song Setup|Ustawienia mapy]]: Jest to miejsce gdzie można zmienić różne opcje mapy (od kolorów combo do ustawień poziomów trudności.
+
+== Powiązane artykuły ==
+
+* [[PL:Beatmapping|Mapowanie]] (podstawy mapowania)
+* [[PL:Beat Snap Divisor|Podziałka czasowa]] 
+* [[PL:Distance Snap|Odległość pomiędzy obiektami]]
+* [[PL:Custom Sample Overrides|Własne paczki dźwięków]]  
+* [[PL:Kiai Time|Czas Kiai]]
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+    <revision>
+      <id>41467</id>
+      <timestamp>2016-08-20T20:04:16Z</timestamp>
+      <contributor>
+        <username>123MegaApple123</username>
+        <id>7416</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[PL:Beatmap Editor]] to [[PL:Beatmap editor]]</comment>
+      <text xml:space="preserve" bytes="1196">{{DISPLAYTITLE:Edytor beatmap}}{{OL|PL}}{{Shortcut|lang=PL|PL:Editor}}
+{{BED|PL}}
+[[File:Compose.png|200px|thumb|right|Tryb kompozycji osu! w trybie okienkowym]]
+
+'''Edytor beatmap''' to miejsce w osu! w którym tworzy się [[PL:Beatmaps|mapy]]. Jest podzielony na cztery sekcje:
+* [[PL:Compose|Kompozycja]]: Jest to miejsce gdzie są wstawiane i edytowane [[PL:Hit Objects|obiekty]]. Większość czasu jest spędzana tutaj.
+* [[PL:Design|Design]]: Jest to miejsce gdzie tworzone jest tło. Większość osób używa tylko przycisku &quot;Background Image/Video&quot;.
+* [[PL:Timing|Rytmika]]: Jest to miejsce gdzie ustawione jest opóźnienie i BPM. Można tutaj także edytować dźwięki, jeżeli nie są stałe w mapie.
+* [[PL:Song Setup|Ustawienia mapy]]: Jest to miejsce gdzie można zmienić różne opcje mapy (od kolorów combo do ustawień poziomów trudności.
+
+== Powiązane artykuły ==
+
+* [[PL:Beatmapping|Mapowanie]] (podstawy mapowania)
+* [[PL:Beat Snap Divisor|Podziałka czasowa]] 
+* [[PL:Distance Snap|Odległość pomiędzy obiektami]]
+* [[PL:Custom Sample Overrides|Własne paczki dźwięków]]  
+* [[PL:Kiai Time|Czas Kiai]]
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category:Beatmapping/PL]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PL:Expert</title>
+    <id>7238</id>
+    <revision>
+      <id>40086</id>
+      <timestamp>2016-05-26T11:41:47Z</timestamp>
+      <contributor>
+        <username>TPGPL</username>
+        <id>63737</id>
+      </contributor>
+      <comment>translated Ustawienie</comment>
+      <text xml:space="preserve" bytes="1580">{{DISPLAYTITLE:Poziom trudności ekspercki}}{{OL|PL}}{{Shortcut|Extra}}
+{{DD/PL}}
+{{Stub|PL}}
+In ways to push and extend the limits of beatmapping, Expert was invented/created to be beatmaps ''like'' [[Insane]] but go beyond.
+
+It could be the extra ''5th'' difficulty (if beatmaps are formatted in ENHIX (Easy-Normal-Hard-Insane-eXpert)) or the ''4th'' (if beatmaps are formatted in NHIX (Normal-Hard-Insane-eXpert)). These maps, like [[Insane]], quote, &quot;generally exemplifications of the mapper's skill, and are the difficulties where creativity can be easily shown.&quot;
+
+
+On the osu!beatmap listing page (for example: [https://osu.ppy.sh/b/774564 Rise Against - The Good Left Undone (Extreme)]), one may tell it is an Expert map with this icon: [[File:Diffexpert.png]]
+
+Characteristically, expert difficulties are difficult maps, usually featuring both streams and jumps.
+A map receives the expert icon when its star rating reaches more than 5.25 stars.
+
+== Ustawienie ==
+
+''Ważne: to ustawienie to tylko &lt;span style=&quot;text-decoration: underline;&quot;&gt;sugestia&lt;/span&gt;. Ustawienie trudności zależy od samej beatmapy i od stylu mappera.''
+
+''Ważne: w większości przypadków to [[PL:Mapping|mapowanie]] jest ważne, a nie [[PL:Song Setup|ustawienia piosenki]]. Jednak ustawienie piosenki (podobnie) to ważny krok!''
+
+*HP (HP Drain): 6+
+*CS (Circle Size): Jakakolwiek
+*AR (Approach Rate): 9+
+*OD (Overall Difficulty): 8+
+[[File:Expertsetup.png]]
+
+=== Przesadzone mapowanie ===
+''Przejrzyj artykuł [[PL:Insane|Szalony]].''
+
+
+{{Editor/PL}}
+{{Contents/PL}}
+[[Category: Beatmapping/PL]]</text>
+    </revision>
+  </page>
+</mediawiki>
