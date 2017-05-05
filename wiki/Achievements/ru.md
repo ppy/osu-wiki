@@ -27,7 +27,7 @@
 Примечания:
 
 -   У некоторых карт *может* быть сбит [тайминг](/wiki/Beatmap_Editor/Timing), поэтому Вам может понадобиться [мод Easy](/wiki/Game_Modifiers) или настройка оффсета с помощью клавиш +/- (во время игры).
--   Архивы были обновлены Stefan'ом в январе 2016 года, с оригинальными версиями [можно ознакомиться здесь](/wiki/Achievements/Beatmap_Packs_Achievements).
+-   Архивы были обновлены Stefan'ом в январе 2016 года, с оригинальными версиями [можно ознакомиться здесь](/wiki/Achievements/Beatmap_Packs).
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -68,7 +68,7 @@
 Секретные (Hush-Hush)
 ----------------------
 
-Вы должны сами угадать, что нужно сделать для получения ачивки. Иногда подсказка содержится в названии достижения. Примечание: в настоящее время обсуждать ачивки этой категории нельзя, за это полагается [сайленс](/wiki/Game_Modes/Glossary).
+Вы должны сами угадать, что нужно сделать для получения ачивки. Иногда подсказка содержится в названии достижения. Примечание: в настоящее время обсуждать ачивки этой категории нельзя, за это полагается [сайленс](/wiki/Glossary).
 
 | ![Don't let the bunny distract you!](/wiki/Achievements/img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](/wiki/Achievements/img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](/wiki/Achievements/img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](/wiki/Achievements/img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |

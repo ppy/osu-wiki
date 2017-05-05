@@ -316,14 +316,23 @@ _See also [Showcases](/wiki/Announcements/Showcases/)_
 
 Newsletter from osu! players/authors. Contains interviews, osu! essays, mapping tips, gaming section, and contests. [Official Twitter](https://twitter.com/osumonthly)
 
+[osu!monthly/1.pdf]: https://docs.google.com/document/d/1CE9hLf0iXwjzw-B8uZFj3LBvDVnLcv-qButQDlEyKh0/edit?hl=en&pli=1
+[osu!monthly/2.pdf]: https://docs.google.com/document/d/11s0A2DqvW7qHy9k-dpPUvdoG206T75B83JQpBm5Avdg/edit?hl=en&authkey=CKLg9o0G&pli=1
+[osu!monthly/3.pdf]: https://puu.sh/2sdm
+[osu!monthly/4_hi.pdf]: https://puu.sh/36sP
+[osu!monthly/4_lo.pdf]: https://docs.google.com/file/d/0B8aew6c6ByBcYmI3ZTAxNzYtNzU5YS00OWQxLWFlNWMtZWEwYzk4MjJiZDk4/edit?hl=en_US&pli=1
+[osu!monthly/5_hi.pdf]: https://puu.sh/4mUi
+[osu!monthly/5_lo.pdf]: https://docs.google.com/file/d/0B8aew6c6ByBcYTA3NmRmMzAtNjJjZi00YzBkLTliNTUtNjFlYjg0NGY3OTQw/edit?hl=en_US&pli=1
+[osu!monthly/6.pdf]: https://puu.sh/7EyB
+
 | No. | Newsletter                                                                                 | Forum link                                   | Release Date (DD/MM/YY) | Interviews                                                                                                                  |
 |-----|--------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| #1  | [osu!monthly #1](osu!monthly/1.pdf)                                                        | [Forum #1](https://osu.ppy.sh/forum/t/47805) | 05/03/11                | None                                                                                                                        |
-| #2  | [osu!monthly #2](osu!monthly/2.pdf)                                                        | [Forum #2](https://osu.ppy.sh/forum/t/52317) | 05/05/11                | [peppy](https://osu.ppy.sh/u/2)                                                                                             |
-| #3  | [osu!monthly #3](osu!monthly/3.pdf)                                                        | [Forum #3](https://osu.ppy.sh/forum/t/54680) | 07/06/11                | [ztrot](https://osu.ppy.sh/u/6347), [jericho2442](https://osu.ppy.sh/u/jericho2442), [Gonzvlo](https://osu.ppy.sh/u/237733) |
-| #4  | [osu!monthly #4](osu!monthly/4_hi.pdf) // [osu!monthly #4 (Low res)](osu!monthly/4_lo.pdf) | [Forum #4](https://osu.ppy.sh/forum/t/56836) | 07/07/11                | [Cookiezi](https://osu.ppy.sh/u/124493), [Garven](https://osu.ppy.sh/u/244216)                                              |
-| #5  | [osu!monthly #5](osu!monthly/5_hi.pdf) // [osu!monthly #5 (Low res)](osu!monthly/5_lo.pdf) | [Forum #5](https://osu.ppy.sh/forum/t/59924) | 15/08/11                | [peppy](https://osu.ppy.sh/u/2), [Derekku](https://osu.ppy.sh/u/91341)                                                      |
-| #6  | [osu!monthly #6](osu!monthly/6.pdf)                                                        | [Forum #6](https://osu.ppy.sh/forum/t/65452) | 27/10/11                | [Lybydose](https://osu.ppy.sh/u/64501), [RandomJibberish](https://osu.ppy.sh/u/157879)                                      |
+| #1  | [osu!monthly #1][osu!monthly/1.pdf]                                                        | [Forum #1](https://osu.ppy.sh/forum/t/47805) | 05/03/11                | None                                                                                                                        |
+| #2  | [osu!monthly #2][osu!monthly/2.pdf]                                                        | [Forum #2](https://osu.ppy.sh/forum/t/52317) | 05/05/11                | [peppy](https://osu.ppy.sh/u/2)                                                                                             |
+| #3  | [osu!monthly #3][osu!monthly/3.pdf]                                                        | [Forum #3](https://osu.ppy.sh/forum/t/54680) | 07/06/11                | [ztrot](https://osu.ppy.sh/u/6347), [jericho2442](https://osu.ppy.sh/u/jericho2442), [Gonzvlo](https://osu.ppy.sh/u/237733) |
+| #4  | [osu!monthly #4][osu!monthly/4_hi.pdf] // [osu!monthly #4 (Low res)][osu!monthly/4_lo.pdf] | [Forum #4](https://osu.ppy.sh/forum/t/56836) | 07/07/11                | [Cookiezi](https://osu.ppy.sh/u/124493), [Garven](https://osu.ppy.sh/u/244216)                                              |
+| #5  | [osu!monthly #5][osu!monthly/5_hi.pdf] // [osu!monthly #5 (Low res)][osu!monthly/5_lo.pdf] | [Forum #5](https://osu.ppy.sh/forum/t/59924) | 15/08/11                | [peppy](https://osu.ppy.sh/u/2), [Derekku](https://osu.ppy.sh/u/91341)                                                      |
+| #6  | [osu!monthly #6][osu!monthly/6.pdf]                                                        | [Forum #6](https://osu.ppy.sh/forum/t/65452) | 27/10/11                | [Lybydose](https://osu.ppy.sh/u/64501), [RandomJibberish](https://osu.ppy.sh/u/157879)                                      |
 
 ### Old osu!news group
 

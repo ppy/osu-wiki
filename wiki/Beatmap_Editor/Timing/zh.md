@@ -27,9 +27,9 @@ Timing (中文)
 
 ### 软件方式
 
-![在进行自动timing之前，首先要选择mp3文件](Timeanalyzer-a.png "在进行自动timing之前，首先要选择mp3文件")
+![在进行自动timing之前，首先要选择mp3文件](img/Timeanalyzer1-ZH.jpg "在进行自动timing之前，首先要选择mp3文件")
 
-![然后会自动进行计算](Timeanalyzer1.png "然后会自动进行计算")
+![然后会自动进行计算](img/Timeanalyzer2-ZH.jpg "然后会自动进行计算")
 
 适用范围：**单BPM**的音乐
 

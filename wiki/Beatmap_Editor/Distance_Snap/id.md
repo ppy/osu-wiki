@@ -1,7 +1,7 @@
 Jarak Ketukan
 ===============
 
-![Contoh ketika Distance Snap bekerja.](Beatspacing.jpg "Contoh ketika Distance Snap bekerja.")
+![Contoh ketika Distance Snap bekerja.](img/Beatspacing.jpg "Contoh ketika Distance Snap bekerja.")
 
 Cara termudah untuk memastikan beat spacing dengan benar pada beatmaps Anda adalah dengan memanfaatkan Distance Snapping function pada editor, dapat ditemukan di sisi kanan atas editor. Jarak relatif antara note dapat disesuaikan dengan menggunakan mouse wheel. Hal ini memungkinkan seseorang untuk memastikan ketukan yang dekat bersama-sama pada waktu yang berdekatan di Beatmap, dan sebaliknya. Ini membantu dengan bermain intuitif dan mengalahkan spasi baik. Jika Anda tetap menggunakan Distance Snap untuk seluruh lagu, beat Distance yang benar dijamin!
 

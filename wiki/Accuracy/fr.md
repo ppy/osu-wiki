@@ -62,24 +62,17 @@ Ecran de résultat
 
 Votre rang (de D à SS) y est affiché, une vue d'ensemble de vos touches ainsi que la précision de la beatmap en pourcentage. Pour plus d'informations, regardez [Score](/wiki/Score).
 
-![osu! Ranking Panel](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko Ranking Panel](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
-
-[osu! Ranking Panel (Agrandi)](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
-
-[osu!Taiko Ranking Panel (Agrandi)](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
-
-![osu!CtB Ranking Panel (Agrandi)](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania Ranking Panel](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
-
-[osu!CtB Ranking Panel (Agrandi)](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
-
-[osu!Mania Ranking Panel (Agrandi)](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
+![osu! Ranking Panel](img/standard.jpg "osu! Ranking Panel")
+![osu!Taiko Ranking Panel](img/taiko.jpg "osu!Taiko Ranking Panel")
+![osu!CtB Ranking Panel (Agrandi)](img/catch.jpg "osu!CtB Ranking Panel")
+![osu!Mania Ranking Panel](img/mania.jpg "osu!Mania Ranking Panel")
 
 
 ### Graphique de Performance
 
 Votre performance au cours de votre partie y est affichée. Des informations additionnelles sont affichées au survol du graphe :
 
-![Performance Graph](Accuracy_TR.jpg "Performance Graph")
+![Performance Graph](img/tr.jpg "Performance Graph")
 
 #### Accuracy
 | Terme | Signification |

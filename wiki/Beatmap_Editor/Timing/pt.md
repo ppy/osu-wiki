@@ -3,7 +3,7 @@ Timing (Português)
 
 O timing de um beatmap refere-se ao offset e batidas por minuto (bpm). O bpm da musica é essencialmente a velocidade da mesma. offset é o tempo entre o começo do mp3 e a primeira "batida" na musica. A ideia de usar um timing correto é fazer com que as divisórias do editor se alinhem perfeitamente com os sons da musica (não apenas com as batidas, inclui vocal e outros instrumentos pois todos instrumentos são tocados de acordo com a batida). Se o timing estiver incorreto, então a timeline não vai bater com a musica. E consequentemente, você não poderá colocar as notas precisamente para seguir a musica, ficando impossível mapear a musica corretamente. algumas musicas contém mais de uma velocidade, elas podem ser velocidades parecidas e quase imperceptíveis e não intencionais (isso acontece com certa frequência em musicas do gênero rock) e as vezes diferenças muito grandes e aparentemente intencionais (grande parte das musicas de piano, por exemplo). quando isso acontece fica impossível de ajustar o timing usando apenas uma timeline. felizmente o editor suporta o uso de timelines o quanto forem necessárias
 
-![O painel de timelines mostrando um beatmap com BPM variável e mudanças de sampleset.](TimingSetup.png "O painel de timelines mostrando um beatmap com BPM variável e mudanças de sampleset.")
+![O painel de timelines mostrando um beatmap com BPM variável e mudanças de sampleset.](img/TimingSetup.jpg "O painel de timelines mostrando um beatmap com BPM variável e mudanças de sampleset.")
 
 Seções de Timing
 ----------------
@@ -15,7 +15,7 @@ Como eu faço o Timing (cronometragem) da música apropriadamente?
 
 Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da música:
 
--   Assista o [vídeo](http://osu.ppy.sh/forum/t/39317) e os [tutoriais](http://osu.ppy.sh/forum/t/3815/) para conhecer os métodos básicos de timing.
+-   Assista o [vídeo](https://osu.ppy.sh/forum/t/39317) e os [tutoriais](https://osu.ppy.sh/forum/t/3815/) para conhecer os métodos básicos de timing.
 -   Tenha certeza que os toques do metrônomo coincidem com a batida da música em toda a duração da mesma. Então verifique o timing em 5%, 25%, 50%, 75% e 100% da música, no mínimo.
 -   Dê uma olhada na tabela de BPM, se o número estiver perto de um número completo (até .10 de diferença), é provavelmente melhor (a não ser que peçam que não o faça) arredondar para um número total. Se for esse o caso, manualmente insira o BPM correto usando o Timing Setup Panel.
     -   Exemplo: 150.02 deverá ser arredondado para 150.00 a não ser que outro mapper peça que não o faça porque o som poderá ficar errado, por alguma razão.
