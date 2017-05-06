@@ -1,6 +1,6 @@
 # RMoT Invitationals 2
 
-The Rapid Monthly osu! Tournament Invitationals /#2 is a tournament organized and ran by the Rapid Tournaments team.
+The Rapid Monthly osu! Tournament Invitationals \#2 is a tournament organized and ran by the Rapid Tournaments team.
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
 ## Schedule
