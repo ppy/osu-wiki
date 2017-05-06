@@ -1,3 +1,6 @@
+osu! Ranking Criteria
+=======================
+
 For the record, these include the recent changes made [from the discussion forum](http://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Rules

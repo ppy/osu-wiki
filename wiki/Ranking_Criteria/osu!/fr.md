@@ -1,3 +1,6 @@
+Critères de ranking osu!standard
+================================
+
 Ces règles sont susceptibles de changer à tout moment. Veuillez vous référer à ce [sujet](http://osu.ppy.sh/forum/87) pour vous tenir à jour des dernières modifications. Cette page fera l'objet d'éditions à chaque nouveau changement dans les Ranking Criteria.
 
 Règles

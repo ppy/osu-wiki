@@ -1,3 +1,6 @@
+Critères de Ranking osu!mania
+=============================
+
 Lexique et termes mania
 =======================
 

@@ -1,3 +1,6 @@
+osu!catch Ranking Criteria
+============================
+
 Ez tartalmazza a legutóbbi változásokat a [topic-ból](http://osu.ppy.sh/forum/t/80544&start=0). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
 
 Szabályok

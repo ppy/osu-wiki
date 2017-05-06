@@ -1,3 +1,6 @@
+osu! Ranking Criteria (Português)
+====================================
+
 Apenas lembrando, aqui foram escritas as mais recentes mudanças feitas no [forum de discussão](http://osu.ppy.sh/forum/87). Qualquer regra que estiver sendo discutida é listada aqui como de costume, e será atualizada uma vez que a discussão tenha um resultado.
 
 Regras

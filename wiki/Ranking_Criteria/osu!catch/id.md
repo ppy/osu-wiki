@@ -1,3 +1,6 @@
+Kriteria Pemeringkatan osu!catch
+===================================
+
 Peraturan dan Arahan agar map **Catch the Beat** kamu dirank.
 
 Peraturan

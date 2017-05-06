@@ -1,3 +1,6 @@
+Kriteria Pemeringkatan osu!taiko
+=================================
+
 Peraturan dan petunjuk ini telah didiskusikan dalam [Thread Diskusi Taiko](http://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan di update setiap diskusi mencapai kesepakatan.
 
 Istilah Umum

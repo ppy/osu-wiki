@@ -1,3 +1,6 @@
+osu!taiko Ranking Criteria (中文)
+==================================
+
 这些规则和指导思想在[太鼓讨论串](http://osu.ppy.sh/forum/p/1275323)当中讨论出来。 一些新的建议在 [讨论串](http://osu.ppy.sh/forum/87)被提出，当争论经过整理后可能会被添加进来。
 
 也可以前往观看此帖[太鼓譜面的規則 <已落實>](https://osu.ppy.sh/forum/t/80152)。

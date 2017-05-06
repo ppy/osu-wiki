@@ -1,3 +1,6 @@
+osu!catch Ranking Criteria
+=============================
+
 The **Catch the Beat Ranking Criteria** is a set of rules and guidelines that apply to the creation of Catch the Beat-specific difficulties. In order to get a Catch the Beat-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Glossary

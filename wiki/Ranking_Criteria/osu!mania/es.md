@@ -1,4 +1,8 @@
-=Terminos=
+Criterio de Ranking de osu!mania
+=================================
+
+Terminos
+=========
 
 -   No-Expertos = Easy, Normal. (Basic, Standard)
 -   Experto = Hard, Insane. (Hyper, Another)

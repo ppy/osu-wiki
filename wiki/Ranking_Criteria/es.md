@@ -1,3 +1,6 @@
+Ranking Criteria (Español)
+==============================
+
 **En proceso de traducción, siéntanse libres de ayudar (Astom)**
 
 Reglas

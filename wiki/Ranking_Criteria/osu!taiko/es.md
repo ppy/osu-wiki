@@ -1,3 +1,6 @@
+osu!taiko Ranking Criteria (Español)
+=====================================
+
 Estas reglas y pautas (guidelines) han sido discutidas en el [Hilo de Discusión de Taiko (en inglés)](http://osu.ppy.sh/forum/p/1275323). Nuevas reglas o pautas pueden ser sugeridas en el [foro de discusión (en inglés)](http://osu.ppy.sh/forum/87), las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
 Términos comunes

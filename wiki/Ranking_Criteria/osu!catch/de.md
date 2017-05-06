@@ -1,3 +1,6 @@
+Ranking Kriterien - osu!catch
+==============================
+
 **Catch the Beat** Ranking Regeln und Richtlinien ([Diskussions Thread](http://osu.ppy.sh/forum/t/80544/))
 
 Regeln

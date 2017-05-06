@@ -1,3 +1,6 @@
+Kriteria Pemeringkatan osu! Standar
+====================================
+
 Ini termasuk dari perubahan yang terjadi [dalam forum diskusi](http://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan diperbaharui setiap diskusi mencapai kesepakatan.
 
 Peraturan

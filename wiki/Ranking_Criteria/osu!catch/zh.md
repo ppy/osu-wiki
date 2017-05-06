@@ -1,3 +1,6 @@
+osu!catch Ranking Criteria (中文)
+===================================
+
 **接水果(Catch the Beat)**Ranking规则与指南 ([discussion thread](http://osu.ppy.sh/forum/t/80544/))
 
 规则(Rules)

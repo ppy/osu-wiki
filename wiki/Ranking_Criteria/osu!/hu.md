@@ -1,3 +1,6 @@
+Standard Ranking Criteria (Magyar)
+====================================
+
 **Ranking Criteria – Minősítési Kritériumok**
 
 A szabályzat már magába foglalja a közelmúltban tárgyalt változásokat. A fórumon megvitatott szabályokból még a régi változat szerepel a szabályzatban, de frissítésre kerülnek, amint megállapodás születik a változtatásokkal kapcsolatban.
