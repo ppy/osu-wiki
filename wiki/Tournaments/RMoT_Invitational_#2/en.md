@@ -1,6 +1,6 @@
 # RMoT Invitationals 2
 
-The Rapid Monthly osu! Tournament Invitationals #2 is a tournament organized and ran by the Rapid Tournaments team.
+The Rapid Monthly osu! Tournament Invitationals /#2 is a tournament organized and ran by the Rapid Tournaments team.
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
 ## Schedule
@@ -28,7 +28,7 @@ The RMoT Invitationals are traditionally held over two weekends.
 
 ## Prizes
 
-The Prizes are handed out in the form of Points. 36 points can be redeemed for a month of osu! Supporter. Invitational winners are awarded twice the amount awarded in RMoT's.
+The Prizes are handed out in the form of Points. every 36 points can be redeemed for a month of osu!supporter. Invitational winners are awarded twice the amount awarded in RMoT's.
 The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 points etc..
 
 ## Players
@@ -56,7 +56,7 @@ The filler players are chosen according to a few criteria in the following prior
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
 1. Number of times reached QF
 1. Number of times participated in RMoT
-1. Current PP (peppy points)
+1. Current PP
 
 [![](/wiki/shared/flag/Se.gif)ErroTheCube](), [![](/wiki/shared/flag/Pl.gif)bsurma]() and [![](/wiki/shared/flag/Nl.gif)Senpaii Hentaii]() gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other two.
 
