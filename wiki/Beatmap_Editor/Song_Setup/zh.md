@@ -1,45 +1,54 @@
-歌曲设置是[制图中很重要的一个界面](制图 "wikilink")，它包含了制作规范谱面的诸多重要信息的设定。 <img src="Song Setup nav.jpg" title="fig:歌曲设置的位置" alt="歌曲设置的位置" width="350" />
+Song Setup (中文)
+====================
+
+歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
+
+![歌曲设置的位置](img/Song_Setup_nav.jpg "歌曲设置的位置")
 
 基本设定(General)
 -----------------
 
 ### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
 
-<img src="Song Setup.jpg" title="fig:完整的元数据样例" alt="完整的元数据样例" width="250" /> <img src="SS Difficulty Settings.jpg" title="fig:难度设定选项卡" alt="难度设定选项卡" width="250" /> 并非所有歌曲都需要在“Source”字段中填写内容。Source只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
+![完整的元数据样例](img/Song_Setup.jpg "完整的元数据样例")
+
+![难度设定选项卡](img/SS_Difficulty_Settings.jpg "难度设定选项卡")
+
+并非所有歌曲都需要在“Source”字段中填写内容。Source只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
 
 在“Tags”字段中可以选择填写专辑名，也可选填特定的曲风等信息。
 
 在创建第一个难度时，就应当将这些信息填好，确保所有难度的这些信息一致。
 
--   **Artist:** **<u>主唱乐队、歌手或创作此歌曲的艺术家。</u>** osu!会自动从mp3文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入Tags中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](http://www.animenewsnetwork.com/) 或 [MyAnimeList](http://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
+-   **Artist:** **主唱乐队、歌手或创作此歌曲的艺术家。** osu!会自动从mp3文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入Tags中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](https://www.animenewsnetwork.com/) 或 [MyAnimeList](https://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
 
 <!-- -->
 
--   **Romanised Artist:** **<u>罗马音（英文）化的Artist拼写。</u>**一般按照维基百科上的名字顺序书写。仅当你在“Artist”字段中使用了非英文信息时才需要填写。
+-   **Romanised Artist:** **罗马音（英文）化的Artist拼写。**一般按照维基百科上的名字顺序书写。仅当你在“Artist”字段中使用了非英文信息时才需要填写。
 
 <!-- -->
 
--   **Title:** **<u>歌曲标题。</u>** osu!会自动从mp3文件中读取标题，但请检查一下以确保它们拼写正确，特别是对于从网上获取的mp3文件。
+-   **Title:** **歌曲标题。** osu!会自动从mp3文件中读取标题，但请检查一下以确保它们拼写正确，特别是对于从网上获取的mp3文件。
 
 <!-- -->
 
--   **Romanised Title:** **<u>罗马音（英文）化的Title拼写。</u>** 同样，仅当你在“Title”字段中使用了非英文信息时才需要填写。
+-   **Romanised Title:** **罗马音（英文）化的Title拼写。** 同样，仅当你在“Title”字段中使用了非英文信息时才需要填写。
 
 <!-- -->
 
--   **Beatmap Creator:** **就是你。** osu!会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](ZH:Guest_Difficulty "wikilink")，那么应当在下面的字段中填写，而不是这里。
+-   **Beatmap Creator:** **就是你。** osu!会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](/wiki/Glossary)，那么应当在下面的字段中填写，而不是这里。
 
 <!-- -->
 
--   **Difficulty:** **<u>该谱面难度名称。</u>** 下拉列表中包含预设的几个名称：Easy, Normal, Hard, Insane。你可以选择其中之一，或者使用自定义难度名。在难度名上有新意是不错的选择，但确保玩家能够清楚地理解各个难度的确切难度。如果你邀请了其他mapper创作难度，也可以在此体现（比如 "Larto's Hard"）。
+-   **Difficulty:** **该谱面难度名称。** 下拉列表中包含预设的几个名称：Easy, Normal, Hard, Insane。你可以选择其中之一，或者使用自定义难度名。在难度名上有新意是不错的选择，但确保玩家能够清楚地理解各个难度的确切难度。如果你邀请了其他mapper创作难度，也可以在此体现（比如 "Larto's Hard"）。
 
 <!-- -->
 
--   **Source:** **<u>歌曲的来源。</u>** 这个字段仅用于动漫/游戏歌曲中，有时也用于其他作品（电影、电视、网络）的歌曲当中。如果歌曲来源于某个动漫或游戏，或知名电影/电视节目，就填写这些内容。摇滚和流行歌曲应当留空此项。**这里并不用于填写专辑名等信息。**
+-   **Source:** **歌曲的来源。** 这个字段仅用于动漫/游戏歌曲中，有时也用于其他作品（电影、电视、网络）的歌曲当中。如果歌曲来源于某个动漫或游戏，或知名电影/电视节目，就填写这些内容。摇滚和流行歌曲应当留空此项。**这里并不用于填写专辑名等信息。**
 
 <!-- -->
 
--   **Tags:** **<u>用于搜索的关键词。</u>** 通常包含专辑名、guest difficulty的制作者、游戏制作者以及其他搜索此歌曲时可以填入的关键词等。如果谱面包含合作部分，合作者的名字也应填写在此。Tags的各项使用空格分隔。这并非强制的，但对于搜索歌曲大有帮助。
+-   **Tags:** **用于搜索的关键词。** 通常包含专辑名、guest difficulty的制作者、游戏制作者以及其他搜索此歌曲时可以填入的关键词等。如果谱面包含合作部分，合作者的名字也应填写在此。Tags的各项使用空格分隔。这并非强制的，但对于搜索歌曲大有帮助。
     -   注: 如果你的谱面中的Tas包含了"qwertyuiop"，那么在游戏中输入"qwertyuiop"即可找到此谱面。
 
 再次说明，请确保以上信息（除了难度名）在每个难度中都保持相同。
@@ -53,21 +62,23 @@
 
 在编辑模式的歌曲选择界面中显示为"**HP**"。
 
-掉血率，除了在[休息时段外保持恒定](ZH:break "wikilink")。miss会导致更多的扣血，通过[得分和转盘可以回血](Score#osu.21_Scoring_Values "wikilink")。通过一组物件末尾的[“激”和“喝”可以回复更多血量](Score#osu.21_Scoring_Values "wikilink")。
+掉血率，除了在[休息时段外保持恒定](/wiki/Glossary)。miss会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Score)。
 
 ### Note大小设定(Circle Size)
 
 在编辑模式的歌曲选择界面中显示为"**CS**"。
 
-<img src="Circle sizes.png" title="fig:圆圈大小概览" alt="圆圈大小概览" width="250" /> 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
+![圆圈大小概览](img/Circle_sizes.png "圆圈大小概览")
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](ZH:Game_Modifiers#Hard_Rock "wikilink") mod见到。这里有[使用CS3, 5, 6, 7](http://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](http://osu.ppy.sh/s/1208)的例子。
+这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
 
-可以通过手动编辑.osu文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
+大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/s/1208)的例子。
+
+可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
 ### 缩圈时间(Approach Rate)
 
-<img src="ARTable.png" title="AR细节总表（点击放大）" alt="AR细节总表（点击放大）" width="250" />
+![AR细节总表](/wiki/shared/ARTable.jpg "AR细节总表")
 
 在编辑模式的歌曲选择界面中显示为"**AR**"。
 
@@ -79,10 +90,10 @@ Approach Rate通常缩写为"**AR**"。
 
 每张谱面的AR设定范围是AR0到AR10。有四个mod可以更改AR，它们是：
 
--   [Hard Rock](ZH:HR "wikilink"): AR增加40%，最多增加到AR10。
--   [Double Time](ZH:DT "wikilink"): AR变快50%，与HR的AR增长不同，它是以毫秒计时增长的，最多增加到AR11。
--   [Easy](ZH:EZ "wikilink"): AR减半。
--   [Half Time](ZH:HT "wikilink"): AR降低33%，以毫秒计时，可以低于0。
+-   [Hard Rock](/wiki/Game_Modifiers): AR增加40%，最多增加到AR10。
+-   [Double Time](/wiki/Game_Modifiers): AR变快50%，与HR的AR增长不同，它是以毫秒计时增长的，最多增加到AR11。
+-   [Easy](/wiki/Game_Modifiers): AR减半。
+-   [Half Time](/wiki/Game_Modifiers): AR降低33%，以毫秒计时，可以低于0。
 
 #### 技术细节(Technical)
 
@@ -106,31 +117,33 @@ Approach Rate通常缩写为"**AR**"。
 
 与AR类似，同样是下列四个mod会对OD产生影响：
 
--   [Easy](ZH:EZ "wikilink"): OD折半。
--   [Hard Rock](ZH:HR "wikilink"): OD值乘1.4，最大增长到OD10。
--   [Double Time](ZH:DT "wikilink"): 增长OD值使得判定区间缩短33%。
--   [Half Time](ZH:HT "wikilink"): 降低OD值使得判定区间增长50%。
+-   [Easy](/wiki/Game_Modifiers): OD折半。
+-   [Hard Rock](/wiki/Game_Modifiers): OD值乘1.4，最大增长到OD10。
+-   [Double Time](/wiki/Game_Modifiers): 增长OD值使得判定区间缩短33%。
+-   [Half Time](/wiki/Game_Modifiers): 降低OD值使得判定区间增长50%。
 
-<img src="ODTable.png" title="fig:OD细节总表（点击放大）" alt="OD细节总表（点击放大）" width="800" /> **注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](ZH:Hit_Objects#Hit_Circle "wikilink")（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
+![OD细节总表](img/ODTable.jpg "OD细节总表")
+
+**注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
 
 ### 星数评价(Approximate Difficulty Rating)
 
-这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](ZH:Score "wikilink")。但这并不等于谱面的最终星数，仅是一个粗略的估计。
+这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
 
 音效(Audio)
 -----------
 
-<embed src="SongSetup_AudioFrame_1.png‎" title="SongSetup_AudioFrame_1.png‎" width="250" />
+![Audio section](img/SS_Audio.jpg "Audio section")
 
 ### 默认音效设定(Default Sample Settings)
 
 这里你可以设定你喜欢并且适合谱面的音效.
 
-如果你用[timing](timing "wikilink")(绿线或红线) 改变了音效或者音效的音量, 你就不能在这里设定音效及其音量了. 你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线.
+如果你用[timing](/wiki/Beatmap_Editor/Timing)(绿线或红线) 改变了音效或者音效的音量, 你就不能在这里设定音效及其音量了. 你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线.
 
 #### 音效选择(Sample Set Selection)
 
-你可以在这里设定适合谱面osu!自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](ZH:Custom_Sample_Overrides "wikilink"),必须先把音效文件放在谱面所在文件夹).
+你可以在这里设定适合谱面osu!自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
 
 #### 音效音量大小(Sample Set Volume)
 
@@ -143,7 +156,7 @@ Approach Rate通常缩写为"**AR**"。
 谱面相关颜色设定(Colours)
 -------------------------
 
-<img src="SS Colours.jpg" title="SS Colours.jpg" alt="SS Colours.jpg" width="250" />
+![Colours section](img/SS_Colours.jpg "Colours section")
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
@@ -156,7 +169,9 @@ Approach Rate通常缩写为"**AR**"。
 外观设计设定(Design)
 --------------------
 
-<img src="SS Design.png" title="fig:SS Design.png" alt="SS Design.png" width="250" /> 这个选项卡(Design)中的设定，允许你设定关于你的storyboard和谱面的一些可视元素。
+![Design section](img/SS_Storyboarding.jpg "Design section")
+
+ 这个选项卡(Design)中的设定，允许你设定关于你的storyboard和谱面的一些可视元素。
 
 ### 倒计时(Countdown)
 
@@ -186,12 +201,14 @@ Approach Rate通常缩写为"**AR**"。
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
-这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820). [点击打开图像](Media:SS_Skin_eg.jpg "wikilink")
+这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+
+![点击打开图像](img/SS_Skin_eg.jpg)
 
 高级设定(Advanced)
 ------------------
 
-<img src="SS Advanced.jpg" title="fig:SS Advanced.jpg" alt="SS Advanced.jpg" width="250" />
+![Advanced section](img/SS_Advanced.jpg "Advanced section")
 
 ### 物件堆叠设定(Stack Leniency)
 
@@ -201,8 +218,10 @@ Approach Rate通常缩写为"**AR**"。
 
 注意:**在不知道你在做什么的情况下，不要随意修改这个选项**
 
-堆叠将会自左上往堆叠的重心靠近。[示例](Media:SS_SL_eg.jpg "wikilink")
+堆叠将会自左上往堆叠的重心靠近。
+
+![示例](img/SS_SL_eg.jpg)
 
 ### 谱面适用模式指定(Mode Specific)
 
-通常情况下，谱面对于<abbr title="osu!standard, Taiko, Catch the Beat, osu!mania">四个模式</abbr>来说都是通用的。如果你将此项设定设置为“Taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。
+通常情况下，谱面对于四个模式(osu!standard, osu!taiko, osu!catch, osu!mania)来说都是通用的。如果你将此项设定设置为“osu!taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。

@@ -1,26 +1,37 @@
-![BanchoBot's tab.](BanchoBot.jpg "BanchoBot's tab.") **BanchoBot** is a bot (i.e. a set of commands with automated responses) programmed by that can assists people in chat by displaying certain information and announcing game-related messages. BanchoBot is your host for the [osu!chat server](IRC "wikilink") and has a profile named .
+# BanchoBot
 
-Appearance and task
--------------------
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
-### !help
+BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by that can assists people in chat by displaying certain information and announcing game-related messages.
+BanchoBot is your host for the [osu!chat server](/wiki/Internet_Relay_Chat) and has a profile named _[BanchoBot](https://osu.ppy.sh/u/3)_.
 
--   Opens BanchoBot tab on your chat console. It will show you a list of commands as stated in the table.
-    -   If you have called BanchoBot tab, any command you use will appear at BanchoBot tab regardless on which tab you are currently in when you issue the command. (except channel op)
-    -   If you send the COMMAND without an exclamation mark ("!") while in BanchoBot tab, BanchoBot still receives same like when you use /bb
--   You can't use exclamation mark based command on non-BanchoBot Private Message tab.
+## Opening BanchoBot
 
-#### Standard Commands (!COMMAND or /bb COMMAND)
+To open BanchoBot, type in `!help` (or any of the listed commands below) to your chat console (any tab will do).
+Once you do this, the BanchoBot tab will open.
 
-| COMMAND | Effect | Example | BanchoBot response |
-| ------- | ------ | ------- | ------------------ |
-| WHERE (user) | Shows location of stated player | !where John | John is in USA |
-| STATS (user) | Shows status of stated player (based on current player tab) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
-| FAQ (L.code)(item) (list) | Various usage. [list] List of usable commands. | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (reason) | Call for a moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | Show a random recent mod request. [list] Shows 5 random recent mod requests. | !request | Seether - Fake It by [Dellirium] |
-| ROLL (number) | Roll a (virtual) dice and get random result from 1 to (number) (default 100) | !roll 9000 | John rolls 1337 point(s) |
+Doing this will show you a list of commands (the ones in the table below).
+
+## Commands
+
+You can use `!<command>` or `/bb <command>` in any chat tab.
+
+| `<command>`                    | Effect                                                                       | Example                             | Example BanchoBot response                                              |
+|--------------------------------|------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------|
+| `WHERE <user>`                 | Shows location of stated player                                              | `!where John`                       | John is in USA                                                          |
+| `STATS <user>`                 | Shows status of stated player (based on current player tab)                  | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
+| `FAQ <Lang-code><item> <list>` | Various usage. [list] List of usable commands.                               | `!faq wiki` / `!faq ru:wiki`        | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
+| `REPORT <reason>`              | Call for a moderator                                                         | `!report Thomas offending comments` | Chat moderators has been alerted. Thanks for your help.                 |
+| `REQUEST <list>`               | Show a random recent mod request. [list] Shows 5 random recent mod requests. | `/bb request`                       | Seether - Fake It by [Dellirium]                                        |
+| `ROLL <number>`                | Roll a (virtual) dice and get random result from 1 to (number) (default 100) | `/bb roll 9000`                     | John rolls 1337 point(s)                                                |
 
 Notes:
 
--   List of maps for REQUEST doesn't update for a long time, so you may even get a map that's ranked already.
+- List of maps for `REQUEST` doesn't update for a long time, so you may even get a map that's ranked already.
+
+## BanchoBot Quirks
+
+- Commands are case insensitive.
+- If you are not on the BanchoBot tab, you must use the `!` or `/bb` prefix.
+- If you have already called BanchoBot (with tab available), any command you use will still appear at the BanchoBot tab regardless of the tab you are currently in when you issue the command.
+- You can enter commands to BanchoBot without the `!` or `/bb` prefix (only works when submitted to BanchBot tab).

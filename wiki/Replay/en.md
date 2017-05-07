@@ -253,7 +253,7 @@ The `Options` sidebar cannot be reopened while playing or in results screen.
 
 ### Server
 
-[A server replay example][Replay server]
+![A server replay example][Replay server]
 
 _A server replay_
 

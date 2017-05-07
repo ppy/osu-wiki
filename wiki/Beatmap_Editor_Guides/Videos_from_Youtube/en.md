@@ -1,3 +1,6 @@
+Videos from YouTube
+======================
+
 [*The Painless Add Video To Beatmap Process walkthrough.* by: Gilrad](https://osu.ppy.sh/forum/t/639/)
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
 
@@ -18,4 +21,4 @@ How to download videos from YouTube
 
 ### Loading video in osu!
 
-Open your beatmap and press F2, click Insert Background Video. Use the slider below to adjust the start time offset and voila, your done.
+Open your beatmap and press `F2`, click Insert Background Video. Use the slider below to adjust the start time offset and voila, your done.

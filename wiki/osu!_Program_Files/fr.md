@@ -1,4 +1,4 @@
-osu! Program Files - French
+osu! Program Files (Français)
 =============================
 
 ![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")

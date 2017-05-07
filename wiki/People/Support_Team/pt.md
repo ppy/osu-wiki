@@ -1,7 +1,10 @@
+Equipe de Suporte
+====================
+
 **Equipe de Suporte** (normalmente chamados de **Support Team**, também conhecidos como "Support Team Redux" e não são relacionados com o account support team) são membros da equipe do osu! que tem foco em vários subforums: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (com exceção de [Tournaments](https://osu.ppy.sh/forum/55) e [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), e [Technical Support](https://osu.ppy.sh/forum/5).
 
 Responsabilidades
-=================
+--------------------
 
 A Equipe de Suporte é responsável por:
 
@@ -11,7 +14,8 @@ A Equipe de Suporte é responsável por:
 Se alguém precisar de assistência nos subfórums mencionados, eles devem ser os primeiros a quem recorrer.
 
 Membros da Equipe
-=================
+---------------------
+
 *Todos os membros da Equipe de Suporte falam Inglês, a não ser que seja indicado abaixo. [Página da Equipe de Suporte](https://osu.ppy.sh/g/22).*
 
 | Nomes | Idiomas adicionais |

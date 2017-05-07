@@ -1,21 +1,24 @@
-**SB Load** (short for storyboard load) is a number used in [Storyboarding](Storyboarding "wikilink") to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
+SB Load
+==========
+
+**SB Load** (short for storyboard load) is a number used in [Storyboarding](/wiki/Storyboards) to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
 
 Without any storyboarding, this value is 1x (as the 640x480 space needs to be drawn once). Including a single image that takes up exactly half of the screen would result in 1.5x; two images that overlap entirely and take up half of the screen would result in 2x.
 
 It's best if a map never exceeds 5x SB Load. This ensures that the map is viewable to most players without causing undue stress on graphics hardware.
 
-[Original Forum Post](http://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
+[Original Forum Post](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
 
 Where It's Displayed
 --------------------
 
--   Testing in [Beatmap Editor](Beatmap_Editor "wikilink").
--   [Storyboard Editor](Storyboard_Editor "wikilink"), though numbers may not be as accurate.
+-   Testing in [Beatmap Editor](/wiki/Beatmap_Editor).
+-   [Storyboard Editor](/wiki/Beatmap_Editor/Design), though numbers may not be as accurate.
 
 Suggestions for Reduction
 -------------------------
 
-From [Reducing SB Load](http://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177):
+From [Reducing SB Load](https://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177):
 
 Here are some important suggestions for reducing the strain that a storyboard can put on a player's computer. I apologize that this is a bit wordy, the actual ideas aren't that complicated, I just talk a lot. I'll bold the important bits.
 
@@ -29,7 +32,7 @@ So what do you do?
 
 osu! has a redundancy-eliminating feature that will automatically disable your background image from displaying throughout the song if you use that same image anywhere in your storyboard. So if your background image is being used as a background for just one "scene" of your storyboard, or if it's part of a slideshow-type deal, just call your image into the SB in the same way as you call all the other images, and everything will be fine.
 
-But if you're going to have different storyboard elements going on throughout the whole map, and just want to add an image that will show as a background on the song select menu, and as a thumbnail on the website, then what you do is set the image as a background normally, and then add a single line of SB code under the "//Storyboard Layer 0 (Background)" heading of your .osb (or .osu, if you're doing different things on each difficulty). The line simply calls the background in, and then doesn't do anything with it.
+But if you're going to have different storyboard elements going on throughout the whole map, and just want to add an image that will show as a background on the song select menu, and as a thumbnail on the website, then what you do is set the image as a background normally, and then add a single line of SB code under the "//Storyboard Layer 0 (Background)" heading of your `.osb` (or `.osu`, if you're doing different things on each difficulty). The line simply calls the background in, and then doesn't do anything with it.
 
 **Just replace "background.jpg" with the filename of your image in the following line:**
 
@@ -48,7 +51,7 @@ For every png that you use in your storyboard, osu! has to draw the entire thing
 
 ### Don't forget that you can recolor images using SB coding
 
-I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](Storyboard_Scripting_Commands#Color_/_Colour_(C)_Command "wikilink")" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-colored sprite, and overlaying different colors onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the color this way, for skies and stuff. Just something to consider.
+I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](/wiki/Storyboard_Scripting/Commands/#color---colour--c--command)" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-colored sprite, and overlaying different colors onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the color this way, for skies and stuff. Just something to consider.
 
 Hopefully these tips are of some use to people. I know a lot of people don't know about the background disable feature, so please spread the word, especially if you see somebody using a big empty black image to hide their background image.
 

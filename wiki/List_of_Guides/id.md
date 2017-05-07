@@ -71,8 +71,8 @@ Info Skinning/Hitsound
 -   [Memotong dengan Latar yang Sederhana](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Membuat Spinner yang Berpusat di Tengah](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Apakah yang dimaksud dengan Custom Sample Overrides?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Perpustakaan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Menambahkan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Perpustakaan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
+-   [Menambahkan Hitsound Kustom](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Info Storyboarding
 ------------------
@@ -100,7 +100,7 @@ Gameplay Guides
 
 -   [/wiki/Play Styles](/wiki/Play_Styles)
 -   [Meningkatkan peringkatmu](/wiki/Performance_Points)
--   [Membuat rekaman bagus untuk diunggah ke YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Membuat rekaman bagus untuk diunggah ke YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Siaran Langsung osu!](/wiki/Live_streaming_osu!)
 -   [Cara menggunakan Konsol Obrolan](/wiki/Chat_Console)
 

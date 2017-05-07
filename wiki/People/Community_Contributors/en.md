@@ -1,12 +1,17 @@
-![Contributor Badge](Contributor_Badge.png "Contributor Badge") 
+Community Contributors
+========================
 
-The **Community Contributors** are the people who have taken it upon themselves to provide service to the [osu!](osu!) community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
+![Contributor Badge](Contributor_Badge.png "Contributor Badge")
 
-Not to be mistaken as [osu! Alumni](osu!_Alumni) which are previous osu!team members ([GMT](GMT),[QAT](QAT),etc) that retired, Community Contributors badge are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+The **Community Contributors** are the people who have taken it upon themselves to provide service to the [osu!](/wiki/Glossary) community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
+
+Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous osu!team members ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team) etc) that retired, Community Contributors badge are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 The current users with this badge are noted in this table:
 
-### August 8 2013
+## August 8 2013
+
+_Also see the [osu! community contributors](https://osu.ppy.sh/forum/p/2489459) forum thread._
 
 | User | Contributions |
 | ---- | ------------- |
@@ -26,7 +31,7 @@ The current users with this badge are noted in this table:
 | [Sinistro](https://osu.ppy.sh/u/5530) | Being the first impromptu community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
-### March 2015
+## March 2015
 
 | User | Contributions |
 | ---- | ------------- |
@@ -34,7 +39,9 @@ The current users with this badge are noted in this table:
 | [RaikireHiuduo](https://osu.ppy.sh/u/1570014) | Outstanding contribution to the osu!wiki. |
 | [givenameplz](https://osu.ppy.sh/u/947499) | osu!Rank & osu!Post development. |
 
-### January 2016
+## January 2016
+
+_Also see the [Community Contributor Badges (January 2016)](https://osu.ppy.sh/news/136976187198) announement post._
 
 | User | Contributions |
 | ---- | ------------- |
@@ -47,8 +54,26 @@ The current users with this badge are noted in this table:
 | [Hatsu](https://osu.ppy.sh/u/322480) | Mikuia.tv - osu! twitch bot toolkit development |
 | [Tillerino](https://osu.ppy.sh/u/2070907) | Beatmap recommendation bot development |
 
-### March 2016
+## March 2016
+
+_Also see the [osu!weekly #53](https://osu.ppy.sh/news/141509444448) announement post._
 
 | User | Contributions |
 | ---- | ------------- |
 | [Charles445](https://osu.ppy.sh/u/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
+
+## November 2016
+
+_Also see the [Recognising the Best of the Best](https://osu.ppy.sh/news/152637359823) announement post._
+
+| User | Contributions |
+| ---- | ------------- |
+| [pishifat](https://osu.ppy.sh/u/3178418) | Exemplary performance in beatmap construction and education |
+| [Okorin](https://osu.ppy.sh/u/1623405) | Exceptional leadership in beatmap management affairs |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | Outstanding moderation presence and overall contribution |
+| [Marcin](https://osu.ppy.sh/u/722665) | Outstanding contribution to community affairs, organization and moderation |
+| [LiquidPL](https://osu.ppy.sh/u/5044384) | Outstanding development contribution (osu!next) |
+| [Nyquill](https://osu.ppy.sh/u/682935) | Outstanding community contribution (osu!weekly) |
+| [Derekku](https://osu.ppy.sh/u/91341) | Early community management and moderation |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Outstanding contribution to community affairs |
+| [Shiro](https://osu.ppy.sh/u/113005) | Outstanding contribution to moderation, organization and management |

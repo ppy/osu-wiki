@@ -67,8 +67,8 @@ Guides de skinning/hitsounds
 -   [Recadrer avec un fond simple](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Faire correctement des Spinners centrés](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Utilisation de bruitages différents](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Bibliothèque personnalisé de hitsounds](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Ajouter des hitsounds personnalisés](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Bibliothèque personnalisé de hitsounds](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
+-   [Ajouter des hitsounds personnalisés](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Guides de storyboarding
 -----------------------
@@ -96,7 +96,7 @@ Guides de gameplay
 
 -   [Play Styles](/wiki/Play_Styles)
 -   [Comment augmenter votre rank](/wiki/Performance_Points)
--   [Comment ajouter des vidéos prises de YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Comment ajouter des vidéos prises de YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Live streamer du osu!](/wiki/Live_streaming_osu!)
 -   [Comment utiliser la console de chat?](/wiki/Chat_Console)
 

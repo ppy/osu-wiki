@@ -1,16 +1,19 @@
+Tim Penjamin Kualitas
+========================
+
 **Tim Penjamin Kualitas**, atau yang biasa disebut sebagai **QAT** (singkatan dari *Quality Assurance Team*), adalah hakim jitu kendali kualitas yang akan memeriksa kualitas dan pemutaran permainan beatmap-beatmap yang baru saja memenuhi syarat, dan/atau mencabut kembali status pemenuhan syarat sebagai beatmap yang terdiskualifikasi bila pantas. Mereka membentuk suatu benteng pengendalian standard dan mendesakkan ekspektasi-ekspektasi dasar kualitas untuk semua beatmap yang memasuki proses ranking.
 
 Anggota QAT akan memegang teguh aktifitas standard yang ketat sebagaimana peran mereka yang mengharuskan mereka untuk menjamin kualitas suatu beatmap secara teratur.
 
-Para member di dalam tim ini akan dipromosikan dari [Grup Penominasi Beatmap (BN)](ID:Beatmap_Nomination_Group "wikilink"), dan mereka harus menerima posisi yang ditawarkan. Nama para nggota QAT berwarna merah pada obrolan di dalam permainan dan forum, yang dimana para anggota BN sudah tidak miliki.
+Para member di dalam tim ini akan dipromosikan dari [Grup Penominasi Beatmap (BN)](/wiki/People/Beatmap_Nomination_Group), dan mereka harus menerima posisi yang ditawarkan. Nama para nggota QAT berwarna merah pada obrolan di dalam permainan dan forum, yang dimana para anggota BN sudah tidak miliki.
 
 Anggota Tim
 -----------
 
 [Tautan Grup](http://osu.ppy.sh/g/7)
 
-| Nama | Standard | Taiko | Catch | Mania | Bahasa Tambahan |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Nama | osu! | osu!taiko | osu!catch | osu!mania | Bahasa Tambahan |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | JJepang, beberapa Perancis |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | Spanyol |

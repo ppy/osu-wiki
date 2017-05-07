@@ -1,3 +1,5 @@
+Das Team
+==========
 
 Gründer
 ----------------------
@@ -38,7 +40,7 @@ Inaktive
 | Phil | Forum Design Arbeit |
 | [Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales Pippi Entwurf und Grafikdesign |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
-| [woc2006](https://osu.ppy.sh/u/1105845) | osu! Entwickler Team, osu! Mania Modus Entwickler |
+| [woc2006](https://osu.ppy.sh/u/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
 
 Benutzergruppen
 ----------------------
@@ -48,7 +50,7 @@ Benutzergruppen
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
 | [Entwickler](http://osu.ppy.sh/g/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
-| [osu! alumni](/wiki/People/Osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
+| [osu! alumni](/wiki/People/osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
 | [Support Team Redux](/wiki/People/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
 | [osu!nachichten](http://osu.ppy.sh/g/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
 | [Turnierleitung](http://osu.ppy.sh/g/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |

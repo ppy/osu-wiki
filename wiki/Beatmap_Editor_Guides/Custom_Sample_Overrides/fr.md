@@ -1,8 +1,12 @@
-\_\_NOTOC\_\_ Pour le moment, des sons peuvent êtres implémentés dans les skins et les beatmaps.
+Bruitages
+=============
+
+Pour le moment, des sons peuvent êtres implémentés dans les skins et les beatmaps.
 
 Les fichiers suivants peuvent être remplacés :
 
-### Sons normaux (normal) :
+Sons normaux (normal) :
+------------------------------
 
 -   normal-hitnormal
 -   normal-hitwhistle
@@ -15,7 +19,8 @@ Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vo
 -   normal-sliderwhistle (en boucle)
 -   normal-slidertick
 
-### Sons légers (soft) :
+Sons légers (soft) :
+----------------------
 
 -   soft-hitnormal
 -   soft-hitwhistle
@@ -28,7 +33,8 @@ Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vo
 -   soft-sliderwhistle (en boucle)
 -   soft-slidertick
 
-### Sons de tambour (drum) :
+Sons de tambour (drum) :
+---------------------------
 
 -   drum-hitnormal
 -   drum-hitwhistle
@@ -41,14 +47,16 @@ Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vo
 -   soft-sliderwhistle (en boucle)
 -   soft-slidertick
 
-### Sons universels :
+Sons universels :
+--------------------
 
 -   spinnerspin (La hauteur de ce son augmente à mesure que le spinner augmente. Il va d'environ 500 Hz jusqu'à 80000 Hz tandis que le son original est de 44100 Hz)
 -   spinnerbonus (ding)
 
-### Format du fichier
+Format du fichier
+-------------------
 
-Vous pouvez utiliser un .wav ou un .mp3, mais tenez compte de ce qui suit : les fichiers WAVE sont les meilleurs dans tout les cas, puisque les mp3 n'effectueront pas une boucle correcte et auront un petit écart (0-20 ms) avant d'être entendus, ajoutant une variable de latence supplémentaire.
+Vous pouvez utiliser un `.wav` ou un `.mp3`, mais tenez compte de ce qui suit : les fichiers WAVE sont les meilleurs dans tout les cas, puisque les mp3 n'effectueront pas une boucle correcte et auront un petit écart (0-20 ms) avant d'être entendus, ajoutant une variable de latence supplémentaire.
 
 Notez aussi que si vous voulez remplacer les deux sons "normal" et "soft" dans un skin, n'incluez pas simplement le préfixe *normal-* ou *soft-*.
 

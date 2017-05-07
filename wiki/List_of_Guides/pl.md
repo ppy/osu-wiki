@@ -67,8 +67,8 @@ Poradniki dotyczące skinowania/hitsoundów
 -   [Jak przycinać tło w prostych obrazkach?](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Jak poprawnie tworzyć spinner?](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Omówienie Własnych Paczek Dźwięków](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Niestandardowa Biblioteka Dźwięków](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Jak dodać niestandardowe dźwięki?](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Niestandardowa Biblioteka Dźwięków](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
+-   [Jak dodać niestandardowe dźwięki?](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Poradniki dotyczące Storyboardów
 --------------------------------
@@ -96,7 +96,7 @@ Poradniki dotyczące rozgrywki
 
 -   [Style gry](/wiki/Play_Styles)
 -   [Jak zwiększyć swoją rangę](/wiki/Performance_Points)
--   [Jak dobrze nagrywać na YouTube?](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Jak dobrze nagrywać na YouTube?](/wiki/List_of_Guides/Recording_osu!)
 -   [Jak streamować osu!?](/wiki/Live_streaming_osu!)
 -   [Jak używać czatu?](/wiki/Chat_Console)
 

@@ -1,3 +1,6 @@
+Getting songs from Video Games
+===============================
+
 This tutorial is for mappers that want a song from video games, mainly consoles like PS2, GCN/Wii, Xbox 360, etc. It can include portable and older consoles (See SNES, PS1, PSP, N64, NDS, etc.) but it requires more things to get the music from them.
 
 Before you begin
@@ -10,7 +13,7 @@ This tutorial will require several things. These will be listed in case so if yo
 -   **vgmstream decoder plugin.** This tutorial will use the foobar2000 plugin (Used version: r1002) but if you know how to use the standalone version, you can use it.
     *foobar2000 download:* <http://www.foobar2000.org/components/view/foo_input_vgmstream>
     *Standalone version:* <http://hcs64.com/vgmstream.html>
--   **LAME Encoder.** This is required to convert the song to the MP3 format so you can load the song in [osu!](osu! "wikilink") and start mapping!
+-   **LAME Encoder.** This is required to convert the song to the MP3 format so you can load the song in [osu!](/wiki/Glossary) and start mapping!
     *Download:* <http://www.rarewares.org> (Select LAME Bundles in the MP3 menu)
 -   **An extracted backup from your game.** This is required to get your desired song. However, you should get the backup by yourself.
     This tutorial will use *Paper Mario: The Thousand Year Door* as our game.
@@ -18,7 +21,9 @@ This tutorial will require several things. These will be listed in case so if yo
 Starting up
 -----------
 
-<img src="GameMusicTutorial-Screen1.jpg" title="fig:Inside of our music folder. Look that we are on the sound/stream folder." alt="Inside of our music folder. Look that we are on the sound/stream folder." width="200" /> First download and install the required applications in your computer (If you don't have done yet). Once you have them installed, open foobar2000 and open Windows Explorer to the music folder of your extracted backup.
+![Inside of our music folder. Look that we are on the sound/stream folder.](GameMusicTutorial-Screen1.jpg "Inside of our music folder. Look that we are on the sound/stream folder.")
+
+First download and install the required applications in your computer (If you don't have done yet). Once you have them installed, open foobar2000 and open Windows Explorer to the music folder of your extracted backup.
 *Note: The name of the folder can vary depending of the game. The usual names for the music folder are **stream, sound, bgm, music**.*
 *Note 2: Some games use a different extension or not extension at all due to engine limitations/programmer whines/whatever reason. Usually a Google search can give you information about those specific games.*
 

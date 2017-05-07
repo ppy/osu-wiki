@@ -1,4 +1,4 @@
-List of Guides - Russian
+List of Guides (Русский)
 =================
 
 Большинство руководств (гайдов) ещё не перенесено на вики и существует только в виде тем на форумах (более того — на английском языке). Полный список гайдов можно увидеть [здесь](https://osu.ppy.sh/forum/t/60228). Вы также можете открыть английскую версию статьи, если нужный вам гайд не существует в переводе.
@@ -72,8 +72,8 @@ FAQ и критерии ранкинга
 -   [Как вырезать объект из простого фона?](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
 -   [Как отцентрировать спиннер?](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
 -   [Что такое нестандартные хитсаунды?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Библиотека нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Custom_Hitsound_Library)
--   [Добавление нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hitsounds)
+-   [Библиотека нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
+-   [Добавление нестандартных хитсаундов](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
 
 Сторибординг
 ------------
@@ -101,7 +101,7 @@ FAQ и критерии ранкинга
 
 -   [Стили игры](/wiki/Play_Styles)
 -   [Как поднять ранк](/wiki/Performance_Points)
--   [Как записать геймплей для YouTube](/wiki/List_of_Guides/Making_nice_recording_for_Youtube)
+-   [Как записать геймплей для YouTube](/wiki/List_of_Guides/Recording_osu!)
 -   [Как стримить osu!](/wiki/Live_streaming_osu!)
 -   [Как пользоваться чатом?](/wiki/Chat_Console)
 

@@ -1,13 +1,16 @@
-L**'équipe de certification de qualité des beatmaps**, connue sous l'acronyme de QAT (*Quality Assurance Team*), est un groupe de joueurs chargés de contrôler la qualité des beatmaps mises en statut "Qualified" par les [BN](FR:BN "wikilink"). Si une map vient à être acceptée par les QAT après le passage des BN, la map en question devient [classée](FR:Beatmap_Approval#Rank "wikilink").
-Ils possèdent aussi des droits de modération dans les canaux de discussion et leur nom en rouge, au même titre que les [GMT](FR:GMT "wikilink").
+Équipe de certification de qualité des beatmaps
+===============================================
+
+L**'équipe de certification de qualité des beatmaps**, connue sous l'acronyme de QAT (*Quality Assurance Team*), est un groupe de joueurs chargés de contrôler la qualité des beatmaps mises en statut "Qualified" par les [BN](/wiki/People/Beatmap_Nomination_Group). Si une map vient à être acceptée par les QAT après le passage des BN, la map en question devient [classée](/wiki/Submission/Beatmap_Ranking_Procedure).
+Ils possèdent aussi des droits de modération dans les canaux de discussion et leur nom en rouge, au même titre que les [GMT](/wiki/People/Global_Moderation_Team).
 
 Membres de l'équipe
 -------------------
 
 [Lien vers le groupe](http://osu.ppy.sh/g/7)
 
-| Nom | Standard | Taiko | Catch | Mania | Langues parlées |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Nom | osu! | osu!taiko | osu!catch | osu!mania | Langues parlées |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [alacat](https://osu.ppy.sh/u/869782) | ![Yes](/wiki/shared/Insane-s.png "Yes") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | japonais, un peu de français |
 | [Blocko](https://osu.ppy.sh/u/4075092) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | |
 | [DakeDekaane](https://osu.ppy.sh/u/1425253) | ![No](/wiki/shared/Na-s.png "No") | ![Yes](/wiki/shared/Insane-t.png "Yes") | ![No](/wiki/shared/Na-f.png "No") | ![No](/wiki/shared/Na-m.png "No") | espagnol |

@@ -1,9 +1,12 @@
-**Beatmap Nomination Group** は一般的にBNと呼ばれ、譜面の[Rankに関して司るチームです](JP:Ranked_Beatmap "wikilink")。このグループは近年多くの変更があり、2014年8月22日にスタッフの一部ではなくなり、ゲーム内におけるモデレータ権限とフォーラムなどでの赤い名前などを失いました。最近の変更では2015年2月1日にBeatmap Appreciation Team、通称BATと呼ばれていたチームからこのBeatmap Nominator Groupというチームへ名称が変わり、また赤い名前の表示もフォーラムでされなくなりました。
+Beatmap Nomination Group (日本語)
+========================================
+
+**Beatmap Nomination Group** は一般的にBNと呼ばれ、譜面の[Rankに関して司るチームです](/wiki/Beatmaps)。このグループは近年多くの変更があり、2014年8月22日にスタッフの一部ではなくなり、ゲーム内におけるモデレータ権限とフォーラムなどでの赤い名前などを失いました。最近の変更では2015年2月1日にBeatmap Appreciation Team、通称BATと呼ばれていたチームからこのBeatmap Nominator Groupというチームへ名称が変わり、また赤い名前の表示もフォーラムでされなくなりました。
 
 役割とその責務について
 ----------------------
 
-**Beatmap Nomination Group** のグループメンバーは主に譜面のRankingのプロセスのために[pending譜面の](JP:Pending_Beatmap "wikilink") [Modに関して管理する責任があります](JP:Modding "wikilink")。 BNはModをしに行ったり、mappingやmoddingに関してのアドバイスをします。
+**Beatmap Nomination Group** のグループメンバーは主に譜面のRankingのプロセスのために[pending譜面の](/wiki/Beatmaps) [Modに関して管理する責任があります](/wiki/Modding)。 BNはModをしに行ったり、mappingやmoddingに関してのアドバイスをします。
 
 BNになるには
 ------------
@@ -15,8 +18,8 @@ BNになるには
 
 *注意点: 全てのBNは何か記載されていなければ英語を話します。* [Link](http://osu.ppy.sh/g/28)
 
-| Names | Standard | Taiko | Catch | Mania | Additional Languages |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Names | osu! | osu!taiko | osu!catch | osu!mania | Additional Languages |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesian |

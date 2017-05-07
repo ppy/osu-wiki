@@ -1,4 +1,4 @@
-Storyboard Scripting Miscellaneous - Japanese
+Storyboard Scripting Miscellaneous (日本語)
 =======================================
 
 Storyboardのコード短縮化

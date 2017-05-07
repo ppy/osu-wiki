@@ -1,4 +1,4 @@
-Short Rules - Russian
+Short Rules (Русский)
 ======================
 
 **Правило №1**

@@ -1,6 +1,10 @@
-![BanchoBot.](BanchoBot.jpg "fig:BanchoBot.") El anfitrión del [chat de osu!](ES:IRC "wikilink").
+# BanchoBot (Español)
 
-¡ tiene un perfil!
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
+
+El anfitrión del [chat de osu!](/wiki/Internet_Relay_Chat).
+
+¡tiene un perfil!
 
 Apariencia y tareas
 -------------------
@@ -15,9 +19,9 @@ Apariencia y tareas
 #### Comandos (!COMMAND o /bb COMMAND)
 
 | COMANDO | Efecto | Ejemplo | Respuesta de BanchoBot |
-| ------- | ------ | ------- | ------------------ |
+| ------- | ------ | ------- | ---------------------- |
 | WHERE (user) | Muesta la ubicación de cierto jugador | !where John | John is in USA |
-| STATS (user) | Muestra las estadísticas de cierto jugador (basado en la conversación actual) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| STATS (user) | Muestra las estadísticas de cierto jugador (basado en la conversación actual) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | FAQ (L.code)(item) (list) | Uso variado. [list] Lista de comandos usables | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
 | REPORT (reason) | Solicitar a un moderador | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | Muestra un beatmap reciente para modear aleatorio. [list] Muestra 5 solicitudes de modeo recientes aleatorias | !request | Seether - Fake It by [Dellirium] |
