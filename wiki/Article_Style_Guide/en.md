@@ -24,7 +24,23 @@ If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://g
 
 You could also ask for some help in the [osu!dev discord](https://discord.gg/ppy).
 
-## File names
+
+## Folder Names
+
+All folders names must **never** contain any characters that will require precent encoding!
+
+URL reserved characters will include but is not limited to `;`, `/`, `?`, `:`, `@`, `&`, and `#`.
+
+Basically, just use numbers 0 - 9, letters A - Z and a - z, exclaimation marks (`!`), underscores (`_`), and hyphens (`-`).
+
+### Index Pages
+
+All folders **must** contain a page of some kind, even if they are _index_ pages (pages that link to other pages).
+
+Index pages **should** contain descriptions of what they link to.
+Index pages **should** only link to their own subfolders.
+
+## File Names
 
 All articles in the `osu-wiki` repository uses the ISO 639-1 codes.
 The ISO 639-1 is a 2-lettered language code.
@@ -146,6 +162,19 @@ All section headings are to be using levels 2 to 5 headings.
 
 Section headings should **never** skip a heading levels.
 For example: do not go from a level 2 heading to a level 4 heading.
+
+All sections **must** contain some content, even those that act like a container for subsections.
+
+```
+## Game Modes
+
+_Also see [Glossary](/wiki/Glossary)._
+
+### osu!
+
+osu! is a frustrating but fun circle clicking simulator.
+
+```
 
 Section headings must **never** have a link in it.
 Instead place the link underneath the section heading.
@@ -696,12 +725,6 @@ For example:
 
 ## Miscellaneous
 
-- All folders names should **not** use the hashtag character (`#`), this will require precent encoding!
-- All folders **must** contain a page of some kind, even if they are _index_ pages (pages that link to other pages).
-  - Index pages **should** contain descriptions of what they link to.
-  - Index pages **should** only link to their own subfolders.
-- All sections **must** contain some content, even those who contains subsections.
-  - `_Also see [Glossary](/wiki/Glossary)._`
 - These words are spelt as follows (note the space):
   - `hit circles`
   - `approach circles`
