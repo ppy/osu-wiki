@@ -498,7 +498,6 @@ Article links must follow these rules:
 - Must **not** specify the specific file name **regardless of language** (osu!wiki will handle this).
   - do: `[Glossary](/wiki/Glossary/)`
   - do **not**: `[Glossary](/wiki/Glossary/fr.md)`
-- Must not link to section headings (section headings on osu!wiki does not work).
 - It is possible to specify the locale name using `?locale=XX`.
   - However, this is **heavily discouraged** since this will force readers into a different language than what they may want.
 
