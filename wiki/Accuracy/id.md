@@ -58,21 +58,23 @@ Tampilan Hasil
 
 Ini menunjukkan tingkatan yang kamu peroleh, ikhtisar dari objek yang kamu peroleh, dan juga persen akurasi yang sebenarnya. Untuk detail lebih lanjut, lihat [Skor](/wiki/Score).
 
-![Contoh untuk osu!](Accuracy_osu!_Small.jpg "Contoh untuk osu!")![Contoh untuk Taiko](Accuracy_Taiko_Small.jpg "Contoh untuk Taiko")
-![Contoh untuk Catch the Beat](Accuracy_CtB_Small.jpg "Contoh untuk Catch the Beat")![Contoh untuk osu!mania](Accuracy_Mania_Small.jpg "Contoh untuk osu!mania")
+![Contoh untuk osu!](img/standard.jpg "Contoh untuk osu!")
+![Contoh untuk Taiko](img/taiko.jpg "Contoh untuk Taiko")
+![Contoh untuk Catch the Beat](img/catch.jpg "Contoh untuk Catch the Beat")
+![Contoh untuk osu!mania](img/mania.jpg "Contoh untuk osu!mania")
 
 ### Grafik Performa
 
 
 Ini menunjukkkan grafik dari performa yang kamu lakukan selama bermain. Informasi tambahan akan muncul jika kamu mengarahkan kursormu ke sana:
 
-![Grafik Performa](Accuracy_TR.jpg "Grafik Performa")
+![Grafik Performa](img/tr.jpg "Grafik Performa")
 
 #### Akurasi
 
 | Term | Meaning |
 | ---- | ------- |
-| Kesalahan | **Kedua nilai ini memrepresentasikan seberapa jauh ketukan yang terlalu cepat, dan seberapa jauh ketukan yang terlambat.** Semakin tinggi [nilai OD](/wiki/Song_Setup) sebuah beatmap yang kamu mainkan, nilai ini akan semakin rendah pula. |
+| Kesalahan | **Kedua nilai ini memrepresentasikan seberapa jauh ketukan yang terlalu cepat, dan seberapa jauh ketukan yang terlambat.** Semakin tinggi [nilai OD](/wiki/Beatmap_Editor/Song_Setup) sebuah beatmap yang kamu mainkan, nilai ini akan semakin rendah pula. |
 | Laju Ketidakstabilan | **Nilai ini merepresentasikan seberapa konsistenkah kamu dalam hal menekan objek ketukan**, dengan nilai yang lebih kecil lebih baik (pemain jago sering memiliki skor di bawah 150). Tolong diingat ini menandakan konsistensi, dan bukan akurasi, jadi jika kamu konsisten dalam menekan **15ms** lebih cepat kamu akan mendapatkan nilai yang hampir sama dengan menekan tepat waktu. Formula pada dasarnya adalah simpangan standar dari **hit error** (dalam milisekon) dikalikan dengan 10. |
 
 #### Putaran [hanya osu!standar]

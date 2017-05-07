@@ -1,8 +1,11 @@
+Contributeurs
+=================
+
 ![Badge du contributeur](Contributor_Badge.png "Badge du contributeur")
 
 Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs ayant beaucoup aidé au développement d'osu! et qui se sont fortement impliqués dans le développement de la communauté. Ces utilisateurs ont reçu un badge pour montrer qu'ils ont rendu service à toute la communauté par leurs actes.
 
-À la différence des [osu!Alumnis](/wiki/People/Osu!_Alumni) qui sont d'anciens membres du staff, les contributeurs sont des joueurs qui, peu importe leur grade, ont grandement contribué à l'amélioration d'osu! et fait grandir la communauté.
+À la différence des [osu!Alumnis](/wiki/People/osu!_Alumni) qui sont d'anciens membres du staff, les contributeurs sont des joueurs qui, peu importe leur grade, ont grandement contribué à l'amélioration d'osu! et fait grandir la communauté.
 
 Les joueurs possédant ce grade sont notés ici :
 
@@ -21,7 +24,7 @@ Les joueurs possédant ce grade sont notés ici :
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Développement et maintenance d'[osu!stats](http://osustats.ppy.sh/) ainsi que d'un grand nombre d'outils pour la communauté. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Performance extraordinaire dans le test de nouvelles fonctionnalités, la correction de bugs et le support technique. |
 | [DeathxShinigami](https://osu.ppy.sh/u/49516) | Plus de trois années passés à créer des [packs de beatmaps](http://osu.ppy.sh/p/packlist) et à maintenir les charts. |
-| [LuigiHann](https://osu.ppy.sh/u/1079) | Des années de travaux sur l'interface graphique et le [storyboarding](/wiki/Storyboarding). Développeur du skin original d'osu!. |
+| [LuigiHann](https://osu.ppy.sh/u/1079) | Des années de travaux sur l'interface graphique et le [storyboarding](/wiki/Storyboards). Développeur du skin original d'osu!. |
 | [awp](https://osu.ppy.sh/u/2650) | L'un des premiers managers et modérateurs de la communauté. Contributions significatives sur le long terme. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Premier manager de la communauté et modérateur, qui a mis la barre extrêmement haut pour [l'équipe de modération](/wiki/People/Global_Moderation_Team) actuelle. |
 | [Ivalset](https://osu.ppy.sh/u/827) | Premier manager du staff et des BAT. A formé une équipe d'élite de modération des beatmaps à partir de rien. |

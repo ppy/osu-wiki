@@ -62,20 +62,22 @@ Tela de Resultados
 
   Isso mostra sua nota, a lista de erros e acertos, e porcentagem de precisão. Para mais detalhes, veja [Pontuação](/wiki/Score).
 
-![Modo osu!](Accuracy_osu!_Small.jpg "Modo osu!") ![Modo Taiko](Accuracy_Taiko_Small.jpg "Modo Taiko")
-![Modo Catch the Beat](Accuracy_CtB_Small.jpg "Modo Catch the Beat") ![Modo osu!mania](Accuracy_Mania_Small.jpg "Modo osu!mania")
+![Modo osu!](img/standard.jpg "Modo osu!")
+![Modo Taiko](img/taiko.jpg "Modo Taiko")
+![Modo Catch the Beat](img/catch.jpg "Modo Catch the Beat")
+![Modo osu!mania](img/mania.jpg "Modo osu!mania")
 
 ### Gráfico de Performance
 
   Isso mostra um gráfico de sua performance durante a partida. Informação adicional é mostrada quando você posiciona o cursor acima do gráfico:
 
-![Gráfico de Performance](Accuracy_TR.jpg "Gráfico de Performance")
+![Gráfico de Performance](img/tr.jpg "Gráfico de Performance")
 
 #### Precisão
 
 | Term | Meaning |
 | ---- | ------- |
-| Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](/wiki/Song_Setup) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
+| Erro | **Esses dois valores representam respectivamente o quão atrasado e adiantado você chegou a acertar notas.** Quanto maior for o [valor de Dificuldade em geral](/wiki/Beatmap_Editor/Song_Setup) do beatmap que estiver jogando, mais baixo esses valores terão que ser para se sair bem. |
 | Taxa de Instabilidade | **Este valor representa o quão consistentemente você cronometra seus acertos **, com números mais baixos sendo melhores (os melhores jogadores, muitas vezes obtém pontuação abaixo de 150). Note que isso é uma medição de consistência, e não de precisão, por isso, se você é consistente em acertar 15ms cedo, você poderá obter resultados semelhantes aos se você é consistente em bater no tempo. A fórmula é, essencialmente, o padrão de desvio dos seus erros de cronometragem (em milissegundos) multiplicado por 10. |
 
 #### Giro [apenas em standard]

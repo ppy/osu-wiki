@@ -1,3 +1,6 @@
+osu! Alumni
+==============
+
 **osu! Alumni** は彼らが貢献していたことを知らせるものです。 [Link](http://osu.ppy.sh/g/16)
 
 | Name | Epitaph |

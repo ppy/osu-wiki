@@ -1,4 +1,4 @@
-Shortcut Key Reference - Chinese
+Shortcut Key Reference (中文)
 =================================
 
 以下是各种模式下可以使用的快捷键：

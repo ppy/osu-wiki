@@ -1,9 +1,12 @@
-O **Beatmap Nomination Group** (Grupo de Nominação de Beatmaps), mais comumente referido pela sigla BN, é um grupo encarregado de [qualificar beatmaps](PT:Ranked_Beatmap "wikilink"). Tal grupo tem passado por inúmeras mudanças recentemente. Desde 22 de agosto de 2014, eles não são mais parte da direção do projeto e, portanto, não possuem poder de moderação no ambiente de chat IRC, bem como não têm seus nomes em vermelho (tanto no chat quanto nos fóruns). A mudança mais relevante, ocorrida em 1º de fevereiro de 2015, concretizou-se com a mudança de nome (de *Beatmap Appreciation Team* para *Beatmap Nominator Group*), juntamente com a perda da cor vermelha em seus nomes no fórum.
+Beatmap Nomination Group (Português)
+===========================================
+
+O **Beatmap Nomination Group** (Grupo de Nominação de Beatmaps), mais comumente referido pela sigla BN, é um grupo encarregado de [qualificar beatmaps](/wiki/Beatmaps). Tal grupo tem passado por inúmeras mudanças recentemente. Desde 22 de agosto de 2014, eles não são mais parte da direção do projeto e, portanto, não possuem poder de moderação no ambiente de chat IRC, bem como não têm seus nomes em vermelho (tanto no chat quanto nos fóruns). A mudança mais relevante, ocorrida em 1º de fevereiro de 2015, concretizou-se com a mudança de nome (de *Beatmap Appreciation Team* para *Beatmap Nominator Group*), juntamente com a perda da cor vermelha em seus nomes no fórum.
 
 Papeis e Responsabilidades
 --------------------------
 
-Membros do **Beatmap Nomination Group** (doravante, BNG) são responsáveis primariamente pela [moderação](PT:Modding "wikilink") dos [beatmaps pendentes de qualificação](PT:Pending_Beatmap "wikilink") dentro do ciclo. Os membros do BNG são aqueles a quem se deve recorrer para buscar por mods e dicas sobre temas relacionados ao mapeamento e moderação de mapas.
+Membros do **Beatmap Nomination Group** (doravante, BNG) são responsáveis primariamente pela [moderação](/wiki/Modding) dos [beatmaps pendentes de qualificação](/wiki/Beatmaps) dentro do ciclo. Os membros do BNG são aqueles a quem se deve recorrer para buscar por mods e dicas sobre temas relacionados ao mapeamento e moderação de mapas.
 
 Tornando-se Membro
 ------------------
@@ -15,8 +18,8 @@ Membros do BNG
 
 *Note que todos os membros do BNG falam Inglês, exceto quando declarado de forma explícita.* [Link](http://osu.ppy.sh/g/28)
 
-| Name | Standard | Taiko | Catch | Mania | Idiomas adicionais |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Idiomas adicionais |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesian |

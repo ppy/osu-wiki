@@ -25,7 +25,7 @@ Regras do Fórum
 8.  Qualquer tipo de anúncio, propaganda ou links relacionados as mesmas são completamente proibidos. Não poste-os, ponto final.
 9.  Conteúdo que possui carregamento ou play automático (como vídeos do youtube, aplicativos feitos em flash, etc.) não são permitidos.
 
-Regras do Fórum de [BSS](/wiki/Glossary)
+Regras do Fórum de BSS
 -------------------------------------------
 
 Essas regras aplicam-se aos tópicos criados pelo [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System/Sistema de Envio de Beatmaps). Esses tópicos são criados automaticamente pelo cliente do osu! quando um beatmap é enviado pelo [editor](/wiki/Beatmap_Editor).

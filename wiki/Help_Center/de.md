@@ -1,8 +1,10 @@
-Account-bezogene Fragen
-=======================
+Hilfe-Center
+=============
 
-Die Flagge von meinem Account ist falsch!
------------------------------------------
+Account-bezogene Fragen
+-------------------------
+
+### Die Flagge von meinem Account ist falsch!
 
 Deine Nationalität wird automatisch vom Spiel bestimmt, basierend vom Standort von dem du dich registriert hast. Wenn du dich also beispielsweise aus Deutschland registriert hast, wirst du dementsprechend die deutsche Flagge bekommen, und dem deutschen Ranking hinzugefügt.
 
@@ -12,8 +14,7 @@ Wenn du uns falsche Informationen bereitstellst, wird dein Account dauerhaft ges
 
 ------------------------------------------------------------------------
 
-Ich hab' mein Passwort und Benutzernamen vergessen!
----------------------------------------------------
+### Ich hab' mein Passwort und Benutzernamen vergessen!
 
 Bitte benutze den Link: **<https://osu.ppy.sh/p/forgot>**, um deinen Account automatisch zurückzufordern, vorausgesetzt, dass du noch die E-Mail Adresse besitzt, mit der du dich registriert hast.
 
@@ -23,8 +24,7 @@ Es hilft erheblich, wenn du uns mit der E-Mail Adresse, mit der du dich registri
 
 ------------------------------------------------------------------------
 
-Mein Account wurde gebannt/deaktiviert/gesperrt! Was kann ich tun?
-------------------------------------------------------------------
+### Mein Account wurde gebannt/deaktiviert/gesperrt! Was kann ich tun?
 
 Als Erstes solltest du dich hinsetzen und kurz darüber nachdenken. Hast du zufällig einen Cheat oder andere Programme verwendet, um dir einen unfairen Vorteil zu verschaffen? Hast du die Regeln missachtet, indem du beispielsweise mehrere Accounts für dich selber erstellt hast?
 
@@ -44,8 +44,7 @@ Wenn wir deine Appell erfolgreichen akzeptiert haben sollten, wird dir die Zugan
 
 ------------------------------------------------------------------------
 
-Mein Account wurde gestohlen
-----------------------------
+### Mein Account wurde gestohlen
 
 Probiere als Erstes **<http://osu.ppy.sh/p/forgot>** um zu sehen, ob die E-Mail zu deinem Account immer noch gültig ist. Wenn das der Fall ist, kannst du dein Passwort einfach zurücksetzen, ohne die Hilfe vom Supportpersonal.
 
@@ -55,10 +54,9 @@ Bitte füge der E-Mail **keine** Replay oder Score Datei hinzu. Wir können dies
 
 ------------------------------------------------------------------------
 
-Kann ich meinen Benutzernamen vom Account ändern?
--------------------------------------------------
+### Kann ich meinen Benutzernamen vom Account ändern?
 
-osu! [Supporter](DE:Supporter "wikilink") können ihren Benutzernamen [im osu!store](http://store.ppy.sh/store/product/32) ändern.
+osu! [Supporter](/wiki/osu!supporter) können ihren Benutzernamen [im osu!store](http://store.ppy.sh/store/product/32) ändern.
 
 Dinge, die du wissen solltest:
 

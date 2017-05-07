@@ -1,3 +1,5 @@
+# FAQ
+
 Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting van het puntensysteem en het speluitzicht.
 
 Het spel

@@ -1,4 +1,4 @@
-Installation - Chinese - Hong Kong SAR
+Installation (香港)
 ======================================
 
 此頁面會告訴你如何獲得遊戲和一些排除故障的方法。

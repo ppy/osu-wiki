@@ -1,4 +1,7 @@
-흔히 BN으로 알려져 있는 BNG(Beatmap Nominator Group)은 Beatmap Nomination(osu!에 올라오는 펜딩 비트맵을 검사(심사)하여 [랭크되도](랭크 "wikilink") 좋을지의 여부를 결정하는 일)을 담당하는 그룹이다. 이 그룹은 최근에 많은 변화들을 겪었다. 2014년 8월 22일로 그들은 더 이상 스태프의 일부가 아니게 되었고, 그들의 모더레이터 권한과 게임 내와 포럼에서의 붉은 이름이 사라졌다. 가장 최근의 변화는 2015년 2월 1일인데, 이 때 BAT(Beatmap Appreciation Team)은 BNG(Beatmap Nominator Group)으로 바뀌었고, 그들의 포럼 내 붉은 이름을 잃었다.
+Beatmap Nomination Group (한국어)
+=====================================
+
+흔히 BN으로 알려져 있는 BNG(Beatmap Nominator Group)은 Beatmap Nomination(osu!에 올라오는 펜딩 비트맵을 검사(심사)하여 랭크되도 좋을지의 여부를 결정하는 일)을 담당하는 그룹이다. 이 그룹은 최근에 많은 변화들을 겪었다. 2014년 8월 22일로 그들은 더 이상 스태프의 일부가 아니게 되었고, 그들의 모더레이터 권한과 게임 내와 포럼에서의 붉은 이름이 사라졌다. 가장 최근의 변화는 2015년 2월 1일인데, 이 때 BAT(Beatmap Appreciation Team)은 BNG(Beatmap Nominator Group)으로 바뀌었고, 그들의 포럼 내 붉은 이름을 잃었다.
 
 역할과 책무
 -----------
@@ -15,8 +18,8 @@ BN이 되려면?
 
 *참고: 모든 BN은 적혀있지 않은 이상 영어를 쓴다.* [Link](http://osu.ppy.sh/g/28)
 
-| Name | Standard | Taiko | Catch | Mania | Additional Languages |
-| ----- | -------- | ----- | --- | ----- | -------------------- |
+| Name | osu! | osu!taiko | osu!catch | osu!mania | Additional Languages |
+| ----- | :--------: | :-----: | :---: | :-----: | -------------------- |
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![Yes](/wiki/shared/Insane-f.png "Yes") | ![No](/wiki/shared/Na-m.png "No") | |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Polish |
 | [[ A v a l o n ]](https://osu.ppy.sh/u/4632359) | ![No](/wiki/shared/Na-s.png "No") | ![No](/wiki/shared/Na-t.png "No") | ![No](/wiki/shared/Na-f.png "No") | ![Yes](/wiki/shared/Insane-m.png "Yes") | Indonesian |
