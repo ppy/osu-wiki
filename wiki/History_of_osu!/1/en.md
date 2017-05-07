@@ -9,7 +9,7 @@ The following are some of the history of osu! since its beginning. Special thank
 2007
 ====
 
-![](Osu2007.jpg "Osu2007.jpg")
+![](img/Osu2007.jpg "Osu2007.jpg")
 
 July
 ----
@@ -23,30 +23,40 @@ July
 
 By the **end of July**, the menu system was changed to add a bit of style to the game. An **initial implementation of sliders was completed**, with a non-animated orange slider ball and some relatively ugly curves. **Beat snapping** was added to the editor, as was **a timeline and a more robust editor interface** (quite similar to what you see in "Compose" view today).
 
-![osu!editor](img/200707-05.jpg "osu!editor") ![Song Selection for "Edit Mode"](img/200707-06.jpg "Song Selection for "Edit Mode"") ![Slider creation at osu!editor](img/200707-07.jpg "Slider creation at osu!editor") ![Gameplay example](img/200707-08.jpg "Gameplay example")
+![osu!editor](img/200707-05.jpg "osu!editor")
+![Song Selection for "Edit Mode"](img/200707-06.jpg "Song Selection for \"Edit Mode\"")
+![Slider creation at osu!editor](img/200707-07.jpg "Slider creation at osu!editor")
+![Gameplay example](img/200707-08.jpg "Gameplay example")
 
 August
 ------
 
 **The main menu was updated with a new look**, and the **editor received a lot of new functionality, including copy/paste support**. The Windows's menubar and cursor are now present, making editor features a lot more accessible than before. **Sliders are more extensively supported**, with ticks present and disappearing as you pass them. **Stacking of hitcircles is now also present. Local high scores are a lot better supported. The .osu file format is revised and completely revamped, but includes conversion of older files to the new format.**
 
-![Song Selection screen for "Play Mode"](img/200708-01.jpg "Song Selection screen for "Play Mode"") ![Evolution of hit-circle score bursts.](img/200708-02.jpg "Evolution of hit-circle score bursts.")
+![Song Selection screen for "Play Mode"](img/200708-01.jpg "Song Selection screen for \"Play Mode\"")
+![Evolution of hit-circle score bursts.](img/200708-02.jpg "Evolution of hit-circle score bursts.")
 
 Gameplay was enhanced with the **debut of combo fire, the HP bar, mouse trails, and better looking sliders**. By this point, we had a humble collection of around **10 beatmaps made by the testing team of around 5 people.**
 
-!["Edit Mode" song selection"](img/200708-03.jpg ""Edit Mode" song selection") ![Gameplay example](img/200708-04.jpg "Gameplay example")
+!["Edit Mode" song selection"](img/200708-03.jpg "\"Edit Mode\" song selection")
+![Gameplay example](img/200708-04.jpg "Gameplay example")
 
 September
 ---------
 
-<img src="200709-Release.png" title="fig:200709-Release.png" alt="200709-Release.png" width="500" />
+![200709-Release.png](img/200709-Release.png "200709-Release.png")
 
 **The birth of osu!** as far as the public is concerned. The **forums** as we know them today were **established**, and hosted from peppy's home server (ppy.sh). Attention was gained via a news announcement on <http://www.bemanistyle.com> which drew quite a few interested people with previous rhythm game experience.
 
-![Slider creation at osu!editor](img/200709-01.jpg "Slider creation at osu!editor") ![Main Menu](img/200709-02.jpg "Main Menu") ![Spinner(based on DS's official Ouendan)](img/200709-03.jpg "Spinner(based on DS's official Ouendan)") ![Grade screen](img/200709-04.jpg "Grade screen") ![News announcement on a gaming website.](img/200709-SS.jpg "News announcement on a gaming website.")
+![Slider creation at osu!editor](img/200709-01.jpg "Slider creation at osu!editor")
+![Main Menu](img/200709-02.jpg "Main Menu")
+![Spinner(based on DS's official Ouendan)](img/200709-03.jpg "Spinner(based on DS's official Ouendan)")
+![Grade screen](img/200709-04.jpg "Grade screen")
+![News announcement on a gaming website.](img/200709-SS.jpg "News announcement on a gaming website.")
 
 #### Game Modifiers introduced
-![Easy Mod](img/Easy_v1.png "Easy Mod") ![No Fail Mod](img/No_Fail_v1.png "No Fail Mod")
+![Easy Mod](img/Easy_v1.png "Easy Mod")
+![No Fail Mod](img/No_Fail_v1.png "No Fail Mod")
 
 Quickly after the public release, **the first play mods ([Easy](EZ "wikilink") and [No Fail](NF "wikilink")) were added, as well as break sections (which up until now had been ignored and missing).** A large number of changes quickly made osu! look more and more like a commercial rhythm game.
 
@@ -55,7 +65,7 @@ October
 
 **October 1st was the day when online rankings were made available publicly**. This also saw the **launch of the .osz packaging method, and online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and also displayed on the website.**
 
-<img src="200710-01.jpg" title="200710-01.jpg" alt="200710-01.jpg" width="300" />
+![200710-01.jpg](img/200710-01.jpg "200710-01.jpg")
 
 The **song selection screen** saw improvements, with **grouping of difficulties and more intuitive song wheel movement. The soft sample set, keyboard-based controls, in-game searching all originate in this month.** **Players could make universal skins and per-beatmap skins for the first time** and **full TabletPC support was implemented.**
 
@@ -72,7 +82,8 @@ A new **SS rank was added to the ranking system**, replacing S rank in cases whe
 
 ![osu! main menu. (Flood of stars.)](img/200711-01.jpg "osu! main menu. (Flood of stars.)") ![Logging-in screen.](img/200711-02.jpg "Logging-in screen.")
 
-<img src="200711-03.jpg" title="fig:IRC usage example (See the &quot;ssh&quot; and &quot;osu!&quot; windows. Background is osu! development using Visual Studio)" align="right" alt="IRC usage example (See the &quot;ssh&quot; and &quot;osu!&quot; windows. Background is osu! development using Visual Studio)" width="200" />
+![fig:IRC usage example(see the SSH and osu! windows. Background is osu! development using Visual Studio.)](img/200711-03.jpg "fig:IRC usage example(see the SSH and osu! windows. Background is osu! development using Visual Studio.)")
+
  The **"Beatmap Submission System" (BSS) was made public**, allowing users to easily upload and share their creations. This introduced the **status of pending and ranked maps** and helped organise the rapidly growing collection of user-submitted beatmaps. **In-game chat was added, as an IRC client built from scratch and connected to a standard irc server (no bancho yet). Extended chat was visible. Avatars and basic stats were displayed in game** (using an http-based communication). **Audio controls** were also added to the main menu, which also now plays a random song on startup. **Replays could be watched for both local scores and online plays.** Players could **spectate other players** (and spectator data was sent raw over irc!).
 
 December
@@ -80,19 +91,19 @@ December
 
 **Songs can be edited by dragging them into the osu! window. Tooltips are now present explaining all the various buttons in the osu! menus and editor interface.** Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). **New sorting methods were added to the song selection screen**. **peppy could now send universal announcements to all osu! players. Minor tweaks are made to gameplay, such as non-active circle dimming.**
 
-<img src="200712-01.jpg" title="fig:200712-01.jpg" alt="200712-01.jpg" width="200" />
+![200712-01.jpg](img/200712-01.jpg "200712-01.jpg")
 
 2008
 ====
 
-![](Osu2008.jpg "Osu2008.jpg")
+![Osu2008.jpg](Osu2008.jpg "Osu2008.jpg")
 
 January
 -------
 
 peppy was MIA in Japan 2007-12-17 until 2008-01-20. He somehow managed to draw himself away from the osu! codebase for a full month, and therefore there were no major updates (and the community was quite stagnant during this time).
 
-<img src="200801-01.png" title="200801-01.png" alt="200801-01.png" width="300" />
+![200801-01.png](img/200801-01.png "200801-01.png")
 
 February
 --------
@@ -116,7 +127,7 @@ No joke, **Bancho went live this month, and so did the user panels of Extended C
 May
 ---
 
-![[Taiko](Taiko "wikilink") mod](Taiko.png "fig:Taiko mod")
+![Taiko mod](img/Taiko.png "fig:Taiko mod")
 
  The **[Taiko](Taiko "wikilink") Mode** first saw the light of day in this month, as well as another major addition, **.osb storyboarding script support. Multi-part sliders and private messaging in chat were also made available.**
 
@@ -137,7 +148,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 **Personal online best scores were added to song selection**, fulfilling a long-time request. This required some fairly hefty database optimisation. Graphical improvements were made to the ranking screen, and various elements of the default skin, in an aim to make it feel more clean and crisp than before. The display of **slider tick score sprites (10/30) was implemented.** Improvements were seen in the multiplayer match setup, allowing **host control to be transferred**. Many **new chat commands** were added for user convenience.
 
-A new ranked status "![](fire.gif "fig:fire.gif")Approved" was added for maps which are of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to player's scores, but have scoreboards and act otherwise like a ![](heart.gif "fig:heart.gif")ranked map.
+A new ranked status "![Fire.gif](img/fire.gif "Fire.gif")Approved" was added for maps which are of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to player's scores, but have scoreboards and act otherwise like a ![Heart.gif](img/heart.gif "Heart.gif")ranked map.
 
 September
 ---------
@@ -154,8 +165,9 @@ Progress was made on **OpenGL implementation** and the **upcoming game mode debu
 November
 --------
 
-<img src="img/Fruit_ryuuta.png" title="fig:The catcher of Catch the Beat" align="left" alt="The catcher of Catch the Beat" width="100" />
- November saw the introduction of a brand new play mode, **"[Catch the Beat](Catch_the_Beat "wikilink")". OpenGL support debuted**, thus allowing osu! to run on most systems. Other new features in this update packed month included **in-game friend list support, private chat tabs, a new tutorial/[offset wizard](Options#Offset_Wizard "wikilink") and osu!direct**; an in-game beatmap downloader for supporters.
+![The catcher of Catch the Beat.](img/Fruit_ryuuta.png "The catcher of Catch the beat.")
+
+ November saw the introduction of a brand new play mode, **"[Catch the Beat](Catch_the_Beat "wikilink")". OpenGL support debuted**, thus allowing osu! to run on most systems. Other new features in this update packed month included **in-game friend list support, private chat tabs, a new tutorial/ [offset wizard](Options#Offset_Wizard "wikilink") and osu!direct**; an in-game beatmap downloader for supporters.
 Due to people with large numbers of beatmaps complaining about the load time of osu!, peppy spent countless days optimising anything possible, resulting in a performance increase almost unmeasurable on a scale (let's just say somewhere over 9,000). **Load times of over one minute reduced to just milliseconds.**
 
 December
