@@ -19,7 +19,7 @@ August 30, 2016 | osu!wiki running on MediaWiki is being deprecated for GitHub r
 Date, Year Time | Description
 ---|---
 August 26, 2016 | [peppy created osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e "osu-wiki repository"). craftu and Xyloo ported the MediaWiki content to the repository in a week.
-September, 2016| Most of the pages except the images are moved here, with unsolved syntax-translation errors stemming from language difference between Markdown and MediaWiki. Starting team consists of Repflez (leader), TPGPL (editor), MegaApplePi (editor), sr229 (editor), cl8n (editor), miterosan (editor), marcostudios (editor), Trehorna123 (editor), Xyloo (port), craftu (port), and peppy.
+September, 2016| Most of the pages except the images are moved here, with unsolved syntax-translation errors stemming from language difference between Markdown and MediaWiki. Starting team consists of Repflez (leader), TPGPL (editor), MegaApplePi (editor), RaikireHiuduo (editor), sr229 (editor), cl8n (editor), miterosan (editor), Trehorna123 (editor), Xyloo (port), craftu (port), and peppy.
 January, 2017 | osu!web support of osu!wiki done by nanaya.
-January 5, 2017 | [osu!wiki project suggested by Ephemeralis](https://github.com/ppy/osu-wiki/projects/1 "osu!wiki 2017 project by Ephemeralis").
-January 26, 2017 | osu!wiki got mentioned on [ppy blog](http://pppy.tumblr.com/post/156390386433/2017-01-dev-meeting "ppy blog - 2017-01 DEV MEETING").
+January 5, 2017 | [osu!wiki project created by Ephemeralis](https://github.com/ppy/osu-wiki/projects/1 "osu!wiki 2017 project by Ephemeralis").
+January 26, 2017 | osu!wiki got mentioned on [ppy's blog](http://pppy.tumblr.com/post/156390386433/2017-01-dev-meeting "ppy blog - 2017-01 DEV MEETING").
