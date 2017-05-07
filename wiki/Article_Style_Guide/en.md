@@ -480,7 +480,7 @@ When linking to the osu!website, e.g. user profiles or beatmaps, use `osu.ppy.sh
 `new.ppy.sh` is just a temporary subdomain for the new design.
 
 When linking to a osu!user profile, use the user's id number instead of their username.
-Usernames change be changed, while id numbers don't.
+Usernames can be changed, while user ids are bound to the user.
 This is to ensure that the link still links to the same person even after they changed their username.
 
 **Never** use protocol relative links (e.g. `//example.com`)!
