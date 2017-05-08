@@ -4,7 +4,7 @@ The Article Style Guide serves as a way to help keep consistency in clarity, for
 
 All English articles should use plain English.
 Your word choice should be able to explain such things in layman's terms.
-In other words, you can ask yourself, "If the reader is reading this, would they have to lookup any of the words?"
+In other words, you should ask yourself, "If the reader is reading this, would they have to lookup any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
 Know that reviewers may ask for changes in your pull request for blunders or suggestions.
@@ -16,7 +16,7 @@ GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!
 HTML use is **heavily** discouraged (and might have your pull request be denied)!
 
 GFM has a small amount of markup that **anyone** can learn it in less than a minute!
-However, don't expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
+However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
 
 ### Syntax
 
@@ -37,13 +37,14 @@ Basically, just use numbers 0 - 9, letters A - Z and a - z, exclaimation marks (
 
 All folders **must** contain a page of some kind, even if they are _index_ pages (pages that link to other pages).
 
-Index pages **should** contain descriptions of what they link to.
-Index pages **should** only link to their own subfolders.
+Index pages **must** only link to their own subfolders.
+
+Index pages **must** contain descriptions of what they link to.
 
 ## File Names
 
 All articles in the `osu-wiki` repository uses the ISO 639-1 codes.
-The ISO 639-1 is a 2-lettered language code.
+ISO 639-1 is a 2-lettered language code.
 When using this for an article locale, they must use lowercase letters and end with the `.md` extension.
 
 For example:
@@ -118,9 +119,9 @@ Doing so will help make the headings stand out a bit more when editing.
 
 ### Article Titles
 
-All articles **must only have one level 1 heading** that of which has to be the article's title.
+All articles must only have **one** level 1 heading that of which has to be the article's title.
 
-This level 1 heading is to be placed at the start of the article unless you have reference links placed there.
+This level 1 heading should be placed at the start of the article unless you have reference links placed there.
 If this is the case, place the level 1 heading underneath those reference links.
 
 Titles are to be in title case.
@@ -160,7 +161,7 @@ All section headings are to use title case, just like the [article titles](#arti
 
 All section headings are to be using levels 2 to 5 headings.
 
-Section headings should **never** skip a heading levels.
+Section headings should **never** skip a heading level.
 For example: do not go from a level 2 heading to a level 4 heading.
 
 All sections **must** contain some content, even those that act like a container for subsections.
@@ -172,7 +173,7 @@ _Also see [Glossary](/wiki/Glossary)._
 
 ### osu!
 
-osu! is a frustrating but fun circle clicking simulator.
+osu! is a frustrating but fun circle-clicking simulator.
 
 ```
 
@@ -324,7 +325,7 @@ For example, use:
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-Know that the possessive form of a word (e.g. `the player's` or `the skinner's`) are the expection since these are not contractions.
+Know that the possessive form of a word (e.g. `the player's` or `the skinner's`) are the expections since these are not contractions.
 
 ## Point of View
 
@@ -350,7 +351,7 @@ Use bold when you need to caution or note something's importance.
 For example:
 
 - `Do **not** contact peppy for ingame issues!`
-- `**Improperly timed beatmaps will have you map ignored!**`
+- `**Improperly timed beatmaps will have your map ignored!**`
 - `When skinning, it is **really important** to have original and/or creative ideas.`
 
 ### Italics
@@ -416,52 +417,77 @@ Please limit to a level of four (4) sub-lists at a time (if you need more, you s
 
 ## Code
 
-Any key on the keyboard should use inline code.
-When doing so, it should use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+For the following sections, they **must** use code.
+
+### Keyboard Keys
+
+When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+
 For example:
 
 - `` `.` ``
 - `` `Alt` ``
 - `` `Ctrl` + `Shift` + `A` ``
 
-When referring to the text of a button or menu, use inline code.
+### Button or Menu Text
+
+When copying the text from a menu or button, copy the letter casing as-is.
 For example:
 
 - `` Click `File` then `Save As...` ``
 - `` `1. Let's do it.` ``
 - `` `4. Noooo! I didn't mean to!` ``
 
-When referring about the name of a folder, use inline code.
+### Folder Names
+
+When copying the name of a folder, copy the letter casing as-is.
 For example:
 
 - `` `Exports` ``
 - `` `Downloads` ``
 
-When referring to the name of a directory, use inline code.
+### Directory Names
+
+When copying the path of a directory, copy the letter casing as-is.
 For example:
 
 - `` `Downloads/` ``
 - `` `Skins/User/` ``
 
-When referring to the name of a keyword or command used in _osu!_ or of any application, use inline code.
+### Keywords or Commands
+
+When copying the keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
 For example:
 
-- `ComboBurstStyle`
-- `[Events]`
-- `git --help`
+- `` `ComboBurstStyle` ``
+- `` `[Events]` ``
+- `` `git --help` ``
 
-Any file extension should use inline code.
-A period (`.`) should be prefixed followed by the file extension in lowercase letters.
+### File Names
 
-- `.jpg`
-- `.gif`
-- `.osz`
-
-The name of a chat channel should use inline code.
+When copying the name of a file, copy the letter casing as-is.
 For example:
 
-- `#lobby`
-- `#osu`
+- `` `osu.exe` ``
+- `` `screenshot001.jpg` ``
+- `` `Opsu-android0.15.0b.apk` ``
+
+### File Extensions
+
+When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
+
+- `` `.jpg` ``
+- `` `.exe` ``
+- `` `.osz` ``
+
+### Chat Channels
+
+When copying the name of a chat channel, start it with a hashtag (`#`), followed by the channel name in lower case letters.
+See [Chat Channels](#chat-channels) for other details.
+For example:
+
+- `` `#lobby` ``
+- `` `#osu` ``
 
 ### Code Blocks
 
@@ -474,9 +500,9 @@ The osu!wiki site has a feature where you _could_ use four spaces to trigger the
 ## Links
 
 You can use either the reference or inline style links.
-If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
+If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
-When linking to the osu!website, e.g. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
+When linking to the osu!website (e.g. user profiles or beatmaps), use `osu.ppy.sh` instead of `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
 
 When linking to a osu!user profile, use the user's id number instead of their username.
@@ -489,29 +515,26 @@ This is to ensure that the link still links to the same person even after they c
 
 Article links must follow these rules:
 
-- **Must** use relative-absolute paths, unless linking to subfolder (then use relative-relative paths).
-  - For example:
-    - `[Welcome](/wiki/Welcome/)`
-    - (from `Game_Modes` folder) `[osu!mania](./osu!mania)`
-  - See the [Link Types](#link-types) section below.
-- **Must be spelt correctly** (links are case sensitive!).
-- Must **not** specify the specific file name **regardless of language** (osu!wiki will handle this).
-  - do: `[Glossary](/wiki/Glossary/)`
-  - do **not**: `[Glossary](/wiki/Glossary/fr.md)`
-- It is possible to specify the locale name using `?locale=XX`.
-  - However, this is **heavily discouraged** since this will force readers into a different language than what they may want.
+- use relative-absolute paths, unless linking to subfolder (then use relative-relative paths)
+  - See the [Link Types](#link-types) section for details.
+- be spelt correctly (links are case sensitive!)
+- **not** specify the specific file name **regardless of language**
+  - osu!wiki will handle this
+
+It is possible to specify the locale name using `?locale=XX`.
+However, this is **heavily discouraged** since this will force readers into a different language than what they may want.
 
 ### External Links
 
 External links must follow these rules:
 
-- Prefer the `https://` protocol, if available.
-- If linking to another site, must link to a reputable source.
-- Must be a clean and direct link.
-  - Do **not** use a third-party shortened link.
-  - Do **not** use links that link to ads.
-  - Do **not** use a url with long url queries, parameters, or fragments.
-- The link name must be the title text of the page it is linking to.
+- prefer the `https://` protocol, if available
+- if linking to another site, must link to a reputable source
+- be a clean and direct link
+  - do **not** use a third-party shortened link
+  - do **not** use links that link to ads
+  - do **not** use a url with long url queries, parameters, or fragments
+- the link name must be the title text of the page it is linking to
 
 ### Link Types
 
@@ -583,7 +606,7 @@ All section links follow these strict rules:
 - all spaces are replaced with hyphens (`-`), not underscores (`_`)
 - if a header is not unique (two or more of the same section heading names exist at any level):
   - the first instance of said heading will follow the above rules
-  - the following instances will follow the above rules **and** must add `.` followed by an incremental integer starting from `2`
+  - the following instances **must** follow the above rules **and** must add `.` followed by an incremental integer starting from `2`
 
 You will need to check to make sure it links to the correct section.
 
@@ -593,7 +616,17 @@ Examples:
 - `[osu!mania](#osu-mania.2)`
 - `[What is osu!taiko?](/wiki/FAQ/#what-is-osu-taiko)`
 
-Section linking **will** work for unsafe ASCII characters; however, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
+#### Unsafe ASCII Characters
+
+Section linking **will** work for unsafe ASCII characters.
+However, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
+
+#### Icons in Headings
+
+When an icon is inside the heading, ignore it.
+If there is a space due to the icon, ignore it.
+
+The anchor of a heading with an icon will start with a letter, not a space or hyphen.
 
 ### Beatmaps
 
@@ -618,10 +651,9 @@ All beatmapset difficutly urls looks like this: `https://new.ppy.sh/s/{BeatmapSe
 
 ## Images
 
-**All image file extensions _MUST_ use lowercase letters!**
-Otherwise they will fail to load!
+All image file extensions **must** use lowercase letters, otherwise they will fail to load!
 
-It is suggusted to add a subfolder for the images, e.g. `img/` for all and any images.
+It is suggusted to add a subfolder for the images (e.g. `img/` for all and any images).
 
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 Images that are used for one article are to be placed inside their folders for linking.
@@ -637,11 +669,14 @@ The osu!wiki will give every image a max-width, being the width of the article b
 
 This means when an image's width is more than 680px, you should downscale it to 680px to ensure that we don't waste digital space.
 
-### Format
+### Supported Formats
+
+The supported file formats on for the osu!wiki are `.gif`, `.jpeg`, `.jpg`, and `.png`.
 
 When you have an image **without** transparency, use `.jpg` (or `.jpeg`).
-
 When you have an image **with** transparency, use `.png`.
+
+If the media file is animated, use `.gif`.
 
 ### Alt and Title Text
 
