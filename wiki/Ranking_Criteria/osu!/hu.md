@@ -6,12 +6,11 @@ Standard Ranking Criteria (Magyar)
 A szabályzat már magába foglalja a közelmúltban tárgyalt változásokat. A fórumon megvitatott szabályokból még a régi változat szerepel a szabályzatban, de frissítésre kerülnek, amint megállapodás születik a változtatásokkal kapcsolatban.
 
 Szabályok
-=========
+-----------
 
 Ezek mind szabályok; SZABÁLYOK. Tehát NEM útmutatók, így SEMMI esetre sem lehet megszegni őket.
 
-Általános
----------
+### Általános
 
 -   **Nem tehetsz két elemet ugyan arra az ütemre (kivétel az osu!mania játékmód).** Ez magába foglalja a köröket (hit circles), a sliderek kezdő- és végpontját, és a tekerők (spinnerek) kezdő- és végpontját. Bár lehetséges lenne lejátszani őket, ellentmond annak, hogy kövessük a dal ritmusát.
 -   **Ne használj túl sok kiai time-ot. Általános szabály szerint percenként egy használat megengedett.** A kiai azért van, hogy a refrént kihangsúlyozzuk, tehát ne használjátok csak a csillagszórás miatt, kivéve ha csak ritkán használjátok. Ki- és bekapcsolhatjátok a kiait a refrén közben félúton, ha illik a dallamhoz, de nevetséges folyamatosan minden néhányadik ütemen használni, hiszen ez elterelheti a játékosok figyelmét.
@@ -19,8 +18,7 @@ Ezek mind szabályok; SZABÁLYOK. Tehát NEM útmutatók, így SEMMI esetre sem 
 -   **Ne használj illetlen képet a háttérben/storyboardban/videóban.** Ez magába foglalja a meztelenséget, túlzott alulöltözöttséget, szexuális utalásokat, erőszakot, kábítószer használatot, stb. Minden legyen megfelelő 12+ korosztály számára is.
 -   **Az 'Approved' kategória csak a Maraton mapekre van.** Hosszú, 6, vagy annál több percnyi játékidővel rendelkező mapek esnek az 'Approval' kategóriába. Csak ebben az esetben engedhető meg, hogy egy nehézségből álló mapset legyen. Ha 6 percnél kevesebb a játékidő, minden nehézségre szükség van, és ranked-nek (minősítettnek) kell lennie.
 
-Mapset
-------
+### Mapset
 
 -   **Egy mapsetnek legalább két nehézségi szintet kell tartalmaznia ugyanabból a játékmódból, ebből az egyiknek Easy/Normal (könnyű/normal) szintnek kell lennie.** Maraton hosszúságú map-eknél csupán egy nehézség is megengedett, de ezt Marathon-nak kell elnevezni a BSS-sel való feltöltés engedélyezéséhez.
 -   **Egy mapsetnek jól megtervezett, több szintre kiterjedő nehézségeket kell tartalmaznia.** Legalább egy Easy (könnyű) vagy Normal nehézség (attól függően, hogy a maphez melyik illik): ez azért van, hogy bármilyen szintű játékos játszhassa azt a mapot, amit szeret. Elég nehéz előre meghatározni, hogy egy dalhoz mekkora különbségek illenek a nehézségi szintek között, de itt egy lista, amit figyelembe kell venni: **a nehézségeknek egymás utáni sorrendben, és közöttük megfelelő hézagokkal kell következniük;** legalább egynek ~2.5/3 csillagos szint körül kell lennie; **ha a mapsetednek 2 nehézsége van, akkor az egyik nem lehet Insane** (ez tulajdonképpen azt jelenti, hogy 3 nehézség ajánlott, hacsak maga a dal nem enged meg túl sok változatosságot); ha a mapsetednek 3 nehézsége van, az egyiknek ~2.5/3 csillagos szint körül kell lennie, és a második nem lehet 'Insane' (az Insane-nek kell a legutolsó nehézségnek lennie); ha a mapsetednek 4 vagy több nehézsége van, akkor legalább kettőnek 'Insane'-től eltérőnek kell lennie. A Taiko nehézségek között is megfelelően tervezett különbségeknek kell lenniük, nem lehetnek közöttük ugrások, ezért Normal/Hard/Insane, Normal/Hard vagy Hard/Insane nehézségeket tartalmazhat egy mapset (de csak akkor, ha van(nak) osu!standard nehézség(ek) is).
@@ -28,16 +26,14 @@ Mapset
 -   **Egy mapsetnek nem lehet csak egy Taiko vagy osu!mania nehézsége.** Ha úgy döntesz, hogy például Taiko-t is szeretnél a mapedhez, akkor legalább 2 Taiko módhoz tartozó nehézség legyen! Ha az osu!standardhez nem tartozik Könnyű nehézség, akkor az egyik Taiko nehézségnek könnyebb (Easy/Normal) szinten kell lennie. Viszont csak egy CtB nehézségi szint megengedett.
 -   **Egy osu!standard mapsetben megengedett csak egy CtB nehézség,** mivel a standard nehézségek helyesen konvertálódnak CtB-be. Ezért, Taiko vagy osu!mania mapseteknél legalább 2 CtB nehézség szükséges, mivel Taikot és osu!mania-t nem lehet CtB-be konvertálni.
 
-Metadata
---------
+### Metadata
 
 -   **A forrásnak és tageknek (címkék) egyformának kell lenniük az egész mapsetben,** így a keresés egységes marad.
 -   **A keleti előadókat a származásuknak megfelelő ’Vezetéknév-Családnév’ formában kell írni (pl. Japán/Kínai/Koreai).** Ha az előadónak van közismert romanizált neve, akkor használd azt. Ha nem vagy biztos az előadó nevében, akkor ellenőrizd a korábban rankelt mapeket, vagy nézd meg Googleben, Wikipedián, vagy kérj meg egy BAT-et, hogy segítsen.
 -   **Vocaloid neveket ne használj Előadóként vagy Forrásként.** Használd a számhoz tartozó zeneszerző nevét, a Vocaloid nevét pedig írd a tagekhez; további információ: \[url\]<https://osu.ppy.sh/forum/p/1767683%5B/url%5D>
 -   **Ne változtasd meg a dal címét.** Ez magába foglalja azon jelzéseket, melyek a dal megvágására utalnak, ilyen például a „Short Ver.”, „TV Size” stb., kivéve ha hivatalosan a szám címéhez tartozik, melyet megbízható forrás listáz.
 
-Timing
-------
+### Timing
 
 -   **A nem öröklött időzítési részeket (Uninherited Timing Sections) arra kell használni, hogy pontosan be tudjuk állítani a dal időzítését.** A lehető legpontosabban szinkronban kell lennie a dalban található ütemekkel, valamint mindig a megfelelő ütembeosztást használd. Ha helytelen ütembeosztást használsz több, mint 2 vonalon keresztül, akkor a helyrehozáshoz egy új időzítési részt (Timing Section) kell létrehozni. Ha többet szeretnétek megtudni a downbeat-ről (az ütem első hangja, tehát az, ami a nagy fehér vonalon van), akkor \[url=<http://osu.ppy.sh/forum/viewtopic.php?f=10&t=20998%5Dezt> a linket látogassátok meg.\[/url\]
 -   **A mapednek tökéletesen időzítettnek kell lennie.** Ez azt jelenti, hogy a BPM és offset helyes, a sliderek jó helyen érnek véget, a hangok pedig általánosan egy olyan feltűnő ritmust követnek (mint pl. dalszöveg vagy dob), ami a játékosok számára is felismerhető. Ne legyenek elcsúszott hangok (ezt az AIMod futtatásával tudod leellenőrizni /gyorsbillentyű ctrl+shift+a/ a szerkesztőben).
@@ -45,8 +41,7 @@ Timing
 -   **Nem öröklött időzítési részeket nem szabad arra használni, hogy manipuláljuk a Sliderek sebességét.** Ezek váratlanul érhetik a játékosokat, emelett pedig megzavarják a főmenüben lévő dobogást (pulse) és összességében a map időzítését is kissé megváltoztatja.
 -   **Nem lehet két nem öröklött vagy két öröklött időzítési részt ugyanarra a pontra tenni.** Egy öröklött időzítési részt rálehet rakni egy nem öröklött időzítési részre (de csak slider sebesség megváltoztatásának céljából). Két nem öröklött vagy két öröklött időzítési rész egymásra téve problémákat fog okozni a beatmapben.
 
-Audio
------
+### Audio
 
 -   **A dalhoz tartozó audio fájlnak megfelelő minőségűnek kell lennie.** Próbáljátok magatoktól megkeresni az mp3 fájlt, videómegosztókról való letöltés gyakran alacsony minőségű és nagy méretű audio fájlt eredményez. A beatmaphez tartozó audio fájl bitrátája nem lehet 128kbps-nél alacsonyabb, és nem lehet 192kbps-nél magasabb. Ha problémád van a megfelelő audio fájl megszerzésével, akkor fordulj egy audiohoz értő BAT-hez; örömmel segítenek mp3 fájlt találni.
 -   **Egy map minimum játékideje 30 másodperc** (de a javasolt minimum az 45 másodperc). Ha a maped ennél rövidebb, akkor egy audio szerkesztő programmal próbálj meg ismétlést tenni bele. Ez azért kell, hogy minden egyes map elég magas pontszámot adjon, és azért is, hogy az emberek ne próbálják meg ok nélkül rövidre vágni a számot, ezzel megakadályozva azt, hogy az egész szám élvezhető legyen.
@@ -57,15 +52,13 @@ Audio
 -   **A mapset minden nehézségén be kell állítani egy előnézeti pontot (preview point) (és ennek meg kell egyeznie minden nehézségen).** Ezt fogja használni a zeneszám választó menü és az online kisképes előnézet is.
 -   **Minden .wav fájlnak legalább 100ms hosszúnak kell lennie,** hogy megelőzzük a hangkártyákkal kapcsolatos gondokat. Ha egy csendes/üres találati hangra van szükséged, akkor muszáj egy \[url=up.ppy.sh/files/blank.wav\]0-byte-os .wav fájlt\[/url\] használnod.
 
-Video
------
+### Video
 
 -   **A videó felbontása nem haladhatja meg a 800x600-as méretet a 4:3-as formátumnál vagy a 854x480-as méretet a 16:9-es szélesvásznú formátumnál.** Ez azért van, hogy a videófájl mérete megfelelő keretek között maradjon, és ne emelje túlságosan a map méretét.
 -   **A videó eltolásának pontosnak és konzisztesnek kell lennie a különböző nehézségi szintek között,** hogy úgy kövesse a zenét, ahogy az eredetileg tervezve volt.
 -   **A videó zenesávját el kell távolítani a videó fájlból.** Az audiósávot az osu! nem használja, így annak eltávolítása tovább csökkenti a fájlméretet.
 
-Kinézet
--------
+### Kinézet
 
 -   **Amennyiben más felhasználó által készített elemeket is használsz, előtte kérd ki az engedélyét.** Mások munkájának tisztelete a legfontosabb és a legtöbb ember örömmel látja saját munkáját a Te mapjeiden.
 -   **A játékelemeknek látszaniuk kell.** Nem használhatsz olyan elemet, mely meggátolja a map játszhatóságát, vagy láthatatlan, mivel kellemetlen élmény, továbbá teljesen ellehetetlenítheti a map teljesítését.
@@ -79,8 +72,7 @@ Kinézet
 -   **Egyetlen módosított elemet se csinálj nagyobbra, mint az alap kinézet elemei** (Különösen kombójelzőknél). A nagyobb elemek befolyásolhatják a játékmenetet, ezért elkerülendők. Ugyanakkor, azon elemek, melyek közvetlenül nem befolyásolják a játékmenetet (pl. Szünet menü, bevezető-átugrás), megfelelő okok felmutatása esetén lehetnek valamivel nagyobbak.
 -   **Ne hagyj felesleges fájlokat a mapset mappájában,** kivéve a map .osb fájlját (Mivel néha magától hozzáadódik akkor is, ha a map nem tartalmaz Storyboardot) és a storyboard-hoz tartozó .thumb fájlt (Mivel ezek automatikusan generálódnak a kép-mappákban). A használaton kívüli fájlok feleslegesen növelik a map méretét.
 
-Storyboard készítés
--------------------
+### Storyboard készítés
 
 -   **A storyboard-hoz használt képeknek a használatuknak megfelelő nagyságúnak kell lenniük.** A legtöbb esetben (például teljes képernyős képek) a maximum 800x600, bár a 640x480 az ajánlott. A szerkesztő alapesetben 640x480-as felbontású, szóval igazán nincs szükség nagyobb képek használatára.
 -   **A mozgó képek maximális felbontása magas képeknél 640x1440, széles képeknél pedig 1920x480.** Ennek okai a játékteljesítmény, a kép töltési ideje, és a fájlméret.
@@ -88,7 +80,7 @@ Storyboard készítés
 -   **Azon mapeken, melyek ismétlődő villogásokat, pulzáló képeket, vagy felvillanó színeket tartalmaznak a storyboard-ban, KÖTELEZŐ az epilepszia-veszély felirat!** A szerkesztőbe be van építve egy, mely a map kezdetén felhívja a figyelmet, továbbá az online előnézeti képre egy kis veszélyjelző ikont helyez. Ez a vészjelző teljes mértékben kötelező, mivel így az epilepsziás játékosok elkerülhetik a problémákat.
 
 Irányelvek
-==========
+----------
 
 Az irányelvek fontosak, és a legtöbb mapen használatosak. Ugyanakkor nem szabályok, így speciális esetekben megszeghetők. Amennyiben szeretnél megszegni egyet, tedd fel magadnak a következő kérdéseket: Van értelme annak, amit csinálni fogok? Jobb lesz így a map, mint az irányelvek utasításainak használatával? Ha mind a két kérdésre igen a válaszod, valószínűleg megteheted. Amikor a mapedet modolják, amelyen nem tartottad be az irányelveket, próbáld meg a lehető legjobban elmagyarázni, miért választottál így, és gondold át a javaslatokat.
 

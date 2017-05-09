@@ -4,10 +4,9 @@ osu!mania Ranking Kriterien
 Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [durch das Diskussions-Forum](http://osu.ppy.sh/forum/87). Jede Regel, die dort diskutiert wird, ist hier so aufgelistet, wie sie momentan gilt und wird erst aktualisiert, wenn die Diskussion eine Einigung erreichen konnte.
 
 Übliche Bedingungen
-===================
+----------------------
 
-Schwierigkeitsgrade
--------------------
+### Schwierigkeitsgrade
 
 -   **EZ** = Einfach (Beginner/Easy/Basic)
 -   **NM** = Normal (Light/Normal/Novice)
@@ -15,18 +14,16 @@ Schwierigkeitsgrade
 -   **MX** = Insane (Another/Exhaust)
 -   **SC/SHD** = Extra (Black Another/Expert/Infinite/Gravity)
 
-Anderes
--------
+### Anderes
 
 -   Column = 5K, 5 column. Die mittlere Column wird oft "Step-Column" oder auch "Spezial-Taste" genannt.
 
 Regeln
-======
+--------
 
 Die folgenden Regeln sind genau das: REGELN. Es sind keine Richtlinien und sollten unter KEINEN Umständen gebrochen werden!!
 
-Allgemeines
------------
+### Allgemeines
 
 -   **osu!topus (AutoPlay) muss in allen Schwierigkeitsgraden die volle Punktzahl (1,000,000) erreichen können**.
 -   **Es ist nicht erlaubt eine Column leer zu lassen**.
@@ -37,19 +34,17 @@ Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erken
 -   **Es ist nicht erlaubt zwei Noten auf der gleichen Column auf dem selben Timing zu platzieren. Es muss immer ein Abstand zur nächsten Note auf der gleichen Column bestehen.**
 -   **Letterboxing muss ausgeschaltet sein.** Letterboxing wird in osu!mania nicht unterstützt und gehört deshalb ausgeschaltet.
 
-Difficulty Spread
------------------
+### Difficulty Spread
 
 -   **Jede Beatmap braucht mindestens 2 Schwierigkeitsgrade. Davon muss eine mindestens Easy/Normal sein. Marathons sind davon nicht betroffen**
 -   **Schwierigkeitsgrade mit verschiedener zu spielender Tastenzahl müssen als unabhängiger Modus behandelt werden und benötigen jeweils einen eigenen voll Spread.** Deswegen benötigt JEDE Tastenzahl einen eigenen Spread. Als Beispiel: Wenn du 7K Maps in deine Beatmap einfügst brauchst du einen ordentlichen und vollen 7K Spread. Das gleiche gilt für alle anderen Tastenzahlen
 
-Timing
-------
+### Timing
 
 -   **Es ist nicht erlaubt Rote Timing Points zu benutzen wenn sich die BPM im Lied nicht ändert.** In anderen Worten: Es ist nicht erlaubt die Fallgeschwindigkeit der Noten mit einem Roten Timing Point zu verändert. Benutzt dafür die Grünen Inherited Timing Points.
 
 Richtlinien
-===========
+------------
 
 Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werden. Sie sind keine Regeln und dürfen unter gewissen Umständen missachtet werden. Wenn du vor hast eine dieser Richtlinien zu brechen frage dich erst selbst: Macht das nicht befolgen irgendeinen Sinn? Macht die Map durch das nicht befolgen der Richtlinie mehr Spaß? Wenn die Antwort auf beide fragen Ja lautet ist es in Ordnung die Richtlinien nicht zu beachten.
 
@@ -68,7 +63,7 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 -   **Verschiedene Tastenzahlen in einem Mapset sollten ein ähnlichen Spread besitzen.** Dies ist um sicher zu stellen das jede Tastenzahl den gleichen Spielspaß bietet.
 
 xK Referenz
-===========
+-------------
 
 Note: 1K, 2K, 3K <span style="text-decoration:line-through;">und 10K</span> wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
 

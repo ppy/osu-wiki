@@ -4,18 +4,17 @@ osu!catch Ranking Criteria (中文)
 **接水果(Catch the Beat)**Ranking规则与指南 ([discussion thread](http://osu.ppy.sh/forum/t/80544/))
 
 规则(Rules)
-===========
+-------------
 
 规则就是**规则(Rules)**。它**不是**指南(Guidelines)，在**任何**情况下也**不能**违反。
 
-游戏性(Gameplay)
-----------------
+### 游戏性(Gameplay)
 
 -   你的beatmap必须要在理论上能够被SS。这意味着你必须能够赶上所有的水果(Fruits)，包括小水珠(Droplets)。
 -   **不要在spinner后面半拍的范围内放置note**，这会使人大喊“坑爹呢这是”。（特别是在以前的版本，转盘会转换为一大堆水果，导致会因为漏掉而断连。）不过，如果BPM足够低的话，可以放宽到1/4拍范围内。
 
 指南(Guidelines)
-================
+-----------------
 
 指南(Guidelines)并**不是**规则(Rules)，所以在某些特殊的情况下指南(Guidelines)是可以被打破的。但在打破指南(Guidelines)前，请问问你自己：“\[1\]这样做是否合情理？\[2\]这样做是否能让一个map变的更有趣？”如果你对这两个问题的回答是“Yes”，或许有过关的可能。
 

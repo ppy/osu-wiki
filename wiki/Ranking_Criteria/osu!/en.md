@@ -4,12 +4,11 @@ osu! Ranking Criteria
 For the record, these include the recent changes made [from the discussion forum](http://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Rules
-=====
+--------
 
 All rules are exactly that: RULES. They are NOT guidelines and may NOT be broken under ANY circumstance.
 
-General
--------
+### General
 
 -   **Hitobjects must never be off-screen.** All mapsets are played from a fixed-screen viewpoint, so any hitobjects that are even partially off-screen can make it very difficult to read the pattern they are following. Test play your map to confirm this.
 -   **All repeat arrows on sliders must be visible.** Make sure that hitbursts (100s/300s/etc) from previous notes are not covering the repeat arrows or even the paths/ends of sliders (use the default skin to check if using hitbursts from another skin). This way, all sliders will be easily visible and playable. However, very short repeating sliders (e.g. 1/4 or 1/8 sliders, generally called "kick" sliders) only require the first repeat arrow to be visible (since it's nearly impossible to see any other repeats due to the short length and the cursor covering most of the visible space).
@@ -20,14 +19,13 @@ General
 -   **Combo colors must not blend in with the map's background/storyboard/video.** This is so the approach circles are always visible to the player.
 -   **There must be a new combo either on or after a group of spinners**, so that the objects on opposing sides of the spinner(s) don't form a single combo. (osu! checks this automatically unless you are editing .osu files by hand.)
 
-Skinning
---------
+### Skinning
 
 -   **Spinner circles must have a clearly visible center** to make sure players have something to effectively spin around while playing through the map.
 -   **Spinner circles must be clearly visible** (i.e. they should not be excessively transparent or near-invisible). This will ensure that players have a visible aid to help them spin consistently.
 
 Guidelines
-==========
+-----------
 
 Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in **special cases**. If you want to break a guideline, ask yourself this: Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay.
 

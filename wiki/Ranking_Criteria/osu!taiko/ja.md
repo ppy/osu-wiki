@@ -6,7 +6,7 @@ For the record, these include the recent changes made [from the discussion forum
 These rules and guidelines has been discussed in the [Taiko Discussion Thread](http://osu.ppy.sh/forum/p/1275323). New rules or guidelines may be suggested in the [discussion forum](http://osu.ppy.sh/forum/87) which are going to be updated once the discussion reaches an agreement.
 
 Rules
-=====
+------
 
 これらはガイドラインではなく厳格なルールであり、どのような場合においても守らなければなりません。
 
@@ -15,7 +15,7 @@ Rules
 Finish ノーツは1/4より上のStreamの途中、もしくは最初で使用してはいけません。終わりにStreamを置くことは理にかなった音がある場合に許可されます。ただしStreamのFinishの前のオブジェクトは、finishと反対の音符である必要があります。
 
 Guidelines
-==========
+-----------
 
 ガイドラインは、ほとんどの譜面で遵守されるべき重要なものです。しかしルールでは無い為、可能な限り従うべきではありますが、特殊な状況下においては破ることもできます。もしガイドラインを破りたい場合、「ガイドラインを破ることは理に適っているのか」、「ガイドラインを守る場合に比べて、ガイドラインを破ったものはより面白いか」をよく検討してみてください。もし両方ともに対してイエスならば、ガイドラインを破ることはおそらく認められるでしょう。ガイドラインを破った譜面をModしてもらう場合には、その箇所について極力あなたの考えを説明し、提案を受け入れるようにしましょう。
 

@@ -4,12 +4,11 @@ osu! Ranking Criteria (Português)
 Apenas lembrando, aqui foram escritas as mais recentes mudanças feitas no [forum de discussão](http://osu.ppy.sh/forum/87). Qualquer regra que estiver sendo discutida é listada aqui como de costume, e será atualizada uma vez que a discussão tenha um resultado.
 
 Regras
-======
+--------
 
 Todas as regras são exatamente isso: REGRAS. Elas NÃO são guias e NÃO podem ser quebradas sob qualquer circunstância.
 
-Geral
------
+### Geral
 
 -   **Hitobjects nunca devem ficar saindo da tela.** Todos beatmaps são jogados de uma área fixa da tela, então qualquer hit-object, mesmo que esteja apenas parcialmente fora, pode tornar muito difícil de ler as notas que esta jogando. Teste seus beatmaps para confirmar.
 -   **Todas as repeat arrows de sliders devem ser visíveis.** Faça com que os hitbursts (100s/300s/etc) de notas anteriores não estão cobrindo as repeat arrows ou até mesmo o corpo do slider/final (use a skin padrão para testes caso esteja utilizando outra skin). Dessa forma, todos sliders serão mais visíveis e jogáveis. Porém, sliders pequenos com repeat sliders (1/4 ou 1/8 sliders, normalmente chamados de "kick" sliders) apenas necessitam que a primeira repeat arrow seja visível (já que é quase impossível ver se existem mais repeats por causa da curta duração e do cursor cobrindo a maior parte do espaço).
@@ -20,14 +19,13 @@ Geral
 -   **Cores do combo não devem se camuflar com o background/storyboard/video.** Isso para que o circulo de aproximação seja sempre visível para o jogador.
 -   **Um new combo deve ser incluído nos spinners ou pelo menos depois de um grupo de spinners**, assim objetos de lado oposto aos spinners não formem um único combo. (osu! checa isso automaticamente a não ser que você esteja editando arquivos .osu manualmente.)
 
-Skinning
---------
+### Skinning
 
 -   **O circulo do spinner deve ter um centro claramente visível** para ter certeza que os jogadores tenham algo para girar quando estiverem jogando.
 -   **O circulo do spinner deve ser claramente visível** (não podem ser muito transparentes ou quase invisível). Isso fará com que os jogadores tenham uma base para ajuda-los a girar consistentemente.
 
 Guias
-=====
+-------
 
 Guias são importantes e devem ser seguidos na maioria dos beatmaps. Porém, eles não são regras, então podem ser ignorados em **casos especiais**. Se você quer ignorar um guia, pense bem nisso: O que eu estou fazendo faz sentido? Ignorar o guia fará o beatmap mais interessante do que o respeitando? Se a resposta for sim para ambas, então provavelmente não será um problema.
 

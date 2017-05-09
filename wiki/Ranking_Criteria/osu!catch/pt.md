@@ -1,7 +1,10 @@
+osu!catch Ranking Criteria (Português)
+========================================
+
 Regras de Rankabilidade e Diretrizes de **Catch the Beat**
 
 Regras
-======
+--------
 
 Os itens a seguir NÃO SÃO diretrizes e NÃO DEVEM ser quebrados em NENHUMA circunstância.
 
@@ -9,7 +12,7 @@ Os itens a seguir NÃO SÃO diretrizes e NÃO DEVEM ser quebrados em NENHUMA cir
 -   **Não coloque uma nota em uma distância mais próxima que 1/2 depois de um spinner.** Por conta dos spinners ocuparem boa parte da tela, algumas frutas apareceriam de repente, criando uma dificuldade para vê-la. Uma distância de 1/4 pode ser aceitável em certos casos, como por exemplo a bpm sendo devagar demais.
 
 Diretrizes
-==========
+------------
 
 Diretrizes NÃO SÃO regras, podendo ser quebradas em casos especiais. Se você quer quebrar uma diretriz, pergunte a si mesmo: *O que eu estou prestes a fazer faz sentido? É mais divertido de jogar desse modo do que seguir as diretrizes?* Se você respondeu sim à ambas questões, então provavelmente não tem nenhum problema.
 

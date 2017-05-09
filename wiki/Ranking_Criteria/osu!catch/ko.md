@@ -4,7 +4,7 @@ osu!catch Ranking Criteria (한국어)
 **Catch the Beat** 랭크 룰 및 가이드 라인 ([논의 스레드](http://osu.ppy.sh/forum/t/80544/))
 
 룰
---
+----
 
 이것은 가이드라인이 아니므로 어떠한 경우에도 어길 수 없습니다
 

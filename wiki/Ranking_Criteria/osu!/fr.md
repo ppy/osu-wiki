@@ -4,12 +4,11 @@ Critères de ranking osu!standard
 Ces règles sont susceptibles de changer à tout moment. Veuillez vous référer à ce [sujet](http://osu.ppy.sh/forum/87) pour vous tenir à jour des dernières modifications. Cette page fera l'objet d'éditions à chaque nouveau changement dans les Ranking Criteria.
 
 Règles
-======
+--------
 
 Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circonstances. Notez bien que **ce ne sont pas des conseils**, mais des **pré-requis** si vous tenez à ce que votre beatmap soit ranked.
 
-Général
--------
+### Général
 
 -   **Les éléments de jeu (cercles, sliders) ne doivent en aucun cas se situer en dehors de l'écran.** Tous les mapsets (ensemble de difficultés d'une même musique) sont joués à partir d'un point de vue fixe. Si vos cercles/sliders sont situés, ne serait-ce que partiellement, en dehors de la zone de jeu, il sera très difficile de lire le "pattern" (tracé formé par une suite de cercles et sliders) qu'ils suivent. Testez votre beatmap afin d'éviter ce problème.
 -   **Toutes les flèches de répétition doivent être visibles.** Vérifiez que les "hitbursts" (100/300/etc) des notes précédentes ne chevauchent les flèches de répétition, le chemin et la fin du slider (il est recommandé d'utiliser le skin classique pour cette tâche). De cette manière, tous les sliders seront visibles et jouables. Cependant, une exception s'applique aux sliders répétitifs très courts (exemple : sliders sur 1/4 ou 1/8) : seule la première flèche de répétition ne doit pas être masquée.
@@ -20,14 +19,13 @@ Général
 -   **Les couleurs de combo ne doivent pas se confondre avec le fond d'écran.** Cette règle s'applique à tout les fonds, qu'ils soient simple image, storyboard, ou vidéo. De cette manière, les joueurs pourront discerner les cercles d'approches.
 -   **Un nouveau combo doit obligatoirement être créé lors d'un groupe de spinners ou après un groupe de spinners.** De cette manière, les objets situés de part et d'autre des spinners ne forment pas un combo unique.
 
-Skinning
---------
+### Skinning
 
 -   **Les spinners doivent avoir un centre clairement visible** de façon à ce que les joueurs aient un repère visuel pour spinner autour.
 -   **Les cercles des spinners doivent être clairement visibles** de façon à ce que les joueurs aient un repère visuel les aidant à spinner de façon consistante. Les cercles semi-transparents sont tolérés tant qu'ils ne sont pas trop transparents.
 
 Conseils
-========
+----------
 
 Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, **ce ne sont pas des règles**, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à faire apporte quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
 

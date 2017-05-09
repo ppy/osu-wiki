@@ -4,12 +4,11 @@ osu!catch Ranking Criteria
 The **Catch the Beat Ranking Criteria** is a set of rules and guidelines that apply to the creation of Catch the Beat-specific difficulties. In order to get a Catch the Beat-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Glossary
-========
+---------
 
 These terms are frequently appearing when getting in touch with Catch the Beat difficulties and are also used within the Ranking Criteria.
 
-Difficulty Names
-----------------
+### Difficulty Names
 
 -   ![](Easy-f.png "fig:Easy-f.png") **Cup**. Easy
 -   ![](Normal-f.png "fig:Normal-f.png") **Salad**. Normal
@@ -17,8 +16,7 @@ Difficulty Names
 -   ![](Insane-f.png "fig:Insane-f.png") **Rain**. Insane
 -   ![](Expert-f.png "fig:Expert-f.png") **Overdose**. Expert
 
-Gameplay
---------
+### Gameplay
 
 -   **Fruit.** A large object represented by a hitcircle, slider head, tail or repeat.
 -   **Drop.** A medium-sized object represented by a slider tick.
@@ -32,20 +30,19 @@ Gameplay
 ------------------------------------------------------------------------
 
 Overall
-=======
+-----------
 
 Overall rules and guidelines apply to every kind of Catch the Beat difficulty.
 
-General
--------
+### General
 
-### Rules
+#### Rules
 
 -   **Your map must theoretically be possible to SS.** This means it must be possible to catch absolutely all fruits, including droplets.
 -   **Edge dashes must not be used in direct conjunction with hyperjumps.** This is because such patterns require especially precise movement and force an unreasonable restriction on accuracy required to catch them.
 -   **Each map must use at least two different combo colors which must not blend in with the map's background/storyboard/video.** This is so hit objects are always visible to the player.
 
-### Guidelines
+#### Guidelines
 
 -   **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
 -   **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
@@ -54,30 +51,28 @@ General
 -   **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 -   **Hyperdashes should not be used when the destination of the hyperjump is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the hyperjump and the border of the play field, respectively at x:16 or x:496 at most.
 
-Skinning
---------
+### Skinning
 
-### Rules
+#### Rules
 
 -   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are "fruit-catcher-idle.png", "fruit-catcher-kiai.png" and "fruit-catcher-fail.png".
 -   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found in the osu! wiki </wiki/Skinning_Catch_the_Beat> . Additionally, it is recommendable to use transparent elements for the overlays.
 -   **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the fruits, 82x103 for the drops and 306x320 for the catcher.
 
-### Guidelines
+#### Guidelines
 
 -   **Custom catchers should additionally include the element "lighting.png" to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
 
 ------------------------------------------------------------------------
 
 Difficulty-specific
-===================
+--------------------
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** Catch the Beat difficulty*.
 
-![](Easy-f.png "fig:Easy-f.png") Cup
-------------------------------------
+### ![](Easy-f.png "fig:Easy-f.png") Cup
 
-### Rules
+#### Rules
 
 -   **Dashes and hyperdashes of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
 -   **Adequate time must be left between objects and the start and end of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
@@ -85,7 +80,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
     -   BPM &lt; 240 - 1 bar
     -   BPM ≥ 240 - 2 bars
 
-### Guidelines
+#### Guidelines
 
 -   Combos should not exceed 8 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/1 pattern - 1/2 and/or 1/3 patterns can be used sparingly
@@ -93,10 +88,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be 4 or less
 -   Circle Size should be between 2-3
 
-![](Normal-f.png "fig:Normal-f.png") Salad
-------------------------------------------
+### ![](Normal-f.png "fig:Normal-f.png") Salad
 
-### Rules
+#### Rules
 
 -   **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players. Difficulties may make use of basic (1/1, 1/2) regular dashing, although no type of dash can be used more than twice consecutively.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
@@ -105,7 +99,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
     -   BPM &lt; 240 - 1 bar
     -   BPM ≥ 240 - 2 bars
 
-### Guidelines
+#### Guidelines
 
 -   Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
@@ -114,10 +108,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 4-5
 -   Circle Size should be between 2.5-3.5
 
-![](Hard-f.png "fig:Hard-f.png") Platter
-----------------------------------------
+### ![](Hard-f.png "fig:Hard-f.png") Platter
 
-### Rules
+#### Rules
 
 -   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used. 1/3 and 1/4 hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the BPM is less than 120.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
@@ -127,7 +120,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
     -   BPM ≥ 240 - 1 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
-### Guidelines
+#### Guidelines
 
 -   Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
@@ -135,10 +128,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 5-6
 -   Circle Size should be between 3-4
 
-![](Insane-f.png "fig:Insane-f.png") Rain
------------------------------------------
+### ![](Insane-f.png "fig:Insane-f.png") Rain
 
-### Rules
+#### Rules
 
 -   **More complex hyperdashes (1/3, 1/4) may begin to appear, but no type of hyperdash can be used between more than four consecutive objects.** Additionally, hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive objects.
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
@@ -147,7 +139,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
     -   BPM ≥ 240 - 1 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
-### Guidelines
+#### Guidelines
 
 -   Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
@@ -157,17 +149,16 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 6-7
 -   Circle Size should be between 3-5
 
-![](Expert-f.png "fig:Expert-f.png") Overdose
----------------------------------------------
+### ![](Expert-f.png "fig:Expert-f.png") Overdose
 
-### Rules
+#### Rules
 
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
     -   BPM &lt; 240 - 1/4 bar
     -   BPM ≥ 240 - 1/2 bar
     -   The spacing between the end of a spinner and the next object must be at least 1/2 a bar regardless of BPM.
 
-### Guidelines
+#### Guidelines
 
 -   Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 -   Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.

@@ -4,7 +4,7 @@ Kriteria Pemeringkatan osu!catch
 Peraturan dan Arahan agar map **Catch the Beat** kamu dirank.
 
 Peraturan
-=========
+----------
 
 Ini BUKAN arahan dan TIDAK BOLEH dilanggar dalam keadaan APAPUN.
 
@@ -12,7 +12,7 @@ Ini BUKAN arahan dan TIDAK BOLEH dilanggar dalam keadaan APAPUN.
 -   **Jangan taruh sebuah objek lebih dekat dari 1/2 setelah spinner.** Dikarenakan sifat spinner, objek-objek yang datang sepertinya terlalu mendadak dan sangat mengurangi daya baca. 1/4 bisa diterima dalam kasus tertentu jika *BPM/Ketukan Per Menit* nya cukup rendah.
 
 Petunjuk
-========
+---------
 
 Petunjuk BUKAN peraturan, jadi boleh dilanggar dalam kasus tertentu. Jika kamu ingin melanggar Petunjuk, tanyakan dirimu ini: *\[1\] Apakah yang akan kulakukan ini masuk akal? \[2\] Apakah lebih menarik dimainkan seperti ini daripada mengikuti petunjuk?* Jika jawaban kamu "Ya" pada kedua pertanyaan tersebut, maka kemungkinan tidak apa-apa.
 

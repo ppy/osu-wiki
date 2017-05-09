@@ -4,10 +4,9 @@ osu!taiko Ranking Criteria (Español)
 Estas reglas y pautas (guidelines) han sido discutidas en el [Hilo de Discusión de Taiko (en inglés)](http://osu.ppy.sh/forum/p/1275323). Nuevas reglas o pautas pueden ser sugeridas en el [foro de discusión (en inglés)](http://osu.ppy.sh/forum/87), las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
 Términos comunes
-================
+------------------
 
-General
--------
+### General
 
 -   **Kantan**: Fácil
 -   **Futsuu**: Normal
@@ -15,8 +14,7 @@ General
 -   **Oni**: Demonio/Experto
 -   **Ura Oni**: Extra
 
-Gameplay
---------
+### Gameplay
 
 -   **Don**: Nota roja
 -   **Kat**: Nota azul
@@ -25,14 +23,14 @@ Gameplay
 -   **Finisher**: Notas grandes. También conocidas como "Big Don" o "Big Kat"
 
 Reglas
-======
+---------
 
 Todas las reglas son exactamente eso: REGLAS. NO son guidelines y NO deben ser rotas bajo NINGUNA circunstancia.
 
 -   **No debe haber notas con finish al inicio o durante un patrón en 1/4.** Esto es para asegurar la jugabilidad de todos los patrones, al estar las notas con finish al inicio o durante un patrón en 1/4 han sido consideradas problemáticas al jugar.
 
 Guidelines
-==========
+-----------
 
 Las guidelines (pautas) son importantes y deben ser seguidas en la mayoría de los Mapsets. Sin embargo, estas NO son reglas, por lo que pueden ser rotas en ciertas ocasiones. Si deseas romper una guideline, debes preguntarte a ti mismo lo siguiente: ¿Tiene sentido lo que estoy apunto de hacer? ¿Es más divertido jugar esto así que jugarlo siguiendo las guidelines? Si tu respuesta es sí para ambas preguntas, entonces esta probablemente bien lo que haces. Cuando tu beatmap que rompe una guideline recibe un mod, trata de ser lo más razonable posible: Da lo mejor de ti para explicar tu punto de vista y mantente abierto a sugerencias.
 

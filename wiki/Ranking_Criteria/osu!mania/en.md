@@ -4,19 +4,18 @@ osu!mania Ranking Criteria
 For the record, these include the recent changes made [from the discussion forum](http://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Terms
-=====
+--------
 
 -   Non-expert = Easy, Normal. (Basic, Standard)
 -   Expert = Hard, Insane. (Hyper, Another)
 -   Column = 5K, 5 column. The center column is sometimes called Special or Step column.
 
 Rules
-=====
+-------
 
 All rules are exactly that: RULES. They are NOT guidelines and may NOT be broken under ANY circumstance.
 
-General
--------
+### General
 
 -   **osu!topus (AutoPlay) must be able to achieve the full score (1,000,000) in all diffifculties**.
 -   **You are not allowed to leave any column empty**.
@@ -27,19 +26,17 @@ Considering most keyboards use USB connections which do not allow 7 simultaneous
 -   **You can't have two notes in the same column that overlap each other, and there must always be a space between two notes in the same column.**
 -   **You must turn off the letterbox option.** Letterboxing is not supported in osu!mania mode and therefore should not be used.
 
-Difficulty Spread
------------------
+### Difficulty Spread
 
 -   **Each beatmap must have at least 2 difficulties and one of them must be Easy/Normal. Marathon is an exemption**
 -   **Different key amounts within a mapset must be treated as different gamemodes and require a respective independent difficulty spread.** Therefore each key amount must have an independent difficulty spread. For example if you want to add a 7K difficulty to your set, you must design a whole 7K spread. If you want to add an additional 4k difficulty to your set, you must also design a whole 4K spread.
 
-Timing
-------
+### Timing
 
 -   **You can't use uninherited timing sections when there is no actual BPM changes.** In other words, you can't use uninherited timing sections slowly to change the scrolling speed. Use inherited timing sections and SV changes instead.
 
 Guidelines
-==========
+-----------
 
 Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this: Does what I’m about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay.
 
@@ -58,7 +55,7 @@ Guidelines are important and should be followed in most maps. However, they are 
 -   **Different key amounts within a mapset should have a similiar difficulty spread.** This is to keep parity between different key amounts and satisfy different key amount players.
 
 xK Reference
-============
+--------------
 
 Note: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">and 10K</span> are from the new unstable update, so not recommended to mapping it now.
 

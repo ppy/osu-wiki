@@ -4,12 +4,11 @@ Kriteria Pemeringkatan osu! Standar
 Ini termasuk dari perubahan yang terjadi [dalam forum diskusi](http://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan diperbaharui setiap diskusi mencapai kesepakatan.
 
 Peraturan
-=========
+----------
 
 Semua aturan pastinya adalah: ATURAN. Itu BUKAN petunjuk dan TIDAK boleh dilanggar dalam kondisi apapun.
 
-Umum
-----
+### Umum
 
 -   **Objek ketukan tidak diperbolehkan melebihi layar/area bermain.** Semua mapset yang dimainkan memiliki layar yang sama dengan penyunting beatmap. Jadi not yang terpotong/keluar dari layar akan susah dibaca. Tes mapmu untuk memastikan hal ini.
 -   **Semua panah yang berulang di slider harus terlihat.** Pastikan hitburst (100/300/dst) tidak menutupi panah yang berulang atau bahkan jalur/akhir dari slider (gunakan default skin apabila kamu menggunakan skin lain). Dengan begini, semua slider akan terlihat dan dapat dimainkan. Namun, pada slider yang sangat pendek dan berulang (1/4 atau 1/8 slider, umumnya dipanggil slider "kick"), hanya memperlihatkan satu panah berulang diperbolehkan (karena hampir mustahil untuk melihat panah lainnya, dikarenakan pendeknya slider dan kursor menutupi sebagian besar jalur slider).
@@ -20,14 +19,13 @@ Umum
 -   **Warna kombo tidak diperbolehkan untuk bertumpukan dengan background/storyboard/video dari map tersebut.** Diperuntukkan agar approach circle selalu terlihat oleh pemain.
 -   **Harus selalu ada kombo baru baik pada spinner atau setelah spinner.**, agar objek pada bagian lain spinner tidak menciptakan kombo yang tetap. (osu! mengecek hal ini otomatis, kecuali kamu mengedit data .osu sendiri.)
 
-Skinning
---------
+### Skinning
 
 -   **Lingkaran spinner harus terlihat di tengah** untuk memastikan agar pemain dapat memainkan spinner dengan baik selama bermain.
 -   **Lingkaran spinner harus terlihat jelas** (contohnya mereka tidak boleh hampir mendekati transparan). Ini untuk memastikan pemain agar dapat melihat dan memutar spinner dengan konsisten atau tetap.
 
 Petunjuk
-========
+-----------
 
 Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, mereka BUKANLAH aturan, jadi mereka bisa dilanggar dalam kasus-kasus tertentu. Jika kamu ingin melanggar petunjuk, tanyakan pada dirimu: Apakah yang aku lakukan masuk akal? Apakah lebih menyenangkan bila dimainkan daripada mengikuti petunjuk? Jika kamu menjawab iya kepada kedua pertanyaan tersebut, maka kemungkinan boleh. Jika map anda yang melanggar petunjuk dimod, cobalah sebisa mungkin memberi alasan yang masuk akal : Jelaskan sudut pandangmu dan terbuka terhadap saran/sugesti.
 

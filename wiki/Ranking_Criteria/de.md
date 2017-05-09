@@ -2,12 +2,11 @@ Ranking Kriterien
 ====================
 
 Regeln
-======
+------
 
 Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollten unter keinen Umständen gebrochen werden!
 
-Allgemeines
------------
+### Allgemeines
 
 -   **Mehrere Objekte zur selben Zeit sind nicht erlaubt. osu!mania ist von dieser Regel nicht betroffen**. Dies beinhaltet Circles, Start- und Endpunkte von Slidern und Start- und Endpunkte von Spinnern. Obwohl es möglich sein könnte, mehrere Objekte beim Spielen zu treffen, so spricht es doch gegen den Gedanken, mit der Map dem Rhythmus der Musik zu folgen.
 -   **Übertreiben Sie es nicht mit dem Benutzen vom Kiai** (die grundsätzliche Regel ist ein Kiai-Wechsel pro Minute). Benutze die Kiais nicht nur, um Leuchtfontänen zu erzeugen, es sei denn, Sie tuen dies sehr selten. Kiais dienen dazu, den Chorus des Liedes zu betonen. Sie können die Kiais in der Mitte des Chorus ein- und wieder ausschalten, wenn das gut aussieht, aber dies alle 4-8 Takte zu tun wäre unsinnig.
@@ -15,8 +14,7 @@ Allgemeines
 -   **Keine obszönen Inhalte als Hintergrund/Storyboard/Skin/Video.** Dies beinhaltete Nacktheit, annähernde Nacktheit, sexuelle Referenzen, Gewalt, Drogenmissbrauch, etc. Alle Inhalte müssen für Personen ab 12 Jahren geeignet sein.
 -   **Die Drain Time von Marathon Maps muss über 5 Minuten liegen.** Nur dann ist es erlaubt eine einzige Schwierigkeitsstufe im Mapset zu haben. Sollte die Drain Time unter 5 Minuten liegen, ist ein kompletter Mapset notwendig, um sie ranken zu können.
 
-Mapset
-------
+### Mapset
 
 -   **Jedes Mapset muss aus mindestens 2 [Schwierigkeitsstufen](DE:Difficulty "wikilink") bestehen, davon muss eine der beiden die Schwierigkeitsstufe Easy oder Normal sein.** Marathon Maps ist es erlaubt nur eine Schwierigkeitsstufe zu haben.
 -   **Der Mapset muss eine gut gestaltete Aufteilung der spezifischen Schwierigkeitsstufen vorweisen.** Dadurch soll gewährleistet werden, dass allen Spielern die Möglichkeit gegeben wird, ihren Lieblingssongs spielen zu können.
@@ -32,8 +30,7 @@ Mapset
 -   **Nur eine CtB-spezifische Schwierigkeitsstufe in einem Standard Mapset ist erlaubt**, da die Standard Schwierigkeitsstufen korrekterweise in CtB Schwierigkeitsstufen konvertiert werden. Folglich müssen mindestens 2 CtB Schwierigkeitsstufen in einem Taiko oder osu!mania Mapset vorhanden sein, da sie nicht in CtB Schwierigkeitsstufen konvertiert werden können.
 -   **Gastmapper dürfen nicht mehr Schwierigkeitsstufen als der Beatmaphochlader haben.** Bei einem Gemeinschaftsprojekt sollte derjenige, der am meisten mitgewirkt hat, die Beatmap hochladen, sowie sollte derjenige an allen Schwierigkeitsstufen mitgewirkt haben. Maps, die wie die üblichen Collabs einen unklaren Schwierigkeitsgrad aufweisen, werden im Einzelfall untersucht, um zu gewährleisten, dass der richtige Beatmaphochlader ausgewählt wurde.
 
-Metadata
---------
+### Metadata
 
 -   **Die Metadata muss über alle Schwierigkeitsstufen hinweg konsistent sein.** Dadurch wird sichergestellt, dass die Suche konsistent und sauber im gesamten Mapset ist.
 -   **Das Quellfeld wird nur verwendet, wenn das Lied von einem berühmten Videospiel, Film oder Serie ist bzw. dafür gemacht wurde.** Website-Namen sind weder als Quelle noch als Artist akzeptabel.
@@ -43,8 +40,7 @@ Metadata
 -   **Die Angaben aller Mitwirkenden im Mapset muss im Mapset mit angegeben werden.** Dies kann entweder mit Hilfe vom Storyboarding oder durch Benennung der Gast Schwierigkeitsstufen entsprechend erfolgen. Sie brauchen nur die Informationen von den Gast Mappern und den entsprechenden Teilen, welche von den Gästen erstellt wurde, bereitstellen. **Die Mapper, der Gast Schwierigkeitsstufen, müssen zu den Tags im Mapset hinzugefügt werden.** Dies soll anderen dabei helfen, schneller herauszufinden, ob derjenige, der die Map hochgeladen hat, auch Hauptmitwirkender am Mapset ist und wer sonst noch alles daran mitgearbeitet hat.
 -   **Ändern sie nicht den Titel des Songes.** Dies beinhaltet auch das Hinzufügen von Hinweisen, um den Schnitt des Videos zu beschreiben, wie z. B. "Short Ver.", "TV Size" und so weitere, es sei der Hinweis gehört zum offizielen Song-Titel dazu, welches in einer seriösen Quelle mit angegeben wird.
 
-Timing
-------
+### Timing
 
 -   **Uninherited (rote) Timing-Abschnitte sollten verwendet werde, um das Timing des Songes genau zu setzen.** Sie sollten die Beats vom Song so genau wie möglich synchronisieren und die richtige Signatur verwenden, wenn's möglich ist. Wenn eine falsche Zeitsignatur für mehr als zwei Takte andauern sollt, fügen sie eine weitere Timing-Abschnitt ein, um es zu beheben. Sie finden unter [diesen Thread](http://osu.ppy.sh/forum/viewtopic.php?f=10&t=20998) weitere Informationen über Downbeats.
 -   **Uninherited Timing-Abschnitte müssen in jeder Schwierigkeitsstufe gleich sein.** Das bedeutet, dass jeder Abschnitt die selbe BPM und Offset in jeder Schwierigkeitsstufe übereinstimmen muss. Außerdem müssen keine zusätzliche oder uninherited Abschnitte in der Schwierigkeitsstufe sein. Das Timing des Songes ändert sich zwischen den Schwierigkeitsstufen nicht, daher macht es keinen Sinn uninherited Abschnitte pro Schwierigkeitsstufe zu haben.
@@ -52,8 +48,7 @@ Timing
 -   **Zwei uninherited oder zwei inherited Timing-Abschnitte müssen an der gleichen Stelle platziert werden.** Einen inherited Timing-Abschnitt kann auf einen uninherited Timing-Abschnitt gelegt werden (aber nur um die Slidergeschwindigkeit zu ändern). Zwei uninherited oder zwei inherited Timing-Abschnitte übereinander verursachen Probleme innerhalb der Beatmap.
 -   **Ihre Map muss perfekt abgestimmt sein.** Dies bedeutet, dass die BPM und Offset haargenau sind, Slider enden, wenn sie sollen, Noten sind in einem erkennbaren Rhythmus (so wie der Songtext) für die Spieler verständlich und dass alle Noten an einem Tick fixiert worden sind (dies können sie überprüfen, indem sie AIMod ausführen (Tastenkombination STRG + UMSCHALT + a) im Editor).
 
-Audio
------
+### Audio
 
 -   **Eine Beatmap beinhaltet nur eine Song-Datei und die dazugehörigen Schwierigkeitsstufen.** Eine Beatmap, die mehrere Song-Dateien beinhaltet, wird von osu! nicht unterstützt und kann zur fehlerhaften Anzeige der Dauer des Songes, der Metadata, etc. führen.
 -   **Die Audiodatei muss ein angemessene Qualität aufweisen.** Versuch die mp3-Datei zu beschaffen; es aus einem Streaming-Video herauszubrennen führt in der Regel zur miesen Qualität des Liedes, sowie zu einer großen Dateigröße. Die Bitrate der Audiodatei darf nicht kleiner als 128kbps und nicht höher als 192kbps sein. Wenn sie Probleme haben sollten eine anständige Audiodatei zu erwerben, kontaktieren sie einen der audioversierten BATs; die BATs wären mehr als glücklich, ihnen bei der Suche einer mp3-Datei zu helfen.
@@ -65,16 +60,14 @@ Audio
 -   **Songs/Lieder mit nicht jugendfreien Texten/Themen müssen einer Bezeichnung wie "18+" im dazugehörigen Thread markiert werden.** Dieses Spiel ist für alle Altersgruppen, daher ist eine Warnung für die jüngeren Spieler erforderlich. Es gibt derzeit keine Möglichkeit dies außerhalb des Threads herauszufinden, aber könnte sich in Zukunft möglicherweise ändern.
 -   **Hit Sounds von Noten und Slidern müssen hörbar sein.** Diese sind als Rückmeldungen für den Spieler vorzusagen, geräuschlose Hit Sounds in einem Rhythmusspiel machen nicht viel Sinn. Wenn sie die Standard-Hit sounds nicht mögen sollten, dann finden sie [hier](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=15407) passende Ersatzmöglichkeiten. Die Lautstärke zu senken, um einen gewissen gedämpften Effekt zu erzeugen, ist akzeptabel, aber sie komplette zu verstummen ist inakzeptabel. Das Ende vom Spinner (oder der komplette Spinner), der gleitende Sound von Slidern und das Ende vom Slider kann stumm sein, aber nur wenn es auch wirklich Sinn macht. Schließlich können sie nicht die beiden Sliderenden und den gleitenden Slider verstummen lassen.
 
-Video
------
+### Video
 
 -   **Ein Beatmapset kann nicht mehrere Video-Dateien beinhalten.** Ein Beatmap, die mehrere Videos beinhaltet, wird von osz2 nicht unterstützt und kann daher während dem Raufladen zu Fehlern führen.
 -   **Die Auflösung vom Video sollte nicht größer sein als 1280x720 .** Das Vergrößern eines Videos mit geringer Auslösung zu einer höheren Auslösung sollte vermieden werden. Dadurch soll gesichert werden, dass die Video-Datei nicht zu groß oder zu ressourcenintensiv wird.
 -   **Das Offset vom Video musst richtig eingestellt sein und zwischen allen Schwierigkeitsstufen einheitlich sein,** damit auch wirklich gewährleistet ist, dass das Video zum Song synchron verläuft.
 -   **Die Audiospur vom video muss entfernt werden.** Die Audiospur vom Video wird von osu! nicht verwendet, durch das Entfernen liesse sich daher die Dateigröße der Beatmap reduzieren.
 
-Skinning
---------
+### Skinning
 
 -   **Gameplay-Elemente müssen sichtbar sein.** Sie können keine Elemente nehmen, die die Spielbarkeit der Map beeinträchtigt, wodurch sich die Map nicht mehr intuitiv spielen lässt bzw. es komplett unmöglich ist die Map zu spielen.
 -   **Wenn sie Elemente verwenden, die von ihren Mitspielern erstellt worden sind, fragen sie vorher erst um Erlaufnis.** Das Respektieren anderer Arbeiten ist von großer Bedeutung und die meisten wären erfreut, wenn ihre Arbeit in ihrem Projekt zur Verwendung kommt.
@@ -88,8 +81,7 @@ Skinning
 -   **Die Hintergrundbilder sollten ungefährlich sein.**Hintergrundbilder müssen so gewählt werden, dass sie in jedem Land, ohne Gefahr bzw. ohne das sie zensiert werden müssen, gezeigt werden können. Wenn sie gewisse Probleme haben sollten, bei dem es sich um Grenzfälle handelt, kontaktieren sie bitte per PM "ppy" im IRC mit einem Link zum Bild. Es wird dann eine Liste veröffentlicht, wo aufgelistet werden soll, welche Bilder akzeptable bzw. inakzeptabel sind, um gewissen Richtlinien festzulegen.
 -   **Wenn sie Skinelemente fürs Gameplay erstellen, dann muss ein kompletter Skinset erstellt werden.** Beispielsweise wenn sie den HitCircle skinnen, muss der hitcircle.png, hitcircleoverlay.png, approachcircle.png und eine Farbe für den Rand vom Slider (dies gelingt durch das Hinzufügen der Zeile "SliderBorder: 255,255,255" (mit RGB-Werte) im Abschnitt \[Farben\] in jeder .osu-Datei) erstellt werden. Das selbe gilt für die HitBursts, Cursor, Zahlen und weitere dieser Art. Wenn sie ein Element aus einem Set nicht skinnen wollen, dann können sie einfach das Element aus dem Template-Skin als Ersatz verwenden. Das Einstellen von Skin-Einstellungen ist auch erlaubt (wie z. B. das Erzwingen des Standard-Skins).
 
-Storyboarding
--------------
+### Storyboarding
 
 -   **Die Storyboard-Bilder müssen auf eine angemessene Größe für ihre Verwendung sein.** Für die meisten Verwendungen (z. B. Vollbild-Bilder) liegt das Maximum bei 800x600px für Bilder im Seitenverhältnis von 4:3, 640x480px wird jedoch mehr bevorzugt. Für den Breitbild-Modus liegt die maximale Auslösung bei 960x540 pixels für Bilder im Seitenverhältnis von 16:9 und bei 960x600 für Bilder im Seitenverhältnis von 16:10. Die Standardgröße vom Editor ist 640x480px, daher ist es wirklich nicht notwenig größere Elemente zu verwenden.
 -   **Um den Storyboard-Bildern sollte keine unnötige Transparenz sein,** schneiden und verkleinern sie es, so weit es möglich ist. Liegen besondere Gründe für scheinbar nutzlose Transparenz vor, dann erklären sie dies bitte. Für transparente Sprites sollte mindestens 1px transparenter Rand herum leigen, damit die Interpolation (z. B. schwarz-gerändertes Bild auf schwarzem Hintergrund) einwandfrei funktioniert (auch ein Schatten oder Erhellen um das Bild herum, kann dieses Problem beheben).
@@ -97,7 +89,7 @@ Storyboarding
 -   **Maps mit blinkenden Elementen im Storyboard <u>müssen</u> mit einem Hinweis für Epileptiker gekennzeichnet werden.** Im Editor ist eine integrierte Funktion, welche eine visuelle Warnung am Anfang der Map.
 
 Richtlinien
-===========
+--------------
 
 Richtlinien sind wichtig und sollten so gut wie möglich eingehalten werden. Wie auch immer, es sind **keine Regeln** und **müssen nicht in allen Fällen eingehalten werden**.
 

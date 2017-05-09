@@ -6,12 +6,11 @@ For the record, these include the recent changes made [from the discussion forum
 **Keep in mind that the [Code of Conduct](Code_of_Conduct:_Modding_and_Mapping "wikilink") is part of the Ranking Criteria and applies to all existent game modes in osu!.**
 
 Rules
-=====
+------
 
 All rules are exactly that: RULES. They are NOT guidelines and may NOT be broken under ANY circumstance.
 
-General
--------
+### General
 
 -   **No two hitobjects on the same tick (osu!mania game mode is an exception).** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. Although this may be possible to accomplish while playing, it defeats the purpose of following the rhythm of the song.
 -   **Do not overuse kiai time.** The general rule of thumb is one toggle per minute of playtime. Kiai is meant to accent chorus sections, so don't use it just for fountains unless you're doing this rarely. You can toggle kiai off and back on halfway through the chorus if it fits, but using it constantly every few beats/measures is just ridiculous and can distract players.
@@ -19,8 +18,7 @@ General
 -   **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+.
 -   **Approved Category is only for Marathon maps.** Long maps with over 5 minutes of draining time fit the Approval category. Only then they are allowed to be single difficulty mapsets. If they are below 5 minutes of draining time, a full difficulty spread is needed and the map will have to be ranked instead.
 
-Mapset
-------
+### Mapset
 
 -   **Mapsets must have at least two difficulties of the same game mode, one of which must be an Easy/Normal level.** It is possible for Marathon difficulties to have only 1 difficulty, but it must be named Marathon for the BSS to allow the submission to pending.
 -   **The mapset must have a well-designed spread of difficulties, containing at least an Easy or a Normal difficulty.** This is so that players of all levels of experience are able to enjoy maps of the songs they love.
@@ -36,8 +34,7 @@ Mapset
 -   **Having just one Catch the Beat specific difficulty is allowed within an osu! standard mapset, if it is not an Extra level difficulty.** If you wish to add a CtB-specific Extra level difficulty into a osu! standard mapset, you must at least add another CtB-specific Insane difficulty. osu! difficulties are converted correctly into Catch the Beat. However, in mapsets without osu! standard difficulties you must create a full spreaded CtB set, as Taiko and osu!mania difficulties can not be converted into Catch the Beat.
 -   **No guest mapper should have more difficulties in the mapset than the creator, all modes together**. For collaboration mapsets, the uploader should take part in all collab difficulties. The person who should upload the map is the one who contributed most to it. Maps with an ambiguous set of difficulties such as collabs will be evaluated on a case-by-case basis to ensure that the submitting mapper is properly accounted for.
 
-Metadata
---------
+### Metadata
 
 -   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
 -   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
@@ -49,8 +46,7 @@ Metadata
 -   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
 -   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
 
-Timing
-------
+### Timing
 
 -   **Uninherited (red) Timing Sections should be used to accurately map the song's timing.** They should synchronize to the beats of the song as accurately as possible and use the correct time signature whenever possible. If an incorrect time signature would last for more than 2 bars, add another timing section to fix it. Please see [this thread](http://osu.ppy.sh/forum/viewtopic.php?f=10&t=20998) for more information on downbeats.
 -   **Your map must be perfectly timed.** This means that your BPM and offset are spot-on, sliders end when they should, notes are generally following a recognizable rhythm (such as the lyrics or drums) which is comprehensible by a player, and that there are no unsnapped notes (you can check this by running AIMod (shortcut ctrl+shift+a) in the editor).
@@ -58,8 +54,7 @@ Timing
 -   **Uninherited timing sections cannot be used to manipulate slider speeds.** These can be very unexpected for the player while also disrupting the main menu pulse and slightly changing the overall timing of the map.
 -   **No two uninherited or two inherited timing sections should be placed at the same point.** An inherited timing section may be placed on an uninherited timing section (but only to change the slider speed). Having two uninherited or two inherited sections on top of each other will cause problems within the beatmap.
 
-Audio
------
+### Audio
 
 -   **A beatmap set may only contain one music file used by all difficulties.** Multiple music files within a single beatmap set is unsupported by osu! and results in unexpected behaviour with preview times, metadata, etc.
 -   **The song's audio file must be of reasonable quality.** Try and source mp3 files yourself; ripping them from a streaming video site often results in low quality audio with high file sizes. The bitrate of a beatmap's audio file must be no lower than 128kbps and no higher than 192kbps. If you are having trouble acquiring an appropriate audio file, contact one of the more audio-savvy BN; they will be more than happy to help find an mp3 for you.
@@ -75,16 +70,14 @@ Audio
     **NOTE:** Due to a technical issue having any files that are 0 bytes in size in the beatmap folder will cause files after the (first) 0-byte file to be missing. Please do NOT use any 0-byte files. The one linked above is 44KB in size and won't cause issues.
 -   **Hitsounds must have an acceptable range of delay under 5ms.** Every hitsound file should start in time, preferrably at 0ms. This is to ensure that every map doesn't sound mistimed, and therefore could provide acceptably synchronized rhythm feedback to players.
 
-Video
------
+### Video
 
 -   **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported by osz2 and will result in errors during upload and processing.
 -   **The video's dimensions must not exceed 1280x720.** As well, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 -   **The video's offset must be correct and consistent between difficulties** so that it follows the music how it was originally meant to be.
 -   **The video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap.
 
-Skinning
---------
+### Skinning
 
 -   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects!
 -   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play.
@@ -98,8 +91,7 @@ Skinning
 -   **Do not make any essential gameplay elements larger than template skin dimensions** (especially for combobursts). Larger elements may effect gameplay performance, and thus should be avoided. However, any elements that do not directly effect gameplay (e.g. pause-back, play-skip, etc.) may be slightly larger if a legitimate reason is given.
 -   **There must not be any unused files in the map's folder** except for the map's .osb file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard .thumb files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
 
-Storyboarding
--------------
+### Storyboarding
 
 -   **Storyboard images must be at a reasonable filesize and dimension for their usage.** For most uses (e.g. full-screen images), the maximum is 1366x768 pixels. For widescreen storyboards 854x480 is preferred as it matches the internal resolution of the SB editor. For 4:3 aspect ratio images 640x480 is preferred.
 -   **The maximum dimensions for tall or wide scrolling images are 640x1440 and 1920x480 respectively.** This is for the sake of gameplay performance, image loading time, and filesize.
@@ -107,7 +99,7 @@ Storyboarding
 -   **Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard <u>must</u> use the epilepsy warning.** There is one built-into the editor, which will display a visual warning at the beginning of the map and also mark the map's online thumbnail with a warning icon. Also, it helps to make a note of the flashing/strobes/etc. in the map's thread. This warning is absolutely needed so that players with epilepsy can avoid any danger.
 
 Guidelines
-==========
+-----------
 
 Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this: Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay.
 
