@@ -65,7 +65,7 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 xK Referenz
 -------------
 
-Note: 1K, 2K, 3K <span style="text-decoration:line-through;">und 10K</span> wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
+Note: 1K, 2K, 3K und 10K wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
 
 | Keys (CS)                                              | Game                                                                            |
 |--------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -82,11 +82,11 @@ Note: 1K, 2K, 3K <span style="text-decoration:line-through;">und 10K</span> wurd
 | 8K (L)                                                 | beatmaniaIIDX (P1)                                                              |
 | 8K (R)                                                 | beatmaniaIIDX (P2)                                                              |
 | 9K                                                     | pop'n music, E5 - Dancing Super Station (Single).                               |
-| <span style="text-decoration:line-through;">10K</span> | <span style="text-decoration:line-through;">MuziBox, Pump It Up (Double)</span> |
+| 10K                                                    | MuziBox, Pump It Up (Double)                                                    |
 | 12K                                                    | Keyboardmania (Light)                                                           |
 | 14K                                                    |                                                                                 |
 | 16K                                                    | beatmaniaIIDX (Double)                                                          |
 | 18K                                                    | E5 - Dancing Super Station (Double).                                            |
-| <span style="text-decoration:line-through;">20K</span> | <span style="text-decoration:line-through;"></span>                             |
+| 20K                                                    |                                                                                 |
 
 Beinhaltet nicht: Keyboardmania (Light+, Real) \[24K\] und (Double) \[48K\].

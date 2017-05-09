@@ -57,7 +57,7 @@ Guidelines are important and should be followed in most maps. However, they are 
 xK Reference
 --------------
 
-Note: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">and 10K</span> are from the new unstable update, so not recommended to mapping it now.
+Note: 1K, 2K, 3K, 9K and 10K are from the new unstable update, so not recommended to mapping it now.
 
 | Keys (CS)                                              | Game                                                                            |
 |--------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -74,11 +74,11 @@ Note: 1K, 2K, 3K, 9K <span style="text-decoration:line-through;">and 10K</span> 
 | 8K (L)                                                 | beatmaniaIIDX (P1)                                                              |
 | 8K (R)                                                 | beatmaniaIIDX (P2)                                                              |
 | 9K                                                     | pop'n music, E5 - Dancing Super Station (Single).                               |
-| <span style="text-decoration:line-through;">10K</span> | <span style="text-decoration:line-through;">MuziBox, Pump It Up (Double)</span> |
+| 10K                                                    | MuziBox, Pump It Up (Double)                                                    |
 | 12K                                                    | Keyboardmania (Light)                                                           |
 | 14K                                                    |                                                                                 |
 | 16K                                                    | beatmaniaIIDX (Double)                                                          |
 | 18K                                                    | E5 - Dancing Super Station (Double).                                            |
-| <span style="text-decoration:line-through;">20K</span> | <span style="text-decoration:line-through;"></span>                             |
+| 20K                                                    |                                                                                 |
 
 Not included: Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\].

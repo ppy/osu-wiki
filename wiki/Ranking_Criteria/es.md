@@ -90,7 +90,7 @@ Todas las reglas son exactamente eso: REGLAS. NO son guidelines y NO deben ser r
 -   **Las imágenes para un storyboard deben ser de un tamaño razonable para su uso. ''' Para la mayoría de los usos (ejm: imágenes en pantalla completa), lo máximo es 800x600 píxeles, aunque 640x480 es altamente preferido.
 -   **El máximo tamaño para imágenes altas o anchas, que se desplazan por la pantalla, es respectivamente de 640x1140 y 1920x480. ''' Esto es por el bien del rendimiento del juego, el tiempo de carga de la imagen, y el tamaño del archivo.
 -   **No debe haber transparencia innecesaria al rededor de las imágenes del storyboard, ''' así que recorta y redimensiona la imagen todo lo posible. Si existen razones particulares para la transparencia aparentemente inútil, entonces por favor explícalas. Para los "sprites" transparentes, debe haber al menos un píxel de borde transparente a su alrededor, de modo que la interpolación (ejm: una imagen con borde negro sobre un fondo negro) funciona correctamente (aunque una sombra o un resplandor alrededor de la imagen solucionaría este problema también).
--   **Mapsets que utilicen flashes, imágenes pulsantes o imágenes parpadeantes en el storyboard <u>deben</u> usar la advertencia de epilepsia. ''' Existe uno incorporado en el editor que mostrará una advertencia visual al inicio del beatmap y también marcará la miniatura del beatmap con un ícono de advertencia.
+-   **Mapsets que utilicen flashes, imágenes pulsantes o imágenes parpadeantes en el storyboard deben usar la advertencia de epilepsia. ''' Existe uno incorporado en el editor que mostrará una advertencia visual al inicio del beatmap y también marcará la miniatura del beatmap con un ícono de advertencia.
 
 Guidelines
 -----------

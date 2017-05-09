@@ -38,27 +38,9 @@ Diretrizes são importantes e devem ser seguidas na maioria dos mapas. Contudo, 
     1.  A nota com finisher deve seguir um som que faça sentido o uso do mesmo.
     2.  A nota anterior ao finisher deve ser de cor oposta do mesmo.
     3.  A nota anterior não deve se sobrepor mais da metade do finisher (50%).
-
-<!-- -->
-
 -   **A Slider Velocity deve ser 1.40.** Para garantir uma boa leitura e velocidade das notas.
-
-<!-- -->
-
 -   **Evite usar streams 1/8 em qualquer circunstância.** Para a maioria dos mapas, apenas notas em 1/1, 1/2 e 1/4 devem ser usadas. 1/3 e 1/6 apenas devem ser usados caso tenha uma batida parecida na música.
-
-<!-- -->
-
 -   **Utilize Inherited Timing Points (linhas verdes) para fazer as notas diminuirem sua velocidade aos poucos na seção** para evitar que as notas sobreponham-se umas nas outras, confundindo jogadores. Use mudanças na Slider Velocity de um modo que elas são legíveis e que não se sobreponham muito, mesmo quando forem mudanças muito extremas.
-
-<!-- -->
-
 -   **Utilize drum-rolls (sliders) com moderação em seu mapa, e mantenha uma distância de pelo menos 1/2 de qualquer outro objeto.** Evite usar drumrolls em mapas com uma bpm de 125 ou menor (pois os ticks dentro do drumroll converteriam-se para 1/8), a não ser que a música peça por isso. Use um tick rate de 3 caso a música for snappada em 1/3.
-
-<!-- -->
-
 -   **Tente deixar uma distância de pelo menos 1/2 entre uma nota e um spinner.** Usá-los em streams não é um grande problema. Spinners curtos não são recomendados, já que ele esconde as notas e podem fazer os jogadores errarem por clicar demais.
-
-<!-- -->
-
--   '''Hitsounds customizadas devem ter alguma relação a tambor/instrumentos de percussão. ''' Se hitsounds customizadas são usadas, elas devem ter um som mais baixo/grave para don, e um mais alto/agudo para katsu.
+-   **Hitsounds customizadas devem ter alguma relação a tambor/instrumentos de percussão.** Se hitsounds customizadas são usadas, elas devem ter um som mais baixo/grave para don, e um mais alto/agudo para katsu.

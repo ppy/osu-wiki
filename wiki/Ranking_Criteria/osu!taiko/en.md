@@ -38,27 +38,9 @@ Guidelines are important and should be followed in most maps. However, they are 
     1.  The finisher note must have a reasonable sound to be mapped to.
     2.  The note prior the finisher note must be of the opposite color.
     3.  The note prior must not overlap with the finisher note by more than 50%.
-
-<!-- -->
-
 -   **The Slider Velocity should be 1.40.** This is to ensure readability and a proper scrolling speed.
-
-<!-- -->
-
 -   **Avoid using 1/8 streams by any circumstance.** For the majority of maps, only 1/1, 1/2 or 1/4 beat note streams should be used. 1/3 and 1/6 should be added only when there's a similiar beat in the music.
-
-<!-- -->
-
 -   **Use inherited timing points to make the notes gradually slow down into the section** to avoid overlapping notes (during slow downs) confusing players. Use Slider Velocity changes in a way that they are readable and not overlapping or too extreme when it's called for.
-
-<!-- -->
-
 -   **Use drum-rolls (slider) sparingly within a map and keep a 1/2 beat space between them and any other object.** Avoid using sliders for 125 BPM songs or lower (as the ticks change to 1/8) unless the music calls for it. Use a tick rate of 3 if the song self is snapped on 1/3.
-
-<!-- -->
-
 -   **Try to leave at least a 1/2 beat between a note and a spinner.** Using them on streams may be okay. Short spinners are highly not recommended, since they cover the notes and can cause players to miss due to pressing too much.
-
-<!-- -->
-
 -   **Custom hitsounds must be drum-related.** If custom hitsounds are used, they should have deeper/lower tone set as don and a higher/lighter tone as kat.

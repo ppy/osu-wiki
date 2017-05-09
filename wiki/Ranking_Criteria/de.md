@@ -86,7 +86,7 @@ Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollt
 -   **Die Storyboard-Bilder müssen auf eine angemessene Größe für ihre Verwendung sein.** Für die meisten Verwendungen (z. B. Vollbild-Bilder) liegt das Maximum bei 800x600px für Bilder im Seitenverhältnis von 4:3, 640x480px wird jedoch mehr bevorzugt. Für den Breitbild-Modus liegt die maximale Auslösung bei 960x540 pixels für Bilder im Seitenverhältnis von 16:9 und bei 960x600 für Bilder im Seitenverhältnis von 16:10. Die Standardgröße vom Editor ist 640x480px, daher ist es wirklich nicht notwenig größere Elemente zu verwenden.
 -   **Um den Storyboard-Bildern sollte keine unnötige Transparenz sein,** schneiden und verkleinern sie es, so weit es möglich ist. Liegen besondere Gründe für scheinbar nutzlose Transparenz vor, dann erklären sie dies bitte. Für transparente Sprites sollte mindestens 1px transparenter Rand herum leigen, damit die Interpolation (z. B. schwarz-gerändertes Bild auf schwarzem Hintergrund) einwandfrei funktioniert (auch ein Schatten oder Erhellen um das Bild herum, kann dieses Problem beheben).
 -   **Die maximalen Abmessungen für Höhe und Breite sind 640x1440px und 1920x480px.** Dies ist zum Schutz für die Bild-Ladezeit, Dateigröße und der Gameplay-Performance.
--   **Maps mit blinkenden Elementen im Storyboard <u>müssen</u> mit einem Hinweis für Epileptiker gekennzeichnet werden.** Im Editor ist eine integrierte Funktion, welche eine visuelle Warnung am Anfang der Map.
+-   **Maps mit blinkenden Elementen im Storyboard müssen mit einem Hinweis für Epileptiker gekennzeichnet werden.** Im Editor ist eine integrierte Funktion, welche eine visuelle Warnung am Anfang der Map.
 
 Richtlinien
 --------------
