@@ -4,7 +4,7 @@
 
 The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the osu! team](/wiki/People/The_Team). It is the 7th installment of the osu! World Cup.
 
-## Tournament Schedule
+## Schedule
 
 | Event              | Timestamp                |
 |-------------------:|:-------------------------|
