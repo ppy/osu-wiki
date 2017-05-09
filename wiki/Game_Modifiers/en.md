@@ -9,9 +9,7 @@ Difficulty Reduction Mods
 
 These mods make the game easier at the cost of decreasing the score obtained.
 
-![](img/Easy.png)
-
-### Easy
+### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
 
 ***Score multiplier: 0.5***
 
@@ -25,12 +23,9 @@ For [Taiko](Taiko "wikilink") mode, the Easy Mode decreases the [slider velocity
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, the effects are the same as in osu! mode - all fruits fall slower (same as reducing AR in osu! mode), the camera is zoomed in (increased circle size in osu! mode) and 3 lives are granted. Despite only using one axis, however, the fruits' larger size and slower falling rate causes them to clump together, creating the same alleged problems as in normal osu!.
 
-![Easy decreases the difficulty in many ways.](img/easymod.jpg "Easy decreases the difficulty in many ways.")
-![Sometimes, though, Easy just gives you a headache.](img/easymod2.jpg "Sometimes, though, Easy just gives you a headache.")
+easymod.jpg|Easy decreases the difficulty in many ways. easymod2.jpg|Sometimes, though, Easy just gives you a headache.
 
-![No Fail](img/No_Fail.png "No Fail")
-
-### No Fail
+### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
 ***Score multiplier: 0.5***
 
@@ -42,11 +37,9 @@ In [Taiko](Taiko "wikilink") mode, since the gameplay does not end even if the H
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod acts exactly the same as in standard osu!.
 
-![Half Time](img/Half-time.png "Half Time")
+### <img src="Half-time.png" title="fig:Half-time.png" alt="Half-time.png" width="69" height="65" /> Half Time
 
-###  Half Time
-
-![Length of the song is increased by 1/3 BPM decreased by 1/4](img/GM_HT.jpg "Length of the song is increased by 1/3 BPM decreased by 1/4")
+<img src="GM_HT.jpg" title="Length of the song is increased by 1/3 BPM decreased by 1/4" alt="Length of the song is increased by 1/3 BPM decreased by 1/4" width="300" />
 
 *'*Score multiplier: 0.3 (osu!, Taiko, Catch The Beat), 0.5 (osu!mania) *'*
 
@@ -63,11 +56,9 @@ Difficulty Increasing Mods
 
 These mods introduce new elements to make the game harder and rewards the player in terms of an increase in score multiplier.
 
-![Hard Rock](img/Hard_Rock.png "Hard Rock")
+### <img src="Hard Rock.png" title="fig:Hard Rock.png" alt="Hard Rock.png" width="69" height="65" /> Hard Rock
 
-###  Hard Rock
-
-![Hard Rock increases the difficulty in many ways.](img/hardrock.jpg "Hard Rock increases the difficulty in many ways.")
+<img src="hardrock.jpg" title="Hard Rock increases the difficulty in many ways." alt="Hard Rock increases the difficulty in many ways." width="400" />
 
 ***Score multiplier: 1.06 (osu!, Taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)***
 
