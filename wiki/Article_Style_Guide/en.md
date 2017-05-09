@@ -493,9 +493,9 @@ For example:
 
 When using code blocks, use the ` ``` ` (triple grave mark) syntax.
 
-Code blocks in the osu!wiki does **not** do syntax highlighting.
+Code blocks in the osu!wiki do **not** use syntax highlighting.
 
-The osu!wiki site has a feature where you _could_ use four spaces to trigger the code blocks; however, this is **heavily** discouraged.
+Markdown also allows you to use 4 spaces to trigger the code blocks; however, this is **heavily** discouraged.
 
 ## Links
 
