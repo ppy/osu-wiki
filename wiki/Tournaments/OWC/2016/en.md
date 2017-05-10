@@ -4,7 +4,7 @@
 
 The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the osu! team](/wiki/People/The_Team). It is the 7th installment of the osu! World Cup.
 
-## Schedule
+## Tournament Schedule
 
 | Event              | Timestamp                |
 |-------------------:|:-------------------------|
@@ -54,3 +54,70 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 ![Brackets](brackets.png)
 
 -----------
+
+|Top Seed|High Seed|Low Seed|Unseeded|
+|:---|:----|:----|:---|
+|China|Australia|Argentina|Denmark|
+|France|Brazil|Austria|Greece|
+|Germany|Canada|Chile|Indonesia|
+|Poland|Finland|Hong Kong|Israel|
+|South Korea|Italy|Latvia|Singapore|
+|Taiwan|Mexico|Neterlands|Spain|
+|United Kingdom|Norway|New Zealand|Sweden|
+|United States|Russia|Philippenes|Ukraine|
+
+||Group A|
+|-:|:-|
+|France|**Musty**, filsdelama, ThePooN, Flaven, NerO, mrzomb, FayeurS, Elysion|
+|Finland|**Sanze**, thelewa, Hyppyri, Subbie, Maffe, huono_tuuri, Sonoda-Umi, Multtari|
+|![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand|**shortpotato**, buny, yellowy246, kiyumi, cabbage, ningalu, xenoframium, smead|
+|Singapore|**Nakano-**, GSBlank, Raen, Repulse, Asterix-, Rtyzen, oneplusone, Raindrop|
+
+||Group B|
+|-:|:-|
+|Poland|**My Angel Wilchq**, Wilchq, Rafis, WubWoofWolf, r0ck, fartownik, SpajdeR, Piggey|
+|Italy|**xiAmME**, Koba, mrspazzaneve17, -Kazuki-, Kirin, DT-sama, umii, LLoyd-chan|
+|Phillipenes|**revurii**, awmslayer, ededed028, 2124, HybRidChrome, Shii, konawiki, Mira-san|
+|Ukraine|**Granje**, -Ranndom-, Sadness, BloodM0nk, FllareA, blednak, Elzbieta, Cloz1k|
+
+||Group C|
+|-:|:-|
+|Taiwan|**Flask**, hvick225, Rucker, Small K, My Angel Haruna, Koalazy, Rizer, SevenTeen-|
+|Mexico|**Broodich**, Ferelix, -Wolfy-, KevstracK, [ AeonLust ], Atsuro, -Hebel-, Atheneon|
+|Argentina|**Glazbom**, GaTu, Pein, benjacala, Enhu, nicogame14, Catalysis, Toushi|
+|Spain|**Naxurin**, PdPr0x_, Painketsu, [ xFrozZ ], MortalStriker, adrilolo9, Widelux13|
+
+||Group D|
+|-:|:-|
+|Germany|**Dustice**, DoKito, Beafowl, Neliel, imagaK, Firstus, BDDav, W3SON|
+|Australia|**Bauxe**, uyghti, ithgyu, Dumii, Korilak, Weber, Lunirs, Peekamoo|
+|Latvia|**Forseen**, waywern2012, Emula, Jesus[Krists]|
+|Greece|**Riven**, JohnyZ, ThePainG7, kYorineN, Grapheon, ThOmAstr, Tofas, xDarxen|
+
+||Group E|
+|-:|:-|
+|China|**Crystal**, Totori, Dsan, Totoki, ArtxE, SpringLane, GGBY, MatsumotoRise|
+|Canada||
+|Chile||
+|Israel||
+
+||Group F|
+|-:|:-|
+|United States||
+|Norway||
+|Austria||
+|Denmark||
+
+||Group G|
+|-:|:-|
+|South Korea||
+|Russian Federation||
+|Netherlands||
+|Endonesia||
+
+||Group H|
+|-:|:-|
+|United Kingdom||
+|Brazil||
+|Hong Kong||
+|Sweden||
