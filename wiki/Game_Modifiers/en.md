@@ -2,14 +2,14 @@ A **game modifier** is one of several optional modifications to gameplay the pla
 
 Game modifiers can be accessed by pressing "**F1**" at song select, or by clicking the "**Mods**" button near the lower left of the screen.
 
-Note that when multiple mods are applied, the product of the score multipliers is given instead of the sum of them. For example, when Hidden and Flashlight are applied at the same time, they give 1.1872x because (1.06 x 1.12) = 1.1872, rather than (1.06 + 1.12 - 1.00) = 1.18. osu! used to round this number down to the nearest hundredth (0.01), so Hidden and Flashlight together would appear to give a 1.18x multiplier, denying the supposed number round up. Thankfully, a patch corrected this, and now Hidden + Flashlight rounds correctly to 1.19x. <img src="Soloplay8.png" title="fig:osu! List of possible mods" alt="osu! List of possible mods" width="400" />
+Note that when multiple mods are applied, the product of the score multipliers is given instead of the sum of them. For example, when Hidden and Flashlight are applied at the same time, they give 1.1872x because (1.06 x 1.12) = 1.1872, rather than (1.06 + 1.12 - 1.00) = 1.18. osu! used to round this number down to the nearest hundredth (0.01), so Hidden and Flashlight together would appear to give a 1.18x multiplier, denying the supposed number round up. Thankfully, a patch corrected this, and now Hidden + Flashlight rounds correctly to 1.19x. ![Soloplay](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Soloplay8.png)
 
 Difficulty Reduction Mods
 -------------------------
 
 These mods make the game easier at the cost of decreasing the score obtained.
 
-### <img src="Easy.png" title="fig:Easy.png" alt="Easy.png" width="69" height="65" /> Easy
+### ![Easy](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Easy.png) Easy
 
 ***Score multiplier: 0.5***
 
@@ -25,7 +25,7 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, the effects are the same as
 
 easymod.jpg|Easy decreases the difficulty in many ways. easymod2.jpg|Sometimes, though, Easy just gives you a headache.
 
-### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
+### ![No Fail](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/No_Fail.png) No Fail
 
 ***Score multiplier: 0.5***
 
@@ -37,9 +37,9 @@ In [Taiko](Taiko "wikilink") mode, since the gameplay does not end even if the H
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod acts exactly the same as in standard osu!.
 
-### <img src="Half-time.png" title="fig:Half-time.png" alt="Half-time.png" width="69" height="65" /> Half Time
+### ![Half Time](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Half-time.png) Half Time
 
-<img src="GM_HT.jpg" title="Length of the song is increased by 1/3 BPM decreased by 1/4" alt="Length of the song is increased by 1/3 BPM decreased by 1/4" width="300" />
+![Length of the song is increased by 1/3 BPM decreased by 1/4](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/GM_HT.jpg)
 
 *'*Score multiplier: 0.3 (osu!, Taiko, Catch The Beat), 0.5 (osu!mania) *'*
 
@@ -56,9 +56,9 @@ Difficulty Increasing Mods
 
 These mods introduce new elements to make the game harder and rewards the player in terms of an increase in score multiplier.
 
-### <img src="Hard Rock.png" title="fig:Hard Rock.png" alt="Hard Rock.png" width="69" height="65" /> Hard Rock
+### ![Hard Rock](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Hard_Rock.jpg) Hard Rock
 
-<img src="hardrock.jpg" title="Hard Rock increases the difficulty in many ways." alt="Hard Rock increases the difficulty in many ways." width="400" />
+![Hard Rock increases the difficulty in many ways.](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Hardrock.jpg)
 
 ***Score multiplier: 1.06 (osu!, Taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)***
 
@@ -72,9 +72,9 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, Hard Rock has a multitude o
 
 In [osu!mania](osu!mania "wikilink") mode, however, Hard Rock will not affect the note placement. It will only raise the judgement difficulty (OD) and the Approach Rate (AR). For changing the note placement, see "Random" mod under Special. Using this mod on Mania will only allow unranked play.
 
-### <img src="Sudden Death.png" title="fig:Sudden Death.png" alt="Sudden Death.png" width="69" height="65" /> Sudden Death
+### ![Sudden Death](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Sudden_Death.png) Sudden Death
 
-<img src="SD Rarecase.jpeg" title="Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely. Results screen" alt="Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely. Results screen" width="200" />
+![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before it depleted completely.](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/SD_Rarecase.jpeg)
 
 ***"Miss a note and fail."***
 
@@ -86,17 +86,17 @@ In [Taiko](Taiko "wikilink") mode, depending on whether you are playing using a 
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod has the exact same effects as in normal osu! mode, minus the large miss figure.
 
-#### <img src="Perfect.png" title="fig:Perfect.png" alt="Perfect.png" width="69" height="65" /> Perfect
+#### ![Perfect](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Perfect.png) Perfect
 
 ***Click on Sudden Death again to get Perfect mod***
 
 ***"SS or quit."***
 
-If you click the Sudden Death mod again, the Perfect mod will come out. When this mod is activated, any hit that **decrease** the accuracy will be counted as a **miss** and the song will **restart automatically**. While this mod give no score multiplier, it is more unforgiving (100% accuracy or auto reset until you give up) when compared to Sudden Death (as long as the combo did not break).
+If you click the Sudden Death mod again, the Perfect mod will come out. When this mod is activated, any imperfect hit will be considered a miss and the song will restart automatically - something Sudden Death doesn't do. While this mod gives no score multiplier, it is more unforgiving (100% accuracy or auto reset until you give up) when compared to Sudden Death (as long as the combo did not break).
 
-### <img src="Double time.png" title="fig:Double time.png" alt="Double time.png" width="69" height="65" /> Double Time
+### ![Double Time](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Double_time.png) Double Time
 
-<img src="GM_DT.jpg" title="Length of the song is decreased by 1/3 BPM increases by 1/2" alt="Length of the song is decreased by 1/3 BPM increases by 1/2" width="300" />
+![Length of the song is decreased by 1/3 BPM increases by 1/2" alt="Length of the song is decreased by 1/3 BPM increases by 1/2](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/GM_DT.jpg)
 
 ***Score multiplier: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat)***
 
@@ -110,23 +110,23 @@ In [Taiko](Taiko "wikilink") mode, the speed is raised and the overall difficult
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, the speed and approach rate are changed the same as in other modes. However, since Catch the Beat has no overall difficulty to increase, this mod does nothing more than a BPM and approach rate multiplier and is thus only worth a 1.06x multiplier. Being the opposite of Half Time, though, Double Time greatly decreases the hyperdash leniency, making fruits requiring hyperdashes nigh impossible to catch in some cases.
 
-#### <img src="Nightcore.png" title="fig:Nightcore.png" alt="Nightcore.png" width="69" height="65" /> Nightcore
+#### ![Nightcore](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Nightcore.png) Nightcore
 
 ***Click on Double Time again to activate Nightcore mod***
 
 ***"uguuuuuuuu"***
 
-If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a bumpin' bass beat to the background. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because <u>**Double Time will automatically be activated in order to use Nightcore mod**.</u>
+If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a drum track to the background that (in 4/4 time) goes in the order of bass drum on beats 1 & 3, clap on beats 2 & 4, and crash on beat 1 every 4 measures. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because <u>**Double Time will automatically be activated in order to use Nightcore mod**.</u>
 
-[This mod was originated from an April Fool joke.](https://osu.ppy.sh/forum/t/49733)
+[This mod originated from an April Fool joke.](https://osu.ppy.sh/forum/t/49733)
 
-### <img src="Hidden.png" title="fig:Hidden.png" alt="Hidden.png" width="69" height="65" /> Hidden
+### ![Hidden](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Hidden.png) Hidden
 
 ***Score multiplier: 1.06*** (osu!,Taiko,CtB) , ***1.00*** (osu!mania)
 
 ***<osu!, CtB> "Play with no approach circles and fading notes for a slight score advantage."***
 
-***<Taiko, osu!mania> "The notes fade out before you hit them!"***
+***<Taiko> <osu!mania> "The notes fade out before you hit them!"***
 
 Hidden debuted in Ouendan 2, the second Japanese DS game. In osu!, it eliminates the approach circles and causes the hit circles to fade out shortly after appearing, forcing players to more or less memorize the timing and, to a lesser degree, placement. Numbers on sliders and their approach circles vanish, but the sliders themselves do not, so the player only needs to remember the timing and which end to begin sliding from. Turning on "Snaking Sliders" in the options can help with this.
 
@@ -136,21 +136,16 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, Hidden causes notes to fade
 
 In [osu!mania](osu!mania "wikilink") mode, Hidden can be used by pressing Fade In mod again. It is an inverse of Fade In where the bottom of the conveyor is blocked instead. Your Judgement bar will be invisible too, but not the keys.
 
-#### <img src="FadeIn.png" title="fig:FadeIn.png" alt="FadeIn.png" width="69" height="65" /> Fade In
+#### ![Fade In](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/FadeIn.png) Fade In
 
 ***Score multiplier: 1.00*** (osu!mania only)
 
 This mod is specially for osu!mania only. It causes notes to fade in as they approach the judgement bar. The speed at which they fade is based on your combo, with higher combos causing the notes to fade in faster and remain invisible for longer.
 
-Clicking Fade In again will turn on Hidden mod.
+Clicking Fade In again will turn on Hidden.
 
-For a comparison, see pictures below.
 
-<File:GM> o!m FI.jpg|Fade In <File:GM> o!m HD.jpg|Hidden <File:GM> o!m FI(2).jpg|Hidden (DDR style) <File:GM> o!m HD(2).jpg|Fade In (DDR style) <File:Flashlight> Mania.jpg|Flashlight
-
-<File:GM> FI comp.jpg| Fade In combo comparison <File:GM> HD comp.jpg| Hidden combo comparison
-
-### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
+### ![Flashlight](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Flashlight.png) Flashlight
 
 ***Score multiplier: 1.12*** (osu!,Taiko,CtB) ,*'* 1.00 ***(osu!mania)***
 
@@ -164,7 +159,11 @@ In [Catch the Beat](Catch_the_Beat "wikilink") mode, the flashlight is the same,
 
 In [osu!mania](osu!mania "wikilink") mode, vision is restricted to a thin horizontal bar in the center of the screen.
 
-<File:flashlightosu.jpg%7CFlashlight> mod in Standard. <File:flashlighttaiko.jpg%7CFlashlight> mod in Taiko. <File:flashlightctb.jpg%7CFlashlight> mod in Catch the Beat. <File:Flashlight> Mania.jpg|Flashlight mod in osu!mania
+See the images below for comparison.
+![Flashlight in osu!mania](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Flashlight_Mania.jpg)
+![Flashlight in Catch the Beat](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Flashlightctb.jpg)
+![Flashlight in osu!](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Flashlightosu.jpg)
+![Flashlight in Taiko](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Flashlighttaiko.jpg)
 
 #### Flashlight nearly ran out of batteries!
 
@@ -180,18 +179,25 @@ Special Mods
 
 The mods listed below can't be used in conjunction with each other, except for Relax and Spun Out. Additionally, Auto can't be used along with Sudden Death/Perfect.
 
-### <img src="Relax.png" title="fig:Relax.png" alt="Relax.png" width="69" height="65" /> Relax
+### ![Relax](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Relax.png) Relax
 
 ***Score multiplier: 0 (Unranked)***
 
 ***<osu!> "You don't need to click.
-Give your clicking/tapping finger a break from the heat of things.
+Give your clicking/tapping finger a break from the heat of things."
 \*\*UNRANKED\*\*"***
 
+<<<<<<< HEAD
 ***<Taiko> "Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's.
 \*\*UNRANKED\*\*"***
 
 ***<CtB> "Use the mouse to control the catcher.
+=======
+***<Taiko> "Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's."
+\*\*UNRANKED\*\*"***
+
+***<CtB> "Use the mouse to control the catcher."
+>>>>>>> refs/remotes/origin/master
 \*\*UNRANKED\*\*"***
 
 A mod in which you don't need to click. Simply hover your cursor over each [hit circle](Hit_Objects#Hit_Circle "wikilink") and it will be hit with the correct timing automatically. Using this mod also hides the score, combo and misses (except in Taiko) and makes it impossible to fail the map, much like No Fail. Also, your spin per minute value will be doubled, allowing you to spin much faster and obtain a higher score than in regular play.
@@ -200,7 +206,7 @@ In [Taiko](Taiko "wikilink") mode, the correct color for the notes is hit regard
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, this mod allows the character to be moved freely at any speed with the mouse.
 
-### <img src="AutoPilot.png" title="fig:AutoPilot.png" alt="AutoPilot.png" width="69" height="65" /> Auto Pilot
+### ![Auto Pilot](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/AutoPilot.png) Auto Pilot
 
 ***Score multiplier: 0 (Unranked, osu! only)***
 
@@ -211,7 +217,7 @@ A mod in which you only need to click. The game moves the cursor for you, so you
 
 Auto Pilot is not available for use in [Taiko](Taiko "wikilink") or [Catch the Beat](Catch_the_Beat "wikilink") modes.
 
-### <img src="Spun Out.png" title="fig:Spun Out.png" alt="Spun Out.png" width="69" height="65" /> Spun Out
+### ![Spun Out](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Spun_Out.png) Spun Out
 
 ***Score multiplier: 0.9 (osu! only)***
 
@@ -221,7 +227,7 @@ Spun Out is a mod in which the game does spinners for you, allowing you to relax
 
 Spun Out is not available for use in [Taiko](Taiko "wikilink") or [Catch the Beat](Catch_the_Beat "wikilink") modes.
 
-### <img src="Autoplay.png" title="fig:Autoplay.png" alt="Autoplay.png" width="69" height="65" /> Auto
+### ![Auto](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Autoplay.png) Auto
 
 ***"Watch a perfect automated play through the song"***
 
@@ -231,9 +237,9 @@ In [Taiko](Taiko "wikilink") mode, the Auto mod will attempt a perfect playthrou
 
 In [Catch the Beat](Catch_the_Beat "wikilink") mode, the Auto mod will actually go beyond perfect and use unlimited speed to catch every fruit in a spinner, despite this being literally impossible for a human player.
 
-#### <img src="Cinema.png" title="fig:Cinema.png" alt="Cinema.png" width="69" height="65" /> Cinema
+#### ![Cinema](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Cinema.png) Cinema
 
-<img src="GM_Cinema_comp.jpg" title="Comparison of Auto and Cinema mod" alt="Comparison of Auto and Cinema mod" width="200" />
+![Comparison of Cinema and Auto](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/GM_Cinema_comp.jpg)
 
 ***Click on Auto again to get Cinema mod***
 
@@ -241,7 +247,15 @@ This mod will show **background and storyboard only** without the gameplay objec
 
 ### xK
 
-<img src="1k.png" title="fig:1k.png" alt="1k.png" width="69" height="65" /><img src="2k.png" title="fig:2k.png" alt="2k.png" width="69" height="65" /><img src="3k.png" title="fig:3k.png" alt="3k.png" width="69" height="65" /><img src="4K.png" title="fig:4K.png" alt="4K.png" width="69" height="65" /><img src="5k.png" title="fig:5k.png" alt="5k.png" width="69" height="65" /><img src="6k.png" title="fig:6k.png" alt="6k.png" width="69" height="65" /><img src="7k.png" title="fig:7k.png" alt="7k.png" width="69" height="65" /><img src="8k.png" title="fig:8k.png" alt="8k.png" width="69" height="65" /><img src="9k.png" title="fig:9k.png" alt="9k.png" width="69" height="65" />
+![1K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/1k.png)
+![2K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/2k.png)
+![3K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/3k.png)
+![4K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/4k.png)
+![5K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/5k.png)
+![6K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/6k.png)
+![7K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/7k.png)
+![8K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/8k.png)
+![9K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/9k.png)
 
 ***Score multiplier: 0.66~1.00 (osu!mania only)***
 
@@ -251,9 +265,9 @@ Score multiplier only applies within this condition: **This table only affects b
 
 **The mod does not work on osu!mania-specific beatmaps!**
 
-### <img src="Key_Coop.png" title="fig:Key_Coop.png" alt="Key_Coop.png" width="69" height="65" /> Co-Op
+### ![Co-op](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Key_Coop.png) Co-Op
 
-<img src="GM COOP2.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for non-specific difficulty." width="100" /> <img src="GM COOP.jpg" title="fig:Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." alt="Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty." width="200" />
+![Comparison between normal (above) and Co-op (below)](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/GM_COOP2.jpg)
 
 ***Score multiplier: 0.70 ~ 1.00 (osu!mania only)***
 
@@ -269,9 +283,7 @@ Score multiplier only applies within this condition:
 
 **The Co-Op mod gives <span style="color:red">NO penalty</span> on osu!mania-specific beatmaps.**
 
-### <img src="Random.png" title="fig:Random.png" alt="Random.png" width="69" height="65" /> Random
-
-<img src="GM Random.jpg" title="Effect of &quot;Random&quot; mod" alt="Effect of &quot;Random&quot; mod" width="300" />
+### ![Random](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Random.png) Random
 
 '**'Score multiplier: 1.00 (Unranked, osu!mania only)**'
 
@@ -287,9 +299,9 @@ Experimental Mods
 Special Mods
 ------------
 
-### <img src="Target.png" title="fig:Target.png" alt="Target.png" width="69" height="65" /> Target Practice
+### ![Target Practice](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/Target.png) Target Practice
 
-<img src="GM_TP.jpg" title="Comparison between original and Target Practice" alt="Comparison between original and Target Practice" width="300" />
+![Target Practice in-game.](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/GM_TP.jpg)
 
 ***Score multiplier: 1.00 (Unranked, osu! only)***
 
@@ -323,19 +335,19 @@ These mods were used some time ago, but are now resting here in peace.
 
 ### 10K
 
-<img src="10k.png" title="10k.png" alt="10k.png" width="69" height="65" />
+![10K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/10k.png)
 
-This mod used to enable the player to use 10 keys. (Though, you could still use 5K + COOP to achieve 10 Keys)
+This mod used to enable the player to use 10 keys. (Though you could still use 5K + COOP to achieve 10 Keys)
 
 ### Fade Out
 
-<img src="FadeOut.png" title="FadeOut.png" alt="FadeOut.png" width="69" height="65" />
+![Fade Out](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/FadeOut.png)
 
 This mod was similar to Hidden but was strictly for [Mania](Mania "wikilink"). When enabled, this mod will place a curtain at the bottom of the stage (or top, if upsidedown stage is enabled), fading the notes out when before they reach the keys. This mod's functionality truly wasn't removed, but rather, it was called "Hidden," using the Hidden mod icon.
 
 ### No Video
 
-<img src="No Video.png" title="No Video.png" alt="No Video.png" width="69" height="65" />
+![No Video](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/No_Video.png)
 
 This mod does exactly what you might expect it to do, disable the video, if any. This mod's function was moved to [\#Visual Settings](#Visual_Settings "wikilink") and the icon is no longer being used.
 
@@ -350,7 +362,7 @@ Visual Settings
 Usages
 ------
 
-<img src="VisualSettings.jpg" title="Example of Visual Settings" alt="Example of Visual Settings" width="300" />
+![Visual Settings](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/VisualSettings.jpg)
 
 <table style="width:60%;">
 <colgroup>
