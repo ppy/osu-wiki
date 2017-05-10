@@ -168,7 +168,7 @@ In [osu!mania](osu!mania "wikilink") mode, vision is restricted to a thin horizo
 
 #### Flashlight nearly ran out of batteries!
 
-5 years ago, this mod has been subject to heavy controversy in the past, as its implementation makes it the easiest mod for hackers to cheat on. This mod has been made unranked before during a time of heavy cheater activity, but was restored not long after. \\:D/
+5 years ago this mod had been subject to heavy controversy, as its implementation makes it the easiest mod for hackers to cheat on. It was made unranked during a time of heavy cheater activity, but was restored not long after. \\:D/
 
 If you want to know more, refer to these two threads:
 
@@ -188,10 +188,10 @@ The mods listed below can't be used in conjunction with each other, except for R
 Give your clicking/tapping finger a break from the heat of things.
 \*\*UNRANKED\*\*"***
 
-***<Taiko>"Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's.
+***<Taiko> "Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's.
 \*\*UNRANKED\*\*"***
 
-***<CtB>"Use the mouse to control the catcher.
+***<CtB> "Use the mouse to control the catcher.
 \*\*UNRANKED\*\*"***
 
 A mod in which you don't need to click. Simply hover your cursor over each [hit circle](Hit_Objects#Hit_Circle "wikilink") and it will be hit with the correct timing automatically. Using this mod also hides the score, combo and misses (except in Taiko) and makes it impossible to fail the map, much like No Fail. Also, your spin per minute value will be doubled, allowing you to spin much faster and obtain a higher score than in regular play.
