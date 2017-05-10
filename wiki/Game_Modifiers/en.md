@@ -241,7 +241,7 @@ This mod will show **background and storyboard only** without the gameplay objec
 ### xK
 
 ![1K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/1k.png)
-![2K]9https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/2k.png)
+![2K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/2k.png)
 ![3K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/3k.png)
 ![4K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/4k.png)
 ![5K](https://github.com/Shadowtail117/osu-wiki/blob/master/wiki/Game_Modifiers/pictures/5k.png)
