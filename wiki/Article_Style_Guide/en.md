@@ -7,7 +7,7 @@ Your word choice should be able to explain such things in layman's terms.
 In other words, you should ask yourself, "If the reader is reading this, would they have to lookup any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
-Know that reviewers may ask for changes in your pull request for blunders or suggestions.
+Keep in mind that reviewers may ask for changes in your pull request for blunders or suggestions.
 A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure optimal experience for the reader.
 
 ## GFM
@@ -29,7 +29,7 @@ You could also ask for some help in the [osu!dev discord](https://discord.gg/ppy
 
 All folders names must **never** contain any characters that will require precent encoding!
 
-URL reserved characters will include but is not limited to `;`, `/`, `?`, `:`, `@`, `&`, and `#`.
+URL reserved characters will include but are not limited to `;`, `/`, `?`, `:`, `@`, `&`, and `#`.
 
 Basically, just use numbers 0 - 9, letters A - Z and a - z, exclaimation marks (`!`), underscores (`_`), and hyphens (`-`).
 
@@ -119,27 +119,23 @@ Doing so will help make the headings stand out a bit more when editing.
 
 ### Article Titles
 
-All articles must only have **one** level 1 heading that of which has to be the article's title.
-
-This level 1 heading should be placed at the start of the article unless you have reference links placed there.
-If this is the case, place the level 1 heading underneath those reference links.
-
-Titles are to be in title case.
-
-The title of an article is the name of the folder that the article is located in.
-
-For English article titles, if you need to reword the title, you must rename the folder to match the article title.
-
-All article titles are to be using the level 1 heading.
+All articles must have **one** level 1 heading, being the article's title.
 For example:
 
 ```
 # Folder Name
 ```
 
-Article titles must **never** have any styles applied to it.
+Article titles are to be in title case.
 
-Article titles must **never** contain an image.
+The title of an article is the name of the folder that the article is located in.
+
+For English article titles, if you need to reword the title, you must rename the folder to match the article title.
+
+This level 1 heading should be placed at the start of the article unless you have reference links placed there.
+If this is the case, place the level 1 heading underneath those reference links.
+
+Article titles must **never** have any styles nor images.
 
 #### Untranslatable Titles
 
@@ -237,7 +233,7 @@ For example:
 - `The language that _osu!_ is written in is C# using the .NET Framework.`
 - `One of the game modes in _osu!_ is osu!catch.`
 
-### Serial comma
+### Serial Comma
 
 _The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
 
@@ -254,7 +250,7 @@ When referring to the name of a language, capitalize the first letter of that la
 
 #### Chat Channels
 
-The chat channel names are to use lowercase letters and be enclosed by grave marks (`` ` ``).
+Chat channel names are to use lowercase letters and be enclosed by grave marks (`` ` ``).
 For example:
 
 - `#spanish`
@@ -299,7 +295,8 @@ You may use the old game mode names (e.g. `Catch the Beat` or `Taiko`) only when
 
 ### Game Modifiers
 
-Game modifiers **must** capitalise the first letter of each word.
+Game modifiers **must** must be capitalised.
+For example:
 
 - `Hard Rock`
 - `Nightcore`
@@ -308,7 +305,7 @@ Game modifiers **must** capitalise the first letter of each word.
 
 ### Gameplay Elements
 
-Gameplay elements should **never** be be capitalised.
+Gameplay elements should **never** be capitalised.
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 - The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
@@ -316,6 +313,7 @@ Gameplay elements should **never** be be capitalised.
 ### Contractions
 
 Contractions are a shortened form of a word or group of words.
+
 In the osu!wiki, contractions are **heavily** discouraged.
 This is to keep a formal tone in the osu!wiki.
 
@@ -325,7 +323,7 @@ For example, use:
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-Know that the possessive form of a word (e.g. `the player's` or `the skinner's`) are the expections since these are not contractions.
+Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) is the exception since these are not contractions.
 
 ## Point of View
 
@@ -417,7 +415,7 @@ Please limit to a level of four (4) sub-lists at a time (if you need more, you s
 
 ## Code
 
-For the following sections, they **must** use code.
+For the following scenarios below, use code.
 
 ### Keyboard Keys
 
@@ -456,7 +454,7 @@ For example:
 
 ### Keywords or Commands
 
-When copying the keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
+When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
 For example:
 
 - `` `ComboBurstStyle` ``
@@ -637,7 +635,7 @@ Whenever you are linking to a beatmap, use this format as the link text:
 ```
 
 When linking to a beatmap, make sure that the link actually links to that difficulty.
-All beatmap difficutly urls looks like this: `https://new.ppy.sh/b/{BeatmapID}`
+All beatmap difficulty urls looks like this: `https://new.ppy.sh/b/{BeatmapID}`
 
 ### Beatmapsets
 
@@ -647,7 +645,7 @@ If you are linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficutly urls looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`
+All beatmapset difficulty urls looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`
 
 ## Images
 
@@ -675,7 +673,6 @@ The supported file formats on for the osu!wiki are `.gif`, `.jpeg`, `.jpg`, and 
 
 When you have an image **without** transparency, use `.jpg` (or `.jpeg`).
 When you have an image **with** transparency, use `.png`.
-
 If the media file is animated, use `.gif`.
 
 ### Alt and Title Text
@@ -747,7 +744,7 @@ All dates must follow these rules:
 
 - To avoid having dates using different formats, all dates should be written in `DD Month YYYY` format
   - e.g. `10 December 2011` or `01 April 2008`
-- Do **not** use superscripts (or unicode) or suffixes such as `23<sup>rd</sup> of April` or `4th of May`.
+- Do **not** use superscripts (or unicode) or suffixes such as `23<sup>rd</sup> of April`, `December 30ᵗʰ`, or `4th of May`.
 - If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
   - e.g. `2011-12-10` or `2012-05-04`
 <!--- Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
