@@ -8,7 +8,7 @@ The future home of osu!wiki
 1. A [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/ "GitHub Help in Signing up an account").
 2. A general understanding of the feature-branch workflow.
 3. Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown(GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub").
-4. Able to write in English, preferably British English.
+4. Ability to write in English, preferably British English.
 
 ## Licence
 
