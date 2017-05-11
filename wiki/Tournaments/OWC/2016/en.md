@@ -4,7 +4,7 @@
 
 The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the osu! team](/wiki/People/The_Team). It is the 7th installment of the osu! World Cup.
 
-## Tournament Schedule
+## Tournament Schedule
 
 | Event              | Timestamp                |
 |-------------------:|:-------------------------|
@@ -55,69 +55,70 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 -----------
 
-|Top Seed|High Seed|Low Seed|Unseeded|
-|:---|:----|:----|:---|
-|China|Australia|Argentina|Denmark|
-|France|Brazil|Austria|Greece|
-|Germany|Canada|Chile|Indonesia|
-|Poland|Finland|Hong Kong|Israel|
-|South Korea|Italy|Latvia|Singapore|
-|Taiwan|Mexico|Neterlands|Spain|
-|United Kingdom|Norway|New Zealand|Sweden|
-|United States|Russia|Philippenes|Ukraine|
+
+| Top Seed                                         | High Seed                                              | Low Seed                                             | Unseeded                                         |
+|:-------------------------------------------------|:-------------------------------------------------------|:-----------------------------------------------------|:-------------------------------------------------|
+| ![China](/wiki/shared/flag/Cn.gif) China         | ![Australia](/wiki/shared/flag/Au.gif) Australia       | ![Argentina](/wiki/shared/flag/Ar.gif) Argentina     | ![Denmark](/wiki/shared/flag/Dk.gif) Denmark     |
+| ![France](/wiki/shared/flag/Fr.gif) France       | ![Brazil](/wiki/shared/flag/Br.gif) Brazil             | ![Austria](/wiki/shared/flag/At.gif) Austria         | ![Greece](/wiki/shared/flag/Gr.gif) Greece       |
+| ![Germany](/wiki/shared/flag/De.gif) Germany     | ![Canada](/wiki/shared/flag/Ca.gif) Canada             | ![Chile](/wiki/shared/flag/Cl.gif) Chile             | ![Indonesia](/wiki/shared/flag/Id.gif) Indonesia |
+| ![Poland](/wiki/shared/flag/Pl.gif) Poland       | ![Finland](/wiki/shared/flag/Fi.gif) Finland           | ![Hong Kong](/wiki/shared/flag/Hk.gif) Hong Kong     | ![Israel](/wiki/shared/flag/Il.gif) Israel       |
+| ![S.Korea](/wiki/shared/flag/Kr.gif) South Korea | ![Italy](/wiki/shared/flag/It.gif) Italy               | ![Latvia](/wiki/shared/flag/Lv.gif) Latvia           | ![Singapore](/wiki/shared/flag/Sg.gif) Singapore |
+| ![Taiwan](/wiki/shared/flag/Tw.gif) Taiwan       | ![Mexico](/wiki/shared/flag/Mx.gif) Mexico             | ![Netherlands](/wiki/shared/flag/Nl.gif) Netherlands | ![Spain](/wiki/shared/flag/Es.gif) Spain         |
+| ![UK](/wiki/shared/flag/Uk.gif) United Kingdom   | ![Norway](/wiki/shared/flag/No.gif) Norway             | ![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand | ![Sweden](/wiki/shared/flag/Se.gif) Sweden       |
+| ![US](/wiki/shared/flag/Us.gif) United States    | ![Russia](/wiki/shared/flag/Ru.gif) Russian Federation | ![Philippenes](/wiki/shared/flag/Ph.gif) Philippenes | ![Ukraine](/wiki/shared/flag/Ua.gif) Ukraine     |
 
 ||Group A|
 |-:|:-|
-|France|**Musty**, filsdelama, ThePooN, Flaven, NerO, mrzomb, FayeurS, Elysion|
-|Finland|**Sanze**, thelewa, Hyppyri, Subbie, Maffe, huono_tuuri, Sonoda-Umi, Multtari|
+|![France](/wiki/shared/flag/Fr.gif) France|**Musty**, filsdelama, ThePooN, Flaven, NerO, mrzomb, FayeurS, Elysion|
+|![Finland](/wiki/shared/flag/Fi.gif) Finland|**Sanze**, thelewa, Hyppyri, Subbie, Maffe, huono_tuuri, Sonoda-Umi, Multtari|
 |![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand|**shortpotato**, buny, yellowy246, kiyumi, cabbage, ningalu, xenoframium, smead|
-|Singapore|**Nakano-**, GSBlank, Raen, Repulse, Asterix-, Rtyzen, oneplusone, Raindrop|
+|![Singapore](/wiki/shared/flag/Sg.gif) Singapore|**Nakano-**, GSBlank, Raen, Repulse, Asterix-, Rtyzen, oneplusone, Raindrop|
 
 ||Group B|
 |-:|:-|
-|Poland|**My Angel Wilchq**, Wilchq, Rafis, WubWoofWolf, r0ck, fartownik, SpajdeR, Piggey|
-|Italy|**xiAmME**, Koba, mrspazzaneve17, -Kazuki-, Kirin, DT-sama, umii, LLoyd-chan|
-|Phillipenes|**revurii**, awmslayer, ededed028, 2124, HybRidChrome, Shii, konawiki, Mira-san|
-|Ukraine|**Granje**, -Ranndom-, Sadness, BloodM0nk, FllareA, blednak, Elzbieta, Cloz1k|
+|![Poland](/wiki/shared/flag/Pl.gif) Poland|**My Angel Wilchq**, Wilchq, Rafis, WubWoofWolf, r0ck, fartownik, SpajdeR, Piggey|
+|![Italy](/wiki/shared/flag/It.gif) Italy|**xiAmME**, Koba, mrspazzaneve17, -Kazuki-, Kirin, DT-sama, umii, LLoyd-chan|
+|![Phillipenes](/wiki/shared/flag/Ph.gif) Phillipenes|**revurii**, awmslayer, ededed028, 2124, HybRidChrome, Shii, konawiki, Mira-san|
+|![Ukraine](/wiki/shared/flag/Ua.gif) Ukraine|**Granje**, -Ranndom-, Sadness, BloodM0nk, FllareA, blednak, Elzbieta, Cloz1k|
 
 ||Group C|
 |-:|:-|
-|Taiwan|**Flask**, hvick225, Rucker, Small K, My Angel Haruna, Koalazy, Rizer, SevenTeen-|
-|Mexico|**Broodich**, Ferelix, -Wolfy-, KevstracK, [ AeonLust ], Atsuro, -Hebel-, Atheneon|
-|Argentina|**Glazbom**, GaTu, Pein, benjacala, Enhu, nicogame14, Catalysis, Toushi|
-|Spain|**Naxurin**, PdPr0x_, Painketsu, [ xFrozZ ], MortalStriker, adrilolo9, Widelux13|
+|![Taiwan](/wiki/shared/flag/Tw.gif) Taiwan|**Flask**, hvick225, Rucker, Small K, My Angel Haruna, Koalazy, Rizer, SevenTeen-|
+|![Mexico](/wiki/shared/flag/Mx.gif) Mexico|**Broodich**, Ferelix, -Wolfy-, KevstracK, [ AeonLust ], Atsuro, -Hebel-, Atheneon|
+|![Argentina](/wiki/shared/flag/Ar.gif) Argentina|**Glazbom**, GaTu, Pein, benjacala, Enhu, nicogame14, Catalysis, Toushi|
+|![Spain](/wiki/shared/flag/Es.gif) Spain|**Naxurin**, PdPr0x_, Painketsu, [ xFrozZ ], MortalStriker, adrilolo9, Widelux13|
 
 ||Group D|
 |-:|:-|
-|Germany|**Dustice**, DoKito, Beafowl, Neliel, imagaK, Firstus, BDDav, W3SON|
-|Australia|**Bauxe**, uyghti, ithgyu, Dumii, Korilak, Weber, Lunirs, Peekamoo|
-|Latvia|**Forseen**, waywern2012, Emula, Jesus[Krists]|
-|Greece|**Riven**, JohnyZ, ThePainG7, kYorineN, Grapheon, ThOmAstr, Tofas, xDarxen|
+|![Germany](/wiki/shared/flag/De.gif) Germany|**Dustice**, DoKito, Beafowl, Neliel, imagaK, Firstus, BDDav, W3SON|
+|![Australia](/wiki/shared/flag/Au.gif) Australia|**Bauxe**, uyghti, ithgyu, Dumii, Korilak, Weber, Lunirs, Peekamoo|
+|![Latvia](/wiki/shared/flag/Lv.gif) Latvia|**Forseen**, waywern2012, Emula, Jesus[Krists]|
+|![Greece](/wiki/shared/flag/Gr.gif) Greece|**Riven**, JohnyZ, ThePainG7, kYorineN, Grapheon, ThOmAstr, Tofas, xDarxen|
 
 ||Group E|
 |-:|:-|
-|China|**Crystal**, Totori, Dsan, Totoki, ArtxE, SpringLane, GGBY, MatsumotoRise|
-|Canada||
-|Chile||
-|Israel||
+|![China](/wiki/shared/flag/Cn.gif) China|**Crystal**, Totori, Dsan, Totoki, ArtxE, SpringLane, GGBY, MatsumotoRise|
+|![Canada](/wiki/shared/flag/Ca.gif) Canada||
+|![Chile](/wiki/shared/flag/Ch.gif) Chile||
+|![Israel](/wiki/shared/flag/Is.gif) Israel||
 
 ||Group F|
 |-:|:-|
-|United States||
-|Norway||
-|Austria||
-|Denmark||
+|![US](/wiki/shared/flag/Us.gif) United States||
+|![Norway](/wiki/shared/flag/No.gif) Norway||
+|![Austria](/wiki/shared/flag/At.gif) Austria||
+|![Denmark](/wiki/shared/flag/Dk.gif) Denmark||
 
 ||Group G|
 |-:|:-|
-|South Korea||
-|Russian Federation||
-|Netherlands||
-|Endonesia||
+|![S. Korea](/wiki/shared/flag/Kr.gif) South Korea||
+|![Russia](/wiki/shared/flag/Ru.gif) Russian Federation||
+|![Netherlands](/wiki/shared/flag/Nl.gif) Netherlands||
+|![Endonesia](/wiki/shared/flag/Id.gif) Indonesia||
 
 ||Group H|
 |-:|:-|
-|United Kingdom||
-|Brazil||
-|Hong Kong||
-|Sweden||
+|![United Kingdom](/wiki/shared/flag/Uk.gif) United Kingdom||
+|![Brazil](/wiki/shared/flag/Br.gif) Brazil||
+|![Hong Kong](/wiki/shared/flag/Hk.gif) Hong Kong||
+|![Sweden](/wiki/shared/flag/Se.gif) Sweden||
