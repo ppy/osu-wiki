@@ -85,7 +85,7 @@ In [osu!mania](osu!/wiki/Game_Modes/osu!mania) mode, however, Hard Rock will not
 
 ###  Sudden Death
 ![Sudden Death mod icon](img/Sudden_Death.png "Sudden Death mod icon")
-![Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely.](img/SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that fills up the HP bar from depleting completely.")
+![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before depleting completely.](img/SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely.")
 
 >Miss a note and fail.
 
@@ -105,7 +105,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, this mod has the exact same eff
 
 >SS or quit.
 
-If you click the Sudden Death mod again, the Perfect mod will come out. When this mod is activated, any hit that **decrease** the accuracy will be counted as a **miss** and the song will **restart automatically**. While this mod give no score multiplier, it is more unforgiving (100% accuracy or auto reset until you give up) when compared to Sudden Death (as long as the combo did not break).
+If you click the Sudden Death mod again, the Perfect mod will come out. When this mod is activated, any imperfect hit will be counted as a **miss** and the song will **restart automatically** - something Sudden Death doesn't do. While this mod gives no score multiplier, it is more unforgiving (100% accuracy or auto reset until you give up) when compared to Sudden Death (as long as the combo did not break).
 
 ### Double Time
 
@@ -133,7 +133,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the speed and approach rate are
 
 >uguuuuuuuu
 
-If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a bumpin' bass beat to the background. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because **Double Time will automatically be activated in order to use Nightcore mod**.
+If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a drum track to the background that that (in 4/4 time) goes in the order of bass drum on beats 1 & 3, clap on beats 2 & 4, and crash on beat 1 every 4 measures. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because **Double Time will automatically be activated in order to use Nightcore mod**.
 
 ### Hidden
 
@@ -393,7 +393,7 @@ This mod does exactly what you might expect it to do, disable the video, if any.
 - [Nightcore was originated from an April Fool joke.](https://osu.ppy.sh/forum/t/49733)
 -  Flashlight nearly ran out of batteries!
 
- 5 years ago, this mod has been subject to heavy controversy in the past, as its implementation makes it the easiest mod for hackers to cheat on. This mod has been made unranked before during a time of heavy cheater activity, but was restored not long after. \\:D/
+ 5 years ago, this mod had been subject to heavy controversy in the past, as its implementation makes it the easiest mod for hackers to cheat on. It was made unranked before during a time of heavy cheater activity, but was restored not long after. \\:D/
  If you want to know more, refer to these two threads:
 
 --   [Flashlight is back!](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
