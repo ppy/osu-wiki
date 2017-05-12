@@ -14,7 +14,7 @@ Laconic: Donation is used to sustain osu! overall
 
 -   osu!direct (Direct download in-game)
 -   Access to multiplayer when using osu!cuttingedge.
--   [Chat Console](/wiki/Chat_Console): Bright yellow name (for others, you still see your username as white).
+-   [Chat Console](/wiki/Chat_Console): Bright yellow name others can see. However, you still see your username as white.
 -   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist): Filter beatmap searches by played and unplayed maps.
 -   [Skinning](/wiki/Skinning): Some additional skin elements can be used, such as the [main menu](https://osu.ppy.sh/forum/t/96949)'s background.
     -   Specifically, `menu-background.jpg` (Main Menu); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
