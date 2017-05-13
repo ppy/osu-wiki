@@ -2,8 +2,6 @@
 
 ![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
 
-## Introducing
-
 ![osu!supporter link on main page](Osu-support.png " osu!supporter link on main page.")
 
 Refer to link: <https://osu.ppy.sh/p/support>
