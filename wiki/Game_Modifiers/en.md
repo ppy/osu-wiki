@@ -133,7 +133,7 @@ Click on Double Time again to activate Nightcore mod
 
 **Description**: uguuuuuuuu
 
-If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a drum track to the background that that (in 4/4 time) goes in the order of bass drum on beats 1 & 3, clap on beats 2 & 4, and crash on beat 1 every 4 measures. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because **Double Time will automatically be activated in order to use Nightcore mod**.
+If you click the Double Time icon again, it becomes the Nightcore mod which increases the pitch and adds a drum track to the background that (in 4/4 time) goes in the order of bass drum on beats 1 & 3, clap on beats 2 & 4, and crash on beat 1 every 4 measures. The multiplier stays the same, and the beatmap itself is unaffected beyond what Double Time would do because **Double Time will automatically be activated in order to use Nightcore mod**.
 
 ### Hidden
 
