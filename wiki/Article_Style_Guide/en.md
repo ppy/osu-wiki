@@ -15,7 +15,7 @@ A good osu!wiki writer/editor should read these reviews to help improve the over
 GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
 HTML use is **heavily** discouraged (and might have your pull request be denied)!
 
-GFM has a small amount of markup that **anyone** can learn it in less than a minute!
+GFM has a small amount of markup that **anyone** can learn it in about 3 mintues!
 However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
 
 ### Syntax
@@ -28,34 +28,13 @@ If you really need to, you could also ask for some help in the [osu!dev discord]
 
 All folders must **never** contain URL reserved characters.
 
-These URL reserved characters will include:
+Generally, all folder names should only use these characters:
 
-- `:` (colon)
-- `/` (slash)
-- `?` (question mark)
-- `#` (number sign, pound, hash, octothorpe)
-- `[` and `]` (sqaure brackets)
-- `@` (at sign)
-
-- `!` (exclamation point)
-- `$` (dollar sign)
-- `&` (ampersand)
-- `'` (apostrophe)
-- `(` and `)` (round brackets)
-- `*` (asterisk)
-- `+` (plus)
-- `,` (comma)
-- `;` (semicolon)
-- `=` (equal sign)
-
-- `%` (percent)
-
-- `"` (quotation mark)
-- `<` and `>` (less and greater than sign)
-- `^` (caret)
-- `` ` `` (grave mark)
-- `{` and `}` (curly brackets)
-- `|` (vertical bar, pipe)
+- A - Z (uppercase letters)
+- a - z (lowercase letters)
+- 0 - 9 (numbers 0 - 9)
+- `_` (underscore)
+- `!` (exclaimation point)
 
 ### Index Pages
 
@@ -583,7 +562,7 @@ Absolute links are basically URLs.
 For example:
 
 ```
-https://www.example.com/osu/lazer.xhtml?locale=ja&state=1
+https://www.example.com/index.php
 ```
 
 Use of this type of link may include:
