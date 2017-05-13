@@ -144,11 +144,6 @@ Doing so will help make the headings stand out a bit more when editing.
 ### Article Titles
 
 All articles must have **one** level 1 heading, being the article's title.
-For example:
-
-```
-# Folder Name
-```
 
 Article titles are to be in title case.
 
@@ -167,8 +162,11 @@ In the case where a title can **not** be translated, use the language title (in 
 Here are some examples:
 
 ```
-# osu!mania (Español)
+osu!mania (Español)
+===================
+
 # Live Streaming (日本語)
+
 # Skinning osu!catch (Français)
 ```
 
@@ -199,9 +197,13 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 Section headings must **never** have a link in it.
 Instead place the link underneath the section heading.
-For example:
+For example, do not do this:
 
+```
+## [Beatmap Editor](/wiki/Beatmap_Editor)
+```
 
+Instead, use:
 
 ```
 ## Beatmap Editor
