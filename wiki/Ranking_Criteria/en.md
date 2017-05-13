@@ -3,7 +3,7 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](http://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](Code_of_Conduct:_Modding_and_Mapping "wikilink") is part of the Ranking Criteria and applies to all existent game modes in osu!.**
+**Keep in mind that the [Code of Conduct](/wiki/Modding_Guides/Modding_and_Mapping) is part of the Ranking Criteria and applies to all existent game modes in osu!.**
 
 Rules
 ------
@@ -105,7 +105,7 @@ Guidelines are important and should be followed in most maps. However, they are 
 
 When your guideline-breaking map gets modded, try to be as reasonable as possible: Do your best to explain your point of view and be open to suggestions.
 
--   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulty_appropriate_gameplay_elements). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
+-   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
 -   **A maximum of three slider velocities should be used** (including 1x). For example, you could have a single map using 0.6x, 0.8x, and 1x; or 0.75x, 1x, and 1.5x; etc. If more than three slider velocities are used, then they should make sense and be intuitive. If slider velocity changes are able to be merged (e.g. close values like 0.8x and 0.7x) while still flowing/working correctly, then they should be.
 -   **When including a slider velocity change, there should be a discernible change in the map's tempo**. A spacing change, a short break in the map, or a slider containing at least one tick will help show the transition between them.
 -   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.

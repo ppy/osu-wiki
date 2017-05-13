@@ -29,7 +29,7 @@ De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GE
 
 -   **Finisher noten**
 
-Finisher noten mogen niet in het midden, of aan het begin van een [Stream](NL:Stream "wikilink"), met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. "Finisher noten aan het einde van de [Stream](NL:Stream "wikilink"), moeten een andere kleur hebben, dan de voorafgaande noot."
+Finisher noten mogen niet in het midden, of aan het begin van een [Stream](/wiki/Mapping_Techniques/Formations), met ¼ of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. "Finisher noten aan het einde van de Stream, moeten een andere kleur hebben, dan de voorafgaande noot."
 
 Richtlijnen
 ---------------

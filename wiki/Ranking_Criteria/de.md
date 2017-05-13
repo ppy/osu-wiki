@@ -16,7 +16,7 @@ Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollt
 
 ### Mapset
 
--   **Jedes Mapset muss aus mindestens 2 [Schwierigkeitsstufen](DE:Difficulty "wikilink") bestehen, davon muss eine der beiden die Schwierigkeitsstufe Easy oder Normal sein.** Marathon Maps ist es erlaubt nur eine Schwierigkeitsstufe zu haben.
+-   **Jedes Mapset muss aus mindestens 2 [Schwierigkeitsstufen](/wiki/Difficulties) bestehen, davon muss eine der beiden die Schwierigkeitsstufe Easy oder Normal sein.** Marathon Maps ist es erlaubt nur eine Schwierigkeitsstufe zu haben.
 -   **Der Mapset muss eine gut gestaltete Aufteilung der spezifischen Schwierigkeitsstufen vorweisen.** Dadurch soll gewährleistet werden, dass allen Spielern die Möglichkeit gegeben wird, ihren Lieblingssongs spielen zu können.
 -   **Die Schwierigkeitsstufen im Mapset müssen in einer aufeinanderfolgenden Reihenfolge sein und einen begründbaren Abstand zueinander haben.** Sollte der Mapset nur aus 2 Schwierigkeitsstufen bestehen, kann keines der beiden eine Insane- oder Expert-Schwierigkeitsstufe sein. **Die einfachste Schwierigkeitsstufe muss weniger als 2,0 Sterne haben.** Die Schwierigkeit von Taiko-spezifischen und osu!mania-spezifischen Schwierigkeitsstufen muss auch eine gut durchdachte Aufteilung aufweisen und kann auch nur einen Hard/Insane beinhalten, wenn Schwierigkeitsstufen für den Standard Modus vorhanden sind. Im CtB wird die Aufteilung nach dem Ermessen der BATs entschieden. Die Aufteilung der Schwierigkeitsstufen richtet sich grundsätzlich nach dem Star-Rating. Eine Map fällt unter einer bestimmten Schwierigkeit, wenn sie einen gewissen Star-Rating haben sollte:
     -   Unter 1,5: Easy
