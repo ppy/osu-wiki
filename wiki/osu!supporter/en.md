@@ -1,6 +1,6 @@
 # osu!supporter
 
-![osu!supporter tag](Supporter_tag.png "osu!supporter tag")
+![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
 
 ## Introducing
 
