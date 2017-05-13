@@ -22,16 +22,40 @@ However, do not expect a lot out of Markdown as it is intended to be used as a b
 
 If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-You could also ask for some help in the [osu!dev discord](https://discord.gg/ppy).
-
+If you really need to, you could also ask for some help in the [osu!dev discord](https://discord.gg/ppy).
 
 ## Folder Names
 
-All folders names must **never** contain any characters that will require precent encoding!
+All folders must **never** contain URL reserved characters.
 
-URL reserved characters will include but are not limited to `;`, `/`, `?`, `:`, `@`, `&`, and `#`.
+These URL reserved characters will include:
 
-Basically, just use numbers 0 - 9, letters A - Z and a - z, exclaimation marks (`!`), underscores (`_`), and hyphens (`-`).
+- `:` (colon)
+- `/` (slash)
+- `?` (question mark)
+- `#` (number sign, pound, hash, octothorpe)
+- `[` and `]` (sqaure brackets)
+- `@` (at sign)
+
+- `!` (exclamation point)
+- `$` (dollar sign)
+- `&` (ampersand)
+- `'` (apostrophe)
+- `(` and `)` (round brackets)
+- `*` (asterisk)
+- `+` (plus)
+- `,` (comma)
+- `;` (semicolon)
+- `=` (equal sign)
+
+- `%` (percent)
+
+- `"` (quotation mark)
+- `<` and `>` (less and greater than sign)
+- `^` (caret)
+- `` ` `` (grave mark)
+- `{` and `}` (curly brackets)
+- `|` (vertical bar, pipe)
 
 ### Index Pages
 
@@ -176,6 +200,8 @@ osu! is a frustrating but fun circle-clicking simulator.
 Section headings must **never** have a link in it.
 Instead place the link underneath the section heading.
 For example:
+
+
 
 ```
 ## Beatmap Editor
@@ -415,7 +441,7 @@ Please limit to a level of four (4) sub-lists at a time (if you need more, you s
 
 ## Code
 
-For the following scenarios below, use code.
+For the following scenarios, use code.
 
 ### Keyboard Keys
 
@@ -509,6 +535,11 @@ This is to ensure that the link still links to the same person even after they c
 
 **Never** use protocol relative links (e.g. `//example.com`)!
 
+### Unsafe ASCII Characters
+
+All links will work with unsafe ASCII characters.
+However, you should know that doing so will force the browser to use [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
+
 ### Article Links
 
 Article links must follow these rules:
@@ -590,9 +621,10 @@ Use of this type of link may include:
 ### Link Text
 
 Do **not** use the word `here` as the link text.
-As it may seem convenient to use, this may cause confusion and/or could be misleading.
+As it may seem convenient to use, this may cause confusion and/or be misleading.
 
 Instead, take the page's title (from the top of page or from the `<title/>` tag) and use that as the link text.
+If there isn't a viable or obvious title, then use the site's name or a genernal description instead.
 
 ### Section Links
 
@@ -605,19 +637,16 @@ All section links follow these strict rules:
 - if a header is not unique (two or more of the same section heading names exist at any level):
   - the first instance of said heading will follow the above rules
   - the following instances **must** follow the above rules **and** must add `.` followed by an incremental integer starting from `2`
+- if a section contains an image, ignore it
+- if a section starts with a space, ignore it
 
-You will need to check to make sure it links to the correct section.
+Notice: you are unable to check if section link links to the correct location.
 
 Examples:
 
 - `[Scoring](#scoring)`
 - `[osu!mania](#osu-mania.2)`
 - `[What is osu!taiko?](/wiki/FAQ/#what-is-osu-taiko)`
-
-#### Unsafe ASCII Characters
-
-Section linking **will** work for unsafe ASCII characters.
-However, do know that the section link in the url will be using [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding).
 
 #### Icons in Headings
 
@@ -680,7 +709,8 @@ If the media file is animated, use `.gif`.
 All images must have an alt text.
 This will ensure that something will still be displayed even when it fails to load.
 
-Title text (otherwise known as "hover text") is also **required** but can be the same as the alt text.
+Title text (otherwise known as "hover text") is **optional**.
+It can be the same as the alt text if needed.
 
 For example:
 
@@ -710,7 +740,7 @@ When adding a flag inline, use this format:
 ```
 
 - `full-country-name` is the full country name
-- `xx.gif` is the two letter code for the flag
+- `xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag
 
 To see if a flag exists, see the `/wiki/shared/flag/` folder in the `osu-wiki` repository.
 
