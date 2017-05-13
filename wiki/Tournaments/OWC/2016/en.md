@@ -64,7 +64,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 | ![Poland](/wiki/shared/flag/Pl.gif) Poland       | ![Finland](/wiki/shared/flag/Fi.gif) Finland           | ![Hong Kong](/wiki/shared/flag/Hk.gif) Hong Kong     | ![Israel](/wiki/shared/flag/Il.gif) Israel       |
 | ![S.Korea](/wiki/shared/flag/Kr.gif) South Korea | ![Italy](/wiki/shared/flag/It.gif) Italy               | ![Latvia](/wiki/shared/flag/Lv.gif) Latvia           | ![Singapore](/wiki/shared/flag/Sg.gif) Singapore |
 | ![Taiwan](/wiki/shared/flag/Tw.gif) Taiwan       | ![Mexico](/wiki/shared/flag/Mx.gif) Mexico             | ![Netherlands](/wiki/shared/flag/Nl.gif) Netherlands | ![Spain](/wiki/shared/flag/Es.gif) Spain         |
-| ![UK](/wiki/shared/flag/Uk.gif) United Kingdom   | ![Norway](/wiki/shared/flag/No.gif) Norway             | ![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand | ![Sweden](/wiki/shared/flag/Se.gif) Sweden       |
+| ![UK](/wiki/shared/flag/Gb.gif) United Kingdom   | ![Norway](/wiki/shared/flag/No.gif) Norway             | ![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand | ![Sweden](/wiki/shared/flag/Se.gif) Sweden       |
 | ![US](/wiki/shared/flag/Us.gif) United States    | ![Russia](/wiki/shared/flag/Ru.gif) Russian Federation | ![Philippenes](/wiki/shared/flag/Ph.gif) Philippenes | ![Ukraine](/wiki/shared/flag/Ua.gif) Ukraine     |
 
 ### Group A
@@ -110,7 +110,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
  | ![China](/wiki/shared/flag/Cn.gif) China | **Crystal**, Totori, Dsan, Totoki, ArtxE, SpringLane, GGBY, MatsumotoRise |
  | ![Canada](/wiki/shared/flag/Ca.gif) Canada | **Azer**, TrickMirror, MiruHong, Kaifin, Ignite, Kyle, karalis, VINXIS |
  | ![Chile](/wiki/shared/flag/Ch.gif) Chile | **kafaN**, DanyL, Neab, etejuano, allives, -Dylson-, DPL, Criss |
- | ![Israel](/wiki/shared/flag/Is.gif) Israel | **MrPotato**, Kyoko, Keysama, ilift, KiroKusA, Fookiezi, Slendy |
+ | ![Israel](/wiki/shared/flag/Il.gif) Israel | **MrPotato**, Kyoko, Keysama, ilift, KiroKusA, Fookiezi, Slendy |
 
 ### Group F
  
@@ -134,7 +134,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 | Country | Team |
  |-:|:-|
- | ![United Kingdom](/wiki/shared/flag/Uk.gif) United Kingdom | **Bubbleman**, bahamete, Spook, Karthy, Doomsday, Jameslike, OPJames, Helix |
+ | ![United Kingdom](/wiki/shared/flag/Gb.gif) United Kingdom | **Bubbleman**, bahamete, Spook, Karthy, Doomsday, Jameslike, OPJames, Helix |
  | ![Brazil](/wiki/shared/flag/Br.gif) Brazil | **Fenrir**, Idealism, Texats, Mirtrax, Zekker, MouseEasy, fabriciorby, Miyazono |
  | ![Hong Kong](/wiki/shared/flag/Hk.gif) Hong Kong | **- G I D Z -**, -N a n a k o-, Chaoslitz, Rizia, DenierNezzar, MinG3012, StarrStyx, YoonA- |
  | ![Sweden](/wiki/shared/flag/Se.gif) Sweden | **-Kupo-**, Rapthorn, Tomoko Kuroki-, Snase, Suzuta, HenBurgaaa |
