@@ -43,21 +43,21 @@ This mod makes the player incapable of failing when the [life bar](/wiki/Glossar
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, since the gameplay does not end even if the HP bar is zero and only fails the player if their life is too low at the end of the map, this mod allows the player to pass at the end even if the life bar is lower than the required amount to pass.
 
-In [osu!catch](/wiki/Game_Modes/osu!catch) mode, this mod acts exactly the same as in standard osu!
+In [osu!catch](/wiki/Game_Modes/osu!catch) mode, this mod acts exactly the same as in osu!standard.
 
 ### Half Time
 
-![Half Time mod icon](img/Half-time.png "Half Time mod icon")
+![Half Time mod icon](/shared/Half-time.png "Half Time mod icon")
 
 ![Length of the song is increased by 1/3 BPM decreased by 1/4](img/GM_HT.jpg "Length of the song is increased by 1/3 BPM decreased by 1/4")
 
-**Score multiplier**: 0.3 (osu!, Taiko, Catch The Beat), 0.5 (osu!mania)
+**Score multiplier**: 0.3 (osu!, osu!taiko, osu!catch), 0.5 (osu!mania)
 
 **Description**: Less zoom("Zoom" meaning here means how fast the beatmap's BPM is)
 
 Half Time slows down the speed of the song and beatmap for easier play. However, the BPM is not decreased to half the original, as the name suggests, but to 75% the original. This causes an increases in the length of the song by 33%. The method used to slow down may cause the song to sound "muddy" but vocals may sound similar.
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, all remains mostly the same as in osu!standard, including the slowed music. As a result, the density and approaching rate decreases. However, due to the way spinners are calculated in Taiko, this mod makes them to take more hits to clear and, since spinner points are not affected by multiplier, causes them to have a higher total value than without the mod. This leads to the **increase** in maximum possible score when Half Time is switch on for maps with very low combos and many long spinners, and the effect is more significant when Hard Rock mod is turned on simultaneously (which boost the hit required per spinner as well).
+In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, all remains mostly the same as in osu!standard, including the slowed music. As a result, the density and approaching rate decreases. However, due to the way spinners are calculated in osu!taiko, this mod makes them to take more hits to clear and, since spinner points are not affected by multiplier, causes them to have a higher total value than without the mod. This leads to the **increase** in maximum possible score when Half Time is switch on for maps with very low combos and many long spinners, and the effect is more significant when Hard Rock mod is turned on simultaneously (which boost the hit required per spinner as well).
 
 In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the BPM is lowered by the same factor as in other modes. This mod also decreases the player character's speed, so many fruits that are ordinary without any mods are turned into hyperdash fruits in Half Time. In addition, the leniency for hyperdashes is increased, making it much easier to stop underneath the next fruit when doing a hyperdash.
 
@@ -68,16 +68,16 @@ These mods introduce new elements to make the game harder and rewards the player
 
 ### Hard Rock
 
-![Hard Rock mod icon.png](img/Hard_Rock.png "Hard Rock mod icon.png")
+![Hard Rock mod icon.png](/shared/Hard_Rock.png "Hard Rock mod icon.png")
 ![Hard Rock increases the difficulty in many ways.](img/hardrock.jpg "Hard Rock increases the difficulty in many ways.")
 
-**Score multiplier**: 1.06 (osu!, Taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)
+**Score multiplier**: 1.06 (osu!, osu!taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)
 
 **Description**: Everything just got a bit harder...
 
 Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents](/wiki/Glossary/#eba)) decreases hit circle size by 1 tick while increasing the [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty), [approach rate](/wiki/Beatmap_Editor/Song_Setup/#approach-rate), and the [HP drain](/wiki/Beatmap_Editor/hp-drain-rate)) by 2 or 3 ticks of their original value up to a maximum of 10. The difference in AR is often hard to notice except when used on maps with an original AR of 7 or greater, as it will push the AR to the maximum value of 10. Hard Rock can be a very difficult mod (especially on insane maps) as it not only demands higher cursor accuracy, it also requires the ability to read lightning-fast approach circles. Additionally, this mod flips the map on the X axis, so that elements that were at the bottom of the map are now at the top and vice versa.
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, Hard Rock increases [slider velocity](/wiki/Glossary/#sv) as well as [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty). This is the most commonly used mod in Taiko due to it being the only difficulty increasing mod that does not require memorization or super-fast hitting on Hard/Insane maps. Note that hit required to finish a spinner is increased due to the increase of [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty). Therefore, the maximum possible score of Taiko difficulties with Hard Rock on is larger than that of Hidden mod. However, this effect is insignificant in most cases because each hit in spinner gives a score of 300, which is even smaller than a typical score difference between a GREAT hit and a GOOD hit (550 points at 100 combo or above).
+In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, Hard Rock increases [slider velocity](/wiki/Glossary/#sv) as well as [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty). This is the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require memorization or super-fast hitting on Hard/Insane maps. Note that hit required to finish a spinner is increased due to the increase of [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty). Therefore, the maximum possible score of osu!taiko difficulties with Hard Rock on is larger than that of Hidden mod. However, this effect is insignificant in most cases because each hit in spinner gives a score of 300, which is even smaller than a typical score difference between a GREAT hit and a GOOD hit (550 points at 100 combo or above).
 
 In [osu!catch](/wiki/Game_Modes/osu!catch) mode, Hard Rock has a multitude of effects. In addition to making the player character and fruits smaller (Circle size decreased) and increasing how fast they fall (AR increase), this mod can cause ordinary fruits to veer slightly to the left or right of where they were placed on the grid, requiring the player to make more chaotic movements and to use hyperdash. As this mod increases difficulty in a huge way compared to the other two modes, it is worth a 1.12x multiplier in Catch the Beat rather than 1.06x.
 
@@ -113,7 +113,7 @@ If you click the Sudden Death mod again, the Perfect mod will come out. When thi
 
 ![Length of the song is decreased by 1/3 BPM increases by 1/2](img/GM_DT.jpg "Length of the song is decreased by 1/3 BPM increases by 1/2")
 
-**Score multiplier**: 1.12 (osu!, Taiko) , 1.06 (Catch the Beat).
+**Score multiplier**: 1.12 (osu!, osu!taiko) , 1.06 (Catch the Beat).
 
 **Description**: Zoooooooooom
 
@@ -121,13 +121,13 @@ Double Time increases the overall beatmap's speed to 150% of the original, reduc
 
 Because the song is sped up, the [approach rate](/wiki/Beatmap_Editor/Song_Setup/#approach-rate) also increases, which often makes it quite difficult when paired with Hard Rock.
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the speed is raised and the overall difficulty increased just like in osu!standard. Since the hit leniency is greatly increased on top of Taiko's already strict overall difficulty in addition to making slider ticks a lot harder to hit and reducing the value of spinners, Double Time is usually regarded as the hardest mod in Taiko, and is seldom used.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the speed is raised and the overall difficulty increased just like in osu!standard. Since the hit leniency is greatly increased on top of osu!taiko's already strict overall difficulty in addition to making slider ticks a lot harder to hit and reducing the value of spinners, Double Time is usually regarded as the hardest mod in osu!taiko, and is seldom used.
 
 In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the speed and approach rate are changed the same as in other modes. However, since Catch the Beat has no overall difficulty to increase, this mod does nothing more than a BPM and approach rate multiplier and is thus only worth a 1.06x multiplier. Being the opposite of Half Time, though, Double Time greatly decreases the hyperdash leniency, making fruits requiring hyperdashes nigh impossible to catch in some cases.
 
 #### Nightcore
 
-![Nightcore mod icon](img/Nightcore.png "Nightcore mod icon")
+![Nightcore mod icon](/shared/Nightcore.png "Nightcore mod icon")
 
 Click on Double Time again to activate Nightcore mod
 
@@ -137,12 +137,12 @@ If you click the Double Time icon again, it becomes the Nightcore mod which incr
 
 ### Hidden
 
-![Hidden mod icon](img/Hidden.png "Hidden mod icon")
+![Hidden mod icon](/shared/Hidden.png "Hidden mod icon")
 
-**Score multiplier**: 1.06 (osu!,Taiko,CtB) , 1.00 (osu!mania)
+**Score multiplier**: 1.06 (osu!,osu!taiko,osu!catch) , 1.00 (osu!mania)
 
-**Description**(osu!, CtB): Play with no approach circles and fading notes for a slight score advantage.
-(Taiko, osu!mania): The notes fade out before you hit them!
+**Description**(osu!, osu!catch): Play with no approach circles and fading notes for a slight score advantage.
+(osu!taiko, osu!mania): The notes fade out before you hit them!
 
 Hidden debuted in Ouendan 2, the second Japanese DS game. In osu!, it eliminates the approach circles and causes the hit circles to fade out shortly after appearing, forcing players to more or less memorize the timing and, to a lesser degree, placement. Numbers on sliders and their approach circles vanish, but the sliders themselves do not, so the player only needs to remember the timing and which end to begin sliding from. Turning on "Snaking Sliders" in the options can help with this.
 
@@ -172,19 +172,20 @@ For a comparison, see pictures below.
 
 ![Flashlight mod icon](/shared/Flashlight.png "Flashlight mod icon")
 
-**Score multiplier**: 1.12 (osu!,Taiko,CtB) , 1.00 (osu!mania)
+**Score multiplier**: 1.12 (osu!,osu!taiko,osu!catch) , 1.00 (osu!mania)
 
 **Description**: Restricted view area.
 
 Flashlight reduces the visible area of the screen to a small, illuminated section around the cursor. The visible area becomes smaller at 100 combo and again at 200 combo, returning to its original size if the combo is broken.
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the position of visible area is fixed at the hitting area. The visible area shrinks at the same combo intervals as in standard osu! Theoretically, Flashlight does not require memorization for every map, as unlike in the other two modes, all notes are guaranteed to be visible at some point in time. However, except on songs with a very low BPM or low combo, human reaction times generally aren't adequate for such a feat. When paired with Hidden, the flashlight size barely matters, as the notes are completely invisible at any combo, requiring the player to memorize the entire map.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the position of visible area is fixed at the hitting area. The visible area shrinks at the same combo intervals as in osu!standard.
+Theoretically, Flashlight does not require memorization for every map, as unlike in the other two modes, all notes are guaranteed to be visible at some point in time. However, except on songs with a very low BPM or low combo, human reaction times generally aren't adequate for such a feat. When paired with Hidden, the flashlight size barely matters, as the notes are completely invisible at any combo, requiring the player to memorize the entire map.
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), the flashlight is the same, except that it follows the character. The visible area is greater than in standard osu! or in Taiko, but is still quite a challenge as it disables you entirely from seeing notes on the top or the other side of the screen. When paired with Hidden, fruits are visible momentarily if you are directly under them until you reach 100 combo, at which point they become completely invisible.
+In [osu!catch](/wiki/Game_Modes/osu!catch), the flashlight is the same, except that it follows the character. The visible area is greater than in osu!standard or in osu!taiko, but is still quite a challenge as it disables you entirely from seeing notes on the top or the other side of the screen. When paired with Hidden, fruits are visible momentarily if you are directly under them until you reach 100 combo, at which point they become completely invisible.
 
 In [osu!mania](osu!/wiki/Game_Modes/osu!mania), vision is restricted to a thin horizontal bar in the center of the screen.
 
-![Flashlight mod in Standard.](img/flashlightosu.jpg "Flashlight mod in Standard.") ![Flashlight mod in Taiko.](img/flashlighttaiko.jpg "Flashlight mod in Taiko.") ![Flashlight mod in Catch the Beat.](img/flashlightctb.jpg "Flashlight mod in Catch the Beat.") ![Flashlight mod in osu!mania.](img/Flashlight_Mania.jpg "Flashlight mod in osu!mania.")
+![Flashlight mod in osu!standard.](img/flashlightosu.jpg "Flashlight mod in osu!standard.") ![Flashlight mod in osu!taiko.](img/flashlighttaiko.jpg "Flashlight mod in osu!taiko.") ![Flashlight mod in Catch the Beat.](img/flashlightosu!catch.jpg "Flashlight mod in Catch the Beat.") ![Flashlight mod in osu!mania.](img/Flashlight_Mania.jpg "Flashlight mod in osu!mania.")
 
 Special Mods
 ------------
@@ -199,10 +200,10 @@ The mods listed below can't be used in conjunction with each other, except for R
 
 **Description**(osu!): "You don't need to click.
 Give your clicking/tapping finger a break from the heat of things.
-(Taiko)Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's.
-(CtB)Use the mouse to control the catcher.
+(osu!taiko)Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's.
+(osu!catch)Use the mouse to control the catcher.
 
-A mod in which you don't need to click. Simply hover your cursor over each [hit circle](/wiki/Hit_Objects/#hit-circle) and it will be hit with the correct timing automatically. Using this mod also hides the score, combo and misses (except in Taiko) and makes it impossible to fail the map, much like No Fail. Also, your spin per minute value will be doubled, allowing you to spin much faster and obtain a higher score than in regular play.
+A mod in which you don't need to click. Simply hover your cursor over each [hit circle](/wiki/Hit_Objects/#hit-circle) and it will be hit with the correct timing automatically. Using this mod also hides the score, combo and misses (except in osu!taiko) and makes it impossible to fail the map, much like No Fail. Also, your spin per minute value will be doubled, allowing you to spin much faster and obtain a higher score than in regular play.
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the correct color for the notes is hit regardless of the color of the button pressed, sliders do not stop you from hitting slider ticks if you hit too fast, and spinners can be cleared with any button sequence instead of alternating blue and red.
 
@@ -264,7 +265,7 @@ This mod will show **background and storyboard only** without the gameplay objec
 
 This mod will force all beatmap difficulties to use the selected K setting, ignoring the supposed K setting of the beatmap's difficulty at the cost of decreasing Score punishment. Using the 1K, 2K and 3K mod causes your score to be unranked.
 
-Score multiplier only applies within this condition: **This table only affects beatmaps converted from Standard to osu!mania during play**.
+Score multiplier only applies within this condition: **This table only affects beatmaps converted from osu!standard to osu!mania during play**.
 
 |Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -304,7 +305,7 @@ The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
 ### Random
 
-![Random mod icon](img/Random.png "Random mod icon")
+![Random mod icon](/shared/Random.png "Random mod icon")
 ![Effect of "Random" mod](img/GM_Random.jpg "Effect of "Random" mod")
 
 **Score multiplier**: 1.00 (Unranked, osu!mania only)
