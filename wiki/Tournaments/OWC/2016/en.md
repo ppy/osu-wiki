@@ -34,7 +34,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 |Position|Member|
 |:---:|:----|
 |Tournament Management|[![De.gif](/wiki/shared/flag/De.gif) Loctav](https://osu.ppy.sh/u/71366 "Loctav"), [![De.gif](/wiki/shared/flag/De.gif) p3n](https://osu.ppy.sh/u/123703 "p3n"), [![Es.gif](/wiki/shared/flag/Es.gif) Deif](https://osu.ppy.sh/u/318565 "Deif"), [![Fr.gif](/wiki/shared/flag/Fr.gif) shARPII](https://osu.ppy.sh/u/776257 "shARPII")|
-|Map Selectors|[![Jp.gif](/wiki/shared/flag/Jp.gif) Asahina Momoko](https://osu.ppy.sh/u/3650145 "Asahina Momoko"), [![De.gif](/wiki/shared/flag/De.gif) Okorin](https://osu.ppy.sh/u/1623405 "Okorin"), [![Hk.gif](/wiki/shared/flag/Hk.gif) Skystar](https://osu.ppy.sh/u/873961 "Skystar")
+|Map Selectors|[![Jp.gif](/wiki/shared/flag/Jp.gif) Asahina Momoko](https://osu.ppy.sh/u/3650145 "Asahina Momoko"), [![De.gif](/wiki/shared/flag/De.gif) Okorin](https://osu.ppy.sh/u/1623405 "Okorin"), [![Hk.gif](/wiki/shared/flag/Hk.gif) Skystar](https://osu.ppy.sh/u/873961 "Skystar")|
 |Commentators|[![Au.gif](/wiki/shared/flag/Au.gif) Bauxe](https://osu.ppy.sh/u/1881685 "Bauxe"), [![Us.gif](/wiki/shared/flag/Us.gif) Daikyi](https://osu.ppy.sh/u/811832 "Daikyi"), [![Nz.gif](/wiki/shared/flag/Nz.gif) deadbeat](https://osu.ppy.sh/u/128370 "deadbeat"), [![Gb.gif](/wiki/shared/flag/Gb.gif) Doomsday](https://osu.ppy.sh/u/18983 "Doomsday"), [![Ca.gif](/wiki/shared/flag/Ca.gif) Evrien](https://osu.ppy.sh/u/791660 "Evrien"), [![Ar.gif](/wiki/shared/flag/Ar.gif) juankristal](https://osu.ppy.sh/u/443656 "juankristal"), [![At.gif](/wiki/shared/flag/At.gif) Omgforz](https://osu.ppy.sh/u/578943 "Omgforz"), [![Gb.gif](/wiki/shared/flag/Gb.gif) Rime](https://osu.ppy.sh/u/1397232 "Rime"), [![Fr.gif](/wiki/shared/flag/Fr.gif) Slainv](https://osu.ppy.sh/u/4823843 "Slainv"), [![Us.gif](/wiki/shared/flag/Us.gif) ztrot](https://osu.ppy.sh/u/6347 "ztrot")|
 |Statistician|[![Nz.gif](/wiki/shared/flag/Nz.gif) deadbeat](https://osu.ppy.sh/u/128370 "deadbeat"), [![De.gif](/wiki/shared/flag/De.gif) Nwolf](https://osu.ppy.sh/u/1910766 "Nwolf")|
 
@@ -55,6 +55,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 -----------
 
+## Seedings
 
 | Top Seed                                         | High Seed                                              | Low Seed                                             | Unseeded                                         |
 |:-------------------------------------------------|:-------------------------------------------------------|:-----------------------------------------------------|:-------------------------------------------------|
@@ -68,76 +69,68 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 | ![US](/wiki/shared/flag/Us.gif) United States    | ![Russia](/wiki/shared/flag/Ru.gif) Russian Federation | ![Philippenes](/wiki/shared/flag/Ph.gif) Philippenes | ![Ukraine](/wiki/shared/flag/Ua.gif) Ukraine     |
 
 ### Group A
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Fr.gif](/wiki/shared/flag/Fr.gif)|**France**|**[Musty](https://osu.ppy.sh/u/251683 "Musty")**, [filsdelama](https://osu.ppy.sh/u/2831793 "filsdelama"), [ThePooN](https://osu.ppy.sh/u/718454 "ThePooN"), [Flaven](https://osu.ppy.sh/u/3213239 "Flaven"), [NerO](https://osu.ppy.sh/u/1545031 "NerO"), [mrzomb](https://osu.ppy.sh/u/1694887 "mrzomb"), [FayeurS](https://osu.ppy.sh/u/3105416 "FayeurS"), [Elysion](https://osu.ppy.sh/u/106269 "Elysion")|
+|![Fi.gif](/wiki/shared/flag/Fi.gif)|**Finland**|**[Sanze](https://osu.ppy.sh/u/3110552 "Sanze")**, [thelewa](https://osu.ppy.sh/u/475021 "thelewa"), [Hyppyri](https://osu.ppy.sh/u/3123423 "Hyppyri"), [Subbie](https://osu.ppy.sh/u/1590138 "Subbie"), [Maffe](https://osu.ppy.sh/u/4773855 "Maffe"), [huono_tuuri](https://osu.ppy.sh/u/1432954 "huono_tuuri"), [Sonoda-Umi](https://osu.ppy.sh/u/2197711 "Sonoda-Umi"), [Multtari](https://osu.ppy.sh/u/1097352 "Multtari")|
+|![Nz.gif](/wiki/shared/flag/Nz.gif)|**New Zealand**|**[shortpotato](https://osu.ppy.sh/u/1266102 "shortpotato")**, [buny](https://osu.ppy.sh/u/1488796 "buny"), [yellowy246](https://osu.ppy.sh/u/3833980 "yellowy246"), [kiyumi](https://osu.ppy.sh/u/3701898 "kiyumi"), [cabbage](https://osu.ppy.sh/u/2358072 "cabbage"), [ningalu](https://osu.ppy.sh/u/6934358 "ningalu"), [xenoframium](https://osu.ppy.sh/u/4502584 "xenoframium"), [smead](https://osu.ppy.sh/u/4293459 "smead")|
+|![Sg.gif](/wiki/shared/flag/Sg.gif)|**Singapore**|**[Nakano-](https://osu.ppy.sh/u/1893953 "Nakano-")**, [GSBlank](https://osu.ppy.sh/u/2312106 "GSBlank"), [Raen](https://osu.ppy.sh/u/2922482 "Raen"), [Repulse](https://osu.ppy.sh/u/2414526 "Repulse"), [Asterix-](https://osu.ppy.sh/u/5138193 "Asterix-"), [Rtyzen](https://osu.ppy.sh/u/2439822 "Rtyzen"), [oneplusone](https://osu.ppy.sh/u/1843447 "oneplusone"), [Raindrop](https://osu.ppy.sh/u/1155871 "Raindrop")|
 
-| Country | Team |
- |-:|:-|
- | ![France](/wiki/shared/flag/Fr.gif) France | **Musty**, filsdelama, ThePooN, Flaven, NerO, mrzomb, FayeurS, Elysion |
- | ![Finland](/wiki/shared/flag/Fi.gif) Finland | **Sanze**, thelewa, Hyppyri, Subbie, Maffe, huono_tuuri, Sonoda-Umi, Multtari |
- | ![New Zealand](/wiki/shared/flag/Nz.gif) New Zealand | **shortpotato**, buny, yellowy246, kiyumi, cabbage, ningalu, xenoframium, smead |
- | ![Singapore](/wiki/shared/flag/Sg.gif) Singapore | **Nakano-**, GSBlank, Raen, Repulse, Asterix-, Rtyzen, oneplusone, Raindrop |
- 
 ### Group B
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Pl.gif](/wiki/shared/flag/Pl.gif)|**Poland**|**[My Angel Wilchq](https://osu.ppy.sh/u/844815 "My Angel Wilchq")**, [Wilchq](https://osu.ppy.sh/u/2021758 "Wilchq"), [Rafis](https://osu.ppy.sh/u/2558286 "Rafis"), [WubWoofWolf](https://osu.ppy.sh/u/39828 "WubWoofWolf"), [r0ck](https://osu.ppy.sh/u/1549620 "r0ck"), [fartownik](https://osu.ppy.sh/u/56917 "fartownik"), [SpajdeR](https://osu.ppy.sh/u/3446664 "SpajdeR"), [Piggey](https://osu.ppy.sh/u/4163860 "Piggey")|
+|![It.gif](/wiki/shared/flag/It.gif)|**Italy**|**[xiAmME](https://osu.ppy.sh/u/1428960 "xiAmME")**, [Koba](https://osu.ppy.sh/u/4448118 "Koba"), [mrspazzaneve17](https://osu.ppy.sh/u/3516241 "mrspazzaneve17"), [-Kazuki-](https://osu.ppy.sh/u/3614356 "-Kazuki-"), [Kirin](https://osu.ppy.sh/u/1852356 "Kirin"), [DT-sama](https://osu.ppy.sh/u/3525018 "DT-sama"), [umii](https://osu.ppy.sh/u/2538695 "umii"), [LLoyd-chan](https://osu.ppy.sh/u/2849149 "LLoyd-chan")|
+|![Ph.gif](/wiki/shared/flag/Ph.gif)|**Philippines**|**[revurii](https://osu.ppy.sh/u/4180036 "revurii")**, [awmslayer](https://osu.ppy.sh/u/4133147 "awmslayer"), [ededed028](https://osu.ppy.sh/u/3932796 "ededed028"), [2124](https://osu.ppy.sh/u/5315077 "2124"), [HybRidChrome](https://osu.ppy.sh/u/2606470 "HybRidChrome"), [Shii](https://osu.ppy.sh/u/2911062 "Shii"), [konawiki](https://osu.ppy.sh/u/4003979 "konawiki"), [Mira-san](https://osu.ppy.sh/u/1587999 "Mira-san")| 
+|![Ua.gif](/wiki/shared/flag/Ua.gif)|**Ukraine**|**[Granje](https://osu.ppy.sh/u/496387 "Granje")**, [-Ranndom-](https://osu.ppy.sh/u/5022536 "-Ranndom-"), [Sadness](https://osu.ppy.sh/u/6560835 "Sadness"), [BloodM0nk](https://osu.ppy.sh/u/2174403 "BloodM0nk"), [FllareA](https://osu.ppy.sh/u/1163931 "FllareA"), [blednak](https://osu.ppy.sh/u/912627 "blednak"), [Elzbieta](https://osu.ppy.sh/u/3734954 "Elzbieta"), [Cloz1k](https://osu.ppy.sh/u/4548264 "Cloz1k")|
 
-| Country | Team |
- |-:|:-|
- | ![Poland](/wiki/shared/flag/Pl.gif) Poland | **My Angel Wilchq**, Wilchq, Rafis, WubWoofWolf, r0ck, fartownik, SpajdeR, Piggey |
- | ![Italy](/wiki/shared/flag/It.gif) Italy | **xiAmME**, Koba, mrspazzaneve17, -Kazuki-, Kirin, DT-sama, umii, LLoyd-chan |
- | ![Phillipenes](/wiki/shared/flag/Ph.gif) Phillipenes | **revurii**, awmslayer, ededed028, 2124, HybRidChrome, Shii, konawiki, Mira-san |
- | ![Ukraine](/wiki/shared/flag/Ua.gif) Ukraine | **Granje**, -Ranndom-, Sadness, BloodM0nk, FllareA, blednak, Elzbieta, Cloz1k |
- 
 ### Group C
-
-| Country | Team |
- |-:|:-|
- | ![Taiwan](/wiki/shared/flag/Tw.gif) Taiwan | **Flask**, hvick225, Rucker, Small K, My Angel Haruna, Koalazy, Rizer, SevenTeen- |
- | ![Mexico](/wiki/shared/flag/Mx.gif) Mexico | **Broodich**, Ferelix, -Wolfy-, KevstracK, [ AeonLust ], Atsuro, -Hebel-, Atheneon |
- | ![Argentina](/wiki/shared/flag/Ar.gif) Argentina | **Glazbom**, GaTu, Pein, benjacala, Enhu, nicogame14, Catalysis, Toushi |
- | ![Spain](/wiki/shared/flag/Es.gif) Spain | **Naxurin**, PdPr0x_, Painketsu, [ xFrozZ ], MortalStriker, adrilolo9, Widelux13 |
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Tw.gif](/wiki/shared/flag/Tw.gif)|**Taiwan**|**[Flask](https://osu.ppy.sh/u/959763 "Flask")**, [hvick225](https://osu.ppy.sh/u/50265 "hvick225"), [Rucker](https://osu.ppy.sh/u/147515 "Rucker"), [Small K](https://osu.ppy.sh/u/952751 "Small K"), [My Angel Haruna](https://osu.ppy.sh/u/606544 "My Angel Haruna"), [Koalazy](https://osu.ppy.sh/u/286740 "Koalazy"), [Rizer](https://osu.ppy.sh/u/5155973 "Rizer"), [SevenTeen-](https://osu.ppy.sh/u/1859195 "SevenTeen-")|
+|![Mx.gif](/wiki/shared/flag/Mx.gif)|**Mexico**|**[Broodich](https://osu.ppy.sh/u/2484629 "Broodich")**, [Ferelix](https://osu.ppy.sh/u/5580827 "Ferelix"), [-Wolfy-](https://osu.ppy.sh/u/4497582 "-Wolfy-"), [KevstracK](https://osu.ppy.sh/u/5325213 "KevstracK"), [[ AeonLust ]](https://osu.ppy.sh/u/2353490 "[ AeonLust ]"), [Atsuro](https://osu.ppy.sh/u/2279351 "Atsuro"), [-Hebel-](https://osu.ppy.sh/u/6169483 "-Hebel-"), [Atheneon](https://osu.ppy.sh/u/2164627 "Atheneon")|
+|![Ar.gif](/wiki/shared/flag/Ar.gif)|**Argentina**|**[Glazbom](https://osu.ppy.sh/u/608277 "Glazbom")**, [GaTu](https://osu.ppy.sh/u/3583351 "GaTu"), [Pein](https://osu.ppy.sh/u/2212941 "Pein"), [benjacala](https://osu.ppy.sh/u/1625740 "benjacala"), [Enhu](https://osu.ppy.sh/u/2840499 "Enhu"), [nicogame14](https://osu.ppy.sh/u/3812213 "nicogame14"), [Catalysis](https://osu.ppy.sh/u/5958063 "Catalysis"), [Toushi](https://osu.ppy.sh/u/2367825 "Toushi")|
+|![Es.gif](/wiki/shared/flag/Es.gif)|**Spain**|**[Naxurin](https://osu.ppy.sh/u/3589423 "Naxurin")**, [PdPr0x_](https://osu.ppy.sh/u/4086716 "PdPr0x_"), [Painketsu](https://osu.ppy.sh/u/2127432 "Painketsu"), [[ xFrozZ ]](https://osu.ppy.sh/u/6462387 "[ xFrozZ ]"), [MortalStriker](https://osu.ppy.sh/u/4759050 "MortalStriker"), [adrilolo9](https://osu.ppy.sh/u/4274726 "adrilolo9"), [Widelux13](https://osu.ppy.sh/u/3938945 "Widelux13")|
 
 ### Group D
- 
-| Country | Team |
- |-:|:-|
- | ![Germany](/wiki/shared/flag/De.gif) Germany | **Dustice**, DoKito, Beafowl, Neliel, imagaK, Firstus, BDDav, W3SON |
- | ![Australia](/wiki/shared/flag/Au.gif) Australia | **Bauxe**, uyghti, ithgyu, Dumii, Korilak, Weber, Lunirs, Peekamoo |
- | ![Latvia](/wiki/shared/flag/Lv.gif) Latvia | **Forseen**, waywern2012, Emula, Jesus[Krists] |
- | ![Greece](/wiki/shared/flag/Gr.gif) Greece | **Riven**, JohnyZ, ThePainG7, kYorineN, Grapheon, ThOmAstr, Tofas, xDarxen |
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![De.gif](/wiki/shared/flag/De.gif)|**Germany**|**[Dustice](https://osu.ppy.sh/u/754565 "Dustice")**, [DoKito](https://osu.ppy.sh/u/537084 "DoKito"), [Beafowl](https://osu.ppy.sh/u/2438122 "Beafowl"), [Neliel](https://osu.ppy.sh/u/1500305 "Neliel"), [imagaK](https://osu.ppy.sh/u/2022445 "imagaK"), [Firstus](https://osu.ppy.sh/u/1856829 "Firstus"), [BDDav](https://osu.ppy.sh/u/1164526 "BDDav"), [W3SON](https://osu.ppy.sh/u/2070822 "W3SON")|
+|![Au.gif](/wiki/shared/flag/Au.gif)|**Australia**|**[Bauxe](https://osu.ppy.sh/u/1881685 "Bauxe")**, [uyghti](https://osu.ppy.sh/u/3641404 "uyghti"), [ithgyu](https://osu.ppy.sh/u/5113781 "ithgyu"), [Dumii](https://osu.ppy.sh/u/3068044 "Dumii"), [Korilak](https://osu.ppy.sh/u/7260014 "Korilak"), [Weber](https://osu.ppy.sh/u/6410432 "Weber"), [Lunirs](https://osu.ppy.sh/u/2118945 "Lunirs"), [Peekamoo](https://osu.ppy.sh/u/2337263 "Peekamoo")| 
+|![Lv.gif](/wiki/shared/flag/Lv.gif)|**Latvia**|**[Forseen](https://osu.ppy.sh/u/556012 "Forseen")**, [waywern2012](https://osu.ppy.sh/u/5870453 "waywern2012"), [Emula](https://osu.ppy.sh/u/2891792 "Emula"), [Jesus[Krists]](https://osu.ppy.sh/u/2842992 "Jesus[Krists]")|
+|![Gr.gif](/wiki/shared/flag/Gr.gif)|**Greece**|**[Riven](https://osu.ppy.sh/u/3638005 "Riven")**, [JohnyZ](https://osu.ppy.sh/u/4508048 "JohnyZ"), [ThePainG7](https://osu.ppy.sh/u/3478000 "ThePainG7"), [kYorineN](https://osu.ppy.sh/u/4131515 "kYorineN"), [Grapheon](https://osu.ppy.sh/u/2415008 "Grapheon"), [ThOmAstr](https://osu.ppy.sh/u/2793537 "ThOmAstr"), [Tofas](https://osu.ppy.sh/u/2755584 "Tofas"), [xDarxen](https://osu.ppy.sh/u/4625954 "xDarxen")|
 
 ### Group E
- 
-| Country | Team |
- |-:|:-|
- | ![China](/wiki/shared/flag/Cn.gif) China | **Crystal**, Totori, Dsan, Totoki, ArtxE, SpringLane, GGBY, MatsumotoRise |
- | ![Canada](/wiki/shared/flag/Ca.gif) Canada | **Azer**, TrickMirror, MiruHong, Kaifin, Ignite, Kyle, karalis, VINXIS |
- | ![Chile](/wiki/shared/flag/Ch.gif) Chile | **kafaN**, DanyL, Neab, etejuano, allives, -Dylson-, DPL, Criss |
- | ![Israel](/wiki/shared/flag/Il.gif) Israel | **MrPotato**, Kyoko, Keysama, ilift, KiroKusA, Fookiezi, Slendy |
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Cn.gif](/wiki/shared/flag/Cn.gif)|**China**|**[Crystal](https://osu.ppy.sh/u/1646397 "Crystal")**, [Totori](https://osu.ppy.sh/u/227717 "Totori"), [Dsan](https://osu.ppy.sh/u/1266166 "Dsan"), [Totoki](https://osu.ppy.sh/u/557197 "Totoki"), [ArtxE](https://osu.ppy.sh/u/954557 "ArtxE"), [SpringLane](https://osu.ppy.sh/u/1343504 "SpringLane"), [GGBY](https://osu.ppy.sh/u/629717 "GGBY"), [MatsumotoRise](https://osu.ppy.sh/u/672726 "MatsumotoRise")| 
+|![Ca.gif](/wiki/shared/flag/Ca.gif)|**Canada**|**[Azer](https://osu.ppy.sh/u/2155578 "Azer")**, [TrickMirror](https://osu.ppy.sh/u/2138739 "TrickMirror"), [MiruHong](https://osu.ppy.sh/u/2866814 "MiruHong"), [Kaifin](https://osu.ppy.sh/u/2596942 "Kaifin"), [Ignite](https://osu.ppy.sh/u/3122948 "Ignite"), [Kyle](https://osu.ppy.sh/u/2694475 "Kyle"), [karalis](https://osu.ppy.sh/u/3146018 "karalis"), [VINXIS](https://osu.ppy.sh/u/4323406 "VINXIS")|
+|![Cl.gif](/wiki/shared/flag/Cl.gif)|**Chile**|**[kafaN](https://osu.ppy.sh/u/1489743 "kafaN")**, [DanyL](https://osu.ppy.sh/u/3069354 "DanyL"), [Neab](https://osu.ppy.sh/u/916693 "Neab"), [etejuano](https://osu.ppy.sh/u/2243537 "etejuano"), [allives](https://osu.ppy.sh/u/3951781 "allives"), [-Dylson-](https://osu.ppy.sh/u/6315784 "-Dylson-"), [DPL](https://osu.ppy.sh/u/3024454 "DPL"), [Criss](https://osu.ppy.sh/u/3188017 "Criss")|
+|![Il.gif](/wiki/shared/flag/Il.gif)|**Israel**|**[MrPotato](https://osu.ppy.sh/u/2787415 "MrPotato")**, [Kyoko](https://osu.ppy.sh/u/3382084 "Kyoko"), [Keysama](https://osu.ppy.sh/u/3376034 "Keysama"), [ilift](https://osu.ppy.sh/u/4903239 "ilift"), [KiroKusA](https://osu.ppy.sh/u/4355621 "KiroKusA"), [Fookiezi](https://osu.ppy.sh/u/4593732 "Fookiezi"), [Slendy](https://osu.ppy.sh/u/2689577 "Slendy")|
 
 ### Group F
- 
-| Country | Team |
- |-:|:-|
- | ![US](/wiki/shared/flag/Us.gif) United States | **[Toy]**, Axarious, Ritzeh, Mlaw22, fieryrage, HappyStick, idke, mniminwoo |
- | ![Norway](/wiki/shared/flag/No.gif) Norway | **Tobi**, CXu, -GN, Sebu, Warrock, Afrodafro, -PC, Hundur |
- | ![Austria](/wiki/shared/flag/At.gif) Austria | **Akane-Yuki**, Omgforz, LWMF, Fedora Goose, Myst1k |
- | ![Denmark](/wiki/shared/flag/Dk.gif) Denmark | **Spork Lover**, waefwerf, iamVill, Zog, Hudda, Crylizhy, Lemmen, teamplayer51 |
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Us.gif](/wiki/shared/flag/Us.gif)|**United States**|**[[Toy]](https://osu.ppy.sh/u/2757689 "[Toy]")**, [Axarious](https://osu.ppy.sh/u/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/u/1028387 "Ritzeh"), [Mlaw22](https://osu.ppy.sh/u/3126596 "Mlaw22"), [fieryrage](https://osu.ppy.sh/u/3533958 "fieryrage"), [HappyStick](https://osu.ppy.sh/u/256802 "HappyStick"), [idke](https://osu.ppy.sh/u/4650315 "idke"), [mniminwoo](https://osu.ppy.sh/u/3929529 "mniminwoo")|
+|![No.gif](/wiki/shared/flag/No.gif)|**Norway**|**[Tobi](https://osu.ppy.sh/u/2970667 "Tobi")**, [CXu](https://osu.ppy.sh/u/84841 "CXu"), [-GN](https://osu.ppy.sh/u/895581 "-GN"), [Sebu](https://osu.ppy.sh/u/3990173 "Sebu"), [Warrock](https://osu.ppy.sh/u/2841744 "Warrock"), [Afrodafro](https://osu.ppy.sh/u/3551255 "Afrodafro"), [-PC](https://osu.ppy.sh/u/2916414 "-PC"), [Hundur](https://osu.ppy.sh/u/3145033 "Hundur")|
+|![At.gif](/wiki/shared/flag/At.gif)|**Austria**|**[Akane-Yuki](https://osu.ppy.sh/u/3656589 "Akane-Yuki")**, [Omgforz](https://osu.ppy.sh/u/578943 "Omgforz"), [LWMF](https://osu.ppy.sh/u/3632402 "LWMF"), [Fedora Goose](https://osu.ppy.sh/u/2323131 "Fedora Goose"), [Myst1k](https://osu.ppy.sh/u/5302223 "Myst1k")|
+|![Dk.gif](/wiki/shared/flag/Dk.gif)|**Denmark**|**[Spork Lover](https://osu.ppy.sh/u/3417469 "Spork Lover")**, [waefwerf](https://osu.ppy.sh/u/3868653 "waefwerf"), [iamVill](https://osu.ppy.sh/u/6295380 "iamVill"), [Zog](https://osu.ppy.sh/u/3722715 "Zog"), [Hudda](https://osu.ppy.sh/u/4103629 "Hudda"), [Crylizhy](https://osu.ppy.sh/u/3023138 "Crylizhy"), [Lemmen](https://osu.ppy.sh/u/6090254 "Lemmen"), [teamplayer51](https://osu.ppy.sh/u/3084508 "teamplayer51")|
 
 ### Group G
- 
-| Country | Team |
- |-:|:-|
- | ![S. Korea](/wiki/shared/flag/Kr.gif) South Korea | **Neta**, -T A R U L A S-, Cinia Pacifica, Yuria, Angelsim, Enon, La Valse, My Aim Sucks |
- | ![Russia](/wiki/shared/flag/Ru.gif) Russian Federation | **Kert**, _index, talala, Red_Pixel, follon, Shiawase, Shockwave000, unberlin |
- | ![Netherlands](/wiki/shared/flag/Nl.gif) Netherlands | **jackylam5**, n0ah, Ahmnesia, Synchrostar, Kyshiro, taku, Sj-Sama, Pittigbaasje |
- | ![Endonesia](/wiki/shared/flag/Id.gif) Indonesia | **Mood Breaker**, LongExistence, Rinzler, Genjitsu, lolimastah, Rexeez, Reyuza, Vorsatz |
- 
-### Group H
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Kr.gif](/wiki/shared/flag/Kr.gif)|**South Korea**|**[Neta](https://osu.ppy.sh/u/832084 "Neta")**, [-T A R U L A S-](https://osu.ppy.sh/u/3179601 "-T A R U L A S-"), [Cinia Pacifica](https://osu.ppy.sh/u/1414625 "Cinia Pacifica"), [Yuria](https://osu.ppy.sh/u/625988 "Yuria"), [Angelsim](https://osu.ppy.sh/u/1777162 "Angelsim"), [Enon](https://osu.ppy.sh/u/2043401 "Enon"), [La Valse](https://osu.ppy.sh/u/70863 "La Valse"), [My Aim Sucks](https://osu.ppy.sh/u/1883865 "My Aim Sucks")| 
+|![Ru.gif](/wiki/shared/flag/Ru.gif)|**Russian Federation**|**[Kert](https://osu.ppy.sh/u/119933 "Kert")**, [_index](https://osu.ppy.sh/u/652457 "_index"), [talala](https://osu.ppy.sh/u/1389663 "talala"), [Red_Pixel](https://osu.ppy.sh/u/4170932 "Red_Pixel"), [follon](https://osu.ppy.sh/u/3973474 "follon"), [Shiawase](https://osu.ppy.sh/u/989489 "Shiawase"), [Shockwave000](https://osu.ppy.sh/u/2295157 "Shockwave000"), [unberlin](https://osu.ppy.sh/u/2408278 "unberlin")| 
+|![Nl.gif](/wiki/shared/flag/Nl.gif)|**Netherlands**|**[jackylam5](https://osu.ppy.sh/u/1540807 "jackylam5")**, [n0ah](https://osu.ppy.sh/u/3086393 "n0ah"), [Ahmnesia](https://osu.ppy.sh/u/2715937 "Ahmnesia"), [Synchrostar](https://osu.ppy.sh/u/419705 "Synchrostar"), [Kyshiro](https://osu.ppy.sh/u/640611 "Kyshiro"), [taku](https://osu.ppy.sh/u/684433 "taku"), [Sj-Sama](https://osu.ppy.sh/u/2977954 "Sj-Sama"), [Pittigbaasje](https://osu.ppy.sh/u/2167433 "Pittigbaasje")|
+|![Id.gif](/wiki/shared/flag/Id.gif)|**Indonesia**|**[Mood Breaker](https://osu.ppy.sh/u/692065 "Mood Breaker")**, [LongExistence](https://osu.ppy.sh/u/2380426 "LongExistence"), [Rinzler](https://osu.ppy.sh/u/2133381 "Rinzler"), [Genjitsu](https://osu.ppy.sh/u/3531490 "Genjitsu"), [lolimastah](https://osu.ppy.sh/u/3207112 "lolimastah"), [Rexeez](https://osu.ppy.sh/u/1987591 "Rexeez"), [Reyuza](https://osu.ppy.sh/u/2454767 "Reyuza"), [Vorsatz](https://osu.ppy.sh/u/3654630 "Vorsatz")|
 
-| Country | Team |
- |-:|:-|
- | ![United Kingdom](/wiki/shared/flag/Gb.gif) United Kingdom | **Bubbleman**, bahamete, Spook, Karthy, Doomsday, Jameslike, OPJames, Helix |
- | ![Brazil](/wiki/shared/flag/Br.gif) Brazil | **Fenrir**, Idealism, Texats, Mirtrax, Zekker, MouseEasy, fabriciorby, Miyazono |
- | ![Hong Kong](/wiki/shared/flag/Hk.gif) Hong Kong | **- G I D Z -**, -N a n a k o-, Chaoslitz, Rizia, DenierNezzar, MinG3012, StarrStyx, YoonA- |
- | ![Sweden](/wiki/shared/flag/Se.gif) Sweden | **-Kupo-**, Rapthorn, Tomoko Kuroki-, Snase, Suzuta, HenBurgaaa |
+### Group H
+|F|Country name|Team|
+|:---:|:---:|:---|
+|![Gb.gif](/wiki/shared/flag/Gb.gif)|**United Kingdom**|**[Bubbleman](https://osu.ppy.sh/u/5182050 "Bubbleman")**, [bahamete](https://osu.ppy.sh/u/960620 "bahamete"), [Spook](https://osu.ppy.sh/u/2232928 "Spook"), [Karthy](https://osu.ppy.sh/u/4196808 "Karthy"), [Doomsday](https://osu.ppy.sh/u/18983 "Doomsday"), [Jameslike](https://osu.ppy.sh/u/2415743 "Jameslike"), [OPJames](https://osu.ppy.sh/u/4117142 "OPJames"), [Helix](https://osu.ppy.sh/u/3322597 "Helix")|
+|![Br.gif](/wiki/shared/flag/Br.gif)|**Brazil**|**[Fenrir](https://osu.ppy.sh/u/2644700 "Fenrir")**, [Idealism](https://osu.ppy.sh/u/3869519 "Idealism"), [Texats](https://osu.ppy.sh/u/1638293 "Texats"), [Mirtrax](https://osu.ppy.sh/u/2290888 "Mirtrax"), [Zekker](https://osu.ppy.sh/u/4663554 "Zekker"), [MouseEasy](https://osu.ppy.sh/u/1558603 "MouseEasy"), [fabriciorby](https://osu.ppy.sh/u/209664 "fabriciorby"), [Miyazono](https://osu.ppy.sh/u/529036 "Miyazono")|
+|![Hk.gif](/wiki/shared/flag/Hk.gif)|**Hong Kong**|**[- G I D Z -](https://osu.ppy.sh/u/2286528 "- G I D Z -")**, [-N a n a k o-](https://osu.ppy.sh/u/1407516 "-N a n a k o-"), [Chaoslitz](https://osu.ppy.sh/u/3621552 "Chaoslitz"), [Rizia](https://osu.ppy.sh/u/1367570 "Rizia"), [DenierNezzar](https://osu.ppy.sh/u/126144 "DenierNezzar"), [MinG3012](https://osu.ppy.sh/u/1583218 "MinG3012"), [StarrStyx](https://osu.ppy.sh/u/4600383 "StarrStyx"), [YoonA-](https://osu.ppy.sh/u/1639250 "YoonA-")|
+|![Se.gif](/wiki/shared/flag/Se.gif)|**Sweden**|**[-Kupo-](https://osu.ppy.sh/u/4343103 "-Kupo-")**, [Rapthorn](https://osu.ppy.sh/u/5109930 "Rapthorn"), [Tomoko Kuroki-](https://osu.ppy.sh/u/4418213 "Tomoko Kuroki-"), [Snase](https://osu.ppy.sh/u/4258410 "Snase"), [Suzuta](https://osu.ppy.sh/u/3028834 "Suzuta"), [HenBurgaaa](https://osu.ppy.sh/u/4663479 "HenBurgaaa")|
 
 ## Ruleset
 
