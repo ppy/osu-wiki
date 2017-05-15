@@ -5,7 +5,7 @@
 
  **2017年华人osu!mania 4K大赛**(以下均简写为**CMT 4K 2017**)为华人区个人比赛，是由CMT团队举办的第二届华人osu!mania 4K大赛。比赛所用地图均为osu!mania 4K专用地图(4K专谱)。
 
-##比赛时间表
+## 比赛时间表
 
 | 阶段 | 时间 |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 决赛第一周 | 7月29日至7月30日 |
 | 决赛第二周 | 8月5日至8月6日 |
 
-##比赛奖品
+## 比赛奖品
 
 [撒泼特]:http://w.ppy.sh/8/8c/Supporter_tag.png
 本次比赛奖品由音游网和汉斯共同赞助  
@@ -27,7 +27,7 @@
 ![](http://w.ppy.sh/6/69/SCrown.png) 2个月![撒泼特]；  
 ![](http://w.ppy.sh/1/12/BCrown.png) 1个月![撒泼特]。
 
-##比赛主板团队
+## 比赛主板团队
 
 [CN]:https://s.ppy.sh/images/flags/cn.gif
 [UK]:https://s.ppy.sh/images/flags/gb.gif
@@ -41,16 +41,16 @@
 | 直播裁判团队 | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
 | 解说团队 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
 
-##比赛直播间
+## 比赛直播间
 
 Bilibili直播平台：[aiyulu](http://live.bilibili.com/10183)(主直播)、[Ookura Asahi](http://live.bilibili.com/272810)(副直播)、[Rasis](http://live.bilibili.com/5333)(备用)。  
 Twitch直播平台：[aiyulu](http://live.bilibili.com/10183)。
 
-##对阵表（小组赛开始后更新）
+## 对阵表（小组赛开始后更新）
 
-##比赛预告
+## 比赛预告
 
-###测试赛
+### 测试赛
 
 6月17日 15:00(UTC+8)  新锐队 vs 元老队 (4v4）
 
@@ -58,9 +58,9 @@ Twitch直播平台：[aiyulu](http://live.bilibili.com/10183)。
 
 新锐队队员：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
 
-##比赛图池
+## 比赛图池
 
-###测试赛图池
+### 测试赛图池
 [点此下载全部](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 [Shiki – Endless Dream (pompom’s Another)](https://osu.ppy.sh/b/601737)  
 [sakuzyo – Refel (Liberation)](https://osu.ppy.sh/b/1178870)  
@@ -82,12 +82,11 @@ Twitch直播平台：[aiyulu](http://live.bilibili.com/10183)。
 TB:  
 [Camellia – Lunatic Rough Party!! (Long Ver.)（Lunatic）](https://osu.ppy.sh/b/646319)
 
+## 比赛回顾
 
-##比赛回顾
+## 规则集
 
-##规则集
-
-###赛事规则 
+### 赛事规则 
 
 1. **2017年华人osu!mania 4K大赛**(以下均简写为**CMT 4K 2017**)为华人区个人比赛，是由CMT团队举办的第二届华人osu!mania 4K大赛。比赛所用地图均为osu!mania 4K专用地图(4K专谱)。
 2. 每场比赛的地图库将于比赛前一周的周末由地图库管理员放出，图库内包含若干张Free-Mod地图:  
@@ -115,7 +114,7 @@ TB:
 16. 组委会保留公示内容优先使用简体中文的权利。
 17. 所有公示内容请在音游网查看。
 
-##报名注册
+## 报名注册
 
 1. 每位参赛者应当独立报名(进入报名网站填写相关信息报名，网站地址将在报名开始时公布)。
 2. 玩家满足以下条件的可以报名参加CMT 4K 2017：  
@@ -127,7 +126,7 @@ TB:
 3. 报名成功的选手将收到确认邮件，同时也将被加入公示名单。
 4. 图池管理和比赛经理不得参赛。
 
-##比赛赛程
+## 比赛赛程
 
 1. 在资格赛阶段，全部选手随机分为8人一组进行Multiplayer，每张图按照图池的顺序打2遍，并取最高分数。4张图分数之和就是选手的总成绩。
 2. 在小组赛阶段，32名选手将按照资格赛的成绩分为8组(小组赛名额可能随报名人数变化)。
@@ -155,9 +154,9 @@ TB:
 	- 半决赛(Semi-Finals)与决赛第**1**周(Finals – Week 1)为__11__局 __6__胜(Best-of-**11**)。  
 	- 总决赛(Finals – Week 2) 为__13__局 __7__胜(Best-of-**13**)。
 
-##比赛程序说明
+## 比赛程序说明
 
-###资格赛
+### 资格赛
 1. 一位记录员会在赛事开始前__15__分钟创建一个Multiplayer(mp)房间，选手需要在此时集合：
 	- 房间设定为“osu!mania, Head To Head., 胜出条件:‘Score v2’”。房间名称必须是”CMT 4K 2017:(资格赛) vs (资格赛)”。
 	- 房间最多进入8名选手同时进行资格赛的比拼。
@@ -168,7 +167,7 @@ TB:
 6. 一旦出现某位选手掉线的情况，如果能够继续完成比赛，则应当在比赛结束后(使用 Shift+F12)立刻上传分数界面截图并提供网址，否则这一轮的这张图按照0分处理。如果选手无法在断线之后5分钟之内进入mp房间，将会开始下一张图的比赛。
 7. 资格赛结束后比赛结果将在第二天之前在“本页面”中公布。
 
-###小组赛及淘汰赛
+### 小组赛及淘汰赛
 1. 一位记录员会在赛事开始前__15__分钟创建一个Multiplayer(mp)房间，选手需要在此时集合：
  	- 房间设定为“osu!mania, Head To Head., 胜出条件:‘Score v2’”。房间名称必须是”CMT 4K 2017:(蓝色玩家昵称) vs (红色玩家昵称)“。
 	- 以上房间名提到的两个玩家，第一个必须在红队，第二个必须在蓝队。
@@ -183,7 +182,7 @@ TB:
 	- 出现平局时(双方均差__1__分赢得比赛)，选手必须使用Tie-breaker（决胜图）作为下一张比赛地图。
 6. 所有比赛的结果都会在“公示内容”展示。
 
-##图池说明
+## 图池说明
 
 1. 资格赛、小组赛、16强、1/4决赛、半决赛、决赛各有一个图池：
 	- 决赛第__1__周(Finals Week 1)与决赛第__2__周(Finals Week 2)共用同一个图池。
@@ -196,7 +195,7 @@ TB:
 4. 所有地图，包括Tie-breaker，都使用Free-mod进行：
 	- 任何选手都可以自行选择Hidden, Flashlight, Fade-In或其他Mod。
 
-##日程安排
+## 日程安排
 
 1. 原则上每个比赛阶段占用一个周末。
 2. 所有的比赛均在**UTC +8 时区**的周末进行。
