@@ -3,17 +3,17 @@
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All English articles should use plain English.
-Your word choice should be able to explain such things in layman's terms.
+Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
 In other words, you should ask yourself, "If the reader is reading this, would they have to lookup any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
-Keep in mind that reviewers may ask for changes in your pull request for blunders or suggestions.
+Keep in mind that reviewers would ask for changes in your pull request for blunders or suggestions.
 A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure optimal experience for the reader.
 
 ## GFM
 
 GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
-HTML use is **heavily** discouraged (and might have your pull request be denied)!
+Usage of HTML is **heavily** discouraged!
 
 GFM has a small amount of markup that **anyone** can learn it in about 3 mintues!
 However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
@@ -88,7 +88,7 @@ For example, use:
   - `zh-tw.md`, or
   - `zh-hk.md`
 
-Doing so will allow us to maintain consistency and simplicity while following the ISO 639-1 codes.
+Doing so would allow the other contributors to also maintain consistency and simplicity while following the ISO 639-1 codes.
 
 ## Headings
 
@@ -348,7 +348,7 @@ In instances where you are talking directly to the reader (e.g. tutorial page), 
 Know that the overuse/abuse of emphasis will reduce its effectiveness!
 
 When trying to emphasize words, do **not** use capital letters.
-Instead, use bold.
+Instead, bold the word you're trying to emphasize.
 
 ### Bold
 
@@ -685,9 +685,9 @@ When you have an image **without** transparency, use `.jpg` (or `.jpeg`).
 When you have an image **with** transparency, use `.png`.
 If the media file is animated, use `.gif`.
 
-### Alt and Title Text
+### Alternate and Title Text
 
-All images must have an alt text.
+All images must have an alternate text.
 This will ensure that something will still be displayed even when it fails to load.
 
 Title text (otherwise known as "hover text") is **optional**.
@@ -696,7 +696,7 @@ It can be the same as the alt text if needed.
 For example:
 
 ```
-![alt text](image.jpg "alt text")
+![alternate text](image.jpg "hover text")
 ```
 
 ### Image Links
