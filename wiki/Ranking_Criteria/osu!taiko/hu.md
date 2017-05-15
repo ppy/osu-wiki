@@ -1,7 +1,7 @@
 osu!taiko Ranking Criteria (Magyar)
 =====================================
 
-Ez tartalmazza a legutóbbi változásokat a [fórumról](http://osu.ppy.sh/forum/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
+Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/forum/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
 
 Gyakori kifejezések
 ----------------------

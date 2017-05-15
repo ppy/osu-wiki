@@ -75,7 +75,7 @@ Ce pattern est constitué d'une suite très rapide de notes placées sur une col
 
 Ceci est appelé un jackhammer. Vous devez littéralement presser de façon rapide et frénétique votre clavier en vibrant le poignet ou le bras pour jouer. Cela peut rendre la map très difficile. Il est également possible d'éprouver certaines douleurs après un effort prolongé.
 
-Voici un exemple comportant des jackhammers : [MENDES Black Another](http://www.youtube.com/watch?v=qqkWIWbO14c).
+Voici un exemple comportant des jackhammers : [MENDES Black Another](https://www.youtube.com/watch?v=qqkWIWbO14c).
 
 -   **Pour les difficultés non-expert, vous pouvez utiliser des jackhammers *seulement si* le BPM est inférieur à 150 et *si* ils correspondent à la musique.** Par exemple, dans des musiques de dubstep ou autre genre à rythme frénétique.
 -   **Pour les difficultés expert, vous pouvez utiliser les jackhammers sans limite de BPM tant que les jackhammers respectent le rythme.**

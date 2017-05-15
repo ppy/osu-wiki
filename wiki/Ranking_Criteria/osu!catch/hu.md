@@ -1,7 +1,7 @@
 osu!catch Ranking Criteria
 ============================
 
-Ez tartalmazza a legutóbbi változásokat a [topic-ból](http://osu.ppy.sh/forum/t/80544&start=0). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
+Ez tartalmazza a legutóbbi változásokat a [topic-ból](https://osu.ppy.sh/forum/t/80544&start=0). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
 
 Szabályok
 ----------
@@ -10,7 +10,7 @@ Ezek íratlan szabályok egyenlőre. Vagyis jó indokkal meg lehet szegni egy p�
 
 -   *' Nehézségi szint nevek*'
 
-A Catch the Beat nehézségi szintek: "\[username\]'s CTB/CtB \[nehézségi szint neve\]"
+A osu!catch nehézségi szintek: "\[username\]'s CTB/CtB \[nehézségi szint neve\]"
 
 - ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") **Cup**
 - ![Normal icon](/wiki/shared/Normal-f.png "Normal icon") **Salad**

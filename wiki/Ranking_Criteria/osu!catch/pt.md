@@ -1,7 +1,7 @@
 osu!catch Ranking Criteria (Português)
 ========================================
 
-Regras de Rankabilidade e Diretrizes de **Catch the Beat**
+Regras de Rankabilidade e Diretrizes de **osu!catch**
 
 Regras
 --------

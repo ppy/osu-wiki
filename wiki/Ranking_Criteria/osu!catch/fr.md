@@ -1,7 +1,7 @@
 Critères de ranking osu!catch
 ==============================
 
-Règles et directives de rankabilité pour les difficultés spéciales **Catch the Beat**. Les changements sont discutés sur [ce topic](http://osu.ppy.sh/forum/t/80544/).
+Règles et directives de rankabilité pour les difficultés spéciales **osu!catch**. Les changements sont discutés sur [ce topic](https://osu.ppy.sh/forum/t/80544/).
 
 Règles
 ------

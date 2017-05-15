@@ -1,7 +1,7 @@
 osu! Ranking Criteria (Português)
 ====================================
 
-Apenas lembrando, aqui foram escritas as mais recentes mudanças feitas no [forum de discussão](http://osu.ppy.sh/forum/87). Qualquer regra que estiver sendo discutida é listada aqui como de costume, e será atualizada uma vez que a discussão tenha um resultado.
+Apenas lembrando, aqui foram escritas as mais recentes mudanças feitas no [forum de discussão](https://osu.ppy.sh/forum/87). Qualquer regra que estiver sendo discutida é listada aqui como de costume, e será atualizada uma vez que a discussão tenha um resultado.
 
 Regras
 --------
@@ -33,7 +33,7 @@ Guias são importantes e devem ser seguidos na maioria dos beatmaps. Porém, ele
 -   **Evite colocar hitobjects abaixo da barra de HP/saúde** no topo da tela, já que isso pode consideravelmente restringir a visibilidade da nota e do approach circle para o jogador. Não vai machucar se você usar a skin original para checar isso!
 -   **Tente usar o mesmo tickrate em todas as dificuldades** isso tem mais a ver com a musica em sí do que com mapping. Usar tickrates altos para aumentar a pontuação/combo/dificuldade não é permitido.
 -   **Use new combos com frequência e de forma que faça sentido.** Usar new combo muito rapidamente não faria sentido, mas você também deve evitar combos que durem varias divisórias.
--   **Geralmente, um spinner e o objeto seguinte deveriam ambos possuir New Combo.** Você pode remover um dos New Combos caso o spinner pertença ao mesmo pensamento musical que os objetos ao seu redor [1](http://osu.ppy.sh/forum/t/31288) [2](http://osu.ppy.sh/forum/t/48356), mas use com moderação.
+-   **Geralmente, um spinner e o objeto seguinte deveriam ambos possuir New Combo.** Você pode remover um dos New Combos caso o spinner pertença ao mesmo pensamento musical que os objetos ao seu redor [1](https://osu.ppy.sh/forum/t/31288) [2](https://osu.ppy.sh/forum/t/48356), mas use com moderação.
 -   **Tente incluir pelo menos um spinner em cada dificuldade** para criar variedade na pontuação final entre os jogadores. Porém, se um spinner simplesmente não combina com parte alguma, não precisa se forçar a incluir um.
 -   **Deixe seus spinners com uma duração razoável.** Tente manter um limite de 5-7 segundos; mais longo que isso pode deixar o punho do jogador cansado. Se seu spinner precisar ser mais longo, então pergunte a algum BAT se esse spinner é aceitável.
 -   **Evite usar notas diretamente depois de spinners** (especialmente em dificuldades Easy/Normal). Spinners são algumas vezes, as coisas mais difíceis para os jogadores, e ter um hitcircle ou slider meia batida (ou até mesmo uma batida) depois do spinner vai consequentemente resultar em frustração e quebrar o combo. Hitobjects diretamente depois de spinners são bem vindos em dificuldades Hard/Insane, mas tente dar uma boa distancia em dificuldades Easy/Normal.

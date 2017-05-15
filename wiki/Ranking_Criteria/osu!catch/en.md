@@ -1,12 +1,12 @@
 osu!catch Ranking Criteria
 =============================
 
-The **Catch the Beat Ranking Criteria** is a set of rules and guidelines that apply to the creation of Catch the Beat-specific difficulties. In order to get a Catch the Beat-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+The **osu!catch Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Glossary
 ---------
 
-These terms are frequently appearing when getting in touch with Catch the Beat difficulties and are also used within the Ranking Criteria.
+These terms are frequently appearing when getting in touch with osu!catch difficulties and are also used within the Ranking Criteria.
 
 ### Difficulty Names
 
@@ -32,7 +32,7 @@ These terms are frequently appearing when getting in touch with Catch the Beat d
 Overall
 -----------
 
-Overall rules and guidelines apply to every kind of Catch the Beat difficulty.
+Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 ### General
 
@@ -68,7 +68,7 @@ Overall rules and guidelines apply to every kind of Catch the Beat difficulty.
 Difficulty-specific
 --------------------
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** Catch the Beat difficulty*.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
 ### ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") Cup
 

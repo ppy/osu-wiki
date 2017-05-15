@@ -1,7 +1,7 @@
 Critères de ranking osu!standard
 ================================
 
-Ces règles sont susceptibles de changer à tout moment. Veuillez vous référer à ce [sujet](http://osu.ppy.sh/forum/87) pour vous tenir à jour des dernières modifications. Cette page fera l'objet d'éditions à chaque nouveau changement dans les Ranking Criteria.
+Ces règles sont susceptibles de changer à tout moment. Veuillez vous référer à ce [sujet](https://osu.ppy.sh/forum/87) pour vous tenir à jour des dernières modifications. Cette page fera l'objet d'éditions à chaque nouveau changement dans les Ranking Criteria.
 
 Règles
 --------
@@ -33,7 +33,7 @@ Ces informations sont importantes et devraient être suivis par la plupart des m
 -   **Evitez de placer des notes près de la barre de vie en haut de l'écran**. Faire ceci peut nuire à la distinction des notes et des cercles d'approche pour le joueur. Pensez à utiliser le skin classique pour le vérifier.
 -   **Essayez d'utiliser le même BPM pour chaque difficulté.** Le BPM est un élément propre à la musique. Utiliser un BPM plus élevé que celui de la musique pour augmenter le score, le combo ou la difficulté n'a pas de sens.
 -   **Créez de nouveaux combos souvent ET intelligement.** Evitez donc de les placer de façon aléatoire et respectez le rythme. De plus, ne faites pas de combos excessivement longs.
--   **De manière générale, pensez à séparer le prochain objet d'un spinner et le spinner en deux nouveaux combos.** Si vous pensez que le spinner et les notes qui l'entour font parties d'une même section musicale ([1](http://osu.ppy.sh/forum/t/31288) et [2](http://osu.ppy.sh/forum/t/48356)), vous pouvez les intégrer au même combo. N'en abusez cependant pas.
+-   **De manière générale, pensez à séparer le prochain objet d'un spinner et le spinner en deux nouveaux combos.** Si vous pensez que le spinner et les notes qui l'entour font parties d'une même section musicale ([1](https://osu.ppy.sh/forum/t/31288) et [2](https://osu.ppy.sh/forum/t/48356)), vous pouvez les intégrer au même combo. N'en abusez cependant pas.
 -   **Essayez d'intégrer au moins spinner dans chaque difficulté** pour créer une fluctuation au niveau des scores. Cependant, si vous jugez qu'un spinner n'a pas lieu d'être dans votre map, ne vous forcez pas à en intégrer un.
 -   **Faites en sorte que vos spinners soient d'une durée raisonnable.** Ni trop court, de façon à ce que le joueur puisse réagir, ni trop long, au maximum 5 à 7 secondes de façon à limiter l'usure du poignet des joueurs. Si vous pensez que vos spinners doivent durer plus longtemps que ça, demandez l'avis d'un membre du BAT.
 -   **Essayez d'éviter de placer des notes directement après un spinner** dans les difficultés non-expert (Facile/Normal) de façon à donner au joueur une légère pause le temps de replacer son curseur. Vous pouvez ignorer ce conseil pour les difficultés Experts. Notez bien que les spinners sont les éléments les plus durs à jouer dans osu!.

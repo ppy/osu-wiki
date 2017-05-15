@@ -1,7 +1,7 @@
 osu!taiko Ranking Criteria (Português)
 =======================================
 
-Essas regras e diretrizes foram discutidas no [Tópico de Discussão de Taiko](http://osu.ppy.sh/forum/p/1275323). Novas regras e diretrizes podem ser sugeridas no [Fórum de Discussão](http://osu.ppy.sh/forum/87), que serão atualizadas após a discussão chegar a um acordo.
+Essas regras e diretrizes foram discutidas no [Tópico de Discussão de osu!taiko](https://osu.ppy.sh/forum/p/1275323). Novas regras e diretrizes podem ser sugeridas no [Fórum de Discussão](https://osu.ppy.sh/forum/87), que serão atualizadas após a discussão chegar a um acordo.
 
 Termos Comuns
 --------------

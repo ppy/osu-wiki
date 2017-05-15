@@ -1,7 +1,7 @@
 osu!catch Ranking Criteria (한국어)
 ======================================
 
-**Catch the Beat** 랭크 룰 및 가이드 라인 ([논의 스레드](http://osu.ppy.sh/forum/t/80544/))
+**osu!catch** 랭크 룰 및 가이드 라인 ([논의 스레드](https://osu.ppy.sh/forum/t/80544/))
 
 룰
 ----

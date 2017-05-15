@@ -1,7 +1,7 @@
 Kriteria Pemeringkatan osu! Standar
 ====================================
 
-Ini termasuk dari perubahan yang terjadi [dalam forum diskusi](http://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan diperbaharui setiap diskusi mencapai kesepakatan.
+Ini termasuk dari perubahan yang terjadi [dalam forum diskusi](https://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan diperbaharui setiap diskusi mencapai kesepakatan.
 
 Peraturan
 ----------
@@ -34,7 +34,7 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
 -   **Usahakan untuk menggunakan tickrate yang sama di setiap tingkat kesulitan** karena ini merupakan properti dari musik dibandingkan dengan mapping. Menggunakan tickrate yang kecil untuk meningkatkan skor/combo/tingkat kesulitan merupakan alasan yang tidak masuk akal.
 -   **Pemberian kombo baru dengan sering, tetapi sesuai.** Menggunakan kombo baru setiap ketukan mungkin tidak masuk akal, tetapi kamu juga harus menghindari kombo yang berlanjut terlalu panjang.
 -   **Pergantian kecepatan slider harus sesuai dengan apa yang diutamakan dalam mapping tersebut.** Hal yang diutamakan bisa termasuk pergantian musik, kerapatan not, atau slider tick yang terlihat, dan pergantian kecepatan slider sebisa mungkin dapat ditebak oleh pemain sebelum slider dimulai. Kecepatan slider yang terlalu besar dan yang tidak dapat diantisipasi dapat mengganggu pemain saat memainkan map tersebut.
--   **Umumnya, spinner dan objek setelah spinner diberi kombo baru.** Kamu bisa menyingikirkan salah satu dari kombo baru tersebut, apabila spinner termasuk dalam musik yang sama dengan objek sekitarnya [1](http://osu.ppy.sh/forum/t/31288) [2](http://osu.ppy.sh/forum/t/48356), tapi usahakan penggunaannya jarang.
+-   **Umumnya, spinner dan objek setelah spinner diberi kombo baru.** Kamu bisa menyingikirkan salah satu dari kombo baru tersebut, apabila spinner termasuk dalam musik yang sama dengan objek sekitarnya [1](https://osu.ppy.sh/forum/t/31288) [2](https://osu.ppy.sh/forum/t/48356), tapi usahakan penggunaannya jarang.
 -   **Usahakan untuk memberi spinner pada setiap tingkat kesulitan** untuk menciptakan variasi di suatu map, dan skor yang berbeda beda. Namun, jika suatu spinner tidak cocok di bagian manapun dari lagu, jangan memaksakan untuk meletakkan spinner di map tersebut.
 -   **Pastikan spinnermu memiliki panjang yang masuk akal.** Usahakan untuk maksimum waktu spinner adalah sekitar 5-7 detik; apabila melebihi 7 detik, dapat menyebabkan pergelangan tangan pemain sakit. Jika spinnermu memang harus lebih panjang dari batas waktunya, tanyakan kepada BN untuk memastikan hal itu dapat diterima atau tidak.
 -   **Hindari penggunaan objek langsung setelah spinner** (terutama pada tingkat kesulitan Easy/Normal). Spinner terkadang menjadi elemen yang paling susah untuk dimainkan bagi pemain, dan adanya objek (lingkaran ataupun slider) setelah spinner umumnya menyebabkan frustasi dan pecahnya kombo. Objek langsung setelah spinner merupakan hal yang sah-sah saja di tingkat kesulitan Hard/Insane, tetapi coba berikan jeda di tingkat kesulitan Easy/Normal.
