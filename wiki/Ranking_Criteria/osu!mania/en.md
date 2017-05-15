@@ -1,5 +1,5 @@
-osu!mania Ranking Criteria
-=============================
+osu!mania
+===========
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
@@ -13,7 +13,7 @@ Terms
 Rules
 -------
 
-All rules are exactly that: RULES. They are NOT guidelines and may NOT be broken under ANY circumstance.
+All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 
 ### General
 
@@ -29,7 +29,7 @@ Considering most keyboards use USB connections which do not allow 7 simultaneous
 ### Difficulty Spread
 
 -   **Each beatmap must have at least 2 difficulties and one of them must be Easy/Normal. Marathon is an exemption**
--   **Different key amounts within a mapset must be treated as different gamemodes and require a respective independent difficulty spread.** Therefore each key amount must have an independent difficulty spread. For example if you want to add a 7K difficulty to your set, you must design a whole 7K spread. If you want to add an additional 4k difficulty to your set, you must also design a whole 4K spread.
+-   **Different key amounts within a mapset must be treated as different gamemodes and require a respective independent difficulty spread.** Therefore each key amount must have an independent difficulty spread. For example if you want to add a 7K difficulty to your set, you must design a whole 7K spread. If you want to add an additional 4K difficulty to your set, you must also design a whole 4K spread.
 
 ### Timing
 
@@ -38,7 +38,7 @@ Considering most keyboards use USB connections which do not allow 7 simultaneous
 Guidelines
 -----------
 
-Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this: Does what I’m about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay.
+Guidelines are important and should be followed in most maps. However, they are **not** rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this, "Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines?" If you answer yes to both these questions, then it is probably okay.
 
 -   **Life Drain** rate is suggested to be at least **7** or higher to get same HP drain rate in IIDX.
 -   **Overall Difficulty** should be:

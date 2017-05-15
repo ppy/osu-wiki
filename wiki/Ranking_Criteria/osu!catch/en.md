@@ -1,5 +1,5 @@
-osu!catch Ranking Criteria
-=============================
+osu!catch
+===========
 
 The **osu!catch Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
@@ -18,14 +18,14 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 
 ### Gameplay
 
--   **Fruit.** A large object represented by a hitcircle, slider head, tail or repeat.
--   **Drop.** A medium-sized object represented by a slider tick.
--   **Droplet.** A small object representing a slider body. Missing these will reduce your accuracy, but unlike the above, will not result in a combo break.
--   **Banana.** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
--   **Jump.** A spacing between two objects that requires the use of dash to catch both.
--   **Hyperjump.** A more exaggerated spacing which cannot be caught by normal dashing. During play, hyperdash will be triggered between the two objects, characterised by a coloured outline on the first object.
--   **Edge Dash.** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
--   **Trigger distance** The minimum spacing between two objects at which a hyperdash is generated between them.
+-   **Fruit:** A large object represented by a hitcircle, slider head, tail or repeat.
+-   **Drop:** A medium-sized object represented by a slider tick.
+-   **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike the above, will not result in a combo break.
+-   **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
+-   **Jump:** A spacing between two objects that requires the use of dash to catch both.
+-   **Hyperjump:** A more exaggerated spacing which cannot be caught by normal dashing. During play, hyperdash will be triggered between the two objects, characterised by a coloured outline on the first object.
+-   **Edge Dash:** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
+-   **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
 
 ------------------------------------------------------------------------
 
@@ -55,13 +55,13 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 #### Rules
 
--   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are "fruit-catcher-idle.png", "fruit-catcher-kiai.png" and "fruit-catcher-fail.png".
--   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found in the osu! wiki </wiki/Skinning_Catch_the_Beat> . Additionally, it is recommendable to use transparent elements for the overlays.
+-   **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` and `fruit-catcher-fail.png`.
+-   **Custom fruits must include all necessary elements and be colored in a scale of grey colors.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
 -   **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the fruits, 82x103 for the drops and 306x320 for the catcher.
 
 #### Guidelines
 
--   **Custom catchers should additionally include the element "lighting.png" to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
+-   **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
 
 ------------------------------------------------------------------------
 

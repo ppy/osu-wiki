@@ -1,5 +1,5 @@
-osu!taiko Ranking Criteria
-===========================
+osu!taiko 
+=============
 
 These rules and guidelines has been discussed in the [osu!taiko Discussion Thread](https://osu.ppy.sh/forum/p/1275323). New rules or guidelines may be suggested in the [discussion forum](https://osu.ppy.sh/forum/87) which are going to be updated once the discussion reaches an agreement.
 
@@ -25,14 +25,14 @@ Common Terms
 Rules
 -------
 
-All rules are exactly that: RULES. They are NOT guidelines and may NOT be broken under ANY circumstance.
+All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 
 -   **Finish notes must not be in the middle or at the beginning of a 1/4 or above snapped pattern.** This is to ensure playability of all patterns, as finisher notes in the middle or at the beginning of a 1/4 or above snapped pattern have been deemed as very issuesome to catch.
 
 Guidelines
 --------------
 
-Guidelines are important and should be followed in most maps. However, they are NOT rules, so they may be broken in **special cases**. If you want to break a guideline, ask yourself this: Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines? If you answer yes to both these questions, then it is probably okay. When your guideline-breaking map gets modded, try to be as reasonable as possible: Do your best to explain your point of view and be open to suggestions.
+Guidelines are important and should be followed in most maps. However, they are **not** rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this, "Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines?" If you answer yes to both these questions, then it is probably okay.
 
 -   **Finisher notes may be used at the end of a 1/4 or above snapped pattern under the following conditions:**
     1.  The finisher note must have a reasonable sound to be mapped to.
