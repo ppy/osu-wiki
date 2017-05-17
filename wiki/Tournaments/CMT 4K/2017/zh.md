@@ -21,11 +21,11 @@
 
 ## 比赛奖品
 
-[撒泼特]:http://w.ppy.sh/8/8c/Supporter_tag.png
+[撒泼特]:/wiki/shared/osu!supporter.png
 本次比赛奖品由音游网和汉斯共同赞助，键盘由CrazyBoard提供。  
-![](http://w.ppy.sh/6/6e/GCrown.png) 3个月![撒泼特]，主页定制勋章，CrazyBoard Mark One键盘；   
-![](http://w.ppy.sh/6/69/SCrown.png) 2个月![撒泼特]；  
-![](http://w.ppy.sh/1/12/BCrown.png) 1个月![撒泼特]。
+![](/wiki/shared/GCrown.png) 3个月![撒泼特]，主页定制勋章，CrazyBoard Mark One键盘；   
+![](/wiki/shared/SCrown.png) 2个月![撒泼特]；  
+![](/wiki/shared/BCrown.png) 1个月![撒泼特]。
 
 ## 比赛主板团队
 
