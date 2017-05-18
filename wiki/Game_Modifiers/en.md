@@ -15,7 +15,7 @@ These mods make the game easier at the cost of decreasing the score obtained.
 
 ### Easy
 
-![Easy mod icon](/shared/Easy.png "Easy mod icon")
+![Easy mod icon](/wiki/shared/Easy.png "Easy mod icon")
 
 **Score multiplier**: 0.5
 
@@ -33,7 +33,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the effects are the same as in 
 
 ### No Fail
 
-![No Fail mod icon](/shared/No_Fail.png "No Fail mod icon")
+![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")
 
 **Score multiplier**: 0.5
 
@@ -47,7 +47,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, this mod acts exactly the same 
 
 ### Half Time
 
-![Half Time mod icon](/shared/Half-time.png "Half Time mod icon")
+![Half Time mod icon](/wiki/shared/Half-time.png "Half Time mod icon")
 
 ![Length of the song is increased by 1/3 BPM decreased by 1/4](img/GM_HT.jpg "Length of the song is increased by 1/3 BPM decreased by 1/4")
 
@@ -68,7 +68,7 @@ These mods introduce new elements to make the game harder and rewards the player
 
 ### Hard Rock
 
-![Hard Rock mod icon.png](/shared/Hard_Rock.png "Hard Rock mod icon.png")
+![Hard Rock mod icon.png](/wiki/shared/Hard_Rock.png "Hard Rock mod icon.png")
 ![Hard Rock increases the difficulty in many ways.](img/hardrock.jpg "Hard Rock increases the difficulty in many ways.")
 
 **Score multiplier**: 1.06 (osu!, osu!taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)
@@ -84,7 +84,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, Hard Rock has a multitude of ef
 In [osu!mania](osu!/wiki/Game_Modes/osu!mania) mode, however, Hard Rock will not affect the note placement. It will only raise the judgement difficulty (OD) and the Approach Rate (AR). For changing the note placement, see "Random" mod under Special. Using this mod on osu!mania will only allow unranked play.
 
 ###  Sudden Death
-![Sudden Death mod icon](/shared/Sudden_Death.png "Sudden Death mod icon")
+![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")
 ![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before depleting completely.](img/SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely.")
 
 **Description**: Miss a note and fail.
@@ -99,7 +99,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, this mod has the exact same eff
 
 #### Perfect
 
-![Perfect mod icon](/shared/Perfect.png "Perfect mod icon")
+![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")
 
 Click on Sudden Death again to get Perfect mod.
 
@@ -109,7 +109,7 @@ If you click the Sudden Death mod again, the Perfect mod will come out. When thi
 
 ### Double Time
 
-![Double_time.png](/shared/Double_time.png "Double_time.png")
+![Double_time.png](/wiki/shared/Double_time.png "Double_time.png")
 
 ![Length of the song is decreased by 1/3 BPM increases by 1/2](img/GM_DT.jpg "Length of the song is decreased by 1/3 BPM increases by 1/2")
 
@@ -127,7 +127,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the speed and approach rate are
 
 #### Nightcore
 
-![Nightcore mod icon](/shared/Nightcore.png "Nightcore mod icon")
+![Nightcore mod icon](/wiki/shared/Nightcore.png "Nightcore mod icon")
 
 Click on Double Time again to activate Nightcore mod
 
@@ -137,7 +137,7 @@ If you click the Double Time icon again, it becomes the Nightcore mod which incr
 
 ### Hidden
 
-![Hidden mod icon](/shared/Hidden.png "Hidden mod icon")
+![Hidden mod icon](/wiki/shared/Hidden.png "Hidden mod icon")
 
 **Score multiplier**: 1.06 (osu!,osu!taiko,osu!catch) , 1.00 (osu!mania)
 
@@ -154,7 +154,7 @@ In [osu!mania](osu!/wiki/Game_Modes/osu!mania) mode, Hidden can be used by press
 
 #### Fade In
 
-![Fade In mod icon](/shared/FadeIn.png "Fade In mod icon")
+![Fade In mod icon](/wiki/shared/FadeIn.png "Fade In mod icon")
 
 **Score multiplier**: 1.00 (osu!mania only)
 
@@ -170,7 +170,7 @@ For a comparison, see pictures below.
 
 ### Flashlight
 
-![Flashlight mod icon](/shared/Flashlight.png "Flashlight mod icon")
+![Flashlight mod icon](/wiki/shared/Flashlight.png "Flashlight mod icon")
 
 **Score multiplier**: 1.12 (osu!,osu!taiko,osu!catch) , 1.00 (osu!mania)
 
@@ -194,7 +194,7 @@ The mods listed below can't be used in conjunction with each other, except for R
 
 ### Relax
 
-![Relax mod icon](/shared/Relax.png "Relax mod icon")
+![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")
 
 **Score multiplier**: 0 (Unranked)
 
@@ -211,7 +211,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), this mod allows the character to be 
 
 ### Auto Pilot
 
-![Auto Pilot mod icon](/shared/AutoPilot.png "Auto Pilot mod icon")
+![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")
 
 **Score multiplier**: 0 (Unranked, osu! only)
 
@@ -224,7 +224,7 @@ Auto Pilot is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko) o
 
 ### Spun Out
 
-![Spun Out mod icon](/shared/Spun_Out.png "Spun Out mod icon")
+![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")
 
 **Score multiplier**: 0.9 (osu! only)
 
@@ -236,7 +236,7 @@ Spun Out is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko) or 
 
 ### Auto
 
-![Auto mod icon](/shared/Autoplay.png "Auto mod icon")
+![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")
 
 **Score multiplier**: 1.00(unranked)
 
@@ -250,7 +250,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the Auto mod will actually go b
 
 #### Cinema
 
-![Cinema mod icon](/shared/Cinema.png "Cinema mod icon")
+![Cinema mod icon](/wiki/shared/Cinema.png "Cinema mod icon")
 ![Comparison of Auto and Cinema mod](img/GM_Cinema_comp.jpg "Comparison of Auto and Cinema mod")
 
 Click on Auto again to get Cinema mod
@@ -259,7 +259,7 @@ This mod will show **background and storyboard only** without the gameplay objec
 
 ### xK
 
-![1K mod icon](/shared/1k.png "1K mod icon")![2K mod icon](/shared/2k.png "2K mod icon")![3K mod icon](/shared/3k.png "3K mod icon")![4K mod icon](/shared/4k.png "4K mod icon")![5K mod icon](/shared/5k.png "5K mod icon")![6K mod icon](/shared/6k.png "6K mod icon")![7K mod icon](/shared/7k.png "7K mod icon")![8K mod icon](/shared/8k.png "8K mod icon" )![9K mod icon](/shared/9k.png "9K mod icon")
+![1K mod icon](/wiki/shared/1k.png "1K mod icon")![2K mod icon](/wiki/shared/2k.png "2K mod icon")![3K mod icon](/wiki/shared/3k.png "3K mod icon")![4K mod icon](/wiki/shared/4k.png "4K mod icon")![5K mod icon](/wiki/shared/5k.png "5K mod icon")![6K mod icon](/wiki/shared/6k.png "6K mod icon")![7K mod icon](/wiki/shared/7k.png "7K mod icon")![8K mod icon](/wiki/shared/8k.png "8K mod icon" )![9K mod icon](/wiki/shared/9k.png "9K mod icon")
 
 **Score multiplier**: 0.66~1.00 (osu!mania only)
 
@@ -279,7 +279,7 @@ Score multiplier only applies within this condition: **This table only affects b
 
 ### Co-Op
 
-![Co-Op mod icon](/shared/Key_Coop.png "Co-Op mod icon")
+![Co-Op mod icon](/wiki/shared/Key_Coop.png "Co-Op mod icon")
 ![Comparison between original{Above} and Co-Op{Below} for non-specific difficulty.](img/GM_COOP2.jpg "Comparison between original{Above} and Co-Op{Below} for non-specific difficulty.") ![Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty.](img/GM_COOP.jpg "Comparison between original{Above} and Co-Op{Below} for osu!mania-specific difficulty.")
 
 **Score multiplier**: 0.70 ~ 1.00 (osu!mania only)
@@ -305,7 +305,7 @@ The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
 ### Random
 
-![Random mod icon](/shared/Random.png "Random mod icon")
+![Random mod icon](/wiki/shared/Random.png "Random mod icon")
 ![Effect of "Random" mod](img/GM_Random.jpg "Effect of "Random" mod")
 
 **Score multiplier**: 1.00 (Unranked, osu!mania only)
@@ -324,7 +324,7 @@ Special Mods
 
 ### Target Practice
 
-![Target Practice mod icon](/shared/Target.png "Target Practice mod icon")
+![Target Practice mod icon](/wiki/shared/Target.png "Target Practice mod icon")
 ![Comparison between original and Target Practice](img/GM_TP.jpg "Comparison between original and Target Practice")
 
 **Score multiplier**: 1.00 (Unranked, osu! only)
@@ -359,19 +359,19 @@ These mods were used some time ago, but are now resting here in peace.
 
 ### 10K
 
-![10K mod icon](/shared/10k.png "10K mod icon")
+![10K mod icon](/wiki/shared/10k.png "10K mod icon")
 
 This mod used to enable the player to use 10 keys. (Though, you could still use 5K + COOP to achieve 10 Keys)
 
 ### Fade Out
 
-![Fade Out mod icon](/shared/FadeOut.png "Fade Out mod icon")
+![Fade Out mod icon](/wiki/shared/FadeOut.png "Fade Out mod icon")
 
 This mod was similar to Hidden but was strictly for [osu!mania](/wiki/Game_Modes/osu!mania). When enabled, this mod will place a curtain at the bottom of the stage (or top, if upsidedown stage is enabled), fading the notes out when before they reach the keys. This mod's functionality truly wasn't removed, but rather, it was called "Hidden," using the Hidden mod icon.
 
 ### No Video
 
-![No Video mod icon](/shared/No_Video.png "No_Video.png")
+![No Video mod icon](/wiki/shared/No_Video.png "No_Video.png")
 
 This mod does exactly what you might expect it to do, disable the video, if any. This mod's function was moved to Visual Settings and the icon is no longer being used.
 
