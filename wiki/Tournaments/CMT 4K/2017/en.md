@@ -35,11 +35,11 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Team | Staff |
 | ---: | :--- |
-| Tournament manager | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
+| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
 | Coordinator | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
 | Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
 | Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| Commentator | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
+| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
 
 
 
@@ -50,7 +50,37 @@ Twitch：[aiyulu](http://live.bilibili.com/10183)。
 
 ## Match schedule(Update after group stage starts)
 
+### Test match
+
+17, June 15:00(UTC+8)  新锐 Team vs 元老 Team (4v4）
+
+元老 Team：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+
+新锐 Team：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+
 ## Mappools
+
+### Test match mappool
+[Download all(One Drive)](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
+[sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
+[-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
+[seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278)  
+[Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/b/658126)  
+[LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/b/928341)  
+[DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/b/1021178)  
+[Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/b/719525)  
+[Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/b/1101044)  
+[DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/b/602841)  
+[Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/b/644265)  
+[A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/b/1010130)  
+[senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/b/1050840)  
+[96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/b/1103346)  
+[LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/b/1247978)  
+[Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/b/800952)
+
+TB:  
+[Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
 
 ## Match reviews
 
