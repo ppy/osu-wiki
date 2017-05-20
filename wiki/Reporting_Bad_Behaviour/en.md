@@ -43,7 +43,7 @@ Remember to add details to your report (like translations) at the comments.
 
 ### Using the report link at the user's record at beatmap listing
 
-Only use this when you are reporting users for cheating.
+This should only be used when cheating users are reported.
 
 ![Report-user-beatmap.png](img/Report-user-beatmap.png)
 
@@ -88,13 +88,11 @@ Frequently Asked Questions
  No. Don't worry about it, we can ignore false reports unless abused.
 
 
-
 * **Can I report multiple times?**
 
  Reporting once is enough but you can report several times during the day. Two or three times should be fine.
 
  You can either report the channel saying that multiple players are causing problems, or just list of each person.
-
 
 
 * **Does this include private messages?**
@@ -103,8 +101,7 @@ Frequently Asked Questions
 
  A user can use the ignore system to avoid any messages getting received from the ignored user including channels.
 
-*Note: Ignore list will reset during you close the game client.*
-
+ *Note: Ignore list will reset during you close the game client.*
 
 
 * **Can I report a moderator?**
