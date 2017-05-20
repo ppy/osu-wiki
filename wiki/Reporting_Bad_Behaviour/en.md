@@ -19,7 +19,7 @@ If the user has a space at their username, it must be  replaced with an undersco
 
 ``This User is spamming in #channel`` turns to ``This_User is spamming in #channel``
 
-Reports are not case-sensitive so it's okay to use lowercase letters like ``this_user``.
+Reports are not case-sensitive so it is okay to use lowercase letters like ``this_user``.
 
 ![Example of using the !report command](img/Report-command.png "Example of using the !report command")
 
@@ -33,7 +33,7 @@ Reporting the user by this way only needs a type of reason and the�
 ![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
 
 
-### Using the report button at the user's profile
+### Using the report button at the users profile
 
 This also works the same as the report button ingame.
 
@@ -42,7 +42,7 @@ Remember to add details to your report (like translations) at the comments.
 ![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
 
 
-### Using the report link at the user's record at beatmap listing
+### Using the report link at the users record at beatmap listing
 
 This should only be used when cheating users are reported.
 
@@ -86,7 +86,7 @@ Frequently Asked Questions
 
 * **I accidentally reported a user! Will I get an infringement?**
 
- No. Don't worry about it, we can ignore false reports unless abused.
+ No. Do not worry about it, we can ignore false reports unless abused.
 
 
 * **Can I report multiple times?**
