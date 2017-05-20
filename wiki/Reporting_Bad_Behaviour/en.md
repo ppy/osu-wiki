@@ -39,14 +39,14 @@ This also works the same as the report button ingame.
 
 Remember to add details to your report (like translations) at the comments.
 
-![Report-user-profile.png](img/Report-user-profile.png)
+![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
 
 
 ### Using the report link at the user's record at beatmap listing
 
 This should only be used when cheating users are reported.
 
-![Report-user-beatmap.png](img/Report-user-beatmap.png)
+![Pressing this link will report that score.](img/Report-user-beatmap.png "Pressing this link will report that score.")
 
 
 
@@ -102,7 +102,7 @@ Frequently Asked Questions
 
  A user can use the ignore system to avoid any messages getting received from the ignored user including channels.
 
- *Note: Ignore list will reset during you close the game client.*
+ **Note:** Ignore list will reset during you close the game client.
 
 
 * **Can I report a moderator?**
