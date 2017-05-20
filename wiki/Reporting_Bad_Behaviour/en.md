@@ -11,7 +11,7 @@ How to report someone?
 
 ### Using the !report command ingame
 
-``Format: !report <username> <reason>``
+``Format: !report username <reason>``
 
 Parameters in **<** and **>** are optional.
 
@@ -33,7 +33,7 @@ Reporting the user by this way only needs a type of reason and the�
 ![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
 
 
-### Using the report button at the users profile
+### Using the report button in the profile of a user
 
 This also works the same as the report button ingame.
 
@@ -42,7 +42,7 @@ Remember to add details to your report (like translations) at the comments.
 ![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
 
 
-### Using the report link at the users record at beatmap listing
+### Using the report link at the record of a user at beatmap listing
 
 This should only be used when cheating users are reported.
 
@@ -102,7 +102,7 @@ Frequently Asked Questions
 
  A user can use the ignore system to avoid any messages getting received from the ignored user including channels.
 
- **Note:** Ignore list will reset during you close the game client.
+ **Note:** Ignore list will reset when you close the game client.
 
 
 * **Can I report a moderator?**
