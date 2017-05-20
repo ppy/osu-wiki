@@ -13,7 +13,7 @@ How to report someone?
 
 ``Format: !report <username> <reason>``
 
-Paramters in **&lt;** and **&gt;** are optional.
+Paramters in **<** and **>** are optional.
 
 If the user has a space at their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
 
