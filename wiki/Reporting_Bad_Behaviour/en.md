@@ -9,28 +9,24 @@ It is not only limited to in game chat but also in other places such as the foru
 How to report someone?
 ----------------------
 
-You may report at many places, but let's start at the chat.
-
-### Using the !report command
+### Using the !report command ingame
 
 ``Format: !report <username> <reason>``
 
 Take note that **&lt;** and **&gt;** are not necessary.
 
-If the user has a space at their username, replace it with an underscore ``_`` because our chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
+If the user has a space at their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
 
-``User: This User``
-``Example: This_User is spamming in #channel``
+``This User is spamming in #channel`` turns to ``This_User is spamming in #channel``
 
 Reports are not case-sensitive so it's okay to use lowercase letters like ``this_user``.
 
 ![Example of using the !report command](img/Report-command.png)
 
 
-
 ### Using the report button ingame
 
-`Report the user by this way only needs a type of reason and your custom text, unlike the !report command.`
+Report the user by this way only needs a type of reason and your custom text, unlike the !report command.
 
 ![Click the report button](img/Report-user-1.png)
 ![Remember to add a reason here!](img/Report-user-2.png)
