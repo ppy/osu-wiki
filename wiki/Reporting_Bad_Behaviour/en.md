@@ -1,4 +1,3 @@
- \_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_
 
 <div style="margin:0 auto;width:calc(100% - 25px);border-radius:10px;border:1px solid #ddd;background-color:white;box-shadow:0 0 5px #ddd;-webkit-
 box-shadow:0 0 5px #ddd;-moz-box-shadow:0 0 5px #ddd;-o-box-shadow:0 0 5px #ddd;">
