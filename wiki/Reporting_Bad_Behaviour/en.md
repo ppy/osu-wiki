@@ -13,7 +13,7 @@ How to report someone?
 
 ``Format: !report <username> <reason>``
 
-Take note that **&lt;** and **&gt;** are not necessary.
+Paramters in **&lt;** and **&gt;** are optional.
 
 If the user has a space at their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
 
@@ -26,7 +26,7 @@ Reports are not case-sensitive so it's okay to use lowercase letters like ``this
 
 ### Using the report button ingame
 
-Report the user by this way only needs a type of reason and your custom text, unlike the !report command.
+Reporting the user by this way only needs a type of reason and the custom text, unlike the !report command.
 
 ![Click the report button](img/Report-user-1.png)
 ![Remember to add a reason here!](img/Report-user-2.png)
@@ -62,7 +62,7 @@ Examples what to report
 
 * **Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable).**
 
- Moderators immediately silence for this, removing the content without warning.''
+ Moderators immediately silence for this, removing the content without warning.
 
 * **Posting of unwanted contents such as advertisements, screamers and referrals.**
 
