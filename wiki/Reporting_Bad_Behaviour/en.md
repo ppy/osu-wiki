@@ -21,15 +21,16 @@ If the user has a space at their username, it must be  replaced with an undersco
 
 Reports are not case-sensitive so it's okay to use lowercase letters like ``this_user``.
 
-![Example of using the !report command](img/Report-command.png)
+![Example of using the !report command](img/Report-command.png "Example of using the !report command")
 
 
 ### Using the report button ingame
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the !report command.
 
-![Click the report button](img/Report-user-1.png)
-![Remember to add a reason here!](img/Report-user-2.png)
+![Click the report button](img/Report-user-1.png "Click the report button")
+
+![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
 
 
 ### Using the report button at the user's profile
