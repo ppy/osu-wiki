@@ -1,5 +1,7 @@
 # Article Style Guide
 
+This Article Style Guide applies to all articles in English and other languages that does not have one yet!
+
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All English articles should use plain English.
@@ -723,7 +725,7 @@ When adding a flag inline, use this format:
 - `full-country-name` is the full country name
 - `xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag
 
-To see if a flag exists, see the `/wiki/shared/flag/` folder in the `osu-wiki` repository.
+To see the flags, see the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/flag) folder.
 
 ## Tables
 
@@ -751,19 +753,21 @@ Another tool that can help you visualize a Markdown table could be:
 
 ## Date Formatting
 
-All dates must follow these rules:
-
-- To avoid having dates using different formats, all dates should be written in `DD Month YYYY` format
-  - e.g. `10 December 2011` or `01 April 2008`
-- Do **not** use superscripts (or unicode) or suffixes such as `23<sup>rd</sup> of April`, `December 30ᵗʰ`, or `4th of May`.
-- If a numeric or terse date is needed (such as in a table), then use `YYYY-MM-DD`, always with 2 digits for month and day.
-  - e.g. `2011-12-10` or `2012-05-04`
-<!--- Besides being the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601), dates in this format will naturally sort properly, say if the table column is later made sortable.-->
-
-For consistency, please write all dates in this format (using both): `DD, Month, YYYY (YYYY-MM-DD)`.
+Since many regions use different date and time formats, the osu!wiki will only use this format: `DD. MMMM YYYY`.
 For example:
 
-- `5 August, 2015 (2015-08-05)`
+- `April 1, 2017` must be `01. April 2017`
+- `17 June, 2013` must be `17. June 2013`
+- `2015 March, 02` must be `02. March 2015`
+- `2008.11.02` must be `02. November 2008`
+
+<!-- this is to cover for languages with month/day/year suffixes -->
+If your language uses a day, month, and year suffix (e.g. Chinese, Japanese, or Korean), you may use them.
+For example:
+
+- `April 29, 2016` must be `2016年04月29日`
+- `18 June, 2013` must be `2013년06월18일`
+- `2007 March, 02` must be `2007年03月02日`
 
 ## Miscellaneous
 
