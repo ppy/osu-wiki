@@ -304,7 +304,7 @@ You may use the old game mode names (e.g. `Catch the Beat` or `Taiko`) only when
 
 ### Game Modifiers
 
-Game modifiers **must** must be capitalised.
+Game modifiers **must** be capitalised.
 For example:
 
 - `Hard Rock`
@@ -350,7 +350,7 @@ In instances where you are talking directly to the reader (e.g. tutorial page), 
 Know that the overuse/abuse of emphasis will reduce its effectiveness!
 
 When trying to emphasize words, do **not** use capital letters.
-Instead, bold the word you're trying to emphasize.
+Instead, bold the word you are trying to emphasize.
 
 ### Bold
 
@@ -607,7 +607,7 @@ Do **not** use the word `here` as the link text.
 As it may seem convenient to use, this may cause confusion and/or be misleading.
 
 Instead, take the page's title (from the top of page or from the `<title/>` tag) and use that as the link text.
-If there isn't a viable or obvious title, then use the site's name or a genernal description instead.
+If there is not a viable or obvious title, then use the site's name or a genernal description instead.
 
 ### Section Links
 
@@ -623,7 +623,7 @@ All section links follow these strict rules:
 - if a section contains an image, ignore it
 - if a section starts with a space, ignore it
 
-Notice: you are unable to check if section link links to the correct location.
+Notice: you will not be able to check if section link links to the correct location in some scenarios.
 
 Examples:
 
@@ -671,13 +671,13 @@ Images that are used for one article are to be placed inside their folders for l
 ### Image Names
 
 Image file names should **not** use spaces.
-Names of images must be somewhat meaningful, please don't use the timestamp or long hashes for media file names.
+Names of images must be somewhat meaningful, please do not use the timestamp or long hashes for media file names.
 
 ### Max Image Width
 
 The osu!wiki will give every image a max-width, being the width of the article body (680px).
 
-This means when an image's width is more than 680px, you should downscale it to 680px to ensure that we don't waste digital space.
+This means when an image's width is more than 680px, you should downscale it to 680px to ensure that we do not waste digital space.
 
 ### Supported Formats
 
@@ -731,7 +731,7 @@ To see the flags, see the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki
 
 Tables use the GFM syntax.
 
-If you cannot create a table because _something_ won't work without HTML (e.g. lists inside tables), then you are overthinking both the table and the content.
+If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), then you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simplier fix for it.
 
 **Never** place images and/or lists inside tables.
