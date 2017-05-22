@@ -68,7 +68,6 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 | ![](/wiki/shared/flag/Kr.gif) | **South Korea** | **[Spectator](https://osu.ppy.sh/users/702598)**, [Berea](https://osu.ppy.sh/users/3657951), [[224]Hyperw7](https://osu.ppy.sh/users/4158549), [_Asriel](https://osu.ppy.sh/users/566276), [ExGon](https://osu.ppy.sh/users/214187), [mjj741](https://osu.ppy.sh/users/1459769) |
 | ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [Yudara](https://osu.ppy.sh/users/3564018), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050) |
 
-
 ### Pending Rosters
 
 *If you signed up for this competition, please contact your country's team captain for team creation purposes as soon as possible! (deadline ending soon)*
@@ -92,10 +91,6 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 | ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[e0486](https://osu.ppy.sh/users/1840467)** |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Sorcerer](https://osu.ppy.sh/users/1913190)** |
 | ![](/wiki/shared/flag/Us.gif) | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)** |
-
-
-
-
 
 ## Ruleset
 ### Tournament Rules
