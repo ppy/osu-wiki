@@ -1,0 +1,2 @@
+asg -> /wiki/Article_Style_Guide
+pp -> /wiki/Performance_Points
