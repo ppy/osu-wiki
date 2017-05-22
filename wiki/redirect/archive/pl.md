@@ -1,0 +1,1 @@
+/wiki/Announcements/Archive/?locale=pl
