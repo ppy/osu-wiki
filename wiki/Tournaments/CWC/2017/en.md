@@ -71,6 +71,8 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 
 ### Pending Rosters
 
+*If you signed up for this competition, please contact your country's team captain for team creation purposes as soon as possible! (deadline ending soon)*
+
 | | Country | Captain |
 | ---: | :---: | :--- |
 | ![](/wiki/shared/flag/Au.gif) | **Australia** | **[Zeverage](https://osu.ppy.sh/users/237550)** |
