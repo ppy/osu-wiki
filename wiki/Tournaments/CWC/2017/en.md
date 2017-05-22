@@ -36,8 +36,8 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 | ------------ | -------------- |
 | Management | [![](/wiki/shared/flag/De.gif) Loctav](https://osu.ppy.sh/users/71366), [![](/wiki/shared/flag/De.gif) p3n](https://osu.ppy.sh/users/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://osu.ppy.sh/users/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | [![](/wiki/shared/flag/Es.gif) Deif](https://osu.ppy.sh/users/318565), [![](/wiki/shared/flag/Cl.gif) ZiRoX](https://osu.ppy.sh/users/200768) |
-| Commentators | to be announced |
-| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://osu.ppy.sh/users/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://osu.ppy.sh/users/1910766) |
+| Commentators | [![](/wiki/shared/flag/Bd.gif) Arf](https://osu.ppy.sh/users/3716999), [![](/wiki/shared/flag/Gb.gif) JBHyperion](https://osu.ppy.sh/users/4879508), [![](/wiki/shared/flag/Fr.gif) Slainv](https://osu.ppy.sh/users/4823843), [![](/wiki/shared/flag/Se.gif) Setomi](https://osu.ppy.sh/users/2205929), [![](/wiki/shared/flag/Nl.gif) Sartan](https://osu.ppy.sh/users/4100941), [![](/wiki/shared/flag/Ca.gif) wwwww_](https://osu.ppy.sh/users/6437591), [![](/wiki/shared/flag/Us.gif) ztrot](https://osu.ppy.sh/users/6347) |
+| Statisticians | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://osu.ppy.sh/users/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -46,7 +46,7 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 
 ------------------------------------------------------------------------
 
-##Participants
+## Participants
 
 | | Country | Member |
 | ---: | :---: | :--- |
