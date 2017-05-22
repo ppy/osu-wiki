@@ -34,18 +34,23 @@ The osu!catch World Cup 2017 is ran by various community members by distributing
 
 | Position | Member |
 | ------------ | -------------- |
-| Management | [![](/wiki/shared/flag/De.gif) Loctav](https://new.ppy.sh/u/71366), [![](/wiki/shared/flag/De.gif) p3n](https://new.ppy.sh/u/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://new.ppy.sh/u/776257) |
-| Map Selectors | [![](/wiki/shared/flag/Es.gif) Deif](https://new.ppy.sh/u/318565), [![](/wiki/shared/flag/Cl.gif) ZiRoX](https://new.ppy.sh/u/200768) |
+| Management | [![](/wiki/shared/flag/De.gif) Loctav](https://osu.ppy.sh/users/71366), [![](/wiki/shared/flag/De.gif) p3n](https://osu.ppy.sh/users/123703), [![](/wiki/shared/flag/Es.gif) Deif](https://osu.ppy.sh/users/318565), [![](/wiki/shared/flag/Fr.gif) shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selectors | [![](/wiki/shared/flag/Es.gif) Deif](https://osu.ppy.sh/users/318565), [![](/wiki/shared/flag/Cl.gif) ZiRoX](https://osu.ppy.sh/users/200768) |
 | Commentators | to be announced |
-| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://new.ppy.sh/u/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://new.ppy.sh/u/1910766) |
+| Statistician | [![](/wiki/shared/flag/Nz.gif) deadbeat](https://osu.ppy.sh/users/128370), [![](/wiki/shared/flag/De.gif) Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/t/589552)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/589552)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Registrations](https://new.ppy.sh/tournaments/10)
 
 ------------------------------------------------------------------------
+
+##Participants
+
+| | Country | Member |
+| ---: | :---: | :--- |
+
 
 ## Ruleset
 ### Tournament Rules
