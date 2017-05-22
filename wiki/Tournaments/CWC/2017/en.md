@@ -30,7 +30,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The osu!catch World Cup 2017 is ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member |
 | ------------ | -------------- |
