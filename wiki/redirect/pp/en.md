@@ -1,1 +1,0 @@
-/wiki/Proformance_Points/
