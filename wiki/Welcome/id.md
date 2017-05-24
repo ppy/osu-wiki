@@ -1,7 +1,7 @@
 <!-- wiki -->
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
-[Multi wikilink]: /wiki/Multiplayer/ "Multi-play"
+[Multi wikilink]: /wiki/Multi/ "Multi-play"
 [Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
 [Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
 [Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
@@ -39,14 +39,14 @@
 Pertama-tama kami ingin memberikan sambutan dan pelukan hangat karena kamu telah bergabung dengan komunitas kami. Biar kami jelaskan sebagian hal yang cepat sebelum kamu memulai perjalananmu disini.
 
 # Tutorial
-Sebelum kamu mulai bermain osu!, kamu dianjurkan untuk memainkan beatmap tutorial pertama ([Peter Lambert - osu! tutorial](http://osu.ppy.sh/s/3756)).
+Sebelum kamu mulai bermain osu!, kamu dianjurkan untuk memainkan beatmap tutorial pertama ([Peter Lambert - osu! tutorial](https://osu.ppy.sh/s/3756)).
 
 Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-mya. Beatmap ini akan mengajarkanmu fundamental-fundamental permainan osu! mode Standard seperti *Hitcircle*, *Slider*, dan 'Spinner''.
 
-**Catatan:** Apabila kamu tidak memiliki beatmap tutorial tersebut karena suatu alasan tertentu, kamu dapat mengunduh ulang beatmap tersebut [disini](http://osu.ppy.sh/b/22538). Setelah memainkan tutorial yang disediakan, kamu telah siap untuk mulai mengunduh beatmap-beatmap yang berbeda!
+**Catatan:** Apabila kamu tidak memiliki beatmap tutorial tersebut karena suatu alasan tertentu, kamu dapat mengunduh ulang beatmap tersebut [disini](https://osu.ppy.sh/b/22538). Setelah memainkan tutorial yang disediakan, kamu telah siap untuk mulai mengunduh beatmap-beatmap yang berbeda!
 
 ## Bagaimana memulai memainkan lagu-lagu kesukaanmu!
-_Penjelasan Lengkap: [Beatmaps][ID:Beatmaps wikilink]_
+_Penjelasan Lengkap: [Beatmaps][Beatmaps wikilink]_
 
 ### Langkah 1 - Cari Lagunya!
 Mungkin kamu bertanya-tanya: Apakah beatmap itu? Seperti pada permainan-permainan lainnya, beatmap memiliki tingkatan, atau terkadang peta-peta. *Nah* di osu!, kami memiliki "beatmap-beatmap" yang jelas merupakan apa yang sebenarnya kamu ketahui, mereka adalah peta-peta dengan ketukan (ritme). Mencari beatmap untuk lagu-lagu yang kamu inginkan itu sangat mudah! Kamu dapat menemukan setiap beatmap yang telah diajukan [disini][Beatmaps link]. Kamu dapat mengetikkan apapun yang berhubungan dengan beatmap/lagu yang kamu cari: judul lagu, nama penyanyi, judul album, bahkan jenis lagunya! Sebagai contoh, kami akan mencoba menemukan beatmap untuk lagu "Coldplay - Don't Let It Break Your Heart"
@@ -137,9 +137,9 @@ osu! menyediakan sebuah kesempatan untuk setiap pemain untuk membuat beatmap kal
 ## Sumber-sumber Berguna
 Berikut adalah beberapa sumber yang dapat membantumu:-
 
--   [Latihan Awal](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Pilih beatmap untuk memulai dirimu.
--   [Pak Beatmap](http://osu.ppy.sh/p/packlist) - Dapatkan koleksi beberapa beatmap yang ditata menurut secara umum.
--   [Daftar Beatmap](http://osu.ppy.sh/p/beatmaplist) - Unduh beberapa beatmap (lagu) baru untuk bermain.
+-   [Latihan Awal](https://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Pilih beatmap untuk memulai dirimu.
+-   [Pak Beatmap](https://osu.ppy.sh/p/packlist) - Dapatkan koleksi beberapa beatmap yang ditata menurut secara umum.
+-   [Daftar Beatmap](https://osu.ppy.sh/p/beatmaplist) - Unduh beberapa beatmap (lagu) baru untuk bermain.
 -   [Hal yang Sering Ditanyakan](/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
--   [osu!academy](ID:Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
--   [Tips dan Trik untuk Memulai osu!](ID:Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
+-   [osu!academy](Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
+-   [Tips dan Trik untuk Memulai osu!](Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
