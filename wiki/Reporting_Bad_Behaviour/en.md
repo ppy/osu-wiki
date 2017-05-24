@@ -1,3 +1,4 @@
+# Reporting Bad Behavior
 
 What is the report system?
 --------------------------
@@ -11,7 +12,8 @@ How to report someone?
 
 ### Using the !report command ingame
 
-``Format: !report username <reason>``
+Usage:
+`!report username [reason]`
 
 Parameters in **<** and **>** are optional.
 
