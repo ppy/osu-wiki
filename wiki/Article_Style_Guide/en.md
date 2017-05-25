@@ -48,49 +48,37 @@ Index pages **must** contain descriptions of what they link to.
 
 ## File Names
 
-All articles in the `osu-wiki` repository uses the ISO 639-1 codes.
-ISO 639-1 is a 2-lettered language code.
+All articles in the `osu-wiki` repository uses the language codes supported in `osu-web`.
 When using this for an article locale, they must use lowercase letters and end with the `.md` extension.
-
-For example:
-
-- `en.md` for English
-- `fr.md` for French
-- `ko.md` for Korean
-- `ja.md` for Japanese
-- `es.md` for Spanish
 
 Translated articles are to be placed in the appropriate English-named folder.
 
-For a list of the 2 lettered language codes, see [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (the 639-1 column of the table).
+### List of Locale File Names
 
-### Language Tags
+If your language isn't listed below, please open an issue in the `osu-web` repository!
 
-Language tags are variants of a certain language (e.g. English is the language family, while American, British, Canadian, and Indian Enlish are variants).
-
-All files are **not** to use language tags.
-For example, use:
-
-- `en.md` instead of:
-  - `en-gb.md`,
-  - `en-us.md`,
-  - `en-ca.md`, or
-  - `en-in.md`
-- `es.md` instead of:
-  - `es-es.md`,
-  - `es-mx.md`,
-  - `es-ar.md`,
-  - `es-co.md`, or
-  - `es-cl.md`
-- `pt.md` instead of:
-  - `pt-pt.md` or
-  - `pt-br.md`
-- `zh.md` instead of:
-  - `zh-cn.md`,
-  - `zh-tw.md`, or
-  - `zh-hk.md`
-
-Doing so would allow the other contributors to also maintain consistency and simplicity while following the ISO 639-1 codes.
+- `de.md`: German
+- `el.md`: Greek
+- `en.md`: English
+- `es.md`: Spanish
+- `fi.md`: Finnish
+- `fr.md`: French
+- `hu.md`: Hungarian
+- `id.md`: Indonesian
+- `it.md`: Italian
+- `ja.md`: Japanese
+- `ko.md`: Korean
+- `nl.md`: Nederlands
+- `no.md`: Norwegian
+- `pl.md`: Polish
+- `pt.md`: Português
+- `pt-br.md`: Português (Brasil)
+- `ru.md`: Russian
+- `th.md`: Thai
+- `tl.md`: Tagalog
+- `zh-cn.md`: Chinese (Simplified)
+- `zh-tw.md`: Chinese (Traditional)
+- `zh-hk.md`: Chinese (Taiwan)
 
 ## Headings
 
@@ -116,8 +104,10 @@ or
 ### heading level 3
 ```
 
-You can choose either the underline style or hashtag style of level 1 and level 2 headings.
-Note that heading levels 3 and onwards use the hashtag style.
+You can choose either the underline style or hash style of level 1 and level 2 headings.
+Note that heading levels 3 and onwards use the hash style.
+
+If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
 
 Optionally, but preferably, add an extra line before and after the headings.
 Doing so will help make the headings stand out a bit more when editing.
@@ -489,7 +479,7 @@ When writing a file extension, prefix the extension with a period (`.`), followe
 
 ### Chat Channels
 
-When copying the name of a chat channel, start it with a hashtag (`#`), followed by the channel name in lower case letters.
+When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 See [Chat Channels](#chat-channels) for other details.
 For example:
 
@@ -511,10 +501,6 @@ If you are using the reference style linking, it is suggested to place the refer
 
 When linking to the osu!website (e.g. user profiles or beatmaps), use `osu.ppy.sh` instead of `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
-
-When linking to a osu!user profile, use the user's id number instead of their username.
-Usernames can be changed, while user ids are bound to the user.
-This is to ensure that the link still links to the same person even after they changed their username.
 
 **Never** use protocol relative links (e.g. `//example.com`)!
 
@@ -637,6 +623,40 @@ When an icon is inside the heading, ignore it.
 If there is a space due to the icon, ignore it.
 
 The anchor of a heading with an icon will start with a letter, not a space or hyphen.
+
+### User Profiles
+
+When linking to a osu!user profile, use the user's id number instead of their username.
+Usernames can be changed, while user ids are bound to the user.
+This is to ensure that the link still links to the same person even after they changed their username.
+
+Do not:
+
+- `[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`
+- `[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
+
+Do:
+
+- `[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`
+- `[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
+
+or
+
+- `[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
+- `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
+
+Unfortunately, osu! doesn't provide an easy, straight-forward way to get the user's id number.
+Here are some ways you can get it:
+
+1.  Go to the user's page using the username search.
+2.  Click on:
+    1.  Said user's beatmap page link (that they created)
+        1.  Click on the Creator link
+        2.  In the address box, the value after `/u/` is the user's id number.
+    2.  Compose a message (the mail icon)
+        1.  In the address box, the value after for the URL parameter `&u=` is the user's id number.
+
+If whenever possible, use the current user's name instead than the user's previous names.
 
 ### Beatmaps
 
