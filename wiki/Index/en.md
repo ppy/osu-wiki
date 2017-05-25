@@ -2,11 +2,11 @@
 
 Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
-- [Welcome](/wiki/Welcome "Welcome")
+## Legal notice
+
 - [About](/wiki/About "About")
 - [Legal](/wiki/Legal "Legal")
 - [Do you really want to ask peppy](/wiki/Do_you_really_want_to_ask_peppy "Do you really want to ask peppy")
-- [How You Can Help!](/wiki/How_You_Can_Help! "How You Can Help!")
 
 ## osu! Client
 
@@ -14,6 +14,7 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
 - [Registration](/wiki/Registration "Registration")
 - [Installation](/wiki/Installation "Installation")
+- [Welcome](/wiki/Welcome "Welcome")
 
 ### Help
 
@@ -25,7 +26,7 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 ### Available Game Modes
 
 - [FAQ](/wiki/FAQ "FAQ")
-- [Beginner](/wiki/Beginner "Beginner") <-- This look a lot like a general guide to me
+- [Beginner](/wiki/Beginner "Beginner")
 - [Game Modes](/wiki/Game_Modes "Game Modes")
   - [External Ports](/wiki/Game_Modes/External_Ports "External Ports")
 - [Multi](/wiki/Multi "Multi")
@@ -128,3 +129,4 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
 - [Article Style Guide](/wiki/Article_Style_Guide "Article Style Guide")
 - [osu!wiki contribution guide](/wiki/osu!wiki_contribution_guide "osu!wiki contribution guide")
+- [How You Can Help!](/wiki/How_You_Can_Help! "How You Can Help!")
