@@ -217,27 +217,27 @@ _**注意：您的提交信息必须能解释您的改动，否则您的改动�
 
 选择一个选项然后点击 "Commit Changes" 。
 
-### Through your Local Machine
+### 在本机上进行
 
-GitHub under the hood, is a Git Service.
-You can clone your fork to your PC and make changes there.
+GitHub是一个Git服务器，
+你可以克隆仓库到您的机器上继续进行您的更改。
 
-This guide was written for Command Line Interface (CLI) version of Git.
+接下来的部分将指导您使用命令行版本的Git.
 
-If you have any adversity in using the CLI, you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
-Some editors (like Visual Studio Code) may provide a Git interface.
+如果您不习惯命令行,您可以自学带图形界面的Git，例如 [Git Extensions][Git Extensions].
+一些编辑器（例如VS Code）也提供了Git接口.
 
-Please be reminded that local copy and remote copy are two different things.
-If you did commits without pushing to remote copy, you are effectively talking to yourself.
+请记住，远端复制与本地复制不一样.
+如果您commit而没有推送到远端, you are effectively talking to yourself.
 
-You can delay the push to remote copy for as long as you want, but you must push your commit at the end when you are done.
-It is usually preferred to push the local commit immediately to the remote copy.
+您可以不急着推送到远端, 但是当您完成的时候最好马上推送.
+不过我们更喜欢commit后马上推送.
 
-#### One-time setup only
+#### 一次设置
 
-##### Preparation of local copy
+##### 本地仓库设置
 
-_Note: If you do not have Git installed, you can go to [the official Git website][Git] to download Git and [set it up][GH Help Git setup] (only ignore step 1)._
+_注意: 如果您没有安装Git, 你可以前往 [Git 官方网站][Git] 下载 Git 并 [设置][GH Help Git setup] (跳过步骤1)._
 
 Once you have Git installed and ready to deploy (see the note above if you have not), open up Git Bash or your terminal directly and enter this in the Command Line Interface (CLI):
 
