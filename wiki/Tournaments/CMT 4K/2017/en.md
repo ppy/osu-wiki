@@ -90,8 +90,8 @@ TB:
 
 1. The **Chinese osu!mania 4K Tournament 2017**(***CMT 4K 2017***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team. 
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
-     &emsp;a) The Tie-breaker map will only be played in case of a tie.  
-     &emsp;b) All maps are in a FreeMod bracket.
+     - The Tie-breaker map will only be played in case of a tie.  
+     - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
@@ -99,8 +99,8 @@ TB:
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(Shift + F12) and provide the link to match referee instantly.
 9. If a player disconnects(In the case of the player is not able to finish the map):  
-     &emsp;a) disconnets within 30s after the match starts, the match will be reset.   
-     &emsp;b) the player will be recorded as Failed.
+     - disconnets within 30s after the match starts, the match will be reset.   
+     - the player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified。
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
 12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have(including but not limited to)：  
