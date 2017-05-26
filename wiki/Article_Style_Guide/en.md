@@ -76,9 +76,11 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `ru.md`: Russian
 - `th.md`: Thai
 - `tl.md`: Tagalog
-- `zh-cn.md`: Chinese (Simplified)
-- `zh-tw.md`: Chinese (Traditional)
-- `zh-hk.md`: Chinese (Taiwan)
+- `zh.md`: Chinese (Simplified)
+- `zh-tw.md`: Chinese (Taiwan, Traditional)
+- `zh-hk.md`: Chinese (Traditional)
+
+Notice: `zh.md` is assumed to be Simplified Chinese, because of this do not use `zh-cn.md`!
 
 ## Headings
 
@@ -645,7 +647,7 @@ or
 - `[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
 - `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
 
-Unfortunately, osu! doesn't provide an easy, straight-forward way to get the user's id number.
+Unfortunately, osu! does not provide an easy, straight-forward way to get the user's id number.
 Here are some ways you can get it:
 
 1.  Go to the user's page using the username search.
@@ -656,7 +658,7 @@ Here are some ways you can get it:
     2.  Compose a message (the mail icon)
         1.  In the address box, the value after for the URL parameter `&u=` is the user's id number.
 
-If whenever possible, use the current user's name instead than the user's previous names.
+Whenever possible, use the current user's name instead of the user's previous names.
 
 ### Beatmaps
 
