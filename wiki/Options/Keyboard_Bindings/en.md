@@ -1,12 +1,10 @@
 # Keyboard Bindings
 
-To access this dialog, open the [Options](/wiki/Options/), type in `Change` then click on `Change keyboard bindings`.
+To access this dialog, open the [Options](/wiki/Options/), type in `change` then click on `Change keyboard bindings`.
 
 Here, you can change reassign keyboard keys with the listed actions.
 
-<img src="Options KB.jpg" title="fig:Key Bindings" alt="Key Bindings" width="300" />
-
-**Be aware** that the osu!client will not notify you for keys used multiple times!
+**Be aware** that the osu!client will not notify you for keys used multiple times (this includes conflicting keys)!
 
 ## osu! Standard Mode
 

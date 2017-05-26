@@ -2,7 +2,7 @@
 
 ![Options menu](img/options_basic.jpg "Options menu (yes, that sidebar at left)")
 
-Click `Options` or press `O` in the Intro Screen to access the Options sidebar and change the way _osu!_ behaves.
+Click `Options`, press `O` in the Intro Screen or press `Ctrl` + `O` in almost any screen to access the Options sidebar and change the way _osu!_ behaves.
 
 From here, type anywhere to search what you want to change.
 The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
