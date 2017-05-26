@@ -122,13 +122,13 @@ Note: when the osu!client is not the active window, the fps limit is dropped to 
 
 ### Layout
 
-| Name              | Effect                                                                                                                                                                | Type     | Default    |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| Resolution        | Changes the in-game screen resolution. The listed resolutions will differ by monitor.                                                                                 | Dropdown |            |
-| Fullscreen mode   | Run osu! in fullscreen (decreases input latency).                                                                                                                     | Checkbox | `Disabled` |
-| Letterboxing      | Run osu! in fullscreen (decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black boarders. | Checkbox | `Enabled`  |
-| Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                            | Slider   | `0%`       |
-| Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                              | Slider   | `0%`       |
+| Name              | Effect                                                                                                                                                                          | Type     | Default    |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Resolution        | Changes the in-game screen resolution. The listed resolutions will differ by monitor.                                                                                           | Dropdown |            |
+| Fullscreen mode   | Run the osu!client in fullscreen (decreases input latency).                                                                                                                     | Checkbox | `Disabled` |
+| Letterboxing      | Run the osu!client in fullscreen (decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black boarders. | Checkbox | `Enabled`  |
+| Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                                      | Slider   | `0%`       |
+| Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                                        | Slider   | `0%`       |
 
 - If `Fullscreen mode` is disabled, the warning: `Running without fullscreen mode will increase your input latency!` will appear underneath it.
 
@@ -276,8 +276,8 @@ This section is about input peripherals.
 |-------------------------------------------|---------------------------------------------------------------------------------------------------|----------|------------------------|
 | Sensitivity                               | Adjust the sensitivity of the mouse cursor. If changed it may automatically enable `Raw Input`.   | Slider   | `1x`                   |
 | Raw Input                                 | Read mouse/tablet positional values directly from the hardware, without any post-processing.      | Button   | Disabled               |
-| Map absolute raw input to the osu! window | Confine input devices with absolute positioning (e.g. pen tablets) to the osu! window only.       | Button   | Enabled                |
-| Confine mouse cursor                      | Prevent mouse cursor from leaving the osu! window. See below for details.                         | Dropdown | `Only when fullscreen` |
+| Map absolute raw input to the osu! window | Confine input devices with absolute positioning (e.g. pen tablets) to the osu!client window only. | Button   | Enabled                |
+| Confine mouse cursor                      | Prevent mouse cursor from leaving the osu!client window. See below for details.                   | Dropdown | `Only when fullscreen` |
 | Disable mouse wheel in play mode          | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value.    | Button   | Disabled               |
 | Disable mouse buttons in play mode        | Disable mouse buttons during gameplay. This is helpful for keyboard users.                        | Button   | Disabled               |
 | Cursor ripples                            | Show subtle ripple effect when the mouse is clicked. Pressing `M1` and `M2` can trigger this too. | Button   | Disabled               |
@@ -377,18 +377,18 @@ This section is about beatmaps, updates, and debugging (cuttingedge only).
 
 ### General
 
-| Name                      | Effect                                                                                            | Type   |
-|---------------------------|---------------------------------------------------------------------------------------------------|--------|
-| Delete all unranked maps  | Delete all unranked maps in your songs folder.                                                    | Button |
-| Repair folder permissions | Give read/write permission on osu! to its folders. (Will need administrator password to proceed.) | Button |
-| Mark all maps as played   | Mark all maps as "played".                                                                        | Button |
-| Run osu! updater          | Close the osu!client and open the updater to search for updates and download if any.              | Button |
+| Name                      | Effect                                                                                                                 | Type   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------|--------|
+| Delete all unranked maps  | Delete all unranked maps in your songs folder.                                                                         | Button |
+| Repair folder permissions | Give read/write permission to the osu!client for access to its folders. (Will need administrator password to proceed.) | Button |
+| Mark all maps as played   | Mark all maps as "played".                                                                                             | Button |
+| Run osu! updater          | Close the osu!client and open the updater to search for updates and download if any.                                   | Button |
 
 ### Debug
 
 These settings are only in cuttingedge.
 
-**Notice**: Restarting osu! does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!
+**Notice**: Restarting the osu!client does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!
 
 | Name                            | Effect                                      | Type     | Default    |
 |---------------------------------|---------------------------------------------|----------|------------|
@@ -409,7 +409,7 @@ These settings are only in cuttingedge.
 
 ### Build Version
 
-Last but not least, the osu! build version.
+Last but not least, the osu!client build version.
 
 Here, you can see which build version you currently have and which type of build updates you are reciving.
 Clicking on this will direct you to the Release Notes using your preferred browser.
@@ -426,7 +426,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - `{revision}` is the build revision
   - If there is no build revision number, the decimal point will be removed.
 - `{type}` is the build type
-  - If there is no revision value, it is `Stable`.
+  - If there is no build type value, assume it is `Stable`.
 
 ## Trivia
 
@@ -437,7 +437,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 
 ### History
 
-- The old Options screen was an actual screen that had tabs, buttons, and a pale blue background.
+- The old Options screen was an actual screen that had tabs, buttons, and a dark pale blue background.
 - The old Options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!standard.
   - After the Options screen was moved over to a sidebar, this screen was still accessible by opening a skin file.
     - Access to this was later removed after Skin Previews and the Live Preview functions came to be.
