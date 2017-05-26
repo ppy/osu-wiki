@@ -130,7 +130,7 @@ Note: when the osu!client is not the active window, the fps limit is dropped to 
 | Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                            | Slider   | `0%`       |
 | Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                              | Slider   | `0%`       |
 
-If `Fullscreen mode` is disabled, the warning: `Running without fullscreen mode will increase your input latency!` will appear underneath it.
+- If `Fullscreen mode` is disabled, the warning: `Running without fullscreen mode will increase your input latency!` will appear underneath it.
 
 ### Detail Settings
 
@@ -238,7 +238,8 @@ This section is about audio related things.
 | Universal offset | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `100%`  |
 | Offset wizard    | Opens the offset wizard.                                                                   | Slider | `80%`   |
 
-For more details on using the offset wizard, see [How to use Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).
+- For details about the offset wizard, see [Offset Wizard](Offset_Wizard).
+- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 
