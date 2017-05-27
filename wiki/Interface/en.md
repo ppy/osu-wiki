@@ -1,5 +1,10 @@
-<img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" /> \_\_TOC\_\_
-=Main Menu= <img src="introscreen.png" title="fig:Main menu" alt="Main menu" width="280" />
+![Introduction screen](/img/Intro_static.png)
+
+# Interface 
+
+## Main Menu
+
+![Main Menu](/img/Introscreen.png)
 
 The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song currently playing on the Intro screen. If no song is playing, it pulses at a default slow rate. The keyboard shortcut is in parentheses.
 
@@ -15,7 +20,9 @@ The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song
 -   \[11\] Next to the userpanel, the number of beatmaps, current running time of the program and your computer clock time.
 -   \[12\] In the upper-left is your user panel, click on it to display User Options.
 
-==User Options== <img src="useroptions1.png" title="fig:User Options" alt="User Options" width="280" />
+## User Options
+
+![User Options](/img/Useroptions1.png)
 
 Access this screen by clicking your user panel at the top left of the Intro Screen. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option
 
@@ -24,17 +31,18 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 3.  **Change Avatar**: Open up the edit avatar page in your web browser
 4.  **Close** : Close this window
 
-=Play menu= <img src="introscreen2.png" title="fig:Play Menu" alt="Play Menu" width="280" />
+## Play Menu
 
+![Play Menu](/img/Introscreen2.png)
 -   Click Solo (P) to play alone.
 -   Click Multi (M) to play with other people. Yow will be directed to Multi Screen.
 -   Click Back to return to Main Menu
 
-==Multi's lobby==
+## Multi Lobby
 
 *Full explanation: [Multiplayer](Multiplayer "wikilink")*
 
-<img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
+![Multi Lobby](/img/Multi-Play-2016.png) ![Multi Host](/img/Multi play! (Host).jpg)
 
 Song Selection Screen
 ---------------------
