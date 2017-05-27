@@ -52,11 +52,11 @@ Twitch：[aiyulu](http://live.bilibili.com/10183)。
 
 ### Test match
 
-17, June 15:00(UTC+8)  新锐 Team vs 元老 Team (4v4）
+17, June 15:00(UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
 
-元老 Team：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+"The Elder" Team：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
 
-新锐 Team：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+"The Cutting-edge" Team：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
 
 ## Mappools
 
