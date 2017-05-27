@@ -1,4 +1,4 @@
-![Introduction screen](/img/Intro_static.png)
+![Introduction screen](/img/Intro_static.jpg)
 
 # Interface 
 
