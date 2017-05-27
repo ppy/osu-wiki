@@ -3,6 +3,8 @@
 [Taiko]: /wiki/shared/Taiko.gif
 [Ctb]: /wiki/shared/Ctb.gif
 [Mania]: /wiki/shared/Mania.gif
+[Heart]: /wiki/shared/Heart.gif
+[Fire]: /wiki/shared/Fire.gif
 
 # Interface 
 
@@ -48,7 +50,21 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 
 *Full explanation: [Multiplayer](Multiplayer "wikilink")*
 
-![Multi Lobby](/wiki/Interface/img/Multi-Play-2016.png) ![Multi Host](/wiki/Interface/img/Multi play!_Host.jpg)
+![Multi Lobby](/wiki/Interface/img/Multi-Play-2016.png)
+![Multi Host](/wiki/Interface/img/Multi-play!_Host.jpg)
+
+1. Your rank in the match.
+2. Your profile information. 
+3. Jukebox. 
+4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable). 
+5. The name of the match and the password settings.
+6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen. 
+7. The mods that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
+8. The team mode and win conditions. 
+9. The ready button.
+10. The chat box.
+11. The leave button. 
+12. Where your activated mods appear.
 
 ## Song Selection Screen
 
@@ -64,11 +80,14 @@ Because this screen has too many elements to note by easily noticeable numbers, 
 
 ![soloplay2.png](/wiki/Interface/img/Soloplay2.jpeg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. The BPM value listed is the deviation between highest and lowest BPM that occurs in the beatmap (timing section changes). "Objects" is the total number of [Hit Objects](Hit_Objects "wikilink") in the beatmap. A ![](heart.gif "fig:heart.gif")heart symbol at the upper left denotes a Ranked beatmap while a ![](fire.gif "fig:fire.gif")flame symbol denotes Approved beatmap. The Unicode title will be used if [allowed non-English metadata at Options under General section](Options#Language "wikilink") and the beatmap itself has Unicode title/artist.
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. The BPM value listed is the deviation between highest and lowest BPM that occurs in the beatmap (timing section changes). "Objects" is the total number of [Hit Objects](Hit_Objects "wikilink") in the beatmap. A ![][Heart]heart symbol at the upper left denotes a Ranked beatmap while a ![][Fire]flame symbol denotes Approved beatmap. The Unicode title will be used if [allowed non-English metadata at Options under General section](Options#Language "wikilink") and the beatmap itself has Unicode title/artist.
 
 -   Style: {Source} ({Artist}) - {Title} \[{Difficulty selected}\]
 
-===Group and Sort=== ![](soloplay3.jpeg "fig:soloplay3.jpeg")
+### Group and Sort
+
+![](/wiki/Interface/img/Soloplay3.jpeg)
+
 Click on one of the tabs to **sort your song list according to the selected criterion**.
 **Group** - Most options organize beatmaps into various expandable groups
 
@@ -101,7 +120,8 @@ Click on one of the tabs to **sort your song list according to the selected crit
 
 ### Search
 
-![](soloplay5.jpeg "fig:soloplay5.jpeg")
+![](/wiki/Interface/img/Soloplay5.jpeg)
+
 Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikilink") must not be active during typing or it will be considered Chat's text) and this search will be activated. Notes:
 
 -   The **beatmap list will display only the maps whose information fields** (Song artist, song name, beatmapper, difficulty names, tags) **match what you've typed.**
@@ -125,7 +145,9 @@ Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikil
 
 ### Rankings
 
-<img src="soloplay10.jpeg" title="fig:Online Ranking Table" alt="Online Ranking Table" width="280" /> <img src="soloplay11.jpeg" title="fig:Online commands for a beatmap. (Require Internet connection)" alt="Online commands for a beatmap. (Require Internet connection)" width="280" /> A variety of things can appear in this space:
+![](/wiki/Interface/img/Soloplay10.jpeg)
+
+ A variety of things can appear in this space:
 
 -   A "not yet submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
 -   If an "Update to latest version" box appears, click on it to attempt to replace this beatmap with its most current version from the osu! site.
@@ -145,7 +167,7 @@ Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikil
 | Global Ranking (Selected Mod) |
 | Friend Ranking                |
 
-Click the <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" />word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
+Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
 -   Press 1 or click the "Beatmap Listing/Scores" button and your default Internet browser will attempt to display the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
 -   Press 2 or click "Beatmap Topic" and your default Internet browser will attempt to display the forum thread of the beatmap set the selected beatmap belongs to.
@@ -156,11 +178,13 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 
 ### Song List
 
-<img src="soloplay6.jpeg" title="fig:Beatmap&#39;s Song list" alt="Beatmap&#39;s Song list" width="280" /> The **song list displays all the beatmaps you have downloaded**, with possible narrowing down depending on your selections in this screen. Boxes can have a lot of different colours:
+![](/wiki/Interface/img/Soloplay6.jpeg)
+
+The **song list displays all the beatmaps you have downloaded**, with possible narrowing down depending on your selections in this screen. Boxes can have a lot of different colours:
 
 -   <span style="background-color:#f00;">Red</span>: This beatmap only has one difficulty version.
--   <span style="background-color:#FFC0CB;">Pink</span>: This beatmap has not been played yet (on beatmap sets with more than one difficutly version).
--   <span style="background-color:#FFA500;">Orange</span>: This beatmap has been played (on beatmap sets with more than one difficutly version).
+-   <span style="background-color:#FFC0CB;">Pink</span>: This beatmap has not been played yet.
+-   <span style="background-color:#FFA500;">Orange</span>: This beatmap has been played.
 -   <span style="background-color:#00B8FF;">Light Blue</span>: Other beatmaps in the same set.
 -   <span style="background-color:#fff;">White</span>: This beatmap is currently selected.
 
