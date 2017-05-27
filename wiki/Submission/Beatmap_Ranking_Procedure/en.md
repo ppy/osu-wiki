@@ -27,7 +27,7 @@ Note: If your map has a bubble, then it will be popped if you update it. If the 
 Qualified / Ranked ![Heart icon](/wiki/shared/Heart.gif "Heart icon")
 -------------------------------------------------------------------------
 
-Once a map is bubbled, a BN can qualify it if the map meets the two criteria listed above. The reason two approval team members are required to check a map is because human beings make mistakes, and this greatly reduces the times of that a map makes it through the ranking system with a drastic error. If a map gets qualified but approval team members or anyone else found it missed a drastic error (ex. A 5mb video is included in the .osz that is not used), then it might get disqualified. After a map got into the qualified section for a certain amount of time (usually about one week) with no errors been found, it will automatically get ranked afterwards.
+Once a map is bubbled, a BN can qualify it if the map meets the two criteria listed above. The reason two approval team members are required to check a map is because human beings make mistakes, and this greatly reduces the times of that a map makes it through the ranking system with a drastic error. If a map gets qualified but approval team members or anyone else found it missed a drastic error (e.g. A 5mb video is included in the `.osz` that is not used), then it might get disqualified. After a map got into the qualified section for a certain amount of time (usually about one week) with no errors been found, it will automatically get ranked afterwards.
 
 Disqualified ![Heart-broken icon](/wiki/shared/Heartpop.gif "Heart-broken icon")
 ----------------------------------------------------------------------------------

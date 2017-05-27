@@ -1,7 +1,7 @@
 Beatmap Ranking Procedure (中文)
 ===================================
 
-<img src="Ranking procedure.png" title="Ranking flowchart." alt="Ranking flowchart." width="200" />
+![Ranking flowchart.](Ranking_procedure.png "Ranking flowchart.")
 
 谱面做好以后会放在论坛的Pending或者Work in Progress区。这些是还没审核通过的谱面。这些谱面没有计分板而且在帖子无回复和更新一段时间后会进入Graveyard区（也就是谱面的坟墓啦XD）。要想让谱面被移到Ranked区并且有自己的计分板的话，就必须经历一个谱面审核的过程。首先他必须要有一个泡（bubble），[BN可以给泡](/wiki/People/Beatmap_Nomination_Group)，然后才能rank。
 
