@@ -1,4 +1,3 @@
-
 # osu!MapDownloader
 
 ***This is not a game nor a port. It only downloads beatmaps and basic navigation.***
@@ -63,30 +62,17 @@ It was previously available in international Play Store but it has been taken do
 
 ![Main Menu](Omd_Main.jpg "Main Menu")
 
-_Main Menu_
-
 ![Main Menu (Tablet size)](Omd_TMain.jpg "Main Menu (Tablet size)")
-_Main Menu (Tablet size)_
 
 ![Song Preview](Omd_Preview.jpg "Song Preview")
 
-_Song Preview_
-
 ![Song Preview (Tablet size)](Omd_TPreview.jpg "Song Preview (Tablet size)")
-
-_Song Preview (Tablet size)_
 
 ![Settings (the sidebar)](Omd_Settings.jpg "Settings (the sidebar)")
 
-_Settings (the sidebar)_
-
 ![Downloads list](Omd_Downloads.jpg "Downloads list")
 
-_Downloads list_
-
 ![Player info page](Omd_Player.jpg "Player info page")
-
-_Player info page_
 
 ## Settings sidebar
 
