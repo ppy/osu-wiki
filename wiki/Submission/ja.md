@@ -71,7 +71,7 @@ Starは**Moderatorが譜面が良好だと判断しつつも、Bubble![Thinking 
 
 これは"Kudosu Star"とは別のものなので混同しないように注意をしてください。KudosuはModderが良いと思った譜面に与えられるもので、それによって譜面の優先順位を変更させることができます。
 
-よりKudosuに関して詳しい情報が必要なら[Kudosuを参照してください](/wiki/Glossary/#kudosu!)。
+よりKudosuに関して詳しい情報が必要なら[Kudosuを参照してください](/wiki/Glossary/#kudosu)。
 
 #### No symbol
 

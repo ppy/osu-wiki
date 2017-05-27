@@ -71,7 +71,7 @@ Biasanya dipanggil *Bubble (Gelembung)* untuk lebih singkatnya, simbol ini diber
 
 Sebuah bintang diberikan pada sebuah beatmap yang **BN anggap telah benar namun masih membutuhkan beberapa peningkatan sebelum ia menyetujuinya dengan sebuah ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Gelembung Pemikiran.** Contoh termasuk beberapa sedikit penyesuaian pada timing, jarak ketukan yang kurang tepat pada beberapa bagian, atau membutuhkan tambahan versi tingkat kesulitan.
 
-Ini seharusnya TIDAK membuat kerancuan dengan sebuah "Bintang Kudosu". Sebuah Bintang Kudosu diberikan oleh modder yang berpikir bahwa map tersebut layak mendapatkannya. Bintang Kudosu memberikan berbagai macam bintang prioritas bergantung siapa yang memberikannya, tapi mereka dapat menempatkan map leih tinggi pada daftar prioritas. Tolong lihat [Kudosu](/wiki/Glossary/#kudosu!) untuk informasi lebih lanjut tentang Kudosu.
+Ini seharusnya TIDAK membuat kerancuan dengan sebuah "Bintang Kudosu". Sebuah Bintang Kudosu diberikan oleh modder yang berpikir bahwa map tersebut layak mendapatkannya. Bintang Kudosu memberikan berbagai macam bintang prioritas bergantung siapa yang memberikannya, tapi mereka dapat menempatkan map leih tinggi pada daftar prioritas. Tolong lihat [Kudosu](/wiki/Glossary/#kudosu) untuk informasi lebih lanjut tentang Kudosu.
 
 #### Tanpa simbol
 

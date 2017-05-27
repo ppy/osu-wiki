@@ -1,12 +1,7 @@
 SGL Tool
 ===========
 
-[*The new SGL Tool (Beta) - Generate Storyboards* by: MoonShade](https://osu.ppy.sh/forum/t/118733)
-
-peppy asked me/encouraged me a long long while ago to built SGL with C\# so it can be built in osu! once it is somewhat usable in a productive environment. In this time, I almost finished the project, then lost interest and had lot of other things on the go and long story short, I now want this project to move forward again. This project is somewhat related to my old SGL, but I built everything from scratch, changed the language a lot and used other technologies to built this tool, so I think a new topic for this is needed.
-
-What is SGL?
-------------
+>peppy asked me/encouraged me a long long while ago to built SGL with C\# so it can be built in osu! once it is somewhat usable in a productive environment. In this time, I almost finished the project, then lost interest and had lot of other things on the go and long story short, I now want this project to move forward again. This project is somewhat related to my old SGL, but I built everything from scratch, changed the language a lot and used other technologies to built this tool, so I think a new topic for this is needed.
 
 **SGL** means "**S**toryboard **G**eneration **L**anguage", it's a programming language with the only purpose of it is to produce storyboard code - both simple storyboard and very complicated ones. What's basically better about SGL than scripting everything by hand? Well, I guess you can't write thousands lines of storyboard code all by yourself now, can you? Also it's very easy to change many parameters at once if you code wisely. 
 
@@ -49,3 +44,8 @@ that hopefully will be fixed in the next release:
 
 -   Compiler blocks UI
 -   Several Bugs, see Bug List
+
+Trivia
+--------
+
+- [*The new SGL Tool (Beta) - Generate Storyboards* by: MoonShade](https://osu.ppy.sh/forum/t/118733)

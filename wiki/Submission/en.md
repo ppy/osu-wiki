@@ -71,7 +71,7 @@ Usually called "Bubble" for short, this symbol is given when **a Beatmap Nominat
 
 A Star is given to a beatmap **a Beatmap Nominator judges to be on the right track but still needing a few more improvements before he or she approves of it with a ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble.** Examples include fairly minor adjustments in timing, incorrect Beat Spacing in some areas, or needing to create additional difficulty versions.
 
-This is NOT to be confused with a "Kudosu Star". A Kudosu Star is given out by modders to maps that they think are good. Kudosu Stars give out varying priority points depending on who gives them, but they can place a map higher in the priority list. Please see [Kudosu](/wiki/Glossary/#kudosu!) for information more information on Kudosu.
+This is NOT to be confused with a "Kudosu Star". A Kudosu Star is given out by modders to maps that they think are good. Kudosu Stars give out varying priority points depending on who gives them, but they can place a map higher in the priority list. Please see [Kudosu](/wiki/Glossary/#kudosu) for information more information on Kudosu.
 
 #### No symbol
 

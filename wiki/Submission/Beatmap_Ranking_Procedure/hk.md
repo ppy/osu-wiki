@@ -6,7 +6,7 @@ Beatmap Ranking Procedure (粵語)
 泡泡（Bubble） ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon")
 ------------------------------------------------------------------------------
 
-在一個譜面被[BN移到ranked區前](/wiki/People/Beatmap_Nomination_Group)，它必須先有一個泡。一個譜面要想rank，至少必須先有8個星(Kudosu)。而星是自己或者其他人消耗[Kudosu來給一個譜面加上的](/wiki/Glossary/#kudosu!)。一個[Kudosu可以射一個星](/wiki/Glossary/#kudosu!)，在製圖者的資料頁面或者譜面論壇都可以射星。在譜面有8顆星後，[BN就可以給泡了](/wiki/People/Beatmap_Nomination_Group)，有以下兩種可能：
+在一個譜面被[BN移到ranked區前](/wiki/People/Beatmap_Nomination_Group)，它必須先有一個泡。一個譜面要想rank，至少必須先有8個星(Kudosu)。而星是自己或者其他人消耗[Kudosu來給一個譜面加上的](/wiki/Glossary/#kudosu)。一個[Kudosu可以射一個星](/wiki/Glossary/#kudosu)，在製圖者的資料頁面或者譜面論壇都可以射星。在譜面有8顆星後，[BN就可以給泡了](/wiki/People/Beatmap_Nomination_Group)，有以下兩種可能：
 
 1. 譜面完全符合審核標準。一般來說，這意味著譜面必須有正確的[Timing](/wiki/Beatmap_Editor/Timing)，至少兩個難度（其中至少一個簡單或者普通難度），並且符合音樂，有可玩性。
 

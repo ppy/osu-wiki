@@ -1,6 +1,6 @@
 # osu!MapDownloader
 
-***This is not a game nor a port. It only downloads beatmaps and basic navigation.***
+***This is not a game nor a port. It only downloads beatmaps and contains basic navigation.***
 
 ![osu!MapDownloader](O!md.png "osu!MapDownloader")
 
@@ -14,10 +14,10 @@ It was previously available in international Play Store but it has been taken do
 
 -   Use the link: [Dropbox (1.3.2)](https://www.dropbox.com/s/94cr8u8bnpvyhcv/osu_map_downloader_1.3.2.apk?dl=0)
     -   Alternatively, [ZH's ver. Play Store](http://shouji.baidu.com/software/item?docid=7336907). Click on "APK文件" located below the green button.
--   Transfer the .apk file to your device using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
+-   Transfer the `.apk` file to your device using the suitable USB cable (Bluetooth is possible but using USB is much more efficient).
     -   Please set your device to "USB connection mode" first. (Depending on your device)
--   Find and open the .apk file from your device.
--   Allow the .apk to install.
+-   Find and open the `.apk` file from your device.
+-   Allow the `.apk` to install.
     -   If your phone alerts you about the security issue, disable the "Unknown source button". You can re-enable it later anyway in Settings.
 -   "osu!MapDownloader" is now installed in your phone.
 
@@ -25,8 +25,8 @@ It was previously available in international Play Store but it has been taken do
 
 -   Open your preferred browser in your device.
 -   Use the link: [Dropbox (1.3.2)](https://www.dropbox.com/s/94cr8u8bnpvyhcv/osu_map_downloader_1.3.2.apk?dl=0)
--   Wait for the download to complete and open the .apk file from your device.
--   Allow the .apk to install.
+-   Wait for the download to complete and open the `.apk` file from your device.
+-   Allow the `.apk` to install.
     -   If your phone alerts you about the security issue, disable the "Unknown source button". You can re-enable it later anyway in Settings.
 -   "osu!MapDownloader" is now installed in your phone.
 

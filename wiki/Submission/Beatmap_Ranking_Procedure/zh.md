@@ -8,7 +8,7 @@ Beatmap Ranking Procedure (中文)
 泡（Bubble） ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon")
 -------------------------------------------------
 
-在一个谱面被[BN移到ranked区前](/wiki/People/Beatmap_Nomination_Group)，它必须先有一个泡。一个谱面要想rank，至少必须先有8个星。而星是自己或者其他人消耗[kudosu来给一个谱面加上的](/wiki/Glossary/#kudosu!)。一个[kudosu可以射一个星](/wiki/Glossary/#kudosu!)，在制图者的资料页面或者谱面论坛都可以射星。在谱面有8颗星后，[BN就可以给泡了](/wiki/People/Beatmap_Nomination_Group)，有以下两种可能：
+在一个谱面被[BN移到ranked区前](/wiki/People/Beatmap_Nomination_Group)，它必须先有一个泡。一个谱面要想rank，至少必须先有8个星。而星是自己或者其他人消耗[kudosu来给一个谱面加上的](/wiki/Glossary/#kudosu)。一个[kudosu可以射一个星](/wiki/Glossary/#kudosu)，在制图者的资料页面或者谱面论坛都可以射星。在谱面有8颗星后，[BN就可以给泡了](/wiki/People/Beatmap_Nomination_Group)，有以下两种可能：
 
 1. 谱面完全符合审核标准。一般来说，这意味着谱面必须有正确的计时，至少两个难度（其中至少一个简单或者普通难度），并且符合音乐，有可玩性。
 
