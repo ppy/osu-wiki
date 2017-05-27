@@ -637,5 +637,5 @@
     'sounds_skinning_tutorial'                   => 'Skinning/Tutorial/Sounds',
     'sounds_skin_tutorial'                       => 'Skinning/Tutorial/Sounds',
 
-    'sbs'                                        => 'Storyboard_Scripting'
+    'sbs'                                        => 'Storyboard_Scripting',
 ]
