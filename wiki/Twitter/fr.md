@@ -1,6 +1,6 @@
 ## Nous tweetons aussi!
 
-osu! a plusieurs comptes twitter, chacun sert à quelque chose de différent. La plupart ne tweetent que peu mais vous gardent au courant de ce qui se passe dans l'écosystème d'osu!
+osu! a plusieurs comptes twitter, chacun sert à quelque chose de différent. La plupart ne tweetent qu'un peu mais vous gardent au courant de ce qui se passe dans l'écosystème d'osu!
 
 Avatar | Compte | Description
 :----: | :----: | -----------
