@@ -1,2 +1,4 @@
-asg /wiki/Article_Style_Guide
-pp /wiki/Performance_Points
+[
+    'pp' => 'Performance_Points',
+    'asg' => 'Article_Style_Guide',
+]
