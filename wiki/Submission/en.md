@@ -14,7 +14,7 @@ Submission
 
 ### Before submitting a beatmap
 
-Before submitting your beatmap, make sure you've tried to make it as good as your current experience allows. However, don't hesitate to submit your beatmap if you're new to beatmapping or if you believe there is still something wrong with it - everyone is here to help, it's just better if you show you've made some effort and took some care in creating your beatmap. Try reading the relevant help sections for tips on how to make a good beatmap.
+Before submitting your beatmap, make sure you've tried to make it as good as your current experience allows. However, do not hesitate to submit your beatmap if you're new to beatmapping or if you believe there is still something wrong with it - everyone is here to help, it's just better if you show you've made some effort and took some care in creating your beatmap. Try reading the relevant help sections for tips on how to make a good beatmap.
 
 ### Submitting a Beatmap
 
@@ -61,7 +61,7 @@ Once a second Beatmap Nominator nominates a beatmap with a ![Thinking icon](/wik
 
 #### ![Fire icon](/wiki/shared/Fire.gif "Fire icon") Flame
 
-A Flame is given to beatmaps that don't have the technical problems that ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuked beatmaps have, and it is considered as Approved beatmaps because they are long and fit within the Ranking Criteria. Older Approval criteria included total score or difficulty, but only length is taken into account now. Those maps are typically difficult and made as a challenge to top players.
+A Flame is given to beatmaps that do not have the technical problems that ![Nuke icon](/wiki/shared/Radioactive.gif "Nuke icon") Nuked beatmaps have, and it is considered as Approved beatmaps because they are long and fit within the Ranking Criteria. Older Approval criteria included total score or difficulty, but only length is taken into account now. Those maps are typically difficult and made as a challenge to top players.
 
 #### ![Thinking icon](/wiki/shared/Thinking.gif "Thinking icon") Thought Bubble
 
@@ -85,7 +85,7 @@ Beatmap Nominators are only human. If a beatmap happens to be qualified and the 
 
 This symbol is given to beatmaps which **fail to follow even the most basic of guidelines**, such as having wildly incorrect timing or objects placed at random on the grid and/or timeline, and thus need a lot of improvement to even begin considering to Rank them.
 
-A Nuke symbol on a beatmap does not mean the moderators disapprove of it in general. It just means they disapprove of *its current condition*. If your beatmap is marked with a Nuke, don't worry - you can usually turn this around if you're determined:
+A Nuke symbol on a beatmap does not mean the moderators disapprove of it in general. It just means they disapprove of *its current condition*. If your beatmap is marked with a Nuke, do not worry - you can usually turn this around if you're determined:
 
 -   Pay close attention to the moderator's comments and suggestions in the thread.
 -   Read the [Beatmapping](/wiki/Beatmapping), Help pages, and/or watch tutorials on beatmapping.
@@ -106,7 +106,7 @@ Even if your beatmap gets sent to the graveyard, you can easily recover it from 
 It is very hard to list all possible issues that can prevent a beatmap for being ranked, since each beatmap is a unique creation. However, here are some general guidelines that a beatmap set should follow in order to be ranked:
 
 -   **Perfectly timed.** This means that your BPM and offset are spot-on, sliders end when they should, and notes are generally following a rhythm which is comprehensible to a player.
--   Beat placement generally follows the time-distance-equality rule (holding Alt while placing beats or turning the Distance Snap icon on enforces this). This means you shouldn't have some fast notes with huge distance between them and/or closely placed but slow notes. This gets really confusing if the player isn't the person who designed the beatmap! Having some logic to the placement should be one of your goals. In Insane difficulty maps, this guideline might be relaxed a bit more.
+-   Beat placement generally follows the time-distance-equality rule (holding Alt while placing beats or turning the Distance Snap icon on enforces this). This means you shouldn't have some fast notes with huge distance between them and/or closely placed but slow notes. This gets really confusing if the player is not the person who designed the beatmap! Having some logic to the placement should be one of your goals. In Insane difficulty maps, this guideline might be relaxed a bit more.
 -   **At least two difficulties per song**; more difficulties are highly recommended, especially if one of them is rated with 4 or more difficulty stars (in the song selection screen). It is very preferable that you include an easier version with 3 or less stars. There are a lot of players who are not so skilled at rhythm games - and this is one of the more difficult ones to get used to, so we should look at providing beatmaps which are passable even for beginners!
 -   **Make sure you can pass the song, or at least its easier difficulties.** If you can't test the harder difficulties, you can ask for BAT assistance or ask around in the [Chat Console](/wiki/Chat_Console).
 -   The song should not be too long! Aim for 2-3 minutes maximum. Anything longer could get tiring. If you need help editing a song down to length, feel free to ask in the Beatmap Help forum.
@@ -142,4 +142,4 @@ Depending on how many ranked maps you have, you are allowed between **3 to 6 unr
 
 **osu!supporters** have a larger cap and are allowed between **4 to 10 unranked maps.**
 
-Unranked beatmaps in the graveyard *don't have a limit*, but could someday, in the far-ish future, get automatically deleted to preserve space for other beatmaps.
+Unranked beatmaps in the graveyard *do not have a limit*, but could someday, in the far-ish future, get automatically deleted to preserve space for other beatmaps.
