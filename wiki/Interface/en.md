@@ -1,10 +1,16 @@
-![Introduction screen](/img/Intro_static.jpg)
+<!--Logo definitions-->
+[Osu!]: /wiki/shared/Osu.gif
+[Taiko]: /wiki/shared/Taiko.gif
+[Ctb]: /wiki/shared/Ctb.gif
+[Mania]: /wiki/shared/Mania.gif
 
 # Interface 
 
+![Introduction screen](/wiki/Interface/img/Intro_static.jpg)
+
 ## Main Menu
 
-![Main Menu](/img/Introscreen.png)
+![Main Menu](/wiki/Interface/img/Introscreen.png)
 
 The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song currently playing on the Intro screen. If no song is playing, it pulses at a default slow rate. The keyboard shortcut is in parentheses.
 
@@ -22,7 +28,7 @@ The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song
 
 ## User Options
 
-![User Options](/img/Useroptions1.png)
+![User Options](/wiki/Interface/img/Useroptions1.png)
 
 Access this screen by clicking your user panel at the top left of the Intro Screen. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option
 
@@ -33,7 +39,7 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 
 ## Play Menu
 
-![Play Menu](/img/Introscreen2.png)
+![Play Menu](wiki/Interface/img/Introscreen2.png)
 -   Click Solo (P) to play alone.
 -   Click Multi (M) to play with other people. Yow will be directed to Multi Screen.
 -   Click Back to return to Main Menu
@@ -42,22 +48,22 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 
 *Full explanation: [Multiplayer](Multiplayer "wikilink")*
 
-![Multi Lobby](/img/Multi-Play-2016.png) ![Multi Host](/img/Multi play! (Host).jpg)
+![Multi Lobby](/wiki/Interface/img/Multi-Play-2016.png) ![Multi Host](/wiki/Interface/img/Multi play!_Host.jpg)
 
-Song Selection Screen
----------------------
+## Song Selection Screen
 
-<img src="soloplay1.jpeg" title="Song selection" alt="Song selection" width="300" />
+![Song Selection](/wiki/Interface/img/Soloplay1.jpeg)
 
 Note: You can identify the song selection for a specific mode by checking the transparent leitmotif.
 
-![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
+![][Osu!]"osu!" is [osu!](Standard "wikilink"), ![][Taiko]"Drum" is [Taiko](Taiko "wikilink"), ![][Ctb]"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania]"Piano" is [osu!mania](Mania "wikilink")
 
 Because this screen has too many elements to note by easily noticeable numbers, this section will focus on one part of the screen at a time, starting from the top (left to right) and continuing downwards.
 
 ### Beatmap Information
 
-<img src="soloplay2.jpeg" title="fig:soloplay2.jpeg" alt="soloplay2.jpeg" width="400" />
+![soloplay2.png](/wiki/Interface/img/Soloplay2.jpeg)
+
 This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. The BPM value listed is the deviation between highest and lowest BPM that occurs in the beatmap (timing section changes). "Objects" is the total number of [Hit Objects](Hit_Objects "wikilink") in the beatmap. A ![](heart.gif "fig:heart.gif")heart symbol at the upper left denotes a Ranked beatmap while a ![](fire.gif "fig:fire.gif")flame symbol denotes Approved beatmap. The Unicode title will be used if [allowed non-English metadata at Options under General section](Options#Language "wikilink") and the beatmap itself has Unicode title/artist.
 
 -   Style: {Source} ({Artist}) - {Title} \[{Difficulty selected}\]
