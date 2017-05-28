@@ -87,6 +87,68 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Match Schedule: Group Stage
+
+### Saturday, 3. June 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **9.00 UTC** | 21.00 UTC +12 | 12.00 UTC +3 |
+| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **9.00 UTC** | 17.00 UTC +8 | 19.00 UTC +10 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **9.00 UTC** | 17.00 UTC +8 | 18.00 UTC +9 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **10.00 UTC** | 18.00 UTC +8 | 17.00 UTC +7 |
+| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
+| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 20.00 UTC +10 | 19.00 UTC +9 |
+| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/It.gif) | Italy | **11.00 UTC** | 19.00 UTC +8 | 13.00 UTC +2 |
+| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **11.00 UTC** | 19.00 UTC +8 | 14.00 UTC +3 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
+| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **12.00 UTC** | 14.00 UTC +2 | 20.00 UTC +8 |
+| Russian Federation | ![](/wiki/shared/flag/Ru.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **12.00 UTC** | 15.00 UTC +3 | 14.00 UTC +2 |
+| Finland | ![](/wiki/shared/flag/Fi.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **12.00 UTC** | 15.00 UTC +3 | 21.00 UTC +9 |
+| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 |
+| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **13.00 UTC** | 15.00 UTC +2 | 15.00 UTC +2 |
+| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **13.00 UTC** | 15.00 UTC +2 | 16.00 UTC +3 |
+| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
+| Norway | ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
+| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
+| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 12.00 UTC -7 |
+| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **19.00 UTC** | 15.00 UTC -4 | 21.00 UTC +2 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
+| Netherlands | ![](/wiki/shared/flag/Nl.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **20.00 UTC** | 22.00 UTC +2 | 13.00 UTC -7 |
+| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 22.00 UTC +2 | 13.00 UTC -7 |
+| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **20.00 UTC** | 17.00 UTC -3 | 22.00 UTC +2 |
+| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **21.00 UTC** | 17.00 UTC -4 | 17.00 UTC -4 |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **21.00 UTC** | 14.00 UTC -7 | 22.00 UTC +1 |
+
+### Sunday, 4. June 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **3.00 UTC** | 22.00 (Sat.) UTC -5 | 12.00 UTC +9 |
+| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **3.00 UTC** | 20.00 (Sat.) UTC -7 | 11.00 UTC +8 |
+| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 |
+| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **4.00 UTC** | 14.00 UTC +10 | 23.00 (Sat.) UTC -5 |
+| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
+| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **10.00 UTC** | 18.00 UTC +8 | 18.00 UTC +8 |
+| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
+| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **11.00 UTC** | 19.00 UTC +8 | 13.00 UTC +2 |
+| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **11.00 UTC** | 19.00 UTC +8 | 20.00 UTC +9 |
+| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **11.00 UTC** | 13.00 UTC +2 | 12.00 UTC +1 |
+| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **12.00 UTC** | 14.00 UTC +2 | 19.00 UTC +7 |
+| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **12.00 UTC** | 14.00 UTC +2 | 15.00 UTC +3 |
+| Finland | ![](/wiki/shared/flag/Fi.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 15.00 UTC +3 | 20.00 UTC +8 |
+| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
+| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **13.00 UTC** | 15.00 UTC +2 | 15.00 UTC +2 |
+| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **13.00 UTC** | 10.00 UTC -3 | 16.00 UTC +3 |
+| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **14.00 UTC** | 16.00 UTC +2 | 16.00 UTC +2 |
+| Romania | ![](/wiki/shared/flag/Ro.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **14.00 UTC** | 17.00 UTC +3 | 16.00 UTC +2 |
+| Norway | ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **14.00 UTC** | 16.00 UTC +2 | 16.00 UTC +2 |
+| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **15.00 UTC** | 12.00 UTC -3 | 22.00 UTC +7 |
+| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
+| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **15.00 UTC** | 11.00 UTC -4 | 17.00 UTC +2 |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
