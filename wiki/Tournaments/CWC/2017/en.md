@@ -154,6 +154,8 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Group Stage
 
+**[Download the mappack here! (120 MB)](http://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar)**
+
 | NoMod | |
 | --- | :--- |
 | [ensou ft GUMI - COMA (Nelly)](http://osu.ppy.sh/b/1299618&m=2) | [Rain] |
