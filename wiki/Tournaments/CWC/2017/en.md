@@ -43,6 +43,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589552)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1ukKQD-q9mOaEX0gWhhKdma9o-HlI_n9Bz5g6l88j3lc/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -146,6 +147,44 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Sorcerer](https://osu.ppy.sh/users/1913190)**, [DarnedUrchin](https://osu.ppy.sh/users/4928846), [Olib](https://osu.ppy.sh/users/4044289), [FABninja](https://osu.ppy.sh/users/5257769), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Martin22](https://osu.ppy.sh/users/4209402) |
 | ![](/wiki/shared/flag/Us.gif) | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241), [Ascendance](https://osu.ppy.sh/users/2931883) |
 | ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [Yudara](https://osu.ppy.sh/users/3564018), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050) |
+
+------------------------------------------------------------------------
+
+## Mappools
+
+### Group Stage
+
+| NoMod | |
+| --- | :--- |
+| [ensou ft GUMI - COMA (Nelly)](http://osu.ppy.sh/b/1299618&m=2) | [Rain] |
+| [Obsidia - Crazy (Drafura)](http://osu.ppy.sh/b/241869&m=2) | [Etoile] |
+| [m.o.v.e - DOGFIGHT (CLSW)](http://osu.ppy.sh/b/1251462&m=2) | [Rain] |
+| [wa. vs celas - Vajuranda (alienflybot)](http://osu.ppy.sh/b/684820&m=2) | [Deif's Rain] |
+| [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy)](http://osu.ppy.sh/b/311898&m=2) | [Flower's Lunatic] |
+| [Rise Against - The Good Left Undone (pishifat)](http://osu.ppy.sh/b/795712&m=2) | [Extra] |
+
+| Hidden | |
+| --- | :--- |
+| [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo)](http://osu.ppy.sh/b/1023582&m=2) | [Hyperion's Rain] |
+| [Kaneko Chiharu - iLLness LiLin (Fresh Chicken)](http://osu.ppy.sh/b/1279951&m=2) | [tasuke's C.EXHAUST] |
+| [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w)](http://osu.ppy.sh/b/153418&m=2) | [YuruYuri] |
+
+| HardRock | |
+| --- | :--- |
+| [Eiko Shimamiya - Higurashi no Naku Koro ni (TV size) (Betsuto)](http://osu.ppy.sh/b/292827&m=2) | [Platter] |
+| [Camellia - Chirality (RLC)](http://osu.ppy.sh/b/531216&m=2) | [Hard] |
+| [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna)](http://osu.ppy.sh/b/114651&m=2) | [Apricotan!] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Goose house - Hikaru nara (Ascendance)](http://osu.ppy.sh/b/1246823&m=2) | [Platter] (x) |
+| [Tokyo Machine - OKAY (WildOne94)](http://osu.ppy.sh/b/1080445&m=2) | [Platter] (x) |
+| [07th Expansion - the executioner (Natteke)](http://osu.ppy.sh/b/91198&m=2) | [Hard] (x) |
+
+| Tiebreaker | |
+| --- | :--- |
+| [MISATO - Necro Fantasia (Chromoxx)](http://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] (x) |
+
 
 ------------------------------------------------------------------------
 
