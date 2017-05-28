@@ -71,10 +71,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
 | Norway | ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
 | Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
-| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 12.00 UTC -7 |
+| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
 | Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **19.00 UTC** | 15.00 UTC -4 | 21.00 UTC +2 |
 | Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
-| Netherlands | ![](/wiki/shared/flag/Nl.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **20.00 UTC** | 22.00 UTC +2 | 13.00 UTC -7 |
+| Netherlands | ![](/wiki/shared/flag/Nl.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **20.00 UTC** | 22.00 UTC +2 | 16.00 UTC -4 |
 | Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 22.00 UTC +2 | 13.00 UTC -7 |
 | Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **20.00 UTC** | 17.00 UTC -3 | 22.00 UTC +2 |
 | Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **21.00 UTC** | 17.00 UTC -4 | 17.00 UTC -4 |
@@ -86,7 +86,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **3.00 UTC** | 22.00 (Sat.) UTC -5 | 12.00 UTC +9 |
 | Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **3.00 UTC** | 20.00 (Sat.) UTC -7 | 11.00 UTC +8 |
-| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 21.00 (Sat.) UTC -7 |
+| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 00.00 UTC -4 |
 | Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **4.00 UTC** | 14.00 UTC +10 | 23.00 (Sat.) UTC -5 |
 | New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
 | Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **10.00 UTC** | 18.00 UTC +8 | 18.00 UTC +8 |
@@ -179,13 +179,13 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 | DoubleTime | |
 | --- | :--- |
-| [Goose house - Hikaru nara (Ascendance)](http://osu.ppy.sh/b/1246823&m=2) | [Platter] (x) |
-| [Tokyo Machine - OKAY (WildOne94)](http://osu.ppy.sh/b/1080445&m=2) | [Platter] (x) |
-| [07th Expansion - the executioner (Natteke)](http://osu.ppy.sh/b/91198&m=2) | [Hard] (x) |
+| [Goose house - Hikaru nara (Ascendance)](http://osu.ppy.sh/b/1246823&m=2) | [Platter] |
+| [Tokyo Machine - OKAY (WildOne94)](http://osu.ppy.sh/b/1080445&m=2) | [Platter] |
+| [07th Expansion - the executioner (Natteke)](http://osu.ppy.sh/b/91198&m=2) | [Hard] |
 
 | Tiebreaker | |
 | --- | :--- |
-| [MISATO - Necro Fantasia (Chromoxx)](http://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] (x) |
+| [MISATO - Necro Fantasia (Chromoxx)](http://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] |
 
 
 ------------------------------------------------------------------------
