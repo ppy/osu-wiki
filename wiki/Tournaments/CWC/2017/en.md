@@ -20,13 +20,13 @@ The **osu!catch World Cup 2017** (**_CWC 2017_**) is a country-based osu!catch t
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
+In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | unique item, profile badge, "osu!catch Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | unique item, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | unique item, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
 
 ## Organization
 
