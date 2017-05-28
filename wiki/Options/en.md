@@ -1,6 +1,6 @@
 # Options
 
-![Options menu](img/options_basic.jpg "Options menu (yes, that sidebar at left)")
+![Options menu](img/options_basic.jpg "Options menu (sidebar on left)")
 
 Click `Options`, press `O` in the Intro Screen or press `Ctrl` + `O` in almost any screen to access the Options sidebar and change the way _osu!_ behaves.
 

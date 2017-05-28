@@ -4,7 +4,7 @@ To access this dialog, open the [Options](/wiki/Options/), type in `change` then
 
 Here, you can change reassign keyboard keys with the listed actions.
 
-**Be aware** that the osu!client will not notify you for keys used multiple times (this includes conflicting keys)!
+**Notice:** the osu!client will not notify you for keys used multiple times (this includes conflicting keys)!
 
 ## osu! Standard Mode
 
@@ -39,7 +39,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Increase Speed | `F3`    |
 | Decrease Speed | `F4`    |
 
-Notes:
+**Notes:**
 
 - You can also use `Ctrl` + `+` to increase speed
 - You can also use `Ctrl` + `-` to decrease speed
@@ -55,7 +55,7 @@ Notes:
 | Decrease Local Song Offset | `-` (minus) |
 | Quick Retry (hold briefly) | `~` (tilde) |
 
-Notes:
+**Notes:**
 
 - If you change the binding to `Game Pause`, `Esc` can still be used to pause the game.
 - `Quick Retry` requires the player to hold the key for ~2 seconds.
@@ -72,6 +72,8 @@ Notes:
 | Decrease Volume        | `Down Arrow` |
 | Disable Mouse buttons  | `F10`        |
 | Boss Key               | `Insert`     |
+
+**Notes:**
 
 - `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
   - When used, osu! will mute itself and hide the window in the toolbar.
@@ -121,7 +123,7 @@ Notes:
 | Spun Out     | `C`     |
 | Auto         | `V`     |
 
-Notes:
+**Notes:**
 
 - By default, these key binds are positioned the same way how the mod icons are positioned.
 - You may need to press the key twice to access mod icons hidden underneath them.
@@ -129,13 +131,13 @@ Notes:
 
 ## Reset all Bindings
 
-Caution: this button does **not** confirm you if you had really wanted to do so!
+**Caution:** this button does **not** confirm you if you had really wanted to do so!
 
 This button will reset all bindings to their defaults listed above.
 
 ## Trivia
 
-For mod select:
+**For mod select:**
 
 - The mania xK mods are not listed there.
   - You can press keys `3` to `9` to enabled the xK mods.
