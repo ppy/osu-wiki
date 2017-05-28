@@ -27,7 +27,7 @@
 ![](/wiki/shared/SCrown.png) 2个月![撒泼特]；  
 ![](/wiki/shared/BCrown.png) 1个月![撒泼特]。
 
-## 比赛主板团队
+## 比赛主办团队
 
 [CN]: /wiki/shared/flag/Cn.gif "China"
 [UK]: /wiki/shared/flag/Gb.gif "Great Britain"
