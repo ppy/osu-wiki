@@ -41,7 +41,7 @@ Access this screen by clicking your user panel at the top left of the Intro Scre
 
 ## Play Menu
 
-![Play Menu](wiki/Interface/img/Introscreen2.png)
+![Play Menu](/wiki/Interface/img/Introscreen2.png)
 -   Click Solo (P) to play alone.
 -   Click Multi (M) to play with other people. Yow will be directed to Multi Screen.
 -   Click Back to return to Main Menu
@@ -192,23 +192,30 @@ You can navigate the beatmap list using the \[1\]mouse wheel, \[2\]up and down a
 
 ### Gameplay toolbox
 
-<img src="soloplay7.jpeg" title="fig:soloplay7.jpeg" alt="soloplay7.jpeg" width="400" /> <img src="Mode screen.png" title="fig:List of available Game modes" alt="List of available Game modes" width="100" /> This section can be called gameplay toolbox. We will cover each button usages from left to right order.
+![List of available game modes](/wiki/Interface/img/Mode_screen.png)
+![](/wiki/Interface/img/Soloplay7.jpeg)
+
+This section can be called the gameplay toolbox. We will cover each button's use from left to right.
 
 Pressing ESC or click the Back button to return to Main Menu
 
-Click on the "Mode" button to **open up a list of gameplay modes available on osu!**. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style along with the scoreboard change. Alternatively, you can press CTRL and 1 (![](osu.gif "fig:osu.gif")[osu! Standard](Standard "wikilink")) / 2 (![](taiko.gif "fig:taiko.gif")[Taiko](Taiko "wikilink")) / 3 (![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](Catch_the_Beat "wikilink")) / 4 (![](mania.gif "fig:mania.gif")[osu!mania](osu!mania "wikilink")) on your keyboard to quickly switch to your desired gameplay mode.
+Click on the "Mode" button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (![][Osu!][osu! Standard](Standard "wikilink")) / 2 (![][Taiko][Taiko](Taiko "wikilink")) / 3 (![][Ctb][Catch the Beat](Catch_the_Beat "wikilink")) / 4 (![][Mania[osu!mania](osu!mania "wikilink")) on your keyboard to quickly switch to your desired gameplay mode.
 
-<img src="soloplay8.png" title="fig:Game Modifiers" alt="Game Modifiers" width="280" /> Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](Game_Modifiers "wikilink")**.
+![Game modifiers](/wiki/Interface/img/Soloplay8.png)
+
+Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](Game_Modifiers "wikilink")**.
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a modifier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a modifier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](Relax "wikilink") and [Auto Pilot](Auto_Pilot "wikilink") falls in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
 
-While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. Notably, depends on your skin used, the text and icon may be changed but the mod effect will still work as usual.
+While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
-Click the "Random Map" button or press F2 to have the game **select a random beatmap from the currently displayed list.**
+Click the "Random Map" button or press F2 to have the game **randomly scroll through all of your beatmaps and pick one.** You cannot select a beatmap yourself until it has finished scrolling.
 
-*Note: Use SHIFT + Click the "Random Map" button or press SHIFT + F2 to have the game go back to the previous selected map, before "Random Map" was used.*
+*Note: You can press Shift + the Random Map button or F2 to go back to the beatmap you had selected before you randomized your selection.*
 
-<img src="soloplay9.jpeg" title="fig:Possible commands for a beatmap" alt="Possible commands for a beatmap" width="280" /> Click the "Beatmap Options" button or press F3 or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+![Possible commands for a beatmap](/wiki/Interface/img/Soloplay9.jpeg)
+
+Click the "Beatmap Options" button or press F3 or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 -   Press 1 or click the "Manage Collections" button to add the selected beatmap to the Collection list. You can display the list by clicking on the appropriate tab (see above).
 -   Press 2 or click "Delete..." to delete the currently selected beatmap difficulty or the entire beatmap set it belongs to from your hard drive. You will be prompted one more time before the beatmap(s) is/are actually deleted.
@@ -221,26 +228,34 @@ Click on **your user panel** to access the **User Options Menu**.
 
 Click the **osu! logo** to **start playing the selected beatmap**.
 
-Ranking screen
-==============
+## Ranking Screen
 
-Grade screen
-------------
+### Grade Screen
+
+![Accuracy in osu!standard](/wiki/Interface/img/Accuracy_osu!.jpg)
 
 This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
 
 **Note:** The grade skin will vary by skin used.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
+Below are the grade screens of the other game modes. 
 
-Online score leader-board
--------------------------
+**Taiko:**
+![Accuracy in Taiko](/wiki/Interface/img/Accuracy_Taiko.jpg)
+**osu!Mania:**
+![Accuracy in osu!mania](/wiki/Interface/img/Accuracy_Mania.jpg)
+**Catch the Beat:**
+![Accuracy in Catch the Beat](/wiki/Interface/img/Accuracy_CtB.jpg)
+
+### Online Leaderboard
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
+![][Osu!]"osu!" is [osu!](Standard "wikilink"), ![][Taiko]"Drum" is [Taiko](Taiko "wikilink"), ![][Ctb]"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania]"Piano" is [osu!mania](Mania "wikilink")
 
-<img src="Osu! Online score.png" title="fig:Right|Example of osu! Online score (Note: [6] was edited in)" alt="Right|Example of osu! Online score (Note: [6] was edited in)" width="350" /> This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
+![Right: Example of an osu!online score. (6) was edited in.](/wiki/Interface/img/Osu!_Online_score.png)
+
+This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
 1.  You can change your name here to put on the Local Scoreboard.
 2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
@@ -261,5 +276,3 @@ Note: The back transparent leitmotif is based on what mode you played in.
 7.  Beatmap song with it's history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
-
-Osu! Online.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online osu!mania Online.png| osu!mania Online
