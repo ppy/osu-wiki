@@ -80,8 +80,6 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `zh-tw.md`: Chinese (Taiwan, Traditional)
 - `zh-hk.md`: Chinese (Traditional)
 
-Notice: `zh.md` is assumed to be Simplified Chinese, because of this do not use `zh-cn.md`!
-
 ## Headings
 
 There are two styles of heading levels 1 and 2 that Markdown supplies you:
@@ -500,9 +498,6 @@ Markdown also allows you to use 4 spaces to trigger the code blocks; however, th
 
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
-
-When linking to the osu!website (e.g. user profiles or beatmaps), use `osu.ppy.sh` instead of `new.ppy.sh`.
-`new.ppy.sh` is just a temporary subdomain for the new design.
 
 **Never** use protocol relative links (e.g. `//example.com`)!
 
