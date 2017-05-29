@@ -33,7 +33,7 @@ Główne menu
 -----------
 
 -   **P**: Tryb Rozgrywki (dwukrotnie dla wyboru piosenek)
--   **P - M**: Tryb Rozgrywki ([Multiplayer](/wiki/Multiplayer))
+-   **P - M**: Tryb Rozgrywki ([Multiplayer](/wiki/Multi))
 -   **E**: Tryb Edycji (wybór piosenek)
 -   **J**: Przejdź do (odtwarzacz)
 -   **Z/X/C/V/B**: Sterowanie odtwarzaczem (styl Winamp'a)
