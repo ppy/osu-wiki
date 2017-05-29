@@ -3,6 +3,9 @@
 The Rapid Monthly osu! Tournament Invitationals \#2 is a tournament organized and ran by the Rapid Tournaments team.
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
+The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2)
+[![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational by beating [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575) in the finals and 
+
 ## Schedule
 
 The RMoT Invitationals are traditionally held over two weekends.
@@ -19,12 +22,12 @@ The RMoT Invitationals are traditionally held over two weekends.
 
 | Role              | Member                                                                                                                                                                                                                                                              |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Host              | [![](/wiki/shared/flag/Si.gif)Redavor](https://osu.ppy.sh/u/redavor)                                                                                                                                                                                                |
-| Admins            | [![](/wiki/shared/flag/Us.gif)-You Watanabe-](), [![](/wiki/shared/flag/Si.gif)DomenBzo](), [![](/wiki/shared/flag/Au.gif)Grassy](), [![](/wiki/shared/flag/Si.gif)kristi71111](), [![](/wiki/shared/flag/Tr.gif)oralekin]()                                        |
-| Referees          | [![](/wiki/shared/flag/Ph.gif)Deadpulse](), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/Sg.gif)Kumabread](), [![](/wiki/shared/flag/Pl.gif)MagBlood](), [![](/wiki/shared/flag/Ph.gif)Misery](), [![](/wiki/shared/flag/Gb.gif)Stedoss]() |
+| Host              | [![](/wiki/shared/flag/Si.gif)Redavor](https://osu.ppy.sh/u/)                                                                                                                                                                                                |
+| Admins            | [![](/wiki/shared/flag/Us.gif)-You Watanabe-](), [![](/wiki/shared/flag/Si.gif)DomenBzo](), [![](/wiki/shared/flag/Au.gif)Grassy](), [![](/wiki/shared/flag/Si.gif)kristi71111](), [![](/wiki/shared/flag/Tr.gif)oralekin](https://osu.ppy.sh/u/7631823)                                        |
+| Referees          | [![](/wiki/shared/flag/Ph.gif)Deadpulse](), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/Sg.gif)Kumabread](), [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640), [![](/wiki/shared/flag/Ph.gif)Misery](), [![](/wiki/shared/flag/Gb.gif)Stedoss]() |
 | Mappool Selectors | [![](/wiki/shared/flag/Th.gif)GuChangeDeWorld](), [![](/wiki/shared/flag/Ca.gif)Meow-Mix]()                                                                                                                                                                         |
 | Streamers         | [![](/wiki/shared/flag/Se.gif)BeatingHeart](), [![](/wiki/shared/flag/Pl.gif)FreezingTooEasy]()                                                                                                                                                                     |
-| Commentators      | [![](/wiki/shared/flag/Pl.gif)bsurma](), [![](/wiki/shared/flag/Se.gif)ErroTheCube](), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/De.gif)Niegth](), [![](/wiki/shared/flag/Si.gif)ultraregen]()                                          |
+| Commentators      | [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575), [![](/wiki/shared/flag/Se.gif)ErroTheCube](https://osu.ppy.sh/u/4425262), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/De.gif)Niegth](), [![](/wiki/shared/flag/Si.gif)ultraregen]()                                          |
 
 ## Prizes
 
@@ -35,22 +38,22 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
 
-* [![](/wiki/shared/flag/Us.gif)_Zyrenn]()
-* [![](/wiki/shared/flag/Sp.gif)TheMightyNeko]()
-* [![](/wiki/shared/flag/Pl.gif)MagBlood]()
-* [![](/wiki/shared/flag/De.gif)Sasuke2g]()
+* [![](/wiki/shared/flag/Us.gif)_Zyrenn](https://osu.ppy.sh/u/8389508)
+* [![](/wiki/shared/flag/Sp.gif)TheMightyNeko](https://osu.ppy.sh/u/7469737)
+* [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640)
+* [![](/wiki/shared/flag/De.gif)Sasuke2g](https://osu.ppy.sh/u/7460142)
 * [![](/wiki/shared/flag/Pl.gif)~~AkaiKage~~]()
-* [![](/wiki/shared/flag/It.gif)Ksero]()
-* [![](/wiki/shared/flag/Es.gif)EIVO]()
-* [![](/wiki/shared/flag/Ar.gif)Linkel]()
-* [![](/wiki/shared/flag/Tr.gif)Koizumi Hanayo]()
-* [![](/wiki/shared/flag/Pl.gif)Missownik]()
-* [![](/wiki/shared/flag/No.gif)AlosChan]()
-* [![](/wiki/shared/flag/Es.gif)-ZackFair]()
-* [![](/wiki/shared/flag/Ca.gif)Chanigan]()
-* [![](/wiki/shared/flag/Id.gif)akirakai18]()
+* [![](/wiki/shared/flag/It.gif)Ksero](https://osu.ppy.sh/u/6926212)
+* [![](/wiki/shared/flag/Es.gif)EIVO](https://osu.ppy.sh/u/8111395)
+* [![](/wiki/shared/flag/Ar.gif)Linkel](https://osu.ppy.sh/u/4267947)
+* [![](/wiki/shared/flag/Tr.gif)Koizumi Hanayo](https://osu.ppy.sh/u/1988584)
+* [![](/wiki/shared/flag/Pl.gif)Missownik](https://osu.ppy.sh/u/7714761)
+* [![](/wiki/shared/flag/No.gif)AlosChan](https://osu.ppy.sh/u/8240328)
+* [![](/wiki/shared/flag/Es.gif)-ZackFair](https://osu.ppy.sh/u/4388820)
+* [![](/wiki/shared/flag/Ca.gif)~~Chanigan~~]()
+* [![](/wiki/shared/flag/Id.gif)akirakai18](https://osu.ppy.sh/u/2956814)
 
-AkaiKage gave up his place in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 3 people who have not reached semi-finals were selected to participate in the tournament, filler players.
+AkaiKage and Chanigan gave up their places in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
 The filler players are chosen according to a few criteria in the following priority:
 
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
@@ -58,7 +61,7 @@ The filler players are chosen according to a few criteria in the following prior
 1. Number of times participated in RMoT
 1. Current PP
 
-[![](/wiki/shared/flag/Se.gif)ErroTheCube](), [![](/wiki/shared/flag/Pl.gif)bsurma]() and [![](/wiki/shared/flag/Nl.gif)Senpaii Hentaii]() gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other two.
+[![](/wiki/shared/flag/Se.gif)ErroTheCube](https://osu.ppy.sh/u/4425262), [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575), [![](/wiki/shared/flag/Pl.gif)Malson](https://osu.ppy.sh/u/6047395) and [![](/wiki/shared/flag/Nl.gif)Senpaii Hentaii](https://osu.ppy.sh/u/7093651) gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
 
 ## Rules
 
@@ -85,3 +88,4 @@ The filler players are chosen according to a few criteria in the following prior
 There is only one mappool for all matches, made of maps from the last four RMoT mappools.
 There are 6 tiebreaker maps, one for each stage.
 Every tiebreaker from the last 4 RMoT's and 2 new maps are picked for tiebreaker.
+The mappool can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714/edit#gid=1984744872).
