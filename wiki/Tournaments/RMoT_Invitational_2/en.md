@@ -4,7 +4,7 @@ The Rapid Monthly osu! Tournament Invitationals \#2 is a tournament organized an
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
 The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2)
-[![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational by beating [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575) in the finals and 
+[![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational, beating [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575) in the finals. 
 
 ## Schedule
 
@@ -39,7 +39,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
 
 * [![](/wiki/shared/flag/Us.gif)_Zyrenn](https://osu.ppy.sh/u/8389508)
-* [![](/wiki/shared/flag/Sp.gif)TheMightyNeko](https://osu.ppy.sh/u/7469737)
+* [![](/wiki/shared/flag/Es.gif)TheMightyNeko](https://osu.ppy.sh/u/7469737)
 * [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640)
 * [![](/wiki/shared/flag/De.gif)Sasuke2g](https://osu.ppy.sh/u/7460142)
 * [![](/wiki/shared/flag/Pl.gif)~~AkaiKage~~](https://osu.ppy.sh/u/5949241)
