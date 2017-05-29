@@ -22,7 +22,7 @@ The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song
 -   \[5\] Click Exit (Esc) to exit osu!.
 -   \[6\] A random useful tip is displayed below the menu.
 -   \[7\] In the lower-left is a link to the osu! website.
--   \[8\] Connection result to Bancho!
+-   \[8\] Connection result to Bancho! In this picture it is not shown, but the connection result looks like a chain link. 
 -   \[9\] In the bottom right is are the [chat](Internet_Relay_Chat "wikilink") controls (F8&F9).
 -   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order.
 -   \[11\] Next to the userpanel, the number of beatmaps, current running time of the program and your computer clock time.
