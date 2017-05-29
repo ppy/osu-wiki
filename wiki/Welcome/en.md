@@ -1,7 +1,7 @@
 <!-- wiki -->
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
-[Multi wikilink]: /wiki/Multiplayer/ "Multi-play"
+[Multi wikilink]: /wiki/Multi/ "Multi-play"
 [Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
 [Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
 [Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
