@@ -1,0 +1,13 @@
+Salut toi. Je comprends ton urgence de me contacter personellement, mais je te demande de comprendre que ce n'est **pas** l'endroit pour demander de l'aide/du support. Je garde le support d'osu! séparé de mes messages personnels, et je trouve aussi compliqué de trouver le temps de répondre au messages privés du forum. Je te demande donc de suivre une des options suivantes:
+
+## Support Technique
+
+La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/forum/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouvera donc plus rapidement une solution comme ça qu'en me contactant.
+
+## Support Général d'osu!
+
+Pour les problèmes de comptes, les problèmes de payments, les suivis de bans, les renseignements à propos des tournois et **tout relaté au besoin d'aide sur osu!**, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) (requêtes liées au compte) ou [osu@ppy.sh](mailto:osu@ppy.sh) (tout le reste). Si un membre du support est en ligne, vous pouvez aussi utiliser le petit bouton "?" en bas à droite de la page que vous visitez.
+
+## Contacter peppy
+
+Si vous souhaitez contacter peppy personnellement pour des raisons non liées à osu!, vous pouvez le contacter à [pe@ppy.sh](mailto:pe@ppy.sh). Sachez que toutes requêtes liées aux comptes ou au support envoyées à cet email sera marqué comme spam.
