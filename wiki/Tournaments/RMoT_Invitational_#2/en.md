@@ -22,12 +22,12 @@ The RMoT Invitationals are traditionally held over two weekends.
 
 | Role              | Member                                                                                                                                                                                                                                                              |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Host              | [![](/wiki/shared/flag/Si.gif)Redavor](https://osu.ppy.sh/u/)                                                                                                                                                                                                |
-| Admins            | [![](/wiki/shared/flag/Us.gif)-You Watanabe-](), [![](/wiki/shared/flag/Si.gif)DomenBzo](), [![](/wiki/shared/flag/Au.gif)Grassy](), [![](/wiki/shared/flag/Si.gif)kristi71111](), [![](/wiki/shared/flag/Tr.gif)oralekin](https://osu.ppy.sh/u/7631823)                                        |
-| Referees          | [![](/wiki/shared/flag/Ph.gif)Deadpulse](), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/Sg.gif)Kumabread](), [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640), [![](/wiki/shared/flag/Ph.gif)Misery](), [![](/wiki/shared/flag/Gb.gif)Stedoss]() |
-| Mappool Selectors | [![](/wiki/shared/flag/Th.gif)GuChangeDeWorld](), [![](/wiki/shared/flag/Ca.gif)Meow-Mix]()                                                                                                                                                                         |
-| Streamers         | [![](/wiki/shared/flag/Se.gif)BeatingHeart](), [![](/wiki/shared/flag/Pl.gif)FreezingTooEasy]()                                                                                                                                                                     |
-| Commentators      | [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575), [![](/wiki/shared/flag/Se.gif)ErroTheCube](https://osu.ppy.sh/u/4425262), [![](/wiki/shared/flag/Ph.gif)kristoffer09](), [![](/wiki/shared/flag/De.gif)Niegth](), [![](/wiki/shared/flag/Si.gif)ultraregen]()                                          |
+| Host              | [![](/wiki/shared/flag/Si.gif)Redavor](https://osu.ppy.sh/u/3328606)                                                                                                                                                                                                |
+| Admins            | [![](/wiki/shared/flag/Us.gif)-You Watanabe-](https://osu.ppy.sh/u/3188911), [![](/wiki/shared/flag/Si.gif)DomenBzo](https://osu.ppy.sh/u/3450825), [![](/wiki/shared/flag/Au.gif)Grassy](https://osu.ppy.sh/u/8067959), [![](/wiki/shared/flag/Si.gif)kristi71111](https://osu.ppy.sh/u/3826105), [![](/wiki/shared/flag/Tr.gif)oralekin](https://osu.ppy.sh/u/7631823)                                        |
+| Referees          | [![](/wiki/shared/flag/Ph.gif)Deadpulse](https://osu.ppy.sh/u/8575527), [![](/wiki/shared/flag/Ph.gif)kristoffer09](https://osu.ppy.sh/u/3474344), [![](/wiki/shared/flag/Sg.gif)Kumabread](https://osu.ppy.sh/u/7210491), [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640), [![](/wiki/shared/flag/Ph.gif)Misery](https://osu.ppy.sh/u/7892873), [![](/wiki/shared/flag/Gb.gif)Stedoss](https://osu.ppy.sh/u/8331546) |
+| Mappool Selectors | [![](/wiki/shared/flag/Th.gif)GuChangeDeWorld](https://osu.ppy.sh/u/7125579), [![](/wiki/shared/flag/Ca.gif)Meow-Mix](https://osu.ppy.sh/u/3021634)                                                                                                                                                                         |
+| Streamers         | [![](/wiki/shared/flag/Se.gif)BeatingHeart](store.ppy.sh/u/4586549), [![](/wiki/shared/flag/Pl.gif)FreezingTooEasy](https://osu.ppy.sh/u/4022318)                                                                                                                                                                     |
+| Commentators      | [![](/wiki/shared/flag/Pl.gif)bsurma](https://osu.ppy.sh/u/509575), [![](/wiki/shared/flag/Se.gif)ErroTheCube](https://osu.ppy.sh/u/4425262), [![](/wiki/shared/flag/Ph.gif)kristoffer09](https://osu.ppy.sh/u/3474344), [![](/wiki/shared/flag/De.gif)Niegth](osu.ppy.sh/u/1991114), [![](/wiki/shared/flag/Si.gif)ultraregen](https://osu.ppy.sh/u/4106122)                                          |
 
 ## Prizes
 
@@ -42,7 +42,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 * [![](/wiki/shared/flag/Sp.gif)TheMightyNeko](https://osu.ppy.sh/u/7469737)
 * [![](/wiki/shared/flag/Pl.gif)MagBlood](https://osu.ppy.sh/u/6178640)
 * [![](/wiki/shared/flag/De.gif)Sasuke2g](https://osu.ppy.sh/u/7460142)
-* [![](/wiki/shared/flag/Pl.gif)~~AkaiKage~~]()
+* [![](/wiki/shared/flag/Pl.gif)~~AkaiKage~~](https://osu.ppy.sh/u/5949241)
 * [![](/wiki/shared/flag/It.gif)Ksero](https://osu.ppy.sh/u/6926212)
 * [![](/wiki/shared/flag/Es.gif)EIVO](https://osu.ppy.sh/u/8111395)
 * [![](/wiki/shared/flag/Ar.gif)Linkel](https://osu.ppy.sh/u/4267947)
@@ -50,7 +50,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 * [![](/wiki/shared/flag/Pl.gif)Missownik](https://osu.ppy.sh/u/7714761)
 * [![](/wiki/shared/flag/No.gif)AlosChan](https://osu.ppy.sh/u/8240328)
 * [![](/wiki/shared/flag/Es.gif)-ZackFair](https://osu.ppy.sh/u/4388820)
-* [![](/wiki/shared/flag/Ca.gif)~~Chanigan~~]()
+* [![](/wiki/shared/flag/Ca.gif)~~Chanigan~~](https://osu.ppy.sh/u/3266120)
 * [![](/wiki/shared/flag/Id.gif)akirakai18](https://osu.ppy.sh/u/2956814)
 
 AkaiKage and Chanigan gave up their places in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
