@@ -14,41 +14,48 @@
 
 ![Main Menu](/wiki/Interface/img/Introscreen.png)
 
-The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song currently playing on the Intro screen. If no song is playing, it pulses at a default slow rate. The keyboard shortcut is in parentheses.
+The \[1\] osu!cookie pulses according to the [BPM](Timing "wikilink") of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
--   \[2\] Click Play (P) or the logo to switch to the second intro screen.
--   \[3\] Click Edit (E) to open the song selection Screen for the [Editor](Editor "wikilink").
--   \[4\] Click Options (O) to go to the [Options](Options "wikilink") Screen.
+-   \[2\] Click Play (P) or the logo to switch to the Solo mode song selection screen.
+-   \[3\] Click Edit (E) to open the Editor mode song selection screen.
+-   \[4\] Click Options (O) to go to the Options screen.
 -   \[5\] Click Exit (Esc) to exit osu!.
 -   \[6\] A random useful tip is displayed below the menu.
--   \[7\] In the lower-left is a link to the osu! website.
+-   \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
 -   \[8\] Connection result to Bancho! In this picture it is not shown, but the connection result looks like a chain link. 
--   \[9\] In the bottom right is are the [chat](Internet_Relay_Chat "wikilink") controls (F8&F9).
--   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order.
--   \[11\] Next to the userpanel, the number of beatmaps, current running time of the program and your computer clock time.
--   \[12\] In the upper-left is your user panel, click on it to display User Options.
+-   \[9\] In the bottom right are the chat controls (F8 & F9).
+-   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
+    - Previous Track
+    - Play
+    - Pause
+    - Stop (the difference between Play and Stop is that Stop will reset the song to the beginning, while Pause simply pauses it)
+    - Next Track
+    - View Song Info. This toggles the top bar showing the song info between being permanent and temporary. When permanent, the info bar will stay visible until it fades out with the rest of the UI. When temporary, it will disappear a little while after a song has been chosen. It will stay hidden until it is toggled again, or another song plays. 
+-   \[11\] The number of beatmaps you have available, how long your osu!client has been running for, and your system clock. 
+-   \[12\] Your profile, click on it to display the User Options (see below).
 
 ## User Options
 
 ![User Options](/wiki/Interface/img/Useroptions1.png)
 
-Access this screen by clicking your user panel at the top left of the Intro Screen. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option
+Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
-1.  **View Profile**: Opens up your profile page in your web browser
-2.  **Sign Out**: Log out your account and log in window will slide out
-3.  **Change Avatar**: Open up the edit avatar page in your web browser
-4.  **Close** : Close this window
+1.  View Profile: Opens up your profile page in your web browser
+2.  Sign Out: Log out your account and log in window will slide out
+3.  Change Avatar: Open up the edit avatar page in your web browser
+4.  Close : Close this window
 
 ## Play Menu
 
 ![Play Menu](/wiki/Interface/img/Introscreen2.png)
+
 -   Click Solo (P) to play alone.
--   Click Multi (M) to play with other people. Yow will be directed to Multi Screen.
--   Click Back to return to Main Menu
+-   Click Multi (M) to play with other people. Yow will be directed to the Multi Lobby (see below).
+-   Click Back to return to the main menu.
 
 ## Multi Lobby
 
-*Full explanation: [Multiplayer](Multiplayer "wikilink")*
+*Full explanation: [Multiplayer](/wiki/Multi)*
 
 ![Multi Lobby](/wiki/Interface/img/Multi-Play-2016.png)
 ![Multi Host](/wiki/Interface/img/Multi-play!_Host.jpg)
