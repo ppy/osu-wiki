@@ -1,0 +1,44 @@
+<!-- wiki -->
+[FAQ wikilink]: /wiki/FAQ/ "FAQ"
+[osu! wikilink]: ./osu!/ "osu!"
+[osu!taiko wikilink]: ./osu!taiko/ "osu!taiko"
+[osu!catch wikilink]: ./osu!catch/ "osu!catch"
+[osu!mania wikilink]: ./osu!mania/ "osu!mania"
+[External Ports wikilink]: ./External_Ports "Portages Externes"
+
+<!-- external -->
+[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia pour Osu! Tatakae! Ouendan"
+[Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
+
+<!-- shared image -->
+[osu! icon link]: /wiki/shared/Osu.gif "icône d'osu!"
+[osu!taiko icon link]: /wiki/shared/Taiko.gif "icône d'osu!taiko"
+[osu!catch icon link]: /wiki/shared/Ctb.gif "icône d'osu!catch"
+[osu!mania icon link]: /wiki/shared/Mania.gif "icône d'osu!mania"
+
+# Modes de Jeu
+
+## Modes de Jeu Officiels
+
+Voici les modes de jeu disponibles dans osu!:-
+
+- ![icône d'osu!][osu! icon link] _[osu!standard/osu!][osu! wikilink]_:
+  Basé sur _[Osu! Tatakae! Ouendan][ouendan wikipedia]_.
+  Tapez, glissez, et tournez en rythme.
+- ![icône d'osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_:
+  Basé sur _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_.
+  Bat, et roule le roulement de tambour de taiko en rythme.
+- ![icône d'osu!catch][osu!catch icon link] _[osu!catch][osu!catch wikilink]_:
+  Collectez les fruits tombant en bougeant l'attrapeur avec un plateau.
+  Continue de danser et ne manquez pas une partie du rythme.
+- ![icône d'osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
+  Basé sur les jeux de rythme de type "tapis-roulant", principalemnt introduit et implémenté par **woc2006**.
+  Faites jouer une mélodie aux notes en rythme.
+
+Pour une explication générale des modes de jeu, voir la [FAQ][FAQ wikilink].
+
+## Portages Externes
+
+Les portages jouables des modes de jeu d'osu!.
+
+[Cliquez ici pour visiter la page des Ports Externs][External Ports wikilink]
