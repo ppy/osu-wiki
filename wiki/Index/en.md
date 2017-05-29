@@ -1,4 +1,4 @@
-# osu!wiki
+# Index
 
 Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
@@ -138,13 +138,13 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
   - [Spinners](/wiki/Mapping_Techniques/Spinners "Spinners")
   - [Unrankable](/wiki/Mapping_Techniques/Unrankable "Unrankable")
 - [Difficulties](/wiki/Difficulties "Difficulties")
-  - [osu!](/wiki/Difficulties/osu! "osu! Difficulty")
+  - [osu!](/wiki/Difficulties/osu! "osu! Difficulties")
     - [Easy](/wiki/Difficulties/osu!/Easy "osu! Easy")
     - [Normal](/wiki/Difficulties/osu!/Normal "osu! Normal")
     - [Hard](/wiki/Difficulties/osu!/Hard "osu! Hard")
     - [Insane](/wiki/Difficulties/osu!/Insane "osu! Insane")
     - [Expert](/wiki/Difficulties/osu!/Expert "osu! Expert")
-  - [osu!taiko](/wiki/Difficulties/osu!taiko "osu!taiko Difficulty")
+  - [osu!taiko](/wiki/Difficulties/osu!taiko "osu!taiko Difficulties")
     - [Kantan](/wiki/Difficulties/osu!taiko/Kantan "osu!taiko Kantan (Easy)")
     - [Futsuu](/wiki/Difficulties/osu!taiko/Futsuu "osu!taiko Futsuu (Normal)")
     - [Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii "osu!taiko Muzukashii (Hard)")
@@ -225,7 +225,6 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
   - [osu!talk](/wiki/Announcements/osu!talk "osu!talk")
   - [Showcases](/wiki/Announcements/Showcases "Showcases")
 - [Best Of](/wiki/Best_Of "Best Of")
-  - [2008](/wiki/Best_Of/2008 "Best Of 2008")
   - [2009](/wiki/Best_Of/2009 "Best Of 2009")
   - [2010](/wiki/Best_Of/2010 "Best Of 2010")
   - [2011](/wiki/Best_Of/2011 "Best Of 2011")
@@ -244,7 +243,6 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
   - [Recording osu!](/wiki/List_of_Guides/Recording_osu! "Recording osu!")
   - [Searching and Downloading Beatmaps](/wiki/List_of_Guides/Searching_and_Downloading_Beatmaps "Searching and Downloading Beatmaps")
   - [Tablet purchase](/wiki/List_of_Guides/Tablet_purchase "Tablet purchase")
-
 - [Official Songs](/wiki/Official_Songs "Official Songs")
 - [Tools](/wiki/Tools "Tools")
   - [AiBat](/wiki/Tools/AiBat "AiBat")
