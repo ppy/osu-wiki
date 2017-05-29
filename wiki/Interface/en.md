@@ -60,9 +60,9 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 ![Multi Lobby](/wiki/Interface/img/Multi-Play-2016.png)
 ![Multi Host](/wiki/Interface/img/Multi-play!_Host.jpg)
 
-1. Your rank in the match.
+1. Your rank in the match. This is also shown next to your name.
 2. Your profile information. 
-3. Jukebox. 
+3. The jukebox. 
 4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable). 
 5. The name of the match and the password settings.
 6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen. 
@@ -77,53 +77,62 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ![Song Selection](/wiki/Interface/img/Soloplay1.jpeg)
 
-Note: You can identify the song selection for a specific mode by checking the transparent leitmotif.
+Note: You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen.
 
 ![][Osu!]"osu!" is [osu!](Standard "wikilink"), ![][Taiko]"Drum" is [Taiko](Taiko "wikilink"), ![][Ctb]"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania]"Piano" is [osu!mania](Mania "wikilink")
 
-Because this screen has too many elements to note by easily noticeable numbers, this section will focus on one part of the screen at a time, starting from the top (left to right) and continuing downwards.
+Because this screen has too many elements to note by easily noticeable numbers, this section will focus on one part of the screen at a time, starting from the top down and left to right.
 
 ### Beatmap Information
 
 ![soloplay2.png](/wiki/Interface/img/Soloplay2.jpeg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. The BPM value listed is the deviation between highest and lowest BPM that occurs in the beatmap (timing section changes). "Objects" is the total number of [Hit Objects](Hit_Objects "wikilink") in the beatmap. A ![][Heart]heart symbol at the upper left denotes a Ranked beatmap while a ![][Fire]flame symbol denotes Approved beatmap. The Unicode title will be used if [allowed non-English metadata at Options under General section](Options#Language "wikilink") and the beatmap itself has Unicode title/artist.
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select "Prefer metadata in original language" in [Options](/wiki/Options/en.md), it will show the Unicode title. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
--   Style: {Source} ({Artist}) - {Title} \[{Difficulty selected}\]
+- **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Glossary/en.md#drain-time).
+- **BPM**: The BPM of the beatmap. If (like in this picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and highest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
+- **Objects**: The total amount of [hit objects](/wiki/Hit_Objects/en.md) in the beatmap.
+- Circles: The total amount of hit circles in the beatmap.
+- Sliders: The total amount of sliders in the beatmap.
+- Spinners: The total amount of spinners in the beatmap.
+- OD: The Overall Difficulty of the beatmap.
+- HP: The drain rate of your HP. In osu!standard, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In Taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. Catch the Beat is the same as osu!standard.
+- Stars: The star difficulty of the beatmap. This is graphically visible in the beatmap rectangle itself.
 
 ### Group and Sort
 
 ![](/wiki/Interface/img/Soloplay3.jpeg)
 
 Click on one of the tabs to **sort your song list according to the selected criterion**.
-**Group** - Most options organize beatmaps into various expandable groups
+**Group** - Most options organize beatmaps into various expandable groups:
 
--   No Grouping - Beatmaps will not be grouped (but will still appear in the order specified by Sort)
--   By Artist - By the first letter, number, or character of the artist's name
--   By BPM - By beats per minute, in multiples of 60
--   By Creator - By the name of the mapset's mapper
--   By Date Added - By today, yesterday, last week, and several groupings for 1 to 5+ months ago
--   By Difficulty - By number of stars (rounded to nearest whole number)
--   By Length - By number of minutes: five groups for "under 1-5" and two for over and under 10
--   By Mode - By one of the four game modes
--   By Rank Achieved - By rank: D, C, B, A, S, SS, Silver S, Silver SS
--   By Title - By the first letter, number, or character of the title's name
--   Collections - By your collections, sorted alphabetically: beatmaps not in a collection will not appear
--   Favourites - Displays only your online favorites (single group)
--   My Maps - Displays only beatmap sets you mapped (single group)
--   Ranked Status - By a beatmap's ranked status: ranked, pending, not submitted or unknown
--   Recently Played - By same groups as "By Date Added", except for date last played
+- No grouping - Beatmaps will not be grouped but will still be sorted in the order specified by Sort.
+- By Difficulty - Beatmaps will be grouped by their star difficulty, rounded to the nearest whole number.
+- By Artist - Beatmaps will be grouped by the artist's first character of their name.
+- Recently Played - Beatmaps will be grouped by when you last played them.
+- Collections - This will show the collections you have created. *Note that this will hide beatmaps with no collection!*
+- By BPM - Beatmaps will be grouped according to BPM in multiples of 60, starting at 120.
+- By Creator - Beatmaps will be grouped by the beatmap creator's name's first character.
+- By Date Added - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
+- By Length - Beatmaps will be grouped according to their length: 1 minute or less, 2 minutes or less, 3, 4, 5, and 10. 
+- By Mode - Beatmaps will be grouped according to their game mode.
+- By Rank Achieved - Beatmaps will be sorted by the highest rank achieved on them.
+- By Title - Beatmaps will be grouped by the first letter of their title.
+- Favourites - Only beatmaps you have favorited online will be shown.
+- My Maps - Only beatmaps you have mapped (that is, whose creator matches your profile name) will be shown. 
+- Ranked Status - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, or unknown.
+The first five groupings are available in tabs below Group and Sort.
 
 **Sort** - Sorts beatmaps in a certain order
 
--   By Artist - By artist's name, alphabetically
--   By BPM - By beats per minute, ascending (uses highest value for variable BPM maps)
--   By Creator - By mapset mapper, alphabetically
--   By Date Added - By date added, oldest to newest
--   By Difficulty - By star difficulty, ascending
--   By Length - By song duration, ascending
--   By Rank Achieved - By rank, lowest to highest
--   By Title - By song title, alphabetically
+-   By Artist - Beatmaps will be sorted alphabetically by the artist's name's first character.
+-   By BPM - Beatmaps will be sorted lowest to highest by their BPM. For maps with multiple BPMs, the highest will be used.
+-   By Creator - Beatmaps will be sorted alphabetically by the creator's name's first character.
+-   By Date Added - Beatmaps will be sorted from oldest to newest by when they were added.
+-   By Difficulty - Beatmaps will be sorted from easiest to hardest by star difficulty. *Note that this will split apart mapsets!*
+-   By Length - Beatmaps will be sorted from shortest to longest by length.
+-   By Rank Achieved - Beatmaps will be sorted from poorest to best by the highest rank achieved on them.
+-   By Title - Beatmaps will be sorted alphabetically by the first character of their name.
 
 ### Search
 
