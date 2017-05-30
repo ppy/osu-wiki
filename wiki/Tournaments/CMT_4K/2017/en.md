@@ -3,7 +3,7 @@ Chinese osu!mania 4K Tournament 2017
 
 ![CMT 4K 2017](pic.png)
 
-The **Chinese osu!mania 4K Tournament 2017**(***CMT 4K 2017***) is the second one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team. 
+The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team. 
 
 ## Tournament schedule
 
@@ -11,7 +11,7 @@ The **Chinese osu!mania 4K Tournament 2017**(***CMT 4K 2017***) is the second on
 | ---: | :--- |
 | Registration | 4-18 June 2017 |
 | Qualification Stage | 24-25 June 2017 |
-| Drawings | 25 June 2017(20:00 UTC+8) |
+| Drawings | 25 June 2017 (20:00 UTC+8) |
 | Group Stage | 30 June - 2 July 2017 |
 | Round of 16 | 8-9 July 2017 |
 | Round of 8 | 14-15 July 2017 |
@@ -21,11 +21,11 @@ The **Chinese osu!mania 4K Tournament 2017**(***CMT 4K 2017***) is the second on
   
 ## Tournament prizes
 
-[撒泼特]:/wiki/shared/osu!supporter.png
+
 All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.  
-![](/wiki/shared/GCrown.png) ![撒泼特] of 3 months, profile badge, **CrazyBoard Mark One Keyboard**；  
-![](/wiki/shared/SCrown.png) ![撒泼特] of 2 months;  
-![](/wiki/shared/BCrown.png) ![撒泼特] of 1 month.  
+![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**；  
+![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;  
+![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.  
 
 ## Tournament staff
 
@@ -45,18 +45,20 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 ## Tournament stream
 
-bilibili：[aiyulu](http://live.bilibili.com/10183)(Primary)、[Ookura Asahi](http://live.bilibili.com/272810)(Secondary)、[Rasis](http://live.bilibili.com/5333)(Back up)。  
-Twitch：[aiyulu](http://live.bilibili.com/10183)。
+bilibili: [aiyulu](http://live.bilibili.com/10183)(Primary), [Ookura Asahi](http://live.bilibili.com/272810)(Secondary), [Rasis](http://live.bilibili.com/5333)(Back up).   
+Twitch: [aiyulu](http://live.bilibili.com/10183).
 
-## Match schedule(Update after group stage starts)
+## Match schedule
+
+Update after group stage starts.
 
 ### Test match
 
-17, June 15:00(UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
+17, June 15:00 (UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
 
-"The Elder" Team：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+"The Elder" Team: **gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
 
-"The Cutting-edge" Team：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+"The Cutting-edge" Team: **Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
 
 ## Mappools
 
@@ -88,22 +90,22 @@ TB:
 
 ### Tournament Rules 
 
-1. The **Chinese osu!mania 4K Tournament 2017**(***CMT 4K 2017***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team. 
+1. The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team. 
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
      - The Tie-breaker map will only be played in case of a tie.  
      - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](https://osu.ppy.sh/wiki/Game_Modifiers#Visual_Settings) options are allowed.
+6. Use of the `[Visual Settings](https://osu.ppy.sh/wiki/Game_Modifiers#Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
-8. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(Shift + F12) and provide the link to match referee instantly.
-9. If a player disconnects(In the case of the player is not able to finish the map):  
+8. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
+9. If a player disconnects (In the case of the player is not able to finish the map):  
      - disconnets within 30s after the match starts, the match will be reset.   
      - the player will be recorded as Failed.
-10. Beatmaps cannot be reused in the same match unless the beatmap was nullified。
+10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
-12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have(including but not limited to)：  
+12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have(including but not limited to):
      - Internet issue.   
      - System notification issue.  
      - Hardware problems.  
@@ -111,22 +113,23 @@ TB:
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 16. The CMT team reserves the right to use Chinese preferentially.
+
 ### Registration Rules
 
-1. Every user interested in joining the tournament signs up individually(Registration link will be released after the registration phrase begins).
-2. Only these players are eligible to sign up：  
+1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
+2. Only these players are eligible to sign up:
      - Either the registered region is China(Mainland), Hong Kong, Macao or Taiwan, or being capable of speaking Chinese.
      - No restrictions on time zone.  
      - Use Chinese as the primary language.  
-     - No requirement on performance points(pp), but rank(above #4000) is highly recommended.
+     - No requirement on performance points (pp), but rank (above \#4000) is highly recommended.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
 3. Successfully registered player will receive a confirm email and will be posted on the player list.
 4. Map selectors and tournament managers are not allowed to register.
 
 ### Stage Instructions
 
-1. In the Qualification stage，all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32**(may vary with the number of registered players) players will qualify next stage.
-2. In the Group stage, qualified players will be divided into groups of 4.
+1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
+2. In the Group stage, qualified players will be divided into groups of 
 3. All the players from each group will face each other.
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
      - Most matches won.
@@ -134,7 +137,7 @@ TB:
      - Most maps won.
      - Have higher ∑{(total score difference) / (maximum score)}.
      - Winner of the rematch.
-5. The top **2** players(may vary with the number of registered players) of each group will move on to the Knock-Out Stages.。
+5. The top **2** players (may vary with the number of registered players) of each group will move on to the Knock-Out Stages.
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 7. The stages are split up into the following: 
   
@@ -152,10 +155,12 @@ TB:
      - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
      - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
 
+
+
 ## Match Instructions
 
 ### Qualification stage
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period：
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
      - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT 4K 2017: (Qualification) vs (Qualification)".
      - The maximum amount of player for Qualification stage is 8.
 2. There will be no warm-up maps in Qualification stage, all players are expected to prepare well before the match starts.
@@ -166,11 +171,11 @@ TB:
 7. The results of Qualification stage will be posted under the tab "Match results" on the second day after the last match ends.
 
 ### Group stage
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period：
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
      - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT 4K 2017: (playerBlue) vs (playerRed)".
      - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
-3. Each player must use "!roll" once in #multiplayer:
+3. Each player must use "!roll" once in \#multiplayer:
      - The losing roll picks the first banned map.
      - The winning roll picks the first map of the match.
      - Repeat "!roll" if two rolls are equal.
