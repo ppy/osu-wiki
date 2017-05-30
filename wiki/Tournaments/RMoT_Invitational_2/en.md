@@ -53,7 +53,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 * [![](/wiki/shared/flag/Ca.gif)~~Chanigan~~](https://osu.ppy.sh/u/3266120)
 * [![](/wiki/shared/flag/Id.gif)akirakai18](https://osu.ppy.sh/u/2956814)
 
-AkaiKage and Chanigan gave up their places in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
+**Notice:** AkaiKage and Chanigan gave up their places in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
 The filler players are chosen according to a few criteria in the following priority:
 
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
