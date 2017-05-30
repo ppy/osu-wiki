@@ -27,7 +27,7 @@ Mouse play tends to struggle with:
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play *osu!* with, you should check out the [Tablet purchase](wiki/List_of_Guides/Tablet_purchase "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play *osu!* with, you should check out the [Tablet purchase](wiki/List_of_Guides/Tablet_purchase "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
 -   Precise movement and speed.
@@ -60,25 +60,25 @@ One of the most important factors when playing *osu!* is your timing, much like 
 
 Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognize whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
 
-Music works in beats and a rhythm. When you start a map (or even before you play) pay attention to the how the song sounds, and you can get a pretty good idea on the melody that you will be hitting circles to. Getting along with the music more closely will help you out in achieving better timing and coordination over it.
+Music works in beats and rhythms. When you start a map (or even before you play) pay attention to the how the song sounds, and you can get a pretty good idea on the melody that you will be hitting circles to. Getting along with the music more closely will help you out in achieving better timing and coordination over it.
 
 ### Aiming
 
 In a point-and-click game like *osu!*, aiming is also another important factor. Being able to get the notes at the right time is pretty pointless without being able to get your cursor to the right location. In this case, the most effective way to improve in this sector is to simply play the game. It also helps to play harder and harder maps, since the spacing between notes will likely get bigger, making you move around more and tap the notes from wider distances.
 
-The best way you can get practice for aiming without *osu!* is using your computer with the input device. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
+The best way you can practice for aiming without playing *osu!* is using your computer with your input device of choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
 
 ### Speed
 
-Eventually, when you get to harder difficulties, you will need to click the notes more rapidly. Improving in this fact is actually quite simple; all you need to do is push yourself into clicking or tapping the keyboard faster. You can play games that require you to hit input as fast as possible, like Cookie Clicker or other button pushing games (they are very easy to find online if you just Google it).
+Eventually, when you get to harder difficulties, you will need to click the notes more rapidly. Improving in speed is actually quite simple; all you need to do is push yourself into clicking or tapping the keyboard faster. You can play games that require you to input as fast as possible, like Cookie Clicker or other button pushing games (they are very easy to find online if you just Google it).
 
 ### Practice
 
-Another heavy topic, is the fact that *osu!* is a game with an infinitely rising difficulty curve, meaning there is no "winning" the game. Instead, you'll be focused on improving yourself constantly. Instead of playing one map over and over, you will need to eventually move onto other maps once you start outclassing their difficulty.
+Another heavy topic is the fact that *osu!* is a game with an infinitely rising difficulty curve, meaning there is no "winning" the game. Instead, you'll be focused on improving yourself constantly. Instead of playing one map over and over, you will need to eventually move onto other maps once you start outclassing their difficulty.
 
 The best way to improve is to challenge yourself. The only way you will get used to more and more tenacious difficulties is by exploring past your boundaries. Playing a map that makes you miss quite a few times grants ultimately more gameplay experience than playing many that you can get a full combo on or even get an SS rank on. This works much like an MMORPG, the harder the enemy, the more experience you will get for it.
 
-Don't be afraid to practice something that always makes you miss for one reason or another. You will need to find the challenge, and see what you need to do to meet that challenge. Do you need to hit the buttons faster? Do you need better timing? Do you need to be more precise when moving to notes? These are all questions that you can ask yourself. This will help you find your answer a lot more quickly and make your experience all the more worth it.
+Don't be afraid to practise something that always makes you miss for one reason or another. You will need to find the challenge, and see what you need to do to meet that challenge. Do you need to hit the buttons faster? Do you need better timing? Do you need to be more precise when moving to notes? These are all questions that you can ask yourself. This will help you find your answer a lot more quickly and make your experience all the more worth it.
 
 Getting More out of Gameplay
 ----------------------------
