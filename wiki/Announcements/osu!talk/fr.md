@@ -5,7 +5,7 @@
 **osu!talk** est une série de podcasts présenté par [ztrot](https://osu.ppy.sh/u/6347) avec [deadbeat](https://osu.ppy.sh/u/128370).
 
 Cette série consiste à interviewer plusieurs utilisateurs de la osu!community.
-En plus de cela, Il y a quelques groupes de discussions à propos de différentes choses arrivant autour de la communauté comme des changements dans l'équipe, ou des rpoblèmes à long terme comme l'overmapping.
+En plus de cela, Il y a quelques groupes de discussions à propos de différentes choses arrivant autour de la communauté comme des changements dans l'équipe, ou des problèmes à long terme comme l'overmapping.
 Tout le monde est libre de venir et poser des questions durant les diffusions en direct et la partie [Q&A](https://en.wikipedia.org/wiki/Q%26A) de l'épisode.
 Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateurs à nous rejoindre et à y prendre part.
 
@@ -16,7 +16,7 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 |--------|----------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------|
 | 1      | [Charles445](https://osu.ppy.sh/u/85000)                       | GMT/BN                           | [Lien](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | 2      | [MMzz](https://osu.ppy.sh/u/128993)                            | QAT                              | [Lien](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
-| 3      | [Loctav](https://osu.ppy.sh/u/71366)                           | Community et Tournament Manager | [Lien](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
+| 3      | [Loctav](https://osu.ppy.sh/u/71366)                           | Community et Tournament Manager  | [Lien](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
 | 4      | [dkun](https://osu.ppy.sh/u/154400)                            | BAT/retired osu!monthly member   | [Lien](https://www.youtube.com/watch?v=_nFI71fG7-c)                 |
 | 5      | [LuigiHann](https://osu.ppy.sh/u/1079)                         | Resident Skinner                 | [Lien](https://www.youtube.com/watch?v=OVjq9ko83t0)                 |
 | 6      | [JAKACHAN](https://osu.ppy.sh/u/718696)                        | Pro Player                       | [Lien](https://www.youtube.com/watch?v=WXFMggx94e0)                 |
@@ -54,7 +54,7 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 | 36     | [Halogen-](https://osu.ppy.sh/u/169992)                        | Mania Prince of Bel Air          | [Lien](https://www.youtube.com/watch?v=5E02YK5mNRk)                 |
 | 37     | [Staiain](https://osu.ppy.sh/u/86188)                          | Triple Time Overlord             | [Lien](https://www.youtube.com/watch?v=_SJA69rqB6w)                 |
 | 38     | [Starrodkirby86](https://osu.ppy.sh/u/410)                     | Susumu Hirasawa fanboy           | [Lien](https://www.youtube.com/watch?v=54VUzflrXws)                 |
-| 39     | [Arf](https://osu.ppy.sh/u/3716999)                            | Some fretom guy                 | [Lien](https://www.youtube.com/watch?v=K9_4nzs5idM)                 |
+| 39     | [Arf](https://osu.ppy.sh/u/3716999)                            | Some fretom guy                  | [Lien](https://www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | 40     | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Lien](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
@@ -89,5 +89,5 @@ Spéciaux
 
 ## Liens Externes
 
-- Chaiîne Youtube Officielle: <https://www.youtube.com/user/osuacademy/videos>
+- Chaîne Youtube Officielle: <https://www.youtube.com/user/osuacademy/videos>
 - Thread Officiel: <https://osu.ppy.sh/forum/t/225111>

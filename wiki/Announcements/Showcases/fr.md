@@ -16,7 +16,7 @@ Les Showcases sur divers sujets de la osu!community.
 
 ## Storyboard
 
-| Showcase No. | Beatmap (Creator)                                                             | Storyboader                               | Lien des news                                                                              | Lien de la vidéo                                                          |
+| Showcase No. | Beatmap (Createur)                                                            | Storyboader                               | Lien des news                                                                              | Lien de la vidéo                                                              |
 |--------------|-------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1            | [Kozato - 45nen no Yukizakura (LoliSora/Rewrite)](https://osu.ppy.sh/s/50771) | [yukinohara](https://osu.ppy.sh/u/580107) | [News #1](https://news.ppy.sh/post/63423749972/storyboard-showcase-kozato-45nen-no-yukizakura) | [Vidéo #1](https://www.youtube.com/watch?v=ZQDvSVUyhaE)                         |
 | 2            | [Perfume - Laser Beam (Raging Bull)](https://osu.ppy.sh/s/106568)             | [Breeze](https://osu.ppy.sh/u/77537)      | [News #2](https://news.ppy.sh/post/64444482131/storyboard-showcase-perfume-laser-beam)         | [Vidéo #2](https://www.youtube.com/watch?v=m2_gxjZZnRw)                         |
