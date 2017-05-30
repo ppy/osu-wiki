@@ -170,7 +170,7 @@ TB:
 4. All maps(**4**) will be played twice in the order specified by the referee.
 5. 4 highest scores on each qualifier are cumulated for the final score.
 6. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(`Shift` + `F12`) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
-7. The results of Qualification stage will be posted under the tab "Match results" on the second day after the last match ends.
+7. The results of Qualification stage will be posted under the tab "Match results".
 
 ### Group stage
 
@@ -178,10 +178,10 @@ TB:
      - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT 4K 2017: (playerBlue) vs (playerRed)".
      - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
-3. Each player must use "!roll" once in \#multiplayer:
+3. Each player must use `!roll` once in \#multiplayer:
      - The losing roll picks the first banned map.
      - The winning roll picks the first map of the match.
-     - Repeat "!roll" if two rolls are equal.
+     - Repeat `!roll` if two rolls are equal.
 4. Players pick maps by turns:
      - In case of a tie, the tiebreaker map must be played.
 
@@ -195,7 +195,7 @@ TB:
      - **14** maps in both Round of 16 and Quarter-finals.
      - **16** maps in both Semi-finals and Finals.
 3. Except the mappool for Qualification Stage, each mappool has one tiebreaker.
-4. All maps, including the tiebreaker, will be played on FreeMod condition:
+4. All maps, including the tiebreaker, will be played on Free-Mod condition:
      - Every individual player can pick Hidden, Flashlight or Fade-In or no mode at all.
 
 ## Scheduling Instructions
