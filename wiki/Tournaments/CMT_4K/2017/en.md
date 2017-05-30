@@ -23,9 +23,9 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 
 
 All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.  
-![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**；  
-![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;  
-![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.  
+![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;
+![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;
+![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.
 
 ## Tournament staff
 
@@ -63,6 +63,7 @@ Update after group stage starts.
 ## Mappools
 
 ### Test match mappool
+
 [Download all(One Drive)](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
 [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
@@ -99,16 +100,16 @@ TB:
 5. Failed player's score do not get added to the team score.
 6. Use of the `[Visual Settings](https://osu.ppy.sh/wiki/Game_Modifiers#Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
-8. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
+8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  
      - disconnets within 30s after the match starts, the match will be reset.   
      - the player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
-12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have(including but not limited to):
-     - Internet issue.   
-     - System notification issue.  
-     - Hardware problems.  
+12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have (including but not limited to):
+     - Internet issue.
+     - System notification issue.
+     - Hardware problems.
 13. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
@@ -118,7 +119,7 @@ TB:
 
 1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
 2. Only these players are eligible to sign up:
-     - Either the registered region is China(Mainland), Hong Kong, Macao or Taiwan, or being capable of speaking Chinese.
+     - Either the registered region is China (Mainland), Hong Kong, Macao or Taiwan, or being capable of speaking Chinese.
      - No restrictions on time zone.  
      - Use Chinese as the primary language.  
      - No requirement on performance points (pp), but rank (above \#4000) is highly recommended.
@@ -129,7 +130,7 @@ TB:
 ### Stage Instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
-2. In the Group stage, qualified players will be divided into groups of 
+2. In the Group stage, qualified players will be divided into groups of 4. 
 3. All the players from each group will face each other.
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
      - Most matches won.
@@ -160,6 +161,7 @@ TB:
 ## Match Instructions
 
 ### Qualification stage
+
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
      - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT 4K 2017: (Qualification) vs (Qualification)".
      - The maximum amount of player for Qualification stage is 8.
@@ -167,10 +169,11 @@ TB:
 3. Players are not allowed to change slots once the match has started.
 4. All maps(**4**) will be played twice in the order specified by the referee.
 5. 4 highest scores on each qualifier are cumulated for the final score.
-6. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(Shift + F12) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
+6. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(`Shift` + `F12`) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
 7. The results of Qualification stage will be posted under the tab "Match results" on the second day after the last match ends.
 
 ### Group stage
+
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
      - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT 4K 2017: (playerBlue) vs (playerRed)".
      - PlayerBlue and playerRed must be in slot 1, 2, respectively.
