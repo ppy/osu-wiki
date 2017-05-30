@@ -43,7 +43,7 @@
 ## 比賽直播間
 
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
-Twitch 直播平台：[aiyulu](http://live.bilibili.com/10183)。
+Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 對陣表
 
@@ -53,7 +53,7 @@ Twitch 直播平台：[aiyulu](http://live.bilibili.com/10183)。
 
 ### 測試賽
 
-6月17日 15:00 (UTC+8)  新銳隊 vs 元老隊 (4v4）
+6月17日 15:00 (UTC+8)  新銳隊 vs 元老隊（4v4）
 
 元老隊隊員：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
 
