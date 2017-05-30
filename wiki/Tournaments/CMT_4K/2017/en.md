@@ -23,8 +23,8 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 
 
 All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.  
-![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;
-![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;
+![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;  
+![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;  
 ![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.
 
 ## Tournament staff
@@ -98,7 +98,7 @@ TB:
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the `[Visual Settings](https://osu.ppy.sh/wiki/Game_Modifiers#Visual_Settings) options are allowed.
+6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  
