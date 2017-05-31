@@ -22,9 +22,9 @@
 ## 比賽獎品
 
 本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。  
-![](/wiki/shared/GCrown.png) 3個月 osu! 支持者，主頁定制勛章，CrazyBoard Mark One 鍵盤；   
-![](/wiki/shared/SCrown.png) 2個月 osu! 支持者；  
-![](/wiki/shared/BCrown.png) 1個月 osu! 支持者。
+![](/wiki/shared/GCrown.png) 3個月 osu!支持者，主頁定制勛章，CrazyBoard Mark One 鍵盤；   
+![](/wiki/shared/SCrown.png) 2個月 osu!支持者；  
+![](/wiki/shared/BCrown.png) 1個月 osu!支持者。
 
 ## 比賽主辦團隊
 
