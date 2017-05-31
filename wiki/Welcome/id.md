@@ -41,7 +41,7 @@ Pertama-tama kami ingin memberikan sambutan dan pelukan hangat karena kamu telah
 # Tutorial
 Sebelum kamu mulai bermain osu!, kamu dianjurkan untuk memainkan beatmap tutorial pertama ([Peter Lambert - osu! tutorial](https://osu.ppy.sh/s/3756)).
 
-Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-mya. Beatmap ini akan mengajarkanmu fundamental-fundamental permainan osu! mode Standard seperti *Hitcircle*, *Slider*, dan 'Spinner''.
+Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-mya. Beatmap ini akan mengajarkanmu fundamental-fundamental permainan osu! mode Standard seperti _Hitcircle_, _Slider_, dan _Spinner_.
 
 **Catatan:** Apabila kamu tidak memiliki beatmap tutorial tersebut karena suatu alasan tertentu, kamu dapat mengunduh ulang beatmap tersebut [disini](https://osu.ppy.sh/b/22538). Setelah memainkan tutorial yang disediakan, kamu telah siap untuk mulai mengunduh beatmap-beatmap yang berbeda!
 
@@ -140,6 +140,6 @@ Berikut adalah beberapa sumber yang dapat membantumu:-
 -   [Latihan Awal](https://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Pilih beatmap untuk memulai dirimu.
 -   [Pak Beatmap](https://osu.ppy.sh/p/packlist) - Dapatkan koleksi beberapa beatmap yang ditata menurut secara umum.
 -   [Daftar Beatmap](https://osu.ppy.sh/p/beatmaplist) - Unduh beberapa beatmap (lagu) baru untuk bermain.
--   [Hal yang Sering Ditanyakan](/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
--   [osu!academy](Osu!academy "wikilink") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
--   [Tips dan Trik untuk Memulai osu!](Beginner "wikilink") - Butuh cukup bantuan? Cek disini!
+-   [FAQ](/wiki/FAQ) - Cari tahu tentang dasar dari permainan ini.
+-   [osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") - Video yang dapat membuatmu lebih akrab dalam setiap aspek dalam osu!
+-   [Tips dan Trik untuk Memulai osu!](/wiki/Beginner "Tips dan Trik untuk Memulai osu!") - Butuh cukup bantuan? Cek disini!
