@@ -41,7 +41,7 @@ Tout d'abord, nous aimerions vous accueillir chaleureusement pour avoir rejoint 
 ## Le Tutoriel
 Avant de jouer à osu!, nous vous recommandons de jouer le tutoriel ([Peter Lambert - osu! tutorial][osu!tutorial_basic]).
 
-Après avoir téléchargé et installé osu!, ouvrez-le et une fenêtre nommée "osu! update" devrait apparaître, attendez que les mises à jour soient faites. Quand le jeu démarre, il y aura un large bouton osu! au centre de l'écran. Appuyez simplement dessus et choisissez le mode "Solo". Vous pouvez facilement chercher une beatmap dans votre librairie juste en l'écrivant, mais ce que vous recherchez pour le moment, c'est le "Tutorial". cette beatmap va vous apprendre les éléments fondamentaux d'osu! comme les _Hitcircles_, les _Sliders_ et les _Spinners_.
+Après avoir téléchargé et installé osu!, ouvrez-le et une fenêtre nommée "osu! update" devrait apparaître, attendez que les mises à jour soient faites. Quand le jeu démarre, il y aura un large bouton osu! au centre de l'écran. Appuyez simplement dessus et choisissez le mode "Solo". Vous pouvez facilement chercher une beatmap dans votre liste juste en l'écrivant, mais ce que vous recherchez pour le moment, c'est le "Tutorial". cette beatmap va vous apprendre les éléments fondamentaux d'osu! comme les _Hitcircles_, les _Sliders_ et les _Spinners_.
 
 Pour les techniques de jeu, vous les apprendrez en jouant. Quelques beatmaps sont intégrées au jeu au même titre que le osu!tutorial, ce qui peut être considéré comme un guide.
 
