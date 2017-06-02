@@ -24,7 +24,7 @@
 [osu!mania icon link]: /wiki/shared/Mania.gif "icône d'osu!mania"
 [osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "les notes d'osu!mania"
-[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "les notes tenues d'osu!mania"
+[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "les longues notes d'osu!mania"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "l'Interface d'osu!mania"
 [osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "Disposition des touches d'osu!mania"
 [osu!mania key layout2 image]: /wiki/shared/Mania_key_layouts2.jpg "Disposition des touches d'osu!mania (Co-Op)"
@@ -43,7 +43,7 @@
 
 ![Gameplay d'osu!mania][osu!mania Interface image]
 
-Ce mode a été énormément utilisé dans à peu près tous les jeux de rythme majeurs.
+Ce mode a été énormément utilisé dans à peu près tous les principaux jeux de rythme.
 Il requiert une bonne coordination main et/ou jambe où les notes (avec leur quantité dépendant du BPM et de la difficulté) se déplacent sur un tapis-roulant.
 Le joueur devra appuyer sur la touche correcte pour la note spécifique à temps.
 Même si le mode de jeu a été originalement fait comme une imitation du style de jeu de _Beatmania_, osu!mania permet de changer le nombre de touches ou de retourner verticalement l'orientation du terrain de jeu (ça signifie qu'on peut le faire ressembler à _Guitar Hero_ \[5 touches\] ou _Dance Dance Revolution_ \[4 touches\] et ainsi de suite).
@@ -135,17 +135,17 @@ Plusieurs touches correspondant aux notes tombantes doivent être frappées simu
 
 Une explosion du score se fera quand une touche a été frappée au bon moment.
 
-#### Notes Tenues
+#### Longues Notes
 
-![Les notes tenues d'osu!mania][osu!mania holdnotes image]
+![Les longues notes d'osu!mania][osu!mania holdnotes image]
 
-_Une partie typique avec quelques notes tenues_
+_Une partie typique avec quelques longues notes_
 
-Les notes tenues sont les sliders et les spinners d'osu!mania.
+Les longues notes sont les sliders et les spinners d'osu!mania.
 Quand une note tenue atteint la ligne de jugement, frappez la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la note tenue.
 
 La régénération de la barre de vie s'active lentement lorsque vous tenez une/des note(s) longue(s).
-Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou notes tenues apparaissent lorsque vous tenez déjà une note.
+Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou longues notes apparaissent lorsque vous tenez déjà une note.
 
 ## Styles de Jeu
 
@@ -343,9 +343,9 @@ Flashlight                    1.06
 - MAX (300 arc-en-ciel), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
 - Un Miss est donné lorsqu'une note est manquée ou qu'un hit a été fait trop tôt.
 
-**Notes tenues**
+**Longues notes**
 
-- Le jugement des notes tenues dépend à la fois du début et de la fin de la note.
+- Le jugement des longues notes dépend à la fois du début et de la fin de la note.
 - Continuer de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final : MAX
 - Continuer de la tenir jusqu'à la fin de la note, sans relâcher la note : 200
 - Faire un _NG_ et ne pas récupérer la note tenue : Miss
@@ -363,7 +363,7 @@ NG : _Not Good_, un terme de _StepMania/DDR_, qui apparaît lorsqu'une note est 
 **Un des cas suivants va réinitialiser le multiplicateur de score/combo :**
 
 - La note n'est pas complétée.
-- La note tenue est lâchée durant alors que la note n'est pas finie.
+- La longue note est lâchée durant alors que la note n'est pas finie.
 
 **Le cas suivant ne va pas affecter le multiplicateur de score :**
 
@@ -414,7 +414,7 @@ Activez le bouton `Co-op mode` pour forcer le modifieurr _Co-Op_ quand elle sera
 ### Gameplay
 
 - Si le nombre de touches est le même après avoir utilisé le modifieur xK ou Co-Op, il n'y aura pas de réduction de score.
-  - Par exemple, pour une beatmap 4K, utiliser les modifieurs 2K et Co-Op n'affecteront pas le score.
+  - Par exemple, pour une beatmap 4K, utiliser les modifieurs 2K et Co-Op n'affectera pas le score.
   - Repectivement, pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
   - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
 - La mascotte d'osu!mania est [Maria][Mascots#Maria wikilink].
