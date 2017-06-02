@@ -86,11 +86,11 @@ Because this screen has too many elements to note by easily noticeable numbers, 
 ### Beatmap Information
 
 ![soloplay2.png](/wiki/Interface/img/Soloplay2.jpeg)
+![soloplay2.5.png](/wiki/Interface/img/Soloplay2.5.jpeg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select "Prefer metadata in original language" in [Options](/wiki/Options/en.md), it will show the Unicode title. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select "Prefer metadata in original language" in [Options](/wiki/Options/en.md), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
 - **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Glossary/en.md#drain-time).
-- **BPM**: The BPM of the beatmap. If (like in this picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and highest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
 - **Objects**: The total amount of [hit objects](/wiki/Hit_Objects/en.md) in the beatmap.
 - Circles: The total amount of hit circles in the beatmap.
 - Sliders: The total amount of sliders in the beatmap.
