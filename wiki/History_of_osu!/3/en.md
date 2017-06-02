@@ -8,7 +8,7 @@ Previous|Main page|Next
 
 ### September
 
-![osu!'s main menu at the time](Osu!is5menu.png "osu!'s main menu at the time")
+![osu!'s main menu at the time](img/Osu!is5menu.png "osu!'s main menu at the time")
 
 Announcement post: <http://osu.ppy.sh/forum/t/98349>
 
@@ -18,9 +18,9 @@ osu! and its community celebrated osu!'s 5th birthday on the 17th of September, 
 
 #### 8th
 
-![osu!mania logo](Mania_logo.png "osu!mania logo")
+![osu!mania logo](img/Mania_logo.png "osu!mania logo")
 
-![Per-object hitsounds as seen on the left of the editor.](H_8.10.12.jpg "Per-object hitsounds as seen on the left of the editor.")
+![Per-object hitsounds as seen on the left of the editor.](img/H_8.10.12.jpg "Per-object hitsounds as seen on the left of the editor.")
 
 Announcement post: <http://osu.ppy.sh/forum/p/1825880>
 
@@ -36,7 +36,7 @@ Trivial note: For players who entered Multi's lobby before updating to the b2012
 
 #### 29th
 
-![Background change as shown by peppy.](H_BG.jpg "Background change as shown by peppy.")
+![Background change as shown by peppy.](img/H_BG.jpg "Background change as shown by peppy.")
 
 Announcement post: <http://osu.ppy.sh/forum/t/103427>
 
@@ -75,7 +75,7 @@ A "Quick Join" button is added to Multi's lobby where you randomly join a room b
 
 ### December
 
-![Art by RBRat3](H_25.12.12.png "Art by RBRat3")
+![Art by RBRat3](img/H_25.12.12.png "Art by RBRat3")
 
 #### 21st
 

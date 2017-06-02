@@ -38,7 +38,7 @@ Links: [15](https://osu.ppy.sh/forum/t/131611) [16](http://osu.ppy.sh/forum/p/23
 
 Game Modifiers naming in results has been shorten (Hard Rock -&gt; HR) to decease the limited space usage. *Most* of the broken replays in the past have been fixed. A new spectator system where you can follow the spectator target if they are spectating someone else (refer to picture). The update system has been reworked, most notably it will no longer force restarts unless required. During replays, half-speed replay has been added (after pressing x2 Speed, it will show 0.5x Speed). The playfield will not flash out the background at 100% dim. Catch the Beat received joystick support (Up/Down: change song, Right: select, Left: exit). [A new ranking/modding system is in development](https://osu.ppy.sh/forum/t/129625) (will replace the ancient forum-styled modding threads). For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKeys) when Free Mod is turned on by host. At skinning side, widescreen taiko(taiko @2x) default sprites have been added. Favourite A/B have removed completely and superseded by the Collections. Three brand new Dedication achievements for osu!mania have been released (40,000/ 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho(that is, in-game login) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 
-![Picture guide about spectator targeting.](Spectator_Target.jpg "Picture guide about spectator targeting.")
+![Picture guide about spectator targeting.](img/Spectator_Target.jpg "Picture guide about spectator targeting.")
 
 ### June
 
@@ -46,17 +46,17 @@ Links: [17](https://osu.ppy.sh/forum/p/2400775) [18](https://osu.ppy.sh/forum/t/
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/forum/p/2324098) has started and will end at 1st of July. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration is improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons. Away with the security measures, users allowed to choose which game mode their profile defaults to (such as osu!mania, Taiko) and [last.fm](http://www.last.fm/) support to profiles. User profiles now have country performance rank on their profile and a new pp graph. In-game wise, main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (&gt;10k) maps. Update process robustness and performance have been improved. Gameplay-wise, lead-in time is automatically add to any beatmaps which start abruptly to allow enough time to adjust Visual Settings and total press counts for each key on the input overlay is added. For online results storages, personal best rank is show on beatmap info pages besides the \#1 player. Score submission from mania charts is allowed and Top 50 replays is stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments added to beatmap pages. Finally, prototype testing of score meter for all modes is underway for osu!test.
 
-![Account creation process.](Account_Creation.png "Account creation process.")
+![Account creation process.](img/Account_Creation.png "Account creation process.")
 
-![Example of attempting to create secondary or more accounts.](Multiaccounting.png "Example of attempting to create secondary or more accounts.")
+![Example of attempting to create secondary or more accounts.](img/Multiaccounting.png "Example of attempting to create secondary or more accounts.")
 
-![Example of comparison in beatmap info pages.](Beatmap_Info.png "Example of comparison in beatmap info pages.")
+![Example of comparison in beatmap info pages.](img/Beatmap_Info.png "Example of comparison in beatmap info pages.")
 
-![Example of current date user profile.](User_Profile.jpg "Example of current date user profile.")
+![Example of current date user profile.](img/User_Profile.jpg "Example of current date user profile.")
 
-![Disqus implemented.](Disqus.png "Disqus implemented.")
+![Disqus implemented.](img/Disqus.png "Disqus implemented.")
 
-![osu! new main menu visualisation.](New_Main_Menu.png "osu! new main menu visualisation.")
+![osu! new main menu visualisation.](img/New_Main_Menu.png "osu! new main menu visualisation.")
 
 ### July
 
@@ -64,15 +64,15 @@ Links: [19](https://osu.ppy.sh/forum/t/142864/start=0) [20](https://osu.ppy.sh/f
 
 [The new regional BATmanagers](https://osu.ppy.sh/forum/t/132667) began their first major recruitment of new BATs in to the team with the [Summer 2013 NewBAT Applications](https://osu.ppy.sh/forum/t/142864/start=0). This provided a chance for the new managers to adequately handle new applications. The new regional managers were [NatsumeRin](https://osu.ppy.sh/u/natsumerin) representing Asia/Oceania, [Kurai](https://osu.ppy.sh/u/kurai) representing Europe, and [Garven](http://osu.ppy.sh/u/garven) representing America. On July 2nd, peppy made the [osu!api](https://osu.ppy.sh/forum/t/141240) open to the public (previously available only through private requests). This allowed independent developers to work on third party services for osu!. On July 11th, the previously broken "forgot password" page has been fixed. July 18th brought updates to Bancho's fallback connectivity. On July 21st, widescreen support for storyboards was added in the song setup dialog. Two new in-game overlays were added to track accuracy as you play or watch others play. Refer to [Options](/wiki/Options) page for further information.
 
-![Hit-error overlay](Hit-Error.png "Hit-error overlay")
+![Hit-error overlay](img/Hit-Error.png "Hit-error overlay")
 
-![Colour overlay](Colour_Overlay.png "Colour overlay")
+![Colour overlay](img/Colour_Overlay.png "Colour overlay")
 
 ### August
 
 ### December
 
-![Guest appearance of osu! creator for Comic Fiesta 2013.](Peppy.jpg "Guest appearance of osu! creator for Comic Fiesta 2013.")
+![Guest appearance of osu! creator for Comic Fiesta 2013.](img/Peppy.jpg "Guest appearance of osu! creator for Comic Fiesta 2013.")
 
 Links: [21](https://osu.ppy.sh/forum/t/163121) [22](http://comicfiesta.org/2013/info/event/schedule/) [23](https://osu.ppy.sh/forum/t/176000) [24](http://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/) [25](http://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 
@@ -84,7 +84,7 @@ Links: [21](https://osu.ppy.sh/forum/t/163121) [22](http://comicfiesta.org/2013/
 
 As skinning elements expanded, the element, playfield.jpg was removed in it's line of duty and replaced with a new generic one that was unskinnable. playfield.jpg was an element that allowed you to use any image as the default background of a beatmap, if one isn't supplied.
 
-![Old playfield.jpg](Old_Playfield.jpg "Old playfield.jpg")
+![Old playfield.jpg](img/Old_Playfield.jpg "Old playfield.jpg")
 
 ### July
 
