@@ -2,7 +2,7 @@
 [Game_Modes wikilink]: ../ "Modes de Jeu"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "plsu d'infos peuvent être trouvées dans Styles de jeu sous osu!mania"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "plus d'infos peuvent être trouvées dans Styles de jeu sous osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous xK"
 [Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "plus d'infos peuvent être trouvées dans Score sous Valeurs de Score d'osu!mania"
@@ -18,7 +18,7 @@
 [osu!mania logo]: ./img/Mania_logo.png "le logo d'osu!mania dans les Modes Spéciaux"
 [osu!mania SC image]: ./img/Mania_SC.jpg "La valeur de Speed Change est située en haut à droite"
 [osu!mania SCDiff image]: ./img/Mania_SCDifference.png "La densité de la beatmap dépend du Speed Change"
-[set fixed scaling image]: ./img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désativant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'Options"
+[set fixed scaling image]: ./img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'Options"
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/Mania.gif "icône d'osu!mania"
@@ -69,7 +69,7 @@ Sachez que le jugement d'une beatmap est déterminé automatiquement.
 
 #### Beatmaps spécifiques à osu! et différences de conversion depuis les beatmaps osu!
 
-Lors de la conversion d'une beatmap non spécifique, le rayon par défaut des touches va de 4 à 7.
+Lors de la conversion d'une beatmap non spécifique, les touches varient par défaut de 4 à 7.
 
 Avec le modifieur de jeu [xK][xK wikilink], le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score.
 Cependant, le modifieur de jeu ne fonctionnera pas avec des beatmaps spécifiques à osu!mania.
@@ -97,14 +97,14 @@ _La densité de la beatmap dépend du Speed Change, du BPM, et du système de mi
 **La mise à l'échelle basée sur le BPM** est l'ancien système de mise à l'échelle qui est celui par défaut, il met à l'échelle la vitesse de déroulement en fonction du BPM actuel joué.
 Il y aura donc une différence au niveau de la vitesse de défilement lorsque vous jouerez une beatmap de 100BPM (défile moins vite) et une beatmap de 200 BPM (défile plus vite) avec la même vitesse de mise à l'échelle.
 
-![Activer la Mise à l'échelle fixée en désativant `Vitesses de défilement osu!mania basées sur le BPM`][set fixed scaling image]
+![Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM`][set fixed scaling image]
 
-_Activez la Mise à l'échelle fixée en désativant `Vitesses de défilement osu!mania basées sur le BPM`_
+_Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM`_
 
 La vitesse de défilement **Fixée** est le nouveau système qui force une vitesse de défilement constante quel que soit le BPM.
 [Une introduction très simple de Blazier le 29 Octobre 2014 (2014-10-29) à propos de la vitesse de défilement fixée](https://osu.ppy.sh/forum/t/254145).
 
-Sachez que ces deux systèmes seront quand même affectés pas les changements de BPM, avec des changements allant de drastiques (souvent pour une mise à l'échelle plus haute avec un haut BPM et des note rapides; très bas BPM pour des notes condensées) à mineures (souvent une mise à l'échelle fixée sur la plupart des spectrums de BPM) dépendamment du Speed Change utilisé.
+Sachez que ces deux systèmes seront quand même affectés par les changements de BPM, avec des changements allant de drastiques (souvent pour une mise à l'échelle plus haute avec un haut BPM et des note rapides; très bas BPM pour des notes condensées) à mineures (souvent une mise à l'échelle fixée sur la plupart des spectrums de BPM) dépendamment du Speed Change utilisé.
 
 ### Gameplay
 
@@ -144,8 +144,8 @@ _Une partie typique avec quelques notes tenues_
 Les notes tenues sont les sliders et les spinners d'osu!mania.
 Quand une note tenue atteint la ligne de jugement, frappez la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la note tenue.
 
-La régénration de la barre de vie s'active lentement lorsque vous tenez une/des note(s) longue(s).
-Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou notes tenues apparaîssent lorsque vous tenez déjà une note.
+La régénération de la barre de vie s'active lentement lorsque vous tenez une/des note(s) longue(s).
+Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou notes tenues apparaissent lorsque vous tenez déjà une note.
 
 ## Styles de Jeu
 
@@ -159,7 +159,7 @@ _[Référez-vous à Options-&gt;Contrôles sous la section Clavier, spécifiquem
 
 Sachez que les informations sur les contrôles fournies ci-dessous font référence aux _anciens_ paramètres de touches utilisés dans les Options où les touches sont arrangées pour tous les paramètres de touches.
 
-Les nouveaux paramètres de touches demande au joueur de les définir manuellement en utilisant le bouton `disposition osu!mania` au-dessus pour _chaque_ arrangement de touches (les arrangements non gérés utiliseront les paramètres par défaut).
+Les nouveaux paramètres de touches demandent au joueur de les définir manuellement en utilisant le bouton `disposition osu!mania` au-dessus pour _chaque_ arrangement de touches (les arrangements non gérés utiliseront les paramètres par défaut).
 
 Les paramètres de touches par défaut sont pour le style _Symétrique_.
 
@@ -167,10 +167,10 @@ Les paramètres de touches par défaut sont pour le style _Symétrique_.
 
 ![Configuration des Touches par défaut dans osu!mania (Options-&gt;Contrôles)][osu!mania key layout image]
 
-Il _y avait_ deux différents styles de configuration, _Symétrique_ et _de Gauche à Droite_:-
+Il _y avait_ deux différents styles de configuration, _Symétrique_ et _de Gauche à Droite_ :
 
 - le style _Symétrique_ imite le placement des boutons de _DJMAX_, dans lequel la touche centrale est la touche `Espace` pour simuler la sensation d'appuyer sur la pédale de la version arcade.
-  La touche du centre correspond à la colonne du milieu (nombres impaires seulement) et les autres colonnes correspondent au touches à la même place.
+  La touche du centre correspond à la colonne du milieu (nombres impairs seulement) et les autres colonnes correspondent au touches à la même place.
 - le style _de Gauche à Droite_ imite le placement des boutons de _Beatmania IIDX_, où la première colonne correspond à la _touche1_, puis la seconde colonne à la _touche2_ et ainsi de suite.
   - Cependant, l'option pour le sélectionner a été supprimée et le style actuel est basé sur le style "Symétrique".
     Pour cause d'héritage, le style "de Droite à Gauche" est gardé ici.
@@ -182,7 +182,7 @@ Arrangement de touches _Symétrique_ (Pour le style _DJMAX_)
 - Le bouton _Spécial_ — `leftShift` \[en utilisant le style spécial\] et `leftCtrl` \[arrangement alternatif\].
 
 Touche | G | C | D
-:---:|:---|:---:|---:
+ :--:| :--| :--:|---:
 1K|-|K5|
 2K|K4|-|K6
 3K|K4|K5|K6
@@ -198,11 +198,11 @@ Touche | G | C | D
 9K|K1, K2, K3, K4|K5|K6, K7, K8, K9
 
 Arrangement des touches pour _le Droite à Gauche_ (pour le style _Beatmania IIDX_)
-- De bas à gauche puis encore une fois: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 n'est pas utilisée\]
+- De bas à gauche puis encore une fois : (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 n'est pas utilisée\]
 - le bouton _Spécial_ — `leftShift` et `leftCtrl`.
 
 Touche | Lié à
-:---:|:---
+ :--:| :--
 4K|K1, K2, -, K4, K5
 5K|K1, K2, K3, K4, K5
 6K|K1, K2, K3, K4, K5, K6
@@ -230,7 +230,7 @@ Arrangement de touches _Symétrique_ pour le second setzzz
 **Le tableau ci-dessous est basé sur le mod xK utilisé avec le mod Co-Op.**
 
 Key | PL | PC | PR | SL | SC | SR
-:---:|:---|:---:|---:|:---|:---:|---:
+ :--:| :--| :--:|---:| :--| :--:|---:
 1K Co-op|-|K5|-|-|B5|-
 2K Co-op|K4|-|K6|B4|-|B6
 3K Co-op|K4|K5|K6|B4|B5|B6
@@ -246,11 +246,11 @@ Key | PL | PC | PR | SL | SC | SR
 9K Co-op|K1, K2, K3, K4|K5|K6, K7, K8, K9|B1, B2, B3, B4|B5|B6, B7, B8, B9
 
 **Le tableau ci-dessous ne s'applique qu'aux beatmaps spécifiques à osu!mania.
-Seulement les nombre impairs spécifiques au xK ne sont mentionnés.
+Seulement les nombre impairs spécifiques au xK sont mentionnés.
 Reportez-vous au premier tableau pour les numéros pairs (pour les spécifiques au 4K, se référer à 2K Co-op et ainsi de suite)**
 
 Key | PL | PC | PR | SL | SC | SR
-:---:|:---|:---:|---:|:---|:---:|---:
+ :--:| :--| :--:|---:| :--| :--:|---:
 3K|K4|-|K6|-|B5|-
 5K|K4|K5|K6|B4|-|B6
 7K|K3, K4|-|K6, K7|B4|B5|B6
@@ -260,12 +260,12 @@ Key | PL | PC | PR | SL | SC | SR
 
 _[Les Valeurs de Scoring peuvent être trouvées sous osu!mania de la section Scoring Values][Score#osu!maniaSV wikilink]_
 
-La section Scoring détaille tous les recoins du scoring, formules mathématiques comprises.
+La section Scoring détaille tout les recoins du scoring, formules mathématiques comprises.
 
 ### Grades
 
 Grade| Condition
-:---:|:---
+ :--:| :--
 SS   | 100% de Précision (seulement des max MAX et/ou 300).
 S    | Over 95% de Précision (un rang 'S' même avec plusieurs manqués, comme dans _osu!catch_).
 A    | Over 90% de Précision.
@@ -279,10 +279,10 @@ Il est possible d'obtenir un rang SSH ou un SH (S ou SS d'argent) avec le mod [H
 
 La précision est calculée d'une manière similaire à [osu!standard][osu! wikilink] dans ce mode.
 
-En d'autres termes: `Précision = Total des points de hit / (Nombre total de hit * 300)`
+En d'autres termes : `Précision = Total des points de hit / (Nombre total de hit * 300)`
 
 Terme | Formule
-:---:|:---
+ :--:| :--
 **Total des points de hits** | (Nombre de 50 * 50 + Nombre de 100 * 100 + Npmbre de 200 * 200 + Npmbre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
 **Nombre total de hits** | (Nombre de manqués + N + Nombre de 50 * 50 + Nombre de 100 * 100 + Npmbre de 200 * 200 + Npmbre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
 
@@ -296,12 +296,12 @@ Le score est donné en deux parties, le score de base et le score bonus, chacun 
 
 - Le score de base est basé sur le jugement des hits.
   - Un 300 arc-en-ciel vaut un peu plus qu'un 300.
-- Le score bonus est basé sur le jugement des hit ainsi que le multiplicateur bonu flottant.
-  - Le multiplieur augmente avec les 300 arc-en-ciel ou les 300, alors qu'il diminue avec les autres.
-  - Meilleur est le jugement, plus élevé sera le multiplieur.
-    - Il y a un maximum au multiplieur.
+- Le score bonus est basé sur le jugement des hit ainsi que le multiplicateur bonus flottant.
+  - Le multiplicateur augmente avec les 300 arc-en-ciel ou les 300, alors qu'il diminue avec les autres.
+  - Meilleur est le jugement, plus élevé sera le multiplicateur.
+    - Il y a un maximum au multiplicateur.
 
-Le score donné par chaque note est calculé comme suit:-
+Le score donné par chaque note est calculé comme suit :
 
 ```
 Score = BaseScore + BonusScore
@@ -313,7 +313,7 @@ Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
 Bonus est limité à [0, 100], initiallement 100.
 
 MaxScore = 1 000 000
-ModMultiplier = Le multiplieur de score des mods sélectionnés (réduction de difficulté et/ou nK)
+ModMultiplier = Le multiplicateur de score des mods sélectionnés (réduction de difficulté et/ou nK)
 ModDivider = Le diviseur de sanction des mods sélectionnés (augmentation de difficulté)
 
 Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
@@ -340,50 +340,50 @@ Flashlight                    1.06
 
 **Notes**
 
-- MAX (300 arc-en-ciel), 300, 200, 100 ou 50 depuis une note dépendant du timing tu hit.
+- MAX (300 arc-en-ciel), 300, 200, 100 ou 50 depuis une note dépendant du timing du hit.
 - Un Miss est donné lorsqu'une note est manquée ou qu'un hit a été fait trop tôt.
 
 **Notes tenues**
 
 - Le jugement des notes tenues dépend à la fois du début et de la fin de la note.
-- Continuez de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final: MAX
-- Continuez de la tenir jusqu'à la fin de la note, sans relâcher la note: 200
-- Faire un _NG_ et ne pas récupérer la note tenue: Miss
-- Faire un _NG_ et continuer de maintenir la note: 50
+- Continuer de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final : MAX
+- Continuer de la tenir jusqu'à la fin de la note, sans relâcher la note : 200
+- Faire un _NG_ et ne pas récupérer la note tenue : Miss
+- Faire un _NG_ et continuer de maintenir la note : 50
 
-NG: _Not Good_, un terme de _StepMania/DDR_, qui apparaît lorsqu'une note est relâchée alors qu'elle ne devrait pas l'être.
+NG : _Not Good_, un terme de _StepMania/DDR_, qui apparaît lorsqu'une note est relâchée alors qu'elle ne devrait pas l'être.
 
-### Multiplieur de Score/Combo
+### Multiplicateur de Score/Combo
 
-**Une des conditions suivantes doit être remplie pour ajouter un point au multiplieur de score/combo:-**
+**Une des conditions suivantes doit être remplie pour ajouter un point au multiplicateur de score/combo :**
 
-- La note est complétée avec la touche correcte.
+- La note est complétée avec la bonne touche.
 - La note est tenue avec la bonne touche.
 
-**Un des cas suivants va réinitialiser le multiplieur de score/combo:-**
+**Un des cas suivants va réinitialiser le multiplicateur de score/combo :**
 
 - La note n'est pas complétée.
-- La note tenue est lâchée durant lorqsue la note n'est pas finie.
+- La note tenue est lâchée durant alors que la note n'est pas finie.
 
-**Le cas suivant ne va pas affecter le smultiplieur de score:-**
+**Le cas suivant ne va pas affecter le multiplicateur de score :**
 
 - Lâcher la note tenue à la fin de la note.
 
-## Health bar
+## Barre de vie
 
 Le système calculant le gain de vie est complexe, il ne sera donc pas traité en détail.
 Tout dépend du HP difficulty paramétré par le mappeur lui-même.
 
-**Les conditions suivantes vont redonner de la vie:-**
+**Les conditions suivantes vont redonner de la vie :**
 
 - Avoir un 300 arc-en-ciel, un 300, ou un 200.
 - Tenir une note avec la bonne touche.
 
-**La condition qui suit résultera en une perte de vie:-**
+**La condition qui suit résultera en une perte de vie :**
 
 - Obtenir un 50 ou un Miss.
 
-**Le cas qui suit conservera la barre de vie:-**
+**Le cas qui suit conservera la barre de vie :**
 
 - Rien.
 
@@ -393,21 +393,21 @@ Tout dépend du HP difficulty paramétré par le mappeur lui-même.
 
 ## Beatmapping
 
-### osu!mania-specific Editor
+### Éditeur spécifique à osu!mania
 
-![The osu!mania editor][osu!mania editor image]
+![l'éditeur d'osu!mania][osu!mania editor image]
 
-_The osu!mania-specific editor_
+_l'éditeur spécifique à osu!mania_
 
-To access osu!mania-specific editor, change the beatmap to osu!mania-specific in Song Setup under Advanced tab.
-Do note that the beatmap will be locked to osu!mania only when the settings was changed from _All_ to _osu!mania_.
+Pour accéder à l'éditeur spécifique à osu!mania, changez la beatmap en spécifique à osu!mania dans Song Setup sous l'onglet Advanced.
+Sachez que la beatmap sera bloquée en osu!mania seulement quand les paramètres changent de _All_ à _osu!mania_.
 
-![Changing the key counts][osu!mania SSD image]
+![Changer le nombre de touches][osu!mania SSD image]
 
-_Changing the enforced key count_
+_Changer le nombre forcé de touches_
 
-To change the enforce key count, go to Song Setup under Difficulty tab and adjust the _Key Count_.
-Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with doubled _Key Count_ to map on.
+Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Difficulty et ajustez _Key Count_.
+Activez le bouton `Co-op mode` pour forcer le modifieurr _Co-Op_ quand elle sera jouée, avec un _Key Count_ doublé à mapper.
 
 ## Trivia
 
@@ -415,8 +415,8 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 - Si le nombre de touches est le même après avoir utilisé le modifieur xK ou Co-Op, il n'y aura pas de réduction de score.
   - Par exemple, pour une beatmap 4K, utiliser les modifieurs 2K et Co-Op n'affecteront pas le score.
-  - Repectivement,pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
-  - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affecteront pas non plus le score.
+  - Repectivement, pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
+  - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
 - La mascotte d'osu!mania est [Maria][Mascots#Maria wikilink].
 - Lors de l'utilisation d'[Auto][Auto wikilink], le nom du joueur sera _osu!topus_.
 
@@ -424,7 +424,7 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 ![Le logo d'osu!mania dans les Modes Spéciaux][osu!mania logo]
 
-_Le logo d'osu!mania dans les dépréciés Modes Spéciaux_
+_Le logo d'osu!mania dans les Modes Spéciaux obsolètes_
 
 - osu!mania est sorti le [**08 October 2012 (2012-10-08)**, principalement implémenté par **woc2006**](http://osu.ppy.sh/forum/p/1825880).
 - L'ancien éditeur d'osu!mania _demandait_ au mappeur de placer des cercles et des sliders dans un terrain de jeu d'osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
