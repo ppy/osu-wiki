@@ -1,7 +1,7 @@
 Skin Set List 
 ============= 
 
-The following table contains all skin sets that are presented in the draft worked out by the skining subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral)
+The following table contains all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral)
 
 <table cellpadding="0" cellspacing="0">
 	<tr>
