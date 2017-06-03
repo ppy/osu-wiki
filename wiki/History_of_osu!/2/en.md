@@ -4,11 +4,18 @@ Previous|Main page|Next
 :---:|:---:|:---:
 [2007/2008](/wiki/History_of_osu!/1)|[Main](/wiki/History_of_osu!/)|[2011/2012](/wiki/History_of_osu!/3)
 
-2009
-----
+## 2009
 
 ### January
 
-<img src="First_osu_iPhone_app_mainmenu.jpg" title="fig:Title screen" alt="Title screen" height="150" /> osu! makes its way to the iPhone from a port to the iPhone by .
+![Main menu](img/First_osu_iPhone_app_mainmenu.jpg "Main menu")
 
-First\_osu\_iPhone\_app\_loading\_textures.jpg|Loading textures First\_osu\_iPhone\_app\_loading\_beatmaps.jpg|Loading beatmaps First\_osu\_iPhone\_app\_options.jpg|Options First\_osu\_iPhone\_app\_song\_selection.jpg|Song selection First osu iPhone app song difficulty selection.jpg|Song difficulty selection First\_osu\_iPhone\_app\_song\_scoreboard.jpg|Song scoreboards First osu iPhone app search bar.jpg|Downloading songs First\_osu\_iPhone\_app\_newest\_beatmaps.jpg|List of new beatmaps First\_osu\_iPhone\_app\_download\_screen.jpg|Downloading beatmap screen First\_osu\_iPhone\_app\_gameplay.jpg|Gameplay First\_osu\_iPhone\_app\_pause\_menu.jpg|Pausing First\_osu\_iPhone\_app\_ranking\_screen.jpg|Ranking screen First\_osu\_iPhone\_app\_highscore.jpg|Highscore!
+osu! makes its way to the iPhone from a port to the iPhone by [nuudles](https://osu.ppy.sh/u/21312).
+
+![Song selection](img/First_osu_iPhone_app_song_selection.jpg "Song selection")
+![Difficulty selection](img/First_osu_iPhone_app_song_difficulty.jpg "Difficulty selection")
+![Scoreboards](img/First_osu_iPhone_app_song_scoreboard.jpg "Scoreboards")
+![Newest beatmaps](img/First_osu_iPhone_app_newest_beatmaps.jpg "Newest beatmaps")
+![Gameplay](img/First_osu_iPhone_app_gameplay.jpg "Gameplay")
+![Pause menu](img/First_osu_iPhone_app_pause_menu.jpg "Pause menu")
+![Ranking screen](img/First_osu_iPhone_app_ranking_screen.jpg "Ranking screen")
