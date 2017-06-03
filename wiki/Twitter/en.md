@@ -1,3 +1,5 @@
+# Twitter
+
 ## We tweet, too!
 
 osu! has several twitter accounts, each serving specific purposes. Most are very low traffic but will help to keep you informed outside of the osu! ecosystem.
