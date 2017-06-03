@@ -1,8 +1,8 @@
-# Fourms
+# Forums
 
 ![osu!forums](main.jpg "Image of the osu!forums")
 
-The osu!fourms is one of the main features of the osu!website.
+The osu!forums is one of the main features of the osu!website.
 Here, you can make new threads or posts within discussions inside of the osu!community.
 
 ## Directory
