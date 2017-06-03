@@ -9,6 +9,22 @@ Previous|Main page|Next
 
 ### January
 
-<img src="First_osu_iPhone_app_mainmenu.jpg" title="fig:Title screen" alt="Title screen" height="150" /> osu! makes its way to the iPhone from a port to the iPhone by .
+![Title Screen](img/iPhone_app_mainmenu.jpg "Title Screen")
 
-First\_osu\_iPhone\_app\_loading\_textures.jpg|Loading textures First\_osu\_iPhone\_app\_loading\_beatmaps.jpg|Loading beatmaps First\_osu\_iPhone\_app\_options.jpg|Options First\_osu\_iPhone\_app\_song\_selection.jpg|Song selection First osu iPhone app song difficulty selection.jpg|Song difficulty selection First\_osu\_iPhone\_app\_song\_scoreboard.jpg|Song scoreboards First osu iPhone app search bar.jpg|Downloading songs First\_osu\_iPhone\_app\_newest\_beatmaps.jpg|List of new beatmaps First\_osu\_iPhone\_app\_download\_screen.jpg|Downloading beatmap screen First\_osu\_iPhone\_app\_gameplay.jpg|Gameplay First\_osu\_iPhone\_app\_pause\_menu.jpg|Pausing First\_osu\_iPhone\_app\_ranking\_screen.jpg|Ranking screen First\_osu\_iPhone\_app\_highscore.jpg|Highscore!
+ osu! makes its way to the iPhone from a port to the iPhone by [nuudles](https://osu.ppy.sh/u/21312).
+
+#### What the app looked like
+
+![Loading Textures](img/iPhone_app_loading_textures.jpg "Loading Textures")
+![Loading Beatmaps](img/iPhone_app_loading_beatmaps.jpg "Loading Beatmaps")
+![Options](img/iPhone_app_options.jpg "Options")
+![Song selection](img/iPhone_app_song_selection.jpg "Song selection")
+![Song difficulty selection](img/iPhone_app_song_difficulty_selection.jpg "Song difficulty selection")
+![Song Scoreboards](img/iPhone_app_song_scoreboard.jpg "Song Scoreboards")
+![Downloading Songs](img/iPhone_app_search_bar.jpg "Downloading songs")
+![List of new beatmaps](img/iPhone_app_newest_beatmaps.jpg "List of new beatmaps")
+![Downloading beatmap screen](img/iPhone_app_download_screen.jpg "Downloading beatmap screen")
+![Gameplay](img/iPhone_app_gameplay.jpg "Gameplay")
+![Pausing](img/iPhone_app_pause_menu.jpg "Pausing")
+![Ranking Screen](img/iPhone_app_ranking_screen.jpg "Ranking Screen")
+![Highscore!](img/iPhone_app_highscore.jpg "Highscore!")
