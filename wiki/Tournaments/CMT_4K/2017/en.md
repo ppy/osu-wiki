@@ -142,13 +142,14 @@ TB:
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 7. The stages are split up into the following: 
   
-     | Stage | Match ID |
-     | ---: | :--- |
-     | Round of 16 | A, B, C, D, E, F, G, H |
-     | Quarter-finals | I, J, K, L & R, S, T, U |
-     | Semi-finals | M, N & V, W, X, Y, Z,AA |
-     | Finals - Week 1 | O & AB, AC, AD, AE |
-     | Finals - Week 2 | P, Q |
+| Stage | Match ID |
+| ---: | :--- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarter-finals | I, J, K, L & R, S, T, U |
+| Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD, AE |
+| Finals - Week 2 | P, Q |
+
 8. **Winning condition**:
      - In the Qualification stage, the **32** highest players will qualify next stage.
      - In Group stage, player needs to win **4** maps to win a match. (Best-of-7).
