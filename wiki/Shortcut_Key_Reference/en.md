@@ -34,7 +34,7 @@ Main Menu
 ---------
 
 -   **P**: Play mode (twice for osu! song select)
--   **P-M**: Play mode ([Multi-Play](/wiki/Multiplayer))
+-   **P-M**: Play mode ([Multi-Play](/wiki/Multi))
 -   **E**: Edit Mode (Song selection)
 -   **J**: Jump To (jukebox)
 -   **Z/X/C/V/B**: Jukebox controls (Winamp layout)

@@ -31,7 +31,7 @@ Shortcut Key Reference (中文)
 ------
 
 -   **P**: 游戏模式（敲击两次为 osu! 模式歌曲选择）
--   **P-M**: 游戏模式 （[多人游戏](/wiki/Multiplayer)）
+-   **P-M**: 游戏模式 （[多人游戏](/wiki/Multi)）
 -   **P-S-T**: 游戏模式 （[太鼓歌曲选择](/wiki/Game_Modes/osu!taiko)）
 -   **P-S-C**: 游戏模式 （[接水果歌曲选择](/wiki/Game_Modes/osu!catch)）
 -   **P-S-M**: 游戏模式（[osu!mania](/wiki/Game_Modes/osu!mania) 歌曲选择）

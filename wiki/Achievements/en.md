@@ -17,7 +17,7 @@ There are currently 16 achievements in this group which are divided into 4 secti
 
 Each of these sections currently have 4 volumes to them.
 
-### Requirements & Notes about getting the badge.
+### Requirements & Notes about getting the badge(s).
 
 #### Requirements:
 

@@ -55,16 +55,11 @@ Community
 
 Unofficial tournaments/competitions hosted by the communities.
 
-### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
+### ![](/wiki/shared/Osu.gif) Rapid Monthly osu! Tournament Invitationals \#2
 
-The North American osu! Standard Tournament is a yearly tournament run by , it uses the [Double Elimination](https://en.wikipedia.org/wiki/Double-elimination_tournament) style to determine a winner and is a solo tournament (1vs1). This style allows for a player to lose a match but still have a chance of winning, to counter the fact that newer players may be put against high ranked players in the first round.
-The tournament has been running since 2013, and will likely continue in the future. The Forum Post outlining all details of the tournament can be found [here](https://osu.ppy.sh/forum/t/324720)
-
-#### Previous Winners
-
-- **NAT 2013 WINNER:** SapphireGhost
-- **NAT 2014 WINNER:**
-- **NAT 2015 WINNER:**
+| Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational_2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/u/7292597)               | [-Rawn](https://osu.ppy.sh/u/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/u/7093651)      |
 
 See also
 ---------
