@@ -1,7 +1,7 @@
 Skin Set List 
 ============= 
 
-The following table contains all skin sets that are presented in the draft worked out by the skining subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (Name credits go to Ephemeral)
+The following table contains all skin sets that are presented in the draft worked out by the skining subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral)
 
 <table cellpadding="0" cellspacing="0">
 	<tr>
@@ -142,7 +142,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td>sliderendcircle.png</td>
-		<td dir="ltr" rowspan="4">should be included to guarantee correct display when an user-specific skin has them skinned</td>
+		<td dir="ltr" rowspan="4">should be included to guarantee correct display when a user-specific skin has them skinned</td>
 		<td dir="ltr">required</td>
 		<td dir="ltr" rowspan="4">118x118 (circle)<br>
 		128x128 (whole file)</td>
@@ -265,7 +265,7 @@ The following table contains all skin sets that are presented in the draft worke
 	<tr>
 		<td>spinner-bottom.png</td>
 		<td dir="ltr" rowspan="5">new spinner style,<br>
-		will only work if an user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced<br>
+		will only work if a user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced<br>
 		<br>
 		If these elements are included, the basic style must not be included</td>
 		<td dir="ltr">required</td>
@@ -310,7 +310,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td dir="ltr">spinner-osu.png</td>
-		<td dir="ltr">will only work if an user-specific skin supports skin version 1</td>
+		<td dir="ltr">will only work if a user-specific skin supports skin version 1</td>
 		<td dir="ltr">optional</td>
 		<td dir="ltr">-</td>
 		<td dir="ltr" rowspan="2">No</td>
@@ -484,7 +484,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td>fruit-drop-overlay.png</td>
-		<td dir="ltr">should be included to guarantee correct display when an user-specific skin has it skinned</td>
+		<td dir="ltr">should be included to guarantee correct display when a user-specific skin has it skinned</td>
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
