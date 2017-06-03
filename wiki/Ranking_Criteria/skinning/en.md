@@ -5,16 +5,16 @@ The following table contains all skin sets that are presented in the draft worke
 
 <table cellpadding="0" cellspacing="0">
 	<tr>
-		<th>Skin Set</td>
-		<th>File Name</td>
-		<th>Notes</td>
-		<th dir="ltr">Set Completion</td>
-		<th dir="ltr">Recommended Sizes for SD Skins</td>
-		<th dir="ltr">Gameplay Relevant?</td>
+		<th>Skin Set</th>
+		<th>File Name</th>
+		<th>Notes</th>
+		<th dir="ltr">Set Completion</th>
+		<th dir="ltr">Recommended Sizes for SD Skins</th>
+		<th dir="ltr">Gameplay Relevant?</th>
 	</tr>
 	<tr>
 		<th rowspan="4">osu!<br>
-		Cursor Set</td>
+		Cursor Set</th>
 		<td>cursor.png</td>
 		<td rowspan="2">should always be included together</td>
 		<td dir="ltr">required</td>
@@ -40,7 +40,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="13">osu!<br>
-		Hitburst Set</td>
+		Hitburst Set</th>
 		<td>hit0(-n).png</td>
 		<td rowspan="7">each hitburst should be clearly distinguishable from each other</td>
 		<td dir="ltr">required</td>
@@ -99,7 +99,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td dir="ltr">sliderpoint10.png</td>
-		<td dir="ltr" rowspan="2">will only work if an user-specific skin supports skin version 1</td>
+		<td dir="ltr" rowspan="2">will only work if a user-specific skin supports skin version 1</td>
 		<td dir="ltr">optional</td>
 		<td dir="ltr">-</td>
 	</tr>
@@ -110,7 +110,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th dir="ltr" rowspan="10">osu!<br>
-		Hitcircle Set</td>
+		Hitcircle Set</th>
 		<td>approachcircle.png</td>
 		<td dir="ltr">-</td>
 		<td dir="ltr">required</td>
@@ -125,7 +125,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td>hitcircle.png</td>
-		<td dir="ltr" rowspan="2">should always be inlcuded together, used for slidercircles when they are not skinned, won't be used for slidercircles if an user-specific skin has them skinned</td>
+		<td dir="ltr" rowspan="2">should always be inlcuded together, used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned</td>
 		<td dir="ltr">required</td>
 		<td dir="ltr" rowspan="2">118x118 (circle)<br>
 		128x128 (whole file)</td>
@@ -167,7 +167,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th dir="ltr" rowspan="5">osu!<br>
-		Slidertrack Set</td>
+		Slidertrack Set</th>
 		<td>sliderb(n).png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
@@ -198,7 +198,7 @@ The following table contains all skin sets that are presented in the draft worke
 	<tr>
 		<th rowspan="10">osu!<br>
 		Hitcircle Number<br>
-		Set</td>
+		Set</th>
 		<td>default-0.png</td>
 		<td dir="ltr" rowspan="10">overlaps / gaps between numbers are set by the user-specific skin</td>
 		<td dir="ltr">required</td>
@@ -243,7 +243,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="13">osu!<br>
-		Spinner Set</td>
+		Spinner Set</th>
 		<td>spinner-background.png</td>
 		<td dir="ltr" rowspan="3">basic spinner style,<br>
 		will be prioritized if both styles are present<br>
@@ -299,7 +299,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<td>spinner-clear.png</td>
-		<th rowspan="2">should always be included together</td>
+		<td rowspan="2">should always be included together</td>
 		<td dir="ltr">required</td>
 		<td>-</td>
 	</tr>
@@ -323,7 +323,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="9">osu!taiko<br>
-		Hitobject Set</td>
+		Hitobject Set</th>
 		<td>approachcircle.png</td>
 		<td dir="ltr">should only be used on beatmapsets without osu! difficulties (shared image)</td>
 		<td dir="ltr">required</td>
@@ -334,7 +334,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td>taikobigcircle.png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
-		<th rowspan="4">118x118</td>
+		<td rowspan="4">118x118</td>
 	</tr>
 	<tr>
 		<td>taikobigcircleoverlay(-n).png</td>
@@ -377,7 +377,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="5">osu!taiko<br>
-		Hiburst Set</td>
+		Hiburst Set</th>
 		<td>taiko-hit0(-n).png</td>
 		<td rowspan="5">each hitburst should be clearly distinguishable from each other</td>
 		<td dir="ltr">required</td>
@@ -406,7 +406,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="5">osu!taiko<br>
-		Pippidon Set</td>
+		Pippidon Set</th>
 		<td>pippidonclear(n).png</td>
 		<td rowspan="4">should always be included together to guarantee correct display in all states</td>
 		<td dir="ltr">required</td>
@@ -435,7 +435,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="10">osu!catch<br>
-		Fruits Set</td>
+		Fruits Set</th>
 		<td>fruit-apple.png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
@@ -489,7 +489,7 @@ The following table contains all skin sets that are presented in the draft worke
 	</tr>
 	<tr>
 		<th rowspan="4">osu!catch<br>
-		Catcher Set</td>
+		Catcher Set</th>
 		<td>fruit-catcher-fail(-n).png</td>
 		<td dir="ltr" rowspan="3">should always be included together to guarantee correct display in all states,<br>
 		should face right</td>
@@ -513,7 +513,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">No</td>
 	</tr>
 	<tr>
-		<th rowspan="6">Scorebar Set</td>
+		<th rowspan="6">Scorebar Set</th>
 		<td>scorebar-bg.png</td>
 		<td rowspan="2">should always be included together,<br>
 		should be designed to not overlap with the score numbers on 4:3 resolutions</td>
@@ -546,7 +546,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
-		<th rowspan="14">Score Number Set</td>
+		<th rowspan="14">Score Number Set</th>
 		<td>score-0.png</td>
 		<td dir="ltr" rowspan="13">overlaps / gaps between numbers are set by the user-specific skin</td>
 		<td dir="ltr">required</td>
@@ -607,7 +607,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
-		<th rowspan="27">Mod Icon Set</td>
+		<th rowspan="27">Mod Icon Set</th>
 		<td>selection-mod-autoplay.png</td>
 		<td dir="ltr" rowspan="27">the respective icons can be left out if the mod is not present in any of the gamemodes of the set</td>
 		<td dir="ltr">required</td>
@@ -745,11 +745,11 @@ The following table contains all skin sets that are presented in the draft worke
 		<td>-</td>
 	</tr>
 	<tr>
-		<th dir="ltr" rowspan="9">Playfield Set</td>
+		<th dir="ltr" rowspan="9">Playfield Set</th>
 		<td>comboburst-fruits(-n).png</td>
 		<td>should face right, automatically flipped if shown on the right side</td>
 		<td>optional</td>
-		<th rowspan="3">max height: 768px</td>
+		<td rowspan="3">max height: 768px</td>
 		<td dir="ltr" rowspan="3">Yes</td>
 	</tr>
 	<tr>
@@ -801,7 +801,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">relevant if map has kiai time</td>
 	</tr>
 	<tr>
-		<th rowspan="2">Inputoverlay Set</td>
+		<th rowspan="2">Inputoverlay Set</th>
 		<td>inputoverlay-background.png</td>
 		<td dir="ltr" rowspan="2">must not be skinned in beatmapsets without osu! or osu!catch difficulties</td>
 		<td dir="ltr">required</td>
@@ -814,7 +814,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td>max: 46x46</td>
 	</tr>
 	<tr>
-		<th dir="ltr" rowspan="14">Leaderboard Entry Number Set</td>
+		<th dir="ltr" rowspan="14">Leaderboard Entry Number Set</th>
 		<td>scoreentry-0.png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
@@ -890,7 +890,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td>10x14</td>
 	</tr>
 	<tr>
-		<th rowspan="5">Countdown Set</td>
+		<th rowspan="5">Countdown Set</th>
 		<td>ready.png</td>
 		<td dir="ltr" rowspan="5">must not be skinned if the beatmapset does not utilize countdowns</td>
 		<td dir="ltr">required</td>
@@ -914,7 +914,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
-		<th rowspan="2">Section Indicator Set</td>
+		<th rowspan="2">Section Indicator Set</th>
 		<td>section-fail.png</td>
 		<td dir="ltr" rowspan="2">must not be included if the beatmapset does not contain a break long enough for section indicators to show up</td>
 		<td dir="ltr">required</td>
@@ -926,7 +926,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
-		<th rowspan="8">Grade Indicator Set</td>
+		<th rowspan="8">Grade Indicator Set</th>
 		<td>ranking-a-small.png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
@@ -969,7 +969,7 @@ The following table contains all skin sets that are presented in the draft worke
 		<td dir="ltr">required</td>
 	</tr>
 	<tr>
-		<th rowspan="5">Pause Screen Set</td>
+		<th rowspan="5">Pause Screen Set</th>
 		<td>pause-back.png</td>
 		<td>-</td>
 		<td dir="ltr">required</td>
