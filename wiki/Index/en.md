@@ -153,7 +153,6 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
 ### Online Editing and Ranking
 
-- [Beatmap Forum](/wiki/Beatmap_Forum "Beatmap Forum")
 - [Modding](/wiki/Modding "Modding")
 - [Modding Guides](/wiki/Modding_Guides "Modding Guides")
   - [Collab Information](/wiki/Modding_Guides/Collab_Information "Collab Information")
@@ -217,6 +216,7 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
 ### Forum
 
+- [Forums](/wiki/Forums "Forums")
 - [Announcements](/wiki/Announcements "Announcements")
   - [Archive](/wiki/Announcements/Archive "Archive")
   - [Contests](/wiki/Announcements/Contests "Contests")
