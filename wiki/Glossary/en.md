@@ -35,7 +35,7 @@ Bancho is the easily expandable server coded by peppy.
 Bancho replaces the need for a third-party IRC server in the management of all online content in osu!.
 Logging with an osu!account ingame will automatically attempt to connect to Bancho until done successfully.
 
-### BAT
+### BAT (or Beatmap Appreciation Team)
 
 **As of February 1, 2015, the BAT was renamed to _Beatmap Nomination Group_**
 
