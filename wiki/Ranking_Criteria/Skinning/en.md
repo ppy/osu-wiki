@@ -1,9 +1,11 @@
 Skin Set List 
 ============= 
 
-The following table contains all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral)
+The following table contains all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
 
-## osu! Cursor Set
+## osu!
+
+### Cursor Set
 
 The entirety of this skinset is gameplay relevant.
 
@@ -14,7 +16,7 @@ The entirety of this skinset is gameplay relevant.
 |cursormiddle.png   |should be optional depending on the cursor's design   | optional  | -   |
 |cursor-smoke.png   |-   | optional   | -   |
 
-## osu! Hitburst Set
+### Hitburst Set
 
 The entirety of this skinset is gameplay relevant.
 
@@ -28,42 +30,42 @@ The entirety of this skinset is gameplay relevant.
 |hit300g(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
 |hit300k(-n).png   | should be clearly distinguishable from all other hitbursts  | required  | -  |
 |lighting.png   | -  | optional  | -  |
-|particle50.png   | should be included together with all other particles; will only work if custom hitbursts are included   | optional  | 7x7  |
-|particle100.ong   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7  |
-|particle300.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7  |
+|particle50.png   | should be included together with all other particles; will only work if custom hitbursts are included   | optional  | 7x7px  |
+|particle100.ong   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
+|particle300.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
 |sliderpoint10.png   | should be included together with sliderpoint 30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
 |sliderpoint30.png   | should be included together with sliderpoint 30.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
 
-## osu! Hitcircle Set
+### Hitcircle Set
 
 The entirety of this skinset is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|approachcircle.png   |-   |required   |126x126   |
+|approachcircle.png   |-   |required   |126x126px   |
 |followpoint.png   |-   |required   |-   |
-|hitcircle.png   | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   |118x118 (circle) 128x128 (whole file)   |
-|hitcircleoverlay(-n).png   |used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   | 118x118 (circle) 128x128 (whole file)  |
+|hitcircle.png   | used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   |118x118px (circle) 128x128px (whole file)   |
+|hitcircleoverlay(-n).png   |used for slidercircles when they are not skinned, won't be used for slidercircles if a user-specific skin has them skinned   |required   | 118x118px (circle) 128x128px (whole file)  |
 |reversearrow.png   |should face right   |required   | -  |
-|sliderendcircle.png   |should always be included to avoid conflicting with user-specific skins   |required   |118x118 (circle) 128x128 (whole file)   |
-|sliderendcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118 (circle) 128x128 (whole file)   |
-|sliderstartcircle.png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118 (circle) 128x128 (whole file)   |
-|sliderstartcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118 (circle) / 128x128 (whole file)   |
-|hitcircleselect.png   |only seen in the editor   |optional   |118x118 (circle) 128x128 (whole file)   |
+|sliderendcircle.png   |should always be included to avoid conflicting with user-specific skins   |required   |118x118px (circle) 128x128px (whole file)   |
+|sliderendcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) 128x128px (whole file)   |
+|sliderstartcircle.png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) 128x128px (whole file)   |
+|sliderstartcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) / 128x128px (whole file)   |
+|hitcircleselect.png   |only seen in the editor   |optional   |118x118px (circle) 128x128px (whole file)   |
 
-## osu! Slidertrack Set
+### Slidertrack Set
 
 The entirety of this skinset is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|sliderb(n).png   |-   |required   |118x118   |
-|sliderb-nd.png   |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118   |
-|sliderb-spec.png  |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118   |
-|sliderfollowcircle(-n).png   |-   |required   |256x256   |
+|sliderb(n).png   |-   |required   |118x118px   |
+|sliderb-nd.png   |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118px   |
+|sliderb-spec.png  |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118px   |
+|sliderfollowcircle(-n).png   |-   |required   |256x256px   |
 |sliderscorepoint.png   |also used in osu!taiko   |required   |-   |
 
-## osu! Hitcircle Number Set
+### Hitcircle Number Set
 
 The entirety of this skinset is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
 Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria Proposal.
@@ -81,7 +83,7 @@ Please note that the recommended sizes for all elements in this set is handled v
 |default-8.png   |-   |required   |-   |
 |default-9.png   |-  |required   | -  |
 
-## osu! Spinner Set
+### Spinner Set
 
 All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style". 
 
@@ -90,36 +92,38 @@ This is because the basic spinner style will take priority over the new one if b
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
 |spinner-background.png   |basic spinner style   |required   |-   |
-|spinner-circle.png   |basic spinner style   |required   |666x666   |
-|spinner-metre.png   |basic spinner style   |required   |1024x692   |
-|spinner-bottom.png   |new spinner style   |required   |667x667  |
-|spinner-glow.png   |new spinner style   |required   |852 x 852   |
-|spinner-middle.png   |new spinner style   |required   |689x689   |
-|spinner-middle2.png   |new spinner style   |required   |17x17   |
-|spinner-top.png   |new spinner style   |required   |667x667  |
-|spinner-approachcircle.png   |used by both sets   |required   |384x384   |
+|spinner-circle.png   |basic spinner style   |required   |666x666px   |
+|spinner-metre.png   |basic spinner style   |required   |1024x692px   |
+|spinner-bottom.png   |new spinner style   |required   |667x667px  |
+|spinner-glow.png   |new spinner style   |required   |852x852px   |
+|spinner-middle.png   |new spinner style   |required   |689x689px   |
+|spinner-middle2.png   |new spinner style   |required   |17x17px   |
+|spinner-top.png   |new spinner style   |required   |667x667px  |
+|spinner-approachcircle.png   |used by both sets   |required   |384x384px   |
 |spinner-clear.png   |-   |required   |-   |
 |spinner-spin.png   |-   |required   |-   |
 |spinner-osu.png   |will only work if an user-specific skin supports skin version 1   |optional   |-   |
-|spinner-rpm.png   |should be included if both score number set and spinner set are skinned   |optional   |280x56   |
+|spinner-rpm.png   |should be included if both score number set and spinner set are skinned   |optional   |280x56px   |
 
-## osu!taiko Hitobject Set
+## osu!taiko
+
+### Hitobject Set
 
 The entirety of this skinset is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|approachcircle.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |126x126   |
-|taikobigcircle.png   |-   |required   |118x118   |
-|taikobigcircleoverlay(-n).png   |-   |required   |118x118   |
-|taikohitcircle.png   |-   |required   |118x118   |
-|taikohitcircleoverlay(-n).png   |-   |required   |118x118   |
+|approachcircle.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |126x126px   |
+|taikobigcircle.png   |-   |required   |118x118px   |
+|taikobigcircleoverlay(-n).png   |-   |required   |118x118px   |
+|taikohitcircle.png   |-   |required   |118x118px   |
+|taikohitcircleoverlay(-n).png   |-   |required   |118x118px   |
 |sliderscorepoint.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |-   |
-|taiko-roll-middle.png   |gets stretched to fill the roll   |required   |1x118   |
-|taiko-roll-end.png   |right half of a circle   |required   |59x118   |
+|taiko-roll-middle.png   |gets stretched to fill the roll   |required   |1x118px   |
+|taiko-roll-end.png   |right half of a circle   |required   |59x118px   |
 |spinner-warning.png   |-   |required   |-   |
 
-## osu!taiko Hitburst Set
+### Hitburst Set
 
 The entirety of this skinset is gameplay relevant and all included hitbursts should be clearly distinguishable from each other.
 
@@ -131,7 +135,7 @@ The entirety of this skinset is gameplay relevant and all included hitbursts sho
 | taiko-hit300(-n).png  | -  |required   | -  |
 | taiko-hit300k(-n).png  |-   | required  |-   |
 
-## osu!taiko Pippidon Set
+### Pippidon Set
 
 This skinset is not gameplay relevant.
 
@@ -143,24 +147,26 @@ This skinset is not gameplay relevant.
 |pippidonkiai(n).png   |-   |required   |-   |
 |taiko-flower-group(-n).png   |combobursts in osu!taiko   |optional   |-   |
 
-## osu!catch Fruits Set
+## osu!catch
+
+### Fruits Set
 
 The entirety of this skinset is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|fruit-apple.png   | -  |required   |128x128   |
-|fruit-apple-overlay.png   |-   |required   |128x128   |
-|fruit-grapes.png   |-   |required   |128x128   |
-|fruit-grapes-overlay.png   |-   |required   |128x128   |
-|fruit-orange.png   |-   | required  |128x128   |
-|fruit-orange-overlay.png   |-   | required  |128x128   |
-|fruit-bananas.png   |should be designed differently from the other fruits   |required   |128x128   |
-|fruit-bananas-overlay.png   |should be designed differently from the other fruits   | required  |128x128   |
-|fruit-drop.png   |-   |required   |82x103   |
-|fruit-drop-overlay.png   |should be included to guarantee correct display when an user-specific skin has it skinned because the default skin uses a transparent image for this file   |required   |82x103   |
+|fruit-apple.png   | -  |required   |128x128px   |
+|fruit-apple-overlay.png   |-   |required   |128x128px   |
+|fruit-grapes.png   |-   |required   |128x128px   |
+|fruit-grapes-overlay.png   |-   |required   |128x128px   |
+|fruit-orange.png   |-   | required  |128x128px   |
+|fruit-orange-overlay.png   |-   | required  |128x128px   |
+|fruit-bananas.png   |should be designed differently from the other fruits   |required   |128x128px   |
+|fruit-bananas-overlay.png   |should be designed differently from the other fruits   | required  |128x128px   |
+|fruit-drop.png   |-   |required   |82x103px   |
+|fruit-drop-overlay.png   |should be included to guarantee correct display when an user-specific skin has it skinned because the default skin uses a transparent image for this file   |required   |82x103px   |
 
-## osu!catch Catcher Set
+### Catcher Set
 
 All elements besides lightning.png are gameplay relevant. 
 For catchers the plate must be perfectly centered and exactly 302px across in width.
@@ -172,7 +178,9 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 |fruit-catcher-kiai(-n).png   |should face right   |required   | minimum 302px wide  |
 |lighting.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |optional   | -   |
 
-## Scorebar Set
+## Interface
+
+### Scorebar Set
 
 The entirety of this skinset is gameplay relevant. Please note that the sizes of the elements within this skinset are handled via a guidelineon the Ranking Criteria proposal.
 
@@ -185,7 +193,7 @@ The entirety of this skinset is gameplay relevant. Please note that the sizes of
 |scorebar-kidanger2.png   |-   |required   |-   |
 |scorebar-marker.png   | must be inlcuded to guarantee correct display of the ki and can be a blank file  |required   |-   |
 
-## Score Number Set
+### Score Number Set
 
 The entirety of this skinset is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
 
@@ -206,7 +214,7 @@ The entirety of this skinset is gameplay relevant. Overlaps or gaps between the 
 |score-percent.png   |-   |required   |-   |
 |score-x.png   |can be left out on beatmap sets without osu! difficulties   |required   |-   |
 
-## Mod Icon Set
+### Mod Icon Set
 
 This skinset is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
 
@@ -240,7 +248,7 @@ This skinset is not gameplay relevant. The respective icons can be left out even
 |selection-mod-spunout.png   |-   |required   |-   |
 |selection-mod-suddendeath.png   |-   |required   |-   |
 
-## Playfield Set
+### Playfield Set
 
 The combobursts included in this set are gameplay relevant and star2.png is only gameplay relevant if kiai time is present in the map. All other elements are not gameplay relevant.
 
@@ -249,54 +257,54 @@ The combobursts included in this set are gameplay relevant and star2.png is only
 |comboburst-fruits(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
 |comboburst-mania(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
 |comboburst(-n).png   |should face right, automatically flipped if shown on the right side   |optional   |max height: 768px   |
-|menu-button-background.png   |used for the leaderboard   |optional   | minimum resolution 690x85   |
+|menu-button-background.png   |used for the leaderboard   |optional   | minimum resolution 690x85px   |
 |menu-osu.png   |spectator-mode only pause-screen   |optional   |-   |
 |multi-skipped.png   |multiplayer: shows who skipped the intro   |optional   |-   |
 |play-skip(-n).png   |-   |optional   |-   |
 |play-unranked.png   |-   |optional   |-   |
 |star2.png   |must not be skinned in beatmapsets which have neither kiai time nor breaks   |optional   |-   |
 
-## Inputoverlay Set
+### Inputoverlay Set
 
 This skinset is not gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|inputoverlay-background.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |193x55   |
-|inputoverlay-key.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |max: 46x46   |
+|inputoverlay-background.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |193x55px   |
+|inputoverlay-key.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |max: 46x46px   |
 
-## Leaderboard Entry Number Set
+### Leaderboard Entry Number Set
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|scoreentry-0.png   |-   |required   |11x14   |
-|scoreentry-1.png   |-   |required   |11x14   |
-|scoreentry-2.png   |-   |required   |11x14   |
-|scoreentry-3.png   |-   |required   |11x14   |
-|scoreentry-4.png   |-   |required   |11x14   |
-|scoreentry-5.png   |-   |required   |11x14   |
-|scoreentry-6.png   |-   |required   |11x14   |
-|scoreentry-7.png   |-   |required   |11x14   |
-|scoreentry-8.png   |-   | required  |11x14   |
-|scoreentry-9.png   |-   |required   |11x14   |
-|scoreentry-comma.png   |-   |required   |5x14   |
-|scoreentry-dot.png   |-   |required   |5x14   |
-|scoreentry-percent.png   |-   |required   |12x14   |
-|scoreentry-x.png   |-   |required   |10x14   |
+|scoreentry-0.png   |-   |required   |11x14px   |
+|scoreentry-1.png   |-   |required   |11x14px   |
+|scoreentry-2.png   |-   |required   |11x14px   |
+|scoreentry-3.png   |-   |required   |11x14px   |
+|scoreentry-4.png   |-   |required   |11x14px   |
+|scoreentry-5.png   |-   |required   |11x14px   |
+|scoreentry-6.png   |-   |required   |11x14px   |
+|scoreentry-7.png   |-   |required   |11x14px   |
+|scoreentry-8.png   |-   | required  |11x14px   |
+|scoreentry-9.png   |-   |required   |11x14px   |
+|scoreentry-comma.png   |-   |required   |5x14px   |
+|scoreentry-dot.png   |-   |required   |5x14px   |
+|scoreentry-percent.png   |-   |required   |12x14px   |
+|scoreentry-x.png   |-   |required   |10x14px   |
 
-## Countdown Set
+### Countdown Set
 
 The entirety of this skinset is gameplay relevant. This skinset must not be skinned if the beatmap does not utilise countdowns.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|ready.png   | -  |required   |max: 1366x768   |
-|count1.png   |-   |required   |max: 1366x768   |
-|count2.png   |-   |required   |max: 1366x768   |
-|count3.png   |-   |required   |max: 1366x768   |
-|go.png   |-   |required   |max: 1366x768   |
+|ready.png   | -  |required   |max: 1366x768px   |
+|count1.png   |-   |required   |max: 1366x768px   |
+|count2.png   |-   |required   |max: 1366x768px   |
+|count3.png   |-   |required   |max: 1366x768px   |
+|go.png   |-   |required   |max: 1366x768px   |
 
-## Section Indicator Set
+### Section Indicator Set
 
 This skinset is not gameplay relevant. This skinset must not be skinned if the beatmap does not contain a break long enough for section indicators to show up.
 
@@ -305,27 +313,27 @@ This skinset is not gameplay relevant. This skinset must not be skinned if the b
 |section-fail.png   |-  |required   |max height: 768px   |
 |section-pass.png  |-  |required   |max height: 768px   |
 
-## Grade Indicator Set
+### Grade Indicator Set
 
 This skinset is not gameplay relevant. This skinset must not be skinned if the beatmap does not contain a break long enough for grade indicators to show up.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
-|ranking-a-small.png   |-   |required   |34x40   |
-|ranking-b-small.png   |-   |required   |34x40   |
-|ranking-c-small.png   |-   |required   |34x40   |
-|ranking-d-small.png   |-   |required   |34x40   |
-|ranking-s-small.png   |-   |required   |34x40   |
-|ranking-sh-small.png   |-   |required   |34x40   |
-|ranking-x-small.png   |-   |required   |34x40   |
-|ranking-xh-small.png   |-   |required   |34x40   |
+|ranking-a-small.png   |-   |required   |34x40px   |
+|ranking-b-small.png   |-   |required   |34x40px   |
+|ranking-c-small.png   |-   |required   |34x40px   |
+|ranking-d-small.png   |-   |required   |34x40px   |
+|ranking-s-small.png   |-   |required   |34x40px   |
+|ranking-sh-small.png   |-   |required   |34x40px   |
+|ranking-x-small.png   |-   |required   |34x40px   |
+|ranking-xh-small.png   |-   |required   |34x40px   |
 
-## Pause Screen Set
+### Pause Screen Set
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
 |pause-back.png   |-   |required   |-   |
 |pause-continue.png   |-   |required   |-   |
 |pause-retry.png   |-   |required   |-   |
-|fail-background.png   |if one background is skinned the other one should also be skinned, gets scaled to fit the player's screen   |optional   |max: 1920x1200   |
-|pause-overlay.png   |if one background is skinned the other one should also be skinned   |optional  |1366x768   |
+|fail-background.png   |if one background is skinned the other one should also be skinned, gets scaled to fit the player's screen   |optional   |max: 1920x1200px   |
+|pause-overlay.png   |if one background is skinned the other one should also be skinned   |optional  |1366x768px   |
