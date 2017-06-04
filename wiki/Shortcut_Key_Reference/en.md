@@ -10,13 +10,13 @@ However, the list below uses the default keys.
 
 These work anywhere:
 
-- `Shift` + `F1`: Open osu!status (when connection error)
+- `Shift` + `F1`: Open osu!status (when connection errors out)
 - `F7`: Toggle FPS limiting mode
 - `F8`: Toggle Chat Window
 - `F9`: Toggle Extended Chat Window
-- `F10`: Toggle all mouse buttons (execpt for mouse wheel)
+- `F10`: Toggle all mouse buttons (except for mouse wheel)
 - `Ctrl` + `F11`: Toggle Frame Times
-- `F12`: Take Screenshot (hold `Shift` to upload instantly to server for sharing)
+- `F12`: Take Screenshot (Hold `Shift` to upload instantly to the server for sharing)
 - `Insert`: Minimizes the osu!client into the notification area.
 - `Arrow Up`: Increase volume.
 - `Arrow Down`: Decrease volume.
