@@ -9,14 +9,14 @@
 
 | สี                        | คนนั้นเป็นใคร                                                                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ขาว                     | **คุณ**นั่นแหละ                                                                                                                                    |
-| เหลืองอ่อน              |  ไม่ใช่ Supporter                                                                                                                                   |
-| เหลือง (เข้มกว่าข้างบน) | พวกที่เป็น ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag")                                                                                          |
-| แดง                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                |
-| เขียวเข้ม               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง \#highlight |
-| น้ำเงิน                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
-| ฟ้า                     | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง *osu!*                                                                                                        |
-| ชมพู                    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                  |
+| **ขาว**                     | **คุณ**นั่นแหละ                                                                                                                                    |
+| **เหลืองอ่อน**              |  ไม่ใช่ Supporter                                                                                                                                   |
+| **เหลือง** (เข้มกว่าข้างบน) | พวกที่เป็น ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag")                                                                                          |
+| **แดง**                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                |
+| **เขียวเข้ม**               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง \#highlight |
+| **น้ำเงิน**                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
+| **ฟ้า**                     | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง *osu!*                                                                                                        |
+| **ชมพู**                    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                  |
 
 -   คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
 -   คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ
