@@ -1,48 +1,52 @@
 
-***[Click to return to Main page](Osu!_Program_Files "wikilink")***
+# User Configuration File
 
-<img src="CF_DEAD.jpg" title="fig:Combo Fire." alt="Combo Fire." width="200" /> This a list of options in the osu!.<yourpcname>.cfg file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
+***[Click to return to Main page](/wiki/osu!_Program_Files)***
 
-| Code                         | Description                                                                                                                                                                                                |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TreeSortMode                 | Determines the 'group' mode at song select.                                                                                                                                                                |
-| TreeSortMode2                | Determines the 'sort' mode at song select.                                                                                                                                                                 |
-| keyOsuLeft                   | osu! keyboard bindings                                                                                                                                                                                     |
-| keyOsuRight                  |
-| keyFruitsDash                | Catch the Beat movement keys                                                                                                                                                                               |
-| keyFruitsLeft                |
-| keyFruitsRight               |
-| keyTaikoInnerLeft            | Taiko drum keys                                                                                                                                                                                            |
-| keyTaikoInnerRight           |
-| keyTaikoOuterLeft            |
-| keyTaikoOuterRight           |
-| keyPause                     | Key binding to pause the game                                                                                                                                                                              |
-| keySkip                      | Key binding to skip map intro/outro                                                                                                                                                                        |
-| keyToggleScoreboard          | Key binding to toggle the ingame scoreboard                                                                                                                                                                |
-| keyToggleChat                | Key binding to bring up the chat                                                                                                                                                                           |
-| keyToggleExtendedChat        | Key binding to bring up the chat and online users                                                                                                                                                          |
-| keyScreenshot                | Key binding to create screenshots                                                                                                                                                                          |
-| keyIncreaseAudioOffset       | Key binding to increase the local offset for the currently playing beatmap                                                                                                                                 |
-| keyDecreaseAudioOffset       | Key binding to decrease the local offset for the currently playing beatmap                                                                                                                                 |
-| keyToggleFrameLimiter        | Key binding to let you toggle through different frame limiters                                                                                                                                             |
-| keyVolumeIncrease            | Key binding to increase universal volume                                                                                                                                                                   |
-| keyVolumeDecrease            | Key binding to decrease universal volume                                                                                                                                                                   |
-| Skin                         | Name of the currently selected skin.                                                                                                                                                                       |
-| SkinSamples                  | Toggles "Use skin samples" ingame.                                                                                                                                                                         |
-| ComboFire                    | Toggles Combo Fire on and off. This option cannot be changed ingame.                                                                                                                                       |
-| Precision                    | Used to toggle "Enable mouse precision" ingame. The option no longer exists, and has been replaced by RawInput.                                                                                            |
-| Width                        | Width of your osu! in windowed mode. Change this to set custom window widths.                                                                                                                              |
-| Height                       | Height of your osu! in windowed mode. Change this to set custom window heights.                                                                                                                            |
-| WidthFullscreen              | Width of your osu! when using fullscreen mode.                                                                                                                                                             |
-| HeightFullscreen             | Height of your osu! when using fullscreen mode.                                                                                                                                                            |
-| Offset                       | Universal offset.                                                                                                                                                                                          |
-| EditorTip                    | Shows which editor tip will display next.                                                                                                                                                                  |
-| MenuTip                      | Shows which menu tip will display next.                                                                                                                                                                    |
-| Fullscreen                   | Toggles "Fullscreen Mode" ingame.                                                                                                                                                                          |
-| OnlineDefault                | Used to toggle whether osu! would use online or local scoreboard. The option longer exists, and has been replaced by RankMode.                                                                             |
-| Video                        | Toggles "Background Video" ingame.                                                                                                                                                                         |
-| NotifySubmittedThread        | Automatically checks the "Receive email notification on reply" box when submitting your map via BSS.                                                                                                       |
-| AutoChatHide                 | Toggles "Automatically hide chat during gameplay" ingame.                                                                                                                                                  |
+![Combo Fire](CF_DEAD.jpg "Combo Fire")
+
+This a list of options in the osu!< yourpcname >.cfg file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
+
+| Code               | Description                                 |
+|--------------------|---------------------------------------------|
+| TreeSortMode       | Determines the 'group' mode at song select. |
+| TreeSortMode2      | Determines the 'sort' mode at song select.  |
+| keyOsuLeft         | osu! keyboard bindings.                     |
+| keyOsuRight        |                                             |
+| keyFruitsDash      | Catch the Beat movement keys.               |
+| keyFruitsLeft      |                                             |
+| keyFruitsRight     |                                             |
+| keyTaikoInnerLeft  | Taiko drum keys.                            |
+| keyTaikoInnerRight |                                             |
+| keyTaikoOuterLeft  |                                             |
+| keyTaikoOuterRight |                                             |
+| keyPause           | Key binding to pause the game               |
+| keySkip            | Key binding to skip map intro/outro         |
+| keyToggleScoreboard| Key binding to toggle the ingame scoreboard |
+| keyToggleChat      | Key binding to bring up the chat            |
+| keyToggleExtendedChat| Key binding to bring up the chat and online users|
+| keyScreenshot      | Key binding to create screenshots           |
+| keyIncreaseAudioOffset| Key binding to increase the local offset for the currently playing beatmap|
+| keyDecreaseAudioOffset| Key binding to decrease the local offset for the currently playing beatmap|
+| keyToggleFrameLimiter | Key binding to let you toggle through different frame limiters|
+| keyVolumeIncrease  | Key binding to increase universal volume    |
+| keyVolumeDecrease  | Key binding to decrease universal volume    |
+| Skin               | Name of the currently selected skin.        |
+| SkinSamples        | Toggles "Use skin samples" ingame.          |
+| ComboFire          | Toggles Combo Fire on and off. This option cannot be changed ingame.|
+| Precision | Used to toggle "Enable mouse precision" ingame. The option no longer exists, and has been replaced by RawInput.|
+| Width              | Width of your osu! in windowed mode. Change this to set custom window widths.|
+| Height             | Height of your osu! in windowed mode. Change this to set custom window heights. |
+| WidthFullscreen    | Width of your osu! when using fullscreen mode.|
+| HeightFullscreen   | Height of your osu! when using fullscreen mode.|
+| Offset | Universal offset.                                       |
+| EditorTip          | Shows which editor tip will display next.   |
+| MenuTip            | Shows which menu tip will display next.     |
+| Fullscreen         | Toggles "Fullscreen Mode" ingame.           |
+| OnlineDefault      | Used to toggle whether osu! would use online or local scoreboard. The option longer exists, and has been replaced by RankMode.|
+| Video              | Toggles "Background Video" ingame.          |
+| NotifySubmittedThread| Automatically checks the "Receive email notification on reply" box when submitting your map via BSS.|
+| AutoChatHide       | Toggles "Automatically hide chat during gameplay" ingame.|
 | FrameSync                    | Determines which frame limiter osu! will use.                                                                                                                                                              |
 | DisableWheel                 | Toggles "Disable mouse wheel in play mode" ingame.                                                                                                                                                         |
 | DisableButtons               | Toggles "Disable mouse buttons in play mode" ingame.                                                                                                                                                       |
