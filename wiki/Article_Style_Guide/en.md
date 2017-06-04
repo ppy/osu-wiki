@@ -1,12 +1,12 @@
 # Article Style Guide
 
-This Article Style Guide applies to all articles in English and other languages that does not have one yet!
+This Article Style Guide applies to all articles in English and other languages that do not have one yet!
 
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All English articles should use plain English.
 Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
-In other words, you should ask yourself, "If the reader is reading this, would they have to lookup any of the words?"
+In other words, you should ask yourself, "If the reader is reading this, would they have to look up any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
 Keep in mind that reviewers would ask for changes in your pull request for blunders or suggestions.
@@ -17,7 +17,7 @@ A good osu!wiki writer/editor should read these reviews to help improve the over
 GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
 Usage of HTML is **heavily** discouraged!
 
-GFM has a small amount of markup that **anyone** can learn it in about 3 mintues!
+GFM has a small amount of markup that **anyone** can learn it in about 3 minutes!
 However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
 
 ### Syntax
@@ -36,7 +36,7 @@ Generally, all folder names should only use these characters:
 - a - z (lowercase letters)
 - 0 - 9 (numbers 0 - 9)
 - `_` (underscore)
-- `!` (exclaimation point)
+- `!` (exclamation point)
 
 ### Index Pages
 
@@ -68,7 +68,7 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `it.md`: Italian
 - `ja.md`: Japanese
 - `ko.md`: Korean
-- `nl.md`: Nederlands
+- `nl.md`: Dutch
 - `no.md`: Norwegian
 - `pl.md`: Polish
 - `pt.md`: Português
@@ -167,7 +167,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 ```
 
 Section headings must **never** have a link in it.
-Instead place the link underneath the section heading.
+Instead, place the link underneath the section heading.
 For example, do not do this:
 
 ```
@@ -184,7 +184,7 @@ For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
 
 Section headings must **never** have any styles applied to it.
 
-Section headings can have **small icons** in their section headings but never images larger than 1em (the height of a font which is 14 pixels in the osu!wiki).
+Section headings can have **small icons** in their section headings but never images larger than 1em (the height of a font, which is 14 pixels in the osu!wiki).
 For example:
 
 ```
@@ -197,7 +197,7 @@ ToCs (Table of Contents) are automatically generated in osu!web, you do not need
 
 ## Grammar
 
-In the case where variants of English and the British English spellings conflict, prefer the British Engish spelling.
+In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
 
 For example use:
 
@@ -226,7 +226,7 @@ Other examples may include:
 - `osu!direct`
 - `osu!wiki`
 
-When refering to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
+When referring to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
 For example:
 
 - `The language that _osu!_ is written in is C# using the .NET Framework.`
@@ -267,7 +267,7 @@ For example:
 
 ```
 The NC (Nightcore) mod is similar to the DT (Double Time) mod.
-While NC and DT increases the speed of the music by 25%, NC will change the pitch of the music and adds a clap and finish to each beat.
+While NC and DT increase the speed of the music by 25%, NC will change the pitch of the music and adds a clap and finish to each beat.
 ```
 
 Abbreviations of osu! terms **must** be capitalised.
@@ -326,7 +326,7 @@ Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) is 
 
 ## Point of View
 
-When refering to the player, use `the player` or `a player`.
+When referring to the player, use `the player` or `a player`.
 
 **Never** use `he`/`his` or `she`/`hers`!
 Instead, use `they`/`their`/`theirs`.
@@ -353,7 +353,7 @@ For example:
 
 ### Italics
 
-Any instances of the name of a videogame should also be in italics.
+Any instances of the name of a video game should also be in italics.
 For example:
 
 - `_Elite Beat Agents_`
@@ -366,7 +366,7 @@ For example:
 All lists (bulleted or numbered) must end in a period, if it ends the stem sentence.
 
 All lists (bulleted or numbered) **must** have one empty line space before the list starts.
-Otherwise the list may be parsed incorrectly.
+Otherwise, the list may be parsed incorrectly.
 
 ```
 ## Section
@@ -389,7 +389,7 @@ There are two kinds of lists:
 - bulleted
   - used when the order of each item does not matter (e.g. describing an object)
 - numbered
-  - used when the order of each item does matter (e.g. tutorial instuctions)
+  - used when the order of each item does matter (e.g. tutorial instructions)
 
 ### Sub-Lists
 
@@ -418,7 +418,7 @@ For the following scenarios, use code.
 
 ### Keyboard Keys
 
-When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
 
 For example:
 
@@ -590,7 +590,7 @@ Do **not** use the word `here` as the link text.
 As it may seem convenient to use, this may cause confusion and/or be misleading.
 
 Instead, take the page's title (from the top of page or from the `<title/>` tag) and use that as the link text.
-If there is not a viable or obvious title, then use the site's name or a genernal description instead.
+If there is not a viable or obvious title, then use the site's name or a general description instead.
 
 ### Section Links
 
@@ -598,7 +598,7 @@ All section links follow these strict rules:
 
 - all letters **must** use lowercase letters
 - all special characters (e.g. `!`, `?`, `,`, `"`, `'`) **must** be replaced with a hyphen (`-`)
-  - if one of the spacial characters is the last character in the section name, remove it, but do not add a hyphen (`-`).
+  - if one of the special characters is the last character in the section name, remove it, but do not add a hyphen (`-`).
 - all spaces are replaced with hyphens (`-`), not underscores (`_`)
 - if a header is not unique (two or more of the same section heading names exist at any level):
   - the first instance of said heading will follow the above rules
@@ -623,7 +623,7 @@ The anchor of a heading with an icon will start with a letter, not a space or hy
 
 ### User Profiles
 
-When linking to a osu!user profile, use the user's id number instead of their username.
+When linking to an osu!user profile, use the user's id number instead of their username.
 Usernames can be changed, while user ids are bound to the user.
 This is to ensure that the link still links to the same person even after they changed their username.
 
@@ -642,7 +642,7 @@ or
 - `[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
 - `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
 
-Unfortunately, osu! does not provide an easy, straight-forward way to get the user's id number.
+Unfortunately, osu! does not provide an easy, straightforward way to get the user's id number.
 Here are some ways you can get it:
 
 1.  Go to the user's page using the username search.
@@ -674,13 +674,13 @@ If you are linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficulty urls looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`
+All beatmapset difficulty URLs looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`
 
 ## Images
 
 All image file extensions **must** use lowercase letters, otherwise they will fail to load!
 
-It is suggusted to add a subfolder for the images (e.g. `img/` for all and any images).
+It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
 
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 Images that are used for one article are to be placed inside their folders for linking.
@@ -731,7 +731,7 @@ For example, use `[osu!supporters](/wiki/osu!supporter/)` and not `[![](/wiki/sh
 Flag icons are located inside this folder: `/wiki/shared/flag/`.
 
 Most of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension.
-A few expections are the multi-flag icons that are in the `.png` format.
+A few exceptions are the multi-flag icons that are in the `.png` format.
 
 When adding a flag inline, use this format:
 
@@ -749,7 +749,7 @@ To see the flags, see the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki
 Tables use the GFM syntax.
 
 If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), then you are overthinking both the table and the content.
-If you need help making a complicated table, try to see if you can improvise a simplier fix for it.
+If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
 
 **Never** place images and/or lists inside tables.
 
