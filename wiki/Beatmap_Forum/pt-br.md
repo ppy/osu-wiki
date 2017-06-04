@@ -22,5 +22,3 @@ Diretório do fórum de Beatmaps
 
 -   -   [Completed Projects](https://osu.ppy.sh/forum/62) &mdash; ***Projetos concluídos podem ser arquivados e discutidos aqui.***
 -   -   [Beatmap Management](https://osu.ppy.sh/forum/115) &mdash; ***Membros do Beatmap Nomination Group discutem questões recentes aqui.***
-
-[Category:Infrastructure of osu!/pt-br](Category:Infrastructure_of_osu!/pt-br "wikilink") <Category:Website/pt-br>
