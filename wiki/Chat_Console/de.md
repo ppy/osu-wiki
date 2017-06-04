@@ -5,7 +5,7 @@ Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste od
 ![Chat Konsole im Hauptmenü](Chatconsole1.png "Chat Konsole im Hauptmenü")
 
 -   Die Tabs zeigen die zuletzt offenen Channeln an. Um zum jeweiligen Channel zu wechseln, klicke einfach auf den Tab. Eine Liste mit allen öffentlich-zugänglichen Channeln erhält man durch das Klicken des gelben Tabs mit dem Plus drauf (am Ende der Reihe)
--   Die Farben des Benutzers haben verschiedene Bedeutungen
+-   Die Farbe des Benutzernamens hat verschiedene Bedeutungen.
 
 | Farbe | Wer?                                                                                                                                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ Von jedem Spieler, der in *osu!* eingeloggt ist, erscheint ein Panel im erweiter
     -   Name: Die Panels werden alphabetisch nach dem Namen des Spielers sortiert.
     -   Rank: Die Ränge der Spieler bestimmen die Reihenfolge der Panels (bester Spieler an 1. Stelle).
     -   Location: Die Panels werden alphabetisch nach dem Namen des Herkunftslandes des Spielers sortiert.
-    -   Time Zone: Die Zeitzone der Spieler bestimmt die Reihenfolge der Panels
+    -   Time Zone: Die Zeitzone der Spieler bestimmt die Reihenfolge der Panels.
 -   World Map Tab: Zeigt eine Weltkarte an, von wo die online Spieler kommen.
 -   Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Mausrad scrollen.
 
