@@ -11,7 +11,7 @@ O que é considerado trapaça?
 
 Como as regras dizem, qualquer forma de manipulação do cliente; hack de pontuação, macro em sequencias de combo e mira automática são todas consideradas trapaça.
 
-Isso é uma regra de um golpe; trapaceiros serão **banidos permanentemente.**
+Isso é uma regra imutável; trapaceiros serão **banidos permanentemente.**
 
 Fui banido por trapacear mas eu não usei trapaça!
 ------------------------------------------------
@@ -23,7 +23,7 @@ A equipe nunca bane alguém incorretamente por trapacear. Antes que eles façam 
 Meu amigo foi banido por trapacear! Ele nunca trapacearia! Vocês estão errados!
 --------------------------------------------------------------------------------------
 
-Pode ser difícil chegar a um acordo com o seu amigo, mas você terá que confiar na equipe. Peppy não está tentando estragar amizades, mas ele sabe que quase ninguém pode ser confiável. Mesmo aquelas pessoas que estão perto de você que você nunca poderia suspeitar podem agir atrás de você ou qualquer outra pessoa.
+Pode ser difícil chegar a um acordo com o seu amigo, mas você terá que confiar na equipe. peppy não está tentando estragar amizades, mas ele sabe que quase ninguém pode ser confiável. Mesmo aquelas pessoas que estão perto de você, que nunca seriam suspeitas, podem agir sem que qualquer pessoa saiba.
 
 Prove que eu/eles estava(m) trapaceando! Me diga como você sabe!
 ------------------------------------------------------
@@ -50,7 +50,7 @@ Use !report na conversa do jogo para enviar uma mensagem aos moderadores.
 
 `Exemplo: !report `<Nome de usuário>` possível trapaceiro.`
 
-A sua ajuda em detectar jogo sujo é muito agradecida. Você também pode enviar um e-mail diretamente para osu@ppy.sh para uma resposta relativamente rápida.
+A sua ajuda em detectar alguém trapaceando é muito agradecida. Você também pode enviar um e-mail diretamente para osu@ppy.sh para uma resposta relativamente rápida.
 
 Usar um hardware especializado é contado como trapaça?
 --------------------------------------------------
