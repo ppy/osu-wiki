@@ -1,7 +1,6 @@
-Basis Chat Konsole
-==================
+# Basis Chat Konsole
 
-Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste oder durch das Klicken des "Show Chat" Tabs (unten rechts) aktiviert werden.
+Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste oder durch das Klicken des `Show Chat` Tabs (unten rechts) aktiviert werden.
 
 ![Chat Konsole im Hauptmenü](Chatconsole1.png "Chat Konsole im Hauptmenü")
 
@@ -10,27 +9,26 @@ Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste od
 
 | Farbe | Wer?                                                                                                                                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Weiß   | Du                                                                                                                                                                                                      |
-|Bleich | Andere Spieler                                                                                                                                                                                          |
-|Gelb   | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporter                                                                                                                              |
-|Rot    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") Mitglied |
-|Grün   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel \#highlight aufgelistet.                           |
-|Blau   | Private Nachrichten                                                                                                                                                                                     |
-|Türkis | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von osu!.                                                                                                                                        |
-|Pink   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                          |
+|**Weiß**   | Du                                                                                                                                                                                                      |
+|**Bleich** | Andere Spieler                                                                                                                                                                                          |
+|**Gelb**   | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporter                                                                                                                              |
+|**Rot**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") Mitglied |
+|**Grün**   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel \#highlight aufgelistet.                           |
+|**Blau**   | Private Nachrichten                                                                                                                                                                                     |
+|**Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von *osu!*                                                                                                                                       |
+|**Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                          |
 
--   "Show Ticker" Tab: Zeigt die neusten Nachrichten am unteren Bildschirmrand an, auch wenn die Chat Konsole nicht sichtbar ist.
--   "Auto-Hide" Tab: Die Chat Konsole wird während dem Spielen automatisch entfernt, sprich, die Chat Konsole ist nur während dem Intro, Outro und den Pausen vorhanden.
--   "Hide Chat" Tab: Die Chat Konsole wird geschlossen.
+-   `Show Ticker` Tab: Zeigt die neusten Nachrichten am unteren Bildschirmrand an, auch wenn die Chat Konsole nicht sichtbar ist.
+-   `Auto-Hide` Tab: Die Chat Konsole wird während dem Spielen automatisch entfernt, sprich, die Chat Konsole ist nur während dem Intro, Outro und den Pausen vorhanden.
+-   `Hide Chat` Tab: Die Chat Konsole wird geschlossen.
 
-Erweiterte Chat Konsole
-=======================
+## Erweiterte Chat Konsole
 
-Fast überall in osu! kann mit dem Betätigen der F9-Taste oder durch das Klicken des "Online Users" Tabs (unten rechts) die Chat Konsole erweitert werden. Als Zusatz zu der Chat Konsole wird ein Panel von Online-Usern aufgelistet, die zeigen, was jemand gerade tut.
+Fast überall in *osu!* kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users` Tabs (unten rechts) die Chat Konsole erweitert werden. Als Zusatz zu der Chat Konsole wird ein Panel von Online-Usern aufgelistet, die zeigen, was jemand gerade tut.
 
 ![Erweiterte Chat Konsole](Chat_Console-Extended.png "Erweiterte Chat Konsole")
 
-Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel im erweiterten Chat Konsolen Fenster. Standardmäßig wird im Panel folgende Informationen angezeigt: Name, Performance Points, Total Ranked Score, Accuracy, Play Count und Avatar. Wenn der Mauszeiger über dem Panel bewegt wird, werden andere Informationen anzeigt: Name, lokale Uhrzeit, Avatar und Land.
+Von jedem Spieler, der in *osu!* eingeloggt ist, erscheint ein Panel im erweiterten Chat Konsolen Fenster. Standardmäßig wird im Panel folgende Informationen angezeigt: Name, Performance Points, Total Ranked Score, Accuracy, Play Count und Avatar. Wenn der Mauszeiger über dem Panel bewegt wird, werden andere Informationen anzeigt: Name, lokale Uhrzeit, Avatar und Land.
 
 -   Filter: Die Panels lassen sich nach All, Friends, Nearby und Country filtern.
     -   All: Alle Panels werden ungefiltert angezeigt.
@@ -74,11 +72,9 @@ Drücke entweder auf das jeweilige Tab oder die dazugehörige Zahl:
 -    7  **Benutzer ignorieren**: Alle Nachrichten sind bis zum nächsten Neustart des Spieles nicht sichtbar.
 -    8  **Schließen**: Schließt das Fenster.
 
-Auflistung von Chat Kommandos
-========================
+## Auflistung von Chat Kommandos
 
-/help
------
+### /help
 
 | Kommando                                                | Effekt                                                                                                                                                                                                       | Beispiel           | BanchoBots Antwort                                                                                                                       | 
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -94,22 +90,21 @@ Auflistung von Chat Kommandos
 | /unignore [Benutzername]                                | Der [Benutzername] wird nicht mehr ignoriert. | /unignore Deimos | You may now hear Deimos. (Ihre Chat Konsole zeigt nun alle zukünftigen Nachrichten von Deimos an.)
 | /me [Aktion]                                            | Du sprichst dann in 3. Person von dir selbst. | /me ist soooooo schlecht. | *Phobos ist soooooo schlecht.
 | /msg [Benutzername] [Nachricht]                         | Sende eine private Nachricht an [Benutzername]. | /msg Deimos Ich bin sooooo schlecht. | (Aus Deimos' Sichtweise) Phobos: Ich bin sooooo schlecht.
-| /np                                                     | Nennt das derzeitige Lied, was du gerade hörst, spielen, oder beim Zuschauen gespielt wird.                                                                                                                  | /np                | (Wenn du die Beatmap spielst.) *Phobos is playing LeaF - Evanescent [Aspire [Spielemodi] Relax/Autopilot +Schwierigkeitsgrad erhöhende Mods -Schwierigkeitsgrad reduzierende Mods/SpunOut #K. (Wenn du dir die Beatmap anhörst.) |
+| /np                                                     | Nennt das derzeitige Lied, was du gerade hörst, spielen, oder beim Zuschauen gespielt wird.                                                                                                                  | /np                | (Wenn du die Beatmap spielst) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (Wenn du dir die Beatmap anhörst) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (Wenn du jemanden oder Autoplay zuschaust) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Spielmodus](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Schwierigkeitsgrad erhöhende Mods](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -Schwierigkeitsgrad reduzierende Mods](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto)|
 | /reply                                                  | Antwortet zur zuletzt erhaltenen Nachricht. | /r Wie werde ich besser? | (Aus Deimos' Sichtweise) [Vorherige Kommentare] Phobos: Man, ich bin soooooo schlecht. Deimos: Ja, verdammt schlecht. Phobos: Wie werde ich besser? |
-| /savelog                                                | Speichert den derzeitg ausgewählten Chat Tab in einer Textdatei ab. | /savelog | (Ein Ordner mit dem Namen "Chat" wird im osu! Verzeichnis erstellt, welches alle zukünftigen abgespeicherten Logs aufbewahrt.) |
+| /savelog                                                | Speichert den derzeitg ausgewählten Chat Tab in einer Textdatei ab. | /savelog | (Ein Ordner mit dem Namen "Chat" wird im *osu!* Verzeichnis erstellt, welches alle zukünftigen abgespeicherten Logs aufbewahrt.) |
 | /watch [Benutzername]                                   | Beginnt [Benutzername] zuzusehen. | /watch Deimos | *Started spectating Deimos. (Wenn Deimos eine Beatmap spielt, die du auch hast, dann wirst du ihm nach etwas Buffering beim Spielen zusehen. Dein Name erscheint dann an der linken Seite des Spielers.) |
 | /nopm                                                   | Schalter, um private Nachrichten von allen oder nur von Freunden zu bekommen. | /nopm | Eine Nachricht wird in der Mitte des Bildschirms erscheinen, was dir mitteilt, ob du nun private Nachrichten von allen oder nur von Freunden bekommst. |
 | /invite [Benutzername]                                  | Ladet [Benutzername] zum Mutliplayer Lobby ein. | /invite Deimos | * Deimos has been invited to the game |
 
 
-/keys
------
+### /keys
 
 | Tasten               | Effekt                                                                       |
 |----------------------|------------------------------------------------------------------------------|
-| BildOben / BildUnten | Im Chatfenster scrollen.                                                     |
-| Tab                  | Benutzername wirde automatisch vervollständigt, wenn der Spieler online ist. |
-| F8                   | Chatkonsole ein-/ausschalten.                                                |
-| F9                   | Erweiterte Chatkonsole ein-/ausschalten.                                     |
-| STRG + C/V           | Kopieren/Einfügen.                                                           |
-| Alt + 0-9            | Zum jeweiligen Tab (Chat, Channel) springen.                                 |
+| `BildOben` / `BildUnten` | Im Chatfenster scrollen.                                                     |
+| `Tab`                  | Benutzername wirde automatisch vervollständigt, wenn der Spieler online ist. |
+| `F8`                   | Chatkonsole ein-/ausschalten.                                                |
+| `F9`                   | Erweiterte Chatkonsole ein-/ausschalten.                                     |
+| `STRG` + `C/V`           | Kopieren/Einfügen.                                                           |
+| `Alt` + `0-9`            | Zum jeweiligen Tab (Chat, Channel) springen.                                 |
