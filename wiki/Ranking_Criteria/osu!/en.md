@@ -1,7 +1,7 @@
 osu! 
 ======
 
-The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/forum/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
@@ -55,7 +55,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Hitobjects must never be off-screen in 4:3 aspect ratios.** Hitobjects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
--   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hitobjects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.slider being packed in too tightly. However, sliders that cross over themselves are fine as long as the borders are clearly visible.
+-   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hitobjects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hitobjects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
