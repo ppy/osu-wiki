@@ -163,7 +163,7 @@ The entirety of this skinset is gameplay relevant.
 ## osu!catch Catcher Set
 
 All elements besides lightning.png are gameplay relevant. 
-For a catcher the plate must be perfectly centered and exactly 302px across in width.
+For catchers the plate must be perfectly centered and exactly 302px across in width.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
