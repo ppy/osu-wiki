@@ -150,6 +150,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 ### Group Stage
