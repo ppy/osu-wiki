@@ -163,7 +163,7 @@ These work anywhere:
 - `Q`, `W`, `E`, `R`, or `L`: Toggle object settings and modes
 - `Del`: Remove selected notes
 - `Ctrl` + `Z`: Undo
-- `Ctrl` + `Y`: Undo the undo
+- `Ctrl` + `Y`: Redo
 - `Ctrl` + `A`: Select all notes
 - `Ctrl` + `X`: Cut (Copy and delete selection)
 - `Ctrl` + `C`: Copy selection
