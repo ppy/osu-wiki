@@ -51,6 +51,18 @@ The entirety of this skinset is gameplay relevant.
 |sliderstartcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118 (circle) / 128x128 (whole file)   |
 |hitcircleselect.png   |only seen in the editor   |optional   |118x118 (circle) 128x128 (whole file)   |
 
+## osu! Slidertrack Set
+
+The entirety of this skinset is gameplay relevant.
+
+|File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
+|--:|:-:|:-:|:-:|
+|sliderb(n).png   |-   |required   |118x118   |
+|sliderb-nd.png   |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118   |
+|sliderb-spec.png  |should only be used if default skin is forced and no custom sliderb is used   |optional   |118x118   |
+|sliderfollowcircle(-n).png   |-   |required   |256x256   |
+|sliderscorepoint.png   |also used in osu!taiko   |required   |-   |
+
 ## osu! Hitcircle Number Set
 
 The entirety of this skinset is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
