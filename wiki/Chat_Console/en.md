@@ -26,7 +26,7 @@ From most screens in *osu!* you can press `F8` or click the `Show Chat` button o
 Extended Chat Console
 =====================
 
-*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
+*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
 From most screens in *osu!* you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in *osu!*
 
