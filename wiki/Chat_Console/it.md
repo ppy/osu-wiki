@@ -1,34 +1,32 @@
-Basi della Chat Console
-=======================
+# Basi della Chat Console
 
-Puoi premere F8 o cliccare il pulsante "Show Chat" situato in basso a destra per far comparire la Chat Console da quasi ogni schermata su osu!
+Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra per far comparire la Chat Console da quasi ogni schermata su *osu!*
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
--   Le etichette mostrano i canali disponibili al momento. Clicca su una di queste per spostarti nel corrispettivo canale. Clicca sul pulsante giallo " + " per aprire l'elenco completo dei canali.
+-   Le etichette mostrano i canali disponibili al momento. Clicca su una di queste per spostarti nel corrispettivo canale. Clicca sul pulsante giallo ` + ` per aprire l'elenco completo dei canali.
 -   I vari colori dei giocatori hanno diversi significati.
 
 | Colour    | Who?                                                                                                                                                                                                                           |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bianco  | Te stesso                                                                                                                                                                                                                      |
-| Pallido | Altri utenti                                                                                                                                                                                                                   |
-| Giallo  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporters                                                                                                                                                                      |
-| Rosso   | Un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") o del [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                                                                              |
-| Verde   | Una linea contenente il tuo nome o certe parole impostate da te per farti "highlight". Una copia di tale messaggio sarà inviata anche in un canale dedicato, \#highlight, dove sono contenute tutte le linee di questo genere. |
-| Blu     | Messaggio Privato (PM)                                                                                                                                                                                                         |
-| Ciano   | [peppy](https://osu.ppy.sh/u/2 "peppy"), il creatore di osu!.                                                                                                                                                                             |
-| Rosa    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                                                           |
+| **Bianco**  | Te stesso                                                                                                                                                                                                                      |
+| **Pallido** | Altri utenti                                                                                                                                                                                                                   |
+| **Giallo**  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporters                                                                                                                                                                      |
+| **Rosso**   | Un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") o del [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                                                                              |
+| **Verde**   | Una linea contenente il tuo nome o certe parole impostate da te per farti "highlight". Una copia di tale messaggio sarà inviata anche in un canale dedicato, \#highlight, dove sono contenute tutte le linee di questo genere. |
+| **Blu**     | Messaggio Privato (PM)                                                                                                                                                                                                         |
+| **Ciano**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), il creatore di *osu!*                                                                                                                                                                             |
+| **Rosa**    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                                                           |
 
--   Clicca su "Show Ticker" per mostrare l'ultimo messaggio della chat console appena viene inviato in basso allo schermo mentre la Chat Console è nascosta.
--   Clicca su "Auto-Hide" per nascondere automaticamente la chat console mentre giochi (escludendo le intro, le outro e le pause della beatmap).
--   Clicca su "Hide Chat" o premi di nuovo F8 per nascondere la chat console.
+-   Clicca su `Show Ticker` per mostrare l'ultimo messaggio della chat console appena viene inviato in basso allo schermo mentre la Chat Console è nascosta.
+-   Clicca su `Auto-Hide` per nascondere automaticamente la chat console mentre giochi (escludendo le intro, le outro e le pause della beatmap).
+-   Clicca su `Hide Chat` o premi di nuovo F8 per nascondere la chat console.
 
-Chat Console estes
-===================
+## Chat Console estes
 
-*La [osu!academy](/wiki/Announcements/osu!academy/ "osu!academy")) ha trattato questo argomento ne [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Multi/ "Multiplayer").*
+*La [osu!academy](/wiki/Announcements/osu!academy/ "osu!academy")) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
-Da gran parte delle schermate è possibile accedere alla chat console estesa premendo F9 o su "Online Users". In aggiunta alla chat console, la chat console estesa mostra nei due terzi superiori dello schermo una lista di pannelli, che mostrano informazioni riguardanti gli utenti al momento online
+Da gran parte delle schermate è possibile accedere alla chat console estesa premendo `F9` o su `Online Users`. In aggiunta alla chat console, la chat console estesa mostra nei due terzi superiori dello schermo una lista di pannelli, che mostrano informazioni riguardanti gli utenti al momento online
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
@@ -70,11 +68,9 @@ Premi il numero o clicca il pulsante per attivare:
 7.  **Ignora utente**: Qualsiasi messaggio inviato da tale utente non verrà mostrato nella chat console.
 8.  **Chiudi**: Chiude le opzioni utente.
 
-Lista dei comandi
-=================
+## Lista dei comandi
 
-/help
------
+### /help
 
 | Comando                      | Effetto                                                                                                                                                                                           | Esempio                          | Risposta di BanchoBot                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -90,21 +86,20 @@ Lista dei comandi
 | /unignore [utente]           | Smetti di ignorare l'utente per questa sessione.                                                                                                                                                  | /unignore Amigo                  | You may now hear Amigo. (La tua chat console renderà visibile ogni messaggio da parte di Amigo)                                                                                                                                                                                                                                                                                                                                                                         |
 | /me [azione]                 | Esegui un'azione in terza persona.                                                                                                                                                                | /me è a casa                     | John è a casa                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | /msg [utente] [msg]          | Manda un messaggio privato ad [utente].                                                                                                                                                           | /msg Amigo Non posso venire.     | (Nella tab Amigo) John: Non posso venire.                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| /np                          | Mostra in chat la canzone che stai ascoltando o giocando.                                                                                                                                         | /np                              | (If playing) *John is playing Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K. (If doing nothing, based on jukebox) *John is listening to Peter Lambert - osu! tutorial. (If spectating or Autoplay) *John is watching Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K Autoplay |
+| /np                          | Mostra in chat la canzone che stai ascoltando o giocando.                                                                                                                                         | /np                              | (If playing) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (If doing nothing, based on jukebox) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto) |
 | /reply o /r                  | Rispondi all'ultimo messaggio ricevuto.                                                                                                                                                           | /r Conosci qualche bravo attore? | (Nella tab Amigo) [Commenti precedenti] John: Non posso venire. Amigo: Davvero? John: Conosci qualche bravo attore?                                                                                                                                                                                                                                                                                                                                                     |
 | /savelog                     | Salva la chat corrente in un file di testo.                                                                                                                                                       | /savelog                         | (Una cartella nominata "Chat" verrà creata nella directory di osu! che conterrà tutti i file di testo delle chat salvati)                                                                                                                                                                                                                                                                                                                                               |
 | /watch [utente]              | Inizia a spectare [utente].                                                                                                                                                                       | /watch Amigo                     | Started spectating Amigo. (Quando Amigo gioca una beatmap che hai tu riuscirai a vederlo mentre gioca [dopo il buffering] ed il tuo nome apparirà in alto a sinistra dello schermo di Amigo)                                                                                                                                                                                                                                                                            |
 | /nopm                        | Attiva/disattiva i messaggi privati da parte di tutti eccetto gli amici                                                                                                                           | /nopm                            | (Un apparirà al centro dello schermo dicendoti se puoi ricevere messaggi da tutti o solo dagli amici)                                                                                                                                                                                                                                                                                                                                                                   |
 | /invite [utente]             | Invita [utente] nella stanza del multiplayer con un link.                                                                                                                                         | /invite Nathanael                | Nathanael has been invited to the game                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-/tasti
-------
+### /tasti
 
 | Comandi da tastiera | Effect                                                   |
 |---------------------|----------------------------------------------------------|
-| PageUp / PageDown   | Scorri la chat. Puoi anche usare la rotellina del mouse. |
-| Tab                 | Completa automaticamente il nickname che stai digitando. |
-| F8                  | Mostra/nascondi la chat console.                         |
-| F9                  | Mostra/nascondi la chat console estesa.                  |
-| Ctrl + C/V          | Copia/Incolla.                                           |
-| Alt + 0-9           | ai all'etichetta corrispondente.                         |
+| `PageUp` / `PageDown`   | Scorri la chat. Puoi anche usare la rotellina del mouse. |
+| `Tab`                 | Completa automaticamente il nickname che stai digitando. |
+| `F8`                  | Mostra/nascondi la chat console.                         |
+| `F9`                  | Mostra/nascondi la chat console estesa.                  |
+| `Ctrl` + `C/V`          | Copia/Incolla.                                           |
+| `Alt` + `0-9`           | ai all'etichetta corrispondente.                         |
