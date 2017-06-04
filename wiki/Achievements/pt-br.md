@@ -6,7 +6,7 @@ Conquistas
 Beatmap Packs
 -------------
 
-As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](http://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/Standard/pt-br.md) para qualificar um estado de **CLEARED** na [listagem do pacote](http://osu.ppy.sh/p/packlist?t=t) e medalha.
+As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](http://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](http://osu.ppy.sh/p/packlist?t=t) e medalha.
 
 Atualmente, existem 16 conquistas neste grupo, divididas em 4 seções:
 
@@ -22,7 +22,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 #### Requisitos:
 
  -   Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](http://osu.ppy.sh/p/packlist?t=t). 
- -   O modo deve ser [osu!Standard](/wiki/Game_Modes/Standard/pt-br.md).
+ -   O modo deve ser [osu!Standard](/wiki/Game_Modes/osu!/).
  -   Extraia o pacote temático, solte todos os beatmaps .zip na lista de músicas do osu!. Abra o osu! e começar a jogar. Só isso.
      -   Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](http://osu.ppy.sh/p/packlist?t=t)
      -   Alternativamente, você pode baixar as músicas manualmente uma por uma e ainda contaria.
@@ -40,7 +40,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
  
 #### Curiosidades:
 
- -   [Pacotes de beatmaps clássicos (2009 &mdash; 2016) antes da atualização de Stefan.](/wiki/Achievements/Beatmap_Packs_Achievements/pt-br.md)
+ -   [Pacotes de beatmaps clássicos (2009 &mdash; 2016) antes da atualização de Stefan.](/wiki/Achievements/Beatmap_Packs)
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -131,5 +131,3 @@ Links externos
 -------------
 
 -   Gráficos de conquistas do peppy [1](http://osu.ppy.sh/forum/t/80448)
-
-<Category:Gameplay/pt-br>
