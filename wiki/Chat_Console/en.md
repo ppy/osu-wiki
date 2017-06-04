@@ -30,7 +30,7 @@ Extended Chat Console
 
 From most screens in osu! you can press F9 or click the "Online Users" button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in osu!
 
-![Extended chat console](Extendedchatconsole.png "Extended chat console")
+![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
 Each user logged in osu has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
 
