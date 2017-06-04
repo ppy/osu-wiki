@@ -105,6 +105,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 ![](/wiki/Interface/img/Soloplay3.jpeg)
 
 Click on one of the tabs to **sort your song list according to the selected criterion**.
+
 **Group** - Most options organize beatmaps into various expandable groups:
 
 - No grouping - Beatmaps will not be grouped but will still be sorted in the order specified by Sort.
@@ -139,26 +140,24 @@ The first five groupings are available in tabs below Group and Sort.
 
 ![](/wiki/Interface/img/Soloplay5.jpeg)
 
-Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikilink") must not be active during typing or it will be considered Chat's text) and this search will be activated. Notes:
+Note: You cannot have the chat window open if you want to search; otherwise, anything you type will be perceived as chat text
 
--   The **beatmap list will display only the maps whose information fields** (Song artist, song name, beatmapper, difficulty names, tags) **match what you've typed.**
--   Using **Ctrl+Backspace** will clear the last word you typed, rather than the last character.
--   There are several **search filters** that can filter the results when used with =, &lt;, &gt;, &lt;=, &gt;=, != (not equal), or == (same as =) and a value (ex. "od&gt;8", "bpm&gt;150", "mode=mania").
-    Filters can be used in addition to search terms or other filters. (ex. "fox bpm&gt;200 ar=10", "bms status=r bpm&gt;200 length&gt;180")
-    -   **ar** - Approach rate
-    -   **cs** - Circle size
-    -   **od** - Overall difficulty
-    -   **hp** - HP drain rate
+-   Only beatmaps who match the criteria of your search will be shown, obviously.
+-   In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: = (equal to) or ==, < (less than), > (greater than), <= (less than or equal to), >= (greater than or equal to), or != (not equal to).
+    -   **ar** - Approach Rate
+    -   **cs** - Circle Size
+    -   **od** - Overall Difficulty
+    -   **hp** - HP Drain Rate
     -   **keys** - Number of keys (osu!mania maps only)
-    -   **stars** - Star difficulty rating
+    -   **stars** - Star Difficulty
     -   **bpm** - Beats per minute
     -   **length** - Length in seconds
-    -   **drain** - Drain time in seconds
-    -   **mode** - Mode - value can be osu, taiko, catchthebeat, or mania (or o/t/c/m for short)
-    -   **status** - Ranked status - value can be ranked, approved, pending, notsubmitted, or unknown (or r/a/p/n/u for short)
+    -   **drain** - Drain Time in seconds
+    -   **mode** - Mode - value can be "osu", "taiko", "catchthebeat", or "mania", or o/t/c/m for short.
+    -   **status** - Ranked status - value can be "ranked", "approved", "pending", "notsubmitted", or "unknown", or r/a/p/n/u for short.
     -   **played** - Time since last played in days
-    -   **unplayed** - Unplayed maps - no value (use "unplayed=" for unplayed maps, or "unplayed!=" for played maps)
-    -   **speed** - saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap option](Options#Gameplay_section "wikilink") is off
+    -   **unplayed** - Unplayed maps - no value (use "unplayed=" for unplayed maps or "unplayed!=" for played maps)
+    -   **speed** - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap option](Options#Gameplay_section "wikilink") is off
 
 ### Rankings
 
@@ -166,23 +165,26 @@ Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikil
 
  A variety of things can appear in this space:
 
--   A "not yet submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
--   If an "Update to latest version" box appears, click on it to attempt to replace this beatmap with its most current version from the osu! site.
-    -   **Note:** Prior version cannot be recovered. If you want to preserve the beatmap for some reason, do not update.
--   A "Latest version but not approved" box appears means that the beatmap has been uploaded to the osu! site but is not ranked yet.
--   Local Ranking Table will also be here.
--   A "No records set!" means you haven't complete the beatmap in Solo under your currently selected gameplay mode with a grade mark.
-    -   Note: Your Multi's score will not be saved at Local Ranking.
--   A "Not yet uploaded" means it's your created beatmap but you didn't upload it yet.
+-   A "Not Submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
+-   An "Update to latest version" box appears if there is a new version of the beatmap available for download. Click on the button to update.
+    -   **Note:** Once you update the beatmap, it cannot be reversed. If you want to preserve the older version for some reason (say, to keep scores), then do not update. 
+-   A "Latest pending version" box appears means that the beatmap has been uploaded to the osu!website but is not ranked yet.
+-   If replays matching the view setting of the beatmap exist, they will be displayed instead of a box denoting the ranked/played status of the beatmap. This is shown in the above picture.
+    - Under public rankings (e.g. Global, Friends, etc.), your high score will be shown at the bottom, as well as your rank on the leaderboard. 
+-   A "No records set!" box means that there are no replays for the current view setting (this is typically seen in the Local view setting if you just downloaded or edited the beatmap). 
+    -   Note: Scores for Multi are not counted as records.
 
-| colspan=2|Ranking Table       |
-|-------------------------------|
-| Name                          |
-| Local Ranking                 |
-| Country Ranking               |
-| Global Ranking                |
-| Global Ranking (Selected Mod) |
-| Friend Ranking                |
+These are the view settings:
+
+| Setting |
+| ------- |
+| Local Ranking | 
+| Country Ranking\* |
+| Global Ranking | 
+| Global Ranking (Selected Mods)\*) |
+| Friend Ranking\* |
+
+Settings with an asterisk require you to be a supporter to access them.
 
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
