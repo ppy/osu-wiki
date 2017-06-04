@@ -1,13 +1,13 @@
 Skin Set List 
 ============= 
 
-The following table contains all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
+The following tables contain all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
 
 ## osu!
 
 ### Cursor Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -18,7 +18,7 @@ The entirety of this skinset is gameplay relevant.
 
 ### Hitburst Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -38,7 +38,7 @@ The entirety of this skinset is gameplay relevant.
 
 ### Hitcircle Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -55,7 +55,7 @@ The entirety of this skinset is gameplay relevant.
 
 ### Slidertrack Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -67,7 +67,7 @@ The entirety of this skinset is gameplay relevant.
 
 ### Hitcircle Number Set
 
-The entirety of this skinset is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
+The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
 Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria Proposal.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
@@ -109,7 +109,7 @@ This is because the basic spinner style will take priority over the new one if b
 
 ### Hitobject Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -125,7 +125,7 @@ The entirety of this skinset is gameplay relevant.
 
 ### Hitburst Set
 
-The entirety of this skinset is gameplay relevant and all included hitbursts should be clearly distinguishable from each other.
+The entirety of this skin set is gameplay relevant and all included hitbursts should be clearly distinguishable from each other.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -137,7 +137,7 @@ The entirety of this skinset is gameplay relevant and all included hitbursts sho
 
 ### Pippidon Set
 
-This skinset is not gameplay relevant.
+This skin set is not gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -151,7 +151,7 @@ This skinset is not gameplay relevant.
 
 ### Fruits Set
 
-The entirety of this skinset is gameplay relevant.
+The entirety of this skin set is gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -182,7 +182,7 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 
 ### Scorebar Set
 
-The entirety of this skinset is gameplay relevant. Please note that the sizes of the elements within this skinset are handled via a guidelineon the Ranking Criteria proposal.
+The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guidelineon the Ranking Criteria proposal.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -195,7 +195,7 @@ The entirety of this skinset is gameplay relevant. Please note that the sizes of
 
 ### Score Number Set
 
-The entirety of this skinset is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
+The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -216,7 +216,7 @@ The entirety of this skinset is gameplay relevant. Overlaps or gaps between the 
 
 ### Mod Icon Set
 
-This skinset is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
+This skin set is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -266,7 +266,7 @@ The combobursts included in this set are gameplay relevant and star2.png is only
 
 ### Inputoverlay Set
 
-This skinset is not gameplay relevant.
+This skin set is not gameplay relevant.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -294,7 +294,7 @@ This skinset is not gameplay relevant.
 
 ### Countdown Set
 
-The entirety of this skinset is gameplay relevant. This skinset must not be skinned if the beatmap does not utilise countdowns.
+The entirety of this skin set is gameplay relevant. This skin set must not be skinned if the beatmap does not utilise countdowns.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -306,7 +306,7 @@ The entirety of this skinset is gameplay relevant. This skinset must not be skin
 
 ### Section Indicator Set
 
-This skinset is not gameplay relevant. This skinset must not be skinned if the beatmap does not contain a break long enough for section indicators to show up.
+This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for section indicators to show up.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -315,7 +315,7 @@ This skinset is not gameplay relevant. This skinset must not be skinned if the b
 
 ### Grade Indicator Set
 
-This skinset is not gameplay relevant. This skinset must not be skinned if the beatmap does not contain a break long enough for grade indicators to show up.
+This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for grade indicators to show up.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
