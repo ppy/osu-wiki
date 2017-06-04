@@ -10,16 +10,16 @@ Glossary
 
 ### Difficulty Names
 
--  ![Easy](/wiki/shared/Easy-s.png "Easy") Easy
--  ![Normal](/wiki/shared/Normal-s.png "Normal") Normal
--  ![Hard](/wiki/shared/Hard-s.png "Hard") Hard
--  ![Insane](/wiki/shared/Insane-s.png "Insane") Insane
--  ![Expert](/wiki/shared/Expert-s.png "Expert") Expert
+-  **![Easy](/wiki/shared/Easy-s.png "Easy") Easy**
+-  **![Normal](/wiki/shared/Normal-s.png "Normal") Normal**
+-  **![Hard](/wiki/shared/Hard-s.png "Hard") Hard**
+-  **![Insane](/wiki/shared/Insane-s.png "Insane") Insane**
+-  **![Expert](/wiki/shared/Expert-s.png "Expert") Expert**
 
 Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
 
-- ![Hard](/wiki/shared/Hard-s.png "Hard") Advanced: A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
-- ![Expert](/wiki/shared/Expert-s.png "Expert") Extra/Extreme/Ultra: Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
+- **![Hard](/wiki/shared/Hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
+- **![Expert](/wiki/shared/Expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
 
 ### Gameplay
 
@@ -33,7 +33,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Slider border:** Visible outline of a slider's path. When this is distorted through overlaps, sliders can become harder to read.
 - **Slider anchors:**  Tools used to shape the body of a slider. Gray anchors shape a single curve, while red anchors end the current curve. Also referred to as "nodes".
 - **Slider Velocity:** A slider's speed defines how much space it travels within a given beat. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Buzz slider:** a slider snapped to 1/8 or denser with more than three reverses, causing a "buzz" rather than individual hitsounds.
+- **Buzz slider:** A slider snapped to 1/8 or denser with more than three reverses, causing a "buzz" rather than individual hitsounds.
 - **Short Reversing Slider:** A short slider (usually 1/4 or 1/8 snapping) with 1 or more reverses. This allows a player to keep their cursor in one place while the slider reverses.
 - **Hold Slider:** A slider requiring the player to keep their cursor in one place rather than follow the sliderball.
 - **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
