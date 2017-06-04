@@ -47,11 +47,11 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 -----------
 
-![Podium](podium.png)
+![Podium](podium.jpg)
 
 -----------
 
-![Brackets](brackets.png)
+![Brackets](brackets.jpg)
 
 -----------
 
