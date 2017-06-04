@@ -30,7 +30,7 @@ La console de chat étendue
 
 Sur la plupart des écrans du jeu vous pouvez cliquer sur F9 ou sur "Online Users" pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 
-![Extended chat console](Extendedchatconsole.png "Extended chat console")
+![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
 Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il affiche des informations générales (pseudo, rang, précision, le nombre de parties jouées et l'avatar de l'utilisateur). Quand le curseur est placé sur un panneau, des informations différentes sont affichées (pseudo, rang, avatar, l'heure locale, location de l'utilisateur et ce qu'il est en train de faire).
 
