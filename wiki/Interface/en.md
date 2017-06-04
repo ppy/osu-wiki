@@ -6,7 +6,7 @@
 [Heart]: /wiki/shared/Heart.gif
 [Fire]: /wiki/shared/Fire.gif
 
-# Interface 
+# Interface
 
 ![Introduction screen](img/Intro_static.jpg)
 
@@ -14,16 +14,16 @@
 
 ![Main Menu](img/Introscreen.png)
 
-The \[1\] osu!cookie pulses according to the BPM of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+The \[1\] [osu!cookie](/wiki/Glossary/#cookie) pulses according to the BPM of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
--   \[2\] Click Play (P) or the logo to switch to the Solo mode song selection screen.
--   \[3\] Click Edit (E) to open the Editor mode song selection screen.
--   \[4\] Click Options (O) to go to the Options screen.
--   \[5\] Click Exit (Esc) to exit osu!.
+-   \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
+-   \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
+-   \[4\] Click Options (`O`) to go to the Options screen.
+-   \[5\] Click Exit (`Esc`) to exit osu!.
 -   \[6\] A random useful tip is displayed below the menu.
 -   \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
 -   \[8\] Connection result to Bancho! In this picture it is not shown, but the connection result looks like a chain link. 
--   \[9\] In the bottom right are the chat controls (F8 & F9).
+-   \[9\] In the bottom right are the chat controls (`F8` & `F9`).
 -   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
     - Previous Track
     - Play
@@ -55,7 +55,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Multi Lobby
 
-*Full explanation: [Multiplayer](/wiki/Multi)*
+*Full explanation: [Multi](/wiki/Multi)*
 
 ![Multi Lobby](img/Multi-Play-2016.png)
 ![Multi Host](img/Multi-play!_Host.jpg)
@@ -79,7 +79,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 Note: You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen.
 
-![][Osu!]"osu!" is [osu!](Standard "wikilink"), ![][Taiko]"Drum" is [Taiko](Taiko "wikilink"), ![][Ctb]"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania]"Piano" is [osu!mania](Mania "wikilink")
+![][Osu!] "osu!" is [osu!](Standard "wikilink"), ![][Taiko] "Drum" is [Taiko](Taiko "wikilink"), ![][Ctb] "Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania] "Piano" is [osu!mania](Mania "wikilink")
 
 Because this screen has too many elements to note by easily noticeable numbers, this section will focus on one part of the screen at a time, starting from the top down and left to right.
 
@@ -143,18 +143,18 @@ The first five groupings are available in tabs below Group and Sort.
 Note: You cannot have the chat window open if you want to search; otherwise, anything you type will be perceived as chat text
 
 -   Only beatmaps who match the criteria of your search will be shown, obviously.
--   In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: = (equal to) or ==, < (less than), > (greater than), <= (less than or equal to), >= (greater than or equal to), or != (not equal to).
-    -   **ar** - Approach Rate
-    -   **cs** - Circle Size
-    -   **od** - Overall Difficulty
-    -   **hp** - HP Drain Rate
-    -   **keys** - Number of keys (osu!mania maps only)
-    -   **stars** - Star Difficulty
-    -   **bpm** - Beats per minute
-    -   **length** - Length in seconds
-    -   **drain** - Drain Time in seconds
-    -   **mode** - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
-    -   **status** - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, or ``unknown``, or ``r/a/p/n/u`` for short.
+-   In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: `=` (equal to) or `==`, `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), or `!=` (not equal to).
+    -   `ar` - Approach Rate
+    -   `cs` - Circle Size
+    -   `od` - Overall Difficulty
+    -   `hp` - HP Drain Rate
+    -   `keys` - Number of keys (osu!mania maps only)
+    -   `stars` - Star Difficulty
+    -   `bpm` - Beats per minute
+    -   `length` - Length in seconds
+    -   `drain` - Drain Time in seconds
+    -   `mode` - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
+    -   `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, or ``unknown``, or ``r/a/p/n/u`` for short.
     -   **played** - Time since last played in days
     -   **unplayed** - Unplayed maps - no value (use ``unplayed=`` for unplayed maps or ``unplayed!=`` for played maps)
     -   **speed** - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options/#Gameplay) option is off
@@ -176,22 +176,20 @@ Note: You cannot have the chat window open if you want to search; otherwise, any
 
 These are the view settings:
 
-| Setting |
-| ------- |
-| Local Ranking | 
-| Country Ranking\* |
-| Global Ranking | 
-| Global Ranking (Selected Mods)\*) |
-| Friend Ranking\* |
+- Local Ranking
+- Country Ranking\*
+- Global Ranking
+- Global Ranking (Selected Mods)\*
+- Friend Ranking\*
 
-Settings with an asterisk require you to be a supporter to access them.
+Settings with an asterisk require you to be an [osu!supporter](/wiki/osu!supporter/) to access them.
 
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
--   Press 1 or click the "Beatmap Listing/Scores" button and your default Internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
--   Press 2 or click "Beatmap Topic" and your default Internet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
--   Press 3 or click "Quick Reply" and your default Internet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
--   Press 4 or Esc or click "Cancel" to return to the Song Selection Screen.
+-   Press `1` or click the "Beatmap Listing/Scores" button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
+-   Press `2` or click "Beatmap Topic" and your default itnternet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
+-   Press `3` or click "Quick Reply" and your default irnternet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
+-   Press `4` or Esc or click "Cancel" to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
 
@@ -206,7 +204,7 @@ The song list displays all available beatmaps. Different beatmaps may have diffe
 -   **Light Blue**: Other beatmaps in the same set, shown when a mapset is expanded.
 -   **White**: Currently selected beatmap.
 
-You can navigate the beatmap list by \[1\]using the mouse wheel, \[2\]using the up and down arrow keys, \[3\]dragging it while holding the left mouse button or \[4\]clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. \[1\]Click the box again, \[2\]press "Enter" or \[3\]click the osu!cookie at the lower right to begin playing the beatmap.
+You can navigate the beatmap list by using the mouse wheel, using the up and down arrow keys, dragging it while holding the left mouse button or clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. Click the box again, press `Enter` or click the osu!cookie at the lower right to begin playing the beatmap.
 
 ### Gameplay toolbox
 
@@ -217,7 +215,9 @@ This section can be called the gameplay toolbox. We will cover each button's use
 
 Press ESC or click the Back button to return to Main Menu
 
-Click on the "Mode" button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (![][Osu!][osu!standard](/wiki/Game_Modes/osu!/)) / 2 (![][Taiko][Taiko](/wiki/Game_Modes/osu!taiko/)) / 3 (![][Ctb][Catch the Beat](/wiki/Game_Modes/osu!catch/)) / 4 (![][Mania][osu!mania](/wiki/Game_Modes/osu!mania/)) on your keyboard to quickly switch to your desired gameplay mode.
+Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (osu!standard), 2 (Taiko), 3 (osu!mania), or 4 (Catch the Beat) to change the gamemode.
+
+Note: The background transparent icon depicts what mode is currently selected.
 
 ![Game modifiers](img/Soloplay8.png)
 
@@ -267,10 +267,6 @@ Below are the grade screens of the other game modes.
 ![Accuracy in Catch the Beat](img/Accuracy_CtB.jpg)
 
 ### Online Leaderboard
-
-Note: The back transparent leitmotif is based on what mode you played in.
-
-![][Osu!]"osu!" is [osu!](Standard "wikilink"), ![][Taiko]"Drum" is [Taiko](Taiko "wikilink"), ![][Ctb]"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![][Mania]"Piano" is [osu!mania](Mania "wikilink")
 
 ![Right: Example of an osu!online score. (6) was edited in.](img/Osu!_Online_score.png)
 
