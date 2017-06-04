@@ -15,7 +15,7 @@ To use BanchoBot, type `/help` into chat; any chat tab will do. After that, you 
 
 ### Standard Commands
 
-For a table of standard commands, go to the [Chat Console](/wiki/Chat_Console) article.
+*For a table of standard commands, go to the [Chat Console](/wiki/Chat_Console) article.*
 
 ### /bb Commands
 
