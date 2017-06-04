@@ -66,7 +66,7 @@ Music works in beats and rhythms. When you start a map (or even before you play)
 
 In a point-and-click game like *osu!*, aiming is also another important factor. Being able to get the notes at the right time is pretty pointless without being able to get your cursor to the right location. In this case, the most effective way to improve in this sector is to simply play the game. It also helps to play harder and harder maps, since the spacing between notes will likely get bigger, making you move around more and tap the notes from wider distances.
 
-The best way you can practice for aiming without playing *osu!* is using your computer with your input device of choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
+The best way you can practice for aiming without playing *osu!* is using your computer with input device of your own choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
 
 ### Speed
 
@@ -80,7 +80,7 @@ The best way to improve is to challenge yourself. The only way you will get used
 
 Don't be afraid to practise something that always makes you miss for one reason or another. You will need to find the challenge, and see what you need to do to meet that challenge. Do you need to hit the buttons faster? Do you need better timing? Do you need to be more precise when moving to notes? These are all questions that you can ask yourself. This will help you find your answer a lot more quickly and make your experience all the more worth it.
 
-Getting More out of Gameplay
+Getting more out of Gameplay
 ----------------------------
 
 ### Global Offset
