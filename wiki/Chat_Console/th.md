@@ -1,11 +1,10 @@
-หน้าต่างพูดคุยอย่างง่าย
-=======================
+# หน้าต่างพูดคุยอย่างง่าย
 
-กด F8 จากที่ไหนก็ได้ในเกม หรือกดปุ่ม "Show Chat" ที่อยู่มุมล่างขวาเพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
+กด `F8` จากที่ไหนก็ได้ในเกม หรือกดปุ่ม `Show Chat` ที่อยู่มุมล่างขวาเพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
--   แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว หรืออาจจะกดปุ่ม "+" สีเหลืองเพื่อเลือกช่องใหม่ที่ต้องการ
+-   แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว หรืออาจจะกดปุ่ม `+` สีเหลืองเพื่อเลือกช่องใหม่ที่ต้องการ
 -   สีของผู้เล่นต่างๆ มีความหมายต่างกัน
 
 | สี                        | คนนั้นเป็นใคร                                                                                                                                      |
@@ -16,21 +15,20 @@
 | แดง                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                |
 | เขียวเข้ม               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง \#highlight |
 | น้ำเงิน                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
-| ฟ้า                     | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง osu!                                                                                                        |
+| ฟ้า                     | [peppy](https://osu.ppy.sh/u/2 "peppy") หรือผู้สร้าง *osu!*                                                                                                        |
 | ชมพู                    | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                  |
 
--   คลิกที่ปุ่ม "Show Ticker" เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
--   คลิกที่ปุ่ม "Auto-Hide" เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ
--   คลิกที่ปุ่ม "Hide Chat" หรือกด F8 เพื่อย่อหน้าต่างพูดคุย
+-   คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
+-   คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ
+-   คลิกที่ปุ่ม `Hide Chat` หรือกด `F8` เพื่อย่อหน้าต่างพูดคุย
 
-หน้าต่างพูดคุย (ขยาย)
-=====================
+## หน้าต่างพูดคุย (ขยาย)
 
-กด F9 จากที่ไหนก็ได้ในเกม หรือคลิกที่ "Online Users" ที่มุมล่างขวาของเมนูหลักเพื่อเปิดหน้าต่างพูดคุย คราวนี้มาเต็มจอเลย หน้าต่างพูดคุยแบบขยายใช้พื้นที่สองในสาม (ที่เหลือจากอันข้างบน) เพื่อแสดงรายชื่อผู้เล่นที่เชื่อมต่อกับ osu! ณ ขณะนี้
+กด `F9` จากที่ไหนก็ได้ในเกม หรือคลิกที่ `Online Users` ที่มุมล่างขวาของเมนูหลักเพื่อเปิดหน้าต่างพูดคุย คราวนี้มาเต็มจอเลย หน้าต่างพูดคุยแบบขยายใช้พื้นที่สองในสาม (ที่เหลือจากอันข้างบน) เพื่อแสดงรายชื่อผู้เล่นที่เชื่อมต่อกับ *osu!* ณ ขณะนี้
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-ผู้เล่นแต่ละคนที่ลอคอินเข้าเกมจะมี user panel แสดงในหน้าต่างพูดคุยแบบขยาย โดยปกติแล้ว จะแสดงข้อมูลทั่วไปของผู้เล่น (ชื่อ, คะแนนรวม อันดับ ความแม่นยำ จำนวนครั้งที่เล่น และอวตาร์ของผู้เล่น (ถ้ามี)). เมื่อเอาเมาส์ชี้ที่ user panel <s>สิ่งที่เกิดขึ้นอจจะทำให้คุณไม่อยากเชื่อ</s> ก็จะแสดงข้อมูลอื่นๆ (ชื่อ อันดับ อวตาร์ (ถ้ามี) เวลาท้องถิ่น เขตเวลา ประเทศ หรือเมือง ถ้าผู้ใช้อนุญาตให้แสดง และ "เขากำลังทำอะไรอยู่").
+ผู้เล่นแต่ละคนที่ลอคอินเข้าเกมจะมี user panel แสดงในหน้าต่างพูดคุยแบบขยาย โดยปกติแล้ว จะแสดงข้อมูลทั่วไปของผู้เล่น (ชื่อ, คะแนนรวม อันดับ ความแม่นยำ จำนวนครั้งที่เล่น และอวตาร์ของผู้เล่น (ถ้ามี)). เมื่อเอาเมาส์ชี้ที่ user panel สิ่งที่เกิดขึ้นอจจะทำให้คุณไม่อยากเชื่อ ก็จะแสดงข้อมูลอื่นๆ (ชื่อ อันดับ อวตาร์ (ถ้ามี) เวลาท้องถิ่น เขตเวลา ประเทศ หรือเมือง ถ้าผู้ใช้อนุญาตให้แสดง และ "เขากำลังทำอะไรอยู่").
 
 -   *เพื่อน*จะจำกัดรายชื่อเแพาะเพื่อน
 -   *ล็อก Panel* จะหยุด user panels จากการเคลื่อนที่ไปมา และการที่ผู้เล่นคนใหม่ลอคอินด้วย
@@ -63,21 +61,19 @@
 1.  **Start Spectating**: ถ้าคุณและคนที่คุณส่องมีแมพเหมือนกัน คุณก็สามารถดูเขาเล่นได้ และชื่อของคุณจะไปปรากฎในรายชื่อผู้เฝ้าดู(?).
 2.  **View Profile**: ดูโปรไฟล์ของผู้เล่นคนนั้น บนเบราว์เซอร์
 3.  **Start Chat**: เปิดแทบแชทใหม่เพื่อคุยกับผู้เล่นคนนั้น
-4.  **Invite to game**: (ถ้าคุณอยู่ในห้องมัลติ) <s>ลาก</s>ชวนเข้าห้องมัลติของคุณ
+4.  **Invite to game**: (ถ้าคุณอยู่ในห้องมัลติ) ลากชวนเข้าห้องมัลติของคุณ
 5.  **Add (Remove) as Friend**: เพิ่ม/เอา ผู้เล่นเข้าใน/ออกจาก รายชื่อเพื่อนของคุณ
 6.  **Report User**: รายงานพฤติกรรมที่ไม่เหมาะสม ไม่ควรใช้นอกจากที่กล่าวไว้
 7.  **Ignore User**: คำพูดใดๆ ที่ผู้เล่นพิมพ์ลงช่องแชทจะไม่ปรากฎในช่องแชทคุณ
 8.  **Close**: ปิด Panel จบ
 
-รายชื่อคำสั่ง
-=============
+## รายชื่อคำสั่ง
 
-/help
------
+### /help
 
 | คำสั่ง        | สิ่งที่เกิดขึ้น                                                                                         | ตัวอย่าง           | BanchoBot จะตอบว่า...                                                               | 
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| /addfriend [user] or /delfriend [user] | เพิ่มหรือนำออก <user> เข้า/จากรายชื่อเพื่อน     | /addfriend Amigo | You are now friends with Amigo. |
+| /addfriend [user] or /delfriend [user] | เพิ่มหรือนำออก [user] เข้า/จากรายชื่อเพื่อน     | /addfriend Amigo | You are now friends with Amigo. |
 | /away [message] | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | /away สวัสดีผมไม่อยู่นะ รอแปปนึง | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง|
 | /bb | Sends a message to bancho like rank [number] | /bb rank 1 | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | /chat [user] | Open a new chat tab with specified user. | /chat Amigo | (Amigo tab is opened) | 
@@ -88,7 +84,7 @@
 | /unignore [user] | Stop ignoring this user for this session. | /unignore Amigo | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) | 
 | /me [action] | Perform a third-person action. | /me is at home | *John is at home | 
 | /msg [user] [msg] | Send a private message to [user]. | /msg Amigo I am sick at home. | (At Amigo tab) John: I am sick at home. | 
-| /np | Print to chat the current song you are listening to or playing. | /np | (If playing) *John is playing Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K. (If doing nothing, based on jukebox) *John is listening to Peter Lambert - osu! tutorial. (If spectating or Autoplay) *John is watching Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K Autoplay |
+| /np | Print to chat the current song you are listening to or playing. | /np | (If playing) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (If doing nothing, based on jukebox) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto)|
 | /reply or /r | Reply to the last received private message. | /r Do you know any good doctor? | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
 | /savelog | Saves current chat tab to a text file. | /savelog | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) | 
 | /watch [user] | Start spectating [user]. | /watch Amigo | *Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) | 
@@ -96,14 +92,13 @@
 | /invite [user] | Invites [user] to the multiplayer room along with the link. | /invite Nathanael | * Nathanael has been invited to the game | 
 
 
-/keys
------
+### /keys
 
 | Keyboard keys     | Effect                                                   |
 |-------------------|----------------------------------------------------------|
-| PageUp / PageDown | Scroll the chat window.You may also use the mouse-wheel. |
-| Tab               | Auto-complete currently typing nickname.                 |
-| F8                | Toggle chat console.                                     |
-| F9                | Toggle extended chat console.                            |
-| Ctrl + C/V        | Copy/Paste.                                              |
-| Alt + 0-9         | Switch to respective tab.                                |
+| `PageUp` / `PageDown` | Scroll the chat window.You may also use the mouse-wheel. |
+| `Tab`               | Auto-complete currently typing nickname.                 |
+| `F8`                | Toggle chat console.                                     |
+| `F9`                | Toggle extended chat console.                            |
+| `Ctrl` + `C/V`        | Copy/Paste.                                              |
+| `Alt` + `0-9`         | Switch to respective tab.                                |
