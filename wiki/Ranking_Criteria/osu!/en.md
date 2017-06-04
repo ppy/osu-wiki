@@ -99,7 +99,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 #### Guidelines
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work in `.osu` file.
+-   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the [Colours] column in the `.osu` file of map.
 
 ## Difficulty-specific
 
