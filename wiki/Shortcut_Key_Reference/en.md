@@ -71,7 +71,10 @@ These work anywhere:
 
 ## Mods screen
 
-Note: some mods may require the player to press the key twice.
+**Notes:**
+
+- The key references below assumes that none of the mods are selected.
+- Some mods may require the player to press the key twice.
 
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
@@ -114,7 +117,7 @@ Note: some mods may require the player to press the key twice.
 ## Play Mode
 
 - `+` or `-`: Adjust local offset (hold Alt to change the precision)
-- `Esc`: Pause (Quit song if Auto mod is used)
+- `Esc`: Pause (Quit song if Auto or Cinema mod is used)
 - `Space`: Skip opening cut-scene.
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
