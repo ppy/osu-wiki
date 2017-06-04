@@ -190,6 +190,66 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Match Results
+
+### Group Stage
+
+| Saturday, 03. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://osu.ppy.sh/community/matches/33594444) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://osu.ppy.sh/community/matches/33594453) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 1 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33594458) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33595359) |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://osu.ppy.sh/community/matches/33595349) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33595356) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 4 | 2 | ![](/wiki/shared/flag/It.gif) Italy | [#1](https://osu.ppy.sh/community/matches/33596235) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 1 | 4 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://osu.ppy.sh/community/matches/33596240) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 1 | 4 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33596244) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 1 | 4 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://osu.ppy.sh/community/matches/33597388) |
+| Russian Federation ![](/wiki/shared/flag/Ru.gif) | 3 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33597392) |
+| Finland ![](/wiki/shared/flag/Fi.gif) | 0 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33597393) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 0 | 4 | ![](/wiki/shared/flag/Tw.gif) Taiwan | -WIN BY DEFAULT- |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 1 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33598432) |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 0 | 4 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33598437) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 2 | 4 | ![](/wiki/shared/flag/Br.gif) Brazil | [#1](https://osu.ppy.sh/community/matches/33606293) |
+| Norway ![](/wiki/shared/flag/No.gif) | 2 | 4 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33606294) |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 0 | 4 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://osu.ppy.sh/community/matches/33606305) |
+| Italy ![](/wiki/shared/flag/It.gif) | 1 | 4 | ![](/wiki/shared/flag/Gb.gif) United States | [#1](https://osu.ppy.sh/community/matches/33607880) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://osu.ppy.sh/community/matches/33607886) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 3 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33607891) |
+| Netherlands ![](/wiki/shared/flag/Nl.gif) | 0 | 4 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33609509) |
+| Austria ![](/wiki/shared/flag/At.gif) | 0 | 4 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://osu.ppy.sh/community/matches/33609513) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 4 | 0 | ![](/wiki/shared/flag/Fi.gif) France | [#1](https://osu.ppy.sh/community/matches/33609523) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33610689) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 2 | 4 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33610690) |
+
+| Sunday, 04. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Mexico ![](/wiki/shared/flag/Mx.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33616648) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 2 | 4 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33616607) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 1 | 4 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33617566) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 0 | 4 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33617553) |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33622086) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 0 | 4 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://osu.ppy.sh/community/matches/33622027) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33622032) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 3 | 4 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33622978) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 0 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33622971) |
+| Austria ![](/wiki/shared/flag/At.gif) | 0 | 4 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33622973) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33624107) |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 4 | 2 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://osu.ppy.sh/community/matches/33624268) |
+| Finland ![](/wiki/shared/flag/Fi.gif) | 1 | 4 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://osu.ppy.sh/community/matches/33624109) |
+| Austria ![](/wiki/shared/flag/At.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -WIN BY DEFAULT- |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 1 | 4 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://osu.ppy.sh/community/matches/33625333) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 1 | 4 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33625335) |
+| Italy ![](/wiki/shared/flag/It.gif) | 2 | 4 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33626860) |
+| Romania ![](/wiki/shared/flag/Ro.gif) | 1 | 4 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://osu.ppy.sh/community/matches/33626858) |
+| Norway ![](/wiki/shared/flag/No.gif) | 4 | 3 | ![](/wiki/shared/flag/De.gif) Germany | [#1](https://osu.ppy.sh/community/matches/33626849) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33628443) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33628484) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/De.gif) Germany | -WIN BY DEFAULT- |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
