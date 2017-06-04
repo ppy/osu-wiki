@@ -1,5 +1,4 @@
-La console de chat
-==================
+# La console de chat
 
 Vous pouvez afficher la console de chat sur la plupart des écrans d'*osu!* en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
 
@@ -23,10 +22,9 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'*osu!* en a
 -   Cliquez sur `Auto-Hide` pour cacher automatiquement la console de chat pendant les phases de jeu (Sauf pendant l'intro, l'outro et les pauses).
 -   Cliquez sur `Hide Chat` ou de nouveau sur F8 pour cacher le chat.
 
-La console de chat étendue
-==========================
+## La console de chat étendue
 
-*L'[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") à déjà abordé ce sujet ici : [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
+*L'[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
 
 Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 
@@ -65,11 +63,9 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 4.  **Add as Friend**: Ajouter l'utilisateur à vos amis
 5.  **Close**: Ferme les options d'utilisateur
 
-La liste des commandes
-======================
+## La liste des commandes
 
-/help
------
+### /help
 
 | COMMANDE        | Effect                                                                                         | Example           | Réponse de BanchoBot                                                               | 
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
@@ -93,8 +89,7 @@ La liste des commandes
 | /invite [user] | Invites [user] to the multiplayer room along with the link. | /invite Nathanael | * Nathanael has been invited to the game | 
 
 
-/keys
------
+### /keys
 
 | Keyboard keys     | Effect                                                                             |
 |-------------------|------------------------------------------------------------------------------------|
