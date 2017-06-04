@@ -217,11 +217,11 @@ This section can be called the gameplay toolbox. We will cover each button's use
 
 Press ESC or click the Back button to return to Main Menu
 
-Click on the "Mode" button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (![][Osu!][osu! Standard](Standard "wikilink")) / 2 (![][Taiko][Taiko](Taiko "wikilink")) / 3 (![][Ctb][Catch the Beat](Catch_the_Beat "wikilink")) / 4 (![][Mania[osu!mania](osu!mania "wikilink")) on your keyboard to quickly switch to your desired gameplay mode.
+Click on the "Mode" button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (![][Osu!][osu!standard](/wiki/Game_Modes/osu!/)) / 2 (![][Taiko][Taiko](/wiki/Game_Modes/osu!taiko/)) / 3 (![][Ctb][Catch the Beat](/wiki/Game_Modes/osu!catch/)) / 4 (![][Mania][osu!mania](/wiki/Game_Modes/osu!mania/)) on your keyboard to quickly switch to your desired gameplay mode.
 
 ![Game modifiers](/img/Soloplay8.png)
 
-Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](Game_Modifiers "wikilink")**.
+Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](/wiki/Game_Modifiers/)**.
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
 
