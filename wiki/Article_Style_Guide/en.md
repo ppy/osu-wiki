@@ -72,7 +72,7 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `no.md`: Norwegian
 - `pl.md`: Polish
 - `pt.md`: Portuguese
-- `pt-br.md`: Portuguese (Brasil)
+- `pt-br.md`: Brazilian Portuguese
 - `ru.md`: Russian
 - `th.md`: Thai
 - `tl.md`: Tagalog
