@@ -7,16 +7,16 @@ Obtendo os hitsounds personalizados
 ------------------------------
 
 Primeiro, você precisará de alguns hitsounds personalizados! Você também pode:
-- Pegá-los na [[Custom Hitsound Library]],
+- Pegá-los na [biblioteca de hitsounds personalizados](../Custom_Hit_Sound_Library/),
 - ou criar os seus próprios
-  - se você fizer o seu próprio, tente manter o formato como `*.wav` &mdash; já que é melhor para looping [Citação necessária].
+  - se você fizer o seu próprio, tente manter o formato como `.wav` &mdash; já que é melhor para looping.
 
 Com os hitsounds em mãos, mova-os para a pasta de música. Se você não souber onde fica a sua pasta de música, siga estas instruções:
 1. Abra o osu!
 2. Clique em Edit
 3. Navegue para o *seu beatmap* e abra-o
-4. Arquivos (menu superior esquerdo, é uma barra colorida meia branca na parte superior)
-5. Abrir pasta de músicas
+4. Arquivos (menu superior esquerdo, na barra branca do topo)
+5. Abrir pasta da música
 6. *cole-os lá*
 
 Agora que você os tem dentro da pasta de música, é importante (ou quase) nomeá-los para o que você quer que eles sejam. Por exemplo, eles podem ser nomeados para "finish", "whistle", "clap", "normal hit" ou "loud noises".
@@ -29,7 +29,7 @@ Você então decide se quer que seja o normal hit, clap, whistle ou finish.
 
 ### 1ª exemplo
 
-Então, você nomeia o arquivo (para, diagmos, Soft clap) "soft-hitclap.mp3".
+Então, você nomeia o arquivo (para, diagmos, Soft clap) `soft-hitclap.mp3`.
 
 Vários hitsounds com o mesmo nome
 ---------------------------------------
@@ -38,7 +38,7 @@ Se você quiser mais variedade e precisa de mais opções para aplausos e tudo m
 
 ### 2ª exemplo
 
-Como "normal-hitclap2.mp3" ou "soft-hitfinish3.mp3"
+Como `normal-hitclap2.mp3` ou `soft-hitfinish3.mp3`
 
 Não se esqueça de ir para a configuração de tempo e alterar a escolha do hitsound para o personalizado, e para o número específico.
 
