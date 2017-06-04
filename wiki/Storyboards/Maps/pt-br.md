@@ -1,4 +1,7 @@
-Esta é uma lista expandida de beatmaps com [storyboard](storyboard "wikilink").
+Mapas com Storyboards
+=====================
+
+Esta é uma lista expandida de beatmaps com [storyboard](wiki/Storyboards).
 
 ### Storyboards
 
@@ -121,7 +124,7 @@ Beatmaps que não têm uma alma™, mas que ainda sim são bons
 -   [DJ Sharpnel - StrangeProgram](http://osu.ppy.sh/s/5774)
 -   [Shiori Mikami - Watashi, Shuyaku no Akaza Akari Desu (Short Ver.)](http://osu.ppy.sh/s/48072)
 
-Não rankeados
+Não ranqueados
 ----------
 
 -   [Poets Of The Fall - The Happy Song](http://osu.ppy.sh/s/58704)
