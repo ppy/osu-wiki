@@ -188,26 +188,25 @@ Settings with an asterisk require you to be a supporter to access them.
 
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
--   Press 1 or click the "Beatmap Listing/Scores" button and your default Internet browser will attempt to display the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
--   Press 2 or click "Beatmap Topic" and your default Internet browser will attempt to display the forum thread of the beatmap set the selected beatmap belongs to.
--   Press 3 or click "Quick Reply" and your default Internet browser will attempt to open a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
+-   Press 1 or click the "Beatmap Listing/Scores" button and your default Internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
+-   Press 2 or click "Beatmap Topic" and your default Internet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
+-   Press 3 or click "Quick Reply" and your default Internet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
 -   Press 4 or Esc or click "Cancel" to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
 
-### Song List
+### Song 
 
 ![](/wiki/Interface/img/Soloplay6.jpeg)
 
-The **song list displays all the beatmaps you have downloaded**, with possible narrowing down depending on your selections in this screen. Boxes can have a lot of different colours:
+The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
--   <span style="background-color:#f00;">Red</span>: This beatmap only has one difficulty version.
 -   <span style="background-color:#FFC0CB;">Pink</span>: This beatmap has not been played yet.
--   <span style="background-color:#FFA500;">Orange</span>: This beatmap has been played.
--   <span style="background-color:#00B8FF;">Light Blue</span>: Other beatmaps in the same set.
--   <span style="background-color:#fff;">White</span>: This beatmap is currently selected.
+-   <span style="background-color:#FFA500;">Orange</span>: This beatmap has been played, or all beatmaps in this mapset have been played.
+-   <span style="background-color:#00B8FF;">Light Blue</span>: Other beatmaps in the same set, shown when a mapset is expanded.
+-   <span style="background-color:#fff;">White</span>: Currently selected beatmap.
 
-You can navigate the beatmap list using the \[1\]mouse wheel, \[2\]up and down arrow keys, \[3\]drag it while holding the left mouse button or \[4\]clicking the right mouse button (previously known as Absolute Scrolling) which will scroll based on your cursor placement prior to clicking. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. \[1\]Click the box again, \[2\]press "Enter" or \[3\]click the osu! logo at the lower right to begin playing the beatmap. If the box have a lighter colour, it means that you have not played that beatmap difficulty yet.
+You can navigate the beatmap list by \[1\]using the mouse wheel, \[2\]using the up and down arrow keys, \[3\]dragging it while holding the left mouse button or \[4\]clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. \[1\]Click the box again, \[2\]press "Enter" or \[3\]click the osu!cookie at the lower right to begin playing the beatmap.
 
 ### Gameplay toolbox
 
@@ -216,7 +215,7 @@ You can navigate the beatmap list using the \[1\]mouse wheel, \[2\]up and down a
 
 This section can be called the gameplay toolbox. We will cover each button's use from left to right.
 
-Pressing ESC or click the Back button to return to Main Menu
+Press ESC or click the Back button to return to Main Menu
 
 Click on the "Mode" button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press CTRL and 1 (![][Osu!][osu! Standard](Standard "wikilink")) / 2 (![][Taiko][Taiko](Taiko "wikilink")) / 3 (![][Ctb][Catch the Beat](Catch_the_Beat "wikilink")) / 4 (![][Mania[osu!mania](osu!mania "wikilink")) on your keyboard to quickly switch to your desired gameplay mode.
 
@@ -224,7 +223,7 @@ Click on the "Mode" button to open up a list of gameplay modes available on osu!
 
 Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](Game_Modifiers "wikilink")**.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a modifier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a modifier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](Relax "wikilink") and [Auto Pilot](Auto_Pilot "wikilink") falls in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
+In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](Relax "wikilink") and [Auto Pilot](Auto_Pilot "wikilink") fall in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
 
 While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
@@ -236,16 +235,17 @@ Click the "Random Map" button or press F2 to have the game **randomly scroll thr
 
 Click the "Beatmap Options" button or press F3 or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
--   Press 1 or click the "Manage Collections" button to add the selected beatmap to the Collection list. You can display the list by clicking on the appropriate tab (see above).
--   Press 2 or click "Delete..." to delete the currently selected beatmap difficulty or the entire beatmap set it belongs to from your hard drive. You will be prompted one more time before the beatmap(s) is/are actually deleted.
--   Press 3 or click "Remove from Unplayed" to mark an unplayed beatmap as played.
--   Press 4 or click "Clear local scores" to delete all records of the scores you have achieved in this beatmap. Only the Local high score list is cleared; the scores gained from your plays on this beatmap remains intact.
+-   Press 1 or click the "Manage Collections" button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
+-   Press 2 or click "Delete..." to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all beatmaps. The last option is a joke; clicking it will cause the game to notify you that you can't delete all of your beatmaps at once.
+    - Note that deleted beatmaps are moved to the Recycle Bin.
+-   Press 3 or click "Remove from Unplayed" to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
+-   Press 4 or click "Clear local scores" to delete all records of the scores you have achieved in this beatmap.
 -   Press 5 or click "Edit" to open the selected beatmap in osu!'s Editor.
 -   Press 6 or Esc or click "Close" to return to the Song Selection Screen.
 
 Click on **your user panel** to access the **User Options Menu**.
 
-Click the **osu! logo** to **start playing the selected beatmap**.
+Click the **osu!cookie** to **start playing the selected beatmap**.
 
 ## Ranking Screen
 
@@ -253,7 +253,7 @@ Click the **osu! logo** to **start playing the selected beatmap**.
 
 ![Accuracy in osu!standard](/wiki/Interface/img/Accuracy_osu!.jpg)
 
-This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
+This is the grade screen shown after you have successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
 
 **Note:** The grade skin will vary by skin used.
 
@@ -274,24 +274,24 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 ![Right: Example of an osu!online score. (6) was edited in.](/wiki/Interface/img/Osu!_Online_score.png)
 
-This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
+This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
-1.  You can change your name here to put on the Local Scoreboard.
+1.  You can change the name to record for this replay here.
 2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
 3.  Your options regarding the Beatmap.
     1.  Export Replay as .osr: Save the replay that can be used online.
     2.  Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps-&gt;Favourite Beatmaps
 
 4.  Self-explanatory. Will not appear if offline.
-    1.  Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
-    2.  Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
+    1.  Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
+    2.  Overall: Your profile standing on the gamemode you just played, not just the beatmap.
     3.  Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
     4.  Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
-    5.  Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
+    5.  Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
     6.  To Next Rank: How much score you need to move your current map ranking position up.
 
 5.  Same as 4, but it is reserved for monthly [Ranking Charts](http://osu.ppy.sh/p/chart)
-6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](Achievements "wikilink") page
-7.  Beatmap song with it's history of plays and pass rate.
+6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at the [Achievements](Achievements "wikilink") page.
+7.  Beatmap song with its history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
