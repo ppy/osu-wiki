@@ -1,5 +1,4 @@
-Basic Chat Console
-==================
+# Basic Chat Console
 
 From most screens in *osu!* you can press `F8` or click the `Show Chat` button on the lower right to overlay the Chat Console on the lower third of the screen.
 
@@ -23,8 +22,7 @@ From most screens in *osu!* you can press `F8` or click the `Show Chat` button o
 -   Click the `Auto-Hide` box to automatically hide the chat during gameplay (excluding beatmap intro, outro and breaks).
 -   Click the `Hide Chat` box or press F8 again to hide the chat console.
 
-Extended Chat Console
-=====================
+## Extended Chat Console
 
 *[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
@@ -70,11 +68,9 @@ Press the number or click the bar to activate:
 7.  **Ignore User**: Any chat entry by the user will not appear in your chat console.
 8.  **Close**: Closes the panel.
 
-Commands list
-=============
+## Commands list
 
-/help
------
+### /help
 
 | Command        | Effect                                                                                         | Example           | BanchoBot response                                                               | 
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
@@ -98,8 +94,7 @@ Commands list
 | /invite [user] | Invites [user] to the multiplayer room along with the link. | /invite Nathanael | * Nathanael has been invited to the game | 
 
 
-/keys
------
+### /keys
 
 | Keyboard keys     | Effect                                                   |
 |-------------------|----------------------------------------------------------|
