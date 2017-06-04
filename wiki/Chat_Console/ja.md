@@ -1,34 +1,32 @@
-チャットコンソールの基本
-========================
+# チャットコンソールの基本
 
-F8もしくは下部の"Show Chat"ボタンを押すことでosu!のほとんどの画面からチャットコンソールを呼び出すことができます。
+`F8`もしくは下部の`Show Chat`ボタンを押すことで*osu!*のほとんどの画面からチャットコンソールを呼び出すことができます。
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
--   タブは現在利用可能なチャンネルをリストしています。シンプルにタブをクリックするだけでそのチャットチャンネルに移動でき、Newを選ぶことで新しいチャットチャンネルに参加できるようになります。
+-   タブは現在利用可能なチャンネルをリストしています。シンプルにタブをクリックするだけでそのチャットチャンネルに移動でき、`New`を選ぶことで新しいチャットチャンネルに参加できるようになります。
 -   ユーザー名の色が異なるというのは様々なことを意味します。
 
 | Colour   | Who?                                                                                                                                                           |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| White  | あなたです                                                                                                                                                     |
-| Yellow | 他の人                                                                                                                                                         |
-| Orange | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") サポーター                                                                                                      |
-| Red    | BAT もしくは GMT                                                                                                                                               |
-| Green  | あなたの名前や指定したキーワードが含まれた文章が出た時に、"highlight"が有効になります。そのメッセージのコピーが\#highlightのチャットチャンネルに表示されます。 |
-| Blue   | プライベートメッセージです                                                                                                                                     |
-| Cyan   | [peppy](https://osu.ppy.sh/u/2 "peppy")、osuの創設者です。                                                                                                                |
-| Pink   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                           |
+| **White**  | あなたです                                                                                                                                                     |
+| **Yellow** | 他の人                                                                                                                                                         |
+| **Orange** | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") サポーター                                                                                                      |
+| **Red**    | BAT もしくは GMT                                                                                                                                               |
+| **Green**  | あなたの名前や指定したキーワードが含まれた文章が出た時に、"highlight"が有効になります。そのメッセージのコピーが\#highlightのチャットチャンネルに表示されます。 |
+| **Blue**   | プライベートメッセージです                                                                                                                                     |
+| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy")、*osu!*の創設者です。                                                                                                                |
+| **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                           |
 
--   "Show Ticker"を押すことで、コンソールが開いていない時にチャットで一番新しいメッセージが下に表示されるようになります。
--   "Auto-Hide"を押すことでゲームプレイ中は自動的にコンソールが隠れるようになります(譜面のイントロアウトロとBreakを除きます)。
--   チャットコンソールを閉じるには"Hide Chat"かF8を再び押してください。
+-   `Show Ticker`を押すことで、コンソールが開いていない時にチャットで一番新しいメッセージが下に表示されるようになります。
+-   `Auto-Hide`を押すことでゲームプレイ中は自動的にコンソールが隠れるようになります(譜面のイントロアウトロとBreakを除きます)。
+-   チャットコンソールを閉じるには`Hide Chat`か`F8`を再び押してください。
 
-チャットコンソールの拡張機能
-============================
+## チャットコンソールの拡張機能
 
-*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy")[Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi/ "Multiplayer")*それをカバーしています。
+*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy")[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi/ "Multiplayer")*それをカバーしています。
 
-F9もしくは下部の"Show Chat"ボタンを押すことでosu!のほとんどの画面から拡張されたチャットコンソールを呼び出すことができます。加えてチャットコンソールの画面全体の余っている部分2/3に拡張されたコンソールが表示され、現在のログインしているユーザーの情報が表示されます。
+`F9`もしくは下部の`Show Chat`ボタンを押すことで*osu!*のほとんどの画面から拡張されたチャットコンソールを呼び出すことができます。加えてチャットコンソールの画面全体の余っている部分2/3に拡張されたコンソールが表示され、現在のログインしているユーザーの情報が表示されます。
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
@@ -68,11 +66,9 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 7.  **Ignore User**: あなたのチャットコンソールでそのユーザーのチャットが表示されないようになります
 8.  **Close**: パネルを閉じます
 
-コマンドリスト
-==============
+## コマンドリスト
 
-/help
------
+### /help
 
 | コマンド                                   | 効果                                                      | 使用例                             | BanchoBotからの応答                                                                                                                                                                                                                      |
 |----------------------------------------|---------------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -87,20 +83,19 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 | /unignore [user]                       | そのタブでignoreをしていたプレイヤーを解除します                             | /unignore Amigo                 | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console)                                                                                                                     |
 | /me [action]                           | 3人称での行動をします                                             | /me is at home                  | John is at home                                                                                                                                                                                                                     |
 | /msg [user] [msg]                      | [user]にプライベートメッセージを送信します                                | /msg Amigo I am sick at home.   | (At Amigo tab) John: I am sick at home.                                                                                                                                                                                             |
-| /np                                    | 今聞いている/プレイしている曲をチャットに表示させます                             | /np                             | (If playing) *John is playing Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K. (If doing nothing, based on jukebox) *John is listening to Peter Lambert - osu! tutorial. (If spectating or Autoplay) *John is watching Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K Autoplay                                                                                                                         |
+| /np                                    | 今聞いている/プレイしている曲をチャットに表示させます                             | /np                             | (If playing) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (If doing nothing, based on jukebox) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto) |
 | /reply or /r                           | 最後に送られてきたプライベートメッセージに対して返事をします                          | /r Do you know any good doctor? | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor?                                                                                                                       |
 | /savelog                               | 現在開いているチャットタブをテキストとして保存します                              | /savelog                        | (A folder called &quot;Chat&quot; will be created at the osu! directory which will contain all the future chat tab saves)                                                                                                           |
 | /watch [user]                          | [user]をスペクトします                                          | /watch Amigo                    | Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen)                                                                  |
 | /nopm                                  | 切り替えで全員、もしくはフレンドからのみにプライベートメッセージの送信を制限します。              | /nopm                           | (A  will appear at the center detailing you are allowing everyone/friends only for private messages)                                                                                                                                |
 
-/キー
------
+### /キー
 
 | >キーボード            | >効果                           |
 |-------------------|-------------------------------|
-| PageUp / PageDown | チャットウィンドウをスクロール。マウスホイールでも操作可能 |
-| Tab               | タイプしたニックネームを自動的に補完            |
-| F8                | チャットコンソールと切り替え                |
-| F9                | 拡張されたチャットコンソールと切り替え           |
-| Ctrl + C/V        | コピー&amp;ペースト                  |
-| Alt + 0-9         | レスポンスタブを押すことができます             |
+| `PageUp` / `PageDown` | チャットウィンドウをスクロール。マウスホイールでも操作可能 |
+| `Tab`               | タイプしたニックネームを自動的に補完            |
+| `F8`                | チャットコンソールと切り替え                |
+| `F9`                | 拡張されたチャットコンソールと切り替え           |
+| `Ctrl` + `C/V`        | コピー&amp;ペースト                  |
+| `Alt` + `0-9`         | レスポンスタブを押すことができます             |
