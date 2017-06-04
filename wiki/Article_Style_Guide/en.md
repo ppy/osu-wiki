@@ -36,7 +36,7 @@ Generally, all folder names should only use these characters:
 - a - z (lowercase letters)
 - 0 - 9 (numbers 0 - 9)
 - `_` (underscore)
-- `!` (exclamation point)
+- `!` (exclamation mark)
 
 ### Index Pages
 
