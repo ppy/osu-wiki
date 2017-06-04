@@ -1,12 +1,12 @@
 # Article Style Guide
 
-This Article Style Guide applies to all articles in English and other languages that do not have one yet!
+This Article Style Guide applies to all articles in English and other languages which do not have one yet!
 
 The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All English articles should use plain English.
 Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
-In other words, you should ask yourself, "If the reader is reading this, would they have to look up any of the words?"
+In other words, you should ask yourself, "If someone was reading this, would they have to look up any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
 Keep in mind that reviewers would ask for changes in your pull request for blunders or suggestions.
@@ -17,7 +17,7 @@ A good osu!wiki writer/editor should read these reviews to help improve the over
 GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
 Usage of HTML is **heavily** discouraged!
 
-GFM has a small amount of markup that **anyone** can learn it in about 3 minutes!
+GFM has a small amount of markup that **anyone** can learn in about 3 minutes!
 However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
 
 ### Syntax
@@ -71,8 +71,8 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `nl.md`: Dutch
 - `no.md`: Norwegian
 - `pl.md`: Polish
-- `pt.md`: Português
-- `pt-br.md`: Português (Brasil)
+- `pt.md`: Portuguese
+- `pt-br.md`: Portuguese (Brasil)
 - `ru.md`: Russian
 - `th.md`: Thai
 - `tl.md`: Tagalog
