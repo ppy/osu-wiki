@@ -1,11 +1,10 @@
-Konsol Obrolan Standar
-======================
+# Konsol Obrolan Standar
 
-Di dalam osu! kamu dapat menekan tombol "Show Chat" di pojok kanan bawah layar atau dengan menekan tombol F8 untuk membuka konsol obrolan.
+Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` untuk membuka konsol obrolan.
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
--   Tab ini hanya ada beberapa kanal. Cukup klik Tab yang lainnya untuk pindah ke kanal tersebut atau dengan mengklik tanda tambah (+) untuk membuka tab kanal yang baru.
+-   Tab ini hanya ada beberapa kanal. Cukup klik Tab yang lainnya untuk pindah ke kanal tersebut atau dengan mengklik tanda tambah `+` untuk membuka tab kanal yang baru.
 -   Warna dari masing-masing pengguna memiliki arti yang berbeda.
 
 | Warna          |                    |
@@ -16,23 +15,22 @@ Di dalam osu! kamu dapat menekan tombol "Show Chat" di pojok kanan bawah layar a
 | Merah        | Anggota [Tim Moderasi Global](/wiki/People/Global_Moderation_Team/ "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/People/Quality_Assurance_Team/ "Quality_Assurance_Team")                                   
 | Hijau        | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di kanal yang terdedikasi untuk itu yaitu, \#highlight. |
 | Biru         | Pesan Pribadi                                                                                  |
-| Biru Terang  | [peppy](https://osu.ppy.sh/u/2 "peppy"), pembuat osu!.                                                                               |
+| Biru Terang  | [peppy](https://osu.ppy.sh/u/2 "peppy"), pembuat *osu!*                                                                               |
 | Merah Muda   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                            |
 
--   Klik **Show Ticker** untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol obrolan tidak terlihat/terbuka.
--   Klik **Auto-Hide** untuk menyembunykan konsol obrolan secara otomatis saat bermain (kecuali intro, outro dan jeda di beatmap).
--   Klik **Hide Chat** atau tekan F8 lagi untuk menyembunyikan konsol obrolan.
+-   Klik `Show Ticker` untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol obrolan tidak terlihat/terbuka.
+-   Klik `Auto-Hide` untuk menyembunykan konsol obrolan secara otomatis saat bermain (kecuali intro, outro dan jeda di beatmap).
+-   Klik `Hide Chat` atau tekan F8 lagi untuk menyembunyikan konsol obrolan.
 
-Konsol Obrolan yang Diperluas
-=============================
+## Konsol Obrolan yang Diperluas
 
 *[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi/ "Bermain Bersama").*
 
-Kamu dapat menekan F9 atau klik tombol **Online Users** di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
+Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring *osu!*
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
+Setiap pengguna yang masuk ke dalam *osu!* mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
 
 -   **Friends** hanya menampilkan daftar teman kamu.
 -   **Lock Panels** untuk mengunci panel.
@@ -55,7 +53,6 @@ Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilk
 | ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                 | Hitam - Sedang afk (away from keyboard).                                                                                                |
 | ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                     | Biru Tua - Pemain sedang tidak login ke dalam game, tapi masuk ke dalam program khusus [IRC](/wiki/Internet_Relay_Chat/ "IRC") dan status tidak terlihat. |
 
-
 Dengan mengklik panel pengguna orang lain akan muncul tampilan seperti ini.
 
 ![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
@@ -71,11 +68,9 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 7.  **Ignore User**: Pengguna yang diblokir tidak akan terlihat di konsol obrolanmu.
 8.  **Close**: Menutup panel.
 
-Daftar Perintah
-===============
+## Daftar Perintah
 
-/help
------
+### /help
 
 | PERINTAH                    | Efek                                                                                                                                                                                                                             | Contoh                           | Respon BanchoBot                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,21 +86,20 @@ Daftar Perintah
 | /unignore [user]            | Berhenti mengabaikan pengguna ini pada sesi sekarang.                                                                                                                                                                            | /unignore Amigo                  | You may now hear Amigo. (Konsol obrolanmu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol obrolanmu)                                                                                                                                                                                                                                                                                                                                        |
 | /me [aksi]                  | Melakukan sebuah aksi orang ketiga.                                                                                                                                                                                              | /me sedang berguling             | Nekonyan sedang berguling                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | /msg [pengguna] [pesan]     | Mengirimkan sebuah pesan pribadi kepada [pengguna].                                                                                                                                                                              | /msg Amigo Saya sedang sakit.    | (Di tab Amigo) John: Saya sedang sakit.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| /np                         | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan                                                                                                                                                  | /np                              | (If playing) *John is playing Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K. (If doing nothing, based on jukebox) *John is listening to Peter Lambert - osu! tutorial. (If spectating or Autoplay) *John is watching Peter Lambert - osu! tutorial [Gameplay basics] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K Autoplay |
+| /np                         | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan                                                                                                                                                  | /np                              | (If playing) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (If doing nothing, based on jukebox) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto) |
 | /reply or /r                | Membalas ke pesan pribadi yang diterima terakhir kali.                                                                                                                                                                           | /r Kamu kenal dokter yang bagus? | (Di tab Amigo) [Komentar sebelumnya] John: Saya sedang sakit. Amigo: Ah masa? John: Kamu kenal dokter yang bagus?                                                                                                                                                                                                                                                                                                                                                       |
 | /savelog                    | Menyimpan tab obrolan yang sedang dibuka menjadi sebuah berkas teks.                                                                                                                                                             | /savelog                         | (Sebuah folder bernama "Chat" akan dibuat di direkto)                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | /watch [pengguna]           | Memulai menonton [pengguna].                                                                                                                                                                                                     | /watch Amigo                     | Started spectating Amigo. (Jika Amigo bermain sebuah betamp yang kamu miliki, kamu akan menonton permainan dia [setelah beberapa saat pemuatan] dengan namamu di sebelah kiri layar Amigo)                                                                                                                                                                                                                                                                              |
 | /nopm                       | Memperbolehkan atau tidaknya pesan pribadi dari semua orang                                                                                                                                                                      | /nopm                            | (Sebuah akan muncul di tengah yang menjelaskan bahwa kamu memperbolehkan/tidaknya pesan pribadi dari semua orang)                                                                                                                                                                                                                                                                                                                                                       |
 | /invite [pengguna]          | [pengguna] has been invited to the game                                                                                                                                                                                          | /invite Nathanael                | * Nathanael has been invited to the game                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-/keys
------
+### /keys
 
 | Tombol Keyboard   | Efek                                                                                           |
 |-------------------|------------------------------------------------------------------------------------------------|
-| PageUp / PageDown | Menggulir jendela obrolan. (lebih baik gunakan roda mouse untuk menggulirkan jendela obrolan). |
-| Tab               | Melengkapi secara otomatis pengetikan nama pengguna.                                           |
-| F8                | Membuka/menutup konsol obrolan.                                                                |
-| F9                | Membuka/menutup konsol obrolan yang diperluas.                                                 |
-| Ctrl + C/V        | Salin/Tempel.                                                                                  |
-| Alt + 0-9         | Berpindah ke tab lain.                                                                         |
+| `PageUp` / `PageDown` | Menggulir jendela obrolan. (lebih baik gunakan roda mouse untuk menggulirkan jendela obrolan). |
+| `Tab`               | Melengkapi secara otomatis pengetikan nama pengguna.                                           |
+| `F8`                | Membuka/menutup konsol obrolan.                                                                |
+| `F9`                | Membuka/menutup konsol obrolan yang diperluas.                                                 |
+| `Ctrl` + `C/V`        | Salin/Tempel.                                                                                  |
+| `Alt` + `0-9`         | Berpindah ke tab lain.                                                                         |
