@@ -1,6 +1,6 @@
 # Shortcut Key Reference
 
-There are many shortcuts in osu! that can be utilized while ingame or while idle at any screen.
+There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
 Note, some of these keys can be changed in the [Options](/wiki/Options/)!
@@ -17,11 +17,11 @@ These work anywhere:
 - `F10`: Toggle all mouse buttons (except for mouse wheel)
 - `Ctrl` + `F11`: Toggle Frame Times
 - `F12`: Take Screenshot (Hold `Shift` to upload instantly to the server for sharing)
-- `Insert`: Minimizes the osu!client into the notification area.
+- `Insert`: Minimize the osu!client into the notification area.
 - `Arrow Up`: Increase volume.
 - `Arrow Down`: Decrease volume.
-- `Alt` + `F4`: If playing/editing a beatmap, exit to song select; otherwise, this will closes the osu!client.
-- `Ctrl` + `O`: Open Options Menu
+- `Alt` + `F4`: If playing/editing a beatmap, exit to song select; otherwise, this will close the osu!client.
+- `Ctrl` + `O`: Open Options Menu (does not work while playing in-game)
 - `Ctrl` + `Alt` + `Shift` + `S`: Reload current skin (may say that it is in queue)
 
 ## Main Menu
@@ -29,8 +29,8 @@ These work anywhere:
 - `Alt` + `Enter`: Toggle Full-screen Mode
 - `Esc`: Go back one menu
 - `P`: Play mode
-- `P` then `P`: Solo
-- `P` then `M`: [Multi](/wiki/Multi)
+- `P`, then `P`: Solo
+- `P`, then `M`: [Multi](/wiki/Multi)
 - `E`: Edit Mode
 - `B`: Display jukebox controls (Winamp layout)
 - `Z` or `F1`: Previous song (jukebox)
@@ -52,7 +52,7 @@ These work anywhere:
 - `F3`: Beatmap Options
 - `F5`: Refresh listing (Repair mode)
 - `Shift` + `Delete`: Delete current map
-- `Ctrl` + `1`: Switch to [osu!stanard](/wiki/osu!stanard)
+- `Ctrl` + `1`: Switch to [osu!standard](/wiki/osu!standard)
 - `Ctrl` + `2`: Switch to [osu!taiko](/wiki/osu!taiko)
 - `Ctrl` + `3`: Switch to [osu!catch](/wiki/osu!catch)
 - `Ctrl` + `4`: Switch to [osu!mania](/wiki/osu!mania)
@@ -84,12 +84,12 @@ These work anywhere:
 
 - `A`: [Hard Rock](/wiki/Hard_Rock)
 - `S`: [Sudden Death](/wiki/Sudden_Death)
-- `S` then `S`: [Perfect](/wiki/Perfect)
+- `S`, then `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
-- `D` then `D`: [Nightcore](/wiki/Nightcore)
+- `D`, then `D`: [Nightcore](/wiki/Nightcore)
 - `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, and osu!catch)
 - `F`: [Fade In](/wiki/Fade_In) (osu!mania only)
-- `F` then `F`: [Hidden](/wiki/Hidden) (osu!mania only)
+- `F`, then `F`: [Hidden](/wiki/Hidden) (osu!mania only)
 - `G`: [Flashlight](/wiki/Flashlight)
 
 ---
@@ -98,6 +98,7 @@ These work anywhere:
 - `C`: [Auto Pilot](/wiki/Auto_Pilot)
 - `V`: [Spun Out](/wiki/Spun_Out)
 - `B`: [Auto](/wiki/Auto)
+- `B`, then `B`: [Cinema](/wiki/Cinema)
 
 ---
 
@@ -112,11 +113,11 @@ These work anywhere:
 ---
 
 - `1`: Deselect selected mods
-- `2`: Close this dialog
+- `2`: Closes the Mod Select dialog
 
 ## Play Mode
 
-- `+` or `-`: Adjust local offset (hold Alt to change the precision)
+- `+` or `-`: Adjust local offset (hold `Alt` to change the precision)
 - `Esc`: Pause (Quit song if Auto or Cinema mod is used)
 - `Space`: Skip opening cut-scene.
 - `Tab`: Toggle scoreboard
