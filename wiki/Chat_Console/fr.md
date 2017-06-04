@@ -1,34 +1,34 @@
 La console de chat
 ==================
 
-Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en appuyant sur F8 ou sur "Show Chat" en bas à droite de l'écran.
+Vous pouvez afficher la console de chat sur la plupart des écrans d'*osu!* en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
 
 ![Chat Console](Chatconsole1.png "Chat Console")
 
--   Les onglets sont les canaux que vous avez ouverts. Cliquez tout simplement sur un canal pour le rejoindre. Pour voir la liste des canaux disponibles cliquez sur le "+".
+-   Les onglets sont les canaux que vous avez ouverts. Cliquez tout simplement sur un canal pour le rejoindre. Pour voir la liste des canaux disponibles cliquez sur le `+`.
 -   La couleurs des pseudos ont plusieurs significations.
 
 | Couleur | Qui?                                                                                                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blanc:  | Vous                                                                                                                                                                              |
-| Jaune:  | Les autres utilisateurs                                                                                                                                                           |
-| Jaune:  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") les supporters                                                                                                                     |
-| Rouge:  | BAT or GMT                                                                                                                                                                        |
-| Vert:   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, \#highlight. |
-| Bleu:   | Un message privé                                                                                                                                                                  |
-| Bleu:   | [peppy](https://osu.ppy.sh/u/2 "peppy"), le créateur d'osu!                                                                                                                                  |
-| Rose:   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                              |
+| **Blanc**  | Vous                                                                                                                                                                              |
+| **Jaune**  | Les autres utilisateurs                                                                                                                                                           |
+| **Jaune**  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") les supporters                                                                                                                     |
+| **Rouge**  | BAT or GMT                                                                                                                                                                        |
+| **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, \#highlight. |
+| **Bleu**   | Un message privé                                                                                                                                                                  |
+| **Bleu**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), le créateur d'*osu!*                                                                                                                                  |
+| **Rose**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                              |
 
--   Cliquez sur "Show Ticker" pour afficher le dernier message lorsque la console de chat n'est pas ouverte.
--   Cliquez sur "Auto-Hide" pour cacher automatiquement la console de chat pendant les phases de jeu (Sauf pendant l'intro, l'outro et les pauses).
--   Cliquez sur "Hide Chat" ou de nouveau sur F8 pour cacher le chat.
+-   Cliquez sur `Show Ticker` pour afficher le dernier message lorsque la console de chat n'est pas ouverte.
+-   Cliquez sur `Auto-Hide` pour cacher automatiquement la console de chat pendant les phases de jeu (Sauf pendant l'intro, l'outro et les pauses).
+-   Cliquez sur `Hide Chat` ou de nouveau sur F8 pour cacher le chat.
 
 La console de chat étendue
 ==========================
 
-*L'[osu!academy](FR:osu!academy "wikilink") à déjà abordé ce sujet ici : [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
+*L'[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") à déjà abordé ce sujet ici : [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
 
-Sur la plupart des écrans du jeu vous pouvez cliquer sur F9 ou sur "Online Users" pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
+Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
@@ -85,10 +85,10 @@ La liste des commandes
 | /unignore [user] | Arrêter d'ignorer cet utilisateur pour cette session. | /unignore Amigo | Vous pouvez maintenant voir les messages de Carlito. | 
 | /me [action] | Effectuer une action à la troisième personne. | /me is singing | *Carlito is singing | 
 | /msg [user] [msg] | Envoyer un message privé à <user>. | /msg Carlito Wanna be amigo | (Dans l'onglet Carlito) Charles445: Wanna be amigo? | 
-| /np | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | /np | (Si vous jouez) *Demmon is playing Carlito - Who's That Boy [Hard] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K. (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) *Demmon is listening to Carlito - Who's That Boy. (If spectating or Autoplay) *Demmon is watching Carlito - Who's That Boy [Hard] Game Modes Relax/Autopilot +Difficulty increasing mod -Difficulty decreasing mod/SpunOut #K.|
+| /np | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | /np |(Si vous jouez) *John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) *John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) *John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#Alternative_Game_Modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#Special_Mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#Difficulty_Increasing_Mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#Difficulty_Reduction_Mods)/[SpunOut](/wiki/Game_Modifiers#Spun_Out) [xK](Game_Modifiers#xK) [Autoplay](/wiki/Game_Modifiers#Auto)|
 | /reply or /r | Répondre au dernier message privé reçu. | /r Carlito! Carlito! | (Dans l'onglet Carlito) [Message précédent] Charles445: Wanna be amigo? Carlito: Carlito! Carlito! | 
 | /savelog | Enregistrer une copie de la conversation actuelle dans un fichier texte. | /savelog | (Un dossier nommé &quot;Chaté sera crée et contiendra les sauvegardes de vos conversations)) | 
-| /watch [user] | Commencer à regarder <user>. | /watch Amigo | Started spectating Carlito. | 
+| /watch [user] | Commencer à regarder [user]. | /watch Amigo | Started spectating Carlito. | 
 | /nopm | Activer/désactiver l'options « Autoriser uniquement les messages privés des amis ». | /nopm | (Le message apparaîtra sur votre écran) | 
 | /invite [user] | Invites [user] to the multiplayer room along with the link. | /invite Nathanael | * Nathanael has been invited to the game | 
 
@@ -98,9 +98,9 @@ La liste des commandes
 
 | Keyboard keys     | Effect                                                                             |
 |-------------------|------------------------------------------------------------------------------------|
-| PageUp / PageDown | Faire défiler la conversation. Vous pouvez aussi utiliser la molette de la souris. |
-| Tab               | Compléter automatiquement le pseudo en cours de saisie.                            |
-| F8                | Basculer le chat.                                                                  |
-| F9                | Basculer la liste des utilisateurs connectés.                                      |
-| Ctrl + C/V        | Copier/coller                                                                      |
-| Alt + 0-9         | Basculer vers l'onglet respectif.                                                  |
+| `PageUp` / `PageDown` | Faire défiler la conversation. Vous pouvez aussi utiliser la molette de la souris. |
+| `Tab`               | Compléter automatiquement le pseudo en cours de saisie.                            |
+| `F8`                | Basculer le chat.                                                                  |
+| `F9`                | Basculer la liste des utilisateurs connectés.                                      |
+| `Ctrl` + `C/V`        | Copier/coller                                                                      |
+| `Alt` + `0-9`         | Basculer vers l'onglet respectif.                                                  |
