@@ -5,7 +5,7 @@
 The osu!forums is one of the main features of the osu!web.
 Here, you can make new threads or posts within discussions inside of the osu!community.
 
-## Directory
+## Subforums
 
 - [osu!](https://osu.ppy.sh/community/forums/1): _osu! specific_
   - [Development](https://osu.ppy.sh/community/forums/2): _Let's move osu! forwards. Discuss projects, considerations, news and publicity, meetings and the likes._
