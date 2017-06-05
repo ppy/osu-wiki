@@ -288,7 +288,7 @@ The difficulty stars can be seen on the song selection screen or at its listing 
 
 ### Downbeat
 
-The downbeat is a musical term for the first beat of a measure.
+Downbeat is a musical term for the first beat of a measure.
 
 This term was coined from orchestral conducting because when the baton moves in a downward motion, it depicts the first beat of the measure.
 
@@ -334,7 +334,7 @@ The osu!standard game mode was is mostly based off of those games.
 
 EBA has two meanings:
 
-- Elite Beat Agents, one of the DS games which _osu!_ is based on.
+- Elite Beat Agents, one of the DS games that _osu!_ is based on.
   See [Elite Beat Agents - Wikipedia](https://en.wikipedia.org/wiki/Elite_Beat_Agents) for more details.
 - The collective term for the playable characters in that game (referring to meaning above), e.g. "The EBA" or "The Agents"
 
@@ -645,7 +645,7 @@ In contrast, textures are scaled such that one texture pixel ([texel](https://en
 Ouendan has three meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team on using drums, horns, banners and yells of encouragement.
-- The pair of Japanese DS games that _osu!_ was based on.
+- The pair of Japanese DS games that _osu!_ is based on.
   This term may sometimes be used to refer specifically to the first of these games.
 - A collective term for the playable characters in the aforementioned games, e.g. "The Ouendan".
 
@@ -1007,7 +1007,7 @@ Version has four meanings:
 
 ### WIP
 
-WIP is an acronym for _work in progress_.
+WIP is an acronym for _Work In Progress_.
 
 There are various reasons to mark a beatmap as WIP:
 
