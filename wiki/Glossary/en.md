@@ -701,21 +701,20 @@ Rank has three meanings:
 1. another word for a letter grade
 2. a player's standing in the online leaderboard (a.k.a. player ranking)
 3. the verb "to rank", which is when someone second another moderator's nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player's ranking.
-   Getting their beatmaps ranked is a goal of every beatmapper.
+   Getting their beatmaps ranked is usually the goal of beatmappers.
 
 ### Ranking
 
 Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria.
 This can also refer to one's position in such a list.
 
-_osu!_ currently has three rankings:
+_osu!_ currently has five rankings:
 
-- Player rankings: the ranking most commonly referred to, this list sorts players depending on their ranked score.
-  Ranked score is the sum of the highest scores that a player has achieved in every ranked beatmap they had played.
-  Scores achieved from ranked beatmaps are taken into account.
-  Only one score from each beatmapset (the highest) is taken into account, regardless of how many difficulty versions it has.
-- Beatmapper rankings: this list sorts everyone who has created at least one ranked beatmap, depending on the weighted average of all the ratings given to their beatmaps by other players, multiplied by a bonus modifier that increases the more ranked beatmaps they have.
-- Moderator rankings: this list sorts moderators depending on how many posts they have made in the beatmap sub-forums, e.g. how much beatmap modding they are doing.
+- [PP](/wiki/pp) rankings: the ranking most commonly referred to, based on the player's pp.
+- Chart rankings: based on ranked score for beatmaps in a chart.
+- Score rankings: based on the player's ranked score.
+- Country rankings: based on the collective scores of player's per country.
+- [Kudosu](/wiki/kudosu) rankings: based on the user's kudosu! count.
 
 ### Recalc
 
