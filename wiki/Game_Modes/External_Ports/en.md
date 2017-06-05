@@ -1,11 +1,11 @@
 <!-- wiki -->
 [Game Modes wikilink]: ../ "Game Modes"
-[opsu! wikilink]: ./External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
-[osu!droid wikilink]: ./External_Ports/osu!droid "osu!droid by Pesets"
-[osu!stream wikilink]: ./External_Ports/osu!stream "osu!stream by osu! team"
-[osu!wp wikilink]: ./External_Ports/osu!wp "osu!wp by cxy783670568"
-[T-Aiko! v2 wikilink]: ./External_Ports/T-Aiko! "T-Aiko! v2 by low.moe team"
-[T-Aiko! v1 wikilink]: ./External_Ports/T-Aiko!/v1 "T-Aiko! v1 by Guy-kun"
+[opsu! wikilink]: ./opsu! "opsu! by itdelatrisu with fluddokt"
+[osu!droid wikilink]: ./osu!droid "osu!droid by Pesets"
+[osu!stream wikilink]: ./osu!stream "osu!stream by osu! team"
+[osu!wp wikilink]: ./osu!wp "osu!wp by cxy783670568"
+[T-Aiko! v2 wikilink]: ./T-Aiko! "T-Aiko! v2 by low.moe team"
+[T-Aiko! v1 wikilink]: ./T-Aiko!/v1 "T-Aiko! v1 by Guy-kun"
 
 <!-- external -->
 [osu! iPhone link]: https://osu.ppy.sh/forum/47 "osu! iPhone forum (dead)"

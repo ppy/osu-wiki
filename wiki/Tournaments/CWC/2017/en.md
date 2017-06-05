@@ -47,65 +47,20 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 3. June 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **9.00 UTC** | 21.00 UTC +12 | 12.00 UTC +3 |
-| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Au.gif) | Australia | **9.00 UTC** | 17.00 UTC +8 | 19.00 UTC +10 |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **9.00 UTC** | 17.00 UTC +8 | 18.00 UTC +9 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **10.00 UTC** | 18.00 UTC +8 | 17.00 UTC +7 |
-| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 20.00 UTC +10 | 19.00 UTC +9 |
-| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/It.gif) | Italy | **11.00 UTC** | 19.00 UTC +8 | 13.00 UTC +2 |
-| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Fi.gif) | Finland | **11.00 UTC** | 19.00 UTC +8 | 14.00 UTC +3 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **11.00 UTC** | 12.00 UTC +1 | 19.00 UTC +8 |
-| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **12.00 UTC** | 14.00 UTC +2 | 20.00 UTC +8 |
-| Russian Federation | ![](/wiki/shared/flag/Ru.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **12.00 UTC** | 15.00 UTC +3 | 14.00 UTC +2 |
-| Finland | ![](/wiki/shared/flag/Fi.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **12.00 UTC** | 15.00 UTC +3 | 21.00 UTC +9 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **13.00 UTC** | 10.00 UTC -3 | 21.00 UTC +8 |
-| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **13.00 UTC** | 15.00 UTC +2 | 15.00 UTC +2 |
-| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **13.00 UTC** | 15.00 UTC +2 | 16.00 UTC +3 |
-| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Br.gif) | Brazil | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
-| Norway | ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
-| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
-| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
-| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/No.gif) | Norway | **19.00 UTC** | 15.00 UTC -4 | 21.00 UTC +2 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
-| Netherlands | ![](/wiki/shared/flag/Nl.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **20.00 UTC** | 22.00 UTC +2 | 16.00 UTC -4 |
-| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Ca.gif) | Canada | **20.00 UTC** | 22.00 UTC +2 | 13.00 UTC -7 |
-| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **20.00 UTC** | 17.00 UTC -3 | 22.00 UTC +2 |
-| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **21.00 UTC** | 17.00 UTC -4 | 17.00 UTC -4 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **21.00 UTC** | 14.00 UTC -7 | 22.00 UTC +1 |
-
-### Sunday, 4. June 2017
+### Sunday, 11. June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **3.00 UTC** | 22.00 (Sat.) UTC -5 | 12.00 UTC +9 |
-| Canada | ![](/wiki/shared/flag/Ca.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **3.00 UTC** | 20.00 (Sat.) UTC -7 | 11.00 UTC +8 |
-| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **4.00 UTC** | 12.00 UTC +8 | 00.00 UTC -4 |
-| Australia | ![](/wiki/shared/flag/Au.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **4.00 UTC** | 14.00 UTC +10 | 23.00 (Sat.) UTC -5 |
-| New Zealand | ![](/wiki/shared/flag/Nz.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **10.00 UTC** | 18.00 UTC +8 | 18.00 UTC +8 |
-| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
-| Malaysia | ![](/wiki/shared/flag/My.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **11.00 UTC** | 19.00 UTC +8 | 13.00 UTC +2 |
-| Philippines | ![](/wiki/shared/flag/Ph.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **11.00 UTC** | 19.00 UTC +8 | 20.00 UTC +9 |
-| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **11.00 UTC** | 13.00 UTC +2 | 12.00 UTC +1 |
-| Denmark | ![](/wiki/shared/flag/Dk.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **12.00 UTC** | 14.00 UTC +2 | 19.00 UTC +7 |
-| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Ru.gif) | Russian Federation | **12.00 UTC** | 14.00 UTC +2 | 15.00 UTC +3 |
-| Finland | ![](/wiki/shared/flag/Fi.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 15.00 UTC +3 | 20.00 UTC +8 |
-| Austria | ![](/wiki/shared/flag/At.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
-| Hungary | ![](/wiki/shared/flag/Hu.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **13.00 UTC** | 15.00 UTC +2 | 15.00 UTC +2 |
-| Argentina | ![](/wiki/shared/flag/Ar.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **13.00 UTC** | 10.00 UTC -3 | 16.00 UTC +3 |
-| Italy | ![](/wiki/shared/flag/It.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **14.00 UTC** | 16.00 UTC +2 | 16.00 UTC +2 |
-| Romania | ![](/wiki/shared/flag/Ro.gif) | ![](/wiki/shared/flag/Fr.gif) | France | **14.00 UTC** | 17.00 UTC +3 | 16.00 UTC +2 |
-| Norway | ![](/wiki/shared/flag/No.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **14.00 UTC** | 16.00 UTC +2 | 16.00 UTC +2 |
-| Brazil | ![](/wiki/shared/flag/Br.gif) | ![](/wiki/shared/flag/Id.gif) | Indonesia | **15.00 UTC** | 12.00 UTC -3 | 22.00 UTC +7 |
-| Singapore | ![](/wiki/shared/flag/Sg.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
-| Venezuela | ![](/wiki/shared/flag/Ve.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **15.00 UTC** | 11.00 UTC -4 | 17.00 UTC +2 |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
+| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **12.00 UTC** | 19.00 UTC +7 | 15.00 UTC +3 |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **13.00 UTC** | 21.00 UTC +8 | 10.00 UTC -3 |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **14.00 UTC** | 23.00 UTC +9 | 9.00 UTC -5 |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **17.00 UTC** | 13.00 UTC -4 | 19.00 UTC +2 |
+| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 20.00 UTC +2 | 19.00 UTC +1 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
 
 ------------------------------------------------------------------------
 
@@ -150,6 +105,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 ### Group Stage
@@ -187,6 +146,101 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | --- | :--- |
 | [MISATO - Necro Fantasia (Chromoxx)](http://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] |
 
+### Round of 16
+
+**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/l7kgoz9hx967mnz/CWC_2017_Round_of_16.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Reol - No title (Spectator)](http://osu.ppy.sh/b/536479&m=2) | [Collab Rain] |
+| [Kurubukko vs yukitani - Minamichita EVOLVED (alienflybot)](http://osu.ppy.sh/b/1100300&m=2) | [REINCARNATION] |
+| [Muzzy - Crescendo (feat. MYLK) (WildOne94)](http://osu.ppy.sh/b/1116331&m=2) | [Soltar] |
+| [CLIFF EDGE feat. Nakamura Maiko - The Distance (Ascendance)](http://osu.ppy.sh/b/1053163&m=2) | [Smile] |
+| [Eoin O' Broin - Oblivion (DoKoLP)](http://osu.ppy.sh/b/119853&m=2) | [Insane] |
+| [UPLIFT SPICE - Omega Rhythm (Jemmmmy)](http://osu.ppy.sh/b/366140&m=2) | [Extra] |
+
+
+| Hidden | |
+| --- | :--- |
+| [M2U - A Bella ! (ZiRoX)](http://osu.ppy.sh/b/1147348&m=2) | [Deif's Overdose] |
+| [Hecq - Dstrukt (JBHyperion)](http://osu.ppy.sh/b/1087385&m=2) | [Overdose] |
+| [Red Velvet - Russian Roulette (Natsu)](http://osu.ppy.sh/b/1085554&m=2) | [Heart b-b-beat] |
+
+| HardRock | |
+| --- | :--- |
+| [Helblinde - Above the Clouds (P i k u)](http://osu.ppy.sh/b/1068302&m=2) | [In the Sky] |
+| [senya - Iro wa Nioedo Chirinuru o(OPver.) (- Magic Girl -)](http://osu.ppy.sh/b/909953&m=2) | [Chemistry of Emotions] |
+| [Loos - Koi Yomi Zakura (Full Ver.) (S i R i R u)](http://osu.ppy.sh/b/46587&m=2) | [Hanahubuki] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Memme - Cherry Blossom (Spectator)](http://osu.ppy.sh/b/1047736&m=2) | [Platter] |
+| [Nagito Komaeda (CV.Megumi Ogata) - Zettai Kibou Birthday (Myle)](http://osu.ppy.sh/b/1062454&m=2) | [Roseus' Platter] |
+| [Cyua - Blumenkranz (Shinxyn)](http://osu.ppy.sh/b/380475&m=2) | [Insane] |
+
+| Tiebreaker | |
+| --- | :--- |
+| [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan)](http://osu.ppy.sh/b/1035785&m=2) | [Stellar] |
+
+------------------------------------------------------------------------
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 03. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://osu.ppy.sh/community/matches/33594444) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Au.gif) Australia | [#1](https://osu.ppy.sh/community/matches/33594453) |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 1 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33594458) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33595359) |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Se.gif) Sweden | [#1](https://osu.ppy.sh/community/matches/33595349) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33595356) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 4 | 2 | ![](/wiki/shared/flag/It.gif) Italy | [#1](https://osu.ppy.sh/community/matches/33596235) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 1 | 4 | ![](/wiki/shared/flag/Fi.gif) Finland | [#1](https://osu.ppy.sh/community/matches/33596240) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 1 | 4 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33596244) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 1 | 4 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://osu.ppy.sh/community/matches/33597388) |
+| Russian Federation ![](/wiki/shared/flag/Ru.gif) | 3 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33597392) |
+| Finland ![](/wiki/shared/flag/Fi.gif) | 0 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33597393) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 0 | 4 | ![](/wiki/shared/flag/Tw.gif) Taiwan | -WIN BY DEFAULT- |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 1 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33598432) |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 0 | 4 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33598437) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 2 | 4 | ![](/wiki/shared/flag/Br.gif) Brazil | [#1](https://osu.ppy.sh/community/matches/33606293) |
+| Norway ![](/wiki/shared/flag/No.gif) | 2 | 4 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33606294) |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 0 | 4 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://osu.ppy.sh/community/matches/33606305) |
+| Italy ![](/wiki/shared/flag/It.gif) | 1 | 4 | ![](/wiki/shared/flag/Gb.gif) United States | [#1](https://osu.ppy.sh/community/matches/33607880) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/No.gif) Norway | [#1](https://osu.ppy.sh/community/matches/33607886) |
+| Germany ![](/wiki/shared/flag/De.gif) | 4 | 3 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33607891) |
+| Netherlands ![](/wiki/shared/flag/Nl.gif) | 0 | 4 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33609509) |
+| Austria ![](/wiki/shared/flag/At.gif) | 0 | 4 | ![](/wiki/shared/flag/Ca.gif) Canada | [#1](https://osu.ppy.sh/community/matches/33609513) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 4 | 0 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://osu.ppy.sh/community/matches/33609523) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33610689) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 2 | 4 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33610690) |
+
+| Sunday, 04. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Mexico ![](/wiki/shared/flag/Mx.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33616648) |
+| Canada ![](/wiki/shared/flag/Ca.gif) | 2 | 4 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33616607) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 1 | 4 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33617566) |
+| Australia ![](/wiki/shared/flag/Au.gif) | 0 | 4 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33617553) |
+| New Zealand ![](/wiki/shared/flag/Nz.gif) | 0 | 4 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33622086) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 0 | 4 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://osu.ppy.sh/community/matches/33622027) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33622032) |
+| Malaysia ![](/wiki/shared/flag/My.gif) | 3 | 4 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33622978) |
+| Philippines ![](/wiki/shared/flag/Ph.gif) | 0 | 4 | ![](/wiki/shared/flag/Jp.gif) Japan | [#1](https://osu.ppy.sh/community/matches/33622971) |
+| Austria ![](/wiki/shared/flag/At.gif) | 0 | 4 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33622973) |
+| Denmark ![](/wiki/shared/flag/Dk.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33624107) |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 4 | 2 | ![](/wiki/shared/flag/Ru.gif) Russian Federation | [#1](https://osu.ppy.sh/community/matches/33624268) |
+| Finland ![](/wiki/shared/flag/Fi.gif) | 1 | 4 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://osu.ppy.sh/community/matches/33624109) |
+| Austria ![](/wiki/shared/flag/At.gif) | 4 | 0 | ![](/wiki/shared/flag/Cn.gif) China | -WIN BY DEFAULT- |
+| Hungary ![](/wiki/shared/flag/Hu.gif) | 1 | 4 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://osu.ppy.sh/community/matches/33625333) |
+| Argentina ![](/wiki/shared/flag/Ar.gif) | 1 | 4 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33625335) |
+| Italy ![](/wiki/shared/flag/It.gif) | 2 | 4 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33626860) |
+| Romania ![](/wiki/shared/flag/Ro.gif) | 1 | 4 | ![](/wiki/shared/flag/Fr.gif) France | [#1](https://osu.ppy.sh/community/matches/33626858) |
+| Norway ![](/wiki/shared/flag/No.gif) | 4 | 3 | ![](/wiki/shared/flag/De.gif) Germany | [#1](https://osu.ppy.sh/community/matches/33626849) |
+| Brazil ![](/wiki/shared/flag/Br.gif) | 0 | 4 | ![](/wiki/shared/flag/Id.gif) Indonesia | [#1](https://osu.ppy.sh/community/matches/33628443) |
+| Singapore ![](/wiki/shared/flag/Sg.gif) | 0 | 4 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33628484) |
+| Venezuela ![](/wiki/shared/flag/Ve.gif) | 0 | 4 | ![](/wiki/shared/flag/De.gif) Germany | -WIN BY DEFAULT- |
 
 ------------------------------------------------------------------------
 
