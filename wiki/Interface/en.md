@@ -14,7 +14,7 @@
 
 ![Main Menu](img/Introscreen.png)
 
-The \[1\] [osu!cookie](/wiki/Glossary/#cookie) pulses according to the BPM of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the BPM of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
 -   \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
 -   \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
@@ -223,7 +223,8 @@ Note: The background transparent icon depicts what mode is currently selected.
 
 Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](/wiki/Game_Modifiers/)**.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
+In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
 
 While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
