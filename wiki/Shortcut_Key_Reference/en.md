@@ -10,54 +10,53 @@ However, the list below uses the default keys.
 
 These work anywhere:
 
-- `Shift` + `F1`: Open osu!status (when connection errors out)
-- `F7`: Toggle FPS limiting mode
-- `F8`: Toggle Chat Window
-- `F9`: Toggle Extended Chat Window
-- `F10`: Toggle all mouse buttons (except for mouse wheel)
-- `Ctrl` + `F11`: Toggle Frame Times
-- `F12`: Take Screenshot (Hold `Shift` to upload instantly to the server for sharing)
-- `Insert`: Minimize the osu!client into the notification area.
-- `Arrow Up`: Increase volume.
 - `Arrow Down`: Decrease volume.
+- `Arrow Up`: Increase volume.
 - `Alt` + `F4`: If playing/editing a beatmap, exit to song select; otherwise, this will close the osu!client.
-- `Ctrl` + `O`: Open Options Menu (does not work while playing in-game)
 - `Ctrl` + `Alt` + `Shift` + `S`: Reload current skin (may say that it is in queue)
+- `Ctrl` + `F11`: Toggle trame times
+- `Ctrl` + `O`: Open options menu (does not work while playing in-game)
+- `F7`: Toggle FPS limiting mode
+- `F8`: Toggle chat window
+- `F9`: Toggle extended chat window
+- `F10`: Toggle all mouse buttons (except for mouse wheel)
+- `F12`: Take a screenshot (hold `Shift` to upload instantly to the server for sharing.)
+- `Insert`: Minimize the osu!client into the notification area.
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection errors out)
 
 ## Main Menu
 
-- `Alt` + `Enter`: Toggle Full-screen Mode
+- `Alt` + `Enter`: Toggle fullscreen mode
 - `Esc`: Go back one menu
 - `P`: Play mode
 - `P`, then `P`: Solo
 - `P`, then `M`: [Multi](/wiki/Multi)
-- `E`: Edit Mode
-- `B`: Display jukebox controls (Winamp layout)
+- `E`: Edit mode
 - `Z` or `F1`: Previous song (jukebox)
-- `X` or `F2`: Play from start
-- `C`: Toggle pause
-- `F4`: Stop playing and reset duration to 0
+- `X` or `F2`: Play from start (jukebox)
+- `C`: Toggle pause (jukebox)
+- `F4`: Stop playing and reset duration to 0 (jukebox)
 - `V` or `F5`: Next song (jukebox)
 - `J` or `F6`: Jump To (jukebox)
+- `R`: Random song (jukebox)
 - `D`: osu!direct ([osu!supporters](/wiki/osu!supporter) only)
 - `O`: Options
-- `Q`: Quit (displays prompt)
-- `R`: Random song
+- `Q` or `Esc`, then `Esc`: Quit (displays a prompt)
 
 ## Song Select
 
-- `F1`: [Mod Selection](/wiki/Game_Modifiers)
-- `F2`: Random Map
-- `Shift` + `F2`: Undo Random Map
-- `F3`: Beatmap Options
-- `F5`: Refresh listing (Repair mode)
+- `F1`: Display [mod](/wiki/Game_Modifiers) selection screen
+- `F2`: Random map selection
+- `Shift` + `F2`: Undo random map selection
+- `F3`: Display beatmap options
+- `F5`: Refresh listing (repair mode)
 - `Shift` + `Delete`: Delete current map
 - `Ctrl` + `1`: Switch to [osu!standard](/wiki/osu!standard)
 - `Ctrl` + `2`: Switch to [osu!taiko](/wiki/osu!taiko)
 - `Ctrl` + `3`: Switch to [osu!catch](/wiki/osu!catch)
 - `Ctrl` + `4`: Switch to [osu!mania](/wiki/osu!mania)
 - `Ctrl` + `Enter`: Play current map with [Auto](/wiki/Auto) mod
-- `Ctrl` + `Shift` + `Enter`: Play current map with Cinema mod
+- `Ctrl` + `Shift` + `Enter`: Play current map with [Cinema](/wiki/Cinema) mod
 - `Ctrl` + `A`: Toggle Auto mod
 - `Ctrl` + `F3` or `Ctrl` + `+`: Increase osu!mania speed (only in osu!mania mode)
 - `Ctrl` + `F4` or `Ctrl` + `-`: Decrease osu!mania speed (only in osu!mania mode)
@@ -67,7 +66,7 @@ These work anywhere:
 - `Page Up` or `Page Down`: Change selection (large)
 - `Enter`: Make selection
 - `Shift` + `Left Arrow` or `Shift` + `Right`: Change group
-- `Shift+Enter`: Open/close group
+- `Shift` + `Enter`: Open/close group
 
 ## Mods screen
 
@@ -97,8 +96,8 @@ These work anywhere:
 - `X`: [Relax](/wiki/Relax)
 - `C`: [Auto Pilot](/wiki/Auto_Pilot)
 - `V`: [Spun Out](/wiki/Spun_Out)
-- `B`: [Auto](/wiki/Auto)
-- `B`, then `B`: [Cinema](/wiki/Cinema)
+- `B`: Auto
+- `B`, then `B`: Cinema
 
 ---
 
@@ -117,8 +116,8 @@ These work anywhere:
 
 ## Play Mode
 
-- `+` or `-`: Adjust local offset (hold `Alt` to change the precision)
-- `Esc`: Pause (Quit song if Auto or Cinema mod is used)
+- `+` or `-`: Adjust local offset (hold `Alt` to change the precision).
+- `Esc`: Pause or quit song if Auto or Cinema mod is used.
 - `Space`: Skip opening cut-scene.
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
@@ -169,7 +168,7 @@ These work anywhere:
 - `Ctrl` + `C`: Copy selection
 - `Ctrl` + `V`: Paste selection
 - `Ctrl + D`: Clone the selection (places cloned selection 1 measure away last object)
-- `Alt` while placing: Snap distance based on time duration since last note
+- `Alt` while placing: snap distance based on time duration since last note
 - `Shift` while placing (playfield): No grid snapping
 - `Shift` while placing (timeline): No grid or beat (time) snapping
 - `J` or `K`: Nudge circle backwards/forwards in time
@@ -178,16 +177,16 @@ These work anywhere:
 - `Ctrl` + `2`: Use small grid size
 - `Ctrl` + `3`: Use medium grid size
 - `Ctrl` + `4`: Use large grid size
-- `Ctrl` + `Shift` + `R`: Rotate selected note by a specified angle
-- `Ctrl` + `,`: Rotate Anticlockwise
-- `Ctrl` + `.`: Rotate Clockwise
-- `Ctrl` + `H`: Flip Horizontally
-- `Ctrl` + `J`: Flip Vertically
+- `Ctrl` + `Shift` + `R`: Rotate selected note by a specified angle (opens a dialog)
+- `Ctrl` + `,`: Rotate 90 degrees anticlockwise
+- `Ctrl` + `.`: Rotate 90 degrees clockwise
+- `Ctrl` + `H`: Flip horizontally
+- `Ctrl` + `J`: Flip vertically
 
 #### Timing mode
 
 - `T`: Tapping using the keyboard
-- `Shift` while adjusting BPM/Offset: 4x speed
+- `Shift` while adjusting [BPM](/wiki/BPM)/offset: 4x speed
 - `Ctrl` + `B`: Reset current timing point
 - `Ctrl` + `P`: Add timing point
 
