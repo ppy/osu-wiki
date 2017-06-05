@@ -41,7 +41,7 @@ Pertama-tama kami ingin memberikan sambutan dan pelukan hangat karena kamu telah
 # Tutorial
 Sebelum kamu mulai bermain osu!, kamu dianjurkan untuk memainkan beatmap tutorial pertama ([Peter Lambert - osu! tutorial](https://osu.ppy.sh/s/3756)).
 
-Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-nya. Beatmap ini akan mengajarkanmu fundamental-fundamental permainan osu! mode Standard seperti _Hitcircle_, _Slider_, dan _Spinner_.
+Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-nya. Beatmap ini akan mengajarkanmu dasar-dasar permainan osu! mode Standard seperti _Hitcircle_, _Slider_, dan _Spinner_.
 
 **Catatan:** Apabila kamu tidak memiliki beatmap tutorial tersebut karena suatu alasan tertentu, kamu dapat mengunduh ulang beatmap tersebut [disini](https://osu.ppy.sh/b/22538). Setelah memainkan tutorial yang disediakan, kamu telah siap untuk mulai mengunduh beatmap-beatmap yang berbeda!
 
@@ -49,12 +49,12 @@ Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama
 _Penjelasan Lengkap: [Beatmaps][Beatmaps wikilink]_
 
 ### Langkah 1 - Cari Lagunya!
-Mungkin kamu bertanya-tanya: Apakah beatmap itu? Seperti pada permainan-permainan lainnya, beatmap memiliki tingkatan, atau terkadang peta-peta. *Nah* di osu!, kami memiliki "beatmap-beatmap" yang jelas merupakan apa yang sebenarnya kamu ketahui, mereka adalah peta-peta dengan ketukan (ritme). Mencari beatmap untuk lagu-lagu yang kamu inginkan itu sangat mudah! Kamu dapat menemukan setiap beatmap yang telah diajukan [disini][Beatmaps link]. Kamu dapat mengetikkan apapun yang berhubungan dengan beatmap/lagu yang kamu cari: judul lagu, nama penyanyi, judul album, bahkan jenis lagunya! Sebagai contoh, kami akan mencoba menemukan beatmap untuk lagu "Coldplay - Don't Let It Break Your Heart"
+Mungkin kamu bertanya-tanya: Apakah beatmap itu? Seperti pada permainan-permainan lainnya, beatmap memiliki tingkatan, atau terkadang tingkat kesusahan. *Nah* di osu!, kami memiliki "Beatmaps" yang jelas merupakan apa yang sebenarnya kamu ketahui, mereka adalah sebuah laagu yg memiliki ketukan (ritme). Mencari beatmap untuk lagu-lagu yang kamu inginkan itu sangat mudah! Kamu dapat menemukan setiap beatmap yang telah diajukan [disini][Beatmaps link]. Kamu dapat mencari apapun yang berhubungan dengan beatmap/lagu yang kamu cari: judul lagu, nama penyanyi, judul album, bahkan jenis lagunya! Sebagai contoh, kami akan mencoba mencari beatmap untuk lagu "Coldplay - Don't Let It Break Your Heart"
 
 ![][welcome00 image]
 
 ### Langkah 2 - Pengunduhan
-Apabila terdapat sebuah beatmap yang telah disetujui untuk lagu yang kamu sedang cari, kamu pasti akan menemukannya di hasil halaman pencarian. Namun jangan kecewa apabila lagu yang dicari tidak ada! Disana terdapat ratusan-ratusan beatmap yang sedang diajukan dan dikoreksi, sehingga mungkin lagu kesukaanmu sedang berada dalam perjalanannya menuju persetujuan! Mohon untuk **tidak memposting permintaan apapun untuk beatmap-beatmap yang kamu inginkan** karena kebanyakan mapper hanya akan membuat map untuk lagu-lagu yang **mereka** sukai, bukan yang kamu sukai, akan tetapi mungkin hal tersebut dapat menjadi suatu petunjuk jalan untuk kamu memulai karir mapmu sendiri!
+Apabila terdapat sebuah beatmap yang telah disetujui untuk lagu yang kamu sedang cari, kamu pasti akan menemukannya di hasil halaman pencarian. Namun jangan kecewa apabila lagu yang dicari tidak ada! Disana terdapat ratusan-ratusan beatmap yang sedang diajukan dan dikoreksi, sehingga mungkin lagu kesukaanmu sedang berada dalam perjalanannya menuju persetujuan! Mohon untuk **tidak memposting permintaan/pengajuan apapun untuk beatmap yang kamu inginkan** karena kebanyakan mapper hanya akan membuat map untuk lagu yang **mereka** sukai, bukan yang kamu sukai, akan tetapi kamu mungkin bisa membuat mapmu sendiri dengan lagu yang kamu sukai!
 
 ![][welcome01 image]
 
@@ -62,12 +62,12 @@ Begitu kamu berada di halaman beatmap, nanti akan ada tombol yang bertuliskan *D
 
 ![][welcome02 image]
 
-**Catatan:** Lokasi penyimpanan file beatmap yang terunduh adalah hal yang tidak perlu dimasalahkan selama kamu dapat menemukan file beatmap setelah kamu selesai mengunduh file tersebut. Kamu pun dapat memilih untuk langsung membuka osu!, namun file akan memaksa osu! untuk mulai muncul apabila osu! sedang dalam keadaan tidak aktif.
+**Catatan:** Lokasi penyimpanan file beatmap yang terunduh adalah hal yang tidak perlu dipermasalahkan selama kamu dapat menemukan file beatmap setelah kamu selesai mengunduh file tersebut. Kamu pun dapat memilih untuk langsung membuka file beatmap tersebut, namun file akan membuka osu! dengan sendirinya, apabila osu! sedang dalam kedaan tidak dimainkan.
 
 ### Langkah 3 - Buka beatmap dengan osu!
 ![".osz" file, clean beatmap file][.osz icon link]
 
-Setelah unduhanmu selesai, kamu akan mampu dengan mudah membuka file beatmap **.osz**. Jika kamu merasa cara tersebut tidak sesuai dengan alasan tertentu, kamu mungkin ingin menahan dan menyeret file tersebut langsung ke dalam layar osu!.
+Setelah unduhanmu selesai, kamu akan mampu dengan mudah membuka file beatmap **.osz**. Jika kamu merasa cara tersebut tidak sesuai dengan alasan tertentu, kamu mungkin ingin menahan dan menyeret file tersebut langsung ke dalam osu!.
 
 ![][welcome03 image]
 
@@ -76,7 +76,7 @@ Setelah dibuka, osu! akan mulai bekerja (dan mungkin melakukan pembaharuan). Unt
 
 ![][welcome04 image]
 
-Begitulah! Sekarang kamu pun siap untuk bermain osu!. Apabila kamu memiki suatu masalah, jangan ragu untuk meminta bantuan di forum atau di game (tekan F8 untuk membuka jendela obrolan yang berlokasi di bawah \#help).
+Begitulah! Sekarang kamu pun siap untuk bermain osu!. Apabila kamu memiki suatu masalah, jangan ragu untuk meminta bantuan di forum atau di game (tekan F8 untuk membuka jendela obrolan yang berlokasi di bawah \#help #indonesian).
 
 **Selamat Mencoba dan Bersenang-senang!**
 
@@ -132,7 +132,7 @@ Itu semua adalah dasar, janganlah malu untuk bertanya pada bantuan dalam permain
 ## Beatmapping (Edit)
 _Penjelasan lebih lengkap: [Beatmapping][Beatmapping wikilink]_
 
-osu! menyediakan sebuah kesempatan untuk setiap pemain untuk membuat beatmap kalian sendiri. Jika kamu pikir kamu kreatif dan bergairah untuk mempelajarinya, kamu mungkin memulainya dengan lagu yang kamu miliki. Untuk memulai, klik mode *Edit* dan tarik file lagumu **.mp3** ke dalam editor. Tekan *F5* untuk menyegarkan daftar lagu dan kamu harus mencari map kosong dengan nama lagu tersebut. Bagaimanapun, beatmapping adalah sesuatu yang *sangat* sulit dimana kamu membutuhkan dedikasimu, dan demikian itu tidak akan dijelaskan dalam halaman ini. Jalan terbaik untuk mempelajarinya adalah latihlah dirimu sendiri. Kamu mungkin dapat membaca petunjuk untuk memulai mapping [disini][Beatmapping/Modding: Guide Compendium link]. Selain itu, mode *Edit* juga dapat berguna untuk melihat lebih jelas beberapa beatmap yang membuatmu selalu gagal dalam suatu bagian tersebut! Selain itu **hindari mengedit map yang sudah ranked** karena mereka akan secara otomatis berganti menjadi *tak ranked* (tentu saja pada milikmu saja) dan kamu tidak akan dapat memperoleh pp/akurasi dari itu sampai kamu memperbarui map tersebut kembali.
+osu! menyediakan sebuah kesempatan untuk setiap pemain untuk membuat beatmap kalian sendiri. Jika kamu pikir kamu kreatif dan bergairah untuk mempelajarinya, kamu mungkin memulainya dengan lagu yang kamu miliki. Untuk memulai, klik mode *Edit* dan tarik file lagumu **.mp3** ke dalam editor. Tekan *F5* untuk menyegarkan daftar lagu dan kamu harus mencari map kosong dengan nama lagu tersebut. Bagaimanapun, beatmapping adalah sesuatu yang *sangat* sulit dimana kamu membutuhkan dedikasimu, dan demikian itu tidak akan dijelaskan dalam halaman ini. Jalan terbaik untuk mempelajarinya adalah latihlah dirimu sendiri. Kamu mungkin dapat membaca petunjuk untuk memulai mapping [disini][Beatmapping/Modding: Guide Compendium link]. Selain itu, mode *Edit* juga dapat berguna untuk melihat lebih jelas beberapa beatmap yang membuatmu selalu gagal dalam suatu bagian tersebut! Selain itu **hindari mengedit map yang sudah ranked** karena mereka akan secara otomatis berganti menjadi *Unranked* (tentu saja pada milikmu saja) dan kamu tidak akan dapat memperoleh pp/akurasi dari itu sampai kamu memperbarui map tersebut kembali.
 
 ## Sumber-sumber Berguna
 Berikut adalah beberapa sumber yang dapat membantumu:-
