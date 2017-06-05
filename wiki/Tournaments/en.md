@@ -55,7 +55,7 @@ Community
 
 Unofficial tournaments/competitions hosted by the communities.
 
-### ![](/wiki/shared/Osu.gif) Rapid Monthly osu! Tournament Invitationals \#2
+### ![](/wiki/shared/Osu.gif) Rapid Monthly osu! Tournament Invitationals
 
 | Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
