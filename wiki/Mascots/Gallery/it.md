@@ -1,18 +1,44 @@
+Gallery (Italiano)
+===================
 
-***[Clicca per tonare alla pagina delle Mascotte](IT:Mascots "wikilink")***
+***[Clicca per tonare alla pagina delle Mascotte](/wiki/Mascots)***
 
 Originali osu!
-==============
+--------------
 
-<File:OSUconceptWIP-3.jpg>| Concept di pippi da . <File:Pippi_Sarumaru_CB.png>| Combo Burst della (vecchia) skin "osu!default di peppy". <File:Pippi_Sarumaru_Chibi.png>| Chibi-pippi (Immagine di Testata). <File:Pippi> 404 old.jpg| Immagine di errore 404 <File:Pippi> old Daru CG1.png| Illustrazione di pippi di (si può trovare nel osu!installer). <File:Pippi_corruption.jpg>| pippi quando osu! riceve un errore .
+### Pippi originali (vestito da idol)
 
-<File:Pippi> welcome.png| pippi (Nuova revisione di . Si può trovare nella [pagina di benvenuto](https://osu.ppy.sh/p/welcome)). <File:pippi_Daru_CB.png>| Combo Burst della skin "osu! di peppy". <File:pippi_Daru_Header.png>| Immagine di testata. <File:pippi_Daru_404.png>| Immagine di errore 404.
+![Concept di pippi da Sarumaru.](img/OSUconceptWIP-3.jpg "Concept di pippi da Sarumaru.")
+![Combo Burst della (vecchia) skin "osu!default di peppy".](img/Pippi_Sarumaru_CB.png "Combo Burst della (vecchia) skin \"osu!default di peppy\".")
+![Chibi-pippi (Immagine di Testata).](img/Pippi_Sarumaru_Chibi.png "Chibi-pippi (Immagine di Testata).")
+![Immagine di errore 404](img/Pippi_404_old.jpg "Immagine di errore 404")
+![Illustrazione di pippi di Daru (si può trovare nel osu!installer).](img/Pippi_old_Daru_CG1.png "Illustrazione di pippi di Daru (si può trovare nel osu!installer).")
+![pippi quando osu! riceve un errore.](img/Pippi_corruption.jpg "pippi quando osu! riceve un errore.")
 
-<File:Yuzu> Artwork.png| Yuzu di <File:Yuzu_Idle.png>| Yuzu in Catch the Beat di <File:Yuzu_Kiai.png>| Yuzu durante una Kiai Time in CtB <File:Yuzu_Fail.png>| Yuzu mente manca frutti in CtB
+### Pippi corrente (outfit da DJ)
 
-<File:Pippidon.png>| pippidon (Modalità Taiko). osu!Talk.png| pippi & Yuzu che registrano una discussione.
+![pippi (Nuova revisione di Daru).](img/Pippi_welcome.png "pippi (Nuova revisione di Daru).")
+![Combo Burst della skin "osu! di peppy".](img/Pippi_Daru_CB.png "Combo Burst della skin \"osu! di peppy\".")
+![Immagine di testata.](../Pippi_Daru_Header.png "Immagine di testata.")
+![Immagine di errore 404.](img/Pippi_Daru_404.png "Immagine di errore 404.")
+
+### Yuzu
+
+![Yuzu di Daru](img/Yuzu_Artwork.png "Yuzu di Daru")
+![Yuzu in osu!catch di ztrot](img/Yuzu_Idle.png "Yuzu in osu!catch di ztrot")
+![Yuzu durante una Kiai Time in osu!catch](img/Yuzu_Kiai.png "Yuzu durante una Kiai Time in osu!catch")
+![Yuzu mente manca frutti in osu!catch](img/Yuzu_Fail.png "Yuzu mente manca frutti in osu!catch")
+
+### Misc
+
+![pippidon (Modalità Taiko).](img/Pippidon.png "pippidon (Modalità Taiko).")
+![pippi & Yuzu che registrano una discussione.](img/Osu!Talk.png "pippi & Yuzu che registrano una discussione.")
 
 Cameo
-=====
+--------
 
-<File:Fruit> ryuuta.png| Ryuuta in Catch the Beat. J chibi Header.png| Chibi-J <File:CtB> Menu.png| Vecchia pippi e amici nelle deprecate Modalità Speciali.
+![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
+![Chibi-J](../J_chibi_Header.png "Chibi-J")
+![Vecchia pippi e amici nelle deprecate Modalità Speciali.](img/CtB_Menu.png "Vecchia pippi e amici nelle deprecate Modalità Speciali.")
+
+
