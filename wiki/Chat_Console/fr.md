@@ -11,9 +11,9 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'*osu!* en a
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Blanc**  | Vous                                                                                                                                                                              |
 | **Jaune**  | Les autres utilisateurs                                                                                                                                                           |
-| **Jaune**  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") les supporters                                                                                                                     |
+| **Jaune**  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                     |
 | **Rouge**  | BAT or GMT                                                                                                                                                                        |
-| **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, \#highlight. |
+| **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
 | **Bleu**   | Un message privé                                                                                                                                                                  |
 | **Bleu**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), le créateur d'*osu!*                                                                                                                                  |
 | **Rose**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                              |
@@ -97,5 +97,5 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 | `Tab`               | Compléter automatiquement le pseudo en cours de saisie.                            |
 | `F8`                | Basculer le chat.                                                                  |
 | `F9`                | Basculer la liste des utilisateurs connectés.                                      |
-| `Ctrl` + `C/V`        | Copier/coller                                                                      |
-| `Alt` + `0-9`         | Basculer vers l'onglet respectif.                                                  |
+| `Ctrl` + `C` / `V`        | Copier/coller                                                                      |
+| `Alt` + `0` - `9`         | Basculer vers l'onglet respectif.                                                  |
