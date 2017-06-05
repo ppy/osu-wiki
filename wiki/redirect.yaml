@@ -104,8 +104,15 @@
 "osu!standard":                "Game_Modes/osu!"
 
 "osu!catch":                   "Game_Modes/osu!catch"
+"catch_the_beat":              "Game_Modes/osu!catch"
+"catch":                       "Game_Modes/osu!catch"
+"ctb":                         "Game_Modes/osu!catch"
+
 "osu!mania":                   "Game_Modes/osu!mania"
+"mania":                       "Game_Modes/osu!mania"
+
 "osu!taiko":                   "Game_Modes/osu!taiko"
+"taiko":                       "Game_Modes/osu!taiko"
 
 "game_modes_summary":          "Game_Modes/Summary"
 "game_mode_summary":           "Game_Modes/Summary"
@@ -1154,8 +1161,8 @@
 "owc_2015":                    "Tournaments/OWC/2015"
 
 "rmot_invitational_2":         "RMoT_Invitational_2"
-"rmot2":                       "Tournaments/RMoT_Invitational_2"
-"rmot_2":                      "Tournaments/RMoT_Invitational_2"
+"rmot2":                       "Tournaments/RMoT_Invitational/2"
+"rmot_2":                      "Tournaments/RMoT_Invitational/2"
 
 "twc":                         "Tournaments/TWC"
 "twc2011":                     "Tournaments/TWC/2011"
