@@ -11,9 +11,9 @@ Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste od
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Weiß**   | Du                                                                                                                                                                                                      |
 |**Bleich** | Andere Spieler                                                                                                                                                                                          |
-|**Gelb**   | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporter                                                                                                                              |
+|**Gelb**   | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                              |
 |**Rot**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") Mitglied |
-|**Grün**   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel \#highlight aufgelistet.                           |
+|**Grün**   | Die Nachrichten enthalten entweder deinen Benutzernamen oder eines deiner selbsterstellten Highlightwörter. Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet.                           |
 |**Blau**   | Private Nachrichten                                                                                                                                                                                     |
 |**Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von *osu!*                                                                                                                                       |
 |**Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                          |
@@ -106,5 +106,5 @@ Drücke entweder auf das jeweilige Tab oder die dazugehörige Zahl:
 | `Tab`                  | Benutzername wirde automatisch vervollständigt, wenn der Spieler online ist. |
 | `F8`                   | Chatkonsole ein-/ausschalten.                                                |
 | `F9`                   | Erweiterte Chatkonsole ein-/ausschalten.                                     |
-| `STRG` + `C/V`           | Kopieren/Einfügen.                                                           |
-| `Alt` + `0-9`            | Zum jeweiligen Tab (Chat, Channel) springen.                                 |
+| `STRG` + `C` / `V`           | Kopieren/Einfügen.                                                           |
+| `Alt` + `0` - `9`            | Zum jeweiligen Tab (Chat, Channel) springen.                                 |
