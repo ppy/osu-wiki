@@ -11,9 +11,9 @@ From most screens in *osu!* you can press `F8` or click the `Show Chat` button o
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **White**  | You                                                                                                                                                                                                      |
 | **Pale**   | Non-supporters                                                                                                                                                                                           |
-| **Yellow** | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") Supporters                                                                                                                                            |
+| **Yellow** | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag")  [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                                           |
 | **Red**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") member      |
-| **Green**  | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, \#highlight, which contains all of these lines. |
+| **Green**  | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue**   | Private Message                                                                                                                                                                                          |
 | **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), the creator of *osu!*                                                                                                                                            |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                           |
@@ -102,5 +102,5 @@ Press the number or click the bar to activate:
 | `Tab`               | Auto-complete currently typing nickname.                 |
 | `F8`                | Toggle chat console.                                     |
 | `F9`                | Toggle extended chat console.                            |
-| `Ctrl` + `C/V`        | Copy/Paste.                                              |
-| `Alt` + `0-9`         | Switch to respective tab.                                |
+| `Ctrl` + `C` / `V`        | Copy/Paste.                                              |
+| `Alt` + `0` - `9`         | Switch to respective tab.                                |
