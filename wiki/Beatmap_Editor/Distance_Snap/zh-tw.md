@@ -1,4 +1,4 @@
-Distance Snap (中文)
+間距鎖定
 ======================
 
 ![間距應當這樣放](img/Beatspacing-ZH.jpg "間距應當這樣放")
