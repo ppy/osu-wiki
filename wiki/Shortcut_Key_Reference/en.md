@@ -112,7 +112,7 @@ These work anywhere:
 ---
 
 - `1`: Deselect selected mods
-- `2`: Closes the Mod Select dialog
+- `2`: Closes the mod selection dialog
 
 ## Play Mode
 
@@ -185,8 +185,8 @@ These work anywhere:
 
 #### Timing mode
 
-- `T`: Tapping using the keyboard
-- `Shift` while adjusting [BPM](/wiki/BPM)/offset: 4x speed
+- `T`: Set the [BPM](/wiki/BPM)/offset using the keyboard
+- `Shift` while adjusting BPM/offset: 4x speed
 - `Ctrl` + `B`: Reset current timing point
 - `Ctrl` + `P`: Add timing point
 
