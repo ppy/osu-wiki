@@ -34,11 +34,11 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Team | Staff |
 | ---: | :--- |
-| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
+| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256) |
 | Coordinator | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
-| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
-| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
+| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296), [![TW]Spy](https://osu.ppy.sh/u/1217122), [![CN]hans1999](https://osu.ppy.sh/u/6679329) |
+| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
+| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]644520858](https://osu.ppy.sh/u/5507069), [![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
 
 ## Tournament stream
 
