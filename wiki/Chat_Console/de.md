@@ -1,4 +1,4 @@
-# Basis Chat Konsole
+# Chat Konsole
 
 Fast überall in osu! kann die Chat Konsole durch das Betätigen der F8-Taste oder durch das Klicken des `Show Chat` Tabs (unten rechts) aktiviert werden.
 
