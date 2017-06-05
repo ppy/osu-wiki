@@ -23,7 +23,7 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the BPM of an
 -   \[6\] A random useful tip is displayed below the menu.
 -   \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
 -   \[8\] Connection result to Bancho! In this picture it is not shown, but the connection result looks like a chain link. 
--   \[9\] In the bottom right are the chat controls (`F8` & `F9`).
+-   \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
 -   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
     - Previous Track
     - Play
@@ -291,3 +291,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 7.  Beatmap song with its history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
+
+![Unlocking a medal](img/MedalUnlock.jpg)
+
+Above is what it looks like to receive a medal. 
