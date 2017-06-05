@@ -49,7 +49,7 @@ Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama
 _Penjelasan Lengkap: [Beatmaps][Beatmaps wikilink]_
 
 ### Langkah 1 - Cari Lagunya!
-Mungkin kamu bertanya-tanya: Apakah beatmap itu? Seperti pada permainan-permainan lainnya, beatmap memiliki tingkatan, atau terkadang tingkat kesusahan. *Nah* di osu!, kami memiliki "Beatmaps" yang jelas merupakan apa yang sebenarnya kamu ketahui, mereka adalah sebuah laagu yg memiliki ketukan (ritme). Mencari beatmap untuk lagu-lagu yang kamu inginkan itu sangat mudah! Kamu dapat menemukan setiap beatmap yang telah diajukan [disini][Beatmaps link]. Kamu dapat mencari apapun yang berhubungan dengan beatmap/lagu yang kamu cari: judul lagu, nama penyanyi, judul album, bahkan jenis lagunya! Sebagai contoh, kami akan mencoba mencari beatmap untuk lagu "Coldplay - Don't Let It Break Your Heart"
+Mungkin kamu bertanya-tanya: Apa beatmap itu? Seperti pada game rhythm lainnya, beatmap memiliki tingkatan, atau terkadang tingkat kesusahan pada sebuah lagu. *Nah* di osu!, kami memiliki "Beatmaps" yang merupakan apa yang sebenarnya kamu ketahui, itu adalah sebuah lagu yg memiliki ketukan (ritme). Mencari beatmap untuk lagu-lagu yang kamu inginkan itu sangat mudah! Kamu dapat menemukan setiap beatmap yang telah diajukan [disini][Beatmaps link]. Kamu dapat mencari apapun yang berhubungan dengan beatmap/lagu yang kamu cari: judul lagu, nama penyanyi, judul album, bahkan jenis lagunya! Sebagai contoh, kami akan mencoba mencari beatmap untuk lagu "Coldplay - Don't Let It Break Your Heart"
 
 ![][welcome00 image]
 
@@ -76,7 +76,7 @@ Setelah dibuka, osu! akan mulai bekerja (dan mungkin melakukan pembaharuan). Unt
 
 ![][welcome04 image]
 
-Begitulah! Sekarang kamu pun siap untuk bermain osu!. Apabila kamu memiki suatu masalah, jangan ragu untuk meminta bantuan di forum atau di game (tekan F8 untuk membuka jendela obrolan yang berlokasi di bawah \#help #indonesian).
+Begitulah! Sekarang kamu pun siap untuk bermain osu!. Apabila kamu memiki suatu masalah, jangan ragu untuk meminta bantuan di forum atau di game (tekan F8 untuk membuka jendela obrolan yang berlokasi di bawah \#indonesian).
 
 **Selamat Mencoba dan Bersenang-senang!**
 
