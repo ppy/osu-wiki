@@ -228,7 +228,6 @@ Maio de 2008
 #### Biografia
 Don é o protagonista da série Taiko no Tatsujin. Ele é um tambor de taiko com uma borda branca e quatro patas, um rosto vermelho (que parece ser laranja) e um corpo azul claro. O sonho de Don é compartilhar a beleza do Taiko com o mundo. Três anos se passaram desde que ele se mudou para a Wada House, e ele se tornou muito popular na cidade. Ele tem um apetite monstruoso e às vezes faz compras caras na Wada House, que pode significar o pior. Ele geralmente termina as suas frases com "Ta-don", que significa "Ba-dum" em japonês.
 
-Galeria de imagens
-==================
+## Galeria de imagens
 
 [Clique aqui para ir à galeria de imagens.](/wiki/Mascots/Gallery)
