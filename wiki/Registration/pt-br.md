@@ -5,13 +5,9 @@ Como crio uma conta?
 **Por favor, tenha em mente que ter mais de uma conta infringe as nossas [regras do osu!](/wiki/Rules/). Siga os passos abaixo para criar sua conta no osu!.**
 
 1. Na [página principal](https://osu.ppy.sh), Clique em ``Sou novo!`` para iniciar o processo de registro
-
 ![Register-3.png](Register-1.png)
-
 2. Complete todos os campos do formulário e pressione ``Continuar``
-
 ![Login.png](Register-2.png)
-
     1. Nome de usuário         
         1. Máximo de 15 caracteres                                                                                                                    
         2. Caracteres alfanuméricos (``a-z``, ``A-Z``, ``0-9``), traço inferior (``_``), colchetes, (``[`` and ``]``) e hífens (``-``) são os únicos caracteres permitidos.
