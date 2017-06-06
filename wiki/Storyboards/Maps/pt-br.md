@@ -109,7 +109,7 @@ Esta é uma lista expandida de beatmaps com [storyboard](wiki/Storyboards).
 -   [doriko - Yuuhi Zaka](http://osu.ppy.sh/s/54581)
 
 Beatmaps que não têm uma alma™, mas que ainda sim são bons
-----------------------------------------------
+----------------------------------------------------------
 
 -   [Chata - Nijiiro](http://osu.ppy.sh/s/25372)
 -   [Touyama Nao - ALL 4 YOU](http://osu.ppy.sh/b/131945)
@@ -125,7 +125,7 @@ Beatmaps que não têm uma alma™, mas que ainda sim são bons
 -   [Shiori Mikami - Watashi, Shuyaku no Akaza Akari Desu (Short Ver.)](http://osu.ppy.sh/s/48072)
 
 Não ranqueados
-----------
+--------------
 
 -   [Poets Of The Fall - The Happy Song](http://osu.ppy.sh/s/58704)
 -   [ZUN - At the End of Spring](http://osu.ppy.sh/s/28274)
@@ -141,7 +141,7 @@ Não ranqueados
 -   [M2U - BlythE (Osuka)](http://osu.ppy.sh/s/26932)
 
 Músicas antigas e não interessantes
------------------------------
+-----------------------------------
 
 - [Je t'aime](http://osu.ppy.sh/s/6818)
 - [Let's Dance](http://osu.ppy.sh/s/789)
