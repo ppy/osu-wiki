@@ -34,11 +34,11 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Team | Staff |
 | ---: | :--- |
-| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
+| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256) |
 | Coordinator | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
-| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
-| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
+| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296), [![TW]Spy](https://osu.ppy.sh/u/1217122), [![CN]hans1999](https://osu.ppy.sh/u/6679329) |
+| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
+| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]644520858](https://osu.ppy.sh/u/5507069), [![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
 
 ## Tournament stream
 
@@ -53,9 +53,9 @@ Update after group stage starts.
 
 17, June 15:00 (UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
 
-"The Elder" Team: **gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+"The Elder" Team: **[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Cideisbiantai]() [Scslag](https://osu.ppy.sh/u/6705256) [hans1999](https://osu.ppy.sh/u/6679329) [w765333805](https://osu.ppy.sh/u/6423706)
 
-"The Cutting-edge" Team: **Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+"The Cutting-edge" Team: **[Moting](https://osu.ppy.sh/u/4902208)** [Mof](https://osu.ppy.sh/u/4985718) [liberavi](https://osu.ppy.sh/u/3308844) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
 
 ## Mappools
 
@@ -141,13 +141,14 @@ Please sign up on [this](https://www.osupink.org/huarenbei) page.
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 7. The stages are split up into the following: 
   
-     | Stage | Match ID |
-     | ---: | :--- |
-     | Round of 16 | A, B, C, D, E, F, G, H |
-     | Quarter-finals | I, J, K, L & R, S, T, U |
-     | Semi-finals | M, N & V, W, X, Y, Z,AA |
-     | Finals - Week 1 | O & AB, AC, AD, AE |
-     | Finals - Week 2 | P, Q |
+| Stage | Match ID |
+| ---: | :--- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarter-finals | I, J, K, L & R, S, T, U |
+| Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD, AE |
+| Finals - Week 2 | P, Q |
+
 8. **Winning condition**:
      - In the Qualification stage, the **32** highest players will qualify next stage.
      - In Group stage, player needs to win **4** maps to win a match. (Best-of-7).
