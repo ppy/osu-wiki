@@ -63,14 +63,14 @@ Klicke auf den Benutzernamen des Spielers im Chat, um zum Optionsfenster zu gela
 ![Userpanel Einstellungen](DE-Chat_Console-Userpaneloptions.jpg "Userpanel Einstellungen")
 
 Drücke entweder auf das jeweilige Tab oder die dazugehörige Zahl:
--    1  **Zuschauen starten**: Schaue einem Spieler live beim Spielen zu. Die Benutzernamen der Zuschauer werden auf der Zuschauerliste aufgelistet.
--    2  **Profil anzeigen**: Öffnet das Profil des Spielers im Browser.
--    3  **Chat beginnen**: Öffnet ein privates Chat mit dem Spieler.
--    4  **Zum Spiel einladen**: Der Spieler erhält eine Einladung zum Multiplayer Raum.
--    5  **Als Freund hinzufügen/Freund entfernen**: Spieler wird zur Freundesliste hinzugefügt oder entfernt.
--    6  **Benutzer melden**: Meldet den Spieler aufgrund von Regelbrüchen oder Fehlverhaltens.
--    7  **Benutzer ignorieren**: Alle Nachrichten sind bis zum nächsten Neustart des Spieles nicht sichtbar.
--    8  **Schließen**: Schließt das Fenster.
+-    1  `Zuschauen starten`: Schaue einem Spieler live beim Spielen zu. Die Benutzernamen der Zuschauer werden auf der Zuschauerliste aufgelistet.
+-    2  `Profil anzeigen`: Öffnet das Profil des Spielers im Browser.
+-    3  `Chat beginnen`: Öffnet ein privates Chat mit dem Spieler.
+-    4  `Zum Spiel einladen`: Der Spieler erhält eine Einladung zum Multiplayer Raum.
+-    5  `Als Freund hinzufügen/Freund entfernen`: Spieler wird zur Freundesliste hinzugefügt oder entfernt.
+-    6  `Benutzer melden`: Meldet den Spieler aufgrund von Regelbrüchen oder Fehlverhaltens.
+-    7  `Benutzer ignorieren`: Alle Nachrichten sind bis zum nächsten Neustart des Spieles nicht sichtbar.
+-    8  `Schließen`: Schließt das Fenster.
 
 ## Auflistung von Chat Kommandos
 
