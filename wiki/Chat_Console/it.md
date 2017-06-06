@@ -59,14 +59,14 @@ Cliccando su un qualsiasi pannello compariranno alcune opzioni sullo schermo.
 
 Premi il numero o clicca il pulsante per attivare:
 
-1.  **Inizia a guardarlo/a**: Se l'utente sta giocando una beatmap e tu ce l'hai, potrai guardarlo mentre gioca. Il tuo nome comparirà nella loro lista degli spettatori.
-2.  **Visualizza profilo**: Apre la pagina web del profilo dell'utente nel tuo browser.
-3.  **Avvia Chat**: Apre una chat privata con l'utente.
-4.  **Invita nella partita**: (Se sei nella stanza del multiplayer) Manda un invito all'utente a partecipare alla tua partita.
-5.  **Aggiungi (Togli) Amicizia**: Aggiunge (Rimuove) l'utente alla tua lista degli amici.
-6.  **Segnala utente**: Segnala l'utente per comportamenti sbagliati. Non dovrebbe essere usato quasi mai, se non specificato diversamente. Puoi reportare un utente per vari motivi in-game, ma anche sul forum.
-7.  **Ignora utente**: Qualsiasi messaggio inviato da tale utente non verrà mostrato nella chat console.
-8.  **Chiudi**: Chiude le opzioni utente.
+1.  `Inizia a guardarlo/a`: Se l'utente sta giocando una beatmap e tu ce l'hai, potrai guardarlo mentre gioca. Il tuo nome comparirà nella loro lista degli spettatori.
+2.  `Visualizza profilo`: Apre la pagina web del profilo dell'utente nel tuo browser.
+3.  `Avvia Chat`: Apre una chat privata con l'utente.
+4.  `Invita nella partita`: (Se sei nella stanza del multiplayer) Manda un invito all'utente a partecipare alla tua partita.
+5.  `Aggiungi (Togli) Amicizia`: Aggiunge (Rimuove) l'utente alla tua lista degli amici.
+6.  `Segnala utente`: Segnala l'utente per comportamenti sbagliati. Non dovrebbe essere usato quasi mai, se non specificato diversamente. Puoi reportare un utente per vari motivi in-game, ma anche sul forum.
+7.  `Ignora utente`: Qualsiasi messaggio inviato da tale utente non verrà mostrato nella chat console.
+8.  `Chiudi`: Chiude le opzioni utente.
 
 ## Lista dei comandi
 
