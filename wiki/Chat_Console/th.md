@@ -11,7 +11,7 @@
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **ขาว**                     | **คุณ**นั่นแหละ                                                                                                                                    |
 | **เหลืองอ่อน**              |  ไม่ใช่ Supporter                                                                                                                                   |
-| **เหลือง** (เข้มกว่าข้างบน) | พวกที่เป็น ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag")  [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                         |
+| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                         |
 | **แดง**                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                |
 | **เขียวเข้ม**               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
 | **น้ำเงิน**                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
