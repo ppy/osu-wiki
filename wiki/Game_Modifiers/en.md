@@ -209,6 +209,8 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko), the correct color for the notes is h
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), this mod allows the character to be moved freely at any speed with the mouse.
 
+Relax is not available for use in [osu!mania](/wiki/Game_Modes/osu!mania). 
+
 ### Auto Pilot
 
 ![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")
@@ -220,7 +222,7 @@ UNRANKED
 
 A mod in which you only need to click. The game moves the cursor for you, so you can focus on clicking with the correct timing. Using this mod also hides the score, combo and misses, and makes it impossible to fail the map, much like No Fail.
 
-Auto Pilot is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko) or [osu!catch](/wiki/Game_Modes/osu!catch).
+Auto Pilot is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), or [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ### Spun Out
 
@@ -232,7 +234,7 @@ Auto Pilot is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko) o
 
 Spun Out is a mod in which the game does spinners for you, allowing you to relax during spinners, instead of tiring your arm out on them.
 
-Spun Out is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko) or [osu!catch](/wiki/Game_Modes/osu!catch).
+Spun Out is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), or [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ### Auto
 
@@ -248,6 +250,8 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the Auto mod will attempt a per
 
 In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the Auto mod will actually go beyond perfect and use unlimited speed to catch every fruit in a spinner, despite this being literally impossible for a human player.
 
+In [osu!mania](/wiki/Game_Modes/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss densely stacked notes (e.g. multiple key presses close together on a slider).
+
 #### Cinema
 
 ![Cinema mod icon](/wiki/shared/Cinema.png "Cinema mod icon")
@@ -262,6 +266,8 @@ This mod will show **background and storyboard only** without the gameplay objec
 ![1K mod icon](/wiki/shared/1k.png "1K mod icon")![2K mod icon](/wiki/shared/2k.png "2K mod icon")![3K mod icon](/wiki/shared/3k.png "3K mod icon")![4K mod icon](/wiki/shared/4k.png "4K mod icon")![5K mod icon](/wiki/shared/5k.png "5K mod icon")![6K mod icon](/wiki/shared/6k.png "6K mod icon")![7K mod icon](/wiki/shared/7k.png "7K mod icon")![8K mod icon](/wiki/shared/8k.png "8K mod icon" )![9K mod icon](/wiki/shared/9k.png "9K mod icon")
 
 **Score multiplier**: 0.66~1.00 (osu!mania only)
+
+*This mod is only available for [osu!mania](/wiki/Game_Modes/osu!mania).*
 
 This mod will force all beatmap difficulties to use the selected K setting, ignoring the supposed K setting of the beatmap's difficulty at the cost of decreasing Score punishment. Using the 1K, 2K and 3K mod causes your score to be unranked.
 
@@ -285,6 +291,8 @@ Score multiplier only applies within this condition: **This table only affects b
 **Score multiplier**: 0.70 ~ 1.00 (osu!mania only)
 
 **Description**: Double the key amount, double the fun!
+
+*This mod is only available for [osu!mania](/wiki/Game_Modes/osu!mania).*
 
 [Introduced in 5th of March, 2015 build](https://osu.ppy.sh/p/changelog?v=b20150305), this mod will introduce a second playfield with second set of control based on current xK count (7K -\> 7K + 7K). For osu!mania specific mode, the xK is split to half (7K -\> 4K + 3K). It is entirely possible to increase the key count to *18 Keys* (9K \[mod\] -\> 9K + 9K, applied to non-specific difficulties only).
 
@@ -311,6 +319,8 @@ The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 **Score multiplier**: 1.00 (Unranked, osu!mania only)
 
 **Description**: Shuffle around the notes!
+
+*This mod is only available for [osu!mania](/wiki/Game_Modes/osu!mania).*
 
 This mod will **change the note placement** only. It does not affect the timeline note to hit and is not shuffled every time this mod is used. Take caution prior using the mod as certain note pattern will change to be easier/harder to do, as shown on the picture at the right.
 
@@ -361,7 +371,7 @@ These mods were used some time ago, but are now resting here in peace.
 
 ![10K mod icon](/wiki/shared/10k.png "10K mod icon")
 
-This mod used to enable the player to use 10 keys. (Though, you could still use 5K + COOP to achieve 10 Keys)
+This mod used to enable the player to use 10 keys in osu!mania. If you wish to have 10 keys, though, use 5K + Co-Op.
 
 ### Fade Out
 
@@ -377,9 +387,9 @@ This mod does exactly what you might expect it to do, disable the video, if any.
 
 ## Trivia
 - [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/forum/t/49733)
--  Flashlight nearly ran out of batteries!
+-  The flashlight nearly ran out of batteries!
 
- 5 years ago, this mod had been subject to heavy controversy in the past, as its implementation makes it the easiest mod for hackers to cheat on. It was made unranked before during a time of heavy cheater activity, but was restored not long after. \\:D/
+ Back in 2010, this mod was subject to heavy controversy, as its implementation makes it the easiest mod for hackers to cheat on. It was made unranked before during a time of heavy cheater activity, but was restored not long after. \\:D/
  If you want to know more, refer to these two threads:
 
 --   [Flashlight is back!](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
