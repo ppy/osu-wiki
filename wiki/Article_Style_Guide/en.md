@@ -6,11 +6,11 @@ The Article Style Guide serves as a way to help keep consistency in clarity, for
 
 All English articles should use plain English.
 Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
-In other words, you should ask yourself, "If someone was reading this, would they have to look up any of the words?"
+In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
 
 All articles must have proper grammar, correct spelling, and correct information.
 Keep in mind that reviewers would ask for changes in your pull request for blunders or suggestions.
-A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure optimal experience for the reader.
+A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
 ## GFM
 
@@ -77,8 +77,8 @@ If your language isn't listed below, please open an issue in the `osu-web` repos
 - `th.md`: Thai
 - `tl.md`: Tagalog
 - `zh.md`: Chinese (Simplified)
-- `zh-tw.md`: Chinese (Taiwan, Traditional)
 - `zh-hk.md`: Chinese (Traditional)
+- `zh-tw.md`: Chinese (Taiwan, Traditional)
 
 ## Headings
 
@@ -267,7 +267,7 @@ For example:
 
 ```
 The NC (Nightcore) mod is similar to the DT (Double Time) mod.
-While NC and DT increase the speed of the music by 25%, NC will change the pitch of the music and adds a clap and finish to each beat.
+While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
 ```
 
 Abbreviations of osu! terms **must** be capitalised.
