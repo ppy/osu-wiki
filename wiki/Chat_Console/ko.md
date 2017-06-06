@@ -11,7 +11,7 @@
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **흰색**     | 당신입니다                                                                                                                                        |
 | **노랑색**    | 다른 유저입니다                                                                                                                                   |
-| **주황색**    | (/wiki/shared/osu!supporter.png "Supporter Tag") [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                            |
+| **주황색**    | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                            |
 | **빨간색**    | BAT(뱃) 또는 GMT                                                                                                                                  |
 | **초록색**    | 당신의 이름이나 지정된 키워드가 포함된 메세지가 나올 경우, "highlight" 로써 표시됩니다. 그리고 그 메세지의 기록이 `#highlight` 채널에 남게 됩니다. |
 | **파란색**    | (PM/Private Messege) 개인 메세지입니다                                                                                                            |
