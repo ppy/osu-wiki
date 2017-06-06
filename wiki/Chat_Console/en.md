@@ -59,14 +59,14 @@ Clicking on any user panel brings up an options screen.
 
 Press the number or click the bar to activate:
 
-1.  **Start Spectating**: If the user is playing a beatmap and you have the beatmap, you can watch them while they play. Your name will be in their Spectators list.
-2.  **View Profile**: Opens the player profile webpage in your browser.
-3.  **Start Chat**: Opens a private chat tab with the user.
-4.  **Invite to game**: (If you are in the Multi room) Request the user to come to your room.
-5.  **Add (Remove) as Friend**: Adds (Removes) the user at your friends list
-6.  **Report User**: Report the user for misbehavior. Should never be used unless stated otherwise. You can report a user in-game for a number of things, but also on the web, like the forums.
-7.  **Ignore User**: Any chat entry by the user will not appear in your chat console.
-8.  **Close**: Closes the panel.
+1.  `Start Spectating`: If the user is playing a beatmap and you have the beatmap, you can watch them while they play. Your name will be in their Spectators list.
+2.  `View Profile`: Opens the player profile webpage in your browser.
+3.  `Start Chat`: Opens a private chat tab with the user.
+4.  `Invite to game`: (If you are in the Multi room) Request the user to come to your room.
+5.  `Add (Remove) as Friend`: Adds (Removes) the user at your friends list
+6.  `Report User`: Report the user for misbehavior. Should never be used unless stated otherwise. You can report a user in-game for a number of things, but also on the web, like the forums.
+7.  `Ignore User`: Any chat entry by the user will not appear in your chat console.
+8.  `Close`: Closes the panel.
 
 ## Commands list
 
