@@ -45,13 +45,13 @@ Après avoir téléchargé et installé osu!, ouvrez-le et une fenêtre nommée 
 
 Pour les techniques de jeu, vous les apprendrez en jouant. Quelques beatmaps sont intégrées au jeu au même titre que le osu!tutorial, ce qui peut être considéré comme un guide.
 
-**Note:** Si, pour une raison ou pour une autre vous n'avez pas le tutoriel, vous pouvez le télécharger [juste ici][osu!tutorial_basic]. Après avoir joué le tutoriel, vous êtes prêt à télécharger d'autres beatmaps!
+**Note:** Si, pour une raison ou pour une autre, vous n'avez pas le tutoriel, vous pouvez le télécharger [juste ici][osu!tutorial_basic]. Après avoir joué le tutoriel, vous êtes prêt à télécharger d'autres beatmaps!
 
 ## Comment jouer sur vos musiques favorites !
 _Expliquation complète: [Beatmaps][Beatmaps wikilink]_
 
 ### Étape 1 - Trouver la musique !
-Qu'est-ce qu'une beatmap me demanderiez-vous ? Comme pour tout jeu, il y aura des niveaux, ou des fois des cartes (maps). Eh bien dans osu!, nous avons les "Beatmaps" qui sont exactement ce que vous pensez, ce sont des cartes avec un rythme (beat). Trouvez des beatmaps pour une musique est facile ! Vous pouvez trouver toutes les beatmaps soumises [ici][Beatmaplist link]. Vous pouvez écrire tout type de choses pour votre recherche: le nom de la chanson, le nom de l'artiste, le nom de l'album, et même le genre ! Pour cet exemple, nous allons chercher "Coldplay - Don't Let It Break Your Heart"
+Qu'est-ce qu'une beatmap me demanderez-vous ? Comme pour tout jeu, il y aura des niveaux, ou des fois des cartes (maps). Et bien dans osu!, nous avons les "Beatmaps" qui sont exactement ce que vous pensez, ce sont des cartes avec un rythme (beat). Trouvez des beatmaps pour une musique est facile ! Vous pouvez trouver toutes les beatmaps soumises [ici][Beatmaplist link]. La recherche d'une beatmap n'est pas contrainte qu'au nom de la chanson, vous pouvez aussi utiliser le nom de la chanson, le nom de l'artiste, le nom de l'album, et même le genre ! Pour cet exemple, nous allons chercher "Coldplay - Don't Let It Break Your Heart"
 
 ![][welcome00 image]
 
@@ -74,7 +74,7 @@ Une fois que le téléchargement est fini, vous n'avez qu'à ouvrir le fichier *
 ![][welcome03 image]
 
 ### Étape 4 - Jouer pour le fun ou entrer en compétition avec les autres joueurs !
-Une fois ouvert, osu! devrait démarrer (et probablement se mettre à jour). Pour commencer à naviguer dans votre liste de beatmap, cliquez simplement sur le bouton massif osu! au centre de l'écran, cliquez sur "Play", "Solo". Votre nouvelle beatmap (ainsi que le tutoriel) devraient être listées ici. Choîsissez la difficulté que vous souhaitez jouer et voilà ! vous être un joueur d'osu! Vous voudriez peut être aussi jouer en "Multi" au lieu du "Solo" où les joueurs rivalisent entre eux. Vous aussi pouvez faire partie du fun !
+Une fois ouvert, osu! devrait démarrer (et probablement se mettre à jour). Pour commencer à naviguer dans votre liste de beatmap, cliquez simplement sur le grand bouton osu! au centre de l'écran, cliquez sur "Play", "Solo". Votre nouvelle beatmap (ainsi que le tutoriel) devrait être listée ici. Choisissez la difficulté que vous souhaitez jouer et voilà ! vous êtes un joueur d'osu! Vous voudrez peut être aussi jouer en "Multi" au lieu du "Solo" où les joueurs rivalisent entre eux. Vous aussi pouvez faire partie du fun !
 
 ![][welcome04 image]
 
@@ -83,27 +83,27 @@ Et nous y sommes ! Maintenant vous êtes prêts à jouer à osu!. Si vous avez u
 ## Modes de Jeu
 
 ### Solo
-Donc qu'est-ce que le mode de jeu "Solo" ? En gros, c'est le mode de jeu que vous pouvez jouer en ligne ou hors ligne. Ce mode de jeu n'a pas de limites, vous pouvez jouer toutes les beatmaps que vous avez, utiliser n'importe quel [Game Modifiers][Game_Modifiers wikilink] (parfois appellés "score modifiers") que vous voulez, mettre en pause le jeu quand vos mains vous font mal, et redémarrer quand vous sentez que votre score ou votre précision est trop bas. Vous pouvez aussi regarder le Leaderboard Local ou Online et voir les résultats ou voir les replays simplement en cliquant sur leurs onglets. Vous pouvez appuyer sur "F2" pour sauvegarder un replay extérieurement pour pouvoir en profiter sans avoir à le chercher.
+Donc qu'est-ce que le mode de jeu "Solo" ? En gros, c'est le mode de jeu que vous pouvez jouer en ligne ou hors ligne. Ce mode de jeu n'a pas de limite, vous pouvez jouer toutes les beatmaps que vous avez, utiliser n'importe quel [Game Modifiers][Game_Modifiers wikilink] (parfois appellés "score modifiers") que vous voulez, mettre en pause le jeu quand vos mains vous font mal, et réessayer quand vous sentez que votre score ou votre précision est trop bas. Vous pouvez aussi regarder le Classement Local ou Général et voir les résultats ou les replays simplement en cliquant sur leurs scores. Vous pouvez appuyer sur "F2" pour sauvegarder un replay extérieurement pour pouvoir en profiter sans avoir à le chercher.
 
 ### Multijoueur
 _Explication complète: [Multi][Multi wikilink]_
 
 Si vous vous sentez un peu seul en jouant en "Solo", vous pouvez toujours rejoindre le lobby multijoueur. Le minimum requis pour entrer dans ce lobby est un compte osu! connecté au client et une connection Internet décente. Pour y accéder, appuyez sur le bouton "Multi". Ici, vous y verrez des salles du niveau "Easy" à "Insane".
 
-Jouer en multijoueur est vraiment bien pour se faire des amis ainsi que comparer vos capacités avec les autres joueurs. Une fois que vous avez rejoint une salle, vous allez probablement télécharger la beatmap choisie par l'hôte. Cliquez sur "Click here to download this map" (qui devrait être sur le côté droit, dans un onglet bien rouge), et votre navigateur web devrait ouvrir la page de la beatmap sélectionnée. Cliquez juste sur le gros bouton "Download Beatmap" (vous devez être connecté pour le voir) et ouvrez le fichier .osz aussitôt que le téléchargement ait fini! Ne vous inquiétez pas si vous pensez que le téléchargement est trop long, la plupart des hôtes attendront que votre téléchargement ait fini et vous demanderont l'avancement du téléchargement. Ne soyez pas timide et donnez-le leur! Si vous sentez que ça peut prendre longtemps, vous pouvez aussi leur dire de jouer sans vous (les hôtes on une commande spécial pour ça, Force Start Game).
+Jouer en multijoueur est vraiment bien pour se faire des amis ainsi que comparer vos capacités avec les autres joueurs. Une fois que vous avez rejoint une salle, vous allez probablement télécharger la beatmap choisie par l'hôte. Cliquez sur "Click here to download this map" (qui devrait être sur le côté droit, dans un onglet bien rouge), et votre navigateur web devrait ouvrir la page de la beatmap sélectionnée. Cliquez juste sur le gros bouton "Download Beatmap" (vous devez être connecté pour le voir) et ouvrez le fichier .osz aussitôt que le téléchargement ait fini ! Ne vous inquiétez pas si vous pensez que le téléchargement est trop long, la plupart des hôtes attendront que votre téléchargement ait fini et vous demanderont l'avancement du téléchargement. Ne soyez pas timide et donnez-le leur ! Si vous sentez que ça peut prendre longtemps, vous pouvez aussi leur dire de jouer sans vous (les hôtes ont une commande spécial pour ça, Force Start Game).
 
-Le gameplay du multijoueur est légèrement différent du solo, vous ne serez pas capables de mettre le jeu en pause et les mods sont limités (les hôtes on plein pouvoir et peuvent activer le "Free Mods"). Ce qui est unique au multijoueur est le Tag Co-Op (ou Team Co-Op pour l'équivalent en équipe) et le Team VS. Aussi, vous pouvez voir le score de vos opposants/coéquipiers quand vous jouez, créant ainsi une athmosphère intense tant que vous essayez de vous maintenir au top.
+La façon de jouer en multijoueur est légèrement différente du solo, vous ne serez pas capable de mettre le jeu en pause et les mods sont limités (les hôtes on plein pouvoir et peuvent activer le "Free Mods"). Ce qui est unique au multijoueur est le Tag Co-Op (ou Team Co-Op pour l'équivalent en équipe) et le Team VS. Aussi, vous pouvez voir le score de vos opposants/coéquipiers quand vous jouez, créant ainsi une athmosphère intense tant que vous essayez de vous maintenir au top.
 
 ## La Compétitivité
 Ça peut sembler simple un jeu consistant à cliquer sur des cercles et maintenir des sliders, mais ça peut vraiment devenir intense et sérieux ! Voilà quelques choses que vous devez connaître à propos du système de classement d'osu!.
 
 ### Les Niveaux
-Le niveau du joueur ne représente que le montant total de score que le joueur a gagné sur des beatmaps ranked ou approuvées, quelle que soit la fin de la beatmap ou la définition d'un nouveau score. Pour faire court, l'expérience relative du joueur. Cependant, à l'instar d'autres jeux (lire: les jeux MMO) que vous pourriez jouer, osu! ne donne d'avantage à **aucun** joueur. Un joueur niveau 10 peut potentiellement battre un joueur niveau 100 (ça signifie juste que le joueur niveau 100 a passé plus de temps a jouer en ligne). Aussi, gardez à l'esprit que vous obtenez un meilleur score quand vous faites de vos combos (ne rater aucune note à la suite).
+Le niveau du joueur ne représente que le montant total de score que le joueur a gagné sur des beatmaps ranked ou approuvées, quelle que soit la fin de la beatmap ou la définition d'un nouveau score. Pour faire court, l'expérience relative du joueur. Cependant, à l'instar d'autres jeux (lire: les jeux MMO) que vous pourriez jouer, osu! ne donne d'avantage à **aucun** joueur. Un joueur niveau 10 peut potentiellement battre un joueur niveau 100 (ça signifie juste que le joueur niveau 100 a passé plus de temps a jouer en ligne). Aussi, gardez à l'esprit que vous obtenez un meilleur score quand vous faites des combos (ne rater aucune note à la suite).
 
 ### Les Points de Performance
 *Explication complète: [Points de Performance][Performance_Points wikilink]*
 
-Les Points de Performances (Perfomance Points, pp) est un classement métrique visant des jeux continuels comme osu!. Il vise à mettre en avant les performances du joueur plus que le temps joué. Les Points de Perfomance sont beaucoup basés sur la difficulté de la map qui est définit par un algorithme unique à chaque mode de jeu. Basée sur la difficulté seule votre score est définit et lui est assignée un valeur en pp. Votre rang de perfomance est basé sur vos performances sur les maps individuelles. Le moyen le plus simple de l'améliorer est d'améliorer ses scores sur des chansons difficiles. Sachez que les modes de jeu sont comptés séparement \[ce qui signifie que jouer (osu!/osu!taiko/osu!catch/osu!mania) augmente les pp de (osu!/osu!taiko/osu!catch/osu!mania)\].
+Les Points de Performances (Perfomance Points, pp) sont un classement métrique visant des jeux continuels comme osu!. Il vise à mettre en avant les performances du joueur plus que le temps joué. Les Points de Perfomance sont fortement basés sur la difficulté de la map qui est définie par un algorithme unique à chaque mode de jeu. Basée sur la difficulté seule, votre score est calculé et  une valeur en pp lui est assignée. Votre rang de perfomance est basé sur vos performances sur les maps individuelles. Le moyen le plus simple de l'augmenter est d'améliorer ses scores sur des chansons difficiles. Sachez que les modes de jeu sont comptés séparement \[ce qui signifie que jouer (osu!/osu!taiko/osu!catch/osu!mania) augmente les pp de (osu!/osu!taiko/osu!catch/osu!mania)\].
 
 Si vous avez des questions concernant les pp, veuillez vous référer à la [page du wiki sur les pp][Performance_Points#FAQ wikilink].
 
@@ -112,14 +112,14 @@ _Explication complète: [Précision][Accuracy wikilink]_
 
 ![Un screenshot montrant la précision d#39;un joueur après avoir fini une beatmap.][Accuracy results image]
 
-Cette mesure est la précision moyenne de tous les scores rankés du joueur. Elle est divisée en deux types, la précision globale et la précision des pp. Dans l'onglet joueur en jeu, la précision indiquée est celle des pp. Poure la précision globale, vous devrez visiter "Online Results" après avoir joué une beatmap en ligne ou vous référer à votre page de forum. Dans osu!, la précision ne couvre pas que votre précision à proprement parlé, mais aussi votre timing, il est donc important d'appuyer sur les notes parfaitement en rythme. Faites attention aux cercles d'approche !
+Cette mesure est la précision moyenne de tous les scores rankés du joueur. Elle est divisée en deux types, la précision globale et la précision des pp. Dans l'onglet joueur en jeu, la précision indiquée est celle des pp. Pour la précision globale, vous devrez visiter "Online Results" après avoir joué une beatmap en ligne ou vous référer à votre page de forum. Dans osu!, la précision ne couvre pas que votre précision à proprement parlé, mais aussi votre timing, il est donc important d'appuyer sur les notes parfaitement en rythme. Faites attention aux cercles d'approche !
 
 ### Médailles
 _Explication complète: [Succès][Achievements wikilink]_
 
-Les médailles sont de petits badges sur votre profil qui indiquent que quelqu'un a accomplit un but exceptionnel ! Les médailles peuvent être débloquées de plusieurs manières comme en jouant beaucoup ou en atteignant un certain combo sur une seule map. Quand vous remplissez le critère, vous recevrez le badge dans "Online Results" et votre onglet de médailles personnel. Cependant, le meilleur d'entre eux est la mission cachée, Hush-Hush, où le critère n'est pas connu et il en revient à vous de deviner comment l'avoir. Ils sont plutôt compliqués à avoir mais c'est satisfaisant quand vous réussissez à en obtenir un de vous-même.
+Les médailles (Medals) sont des badges sur votre profil qui montrent vos faits accomplis ! Ces médailles peuvent être débloquées de plusieurs manières : en jouant beaucoup, en atteignant un certain combo sur une seule map, etc... Quand vous remplissez le critère, vous recevrez le badge dans "Online Results" et dans votre onglet de médailles personnelles. Cependant, pour les médailles Hush-Hush, le critère est inconnu, et il n'en revient qu'à vous de deviner comment l'obtenir. Elles sont compliquées à avoir, mais vous serez satisfait quand vous réussirez à en obtenir une de vous-même.
 
-**Note:** Les badges de succès ne peuvent être débloqués qu'avec des statistiques en ligne, vous devez donc être connecté en jeu pour que votre avancement compte.
+**Note:** Les médailles ne peuvent être débloquées qu'avec des statistiques en ligne, vous devez donc être connecté en jeu pour que votre avancement compte.
 
 ## Chat
 *Explication complète: [Console de Chat][Chat_Console wikilink]*
@@ -130,7 +130,7 @@ Vous aurez quelques onglets comme "\#osu!", "\#announce", "\#userlog" ou si vous
 
 ![Liste d'amis de la Console de Chat][Chat_Console friendlist image]
 
-Voilà les bases, ne soyez pas timide et demandez de l'aide en jeu ou sur les forums, aussi le osu!wiki est ici pour vous aider à mieux appréhender le jeu.
+Voilà les bases, ne soyez pas timide et demandez de l'aide en jeu ou sur les forums. Le osu!wiki est aussi ici pour vous aider à mieux appréhender le jeu.
 
 ## Beatmapping (Edit)
 _Explication complète: [Beatmapping][Beatmapping wikilink]_
