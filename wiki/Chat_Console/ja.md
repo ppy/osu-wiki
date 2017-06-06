@@ -11,7 +11,7 @@
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **White**  | あなたです                                                                                                                                                     |
 | **Yellow** | 他の人                                                                                                                                                         |
-| **Orange** | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                      |
+| **Orange** | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                      |
 | **Red**    | BAT もしくは GMT                                                                                                                                               |
 | **Green**  | あなたの名前や指定したキーワードが含まれた文章が出た時に、"highlight"が有効になります。そのメッセージのコピーが`#highlight`のチャットチャンネルに表示されます。 |
 | **Blue**   | プライベートメッセージです                                                                                                                                     |
