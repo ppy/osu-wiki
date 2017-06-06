@@ -56,11 +56,11 @@ It is the 7th installment of the osu! World Cup.
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
-| Placing                                              | Prize(s)                                                                         |
-|------------------------------------------------------|:---------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | exclusive and unique merchandise, profile badge, "osu!taiko Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge                                  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge                                  |
+| Placing                                              | Prize(s)                                                                    |
+|------------------------------------------------------|:----------------------------------------------------------------------------|
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge                             |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge                             |
 
 ## Organization
 
