@@ -11,7 +11,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'*osu!* en a
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Blanc**  | Vous                                                                                                                                                                              |
 | **Jaune**  | Les autres utilisateurs                                                                                                                                                           |
-| **Jaune**  | ![Supporter Tag](/wiki/shared/osu!supporter.png "Supporter Tag") [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                     |
+| **Jaune**  | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                                                     |
 | **Rouge**  | BAT or GMT                                                                                                                                                                        |
 | **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
 | **Bleu**   | Un message privé                                                                                                                                                                  |
