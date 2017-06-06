@@ -57,11 +57,11 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 
 ![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
 
-1.  **Start Spectating**: Vous permet de regarder un utilisateur jouer en temps réel, et si l'utilisateur est déjà en train de regarder quelqu'un jouer, alors vous regarderez celui-ci jouer
-2.  **View Profile**: Ouvre le profil de l'utilisateur
-3.  **Start Chat**: Ouvre un chat privé avec l'utilisateur
-4.  **Add as Friend**: Ajouter l'utilisateur à vos amis
-5.  **Close**: Ferme les options d'utilisateur
+1.  `Start Spectating`: Vous permet de regarder un utilisateur jouer en temps réel, et si l'utilisateur est déjà en train de regarder quelqu'un jouer, alors vous regarderez celui-ci jouer
+2.  `View Profile`: Ouvre le profil de l'utilisateur
+3.  `Start Chat`: Ouvre un chat privé avec l'utilisateur
+4.  `Add as Friend`: Ajouter l'utilisateur à vos amis
+5.  `Close`: Ferme les options d'utilisateur
 
 ## La liste des commandes
 
