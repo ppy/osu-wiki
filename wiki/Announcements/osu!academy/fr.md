@@ -48,9 +48,9 @@ Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztr
 | [![](/wiki/Announcements/osu!academy/img/Academy_28.png)](https://www.youtube.com/watch?v=PEZFOM8NKtw "Épisode 28")   | Dans cet épisode, nous allons aborder les bases du forums, comme, par exemple, où publier et comment se comporter ! |
 | [![](/wiki/Announcements/osu!academy/img/Academy_29.png)](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Épisode 29")   | Dans cet épisode, nous aborderons les bases du storyboarding !                                         |
 | [![](/wiki/Announcements/osu!academy/img/Academy_30.png)](https://www.youtube.com/watch?v=EvICgPuOylk "Épisode 30")   | Dans cet épisode, nous couvrirons du storyboarding plus avancé !                                       |
-| [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Épisode 31")   | Dans cet épisode, nous allons aller plus en profondeur sur les difficultés d'invités et d'autres façon de contribuer aux beatmaps ! |
-| [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](https://www.youtube.com/watch?v=wa_hNegtBw0 "Épisode 32")   | In this episode, we will go over the new ranking system!                                              |
-| [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](https://www.youtube.com/watch?v=_-Xke2bqzok "Épisode 33")   | In this episode, we will cover more advanced editor tips!                                              |
+| [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Épisode 31")   | Dans cet épisode, nous irons plus en profondeur sur les difficultés d'invités et d'autres façon de contribuer aux beatmaps ! |
+| [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](https://www.youtube.com/watch?v=wa_hNegtBw0 "Épisode 32")   | Dans cet épisode, nous aborderons le nouveau système de classement !                                   |
+| [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](https://www.youtube.com/watch?v=_-Xke2bqzok "Épisode 33")   | Dans cet épisode, nous couvrirons des conseils plus avancés sur l'éditeur !                             |
 
 ## Liens Externes
 
