@@ -1,22 +1,28 @@
-Conquistas/Packs0916
-=========================
+[media-anime-vol-1]: http://www.mediafire.com/?9n65pm9fp8yp5bn
+[media-anime-vol-2]: http://www.mediafire.com/?722os55j52ikylq
+[media-anime-vol-3]: http://www.mediafire.com/?tky7bjc58hcno6b
+[media-anime-vol-4]: http://www.mediafire.com/?j5b5b6bimr5ahdv
+[yas-anime-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T4
+[yas-anime-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T6
+[yas-anime-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T15
+[yas-anime-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T30
+[media-rhythm-vol-1]: http://www.mediafire.com/?87n2agcrcgmwxob
+[media-rhythm-vol-2]: http://www.mediafire.com/?axvxrnx637767ls
+[media-rhythm-vol-3]: http://www.mediafire.com/?781tio8fge7y7d2
+[media-rhythm-vol-4]: http://www.mediafire.com/?6hc29ws6j36dcag
+[yas-rhythm-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T9
+[yas-rhythm-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T2
+[yas-rhythm-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T16
+[yas-rhythm-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T32
 
-***[Clique aqui para retornar à página "Conquistas"](/wiki/Achievements/pt-br.md)***
+Pacotes de Beatmap
+=============
+
+***[Clique aqui para retornar à página "Conquistas"](../)***
 
 Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](http://osu.ppy.sh/news/137535031193).
 
-
-Curiosidades
----------
-
--   16 pacotes. (4 temas x 4 volumes)
-    -   1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
--   [211 canções](RH_Beatmap_packs.jpg) (206 + [3](http://osu.ppy.sh/s/2490) ![](/wiki/shared/Heart.gif) rankeadas, 1 ![](/wiki/shared/Fire.gif) [aprovada](http://osu.ppy.sh/b/21010) e 1 [pendente](http://osu.ppy.sh/b/19630))
--   [662 dificuldades](RH_Beatmap_packs_difficulties.jpg) (660 ![](/wiki/shared/Heart.gif) rankeadas, 1 ![](/wiki/shared/Fire.gif) [aprovadas](http://osu.ppy.sh/b/21010) e 1 [pendente](http://osu.ppy.sh/b/19630))
--   [1.39 GB (compactado), 1.47 GB (importado)](RH_Beatmap_packs_comparison.jpg)
--   3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
-
-Anime Pack
+Pacote Anime
 -----------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
@@ -105,7 +111,7 @@ Anime Pack
 
 
 
-Internet Pack
+Pacote Internet
 ---------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
@@ -192,7 +198,7 @@ Internet Pack
 
 
 
-Rhythm Game Music Pack
+Pacote Jogos de Ritmo
 ------------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
@@ -280,7 +286,7 @@ Rhythm Game Music Pack
 * [M2U - Memory of Beach](http://osu.ppy.sh/s/22401)
 
 
-Video Game Music Pack
+Pacote Jogos
 -----------------------
 
 ### Volume 1 (LuigiHann/DeathxShinigami [2011])
@@ -363,28 +369,17 @@ Video Game Music Pack
 * [Crush 40 - Sonic Heroes](http://osu.ppy.sh/s/21836)
 * [Anamanaguchi - Scott Pilgrim Anthem](http://osu.ppy.sh/s/23073)
 
+Curiosidades
+---------
 
-
+-   16 pacotes. (4 temas x 4 volumes)
+    -   1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
+-   211 canções (206 + [3](http://osu.ppy.sh/s/2490) ![](/wiki/shared/Heart.gif) rankeadas, 1 ![](/wiki/shared/Fire.gif) [aprovada](http://osu.ppy.sh/b/21010) e 1 [pendente](http://osu.ppy.sh/b/19630))
+-   662 dificuldades (660 ![](/wiki/shared/Heart.gif) rankeadas, 1 ![](/wiki/shared/Fire.gif) [aprovadas](http://osu.ppy.sh/b/21010) e 1 [pendente](http://osu.ppy.sh/b/19630))
+-   1.39 GB (compactado), 1.47 GB (importado)
+-   3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
 
 Agradecimentos especiais
 ---------------
 
 -   [Wayback Machine](http://archive.org/web/)
-
-
-[media-anime-vol-1]: http://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: http://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: http://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: http://www.mediafire.com/?j5b5b6bimr5ahdv
-[yas-anime-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T4
-[yas-anime-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T6
-[yas-anime-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T15
-[yas-anime-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T30
-[media-rhythm-vol-1]: http://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: http://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: http://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: http://www.mediafire.com/?6hc29ws6j36dcag
-[yas-rhythm-vol-1]: http://osu.yas-online.net/tagthis.php?tag=T9
-[yas-rhythm-vol-2]: http://osu.yas-online.net/tagthis.php?tag=T2
-[yas-rhythm-vol-3]: http://osu.yas-online.net/tagthis.php?tag=T16
-[yas-rhythm-vol-4]: http://osu.yas-online.net/tagthis.php?tag=T32
