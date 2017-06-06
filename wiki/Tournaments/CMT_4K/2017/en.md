@@ -53,9 +53,9 @@ Update after group stage starts.
 
 17, June 15:00 (UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
 
-"The Elder" Team: **[gpf19851210](https://osu.ppy.sh/users/711748)** [IDSxianyu](https://osu.ppy.sh/users/7403556) [Cideisbiantai]() [Scslag](https://osu.ppy.sh/users/6705256) [hans1999](https://osu.ppy.sh/users/6679329) [w765333805](https://osu.ppy.sh/users/6423706)
+"The Elder" Team: **[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Cideisbiantai]() [Scslag](https://osu.ppy.sh/u/6705256) [hans1999](https://osu.ppy.sh/u/6679329) [w765333805](https://osu.ppy.sh/u/6423706)
 
-"The Cutting-edge" Team: **[Moting](https://osu.ppy.sh/users/4902208)** [Mof](https://osu.ppy.sh/users/4985718) [liberavi](https://osu.ppy.sh/users/3308844) [prelude8792916](https://osu.ppy.sh/users/8063030) [qiluo](https://osu.ppy.sh/users/9424823) [wjh123](https://osu.ppy.sh/users/1147820) [xxxx](https://osu.ppy.sh/users/2349377)
+"The Cutting-edge" Team: **[Moting](https://osu.ppy.sh/u/4902208)** [Mof](https://osu.ppy.sh/u/4985718) [liberavi](https://osu.ppy.sh/u/3308844) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
 
 ## Mappools
 
