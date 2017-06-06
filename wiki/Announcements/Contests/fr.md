@@ -9,8 +9,8 @@
 
 Notes:
 
-- Le gagant de ce concours recevra le titre de forum "Elite Mapper"
-- Seulement les gagants du #1 au #5 ont leur beatmap intégrées (avec [osu!tutorial](https://osu.ppy.sh/s/3756) dans [osu!installer](https://osu.ppy.sh/p/download).
+- Le gagnant de ce concours recevra le titre de forum "Elite Mapper"
+- Seulement les gagnants du #1 au #5 ont leur beatmap intégrée (avec [osu!tutorial](https://osu.ppy.sh/s/3756) dans [osu!installer](https://osu.ppy.sh/p/download).
   Ce n'est pas le cas pour le reste sauf mention contraire.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mappeur                                         | Résultats                                         | Scores                                                 |
@@ -38,7 +38,7 @@ Notes:
 Notes:
 
 - Les deux gagnants (par vote du public et du staff) vont avoir chacun un an entier de supporter et une osu!tablet/Peluche Pippi.
-- Les concourants obtiennent un mois de tag supporter.
+- Les participants obtiennent un mois de tag supporter.
 
 Vous pouvez voir une galerie de chaque concours sur la [page Facebook](https://www.facebook.com/osugame).
 
@@ -49,7 +49,7 @@ Pour voir le contenu complet des concours de fanart, voir [Monthly Fanart Contes
 Notes:
 
 - Le gagnant obtient un **osu! store pack** (1x osu!tablet, 1x set de stickers osu!, 1x set de stickers osu! #2, et [6 mois de supporter](/wiki/osu!supporter)).
-- Les concourants obtiennent [4 mois de supporter](/wiki/osu!supporter).
+- Les participants obtiennent [4 mois de supporter](/wiki/osu!supporter).
 
 | Concours No. | Titre                           | Conditions                                   | Sélections gagnantes | News                                         | Résultats |
 |:------------:|---------------------------------|----------------------------------------------|----------------------|----------------------------------------------|-----------|
@@ -83,7 +83,7 @@ Notes:
 - [Page d'archive pour toutes les étapes (voir par onglet sous le tableur)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [Post des news](https://osu.ppy.sh/news/125447383718)
 - [Post officiel](https://osu.ppy.sh/news/134589253878)
-- [Offical post](https://osu.ppy.sh/forum/t/352608)
+- [Post officiel](https://osu.ppy.sh/forum/t/352608)
 
 ### 2016
 

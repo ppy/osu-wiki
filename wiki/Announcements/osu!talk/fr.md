@@ -5,7 +5,7 @@
 **osu!talk** est une série de podcasts présenté par [ztrot](https://osu.ppy.sh/u/6347) avec [deadbeat](https://osu.ppy.sh/u/128370).
 
 Cette série consiste à interviewer plusieurs utilisateurs de la osu!community.
-En plus de cela, Il y a quelques groupes de discussions à propos de différentes choses arrivant autour de la communauté comme des changements dans l'équipe, ou des problèmes à long terme comme l'overmapping.
+En plus de cela, il y a quelques groupes de discussions à propos de différentes choses arrivant autour de la communauté comme des changements dans l'équipe, ou des problèmes à long terme comme l'overmapping.
 Tout le monde est libre de venir et poser des questions durant les diffusions en direct et la partie [Q&A](https://en.wikipedia.org/wiki/Q%26A) de l'épisode.
 Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateurs à nous rejoindre et à y prendre part.
 

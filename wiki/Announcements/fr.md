@@ -1,6 +1,6 @@
 # Annoncements
 
-Les pages ci-dessous sont relatés aux plus anciens ou plus nouveaux sujets de la osu!community.
+Les pages ci-dessous sont relatées aux plus anciens ou plus nouveaux sujets de la osu!community.
 
 - [Archive](Archive): Une archive des annoncements passés.
 - [Concours](Contests): Une archive des concours passés.

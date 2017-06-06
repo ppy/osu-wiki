@@ -4,8 +4,8 @@
 
 **osu!academy** vise à apporter de la compréhension à tous les aspects d'osu!, du jeu au mapping, avec tout ce qu'il y a entre.
 
-Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aider à comprendre le jeu sans accros.
-Si vous avez des questions ou des commentaires, veuillez les reposrter à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
+Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aident à comprendre le jeu sans problèmes.
+Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
 
 [Maintenant avec une bande-annonce](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg)
 
@@ -26,7 +26,7 @@ Si vous avez des questions ou des commentaires, veuillez les reposrter à [ztrot
 | [![](/wiki/Announcements/osu!academy/img/Academy_8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ "Épisode 8")     | Les hitsounds (6:14)                                                                                   |
 | [![](/wiki/Announcements/osu!academy/img/Academy_9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Épisode 9")     | Le modding (1/2) (4:18)                                                                                 |
 | [![](/wiki/Announcements/osu!academy/img/Academy_10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Épisode 10")   | Le modding (2/2) (4:51)                                                                                 |
-| [![](/wiki/Announcements/osu!academy/img/Academy_11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM "Épisode 11")   | Les modes et les moyens de s'améliorer à osu!standard (6:20)                                           |
+| [![](/wiki/Announcements/osu!academy/img/Academy_11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM "Épisode 11")   | Les modes et les moyens de s'améliorer sur osu!standard (6:20)                                         |
 | [![](/wiki/Announcements/osu!academy/img/Academy_12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY "Épisode 12")   | Les bases du mapping en taiko (4:28)                                                                   |
 | [![](/wiki/Announcements/osu!academy/img/Academy_13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw "Épisode 13")   | Personnalisez le look de osu! avec des skins (6:11)                                                     |
 | [![](/wiki/Announcements/osu!academy/img/Academy_14.png)](https://www.youtube.com/watch?v=dyDMyB9D420 "Épisode 14")   | Les bases du mapping en Catch the Beat (5:38)                                                           |
@@ -42,12 +42,13 @@ Si vous avez des questions ou des commentaires, veuillez les reposrter à [ztrot
 | [![](/wiki/Announcements/osu!academy/img/Academy_24.png)](https://www.youtube.com/watch?v=pq33jvMitRk "Épisode 24")   | S'améliorer à faire les streams (gameplay) avec Kyonko Hizara (6:14)                                   |
 | [![](/wiki/Announcements/osu!academy/img/Academy_25.png)](https://www.youtube.com/watch?v=sgcdrxevAT4 "Épisode 25")   | Parlons un peu plus des équipes du staff!
           |
-| [![](/wiki/Announcements/osu!academy/img/Academy_26.png)](https://www.youtube.com/watch?v=y61v2QCHlpY "Épisode 26")   | The following episode of the osu! academy is brought to you by a public service announcement!           |
-| [![](/wiki/Announcements/osu!academy/img/Academy_27.png)](https://www.youtube.com/watch?v=nXWA1Qh9bT8 "Épisode 27")   | In this episode, we will go over how to make and share your own guest difficulties!                     |
-| [![](/wiki/Announcements/osu!academy/img/Academy_28.png)](https://www.youtube.com/watch?v=PEZFOM8NKtw "Épisode 28")   | In this episode, we will cover forum basics such as where to post and correct behaviour!               |
-| [![](/wiki/Announcements/osu!academy/img/Academy_29.png)](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Épisode 29")   | In this episode, we will cover the basics of storyboarding!                                             |
-| [![](/wiki/Announcements/osu!academy/img/Academy_30.png)](https://www.youtube.com/watch?v=EvICgPuOylk "Épisode 30")   | In this episode, we will cover more advanced storyboarding!                                             |
-| [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Épisode 31")   | In this episode, we will go further in-depth about guest difficulties and other beatmap contributions! |
+| [![](/wiki/Announcements/osu!academy/img/Academy_26.png)](https://www.youtube.com/watch?v=y61v2QCHlpY "Épisode 26")   | Cet épisode d'osu!academy vous est offert par une annonce des services public !
+          |
+| [![](/wiki/Announcements/osu!academy/img/Academy_27.png)](https://www.youtube.com/watch?v=nXWA1Qh9bT8 "Épisode 27")   | Dans cet épisode, nous vous expliquerons comment faire et partager vos propres difficultés d'invités ! |
+| [![](/wiki/Announcements/osu!academy/img/Academy_28.png)](https://www.youtube.com/watch?v=PEZFOM8NKtw "Épisode 28")   | Dans cet épisode, nous allons aborder les bases du forums, comme, par exemple, où publier et comment se comporter ! |
+| [![](/wiki/Announcements/osu!academy/img/Academy_29.png)](https://www.youtube.com/watch?v=uvCRwcyJ4TA "Épisode 29")   | Dans cet épisode, nous aborderons les bases du storyboarding !                                         |
+| [![](/wiki/Announcements/osu!academy/img/Academy_30.png)](https://www.youtube.com/watch?v=EvICgPuOylk "Épisode 30")   | Dans cet épisode, nous couvrirons du storyboarding plus avancé !                                       |
+| [![](/wiki/Announcements/osu!academy/img/Academy_31.png)](https://www.youtube.com/watch?v=s2ZK4o8V5tI "Épisode 31")   | Dans cet épisode, nous allons aller plus en profondeur sur les difficultés d'invités et d'autres façon de contribuer aux beatmaps ! |
 | [![](/wiki/Announcements/osu!academy/img/Academy_32.png)](https://www.youtube.com/watch?v=wa_hNegtBw0 "Épisode 32")   | In this episode, we will go over the new ranking system!                                              |
 | [![](/wiki/Announcements/osu!academy/img/Academy_33.png)](https://www.youtube.com/watch?v=_-Xke2bqzok "Épisode 33")   | In this episode, we will cover more advanced editor tips!                                              |
 

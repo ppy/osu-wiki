@@ -38,7 +38,7 @@
 
 ![Participation](img/1s.jpg)
 
-### Seconds (Pas d'Ordre Particulier)
+### Participations Notables (Pas d'Ordre Particulier)
 
 - par [koelgamom](https://osu.ppy.sh/u/1521051)
 

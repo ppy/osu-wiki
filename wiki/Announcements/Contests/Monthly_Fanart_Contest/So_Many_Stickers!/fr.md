@@ -39,7 +39,7 @@
 
 ![Participation](img/3p.jpg)
 
-### Seconds (Pas d'Ordre Particulier)
+### Participations Notables (Pas d'Ordre Particulier)
 
 - par [Jazz](https://osu.ppy.sh/u/743006)
 

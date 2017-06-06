@@ -38,7 +38,7 @@
 
 ![Participation](img/1s.jpg)
 
-### Seconds (Pas d'Ordre Particulier)
+### Participations Notables (Pas d'Ordre Particulier)
 
 <!-- Runner-up below and 3rd Public Pick were the same -->
 - par [RedViolet](https://osu.ppy.sh/u/2221040)
