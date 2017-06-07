@@ -21,8 +21,8 @@ Il y a trois types de précision:
 Pour faire simple:
 
 - la précision par beatmap dépend des [Hit-scores][Score wikilink],
-- la difficulté générale dépend des précisions de chaque score soumis,
-  - notez que la précision sera calculée de sorte que les meilleurs score influencent plus que les moins bons,
+- la précision globale dépend des précisions de chaque score soumis,
+  - notez que la précision sera calculée de sorte que les meilleurs scores influencent plus que les moins bons,
 - la précision des pp dépend de la précision de chaque score éligible au gain de pp soumis en ligne.
 
 ## Modes de Jeu
