@@ -329,6 +329,8 @@
 "mod_4_mod":                   "Glossary/#m4m"
 "mod_for_mod":                 "Glossary/#m4m"
 "marathon":                    "Glossary/#marathon"
+"mat":                         "Glossary/#mat"
+"modding_assistance_team":     "Glossary/#mat"
 "modder":                      "Glossary/#modder"
 
 "nc_glossary":                 "Glossary/#nc"
@@ -740,6 +742,8 @@
 "beatmap_nominator":           "People/Beatmap_Nomination_Group"
 "bng":                         "People/Beatmap_Nomination_Group"
 "bn":                          "People/Beatmap_Nomination_Group"
+"bat":                         "People/Beatmap_Nomination_Group#history"
+"beatmap_appreciation_team":   "People/Beatmap_Nomination_Group#history"
 "community_contributors":      "People/Community_Contributors"
 "community_contributor":       "People/Community_Contributors"
 "cc":                          "People/Community_Contributors"
