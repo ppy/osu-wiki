@@ -2,6 +2,8 @@
 [ASG]: /wiki/Article_Style_Guide "Article Style Guide"
 [GitHub osu-wiki]: https://github.com/ppy/osu-wiki "osu-wiki in GitHub"
 [GH Issue]: https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page"
+[Commit Changes]: #commit-changes "Commit Changes"
+[FAQ]: #faq "FAQ in osu!wiki"
 
 <!-- External -->
 [osu!dev Discord]: https://discord.gg/ppy "osu!dev in Discord"
@@ -22,8 +24,11 @@
 [GFM]: https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help on Writing on GitHub"
 [GH Help feature branch]: https://help.github.com/articles/what-is-a-good-git-workflow/ "GitHub Help on Git workflow"
 [GH Guide feature branch]: https://guides.github.com/introduction/flow/ "Interactive visual Git workflow"
+[GH Help manage repo]: https://help.github.com/categories/managing-files-in-a-repository/ "GitHub Help on Managing files in a repository"
+[GH Help delete]: https://help.github.com/articles/deleting-files/ "GitHub Help on Deleting files"
 [GH Help Git setup]: https://help.github.com/articles/set-up-git/ "GitHub Help in Setting up Git"
 [GH Help fork]: https://help.github.com/articles/fork-a-repo/ "GitHub Help on fork a repo"
+[GH Blog move/rename]: https://github.com/blog/1436-moving-and-renaming-files-on-github "GitHub Blog on Moving and Renaming Files on GitHub"
 [GH Help cache git password]: https://help.github.com/articles/caching-your-github-password-in-git/ "GitHub help on Caching GitHub Password in Git"
 [GH Help webbranch view]: https://help.github.com/articles/viewing-branches-in-your-repository/ "GitHub Help in viewing branches in your repository"
 [GH Help webmerge conflicts]: https://help.github.com/articles/about-merge-conflicts/ "GitHub Help about merge conflicts"
@@ -38,6 +43,7 @@
 [Shiba]: https://github.com/rhysd/Shiba "Shiba"
 [Git]: https://git-scm.com/ "Git"
 [Git Extensions]: https://gitextensions.github.io/ "Git Extensions"
+[Git Extension User Manual]:https://git-extensions-documentation.readthedocs.io/en/latest/index.html "
 
 # How to contribute to the osu!wiki
 
@@ -56,6 +62,8 @@ For complete reference and help with using GitHub, please visit [GitHub Help][Gi
 For a styling guide when writing a page, check out [Article Style Guide][ASG] instead.
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
+
+Frequently-Asked-Questions (FAQ) for osu!wiki development in GitHub can be found at the last header of the page, namely [FAQ][FAQ].
 
 Reading time for the whole page is around an hour.
 
@@ -78,7 +86,7 @@ Optionally, if you plan to make changes locally:
 - A Markdown previewer with **GFM** support.
   - We use [Shiba][Shiba] or Visual Studio Code's/Atom's built-in GFM previewers.
 - Basic knowledge in VCS (Version control system), particularly in using [Git][Git].
-  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
+  - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions] ([Git Extension User Manual][Git Extension User Manual]).
   - Some editors (like Visual Studio Code) may provide a Git interface.
 
 ## Forking osu-wiki repository
@@ -128,7 +136,7 @@ In the event of major slip-ups, you can cut off the branch and start a new branc
 
 #### Accessing the correct repository and branch.
 
-If you don't want the hassle of cloning your fork into your local machine, GitHub offers a web editor for editing through your browser.
+If you do not want the hassle of cloning your fork into your local machine, GitHub offers a web editor for editing through your browser.
 
 First, visit your own forked repo (you can rename the ``ppy`` part in ``https://github.com/ppy/osu-wiki`` with your own GitHub's name for quicker access or click on the "Fork" button in ``ppy/osu-wiki``).
 
@@ -140,6 +148,7 @@ You should be in the ``master`` branch by default.
 
 Click on the ``Branch: master`` dropdown button.
 There may be some branches shown but the only important branch is the ``master`` branch.
+
 Type in your new branch name in the textbox shown with translucent text, "Find or create a branch...".
 Hit ``Enter`` key to go to the branch name.
 If the branch name was not found, a new branch based on ``master`` branch will be made.
@@ -154,18 +163,14 @@ You are now all set to make changes safely with a solid bailout plan.
 
 #### Updating the branch content
 
+Reference: [GitHub Help on Managing files in a repository][GH Help manage repo]
+
 ![GitHub Folder Preview](./img/Contribute_folderview.jpg "GitHub Folder Preview")
 
 _Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
 All article pages inside these folders must use the two letter language codes.
-To know which language code to use, see the [List of ISO 639-1 codes][ISO 639-1] following the `639-1` column.
+To know which language code to use, see the [List of ISO 639-1 codes][ISO 639-1] following the ``639-1`` column.
 Please follow this format when creating a new article._
-
-To edit a page, go to the folder of that page and select the language of the article.
-
-From here, you should see something like this:            
-
-![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
 
 ##### Add a file
 
@@ -175,17 +180,14 @@ If you cannot find your language code inside the folder, click on the "Create ne
 
 You will be given an empty file with no filename given, as shown above.
 
-Name the file in accordance to two letter [ISO 639-1 codes][ISO 639-1] of your language, following the `639-1` column, with an ``.md`` file extension at the end, all in lowercase.
+Name the file in accordance to two letter [ISO 639-1 codes][ISO 639-1] of your language, following the ``639-1`` column, with an ``.md`` file extension at the end, all in lowercase.
 For example, if you are writing in Japanese, then name it as ``jp.md``.
 
 Write on the empty file content.
 
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your file creation to other contributors.
+After making your changes, scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your file creation to other contributors.
 
-##### Add a directory/folder
-
-**Before adding a directory, please explain what you are doing in the [Issues][GH Issue] tab to prevent wasted effort and connection usage.
-This is because once you upload the directory, renaming or moving the directory must be done using Git.**
+##### Add a directory (folder)
 
 To add a directory, prepare a properly named folder with at least a filled file inside and nothing else.
 The file must follow the naming convention of [ISO 639-1 codes][ISO 639-1]
@@ -197,7 +199,15 @@ Then, click on the "Upload files" button.
 
 Drag and drop the folder to the upload window.
 
-After uploading your changes, scroll down to _Commit Changes_ and fill the following fields to explain your upload to other contributors.
+After uploading your changes, scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your upload to other contributors.
+
+#### Web Editor
+
+To edit a page, go to the folder of that page and select the language file of the article.
+
+From here, you should see something like this:            
+
+![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
 
 ##### Update a file
 
@@ -209,14 +219,46 @@ This should redirect you to the web editor.
 If you want to preview your changes, click the "Preview Changes" tab.
 Click the "Edit File" tab to continue editing the file.
 
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your edit(s) to other contributors.
+After making your changes, scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your edit(s) to other contributors.
+
+##### Moving/Renaming a file
+
+Reference: [GitHub Blog on Moving and Renaming Files on GitHub][GH Blog move/rename]
+
+If the file was available but need to be moved/renamed, click on the pencil icon to edit.
+This should redirect you to the web editor.
+
+At the top of the web editor, you can modify the filename and even relocate the location of the file.
+
+- ``<new folder name>/<file name>` will move or create a new subdirectory and will place the file into the subdirectory.
+- ``../<file name>`` will move the file up by one level.
+
+After making your changes, scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your edit(s) to other contributors.
+
+_Note: For folder relocation or renaming, it is better to use a local Git Service rather than using the GitHub Web Editor.
+Each file to be moved/renamed must be modified manually one-by-one to the new directory.
+**There is no support for moving/renaming a folder with file(s) directly**.
+If it is the last file in the folder, the folder will be deleted after the commit._
+
+##### Deleting a file
+
+Reference: [GitHub Help on Deleting files][GH Help delete]
+
+You can directly delete the file by clicking on the trashcan/dustbin/garbagebin icon.
+
+After clicking the icon, you will be shown the file to be deleted preview and you should scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your edit(s) to other contributors.
+
+_Note: For major file deletion or folder deletion, it is better to use a local Git Service rather than using the GitHub Web Editor.
+Each file deletion must be done manually one-by-one.
+**There is no support for deleting a folder with file(s) directly**.
+If it is the last file in the folder, the folder will also be deleted after the commit._
 
 #### Commit Changes
 
 ![Commit Message](./img/Contribute_webcommit.jpg "Commit Message")
 
 _**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get accepted!
-Also, please write it in English.**_
+Also, please write it in English and the title of the commit should be descriptive enough to understand the commit significance in a glance.**_
 
 You would be given an option where to save your edits.
 
@@ -324,7 +366,7 @@ Read what was given for the quit command.
 If you have an adversity to terminal text editor, and want to use a familiar text editor like Notepad++ or GitHub's Atom instead, [swcarpentry provides a guide to set Git to always use that instead][Git set default editor].
 
 If you are fine with the given terminal text editor, then you can skip the above configuration and read below.
-If you already set your own, ignore below and head to the next header.
+If you already set your own, ignore below and [head to the next header (Accessing your local copy)](#accessing-your-local-copy "Accessing your local copy").
 
 ---
 
@@ -379,9 +421,9 @@ cd osu-wiki
 
 Assuming you are following the guide and did not do any modification to Git Bash/terminal (saving the cloned osu-wiki repository in your user home's folder):
 
-- The first command tells the terminal to go back to your home directory, `~` (if you somehow end up somewhere).
+- The first command tells the terminal to go back to your home directory, ``~`` (if you somehow end up somewhere).
   - An alternative method is to reopen the Git Bash/terminal again.
-- The second command, using the terminal command, `cd`, will move the terminal down to ``osu-wiki`` if found, which is where your freshly created local copy is at.
+- The second command, using the terminal command, ``cd``, will move the terminal down to ``osu-wiki`` if found, which is where your freshly created local copy is at.
 
 or
 
@@ -433,7 +475,7 @@ git push origin <branchname>
 You are now in the new branch you created and its time to make some local changes.
 Go ahead and mess with the ``osu-wiki`` directory content.
 
-#### Updating the branch content
+#### Updating the local branch content
 
 After making your changes locally (such as add/delete/rename/move/modify files/folders), you will need to commit (update) this on your local copy.
 
@@ -441,8 +483,9 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "<commit message>" -m "<long description>"
+git commit -am "<short title>" -m "<long description>"
 ```
+
 or alternatively:
 
 ```prolog
@@ -450,28 +493,28 @@ cd ~/osu-wiki
 git add <changed_file_path_with_the_actual_file>
 git commit -m "<short title>" -m "<long description>"
 ```
-#### The first command set
 
- - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
- - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+- The first command set
+  - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
+  - The second command will **stage everything** that was changed and directly commit using the message provided. The command will also takes a snapshot of the GitHub repository (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+- The second command set
+  - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
+  - The second command will **stage** the file/folder path specified.
+    - You can also substitute ``<changed_file_path_with_the_actual_file>`` with ``.`` to **stage everything**, including untracked and changed files.
+  - The third command takes a snapshot of the GitHub repository (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
 
-#### The second command set
 
-- The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
-- The second command will **stage everything**, including untracked and changed files.
-  - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
-- The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
-  
- 
  **A few things to note:**
 
 - Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
 - Also, write the commit message in **English**.
 - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
-  
+
 
 _Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default or your predefined text-editor instead to write your summary.
 If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._
+
+#### Updating the remote branch content
 
 After committing your changes, you need to push the commits to GitHub so everyone can see it.
 
@@ -481,8 +524,8 @@ To do this, enter the following to your CLI:
 git push origin <branchname>
 ```
 
-This should prompt you to enter your GitHub login credentials.
-After you enter them, this should push your commits to GitHub.
+The command may prompt either a pop-up form or a terminal request to enter your GitHub login credentials (username and password).
+After you enter them, the command will push your local commits of the branch to GitHub.
 
 **Note:**
 
@@ -495,7 +538,7 @@ After you enter them, this should push your commits to GitHub.
 
 ### Finding the pull request button
 
-After pushing your commits, you must make a "Pull Request"(abbreviated as "PR").
+After pushing your commits, you must make a "Pull Request" (abbreviated as "PR").
 This lets us know that your commits are ready to be reviewed.
 
 ![Pull Request Tab](./img/Contribute_pr1.jpg "Pull Request Tab")
@@ -552,7 +595,6 @@ Now after viewing your changes, click "Create Pull Request" and fill it with the
 - **Title** : The summary of the changes you have made
   - It is really important to have a meaningful and clear title, otherwise it will cause confusion
   - Please write it in **English**
-
 - **Leave a Comment** : The details of the changes you have made
   - Also, write it in **English**
 
@@ -575,7 +617,7 @@ Two important things you must do at all cost:
 1. Updating your ``master`` branch to the latest official ``master`` commit.
 2. If the branch has merge conflicts, fix it immediately.
 
-Updating a branch and cleaning up stale/merged branches is an optional personal task.
+Updating a branch and cleaning up stale/merged branches is an optional personal maintainance task.
 
 ### Through GitHub's Web Editor
 
@@ -712,7 +754,7 @@ git push origin <branchname>
   - You only need to fetch once before attempting to update all the local branches.
     - For other branches, continue directly to the second command after you fetched and merged the first branch.
 - The second command attempts to merge the official master branch changes to your current branch.
-  - If a merge conflict arise, refer to _Merge conflict_ below on how to resolve it.
+  - If a merge conflict arise, refer to _[Merge conflicts](#merge-conflicts.2 "Merge conflicts")_ header below on how to resolve it.
     In this case, the merge commit will fail, and you must do the regular commit after solving the conflict.
   - If the local merge commit was successful, Git will ask for a commit message with a default given for this merge commit using the terminal text-editor/your text-editor.
     Just exit it (the default message is more than enough to explain the commit itself).
@@ -787,9 +829,9 @@ The procedure is basically:
 5. Return to Step 3, until no more merge conflicts in this file.
 6. Save the file.
 7. Continue with other files starting with Step 2.
-8. Pick the image you want to keep by deleting the old ones.
+8. Pick the image you want to keep by deleting the old one if there is an image merge conflict.
 
-Once the ``git status`` gives all-green answer in your Git Bash/terminal, commit and push the changes.
+Once the ``git status`` gives all-green answer in your Git Bash/terminal, [commit and push the changes](#pushing-solved-merge-conflicts "Pushing solved merge conflicts").
 
 ##### Mergetool
 
@@ -821,13 +863,18 @@ The current osu!wiki supports **GFM syntax only**.
 
 GFM is based on Markdown; which is basically a simplified subset of important HTML tags for styles that contains:
 
+```Markdown
 - **bold**
 - _italics_
 - ~~strikethrough~~
-- `code` (inline and block)
-- order lists
+- `inline code`
+  - ``inline code with allowed grave marks``
+  - ```multi-line block code```
+- ordered lists
 - bulleted lists
 - images
+- path linking
+```
 
 With GFM, we can also use:
 
@@ -864,15 +911,15 @@ Do note that it is only applied to **Git usage only**, and is not related to two
 Use the search engine of your choice and type in your help request.
 If you cannot find the answer, you are not trying hard enough or your question is too ambiguous.
 Use only the keywords or refine your search and try again.
-Usually, copy-and-paste the issue code directly might get you an answer, but effectiveness varies.
+Usually, copy-and-paste the issue code directly _might_ get you an answer, but effectiveness varies.
 
 For further help, you can ask someone in the [osu!dev Discord chat][osu!dev Discord] (``#osu-wiki`` channel).
-Make a Discord account if you have not and go to the `#arrival` channel first if this is your first time to state your reason of being here.
+Make a Discord account if you have not and go to the ``#arrival`` channel first if this is your first time to state your reason of being here.
 Depending on severity of the problem and members' active time, you may or may not get the answer.
 
 You _could_ also make an issue in [osu-wiki's Issues tab][GH Issue] to get help; however, the response time will vary and likely to be ignored if it is off-topic or trivia issue.
 
-Alternatively, if you are on Git, prefers to discover a way of solving yourself, have no connection right now, and do not mind reading the manual with its own terminology, use
+Alternatively, if you have Git installed, prefers to discover a way of solving yourself, have no connection right now, and do not mind reading the manual with its own terminology, use
 
 ```prolog
 git
@@ -894,7 +941,7 @@ git help pull
 
 This will open your default browser with the manual of the command written as a HTML page.
 
-Also, terminal commands will work as usual; Git is just one of the installed additional feature in terminal environment which can be called by `git` keyword.
+Also, terminal commands will work as usual; Git is just one of the installed additional feature in terminal environment which can be called by ``git`` keyword.
 
 ### What happened to the old osu!wiki?
 
@@ -910,16 +957,8 @@ You can make mass changes easily and efficiently, and you can delay your changes
 Unlike the old osu!wiki, changes has to be made via pull requests which are then reviewed for errors and myths before merging by someone with write permission to the master branch.
 This adds a layer of security against spammers and vandals.
 
-All linking must be done manually, and must be done using strict static linking without any filepath errors.
-
-A few things to take note when linking:
-
-- **Any typos in the link** will cause a **404 Not found** error.
-- **No redirects**.
-  - It is a known issue since it requires specific configuration from osu!web part and no formulated syntax support to redirect ``DT`` keyword to ``Game_Modifier#-double-time`` section of the page rather than to the top of the ``Game_Modifiers`` page, for now.
-
-Addition, deletion, moving, and renaming of media is easier now and requires no special wiki function (except for moving files/folders and renaming folders, which requires Git usage).
-However, this has to undergo the pull request protocol.
+Addition, deletion, moving, and renaming of media is easier now and requires no special wiki function.
+However, this too has to undergo the pull request protocol.
 While osu!wiki will resize images to the width size limit if the image is too large, specific media size requirements must be handled manually.
 
 The most damaging change for pages that use it liberally would be **no Templates support**.
@@ -929,6 +968,7 @@ Tables are supported by a bare-minimum with GFM (without extensions), unlike Med
 
 Markdown is sensitive, as using the wrong capitalization in links can break them (i.e. links and images).
 Newline spacing errors for lists or tables may cause the Markdown parser to be confused and not parse the part.
+In this case, it is best to separate the list or table with at least one newline space on above and below to enable the GFM parsing.
 
 ## Conclusion
 
