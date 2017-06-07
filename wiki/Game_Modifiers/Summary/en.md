@@ -24,8 +24,7 @@ Summary
 | Special | ![Cinema mod icon](/wiki/shared/Cinema.png "Cinema mod icon") | Cinema (CM) | osu!standard, osu!taiko, osu!catch, osu!mania: 0.00 | Watch the background video and storyboard with the hitcircles hidden. | Hitsounds will still be played. Can be affected by DT/NC/HT. "Pass" storyboard only. "Fail" storyboard will not be played. No pause, comment and skins elements. |
 | Special | ![4K mod icon](/wiki/shared/4k.png "4K mod icon") | xK (xK) | osu!mania: 0.66 ~ 1.00 (use chart below) | osu!mania only. Force xK setting onto the beatmap. Cannot be applied to mania-specific beatmap. | Multiplier will not work when the forced setting is same as beatmap's difficulty K setting. |
 | Special | ![Co-Op mod icon](/wiki/shared/Key_Coop.png "Co-Op mod icon") | Co-Op (2P) |  osu!mania: 0.70 ~ 1.00 (use chart below) | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. **Normal**: Add a second xK playfield. **Specific**: Split the current xK to two playfields. | **Specific** The design is still the same. The main side will hold the highest xK value if xK is odd-numbered. |
-| Special | ![Random mod icon](/wiki/shared/Random.png "Random mod icon") | Random (RD) | osu!mania: 1.00 | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only
-Switching the note placement without affecting note type (hold or hit type). | Does not shuffle the note placement every time you use this mod.
+| Special | ![Random mod icon](/wiki/shared/Random.png "Random mod icon") | Random (RD) | osu!mania: 1.00 | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. Switching the note placement without affecting note type (hold or hit type). | Does not shuffle the note placement every time you use this mod.
 
 osu!mania xK mods
 -----------------
@@ -66,5 +65,8 @@ The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 |![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
 |![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")|![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
 |![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")|
-|osu!mania only!|
+
+### osu!mania
+| This mod... | ...cancels out these mods.|
+|-------------|---------------------------|
 |![Hidden mod icon](/wiki/shared/Hidden.png "Hidden mod icon")![Fade In mod icon](/wiki/shared/FadeIn.png "Fade In mod icon")|![Flashlight mod icon](/wiki/shared/Flashlight.png "Flashlight mod icon")|
