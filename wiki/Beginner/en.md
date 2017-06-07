@@ -1,11 +1,12 @@
 # Beginner
 
-*See also [Play Styles](/wiki/Play_Styles).*
 
 Welcome to the *osu!* beginner tutorial. The world of *osu!* can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in *osu!*, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of *osu!*.
 
 Types of Input
 --------------
+
+*See also [Play Styles](/wiki/Play_Styles).*
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
