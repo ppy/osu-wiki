@@ -43,7 +43,7 @@
 [Shiba]: https://github.com/rhysd/Shiba "Shiba"
 [Git]: https://git-scm.com/ "Git"
 [Git Extensions]: https://gitextensions.github.io/ "Git Extensions"
-[Git Extension User Manual]:https://git-extensions-documentation.readthedocs.io/en/latest/index.html "
+[Git Extension User Manual]: https://git-extensions-documentation.readthedocs.io/en/latest/index.html "GitHub Extension User Manual"
 
 # How to contribute to the osu!wiki
 
@@ -134,7 +134,7 @@ In the event of major slip-ups, you can cut off the branch and start a new branc
 
 ### Through GitHub's Web Editor
 
-#### Accessing the correct repository and branch.
+#### Accessing the correct repository and branch
 
 If you do not want the hassle of cloning your fork into your local machine, GitHub offers a web editor for editing through your browser.
 
@@ -205,7 +205,7 @@ After uploading your changes, scroll down to _[Commit Changes][Commit Changes]_ 
 
 To edit a page, go to the folder of that page and select the language file of the article.
 
-From here, you should see something like this:            
+From here, you should see something like this:
 
 ![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
 
@@ -230,7 +230,7 @@ This should redirect you to the web editor.
 
 At the top of the web editor, you can modify the filename and even relocate the location of the file.
 
-- ``<new folder name>/<file name>` will move or create a new subdirectory and will place the file into the subdirectory.
+- ``<new folder name>/<file name>`` will move or create a new subdirectory and will place the file into the subdirectory.
 - ``../<file name>`` will move the file up by one level.
 
 After making your changes, scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your edit(s) to other contributors.
@@ -244,7 +244,7 @@ If it is the last file in the folder, the folder will be deleted after the commi
 
 Reference: [GitHub Help on Deleting files][GH Help delete]
 
-You can directly delete the file by clicking on the trashcan/dustbin/garbagebin icon.
+You can directly delete the file by clicking on the trashcan icon.
 
 After clicking the icon, you will be shown the file to be deleted preview and you should scroll down to _[Commit Changes][Commit Changes]_ and fill the following fields to explain your edit(s) to other contributors.
 
@@ -383,7 +383,7 @@ For ``vim``, it has its own set of keyboard commands, and most of it can be igno
 
 The only three keywords you need to remember when using ``vim`` appears are as follow:
 
-```
+```prolog
 1. i   (lowercase i key, once)
 2. Esc
 3. ZZ  (UPPERCASE Z key, twice) or :q (a colon and a lowercase q key)
@@ -801,7 +801,7 @@ git status
 
 A typical textfile merge conflict will look like this:
 
-```
+```prolog
 <<<<<<< HEAD
     <myLocalContent>
 =======
