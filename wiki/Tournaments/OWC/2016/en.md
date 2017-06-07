@@ -34,7 +34,7 @@
 
 # osu! World Cup 2016
 
-![osu! World Cup 2017](logo.jpg)
+![osu! World Cup 2016](logo.jpg)
 
 The **osu! World Cup 2016** (_**OWC 2016**_) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team).
 It is the 7th installment of the osu! World Cup.
@@ -257,7 +257,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 ### Quarterfinals
 
-[Download the mappack here!](http://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
+[Download the mappack here!](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
 
 - NoMod
   - [Memme - Chinese Restaurant (M o k o r i) [Spicy]](https://osu.ppy.sh/b/587547)
@@ -284,7 +284,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 ### Semifinals
 
-[Download the mappack here!](http://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
+[Download the mappack here!](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
 
 - NoMod
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) [VOLCANO]](https://osu.ppy.sh/b/658561)
@@ -313,7 +313,7 @@ The osu! World Cup 2016 is ran by various community members by distributing the 
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
-[Download the mappack here!](http://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
+[Download the mappack here!](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
 
 - NoMod
   - [U1 overground - Dopamine (fanzhen0019) [C6H3(OH)2-CH2-CH2-NH2]](https://osu.ppy.sh/b/494818)
@@ -498,7 +498,7 @@ Sunday, 13. November 2016
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    * Reviving and surviving during a map gets considered as passing it.
-7. Use of the [Visual Settings](/wiki/Game_Modifiers#Visual_Settings "Game Modifiers") options are allowed.
+7. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    1. Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -530,7 +530,7 @@ Sunday, 13. November 2016
    - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above #5000.
+   - To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the osu! community rules within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
@@ -551,7 +551,7 @@ Sunday, 13. November 2016
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    1. This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this graphic](http://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage           | Match ID                 |
 |-----------------|--------------------------|
