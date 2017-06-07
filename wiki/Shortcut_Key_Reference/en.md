@@ -122,7 +122,7 @@ These work anywhere:
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
 - `F3` or `F4`: Adjust speed for osu!mania.
-- `Ctrl` + `R` or `` ` ``: Quick retry the current map (autoskips the cut-scene upon retry)
+- `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the cut-scene upon retry)
 
 ## Edit Mode
 
