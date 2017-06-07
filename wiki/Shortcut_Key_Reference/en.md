@@ -1,6 +1,6 @@
 # Shortcut Key Reference
 
-There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
+There are many shortcuts in _osu!_ that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
 **Note:** some of these keys can be changed in the [Options](/wiki/Options/)!
@@ -14,7 +14,7 @@ These shortcuts work anywhere:
 - `Arrow Up`: Increase volume.
 - `Alt` + `F4`: If playing/editing a beatmap, exit to song select; otherwise, this will close the osu!client.
 - `Ctrl` + `Alt` + `Shift` + `S`: Reload current skin (may say that it is in queue)
-- `Ctrl` + `F11`: Toggle trame times
+- `Ctrl` + `F11`: Toggle frame times
 - `Ctrl` + `O`: Open options menu (does not work while playing in-game)
 - `F7`: Toggle FPS limiting mode
 - `F8`: Toggle chat window
