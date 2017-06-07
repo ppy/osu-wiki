@@ -556,6 +556,14 @@ Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a
 
 Upon the creation of the marathon beatmap, one should name their beatmap version "Marathon" to bypass the BSS from preventing the pending status.
 
+### MAT		
+
+**As of the April 23, 2013, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
+
+The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding.
+MAT members were able to mark any beatmap they approve of with a bubble.
+This bubble would note that the beatmap as worthy of further consideration by the BAT.
+
 ### Modder
 
 A modder is a term given to a user that gives comments or suggestions on another mapper's maps in the forums.
