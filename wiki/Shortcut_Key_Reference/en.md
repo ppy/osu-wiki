@@ -3,12 +3,12 @@
 There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
-Note, some of these keys can be changed in the [Options](/wiki/Options/)!
-However, the list below uses the default keys.
+**Note:** some of these keys can be changed in the [Options](/wiki/Options/)!
+However, the list below presents the default keys.
 
 ## Game-Wide
 
-These work anywhere:
+These shortcuts work anywhere:
 
 - `Arrow Down`: Decrease volume.
 - `Arrow Up`: Increase volume.
@@ -22,7 +22,7 @@ These work anywhere:
 - `F10`: Toggle all mouse buttons (except for mouse wheel)
 - `F12`: Take a screenshot (hold `Shift` to upload instantly to the server for sharing.)
 - `Insert`: Minimize the osu!client into the notification area.
-- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection errors out)
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
 
 ## Main Menu
 
@@ -51,7 +51,7 @@ These work anywhere:
 - `F3`: Display beatmap options
 - `F5`: Refresh listing (repair mode)
 - `Shift` + `Delete`: Delete current map
-- `Ctrl` + `1`: Switch to [osu!standard](/wiki/osu!standard)
+- `Ctrl` + `1`: Switch to [osu!](/wiki/osu!)
 - `Ctrl` + `2`: Switch to [osu!taiko](/wiki/osu!taiko)
 - `Ctrl` + `3`: Switch to [osu!catch](/wiki/osu!catch)
 - `Ctrl` + `4`: Switch to [osu!mania](/wiki/osu!mania)
