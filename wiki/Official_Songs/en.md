@@ -11,12 +11,16 @@
 - [Download .osz](https://puu.sh/kr2Vy/8c2d95627a.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
 
+---
+
 ![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")
 
 - cYsmix - House With Legs
 - Source: *osu!*
 - [Download .osz](https://puu.sh/kr343/473c7ec3d1.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
+
+---
 
 ![cYsmix BG](cYsmix_bg.jpg "cYsmix BG")
 
@@ -25,6 +29,8 @@
 - [Download .osz](https://puu.sh/kr2FL/73dc523bac.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
 
+---
+
 ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Classic Pursuit
@@ -32,12 +38,16 @@
 - [Download .osz](https://puu.sh/kZrR3/3a45e0ec85.osz)
 - Bounty: bundled with *osu!* client, 50$ store credit, 6 months supporter tag, profile badge
 
+---
+
 ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Fright March
 - Source: *osu!*
 - [Download .osz](https://puu.sh/kZrTX/13431bd8e6.osz)
 - Bounty: bundled with *osu!* client, 50$ store credit, 6 months supporter tag, profile badge
+
+---
 
 ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
 
