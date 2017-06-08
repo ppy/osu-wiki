@@ -2,15 +2,15 @@
 
 **Modding** is the process of examining another's [beatmap](/wiki/Beatmaps) and making suggestions. These suggestions can be either to fix errors or to simply improve the map. The person modding the map is called a "modder", and the person who made the map is referred to as the "mapper". Modding can be useful in three main ways:
 
-1.  If your mod post is useful to the mapper, then they will give you [kudosu](/wiki/Glossary/#kudosu-). Kudosu can be used to boost your map's star priority up.
+1.  If your mod post is useful to the mapper, then they will give you [kudosu](/wiki/kudosu). Kudosu can be used to boost your map's star priority up.
 2.  "Mod4mods", or when you make a deal to mod somebody else's map if they mod yours, is a great way to get your map modded.
 3.  A good mod post reduces the amount of time the approval teams spend pointing out basic mistakes. This in turn makes the approval teams less stressed, and that makes them more likely to mod your map. Happy [BNs](/wiki/People/Beatmap_Nomination_Group) are typically in a better mood than a BN who just spent 10 minutes crying because of a map that clearly needed a lot more modding.
 
 If you are learning how to map or already know how to map, modding can be a great way to improve mapping skills.
 
-## Basic modding
+## Basics
 
-First, download a map from the [beatmap](https://osu.ppy.sh/forum/12) thread, which can be located in either the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) forum (not the [Ranked/Approved](https://osu.ppy.sh/forum/14) beatmaps forum!). You can either randomly choose maps from these sub-forums to mod or you can open a modding queue in the 'Modding Queue' sub-forum under the Work In Progress/Help forum and accept requests. If you are opening a queue, it is a good idea to see how these queues work by reading some threads in the 'Modding Queues' sub-forum.
+First, download a map from the [beatmap](https://osu.ppy.sh/forum/12) thread, which can be located in either the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) forum (not the [Ranked/Approved](https://osu.ppy.sh/forum/14) beatmaps forum!). You can either randomly choose maps from these subforums to mod or you can open a modding queue in the 'Modding Queue' subforum under the Work In Progress/Help forum and accept requests. If you are opening a queue, it is a good idea to see how these queues work by reading some threads in the 'Modding Queues' subforum.
 
 Next, go into the [editor](/wiki/Beatmap_Editor) and select the map which you want to mod. Then, start up a reply to the [beatmap's](/wiki/Beatmaps) thread.
 
@@ -25,7 +25,7 @@ After play-testing, watch the song in the editor and pause frequently to catch a
 What to look for in a beatmap
 -----------------------------
 
-A very helpful tool is AIMod, which can be opened under the `Files` tab or by pressing `Ctrl` + `Shift` + `A`. This shows the errors that the certain difficulty of a beatmap has. However, be wary that it is still just a computer, and some errors are not true errors (i.e. a spacing error, but there was supposed to be a jump).
+A very helpful tool is [AiMod](/wiki/AiMod), which can be opened under the `Files` tab or by pressing `Ctrl` + `Shift` + `A`. This shows the errors that the certain difficulty of a beatmap has. However, be wary that it is still just a computer, and some errors are not true errors (i.e. a spacing error, but there was supposed to be a jump).
 
 The below is a list, organized by importance.
 
@@ -87,11 +87,11 @@ Most importantly, all beatmaps must have a background picture. The skin should n
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
 
-If anything weird in the storyboard happens (bad rendering of pictures, emptiness, etc.) it is a good idea to tell the storyboarder (who may or may not be the mapper) so that he or she can fix it. The storyboard generally should not exceed an S.B. load of 5.0x. You can check out the Storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor. The dimensions of the elements should not exceed the default size.
+If anything weird in the storyboard happens (bad rendering of pictures, emptiness, etc.) it is a good idea to tell the storyboarder (who may or may not be the mapper) so that he or she can fix it. The storyboard generally should not exceed an [SB load](/wiki/SB_Load) of 5.0x. You can check out the Storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor. The dimensions of the elements should not exceed the default size.
 
 ### Preview Point
 
-All maps must have a preview point. A preview point will be denoted by a yellow-ish line on the timeline at the bottom of the editor. You can also check if a map has a preview point by going into AIMod (`Ctrl` + `Shift` + `A`) and checking under the `Style` tab. This preview point must also be the same in all difficulties.
+All maps must have a preview point. A preview point will be denoted by a yellow-ish line on the timeline at the bottom of the editor. You can also check if a map has a preview point by going into AiMod (`Ctrl` + `Shift` + `A`) and checking under the `Style` tab. This preview point must also be the same in all difficulties.
 
 ### File Organization
 
