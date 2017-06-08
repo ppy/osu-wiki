@@ -328,7 +328,7 @@ Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) is 
 
 When referring to the player, use `the player` or `a player`.
 
-**Never** use `he`/`his` or `she`/`hers`!
+**Never** use `he`/`his` or `she`/`her`!
 Instead, use `they`/`their`/`theirs`.
 
 In instances where you are talking directly to the reader (e.g. tutorial page), you could use the word `you`.
