@@ -1,227 +1,298 @@
-<img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" /> \_\_TOC\_\_
-=Main Menu= <img src="introscreen.png" title="fig:Main menu" alt="Main menu" width="280" />
+<!--Logo definitions-->
+[Osu!]: /wiki/shared/Osu.gif
+[Taiko]: /wiki/shared/Taiko.gif
+[Ctb]: /wiki/shared/Ctb.gif
+[Mania]: /wiki/shared/Mania.gif
+[Heart]: /wiki/shared/Heart.gif
+[Fire]: /wiki/shared/Fire.gif
 
-The \[1\] osu! logo pulses according to the [BPM](Timing "wikilink") of any song currently playing on the Intro screen. If no song is playing, it pulses at a default slow rate. The keyboard shortcut is in parentheses.
+# Interface
 
--   \[2\] Click Play (P) or the logo to switch to the second intro screen.
--   \[3\] Click Edit (E) to open the song selection Screen for the [Editor](Editor "wikilink").
--   \[4\] Click Options (O) to go to the [Options](Options "wikilink") Screen.
--   \[5\] Click Exit (Esc) to exit osu!.
+![Introduction screen](img/Intro_static.jpg)
+
+## Main Menu
+
+![Main Menu](img/Introscreen.png)
+
+The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wiki/BPM) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+
+-   \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
+-   \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
+-   \[4\] Click Options (`O`) to go to the Options screen.
+-   \[5\] Click Exit (`Esc`) to exit osu!.
 -   \[6\] A random useful tip is displayed below the menu.
--   \[7\] In the lower-left is a link to the osu! website.
--   \[8\] Connection result to Bancho!
--   \[9\] In the bottom right is are the [chat](Internet_Relay_Chat "wikilink") controls (F8&F9).
--   \[10\] In the upper-right is the osu! jukebox which plays the songs in random order.
--   \[11\] Next to the userpanel, the number of beatmaps, current running time of the program and your computer clock time.
--   \[12\] In the upper-left is your user panel, click on it to display User Options.
+-   \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
+-   \[8\] Connection result to [Bancho](/wiki/Bancho)! In this picture it is not shown, but the connection result looks like a chain link.
+-   \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
+-   \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
+    - Previous Track
+    - Play
+    - Pause
+    - Stop (the difference between Play and Stop is that Stop will reset the song to the beginning, while Pause simply pauses it)
+    - Next Track
+    - View Song Info. This toggles the top bar showing the song info between being permanent and temporary. When permanent, the info bar will stay visible until it fades out with the rest of the UI. When temporary, it will disappear a little while after a song has been chosen. It will stay hidden until it is toggled again, or another song plays.
+-   \[11\] The number of beatmaps you have available, how long your osu!client has been running for, and your system clock.
+-   \[12\] Your profile, click on it to display the User Options (see below).
 
-==User Options== <img src="useroptions1.png" title="fig:User Options" alt="User Options" width="280" />
+## User Options
 
-Access this screen by clicking your user panel at the top left of the Intro Screen. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option
+![User Options](img/Useroptions1.png)
 
-1.  **View Profile**: Opens up your profile page in your web browser
-2.  **Sign Out**: Log out your account and log in window will slide out
-3.  **Change Avatar**: Open up the edit avatar page in your web browser
-4.  **Close** : Close this window
+Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
-=Play menu= <img src="introscreen2.png" title="fig:Play Menu" alt="Play Menu" width="280" />
+1.  `View Profile`: Opens up your profile page in your preferred web browser
+2.  `Sign Out`: Log out your account (after logging out, the [Options](/wiki/Options) sidebar will prompt you to log in)
+3.  `Change Avatar`: Open up the edit avatar page in your preferred web browser
+4.  `Close`: Close this dialog
 
--   Click Solo (P) to play alone.
--   Click Multi (M) to play with other people. Yow will be directed to Multi Screen.
--   Click Back to return to Main Menu
+## Play Menu
 
-==Multi's lobby==
+![Play Menu](img/Introscreen2.png)
 
-*Full explanation: [Multiplayer](Multiplayer "wikilink")*
+-   Click `Solo` (`P`) to play alone.
+-   Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Multi) Lobby (see below).
+-   Click `Back` to return to the main menu.
 
-<img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
+## Multi Lobby
 
-Song Selection Screen
----------------------
+*Full explanation: [Multi](/wiki/Multi)*
 
-<img src="soloplay1.jpeg" title="Song selection" alt="Song selection" width="300" />
+![Multi Lobby](img/Multi-Play-2016.png)
+![Multi Host](img/Multi-play!_Host.jpg)
 
-Note: You can identify the song selection for a specific mode by checking the transparent leitmotif.
+1. Your rank in the match. This is also shown next to your name.
+2. Your profile information.
+3. The jukebox.
+4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable).
+5. The name of the match and the password settings.
+6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen.
+7. The mods that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
+8. The team mode and win conditions.
+9. The ready button.
+10. The [chat console](/wiki/Chat_Console).
+11. The leave button.
+12. Where your activated mods appear.
 
-![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
+## Song Selection Screen
 
-Because this screen has too many elements to note by easily noticeable numbers, this section will focus on one part of the screen at a time, starting from the top (left to right) and continuing downwards.
+![Song Selection](img/Soloplay1.jpeg)
+
+You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
+
+- ![][Osu!] "osu!" is [osu!](/wiki/osu!)
+- ![][Taiko] "Drum" is [osu!taiko](/wiki/osu!taiko)
+- ![][Ctb] "Apple" is [osu!catch](/wiki/osu!catch)
+- ![][Mania] "Piano" is [osu!mania](/wiki/osu!mania)
+
+Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from the top down and left to right.
 
 ### Beatmap Information
 
-<img src="soloplay2.jpeg" title="fig:soloplay2.jpeg" alt="soloplay2.jpeg" width="400" />
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. The BPM value listed is the deviation between highest and lowest BPM that occurs in the beatmap (timing section changes). "Objects" is the total number of [Hit Objects](Hit_Objects "wikilink") in the beatmap. A ![](heart.gif "fig:heart.gif")heart symbol at the upper left denotes a Ranked beatmap while a ![](fire.gif "fig:fire.gif")flame symbol denotes Approved beatmap. The Unicode title will be used if [allowed non-English metadata at Options under General section](Options#Language "wikilink") and the beatmap itself has Unicode title/artist.
+![soloplay2.png](img/Soloplay2.jpeg)
+![soloplay2.5.png](img/Soloplay2.5.jpeg)
 
--   Style: {Source} ({Artist}) - {Title} \[{Difficulty selected}\]
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options/), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
-===Group and Sort=== ![](soloplay3.jpeg "fig:soloplay3.jpeg")
+- **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Drain_Time).
+- **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
+- **Objects**: The total amount of [hit objects](/wiki/Hit_Objects/) in the beatmap.
+- **Circles**: The total amount of hit circles in the beatmap.
+- **Sliders**: The total amount of sliders in the beatmap.
+- **Spinners**: The total amount of spinners in the beatmap.
+- **OD**: The Overall Difficulty of the beatmap.
+- **HP**: The drain rate of your HP. In osu!standard, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In Taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. Catch the Beat is the same as osu!standard.
+- **Stars**: The star difficulty of the beatmap. This is graphically visible in the beatmap rectangle itself.
+
+### Group and Sort
+
+![](img/Soloplay3.jpeg)
+
 Click on one of the tabs to **sort your song list according to the selected criterion**.
-**Group** - Most options organize beatmaps into various expandable groups
 
--   No Grouping - Beatmaps will not be grouped (but will still appear in the order specified by Sort)
--   By Artist - By the first letter, number, or character of the artist's name
--   By BPM - By beats per minute, in multiples of 60
--   By Creator - By the name of the mapset's mapper
--   By Date Added - By today, yesterday, last week, and several groupings for 1 to 5+ months ago
--   By Difficulty - By number of stars (rounded to nearest whole number)
--   By Length - By number of minutes: five groups for "under 1-5" and two for over and under 10
--   By Mode - By one of the four game modes
--   By Rank Achieved - By rank: D, C, B, A, S, SS, Silver S, Silver SS
--   By Title - By the first letter, number, or character of the title's name
--   Collections - By your collections, sorted alphabetically: beatmaps not in a collection will not appear
--   Favourites - Displays only your online favorites (single group)
--   My Maps - Displays only beatmap sets you mapped (single group)
--   Ranked Status - By a beatmap's ranked status: ranked, pending, not submitted or unknown
--   Recently Played - By same groups as "By Date Added", except for date last played
+**Group** - Most options organize beatmaps into various expandable groups:
+
+- `No grouping` - Beatmaps will not be grouped but will still be sorted in the order specified by Sort.
+- `By Difficulty` - Beatmaps will be grouped by their star difficulty, rounded to the nearest whole number.
+- `By Artist` - Beatmaps will be grouped by the artist's first character of their name.
+- `Recently Played` - Beatmaps will be grouped by when you last played them.
+- `Collections` - This will show the collections you have created. *Note that this will hide beatmaps not listed in a collection!*
+- `By BPM` - Beatmaps will be grouped according to BPM in multiples of 60, starting at 120.
+- `By Creator` - Beatmaps will be grouped by the beatmap creator's name's first character.
+- `By Date` Added - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
+- `By Length` - Beatmaps will be grouped according to their length: 1 minute or less, 2 minutes or less, 3, 4, 5, and 10.
+- `By Mode` - Beatmaps will be grouped according to their game mode.
+- `By Rank Achieved` - Beatmaps will be sorted by the highest rank achieved on them.
+- `By Title` - Beatmaps will be grouped by the first letter of their title.
+- `Favourites` - Only beatmaps you have favorited online will be shown.
+- `My Maps` - Only beatmaps you have mapped (that is, whose creator matches your profile name) will be shown.
+- `Ranked Status` - Beatmaps will be grouped by their ranked status: ranked, pending, not submitted, or unknown.
+The first five groupings are available in tabs below Group and Sort.
 
 **Sort** - Sorts beatmaps in a certain order
 
--   By Artist - By artist's name, alphabetically
--   By BPM - By beats per minute, ascending (uses highest value for variable BPM maps)
--   By Creator - By mapset mapper, alphabetically
--   By Date Added - By date added, oldest to newest
--   By Difficulty - By star difficulty, ascending
--   By Length - By song duration, ascending
--   By Rank Achieved - By rank, lowest to highest
--   By Title - By song title, alphabetically
+- `By Artist` - Beatmaps will be sorted alphabetically by the artist's name's first character.
+- `By BPM` - Beatmaps will be sorted lowest to highest by their BPM. For maps with multiple BPMs, the highest will be used.
+- `By Creator` - Beatmaps will be sorted alphabetically by the creator's name's first character.
+- `By Date Added` - Beatmaps will be sorted from oldest to newest by when they were added.
+- `By Difficulty` - Beatmaps will be sorted from easiest to hardest by star difficulty. *Note that this will split apart mapsets!*
+- `By Length` - Beatmaps will be sorted from shortest to longest by length.
+- `By Rank Achieved` - Beatmaps will be sorted from poorest to best by the highest rank achieved on them.
+- `By Title` - Beatmaps will be sorted alphabetically by the first character of their name.
 
 ### Search
 
-![](soloplay5.jpeg "fig:soloplay5.jpeg")
-Typing anywhere on the Song Selection Screen ([Chat Console](Chat_Console "wikilink") must not be active during typing or it will be considered Chat's text) and this search will be activated. Notes:
+![](img/Soloplay5.jpeg)
 
--   The **beatmap list will display only the maps whose information fields** (Song artist, song name, beatmapper, difficulty names, tags) **match what you've typed.**
--   Using **Ctrl+Backspace** will clear the last word you typed, rather than the last character.
--   There are several **search filters** that can filter the results when used with =, &lt;, &gt;, &lt;=, &gt;=, != (not equal), or == (same as =) and a value (ex. "od&gt;8", "bpm&gt;150", "mode=mania").
-    Filters can be used in addition to search terms or other filters. (ex. "fox bpm&gt;200 ar=10", "bms status=r bpm&gt;200 length&gt;180")
-    -   **ar** - Approach rate
-    -   **cs** - Circle size
-    -   **od** - Overall difficulty
-    -   **hp** - HP drain rate
-    -   **keys** - Number of keys (osu!mania maps only)
-    -   **stars** - Star difficulty rating
-    -   **bpm** - Beats per minute
-    -   **length** - Length in seconds
-    -   **drain** - Drain time in seconds
-    -   **mode** - Mode - value can be osu, taiko, catchthebeat, or mania (or o/t/c/m for short)
-    -   **status** - Ranked status - value can be ranked, approved, pending, notsubmitted, or unknown (or r/a/p/n/u for short)
-    -   **played** - Time since last played in days
-    -   **unplayed** - Unplayed maps - no value (use "unplayed=" for unplayed maps, or "unplayed!=" for played maps)
-    -   **speed** - saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap option](Options#Gameplay_section "wikilink") is off
+Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.
+
+- Only beatmaps who match the criteria of your search will be shown, obviously.
+- In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: `=` (equal to) or `==`, `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), or `!=` (not equal to).
+  - `ar` - Approach Rate
+  - `cs` - Circle Size
+  - `od` - Overall Difficulty
+  - `hp` - HP Drain Rate
+  - `keys` - Number of keys (osu!mania maps only)
+  - `stars` - Star Difficulty
+  - `bpm` - Beats per minute
+  - `length` - Length in seconds
+  - `drain` - Drain Time in seconds
+  - `mode` - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
+  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, or ``unknown``, or ``r/a/p/n/u`` for short.
+  - `played` - Time since last played in days
+  - `unplayed` - Unplayed maps - no value (use ``unplayed=`` for unplayed maps or ``unplayed!=`` for played maps)
+  - `speed` - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options/#Gameplay) option is off
 
 ### Rankings
 
-<img src="soloplay10.jpeg" title="fig:Online Ranking Table" alt="Online Ranking Table" width="280" /> <img src="soloplay11.jpeg" title="fig:Online commands for a beatmap. (Require Internet connection)" alt="Online commands for a beatmap. (Require Internet connection)" width="280" /> A variety of things can appear in this space:
+![](img/Soloplay10.jpeg)
 
--   A "not yet submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
--   If an "Update to latest version" box appears, click on it to attempt to replace this beatmap with its most current version from the osu! site.
-    -   **Note:** Prior version cannot be recovered. If you want to preserve the beatmap for some reason, do not update.
--   A "Latest version but not approved" box appears means that the beatmap has been uploaded to the osu! site but is not ranked yet.
--   Local Ranking Table will also be here.
--   A "No records set!" means you haven't complete the beatmap in Solo under your currently selected gameplay mode with a grade mark.
-    -   Note: Your Multi's score will not be saved at Local Ranking.
--   A "Not yet uploaded" means it's your created beatmap but you didn't upload it yet.
+ A variety of things can appear in this space:
 
-| colspan=2|Ranking Table       |
-|-------------------------------|
-| Name                          |
-| Local Ranking                 |
-| Country Ranking               |
-| Global Ranking                |
-| Global Ranking (Selected Mod) |
-| Friend Ranking                |
+- A "Not Submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
+- An "Update to latest version" box appears if there is a new version of the beatmap available for download. Click on the button to update.
+  - **Note:** Once you update the beatmap, it cannot be reversed. If you want to preserve the older version for some reason (say, to keep scores), then do not update.
+- A "Latest pending version" box appears means that the beatmap has been uploaded to the osu!website but is not ranked yet.
+- If replays matching the view setting of the beatmap exist, they will be displayed instead of a box denoting the ranked/played status of the beatmap. This is shown in the above picture.
+  - Under public rankings (e.g. Global, Friends, etc.), your high score will be shown at the bottom, as well as your rank on the leaderboard.
+- A "No records set!" box means that there are no replays for the current view setting (this is typically seen in the Local view setting if you just downloaded or edited the beatmap).
+  - Note: Scores for Multi are not counted as records.
 
-Click the <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" />word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
+These are the view settings:
 
--   Press 1 or click the "Beatmap Listing/Scores" button and your default Internet browser will attempt to display the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
--   Press 2 or click "Beatmap Topic" and your default Internet browser will attempt to display the forum thread of the beatmap set the selected beatmap belongs to.
--   Press 3 or click "Quick Reply" and your default Internet browser will attempt to open a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
--   Press 4 or Esc or click "Cancel" to return to the Song Selection Screen.
+- Local Ranking
+- Country Ranking\*
+- Global Ranking
+- Global Ranking (Selected Mods)\*
+- Friend Ranking\*
+
+\*Requires you to be an [osu!supporter](/wiki/osu!supporter) to access them.
+
+Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
+
+- Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
+- Press `2` or click `Beatmap Topic` and your default itnternet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
+- Press `3` or click `Quick Reply` and your default internet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
+- Press `4` or `Esc` or click `Cancel` to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
 
-### Song List
+### Song
 
-<img src="soloplay6.jpeg" title="fig:Beatmap&#39;s Song list" alt="Beatmap&#39;s Song list" width="280" /> The **song list displays all the beatmaps you have downloaded**, with possible narrowing down depending on your selections in this screen. Boxes can have a lot of different colours:
+![](img/Soloplay6.jpeg)
 
--   <span style="background-color:#f00;">Red</span>: This beatmap only has one difficulty version.
--   <span style="background-color:#FFC0CB;">Pink</span>: This beatmap has not been played yet (on beatmap sets with more than one difficutly version).
--   <span style="background-color:#FFA500;">Orange</span>: This beatmap has been played (on beatmap sets with more than one difficutly version).
--   <span style="background-color:#00B8FF;">Light Blue</span>: Other beatmaps in the same set.
--   <span style="background-color:#fff;">White</span>: This beatmap is currently selected.
+The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
-You can navigate the beatmap list using the \[1\]mouse wheel, \[2\]up and down arrow keys, \[3\]drag it while holding the left mouse button or \[4\]clicking the right mouse button (previously known as Absolute Scrolling) which will scroll based on your cursor placement prior to clicking. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. \[1\]Click the box again, \[2\]press "Enter" or \[3\]click the osu! logo at the lower right to begin playing the beatmap. If the box have a lighter colour, it means that you have not played that beatmap difficulty yet.
+- **Pink**: This beatmap has not been played yet.
+- **Orange**: This beatmap has been played, or all beatmaps in this mapset have been played.
+- **Light Blue**: Other beatmaps in the same set, shown when a mapset is expanded.
+- **White**: Currently selected beatmap.
+
+You can navigate the beatmap list by using the mouse wheel, using the up and down arrow keys, dragging it while holding the left mouse button or clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. Click the box again, press `Enter` or click the osu!cookie at the lower right to begin playing the beatmap.
 
 ### Gameplay toolbox
 
-<img src="soloplay7.jpeg" title="fig:soloplay7.jpeg" alt="soloplay7.jpeg" width="400" /> <img src="Mode screen.png" title="fig:List of available Game modes" alt="List of available Game modes" width="100" /> This section can be called gameplay toolbox. We will cover each button usages from left to right order.
+![List of available game modes](img/Mode_screen.png)
+![](img/Soloplay7.jpeg)
 
-Pressing ESC or click the Back button to return to Main Menu
+This section can be called the gameplay toolbox. We will cover each button's use from left to right.
 
-Click on the "Mode" button to **open up a list of gameplay modes available on osu!**. Click on your desired gameplay mode, and osu! will switch to that gameplay mode style along with the scoreboard change. Alternatively, you can press CTRL and 1 (![](osu.gif "fig:osu.gif")[osu! Standard](Standard "wikilink")) / 2 (![](taiko.gif "fig:taiko.gif")[Taiko](Taiko "wikilink")) / 3 (![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](Catch_the_Beat "wikilink")) / 4 (![](mania.gif "fig:mania.gif")[osu!mania](osu!mania "wikilink")) on your keyboard to quickly switch to your desired gameplay mode.
+Press `Esc` or click the `Back` button to return to main menu.
 
-<img src="soloplay8.png" title="fig:Game Modifiers" alt="Game Modifiers" width="280" /> Click the "Mods" button or press F1 to call up the **[Mod Selection Screen](Game_Modifiers "wikilink")**.
+Click on the `Mode` button to open up a list of gameplay modes available on osu! Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a modifier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a modifier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](Relax "wikilink") and [Auto Pilot](Auto_Pilot "wikilink") falls in that category. Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click "Close" or press 2 or Esc to return to the Song Selection Screen.
+The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
-While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. Notably, depends on your skin used, the text and icon may be changed but the mod effect will still work as usual.
+![Game modifiers](img/Soloplay8.png)
 
-Click the "Random Map" button or press F2 to have the game **select a random beatmap from the currently displayed list.**
+Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_Modifiers/)**.
 
-*Note: Use SHIFT + Click the "Random Map" button or press SHIFT + F2 to have the game go back to the previous selected map, before "Random Map" was used.*
+In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
 
-<img src="soloplay9.jpeg" title="fig:Possible commands for a beatmap" alt="Possible commands for a beatmap" width="280" /> Click the "Beatmap Options" button or press F3 or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
--   Press 1 or click the "Manage Collections" button to add the selected beatmap to the Collection list. You can display the list by clicking on the appropriate tab (see above).
--   Press 2 or click "Delete..." to delete the currently selected beatmap difficulty or the entire beatmap set it belongs to from your hard drive. You will be prompted one more time before the beatmap(s) is/are actually deleted.
--   Press 3 or click "Remove from Unplayed" to mark an unplayed beatmap as played.
--   Press 4 or click "Clear local scores" to delete all records of the scores you have achieved in this beatmap. Only the Local high score list is cleared; the scores gained from your plays on this beatmap remains intact.
--   Press 5 or click "Edit" to open the selected beatmap in osu!'s Editor.
--   Press 6 or Esc or click "Close" to return to the Song Selection Screen.
+Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.** You cannot select a beatmap yourself until it has finished scrolling.
+
+*Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomized your selection.*
+
+![Possible commands for a beatmap](img/Soloplay9.jpeg)
+
+Click the `Beatmap Options` button or press `F3` or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+
+-   Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
+-   Press `2` or click `Delete...` to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all beatmaps. The last option is a joke; clicking it will cause the game to notify you that you can't delete all of your beatmaps at once.
+    - Note that deleted beatmaps are moved to the Recycle Bin.
+-   Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
+-   Press `4` or click `Clear local scores` to delete all records of the scores you have achieved in this beatmap.
+-   Press `5` or click `Edit` to open the selected beatmap in osu!'s Editor.
+-   Press `6` or `Esc` or click `Close` to return to the Song Selection Screen.
 
 Click on **your user panel** to access the **User Options Menu**.
 
-Click the **osu! logo** to **start playing the selected beatmap**.
+Click the **[osu!cookie](/wiki/cookie)** to **start playing the selected beatmap**.
 
-Ranking screen
-==============
+## Ranking Screen
 
-Grade screen
-------------
+### Grade Screen
 
-This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
+![Accuracy in osu!standard](img/Accuracy_osu!.jpg)
+
+This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
 **Note:** The grade skin will vary by skin used.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
+Below are the grade screens of the other game modes.
 
-Online score leader-board
--------------------------
+![Accuracy in Taiko](img/Accuracy_Taiko.jpg "osu!taiko")
 
-Note: The back transparent leitmotif is based on what mode you played in.
+![Accuracy in osu!mania](img/Accuracy_Mania.jpg "osu!mania")
 
-![](osu.gif "fig:osu.gif")"osu!" is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Drum" is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif")"Piano" is [osu!mania](Mania "wikilink")
+![Accuracy in Catch the Beat](img/Accuracy_CtB.jpg "osu!catch")
 
-<img src="Osu! Online score.png" title="fig:Right|Example of osu! Online score (Note: [6] was edited in)" alt="Right|Example of osu! Online score (Note: [6] was edited in)" width="350" /> This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
+### Online Leaderboard
 
-1.  You can change your name here to put on the Local Scoreboard.
-2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
+![Right: Example of an osu!online score. (6) was edited in.](img/Osu!_Online_score.png)
+
+This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
+
+1.  You can change the name to record for this replay here.
+2.  Your player bar. It shows your [PP](/wiki/pp), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
 3.  Your options regarding the Beatmap.
-    1.  Export Replay as .osr: Save the replay that can be used online.
+    1.  Export Replay as `.osr`: Save the replay that can be used online.
     2.  Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps-&gt;Favourite Beatmaps
-
-4.  Self-explanatory. Will not appear if offline.
-    1.  Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
-    2.  Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
+4.  Here is the difference made to your profile. This shows how far you've moved up or down the Global Ranking, how much was added to your Total Score, and how much your Overall Accuracy changed. The text fades out rather quickly, so don't miss it!
+5.  Self-explanatory. Will not appear if offline, or if the beatmap is not uploaded.
+    1.  Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
+    2.  Overall: Your profile standing on the gamemode you just played, not just the beatmap.
     3.  Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
     4.  Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
-    5.  Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
+    5.  Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
     6.  To Next Rank: How much score you need to move your current map ranking position up.
-
-5.  Same as 4, but it is reserved for monthly [Ranking Charts](http://osu.ppy.sh/p/chart)
-6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](Achievements "wikilink") page
-7.  Beatmap song with it's history of plays and pass rate.
+6.  Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
+7.  Beatmap song with its history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
 
-Osu! Online.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online osu!mania Online.png| osu!mania Online
+![Unlocking a medal](img/MedalUnlock.jpg)
+
+Above is what it looks like to receive a medal.
