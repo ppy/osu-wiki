@@ -4,7 +4,7 @@
 
 ![Combo Fire](CF_DEAD.jpg "Combo Fire")
 
-This a list of options in the osu!{yourpcname}.cfg file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
+This a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
 
 | Code                 | Description                                 |
 |----------------------|---------------------------------------------|
@@ -230,4 +230,3 @@ This a list of options in the osu!{yourpcname}.cfg file. A lot of these options 
 | `LastVersionPermissionsFailed` |                                                                                                                                                                                                            |
 | `ManiaSpeedBPMScale`           | Forces osu!mania scroll speed to scale with BPM                                                                                                                                                            |
 | `MenuTriangles`                | Enables triangles                                                                                                                                                                                          |
-||
