@@ -29,21 +29,21 @@
 
 - cYsmix - Classic Pursuit
 - Source: *osu!*
-- [Download .osz](http://puu.sh/kZrR3/3a45e0ec85.osz)
+- [Download .osz](https://puu.sh/kZrR3/3a45e0ec85.osz)
 - Bounty: bundled with *osu!* client, 50$ store credit, 6 months supporter tag, profile badge
 
 ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Fright March
 - Source: *osu!*
-- [Download .osz](http://puu.sh/kZrTX/13431bd8e6.osz)
+- [Download .osz](https://puu.sh/kZrTX/13431bd8e6.osz)
 - Bounty: bundled with *osu!* client, 50$ store credit, 6 months supporter tag, profile badge
 
 ![cYsmix BG 2](cYsmix_bg_2.jpg "cYsmix BG 2")
 
 - cYsmix - Moonlight Sonata
 - Source: *osu!*
-- [Download .osz](http://puu.sh/kZrVh/d549b2e56f.osz)
+- [Download .osz](https://puu.sh/kZrVh/d549b2e56f.osz)
 - Bounty: bundled with *osu!* client, 50$ store credit, 6 months supporter tag, profile badge
 
 ## Bounties
