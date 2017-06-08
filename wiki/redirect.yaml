@@ -378,6 +378,7 @@
 "spectator_aura":              "Glossary/#spectator-aura"
 "stacked":                     "Glossary/#stacked"
 "standard":                    "Glossary/#standard"
+"std":                         "Glossary/#standard"
 "star":                        "Glossary/#star"
 "stars":                       "Glossary/#star"
 "star_priority":               "Glossary/#star-priority"
@@ -856,6 +857,7 @@
 "scorev1":                     "Score/ScoreV1"
 
 "shortcut_key_reference":      "Shortcut_Key_Reference"
+"skr":                         "Shortcut_Key_Reference"
 
 "skinning_interface":          "Skinning/Interface"
 "interface_skinning":          "Skinning/Interface"
