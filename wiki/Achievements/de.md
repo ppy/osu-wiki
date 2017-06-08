@@ -1,10 +1,10 @@
-# Achievements
+# Errungenschaften
 
 **Achievements** (dt. Erfolge oder Errungenschaften) sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Gruppen unterteilt.
 
 ## Beatmap Packs
 
-**Beatmap Packs** Achievements können erlangt werden, indem man aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
+**Beatmap Packs** Errungenschaften können erlangt werden, indem man aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
