@@ -141,8 +141,15 @@ osu!mania (Español)
 # Skinning osu!catch (Français)
 ```
 
-You can find a list of native language names at [Language names in their own languages and scripts](http://www.omniglot.com/language/names.htm) or [List of language names](https://en.wikipedia.org/wiki/List_of_language_names).
-<!-- NOTE this may introduce more inconsistencies because some languages use more than one script to represent their language! -->
+You can find a list of native language names in [`osu-web`'s script file](https://github.com/ppy/osu-web/blob/master/app/Libraries/LocaleMeta.php).
+For example:
+```php
+'tl' => [
+    'name' => 'Tagalog',
+    'flag' => 'PH',
+],
+```
+`tl` is language code, `Tagalog` is tl's language name
 
 ### Section Headings
 
