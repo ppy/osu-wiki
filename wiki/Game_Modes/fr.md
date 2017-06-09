@@ -32,7 +32,7 @@ Voici les modes de jeu disponibles dans osu!:-
   Collectez les fruits tombant en bougeant l'attrapeur avec un plateau.
   Keep dancing and do not miss the step of the beat.
 - ![icône d'osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
-  Basé sur les jeux de rythme de type "tapis-roulant", principalemnt introduit et implémenté par **woc2006**.
+  Basé sur les jeux de rythme de type "tapis-roulant", principalement introduit et implémenté par **woc2006**.
   Make the notes play a melody of the beat.
 
 Pour une explication générale des modes de jeu, voir la [FAQ][FAQ wikilink].

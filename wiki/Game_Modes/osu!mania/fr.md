@@ -75,7 +75,7 @@ Avec le modifieur de jeu [xK][xK wikilink], le joueur peut manuellement définir
 Cependant, le modifieur de jeu ne fonctionnera pas avec des beatmaps spécifiques à osu!mania.
 
 Avec le modifieur de jeu [Co-Op][Co-Op wikilink], la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score.
-Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche à a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
+Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
 
 #### Speed Change
 
@@ -104,7 +104,7 @@ _Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement o
 La vitesse de défilement **Fixée** est le nouveau système qui force une vitesse de défilement constante quel que soit le BPM.
 [Une introduction très simple de Blazier le 29 Octobre 2014 (2014-10-29) à propos de la vitesse de défilement fixée](https://osu.ppy.sh/forum/t/254145).
 
-Sachez que ces deux systèmes seront quand même affectés par les changements de BPM, avec des changements allant de drastiques (souvent pour une mise à l'échelle plus haute avec un haut BPM et des note rapides; très bas BPM pour des notes condensées) à mineures (souvent une mise à l'échelle fixée sur la plupart des spectrums de BPM) dépendamment du Speed Change utilisé.
+Sachez que ces deux systèmes seront quand même affectés par les changements de BPM, avec des changements allant de drastiques (souvent pour une mise à l'échelle plus haute avec un haut BPM et des note rapides; très bas BPM pour des notes condensées) à mineurs (souvent une mise à l'échelle fixée sur la plupart des spectrums de BPM) dépendamment du Speed Change utilisé.
 
 ### Gameplay
 
@@ -142,7 +142,7 @@ Une explosion du score se fera quand une touche a été frappée au bon moment.
 _Une partie typique avec quelques longues notes_
 
 Les longues notes sont les sliders et les spinners d'osu!mania.
-Quand une note tenue atteint la ligne de jugement, frappez la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la note tenue.
+Quand une longue note atteint la ligne de jugement, frappez la note qui démarre avec la touche correcte, tenez-la, et relâchez-la à la fin de la longue note.
 
 La régénération de la barre de vie s'active lentement lorsque vous tenez une/des note(s) longue(s).
 Dépendamment de la musique et des caprices du mapping, il est possible que d'autres notes ou longues notes apparaissent lorsque vous tenez déjà une note.
@@ -170,7 +170,7 @@ Les paramètres de touches par défaut sont pour le style _Symétrique_.
 Il _y avait_ deux différents styles de configuration, _Symétrique_ et _de Gauche à Droite_ :
 
 - le style _Symétrique_ imite le placement des boutons de _DJMAX_, dans lequel la touche centrale est la touche `Espace` pour simuler la sensation d'appuyer sur la pédale de la version arcade.
-  La touche du centre correspond à la colonne du milieu (nombres impairs seulement) et les autres colonnes correspondent au touches à la même place.
+  La touche du centre correspond à la colonne du milieu (nombres impairs seulement) et les autres colonnes correspondent aux touches à la même place.
 - le style _de Gauche à Droite_ imite le placement des boutons de _Beatmania IIDX_, où la première colonne correspond à la _touche1_, puis la seconde colonne à la _touche2_ et ainsi de suite.
   - Cependant, l'option pour le sélectionner a été supprimée et le style actuel est basé sur le style "Symétrique".
     Pour cause d'héritage, le style "de Droite à Gauche" est gardé ici.
@@ -211,7 +211,7 @@ Touche | Lié à
 8K(L)|**S1**, K1, K2, K3, K4, K5, K6, K7
 8K(R)|K1, K2, K3, K4, K5, K6, K7, **S1**
 
-- Note: Référez-vous à l'image basé sur le style utilisé.
+- Note: Référez-vous à l'image basée sur le style utilisé.
 
 ### Co-Op
 
@@ -220,7 +220,7 @@ Touche | Lié à
 La **[mise à jour du 5 Mars 2015 (2015-03-05)](http://osu.ppy.sh/p/changelog?v=b20150305)** a apporté à osu!mania un nouveau mod nommé [Co-Op][Co-Op wikilink].
 Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
 
-Arrangement de touches _Symétrique_ pour le second setzzz
+Arrangement de touches _Symétrique_ pour le second set
 
 - Pour les boutons de la main _gauche_ — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
 - Pour les boutons de la main _droite_ — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
@@ -246,7 +246,7 @@ Key | PL | PC | PR | SL | SC | SR
 9K Co-op|K1, K2, K3, K4|K5|K6, K7, K8, K9|B1, B2, B3, B4|B5|B6, B7, B8, B9
 
 **Le tableau ci-dessous ne s'applique qu'aux beatmaps spécifiques à osu!mania.
-Seulement les nombre impairs spécifiques au xK sont mentionnés.
+Seulement les nombre impairs spécifiques aux xK sont mentionnés.
 Reportez-vous au premier tableau pour les numéros pairs (pour les spécifiques au 4K, se référer à 2K Co-op et ainsi de suite)**
 
 Key | PL | PC | PR | SL | SC | SR
@@ -260,7 +260,7 @@ Key | PL | PC | PR | SL | SC | SR
 
 _[Les Valeurs de Scoring peuvent être trouvées sous osu!mania de la section Scoring Values][Score#osu!maniaSV wikilink]_
 
-La section Scoring détaille tout les recoins du scoring, formules mathématiques comprises.
+La section Scoring détaille tous les recoins du scoring, formules mathématiques comprises.
 
 ### Grades
 
@@ -283,10 +283,10 @@ En d'autres termes : `Précision = Total des points de hit / (Nombre total de hi
 
 Terme | Formule
  :--:| :--
-**Total des points de hits** | (Nombre de 50 * 50 + Nombre de 100 * 100 + Npmbre de 200 * 200 + Npmbre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
-**Nombre total de hits** | (Nombre de manqués + N + Nombre de 50 * 50 + Nombre de 100 * 100 + Npmbre de 200 * 200 + Npmbre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
+**Total des points de hits** | (Nombre de 50 * 50 + Nombre de 100 * 100 + Nombre de 200 * 200 + Nombre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
+**Nombre total de hits** | (Nombre de manqués + N + Nombre de 50 * 50 + Nombre de 100 * 100 + Nombre de 200 * 200 + Nombre de 300 * 300 + Nombre de 300 arc-en-ciel * 300)
 
-Notez que les MAX (ou 300 arc-en-ciel) et 300 valent tous les deux le maximum pour le calcul de la précsision, malgré qu'un MAX vaille plus en terme de score qu'un 300.
+Notez que les MAX (ou 300 arc-en-ciel) et 300 valent tous les deux le maximum pour le calcul de la précision, malgré qu'un MAX vaille plus en terme de score qu'un 300.
 
 ### Score
 
@@ -309,7 +309,7 @@ Score = BaseScore + BonusScore
 BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
 
 BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
+Bonus = Bonus avant ce hit + HitBonus - HitPunishment / ModDivider
 Bonus est limité à [0, 100], initiallement 100.
 
 MaxScore = 1 000 000
@@ -348,7 +348,7 @@ Flashlight                    1.06
 - Le jugement des longues notes dépend à la fois du début et de la fin de la note.
 - Continuer de la tenir jusqu'à la fin de la note, avec un timing parfait de l'initial et du final : MAX
 - Continuer de la tenir jusqu'à la fin de la note, sans relâcher la note : 200
-- Faire un _NG_ et ne pas récupérer la note tenue : Miss
+- Faire un _NG_ et ne pas récupérer la longue note : Miss
 - Faire un _NG_ et continuer de maintenir la note : 50
 
 NG : _Not Good_, un terme de _StepMania/DDR_, qui apparaît lorsqu'une note est relâchée alors qu'elle ne devrait pas l'être.
@@ -363,11 +363,11 @@ NG : _Not Good_, un terme de _StepMania/DDR_, qui apparaît lorsqu'une note est 
 **Un des cas suivants va réinitialiser le multiplicateur de score/combo :**
 
 - La note n'est pas complétée.
-- La longue note est lâchée durant alors que la note n'est pas finie.
+- La longue note est lâchée alors que la note n'est pas finie.
 
 **Le cas suivant ne va pas affecter le multiplicateur de score :**
 
-- Lâcher la note tenue à la fin de la note.
+- Lâcher la longue note à la fin de la note.
 
 ## Barre de vie
 
@@ -407,7 +407,7 @@ Sachez que la beatmap sera bloquée en osu!mania seulement quand les paramètres
 _Changer le nombre forcé de touches_
 
 Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Difficulty et ajustez _Key Count_.
-Activez le bouton `Co-op mode` pour forcer le modifieurr _Co-Op_ quand elle sera jouée, avec un _Key Count_ doublé à mapper.
+Activez le bouton `Co-op mode` pour forcer le modifieur _Co-Op_ quand elle sera jouée, avec un _Key Count_ doublé à mapper.
 
 ## Trivia
 
