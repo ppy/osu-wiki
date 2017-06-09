@@ -3,12 +3,12 @@ Turnieje
 
   ***[Przekierowanie do Archiwum ogłoszeń.](/wiki/Announcements/Archive)***
 
-Sekcja dotycząca turniejów. [Wątek na forum.](//osu.ppy.sh/forum/55)
+Sekcja dotycząca turniejów. [Wątek na forum.](https://osu.ppy.sh/forum/55)
 
 Oficjalne turnieje
 ----------------------
 
-Oficjalne turnieje są prowadzone przez [Staff turniejowy](//osu.ppy.sh/g/26).
+Oficjalne turnieje są prowadzone przez [Staff turniejowy](https://osu.ppy.sh/g/26).
 
 ### ![](/wiki/shared/Osu.gif) osu! World Cup
 
@@ -61,7 +61,7 @@ Nieoficjalne turnieje prowadzone przez społeczność.
 ### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
 
 The North American osu! Standard Tournament to coroczny turniej prowadzony przez . Jest to turniej 1v1. Aby wyłonić zwycięzcę, turniej ma styl [Double Elimination](https://en.wikipedia.org/wiki/Double-elimination_tournament). Pozwala on graczowi na przegranie meczu, mając jednocześnie szansę na wygraną. Dzieje się tak aby nie krzywdzić nowszych graczy którzy zostają umieszczeni w pierwszej rundzie z osobami, które są wysoko w rankingu.
-NAT jest prowadzony od 2013 roku i najpewniej będzie jeszcze w przyszłości. Wątek na forum określający wszystkie szczegóły turnieju znajduje się [tutaj](//osu.ppy.sh/forum/t/324720).
+NAT jest prowadzony od 2013 roku i najpewniej będzie jeszcze w przyszłości. Wątek na forum określający wszystkie szczegóły turnieju znajduje się [tutaj](https://osu.ppy.sh/forum/t/324720).
 
 #### Poprzedni zwycięzcy
 

@@ -3,12 +3,12 @@ Turnamen
 
   ***[Tautan cepat untuk kembali menuju Arsip Pengumuman](/wiki/Announcements/Archive)***
 
-Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum dsini.](//osu.ppy.sh/forum/55)
+Bagian ini diperuntukkan untuk Turnamen dan Kompetisi. [Tautan forum dsini.](https://osu.ppy.sh/forum/55)
 
 Turnamen Resmi Pertandingan Kancah Dunia
 --------------------------------------------------
 
-Turnamen resmi yang diselenggarakan oleh [Pengelola Turnamen](//osu.ppy.sh/g/26).
+Turnamen resmi yang diselenggarakan oleh [Pengelola Turnamen](https://osu.ppy.sh/g/26).
 
 ### ![](/wiki/shared/Osu.gif) osu! World Cup
 
@@ -58,18 +58,18 @@ Turnamen/kompetisi tidak resmi yang diselenggarai oleh komunitas.
 
 ### ![](/wiki/shared/Osu.gif) North American osu! Standard Tournament
 
-The North American osu! Standard Tournament (Turnamen osu!Standard Amerika Utara) adalah turnamen tahunan yang diselenggarai oleh [MMzz](//osu.ppy.sh/u/128993), Turnamen ini menggunakan sistem [Eleminasi Pasangan](//en.wikipedia.org/wiki/Double-elimination_tournament) untuk menentukan pemenang pertandingan dan merupakan sebuah turnamen berbasis solo (1vs1). Sistem ini memperbolehkan seorang pemain untuk kalah di sebuah pertandingan, namun masih memiliki kesempatan untuk menang, untuk melawan fakta bahwa para pemain baru memungkinkan untuk dipertarungkan dengan para pemain yang tinggi peringkatnya di ronde pertama.
-Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berlangsung di masa mendatang. Postingan Forum yang mengurai semua detil mengenai turnamen ini dapat ditemukan di [disini](//osu.ppy.sh/forum/t/324720)
+The North American osu! Standard Tournament (Turnamen osu!Standard Amerika Utara) adalah turnamen tahunan yang diselenggarai oleh [MMzz](https://osu.ppy.sh/u/128993), Turnamen ini menggunakan sistem [Eleminasi Pasangan](https://en.wikipedia.org/wiki/Double-elimination_tournament) untuk menentukan pemenang pertandingan dan merupakan sebuah turnamen berbasis solo (1vs1). Sistem ini memperbolehkan seorang pemain untuk kalah di sebuah pertandingan, namun masih memiliki kesempatan untuk menang, untuk melawan fakta bahwa para pemain baru memungkinkan untuk dipertarungkan dengan para pemain yang tinggi peringkatnya di ronde pertama.
+Turnamen ini telah berlangsung sejak tahun 2013, dan sepertinya akan terus berlangsung di masa mendatang. Postingan Forum yang mengurai semua detil mengenai turnamen ini dapat ditemukan di [disini](https://osu.ppy.sh/forum/t/324720)
 
 #### Pemenang Sebelumnya
 
 - **PEMENANG NAT 2013:** SapphireGhost
-- **PEMENANG NAT 2014:** [Azer](//osu.ppy.sh/u/2155578)
-- **PEMENANG NAT 2015:** [[Toy]](//osu.ppy.sh/u/2757689)
+- **PEMENANG NAT 2014:** [Azer](https://osu.ppy.sh/u/2155578)
+- **PEMENANG NAT 2015:** [[Toy]](https://osu.ppy.sh/u/2757689)
 
 Lihat juga
 ------------
 
 -   [List para lawan yang berpartisipasi di dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](//osu.ppy.sh/forum/t/148024)
+-   [Sesi Jadwal Pertandingan Dunia World Cup 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk merekam turnamen)

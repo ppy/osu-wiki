@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](logo.jpg)
 
-今年6度目を迎える **osu! World Cup 2015** (***OWC 2015*** ) は、[Tournament Management](//osu.ppy.sh/g/26)が開催する国別対抗トーナメントです。
+今年6度目を迎える **osu! World Cup 2015** (***OWC 2015*** ) は、[Tournament Management](https://osu.ppy.sh/g/26)が開催する国別対抗トーナメントです。
 
 トーナメント日程
 ---------------------
@@ -35,20 +35,20 @@ osu! World Cup 2015
 
 | Job   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 大会運営者 | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
-| 譜面選択者 | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| 配信者   | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 実況者   | ![](/wiki/shared/flag/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
-| 統計者   | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 大会運営者 | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| 譜面選択者 | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](https://osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](https://osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| 配信者   | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 実況者   | ![](/wiki/shared/flag/Us.gif) [Chippy](https://osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](https://osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](https://osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](https://osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](https://osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](https://osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](https://osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347) |
+| 統計者   | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 リンク
 -------
 
--   [osu! World Cup 2015 on Twitch](//www.twitch.tv/osulive/)
--   [Discussion Thread](//osu.ppy.sh/forum/p/4550383)
--   [Registration page](//jizz.ppy.sh/tournaments/2)
+-   [osu! World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
+-   [Discussion Thread](https://osu.ppy.sh/forum/p/4550383)
+-   [Registration page](https://jizz.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -213,7 +213,7 @@ osu! World Cup 2015
 
 4.  　各グループのトップ2チームはダブルエリミネーション・ステージに進出します。
 5.  ダブルエリミネーション・ステージでは、勝者は次のステージに、敗者は敗者枠に移動されます。
-6.  [この図](//puu.sh/bUq5V/f1066103b0.png)に従い、ステージは下記のように分けられます。
+6.  [この図](https://puu.sh/bUq5V/f1066103b0.png)に従い、ステージは下記のように分けられます。
 
 | Stage         | Match ID                |
 |---------------|-------------------------|

@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](logo.jpg)
 
-Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](//osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
 ---------------
@@ -35,20 +35,20 @@ Organisation
 
 | Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
-| Map Auswähler      | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| Streamer           | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Kommentatoren      | ![](/wiki/shared/flag/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
-| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| Map Auswähler      | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](https://osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](https://osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| Streamer           | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kommentatoren      | ![](/wiki/shared/flag/Us.gif) [Chippy](https://osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](https://osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](https://osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](https://osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](https://osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](https://osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](https://osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347) |
+| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 Links
 --------
 
--   [osu! World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
--   [Diskussionsthread](//osu.ppy.sh/forum/p/4550383)
--   [Registrierungsseite](//jizz.ppy.sh/tournaments/2)
+-   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
+-   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
+-   [Registrierungsseite](https://jizz.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ Regelsätze
 ### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](//osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 
@@ -213,7 +213,7 @@ Regelsätze
 
 4.  Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Stage            | Match ID                 |
 |------------------|--------------------------|

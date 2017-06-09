@@ -3,7 +3,7 @@ osu!mania World Cup 2014
 
 ![MWC 2014 logo](logo.png)
 
-The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](//osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
+The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
 Calendrier
 -------------
@@ -33,18 +33,18 @@ Organisation
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Direction                 | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)                                                                                                                                                  |
-| Séléction des beatmaps    | ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) // ![](/wiki/shared/flag/Cl.gif) [Agka](//osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
-| Retransmission des matchs | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                 |
-| Commentaires              | ![](/wiki/shared/flag/Us.gif) [Charles445](//osu.ppy.sh/u/85000) // ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/It.gif) [Roxas](//osu.ppy.sh/u/1041833) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) // ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](//osu.ppy.sh/u/2008489) |
-| Statistiques              | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
+| Direction                 | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565)                                                                                                                                                  |
+| Séléction des beatmaps    | ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](https://osu.ppy.sh/u/2008489) // ![](/wiki/shared/flag/Cl.gif) [Agka](https://osu.ppy.sh/u/64811)                                                                                                                                                                                                            |
+| Retransmission des matchs | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                 |
+| Commentaires              | ![](/wiki/shared/flag/Us.gif) [Charles445](https://osu.ppy.sh/u/85000) // ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/It.gif) [Roxas](https://osu.ppy.sh/u/1041833) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347) // ![](/wiki/shared/flag/Ru.gif) [\[Shi-Ra\]](https://osu.ppy.sh/u/2008489) |
+| Statistiques              | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
 ------
 
--   [osu!mania 2014 sur Twitch](http://www.twitch.tv/osulive/)
+-   [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
 -   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
 -   [Topic de discussion](https://osu.ppy.sh/forum/t/222100)
 
@@ -87,8 +87,8 @@ Réglement
         2.  Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) intitulé “MWC Registration”
-    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](http://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) intitulé “MWC Registration”
+    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5.  32 équipes maximum sont autorisées à participer dans chaque tournoi.

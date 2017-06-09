@@ -55,7 +55,7 @@ osu!
 
 ### Asistencia
 
-| OWC                     | [\#1](Osu!_World_Cup/1 "wikilink") | [\#2](http://osu.ppy.sh/forum/t/65535) | [\#3](http://osu.ppy.sh/forum/t/102985) | [2013](osu_World_Cup_2013 "wikilink") | [2014](Osu!_World_Cup_2014 "wikilink") | [2015](osu!_World_Cup_2015 "wikilink") |
+| OWC                     | [\#1](Osu!_World_Cup/1 "wikilink") | [\#2](https://osu.ppy.sh/forum/t/65535) | [\#3](https://osu.ppy.sh/forum/t/102985) | [2013](osu_World_Cup_2013 "wikilink") | [2014](Osu!_World_Cup_2014 "wikilink") | [2015](osu!_World_Cup_2015 "wikilink") |
 |-------------------------|------------------------------------|----------------------------------------|-----------------------------------------|---------------------------------------|----------------------------------------|----------------------------------------|
 | ![](Ar.gif "Ar.gif")    | Argentina                          |                                        |                                         |                                       |                                        |                                        |
 | ![](Au.gif "Au.gif")    | Australia                          |                                        |                                         |                                       |                                        |                                        |
@@ -120,7 +120,7 @@ Taiko
 
 ### Asistencia
 
-| TWC                     | [2011](http://osu.ppy.sh/forum/t/47356) | [2012](http://osu.ppy.sh/forum/t/66910) | [\#3](http://osu.ppy.sh/forum/t/99029)        | [2014](Taiko_World_Cup_2014 "wikilink")   | [2015](Taiko_World_Cup_2015 "wikilink") | [2016](Taiko_World_Cup_2016 "wikilink") |
+| TWC                     | [2011](https://osu.ppy.sh/forum/t/47356) | [2012](https://osu.ppy.sh/forum/t/66910) | [\#3](https://osu.ppy.sh/forum/t/99029)        | [2014](Taiko_World_Cup_2014 "wikilink")   | [2015](Taiko_World_Cup_2015 "wikilink") | [2016](Taiko_World_Cup_2016 "wikilink") |
 |-------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
 | ![](Ar.gif "Ar.gif")    | Argentina                               |                                         |                                               |                                           |                                         |                                         |
 | ![](Au.gif "Au.gif")    | Australia                               |                                         |                                               |                                           |                                         |                                         |
@@ -176,7 +176,7 @@ Catch the Beat
 
 ### Asistencia
 
-| CWC                     | [2013](http://osu.ppy.sh/forum/t/106684) | [2014](Catch_the_Beat_World_Cup_2014 "wikilink") | [2015](CWC_2015 "wikilink") |
+| CWC                     | [2013](https://osu.ppy.sh/forum/t/106684) | [2014](Catch_the_Beat_World_Cup_2014 "wikilink") | [2015](CWC_2015 "wikilink") |
 |-------------------------|------------------------------------------|--------------------------------------------------|-----------------------------|
 | ![](Ar.gif "Ar.gif")    | Argentina                                | **3ro**<sup>[½](#Notes "wikilink")</sup>         |                             |
 | ![](Au.gif "Au.gif")    | Australia                                |                                                  |                             |

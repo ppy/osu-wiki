@@ -151,7 +151,7 @@ A:Yes, besides those blacklisted. i.e. If both teams agree on Hidden, then it ca
 
 Q: How does the screenshot of the winner look like?
 
-A: <http://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
+A: <https://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
 
 Q: Huh, i thought this was a 4vs4 tournament as well, why did you ditch that?
 

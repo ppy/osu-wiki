@@ -1,12 +1,12 @@
 Tournaments
 ===============
 
-Section dedicated for Tournaments and/or Competitons. [Forum link here.](//osu.ppy.sh/forum/55)
+Section dedicated for Tournaments and/or Competitons. [Forum link here.](https://osu.ppy.sh/forum/55)
 
 Official World Cups
 ----------------------
 
-Official tournaments hosted by the [Tournament Management](//osu.ppy.sh/g/26).
+Official tournaments hosted by the [Tournament Management](https://osu.ppy.sh/g/26).
 
 ### ![](/wiki/shared/Osu.gif) osu! World Cup
 
@@ -65,5 +65,5 @@ See also
 ---------
 
 -   [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](http://osu.ppy.sh/forum/t/148024)
+-   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)

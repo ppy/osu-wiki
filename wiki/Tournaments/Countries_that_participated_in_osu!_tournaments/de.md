@@ -51,7 +51,7 @@ osu!
 
 ### Teilnahme
 
-| OWC                            | [\#1](DE:Osu!_World_Cup/1 "wikilink") | [\#2](http://osu.ppy.sh/forum/t/65535) | [\#3](http://osu.ppy.sh/forum/t/102985) | [2013](DE:Osu_World_Cup_2013 "wikilink") | [2014](DE:Osu!_World_Cup_2014 "wikilink") |
+| OWC                            | [\#1](DE:Osu!_World_Cup/1 "wikilink") | [\#2](https://osu.ppy.sh/forum/t/65535) | [\#3](https://osu.ppy.sh/forum/t/102985) | [2013](DE:Osu_World_Cup_2013 "wikilink") | [2014](DE:Osu!_World_Cup_2014 "wikilink") |
 |--------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|------------------------------------------|-------------------------------------------|
 | ![](Ar.gif "Ar.gif")           | Argentinien                           |                                        |                                         |                                          |                                           |
 | ![](Au.gif "Au.gif")           | Australien                            |                                        |                                         |                                          |                                           |
@@ -115,7 +115,7 @@ Taiko
 
 ### Teilnahme
 
-| TWC                            | [2011](http://osu.ppy.sh/forum/t/47356) | [2012](http://osu.ppy.sh/forum/t/66910) | [\#3](http://osu.ppy.sh/forum/t/99029)      | [2014](DE:Taiko_World_Cup_2014 "wikilink") | [2015](DE:Taiko_World_Cup_2015 "wikilink") |
+| TWC                            | [2011](https://osu.ppy.sh/forum/t/47356) | [2012](https://osu.ppy.sh/forum/t/66910) | [\#3](https://osu.ppy.sh/forum/t/99029)      | [2014](DE:Taiko_World_Cup_2014 "wikilink") | [2015](DE:Taiko_World_Cup_2015 "wikilink") |
 |--------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------|--------------------------------------------|
 | ![](Ar.gif "Ar.gif")           | Argentinien                             |                                         |                                             |                                            |                                            |
 | ![](Au.gif "Au.gif")           | Australien                              |                                         |                                             |                                            |                                            |
@@ -171,7 +171,7 @@ Catch the Beat
 
 ### Teilnahme
 
-| CWC                            | [2013](http://osu.ppy.sh/forum/t/106684) | [2014](DE:Catch_the_Beat_World_Cup_2014 "wikilink") | [2015](DE:CWC_2015 "wikilink") |
+| CWC                            | [2013](https://osu.ppy.sh/forum/t/106684) | [2014](DE:Catch_the_Beat_World_Cup_2014 "wikilink") | [2015](DE:CWC_2015 "wikilink") |
 |--------------------------------|------------------------------------------|-----------------------------------------------------|--------------------------------|
 | ![](Ar.gif "Ar.gif")           | Argentinien                              | **3.**<sup>[½](#Notes "wikilink")</sup>             |                                |
 | ![](Au.gif "Au.gif")           | Australien                               |                                                     |                                |

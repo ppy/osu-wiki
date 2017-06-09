@@ -3,7 +3,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](logo.png)
 
-По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](//osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Kr.gif) Корея**.
+По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](https://osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Kr.gif) Корея**.
 = Расписание турнира =
 
 -   Фаза регистрации: 15-28 октября 2013
@@ -33,15 +33,15 @@ osu! World Cup 2013
 Организация турнира
 --------------------
 
-**Мереджеры турнира:** ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366), ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703), ![](/wiki/shared/flag/Us.gif) [dkun](//osu.ppy.sh/u/154400)
+**Мереджеры турнира:** ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366), ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703), ![](/wiki/shared/flag/Us.gif) [dkun](https://osu.ppy.sh/u/154400)
 
-**Судьи:** [Tournament Management usergroup](//osu.ppy.sh/g/26)
+**Судьи:** [Tournament Management usergroup](https://osu.ppy.sh/g/26)
 
-**Ответственные за выбор битмап:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](//osu.ppy.sh/u/570042), ![](/wiki/shared/flag/Ar.gif) [Wishy](//osu.ppy.sh/u/495477), ![](/wiki/shared/flag/It.gif) [Chewin](//osu.ppy.sh/u/617323)
+**Ответственные за выбор битмап:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](https://osu.ppy.sh/u/570042), ![](/wiki/shared/flag/Ar.gif) [Wishy](https://osu.ppy.sh/u/495477), ![](/wiki/shared/flag/It.gif) [Chewin](https://osu.ppy.sh/u/617323)
 
-**Стримеры:** ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2), ![](/wiki/shared/flag/Au.gif) [Zallius](//osu.ppy.sh/u/55), ![](/wiki/shared/flag/Ca.gif) [Nyquill](//osu.ppy.sh/u/682935), ![](/wiki/shared/flag/Us.gif) [Makar](//osu.ppy.sh/u/686389)
+**Стримеры:** ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2), ![](/wiki/shared/flag/Au.gif) [Zallius](https://osu.ppy.sh/u/55), ![](/wiki/shared/flag/Ca.gif) [Nyquill](https://osu.ppy.sh/u/682935), ![](/wiki/shared/flag/Us.gif) [Makar](https://osu.ppy.sh/u/686389)
 
-**Комментаторы:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078), ![](/wiki/shared/flag/Us.gif) [Agnes](//osu.ppy.sh/u/136982), ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347), ![](/wiki/shared/flag/No.gif) [kriers](//osu.ppy.sh/u/333241), ![](/wiki/shared/flag/No.gif) [MillhioreF](//osu.ppy.sh/u/941094), ![](/wiki/shared/flag/Au.gif) [LaVolpe024](//osu.ppy.sh/u/597796), ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370)
+**Комментаторы:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078), ![](/wiki/shared/flag/Us.gif) [Agnes](https://osu.ppy.sh/u/136982), ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347), ![](/wiki/shared/flag/No.gif) [kriers](https://osu.ppy.sh/u/333241), ![](/wiki/shared/flag/No.gif) [MillhioreF](https://osu.ppy.sh/u/941094), ![](/wiki/shared/flag/Au.gif) [LaVolpe024](https://osu.ppy.sh/u/597796), ![](/wiki/shared/flag/Nz.gif) [deadbeat](https://osu.ppy.sh/u/128370)
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ osu! World Cup 2013
 
 | Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Cn.gif) China         | **[Furudo\_Erika](http://osu.ppy.sh/u/169878)**, [wobeinimacao](http://osu.ppy.sh/u/350723), [N a n o](http://osu.ppy.sh/u/694114), [5231\_Kinoko](http://osu.ppy.sh/u/181057), [GGBY](http://osu.ppy.sh/u/629717), [Dsan](http://osu.ppy.sh/u/1266166), [InabaTewi](http://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](http://osu.ppy.sh/u/1349849) |
-| ![](/wiki/shared/flag/De.gif) Germany       | **[ShadowSoul](http://osu.ppy.sh/u/494970)**, [CookEasy](http://osu.ppy.sh/u/453226), [Michi](http://osu.ppy.sh/u/932342), [Dustice](http://osu.ppy.sh/u/754565), [BDDav](http://osu.ppy.sh/u/1164526), [cptnXn](http://osu.ppy.sh/u/495272), [Imamoto](http://osu.ppy.sh/u/1201224), [dukambe](http://osu.ppy.sh/u/880002)                     |
-| ![](/wiki/shared/flag/Jp.gif) Japan         | **[Karuta](http://osu.ppy.sh/u/360552)**, [rrtyui](http://osu.ppy.sh/u/352328), [Potofu](http://osu.ppy.sh/u/657404), [serea](http://osu.ppy.sh/u/371961), [mugio3](http://osu.ppy.sh/u/491522), [Homura-](http://osu.ppy.sh/u/482120), [Gokuri](http://osu.ppy.sh/u/343865), [doctorindark](http://osu.ppy.sh/u/609227)                        |
-| ![](/wiki/shared/flag/Kr.gif) Korea         | **[Dungeon](http://osu.ppy.sh/u/461720)**, [K i R i K a R u](http://osu.ppy.sh/u/139670), [dragonhuman](http://osu.ppy.sh/u/713266), [ffury](http://osu.ppy.sh/u/2056071), [CheEZ](http://osu.ppy.sh/u/272117), [- Hakurei Reimu-](http://osu.ppy.sh/u/948713), [Tengu](http://osu.ppy.sh/u/380836), [Shizuru-](http://osu.ppy.sh/u/1341421)    |
+| ![](/wiki/shared/flag/Cn.gif) China         | **[Furudo\_Erika](https://osu.ppy.sh/u/169878)**, [wobeinimacao](https://osu.ppy.sh/u/350723), [N a n o](https://osu.ppy.sh/u/694114), [5231\_Kinoko](https://osu.ppy.sh/u/181057), [GGBY](https://osu.ppy.sh/u/629717), [Dsan](https://osu.ppy.sh/u/1266166), [InabaTewi](https://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/u/1349849) |
+| ![](/wiki/shared/flag/De.gif) Germany       | **[ShadowSoul](https://osu.ppy.sh/u/494970)**, [CookEasy](https://osu.ppy.sh/u/453226), [Michi](https://osu.ppy.sh/u/932342), [Dustice](https://osu.ppy.sh/u/754565), [BDDav](https://osu.ppy.sh/u/1164526), [cptnXn](https://osu.ppy.sh/u/495272), [Imamoto](https://osu.ppy.sh/u/1201224), [dukambe](https://osu.ppy.sh/u/880002)                     |
+| ![](/wiki/shared/flag/Jp.gif) Japan         | **[Karuta](https://osu.ppy.sh/u/360552)**, [rrtyui](https://osu.ppy.sh/u/352328), [Potofu](https://osu.ppy.sh/u/657404), [serea](https://osu.ppy.sh/u/371961), [mugio3](https://osu.ppy.sh/u/491522), [Homura-](https://osu.ppy.sh/u/482120), [Gokuri](https://osu.ppy.sh/u/343865), [doctorindark](https://osu.ppy.sh/u/609227)                        |
+| ![](/wiki/shared/flag/Kr.gif) Korea         | **[Dungeon](https://osu.ppy.sh/u/461720)**, [K i R i K a R u](https://osu.ppy.sh/u/139670), [dragonhuman](https://osu.ppy.sh/u/713266), [ffury](https://osu.ppy.sh/u/2056071), [CheEZ](https://osu.ppy.sh/u/272117), [- Hakurei Reimu-](https://osu.ppy.sh/u/948713), [Tengu](https://osu.ppy.sh/u/380836), [Shizuru-](https://osu.ppy.sh/u/1341421)    |
 | ![](/wiki/shared/flag/Pl.gif) Poland        | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek                                                                                                                                                                                                                                                      |
 | ![](/wiki/shared/flag/Tw.gif) Taiwan        | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou                                                                                                                                                                                                                                                         |
 | ![](/wiki/shared/flag/Th.gif) Thailand      | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution                                                                                                                                                                                                                                                                             |
@@ -65,7 +65,7 @@ osu! World Cup 2013
 
 | Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ar.gif) Argentina          | **[Metro](http://osu.ppy.sh/u/306737)**, [Glazbom](http://osu.ppy.sh/u/608277), [Salvage](http://osu.ppy.sh/u/242119), [Hernan](http://osu.ppy.sh/u/516680), [Fabi](http://osu.ppy.sh/u/173114), [druidxd](http://osu.ppy.sh/u/841441), [CBA-ES-CAB](http://osu.ppy.sh/u/1875237), [Mikumiku97](http://osu.ppy.sh/u/503749) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina          | **[Metro](https://osu.ppy.sh/u/306737)**, [Glazbom](https://osu.ppy.sh/u/608277), [Salvage](https://osu.ppy.sh/u/242119), [Hernan](https://osu.ppy.sh/u/516680), [Fabi](https://osu.ppy.sh/u/173114), [druidxd](https://osu.ppy.sh/u/841441), [CBA-ES-CAB](https://osu.ppy.sh/u/1875237), [Mikumiku97](https://osu.ppy.sh/u/503749) |
 | ![](/wiki/shared/flag/Br.gif) Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
 | ![](/wiki/shared/flag/Hk.gif) Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
 | ![](/wiki/shared/flag/Lv.gif) Latvia             | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX                                                                                                                                                                                                                                                     |
@@ -106,7 +106,7 @@ osu! World Cup 2013
 Полезные ссылки
 ---------------
 
--   [Тред для обсуждения турнира](//osu.ppy.sh/forum/t/160181/start=0)
+-   [Тред для обсуждения турнира](https://osu.ppy.sh/forum/t/160181/start=0)
 
 ------------------------------------------------------------------------
 
@@ -145,8 +145,8 @@ osu! World Cup 2013
     2.  Также, команде нужен капитан, который будет её представлять.
 
 2.  Каждая команда должна быть собрана из игроков одной страны.
-3.  Для того, чтобы принять участие в турнире, заполните [эту форму](//docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). После этого нужно подтвердить заполнение формы, отправив личное сообщение пользователю [Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком “OWC Registration”.
-    1.  Капитаны могут изменить состав, предупредив [менеджера турнира](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  Для того, чтобы принять участие в турнире, заполните [эту форму](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). После этого нужно подтвердить заполнение формы, отправив личное сообщение пользователю [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком “OWC Registration”.
+    1.  Капитаны могут изменить состав, предупредив [менеджера турнира](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Каждый заявленный участник будет проверен организаторами турнира на предмет допуска к нему.
 5.  Общее количество команд-участниц ограничивается тридцатью двумя. Кто не успел, тот опоздал.

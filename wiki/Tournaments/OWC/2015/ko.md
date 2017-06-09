@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](logo.jpg)
 
-올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](//osu.ppy.sh/g/26)에 의해 개최되는 국가 대항 토너먼트입니다.
+올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](https://osu.ppy.sh/g/26)에 의해 개최되는 국가 대항 토너먼트입니다.
 
 토너먼트 일정
 -----------
@@ -22,7 +22,7 @@ osu! World Cup 2015
 상품
 ----
 
-저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](//store.ppy.sh/store/product/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
+저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](https://store.ppy.sh/store/product/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
 
 | Placing                                                    | Prizes                                    |
 |------------------------------------------------------------|-------------------------------------------|
@@ -35,22 +35,22 @@ osu! World Cup 2015
 
 | Job     | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
-| 맵풀      | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](//osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](//osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| 방송      | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 해설      | ![](/wiki/shared/flag/Us.gif) [Chippy](//osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](//osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](//osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](//osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](//osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347) |
-| 통계      | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                                                                                                                                                           |
+| 맵풀      | ![](/wiki/shared/flag/Fr.gif) [Cherry Blossom](https://osu.ppy.sh/u/1156742) // ![](/wiki/shared/flag/Hk.gif) [Skystar](https://osu.ppy.sh/u/873961) // ![](/wiki/shared/flag/Kr.gif) [ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                                                                                                                                                                                                                                           |
+| 방송      | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 해설      | ![](/wiki/shared/flag/Us.gif) [Chippy](https://osu.ppy.sh/u/2314115) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](https://osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/Gb.gif) [Doomsday](https://osu.ppy.sh/u/18983) // ![](/wiki/shared/flag/Ar.gif) [juankristal](https://osu.ppy.sh/u/443656) // ![](/wiki/shared/flag/Gb.gif) [Raiku](https://osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif) [rfandomization](https://osu.ppy.sh/u/3716999) // ![](/wiki/shared/flag/Us.gif) [Zak](https://osu.ppy.sh/u/1375955) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347) |
+| 통계      | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ------------------------------------------------------------------------
 
 링크
 ------
 
--   [osu! World Cup 2015 트위치](//www.twitch.tv/osulive/)
--   [논의 스레드](//osu.ppy.sh/forum/p/4550383)
--   [등록 페이지](//jizz.ppy.sh/tournaments/2)
--   [현재 단계의 결과](//docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
--   **[그룹 스테이지 통계 개요(임시)](//docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+-   [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
+-   [논의 스레드](https://osu.ppy.sh/forum/p/4550383)
+-   [등록 페이지](https://jizz.ppy.sh/tournaments/2)
+-   [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
+-   **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -151,126 +151,126 @@ osu! World Cup 2015
 
 ### 8강
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
 | NoMod                                                                                           |
 |-------------------------------------------------------------------------------------------------|
-| [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](//osu.ppy.sh/b/676172)       |
-| [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[0108\]](//osu.ppy.sh/b/157861)      |
-| [xi - Wish upon Twin Stars (Chaoslitz) \[Wish\]](//osu.ppy.sh/b/559673)                         |
-| [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](//osu.ppy.sh/b/187410)                 |
-| [siqlo - Forest Haze (Lust) \[Leader's Extra\]](//osu.ppy.sh/b/656723)                          |
-| [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](//osu.ppy.sh/b/137766) |
+| [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/b/676172)       |
+| [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[0108\]](https://osu.ppy.sh/b/157861)      |
+| [xi - Wish upon Twin Stars (Chaoslitz) \[Wish\]](https://osu.ppy.sh/b/559673)                         |
+| [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/187410)                 |
+| [siqlo - Forest Haze (Lust) \[Leader's Extra\]](https://osu.ppy.sh/b/656723)                          |
+| [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/b/137766) |
 
 | Hidden                                                                                                |
 |-------------------------------------------------------------------------------------------------------|
-| [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Extra\]](//osu.ppy.sh/b/542336) |
-| [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](//osu.ppy.sh/b/50148)                                      |
-| [ETIA. - Lost Love (JJburstOwO) \[Last Eve\]](//osu.ppy.sh/b/755900)                                  |
+| [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Extra\]](https://osu.ppy.sh/b/542336) |
+| [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/b/50148)                                      |
+| [ETIA. - Lost Love (JJburstOwO) \[Last Eve\]](https://osu.ppy.sh/b/755900)                                  |
 
 | HardRock                                                                                                   |
 |------------------------------------------------------------------------------------------------------------|
-| [Hanatan - If (Rakuen) \[wkyik's Insane\]](//osu.ppy.sh/b/587577)                                          |
-| [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Mikkuri) \[Extra\]](//osu.ppy.sh/b/742975)   |
-| [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](//osu.ppy.sh/b/358273) |
+| [Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/b/587577)                                          |
+| [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Mikkuri) \[Extra\]](https://osu.ppy.sh/b/742975)   |
+| [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](https://osu.ppy.sh/b/358273) |
 
 | DoubleTime                                                              |
 |-------------------------------------------------------------------------|
-| [senya - Yukitoke Realism (wring) \[Lunatic\]](//osu.ppy.sh/b/579751)   |
-| [ichigo - YU-MU (Louis Cyphre) \[Extra\]](//osu.ppy.sh/b/128074)        |
-| [ClariS - with you (10nya) \[Laurier's Insane\]](//osu.ppy.sh/b/380012) |
+| [senya - Yukitoke Realism (wring) \[Lunatic\]](https://osu.ppy.sh/b/579751)   |
+| [ichigo - YU-MU (Louis Cyphre) \[Extra\]](https://osu.ppy.sh/b/128074)        |
+| [ClariS - with you (10nya) \[Laurier's Insane\]](https://osu.ppy.sh/b/380012) |
 
 | FreeMod                                                                                  |
 |------------------------------------------------------------------------------------------|
-| [Zeami feat. Tenshi - Tenyou no Mai (smallboat) \[Yuki's Extra\]](//osu.ppy.sh/b/434118) |
-| [APG550 - NEVERLAND (Natsu) \[Yuny\]](//osu.ppy.sh/b/776749)                             |
-| [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](//osu.ppy.sh/b/722934)                 |
+| [Zeami feat. Tenshi - Tenyou no Mai (smallboat) \[Yuki's Extra\]](https://osu.ppy.sh/b/434118) |
+| [APG550 - NEVERLAND (Natsu) \[Yuny\]](https://osu.ppy.sh/b/776749)                             |
+| [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/722934)                 |
 
 | Tiebreaker                                                                                  |
 |---------------------------------------------------------------------------------------------|
-| [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](//osu.ppy.sh/b/550235) |
+| [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](https://osu.ppy.sh/b/550235) |
 
 ### 16강
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
 | NoMod                                                                              |
 |------------------------------------------------------------------------------------|
-| [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](//osu.ppy.sh/b/495899)   |
-| [RedMuffleR - Rubeus (Smoothie World) \[GRAVITY\]](//osu.ppy.sh/b/574050)          |
-| [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](//osu.ppy.sh/b/753968)      |
-| [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](//osu.ppy.sh/b/541990) |
-| [himmeltengoku - Whisper of Rose (Tsukuyomi) \[Maximum\]](//osu.ppy.sh/b/419487)   |
-| [Megpoid GUMI - Cosmos (val0108) \[Cosmos\]](//osu.ppy.sh/b/123374)                |
+| [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/b/495899)   |
+| [RedMuffleR - Rubeus (Smoothie World) \[GRAVITY\]](https://osu.ppy.sh/b/574050)          |
+| [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](https://osu.ppy.sh/b/753968)      |
+| [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/541990) |
+| [himmeltengoku - Whisper of Rose (Tsukuyomi) \[Maximum\]](https://osu.ppy.sh/b/419487)   |
+| [Megpoid GUMI - Cosmos (val0108) \[Cosmos\]](https://osu.ppy.sh/b/123374)                |
 
 | Hidden                                                                               |
 |--------------------------------------------------------------------------------------|
-| [Pendulum - Watercolour (Kecco) \[Extra\]](//osu.ppy.sh/b/569735)                    |
-| [U1 overground - Dopamine (fanzhen0019) \[Kotori's EXTREME\]](//osu.ppy.sh/b/533622) |
-| [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](//osu.ppy.sh/b/89362)          |
+| [Pendulum - Watercolour (Kecco) \[Extra\]](https://osu.ppy.sh/b/569735)                    |
+| [U1 overground - Dopamine (fanzhen0019) \[Kotori's EXTREME\]](https://osu.ppy.sh/b/533622) |
+| [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/b/89362)          |
 
 | HardRock                                                                 |
 |--------------------------------------------------------------------------|
-| [LhoU - Highlander (Cherry Blossom) \[Extra\]](//osu.ppy.sh/b/406247)    |
-| [yuikonnu - Otsukimi Recital (Mythol) \[Collab\]](//osu.ppy.sh/b/282251) |
-| [Raujika - Land of Grace (Strawberry) \[Gracy\]](//osu.ppy.sh/b/209203)  |
+| [LhoU - Highlander (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/b/406247)    |
+| [yuikonnu - Otsukimi Recital (Mythol) \[Collab\]](https://osu.ppy.sh/b/282251) |
+| [Raujika - Land of Grace (Strawberry) \[Gracy\]](https://osu.ppy.sh/b/209203)  |
 
 | DoubleTime                                                                              |
 |-----------------------------------------------------------------------------------------|
-| [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](//osu.ppy.sh/b/196280) |
-| [capitaro - Karen Aikyou Hanasaka gumi (Tari) \[Insane\]](//osu.ppy.sh/b/720614)        |
-| [ChouCho - My dear friend (Delis) \[Insane\]](//osu.ppy.sh/b/486131)                    |
+| [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](https://osu.ppy.sh/b/196280) |
+| [capitaro - Karen Aikyou Hanasaka gumi (Tari) \[Insane\]](https://osu.ppy.sh/b/720614)        |
+| [ChouCho - My dear friend (Delis) \[Insane\]](https://osu.ppy.sh/b/486131)                    |
 
 | FreeMod                                                                                     |
 |---------------------------------------------------------------------------------------------|
-| [DJ YOSHITAKA - FLOWER (Apricot) \[EXTREME\]](//osu.ppy.sh/b/128780)                        |
-| [senya - Kanjou Chemistry (Drum 'n' Bass Remix) (Satellite) \[Exw\]](//osu.ppy.sh/b/255700) |
-| [yuikonnu - Chikyuu Saigo no Kokuhaku o (Fycho) \[Insane\]](//osu.ppy.sh/b/494798)          |
+| [DJ YOSHITAKA - FLOWER (Apricot) \[EXTREME\]](https://osu.ppy.sh/b/128780)                        |
+| [senya - Kanjou Chemistry (Drum 'n' Bass Remix) (Satellite) \[Exw\]](https://osu.ppy.sh/b/255700) |
+| [yuikonnu - Chikyuu Saigo no Kokuhaku o (Fycho) \[Insane\]](https://osu.ppy.sh/b/494798)          |
 
 | Tiebreaker                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------|
-| [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](//osu.ppy.sh/b/734339) |
+| [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/b/734339) |
 
 ### 그룹 스테이지
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](//www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
 | NoMod                                                                                             |
 |---------------------------------------------------------------------------------------------------|
-| [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](//osu.ppy.sh/b/363063)                                 |
-| [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](//osu.ppy.sh/b/109301)                      |
-| [Mary - Artificial Rose (Urushi38) \[Another\]](//osu.ppy.sh/b/264439)                            |
-| [Kousaki Satoru - Gekiretsu de Kareinaru Hibi (Zero\_\_wind) \[Ba Ba Ba\]](//osu.ppy.sh/b/400564) |
-| [Afilia Saga - S.M.L (Tari) \[Insane\]](//osu.ppy.sh/b/361263)                                    |
-| [ARM feat. Nanahira - Bakunana\*Testroyer (intoon) \[Kami's Another\]](//osu.ppy.sh/b/682074)     |
+| [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/b/363063)                                 |
+| [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/b/109301)                      |
+| [Mary - Artificial Rose (Urushi38) \[Another\]](https://osu.ppy.sh/b/264439)                            |
+| [Kousaki Satoru - Gekiretsu de Kareinaru Hibi (Zero\_\_wind) \[Ba Ba Ba\]](https://osu.ppy.sh/b/400564) |
+| [Afilia Saga - S.M.L (Tari) \[Insane\]](https://osu.ppy.sh/b/361263)                                    |
+| [ARM feat. Nanahira - Bakunana\*Testroyer (intoon) \[Kami's Another\]](https://osu.ppy.sh/b/682074)     |
 
 | Hidden                                                                         |
 |--------------------------------------------------------------------------------|
-| [MiddleIsland - Magnetic Shift (Natsu) \[UWS's Extra\]](//osu.ppy.sh/b/379411) |
-| [96Neko - Yoshiwara Lament (Minakami Yuki) \[Insane\]](//osu.ppy.sh/b/451227)  |
-| [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](//osu.ppy.sh/b/127138)  |
+| [MiddleIsland - Magnetic Shift (Natsu) \[UWS's Extra\]](https://osu.ppy.sh/b/379411) |
+| [96Neko - Yoshiwara Lament (Minakami Yuki) \[Insane\]](https://osu.ppy.sh/b/451227)  |
+| [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/127138)  |
 
 | HardRock                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------|
-| [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~ (Mythol) \[Insane\]](//osu.ppy.sh/b/244182) |
-| [Kotoge Mai - Mangekyou (Oracle) \[cRyo's Insane\]](//osu.ppy.sh/b/535334)                                            |
-| [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) \[Insane\]](//osu.ppy.sh/b/454158)                    |
+| [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~ (Mythol) \[Insane\]](https://osu.ppy.sh/b/244182) |
+| [Kotoge Mai - Mangekyou (Oracle) \[cRyo's Insane\]](https://osu.ppy.sh/b/535334)                                            |
+| [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) \[Insane\]](https://osu.ppy.sh/b/454158)                    |
 
 | DoubleTime                                                                     |
 |--------------------------------------------------------------------------------|
-| [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](//osu.ppy.sh/b/167963) |
-| [senya - Bondage Anemonation (Satellite) \[Lunatic\]](//osu.ppy.sh/b/323264)   |
-| [Chata - anesthesia (hoLysoup) \[Anesthesia\]](//osu.ppy.sh/b/216690)          |
+| [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](https://osu.ppy.sh/b/167963) |
+| [senya - Bondage Anemonation (Satellite) \[Lunatic\]](https://osu.ppy.sh/b/323264)   |
+| [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/b/216690)          |
 
 | FreeMod                                                                                               |
 |-------------------------------------------------------------------------------------------------------|
-| [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](//osu.ppy.sh/b/537235) |
-| [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](//osu.ppy.sh/b/486613)              |
-| [Jin - Outer Science (tutuhaha) \[Insane\]](//osu.ppy.sh/b/313025)                                    |
+| [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](https://osu.ppy.sh/b/537235) |
+| [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/b/486613)              |
+| [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025)                                    |
 
 | Tiebreaker                                                                                     |
 |------------------------------------------------------------------------------------------------|
-| [Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](//osu.ppy.sh/b/722224) |
+| [Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/b/722224) |
 
 ------------------------------------------------------------------------
 
@@ -283,14 +283,14 @@ osu! World Cup 2015
 
 | Team A                                           | Score          | Team B                                         | History                        |
 |:-------------------------------------------------|:--------------:|-----------------------------------------------:|--------------------------------|
-| ![](/wiki/shared/flag/Us.gif) **United States** | **5**  - 4     | Taiwan ![](/wiki/shared/flag/Tw.gif)          | [#1](//osu.ppy.sh/mp/20269690) |
-| ![](/wiki/shared/flag/Fi.gif) Finland           | 0      - **5** | **China** ![](/wiki/shared/flag/Cn.gif)       | [#1](//osu.ppy.sh/mp/20273790) |
-| ![](/wiki/shared/flag/At.gif) **Austria**       | **5**  - 0     | Malaysia ![](/wiki/shared/flag/My.gif)        | [#1](//osu.ppy.sh/mp/20275097) |
-| ![](/wiki/shared/flag/Hk.gif) **Hong Kong**     | **5**  - 3     | Germany ![](/wiki/shared/flag/De.gif)         | [#1](//osu.ppy.sh/mp/20276700) |
-| ![](/wiki/shared/flag/Gb.gif) United Kingdom    | 2      - **5** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/20278584) |
-| ![](/wiki/shared/flag/Th.gif) Thailand          | 2      - **5** | **France** ![](/wiki/shared/flag/Fr.gif)      | [#1](//osu.ppy.sh/mp/20280529) |
-| ![](/wiki/shared/flag/No.gif) Norway            | 0      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)      | [#1](//osu.ppy.sh/mp/20285332) |
-| ![](/wiki/shared/flag/Ca.gif) Canada            | 1      - **5** | **Brazil** ![](/wiki/shared/flag/Br.gif)      | [#1](//osu.ppy.sh/mp/20287601) |
+| ![](/wiki/shared/flag/Us.gif) **United States** | **5**  - 4     | Taiwan ![](/wiki/shared/flag/Tw.gif)          | [#1](https://osu.ppy.sh/mp/20269690) |
+| ![](/wiki/shared/flag/Fi.gif) Finland           | 0      - **5** | **China** ![](/wiki/shared/flag/Cn.gif)       | [#1](https://osu.ppy.sh/mp/20273790) |
+| ![](/wiki/shared/flag/At.gif) **Austria**       | **5**  - 0     | Malaysia ![](/wiki/shared/flag/My.gif)        | [#1](https://osu.ppy.sh/mp/20275097) |
+| ![](/wiki/shared/flag/Hk.gif) **Hong Kong**     | **5**  - 3     | Germany ![](/wiki/shared/flag/De.gif)         | [#1](https://osu.ppy.sh/mp/20276700) |
+| ![](/wiki/shared/flag/Gb.gif) United Kingdom    | 2      - **5** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](https://osu.ppy.sh/mp/20278584) |
+| ![](/wiki/shared/flag/Th.gif) Thailand          | 2      - **5** | **France** ![](/wiki/shared/flag/Fr.gif)      | [#1](https://osu.ppy.sh/mp/20280529) |
+| ![](/wiki/shared/flag/No.gif) Norway            | 0      - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)      | [#1](https://osu.ppy.sh/mp/20285332) |
+| ![](/wiki/shared/flag/Ca.gif) Canada            | 1      - **5** | **Brazil** ![](/wiki/shared/flag/Br.gif)      | [#1](https://osu.ppy.sh/mp/20287601) |
 
 ### 그룹 스테이지
 
@@ -298,59 +298,59 @@ osu! World Cup 2015
 
 | Team A                                        | Score         | Team B                                                | History                        |
 |:----------------------------------------------|:-------------:|------------------------------------------------------:|--------------------------------|
-| ![](/wiki/shared/flag/At.gif) **Austria**    | **4** - 1     | Taiwan ![](/wiki/shared/flag/Tw.gif)                 | [#1](//osu.ppy.sh/mp/20091839) |
-| ![](/wiki/shared/flag/Nz.gif) New Zealand    | 3     - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)            | [#1](//osu.ppy.sh/mp/20091841) |
-| ![](/wiki/shared/flag/My.gif) **Malaysia**   | **4** - 1     | Australia ![](/wiki/shared/flag/Au.gif)              | [#1](//osu.ppy.sh/mp/20091844) |
-| ![](/wiki/shared/flag/Ph.gif) Philippines    | 1     - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)              | [#1](//osu.ppy.sh/mp/20091847) |
-| ![](/wiki/shared/flag/Sg.gif) Singapore      | 0     - **4** | **Germany** ![](/wiki/shared/flag/De.gif)            | [#1](//osu.ppy.sh/mp/20092909) |
-| ![](/wiki/shared/flag/Th.gif) Thailand       | 1     - **4** | **Netherlands** ![](/wiki/shared/flag/Nl.gif)        | [#1](//osu.ppy.sh/mp/20092910) |
-| ![](/wiki/shared/flag/Gb.gif) United Kingdom | 1     - **4** | **China** ![](/wiki/shared/flag/Cn.gif)              | [#1](//osu.ppy.sh/mp/20092912) |
-| ![](/wiki/shared/flag/Lt.gif) Lithuania      | 1     - **4** | **France** ![](/wiki/shared/flag/Fr.gif)             | [#1](//osu.ppy.sh/mp/20094037) |
-| ![](/wiki/shared/flag/It.gif) Italy          | 1     - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)          | [#1](//osu.ppy.sh/mp/20094040) |
-| ![](/wiki/shared/flag/Pt.gif) Portugal       | 3     - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)             | [#1](//osu.ppy.sh/mp/20094042) |
-| ![](/wiki/shared/flag/Sg.gif) Singapore      | 3     - **4** | **Thailand** ![](/wiki/shared/flag/Th.gif)           | [#1](//osu.ppy.sh/mp/20095460) |
-| ![](/wiki/shared/flag/Ph.gif) Philippines    | 0     - **4** | **United Kingdom** ![](/wiki/shared/flag/Gb.gif)     | [#1](//osu.ppy.sh/mp/20095461) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina      | 0     - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)        | [#1](//osu.ppy.sh/mp/20095462) |
-| ![](/wiki/shared/flag/Gr.gif) Greece         | 0     - **4** | **Russian Federation** ![](/wiki/shared/flag/Ru.gif) | [#1](//osu.ppy.sh/mp/20105876) |
-| ![](/wiki/shared/flag/Ca.gif) Canada         | 0     - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)             | [#1](//osu.ppy.sh/mp/20105877) |
-| ![](/wiki/shared/flag/Pt.gif) Portugal       | 1     - **4** | **Austria** ![](/wiki/shared/flag/At.gif)            | [#1](//osu.ppy.sh/mp/20105878) |
-| ![](/wiki/shared/flag/Ua.gif) **Ukraine**    | **4** - 1     | Latvia ![](/wiki/shared/flag/Lv.gif)                 | [#1](//osu.ppy.sh/mp/20107684) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina      | 3     - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)            | [#1](//osu.ppy.sh/mp/20107685) |
-| ![](/wiki/shared/flag/No.gif) Norway         | 2     - **4** | **Brazil** ![](/wiki/shared/flag/Br.gif)             | [#1](//osu.ppy.sh/mp/20109708) |
-| ![](/wiki/shared/flag/Se.gif) Sweden         | 2     - **4** | **Austria** ![](/wiki/shared/flag/At.gif)            | [#1](//osu.ppy.sh/mp/20109709) |
+| ![](/wiki/shared/flag/At.gif) **Austria**    | **4** - 1     | Taiwan ![](/wiki/shared/flag/Tw.gif)                 | [#1](https://osu.ppy.sh/mp/20091839) |
+| ![](/wiki/shared/flag/Nz.gif) New Zealand    | 3     - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)            | [#1](https://osu.ppy.sh/mp/20091841) |
+| ![](/wiki/shared/flag/My.gif) **Malaysia**   | **4** - 1     | Australia ![](/wiki/shared/flag/Au.gif)              | [#1](https://osu.ppy.sh/mp/20091844) |
+| ![](/wiki/shared/flag/Ph.gif) Philippines    | 1     - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)              | [#1](https://osu.ppy.sh/mp/20091847) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore      | 0     - **4** | **Germany** ![](/wiki/shared/flag/De.gif)            | [#1](https://osu.ppy.sh/mp/20092909) |
+| ![](/wiki/shared/flag/Th.gif) Thailand       | 1     - **4** | **Netherlands** ![](/wiki/shared/flag/Nl.gif)        | [#1](https://osu.ppy.sh/mp/20092910) |
+| ![](/wiki/shared/flag/Gb.gif) United Kingdom | 1     - **4** | **China** ![](/wiki/shared/flag/Cn.gif)              | [#1](https://osu.ppy.sh/mp/20092912) |
+| ![](/wiki/shared/flag/Lt.gif) Lithuania      | 1     - **4** | **France** ![](/wiki/shared/flag/Fr.gif)             | [#1](https://osu.ppy.sh/mp/20094037) |
+| ![](/wiki/shared/flag/It.gif) Italy          | 1     - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)          | [#1](https://osu.ppy.sh/mp/20094040) |
+| ![](/wiki/shared/flag/Pt.gif) Portugal       | 3     - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)             | [#1](https://osu.ppy.sh/mp/20094042) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore      | 3     - **4** | **Thailand** ![](/wiki/shared/flag/Th.gif)           | [#1](https://osu.ppy.sh/mp/20095460) |
+| ![](/wiki/shared/flag/Ph.gif) Philippines    | 0     - **4** | **United Kingdom** ![](/wiki/shared/flag/Gb.gif)     | [#1](https://osu.ppy.sh/mp/20095461) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina      | 0     - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)        | [#1](https://osu.ppy.sh/mp/20095462) |
+| ![](/wiki/shared/flag/Gr.gif) Greece         | 0     - **4** | **Russian Federation** ![](/wiki/shared/flag/Ru.gif) | [#1](https://osu.ppy.sh/mp/20105876) |
+| ![](/wiki/shared/flag/Ca.gif) Canada         | 0     - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)             | [#1](https://osu.ppy.sh/mp/20105877) |
+| ![](/wiki/shared/flag/Pt.gif) Portugal       | 1     - **4** | **Austria** ![](/wiki/shared/flag/At.gif)            | [#1](https://osu.ppy.sh/mp/20105878) |
+| ![](/wiki/shared/flag/Ua.gif) **Ukraine**    | **4** - 1     | Latvia ![](/wiki/shared/flag/Lv.gif)                 | [#1](https://osu.ppy.sh/mp/20107684) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina      | 3     - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)            | [#1](https://osu.ppy.sh/mp/20107685) |
+| ![](/wiki/shared/flag/No.gif) Norway         | 2     - **4** | **Brazil** ![](/wiki/shared/flag/Br.gif)             | [#1](https://osu.ppy.sh/mp/20109708) |
+| ![](/wiki/shared/flag/Se.gif) Sweden         | 2     - **4** | **Austria** ![](/wiki/shared/flag/At.gif)            | [#1](https://osu.ppy.sh/mp/20109709) |
 
 **2015년 11월 9일 일요일**
 
 | Team A                                         | Score          | Team B                                            | History                        |
 |:-----------------------------------------------|:--------------:|--------------------------------------------------:|--------------------------------|
-| ![](/wiki/shared/flag/Nz.gif) **New Zealand** | **4**  - 0     | Argentina ![](/wiki/shared/flag/Ar.gif)          | [#1](//osu.ppy.sh/mp/20115243) |
-| ![](/wiki/shared/flag/Mx.gif) Mexico          | 1      - **4** | **Australia** ![](/wiki/shared/flag/Au.gif)      | [#1](//osu.ppy.sh/mp/20114985) |
-| ![](/wiki/shared/flag/My.gif) Malaysia        | 1      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/20116482) |
-| ![](/wiki/shared/flag/Jp.gif) Japan           | 1      - **4** | **China** ![](/wiki/shared/flag/Cn.gif)          | [#1](//osu.ppy.sh/mp/20116483) |
-| ![](/wiki/shared/flag/Nz.gif) New Zealand     | 1      - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)    | [#1](//osu.ppy.sh/mp/20117565) |
-| ![](/wiki/shared/flag/Mx.gif) Mexico          | 0      - **4** | **Malaysia** ![](/wiki/shared/flag/My.gif)       | [#1](//osu.ppy.sh/mp/20117566) |
-| ![](/wiki/shared/flag/Au.gif) Australia       | 1      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/20117569) |
-| ![](/wiki/shared/flag/Se.gif) Sweden          | 1      - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)         | [#1](//osu.ppy.sh/mp/20125092) |
-| ![](/wiki/shared/flag/Ph.gif) Philippines     | 1      - **4** | **China** ![](/wiki/shared/flag/Cn.gif)          | [#1](//osu.ppy.sh/mp/20125093) |
-| ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 2      - **4** | **France** ![](/wiki/shared/flag/Fr.gif)         | [#1](//osu.ppy.sh/mp/20126344) |
-| ![](/wiki/shared/flag/Fi.gif) Finland         | 1      - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)    | [#1](//osu.ppy.sh/mp/20126352) |
-| ![](/wiki/shared/flag/Th.gif) **Thailand**    | **4**  - 0     | Germany ![](/wiki/shared/flag/De.gif)            | [#1](//osu.ppy.sh/mp/20126358) |
-| ![](/wiki/shared/flag/Jp.gif) Japan           | 0      - **4** | **United Kingdom** ![](/wiki/shared/flag/Gb.gif) | [#1](//osu.ppy.sh/mp/20127886) |
-| ![](/wiki/shared/flag/Ua.gif) Ukraine         | 0      - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](//osu.ppy.sh/mp/20127887) |
-| ![](/wiki/shared/flag/Sg.gif) Singapore       | 2      - **4** | **Netherlands** ![](/wiki/shared/flag/Nl.gif)    | [#1](//osu.ppy.sh/mp/20127888) |
-| ![](/wiki/shared/flag/Lt.gif) Lithuania       | 2      - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)      | [#1](//osu.ppy.sh/mp/20129481) |
-| ![](/wiki/shared/flag/Pt.gif) **Portugal**    | **4**  - 3     | Sweden ![](/wiki/shared/flag/Se.gif)             | [#1](//osu.ppy.sh/mp/20129484) |
-| ![](/wiki/shared/flag/It.gif) Italy           | 2      - **4** | **France** ![](/wiki/shared/flag/Fr.gif)         | [#1](//osu.ppy.sh/mp/20133656) |
-| ![](/wiki/shared/flag/Gr.gif) Greece          | 0      - **4** | **Brazil** ![](/wiki/shared/flag/Br.gif)         | [#1](//osu.ppy.sh/mp/20133657) |
-| ![](/wiki/shared/flag/No.gif) **Norway**      | **4**  - 2     | Russian Federation ![](/wiki/shared/flag/Ru.gif) | [#1](//osu.ppy.sh/mp/20133658) |
-| ![](/wiki/shared/flag/Nl.gif) Netherlands     | 0      - **4** | **Germany** ![](/wiki/shared/flag/De.gif)        | [#1](//osu.ppy.sh/mp/20135079) |
-| ![](/wiki/shared/flag/Lv.gif) Latvia          | 1      - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)         | [#1](//osu.ppy.sh/mp/20135084) |
-| ![](/wiki/shared/flag/It.gif) Italy           | 3      - **4** | **Lithuania** ![](/wiki/shared/flag/Lt.gif)      | [#1](//osu.ppy.sh/mp/20136741) |
-| ![](/wiki/shared/flag/Br.gif) **Brazil**      | **4**  - 3     | Russian Federation ![](/wiki/shared/flag/Ru.gif) | [#1](//osu.ppy.sh/mp/20136742) |
-| ![](/wiki/shared/flag/Gr.gif) Greece          | 0      - **4** | **Norway** ![](/wiki/shared/flag/No.gif)         | [#1](//osu.ppy.sh/mp/20136743) |
-| ![](/wiki/shared/flag/Mx.gif) Mexico          | 0      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](//osu.ppy.sh/mp/20138453) |
-| ![](/wiki/shared/flag/Ua.gif) Ukraine         | 1      - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)         | [#1](//osu.ppy.sh/mp/20138457) |
-| ![](/wiki/shared/flag/Lv.gif) Latvia          | 0      - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](//osu.ppy.sh/mp/20138460) |
+| ![](/wiki/shared/flag/Nz.gif) **New Zealand** | **4**  - 0     | Argentina ![](/wiki/shared/flag/Ar.gif)          | [#1](https://osu.ppy.sh/mp/20115243) |
+| ![](/wiki/shared/flag/Mx.gif) Mexico          | 1      - **4** | **Australia** ![](/wiki/shared/flag/Au.gif)      | [#1](https://osu.ppy.sh/mp/20114985) |
+| ![](/wiki/shared/flag/My.gif) Malaysia        | 1      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](https://osu.ppy.sh/mp/20116482) |
+| ![](/wiki/shared/flag/Jp.gif) Japan           | 1      - **4** | **China** ![](/wiki/shared/flag/Cn.gif)          | [#1](https://osu.ppy.sh/mp/20116483) |
+| ![](/wiki/shared/flag/Nz.gif) New Zealand     | 1      - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)    | [#1](https://osu.ppy.sh/mp/20117565) |
+| ![](/wiki/shared/flag/Mx.gif) Mexico          | 0      - **4** | **Malaysia** ![](/wiki/shared/flag/My.gif)       | [#1](https://osu.ppy.sh/mp/20117566) |
+| ![](/wiki/shared/flag/Au.gif) Australia       | 1      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](https://osu.ppy.sh/mp/20117569) |
+| ![](/wiki/shared/flag/Se.gif) Sweden          | 1      - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)         | [#1](https://osu.ppy.sh/mp/20125092) |
+| ![](/wiki/shared/flag/Ph.gif) Philippines     | 1      - **4** | **China** ![](/wiki/shared/flag/Cn.gif)          | [#1](https://osu.ppy.sh/mp/20125093) |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 2      - **4** | **France** ![](/wiki/shared/flag/Fr.gif)         | [#1](https://osu.ppy.sh/mp/20126344) |
+| ![](/wiki/shared/flag/Fi.gif) Finland         | 1      - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)    | [#1](https://osu.ppy.sh/mp/20126352) |
+| ![](/wiki/shared/flag/Th.gif) **Thailand**    | **4**  - 0     | Germany ![](/wiki/shared/flag/De.gif)            | [#1](https://osu.ppy.sh/mp/20126358) |
+| ![](/wiki/shared/flag/Jp.gif) Japan           | 0      - **4** | **United Kingdom** ![](/wiki/shared/flag/Gb.gif) | [#1](https://osu.ppy.sh/mp/20127886) |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine         | 0      - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](https://osu.ppy.sh/mp/20127887) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore       | 2      - **4** | **Netherlands** ![](/wiki/shared/flag/Nl.gif)    | [#1](https://osu.ppy.sh/mp/20127888) |
+| ![](/wiki/shared/flag/Lt.gif) Lithuania       | 2      - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)      | [#1](https://osu.ppy.sh/mp/20129481) |
+| ![](/wiki/shared/flag/Pt.gif) **Portugal**    | **4**  - 3     | Sweden ![](/wiki/shared/flag/Se.gif)             | [#1](https://osu.ppy.sh/mp/20129484) |
+| ![](/wiki/shared/flag/It.gif) Italy           | 2      - **4** | **France** ![](/wiki/shared/flag/Fr.gif)         | [#1](https://osu.ppy.sh/mp/20133656) |
+| ![](/wiki/shared/flag/Gr.gif) Greece          | 0      - **4** | **Brazil** ![](/wiki/shared/flag/Br.gif)         | [#1](https://osu.ppy.sh/mp/20133657) |
+| ![](/wiki/shared/flag/No.gif) **Norway**      | **4**  - 2     | Russian Federation ![](/wiki/shared/flag/Ru.gif) | [#1](https://osu.ppy.sh/mp/20133658) |
+| ![](/wiki/shared/flag/Nl.gif) Netherlands     | 0      - **4** | **Germany** ![](/wiki/shared/flag/De.gif)        | [#1](https://osu.ppy.sh/mp/20135079) |
+| ![](/wiki/shared/flag/Lv.gif) Latvia          | 1      - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)         | [#1](https://osu.ppy.sh/mp/20135084) |
+| ![](/wiki/shared/flag/It.gif) Italy           | 3      - **4** | **Lithuania** ![](/wiki/shared/flag/Lt.gif)      | [#1](https://osu.ppy.sh/mp/20136741) |
+| ![](/wiki/shared/flag/Br.gif) **Brazil**      | **4**  - 3     | Russian Federation ![](/wiki/shared/flag/Ru.gif) | [#1](https://osu.ppy.sh/mp/20136742) |
+| ![](/wiki/shared/flag/Gr.gif) Greece          | 0      - **4** | **Norway** ![](/wiki/shared/flag/No.gif)         | [#1](https://osu.ppy.sh/mp/20136743) |
+| ![](/wiki/shared/flag/Mx.gif) Mexico          | 0      - **4** | **United States** ![](/wiki/shared/flag/Us.gif)  | [#1](https://osu.ppy.sh/mp/20138453) |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine         | 1      - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)         | [#1](https://osu.ppy.sh/mp/20138457) |
+| ![](/wiki/shared/flag/Lv.gif) Latvia          | 0      - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)         | [#1](https://osu.ppy.sh/mp/20138460) |
 
 ------------------------------------------------------------------------
 
@@ -360,7 +360,7 @@ osu! World Cup 2015
 ### 토너먼트 규칙
 
 1.  osu! World Cup은 국가 대항의 4:4 토너먼트입니다.
-2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](//osu.ppy.sh/forum/t/375428)**
+2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/forum/t/375428)**
 3.  맵풀은 맵풀 선정자에 의해 경기가 있기 전 주의 일요일 이전에 발표됩니다. 이것들은 각각의 경기 중에 사용됩니다.
     -   한 맵은 타이브레이커 맵으로서 주어집니다. 이 맵은 동점인 상황에만 플레이하게 됩니다.
 
@@ -425,7 +425,7 @@ osu! World Cup 2015
 
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6.  Based on [this graphic](//puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
 | Stage         | Match ID                |
 |---------------|-------------------------|

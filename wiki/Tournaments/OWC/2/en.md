@@ -7,12 +7,12 @@ Scoreboard
 ----------
 
 ![OWC 2 brackets](brackets.png)
-TOURNAMENT SCHEDULE (GOOGLE DOCS) [Dokument bez tytułu](//docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
+TOURNAMENT SCHEDULE (GOOGLE DOCS) [Dokument bez tytułu](https://docs.google.com/document/d/1aYgninqJ6OolEvkynUsirJMpt8ZcV4Eksb7p4xuU2Jg/edit)
 
 Interviews
 ----------
 
-Before the tournament, had interviewed the participants! Here is the [Pre osu! World Cup \#2 Interviews](//docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit).
+Before the tournament, had interviewed the participants! Here is the [Pre osu! World Cup \#2 Interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit).
 
 Groups
 ------
@@ -59,7 +59,7 @@ An example of sign-up post:
     Back-up Player1: Nickname5
     Back-up Player2: Nickname6
 
-Time zone: GMT+0 (if you don't know your time zone, visit this site [Time and Date](http://www.timeanddate.com/worldclock/))
+Time zone: GMT+0 (if you don't know your time zone, visit this site [Time and Date](https://www.timeanddate.com/worldclock/))
 
 ### Playing informations
 
@@ -131,214 +131,214 @@ The members are listed in this order: `Caption, Player1, Player2, Player3 (Backu
 
 | Country (time zone)                                           | Members                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Germany** ![](/wiki/shared/flag/De.gif) (GMT+1)            | **DoKoLP**, [SuperCracker](//osu.ppy.sh/u/145639), [Blacky](//osu.ppy.sh/u/268788), [ShadowSoul](//osu.ppy.sh/u/494970) (Asozial, Scanlatione)                                                                                               |
-| **Denmark** ![](/wiki/shared/flag/Dk.gif) (GMT+1)            | **Emaal**, [PlasticSmoothie](//osu.ppy.sh/u/296565), m4w11, Circlemuncher ([BongHat](//osu.ppy.sh/u/369746))                                                                                                                                 |
-| **Norway** ![](/wiki/shared/flag/No.gif) (GMT+1)             | **[kriers](//osu.ppy.sh/u/333241)**, [CXu](//osu.ppy.sh/u/84841), [AndreasHD](//osu.ppy.sh/u/369956), [Danzai](//osu.ppy.sh/u/73852) ([KinomiCandy](//osu.ppy.sh/u/375143), Oscarface92)                                                     |
-| **Argentina** ![](/wiki/shared/flag/Ar.gif) (GMT-3)          | **Wishy22**, [Metro](//osu.ppy.sh/u/306737), Ever17, [Darksonic](//osu.ppy.sh/u/570042) ([Salvage](//osu.ppy.sh/u/242119), [Glazbom](//osu.ppy.sh/u/608277))                                                                                 |
-| **Chile** ![](/wiki/shared/flag/Cl.gif) (GMT-3)              | **[nVidi4x](//osu.ppy.sh/u/203181)**, [Mesita](//osu.ppy.sh/u/201459), Ignacio, [Art-FzTT](//osu.ppy.sh/u/248453) ([b1choO](//osu.ppy.sh/u/461132), b4ss\_)                                                                                  |
-| **Portugal** ![](/wiki/shared/flag/Pt.gif) (GMT+0 / GMT-1)   | **Mikutard**, [makkura](//osu.ppy.sh/u/344086), [Maraiga](//osu.ppy.sh/u/213335), [JonnyThatJonny](//osu.ppy.sh/u/201290) ([Pereira006](//osu.ppy.sh/u/537344), cococococo7528)                                                              |
-| **Brazil** ![](/wiki/shared/flag/Br.gif) (GMT-3 / GMT-2)     | **[Blue Dragon](//osu.ppy.sh/u/19048)**, [fabriciorby](//osu.ppy.sh/u/209664), Caco, [antsu](//osu.ppy.sh/u/92953) ([K3nsh1n\_H1mur4](//osu.ppy.sh/u/197834), [Katsuri](//osu.ppy.sh/u/701726))                                              |
-| **Netherlands** ![](/wiki/shared/flag/Nl.gif) (GMT+1)        | **[GladiOol](//osu.ppy.sh/u/23326)**, [Lesjuh](//osu.ppy.sh/u/44308), [eddieee](//osu.ppy.sh/u/260284), Awoken ([Henkie](//osu.ppy.sh/u/16944), zozozofun)                                                                                   |
-| **Ukraine** ![](/wiki/shared/flag/Ua.gif) (GMT+1)            | **[Gorlum](//osu.ppy.sh/u/347635)**, [rockleejkooo](//osu.ppy.sh/u/384003), [uljjang](//osu.ppy.sh/u/3784417), [\[milky\]](//osu.ppy.sh/u/288597)                                                                                            |
-| **Vietnam** ![](/wiki/shared/flag/Vn.gif) (GMT+7)            | **[Misuzu-san](//osu.ppy.sh/u/358563)**, [JerryC](//osu.ppy.sh/u/279278), [Shin1801](//osu.ppy.sh/u/604492), [BridgetteLSatellizer](//osu.ppy.sh/u/854083) ([xLightningx](//osu.ppy.sh/u/1007806), [kira\_lacus1995](//osu.ppy.sh/u/996435)) |
-| **Thailand** ![](/wiki/shared/flag/Th.gif) (GMT+7)           | **[NonxE](//osu.ppy.sh/u/319312)**, Frostmourne, [bufo](//osu.ppy.sh/u/141605), [blackspell](//osu.ppy.sh/u/601173) ([aumu1995](//osu.ppy.sh/u/235752), [termerys](//osu.ppy.sh/u/84964))                                                    |
-| **New Zealand** ![](/wiki/shared/flag/Nz.gif) (GMT+13)       | **[jiantz](//osu.ppy.sh/u/330252)**, [Kiiwa](//osu.ppy.sh/u/231111), numot123, [Bob\_the\_Cat](//osu.ppy.sh/u/121470) ([deadbeat](//osu.ppy.sh/u/128370), [kwk](//osu.ppy.sh/u/365586))                                                      |
-| **Philippines** ![](/wiki/shared/flag/Ph.gif) (GMT+8)        | **C L O U D**, Pizzicatto, jannnnnn, dayun10 ([Osu Tatakae Ouendan](//osu.ppy.sh/u/594210), [usagijirosan](//osu.ppy.sh/u/714230))                                                                                                           |
-| **Bulgaria** ![](/wiki/shared/flag/Bg.gif) (GMT+2)           | **Lolicore Flandre**, [r-Beatz](//osu.ppy.sh/u/472311), [Orihara Izaya](//osu.ppy.sh/u/513842), [las7h0p3](//osu.ppy.sh/u/113972) ([werewolf0girl](//osu.ppy.sh/u/213292), ColdChester)                                                      |
-| **Sweden** ![](/wiki/shared/flag/Se.gif) (GMT+1)             | **Hanyuu-chan**, [Holmir](//osu.ppy.sh/u/453435), m4w11, [Gyuunyu](//osu.ppy.sh/u/799102) (Failboat, [Nidert](//osu.ppy.sh/u/817211))                                                                                                        |
-| **Indonesia** ![](/wiki/shared/flag/Id.gif) (GMT+7)          | **Hakeru Prismriver**, xeqta, [dNextGen](//osu.ppy.sh/u/346320), gatitoneku ([awell](//osu.ppy.sh/u/341298), [awesomewithin](//osu.ppy.sh/u/81652))                                                                                          |
-| **Uruguay** ![](/wiki/shared/flag/Uy.gif) (GMT-3)            | **[maay](//osu.ppy.sh/u/160970)**, Z e o n, [GonixZ](//osu.ppy.sh/u/612622), [H1ko](//osu.ppy.sh/u/58710) (Snepif, [AlrdyExists](//osu.ppy.sh/u/407022))                                                                                     |
-| **France** ![](/wiki/shared/flag/Fr.gif) (GMT+1)             | **Odaril**, \_LRJ\_, [galvenize](//osu.ppy.sh/u/381444), [Kanna](//osu.ppy.sh/u/366059) ([XPJ38](//osu.ppy.sh/u/273531), [Mustaash](//osu.ppy.sh/u/1669213))                                                                                 |
-| **Hungary** ![](/wiki/shared/flag/Hu.gif) (GMT+1)            | **[Kuroi Mato](//osu.ppy.sh/u/584921)**, [tasli](//osu.ppy.sh/u/59650), [Kozuki Kallen](//osu.ppy.sh/u/816305), [higurush](//osu.ppy.sh/u/602159) ([TaylorXIII](//osu.ppy.sh/u/351814), [TsukishimaKirari x]](//osu.ppy.sh/u/816358))        |
-| **Canada** ![](/wiki/shared/flag/Ca.gif) (GMT-5)             | **[FurukawaPan](//osu.ppy.sh/u/32067)**, [Glass](//osu.ppy.sh/u/228532), [SilentWings](//osu.ppy.sh/u/118992), [shaNk](//osu.ppy.sh/u/905124) ([YodaSnipe](//osu.ppy.sh/u/673746), [Satonaka](//osu.ppy.sh/u/767009))                        |
-| **Finland** ![](/wiki/shared/flag/Fi.gif) (GMT+2)            | **ragelewa**, [Zapy](//osu.ppy.sh/u/251395), [Orkel](//osu.ppy.sh/u/39385), [Sutsuka](//osu.ppy.sh/u/29089) ([heintsi](//osu.ppy.sh/u/63185), [ethox](//osu.ppy.sh/u/441380))                                                                |
-| **Hong Kong** ![](/wiki/shared/flag/Hk.gif) (GMT+8)          | **[KanaRin](//osu.ppy.sh/u/310747)**, [Miu Matsuoka](//osu.ppy.sh/u/10641), Kirito470, henry04213 ([HineX](//osu.ppy.sh/u/13854), [Pokie](//osu.ppy.sh/u/207340))                                                                            |
-| **Australia** ![](/wiki/shared/flag/Au.gif) (GMT+11)         | **Mizorex**, damiaanzx, [Hark](//osu.ppy.sh/u/43265), [Frankcons](//osu.ppy.sh/u/594006) ([Mikey](//osu.ppy.sh/u/979780), [Neko_Lover](//osu.ppy.sh/u/596535))                                                                               |
-| **Poland** ![](/wiki/shared/flag/Pl.gif) (GMT+1)             | **[fartownik](//osu.ppy.sh/u/56917)**, White Wolf, [rEdo](//osu.ppy.sh/u/49329), [Kubu](//osu.ppy.sh/u/29130) ([Piotrekol](//osu.ppy.sh/u/304520))                                                                                           |
-| **Latvia** ![](/wiki/shared/flag/Lv.gif) (GMT+2)             | **[_Angel](//osu.ppy.sh/u/341851)**, [GummyChan](//osu.ppy.sh/u/757683), [LoGo](//osu.ppy.sh/u/750382), [Vmx](//osu.ppy.sh/u/967501)                                                                                                         |
-| **Taiwan** ![](/wiki/shared/flag/Tw.gif)                     | **Saya-Honmei**, SnowWhite, [YuyuKo sama](//osu.ppy.sh/u/234788), wizoza83098 ([BinJip](//osu.ppy.sh/u/261694), [ZRush](//osu.ppy.sh/u/398097))                                                                                              |
-| **Republic of Korea** ![](/wiki/shared/flag/Kr.gif)          | **[KRZY](//osu.ppy.sh/u/114017)**, mnto, [K i R i K a R u](//osu.ppy.sh/u/139670), [CheEZ](//osu.ppy.sh/u/272117) ([Remilia-Scarlet](//osu.ppy.sh/u/602783), [Reisen Udongein](//osu.ppy.sh/u/232942))                                       |
-| **Malaysia** ![](/wiki/shared/flag/My.gif) (GMT+8)           | **[akupp](//osu.ppy.sh/u/249825)**, [xsrsbsns](//osu.ppy.sh/u/414427), RhaiizoN, [Gon](//osu.ppy.sh/u/583765) ([The 08 team_Bourdon](//osu.ppy.sh/u/275686), [zenki0013](//osu.ppy.sh/u/89646))                                              |
-| **United States** ![](/wiki/shared/flag/Us.gif) (GMT-5)      | **Kyou-kun**, [Cyclone](//osu.ppy.sh/u/18589), [Lybydose](//osu.ppy.sh/u/64501), [geckogates](//osu.ppy.sh/u/252524) (david huhh)                                                                                                            |
-| **Japan** ![](/wiki/shared/flag/Jp.gif) (GMT+9)              | **[SiLviA](//osu.ppy.sh/u/409747)**, [Apricot](//osu.ppy.sh/u/438547), [Flute](//osu.ppy.sh/u/211278), [Iris](//osu.ppy.sh/u/758181) ([Sinch](//osu.ppy.sh/u/360552), [val0108](//osu.ppy.sh/u/243917))                                      |
-| **Russian Federation** ![](/wiki/shared/flag/Ru.gif) (GMT+4) | **[Akai-](//osu.ppy.sh/u/649471)**, [Vpalach](//osu.ppy.sh/u/232729), [Kert](//osu.ppy.sh/u/119933), [Rost94](//osu.ppy.sh/u/490568) (646kapeh640, cr1m)                                                                                     |
-| **Austria** ![](/wiki/shared/flag/At.gif) (GMT+1)            | **[-Lennox-](//osu.ppy.sh/u/489103)**, [Snowball](//osu.ppy.sh/u/152238), [Hanyuu](//osu.ppy.sh/u/73480), HakkeroHakkero ([novaaa](//osu.ppy.sh/u/953405), [M A R I O](//osu.ppy.sh/u/594424))                                               |
+| **Germany** ![](/wiki/shared/flag/De.gif) (GMT+1)            | **DoKoLP**, [SuperCracker](https://osu.ppy.sh/u/145639), [Blacky](https://osu.ppy.sh/u/268788), [ShadowSoul](https://osu.ppy.sh/u/494970) (Asozial, Scanlatione)                                                                                               |
+| **Denmark** ![](/wiki/shared/flag/Dk.gif) (GMT+1)            | **Emaal**, [PlasticSmoothie](https://osu.ppy.sh/u/296565), m4w11, Circlemuncher ([BongHat](https://osu.ppy.sh/u/369746))                                                                                                                                 |
+| **Norway** ![](/wiki/shared/flag/No.gif) (GMT+1)             | **[kriers](https://osu.ppy.sh/u/333241)**, [CXu](https://osu.ppy.sh/u/84841), [AndreasHD](https://osu.ppy.sh/u/369956), [Danzai](https://osu.ppy.sh/u/73852) ([KinomiCandy](https://osu.ppy.sh/u/375143), Oscarface92)                                                     |
+| **Argentina** ![](/wiki/shared/flag/Ar.gif) (GMT-3)          | **Wishy22**, [Metro](https://osu.ppy.sh/u/306737), Ever17, [Darksonic](https://osu.ppy.sh/u/570042) ([Salvage](https://osu.ppy.sh/u/242119), [Glazbom](https://osu.ppy.sh/u/608277))                                                                                 |
+| **Chile** ![](/wiki/shared/flag/Cl.gif) (GMT-3)              | **[nVidi4x](https://osu.ppy.sh/u/203181)**, [Mesita](https://osu.ppy.sh/u/201459), Ignacio, [Art-FzTT](https://osu.ppy.sh/u/248453) ([b1choO](https://osu.ppy.sh/u/461132), b4ss\_)                                                                                  |
+| **Portugal** ![](/wiki/shared/flag/Pt.gif) (GMT+0 / GMT-1)   | **Mikutard**, [makkura](https://osu.ppy.sh/u/344086), [Maraiga](https://osu.ppy.sh/u/213335), [JonnyThatJonny](https://osu.ppy.sh/u/201290) ([Pereira006](https://osu.ppy.sh/u/537344), cococococo7528)                                                              |
+| **Brazil** ![](/wiki/shared/flag/Br.gif) (GMT-3 / GMT-2)     | **[Blue Dragon](https://osu.ppy.sh/u/19048)**, [fabriciorby](https://osu.ppy.sh/u/209664), Caco, [antsu](https://osu.ppy.sh/u/92953) ([K3nsh1n\_H1mur4](https://osu.ppy.sh/u/197834), [Katsuri](https://osu.ppy.sh/u/701726))                                              |
+| **Netherlands** ![](/wiki/shared/flag/Nl.gif) (GMT+1)        | **[GladiOol](https://osu.ppy.sh/u/23326)**, [Lesjuh](https://osu.ppy.sh/u/44308), [eddieee](https://osu.ppy.sh/u/260284), Awoken ([Henkie](https://osu.ppy.sh/u/16944), zozozofun)                                                                                   |
+| **Ukraine** ![](/wiki/shared/flag/Ua.gif) (GMT+1)            | **[Gorlum](https://osu.ppy.sh/u/347635)**, [rockleejkooo](https://osu.ppy.sh/u/384003), [uljjang](https://osu.ppy.sh/u/3784417), [\[milky\]](https://osu.ppy.sh/u/288597)                                                                                            |
+| **Vietnam** ![](/wiki/shared/flag/Vn.gif) (GMT+7)            | **[Misuzu-san](https://osu.ppy.sh/u/358563)**, [JerryC](https://osu.ppy.sh/u/279278), [Shin1801](https://osu.ppy.sh/u/604492), [BridgetteLSatellizer](https://osu.ppy.sh/u/854083) ([xLightningx](https://osu.ppy.sh/u/1007806), [kira\_lacus1995](https://osu.ppy.sh/u/996435)) |
+| **Thailand** ![](/wiki/shared/flag/Th.gif) (GMT+7)           | **[NonxE](https://osu.ppy.sh/u/319312)**, Frostmourne, [bufo](https://osu.ppy.sh/u/141605), [blackspell](https://osu.ppy.sh/u/601173) ([aumu1995](https://osu.ppy.sh/u/235752), [termerys](https://osu.ppy.sh/u/84964))                                                    |
+| **New Zealand** ![](/wiki/shared/flag/Nz.gif) (GMT+13)       | **[jiantz](https://osu.ppy.sh/u/330252)**, [Kiiwa](https://osu.ppy.sh/u/231111), numot123, [Bob\_the\_Cat](https://osu.ppy.sh/u/121470) ([deadbeat](https://osu.ppy.sh/u/128370), [kwk](https://osu.ppy.sh/u/365586))                                                      |
+| **Philippines** ![](/wiki/shared/flag/Ph.gif) (GMT+8)        | **C L O U D**, Pizzicatto, jannnnnn, dayun10 ([Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210), [usagijirosan](https://osu.ppy.sh/u/714230))                                                                                                           |
+| **Bulgaria** ![](/wiki/shared/flag/Bg.gif) (GMT+2)           | **Lolicore Flandre**, [r-Beatz](https://osu.ppy.sh/u/472311), [Orihara Izaya](https://osu.ppy.sh/u/513842), [las7h0p3](https://osu.ppy.sh/u/113972) ([werewolf0girl](https://osu.ppy.sh/u/213292), ColdChester)                                                      |
+| **Sweden** ![](/wiki/shared/flag/Se.gif) (GMT+1)             | **Hanyuu-chan**, [Holmir](https://osu.ppy.sh/u/453435), m4w11, [Gyuunyu](https://osu.ppy.sh/u/799102) (Failboat, [Nidert](https://osu.ppy.sh/u/817211))                                                                                                        |
+| **Indonesia** ![](/wiki/shared/flag/Id.gif) (GMT+7)          | **Hakeru Prismriver**, xeqta, [dNextGen](https://osu.ppy.sh/u/346320), gatitoneku ([awell](https://osu.ppy.sh/u/341298), [awesomewithin](https://osu.ppy.sh/u/81652))                                                                                          |
+| **Uruguay** ![](/wiki/shared/flag/Uy.gif) (GMT-3)            | **[maay](https://osu.ppy.sh/u/160970)**, Z e o n, [GonixZ](https://osu.ppy.sh/u/612622), [H1ko](https://osu.ppy.sh/u/58710) (Snepif, [AlrdyExists](https://osu.ppy.sh/u/407022))                                                                                     |
+| **France** ![](/wiki/shared/flag/Fr.gif) (GMT+1)             | **Odaril**, \_LRJ\_, [galvenize](https://osu.ppy.sh/u/381444), [Kanna](https://osu.ppy.sh/u/366059) ([XPJ38](https://osu.ppy.sh/u/273531), [Mustaash](https://osu.ppy.sh/u/1669213))                                                                                 |
+| **Hungary** ![](/wiki/shared/flag/Hu.gif) (GMT+1)            | **[Kuroi Mato](https://osu.ppy.sh/u/584921)**, [tasli](https://osu.ppy.sh/u/59650), [Kozuki Kallen](https://osu.ppy.sh/u/816305), [higurush](https://osu.ppy.sh/u/602159) ([TaylorXIII](https://osu.ppy.sh/u/351814), [TsukishimaKirari x]](https://osu.ppy.sh/u/816358))        |
+| **Canada** ![](/wiki/shared/flag/Ca.gif) (GMT-5)             | **[FurukawaPan](https://osu.ppy.sh/u/32067)**, [Glass](https://osu.ppy.sh/u/228532), [SilentWings](https://osu.ppy.sh/u/118992), [shaNk](https://osu.ppy.sh/u/905124) ([YodaSnipe](https://osu.ppy.sh/u/673746), [Satonaka](https://osu.ppy.sh/u/767009))                        |
+| **Finland** ![](/wiki/shared/flag/Fi.gif) (GMT+2)            | **ragelewa**, [Zapy](https://osu.ppy.sh/u/251395), [Orkel](https://osu.ppy.sh/u/39385), [Sutsuka](https://osu.ppy.sh/u/29089) ([heintsi](https://osu.ppy.sh/u/63185), [ethox](https://osu.ppy.sh/u/441380))                                                                |
+| **Hong Kong** ![](/wiki/shared/flag/Hk.gif) (GMT+8)          | **[KanaRin](https://osu.ppy.sh/u/310747)**, [Miu Matsuoka](https://osu.ppy.sh/u/10641), Kirito470, henry04213 ([HineX](https://osu.ppy.sh/u/13854), [Pokie](https://osu.ppy.sh/u/207340))                                                                            |
+| **Australia** ![](/wiki/shared/flag/Au.gif) (GMT+11)         | **Mizorex**, damiaanzx, [Hark](https://osu.ppy.sh/u/43265), [Frankcons](https://osu.ppy.sh/u/594006) ([Mikey](https://osu.ppy.sh/u/979780), [Neko_Lover](https://osu.ppy.sh/u/596535))                                                                               |
+| **Poland** ![](/wiki/shared/flag/Pl.gif) (GMT+1)             | **[fartownik](https://osu.ppy.sh/u/56917)**, White Wolf, [rEdo](https://osu.ppy.sh/u/49329), [Kubu](https://osu.ppy.sh/u/29130) ([Piotrekol](https://osu.ppy.sh/u/304520))                                                                                           |
+| **Latvia** ![](/wiki/shared/flag/Lv.gif) (GMT+2)             | **[_Angel](https://osu.ppy.sh/u/341851)**, [GummyChan](https://osu.ppy.sh/u/757683), [LoGo](https://osu.ppy.sh/u/750382), [Vmx](https://osu.ppy.sh/u/967501)                                                                                                         |
+| **Taiwan** ![](/wiki/shared/flag/Tw.gif)                     | **Saya-Honmei**, SnowWhite, [YuyuKo sama](https://osu.ppy.sh/u/234788), wizoza83098 ([BinJip](https://osu.ppy.sh/u/261694), [ZRush](https://osu.ppy.sh/u/398097))                                                                                              |
+| **Republic of Korea** ![](/wiki/shared/flag/Kr.gif)          | **[KRZY](https://osu.ppy.sh/u/114017)**, mnto, [K i R i K a R u](https://osu.ppy.sh/u/139670), [CheEZ](https://osu.ppy.sh/u/272117) ([Remilia-Scarlet](https://osu.ppy.sh/u/602783), [Reisen Udongein](https://osu.ppy.sh/u/232942))                                       |
+| **Malaysia** ![](/wiki/shared/flag/My.gif) (GMT+8)           | **[akupp](https://osu.ppy.sh/u/249825)**, [xsrsbsns](https://osu.ppy.sh/u/414427), RhaiizoN, [Gon](https://osu.ppy.sh/u/583765) ([The 08 team_Bourdon](https://osu.ppy.sh/u/275686), [zenki0013](https://osu.ppy.sh/u/89646))                                              |
+| **United States** ![](/wiki/shared/flag/Us.gif) (GMT-5)      | **Kyou-kun**, [Cyclone](https://osu.ppy.sh/u/18589), [Lybydose](https://osu.ppy.sh/u/64501), [geckogates](https://osu.ppy.sh/u/252524) (david huhh)                                                                                                            |
+| **Japan** ![](/wiki/shared/flag/Jp.gif) (GMT+9)              | **[SiLviA](https://osu.ppy.sh/u/409747)**, [Apricot](https://osu.ppy.sh/u/438547), [Flute](https://osu.ppy.sh/u/211278), [Iris](https://osu.ppy.sh/u/758181) ([Sinch](https://osu.ppy.sh/u/360552), [val0108](https://osu.ppy.sh/u/243917))                                      |
+| **Russian Federation** ![](/wiki/shared/flag/Ru.gif) (GMT+4) | **[Akai-](https://osu.ppy.sh/u/649471)**, [Vpalach](https://osu.ppy.sh/u/232729), [Kert](https://osu.ppy.sh/u/119933), [Rost94](https://osu.ppy.sh/u/490568) (646kapeh640, cr1m)                                                                                     |
+| **Austria** ![](/wiki/shared/flag/At.gif) (GMT+1)            | **[-Lennox-](https://osu.ppy.sh/u/489103)**, [Snowball](https://osu.ppy.sh/u/152238), [Hanyuu](https://osu.ppy.sh/u/73480), HakkeroHakkero ([novaaa](https://osu.ppy.sh/u/953405), [M A R I O](https://osu.ppy.sh/u/594424))                                               |
 
 Staff
 -----
 
 ### Main organizers
 
--   ![](/wiki/shared/flag/Pl.gif) [fartownik](//osu.ppy.sh/u/56917) (also map choosing from semi-finals)
--   ![](/wiki/shared/flag/Cn.gif) [NatsumeRin](//osu.ppy.sh/u/151679) (also map choosing)
+-   ![](/wiki/shared/flag/Pl.gif) [fartownik](https://osu.ppy.sh/u/56917) (also map choosing from semi-finals)
+-   ![](/wiki/shared/flag/Cn.gif) [NatsumeRin](https://osu.ppy.sh/u/151679) (also map choosing)
 
 ### Map choosing
 
--   ![Tw.gif](http://w.ppy.sh/0/09/Tw.gif) [Alace](//osu.ppy.sh/u/25993)
--   ![Gb.gif](http://w.ppy.sh/b/bc/Gb.gif) ~~[Natteke](//osu.ppy.sh/u/157177)~~
--   ![De.gif](http://w.ppy.sh/2/24/De.gif) [Dangaard](//osu.ppy.sh/u/19488)
--   ![Us.gif](http://w.ppy.sh/6/66/Us.gif) [SapphireGhost](//osu.ppy.sh/u/388602)
--   ![Gb.gif](http://w.ppy.sh/b/bc/Gb.gif) ~~[jericho2442](//osu.ppy.sh/u/88904)~~
--   ![Se.gif](http://w.ppy.sh/7/77/Se.gif) [Gabi](//osu.ppy.sh/u/57057)
+-   ![Tw.gif](https://w.ppy.sh/0/09/Tw.gif) [Alace](https://osu.ppy.sh/u/25993)
+-   ![Gb.gif](https://w.ppy.sh/b/bc/Gb.gif) ~~[Natteke](https://osu.ppy.sh/u/157177)~~
+-   ![De.gif](https://w.ppy.sh/2/24/De.gif) [Dangaard](https://osu.ppy.sh/u/19488)
+-   ![Us.gif](https://w.ppy.sh/6/66/Us.gif) [SapphireGhost](https://osu.ppy.sh/u/388602)
+-   ![Gb.gif](https://w.ppy.sh/b/bc/Gb.gif) ~~[jericho2442](https://osu.ppy.sh/u/88904)~~
+-   ![Se.gif](https://w.ppy.sh/7/77/Se.gif) [Gabi](https://osu.ppy.sh/u/57057)
 
 ### Streaming/match coverages & interviews
 
--   ![](/wiki/shared/flag/Ar.gif) [Metro](//osu.ppy.sh/u/306737)
--   ![](/wiki/shared/flag/Jp.gif) [dvorak](//osu.ppy.sh/u/271359)
--   ![](/wiki/shared/flag/Ca.gif) [YodaSnipe](//osu.ppy.sh/u/673746)
--   ![](/wiki/shared/flag/Nl.gif) [dlovan](//osu.ppy.sh/u/190684)
+-   ![](/wiki/shared/flag/Ar.gif) [Metro](https://osu.ppy.sh/u/306737)
+-   ![](/wiki/shared/flag/Jp.gif) [dvorak](https://osu.ppy.sh/u/271359)
+-   ![](/wiki/shared/flag/Ca.gif) [YodaSnipe](https://osu.ppy.sh/u/673746)
+-   ![](/wiki/shared/flag/Nl.gif) [dlovan](https://osu.ppy.sh/u/190684)
 
 Maps
 ----
 
-Note: The asterisk ("[**\***]") at the end of the beatmap means that the beatmap is unavailable due to this [notice](//gist.github.com/peppy/99e6959772083cdfde8a)
+Note: The asterisk ("[**\***]") at the end of the beatmap means that the beatmap is unavailable due to this [notice](https://gist.github.com/peppy/99e6959772083cdfde8a)
 
 ### First Stage
 
--   [Hatsune Miku - BadBye [Goodbye]](http://osu.ppy.sh/b/101916)
--   [DystopiaGround - True Theory of Inheritance [Insane]](http://osu.ppy.sh/b/83215)
--   [Humanoid - Mendes [Another]](http://osu.ppy.sh/b/75831)
--   [Bomfunk MC's - Freestyler [Insane]](http://osu.ppy.sh/b/115352)
--   [Megurine Luka - Leia [gowww]](http://osu.ppy.sh/b/96587)
--   [Niko - Night of Fire [Insane]](http://osu.ppy.sh/b/66820)
--   [Dj Verstarker - Jump Jump (2008) [Jump like CRAZY!!!]](http://osu.ppy.sh/b/28152)
--   [Wiklund - The Digital Force [Magnetic Force]](http://osu.ppy.sh/b/43691)
--   [B0UNC3 - ALIVE [Hard]](http://osu.ppy.sh/b/62712)
--   [Nudarai - Nuclear Fusion [U235]](http://osu.ppy.sh/b/87207)
--   [Hana - Aerodynamics Girls and Boys Poem [Pook]](http://osu.ppy.sh/b/80784)
--   [TeddyLoid - Theme for Scanty & Knee Socks [Larto's Insane]](http://osu.ppy.sh/b/111142)
--   [Lia - Kokoro ni Todoku Uta [Holo]](http://osu.ppy.sh/b/89428)
--   [nomico - Bad Apple!! [Hard]](http://osu.ppy.sh/b/28755)
+-   [Hatsune Miku - BadBye [Goodbye]](https://osu.ppy.sh/b/101916)
+-   [DystopiaGround - True Theory of Inheritance [Insane]](https://osu.ppy.sh/b/83215)
+-   [Humanoid - Mendes [Another]](https://osu.ppy.sh/b/75831)
+-   [Bomfunk MC's - Freestyler [Insane]](https://osu.ppy.sh/b/115352)
+-   [Megurine Luka - Leia [gowww]](https://osu.ppy.sh/b/96587)
+-   [Niko - Night of Fire [Insane]](https://osu.ppy.sh/b/66820)
+-   [Dj Verstarker - Jump Jump (2008) [Jump like CRAZY!!!]](https://osu.ppy.sh/b/28152)
+-   [Wiklund - The Digital Force [Magnetic Force]](https://osu.ppy.sh/b/43691)
+-   [B0UNC3 - ALIVE [Hard]](https://osu.ppy.sh/b/62712)
+-   [Nudarai - Nuclear Fusion [U235]](https://osu.ppy.sh/b/87207)
+-   [Hana - Aerodynamics Girls and Boys Poem [Pook]](https://osu.ppy.sh/b/80784)
+-   [TeddyLoid - Theme for Scanty & Knee Socks [Larto's Insane]](https://osu.ppy.sh/b/111142)
+-   [Lia - Kokoro ni Todoku Uta [Holo]](https://osu.ppy.sh/b/89428)
+-   [nomico - Bad Apple!! [Hard]](https://osu.ppy.sh/b/28755)
 
 Extra (for 2:2 tie):
 
--   [supercell - Rock 'n' Roll Nan Desu no [Insane]](http://osu.ppy.sh/b/93021)
+-   [supercell - Rock 'n' Roll Nan Desu no [Insane]](https://osu.ppy.sh/b/93021)
 
 ### Second Stage
 
--   [Jun.A - The Refrain of the Lovely Great War [Lunatic]](http://osu.ppy.sh/b/82734)
--   [REDALiCE - Selfish [Lunatic]](http://osu.ppy.sh/b/105531)
--   [Suzaku - VANESSA [Another]](http://osu.ppy.sh/b/97663)
--   [Tatsh - Fuushi Kaden [Hard]](http://osu.ppy.sh/b/56044)
--   [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Crazy Jay]](http://osu.ppy.sh/b/91462)
--   [Sum 41 - Thanks For Nothing [Hard]](http://osu.ppy.sh/b/80756)
--   [Hatsune Miku - Netoge Haijin Sprechchor [Insane]](http://osu.ppy.sh/b/87369)
--   [Kuripurin - Jutenija [Insane]](http://osu.ppy.sh/b/86377)
--   [capsule - JUMPER [Insane]](http://osu.ppy.sh/b/73494)
--   [kors k - Wuv U [dksslqj Style]](http://osu.ppy.sh/b/116739)
--   [Hatsune Miku - Subarashii Sekai [S.S]](http://osu.ppy.sh/b/96351)
--   [IOSYS - Poinsettia [Lunatic]](http://osu.ppy.sh/b/65233)
--   [Aizawa - Flutter Girl [Insane]](http://osu.ppy.sh/b/61124)
--   [Mutsuhiko Izumi - Russian Snowy Dance [Insane]](http://osu.ppy.sh/b/124275)
+-   [Jun.A - The Refrain of the Lovely Great War [Lunatic]](https://osu.ppy.sh/b/82734)
+-   [REDALiCE - Selfish [Lunatic]](https://osu.ppy.sh/b/105531)
+-   [Suzaku - VANESSA [Another]](https://osu.ppy.sh/b/97663)
+-   [Tatsh - Fuushi Kaden [Hard]](https://osu.ppy.sh/b/56044)
+-   [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Crazy Jay]](https://osu.ppy.sh/b/91462)
+-   [Sum 41 - Thanks For Nothing [Hard]](https://osu.ppy.sh/b/80756)
+-   [Hatsune Miku - Netoge Haijin Sprechchor [Insane]](https://osu.ppy.sh/b/87369)
+-   [Kuripurin - Jutenija [Insane]](https://osu.ppy.sh/b/86377)
+-   [capsule - JUMPER [Insane]](https://osu.ppy.sh/b/73494)
+-   [kors k - Wuv U [dksslqj Style]](https://osu.ppy.sh/b/116739)
+-   [Hatsune Miku - Subarashii Sekai [S.S]](https://osu.ppy.sh/b/96351)
+-   [IOSYS - Poinsettia [Lunatic]](https://osu.ppy.sh/b/65233)
+-   [Aizawa - Flutter Girl [Insane]](https://osu.ppy.sh/b/61124)
+-   [Mutsuhiko Izumi - Russian Snowy Dance [Insane]](https://osu.ppy.sh/b/124275)
 
 Extra map:
 
--   [Okui Masami - God Speed [Insane]](http://osu.ppy.sh/b/93947)
+-   [Okui Masami - God Speed [Insane]](https://osu.ppy.sh/b/93947)
 
 ### Third Stage
 
--   [Ruru Ichinose - Hinarin's Relation of Misfortune [Lunatic]](http://osu.ppy.sh/b/46486)
--   [Furries in a Blender - Ridorii [Insane]](http://osu.ppy.sh/b/98496)
--   [DJ Sadan - Theme of Laura [Insane]](http://osu.ppy.sh/b/122776)
--   [Drop - Gensou Kidan (Kaguyahime+Mikotonori Ver.) [Lunatic]](http://osu.ppy.sh/b/57405)
--   [Tatsh - reunion [Insane]](http://osu.ppy.sh/b/83338)
--   [Hatsune Miku - Unhappy Refrain [Rin]](http://osu.ppy.sh/b/105534)
--   [Hate vs Brilliance - Quark [Extra]](http://osu.ppy.sh/b/85166)
--   [Nekomata Master - Far east nightbird [Another]](http://osu.ppy.sh/b/97942)
--   [sun3 - Higan Retour [Alazy]](http://osu.ppy.sh/b/54371)
--   [HHH (Ryu & Dai) - So Fabulous!! [Another]](http://osu.ppy.sh/b/57510)
--   [Yasuharu Takanashi - Fairy Tail Main Theme [KIRBY Mix]](http://osu.ppy.sh/b/50625)
--   [DJ YOSHITAKA - FLOWER [Intense]](http://osu.ppy.sh/b/104635)
--   [Pendulum - The Vulture [Insane]](http://osu.ppy.sh/b/82249)
--   [Hatsune Miku - Kusaregedou to Chocolate [Insane]](http://osu.ppy.sh/b/85494)
+-   [Ruru Ichinose - Hinarin's Relation of Misfortune [Lunatic]](https://osu.ppy.sh/b/46486)
+-   [Furries in a Blender - Ridorii [Insane]](https://osu.ppy.sh/b/98496)
+-   [DJ Sadan - Theme of Laura [Insane]](https://osu.ppy.sh/b/122776)
+-   [Drop - Gensou Kidan (Kaguyahime+Mikotonori Ver.) [Lunatic]](https://osu.ppy.sh/b/57405)
+-   [Tatsh - reunion [Insane]](https://osu.ppy.sh/b/83338)
+-   [Hatsune Miku - Unhappy Refrain [Rin]](https://osu.ppy.sh/b/105534)
+-   [Hate vs Brilliance - Quark [Extra]](https://osu.ppy.sh/b/85166)
+-   [Nekomata Master - Far east nightbird [Another]](https://osu.ppy.sh/b/97942)
+-   [sun3 - Higan Retour [Alazy]](https://osu.ppy.sh/b/54371)
+-   [HHH (Ryu & Dai) - So Fabulous!! [Another]](https://osu.ppy.sh/b/57510)
+-   [Yasuharu Takanashi - Fairy Tail Main Theme [KIRBY Mix]](https://osu.ppy.sh/b/50625)
+-   [DJ YOSHITAKA - FLOWER [Intense]](https://osu.ppy.sh/b/104635)
+-   [Pendulum - The Vulture [Insane]](https://osu.ppy.sh/b/82249)
+-   [Hatsune Miku - Kusaregedou to Chocolate [Insane]](https://osu.ppy.sh/b/85494)
 
 Extra:
 
--   [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](http://osu.ppy.sh/b/99342)
+-   [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](https://osu.ppy.sh/b/99342)
 
 ### Round of 16
 
--   [xi - Halcyon [Another]](http://osu.ppy.sh/b/73699)
--   [Two Door Cinema Club - Cigarettes In The Theatre [Insane]](http://osu.ppy.sh/b/120461)
--   [Sakaue Nachi - Think of You [Lunatic]](http://osu.ppy.sh/b/84358)
--   [Akita Neru - Gotya Gotya Uruse~! [Insane]](http://osu.ppy.sh/b/76638)
--   [HOUJIROU - Maihime ~buki~ [Another]](http://osu.ppy.sh/b/95795)
--   [Max Coveri - Running in the 90's [Insane]](http://osu.ppy.sh/b/65417)
--   [Kagamine Rin - Tokyo Teddy Bear [Rin]](http://osu.ppy.sh/b/127138)
--   [SHK - Weep Irish [Another]](http://osu.ppy.sh/b/95360)
--   [Dark PHOENiX - Taketori Hishou [Lunatic]](http://osu.ppy.sh/b/68036)
--   [cranky - R176 [Another]](http://osu.ppy.sh/b/103102)
--   [Tamura Yukari - Endless Story [Insane]](http://osu.ppy.sh/b/123021)
--   [Katy Perry - E.T. [Futuristic]](http://osu.ppy.sh/b/116708)
--   [Megpoid GUMI - Chocolate [Insane]](http://osu.ppy.sh/b/89721)
--   [DCX - Flying High (DJ Splash Remix) [InoSane]](http://osu.ppy.sh/b/76663)
+-   [xi - Halcyon [Another]](https://osu.ppy.sh/b/73699)
+-   [Two Door Cinema Club - Cigarettes In The Theatre [Insane]](https://osu.ppy.sh/b/120461)
+-   [Sakaue Nachi - Think of You [Lunatic]](https://osu.ppy.sh/b/84358)
+-   [Akita Neru - Gotya Gotya Uruse~! [Insane]](https://osu.ppy.sh/b/76638)
+-   [HOUJIROU - Maihime ~buki~ [Another]](https://osu.ppy.sh/b/95795)
+-   [Max Coveri - Running in the 90's [Insane]](https://osu.ppy.sh/b/65417)
+-   [Kagamine Rin - Tokyo Teddy Bear [Rin]](https://osu.ppy.sh/b/127138)
+-   [SHK - Weep Irish [Another]](https://osu.ppy.sh/b/95360)
+-   [Dark PHOENiX - Taketori Hishou [Lunatic]](https://osu.ppy.sh/b/68036)
+-   [cranky - R176 [Another]](https://osu.ppy.sh/b/103102)
+-   [Tamura Yukari - Endless Story [Insane]](https://osu.ppy.sh/b/123021)
+-   [Katy Perry - E.T. [Futuristic]](https://osu.ppy.sh/b/116708)
+-   [Megpoid GUMI - Chocolate [Insane]](https://osu.ppy.sh/b/89721)
+-   [DCX - Flying High (DJ Splash Remix) [InoSane]](https://osu.ppy.sh/b/76663)
 
 Extra:
 
--   [Hatsune Miku - Rubik's Cube [7x7x7]](http://osu.ppy.sh/b/114635)
+-   [Hatsune Miku - Rubik's Cube [7x7x7]](https://osu.ppy.sh/b/114635)
 
 ### Quarter-finals
 
--   [Hatsune Miku - Recommended Spell [Spell]](http://osu.ppy.sh/b/96055)
--   [Demetori - Emotional Skyscraper ~ World's End [Lunatic]](http://osu.ppy.sh/b/48985)
--   [SHIKI - BABYLON [Another]](http://osu.ppy.sh/b/103132)
--   [Insert Rupee - Facing Fears (OC ReMix) [Insane]](http://osu.ppy.sh/b/118054)
--   [ALiCE'S EMOTiON - Lorelei [Lunatic]](http://osu.ppy.sh/b/59643)
--   [Hatsune Miku - the last effect [Holoid]](http://osu.ppy.sh/b/97423)
--   [Comp - Gensou no Satellite [Insane]](http://osu.ppy.sh/b/63604)
--   [Ryu - I'm so Happy [Extreme]](http://osu.ppy.sh/b/110915)
--   [Amane - Midsummer Festival [Lunatteke]](http://osu.ppy.sh/b/75822)
--   [Makou - Fermion [Maximum]](http://osu.ppy.sh/b/72284)
--   [seiya-murai feat.ALT - Sumidagawa Karenka [Extreme]](http://osu.ppy.sh/b/95870)
--   [Hatsune Miku & Megpoid Gumi - MATRYOSHKA [Insane]](http://osu.ppy.sh/b/69405)
--   [Lou Bega - Mambo No.5 [Insane]](http://osu.ppy.sh/b/108936)
--   [Pizuya's Cell x MyonMyon - Romantic Children [Lunatic]](http://osu.ppy.sh/b/68431)
+-   [Hatsune Miku - Recommended Spell [Spell]](https://osu.ppy.sh/b/96055)
+-   [Demetori - Emotional Skyscraper ~ World's End [Lunatic]](https://osu.ppy.sh/b/48985)
+-   [SHIKI - BABYLON [Another]](https://osu.ppy.sh/b/103132)
+-   [Insert Rupee - Facing Fears (OC ReMix) [Insane]](https://osu.ppy.sh/b/118054)
+-   [ALiCE'S EMOTiON - Lorelei [Lunatic]](https://osu.ppy.sh/b/59643)
+-   [Hatsune Miku - the last effect [Holoid]](https://osu.ppy.sh/b/97423)
+-   [Comp - Gensou no Satellite [Insane]](https://osu.ppy.sh/b/63604)
+-   [Ryu - I'm so Happy [Extreme]](https://osu.ppy.sh/b/110915)
+-   [Amane - Midsummer Festival [Lunatteke]](https://osu.ppy.sh/b/75822)
+-   [Makou - Fermion [Maximum]](https://osu.ppy.sh/b/72284)
+-   [seiya-murai feat.ALT - Sumidagawa Karenka [Extreme]](https://osu.ppy.sh/b/95870)
+-   [Hatsune Miku & Megpoid Gumi - MATRYOSHKA [Insane]](https://osu.ppy.sh/b/69405)
+-   [Lou Bega - Mambo No.5 [Insane]](https://osu.ppy.sh/b/108936)
+-   [Pizuya's Cell x MyonMyon - Romantic Children [Lunatic]](https://osu.ppy.sh/b/68431)
 
 Extra:
 
--   [Nanamori-chu * Goraku-bu - My Pace de Ikimashou [Yuri]](http://osu.ppy.sh/b/118226)
+-   [Nanamori-chu * Goraku-bu - My Pace de Ikimashou [Yuri]](https://osu.ppy.sh/b/118226)
 
 ### Semi-finals
 
--   [Seiryu - Time to Air [DaRRi MIx]](http://osu.ppy.sh/b/24594)[**\***]
--   [Atoguru - Itoshi Kimi wo Mitsuke ni [Insane]](http://osu.ppy.sh/b/96523)
--   [Hatsune Miku - Hiatus [Insane]](http://osu.ppy.sh/b/105003)
--   [paraoka - Manima ni (Short Ver.) [0108]](http://osu.ppy.sh/b/131362)
--   [07th Expansion - Final Answer [Insane]](http://osu.ppy.sh/b/88633)
--   [DJ YOSHITAKA - Evans [Another]](http://osu.ppy.sh/b/77017)[**\***]
--   [Syuiro - Ama no Jaku [Insane]](http://osu.ppy.sh/b/126677)
--   [Mutsuhiko Izumi - Chinese Snowy Dance [Insane]](http://osu.ppy.sh/b/132013)
--   [Kucchy vs Akky - Yakumo ~ JOINT STRUGGLE [Lunatic]](http://osu.ppy.sh/b/48096)
--   [Rex - Heart of Witch [InoStyle]](http://osu.ppy.sh//b/71746)
--   [Team Nekokan - Can't Defeat Airman [Insane]](http://osu.ppy.sh//b/82033)
--   [Megpoid GUMI - Jinsei Reset Button [Ex.]](http://osu.ppy.sh/b/127426)
--   [Hatsune Miku - Kagerou Days [mizuki]](http://osu.ppy.sh/b/128668)
--   [Paramore - Looking Up [Hard]](http://osu.ppy.sh/b/66662)
+-   [Seiryu - Time to Air [DaRRi MIx]](https://osu.ppy.sh/b/24594)[**\***]
+-   [Atoguru - Itoshi Kimi wo Mitsuke ni [Insane]](https://osu.ppy.sh/b/96523)
+-   [Hatsune Miku - Hiatus [Insane]](https://osu.ppy.sh/b/105003)
+-   [paraoka - Manima ni (Short Ver.) [0108]](https://osu.ppy.sh/b/131362)
+-   [07th Expansion - Final Answer [Insane]](https://osu.ppy.sh/b/88633)
+-   [DJ YOSHITAKA - Evans [Another]](https://osu.ppy.sh/b/77017)[**\***]
+-   [Syuiro - Ama no Jaku [Insane]](https://osu.ppy.sh/b/126677)
+-   [Mutsuhiko Izumi - Chinese Snowy Dance [Insane]](https://osu.ppy.sh/b/132013)
+-   [Kucchy vs Akky - Yakumo ~ JOINT STRUGGLE [Lunatic]](https://osu.ppy.sh/b/48096)
+-   [Rex - Heart of Witch [InoStyle]](https://osu.ppy.sh//b/71746)
+-   [Team Nekokan - Can't Defeat Airman [Insane]](https://osu.ppy.sh//b/82033)
+-   [Megpoid GUMI - Jinsei Reset Button [Ex.]](https://osu.ppy.sh/b/127426)
+-   [Hatsune Miku - Kagerou Days [mizuki]](https://osu.ppy.sh/b/128668)
+-   [Paramore - Looking Up [Hard]](https://osu.ppy.sh/b/66662)
 
 Extra:
 
--   [DJ Fresh - Gold Dust [Insane]](http://osu.ppy.sh/b/93842)
+-   [DJ Fresh - Gold Dust [Insane]](https://osu.ppy.sh/b/93842)
 
 ### Finals
 
 **(And third place maps)**
 
--   [44teru-K - F.I. [Insane]](http://osu.ppy.sh/b/106033)
--   [Sound Horizon - Raijin no Hidariude [Insane]](http://osu.ppy.sh/b/60089)
--   [Yousei Teikoku - Mischevious of Alice [Alice]](http://osu.ppy.sh/b/142356)
--   [SUPER STAR -MITSURU- - ALL MY TURN [Another]](http://osu.ppy.sh/b/101713)
--   [DJ Sharpnel - Exciting Hyper Highspeed Star [Highspeed]](http://osu.ppy.sh/b/62589)
--   [NicoNicoDouga - Owens [Another]](http://osu.ppy.sh/b/72469)
--   [Eoin O'Broin - Deep Space [Another]](http://osu.ppy.sh/b/85550)
--   [Dio ft. Sef - Tijdmachine [Lesjuh! '11]](http://osu.ppy.sh/b/129875)
--   [Seiryu x Donald - Time to Donald [Another]](http://osu.ppy.sh/b/30613)
--   [supercell - Rock 'n' Roll Nan Desu no [Insane]](http://osu.ppy.sh/b/93021)
--   [Okui Masami - God Speed [Insane]](http://osu.ppy.sh/b/93947)
--   [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](http://osu.ppy.sh/b/99342)
--   [Hatsune Miku - Rubik's Cube [7x7x7]](http://osu.ppy.sh/b/114635)
--   [Nanamori-chu * Goraku-bu - My Pace de Ikimashou [Yuri]](http://osu.ppy.sh/b/118226)
--   [DJ Fresh - Gold Dust [Insane]](http://osu.ppy.sh/b/93842)
+-   [44teru-K - F.I. [Insane]](https://osu.ppy.sh/b/106033)
+-   [Sound Horizon - Raijin no Hidariude [Insane]](https://osu.ppy.sh/b/60089)
+-   [Yousei Teikoku - Mischevious of Alice [Alice]](https://osu.ppy.sh/b/142356)
+-   [SUPER STAR -MITSURU- - ALL MY TURN [Another]](https://osu.ppy.sh/b/101713)
+-   [DJ Sharpnel - Exciting Hyper Highspeed Star [Highspeed]](https://osu.ppy.sh/b/62589)
+-   [NicoNicoDouga - Owens [Another]](https://osu.ppy.sh/b/72469)
+-   [Eoin O'Broin - Deep Space [Another]](https://osu.ppy.sh/b/85550)
+-   [Dio ft. Sef - Tijdmachine [Lesjuh! '11]](https://osu.ppy.sh/b/129875)
+-   [Seiryu x Donald - Time to Donald [Another]](https://osu.ppy.sh/b/30613)
+-   [supercell - Rock 'n' Roll Nan Desu no [Insane]](https://osu.ppy.sh/b/93021)
+-   [Okui Masami - God Speed [Insane]](https://osu.ppy.sh/b/93947)
+-   [Hommarju feat. R.Cena - Chousai Kenbo Sengen [Insane]](https://osu.ppy.sh/b/99342)
+-   [Hatsune Miku - Rubik's Cube [7x7x7]](https://osu.ppy.sh/b/114635)
+-   [Nanamori-chu * Goraku-bu - My Pace de Ikimashou [Yuri]](https://osu.ppy.sh/b/118226)
+-   [DJ Fresh - Gold Dust [Insane]](https://osu.ppy.sh/b/93842)
 
 Extra:
 
--   [Loathing in Las Vegas - Just Awake [Insane]](http://osu.ppy.sh/b/139446)
+-   [Loathing in Las Vegas - Just Awake [Insane]](https://osu.ppy.sh/b/139446)

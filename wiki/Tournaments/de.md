@@ -1,7 +1,7 @@
 Turniere
 =============
 
-Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](//osu.ppy.sh/forum/55), um ins Forum zu gelangen.
+Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://osu.ppy.sh/forum/55), um ins Forum zu gelangen.
 
 osu! World Cup
 --------------
@@ -50,5 +50,5 @@ Siehe auch
 ----------
 
 -   [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [World Cup Season Schedule 2013/14](//osu.ppy.sh/forum/t/148024)
+-   [World Cup Season Schedule 2013/14](https://osu.ppy.sh/forum/t/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)

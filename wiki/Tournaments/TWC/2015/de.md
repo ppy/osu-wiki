@@ -3,7 +3,7 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](//osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/flag/Jp.gif) Japan**.
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](https://osu.ppy.sh/g/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist **![](/wiki/shared/flag/Jp.gif) Japan**.
 
 Turnierzeitplan
 ---------------------
@@ -33,19 +33,19 @@ Organisation
 
 | Job                | Person(s)                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Map Wähler         | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Streamer           | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Kommentatoren      | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Turnier Management | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565)  |
+| Map Wähler         | ![](/wiki/shared/flag/De.gif) [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamer           | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257) |
+| Kommentatoren      | ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347)                                                               |
+| Statistiker        | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 Links
 ------
 
--   [Diskussionsthread](//osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 auf Twitch](//www.twitch.tv/osulive/)
+-   [Diskussionsthread](https://osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ Regelsätze
     2.  Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
     3.  Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
 
-2.  Um sich anzumelden, [senden Sie eine PM an Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
+2.  Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
     1.  Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
     2.  Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
 
@@ -113,7 +113,7 @@ Regelsätze
     1.  Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6.  Basierend auf [dieser Grafik](//puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6.  Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe           | Match ID                |
 |------------------|-------------------------|

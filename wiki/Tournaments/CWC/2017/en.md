@@ -113,74 +113,74 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Group Stage
 
-**[Download the mappack here! (120 MB)](http://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar)**
+**[Download the mappack here! (120 MB)](https://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar)**
 
 | NoMod | |
 | --- | :--- |
-| [ensou ft GUMI - COMA (Nelly)](http://osu.ppy.sh/b/1299618&m=2) | [Rain] |
-| [Obsidia - Crazy (Drafura)](http://osu.ppy.sh/b/241869&m=2) | [Etoile] |
-| [m.o.v.e - DOGFIGHT (CLSW)](http://osu.ppy.sh/b/1251462&m=2) | [Rain] |
-| [wa. vs celas - Vajuranda (alienflybot)](http://osu.ppy.sh/b/684820&m=2) | [Deif's Rain] |
-| [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy)](http://osu.ppy.sh/b/311898&m=2) | [Flower's Lunatic] |
-| [Rise Against - The Good Left Undone (pishifat)](http://osu.ppy.sh/b/795712&m=2) | [Extra] |
+| [ensou ft GUMI - COMA (Nelly)](https://osu.ppy.sh/b/1299618&m=2) | [Rain] |
+| [Obsidia - Crazy (Drafura)](https://osu.ppy.sh/b/241869&m=2) | [Etoile] |
+| [m.o.v.e - DOGFIGHT (CLSW)](https://osu.ppy.sh/b/1251462&m=2) | [Rain] |
+| [wa. vs celas - Vajuranda (alienflybot)](https://osu.ppy.sh/b/684820&m=2) | [Deif's Rain] |
+| [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy)](https://osu.ppy.sh/b/311898&m=2) | [Flower's Lunatic] |
+| [Rise Against - The Good Left Undone (pishifat)](https://osu.ppy.sh/b/795712&m=2) | [Extra] |
 
 | Hidden | |
 | --- | :--- |
-| [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo)](http://osu.ppy.sh/b/1023582&m=2) | [Hyperion's Rain] |
-| [Kaneko Chiharu - iLLness LiLin (Fresh Chicken)](http://osu.ppy.sh/b/1279951&m=2) | [tasuke's C.EXHAUST] |
-| [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w)](http://osu.ppy.sh/b/153418&m=2) | [YuruYuri] |
+| [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo)](https://osu.ppy.sh/b/1023582&m=2) | [Hyperion's Rain] |
+| [Kaneko Chiharu - iLLness LiLin (Fresh Chicken)](https://osu.ppy.sh/b/1279951&m=2) | [tasuke's C.EXHAUST] |
+| [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w)](https://osu.ppy.sh/b/153418&m=2) | [YuruYuri] |
 
 | HardRock | |
 | --- | :--- |
-| [Eiko Shimamiya - Higurashi no Naku Koro ni (TV size) (Betsuto)](http://osu.ppy.sh/b/292827&m=2) | [Platter] |
-| [Camellia - Chirality (RLC)](http://osu.ppy.sh/b/531216&m=2) | [Hard] |
-| [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna)](http://osu.ppy.sh/b/114651&m=2) | [Apricotan!] |
+| [Eiko Shimamiya - Higurashi no Naku Koro ni (TV size) (Betsuto)](https://osu.ppy.sh/b/292827&m=2) | [Platter] |
+| [Camellia - Chirality (RLC)](https://osu.ppy.sh/b/531216&m=2) | [Hard] |
+| [Tsubaki - Kyun Kyun Tamaran Inaba tan! (Aenna)](https://osu.ppy.sh/b/114651&m=2) | [Apricotan!] |
 
 | DoubleTime | |
 | --- | :--- |
-| [Goose house - Hikaru nara (Ascendance)](http://osu.ppy.sh/b/1246823&m=2) | [Platter] |
-| [Tokyo Machine - OKAY (WildOne94)](http://osu.ppy.sh/b/1080445&m=2) | [Platter] |
-| [07th Expansion - the executioner (Natteke)](http://osu.ppy.sh/b/91198&m=2) | [Hard] |
+| [Goose house - Hikaru nara (Ascendance)](https://osu.ppy.sh/b/1246823&m=2) | [Platter] |
+| [Tokyo Machine - OKAY (WildOne94)](https://osu.ppy.sh/b/1080445&m=2) | [Platter] |
+| [07th Expansion - the executioner (Natteke)](https://osu.ppy.sh/b/91198&m=2) | [Hard] |
 
 | Tiebreaker | |
 | --- | :--- |
-| [MISATO - Necro Fantasia (Chromoxx)](http://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] |
+| [MISATO - Necro Fantasia (Chromoxx)](https://osu.ppy.sh/b/1119421&m=2) | [Curse of Dreams and Reality] |
 
 ### Round of 16
 
-**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/l7kgoz9hx967mnz/CWC_2017_Round_of_16.rar)**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/file/l7kgoz9hx967mnz/CWC_2017_Round_of_16.rar)**
 
 | NoMod | |
 | --- | :--- |
-| [Reol - No title (Spectator)](http://osu.ppy.sh/b/536479&m=2) | [Collab Rain] |
-| [Kurubukko vs yukitani - Minamichita EVOLVED (alienflybot)](http://osu.ppy.sh/b/1100300&m=2) | [REINCARNATION] |
-| [Muzzy - Crescendo (feat. MYLK) (WildOne94)](http://osu.ppy.sh/b/1116331&m=2) | [Soltar] |
-| [CLIFF EDGE feat. Nakamura Maiko - The Distance (Ascendance)](http://osu.ppy.sh/b/1053163&m=2) | [Smile] |
-| [Eoin O' Broin - Oblivion (DoKoLP)](http://osu.ppy.sh/b/119853&m=2) | [Insane] |
-| [UPLIFT SPICE - Omega Rhythm (Jemmmmy)](http://osu.ppy.sh/b/366140&m=2) | [Extra] |
+| [Reol - No title (Spectator)](https://osu.ppy.sh/b/536479&m=2) | [Collab Rain] |
+| [Kurubukko vs yukitani - Minamichita EVOLVED (alienflybot)](https://osu.ppy.sh/b/1100300&m=2) | [REINCARNATION] |
+| [Muzzy - Crescendo (feat. MYLK) (WildOne94)](https://osu.ppy.sh/b/1116331&m=2) | [Soltar] |
+| [CLIFF EDGE feat. Nakamura Maiko - The Distance (Ascendance)](https://osu.ppy.sh/b/1053163&m=2) | [Smile] |
+| [Eoin O' Broin - Oblivion (DoKoLP)](https://osu.ppy.sh/b/119853&m=2) | [Insane] |
+| [UPLIFT SPICE - Omega Rhythm (Jemmmmy)](https://osu.ppy.sh/b/366140&m=2) | [Extra] |
 
 
 | Hidden | |
 | --- | :--- |
-| [M2U - A Bella ! (ZiRoX)](http://osu.ppy.sh/b/1147348&m=2) | [Deif's Overdose] |
-| [Hecq - Dstrukt (JBHyperion)](http://osu.ppy.sh/b/1087385&m=2) | [Overdose] |
-| [Red Velvet - Russian Roulette (Natsu)](http://osu.ppy.sh/b/1085554&m=2) | [Heart b-b-beat] |
+| [M2U - A Bella ! (ZiRoX)](https://osu.ppy.sh/b/1147348&m=2) | [Deif's Overdose] |
+| [Hecq - Dstrukt (JBHyperion)](https://osu.ppy.sh/b/1087385&m=2) | [Overdose] |
+| [Red Velvet - Russian Roulette (Natsu)](https://osu.ppy.sh/b/1085554&m=2) | [Heart b-b-beat] |
 
 | HardRock | |
 | --- | :--- |
-| [Helblinde - Above the Clouds (P i k u)](http://osu.ppy.sh/b/1068302&m=2) | [In the Sky] |
-| [senya - Iro wa Nioedo Chirinuru o(OPver.) (- Magic Girl -)](http://osu.ppy.sh/b/909953&m=2) | [Chemistry of Emotions] |
-| [Loos - Koi Yomi Zakura (Full Ver.) (S i R i R u)](http://osu.ppy.sh/b/46587&m=2) | [Hanahubuki] |
+| [Helblinde - Above the Clouds (P i k u)](https://osu.ppy.sh/b/1068302&m=2) | [In the Sky] |
+| [senya - Iro wa Nioedo Chirinuru o(OPver.) (- Magic Girl -)](https://osu.ppy.sh/b/909953&m=2) | [Chemistry of Emotions] |
+| [Loos - Koi Yomi Zakura (Full Ver.) (S i R i R u)](https://osu.ppy.sh/b/46587&m=2) | [Hanahubuki] |
 
 | DoubleTime | |
 | --- | :--- |
-| [Memme - Cherry Blossom (Spectator)](http://osu.ppy.sh/b/1047736&m=2) | [Platter] |
-| [Nagito Komaeda (CV.Megumi Ogata) - Zettai Kibou Birthday (Myle)](http://osu.ppy.sh/b/1062454&m=2) | [Roseus' Platter] |
-| [Cyua - Blumenkranz (Shinxyn)](http://osu.ppy.sh/b/380475&m=2) | [Insane] |
+| [Memme - Cherry Blossom (Spectator)](https://osu.ppy.sh/b/1047736&m=2) | [Platter] |
+| [Nagito Komaeda (CV.Megumi Ogata) - Zettai Kibou Birthday (Myle)](https://osu.ppy.sh/b/1062454&m=2) | [Roseus' Platter] |
+| [Cyua - Blumenkranz (Shinxyn)](https://osu.ppy.sh/b/380475&m=2) | [Insane] |
 
 | Tiebreaker | |
 | --- | :--- |
-| [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan)](http://osu.ppy.sh/b/1035785&m=2) | [Stellar] |
+| [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan)](https://osu.ppy.sh/b/1035785&m=2) | [Stellar] |
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
   -  This may change with the actual Group Stage setup.
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this image](http://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
 | -----: | -------- |
