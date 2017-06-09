@@ -441,7 +441,7 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "<commit message>" -m "<long description>"
+git commit -a -m "<commit message>" -m "<long description>"
 ```
 or alternatively:
 
@@ -804,7 +804,7 @@ Like so:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "Solved merge conflicts"
+git commit -a -m "Solved merge conflicts"
 git push origin <branchname>
 ```
 
