@@ -141,7 +141,8 @@ osu!mania (Español)
 # Skinning osu!catch (Français)
 ```
 
-You can find a list of native language names in [`osu-web`'s script file](https://github.com/ppy/osu-web/blob/master/app/Libraries/LocaleMeta.php), e.g:
+You can find a list of native language names in [`osu-web`'s script file](https://github.com/ppy/osu-web/blob/master/app/Libraries/LocaleMeta.php).
+For example:
 ```php
 'tl' => [
     'name' => 'Tagalog',
