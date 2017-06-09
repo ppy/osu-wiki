@@ -1,118 +1,106 @@
-# Article Style Guide
+# 文章风格指导
 
-This Article Style Guide applies to all articles in English and other languages which do not have one yet!
+《文章风格指导》（Article Style Guide）将指导您如何使用清晰的语言，统一的格式来维护 osu!wiki 。
 
-The Article Style Guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
+首先语言表达应该尽量准确,通俗易懂（只需要问自己：“如果读者看这篇 wiki ，他们需要查词典吗？”）。
 
-All English articles should use plain English.
-Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms.
-In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
+所有文章应该语言通顺，拼写正确，并提供准确的信息。必须明确一点：审稿人（Reviewer）可能会在你的PR（Pull Request）中指出你的错误，或是提供一些建议。 一个好的 osu!wiki 作者应该阅读这些建议（Review）以提高文章的整体质量，保证读者能得到最佳的体验。
 
-All articles must have proper grammar, correct spelling, and correct information.
-Keep in mind that reviewers would ask for changes in your pull request for blunders or suggestions.
-A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
+## GitHub Markdown方言（GFM）
 
-## GFM
+GFM 是 osu!wiki 所支持的标记语言。强烈不建议使用HTML标记(甚至可能使你的PR被拒绝)！！
 
-GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
-Usage of HTML is **heavily** discouraged!
+GFM 的标记很少，以至于任何人都能在3分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西,因为它只是一个轻量级的标记语言。
 
-GFM has a small amount of markup that **anyone** can learn in about 3 minutes!
-However, do not expect a lot out of Markdown as it is intended to be used as a bare minimum markup language.
+### 语法
 
-### Syntax
+如果你需要GFM语法帮助,参考 
+[markdown-cheatsheet-online.pdf（英文）](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)， [Markdown Cheatsheet（英文）](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)或[Markdown 语法说明（中文）](http://wowubuntu.com/markdown/index.html)。
 
-If you need help with GFM syntax, see [markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+如果有需要，你也可以直接在 [Discord 上的 osu!dev 频道](https://discord.gg/ppy) 提问。
 
-If you really need to, you could also ask for some help in the [osu!dev discord](https://discord.gg/ppy).
+## 文件夹名
 
-## Folder Names
+所有的文件夹名称都不应该使用 URL 保留字（即仅使用ASCII字符）。
 
-All folders must **never** contain URL reserved characters.
+一般来说，文件夹名称使用以下字符即可：
 
-Generally, all folder names should only use these characters:
+- A - Z （大写字母）
+- a - z （小写字母）
+- 0 - 9 （0-9的数字）
+- `_` （下划线）
+- `!` （感叹号）
 
-- A - Z (uppercase letters)
-- a - z (lowercase letters)
-- 0 - 9 (numbers 0 - 9)
-- `_` (underscore)
-- `!` (exclamation mark)
+### 索引页
 
-### Index Pages
+所有文件夹**必须**包含至少一篇文章,即使它是一个 _索引页_ 。
 
-All folders **must** contain a page of some kind, even if they are _index_ pages (pages that link to other pages).
+索引页**必须且只能**链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
-Index pages **must** only link to their own subfolders.
+## 文件名
 
-Index pages **must** contain descriptions of what they link to.
+所有位于 `osu-wiki` 仓库（repository）的文章使用 `osu-web` 所支持的语言代码，在翻译文章时，使用对应的代码并使用 `.md` 做文件扩展名。
 
-## File Names
+文章应该放在对应的文件夹下，文件夹命名规则见上方的说明。
 
-All articles in the `osu-wiki` repository uses the language codes supported in `osu-web`.
-When using this for an article locale, they must use lowercase letters and end with the `.md` extension.
+### 参考文件名列表
 
-Translated articles are to be placed in the appropriate English-named folder.
+如果你的语言不在此列，请在 `osu-web` 仓库打开一个问题（issue）！
 
-### List of Locale File Names
+- `de.md`: 德语
+- `el.md`: 希腊语
+- `en.md`: 英语
+- `es.md`: 西班牙语
+- `fi.md`: 芬兰语
+- `fr.md`: 法语
+- `hu.md`: 匈牙利语
+- `id.md`: 印度尼西亚语
+- `it.md`: 印度语
+- `ja.md`: 日语
+- `ko.md`: 韩文
+- `nl.md`: 荷兰语
+- `no.md`: 挪威语
+- `pl.md`: 波兰语
+- `pt.md`: 葡萄牙语
+- `pt-br.md`: 巴西葡萄牙语
+- `ru.md`: 俄语
+- `th.md`: 泰语
+- `tl.md`: 他加禄语
+- `zh.md`: 简体中文
+- `zh-hk.md`: 粤语
+- `zh-tw.md`: 繁体中文
 
-If your language isn't listed below, please open an issue in the `osu-web` repository!
+## 标题
 
-- `de.md`: German
-- `el.md`: Greek
-- `en.md`: English
-- `es.md`: Spanish
-- `fi.md`: Finnish
-- `fr.md`: French
-- `hu.md`: Hungarian
-- `id.md`: Indonesian
-- `it.md`: Italian
-- `ja.md`: Japanese
-- `ko.md`: Korean
-- `nl.md`: Dutch
-- `no.md`: Norwegian
-- `pl.md`: Polish
-- `pt.md`: Portuguese
-- `pt-br.md`: Brazilian Portuguese
-- `ru.md`: Russian
-- `th.md`: Thai
-- `tl.md`: Tagalog
-- `zh.md`: Chinese (Simplified)
-- `zh-hk.md`: Chinese (Traditional)
-- `zh-tw.md`: Chinese (Taiwan, Traditional)
+Markdown 提供了两种风格的一/二级标题文字：
 
-## Headings
-
-There are two styles of heading levels 1 and 2 that Markdown supplies you:
-
-```
-title of page
+```markdown
+文章标题
 =============
 
-heading level 2
+二级标题
 ---------------
 
-### heading level 3
+### 三级标题
 ```
 
-or
+或者
 
+```markdown
+# 文章标题
+
+## 二级标题
+
+### 三级标题
 ```
-# title of page
 
-## heading level 2
+你可以任选一种风格，但是记住，从三级标题文字开始只能使用 `#` 号风格。
 
-### heading level 3
-```
+在书写标题时，请一定要在 `#` 号后面加一个空格，确保 GFM 能正确解析。
 
-You can choose either the underline style or hash style of level 1 and level 2 headings.
-Note that heading levels 3 and onwards use the hash style.
+虽然不是必须，但最好在标题之后空一行。
 
-If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
-
-Optionally, but preferably, add an extra line before and after the headings.
-Doing so will help make the headings stand out a bit more when editing.
-
-### Article Titles
+### 文章标题
 
 All articles must have **one** level 1 heading, being the article's title.
 
