@@ -2,11 +2,11 @@
 
 **Modding** is the process of examining another's [beatmap](/wiki/Beatmaps) and making suggestions. These suggestions can be either to fix errors or to simply improve the map. The person modding the map is called a "modder", and the person who made the map is referred to as the "mapper". Modding can be useful in three main ways:
 
-1.  If your mod post is useful to the mapper, then they will give you [kudosu](/wiki/kudosu). Kudosu can be used to boost your map's star priority up.
-2.  "Mod4mods", or when you make a deal to mod somebody else's map if they mod yours, is a great way to get your map modded.
-3.  A good mod post reduces the amount of time the approval teams spend pointing out basic mistakes. This in turn makes the approval teams less stressed, and that makes them more likely to mod your map. Happy [BNs](/wiki/People/Beatmap_Nomination_Group) are typically in a better mood than a BN who just spent 10 minutes crying because of a map that clearly needed a lot more modding.
+1.  If a modder's post is useful to the mapper, then the mapper may give the modder a [kudosu](/wiki/kudosu). Kudosu can be used to boost a map's star priority up.
+2.  "Mod4mods", or when a modder make a deal to mod a map if the receiver mods the modder's map, is a great way to get the map modded.
+3.  A good mod post reduces the amount of time the approval teams spend pointing out basic mistakes. This in turn makes the approval teams less stressed and more likely to mod the map. Happy [BNs](/wiki/People/Beatmap_Nomination_Group) are typically in a better mood than a BN who just spent 10 minutes crying because of a map that clearly needed a lot more modding.
 
-If you are learning how to map or already know how to map, modding can be a great way to improve mapping skills.
+If you are learning how to map or already know how to map, modding can improve mapping skills.
 
 ## Basics
 
@@ -14,18 +14,26 @@ First, download a map from the [beatmap](https://osu.ppy.sh/forum/12) thread, wh
 
 Next, go into the [editor](/wiki/Beatmap_Editor) and select the map which you want to mod. Then, start up a reply to the [beatmap's](/wiki/Beatmaps) thread.
 
-Choose any of the difficulties to begin your mod. It is recommended to start with the easiest or hardest difficulty and make your way up or down the different difficulties.
+Choose any of the difficulties to start a mod. It is recommended to start with the easiest or hardest difficulty and continue up or down the different difficulties.
 
 Start by playing this difficulty in either play mode or [test mode](/wiki/Glossary/#test-mode). Play-testing is an important part of modding as it allows the modder to understand whether or not certain [patterns](/wiki/Mapping_Techniques) play well. Take note of anything that felt odd.
 
-After play-testing, watch the song in the editor and pause frequently to catch any errors. In this stage of modding, it is most often that modders find more intricate problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing. When you find a hit circle or a slider that needs attention, select it. Now, go to the `Edit` tab and select `Copy` at the top (or `Ctrl` + `C`), and then to your post you started up, and paste (`Ctrl` + `V`) what you just copied there. Then, follow up with either what you think is wrong (Ex. "I would change this spacing because the music does not suggest a [jump](/wiki/Mapping_Techniques/Jumps) here), or simply that it doesn't seem right and you can't put your finger on it. Always look for things that you didn't notice while playing.
+After play-testing, watch the song in the editor and pause frequently to catch any errors.
+In this stage of modding, it is most often that modders find more intricate problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing.
+When a hit circle or a slider that needs attention was found, select it.
+Now, go to the `Edit` tab and select `Copy` at the top (or `Ctrl` + `C`), and then to your post you started up, and paste (`Ctrl` + `V`) what you just copied there.
+Then, follow up with either what you think is wrong (Ex. "I would change this spacing because the music does not suggest a [jump](/wiki/Mapping_Techniques/Jumps) here), or simply that it does not seem right and you cannot put your finger on it.
+Always look for things that you did not notice while playing.
 
-**Rinse and repeat with the next difficulty** and keep in mind that if you see something while in the Editor that you didn't notice while playing, point that out too. (It is recommended to have the map play at normal speed in the Editor while you watch it, just to double check things). When you're done, submit your post.
+**Rinse and repeat with the next difficulty** and keep in mind that if anything amiss while in the editor and it behaves differently while playing, point that out too (it is recommended to have the map play at normal speed in the editor while watching, just to double check things).
+Submit the post to end the modding of the beatmap.
 
 What to look for in a beatmap
 -----------------------------
 
-A very helpful tool is [AiMod](/wiki/AiMod), which can be opened under the `Files` tab or by pressing `Ctrl` + `Shift` + `A`. This shows the errors that the certain difficulty of a beatmap has. However, be wary that it is still just a computer, and some errors are not true errors (i.e. a spacing error, but there was supposed to be a jump).
+A very helpful tool is [AiMod](/wiki/AiMod), which can be opened under the `Files` tab or by pressing `Ctrl` + `Shift` + `A`.
+AiMod shows mapping errors that a certain difficulty for the beatmap has.
+However, be wary that it is just a program and some errors are not true errors (i.e. a spacing error, but it was supposed to be a jump).
 
 The below is a list, organized by importance.
 
