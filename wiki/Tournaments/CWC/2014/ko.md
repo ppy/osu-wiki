@@ -134,46 +134,35 @@ osu! Catch the Beat World Cup 2014
 
 ### 준결승
 
-| NoMod                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------|
-| [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](//osu.ppy.sh/b/338326&m=2)                              |
-| [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](//osu.ppy.sh/b/237848&m=2)                           |
-| [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](//osu.ppy.sh/b/182001&m=2)                       |
-| [void - Club Ibuki in Break All (Drafura) \[Etoile\]](//osu.ppy.sh/b/253605&m=2)                          |
-| [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](//osu.ppy.sh/b/214248&m=2) |
-| [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](//osu.ppy.sh/b/356818&m=2)                                |
-
-| Hidden                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------|
-| [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](//osu.ppy.sh/b/121836&m=2) |
-| [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](//osu.ppy.sh/b/84485&m=2)                  |
-| [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](//osu.ppy.sh/b/220231&m=2)                                 |
-| [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](//osu.ppy.sh/b/223397&m=2)                               |
-
-| HardRock                                                                                     |
-|----------------------------------------------------------------------------------------------|
-| [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](//osu.ppy.sh/b/86324&m=2)           |
-| [Nekomata Master+ - squall (Rue) \[Insane\]](//osu.ppy.sh/b/238938&m=2)                      |
-| [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](//osu.ppy.sh/b/47152&m=2)       |
-| [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](//osu.ppy.sh/b/68431&m=2) |
-
-| DoubleTime                                                                                                  |
-|-------------------------------------------------------------------------------------------------------------|
-| [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](//osu.ppy.sh/b/91462&m=2) |
-| [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](//osu.ppy.sh/b/90032&m=2)                      |
-| [An - TearVid (Shiirn) \[Another\]](//osu.ppy.sh/b/121804&m=2)                                              |
-| [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](//osu.ppy.sh/b/255705&m=2)         |
-
-| FreeMod                                                                             |
-|-------------------------------------------------------------------------------------|
-| [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](//osu.ppy.sh/b/65233&m=2)                 |
-| [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](//osu.ppy.sh/b/129891&m=2) |
-| [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](//osu.ppy.sh/b/41586&m=2)         |
-| [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](//osu.ppy.sh/b/38294&m=2)       |
-
-| Tiebreaker                                                                     |
-|--------------------------------------------------------------------------------|
-| [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](//osu.ppy.sh/b/297463&m=2) |
+- NoMod
+  - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/b/338326&m=2)
+  - [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/b/237848&m=2)
+  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/b/182001&m=2)
+  - [void - Club Ibuki in Break All (Drafura) \[Etoile\]](https://osu.ppy.sh/b/253605&m=2)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/b/214248&m=2)
+  - [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](https://osu.ppy.sh/b/356818&m=2)
+- Hidden
+  - [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/b/121836&m=2)
+  - [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/b/84485&m=2)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/b/220231&m=2)
+  - [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/b/223397&m=2)
+- HardRock
+  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/b/86324&m=2)
+  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/b/238938&m=2)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/b/47152&m=2)
+  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/b/68431&m=2)
+- DoubleTime
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/b/91462&m=2)
+  - [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/b/90032&m=2)
+  - [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/b/121804&m=2)
+  - [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](https://osu.ppy.sh/b/255705&m=2)
+- FreeMod
+  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/b/65233&m=2)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/b/129891&m=2)
+  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/b/41586&m=2)
+  - [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/b/38294&m=2)
+- Tiebreaker
+  - [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/b/297463&m=2)
 
 ### 8강
 
@@ -181,146 +170,103 @@ osu! Catch the Beat World Cup 2014
 
 [**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](http://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)
 
-| NoMod                                                                        |
-|------------------------------------------------------------------------------|
-| [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](//osu.ppy.sh/b/298908&m=2) |
-| [TJ.Hangneil - Kamui (7odoa) \[SHD\]](//osu.ppy.sh/b/124664&m=2)             |
-| [MiddleIsland - Aldo (Lan wings) \[Lan\]](//osu.ppy.sh/b/207721&m=2)         |
-| [wowaka - World's End Dancehall (CLSW) \[Rain\]](//osu.ppy.sh/b/282770&m=2)  |
-| [Beatdrop - Phase 1 (rickyboi) \[SHD\]](//osu.ppy.sh/b/168031&m=2)           |
-| [Jin - Outer Science (tutuhaha) \[Insane\]](//osu.ppy.sh/b/313025&m=2)       |
-
-| Hidden                                                                                                   |
-|----------------------------------------------------------------------------------------------------------|
-| [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](//osu.ppy.sh/b/283897&m=2)                            |
-| [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](//osu.ppy.sh/b/244781&m=2) |
-| [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](//osu.ppy.sh/b/143036&m=2)                |
-| [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](//osu.ppy.sh/b/155227&m=2)           |
-
-| HardRock                                                                                          |
-|---------------------------------------------------------------------------------------------------|
-| [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](//osu.ppy.sh/b/82734&m=2) |
-| [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](//osu.ppy.sh/b/59693&m=2)     |
-| [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](//osu.ppy.sh/b/195165&m=2)              |
-| [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](//osu.ppy.sh/b/94005&m=2)                  |
-
-| DoubleTime                                                                                      |
-|-------------------------------------------------------------------------------------------------|
-| [NH22 - Corrosion (Lena) \[Lunatic\]](//osu.ppy.sh/b/60941&m=2)                                 |
-| [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](//osu.ppy.sh/b/96523&m=2)           |
-| [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](//osu.ppy.sh/b/54145&m=2) |
-| [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](//osu.ppy.sh/b/48926&m=2)              |
-
-| FreeMod                                                                                 |
-|-----------------------------------------------------------------------------------------|
-| [Renard - Blue Night (DoKoLP) \[DoKo\]](//osu.ppy.sh/b/116006&m=2)                      |
-| [sun3 - Higan Retour (saymun) \[Lunatic\]](//osu.ppy.sh/b/54373&m=2)                    |
-| [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](//osu.ppy.sh/b/125660&m=2)     |
-| [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](//osu.ppy.sh/b/69405&m=2) |
-
-| Tiebreaker                                                           |
-|----------------------------------------------------------------------|
-| [nano - Nevereverland (CLSW) \[Crystal\]](//osu.ppy.sh/b/369563&m=2) |
+- NoMod
+  - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/b/298908&m=2)
+  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/b/124664&m=2)
+  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/b/207721&m=2)
+  - [wowaka - World's End Dancehall (CLSW) \[Rain\]](https://osu.ppy.sh/b/282770&m=2)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/b/168031&m=2)
+  - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025&m=2)
+- Hidden
+  - [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](https://osu.ppy.sh/b/283897&m=2)
+  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/b/244781&m=2)
+  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/143036&m=2)
+  - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/b/155227&m=2)
+- HardRock
+  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/b/82734&m=2)
+  - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/b/59693&m=2)
+  - [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/b/195165&m=2)
+  - [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/b/94005&m=2)
+- DoubleTime
+  - [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/b/60941&m=2)
+  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/b/96523&m=2)
+  - [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/b/54145&m=2)
+  - [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/b/48926&m=2)
+- FreeMod
+  - [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/b/116006&m=2)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/b/54373&m=2)
+  - [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](https://osu.ppy.sh/b/125660&m=2)
+  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/b/69405&m=2)
+- Tiebreaker
+  - [nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/b/369563&m=2)
 
 ### 16강
 
 타이브레이커[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](http://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)
 
-| NoMod                                                                                         |
-|-----------------------------------------------------------------------------------------------|
-| [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](//osu.ppy.sh/b/242575&m=2) |
-| [Rita - Hajimari no Toki (Deif) \[Rain\]](//osu.ppy.sh/b/247643&m=2)                          |
-| [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](//osu.ppy.sh/b/254814&m=2)                    |
-| [DJ Fresh - Gold Dust (galvenize) \[Insane\]](//osu.ppy.sh/b/93842&m=2)                       |
-| [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
-| [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
-
-
-| Hidden                                                                               |
-|--------------------------------------------------------------------------------------|
-| [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
-| [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
-| [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
-| [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
-
-
-| HardRock                                                                         |
-|----------------------------------------------------------------------------------|
-| [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](//osu.ppy.sh/b/75831&m=2)       |
-| [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](//osu.ppy.sh/b/120366&m=2) |
-| [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
-| [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
-
-
-| DoubleTime                                                                                          |
-|-----------------------------------------------------------------------------------------------------|
-| [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
-| [Korpiklaani - Vodka (Charles445) \[Insane\]](//osu.ppy.sh/b/90466&m=2)                             |
-| [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
-| [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
-
-
-| FreeMod                                                                      |
-|------------------------------------------------------------------------------|
-| [DJ Genericname - Dear You (Rue) \[Dear Rue\]](//osu.ppy.sh/b/136400&m=2)    |
-| [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](//osu.ppy.sh/b/59643&m=2)   |
-| [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
-| [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
-
-
-| Tiebreaker                                                                                        |
-|---------------------------------------------------------------------------------------------------|
-| [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](//osu.ppy.sh/b/105143&m=2) |
+|- NoMod
+  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/b/242575&m=2)
+  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/b/247643&m=2)
+  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/b/254814&m=2)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/b/93842&m=2)
+  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/b/352863&m=2)
+  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/b/150358&m=2)
+- Hidden
+  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/b/170608&m=2)
+  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/b/364516&m=2)
+  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/b/87764&m=2)
+  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/b/125128&m=2)
+- HardRock
+  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/b/75831&m=2)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/b/120366&m=2)
+  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/b/127313&m=2)
+  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/b/59679&m=2)
+- DoubleTime
+  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/b/308593&m=2)
+  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/b/90466&m=2)
+  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/b/61124&m=2)
+  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/b/56524&m=2)
+- FreeMod
+  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/b/136400&m=2)
+  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/b/59643&m=2)
+  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/b/207659&m=2)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/b/82249&m=2)
+- Tiebreaker
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/b/105143&m=2)
 
 ### 조별 예선
 
 타이브레이커**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](http://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
-| 논모드                                                                                         |
-|-----------------------------------------------------------------------------------------------|
-| [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](//osu.ppy.sh/b/242575&m=2) |
-| [Rita - Hajimari no Toki (Deif) \[Rain\]](//osu.ppy.sh/b/247643&m=2)                          |
-| [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](//osu.ppy.sh/b/254814&m=2)                    |
-| [DJ Fresh - Gold Dust (galvenize) \[Insane\]](//osu.ppy.sh/b/93842&m=2)                       |
-| [Expander - Move That Body (fanzhen0019) \[EXTREME\]](//osu.ppy.sh/b/352863&m=2)              |
-| [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](//osu.ppy.sh/b/150358&m=2)               |
-
-
-| 히든                                                                               |
-|--------------------------------------------------------------------------------------|
-| [Maksim Mrvica - 크로아티아n Rhapsody (haha5957) \[Vivace\]](//osu.ppy.sh/b/170608&m=2) |
-| [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](//osu.ppy.sh/b/364516&m=2)    |
-| [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](//osu.ppy.sh/b/87764&m=2) |
-| [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](//osu.ppy.sh/b/125128&m=2)    |
-
-
-| 하드락                                                                         |
-|----------------------------------------------------------------------------------|
-| [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](//osu.ppy.sh/b/75831&m=2)       |
-| [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](//osu.ppy.sh/b/120366&m=2) |
-| [sakuzyo - VALLISTA (Shiirn) \[Another\]](//osu.ppy.sh/b/127313&m=2)             |
-| [MK feat. YURiE - Spiral (Lena) \[Insane\]](//osu.ppy.sh/b/59679&m=2)            |
-
-
-| 더블타임                                                                                          |
-|-----------------------------------------------------------------------------------------------------|
-| [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](//osu.ppy.sh/b/308593&m=2) |
-| [Korpiklaani - Vodka (Charles445) \[Insane\]](//osu.ppy.sh/b/90466&m=2)                             |
-| [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](//osu.ppy.sh/b/61124&m=2)                              |
-| [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](//osu.ppy.sh/b/56524&m=2)   |
-
-
-| 프리모드                                                                      |
-|------------------------------------------------------------------------------|
-| [DJ Genericname - Dear You (Rue) \[Dear Rue\]](//osu.ppy.sh/b/136400&m=2)    |
-| [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](//osu.ppy.sh/b/59643&m=2)   |
-| [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](//osu.ppy.sh/b/207659&m=2) |
-| [Pendulum - The Vulture (La Cataline) \[Insane\]](//osu.ppy.sh/b/82249&m=2)  |
-
-
-| 타이브레이커                                                                                        |
-|---------------------------------------------------------------------------------------------------|
-| [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](//osu.ppy.sh/b/105143&m=2) |
+- NoMod
+  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/b/242575&m=2)
+  - [Rita - Hajimari no Toki (Deif) \[Rain\]](https://osu.ppy.sh/b/247643&m=2)
+  - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/b/254814&m=2)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/b/93842&m=2)
+  - [Expander - Move That Body (fanzhen0019) \[EXTREME\]](https://osu.ppy.sh/b/352863&m=2)
+  - [Ara Potato - Skype x Can Can (Real) \[CTB Collab\]](https://osu.ppy.sh/b/150358&m=2)
+- Hidden
+  - [Maksim Mrvica - Croatian Rhapsody (haha5957) \[Vivace\]](https://osu.ppy.sh/b/170608&m=2)
+  - [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/b/364516&m=2)
+  - [Megpoid GUMI & Megurine Luka - Speed (val0108) \[Speed\]](https://osu.ppy.sh/b/87764&m=2)
+  - [wa. vs ETIA. - Akasagarbha (DaxMasterix) \[Another\]](https://osu.ppy.sh/b/125128&m=2)
+- HardRock
+  - [Humanoid - MENDES (yeahyeahyeahhh) \[Another\]](https://osu.ppy.sh/b/75831&m=2)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[gowww\]](https://osu.ppy.sh/b/120366&m=2)
+  - [sakuzyo - VALLISTA (Shiirn) \[Another\]](https://osu.ppy.sh/b/127313&m=2)
+  - [MK feat. YURiE - Spiral (Lena) \[Insane\]](https://osu.ppy.sh/b/59679&m=2)
+- DoubleTime
+  - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Azmato's Another\]](https://osu.ppy.sh/b/308593&m=2)
+  - [Korpiklaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/b/90466&m=2)
+  - [Aizawa - Flutter Girl (Shinxyn) \[Insane\]](https://osu.ppy.sh/b/61124&m=2)
+  - [Kagamine Rin - Love is War R184mm remix (Shinxyn) \[Shinde's Sensou\]](https://osu.ppy.sh/b/56524&m=2)
+- FreeMod
+  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/b/136400&m=2)
+  - [ALiCE'S EMOTiON - Lorelei (saymun) \[Lunatic\]](https://osu.ppy.sh/b/59643&m=2)
+  - [MuryokuP - Catastrophe (meiikyuu) \[Cataclysm\]](https://osu.ppy.sh/b/207659&m=2)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/b/82249&m=2)
+- Tiebreaker
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/b/105143&m=2)
 
 ------------------------------------------------------------------------
 

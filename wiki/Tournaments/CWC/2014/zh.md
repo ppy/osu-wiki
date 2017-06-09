@@ -137,137 +137,103 @@ osu! Catch the Beat World Cup 2014
 
 ### 8强赛
 
-| NoMod                                                                              |
-|------------------------------------------------------------------------------------|
-| [sakuzyo - AXION (DaxMasterix) \[Red Light ~CtB~\]](//osu.ppy.sh/b/173222&m=2)     |
-| [LeaF - Calamity Fortune (Krah) \[Crystal's Overdose\]](//osu.ppy.sh/b/344892&m=2) |
-| [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](//osu.ppy.sh/b/142239&m=2)    |
-| [DJ Okawari - Flower Dance (CLSW) \[Steven's Flower\]](//osu.ppy.sh/b/350899&m=2)  |
-| [LeaF - Evanescent (Krah) \[Spec's Overdose\]](//osu.ppy.sh/b/428612&m=2)          |
-| [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Kuzino) \[2Q\]](//osu.ppy.sh/b/117383&m=2)    |
-
-| Hidden                                                                                                  |
-|---------------------------------------------------------------------------------------------------------|
-| [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Skystar's Extra\]](//osu.ppy.sh/b/254296&m=2) |
-| [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](//osu.ppy.sh/b/279481&m=2)                    |
-| [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Asgard) \[Insane\]](//osu.ppy.sh/b/148911&m=2)         |
-| [Nekomata Master - Smile of Split (Charles445) \[Insane\]](//osu.ppy.sh/b/171678&m=2)                   |
-
-| HardRock                                                                                  |
-|-------------------------------------------------------------------------------------------|
-| [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Apocalypse\]](//osu.ppy.sh/b/202799&m=2) |
-| [Akiakane - FlashBack (Kiiwa) \[Insane\]](//osu.ppy.sh/b/166126&m=2)                      |
-| [Caravan Palace - Dragons (Charles445) \[Insane\]](//osu.ppy.sh/b/145361&m=2)             |
-| [paraoka - boot (rickyboi) \[Shoe\]](//osu.ppy.sh/b/154226&m=2)                           |
-
-
-| DoubleTime                                                                                    |
-|-----------------------------------------------------------------------------------------------|
-| [Zektbach - L'avide (eXseeD) \[gowww\]](//osu.ppy.sh/b/103403&m=2)                            |
-| [ETIA. - Enkan no Kotowari (Rein0527) \[Another\]](//osu.ppy.sh/b/126859&m=2)                 |
-| [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](//osu.ppy.sh/b/37166&m=2) |
-| [Mitsuki - The Final Tone of Rubble (soulfear) \[Shisu\]](//osu.ppy.sh/b/58915&m=2)           |
-
-| FreeMod                                                                                    |
-|--------------------------------------------------------------------------------------------|
-| [07th Expansion - rog-unlimitation (AngelHoney) \[AngelHoney\]](//osu.ppy.sh/b/116128&m=2) |
-| [Hatsune Miku - Atama no Taisou (val0108) \[Nogard\]](//osu.ppy.sh/b/133938&m=2)           |
-| [Chata - Curry no Uta (yoshilove) \[yoshiwafu (AR10)\]](//osu.ppy.sh/b/282467&m=2)         |
-| [Mago de Oz - Xanandra (Xanandra) \[Insane\]](//osu.ppy.sh/b/221026&m=2)                   |
-
-| Tiebreaker                                                                      |
-|---------------------------------------------------------------------------------|
-| [t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](//osu.ppy.sh/b/240488&m=2) |
+- NoMod
+  - [sakuzyo - AXION (DaxMasterix) \[Red Light ~CtB~\]](https://osu.ppy.sh/b/173222&m=2)
+  - [LeaF - Calamity Fortune (Krah) \[Crystal's Overdose\]](https://osu.ppy.sh/b/344892&m=2)
+  - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/b/142239&m=2)
+  - [DJ Okawari - Flower Dance (CLSW) \[Steven's Flower\]](https://osu.ppy.sh/b/350899&m=2)
+  - [LeaF - Evanescent (Krah) \[Spec's Overdose\]](https://osu.ppy.sh/b/428612&m=2)
+  - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Kuzino) \[2Q\]](https://osu.ppy.sh/b/117383&m=2)
+- Hidden
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Skystar's Extra\]](https://osu.ppy.sh/b/254296&m=2)
+  - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/b/279481&m=2)
+  - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Asgard) \[Insane\]](https://osu.ppy.sh/b/148911&m=2)
+  - [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/b/171678&m=2)
+- HardRock
+  - [t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Apocalypse\]](https://osu.ppy.sh/b/202799&m=2)
+  - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/b/166126&m=2)
+  - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/b/145361&m=2)
+  - [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/b/154226&m=2)
+- DoubleTime
+  - [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/b/103403&m=2)
+  - [ETIA. - Enkan no Kotowari (Rein0527) \[Another\]](https://osu.ppy.sh/b/126859&m=2)
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/b/37166&m=2)
+  - [Mitsuki - The Final Tone of Rubble (soulfear) \[Shisu\]](https://osu.ppy.sh/b/58915&m=2)
+- FreeMod
+  - [07th Expansion - rog-unlimitation (AngelHoney) \[AngelHoney\]](https://osu.ppy.sh/b/116128&m=2)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[Nogard\]](https://osu.ppy.sh/b/133938&m=2)
+  - [Chata - Curry no Uta (yoshilove) \[yoshiwafu (AR10)\]](https://osu.ppy.sh/b/282467&m=2)
+  - [Mago de Oz - Xanandra (Xanandra) \[Insane\]](https://osu.ppy.sh/b/221026&m=2)
+- Tiebreaker
+  - [t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](https://osu.ppy.sh/b/240488&m=2)
 
 ### 16强比赛
 
 **[下载图包](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
-| NoMod                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------|
-| [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](//osu.ppy.sh/b/338326&m=2)                              |
-| [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](//osu.ppy.sh/b/237848&m=2)                           |
-| [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](//osu.ppy.sh/b/182001&m=2)                       |
-| [void - Club Ibuki in Break All (Drafura) \[Etoile\]](//osu.ppy.sh/b/253605&m=2)                          |
-| [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](//osu.ppy.sh/b/214248&m=2) |
-| [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](//osu.ppy.sh/b/356818&m=2)                                |
-
-| Hidden                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------|
-| [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](//osu.ppy.sh/b/121836&m=2) |
-| [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](//osu.ppy.sh/b/84485&m=2)                  |
-| [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](//osu.ppy.sh/b/220231&m=2)                                 |
-| [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](//osu.ppy.sh/b/223397&m=2)                               |
-
-| HardRock                                                                                     |
-|----------------------------------------------------------------------------------------------|
-| [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](//osu.ppy.sh/b/86324&m=2)           |
-| [Nekomata Master+ - squall (Rue) \[Insane\]](//osu.ppy.sh/b/238938&m=2)                      |
-| [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](//osu.ppy.sh/b/47152&m=2)       |
-| [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](//osu.ppy.sh/b/68431&m=2) |
-
-| DoubleTime                                                                                                  |
-|-------------------------------------------------------------------------------------------------------------|
-| [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](//osu.ppy.sh/b/91462&m=2) |
-| [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](//osu.ppy.sh/b/90032&m=2)                      |
-| [An - TearVid (Shiirn) \[Another\]](//osu.ppy.sh/b/121804&m=2)                                              |
-| [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](//osu.ppy.sh/b/255705&m=2)         |
-
-| FreeMod                                                                             |
-|-------------------------------------------------------------------------------------|
-| [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](//osu.ppy.sh/b/65233&m=2)                 |
-| [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](//osu.ppy.sh/b/129891&m=2) |
-| [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](//osu.ppy.sh/b/41586&m=2)         |
-| [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](//osu.ppy.sh/b/38294&m=2)       |
-
-| Tiebreaker                                                                     |
-|--------------------------------------------------------------------------------|
-| [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](//osu.ppy.sh/b/297463&m=2) |
+- NoMod
+  - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/b/338326&m=2)
+  - [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/b/237848&m=2)
+  - [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/b/182001&m=2)
+  - [void - Club Ibuki in Break All (Drafura) \[Etoile\]](https://osu.ppy.sh/b/253605&m=2)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/b/214248&m=2)
+  - [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](https://osu.ppy.sh/b/356818&m=2)
+- Hidden
+  - [Eurobeat Brony - Discord (EuroChaos Mix) ft. Odyssey (ztrot) \[Utter Chaos\]](https://osu.ppy.sh/b/121836&m=2)
+  - [sampling masters MEGA - Chat! Chat! Chat! (Zekira) \[ZFN's\]](https://osu.ppy.sh/b/84485&m=2)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[0108\]](https://osu.ppy.sh/b/220231&m=2)
+  - [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/b/223397&m=2)
+- HardRock
+  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/b/86324&m=2)
+  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/b/238938&m=2)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/b/47152&m=2)
+  - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/b/68431&m=2)
+- DoubleTime
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/b/91462&m=2)
+  - [Tatsh - Lunatic Tears...(Tatsh Remix) (Suzully) \[Patche\]](https://osu.ppy.sh/b/90032&m=2)
+  - [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/b/121804&m=2)
+  - [Rohi - Ichiru no Nozomi yo, Ano Tsuki e Hibike (pieguy1372) \[Insane\]](https://osu.ppy.sh/b/255705&m=2)
+- FreeMod
+  - [IOSYS - Poinsettia (Aakiha) \[Lunatic\]](https://osu.ppy.sh/b/65233&m=2)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/b/129891&m=2)
+  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/b/41586&m=2)
+  - [Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/b/38294&m=2)
+- Tiebreaker
+  - [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/b/297463&m=2)
 
 ### 小组赛
 
 **[下载图包](//www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
-| NoMod                                                                        |
-|------------------------------------------------------------------------------|
-| [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](//osu.ppy.sh/b/298908&m=2) |
-| [TJ.Hangneil - Kamui (7odoa) \[SHD\]](//osu.ppy.sh/b/124664&m=2)             |
-| [MiddleIsland - Aldo (Lan wings) \[Lan\]](//osu.ppy.sh/b/207721&m=2)         |
-| [wowaka - World's End Dancehall (CLSW) \[Rain\]](//osu.ppy.sh/b/282770&m=2)  |
-| [Beatdrop - Phase 1 (rickyboi) \[SHD\]](//osu.ppy.sh/b/168031&m=2)           |
-| [Jin - Outer Science (tutuhaha) \[Insane\]](//osu.ppy.sh/b/313025&m=2)       |
-
-| Hidden                                                                                                   |
-|----------------------------------------------------------------------------------------------------------|
-| [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](//osu.ppy.sh/b/283897&m=2)                            |
-| [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](//osu.ppy.sh/b/244781&m=2) |
-| [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](//osu.ppy.sh/b/143036&m=2)                |
-| [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](//osu.ppy.sh/b/155227&m=2)           |
-
-| HardRock                                                                                          |
-|---------------------------------------------------------------------------------------------------|
-| [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](//osu.ppy.sh/b/82734&m=2) |
-| [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](//osu.ppy.sh/b/59693&m=2)     |
-| [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](//osu.ppy.sh/b/195165&m=2)              |
-| [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](//osu.ppy.sh/b/94005&m=2)                  |
-
-| DoubleTime                                                                                      |
-|-------------------------------------------------------------------------------------------------|
-| [NH22 - Corrosion (Lena) \[Lunatic\]](//osu.ppy.sh/b/60941&m=2)                                 |
-| [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](//osu.ppy.sh/b/96523&m=2)           |
-| [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](//osu.ppy.sh/b/54145&m=2) |
-| [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](//osu.ppy.sh/b/48926&m=2)              |
-
-| FreeMod                                                                                 |
-|-----------------------------------------------------------------------------------------|
-| [Renard - Blue Night (DoKoLP) \[DoKo\]](//osu.ppy.sh/b/116006&m=2)                      |
-| [sun3 - Higan Retour (saymun) \[Lunatic\]](//osu.ppy.sh/b/54373&m=2)                    |
-| [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](//osu.ppy.sh/b/125660&m=2)     |
-| [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](//osu.ppy.sh/b/69405&m=2) |
-
-| Tiebreaker                                                           |
-|----------------------------------------------------------------------|
-| [nano - Nevereverland (CLSW) \[Crystal\]](//osu.ppy.sh/b/369563&m=2) |
+- NoMod
+  - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/b/298908&m=2)
+  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/b/124664&m=2)
+  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/b/207721&m=2)
+  - [wowaka - World's End Dancehall (CLSW) \[Rain\]](https://osu.ppy.sh/b/282770&m=2)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/b/168031&m=2)
+  - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025&m=2)
+- Hidden
+  - [Avicii - Wake Me Up (SuperMICrophone) \[Insane\]](https://osu.ppy.sh/b/283897&m=2)
+  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/b/244781&m=2)
+  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/143036&m=2)
+  - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/b/155227&m=2)
+- HardRock
+  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/b/82734&m=2)
+  - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/b/59693&m=2)
+  - [ONE OK ROCK - Kanzen Kankaku Dreamer (Kuria) \[Insane\]](https://osu.ppy.sh/b/195165&m=2)
+  - [Hatsune Miku - Himitsu Keisatsu (Lalarun) \[Insane\]](https://osu.ppy.sh/b/94005&m=2)
+- DoubleTime
+  - [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/b/60941&m=2)
+  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/b/96523&m=2)
+  - [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) \[Lunatic\]](https://osu.ppy.sh/b/54145&m=2)
+  - [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/b/48926&m=2)
+- FreeMod
+  - [Renard - Blue Night (DoKoLP) \[DoKo\]](https://osu.ppy.sh/b/116006&m=2)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/b/54373&m=2)
+  - [xi - Breakthrough Atmosphere (Shiirn) \[Guided Flame\]](https://osu.ppy.sh/b/125660&m=2)
+  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/b/69405&m=2)
+- Tiebreaker
+  - [nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/b/369563&m=2)
 
 ------------------------------------------------------------------------
 
