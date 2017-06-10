@@ -17,7 +17,7 @@
     5. Continue
 3. Log in to *osu!* and the process is finished. You have successfully registered an *osu!* account!
 
-## Logging In to *osu!*
+## Logging In to osu!
 
 ### osu! executable
 
