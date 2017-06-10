@@ -40,7 +40,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
  
 #### Curiosidades:
 
- -   [Pacotes de beatmaps clássicos (2009 &mdash; 2016) antes da atualização de Stefan.](/wiki/Achievements/Beatmap_Packs)
+ -   [Pacotes de beatmaps clássicos (2009 &mdash; 2016) antes da atualização de Stefan.](/wiki/Achievements/Beatmap_Packs_0916)
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
