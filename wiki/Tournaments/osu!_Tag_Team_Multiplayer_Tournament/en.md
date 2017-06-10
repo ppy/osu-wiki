@@ -1,13 +1,16 @@
-[Osu! Tag Team Multiplayer Tournament](https://osu.ppy.sh/forum/t/12710) Hosted by Gabi
+osu! Tag Team Multiplayer Tournament
+=====================================
+
+[osu! Tag Team Multiplayer Tournament](https://osu.ppy.sh/forum/t/12710) Hosted by Gabi
 
 *Also checkout: [Tag Tournament Winners](https://osu.ppy.sh/forum/t/17169) (from osu!forum announcement archives)*
 
-![Osu! Tag Team Multiplayer Tournament Logo](Tour_12710_H.png "Osu! Tag Team Multiplayer Tournament Logo")
+![osu! Tag Team Multiplayer Tournament Logo](Tour_12710_H.png "osu! Tag Team Multiplayer Tournament Logo")
 
 Introduction
 ------------
 
-Tag a friend and come and compete in the Osu! Tag Team Multiplayer Tournament against other teams in the Osu! community.
+Tag a friend and come and compete in the osu! Tag Team Multiplayer Tournament against other teams in the osu! community.
 
 Note: This is now only a 2vs2 Team Tag Tournament, if you have any questions, please /msg Gabi in irc or pm me on forums. avoid asking questions on the topic, keep it clean and for sign up's only
 
@@ -33,12 +36,9 @@ Match Rules
 
 Mod settings for the match:
 
--   Play mode: Osu! standard
+-   Play mode: osu!
 -   Team Mode: Tag Team Vs
 -   Win Condition: Score
-
-<!-- -->
-
 -   3 maps will be chosen to play out of the announced maps for that bracket, a team must win 2 of the 3 to advance.
 -   A Judge must always be present.
 -   No Easy, Half Time, Sudden Death, Relax or Spun out mods.
@@ -48,7 +48,7 @@ If both teams agree on difficulty-increasing mods, like hidden or flashlight, th
 Tournament Results
 ------------------
 
-![Osu! Tag Team Multiplayer Tournament Results](Tour_12710_R.png "Osu! Tag Team Multiplayer Tournament Results")
+![osu! Tag Team Multiplayer Tournament Results](Tour_12710_R.png "osu! Tag Team Multiplayer Tournament Results")
 
 Teams and Players
 -----------------
@@ -79,31 +79,30 @@ Teams and Players
 | ⁈                    | Derekku Chan, strager        |
 | Untitled             | Ignorethis, Leimiliya        |
 | FOE                  | Mafiamaster, Nharox          |
-||
 
 ### Winners
 
-#### #1 Team Animalz D: (Niedzwiedz1124, White wolf)
+**\#1 Team Animalz D:** (Niedzwiedz1124, White wolf)
 
-#### #2 Team Lubimy Ponczgi! (Ryohan, SeymourLyon)
+**\#2 Team Lubimy Ponczgi!** (Ryohan, SeymourLyon)
 
-#### #3 Team MINMIrox (DeathxShinigami and Zatoichi)
+**\#3 Team MINMIrox** (DeathxShinigami and Zatoichi)
 
 Rewards
 -------
 
-* The winning team will receive a 6 month subscription for free.
-* Both players will receive a Tournament medal which will be added to your profile.
+* The winning teams will receive a 6 month subscription for free.
+* Both players from each winning team will receive a Tournament medal which will be added to your profile.
 
 Big thanks to peppy for helping out with them
 
 Judges
 ------
 
--   ![](Se.gif "fig:Se.gif")  (GMT+1)
--   ![](Us.gif "fig:Us.gif")  (EST)=(GMT-5) (Thanks to Daru for the awesome logo ![](Smiley_grin.gif "fig:Smiley_grin.gif"))
--   ![](De.gif "fig:De.gif")  (GMT+1)
--   ![](Us.gif "fig:Us.gif")  (EST)=(GMT-5)
+-   ![](/wiki/shared/flag/Se.gif) Gabi (GMT+1)
+-   ![](/wiki/shared/flag/Us.gif) Daru (EST)=(GMT-5) (Thanks to Daru for the awesome logo)
+-   ![](/wiki/shared/flag/De.gif) Larto (GMT+1)
+-   ![](/wiki/shared/flag/Us.gif) EEeee (EST)=(GMT-5)
 
 Important to know
 -----------------
@@ -117,49 +116,49 @@ If you are still unsure or have questions, please PM me here on forums or /msg G
 FAQ
 ---
 
-Q: Why do we need a team leader?
+**Q:** Why do we need a team leader?
 
-A: It makes it more organized. He will keep you updated and should take contact with Judges/Teams.
+**A:** It makes it more organized. He will keep you updated and should take contact with Judges/Teams.
 
-Q: Why can't we pick our own mods and Beatmaps?
+**Q:** Why can't we pick our own mods and Beatmaps?
 
-A: To make this as fair as possible
+**A:** To make this as fair as possible
 
-Q: How will the Beatmaps be selected after they have been announced?
+**Q:** How will the Beatmaps be selected after they have been announced?
 
-A: Each team will get to pick 1 beatmap each (out of the announced ones), and if it goes on to a 3rd round, the judge will pick for you.
+**A:** Each team will get to pick 1 beatmap each (out of the announced ones), and if it goes on to a 3rd round, the judge will pick for you.
 
-Q: Why can't we play Team Vs instead of Team Tag?
+**Q:** Why can't we play Team Vs instead of Team Tag?
 
-A: Because this is a Team Tag Tournament
+**A:** Because this is a Team Tag Tournament
 
-Q: How will i know what team to play against?
+**Q:** How will i know what team to play against?
 
-A: This topic will be updated everyday, make sure you or your team leader takes a look at it.
+**A:** This topic will be updated everyday, make sure you or your team leader takes a look at it.
 
-Q: Are judges allowed to participate in the tournament?
+**Q:** Are judges allowed to participate in the tournament?
 
-A: Currently being discussed
+**A:** Currently being discussed
 
-Q: I Disconnected/Crashed, I demand a rematch
+**Q:** I Disconnected/Crashed, I demand a rematch
 
-A: Quits will result in a score deduction. -25% per quit. Since there is no reliable way of confirming a disconnection or internet trouble, these will be regarded as intentional quits and are subject to the score deduction. If Osu! crashes, the crash report must be sent in, and a rematch will take place. Alternatively, a team can take the -25% score deduction in case of a crash.
+**A:** Quits will result in a score deduction. -25% per quit. Since there is no reliable way of confirming a disconnection or internet trouble, these will be regarded as intentional quits and are subject to the score deduction. If osu! crashes, the crash report must be sent in, and a rematch will take place. Alternatively, a team can take the -25% score deduction in case of a crash.
 
-Q:Can teams communicate to agree on mods, etc. before the match will be played?
+**Q:**Can teams communicate to agree on mods, etc. before the match will be played?
 
-A:Yes, besides those blacklisted. i.e. If both teams agree on Hidden, then it can be done, but not Spun Out
+**A:**Yes, besides those blacklisted. i.e. If both teams agree on Hidden, then it can be done, but not Spun Out
 
-Q: How does the screenshot of the winner look like?
+**Q:** How does the screenshot of the winner look like?
 
-A: <https://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
+**A:** <https://up.ppy.sh/files/screenshot005-12.jpg> Upload on upppy. all Names has to be visible
 
-Q: Huh, i thought this was a 4vs4 tournament as well, why did you ditch that?
+**Q:** Huh, i thought this was a 4vs4 tournament as well, why did you ditch that?
 
-A: People are having trouble with who to choose on their team, and because of that they won't sign up, so we decided to cancel the 4vs4 tournament and just keep the 2vs2. Maybe in the near future there will be a 4vs4 ![](Smiley_smile.gif "fig:Smiley_smile.gif")
+**A:** People are having trouble with who to choose on their team, and because of that they won't sign up, so we decided to cancel the 4vs4 tournament and just keep the 2vs2. Maybe in the near future there will be a 4vs4
 
-Q: Are you a girl?
+**Q:** Are you a girl?
 
-A: *facepalm*
+**A:** *facepalm*
 
 Beatmap Selection
 -----------------
