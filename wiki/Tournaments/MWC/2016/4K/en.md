@@ -126,113 +126,93 @@ Mappools
 
 **[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar)**
 
-| NoMod                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------|
-| [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Nocturne\]](https://osu.ppy.sh/b/678855)                       |
-| [Yamamoto Momiji - Doutei Korose (short Ver.) (ALEFY) \[EXH\]](https://osu.ppy.sh/b/923934)                                 |
-| [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (\[ A v a l o n \]) \[4K Hyper\]](https://osu.ppy.sh/b/739982) |
-| [Yooh - Electronic Sound Lab (XeoStyle) \[MX\]](https://osu.ppy.sh/b/673946)                                                |
-| [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/b/901153)                                            |
-| [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/b/1016139)                                                          |
-| [Gavin G - Refresh (game rock) \[Momo's MX\]](https://osu.ppy.sh/b/638907)                                                  |
-| [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/b/954903)                                            |
-| [Lindsey Stirling - Senbonzakura (MrSergio) \[Harby's HD\]](https://osu.ppy.sh/b/671989)                                    |
-| [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/b/400180)                                                 |
-
-| FreeMod                                                                                                   |
-|-----------------------------------------------------------------------------------------------------------|
-| [NISH - Space Time (\_underjoy) \[4K Another\]](https://osu.ppy.sh/b/888588)                                    |
-| [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/b/867245)                                      |
-| [DJ OKAWARI - Canon (schwarzvgrune) \[Clamorous (Insane)\]](https://osu.ppy.sh/b/661929)                        |
-| [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Feru's HD\]](https://osu.ppy.sh/b/745024) |
-
-| Tiebreaker                                                                                |
-|-------------------------------------------------------------------------------------------|
-| [KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/b/726209) |
+- NoMod
+  - [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Nocturne\]](https://osu.ppy.sh/b/678855)
+  - [Yamamoto Momiji - Doutei Korose (short Ver.) (ALEFY) \[EXH\]](https://osu.ppy.sh/b/923934)
+  - [Yokomin feat. Yuzuki Yukari - Story In Everlasting Princess (\[ A v a l o n \]) \[4K Hyper\]](https://osu.ppy.sh/b/739982)
+  - [Yooh - Electronic Sound Lab (XeoStyle) \[MX\]](https://osu.ppy.sh/b/673946)
+  - [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/b/901153)
+  - [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/b/1016139)
+  - [Gavin G - Refresh (game rock) \[Momo's MX\]](https://osu.ppy.sh/b/638907)
+  - [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/b/954903)
+  - [Lindsey Stirling - Senbonzakura (MrSergio) \[Harby's HD\]](https://osu.ppy.sh/b/671989)
+  - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/b/400180)
+- FreeMod
+  - [NISH - Space Time (\_underjoy) \[4K Another\]](https://osu.ppy.sh/b/888588)
+  - [Shiki - Endless Dream (Shoegazer) \[Hyper\]](https://osu.ppy.sh/b/867245)
+  - [DJ OKAWARI - Canon (schwarzvgrune) \[Clamorous (Insane)\]](https://osu.ppy.sh/b/661929)
+  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Feru's HD\]](https://osu.ppy.sh/b/745024)
+- Tiebreaker
+  - [KotoriP - Black Out The Alternative (Pope Gadget) \[The Former\]](https://osu.ppy.sh/b/726209)
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/download/8ixrt0vl4si4fko/MWC_4K_2016_Round_of_16.rar)**
 
-| NoMod                                                                             |
-|-----------------------------------------------------------------------------------|
-| [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Insane\]](https://osu.ppy.sh/b/816901)      |
-| [xxdbxx - Taekwonburi (nowsmart) \[4K MX\]](https://osu.ppy.sh/b/465220)                |
-| [Yu\_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/b/770549)             |
-| [Shawn Wasabi - Marble Soda (Hydria) \[Pope's Insane\]](https://osu.ppy.sh/b/967910)    |
-| [Omoi - Snow Drive (Weegle) \[The Last Way Home\]](https://osu.ppy.sh/b/797441)         |
-| [alan - Over the clouds -BURST mix- (LordRaika) \[4K MX\]](https://osu.ppy.sh/b/564610) |
-| [LeaF - Calamity Fortune (Shoegazer) \[Euphoria\]](https://osu.ppy.sh/b/938145)         |
-| [sawawa - Cirno Break (Verniy\_Chan) \[MEGA's EXHAUST\]](https://osu.ppy.sh/b/646643)   |
-| [Helblinde - Rewrite Nightmare (Jepetski) \[Experiment\]](https://osu.ppy.sh/b/719525)  |
-| [Feryquitous - Strahv (Tornspirit) \[Regret\]](https://osu.ppy.sh/b/891620)             |
-
-| FreeMod                                                                               |
-|---------------------------------------------------------------------------------------|
-| [100-200-400 - Fascination MAXX (Ereedon) \[\_UJ's 4K Heavy\]](https://osu.ppy.sh/b/927196) |
-| [UNDEAD CORPORATION - karakurenawi (Tidek) \[Insane\]](https://osu.ppy.sh/b/730528)         |
-| [Hommarju - Sounds of Summer (\[Shana Lesus\]) \[Another\]](https://osu.ppy.sh/b/770372)    |
-| [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/b/1010821)              |
-
-| Tiebreaker                                                                                            |
-|-------------------------------------------------------------------------------------------------------|
-| [aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/b/834266) |
+- NoMod
+  - [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Insane\]](https://osu.ppy.sh/b/816901)
+  - [xxdbxx - Taekwonburi (nowsmart) \[4K MX\]](https://osu.ppy.sh/b/465220)
+  - [Yu\_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/b/770549)
+  - [Shawn Wasabi - Marble Soda (Hydria) \[Pope's Insane\]](https://osu.ppy.sh/b/967910)
+  - [Omoi - Snow Drive (Weegle) \[The Last Way Home\]](https://osu.ppy.sh/b/797441)
+  - [alan - Over the clouds -BURST mix- (LordRaika) \[4K MX\]](https://osu.ppy.sh/b/564610)
+  - [LeaF - Calamity Fortune (Shoegazer) \[Euphoria\]](https://osu.ppy.sh/b/938145)
+  - [sawawa - Cirno Break (Verniy\_Chan) \[MEGA's EXHAUST\]](https://osu.ppy.sh/b/646643)
+  - [Helblinde - Rewrite Nightmare (Jepetski) \[Experiment\]](https://osu.ppy.sh/b/719525)
+  - [Feryquitous - Strahv (Tornspirit) \[Regret\]](https://osu.ppy.sh/b/891620)
+- FreeMod
+  - [100-200-400 - Fascination MAXX (Ereedon) \[\_UJ's 4K Heavy\]](https://osu.ppy.sh/b/927196)
+  - [UNDEAD CORPORATION - karakurenawi (Tidek) \[Insane\]](https://osu.ppy.sh/b/730528)
+  - [Hommarju - Sounds of Summer (\[Shana Lesus\]) \[Another\]](https://osu.ppy.sh/b/770372)
+  - [ginkiha - nightfall (Abraxos) \[rave's dream\]](https://osu.ppy.sh/b/1010821)
+- Tiebreaker
+  - [aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/b/834266)
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/x8fv79n1mb1miss/MWC_4K_2016_Quarterfinals.rar)**
 
-| NoMod                                                                                                      |
-|------------------------------------------------------------------------------------------------------------|
-| [Memme - Chinese Restaurant (ajeemaniz) \[Insanity "Noodles"\]](https://osu.ppy.sh/b/579715)                     |
-| [DEV/NULL - Rave 7 (hi19hi19) \[Hard\]](https://osu.ppy.sh/b/480466)                                             |
-| [Camellia - Ultimate Ascension (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/b/1017927)                        |
-| [Neun\_jack - Gypsy gets the Tek (LeiN-) \[wag\]](https://osu.ppy.sh/b/991504)                                   |
-| [Morimori Atsushi + Verdammt - Le Fruit Defendu (MasterSonic10) \[INFINITE Lv.15\]](https://osu.ppy.sh/b/782892) |
-| [BlackY - Depravity CLiMAXXX (Valedict) \[Desperado\]](https://osu.ppy.sh/b/893354)                              |
-| [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (-Kamikaze-) \[Calculation\]](https://osu.ppy.sh/b/973263)        |
-| [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/b/1040762)                                       |
-| [Venetian Snares - She Runs (Shoegazer) \[Breakaway\]](https://osu.ppy.sh/b/961767)                              |
-| [maras k - Play Time!! (MasterSonic10) \[SC\]](https://osu.ppy.sh/b/692198)                                      |
-
-| FreeMod                                                                                   |
-|-------------------------------------------------------------------------------------------|
-| [DesoloZ - Summoned Beast Battle (Halogen-) \[Destruction\]](https://osu.ppy.sh/b/901157)       |
-| [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Affection\]](https://osu.ppy.sh/b/888774) |
-| [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1000029)  |
-| [kemu - Ikasama Life game (Thievley) \[Smith's MX\]](https://osu.ppy.sh/b/1005445)              |
-
-| Tiebreaker                                                                                    |
-|-----------------------------------------------------------------------------------------------|
-| [b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/b/1040978) |
+- NoMod
+  - [Memme - Chinese Restaurant (ajeemaniz) \[Insanity "Noodles"\]](https://osu.ppy.sh/b/579715)
+  - [DEV/NULL - Rave 7 (hi19hi19) \[Hard\]](https://osu.ppy.sh/b/480466)
+  - [Camellia - Ultimate Ascension (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/b/1017927)
+  - [Neun\_jack - Gypsy gets the Tek (LeiN-) \[wag\]](https://osu.ppy.sh/b/991504)
+  - [Morimori Atsushi + Verdammt - Le Fruit Defendu (MasterSonic10) \[INFINITE Lv.15\]](https://osu.ppy.sh/b/782892)
+  - [BlackY - Depravity CLiMAXXX (Valedict) \[Desperado\]](https://osu.ppy.sh/b/893354)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (-Kamikaze-) \[Calculation\]](https://osu.ppy.sh/b/973263)
+  - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/b/1040762)
+  - [Venetian Snares - She Runs (Shoegazer) \[Breakaway\]](https://osu.ppy.sh/b/961767)
+  - [maras k - Play Time!! (MasterSonic10) \[SC\]](https://osu.ppy.sh/b/692198)
+- FreeMod
+  - [DesoloZ - Summoned Beast Battle (Halogen-) \[Destruction\]](https://osu.ppy.sh/b/901157)
+  - [DJ'TEKINA//SOMETHING - Palette GAMMA (Cadmium-113) \[Affection\]](https://osu.ppy.sh/b/888774)
+  - [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1000029)
+  - [kemu - Ikasama Life game (Thievley) \[Smith's MX\]](https://osu.ppy.sh/b/1005445)
+- Tiebreaker
+  - [b4kn - Act V - The Battle At Mammoth Mountain (Halogen-) \[Finale\]](https://osu.ppy.sh/b/1040978)
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/wyp4gi7pun5vr0l/MWC4K_2016_Semifinals.rar)**
 
-| NoMod                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------|
-| [\_yosuke & MOKONA - Sumowind (\_underjoy) \[Falling Leaves\]](https://osu.ppy.sh/b/1037449)                                          |
-| [Srav3R - Kamuy (dionzz99) \[Classical Core\]](https://osu.ppy.sh/b/970021)                                                           |
-| [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1000026) |
-| [Loctek - Kan-Construction (Daikyi) \[LSC\]](https://osu.ppy.sh/b/1039232)                                                            |
-| [Paitan - LEMON SUMMER (inteliser) \[OVERFLOW \[LN\]](https://osu.ppy.sh/b/1017817)                                                   |
-| [U1 High-Speed - EGOISM 440 (Chrubble) \[CHALLENGE\]](https://osu.ppy.sh/b/813652)                                                    |
-| [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/756998)                                                       |
-| [ALiCE'S EMOTiON - Dark Flight Dreamer (PiraTom) [LN MASTER SPARK!!](https://osu.ppy.sh/b/976201)                                     |
-| [Spawn of Possession - Apparition (XeoStyle) \[Duty to God\]](https://osu.ppy.sh/b/797527)                                            |
-| [PolyphonicBranch - LOVE x LOVE Whistle (PiraTom) \[LOVE STREAM\]](https://osu.ppy.sh/b/968401)                                       |
-
-| FreeMod                                                                      |
-|------------------------------------------------------------------------------|
-| [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/b/970464)        |
-| [t+pazolite - Oshama Scramble! (Shirou) \[Nyan~\]](https://osu.ppy.sh/b/815040)    |
-| [Rings of Saturn - Eviscerate (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1020016)    |
-| [sHimaU - GOD of MADNESS (Valedict) \[Lovecraftian\]](https://osu.ppy.sh/b/954116) |
-
-| Tiebreaker                                                                                             |
-|--------------------------------------------------------------------------------------------------------|
-| [D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/b/823799) |
+- NoMod
+  - [\_yosuke & MOKONA - Sumowind (\_underjoy) \[Falling Leaves\]](https://osu.ppy.sh/b/1037449)
+  - [Srav3R - Kamuy (dionzz99) \[Classical Core\]](https://osu.ppy.sh/b/970021)
+  - [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1000026)
+  - [Loctek - Kan-Construction (Daikyi) \[LSC\]](https://osu.ppy.sh/b/1039232)
+  - [Paitan - LEMON SUMMER (inteliser) \[OVERFLOW \[LN\]](https://osu.ppy.sh/b/1017817)
+  - [U1 High-Speed - EGOISM 440 (Chrubble) \[CHALLENGE\]](https://osu.ppy.sh/b/813652)
+  - [Rotteen - VEC+LEGGENDARIA (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/756998)
+  - [ALiCE'S EMOTiON - Dark Flight Dreamer (PiraTom) \[LN MASTER SPARK!!\]](https://osu.ppy.sh/b/976201)
+  - [Spawn of Possession - Apparition (XeoStyle) \[Duty to God\]](https://osu.ppy.sh/b/797527)
+  - [PolyphonicBranch - LOVE x LOVE Whistle (PiraTom) \[LOVE STREAM\]](https://osu.ppy.sh/b/968401)
+- FreeMod
+  - [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/b/970464)
+  - [t+pazolite - Oshama Scramble! (Shirou) \[Nyan~\]](https://osu.ppy.sh/b/815040)
+  - [Rings of Saturn - Eviscerate (Xay) \[Xay's 4k\]](https://osu.ppy.sh/b/1020016)
+  - [sHimaU - GOD of MADNESS (Valedict) \[Lovecraftian\]](https://osu.ppy.sh/b/954116)
+- Tiebreaker
+  - [D.B.O.Y.D x Kommisar - Interstellar Retribution (MasterSonic10) \[Disbelief\]](https://osu.ppy.sh/b/823799)
 
 ### Finals
 
@@ -240,29 +220,24 @@ Mappools
 
 [Download the mappack here!](https://www.mediafire.com/download/k67i387mj5kdmec/MWC_4K_2016_Finals.rar)
 
-| NoMod                                                                                             |
-|---------------------------------------------------------------------------------------------------|
-| [Tatsh - IMAGE -MATERIAL- \<Version 0\> (Fullerene-) \[Refraction\]](https://osu.ppy.sh/b/1048210)      |
-| [ZUN - Voyage 1970 (Halogen-) \[Hourai Elixir\]](https://osu.ppy.sh/b/961223)                           |
-| [Hommarju - Hellfire (snoverpk) \[GRAVITY\]](https://osu.ppy.sh/b/1003669)                              |
-| [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](https://osu.ppy.sh/b/1056624)         |
-| [sun3 - Morgenglut 2012 (_underjoy) \[4K Lv. XXX\]](https://osu.ppy.sh/b/993347)                        |
-| [Suguro - Sun Valley (K2 Remix) (Guilhermeziat) \[le 8-bit\]](https://osu.ppy.sh/b/950875)              |
-| [t+pazolite vs RoughSketch - Readymade Luv (Ciel) \[Homemade Chocolate\]](https://osu.ppy.sh/b/1045122) |
-| [Camellia - Fastest Crash (Shoegazer) \[Paroxysm\]](https://osu.ppy.sh/b/924286)                        |
-| [Kommisar - Southern Waters Assault 8bit (Gekido-) \[LN Master\]](https://osu.ppy.sh/b/1022204)         |
-| [LeaF - I (Tidek) \[Limbo\]](https://osu.ppy.sh/b/921164)                                               |
-
-| FreeMod                                                                                  |
-|------------------------------------------------------------------------------------------|
-| [t+pazolite with siromaru - Chambarising (Evening) \[Challenge\]](https://osu.ppy.sh/b/923890) |
-| [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/b/473228)       |
-| [ikaruga_nex - Mirage (inteliser) \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/b/1038091)          |
-| [Camellia - dreamless wanderer (Fullerene-) \[Ethereal Shift\]](https://osu.ppy.sh/b/714878)   |
-
-| Tiebreaker                                                                                 |
-|--------------------------------------------------------------------------------------------|
-| [Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/b/1055345) |
+- NoMod
+  - [Tatsh - IMAGE -MATERIAL- \<Version 0\> (Fullerene-) \[Refraction\]](https://osu.ppy.sh/b/1048210)
+  - [ZUN - Voyage 1970 (Halogen-) \[Hourai Elixir\]](https://osu.ppy.sh/b/961223)
+  - [Hommarju - Hellfire (snoverpk) \[GRAVITY\]](https://osu.ppy.sh/b/1003669)
+  - [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](https://osu.ppy.sh/b/1056624)
+  - [sun3 - Morgenglut 2012 (_underjoy) \[4K Lv. XXX\]](https://osu.ppy.sh/b/993347)
+  - [Suguro - Sun Valley (K2 Remix) (Guilhermeziat) \[le 8-bit\]](https://osu.ppy.sh/b/950875)
+  - [t+pazolite vs RoughSketch - Readymade Luv (Ciel) \[Homemade Chocolate\]](https://osu.ppy.sh/b/1045122)
+  - [Camellia - Fastest Crash (Shoegazer) \[Paroxysm\]](https://osu.ppy.sh/b/924286)
+  - [Kommisar - Southern Waters Assault 8bit (Gekido-) \[LN Master\]](https://osu.ppy.sh/b/1022204)
+  - [LeaF - I (Tidek) \[Limbo\]](https://osu.ppy.sh/b/921164)
+- FreeMod
+  - [t+pazolite with siromaru - Chambarising (Evening) \[Challenge\]](https://osu.ppy.sh/b/923890)
+  - [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/b/473228)
+  - [ikaruga_nex - Mirage (inteliser) \[UNLIMITED \[LN\]\]](https://osu.ppy.sh/b/1038091)
+  - [Camellia - dreamless wanderer (Fullerene-) \[Ethereal Shift\]](https://osu.ppy.sh/b/714878)
+- Tiebreaker
+  - [Camellia - I Can Fly In The Universe (Evening) \[Schizophrenia\]](https://osu.ppy.sh/b/1055345)
 
 ------------------------------------------------------------------------
 
