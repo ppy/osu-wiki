@@ -3,7 +3,7 @@
 [GitHub osu-wiki]: https://github.com/ppy/osu-wiki "osu-wiki in GitHub"
 [GH Issue]: https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page"
 [Commit Changes]: #commit-changes "Commit Changes"
-[FAQ]: #faq "FAQ in osu!wiki"
+[wikiFAQ]: #faq "FAQ in osu!wiki"
 
 <!-- External -->
 [osu!dev Discord]: https://discord.gg/ppy "osu!dev in Discord"
@@ -63,7 +63,7 @@ For a styling guide when writing a page, check out [Article Style Guide][ASG] in
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
 
-Frequently-Asked-Questions (FAQ) for osu!wiki development in GitHub can be found at the last header of the page, namely [FAQ][FAQ].
+Frequently-Asked-Questions (FAQ) for osu!wiki development in GitHub can be found at the last header of the page, namely [FAQ][wikiFAQ].
 
 Reading time for the whole page is around an hour.
 
@@ -496,20 +496,18 @@ git commit -m "<short title>" -m "<long description>"
 
 - The first command set
   - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
-  - The second command will **stage everything** that was changed and directly commit using the message provided. The command will also takes a snapshot of the GitHub repository (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
+  - The second command will **stage everything that was changed** and directly commit using the message provided. The command will also takes a snapshot of the GitHub repository (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
 - The second command set
   - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
   - The second command will **stage** the file/folder path specified.
     - You can also substitute ``<changed_file_path_with_the_actual_file>`` with ``.`` to **stage everything**, including untracked and changed files.
   - The third command takes a snapshot of the GitHub repository (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
 
-
  **A few things to note:**
 
 - Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
 - Also, write the commit message in **English**.
 - If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
-
 
 _Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default or your predefined text-editor instead to write your summary.
 If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._
@@ -605,9 +603,9 @@ Click on the "Create pull request" button.
 ![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
 
 With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
-If your PR was deemed good enough, a _Team osu!_ member may come and merge your changes to the official branch.
+If your PR was deemed good enough, a _Team osu!_ member or a repository administrator may come and merge your changes to the official branch.
 
-**Your commit messages should thoroughly explain your changes.
+**Note: Your commit messages should thoroughly explain your changes.
 Otherwise, the pull request may not be accepted to the official branch!**
 
 ## Repo Sync and cleanups
@@ -617,7 +615,7 @@ Two important things you must do at all cost:
 1. Updating your ``master`` branch to the latest official ``master`` commit.
 2. If the branch has merge conflicts, fix it immediately.
 
-Updating a branch and cleaning up stale/merged branches is an optional personal maintainance task.
+Updating a branch and cleaning up stale/merged branches is an optional personal maintenance task.
 
 ### Through GitHub's Web Editor
 
@@ -780,7 +778,7 @@ git push origin <branchname>
     It is exactly the same.
 - The last command is to update your own remote repo's branch with the updated local copy of this branch.
 
-#### Merge conflict
+#### Merge conflicts
 
 If you received merge conflict(s) when doing a merge/pull, the merge/pull will fail.
 In this case, you should fix the conflicting changes, and do a regular commit instead.
@@ -890,7 +888,7 @@ Currently, **1MB** size is the upper limit for any files.
 Resize or compress the file to stay below the file limit.
 
 Also, check the file extension in use.
-Use only lowercased variant of the file extension (like ``.jpg``, ``.gif``, ``.png``, or ``.md``).
+Use only lowercase variant of the file extension (like ``.jpg``, ``.gif``, ``.png``, or ``.md``).
 
 ### What are the green "Verified" button beside the commits in a PR page?
 
