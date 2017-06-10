@@ -1,6 +1,6 @@
 # 文章风格指导
 
-《文章风格指导》（Article Style Guide）将指导您如何使用清晰的语言，统一的格式来维护 osu!wiki 。
+《文章风格指导》（Article Style Guide）将指导如何使用清晰的语言，统一的格式来维护 osu!wiki 。
 
 首先语言表达应该尽量准确,通俗易懂（只需要问自己：“如果读者看这篇 wiki ，他们需要查词典吗？”）。
 
@@ -243,16 +243,24 @@ osu! is a frustrating but fun circle-clicking simulator.
 在书写时，大部分人习惯开头空两格，但是在 osu!wiki ，这是不允许的。
 空两格的目的是为了区分每段，由于 wiki 在段之间已经留出了足够多的空间，所以不允许首行缩进。
 
-## ToC
+### 部分翻译规范
 
-ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
+| 英文 | 中文 |
+|----|----|
+| e.g. | 例如 |
+| For example: | 例如： |
+| See also: | 参见： |
+
+## 目录
+
+目录将在 osu!web 自动整理完成，编辑文章时不需要关注这个问题。
 
 ## 语法
 
-### Chat Channels
+### 聊天频道
 
-Chat channel names are to use lowercase letters and be enclosed by grave marks (`` ` ``).
-For example:
+聊天频道的名称必须使用小写字母，并用反引号（`` ` ``）包围。
+例如：
 
 - `#spanish`
 - `#french`
@@ -260,103 +268,75 @@ For example:
 - `#multiplayer`
 - `#userlog`
 
-Though you may not use them at all, the private chat channel names are to use the letter casing as they appear.
+尽管你可能用不到，但是私聊频道的名称也应该按照原文的小写形式写出。
 
-### Abbreviations
+### 缩写
 
-When using abbreviations, it is really important to note what the abbreviation means upon first instance.
-For example:
+当在文章中第一次使用缩写时，最好给出注释声明它的全称。
+例如：
 
 ```
-The NC (Nightcore) mod is similar to the DT (Double Time) mod.
-While NC and DT increase the speed of the music by 50%, NC will change the pitch of the music and adds a clap and finish to each beat.
+NC (Nightcore) mod 与 DT (Double Time) mod 非常相似。
+它们都会将歌曲加速50%，然而 NC 会改变歌曲的音高，并在每拍结尾附加一个掌声。
 ```
 
-Abbreviations of osu! terms **must** be capitalised.
-For example:
+osu! 中常用的缩写**必须**大写。
+例如:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
 - `DT` for `Double Time`
 
-When shortening the word "for example"; use `e.g.` instead of `e.x.` or `i.e.`.
+### 游戏模式
 
-### Game Modes
-
-When writting the name of the game modes, they are to be written as follows:
+当写到游戏模式时，应当这样写：
 
 - `osu!`
-  - `osu!standard` (unofficial, but used to prevent ambiguity)
-    - for folder names, it is required to use `osu!`, not `osu!standard`
+  - `osu!standard` (非官方，但是放在这里是为了防止歧义)
+    - 对于文件夹名仍应使用 `osu!` ，而不是 `osu!standard` 。
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
 
-You may use the old game mode names (e.g. `Catch the Beat` or `Taiko`) only when you are talking about said game mode's previous name.
+你可能会使用它们的旧称（比如 `Catch the Beat` 或 `Taiko` ），但是上下文必须与游戏模式有关。
 
-### Game Modifiers
+### 游戏 Mod
 
-Game modifiers **must** be capitalised.
-For example:
+游戏 Mod **必须**使用大写。
+例如:
 
 - `Hard Rock`
 - `Nightcore`
 - `Double Time`
 - `Easy`
 
-### Gameplay Elements
+## 人称
 
-Gameplay elements should **never** be capitalised.
+当提及玩家时，使用`玩家`。
 
-- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
-- The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
+**不能**使用`他`/`他的`或`她`/`她的`！  
+而应该使用`他们`/`他们的`。
 
-### Contractions
+当你是想对读者说什么时，使用`你`
 
-Contractions are a shortened form of a word or group of words.
+**绝对不能**使用第一人称`我`。
 
-In the osu!wiki, contractions are **heavily** discouraged.
-This is to keep a formal tone in the osu!wiki.
+## 强调
 
-For example, use:
+记住：过度强调会有反作用！
 
-- `Do not` instead of `Don't`
-- `You will` instead of `You'll`
-- `It is` instead of `It's`
+### 粗体
 
-Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) is the exception since these are not contractions.
+当你需要标注重点时，使用粗体。
+例如：
 
-## Point of View
+- `**不要**因为游戏内的问题联系 ppy !`
+- `制作皮肤时，新创意**很重要**。`
 
-When referring to the player, use `the player` or `a player`.
+### 斜体
 
-**Never** use `he`/`his` or `she`/`her`!
-Instead, use `they`/`their`/`theirs`.
-
-In instances where you are talking directly to the reader (e.g. tutorial page), you could use the word `you`.
-
-**Never** use the first person perspective, `I`.
-
-## Emphasizing
-
-Know that the overuse/abuse of emphasis will reduce its effectiveness!
-
-When trying to emphasize words, do **not** use capital letters.
-Instead, bold the word you are trying to emphasize.
-
-### Bold
-
-Use bold when you need to caution or note something's importance.
-For example:
-
-- `Do **not** contact peppy for ingame issues!`
-- `**Improperly timed beatmaps will have your map ignored!**`
-- `When skinning, it is **really important** to have original and/or creative ideas.`
-
-### Italics
-
-Any instances of the name of a video game should also be in italics.
-For example:
+某个游戏/动漫的名称应该使用斜体。
+例如：
 
 - `_Elite Beat Agents_`
 - `_Taiko no Tatsujin_`
@@ -389,9 +369,9 @@ To break lines in a list, use (note the number of spaces):
 There are two kinds of lists:
 
 - bulleted
-  - used when the order of each item does not matter (e.g. describing an object)
+  - used when the order of each item does not matter (例如 describing an object)
 - numbered
-  - used when the order of each item does matter (e.g. tutorial instructions)
+  - used when the order of each item does matter (例如 tutorial instructions)
 
 ### Sub-Lists
 
@@ -422,7 +402,7 @@ For the following scenarios, use code.
 
 When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
 
-For example:
+例如：
 
 - `` `.` ``
 - `` `Alt` ``
@@ -431,7 +411,7 @@ For example:
 ### Button or Menu Text
 
 When copying the text from a menu or button, copy the letter casing as-is.
-For example:
+例如：
 
 - `` Click `File` then `Save As...` ``
 - `` `1. Let's do it.` ``
@@ -440,7 +420,7 @@ For example:
 ### Folder Names
 
 When copying the name of a folder, copy the letter casing as-is.
-For example:
+例如：
 
 - `` `Exports` ``
 - `` `Downloads` ``
@@ -448,7 +428,7 @@ For example:
 ### Directory Names
 
 When copying the path of a directory, copy the letter casing as-is.
-For example:
+例如：
 
 - `` `Downloads/` ``
 - `` `Skins/User/` ``
@@ -456,7 +436,7 @@ For example:
 ### Keywords or Commands
 
 When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
-For example:
+例如：
 
 - `` `ComboBurstStyle` ``
 - `` `[Events]` ``
@@ -465,7 +445,7 @@ For example:
 ### File Names
 
 When copying the name of a file, copy the letter casing as-is.
-For example:
+例如：
 
 - `` `osu.exe` ``
 - `` `screenshot001.jpg` ``
@@ -483,7 +463,7 @@ When writing a file extension, prefix the extension with a period (`.`), followe
 
 When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 See [Chat Channels](#chat-channels) for other details.
-For example:
+例如：
 
 - `` `#lobby` ``
 - `` `#osu` ``
@@ -501,7 +481,7 @@ Markdown also allows you to use 4 spaces to trigger the code blocks; however, th
 You can use either the reference or inline style links.
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
-**Never** use protocol relative links (e.g. `//example.com`)!
+**Never** use protocol relative links (例如 `//example.com`)!
 
 ### Unsafe ASCII Characters
 
@@ -546,7 +526,7 @@ The one you use may depend on the scenario.
 #### Absolute Links
 
 Absolute links are basically URLs.
-For example:
+例如：
 
 ```
 https://www.example.com/index.php
@@ -559,7 +539,7 @@ Use of this type of link may include:
 #### Relative-absolute Links
 
 Relative-absolute links are relative links that start in an absolute location (the root directory).
-For example:
+例如：
 
 ```
 /wiki/shared/False.png
@@ -573,7 +553,7 @@ Use of this type of link may include:
 #### Relative-relative Links
 
 Relative-relative links are relative links that start from the current directory.
-For example:
+例如：
 
 ```
 img/example.png
@@ -599,7 +579,7 @@ If there is not a viable or obvious title, then use the site's name or a general
 All section links follow these strict rules:
 
 - all letters **must** use lowercase letters
-- all special characters (e.g. `!`, `?`, `,`, `"`, `'`) **must** be replaced with a hyphen (`-`)
+- all special characters (例如 `!`, `?`, `,`, `"`, `'`) **must** be replaced with a hyphen (`-`)
   - if one of the special characters is the last character in the section name, remove it, but do not add a hyphen (`-`).
 - all spaces are replaced with hyphens (`-`), not underscores (`_`)
 - if a header is not unique (two or more of the same section heading names exist at any level):
@@ -682,7 +662,7 @@ All beatmapset difficulty URLs looks like this: `https://new.ppy.sh/s/{BeatmapSe
 
 All image file extensions **must** use lowercase letters, otherwise they will fail to load!
 
-It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
+It is suggested to add a subfolder for the images (例如 `img/` for all and any images).
 
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder.
 Images that are used for one article are to be placed inside their folders for linking.
@@ -714,7 +694,7 @@ This will ensure that something will still be displayed even when it fails to lo
 Title text (otherwise known as "hover text") is **optional**.
 It can be the same as the alt text if needed.
 
-For example:
+例如：
 
 ```
 ![alternate text](image.jpg "hover text")
@@ -750,7 +730,7 @@ To see the flags, see the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki
 
 Tables use the GFM syntax.
 
-If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), then you are overthinking both the table and the content.
+If you cannot create a table because _something_ would not work without HTML (例如 lists inside tables), then you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
 
 **Never** place images and/or lists inside tables.
@@ -773,7 +753,7 @@ Another tool that can help you visualize a Markdown table could be:
 ## Date Formatting
 
 Since many regions use different date and time formats, the osu!wiki will only use this format: `DD. MMMM YYYY`.
-For example:
+例如：
 
 - `April 1, 2017` must be `01. April 2017`
 - `17 June, 2013` must be `17. June 2013`
@@ -781,8 +761,8 @@ For example:
 - `2008.11.02` must be `02. November 2008`
 
 <!-- this is to cover for languages with month/day/year suffixes -->
-If your language uses a day, month, and year suffix (e.g. Chinese, Japanese, or Korean), you may use them.
-For example:
+If your language uses a day, month, and year suffix (例如 Chinese, Japanese, or Korean), you may use them.
+例如：
 
 - `April 29, 2016` must be `2016年04月29日`
 - `18 June, 2013` must be `2013년06월18일`
