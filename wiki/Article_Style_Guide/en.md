@@ -485,16 +485,11 @@ Whenever possible, use the current user's name instead of the user's previous na
 
 ---
 
-Unfortunately, _osu!_ does not provide an easy, straightforward way to get the user's id number.
-Here are some ways you can get it:
+To get a user's id number:
 
-1. Go to the user's page using the username search.
-2. Click on:
-   - Said user's beatmap page link (that they created)
-     1. Click on the Creator link
-     2. In the address box, the value after `/u/` is the user's id number.
-   - Compose a message (the mail icon)
-     1. In the address box, the value after for the URL parameter `&u=` is the user's id number.
+1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar.
+2. Press `Enter`.
+3. Once the page loads, osu!web will convert the username to an id.
 
 ##### Beatmaps
 
