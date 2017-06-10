@@ -178,42 +178,36 @@ Mappools 4K
 
 ### Fase de grupos
 
-| Mods Libres                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------|
-| [kors k — Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/b/345760)                                  |
-| [Camellia — Bangin' Burst (Spy) \[KK’s ADVANCED Lv.14\]](https://osu.ppy.sh/b/350093)                             |
-| [Seiryu — Water Horizon (Spy) \[4K EXTREME\]](https://osu.ppy.sh/b/360802)                                        |
-| [Ras — STAGER (LeiN-) \[Another\]](https://osu.ppy.sh/b/374464)                                                   |
-| [ETIA. — Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono) \[MX\]](https://osu.ppy.sh/b/443215)                  |
-| [ensou feat. GUMI — COMA (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/b/364414)                                 |
-| [Tamura Yukari ft motsu from m.o.v.e — You & Me (- R u m i a -) \[justhow’s 4K MX\]](https://osu.ppy.sh/b/263308) |
-| [EasyPop — Happy Synthesizer (c36098651) \[4K Insane\]](https://osu.ppy.sh/b/290276)                              |
-| [Ryu\* Vs. Sota — Go Beyond](https://osu.ppy.sh/b/467177)                                                         |
-
-| Desempate                                                                 |
-|---------------------------------------------------------------------------|
-| [BABYMETAL — Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/b/407642) |
+- FreeMod
+  - [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/b/345760)
+  - [Camellia - Bangin' Burst (Spy) \[KK's ADVANCED Lv.14\]](https://osu.ppy.sh/b/350093)
+  - [Seiryu - Water Horizon (Spy) \[4K EXTREME\]](https://osu.ppy.sh/b/360802)
+  - [Ras - STAGER (LeiN-) \[Another\]](https://osu.ppy.sh/b/374464)
+  - [ETIA. - Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono) \[MX\]](https://osu.ppy.sh/b/443215)
+  - [ensou feat. GUMI - COMA (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/b/364414)
+  - [Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) \[justhow's 4K MX\]](https://osu.ppy.sh/b/263308)
+  - [EasyPop - Happy Synthesizer (c36098651) \[4K Insane\]](https://osu.ppy.sh/b/290276)
+  - [Ryu\* Vs. Sota - Go Beyond](https://osu.ppy.sh/b/467177)
+- Tiebreaker
+  - [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/b/407642)
 
 Mappools 7K
 ----------------
 
 ### Fase de Grupos
 
-| FreeMod                                                                                           |
-|---------------------------------------------------------------------------------------------------|
-| [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/b/245873)       |
-| [Pendulum - The Island (MaxNRG Remix) (Skalim) \[7K The Island - Insane\]](https://osu.ppy.sh/b/298815) |
-| [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[DJPop's Insane\]](https://osu.ppy.sh/b/299539) |
-| [Nekomata Master - Far east nightbird (Lieselotte) \[LV.23\]](https://osu.ppy.sh/b/244555)              |
-| [sakuzyo - Erlung (HanzeR) \[Another\]](https://osu.ppy.sh/b/292498)                                    |
-| [L i a's Mania - vol.1 (L i a) \[Replica no Koi\]](https://osu.ppy.sh/b/250722)                         |
-| [sakuzyo - Black Lair (-kevincela-) \[7K Liese's LV.24\]](https://osu.ppy.sh/b/361871)                  |
-| [Sharlo - Sleeping Butterfly (Rumia-) \[Lv.32\]](https://osu.ppy.sh/b/392533)                           |
-| [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/b/315723)                       |
-
-| Tiebreaker                                                           |
-|----------------------------------------------------------------------|
-| [FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/b/192564) |
+- FreeMod
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/b/245873)
+  - [Pendulum - The Island (MaxNRG Remix) (Skalim) \[7K The Island - Insane\]](https://osu.ppy.sh/b/298815)
+  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[DJPop's Insane\]](https://osu.ppy.sh/b/299539)
+  - [Nekomata Master - Far east nightbird (Lieselotte) \[LV.23\]](https://osu.ppy.sh/b/244555)
+  - [sakuzyo - Erlung (HanzeR) \[Another\]](https://osu.ppy.sh/b/292498)
+  - [L i a's Mania - vol.1 (L i a) \[Replica no Koi\]](https://osu.ppy.sh/b/250722)
+  - [sakuzyo - Black Lair (-kevincela-) \[7K Liese's LV.24\]](https://osu.ppy.sh/b/361871)
+  - [Sharlo - Sleeping Butterfly (Rumia-) \[Lv.32\]](https://osu.ppy.sh/b/392533)
+  - [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/b/315723)
+- Tiebreaker
+  - [FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/b/192564)
 
 ------------------------------------------------------------------------
 
