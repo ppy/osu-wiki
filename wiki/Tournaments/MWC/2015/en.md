@@ -64,7 +64,7 @@ Participants
 | ![](/wiki/shared/flag/Ve.gif) Venezuela | **[Kankenaisanxd](https://osu.ppy.sh/u/4698537)**, [Besbinbo](https://osu.ppy.sh/u/4437819), [rakion269](https://osu.ppy.sh/u/2693272)                                                                                                                                |
 | ![](/wiki/shared/flag/Th.gif) Thailand  | **[\[13\] BECK](https://osu.ppy.sh/u/2656374)**, [irisdevil](https://osu.ppy.sh/u/2623676), [oat0005](https://osu.ppy.sh/u/4110257), [-Loli\-Sora-](https://osu.ppy.sh/u/4183185), [divaviva](https://osu.ppy.sh/u/2221251), [Noobish](https://osu.ppy.sh/u/502592)                     |
 | ![](/wiki/shared/flag/Ca.gif) Canada    | **[beary605](https://osu.ppy.sh/u/2198070)**, [Ashix-](https://osu.ppy.sh/u/981144), [Bites](https://osu.ppy.sh/u/1671598), [CammyKun](https://osu.ppy.sh/u/3607503), [Slyhand](https://osu.ppy.sh/u/4789720), [KenjiTomika](https://osu.ppy.sh/u/3895749)                              |
-| ![](/wiki/shared/flag/Cn.gif) China     | **[Wind God Boy](https://osu.ppy.sh/u/3003417)**, [\[Crz\]Sword](https://osu.ppy.sh/u/5242158), [\[Crz]Jun](https://osu.ppy.sh/u/4301792), [[Crz]ScSolAr](https://osu.ppy.sh/u/1591215), [\[Crz\]ZhangFan](https://osu.ppy.sh/u/89545), [\[Crz\]Lucifer](https://osu.ppy.sh/u/5270332) |
+| ![](/wiki/shared/flag/Cn.gif) China     | **[Wind God Boy](https://osu.ppy.sh/u/3003417)**, [\[Crz\]Sword](https://osu.ppy.sh/u/5242158), [\[Crz\]Jun](https://osu.ppy.sh/u/4301792), [[Crz]ScSolAr](https://osu.ppy.sh/u/1591215), [\[Crz\]ZhangFan](https://osu.ppy.sh/u/89545), [\[Crz\]Lucifer](https://osu.ppy.sh/u/5270332) |
 
 | Country                                           | Group B Members                                                                                                                                                                                                                      |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -124,101 +124,89 @@ Mappools
 
 **[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar)**
 
-| FreeMod                                                                               |
-|---------------------------------------------------------------------------------------|
-| [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/b/487578)                     |
-| [yak\_won - Lucid (Critical\_Star) \[MX\]](https://osu.ppy.sh/b/476043)                     |
-| [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/b/374172)                   |
-| [Ryu\* - We're so Happy (Spy) \[victorica's 4K HD+\]](https://osu.ppy.sh/b/314892)          |
-| [Ryu\* - Sakura Mirage (Spy) \[ADVANCED Lv.12\]](https://osu.ppy.sh/b/439140)               |
-| [Tokisawa Nao - Analyze (Heart of Bitch) \[ecafree2's 4K SC\]](https://osu.ppy.sh/b/429628) |
-| [nora2r - VISION (SanadaYukimura) \[ADVANCED\]](https://osu.ppy.sh/b/723147)                |
-| [S-C-U feat. Qrispy Joybox - anemone (Starry-) \[Special\]](https://osu.ppy.sh/b/738032)    |
-| [Celas - Azul (Remix) (Marirose) \[Bie' Hyper\]](https://osu.ppy.sh/b/714074)               |
-| [SHK - Couple Breaking (Sky\_Demon) \[MX\]](https://osu.ppy.sh/b/376721)                    |
-| [Qrispy Joybox feat.mao - Good-bye Tears (LNP-) \[MX\]](https://osu.ppy.sh/b/637229)        |
-| [3R2 - Beyond the Horizon (hokin1995) \[MX\]](https://osu.ppy.sh/b/505719)                  |
-
-| Tiebreaker                                                                                 |
-|--------------------------------------------------------------------------------------------|
-| [Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/b/494045) |
+- FreeMod
+  - [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/b/487578)
+  - [yak\_won - Lucid (Critical\_Star) \[MX\]](https://osu.ppy.sh/b/476043)
+  - [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/b/374172)
+  - [Ryu\* - We're so Happy (Spy) \[victorica's 4K HD+\]](https://osu.ppy.sh/b/314892)
+  - [Ryu\* - Sakura Mirage (Spy) \[ADVANCED Lv.12\]](https://osu.ppy.sh/b/439140)
+  - [Tokisawa Nao - Analyze (Heart of Bitch) \[ecafree2's 4K SC\]](https://osu.ppy.sh/b/429628)
+  - [nora2r - VISION (SanadaYukimura) \[ADVANCED\]](https://osu.ppy.sh/b/723147)
+  - [S-C-U feat. Qrispy Joybox - anemone (Starry-) \[Special\]](https://osu.ppy.sh/b/738032)
+  - [Celas - Azul (Remix) (Marirose) \[Bie' Hyper\]](https://osu.ppy.sh/b/714074)
+  - [SHK - Couple Breaking (Sky\_Demon) \[MX\]](https://osu.ppy.sh/b/376721)
+  - [Qrispy Joybox feat.mao - Good-bye Tears (LNP-) \[MX\]](https://osu.ppy.sh/b/637229)
+  - [3R2 - Beyond the Horizon (hokin1995) \[MX\]](https://osu.ppy.sh/b/505719)
+- Tiebreaker
+  - [Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/b/494045)
 
 ### Round of 16
 
 **[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar)**
 
-| FreeMod                                                                                                    |
-|------------------------------------------------------------------------------------------------------------|
-| [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/b/432217)                                   |
-| [ikaruga\_nex - gigadelic(m3rkAb4\# R3m!x) (Starry-) \[EXHAUST Lv.13\]](https://osu.ppy.sh/b/751036)             |
-| [Soleily - Violet Soul (Spy) \[victorica's GRAVITY Lv.15\]](https://osu.ppy.sh/b/554742)                         |
-| [Orangestar - Asu no Yozora Shoukaihan (LovinYou) \[Insane\]](https://osu.ppy.sh/b/679332)                       |
-| [BlackY's BEATFLOOR - Creutz=Wilknare (Short Ver.) (SanadaYukimura) \[Insane\]](https://osu.ppy.sh/b/651992)     |
-| [Hige Driver join. SELEN - Dadadadadadadadadada (victorica\_db) \[Lv.14\]](https://osu.ppy.sh/b/549360)          |
-| [Tatsh - HEAVENLY MOON (Spy) \[EXTREME\]](https://osu.ppy.sh/b/561923)                                           |
-| [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (SanadaYukimura) \[EXHAUST\]](https://osu.ppy.sh/b/590575) |
-| [Junk - Yellow Smile(bms edit) (Starry-) \[Another\]](https://osu.ppy.sh/b/678460)                               |
-| [C-Show - Invitation from Mr.C (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/b/659683)                    |
-| [P\*Light - TRIGGER\*HAPPY (Kuo Kyoka) \[Spy's 4K EXHAUST Lv.20\]](https://osu.ppy.sh/b/323459)                  |
-| [S-C-U - Ambitious (\[ A v a l o n \]) \[Spy's Another\]](https://osu.ppy.sh/b/753220)                           |
-| [Seiryu - Water Horizon (Spy) \[victorica's 4K ExtrA\]](https://osu.ppy.sh/b/360805)                             |
-| [ETIA. - Nihonshiki Koukaku-OukaRanman- (Taiwan-NAK) \[Lv.15\]](https://osu.ppy.sh/b/602235)                     |
-
-| Tiebreaker                                                                     |
-|--------------------------------------------------------------------------------|
-| [Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/b/577429) |
+- FreeMod
+  - [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/b/432217)
+  - [ikaruga\_nex - gigadelic(m3rkAb4\# R3m!x) (Starry-) \[EXHAUST Lv.13\]](https://osu.ppy.sh/b/751036)
+  - [Soleily - Violet Soul (Spy) \[victorica's GRAVITY Lv.15\]](https://osu.ppy.sh/b/554742)
+  - [Orangestar - Asu no Yozora Shoukaihan (LovinYou) \[Insane\]](https://osu.ppy.sh/b/679332)
+  - [BlackY's BEATFLOOR - Creutz=Wilknare (Short Ver.) (SanadaYukimura) \[Insane\]](https://osu.ppy.sh/b/651992)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada (victorica\_db) \[Lv.14\]](https://osu.ppy.sh/b/549360)
+  - [Tatsh - HEAVENLY MOON (Spy) \[EXTREME\]](https://osu.ppy.sh/b/561923)
+  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (SanadaYukimura) \[EXHAUST\]](https://osu.ppy.sh/b/590575)
+  - [Junk - Yellow Smile(bms edit) (Starry-) \[Another\]](https://osu.ppy.sh/b/678460)
+  - [C-Show - Invitation from Mr.C (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/b/659683)
+  - [P\*Light - TRIGGER\*HAPPY (Kuo Kyoka) \[Spy's 4K EXHAUST Lv.20\]](https://osu.ppy.sh/b/323459)
+  - [S-C-U - Ambitious (\[ A v a l o n \]) \[Spy's Another\]](https://osu.ppy.sh/b/753220)
+  - [Seiryu - Water Horizon (Spy) \[victorica's 4K ExtrA\]](https://osu.ppy.sh/b/360805)
+  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Taiwan-NAK) \[Lv.15\]](https://osu.ppy.sh/b/602235)
+- Tiebreaker
+  - [Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/b/577429)
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar)**
 
-| FreeMod                                                                                    |
-|--------------------------------------------------------------------------------------------|
-| [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/b/530544)                               |
-| [Helblinde - Grief & Malice (Fullerene-) \[4K Kriemhild Gretchen\]](https://osu.ppy.sh/b/554655) |
-| [SasakureP - bokura no 16bit warz (CrazyStar) \[16bit\]](https://osu.ppy.sh/b/630173)            |
-| [loz - Cinderella Cage -Trancecore Mix- (Jepetski) \[Lunatic\]](https://osu.ppy.sh/b/694425)     |
-| [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Ichigaki) \[EXHAUST\]](https://osu.ppy.sh/b/603737) |
-| [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/b/669917)                       |
-| [wa. remixed celas - Gin no Kaze (Marirose) \[4K Another\]](https://osu.ppy.sh/b/752775)         |
-| [Izayoi Sak - Blue Planet (Shoegazer) \[Another\]](https://osu.ppy.sh/b/716960)                  |
-| [Soleily - Renatus (Tidek) \[Insane\]](https://osu.ppy.sh/b/552746)                              |
-| [xi - Wish upon Twin Stars (LNP-) \[EXHAUST Lv.15\]](https://osu.ppy.sh/b/540060)                |
-| [Camellia - overcomplexification (Starry-) \[Lv.10\]](https://osu.ppy.sh/b/718998)               |
-| [High Speed Music Team Sharpnel - M.A.M.A. (arcwinolivirus) \[MX\]](https://osu.ppy.sh/b/429550) |
-| [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/b/668992)                     |
-| [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/b/760458)                     |
-
-| Tiebreaker                                              |
-|---------------------------------------------------------|
-| [Camellia - Lunatic Rough Party](https://osu.ppy.sh/b/646319) |
+- FreeMod
+  - [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/b/530544)
+  - [Helblinde - Grief & Malice (Fullerene-) \[4K Kriemhild Gretchen\]](https://osu.ppy.sh/b/554655)
+  - [SasakureP - bokura no 16bit warz (CrazyStar) \[16bit\]](https://osu.ppy.sh/b/630173)
+  - [loz - Cinderella Cage -Trancecore Mix- (Jepetski) \[Lunatic\]](https://osu.ppy.sh/b/694425)
+  - [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Ichigaki) \[EXHAUST\]](https://osu.ppy.sh/b/603737)
+  - [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/b/669917)
+  - [wa. remixed celas - Gin no Kaze (Marirose) \[4K Another\]](https://osu.ppy.sh/b/752775)
+  - [Izayoi Sak - Blue Planet (Shoegazer) \[Another\]](https://osu.ppy.sh/b/716960)
+  - [Soleily - Renatus (Tidek) \[Insane\]](https://osu.ppy.sh/b/552746)
+  - [xi - Wish upon Twin Stars (LNP-) \[EXHAUST Lv.15\]](https://osu.ppy.sh/b/540060)
+  - [Camellia - overcomplexification (Starry-) \[Lv.10\]](https://osu.ppy.sh/b/718998)
+  - [High Speed Music Team Sharpnel - M.A.M.A. (arcwinolivirus) \[MX\]](https://osu.ppy.sh/b/429550)
+  - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/b/668992)
+  - [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/b/760458)
+- Tiebreaker
+  - [Camellia - Lunatic Rough Party](https://osu.ppy.sh/b/646319)
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar)**
 
-| FreeMod                                                                                    |
-|--------------------------------------------------------------------------------------------|
-| [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/b/763511)                           |
-| [COOL&CREATE - BEAT-NEW-WORLD (Feerum) \[Jinjin's GRAVITY Lv.16\]](https://osu.ppy.sh/b/716737)  |
-| [3034 - NS18 (Fullerene-) \[EXTREME\]](https://osu.ppy.sh/b/777353)                              |
-| [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/723816)          |
-| [xi - Hesperides (Ichigaki) \[Master\]](https://osu.ppy.sh/b/735806)                             |
-| [Utsu-P feat.Kagamine Rin - Tokyo Teddy Bear (puxtu) \[SHD\]](https://osu.ppy.sh/b/747621)       |
-| [Kaneko Chiharu - Yukionna (CannuJul) \[Jepetski's GRAVITY\]](https://osu.ppy.sh/b/772991)       |
-| [siromaru - Absurd Gaff (arcwinolivirus) \[Assassination \[SC]\]](https://osu.ppy.sh/b/766794)   |
-| [xi - Quietus Ray (DE-CADE) \[Ichi's INFINITE Lv.16\]](https://osu.ppy.sh/b/517247)              |
-| [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/b/690803)     |
-| [Hermit - Dysnomia (-Kamikaze-) \[Tidek's 4K Monochrome\]](https://osu.ppy.sh/b/763657)          |
-| [LV.4 - Angel dust (LeiN-) \[Another\]](https://osu.ppy.sh/b/704844)                             |
-| [xi - Blue Zenith (Jepetski) \[Zen's Black Another\]](https://osu.ppy.sh/b/718163)               |
-| [SD-501 - Cyberstorm (DJKurara Remix) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/654145)       |
-| [Nightmare - Dream To Nightmare (Shoegazer) \[Catatonia (SV)\]](https://osu.ppy.sh/b/775984)     |
-| [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Jinjin's 4K Extra\]](https://osu.ppy.sh/b/530698) |
-
-| Tiebreaker                                                                                      |
-|-------------------------------------------------------------------------------------------------|
-| [goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/b/692640) |
+- FreeMod
+  - [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/b/763511)
+  - [COOL&CREATE - BEAT-NEW-WORLD (Feerum) \[Jinjin's GRAVITY Lv.16\]](https://osu.ppy.sh/b/716737) 
+  - [3034 - NS18 (Fullerene-) \[EXTREME\]](https://osu.ppy.sh/b/777353)
+  - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/723816)
+  - [xi - Hesperides (Ichigaki) \[Master\]](https://osu.ppy.sh/b/735806)
+  - [Utsu-P feat.Kagamine Rin - Tokyo Teddy Bear (puxtu) \[SHD\]](https://osu.ppy.sh/b/747621)
+  - [Kaneko Chiharu - Yukionna (CannuJul) \[Jepetski's GRAVITY\]](https://osu.ppy.sh/b/772991)
+  - [siromaru - Absurd Gaff (arcwinolivirus) \[Assassination \[SC\]\]](https://osu.ppy.sh/b/766794)
+  - [xi - Quietus Ray (DE-CADE) \[Ichi's INFINITE Lv.16\]](https://osu.ppy.sh/b/517247)
+  - [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/b/690803)
+  - [Hermit - Dysnomia (-Kamikaze-) \[Tidek's 4K Monochrome\]](https://osu.ppy.sh/b/763657)
+  - [LV.4 - Angel dust (LeiN-) \[Another\]](https://osu.ppy.sh/b/704844)
+  - [xi - Blue Zenith (Jepetski) \[Zen's Black Another\]](https://osu.ppy.sh/b/718163)
+  - [SD-501 - Cyberstorm (DJKurara Remix) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/b/654145)
+  - [Nightmare - Dream To Nightmare (Shoegazer) \[Catatonia (SV)\]](https://osu.ppy.sh/b/775984)
+  - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Jinjin's 4K Extra\]](https://osu.ppy.sh/b/530698)
+- Tiebreaker
+  - [goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/b/692640)
 
 ### Finals
 
@@ -226,30 +214,27 @@ Mappools
 
 **[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar)**
 
-| FreeMod                                                                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------|
-| [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/b/443034)                        |
-| [455-38B - Gengaozo\_Foon (Shoegazer) \[Another\]](https://osu.ppy.sh/b/667077)                                                     |
-| [Anthony Donato - The Scales of Struggle (Staiain) \[Collab Extreme\]](https://osu.ppy.sh/b/459755)                                 |
-| [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[Jepetski's Empress\]](https://osu.ppy.sh/b/713128)                 |
-| [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/b/712625)                                                         |
-| [-45 - 44river (snover) \[final\]](https://osu.ppy.sh/b/747021)                                                                     |
-| [DJKurara - Japanese Transformation (Fullerene-) \[Shift\]](https://osu.ppy.sh/b/662860)                                            |
-| [Camellia as "Bang Riot" - Blastix Riotz (Spy) \[GRAVITY Lv.16\]](https://osu.ppy.sh/b/782106)                                      |
-| [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/b/749258)                                       |
-| [sun3 - Messier 333 (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/b/781090)                                                         |
-| [Yu\_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/b/770548)                                                    |
-| [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm) (Staiain) \[Insane\]](https://osu.ppy.sh/b/222593) |
-| [antiPLUR - Speed of Link (Shoegazer) \[Extra\]](https://osu.ppy.sh/b/743282)                                                       |
-| [Shiraishi - Odin (Fullerene-) \[VIKINGFJORD\]](https://osu.ppy.sh/b/777356)                                                        |
-| [Kobaryo feat. t+pazolite - Yura-Yura Sweet Genocide (spoonguy) \[YuRa-yUrA\]](https://osu.ppy.sh/b/777706)                         |
-| [Chroma - Sayonara Planet Wars (\_FrEsH\_ChICkEn\_) \[GRAVITY\]](https://osu.ppy.sh/b/709402)                                       |
-| [Luxion - High-Priestess (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/b/782753)                                                    |
-| [Fleshgod Apocalypse - Conspiracy Of Silence (Shoegazer) \[Collab Onslaught\]](https://osu.ppy.sh/b/696289)                         |
-
-| Tiebreaker                                                                    |
-|-------------------------------------------------------------------------------|
-| [xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/b/777348) |
+- FreeMod
+  - [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/b/443034)
+  - [455-38B - Gengaozo\_Foon (Shoegazer) \[Another\]](https://osu.ppy.sh/b/667077)
+  - [Anthony Donato - The Scales of Struggle (Staiain) \[Collab Extreme\]](https://osu.ppy.sh/b/459755)
+  - [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[Jepetski's Empress\]](https://osu.ppy.sh/b/713128)
+  - [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/b/712625)
+  - [-45 - 44river (snover) \[final\]](https://osu.ppy.sh/b/747021)
+  - [DJKurara - Japanese Transformation (Fullerene-) \[Shift\]](https://osu.ppy.sh/b/662860)
+  - [Camellia as "Bang Riot" - Blastix Riotz (Spy) \[GRAVITY Lv.16\]](https://osu.ppy.sh/b/782106)
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/b/749258)
+  - [sun3 - Messier 333 (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/b/781090)
+  - [Yu\_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/b/770548)
+  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm) (Staiain) \[Insane\]](https://osu.ppy.sh/b/222593)
+  - [antiPLUR - Speed of Link (Shoegazer) \[Extra\]](https://osu.ppy.sh/b/743282)
+  - [Shiraishi - Odin (Fullerene-) \[VIKINGFJORD\]](https://osu.ppy.sh/b/777356)
+  - [Kobaryo feat. t+pazolite - Yura-Yura Sweet Genocide (spoonguy) \[YuRa-yUrA\]](https://osu.ppy.sh/b/777706)
+  - [Chroma - Sayonara Planet Wars (\_FrEsH\_ChICkEn\_) \[GRAVITY\]](https://osu.ppy.sh/b/709402)
+  - [Luxion - High-Priestess (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/b/782753)
+  - [Fleshgod Apocalypse - Conspiracy Of Silence (Shoegazer) \[Collab Onslaught\]](https://osu.ppy.sh/b/696289)
+- Tiebreaker
+  - [xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/b/777348)
 
 
 ------------------------------------------------------------------------
