@@ -6,9 +6,11 @@ All articles should try to aim at having proper grammar, correct spelling, and c
 Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions.
 A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
-The items listed in this article only applies to the `wiki/` directory.
+## Repository Directory
 
-## Locales
+The following items only applies to the `wiki/` directory.
+
+### Locales
 
 These are the supported locales for the osu!wiki.
 If your language isn't listed below, open an issue in the [`osu-web` repository](https://github.com/ppy/osu-web/issues)!
@@ -38,13 +40,9 @@ If your language isn't listed below, open an issue in the [`osu-web` repository]
 | `zh-hk.md` | Chinese (Traditional) | 粤语 |
 | `zh-tw.md` | Chinese (Taiwan, Traditional) | 中文(繁體) |
 
-## Repository Directory
-
-These rules applies to the folders of the `osu-wiki` repository.
-
 ### Folder Names
 
-**Folders must never contain URL reserved characters.**
+Folders must never contain URL reserved characters.
 Generally, all folder names should only use these characters:
 
 - A - Z (uppercase letters)
@@ -67,7 +65,7 @@ Index pages must link to their own subfolders and could contain descriptions of 
 
 ## Markdown
 
-**These rules are to be followed for all articles.**
+These rules are to be followed for all articles.
 
 ### GFM
 
@@ -290,7 +288,7 @@ How to write a meaningful commit message:
 The markup for code is a grave mark (`` ` ``).
 To put a grave mark in code, surround it in double grave marks, padded with 1 space.
 
-**Example:**
+**Examples:**
 
 ```
 Press `Z` and/or `X` to tap.
@@ -507,7 +505,7 @@ Whenever linking to a beatmap, use this format as the link text:
 ```
 
 When linking to a beatmap, make sure that the link actually links to that difficulty.
-All beatmap difficulty URLs looks like this: `https://new.ppy.sh/b/{BeatmapID}`.
+All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/b/{BeatmapID}`.
 
 ##### Beatmapsets
 
@@ -517,7 +515,7 @@ Whenever linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficulty URLs looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`.
+All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSetID}`.
 
 ### Images
 
