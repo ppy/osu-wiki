@@ -441,7 +441,7 @@ This can be done by entering this to the Git's CLI:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "<commit message>" -m "<long description>"
+git commit -a -m "<commit message>" -m "<long description>"
 ```
 or alternatively:
 
@@ -563,7 +563,7 @@ Click on the "Create pull request" button.
 ![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
 
 With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
-If your PR was deemed good enough, a _Team osu!_ member may come and merge your changes to the official branch.
+If your PR was deemed good enough, a _Team osu!_ member or a repository administrator may come and merge your changes to the official branch.
 
 **Your commit messages should thoroughly explain your changes.
 Otherwise, the pull request may not be accepted to the official branch!**
@@ -804,7 +804,7 @@ Like so:
 
 ```prolog
 cd ~/osu-wiki
-git commit -am "Solved merge conflicts"
+git commit -a -m "Solved merge conflicts"
 git push origin <branchname>
 ```
 
