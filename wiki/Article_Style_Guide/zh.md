@@ -47,28 +47,28 @@ GFM 的标记很少，以至于任何人都能在3分钟之内学会它！然而
 
 如果你的语言不在此列，请在 `osu-web` 仓库打开一个问题（issue）！
 
-- `de.md`: 德语
-- `el.md`: 希腊语
-- `en.md`: 英语
-- `es.md`: 西班牙语
-- `fi.md`: 芬兰语
-- `fr.md`: 法语
-- `hu.md`: 匈牙利语
-- `id.md`: 印度尼西亚语
-- `it.md`: 印度语
-- `ja.md`: 日语
-- `ko.md`: 韩文
-- `nl.md`: 荷兰语
-- `no.md`: 挪威语
-- `pl.md`: 波兰语
-- `pt.md`: 葡萄牙语
-- `pt-br.md`: 巴西葡萄牙语
-- `ru.md`: 俄语
-- `th.md`: 泰语
-- `tl.md`: 他加禄语
-- `zh.md`: 简体中文
-- `zh-hk.md`: 粤语
-- `zh-tw.md`: 繁体中文
+- `de.md` ：德语
+- `el.md` ：希腊语
+- `en.md` ：英语
+- `es.md` ：西班牙语
+- `fi.md` ：芬兰语
+- `fr.md` ：法语
+- `hu.md` ：匈牙利语
+- `id.md` ：印度尼西亚语
+- `it.md` ：印度语
+- `ja.md` ：日语
+- `ko.md` ：韩文
+- `nl.md` ：荷兰语
+- `no.md` ：挪威语
+- `pl.md` ：波兰语
+- `pt.md` ：葡萄牙语
+- `pt-br.md` ：巴西葡萄牙语
+- `ru.md` ：俄语
+- `th.md` ：泰语
+- `tl.md` ：他加禄语
+- `zh.md` ：中文
+- `zh-hk.md` ：粤语
+- `zh-tw.md` ：繁体中文
 
 ## 标题
 
@@ -102,26 +102,18 @@ Markdown 提供了两种风格的一/二级标题文字：
 
 ### 文章标题
 
-All articles must have **one** level 1 heading, being the article's title.
+每篇文章都应该有一个标题，并使用一级标题。
+如果有关联式链接，标题应该放在它下面。
+如果没有则放在文件开头。
 
-Article titles are to be in title case.
+文章标题**不能**使用其他任何标记以及图片。
 
-The title of an article is the name of the folder that the article is located in.
+#### 无法翻译的标题
 
-For English article titles, if you need to reword the title, you must rename the folder to match the article title.
+如果有标题无法翻译，则使用：`原文 (语言名称)` 。下面是一些例子：
 
-This level 1 heading should be placed at the start of the article unless you have reference links placed there.
-If this is the case, place the level 1 heading underneath those reference links.
-
-Article titles must **never** have any styles nor images.
-
-#### Untranslatable Titles
-
-In the case where a title can **not** be translated, use the language title (in English) followed by the language name (in that language) in round brackets.
-Here are some examples:
-
-```
-osu!mania (Español)
+```markdown
+osu!mania (中文)
 ===================
 
 # Live Streaming (日本語)
@@ -132,21 +124,30 @@ osu!mania (Español)
 You can find a list of native language names at [Language names in their own languages and scripts](http://www.omniglot.com/language/names.htm) or [List of language names](https://en.wikipedia.org/wiki/List_of_language_names).
 <!-- NOTE this may introduce more inconsistencies because some languages use more than one script to represent their language! -->
 
-### Section Headings
+### 小节标题
 
-All section headings are to use title case, just like the [article titles](#article-titles).
+每个小节应该使用二到五级的标题文字。
+章节标题同样**不能**使用其他任何标记以及图片。
 
-All section headings are to be using levels 2 to 5 headings.
+**不能**跳跃标题级别。
+例如：二级标题之后直接使用四级标题。
 
-Section headings should **never** skip a heading level.
-For example: do not go from a level 2 heading to a level 4 heading.
+```markdown
+## 二级标题
 
-All sections **must** contain some content, even those that act like a container for subsections.
+内容
 
+#### 四级标题
+
+内容
 ```
-## Game Modes
 
-_Also see [Glossary](/wiki/Glossary)._
+每节必须包含一些内容，即使它的标题已经概括了它的子章节.
+
+```markdown
+## 游戏模式
+
+_参见[词汇表](/wiki/Glossary)._
 
 ### osu!
 
@@ -154,88 +155,101 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 ```
 
-Section headings must **never** have a link in it.
-Instead, place the link underneath the section heading.
-For example, do not do this:
+每节的标题**不能**带链接.
+除非它不在章节标题的位置.
+举例:
 
 ```
-## [Beatmap Editor](/wiki/Beatmap_Editor)
+## 谱面编辑器
+
+完整的介绍,参见[谱面编辑器](/wiki/Beatmap_Editor/).
 ```
 
-Instead, use:
+章节标题**不能**使用除标题文字以外其他的 Markdown 标记.
+
+章节标题中可以包含**小图标**,但是不能高于一个字符(通常情况下一个字符高16像素).
+举例:
 
 ```
-## Beatmap Editor
-
-For a full explanation, see [Beatmap Editor](/wiki/Beatmap_Editor/).
+#### ![osu! 图标](/wiki/shared/Osu.gif) osu!
 ```
 
-Section headings must **never** have any styles applied to it.
+## 中英差异
 
-Section headings can have **small icons** in their section headings but never images larger than 1em (the height of a font, which is 14 pixels in the osu!wiki).
-For example:
+本节将从各个角度指出中英转换时的注意事项
+
+### 标点符号
+
+中文和英文的标点符号完全不相同
+
+#### 中文标点
+
+不同的人对标点符号的喜好可能不一样，但是在 osu!wiki （中文文章）中建议使用**简体中文**标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同）:
 
 ```
-#### ![osu! icon](/wiki/shared/Osu.gif) osu!
+，逗号
+。句号
+？问号
+！感叹号
+、顿号
+‘’单引号
+“”双引号
+《》书名号
+：冒号
+（）小括号
+【】中括号
+｛｝大括号
+——破折号
+|竖线
+……省略号
 ```
+
+每个句子的结尾应该有一个终结符(句号、感叹号等)。
+对于特殊情况则特殊处理，例如：
+```
+对于特殊情况则特殊处理，例如：
+```
+
+关于中文标点的详细定义，参考[GB/T 15834-1995标准](http://www.china-language.gov.cn/wenziguifan/managed/020.htm)
+
+##### 括号
+
+当括号是为了注释某个没有达成共识的翻译时，使用多数人认同的翻译和中文括号，被注释的词放在括号内并不需要空格。
+例如：`仓库（repository）`
+
+
+##### 顿号
+
+在一个句子中枚举词语时，使用顿号分隔。
+
+- _osu!_ 的游戏模式有: osu!standard、osu!taiko、osu!catch 和 osu!mania 。
+
+#### 英文标点
+
+除非英文标点是某个词的一部分（比如 osu! ），引用英文句子或单词 ,否则**不应该**使用英文标点。
+
+### 中英混用
+
+如果英文单词需要在中文句子中出现，那么在单词两头空格。
+例如：
+
+- 游戏的名称 `osu!` **不应该大写**，即使它在句子的开头。
+
+如果英文单词出现在句子开头，则不需要在单词前面空格。
+如果英文单词出现在句子结尾，那么同样需要两头空格并正确使用终结符。
+
+### 首行缩进
+
+在书写时，大部分人习惯开头空两格，但是在 osu!wiki ，这是不允许的。
+空两格的目的是为了区分每段，由于 wiki 在段之间已经留出了足够多的空间，所以不允许首行缩进。
 
 ## ToC
 
 ToCs (Table of Contents) are automatically generated in osu!web, you do not need to manually make one for the article you intend to edit.
 
-## Grammar
+## 语法
 
-In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
-
-For example use:
-
-- `colour` instead of `color`
-- `centre` instead of `center`
-- `skilful` instead of `skillful`
-- `analyse` instead of `analyze`
-
-### osu!
-
-The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
-
-If `osu!` is the last word in the sentence, do **not** add a punctuation mark at the end of said sentence.
-
-Any words following `osu!`, if not divided by a blank space, should **not** be capitalised.
-If they are divided by a blank space, they must be capitalised if it is a proper noun.
-For example:
-
-- `osu! Tournaments`
-- `osu! Alumni`
-
-If you have `osu!` then a word immediately following it, make sure that the word is spelt with lowercase letters (like the game modes).
-Other examples may include:
-
-- `osu!mania`
-- `osu!direct`
-- `osu!wiki`
-
-When referring to `osu!` (the game/framework itself, not the game mode), it should be in _italics_ unless it is included in the name of game modes or other services related to the game.
-For example:
-
-- `The language that _osu!_ is written in is C# using the .NET Framework.`
-- `One of the game modes in _osu!_ is osu!catch.`
-
-### Serial Comma
-
-_The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
-
-When a list consists of 3 or more items in a sentence, use the serial comma.
-For example:
-
-- The game modes of _osu!_: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
-
-### Language Names
-
-When referring to the name of a language, capitalize the first letter of that language.
-
-- The `#spanish` chat channel are for those who speak **Spanish**.
-
-#### Chat Channels
+### Chat Channels
 
 Chat channel names are to use lowercase letters and be enclosed by grave marks (`` ` ``).
 For example:
