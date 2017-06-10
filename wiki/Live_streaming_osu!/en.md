@@ -9,7 +9,7 @@ If you are visiting this page, then it is likely you have an interest and want t
 1.  Registering for an account for TTV is very easy, just head to the website https://www.twitch.tv and click on the `Sign Up` button in the top right corner.
 2.  Afterwards, fill in the fields.
 3.  You will get an activation link via e-mail.
-4.  Once you are done, your channel will be at www.twitch.tv/"username" (username being your chosen username).
+4.  Once you are done, your channel will be at `www.twitch.tv/{username}` (username being your chosen username).
 
 ## Step 2 - Prepare twitch.tv for streaming
 
