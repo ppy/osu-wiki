@@ -464,13 +464,13 @@ To make a new branch, enter the commands below in the CLI:
 ```prolog
 git checkout master
 git checkout -b <branchname>
-git push origin <branchname>
+git push -u origin <branchname>
 ```
 
 - The first command returns the Git back to ``master`` branch.
   If you are already in ``master`` branch, nothing happens.
 - The second command makes the ``<branchname>`` branch copy based on ``master`` branch.
-- The third command updates your forked remote copy (``origin``, remember?) with a new ``<branchname>`` (make sure you are connected to the Internet before pushing anything).
+- The third command updates (``push`` keyword) and keep track of the remote branch (``-u`` attribute) to your forked remote copy (``origin``, remember?) with a new ``<branchname>`` (make sure you are connected to the Internet before pushing anything).
 
 You are now in the new branch you created and its time to make some local changes.
 Go ahead and mess with the ``osu-wiki`` directory content.
