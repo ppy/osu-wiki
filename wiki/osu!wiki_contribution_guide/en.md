@@ -1,5 +1,6 @@
 <!-- Internal -->
 [ASG]: /wiki/Article_Style_Guide "Article Style Guide"
+[ASG locales]: /wiki/Article_Style_Guide/#locales "Locales supported by osu!wiki"
 [GitHub osu-wiki]: https://github.com/ppy/osu-wiki "osu-wiki in GitHub"
 [GH Issue]: https://github.com/ppy/osu-wiki/issues "osu-wiki Issues page"
 [Commit Changes]: #commit-changes "Commit Changes"
@@ -8,7 +9,6 @@
 <!-- External -->
 [osu!dev Discord]: https://discord.gg/ppy "osu!dev in Discord"
 [MD]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"
-[ISO 639-1]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "List of ISO 639-1 codes in Wikipedia"
 [E325 error]: https://stackoverflow.com/questions/14513349/e325-attention-found-a-swap-file-by-the-name-git-commit-editmsg-swp "E325 question in Stack Overflow"
 [Matt Liu image source]: http://www.slideshare.net/MatthewKLiu/git-branch-management "Git branch management by Matt Liu"
 [Git set default editor]: https://swcarpentry.github.io/git-novice/02-setup/ "swcarpentry on setting up the default editor"
@@ -60,6 +60,7 @@ If you have previous experience in using GitHub, feel free to skip this guide an
 For complete reference and help with using GitHub, please visit [GitHub Help][GitHub Help].
 
 For a styling guide when writing a page, check out [Article Style Guide][ASG] instead.
+For a list of supported languages in osu!wiki, see [the locales section in the Article Style Guide][ASG locales].
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
 
@@ -169,7 +170,7 @@ Reference: [GitHub Help on Managing files in a repository][GH Help manage repo]
 
 _Note: Each article is grouped into folders where they contain markdown files arranged by language and their media.
 All article pages inside these folders must use the two letter language codes.
-To know which language code to use, see the [List of ISO 639-1 codes][ISO 639-1] following the ``639-1`` column.
+To know which language code to use, see the [the locales section in the Article Style Guide][ASG locales].
 Please follow this format when creating a new article._
 
 ##### Add a file
@@ -180,7 +181,7 @@ If you cannot find your language code inside the folder, click on the "Create ne
 
 You will be given an empty file with no filename given, as shown above.
 
-Name the file in accordance to two letter [ISO 639-1 codes][ISO 639-1] of your language, following the ``639-1`` column, with an ``.md`` file extension at the end, all in lowercase.
+Name the file in accordance to [the locales section in the Article Style Guide][ASG locales] of your language with an ``.md`` file extension at the end; all in lowercase.
 For example, if you are writing in Japanese, then name it as ``jp.md``.
 
 Write on the empty file content.
@@ -190,7 +191,7 @@ After making your changes, scroll down to _[Commit Changes][Commit Changes]_ and
 ##### Add a directory (folder)
 
 To add a directory, prepare a properly named folder with at least a filled file inside and nothing else.
-The file must follow the naming convention of [ISO 639-1 codes][ISO 639-1]
+The file must follow the naming convention of [the locales section in the Article Style Guide][ASG locales]
 
 Navigate to the proper filepath to put the directory in.
 Then, click on the "Upload files" button.
