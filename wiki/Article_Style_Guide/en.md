@@ -568,6 +568,8 @@ Images are automatically given captions if they fulfill these rules:
 
 The syntax for captions are the same as normal Markdown images.
 
+Image captions must be plain text and never contain style or link markup.
+
 #### Image Links
 
 **Images are never to be given links!**
