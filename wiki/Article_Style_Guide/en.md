@@ -38,7 +38,7 @@ If your language isn't listed below, open an issue in the [`osu-web` repository]
 | `tl.md` | Tagalog | Tagalog |
 | `zh.md` | Chinese (Simplified) | 中文 |
 | `zh-hk.md` | Chinese (Traditional) | 粤语 |
-| `zh-tw.md` | Chinese (Taiwan, Traditional) | 中文(繁體) |
+| `zh-tw.md` | Chinese (Taiwan, Traditional) | 繁體中文 |
 
 ### Folder Names
 
