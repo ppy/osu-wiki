@@ -49,8 +49,18 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Round of 16
 
-### Sunday, 11. June 2017
+### Sunday, 18. June 2017
 
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **10.00 UTC** | 19.00 UTC +9 | 18.00 UTC +8 |
+| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **13.00 UTC** | 20.00 UTC +7 | 15.00 UTC +2 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
+| Romania | ![](/wiki/shared/flag/Ro.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 22.00 UTC +3 | 15.00 UTC -4 |
+| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **20.00 UTC** | 15.00 UTC -5 | 22.00 UTC +2 |
 
 ------------------------------------------------------------------------
 
