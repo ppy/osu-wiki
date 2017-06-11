@@ -426,6 +426,8 @@ Internal links are the links linking within the osu!wiki.
 Do not use the word `here` as the link text.
 Instead, take the title of the page the link is linking to or use a general description.
 
+##### Redirects
+
 All internal links are to use redirects.
 To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file.
 The link part that you want is on the left while the designation to those link parts are on the right.
@@ -438,13 +440,13 @@ Then make the link like you normally would, but instead of using the directory p
 - `[OWC2015](/wiki/OWC2015)`
 - `[skinning tutorial](/wiki/skinning_tutorial)`
 
-##### Why are we using redirects instead of paths?
+Here are some differences between redirect pathing and normal pathing:
 
+- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
 - Redirects allows you to type in a short form of a folder rather than getting the entire path.
   - Which one would you use? (Hint: You would probably pick the second option.)
     1. `[OWC 2015](/wiki/Tournaments/OWC/2015)`
     2. `[OWC 2015](/wiki/OWC_2015)`
-- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
 - Redirects are quicker in most situations.
   - Which one would you use? (Hint: You would probably pick the second option.)
     1. `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)`
