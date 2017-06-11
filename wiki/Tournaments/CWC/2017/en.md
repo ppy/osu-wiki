@@ -49,18 +49,18 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Round of 16
 
-### Sunday, 11. June 2017
+### Sunday, 18. June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **10.00 UTC** | 18.00 UTC +8 | 19.00 UTC +9 |
-| Poland | ![](/wiki/shared/flag/Pl.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Ro.gif) | Romania | **12.00 UTC** | 19.00 UTC +7 | 15.00 UTC +3 |
-| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **13.00 UTC** | 21.00 UTC +8 | 10.00 UTC -3 |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **14.00 UTC** | 23.00 UTC +9 | 9.00 UTC -5 |
-| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **17.00 UTC** | 13.00 UTC -4 | 19.00 UTC +2 |
-| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Gb.gif) | United Kingdom | **18.00 UTC** | 20.00 UTC +2 | 19.00 UTC +1 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **19.00 UTC** | 21.00 UTC +2 | 15.00 UTC -4 |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **10.00 UTC** | 19.00 UTC +9 | 18.00 UTC +8 |
+| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 |
+| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **13.00 UTC** | 20.00 UTC +7 | 15.00 UTC +2 |
+| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
+| Romania | ![](/wiki/shared/flag/Ro.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 22.00 UTC +3 | 15.00 UTC -4 |
+| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **20.00 UTC** | 15.00 UTC -5 | 22.00 UTC +2 |
 
 ------------------------------------------------------------------------
 
@@ -182,9 +182,57 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | --- | :--- |
 | [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan)](http://osu.ppy.sh/b/1035785&m=2) | [Stellar] |
 
+## Quarterfinals
+
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [dj MAX STEROID - Arabian Rave Night (Ascendance)](http://osu.ppy.sh/b/1254591&m=2) | [Black Another] |
+| [An - Catanoph (Lavender)](http://osu.ppy.sh/b/1175369&m=2) | [exam's Overdose] |
+| [Kawada Mami - Break a spell (wairo)](http://osu.ppy.sh/b/1179665&m=2) | [Furely's Overdose] |
+| [a_hisa - inertia (Kyuare)](http://osu.ppy.sh/b/1255531&m=2) | [Overdose] |
+| [Delain - Go Away (pishifat)](http://osu.ppy.sh/b/1016263&m=2) | [Extra] |
+| [AKI AKANE - Kando*Reduction (Milan-)](http://osu.ppy.sh/b/598867&m=2) | [Pho's Elimination] |
+
+| Hidden | |
+| --- | :--- |
+| [IOSYS - RE:Usatei (Spectator)](http://osu.ppy.sh/b/1037258&m=2) | [Spec's CTB] |
+| [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion)](http://osu.ppy.sh/b/1009520&m=2) | [Radiance] |
+| [SHK - Holic (ktgster)](http://osu.ppy.sh/b/827223&m=2) | [SHD] |
+
+| HardRock | |
+| --- | :--- |
+| [Miyano Mamoru - Canon (F D Flourite)](http://osu.ppy.sh/b/1071405&m=2) | [AscenDFlourite's Rain] |
+| [penoreri - Preserved Valkyria (rew0825)](http://osu.ppy.sh/b/1261626&m=2) | [Equality] |
+| [Kotoge Mai - Mangekyou (Oracle)](http://osu.ppy.sh/b/535334&m=2) | [cRyo's Insane] |
+
+| DoubleTime | |
+| --- | :--- |
+| [Mili - Rosetta (P i k u)](http://osu.ppy.sh/b/893353&m=2) | [Rose] |
+| [nmk - sola (-Sh1n1-)](http://osu.ppy.sh/b/1274343&m=2) | [MBomb's Platter] |
+| [Nishino Kana - Darling (Giralda)](http://osu.ppy.sh/b/493755&m=2) | [Insane] |
+
+| Tiebreaker | |
+| --- | :--- |
+| [Camellia - Exit This Earth's Atomosphere (Yumeno Himiko)](http://osu.ppy.sh/b/1213636&m=2) | [Vision] |
+
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+| Sunday, 11. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 0 | 5 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33780827) |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 1 | 5 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33781746) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 5 | 0 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33782639) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 5 | 0 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://osu.ppy.sh/community/matches/33783706) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 5 | 0 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33785035) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 4 | 5 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33788679) |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 5 | 2 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33790093) |
+| Germany ![](/wiki/shared/flag/De.gif) | 1 | 5 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33791464) |
 
 ### Group Stage
 
@@ -328,8 +376,8 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Stage | Match ID |
 | -----: | -------- |
 | Round of 16 |  A, B, C, D, E, F, G, H |
-| Quarter-finals | I, J, K, L & R, S, T, U |
-| Semi-finals | M, N & V, W, X, Y, Z, AA |
+| Quarterfinals | I, J, K, L & R, S, T, U |
+| Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals - Week 1 | O & AB, AC, AD, AE |
 | Finals - Week 2 | P, Q |
 
