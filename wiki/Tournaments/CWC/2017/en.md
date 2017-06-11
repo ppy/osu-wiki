@@ -211,6 +211,19 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+### Round of 16
+
+| Sunday, 11. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Hong Kong ![](/wiki/shared/flag/Hk.gif) | 0 | 5 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33780827) |
+| Poland ![](/wiki/shared/flag/Pl.gif) | 1 | 5 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33781746) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 5 | 0 | ![](/wiki/shared/flag/Ro.gif) Romania | [#1](https://osu.ppy.sh/community/matches/33782639) |
+| Taiwan ![](/wiki/shared/flag/Tw.gif) | 5 | 0 | ![](/wiki/shared/flag/Ar.gif) Argentina | [#1](https://osu.ppy.sh/community/matches/33783706) |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 5 | 0 | ![](/wiki/shared/flag/Mx.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/33785035) |
+| Chile ![](/wiki/shared/flag/Cl.gif) | 4 | 5 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33788679) |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 5 | 2 | ![](/wiki/shared/flag/Gb.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33790093) |
+| Germany ![](/wiki/shared/flag/De.gif) | 1 | 5 | ![](/wiki/shared/flag/Us.gif) United States | [#1](https://osu.ppy.sh/community/matches/33791464) |
+
 ### Group Stage
 
 | Saturday, 03. June 2017 | | | | |
