@@ -13,15 +13,11 @@ _For a list of keyboard shortcuts for the timeline, see [shortcut key reference]
 
 The song player is visible in any part of the beatmap editor.
 
-### Left
-
 On the left, there is the timestamp in milliseconds and the song duration percentage.
-The percentage may display "intro" or "outro" if there is storyboarding before or after the song.
-
-### Centre
+The percentage may display `intro` or `outro` if there is storyboarding before or after the song.
 
 In the centre, it shows the timeline with markings and the compulsory music player buttons.
-The "Test" button will save your beatmap then will start play-testing it starting from the current timestamp.
+The `Test` button will save your beatmap then will start play-testing it starting from the current timestamp.
 
 The timeline itself uses a few tick marks that have various meanings.
 
@@ -36,8 +32,6 @@ The timeline itself uses a few tick marks that have various meanings.
 | Grey (highlight) | Break time |
 | Orange (highlight) | Kiai time |
 
-### Right
-
 On the right, you can adjust the playback rate from `100%`, to `75%`, `50%`, or `25%`.
 
 ## Hit Objects
@@ -48,7 +42,7 @@ There are two different kinds of hit objects timelines depending on which game m
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-In compose mode, this timeline is underneath the [Compose](/wiki/Compose) tab for any game mode except for [osu!mania](wiki/osu!mania).
+In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](wiki/osu!mania).
 
 | Name | Description |
 | ---- | ----------- |
@@ -65,7 +59,7 @@ Right clicking will remove the selected hit objects.
 
 In compose mode, this timeline is in the centre of the playfield for osu!mania mode.
 
-The box on the left is a horizontal bar char that displays the note intensity.
+The box on the left is a horizontal bar chart that displays the note intensity.
 This acts like a timeline.
 
 In the centre is the actual playfield.
@@ -86,7 +80,7 @@ The playfield is made up of two parts: lines and notes.
 
 ![Storyboard Timeline](/wiki/shared/SE_STM.jpg "This shows the timeline for transformations of the selected sprite.")
 
-The design timeline is located underneath the [Design](/wiki/design) tab.
+The [design](/wiki/design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
@@ -124,7 +118,14 @@ The timing timeline is located underneath the [Timing](/wiki/Timing) tab.
 | `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
 
 In the centre is the timing timeline itself.
-It uses white and blue flags to describe what type of timing point they are; described in the next section.
+It uses white and blue flags to describe what type of timing point they are; described in the [flag colours](#flag-colours) section.
+
+On the right, it shows the time signature script (known as a "meter") and metronome set.
+In the image above, the meter is at `4:2`.
+This means that the current timestamp is at the second beat of the fourth measure of the song.
+
+The metronome set plays a constant tick sound at the given BPM.
+This doubles as a helper to estimate the BPM value of the song.
 
 ### Flag Colours
 
@@ -132,10 +133,3 @@ It uses white and blue flags to describe what type of timing point they are; des
 | ------ | ----------- |
 | White | Timing Points. Use new BPM value. (Red on Song Timeline) |
 | Blue | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |
-
-At right, it shows the time signature script (known as a "meter") and metronome set.
-In the image above, the meter is at `4:2`.
-This means that the current timestamp is at the second beat of the fourth measure of the song.
-
-The metronome set plays a constant tick sound at the given BPM.
-This doubles as a helper to estimate the BPM value of the song.
