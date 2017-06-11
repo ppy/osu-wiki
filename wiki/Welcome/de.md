@@ -1,6 +1,8 @@
 # Willkommen
 
-Zuallererst möchten wir dich herzlichst empfangen und eine Umarmung für die Teilnahme an unserer Community geben. Lass uns erst ein paar Dinge durchgehen, bevor wir mit der Reise beginnen. ![osu!](osu-boxart.png "osu!")
+![osu!](osu-boxart.png "osu!")
+
+Zuallererst möchten wir dich herzlichst empfangen und eine Umarmung für die Teilnahme an unserer Community geben. Lass uns erst ein paar Dinge durchgehen, bevor wir mit der Reise beginnen. 
 
 ## Das Tutorial
 
@@ -94,7 +96,7 @@ Achievements sind kleine Abzeichen im Profil, wenn außergewöhnliche Ziele erre
 
 Die Grundlagen zur Bedingung der [Chat Konsole](/wiki/Chat_Console/ "Chat Konsole") ist all denen wichtig, die daran interessiert sind neue Freundschaften in unserer freundlichen Umgebung zu schließen. Es ist auch noch wichtig zu verstehen, wie man es bei gewissen Fällen anwendet, wenn jemand dir Nachrichten schickt, Tipps erzählt oder nach Hilfe fragt. Unten rechts gibt's einen Knopf mit der Aufschrift `Show Chat`, wodurch sich das Chat öffnen lässt. Es ginge jedoch schneller, wenn Sie stattdesen die F8 Taste verwenden. Ihnen werden dann mehrere Chats, wie z. B. `#osu!`, `#announce`, `#userlog` und möglicherweise ein weiteres Fenster mit dem Namen des Spielers mit dem man sich gerade unterhaltet. Ungeachtet davon, unterlassen es bitte zu spammen (kontinuierlich sehr kurze Nachrichten in den Chat einzugeben), ansonsten kann es passieren, dass der Account für ein paar Minuten automatisch stummgeschaltet wird und all deine, bis dahin gesendeten Nachrichten, werden aus allen Chats entfernt. Du kannst durch das Drücken der `F9` Taste zur Benutzerliste gelangen (auch genannt als `erweiterte Chat Console`) und mit Hilfe des Filters die Suche beeinschränken.
 
-![Freundesliste](/Chat_Console_friendlist.png "Freundesliste")
+![Freundesliste](DE-Friend-list.jpg "Freundesliste")
 
 Dies waren die Grundlagen, scheue dich nicht davor nach Hilfe im Spiel oder im Forum zu bitten, das osu!wiki sollen dir auch beim Verständnis des Spieles behilflich sein.
 
@@ -110,6 +112,6 @@ Dies waren die Grundlagen, scheue dich nicht davor nach Hilfe im Spiel oder im F
 -   [Beatmap Packs](http://osu.ppy.sh/p/packlist "Beatmap Packs") - holen dir gebrauchsfertige Pakete aus Beatmaps für bestimmte Themen.
 -   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist "Beatmap Listing") - lade Beatmaps (Lieder) zum Spielen herunter.
 -   [Häufig gestellte Fragen](/wiki/FAQ/ "Häufig gestellte Fragen") - finde die Grundlagen vom Spiel heraus.
--   [osu!academy](osu!academy/ "osu!academy") - Videos, die dir dabei helfen soll, sich an allen Aspekten von *osu!* zu gewöhnen.
--   [Glossary][/wiki/Glossary/ "Glossary"] - Eigne dir das einzigartige *osu!* Vokabular an.
--   [Tipps und Tricks für Anfänger][/wiki/Beginner/ "Beginner"] - Du brauchst Hilfe? Dann lies hier weiter!
+-   [osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") - Videos, die dir dabei helfen soll, sich an allen Aspekten von *osu!* zu gewöhnen.
+-   [Glossary](/wiki/Glossary/ "Glossary") - Eigne dir das einzigartige *osu!* Vokabular an.
+-   [Tipps und Tricks für Anfänger](/wiki/Beginner/ "Beginner") - Du brauchst Hilfe? Dann lies hier weiter!
