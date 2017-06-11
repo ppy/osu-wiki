@@ -574,10 +574,11 @@ Image captions must be plain text and never contain style or link markup.
 
 #### Image Links
 
-**Images are never to be given links!**
-On a PC platform, they will work most of the time.
+Do not use image links!
+Image links are links with the image as the link text.
 
-However, on mobile, they will not work as the pointer event will trigger the hover text, not the link.
+On a PC platform, they will work.
+However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
 
 #### Flag icons
 
