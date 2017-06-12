@@ -144,7 +144,7 @@ _See also: [Game Modifiers](/wiki/Game_Modifiers)._
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
 - `F3` or `F4`: Adjust speed for osu!mania (only works near the beginning of playing)
-- `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the cut-scene upon retry)
+- `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the intro upon retry)
 
 ## Beatmap Editor
 
@@ -166,10 +166,10 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `L`: Revert to saved
 - `Ctrl` + `S`: Quick save
 - `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
-- `F1`: Compose mode
-- `F2`: Design mode
-- `F3`: Timing mode
-- `F4`: Song setup
+- `F1`: Switch to [compose](/wiki/Compose) mode
+- `F2`: Switch to [design](/wiki/Design) mode
+- `F3`: Switch to [timing](/wiki/Timing) mode
+- `F4`: Open the [song setup](/wiki/Song_Setup) (opens a dialog)
 
 ### Compose
 
@@ -183,7 +183,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Shift` + `Ctrl` + `Right`: Move selected notes right by 1 coordinate
 - `1`, `2`, `3`, or `4`: Switch between objects
 - `Q`, `W`, `E`, `R`, or `L`: Toggle object settings and modes
-- `Del`: Remove selected notes
+- `Delete`: Remove selected notes
 - `Ctrl` + `Z`: Undo
 - `Ctrl` + `Y`: Redo
 - `Ctrl` + `A`: Select all notes
