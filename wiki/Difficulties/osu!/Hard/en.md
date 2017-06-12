@@ -1,16 +1,18 @@
 Hard
-========
+====
+
+*[Click here to return to the main page](/wiki/Difficulties/osu!).*
 
 Summary
 -------
 
-Hard difficulties are considered the second most difficult in the general of 4 difficulty mapset. This difficulty level between normal and hard difficulty is considered enormous and is considered by many one of the hardest learning curves.
+Hard difficulties are considered the second most difficult in the general of a 4 difficulty mapset. The difficulty curve from normal to hard difficulties is considered enormous and is one of the hardest learning curves.
 
-These maps generally have a higher [Approach Rate](/wiki/Beatmap_Edtior/Song_Setup), [HP Drain](/wiki/Beatmap_Edtior/Song_Setup) rate and [Overall Difficulty](/wiki/Beatmap_Edtior/Song_Setup) compared with [Normal](/wiki/Difficulties/osu!/Normal) difficulties. More complex/difficult patterns also appear in this difficulty such as short [streams](/wiki/Mapping_Techniques/Rhythm) and [jumps](/wiki/Mapping_Techniques/Jump). Depending on the mapper's ability and the song used, this name will be used instead of Insane, based on mapper's relative comparison on testplay results.
+These maps generally have a higher [Approach Rate (AR)](/wiki/Beatmap_Edtior/Song_Setup), HP drain rate (HP) and Overall Difficulty (OD) compared with the [Normal](/wiki/Difficulties/osu!/Normal) difficulty. More complex/difficult patterns also appear in this difficulty such as short [streams](/wiki/Mapping_Techniques/Rhythm) and [jumps](/wiki/Mapping_Techniques/Jump). Depending on the mapper's ability and the song used, this name will be used instead of Insane, based on mapper's relative comparison on testplay results.
 
 If your map has a Hard difficulty you should try to keep the map considerably easier than the Insane (avoid big jumps and fast/long streams).
 
-A commonly used technique to map Hards for faster songs is a simple pattern of 1/1 Sliders and 1/2 Circles between them (sometimes left out to create small pauses from the speed, especially when played with DoubleTime).
+A commonly used technique to map a Hard for a faster song is a simple pattern of 1/1 sliders and 1/2 circles between them (sometimes left out to create small pauses from the speed, especially when played with [Double Time](/wiki/Game_Modifiers/#double-time)).
 
 Try to not create a huge gap between your Hard and Insane difficulty, it might unbalance your entire mapset.
 
@@ -24,18 +26,18 @@ Difficulty setup should include a BPM appropriate slider velocity that captures 
 And try to avoid these:
 
 -   extremely long streams
--   fullscreen jump patterns ([Jumps](/wiki/Mapping_Techniques/Jump) that are wide as the screen)
+-   fullscreen jump patterns (Jumps that are wide as the screen)
 
 Setup
 -----
 
 An ideal setup for a Hard difficulty would be:
 
--   HP Drain: 6+
--   Circle Size: 4 or 5
--   Approach rate: 6+
--   Overall Difficulty: 6+
+-   `HP Drain (HP)`: 6+
+-   `Circle Size (CS)`: 4 or 5
+-   `Approach Rate (AR)`: 6+
+-   `Overall Difficulty (OD)`: 6+
 
 ![Typical difficulty settings for Hard.](Hardsetup.png "Typical difficulty settings for Hard.")
 
-These are just **ideas of how the difficulty settings will be like - set it to how you find fit!**
+These are just **ideas of how the difficulty settings could be - set it to how you find fit!**
