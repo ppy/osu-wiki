@@ -5,7 +5,11 @@
 
 # Contests
 
+Section dedicated for Contests.
+
 ## Official Beatmapping Contests
+
+Official beatmapping contests hosted by the osu!staff.
 
 ### Monthly Beatmapping Contest
 
@@ -117,6 +121,8 @@ Notes:
 - [Offical post](https://osu.ppy.sh/forum/t/448842)
 
 ## Community Contests
+
+Unofficial beatmapping contests hosted by the communities.
 
 ### Pending Cup
 
