@@ -80,8 +80,6 @@ Amint megnyitod a fájlt, elindul az osu! (esetleg frissít is). Az elérhető b
 
 Meg is vagyunk! Most már készen állsz, hogy te legyél a következő osu! bajnok! Ha bármilyen problémába ütközöl, nyugodtan kérj segítséget a fórumon, vagy a játékon belül (lenyomva az F8 gombot a chat panelhez és a \#help-et választva (a magyar közösség csatornája a \#hungarian).
 
-**SOK SZERENCSÉT ÉS JÓ SZÓRAKOZÁST!**
-
 ## Játékmódok
 
 ### Egyjátékos (Solo)
