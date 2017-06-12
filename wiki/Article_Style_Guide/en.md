@@ -69,7 +69,7 @@ These rules are to be followed for all articles.
 
 ### GFM
 
-GFM (GitHub Flavored Markdown) is the supported markup language used in the osu!wiki.
+Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu!wiki.
 
 GFM has a small amount of markup that **anyone** can learn in about 3 minutes!
 However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
@@ -89,65 +89,12 @@ Instead, bold the words you are trying to emphasize.
 #### Bold
 
 Use bold when you need to caution or note something's importance.
-There are two markup styles for bold:
-
-- double asterisk (`**`)
-- double underscore (`__`)
-
-The one you use does not matter.
-
-**Examples:**
-
-```
-**Improperly timed beatmaps will have your map ignored!**
-Do __not__ contact peppy for in-game issues!
-When skinning, it is **really important** to have original and/or creative ideas.
-```
 
 #### Italics
 
 Use italics only when naming a video game or the name of a work.
-There are two markup styles for italics:
-
-- single asterisk (`*`)
-- single underscore (`_`)
-
-The one you use does not matter.
-
-**Examples:**
-
-```
-_Elite Beat Agents_
-_Taiko no Tatsujin_
-*Dance Dance Revolution*
-*osu!*
-```
 
 ### Headings
-
-There are two markup styles for headings:
-
-```
-title of page
-=============
-
-heading level 2
----------------
-
-### heading level 3
-```
-
-or
-
-```
-# title of page
-
-## heading level 2
-
-### heading level 3
-```
-
-The one you use does not matter.
 
 **Notes:**
 
@@ -216,204 +163,48 @@ Please limit to 4 indentations.
 #### Bulleted
 
 Use bulleted lists when the order of the list does not matter.
-
-There are three markup styles for bulleted lists:
-
-- hyphen (`-`)
-- plus sign (`+`)
-- asterisk (`*`)
-
 It is prefered to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
-
-**Examples:**
-
-```
-Game Modifiers:
-
-- Difficulty Reduction
-  - Easy
-  - No Fail
-  - Half Time
-  - Daycore
-```
 
 #### Numbered
 
 Use numbered lists when the order of the list does matter.
-
-There is only one markup style for numbered lists:
-
-- numbers followed by a period (e.g. `1.`, `2.`, `3.`, etc.)
-
 Incrementing the numbers is optional but preferred.
-
-**Examples:**
-
-```
-How to open the osu!client:
-
-1. Find the `osu.exe` file.
-   1. Open the start menu.
-   2. Type `osu` in the search bar.
-   3. Click on it.
-3. You have opened the osu!client; have fun!
-```
 
 #### Mixed
 
 You can also combine both bulleted and numbered lists.
-
-**Examples:**
-
-```
-How to write a meaningful commit message:
-
-1. Do stuff on your fork.
-   - This can be a range of things from small grammar fixes to rewriting an entire article.
-2. Stage the modified files.
-   - Your milage may vary depending if you are using a client or a third party application.
-3. Write the commit message.
-   - There are two parts:
-     1. Summary
-        - This should be short but explain what you did under 72 characters.
-        - You can also mention contributors, issues, or pull request numbers.
-     2. Message
-        - This should be longer than the summary and can have multiple lines, if needed.
-        - You can also mention contributors, issues, or pull request numbers.
-4. Push to GitHub.
-```
 
 ### Code
 
 The markup for code is a grave mark (`` ` ``).
 To put a grave mark in code, surround it in double grave marks, padded with 1 space.
 
-**Examples:**
+Use code for the following scenarios:
 
-```
-Press `Z` and/or `X` to tap.
-Press `` ` `` to quick retry a map.
-```
-
-For the following scenarios, use code.
-
-#### Keyboard Keys
-
-When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
-
-**Examples:**
-
-- `` `.` ``
-- `` `Alt` ``
-- `` `Ctrl` + `Shift` + `A` ``
-
-#### Button or Menu Text
-
-When copying the text from a menu or button, copy the letter casing as-is.
-
-**Examples:**
-
-- `` Click `File` then `Save As...` ``
-- `` `1. Let's do it.` ``
-- `` `4. Noooo! I didn't mean to!` ``
-
-#### Folder Names
-
-When copying the name of a folder, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `Exports` ``
-- `` `Downloads` ``
-
-#### Directory Names
-
-When copying the path of a directory, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `Downloads/` ``
-- `` `Skins/User/` ``
-
-#### Keywords or Commands
-
-When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
-
-**Examples:**
-
-- `` `ComboBurstStyle` ``
-- `` `[Events]` ``
-- `` `git --help` ``
-
-#### File Names
-
-When copying the name of a file, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `osu.exe` ``
-- `` `screenshot001.jpg` ``
-- `` `Opsu-android0.15.0b.apk` ``
-
-#### File Extensions
-
-When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
-
-**Examples:**
-
-- `` `.jpg` ``
-- `` `.exe` ``
-- `` `.osz` ``
-
-#### Chat Channels
-
-When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
-
-**Examples:**
-
-- `` `#lobby` ``
-- `` `#osu` ``
+- Keyboard Keys
+  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
+- Button or Menu Text
+  - When copying the text from a menu or button, copy the letter casing as-is.
+- Folder Names
+  - When copying the name of a folder, copy the letter casing as-is.
+- Directory Names
+  - When copying the path of a directory, copy the letter casing as-is.
+- Keywords or Commands
+  - When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
+- File Names
+  - When copying the name of a file, copy the letter casing as-is.
+- File Extensions
+  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
+- Chat Channels
+  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 
 ### Code Blocks
-
-There are two markup styles for code blocks:
-
-- triple grave marks (` ``` `)
-- four prefixed spaces
 
 It is prefered to use the triple grave marks instead of the four prefixed spaces.
 
 Code blocks do not use syntax highlighting in the osu!wiki.
 
-**Examples:**
-
-````
-skin.ini example:
-```
-[General]
-Name: osu!lazer
-Author: ppy
-Version: 2.5
-```
-````
-
 ### Links
-
-There are two markup styles for links:
-
-```
-inline:
-
-[example](https://example.com/)
-
----
-
-reference:
-
-[wikilink-welcome]: /wiki/Welcome
-
-[example][wikilink-welcome]
-```
 
 You can use either the reference or inline style links.
 
@@ -599,15 +390,6 @@ When adding a flag inline, use this format:
 ### Tables
 
 Tables use the GFM syntax.
-
-**Example:**
-
-```
-| Heading A | Heading B |
-|-----------|-----------|
-| Data A1   | Data B1   |
-| Data A2   | Data B2   |
-```
 
 If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
