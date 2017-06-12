@@ -4,7 +4,7 @@
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
 [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
 
-[beatmap wikilik]: /wiki/Beatmaps "Beatmaps"
+[beatmap wikilink]: /wiki/Beatmaps "Beatmaps"
 [pp wikilink]: /wiki/Performance_Points "Performance Points"
 [Score wikilink]: /wiki/Score "Score"
 
@@ -14,7 +14,7 @@
 
 There are three types of accuracy:-
 
-- per [beatmap][beatmap wikilik]'s accuracy,
+- per [beatmap][beatmap wikilink]'s accuracy,
 - one's overall accuracy, and
 - [Performance Points (pp)][pp wikilink]'s accuracy.
 
@@ -34,15 +34,15 @@ In [osu!standard][osu! wikilink], accuracy is calculated by weighting the judgem
 In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
 Term | Formula
-:---:|:---
-**Total points of hits**   | Number of 50s * 50 + Number of 100s * 100 + Number of 300s * 300
+:---:|:---:
+**Total points of hits**   | Number of 50s \* 50 + Number of 100s \* 100 + Number of 300s \* 300
 **Total number of hits**   | Number of misses + Number of 50's + Number of 100's + Number of 300's
 
 For reference:
--  300 = 6/6,
--  100 = 2/6,
--   50 = 1/6,
-- Miss = 0/6.
+-  300 = 6/6(100%),
+-  100 = 2/6(33.33%),
+-   50 = 1/6(16.66%),
+- Miss = 0/6(0%).
 
 ### osu!taiko
 
@@ -53,8 +53,8 @@ Drumrolls and spinners do not influence the accuracy.
 In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
 Term | Formula
-:---:|:---
-**Total points of hits** | ((Number of Miss * 0) + (Number of 100(GOOD) * 0.5) + (Number of 300(GREAT) * 1)) * 300
+:---:|:---:
+**Total points of hits** | ((Number of Miss \* 0) + (Number of 100(GOOD) \* 0.5) + (Number of 300(GREAT) \* 1)) \* 300
 **Total number of hits** | Number of Miss + Number of 100 + Number of 300
 
 ### osu!catch
@@ -64,7 +64,7 @@ In [osu!catch][osu!catch wikilink], the song accuracy is calculated as the numbe
 In other words: `Accuracy = Total numbers of fruits caught / Total number of fruits`
 
 Term | Formula
-:---:|:---
+:---:|:---:
 **Total numbers of fruits caught** | Number of droplets + Number of drops + Number of fruits
 **Total numbers of fruits**        | Number of misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits
 
@@ -80,7 +80,7 @@ In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
 Term | Formula
 :---:|:---
-**Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
+**Total points of hits** | (Number of 50s \* 50 + Number of 100s \* 100 + Number of 200s \* 200 + Number of 300s \* 300 + Number of rainbow 300s \* 300)
 **Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
 
 Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.

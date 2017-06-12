@@ -1,307 +1,443 @@
 # Options
 
-Click **Options** or press **O** in the Intro Screen to access the Options sidebar and change the way osu! behaves.
+![Options menu](img/options_basic.jpg "Options menu (sidebar on left)")
 
-Type on it to search what you want to change. The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
+Click `Options`, press `O` in the Intro Screen or press `Ctrl` + `O` in almost any screen to access the Options sidebar and change the way _osu!_ behaves.
 
-To find the build of your osu!, scroll down to the lowest part of the sidebar (or just click the Maintenance icon at the lower-left of sidebar). Clicking on it will direct you to the Release Notes by your preferred browser.
+From here, type anywhere to search what you want to change.
+The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
 
--   b(YYYY)(MM)(DD).(revision) = Stable Build.
-    -   So, b20140323.3 means Stable Build as of 23rd of March 2014, third revision.
--   b(YYYY)(MM)(DD).(revision)(BuildType) = Test Build.
-    -   So, b20151113.8cuttingedge means Cutting Edge Build as of 13th of November 2015, eighth revision.
+When you change a setting that contained a default value, the gray vertical bar on the left will glow yellow.
+Clicking on this will reset the value back to its default value.
 
-## General section
+## General
+
+![General icon](img/general.jpg "General icon")
+
+This section is about your account, langauge settings, and what updates you want your osu!client to receive.
 
 ### Sign In
 
-#### Guest
+If you are not signed into the osu!client, the game will automatically open the options menu, prompting you to sign in.
+You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen.
+By not signing in, the osu!client will mark you as a "Guest" and you will not be able to fetch online scores or play [Multi](wiki/Multi).
 
-| Name              | Effect                                     |
-|-------------------|--------------------------------------------|
-| Username          | Enter a registered osu! username here.     |
-| Password          | Password for the registered osu! username. |
-| Remember Username | Have the client remember the username.     |
-| Remember Password | Have the client remember the password.     |
+If you are a guest, you will see these options:
 
-Click on **Sign in** to to log-in or click on **Create an account** if you do not have the account. Once you have successfully logged-in, your username will display. Clicking on it will display the following:
+| Name              | Effect                                                                                           | Type     | Default   |
+|-------------------|--------------------------------------------------------------------------------------------------|----------|-----------|
+| Username          | Type in your registered _osu!_ username.                                                         | Text     | _(Empty)_ |
+| Password          | Type in your password associated with your _osu!_ username.                                      | Text     | _(Empty)_ |
+| Remember Username | If checked, this osu!client will remember the username.                                          | Checkbox | `Enabled` |
+| Remember Password | If checked, Have the client remember the password.                                               | Checkbox | `Enabled` |
+| Sign In           | Start signing yourself in. You can also press `Enter` in the username or password forms.         | Button   |           |
+| Create an account | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button   |           |
 
-| Name          | Effect                            |
-|---------------|-----------------------------------|
-| View Profile  | View profile on the osu! website. |
-| Sign Out      | Sign out of account.              |
-| Change Avatar | Change user's profile picture.    |
-| Close         | Close the dialog.                 |
+---
+
+If you are signed in, you will see:
+
+| Name                    | Effect                                      | Type   |
+|-------------------------|---------------------------------------------|--------|
+| Logged in as {username} | Display a dialog with 4 buttons, see below. | Button |
+
+---
+
+If you click on the "Logged in as ..." prompt, it will display a dialog:
+
+| Name                    | Effect                                                                         | Type   |
+|-------------------------|--------------------------------------------------------------------------------|--------|
+| View Profile            | View your profile on the osu!website.                                          | Button |
+| Sign Out                | Sign out from this osu!client.                                                 | Button |
+| Change Avatar           | Change your user's profile picture (you will be redirected to the osu!website. | Button |
+| Close                   | Close this dialog. You can also press `Esc`.                                   | Button |
+
+You can also access this by clicking on your player card where available.
 
 ### Language
 
-| Name                                  | Effect                                                                  |
-|---------------------------------------|-------------------------------------------------------------------------|
-| Select language                       | Select preferred language.                                              |
-| Prefer metadata in original language  | Beatmaps will display their "original" untranslated metadata.           |
-| Use alternative font for chat display | Use old font (Tahoma) rather than current font (Aller) in Chat Console. |
+| Name                                  | Effect                                                                          | Type     | Default  |
+|---------------------------------------|---------------------------------------------------------------------------------|----------|----------|
+| Select language                       | Display a list of languages. You can then click on your preferred language.     | Dropdown |          |
+| Prefer metadata in original language  | Beatmaps will display their "original" untranslated metadata, if applicable.    | Checkbox | Disabled |
+| Use alternative font for chat display | Uses the old font (Tahoma) instead of the current font (Aller) in Chat Console. | Checkbox | Disabled |
 
 ### Updates
 
-#### Release Stream
+| Name                | Effect                                                                    | Type     | Default           |
+|---------------------|---------------------------------------------------------------------------|----------|-------------------|
+| Release stream      | Display a list of builds that you want to use. See below for details.     | Dropdown | `Stable (Latest)` |
+| osu! is up-to-date! | Force the osu!client to check for updates again and download them if any. | Button   |                   |
+| Open osu! folder    | Opens the local _osu!_ folder (this contains your skins, beatmaps, etc.). | Button   |                   |
 
-| Name                        | Effect                                                                           |
-|-----------------------------|----------------------------------------------------------------------------------|
-| Stable (Latest)             | Public release build.                                                            |
-| Stable (Fallback)           | "Backup" public build for those experiencing issues.                             |
-| Beta                        | Development version - gets new features early, but buggier.                      |
-| Cutting Edge (Experimental) | Development version - gets new features even earlier, but significantly buggier. |
+---
 
-#### Other
+If you open the dropdown list for `Release stream`, you will be presented with these options:
 
-| Name               | Effect                                                    |
-|--------------------|-----------------------------------------------------------|
-| osu! is up-to-date | Clicking this will force osu! to check for updates again. |
-| Open osu! folder   | Open local osu! folder (contains skins, beatmaps, etc).   |
+| Name                        | Effect                                                                 |
+|-----------------------------|------------------------------------------------------------------------|
+| Stable (Latest)             | Public release build.                                                  |
+| Stable (Fallback)           | "Backup" public build for those experiencing issues.                   |
+| Beta                        | Dev build - gets new features early, but buggier.                      |
+| Cutting Edge (Experimental) | Dev build - gets new features even earlier, but significantly buggier. |
 
-## Graphics section
+## Graphics
+
+![Graphics icon](img/graphics.jpg "Graphics icon")
+
+This section is about the appearance of your osu!client and parts of the interface.
 
 ### Renderer
 
-| Name                      | Effect                                                                                   |
-|---------------------------|------------------------------------------------------------------------------------------|
-| Frame Limiter             | Change the frame rate limit to VSync, 120fps (Default), 240fps, or Unlimited (gameplay). |
-| Show FPS Counter          | Display the FPS counter at the bottom-right corner of the screen.                        |
-| Compatibility Mode        | Make osu!'s renderer compatible with older operating systems.                            |
-| Reduce dropped frames     | Adjusts graphical settings to decrease dropped/stuttered frames.                         |
-| Detect performance issues | osu! will warn you if another program on your computer may decrease performance.         |
+| Name                      | Effect                                                                                                        | Type     | Default    |
+|---------------------------|---------------------------------------------------------------------------------------------------------------|----------|------------|
+| Frame Limiter             | Change the frame rate limit. See below for details.                                                           | Dropdown | `120fps`   |
+| Show FPS Counter          | Display the FPS counter. This is seen in the bottom-right corner of the screen.                               | Checkbox | `Disabled` |
+| Compatibility Mode        | Use the old renderer that _osu!_ used before with older operating systems. This will restart your osu!client. | Checkbox | `Disabled` |
+| Reduce dropped frames     | Adjust graphical settings to decrease dropped/stuttered frames.                                               | Checkbox | `Disabled` |
+| Detect performance issues | Warn you if another program on your computer may harm your osu!client's performance.                          | Checkbox | `Enabled`  |
+
+---
+
+If you open the dropdown list for `Frame Limiter`, you will be presented with these options:
+
+| Name                      | Effect                                                                                      |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| VSync                     | Caps the osu!client to the refresh rate of your monitor. See explanation below for details. |
+| 120fps                    | Caps the osu!client to 120fps.                                                              |
+| 240fps                    | Caps the osu!client to 240fps.                                                              |
+| Unlimited (gameplay)      | Caps the osu!client to the refresh rate of your monitor. See explanation below for details. |
+
+- `VSync` explanation: In layman terms, using VSync will force the osu!client wait for the entire frame to load before displaying it.
+  - You may want to use this if you see some "tearing" (when the bottom portion of the game is lagging behind the upper portion of the game).
+  - Despite what the point above stated, this may cause some lag or slowdowns because the osu!client has to wait for each frame to load.
+- `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
+  - When you are doing anything but playing a beatmap, `240fps` is used instead.
+
+**Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!**
+
+Keep in mind that the higher the fps limit is, the more resources your osu!client will consume!
+
+Note: when the osu!client is not the active window, the fps limit is dropped to 30fps automatically.
 
 ### Layout
 
-| Name              | Effect                                                                                   |
-|-----------------  |------------------------------------------------------------------------------------------|
-| Resolution        | Change the in-game screen resolution.                                                    |
-| Fullscreen mode   | Run osu! in fullscreen (decreases input latency).                                        |
-| Letterboxing      | Run osu! in fullscreen mode, but confine the game to a smaller portion of the screen.    | 
-| Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if letterboxing is enabled. |
-| Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if letterboxing is enabled.   |
+| Name              | Effect                                                                                                                                                                          | Type     | Default    |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Resolution        | Changes the in-game screen resolution. The listed resolutions will differ by monitor.                                                                                           | Dropdown |            |
+| Fullscreen mode   | Run the osu!client in fullscreen (decreases input latency).                                                                                                                     | Checkbox | `Disabled` |
+| Letterboxing      | Run the osu!client in fullscreen (decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black boarders. | Checkbox | `Enabled`  |
+| Horizontal offset | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                                      | Slider   | `0%`       |
+| Vertical offset   | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled.                                                                                        | Slider   | `0%`       |
+
+- If `Fullscreen mode` is disabled, the warning: `Running without fullscreen mode will increase your input latency!` will appear underneath it.
 
 ### Detail Settings
 
-| Name              | Effect                                                                                        |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| Snaking Sliders   | Sliders will "snake out" from their starting position.                                        |
-| Background Video  | Allow background video files to play while playing beatmaps (can be disabled per-beatmap).    |
-| Storyboards       | Allow beatmap storyboards to be played (can be disabled per-beatmap).                         |
-| Combo Bursts      | Allow "combo burst" images to appear at the side of the screen upon hitting combo milestones. |
-| Hit Lighting      | A subtle glow behind each hit explosion. Does not disable lighting during Kial Time.          |
-| Shader Effects    | Graphically speaking, concert-type effects.                                                   |
-| Softening filter  | Adjust "shader effects" to be less flashy. "Shader effects" must also be enabled.             |
-| Screenshot Format | Set the screenshot file format to PNG (Lossless) or JPEG (web-friendly) (Default)             |
+| Name              | Effect                                                                                             | Type     | Default               |
+|-------------------|----------------------------------------------------------------------------------------------------|----------|-----------------------|
+| Snaking Sliders   | Sliders will "snake out" from their starting position.                                             | Checkbox | `Enabled`             |
+| Background Video  | Allow background video files to play while playing beatmaps (can be disabled per-beatmap).         | Checkbox | `Enabled`             |
+| Storyboards       | Allow beatmap storyboards to be played (can be disabled per-beatmap).                              | Checkbox | `Enabled`             |
+| Combo Bursts      | Allow images to burst from the left or right side of the screen upon reaching a combo milestone.   | Checkbox | `Enabled`             |
+| Hit Lighting      | A subtle glow behind each hit explosion. Does not disable lighting during Kial Time.               | Checkbox | `Enabled`             |
+| Shaders           | Graphically speaking, concert-type effects. This may be disabled if you computer cannot handle it. | Checkbox | `Disabled`            |
+| Softening filter  | Adjusts `shader` to be less flashy. This will automatically enable `Shaders`.                      | Checkbox | `Disabled`            |
+| Screenshot Format | Set the screenshot file format to `JPEG (web-friendly)` or `PNG (Lossless)`.                       | Dropdown | `JPEG (web friendly)` |
 
 ### Main Menu
 
-| Name             | Effect                                                                                                                                        |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Snow             | Show "snow" effect on the main menu (enabled by default during the holiday season).                                                           |
-| Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                  |
-| Menu tips        | Show a tip every time you visit the main menu.                                                                                                |
-| Interface voices | "Welcome to osu!" and "See you next time!" upon opening/closing the game, respectively.                                                       |
-| osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again unless you restart osu!. |
+| Name             | Effect                                                                                                                                                | Type     | Default    |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Snow             | Show snow effects on the main menu (forcibly enabled during the winter).                                                                              | Checkbox | `Disabled` |
+| Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                          | Checkbox | `Enabled`  |
+| Menu tips        | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.)                                                    | Checkbox | `Enabled`  |
+| Interface voices | Play the "Welcome to osu!" and "See you next time!" upon opening and closing the game, respectively.                                                  | Checkbox | `Enabled`  |
+| osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again until you reopen the osu!client. | Checkbox | `Enabled`  |
 
 ### Song Select
 
-| Name            | Effect                                          |
-|-----------------|-------------------------------------------------|
-| Show Thumbnails | Display a preview of each beatmap's background. |
+| Name            | Effect                                                | Type     | Default   |
+|-----------------|-------------------------------------------------------|----------|-----------|
+| Show Thumbnails | Display a preview image of each beatmap's background. | Checkbox | `Enabled` |
 
-## Gameplay section
+- `Show Thumbnails` requires the selected skin's version to 2.2+.
+
+## Gameplay
+
+![Gameplay icon](img/gameplay.jpg "Gameplay icon")
+
+This section is about the appearance during gameplay.
 
 ### General
 
-| Name                                          | Effect                                                                                                                           |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Background Dim                                | Adjust the level of dimming applied to the background while playing a beatmap.                                                   |
-| Progress Display                              | Configure where and how the song progress bar is displayed. Using a pie graph will also display the time before the song starts. |
-| Score Meter Type                              | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use "colour".                              |
-| Score Meter Size                              | Configure size of score meter.                                                                                                   |
-| Always show key overlay                       | Show the key status overlay even while playing normally.                                                                         |
-| Show approach circle on first "hidden" object | When playing with the "hidden" mod, un-hide the first note's approach circle.                                                    |
-| Scale osu!mania scroll speed with BPM         | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap.                                                       |
-| Remember osu!mania scroll speed per-beatmap   | Remember the scroll speed you personally set per-beatmap.                                                                        |
+| Name                                          | Effect                                                                                                                     | Type     | Default           |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------|-------------------|
+| Background Dim                                | Adjust the level of dimming applied to the background while playing a beatmap. (This also applies to the storyboard.)      | Slider   | `30%`             |
+| Progress Display                              | Configure where and how the song progress bar is displayed. See below for details.                                         | Dropdown | `Top-Right (Pie)` |
+| Score meter type                              | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use "Colour". See below for details. | Dropdown | `Hit error`       |
+| Score meter size                              | Configure size of score meter.                                                                                             | Slider   | `1x`              |
+| Always show key overlay                       | Show the key status overlay even while playing normally.                                                                   | Checkbox | `Disabled`        |
+| Show approach circle on first "Hidden" object | When playing with the "hidden" mod, un-hide the first note's approach circle.                                              | Checkbox | `Enabled`         |
+| Scale osu!mania scroll speed with BPM         | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap.                                                 | Checkbox | `Enabled`         |
+| Remember osu!mania scroll speed per-beatmap   | Remember the scroll speed you personally set per-beatmap.                                                                  | Checkbox | `Enabled`         |
+
+---
+
+If you open the dropdown list for `Progress Display`, you will be presented with these options:
+
+| Name            | Effect                                                                                                                                        |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Top-Right (Pie) | Use a pie chart to show the remaining duration before the song starts and the time left before completion. This is seen left of the accuracy. |
+| Top-Right (Bar) | Use a short horizontal bar to display the time left before completion. This is seen underneath the score.                                     |
+| Bottom-Right    | Use a short horizontal bar to display the time left before completion. This is seen in the bottom-right corner.                               |
+| Bottom (long)   | Use a long horizontal bar to display the time left before completion. This is seen on the bottom.                                             |
+
+---
+
+If you open the dropdown list for `Score meter type`, you will be presented with these options:
+
+| Name      | Effect                                                                                     |
+|-----------|--------------------------------------------------------------------------------------------|
+| None      | Do not use a meter to display the player's hit timing.                                     |
+| Colour    | Use coloured blocks to display hit timing. (osu!catch uses this if `Hit error` is used.)   |
+| Hit error | Use a meter to display hit timing. This shows if the player had hit too early or too late. |
 
 ### Song Select
 
-| Name                  | Effect                                                                                                                |
-|---------------------- |-----------------------------------------------------------------------------------------------------------------------|
-| Display beatmaps from | Adjusting this will **show** all the beatmaps higher than selected star value and hide others lower. (Defaults to 0)  |
-| up to                 | Adjusting this will **hide** all the beatmaps higher than selected star value and show others lower. (Defaults to 10) |
+| Name                  | Effect                                                                    | Type   | Default |
+|-----------------------|---------------------------------------------------------------------------|--------|---------|
+| Display beatmaps from | This adjusts the **minimal** star rating a beatmap needs to be displayed. | Slider | `0`     |
+| up to                 | This adjusts the **maximum** star rating a beatmap needs to be displayed. | Slider | `10`    |
 
-## Audio section
+## Audio
+
+![Audio icon](img/audio.jpg "Audio icon")
+
+This section is about audio related things.
 
 ### Devices
-| Name          | Effect                                        |
-|---------------|-----------------------------------------------|
-| Output device | Select the preferred output device for audio. |
+
+| Name          | Effect                                                                                             | Type     | Default   |
+|---------------|----------------------------------------------------------------------------------------------------|----------|-----------|
+| Output device | Select the preferred output device for audio. (Options given based on what your computer reports.) | Dropdown | `Default` |
 
 ### Volume
 
-| Name                     | Effect                                                                                   |
-|--------------------------|------------------------------------------------------------------------------------------|
-| Master                   | Controls all aspects.                                                                    |
-| Music                    | Affects only the music.                                                                  |
-| Effect                   | Affects things such as hit sounds and in-game sounds.                                    |
-| Ignore beatmap hitsounds | Favor hitsounds supplied by the current skin, rather than a beatmap's pack-in hitsounds. |
+| Name                     | Effect                                                                                    | Type   | Default    |
+|--------------------------|-------------------------------------------------------------------------------------------|--------|------------|
+| Master                   | Controls all aspects.                                                                     | Slider | `100%`     |
+| Music                    | Affects only the music.                                                                   | Slider | `80%`      |
+| Effect                   | Affects things such as hit sounds and in-game sounds.                                     | Slider | `80%`      |
+| Ignore beatmap hitsounds | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Button | `Disabled` |
 
-### Universal Audio Offset
+### Offset Adjustment
 
-_See also [Detailed calibration method](/wiki/Options/Universal_Offset)_
+| Name             | Effect                                                                                     | Type   | Default |
+|------------------|--------------------------------------------------------------------------------------------|--------|---------|
+| Universal offset | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `100%`  |
+| Offset wizard    | Opens the offset wizard.                                                                   | Slider | `80%`   |
 
-If, in every single beatmap you play, you hear the sound effects out of sync with the song, you might need to adjust this value. Click and hold on the selector, then drag left or right. You can also place the cursor on the selector and move it using the left and right arrow keys. Continue adjusting until you find the position where the two different sounds are heard simultaneously. Alternatively, you can use _Run Offset Wizard_ for a more graphical representation of ticks.
+- For details about the offset wizard, see [Offset Wizard](Offset_Wizard).
+- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).
 
-Unlike Local Song Offset (specific to that difficulty only) , this offset affects *every* beatmap you play. If you received an Online Offset, you can manually adjust it yourself for the difficulty you are playing using `+` or `-` to increase/decrease the beatmap's offset by 5ms (holding `Alt` while pressing `+` or `-` will allow you to change the offset by 1ms).
+## Skin
 
-#### Offset Wizard
+![Skin icon](img/skin.jpg "Skin icon")
 
-Click on "Run Offset Wizard" bar to adjust your Universal Audio Offset in a more graphical method.
-
-Note: Your current playing song on your jukebox will be used.
-
-1.  This displays your current Universal Audio Offset in terms of milliseconds.
-2.  Clicking on "Half tick" will display slower, half ticks on the screen likewise clicking "Double tick" will show faster, double ticks.
-3.  These are the ticks. They will pass through a green flashing line in the middle of the screen and will emit ticking sounds to represent beats.
-4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
-5.  Your jukebox. The currently playing song's BPM is shown as ticks.
-
-## Skin section
+This section is about skin related things.
 
 ### Skin
 
-| Name                                     | Effect                                                                                         |
-|------------------------------------------|------------------------------------------------------------------------------------------------|
-| Skin sample image                        | Shows various gameplay elements from the skin. Clicking will cycle through different elements. |
-| Current Skin                             | Change the current skin (default is at the top of the list).                                   |
-| Preview gameplay                         | Starts a random beatmap on autoplay, to give a preview of what the skin looks like in action.  |
-| Open current skin folder                 | Open the directory the current skin is stored in.                                              |
-| Export as .osk                           | Export the current skin as a .osk file.                                                        |
-| Ignore all beatmap skins                 | Favor the current skin over pack-in skins supplied by beatmaps.                                |
-| Use skin's sound samples                 | Use the custom sound effects of the currently selected skin.                                   |
-| Use Taiko skin for Taiko mode            | Use taiko-specific skin elements, if supplied by the active skin.                              |
-| Always use skin cursor                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                 |
-| Cursor Size                              | Adjust the cursor size.                                                                        |
-| Automatic Cursor Sizing                  | Automatically adjusts the cursor size based on the circle size of the current beatmap.         |
-| Use combo colour as tint for slider ball | Slider balls will use the current combo color (usually transparent). Requires skin support.    |
+| Name                                     | Effect                                                                                                                                  | Type     | Default    |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Skin sample image                        | Display various gameplay elements from the selected skin. Click to cycle through different element sets.                                | Button   |            |
+| Current Skin                             | Change the skin. Items in dropdown is based on what is in the `skin/` folder. (Names are based on folder name.)                         | Dropdown | `Default`  |
+| Preview gameplay                         | Preview the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song select.                     | Button   |            |
+| Open current skin folder                 | Open the directory the current skin is stored in.                                                                                       | Button   |            |
+| Export as .osk                           | Export the current skin as a `.osk` file. Once your osu!client is done exporting, it will the directory containing the `.osk` file.     | Button   |            |
+| Ignore all beatmap skins                 | Favor the selected skin over the beatmap's included skin. This does not include hitsounds.                                              | Checkbox | `Disabled` |
+| Use skin's sound samples                 | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds.                                                   | Checkbox | `Enabled`  |
+| Use Taiko skin for Taiko mode            | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | Checkbox | `Disabled` |
+| Always use skin cursor                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                                                          | Checkbox | `Enabled`  |
+| Cursor Size                              | Adjust the cursor size.                                                                                                                 | Slider   | `1x`       |
+| Automatic Cursor Sizing                  | Automatically adjusts the cursor size based on the circle size of the played beatmap.                                                   | Checkbox | `Disabled` |
+| Use combo colour as tint for slider ball | Slider balls will use the current combo color (usually transparent). Requires skin support.                                             | Checkbox | `Enabled`  |
 
-## Input section
+## Input
+
+![Input icon](img/input.jpg "Input icon")
+
+This section is about input peripherals.
 
 ### Mouse
 
-| Name                                      | Effect                                                                                       |
-|-------------------------------------------|----------------------------------------------------------------------------------------------|
-| Sensitivity                               | Adjust the sensitivity of the mouse cursor.                                                 |
-| Raw Input                                 | Read mouse/tablet positional values directly from the hardware, without any post-processing. |
-| Map absolute raw input to the osu! window | Confine input devices with absolute positioning (e.g. pen tablets) to the osu! window only.  |
-| Confine mouse cursor                      | Prevent mouse cursor from leaving the osu! window.                                           |
-| Disable mouse wheel in play mode          | Disable mouse wheel during gameplay                                                          |
-| Disable mouse buttons in play mode        | Disable mouse buttons during gameplay (for keyboard users).                                  |
-| Cursor ripples                            | Show subtle ripple effect when the mouse is clicked.                                         |
+| Name                                      | Effect                                                                                            | Type     | Default                |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------|----------|------------------------|
+| Sensitivity                               | Adjust the sensitivity of the mouse cursor. If changed it may automatically enable `Raw Input`.   | Slider   | `1x`                   |
+| Raw Input                                 | Read mouse/tablet positional values directly from the hardware, without any post-processing.      | Button   | Disabled               |
+| Map absolute raw input to the osu! window | Confine input devices with absolute positioning (e.g. pen tablets) to the osu!client window only. | Button   | Enabled                |
+| Confine mouse cursor                      | Prevent mouse cursor from leaving the osu!client window. See below for details.                   | Dropdown | `Only when fullscreen` |
+| Disable mouse wheel in play mode          | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value.    | Button   | Disabled               |
+| Disable mouse buttons in play mode        | Disable mouse buttons during gameplay. This is helpful for keyboard users.                        | Button   | Disabled               |
+| Cursor ripples                            | Show subtle ripple effect when the mouse is clicked. Pressing `M1` and `M2` can trigger this too. | Button   | Disabled               |
+
+- When `Raw Input` is enabled, it will display the number of reports it recieves per second and the latency in milliseconds.
+
+---
+
+If you open the dropdown list for `Confine mouse cursor`, you will be presented with these options:
+
+| Name                 | Effect                                                                                                   |
+|----------------------|----------------------------------------------------------------------------------------------------------|
+| Never                | Never prevent the mouse from leaving the osu!client.                                                     |
+| Only when fullscreen | Only prevent the mouse from leaving the osu!client when fullscreen. (This also includes `Letterboxing`). |
+| Always               | Always prevent the mouse from leaving the osu!client in any resolution.                                  |
 
 ### Keyboard
 
-#### Key Bindings
-
-#### osu!mania layout
-
-| Name                                  | Effect                                                                                          |
-|---------------------------------------|-------------------------------------------------------------------------------------------------|
-| Key Count                             | Normal settings for 1K ~ 9K, 5K ~ 9K Co-op                                                      |
-| Co-op Layout                          | Settings after applying co-op mod.                                                              |
-| Column Style (6K and 8K only)         | Adjust column style?                                                                            |
-| Bind alternate special keys           | (When using left/right column style) Bind the alternate special key.                            |
-| Vertically flip playfield (DDR style) | Move the judgement area and keynotes above the screen instead of below.                         |
-| Show Judgement line                   | Make judgement line slightly "brighter".                                                        |
+| Name                     | Effect                                                                                                   | Type   |
+|--------------------------|----------------------------------------------------------------------------------------------------------|--------|
+| Change keyboard bindings | Displays a dialog of the keyboard bindings. See [Keyboard Bindings](Keyboard_Bindings) for more details. | Button |
+| osu!mania layout         | Displays a dialog of osu!mania key bindings. See [osu!mania layout](osu!mania_Layout) for more details.  | Button |
 
 ### Other
 
-| Name                         | Effect                                                                                                           |
-|------------------------------|------------------------------------------------------------------------------------------------------------------|
-| OS TabletPC support          | Improves compatibility with graphic tablets and tablet PCs.                                                      |
-| Wiimote/TaTaCon Drum support | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via bluetooth before enabling. |
+| Name                         | Effect                                                                                                           | Type     | Default    |
+|------------------------------|------------------------------------------------------------------------------------------------------------------|----------|------------|
+| OS TabletPC support          | Improves compatibility with graphic tablets and tablet PCs.                                                      | Checkbox | `Disabled` |
+| Wiimote/TaTaCon Drum support | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via bluetooth before enabling. | Checkbox | `Disabled` |
 
-## Editor section
+## Editor
+
+![Editor icon](img/editor.jpg "Editor icon")
+
+This section is about the [beatmap editor](/wiki/Beatmap_Editor/).
+
+These options only affect while working inside the beatmap editor or in test mode (test playing a beatmap).
 
 ### General
 
-| Name                    | Effect                                                                      |
-|-------------------------|-----------------------------------------------------------------------------|
-| Background Video        | Play the beatmap's background video while editing.                          |
-| Always use default skin | Use osu!'s default skin while editing, despite the current skin's settings. |
-| Disable undo states     | Disable undo/redo functions in the editor to improve performance.           |
-| Snaking sliders         | Enable snaking sliders while editing.                                       |
-| Hit animations          | Enable hit animations while editing.                                        |
-| Follow points           | Enable follow points while editing.                                         |
-| Stacking                | Stack the hitcircles as if in gameplay.                                     |
+| Name                    | Effect                                                                      | Type     | Default    |
+|-------------------------|-----------------------------------------------------------------------------|----------|------------|
+| Background Video        | Play the beatmap's background video while editing.                          | Checkbox | `Disabled` |
+| Always use default skin | Use osu!'s default skin while editing, despite the current skin's settings. | Checkbox | `Disabled` |
+| Snaking sliders         | Enable snaking sliders while editing.                                       | Checkbox | `Enabled`  |
+| Hit animations          | Enable hit animations while editing.                                        | Checkbox | `Disabled` |
+| Follow points           | Enable follow points while editing.                                         | Checkbox | `Enabled`  |
+| Stacking                | Stack the hitcircles as if in gameplay.                                     | Checkbox | `Enabled`  |
 
-## Online section
+- These options can be manually overwritten by using the `View` menu in the beatmap editor.
+
+## Online
+
+![Online icon](img/online.jpg "Online icon")
+
+This section is about chat, spectators, multi, and osu!direct.
 
 ### Alerts and Privacy
 
-| Name                                                   | Effect                                                                                                 |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Chat ticker                                            | Display the most recent chat message at the bottom of the screen.                                      |
-| Automatically hide chat during gameplay                | If chat is open during breaks or in game menus, it will automatically hide when gameplay starts again. |
-| Show a notification pop-up when someone says your name | When someone mentions your username in chat, a flashing notification will appear.                      |
-| Play a sound when someone says your name               | When someone mentions your username in chat, a sound will play.                                        |
-| Share your city location with others                   | Share your city location in your user info (default is country only).                                  |
-| Show spectators                                        | Show a list of current spectators at the left of the screen during gameplay.                           |
-| Automatically link beatmaps to spectators              | Send currently-playing beatmap to #spectator channel when you have spectators                          |
-| Show notification popups instantly during gameplay     | Allow notifications to come through during gameplay.                                                   |
-| Allow multiplayer game invites from all users          | Disabling this will limit multiplayer invites to friends only.                                         |
+| Name                                                   | Effect                                                                                                                                   | Type     | Default    |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Chat ticker                                            | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
+| Automatically hide chat during gameplay                | If chat is open during breaks or in-game menus, the osu!client will automatically hide it when gameplay starts again.                    | Checkbox | `Enabled`  |
+| Show a notification pop-up when someone says your name | When someone mentions your username in chat, a flashing notification will appear.                                                        | Checkbox | `Enabled`  |
+| Play a sound when someone says your name               | When someone mentions your username in chat, a sound will play.                                                                          | Checkbox | `Enabled`  |
+| Share your city location with others                   | Share your city location in your user card (your country is already shared).                                                             | Checkbox | `Disabled` |
+| Show spectators                                        | Show a list of current spectators on the left of the screen during gameplay.                                                             | Checkbox | `Enabled`  |
+| Automatically link beatmaps to spectators              | Send currently-playing beatmap to `#spectator` channel when you have spectators.                                                         | Checkbox | `Enabled`  |
+| Show notification popups instantly during gameplay     | Allow a push notification to display during gameplay. If disabled, osu!client will wait until you are done playing.                      | Checkbox | `Enabled`  |
+| Allow multiplayer game invites from all users          | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only.                                     | Checkbox | `Enabled`  |
 
 ### Integration
 
-| Name                                     | Effect                                                                                                  |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Integrate with Yahoo! status display     | Your Yahoo! messenger will show the song you are currently playing or listening to.                     |
-| Integrate with MSN Live status display   | Your Windows Live Messenger will show the song you are currently playing or listening to.               |
-| Automatically start osu!direct downloads | (For [osu!supporter](/wiki/osu!supporter/) only) When spectating or multiplaying, the beatmap will be downloaded automatically. |
-| Prefer no-video downloads                | (For [osu!supporter](/wiki/osu!supporter/) only) osu!direct downloads will be confined to no-video versions of beatmaps.        |
+| Name                                     | Effect                                                                                                                           | Type     | Default    |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| Integrate with Yahoo! status display     | Your Yahoo! messenger will show the song you are currently playing or listening to. Needs to be set from the osu!website.        | Checkbox | `Disabled` |
+| Integrate with MSN Live status display   | Your Windows Live Messenger will show the song you are currently playing or listening to.  Needs to be set from the osu!website. | Checkbox | `Disabled` |
+| Automatically start osu!direct downloads | (For [osu!supporter](/wiki/osu!supporter/) only) When spectating or multiplaying, the beatmap will be downloaded automatically.  | Checkbox | `Enabled`  |
+| Prefer no-video downloads                | (For [osu!supporter](/wiki/osu!supporter/) only) osu!direct downloads will be confined to no-video versions of beatmaps.         | Checkbox | `Disabled` |
 
 ### In-Game Chat
 
-| Name                                    | Effect                                             |
-|-----------------------------------------|----------------------------------------------------|
-| Filter offensive words                  | Replace offensive words with `*beep*`.             |
-| Filter foreign characters               | Removes any non-standard ASCII characters.         |
-| Log private messages                    | Private messages will be saved to the osu! folder. |
-| Block private messages from non-friends | Enabling this will confine PMs to friends only.    |
-| Chat ignore list (space-separated)      | Words you put here will be ignored.                |
-| Chat highlight words (space-separated)  | Words you put here will be highlighted in chat.    |
+| Name                                        | Effect                                                | Type   | Default    |
+|---------------------------------------------|-------------------------------------------------------|--------|------------|
+| Filter offensive words                      | Replace offensive words with `*beep*`.                | Button | `Disabled` |
+| Filter foreign characters                   | Removes any non-standard ASCII characters.            | Button | `Disabled` |
+| Log private messages                        | Private messages will be saved to the `osu!/` folder. | Button | `Disabled` |
+| Block private messages from non-friends     | Enabling this will confine PMs to friends only.       | Button | `Disabled` |
+| Chat ignore list (space-separated list)     | Words you put here will be ignored.                   | Text   | _(Empty)_  |
+| Chat highlight words (space-separated list) | Words you put here will be highlighted in chat.       | Text   | _(Empty)_  |
 
-## Maintenance section
+## Maintenance
+
+![Manitenance icon](img/manitenance.jpg "Manitenance icon")
+
+This section is about beatmaps, updates, and debugging (cuttingedge only).
 
 ### General
 
-| Name                      | Effect                                                          |
-|---------------------------|-----------------------------------------------------------------|
-| Delete all unranked maps  | Delete all unranked maps in your songs folder.                  |
-| Repair folder permissions | Give read/write permission on osu! to its folders.              |
-| Mark all maps as played   | Mark all maps as "played".                                      |
-| Run osu! updater          | Close osu! and open the external updater to search for updates. |
+| Name                      | Effect                                                                                                                 | Type   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------|--------|
+| Delete all unranked maps  | Delete all unranked maps in your songs folder.                                                                         | Button |
+| Repair folder permissions | Give read/write permission to the osu!client for access to its folders. (Will need administrator password to proceed.) | Button |
+| Mark all maps as played   | Mark all maps as "played".                                                                                             | Button |
+| Run osu! updater          | Close the osu!client and open the updater to search for updates and download if any.                                   | Button |
 
 ### Debug
 
-**Do not touch these unless you know what you're doing. Cutting edge only.**
+These settings are only in cuttingedge.
 
-Please note: you may have to restart osu! after toggling these as some of these options may not revert properly.
+**Notice**: Restarting the osu!client does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!
 
-| Name                            | Effect                                      |
-|---------------------------------|---------------------------------------------|
-| Debug_NoAsyncReads              |                                             |
-| Debug_DisableGCLowLatency       |                                             |
-| Debug_DisableBackgroundSaves    |                                             |
-| Debug_DisableTextRendering      | Stops text from being rendered.             |
-| Debug_DisableSpriteDraw         | Stops _all_ sprites from being drawn.       |
-| Debug_DisablePerformanceLogging | Stops saving performance issues in the log. |
-| Debug_DisableTextureUploads     |                                             |
-| Debug_ForceIPv4FallbackPath     | Force IPv4 instead of IPv6.                 |
-| Debug_DisableBancho             | Complete disables osu!bancho.               |
-| Debug_DisableFBO                |                                             |
-| Debug_DisableVBO                |                                             |
-| Debug_DisableMultipleVBOs       | Stops using multiple VBOs.                  |
-| Debug_DisableSliderRendering    | Stops _all_ sliders from being rendered.    |
+| Name                            | Effect                                      | Type     | Default    |
+|---------------------------------|---------------------------------------------|----------|------------|
+| Debug_NoAsyncReads              |                                             | Checkbox | `Disabled` |
+| Debug_DisableGCLowLatency       |                                             | Checkbox | `Disabled` |
+| Debug_DisableBackgroundSaves    |                                             | Checkbox | `Disabled` |
+| Debug_DisableTextRendering      | Stops updating and rendering text.          | Checkbox | `Disabled` |
+| Debug_DisableSpriteDraw         | Stops drawing everything.                   | Checkbox | `Disabled` |
+| Debug_DisableBlendingModes      | Set every sprites' blend mode to Normal.    | Checkbox | `Disabled` |
+| Debug_DisablePerformanceLogging | Stops saving performance issues in the log. | Checkbox | `Disabled` |
+| Debug_DisableTextureUploads     | Stops updating certain sprites and text.    | Checkbox | `Disabled` |
+| Debug_ForceIPv4FallbackPath     | Force use of IPv4 instead of IPv6.          | Checkbox | `Disabled` |
+| Debug_DisableBancho             | Completely disables osu!bancho.             | Checkbox | `Disabled` |
+| Debug_DisableFBO                |                                             | Checkbox | `Disabled` |
+| Debug_DisableVBO                |                                             | Checkbox | `Disabled` |
+| Debug_DisableMultipleVBOs       |                                             | Checkbox | `Disabled` |
+| Debug_DisableSliderRendering    | Stops _all_ sliders from being rendered.    | Checkbox | `Disabled` |
+
+### Build Version
+
+Last but not least, the osu!client build version.
+
+Here, you can see which build version you currently have and which type of build updates you are reciving.
+Clicking on this will direct you to the Release Notes using your preferred browser.
+
+The builds are versioned using this scheme:
+
+```
+b{YYYY}{MM}{DD}.{revision}{type}
+```
+
+- `{YYYY}` is the build year
+- `{MM}` is the build month
+- `{DD}` is the build day
+- `{revision}` is the build revision
+  - If there is no build revision number, the decimal point will be removed.
+- `{type}` is the build type
+  - If there is no build type value, assume it is `Stable`.
+
+## Trivia
+
+- If you type in a name but leave the password form empty, _osu!_ will use that name when saving the score locally.
+- Logging in at the main menu with fanart backgrounds will trigger the transition of backgrounds regardless if signing in was successful or not.
+- Changing the skin in the main menu with fanart backgrounds will trigger the transition of backgrounds.
+- Opening the Options sidebar will automatically trigger `osu! is up-to-date!`'s function (check for updates).
+
+### History
+
+- The old Options screen was an actual screen that had tabs, buttons, and a dark pale blue background.
+- The old Options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!standard.
+  - After the Options screen was moved over to a sidebar, this screen was still accessible by opening a skin file.
+    - Access to this was later removed after Skin Previews and the Live Preview functions came to be.
