@@ -3,7 +3,7 @@
 There are many shortcuts in _osu!_ that can be utilized while in-game or while idle at any screen.
 They are listed out with their functions below.
 
-**Note:** some of these keys can be changed in the [Options](/wiki/Options/)!
+**Note:** some of these keys can be changed in the [options](/wiki/options/)!
 However, the list below presents the default keys.
 
 ## Game-Wide
@@ -58,7 +58,9 @@ These shortcuts work anywhere:
   - alias: `F6`
 - `R`: Random song
 
-## Song Select (Solo)
+## Song Select
+
+Note: Not all of these work in the [multi](/wiki/multi) mode's song select screen.
 
 - `Alt` + `Arrow Up`: Increase volume
 - `Alt` + `Arrow Down`: Decrease volume
@@ -169,7 +171,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `F3`: Timing mode
 - `F4`: Song setup
 
-#### Compose
+### Compose
 
 - `Ctrl` + `Left`: Move selected notes left by 1 grid snap
 - `Ctrl` + `Up`: Move selected notes up by 1 grid snap
@@ -204,10 +206,13 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `.`: Rotate 90 degrees clockwise
 - `Ctrl` + `H`: Flip horizontally
 - `Ctrl` + `J`: Flip vertically
+- `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
+- `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
 
 #### Timing
 
-- `T`: Set the [BPM](/wiki/BPM)/offset using the keyboard
+- `T`: Tap the [BPM](/wiki/BPM)/offset
+  - You will need to tap at a constant rate.
 - `Shift` while adjusting BPM/offset: 4x speed
 - `Ctrl` + `B`: Reset current timing point
 - `Ctrl` + `P`: Add timing point
@@ -217,8 +222,10 @@ These shortcuts work anywhere within the beatmap editor:
 - `Left Click`: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles
 - `Ctrl` + `Left Click`: Add new point to existing slider
 - `Right Click`: Toggle new combo, end a slider placement or remove a point, remove a circle (only when in selection mode or while not playing audio)
-- `Mouse Wheel`: Seek forwards/backwards. Hold shift for 4x seeking
-- `Ctrl` + `Alt` + `Mouse Wheel Up` or `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode while in gamefield
+- `Mouse Wheel Up`: Seek forwards
+- `Shift` + `Mouse Wheel Up`: Seek forwards at 4x
+- `Mouse Wheel Down`: Seek backwards
+- `Shift` + `Mouse Wheel Down`: Seek backwards at 4x
 - `Ctrl` + `Mouse Wheel Up`: Increase/decrease the snap divisor
 - `Alt` + `Mouse Wheel Up`: Increase/decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline
 - `Ctrl` + `Mouse Wheel Down`: Decrease the snap divisor
