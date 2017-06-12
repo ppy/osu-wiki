@@ -1,7 +1,7 @@
 Easy
 ====
 
-*[Click here to return to the main page](/wiki/Difficulties/osu!).*
+*[Click here to return to the difficulties directory](/wiki/Difficulties/osu!).*
 
 Guidelines
 ----------

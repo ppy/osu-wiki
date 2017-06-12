@@ -1,7 +1,7 @@
 Insane
 ======
 
-*[Click here to return to the main page](/wiki/Difficulties/osu!).*
+*[Click here to return to the difficulties directory](/wiki/Difficulties/osu!).*
 
 Insane difficulties are the hardest difficulty in the general 4 difficulty mapset. These maps are generally examples of the mapper's skill, and are the difficulties where creativity can be easily shown. Some other difficulty names have been applied with similar meaning as "insane", like *Lunatic* ("crazy", as it appears as the hardest difficulty in *Touhou* series), *Another* (*IIDX beatmania* series), *Extreme* (*Jubeat* Series), etc.
 

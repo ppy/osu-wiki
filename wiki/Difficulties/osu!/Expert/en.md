@@ -1,7 +1,7 @@
 Expert
 ======
 
-*[Click here to return to the main page](/wiki/Difficulties/osu!).*
+*[Click here to return to the difficulties directory](/wiki/Difficulties/osu!).*
 
 In ways to push and extend the limits of beatmapping, Expert was invented/created to be beatmaps *like* [Insane](/wiki/Difficulties/osu!/Insane) but go beyond.
 
