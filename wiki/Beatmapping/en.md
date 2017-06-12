@@ -66,25 +66,32 @@ You should enter this information before you create a second difficulty, to ensu
 **The band, singer, or group that performed or created the song.** *osu!* will pull the artist from the mp3 file, but please double check it to make sure it is spelled and punctuated correctly. **Anime/Game titles or companies do not belong here (they belong to `Tags`).** You can usually find the composer for anime and game songs on Wikipedia or other reliable sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com/) or [MyAnimeList](https://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency).
 
 #### Romanised Artist
+
 **The romanised (English) name of the artist of the song.** It should also be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency). This field will become active if you use Unicode characters in the _Artist_ field.
 
 #### Title  
+
 **The name of the song.** It will be pulled automatically from the mp3 file, but double check for spelling or capitalization errors, especially if you get the mp3 online. Use only the official title of the song.
 
 #### Romanised Title
+
 **The romanised (English) name of the name of the song.** Again, this field will become active if you use Unicode characters in the `Title` field.
 
 #### Beatmap Creator
+
 **That's you. *osu!* should handle this automatically, so you shouldn't edit this.** If you are including a guest difficulty made by someone else, their name belongs in the `Difficulty` field below, not here.
 
 #### Difficulty
+
 **The name of the difficulty of map.** The dropdown contains the preset names: Easy, Normal, Hard, Insane. You can select one of the default names, or create your own name. While it's good to be creative, try to make it very clear which one is harder than others as ambiguous difficulty names can annoy players. This would also be the field where you indicate a guest mapper, if this is their difficulty (e.g. "Larto's Hard").
 
 #### Source
+
 **Where this song originates from.** This field should generally only be included for anime or video game songs, and occasionally for novelty (movies, TV, or internet) songs. If the song is from an anime or video game, or is famous for its use as a TV or movie theme, the title of that source goes here.
 Rock and Pop songs should generally leave the field blank. **This is not to be used for things like album titles.**
 
 #### Tags
+
 **Keywords to help in searches.** Common uses include album names, guest difficulty creators, company name and other terms that may be used by people when searching for specific wants (like eroge or visual novel for example if your beatmap's song is based on an eroge visual novel). If your map has "collab" elements mapped by other mappers, their names can go here. Tags are separated by spaces. It is not compulsory to fill in but is greatly appreciated when using the web search and *osu!* search in-game.
 **Note:** If you have a tag of "qwertyuiop" as a tag on your beatmap, you can also find your beatmap in-game by typing in "qwertyuiop".
 
@@ -134,7 +141,7 @@ Try and put some effort into making your sliders look nice! Lopsided, wonky, or 
 
 ### Adding Spinners
 
-To add a spinner to your map, `left-click` to begin it, then scroll the timeline to where you want the end to be, and terminate with a right-click. Try and keep your spinners to a reasonable length - overly long spinners are tiring and boring, whilst spinners that are too short are not nice. "Spinner spam" (as in, more than 5 spinners in one time) should be avoided!
+To add a spinner to your map, `left-click` to add the starting point, then scroll the timeline to where you want the end to be, and end with a `right-click`. Try and keep your spinners to a reasonable length - overly long spinners are tiring and boring, whilst spinners that are too short are not nice. "Spinner spam" (as in, more than 5 spinners in one time) should be avoided!
 
 Spinner spam note: This is because [Trans-Siberian Orchestra - Wizards In Winter (Echo) [Impossible])](https://osu.ppy.sh/b/296) has roughly 48~51 spinners in ~5 seconds. The beatmap itself contains lengthy streams of hit-circles and is perfectly rankable excluding the spinner spam.
 
@@ -226,4 +233,4 @@ Some notes:
 
 Click the `Design` tab to open up the [SBE (Storyboard Editor)]().
 
-Refer to [Shorcut Key Reference](wiki/Shortcut_Key_Reference)
+Refer to [Shorcut Key Reference](wiki/Shortcut_Key_Reference).
