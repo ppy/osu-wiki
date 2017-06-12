@@ -39,8 +39,6 @@
 Először is, szeretnénk teljes szívünkből üdvözölni és adni neked egy ölelést amiért csatlakoztál a közösségünkhöz! Engedd meg hogy elmagyarázzunk egy pár dolgot, mielőtt útnak indulsz. 
 
 ## Az útmutató
------------
-
 Mielőtt elkezdenél játszani, azt ajánljuk hogy játszd a bemutatót először ([Peter Lambert - osu! tutorial][osu!tutorial_basic]). 
 
 Letöltés és telepítés után nyisd meg és egy "osu! update" nevezetű ablaknek kell megjelennie, várd meg míg frissít. Amikor a játék elindul, egy nagy osu! gomb lesz középen. Csak kattints rá majd válaszd ki a "Solo" módot. Könnyedén tudsz beatmap után keresni szimplán csak beírva, de amit most keresel az a "Tutorial". Ez a beatmap megtanítja neked az alapvető tudnivalókat a játékról úgymint, _Hitcircles_, _Sliders_ és _Spinners_.
@@ -66,7 +64,7 @@ Ha már a beatmap oldalán vagy, látnod kell egy óriási "Download Beatmap" go
 
 ![][welcome02 image]
 
-**Megjegyzés:** Nem számít hová mented a fájlt amíg megtalálod miután befejeződött a letöltés. Egyébként a megnyithatod egyből, de ez el fogja indítani az osu!-t, ha az még nem fut.
+**Megjegyzés:** Nem számít hová mented a fájlt amíg megtalálod miután befejeződött a letöltés. Egyébként megnyithatod egyből, és ez el fogja indítani az osu!-t, ha az még nem fut.
 
 ### Harmadik lépés - Töltsd be az osu!-ba!
 ![".osz", tiszta beatmap fájl][.osz icon link]
@@ -90,7 +88,7 @@ Meg is vagyunk! Most már készen állsz, hogy te legyél a következő osu! baj
 Szóval mi is pontosan a "Solo" mód? Gyakorlatilag ez az a mód, amit egyedül tudsz játszani akár offline, akár online. Itt nincsenek korlátok, bármely (neked meglévő) mapet játszhatod bármely [moddal][Game_Modifiers wikilink] (néha pontmódosítóknak hívják őket). Újraindíthatod a mapet ha úgy érzed túl alacsony a pontszámod vagy a pontosságod, illetve tarthatsz szünetet is, ha úgy érzed, hogy elfáradt a kezed és/vagy ha úgy érzed te magad is elfáradtál. Megnézheted a helyi vagy online pontszámokat illetve bármelyik visszajátszást is megtekintheted, ha rákattintasz egy pontszámra. Saját visszajátszásaidat az F2 lenyomásával kimentheted, hogy bármikor keresés nélkül újra tudd nézni.
 
 ### Többjátékos (Multiplayer)
-_Teljes magyarázat: [Multi](Multi wikilink)_
+_Teljes magyarázat: [Multi][Multi wikilink]_
 
 Ha kicsit magányosnak érzed magad "Solo" módban, bármikor csatlakozhatsz a többjátékos-előcsarnokhoz. Az egyedüli követelmény egy regisztrált- és bejelentkezett osu! felhasználói fiók és egy megfelelő internetkapcsolat. A hozzáféréshez csak válaszd a "Multi" lehetőséget. Rengeteg szobát fogsz látni, Könnyűtől (Easy) a Beteg (Insane) nehézségig. 
 
@@ -105,28 +103,28 @@ Első ránézésre ez egy egyszerű játéknak tűnik, ahol körökre kell katti
 A játékos szintje csak az összegyűjtött pontszámot mutatja ranked vagy approved map-eken, a beatmap befejezésétől függetlenül. Röviden, ez mutatja mennyire "tapasztalt" valaki. Viszont, más játékokkal szemben (pl. MMO-k), az osu! **NEM** ad senkinek semmilyen előnyt. Egy természetes adottságokkal rendelkező, rendkívül ügyes 10-es szintű játékos akár megverhet egy 100-as szintűt is (ez azt jelenti, hogy a 100-as szintű játékos mindössze többet játszott online). Ezen felül tartsd észben hogy több pontot kapsz ha magasabb kombót érsz el (több note-ot találsz el egymás után, hibázás nélkül).
 
 ### Teljesítménypontok (PP)
-_Teljes magyarázat: [Performance Points](Performance_Points wikilink)_
+_Teljes magyarázat: [Performance Points][Performance_Points wikilink]_
 
 A teljesítménypontok tulajdonképpen egy játékos versenyképességét megmérő pontok. Arra irányul, hogy a tényleges képességre fókuszáljon a játszott idő helyett. A pontok kiszámolása erősen függ a map nehézségétől ami egyedi algoritmusokkal van számolva játékmódonként. Ezt a nehézséget, alapul véve minden pontot, osztályozva van és hozzá van rendelve egy pp érték. A teljesítmény rangod főleg a különböző map-eken lévő teljesítményedtől függ. A legkönyebb út, hogy fejlődj az, ha javítod a pontjaidat nehezebb map-eken. Jegyezd meg, hogy a játékmódok külön vannak számolva \[ami azt jelenti, hogy (osu!/osu!taiko/osu!catch/osu!mania)-t játszva az (osu!/osu!taiko/osu!catch/osu!mania) pp-je növekszik\].
 
 Ha kérdésed van a pp-vel kapcsolatban, akkor olvasd el a [wiki oldalát][Performance_Points#FAQ wikilink] először.
 
 ### Pontosság (Accuracy)
-_Teljes magyarázat: [Accuracy](Accuracy wikilink)_
+_Teljes magyarázat: [Accuracy][Accuracy wikilink]_
 
 ![Egy kép ami egy játékos pontosságát mutatja miután befejezett egy map-et.][Accuracy results image]
 
 Ez a mérés az átlagos pontosság egy játékos által játszott összes rangsorolt pontszám között. Két típusra oszlik: a játékos össz pontossága és a pp pontossága. A játékon belül a saját paneleden a pp pontosságot látod. Egy játékos össz.-pontosságának megtekintéséhez meg kell látogatnod az "Online Results" részt egy beatmap végigjátszása után, vagy a saját felhasználói oldaladat. Az osu!-ban a pontosság nem csak a célzásod pontosságát, hanem az időzítésed pontosságát is jelöli, szóval fontos hogy a note-okat tökéletes ütemre kapd el. Fordíts extra figyelmet az "Approach Circle"-ökre!
 
 ### Jutalmak (Achievements)
-_Teljes magyarázat: [Achievements](Achievements wikilink)_
+_Teljes magyarázat: [Achievements][Achievements wikilink]_
 
 Az achievement-ek kis kitűzők a profilon, amelyek a kiváló teljesítményt képviselik. Többféleképpen is feloldhatók, például sok játékkal vagy egy bizonyos kombószám elérésével egy beatmap-en. Ha megfeleltél a feltételeknek azonnal meg is kapod az achievement-ed, amelyet a beatmap végigjátszása után az eredmény képernyő közepén, vagy a profil oldaladon az Achievements rész alatt láthatsz. Különösen izgalmas részük a "Hush-Hush" achievement-ek, amelyek követelményei nem ismertek és neked kell rájönnöd, hogyan szerezheted meg őket. Megszerzésük meglehetősen nehéz, viszont annál jobb érzés, mikor végre kapsz egyet.
 
 **Megjegyzés:** Achievement-eket csak akkor kapsz, ha online játszol, bejelentkezve.
 
 ## Chat
-_Teljes magyarázat: [Chat Console](Chat_Console wikilink)_
+_Teljes magyarázat: [Chat Console][Chat_Console wikilink]_
 
 A chat konzol alapjainak ismerése fontos, ha új barátokra akarsz szert tenni. Abban az esetben sem árt ha tudod használni, ha valaki üzenetet küld neked, tippeket adva, vagy segítséget kérve. A képernyő jobb alsó sarkában lévő gombbal nyithatod meg a chatet, de gyorsabb, ha megnyomod az F8 gombot. 
 
@@ -137,9 +135,9 @@ Alapból meg lesz nyitva néhány fül, például "\#osu!", "\#announce", "\#use
 Ezek az alapok, ne légy szégyenlős segítsége kérni akár játékon belül, akár a fórumon. A wiki-t is olvasgathatod, ha jobban meg szeretnéd érteni a játékot.
 
 ## Beatmapping (Edit)
-_Teljes magyarázat: [Beatmapping](Beatmapping wikilink)_
+_Teljes magyarázat: [Beatmapping][Beatmapping wikilink]_
 
-Az osu! bárki számára lehetővé teszi a beatmap-ek készítését. Ha úgy gondolod kreatív vagy és szívesen tanulsz, akkor neki is láthatsz. A kezdéshez egyszerűen válasz a főmenüben az "Szerkesztés" (Edit) lehetőséget, majd húzd a zene **.mp3** fájlját a szerkesztőbe. Frissül és már láthatod is az üres mapet a te számod címével. A beatmapping azonban egy _nagyon_ komplikált folyamat amihez szenvedély is kell, így ezen az oldalon bővebben nem lesz róla szó. A legjobb mód az, ha te magad is kipróbálod. [Ezen a linken][Beatmappin/modding: Guide Compendium link] hasznos útmutatókat találhatsz a kezdéshez. A Szerkesztés módot egyébként arra is használhatod, hogy közelebbről szemügyre vegyél egy beatmapet, vagy akár csak azt a részét, ahol mindig elbuksz.  Egyébként **Próbáld kerülni a rank-elt beatmapek szerkesztését**, mert vissza fognak állni **nem rank-elt** állapotba (persze csak a te gépeden), és nem fogsz értük pp-t és pontosságot kapni, amíg nem frissíted őket.
+Az osu! bárki számára lehetővé teszi a beatmap-ek készítését. Ha úgy gondolod kreatív vagy és szívesen tanulsz, akkor neki is láthatsz. A kezdéshez egyszerűen válaszd a főmenüben a "Szerkesztés" (Edit) lehetőséget, majd húzd a zene **.mp3** fájlját a szerkesztőbe. Frissül és már láthatod is az üres mapet a te számod címével. A beatmapping azonban egy _nagyon_ komplikált folyamat amihez szenvedély is kell, így ezen az oldalon bővebben nem lesz róla szó. A legjobb mód az, ha te magad is kipróbálod. [Ezen a linken][Beatmapping/Modding: Guide Compendium link] hasznos útmutatókat találhatsz a kezdéshez. A Szerkesztés módot egyébként arra is használhatod, hogy közelebbről szemügyre vegyél egy beatmapet, vagy akár csak azt a részét, ahol mindig elbuksz.  Egyébként **Próbáld kerülni a rank-elt beatmapek szerkesztését**, mert vissza fognak állni **nem rank-elt** állapotba (persze csak a te gépeden), és nem fogsz értük pp-t és pontosságot kapni, amíg nem frissíted őket.
 
 ## Hasznos linkek
 Itt van egy pár hasznos link az utazásod megkezdéséhez:
