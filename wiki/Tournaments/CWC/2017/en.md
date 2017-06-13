@@ -47,7 +47,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
 ### Sunday, 18. June 2017
 
