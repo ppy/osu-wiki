@@ -1,8 +1,6 @@
-Summary
-=======
+# Summary
 
 ***[Click here to go back to Game Modifiers](/wiki/Game_Modifiers)***
-
 
 | Type | Icon | Name (Abbr.) | Multiplier | Effect | Notes |
 |------|------|--------------|------------|--------|-------|
@@ -26,8 +24,7 @@ Summary
 | Special | ![Co-Op mod icon](/wiki/shared/Key_Coop.png "Co-Op mod icon") | Co-Op (2P) |  osu!mania: 0.70 ~ 1.00 (use chart below) | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. **Normal**: Add a second xK playfield. **Specific**: Split the current xK to two playfields. | **Specific** The design is still the same. The main side will hold the highest xK value if xK is odd-numbered. |
 | Special | ![Random mod icon](/wiki/shared/Random.png "Random mod icon") | Random (RD) | osu!mania: 1.00 | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. Switching the note placement without affecting note type (hold or hit type). | Does not shuffle the note placement every time you use this mod.
 
-osu!mania xK mods
------------------
+## osu!mania xK mods
 
 |Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -36,7 +33,7 @@ osu!mania xK mods
 |6k|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|0.90|
 |7k|0.66|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|
 
-**This table only affects beatmaps converted from Standard to osu!mania during play**.
+**This table only affects beatmaps converted from osu!standard to osu!mania during play**.
 
 **The mod does not work on osu!mania-specific beatmaps.**
 
