@@ -1,10 +1,10 @@
 # User Configuration File
 
-***[Click to return to Main page](/wiki/osu!_Program_Files)***
+***[Click to return to Main Page](/wiki/osu!_Program_Files)***
 
 ![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
 
-This a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must.
+This a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the ingame options and it is recommended that you change options there. Only edit these values manually if you really must. If the `Description` cell is blank, it is the same as the one above it.
 
 | Code                 | Description                                 |
 |----------------------|---------------------------------------------|
