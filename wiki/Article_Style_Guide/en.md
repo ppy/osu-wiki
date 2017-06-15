@@ -207,6 +207,10 @@ Code blocks do not use syntax highlighting in the osu!wiki.
 
 You can use either the reference or inline style links.
 
+Keep in mind that there are good times to prefer one or the other.
+For example, one should use reference sytle links when linking to a flag multiple times.
+On the other hand, one could use inline syule links when linking to an article.
+
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
 #### Internal
@@ -308,12 +312,6 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSe
 
 The markup for images is similar for [links](#links).
 The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
-
-**Example:**
-
-```
-![alt text](comboscanhurt.jpg "title text")
-```
 
 Like the [links](#links), you can use either reference or inline style when linking to images.
 
@@ -593,4 +591,4 @@ In instances where you are talking directly to the reader (e.g. tutorial page), 
   - `play style`
   - `hit sound`
 - The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
-- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
+- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definitions as stated in the [Glossary](/wiki/Glossary/).
