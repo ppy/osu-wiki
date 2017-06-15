@@ -119,7 +119,7 @@ For English article titles, if you need to reword the title, you must rename the
 
 In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets.
 
-**Examples:**
+Examples:
 
 - `# osu!mania (Español)`
 - `# Live Streaming osu! (日本語)`
@@ -137,18 +137,15 @@ In addition to this, section headings should never skip a heading level (e.g. do
 Unlike titles, section headings can have small icons.
 
 All sections **must** contain some text, even if they are containers for subsections.
+For example:
 
-**Examples:**
-
-```
-## Game Modes
-
-_Also see: [Game Modes](/wiki/Game Modes)._
-
-### ![](/wiki/shared/Osu.gif) osu!
-
-osu! is a frustrating but fun circle-clicking simulator.
-```
+    ## Game Modes
+    
+    _Also see: [Game Modes](/wiki/Game Modes)._
+    
+    ### ![](/wiki/shared/Osu.gif) osu!
+    
+    osu! is a frustrating but fun circle-clicking simulator.
 
 ### Lists
 
@@ -222,17 +219,21 @@ Instead, take the title of the page the link is linking to or use a general desc
 
 ##### Redirects
 
+For your convenience, all folders should have a redirect.
 All internal links are to use redirects.
+
 To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file.
 The link part that you want is on the left while the designation to those link parts are on the right.
 Keep note of the redirect you want to use.
-Then make the link like you normally would, but instead of using the directory path, use `/wiki/` followed by the redirect.
+Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect.
 
-**Examples:**
+Examples:
 
 - `[ASG](/wiki/ASG)`
 - `[OWC2015](/wiki/OWC2015)`
 - `[skinning tutorial](/wiki/skinning_tutorial)`
+
+---
 
 Here are some differences between redirect pathing and normal pathing:
 
@@ -338,7 +339,6 @@ The supported file formats for the osu!wiki are `.gif`, `.jpg` (or `.jpeg`), and
 When you have an image **without** transparency, use `.jpg` (or `.jpeg`).
 When you have an image **with** transparency, use `.png`.
 If the media file is animated, use `.gif`.
-
 
 #### Alternate and Title Text
 
@@ -532,7 +532,7 @@ When writting the name of the game modes, they are to be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-You may use the old game mode names (e.g. `Catch the Beat` or `Taiko`) only when you are talking about said game mode's previous name.
+You may use the old game mode names (e.g. `Catch the Beat`, `Taiko`, or `Mania`) only when discussing about said game mode's previous name.
 
 ### Game Modifiers
 
@@ -547,9 +547,30 @@ For example:
 ### Gameplay Elements
 
 Gameplay elements should **never** be capitalised.
+For example:
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
 - The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
+
+---
+
+These words are spelt as follows (note the space):
+
+- `hit circles`
+- `approach circles`
+- `slider ticks`
+- `slider ball`
+- `slider path`
+- `hit burst`
+- `game mode` (or just `mode`)
+- `game mod` (or just `mod`)
+- `play style`
+- `hit sound`
+
+---
+
+The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
+The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definitions as stated in the [Glossary](/wiki/Glossary/).
 
 ### Contractions
 
@@ -564,7 +585,7 @@ For example, use:
 - `You will` instead of `You'll`
 - `It is` instead of `It's`
 
-Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) is the exception since these are not contractions.
+Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.
 
 ### Point of View
 
@@ -573,22 +594,6 @@ When referring to the player, use `the player` or `a player`.
 **Never** use `he`/`his` or `she`/`her`!
 Instead, use `they`/`their`/`theirs`.
 
-In instances where you are talking directly to the reader (e.g. tutorial page), you could use the word `you`.
+In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
 
 **Never** use the first person perspective, `I`.
-
-### Miscellaneous
-
-- These words are spelt as follows (note the space):
-  - `hit circles`
-  - `approach circles`
-  - `slider ticks`
-  - `slider ball`
-  - `slider path`
-  - `hit burst`
-  - `game mode` (or just `mode`)
-  - `game mod` (or just `mod`)
-  - `play style`
-  - `hit sound`
-- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
-- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definitions as stated in the [Glossary](/wiki/Glossary/).
