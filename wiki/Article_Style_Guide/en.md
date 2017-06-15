@@ -96,13 +96,12 @@ Use italics only when naming a video game or the name of a work.
 
 ### Headings
 
-**Notes:**
+Please limit to a heading level of 5.
 
-- Please limit to a heading level of 5.
-- Heading levels 3 and onwards use the hash style.
-- If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
-- Optionally, but preferably, add an extra line before and after the headings.
-  - Doing so will help make the headings stand out a bit more when editing.
+If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
+
+Optionally, but preferably, add an extra line before and after the headings (this applies for both underline and hash styles).
+Doing so will help make the headings stand out a bit more when editing.
 
 #### Titles
 
@@ -321,7 +320,7 @@ Like the [links](#links), you can use either reference or inline style when link
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
 
-#### File Names
+#### Media File Names
 
 **All image file extensions must use lowercase letters, otherwise they will fail to load!**
 
@@ -411,6 +410,18 @@ Some tools for beautifying tables are:
   - this will require you to use [VS Code](https://code.visualstudio.com/)
 - [Markdown Table Formatter](http://markdowntable.com/)
   - alignment syntax (`:`) will not parse correctly
+
+### Horizontal Bar
+
+Use horizontal bars sparingly.
+
+A few uses of the horizontal bar may include (but is not limited to):
+
+- separating images from text
+- marking the end of a "section" within the same section
+
+When using the horizontal bar, make sure there is an empty line above and below the markup.
+Otherwise, osu!web will think the text above is a heading level 2.
 
 ## Grammar
 
