@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mocha Fanart Contest: Now Open"
+title: "Mocha Fanart Contest Begins!"
 permalink: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 date: 2017-06-14 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
@@ -18,7 +18,7 @@ Hot off the heels of an unprecedented turnout for our last seasonal contest, we 
 
 Following the seasonal approach, please include the **theme of "summer"** in your artwork in any way you feel appropriate.
  
-You may wish to reference Mocha's [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed.
+Make sure to reference Mocha’s [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed.
  
 The top 10 entries selected by voters will receive 2 months of osu!supporter, as well as get a spot in the in-game background rotations for everyone to enjoy. Yes, these are a regular thing now, and you'll be seeing more options in the game client to support them very shortly.
  
