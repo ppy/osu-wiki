@@ -23,11 +23,11 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 
 ### Gameplay
 
-- **Jump:** Hitobjects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
+- **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
 - **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
-- **Stack:** Two or more hitobjects placed in the same spot on the grid.
-- **Stack Leniency:** A setting used to determine if hitobjects stack or directly overlap each other. Increasing its value will cause hitobjects to stack at longer time intervals.
-- **Overlap:** Hitobjects touching each other where they do not stack.
+- **Stack:** Two or more hit objects placed in the same spot on the grid.
+- **Stack Leniency:** A setting used to determine if hit objects stack or directly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
+- **Overlap:** Hit objects touching each other where they do not stack.
 - **Snapping:** Timeline tick where an object is placed.
 - **Slider head/tail:** The start/end positions of a slider.
 - **Slider border:** Visible outline of a slider's path. When this is distorted through overlaps, sliders can become harder to read.
@@ -39,9 +39,9 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
 - **Extended slider:** A slider whose tail is not snapped to a specific beat in the music, but is instead expressing a prolonged sound. The most common extended slider is ¾ of a beat.
 - **Slider Tick Rate:** The amount of slider ticks that appear per beat of music.
-- **Spinner Recovery Time:** The time between the end of a spinner and the following hitobject.
-- **Time-distance equality:** Spacing between hitobjects is proportional to the duration of time between them. Also known as using a constant distance spacing.
-- **Hitobject/Note density:** The average timeline gaps between hitobjects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
+- **Spinner Recovery Time:** The time between the end of a spinner and the following hit object.
+- **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
+- **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 
 Overall
@@ -53,25 +53,25 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 #### Rules
 
--   **Hitobjects must never be off-screen in 4:3 aspect ratios.** Hitobjects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
+-   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your map to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
--   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hitobjects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
--   **Reverse arrows on sliders must not be completely visually obstructed by other hitobjects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
+-   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
+-   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
 -   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
 -   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
 
 #### Guidelines
 
--   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hitobjects where there is no musical cue to justify them can result in unfitting rhythms.
+-   **All circles and slider heads should be snapped to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 -   **Slider tick rate should be set according to the song.** For example if your song contains a section that uses ⅓ snapping only, using tick rate 2 would not be fitting for the entire map. In such cases, tick rate 1 should be used.
 -   **Avoid using combo colors, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colors like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
 -   **Avoid using combo colors with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
--   **Avoid overlapping hitobjects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
+-   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 -   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
 -   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -   **Avoid keysounding without hitnormal support.** If hitsounds blend perfectly with the song, feedback is minimal.
--   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hitobjects is playable.
+-   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hit objects is playable.
 -   **Difficulty should be appropriately expressed to represent the intensities of different sections in the music.** More complex/denser rhythms and more complex/quicker movements should be appropriately used to produce feedback through difficulty.
 -   **Avoid major composition differences in similar sections of a song.** The basic spacing and rhythm should be similar, while patterning can vary. This ensures that rhythm and intensity in all similar sections reflect a song similarly.
 -   **Sliders should begin on stronger beats and end on equal or weaker sounds.** Stressing important sounds through clicking is more natural to play than stressing unimportant sounds.
@@ -82,7 +82,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **When including a slider velocity change, there should be a discernible change in the song's pacing.** Otherwise the velocity change would feel unsupported by the music.
 -   **Avoid following multiple layers of the song if it is unclear what rhythm is prioritizing.** Players should be able to discern what part of the song is being followed.
 -   **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4 or 1/8 are recommended. If the song is using a swing beat, 1/6 or 1/12 are recommended. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
--   **Try to spread your hitobject placement evenly across the playfield.** Cluttering hitobjects in one section of the screen for no reason will make them stand out unnecessarily.
+-   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
 -   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
 -   **Avoid using similar combo colors in successive combos.** Players should be able to differentiate between different combos in a map.
 -   **Spinners and sliderends should have hitsound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
@@ -109,20 +109,20 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/1 hitobjects to stack.** Directly overlapping hitobjects cause reading problems for new players.
+-  **If stacks are used, Stack Leniency must be set high enough for 1/1 hit objects to stack.** Directly overlapping hit objects cause reading problems for new players.
 
 #### Guidelines
 
--  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hitobjects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
+-  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 -  **When distance snap is used, try to keep it between 0.8x and 1.2x.** Values too much higher or lower may make the difference between slider velocity and spacing counterintuitive. A higher distance snap can be used to avoid overlapping, but the slider velocity should be increased if you find yourself doing this often.
 -  **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
 -  **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
 -  **Avoid overlapping circles, slider heads, and slider tails.** These can be confusing for new players. 1/1 overlaps due to distance snapping should be avoided with higher spacing or slider velocity.
 -  **Avoid 1/1 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
--  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hitobjects to click or follow should be used.
+-  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
 -  **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 -  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
--  **Spinner recovery time should be at least 4 beats.** This is to ensure adequate time to click a hitobject following a spinner.
+-  **Spinner recovery time should be at least 4 beats.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Avoid spinners less than 4 beats.** Players need time to recognize that they have to begin spinning.
 
 #### Difficulty Setting Guidelines
@@ -134,22 +134,22 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/1 hitobjects to stack.** Directly overlapping hitobjects cause reading problems for new players.
+-  **If stacks are used, Stack Leniency must be set high enough for 1/1 hit objects to stack.** Directly overlapping hit objects cause reading problems for new players.
 
 #### Guidelines
 
--  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hitobjects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
+-  **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 -  **When distance snap is used, try to keep it between 0.8x and 1.3x.** Values too much higher or lower may make the difference between slider velocity and spacing counterintuitive. A higher distance snap can be used to avoid overlapping, but the slider velocity should be increased if you find yourself doing this often.
 -  **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 -  **Avoid overlapping circles, slider heads, and slider tails.** These can be confusing for new players. 1/2 overlaps due to distance snapping are an exception.
--  **Avoid long chains of hitobjects with 1/2 gaps.** Too many consecutive hitobjects overlapping can be confusing for new players.
--  **Avoid 1/2 hitobjects after sliders which appear underneath the previous slider's path.** Players at this level fully follow sliders’ paths, so placing a hitobject directly after the slider is more intuitive. This also includes stacks underneath slider ends.
+-  **Avoid long chains of hit objects with 1/2 gaps.** Too many consecutive hit objects overlapping can be confusing for new players.
+-  **Avoid 1/2 hit objects after sliders which appear underneath the previous slider's path.** Players at this level fully follow sliders’ paths, so placing a hit object directly after the slider is more intuitive. This also includes stacks underneath slider ends.
 -  **Avoid 1/2 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
--  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hitobjects to click or follow should be used.
+-  **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
 -  **Stacks are acceptable, but avoid switching between 1/1 and 1/2 stacks repeatedly.** This may cause reading issues for new players, since two different rhythms are visually the same.
 -  **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 -  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
--  **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hitobject following a spinner.
+-  **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
 
 #### Difficulty Setting Guidelines
@@ -161,11 +161,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--  **If stacks are used, Stack Leniency must be set high enough for 1/2 hitobjects to stack.** Directly overlapping hitobjects cause reading problems for players of this level.
+-  **If stacks are used, Stack Leniency must be set high enough for 1/2 hit objects to stack.** Directly overlapping hit objects cause reading problems for players of this level.
 
 #### Guidelines
 
--  **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hitobject following a spinner.
+-  **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 -  **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
 -  **Avoid visually similar 1/2 and 1/1 spacing.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from 1/1 gaps.
