@@ -10,11 +10,11 @@ The Spotlights for May 2017 have been released and can be found [here](https://o
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The April 2017 spotlight rankings will conclude on the 15th June 2017.**
+Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The April 2017 spotlight rankings will conclude on the 15th July 2017.**
 
 ## Past Spotlights results
 
-First of all, congratulations to the winners of the March 2017 Spotlights. They receive one month of supporter status for their efforts!
+First of all, congratulations to the winners of the April 2017 Spotlights. They receive one month of supporter status for their efforts!
 
 + **osu!:** 
 + **osu!taiko:** 
@@ -24,81 +24,98 @@ First of all, congratulations to the winners of the March 2017 Spotlights. They 
 
 ## osu!
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/pitch-fucker.jpg)](https://osu.ppy.sh/s/559928)
+[![](https://assets.ppy.sh/media/spotlights2017-may/orvid.jpg)](https://osu.ppy.sh/s/578332)
 
-Being one of the less conventional maps ranked in April, dsco's Pitch Fucker stands out among the crowd as a mapset with its own noteworthy design. It strays from the usual object arrangement catering to the comfort of a player, and instead attempts to feel more representative of the song through its various interesting mapping techniques.
+text
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/velocity.jpg)](https://osu.ppy.sh/s/593883)
+[![](https://assets.ppy.sh/media/spotlights2017-may/get-on.jpg)](https://osu.ppy.sh/s/554084)
 
-It may have only placed 3rd in the Modhelp Mapping Contest, but this mapset still deserves to be in the spotlight! Insane and Hard use a simplistic mapping style that's based on symmetry and parallelism to the axes, but it follows the song surprisingly well. Irreversible's Extra is a great addition to the mapset, as it uses a lot of interesting patterns and SV changes, while managing to keep a nice flow. Be sure to check this one out!
+sionKotori continues to impress with his newly ranked map, full of very interesting patterns which fit very well with the song and look amazing, other than giving a pretty cool sense of speed. Recommended for everyone who enjoys technical and slider-heavy maps!
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/all-alone-with-you.jpg)](https://osu.ppy.sh/s/574929)
+[![](https://assets.ppy.sh/media/spotlights2017-may/glass-no-kutsu.jpg)](https://osu.ppy.sh/s/585681)
 
-Inspired by [another map](https://osu.ppy.sh/s/433267) currently on its way to the ranked section, this map provides a calming experience directly related to the song it's expressing. The map itself may be mild in difficulty, but don't let that persuade you to skip this one! It's more enjoyable than it may appear at first glance.
+text
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/cinderella-syndrome.jpg)](https://osu.ppy.sh/s/561693)
+[![](https://assets.ppy.sh/media/spotlights2017-may/bellow.jpg)](https://osu.ppy.sh/s/504315)
 
-You wouldn't know that this was Kibbleru's first time creating a "big" set on his own, from how well-designed this mapset is!
-The highest difficulty has some interesting concepts here and there; and the Insane fits the song perfectly. Not to mention there is a clear contrast from the less intense sections of the song compared to the chorus.
-Topped off by some excellent hitsounding from Naotoshi, this mapset feels quite special. Make sure to give it a try!
+I see sets like this more and more rarely as time passes, which is a shame. All the four mappers involved in the set did a splendid job in using the unusual doubles in this song and provided (although probably nothing exceptional) a really nice and clean approach to mapping. Overall this mapset is not pretentious at all, but that's most likely the reason why it is here, to demonstrate that not necessarily heavy rhythms or intense jump sessions are important to create an entertaining mapset that hooks the player. Whether you are an expert player or just a casual one you'll have something to chew on considering it is easily DT-able (not sure how many pp it gives tho :P). I could keep praising this mapset for a while but let's say that you should definitely give it a go and witness some old-school mapping modernized for the new standards.
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/enantiomorphs.jpg)](https://osu.ppy.sh/s/479108)
+[![](https://assets.ppy.sh/media/spotlights2017-may/ben-se.jpg)](https://osu.ppy.sh/s/567325)
 
-A wonderful map that captures the beauty of the song. -kevincela- shows us how fun unorthodox rhythms can be with interesting movement concepts, and the classically amazing aesthetics of his style as usual.
+This mapset truly stands out due to the unique spacing and patterning in both difficulties. The flow is smooth but expressive, perfectly supporting the mood of the song. 09kami's and Crystal's maps are on a similar difficulty level, but represent the song in different ways. Check out both of them, you will not regret it!
+
+[![](https://assets.ppy.sh/media/spotlights2017-may/kokoronashi.jpg)](https://osu.ppy.sh/s/565432)
+
+Kokoronashi is yet another great mapset contributed by pishifat. Playing the map feels unique, since it avoids rotational flow and focuses entirely on back-and-forth or linear patterns. You should definitely check this one out if you haven't yet!
+
+[![](https://assets.ppy.sh/media/spotlights2017-may/yuki-no-hana.jpg)](https://osu.ppy.sh/s/565432)
+
+text
 
 ## osu!taiko
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/silver-wind.jpg)](http://osu.ppy.sh/s/551271)
+[![](https://assets.ppy.sh/media/spotlights2017-april/classic-pursuit.jpg)](https://osu.ppy.sh/s/373254)
 
-The winner of this month's spotlights, Charlotte's talent, experience and skill with mapping really shines through with this formidable set. The Inner Oni displays superb usage of pair patterns and maintains a good flow throughout the entire difficulty. The climax is represented clearly by long patterns and streams being both enjoyable to play and following the music perfectly. 
+Spooky! Just 7 months after Halloween Hanjamon's Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: Try it with ANY mod. It's a challenge with Hidden, Hardrock and Doubletime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using. The set also has nicely done lower diffs, including Hanjamon's signature "Basic" difficulty, which introduces you into the most basic structures of osu!taiko's dons and kats (the red and blue notes!). We hope that you will enjoy this map - and replay it during Halloween!
 
-The lower difficulties are also excellent, with the Muzukashii by qoot8123 being a prime example of how it should be done - with consistent use of monocolours triplets used as emphasizers on certain parts of the song. Accentuated by solid patterning choices and clever break placement, brought together most of all in the kiai time, the two lowest difficulties use  perfect rhythms and note timings to create a truly fun way to learn osu!taiko.
+[![](https://assets.ppy.sh/media/spotlights2017-april/proof-of-the-existance.jpg)](https://osu.ppy.sh/s/427864)
 
-Go ahead and enjoy this exceptional mapset!
+text
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/dawn-of-a-dark-day.jpg)](http://osu.ppy.sh/s/458597)
+[![](https://assets.ppy.sh/media/spotlights2017-april/on-the-fm.jpg)](https://osu.ppy.sh/s/568544)
 
-What is this, rap in osu!taiko!? Seeing is believing! 
+This month we have something different in the chart, a gimmick map! Tired of maps with regular sv? Do you want to play maps with constant sv changes? On the FM it's your map! But hey, we are talking of the Inner Oni, right? No! You will have a sv challenge in all diffs, even in the Kantan. Nofool did a good choice with this song as the sv changes fits pretty well and gives a lot of variety, since 1/4 patterns to nonstop 1/3 patterns. What? Too slow? Use HR and you will enjoy more the map!
 
-One of this month's osu!taiko maps in the spotlight, Zetera's Dawn of a Dark Day features not only the aforementioned rap sections mapped closely to both the vocals and the beat, but also a number of volume and slider velocity changes to reflect the intensity of the track. 
+[![](https://assets.ppy.sh/media/spotlights2017-april/clarity-(feat-foxes).jpg)](https://osu.ppy.sh/s/603069)
 
-From simple slider velocity slowdowns to difficult 1/4-snapped slider velocity increases in the kiai sections, Zetera did an excellent job in capturing the cadence of the track with his work, creating something truly special.
+A bright song and map that I would like to mention in this month, it doesn't contained any fancy patterns,but rather clean in overall. Although the usage of hitsounds is decent, it still not the most decisive element to make this map perfect. The volume setting is also a important factor that make patterns/hitsounds completely integrated with the song.To sum up, this map mapped in neat way, and the volume/hitsounds usage implies the mapper(hikikochan) comprehends the song itself pretty much.
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/outbreak.jpg)](http://osu.ppy.sh/s/527082)
+[![](https://assets.ppy.sh/media/spotlights2017-april/elpis.jpg)](https://osu.ppy.sh/s/559260)
 
-Guest difficulties to Strategas' osu! set, Arrival's Muzukashii and Oni adds some additional variety to this highly technical drum 'n' bass mix. Starting off with an uncommon 1/3rd snapping, both difficulties convey a clear rhythmic intention, and the maps are made all the more enjoyable as the meter shifts to 1/4th towards the latter half of the song.
+After having his [first ever ranked map](https://osu.ppy.sh/s/507007) featured in Spotlights at the start of the year, iloveyou4ever's unique mapping style continues to impress, and his latest map ELPIS certainly showcases his growing creativity and talent as a mapper. This kind of progression is exactly the kind we are looking for, and thus he has earned a rightful spot on this month's Spotlights!
 
-In his flagship Oni difficulty, Arrival demonstrates a flair born of expertise by emphasizing intense sections of the song through the use of smooth SV changes, as well as employing fitting 1/6th bursts and doublets throughout. 
+The key defining feature of this map lies in iloveyou4ever's excellent choice of patterns. In particular, his placement of triplets is nothing short of beautiful, as it captures the swell and subtle nuances of the song very well. The streams throughout the map are also fairly varied, carrying good flow in spite of the fluctuating BPM. All in all another excellent addition to the ranked section, and I personally cannot wait to see more from him!
 
-Overall, the maps were constructed very well, and I would not be surprised to see this map being used as a common pick in future tournaments to come
+[![](https://assets.ppy.sh/media/spotlights2017-april/best-way,-best-way.jpg)](https://osu.ppy.sh/s/316779)
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/united.jpg)](http://osu.ppy.sh/s/556731)
-
-We make the choices, and united we decided that Unmei Muma’s United deserves a spot in this month’s spotlight! 
-
-Wait, this sounds familiar. With more difficult, longer patterns and more drastic slider velocity changes than last month's United map, we have another approach at mapping this song. 
-
-The huge variety of patterns in this map will surely keep you on your toes, and it's just getting harder towards the end! Hopefully you'll enjoy this map as much as we did.
+A solid mapset in this month, from Kantan to Muzukashii,Volta did very good job by following a lot of instrument(including vocal) and assigned drum and beat as main role in order to maintain the map's structure, then used other one like vocal to decorate the map to make the map become more fun to play. Moreover, Nardo's Oni also rather decent, every hitsounds usage almost mapped in the best way. After looking how perfect Oni is, I just wonder how Inner Oni can be mapped in good way by expanding the note's density, but I am totally wrong,it indeed contains much more notes expansion and has lot of continuous 1/2+1/4 patterns,but every 1/2 hitsounds are correct mapped and every 1/4 patterns placed in perfect section.Furthermore, Volta used some harder 1/4 pattern to make the map more fun to play.I'd say that I enjoy this map very much!
 
 ## osu!catch
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/hallucination.jpg)](http://osu.ppy.sh/s/476944)
+[![](https://assets.ppy.sh/media/spotlights2017-april/chronoxia.jpg)](https://osu.ppy.sh/s/429184)
 
-We really liked how the Rain is executed in this set with only using the best suited beats from the music. The Platter meanwhile could have been a little bit easier but it is still not on the usual level which feels good to play. All in all, this set should be a followable example for anyone who wants to make a good and suitable set for every level.
+text
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/halloween.jpg)](http://osu.ppy.sh/s/512281)
+[![](https://assets.ppy.sh/media/spotlights2017-april/samurai-(spirix-remix).jpg)](https://osu.ppy.sh/s/594326)
 
-For their first ranked map, this is of impressive quality in terms of flow and song interpretation. The movements feel as if they're following the song and it's entertaining to play. Mapping like this shows what we should look forward to from new mappers. Good job.
+This mapset offers more of what we've come to expect from Ascendance with a well crafted series of difficulties that are a pleasure to play. All difficulties do a nice job of building up to the energetic kiai where the Evanesce difficulty stands out from the rest with its quick doubles that kick the difficulty up a notch. Overall while the mapset may not offer many surprises, its solid execution makes for a welcome addition to the catch spotlights.
+
+[![](https://assets.ppy.sh/media/spotlights2017-april/shelter.jpg)](https://osu.ppy.sh/s/536749)
+
+Despite of this set is being Myle's very first ranked set it came out to be a really enjoyable one. The spread built up to grew quite constantly. I really enjoyed playing it, he made a good work.
 
 ## osu!mania
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/squartatrice.jpg)](https://osu.ppy.sh/s/540175)
+[![](https://assets.ppy.sh/media/spotlights2017-april/trigger-(zekk-remix).jpg)](https://osu.ppy.sh/s/555076)
 
-Cool songs always produce a cool chart. Here comes an extreme 7-Key mapset by Garalulu, with guest appearances from Wonki. 
+I have to say it. This map is definetly the most fun experience I had in a while from the ranked pool and I can only say thanks and congratulations to Wonki for winning this month spotlights and also for providing us such a good piece. The SVs on this map feels intense but they are not overdone and it just feels natural with the song, making it really confortable to play. Combine that with a cool usage of minijacks at the very end with some simple LN patterns this map just has everything you want to be the map of the month... and its art!
 
-Charted in a way that draws out the harmony between the music and the patterns themselves, this map truly is something special. An excellent example of well-designed difficulty spread, this set's pattern density slowly grows greater as you progress, starting out straightforward early on and moving up with the heavier chords and long notes at later difficulty levels to truly test your skill.
+[![](https://assets.ppy.sh/media/spotlights2017-april/re-lm.jpg)](https://osu.ppy.sh/s/588066)
 
-Well patterned to match the intensity of the track, the construction of the chart really brought out the best in the music. Give it a go, you won't be disappointed!
+This map caught my eye for a few reasons. The most obvious being the heavy use of SV, which is thoughtfully crafted to be intuitive and smooth, which is quite impressive given how easy it is to cross the line of being more of a distraction than a feature. Though the SV is not the main reason I think this map is particularly deserving of a spotlight. Lude doesn't shy away from LN usage in their mapping of this track. Instead, they use it to add atmospheric value, complexity and originality, which is what I personally love to see. These two points combined with some enjoyable jack-oriented mapping and very smooth difficulty curves, makes this a suitable pick for May's spotlight.
+
+[![](https://assets.ppy.sh/media/spotlights2017-april/black-or-white.jpg)](https://osu.ppy.sh/s/565779)
+
+Let me introduce you another extreme 7K marathon map by Kawawa. I really like how the map structure flows nicely with the song intensity. From the map itself, i can see the mapper have a really good experience in term of emphasizing the melody itself. What caught my attention is the jacking style pattern in the map which it is pretty new and interesting to see. Besides giving a great pattern usage, the speed change through the map are astonishing extreme and fun. The mapper really did a good job on hightlighting certain beats magnitude with a suitable slider velocity. By advancing through the map, player could easily experience the consciousness of the music along with the note arrangement emphasized by the mapper intention. Have a try while you are on it.
+
+[![](https://assets.ppy.sh/media/spotlights2017-april/shine!!(you-remix).jpg)](https://osu.ppy.sh/s/456289)
+
+For his 5th ranked map, Frim4503 offers us another 5K marathon, this time for a drum & bass love live opening remix !
+As usual we have a mix of LN and chords playing really good, making it a really fun map to try big accuracy scores. SV are really lightly used aswell with a quite unique style, focussing on the voice before each kiai. Without changing much of music/mapping style, Frim4503 show us one more time that anti-meta is not dead with a really accessible and catchy map.
+
+[![](https://assets.ppy.sh/media/spotlights2017-april/doppelganger.jpg)](https://osu.ppy.sh/s/407153)
+
+Apart from having the hardest difficulty ever ranked in osu!mania, it counts with a really enjoyable and challenging patterns in every single difficulty. We also have a few GDs coming from Evening, jakads and Lude. Evening's chart is not really heavily charted, but watch out the svs! They're way more noticeable in this difficulty than in the other ones. Every single mapper and modder has done a really good job checking the pattern's quality and playability of each difficulty (even though alter ego it's hell itself, someone with a good eye can really see how good the patterns fits with the song).
 
 --------
 
