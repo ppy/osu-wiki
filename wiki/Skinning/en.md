@@ -3,11 +3,11 @@
 Skinning is one of the fundamentals of all _osu!_ game modes.
 It enables users to derive from the original skinning elements to create their own!
 
-Over the years of _osu!_, skinning have changed dramatically in style.
+Over the years of _osu!_, skinning has changed dramatically in style.
 There are various ways that you can skin _osu!_
 
-Skins vary from for-fun to a central theme (e.g. anime or group of people) to those that are nigh impossible to play with (e.g. [Konata Skin](https://osu.ppy.sh/forum/t/45689)).
-Another type of skin are "pro" skins, where they maximize play field visibility and minimize visual obtrusions (e.g. replacing combobursts and hitbursts with blank images).
+Skins vary from for-fun to a central theme (e.g. anime or group of people) to those that are nigh impossible to play with (e.g. oversized hitbursts, invisible followpoints, ).
+Another type of skin are _pro_ skins, where they maximize play field visibility and minimize visual obtrusions (e.g. replacing hitbursts with blank images).
 
 ## Tutorial
 
@@ -18,7 +18,8 @@ _See [Skinning Tutorial](/wiki/Skinning/Tutorial/)._
 If your **beatmap** uses a skin and has any of the elements included in here, all elements of the set **should be included** even if you need to use default skin elements to complete it.
 If **all** sets are included, then you may alternatively just force default skin.
 
-The **individual sets** can be found on these pages **divided into each gamemode**, the user interface and the sounds shared by most gamemodes:
+The **individual sets** can be found on these pages **divided into each game mode**.
+The user interface and the sounds shared by most game modes:
 
 - [Interface Sets](Interface/)
 - [osu!standard Sets](osu!/)
@@ -89,98 +90,10 @@ The first mode is **LowResolution** while the second mode is **HighResolution.**
 
 ### osu!supporter
 
-Currently 2 sprites and 2 sounds can only be modified by [osu!supporter](/wiki/osu!supporter/) otherwise the default one will be used.
-These are:
+Currently, only 2 sprites and 2 sounds can only be modified if the user is an [osu!supporter](/wiki/osu!supporter/); otherwise, the default one will be used.
+Those skinning elements are as follows:
 
 - `menu-background.jpg`
 - `welcome_text.png`
 - `seeya.wav`
 - `welcome.wav`
-
-## Versions
-
-Below is the skinning changelog.
-The version number, seen in the headings, is what will be used in the `Version` command for the `skin.ini` file.
-
-### 1.0
-
-**Original 2007 - 2013 skin!**
-
-- hitcircle numbers are part of hitburst explosions
-- large expansion of hitlighting (lighting.png)
-- old styled spinner (spinner-circle/-background/-metre.png)
-- segmented countdown image build-up
-- smaller selection bar images (87px height max)
-- uncolored play-warningarrow during end of breaks
-- version exclusive ranking screen buttons (ranking-replay.png and ranking-retry.png)
-- version exclusive sliderpoints display (sliderpoint10.png and sliderpoint30.png)
-
-### 2.0
-
-**Revamped skin!**
-
-- high definition skins
-  - use the suffix `@2x.png` in the skinning element to let osu! know that the skinning element is higher in quality
-- new style spinner (spinner-middle/-middle2/-top/-bottom/-glow.png)
-- countdown sequence instead of segmented image
-  - countdowns are now centered
-- hitcircle numbers are no longer part of hitburst explosions
-- red colored play-warningarrow during end of breaks
-- smaller expansion of `lighting.png`
-- anchor changes of selectionbar images
-- positioning changes of ranking screen images (generally shifted down)
-
-### 2.1
-
-**osu!taiko changes**
-
-- `taiko-bar-right(-glow).png` directly sits under `taiko-bar-left.png`
-- taiko drum postion changes (allows larger areas)
-
-### 2.2
-
-**interface/UI changes**
-
-- thumbnail support
-- changes star rating display to scaling star.png instead of partially filled star.png
-- panel text alignment optimisations
-
-### 2.3
-
-**osu!catch changes**
-
-- `fruit-ryuuta.png` will no longer work from this point forward
-- new catcher images
-- new 'osu!catch' specific combobursts (comboburst-fruits(-#).png)
-
-### 2.4
-
-**osu!mania changes**
-
-- smaller combo counter and hitbursts
-- column lines are drawn on both sides of the column when columns are spaced
-- introduction of hold note tails on release
-
-### 2.5
-
-**more osu!mania changes**
-
-- new commands: `KeyFlipWhenUpsideDown` and `NoteFlipWhenUpsideDown`
-- new command: `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
-- new commands: `LightingNWidth` and `LightingLWidth`
-
-### latest
-
-**always the newest version**
-
-- do not use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for)
-- always uses the latest version the game supports
-
-### User
-
-**not a version, but like latest**
-
-- do not use this method when distribute skins!
-- the skin folder MUST be named `User`
-- use this method if you only want to change a few things (i.e. cursor or numbers, etc)
-- does not require the `skin.ini` file
