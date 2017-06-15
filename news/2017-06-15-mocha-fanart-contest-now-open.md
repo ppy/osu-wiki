@@ -2,7 +2,7 @@
 layout: post
 title: "Mocha Fanart Contest: Now Open"
 permalink: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
-date: 2017-06-15 18:00:50 +0000
+date: 2017-06-15 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 ---
 
@@ -14,7 +14,7 @@ Hot off the heels of an unprecedented turnout for our seasonal contest, we invit
  
 **Mocha!**
 
-<center>![](https://assets.ppy.sh/contests/48/mocha-half.jpg)</center>
+![](https://assets.ppy.sh/contests/48/mocha-half.jpg)
  
 Of course, this doesn’t mean you *can’t* draw one of our other mascots, but we are really excited to see what kinds of interpretations you have of our own beloved tomboyish girl. Let your imagination run wild (but not *too* wild) and fill the canvas of your dreams with everything you’ve got!
  
