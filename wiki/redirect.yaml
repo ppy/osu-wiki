@@ -147,10 +147,25 @@
 "osu!taiko":                   "Game_Modes/osu!taiko"
 "taiko":                       "Game_Modes/osu!taiko"
 
-"game_modes_summary":          "Game_Modes/Summary"
-"game_mode_summary":           "Game_Modes/Summary"
-"summary_game_modes":          "Game_Modes/Summary"
-"summary_game_mode":           "Game_Modes/Summary"
+"game_modifiers":              "Game_Modifiers"
+"game_modifier":               "Game_Modifiers"
+"mods":                        "Game_Modifiers"
+"mod":                         "Game_Modifiers"
+"modifiers":                   "Game_Modifiers"
+"modifier":                    "Game_Modifiers"
+
+"game_modifiers_summary":      "Game_Modifiers/Summary"
+"game_modifier_summary":       "Game_Modifiers/Summary"
+"mods_summary":                "Game_Modifiers/Summary"
+"mod_summary":                 "Game_Modifiers/Summary"
+"modifiers_summary":           "Game_Modifiers/Summary"
+"modifier_summary":            "Game_Modifiers/Summary"
+"summary_game_modifiers":      "Game_Modifiers/Summary"
+"summary_game_modifier":       "Game_Modifiers/Summary"
+"summary_mods":                "Game_Modifiers/Summary"
+"summary_mod":                 "Game_Modifiers/Summary"
+"summary_modifiers":           "Game_Modifiers/Summary"
+"summary_modifier":            "Game_Modifiers/Summary"
 
 "10k":                         "Game_Modifiers/#10k"
 
@@ -429,8 +444,14 @@
 "index":                       "Index"
 
 "installation":                "Installation"
+"install":                     "Installation"
+"install_osu!":                "Installation"
+"osu!_install":                "Installation"
+"osu!install":                 "Installation"
 
 "interface":                   "Interface"
+"user_interface":              "Interface"
+"ui":                          "Interface"
 
 "internet_relay_chat":         "Internet_Relay_Chat"
 "irc":                         "Internet_Relay_Chat"
