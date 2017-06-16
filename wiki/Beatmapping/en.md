@@ -1,13 +1,13 @@
 Beatmapping
 ===========
 
-**Beatmapping** is the process of creating beatmaps in *osu!* for players to play. It involves choosing a song, [timing](/wiki/Beatmap_Editor/Timing), placement of objects, and (optionally) [skinning](skinning "wikilink") and [storyboarding](Storyboarding "wikilink").
+**Beatmapping** is the process of creating beatmaps in *osu!* for players to play. It involves choosing a song, [timing](/wiki/Beatmap_Editor/Timing), placement of objects, and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboarding).
 
 To start, press the **Edit** button.
 
-Mappers usually want to get their beatmaps [ranked](Ranked_beatmap "wikilink"), which consists of a [beatmap approval](beatmap_approval "wikilink") process, where when completed successfully, a scoreboard will be assigned onto the beatmap and is considered complete unless the mapper wish to add/change something to it.
+Mappers usually want to get their beatmaps [ranked](/wiki/Beatmaps/#ranked), which consists of a [beatmap approval](/wiki/Submission/Beatmap_Ranking_Procedure) process, where when completed successfully, a scoreboard will be assigned onto the beatmap and is considered complete unless the mapper wish to add/change something to it.
 
-The most common difficulties created in Beatmapping are:
+The most common difficulties created in beatmapping are:
 
 -   [Easy](/wiki/Difficulties/osu!/Easy)
 -   [Normal](/wiki/Difficulties/osu!/Normal)
@@ -49,15 +49,15 @@ Alternative route: Put audio file onto the `Songs` folder.
 Here are some tips for getting your timing right:-
 
 -   Watch [New mapping video tutorials](https://osu.ppy.sh/forum/t/39317) and/or [osu! Official Tutorials](https://osu.ppy.sh/forum/t/3815/) for basic timing methods.
--   Make sure the ticks of the metronome coincide with the beat of the song for the entire length of the song. So check the timing at 5%, 25%, 50%, 75% and 100% of the song, at the very least.
--   Take a look at the BPM gauge. If the number is very close to a whole number (until .10 difference), it is probably better (unless requested not) to round down to that whole number. If so, manually enter in the correct BPM using the Timing Setup Panel.
-    -   Example: 150.02 should be rounded down to 150.00 unless requested by another mapper that it doesn't sound correct with reason.
--   For fine-tuning of the offset, slow the song down to 0.5x (or even 0.25x if necessary) and adjust the values until the beats exactly coincide with the metronome ticks.
+-   Make sure the ticks of the metronome coincide with the beat of the song for the entire length of the song. So check the timing at `5%`, `25%`, `50%`, `75%` and `100%` of the song, at the very least.
+-   Take a look at the BPM gauge. If the number is very close to a whole number (a `.10` difference), it is probably better (unless requested not) to round down to that whole number. If so, manually enter in the correct BPM using the Timing Setup Panel.
+    -   Example: `150.02` should be rounded down to `150.00` unless requested by another mapper that it does not sound correct with reason.
+-   For fine-tuning of the offset, slow the song down to `0.5x` (or even `0.25x` if necessary) and adjust the values until the beats exactly coincide with the metronome ticks.
 -   Some songs have multiple BPMs. You can cater for this by adding a timing section (`Timing` > `Add Timing Section`) where the timing changes. The BPM and offset for the new timing section can be found exactly as before. The Timing Setup Panel gives a list of all timing sections in the song.
 
-### What information do I enter in Song Setup?
+### Song Setup
 
-You should enter this information before you create a second difficulty, to ensure that the description will be consistent across all of the maps in the set. You are currently **allowed to use Unicode characters.**
+You should enter this information before you create a second difficulty, to ensure that the description will be consistent across all of the maps in the set. You are currently **allowed to use unicode characters.**
 
 [Guide on finding Metadata](https://osu.ppy.sh/forum/t/249288).
 
@@ -67,7 +67,7 @@ You should enter this information before you create a second difficulty, to ensu
 
 #### Romanised Artist
 
-**The romanised (English) name of the artist of the song.** It should also be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency). This field will become active if you use Unicode characters in the _Artist_ field.
+**The romanised (English) name of the artist of the song.** It should also be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency). This field will become active if you use unicode characters in the _Artist_ field.
 
 #### Title  
 
@@ -79,16 +79,16 @@ You should enter this information before you create a second difficulty, to ensu
 
 #### Beatmap Creator
 
-**That's you. *osu!* should handle this automatically, so you shouldn't edit this.** If you are including a guest difficulty made by someone else, their name belongs in the `Difficulty` field below, not here.
+**That means you. *osu!* should handle this automatically, so you will not need edit this.** If you are including a guest difficulty made by someone else, their name belongs in the `Difficulty` field below, not here.
 
 #### Difficulty
 
-**The name of the difficulty of map.** The dropdown contains the preset names: Easy, Normal, Hard, Insane. You can select one of the default names, or create your own name. While it's good to be creative, try to make it very clear which one is harder than others as ambiguous difficulty names can annoy players. This would also be the field where you indicate a guest mapper, if this is their difficulty (e.g. "Larto's Hard").
+**The name of the difficulty of map.** The dropdown contains the preset names: Easy, Normal, Hard, Insane. You can select one of the default names, or create your own name. While it is good to be creative, try to make it very clear which one is harder than others as ambiguous difficulty names can annoy players. This would also be the field where you indicate a guest mapper, if this is their difficulty (e.g. "Larto's Hard").
 
 #### Source
 
 **Where this song originates from.** This field should generally only be included for anime or video game songs, and occasionally for novelty (movies, TV, or internet) songs. If the song is from an anime or video game, or is famous for its use as a TV or movie theme, the title of that source goes here.
-Rock and Pop songs should generally leave the field blank. **This is not to be used for things like album titles.**
+Rock and pop songs should generally leave the field blank. **This is not to be used for things like album titles.**
 
 #### Tags
 
@@ -124,14 +124,14 @@ This should be a straightforward and intuitive process. Below are some useful ti
 
 Before delving into sliders, do the following two things:
 
--   Make sure you set the [Slider Velocity (SV)](/wiki/Glossary/#sv) (under the Timing tab) to your preferred value. This value will apply for the entire beatmap, so choose carefully! Changing Slider Velocity after placing sliders will result in wonky, mistimed sliders - try and avoid this eventuality!
+-   Make sure you set the [Slider Velocity (SV)](/wiki/Glossary/#sv) (under the `Timing` tab) to your preferred value. This value will apply for the entire beatmap, so choose carefully! Changing the Slider Velocity after placing sliders will result in wonky, mistimed sliders - try to avoid this!
 -   Set the type of slider you want. There are two types of curves - Bezier and Linear.
     -   Bezier is recommended as it produces the smoothest looking curves.
     -   Linear mode is useful if you want sharp (e.g. 90 degree) corners in your sliders.
 
 Now you can begin adding a slider. `Left-click` to start the slider, add waypoints with further `left-clicks`, and terminate with a `right-click` to make a bezier slider. If you want to create a liner slider, make a bezier-shaped slider first, then `left-click` on an existing vertex to turn that vertex red and create a new anchor point to allow for sharp turns and new curves. It is recommended to make sure the length of the slider is correct before adjusting the shape.
 
-Here are some other tips regarding sliders:-
+Here are some other tips regarding sliders:
 
 -   To add repeats on a slider, drag the end of the slider in the timeline after finishing placement.
 -   Drag an individual waypoint to move it. `Right-click` to remove a point, and `Ctrl` + `Left-click` adds a point.
@@ -197,7 +197,7 @@ Retaining the distinctive difference in accordance to difficulty: Difference in 
 
 If you have a circle on your mouse cursor (i.e. you are in placement mode) it will act as if you have placed it - changing the combo numbers/colours for any circles that occur after it.
 
-## Visualisation of beatmap
+## Visualisation of beatmaps
 
 ### Background Colour
 
@@ -223,7 +223,7 @@ Some notes:
         -   Example: A, Lyric1, 007, etc. (As long as you know which one is which one)
     -   Skin name: The beatmap will use the file automatically, replacing one of the player's skin elements. You will notice this.
         -   Example: normal-hitnormal (This sound file will be played instead of player skin's sound file)
--   Drop it into your song's folder.
+-   Drop it into your songs folder.
 
 [A list of appropriate custom sound filenames can be found here.](https://osu.ppy.sh/forum/t/729/start=0)
 
@@ -231,6 +231,6 @@ Some notes:
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
 
-Click the `Design` tab to open up the [SBE (Storyboard Editor)]().
+Click the `Design` tab to open up the SBE (Storyboard Editor).
 
 Refer to [Shorcut Key Reference](wiki/Shortcut_Key_Reference).
