@@ -1,49 +1,49 @@
 # Modding
 
-**Modding** is the process of examining another's [beatmap](/wiki/Beatmaps) and making suggestions. These suggestions can be either to fix errors or to simply improve the map. The person modding the map is called a "modder", and the person who made the map is referred to as the "mapper". Modding can be useful in three main ways:
+**Modding** is the process of examining another mapper's [beatmap](/wiki/Beatmaps) and making suggestions. Those suggestions can be either to fix issues or simply improve the map. The person modding the map is called a "modder", and the person who made the map a "mapper". Modding can be useful in three main ways:
 
 1.  If a modder's post is useful to the mapper, then the mapper may give the modder a [kudosu](/wiki/kudosu). Kudosu can be used to boost a map's star priority up.
-2.  "Mod4mods", or when a modder make a deal to mod a map if the receiver mods the modder's map, is a great way to get the map modded.
+2.  "M4M' (mod for mod), when a modder makes a deal to mod a map if the receiver mods the modder's map, is a great way to get the map modded.
 3.  A good mod post reduces the amount of time the approval teams spend pointing out basic mistakes. This in turn makes the approval teams less stressed and more likely to mod the map. Happy [BNs](/wiki/People/Beatmap_Nomination_Group) are typically in a better mood than a BN who just spent 10 minutes crying because of a map that clearly needed a lot more modding.
 
-If you are learning how to map or already know how to map, modding can improve mapping skills.
+If you are learning how to map or already know how to map, modding can improve your mapping skills.
 
 ## Basics
 
 First, download a map from the [beatmap](https://osu.ppy.sh/forum/12) thread, which can be located in either the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) forum (not the [Ranked/Approved](https://osu.ppy.sh/forum/14) beatmaps forum!). You can either randomly choose maps from these subforums to mod or you can open a modding queue in the 'Modding Queue' subforum under the Work In Progress/Help forum and accept requests. If you are opening a queue, it is a good idea to see how these queues work by reading some threads in the 'Modding Queues' subforum.
 
-Next, go into the [editor](/wiki/Beatmap_Editor) and select the map which you want to mod. Then, start up a reply to the [beatmap's](/wiki/Beatmaps) thread.
+Next, go into the [editor](/wiki/Beatmap_Editor) and select the map which you want to mod. Then, start up a reply to the beatmap's thread.
 
-Choose any of the difficulties to start a mod. It is recommended to start with the easiest or hardest difficulty and continue up or down the different difficulties.
+Choose any of the difficulties to start a mod. It is recommended to start with the easiest or the hardest difficulty and continue with easier or harder difficulties.
 
 Start by playing this difficulty in either play mode or [test mode](/wiki/Glossary/#test-mode). Play-testing is an important part of modding as it allows the modder to understand whether or not certain [patterns](/wiki/Mapping_Techniques) play well. Take note of anything that felt odd.
 
-After play-testing, watch the song in the editor and pause frequently to catch any errors.
-In this stage of modding, it is most often that modders find more intricate problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing.
+After play-testing, watch the beatmap in the editor to catch any errors.
+In this stage of modding, modders frequently find more intricate problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing.
 When a hit circle or a slider that needs attention was found, select it.
 Now, go to the `Edit` tab and select `Copy` at the top (or `Ctrl` + `C`), and then to your post you started up, and paste (`Ctrl` + `V`) what you just copied there.
 Then, follow up with either what you think is wrong (Ex. "I would change this spacing because the music does not suggest a [jump](/wiki/Mapping_Techniques/Jumps) here), or simply that it does not seem right and you cannot put your finger on it.
 Always look for things that you did not notice while playing.
 
-**Rinse and repeat with the next difficulty** and keep in mind that if anything amiss while in the editor and it behaves differently while playing, point that out too (it is recommended to have the map play at normal speed in the editor while watching, just to double check things).
-Submit the post to end the modding of the beatmap.
+**Rinse and repeat with the next difficulties** and keep in mind that if anything amiss while in the editor and it behaves differently while playing, point that out too (it is recommended to have the map play at normal speed in the editor while watching, just to double check things).
+Submit the post to end the process of modding.
 
 What to look for in a beatmap
 -----------------------------
 
 A very helpful tool is [AiMod](/wiki/AiMod), which can be opened under the `Files` tab or by pressing `Ctrl` + `Shift` + `A`.
-AiMod shows mapping errors that a certain difficulty for the beatmap has.
+AiMod shows mapping errors that a certain difficulty of the beatmap has.
 However, be wary that it is just a program and some errors are not true errors (i.e. a spacing error, but it was supposed to be a jump).
 
 The below is a list, organized by importance.
 
 ### Timing
 
-The most important part of making a beatmap is timing. If the BPM is incorrect, the whole song will be timed incorrectly, and the rhythm of the notes will feel awkward. If the notes feel consistently "off," then it is most likely due to an offset issue. The offset adjusts the main beat of each measure so that it will match the main beat the music. This is likely the problem if it is hard to get good [accuracy](/wiki/Accuracy) on a map. The BPM and offset must be the same in **all** difficulties. This also applies for BPM changes. All BPM changes and their correlating offset must be the same in **all** difficulties.
+The most important part of a beatmap is timing. If the BPM is incorrect, the whole song will be timed incorrectly and the rhythm of the notes will feel awkward. If the notes feel consistently "off," then it is most likely due to an offset issue. The offset adjusts the main beat of each measure so that it will match the main beat the music. This is likely the problem if it is hard to get good [accuracy](/wiki/Accuracy) on a map. The BPM and offset must be the same for **all** difficulties. This also applies for BPM changes. All BPM changes and their correlating offset must  be the same for **all** difficulties.
 
 ### Spacing
 
-One of the most important aspects of beatmapping is [spacing](/wiki/Beatmap_Editor/Compose). Spacing helps the player understand the rhythm of the hitcircles better. Spacing rules can be easily broken while still having a easily readable beatmap, but doing so requires a higher level of mapping understanding. If you are a beginner modder/mapper, don't hesitate to comment on spacing, but also be weary that weird spacing can be characteristic of a [jump](/wiki/Mapping_Techniques/Jumps), an [anti-jump](/wiki/Mapping_Techniques/Jumps), or a jumpy map in general.
+One of the most important aspects of beatmapping is [spacing](/wiki/Beatmap_Editor/Compose). Spacing helps the player understand the rhythm of the hit circles better. Spacing rules can be easily broken while still having a easily readable beatmap, but doing so requires a higher level of mapping understanding. If you are a beginner modder/mapper, don't hesitate to comment on spacing, but also be weary that weird spacing can be characteristic of a [jump](/wiki/Mapping_Techniques/Jumps), an [anti-jump](/wiki/Mapping_Techniques/Jumps), or a jumpy map in general.
 
 ### Rhythm of the hit objects
 
@@ -79,7 +79,7 @@ Kiai Time should make sense and should not be abused. They are only for times wh
 
 ### Difficulty Settings
 
-The difficulty settings can be found in the `Song Set-up` window, opened by pressing `F4` or the `Song Set-up` tab at the top of the [editor](/wiki/Beatmap_Editor) screen. These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have. For example, an [Easy](/wiki/Difficulties/osu!/Easy) difficulty will not need an [Approach Rate (AR)](/wiki/Beatmap_Editor/Song_Setup/#approach-rate) of 7 or an [HP Drain Rate (HP)](/wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate) of 8. This is completely illogical and makes the difficulty much harder than it should be.
+The difficulty settings can be found in the `Song Setup` window, opened by pressing `F4` or the `Song Setup` tab at the top of the [editor](/wiki/Beatmap_Editor) screen. These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have. For example, an [Easy](/wiki/Difficulties/osu!/Easy) difficulty will not need an [Approach Rate (AR)](/wiki/Beatmap_Editor/Song_Setup/#approach-rate) of 7 or an [HP Drain Rate (HP)](/wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate) of 8. This is completely illogical and makes the difficulty much harder than it should be.
 
 ### Song Setup
 
@@ -103,7 +103,7 @@ All maps must have a preview point. A preview point will be denoted by a yellow-
 
 ### File Organization
 
-The bit rate of the song should lie between 128 to 192 kbps. Also, one empty `.osb` may exist but they must be deleted when more than one is present. Check if there are any file unrelated to the [beatmap](/wiki/Beatmaps) itself (excluding the `thumb.db` as this is the metafile automatically generated by the computer system).
+The bit rate of the song should lie between 128 and 192 kbps. Also, one empty `.osb` may exist but they must be deleted when more than one is present. Check if there are any file unrelated to the [beatmap](/wiki/Beatmaps) itself (excluding the `thumb.db` as this is the metafile automatically generated by the computer system).
 
 What to avoid in your mod post
 ------------------------------
