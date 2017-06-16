@@ -1,13 +1,107 @@
 # skin.ini
 
-skin.ini is an initialization file format found in almost every skin folder!
-It'll define how osu! will display its skinning elements.
+The `skin.ini` is an initialization file format that is found in almost every skin folder.
+This file will define how _osu!_ will display certain skin elements.
+
+## Versions
+
+Below is the skinning changelog.
+The version number, seen in the headings, is what will be used in the `Version` command for the `skin.ini` file.
+
+### 1.0
+
+**Original 2007 - 2013 skin**
+
+If your `skin.ini` does not specify a `Version`, it will default to this version.
+
+- hitcircle numbers are part of hitburst explosions
+- large expansion of hitlighting (`lighting.png`)
+- old styled spinner (`spinner-circle.png`, `spinner-background.png`, and `spinner-metre.png`)
+- segmented countdown image build-up
+- smaller selection bar images (87px height max)
+- uncolored play-warningarrow during end of breaks
+- version exclusive ranking screen buttons (`ranking-replay.png` and `ranking-retry.png`)
+- version exclusive sliderpoints display (`sliderpoint10.png` and `sliderpoint30.png`)
+
+### 2.0
+
+**UI: positioning changes / osu!: visibility update (reduced clutter).**
+
+- high definition skins
+  - use the suffix `@2x.png` in the skinning element to let osu! know that the skinning element is higher in quality
+- new style spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, and `spinner-glow.png`)
+- countdown sequence instead of segmented image
+  - countdowns are now centered
+- hitcircle numbers are no longer part of hitburst explosions
+- red colored play-warningarrow during end of breaks
+- smaller expansion of `lighting.png`
+- anchor changes of selectionbar images
+- positioning changes of ranking screen images (generally, it is shifted down)
+
+### 2.1
+
+**osu!taiko positioning changes**
+
+- `taiko-bar-right.png` and `taiko-bar-right-glow.png` directly sits under `taiko-bar-left.png`
+- taiko drum postion changes (allows larger areas)
+
+### 2.2
+
+**interface/UI changes**
+
+- thumbnail support
+- changes star rating display to scaling `star.png` instead of partially widthed `star.png`
+- panel text alignment optimisations
+
+### 2.3
+
+**osu!catch changes**
+
+- `fruit-ryuuta.png` will no longer work from this point forward
+- new catcher images
+- new osu!catch specific combobursts (`comboburst-fruits.png`)
+  - osu!standard combobursts will no longer be used for osu!catch
+
+### 2.4
+
+**osu!mania stage scaling adjustments**
+
+- downscale combo counter and hitbursts
+- column lines are drawn on both sides of the column when columns are spaced
+- introduction of hold note tails on release (works for all versions)
+
+### 2.5
+
+**osu!mania column and upscroll adjustments**
+
+- new commands: `KeyFlipWhenUpsideDown` and `NoteFlipWhenUpsideDown`
+- new command: `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
+- new commands: `LightingNWidth` and `LightingLWidth`
+
+### latest
+
+**always the newest version**
+
+If your skin folder does not contain a `skin.ini` file, it will default to this version.
+
+- So not use this when trying to distribute skins! (a new skin version could break the skin for what version it was entended for)
+- always uses the latest version the game supports
+
+### User
+
+**not a version, but always force [latest](#latest)**
+
+- So not use this method when distribute skins!
+- The skin folder **must** be named `User`.
+- Use this method if you only want to change a few things (e.g. cursor or numbers, etc).
+- Does not require the `skin.ini` file.
+- This folder will always force `Version: latest`
 
 ## FAQ
 
 ### Blank
 
-See this [blank](Blank/en.md) for a blank copy of the skin.ini file.
+See this [blank](Blank) for a blank copy of the `skin.ini` file.
 
 ### Commenting
 
@@ -15,7 +109,9 @@ See this [blank](Blank/en.md) for a blank copy of the skin.ini file.
 
 To add comments (notes for people to read or code that osu! will ignore), use `//`... just like the example below
 
-`// Like in .osu and .osb files, single-line comments are OK, like this one!`
+```
+// Like in .osu and .osb files, single-line comments are OK, like this one!
+```
 
 ### 1's and 0's
 
@@ -30,7 +126,8 @@ Here is a classic example:
 |----------------------------|----------------------------|
 | ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
 
-Note that Reisen-- the sliderball-- does NOT flip when `0` is used. However, Reisen does flip when a `1` is used.
+Note that Reisen, the sliderball, does **not** flip when `0` is used.
+However, Reisen does flip when a `1` is used.
 
 ### Numbers and Integers
 
@@ -38,12 +135,12 @@ The tables below may list either a *number*, an *integer* or a *positive integer
 
 When viewing these tables:
 
--   *number* means WHOLE or DECIMAL numbers. (i.e. `1.5`, `4.295`, `2`, `3.0`)
+-   *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
 
--   *integer* means WHOLE numbers only. (i.e. `-13`, `-632`, `135` , `9`)
-    -   *positive integer* means POSTIVE WHOLE numbers only. (i.e. `376`, `22`, or `5`)
+-   *integer* means WHOLE numbers only (e.g. `-13`, `-632`, `135` , `9`).
+    -   *positive integer* means POSTIVE WHOLE numbers only (e.g. `376`, `22`, or `5`).
 
--   *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas. (i.e. `1, 2, 3, 55`)
+-   *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
 
 ### RGB and RGB(a)
 
