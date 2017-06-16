@@ -60,7 +60,7 @@ Spooky! Just 7 months after Halloween Hanjamon's Classic Pursuit entered the ran
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/proof-of-the-existance.jpg)](https://osu.ppy.sh/s/427864)
 
-text
+What a high quality set brought up by tasuke912 and SKSalt this month ! What made this chart get featured in the Spotlights is the management of a flawless structure, patterning and flow in each of their respective difficulties, really making a contrast with some other ranked maps this month. tasuke912's pair patterns usage and rhythm changes in the Inner Oni is the signature of a very highly experienced beatmapper, representing the song extremely accurately while making it fun to play through flow and hitsounding.
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/on-the-fm.jpg)](https://osu.ppy.sh/s/568544)
 
