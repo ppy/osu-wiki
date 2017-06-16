@@ -7,7 +7,7 @@ To start, press the **Edit** button.
 
 Mappers usually want to get their beatmaps [ranked](/wiki/Beatmaps/#ranked), which consists of a [beatmap approval](/wiki/Submission/Beatmap_Ranking_Procedure) process, where when completed successfully, a scoreboard will be assigned onto the beatmap and is considered complete unless the mapper wish to add/change something to it.
 
-The most common difficulties created in beatmapping are:
+The most common difficulties in beatmapping are:
 
 -   [Easy](/wiki/Difficulties/osu!/Easy)
 -   [Normal](/wiki/Difficulties/osu!/Normal)
@@ -15,9 +15,9 @@ The most common difficulties created in beatmapping are:
 -   [Insane](/wiki/Difficulties/osu!/Insane)
 -   [Expert](/wiki/Difficulties/osu!/Expert)
 
-Clicking each link will display a common set of guidelines [mappers](/wiki/Glossary/#beatmapper) follow to be able to create an entertaining beatmap appropriate for its [difficulty](/wiki/Difficulties) level.
+Clicking each link will display a set of guidelines [mappers](/wiki/Glossary/#beatmapper) follow to be able to create an entertaining beatmap appropriate for its [difficulty](/wiki/Difficulties) level.
 
-It is also not uncommon for mappers to use custom difficulty names in place of these. (Like "Mario" for example)
+It is also not uncommon for mappers to use custom difficulty names in place of these. (Like "Boss Battle" for example)
 
 Additionally you may find [Guest Difficulties](/wiki/Glossary/#guest-difficulty) which are commonly labeled as mapper's difficulty (For example: "Larto's Insane").
 
@@ -25,7 +25,7 @@ With the addition of the special modes, you can now add mod-specific difficultie
 
 ## Getting Started
 
-### How do I start beatmapping?
+### How to start beatmapping
 
 As *osu!* is a rhythm based game, the songs you choose to map should have an obvious and constant beat. Try to avoid songs which have tempo (speed) changes or slow songs until you are more experienced and used to the beatmapping mechanism.
 
@@ -42,7 +42,7 @@ Alternative route: Put audio file onto the `Songs` folder.
     -   Insert and check that the song title and artist are correct, and add source and tags if necessary, then enter in an appropriate difficulty name (Easy, Insane and Cruisin' are examples, you can change it later anyway).
 -   You can set the other options now if you want, but they can be changed later on. Click `OK`, and you can start beatmapping! The next step is to add timing to your beatmap.
 
-### How do I time a song properly?
+### Timing
 
 **Timing is vital - incorrectly timed maps will not be considered for ranking.** Make sure your timing is perfect before putting any notes in. If in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10). This will save a *lot* of hassle later on.
 
@@ -57,7 +57,7 @@ Here are some tips for getting your timing right:-
 
 ### Song Setup
 
-You should enter this information before you create a second difficulty, to ensure that the description will be consistent across all of the maps in the set. You are currently **allowed to use unicode characters.**
+You should fill out this information before you create a second difficulty, to ensure that the description will be consistent across all of the maps in the set. You are currently **allowed to use unicode characters.**
 
 [Guide on finding Metadata](https://osu.ppy.sh/forum/t/249288).
 
@@ -179,11 +179,11 @@ An example is shown below:
 
 ![A quick illustration](Beatspacing.jpg "A quick illustration")
 
- For intuitive play, your beatmaps should have good beat spacing! In general, beats that are close together on the timeline should be close together on the beatmap, and vice versa. This is to ensure the flow of the song sync with the beatmap design harmonically, making the beatmap much more enjoyable.
+For intuitive play, your beatmaps should have good beat spacing! In general, beats that are close together on the timeline should be close together on the beatmap, and vice versa. This is to ensure the flow of the song sync with the beatmap design harmonically, making the beatmap much more enjoyable.
 
 The simplest way to ensure beat spacing is correct on your beatmaps is to utilize the editor's [`Distance Snapping`](/wiki/Beatmap_Editor/Distance_Snap) function, found in the upper-right hand side of the editor. The relative distance between notes can be adjusted using the mouse wheel. If you stick to using `Distance Snap` for the whole song, correct beat spacing is guaranteed!
 
-### How do I add more difficulty levels for a song?
+### How to add more difficulty levels
 
 To make a new difficulty level, simply open your existing difficulty, choose `File` > `Save As New Difficulty...` and change the entry in the `Difficulty` box.
 
@@ -221,7 +221,7 @@ Some notes:
 -   Save it with an appropriate name.
     -   Random name for storyboard. Does exactly nothing when not implemented onto the beatmap.
         -   Example: A, Lyric1, 007, etc. (As long as you know which one is which one)
-    -   Skin name: The beatmap will use the file automatically, replacing one of the player's skin elements. You will notice this.
+    -   Skin name: The beatmap will use the file automatically, replacing one of the player's skin elements.
         -   Example: normal-hitnormal (This sound file will be played instead of player skin's sound file)
 -   Drop it into your songs folder.
 
