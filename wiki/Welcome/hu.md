@@ -56,7 +56,7 @@ Felvetődhet benned a kérdés: Mi az a beatmap? Mint minden játékban, vannak 
 ![][welcome00 image]
 
 ### Második lépés - Töltsd le!
-Ha létezik jóváhagyott beatmap az általad keresett számból, akkor meg kell találd az eredmények között. Ne zaklasson fel viszont az sem, ha nem találod! Több száz beatmap kerül fel és kerül felülvizsgálatra folyamatosan, szóval az is lehet, hogy már úton van, amit keresel. Kérlek **ne írj kéréseket a fórumra, ha szeretnél egy beatmapet!**, a legtöbb mapper olyan számokat készít, amiket **ők** szeretnek, nem amiket te szeretsz, de ez akár egy segítség lehet hogy te is elkezdj foglalkozni vele!
+Ha létezik jóváhagyott beatmap az általad keresett számból, akkor meg kell találd az eredmények között. Ne zaklasson fel viszont az sem, ha nem találod! Több száz beatmap kerül fel és kerül felülvizsgálatra folyamatosan, szóval az is lehet, hogy már úton van, amit keresel. Kérlek **ne írj kéréseket a fórumra, ha szeretnél egy beatmap-et!**, a legtöbb mapper olyan számokat készít, amiket **ők** szeretnek, nem amiket te szeretsz, de ez akár egy segítség lehet hogy te is elkezdj foglalkozni vele!
 
 ![][welcome01 image]
 
@@ -78,7 +78,7 @@ Amint megnyitod a fájlt, elindul az osu! (esetleg frissít is). Az elérhető b
 
 ![][welcome04 image]
 
-Meg is vagyunk! Most már készen állsz, hogy te legyél a következő osu! bajnok! Ha bármilyen problémába ütközöl, nyugodtan kérj segítséget a fórumon, vagy a játékon belül (lenyomva az F8 gombot a chat panelhez és a \#help-et választva (a magyar közösség csatornája a \#hungarian).
+Meg is vagyunk! Most már készen állsz, hogy te legyél a következő osu! bajnok! Ha bármilyen problémába ütközöl, nyugodtan kérj segítséget a fórumon, vagy a játékon belül (lenyomva az F8 gombot a chat panelhez és a \#help-et választva illetve a magyar közösség csatornája a \#hungarian ahol szintén nyugodtan felteheted kérdésedet).
 
 ## Játékmódok
 
