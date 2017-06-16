@@ -6,7 +6,7 @@ Hard
 Summary
 -------
 
-Hard difficulties are considered the second most difficult in the general of a 4 difficulty mapset. The difficulty curve from normal to hard difficulties is considered enormous and is one of the hardest learning curves.
+Hard difficulties are generally considered the second hardest difficulty of a 4 difficulty mapset. The difficulty curve from normal to hard difficulties is considered enormous and is one of the hardest learning curves.
 
 These maps generally have a higher [Approach Rate (AR)](/wiki/Beatmap_Edtior/Song_Setup), HP drain rate (HP) and Overall Difficulty (OD) compared with the [Normal](/wiki/Difficulties/osu!/Normal) difficulty. More complex/difficult patterns also appear in this difficulty such as short [streams](/wiki/Mapping_Techniques/Rhythm) and [jumps](/wiki/Mapping_Techniques/Jump). Depending on the mapper's ability and the song used, this name will be used instead of Insane, based on mapper's relative comparison on testplay results.
 
@@ -19,14 +19,14 @@ Try to not create a huge gap between your Hard and Insane difficulty, it might u
 Guidelines
 ----------
 
-Following mostly "what you can hear". Try to capture the essence of the song and don't leave out too much. **Interesting patterns and beat placements are encouraged** along with jumps and short streams/triplets. **If your mapset features a Normal and an Insane make sure your Hard map is a reasonable stepping stone between them**.
+Following mostly "what you can hear". Try to capture the essence of the song and do not leave out too much. **Interesting patterns and beat placements are encouraged** along with jumps and short streams/triplets. **If your mapset features a Normal and an Insane make sure your Hard map is a reasonable stepping stone between them**.
 
 Difficulty setup should include a BPM appropriate slider velocity that captures the pacing of the song. Use multiple slider velocities if needed. Drain rate and hit accuracy should balance the difficulty of your patterns and the frequency of streams and other 1/4 notes. Approach rate should be balanced between the BPM related note density and the readability of more complex patterns.
 
 And try to avoid these:
 
--   extremely long streams
--   fullscreen jump patterns (Jumps that are wide as the screen)
+-   extremely long [streams](/wiki/Mapping_Techniques/#stream)
+-   fullscreen jump patterns (Jumps that are as wide as the screen)
 
 Setup
 -----

@@ -6,9 +6,9 @@ Expert
 In ways to push and extend the limits of beatmapping, Expert was invented/created to be beatmaps *like* [Insane](/wiki/Difficulties/osu!/Insane) but go beyond.
 
 It could be the extra *5th* difficulty (if beatmaps are formatted in
-![Easy icon](/wiki/shared/Easy-s.png "Easy icon")![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")![Expert icon](/wiki/shared/Expert-s.png "Expert icon"))
+![Easy icon](/wiki/shared/Easy-s.png "Easy icon")![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")).
 or the *4th* (if beatmaps are formatted in
-![Easy icon](/wiki/shared/Easy-s.png "Easy icon")![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")![Expert icon](/wiki/shared/Expert-s.png "Expert icon")).
+![Normal icon](/wiki/shared/Normal-s.png "Normal icon")![Hard icon](/wiki/shared/Hard-s.png "Hard icon")![Insane icon](/wiki/shared/Insane-s.png "Insane icon")![Expert icon](/wiki/shared/Expert-s.png "Expert icon")).
 These maps, like Insane, are generally examples of the mapper's skill, and are the difficulties where creativity can be easily shown.
 
 On the osu!beatmap listing page (for example: [Rise Against - The Good Left Undone (pishifat) \[Extreme\]](https://osu.ppy.sh/b/774564)), one may tell it is an Expert map with this icon: ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
@@ -22,7 +22,7 @@ Settings
 
 *Note: this is only a general suggestion. The difficulty setting will vary depending on the song itself and mapper's own style.*
 
-Also note: in most cases it's the [mapping](/wiki/Beatmapping), not the [Song Setup](/wiki/Beatmap_Editor/Song_Setup), but doing this (or similar) is a step of the way!''
+Also note: in most cases it is the [mapping](/wiki/Beatmapping), not the [Song Setup](/wiki/Beatmap_Editor/Song_Setup), but doing this (or similar) is a step of the way!
 
 -   `HP Drain (HP)`: 6+
 -   `Circle Size (CS)`: Any

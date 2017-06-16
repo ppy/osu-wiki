@@ -80,7 +80,7 @@ To have an idea of how these sets can be build up, examples will be given:
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + **easy 1/2**
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + **demanding 1/4**
 
-**Example 5 of what should not happen:** While the transition from Kantan to Futsuu and Muzukashii to Oni is fine, Futsuu to Muzukashii spread happens to be bigger since Futsuu doesn't have any 1/2 for a better transition into Muzukashii and hence, the spread is uneven and spitted in lower and higher difficulties. Example 2 should be followed to fix such problems.
+**Example 5 of what should not happen:** While the transition from Kantan to Futsuu and Muzukashii to Oni is fine, Futsuu to Muzukashii spread happens to be bigger since Futsuu does not have any 1/2 for a better transition into Muzukashii and hence, the spread is uneven and spitted in lower and higher difficulties. Example 2 should be followed to fix such problems.
 
 -   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1 with 1/1
 -   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
@@ -119,14 +119,14 @@ Note: **M** = Mapper
 
 ![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")
 
--   A song doesn't always require an Oni. Think about mapping lower difficulties.
+-   A song does not always require an Oni. Think about mapping lower difficulties.
 
 -   Make lower players happy by giving them easier difficulties. Experienced players can use several mods to make the map harder for themself.
 
 Rest moments in osu!taiko
 -------------------------
 
-**Rest moments** or [**breaks**](/wiki/Glossary/#break) are really important in a osu!taiko beatmap and can be seen as the *hidden extra note*. They have a great influence when it's about the **difficulty** and **spread** of a mapset and can **emphasize certain places** in a map. Beside following the song, the length of a rest moment depends also of the **main snapping** in a map. So if for example a Muzukashii has a main snapping of 2/1 + 1/1, the breaks should be bigger than this snapping to **avoid continuous mapping**. Sometimes the length of a rest moment can also vary by the hardness of the previous pattern but this rather apply to lower difficulties.
+**Rest moments** or [**breaks**](/wiki/Glossary/#break) are really important in a osu!taiko beatmap and can be seen as the *hidden extra note*. They have a great influence when it iss about the **difficulty** and **spread** of a mapset and can **emphasize certain places** in a map. Beside following the song, the length of a rest moment depends also of the **main snapping** in a map. So if for example a Muzukashii has a main snapping of 2/1 + 1/1, the breaks should be bigger than this snapping to **avoid continuous mapping**. Sometimes the length of a rest moment can also vary by the hardness of the previous pattern but this rather apply to lower difficulties.
 
 **Example what break maps could have:**
 
