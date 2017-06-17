@@ -3,7 +3,7 @@
 
 ![CMT 4K 2017](pic.png)
 
- **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
+ **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 
 ## 比賽時間表
 
@@ -53,7 +53,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ### 測試賽
 
-6月17日 15:00 (UTC+8)  新銳隊 vs 元老隊（4v4）
+6月17日 15:00 (UTC+8)  元老隊 vs 新銳隊（4v4）
 
 元老隊隊員：**[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
 
@@ -83,6 +83,13 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 TB:  
 [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
+
+### 資格賽圖池
+
+[Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062)  
+[Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335)  
+[Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
+[Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
 ## 比賽回顧
 
@@ -211,3 +218,12 @@ TB:
      - 若選手使用特殊的時區，請提前告知組委會。
      - 除時區問題以外，選手未能按時參賽的，不論提前聲明與否，仍然依照缺席處理。
 6. 選手棄權的比賽不予重賽。
+
+## 比賽結果
+
+### 測試賽結果
+
+| 2017年6月18日 星期六 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 元老隊 | 5 | 7 | 新銳隊 | |
+ 
