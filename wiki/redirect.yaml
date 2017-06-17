@@ -78,6 +78,8 @@
 "best_of_2012":                "Best_Of/2012"
 
 "chat_console":                "Chat_Console"
+"extended_chat_console":       "Chat_Console/#extended-chat-console"
+"extended_chat":               "Chat_Console/#extended-chat-console"
 
 "difficulties":                "Difficulties"
 "difficulty":                  "Difficulties"
@@ -91,6 +93,7 @@
 "futsuu":                      "Difficulties/osu!taiko/Futsuu"
 "kantan":                      "Difficulties/osu!taiko/Kantan"
 "muzukashii":                  "Difficulties/osu!taiko/Muzukashii"
+"oni":                         "Difficulties/osu!taiko/Oni"
 "ura_oni":                     "Difficulties/osu!taiko/Ura_Oni"
 "inner_oni":                   "Difficulties/osu!taiko/Ura_Oni"
 
@@ -311,7 +314,6 @@
 
 "eba":                         "Glossary/#eba"
 "elite_beat_agents":           "Glossary/#eba"
-"extended_chat":               "Glossary/#extended-chat"
 
 "fail":                        "Glossary/#fail"
 "fc":                          "Glossary/#fc"
@@ -438,6 +440,18 @@
 
 "history_of_osu!":             "History_of_osu!"
 "hoo":                         "History_of_osu!"
+
+"hit_objects":                 "Hit_Objects"
+"hitobjects":                  "Hit_Objects"
+"objects":                     "Hit_Objects"
+"hit_circle":                  "Hit_Objects/#hit-circle"
+"hit_circles":                 "Hit_Objects/#hit-circle"
+"hitcircle":                   "Hit_Objects/#hit-circle"
+"hitcircles":                  "Hit_Objects/#hit-circle"
+"slider":                      "Hit_Objects/#slider"
+"sliders":                     "Hit_Objects/#slider"
+"spinner":                     "Hit_Objects/#spinner"
+"spinners":                    "Hit_Objects/#spinner"
 
 "how_you_can_help!":           "How_You_Can_Help!"
 
