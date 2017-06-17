@@ -1,5 +1,5 @@
 Achievements
-================
+============
 
 **Achievements** (also called **Medals**) are little badges on one's profile which indicate that someone has accomplished an exceptional goal. Currently, they are divided into 5 groups.
 
@@ -17,32 +17,6 @@ There are currently 16 achievements in this group which are divided into 4 secti
 
 Each of these sections currently have 4 volumes to them.
 
-### Requirements & Notes about getting the badge(s).
-
-#### Requirements:
-
- -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
- -   The mode must be [osu!Standard](/wiki/Game_Modes/osu!).                                       
- -   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
-     -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
-     -   Alternately, you can download the songs inside manually one by one and it would still count.
- -   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.  
- -   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.
- -   Mods can be used except mods that can cause unranked play (like Auto-pilot). Use the mods wisely to your favour.
-
-#### Notes:
-
- -   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.  
- -   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
- -   Badge given after you complete all the songs in that theme in question.
-     -  Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?
- -   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
-
-#### Trivia:
-
- -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
-
-
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
 | ![Video Game Pack vol.1](/wiki/Achievements/img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![Anime Pack vol.1](/wiki/Achievements/img/all-packs-anime-1.png "Anime Pack vol.1") | ![Internet Pack vol.1](/wiki/Achievements/img/all-packs-internet-1.png "Internet Pack vol.1") | ![Rhythm Pack vol.1](/wiki/Achievements/img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
@@ -50,9 +24,27 @@ Each of these sections currently have 4 volumes to them.
 | ![Video Game Pack vol.3](/wiki/Achievements/img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](/wiki/Achievements/img/all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](/wiki/Achievements/img/all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](/wiki/Achievements/img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](/wiki/Achievements/img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](/wiki/Achievements/img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](/wiki/Achievements/img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](/wiki/Achievements/img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
+### Requirements
+
+-   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
+-   The mode must be [osu!standard](/wiki/Game_Modes/osu!).                                       
+-   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
+    -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
+    -   Alternately, you can download the songs inside manually one by one and it would still count.
+-   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.  
+-   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.
+-   Mods can be used except mods that can cause unranked play (like Auto-pilot). Use the mods wisely to your favour.
+
+### Notes
+
+-   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.  
+-   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
+-   Badge given after you complete all the songs in that theme in question.
+    -  Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?
+-   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
 
 Skill
--------
+-----
 
 **Skill** achievements are currently divided into three groups: **Combo**, **High Ranker**, and **Star-based**
 
@@ -82,7 +74,7 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 
 
 Dedication
------------
+----------
 
 **The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/osu!catch) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/osu!taiko) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/osu!mania)).
 
@@ -96,7 +88,7 @@ Dedication
 
 
 Mod Introduction
------------------
+----------------
 
 **The Mod Introduction** achievements can be obtained by clearing maps with the specified game modifier. They're meant to encourage newer players to try out each mod and explore what the game has to offer.
 
@@ -111,7 +103,7 @@ Mod Introduction
 
 
 Hush-Hush
-----------
+---------
 
 Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement. The title itself is a clue.
 
@@ -127,7 +119,8 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 | ![Camera Shy](/wiki/Achievements/img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](/wiki/Achievements/img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](/wiki/Achievements/img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](/wiki/Achievements/img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
 
-External Link
--------------
+Trivia
+------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+-   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
+-   peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
