@@ -1,98 +1,237 @@
-**Modding** is the process of examining another's [map](Beatmap "wikilink") and making suggestions. These suggestions can be either to fix errors or to simply improve the map. The person modding the map is called a "modder", and the person who made the map is referred to as the "mapper". Modding can be useful in three main ways:
+# Modding
 
-1.  If your mod post is useful to the mapper, then they will give you [kudosu](kudosu "wikilink"). Kudosu can be used to boost your map's star priority up.
-2.  "Mod4mods", or when you make a deal to mod somebody else's map if they mod yours, are a great way to get your map modded.
-3.  A good mod post reduces the amount of time the approval teams spend pointing out basic mistakes. This in turn makes the approval teams less stressed, and that in turn makes them more likely to mod your map. Trust us, happy [BNs](Beatmap_Nomination_Group "wikilink") are typically in a better mood than a BN who just spent 10 minutes crying because of a map that clearly needed a lot more modding.
+Modding is the process of examining another mapper's [beatmap](/wiki/beatmap) and giving constructive feedback to help improve it.
+The person modding a map is called a _modder_ while the person who creates the map is called a _mapper_.
+Modding can be useful in three main ways:
 
-If you are learning how to map or already know how to map, modding can be a great way to improve mapping skills.
+- If a modder's post is useful to the mapper, then the mapper may give the modder a [kudosu](/wiki/kudosu).
+  Kudosu can be used to boost a map's [star priority](/wiki/star_priority).
+- "M4M" (mod-for-mod); when a modder makes a deal to mod the map if the receiver mods the modder's map.
+  This is a great and easier way to get maps modded.
+- A good mod post can help the approval teams from spending their time from pointing out basic mistakes.
+  This in turn will help the approval teams reduce their stress and may become more likely to mod the map.
 
-Basic modding method
---------------------
+Whether you are learning or already know how to map, modding is a great way to help improve your mapping skills and the mapping/modding community.
 
-First, download a map from the [beatmap](beatmap "wikilink") thread, which can be located in either the [Pending](Pending_Beatmap "wikilink") or [Work In Progress/Help](Works_In_Progress/Help "wikilink") forum (not the [Ranked](Ranked_beatmap "wikilink")/[Approved](Approved_Beatmap "wikilink") Beatmaps forum!). You can either randomly choose maps from these sub-forums to mod or you can open a modding queue in the **Modding Queue** sub-forum under the [Work In Progress/Help](Works_In_Progress/Help "wikilink") forum and accept requests. If you are opening a queue, it is a good idea to see how these queues work by reading some threads in the 'Modding Queues' sub-forum.
+## Getting Started
 
-Next, go into the [Editor](Editor "wikilink") and select the map which you want to mod. Then, start up a reply to the [Beatmap's](Beatmap "wikilink") thread.
+To get started, go to the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) subforums.
+From here, you can either randomly choose beatmaps from these subforums to mod or open a modding queue in the [Modding Queue](https://osu.ppy.sh/forum/60) subforum and accept requests.
+If you are opening a queue for the first time, it is a good idea to see how modding queues work by looking at some of the existing threads in the Modding Queue subforum.
 
-Choose any of the difficulties to begin your mod. It is recommended to start with the easiest or hardest difficulty and make your way up or down the different difficulties.
+Open the beatmap's forum thread by clicking on `Web` then `This Beatmap's Thread`.
+From here, click the `Reply` button on the bottom-left to start your mod post.
+In this post, you should add a heading to denote the difficulty(ies) you are modding.
 
-Start by playing this difficulty in either Play mode or [test mode](Glossary#Test_Mode "wikilink"). Play-testing is an important part of modding as it allows the modder to understand whether or not certain [patterns](Mapping_Techniques "wikilink") play well. Take note of anything that felt odd.
+Next, open the song in the osu!client.
+You can choose any of the difficulties to start a mod but it is recommended to start with the easiest difficulty and continue with harder difficulties or vise versa.
 
-After play-testing, watch the song in the editor and pause frequently to catch any errors. In this stage of modding, it is most often that modders find more intricate problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing. When you find a hit circle or a slider that needs attention, select it. Now, go to the "Edit" tab and select "Copy" at the top (or Ctrl+C), and then to your post you started up, and paste (Ctrl+V) what you just copied there. Then, follow up with either what you think is wrong (Ex. "I would change this spacing because the music does not suggest a [jump](jumps "wikilink") here), or simply that it doesn't seem right and you can't put your finger on it. Always look for things that you didn't notice while playing.
+Start by playing the selected difficulty in test mode.
+It is an important part of modding to play-test the difficulty as this allows you to understand whether or not certain [mapping techniques](/wiki/mapping_techniques) or patterns play well.
+You should also take note of anything doesn't feel right.
 
-**Rinse and repeat with the next difficulty** keep in mind that if you see something while in the Editor that you didn't notice while playing, point that out too. (It is recommended to have the map play at normal speed in the Editor while you watch it, just to double check things). When you're done, submit your post.
+After play-testing, watch the beatmap from the beatmap editor.
+It is also recommended to use a `100%` playback rate watching in the beatmap editor.
+In this stage of modding, modders frequently find more intricate (or complicated) problems such as combo errors, hit sound inconsistencies, and areas where hit circles or sliders are missing or misplaced.
 
-What to look for in a beatmap
------------------------------
+When a hit circle or slider needs attention, click on it to select.
+Now, copy the hit object (`Ctrl` + `C`) and go back to the post you started up.
+Then paste (`Ctrl` + `V`) the hit object you had just copied.
+This will paste the timestamp and combo number of the copied hit object.
+osu!web will automatically convert this to a link after you post the mod post so other modders (and the mapper) can easily access the hit objects you are talking about.
 
-A very helpful tool is AIMod, which can be opened under the "Files" tab or by pressing Ctrl+Shift+A. This shows the errors that the certain difficulty of a beatmap has. However, be wary that it is still just a computer, and some errors are not true errors (i.e. a spacing error, but there was supposed to be a jump).
+After pasting, add your observations or descriptions as to why you think that hit object should be changed.
+_For example, "I would change this spacing because the music does not suggest a jump here"._
+For every hit object you list in your mod post, you should always state the thing you think should be changed and why you think it should happen.
+
+Rinse and repeat with the other difficulties you want to mod.
+Keep in mind that if anything is amiss while in the editor, it will behave differently while playing.
+If this is the case, point it out as well.
+
+Once you are done, submit the your mod post.
+After submitting your mod post, remember that the mapper (or other modders) may request you to clarify parts of your mod post.
+
+## Common Mistakes to Look For
 
 The below is a list, organized by importance.
 
-### [Timing](Timing "wikilink")
+### Timing
 
-The most important part of making a beatmap is timing. If the BPM is incorrect, the whole song will be timed incorrectly, and the rhythm of the notes will feel awkward. If the notes feel consistently "off," then it is most likely due to an offset issue. The offset adjusts the main beat of each measure so that it will match the main beat the music. This is likely the problem if it is hard to get good [accuracy](accuracy "wikilink") on a map. The BPM and offset must be the same in **all** difficulties. This also applies for BPM changes. All BPM changes and their correlating offset must be the same in **all** difficulties.
+Timing is crucial part of a beatmap.
+Failure to decently time a beatmap will make the rhythm of the hit objects feel awkward.
 
-### [Spacing](Spacing "wikilink")
+If the notes consistently feel a bit "off", it is most likely due to an offset issue.
+The offset adjusts the main beat of each measure so that it will match the main beat the music.
+This is likely the problem if it is hard to get good [accuracy](/wiki/Accuracy) on the mapset.
 
-One of the most important aspects of beatmapping is [spacing](spacing "wikilink"). Spacing helps the player understand the rhythm of the hitcircles better. Spacing rules can be easily broken while still having a easily readable beatmap, but doing so requires a higher level of mapping understanding. If you are a beginner modder/mapper, don't hesitate to comment on spacing, but also be weary that weird spacing can be characteristic of a [jump](jumps "wikilink"), an [anti-jump](Anti-Jumps "wikilink"), or a jumpy map in general.
+The [BPM](/wiki/BPM) and offset should be the same for every difficulties in the mapset, including BPM changes.
+Any BPM changes and their correlating offset must be the same for **all** difficulties.
 
-### **Rhythm of the [hit objects](hit_objects "wikilink")**
+### Spacing
 
-Being that osu! is a rhythm game, sensible rhythm is very important in beatmapping. If certain notes seem to be missing that may make beatmap "flow better" or sound better, then do not hesitate to suggest doing so. If certain notes seemed to be [overmapped](Overmapping "wikilink"), then do not hesitate to suggest removing it. If any sort of rhythm sounds or feels awkward while playing or while looking in [editor](editor "wikilink"), then it is likely that the hitobject may have been wrongly placed, wrongly timed, or given too short or too long of a length (e.g. sliders or spinners)
+Spacing is the next important aspects of beatmapping.
+Spacing can help the player understand the rhythm and timing of the hit objects better.
 
-### [New Combos](Combos "wikilink")
+Most spacing rules can be easily broken but still allow for an easily readable beatmap.
+However, this will require a higher level of mapping to work properly.
 
-Combos in the most basic sense divide the [hit circles](Hit_Object "wikilink") of a [beatmap](beatmap "wikilink") so that they are easier to read. Combos generally do not go over 20 in [Insane](Insane "wikilink") difficulties, 12 in [Hard](Hard "wikilink") difficulties, and 8 in [Easy](Easy_(Difficulty) "wikilink") and [Normal](Normal "wikilink") difficulties. There is no problem if these combos reach above the general rule if they make sense, but if there is a logical way to break up a long combo, then it is recommended to do so. Combos are usually placed to either match the vocal/musical phrases or to indicate the downbeat of each measure. In special cases, combos are used in indicating any discrepancies in spacing or slider velocity.
+If you are a beginner modder/mapper, don't hesitate to comment on spacing.
+However, be weary that the _weird spacing_ can be characteristic of a [jump](/wiki/jump).
 
-### '''Awkward Overlaps or Stacks
+### Rhythm of Hit Objects
 
-Overlaps and stacks are generally fine. However, sometimes these overlaps and stacks are repeated to an extreme extent which makes maps very hard to play. Anything hard to read because of weird shapes, overlaps, or stacks should generally be avoided and is a good thing to comment about in a mod post.
+Being that _osu!_ is a rhythm game, sensible rhythm is important.
 
-### Awkward [Slider velocity](Slider_velocity "wikilink") Changes
+Do not hesitate to suggest if:
 
-Sometimes maps contain slider velocity changes that may not make much sense or are very hard to follow. If a slider velocity change requires more than just intuition to understand, then it is usually not a fitting slider velocity change. A common example of when to use a slider velocity change would be in a section of a song that is slowed down or more calming than the rest of the song. Here, many mappers would likely slow down the slider velocity to match the calmed music.
+- a set of hit objects appears to be missing but would make the beatmap flow or sound better.
+- a set of hit objects appears to be [overmapped](/wiki/overmapped).
+- a set of hit objects sounds or feels awkward while playing (or while watching in editor).
+  If so, it is likely that the hit object may have been wrongly placed, timed, or given too short or too long of a length (for sliders and/or spinners).
 
-### [Hitsounds](Hitsounds "wikilink")
+### New Combos
 
-Hitsounds are the noise the game makes when the player successfully hits a note. All maps must have a sufficient amount of hitsounding, whether using custom or default hitsounds, or else they cannot be ranked. Sometimes the hitsounds can sound awkward or weird. Other times, the hitsounds are too quiet or too loud. This may actually confuse the players. Something to be very careful about is using too low of a volume. In most cases, using a volume that cannot be heard is unrankable and is something to pay attention to.
+_See also: [Combo](/wiki/Combo)._
 
-### [Kiai Time](Kiai_Time "wikilink")
+Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read.
+Combos generally do not go over 20 in [Insane](/wiki/Insane), 12 in [Hard](/wiki/Hard), and 8 in [Easy](/wiki/Easy) or [Normal](/wiki/Normal) difficulties.
 
-Kiai Time should make sense and should not be abused. They are only for times where the music reaches some "epic" climax. In addition, Kiai Time should generally be the same in all difficulties. However, [Taiko](Taiko "wikilink") [difficulties](Difficulty "wikilink") may differ from regular [osu!](osu! "wikilink") standard difficulties. If the Kiai Time differ in any way, it is not a bad idea to make sure whether the Kiai Time are different on purpose or by accident.
+There are expections to the max combo limit if they make sense.
+If there is a logical way to break up a long combo, it is recommended to do so.
+Combos are usually placed to either match the vocal/musical phrases or to indicate the downbeat of each measure.
+In special cases, combos are used in indicating any discrepancies (or inconsistencies) in spacing or slider velocity.
 
-### Difficulty Settings
+### Awkward Overlapping/Stacks
 
-The difficulty settings can be found in the Song Set-up window, opened by click F4 or the "Song Set-up" tab at the top of the [editor](editor "wikilink") screen. These are important to game play so that the song is at a fair level of [difficulty](difficulty "wikilink") for the varying difficulties a mapset can have. For example, an [Easy](Easy_(Difficulty) "wikilink") difficulty will not need an Approach Rate (AR) of 7 or an HP Drain Rate (HP) of 8. This is completely illogical and makes the difficulty much harder than it should be.
+Overlapping and stacks are generally okay.
+However, sometimes these overlaps and stacks are repeated to an extreme extent which can make maps very hard to play.
+Anything hard to read because of weird shapes, overlaps, or stacks should generally be avoided at all costs.
 
-### [Song Setup](Song_Setup "wikilink")
+If you spot these, it is a noteworthy thing to comment about in a mod post.
 
-The actual Song Setup options do not impact game play, but it is important to give correct names. The artist name, the title of the song, the source (if applicable), and the tags should all be the same in each difficulty. Audio Lead-in times are usually the same, but can differ depending on when the first note is played. The "Enable Countdown" button should be either activated or deactivated in all difficulties.
+### Awkward Slider Velocity Changes
+
+_See also: [Slider](/wiki/Slider)._
+
+Sometimes maps contain slider velocity changes that may not make much sense or are very hard to follow.
+If a slider velocity change requires more than just intuition to understand, then it is usually not a fitting slider velocity change.
+A common example of when to use a slider velocity change would be in a section of a song that is slowed down or more calming than the rest of the song.
+Here, many mappers would likely slow down the slider velocity to match the calmed music.
+
+### Hit Sounds
+
+_See also: [Hit Sounds](/wiki/Hit_Sounds)._
+
+Hit sounds are the noise the game makes when the player successfully taps a [hit object](/wiki/hit_object).
+All maps should have a sufficient amount of hit sounds whether using custom or default hit sounds; otherwise, they cannot be ranked.
+
+Sometimes, hit sounds can sound awkward or weird or they are too quiet or too loud.
+Cases like these may confuse the player.
+
+Using a volume that cannot be heard, in most cases, is unrankable.
+Something like this is noteworthy to pay attention and point out.
+
+### Kiai Time
+
+_See also: [Kiai Time](/wiki/Kiai_Time)._
+
+Kiai time should be used when make sense and should not be abused.
+It is generally said to only use it where the music reaches some "epic" climax or during a chorus.
+
+In addition to this, kiai time should generally be the same in all difficulties.
+The expection to this is that [osu!taiko](/wiki/osu!taiko) [difficulties](/wiki/difficulties) may differ from [osu!standard](/wiki/osu!standard) difficulties.
+
+If the kiai time differently in any way per each difficulty, it is not a bad idea to ask whether if this was intentional or accidental.
+
+### Song Setup
+
+_See also: [Song Setup](/wiki/Song_Setup)._
+
+The actual song setup settings does not impact game play, but it is important to give correct names.
+The artist name, title of the song, source (if applicable), and tags should all be the same in each difficulty.
+
+Audio lead-in times are usually the same, but can differ depending on when the first note is played.
+The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
+
+#### Difficulty
+
+The difficulty settings can be found in the song setup dialog.
+These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have.
+
+For example, an [Easy](/wiki/Easy) difficulty does not really need an [approach rate](/wiki/approach_rate) (AR) of 7 or an [HP drain rate](/wiki/HP_drain_rate) (HP) of 8.
+Using these values for an Easy difficulty makes this completely illogical and will make the difficulty much harder than it should be.
 
 ### Background, Skin, and Combo Colors
 
-Most importantly, all beatmaps must have a background picture. The skin should not blend in with the background or greatly hinder game play (because of complex [hitcircle](hitcircle "wikilink") design, huge hit bursts, etc.). There are also many [Skinning](Skinning "wikilink") rules which are needed to be followed. Similar to Skinning, combo colors should not blend in with the background either. These combo colors should also be very distinct and clear. The mapper should not have two almost identical combo colors (unless they are separated by a very contrasting color in between).
+All beatmaps must have a background image.
+The skin you supply should not blend with the background image or greatly hinder (or chellenge) game play.
+For example, complicated hit circle design, huge hit bursts, etc.
 
-### [Storyboarding](Storyboarding "wikilink")
+There are also many [skinning](/wiki/skinning) rules that should be followed.
+Similar to skinning, combo colors should not blend in with the background either.
+These combo colors should also be very distinct and clear.
+The mapper should not have two almost identical combo colors unless they are separated by a very contrasting color in between.
 
-If anything weird in the storyboard happens (bad rendering of pictures, emptiness, etc.) it is a good idea to tell the storyboarder (who may or may not be the mapper) so that he or she can fix it. The Storyboard generally should not exceed an S.B. Load of 5.0x. You can check out the Storyboard by pressing F2 or clicking the "Design" tab at the top of the screen in [editor](editor "wikilink"). The dimensions of the elements should not exceed the default size.
+### Storyboarding
+
+_See also: [Storyboarding](/wiki/Storyboarding)._
+
+If you spot anything weird while the storyboard is playing (e.g. bad rendering of pictures, emptiness, etc.), it is a good idea to tell the [storyboarder](/wiki/storyboarder) so that they can fix it.
+The storyboard generally should not exceed an [SB load](/wiki/SB_load) of `5.0x`.
+You can check out the storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor.
+
+The dimensions of the elements should not exceed the default size.
 
 ### Preview Point
 
-All maps must have a preview point. A preview point will be denoted by a yellow-ish line on the timeline at the bottom of the [editor](editor "wikilink"). You can also check if a map has a preview point by going into AIMod (Ctrl+Shift+A) and checking under the "Style" tab. This preview point must also be the same in all difficulties.
+All maps must have a preview point.
 
-### File Organization
+A preview point will be denoted by a yellow tick mark on the [timeline](/wiki/timeline).
+You can also check if a map has a preview point by going into [AiMod](/wiki/AiMod) and checking under the `Style` tab.
 
-The bit rate of the song should lie between 128 to 192 kbps. Also, one empty .osb may exist but they must be deleted when more than one is present. Check if there are any file unrelated to the [beatmap](beatmap "wikilink") itself (excluding the thumb.db as this is the metafile automatically generated by the computer system).
+The preview point must be the same in all difficulties.
 
-What to avoid in your mod post
-------------------------------
+### Folder Organization
 
-1.  **Vague Terms:**
-    -   **[Spacing](Spacing "wikilink")** When offering help to inexperienced mappers, you should explain **why** it is incorrect spacing. This will help the new mapper grasp a better understanding of beatmapping. On the other hand, more experienced mappers rarely make accidental spacing mistakes, so please explain **why** you think the spacing should be changed.
-    -   **[New Combo/Remove Combo](Combos "wikilink")** Many times adding new combos will help a map. However, because the modder does not explain **why**, the mapper may not understand the reason behind doing so and will not change the combo. It is always a good idea to support your suggestion with **why** it is important.
-    -   **1 grid to the right** It is not always obvious **why** a hit object should be moved a grid up/right/down/left. It is fine to suggest this, but explain **why** it should be moved (typically it's to make a pattern symmetrical). This sort of suggestion, however, does not offer much to improve a beatmap. Keep in mind a mod post should not only consist of such suggestions.
-    -   **This shape is ugly** Whether the shape is made of [hit circles](Hit_circle "wikilink"), [sliders](sliders "wikilink") or both, the mapper obviously will not understand what you are asking for. What looks aesthetically pleasing to the mapper may not always look aesthetically pleasing to you. Please understand that the osu! community comes from across the world and respect each player's opinions. Instead of stating the slider is outright ugly, it is better to say "This slider looks weird in my opinion" and then to offer an alternative (via an in-post attachment or an external link).
+To see the beatmapset folder, click `File` then `Open Song Folder`.
 
-2.  **Offensive Language** Even if the mapper is a close friend, please try to keep the mod post clean. It is understandable that certain patterns may seem completely illogical to you, but that is not a reason for insulting the mapper. Refraining from terms such as "WTF is this?" or "This is completely stupid" can help to repress any potential argument and create a better osu! environment.
+The song's bit rate must be between 128KBps and 192 KBps.
 
-Essentially, each point of your mod post should have a **"when"**, **"what"**, and **"why"**. When you do not have the "why" or the "what", the suggestions may be a little confusing for the mapper. This, in turn, makes your mod a lot less useful than it should be. Simply explaining your suggestions will make your mod a lot more useful.
+In some cases, an empty `.osb` file may exist.
+You must deleted these if more than one is present.
+
+Inspect the folder for any unused files within the [beatmapset](/wiki/beatmapset).
+However, if you see `thumb.db` files, you can ignore them since these are automatically created by your operating system.
+
+## Mod Post Mistakes
+
+When you make a mod post, it is very important to **not** do any of the following:
+
+- Under-explaining requested changes.
+  _When modding with an inexperienced mapper's map, it is important to explain why you want to change certain things._
+  - **Spacing**: This will help the new mapper grasp a better understanding of beatmapping.
+    On the other hand, more experienced mappers rarely make accidental spacing mistakes, so please explain **why** you think the spacing should be changed.
+  - **New/Remove Combo**: Many times adding new combos will help a map.
+    However, if the modder does not explain why they should make such a change, the mapper will not fully understand the reason behind doing so and may not change the combo.
+  - **1 grid to the _right_**: It is not always obvious why a hit object should be moved a grid space up, right, down, or left.
+    It is fine to suggest this, but try to explain why it should be moved.
+    A common reason for this is to make a pattern symmetrical.
+    - This sort of suggestion does not offer much to improve a beatmap.
+      Keep in mind your mod post should not only consist of such suggestions.
+  - **This shape is ugly**: Whether the shape is made of hit circles, sliders, or both; the mapper obviously will not understand what you are requesting.
+    What looks aesthetically pleasing to the mapper may not always look aesthetically pleasing to you.
+    If you are going to suggest as such, at least explain why and supply another suggestion that the mapper could use.
+- Offensive language
+  - Even if the mapper is a close friend, please try to keep your mod post clean.
+    It is understandable that certain patterns may seem completely illogical to you, but there is never a reason for insulting the mapper.
+    Refraining from using offensive terms to avoid any potential open-ended arguments.
+- Misuse of formatting
+  - **_Remember: abuse of emphasis will weaken its abilty to emphasize!_**
+  - When you are writing a mod post, please do not over(ab)use emphasizing your sentences.
+  - You mod post should not necessarily be an essay, so there should not be the need to use emphasis at all.
+    - However, if need be, only emphasize the first sentence of the paragraphs that you want to emphasize (or the important parts of the first sentence).
+
+Overall, each item in your mod post should have a **_when_**, **_what_**, and **_why_**.
+If you happen to not include one of the listed, your suggestions will be confusing for the mapper.
+Which will make your mod a lot less useful than it should be.
+Simply explaining your suggestions will make your mod a lot more useful.
