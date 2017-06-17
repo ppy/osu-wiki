@@ -16,10 +16,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the April 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** 
-+ **osu!taiko:** 
-+ **osu!catch:** 
-+ **osu!mania:** 
++ **osu!:** [Toy](https://osu.ppy.sh/u/2757689)
++ **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/u/8089664)
++ **osu!catch:** [Crystal](https://osu.ppy.sh/u/1646397)
++ **osu!mania:** [Hestia-](https://osu.ppy.sh/u/393151)
 
 
 ## osu!
