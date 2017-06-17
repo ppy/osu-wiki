@@ -12,7 +12,7 @@ _[Click here to go back to Monthly Fanart Contest listing.](../)_
 
 - by [suiseki](https://osu.ppy.sh/u/4792023)
 
-![Entry](img/2p.png)
+![Entry](img/2p.jpg)
 
 ## Third Place
 
@@ -42,13 +42,13 @@ _[Click here to go back to Monthly Fanart Contest listing.](../)_
 
 - by [pyun](https://osu.ppy.sh/u/981534)
 
-![Entry](img/7p.png)
+![Entry](img/7p.jpg)
 
 ## Eighth Place
 
 - by [SkyDiverFox](https://osu.ppy.sh/u/6926124)
 
-![Entry](img/8p.png)
+![Entry](img/8p.jpg)
 
 ## Ninth Place
 
@@ -60,4 +60,4 @@ _[Click here to go back to Monthly Fanart Contest listing.](../)_
 
 - by [[ Sinon ]](https://osu.ppy.sh/u/6498914)
 
-![Entry](img/10p.png)
+![Entry](img/10p.jpg)
