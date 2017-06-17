@@ -34,7 +34,7 @@ Du findest mindestens einmal einen großen `Download Beatmap` Knopf auf jeder Se
 
 ### Schritt 3 - Lade es auf osu!
 
-![".osz" Datei, einwandfreie Beatmap-Datei](Osz icon.png "fig:".osz" Datei, einwandfreie Beatmap-Datei") Nachdem du die Beatmap fertig heruntergeladen hast, solltest du ohne Weiteres in der Lage sein die **.osz** Datei zu öffnen. Zum Öffnen der Datei klick entweder darauf oder zieh die Datei in *osu!* hinein.
+![.osz Dateisymbol](/wiki/shared/osz_icon_full.png ".osz Dateisymbol") Nachdem du die Beatmap fertig heruntergeladen hast, solltest du ohne Weiteres in der Lage sein die `.osz` Datei zu öffnen. Zum Öffnen der Datei klick entweder darauf oder zieh die Datei in *osu!* hinein.
 
 ![.osz Dateien öffnen](Welcome03.png ".osz Dateien öffnen")
 
@@ -108,9 +108,9 @@ Dies waren die Grundlagen, scheue dich nicht davor nach Hilfe im Spiel oder im F
 
 ## Nützliche Hilfsmittel
 
--   [Anfänger Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456 "Anfänger Training") - von Hand hinzugefügte Beatmaps um loszulegen.
--   [Beatmap Packs](http://osu.ppy.sh/p/packlist "Beatmap Packs") - holen dir gebrauchsfertige Pakete aus Beatmaps für bestimmte Themen.
--   [Beatmap Listing](http://osu.ppy.sh/p/beatmaplist "Beatmap Listing") - lade Beatmaps (Lieder) zum Spielen herunter.
+-   [Anfänger Training](https://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456 "Anfänger Training") - von Hand hinzugefügte Beatmaps um loszulegen.
+-   [Beatmap Packs](https://osu.ppy.sh/p/packlist "Beatmap Packs") - holen dir gebrauchsfertige Pakete aus Beatmaps für bestimmte Themen.
+-   [Beatmap Listing](https://osu.ppy.sh/p/beatmaplist "Beatmap Listing") - lade Beatmaps (Lieder) zum Spielen herunter.
 -   [Häufig gestellte Fragen](/wiki/FAQ/ "Häufig gestellte Fragen") - finde die Grundlagen vom Spiel heraus.
 -   [osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") - Videos, die dir dabei helfen soll, sich an allen Aspekten von *osu!* zu gewöhnen.
 -   [Glossary](/wiki/Glossary/ "Glossary") - Eigne dir das einzigartige *osu!* Vokabular an.
