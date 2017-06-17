@@ -10,7 +10,7 @@ The Spotlights for May 2017 have been released and can be found [here](https://o
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The April 2017 spotlight rankings will conclude on the 15th July 2017.**
+Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The May 2017 spotlight rankings will conclude on the 15th July 2017.**
 
 ## Past Spotlights results
 
@@ -26,7 +26,7 @@ First of all, congratulations to the winners of the April 2017 Spotlights. They 
 
 [![](https://assets.ppy.sh/media/spotlights2017-may/orvid.jpg)](https://osu.ppy.sh/s/578332)
 
-text
+RLC easily took the top spot at this month's spotlight with this beautiful marathon. Reminding us of RLC's previous masterpieces such as Anhedonia, the music offers a lot of variety and interesting rhythms over the course of more than 10 minutes. Every track of the gapless album is mapped differently, but the map still feels coherent and polished throughout. Totally worth checking out.
 
 [![](https://assets.ppy.sh/media/spotlights2017-may/get-on.jpg)](https://osu.ppy.sh/s/554084)
 
@@ -34,7 +34,7 @@ sionKotori continues to impress with his newly ranked map, full of very interest
 
 [![](https://assets.ppy.sh/media/spotlights2017-may/glass-no-kutsu.jpg)](https://osu.ppy.sh/s/585681)
 
-text
+Taking a spot in almost every spotlight lately, Delis has made it again. This time, combining the exceptional flow and stunning variety they are known for with an emotional song by Ito Kanako. The mapping perfectly represents the impactful changes of intensity provided by the song. This map is an experience you won't regret!
 
 [![](https://assets.ppy.sh/media/spotlights2017-may/bellow.jpg)](https://osu.ppy.sh/s/504315)
 
@@ -50,7 +50,7 @@ Kokoronashi is yet another great mapset contributed by pishifat. Playing the map
 
 [![](https://assets.ppy.sh/media/spotlights2017-may/yuki-no-hana.jpg)](https://osu.ppy.sh/s/565432)
 
-text
+A calm, beautiful winter song with a very good-looking skin and a very well designed mapset. While the top difficulty is quite spammy in terms of object density, the visual aspect of the map does not fall apart! Combined with great lower difficulties, this mapset deserves to be featured in the spotlights.
 
 ## osu!taiko
 
@@ -84,7 +84,7 @@ A solid mapset in this month, from Kantan to Muzukashii,Volta did very good job 
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/chronoxia.jpg)](https://osu.ppy.sh/s/429184)
 
-text
+Our top pick is something that many osu!catch players would be familiar with due to it being selected for the osu!catch World Cup 2016's Finals mappool, and is now a fully ranked map. Both the Overdose made by Furely and the Chronos difficulties feature patterns that we don't usually see in most ranked maps - strict antiflow patterns, high overall spacing, and generally a lot of places to miss - while still making it a fun mapset of fair difficulty. Overall, the map is quite challenging for its star rating, being harder than other mapsets people usually see in the Ranked category. It also features several mappers, providing players with different styles across all difficulties. It's quite the engaging map, and one that could surely make you wiggle from joy!
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/samurai-(spirix-remix).jpg)](https://osu.ppy.sh/s/594326)
 
