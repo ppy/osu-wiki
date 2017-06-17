@@ -147,13 +147,24 @@ Note: when the osu!client is not the active window, the fps limit is dropped to 
 
 ### Main Menu
 
-| Name             | Effect                                                                                                                                                | Type     | Default    |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| Snow             | Show snow effects on the main menu (forcibly enabled during the winter).                                                                              | Checkbox | `Disabled` |
-| Parallax         | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                          | Checkbox | `Enabled`  |
-| Menu tips        | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.)                                                    | Checkbox | `Enabled`  |
-| Interface voices | Play the "Welcome to osu!" and "See you next time!" upon opening and closing the game, respectively.                                                  | Checkbox | `Enabled`  |
-| osu! music theme | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again until you reopen the osu!client. | Checkbox | `Enabled`  |
+| Name                 | Effect                                                                                                                                                | Type     | Default     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------|
+| Snow                 | Show snow effects on the main menu (forcibly enabled during the winter).                                                                              | Checkbox | `Disabled`  |
+| Parallax             | Show a slight parallax while navigating in-game menus (not during gameplay).                                                                          | Checkbox | `Enabled`   |
+| Menu tips            | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.)                                                    | Checkbox | `Enabled`   |
+| Interface voices     | Play the "Welcome to osu!" and "See you next time!" upon opening and closing the game, respectively.                                                  | Checkbox | `Enabled`   |
+| osu! music theme     | Upon opening osu!, the main theme song will play while on the menu. Once this song changes, you cannot play it again until you reopen the osu!client. | Checkbox | `Enabled`   |
+| Seasonal backgrounds | Use fanart contest winners as the background in the Main Menu (and for beatmaps without background images). The images will cycle upon song change.   | Dropdown | `Sometimes` |
+
+---
+
+If you open the dropdown list for `Seasonal backgrounds`, you will be presented with these options:
+
+| Name      | Effect                                                                                                                                                                                      |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sometimes | You will see seasonal backgrounds for a few weeks at the beginning of each season. The osu!team will choose when they will be removed, replaced with more plain backgrounds you're used to. |
+| Never     | You will never see seasonal backgrounds, and defaults will be used in all cases. This means you won't have any animu.                                                                       |
+| Always    | You will always have the current season's backgrounds.                                                                                                                                      |
 
 ### Song Select
 
@@ -431,9 +442,9 @@ b{YYYY}{MM}{DD}.{revision}{type}
 ## Trivia
 
 - If you type in a name but leave the password form empty, _osu!_ will use that name when saving the score locally.
-- Logging in at the main menu with fanart backgrounds will trigger the transition of backgrounds regardless if signing in was successful or not.
-- Changing the skin in the main menu with fanart backgrounds will trigger the transition of backgrounds.
 - Opening the Options sidebar will automatically trigger `osu! is up-to-date!`'s function (check for updates).
+- The `Seasonal backgrounds` option was added after positive feedback was given to the osu!team.
+  - More details: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 
 ### History
 
