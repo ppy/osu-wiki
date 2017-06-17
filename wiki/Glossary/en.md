@@ -338,13 +338,6 @@ EBA has two meanings:
   See [Elite Beat Agents - Wikipedia](https://en.wikipedia.org/wiki/Elite_Beat_Agents) for more details.
 - The collective term for the playable characters in that game (referring to meaning above), e.g. "The EBA" or "The Agents"
 
-### Extended Chat
-
-Extended chat is the Chat Console (bottom portion) with the user panels (top portion) of players currently logged-in to the game client.
-Press `F8` to show the chat and/or `F9` to show the user panels (if you press `F9` without the chat opened, this will open both).
-
-For more information about the Extended Chat Console, see [Chat Console](/wiki/Chat_Console/) (under the _Extended Chat Console_ section).
-
 ## F
 
 ### Fail
