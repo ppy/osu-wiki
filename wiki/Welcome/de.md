@@ -34,7 +34,9 @@ Du findest mindestens einmal einen großen `Download Beatmap` Knopf auf jeder Se
 
 ### Schritt 3 - Lade es auf osu!
 
-![.osz Dateisymbol](/wiki/shared/osz_icon_full.png ".osz Dateisymbol") Nachdem du die Beatmap fertig heruntergeladen hast, solltest du ohne Weiteres in der Lage sein die `.osz` Datei zu öffnen. Zum Öffnen der Datei klick entweder darauf oder zieh die Datei in *osu!* hinein.
+![.osz Dateisymbol](/wiki/shared/osz_icon_full.png ".osz Dateisymbol") 
+
+Nachdem du die Beatmap fertig heruntergeladen hast, solltest du ohne Weiteres in der Lage sein die `.osz` Datei zu öffnen. Zum Öffnen der Datei klick entweder darauf oder zieh die Datei in *osu!* hinein.
 
 ![.osz Dateien öffnen](Welcome03.png ".osz Dateien öffnen")
 
