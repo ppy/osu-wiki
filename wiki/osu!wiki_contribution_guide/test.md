@@ -35,7 +35,7 @@
 [Git Extensions]: https://gitextensions.github.io/ "Git Extensions"
 [Git Extension User Manual]: https://git-extensions-documentation.readthedocs.io/en/latest/index.html "GitHub Extension User Manual"
 
-# How to contribute to the osu!wiki
+# osu!wiki contribution guide (owcg)
 
 Thanks for your interest in making the osu!wiki better!
 As you can see, everything has been moved to [GitHub][GitHub osu-wiki].
@@ -63,7 +63,7 @@ To contribute to the osu!wiki, you must have the following:
 - Able to write in English, preferably British English for consistency.
   - Everything not related to the page content itself (commit messages, pull requests, filenames, etc) **must** be written in English.
 
-## Contribution
+## Contributing
 
 The guide will be recommending the usage of GitHub web services, especially GitHub Web Editor due to its web accessibility for _any_ devices and ease-of-use for simple commits.
 
@@ -75,15 +75,18 @@ Login to your GitHub account and visit [osu!wiki repository in GitHub][GitHub os
 
 Click on the ``wiki`` folder and check out the contents inside.
 
-Pick any topic folder and enter by clicking it.
+Pick any topic folder and enter by clicking the folder.
 Read any file content by clicking the ``.md`` file.
 
-If the file content is badly written or formatted, click the pencil icon!
+If the file content is badly written or formatted, click the pencil icon to make the change.
 
-### Make changes
+### Making changes
+
+![GitHub Web Editor](./img/Contribute_webeditor.jpg "GitHub Web Editor Snapshot")
 
 Apply your changes directly to the file content.
-Treat it as a text editor.
+If you want to preview your changes in parsed form, click on the ``Preview Changes`` tab.
+Click the ``Edit File`` tab to continue editing the file.
 
 Once you are done, scroll to the bottom to summarise your changes.
 
@@ -92,22 +95,40 @@ Once you are done, scroll to the bottom to summarise your changes.
 _**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get accepted!
 Also, please write it in English and the title of the commit should be descriptive enough to understand the commit significance in a glance.**_
 
-Click the green "Commit Changes" button.
+Click the green ``Commit Changes`` button.
 
 ### Create Pull Request
 
-After changes, hit green create PR.
+After you have successfully complete a commit, you will be greeted by this screen below:
 
-### Whats next
+![Comparing Changes 2](./img/Contribute_prcomp2.jpg "Comparing Changes")
+
+Now after viewing your changes, click ``Create Pull Request`` (PR) and fill it with the following details:
+
+![PR Creation Dialogue](./img/Contribute_prcontent.jpg "PR Creation Dialogue")
+
+- **Title** : The summary of the changes you have made
+  - It is really important to have a meaningful and clear title, otherwise it will cause confusion
+  - Please write it in **English**
+- **Leave a Comment** : The details of the changes you have made
+  - Also, write it in **English**
+
+Click on the ``Create pull request`` button.
+
+![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
+
+If your PR was deemed good enough, a _Team osu!_ member or a repository administrator may come and merge your changes to the official master branch.
+
+### What's next?
 
 Go hunt for other badly written files to make another PR or wait patiently for the PR to get merged.
 
-## Learning more
+## Extra resources
 
 ### GitHub Web Services
 
 The guide only covers for editing current files in the osu!wiki for one-time only for brevity sake.
-For more elaborate usage of the GitHub web services, please refer to [GitHub Help on Managing files in a repository][GH Help manage repo]
+To leverage the use of GitHub web services, please refer to [GitHub Help on Managing files in a repository][GH Help manage repo]
 
 When making a new language file in a folder, please follow [the locales section in the Article Style Guide][ASG locales] for the filename.
 
@@ -137,7 +158,7 @@ GitHub under the hood, is a Git Service.
 
 A Git Service allows you to keep a repository locally and local make changes in your device.
 
-(always update your local branch to remote branch)
+(help. always update your local branch to remote branch)
 
 #### Git
 
@@ -150,7 +171,8 @@ A Git Service allows you to keep a repository locally and local make changes in 
 - Default terminal text editor by OS: <http://web.mit.edu/6.005/www/sp14/tutorial/git/config.html>
   - [swcarpentry's guide to set Git to always use the specified text editor of choice][Git set default editor]
 - Basic usage guide
-  - Interactive walkthrough (Git Bash): <https://try.github.io/>
+  - Interactive walkthrough (Git Bash): <https://try.github.io/> 
+    - Do **not** use step _1.23 Preparing to Merge_ when working in osu!wiki repository.
   - Official book: <https://git-scm.com/book/en/v2>
 - Merge conflicts
   - [Githowto on resolving conflicts][Githowto resolve conflicts]
@@ -165,6 +187,7 @@ A Git Service allows you to keep a repository locally and local make changes in 
 - [Git Extensions][Git Extensions]
   - [Git Extension User Manual][Git Extension User Manual]
 - Microsoft's [Visual Studio Code][VSC] (requires external installation of git-scm to work)
+  - Official guide for the integrated Git: <https://code.visualstudio.com/docs/editor/versioncontrol>
 
 ### Offline editors
 
