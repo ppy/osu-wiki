@@ -38,7 +38,7 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 
 #### Specjalne:
 
- -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs)
+ -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs_0916)
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |

@@ -21,7 +21,6 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
   
 ## Tournament prizes
 
-
 All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.  
 ![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;  
 ![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;  
@@ -35,13 +34,11 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Team | Staff |
 | ---: | :--- |
-| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
+| Tournament managers | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256) |
 | Coordinator | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
-| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
-| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
-
-
+| Map selectors | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296), [![TW]Spy](https://osu.ppy.sh/u/1217122), [![CN]hans1999](https://osu.ppy.sh/u/6679329) |
+| Streamers and referees | [![CN]aiyulu](https://osu.ppy.sh/u/189617), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
+| Commentators | [![CN]hans1999](https://osu.ppy.sh/u/6679329), [![CN]Scslag](https://osu.ppy.sh/u/6705256), [![CN]Rasis](https://osu.ppy.sh/u/1209363), [![CN]644520858](https://osu.ppy.sh/u/5507069), [![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
 
 ## Tournament stream
 
@@ -56,15 +53,15 @@ Update after group stage starts.
 
 17, June 15:00 (UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
 
-"The Elder" Team: **gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+"The Elder" Team: **[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
 
-"The Cutting-edge" Team: **Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+"The Cutting-edge" Team: **[Moting](https://osu.ppy.sh/u/4902208)** [Mof liberavi](https://osu.ppy.sh/u/9045121) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
 
 ## Mappools
 
 ### Test match mappool
 
-[Download all(One Drive)](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[Download all (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
 [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
 [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
@@ -124,8 +121,10 @@ TB:
      - Use Chinese as the primary language.  
      - No requirement on performance points (pp), but rank (above \#4000) is highly recommended.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
-3. Successfully registered player will receive a confirm email and will be posted on the player list.
+3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/forum/t/576970).
 4. Map selectors and tournament managers are not allowed to register.
+
+Please sign up on [this](https://www.osupink.org/huarenbei) page.
 
 ### Stage Instructions
 
@@ -134,29 +133,28 @@ TB:
 3. All the players from each group will face each other.
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
      - Most matches won.
-     - Have higher {(the number of maps won) - (the number of maps defeated)}.
+     - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
      - Most maps won.
-     - Have higher ∑{(total score difference) / (maximum score)}.
+     - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 5. The top **2** players (may vary with the number of registered players) of each group will move on to the Knock-Out Stages.
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 7. The stages are split up into the following: 
   
-     | Stage | Match ID |
-     | ---: | :--- |
-     | Round of 16 | A, B, C, D, E, F, G, H |
-     | Quarter-finals | I, J, K, L & R, S, T, U |
-     | Semi-finals | M, N & V, W, X, Y, Z,AA |
-     | Finals - Week 1 | O & AB, AC, AD, AE |
-     | Finals - Week 2 | P, Q |
+| Stage | Match ID |
+| ---: | :--- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarter-finals | I, J, K, L & R, S, T, U |
+| Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD, AE |
+| Finals - Week 2 | P, Q |
+
 8. **Winning condition**:
      - In the Qualification stage, the **32** highest players will qualify next stage.
      - In Group stage, player needs to win **4** maps to win a match. (Best-of-7).
      - In the Round of 16 and the Quarter-finals, player needs to win **5** maps to win a match. (Best-of-9).
      - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
      - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
-
-
 
 ## Match Instructions
 
@@ -169,7 +167,7 @@ TB:
 3. Players are not allowed to change slots once the match has started.
 4. All maps(**4**) will be played twice in the order specified by the referee.
 5. 4 highest scores on each qualifier are cumulated for the final score.
-6. If player disconnects(In the case of the player is able to finish the map), the disconnected player will have to upload the score(`Shift` + `F12`) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
+6. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
 7. The results of Qualification stage will be posted under the tab "Match results".
 
 ### Group stage

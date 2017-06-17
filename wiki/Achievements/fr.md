@@ -37,7 +37,7 @@ Chacune de ces sections comporte 4 volumes.
 - Les beatmaps sont vieilles et certaines notes peuvent être placés en avance/retard. Prêtez attention au décalage correctif indiqué dans les informations de certains beatmaps dont le timing est incorrect. Vous pouvez modifier le décalage audio dans les options du jeu.
 
 #### Anecdotes
-- [Packs de beatmaps (2009 - 2016) avant la mise à jour par Stefan](/wiki/Achievements/Beatmap_Packs).
+- [Packs de beatmaps (2009 - 2016) avant la mise à jour par Stefan](/wiki/Achievements/Beatmap_Packs_0916).
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |

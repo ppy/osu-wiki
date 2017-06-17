@@ -38,7 +38,7 @@
 | 比賽監督 | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
 | 圖池管理團隊 | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
 | 直播裁判團隊 | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| 解說團隊 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
+| 解說團隊 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069)、[![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
 
 ## 比賽直播間
 
@@ -55,9 +55,9 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 6月17日 15:00 (UTC+8)  新銳隊 vs 元老隊（4v4）
 
-元老隊隊員：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+元老隊隊員：**[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
 
-新銳隊隊員：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+新銳隊隊員：**[Moting](https://osu.ppy.sh/u/4902208)** [Mof liberavi](https://osu.ppy.sh/u/9045121) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
 
 ## 比賽圖池
 
@@ -125,8 +125,10 @@ TB:
      - 玩家使用漢語作為主要語言。
      - 本次比賽對玩家排名無強制要求，建議 **mania模式** \#**4000** 排名之內的玩家參賽。
      - 如果參賽者在過去一年內於 osu!社區 或在比賽中有過不良記錄，我們可能會取消其參賽資格。
-3. 報名成功的選手將收到確認郵件，同時也將被加入公示名單。
+3. 報名成功的選手將收到確認郵件，同時也將被加入[公示名單](https://osu.ppy.sh/forum/t/576970)。
 4. 圖池管理和比賽經理不得參賽。
+
+[報名網站](https://www.osupink.org/huarenbei)
 
 ### 比賽賽程
 
@@ -149,19 +151,19 @@ TB:
      - 總決賽為**13**局 **7**勝。
 8. 根據賽程安排，這些賽事的編排如下：
 
-     | 賽事 | 比賽編號 |
-     | ---: | :--- |
-     | 16強 | A, B, C, D, E, F, G, H |
-     | 1/4決賽 | I, J, K, L & R, S, T, U |
-     | 半決賽 | M, N & V, W, X, Y, Z,AA |
-     | 決賽第**1**周 | O & AB, AC, AD, AE |
-     | 決賽第**2**周 | P, Q |  
+| 賽事 | 比賽編號 |
+| ---: | :--- |
+| 16強 | A, B, C, D, E, F, G, H |
+| 1/4決賽 | I, J, K, L & R, S, T, U |
+| 半決賽 | M, N & V, W, X, Y, Z,AA |
+| 決賽第**1**周 | O & AB, AC, AD, AE |
+| 決賽第**2**周 | P, Q |  
 
 ## 比賽程序說明
 
 ### 資格賽
 
-1. 一位記錄員會在賽事開始前**15**分鐘創建一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
+1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
      - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱必須是”CMT 4K 2017:(資格賽) vs (資格賽)”。
      - 房間最多進入8名選手同時進行資格賽的比拼。
 2. 資格賽無暖身圖，請選手在比賽前暖身完畢。
@@ -173,9 +175,9 @@ TB:
 
 ### 小組賽及淘汰賽
 
-1. 一位記錄員會在賽事開始前**15**分鐘創建一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
+1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
      - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱必須是“CMT 4K 2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
-     - 以上房間名提到的兩個玩家，第一個必須在紅隊，第二個必須在藍隊。
+     - 以上房間名提到的兩個玩家，第一個必須在藍隊，第二個必須在紅隊。
      - 小組賽期間如果出現記錄員不足，組委會可能會改變該場比賽方式。
 2. 兩位選手任選兩首熱身圖，但有異議的圖不可使用。所有地圖必須是4K專用地圖。
 3. 每位選手從圖池中選擇**1**個禁手圖（Banned Map），這些禁手圖將在這場比賽中不能被任何選手選用。
