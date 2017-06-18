@@ -49,8 +49,6 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Semifinals
 
-**Disclaimer: Just UTC times are guaranteed to be correct! No responsibility can be taken for the correctness of the local times!**
-
 ### Saturday, 24. June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
