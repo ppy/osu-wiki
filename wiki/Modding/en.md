@@ -6,8 +6,7 @@ Modding can be useful in three main ways:
 
 - If a modder's post is useful to the mapper, then the mapper may give the modder a [kudosu](/wiki/kudosu).
   Kudosu can be used to boost a map's [star priority](/wiki/star_priority).
-- "M4M" (mod-for-mod); when a modder makes a deal to mod the map if the receiver mods the modder's map.
-  This is a great and easier way to get maps modded.
+- Mod for Mod (M4M): the process where two mappers make a deal to mod each other's mapsets and exchange mods.
 - A good mod post can help the approval teams from spending their time from pointing out basic mistakes.
   This in turn will help the approval teams reduce their stress and may become more likely to mod the map.
 
@@ -21,12 +20,12 @@ If you are opening a queue for the first time, it is a good idea to see how modd
 
 Open the beatmap's forum thread by clicking on `Web` then `This Beatmap's Thread`.
 From here, click the `Reply` button on the bottom-left to start your mod post.
-In this post, you should add a heading to denote the difficulty(ies) you are modding.
+In this post, you should add a heading to denote the difficulties you are modding.
 
 Next, open the song in the osu!client.
-You can choose any of the difficulties to start a mod but it is recommended to start with the easiest difficulty and continue with harder difficulties or vise versa.
+You can choose any of the difficulties to start a mod.
 
-Start by playing the selected difficulty in test mode.
+Before going to edit mode, play the difficulties you want to mod in solo mode.
 It is an important part of modding to play-test the difficulty as this allows you to understand whether or not certain [mapping techniques](/wiki/mapping_techniques) or patterns play well.
 You should also take note of anything doesn't feel right.
 
@@ -42,14 +41,13 @@ osu!web will automatically convert this to a link after you post the mod post so
 
 After pasting, add your observations or descriptions as to why you think that hit object should be changed.
 _For example, "I would change this spacing because the music does not suggest a jump here"._
-For every hit object you list in your mod post, you should always state the thing you think should be changed and why you think it should happen.
+For every hit object you list in your mod post, you should always state the thing you think should be changed, why you think it should happen, and how implementing your suggestion would be an improvement to the beatmap.
 
 Rinse and repeat with the other difficulties you want to mod.
-Keep in mind that if anything is amiss while in the editor, it will behave differently while playing.
-If this is the case, point it out as well.
 
 Once you are done, submit the your mod post.
-After submitting your mod post, remember that the mapper (or other modders) may request you to clarify parts of your mod post.
+After submitting your mod post, remember that the mapper may ask that you to clarify parts of your mod post or may reply about adding your suggestions.
+When this happens, you should double-check the mapper's reply and the difficulties to ensure the mapper understood you suggestions.
 
 ## Common Mistakes to Look For
 
@@ -135,11 +133,22 @@ Something like this is noteworthy to pay attention and point out.
 
 _See also: [Kiai Time](/wiki/Kiai_Time)._
 
-Kiai time should be used when make sense and should not be abused.
+Kiai time should be used when it makes sense.
 It is generally said to only use it where the music reaches some "epic" climax or during a chorus.
 
-In addition to this, kiai time should generally be the same in all difficulties.
-The expection to this is that [osu!taiko](/wiki/osu!taiko) [difficulties](/wiki/difficulties) may differ from [osu!standard](/wiki/osu!standard) difficulties.
+If you can not justify where kiai time is being used, then it should not be used overall (e.g. randomly spamming the toggle).
+Kiai time should never be abused because:
+
+- it triggers a fountain of stars upon its start time.
+- it will make all of the hit objects flash repetitively.
+  - overusing this can actually case eye strain to the player, generally making an unpleasant experience.
+- by definition, it signifies one part of the song that is *important*, so using it everywhere loses its meaning.
+
+In addition to all of this, kiai time should generally be the same in all difficulties.
+There are, however, expections to this:
+
+- game mode difficulty hybrid sets (e.g. osu!standard and osu!taiko's kiai time behaves differently).
+- guest mappers that interpret the song and its effects differently from the host.
 
 If the kiai time differently in any way per each difficulty, it is not a bad idea to ask whether if this was intentional or accidental.
 
@@ -150,10 +159,20 @@ _See also: [Song Setup](/wiki/Song_Setup)._
 The actual song setup settings does not impact game play, but it is important to give correct names.
 The artist name, title of the song, source (if applicable), and tags should all be the same in each difficulty.
 
-Audio lead-in times are usually the same, but can differ depending on when the first note is played.
-The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
+Here are some other things too look out for in the song setup:
+
+- The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
+- The combo colours should be the same on the same background of each a mapset.
+  Guest mappers are an exception, but generally: difficulties by the same person and with the same background should use the same combo colours.
+- Maps with widescreen storyboards should have the setting `Widescreen Support` (in `Design` tab) enabled to avoid being cut off in 16:9 resolutions.
+- Maps with storyboards that can cause epilepsy (frequent strobes over 3Hz or one-third of a second) have to enable `Display epilepsy warning (storyboard has quick strobing)` (in `Design` tab).
+- If a map has [breaks](/wiki/breaks), the setting `Letterbox during breaks` should be consistent thoughout a mapset.
+    The `Letterbox during breaks` setting must be disabled in osu!mania difficulties.
+- The `Preferred Skin` setting should be set to `User's preference (No Change)`, this may sometimes be set to the mapper's own skin, by mistake, while for editor play-testing.
 
 #### Difficulty
+
+_See also: [osu!standard Ranking Criteria](/wiki/osu!standard_Ranking_Criteria#difficulty-specific) (difficulty-specific section)._
 
 The difficulty settings can be found in the song setup dialog.
 These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have.
@@ -177,7 +196,6 @@ The mapper should not have two almost identical combo colors unless they are sep
 _See also: [Storyboarding](/wiki/Storyboarding)._
 
 If you spot anything weird while the storyboard is playing (e.g. bad rendering of pictures, emptiness, etc.), it is a good idea to tell the [storyboarder](/wiki/storyboarder) so that they can fix it.
-The storyboard generally should not exceed an [SB load](/wiki/SB_load) of `5.0x`.
 You can check out the storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor.
 
 The dimensions of the elements should not exceed the default size.
@@ -205,6 +223,8 @@ However, if you see `thumb.db` files, you can ignore them since these are automa
 
 ## Mod Post Mistakes
 
+_See also: [Modding and Mapping](/wiki/Modding_and_Mapping)._
+
 When you make a mod post, it is very important to **not** do any of the following:
 
 - Under-explaining requested changes.
@@ -215,12 +235,13 @@ When you make a mod post, it is very important to **not** do any of the followin
     However, if the modder does not explain why they should make such a change, the mapper will not fully understand the reason behind doing so and may not change the combo.
   - **1 grid to the _right_**: It is not always obvious why a hit object should be moved a grid space up, right, down, or left.
     It is fine to suggest this, but try to explain why it should be moved.
-    A common reason for this is to make a pattern symmetrical.
+    A common reason for this is to make a pattern symmetrical or to fix a broken [stack](/wiki/stack).
     - This sort of suggestion does not offer much to improve a beatmap.
       Keep in mind your mod post should not only consist of such suggestions.
   - **This shape is ugly**: Whether the shape is made of hit circles, sliders, or both; the mapper obviously will not understand what you are requesting.
     What looks aesthetically pleasing to the mapper may not always look aesthetically pleasing to you.
     If you are going to suggest as such, at least explain why and supply another suggestion that the mapper could use.
+    - You can instead use `this shape could look more nicely, try this:` followed by your requested changes or something similar.
 - Offensive language
   - Even if the mapper is a close friend, please try to keep your mod post clean.
     It is understandable that certain patterns may seem completely illogical to you, but there is never a reason for insulting the mapper.
