@@ -47,20 +47,38 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Sunday, 18. June 2017
+### Saturday, 24 June 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **10.00 UTC** | 19.00 UTC +9 | 18.00 UTC +8 |
-| Sweden | ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Kr.gif) | South Korea | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 |
-| United Kingdom | ![](/wiki/shared/flag/Gb.gif) | ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **12.00 UTC** | 13.00 UTC +1 | 20.00 UTC +8 |
-| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **13.00 UTC** | 20.00 UTC +7 | 15.00 UTC +2 |
-| United States | ![](/wiki/shared/flag/Us.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 |
-| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Ar.gif) | Argentina | **18.00 UTC** | 20.00 UTC +2 | 15.00 UTC -3 |
-| Romania | ![](/wiki/shared/flag/Ro.gif) | ![](/wiki/shared/flag/Cl.gif) | Chile | **19.00 UTC** | 22.00 UTC +3 | 15.00 UTC -4 |
-| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Pl.gif) | Poland | **20.00 UTC** | 15.00 UTC -5 | 22.00 UTC +2 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Indonesia | ![](/wiki/shared/flag/Id.gif) | ![](/wiki/shared/flag/Cn.gif) | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 | ¹ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Jp.gif) | Japan | **12.30 UTC** | 20.30 UTC +8 | 21.30 UTC +9 | ² |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Tw.gif) | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 | ² |
+| Mexico | ![](/wiki/shared/flag/Mx.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **15.30 UTC** | 10.30 UTC -5 | 17.30 UTC +2 | ² |
+| Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **17.00 UTC** | 19.00 UTC +2 | 19.00 UTC +2 | ² |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **18.30 UTC** | 14.30 UTC -4 | 20.30 UTC +2 | ³ |
+
+### Sunday, 25 June 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **0.30 UTC** | 20.30 (Sat.) UTC -4 | 19.30 (Sat.) UTC -5 | ³ |
+| South Korea | ![](/wiki/shared/flag/Kr.gif) | ![](/wiki/shared/flag/Us.gif) | United States | **2.00 UTC** | 11.00 UTC +9 | 22.00 (Sat.) UTC -4 | ¹ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Mx.gif) | Mexico | **3.30 UTC** | 11.30 UTC +8 | 22.30 (Sat.) UTC -5 | ³ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
+| Hong Kong | ![](/wiki/shared/flag/Hk.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/De.gif) | Germany | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
+| Japan | ![](/wiki/shared/flag/Jp.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
+| Taiwan | ![](/wiki/shared/flag/Tw.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **14.30 UTC** | 22.30 UTC +8 | 16.30 UTC +2 | ³ |
+
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
@@ -100,7 +118,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | ![](/wiki/shared/flag/Se.gif) | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [DamnEasy](https://osu.ppy.sh/users/4452911), [Negri_sk](https://osu.ppy.sh/users/2231396), [Osten](https://osu.ppy.sh/users/4417929), [Toggeni](https://osu.ppy.sh/users/3555166) |
 | ![](/wiki/shared/flag/Tw.gif) | **Taiwan** | **[e0486](https://osu.ppy.sh/users/1840467)**, [Megpoid](https://osu.ppy.sh/users/158240), [Hinashi Koyuki](https://osu.ppy.sh/users/7451713), [ZX123456](https://osu.ppy.sh/users/489271), [473147315371](https://osu.ppy.sh/users/1952803), [ItsLingers](https://osu.ppy.sh/users/1449322) |
 | ![](/wiki/shared/flag/Gb.gif) | **United Kingdom** | **[Sorcerer](https://osu.ppy.sh/users/1913190)**, [DarnedUrchin](https://osu.ppy.sh/users/4928846), [Olib](https://osu.ppy.sh/users/4044289), [FABninja](https://osu.ppy.sh/users/5257769), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Martin22](https://osu.ppy.sh/users/4209402) |
-| ![](/wiki/shared/flag/Us.gif) | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241), [Ascendance](https://osu.ppy.sh/users/2931883) |
+| ![](/wiki/shared/flag/Us.gif) | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241) |
 | ![](/wiki/shared/flag/Ve.gif) | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [Yudara](https://osu.ppy.sh/users/3564018), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050) |
 
 ------------------------------------------------------------------------
@@ -217,9 +235,58 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | --- | :--- |
 | [Camellia - Exit This Earth's Atomosphere (Yumeno Himiko)](http://osu.ppy.sh/b/1213636&m=2) | [Vision] |
 
+## Semifinals
+
+**[Download the mappack here! (97 MB)](http://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
+
+| NoMod | |
+| --- | :--- |
+| [Function Phantom - Algebra (Spectator)](http://osu.ppy.sh/b/1001619&m=2) | [Crystal Spec's Overdose] |
+| [Expander - Move That Body (Kyptoric)](http://osu.ppy.sh/b/909889&m=2) | [Overdose] |
+| [a_hisa - Dysthymia (Kyuare)](http://osu.ppy.sh/b/1299872&m=2) | [Eternal] |
+| [Morimori Atsushi - Tits or get the fuck out!! (rew0825)](http://osu.ppy.sh/b/1249831&m=2) | [F*ck out!!] |
+| [An - Saigo (Rumia-)](http://osu.ppy.sh/b/1100091&m=2) | [Final] |
+| [Nanahoshi Kangengakudan - Meikaruza (pkk)](http://osu.ppy.sh/b/701033&m=2) | [Extra] |
+
+| Hidden | |
+| --- | :--- |
+| [M2U - Marigold (Hareimu)](http://osu.ppy.sh/b/1270304&m=2) | [Deif's Overdose] |
+| [Kanako Ito - Densho no Uta -Verum- (F D Flourite)](http://osu.ppy.sh/b/1117822&m=2) | [Aeviternus] |
+| [S.S.H. - Intersect Thunderbolt-Remix (7odoa)](http://osu.ppy.sh/b/122693&m=2) | [Exceed] |
+
+| HardRock | |
+| --- | :--- |
+| [Akiyama Uni - Odoru Mizushibuki (Hareimu)](http://osu.ppy.sh/b/1113464&m=2) | [Splash Dance] |
+| [Happy Clover - PUNCH*MIND*HAPPINESS (examination)](http://osu.ppy.sh/b/1023226&m=2) | [Rain] |
+| [Natsume Chiaki - Hanairo Biyori (rinsukir)](http://osu.ppy.sh/b/509510&m=2) | [Awaken's Challenge] |
+
+
+| DoubleTime | |
+| --- | :--- |
+| [*namirin - Daidai Genome (Ascendance)](http://osu.ppy.sh/b/1209453&m=2) | [Rain] |
+| [Mili - Utopiosphere -Platonism- (Benny-)](http://osu.ppy.sh/b/1111110&m=2) | [Tyrell's Utopia] |
+| [Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega (Dailycare)](http://osu.ppy.sh/b/1007169&m=2) | [Lunatic] |
+
+| Tiebreaker | |
+| --- | :--- |
+| [orangentle / Yu_Asahina - HAELEQUIN (Extended ver.) (CLSW)](http://osu.ppy.sh/b/1201544&m=2) | [Witchcraft] |
+
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Sunday, 18. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![](/wiki/shared/flag/Jp.gif) | 2 | 5 | ![](/wiki/shared/flag/Cn.gif) China | [#1](https://osu.ppy.sh/community/matches/33939916) |
+| Sweden ![](/wiki/shared/flag/Se.gif) | 0 | 5 | ![](/wiki/shared/flag/Kr.gif) South Korea | [#1](https://osu.ppy.sh/community/matches/33940848) |
+| United Kingdom ![](/wiki/shared/flag/Gb.gif) | 2 | 5 | ![](/wiki/shared/flag/Hk.gif) Hong Kong | [#1](https://osu.ppy.sh/community/matches/33941722) |
+| Indonesia ![](/wiki/shared/flag/Id.gif) | 5 | 1 | ![](/wiki/shared/flag/Nl.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/33943065) |
+| United States ![](/wiki/shared/flag/Us.gif) | 5 | 3 | ![](/wiki/shared/flag/Tw.gif) Taiwan | [#1](https://osu.ppy.sh/community/matches/33944186) |
+| Germany ![](/wiki/shared/flag/De.gif) | 5 | 0 | ![](/wiki/shared/flag/Ar.gif) Argentina | -WIN BY DEFAULT- |
+| Romania ![](/wiki/shared/flag/Ro.gif) | 0 | 5 | ![](/wiki/shared/flag/Cl.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33950518) |
+| Mexico ![](/wiki/shared/flag/Mx.gif) | 5 | 1 | ![](/wiki/shared/flag/Pl.gif) Poland | [#1](https://osu.ppy.sh/community/matches/33951822) |
 
 ### Round of 16
 
@@ -383,8 +450,8 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 **Winning conditions:**
   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-  - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-  - In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
+  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+  - In Semifinals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
   - In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
