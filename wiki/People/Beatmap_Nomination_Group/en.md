@@ -11,7 +11,7 @@
 Beatmap Nomination Group
 ========================
 
-The **Beatmap Nomination Group**, more commonly referred to as BNs, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure).
+The **Beatmap Nomination Group**, more commonly referred to as the BNG, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are commonly referred to as BNs, or Beatmap Nominators.
 This group has undergone many changes recently.
 As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
 The most recent change was on 1. February 2015 when the team was changed from Beatmap Appreciation Team to Beatmap Nominator Group.
@@ -33,7 +33,7 @@ You can read [How to join the BNG](https://osu.ppy.sh/forum/t/471344) on how to 
 Team Members
 ------------
 
-_Please note: All BN speak English unless otherwise noted._ [Link](https://osu.ppy.sh/g/28)
+_Please note: All BNs speak English unless otherwise noted._ [Link](https://osu.ppy.sh/g/28)
 
 Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
 
