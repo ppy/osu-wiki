@@ -789,10 +789,6 @@
 "how_to_not_embarrass_yourself_in_the_modding_queues_subforum": "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
 "how_to_not_embarrass_yourself_in_the_projects_subforum":       "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
 "how_to_not_embarrass_yourself_in_the_projects_subforum":       "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
-"modding_and_mapping":                                          "Modding/Modding_and_Mapping"
-"mam":                                                          "Modding/Modding_and_Mapping"
-"code_of_conduct":                                              "Modding/Modding_and_Mapping"
-"coc":                                                          "Modding/Modding_and_Mapping"
 "starting_a_beatmap_project":                                   "Modding/Starting_a_Beatmap_Project"
 
 "multi":                       "Multi"
@@ -888,6 +884,15 @@
 
 "ranking_criteria":            "Ranking_Criteria"
 "rc":                          "Ranking_Criteria"
+
+"modding_and_mapping":                  "Ranking_Criteria/Modding_and_Mapping"
+"mam":                                  "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct":                      "Ranking_Criteria/Modding_and_Mapping"
+"coc":                                  "Ranking_Criteria/Modding_and_Mapping"
+"coc:_mam":                             "Ranking_Criteria/Modding_and_Mapping"
+"coc_mam":                              "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct:_modding_and_mapping": "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct_modding_and_mapping":  "Ranking_Criteria/Modding_and_Mapping"
 
 "ranking_criteria_osu!":         "Ranking_Criteria/osu!"
 "ranking_criteria_osu!standard": "Ranking_Criteria/osu!"
