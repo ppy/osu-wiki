@@ -49,7 +49,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Semifinals
 
-### Saturday, 24. June 2017
+### Saturday, 24 June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
@@ -60,7 +60,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Germany | ![](/wiki/shared/flag/De.gif) | ![](/wiki/shared/flag/Nl.gif) | Netherlands | **17.00 UTC** | 19.00 UTC +2 | 19.00 UTC +2 | ² |
 | Chile | ![](/wiki/shared/flag/Cl.gif) | ![](/wiki/shared/flag/Se.gif) | Sweden | **18.30 UTC** | 14.30 UTC -4 | 20.30 UTC +2 | ³ |
 
-### Sunday, 25. June 2017
+### Sunday, 25 June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
