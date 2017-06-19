@@ -15,15 +15,20 @@ A common set contains the following four difficulties: Kantan, Futsuu, Muzukashi
 
 While Inner and Ura Oni are normally in use for hard Onis, they can also be used for **fixing spread problems**. For example, if a spread happens to become too large between two difficulties, you can either try refining the existing difficulties to fit the spread or add a **new map** if the gap between two difficulties is too large to be refined.
 
-Go back to the [Difficulties](/wiki/Difficulties/#osu-taiko-difficulty-spreads) for more examples.
-
 **Example 1:** Sometimes the snapping behaviour can shift threw the diffs, depending on the songs BPM. In this case the difficulties have lower density due to a slow BPM song and does not require a Kantan since Futsuu is sufficient enough.
 
 -   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 4/1 + 2/1
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 2/1 + 1/1
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/1 + 1/2
 
-**Example 2:** This would be a common set with additional Inner / Ura Oni a song can carry.
+**Example 2:** Same snapping case but with the difference of having at certain places denser patterns. Good for songs which support harder mapsets.
+
+-   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1 with some 1/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1 with some 1/2
+-   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with some 1/4
+-   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4 with harder 1/4 or 1/6
+
+**Example 3:** This would be a common set with additional Inner / Ura Oni a song can carry.
 
 -   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1
 -   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
@@ -31,13 +36,20 @@ Go back to the [Difficulties](/wiki/Difficulties/#osu-taiko-difficulty-spreads) 
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4
 -   ![Expert](/wiki/shared/Expert-t.png "Expert") Main snapping 1/2 + demanding 1/4
 
-**Example 3:** Such sets are also possible; having in general a common set with an additional really hard Oni for high tier players.
+**Example 4:** Such sets are also possible; having in general a common set with an additional really hard Oni for high tier players.
 
 -   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + easy 2/1
 -   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + easy 1/1
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + easy 1/2
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + easy 1/4
 -   ![Expert](/wiki/shared/Expert-t.png "Expert") Main snapping 1/2 + demanding 1/4
+
+**Example 5 (what should not happen):** While the transition from Kantan to Futsuu and Muzukashii to Oni is fine, Futsuu to Muzukashii spread happens to be bigger since Futsuu does not have any 1/2 for a better transition into Muzukashii and hence, the spread is uneven and spitted in lower and higher difficulties. Example 2 should be followed to fix such problems.
+
+-   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1 with 1/1
+-   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
+-   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2 with 1/4
+-   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4
 
 ## Breaks in osu!taiko
 
