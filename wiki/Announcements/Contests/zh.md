@@ -15,8 +15,9 @@
 
 注：
 
-- 月度作图竞赛是在 rank 规则约束下进行的，获胜者将会获得 "Elite Mapper" 论坛头衔和 osu!supporter 奖励
-- 第一届到第五届月度作图竞赛的获胜谱面还与 [osu!教程谱面](https://osu.ppy.sh/s/3756) 一起绑定到 [osu!安装器](https://osu.ppy.sh/p/download)里
+- 月度作图竞赛的获胜者将会获得 "Elite Mapper" 论坛头衔和 osu!supporter 奖励
+- 第 1 届到第 12 届月度作图竞赛的获胜谱面（第 6 届除外）已经或将与 [osu!教程谱面](https://osu.ppy.sh/s/3756) 一起绑定到 [osu!安装器](https://osu.ppy.sh/p/download) 里
+- 第 13 届之后的月度作图竞赛的获胜谱面已经或将会由 osu! 媒体小组进行展示
 
 | 编号        | 谱面                                                                                                   | 模式                 | 获胜者                                           | 结果界面                                         | 成绩                                                   |
 |:----------:|--------------------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -41,10 +42,12 @@
 
 ### 创意作图竞赛
 
+创意作图竞赛是有一项特殊规则的作图竞赛，这项竞赛的作品不受 [Ranking Criteria](/wiki/Ranking_Criteria) 约束
+
 注：
 
-- 创意作图竞赛 (Aspire) 不受 rank 规则约束，获胜者除了会获得 "Elite Mapper: Aspirant" 论坛头衔和 osu!supporter 奖励以外，还会有一枚独特的 Aspire 个人界面徽章
-- 第六届月度作图竞赛实际上使用了创意作图竞赛的规则，但从 Aspire 2016 才从月度作图竞赛中独立作为一类竞赛命名
+- 创意作图竞赛的获胜者除了会获得 "Elite Mapper: Aspirant" 论坛头衔和 osu!supporter 奖励以外，还会有一枚独特的 Aspire 个人界面徽章
+- 第 6 届月度作图竞赛实际上使用了创意作图竞赛的规则，但从 Aspire 2016 开始才从月度作图竞赛中独立作为一类竞赛命名
 
 | 编号                   | 谱面                                                                                        | 模式                 | 获胜者                                           | 结果界面                                         | 成绩                                                   |
 |:---------------------:|---------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -59,22 +62,24 @@
 - 社区投票的获胜者和评委投票的获胜者都将获得一年的 osu!supporter 和 osu! 数位板 / Pippi Plushie
 - 亚军将获得一个月的 osu!supporter
 
-你可以在 [Facebook 页面](https://www.facebook.com/osugame) 上看到每次竞赛的画廊
+你可以在 [Facebook](https://www.facebook.com/osugame) 上看到每次竞赛的画廊
 
-点击 [月度同人竞赛](Monthly_Fanart_Contest) 查看更多信息
+点击 [月度同人竞赛](./Monthly_Fanart_Contest) 查看更多信息
 
 ## osu! 商店竞赛
 
 注：
 
-- 获胜者将获得 **osu! 商店礼包** (一块 osu! 数位板，一份 osu! 贴纸套装，一份 osu! 贴纸套装 #2，以及六个月的 osu!supporter
+- 获胜者将获得 **osu! 商店礼包** (一块 osu!数位板，一份 osu! 贴纸套装，一份 osu! 贴纸套装 #2，以及六个月的 osu!supporter
 - 亚军将获得四个月的 osu!supporter
 
 | 编号         | 标题                            | 需求                                         | 胜者                | 新闻                                         | 结果    |
 |:-----------:|---------------------------------|----------------------------------------------|--------------------|----------------------------------------------|---------|
 | 1           | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN)              | [News](https://osu.ppy.sh/news/114095906408) | N/A     |
 
-## osu! 爱抖露
+## osu!爱抖露 (osu!idol)
+
+osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或合唱不同类型的歌曲，由评委和社区投票决定获胜者
 
 ### 2014
 
@@ -86,9 +91,9 @@
 
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
-- [新闻界面](https://osu.ppy.sh/news/95662228778)
-- [结果界面](https://osu.ppy.sh/news/106902823593)
-- [论坛界面](https://osu.ppy.sh/forum/t/234545)
+- [新闻页面](https://osu.ppy.sh/news/95662228778)
+- [结果页面](https://osu.ppy.sh/news/106902823593)
+- [论坛页面](https://osu.ppy.sh/forum/t/234545)
 
 ### 2015
 
@@ -100,9 +105,9 @@
 
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [新闻界面](https://osu.ppy.sh/news/125447383718)
-- [结果界面](https://osu.ppy.sh/news/134589253878)
-- [论坛界面](https://osu.ppy.sh/forum/t/352608)
+- [新闻页面](https://osu.ppy.sh/news/125447383718)
+- [结果页面](https://osu.ppy.sh/news/134589253878)
+- [论坛页面](https://osu.ppy.sh/forum/t/352608)
 
 ### 2016
 
@@ -114,9 +119,9 @@
 
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [新闻界面](https://osu.ppy.sh/news/145357306703)
-- [结果界面](https://osu.ppy.sh/news/152901340878)
-- [论坛界面](https://osu.ppy.sh/forum/t/448842)
+- [新闻页面](https://osu.ppy.sh/news/145357306703)
+- [结果页面](https://osu.ppy.sh/news/152901340878)
+- [论坛页面](https://osu.ppy.sh/forum/t/448842)
 
 ## 社区举办的竞赛
 
@@ -124,7 +129,7 @@
 
 ### 骗顶杯作图竞赛
 
-- Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛中，骗顶杯以激发创新、鼓励新人为基本原则进行规则与奖项设置，因此出现了许多优秀作品与潜力新人。
+Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛中，骗顶杯以激发创新、鼓励新人为基本原则进行规则与奖项设置，因此出现了许多优秀作品与潜力新人。
 
 #### 第一届（2013）
 
@@ -134,8 +139,8 @@
 | 2    | 葉月ゆら - 宵闇花火                     | [Lan Wings](https://osu.ppy.sh/u/467860)       | [Kotone](https://osu.ppy.sh/u/26507)           | [Regou](https://osu.ppy.sh/u/419954)           |
 | 3    | An - アートコア神社                     | [Flower](https://osu.ppy.sh/u/1033017)         | [Amamiya Yuko](https://osu.ppy.sh/u/873961)    | [Regou](https://osu.ppy.sh/u/419954)           |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/135492)
-- [结果界面](https://osu.ppy.sh/forum/t/152966)
+- [论坛页面](https://osu.ppy.sh/forum/t/135492)
+- [结果页面](https://osu.ppy.sh/forum/t/152966)
 
 #### 第二届（2014）
 
@@ -144,8 +149,8 @@
 | 1    | Sharlo & Sabbo - 桜の花が舞い落ちるとき  | [Loneight](https://osu.ppy.sh/u/663131)        | [Macuilxochitl](https://osu.ppy.sh/u/418699)   | [eveless](https://osu.ppy.sh/u/102976)         |
 | 2    | 木製みゅーと - 七つ一旋桜                | [OSUtoto](https://osu.ppy.sh/u/847182)         | [bo0O0od](https://osu.ppy.sh/u/530547)         | [Kawaiwkyik](https://osu.ppy.sh/u/1367570)     |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/229019)
-- [结果界面](https://osu.ppy.sh/forum/t/243930)
+- [论坛页面](https://osu.ppy.sh/forum/t/229019)
+- [结果页面](https://osu.ppy.sh/forum/t/243930)
 
 #### 第三届（2015）
 
@@ -155,8 +160,8 @@
 | 2    | 削除 - Imprinting                      | [yf_bmp](https://osu.ppy.sh/u/1243669)         | [Syameimaru-Aya](https://osu.ppy.sh/u/3153354) | [Inazuma](https://osu.ppy.sh/u/1033017)        |
 | 3    | P*Light - YELLOW SPLASH!!              | [fanzhen0019](https://osu.ppy.sh/u/418699)     | [yf_bmp](https://osu.ppy.sh/u/1243669)         | [Minakami Yuki](https://osu.ppy.sh/u/2433507)  |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/345263)
-- [结果界面](https://osu.ppy.sh/forum/t/373843)
+- [论坛页面](https://osu.ppy.sh/forum/t/345263)
+- [结果页面](https://osu.ppy.sh/forum/t/373843)
 
 #### 第四届（2016）
 
@@ -166,12 +171,12 @@
 | 2    | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/u/2116792)      | [rui](https://osu.ppy.sh/u/74313)              | [yf_bmp](https://osu.ppy.sh/u/1243669)         |
 | 3    | Dollscythe - Flashes (Extended)               | [Skystar](https://osu.ppy.sh/u/873961)         | [Level9](https://osu.ppy.sh/u/7232130)         | [Frostings](https://osu.ppy.sh/u/2652543)      |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/482629)
-- [结果界面](https://osu.ppy.sh/forum/t/504645)
+- [论坛页面](https://osu.ppy.sh/forum/t/482629)
+- [结果页面](https://osu.ppy.sh/forum/t/504645)
 
 ### 新纸张杯作图竞赛
 
-- Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入作图坑，展现与提高华语圈新人们的作图技巧的一年一度新人mapper作图比赛。
+Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入作图坑，展现与提高华语圈新人们的作图技巧的一年一度新人mapper作图比赛。
 
 #### 第一届（2015）
 
@@ -180,8 +185,8 @@
 | 1    | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/u/2775906)         | [Philosophy2](https://osu.ppy.sh/u/372256)     | [bread129988](https://osu.ppy.sh/u/2010665)    |
 | 2    | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/u/1826598)       | [JJburstOwO](https://osu.ppy.sh/u/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/u/2041350)   |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/272739)
-- [结果界面](https://osu.ppy.sh/forum/t/312154)
+- [论坛页面](https://osu.ppy.sh/forum/t/272739)
+- [结果页面](https://osu.ppy.sh/forum/t/312154)
 
 #### 第二届（2016）
 
@@ -190,8 +195,8 @@
 | 1    | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/u/4018820)      | [FreeSongs](https://osu.ppy.sh/u/2116792)      | [Vert](https://osu.ppy.sh/u/3420746)           |
 | 2    | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/u/3280555)   | [liaoxingyao](https://osu.ppy.sh/u/3620963)    | [Kencho](https://osu.ppy.sh/u/3178411)     |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/415669)
-- [结果界面](https://osu.ppy.sh/forum/t/432070)
+- [论坛页面](https://osu.ppy.sh/forum/t/415669)
+- [结果页面](https://osu.ppy.sh/forum/t/432070)
 
 #### 第三届（2017）
 
@@ -200,5 +205,5 @@
 | 1    | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/u/1243669), [EmingK](https://osu.ppy.sh/u/2021118)            | [Gaia](https://osu.ppy.sh/u/2683648), [Doj](https://osu.ppy.sh/u/4121612)                 |
 | 2    | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/u/419954), [fish39](https://osu.ppy.sh/u/3522390)              | [Bluekrait](https://osu.ppy.sh/u/4205741), [Rose Pacifica](https://osu.ppy.sh/u/1393255)  |
 
-- [论坛界面](https://osu.ppy.sh/forum/t/546038)
-- [结果界面](https://osu.ppy.sh/forum/t/570350)
+- [论坛页面](https://osu.ppy.sh/forum/t/546038)
+- [结果页面](https://osu.ppy.sh/forum/t/570350)
