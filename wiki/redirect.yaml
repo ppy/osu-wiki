@@ -55,7 +55,39 @@
 "timeline":                    "Beatmap_Editor/Timelines"
 "timing":                      "Beatmap_Editor/Timing"
 
+"adding_custom_hit_sounds":               "Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds"
+"audio_editing":                          "Beatmap_Editor_Guides/Audio_Editing"
+"basic_mp3_modifications":                "Beatmap_Editor_Guides/Basic_MP3_Modifications"
+"changing_the_map's_artist_or_title":     "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"changing_the_map's_artist":              "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"changing_the_map's_title":               "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_the_map's_artist":                "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_the_map's_title":                 "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_the_artist":                      "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_the_title":                       "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_artist":                          "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"change_title":                           "Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title"
+"changing_title_text":                    "Beatmap_Editor_Guides/Changing_Title_Text"
+"change_title_text":                      "Beatmap_Editor_Guides/Changing_Title_Text"
+"compressing_beatmap_files":              "Beatmap_Editor_Guides/Compressing_Beatmap_Files"
+"compress_beatmap_files":                 "Beatmap_Editor_Guides/Compressing_Beatmap_Files"
+"compressing_videos":                     "Beatmap_Editor_Guides/Compressing_Videos"
+"cropping_with_complex_backgrounds":      "Beatmap_Editor_Guides/Cropping_with_Complex_Backgrounds"
+"cropping_with_simple_backgrounds":       "Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds"
+"custom_hit_sound_library":               "Beatmap_Editor_Guides/Custom_Hit_Sound_Library"
+"custom_hitsound_library":                "Beatmap_Editor_Guides/Custom_Hit_Sound_Library"
+"custom_sample_overrides":                "Beatmap_Editor_Guides/Custom_Sample_Overrides"
+"getting_songs_from_video_games":         "Beatmap_Editor_Guides/Getting_Songs_from_Video_Games"
+"how_to_time_songs":                      "Beatmap_Editor_Guides/How_to_time_songs"
+"Making_properly_centered_spinners":      "Beatmap_Editor_Guides/Making_Properly_Centered_Spinners"
+"music_theory":                           "Beatmap_Editor_Guides/Music_Theory"
+"osu!mania_mapping_guide":                "Beatmap_Editor_Guides/osu!mania_Mapping_Guide"
+"setting_the_offset_on_the_correct_beat": "Beatmap_Editor_Guides/Setting_the_Offset_on_the_Correct_Beat"
+"set_the_offset_on_the_correct_beat":     "Beatmap_Editor_Guides/Setting_the_Offset_on_the_Correct_Beat"
+"videos_from_youtube":                    "Beatmap_Editor_Guides/Videos_from_Youtube"
+
 "beatmapping":                 "Beatmapping"
+"mapping":                     "Beatmapping"
 
 "beatmaps":                    "Beatmaps"
 "beatmap":                     "Beatmaps"
@@ -78,6 +110,8 @@
 "best_of_2012":                "Best_Of/2012"
 
 "chat_console":                "Chat_Console"
+"extended_chat_console":       "Chat_Console/#extended-chat-console"
+"extended_chat":               "Chat_Console/#extended-chat-console"
 
 "difficulties":                "Difficulties"
 "difficulty":                  "Difficulties"
@@ -91,6 +125,7 @@
 "futsuu":                      "Difficulties/osu!taiko/Futsuu"
 "kantan":                      "Difficulties/osu!taiko/Kantan"
 "muzukashii":                  "Difficulties/osu!taiko/Muzukashii"
+"oni":                         "Difficulties/osu!taiko/Oni"
 "ura_oni":                     "Difficulties/osu!taiko/Ura_Oni"
 "inner_oni":                   "Difficulties/osu!taiko/Ura_Oni"
 
@@ -311,7 +346,6 @@
 
 "eba":                         "Glossary/#eba"
 "elite_beat_agents":           "Glossary/#eba"
-"extended_chat":               "Glossary/#extended-chat"
 
 "fail":                        "Glossary/#fail"
 "fc":                          "Glossary/#fc"
@@ -328,6 +362,9 @@
 "gd":                          "Glossary/#guest-difficulty"
 
 "hit_sound":                   "Glossary/#hit-sound"
+"hit_sounds":                  "Glossary/#hit-sound"
+"hitsound":                    "Glossary/#hit-sound"
+"hitsounds":                   "Glossary/#hit-sound"
 
 "ignore_list":                 "Glossary/#ignore-list"
 
@@ -404,6 +441,7 @@
 "spectate":                    "Glossary/#spectate"
 "spectator_aura":              "Glossary/#spectator-aura"
 "stacked":                     "Glossary/#stacked"
+"stack":                       "Glossary/#stacked"
 "standard":                    "Glossary/#standard"
 "std":                         "Glossary/#standard"
 "star":                        "Glossary/#star"
@@ -439,6 +477,18 @@
 "history_of_osu!":             "History_of_osu!"
 "hoo":                         "History_of_osu!"
 
+"hit_objects":                 "Hit_Objects"
+"hitobjects":                  "Hit_Objects"
+"objects":                     "Hit_Objects"
+"hit_circle":                  "Hit_Objects/#hit-circle"
+"hit_circles":                 "Hit_Objects/#hit-circle"
+"hitcircle":                   "Hit_Objects/#hit-circle"
+"hitcircles":                  "Hit_Objects/#hit-circle"
+"slider":                      "Hit_Objects/#slider"
+"sliders":                     "Hit_Objects/#slider"
+"spinner":                     "Hit_Objects/#spinner"
+"spinners":                    "Hit_Objects/#spinner"
+
 "how_you_can_help!":           "How_You_Can_Help!"
 
 "index":                       "Index"
@@ -459,6 +509,17 @@
 "legal":                       "Legal"
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/TOS"
+
+"guides":                                              "List_of_Guides"
+"list_of_guides":                                      "List_of_Guides"
+"general_tips_and_tricks_on_skill_improvement":        "List_of_Guides/General_tips_and_tricks_on_skill_improvement"
+"gl_support_issues":                                   "List_of_Guides/GL_Support_Issues"
+"how_to_play_mania":                                   "List_of_Guides/How_To_Play_Mania"
+"how_to_run_osu!_on_your_mac_without_using_boot_camp": "List_of_Guides/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp"
+"how_to_use_the_offset_wizard":                        "List_of_Guides/How_to_use_the_Offset_Wizard"
+"recording_osu!":                                      "List_of_Guides/Recording_osu!"
+"searching_and_downloading_beatmaps":                  "List_of_Guides/Searching_and_Downloading_Beatmaps"
+"tablet_purchase":                                     "List_of_Guides/Tablet_purchase"
 
 "live_streaming_osu!":         "Live_streaming_osu!"
 "live_streaming":              "Live_streaming_osu!"
@@ -722,6 +783,14 @@
 
 "modding":                     "Modding"
 
+"collab_information":                                           "Modding/Collab_Information"
+"getting_your_map_modded":                                      "Modding/Getting_Your_Map_Modded"
+"how_to_get_your_map_ranked":                                   "Modding/How_To_Get_Your_Map_Ranked"
+"how_to_not_embarrass_yourself_in_the_modding_queues_subforum": "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
+"how_to_not_embarrass_yourself_in_the_projects_subforum":       "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
+"how_to_not_embarrass_yourself_in_the_projects_subforum":       "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
+"starting_a_beatmap_project":                                   "Modding/Starting_a_Beatmap_Project"
+
 "multi":                       "Multi"
 "multiplayer":                 "Multi"
 "multi-play":                  "Multi"
@@ -816,6 +885,15 @@
 "ranking_criteria":            "Ranking_Criteria"
 "rc":                          "Ranking_Criteria"
 
+"modding_and_mapping":                  "Ranking_Criteria/Modding_and_Mapping"
+"mam":                                  "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct":                      "Ranking_Criteria/Modding_and_Mapping"
+"coc":                                  "Ranking_Criteria/Modding_and_Mapping"
+"coc:_mam":                             "Ranking_Criteria/Modding_and_Mapping"
+"coc_mam":                              "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct:_modding_and_mapping": "Ranking_Criteria/Modding_and_Mapping"
+"code_of_conduct_modding_and_mapping":  "Ranking_Criteria/Modding_and_Mapping"
+
 "ranking_criteria_osu!":         "Ranking_Criteria/osu!"
 "ranking_criteria_osu!standard": "Ranking_Criteria/osu!"
 "ranking_criteria_osu!std":      "Ranking_Criteria/osu!"
@@ -836,6 +914,7 @@
 "osu!std_rc":                    "Ranking_Criteria/osu!"
 "standard_rc":                   "Ranking_Criteria/osu!"
 "std_rc":                        "Ranking_Criteria/osu!"
+"src":                           "Ranking_Criteria/osu!"
 
 "ranking_criteria_osu!catch":      "Ranking_Criteria/osu!catch"
 "ranking_criteria_catch":          "Ranking_Criteria/osu!catch"
@@ -853,6 +932,7 @@
 "catch_rc":                        "Ranking_Criteria/osu!catch"
 "ctb_rc":                          "Ranking_Criteria/osu!catch"
 "catch_the_beat_rc":               "Ranking_Criteria/osu!catch"
+"crc":                             "Ranking_Criteria/osu!catch"
 
 "ranking_criteria_osu!mania":  "Ranking_Criteria/osu!mania"
 "ranking_criteria_mania":      "Ranking_Criteria/osu!mania"
@@ -862,6 +942,7 @@
 "rc_mania":                    "Ranking_Criteria/osu!mania"
 "osu!mania_rc":                "Ranking_Criteria/osu!mania"
 "mania_rc":                    "Ranking_Criteria/osu!mania"
+"mrc":                         "Ranking_Criteria/osu!mania"
 
 "ranking_criteria_osu!taiko":  "Ranking_Criteria/osu!taiko"
 "ranking_criteria_taiko":      "Ranking_Criteria/osu!taiko"
@@ -871,6 +952,7 @@
 "rc_taiko":                    "Ranking_Criteria/osu!taiko"
 "osu!taiko_rc":                "Ranking_Criteria/osu!taiko"
 "taiko_rc":                    "Ranking_Criteria/osu!taiko"
+"trc":                         "Ranking_Criteria/osu!taiko"
 
 "reporting_bad_behaviour":     "Reporting_Bad_Behaviour"
 "bad_behaviour":               "Reporting_Bad_Behaviour"
