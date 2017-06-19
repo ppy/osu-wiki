@@ -1,5 +1,7 @@
 # osu! Around the World!
 
+_[Click here to go back to Monthly Fanart Contest listing.](../)_
+
 ## Public Picks
 
 ### First Place

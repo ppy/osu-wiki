@@ -3,7 +3,7 @@
 
 ![CMT 4K 2017](pic.png)
 
- **2017年华人 osu!mania 4K 大赛**（以下均简写为**CMT 4K 2017**）为华人区个人比赛，是由CMT团队举办的第二届华人 osu!mania 4K 大赛。比赛所用地图均为 osu!mania 4K 专用谱。
+ **2017年华人 osu!mania 4K 大赛**（以下均简写为**CMT 4K 2017**）为华人区个人比赛，是由 CMT 团队举办的第二届华人 osu!mania 4K 大赛。比赛所用地图均为 osu!mania 4K 专用谱。
 
 ## 比赛时间表
 
@@ -38,7 +38,7 @@
 | 比赛监督 | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
 | 图池管理团队 | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
 | 直播裁判团队 | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| 解说团队 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069) |
+| 解说团队 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069)、[![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
 
 ## 比赛直播间
 
@@ -53,11 +53,11 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ### 测试赛
 
-6月17日 15:00 (UTC+8)  新锐队 vs 元老队（4v4）
+6月17日 15:00 (UTC+8)  元老队 vs 新锐队（4v4）
 
-元老队队员：**gpf19851210** IDSxianyu Cideisbiantai Scslag hans1999 w765333805
+元老队队员：**[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
 
-新锐队队员：**Moting** Mof liberavi prelude8792916 qiluo wjh123 xxxx
+新锐队队员：**[Moting](https://osu.ppy.sh/u/4902208)** [Mof liberavi](https://osu.ppy.sh/u/9045121) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
 
 ## 比赛图池
 
@@ -83,6 +83,19 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 TB:  
 [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
+
+### 资格赛图池
+
+[Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062)  
+[Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335)  
+[Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
+[Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
+
+#### 参赛者名单
+
+[点击下载](http://kj415j45.space/%E5%8D%8E%E4%BA%BA%E6%9D%AF%E8%B5%84%E6%A0%BC%E8%B5%9B%E6%8E%92%E7%A8%8B%28%E6%96%B0%E7%89%88%29.xls)
+
+周三之前如对安排有异议，请发邮件至cmt4k@foxmail.com与主办方交流
 
 ## 比赛回顾
 
@@ -151,13 +164,13 @@ TB:
      - 总决赛为**13**局 **7**胜。
 8. 根据赛程安排，这些赛事的编排如下：
 
-     | 赛事 | 比赛编号 |
-     | ---: | :--- |
-     | 16强 | A, B, C, D, E, F, G, H |
-     | 1/4决赛 | I, J, K, L & R, S, T, U |
-     | 半决赛 | M, N & V, W, X, Y, Z,AA |
-     | 决赛第**1**周 | O & AB, AC, AD, AE |
-     | 决赛第**2**周 | P, Q |  
+| 赛事 | 比赛编号 |
+| ---: | :--- |
+| 16强 | A, B, C, D, E, F, G, H |
+| 1/4决赛 | I, J, K, L & R, S, T, U |
+| 半决赛 | M, N & V, W, X, Y, Z,AA |
+| 决赛第**1**周 | O & AB, AC, AD, AE |
+| 决赛第**2**周 | P, Q |  
 
 ## 比赛程序说明
 
@@ -177,7 +190,7 @@ TB:
 
 1. 一位记录员会在赛事开始前**15**分钟创建一个在线多人游戏房间（Multiplayer），选手需要在此时集合：
      - 房间设定为“osu!mania, Head To Head., 胜出条件:‘Score v2’”。房间名称必须是“CMT 4K 2017:(蓝色玩家昵称) vs (红色玩家昵称)”。
-     - 以上房间名提到的两个玩家，第一个必须在红队，第二个必须在蓝队。
+     - 以上房间名提到的两个玩家，第一个必须在蓝队，第二个必须在红队。
      - 小组赛期间如果出现记录员不足，组委会可能会改变该场比赛方式。
 2. 两位选手任选两首热身图，但有异议的图不可使用。所有地图必须是4K专用地图。
 3. 每位选手从图池中选择**1**个禁手图（Banned Map），这些禁手图将在这场比赛中不能被任何选手选用。
@@ -212,3 +225,10 @@ TB:
      - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
 6. 选手弃权的比赛不予重赛。
 
+## 比赛结果
+
+### 测试赛
+
+| 2017年6月18日 星期六 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 元老队 | 5 | 7 | 新锐队 | |
