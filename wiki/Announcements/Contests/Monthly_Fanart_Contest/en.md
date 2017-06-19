@@ -22,8 +22,6 @@ All offical current and completed monthly fanart contests are listed here from o
 - See the Facebook album: [osu! Fanart Contest 3!](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
 - Fanart selections, see [So Many Stickers!](So_Many_Stickers!).
 
-<!-- where are the other two? -->
-
 ### osu!taiko mascot
 
 - Results: [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/news/150724647363)
