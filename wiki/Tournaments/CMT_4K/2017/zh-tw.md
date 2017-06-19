@@ -91,6 +91,12 @@ TB:
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
 [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
+####參賽者名單
+
+[點擊下載](http://kj415j45.space/%E5%8D%8E%E4%BA%BA%E6%9D%AF%E8%B5%84%E6%A0%BC%E8%B5%9B%E6%8E%92%E7%A8%8B%28%E6%96%B0%E7%89%88%29.xls)
+
+週三之前如對安排有抗告，請發郵件至cmt4k@foxmail.com與主辦方交流
+
 ## 比賽回顧
 
 ## 規則
