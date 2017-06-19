@@ -79,6 +79,8 @@ Notes:
 
 ## osu!idol
 
+osu!idol is a contest where contestants as a solo or a duet sing their way through multiple stages with different genres. Official judges and the community will take over and vote to determine the winner.
+
 ### 2014
 
 | Placing | Results                                                                                                    | Original Artists                                               |
