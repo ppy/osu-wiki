@@ -14,7 +14,7 @@ And try to avoid these:
 
 -   stacked notes
 -   overlapping notes
--   [Short repeating sliders](/wiki/Mapping_Techniques/Slider/Short_Repeating_Sliders/)
+-   short repeating sliders
 
 Setup
 -----
