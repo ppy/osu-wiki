@@ -146,75 +146,66 @@ Win condition: Team with highest total team score wins the match.
 ### \#1st week
 
 
-| Pick one beatmap                                                                           |
-|--------------------------------------------------------------------------------------------|
-| [BeForU - Love Shine (Hard)](https://osu.ppy.sh/b/11091)                                         |
-| [BRANDY - The Festival of Ghost 2 (DaRRi MiX)](https://osu.ppy.sh/s/3302)                        |
-| [Dark PHOENiX - Stirring an Autumn Moon (Crazy Moon)](https://osu.ppy.sh/s/16650)                |
-| [FF7 Original Soundtrack - Crazy Motorcycle Chase (Crazy)](https://osu.ppy.sh/s/1961)            |
-| [Hirano Aya - Lost My Music (Ace Of Trades' Insane)](https://osu.ppy.sh/s/4591)                  |
-| [IOSYS - Cirno's Perfect Maths Class (DJPop's Streams)](https://osu.ppy.sh/b/26436)              |
-| [Jan Wayne Vs. Raindropz - Numb (Nightcore Ver.) (SteRRuM's Insane)](https://osu.ppy.sh/b/54697) |
-| [Karen - Sudden Death R99 (Sudden Death)](https://osu.ppy.sh/s/6269)                             |
-| [Lee Jun Hyun - Ari Ari (Insane)](https://osu.ppy.sh/s/11167)                                    |
-| [Nekomata Master - Goodbye Heaven (Another)](https://osu.ppy.sh/s/12688)                         |
-| [Risk Junk-G - Candy Galy (ignore's Insane)](https://osu.ppy.sh/s/8208)                          |
-| [SHK - Imagination (SHD)](https://osu.ppy.sh/s/5958)                                             |
-| [Tatsh - Kachoufuusetsu (Another)](https://osu.ppy.sh/s/4598)                                    |
-| [The Gregory Brothers - Auto-Tune the News \#9 (Angry Gorilla)](https://osu.ppy.sh/s/12155)      |
-| [Weird Al Yankovic - Hardware Store (Impossible)](https://osu.ppy.sh/b/18682)                    |
-
-| Tiebreaker (1-1)                                                        |
-|-------------------------------------------------------------------------|
-| [Hyadain - Battle with the Four Fiends (Sinistro)](https://osu.ppy.sh/s/2619) |
+- Pick one beatmap
+  - [BeForU - Love Shine (Hard)](https://osu.ppy.sh/b/11091)
+  - [BRANDY - The Festival of Ghost 2 (DaRRi MiX)](https://osu.ppy.sh/s/3302)
+  - [Dark PHOENiX - Stirring an Autumn Moon (Crazy Moon)](https://osu.ppy.sh/s/16650)
+  - [FF7 Original Soundtrack - Crazy Motorcycle Chase (Crazy)](https://osu.ppy.sh/s/1961)
+  - [Hirano Aya - Lost My Music (Ace Of Trades' Insane)](https://osu.ppy.sh/s/4591)
+  - [IOSYS - Cirno's Perfect Maths Class (DJPop's Streams)](https://osu.ppy.sh/b/26436)
+  - [Jan Wayne Vs. Raindropz - Numb (Nightcore Ver.) (SteRRuM's Insane)](https://osu.ppy.sh/b/54697)
+  - [Karen - Sudden Death R99 (Sudden Death)](https://osu.ppy.sh/s/6269)
+  - [Lee Jun Hyun - Ari Ari (Insane)](https://osu.ppy.sh/s/11167)
+  - [Nekomata Master - Goodbye Heaven (Another)](https://osu.ppy.sh/s/12688)
+  - [Risk Junk-G - Candy Galy (ignore's Insane)](https://osu.ppy.sh/s/8208)
+  - [SHK - Imagination (SHD)](https://osu.ppy.sh/s/5958)
+  - [Tatsh - Kachoufuusetsu (Another)](https://osu.ppy.sh/s/4598)
+  - [The Gregory Brothers - Auto-Tune the News \#9 (Angry Gorilla)](https://osu.ppy.sh/s/12155)
+  - [Weird Al Yankovic - Hardware Store (Impossible)](https://osu.ppy.sh/b/18682)
+- Tiebreaker (1-1)
+  - [Hyadain - Battle with the Four Fiends (Sinistro)](https://osu.ppy.sh/s/2619)
 
 ### \#2nd week
 
-| Pick one beatmap                                                                      |
-|---------------------------------------------------------------------------------------|
-| [Cranky - Party 4u "Holy Nite Mix" (Max)](https://osu.ppy.sh/b/31279)                       |
-| [Croove - Red (Insane)](https://osu.ppy.sh/s/4132)                                          |
-| [Girls' Generation - Himnae! (Way To Go) (Insane)](https://osu.ppy.sh/s/17525)              |
-| [Gojou Kai - Tsuepeshu no Osanaki Matsuei (Hard)](https://osu.ppy.sh/s/3862)                |
-| [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (Insane)](https://osu.ppy.sh/s/19789)             |
-| [Hito Ookami - Decisive Battle! Ho-Oh! (Lvl 100)](https://osu.ppy.sh/b/85807)               |
-| [KOTOKO - Wing my Way (v2b)](https://osu.ppy.sh/b/46827)                                    |
-| [M2U - Nightmare (Insane)](https://osu.ppy.sh/b/25905)                                      |
-| [Nightcore - Pinball (Ultimate's Craziness)](https://osu.ppy.sh/b/41068)                    |
-| [onoken - K8107 (Another)](https://osu.ppy.sh/b/49822)                                      |
-| [Paramore - Looking Up (Hard)](https://osu.ppy.sh/b/66662)                                  |
-| [Rammstein - Du Hast (Du Hast Mich)](https://osu.ppy.sh/s/4503)                             |
-| [Suzaku - Contract (Another)](https://osu.ppy.sh/s/9697)                                    |
-| [Tatsh - Cruel Moon (Lunatic)](https://osu.ppy.sh/s/13584)                                  |
-| [The Mighty Mighty Bosstones - The Impression That I Get(Hard)](https://osu.ppy.sh/b/54329) |
-
-| Tiebreaker (1-1)                                        |
-|---------------------------------------------------------|
-| [Seiryu - Time to Air (DaRRi MIx)](https://osu.ppy.sh/s/4597) |
+- Pick one beatmap
+  - [Cranky - Party 4u "Holy Nite Mix" (Max)](https://osu.ppy.sh/b/31279)
+  - [Croove - Red (Insane)](https://osu.ppy.sh/s/4132)
+  - [Girls' Generation - Himnae! (Way To Go) (Insane)](https://osu.ppy.sh/s/17525)
+  - [Gojou Kai - Tsuepeshu no Osanaki Matsuei (Hard)](https://osu.ppy.sh/s/3862)
+  - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (Insane)](https://osu.ppy.sh/s/19789)
+  - [Hito Ookami - Decisive Battle! Ho-Oh! (Lvl 100)](https://osu.ppy.sh/b/85807)
+  - [KOTOKO - Wing my Way (v2b)](https://osu.ppy.sh/b/46827)
+  - [M2U - Nightmare (Insane)](https://osu.ppy.sh/b/25905)
+  - [Nightcore - Pinball (Ultimate's Craziness)](https://osu.ppy.sh/b/41068)
+  - [onoken - K8107 (Another)](https://osu.ppy.sh/b/49822)
+  - [Paramore - Looking Up (Hard)](https://osu.ppy.sh/b/66662)
+  - [Rammstein - Du Hast (Du Hast Mich)](https://osu.ppy.sh/s/4503)
+  - [Suzaku - Contract (Another)](https://osu.ppy.sh/s/9697)
+  - [Tatsh - Cruel Moon (Lunatic)](https://osu.ppy.sh/s/13584)
+  - [The Mighty Mighty Bosstones - The Impression That I Get(Hard)](https://osu.ppy.sh/b/54329)
+- Tiebreaker (1-1)
+  - [Seiryu - Time to Air (DaRRi MIx)](https://osu.ppy.sh/s/4597)
 
 ### \#3rd week
 
-| Pick one beatmap                                                                         |
-|------------------------------------------------------------------------------------------|
-| [3L - Extend Ash ~ Hourai Victim (extra)](https://osu.ppy.sh/s/8593)                           |
-| [Amane - BOOZEHOUND (Lesjuh)](https://osu.ppy.sh/s/9995)                                       |
-| [ARMCANNON - Bhost Gusters (Insane)](https://osu.ppy.sh/b/37752)                               |
-| [Beautiful Day - V3 (impossible)](https://osu.ppy.sh/s/4622)                                   |
-| [Dj Verstarker - Jump Jump (2008) (Jump like CRAZY!!!)](https://osu.ppy.sh/s/6004)             |
-| [FamilyMart Jingle (Family Mart is Your Home)](https://osu.ppy.sh/s/9400)                      |
-| [Hatsune Miku - Uraomote Lovers (Insane)](https://osu.ppy.sh/s/11375)                          |
-| [Kevin.o2SE - Red Sign (DaRRi MiX)](https://osu.ppy.sh/b/22079)                                |
-| [Megpoid GUMI - Poker Face (Spade)](https://osu.ppy.sh/b/84801)                                |
-| [Mindless Self Indulgence - You'll Rebel To Anything (Impossible)](https://osu.ppy.sh/b/19910) |
-| [Nico Nico Douga - Misaka Odoru (WyndII's Misaka Crazy!!)](https://osu.ppy.sh/s/10891)         |
-| [Peter Lambert - osu! Tutorial (Pro Gameplay)](https://osu.ppy.sh/b/70179)                     |
-| [Seiryu X Donald - Time to Donald (Another)](https://osu.ppy.sh/b/30613)                       |
-| [sun3 - Higan Retour (Lunatic)](https://osu.ppy.sh/s/14464)                                    |
-| [Susumu Hirasawa - Amor Buffer (KIRBY Mix)](https://osu.ppy.sh/s/11702)                        |
-
-| Tiebreaker (1-1)                                    |
-|-----------------------------------------------------|
-| [DJ Mars - Lemon Tree (Hard)](https://osu.ppy.sh/b/34045) |
+- Pick one beatmap
+  - [3L - Extend Ash ~ Hourai Victim (extra)](https://osu.ppy.sh/s/8593)
+  - [Amane - BOOZEHOUND (Lesjuh)](https://osu.ppy.sh/s/9995)
+  - [ARMCANNON - Bhost Gusters (Insane)](https://osu.ppy.sh/b/37752)
+  - [Beautiful Day - V3 (impossible)](https://osu.ppy.sh/s/4622)
+  - [Dj Verstarker - Jump Jump (2008) (Jump like CRAZY!!!)](https://osu.ppy.sh/s/6004)
+  - [FamilyMart Jingle (Family Mart is Your Home)](https://osu.ppy.sh/s/9400)
+  - [Hatsune Miku - Uraomote Lovers (Insane)](https://osu.ppy.sh/s/11375)
+  - [Kevin.o2SE - Red Sign (DaRRi MiX)](https://osu.ppy.sh/b/22079)
+  - [Megpoid GUMI - Poker Face (Spade)](https://osu.ppy.sh/b/84801)
+  - [Mindless Self Indulgence - You'll Rebel To Anything (Impossible)](https://osu.ppy.sh/b/19910)
+  - [Nico Nico Douga - Misaka Odoru (WyndII's Misaka Crazy!!)](https://osu.ppy.sh/s/10891)
+  - [Peter Lambert - osu! Tutorial (Pro Gameplay)](https://osu.ppy.sh/b/70179)
+  - [Seiryu X Donald - Time to Donald (Another)](https://osu.ppy.sh/b/30613)
+  - [sun3 - Higan Retour (Lunatic)](https://osu.ppy.sh/s/14464)
+  - [Susumu Hirasawa - Amor Buffer (KIRBY Mix)](https://osu.ppy.sh/s/11702)
+- Tiebreaker (1-1)
+  - [DJ Mars - Lemon Tree (Hard)](https://osu.ppy.sh/b/34045)
 
 ### \#4 week (Semifinal)
 
