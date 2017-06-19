@@ -82,6 +82,19 @@ Update after group stage starts.
 TB:  
 [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
 
+### Qualification Stage mappool
+
+[Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062)  
+[Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335)  
+[Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
+[Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
+
+#### Participant List
+
+[Click here to download](http://kj415j45.space/%E5%8D%8E%E4%BA%BA%E6%9D%AF%E8%B5%84%E6%A0%BC%E8%B5%9B%E6%8E%92%E7%A8%8B%28%E6%96%B0%E7%89%88%29.xls)
+
+If you have some question, please contact: cmt4k@foxmail.com .
+
 ## Match reviews
 
 ## Ruleset
@@ -206,5 +219,10 @@ Please sign up on [this](https://www.osupink.org/huarenbei) page.
      - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management. 
 5. Request of rematch from forfeited player(s) will not be accepted.
 
+## Match Results
 
+### Test match
 
+| Saturday, 17. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | |
