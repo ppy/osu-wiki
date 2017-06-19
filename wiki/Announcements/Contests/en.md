@@ -5,7 +5,7 @@
 
 # Contests
 
-Section dedicated for Contests.
+Various contests ran within the osu!community.
 
 ## Official Beatmapping Contests
 
@@ -16,8 +16,8 @@ Official beatmapping contests hosted by the osu!staff.
 Notes:
 
 - Winners of this contest will receive the "Elite Mapper" forum title
-- Only winners of #1 to #5 had their beatmap bundled (along with [osu!tutorial](https://osu.ppy.sh/s/3756) into [osu!installer](https://osu.ppy.sh/p/download).
-  The rest do not unless stated otherwise.
+- Winning mapsets from MBC #1 to #12 (except for MBC #6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download)(along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
+- Winning mapsets from MBC #13 have been / will be featured by the osu! media team.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
 |:-----------:|--------------------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -42,9 +42,10 @@ Notes:
 
 ### Aspire Contest
 
+Aspire Contests are beatmapping contests with one special exception, they are not bound to the [Ranking Criteria](/wiki/Ranking_Criteria).
+
 Notes:
 
-- The Ranking Criteria does not apply to this contest.
 - Winners of this contest will receive the "Elite Mapper: Aspirant" forum title and an unique Aspire profile badge.
 - "Monthly Beatmapping Contest #6" is an Aspire event. But the Aspire Contest names and announces independantly from "Aspire 2016".
 
@@ -122,11 +123,11 @@ Notes:
 
 ## Community Contests
 
-Unofficial beatmapping contests hosted by the communities.
+Unofficial contests hosted by the communities.
 
 ### Pending Cup
 
-- The Pending Cup is a mapping contest where the main participants are usually Chinese. The Pending Cup encourages creativity and major mapping principles, throughout all skill levels - especially novice mappers.
+The Pending Cup is a mapping contest where the main participants are usually Chinese. The Pending Cup encourages creativity and major mapping principles, throughout all skill levels - especially novice mappers.
 
 #### Pending Cup #1 (2013)
 
@@ -173,7 +174,7 @@ Unofficial beatmapping contests hosted by the communities.
 
 ### Newspaper Cup
 
-- Newspaper Cup is an annually mapping contest which aims at attract normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
+Newspaper Cup is an annually mapping contest which aims at attract normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
 
 #### Newspaper Cup #1 (2015)
 
