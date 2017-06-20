@@ -1,6 +1,6 @@
 # Difficulties
 
-See Also: [Ranking Criteria](/wiki/Ranking_Criteria), [Beatmapping](/wiki/Beatmapping)
+*See Also: [Ranking Criteria](/wiki/Ranking_Criteria), [Beatmapping](/wiki/Beatmapping)*.
 
 ## Star Rating and Web Icons
 
@@ -13,7 +13,7 @@ See Also: [Ranking Criteria](/wiki/Ranking_Criteria), [Beatmapping](/wiki/Beatma
     -   Below 5.25: Insane ![Insane icon](/wiki/shared/Insane-s.png "Insane icon")
     -   Above 5.25: Expert ![Expert icon](/wiki/shared/Expert-s.png "Expert icon")
 
-This is the range that decides which web icons are used depending on the star rating of any given map. Following the icon range is a good estimate to achieve a balanced difficulty spread. There are some guidelines you can follow to improve the difficulty spread of your mapset.
+This is the range that decides which web icons are used depending on the star rating of any given map. Following the icon range is a good way to achieve a balanced difficulty spread. Here are some guidelines you can follow to improve the difficulty spread of your mapset.
 
 ## osu! difficulty spreads
 
@@ -31,8 +31,6 @@ A good difficulty spread is **more than just star rating and web icons**! Howeve
 osu!taiko difficulty spreads
 ----------------------------
 
-*See Also: [osu!taiko difficulties](/wiki/Difficulties/osu!taiko)*
-
 From the [Ranking Criteria](/wiki/Ranking_Criteria):
 
 > The difficulties in the mapset must be in a consecutive order. Easy or Normal can be skipped if the gap in the star rating spread allows it. If your mapset has two difficulties, one of them cannot be an Insane or Expert. The lowest difficulty must be below 2.0 stars. A mapset cannot have just one osu!taiko difficulty. If you decide to include osu!taiko in your map, make sure you have at least 2 osu!taiko mode difficulties and that one of them is of an easier difficulty level if it doesn't have an osu! standard Easy level difficulty.
@@ -41,10 +39,6 @@ A common set contains the following four difficulties: Kantan, Futsuu, Muzukashi
 
 -   Common set: ![Easy](/wiki/shared/Easy-t.png "Easy")![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")
 
-Make sure that your every single difficulty **fits to the overall spread**.
-
-To have an idea of how these sets can be build up, examples are given:
-
 **Example 1:** Having a main snapping through all difficulty which patterns vary depending on the pace of the song.
 
 -   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1
@@ -52,29 +46,9 @@ To have an idea of how these sets can be build up, examples are given:
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + 1/2
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + 1/4
 
-**Example 2 (what should not happen):** Difference between Oni and Muzukashii is too big which makes the entry from one to the other diff really hard, while Muzukashii to Futsuu is denser and makes the spread inconsistent.
+**Example 2 (what should not happen):** Difference between Oni and Muzukashii is too big which makes the entry from one to the other diff very difficult, while Muzukashii to Futsuu is denser and makes the spread inconsistent.
 
 -   ![Easy](/wiki/shared/Easy-t.png "Easy") Main snapping 4/1 + 2/1
 -   ![Normal](/wiki/shared/Normal-t.png "Normal") Main snapping 2/1 + 1/1
 -   ![Hard](/wiki/shared/Hard-t.png "Hard") Main snapping 1/1 + **easy 1/2**
 -   ![Insane](/wiki/shared/Insane-t.png "Insane") Main snapping 1/2 + **demanding 1/4**
-
--   Different type of sets: ![Easy](/wiki/shared/Easy-t.png "Easy")![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Expert](/wiki/shared/Expert-t.png "Expert")
-
-### osu!taiko Guest Difficulties
-
-Note: **M** = Mapper
-
-![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Insane](/wiki/shared/Insane-t.png "Insane")(M1,M1,M2) ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Expert](/wiki/shared/Expert-t.png "Expert") (M1,M1,M2)
-
--   As second mapper, always think about **what difficulty** could fit **better** to the GD-Set. Instead of another Oni which is mapped similar to the previous one, you could add a **Futsuu** or **Inner Oni** to the set.
-
-![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane")![Insane](/wiki/shared/Insane-t.png "Insane")(M1,M1,M2) ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") (M1,M1,M2)
-
--   Think about lower/new players. They are the **future for our community**, so give them easy difficulties to get used to *osu!taiko*.
-
-![Hard](/wiki/shared/Hard-t.png "Hard")![Insane](/wiki/shared/Insane-t.png "Insane") ![Arrow](/wiki/shared/Icon_arrow.gif "Arrow") ![Normal](/wiki/shared/Normal-t.png "Normal")![Hard](/wiki/shared/Hard-t.png "Hard")
-
--   A song does not always require an Oni. Think about mapping lower difficulties.
-
--   Make lower players happy by giving them easier difficulties. Experienced players can use several mods to make the map harder for themself.
