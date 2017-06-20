@@ -1,6 +1,7 @@
 # People
 
 The following are user groups, made up of the osu!community members that help maintain _osu!_
+Most of these user groups are given forum name colours, in-game chat colours, and/or profile badges.
 
 - [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group)
 - [Community Contributors](/wiki/People/Community_Contributors)
