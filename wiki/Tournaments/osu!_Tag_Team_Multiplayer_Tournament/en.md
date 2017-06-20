@@ -99,10 +99,10 @@ Big thanks to peppy for helping out with them
 Judges
 ------
 
--   ![](/wiki/shared/flag/Se.gif) Gabi (GMT+1)
--   ![](/wiki/shared/flag/Us.gif) Daru (EST)=(GMT-5) (Thanks to Daru for the awesome logo)
--   ![](/wiki/shared/flag/De.gif) Larto (GMT+1)
--   ![](/wiki/shared/flag/Us.gif) EEeee (EST)=(GMT-5)
+-   ![][flag_SE] Gabi (GMT+1)
+-   ![][flag_US] Daru (EST)=(GMT-5) (Thanks to Daru for the awesome logo)
+-   ![][flag_DE] Larto (GMT+1)
+-   ![][flag_US] EEeee (EST)=(GMT-5)
 
 Important to know
 -----------------
@@ -238,3 +238,7 @@ Beatmap Selection
 -   Digital R.i.S.E. - Cerulean Sky [Hard]
 -   Megumi Nakajima (Ranka Mei) - Nyan Nyan Song (Touhou Rock Remix) [Nyaaaaa]
 -   bubbles - F [Insane]
+
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif

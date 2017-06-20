@@ -5,7 +5,7 @@ osu! World Cup 2014
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](/wiki/shared/flag/Kr.gif) 대한민국** 입니다..
+저번 우승자는 **![][flag_KR] 대한민국** 입니다..
 
 토너먼트 일정
 -------------------
@@ -35,11 +35,11 @@ osu! World Cup 2014
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif)[Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif)[p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif)[Deif](https://osu.ppy.sh/u/318565)                                                                    |
-| 비트맵 선별  | ![](/wiki/shared/flag/Nl.gif)[GladiOol](https://osu.ppy.sh/u/23326) // ![](/wiki/shared/flag/Kr.gif)[ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                           |
-| 방송      | ![](/wiki/shared/flag/Au.gif)[peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif)[Marcin](https://osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif)[shARPII](https://osu.ppy.sh/u/776257)                                                                   |
-| 해설      | ![](/wiki/shared/flag/Gb.gif)[jesus1412](https://osu.ppy.sh/u/230116) // ![](/wiki/shared/flag/Fr.gif)[Mr Color](https://osu.ppy.s6078) // ![](/wiki/shared/flag/Gb.gif)[Raiku](https://osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif)[ztrot](https://osu.ppy.sh/u/6347) |
-| 통계      | ![](/wiki/shared/flag/Pl.gif)[Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                |
+| 토너먼트 관리 | ![][flag_DE][Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE][p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES][Deif](https://osu.ppy.sh/u/318565)                                                                    |
+| 비트맵 선별  | ![][flag_NL][GladiOol](https://osu.ppy.sh/u/23326) // ![][flag_KR][ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                           |
+| 방송      | ![][flag_AU][peppy](https://osu.ppy.sh/u/2) // ![][flag_PL][Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR][shARPII](https://osu.ppy.sh/u/776257)                                                                   |
+| 해설      | ![][flag_GB][jesus1412](https://osu.ppy.sh/u/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/u/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/u/6347) |
+| 통계      | ![][flag_PL][Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -172,3 +172,13 @@ Ruleset
 3.  All Double Elimination Stages will be held on either Saturday or Sunday.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_US]: /wiki/shared/flag/US.gif

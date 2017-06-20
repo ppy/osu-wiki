@@ -3,7 +3,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](logo.png)
 
-По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](https://osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Kr.gif) Корея**.
+По уже сложившейся традиции в 2013-ом году опять проводится Мировой Турнир по игре osu!, который на этот раз с помощью новосозданной группы пользователей [Tournament Management](https://osu.ppy.sh/g/26), к которым можно обратиться по вопросам, связанным с турниром. Сам турнир будет длиться с 15 октября по 8 декабря 2013-ого года. Победителем предыдущего турнира была **![][flag_KR] Корея**.
 = Расписание турнира =
 
 -   Фаза регистрации: 15-28 октября 2013
@@ -24,24 +24,24 @@ osu! World Cup 2013
 Призёры
 ---------
 
-**Первое место:** ![](/wiki/shared/flag/Kr.gif) **Корея**
+**Первое место:** ![][flag_KR] **Корея**
 
-**Второе место:** ![](/wiki/shared/flag/Tw.gif) **Тайвань**
+**Второе место:** ![][flag_TW] **Тайвань**
 
-**Третье место:** ![](/wiki/shared/flag/Pl.gif) **Польша**
+**Третье место:** ![][flag_PL] **Польша**
 
 Организация турнира
 --------------------
 
-**Мереджеры турнира:** ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366), ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703), ![](/wiki/shared/flag/Us.gif) [dkun](https://osu.ppy.sh/u/154400)
+**Мереджеры турнира:** ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703), ![][flag_US] [dkun](https://osu.ppy.sh/u/154400)
 
 **Судьи:** [Tournament Management usergroup](https://osu.ppy.sh/g/26)
 
-**Ответственные за выбор битмап:** ![](/wiki/shared/flag/Ar.gif) [Darksonic](https://osu.ppy.sh/u/570042), ![](/wiki/shared/flag/Ar.gif) [Wishy](https://osu.ppy.sh/u/495477), ![](/wiki/shared/flag/It.gif) [Chewin](https://osu.ppy.sh/u/617323)
+**Ответственные за выбор битмап:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/u/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/u/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/u/617323)
 
-**Стримеры:** ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2), ![](/wiki/shared/flag/Au.gif) [Zallius](https://osu.ppy.sh/u/55), ![](/wiki/shared/flag/Ca.gif) [Nyquill](https://osu.ppy.sh/u/682935), ![](/wiki/shared/flag/Us.gif) [Makar](https://osu.ppy.sh/u/686389)
+**Стримеры:** ![][flag_AU] [peppy](https://osu.ppy.sh/u/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/u/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/u/682935), ![][flag_US] [Makar](https://osu.ppy.sh/u/686389)
 
-**Комментаторы:** ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078), ![](/wiki/shared/flag/Us.gif) [Agnes](https://osu.ppy.sh/u/136982), ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347), ![](/wiki/shared/flag/No.gif) [kriers](https://osu.ppy.sh/u/333241), ![](/wiki/shared/flag/No.gif) [MillhioreF](https://osu.ppy.sh/u/941094), ![](/wiki/shared/flag/Au.gif) [LaVolpe024](https://osu.ppy.sh/u/597796), ![](/wiki/shared/flag/Nz.gif) [deadbeat](https://osu.ppy.sh/u/128370)
+**Комментаторы:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/u/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/u/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/u/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/u/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/u/128370)
 
 ------------------------------------------------------------------------
 
@@ -52,53 +52,53 @@ osu! World Cup 2013
 
 | Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Cn.gif) China         | **[Furudo\_Erika](https://osu.ppy.sh/u/169878)**, [wobeinimacao](https://osu.ppy.sh/u/350723), [N a n o](https://osu.ppy.sh/u/694114), [5231\_Kinoko](https://osu.ppy.sh/u/181057), [GGBY](https://osu.ppy.sh/u/629717), [Dsan](https://osu.ppy.sh/u/1266166), [InabaTewi](https://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/u/1349849) |
-| ![](/wiki/shared/flag/De.gif) Germany       | **[ShadowSoul](https://osu.ppy.sh/u/494970)**, [CookEasy](https://osu.ppy.sh/u/453226), [Michi](https://osu.ppy.sh/u/932342), [Dustice](https://osu.ppy.sh/u/754565), [BDDav](https://osu.ppy.sh/u/1164526), [cptnXn](https://osu.ppy.sh/u/495272), [Imamoto](https://osu.ppy.sh/u/1201224), [dukambe](https://osu.ppy.sh/u/880002)                     |
-| ![](/wiki/shared/flag/Jp.gif) Japan         | **[Karuta](https://osu.ppy.sh/u/360552)**, [rrtyui](https://osu.ppy.sh/u/352328), [Potofu](https://osu.ppy.sh/u/657404), [serea](https://osu.ppy.sh/u/371961), [mugio3](https://osu.ppy.sh/u/491522), [Homura-](https://osu.ppy.sh/u/482120), [Gokuri](https://osu.ppy.sh/u/343865), [doctorindark](https://osu.ppy.sh/u/609227)                        |
-| ![](/wiki/shared/flag/Kr.gif) Korea         | **[Dungeon](https://osu.ppy.sh/u/461720)**, [K i R i K a R u](https://osu.ppy.sh/u/139670), [dragonhuman](https://osu.ppy.sh/u/713266), [ffury](https://osu.ppy.sh/u/2056071), [CheEZ](https://osu.ppy.sh/u/272117), [- Hakurei Reimu-](https://osu.ppy.sh/u/948713), [Tengu](https://osu.ppy.sh/u/380836), [Shizuru-](https://osu.ppy.sh/u/1341421)    |
-| ![](/wiki/shared/flag/Pl.gif) Poland        | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek                                                                                                                                                                                                                                                      |
-| ![](/wiki/shared/flag/Tw.gif) Taiwan        | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou                                                                                                                                                                                                                                                         |
-| ![](/wiki/shared/flag/Th.gif) Thailand      | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution                                                                                                                                                                                                                                                                             |
-| ![](/wiki/shared/flag/Us.gif) United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost                                                                                                                                                                                                                                                          |
+| ![][flag_CN] China         | **[Furudo\_Erika](https://osu.ppy.sh/u/169878)**, [wobeinimacao](https://osu.ppy.sh/u/350723), [N a n o](https://osu.ppy.sh/u/694114), [5231\_Kinoko](https://osu.ppy.sh/u/181057), [GGBY](https://osu.ppy.sh/u/629717), [Dsan](https://osu.ppy.sh/u/1266166), [InabaTewi](https://osu.ppy.sh/u/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/u/1349849) |
+| ![][flag_DE] Germany       | **[ShadowSoul](https://osu.ppy.sh/u/494970)**, [CookEasy](https://osu.ppy.sh/u/453226), [Michi](https://osu.ppy.sh/u/932342), [Dustice](https://osu.ppy.sh/u/754565), [BDDav](https://osu.ppy.sh/u/1164526), [cptnXn](https://osu.ppy.sh/u/495272), [Imamoto](https://osu.ppy.sh/u/1201224), [dukambe](https://osu.ppy.sh/u/880002)                     |
+| ![][flag_JP] Japan         | **[Karuta](https://osu.ppy.sh/u/360552)**, [rrtyui](https://osu.ppy.sh/u/352328), [Potofu](https://osu.ppy.sh/u/657404), [serea](https://osu.ppy.sh/u/371961), [mugio3](https://osu.ppy.sh/u/491522), [Homura-](https://osu.ppy.sh/u/482120), [Gokuri](https://osu.ppy.sh/u/343865), [doctorindark](https://osu.ppy.sh/u/609227)                        |
+| ![][flag_KR] Korea         | **[Dungeon](https://osu.ppy.sh/u/461720)**, [K i R i K a R u](https://osu.ppy.sh/u/139670), [dragonhuman](https://osu.ppy.sh/u/713266), [ffury](https://osu.ppy.sh/u/2056071), [CheEZ](https://osu.ppy.sh/u/272117), [- Hakurei Reimu-](https://osu.ppy.sh/u/948713), [Tengu](https://osu.ppy.sh/u/380836), [Shizuru-](https://osu.ppy.sh/u/1341421)    |
+| ![][flag_PL] Poland        | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek                                                                                                                                                                                                                                                      |
+| ![][flag_TW] Taiwan        | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou                                                                                                                                                                                                                                                         |
+| ![][flag_TH] Thailand      | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution                                                                                                                                                                                                                                                                             |
+| ![][flag_US] United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost                                                                                                                                                                                                                                                          |
 
 ### High-seeded
 
 | Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ar.gif) Argentina          | **[Metro](https://osu.ppy.sh/u/306737)**, [Glazbom](https://osu.ppy.sh/u/608277), [Salvage](https://osu.ppy.sh/u/242119), [Hernan](https://osu.ppy.sh/u/516680), [Fabi](https://osu.ppy.sh/u/173114), [druidxd](https://osu.ppy.sh/u/841441), [CBA-ES-CAB](https://osu.ppy.sh/u/1875237), [Mikumiku97](https://osu.ppy.sh/u/503749) |
-| ![](/wiki/shared/flag/Br.gif) Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
-| ![](/wiki/shared/flag/Hk.gif) Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
-| ![](/wiki/shared/flag/Lv.gif) Latvia             | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX                                                                                                                                                                                                                                                     |
-| ![](/wiki/shared/flag/No.gif) Norway             | **kriers**, KinomiCandy, Sniff, -GN, CXu, ivaz, 31415926535897, Amedis                                                                                                                                                                                                                                                      |
-| ![](/wiki/shared/flag/Ru.gif) Russian Federation | **cr1m**, Kert, talala, Dremor, homu-homu-tan, Maemi, TheSpaceMan, JuZu                                                                                                                                                                                                                                                     |
-| ![](/wiki/shared/flag/Se.gif) Sweden             | **Xytox**, Shimox, Gnuu, Mayis, Slizzer, Blandar, Shilkey, Gyuunyu                                                                                                                                                                                                                                                          |
-| ![](/wiki/shared/flag/Gb.gif) United Kingdom     | **jesus1412**, Doomsday, iLikeMudkipz, R a h a r u, Starry-, Charleyzard, Navi, Bubby963                                                                                                                                                                                                                                    |
+| ![][flag_AR] Argentina          | **[Metro](https://osu.ppy.sh/u/306737)**, [Glazbom](https://osu.ppy.sh/u/608277), [Salvage](https://osu.ppy.sh/u/242119), [Hernan](https://osu.ppy.sh/u/516680), [Fabi](https://osu.ppy.sh/u/173114), [druidxd](https://osu.ppy.sh/u/841441), [CBA-ES-CAB](https://osu.ppy.sh/u/1875237), [Mikumiku97](https://osu.ppy.sh/u/503749) |
+| ![][flag_BR] Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
+| ![][flag_HK] Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
+| ![][flag_LV] Latvia             | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX                                                                                                                                                                                                                                                     |
+| ![][flag_NO] Norway             | **kriers**, KinomiCandy, Sniff, -GN, CXu, ivaz, 31415926535897, Amedis                                                                                                                                                                                                                                                      |
+| ![][flag_RU] Russian Federation | **cr1m**, Kert, talala, Dremor, homu-homu-tan, Maemi, TheSpaceMan, JuZu                                                                                                                                                                                                                                                     |
+| ![][flag_SE] Sweden             | **Xytox**, Shimox, Gnuu, Mayis, Slizzer, Blandar, Shilkey, Gyuunyu                                                                                                                                                                                                                                                          |
+| ![][flag_GB] United Kingdom     | **jesus1412**, Doomsday, iLikeMudkipz, R a h a r u, Starry-, Charleyzard, Navi, Bubby963                                                                                                                                                                                                                                    |
 
 ### Low-seeded
 
 | Country                                    | Members                                                                                |
 |--------------------------------------------|----------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Au.gif) Australia   | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
-| ![](/wiki/shared/flag/At.gif) Austria     | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn                   |
-| ![](/wiki/shared/flag/Ca.gif) Canada      | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi                 |
-| ![](/wiki/shared/flag/Fi.gif) Finland     | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2                                  |
-| ![](/wiki/shared/flag/Fr.gif) France      | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not                    |
-| ![](/wiki/shared/flag/Id.gif) Indonesia   | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz                   |
-| ![](/wiki/shared/flag/It.gif) Italy       | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno            |
-| ![](/wiki/shared/flag/Nl.gif) Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5         |
+| ![][flag_AU] Australia   | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
+| ![][flag_AT] Austria     | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn                   |
+| ![][flag_CA] Canada      | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi                 |
+| ![][flag_FI] Finland     | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2                                  |
+| ![][flag_FR] France      | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not                    |
+| ![][flag_ID] Indonesia   | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz                   |
+| ![][flag_IT] Italy       | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno            |
+| ![][flag_NL] Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5         |
 
 ### Unseeded
 
 | Country                                    | Members                                                                                |
 |--------------------------------------------|----------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Be.gif) Belgium     | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane  |
-| ![](/wiki/shared/flag/Bg.gif) Bulgaria    | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou             |
-| ![](/wiki/shared/flag/Cl.gif) Chile       | **Innocent** Steps, Neab, coflA, Cristian, BoopMos, Mesita, SwENeMbO, Revengexsoyah    |
-| ![](/wiki/shared/flag/Ee.gif) Estonia     | **Noriko**, Manzz, Yumz, Kafaru, YellowManul, MaDBoY94, ShinseinaTenshi                |
-| ![](/wiki/shared/flag/Nz.gif) New Zealand | **deadbeat**, buny, Kiiwa, TCN, B O X, Xiipher, shortpotato                            |
-| ![](/wiki/shared/flag/Ph.gif) Philippines | **Pizzicato**, katayoki, Jann, dayun10, Mira-san, \[Accelerator\], MioMilo, -Gio       |
-| ![](/wiki/shared/flag/Sg.gif) Singapore   | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
-| ![](/wiki/shared/flag/Ve.gif) Venezuela   | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli                               |
+| ![][flag_BE] Belgium     | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane  |
+| ![][flag_BG] Bulgaria    | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou             |
+| ![][flag_CL] Chile       | **Innocent** Steps, Neab, coflA, Cristian, BoopMos, Mesita, SwENeMbO, Revengexsoyah    |
+| ![][flag_EE] Estonia     | **Noriko**, Manzz, Yumz, Kafaru, YellowManul, MaDBoY94, ShinseinaTenshi                |
+| ![][flag_NZ] New Zealand | **deadbeat**, buny, Kiiwa, TCN, B O X, Xiipher, shortpotato                            |
+| ![][flag_PH] Philippines | **Pizzicato**, katayoki, Jann, dayun10, Mira-san, \[Accelerator\], MioMilo, -Gio       |
+| ![][flag_SG] Singapore   | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
+| ![][flag_VE] Venezuela   | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli                               |
 
 Маппул
 ----------
@@ -215,3 +215,36 @@ osu! World Cup 2013
 3.  Все последующие матчи будут проходить в субботу или воскресенье. Конкретные даты — в расписании турнира.
 4.  Расписание турнира остается на менеджерах турнира. Время проведения конкретных матчей будет анонсировано в последнее воскресенье перед соответствующими матчами. Пример: расписание для групповой стадии будет анонсировано третьего ноября. Расписание будет маскимально адаптировано под временные зоны конкретных команд.
 5.  Капитаны ответственны за доведения сведений о расписании матчей до игроков. Если команда не явится на матч с указанной выше погрешностью во времени, то матч автоматически будет признан проигранным технически.
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BG]: /wiki/shared/flag/BG.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_EE]: /wiki/shared/flag/EE.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_LV]: /wiki/shared/flag/LV.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif

@@ -55,20 +55,20 @@ Prizes
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months support tag, special profile badge for all players // this one: ![OWC 1 Profile Badge](badge.png) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag                                                                                      |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                                                                                      |
-| *Special*                                                  | 1 month supporter tag \[Won by the ![](/wiki/shared/flag/Jp.gif) Japan team\]                             |
+| *Special*                                                  | 1 month supporter tag \[Won by the ![][flag_JP] Japan team\]                             |
 
 Tournament Staff
 ---------------
 
 Tournament Staff is currently composed by:
 
--   ![](/wiki/shared/flag/Tw.gif) [Alace](https://osu.ppy.sh/u/25993)
--   ![](/wiki/shared/flag/Es.gif) Beuchi-chan
--   ![](/wiki/shared/flag/Us.gif) [Derekku](https://osu.ppy.sh/u/91341)
--   ![](/wiki/shared/flag/Au.gif) [m980](https://osu.ppy.sh/u/3288)
--   ![](/wiki/shared/flag/De.gif) [Larto](https://osu.ppy.sh/u/12328)
--   ![](/wiki/shared/flag/Jp.gif) [dvorak](https://osu.ppy.sh/u/271359)
--   ![](/wiki/shared/flag/It.gif) [Lunah](https://osu.ppy.sh/u/1227377)
+-   ![][flag_TW] [Alace](https://osu.ppy.sh/u/25993)
+-   ![][flag_ES] Beuchi-chan
+-   ![][flag_US] [Derekku](https://osu.ppy.sh/u/91341)
+-   ![][flag_AU] [m980](https://osu.ppy.sh/u/3288)
+-   ![][flag_DE] [Larto](https://osu.ppy.sh/u/12328)
+-   ![][flag_JP] [dvorak](https://osu.ppy.sh/u/271359)
+-   ![][flag_IT] [Lunah](https://osu.ppy.sh/u/1227377)
 
 Teams and Players
 ---------------
@@ -81,44 +81,44 @@ Note: this table is formated like so: `Country` \| `Captain, P1, P2, P3 (B1, B2)
 
 | Country                                    | Members                                                                        |
 |--------------------------------------------|--------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Cn.gif) China       | **kiddly**, xierbaliti, KanbeKotori, Sprosive (lzy, Brother_Lu)                |
-| ![](/wiki/shared/flag/Id.gif) Indonesia   | **Hakeru Prismriver**, intermu, Rasyad95, awesomewithin (awell, dNextGen)      |
-| ![](/wiki/shared/flag/Jp.gif) Japan       | **MeRcYyy**, taNa, Rigeru, Ozouni (Rorry, SiLviA)                              |
-| ![](/wiki/shared/flag/Kr.gif) Korea       | **KRZY**, Cookiezi, Reisen Udongein, ehRh (M A I D, Binjip)                    |
-| ![](/wiki/shared/flag/Mo.gif) Macau       | **Ballance**, wl01939929, starpun1, _____B (xinhe)                             |
-| ![](/wiki/shared/flag/My.gif) Malaysia    | **The 08 team_Bourdon**, akupp, DragonSparta, Crimson_SoulZ (mycyber, mekadon) |
-| ![](/wiki/shared/flag/Nz.gif) New Zealand | **NumoT123**, toejamms, Skye-, Acidsky- (Jiantz, Deadbeat)                     |
-| ![](/wiki/shared/flag/Ph.gif) Philippines | **dayun10**, blacksymbian, jockeytiyan, wyndII (nachopiggy, bakaloidsky)       |
-| ![](/wiki/shared/flag/Tw.gif) Taiwan      | **Uan**, Rucker, 0222101916, Tomoka Rin (FuNnY--, NanaDesu)                    |
+| ![][flag_CN] China       | **kiddly**, xierbaliti, KanbeKotori, Sprosive (lzy, Brother_Lu)                |
+| ![][flag_ID] Indonesia   | **Hakeru Prismriver**, intermu, Rasyad95, awesomewithin (awell, dNextGen)      |
+| ![][flag_JP] Japan       | **MeRcYyy**, taNa, Rigeru, Ozouni (Rorry, SiLviA)                              |
+| ![][flag_KR] Korea       | **KRZY**, Cookiezi, Reisen Udongein, ehRh (M A I D, Binjip)                    |
+| ![][flag_MO] Macau       | **Ballance**, wl01939929, starpun1, _____B (xinhe)                             |
+| ![][flag_MY] Malaysia    | **The 08 team_Bourdon**, akupp, DragonSparta, Crimson_SoulZ (mycyber, mekadon) |
+| ![][flag_NZ] New Zealand | **NumoT123**, toejamms, Skye-, Acidsky- (Jiantz, Deadbeat)                     |
+| ![][flag_PH] Philippines | **dayun10**, blacksymbian, jockeytiyan, wyndII (nachopiggy, bakaloidsky)       |
+| ![][flag_TW] Taiwan      | **Uan**, Rucker, 0222101916, Tomoka Rin (FuNnY--, NanaDesu)                    |
 
 ### Europe Teams
 
 | Country                                       | Members                                                            |
 |-----------------------------------------------|--------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Fi.gif) Finland        | **heintsi**, Orkel, morovaa, Sutsuka (Mukku, Lanttu)               |
-| ![](/wiki/shared/flag/Fr.gif) France         | **maestro delphine**, _LRJ_, galvenize, Yomi (JesusYamato, Odaril) |
-| ![](/wiki/shared/flag/De.gif) Germany        | **Shael**, Neruell, LuniaFreak,Jalatiphra (eMJaReL, Shinespark)    |
-| ![](/wiki/shared/flag/At.gif) Austria        | **TouhouNerd**, Snowball, Hanyuu, Nharox (unbelievable)            |
-| ![](/wiki/shared/flag/It.gif) Italy          | **Card N'FoRcE**, osuplayer111, Lunah, Kr4t0ss88 (Valde, [Takuya]) |
-| ![](/wiki/shared/flag/Nl.gif) Netherlands    | **GladiOol**, Henkie, Lesjuh, Awoken (Happy30, eddieee)            |
-| ![](/wiki/shared/flag/Pl.gif) Poland         | **ShaggoN**, kuburaczek, White Wolf, Niko- (rEdo, fartownik)       |
-| ![](/wiki/shared/flag/Pt.gif) Portugal       | **JonnyThatJonny**, creativ, sttailruby12, makkura                 |
-| ![](/wiki/shared/flag/Ru.gif) Russia         | **GaShiK**, larch, Kotya, Akai- (CracK, TKiller)                   |
-| ![](/wiki/shared/flag/Es.gif) Spain          | **X_Ray**, Skullboss, hyperluigi, Lionheart69 (choche, migul)      |
-| ![](/wiki/shared/flag/Se.gif) Sweden         | **beko1994**, Saten-san, palinus, Vikkez (Xgor, Darkoff)           |
-| ![](/wiki/shared/flag/Ua.gif) Ukraine        | **gorlum**, rockleejkooo, Mosya, RainForce (gef)                   |
-| ![](/wiki/shared/flag/Gb.gif) United Kingdom | **Doomsday**, Natteke, aevv, Jericho2442 (DiamondCrash)            |
+| ![][flag_FI] Finland        | **heintsi**, Orkel, morovaa, Sutsuka (Mukku, Lanttu)               |
+| ![][flag_FR] France         | **maestro delphine**, _LRJ_, galvenize, Yomi (JesusYamato, Odaril) |
+| ![][flag_DE] Germany        | **Shael**, Neruell, LuniaFreak,Jalatiphra (eMJaReL, Shinespark)    |
+| ![][flag_AT] Austria        | **TouhouNerd**, Snowball, Hanyuu, Nharox (unbelievable)            |
+| ![][flag_IT] Italy          | **Card N'FoRcE**, osuplayer111, Lunah, Kr4t0ss88 (Valde, [Takuya]) |
+| ![][flag_NL] Netherlands    | **GladiOol**, Henkie, Lesjuh, Awoken (Happy30, eddieee)            |
+| ![][flag_PL] Poland         | **ShaggoN**, kuburaczek, White Wolf, Niko- (rEdo, fartownik)       |
+| ![][flag_PT] Portugal       | **JonnyThatJonny**, creativ, sttailruby12, makkura                 |
+| ![][flag_RU] Russia         | **GaShiK**, larch, Kotya, Akai- (CracK, TKiller)                   |
+| ![][flag_ES] Spain          | **X_Ray**, Skullboss, hyperluigi, Lionheart69 (choche, migul)      |
+| ![][flag_SE] Sweden         | **beko1994**, Saten-san, palinus, Vikkez (Xgor, Darkoff)           |
+| ![][flag_UA] Ukraine        | **gorlum**, rockleejkooo, Mosya, RainForce (gef)                   |
+| ![][flag_GB] United Kingdom | **Doomsday**, Natteke, aevv, Jericho2442 (DiamondCrash)            |
 
 ### America Teams
 
 | Country                                           | Members                                                                |
 |---------------------------------------------------|------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ar.gif) Argentina          | **Wishy22**, RocknRolla, Grisuh, Vivere (lota78, violentt)             |
-| ![](/wiki/shared/flag/Br.gif) Brazil             | **fabriciorby**, Coy, Blue Dragon, Poisonchan (Antsu, Guerra)          |
-| ![](/wiki/shared/flag/Ca.gif) Canada             | **FurukawaPan**, Soulclenz, timotmcc, Ever 14 (yanggaog, FruitTingles) |
-| ![](/wiki/shared/flag/Cl.gif) Chile              | **nVidi4x**, Mesita, Netofe (ElxBeta, Art-FzTT)                        |
-| ![](/wiki/shared/flag/Do.gif) Dominican Republic | **Lissette**, Lizbeth, jmt_3, Magestix                                 |
-| ![](/wiki/shared/flag/Us.gif) United States      | **Lybydose**, Mafiamaster, Cyclone (ebacho, naptime)                   |
+| ![][flag_AR] Argentina          | **Wishy22**, RocknRolla, Grisuh, Vivere (lota78, violentt)             |
+| ![][flag_BR] Brazil             | **fabriciorby**, Coy, Blue Dragon, Poisonchan (Antsu, Guerra)          |
+| ![][flag_CA] Canada             | **FurukawaPan**, Soulclenz, timotmcc, Ever 14 (yanggaog, FruitTingles) |
+| ![][flag_CL] Chile              | **nVidi4x**, Mesita, Netofe (ElxBeta, Art-FzTT)                        |
+| ![][flag_DO] Dominican Republic | **Lissette**, Lizbeth, jmt_3, Magestix                                 |
+| ![][flag_US] United States      | **Lybydose**, Mafiamaster, Cyclone (ebacho, naptime)                   |
 
 Map list
 ---------
@@ -272,3 +272,33 @@ Win condition: Team with highest total team score wins the match.
 |------------------------------------------------------|
 | [1st+2nd](https://www.mediafire.com/?ab6j6k4ihtp25o2)      |
 | Streams provided by [dvorak](https://osu.ppy.sh/u/271359). |
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DO]: /wiki/shared/flag/DO.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MO]: /wiki/shared/flag/MO.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_US]: /wiki/shared/flag/US.gif

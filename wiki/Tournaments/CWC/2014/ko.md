@@ -3,7 +3,7 @@ osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 logo](logo.png)
 
-**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주최하는 국가대항 Catch the Beat 대회입니다. 이전 대회의 챔피언은 **![](/wiki/shared/flag/Cl.gif) 칠레** 입니다.
+**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주최하는 국가대항 Catch the Beat 대회입니다. 이전 대회의 챔피언은 **![][flag_CL] 칠레** 입니다.
 
 대회일정
 --------
@@ -32,11 +32,11 @@ osu! Catch the Beat World Cup 2014
 
 | Job     | Person(s)                                                                                                                                                                                                                                                                      |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                   |
-| 비트맵 선별  | ![](/wiki/shared/flag/Kr.gif) [CLSW](https://osu.ppy.sh/u/531253) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [Drafura](https://osu.ppy.sh/u/326099)                                                                                |
-| 방송      | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                    |
-| 해설      | ![](/wiki/shared/flag/Au.gif) [Ephemeral](https://osu.ppy.sh/u/102335) // ![](/wiki/shared/flag/Ca.gif) [Kitokofox](https://osu.ppy.sh/u/1815420) // ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Us.gif) [-Ryuujii-](https://osu.ppy.sh/u/2107523) |
-| 통계      | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
+| 토너먼트 관리 | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                   |
+| 비트맵 선별  | ![][flag_KR] [CLSW](https://osu.ppy.sh/u/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/u/326099)                                                                                |
+| 방송      | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                    |
+| 해설      | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/u/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/u/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/u/2107523) |
+| 통계      | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
 
 
 ------------------------------------------------------------------------
@@ -63,8 +63,8 @@ osu! Catch the Beat World Cup 2014
 
 | 팀A                                 | 팀B                                | UTC            | A팀 기준 시간            | B팀 기준 시간           |
 |------------------------------------|-----------------------------------|----------------|---------------------|--------------------|
-| 독일 ![](/wiki/shared/flag/De.gif)  | ![](/wiki/shared/flag/Jp.gif) 일본 | **8.00 (8am)** | 10.00 (10am) UTC +2 | 17.00 (5pm) UTC +9 |
-| 스웨덴 ![](/wiki/shared/flag/Se.gif) | ![](/wiki/shared/flag/Kr.gif) 한국 | **9.00 (9am)** | 11.00 (11am) UTC +2 | 18.00 (6pm) UTC +9 |
+| 독일 ![][flag_DE]  | ![][flag_JP] 일본 | **8.00 (8am)** | 10.00 (10am) UTC +2 | 17.00 (5pm) UTC +9 |
+| 스웨덴 ![][flag_SE] | ![][flag_KR] 한국 | **9.00 (9am)** | 11.00 (11am) UTC +2 | 18.00 (6pm) UTC +9 |
 
 ------------------------------------------------------------------------
 
@@ -73,59 +73,59 @@ osu! Catch the Beat World Cup 2014
 
 | Flag                           | Country | Group A Members                                                                                                                                                                                                      |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ph.gif) | 필리핀     | --- disbanded ---                                                                                                                                                                                                    |
-| ![](/wiki/shared/flag/Gb.gif) | 영국      | **[destructor966](https://osu.ppy.sh/u/2667584)**, [Nanomight](https://osu.ppy.sh/u/160439), [bubbz](https://osu.ppy.sh/u/86414), [Phlo10](https://osu.ppy.sh/u/2643155), [DarkKanaki](https://osu.ppy.sh/u/2614160)                               |
-| ![](/wiki/shared/flag/Th.gif) | 타이      | **[boomngong](https://osu.ppy.sh/u/1090858)**, [Nansugumi](https://osu.ppy.sh/u/795915), [0814587134](https://osu.ppy.sh/u/1054016)                                                                                                    |
-| ![](/wiki/shared/flag/Us.gif) | 미국      | **[Zak](https://osu.ppy.sh/u/1375955)**, [-itsy_v2-](https://osu.ppy.sh/u/2815946), [-Kurisu-](https://osu.ppy.sh/u/500696), [Minky](https://osu.ppy.sh/u/1978891), [TenguKing9](https://osu.ppy.sh/u/1637716), [-Ryuuji-](https://osu.ppy.sh/u/2107523) |
+| ![][flag_PH] | 필리핀     | --- disbanded ---                                                                                                                                                                                                    |
+| ![][flag_GB] | 영국      | **[destructor966](https://osu.ppy.sh/u/2667584)**, [Nanomight](https://osu.ppy.sh/u/160439), [bubbz](https://osu.ppy.sh/u/86414), [Phlo10](https://osu.ppy.sh/u/2643155), [DarkKanaki](https://osu.ppy.sh/u/2614160)                               |
+| ![][flag_TH] | 타이      | **[boomngong](https://osu.ppy.sh/u/1090858)**, [Nansugumi](https://osu.ppy.sh/u/795915), [0814587134](https://osu.ppy.sh/u/1054016)                                                                                                    |
+| ![][flag_US] | 미국      | **[Zak](https://osu.ppy.sh/u/1375955)**, [-itsy_v2-](https://osu.ppy.sh/u/2815946), [-Kurisu-](https://osu.ppy.sh/u/500696), [Minky](https://osu.ppy.sh/u/1978891), [TenguKing9](https://osu.ppy.sh/u/1637716), [-Ryuuji-](https://osu.ppy.sh/u/2107523) |
 
 | Flag                           | Country | Group B Members                                                                                                                                                                 |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Hk.gif) | 홍콩      | **[alienflybot](https://osu.ppy.sh/u/636114)**, [XXXZ](https://osu.ppy.sh/u/1226238), [[_NaGI]](https://osu.ppy.sh/u/788406), [HineX](https://osu.ppy.sh/u/13854), [longkitang](https://osu.ppy.sh/u/1744806) |
-| ![](/wiki/shared/flag/Pl.gif) | 폴란드     | **[WujekGrzyb](https://osu.ppy.sh/u/258289)**, [wampir](https://osu.ppy.sh/u/261497), [Kosmit](https://osu.ppy.sh/u/1749173), [Scorpionek](https://osu.ppy.sh/u/149730)                                 |
-| ![](/wiki/shared/flag/Cl.gif) | 칠레      | --- disbanded ---                                                                                                                                                               |
-| ![](/wiki/shared/flag/Ee.gif) | 에스토니아   | **[fanatik](https://osu.ppy.sh/u/913992)**, [warstape](https://osu.ppy.sh/u/1133783), [KostjaSun](https://osu.ppy.sh/u/2450912)                                                                   |
+| ![][flag_HK] | 홍콩      | **[alienflybot](https://osu.ppy.sh/u/636114)**, [XXXZ](https://osu.ppy.sh/u/1226238), [[_NaGI]](https://osu.ppy.sh/u/788406), [HineX](https://osu.ppy.sh/u/13854), [longkitang](https://osu.ppy.sh/u/1744806) |
+| ![][flag_PL] | 폴란드     | **[WujekGrzyb](https://osu.ppy.sh/u/258289)**, [wampir](https://osu.ppy.sh/u/261497), [Kosmit](https://osu.ppy.sh/u/1749173), [Scorpionek](https://osu.ppy.sh/u/149730)                                 |
+| ![][flag_CL] | 칠레      | --- disbanded ---                                                                                                                                                               |
+| ![][flag_EE] | 에스토니아   | **[fanatik](https://osu.ppy.sh/u/913992)**, [warstape](https://osu.ppy.sh/u/1133783), [KostjaSun](https://osu.ppy.sh/u/2450912)                                                                   |
 
 | Flag                           | Country | Group C Members                                                                                                                                                                          |
 |--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Tw.gif) | 타이완     | --- disqualified ---                                                                                                                                                                     |
-| ![](/wiki/shared/flag/Nl.gif) | 네덜란드    | **[Givralii](https://osu.ppy.sh/u/2466879)**, [Nebux](https://osu.ppy.sh/u/2342051), [Greaper](https://osu.ppy.sh/u/2369776), [CakeAndBanana](https://osu.ppy.sh/u/1981424), [wesley221](https://osu.ppy.sh/u/2407265) |
-| ![](/wiki/shared/flag/Sg.gif) | 싱가포르    | **[Accel](https://osu.ppy.sh/u/1169796)**, [Kagayane](https://osu.ppy.sh/u/1777691), [He Ang Erika](https://osu.ppy.sh/u/2451381), [Otaku_MQ](https://osu.ppy.sh/u/2650135), [Ridicule](https://osu.ppy.sh/u/3473425)  |
-| ![](/wiki/shared/flag/No.gif) | 노르웨이    | **[Kiwikun](https://osu.ppy.sh/u/1794766)**, [Azeidith](https://osu.ppy.sh/u/2819676), [lanki33](https://osu.ppy.sh/u/2535200), [Zerzxes](https://osu.ppy.sh/u/2094253), [Hakkun](https://osu.ppy.sh/u/2179438)        |
+| ![][flag_TW] | 타이완     | --- disqualified ---                                                                                                                                                                     |
+| ![][flag_NL] | 네덜란드    | **[Givralii](https://osu.ppy.sh/u/2466879)**, [Nebux](https://osu.ppy.sh/u/2342051), [Greaper](https://osu.ppy.sh/u/2369776), [CakeAndBanana](https://osu.ppy.sh/u/1981424), [wesley221](https://osu.ppy.sh/u/2407265) |
+| ![][flag_SG] | 싱가포르    | **[Accel](https://osu.ppy.sh/u/1169796)**, [Kagayane](https://osu.ppy.sh/u/1777691), [He Ang Erika](https://osu.ppy.sh/u/2451381), [Otaku_MQ](https://osu.ppy.sh/u/2650135), [Ridicule](https://osu.ppy.sh/u/3473425)  |
+| ![][flag_NO] | 노르웨이    | **[Kiwikun](https://osu.ppy.sh/u/1794766)**, [Azeidith](https://osu.ppy.sh/u/2819676), [lanki33](https://osu.ppy.sh/u/2535200), [Zerzxes](https://osu.ppy.sh/u/2094253), [Hakkun](https://osu.ppy.sh/u/2179438)        |
 
 | Flag                           | Country | Group D Members                                                                                                                                                                                               |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/At.gif) | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480), [Raaban](https://osu.ppy.sh/u/1569025), [xXMarcelXx](https://osu.ppy.sh/u/2355698), [Zuyanta](https://osu.ppy.sh/u/2772759)                                                        |
-| ![](/wiki/shared/flag/Fr.gif) | 프랑스     | --- disbanded ---                                                                                                                                                                                             |
-| ![](/wiki/shared/flag/My.gif) | 말레이시아   | **[-Rin](https://osu.ppy.sh/u/1202101)**, [Shadow Fear](https://osu.ppy.sh/u/635485), [Rick--](https://osu.ppy.sh/u/950241), [QHideaki13](https://osu.ppy.sh/u/733998), [kho keng chung](https://osu.ppy.sh/u/369045)                       |
-| ![](/wiki/shared/flag/Jp.gif) | 일본      | **[uppia](https://osu.ppy.sh/u/1513301)**, [rullu](https://osu.ppy.sh/u/595140), [sekirei](https://osu.ppy.sh/u/1643335), [giru HD](https://osu.ppy.sh/u/707456), [Magiyu](https://osu.ppy.sh/u/1667470), [Lafollia](https://osu.ppy.sh/u/827985) |
+| ![][flag_AT] | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480), [Raaban](https://osu.ppy.sh/u/1569025), [xXMarcelXx](https://osu.ppy.sh/u/2355698), [Zuyanta](https://osu.ppy.sh/u/2772759)                                                        |
+| ![][flag_FR] | 프랑스     | --- disbanded ---                                                                                                                                                                                             |
+| ![][flag_MY] | 말레이시아   | **[-Rin](https://osu.ppy.sh/u/1202101)**, [Shadow Fear](https://osu.ppy.sh/u/635485), [Rick--](https://osu.ppy.sh/u/950241), [QHideaki13](https://osu.ppy.sh/u/733998), [kho keng chung](https://osu.ppy.sh/u/369045)                       |
+| ![][flag_JP] | 일본      | **[uppia](https://osu.ppy.sh/u/1513301)**, [rullu](https://osu.ppy.sh/u/595140), [sekirei](https://osu.ppy.sh/u/1643335), [giru HD](https://osu.ppy.sh/u/707456), [Magiyu](https://osu.ppy.sh/u/1667470), [Lafollia](https://osu.ppy.sh/u/827985) |
 
 | Flag                           | Country | Group E Members                                                                                                                                                                          |
 |--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Mx.gif) | 멕시코     | **[Lostty](https://osu.ppy.sh/u/2118519)**, [ChibiOzed](https://osu.ppy.sh/u/1690328), [blacklotus](https://osu.ppy.sh/u/2115337)                                                                          |
-| ![](/wiki/shared/flag/Dk.gif) | 덴마크     | **[-Crab-](https://osu.ppy.sh/u/2563435)**, [TheCo0k1e](https://osu.ppy.sh/u/3386472), [jacoblemming12](https://osu.ppy.sh/u/3593786), [FlowHomie](https://osu.ppy.sh/u/2831095)                                 |
-| ![](/wiki/shared/flag/Nz.gif) | 뉴질랜드    | **[IQ166](https://osu.ppy.sh/u/1452911)**, [Nibble147](https://osu.ppy.sh/u/3866541), [JakeCC](https://osu.ppy.sh/u/88973)                                                                                 |
-| ![](/wiki/shared/flag/Se.gif) | 스웨덴     | **[Yukiteru Amano](https://osu.ppy.sh/u/1894511)**, [Walterx8](https://osu.ppy.sh/u/1993041), [Negri_sk](https://osu.ppy.sh/u/2231396), [-Airi-](https://osu.ppy.sh/u/2546340), [Suzuki](https://osu.ppy.sh/u/2960209) |
+| ![][flag_MX] | 멕시코     | **[Lostty](https://osu.ppy.sh/u/2118519)**, [ChibiOzed](https://osu.ppy.sh/u/1690328), [blacklotus](https://osu.ppy.sh/u/2115337)                                                                          |
+| ![][flag_DK] | 덴마크     | **[-Crab-](https://osu.ppy.sh/u/2563435)**, [TheCo0k1e](https://osu.ppy.sh/u/3386472), [jacoblemming12](https://osu.ppy.sh/u/3593786), [FlowHomie](https://osu.ppy.sh/u/2831095)                                 |
+| ![][flag_NZ] | 뉴질랜드    | **[IQ166](https://osu.ppy.sh/u/1452911)**, [Nibble147](https://osu.ppy.sh/u/3866541), [JakeCC](https://osu.ppy.sh/u/88973)                                                                                 |
+| ![][flag_SE] | 스웨덴     | **[Yukiteru Amano](https://osu.ppy.sh/u/1894511)**, [Walterx8](https://osu.ppy.sh/u/1993041), [Negri_sk](https://osu.ppy.sh/u/2231396), [-Airi-](https://osu.ppy.sh/u/2546340), [Suzuki](https://osu.ppy.sh/u/2960209) |
 
 | Flag                           | Country | Group F Members                                                                                                                                                                       |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Es.gif) | 스페인     | **[SK Eternal](https://osu.ppy.sh/u/588046)**, [Raimon](https://osu.ppy.sh/u/609627), [RAMONLINKK](https://osu.ppy.sh/u/843155), [Nokeru-Chan](https://osu.ppy.sh/u/602315), [sarkras](https://osu.ppy.sh/u/709625) |
-| ![](/wiki/shared/flag/Pe.gif) | 페루      | --- disbanded ---                                                                                                                                                                     |
-| ![](/wiki/shared/flag/Fi.gif) | 핀란드     | **[YERTI](https://osu.ppy.sh/u/1490757)**, [Static Noise Bird](https://osu.ppy.sh/u/826132), [MrSake](https://osu.ppy.sh/u/264729), [Mianki](https://osu.ppy.sh/u/39658)                                      |
-| ![](/wiki/shared/flag/Hr.gif) | 크로아티아   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/u/404314)**, [Animewolf](https://osu.ppy.sh/u/949513), [TinTin](https://osu.ppy.sh/u/2227976)                                                                   |
+| ![][flag_ES] | 스페인     | **[SK Eternal](https://osu.ppy.sh/u/588046)**, [Raimon](https://osu.ppy.sh/u/609627), [RAMONLINKK](https://osu.ppy.sh/u/843155), [Nokeru-Chan](https://osu.ppy.sh/u/602315), [sarkras](https://osu.ppy.sh/u/709625) |
+| ![][flag_PE] | 페루      | --- disbanded ---                                                                                                                                                                     |
+| ![][flag_FI] | 핀란드     | **[YERTI](https://osu.ppy.sh/u/1490757)**, [Static Noise Bird](https://osu.ppy.sh/u/826132), [MrSake](https://osu.ppy.sh/u/264729), [Mianki](https://osu.ppy.sh/u/39658)                                      |
+| ![][flag_HR] | 크로아티아   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/u/404314)**, [Animewolf](https://osu.ppy.sh/u/949513), [TinTin](https://osu.ppy.sh/u/2227976)                                                                   |
 
 | Flag                           | Country | Group G Members                                                                                                                                                                  |
 |--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Kr.gif) | 한국      | **[Spectator](https://osu.ppy.sh/u/702598)**, [dae6254](https://osu.ppy.sh/u/563262), [Frobe](https://osu.ppy.sh/u/670365), [Kuzino](https://osu.ppy.sh/u/158552), [Last Bubble](https://osu.ppy.sh/u/1302259) |
-| ![](/wiki/shared/flag/De.gif) | 독일      | **[DeathXHunter](https://osu.ppy.sh/u/405326)**, [NoteKuroi](https://osu.ppy.sh/u/186642), [Nyan-Zapo](https://osu.ppy.sh/u/480676)                                                                |
-| ![](/wiki/shared/flag/Ca.gif) | 캐나다     | **[Kitokofox](https://osu.ppy.sh/u/1815420)**, [Sumaki](https://osu.ppy.sh/u/207916), [Kitsunemimi](https://osu.ppy.sh/u/100037)                                                                   |
-| ![](/wiki/shared/flag/Bo.gif) | 볼리비아    | **[donjuan_217](https://osu.ppy.sh/u/2169426)**, [brian_rqc](https://osu.ppy.sh/u/3710738), [gakupoXD](https://osu.ppy.sh/u/871103), [Zen Youkai](https://osu.ppy.sh/u/3364257)                          |
+| ![][flag_KR] | 한국      | **[Spectator](https://osu.ppy.sh/u/702598)**, [dae6254](https://osu.ppy.sh/u/563262), [Frobe](https://osu.ppy.sh/u/670365), [Kuzino](https://osu.ppy.sh/u/158552), [Last Bubble](https://osu.ppy.sh/u/1302259) |
+| ![][flag_DE] | 독일      | **[DeathXHunter](https://osu.ppy.sh/u/405326)**, [NoteKuroi](https://osu.ppy.sh/u/186642), [Nyan-Zapo](https://osu.ppy.sh/u/480676)                                                                |
+| ![][flag_CA] | 캐나다     | **[Kitokofox](https://osu.ppy.sh/u/1815420)**, [Sumaki](https://osu.ppy.sh/u/207916), [Kitsunemimi](https://osu.ppy.sh/u/100037)                                                                   |
+| ![][flag_BO] | 볼리비아    | **[donjuan_217](https://osu.ppy.sh/u/2169426)**, [brian_rqc](https://osu.ppy.sh/u/3710738), [gakupoXD](https://osu.ppy.sh/u/871103), [Zen Youkai](https://osu.ppy.sh/u/3364257)                          |
 
 | Flag                           | Country | Group H Members                                                                                                                                                                               |
 |--------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ar.gif) | 아르헨티나   | **[NightWar](https://osu.ppy.sh/u/1209167)**, [Litooo](https://osu.ppy.sh/u/1170107), [Gundisalv](https://osu.ppy.sh/u/1160340), [musicguy007](https://osu.ppy.sh/u/2159777)                                          |
-| ![](/wiki/shared/flag/Cn.gif) | 중국      | **[Dusk](https://osu.ppy.sh/u/533210)**, [hy1hy1hy](https://osu.ppy.sh/u/243877), [MisakaMikoto](https://osu.ppy.sh/u/434917), [Ibuki Suika](https://osu.ppy.sh/u/290249)                                             |
-| ![](/wiki/shared/flag/Uy.gif) | 우루과이    | **[Themaster155](https://osu.ppy.sh/u/1850067)**, [quique95](https://osu.ppy.sh/u/472924), [Truxxxton](https://osu.ppy.sh/u/1379428), [S3B4](https://osu.ppy.sh/u/3437784)                                            |
-| ![](/wiki/shared/flag/Id.gif) | 인도네시아   | **[Shurelia](https://osu.ppy.sh/u/3807986)**, [Deceitful](https://osu.ppy.sh/u/1396447), [\_EliteYud\_](https://osu.ppy.sh/u/2365634), [Yoshida Haru-](https://osu.ppy.sh/u/3073351), [- Rii -](https://osu.ppy.sh/u/3734591) |
+| ![][flag_AR] | 아르헨티나   | **[NightWar](https://osu.ppy.sh/u/1209167)**, [Litooo](https://osu.ppy.sh/u/1170107), [Gundisalv](https://osu.ppy.sh/u/1160340), [musicguy007](https://osu.ppy.sh/u/2159777)                                          |
+| ![][flag_CN] | 중국      | **[Dusk](https://osu.ppy.sh/u/533210)**, [hy1hy1hy](https://osu.ppy.sh/u/243877), [MisakaMikoto](https://osu.ppy.sh/u/434917), [Ibuki Suika](https://osu.ppy.sh/u/290249)                                             |
+| ![][flag_UY] | 우루과이    | **[Themaster155](https://osu.ppy.sh/u/1850067)**, [quique95](https://osu.ppy.sh/u/472924), [Truxxxton](https://osu.ppy.sh/u/1379428), [S3B4](https://osu.ppy.sh/u/3437784)                                            |
+| ![][flag_ID] | 인도네시아   | **[Shurelia](https://osu.ppy.sh/u/3807986)**, [Deceitful](https://osu.ppy.sh/u/1396447), [\_EliteYud\_](https://osu.ppy.sh/u/2365634), [Yoshida Haru-](https://osu.ppy.sh/u/3073351), [- Rii -](https://osu.ppy.sh/u/3734591) |
 
 ------------------------------------------------------------------------
 
@@ -277,65 +277,65 @@ osu! Catch the Beat World Cup 2014
 
 | Team A                                   | Scores        | Team B                                   | History                       |
 |:-----------------------------------------|:-------------:|-----------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/At.gif) 오스트리아     | 0     - **4** | **일본** ![](/wiki/shared/flag/Jp.gif)    | [#1](https://osu.ppy.sh/mp/6655525) |
-| ![](/wiki/shared/flag/Kr.gif) **한국**    | **4** - 0     | 볼리비아 ![](/wiki/shared/flag/Bo.gif)      | [#1](https://osu.ppy.sh/mp/6655395) |
-| ![](/wiki/shared/flag/Cn.gif) 중국        | 0     - **4** | **우루과이** ![](/wiki/shared/flag/Uy.gif)  | Win by default                |
-| ![](/wiki/shared/flag/Th.gif) 타이        | 0     - **4** | **미국** ![](/wiki/shared/flag/Us.gif)    | [#1](https://osu.ppy.sh/mp/6653614) |
-| ![](/wiki/shared/flag/Gb.gif) 영국        | 0     - **4** | **타이** ![](/wiki/shared/flag/Th.gif)    | [#1](https://osu.ppy.sh/mp/6657824) |
-| ![](/wiki/shared/flag/Tw.gif) **타이완**   | **4** - 2     | 싱가포르 ![](/wiki/shared/flag/Sg.gif)      | [#1](https://osu.ppy.sh/mp/6657864) |
-| ![](/wiki/shared/flag/Ar.gif) 아르헨티나     | 0     - **4** | **인도네시아** ![](/wiki/shared/flag/Id.gif) | [#1](https://osu.ppy.sh/mp/6657850) |
-| ![](/wiki/shared/flag/Pl.gif) **폴란드**   | **4** - 0     | 에스토니아 ![](/wiki/shared/flag/Ee.gif)     | [#1](https://osu.ppy.sh/mp/6657969) |
-| ![](/wiki/shared/flag/Dk.gif) 덴마크       | 0     - **4** | **스웨덴** ![](/wiki/shared/flag/Se.gif)   | [#1](https://osu.ppy.sh/mp/6658911) |
-| ![](/wiki/shared/flag/Nl.gif) **네덜란드**  | **4** - 2     | 노르웨이 ![](/wiki/shared/flag/No.gif)      | [#1](https://osu.ppy.sh/mp/6658927) |
-| ![](/wiki/shared/flag/De.gif) **독일**    | **4** - 0     | 볼리비아 ![](/wiki/shared/flag/Bo.gif)      | Win by default                |
-| ![](/wiki/shared/flag/Es.gif) **스페인**   | **4** - 0     | 핀란드 ![](/wiki/shared/flag/Fi.gif)       | [#1](https://osu.ppy.sh/mp/6659024) |
-| ![](/wiki/shared/flag/De.gif) **독일**    | **4** - 1     | 캐나다 ![](/wiki/shared/flag/Ca.gif)       | [#1](https://osu.ppy.sh/mp/6662031) |
-| ![](/wiki/shared/flag/Es.gif) **스페인**   | **4** - 0     | 크로아티아 ![](/wiki/shared/flag/Hr.gif)     | [#1](https://osu.ppy.sh/mp/6661946) |
-| ![](/wiki/shared/flag/Mx.gif) 멕시코       | 1     - **4** | **스웨덴** ![](/wiki/shared/flag/Se.gif)   | [#1](https://osu.ppy.sh/mp/6662038) |
-| ![](/wiki/shared/flag/Ar.gif) 아르헨티나     | 0     - **4** | **우루과이** ![](/wiki/shared/flag/Uy.gif)  | [#1](https://osu.ppy.sh/mp/6662109) |
-| ![](/wiki/shared/flag/Gb.gif) 영국        | 0     - **4** | **미국** ![](/wiki/shared/flag/Us.gif)    | [#1](https://osu.ppy.sh/mp/6667279) |
-| ![](/wiki/shared/flag/Mx.gif) **멕시코**   | **4** - 0     | 뉴질랜드 ![](/wiki/shared/flag/Nz.gif)      | [#1](https://osu.ppy.sh/mp/6667239) |
-| ![](/wiki/shared/flag/Ca.gif) **캐나다**   | **4** - 0     | 볼리비아 ![](/wiki/shared/flag/Bo.gif)      | Win by default                |
-| ![](/wiki/shared/flag/Kr.gif) **한국**    | **4** - 2     | 독일 ![](/wiki/shared/flag/De.gif)        | [#1](https://osu.ppy.sh/mp/6680444) |
-| ![](/wiki/shared/flag/Cn.gif) **중국**    | **4** - 3     | 인도네시아 ![](/wiki/shared/flag/Id.gif)     | [#1](https://osu.ppy.sh/mp/6680664) |
-| ![](/wiki/shared/flag/Nz.gif) 뉴질랜드      | 0     - **4** | **스웨덴** ![](/wiki/shared/flag/Se.gif)   | Win by default                |
-| ![](/wiki/shared/flag/My.gif) 말레이시아     | 1     - **4** | **일본** ![](/wiki/shared/flag/Jp.gif)    | [#1](https://osu.ppy.sh/mp/6681641) |
-| ![](/wiki/shared/flag/Dk.gif) 덴마크       | 0     - 0     | 뉴질랜드 ![](/wiki/shared/flag/Nz.gif)      | No match                      |
-| ![](/wiki/shared/flag/Tw.gif) **타이완**   | **4** - 0     | 네덜란드 ![](/wiki/shared/flag/Nl.gif)      | [#1](https://osu.ppy.sh/mp/6681780) |
-| ![](/wiki/shared/flag/Id.gif) **인도네시아** | **4** - 0     | 우루과이 ![](/wiki/shared/flag/Uy.gif)      | [#1](https://osu.ppy.sh/mp/6682737) |
-| ![](/wiki/shared/flag/Hk.gif) **홍콩**    | **4** - 3     | 폴란드 ![](/wiki/shared/flag/Pl.gif)       | [#1](https://osu.ppy.sh/mp/6682744) |
-| ![](/wiki/shared/flag/Sg.gif) **싱가포르**  | **4** - 2     | 노르웨이 ![](/wiki/shared/flag/No.gif)      | [#1](https://osu.ppy.sh/mp/6682800) |
-| ![](/wiki/shared/flag/Tw.gif) **타이완**   | **4** - 2     | 노르웨이 ![](/wiki/shared/flag/No.gif)      | [#1](https://osu.ppy.sh/mp/6683945) |
-| ![](/wiki/shared/flag/At.gif) 오스트리아     | 0     - **4** | **말레이시아** ![](/wiki/shared/flag/My.gif) | [#1](https://osu.ppy.sh/mp/6683957) |
-| ![](/wiki/shared/flag/Ar.gif) 아르헨티나     | 0     - **4** | **캐나다** ![](/wiki/shared/flag/Ca.gif)   | Win by default                |
-| ![](/wiki/shared/flag/Kr.gif) **한국**    | **4** - 0     | 캐나다 ![](/wiki/shared/flag/Ca.gif)       | Win by default                |
-| ![](/wiki/shared/flag/Fi.gif) **핀란드**   | **4** - 0     | 크로아티아 ![](/wiki/shared/flag/Hr.gif)     | [#1](https://osu.ppy.sh/mp/6685074) |
-| ![](/wiki/shared/flag/Nl.gif) 네덜란드      | 1     - **4** | **싱가포르** ![](/wiki/shared/flag/Sg.gif)  | [#1](https://osu.ppy.sh/mp/6685076) |
-| ![](/wiki/shared/flag/Mx.gif) **멕시코**   | **4** - 0     | 덴마크 ![](/wiki/shared/flag/Dk.gif)       | Win by default                |
-| ![](/wiki/shared/flag/Hk.gif) **홍콩**    | **4** - 0     | 에스토니아 ![](/wiki/shared/flag/Ee.gif)     | [#1](https://osu.ppy.sh/mp/6685082) |
+| ![][flag_AT] 오스트리아     | 0     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/mp/6655525) |
+| ![][flag_KR] **한국**    | **4** - 0     | 볼리비아 ![][flag_BO]      | [#1](https://osu.ppy.sh/mp/6655395) |
+| ![][flag_CN] 중국        | 0     - **4** | **우루과이** ![][flag_UY]  | Win by default                |
+| ![][flag_TH] 타이        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/mp/6653614) |
+| ![][flag_GB] 영국        | 0     - **4** | **타이** ![][flag_TH]    | [#1](https://osu.ppy.sh/mp/6657824) |
+| ![][flag_TW] **타이완**   | **4** - 2     | 싱가포르 ![][flag_SG]      | [#1](https://osu.ppy.sh/mp/6657864) |
+| ![][flag_AR] 아르헨티나     | 0     - **4** | **인도네시아** ![][flag_ID] | [#1](https://osu.ppy.sh/mp/6657850) |
+| ![][flag_PL] **폴란드**   | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/mp/6657969) |
+| ![][flag_DK] 덴마크       | 0     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/mp/6658911) |
+| ![][flag_NL] **네덜란드**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6658927) |
+| ![][flag_DE] **독일**    | **4** - 0     | 볼리비아 ![][flag_BO]      | Win by default                |
+| ![][flag_ES] **스페인**   | **4** - 0     | 핀란드 ![][flag_FI]       | [#1](https://osu.ppy.sh/mp/6659024) |
+| ![][flag_DE] **독일**    | **4** - 1     | 캐나다 ![][flag_CA]       | [#1](https://osu.ppy.sh/mp/6662031) |
+| ![][flag_ES] **스페인**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/mp/6661946) |
+| ![][flag_MX] 멕시코       | 1     - **4** | **스웨덴** ![][flag_SE]   | [#1](https://osu.ppy.sh/mp/6662038) |
+| ![][flag_AR] 아르헨티나     | 0     - **4** | **우루과이** ![][flag_UY]  | [#1](https://osu.ppy.sh/mp/6662109) |
+| ![][flag_GB] 영국        | 0     - **4** | **미국** ![][flag_US]    | [#1](https://osu.ppy.sh/mp/6667279) |
+| ![][flag_MX] **멕시코**   | **4** - 0     | 뉴질랜드 ![][flag_NZ]      | [#1](https://osu.ppy.sh/mp/6667239) |
+| ![][flag_CA] **캐나다**   | **4** - 0     | 볼리비아 ![][flag_BO]      | Win by default                |
+| ![][flag_KR] **한국**    | **4** - 2     | 독일 ![][flag_DE]        | [#1](https://osu.ppy.sh/mp/6680444) |
+| ![][flag_CN] **중국**    | **4** - 3     | 인도네시아 ![][flag_ID]     | [#1](https://osu.ppy.sh/mp/6680664) |
+| ![][flag_NZ] 뉴질랜드      | 0     - **4** | **스웨덴** ![][flag_SE]   | Win by default                |
+| ![][flag_MY] 말레이시아     | 1     - **4** | **일본** ![][flag_JP]    | [#1](https://osu.ppy.sh/mp/6681641) |
+| ![][flag_DK] 덴마크       | 0     - 0     | 뉴질랜드 ![][flag_NZ]      | No match                      |
+| ![][flag_TW] **타이완**   | **4** - 0     | 네덜란드 ![][flag_NL]      | [#1](https://osu.ppy.sh/mp/6681780) |
+| ![][flag_ID] **인도네시아** | **4** - 0     | 우루과이 ![][flag_UY]      | [#1](https://osu.ppy.sh/mp/6682737) |
+| ![][flag_HK] **홍콩**    | **4** - 3     | 폴란드 ![][flag_PL]       | [#1](https://osu.ppy.sh/mp/6682744) |
+| ![][flag_SG] **싱가포르**  | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6682800) |
+| ![][flag_TW] **타이완**   | **4** - 2     | 노르웨이 ![][flag_NO]      | [#1](https://osu.ppy.sh/mp/6683945) |
+| ![][flag_AT] 오스트리아     | 0     - **4** | **말레이시아** ![][flag_MY] | [#1](https://osu.ppy.sh/mp/6683957) |
+| ![][flag_AR] 아르헨티나     | 0     - **4** | **캐나다** ![][flag_CA]   | Win by default                |
+| ![][flag_KR] **한국**    | **4** - 0     | 캐나다 ![][flag_CA]       | Win by default                |
+| ![][flag_FI] **핀란드**   | **4** - 0     | 크로아티아 ![][flag_HR]     | [#1](https://osu.ppy.sh/mp/6685074) |
+| ![][flag_NL] 네덜란드      | 1     - **4** | **싱가포르** ![][flag_SG]  | [#1](https://osu.ppy.sh/mp/6685076) |
+| ![][flag_MX] **멕시코**   | **4** - 0     | 덴마크 ![][flag_DK]       | Win by default                |
+| ![][flag_HK] **홍콩**    | **4** - 0     | 에스토니아 ![][flag_EE]     | [#1](https://osu.ppy.sh/mp/6685082) |
 
 ### 16강
 
 | Team A                                   | Scores        | Team B                                      | History                       |
 |:-----------------------------------------|:-------------:|--------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Gb.gif) 영국        | 0     - **5** | **핀란드**   ![](/wiki/shared/flag/Fi.gif)    | [#1](https://osu.ppy.sh/mp/6808334) |
-| ![](/wiki/shared/flag/Se.gif) **스웨덴**   | **5** - 0     | 말레이시아      ![](/wiki/shared/flag/My.gif)   | [#1](https://osu.ppy.sh/mp/6808918) |
-| ![](/wiki/shared/flag/Es.gif) 스페인       | 2     - **5** | **싱가포르** ![](/wiki/shared/flag/Sg.gif)     | [#1](https://osu.ppy.sh/mp/6810811) |
-| ![](/wiki/shared/flag/Id.gif) **인도네시아** | **5** - 0     | 타이           ![](/wiki/shared/flag/Th.gif) | [#1](https://osu.ppy.sh/mp/6835441) |
-| ![](/wiki/shared/flag/Kr.gif) **한국**    | **5** - 1     | 폴란드        ![](/wiki/shared/flag/Pl.gif)   | [#1](https://osu.ppy.sh/mp/6837116) |
-| ![](/wiki/shared/flag/Hk.gif) 홍콩        | 1     - **5** | **독일**   ![](/wiki/shared/flag/De.gif)     | [#1](https://osu.ppy.sh/mp/6838919) |
-| ![](/wiki/shared/flag/Jp.gif) **일본**    | **5** - 1     | 멕시코        ![](/wiki/shared/flag/Mx.gif)   | [#1](https://osu.ppy.sh/mp/6840792) |
-| ![](/wiki/shared/flag/Us.gif) **미국**    | **5** - 4     | 우루과이       ![](/wiki/shared/flag/Uy.gif)   | [#1](https://osu.ppy.sh/mp/6842138) |
+| ![][flag_GB] 영국        | 0     - **5** | **핀란드**   ![][flag_FI]    | [#1](https://osu.ppy.sh/mp/6808334) |
+| ![][flag_SE] **스웨덴**   | **5** - 0     | 말레이시아      ![][flag_MY]   | [#1](https://osu.ppy.sh/mp/6808918) |
+| ![][flag_ES] 스페인       | 2     - **5** | **싱가포르** ![][flag_SG]     | [#1](https://osu.ppy.sh/mp/6810811) |
+| ![][flag_ID] **인도네시아** | **5** - 0     | 타이           ![][flag_TH] | [#1](https://osu.ppy.sh/mp/6835441) |
+| ![][flag_KR] **한국**    | **5** - 1     | 폴란드        ![][flag_PL]   | [#1](https://osu.ppy.sh/mp/6837116) |
+| ![][flag_HK] 홍콩        | 1     - **5** | **독일**   ![][flag_DE]     | [#1](https://osu.ppy.sh/mp/6838919) |
+| ![][flag_JP] **일본**    | **5** - 1     | 멕시코        ![][flag_MX]   | [#1](https://osu.ppy.sh/mp/6840792) |
+| ![][flag_US] **미국**    | **5** - 4     | 우루과이       ![][flag_UY]   | [#1](https://osu.ppy.sh/mp/6842138) |
 
 8강
 ---
 
 | Team A                                 | Scores        | Team B                                  | History                       |
 |:---------------------------------------|:-------------:|----------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Fi.gif) 핀란드     | 4     - **5** | **일본**   ![](/wiki/shared/flag/Jp.gif) | [#1](https://osu.ppy.sh/mp/6972405) |
-| ![](/wiki/shared/flag/Kr.gif) **한국**  | **5** - 2     | 인도네시아   ![](/wiki/shared/flag/Id.gif)  | [#1](https://osu.ppy.sh/mp/6974337) |
-| ![](/wiki/shared/flag/Se.gif) **스웨덴** | **5** - 4     | 싱가포르   ![](/wiki/shared/flag/Sg.gif)   | [#1](https://osu.ppy.sh/mp/6975640) |
-| ![](/wiki/shared/flag/Us.gif) 미국      | 1     - **5** | **독일** ![](/wiki/shared/flag/De.gif)   | [#1](https://osu.ppy.sh/mp/6977532) |
+| ![][flag_FI] 핀란드     | 4     - **5** | **일본**   ![][flag_JP] | [#1](https://osu.ppy.sh/mp/6972405) |
+| ![][flag_KR] **한국**  | **5** - 2     | 인도네시아   ![][flag_ID]  | [#1](https://osu.ppy.sh/mp/6974337) |
+| ![][flag_SE] **스웨덴** | **5** - 4     | 싱가포르   ![][flag_SG]   | [#1](https://osu.ppy.sh/mp/6975640) |
+| ![][flag_US] 미국      | 1     - **5** | **독일** ![][flag_DE]   | [#1](https://osu.ppy.sh/mp/6977532) |
 
 ------------------------------------------------------------------------
 
@@ -452,3 +452,37 @@ osu! Catch the Beat World Cup 2014
 3.  16강전부터는 토요일/일요일에 경기가 진행됩니다.
 4.  경기 일정은 운영 위원들이 정합니다. 경기 일정은 경기 전주의 일요일(예시로 조별예선의 경우 5월 4일)에 발표됩니다. 운영위원은 각 선수의 시간대를 고려하여 일정을 준비 할 것입니다.
 5.  주장은 팀원들의 참가여부에 대해 책임이 있습니다. 각 팀이 최대 6명의 선수를 뽑을 수 있게 하는 것은 경기 당일 적어도 3명의 선수를 준비 할 수 있도록 하기 위함입니다. 만약 3명 이상의 선수가 모이지 않을 경우 기권처리가 됩니다.
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BO]: /wiki/shared/flag/BO.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_EE]: /wiki/shared/flag/EE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HR]: /wiki/shared/flag/HR.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PE]: /wiki/shared/flag/PE.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_UY]: /wiki/shared/flag/UY.gif

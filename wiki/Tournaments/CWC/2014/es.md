@@ -3,15 +3,15 @@ osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 logo](logo.png)
 
-La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![](/wiki/shared/flag/Cl.gif) Chile**.
+La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![][flag_CL] Chile**.
 
 La competición ha concluido con el siguiente podio:
 
 | Place                                                      | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![](/wiki/shared/flag/Kr.gif) **Corea del Sur** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![](/wiki/shared/flag/De.gif) **Alemania**      |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Se.gif) **Suecia**        |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Corea del Sur** |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] **Alemania**      |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] **Suecia**        |
 
 Calendario
 -----------
@@ -40,11 +40,11 @@ Organización
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                      |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administración     | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                   |
-| Selección de mapas | ![](/wiki/shared/flag/Kr.gif) [CLSW](https://osu.ppy.sh/u/531253) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565) // ![](/wiki/shared/flag/Fr.gif) [Drafura](https://osu.ppy.sh/u/326099)                                                                                |
-| Stream             | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                    |
-| Comentaristas      | ![](/wiki/shared/flag/Au.gif) [Ephemeral](https://osu.ppy.sh/u/102335) // ![](/wiki/shared/flag/Ca.gif) [Kitokofox](https://osu.ppy.sh/u/1815420) // ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/Us.gif) [-Ryuujii-](https://osu.ppy.sh/u/2107523) |
-| Estadísticas       | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
+| Administración     | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                   |
+| Selección de mapas | ![][flag_KR] [CLSW](https://osu.ppy.sh/u/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/u/326099)                                                                                |
+| Stream             | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257)                                                                                                                                                    |
+| Comentaristas      | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/u/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/u/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/u/2107523) |
+| Estadísticas       | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                 |
 
 ------------------------------------------------------------------------
 
@@ -69,59 +69,59 @@ Participantes
 
 | Flag                           | Grupo A Members |                                                                                                                                                                                                                      |
 |--------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ph.gif) | Filipinas       | --- disbanded ---                                                                                                                                                                                                    |
-| ![](/wiki/shared/flag/Gb.gif) | Reino Unido     | **[destructor966](https://osu.ppy.sh/u/2667584)**, [Nanomight](https://osu.ppy.sh/u/160439), [bubbz](https://osu.ppy.sh/u/86414), [Phlo10](https://osu.ppy.sh/u/2643155), [DarkKanaki](https://osu.ppy.sh/u/2614160)                               |
-| ![](/wiki/shared/flag/Th.gif) | Tailandia       | **[boomngong](https://osu.ppy.sh/u/1090858)**, [Nansugumi](https://osu.ppy.sh/u/795915), [0814587134](https://osu.ppy.sh/u/1054016)                                                                                                    |
-| ![](/wiki/shared/flag/Us.gif) | Estados Unidos  | **[Zak](https://osu.ppy.sh/u/1375955)**, [-itsy_v2-](https://osu.ppy.sh/u/2815946), [-Kurisu-](https://osu.ppy.sh/u/500696), [Minky](https://osu.ppy.sh/u/1978891), [TenguKing9](https://osu.ppy.sh/u/1637716), [-Ryuuji-](https://osu.ppy.sh/u/2107523) |
+| ![][flag_PH] | Filipinas       | --- disbanded ---                                                                                                                                                                                                    |
+| ![][flag_GB] | Reino Unido     | **[destructor966](https://osu.ppy.sh/u/2667584)**, [Nanomight](https://osu.ppy.sh/u/160439), [bubbz](https://osu.ppy.sh/u/86414), [Phlo10](https://osu.ppy.sh/u/2643155), [DarkKanaki](https://osu.ppy.sh/u/2614160)                               |
+| ![][flag_TH] | Tailandia       | **[boomngong](https://osu.ppy.sh/u/1090858)**, [Nansugumi](https://osu.ppy.sh/u/795915), [0814587134](https://osu.ppy.sh/u/1054016)                                                                                                    |
+| ![][flag_US] | Estados Unidos  | **[Zak](https://osu.ppy.sh/u/1375955)**, [-itsy_v2-](https://osu.ppy.sh/u/2815946), [-Kurisu-](https://osu.ppy.sh/u/500696), [Minky](https://osu.ppy.sh/u/1978891), [TenguKing9](https://osu.ppy.sh/u/1637716), [-Ryuuji-](https://osu.ppy.sh/u/2107523) |
 
 | Flag                           | Country   | Grupo B Members                                                                                                                                                                 |
 |--------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Hk.gif) | Hong Kong | **[alienflybot](https://osu.ppy.sh/u/636114)**, [XXXZ](https://osu.ppy.sh/u/1226238), [[_NaGI]](https://osu.ppy.sh/u/788406), [HineX](https://osu.ppy.sh/u/13854), [longkitang](https://osu.ppy.sh/u/1744806) |
-| ![](/wiki/shared/flag/Pl.gif) | Polonia   | **[WujekGrzyb](https://osu.ppy.sh/u/258289)**, [wampir](https://osu.ppy.sh/u/261497), [Kosmit](https://osu.ppy.sh/u/1749173), [Scorpionek](https://osu.ppy.sh/u/149730)                                 |
-| ![](/wiki/shared/flag/Cl.gif) | Chile     | --- disbanded ---                                                                                                                                                               |
-| ![](/wiki/shared/flag/Ee.gif) | Estonia   | **[fanatik](https://osu.ppy.sh/u/913992)**, [warstape](https://osu.ppy.sh/u/1133783), [KostjaSun](https://osu.ppy.sh/u/2450912)                                                                   |
+| ![][flag_HK] | Hong Kong | **[alienflybot](https://osu.ppy.sh/u/636114)**, [XXXZ](https://osu.ppy.sh/u/1226238), [[_NaGI]](https://osu.ppy.sh/u/788406), [HineX](https://osu.ppy.sh/u/13854), [longkitang](https://osu.ppy.sh/u/1744806) |
+| ![][flag_PL] | Polonia   | **[WujekGrzyb](https://osu.ppy.sh/u/258289)**, [wampir](https://osu.ppy.sh/u/261497), [Kosmit](https://osu.ppy.sh/u/1749173), [Scorpionek](https://osu.ppy.sh/u/149730)                                 |
+| ![][flag_CL] | Chile     | --- disbanded ---                                                                                                                                                               |
+| ![][flag_EE] | Estonia   | **[fanatik](https://osu.ppy.sh/u/913992)**, [warstape](https://osu.ppy.sh/u/1133783), [KostjaSun](https://osu.ppy.sh/u/2450912)                                                                   |
 
 | Flag                           | Country      | Grupo C Members                                                                                                                                                                          |
 |--------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Tw.gif) | Taiwán       | --- disuelto ---                                                                                                                                                                         |
-| ![](/wiki/shared/flag/Nl.gif) | Países Bajos | **[Givralii](https://osu.ppy.sh/u/2466879)**, [Nebux](https://osu.ppy.sh/u/2342051), [Greaper](https://osu.ppy.sh/u/2369776), [CakeAndBanana](https://osu.ppy.sh/u/1981424), [wesley221](https://osu.ppy.sh/u/2407265) |
-| ![](/wiki/shared/flag/Sg.gif) | Singapur     | **[Accel](https://osu.ppy.sh/u/1169796)**, [Kagayane](https://osu.ppy.sh/u/1777691), [He Ang Erika](https://osu.ppy.sh/u/2451381), [Otaku_MQ](https://osu.ppy.sh/u/2650135), [Ridicule](https://osu.ppy.sh/u/3473425)  |
-| ![](/wiki/shared/flag/No.gif) | Noruega      | **[Kiwikun](https://osu.ppy.sh/u/1794766)**, [Azeidith](https://osu.ppy.sh/u/2819676), [lanki33](https://osu.ppy.sh/u/2535200), [Zerzxes](https://osu.ppy.sh/u/2094253), [Hakkun](https://osu.ppy.sh/u/2179438)        |
+| ![][flag_TW] | Taiwán       | --- disuelto ---                                                                                                                                                                         |
+| ![][flag_NL] | Países Bajos | **[Givralii](https://osu.ppy.sh/u/2466879)**, [Nebux](https://osu.ppy.sh/u/2342051), [Greaper](https://osu.ppy.sh/u/2369776), [CakeAndBanana](https://osu.ppy.sh/u/1981424), [wesley221](https://osu.ppy.sh/u/2407265) |
+| ![][flag_SG] | Singapur     | **[Accel](https://osu.ppy.sh/u/1169796)**, [Kagayane](https://osu.ppy.sh/u/1777691), [He Ang Erika](https://osu.ppy.sh/u/2451381), [Otaku_MQ](https://osu.ppy.sh/u/2650135), [Ridicule](https://osu.ppy.sh/u/3473425)  |
+| ![][flag_NO] | Noruega      | **[Kiwikun](https://osu.ppy.sh/u/1794766)**, [Azeidith](https://osu.ppy.sh/u/2819676), [lanki33](https://osu.ppy.sh/u/2535200), [Zerzxes](https://osu.ppy.sh/u/2094253), [Hakkun](https://osu.ppy.sh/u/2179438)        |
 
 | Flag                           | Country | Grupo D Members                                                                                                                                                                                               |
 |--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/At.gif) | Austria | **[\[ K a z u \]](https://osu.ppy.sh/u/1902480)**, [Raaban](https://osu.ppy.sh/u/1569025), [xXMarcelXx](https://osu.ppy.sh/u/2355698), [Zuyanta](https://osu.ppy.sh/u/2772759)                                                        |
-| ![](/wiki/shared/flag/Fr.gif) | Francia | --- disuelto ---                                                                                                                                                                                              |
-| ![](/wiki/shared/flag/My.gif) | Malasia | **[-Rin](https://osu.ppy.sh/u/1202101)**, [Shadow Fear](https://osu.ppy.sh/u/635485), [Rick--](https://osu.ppy.sh/u/950241), [QHideaki13](https://osu.ppy.sh/u/733998), [kho keng chung](https://osu.ppy.sh/u/369045)                       |
-| ![](/wiki/shared/flag/Jp.gif) | Japón   | **[uppia](https://osu.ppy.sh/u/1513301)**, [rullu](https://osu.ppy.sh/u/595140), [sekirei](https://osu.ppy.sh/u/1643335), [giru HD](https://osu.ppy.sh/u/707456), [Magiyu](https://osu.ppy.sh/u/1667470), [Lafollia](https://osu.ppy.sh/u/827985) |
+| ![][flag_AT] | Austria | **[\[ K a z u \]](https://osu.ppy.sh/u/1902480)**, [Raaban](https://osu.ppy.sh/u/1569025), [xXMarcelXx](https://osu.ppy.sh/u/2355698), [Zuyanta](https://osu.ppy.sh/u/2772759)                                                        |
+| ![][flag_FR] | Francia | --- disuelto ---                                                                                                                                                                                              |
+| ![][flag_MY] | Malasia | **[-Rin](https://osu.ppy.sh/u/1202101)**, [Shadow Fear](https://osu.ppy.sh/u/635485), [Rick--](https://osu.ppy.sh/u/950241), [QHideaki13](https://osu.ppy.sh/u/733998), [kho keng chung](https://osu.ppy.sh/u/369045)                       |
+| ![][flag_JP] | Japón   | **[uppia](https://osu.ppy.sh/u/1513301)**, [rullu](https://osu.ppy.sh/u/595140), [sekirei](https://osu.ppy.sh/u/1643335), [giru HD](https://osu.ppy.sh/u/707456), [Magiyu](https://osu.ppy.sh/u/1667470), [Lafollia](https://osu.ppy.sh/u/827985) |
 
 | Flag                           | Country       | Grupo E Members                                                                                                                                                                          |
 |--------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Mx.gif) | México        | **[Lostty](https://osu.ppy.sh/u/2118519)**, [ChibiOzed](https://osu.ppy.sh/u/1690328), [blacklotus](https://osu.ppy.sh/u/2115337)                                                                          |
-| ![](/wiki/shared/flag/Dk.gif) | Dinamarca     | **[-Crab-](https://osu.ppy.sh/u/2563435)**, [TheCo0k1e](https://osu.ppy.sh/u/3386472), [jacoblemming12](https://osu.ppy.sh/u/3593786), [FlowHomie](https://osu.ppy.sh/u/2831095)                                 |
-| ![](/wiki/shared/flag/Nz.gif) | Nueva Zelanda | **[IQ166](https://osu.ppy.sh/u/1452911)**, [Nibble147](https://osu.ppy.sh/u/3866541), [JakeCC](https://osu.ppy.sh/u/88973)                                                                                 |
-| ![](/wiki/shared/flag/Se.gif) | Suecia        | **[Yukiteru Amano](https://osu.ppy.sh/u/1894511)**, [Walterx8](https://osu.ppy.sh/u/1993041), [Negri_sk](https://osu.ppy.sh/u/2231396), [-Airi-](https://osu.ppy.sh/u/2546340), [Suzuki](https://osu.ppy.sh/u/2960209) |
+| ![][flag_MX] | México        | **[Lostty](https://osu.ppy.sh/u/2118519)**, [ChibiOzed](https://osu.ppy.sh/u/1690328), [blacklotus](https://osu.ppy.sh/u/2115337)                                                                          |
+| ![][flag_DK] | Dinamarca     | **[-Crab-](https://osu.ppy.sh/u/2563435)**, [TheCo0k1e](https://osu.ppy.sh/u/3386472), [jacoblemming12](https://osu.ppy.sh/u/3593786), [FlowHomie](https://osu.ppy.sh/u/2831095)                                 |
+| ![][flag_NZ] | Nueva Zelanda | **[IQ166](https://osu.ppy.sh/u/1452911)**, [Nibble147](https://osu.ppy.sh/u/3866541), [JakeCC](https://osu.ppy.sh/u/88973)                                                                                 |
+| ![][flag_SE] | Suecia        | **[Yukiteru Amano](https://osu.ppy.sh/u/1894511)**, [Walterx8](https://osu.ppy.sh/u/1993041), [Negri_sk](https://osu.ppy.sh/u/2231396), [-Airi-](https://osu.ppy.sh/u/2546340), [Suzuki](https://osu.ppy.sh/u/2960209) |
 
 | Flag                           | Country   | Grupo F Members                                                                                                                                                                       |
 |--------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Es.gif) | España    | **[SK Eternal](https://osu.ppy.sh/u/588046)**, [Raimon](https://osu.ppy.sh/u/609627), [RAMONLINKK](https://osu.ppy.sh/u/843155), [Nokeru-Chan](https://osu.ppy.sh/u/602315), [sarkras](https://osu.ppy.sh/u/709625) |
-| ![](/wiki/shared/flag/Pe.gif) | Perú      | --- disuelto ---                                                                                                                                                                      |
-| ![](/wiki/shared/flag/Fi.gif) | Finlandia | **[YERTI](https://osu.ppy.sh/u/1490757)**, [Static Noise Bird](https://osu.ppy.sh/u/826132), [MrSake](https://osu.ppy.sh/u/264729), [Mianki](https://osu.ppy.sh/u/39658)                                      |
-| ![](/wiki/shared/flag/Hr.gif) | Croacia   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/u/404314)**, [Animewolf](https://osu.ppy.sh/u/949513), [TinTin](https://osu.ppy.sh/u/2227976)                                                                   |
+| ![][flag_ES] | España    | **[SK Eternal](https://osu.ppy.sh/u/588046)**, [Raimon](https://osu.ppy.sh/u/609627), [RAMONLINKK](https://osu.ppy.sh/u/843155), [Nokeru-Chan](https://osu.ppy.sh/u/602315), [sarkras](https://osu.ppy.sh/u/709625) |
+| ![][flag_PE] | Perú      | --- disuelto ---                                                                                                                                                                      |
+| ![][flag_FI] | Finlandia | **[YERTI](https://osu.ppy.sh/u/1490757)**, [Static Noise Bird](https://osu.ppy.sh/u/826132), [MrSake](https://osu.ppy.sh/u/264729), [Mianki](https://osu.ppy.sh/u/39658)                                      |
+| ![][flag_HR] | Croacia   | **[Meikyuuiri Tsumi](https://osu.ppy.sh/u/404314)**, [Animewolf](https://osu.ppy.sh/u/949513), [TinTin](https://osu.ppy.sh/u/2227976)                                                                   |
 
 | Flag                           | Country       | Grupo G Members                                                                                                                                                                  |
 |--------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Kr.gif) | Corea del Sur | **[Spectator](https://osu.ppy.sh/u/702598)**, [dae6254](https://osu.ppy.sh/u/563262), [Frobe](https://osu.ppy.sh/u/670365), [Kuzino](https://osu.ppy.sh/u/158552), [Last Bubble](https://osu.ppy.sh/u/1302259) |
-| ![](/wiki/shared/flag/De.gif) | Alemania      | **[DeathXHunter](https://osu.ppy.sh/u/405326)**, [NoteKuroi](https://osu.ppy.sh/u/186642), [Nyan-Zapo](https://osu.ppy.sh/u/480676)                                                                |
-| ![](/wiki/shared/flag/Ca.gif) | Canadá        | **[Kitokofox](https://osu.ppy.sh/u/1815420)**, [Sumaki](https://osu.ppy.sh/u/207916), [Kitsunemimi](https://osu.ppy.sh/u/100037)                                                                   |
-| ![](/wiki/shared/flag/Bo.gif) | Bolivia       | **[donjuan_217](https://osu.ppy.sh/u/2169426)**, [brian_rqc](https://osu.ppy.sh/u/3710738), [gakupoXD](https://osu.ppy.sh/u/871103), [Zen Youkai](https://osu.ppy.sh/u/3364257)                          |
+| ![][flag_KR] | Corea del Sur | **[Spectator](https://osu.ppy.sh/u/702598)**, [dae6254](https://osu.ppy.sh/u/563262), [Frobe](https://osu.ppy.sh/u/670365), [Kuzino](https://osu.ppy.sh/u/158552), [Last Bubble](https://osu.ppy.sh/u/1302259) |
+| ![][flag_DE] | Alemania      | **[DeathXHunter](https://osu.ppy.sh/u/405326)**, [NoteKuroi](https://osu.ppy.sh/u/186642), [Nyan-Zapo](https://osu.ppy.sh/u/480676)                                                                |
+| ![][flag_CA] | Canadá        | **[Kitokofox](https://osu.ppy.sh/u/1815420)**, [Sumaki](https://osu.ppy.sh/u/207916), [Kitsunemimi](https://osu.ppy.sh/u/100037)                                                                   |
+| ![][flag_BO] | Bolivia       | **[donjuan_217](https://osu.ppy.sh/u/2169426)**, [brian_rqc](https://osu.ppy.sh/u/3710738), [gakupoXD](https://osu.ppy.sh/u/871103), [Zen Youkai](https://osu.ppy.sh/u/3364257)                          |
 
 | Flag                           | Country   | Grupo H Members                                                                                                                                                                               |
 |--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Ar.gif) | Argentina | **[NightWar](https://osu.ppy.sh/u/1209167)**, [Litooo](https://osu.ppy.sh/u/1170107), [Gundisalv](https://osu.ppy.sh/u/1160340), [musicguy007](https://osu.ppy.sh/u/2159777)                                          |
-| ![](/wiki/shared/flag/Cn.gif) | China     | **[Dusk](https://osu.ppy.sh/u/533210)**, [hy1hy1hy](https://osu.ppy.sh/u/243877), [MisakaMikoto](https://osu.ppy.sh/u/434917), [Ibuki Suika](https://osu.ppy.sh/u/290249)                                             |
-| ![](/wiki/shared/flag/Uy.gif) | Uruguay   | **[Themaster155](https://osu.ppy.sh/u/1850067)**, [quique95](https://osu.ppy.sh/u/472924), [Truxxxton](https://osu.ppy.sh/u/1379428), [S3B4](https://osu.ppy.sh/u/3437784)                                            |
-| ![](/wiki/shared/flag/Id.gif) | Indonesia | **[Shurelia](https://osu.ppy.sh/u/3807986)**, [Deceitful](https://osu.ppy.sh/u/1396447), [\_EliteYud\_](https://osu.ppy.sh/u/2365634), [Yoshida Haru-](https://osu.ppy.sh/u/3073351), [- Rii -](https://osu.ppy.sh/u/3734591) |
+| ![][flag_AR] | Argentina | **[NightWar](https://osu.ppy.sh/u/1209167)**, [Litooo](https://osu.ppy.sh/u/1170107), [Gundisalv](https://osu.ppy.sh/u/1160340), [musicguy007](https://osu.ppy.sh/u/2159777)                                          |
+| ![][flag_CN] | China     | **[Dusk](https://osu.ppy.sh/u/533210)**, [hy1hy1hy](https://osu.ppy.sh/u/243877), [MisakaMikoto](https://osu.ppy.sh/u/434917), [Ibuki Suika](https://osu.ppy.sh/u/290249)                                             |
+| ![][flag_UY] | Uruguay   | **[Themaster155](https://osu.ppy.sh/u/1850067)**, [quique95](https://osu.ppy.sh/u/472924), [Truxxxton](https://osu.ppy.sh/u/1379428), [S3B4](https://osu.ppy.sh/u/3437784)                                            |
+| ![][flag_ID] | Indonesia | **[Shurelia](https://osu.ppy.sh/u/3807986)**, [Deceitful](https://osu.ppy.sh/u/1396447), [\_EliteYud\_](https://osu.ppy.sh/u/2365634), [Yoshida Haru-](https://osu.ppy.sh/u/3073351), [- Rii -](https://osu.ppy.sh/u/3734591) |
 
 ------------------------------------------------------------------------
 
@@ -309,78 +309,78 @@ Resultados
 
 | Equipo A                                         | Scores        | Equipo B                                          | Historial                     |
 |:-------------------------------------------------|:-------------:|--------------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/At.gif) Austria           | 0     - **4** | **Japón** ![](/wiki/shared/flag/Jp.gif)          | [#1](https://osu.ppy.sh/mp/6655525) |
-| ![](/wiki/shared/flag/Kr.gif) **Corea del Sur** | **4** - 0     | Bolivia ![](/wiki/shared/flag/Bo.gif)            | [#1](https://osu.ppy.sh/mp/6655395) |
-| ![](/wiki/shared/flag/Cn.gif) China             | 0     - **4** | **Uruguay** ![](/wiki/shared/flag/Uy.gif)        | Victoria por default          |
-| ![](/wiki/shared/flag/Th.gif) Tailandia         | 0     - **4** | **Estados Unidos** ![](/wiki/shared/flag/Us.gif) | [#1](https://osu.ppy.sh/mp/6653614) |
-| ![](/wiki/shared/flag/Gb.gif) Reino Unido       | 0     - **4** | **Tailandia** ![](/wiki/shared/flag/Th.gif)      | [#1](https://osu.ppy.sh/mp/6657824) |
-| ![](/wiki/shared/flag/Tw.gif) **Taiwán**        | **4** - 2     | Singapur ![](/wiki/shared/flag/Sg.gif)           | [#1](https://osu.ppy.sh/mp/6657864) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina         | 0     - **4** | **Indonesia** ![](/wiki/shared/flag/Id.gif)      | [#1](https://osu.ppy.sh/mp/6657850) |
-| ![](/wiki/shared/flag/Pl.gif) **Polonia**       | **4** - 0     | Estonia ![](/wiki/shared/flag/Ee.gif)            | [#1](https://osu.ppy.sh/mp/6657969) |
-| ![](/wiki/shared/flag/Dk.gif) Dinamarca         | 0     - **4** | **Suecia** ![](/wiki/shared/flag/Se.gif)         | [#1](https://osu.ppy.sh/mp/6658911) |
-| ![](/wiki/shared/flag/Nl.gif) **Países Bajos**  | **4** - 2     | Noruega ![](/wiki/shared/flag/No.gif)            | [#1](https://osu.ppy.sh/mp/6658927) |
-| ![](/wiki/shared/flag/De.gif) **Alemania**      | **4** - 0     | Bolivia ![](/wiki/shared/flag/Bo.gif)            | Victoria por default          |
-| ![](/wiki/shared/flag/Es.gif) **España**        | **4** - 0     | Finlandia ![](/wiki/shared/flag/Fi.gif)          | [#1](https://osu.ppy.sh/mp/6659024) |
-| ![](/wiki/shared/flag/De.gif) **Alemania**      | **4** - 1     | Canadá ![](/wiki/shared/flag/Ca.gif)             | [#1](https://osu.ppy.sh/mp/6662031) |
-| ![](/wiki/shared/flag/Es.gif) **España**        | **4** - 0     | Croacia ![](/wiki/shared/flag/Hr.gif)            | [#1](https://osu.ppy.sh/mp/6661946) |
-| ![](/wiki/shared/flag/Mx.gif) México            | 1     - **4** | **Suecia** ![](/wiki/shared/flag/Se.gif)         | [#1](https://osu.ppy.sh/mp/6662038) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina         | 0     - **4** | **Uruguay** ![](/wiki/shared/flag/Uy.gif)        | [#1](https://osu.ppy.sh/mp/6662109) |
-| ![](/wiki/shared/flag/Gb.gif) Reino Unido       | 0     - **4** | **Estados Unidos** ![](/wiki/shared/flag/Us.gif) | [#1](https://osu.ppy.sh/mp/6667279) |
-| ![](/wiki/shared/flag/Mx.gif) **México**        | **4** - 0     | Nueva Zelanda ![](/wiki/shared/flag/Nz.gif)      | [#1](https://osu.ppy.sh/mp/6667239) |
-| ![](/wiki/shared/flag/Ca.gif) **Canadá**        | **4** - 0     | Bolivia ![](/wiki/shared/flag/Bo.gif)            | Victoria por default          |
-| ![](/wiki/shared/flag/Kr.gif) **Corea del Sur** | **4** - 2     | Alemania ![](/wiki/shared/flag/De.gif)           | [#1](https://osu.ppy.sh/mp/6680444) |
-| ![](/wiki/shared/flag/Cn.gif) **China**         | **4** - 3     | Indonesia ![](/wiki/shared/flag/Id.gif)          | [#1](https://osu.ppy.sh/mp/6680664) |
-| ![](/wiki/shared/flag/Nz.gif) Nueva Zelanda     | 0     - **4** | **Suecia** ![](/wiki/shared/flag/Se.gif)         | Victoria por default          |
-| ![](/wiki/shared/flag/My.gif) Malasia           | 1     - **4** | **Japón** ![](/wiki/shared/flag/Jp.gif)          | [#1](https://osu.ppy.sh/mp/6681641) |
-| ![](/wiki/shared/flag/Dk.gif) Dinamarca         | 0     - 0     | Nueva Zelanda ![](/wiki/shared/flag/Nz.gif)      | No jugado                     |
-| ![](/wiki/shared/flag/Tw.gif) **Taiwán**        | **4** - 0     | Países Bajos ![](/wiki/shared/flag/Nl.gif)       | [#1](https://osu.ppy.sh/mp/6681780) |
-| ![](/wiki/shared/flag/Id.gif) **Indonesia**     | **4** - 0     | Uruguay ![](/wiki/shared/flag/Uy.gif)            | [#1](https://osu.ppy.sh/mp/6682737) |
-| ![](/wiki/shared/flag/Hk.gif) **Hong Kong**     | **4** - 3     | Polonia ![](/wiki/shared/flag/Pl.gif)            | [#1](https://osu.ppy.sh/mp/6682744) |
-| ![](/wiki/shared/flag/Sg.gif) **Singapur**      | **4** - 2     | Noruega ![](/wiki/shared/flag/No.gif)            | [#1](https://osu.ppy.sh/mp/6682800) |
-| ![](/wiki/shared/flag/Tw.gif) **Taiwán**        | **4** - 2     | Noruega ![](/wiki/shared/flag/No.gif)            | [#1](https://osu.ppy.sh/mp/6683945) |
-| ![](/wiki/shared/flag/At.gif) Austria           | 0     - **4** | **Malasia** ![](/wiki/shared/flag/My.gif)        | [#1](https://osu.ppy.sh/mp/6683957) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina         | 0     - **4** | **Canadá** ![](/wiki/shared/flag/Ca.gif)         | Victoria por default          |
-| ![](/wiki/shared/flag/Kr.gif) **Corea del Sur** | **4** - 0     | Canadá ![](/wiki/shared/flag/Ca.gif)             | Victoria por default          |
-| ![](/wiki/shared/flag/Fi.gif) **Finlandia**     | **4** - 0     | Croacia ![](/wiki/shared/flag/Hr.gif)            | [#1](https://osu.ppy.sh/mp/6685074) |
-| ![](/wiki/shared/flag/Nl.gif) Países Bajos      | 1     - **4** | **Singapur** ![](/wiki/shared/flag/Sg.gif)       | [#1](https://osu.ppy.sh/mp/6685076) |
-| ![](/wiki/shared/flag/Mx.gif) **México**        | **4** - 0     | Dinamarca ![](/wiki/shared/flag/Dk.gif)          | Victoria por default          |
-| ![](/wiki/shared/flag/Hk.gif) **Hong Kong**     | **4** - 0     | Estonia ![](/wiki/shared/flag/Ee.gif)            | [#1](https://osu.ppy.sh/mp/6685082) |
+| ![][flag_AT] Austria           | 0     - **4** | **Japón** ![][flag_JP]          | [#1](https://osu.ppy.sh/mp/6655525) |
+| ![][flag_KR] **Corea del Sur** | **4** - 0     | Bolivia ![][flag_BO]            | [#1](https://osu.ppy.sh/mp/6655395) |
+| ![][flag_CN] China             | 0     - **4** | **Uruguay** ![][flag_UY]        | Victoria por default          |
+| ![][flag_TH] Tailandia         | 0     - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/mp/6653614) |
+| ![][flag_GB] Reino Unido       | 0     - **4** | **Tailandia** ![][flag_TH]      | [#1](https://osu.ppy.sh/mp/6657824) |
+| ![][flag_TW] **Taiwán**        | **4** - 2     | Singapur ![][flag_SG]           | [#1](https://osu.ppy.sh/mp/6657864) |
+| ![][flag_AR] Argentina         | 0     - **4** | **Indonesia** ![][flag_ID]      | [#1](https://osu.ppy.sh/mp/6657850) |
+| ![][flag_PL] **Polonia**       | **4** - 0     | Estonia ![][flag_EE]            | [#1](https://osu.ppy.sh/mp/6657969) |
+| ![][flag_DK] Dinamarca         | 0     - **4** | **Suecia** ![][flag_SE]         | [#1](https://osu.ppy.sh/mp/6658911) |
+| ![][flag_NL] **Países Bajos**  | **4** - 2     | Noruega ![][flag_NO]            | [#1](https://osu.ppy.sh/mp/6658927) |
+| ![][flag_DE] **Alemania**      | **4** - 0     | Bolivia ![][flag_BO]            | Victoria por default          |
+| ![][flag_ES] **España**        | **4** - 0     | Finlandia ![][flag_FI]          | [#1](https://osu.ppy.sh/mp/6659024) |
+| ![][flag_DE] **Alemania**      | **4** - 1     | Canadá ![][flag_CA]             | [#1](https://osu.ppy.sh/mp/6662031) |
+| ![][flag_ES] **España**        | **4** - 0     | Croacia ![][flag_HR]            | [#1](https://osu.ppy.sh/mp/6661946) |
+| ![][flag_MX] México            | 1     - **4** | **Suecia** ![][flag_SE]         | [#1](https://osu.ppy.sh/mp/6662038) |
+| ![][flag_AR] Argentina         | 0     - **4** | **Uruguay** ![][flag_UY]        | [#1](https://osu.ppy.sh/mp/6662109) |
+| ![][flag_GB] Reino Unido       | 0     - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/mp/6667279) |
+| ![][flag_MX] **México**        | **4** - 0     | Nueva Zelanda ![][flag_NZ]      | [#1](https://osu.ppy.sh/mp/6667239) |
+| ![][flag_CA] **Canadá**        | **4** - 0     | Bolivia ![][flag_BO]            | Victoria por default          |
+| ![][flag_KR] **Corea del Sur** | **4** - 2     | Alemania ![][flag_DE]           | [#1](https://osu.ppy.sh/mp/6680444) |
+| ![][flag_CN] **China**         | **4** - 3     | Indonesia ![][flag_ID]          | [#1](https://osu.ppy.sh/mp/6680664) |
+| ![][flag_NZ] Nueva Zelanda     | 0     - **4** | **Suecia** ![][flag_SE]         | Victoria por default          |
+| ![][flag_MY] Malasia           | 1     - **4** | **Japón** ![][flag_JP]          | [#1](https://osu.ppy.sh/mp/6681641) |
+| ![][flag_DK] Dinamarca         | 0     - 0     | Nueva Zelanda ![][flag_NZ]      | No jugado                     |
+| ![][flag_TW] **Taiwán**        | **4** - 0     | Países Bajos ![][flag_NL]       | [#1](https://osu.ppy.sh/mp/6681780) |
+| ![][flag_ID] **Indonesia**     | **4** - 0     | Uruguay ![][flag_UY]            | [#1](https://osu.ppy.sh/mp/6682737) |
+| ![][flag_HK] **Hong Kong**     | **4** - 3     | Polonia ![][flag_PL]            | [#1](https://osu.ppy.sh/mp/6682744) |
+| ![][flag_SG] **Singapur**      | **4** - 2     | Noruega ![][flag_NO]            | [#1](https://osu.ppy.sh/mp/6682800) |
+| ![][flag_TW] **Taiwán**        | **4** - 2     | Noruega ![][flag_NO]            | [#1](https://osu.ppy.sh/mp/6683945) |
+| ![][flag_AT] Austria           | 0     - **4** | **Malasia** ![][flag_MY]        | [#1](https://osu.ppy.sh/mp/6683957) |
+| ![][flag_AR] Argentina         | 0     - **4** | **Canadá** ![][flag_CA]         | Victoria por default          |
+| ![][flag_KR] **Corea del Sur** | **4** - 0     | Canadá ![][flag_CA]             | Victoria por default          |
+| ![][flag_FI] **Finlandia**     | **4** - 0     | Croacia ![][flag_HR]            | [#1](https://osu.ppy.sh/mp/6685074) |
+| ![][flag_NL] Países Bajos      | 1     - **4** | **Singapur** ![][flag_SG]       | [#1](https://osu.ppy.sh/mp/6685076) |
+| ![][flag_MX] **México**        | **4** - 0     | Dinamarca ![][flag_DK]          | Victoria por default          |
+| ![][flag_HK] **Hong Kong**     | **4** - 0     | Estonia ![][flag_EE]            | [#1](https://osu.ppy.sh/mp/6685082) |
 
 ### Octavos de final
 
 | Equipo A                                          | Scores        | Equipo B                                       | Historial                     |
 |:--------------------------------------------------|:-------------:|-----------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Gb.gif) Reino Unido        | 0     - **5** | **Finlandia**   ![](/wiki/shared/flag/Fi.gif) | [#1](https://osu.ppy.sh/mp/6808334) |
-| ![](/wiki/shared/flag/Se.gif) **Suecia**         | **5** - 0     | Malasia      ![](/wiki/shared/flag/My.gif)    | [#1](https://osu.ppy.sh/mp/6808918) |
-| ![](/wiki/shared/flag/Es.gif) España             | 2     - **5** | **Singapur** ![](/wiki/shared/flag/Sg.gif)    | [#1](https://osu.ppy.sh/mp/6810811) |
-| ![](/wiki/shared/flag/Id.gif) **Indonesia**      | **5** - 0     | Tailandia      ![](/wiki/shared/flag/Th.gif)  | [#1](https://osu.ppy.sh/mp/6835441) |
-| ![](/wiki/shared/flag/Kr.gif) **Corea del Sur**  | **5** - 1     | Polonia        ![](/wiki/shared/flag/Pl.gif)  | [#1](https://osu.ppy.sh/mp/6837116) |
-| ![](/wiki/shared/flag/Hk.gif) Hong Kong          | 1     - **5** | **Alemania**   ![](/wiki/shared/flag/De.gif)  | [#1](https://osu.ppy.sh/mp/6838919) |
-| ![](/wiki/shared/flag/Jp.gif) **Japón**          | **5** - 1     | México        ![](/wiki/shared/flag/Mx.gif)   | [#1](https://osu.ppy.sh/mp/6840792) |
-| ![](/wiki/shared/flag/Us.gif) **Estados Unidos** | **5** - 4     | Uruguay       ![](/wiki/shared/flag/Uy.gif)   | [#1](https://osu.ppy.sh/mp/6842138) |
+| ![][flag_GB] Reino Unido        | 0     - **5** | **Finlandia**   ![][flag_FI] | [#1](https://osu.ppy.sh/mp/6808334) |
+| ![][flag_SE] **Suecia**         | **5** - 0     | Malasia      ![][flag_MY]    | [#1](https://osu.ppy.sh/mp/6808918) |
+| ![][flag_ES] España             | 2     - **5** | **Singapur** ![][flag_SG]    | [#1](https://osu.ppy.sh/mp/6810811) |
+| ![][flag_ID] **Indonesia**      | **5** - 0     | Tailandia      ![][flag_TH]  | [#1](https://osu.ppy.sh/mp/6835441) |
+| ![][flag_KR] **Corea del Sur**  | **5** - 1     | Polonia        ![][flag_PL]  | [#1](https://osu.ppy.sh/mp/6837116) |
+| ![][flag_HK] Hong Kong          | 1     - **5** | **Alemania**   ![][flag_DE]  | [#1](https://osu.ppy.sh/mp/6838919) |
+| ![][flag_JP] **Japón**          | **5** - 1     | México        ![][flag_MX]   | [#1](https://osu.ppy.sh/mp/6840792) |
+| ![][flag_US] **Estados Unidos** | **5** - 4     | Uruguay       ![][flag_UY]   | [#1](https://osu.ppy.sh/mp/6842138) |
 
 ### Cuartos de final
 
 | Equipo A                                         | Scores        | Equipo B                                    | Historial                     |
 |:-------------------------------------------------|:-------------:|--------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Fi.gif) Finlandia         | 4     - **5** | **Japón**   ![](/wiki/shared/flag/Jp.gif)  | [#1](https://osu.ppy.sh/mp/6972405) |
-| ![](/wiki/shared/flag/Kr.gif) **Corea del Sur** | **5** - 2     | Indonesia   ![](/wiki/shared/flag/Id.gif)  | [#1](https://osu.ppy.sh/mp/6974337) |
-| ![](/wiki/shared/flag/Se.gif) **Suecia**        | **5** - 4     | Singapur   ![](/wiki/shared/flag/Sg.gif)   | [#1](https://osu.ppy.sh/mp/6975640) |
-| ![](/wiki/shared/flag/Us.gif) Estados Unidos    | 1     - **5** | **Alemania** ![](/wiki/shared/flag/De.gif) | [#1](https://osu.ppy.sh/mp/6977532) |
+| ![][flag_FI] Finlandia         | 4     - **5** | **Japón**   ![][flag_JP]  | [#1](https://osu.ppy.sh/mp/6972405) |
+| ![][flag_KR] **Corea del Sur** | **5** - 2     | Indonesia   ![][flag_ID]  | [#1](https://osu.ppy.sh/mp/6974337) |
+| ![][flag_SE] **Suecia**        | **5** - 4     | Singapur   ![][flag_SG]   | [#1](https://osu.ppy.sh/mp/6975640) |
+| ![][flag_US] Estados Unidos    | 1     - **5** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/mp/6977532) |
 
 ### Semifinales
 
 | Equipo A                                    | Scores        | Equipo B                                         | Historial                     |
 |:--------------------------------------------|:-------------:|-------------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Se.gif) Suecia       | 2     - **6** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif) | [#1](https://osu.ppy.sh/mp/7127415) |
-| ![](/wiki/shared/flag/De.gif) **Alemania** | **6** - 1     | Japón           ![](/wiki/shared/flag/Jp.gif)   | [#1](https://osu.ppy.sh/mp/7128373) |
+| ![][flag_SE] Suecia       | 2     - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/mp/7127415) |
+| ![][flag_DE] **Alemania** | **6** - 1     | Japón           ![][flag_JP]   | [#1](https://osu.ppy.sh/mp/7128373) |
 
 ### Final / Tercer puesto
 
 | Equipo A                                  | Scores    | Equipo B                                         | Historial                     |
 |:------------------------------------------|:---------:|-------------------------------------------------:|-------------------------------|
-| ![](/wiki/shared/flag/Se.gif) **Suecia** | **6** - 5 | Japón             ![](/wiki/shared/flag/Jp.gif) | [#1](https://osu.ppy.sh/mp/7314303) |
-| ![](/wiki/shared/flag/De.gif) Alemania   | 3 - **6** | **Corea del Sur** ![](/wiki/shared/flag/Kr.gif) | [#1](https://osu.ppy.sh/mp/7317343) |
+| ![][flag_SE] **Suecia** | **6** - 5 | Japón             ![][flag_JP] | [#1](https://osu.ppy.sh/mp/7314303) |
+| ![][flag_DE] Alemania   | 3 - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/mp/7317343) |
 
 ------------------------------------------------------------------------
 
@@ -479,3 +479,37 @@ Reglamento
 3.  Todas las fases de eliminación directa se llevarán a cabo el sábado o domingo (ver Tournament Schedule).
 4.  La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
 5.  Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BO]: /wiki/shared/flag/BO.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_EE]: /wiki/shared/flag/EE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HR]: /wiki/shared/flag/HR.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PE]: /wiki/shared/flag/PE.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_UY]: /wiki/shared/flag/UY.gif

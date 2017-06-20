@@ -5,7 +5,7 @@ osu! Taiko World Cup 2015
 
 El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](https://osu.ppy.sh/g/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
-El país campeón del torneo anterior es **![](/wiki/shared/flag/Jp.gif) Japón**.
+El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 Agenda del Torneo
 --------------------
@@ -35,11 +35,11 @@ Organización
 
 | Job                        | Person                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administradores del Torneo | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565)  |
-| Seleccionador de Beatmaps  | ![](/wiki/shared/flag/De.gif) [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
-| Conductores (Video Stream) | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257) |
-| Comentaristas              | ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347)                                                               |
-| Estadistico                | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
+| Administradores del Torneo | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565)  |
+| Seleccionador de Beatmaps  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
+| Conductores (Video Stream) | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257) |
+| Comentaristas              | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347)                                                               |
+| Estadistico                | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -181,3 +181,11 @@ Set de Reglas
 3.  Todas las Doble Eliminacion serán en Sabado o Domingo.
 4.  Los horarios serán asignados por los **Administradores del Torneo**, estos serán revelados los domingos antes de las primeras partidas de la fase en curso. Los **Administradores del Torneo** intentarán crear los horarios de acuerdo a los participantes y sus zonas horarias.
 5.  Los capitanes son responsables de la disponibilidad de sus equipos. La idea de tener 6 jugadores por equipos es para asegurar que cada equipo pueda tener al menos 3 jugadores por cada partida. Si un equipo no cuenta con 3 jugadores, la partida sera considerada perdida.
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_US]: /wiki/shared/flag/US.gif

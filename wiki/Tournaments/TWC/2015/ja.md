@@ -3,7 +3,7 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![](/wiki/shared/flag/Jp.gif) 日本**です。
+**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![][flag_JP] 日本**です。
 
 トーナメント日程
 ---------------------
@@ -33,11 +33,11 @@ osu! Taiko World Cup 2015
 
 | Job   | Person                                                                                                                                                                                        |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 大会運営者 | ![](/wiki/shared/flag/De.gif) [Loctav](https://osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](https://osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](https://osu.ppy.sh/u/318565)  |
-| 譜面選択者 | ![](/wiki/shared/flag/De.gif) [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
-| 配信者   | ![](/wiki/shared/flag/Au.gif) [peppy](https://osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](https://osu.ppy.sh/u/776257) |
-| 実況者   | ![](/wiki/shared/flag/Fr.gif) [Mr Color](https://osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](https://osu.ppy.sh/u/6347)                                                               |
-| 統計者   | ![](/wiki/shared/flag/Pl.gif) [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
+| 大会運営者 | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565)  |
+| 譜面選択者 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
+| 配信者   | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257) |
+| 実況者   | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347)                                                               |
+| 統計者   | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -46,39 +46,39 @@ osu! Taiko World Cup 2015
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Au.gif) Australia   | **[Slaybelle](https://osu.ppy.sh/u/3084044)**, [dajayeway](https://osu.ppy.sh/u/4841352), [Fideliant](https://osu.ppy.sh/u/2200052), [Pew](https://osu.ppy.sh/u/597692)                                                                                                          |
-| ![](/wiki/shared/flag/Sg.gif) Singapore   | **[taikoplayer123](https://osu.ppy.sh/u/3580055)**, [SilverSufuru](https://osu.ppy.sh/u/3769280), [xKwan](https://osu.ppy.sh/u/403397)                                                                                                                                     |
-| ![](/wiki/shared/flag/Fi.gif) Finland     | **[DarkSylarn](https://osu.ppy.sh/u/4266840)**, [zheep](https://osu.ppy.sh/u/1889827), [Pelaaja_X](https://osu.ppy.sh/u/3543051)                                                                                                                                           |
-| ![](/wiki/shared/flag/Ph.gif) Philippines | **[senkai](https://osu.ppy.sh/u/1150178)**, [Alkaeid](https://osu.ppy.sh/u/567322), [Rumovik](https://osu.ppy.sh/u/3831514), [Primrea](https://osu.ppy.sh/u/943743)                                                                                                              |
-| ![](/wiki/shared/flag/Kr.gif) South Korea | **[bbj0920](https://osu.ppy.sh/u/87546)**, [Runa](https://osu.ppy.sh/u/4643294), [SweetBloodyLove](https://osu.ppy.sh/u/139827), [Lunaris Filia](https://osu.ppy.sh/u/1807472), [L y s](https://osu.ppy.sh/u/211825)                                                                   |
-| ![](/wiki/shared/flag/Tw.gif) Taiwan      | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/u/242910)**, [jordan\_sur](https://osu.ppy.sh/u/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/u/457766), [howar5041](https://osu.ppy.sh/u/584411), [monkeydluffy3u4](https://osu.ppy.sh/u/2277798), [mliencheng](https://osu.ppy.sh/u/586659) |
+| ![][flag_AU] Australia   | **[Slaybelle](https://osu.ppy.sh/u/3084044)**, [dajayeway](https://osu.ppy.sh/u/4841352), [Fideliant](https://osu.ppy.sh/u/2200052), [Pew](https://osu.ppy.sh/u/597692)                                                                                                          |
+| ![][flag_SG] Singapore   | **[taikoplayer123](https://osu.ppy.sh/u/3580055)**, [SilverSufuru](https://osu.ppy.sh/u/3769280), [xKwan](https://osu.ppy.sh/u/403397)                                                                                                                                     |
+| ![][flag_FI] Finland     | **[DarkSylarn](https://osu.ppy.sh/u/4266840)**, [zheep](https://osu.ppy.sh/u/1889827), [Pelaaja_X](https://osu.ppy.sh/u/3543051)                                                                                                                                           |
+| ![][flag_PH] Philippines | **[senkai](https://osu.ppy.sh/u/1150178)**, [Alkaeid](https://osu.ppy.sh/u/567322), [Rumovik](https://osu.ppy.sh/u/3831514), [Primrea](https://osu.ppy.sh/u/943743)                                                                                                              |
+| ![][flag_KR] South Korea | **[bbj0920](https://osu.ppy.sh/u/87546)**, [Runa](https://osu.ppy.sh/u/4643294), [SweetBloodyLove](https://osu.ppy.sh/u/139827), [Lunaris Filia](https://osu.ppy.sh/u/1807472), [L y s](https://osu.ppy.sh/u/211825)                                                                   |
+| ![][flag_TW] Taiwan      | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/u/242910)**, [jordan\_sur](https://osu.ppy.sh/u/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/u/457766), [howar5041](https://osu.ppy.sh/u/584411), [monkeydluffy3u4](https://osu.ppy.sh/u/2277798), [mliencheng](https://osu.ppy.sh/u/586659) |
 
 | Country                                | Group B Members                                                                                                                                                                                                              |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/No.gif) Norway  | **[agu](https://osu.ppy.sh/u/1109122)**, [K i u i](https://osu.ppy.sh/u/1794766), [Yukizo](https://osu.ppy.sh/u/2345079)                                                                                                                       |
-| ![](/wiki/shared/flag/Dk.gif) Denmark | **[Zheant](https://osu.ppy.sh/u/708656)**, [TraxieChan](https://osu.ppy.sh/u/455552), [Broder](https://osu.ppy.sh/u/2507101), [Only1Magma](https://osu.ppy.sh/u/3922957)                                                                             |
-| ![](/wiki/shared/flag/Ua.gif) Ukraine | **[Anny](https://osu.ppy.sh/u/249094)**, [Aka](https://osu.ppy.sh/u/1307553), [gavnono](https://osu.ppy.sh/u/1625581)                                                                                                                          |
-| ![](/wiki/shared/flag/Pl.gif) Poland  | **[Acrith](https://osu.ppy.sh/u/389880)**, [DarkStoorM](https://osu.ppy.sh/u/174347), [Elfie](https://osu.ppy.sh/u/1676016), [Dess1210](https://osu.ppy.sh/u/295855), [Karryu](https://osu.ppy.sh/u/3402967), [-Jamu-](https://osu.ppy.sh/u/2271556)             |
-| ![](/wiki/shared/flag/De.gif) Germany | **[Luna](https://osu.ppy.sh/u/588007)**, [Mew104](https://osu.ppy.sh/u/2345156), [tiamus](https://osu.ppy.sh/u/515277), [\[TaikoTori\]](https://osu.ppy.sh/u/1074143), [DarkDunskin](https://osu.ppy.sh/u/98985), [\[TaikoSlaxi\]](https://osu.ppy.sh/u/1365973) |
-| ![](/wiki/shared/flag/Cn.gif) China   | **[yys428](https://osu.ppy.sh/u/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/u/3672537), [Shiki\_nyan](https://osu.ppy.sh/u/345364), [moe moe moe](https://osu.ppy.sh/u/1804904)                                                                 |
+| ![][flag_NO] Norway  | **[agu](https://osu.ppy.sh/u/1109122)**, [K i u i](https://osu.ppy.sh/u/1794766), [Yukizo](https://osu.ppy.sh/u/2345079)                                                                                                                       |
+| ![][flag_DK] Denmark | **[Zheant](https://osu.ppy.sh/u/708656)**, [TraxieChan](https://osu.ppy.sh/u/455552), [Broder](https://osu.ppy.sh/u/2507101), [Only1Magma](https://osu.ppy.sh/u/3922957)                                                                             |
+| ![][flag_UA] Ukraine | **[Anny](https://osu.ppy.sh/u/249094)**, [Aka](https://osu.ppy.sh/u/1307553), [gavnono](https://osu.ppy.sh/u/1625581)                                                                                                                          |
+| ![][flag_PL] Poland  | **[Acrith](https://osu.ppy.sh/u/389880)**, [DarkStoorM](https://osu.ppy.sh/u/174347), [Elfie](https://osu.ppy.sh/u/1676016), [Dess1210](https://osu.ppy.sh/u/295855), [Karryu](https://osu.ppy.sh/u/3402967), [-Jamu-](https://osu.ppy.sh/u/2271556)             |
+| ![][flag_DE] Germany | **[Luna](https://osu.ppy.sh/u/588007)**, [Mew104](https://osu.ppy.sh/u/2345156), [tiamus](https://osu.ppy.sh/u/515277), [\[TaikoTori\]](https://osu.ppy.sh/u/1074143), [DarkDunskin](https://osu.ppy.sh/u/98985), [\[TaikoSlaxi\]](https://osu.ppy.sh/u/1365973) |
+| ![][flag_CN] China   | **[yys428](https://osu.ppy.sh/u/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/u/3672537), [Shiki\_nyan](https://osu.ppy.sh/u/345364), [moe moe moe](https://osu.ppy.sh/u/1804904)                                                                 |
 
 | Country                                  | Group C Members                                                                                                                                                                                                                  |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/It.gif) Italy     | **[Ikkun](https://osu.ppy.sh/u/1059945)**, [Earine](https://osu.ppy.sh/u/2485549), [Jey](https://osu.ppy.sh/u/2480153), [DuBisk](https://osu.ppy.sh/u/3371035), [Morshu](https://osu.ppy.sh/u/166169), [LinkerWTF](https://osu.ppy.sh/u/1407595)                     |
-| ![](/wiki/shared/flag/Se.gif) Sweden    | **[Bnyuu](https://osu.ppy.sh/u/2290294)**, [boat](https://osu.ppy.sh/u/276074), [Tanaka](https://osu.ppy.sh/u/1897905), [WilleGO97](https://osu.ppy.sh/u/3880756)                                                                                        |
-| ![](/wiki/shared/flag/Ca.gif) Canada    | **[Tasha](https://osu.ppy.sh/u/1031958)**, [Fudgyking](https://osu.ppy.sh/u/3802922), [janitoreihil](https://osu.ppy.sh/u/3307897), [Wheelcakes](https://osu.ppy.sh/u/3513722), [Ilfri-chan](https://osu.ppy.sh/u/2518210), [IControl](https://osu.ppy.sh/u/2307285) |
-| ![](/wiki/shared/flag/Ar.gif) Argentina | **[Pollotuc](https://osu.ppy.sh/u/42440)**, [Nearex](https://osu.ppy.sh/u/1893238), [cyntuu mirandaa](https://osu.ppy.sh/u/724230)                                                                                                                 |
-| ![](/wiki/shared/flag/Fr.gif) France    | **[Nashmun](https://osu.ppy.sh/u/49031)**, [TimmyAkmed](https://osu.ppy.sh/u/1799973), [Fraolinch](https://osu.ppy.sh/u/205257), [omegaflo](https://osu.ppy.sh/u/83291), [\_Gezo\_](https://osu.ppy.sh/u/481582), [Jinyan](https://osu.ppy.sh/u/669531)              |
-| ![](/wiki/shared/flag/Jp.gif) Japan     | **[sobatsuyu100](https://osu.ppy.sh/u/2076374)**, [tasuke912](https://osu.ppy.sh/u/2774767), [cagalin](https://osu.ppy.sh/u/2586173), [Rydan72261](https://osu.ppy.sh/u/5309575), [coDMo2ooo](https://osu.ppy.sh/u/3644233), [1RoHa\_](https://osu.ppy.sh/u/4632503) |
+| ![][flag_IT] Italy     | **[Ikkun](https://osu.ppy.sh/u/1059945)**, [Earine](https://osu.ppy.sh/u/2485549), [Jey](https://osu.ppy.sh/u/2480153), [DuBisk](https://osu.ppy.sh/u/3371035), [Morshu](https://osu.ppy.sh/u/166169), [LinkerWTF](https://osu.ppy.sh/u/1407595)                     |
+| ![][flag_SE] Sweden    | **[Bnyuu](https://osu.ppy.sh/u/2290294)**, [boat](https://osu.ppy.sh/u/276074), [Tanaka](https://osu.ppy.sh/u/1897905), [WilleGO97](https://osu.ppy.sh/u/3880756)                                                                                        |
+| ![][flag_CA] Canada    | **[Tasha](https://osu.ppy.sh/u/1031958)**, [Fudgyking](https://osu.ppy.sh/u/3802922), [janitoreihil](https://osu.ppy.sh/u/3307897), [Wheelcakes](https://osu.ppy.sh/u/3513722), [Ilfri-chan](https://osu.ppy.sh/u/2518210), [IControl](https://osu.ppy.sh/u/2307285) |
+| ![][flag_AR] Argentina | **[Pollotuc](https://osu.ppy.sh/u/42440)**, [Nearex](https://osu.ppy.sh/u/1893238), [cyntuu mirandaa](https://osu.ppy.sh/u/724230)                                                                                                                 |
+| ![][flag_FR] France    | **[Nashmun](https://osu.ppy.sh/u/49031)**, [TimmyAkmed](https://osu.ppy.sh/u/1799973), [Fraolinch](https://osu.ppy.sh/u/205257), [omegaflo](https://osu.ppy.sh/u/83291), [\_Gezo\_](https://osu.ppy.sh/u/481582), [Jinyan](https://osu.ppy.sh/u/669531)              |
+| ![][flag_JP] Japan     | **[sobatsuyu100](https://osu.ppy.sh/u/2076374)**, [tasuke912](https://osu.ppy.sh/u/2774767), [cagalin](https://osu.ppy.sh/u/2586173), [Rydan72261](https://osu.ppy.sh/u/5309575), [coDMo2ooo](https://osu.ppy.sh/u/3644233), [1RoHa\_](https://osu.ppy.sh/u/4632503) |
 
 | Country                                      | Group D Members                                                                                                                                                                                                                        |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/wiki/shared/flag/Hu.gif) Hungary       | **[\_verto\_](https://osu.ppy.sh/u/2015300)**, [-Arp-](https://osu.ppy.sh/u/3027305), [lussy\_6](https://osu.ppy.sh/u/226128)                                                                                                                            |
-| ![](/wiki/shared/flag/Id.gif) Indonesia     | **[Lightning Wyvern](https://osu.ppy.sh/u/1533122)**, [\_Destroyer\_](https://osu.ppy.sh/u/3185598), [aika357](https://osu.ppy.sh/u/2488637), [kpokol12](https://osu.ppy.sh/u/3577322), [Niko-nyan](https://osu.ppy.sh/u/906991), [Senritsu](https://osu.ppy.sh/u/1165368) |
-| ![](/wiki/shared/flag/Cl.gif) Chile         | **[-Anhedonia-](https://osu.ppy.sh/u/920861)**, [-[Kuroha]-](https://osu.ppy.sh/u/4193212), [MikuWRS](https://osu.ppy.sh/u/1619547), [Pohm](https://osu.ppy.sh/u/2083934)                                                                                      |
-| ![](/wiki/shared/flag/Es.gif) Spain         | **[Hanjamon](https://osu.ppy.sh/u/1703330)**, [CARRI](https://osu.ppy.sh/u/854536), [AlexGc96](https://osu.ppy.sh/u/1130179), [MYRKUL](https://osu.ppy.sh/u/255933), [taigoplayers](https://osu.ppy.sh/u/3687287)                                                    |
-| ![](/wiki/shared/flag/Hk.gif) Hong Kong     | **[KanaRin](https://osu.ppy.sh/u/310747)**, [john26148853](https://osu.ppy.sh/u/2930055), [ice man007](https://osu.ppy.sh/u/1926937), [ll-oscar](https://osu.ppy.sh/u/1488736), [aabc271](https://osu.ppy.sh/u/155707), [ztrike](https://osu.ppy.sh/u/2568493)             |
-| ![](/wiki/shared/flag/Us.gif) United States | **[Two Fruit Cakes](https://osu.ppy.sh/u/437259)**, [FLANKs](https://osu.ppy.sh/u/2398168), [OzzyOzrock](https://osu.ppy.sh/u/465153), [Shyguy](https://osu.ppy.sh/u/178038), [Kuro](https://osu.ppy.sh/u/1735031), [goatlife](https://osu.ppy.sh/u/4408784)               |
+| ![][flag_HU] Hungary       | **[\_verto\_](https://osu.ppy.sh/u/2015300)**, [-Arp-](https://osu.ppy.sh/u/3027305), [lussy\_6](https://osu.ppy.sh/u/226128)                                                                                                                            |
+| ![][flag_ID] Indonesia     | **[Lightning Wyvern](https://osu.ppy.sh/u/1533122)**, [\_Destroyer\_](https://osu.ppy.sh/u/3185598), [aika357](https://osu.ppy.sh/u/2488637), [kpokol12](https://osu.ppy.sh/u/3577322), [Niko-nyan](https://osu.ppy.sh/u/906991), [Senritsu](https://osu.ppy.sh/u/1165368) |
+| ![][flag_CL] Chile         | **[-Anhedonia-](https://osu.ppy.sh/u/920861)**, [-[Kuroha]-](https://osu.ppy.sh/u/4193212), [MikuWRS](https://osu.ppy.sh/u/1619547), [Pohm](https://osu.ppy.sh/u/2083934)                                                                                      |
+| ![][flag_ES] Spain         | **[Hanjamon](https://osu.ppy.sh/u/1703330)**, [CARRI](https://osu.ppy.sh/u/854536), [AlexGc96](https://osu.ppy.sh/u/1130179), [MYRKUL](https://osu.ppy.sh/u/255933), [taigoplayers](https://osu.ppy.sh/u/3687287)                                                    |
+| ![][flag_HK] Hong Kong     | **[KanaRin](https://osu.ppy.sh/u/310747)**, [john26148853](https://osu.ppy.sh/u/2930055), [ice man007](https://osu.ppy.sh/u/1926937), [ll-oscar](https://osu.ppy.sh/u/1488736), [aabc271](https://osu.ppy.sh/u/155707), [ztrike](https://osu.ppy.sh/u/2568493)             |
+| ![][flag_US] United States | **[Two Fruit Cakes](https://osu.ppy.sh/u/437259)**, [FLANKs](https://osu.ppy.sh/u/2398168), [OzzyOzrock](https://osu.ppy.sh/u/465153), [Shyguy](https://osu.ppy.sh/u/178038), [Kuro](https://osu.ppy.sh/u/1735031), [goatlife](https://osu.ppy.sh/u/4408784)               |
 
 リンク
 -----------
@@ -212,3 +212,28 @@ osu! Taiko World Cup 2015
 4.  日程は大会運営者が管理します。日程は行われているステージの最初の試合がある前の日曜日に公表されます。大会運営者は参加者のタイムゾーンを考慮して日程を作成するよう努めます。
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 6.  キャプテンはチームの予定の管理者です。
+
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_US]: /wiki/shared/flag/US.gif
