@@ -35,17 +35,17 @@ The next step is to add timing to your beatmap.
 _See also: [Timing](/wiki/Timing)._
 
 **Timing is vital!**
-An incorrectly timed maps will not be considered for ranking.
+Incorrectly timed maps will not be considered for ranking.
 You must make sure that your timing is perfect before adding any [hit objects](/wiki/hit_objects).
 
 If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10).
 This will save you (and the modding community) a lot of hassle later on.
 
-### Beatmap Editor
+### Compose
 
-_See also: [Beatmap Editor](/wiki/Beatmap_Editor)._
+_See also: [Compose](/wiki/Compose)._
 
-The beatmap editor is where you will probably spend, if not, a majority of your time here in the beatmap editor.
+The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
 It is where you can visually place hit objects and toggle their [hit sounds](/wiki/hit_sounds)
 
 ### Storyboards
