@@ -23,31 +23,19 @@ Each of these sections currently have 4 volumes to them.
 
 ### Requirements
 
-- You must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
+- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
 - The played game mode must be [osu!standard](/wiki/osu!standard).
-- Extract the theme pack from the `.zip` file and place the contents into the `songs` folder.
-  From here, open the osu!client and you can start playing.
-  - If the beatmap is in `.zip` form, drop it as `.zip` form and don't go around making folders for them.
-  If you do make folders for them, you may not get the achievement and the **`CLEARED`** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
-  - Alternately, you can download the songs inside manually one by one and it would still count.
+- Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
+  From here, open the osu!client and let the client parse the files before playing the beatmaps.
+  - Alternatively, the player can download the songs inside manually one by one and it would still count.
 - Any variations (like different creator) of the song is not counted.
   It **must** be that specific song and that specific creator at that specific beatmap.
-- Your account in question must be logged in to your osu!client (not osu!web).
-- Mods can be used except for the ones that can cause unranked play (e.g. [auto pilot](/wiki/AP)).
-  Use the mods wisely to your favour.
+- The player's account in question must be logged in to the osu!client (not osu!web).
 
 ### Notes
 
-- After you complete your achievement, you can choose to delete the songs of the theme.
-  Your achievement, ranked score and accuracy will stay.
-  If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.
-- If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there.
-  The song you completed will be marked **`CLEARED`** in bold.
-- Badge given after you complete all the songs in that theme in question.
-  - Be patient and make sure your score is submitted and ranked properly first.
-    You won't want to repeat that beatmap song again especially if it is hard for you right?
-- Make good use of the [offset wizard](/wiki/offset_wizard).
-  The songs are quite old and some [hit objects](/wiki/hit_objects) may come late or early so make sure to look out for the online offset, should it appeared.
+- Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
+- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
 
 Skill
 -----
@@ -105,6 +93,7 @@ _See also: [Game Modifiers](/wiki/Game_Modifiers)._
 
 The Mod Introduction achievements can be obtained by clearing maps with the specified game modifier.
 They are meant to encourage newer players to try out each mod and explore what the game has to offer.
+Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn _any_ of the game modifier medals for that play.
 
 | Difficulty Increasing | Difficulty Reducing | Special |
 | :---- | :---: | :---: |
@@ -117,7 +106,8 @@ They are meant to encourage newer players to try out each mod and explore what t
 Hush-Hush
 ---------
 
-Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement.
+Achievements of this kind have no obvious way to get them.
+The player must find out what needs to be done in order to unlock the achievement.
 The title itself is a clue.
 
 | ![Don't let the bunny distract you!](/wiki/Achievements/img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](/wiki/Achievements/img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](/wiki/Achievements/img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](/wiki/Achievements/img/all-secret-dancer.png "Non-stop Dancer") |
