@@ -43,4 +43,4 @@ Cameos
 
 ![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")
-![Old pippi & friends in depreciated Special Modes.](img/CtB_Menu.png "Old pippi & friends in depreciated Special Modes.")
+![Old pippi & friends in depreciated Special Modes.](/wiki/shared/Ctb_logo.jpg "Old pippi & friends in depreciated Special Modes.")
