@@ -1,19 +1,16 @@
 Achievements
 ============
 
-**Achievements** (also called **Medals**) are little badges on one's profile which indicate that someone has accomplished an exceptional goal. Currently, they are divided into 5 groups.
+Achievements, also called _medals_, are little badges on a user's profile which indicate that the user has accomplished an exceptional goal.
+Currently, they are divided into 5 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), and [Hush-Hush](#hush-hush).
 
 Beatmap Packs
 -------------
 
-**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). You must play in [Standard](/wiki/Game_Modes/osu!) mode to qualify a **CLEARED** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
+**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
+You must play in [osu!standard](/wiki/osu!standard) mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
 
-There are currently 16 achievements in this group which are divided into 4 sections:
-
--   Video Game Pack
--   Anime Pack
--   Internet! Pack
--   Rhythm Game Pack
+There are currently 16 achievements in this group which are divided into 4 packs: Video Game, Anime, Internet!, and Rhythm Game.
 
 Each of these sections currently have 4 volumes to them.
 
@@ -26,35 +23,46 @@ Each of these sections currently have 4 volumes to them.
 
 ### Requirements
 
--   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
--   The mode must be [osu!standard](/wiki/Game_Modes/osu!).                                       
--   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
-    -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
-    -   Alternately, you can download the songs inside manually one by one and it would still count.
--   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.  
--   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.
--   Mods can be used except mods that can cause unranked play (like Auto-pilot). Use the mods wisely to your favour.
+- You must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
+- The played game mode must be [osu!standard](/wiki/osu!standard).
+- Extract the theme pack from the `.zip` file and place the contents into the `songs` folder.
+  From here, open the osu!client and you can start playing.
+  - If the beatmap is in `.zip` form, drop it as `.zip` form and don't go around making folders for them.
+  If you do make folders for them, you may not get the achievement and the **`CLEARED`** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
+  - Alternately, you can download the songs inside manually one by one and it would still count.
+- Any variations (like different creator) of the song is not counted.
+  It **must** be that specific song and that specific creator at that specific beatmap.
+- Your account in question must be logged in to your osu!client (not osu!web).
+- Mods can be used except for the ones that can cause unranked play (e.g. [auto pilot](/wiki/AP)).
+  Use the mods wisely to your favour.
 
 ### Notes
 
--   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.  
--   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
--   Badge given after you complete all the songs in that theme in question.
-    -  Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?
--   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
+- After you complete your achievement, you can choose to delete the songs of the theme.
+  Your achievement, ranked score and accuracy will stay.
+  If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.
+- If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there.
+  The song you completed will be marked **`CLEARED`** in bold.
+- Badge given after you complete all the songs in that theme in question.
+  - Be patient and make sure your score is submitted and ranked properly first.
+    You won't want to repeat that beatmap song again especially if it is hard for you right?
+- Make good use of the [offset wizard](/wiki/offset_wizard).
+  The songs are quite old and some [hit objects](/wiki/hit_objects) may come late or early so make sure to look out for the online offset, should it appeared.
 
 Skill
 -----
 
-**Skill** achievements are currently divided into three groups: **Combo**, **High Ranker**, and **Star-based**
+Skill achievements are currently divided into three groups: Combo, High Ranker, and Star-based.
 
-**The Combo** achievements can be obtained by gaining a specific [Combo](/wiki/Glossary) in osu! Standard mode and can be completed with any one song.
-Achieving the same combo in Taiko, Catch the Beat or osu!mania mode does **not** result in getting the achievement.
+**The Combo** achievements can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song.
+Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the achievement.
 
-For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead of ranked beatmaps. Do not search for unapproved beatmaps.
+For the 1,000 and 2,000 combo achievements, you should find an approved beatmaps instead of ranked beatmaps.
+**However, do not search for or play unapproved beatmaps!**
 
-**The High Ranker** achievements can be obtained by reaching a certain global ranking position in **any** game mode.
+---
 
+The High Ranker achievements can be obtained by reaching a certain global ranking position in **any** game mode.
 
 | Combo | The High Ranker |
 | :---: | :-------------: |
@@ -63,21 +71,25 @@ For 1,000 and 2,000 combo achievement, you should find approved beatmaps instead
 | ![1000 Combo (any song)](/wiki/Achievements/img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](/wiki/Achievements/img/all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](/wiki/Achievements/img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](/wiki/Achievements/img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
+---
 
-**Star-based** achivements are split into two groups, **Pass** and **S**. The **Pass** achievements can be obtained by passing any map of a certain star difficulty. The **S** achievements will be obtained if you pass the map with a S ranking whilst also having a FC. The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn an achievement. Shown below are the **Pass** and **S** medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
-
+The Star-based achivements are split into two groups, _Pass_ and _S_.
+The _Pass_ achievements can be obtained by passing any map of a certain star difficulty.
+The _S_ achievements will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC).
+The difficulty of the map will round to the nearest star difficulty and will give the achievement for what it rounds to.
+You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods.
+The map must also be ranked to be able to earn an achievement.
+Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
 | ![8 Star Standard Pass](/wiki/Achievements/img/osu-skill-pass-8.png "8 Star Standard Pass") | ![8 Star Taiko Pass](/wiki/Achievements/img/taiko-skill-pass-8.png "8 Star Taiko Pass") | ![8 Star Catch the Beat Pass](/wiki/Achievements/img/fruits-skill-pass-8.png "8 Star Catch the Beat Pass") | ![8 Star Mania Pass](/wiki/Achievements/img/mania-skill-pass-8.png "8 Star Mania Pass") |
 | ![8 Star Standard S](/wiki/Achievements/img/osu-skill-fc-8.png "8 Star Standard S") | ![8 Star Taiko S](/wiki/Achievements/img/taiko-skill-fc-8.png "8 Star Taiko S") | ![8 Star Catch the Beat S](/wiki/Achievements/img/fruits-skill-fc-8.png "8 Star Catch the Beat S") | ![8 Star Mania S](/wiki/Achievements/img/mania-skill-fc-8.png "8 Star Mania S") |
 
-
 Dedication
 ----------
 
-**The Dedication** achievements can be obtained by (playing a lot of times in Standard mode / collecting many fruits in [Catch the Beat](/wiki/Game_Modes/osu!catch) mode/ hitting a lot of drum hits in [Taiko](/wiki/Game_Modes/osu!taiko) mode / pressing a lot of keys in [Mania](/wiki/Game_Modes/osu!mania)).
-
+The Dedication achievements can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
@@ -86,12 +98,13 @@ Dedication
 | ![25,000 Plays (osu! mode)](/wiki/Achievements/img/osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](/wiki/Achievements/img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](/wiki/Achievements/img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](/wiki/Achievements/img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu! mode)](/wiki/Achievements/img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](/wiki/Achievements/img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](/wiki/Achievements/img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](/wiki/Achievements/img/mania-hits-40000000.png "40,000,000 Keys") |
 
-
 Mod Introduction
 ----------------
 
-**The Mod Introduction** achievements can be obtained by clearing maps with the specified game modifier. They're meant to encourage newer players to try out each mod and explore what the game has to offer.
+_See also: [Game Modifiers](/wiki/Game_Modifiers)._
 
+The Mod Introduction achievements can be obtained by clearing maps with the specified game modifier.
+They are meant to encourage newer players to try out each mod and explore what the game has to offer.
 
 | Difficulty Increasing | Difficulty Reducing | Special |
 | :---- | :---: | :---: |
@@ -101,12 +114,11 @@ Mod Introduction
 | ![Hidden](/wiki/Achievements/img/all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](/wiki/Achievements/img/all-intro-suddendeath.png "Sudden Death") ![Perfect](/wiki/Achievements/img/all-intro-perfect.png "Perfect") | | |
 
-
 Hush-Hush
 ---------
 
-Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement. The title itself is a clue.
-
+Achievements of this kind have no obvious way to get them. The player himself must find out what he needs to do in order to unlock the achievement.
+The title itself is a clue.
 
 | ![Don't let the bunny distract you!](/wiki/Achievements/img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](/wiki/Achievements/img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](/wiki/Achievements/img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](/wiki/Achievements/img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -118,9 +130,8 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 | ![Up For The Challenge](/wiki/Achievements/img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](/wiki/Achievements/img/all-secret-lightsout.png "Lights Out") |![Unstoppable](/wiki/Achievements/img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](/wiki/Achievements/img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](/wiki/Achievements/img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](/wiki/Achievements/img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](/wiki/Achievements/img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](/wiki/Achievements/img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
-
 Trivia
 ------
 
--   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
--   peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
+- [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
+- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
