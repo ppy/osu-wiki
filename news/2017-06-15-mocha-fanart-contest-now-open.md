@@ -18,7 +18,7 @@ Hot off the heels of an unprecedented turnout for our last seasonal contest, we 
 
 Following the seasonal approach, please include the **theme of "summer"** in your artwork in any way you feel appropriate.
  
-Make sure to reference Mocha’s [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed.
+Make sure to reference Mocha’s [official design document](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf) for specifics on how she should be portrayed. We've prepared a [handy design pack](https://assets.ppy.sh/media/mocha/Mocha_Design_Package.zip) for your convenience that contains the design documentation shown above, as well as the signature motifs for the osu!taiko design which are featured heavily in her clothing.
  
 The top 10 entries selected by voters will receive 2 months of osu!supporter, as well as get a spot in the in-game background rotations for everyone to enjoy. Yes, these are a regular thing now, and you'll be seeing more options in the game client to support them very shortly.
  
