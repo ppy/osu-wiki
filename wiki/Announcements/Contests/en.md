@@ -16,8 +16,8 @@ Official beatmapping contests hosted by the osu!staff.
 Notes:
 
 - Winners of this contest will receive the "Elite Mapper" forum title
-- Winning mapsets from MBC #1 to #12 (except for MBC #6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
-- Winning mapsets from MBC #13 have been / will be featured by the osu! media team.
+- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
+- Winning mapsets since MBC \#13 have been / will be featured by the osu! media team.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
 |:-----------:|--------------------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -47,7 +47,7 @@ Aspire Contests are beatmapping contests with one special exception, they are no
 Notes:
 
 - Winners of this contest will receive the "Elite Mapper: Aspirant" forum title and an unique Aspire profile badge.
-- "Monthly Beatmapping Contest #6" is an Aspire event. But the Aspire Contest names and announces independantly from "Aspire 2016".
+- "Monthly Beatmapping Contest \#6" is an Aspire event. But the Aspire Contest names and announces independantly from "Aspire 2016".
 
 | Contest No.           | Beatmap                                                                                     | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
 |:---------------------:|---------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -131,7 +131,7 @@ Unofficial contests hosted by the communities.
 
 The Pending Cup is a mapping contest where the main participants are usually Chinese. The Pending Cup encourages creativity and major mapping principles, throughout all skill levels - especially novice mappers.
 
-#### Pending Cup #1 (2013)
+#### Pending Cup \#1 (2013)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -142,7 +142,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 - [Contest thread](https://osu.ppy.sh/forum/t/135492)
 - [Results post](https://osu.ppy.sh/forum/t/152966)
 
-#### Pending Cup #2 (2014)
+#### Pending Cup \#2 (2014)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -152,7 +152,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 - [Contest thread](https://osu.ppy.sh/forum/t/229019)
 - [Results post](https://osu.ppy.sh/forum/t/243930)
 
-#### Pending Cup #3 (2015)
+#### Pending Cup \#3 (2015)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -163,7 +163,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 - [Contest thread](https://osu.ppy.sh/forum/t/345263)
 - [Results post](https://osu.ppy.sh/forum/t/373843)
 
-#### Pending Cup #4 (2016)
+#### Pending Cup \#4 (2016)
 
 | Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -178,7 +178,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 
 Newspaper Cup is an annually mapping contest which aims at attract normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
 
-#### Newspaper Cup #1 (2015)
+#### Newspaper Cup \#1 (2015)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -188,7 +188,7 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 - [Contest thread](https://osu.ppy.sh/forum/t/272739)
 - [Results post](https://osu.ppy.sh/forum/t/312154)
 
-#### Newspaper Cup #2 (2016)
+#### Newspaper Cup \#2 (2016)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -198,7 +198,7 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 - [Contest thread](https://osu.ppy.sh/forum/t/415669)
 - [Results post](https://osu.ppy.sh/forum/t/432070)
 
-#### Newspaper Cup #3 (2017)
+#### Newspaper Cup \#3 (2017)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
