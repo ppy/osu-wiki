@@ -1,7 +1,6 @@
 # People
 
-Members of the osu!community that mantian *osu!*
-Most of the usergroups give special in-game/forum colours and/or profile badges.
+The following are user groups, made up of the osu!community members that help maintain _osu!_
 
 - [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group)
 - [Community Contributors](/wiki/People/Community_Contributors)
