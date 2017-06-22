@@ -3,6 +3,8 @@
 
 # Interface
 
+_See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)_
+
 Interface skinning elements are used in multiple game modes or part of the osu!client's user interface.
 
 ## Main Menu
