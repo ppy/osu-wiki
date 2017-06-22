@@ -183,74 +183,74 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Quarterfinals
 
-**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
+**[Download the mappack here! (102 MB)](www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
 
 | NoMod | |
 | --- | :--- |
-| [dj MAX STEROID - Arabian Rave Night (Ascendance)](http://osu.ppy.sh/b/1254591&m=2) | [Black Another] |
-| [An - Catanoph (Lavender)](http://osu.ppy.sh/b/1175369&m=2) | [exam's Overdose] |
-| [Kawada Mami - Break a spell (wairo)](http://osu.ppy.sh/b/1179665&m=2) | [Furely's Overdose] |
-| [a_hisa - inertia (Kyuare)](http://osu.ppy.sh/b/1255531&m=2) | [Overdose] |
-| [Delain - Go Away (pishifat)](http://osu.ppy.sh/b/1016263&m=2) | [Extra] |
-| [AKI AKANE - Kando*Reduction (Milan-)](http://osu.ppy.sh/b/598867&m=2) | [Pho's Elimination] |
+| [dj MAX STEROID - Arabian Rave Night (Ascendance)](https://osu.ppy.sh/b/1254591&m=2) | [Black Another] |
+| [An - Catanoph (Lavender)](https://osu.ppy.sh/b/1175369&m=2) | [exam's Overdose] |
+| [Kawada Mami - Break a spell (wairo)](https://osu.ppy.sh/b/1179665&m=2) | [Furely's Overdose] |
+| [a_hisa - inertia (Kyuare)](https://osu.ppy.sh/b/1255531&m=2) | [Overdose] |
+| [Delain - Go Away (pishifat)](https://osu.ppy.sh/b/1016263&m=2) | [Extra] |
+| [AKI AKANE - Kando*Reduction (Milan-)](https://osu.ppy.sh/b/598867&m=2) | [Pho's Elimination] |
 
 | Hidden | |
 | --- | :--- |
-| [IOSYS - RE:Usatei (Spectator)](http://osu.ppy.sh/b/1037258&m=2) | [Spec's CTB] |
-| [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion)](http://osu.ppy.sh/b/1009520&m=2) | [Radiance] |
-| [SHK - Holic (ktgster)](http://osu.ppy.sh/b/827223&m=2) | [SHD] |
+| [IOSYS - RE:Usatei (Spectator)](https://osu.ppy.sh/b/1037258&m=2) | [Spec's CTB] |
+| [Hardwell & Joey Dale feat. Luciana - Arcadia (JBHyperion)](https://osu.ppy.sh/b/1009520&m=2) | [Radiance] |
+| [SHK - Holic (ktgster)](https://osu.ppy.sh/b/827223&m=2) | [SHD] |
 
 | HardRock | |
 | --- | :--- |
-| [Miyano Mamoru - Canon (F D Flourite)](http://osu.ppy.sh/b/1071405&m=2) | [AscenDFlourite's Rain] |
-| [penoreri - Preserved Valkyria (rew0825)](http://osu.ppy.sh/b/1261626&m=2) | [Equality] |
-| [Kotoge Mai - Mangekyou (Oracle)](http://osu.ppy.sh/b/535334&m=2) | [cRyo's Insane] |
+| [Miyano Mamoru - Canon (F D Flourite)](https://osu.ppy.sh/b/1071405&m=2) | [AscenDFlourite's Rain] |
+| [penoreri - Preserved Valkyria (rew0825)](https://osu.ppy.sh/b/1261626&m=2) | [Equality] |
+| [Kotoge Mai - Mangekyou (Oracle)](https://osu.ppy.sh/b/535334&m=2) | [cRyo's Insane] |
 
 | DoubleTime | |
 | --- | :--- |
-| [Mili - Rosetta (P i k u)](http://osu.ppy.sh/b/893353&m=2) | [Rose] |
-| [nmk - sola (-Sh1n1-)](http://osu.ppy.sh/b/1274343&m=2) | [MBomb's Platter] |
-| [Nishino Kana - Darling (Giralda)](http://osu.ppy.sh/b/493755&m=2) | [Insane] |
+| [Mili - Rosetta (P i k u)](https://osu.ppy.sh/b/893353&m=2) | [Rose] |
+| [nmk - sola (-Sh1n1-)](https://osu.ppy.sh/b/1274343&m=2) | [MBomb's Platter] |
+| [Nishino Kana - Darling (Giralda)](https://osu.ppy.sh/b/493755&m=2) | [Insane] |
 
 | Tiebreaker | |
 | --- | :--- |
-| [Camellia - Exit This Earth's Atomosphere (Yumeno Himiko)](http://osu.ppy.sh/b/1213636&m=2) | [Vision] |
+| [Camellia - Exit This Earth's Atomosphere (Yumeno Himiko)](https://osu.ppy.sh/b/1213636&m=2) | [Vision] |
 
 ## Semifinals
 
-**[Download the mappack here! (97 MB)](http://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
+**[Download the mappack here! (97 MB)](www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
 
 | NoMod | |
 | --- | :--- |
-| [Function Phantom - Algebra (Spectator)](http://osu.ppy.sh/b/1001619&m=2) | [Crystal Spec's Overdose] |
-| [Expander - Move That Body (Kyptoric)](http://osu.ppy.sh/b/909889&m=2) | [Overdose] |
-| [a_hisa - Dysthymia (Kyuare)](http://osu.ppy.sh/b/1299872&m=2) | [Eternal] |
-| [Morimori Atsushi - Tits or get the fuck out!! (rew0825)](http://osu.ppy.sh/b/1249831&m=2) | [F*ck out!!] |
-| [An - Saigo (Rumia-)](http://osu.ppy.sh/b/1100091&m=2) | [Final] |
-| [Nanahoshi Kangengakudan - Meikaruza (pkk)](http://osu.ppy.sh/b/701033&m=2) | [Extra] |
+| [Function Phantom - Algebra (Spectator)](https://osu.ppy.sh/b/1001619&m=2) | [Crystal Spec's Overdose] |
+| [Expander - Move That Body (Kyptoric)](https://osu.ppy.sh/b/909889&m=2) | [Overdose] |
+| [a_hisa - Dysthymia (Kyuare)](https://osu.ppy.sh/b/1299872&m=2) | [Eternal] |
+| [Morimori Atsushi - Tits or get the fuck out!! (rew0825)](https://osu.ppy.sh/b/1249831&m=2) | [F*ck out!!] |
+| [An - Saigo (Rumia-)](https://osu.ppy.sh/b/1100091&m=2) | [Final] |
+| [Nanahoshi Kangengakudan - Meikaruza (pkk)](https://osu.ppy.sh/b/701033&m=2) | [Extra] |
 
 | Hidden | |
 | --- | :--- |
-| [M2U - Marigold (Hareimu)](http://osu.ppy.sh/b/1270304&m=2) | [Deif's Overdose] |
-| [Kanako Ito - Densho no Uta -Verum- (F D Flourite)](http://osu.ppy.sh/b/1117822&m=2) | [Aeviternus] |
-| [S.S.H. - Intersect Thunderbolt-Remix (7odoa)](http://osu.ppy.sh/b/122693&m=2) | [Exceed] |
+| [M2U - Marigold (Hareimu)](https://osu.ppy.sh/b/1270304&m=2) | [Deif's Overdose] |
+| [Kanako Ito - Densho no Uta -Verum- (F D Flourite)](https://osu.ppy.sh/b/1117822&m=2) | [Aeviternus] |
+| [S.S.H. - Intersect Thunderbolt-Remix (7odoa)](https://osu.ppy.sh/b/122693&m=2) | [Exceed] |
 
 | HardRock | |
 | --- | :--- |
-| [Akiyama Uni - Odoru Mizushibuki (Hareimu)](http://osu.ppy.sh/b/1113464&m=2) | [Splash Dance] |
-| [Happy Clover - PUNCH*MIND*HAPPINESS (examination)](http://osu.ppy.sh/b/1023226&m=2) | [Rain] |
-| [Natsume Chiaki - Hanairo Biyori (rinsukir)](http://osu.ppy.sh/b/509510&m=2) | [Awaken's Challenge] |
+| [Akiyama Uni - Odoru Mizushibuki (Hareimu)](https://osu.ppy.sh/b/1113464&m=2) | [Splash Dance] |
+| [Happy Clover - PUNCH*MIND*HAPPINESS (examination)](https://osu.ppy.sh/b/1023226&m=2) | [Rain] |
+| [Natsume Chiaki - Hanairo Biyori (rinsukir)](https://osu.ppy.sh/b/509510&m=2) | [Awaken's Challenge] |
 
 
 | DoubleTime | |
 | --- | :--- |
-| [*namirin - Daidai Genome (Ascendance)](http://osu.ppy.sh/b/1209453&m=2) | [Rain] |
-| [Mili - Utopiosphere -Platonism- (Benny-)](http://osu.ppy.sh/b/1111110&m=2) | [Tyrell's Utopia] |
-| [Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega (Dailycare)](http://osu.ppy.sh/b/1007169&m=2) | [Lunatic] |
+| [*namirin - Daidai Genome (Ascendance)](https://osu.ppy.sh/b/1209453&m=2) | [Rain] |
+| [Mili - Utopiosphere -Platonism- (Benny-)](https://osu.ppy.sh/b/1111110&m=2) | [Tyrell's Utopia] |
+| [Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega (Dailycare)](https://osu.ppy.sh/b/1007169&m=2) | [Lunatic] |
 
 | Tiebreaker | |
 | --- | :--- |
-| [orangentle / Yu_Asahina - HAELEQUIN (Extended ver.) (CLSW)](http://osu.ppy.sh/b/1201544&m=2) | [Witchcraft] |
+| [orangentle / Yu_Asahina - HAELEQUIN (Extended ver.) (CLSW)](https://osu.ppy.sh/b/1201544&m=2) | [Witchcraft] |
 
 ------------------------------------------------------------------------
 
