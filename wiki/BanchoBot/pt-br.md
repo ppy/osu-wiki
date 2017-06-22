@@ -1,27 +1,37 @@
-![Aba do BanchoBot](BanchoBot.jpg "aba do BanchoBot") **BanchoBot** é um bot (um conjunto de comandos com respostas automatizadas) programado para ajudar as pessoas na conversa exibindo certas informações e anunciando mensagens relacionadas ao jogo. O BanchoBot é o anfitrião do [IRC](IRC "wikilink") e tem um perfil chamado .
+# BanchoBot
 
-Aparência e tarefa
--------------------
+![Aba do BanchoBot](BanchoBot.jpg "aba do BanchoBot")
 
-### !help
+O BanchoBot é um bot (um conjunto de comandos com respostas automatizadas) programado para ajudar as pessoas na conversa exibindo certas informações e anunciando mensagens relacionadas ao jogo. 
+O BanchoBot é seu host do servidor do [osu!chat](/wiki/Internet_Relay_Chat) e tem um perfil chamado _[BanchoBot](https://osu.ppy.sh/u/3)_.
 
--   Abre a aba do BanchoBot no seu console de conversa. Ela exibirá uma lista de comandos como indicado na tabela abaixo.
-    -   Caso tenha chamado a aba do BanchoBot, qualquer comando que você usar aparecerá na aba do BanchoBot independentemente de qual aba você estiver quando enviar o comando. (exceto op de canal)
-    -   Caso envie o COMANDO sem um ponto de exclamação ("!") enquanto na aba do BanchoBot, o BanchoBot ainda o receberá, da mesma forma que usar o comando /bb
--   Você não pode usar comandos com ponto de exclamação fora da aba de mensagens privadas do BanchoBot.
+## Utilizando o BanchoBot
 
-#### Comandos padrão (!COMANDO ou /bb COMANDO)
+Para abrir o BanchoBot, digite `!help` (ou qualquer um dos comandos abaixo) no seu console de conversa (qualquer aba serve).
+Assim que fizer isso, a aba do BanchoBot será aberta.
 
-| COMANDO | Efeito | Exemplo | Resposta do BanchoBot |
-| ------- | ------ | ------- | ------------------ |
-| WHERE (usuário) | Exibe a localização do jogador indicado | !where John | John is in USA |
-| STATS (usuário) | Exibe o status do jogador indicado (com base na aba atual do jogador) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
-| FAQ (L.código) (item) (lista) | Diversos usos. [lista] Lista de comandos usáveis. | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (motivo) | Chama um moderador | !report Thomas comentários ofensivos | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (lista) | Exibe uma solicitação de modificação aleatória recente. [lista] Exibe 5 pedidos de modificação aleatórios recentes. | !request | Seether - Fake It by [Dellirium] |
-| ROLL (número) | Rola um dado (virtual) e obtém um resultado aleatório de 1 a (número) (padrão: 100) | !roll 9000 | John rolls 1337 point(s) |
+Fazer isso irá mostrar uma lista de comandos (os da tabela abaixo).
 
-Observações:
+## Comandos
 
--   A lista de mapas para REQUEST não é atualizada há muito tempo, então mapas que já estão rankeados ainda podem ser exibidos.
+Você pode usar `!<comando>` ou `/bb <comando>` em qualquer aba de conversa.
 
+| `<comando>`                    | Efeito                                                                      | Exemplo                           | Resposta do BanchoBot                                              |
+|--------------------------------|------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------|
+| `WHERE <ususuário>`                 | Mostra a localização do usuário solicitado                                            | `!where João`                       | João está no Brasil                                                        |
+| `STATS <usuário>`                 | Mostra as estatísticas do usuário solicitado (baseado na atual aba do jogador)                 | `/bb stats João`                    | João está ocioso. Pontuação:00 (#0). Vezes Jogadas:2 (lvl 4). Precisão:0.00%. |
+| `FAQ <código-de-idioma><item> <list>` | Várias utilizações. [list] Mostra uma lista de comandos.                               | `!faq wiki` / `!faq pt:wiki`        | The osu! Wiki - Make it awesome! / A osu! Wiki - Torne-a incrível!   |
+| `REPORT <motivo>`              | Chama um moderador                                                         | `!report João offending comments` | Chat moderators has been alerted. Thanks for your help.                 |
+| `REQUEST <list>`               | Mostra um mod request aleatório. [list] Mostra 5 mod requests aleatórios. | `/bb request`                       | Seether - Fake It by [Dellirium]                                        |
+| `ROLL <número>`                | Rola um dado (virtual) e obtém um resultado aleatório de 1 à (número) (padrão é 100) | `/bb roll 9000`                     | João conseguiu 1337 ponto(s)                                                |
+
+Observações
+
+- A lista de mapas do `REQUEST` não é atualizada todo momento, então o BanchoBot pode até sugerir um mapa que já foi ranqueado.
+
+## Peculiaridades do BanchoBot
+
+- Os comandos são afetados por letras maiúsculas e minúsculas.
+- Caso não esteja na aba do BanchoBot, você precisa utilizar o prefixo `!` ou `/bb`.
+- Caso já tenha chamado o BanchoBot (com a aba já disponível), qualquer comando que você utilizar ainda vai aparecer na aba do BanchoBot, independente da aba que esteja utilizando no momento
+- Você pode utilizar os comandos do BanchoBot sem o prefixo `!` ou `/bb` (mas apenas funciona quando enviado na aba do BanchoBot).

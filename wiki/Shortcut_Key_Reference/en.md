@@ -1,179 +1,233 @@
-Shortcut Key Reference
-=======================
+# Shortcut Key Reference
 
-In osu!, there are various shortcuts that can be utilized in the game and in menus. They are listed out with their functions below.
+There are many shortcuts in _osu!_ that can be utilized while in-game or while idle at any screen.
+They are listed out with their functions below.
 
-Game-Wide
----------
+**Note:** some of these keys can be changed in the [options](/wiki/options)!
+However, the list below presents the default keys.
 
--   **Shift+F1**: Open osu!status (when connection error)
--   **F7**: Toggle FPS limiting mode
--   **F8**: Show/Hide Chat Window
--   **F9**: Show/Hide Extended Chat Window
--   **F10**: Enable/Disable all mouse buttons. (Mouse wheel still works)
--   **CTRL + F11**: Show/Hide Frame Times
--   **F12**: Take Screenshot (hold SHIFT to upload instantly to server for sharing)
--   **Insert**: Minimizes osu! into the notification area.
--   **Arrow up/down**: Increase/Decrease volume.
+## Game-Wide
 
-Menus only
-----------
+These shortcuts work anywhere:
 
--   **F1**: Previous Song
--   **F2**: Play from start
--   **F3**: Pause/Unpause
--   **F4**: Stop
--   **F5**: Next Song
--   **F6**: Jump to (jukebox)
--   **Alt+Enter**: Toggle Full-screen Mode
--   **Escape**: Go back one menu
--   **Ctrl+Alt+Shift+S**: Reload skin sprites
--   **Ctrl+O**: Open Options Menu
+- `Ctrl` + `Alt` + `Shift` + `S`: Reload current skin
+  - If playing or at the results screen, this will queue the command to be executed after returning to song selection.
+- `Ctrl` + `F11`: Toggle frame times
+- `F7`: Toggle frame rate limiter
+  - Pressing this will cycle through `120fps`, `240fps`, and `Unlimited (gameplay)` but not enable `VSync`.
+- `F8`: Toggle chat window
+- `F9`: Toggle extended chat window
+- `F10`: Toggle all mouse buttons (except for mouse wheel)
+- `F12`: Take a screenshot
+- `Shift` + `F12`: Take a screenshot and upload to the server for sharing
+- `Insert`: ([Boss Key](https://en.wikipedia.org/wiki/Boss_key)) Minimize the osu!client into the notification area
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
 
-Main Menu
----------
+## Main Menu
 
--   **P**: Play mode (twice for osu! song select)
--   **P-M**: Play mode ([Multi-Play](/wiki/Multi))
--   **E**: Edit Mode (Song selection)
--   **J**: Jump To (jukebox)
--   **Z/X/C/V/B**: Jukebox controls (Winamp layout)
--   **D**: osu!direct (supporters only)
--   **O**: Options
--   **Q**: Quit
--   **R**: Random song
+- `Alt` + `F4`: Close the osu!client (no prompt or dialog)
+- `Alt` + `Enter`: Toggle fullscreen mode
+- `Arrow Up`: Increase volume
+- `Arrow Down`: Decrease volume
+- `Esc`: Go back one menu
+  - Close options, if open
+  - Go back to main menu, if in play menu
+- `P`: Play menu
+- `P`, then `P`: Solo
+  - alias: `E`, then `P`, then `P`
+- `P`, then `M`: [Multi](/wiki/Multi)
+  - alias: `E`, then `P`, then `M`
+- `P`, then `E`: Edit mode
+- `D`: osu!direct ([osu!supporters](/wiki/osu!supporter) only)
+- `O`: Options
+  - alias: `Ctrl` + `O`
+- `Q`: Display exit dialog
+  - alias: `Esc`, when the options and play menu are closed
 
-Song Select
------------
+### Jukebox
 
--   **F1**: [Mod Selection](/wiki/Game_Modifiers)
--   **F2**: Random Map
--   **Shift+F2**: Undo Random Map
--   **F3**: Beatmap Options
--   **F5**: Refresh listing (Repair mode)
--   **Shift+Delete**: Delete current map
--   **Ctrl+(1/2/3/4)**: Switch to ![osu! Icon](/wiki/shared/Osu.gif "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/Taiko.gif "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/Ctb.gif "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/Mania.gif "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) game mode respectively.
--   **Ctrl+Enter**: Play current map with [Auto](/wiki/Game_Modifiers) mod
--   **Ctrl+Shift+Enter**: Play current map with Cinema mod
--   **Ctrl+A**: Toggle Auto mod
--   **Ctrl+(F3/F4)** or **Ctrl+(+/-)**: Increase/decrease osu!mania speed (only in osu!mania mode)
--   **Ctrl+Backspace**: Delete last word (when using search)
--   **Up/Down**: Change selection
--   **Left/Right**: Change beatmap set
--   **PageUp/PageDown**: Change selection (large)
--   **Enter**: Make selection
--   **Shift+(Left/Right)**: Change group
--   **Shift+Enter**: Open/close group
+- `Z`: Previous song
+  - alias: `F1`
+- `X`: Play from start
+  - alias: `F2`
+- `C`: Toggle pause
+- `F4`: Stop playing and reset duration to 0
+- `V`: Next song
+  - alias: `F5`
+- `J`: Jump To
+  - alias: `F6`
+- `R`: Random song
 
-Mods screen
------------
+## Song Select
 
-Note: Special modes like [Perfect](/wiki/Game_Modifiers) or [Nightcore](/wiki/Game_Modifiers) will require clicking on it once more.
+Note: Not all of these work in the [multi](/wiki/multi) mode's song select screen.
 
-![osu! List of possible mods (Key binding in order)](Soloplay8.png "osu! List of possible mods <Key binding in order>")
+- `Alt` + `Arrow Up`: Increase volume
+- `Alt` + `Arrow Down`: Decrease volume
+- `F1`: [Mod](/wiki/Game_Modifiers) selection menu
+- `F2`: Randomly select a map
+- `Shift` + `F2`: Undo random map selection
+- `F3`: Beatmap options
+- `F5`: Reprocess beatmaps (may display a dialog)
+- `Shift` + `Delete`: Delete selected map
+- `Ctrl` + `1`: Switch to [osu!](/wiki/osu!)
+- `Ctrl` + `2`: Switch to [osu!taiko](/wiki/osu!taiko)
+- `Ctrl` + `3`: Switch to [osu!catch](/wiki/osu!catch)
+- `Ctrl` + `4`: Switch to [osu!mania](/wiki/osu!mania)
+- `Ctrl` + `Enter`: Play current map with [Auto](/wiki/Auto) mod
+- `Ctrl` + `Shift` + `Enter`: Play current map with [Cinema](/wiki/Cinema) mod
+- `Ctrl` + `A`: Toggle Auto mod
+- `Ctrl` + `F3`: Increase osu!mania speed (only in osu!mania mode)
+  - alias: `Ctrl` + `+`
+- `Ctrl` + `F4`: Decrease osu!mania speed (only in osu!mania mode)
+  - alias: `Ctrl` + `-`
+- `Ctrl` + `Backspace`: Delete last word (when using search)
+- `Up`: Move selector one beatmap up
+- `Down`: Move selector one beatmap down
+- `Left`: Change selected beatmapset one up
+- `Right`: Change selected beatmapset one down
+- `Page Up`: Scroll up
+- `Page Down`: Scroll down
+- `Enter`: Select selection or play selection
+- `Shift` + `Left Arrow`: Change selected group one up
+- `Shift` + `Right Arrow`: Change selected group one down
+- `Shift` + `Enter`: Toggle selected group
 
--   **Q**: [Easy](/wiki/Game_Modifiers)
--   **W**: [No Fail](/wiki/Game_Modifiers)
--   **E**: [Half-Time](/wiki/Game_Modifiers)
+### Game Modifiers
 
-------------------------------------------------------------------------
+_See also: [Game Modifiers](/wiki/Game_Modifiers)._
 
--   **A**: [Hard Rock](/wiki/Game_Modifiers)
--   **S**: [Sudden Death](/wiki/Game_Modifiers)
--   **D**: [Double Time](/wiki/Game_Modifiers)
--   **F**: [Hidden](/wiki/Game_Modifiers)
--   **G**: [Flashlight](/wiki/Game_Modifiers)
+**Notes:**
 
-------------------------------------------------------------------------
+- The key references below assumes that none of the mods are selected.
+- Some mods may require the player to press the key twice.
 
--   **X**: [Relax](/wiki/Game_Modifiers) (No effect on osu!mania's 4/5/6/7/8K mod)
--   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
--   **V**: [Spun-Out](/wiki/Game_Modifiers)
--   **B**: Auto
+- `Q`: [Easy](/wiki/Easy_mod)
+- `W`: [No Fail](/wiki/No_Fail)
+- `E`: [Half Time](/wiki/Half_Time)
 
-Play Mode
----------
+---
 
--   **+/-**: Adjust local offset (hold Alt to change the precision)
--   **Escape**: Pause (Quit song if Auto mod is used)
--   **Spacebar**: Skip opening cut-scene.
--   **Tab**: Toggle scoreboard
--   **Shift+Tab**: Toggle in-game interface
--   **F3/F4**: Adjust speed for osu!mania.
--   **Ctrl+R or \`**: Quick retry the current map (autoskips the cut-scene)
+- `A`: [Hard Rock](/wiki/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Sudden_Death)
+- `S`, then `S`: [Perfect](/wiki/Perfect)
+- `D`: [Double Time](/wiki/Double_Time)
+- `D`, then `D`: [Nightcore](/wiki/Nightcore)
+- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, and osu!catch)
+  - this will toggle [Fade In](/wiki/Fade_In) for osu!mania
+- `F`, then `F`: [Hidden](/wiki/Hidden) (osu!mania only)
+- `G`: [Flashlight](/wiki/Flashlight)
 
-Edit Mode
----------
+---
 
-### Keyboard Shortcuts
+- `X`: [Relax](/wiki/Relax)
+- `C`: [Auto Pilot](/wiki/Auto_Pilot)
+- `V`: [Spun Out](/wiki/Spun_Out)
+- `B`: Auto
+- `B`, then `B`: Cinema
 
-#### General
+---
 
-![How it would look like when you press H (Help) key](Edit_Help.jpg "How it would look like when you press H <Help> key")
+- `3`: [3K](/wiki/3K) (osu!mania only)
+- `4`: [4K](/wiki/4K) (osu!mania only)
+- `5`: [5K](/wiki/5K) (osu!mania only)
+- `6`: [6K](/wiki/6K) (osu!mania only)
+- `7`: [7K](/wiki/7K) (osu!mania only)
+- `8`: [8K](/wiki/8K) (osu!mania only)
+- `9`: [9K](/wiki/9K) (osu!mania only)
 
--   **H**: Help (Contains all the shortcuts shown below)
+## Play Mode
 
-**Music**
+- `+` or `-`: Adjust local offset (hold `Alt` to change the precision)
+- `Esc`: Pause song (or quit if Auto or Cinema mod is used)
+- `Space`: Skip opening cut-scene
+- `Tab`: Toggle scoreboard
+- `Shift` + `Tab`: Toggle in-game interface
+- `F3` or `F4`: Adjust speed for osu!mania (only works near the beginning of playing)
+- `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the intro upon retry)
 
--   **Z**: Stop
--   **X**: Play from start
--   **C or Spacebar**: Pause/Resume
--   **Left and Right arrow keys**: Skip through the song. Hold shift for 4x speed
+## Beatmap Editor
 
-**Bookmarks commands**
+_See also: [Beatmap Editor](/wiki/Beatmap_Editor)._
 
--   **Ctrl+B**: Add bookmark at current location.
--   **Ctrl+Shift+B**: Remove bookmark at current location.
--   **Ctrl+Left Arrow**: Jump to previous bookmark.
--   **Ctrl+Right Arrow**: Jump to next bookmark.
+### General
 
-**Save and Reset**
+These shortcuts work anywhere within the beatmap editor:
 
--   **Ctrl+L**: Revert to saved
--   **Ctrl+S**: Quick save
--   **Ctrl+N**: Remove all notes (but keep timing/song setup)
+- `Z`: Stop
+- `X`: Play from start
+- `C` or `Space`: Pause/Resume
+- `Left Arrow` or `Right Arrow`: Skip through the song
+- `Shift` + `Left Arrow` or `Shift` + `Right Arrow`: Skip through the song at 4x speed
+- `Ctrl` + `B`: Add bookmark at current location
+- `Ctrl` + `Shift` + `B`: Remove bookmark at current location
+- `Ctrl` + `Left Arrow`: Jump to previous bookmark
+- `Ctrl` + `Right Arrow`: Jump to next bookmark
+- `Ctrl` + `L`: Revert to saved
+- `Ctrl` + `S`: Quick save
+- `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
+- `F1`: Switch to [compose](/wiki/Compose) mode
+- `F2`: Switch to [design](/wiki/Design) mode
+- `F3`: Switch to [timing](/wiki/Timing) mode
+- `F4`: Open the [song setup](/wiki/Song_Setup) (opens a dialog)
 
-**Mode switch**
+### Compose
 
--   **F1**: Compose mode
--   **F2**: Design mode (only basics available at the moment)
--   **F3**: Timing mode
--   **F4**: Song setup
+- `Ctrl` + `Left`: Move selected notes left by 1 grid snap
+- `Ctrl` + `Up`: Move selected notes up by 1 grid snap
+- `Ctrl` + `Down`: Move selected notes down by 1 grid snap
+- `Ctrl` + `Right`: Move selected notes right by 1 grid snap
+- `Shift` + `Ctrl` + `Left`: Move selected notes left by 1 coordinate
+- `Shift` + `Ctrl` + `Up`: Move selected notes up by 1 coordinate
+- `Shift` + `Ctrl` + `Down`: Move selected notes down by 1 coordinate
+- `Shift` + `Ctrl` + `Right`: Move selected notes right by 1 coordinate
+- `1`, `2`, `3`, or `4`: Switch between objects
+- `Q`, `W`, `E`, `R`, or `L`: Toggle object settings and modes
+- `Delete`: Remove selected notes
+- `Ctrl` + `Z`: Undo
+- `Ctrl` + `Y`: Redo
+- `Ctrl` + `A`: Select all notes
+- `Ctrl` + `X`: Cut slection
+- `Ctrl` + `C`: Copy selection
+- `Ctrl` + `V`: Paste selection
+- `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
+- `Alt` while placing: snap distance based on time duration since last note
+- `Shift` while placing (playfield): Ignore grid snapping
+- `Shift` while placing (timeline): Ignore grid and beat (time) snapping
+- `J`: Nudge circle backwards in time
+- `K`: Nudge circle forwards in time
+- `G`: Cycle through grid precision
+- `Ctrl` + `1`: Use tiny grid size
+- `Ctrl` + `2`: Use small grid size
+- `Ctrl` + `3`: Use medium grid size
+- `Ctrl` + `4`: Use large grid size
+- `Ctrl` + `Shift` + `R`: Rotate selected note(s) by a specified angle (opens a dialog)
+- `Ctrl` + `,`: Rotate 90 degrees anticlockwise
+- `Ctrl` + `.`: Rotate 90 degrees clockwise
+- `Ctrl` + `H`: Flip horizontally
+- `Ctrl` + `J`: Flip vertically
+- `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
+- `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
 
-#### Compose mode
+#### Timing
 
--   **Left and Right arrow keys**: Move selected notes by 1 grid snap. Hold shift for 1 coordinate.
--   **Number keys 1-4**: Change selection/placement mode
--   **Q,W,E,R,L**: Change right-hand option modes
--   **Delete**: Remove selected notes
--   **Ctrl+Z,Y**: Undo,Redo
--   **Ctrl+A**: Select all notes
--   **Ctrl+X,C,V**: Cut, copy, paste
--   **Ctrl+D**: Clone the selection
--   **Alt while placing**: Snap distance based on time duration since last note
--   **Shift while placing**: No grid snapping
--   **Shift while modifying**: No grid or beat (time) snapping
--   **J/K**: Nudge circle backwards/forwards in time
--   **G**: Cycle through grid precision
--   **Ctrl+1/2/3/4**: Grid sizes (tiny,small,medium,large)
--   **Ctrl+Shift+R**: Rotate existing note by a specified angle
--   **Ctrl+ , (comma)**: Rotate Anticlockwise/Clockwise
--   **Ctrl+H,J**: Flip Horizontally/Vertically
-
-#### Timing mode
-
--   **T**: Tapping using the keyboard
--   **Shift while adjusting BPM/Offset**: 4x speed
--   **Ctrl+B**: Reset current timing point
--   **Ctrl+P**: Add timing point
+- `T`: Tap the [BPM](/wiki/BPM)/offset
+  - You will need to tap at a constant rate.
+- `Shift` while adjusting BPM/offset: 4x speed
+- `Ctrl` + `B`: Reset current timing point
+- `Ctrl` + `P`: Add timing point
 
 ### Mouse Controls
 
--   **Left Click**: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles.
--   **Ctrl + Left Click**: Add new point to existing slider.
--   **Right Click**: Toggle new combo, end a slider placement or remove a point, remove a circle (only when in selection mode or while not playing audio).
--   **Mouse Wheel**: Seek forwards/backwards. Hold shift for 4x seeking.
--   **Ctrl + Alt + Mouse Wheel**: Change placement/selection mode while in gamefield.
--   **Ctrl + Mouse Wheel**: Increase/decrease the snap divisor.
--   **Alt + Mouse Wheel**: Increase/decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline.
--   **Dragging**: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them.
+- `Left Click`: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles
+- `Ctrl` + `Left Click`: Add new point to existing slider
+- `Right Click`: Toggle new combo, end a slider placement or remove a point, remove a circle (only when in selection mode or while not playing audio)
+- `Mouse Wheel Up`: Seek forwards
+- `Shift` + `Mouse Wheel Up`: Seek forwards at 4x
+- `Mouse Wheel Down`: Seek backwards
+- `Shift` + `Mouse Wheel Down`: Seek backwards at 4x
+- `Ctrl` + `Mouse Wheel Up`: Increase/decrease the snap divisor
+- `Alt` + `Mouse Wheel Up`: Increase/decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline
+- `Ctrl` + `Mouse Wheel Down`: Decrease the snap divisor
+- `Alt` + `Mouse Wheel Down`: Decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline
+- `Dragging`: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them
