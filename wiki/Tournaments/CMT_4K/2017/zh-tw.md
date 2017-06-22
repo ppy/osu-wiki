@@ -49,15 +49,15 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 小組賽開始後更新。
 
-## 比賽預告
+## 比赛预告
 
-### 測試賽
+### 资格赛
 
-6月17日 15:00 (UTC+8)  元老隊 vs 新銳隊（4v4）
+6月24日 15:00-20:00 (UTC+8)
+![6/24](https://user-images.githubusercontent.com/18349191/27418509-2baea9b6-574e-11e7-988b-99b4bcd90db4.png)
 
-元老隊隊員：**[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
-
-新銳隊隊員：**[Moting](https://osu.ppy.sh/u/4902208)** [Mof liberavi](https://osu.ppy.sh/u/9045121) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
+6月25日 11:00-16:00 (UTC+8)
+![6/25](https://user-images.githubusercontent.com/18349191/27418526-478da5ba-574e-11e7-91ad-69416fa0d2fd.png)
 
 ## 比賽圖池
 
@@ -91,13 +91,15 @@ TB:
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
 [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
-####參賽者名單
 
-[點擊下載](http://kj415j45.space/%E5%8D%8E%E4%BA%BA%E6%9D%AF%E8%B5%84%E6%A0%BC%E8%B5%9B%E6%8E%92%E7%A8%8B%28%E6%96%B0%E7%89%88%29.xls)
 
-週三之前如對安排有抗告，請發郵件至cmt4k@foxmail.com與主辦方交流
+## 比賽結果
 
-## 比賽回顧
+### 測試賽結果
+
+| 2017年6月18日 星期六 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 元老隊 | 5 | 7 | 新銳隊 | [比賽記錄](https://osu.ppy.sh/community/matches/33910571) |
 
 ## 規則
 
@@ -224,12 +226,3 @@ TB:
      - 若選手使用特殊的時區，請提前告知組委會。
      - 除時區問題以外，選手未能按時參賽的，不論提前聲明與否，仍然依照缺席處理。
 6. 選手棄權的比賽不予重賽。
-
-## 比賽結果
-
-### 測試賽結果
-
-| 2017年6月18日 星期六 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| 元老隊 | 5 | 7 | 新銳隊 | |
- 

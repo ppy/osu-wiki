@@ -49,13 +49,16 @@ Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
 Update after group stage starts.
 
-### Test match
+## Match Preview
 
-17, June 15:00 (UTC+8)  "The Elder" vs "The Cutting-edge" (4v4）
+### Qualification Stage
 
-"The Elder" Team: **[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Codeisbiantai](https://osu.ppy.sh/u/6715548) [Scslag](https://osu.ppy.sh/u/6705256) [wuhuanmin](https://osu.ppy.sh/u/935322) [w765333805](https://osu.ppy.sh/u/6423706)
+Saturday, 24. June 2017 15:00-20:00 (UTC+8)
+![6/24](https://user-images.githubusercontent.com/18349191/27418509-2baea9b6-574e-11e7-988b-99b4bcd90db4.png)
 
-"The Cutting-edge" Team: **[Moting](https://osu.ppy.sh/u/4902208)** [Mof liberavi](https://osu.ppy.sh/u/9045121) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
+Sunday, 25. June 2017 11:00-16:00 (UTC+8)
+![6/25](https://user-images.githubusercontent.com/18349191/27418526-478da5ba-574e-11e7-91ad-69416fa0d2fd.png)
+
 
 ## Mappools
 
@@ -89,13 +92,13 @@ TB:
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
 [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
-#### Participant List
+## Match Results
 
-[Click here to download](http://kj415j45.space/%E5%8D%8E%E4%BA%BA%E6%9D%AF%E8%B5%84%E6%A0%BC%E8%B5%9B%E6%8E%92%E7%A8%8B%28%E6%96%B0%E7%89%88%29.xls)
+### Test match
 
-If you have some question, please contact: cmt4k@foxmail.com .
-
-## Match reviews
+| Saturday, 17. June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | [Match Record](https://osu.ppy.sh/community/matches/33910571) |
 
 ## Ruleset
 
@@ -218,11 +221,3 @@ Please sign up on [this](https://www.osupink.org/huarenbei) page.
      - If player is in any other time zone, please notify the Management in advance.
      - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management. 
 5. Request of rematch from forfeited player(s) will not be accepted.
-
-## Match Results
-
-### Test match
-
-| Saturday, 17. June 2017 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | |
