@@ -241,124 +241,91 @@ osu! World Cup 2015
 
 **[在这里下载图包](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
-| NoMod                                                                                           |
-|-------------------------------------------------------------------------------------------------|
-| [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/b/676172)       |
-| [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[0108\]](https://osu.ppy.sh/b/157861)      |
-| [xi - Wish upon Twin Stars (Chaoslitz) \[Wish\]](https://osu.ppy.sh/b/559673)                         |
-| [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/187410)                 |
-| [siqlo - Forest Haze (Lust) \[Leader's Extra\]](https://osu.ppy.sh/b/656723)                          |
-| [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/b/137766) |
-
-| Hidden                                                                                                |
-|-------------------------------------------------------------------------------------------------------|
-| [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Extra\]](https://osu.ppy.sh/b/542336) |
-| [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/b/50148)                                      |
-| [ETIA. - Lost Love (JJburstOwO) \[Last Eve\]](https://osu.ppy.sh/b/755900)                                  |
-
-| HardRock                                                                                                   |
-|------------------------------------------------------------------------------------------------------------|
-| [Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/b/587577)                                          |
-| [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Mikkuri) \[Extra\]](https://osu.ppy.sh/b/742975)   |
-| [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](https://osu.ppy.sh/b/358273) |
-
-| DoubleTime                                                              |
-|-------------------------------------------------------------------------|
-| [senya - Yukitoke Realism (wring) \[Lunatic\]](https://osu.ppy.sh/b/579751)   |
-| [ichigo - YU-MU (Louis Cyphre) \[Extra\]](https://osu.ppy.sh/b/128074)        |
-| [ClariS - with you (10nya) \[Laurier's Insane\]](https://osu.ppy.sh/b/380012) |
-
-| FreeMod                                                                                  |
-|------------------------------------------------------------------------------------------|
-| [Zeami feat. Tenshi - Tenyou no Mai (smallboat) \[Yuki's Extra\]](https://osu.ppy.sh/b/434118) |
-| [APG550 - NEVERLAND (Natsu) \[Yuny\]](https://osu.ppy.sh/b/776749)                             |
-| [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/722934)                 |
-
-| Tiebreaker                                                                                  |
-|---------------------------------------------------------------------------------------------|
-| [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](https://osu.ppy.sh/b/550235) |
+- NoMod
+  - [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/b/676172)
+  - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[0108\]](https://osu.ppy.sh/b/157861)
+  - [xi - Wish upon Twin Stars (Chaoslitz) \[Wish\]](https://osu.ppy.sh/b/559673)
+  - [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/187410)
+  - [siqlo - Forest Haze (Lust) \[Leader's Extra\]](https://osu.ppy.sh/b/656723)
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/b/137766)
+- Hidden
+  - [Sota Fujimori - Move That Body -Extended Mix- (Amamiya Yuko) \[RLC's Extra\]](https://osu.ppy.sh/b/542336)
+  - [Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/b/50148)
+  - [ETIA. - Lost Love (JJburstOwO) \[Last Eve\]](https://osu.ppy.sh/b/755900)
+- HardRock
+  - [Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/b/587577)
+  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Mikkuri) \[Extra\]](https://osu.ppy.sh/b/742975)
+  - [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](https://osu.ppy.sh/b/358273)
+- DoubleTime
+  - [senya - Yukitoke Realism (wring) \[Lunatic\]](https://osu.ppy.sh/b/579751)
+  - [ichigo - YU-MU (Louis Cyphre) \[Extra\]](https://osu.ppy.sh/b/128074)
+  - [ClariS - with you (10nya) \[Laurier's Insane\]](https://osu.ppy.sh/b/380012)
+- FreeMod
+  - [Zeami feat. Tenshi - Tenyou no Mai (smallboat) \[Yuki's Extra\]](https://osu.ppy.sh/b/434118)
+  - [APG550 - NEVERLAND (Natsu) \[Yuny\]](https://osu.ppy.sh/b/776749)
+  - [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/722934)
+- Tiebreaker
+  - [Our Stolen Theory - United (L.A.O.S Remix) (Asphyxia) \[Infinity\]](https://osu.ppy.sh/b/550235)
 
 ### 十六强
 
 **[在这里下载图包](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
-| NoMod                                                                              |
-|------------------------------------------------------------------------------------|
-| [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/b/495899)   |
-| [RedMuffleR - Rubeus (Smoothie World) \[GRAVITY\]](https://osu.ppy.sh/b/574050)          |
-| [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](https://osu.ppy.sh/b/753968)      |
-| [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/541990) |
-| [himmeltengoku - Whisper of Rose (Tsukuyomi) \[Maximum\]](https://osu.ppy.sh/b/419487)   |
-| [Megpoid GUMI - Cosmos (val0108) \[Cosmos\]](https://osu.ppy.sh/b/123374)                |
-
-| Hidden                                                                               |
-|--------------------------------------------------------------------------------------|
-| [Pendulum - Watercolour (Kecco) \[Extra\]](https://osu.ppy.sh/b/569735)                    |
-| [U1 overground - Dopamine (fanzhen0019) \[Kotori's EXTREME\]](https://osu.ppy.sh/b/533622) |
-| [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/b/89362)          |
-
-| HardRock                                                                 |
-|--------------------------------------------------------------------------|
-| [LhoU - Highlander (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/b/406247)    |
-| [yuikonnu - Otsukimi Recital (Mythol) \[Collab\]](https://osu.ppy.sh/b/282251) |
-| [Raujika - Land of Grace (Strawberry) \[Gracy\]](https://osu.ppy.sh/b/209203)  |
-
-| DoubleTime                                                                              |
-|-----------------------------------------------------------------------------------------|
-| [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](https://osu.ppy.sh/b/196280) |
-| [capitaro - Karen Aikyou Hanasaka gumi (Tari) \[Insane\]](https://osu.ppy.sh/b/720614)        |
-| [ChouCho - My dear friend (Delis) \[Insane\]](https://osu.ppy.sh/b/486131)                    |
-
-| FreeMod                                                                                     |
-|---------------------------------------------------------------------------------------------|
-| [DJ YOSHITAKA - FLOWER (Apricot) \[EXTREME\]](https://osu.ppy.sh/b/128780)                        |
-| [senya - Kanjou Chemistry (Drum 'n' Bass Remix) (Satellite) \[Exw\]](https://osu.ppy.sh/b/255700) |
-| [yuikonnu - Chikyuu Saigo no Kokuhaku o (Fycho) \[Insane\]](https://osu.ppy.sh/b/494798)          |
-
-| Tiebreaker                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------|
-| [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/b/734339) |
+- NoMod
+  - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/b/495899)
+  - [RedMuffleR - Rubeus (Smoothie World) \[GRAVITY\]](https://osu.ppy.sh/b/574050)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[Extreme\]](https://osu.ppy.sh/b/753968)
+  - [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/541990)
+  - [himmeltengoku - Whisper of Rose (Tsukuyomi) \[Maximum\]](https://osu.ppy.sh/b/419487)
+  - [Megpoid GUMI - Cosmos (val0108) \[Cosmos\]](https://osu.ppy.sh/b/123374)
+- Hidden
+  - [Pendulum - Watercolour (Kecco) \[Extra\]](https://osu.ppy.sh/b/569735)
+  - [U1 overground - Dopamine (fanzhen0019) \[Kotori's EXTREME\]](https://osu.ppy.sh/b/533622)
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/b/89362)
+- HardRock
+  - [LhoU - Highlander (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/b/406247)
+  - [yuikonnu - Otsukimi Recital (Mythol) \[Collab\]](https://osu.ppy.sh/b/282251)
+  - [Raujika - Land of Grace (Strawberry) \[Gracy\]](https://osu.ppy.sh/b/209203)
+- DoubleTime
+  - [Yoshida Mayumi - Zutto Kono Mama... (Mythol) \[cRyo's Insane\]](https://osu.ppy.sh/b/196280)
+  - [capitaro - Karen Aikyou Hanasaka gumi (Tari) \[Insane\]](https://osu.ppy.sh/b/720614)
+  - [ChouCho - My dear friend (Delis) \[Insane\]](https://osu.ppy.sh/b/486131)
+- FreeMod
+  - [DJ YOSHITAKA - FLOWER (Apricot) \[EXTREME\]](https://osu.ppy.sh/b/128780)
+  - [senya - Kanjou Chemistry (Drum 'n' Bass Remix) (Satellite) \[Exw\]](https://osu.ppy.sh/b/255700)
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku o (Fycho) \[Insane\]](https://osu.ppy.sh/b/494798)
+- Tiebreaker
+  - [Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/b/734339)
 
 ### 小组赛
 
 **[在这里下载图包](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
-| NoMod                                                                                             |
-|---------------------------------------------------------------------------------------------------|
-| [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/b/363063)                                 |
-| [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/b/109301)                      |
-| [Mary - Artificial Rose (Urushi38) \[Another\]](https://osu.ppy.sh/b/264439)                            |
-| [Kousaki Satoru - Gekiretsu de Kareinaru Hibi (Zero\_\_wind) \[Ba Ba Ba\]](https://osu.ppy.sh/b/400564) |
-| [Afilia Saga - S.M.L (Tari) \[Insane\]](https://osu.ppy.sh/b/361263)                                    |
-| [ARM feat. Nanahira - Bakunana\*Testroyer (intoon) \[Kami's Another\]](https://osu.ppy.sh/b/682074)     |
-
-| Hidden                                                                         |
-|--------------------------------------------------------------------------------|
-| [MiddleIsland - Magnetic Shift (Natsu) \[UWS's Extra\]](https://osu.ppy.sh/b/379411) |
-| [96Neko - Yoshiwara Lament (Minakami Yuki) \[Insane\]](https://osu.ppy.sh/b/451227)  |
-| [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/127138)  |
-
-| HardRock                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------|
-| [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~ (Mythol) \[Insane\]](https://osu.ppy.sh/b/244182) |
-| [Kotoge Mai - Mangekyou (Oracle) \[cRyo's Insane\]](https://osu.ppy.sh/b/535334)                                            |
-| [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) \[Insane\]](https://osu.ppy.sh/b/454158)                    |
-
-| DoubleTime                                                                     |
-|--------------------------------------------------------------------------------|
-| [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](https://osu.ppy.sh/b/167963) |
-| [senya - Bondage Anemonation (Satellite) \[Lunatic\]](https://osu.ppy.sh/b/323264)   |
-| [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/b/216690)          |
-
-| FreeMod                                                                                               |
-|-------------------------------------------------------------------------------------------------------|
-| [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](https://osu.ppy.sh/b/537235) |
-| [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/b/486613)              |
-| [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025)                                    |
-
-| Tiebreaker                                                                                     |
-|------------------------------------------------------------------------------------------------|
-| [Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/b/722224) |
+- NoMod
+  - [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/b/363063)
+  - [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/b/109301)
+  - [Mary - Artificial Rose (Urushi38) \[Another\]](https://osu.ppy.sh/b/264439)
+  - [Kousaki Satoru - Gekiretsu de Kareinaru Hibi (Zero\_\_wind) \[Ba Ba Ba\]](https://osu.ppy.sh/b/400564)
+  - [Afilia Saga - S.M.L (Tari) \[Insane\]](https://osu.ppy.sh/b/361263)
+  - [ARM feat. Nanahira - Bakunana\*Testroyer (intoon) \[Kami's Another\]](https://osu.ppy.sh/b/682074)
+- Hidden
+  - [MiddleIsland - Magnetic Shift (Natsu) \[UWS's Extra\]](https://osu.ppy.sh/b/379411)
+  - [96Neko - Yoshiwara Lament (Minakami Yuki) \[Insane\]](https://osu.ppy.sh/b/451227)
+  - [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/b/127138)
+- HardRock
+  - [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~ (Mythol) \[Insane\]](https://osu.ppy.sh/b/244182)
+  - [Kotoge Mai - Mangekyou (Oracle) \[cRyo's Insane\]](https://osu.ppy.sh/b/535334)
+  - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (Kawaiwkyik) \[Insane\]](https://osu.ppy.sh/b/454158)
+- DoubleTime
+  - [Hatsuki Yura - Ganbare! Koi no Hana (Kotone) \[Hana\]](https://osu.ppy.sh/b/167963)
+  - [senya - Bondage Anemonation (Satellite) \[Lunatic\]](https://osu.ppy.sh/b/323264)
+  - [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/b/216690)
+- FreeMod
+  - [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](https://osu.ppy.sh/b/537235)
+  - [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/b/486613) 
+  - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/b/313025)
+- Tiebreaker
+  - [Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/b/722224)
 
 ------------------------------------------------------------------------
 
