@@ -13,26 +13,26 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 | Rang | Land                     | Gold | Silber | Bronze |
 |:----:|-----------------------------|:----:|:------:|:------:|
-| 1    | ![][flag_KR] South Korea    | 7    | 1      | 2      |
+| 1    | ![][flag_KR] Südkorea    | 7    | 1      | 2      |
 | 2    | ![][flag_JP] Japan          | 6    | 4      | 2      |
 | 3    | ![][flag_TW] Taiwan         | 3    | 5      | 1      |
 | 4    | ![][flag_US] United States  | 3    |        |        |
 | 5    | ![][flag_CN] China          | 1    | 3      | 1      |
 | 6    | ![][flag_CL] Chile          | 1    |        |        |
 | 7    | ![][flag_HK] Hong Kong      |      | 3      | 1      |
-| 8    | ![][flag_DE] Germany        |      | 1      | 2      |
-| 8    | ![][flag_PL] Poland         |      | 1      | 2      |
-| 9    | ![][flag_NL] Netherlands    |      | 1      |        |
-| 9    | ![][flag_PH] Philippines    |      | 1      |        |
+| 8    | ![][flag_DE] Deutschland       |      | 1      | 2      |
+| 8    | ![][flag_PL] Polen         |      | 1      | 2      |
+| 9    | ![][flag_NL] Niederland    |      | 1      |        |
+| 9    | ![][flag_PH] Philippinen    |      | 1      |        |
 | 9    | ![][flag_TH] Thailand       |      | 1      |        |
 | 10   | ![][flag_MY] Malaysia       |      |        | 3      |
-| 11   | ![][flag_FR] France         |      |        | 2      |
-| 12   | ![][flag_AR] Argentina      |      |        | 1      |
-| 12   | ![][flag_BR] Brazil         |      |        | 1      |
+| 11   | ![][flag_FR] Frankreich        |      |        | 2      |
+| 12   | ![][flag_AR] Argentinien      |      |        | 1      |
+| 12   | ![][flag_BR] Brasilien        |      |        | 1      |
 | 12   | ![][flag_CA] Canada         |      |        | 1      |
-| 12   | ![][flag_CO] Colombia       |      |        | 1      |
-| 12   | ![][flag_SE] Sweden         |      |        | 1      |
-| 12   | ![][flag_GB] United Kingdom |      |        | 1      |
+| 12   | ![][flag_CO] Kolumbien       |      |        | 1      |
+| 12   | ![][flag_SE] Schweden        |      |        | 1      |
+| 12   | ![][flag_GB] Großbritannien |      |        | 1      |
 
 ## Per Mode
 
@@ -42,63 +42,63 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 | Rang | Land                    | Gold | Silber | Bronze |
 |:----:|----------------------------|:----:|:------:|:------:|
-| 1    | ![][flag_KR] South Korea   | 3    |        | 2      |
+| 1    | ![][flag_KR] Südkorea   | 3    |        | 2      |
 | 2    | ![][flag_US] United States | 2    |        |        |
 | 3    | ![][flag_JP] Japan         | 1    | 2      |        |
 | 4    | ![][flag_TW] Taiwan        | 1    | 1      | 1      |
 | 5    | ![][flag_CN] China         |      | 2      |        |
-| 6    | ![][flag_PL] Poland        |      | 1      | 2      |
-| 7    | ![][flag_NL] Netherlands   |      | 1      |        |
-| 8    | ![][flag_BR] Brazil        |      |        | 1      |
-| 8    | ![][flag_DE] Germany       |      |        | 1      |
+| 6    | ![][flag_PL] Polen        |      | 1      | 2      |
+| 7    | ![][flag_NL] Niederland   |      | 1      |        |
+| 8    | ![][flag_BR] Brasilien       |      |        | 1      |
+| 8    | ![][flag_DE] Deutschland      |      |        | 1      |
 
 #### Teilnahme
 
 | Land                         | #1              | #2              | #3              | 2013            | 2014             | 2015            | 2016            |
 |---------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|-----------------|-----------------|
-| ![][flag_AR] Argentina          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_AU] Australia          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_AR] Argentinien          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_AU] Australien          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AT] Austria            | ![][true]       | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_BE] Belgium            | ![][false]      | ![][false]      | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
-| ![][flag_BR] Brazil             | ![][true]       | ![][true] (3rd) | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_BE] Belgien            | ![][false]      | ![][false]      | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
+| ![][flag_BR] Brasilien            | ![][true]       | ![][true] (3rd) | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_BG] Bulgaria           | ![][false]      | ![][true]       | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
 | ![][flag_CA] Canada             | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_CL] Chile              | ![][true] (4th) | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][false]      | ![][true]       |
 | ![][flag_CN] China              | ![][true]       | ![][false]      | ![][true]       | ![][true]       | ![][true]        | ![][true] (2nd) | ![][true] (2nd) |
-| ![][flag_DK] Denmark            | ![][false]      | ![][true]       | ![][false]      | ![][false]      | ![][true]        | ![][false]      | ![][true]       |
-| ![][flag_DO] Dominican Republic | ![][true]       | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
-| ![][flag_EE] Estonia            | ![][false]      | ![][false]      | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
-| ![][flag_FI] Finland            | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_FR] France             | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_DE] Germany            | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true] (3rd)  | ![][true]       | ![][true]       |
+| ![][flag_DK] Dänemark            | ![][false]      | ![][true]       | ![][false]      | ![][false]      | ![][true]        | ![][false]      | ![][true]       |
+| ![][flag_DO] Dominikanische Republik | ![][true]       | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
+| ![][flag_EE] Estland            | ![][false]      | ![][false]      | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
+| ![][flag_FI] Finnland           | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_FR] Frankreich            | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_DE] Deutschland           | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true] (3rd)  | ![][true]       | ![][true]       |
 | ![][flag_GR] Greece             | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][true]       | ![][true]       |
 | ![][flag_HK] Hong Kong          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_HU] Hungary            | ![][false]      | ![][true]       | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
-| ![][flag_ID] Indonesia          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][false]      | ![][true]       |
+| ![][flag_ID] Indonesien          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][false]      | ![][true]       |
 | ![][flag_IL] Israel             | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][true]       |
-| ![][flag_IT] Italy              | ![][true]       | ![][false]      | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_IT] Italien              | ![][true]       | ![][false]      | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_JP] Japan              | ![][true]       | ![][true] (2nd) | ![][true] (2nd) | ![][true]       | ![][true]  (1st) | ![][true]       | ![][false]      |
-| ![][flag_LV] Latvia             | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][false]       | ![][true]       | ![][true]       |
-| ![][flag_LT] Lithuania          | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][true]        | ![][true]       | ![][false]      |
+| ![][flag_LV] Lettland             | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][false]       | ![][true]       | ![][true]       |
+| ![][flag_LT] Litauen          | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][true]        | ![][true]       | ![][false]      |
 | ![][flag_MO] Macau              | ![][true]       | ![][false]      | ![][true]       | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
 | ![][flag_MY] Malaysia           | ![][true]       | ![][true]       | ![][true]       | ![][false]      | ![][true]        | ![][true]       | ![][false]      |
-| ![][flag_MX] Mexico             | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_NL] Netherlands        | ![][true] (2nd) | ![][true]       | ![][true] (4th) | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_NZ] New Zealand        | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_NO] Norway             | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_PH] Philippines        | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_PL] Poland             | ![][true]       | ![][true]       | ![][true]       | ![][true] (3rd) | ![][true] (2nd)  | ![][true] (3rd) | ![][true]       |
+| ![][flag_MX] Mexiko             | ![][false]      | ![][false]      | ![][false]      | ![][false]      | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_NL] Niederland        | ![][true] (2nd) | ![][true]       | ![][true] (4th) | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_NZ] Neuseeland       | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_NO] Norwegen             | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_PH] Philippinen        | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_PL] Polen             | ![][true]       | ![][true]       | ![][true]       | ![][true] (3rd) | ![][true] (2nd)  | ![][true] (3rd) | ![][true]       |
 | ![][flag_PT] Portugal           | ![][true]       | ![][true]       | ![][true]       | ![][false]      | ![][true]        | ![][true]       | ![][false]      |
-| ![][flag_RU] Russian Federation | ![][true]       | ![][true] (4th) | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_SG] Singapore          | ![][false]      | ![][false]      | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_KR] South Korea        | ![][true] (3rd) | ![][true] (1st) | ![][true] (1st) | ![][true] (1st) | ![][true] (4th)  | ![][true] (4th) | ![][true] (3rd) |
-| ![][flag_ES] Spain              | ![][true]       | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][true]       |
-| ![][flag_SE] Sweden             | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_RU] Russland | ![][true]       | ![][true] (4th) | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_SG] Singapur          | ![][false]      | ![][false]      | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
+| ![][flag_KR] Südkorea        | ![][true] (3rd) | ![][true] (1st) | ![][true] (1st) | ![][true] (1st) | ![][true] (4th)  | ![][true] (4th) | ![][true] (3rd) |
+| ![][flag_ES] Spanien              | ![][true]       | ![][false]      | ![][false]      | ![][false]      | ![][false]       | ![][false]      | ![][true]       |
+| ![][flag_SE] Schweden            | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_TW] Taiwan             | ![][true] (1st) | ![][true]       | ![][true] (3rd) | ![][true] (2nd) | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_TH] Thailand           | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][false]       | ![][true]       | ![][false]      |
-| ![][flag_TR] Turkey             | ![][false]      | ![][false]      | ![][true]       | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
+| ![][flag_TR] Türkei             | ![][false]      | ![][false]      | ![][true]       | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
 | ![][flag_UA] Ukraine            | ![][true]       | ![][true]       | ![][true]       | ![][false]      | ![][true]        | ![][true]       | ![][true]       |
-| ![][flag_GB] United Kingdom     | ![][true]       | ![][false]      | ![][true]       | ![][true] (4th) | ![][true]        | ![][true]       | ![][true] (4th) |
+| ![][flag_GB] Großbritannien     | ![][true]       | ![][false]      | ![][true]       | ![][true] (4th) | ![][true]        | ![][true]       | ![][true] (4th) |
 | ![][flag_US] United States      | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true] (1st) | ![][true] (1st) |
 | ![][flag_UY] Uruguay            | ![][false]      | ![][true]       | ![][true]       | ![][false]      | ![][false]       | ![][false]      | ![][false]      |
 | ![][flag_VE] Venezuela          | ![][false]      | ![][false]      | ![][false]      | ![][true]       | ![][false]       | ![][false]      | ![][false]      |
@@ -112,9 +112,9 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 | Rang | Land                    | Gold | Silber | Bronze |
 |:----:|----------------------------|:----:|:------:|:------:|
 | 1    | ![][flag_JP] Japan         | 5    | 1      | 2      |
-| 2    | ![][flag_TW] Taiwan |      | 2    | 3      |        |
+| 2    | ![][flag_TW] Taiwan        | 2    | 3      |        |
 | 3    | ![][flag_HK] Hong Kong     |      | 3      | 1      |
-| 4    | ![][flag_FR] France        |      |        | 2      |
+| 4    | ![][flag_FR] Frankreich       |      |        | 2      |
 | 5    | ![][flag_CA] Canada        |      |        | 1      |
 | 5    | ![][flag_CN] China         |      |        | 1      |
 
@@ -122,38 +122,38 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 | Land                     | 2011          | 2012                 | \#3              | 2014          | 2015          | 2016          | 2017          |
 |-----------------------------|---------------|----------------------|------------------|---------------|---------------|---------------|---------------|
-| ![][flag_AR] Argentina      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_AU] Australia      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_AR] Argentinien      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_AU] Australien      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria        | ![][false]    | ![][true]            | ![][false]       | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
-| ![][flag_BR] Brazil         | ![][true] ½   | ![][true]            | ![][false]       | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_BR] Brasilien        | ![][true] ½   | ![][true]            | ![][false]       | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_CA] Canada         | ![][false]    | ![][true]            | ![][true] 4th ×2 | ![][true]     | ![][true]     | ![][true] 3rd | ![][true] 4th |
 | ![][flag_CL] Chile          | ![][true] ½   | ![][true]            | ![][true] ×2     | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_CN] China          | ![][true] 3rd | ![][true]            | ![][true] ×2     | ![][true] 4th | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_DK] Denmark        | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][true]     | ![][false]    | ![][false]    |
+| ![][flag_DK] Dänemark        | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][true]     | ![][false]    | ![][false]    |
 | ![][flag_SV] El Salvador    | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
-| ![][flag_FI] Finland        | ![][true]     | ![][false]           | ![][true]        | ![][false]    | ![][true]     | ![][false]    | ![][true]     |
-| ![][flag_FR] France         | ![][true]     | ![][true] 4th        | ![][true]        | ![][true] 3rd | ![][true] 3rd | ![][true]     | ![][true]     |
-| ![][flag_DE] Germany        | ![][true] ×2  | ![][true] ×2         | ![][true] ×2     | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_FI] Finnland       | ![][true]     | ![][false]           | ![][true]        | ![][false]    | ![][true]     | ![][false]    | ![][true]     |
+| ![][flag_FR] Frankreich        | ![][true]     | ![][true] 4th        | ![][true]        | ![][true] 3rd | ![][true] 3rd | ![][true]     | ![][true]     |
+| ![][flag_DE] Deutschland       | ![][true] ×2  | ![][true] ×2         | ![][true] ×2     | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_HK] Hong Kong      | ![][true]     | ![][true] 2nd ×2     | ![][true] 2nd ×2 | ![][true] 2nd | ![][true] 4th | ![][true]     | ![][true] 3rd |
 | ![][flag_HU] Hungary        | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][false]    | ![][false]    |
-| ![][flag_ID] Indonesia      | ![][false]    | ![][false]           | ![][true]        | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_IT] Italy          | ![][true] ½   | ![][true] ½          | ![][true] ½      | ![][false]    | ![][true]     | ![][true]     | ![][false]    |
+| ![][flag_ID] Indonesien      | ![][false]    | ![][false]           | ![][true]        | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_IT] Italien          | ![][true] ½   | ![][true] ½          | ![][true] ½      | ![][false]    | ![][true]     | ![][true]     | ![][false]    |
 | ![][flag_JP] Japan          | ![][true] 2nd | ![][true] 1st 3rd ×2 | ![][true] 3rd ×2 | ![][true] 1st | ![][true] 1st | ![][true] 1st | ![][true] 1st |
 | ![][flag_MO] Macau          | ![][false]    | ![][true]            | ![][true]        | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
 | ![][flag_MY] Malaysia       | ![][true]     | ![][true]            | ![][true]        | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_NL] Netherlands    | ![][true] ½   | ![][true] ½          | ![][true] ½      | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
-| ![][flag_NO] Norway         | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][true]     | ![][false]    | ![][true]     |
-| ![][flag_PH] Philippines    | ![][true]     | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][false]    |
-| ![][flag_PL] Poland         | ![][true]     | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_NL] Niederland    | ![][true] ½   | ![][true] ½          | ![][true] ½      | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
+| ![][flag_NO] Norwegen         | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][true]     | ![][false]    | ![][true]     |
+| ![][flag_PH] Philippinen    | ![][true]     | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][false]    |
+| ![][flag_PL] Polen         | ![][true]     | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_RU] Russia         | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_SG] Singapore      | ![][false]    | ![][false]           | ![][false]       | ![][true]     | ![][true]     | ![][true]     | ![][false]    |
-| ![][flag_KR] South Korea    | ![][true] ×2  | ![][true] ×2         | ![][true]        | ![][true]     | ![][true]     | ![][true] 4th | ![][true]     |
-| ![][flag_ES] Spain          | ![][false]    | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_SE] Sweden         | ![][false]    | ![][false]           | ![][false]       | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_SG] Singapur      | ![][false]    | ![][false]           | ![][false]       | ![][true]     | ![][true]     | ![][true]     | ![][false]    |
+| ![][flag_KR] Südkorea    | ![][true] ×2  | ![][true] ×2         | ![][true]        | ![][true]     | ![][true]     | ![][true] 4th | ![][true]     |
+| ![][flag_ES] Spanien          | ![][false]    | ![][true]            | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_SE] Schweden        | ![][false]    | ![][false]           | ![][false]       | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_TW] Taiwan         | ![][true] 1st | ![][true] ×2         | ![][true] 1st ×2 | ![][false]    | ![][true] 2nd | ![][true] 2nd | ![][true] 2nd |
 | ![][flag_TH] Thailand       | ![][false]    | ![][false]           | ![][true]        | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
 | ![][flag_UA] Ukraine        | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_GB] United Kingdom | ![][true]     | ![][false]           | ![][false]       | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_GB] Großbritannien | ![][true]     | ![][false]           | ![][false]       | ![][true]     | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_US] United States  | ![][true] 4th | ![][true] ×2         | ![][true] ×2     | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_VE] Venezuela      | ![][false]    | ![][false]           | ![][true] ½      | ![][false]    | ![][false]    | ![][true]     | ![][true]     |
 | Total number of teams       | 17            | 24                   | 32               | 20            | 24            | 24            | 24            |
@@ -164,60 +164,60 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 | Rang | Land                  | Gold | Silber | Bronze |
 |:----:|:------------------------:|:----:|:------:|:------:|
-| 1    | ![][flag_KR] South Korea | 2    |        |        |
+| 1    | ![][flag_KR] Südkorea | 2    |        |        |
 | 2    | ![][flag_CN] China       | 1    | 1      |        |
 | 3    | ![][flag_CL] Chile       | 1    |        |        |
-| 4    | ![][flag_DE] Germany     |      | 1      | 2      |
-| 5    | ![][flag_ID] Indonesia   |      | 1      |        |
+| 4    | ![][flag_DE] Deutschland    |      | 1      | 2      |
+| 5    | ![][flag_ID] Indonesien   |      | 1      |        |
 | 5    | ![][flag_TW] Taiwan      |      | 1      |        |
-| 6    | ![][flag_AR] Argentina   |      |        | 1      |
-| 6    | ![][flag_CO] Colombia    |      |        | 1      |
-| 6    | ![][flag_SE] Sweden      |      |        | 1      |
+| 6    | ![][flag_AR] Argentinien   |      |        | 1      |
+| 6    | ![][flag_CO] Kolumbien    |      |        | 1      |
+| 6    | ![][flag_SE] Schweden     |      |        | 1      |
 
 #### Teilnahme
 
 | Land                         | 2013             | 2014          | 2015          | 2016          |
 |---------------------------------|------------------|---------------|---------------|---------------|
-| ![][flag_AR] Argentina          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_AU] Australia          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_AR] Argentinien          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_AU] Australien          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria            | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
-| ![][flag_BE] Belgium            | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_BE] Belgien            | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_BO] Bolivia            | ![][false]       | ![][true]     | ![][false]    | ![][false]    |
-| ![][flag_BR] Brazil             | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_BR] Brasilien            | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_CA] Canada             | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_CL] Chile              | ![][true] 1st ×2 | ![][false]    | ![][true] 4th | ![][true]     |
 | ![][flag_CN] China              | ![][true]        | ![][true]     | ![][true] 2nd | ![][true] 1st |
-| ![][flag_CO] Colombia           | ![][true] 3rd ½  | ![][false]    | ![][false]    | ![][false]    |
+| ![][flag_CO] Kolumbien           | ![][true] 3rd ½  | ![][false]    | ![][false]    | ![][false]    |
 | ![][flag_CR] Costa Rica         | ![][true]        | ![][false]    | ![][false]    | ![][false]    |
 | ![][flag_HR] Croatia            | ![][false]       | ![][true]     | ![][false]    | ![][false]    |
 | ![][flag_CZ] Czech Republic     | ![][true] ½      | ![][false]    | ![][false]    | ![][false]    |
-| ![][flag_DK] Denmark            | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_EE] Estonia            | ![][false]       | ![][true]     | ![][false]    | ![][false]    |
-| ![][flag_FI] Finland            | ![][true] 4th    | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_FR] France             | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_DE] Germany            | ![][true] ×2     | ![][true] 2nd | ![][true] 3rd | ![][true] 3rd |
+| ![][flag_DK] Dänemark            | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_EE] Estland            | ![][false]       | ![][true]     | ![][false]    | ![][false]    |
+| ![][flag_FI] Finnland           | ![][true] 4th    | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_FR] Frankreich            | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_DE] Deutschland           | ![][true] ×2     | ![][true] 2nd | ![][true] 3rd | ![][true] 3rd |
 | ![][flag_HK] Hong Kong          | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_HU] Hungary            | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_ID] Indonesia          | ![][true] ×2     | ![][true]     | ![][true]     | ![][true] 2nd |
-| ![][flag_IT] Italy              | ![][true] ×2     | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_ID] Indonesien          | ![][true] ×2     | ![][true]     | ![][true]     | ![][true] 2nd |
+| ![][flag_IT] Italien              | ![][true] ×2     | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_JP] Japan              | ![][true]        | ![][true] 4th | ![][true]     | ![][true]     |
 | ![][flag_MY] Malaysia           | ![][true] ×2     | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_MX] Mexico             | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_NL] Netherlands        | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_NZ] New Zealand        | ![][false]       | ![][true]     | ![][false]    | ![][true]     |
-| ![][flag_NO] Norway             | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_MX] Mexiko             | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_NL] Niederland        | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_NZ] Neuseeland       | ![][false]       | ![][true]     | ![][false]    | ![][true]     |
+| ![][flag_NO] Norwegen             | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_PE] Peru               | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_PH] Philippines        | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_PL] Poland             | ![][true] ½      | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_RU] Russian Federation | ![][true] ½      | ![][false]    | ![][true]     | ![][true]     |
-| ![][flag_SG] Singapore          | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
-| ![][flag_KR] South Korea        | ![][true]        | ![][true] 1st | ![][true] 1st | ![][true] 4th |
-| ![][flag_ES] Spain              | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
-| ![][flag_SE] Sweden             | ![][false]       | ![][true] 3rd | ![][true]     | ![][true]     |
+| ![][flag_PH] Philippinen        | ![][true]        | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_PL] Polen             | ![][true] ½      | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_RU] Russland | ![][true] ½      | ![][false]    | ![][true]     | ![][true]     |
+| ![][flag_SG] Singapur          | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_KR] Südkorea        | ![][true]        | ![][true] 1st | ![][true] 1st | ![][true] 4th |
+| ![][flag_ES] Spanien              | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
+| ![][flag_SE] Schweden            | ![][false]       | ![][true] 3rd | ![][true]     | ![][true]     |
 | ![][flag_TW] Taiwan             | ![][true] 2nd ×2 | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_TH] Thailand           | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
 | ![][flag_UA] Ukraine            | ![][true] ½      | ![][false]    | ![][false]    | ![][false]    |
-| ![][flag_GB] United Kingdom     | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
+| ![][flag_GB] Großbritannien     | ![][false]       | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_US] United States      | ![][true]        | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_UY] Uruguay            | ![][false]       | ![][true]     | ![][false]    | ![][false]    |
 | ![][flag_VE] Venezuela          | ![][false]       | ![][false]    | ![][false]    | ![][true]     |
@@ -229,57 +229,57 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 
 | Rang | Land                    | Gold | Silber | Bronze |
 |:----:|----------------------------|:----:|:------:|:------:|
-| 1    | ![][flag_KR] South Korea   | 3    | 1      |        |
+| 1    | ![][flag_KR] Südkorea   | 3    | 1      |        |
 | 2    | ![][flag_US] United States | 1    |        | 1      |
 | 3    | ![][flag_CN] China         | 1    |        |        |
-| 4    | ![][flag_BR] Brazil        |      | 1      |        |
+| 4    | ![][flag_BR] Brasilien       |      | 1      |        |
 | 4    | ![][flag_JP] Japan         |      | 1      |        |
-| 4    | ![][flag_PH] Philippines   |      | 1      |        |
+| 4    | ![][flag_PH] Philippinen   |      | 1      |        |
 | 4    | ![][flag_TH] Thailand      |      | 1      |        |
 | 5    | ![][flag_MY] Malaysia      |      |        | 3      |
-| 6   | ![][flag_GB] United Kingdom |      |        | 1      |
+| 6   | ![][flag_GB] Großbritannien |      |        | 1      |
 
 #### Teilnahme
 
 | Land                         | 2014 4K       | 2014 7K       | 2015 4K       | 2016 7K       | 2016 4K       | 2017 7K    |
 |---------------------------------|---------------|---------------|---------------|---------------|---------------|------------|
-| ![][flag_AR] Argentina          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
-| ![][flag_AU] Australia          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
-| ![][flag_BE] Belgium            | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_BR] Brazil             | ![][false]    | ![][false]    | ![][true] 4th | ![][true]     | ![][true] 2nd | ![][true]  |
+| ![][flag_AR] Argentinien          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
+| ![][flag_AU] Australien          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_BE] Belgien            | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_BR] Brasilien            | ![][false]    | ![][false]    | ![][true] 4th | ![][true]     | ![][true] 2nd | ![][true]  |
 | ![][flag_CA] Canada             | ![][true]     | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][false] |
 | ![][flag_CL] Chile              | ![][false]    | ![][true]     | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
 | ![][flag_CN] China              | ![][false]    | ![][true]     | ![][true]     | ![][true] 1st | ![][false]    | ![][true]  |
 | ![][flag_CZ] Czech Republic     | ![][true]     | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][false] |
-| ![][flag_DK] Denmark            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_FI] Finland            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_FR] France             | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
-| ![][flag_DE] Germany            | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][false] |
+| ![][flag_DK] Dänemark            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_FI] Finnland           | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_FR] Frankreich            | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_DE] Deutschland           | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][false] |
 | ![][flag_HK] Hong Kong          | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_ID] Indonesia          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_ID] Indonesien          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_IL] Israel             | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
-| ![][flag_IT] Italy              | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][false] |
+| ![][flag_IT] Italien              | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][false] |
 | ![][flag_JP] Japan              | ![][true]     | ![][true] 4th | ![][true] 2nd | ![][true] 4th | ![][true] 4th | ![][false] |
-| ![][flag_LT] Lithuania          | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_LT] Litauen          | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
 | ![][flag_MO] Macau              | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
 | ![][flag_MY] Malaysia           | ![][true] 3rd | ![][true] 3rd | ![][true]     | ![][true] 3rd | ![][true]     | ![][true]  |
-| ![][flag_MX] Mexico             | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_NL] Netherlands        | ![][false]    | ![][true]     | ![][true]     | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_NZ] New Zealand        | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_NO] Norway             | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][false] |
+| ![][flag_MX] Mexiko             | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_NL] Niederland        | ![][false]    | ![][true]     | ![][true]     | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_NZ] Neuseeland       | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_NO] Norwegen             | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][false] |
 | ![][flag_PE] Peru               | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
-| ![][flag_PH] Philippines        | ![][true] 2nd | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
-| ![][flag_PL] Poland             | ![][true] 4th | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_PH] Philippinen        | ![][true] 2nd | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_PL] Polen             | ![][true] 4th | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_PT] Portugal           | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false]    | ![][false] |
-| ![][flag_RU] Russian Federation | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
-| ![][flag_SG] Singapore          | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
-| ![][flag_KR] South Korea        | ![][true] 1st | ![][true] 1st | ![][true]     | ![][true] 2nd | ![][true] 1st | ![][true]  |
-| ![][flag_ES] Spain              | ![][true]     | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
-| ![][flag_SE] Sweden             | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][false] |
+| ![][flag_RU] Russland | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_SG] Singapur          | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_KR] Südkorea        | ![][true] 1st | ![][true] 1st | ![][true]     | ![][true] 2nd | ![][true] 1st | ![][true]  |
+| ![][flag_ES] Spanien              | ![][true]     | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
+| ![][flag_SE] Schweden            | ![][false]    | ![][false]    | ![][true]     | ![][true]     | ![][true]     | ![][false] |
 | ![][flag_CH] Switzerland        | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |
 | ![][flag_TW] Taiwan             | ![][true]     | ![][false]    | ![][true]     | ![][true]     | ![][false]    | ![][false] |
 | ![][flag_TH] Thailand           | ![][false]    | ![][true] 2nd | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
-| ![][flag_GB] United Kingdom     | ![][true]     | ![][true]     | ![][true] 3rd | ![][true]     | ![][true]     | ![][true]  |
+| ![][flag_GB] Großbritannien     | ![][true]     | ![][true]     | ![][true] 3rd | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_US] United States      | ![][true]     | ![][true]     | ![][true] 1st | ![][true]     | ![][true] 3rd | ![][true]  |
 | ![][flag_VE] Venezuela          | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
 | ![][flag_VN] Vietnam            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
