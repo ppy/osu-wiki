@@ -20,6 +20,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 15/10/2013 | 08/12/2013 | ![][flag_KR] South Korea               | ![][flag_TW] Taiwan                      | ![][flag_PL] Poland                      |
 | [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 02/10/2014 | 14/12/2014 | ![][flag_JP] Japan                     | ![][flag_PL] Poland                      | ![][flag_DE] Germany                     |
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 01/10/2015 | 13/12/2015 | ![][flag_US] USA                       | ![][flag_CN] China                       | ![][flag_PL] Poland                      |
+| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 02/10/2016 | 18/12/2016 | ![][flag_US] USA                       | ![][flag_CN] China                       | ![][flag_KR] South Korea                     |
 
 ### ![](/wiki/shared/Taiko.gif) Taiko World Cup
 
@@ -31,15 +32,18 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 16/01/2014 | 09/03/2014 | ![][flag_JP] Japan                     | ![][flag_HK] Hong Kong                   | ![][flag_FR] France                      |
 | [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 12/01/2015 | 15/03/2015 | ![][flag_JP] Japan                     | ![][flag_TW] Taiwan                      | ![][flag_FR] France                      |
 | [Taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 09/02/2016 | 24/04/2016 | ![][flag_JP] Japan                     | ![][flag_TW] Taiwan                      | ![][flag_CA] Canada                      |
+| [Taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 07/02/2017 | 16/04/2017 | ![][flag_JP] Japan                     | ![][flag_TW] Taiwan                      | ![][flag_HK] Hong Kong                      |
 
 ### ![](/wiki/shared/Ctb.gif) Catch the Beat World Cup
 
 | Name                                            | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [Catch the beat World Cup 2012](/wiki/Tournaments/CWC/2012) | 05/11/2011 | 02/05/2012 | ![][flag_CN] China                     | ![][flag_TW] Taiwan                      | ![][flag_CL] Chile                       |
-| [Catch the beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 15/01/2013 | 10/03/2013 | ![][flag_CL] Chile                     | ![][flag_TW] Taiwan                      | ![][flag_AR] Argentinia/Colombia         |
+| Catch the beat World Cup 2012 | 05/11/2011 | 02/05/2012 | ![][flag_CN] China                     | ![][flag_TW] Taiwan                      | ![][flag_CL] Chile                       |
+| Catch the beat World Cup 2013 | 15/01/2013 | 10/03/2013 | ![][flag_CL] Chile                     | ![][flag_TW] Taiwan                      | ![][flag_AR] Argentinia/Colombia         |
 | [Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 11/04/2014 | 15/06/2014 | ![][flag_KR] South Korea               | ![][flag_DE] Germany                     | ![][flag_SE] Sweden                      |
 | [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015 | 14/06/2015 | ![][flag_KR] South Korea               | ![][flag_CN] China                       | ![][flag_DE] Germany                     |
+| [Catch the Beat World Cup 2016](/wiki/Tournaments/CWC/2016) | 12/04/2016 | 26/06/2016 | ![][flag_CN] China               | ![][flag_ID] Indonesia                      | ![][flag_DE] Germany                     |
+| [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 03/05/2017 | 09/07/2017 |                |                      |                     |
 
 ### ![](/wiki/shared/Mania.gif) osu!mania World Cup
 
@@ -82,6 +86,7 @@ See also
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
