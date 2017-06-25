@@ -45,7 +45,7 @@ Skill medals are currently divided into three groups: Combo, High Ranker, and St
 **The Combo** medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song.
 Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
 
-For the 1,000 and 2,000 combo medals, you should find an approved beatmaps instead of ranked beatmaps.
+For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps.
 **However, do not search for or play unapproved beatmaps!**
 
 ---
@@ -69,22 +69,22 @@ You can pass or get a S on a map with difficulty increasing mods or difficulty d
 The map must also be ranked to be able to earn a medal.
 Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
 
-| Standard | Taiko | Catch the Beat | Mania |
-| :------: | :---: | :------------: | :---: |
-| ![8 Star Standard Pass](img/osu-skill-pass-8.png "8 Star Standard Pass") | ![8 Star Taiko Pass](img/taiko-skill-pass-8.png "8 Star Taiko Pass") | ![8 Star Catch the Beat Pass](img/fruits-skill-pass-8.png "8 Star Catch the Beat Pass") | ![8 Star Mania Pass](img/mania-skill-pass-8.png "8 Star Mania Pass") |
-| ![8 Star Standard S](img/osu-skill-fc-8.png "8 Star Standard S") | ![8 Star Taiko S](img/taiko-skill-fc-8.png "8 Star Taiko S") | ![8 Star Catch the Beat S](img/fruits-skill-fc-8.png "8 Star Catch the Beat S") | ![8 Star Mania S](img/mania-skill-fc-8.png "8 Star Mania S") |
+| osu!standard | osu!taiko | osu!catch | osu!mania |
+| :----------: | :-------: | :-------: | :-------: |
+| ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
+| ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
 
 Dedication
 ----------
 
 The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
-| Standard | Taiko | Catch the Beat | Mania |
-| :------: | :---: | :------------: | :---: |
-| ![5,000 Plays (osu! mode)](img/osu-plays-5000.png "5,000 Plays (osu! mode)") | ![30,000 Drum Hits](img/taiko-hits-30000.png "30,000 Drum Hits") | ![Catch 20,000 fruits](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![40,000 Keys](img/mania-hits-40000.png "40,000 Keys") |
-| ![15,000 Plays (osu! mode)](img/osu-plays-15000.png "15,000 Plays (osu! mode)") | ![300,000 Drum Hits](img/taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](img/mania-hits-400000.png "400,000 Keys") |
-| ![25,000 Plays (osu! mode)](img/osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
-| ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
+| osu!standard | osu!taiko | osu!catch | osu!mania |
+| :----------: | :-------: | :-------: | :-------: |
+| ![5,000 Plays (osu!standard mode)](img/osu-plays-5000.png "5,000 Plays (osu!standard mode)") | ![30,000 Drum Hits](img/taiko-hits-30000.png "30,000 Drum Hits") | ![Catch 20,000 fruits](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![40,000 Keys](img/mania-hits-40000.png "40,000 Keys") |
+| ![15,000 Plays (osu!standard mode)](img/osu-plays-15000.png "15,000 Plays (osu!standard mode)") | ![300,000 Drum Hits](img/taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](img/mania-hits-400000.png "400,000 Keys") |
+| ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
+| ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
 Mod Introduction
 ----------------
