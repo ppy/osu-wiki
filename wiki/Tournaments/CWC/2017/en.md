@@ -52,7 +52,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 ### Saturday, 24 June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
 | Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 | ¹ |
 | Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | **12.30 UTC** | 20.30 UTC +8 | 21.30 UTC +9 | ² |
 | Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 | ² |
@@ -63,7 +63,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 ### Sunday, 25 June 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
 | Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **0.30 UTC** | 20.30 (Sat.) UTC -4 | 19.30 (Sat.) UTC -5 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 22.00 (Sat.) UTC -4 | ¹ |
 | Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | **3.30 UTC** | 11.30 UTC +8 | 22.30 (Sat.) UTC -5 | ³ |
