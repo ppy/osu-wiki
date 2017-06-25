@@ -2,12 +2,6 @@
 
 "accuracy":                    "Accuracy"
 
-"achievements":                "Achievements"
-"achievement":                 "Achievements"
-"medals":                      "Achievements"
-"medal":                       "Achievements"
-"beatmap_packs_0916":          "Achievements/Beatmap_Packs_0916"
-
 "announcements":               "Announcements"
 "archive":                     "Announcements/Archive"
 "archives":                    "Announcements/Archive"
@@ -780,6 +774,12 @@
 "mascot_gallery":              "Mascots/Gallery"
 "gallery_mascots":             "Mascots/Gallery"
 "gallery_mascot":              "Mascots/Gallery"
+
+"medals":                      "Medals"
+"medal":                       "Medals"
+"achievements":                "Medals"
+"achievement":                 "Medals"
+"beatmap_packs_0916":          "Medals/Beatmap_Packs_0916"
 
 "modding":                     "Modding"
 
