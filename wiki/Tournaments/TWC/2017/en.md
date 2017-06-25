@@ -91,156 +91,113 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 ------------------------------------------------------------------------
 
 ## Mappool
+
 ### Group Stage
 
 **[Download the mappack here!](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar)**
 
-| NoMod | |
-| --- | :--- |
-| [ENNNN - Nightfall (Ryui)](https://osu.ppy.sh/b/700552&m=1) | [Collab] |
-| [Nekomata Master+ - POINT ZERO (Nyan)](https://osu.ppy.sh/b/680907&m=1) | [NONSTOP] |
-| [shirole2 - Shounen wa Sora o Tadoru (Like Jazz Remix) (tasuke912)](https://osu.ppy.sh/b/755254&m=1) | [Oni] |
-| [COSIO(ZUNTATA) - FUJIN Rumble (seanhappy8520)](https://osu.ppy.sh/b/786641&m=1) | [GrooveCoaster-Hard(no SV)] |
-| [Venetian Snares - Epidermis (Tasha)](https://osu.ppy.sh/b/269160&m=1) | [Muri] |
-| [dj TAKA VS DJ TOTTO feat.Ai - IX (yaoyujie0332)](https://osu.ppy.sh/b/1152251&m=1) | [Oni] |
-
-| Hidden | |
-| --- | :--- |
-| [EBICO & jioyi - Slit (Firce777)](https://osu.ppy.sh/b/497928&m=1) | [Inner [O]ni] |
-| [BlackY vs. Yooh - HAVOX (Arrival)](https://osu.ppy.sh/b/1172439&m=1) | [Inner Oni] |
-
-| HardRock | |
-| --- | :--- |
-| [YUC'e - MUDPIE (Y O U T A)](https://osu.ppy.sh/b/1185733&m=1) | [Kinobles' Pie] |
-| [USAO - Dynamite (Extended Mix) (tsubaki131)](https://osu.ppy.sh/b/1149905&m=1) | [nyan] |
-
-| DoubleTime | |
-| --- | :--- |
-| [Caravan Palace - Dragons (Charles445)](https://osu.ppy.sh/b/145511&m=1) | [MM's Taiko] |
-| [yassu - dolosus (yassu-)](https://osu.ppy.sh/b/927446&m=1) | [Inner Oni] |
-
-| FreeMod | |
-| --- | :--- |
-| [Feryquitous - Dstorv (Juuryoushin)](https://osu.ppy.sh/b/719626&m=1) | [Distortion] (HD, HR) |
-| [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool)](https://osu.ppy.sh/b/932407&m=1) | [Hard Oni] (HD, HDHR) |
-| [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (EvilElvis)](https://osu.ppy.sh/b/1030166&m=1) | [taiko] (Any) |
-
-| Tiebreaker | |
-| --- | :--- |
-| [Yuuyu - Iki o Koroshita Stokesia (Sayaka-)](https://osu.ppy.sh/b/830240&m=1) | [Oni] (Any) |
+- NoMod
+  - [ENNNN - Nightfall (Ryui) \[Collab\]](https://osu.ppy.sh/b/700552&m=1)
+  - [Nekomata Master+ - POINT ZERO (Nyan) \[NONSTOP\]](https://osu.ppy.sh/b/680907&m=1)
+  - [shirole2 - Shounen wa Sora o Tadoru (Like Jazz Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/b/755254&m=1)
+  - [COSIO(ZUNTATA) - FUJIN Rumble (seanhappy8520) \[GrooveCoaster-Hard(no SV)\]](https://osu.ppy.sh/b/786641&m=1)
+  - [Venetian Snares - Epidermis (Tasha) \[Muri\]](https://osu.ppy.sh/b/269160&m=1)
+  - [dj TAKA VS DJ TOTTO feat.Ai - IX (yaoyujie0332) \[Oni\]](https://osu.ppy.sh/b/1152251&m=1)
+- Hidden
+  - [EBICO & jioyi - Slit (Firce777) \[Inner \[O\]ni\]](https://osu.ppy.sh/b/497928&m=1)
+  - [BlackY vs. Yooh - HAVOX (Arrival) \[Inner Oni\]](https://osu.ppy.sh/b/1172439&m=1)
+- HardRock
+  - [YUC'e - MUDPIE (Y O U T A) \[Kinobles' Pie\]](https://osu.ppy.sh/b/1185733&m=1)
+  - [USAO - Dynamite (Extended Mix) (tsubaki131) \[nyan\]](https://osu.ppy.sh/b/1149905&m=1)
+- DoubleTime
+  - [Caravan Palace - Dragons (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/145511&m=1)
+  - [yassu - dolosus (yassu-) \[Inner Oni\]](https://osu.ppy.sh/b/927446&m=1)
+- FreeMod
+  - [Feryquitous - Dstorv (Juuryoushin) \[Distortion\] (HD, HR)](https://osu.ppy.sh/b/719626&m=1)
+  - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\] (HD, HDHR)](https://osu.ppy.sh/b/932407&m=1)
+  - [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (EvilElvis) \[taiko\] (Any)](https://osu.ppy.sh/b/1030166&m=1)
+- Tiebreaker
+  - [Yuuyu - Iki o Koroshita Stokesia (Sayaka-) \[Oni\] (Any)](https://osu.ppy.sh/b/830240&m=1)
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
 
-| NoMod | |
-| --- | :--- |
-| [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi)](https://osu.ppy.sh/b/1149263&m=1) | [Kraken] |
-| [Lite Show Magic - Stronghold (Nofool)](https://osu.ppy.sh/b/995363&m=1) | [Special Oni] |
-| [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki)](https://osu.ppy.sh/b/465665&m=1) | [Kagami's Taiko] |
-| [LeaF - Paraclete (Kroytz)](https://osu.ppy.sh/b/1023467&m=1) | [Nwolf's Inner Oni] |
-| [Noah - Clash of swords (myckoll)](https://osu.ppy.sh/b/1173780&m=1) | [MyckOni] |
-| [Toby Fox - Spider Dance (Camellia Remix) (nananass)](https://osu.ppy.sh/b/1195443&m=1) | [Oni] |
-
-| Hidden | |
-| --- | :--- |
-| [KillerBlood - Run Lads Run (Nwolf)](https://osu.ppy.sh/b/1210839&m=1) | [Run Oni Run] |
-| [BlackY - Harpuia (Ichigaki)](https://osu.ppy.sh/b/706841&m=1) | [Inner Oni] |
-
-| HardRock | |
-| --- | :--- |
-| [L.E.D. vs S-C-U - Confiserie (-xNaCLx-)](https://osu.ppy.sh/b/809880&m=1) | [Inner Oni] |
-| [Kola Kid - can't hide your love (Ekoro)](https://osu.ppy.sh/b/488844&m=1) | [Divine Light] |
-
-| DoubleTime | |
-| --- | :--- |
-| [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn)](https://osu.ppy.sh/b/978374&m=1) | [Nwolf's Oni] |
-| [SABREMISSILE - Pernicious Deed (Unmei Muma)](https://osu.ppy.sh/b/1220922&m=1) | [Pernicious] |
-
-| FreeMod | |
-| --- | :--- |
-| [AAAA Chazuke - Hop Step Adventure* (TKS)](https://osu.ppy.sh/b/998269&m=1) | [Special*] (HR, HDHR) |
-| [Mitsuyoshi Takenobu no Ani - Amphisbaena (john571)](https://osu.ppy.sh/b/1150139&m=1) | [Inner oni] (Any) |
-| [Nizikawa - F.K.S (Arrival)](https://osu.ppy.sh/b/1165727&m=1) | [Inner Oni] (HDHR) |
-
-| Tiebreaker | |
-| --- | :--- |
-| [goreshit - looming shadow of a tree long gone (grumd)](https://osu.ppy.sh/b/344834&m=1) | [Loctav's Oni] (Any) |
+- NoMod
+  - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/b/1149263&m=1)
+  - [Lite Show Magic - Stronghold (Nofool) \[Special Oni\]](https://osu.ppy.sh/b/995363&m=1)
+  - [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/b/465665&m=1)
+  - [LeaF - Paraclete (Kroytz) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/b/1023467&m=1)
+  - [Noah - Clash of swords (myckoll) \[MyckOni\]](https://osu.ppy.sh/b/1173780&m=1)
+  - [Toby Fox - Spider Dance (Camellia Remix) (nananass) \[Oni\]](https://osu.ppy.sh/b/1195443&m=1)
+- Hidden
+  - [KillerBlood - Run Lads Run (Nwolf) \[Run Oni Run\]](https://osu.ppy.sh/b/1210839&m=1)
+  - [BlackY - Harpuia (Ichigaki) \[Inner Oni\]](https://osu.ppy.sh/b/706841&m=1)
+- HardRock
+  - [L.E.D. vs S-C-U - Confiserie (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/b/809880&m=1)
+  - [Kola Kid - can't hide your love (Ekoro) \[Divine Light\]](https://osu.ppy.sh/b/488844&m=1)
+- DoubleTime
+  - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Oni\]](https://osu.ppy.sh/b/978374&m=1)
+  - [SABREMISSILE - Pernicious Deed (Unmei Muma) \[Pernicious\]](https://osu.ppy.sh/b/1220922&m=1)
+- FreeMod
+  - [AAAA Chazuke - Hop Step Adventure* (TKS) \[Special*\] (HR, HDHR)](https://osu.ppy.sh/b/998269&m=1)
+  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (john571) \[Inner oni\] (Any)](https://osu.ppy.sh/b/1150139&m=1)
+  - [Nizikawa - F.K.S (Arrival) \[Inner Oni\] (HDHR)](https://osu.ppy.sh/b/1165727&m=1)
+- Tiebreaker
+  - [goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/b/344834&m=1)
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar)**
 
-| NoMod | |
-| --- | :--- |
-| [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz)](https://osu.ppy.sh/b/666515&m=1) | [Tatsujin] |
-| [kamome sano - Ganymede kamome mix (KDS)](https://osu.ppy.sh/b/553602&m=1) | [Firce777's Inner Oni] |
-| [FOLiACETATE - Heterochromia Iridis (Tasha)](https://osu.ppy.sh/b/659633&m=1) | [Muri] |
-| [t+pazolite - Marry me, Nightmare (Sayaka-)](https://osu.ppy.sh/b/958562&m=1) | [Inner Oni] |
-| [Rairyu - ra'am (glalucard)](https://osu.ppy.sh/b/524961&m=1) | [Taiko] |
-| [Morimori Atsushi - Tits or get the fuck out!! (ManP)](https://osu.ppy.sh/b/744166&m=1) | [Hell Oni] |
-
-| Hidden | |
-| --- | :--- |
-| [DJ Technorch - Feeling Mega-Good! (Radio Mix) (Backfire)](https://osu.ppy.sh/b/614333&m=1) | [Taikocalypse DX 3] |
-| [U1 High-Speed - EGOISM 440 (Nyan)](https://osu.ppy.sh/b/807680&m=1) | [Inner Oni] |
-
-| HardRock | |
-| --- | :--- |
-| [t+pazolite - Sneak Snake (R e i R i)](https://osu.ppy.sh/b/682323&m=1) | [Reiri & Ringo's Taiko] |
-| [xi - Garyou Tensei (Spicy Salsa)](https://osu.ppy.sh/b/1080076&m=1) | [Cdh's Inner Oni] |
-
-| DoubleTime | |
-| --- | :--- |
-| [Eagle - S!ck (TKS)](https://osu.ppy.sh/b/388397&m=1) | [Ryui's Inner On!] |
-| [sakuzyo - Altale (-xNaCLx-)](https://osu.ppy.sh/b/834458&m=1) | [Inner Oni] |
-
-| FreeMod | |
-| --- | :--- |
-| [UNDEAD CORPORATION - Embraced by the Flame (Nwolf)](https://osu.ppy.sh/b/940785&m=1) | [Deserted Oni] (Any) |
-| [Acrnym - Knife (LZD)](https://osu.ppy.sh/b/290466&m=1) | [LZD's Taiko] (Any) |
-| [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d)](https://osu.ppy.sh/b/1111087&m=1) | [No Regret] (HD, HR) |
-
-| Tiebreaker | |
-| --- | :--- |
-| [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard)](https://osu.ppy.sh/b/300030&m=1) | [Impossible Taiko] (Any) |
+- NoMod
+  - [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz) \[Tatsujin\]](https://osu.ppy.sh/b/666515&m=1)
+  - [kamome sano - Ganymede kamome mix (KDS) \[Firce777's Inner Oni\]](https://osu.ppy.sh/b/553602&m=1)
+  - [FOLiACETATE - Heterochromia Iridis (Tasha) \[Muri\]](https://osu.ppy.sh/b/659633&m=1)
+  - [t+pazolite - Marry me, Nightmare (Sayaka-) \[Inner Oni\]](https://osu.ppy.sh/b/958562&m=1)
+  - [Rairyu - ra'am (glalucard) \[Taiko\]](https://osu.ppy.sh/b/524961&m=1)
+  - [Morimori Atsushi - Tits or get the fuck out!! (ManP) \[Hell Oni\]](https://osu.ppy.sh/b/744166&m=1)
+- Hidden
+  - [DJ Technorch - Feeling Mega-Good! (Radio Mix) (Backfire) \[Taikocalypse DX 3\]](https://osu.ppy.sh/b/614333&m=1)
+  - [U1 High-Speed - EGOISM 440 (Nyan) \[Inner Oni\]](https://osu.ppy.sh/b/807680&m=1)
+- HardRock
+  - [t+pazolite - Sneak Snake (R e i R i) \[Reiri & Ringo's Taiko\]](https://osu.ppy.sh/b/682323&m=1)
+  - [xi - Garyou Tensei (Spicy Salsa) \[Cdh's Inner Oni\]](https://osu.ppy.sh/b/1080076&m=1)
+- DoubleTime
+  - [Eagle - S!ck (TKS) \[Ryui's Inner On!\]](https://osu.ppy.sh/b/388397&m=1)
+  - [sakuzyo - Altale (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/b/834458&m=1)
+- FreeMod
+  - [UNDEAD CORPORATION - Embraced by the Flame (Nwolf) \[Deserted Oni\] (Any)](https://osu.ppy.sh/b/940785&m=1)
+  - [Acrnym - Knife (LZD) \[LZD's Taiko\] (Any)](https://osu.ppy.sh/b/290466&m=1)
+  - [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d) \[No Regret\] (HD, HR)](https://osu.ppy.sh/b/1111087&m=1)
+- Tiebreaker
+  - [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard) \[Impossible Taiko\] (Any)](https://osu.ppy.sh/b/300030&m=1)
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar)**
 
-| NoMod | |
-| --- | :--- |
-| [MDK - Press Start (uone)](https://osu.ppy.sh/b/1170749&m=1) | [START] |
-| [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (Backfire)](https://osu.ppy.sh/b/700831&m=1) | [Taikocalypse Act IX : The Desperation] |
-| [t+pazolite - to Luv me I *** for u. (OnosakiHito)](https://osu.ppy.sh/b/475086&m=1) | [Taikosaki 2013] |
-| [t+pazolite - Boogie Woogie Splatter Show (12358)](https://osu.ppy.sh/b/159367&m=1) | [Taiko] |
-| [xi - Aragami (Sayaka-)](https://osu.ppy.sh/b/525910&m=1) | [Inner Oni] |
-
-| Hidden | |
-| --- | :--- |
-| [Cardboard Box - ++ (Vulkin)](https://osu.ppy.sh/b/1213129&m=1) | [Grim's N+] |
-| [The Flashbulb - Lawn Wake III (tasuke912)](https://osu.ppy.sh/b/582645&m=1) | [Oni] |
-
-| HardRock | |
-| --- | :--- |
-| [Chroma - sink to the deep sea world (Ulqui)](https://osu.ppy.sh/b/1248348&m=1) | [Overlapse Oni] |
-| [Tatsh - CYBER Sparks (Unmei Muma)](https://osu.ppy.sh/b/1233925&m=1) | [Akumu] |
-
-| DoubleTime | |
-| --- | :--- |
-| [cranky - R176 (taka1235)](https://osu.ppy.sh/b/121335&m=1) | [Pangko] |
-| [Presti - Veritas (Chromoxx)](https://osu.ppy.sh/b/1184169&m=1) | [Secret] |
-
-| FreeMod | |
-| --- | :--- |
-| [rider - Freja (Sayaka-)](https://osu.ppy.sh/b/1070630&m=1) | [Oni] (Any) |
-| [Thaehan - Bwa ! (Tasha)](https://osu.ppy.sh/b/1155334&m=1) | [Oni] (Any) |
-| [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Nofool)](https://osu.ppy.sh/b/836037&m=1) | [Ura Oni] (HDHR) |
-
-| Tiebreaker | |
-| --- | :--- |
-| [moro - Decadent Fantasy (TimmyAkmed)](https://osu.ppy.sh/b/986931&m=1) | [Supreme Oni] (Any) |
+- NoMod
+  - [MDK - Press Start (uone) \[START\]](https://osu.ppy.sh/b/1170749&m=1)
+  - [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (Backfire) \[Taikocalypse Act IX : The Desperation\]](https://osu.ppy.sh/b/700831&m=1)
+  - [t+pazolite - to Luv me I *** for u. (OnosakiHito) \[Taikosaki 2013\]](https://osu.ppy.sh/b/475086&m=1)
+  - [t+pazolite - Boogie Woogie Splatter Show (12358) \[Taiko\]](https://osu.ppy.sh/b/159367&m=1)
+  - [xi - Aragami (Sayaka-) \[Inner Oni\]](https://osu.ppy.sh/b/525910&m=1)
+- Hidden
+  - [Cardboard Box - ++ (Vulkin) \[Grim's N+\]](https://osu.ppy.sh/b/1213129&m=1)
+  - [The Flashbulb - Lawn Wake III (tasuke912) \[Oni\]](https://osu.ppy.sh/b/582645&m=1)
+- HardRock
+  - [Chroma - sink to the deep sea world (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/b/1248348&m=1)
+  - [Tatsh - CYBER Sparks (Unmei Muma) \[Akumu\]](https://osu.ppy.sh/b/1233925&m=1)
+- DoubleTime
+  - [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/b/121335&m=1)
+  - [Presti - Veritas (Chromoxx) \[Secret\]](https://osu.ppy.sh/b/1184169&m=1)
+- FreeMod
+  - [rider - Freja (Sayaka-) \[Oni\] (Any)](https://osu.ppy.sh/b/1070630&m=1)
+  - [Thaehan - Bwa ! (Tasha) \[Oni\] (Any)](https://osu.ppy.sh/b/1155334&m=1)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Nofool) \[Ura Oni\] (HDHR)](https://osu.ppy.sh/b/836037&m=1)
+- Tiebreaker
+  - [moro - Decadent Fantasy (TimmyAkmed) \[Supreme Oni\] (Any)](https://osu.ppy.sh/b/986931&m=1)
 
 ### Finals
 
@@ -248,41 +205,28 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 **[Download the mappack here!](https://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar)**
 
-| NoMod | |
-| --- | :--- |
-| [tarolabo - eth ken (_yu68)](https://osu.ppy.sh/b/1125322&m=1) | [Inner Oni] |
-| [tarolabo - Kowatori (Nyan)](https://osu.ppy.sh/b/1255680&m=1) | [Inner Oni] |
-| [KUMOKIRI - Shippuujinrai (yassu-)](https://osu.ppy.sh/b/996609&m=1) | [Osamix's Inner Oni] |
-| [U1 overground - Dopamine (S a n d)](https://osu.ppy.sh/b/671299&m=1) | [Sandism] |
-| [DJ Sharpnel - Pacific Girls (Osamix)](https://osu.ppy.sh/b/782480&m=1) | [Hell Oni] |
-| [t+pazolite - A.Q.Children Reincarnation (OnosakiHito)](https://osu.ppy.sh/b/1172295&m=1) | [Taikosaki] |
-
-| Hidden | |
-| --- | :--- |
-| [goreshit - boiler (_yu68)](https://osu.ppy.sh/b/1235624&m=1) | [Oni] |
-| [M-O-T-U - Calculator (wallacenew)](https://osu.ppy.sh/b/317959&m=1) | [WNW's Taiko Inner Oni] |
-
-| HardRock | |
-| --- | :--- |
-| [DJ SHARPNEL - Marunouchi surviver (OnosakiHito)](https://osu.ppy.sh/b/536650&m=1) | [Ono's Ura Oni] |
-| [xi - FREEDOM DiVE (Ekoro)](https://osu.ppy.sh/b/412126&m=1) | [EX'S ULTIMATE CHALLENGE] |
-
-| DoubleTime | |
-| --- | :--- |
-| [sasakure.UK - The UniversaL ElekiteL (Arrival)](https://osu.ppy.sh/b/1202588&m=1) | [Inner Oni] |
-| [Yuyoyuppe - AiAe (Chromoxx)](https://osu.ppy.sh/b/1185015&m=1) | [Inner Oni] |
-
-| FreeMod | |
-| --- | :--- |
-| [kuroma - Pon-Pon-Pompoko Dai-Sen-Saw! (-xNaCLx-)](https://osu.ppy.sh/b/749081&m=1) | [xN.taiCLx] (HD, HR) |
-| [Helblinde - Grief & Malice (S a n d)](https://osu.ppy.sh/b/945337&m=1) | [Sand & Backfire] (HD, HR) |
-| [LA2LY - mei(LA2LY HARD RELINQUISH REMIX) (Ryui)](https://osu.ppy.sh/b/351965&m=1) | [Ryui's Taiko] (HDHR) |
-
-| Tiebreaker | |
-| --- | :--- |
-| [Sasara Yuuna - dnabgib kaerB (Firce777)](https://osu.ppy.sh/b/1255618&m=1) | [Firce Force (TWC ver.)] (Any) |
-
-
+- NoMod
+  - [tarolabo - eth ken (_yu68) \[Inner Oni\]](https://osu.ppy.sh/b/1125322&m=1)
+  - [tarolabo - Kowatori (Nyan) \[Inner Oni\]](https://osu.ppy.sh/b/1255680&m=1)
+  - [KUMOKIRI - Shippuujinrai (yassu-) \[Osamix's Inner Oni\]](https://osu.ppy.sh/b/996609&m=1)
+  - [U1 overground - Dopamine (S a n d) \[Sandism\]](https://osu.ppy.sh/b/671299&m=1)
+  - [DJ Sharpnel - Pacific Girls (Osamix) \[Hell Oni\]](https://osu.ppy.sh/b/782480&m=1)
+  - [t+pazolite - A.Q.Children Reincarnation (OnosakiHito) \[Taikosaki\]](https://osu.ppy.sh/b/1172295&m=1)
+- Hidden
+  - [goreshit - boiler (_yu68) \[Oni\]](https://osu.ppy.sh/b/1235624&m=1)
+  - [M-O-T-U - Calculator (wallacenew) \[WNW's Taiko Inner Oni\]](https://osu.ppy.sh/b/317959&m=1)
+- HardRock
+  - [DJ SHARPNEL - Marunouchi surviver (OnosakiHito) \[Ono's Ura Oni\]](https://osu.ppy.sh/b/536650&m=1)
+  - [xi - FREEDOM DiVE (Ekoro) \[EX'S ULTIMATE CHALLENGE\]](https://osu.ppy.sh/b/412126&m=1)
+- DoubleTime
+  - [sasakure.UK - The UniversaL ElekiteL (Arrival) \[Inner Oni\]](https://osu.ppy.sh/b/1202588&m=1)
+  - [Yuyoyuppe - AiAe (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/b/1185015&m=1)
+- FreeMod
+  - [kuroma - Pon-Pon-Pompoko Dai-Sen-Saw! (-xNaCLx-) \[xN.taiCLx\] (HD, HR)](https://osu.ppy.sh/b/749081&m=1)
+  - [Helblinde - Grief & Malice (S a n d) \[Sand & Backfire\] (HD, HR)](https://osu.ppy.sh/b/945337&m=1)
+  - [LA2LY - mei(LA2LY HARD RELINQUISH REMIX) (Ryui) \[Ryui's Taiko\] (HDHR)](https://osu.ppy.sh/b/351965&m=1)
+- Tiebreaker
+  - [Sasara Yuuna - dnabgib kaerB (Firce777) \[Firce Force (TWC ver.)\] (Any)](https://osu.ppy.sh/b/1255618&m=1)
 
 ------------------------------------------------------------------------
 
