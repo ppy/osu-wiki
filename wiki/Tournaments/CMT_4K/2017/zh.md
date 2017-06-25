@@ -42,7 +42,7 @@
 
 ## 比赛直播间
 
-Bilibili 直播平台：[aiyulu](https://live.bilibili.com/10183)（主直播），[Ookura Asahi](https://live.bilibili.com/272810)（副直播），[Rasis](https://live.bilibili.com/5333)（备用）。  
+Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）。  
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 对阵表

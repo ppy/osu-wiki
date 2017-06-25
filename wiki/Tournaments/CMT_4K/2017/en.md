@@ -42,7 +42,7 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 ## Tournament stream
 
-bilibili: [aiyulu](https://live.bilibili.com/10183)(Primary), [Ookura Asahi](https://live.bilibili.com/272810)(Secondary), [Rasis](https://live.bilibili.com/5333)(Back up).   
+bilibili: [aiyulu](http://live.bilibili.com/10183)(Primary), [Ookura Asahi](http://live.bilibili.com/272810)(Secondary), [Rasis](http://live.bilibili.com/5333)(Back up).   
 Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
 ## Match schedule
