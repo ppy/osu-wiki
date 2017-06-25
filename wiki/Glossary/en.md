@@ -14,12 +14,12 @@ When a thread is or is said to be "wastelanded", it is moved there.
 ### AFK
 
 AFK is an internet acronym that means _Away From Keyboard_.
-An example of this is when an active user walks off to do something else while they're still logged on.
+An example of this is when an active user walks off to do something else while they are still logged on.
 _osu!_ will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
-In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the center of the spinner (for older skins).
+In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins).
 When the approach circle touches the outer border of the hit circle or slider you should click.
 For spinners (older skins), the approach circle will indicate the duration of that spinner.
 
@@ -34,8 +34,8 @@ Authentic denotes a beatmap that emulates in every aspect of a specific stage fr
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
 Bancho is the easily expandable server coded by peppy.
-Bancho replaces the need for a third-party [IRC](/wiki/IRC) server in the management of all online content in osu!
-Logging with an osu!account ingame will automatically attempt to connect to Bancho until done successfully.
+Bancho replaces the need for a third-party [IRC](/wiki/IRC) server in the management of all online content in _osu!_
+Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 
@@ -74,7 +74,7 @@ A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's dif
 
 You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
 
-This value can be found in the url of a beatmap by changing the difficulty tab, using the ingame option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
+This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 
 All unsubmitted beatmaps will have a beatmapID of `0`.
 
@@ -172,8 +172,8 @@ On the contrary, a reverse choke is when the player combobreaks at the beginning
 Collab (short for _collaboration_) has two meanings:
 
 1. the work of multiple [mappers](/wiki/mappers) [mapping](/wiki/mapping) a single [beatmap](/wiki/beatmap); usually a [marathon](#marathon) beatmap
-   - when collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap
-   - this is to ensure that the creator has done enough to upload the map under their username
+   - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap.
+     This is to ensure that the creator has done enough to upload the map under their username.
 2. the mapset containing [guest difficulties](#guest-difficulty)
 
 Collab may sometimes be used in [difficulty](/wiki/difficulty) version names.
@@ -212,9 +212,9 @@ However, do note that the skin's defined combo colours is only used when the map
 
 ### Combo Fire
 
-![](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
+![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in osu!
+The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_
 This would display a burning yellow flame after obtaining the first [combo milestone](#combo-milestone), 30.
 If the player obtains a combo of 500, the combo fire colour will change from yellow to blue.
 The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
@@ -266,13 +266,13 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
-![](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
+![Screenshot of main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
 The cookie is another word for the _osu!_ logo.
 This has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
 
-![](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
+![Window dialog of osu! crashing](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
 
 ## D
 
@@ -359,7 +359,7 @@ Fail has three meanings:
 
 ### FC
 
-![](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
+![Score comparison between full and broken combos](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
 
 FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible.
 This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](#sliderbreak).
@@ -463,13 +463,13 @@ Thus [mappers](/wiki/mappers) are advised to use it judiciously (or when it make
 
 ### Kudosu
 
-![](img/Kudosu-Durp.png "Kudosu Durp")
+![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 
 Kudosu is a form of reward obtained from modding beatmaps.
 The term "Kudosu" is named after a combination of the words "kudos" and "osu!".
 
 A rating system that rewards users that mod regularly.
-If you're a [BN](/wiki/BN), or the creator of the map, you can award 1 or 2 kudosu to a user depending on the time since last post on the beatmap thread, making a constructive modding post.
+If you are a [BN](/wiki/BN), or the creator of the map, you can award 1 or 2 kudosu to a user depending on the time since last post on the beatmap thread, making a constructive modding post.
 Accumulated kudosu can be used to increase a beatmap's priority rating.
 Any mapper or modder may spend 1 kudosu to give any map a star, which will help the map in the approval process by giving it more star priority.
 
@@ -544,7 +544,7 @@ M4M, or _Mod for Mod_, is a term describing when a modder agrees to mod another 
 
 A marathon is a type of [beatmap](/wiki/beatmap) that can only be approved.
 
-Marathon beatmaps are considered to be, at least, 6 minutes long and can only have one mapped difficulty.
+Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty.
 However, some marathon mapsets may contain a single [osu!taiko](/wiki/osu!taiko) variant as well.
 
 Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a draining endeavour when done solo.
@@ -553,7 +553,7 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 
 ### MAT
 
-**As of the April 23, 2013, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
+**As of the 23. April 2013, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
 
 The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding.
 MAT members were able to mark any beatmap they approve of with a bubble.
@@ -572,7 +572,7 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum
 NC has two meanings:
 
 1. short for _new combo_, a modding term to suggest that a beat needs to be the start of a new combo
-2. an abbreviation for the [nightcore mod](/wiki/nightcore), a variant of the [double time](/wiki/double_time) mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
+2. an abbreviation for the [Nightcore mod](/wiki/Nightcore), a variant of the [Double Time](/wiki/Double_Time) mod that increases the pitch of the music and adds a consistent bass drum beat to the music.
 
 ### Nuke
 
@@ -619,9 +619,9 @@ _osu!_ has three meanings:
 - osu!academy introduces the osu!coins: [Introduction to osu!coins](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/news/115118189213)
 
-The osu!coin was the ingame currency that was still "in development", as a 2015 April Fools joke.
+The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
 
-After peppy realizes that the current rate of return would not allow him to purchase a private jet within his lifetime, the osu!coin was introduced as the new ingame currency.
+After peppy realizes that the current rate of return would not allow him to purchase a private jet within his lifetime, the osu!coin was introduced as the new in-game currency.
 Every player will start off with 10 osu!coins and will be given 10 osu!coins per day.
 Existing users will get an additional two osu!coins right off the bat.
 
@@ -691,7 +691,7 @@ This includes the lead-in time and the break time(s).
 ### puush
 
 puush is a screen capturing and file uploading application developed by peppy.
-puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
+puush is a successor of sorts to upppy which is commonly used to upload and share images in _osu!_
 
 For more information about puush, see [puush / home](https://puush.me).
 
@@ -866,7 +866,7 @@ Star has four meanings:
 
 Star priority has two meanings:
 
-1. Atar priority is a method of helping Beatmap Nominators to find beatmaps worthy of bubbling and later ranking.
+1. Star priority is a method of helping Beatmap Nominators to find beatmaps worthy of bubbling and later ranking.
    - The star priority of a beatmap is determined by how many mod posts that have gained kudosu in the beatmap's thread, the sum of kudosu stars the map set has received.
    - A kudosu star can be given by any user to any map, though shooting a kudosu star comes at the price of one kudosu.
    - The conversion rate was formerly three kudosu for one kudosu star that increased the Star Priority by two.
@@ -986,7 +986,7 @@ The universal offset settings is located in the [Options](/wiki/Options).
 ### upppy
 
 upppy is a fast and easy-to-use uploading service coded by peppy.
-If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like, just put it on upppy and everyone's happy! :)
+If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack, etc., just put it on upppy and everyone is happy! :)
 
 For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there may be a few stray images that may contain R18 work)**.
 
