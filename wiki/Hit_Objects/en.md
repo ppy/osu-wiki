@@ -7,31 +7,33 @@ A hit object is the core gameplay element in osu!. There are three types of hit 
 -   Slider
 -   Spinner
 
-Hit circles and sliders are encountered frequently, while spinners only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
+Hit circles and sliders are encountered frequently, while spinners typically only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
 Hit Circle
 ----------
 
 ![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
 
-Hit Circles, or "Hit Marker" in the DS games, are coloured circles with a number on them (depending on its place in a Combo). These are outlined with another circle (Approach Circle) shrinking around it. Once the Approach Circle outline overlaps the Hit Circle's border, the player should Tap the Hit Circle, earning a number of points (50, 100 or 300) depending on how accurate his tapping was, and possibly scoring a Beat! or an Elite Beat! if the circle is the end of a combo. Tapping regular Hit Circles gives a very small boost to the Life Bar, and a good boost if it is a end combo circle.
+Hit circles, or "hit markers" in the DS games, are coloured circles with a number on them that shows its place in a combo. These are outlined with another circle (the approach circle) shrinking around it. Once the approach circle outline overlaps the hit circle's border, the player should click on/tap the hit circle, earning a set number of points (50, 100, or 300) based on how accurate they were (e.g. if they clicked too early, their points would be reduced). Tapping regular hit circles gives a very small boost to the life bar, and at the end of a combo a bigger boost will be awarded if the player did well in that combo.
 
 Slider
 ------
 
 ![A slider in the default skin.](Slider2.jpg "A slider in the default skin.")
 
-A Slider consists of two Hit Circles with a straight path or a Bezier Curve between them. An Approach Circle is around the beginning Hit Circle of the Slider. Once the Approach Circle reaches its border, the player must tap the beginning of the Slider and then, keeping the button pressed, follow (with his cursor) a moving graphical image \[called Slider Ball - An graphic (ball-shaped by default) that moves along a Slider's path based on BPM and Slider Velocity given by the mapper\] along the Slider's path until the end Hit Circle is reached. If there is a reverse arrow graphic at that point, the player follows the Slider Ball back along the same path and repeats as long as a reverse arrow graphic is visible.
+A slider consists of two hit circles with a track between them that can be either straight, angled (e.g. a sharp 45 degree turn), or bezier curved. An approach circle is around the beginning hit circle of the slider. Once the approach circle reaches its border, like with hit circles, the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the other hit circle is reached. If there is a reverse arrow graphic at that point, the player follows the slider ball back along the same path and repeats as long as a reverse arrow graphic is visible.
 
-Slider Ticks are small circles that appear in regular intervals along a Slider's path. The player only fails to completely clear a Slider if the cursor is not on the Slider Ball range and/or the button is not pressed while the Slider Ball is passing over a tick. Not keeping the cursor on the Slider or the button pressed at any other time during a Slider's path will actually not yield any penalty. Users can adjust the number of ticks on their beatmap's Sliders. More ticks make the Combo rise faster and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail to clear the Slider. Each cleared Slider Tick is worth 10 points (regardless of Combo).
+Slider ticks are small circles that appear in regular intervals along a slider's path. The player only fails to completely clear a slider if the cursor is not on the slider ball range (defined by the circle around the ball) and/or the mouse button is not pressed while the slider ball is passing over a tick. Not keeping the cursor on the slider or the button pressed at any other time during a slider's path will not yield any penalty (though it is not advised as it could easily result in a slip-up). Users can adjust the number of ticks on their beatmap's sliders in the Timing section of the editor. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail to clear the slider. Each cleared slider tick is worth 10 points regardless of the combo.
 
-Sliders are often mapped to long sounds in the music. They are also used to carry the rhythm (especially when the rhythm would be very complex without a slider or not suitable to use a Hit Circle), and are sometimes used to replace streams of Hit Circles for the easier difficulty.
+Passing over either an end of the slider of a slider tick will award a minute boost to the life bar; just barely enough to keep it at where it is most of the time. The boost is the same for both the hit circles and the ticks.
+
+Sliders are often mapped to long sounds in the music. They are also used to carry the rhythm, especially when the rhythm would be very complex without a slider or not suitable for a hit circle, and are sometimes used to replace streams of hit circles for the easier difficulty.
 
 Spinner
 -------
 
 ![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
 
-A Spinner is a circle that takes up the entire height of the play area and has a Spinner Metre on either side. A large circular outline similar to a [Approach Circle](/wiki/Glossary) appears on the Spinner’s border and gradually converges on its centre. The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. The Spinner is cleared if all the levels of the Spinner Metre are filled before its Approach Circle reaches the centre. Depending on the difficulty settings of each [beatmap](/wiki/Glossary), a different number of spins are required to fill each level of the Spinner Metre (worth 100 points). If the player fills the Spinner Metre before the Approach Circle reaches the Spinner’s centre, each additional spin before time runs out will award the player with 1,000 bonus points (each receiving a bonus multiplier depending on the player’s current [Combo](/wiki/Glossary)). Spinning a Spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
+A spinner is a circle that takes up the entire height of the play area. Below the spinner is a number showing the spins per minute (RPM). The player should hold the mouse button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. Once the player has spinned for a while (dependent on the difficulty and length of the spinner), the spinner will be cleared, glowing white. Any continuous spins after this will award 1000 point bonuses per approximate spin. Spinning a spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
 
-**Note:** Current default skin \[osu! by peppy\] do not have Approach Circles and Spinner Metre, the superseded default skin \[osu!default by peppy\] have them.
+**Note:** The superseded default skin (osu!default by peppy) has a different variant of spinner. In this, there is an approach circle to the spinner and on either side of the spinner there are spinner bars. The player must spin to fill them up before the spinner is completed.

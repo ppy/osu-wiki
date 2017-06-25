@@ -1,5 +1,5 @@
-osu!academy
-===============
+osu!academy (Deutsch)
+=====================
 
 Einführung
 ------------

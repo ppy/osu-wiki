@@ -15,7 +15,7 @@
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 
 <!-- image -->
-[osu!catch logo]: ./img/CtB_logo.jpg "Catch the Beat logo in Special Mode"
+[osu!catch logo]: /wiki/shared/CtB_logo.jpg "Catch the Beat logo in Special Mode"
 
 <!-- shared image -->
 [osu!catch icon link]: /wiki/shared/Ctb.gif "osu!catch icon"

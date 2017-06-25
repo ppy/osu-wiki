@@ -1,6 +1,6 @@
 # BanchoBot (中文)
 
-![BanchoBot's player card](BanchoBot.png "BanchoBot's player card")
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
 聊天服务器主机 - BanchoBot [osu! 聊天服务器](/wiki/Internet_Relay_Chat).
 
@@ -19,13 +19,13 @@
 #### 基本命令 (!COMMAND or /bb COMMAND)
 
 | 命令 | 作用 | 例子 | BanchoBot 响应 |
-| ------- | ------ | ------- | ------------------ |
+| -- | -- | -- | ------------ |
 | WHERE (user) | 指出玩家的位置 | !where John | John is in USA |
-| STATS (user) | 指出玩家的统计数据(根据目前的统计数据) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| STATS (user) | 指出玩家的统计数据(根据目前的统计数据) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | FAQ (L.code)(item) (list) | 各种用途 [list] 可用命令列表 | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
 | REPORT (reason) | 召唤管理员 | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST (list) | 随机显示一个最近MOD的要求。 [list] Shows 5 random recent mod request | !request | Seether - Fake It by [Dellirium] |
-| ROLL (number) | 滚骰子随机得到数字 从1到(编号) （默认100） | !roll 9000 | John rolls 1337 point(s) |
+| ROLL (number) | 滚骰子随机得到数字 从1到(编号) （默认100） | !roll 9000 | John rolls 1337 point(s)                                                |
 
 注意:
 
