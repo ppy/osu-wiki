@@ -118,206 +118,151 @@ Mappools
 
 **[Download the mappack here!](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
-| NoMod                                                                                         |
-|-----------------------------------------------------------------------------------------------|
-| [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/b/465192)        |
-| [Cornandbeans - Blaze (OnosakiHito) \[Ono's Taiko Oni (2013)\]](https://osu.ppy.sh/b/531999)        |
-| [Memme - Acid Burst (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/506186)                              |
-| [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Nyan's Oni\]](https://osu.ppy.sh/b/596739)           |
-| [LeaF - Exclusive Utopia (Ryui) \[Exclusive Oni\]](https://osu.ppy.sh/b/390966)                     |
-| [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/b/661517) |
-
-| Hidden                                                                  |
-|-------------------------------------------------------------------------|
-| [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/b/330848)    |
-| [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/b/284037) |
-| [RYO - Shuffle Heaven (Nwolf) \[WereOni\]](https://osu.ppy.sh/b/572587)       |
-
-| HardRock                                                                      |
-|-------------------------------------------------------------------------------|
-| [Hanatan - Kimi no Kiseki (ampzz) \[lepidon! - Oni\]](https://osu.ppy.sh/b/335895)  |
-| [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/b/427932)                   |
-| [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/b/648184) |
-
-| DoubleTime                                                                                                                       |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| [Nightwish - Planet Hell (Sieg) \[Hanjamon's Oni\]](https://osu.ppy.sh/b/438738)                                                       |
-| [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/173048)                                                      |
-| [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugetsuka (TV Size) (taiko\_maniac1811) \[Inner Oni\]](https://osu.ppy.sh/b/331987) |
-
-| FreeMod                                                                                                |
-|--------------------------------------------------------------------------------------------------------|
-| [Feint - Tower Of Heaven (You Are Slaves) (- Kagami Yuki -) \[Kagami's Taiko\]](https://osu.ppy.sh/b/430824) |
-| [Yuyoyuppe - AiAe (Dainesl) \[Inner Oni\]](https://osu.ppy.sh/b/514108)                                      |
-| [Ryu\* - Sakura Mirage (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/665527)                                     |
-
-| Tiebreaker                                                                       |
-|----------------------------------------------------------------------------------|
-| [DragonForce - Revolution Deathsquad (MMzz) \[Tatsujin\]](https://osu.ppy.sh/b/295715) |
+- NoMod
+  - [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/b/465192)
+  - [Cornandbeans - Blaze (OnosakiHito) \[Ono's Taiko Oni (2013)\]](https://osu.ppy.sh/b/531999)
+  - [Memme - Acid Burst (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/506186)
+  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Nyan's Oni\]](https://osu.ppy.sh/b/596739)
+  - [LeaF - Exclusive Utopia (Ryui) \[Exclusive Oni\]](https://osu.ppy.sh/b/390966)
+  - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/b/661517)
+- Hidden
+  - [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/b/330848)
+  - [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/b/284037)
+  - [RYO - Shuffle Heaven (Nwolf) \[WereOni\]](https://osu.ppy.sh/b/572587)
+- HardRock
+  - [Hanatan - Kimi no Kiseki (ampzz) \[lepidon! - Oni\]](https://osu.ppy.sh/b/335895)
+  - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/b/427932)
+  - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/b/648184)
+- DoubleTime
+  - [Nightwish - Planet Hell (Sieg) \[Hanjamon's Oni\]](https://osu.ppy.sh/b/438738)
+  - [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/173048)
+  - [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugetsuka (TV Size) (taiko\_maniac1811) \[Inner Oni\]](https://osu.ppy.sh/b/331987)
+- FreeMod
+  - [Feint - Tower Of Heaven (You Are Slaves) (- Kagami Yuki -) \[Kagami's Taiko\]](https://osu.ppy.sh/b/430824)
+  - [Yuyoyuppe - AiAe (Dainesl) \[Inner Oni\]](https://osu.ppy.sh/b/514108)
+  - [Ryu\* - Sakura Mirage (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/665527)
+- Tiebreaker
+  - [DragonForce - Revolution Deathsquad (MMzz) \[Tatsujin\]](https://osu.ppy.sh/b/295715)
 
 ### Semi-finals
 
 **[Download the mappack here!](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
-| NoMod                                                                                       |
-|---------------------------------------------------------------------------------------------|
-| [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/b/291218)                |
-| [Hosoe Shinji - Son of Sun (Extended Mix) (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/107217) |
-| [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](https://osu.ppy.sh/b/648835)                      |
-| [xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/119666)              |
-| [Morimori Atsushi - PUPA (Cherry Blossom) \[Ex's Taiko Inner Oni\]](https://osu.ppy.sh/b/524406)  |
-| [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/170038)   |
-
-| Hidden                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------|
-| [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](https://osu.ppy.sh/b/279410)                                                  |
-| [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni\]](https://osu.ppy.sh/b/140687)                                             |
-| [t+pazolite - MEGA MEGA CUTiE BREAKiN'!!!!!!!!z (CharuV2) \[kjw's MEGA MEGA TAiKO BREAKiN'!!!!!!!!:3\]](https://osu.ppy.sh/b/316820) |
-
-| HardRock                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------|
-| [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/138519) |
-| [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/506018)                            |
-| [Paramore - Anklebiters (Priti) \[Nwolf's Oni\]](https://osu.ppy.sh/b/573664)                                               |
-
-| DoubleTime                                                                        |
-|-----------------------------------------------------------------------------------|
-| [Nightwish - Dead to the World (Xanandra) \[Nwolf's Oni\]](https://osu.ppy.sh/b/442230) |
-| [Halozy - eliminate anthem (Elly-chan) \[MM's Taiko\]](https://osu.ppy.sh/b/116998)     |
-| [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/114207)            |
-
-| FreeMod                                                                                                          |
-|------------------------------------------------------------------------------------------------------------------|
-| [Memme - BSPower Explosion (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/141942)                                    |
-| [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/b/58061)                                            |
-| [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/b/297950) |
-
-| Tiebreaker                                                                           |
-|--------------------------------------------------------------------------------------|
-| [Kikuo - Ten Sho Sho Ten Sho (Squigly) \[Donphin Inner Oni\]](https://osu.ppy.sh/b/460595) |
+- NoMod
+  - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/b/291218)
+  - [Hosoe Shinji - Son of Sun (Extended Mix) (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/107217)
+  - [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](https://osu.ppy.sh/b/648835)
+  - [xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/119666)
+  - [Morimori Atsushi - PUPA (Cherry Blossom) \[Ex's Taiko Inner Oni\]](https://osu.ppy.sh/b/524406)
+  - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/170038)
+- Hidden
+  - [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](https://osu.ppy.sh/b/279410)
+  - [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni\]](https://osu.ppy.sh/b/140687)
+  - [t+pazolite - MEGA MEGA CUTiE BREAKiN'!!!!!!!!z (CharuV2) \[kjw's MEGA MEGA TAiKO BREAKiN'!!!!!!!!:3\]](https://osu.ppy.sh/b/316820)
+- HardRock
+  - [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/138519)
+  - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/506018)
+  - [Paramore - Anklebiters (Priti) \[Nwolf's Oni\]](https://osu.ppy.sh/b/573664)
+- DoubleTime
+  - [Nightwish - Dead to the World (Xanandra) \[Nwolf's Oni\]](https://osu.ppy.sh/b/442230)
+  - [Halozy - eliminate anthem (Elly-chan) \[MM's Taiko\]](https://osu.ppy.sh/b/116998)
+  - [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/114207)
+- FreeMod
+  - [Memme - BSPower Explosion (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/141942)
+  - [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/b/58061)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/b/297950)
+- Tiebreaker
+  - [Kikuo - Ten Sho Sho Ten Sho (Squigly) \[Donphin Inner Oni\]](https://osu.ppy.sh/b/460595)
 
 ### Quarter-finals
 
 **[Download the mappack here!](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
-| NoMod                                                                                     |
-|-------------------------------------------------------------------------------------------|
-| [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/125530)             |
-| [Spriggan - Valkyrie Dimension (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/147241)        |
-| [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](https://osu.ppy.sh/b/95812) |
-| [Shounen Radio - neu (Philippines) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/b/224171)      |
-| [TJ.Hangneil - Kamui (7odoa) \[TK\]](https://osu.ppy.sh/b/139780)                               |
-| [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](https://osu.ppy.sh/b/191565)                    |
-
-| Hidden                                                                                             |
-|----------------------------------------------------------------------------------------------------|
-| [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/307654) |
-| [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/b/339131)                                    |
-| [nato - Nihilism (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/b/489926)                          |
-
-| HardRock                                                                                     |
-|----------------------------------------------------------------------------------------------|
-| [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](https://osu.ppy.sh/b/102527)          |
-| [serial TV drama - Tougenkyou Alien (TV Size) (jericho2442) \[Taiko\]](https://osu.ppy.sh/b/94966) |
-| [Sariyajin - Ao no Senritsu (smallboat) \[qoot8123's Inner Oni\]](https://osu.ppy.sh/b/361867)     |
-
-| DoubleTime                                                                                                |
-|-----------------------------------------------------------------------------------------------------------|
-| [Atoguru - Privilege (y u c a) \[Pangko\]](https://osu.ppy.sh/b/138598)                                         |
-| [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/113530) |
-| [iyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[KS's Taiko\]](https://osu.ppy.sh/b/126958)                       |
-
-| FreeMod                                                                                  |
-|------------------------------------------------------------------------------------------|
-| [cranky - Libera me (wmfchris) \[Taiko\]](https://osu.ppy.sh/b/73653)                          |
-| [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](https://osu.ppy.sh/b/138230) |
-| [Rohi - Kodoku Egoism (NatsumeRin) \[714's Taiko Oni\]](https://osu.ppy.sh/b/196672)           |
-
-| Tiebreaker                                                                                         |
-|----------------------------------------------------------------------------------------------------|
-| [Infected Mushroom - Never Mind (SuperMICrophone) \[Nwolf's Infected Oni\]](https://osu.ppy.sh/b/364661) |
+- NoMod
+  - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/125530)
+  - [Spriggan - Valkyrie Dimension (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/147241)
+  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](https://osu.ppy.sh/b/95812)
+  - [Shounen Radio - neu (Philippines) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/b/224171)
+  - [TJ.Hangneil - Kamui (7odoa) \[TK\]](https://osu.ppy.sh/b/139780)
+  - [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](https://osu.ppy.sh/b/191565)
+- Hidden
+  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/307654)
+  - [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/b/339131)
+  - [nato - Nihilism (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/b/489926)
+- HardRock
+  - [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](https://osu.ppy.sh/b/102527)
+  - [serial TV drama - Tougenkyou Alien (TV Size) (jericho2442) \[Taiko\]](https://osu.ppy.sh/b/94966)
+  - [Sariyajin - Ao no Senritsu (smallboat) \[qoot8123's Inner Oni\]](https://osu.ppy.sh/b/361867)
+- DoubleTime
+  - [Atoguru - Privilege (y u c a) \[Pangko\]](https://osu.ppy.sh/b/138598)
+  - [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/113530)
+  - [iyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[KS's Taiko\]](https://osu.ppy.sh/b/126958)
+- FreeMod
+  - [cranky - Libera me (wmfchris) \[Taiko\]](https://osu.ppy.sh/b/73653)
+  - [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](https://osu.ppy.sh/b/138230)
+  - [Rohi - Kodoku Egoism (NatsumeRin) \[714's Taiko Oni\]](https://osu.ppy.sh/b/196672)
+- Tiebreaker
+  - [Infected Mushroom - Never Mind (SuperMICrophone) \[Nwolf's Infected Oni\]](https://osu.ppy.sh/b/364661)
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
-| NoMod                                                                                                |
-|------------------------------------------------------------------------------------------------------|
-| [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/b/350721)                       |
-| [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/b/350403)                                    |
-| [Sagara Kokoro - Hoshizora no Ima (kanpakyin) \[Climbb's Taiko Inner Oni\]](https://osu.ppy.sh/b/170862)   |
-| [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](https://osu.ppy.sh/b/249943)                          |
-| [TeamGrimoire+Amaneko - croiX (HelloSCV) \[714's Oni\]](https://osu.ppy.sh/b/242953)                       |
-| [DECO\*27 feat. Hatsune Miku - Streaming Heart (Mintong) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/391919) |
-
-| Hidden                                                                                                   |
-|----------------------------------------------------------------------------------------------------------|
-| [Mitsumune Shinkichi - Battle of Rose (haha5957) \[31's Taiko\]](https://osu.ppy.sh/b/86160)                   |
-| [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/b/342847) |
-| [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/b/222740)                     |
-
-| HardRock                                                                              |
-|---------------------------------------------------------------------------------------|
-| [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/b/281675)               |
-| [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](https://osu.ppy.sh/b/122433) |
-| [capitaro - Utatabigarasu (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/b/180661)          |
-
-| DoubleTime                                                                                                 |
-|------------------------------------------------------------------------------------------------------------|
-| [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/86571) |
-| [Ayane - Acacia no Ki no Shita de (Alace) \[Taiko Oni\]](https://osu.ppy.sh/b/94136)                             |
-| [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[youngdow&wood's Taiko\]](https://osu.ppy.sh/b/50694)      |
-
-| FreeMod                                                                                     |
-|---------------------------------------------------------------------------------------------|
-| [KIEN - La Grand Bleu (7odoa) \[TK\]](https://osu.ppy.sh/b/152050)                                |
-| [Memme - Plasma Gun (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/235096)                            |
-| [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/105917) |
-
-| Tiebreaker                                                                |
-|---------------------------------------------------------------------------|
-| [Resonecia - Legende (lolcubes) \[Legendary Oni\]](https://osu.ppy.sh/b/380524) |
+- NoMod
+  - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/b/350721)
+  - [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/b/350403)
+  - [Sagara Kokoro - Hoshizora no Ima (kanpakyin) \[Climbb's Taiko Inner Oni\]](https://osu.ppy.sh/b/170862)
+  - [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](https://osu.ppy.sh/b/249943)
+  - [TeamGrimoire+Amaneko - croiX (HelloSCV) \[714's Oni\]](https://osu.ppy.sh/b/242953)
+  - [DECO\*27 feat. Hatsune Miku - Streaming Heart (Mintong) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/391919)
+- Hidden
+  - [Mitsumune Shinkichi - Battle of Rose (haha5957) \[31's Taiko\]](https://osu.ppy.sh/b/86160)
+  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/b/342847)
+  - [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/b/222740)
+- HardRock
+  - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/b/281675)
+  - [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](https://osu.ppy.sh/b/122433)
+  - [capitaro - Utatabigarasu (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/b/180661)
+- DoubleTime
+  - [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/86571)
+  - [Ayane - Acacia no Ki no Shita de (Alace) \[Taiko Oni\]](https://osu.ppy.sh/b/94136)
+  - [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[youngdow&wood's Taiko\]](https://osu.ppy.sh/b/50694)
+- FreeMod
+  - [KIEN - La Grand Bleu (7odoa) \[TK\]](https://osu.ppy.sh/b/152050)
+  - [Memme - Plasma Gun (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/235096)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/105917)
+- Tiebreaker
+  - [Resonecia - Legende (lolcubes) \[Legendary Oni\]](https://osu.ppy.sh/b/380524)
 
 ### Group Stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
-| NoMod                                                                                                |
-|------------------------------------------------------------------------------------------------------|
-| [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/b/549277)           |
-| [kors k feat.Yoshikawa Sunao - 7 Colors (sionKotori) \[Naryuga's Taiko Oni\]](https://osu.ppy.sh/b/369597) |
-| [Shihori - Day Breaker (Frostmourne) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/265290)                     |
-| [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN \[Love's Inner Oni\]](https://osu.ppy.sh/b/430847)       |
-| [Nomizu Iori - Black + White (TV Size) (Makyu) \[0gre's Oni\]](https://osu.ppy.sh/b/222729)                |
-| [Dj Mashiro - Prismatic Lollipops (victorica\_db) \[Kagami's Oni\]](https://osu.ppy.sh/b/355581)           |
-
-| Hidden                                                                            |
-|-----------------------------------------------------------------------------------|
-| [Nekomata Master+ - squall (wa\_) \[TK'S Oni\]](https://osu.ppy.sh/b/245958)            |
-| [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/b/281558) |
-| [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/b/217519)       |
-
-| HardRock                                                                                                    |
-|-------------------------------------------------------------------------------------------------------------|
-| [Hashimoto Miyuki - Yume miru mama ni Koi wo shite (S i R i R u) \[31's Taiko\]](https://osu.ppy.sh/b/102998)     |
-| [Ellie Goulding - Burn (Nashmun) \[Oni\]](https://osu.ppy.sh/b/351271)                                            |
-| [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (RLC) \[714's Taiko Oni\]](https://osu.ppy.sh/b/229760) |
-
-| DoubleTime                                                                                                 |
-|------------------------------------------------------------------------------------------------------------|
-| [senya - Yozakura ni Kimi o Kakushite (Dainesl) \[Oni\]](https://osu.ppy.sh/b/477127)                            |
-| [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/139607)                  |
-| [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/68793) |
-
-| FreeMod                                                                                                |
-|--------------------------------------------------------------------------------------------------------|
-| [Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte) \[Oni\]](https://osu.ppy.sh/b/433541) |
-| [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/b/121335)                                           |
-| [ryo (supercell) - ODDS&ENDS (Short Ver.) (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/b/179536)            |
-
-| Tiebreaker                                                                            |
-|---------------------------------------------------------------------------------------|
-| [EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/75296) |
+- NoMod
+  - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/b/549277)
+  - [kors k feat.Yoshikawa Sunao - 7 Colors (sionKotori) \[Naryuga's Taiko Oni\]](https://osu.ppy.sh/b/369597)
+  - [Shihori - Day Breaker (Frostmourne) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/265290)
+  - [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN \[Love's Inner Oni\]](https://osu.ppy.sh/b/430847)
+  - [Nomizu Iori - Black + White (TV Size) (Makyu) \[0gre's Oni\]](https://osu.ppy.sh/b/222729)
+  - [Dj Mashiro - Prismatic Lollipops (victorica\_db) \[Kagami's Oni\]](https://osu.ppy.sh/b/355581)
+- Hidden
+  - [Nekomata Master+ - squall (wa\_) \[TK'S Oni\]](https://osu.ppy.sh/b/245958)
+  - [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/b/281558)
+  - [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/b/217519)
+- HardRock
+  - [Hashimoto Miyuki - Yume miru mama ni Koi wo shite (S i R i R u) \[31's Taiko\]](https://osu.ppy.sh/b/102998)
+  - [Ellie Goulding - Burn (Nashmun) \[Oni\]](https://osu.ppy.sh/b/351271)
+  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (RLC) \[714's Taiko Oni\]](https://osu.ppy.sh/b/229760)
+- DoubleTime
+  - [senya - Yozakura ni Kimi o Kakushite (Dainesl) \[Oni\]](https://osu.ppy.sh/b/477127)
+  - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/139607)
+  - [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/68793)
+- FreeMod
+  - [Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte) \[Oni\]](https://osu.ppy.sh/b/433541)
+  - [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/b/121335)
+  - [ryo (supercell) - ODDS&ENDS (Short Ver.) (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/b/179536)
+- Tiebreaker
+  - [EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/75296)
 
 ------------------------------------------------------------------------
 
