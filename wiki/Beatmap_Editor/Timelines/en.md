@@ -1,11 +1,11 @@
 # Timelines
 
-In the [beatmap editor](/wiki/beatmap_editor), there are three different kinds of timelines that a mapper may face.
+In the [beatmap editor](/wiki/beatmap_editor), there are three different timelines that a mapper may encounter.
 This article will explain how each of them function.
 
 ## Shortcuts
 
-_For a list of keyboard shortcuts for the timeline, see [shortcut key reference](/wiki/skr#general)._
+_For a list of keyboard shortcuts for the timeline, see [shortcut key reference](/wiki/shortcut_key_reference/#general)._
 
 ## Song Player
 
@@ -42,7 +42,7 @@ There are two different kinds of hit objects timelines depending on which game m
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](wiki/osu!mania).
+In [compose](/wiki/compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](wiki/osu!mania).
 
 | Name | Description |
 | ---- | ----------- |
@@ -87,7 +87,7 @@ The [design](/wiki/design) timeline is located underneath the `Design` tab.
 | Name | Description |
 | ---- | ----------- |
 | `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
-| `Up`/`Down` arrows on bottom-left | Scroll up/down the transformation timeline (this is to reveal Colour or Movement on the timeline). |
+| `Up`/`Down` arrows on bottom-left | Scroll up/down the transformation timeline (this is to reveal `Colour` or `Movement` on the timeline). |
 
 The centre of the design timeline shows the "keyframes" of the selected sprite.
 
@@ -109,7 +109,7 @@ Full white line determines the transformation switching points (e.g. from "going
 
 ![Timing Timeline](img/TT.jpg "Timing Timeline")
 
-The timing timeline is located underneath the [Timing](/wiki/Timing) tab.
+The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
 
 ### Timing Timeline
 
