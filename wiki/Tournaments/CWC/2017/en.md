@@ -337,7 +337,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Germany ![](/wiki/shared/flag/DE.gif) | 4 | 3 | ![](/wiki/shared/flag/CL.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33607891) |
 | Netherlands ![](/wiki/shared/flag/NL.gif) | 0 | 4 | ![](/wiki/shared/flag/US.gif) United States | [#1](https://osu.ppy.sh/community/matches/33609509) |
 | Austria ![](/wiki/shared/flag/AT.gif) | 0 | 4 | ![](/wiki/shared/flag/CA.gif) Canada | [#1](https://osu.ppy.sh/community/matches/33609513) |
-| Argentina ![](/wiki/shared/flag/AR.gif) | 4 | 0 | ![](/wiki/shared/flag/FI.gif) France | [#1](https://osu.ppy.sh/community/matches/33609523) |
+| Argentina ![](/wiki/shared/flag/AR.gif) | 4 | 0 | ![](/wiki/shared/flag/FR.gif) France | [#1](https://osu.ppy.sh/community/matches/33609523) |
 | Venezuela ![](/wiki/shared/flag/VE.gif) | 0 | 4 | ![](/wiki/shared/flag/CL.gif) Chile | [#1](https://osu.ppy.sh/community/matches/33610689) |
 | Canada ![](/wiki/shared/flag/CA.gif) | 2 | 4 | ![](/wiki/shared/flag/GB.gif) United Kingdom | [#1](https://osu.ppy.sh/community/matches/33610690) |
 
