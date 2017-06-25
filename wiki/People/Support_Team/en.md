@@ -9,14 +9,14 @@ Responsibilities
 The Support Team is responsible on:
 
 1.  Testing and/or confirming bug reports to let the developers know and for them to resolve.
-2.  Organizing threads at [Feature Requests](https://osu.ppy.sh/forum/4) and [Help](https://osu.ppy.sh/forum/5), marking them as Resolved, Confirmed, Invalid, Duplicate and Added.
+2.  Organizing threads at [Feature Requests](https://osu.ppy.sh/forum/4) and [Help](https://osu.ppy.sh/forum/5), marking them as *Resolved*, *Confirmed*, *Invalid*, *Duplicate* and/or *Added*.
 
 If someone needs any assistance on the said subforums, they can be first approached.
 
 Team Members
 ------------
 
-*Every Support Team member speaks English unless specified otherwise. [Support Team's Group Page](https://osu.ppy.sh/g/22).*
+*Every Support Team member speaks English unless specified otherwise. Link to [user group page](https://osu.ppy.sh/g/22).*
 
 | Name | Languages |
 | ---- | --------- |
