@@ -47,9 +47,9 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals - Week 1
 
-### Saturday, 24 June 2017
+### Saturday, 1 July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
@@ -60,7 +60,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Germany | ![][flag_DE] | ![][flag_NL] | Netherlands | **17.00 UTC** | 19.00 UTC +2 | 19.00 UTC +2 | ² |
 | Chile | ![][flag_CL] | ![][flag_SE] | Sweden | **18.30 UTC** | 14.30 UTC -4 | 20.30 UTC +2 | ³ |
 
-### Sunday, 25 June 2017
+### Sunday, 2 July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
@@ -74,11 +74,14 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Taiwan | ![][flag_TW] | ![][flag_SE] | Sweden | **14.30 UTC** | 22.30 UTC +8 | 16.30 UTC +2 | ³ |
 
 
+
 ¹ Winner bracket encounter
 
 ² Loser bracket encounter
 
 ³ Encounter dependent on results of ²Loser bracket encounter
+
+⁴ Encounter dependent on results of ³Loser bracket encounter and ¹Winner bracket encounter
 
 ------------------------------------------------------------------------
 
@@ -233,13 +236,57 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [orangentle / Yu_Asahina - HAELEQUIN (Extended ver.) (CLSW) \[Witchcraft\]](https://osu.ppy.sh/b/1201544&m=2)
 
+### Finals
+
+**This mappool is played in Week 1 and Week 2 of the Finals.**
+
+**[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar)**
+
+- NoMod
+  - [Camellia - Bangin' Burst (CLSW) \[INFINITE\]](http://osu.ppy.sh/b/1113287&m=2) 
+  - [xi - Aragami (F D Flourite) \[Storm\]](http://osu.ppy.sh/b/1286742&m=2) 
+  - [Yousei Teikoku - Hades:The end (Shurelia) \[Razor Sharp, Chthonic God of the Underworld\]](http://osu.ppy.sh/b/1307510&m=2) 
+  - [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Nelly) \[Vanquished\]](http://osu.ppy.sh/b/1158651&m=2) 
+  - [dj TAKA - quaver (Monstrata) \[Crescendo\]](http://osu.ppy.sh/b/915210&m=2) 
+  - [gmtn vs. kozato - squartatrice (soulfear) \[Sayaka\]](http://osu.ppy.sh/b/499713&m=2) 
+- Hidden
+  - [Hatsune Miku - Nightmare Party Night (Kuzino) \[4Q\]](http://osu.ppy.sh/b/121339&m=2) 
+  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](http://osu.ppy.sh/b/1055601&m=2) 
+  - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesus1412) \[Insane\]](http://osu.ppy.sh/b/201974&m=2) 
+- HardRock
+  - [Yooh - snow storm -euphoria- (Spectator) \[GRAVITY\]](http://osu.ppy.sh/b/1000764&m=2) 
+  - [nao - Towa naru Kizuna to Omoi no Kiseki (rew0825) \[Miracle\]](http://osu.ppy.sh/b/1270487&m=2) 
+  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/b/151229&m=2) 
+- DoubleTime
+  - [ChouCho - Yasashisa no Riyuu (Time Capsule) \[Fii's Rain\]](http://osu.ppy.sh/b/1144716&m=2) 
+  - [NeLiME - CODE NAME : ZERO (ursa) \[Rain\]](http://osu.ppy.sh/b/374235&m=2) 
+  - [3L - Endless night (sjoy) \[Eternal\]](http://osu.ppy.sh/b/430371&m=2) 
+- Tiebreaker
+  - [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. (Last Bubble) \[Chaos\]](http://osu.ppy.sh/b/1243752&m=2) 
+
 ------------------------------------------------------------------------
 
 ## Match Results
 
+### Semifinals
+
+| Saturday, 25 June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![](/wiki/shared/flag/ID.gif) | 3 | 6 | ![](/wiki/shared/flag/CN.gif) China | [#1](https://osu.ppy.sh/community/matches/34074171) |
+| Hong Kong ![](/wiki/shared/flag/HK.gif) | 6 | 2 | ![](/wiki/shared/flag/JP.gif) Japan | [#1](https://osu.ppy.sh/community/matches/34075521) |
+| Chile ![](/wiki/shared/flag/CL.gif) | 6 | 0 | ![](/wiki/shared/flag/TW.gif) Taiwan | [#1](https://osu.ppy.sh/community/matches/34076967) |
+| Mexico ![](/wiki/shared/flag/MX.gif) | 6 | 1 | ![](/wiki/shared/flag/SE.gif) Sweden | [#1](https://osu.ppy.sh/community/matches/34078783) |
+| Germany ![](/wiki/shared/flag/DE.gif) | 2 | 6 | ![](/wiki/shared/flag/NL.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/34080904) |
+
+| Sunday, 26 June 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![](/wiki/shared/flag/CL.gif) | 6 | 3 | ![](/wiki/shared/flag/MX.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/34089533) [#2](https://osu.ppy.sh/community/matches/34090626) |
+| South Korea ![](/wiki/shared/flag/KR.gif) | 6 | 2 | ![](/wiki/shared/flag/US.gif) United States | [#1](https://osu.ppy.sh/community/matches/34090862) |
+| Hong Kong ![](/wiki/shared/flag/HK.gif) | 6 | 3 | ![](/wiki/shared/flag/NL.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/34099102) |
+
 ### Quarterfinals
 
-| Sunday, 18. June 2017 | | | | |
+| Sunday, 18 June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Japan ![][flag_JP] | 2 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/33939916) |
 | Sweden ![][flag_SE] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/33940848) |
@@ -252,7 +299,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Round of 16
 
-| Sunday, 11. June 2017 | | | | |
+| Sunday, 11 June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/33780827) |
 | Poland ![][flag_PL] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/33781746) |
@@ -265,7 +312,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Group Stage
 
-| Saturday, 03. June 2017 | | | | |
+| Saturday, 03 June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | New Zealand ![][flag_NZ] | 0 | 4 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/33594444) |
 | Singapore ![][flag_SG] | 0 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/33594453) |
