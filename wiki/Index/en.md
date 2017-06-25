@@ -308,7 +308,7 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 - [Reddit](https://www.reddit.com/r/osugame/ "r/osugame at Reddit")
 - [Twitter](/wiki/Twitter "Twitter page")
 - [osu!news](http://osunews.tumblr.com/ "osu!news")
-- [osu!dev blog](pppy.tumblr.com/ "osu!dev blog")
+- [osu!dev blog](https://blog.ppy.sh/ "osu!dev blog")
 - [Youtube (osu!academy)](http://www.youtube.com/user/osuacademy/videos "osu!academy at Youtube")
 
 ## osu!wiki Contribute
