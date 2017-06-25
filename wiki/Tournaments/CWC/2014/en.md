@@ -9,7 +9,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Place                                                      | Country                                        |
 |------------------------------------------------------------|------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")  [Kr_gif]outh Korea** |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")  | ![][flag_KR] **South Korea** |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] **Germany**     |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] **Sweden**      |
 
