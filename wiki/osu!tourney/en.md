@@ -288,7 +288,7 @@ All icons must be named exactly like the Team name.
 If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`.
 Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 
-[Download the skin template](http://s.ppy.sh/images/tournament/template.zip) for an easier creation of your personal skin.
+[Download the skin template](https://s.ppy.sh/images/tournament/template.zip) for an easier creation of your personal skin.
 
 ### Prizes
 
