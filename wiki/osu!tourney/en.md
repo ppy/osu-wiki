@@ -202,7 +202,7 @@ Any properties enclosed with brackets `[]` are optional.
   - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
   - When the match is finished, use `!mp close` to close the room.
 - `!mp add <username>` - Brings a player into the room.
-  - The player will be forced into the room regardless of what they're doing, so this should be used sparingly unless absolutely required.
+  - The player will be forced into the room regardless of what they're doing, so this should not be used unless absolutely required.
 - `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
 
 `#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
