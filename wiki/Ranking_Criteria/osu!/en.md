@@ -33,7 +33,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Slider border:** Visible outline of a slider's path. When this is distorted through overlaps, sliders can become harder to read.
 - **Slider anchors:**  Tools used to shape the body of a slider. Gray anchors shape a single curve, while red anchors end the current curve. Also referred to as "nodes".
 - **Slider Velocity:** A slider's speed defines how much space it travels within a given beat. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Buzz slider:** A slider snapped to 1/8 or denser with more than three reverses, causing a "buzz" rather than individual hitsounds.
+- **Buzz slider:** A slider snapped to 1/8 or denser with more than three reverses, causing a "buzz" rather than individual hit sounds.
 - **Short Reversing Slider:** A short slider (usually 1/4 or 1/8 snapping) with 1 or more reverses. This allows a player to keep their cursor in one place while the slider reverses.
 - **Hold Slider:** A slider requiring the player to keep their cursor in one place rather than follow the sliderball.
 - **Burai Slider:** A slider directly overlapping its own body, resulting in an unclear slider path.
@@ -42,7 +42,7 @@ Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative diffic
 - **Spinner Recovery Time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
-- **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
+- **Keysounding:** hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
 
 Overall
 --------
@@ -58,7 +58,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Each map must use at least two different custom combo colors unless the default skin is forced.** The combo colors must not blend with the map's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colors do not blend with the background accidentally.
 -   **Reverse arrows on sliders must not be completely visually obstructed by other hit objects with the default or beatmap-specific skin.** Covering up reverse arrows on sliders can result in sliders being ambiguous to read.
 -   **You must not silence both slider ticks and slider slides together.** Low volume or blending sound samples are similarly discouraged when inaudible.
--   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
+-   **You must not use sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object.
 -   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any section unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders. When perfectly overlapping two slider bodies, the first slider must be fully faded out before the second slider is fully faded in.
 
 #### Guidelines
@@ -70,7 +70,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 -   **Avoid using high tick rates combined with low slider velocity.** Receiving feedback from slider ticks that are not visible can be uncomfortable.
 -   **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
--   **Avoid keysounding without hitnormal support.** If hitsounds blend perfectly with the song, feedback is minimal.
+-   **Avoid keysounding without hitnormal support.** If hit sounds blend perfectly with the song, feedback is minimal.
 -   **Buzz sliders should have appropriate delay before the next note.** 1/8 and 1/16 sliders should be followed by a 1/4 gap, whereas 1/12 sliders should be followed by a 1/6 gap. This ensures that the hit-window between hit objects is playable.
 -   **Difficulty should be appropriately expressed to represent the intensities of different sections in the music.** More complex/denser rhythms and more complex/quicker movements should be appropriately used to produce feedback through difficulty.
 -   **Avoid major composition differences in similar sections of a song.** The basic spacing and rhythm should be similar, while patterning can vary. This ensures that rhythm and intensity in all similar sections reflect a song similarly.
@@ -85,7 +85,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Try to spread your hit object placement evenly across the playfield.** Cluttering hit objects in one section of the screen for no reason will make them stand out unnecessarily.
 -   **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings, time-distance equality, or slider reverses/ends snapped to irregular beats.
 -   **Avoid using similar combo colors in successive combos.** Players should be able to differentiate between different combos in a map.
--   **Spinners and sliderends should have hitsound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
+-   **Spinners and sliderends should have hit sound feedback.** If either are used to represent a held sound and do not end on a distinct sound, having no feedback is acceptable.
 
 ### Skinning
 
@@ -93,13 +93,13 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 -   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
--   **A custom slider border color must be selected when a beatmap contains skin elements from the hitcircle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding "SliderBorder: \<RGB Value\>" under "[Colours]" in a `.osu` file.
--   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding "SliderTrackOverride: \<RGB Value\>" under "[Colours]" in a `.osu` file.
+-   **A custom slider border color must be selected when a beatmap contains skin elements from the hit circle or slider sets.** This is to avoid the default slider border or a player's custom skin's slider border from conflicting with the map's specific color scheme. This is done by adding `SliderBorder: <RGB Value>` under `[Colours]` in a `.osu` file.
+-   **Slider body color cannot be too similar to slider border color.** If both of these settings are too similar to each other, then the slider border element loses its point as a visual border for the slider. Slider body color can be selected by adding `SliderTrackOverride: <RGB Value>` under `[Colours]` in a `.osu` file.
 -   **Both slider border and body colors must be manually set or not set.** Setting only one may conflict with a user's custom skin choices.
 
 #### Guidelines
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the [Colours] column in the `.osu` file of map.
+-   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the color of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of map.
 
 ## Difficulty-specific
 
@@ -170,7 +170,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
 -  **Avoid visually similar 1/2 and 1/1 spacing.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from 1/1 gaps.
 -  **Avoid mixing 1/2 and 1/4 rhythms in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
--  **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+-  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 -  **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 
 #### Difficulty Setting Guidelines
@@ -185,7 +185,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 -  **Avoid cross screen jumps and spaced streams.** These are mapping techniques primarily reserved for Expert level difficulties.
 -  **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
--  **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+-  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty Setting Guidelines
 
@@ -198,7 +198,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 -  **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
--  **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+-  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty Setting Guidelines
 
