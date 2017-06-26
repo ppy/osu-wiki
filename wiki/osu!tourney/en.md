@@ -4,9 +4,7 @@
 
 Users encountering **problems** with the client may read the Troubleshooting section below or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**.
 
-## FAQ
-
-### What is osu!tourney?
+## What is osu!tourney?
 
 The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously.
 It is, currently, only meant to be used for world cups and might therefore be limited in its behaviour.
@@ -102,11 +100,9 @@ At the bottom of the client, you will see the control panel.
 
 ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel")
 
-_osu!tourney control panel_
-
 ---
 
-![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![When the multiplayer rooms are created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
 ![osu!tourney assigns team names and usernames automatically](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
 
