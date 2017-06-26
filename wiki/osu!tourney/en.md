@@ -349,7 +349,4 @@ Do not forget to adjust the cropping to remove the black control panel from the 
 
 ### My issue/question is not listed here! What to do?
 
-Email tournaments@ppy.sh if you have a problem that is not listed here.
-
-Developers are monitoring this thread to help you troubleshooting the problems you are encountering.
-Make sure to be descriptive and provide screenshots if possible.
+Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
