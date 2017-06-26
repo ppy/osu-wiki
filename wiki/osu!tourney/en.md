@@ -315,6 +315,10 @@ Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50
 
 **[Download the template.psd here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
 
+### Prizes
+
+We may award badges to the first place winners of second (and further) iterations of well-managed tournaments. This is offered under the condition that staff members of your tournament do _not_ participate in the tournament themselves to avoid any potential unfairness.
+
 ## Troubleshooting
 
 ### How do fresh install osu! without uninstalling my current?
