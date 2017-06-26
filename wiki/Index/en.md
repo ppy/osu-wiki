@@ -2,13 +2,7 @@
 
 Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
-## Legal Notice
-
-- [About](/wiki/About "About")
-- [Legal](/wiki/Legal "Legal")
-  - [Copyright](/wiki/Legal/Copyright "osu! Copyright")
-  - [Terms of Service](/wiki/Legal/TOS "osu! Terms of Service")
-- [Do you really want to ask peppy](/wiki/Do_you_really_want_to_ask_peppy "Do you really want to ask peppy")
+We are still working on a design for the index page, so excuse what follows. If you are looking for something in particular, you can [search the wiki](https://osu.ppy.sh/home/search?query=&mode=wiki_page).
 
 ## osu! Client
 
@@ -316,3 +310,11 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 - [Article Style Guide](/wiki/Article_Style_Guide "Article Style Guide")
 - [osu!wiki contribution guide](/wiki/osu!wiki_contribution_guide "osu!wiki contribution guide")
 - [How You Can Help!](/wiki/How_You_Can_Help! "How You Can Help!")
+
+## Legal Notice
+
+- [About](/wiki/About "About")
+- [Legal](/wiki/Legal "Legal")
+  - [Copyright](/wiki/Legal/Copyright "osu! Copyright")
+  - [Terms of Service](/wiki/Legal/TOS "osu! Terms of Service")
+- [Do you really want to ask peppy](/wiki/Do_you_really_want_to_ask_peppy "Do you really want to ask peppy")
