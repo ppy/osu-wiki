@@ -1,14 +1,14 @@
 # Live streaming osu!
 
-If you are visiting this page, then it is likely you have an interest and want to learn how to live stream *osu!* on twitch.tv. Doing so is a very simple process but you may require a reliable computer to be able to run both osu! and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
+If you are visiting this page, it is likely you have an interest and want to learn how to live stream *osu!* on twitch.tv. Doing so is a very simple process but may require a reliable computer to be able to run both *osu!* and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
 
 ## Step 1 - Registration
 
 ![Registration Steps for Twitch.tv](img/TTV_RegistrationSteps.jpg "Registration Steps for Twitch.tv")
 
-1.  Registering for an account for TTV is very easy, just head to the website https://www.twitch.tv and click on the `Sign Up` button in the top right corner.
+1.  Registering for an account for TTV is very easy, just head to the website [twitch.tv](https://www.twitch.tv) and click on the `Sign Up` button in the top right corner.
 2.  Afterwards, fill in the fields.
-3.  You will get an activation link via e-mail.
+3.  You will get an account activation link via e-mail.
 4.  Once you are done, your channel will be at `www.twitch.tv/{username}` (username being your chosen username).
 
 ## Step 2 - Prepare twitch.tv for streaming
