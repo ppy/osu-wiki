@@ -178,54 +178,54 @@ So here our example uses the template:
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets `()` around them**.
 
-### IRC Commands (optional)
+### Referee commands (optional)
 
-To use this, ensure that all tournament staff and helpers are connected via IRC to Bancho and are members of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup.
+There are two types of referee commands that can be used - unprivileged and privileged. Unprivileged commands may be used by anyone, while privileged commands are locked to those who are in the [tournament staff](https://osu.ppy.sh/g/26) usergroup. It is _not_ necessary to be part of the tournament staff usergroup to manage a tournament.
 
-All of the following commands should be executed through an IRC client (some popular choices are mIRC, HexChat, and HydraIRC).
+Any properties enclosed with brackets `[]` are optional.
 
-Send a private message to BanchoBot with the text `!mp help`.
-You should now see a list of all the commands you may use.
-To create the tournament multiplayer room, send the message `!mp make Test Tourney: (Team Name 1) vs (Team Name 2)`.
-
-This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves.
-All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room.
-All room management commands should henceforth only be written in this chat channel.
-
-When the match is finished, send the command `!mp close` to close the room.
-
-The following is a list of available management commands.
-Any properties enclosed with brackets `[]` are optional:
+Unprivileged commands:
 
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
-- `!mp size` \<size\> - Sets the amount of available slots (1-16) in the room.
-- `!mp set` \<teammode\> `[<scoremode>] [<size>]` - Sets various room properties.
+- `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
+- `!mp set <teammode> [<scoremode>] [<size>]` - Sets various room properties.
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo
-- `!mp move` \<username\> `[<slot>]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
-- `!mp host` \<username\> - Transfers host to the player.
+- `!mp move <username> <slot>` - Moves a player to the specified slot (1-indexed).
+- `!mp host <username>` - Transfers host to the player.
 - `!mp clearhost` - Clears match host.
 - `!mp settings` - Displays full match details.
 - `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
 - `!mp abort` - Aborts the match.
-- `!mp kick` \<username\> - Kicks the player from the room.
-- `!mp team` \<username\> \<colour\> - Moves a player to the specified team.
+- `!mp team <username> <colour>` - Moves a player to the specified team.
   - `colour` - red, blue
-- `!mp map` \<mapid\> `[<playmode>]` - Changes the beatmap and playmode of the room.
+- `!mp map <mapid> [<playmode>]` - Changes the beatmap and playmode of the room.
   - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
-- `!mp mods` \<mod\> `[<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
+- `!mp mods <mod> [<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
   - Any amount of mods can be entered.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<time>]` - Begins a countdown timer.
 - `!mp timer [<time>]` - Begins a countdown timer.
   - `time` is 30s default.
   - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
-- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
-- `#`\<userid\> may substitute \<username\> in all of the above commands.
-   Usernames must have any whitespace be replaced with underscores ( `_` ).
+- `!mp kick <username>` - Kicks the player from the room.
 - `!mp password` - Enables/disables the multiplayer room password (initially enabled).
+- `!mp close` - Closes the room.
+
+Privileged commands:
+
+- `!mp make <name>` - Creates a tournament room with the specified name.
+  - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
+  - When the match is finished, use `!mp close` to close the room.
+- `!mp add <username>` - Adds a player to the room.
+- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
+
+`#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
+   
+Members of the tournament staff usergroup may also use these commands to manage tournaments through an IRC client such as mIRC, HexChat, or HydraIRC.
+
+Sending `!mp help` to BanchoBot will reveal the above commands.
 
 The following is an example of command usage:
 
