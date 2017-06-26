@@ -954,6 +954,13 @@
 "taiko_rc":                    "Ranking_Criteria/osu!taiko"
 "trc":                         "Ranking_Criteria/osu!taiko"
 
+"skin_set_list":               "Ranking_Criteria/Skin_Set_List"
+"ssl":                         "Ranking_Criteria/Skin_Set_List"
+"rc_skin_set_list":            "Ranking_Criteria/Skin_Set_List"
+"skin_set_list_rc":            "Ranking_Criteria/Skin_Set_List"
+"rc_ssl":                      "Ranking_Criteria/Skin_Set_List"
+"ssl_rc":                      "Ranking_Criteria/Skin_Set_List"
+
 "reporting_bad_behaviour":     "Reporting_Bad_Behaviour"
 "bad_behaviour":               "Reporting_Bad_Behaviour"
 "report":                      "Reporting_Bad_Behaviour"

@@ -1,6 +1,8 @@
 Skin Set List 
 ============= 
 
+_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+
 The following tables contain all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
 
 ## osu!
