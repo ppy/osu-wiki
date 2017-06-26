@@ -1,10 +1,10 @@
-# Errungenschaften
+# Erfolge
 
-**Achievements** (dt. Erfolge oder Errungenschaften) sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Hauptgruppen unterteilt: **Beatmap Packs**, **Skill**, **Dedication**, **Hush-Hush** und **Mod Einführung**.
+**Achievements** (dt. Erfolge oder Errungenschaften) sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Hauptgruppen unterteilt: **Beatmap Packs**, **Skill**, **Dedication**, **Hush-Hush** und **Mod Introduction**.
 
 ## Beatmap Packs
 
-**Beatmap Packs** Errungenschaften können erlangt werden, indem man aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
+**Beatmap Packs** Erfolge können erlangt werden, indem man aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -21,20 +21,20 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
 - Der Spielmodus muss der *osu!* [Standard](/wiki/Game_Modes/osu!/) Modus sein.
-- Extrahiere das `Theme Beatmap Pack` und packe alle Beatmaps in den *osu!* Song Ordner. Starte *osu!* und spiel die Maps. Das ist alles.
-  - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den *osu!* Song Ordner und erstelle nicht extra einen Ordner dafür.
-  - Alternativ kann man auch jede benötigte Map einzeln runterladen und spielen.
-- Jegliche Variationen (anderer Beatmap Ersteller) zählen nicht. Die gelistete Beatmap muss gespielt werden.
+- Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den *osu!* Song Ordner. Starte *osu!* und spiel die Maps. Das ist alles.
+  - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den *osu!* Song Ordner und erstelle nicht einen neuen Ordner dafür.
+  - Die Beatmaps können auch einzeln heruntergeladen und gespielt werden.
+- Beatmaps vom selben Lied aber anderen Erstellern zählen nicht. Ausschließlich die aufgelistete Beatmap wird gewertet.
 - Man muss mit seinem Account im Spiel angemeldet sein. Nur auf der Webseite angemeldet zu sein, reicht nicht aus.
-- Mods können nach Belieben benutzt werden, außer Mods wie `Relax`, die die Beatmap `Unranked` machen.
+- Mods können nach Belieben benutzt werden, außer Mods wie `Relax`, ansonsten wird der erspielte Rekord nicht gezählt.
 
 #### Hinweise:
 
 - Nachdem man den Erfolg erhalten hat, kann man die benötigten Beatmaps wieder löschen. Der Erfolg, Ranked Score und die Genauigkeit bleiben erhalten. Falls man jedoch seinen Ranked Score oder die Genauigkeit verbessern möchte, dann sollte man die Beatmaps jedoch behalten oder neu runterladen.
 - Falls man sich fragt, warum man einen der Theme Pack Erfolge nicht erhalten hat und eventuell das Gefühl hat, dass eine Map fehlt, dann kann man zu jeder Zeit die [Theme Pack Liste](https://osu.ppy.sh/p/packlist?t=t) überprüfen. Jede geschaffte Map hat ein dickgedrucktes **CLEARED** neben sich.
-- Der Emblem wird erst ausgehändigt, wenn alle Lieder aus dem Pack geschafft wurden.
-  - Sei also geduldig und gehe sicher, dass der Rekord auch hochgeladen wurde. Ansonsten kann es sein, dass die Beatmap ein weiteres Mal gespielt werden muss.
-- Benutze den `Offset Wizard`. Die Maps sind recht alt und das Timing/Offset ist oftmals falsch.
+- Das Emblem wird erst ausgehändigt, wenn alle Lieder aus dem Pack geschafft wurden.
+  - Der Rekord muss hochgeladen worden sein. Ansonsten kann es sein, dass die Beatmap ein weiteres Mal gespielt werden muss.
+- Bei alten Maps ist das Timing/Offset oftmals falsch. Mit dem `Offset Wizard` in den Einstellungen kann das Timing/Offset korrigiert werden.
 
 #### Trivial
 
@@ -59,7 +59,7 @@ Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary)
 
 Neben den Komboerfolgen gibt es noch weitere 20 Erfolge für jeden Spielmodi (osu!, osu!taiko, osu!catch und osu!mania), die in 3 Gruppen aufgeteilt sind: **Rank**, **Pass** und **Perfect**.
 
-Die 4 **Rank** Erfolge können erlangt werden, indem man sich im Top Ranking gegen andere hochspielt. Den ersten Erfolg erhält man zum Beispiel schon bei Rang 50.000. Beim letzten Erfolg muss man unter die besten 1.000 kommen.
+Die 4 **Rank** Erfolge können erlangt werden, indem man im Ranking aufsteigt. Den ersten Erfolg erhält man zum Beispiel schon bei Rang 50.000. Beim letzten Erfolg muss man unter die besten 1.000 kommen.
 
 Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss man eine beliebige Ranked/Approved Beatmap spielen. Um ein Erfolg freischalten zu können, muss die Beatmap in einem bestimmten Schwierigkeitgradbereich liegen. Die Schwierigkeit der Beatmap wird durch **Star Difficulty** angegeben. Beim ersten Erfolg muss beispielsweise eine Beatmap gespielt werden, dessen **Star Difficulty** Wert zwischen 1 und 2 liegt. Für den letzten Erfolg muss eine Beatmap mit einem **Star Difficulty** Wert von 8 oder höher gespielt werden.
 
@@ -78,7 +78,7 @@ Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss man eine beliebige Ranked/App
 
 ## Dedication
 
-**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [Standard](/wiki/Game_Modes/osu!/) Modus spielt / Früchte in [Catch the Beat](/wiki/Game_Modes/osu!catch/) sammelt / Noten in [Taiko](/wiki/Game_Modes/osu!taiko/) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania/) drückt.
+**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [osu!](/wiki/Game_Modes/osu!/) Modus spielt / Früchte in [osu!catch](/wiki/Game_Modes/osu!catch/) sammelt / Noten in [osu!taiko](/wiki/Game_Modes/osu!taiko/) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania/) drückt.
 
 | osu! | osu!taiko | osu!catch | osu!mania |
 | :------: | :---: | :------------: | :---: |
@@ -100,7 +100,7 @@ Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss man eine beliebige Ranked/App
 | ![Eclipse](/wiki/Achievements/img/osu-secret-eclipse.png "Eclipse") | ![Reckless Abandon](/wiki/Achievements/img/all-secret-reckless.png "Reckless Abandon") |![No Time To Spare](/wiki/Achievements/img/all-secret-ntts.png "No Time To Spare") |![Sognare](/wiki/Achievements/img/all-secret-sognare.png "Sognare") |![Realtor Extraordinaire](/wiki/Achievements/img/all-secret-realtor.png "Realtor Extraordinaire") |![Realität](/wiki/Achievements/img/all-secret-realitat.png "Realität") |
 | ![Our Mechanical Benefactors](/wiki/Achievements/img/all-secret-ourbenefactors.png "Our Mechanical Benefactors") | ![Meticulous](/wiki/Achievements/img/osu-secret-meticulous.png "Meticulous") |![Infinitesimal](/wiki/Achievements/img/osu-secret-infinitesimal.png "Infinitesimal") |![Equilibrium](/wiki/Achievements/img/osu-secret-equilibrium.png "Equilibrium") |![Impeccable](/wiki/Achievements/img/all-secret-impeccable.png "Impeccable") |![Slow And Steady](/wiki/Achievements/img/all-secret-slowandsteady.png "Slow And Steady") |
 
-## Mod Einführung
+## Mod Introduction
 
 **Mod Introduction** (dt. Mod Einführung) Erfolge können mit dem jeweiligen Mod (Double Time, Half Time, Hard Rock, Hidden, etc.) freigeschalten werden.
 
