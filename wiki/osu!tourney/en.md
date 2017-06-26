@@ -2,13 +2,6 @@
 
 **osu!tourney** is the official multi-spectator client used to view and stream an entire multiplayer match at once in _osu!_.
 
-Access to the osu!tourney client is limited to a specific tournament's hosts and their staff.
-Tournament hosts will have to contact `tournaments@ppy.sh` to apply for access, which is limited for the time needed to conclude the tournament they host.
-Using the client is not meant for public as of right now and requires approval from the game administration.
-
-Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions.
-This client is not for **private** use.
-
 Users encountering **problems** with the client may read the Troubleshooting section below or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**.
 
 ## FAQ
@@ -23,24 +16,14 @@ The number of windows opened cannot currently be changed, but this behaviour wil
 
 Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup; otherwise, you won’t be able to login properly to it.
 
-### Getting access to the client
+### Registering your tournament
 
-After you have organized your event completely, send in an e-mail to `tournaments@ppy.sh` including:
+After you have organized your event, send an e-mail to `tournaments@ppy.sh` including:
 
-1. The day when the tournament starts and ends
-2. Any links to follow the tournament (this should be publically accessible)
-3. An exhaustive list of concrete osu! usernames that want to use osu!tourney
-4. Anything else of importance
+1. The starting/ending dates of the tournament.
+2. Any publicly-accessibly links to follow the tournament.
 
-Please send your inquiry **at least 2 weeks in advance**.
-This allows us to setup everything ahead of time for you.
-
-When your access gets granted, you will be added to the [Tournament Staff](https://osu.ppy.sh/g/26) user group temporarily.
-This enables all of the features coming along with osu!tourney, including the specific IRC commands.
-Membership in this usergroup is limited and will expire whenever your tournament concludes.
-
-We expect you to act professionally and responsibly with access to all of the tournament tools.
-Any actions with malicious intent will not be treated lightly.
+We expect you to act professionally and responsibly in the management of your tournament. Any actions with malicious intent will not be treated lightly.
 
 ## Setup
 
@@ -329,14 +312,10 @@ Make sure to have osu! updated to the newest cuttingedge build!
 
 ### osu!tourney does not open, it throws me an error prompt and/or closes!
 
-- Make sure you are part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup.
-  Most of the times, you are only added temporarily, so your access may have expired.
-- You should ensure that the `privateserver` key in the `tournament.cfg` has no value set.
+- Ensure that osu! is using the Cutting Edge release stream.
 - Make sure that you are logged into osu!
-  If not, run osu! and login, then close osu! again and restart as the tournament client.
-- Make sure to only use one monitor.
-- Ensure that you do **not** run osu! as administrator (unless osu! is asking for it directly on its own).
-- Make sure to have osu! on the Cutting Edge release stream.
+  - If not, run osu! normally, login while making sure the "Remember Username" and "Remember Password" checkboxes are checked, then restart osu! as the tournament client.
+- Ensure that the `privateserver` key in the `tournament.cfg` has no value set.
 
 ### My osu! song database corrupts when starting up!
 
