@@ -8,7 +8,7 @@ Beatmap Packs
 -------------
 
 **The Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
-You must play in [osu!standard](/wiki/osu!standard) mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
+You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
 
 There are currently 16 medals in this group which are divided into 4 packs: Video Game, Anime, Internet!, and Rhythm Game.
 
@@ -24,7 +24,7 @@ Each of these sections currently have 4 volumes to them.
 ### Requirements
 
 - The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
-- The played game mode must be [osu!standard](/wiki/osu!standard).
+- The played game mode must be osu!standard.
 - Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
   From here, open the osu!client and let the client parse the files before playing the beatmaps.
   - Alternatively, the player can download the songs inside manually one by one and it would still count.
@@ -46,7 +46,7 @@ Skill medals are currently divided into three groups: Combo, High Ranker, and St
 Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
 
 For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps.
-**However, do not search for or play unapproved beatmaps!**
+However, **do not search for or play unapproved beatmaps!**
 
 ---
 
