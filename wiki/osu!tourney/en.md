@@ -191,7 +191,7 @@ Unprivileged commands:
 - `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
 - `!mp set <teammode> [<scoremode>] [<size>]` - Sets various room properties.
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
-  - `scoremode` - 0: Score, 1: Accuracy, 2: Combo
+  - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score v2
 - `!mp move <username> <slot>` - Moves a player to the specified slot (1-indexed).
 - `!mp host <username>` - Transfers host to the player.
 - `!mp clearhost` - Clears match host.
