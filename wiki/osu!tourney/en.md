@@ -209,6 +209,8 @@ Unprivileged commands:
   - `time` is 30s default.
   - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
+- `!mp kick <username>` - Kicks the player from the room.
+- `!mp password` - Enables/disables the multiplayer room password (initially enabled).
 - `!mp close` - Closes the room.
 
 Privileged commands:
@@ -217,8 +219,6 @@ Privileged commands:
   - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
   - When the match is finished, use `!mp close` to close the room.
 - `!mp add <username>` - Adds a player to the room.
-- `!mp kick <username>` - Kicks the player from the room.
-- `!mp password` - Enables/disables the multiplayer room password (initially enabled).
 - `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
 
 `#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
