@@ -263,25 +263,17 @@ In order to let every team member be in the right team within osu!tourney, playe
 
 ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")
 
-_TeamSize = 4_
-
 ---
 
 ![TeamSize = 3](Teamsize3.png "TeamSize = 3")
-
-_TeamSize = 3_
 
 ---
 
 ![TeamSize = 2](Teamsize2.png "TeamSize = 2")
 
-_TeamSize = 2_
-
 ---
 
 ![TeamSize = 1](Teamsize1.png "TeamSize = 1")
-
-_TeamSize = 1_
 
 ### Skinning
 
