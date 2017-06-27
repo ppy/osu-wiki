@@ -284,6 +284,7 @@ would "stage" your changes be committed on the local copy.
 
 *Note: Adding a additional ``-m <message>`` in the command would be considered by remote as the commit details.*
 
+
 After committing your changes, it is advisable to push it immidiately on your fork's remote copy, which can be done using:
 
 ```prolog
@@ -364,6 +365,7 @@ Which would add the official repository as a recognized remote under the ``ppy``
 
 You can replace ``ppy`` with an alias you prefer.
 
+
 With the remote now set up you can just pull the new changes from the official repository.
 
 ```prolog
@@ -380,11 +382,14 @@ git push
 
 
 
-#### Merge conflicts
+#### Solving merge conflicts
 
-[Read this GitHub Help for an overview about merge conflicts][GH Help webmerge conflicts]
+In some cases, you will encounter a "merge conflict", a situation which there are two conflicting changes in one or more files.
 
-[Read this GitHub Help on resolving merge conflicts in GitHub itself][GH Help solve webmerge conflicts]
+
+- [Read this GitHub Help for an overview about merge conflicts][GH Help webmerge conflicts]
+
+- [Read this GitHub Help on resolving merge conflicts in GitHub itself][GH Help solve webmerge conflicts]
 
 ## FAQ
 
