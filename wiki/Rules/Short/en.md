@@ -1,4 +1,4 @@
-Simplified
+Short
 ============
 
 ![Introduction](/wiki/Rules/Short/img/IntroEN1.png "Introduction")
