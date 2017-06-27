@@ -1,10 +1,5 @@
-Project: akrolsmir
-==================
-
-[*AIBat v3.1 - v10 Compatibility* by: akrolsmir](https://osu.ppy.sh/forum/t/55305)
-
-AIBat
------
+AiBat
+========
 
 [AIBat v3.1.jar](https://puu.sh/1taP6) is like an AiMod but goes deeper in depth for issues you might not even consider.
 
@@ -79,3 +74,8 @@ Source Code
 -----------
 
 Source now on Git: [<https://github.com/akrolsmir/AIBat>](https://github.com/akrolsmir/AIBat)
+
+Trivia
+----------
+
+- [*AIBat v3.1 - v10 Compatibility* by: akrolsmir](https://osu.ppy.sh/forum/t/55305)
