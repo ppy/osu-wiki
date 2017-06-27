@@ -49,29 +49,30 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Finals - Week 1
 
-### Saturday, 1 July 2017
+### Saturday, 1. July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 | ¹ |
-| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | **12.30 UTC** | 20.30 UTC +8 | 21.30 UTC +9 | ² |
-| Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 | ² |
-| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | **15.30 UTC** | 10.30 UTC -5 | 17.30 UTC +2 | ² |
-| Germany | ![][flag_DE] | ![][flag_NL] | Netherlands | **17.00 UTC** | 19.00 UTC +2 | 19.00 UTC +2 | ² |
-| Chile | ![][flag_CL] | ![][flag_SE] | Sweden | **18.30 UTC** | 14.30 UTC -4 | 20.30 UTC +2 | ³ |
+| Chile | ![][flag_CL] | ![][flag_ID] | Indonesia | **2.00 UTC** | 22.00 (Fri.) UTC -4 | 9.00 UTC +7 | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_US] | United States | **3.30 UTC** | 11.30 UTC +8 | 23.30 (Fri.) UTC -4 | ² |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **13.30 UTC** | 21.30 UTC +8 | 22.30 UTC +9 | ¹ |
+| Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 11.00 UTC -4 | 23.00 UTC +8 | ³ |
+| Chile | ![][flag_CL] | ![][flag_US] | United States | **15.00 UTC** | 11.00 UTC -4 | 11.00 UTC -4 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 22.00 UTC +7 | 23.00 UTC +8 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **15.00 UTC** | 22.00 UTC +7 | 11.00 UTC -4 | ³ |
 
-### Sunday, 2 July 2017
+### Sunday, 2. July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **0.30 UTC** | 20.30 (Sat.) UTC -4 | 19.30 (Sat.) UTC -5 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 22.00 (Sat.) UTC -4 | ¹ |
-| Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | **3.30 UTC** | 11.30 UTC +8 | 22.30 (Sat.) UTC -5 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_DE] | Germany | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_NL] | Netherlands | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_DE] | Germany | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_SE] | Sweden | **14.30 UTC** | 22.30 UTC +8 | 16.30 UTC +2 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | **13.00 UTC** | 22.00 UTC +9 | 20.00 UTC +7 | ⁴ |
+| China | ![][flag_CN] | ![][flag_CL] | Chile | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
+| China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 21.00 UTC +8 | 21.00 UTC +8 | ⁴ |
+| China | ![][flag_CN] | ![][flag_US] | United States | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
+| China | ![][flag_CN] | ![][flag_ID] | Indonesia | **13.00 UTC** | 21.00 UTC +8 | 20.00 UTC +7 | ⁴ |
 
 
 
@@ -243,26 +244,26 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 **[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar)**
 
 - NoMod
-  - [Camellia - Bangin' Burst (CLSW) \[INFINITE\]](http://osu.ppy.sh/b/1113287&m=2) 
-  - [xi - Aragami (F D Flourite) \[Storm\]](http://osu.ppy.sh/b/1286742&m=2) 
-  - [Yousei Teikoku - Hades:The end (Shurelia) \[Razor Sharp, Chthonic God of the Underworld\]](http://osu.ppy.sh/b/1307510&m=2) 
-  - [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Nelly) \[Vanquished\]](http://osu.ppy.sh/b/1158651&m=2) 
-  - [dj TAKA - quaver (Monstrata) \[Crescendo\]](http://osu.ppy.sh/b/915210&m=2) 
-  - [gmtn vs. kozato - squartatrice (soulfear) \[Sayaka\]](http://osu.ppy.sh/b/499713&m=2) 
+  - [Camellia - Bangin' Burst (CLSW) \[INFINITE\]](http://osu.ppy.sh/b/1113287&m=2)
+  - [xi - Aragami (F D Flourite) \[Storm\]](http://osu.ppy.sh/b/1286742&m=2)
+  - [Yousei Teikoku - Hades:The end (Shurelia) \[Razor Sharp, Chthonic God of the Underworld\]](http://osu.ppy.sh/b/1307510&m=2)
+  - [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Nelly) \[Vanquished\]](http://osu.ppy.sh/b/1158651&m=2)
+  - [dj TAKA - quaver (Monstrata) \[Crescendo\]](http://osu.ppy.sh/b/915210&m=2)
+  - [gmtn vs. kozato - squartatrice (soulfear) \[Sayaka\]](http://osu.ppy.sh/b/499713&m=2)
 - Hidden
-  - [Hatsune Miku - Nightmare Party Night (Kuzino) \[4Q\]](http://osu.ppy.sh/b/121339&m=2) 
-  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](http://osu.ppy.sh/b/1055601&m=2) 
-  - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesus1412) \[Insane\]](http://osu.ppy.sh/b/201974&m=2) 
+  - [Hatsune Miku - Nightmare Party Night (Kuzino) \[4Q\]](http://osu.ppy.sh/b/121339&m=2)
+  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](http://osu.ppy.sh/b/1055601&m=2)
+  - [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesus1412) \[Insane\]](http://osu.ppy.sh/b/201974&m=2)
 - HardRock
-  - [Yooh - snow storm -euphoria- (Spectator) \[GRAVITY\]](http://osu.ppy.sh/b/1000764&m=2) 
-  - [nao - Towa naru Kizuna to Omoi no Kiseki (rew0825) \[Miracle\]](http://osu.ppy.sh/b/1270487&m=2) 
-  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/b/151229&m=2) 
+  - [Yooh - snow storm -euphoria- (Spectator) \[GRAVITY\]](http://osu.ppy.sh/b/1000764&m=2)
+  - [nao - Towa naru Kizuna to Omoi no Kiseki (rew0825) \[Miracle\]](http://osu.ppy.sh/b/1270487&m=2)
+  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/b/151229&m=2)
 - DoubleTime
-  - [ChouCho - Yasashisa no Riyuu (Time Capsule) \[Fii's Rain\]](http://osu.ppy.sh/b/1144716&m=2) 
-  - [NeLiME - CODE NAME : ZERO (ursa) \[Rain\]](http://osu.ppy.sh/b/374235&m=2) 
-  - [3L - Endless night (sjoy) \[Eternal\]](http://osu.ppy.sh/b/430371&m=2) 
+  - [ChouCho - Yasashisa no Riyuu (Time Capsule) \[Fii's Rain\]](http://osu.ppy.sh/b/1144716&m=2)
+  - [NeLiME - CODE NAME : ZERO (ursa) \[Rain\]](http://osu.ppy.sh/b/374235&m=2)
+  - [3L - Endless night (sjoy) \[Eternal\]](http://osu.ppy.sh/b/430371&m=2)
 - Tiebreaker
-  - [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. (Last Bubble) \[Chaos\]](http://osu.ppy.sh/b/1243752&m=2) 
+  - [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. (Last Bubble) \[Chaos\]](http://osu.ppy.sh/b/1243752&m=2)
 
 ------------------------------------------------------------------------
 
@@ -270,7 +271,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Semifinals
 
-| Saturday, 25 June 2017 | | | | |
+| Saturday, 25. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Indonesia ![](/wiki/shared/flag/ID.gif) | 3 | 6 | ![](/wiki/shared/flag/CN.gif) China | [#1](https://osu.ppy.sh/community/matches/34074171) |
 | Hong Kong ![](/wiki/shared/flag/HK.gif) | 6 | 2 | ![](/wiki/shared/flag/JP.gif) Japan | [#1](https://osu.ppy.sh/community/matches/34075521) |
@@ -278,7 +279,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | Mexico ![](/wiki/shared/flag/MX.gif) | 6 | 1 | ![](/wiki/shared/flag/SE.gif) Sweden | [#1](https://osu.ppy.sh/community/matches/34078783) |
 | Germany ![](/wiki/shared/flag/DE.gif) | 2 | 6 | ![](/wiki/shared/flag/NL.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/34080904) |
 
-| Sunday, 26 June 2017 | | | | |
+| Sunday, 26. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Chile ![](/wiki/shared/flag/CL.gif) | 6 | 3 | ![](/wiki/shared/flag/MX.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/34089533) [#2](https://osu.ppy.sh/community/matches/34090626) |
 | South Korea ![](/wiki/shared/flag/KR.gif) | 6 | 2 | ![](/wiki/shared/flag/US.gif) United States | [#1](https://osu.ppy.sh/community/matches/34090862) |
@@ -286,7 +287,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Quarterfinals
 
-| Sunday, 18 June 2017 | | | | |
+| Sunday, 18. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Japan ![][flag_JP] | 2 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/33939916) |
 | Sweden ![][flag_SE] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/33940848) |
@@ -299,7 +300,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Round of 16
 
-| Sunday, 11 June 2017 | | | | |
+| Sunday, 11. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/33780827) |
 | Poland ![][flag_PL] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/33781746) |
@@ -312,7 +313,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ### Group Stage
 
-| Saturday, 03 June 2017 | | | | |
+| Saturday, 03. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | New Zealand ![][flag_NZ] | 0 | 4 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/33594444) |
 | Singapore ![][flag_SG] | 0 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/33594453) |
