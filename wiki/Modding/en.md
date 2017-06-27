@@ -159,16 +159,16 @@ _See also: [Song Setup](/wiki/Song_Setup)._
 The actual song setup settings does not impact game play, but it is important to give correct names.
 The artist name, title of the song, source (if applicable), and tags should all be the same in each difficulty.
 
-Here are some other things too look out for in the song setup:
+Here are some other things to look out for in the song setup:
 
 - The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
 - The combo colours should be the same on the same background of each a mapset.
   Guest mappers are an exception, but generally: difficulties by the same person and with the same background should use the same combo colours.
 - Maps with widescreen storyboards should have the setting `Widescreen Support` (in `Design` tab) enabled to avoid being cut off in 16:9 resolutions.
 - Maps with storyboards that can cause epilepsy (frequent strobes over 3Hz or one-third of a second) have to enable `Display epilepsy warning (storyboard has quick strobing)` (in `Design` tab).
-- If a map has [breaks](/wiki/breaks), the setting `Letterbox during breaks` should be consistent thoughout a mapset.
-    The `Letterbox during breaks` setting must be disabled in osu!mania difficulties.
-- The `Preferred Skin` setting should be set to `User's preference (No Change)`, this may sometimes be set to the mapper's own skin, by mistake, while for editor play-testing.
+- If a map has [breaks](/wiki/breaks), the setting `Letterbox during breaks` should be consistent throughout a mapset.
+    The `Letterbox during breaks` setting must be disabled for osu!mania difficulties.
+- The `Preferred Skin` setting should be set to `User's preference (No Change)`, this may sometimes set to the mapper's own skin by mistake.
 
 #### Difficulty
 
@@ -241,7 +241,7 @@ When you make a mod post, it is very important to **not** do any of the followin
   - **This shape is ugly**: Whether the shape is made of hit circles, sliders, or both; the mapper obviously will not understand what you are requesting.
     What looks aesthetically pleasing to the mapper may not always look aesthetically pleasing to you.
     If you are going to suggest as such, at least explain why and supply another suggestion that the mapper could use.
-    - You can instead use `this shape could look more nicely, try this:` followed by your requested changes or something similar.
+    - You can instead use `this shape could look better, try this:` followed by your requested changes or something similar.
 - Offensive language
   - Even if the mapper is a close friend, please try to keep your mod post clean.
     It is understandable that certain patterns may seem completely illogical to you, but there is never a reason for insulting the mapper.
