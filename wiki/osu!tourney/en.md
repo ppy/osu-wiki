@@ -9,16 +9,14 @@ Users encountering **problems** with the client may read the Troubleshooting sec
 The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously.
 It is, currently, only meant to be used for world cups and might therefore be limited in its behaviour.
 
-The client, henceforth referred to as _osu!tourney_, mainly supports team versus matches, up to 2 teams of up to 8 players each.
+The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 The number of windows opened cannot currently be changed, but this behaviour will be modified in the future.
-
-Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup; otherwise, you won’t be able to login properly to it.
 
 ### Registering your tournament
 
 After you have organized your event, send an e-mail to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) including:
 
-1. The starting/ending dates of the tournament.
+1. The starting and ending dates of the tournament.
 2. Any publicly-accessibly links to follow the tournament.
 
 We expect you to act professionally and responsibly in the management of your tournament. Any actions with malicious intent will not be treated lightly.
