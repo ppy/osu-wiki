@@ -28,9 +28,9 @@
 
 ## 比赛主办团队
 
-[CN]: /wiki/shared/flag/Cn.gif "China"
-[UK]: /wiki/shared/flag/Gb.gif "Great Britain"
-[TW]: /wiki/shared/flag/Tw.gif "Taiwan"
+[CN]: /wiki/shared/flag/CN.gif "China"
+[UK]: /wiki/shared/flag/GB.gif "Great Britain"
+[TW]: /wiki/shared/flag/TW.gif "Taiwan"
 
 | 团队 | 人员 |
 | ---: | :--- |
@@ -51,19 +51,22 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比赛预告
 
-### 资格赛
+### 小组赛
 
-6月24日 15:00-20:00 (UTC+8)
-![6/24](https://user-images.githubusercontent.com/18349191/27418509-2baea9b6-574e-11e7-988b-99b4bcd90db4.png)
+6月30日，星期五  
+![30/6](https://user-images.githubusercontent.com/28429414/27581330-6a722f3c-5afb-11e7-98c9-a975262bad35.png)
 
-6月25日 11:00-16:00 (UTC+8)
-![6/25](https://user-images.githubusercontent.com/18349191/27418526-478da5ba-574e-11e7-91ad-69416fa0d2fd.png)
+7月1日，星期六  
+![1/7](https://user-images.githubusercontent.com/28429414/27581331-6ce9b758-5afb-11e7-8128-226259848e90.png)
+
+7月2日，星期日  
+![2/7](https://user-images.githubusercontent.com/28429414/27581090-9b352f3a-5afa-11e7-9532-a7c71379f993.png)
 
 ## 比赛图池
 
 ### 测试赛图池
 
-[点此下载全部](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[**点此下载全部**](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
 [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
 [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
@@ -91,6 +94,25 @@ TB:
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
 [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
+### 小组赛图池
+
+[**点此下载全部**](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
+[Ryu* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
+[Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950)  
+[kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948)  
+[P*Light feat. mow*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
+[Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623)  
+[Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428)  
+[sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529)  
+[PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/b/947524)  
+[Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/b/556755)  
+[L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/b/994500)  
+[Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/b/1099508)  
+[w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/b/1324299)  
+
+TB:  
+[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/b/1192531)
+
 ## 比赛结果
 
 ### 测试赛
@@ -98,6 +120,10 @@ TB:
 | 2017年6月18日 星期六 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | 元老队 | 5 | 7 | 新锐队 | [比赛记录](https://osu.ppy.sh/community/matches/33910571) |
+
+### 资格赛
+
+![score](https://user-images.githubusercontent.com/28429414/27581337-6f741fc2-5afb-11e7-80c1-6b6dbc4504e4.png)  
 
 ## 规则
 

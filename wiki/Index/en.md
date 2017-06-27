@@ -2,13 +2,7 @@
 
 Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 
-## Legal Notice
-
-- [About](/wiki/About "About")
-- [Legal](/wiki/Legal "Legal")
-  - [Copyright](/wiki/Legal/Copyright "osu! Copyright")
-  - [Terms of Service](/wiki/Legal/TOS "osu! Terms of Service")
-- [Do you really want to ask peppy](/wiki/Do_you_really_want_to_ask_peppy "Do you really want to ask peppy")
+We are still working on a design for the index page, so excuse what follows. If you are looking for something in particular, you can [search the wiki](https://osu.ppy.sh/home/search?query=&mode=wiki_page).
 
 ## osu! Client
 
@@ -160,13 +154,13 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
   - [How To Get Your Map Ranked](/wiki/Modding_Guides/How_To_Get_Your_Map_Ranked "How To Get Your Map Ranked")
   - [How to not Embarrass Yourself in the Modding Queues Subforum](/wiki/Modding_Guides/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum "How to not Embarrass Yourself in the Modding Queues Subforum")
   - [How to not Embarrass Yourself in the Projects Subforum](/wiki/Modding_Guides/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum "How to not Embarrass Yourself in the Projects Subforum")
-  - [Modding and Mapping](/wiki/Modding_Guides/Modding_and_Mapping "Modding and Mapping")
   - [Starting a Beatmap Project](/wiki/Modding_Guides/Starting_a_Beatmap_Project "Starting a Beatmap Project")
 - [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria")
   - [osu!](/wiki/Ranking_Criteria/osu! "osu! Ranking Criteria")
   - [osu!taiko](/wiki/Ranking_Criteria/osu!taiko "osu!taiko Ranking Criteria")
   - [osu!catch](/wiki/Ranking_Criteria/osu!catch "osu!catch Ranking Criteria")
   - [osu!mania](/wiki/Ranking_Criteria/osu!mania "osu!mania Ranking Criteria")
+  - [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct "Code of Conduct")
 - [Submission](/wiki/Submission "Submission")
   - [Beatmap Ranking Procedure](/wiki/Submission/Beatmap_Ranking_Procedure "Beatmap Ranking Procedure")
 
@@ -316,3 +310,11 @@ Welcome to the osu!wiki, a collaborative compendium of all _osu!_ things!
 - [Article Style Guide](/wiki/Article_Style_Guide "Article Style Guide")
 - [osu!wiki contribution guide](/wiki/osu!wiki_contribution_guide "osu!wiki contribution guide")
 - [How You Can Help!](/wiki/How_You_Can_Help! "How You Can Help!")
+
+## Legal Notice
+
+- [About](/wiki/About "About")
+- [Legal](/wiki/Legal "Legal")
+  - [Copyright](/wiki/Legal/Copyright "osu! Copyright")
+  - [Terms of Service](/wiki/Legal/TOS "osu! Terms of Service")
+- [Do you really want to ask peppy](/wiki/Do_you_really_want_to_ask_peppy "Do you really want to ask peppy")
