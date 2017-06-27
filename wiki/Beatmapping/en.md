@@ -12,9 +12,9 @@ Try to avoid songs which have tempo (or speed) changes or slow songs until you a
 
 To make a new beatmap, go to the edit mode then drag-and-drop an audio file into _osu!_.
 (Alternatively, you can move an audio file onto the `Songs` folder.)
-This should then open and direct you to the edit screen with your audio file.
-Your new song will be at the bottom of the song list, highlighted in purple.
-If it is not listed here for any reason, press `F5` to reset the beatmap cache and it should appear.
+This should open and direct you to the edit screen with your audio file.
+Your new song will be available at the bottom of the song list, highlighted in purple.
+If it is not listed in the song selection for any reason, press `F5` to reset the beatmap cache and it should appear.
 Click on the song, this will open the [beatmap editor](/wiki/beatmap_editor) and the `Song Setup` dialog.
 
 ### Song Setup
@@ -23,7 +23,7 @@ _See also: [Song Setup](/wiki/Song_Setup)_
 
 When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
 
-You should fill out this information before you create another [difficulty](/wiki/difficulty).
+You should fill out this information before creating another [difficulty](/wiki/difficulty).
 This will ensure that the metadata will be consistent across all of the difficulties in the set.
 
 You can change the options in the other tabs now if you want, but they can be changed later on.
@@ -48,7 +48,7 @@ _See also: [Compose](/wiki/Compose)_
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
 It is where you can visually place hit objects and toggle their [hit sounds](/wiki/hit_sounds)
 
-### Storyboards
+### Storyboarding
 
 _See also: [Storyboarding](/wiki/Storyboarding)_
 
