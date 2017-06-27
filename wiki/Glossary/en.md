@@ -121,7 +121,7 @@ A few methods on re-encoding audio can be found at [Audio Editing](/wiki/Audio_E
 
 BG is short for _background_.
 BG refers to the background image and/or video of a beatmap.
-Inside a beatmap folder, BG is usually the name for the background image.
+Inside a beatmap folder, BG (sometimes stylized as _bg_) is usually the name for the background image.
 
 ### BPM
 
