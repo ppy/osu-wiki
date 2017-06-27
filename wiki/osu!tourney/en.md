@@ -161,7 +161,7 @@ There are two types of referee commands that can be used - unprivileged and priv
 
 Any properties enclosed with brackets `[]` are optional.
 
-Unprivileged commands:
+#### Unprivileged commands:
 
 Only the original host of a room will be able to use unpriviliged commands in that room. If the original host leaves, the next host will not inherit the commands. If the original host rejoins the room, they will again be able to use the commands.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
@@ -191,7 +191,7 @@ Only the original host of a room will be able to use unpriviliged commands in th
 - `!mp password` - Enables/disables the multiplayer room password (initially enabled).
 - `!mp close` - Closes the room.
 
-Privileged commands:
+#### Privileged commands:
 
 - `!mp make <name>` - Creates a tournament room with the specified name.
   - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
@@ -264,7 +264,7 @@ The path of the folder must be `/osu!/Skins/User/tournament`.
 The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.
 To skin them properly, name your elements accordingly:
 
-- `background` - this is the background sprite used by osu!tourney during the entire time.
+- `background` - this is the background sprite used by osu!tourney during the entire time. The default background for osu!tourney can be found [here](https://s.ppy.sh/images/tournament/default.png).
 - `background-win1` (optional) - the background sprite will be fade over to this sprite in Results Screen when the left team won.
    It will fade back to `background` when leaving Results Screen.
    If this element is not placed, it will stay on `background`.
@@ -283,7 +283,7 @@ All icons must be named exactly like the Team name.
 If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`.
 Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 
-**[Download the skin template here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
+[Download the skin template](https://s.ppy.sh/images/tournament/template.zip) for an easier creation of your personal skin.
 
 ### Prizes
 

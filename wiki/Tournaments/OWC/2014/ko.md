@@ -3,9 +3,9 @@ osu! World Cup 2014
 
 ![OWC 2014 logo](logo.png)
 
-**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](//osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
+**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![](/wiki/shared/flag/Kr.gif) 대한민국** 입니다..
+저번 우승자는 **![][flag_KR] 대한민국** 입니다..
 
 토너먼트 일정
 -------------------
@@ -35,20 +35,20 @@ osu! World Cup 2014
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 토너먼트 관리 | ![](/wiki/shared/flag/De.gif)[Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif)[p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif)[Deif](//osu.ppy.sh/u/318565)                                                                    |
-| 비트맵 선별  | ![](/wiki/shared/flag/Nl.gif)[GladiOol](//osu.ppy.sh/u/23326) // ![](/wiki/shared/flag/Kr.gif)[ToGlette](//osu.ppy.sh/u/1076236)                                                                                                                           |
-| 방송      | ![](/wiki/shared/flag/Au.gif)[peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif)[Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif)[shARPII](//osu.ppy.sh/u/776257)                                                                   |
-| 해설      | ![](/wiki/shared/flag/Gb.gif)[jesus1412](//osu.ppy.sh/u/230116) // ![](/wiki/shared/flag/Fr.gif)[Mr Color](//osu.ppy.s6078) // ![](/wiki/shared/flag/Gb.gif)[Raiku](//osu.ppy.sh/u/1525538) // ![](/wiki/shared/flag/Us.gif)[ztrot](//osu.ppy.sh/u/6347) |
-| 통계      | ![](/wiki/shared/flag/Pl.gif)[Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                |
+| 토너먼트 관리 | ![][flag_DE][Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE][p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES][Deif](https://osu.ppy.sh/u/318565)                                                                    |
+| 비트맵 선별  | ![][flag_NL][GladiOol](https://osu.ppy.sh/u/23326) // ![][flag_KR][ToGlette](https://osu.ppy.sh/u/1076236)                                                                                                                           |
+| 방송      | ![][flag_AU][peppy](https://osu.ppy.sh/u/2) // ![][flag_PL][Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR][shARPII](https://osu.ppy.sh/u/776257)                                                                   |
+| 해설      | ![][flag_GB][jesus1412](https://osu.ppy.sh/u/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/u/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/u/6347) |
+| 통계      | ![][flag_PL][Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 링크
 -------
 
--   [osu! World Cup 2014 트위치 방송](//www.twitch.tv/osulive/)
--   [등록 양식](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [토론 장소](//osu.ppy.sh/forum/p/3410198)
+-   [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive/)
+-   [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+-   [토론 장소](https://osu.ppy.sh/forum/p/3410198)
 
 ------------------------------------------------------------------------
 
@@ -87,13 +87,13 @@ Ruleset
         1.  주요 선수와 백업 선ㅅ에 차별을 두지 않습니다.
 
 2.  각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오. 또한 유저 프로필에 같은 국기를 달아야 합니다.
-3.  참가신청은 [**구글폼**](//docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng) 을 통해 제출한 다음, [Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
-    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)에게 알려주셔야 합니다.
+3.  참가신청은 [**구글폼**](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)에게 알려주셔야 합니다.
     -   확인 답장을 받으면, 정상 전송된 것입니다. 그러면, 등록과정이 진행되고 있는 것입니다.
 
 4.  모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
     1.  운영위원은 불충분한 게임 플레이 능력을 가진 플레이어의 등록을 거부할 수 있습니다.
-    2.  The Game Administration may reject registrations due to [the violation of the Terms of Services](//osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
+    2.  The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
 
 5.  총 32팀의 신청을 받습니다. 선착순입니다.
 6.  성공적으로 등록된 팀들은 신청 기간이 지난 후, 결과가 공지될 것입니다.
@@ -114,7 +114,7 @@ Ruleset
 
 4.  각 조별 1위와 2위는 Double Elimination 경기에 진출하게 됩니다.
 5.  각 조의 상위 2순위 팀은 Double Elimination 경기에 참가하게 되며, 하위 2순위 팀은 패자부활전에 참가하게 됩니다.
-6.  Based on [this graphic](//puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
 | Stage          | Match ID                |
 |----------------|-------------------------|
@@ -172,3 +172,13 @@ Ruleset
 3.  All Double Elimination Stages will be held on either Saturday or Sunday.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_US]: /wiki/shared/flag/US.gif
