@@ -46,7 +46,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 - If not skinned, the current game mode's small icon will be used instead.
 - Togglable in the [options](/wiki/options).
-  - This option may forcibly turned on during winter.
+  - This option may forcibly be turned on during winter.
 
 ## Cursor
 
@@ -60,7 +60,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 - By default, this element will rotate and expand on click.
 - [skin.ini](/wiki/skin.ini) commands:
-  - To disable cursor expansion on click, set `CursorExpand` to `0`.
+  - To disable cursor expansion on click, set `CursorExpand` to `0`.
   - To disable cursor rotation, set `CursorRotate` to `0`.
 
 ---
@@ -77,7 +77,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 - If this element is not skinned, the default image will not be used!
 - Skinning this will make the cursortrail longer.
   - If you don't want to skin this, but want a long cursortrail, just use a 1x1px transparent image.
-- This element is not rotatable nor expandable.
+- This element will never rotate or expand.
 
 ---
 
@@ -108,7 +108,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 ## Button
 
-These buttons are used for the beatmap options menu, in the editor, lobby, and multiplayer room.
+These buttons are used for the beatmap options menu, in the editor,and multiplayer lobby and room.
 Since the button has three parts, it is best to keep the heights the same!
 
 ---
@@ -129,7 +129,7 @@ Since the button has three parts, it is best to keep the heights the same!
 
 **Note:**
 
-- This element is stretched to fit needed width.
+- This element is stretched to fit the needed width.
 
 ---
 
@@ -168,7 +168,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
   - leaderboard in song selection
   - button for the beatmap difficulty in song selection
   - leaderboard on the left while playing
-  - button that shows the selected beatmap while waiting in a room in multiplayer
+  - button that shows the selected beatmap while waiting in a multiplayer room
 
 ---
 
@@ -252,16 +252,16 @@ _`menu-back.png`_ (transparent; not included; see notes)
 
 **Note:**
 
-- This is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
+- This is used for song selection (the stars that fly from right to left), cursor, kiai time, and combobursts.
 
 ### Mode Select
 
 The skinning elements in this section uses three different suffixes to describe what they are used for.
 
 - _no suffix_: These appear in the centre of the song selection screen (showing the currently selected game mode).
-- `-med`: These appear inside the mode section box, when selecting the game mode.
-- `-small`: These appear inside the mode section button (showing the currently selected game mode).
-  These images is also used as the default snow, if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
+- `-med`: These appear inside the mode selection box, when selecting the game mode.
+- `-small`: These appear inside the mode selection button (showing the currently selected game mode).
+  These images are also used as the default snow if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
 
 ---
 
@@ -532,8 +532,8 @@ The following table is for all game modifier icons.
 **Notes:**
 
 - This mod is used for [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch).
-- This mod is called _Relax_.
-  - This mod will auto-click for the player, while the player just needs to move the cursor.
+- This mod has different effects when using it with different modes:
+  - In [osu!standard](/wiki/osu!standard), this mod will auto-click for the player, while the player just needs to move the cursor.
 
 ---
 
@@ -542,8 +542,7 @@ The following table is for all game modifier icons.
 **Notes:**
 
 - This mod is only used for [osu!standard](/wiki/osu!standard).
-- This mod is called _Auto Pilot_.
-  - This mod will move the mouse for the player, while the player just needs to tap or click.
+- This mod will move the mouse for the player while the player just needs to tap or click.
 
 ---
 
@@ -753,7 +752,7 @@ _`arrow-warning.png`_ (transparent; not included)
 
 **Note:**
 
-- This is used in multiplayer games, seen next to the player's score (on left) when the player tries to skip the intro of a map.
+- This is used in multiplayer games, seen next to the player's score (on the sides) when the player votes to skip the intro of a map.
 
 ---
 
@@ -790,7 +789,7 @@ _`arrow-warning.png`_ (transparent; not included)
 **Notes:**
 
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90° anti-clockwise and is placed at the bottom right of stage.
 
 ---
 
@@ -805,7 +804,7 @@ _`arrow-warning.png`_ (transparent; not included)
 - Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
 - Tinted black over time when near critical zone and tinted red in the critical zone.
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90° anti-clockwise and is placed at the bottom right of stage.
 
 ---
 
@@ -925,9 +924,9 @@ _`pause-overlay.png`_ (transparent; not included)
 
 **Notes:**
 
-- If one is not skinned, the default is to dim the background.
+- If one is not skinned, the background of the map will be dimmed by default.
 - This element is will **not** strech to fit.
-- Full image height is at 768px.
+- Full image height is 768px.
 
 ---
 
@@ -939,8 +938,8 @@ _`fail-background.png`_ (transparent; not included)
 
 **Notes:**
 
-- If one is not skinned, the default is to dim the background.
-- This element will strech to fit height.
+- If one is not skinned, the background of the map will be dimmed by default.
+- This element will strech to fit.
 
 ---
 
@@ -952,7 +951,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Note:**
 
-- This element appears when game-play is paused or failed.
+- This element appears when a map is paused or failed.
 
 ---
 
@@ -962,7 +961,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-- This element appears when game is paused.
+- This element appears when a map is paused.
 
 ---
 
@@ -987,7 +986,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Notes:**
 
-- This element appears at ranking screen (after finishing a map) or when game is paused or failed.
+- This element appears on the ranking screen after finishing a map or when a map is paused or failed.
 - This overrides `ranking-retry.png` in v2.0+.
 
 ### Score numbers
@@ -1046,8 +1045,8 @@ The following table is for all score number elements.
 
 **Notes:**
 
-- By default, this is also the combo numbers.
-- This is for the accuracy.
+- By default, this is also a part of the combo numbers.
+- This is for the accuracy display.
 - The usage of this element is dependent of your selected language.
 
 ---
@@ -1056,8 +1055,8 @@ The following table is for all score number elements.
 
 **Notes:**
 
-- By default, this is also the combo numbers.
-- This is for the accuracy.
+- By default, this is also a part of the combo numbers.
+- This is for the accuracy diaplay.
 - The usage of this element is dependent of your selected language.
 
 ---
@@ -1066,7 +1065,7 @@ The following table is for all score number elements.
 
 **Notes:**
 
-- By default, this is also the combo numbers.
+- By default, this is also a part of the combo numbers.
 - This is for the accuracy.
 
 ---
@@ -1075,7 +1074,7 @@ The following table is for all score number elements.
 
 **Notes:**
 
-- By default, this is also the combo numbers.
+- By default, this is also a part of the combo numbers.
 - This is for the combo, only used in [osu!standard](/wiki/osu!standard).
 
 ### Input Overlay
@@ -1105,7 +1104,7 @@ The following table is for all score number elements.
 
 - This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
 - Toggleable in the [options](/wiki/options).
-- Expands whenever the keys is pressed.
+- Shrinks whenever the key is pressed.
 
 ## Ranking Screen
 
@@ -1133,7 +1132,7 @@ After version 2.0+, most of these elements got realigned.
 
 **Note:**
 
-- This is the graph of the player's performance over time graph (performance is the amount from life bar)
+- This is the background of the player's performance over time graph (performance is the amount from life bar)
 
 ---
 
@@ -1158,7 +1157,7 @@ After version 2.0+, most of these elements got realigned.
 
 **Note:**
 
-- This is the body (and main focus) of the ranking screen.
+- This is the body of the ranking panel.
 
 ---
 
@@ -1221,7 +1220,7 @@ _`ranking-retry.png`_ (transparent; not included)
 
 **Note:**
 
-- This is used in multiplayer, for the winner of the round.
+- This is used in multiplayer for the winner of the round.
 
 ## Offset Wizard
 
