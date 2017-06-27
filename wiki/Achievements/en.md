@@ -40,7 +40,7 @@ Each of these sections currently have 4 volumes to them.
 
 #### Trivia:
 
- -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs)
+ -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
