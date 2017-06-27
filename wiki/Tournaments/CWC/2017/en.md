@@ -53,25 +53,26 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 | ¹ |
-| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | **12.30 UTC** | 20.30 UTC +8 | 21.30 UTC +9 | ² |
-| Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 | ² |
-| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | **15.30 UTC** | 10.30 UTC -5 | 17.30 UTC +2 | ² |
-| Germany | ![][flag_DE] | ![][flag_NL] | Netherlands | **17.00 UTC** | 19.00 UTC +2 | 19.00 UTC +2 | ² |
-| Chile | ![][flag_CL] | ![][flag_SE] | Sweden | **18.30 UTC** | 14.30 UTC -4 | 20.30 UTC +2 | ³ |
+| Chile | ![][flag_CL] | ![][flag_ID] | Indonesia | **2.00 UTC** | 22.00 (Fri.) UTC -4 | 9.00 UTC +7 | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_US] | United States | **3.30 UTC** | 11.30 UTC +8 | 23.30 (Fri.) UTC -4 | ² |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **13.30 UTC** | 21.30 UTC +8 | 22.30 UTC +9 | ¹ |
+| Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 11.00 UTC -4 | 23.00 UTC +8 | ³ |
+| Chile | ![][flag_CL] | ![][flag_US] | United States | **15.00 UTC** | 11.00 UTC -4 | 11.00 UTC -4 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 22.00 UTC +7 | 23.00 UTC +8 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **15.00 UTC** | 22.00 UTC +7 | 11.00 UTC -4 | ³ |
 
 ### Sunday, 2. July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **0.30 UTC** | 20.30 (Sat.) UTC -4 | 19.30 (Sat.) UTC -5 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **2.00 UTC** | 11.00 UTC +9 | 22.00 (Sat.) UTC -4 | ¹ |
-| Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | **3.30 UTC** | 11.30 UTC +8 | 22.30 (Sat.) UTC -5 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_DE] | Germany | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_NL] | Netherlands | **13.00 UTC** | 21.00 UTC +8 | 15.00 UTC +2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_DE] | Germany | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | **13.00 UTC** | 22.00 UTC +9 | 15.00 UTC +2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_SE] | Sweden | **14.30 UTC** | 22.30 UTC +8 | 16.30 UTC +2 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | **13.00 UTC** | 22.00 UTC +9 | 20.00 UTC +7 | ⁴ |
+| China | ![][flag_CN] | ![][flag_CL] | Chile | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
+| China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 21.00 UTC +8 | 21.00 UTC +8 | ⁴ |
+| China | ![][flag_CN] | ![][flag_US] | United States | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
+| China | ![][flag_CN] | ![][flag_ID] | Indonesia | **13.00 UTC** | 21.00 UTC +8 | 20.00 UTC +7 | ⁴ |
 
 
 
