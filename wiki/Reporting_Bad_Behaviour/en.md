@@ -17,7 +17,7 @@ Usage:
 
 Parameters in **[** and **]** are optional.
 
-If the user has a space in their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
+If the user has a space in their username, it must be replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
 
 ``!report This User is spamming in #osu`` turns to ``!report This_User is spamming in #osu``
 
