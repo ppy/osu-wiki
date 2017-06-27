@@ -99,7 +99,7 @@ Despite this set is being **[Myle](https://osu.ppy.sh/users/4915649)**'s very fi
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/trigger.jpg)](https://osu.ppy.sh/s/555076)
 
-This beatmap set by **[Wonki]()** definitely is a fun experience from the ranked pool and congratulations to Wonki for winning this month spotlights and also for providing us such a good piece. The scroll speed changes on this map feels intense but they are not overdone and it just feels natural with the song, making it really confortable to play. Combine that with a cool usage of minijacks at the very end with some simple long note patterns this map just has everything you want to be the map of the month... and its art!
+This beatmap set by **[Wonki](https://osu.ppy.sh/users/7898495)** definitely is a fun experience from the ranked pool and congratulations to Wonki for winning this month spotlights and also for providing us such a good piece. The scroll speed changes on this map feels intense but they are not overdone and it just feels natural with the song, making it really confortable to play. Combine that with a cool usage of minijacks at the very end with some simple long note patterns this map just has everything you want to be the map of the month... and its art!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/re-lm.jpg)](https://osu.ppy.sh/s/588066)
 
