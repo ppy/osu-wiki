@@ -169,7 +169,7 @@ Only the original host of a room will be able to use unpriviliged commands in th
 - `!mp set <teammode> [<scoremode>] [<size>]` - Sets various room properties.
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
-- `!mp move <username> <slot>` - Moves a player to the specified slot (1-indexed).
+- `!mp move <username> <slot>` - Moves a player within the room to the specified 1-indexed slot.
 - `!mp host <username>` - Transfers host to the player.
 - `!mp clearhost` - Clears match host.
 - `!mp settings` - Displays full match details.
@@ -195,7 +195,8 @@ Only the original host of a room will be able to use unpriviliged commands in th
 - `!mp make <name>` - Creates a tournament room with the specified name.
   - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
   - When the match is finished, use `!mp close` to close the room.
-- `!mp add <username>` - Adds a player to the room.
+- `!mp add <username>` - Brings a player into the room.
+  - The player will be forced into the room regardless of what they're doing, so this should not be used unless absolutely required.
 - `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
 
 `#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
