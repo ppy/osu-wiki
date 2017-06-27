@@ -1,3 +1,5 @@
+[true]: /wiki/shared/True.png
+[false]: /wiki/shared/False.png
 Skinning osu!
 ============
 
