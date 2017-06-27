@@ -1,4 +1,4 @@
-# Reporting Bad Behavior
+# Reporting Bad Behaviour
 
 What is the report system?
 --------------------------
