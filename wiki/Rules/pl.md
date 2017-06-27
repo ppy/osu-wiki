@@ -25,7 +25,7 @@ Zasady dot. forum
 8.  Reklamy i linki polecające są bezwzględnie zabronione.
 9.  Żadna treść (wliczając filmiki na YouTube) nie może być automatycznie odtwarzana po załadowaniu strony.
 
-Zasady dot. forum [BSS](/wiki/Glossary)
+Zasady dot. forum BSS
 ------------------------------------------
 
 Te zasady dotyczą ściśle wątków poświęconych [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System). Wątki te tworzone są za pomocą klienta osu! w momencie wysłania mapy przez edytor.

@@ -1,3 +1,6 @@
+Setting the Offset on the Correct Beat
+========================================
+
 [*About Offset Interval* by Alace](https://osu.ppy.sh/forum/t/20998)
 
 Most of osu players are not pro at music, so we got some maps with a problem:
@@ -6,13 +9,13 @@ Most of osu players are not pro at music, so we got some maps with a problem:
 
 The first divisor of a section is a heavy beat. See the examples.
 
-<span style="font-size:20px;">4/4 song</span>
+***4/4 song:***
 
-<span style="font-size:20px;">**0** 0 0 0 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0</span>
+**0** 0 0 0 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0
 
-<span style="font-size:20px;">3/4 song</span>
+***3/4 song:***
 
-<span style="font-size:20px;">**0** 0 0 **0** 0 0 **0** 0 0 **0** 0 0</span>
+**0** 0 0 **0** 0 0 **0** 0 0 **0** 0 0
 
 Where **0** is a heavy beat, so you need to set your offset on it.
 

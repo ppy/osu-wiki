@@ -1,7 +1,6 @@
 <img src="DEoptionen.png" title="Optionsmenü (die Leiste zur Linken)" alt="Optionsmenü (die Leiste zur Linken)" width="600" />
 
-Optionen
-========
+# Optionen
 
 Starte osu! neu, falls etwas nicht wie beabsichtigt funktionieren sollte (Hintergrund-Dimmer ist meist der Auslöser). Klicke auf **Options** oder drücke **o** im Hauptmenü, um das Optionsmenü aufzurufen und um das Verhalten von osu! einzustellen.
 
@@ -11,8 +10,7 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 
 **Anmerkung2:** b(Jahr)(Monat)(Tag)cuttingedge = Test Build.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Allgemein
-------------------------------------------------------------------------
+## Allgemein
 
 <img src="DE-Log_in.jpg" title="Einloggen" alt="Einloggen" width="300" />
 
@@ -20,135 +18,43 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 
 #### Gast
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Benutzername</p></td>
-<td><p>Geben Sie hier Ihren registrierten Benutzernamen ein</p></td>
-</tr>
-<tr class="even">
-<td><p>Passwort</p></td>
-<td><p>Das Passwort zu Ihrem Benutzernamen.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Benutzername speichern</p></td>
-<td><p>Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername}</p></td>
-</tr>
-<tr class="even">
-<td><p>Passwort speichern</p></td>
-<td><p>Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen.</p></td>
-</tr>
-</tbody>
-</table>
+| Name                   | Effekt                                                                                        |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Benutzername           | Geben Sie hier Ihren registrierten Benutzernamen ein                                          |
+| Passwort               | Das Passwort zu Ihrem Benutzernamen.                                                          |
+| Benutzername speichern | Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername}                              |
+| Passwort speichern     | Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen. |
 
 Klicke auf **Einloggen**, um sich anzumelden oder klicke auf **Account erstellen**, falls Sie noch über keinen Account verfügen. Sobald Sie sich erfolgreich eingeloggt haben, wird es sich, wie unten angezeigt, ändern.
 ====Benutzername==== <img src="DEallgemein.png" title="fig:Eingeloggt" alt="Eingeloggt" width="300" /> <img src="DE-user functions.jpg" title="fig:" width="300" /> Als {Benutzername} anmeldet
 
 Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1. Profil anzeigen</p></td>
-<td><p>Sehen Sie sich Ihren Profil auf der osu! Website an.</p></td>
-</tr>
-<tr class="even">
-<td><p>2. Ausloggen</p></td>
-<td><p>Loggen Sie sich aus dem Spiel aus.</p></td>
-</tr>
-<tr class="odd">
-<td><p>3. Avatar ändern</p></td>
-<td><p>Ändern Sie Ihren Profilbild.</p></td>
-</tr>
-<tr class="even">
-<td><p>4. Schließen</p></td>
-<td><p>Schließen.</p></td>
-</tr>
-</tbody>
-</table>
+| Name               | Effekt                                               |
+|--------------------|------------------------------------------------------|
+| 1. Profil anzeigen | Sehen Sie sich Ihren Profil auf der osu! Website an. |
+| 2. Ausloggen       | Loggen Sie sich aus dem Spiel aus.                   |
+| 3. Avatar ändern  | Ändern Sie Ihren Profilbild.                        |
+| 4. Schließen      | Schließen.                                          |
 
 ===Sprache=== <img src="DE-Language.jpg" title="fig:Sprache" alt="Sprache" width="300" />
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Sprache wählen</p></td>
-<td><p>Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.<br />
-Um dazu beizutragen: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http://osu.ppy.sh/forum/t/104342/</a> (alter Link)</p></td>
-</tr>
-<tr class="even">
-<td><p>Metadaten in Originalsprache</p></td>
-<td><p>Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.<br />
-<strong>Beispiel:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Wenn ausgewählt, wird sich der Titel der Beatmap von &quot;Night of Feifan Brother&quot; zu &quot;非凡哥之夜&quot; ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat.</a> Hier ist <a href="http://osu.ppy.sh/s/44443">Beatmap</a> aus dem Beispiel.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Alternative Schriftart im Chat</p></td>
-<td><p><span class="plainlinks">Wenn Sie die alte Schriftart (<a href="https://en.wikipedia.org/wiki/Tahoma_%28typeface%29">Tahoma</a>) lieber als die derzeitige (<a href="http://www.fonts2u.com/aller.font">Aller</a>) im <a href="Chat_Console" title="wikilink">Chat</a> verwenden möchten. <img src="OP_CHAT.jpg" title="fig:Bildlichen Vergleich" alt="Bildlichen Vergleich" width="400" /></span></p></td>
-</tr>
-</tbody>
-</table>
+| Name                           | Effekt                                                                                                                                                                                                                                                                                                                                                        |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: http://osu.ppy.sh/forum/t/104342/ (alter Link)                                                                                                                                            |
+| Metadaten in Originalsprache   | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
+| Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten.                                                                                                                                                                                                                                                           |
 
 ### Updates
 
 <img src="DE-Updates.jpg" title="Updates" alt="Updates" width="300" />
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Updatequelle</p></td>
-<td><p>Stable: Public build.<br />
-Cutting Edge: osu!test build (Multi nur als Supporter zugänglich).<br />
-<strong>Anmerkung:</strong> Online Verbindung ist notwendig, um zwischen diesen zu wechseln.</p></td>
-</tr>
-<tr class="even">
-<td><p>osu!-Ordner öffnen</p></td>
-<td><p>osu!-Ordner öffnen.</p></td>
-</tr>
-</tbody>
-</table>
+| Name                     | Effekt                                                                                                                                                             |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| UpdatequelleUpdatequelle | Stable: Public build.Cutting Edge: osu!test build (Multi nur als Supporter zugänglich).Anmerkung: Online Verbindung ist notwendig, um zwischen diesen zu wechseln. |
+| osu!-Ordner öffnen       | osu!-Ordner öffnen.                                                                                                                                                |
 
-![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafik
--------------------------------------------------------------
+## Grafik
 
 ### Renderer
 
@@ -156,13 +62,12 @@ Cutting Edge: osu!test build (Multi nur als Supporter zugänglich).<br />
 
 <img src="DE-Renderer.jpg" title="Renderer" alt="Renderer" width="300" />
 
-| scope="col" width="15%" colspan=2| Name                                                                 | scope="col" width="35%" colspan=6| Effekt                                                                                                                                                       |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| colspan=2|OpenGL                                                                                        | colspan=6|Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
-| colspan=2|DirectX (Default)                                                                             | colspan=6|Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken.                                                                         |
-| colspan=6|Frame Limiter: (kontrolliert die maximale Anzahl an Frames, die pro Sekunde angezeigt werden) |
-| 60fps (vsync)                                                                                           | 60fps (low latency)                                                                                                                                                                             |
-||
+| Name                                                                                          | Effekt                                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OpenGL                                                                                        | Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
+| DirectX (Default)                                                                             | Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken.                                                                         |
+| Frame Limiter: (kontrolliert die maximale Anzahl an Frames, die pro Sekunde angezeigt werden) |                                                                                                                                                                                       |
+| 60fps (vsync)                                                                                 | 60fps (low latency)                                                                                                                                                                   |
 
 Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](http://osu.ppy.sh/forum/t/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
 
@@ -172,14 +77,12 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 <img src="DE-Screen_Resolution.jpg" title="Bildschirmauflösung" alt="Bildschirmauflösung" width="300" />
 
-| colspan=3|Auflösung wählen:-                      |
-|---------------------------------------------------|
-| Eigenschaften                                     |
-| rowspan=2|Standard:                               |
-| 1024 x 768                                        |
-| rowspan=2|Breitbild:                              |
-| *Ihre Bildschirmauflösung* (Randlos) \[Standard\] |
-||
+#### Auflösung wählen:
+
+| Eigenschaften | Auflösung im Fenstermodus                                  | Auflösung im Vollbildmodus                     |
+|---------------|------------------------------------------------------------|------------------------------------------------|
+| Standard      | 800 x 600, 1024 x 768                                    | 800 x 600                                      |
+| Breitbild     | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) [Standard] | _Ihre Bildschirmauflösung_ (native) [Standard] |
 
 -   **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
 
@@ -187,118 +90,44 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 <img src="DE-graphicsettings.jpg" title="Grafikeinstellungen" alt="Grafikeinstellungen" width="300" />
 
-<table style="width:30%;">
-<colgroup>
-<col width="9%" />
-<col width="21%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Animierte Slider</p></td>
-<td><p>Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC.</p></td>
-</tr>
-<tr class="even">
-<td><p>Hintergrund Video</p></td>
-<td><p>Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den <a href="DE:Game_Modifiers#Visual_Settings" title="wikilink">Visual Settings</a> deaktiviert werden.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Storyboards</p></td>
-<td><p>Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den <a href="DE:Game_Modifiers#Visual_Settings" title="wikilink">Visual Settings</a> deaktiviert werden.</p></td>
-</tr>
-<tr class="even">
-<td><p>Combo Bilder</p></td>
-<td><p>Wenn Sie besondere Combowerte erreicht haben, sehen Sie ein Bild von der Seite auf den Bildschirm springen!</p></td>
-</tr>
-<tr class="odd">
-<td><p>Hit Lighting</p></td>
-<td><p>Zeigt einen dezenten Leuchteffekt, wenn Sie Circle anklicken. Deaktiviert nicht das Leuchten während dem Kiai.</p></td>
-</tr>
-<tr class="even">
-<td><p>Shadereffekte</p></td>
-<td><p>Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Unschärfefilter</p></td>
-<td><p>Passt die &quot;Shadereffekte&quot; an, um sie weniger &quot;grell&quot; zu machen.</p></td>
-</tr>
-</tbody>
-</table>
+| Name              | Effekt                                                                                                                                                                                      |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Animierte Slider  | Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC.               |
+| Hintergrund Video | Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den Visual Settings deaktiviert werden.   |
+| Storyboards       | Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den Visual Settings deaktiviert werden. |
+| Combo Bilder      | Wenn Sie besondere Combowerte erreicht haben, sehen Sie ein Bild von der Seite auf den Bildschirm springen!                                                                                 |
+| Hit Lighting      | Zeigt einen dezenten Leuchteffekt, wenn Sie Circle anklicken. Deaktiviert nicht das Leuchten während dem Kiai.                                                                              |
+| Shadereffekte     | Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert.                                       |
+| Unschärfefilter   | Passt die "Shadereffekte" an, um sie weniger "grell" zu machen.                                                                                                                             |
 
-| colspan=2 rowspan=3|Screenshot Format (Dateiformat von Screenshots). |
-|----------------------------------------------------------------------|
-| PNG (Verlustfrei)                                                    |
-| JPEG (Web-geeignet) \[Default\]                                      |
+#### Screenshot Format (Dateiformat von Screenshots)
+
+| Name                          | Effekt                                                                        |
+|-------------------------------|-------------------------------------------------------------------------------|
+| PNG (Verlustfrei)             | Hohe Dateigröße, aber unkomprimierte Qualität.                                |
+| JPEG (Web-geeignet) [Default] | Kompakte Dateigröße. Mühelos zu laden. Kann beim Reinzoomen verpixelt wirken. |
 
 ### Hauptmenü
 
 <img src="DE-main menu.jpg" title="Hauptmenü" alt="Hauptmenü" width="300" />
 
-<table style="width:30%;">
-<colgroup>
-<col width="9%" />
-<col width="21%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Schneeanimation</p></td>
-<td><p>Kleine Icons des derzeit ausgewählten Spielmodus fallen als <em>Schnee</em> Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage.</p></td>
-</tr>
-<tr class="even">
-<td><p>Parallaxeneffekt</p></td>
-<td><p>Der Bildschirm <em>bewegt</em> sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tipps</p></td>
-<td><p>Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol.</p></td>
-</tr>
-<tr class="even">
-<td><p>Interface Stimmen</p></td>
-<td><p>&quot;Welcome to osu!&quot;/&quot;See you next time.&quot; osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden.</p></td>
-</tr>
-<tr class="odd">
-<td><p>osu!-Titelsong</p></td>
-<td><p>osu! spielt &quot;nekodex - welcome to osu!&quot; im Menü anstelle von zufälligen Beatmaps ab. Es ist <strong>keine Beatmap</strong> und wird <strong>immer wieder wiederholt</strong> bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen.</p></td>
-</tr>
-</tbody>
-</table>
+| Name              | Effekt                                                                                                                                                                                                                                              |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Schneeanimation   | Kleine Icons des derzeit ausgewählten Spielmodus fallen als Schnee Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage.                                                                               |
+| Parallaxeneffekt  | Der Bildschirm bewegt sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays.                                                                                                                                                      |
+| Tipps             | Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol.                                                                                                              |
+| Interface Stimmen | "Welcome to osu!"/"See you next time." osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden.                                                                                                                                           |
+| osu!-Titelsong    | osu! spielt "nekodex - welcome to osu!" im Menü anstelle von zufälligen Beatmaps ab. Es ist keine Beatmap und wird immer wieder wiederholt bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen. |
 
 ### Songauswahl
 
 <img src="DE-Songauswahl.jpg" title="Songauswahl" alt="Songauswahl" width="300" />
 
-<table style="width:30%;">
-<colgroup>
-<col width="9%" />
-<col width="21%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Name</p></th>
-<th><p>Effekt</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Vorschaubilder</p></td>
-<td><p>Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+).</p></td>
-</tr>
-</tbody>
-</table>
+| Name           | Effekt                                                                                                                  |
+|----------------|-------------------------------------------------------------------------------------------------------------------------|
+| Vorschaubilder | Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). |
 
-![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Gameplay
----------------------------------------------------------------
+## Gameplay
 
 ### Allgemein
 
@@ -417,7 +246,7 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 
 ### Universeller Audio-Offset
 
-<img src="DE-Universeller Audio-Offset.jpg" title="fig:Universaler Audio-Offset" alt="Universaler Audio-Offset" width="300" /> Wenn Sie in jeder einzelnen Beatmaps eine Asynchronität feststellen sollten, dann sollten Sie Íhren universaler Offset anpassen. Entweder klicken Sie auf die gewünschte Stelle vom Graphen oder ziehen den Zeiger auf die gewünschte Stelle. Versuchen Sie den Wert solange anzupassen, bis die Maps zum Lied sychron sind. Alternativ können Sie auch den Offset Assistent benutzen für eine bessere Veranschaulichung, in dem die Tick repräsentiert werden.
+<img src="DE-Universeller Audio-Offset.jpg" title="fig:Universaler Audio-Offset" alt="Universaler Audio-Offset" width="300" /> Wenn Sie in jeder einzelnen Beatmaps eine Asynchronität feststellen sollten, dann sollten Sie Ýhren universaler Offset anpassen. Entweder klicken Sie auf die gewünschte Stelle vom Graphen oder ziehen den Zeiger auf die gewünschte Stelle. Versuchen Sie den Wert solange anzupassen, bis die Maps zum Lied sychron sind. Alternativ können Sie auch den Offset Assistent benutzen für eine bessere Veranschaulichung, in dem die Tick repräsentiert werden.
 
 Jede Schwierigkeitsstufe besitzt zudem noch einen lokalen Offset, wodurch nur die Schwierigkeitsstufe davon betroffen ist. Wenn ein Online Offset vorhanden sein sollte, dann können Sie entweder \[1\] den Offset der jeweiligen Schwierigkeitsstufe, die Sie gerade spielen, manuell anpassen, indem Sie die Tasten "+" oder "-" benutzen (ändert den Offset in 5ms Schritten, wenn die Taste "Alt" währenddessen gehalten wird, wird der Offset in 1ms geändert) oder \[2\] Sie gehen in den Einstellungen und passen den universalen Offset an. Sie sollten daher nicht vergessen, es danach wieder auf den ursprünglichen Wert einzutellen.
 ====Offset Assistent==== <img src="DE-Universales Offset.jpg" title="fig:Offset Assistent" alt="Offset Assistent" width="300" /> Klicken Sie auf "Offset Assistent", um den universalen Offset mit einer bildlichen Veranschaulichung anzupassen.

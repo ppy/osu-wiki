@@ -6,7 +6,7 @@ Achievements
 Beatmap Packs
 -------------
 
-**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t). You must play in [Standard](/wiki/Game_Modes/osu!) mode to qualify a **CLEARED** status at the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) and the badge.
+**The Beatmap Packs** achievements can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). You must play in [Standard](/wiki/Game_Modes/osu!) mode to qualify a **CLEARED** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
 
 There are currently 16 achievements in this group which are divided into 4 sections:
 
@@ -17,14 +17,14 @@ There are currently 16 achievements in this group which are divided into 4 secti
 
 Each of these sections currently have 4 volumes to them.
 
-### Requirements & Notes about getting the badge.
+### Requirements & Notes about getting the badge(s).
 
 #### Requirements:
 
- -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t).
+ -   Finishing every beatmap once in any difficulty within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
  -   The mode must be [osu!Standard](/wiki/Game_Modes/osu!).                                       
  -   Extract the Theme pack, drop all the .zip beatmaps into osu! Songs list. Open your osu! and start playing. That's all.
-     -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t)
+     -   If the beatmap is in .zip form, drop it as .zip form and don't go around making folders for them. If you do make folders for them, you may not get the achievement and the **CLEARED** status at its [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
      -   Alternately, you can download the songs inside manually one by one and it would still count.
  -   Any variations (like different creator) of the song is not counted. It MUST be that specific song and that specific creator at that specific Beatmap.  
  -   Your account in question must be logged in to your osu! game. Logging in osu! website but not the game do not count.
@@ -33,14 +33,14 @@ Each of these sections currently have 4 volumes to them.
 #### Notes:
 
  -   After you complete your achievement, you can choose to delete the songs of the theme. Your achievement, ranked score and accuracy will stay. If you want to improve your ranked score and accuracy of the beatmap, you must personally bring back that beatmap in again.  
- -   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
+ -   If you wonder why you didn't get the badge and feels like you missed out a song, you can always check the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) there. The song you completed will be marked **CLEARED** in bold.                                      
  -   Badge given after you complete all the songs in that theme in question.
      -  Be patient and make sure your score is submitted and ranked properly first. You won't want to repeat that beatmap song again especially if it is hard for you right?
  -   Make good use of the Offset Wizard. The songs are quite old and some hit-circles may come late/early so make sure to look out for Online Offset should it appeared.                                                                                                       
 
 #### Trivia:
 
- -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_Achievements)
+ -   [Legacy beatmap packs (2009 - 2016) before Stefan's update.](/wiki/Achievements/Beatmap_Packs_0916)
 
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
@@ -130,4 +130,4 @@ Achievements of this kind have no obvious way to get them. The player himself mu
 External Link
 -------------
 
--   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)
+-   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)

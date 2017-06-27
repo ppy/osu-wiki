@@ -25,7 +25,7 @@ Reglas de todo el foro
 8.  Anuncios y enlaces referidos (referral links) están explícitamente prohibidos. Simplemente no los publiques y punto.
 9.  Contenidos que se reproduzcan automáticamente (como videos de youtube, aplicaciones de flash, etc) no están permitidos.
 
-Reglas del foro de mapas ([BSS](/wiki/Glossary))
+Reglas del foro de mapas (BSS)
 ------------------------------------------------
 
 Estas reglas se aplican estrictamente a los hilos creados por el [BSS](/wiki/Glossary) (Sistema de envío de mapas, [Beatmap](/wiki/Glossary) Submission System en inglés). Estos hilos son creados a través del cliente de osu! cuando un beatmap se publica a través de la [editor](/wiki/Beatmap_Editor) de mapas.

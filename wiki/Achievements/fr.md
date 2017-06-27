@@ -6,7 +6,7 @@ Les **Succès** (ou **Médailles**) sont des badges visibles sur la page de prof
 Packs de Beatmaps
 -------------------
 
-Les succès des **Packs de Beatmaps** peuvent être obtenus **en jouant chaque beatmap d'un [Pack à Thème](http://osu.ppy.sh/p/packlist?t=t) dans sa totalité au moins une fois et dans n'importe quelle difficulté**. Vous devez jouer en mode [osu! Standard](/wiki/Game_Modes/osu!) pour pouvoir obtenir la mention **CLEARED** ("complété") dans la [Liste de Packs](http://osu.ppy.sh/p/packlist?t=t) ainsi que le badge correspondant.
+Les succès des **Packs de Beatmaps** peuvent être obtenus **en jouant chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans sa totalité au moins une fois et dans n'importe quelle difficulté**. Vous devez jouer en mode [osu! Standard](/wiki/Game_Modes/osu!) pour pouvoir obtenir la mention **CLEARED** ("complété") dans la [Liste de Packs](https://osu.ppy.sh/p/packlist?t=t) ainsi que le badge correspondant.
 
 Il existe actuellement 16 succès dans ce groupe, qui sont divisés en 4 sections :
 
@@ -20,10 +20,10 @@ Chacune de ces sections comporte 4 volumes.
 ### Conditions et Remarques à propos de l'obtention d'un badge.
 
 #### Conditions:
-- Jouez une fois chaque beatmap d'un [Pack à Thème](http://osu.ppy.sh/p/packlist?t=t) dans n'importe quelle difficulté.
+- Jouez une fois chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans n'importe quelle difficulté.
 - Le mode de jeu doit être [osu! Standard](/wiki/Game_Modes/osu!).
 - Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier Songs de osu!. Ouvrez osu!, et vous pouvez jouer. C'est tout.
-  - Si vos beatmaps sont au format .zip, laissez-les telles quelles sans vous embêter à leur créer des dossiers. Si vous leur faites des dossiers, vous risquez de ne pas obtenir le succès et la mention **CLEARED** sur la [Liste de Packs](http://osu.ppy.sh/p/packlist?t=t).
+  - Si vos beatmaps sont au format .zip, laissez-les telles quelles sans vous embêter à leur créer des dossiers. Si vous leur faites des dossiers, vous risquez de ne pas obtenir le succès et la mention **CLEARED** sur la [Liste de Packs](https://osu.ppy.sh/p/packlist?t=t).
   - Vous pouvez aussi télécharger les chansons une à une manuellement, cela compterait également.
 - Toute variation des données de la chanson (par exemple un créateur différent) fera que cette map ne sera pas comptée. Ce DOIT être cette chanson, ce créateur ainsi que cette beatmap en particulier.
 - Vous devez être connecté en jeu. Être connecté sur le site sans l'être dans le jeu ne compte pas.
@@ -31,13 +31,13 @@ Chacune de ces sections comporte 4 volumes.
 
 #### Remarques :
 - Après avoir obtenu votre succès, vous pouvez supprimer les chansons du theme que vous avez complété. Votre succès ainsi que votre score et précision entrés dans le classement seront conservés. Si vous voulez améliorer votre score et votre précision sur une beatmap, vous devrez importer cette beatmap dans votre jeu une nouvelle fois.
-- Si vous vous demandez pourquoi vous n'avez pas obtenu un badge, vous pouvez vérifier la [Liste de Packs](http://osu.ppy.sh/p/packlist?t=t). Les chansons que vous avez complétées seront annotées d'un **CLEARED** en gras.
+- Si vous vous demandez pourquoi vous n'avez pas obtenu un badge, vous pouvez vérifier la [Liste de Packs](https://osu.ppy.sh/p/packlist?t=t). Les chansons que vous avez complétées seront annotées d'un **CLEARED** en gras.
 - Le badge vous est décerné après que vous ayez complété toutes les chansons du thème correspondant.
   - Soyez patient et assurez-vous que votre score ait été envoyé et compté dans le classement. Vous ne voudriez par avoir à rejouer une beatmap, surtout si elle est difficile pour vous, n'est-ce pas ?
 - Les beatmaps sont vieilles et certaines notes peuvent être placés en avance/retard. Prêtez attention au décalage correctif indiqué dans les informations de certains beatmaps dont le timing est incorrect. Vous pouvez modifier le décalage audio dans les options du jeu.
 
 #### Anecdotes
-- [Packs de beatmaps (2009 - 2016) avant la mise à jour par Stefan](/wiki/Achievements/Beatmap_Packs_Achievements).
+- [Packs de beatmaps (2009 - 2016) avant la mise à jour par Stefan](/wiki/Achievements/Beatmap_Packs_0916).
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -97,4 +97,4 @@ Le titre du succès est un indice sur la manière de l'obtenir.
 Lien Externe
 --------------
 
--   Graphique de Succès par peppy [1](http://osu.ppy.sh/forum/t/80448)
+-   Graphique de Succès par peppy [1](https://osu.ppy.sh/forum/t/80448)
