@@ -6,10 +6,9 @@
 
 - Results: <https://osu.ppy.sh/forum/t/22162>
 - Ranking Chart: <https://osu.ppy.sh/p/chart?ch=best2009>
-- Download:
-  - Mediafire
-    - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
-    - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
+- Download (Mediafire):
+  - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
+  - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
 
 |No.|Votes|Beatmap|
 |:---:|:---:|:---|

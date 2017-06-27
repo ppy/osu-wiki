@@ -10,7 +10,7 @@
 
 This year’s weighted score was calculated taking into account all the scores the voter has on all the beatmaps within the given set. For each score, we use the following formula to calculate a weighting:
 
-![Formula of calculating a weighting](2016formula.png "Formula of calculating a weighting")
+![Formula for calculating a weighting](2016formula.png "Formula for calculating a weighting")
 
 †The difficulty here takes into account the mods the player had active when achieving the score
 
@@ -21,7 +21,7 @@ In short, the weighting takes into account the amount of times you’ve played a
 ## osu!standard
 
 - Full list of osu!standard 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/39>
-- Official Google Doc results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0>
+- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0>
 
 |No.|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
@@ -1294,7 +1294,7 @@ In short, the weighting takes into account the amount of times you’ve played a
 ## osu!taiko
 
 - Full list of osu!taiko 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/40>
-- Official Google Doc results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556>
+- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556>
 
 |No.|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
@@ -1492,7 +1492,7 @@ In short, the weighting takes into account the amount of times you’ve played a
 ## osu!catch
 
 - Full list of osu!catch 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/41>
-- Official Google Doc results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793>
+- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793>
 
 |No.|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
@@ -1594,7 +1594,7 @@ In short, the weighting takes into account the amount of times you’ve played a
 ## osu!mania
 
 - Full list of osu!mania 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/42>
-- Official Google Doc results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537>
+- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537>
 
 |No.|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|

@@ -3,7 +3,7 @@
 **_[Click here to return to the Best of main page](../ "Best Of main page")_**
 
 - Full list of 2012 beatmaps (vote screen): <http://osu.ppy.sh/p/bestof2012> [Legacy link. Content has been removed]
-- Official Google Doc results: <https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0>
+- Official Google Doc of the results: <https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0>
 - Ranking Chart: <https://osu.ppy.sh/p/chart?ch=BEST2012> (First 31 songs. 21 ranked, 10 approved)
 
 |No.|Votes|Beatmap|
