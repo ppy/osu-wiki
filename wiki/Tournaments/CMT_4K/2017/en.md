@@ -28,9 +28,9 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 ## Tournament staff
 
-[CN]: /wiki/shared/flag/Cn.gif "China"
-[UK]: /wiki/shared/flag/Gb.gif "Great Britain"
-[TW]: /wiki/shared/flag/Tw.gif "Taiwan"
+[CN]: /wiki/shared/flag/CN.gif "China"
+[UK]: /wiki/shared/flag/GB.gif "Great Britain"
+[TW]: /wiki/shared/flag/TW.gif "Taiwan"
 
 | Team | Staff |
 | ---: | :--- |

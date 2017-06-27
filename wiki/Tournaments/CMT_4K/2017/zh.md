@@ -28,9 +28,9 @@
 
 ## 比赛主办团队
 
-[CN]: /wiki/shared/flag/Cn.gif "China"
-[UK]: /wiki/shared/flag/Gb.gif "Great Britain"
-[TW]: /wiki/shared/flag/Tw.gif "Taiwan"
+[CN]: /wiki/shared/flag/CN.gif "China"
+[UK]: /wiki/shared/flag/GB.gif "Great Britain"
+[TW]: /wiki/shared/flag/TW.gif "Taiwan"
 
 | 团队 | 人员 |
 | ---: | :--- |
