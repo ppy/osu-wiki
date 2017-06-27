@@ -1,18 +1,15 @@
-Getting Your Map Modded (日本語)
-================================
-
-あなたの譜面が[Rankedになるために](/wiki/Beatmapping)、[Modを手に入れる必要があります](/wiki/Modding)。 ここにはそれをするいくつかの手段があります。
+あなたの譜面が[Rankedになるために](JP:Beatmapping "wikilink")、[Modを手に入れる必要があります](JP:Modding "wikilink")。 ここにはそれをするいくつかの手段があります。
 
 \#modreqs
 ---------
 
-**\#modreqs**はosu!のチャットの一つで、プレイヤー達はここで([Mod](/wiki/Modding))のリクエストをします。
+**\#modreqs**はosu!のチャットの一つで、プレイヤー達はここで([Mod](JP:Modding "wikilink"))のリクエストをします。
 
-[Bancho](/wiki/Glossary) 最新の20のリクエストを表示し、いくつかの方法でそれらを表示することが出来ます:
+[Bancho](JP:Glossary#Bancho "wikilink") 最新の20のリクエストを表示し、いくつかの方法でそれらを表示することが出来ます:
 
--   `!request` コマンドをチャットで打ち、BanchoBotからPMでランダムに譜面のリンクを貰う。
--   `!request list` をコマンドをチャットで打ち、BanchoBotからPMで最新の5つの譜面のリンクを貰う。
--   [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8)を開き、20の最新のリクエストといくつかの特殊なリクエストを貰う。
+-   !request コマンドをチャットで打ち、BanchoBotからPMでランダムに譜面のリンクを貰う。
+-   !request list をコマンドをチャットで打ち、BanchoBotからPMで最新の5つの譜面のリンクを貰う。
+-   [special map listing](http://osu.ppy.sh/p/beatmaplist&r=8)を開き、20の最新のリクエストといくつかの特殊なリクエストを貰う。
 
 短期間に2つ以上の譜面をリクエストするとBanchoBotはそれを無視します。
 
@@ -31,9 +28,9 @@ Mod4Mod(m4m)は彼らにModをされた時、あなたが他の誰かの譜面(�
 ほかのユーザーに直接頼む
 ------------------------
 
-ほかのユーザーにModを頼むことは非常に正しく有効な手段です。一般ユーザーで多くの[Kudosuを保有していて](/wiki/Glossary)、Modding Queueがない場合、彼らが忙しくなければよくその依頼を受け付けます。あなたの譜面をRankedさせるにはほとんどが[BATに直接頼むことが必要となってきます](/wiki/People/Beatmap_Nomination_Group)。いくつかのヒントを以下に表示します。
+ほかのユーザーにModを頼むことは非常に正しく有効な手段です。一般ユーザーで多くの[Kudosuを保有していて](JP:Kudosu "wikilink")、Modding Queueがない場合、彼らが忙しくなければよくその依頼を受け付けます。あなたの譜面をRankedさせるにはほとんどが[BATに直接頼むことが必要となってきます](JP:Beatmap_Appreciation_Team "wikilink")。いくつかのヒントを以下に表示します。
 
--   シグネチャーもしくは[user pageで](/wiki/Glossary)"リクエストを受け付けていない"と書かれていれば、彼がフレンドでないなら受け付けることはないでしょう。
+-   シグネチャーもしくは[user pageで](JP:User_page "wikilink")"リクエストを受け付けていない"と書かれていれば、彼がフレンドでないなら受け付けることはないでしょう。
 -   普通の会話をしてからリクエストにさり気なく移動させれば、直接頼むよりも遥かにリクエストをしやすくなります。
 -   チャットやフォーラムでしつこくなってはいけません。 人々があなたが嫌いなら、喜んであなたの譜面をModすることはありません。嫌いな人を喜んで助ける人がどこにいるでしょうか？
 

@@ -1,6 +1,3 @@
-How to not Embarrass Yourself in the Modding Queues Subforum
-=============================================================
-
 So osu!forums has this subforum as many know as **[Modding Queues](https://osu.ppy.sh/forum/60)**. It might seem intimidating at first but here are the tips and tricks on **How to not Embarrass Yourself in the Modding Queues Subforum**.
 
 Do NOT Abuse This Subforum

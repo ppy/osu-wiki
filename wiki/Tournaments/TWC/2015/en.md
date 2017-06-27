@@ -3,15 +3,15 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-The **osu! Taiko World Cup 2015** (***TWC 2015***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 5th installment of the osu! Taiko World Cup. It lasts from the 12th January 2015 till 15th March 2015. The previous title holder is **![][flag_JP] Japan**.
+The **osu! Taiko World Cup 2015** (***TWC 2015***) is a country-based Taiko tournament hosted by the [Tournament Management](//osu.ppy.sh/g/26). It is the 5th installment of the osu! Taiko World Cup. It lasts from the 12th January 2015 till 15th March 2015. The previous title holder is **![](/wiki/shared/flag/Jp.gif) Japan**.
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing                                                    | Prize(s)                                  |
 |------------------------------------------------------------|-------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Japan**  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] **France** |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![](/wiki/shared/flag/Jp.gif) **Japan**  |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![](/wiki/shared/flag/Tw.gif) **Taiwan** |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![](/wiki/shared/flag/Fr.gif) **France** |
 
 Tournament schedule
 -------------------
@@ -41,11 +41,11 @@ Organization
 
 | Job                   | Person                                                                                                                                                                                        |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565)  |
-| Map Selector          | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
-| Streamers             | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257) |
-| Commentators          | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347)                                                               |
-| Statistician          | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
+| Tournament Management | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
+| Map Selector          | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
+| Streamers             | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
+| Commentators          | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
+| Statistician          | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -54,54 +54,54 @@ Participants
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_AU] Australia   | **[Slaybelle](https://osu.ppy.sh/u/3084044)**, [dajayeway](https://osu.ppy.sh/u/4841352), [Fideliant](https://osu.ppy.sh/u/2200052), [Pew](https://osu.ppy.sh/u/597692)                                                                                                          |
-| ![][flag_SG] Singapore   | **[taikoplayer123](https://osu.ppy.sh/u/3580055)**, [SilverSufuru](https://osu.ppy.sh/u/3769280), [xKwan](https://osu.ppy.sh/u/403397)                                                                                                                                     |
-| ![][flag_FI] Finland     | **[DarkSylarn](https://osu.ppy.sh/u/4266840)**, [zheep](https://osu.ppy.sh/u/1889827), [Pelaaja_X](https://osu.ppy.sh/u/3543051)                                                                                                                                           |
-| ![][flag_PH] Philippines | **[senkai](https://osu.ppy.sh/u/1150178)**, [Alkaeid](https://osu.ppy.sh/u/567322), [Rumovik](https://osu.ppy.sh/u/3831514), [Primrea](https://osu.ppy.sh/u/943743)                                                                                                              |
-| ![][flag_KR] South Korea | **[bbj0920](https://osu.ppy.sh/u/87546)**, [Runa](https://osu.ppy.sh/u/4643294), [SweetBloodyLove](https://osu.ppy.sh/u/139827), [Lunaris Filia](https://osu.ppy.sh/u/1807472), [L y s](https://osu.ppy.sh/u/211825)                                                                   |
-| ![][flag_TW] Taiwan      | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/u/242910)**, [jordan\_sur](https://osu.ppy.sh/u/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/u/457766), [howar5041](https://osu.ppy.sh/u/584411), [monkeydluffy3u4](https://osu.ppy.sh/u/2277798), [mliencheng](https://osu.ppy.sh/u/586659) |
+| ![](/wiki/shared/flag/Au.gif) Australia   | **[Slaybelle](//osu.ppy.sh/u/3084044)**, [dajayeway](//osu.ppy.sh/u/4841352), [Fideliant](//osu.ppy.sh/u/2200052), [Pew](//osu.ppy.sh/u/597692)                                                                                                          |
+| ![](/wiki/shared/flag/Sg.gif) Singapore   | **[taikoplayer123](//osu.ppy.sh/u/3580055)**, [SilverSufuru](//osu.ppy.sh/u/3769280), [xKwan](//osu.ppy.sh/u/403397)                                                                                                                                     |
+| ![](/wiki/shared/flag/Fi.gif) Finland     | **[DarkSylarn](//osu.ppy.sh/u/4266840)**, [zheep](//osu.ppy.sh/u/1889827), [Pelaaja_X](//osu.ppy.sh/u/3543051)                                                                                                                                           |
+| ![](/wiki/shared/flag/Ph.gif) Philippines | **[senkai](//osu.ppy.sh/u/1150178)**, [Alkaeid](//osu.ppy.sh/u/567322), [Rumovik](//osu.ppy.sh/u/3831514), [Primrea](//osu.ppy.sh/u/943743)                                                                                                              |
+| ![](/wiki/shared/flag/Kr.gif) South Korea | **[bbj0920](//osu.ppy.sh/u/87546)**, [Runa](//osu.ppy.sh/u/4643294), [SweetBloodyLove](//osu.ppy.sh/u/139827), [Lunaris Filia](//osu.ppy.sh/u/1807472), [L y s](//osu.ppy.sh/u/211825)                                                                   |
+| ![](/wiki/shared/flag/Tw.gif) Taiwan      | **[-\[ ix Ishida xi \]-](//osu.ppy.sh/u/242910)**, [jordan\_sur](//osu.ppy.sh/u/2960947), [zx\_baka\_0502442](//osu.ppy.sh/u/457766), [howar5041](//osu.ppy.sh/u/584411), [monkeydluffy3u4](//osu.ppy.sh/u/2277798), [mliencheng](//osu.ppy.sh/u/586659) |
 
 | Country                                | Group B Members                                                                                                                                                                                                              |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_NO] Norway  | **[agu](https://osu.ppy.sh/u/1109122)**, [K i u i](https://osu.ppy.sh/u/1794766), [Yukizo](https://osu.ppy.sh/u/2345079)                                                                                                                       |
-| ![][flag_DK] Denmark | **[Zheant](https://osu.ppy.sh/u/708656)**, [TraxieChan](https://osu.ppy.sh/u/455552), [Broder](https://osu.ppy.sh/u/2507101), [Only1Magma](https://osu.ppy.sh/u/3922957)                                                                             |
-| ![][flag_UA] Ukraine | **[Anny](https://osu.ppy.sh/u/249094)**, [Aka](https://osu.ppy.sh/u/1307553), [gavnono](https://osu.ppy.sh/u/1625581)                                                                                                                          |
-| ![][flag_PL] Poland  | **[Acrith](https://osu.ppy.sh/u/389880)**, [DarkStoorM](https://osu.ppy.sh/u/174347), [Elfie](https://osu.ppy.sh/u/1676016), [Dess1210](https://osu.ppy.sh/u/295855), [Karryu](https://osu.ppy.sh/u/3402967), [-Jamu-](https://osu.ppy.sh/u/2271556)             |
-| ![][flag_DE] Germany | **[Luna](https://osu.ppy.sh/u/588007)**, [Mew104](https://osu.ppy.sh/u/2345156), [tiamus](https://osu.ppy.sh/u/515277), [\[TaikoTori\]](https://osu.ppy.sh/u/1074143), [DarkDunskin](https://osu.ppy.sh/u/98985), [\[TaikoSlaxi\]](https://osu.ppy.sh/u/1365973) |
-| ![][flag_CN] China   | **[yys428](https://osu.ppy.sh/u/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/u/3672537), [Shiki\_nyan](https://osu.ppy.sh/u/345364), [moe moe moe](https://osu.ppy.sh/u/1804904)                                                                 |
+| ![](/wiki/shared/flag/No.gif) Norway  | **[agu](//osu.ppy.sh/u/1109122)**, [K i u i](//osu.ppy.sh/u/1794766), [Yukizo](//osu.ppy.sh/u/2345079)                                                                                                                       |
+| ![](/wiki/shared/flag/Dk.gif) Denmark | **[Zheant](//osu.ppy.sh/u/708656)**, [TraxieChan](//osu.ppy.sh/u/455552), [Broder](//osu.ppy.sh/u/2507101), [Only1Magma](//osu.ppy.sh/u/3922957)                                                                             |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine | **[Anny](//osu.ppy.sh/u/249094)**, [Aka](//osu.ppy.sh/u/1307553), [gavnono](//osu.ppy.sh/u/1625581)                                                                                                                          |
+| ![](/wiki/shared/flag/Pl.gif) Poland  | **[Acrith](//osu.ppy.sh/u/389880)**, [DarkStoorM](//osu.ppy.sh/u/174347), [Elfie](//osu.ppy.sh/u/1676016), [Dess1210](//osu.ppy.sh/u/295855), [Karryu](//osu.ppy.sh/u/3402967), [-Jamu-](//osu.ppy.sh/u/2271556)             |
+| ![](/wiki/shared/flag/De.gif) Germany | **[Luna](//osu.ppy.sh/u/588007)**, [Mew104](//osu.ppy.sh/u/2345156), [tiamus](//osu.ppy.sh/u/515277), [\[TaikoTori\]](//osu.ppy.sh/u/1074143), [DarkDunskin](//osu.ppy.sh/u/98985), [\[TaikoSlaxi\]](//osu.ppy.sh/u/1365973) |
+| ![](/wiki/shared/flag/Cn.gif) China   | **[yys428](//osu.ppy.sh/u/1061175)**, [HimemiyaChikane](//osu.ppy.sh/u/3672537), [Shiki\_nyan](//osu.ppy.sh/u/345364), [moe moe moe](//osu.ppy.sh/u/1804904)                                                                 |
 
 | Country                                  | Group C Members                                                                                                                                                                                                                  |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_IT] Italy     | **[Ikkun](https://osu.ppy.sh/u/1059945)**, [Earine](https://osu.ppy.sh/u/2485549), [Jey](https://osu.ppy.sh/u/2480153), [DuBisk](https://osu.ppy.sh/u/3371035), [Morshu](https://osu.ppy.sh/u/166169), [LinkerWTF](https://osu.ppy.sh/u/1407595)                     |
-| ![][flag_SE] Sweden    | **[Bnyuu](https://osu.ppy.sh/u/2290294)**, [boat](https://osu.ppy.sh/u/276074), [Tanaka](https://osu.ppy.sh/u/1897905), [WilleGO97](https://osu.ppy.sh/u/3880756)                                                                                        |
-| ![][flag_CA] Canada    | **[Tasha](https://osu.ppy.sh/u/1031958)**, [Fudgyking](https://osu.ppy.sh/u/3802922), [janitoreihil](https://osu.ppy.sh/u/3307897), [Wheelcakes](https://osu.ppy.sh/u/3513722), [Ilfri-chan](https://osu.ppy.sh/u/2518210), [IControl](https://osu.ppy.sh/u/2307285) |
-| ![][flag_AR] Argentina | **[Pollotuc](https://osu.ppy.sh/u/42440)**, [Nearex](https://osu.ppy.sh/u/1893238), [cyntuu mirandaa](https://osu.ppy.sh/u/724230)                                                                                                                 |
-| ![][flag_FR] France    | **[Nashmun](https://osu.ppy.sh/u/49031)**, [TimmyAkmed](https://osu.ppy.sh/u/1799973), [Fraolinch](https://osu.ppy.sh/u/205257), [omegaflo](https://osu.ppy.sh/u/83291), [\_Gezo\_](https://osu.ppy.sh/u/481582), [Jinyan](https://osu.ppy.sh/u/669531)              |
-| ![][flag_JP] Japan     | **[sobatsuyu100](https://osu.ppy.sh/u/2076374)**, [tasuke912](https://osu.ppy.sh/u/2774767), [cagalin](https://osu.ppy.sh/u/2586173), [Rydan72261](https://osu.ppy.sh/u/5309575), [coDMo2ooo](https://osu.ppy.sh/u/3644233), [1RoHa\_](https://osu.ppy.sh/u/4632503) |
+| ![](/wiki/shared/flag/It.gif) Italy     | **[Ikkun](//osu.ppy.sh/u/1059945)**, [Earine](//osu.ppy.sh/u/2485549), [Jey](//osu.ppy.sh/u/2480153), [DuBisk](//osu.ppy.sh/u/3371035), [Morshu](//osu.ppy.sh/u/166169), [LinkerWTF](//osu.ppy.sh/u/1407595)                     |
+| ![](/wiki/shared/flag/Se.gif) Sweden    | **[Bnyuu](//osu.ppy.sh/u/2290294)**, [boat](//osu.ppy.sh/u/276074), [Tanaka](//osu.ppy.sh/u/1897905), [WilleGO97](//osu.ppy.sh/u/3880756)                                                                                        |
+| ![](/wiki/shared/flag/Ca.gif) Canada    | **[Tasha](//osu.ppy.sh/u/1031958)**, [Fudgyking](//osu.ppy.sh/u/3802922), [janitoreihil](//osu.ppy.sh/u/3307897), [Wheelcakes](//osu.ppy.sh/u/3513722), [Ilfri-chan](//osu.ppy.sh/u/2518210), [IControl](//osu.ppy.sh/u/2307285) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina | **[Pollotuc](//osu.ppy.sh/u/42440)**, [Nearex](//osu.ppy.sh/u/1893238), [cyntuu mirandaa](//osu.ppy.sh/u/724230)                                                                                                                 |
+| ![](/wiki/shared/flag/Fr.gif) France    | **[Nashmun](//osu.ppy.sh/u/49031)**, [TimmyAkmed](//osu.ppy.sh/u/1799973), [Fraolinch](//osu.ppy.sh/u/205257), [omegaflo](//osu.ppy.sh/u/83291), [\_Gezo\_](//osu.ppy.sh/u/481582), [Jinyan](//osu.ppy.sh/u/669531)              |
+| ![](/wiki/shared/flag/Jp.gif) Japan     | **[sobatsuyu100](//osu.ppy.sh/u/2076374)**, [tasuke912](//osu.ppy.sh/u/2774767), [cagalin](//osu.ppy.sh/u/2586173), [Rydan72261](//osu.ppy.sh/u/5309575), [coDMo2ooo](//osu.ppy.sh/u/3644233), [1RoHa\_](//osu.ppy.sh/u/4632503) |
 
 | Country                                      | Group D Members                                                                                                                                                                                                                        |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_HU] Hungary       | **[\_verto\_](https://osu.ppy.sh/u/2015300)**, [-Arp-](https://osu.ppy.sh/u/3027305), [lussy\_6](https://osu.ppy.sh/u/226128)                                                                                                                            |
-| ![][flag_ID] Indonesia     | **[Lightning Wyvern](https://osu.ppy.sh/u/1533122)**, [\_Destroyer\_](https://osu.ppy.sh/u/3185598), [aika357](https://osu.ppy.sh/u/2488637), [kpokol12](https://osu.ppy.sh/u/3577322), [Niko-nyan](https://osu.ppy.sh/u/906991), [Senritsu](https://osu.ppy.sh/u/1165368) |
-| ![][flag_CL] Chile         | **[-Anhedonia-](https://osu.ppy.sh/u/920861)**, [-[Kuroha]-](https://osu.ppy.sh/u/4193212), [MikuWRS](https://osu.ppy.sh/u/1619547), [Pohm](https://osu.ppy.sh/u/2083934)                                                                                      |
-| ![][flag_ES] Spain         | **[Hanjamon](https://osu.ppy.sh/u/1703330)**, [CARRI](https://osu.ppy.sh/u/854536), [AlexGc96](https://osu.ppy.sh/u/1130179), [MYRKUL](https://osu.ppy.sh/u/255933), [taigoplayers](https://osu.ppy.sh/u/3687287)                                                    |
-| ![][flag_HK] Hong Kong     | **[KanaRin](https://osu.ppy.sh/u/310747)**, [john26148853](https://osu.ppy.sh/u/2930055), [ice man007](https://osu.ppy.sh/u/1926937), [ll-oscar](https://osu.ppy.sh/u/1488736), [aabc271](https://osu.ppy.sh/u/155707), [ztrike](https://osu.ppy.sh/u/2568493)             |
-| ![][flag_US] United States | **[Two Fruit Cakes](https://osu.ppy.sh/u/437259)**, [FLANKs](https://osu.ppy.sh/u/2398168), [OzzyOzrock](https://osu.ppy.sh/u/465153), [Shyguy](https://osu.ppy.sh/u/178038), [Kuro](https://osu.ppy.sh/u/1735031), [goatlife](https://osu.ppy.sh/u/4408784)               |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | **[\_verto\_](//osu.ppy.sh/u/2015300)**, [-Arp-](//osu.ppy.sh/u/3027305), [lussy\_6](//osu.ppy.sh/u/226128)                                                                                                                            |
+| ![](/wiki/shared/flag/Id.gif) Indonesia     | **[Lightning Wyvern](//osu.ppy.sh/u/1533122)**, [\_Destroyer\_](//osu.ppy.sh/u/3185598), [aika357](//osu.ppy.sh/u/2488637), [kpokol12](//osu.ppy.sh/u/3577322), [Niko-nyan](//osu.ppy.sh/u/906991), [Senritsu](//osu.ppy.sh/u/1165368) |
+| ![](/wiki/shared/flag/Cl.gif) Chile         | **[-Anhedonia-](//osu.ppy.sh/u/920861)**, [-[Kuroha]-](//osu.ppy.sh/u/4193212), [MikuWRS](//osu.ppy.sh/u/1619547), [Pohm](//osu.ppy.sh/u/2083934)                                                                                      |
+| ![](/wiki/shared/flag/Es.gif) Spain         | **[Hanjamon](//osu.ppy.sh/u/1703330)**, [CARRI](//osu.ppy.sh/u/854536), [AlexGc96](//osu.ppy.sh/u/1130179), [MYRKUL](//osu.ppy.sh/u/255933), [taigoplayers](//osu.ppy.sh/u/3687287)                                                    |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong     | **[KanaRin](//osu.ppy.sh/u/310747)**, [john26148853](//osu.ppy.sh/u/2930055), [ice man007](//osu.ppy.sh/u/1926937), [ll-oscar](//osu.ppy.sh/u/1488736), [aabc271](//osu.ppy.sh/u/155707), [ztrike](//osu.ppy.sh/u/2568493)             |
+| ![](/wiki/shared/flag/Us.gif) United States | **[Two Fruit Cakes](//osu.ppy.sh/u/437259)**, [FLANKs](//osu.ppy.sh/u/2398168), [OzzyOzrock](//osu.ppy.sh/u/465153), [Shyguy](//osu.ppy.sh/u/178038), [Kuro](//osu.ppy.sh/u/1735031), [goatlife](//osu.ppy.sh/u/4408784)               |
 
 ------------------------------------------------------------------------
 
 Links
 ----------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
--   **[Group Stage Statistics](https://owc.nicarim.pw/results/view/4)**
--   [osu!talk Group Stage Recap](https://www.youtube.com/watch?v=-T9xDo7Y8Fo)
--   [osu!talk Round of 16 Recap](https://www.youtube.com/watch?v=Y8IHcukw9Dw)
--   [osu!talk Quarter Finals Recap](https://www.youtube.com/watch?v=W76U6woLvHA)
--   [osu!talk Semi Finals Recap](https://www.youtube.com/watch?v=ALMrQ0GUmhY)
--   [osu!talk Finals Recap](https://www.youtube.com/watch?v=iTOig6vSS28)
--   **[osu!live on YouTube - Past Broadcasts & osu!talk Recaps here!](https://www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A/videos)**
+-   [Discussion thread](//osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 on Twitch](//www.twitch.tv/osulive/)
+-   **[Group Stage Statistics](//owc.nicarim.pw/results/view/4)**
+-   [osu!talk Group Stage Recap](//www.youtube.com/watch?v=-T9xDo7Y8Fo)
+-   [osu!talk Round of 16 Recap](//www.youtube.com/watch?v=Y8IHcukw9Dw)
+-   [osu!talk Quarter Finals Recap](//www.youtube.com/watch?v=W76U6woLvHA)
+-   [osu!talk Semi Finals Recap](//www.youtube.com/watch?v=ALMrQ0GUmhY)
+-   [osu!talk Finals Recap](//www.youtube.com/watch?v=iTOig6vSS28)
+-   **[osu!live on YouTube - Past Broadcasts & osu!talk Recaps here!](//www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A/videos)**
 
 ------------------------------------------------------------------------
 
@@ -116,153 +116,208 @@ Mappools
 
 **This mappool will be used on Finals Week 1 & Week 2**
 
-**[Download the mappack here!](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
+**[Download the mappack here!](//www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
-- NoMod
-  - [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/b/465192)
-  - [Cornandbeans - Blaze (OnosakiHito) \[Ono's Taiko Oni (2013)\]](https://osu.ppy.sh/b/531999)
-  - [Memme - Acid Burst (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/506186)
-  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Nyan's Oni\]](https://osu.ppy.sh/b/596739)
-  - [LeaF - Exclusive Utopia (Ryui) \[Exclusive Oni\]](https://osu.ppy.sh/b/390966)
-  - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/b/661517)
-- Hidden
-  - [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/b/330848)
-  - [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](https://osu.ppy.sh/b/284037)
-  - [RYO - Shuffle Heaven (Nwolf) \[WereOni\]](https://osu.ppy.sh/b/572587)
-- HardRock
-  - [Hanatan - Kimi no Kiseki (ampzz) \[lepidon! - Oni\]](https://osu.ppy.sh/b/335895)
-  - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/b/427932)
-  - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/b/648184)
-- DoubleTime
-  - [Nightwish - Planet Hell (Sieg) \[Hanjamon's Oni\]](https://osu.ppy.sh/b/438738)
-  - [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/173048)
-  - [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugetsuka (TV Size) (taiko\_maniac1811) \[Inner Oni\]](https://osu.ppy.sh/b/331987)
-- FreeMod
-  - [Feint - Tower Of Heaven (You Are Slaves) (- Kagami Yuki -) \[Kagami's Taiko\]](https://osu.ppy.sh/b/430824)
-  - [Yuyoyuppe - AiAe (Dainesl) \[Inner Oni\]](https://osu.ppy.sh/b/514108)
-  - [Ryu\* - Sakura Mirage (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/665527)
-- Tiebreaker
-  - [DragonForce - Revolution Deathsquad (MMzz) \[Tatsujin\]](https://osu.ppy.sh/b/295715)
+| NoMod                                                                                         |
+|-----------------------------------------------------------------------------------------------|
+| [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](//osu.ppy.sh/b/465192)        |
+| [Cornandbeans - Blaze (OnosakiHito) \[Ono's Taiko Oni (2013)\]](//osu.ppy.sh/b/531999)        |
+| [Memme - Acid Burst (MMzz) \[Inner Oni\]](//osu.ppy.sh/b/506186)                              |
+| [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Nyan's Oni\]](//osu.ppy.sh/b/596739)           |
+| [LeaF - Exclusive Utopia (Ryui) \[Exclusive Oni\]](//osu.ppy.sh/b/390966)                     |
+| [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[Nwolf's Inner Oni\]](//osu.ppy.sh/b/661517) |
+
+| Hidden                                                                  |
+|-------------------------------------------------------------------------|
+| [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](//osu.ppy.sh/b/330848)    |
+| [LeaF - MEPHISTO (Alumetorz) \[TK'S Inner Oni\]](//osu.ppy.sh/b/284037) |
+| [RYO - Shuffle Heaven (Nwolf) \[WereOni\]](//osu.ppy.sh/b/572587)       |
+
+| HardRock                                                                      |
+|-------------------------------------------------------------------------------|
+| [Hanatan - Kimi no Kiseki (ampzz) \[lepidon! - Oni\]](//osu.ppy.sh/b/335895)  |
+| [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](//osu.ppy.sh/b/427932)                   |
+| [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](//osu.ppy.sh/b/648184) |
+
+| DoubleTime                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------|
+| [Nightwish - Planet Hell (Sieg) \[Hanjamon's Oni\]](//osu.ppy.sh/b/438738)                                                       |
+| [Memme - Extreme Fantasy (AngelHoney) \[Taiko Oni\]](//osu.ppy.sh/b/173048)                                                      |
+| [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugetsuka (TV Size) (taiko\_maniac1811) \[Inner Oni\]](//osu.ppy.sh/b/331987) |
+
+| FreeMod                                                                                                |
+|--------------------------------------------------------------------------------------------------------|
+| [Feint - Tower Of Heaven (You Are Slaves) (- Kagami Yuki -) \[Kagami's Taiko\]](//osu.ppy.sh/b/430824) |
+| [Yuyoyuppe - AiAe (Dainesl) \[Inner Oni\]](//osu.ppy.sh/b/514108)                                      |
+| [Ryu\* - Sakura Mirage (TKS) \[Inner Oni\]](//osu.ppy.sh/b/665527)                                     |
+
+| Tiebreaker                                                                       |
+|----------------------------------------------------------------------------------|
+| [DragonForce - Revolution Deathsquad (MMzz) \[Tatsujin\]](//osu.ppy.sh/b/295715) |
 
 ### Semi-finals
 
-**[Download the mappack here!](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
+**[Download the mappack here!](//www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
-- NoMod
-  - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/b/291218)
-  - [Hosoe Shinji - Son of Sun (Extended Mix) (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/b/107217)
-  - [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](https://osu.ppy.sh/b/648835)
-  - [xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/119666)
-  - [Morimori Atsushi - PUPA (Cherry Blossom) \[Ex's Taiko Inner Oni\]](https://osu.ppy.sh/b/524406)
-  - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/170038)
-- Hidden
-  - [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](https://osu.ppy.sh/b/279410)
-  - [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni\]](https://osu.ppy.sh/b/140687)
-  - [t+pazolite - MEGA MEGA CUTiE BREAKiN'!!!!!!!!z (CharuV2) \[kjw's MEGA MEGA TAiKO BREAKiN'!!!!!!!!:3\]](https://osu.ppy.sh/b/316820)
-- HardRock
-  - [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/138519)
-  - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/b/506018)
-  - [Paramore - Anklebiters (Priti) \[Nwolf's Oni\]](https://osu.ppy.sh/b/573664)
-- DoubleTime
-  - [Nightwish - Dead to the World (Xanandra) \[Nwolf's Oni\]](https://osu.ppy.sh/b/442230)
-  - [Halozy - eliminate anthem (Elly-chan) \[MM's Taiko\]](https://osu.ppy.sh/b/116998)
-  - [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/114207)
-- FreeMod
-  - [Memme - BSPower Explosion (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/b/141942)
-  - [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/b/58061)
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/b/297950)
-- Tiebreaker
-  - [Kikuo - Ten Sho Sho Ten Sho (Squigly) \[Donphin Inner Oni\]](https://osu.ppy.sh/b/460595)
+| NoMod                                                                                       |
+|---------------------------------------------------------------------------------------------|
+| [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](//osu.ppy.sh/b/291218)                |
+| [Hosoe Shinji - Son of Sun (Extended Mix) (MoonFragrance) \[Taiko\]](//osu.ppy.sh/b/107217) |
+| [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](//osu.ppy.sh/b/648835)                      |
+| [xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/119666)              |
+| [Morimori Atsushi - PUPA (Cherry Blossom) \[Ex's Taiko Inner Oni\]](//osu.ppy.sh/b/524406)  |
+| [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](//osu.ppy.sh/b/170038)   |
+
+| Hidden                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------|
+| [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](//osu.ppy.sh/b/279410)                                                  |
+| [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni\]](//osu.ppy.sh/b/140687)                                             |
+| [t+pazolite - MEGA MEGA CUTiE BREAKiN'!!!!!!!!z (CharuV2) \[kjw's MEGA MEGA TAiKO BREAKiN'!!!!!!!!:3\]](//osu.ppy.sh/b/316820) |
+
+| HardRock                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|
+| [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/138519) |
+| [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](//osu.ppy.sh/b/506018)                            |
+| [Paramore - Anklebiters (Priti) \[Nwolf's Oni\]](//osu.ppy.sh/b/573664)                                               |
+
+| DoubleTime                                                                        |
+|-----------------------------------------------------------------------------------|
+| [Nightwish - Dead to the World (Xanandra) \[Nwolf's Oni\]](//osu.ppy.sh/b/442230) |
+| [Halozy - eliminate anthem (Elly-chan) \[MM's Taiko\]](//osu.ppy.sh/b/116998)     |
+| [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](//osu.ppy.sh/b/114207)            |
+
+| FreeMod                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------|
+| [Memme - BSPower Explosion (AngelHoney) \[Taiko Oni\]](//osu.ppy.sh/b/141942)                                    |
+| [beatMARIO - Night of Knights (DJPop) \[DONS\]](//osu.ppy.sh/b/58061)                                            |
+| [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](//osu.ppy.sh/b/297950) |
+
+| Tiebreaker                                                                           |
+|--------------------------------------------------------------------------------------|
+| [Kikuo - Ten Sho Sho Ten Sho (Squigly) \[Donphin Inner Oni\]](//osu.ppy.sh/b/460595) |
 
 ### Quarter-finals
 
-**[Download the mappack here!](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
+**[Download the mappack here!](//www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
-- NoMod
-  - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/125530)
-  - [Spriggan - Valkyrie Dimension (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/b/147241)
-  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](https://osu.ppy.sh/b/95812)
-  - [Shounen Radio - neu (Philippines) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/b/224171)
-  - [TJ.Hangneil - Kamui (7odoa) \[TK\]](https://osu.ppy.sh/b/139780)
-  - [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](https://osu.ppy.sh/b/191565)
-- Hidden
-  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/307654)
-  - [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/b/339131)
-  - [nato - Nihilism (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/b/489926)
-- HardRock
-  - [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](https://osu.ppy.sh/b/102527)
-  - [serial TV drama - Tougenkyou Alien (TV Size) (jericho2442) \[Taiko\]](https://osu.ppy.sh/b/94966)
-  - [Sariyajin - Ao no Senritsu (smallboat) \[qoot8123's Inner Oni\]](https://osu.ppy.sh/b/361867)
-- DoubleTime
-  - [Atoguru - Privilege (y u c a) \[Pangko\]](https://osu.ppy.sh/b/138598)
-  - [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/113530)
-  - [iyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[KS's Taiko\]](https://osu.ppy.sh/b/126958)
-- FreeMod
-  - [cranky - Libera me (wmfchris) \[Taiko\]](https://osu.ppy.sh/b/73653)
-  - [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](https://osu.ppy.sh/b/138230)
-  - [Rohi - Kodoku Egoism (NatsumeRin) \[714's Taiko Oni\]](https://osu.ppy.sh/b/196672)
-- Tiebreaker
-  - [Infected Mushroom - Never Mind (SuperMICrophone) \[Nwolf's Infected Oni\]](https://osu.ppy.sh/b/364661)
+| NoMod                                                                                     |
+|-------------------------------------------------------------------------------------------|
+| [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/125530)             |
+| [Spriggan - Valkyrie Dimension (Charles445) \[MM's Taiko\]](//osu.ppy.sh/b/147241)        |
+| [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](//osu.ppy.sh/b/95812) |
+| [Shounen Radio - neu (Philippines) \[Ono's Taiko Inner Oni\]](//osu.ppy.sh/b/224171)      |
+| [TJ.Hangneil - Kamui (7odoa) \[TK\]](//osu.ppy.sh/b/139780)                               |
+| [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](//osu.ppy.sh/b/191565)                    |
+
+| Hidden                                                                                             |
+|----------------------------------------------------------------------------------------------------|
+| [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/307654) |
+| [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](//osu.ppy.sh/b/339131)                                    |
+| [nato - Nihilism (Kagami Yuki) \[Kagami's Taiko\]](//osu.ppy.sh/b/489926)                          |
+
+| HardRock                                                                                     |
+|----------------------------------------------------------------------------------------------|
+| [ParagonX9 - Chaoz Japan (Mustaash) \[Firce777's Hell Oni\]](//osu.ppy.sh/b/102527)          |
+| [serial TV drama - Tougenkyou Alien (TV Size) (jericho2442) \[Taiko\]](//osu.ppy.sh/b/94966) |
+| [Sariyajin - Ao no Senritsu (smallboat) \[qoot8123's Inner Oni\]](//osu.ppy.sh/b/361867)     |
+
+| DoubleTime                                                                                                |
+|-----------------------------------------------------------------------------------------------------------|
+| [Atoguru - Privilege (y u c a) \[Pangko\]](//osu.ppy.sh/b/138598)                                         |
+| [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/113530) |
+| [iyuna - Emukko Kyun Kyun (cRyo\[iceeicee\]) \[KS's Taiko\]](//osu.ppy.sh/b/126958)                       |
+
+| FreeMod                                                                                  |
+|------------------------------------------------------------------------------------------|
+| [cranky - Libera me (wmfchris) \[Taiko\]](//osu.ppy.sh/b/73653)                          |
+| [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](//osu.ppy.sh/b/138230) |
+| [Rohi - Kodoku Egoism (NatsumeRin) \[714's Taiko Oni\]](//osu.ppy.sh/b/196672)           |
+
+| Tiebreaker                                                                                         |
+|----------------------------------------------------------------------------------------------------|
+| [Infected Mushroom - Never Mind (SuperMICrophone) \[Nwolf's Infected Oni\]](//osu.ppy.sh/b/364661) |
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
+**[Download the mappack here!](//www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
-- NoMod
-  - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/b/350721)
-  - [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/b/350403)
-  - [Sagara Kokoro - Hoshizora no Ima (kanpakyin) \[Climbb's Taiko Inner Oni\]](https://osu.ppy.sh/b/170862)
-  - [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](https://osu.ppy.sh/b/249943)
-  - [TeamGrimoire+Amaneko - croiX (HelloSCV) \[714's Oni\]](https://osu.ppy.sh/b/242953)
-  - [DECO\*27 feat. Hatsune Miku - Streaming Heart (Mintong) \[Taiko Inner Oni\]](https://osu.ppy.sh/b/391919)
-- Hidden
-  - [Mitsumune Shinkichi - Battle of Rose (haha5957) \[31's Taiko\]](https://osu.ppy.sh/b/86160)
-  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/b/342847)
-  - [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/b/222740)
-- HardRock
-  - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/b/281675)
-  - [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](https://osu.ppy.sh/b/122433)
-  - [capitaro - Utatabigarasu (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/b/180661)
-- DoubleTime
-  - [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/b/86571)
-  - [Ayane - Acacia no Ki no Shita de (Alace) \[Taiko Oni\]](https://osu.ppy.sh/b/94136)
-  - [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[youngdow&wood's Taiko\]](https://osu.ppy.sh/b/50694)
-- FreeMod
-  - [KIEN - La Grand Bleu (7odoa) \[TK\]](https://osu.ppy.sh/b/152050)
-  - [Memme - Plasma Gun (MMzz) \[Inner Oni\]](https://osu.ppy.sh/b/235096)
-  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/105917)
-- Tiebreaker
-  - [Resonecia - Legende (lolcubes) \[Legendary Oni\]](https://osu.ppy.sh/b/380524)
+| NoMod                                                                                                |
+|------------------------------------------------------------------------------------------------------|
+| [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](//osu.ppy.sh/b/350721)                       |
+| [Memme - China Dress (Love) \[Inner Oni\]](//osu.ppy.sh/b/350403)                                    |
+| [Sagara Kokoro - Hoshizora no Ima (kanpakyin) \[Climbb's Taiko Inner Oni\]](//osu.ppy.sh/b/170862)   |
+| [P\*Light - TRIGGER\*HAPPY (MineC24) \[m1ng's Oni\]](//osu.ppy.sh/b/249943)                          |
+| [TeamGrimoire+Amaneko - croiX (HelloSCV) \[714's Oni\]](//osu.ppy.sh/b/242953)                       |
+| [DECO\*27 feat. Hatsune Miku - Streaming Heart (Mintong) \[Taiko Inner Oni\]](//osu.ppy.sh/b/391919) |
+
+| Hidden                                                                                                   |
+|----------------------------------------------------------------------------------------------------------|
+| [Mitsumune Shinkichi - Battle of Rose (haha5957) \[31's Taiko\]](//osu.ppy.sh/b/86160)                   |
+| [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](//osu.ppy.sh/b/342847) |
+| [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](//osu.ppy.sh/b/222740)                     |
+
+| HardRock                                                                              |
+|---------------------------------------------------------------------------------------|
+| [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](//osu.ppy.sh/b/281675)               |
+| [Adraen + Renard - Punk Anthem Track (Aleks719) \[Taiko Oni\]](//osu.ppy.sh/b/122433) |
+| [capitaro - Utatabigarasu (NatsumeRin) \[Taiko Oni\]](//osu.ppy.sh/b/180661)          |
+
+| DoubleTime                                                                                                 |
+|------------------------------------------------------------------------------------------------------------|
+| [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](//osu.ppy.sh/b/86571) |
+| [Ayane - Acacia no Ki no Shita de (Alace) \[Taiko Oni\]](//osu.ppy.sh/b/94136)                             |
+| [fripSide - LEVEL5 -judgelight- (Full Ver.) (cyborg) \[youngdow&wood's Taiko\]](//osu.ppy.sh/b/50694)      |
+
+| FreeMod                                                                                     |
+|---------------------------------------------------------------------------------------------|
+| [KIEN - La Grand Bleu (7odoa) \[TK\]](//osu.ppy.sh/b/152050)                                |
+| [Memme - Plasma Gun (MMzz) \[Inner Oni\]](//osu.ppy.sh/b/235096)                            |
+| [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](//osu.ppy.sh/b/105917) |
+
+| Tiebreaker                                                                |
+|---------------------------------------------------------------------------|
+| [Resonecia - Legende (lolcubes) \[Legendary Oni\]](//osu.ppy.sh/b/380524) |
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
+**[Download the mappack here!](//www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
-- NoMod
-  - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/b/549277)
-  - [kors k feat.Yoshikawa Sunao - 7 Colors (sionKotori) \[Naryuga's Taiko Oni\]](https://osu.ppy.sh/b/369597)
-  - [Shihori - Day Breaker (Frostmourne) \[Ono's Taiko Oni\]](https://osu.ppy.sh/b/265290)
-  - [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN \[Love's Inner Oni\]](https://osu.ppy.sh/b/430847)
-  - [Nomizu Iori - Black + White (TV Size) (Makyu) \[0gre's Oni\]](https://osu.ppy.sh/b/222729)
-  - [Dj Mashiro - Prismatic Lollipops (victorica\_db) \[Kagami's Oni\]](https://osu.ppy.sh/b/355581)
-- Hidden
-  - [Nekomata Master+ - squall (wa\_) \[TK'S Oni\]](https://osu.ppy.sh/b/245958)
-  - [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/b/281558)
-  - [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/b/217519)
-- HardRock
-  - [Hashimoto Miyuki - Yume miru mama ni Koi wo shite (S i R i R u) \[31's Taiko\]](https://osu.ppy.sh/b/102998)
-  - [Ellie Goulding - Burn (Nashmun) \[Oni\]](https://osu.ppy.sh/b/351271)
-  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (RLC) \[714's Taiko Oni\]](https://osu.ppy.sh/b/229760)
-- DoubleTime
-  - [senya - Yozakura ni Kimi o Kakushite (Dainesl) \[Oni\]](https://osu.ppy.sh/b/477127)
-  - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/b/139607)
-  - [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/b/68793)
-- FreeMod
-  - [Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte) \[Oni\]](https://osu.ppy.sh/b/433541)
-  - [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/b/121335)
-  - [ryo (supercell) - ODDS&ENDS (Short Ver.) (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/b/179536)
-- Tiebreaker
-  - [EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/b/75296)
+| NoMod                                                                                                |
+|------------------------------------------------------------------------------------------------------|
+| [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](//osu.ppy.sh/b/549277)           |
+| [kors k feat.Yoshikawa Sunao - 7 Colors (sionKotori) \[Naryuga's Taiko Oni\]](//osu.ppy.sh/b/369597) |
+| [Shihori - Day Breaker (Frostmourne) \[Ono's Taiko Oni\]](//osu.ppy.sh/b/265290)                     |
+| [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN \[Love's Inner Oni\]](//osu.ppy.sh/b/430847)       |
+| [Nomizu Iori - Black + White (TV Size) (Makyu) \[0gre's Oni\]](//osu.ppy.sh/b/222729)                |
+| [Dj Mashiro - Prismatic Lollipops (victorica\_db) \[Kagami's Oni\]](//osu.ppy.sh/b/355581)           |
+
+| Hidden                                                                            |
+|-----------------------------------------------------------------------------------|
+| [Nekomata Master+ - squall (wa\_) \[TK'S Oni\]](//osu.ppy.sh/b/245958)            |
+| [Ryu\* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](//osu.ppy.sh/b/281558) |
+| [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](//osu.ppy.sh/b/217519)       |
+
+| HardRock                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------|
+| [Hashimoto Miyuki - Yume miru mama ni Koi wo shite (S i R i R u) \[31's Taiko\]](//osu.ppy.sh/b/102998)     |
+| [Ellie Goulding - Burn (Nashmun) \[Oni\]](//osu.ppy.sh/b/351271)                                            |
+| [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (RLC) \[714's Taiko Oni\]](//osu.ppy.sh/b/229760) |
+
+| DoubleTime                                                                                                 |
+|------------------------------------------------------------------------------------------------------------|
+| [senya - Yozakura ni Kimi o Kakushite (Dainesl) \[Oni\]](//osu.ppy.sh/b/477127)                            |
+| [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](//osu.ppy.sh/b/139607)                  |
+| [ave;new feat. Sakura Saori - True My Heart (Suzuka Asahina) \[Climbb's Taiko Oni\]](//osu.ppy.sh/b/68793) |
+
+| FreeMod                                                                                                |
+|--------------------------------------------------------------------------------------------------------|
+| [Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte) \[Oni\]](//osu.ppy.sh/b/433541) |
+| [cranky - R176 (taka1235) \[Pangko\]](//osu.ppy.sh/b/121335)                                           |
+| [ryo (supercell) - ODDS&ENDS (Short Ver.) (mintong89) \[Taiko Oni\]](//osu.ppy.sh/b/179536)            |
+
+| Tiebreaker                                                                            |
+|---------------------------------------------------------------------------------------|
+| [EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/b/75296) |
 
 ------------------------------------------------------------------------
 
@@ -275,7 +330,7 @@ Match Results
 
 | Team A                                   | Score     | Team B                                | History                        |
 |:-----------------------------------------|:---------:|--------------------------------------:|--------------------------------|
-| ![][flag_JP] **Japan** | **6** - 3 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/mp/15407376) |
+| ![](/wiki/shared/flag/Jp.gif) **Japan** | **6** - 3 | Taiwan ![](/wiki/shared/flag/Tw.gif) | [#1](//osu.ppy.sh/mp/15407376) |
 
 ### Finals - Week 1
 
@@ -283,17 +338,17 @@ Match Results
 
 | Team A                                     | Score     | Team B                                       | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
-| ![][flag_TW] **Taiwan**  | **6** - 4 | United States ![][flag_US] | [#1](https://osu.ppy.sh/mp/15204870) |
-| ![][flag_KR] South Korea | 0 - **6** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/mp/15206617) |
-| ![][flag_JP] Japan       | **6** - 2 | France ![][flag_FR]        | [#1](https://osu.ppy.sh/mp/15210189) |
-| ![][flag_FR] France      | 1 - **6** | **Taiwan** ![][flag_TW]    | [#1](https://osu.ppy.sh/mp/15239715) |
+| ![](/wiki/shared/flag/Tw.gif) **Taiwan**  | **6** - 4 | United States ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/15204870) |
+| ![](/wiki/shared/flag/Kr.gif) South Korea | 0 - **6** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif) | [#1](//osu.ppy.sh/mp/15206617) |
+| ![](/wiki/shared/flag/Jp.gif) Japan       | **6** - 2 | France ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/15210189) |
+| ![](/wiki/shared/flag/Fr.gif) France      | 1 - **6** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)    | [#1](//osu.ppy.sh/mp/15239715) |
 
 
 **Sunday, 5. April 2015**
 
 | Team A                                    | Score     | Team B                                   | History                        |
 |:------------------------------------------|:---------:|-----------------------------------------:|--------------------------------|
-| ![][flag_TW] **Taiwan** | **6** - 0 | Hong Kong ![][flag_HK] | [#1](https://osu.ppy.sh/mp/15233261) |
+| ![](/wiki/shared/flag/Tw.gif) **Taiwan** | **6** - 0 | Hong Kong ![](/wiki/shared/flag/Hk.gif) | [#1](//osu.ppy.sh/mp/15233261) |
 
 ### Semi-finals
 
@@ -301,19 +356,19 @@ Match Results
 
 | Team A                                    | Score     | Team B                                           | History                        |
 |:------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_PL] Poland     | 1 - **6** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/mp/15037749) |
-| ![][flag_AR] Argentina  | 2 - **6** | **China** ![][flag_CN]         | [#1](https://osu.ppy.sh/mp/15040695) |
-| ![][flag_CA] **Canada** | **6** - 4 | Germany ![][flag_DE]           | [#1](https://osu.ppy.sh/mp/15044042) |
-| ![][flag_FI] Finland    | 1 - **6** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/mp/15047132) |
+| ![](/wiki/shared/flag/Pl.gif) Poland     | 1 - **6** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | [#1](//osu.ppy.sh/mp/15037749) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina  | 2 - **6** | **China** ![](/wiki/shared/flag/Cn.gif)         | [#1](//osu.ppy.sh/mp/15040695) |
+| ![](/wiki/shared/flag/Ca.gif) **Canada** | **6** - 4 | Germany ![](/wiki/shared/flag/De.gif)           | [#1](//osu.ppy.sh/mp/15044042) |
+| ![](/wiki/shared/flag/Fi.gif) Finland    | 1 - **6** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/15047132) |
 
 **Sunday, 29. March 2015**
 
 | Team A                                     | Score     | Team B                                           | History                        |
 |:-------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_CA] Canada      | 2 - **6** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/mp/15060059) |
-| ![][flag_CN] China       | 4 - **6** | **United States** ![][flag_US] | [#1](/osu.ppy.sh/mp/15062240)  |
-| ![][flag_JP] **Japan**   | **6** - 3 | Taiwan ![][flag_TW]            | [#1](https://osu.ppy.sh/mp/15063686) |
-| ![][flag_KR] South Korea | 0 - **6** | **France** ![][flag_FR]        | [#1](/osu.ppy.sh/mp/15065321)  |
+| ![](/wiki/shared/flag/Ca.gif) Canada      | 2 - **6** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | [#1](//osu.ppy.sh/mp/15060059) |
+| ![](/wiki/shared/flag/Cn.gif) China       | 4 - **6** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](/osu.ppy.sh/mp/15062240)  |
+| ![](/wiki/shared/flag/Jp.gif) **Japan**   | **6** - 3 | Taiwan ![](/wiki/shared/flag/Tw.gif)            | [#1](//osu.ppy.sh/mp/15063686) |
+| ![](/wiki/shared/flag/Kr.gif) South Korea | 0 - **6** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](/osu.ppy.sh/mp/15065321)  |
 
 ### Quarter-finals
 
@@ -321,19 +376,19 @@ Match Results
 
 | Team A                                     | Score     | Team B                                       | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
-| ![][flag_FI] **Finland** | **5** - 0 | Ukraine ![][flag_UA]       | - Win by default -             |
-| ![][flag_PH] Philippines | 0 - **5** | **Poland** ![][flag_PL]    | [#1](https://osu.ppy.sh/mp/14871909) |
-| ![][flag_ES] Spain       | 1 - **5** | **Argentina** ![][flag_AR] | [#1](https://osu.ppy.sh/mp/14876376) |
-| ![][flag_ID] Indonesia   | 0 - **5** | **Canada** ![][flag_CA]    | [#1](https://osu.ppy.sh/mp/14878188) |
+| ![](/wiki/shared/flag/Fi.gif) **Finland** | **5** - 0 | Ukraine ![](/wiki/shared/flag/Ua.gif)       | - Win by default -             |
+| ![](/wiki/shared/flag/Ph.gif) Philippines | 0 - **5** | **Poland** ![](/wiki/shared/flag/Pl.gif)    | [#1](//osu.ppy.sh/mp/14871909) |
+| ![](/wiki/shared/flag/Es.gif) Spain       | 1 - **5** | **Argentina** ![](/wiki/shared/flag/Ar.gif) | [#1](//osu.ppy.sh/mp/14876376) |
+| ![](/wiki/shared/flag/Id.gif) Indonesia   | 0 - **5** | **Canada** ![](/wiki/shared/flag/Ca.gif)    | [#1](//osu.ppy.sh/mp/14878188) |
 
 **Sunday, 22. March 2015**
 
 | Team A                                         | Score     | Team B                                    | History                        |
 |:-----------------------------------------------|:---------:|------------------------------------------:|--------------------------------|
-| ![][flag_HK] Hong Kong       | 2 - **5** | **Japan** ![][flag_JP]  | [#1](https://osu.ppy.sh/mp/14901856) |
-| ![][flag_KR] **South Korea** | **5** - 1 | China ![][flag_CN]      | [#1](https://osu.ppy.sh/mp/14903787) |
-| ![][flag_TW] **Taiwan**      | **5** - 2 | Germany ![][flag_DE]    | [#1](https://osu.ppy.sh/mp/14906461) |
-| ![][flag_US] United States   | 4 - **5** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/mp/14909642) |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong       | 2 - **5** | **Japan** ![](/wiki/shared/flag/Jp.gif)  | [#1](//osu.ppy.sh/mp/14901856) |
+| ![](/wiki/shared/flag/Kr.gif) **South Korea** | **5** - 1 | China ![](/wiki/shared/flag/Cn.gif)      | [#1](//osu.ppy.sh/mp/14903787) |
+| ![](/wiki/shared/flag/Tw.gif) **Taiwan**      | **5** - 2 | Germany ![](/wiki/shared/flag/De.gif)    | [#1](//osu.ppy.sh/mp/14906461) |
+| ![](/wiki/shared/flag/Us.gif) United States   | 4 - **5** | **France** ![](/wiki/shared/flag/Fr.gif) | [#1](//osu.ppy.sh/mp/14909642) |
 
 ### Round of 16
 
@@ -341,19 +396,19 @@ Match Results
 
 | Team A                                     | Score     | Team B                                             | History                        |
 |:-------------------------------------------|:---------:|---------------------------------------------------:|--------------------------------|
-| ![][flag_FI] Finland     | 1 - **5** | **Hong Kong** ![Hk.gif][flag_HK] | [#1](https://osu.ppy.sh/mp/14707422) |
-| ![][flag_UA] Ukraine     | 0 - **5** | **Japan** ![Jp.gif][flag_JP]     | [#1](https://osu.ppy.sh/mp/14708468) |
-| ![][flag_TW] **Taiwan**  | **5** - 0 | Spain ![Es.gif][flag_ES]         | [#1](https://osu.ppy.sh/mp/14709773) |
-| ![][flag_DE] **Germany** | **5** - 1 | Argentina ![Ar.gif][flag_AR]     | [#1](https://osu.ppy.sh/mp/14711069) |
-| ![][flag_FR] **France**  | **5** - 0 | Poland ![Pl.gif][flag_PL]        | [#1](https://osu.ppy.sh/mp/14712960) |
+| ![](/wiki/shared/flag/Fi.gif) Finland     | 1 - **5** | **Hong Kong** ![Hk.gif](/wiki/shared/flag/Hk.gif) | [#1](//osu.ppy.sh/mp/14707422) |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine     | 0 - **5** | **Japan** ![Jp.gif](/wiki/shared/flag/Jp.gif)     | [#1](//osu.ppy.sh/mp/14708468) |
+| ![](/wiki/shared/flag/Tw.gif) **Taiwan**  | **5** - 0 | Spain ![Es.gif](/wiki/shared/flag/Es.gif)         | [#1](//osu.ppy.sh/mp/14709773) |
+| ![](/wiki/shared/flag/De.gif) **Germany** | **5** - 1 | Argentina ![Ar.gif](/wiki/shared/flag/Ar.gif)     | [#1](//osu.ppy.sh/mp/14711069) |
+| ![](/wiki/shared/flag/Fr.gif) **France**  | **5** - 0 | Poland ![Pl.gif](/wiki/shared/flag/Pl.gif)        | [#1](//osu.ppy.sh/mp/14712960) |
 
 **Sunday, 15. March 2015**
 
 | Team A                                           | Score     | Team B                                         | History                        |
 |:-------------------------------------------------|:---------:|-----------------------------------------------:|--------------------------------|
-| ![][flag_CA] Canada            | 3 - **5** | **China** ![][flag_CN]       | [#1](https://osu.ppy.sh/mp/14731480) |
-| ![][flag_US] **United States** | **5** - 0 | Philippines ![][flag_PH]     | [#1](https://osu.ppy.sh/mp/14732731) |
-| ![][flag_ID] Indonesia         | 2 - **5** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/mp/14733838) |
+| ![](/wiki/shared/flag/Ca.gif) Canada            | 3 - **5** | **China** ![](/wiki/shared/flag/Cn.gif)       | [#1](//osu.ppy.sh/mp/14731480) |
+| ![](/wiki/shared/flag/Us.gif) **United States** | **5** - 0 | Philippines ![](/wiki/shared/flag/Ph.gif)     | [#1](//osu.ppy.sh/mp/14732731) |
+| ![](/wiki/shared/flag/Id.gif) Indonesia         | 2 - **5** | **South Korea** ![](/wiki/shared/flag/Kr.gif) | [#1](//osu.ppy.sh/mp/14733838) |
 
 ### Group Stage
 
@@ -361,71 +416,71 @@ Match Results
 
 | Team A                                       | Score     | Team B                                           | History                        |
 |:---------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_AU] Australia     | 2 - **4** | **South Korea** ![][flag_KR]   | [#1](https://osu.ppy.sh/mp/14545441) |
-| ![][flag_SG] Singapore     | 0 - **4** | **Philippines** ![][flag_PH]   | - Win by default -             |
-| ![][flag_ID] Indonesia     | 1 - **4** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/mp/14545446) |
-| ![][flag_SG] Singapore     | 0 - **4** | **Finland** ![][flag_FI]       | - Win by default -             |
-| ![][flag_UA] Ukraine       | 2 - **4** | China ![][flag_CN]             | [#1](https://osu.ppy.sh/mp/14546205) |
-| ![][flag_KR] South Korea   | 1 - **4** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/mp/14546208) |
-| ![][flag_AU] Australia     | 0 - **4** | **Philippines** ![][flag_PH]   | [#1](https://osu.ppy.sh/mp/14546210) |
-| ![][flag_DE] Germany       | 1 - **4** | **China** ![][flag_CN]         | [#1](https://osu.ppy.sh/mp/14547310) |
-| ![][flag_FI] Finland       | 0 - **4** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/mp/14547314) |
-| ![][flag_IT] Italy         | 0 - **4** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/mp/14547317) |
-| ![][flag_HU] Hungary       | 0 - **4** | **Indonesia** ![][flag_ID]     | - Win by default -             |
-| ![][flag_ES] Spain         | 1 - **4** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/mp/14547324) |
-| ![][flag_NO] Norway        | 3 - **4** | Ukraine ![][flag_UA]           | [#1](https://osu.ppy.sh/mp/14548494) |
-| ![][flag_SG] Singapore     | 0 - **4** | **South Korea** ![][flag_KR]   | - Win by default -             |
-| ![][flag_ID] **Indonesia** | **4** - 2 | Spain ![][flag_ES]             | [#1](https://osu.ppy.sh/mp/14548501) |
-| ![][flag_SE] Sweden        | 0 - **4** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/mp/14548506) |
-| ![][flag_HU] Hungary       | 0 - **4** | **Hong Kong** ![][flag_HK]     | - Win by default -             |
-| ![][flag_CL] Chile         | 0 - **4** | **Spain** ![][flag_ES]         | [#1](https://osu.ppy.sh/mp/14558945) |
-| ![][flag_NO] Norway        | 0 - **4** | **Germany** ![][flag_DE]       | [#1](https://osu.ppy.sh/mp/14559005) |
-| ![][flag_IT] Italy         | 0 - **4** | **Argentina** ![][flag_AR]     | [#1](https://osu.ppy.sh/mp/14559011) |
-| ![][flag_DK] Denmark       | 0 - **4** | **Poland** ![][flag_PL]        | [#1](https://osu.ppy.sh/mp/14559024) |
-| ![][flag_SE] Sweden        | 0 - **4** | **Canada** ![][flag_CA]        | [#1](https://osu.ppy.sh/mp/14559030) |
-| ![][flag_CL] Chile         | 0 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/mp/14560666) |
-| ![][flag_CA] Canada        | 1 - **4** | **Argentina** ![][flag_AR]     | [#1](https://osu.ppy.sh/mp/14560675) |
-| ![][flag_IT] Italy         | 0 - **4** | **France** ![][flag_FR]        | [#1](https://osu.ppy.sh/mp/14560678) |
-| ![][flag_DK] Denmark       | 1 - **4** | **Germany** ![][flag_DE]       | [#1](https://osu.ppy.sh/mp/14560685) |
-| ![][flag_ES] Spain         | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/mp/14563829) |
-| ![][flag_IT] Italy         | 0 - **4** | **Canada** ![][flag_CA]        | [#1](https://osu.ppy.sh/mp/14563841) |
-| ![][flag_SE] Sweden        | 0 - **4** | **Argentina** ![][flag_AR]     | - Win by default -             |
-| ![][flag_CA] Canada        | 0 - **4** | **France** ![][flag_FR]        | [#1](https://osu.ppy.sh/mp/14565653) |
-| ![][flag_HU] Hungary       | 0 - **4** | **United States** ![][flag_US] | - Win by default -             |
+| ![](/wiki/shared/flag/Au.gif) Australia     | 2 - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)   | [#1](//osu.ppy.sh/mp/14545441) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore     | 0 - **4** | **Philippines** ![](/wiki/shared/flag/Ph.gif)   | - Win by default -             |
+| ![](/wiki/shared/flag/Id.gif) Indonesia     | 1 - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | [#1](//osu.ppy.sh/mp/14545446) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore     | 0 - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)       | - Win by default -             |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine       | 2 - **4** | China ![](/wiki/shared/flag/Cn.gif)             | [#1](//osu.ppy.sh/mp/14546205) |
+| ![](/wiki/shared/flag/Kr.gif) South Korea   | 1 - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)        | [#1](//osu.ppy.sh/mp/14546208) |
+| ![](/wiki/shared/flag/Au.gif) Australia     | 0 - **4** | **Philippines** ![](/wiki/shared/flag/Ph.gif)   | [#1](//osu.ppy.sh/mp/14546210) |
+| ![](/wiki/shared/flag/De.gif) Germany       | 1 - **4** | **China** ![](/wiki/shared/flag/Cn.gif)         | [#1](//osu.ppy.sh/mp/14547310) |
+| ![](/wiki/shared/flag/Fi.gif) Finland       | 0 - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)        | [#1](//osu.ppy.sh/mp/14547314) |
+| ![](/wiki/shared/flag/It.gif) Italy         | 0 - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)         | [#1](//osu.ppy.sh/mp/14547317) |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **Indonesia** ![](/wiki/shared/flag/Id.gif)     | - Win by default -             |
+| ![](/wiki/shared/flag/Es.gif) Spain         | 1 - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | [#1](//osu.ppy.sh/mp/14547324) |
+| ![](/wiki/shared/flag/No.gif) Norway        | 3 - **4** | Ukraine ![](/wiki/shared/flag/Ua.gif)           | [#1](//osu.ppy.sh/mp/14548494) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore     | 0 - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)   | - Win by default -             |
+| ![](/wiki/shared/flag/Id.gif) **Indonesia** | **4** - 2 | Spain ![](/wiki/shared/flag/Es.gif)             | [#1](//osu.ppy.sh/mp/14548501) |
+| ![](/wiki/shared/flag/Se.gif) Sweden        | 0 - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)         | [#1](//osu.ppy.sh/mp/14548506) |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | - Win by default -             |
+| ![](/wiki/shared/flag/Cl.gif) Chile         | 0 - **4** | **Spain** ![](/wiki/shared/flag/Es.gif)         | [#1](//osu.ppy.sh/mp/14558945) |
+| ![](/wiki/shared/flag/No.gif) Norway        | 0 - **4** | **Germany** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/14559005) |
+| ![](/wiki/shared/flag/It.gif) Italy         | 0 - **4** | **Argentina** ![](/wiki/shared/flag/Ar.gif)     | [#1](//osu.ppy.sh/mp/14559011) |
+| ![](/wiki/shared/flag/Dk.gif) Denmark       | 0 - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)        | [#1](//osu.ppy.sh/mp/14559024) |
+| ![](/wiki/shared/flag/Se.gif) Sweden        | 0 - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)        | [#1](//osu.ppy.sh/mp/14559030) |
+| ![](/wiki/shared/flag/Cl.gif) Chile         | 0 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/14560666) |
+| ![](/wiki/shared/flag/Ca.gif) Canada        | 1 - **4** | **Argentina** ![](/wiki/shared/flag/Ar.gif)     | [#1](//osu.ppy.sh/mp/14560675) |
+| ![](/wiki/shared/flag/It.gif) Italy         | 0 - **4** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/14560678) |
+| ![](/wiki/shared/flag/Dk.gif) Denmark       | 1 - **4** | **Germany** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/14560685) |
+| ![](/wiki/shared/flag/Es.gif) Spain         | 1 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/14563829) |
+| ![](/wiki/shared/flag/It.gif) Italy         | 0 - **4** | **Canada** ![](/wiki/shared/flag/Ca.gif)        | [#1](//osu.ppy.sh/mp/14563841) |
+| ![](/wiki/shared/flag/Se.gif) Sweden        | 0 - **4** | **Argentina** ![](/wiki/shared/flag/Ar.gif)     | - Win by default -             |
+| ![](/wiki/shared/flag/Ca.gif) Canada        | 0 - **4** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/14565653) |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | - Win by default -             |
 
 **Sunday, 8. March 2015**
 
 | Team A                                       | Score     | Team B                                           | History                        |
 |:---------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
-| ![][flag_ID] Indonesia     | 0 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/mp/14569915) |
-| ![][flag_AR] Argentina     | 0 - **4** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/mp/14569921) |
-| ![][flag_CL] Chile         | 0 - **4** | **Hong Kong** ![][flag_HK]     | [#1](https://osu.ppy.sh/mp/14569922) |
-| ![][flag_HK] Hong Kong     | 2 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/mp/14571275) |
-| ![][flag_CA] Canada        | 1 - **4** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/mp/14571278) |
-| ![][flag_ID] **Indonesia** | **4** - 2 | Chile ![][flag_CL]             | [#1](https://osu.ppy.sh/mp/14571285) |
-| ![][flag_AU] Australia     | 2 - **4** | **Singapore** ![][flag_SG]     | [#1](https://osu.ppy.sh/mp/14571288) |
-| ![][flag_AU] Australia     | 0 - **4** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/mp/14578652) |
-| ![][flag_PH] Philippines   | 0 - **4** | **South Korea** ![][flag_KR]   | - Win by default -             |
-| ![][flag_AU] Australia     | 1 - **4** | **Finland** ![][flag_FI]       | [#1](https://osu.ppy.sh/mp/14579505) |
-| ![][flag_PL] Poland        | 3 - **4** | **China** ![][flag_CN]         | [#1](https://osu.ppy.sh/mp/14579508) |
-| ![][flag_FR] France        | 1 - **4** | **Japan** ![][flag_JP]         | [#1](https://osu.ppy.sh/mp/14579513) |
-| ![][flag_SG] Singapore     | 0 - **4** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/mp/14579517) |
-| ![][flag_FI] Finland       | 0 - **4** | **South Korea** ![][flag_KR]   | [#1](https://osu.ppy.sh/mp/14580453) |
-| ![][flag_NO] Norway        | 0 - **4** | **Poland** ![][flag_PL]        | - Win by default -             |
-| ![][flag_DK] Denmark       | 0 - **4** | **China** ![][flag_CN]         | [#1](https://osu.ppy.sh/mp/14580459) |
-| ![][flag_UA] Ukraine       | 1 - **4** | **Germany** ![][flag_DE]       | [#1](https://osu.ppy.sh/mp/14580461) |
-| ![][flag_PH] Philippines   | 0 - **4** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/mp/14581346) |
-| ![][flag_HU] Hungary       | 0 - **4** | **Spain** ![][flag_ES]         | - Win by default -             |
-| ![][flag_IT] **Italy**     | **4** - 0 | Sweden ![][flag_SE]            | [#1](https://osu.ppy.sh/mp/14581351) |
-| ![][flag_NO] Norway        | 0 - **4** | **Denmark** ![][flag_DK]       | - Win by default -             |
-| ![][flag_FI] **Finland**   | **4** - 0 | Philippines ![][flag_PH]       | [#1](https://osu.ppy.sh/mp/14582413) |
-| ![][flag_DK] Denmark       | 0 - **4** | **Ukraine** ![][flag_UA]       | [#1](https://osu.ppy.sh/mp/14582415) |
-| ![][flag_SE] Sweden        | 0 - **4** | **France** ![][flag_FR]        | [#1](https://osu.ppy.sh/mp/14582418) |
-| ![][flag_PL] Poland        | 1 - **4** | **Germany** ![][flag_DE]       | [#1](https://osu.ppy.sh/mp/14582420) |
-| ![][flag_NO] Norway        | 1 - **4** | **China** ![][flag_CN]         | [#1](https://osu.ppy.sh/mp/14584962) |
-| ![][flag_UA] Ukraine       | 1 - **4** | **Poland** ![][flag_PL]        | [#1](https://osu.ppy.sh/mp/14584969) |
-| ![][flag_AR] Argentina     | 1 - **4** | **France** ![][flag_FR]        | [#1](https://osu.ppy.sh/mp/14584970) |
-| ![][flag_HU] Hungary       | 0 - **4** | **Chile** ![][flag_CL]         | [#1](https://osu.ppy.sh/mp/14584973) |
+| ![](/wiki/shared/flag/Id.gif) Indonesia     | 0 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/14569915) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina     | 0 - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)         | [#1](//osu.ppy.sh/mp/14569921) |
+| ![](/wiki/shared/flag/Cl.gif) Chile         | 0 - **4** | **Hong Kong** ![](/wiki/shared/flag/Hk.gif)     | [#1](//osu.ppy.sh/mp/14569922) |
+| ![](/wiki/shared/flag/Hk.gif) Hong Kong     | 2 - **4** | **United States** ![](/wiki/shared/flag/Us.gif) | [#1](//osu.ppy.sh/mp/14571275) |
+| ![](/wiki/shared/flag/Ca.gif) Canada        | 1 - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)         | [#1](//osu.ppy.sh/mp/14571278) |
+| ![](/wiki/shared/flag/Id.gif) **Indonesia** | **4** - 2 | Chile ![](/wiki/shared/flag/Cl.gif)             | [#1](//osu.ppy.sh/mp/14571285) |
+| ![](/wiki/shared/flag/Au.gif) Australia     | 2 - **4** | **Singapore** ![](/wiki/shared/flag/Sg.gif)     | [#1](//osu.ppy.sh/mp/14571288) |
+| ![](/wiki/shared/flag/Au.gif) Australia     | 0 - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)        | [#1](//osu.ppy.sh/mp/14578652) |
+| ![](/wiki/shared/flag/Ph.gif) Philippines   | 0 - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)   | - Win by default -             |
+| ![](/wiki/shared/flag/Au.gif) Australia     | 1 - **4** | **Finland** ![](/wiki/shared/flag/Fi.gif)       | [#1](//osu.ppy.sh/mp/14579505) |
+| ![](/wiki/shared/flag/Pl.gif) Poland        | 3 - **4** | **China** ![](/wiki/shared/flag/Cn.gif)         | [#1](//osu.ppy.sh/mp/14579508) |
+| ![](/wiki/shared/flag/Fr.gif) France        | 1 - **4** | **Japan** ![](/wiki/shared/flag/Jp.gif)         | [#1](//osu.ppy.sh/mp/14579513) |
+| ![](/wiki/shared/flag/Sg.gif) Singapore     | 0 - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)        | [#1](//osu.ppy.sh/mp/14579517) |
+| ![](/wiki/shared/flag/Fi.gif) Finland       | 0 - **4** | **South Korea** ![](/wiki/shared/flag/Kr.gif)   | [#1](//osu.ppy.sh/mp/14580453) |
+| ![](/wiki/shared/flag/No.gif) Norway        | 0 - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)        | - Win by default -             |
+| ![](/wiki/shared/flag/Dk.gif) Denmark       | 0 - **4** | **China** ![](/wiki/shared/flag/Cn.gif)         | [#1](//osu.ppy.sh/mp/14580459) |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine       | 1 - **4** | **Germany** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/14580461) |
+| ![](/wiki/shared/flag/Ph.gif) Philippines   | 0 - **4** | **Taiwan** ![](/wiki/shared/flag/Tw.gif)        | [#1](//osu.ppy.sh/mp/14581346) |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **Spain** ![](/wiki/shared/flag/Es.gif)         | - Win by default -             |
+| ![](/wiki/shared/flag/It.gif) **Italy**     | **4** - 0 | Sweden ![](/wiki/shared/flag/Se.gif)            | [#1](//osu.ppy.sh/mp/14581351) |
+| ![](/wiki/shared/flag/No.gif) Norway        | 0 - **4** | **Denmark** ![](/wiki/shared/flag/Dk.gif)       | - Win by default -             |
+| ![](/wiki/shared/flag/Fi.gif) **Finland**   | **4** - 0 | Philippines ![](/wiki/shared/flag/Ph.gif)       | [#1](//osu.ppy.sh/mp/14582413) |
+| ![](/wiki/shared/flag/Dk.gif) Denmark       | 0 - **4** | **Ukraine** ![](/wiki/shared/flag/Ua.gif)       | [#1](//osu.ppy.sh/mp/14582415) |
+| ![](/wiki/shared/flag/Se.gif) Sweden        | 0 - **4** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/14582418) |
+| ![](/wiki/shared/flag/Pl.gif) Poland        | 1 - **4** | **Germany** ![](/wiki/shared/flag/De.gif)       | [#1](//osu.ppy.sh/mp/14582420) |
+| ![](/wiki/shared/flag/No.gif) Norway        | 1 - **4** | **China** ![](/wiki/shared/flag/Cn.gif)         | [#1](//osu.ppy.sh/mp/14584962) |
+| ![](/wiki/shared/flag/Ua.gif) Ukraine       | 1 - **4** | **Poland** ![](/wiki/shared/flag/Pl.gif)        | [#1](//osu.ppy.sh/mp/14584969) |
+| ![](/wiki/shared/flag/Ar.gif) Argentina     | 1 - **4** | **France** ![](/wiki/shared/flag/Fr.gif)        | [#1](//osu.ppy.sh/mp/14584970) |
+| ![](/wiki/shared/flag/Hu.gif) Hungary       | 0 - **4** | **Chile** ![](/wiki/shared/flag/Cl.gif)         | [#1](//osu.ppy.sh/mp/14584973) |
 
 ------------------------------------------------------------------------
 
@@ -465,7 +520,7 @@ Ruleset
     2.  To be successfully accepted on the list, you have to ensure that your global Taiko performace ranking is above \#8000.
     3.  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 
-3.  For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
+3.  For signing up, [send a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
     1.  Add your local time zone to the registration PM.
     2.  You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
 
@@ -488,7 +543,7 @@ Ruleset
 
 4.  The top 4 teams of each group will move on to the Knock-Out Stages.
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6.  Based on [this graphic](//puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage           | Match ID                |
 |-----------------|-------------------------|
@@ -547,28 +602,3 @@ Ruleset
 3.  All Double Elimination Stages will be held on either Saturday or Sunday.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif

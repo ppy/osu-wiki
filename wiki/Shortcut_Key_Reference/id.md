@@ -32,7 +32,7 @@ Menu Utama
 ----------
 
 -   **P**: Mode Bermain (2 kali untuk masuk ke pemilihan lagu)
--   **P-M**: Mode ([Bermain Bersama](/wiki/Multi))
+-   **P-M**: Mode ([Bermain Bersama](/wiki/Multiplayer))
 -   **E**: Mode Sunting (Pemilihan lagu)
 -   **J**: Loncat ke (jukebox)
 -   **Z/X/C/V/B**: kontrol Jukebox (tampilan Winamp)

@@ -8,7 +8,7 @@ Osu! is primarily a music game, and beatmaps are usually created with the idea t
 Part 1: Breakdown of common time and techniques
 -----------------------------------------------
 
-![Music Theory](MusicTheory1.png "Music Theory")
+![](Musictheory1.png‎)
 
 ### Downbeat, onbeat
 

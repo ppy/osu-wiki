@@ -1,46 +1,20 @@
-Gallery
-=========
 
-***[Click to return to Mascots page](/wiki/Mascots)***
+***[Click to return to Mascots page](Mascots "wikilink")***
 
 osu! Originals
-----------------
+==============
 
-### Original pippi (Idol outfit)
+<File:OSUconceptWIP-3.jpg>| pippi's concept art by . <File:Pippi_Sarumaru_CB.png>| Combo Burst of (old) "osu!default by peppy" skin. <File:Pippi_Sarumaru_Chibi.png>| Chibi-pippi (Header image). <File:Pippi> 404 old.jpg| 404 error image <File:Pippi> old Daru CG1.png| pippi illustrated by (Can be found on osu!installer). <File:Pippi_corruption.jpg>| pippi when osu! received an error.
 
-![pippi's concept art by Sarumaru.](img/OSUconceptWIP-3.jpg "pippi's concept art by Sarumaru.")
-![Combo Burst of (old) "osu!default by peppy" skin.](img/Pippi_Sarumaru_CB.png "Combo Burst of (old) \"osu!default by peppy\" skin.")
-![Chibi-pippi (Header image).](img/Pippi_Sarumaru_Chibi.png "Chibi-pippi (Header image).")
-![404 error image](img/Pippi_404_old.jpg "404 error image")
-![pippi illustrated by Daru (Can be found on osu!installer).](img/Pippi_old_Daru_CG1.png "pippi illustrated by Daru (Can be found on osu!installer).")
-![pippi when osu! received an error.](img/Pippi_corruption.jpg "pippi when osu! received an error.")
+<File:Pippi> welcome.png| pippi (New revision by . Can be found in [welcome page](http://osu.ppy.sh/p/welcome)). <File:pippi_Daru_CB.png>| Combo Burst of "osu! by peppy" skin. <File:pippi_Daru_Header.png>| Header image. <File:pippi_Daru_404.png>| 404 error image.
 
-### Current pippi (DJ outfit)
+<File:Pippi> Lempika oAtW.jpg| Art by for [MFC \#2](Contests#Monthly_Fanart_Contest "wikilink"). [Account Verification image (one-time only)](http://i.imgur.com/F4tVEJf.png). Source: [1](http://www.reddit.com/r/osugame/comments/3tplz3/osu_account_verification_live/).
 
-![pippi (New revision by Daru).](img/Pippi_welcome.png "pippi (New revision by Daru).")
-![Combo Burst of "osu! by peppy" skin.](img/Pippi_Daru_CB.png "Combo Burst of \"osu! by peppy\" skin.")
-![Header image.](../Pippi_Daru_Header.png "Header image.")
-![404 error image.](img/Pippi_Daru_404.png "404 error image.")
+<File:Yuzu> Artwork.png| Yuzu by <File:Yuzu_Idle.png>| Yuzu in Catch the Beat by <File:Yuzu_Kiai.png>| Yuzu during a Kiai Time in CtB <File:Yuzu_Fail.png>| Yuzu while missing fruits in CtB
 
-### pippi (Fanart)
-
-![Art by Lempika for MFC #2.](img/Pippi_Lempika_oAtW.jpg "Art by Lempika for MFC #2.")
-
-### Yuzu
-
-![Yuzu by Daru](img/Yuzu_Artwork.png "Yuzu by Daru")
-![Yuzu in osu!catch by ztrot](img/Yuzu_Idle.png "Yuzu in osu!catch by ztrot")
-![Yuzu during a Kiai Time in osu!catch](img/Yuzu_Kiai.png "Yuzu during a Kiai Time in osu!catch")
-![Yuzu while missing fruits in osu!catch](img/Yuzu_Fail.png "Yuzu while missing fruits in osu!catch")
-
-### Misc
-
-![pippidon (Taiko mode).](img/Pippidon.png "pippidon (Taiko mode).")
-![pippi & Yuzu recording a talk.](img/Osu!Talk.png "pippi & Yuzu recording a talk.")
+<File:Pippidon.png>| pippidon (Taiko mode). osu!Talk.png| pippi & Yuzu recording a talk.
 
 Cameos
---------
+======
 
-![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
-![Chibi-J](../J_chibi_Header.png "Chibi-J")
-![Old pippi & friends in depreciated Special Modes.](/wiki/shared/Ctb_logo.jpg "Old pippi & friends in depreciated Special Modes.")
+<File:Fruit> ryuuta.png| Ryuuta in Catch the Beat. J chibi Header.png| Chibi-J <File:CtB> Menu.png| Old pippi & friends in depreciated Special Modes.

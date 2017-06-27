@@ -1,6 +1,3 @@
-Collab Information
-===================
-
 Collaborations are one of the most difficult types of mapping to achieve. There are a lot of factors to include... Here are some tips to consider when making a collaboration.
 
 Be sure
@@ -40,7 +37,7 @@ Map Settings
 If you can't agree on map settings...it's going to be detrimental.
 
 -   Agree on a Slider Velocity. This was a big killer for Last Time Travel and Gonna Be Here.
--   Agree on distance snapping and spacing in general. Look at [Be Your Wings](https://osu.ppy.sh/s/8518).
+-   Agree on distance snapping and spacing in general. Look at [Be Your Wings](http://osu.ppy.sh/s/8518).
 -   Agree on difficulty settings.
 
 Mappers

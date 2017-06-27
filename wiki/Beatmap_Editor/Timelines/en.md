@@ -118,7 +118,7 @@ Timing
 
 *Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
 
-![Timing Timeline](img/TT.jpg "Timing Timeline")
+![Timing Timeline](TT.jpg "Timing Timeline")
 
 ### Timing Timeline
 

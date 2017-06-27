@@ -8,7 +8,7 @@ Osuはリズムゲームであり、BPMにフィットしたものより、曲�
 Part 1: 全体における時間の内訳とテクニック
 ------------------------------------------
 
-![Music Theory](Musictheory1.png‎ "Music Theory‎")
+![](Musictheory1.png‎ "Musictheory1.png‎")
 
 ### Downbeat, onbeat
 

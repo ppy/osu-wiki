@@ -32,7 +32,7 @@ The osu!editor is the place where the map-making-magic happens! After all, maps 
 
  **8. Sample Set**: Sample Sets allow you to add even more hitsounds than shown in point 5. As an example, the drum-finish sounds different than the normal-finish. Using this, you can give your song a even larger variety of hitsounds!         
 
-![Mania Editor](Mania_Editor.jpg "Mania Editor")
+![](Mania_Editor.jpg "Mania Editor.jpg")
 
 ### Alright! I want to Map!
 
@@ -47,7 +47,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 
 #### General
 
-![Song Setup](Song_Setup.png "Song Setup")
+![](Song Setup.png)
 
 | Name | Description |
 | ---- | ----------- |
@@ -61,7 +61,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 
 #### Difficulty
 
-![Difficulty tab](Difficulty.png "Difficulty tab")
+![](Difficulty.png)
 
 | Name | Description |
 | ---- | ----------- |
@@ -72,7 +72,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 
 #### Design
 
-![Design tab](Design.png "Design tab")
+![](Design.png)
 
 | Name | Description |
 | ---- | ----------- |
@@ -83,7 +83,7 @@ Alright! Let’s drag the .mp3 of the song we want to map into osu! and a new ma
 
 #### Advanced
 
-![Advanced tab](Advanced.png "Advanced tab")
+![](Advanced.png)
 
 | Name | Description |
 | ---- | ----------- |
@@ -109,7 +109,7 @@ I also would like to show you a little program that can be really helpful to fin
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/TimingSetup.png "Timing Setup")
+![](/wiki/Beatmap_Editor/Timing/TimingSetup.png)
 
 | Name | Description |
 | ---- | ----------- |
@@ -308,6 +308,34 @@ What you always can try is to map the calm parts in your map to the pitch, espec
 
 Of course you don’t need to follow the pitch in your map but you can see it as a “little extra” that can make your map more exciting to play.
 
+### Keysounds
+
+Ein sehr interessanter Punkt und einzigartig für den Mania Modus ist das "Keysounden"
+Das Keysounden ist eine besondere Art des Hitsounden. Wir können einzelne Noten mit Hitsounds oder anderem Sounds belegen ohne das wir sie in ein Sampleset einfügen müssen! Die wohl bekannteste Mania Keysound Map ist die [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006](https://osu.ppy.sh/b/259067). Sie besteht zu 100% aus Keysounds. Heißt, der Mapper hat jede Note mit einem einzelnen und bestimmten Keysound belegt! Eine Full Keysound Map ist unheimlich viel Arbeit, denn jeder Ton muss richtig belegt sein, sonst klingt die Melodie falsch. Ich versuche mal zu beschreiben wie das ungefähr funktioniert:
+
+#### Sample Menü
+
+In dieses Menü kommen wir durch die Kurztasten STRG + Shift + I. Alternativ könnt ihr auch einfach eine Note links klicken während ihr die ALT Taste festhaltet. Vorsicht!: Bei dieser Methode wird genau die ausgewählte Note Keysounded. Benutzt lieber die andere kurztaste!
+
+Wenn wir jetzt die TAB Taste drücken verschwinden auf einmal alle Noten. Aber keine Panik, Sie sind nicht weg! Hier sehen wir nämlich alle Keysounds die auf den entsprechenden Timelines gelegt sind. Heißt: Der Ton der hier eingefügt wird, wird abgespielt obwohl ihr gar keine Taste drückt. Sie wird im Storyboard gespeichert. Um einen Keysound ins Storyboard einzufügen gehen wir wieder ins Sample Menü. Dann gehen wir zu dem Timing wo wir den Sound haben wollen, wählen den Sound aus dem Sample Menü aus den wir haben wollen und drücken auf "Sample". Und schon ist der Ton drin. Wenn ihr jetzt mal die Melodie laufen lasst, hört ihr das genau dieser Sound abgespielt wird.
+
+Dieses Menü muss bei Full Keysound Maps verwendet werden damit man eine Map nicht overmapped. Wenn man jeden Sound drücken müsste den man einfügt wäre es einfach nur zuviel. Niemals könnte man so eine Map ranked kriegen.
+
+Wollt ihr eine Note mit einem Keysound belegen wählt diese mit einem ALT + Links klick an. Nun öffnet sich das Sample Menü. Wählt nun den Keysound aus, den ihr auf der Note haben wollt und klickt dann auf "Apply". Schon hat die Note den Keysound, den ihr ihr zugewiesen habt. Durch einen Doppelklick auf die Note hört ihr den Keysound. Alternativ könnt ihr auch einfach die Melodie laufen lassen.
+
+![](Sample_Import.png)
+
+Im Grunde könnte man damit ein komplett eigenen Song erstellen ohne eine mp3 verwenden zu müssen! (Dann aber nicht für Rank!)
+Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample Set packen möchte. Ihr habt einen Piano Song und die dazugehörigen Piano Noten? Wunderbar! Packt sie in den Song Ordner und benutzt das Sample Menü! Ein schönes Beispiel wie ich das gemacht habe seht ihr auf meiner Map [Liz Triangle - The Starry true](https://osu.ppy.sh/s/327114) Ich habe das Intro einfach mit Piano Noten belegt. Dies gibt dem Song eine besondere Atmosphäre. Probiert es einfach mal aus!
+
+Auch andere gute Keysound Maps sind:
+[Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/b/678460) by Starry-
+[monotone - Totsugeki! Glass no Kneesocks Hime!](https://osu.ppy.sh/b/369341) by - Loco
+[orangentle / Yu_Asahina - HAELEQUIN](https://osu.ppy.sh/b/450104) by Chocoliti
+Sie sind nicht alle Full Keysounded aber sie besitzen welche!
+Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](https://osu.ppy.sh/forum/t/139139) an! (Englisch)
+Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkeiten offen Hitsounds und Keysounds zu verwenden!
+
 ### Slider Velocity (SV)
 
 The Silver Velocity acts a bit different it osu!mania; it changes the speed, at which the notes scroll downwards. Higher slider velocity means that the notes fall faster, lower Slider Velocity means the notes fall slower.
@@ -328,6 +356,10 @@ As mentioned before, the osu!mania community consists of players from different 
 
 While every person who’s mapping has his own style, there some basic features on which you can recognize the other games mapping styles.
 
+**O2 Jam Style**
+
+Will be added soon!
+
 **Stepmania Style**
 
 Stepmania has one of the largest communities for VSRG Games. Therefore it also has a large mapping community!
@@ -339,3 +371,7 @@ The DCP/LCP style emphasizes the musical relevancy through mapping techniques li
 The yolomania style relies more on pattering than anything else. It cares more about creating good playable charts for the player and the community. While it still uses the concept of pitch relevancy, it has not the highest importance.
 
 Generally said: DCP-Style charting cares more about the songs rhythm and its pitch and yolomania-style cares more about the players and how they’d respond to certain pattern choices.
+
+**BMS Style**
+
+Will be added soon!

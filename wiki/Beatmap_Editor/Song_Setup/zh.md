@@ -3,16 +3,16 @@ Song Setup (中文)
 
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
 
-![歌曲设置的位置](img/Song_Setup_nav.jpg "歌曲设置的位置")
+![歌曲设置的位置](Song_Setup_nav.jpg "歌曲设置的位置")
 
 基本设定(General)
 -----------------
 
 ### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
 
-![完整的元数据样例](img/Song_Setup.jpg "完整的元数据样例")
+![完整的元数据样例](Song_Setup.jpg "完整的元数据样例")
 
-![难度设定选项卡](img/SS_Difficulty_Settings.jpg "难度设定选项卡")
+![难度设定选项卡](SS_Difficulty_Settings,jpg "难度设定选项卡")
 
 并非所有歌曲都需要在“Source”字段中填写内容。Source只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
 
@@ -20,7 +20,7 @@ Song Setup (中文)
 
 在创建第一个难度时，就应当将这些信息填好，确保所有难度的这些信息一致。
 
--   **Artist:** **主唱乐队、歌手或创作此歌曲的艺术家。** osu!会自动从mp3文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入Tags中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](https://www.animenewsnetwork.com/) 或 [MyAnimeList](https://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
+-   **Artist:** **主唱乐队、歌手或创作此歌曲的艺术家。** osu!会自动从mp3文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入Tags中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](http://www.animenewsnetwork.com/) 或 [MyAnimeList](http://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
 
 <!-- -->
 
@@ -68,17 +68,17 @@ Song Setup (中文)
 
 在编辑模式的歌曲选择界面中显示为"**CS**"。
 
-![圆圈大小概览](img/Circle_sizes.png "圆圈大小概览")
+![圆圈大小概览](Circle_sizes.png "圆圈大小概览")
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/s/1208)的例子。
+大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](http://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](http://osu.ppy.sh/s/1208)的例子。
 
 可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
 ### 缩圈时间(Approach Rate)
 
-![AR细节总表](/wiki/shared/ARTable.jpg "AR细节总表")
+![AR细节总表](/wiki/shared/ARTable.png "AR细节总表")
 
 在编辑模式的歌曲选择界面中显示为"**AR**"。
 
@@ -122,7 +122,7 @@ Approach Rate通常缩写为"**AR**"。
 -   [Double Time](/wiki/Game_Modifiers): 增长OD值使得判定区间缩短33%。
 -   [Half Time](/wiki/Game_Modifiers): 降低OD值使得判定区间增长50%。
 
-![OD细节总表](img/ODTable.jpg "OD细节总表")
+![OD细节总表](ODTable.png "OD细节总表")
 
 **注意:** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
 
@@ -133,7 +133,7 @@ Approach Rate通常缩写为"**AR**"。
 音效(Audio)
 -----------
 
-![Audio section](img/SS_Audio.jpg "Audio section")
+![Audio section](SS_Audio.jpg "Audio section")
 
 ### 默认音效设定(Default Sample Settings)
 
@@ -156,7 +156,7 @@ Approach Rate通常缩写为"**AR**"。
 谱面相关颜色设定(Colours)
 -------------------------
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Colours section](SS_Colours.jpg "Colours section")
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
@@ -169,7 +169,7 @@ Approach Rate通常缩写为"**AR**"。
 外观设计设定(Design)
 --------------------
 
-![Design section](img/SS_Storyboarding.jpg "Design section")
+![Design section](SS_Storyboarding.jpg "Design section")
 
  这个选项卡(Design)中的设定，允许你设定关于你的storyboard和谱面的一些可视元素。
 
@@ -201,14 +201,14 @@ Approach Rate通常缩写为"**AR**"。
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
-这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820).
 
-![点击打开图像](img/SS_Skin_eg.jpg)
+![点击打开图像](SS_Skin_eg.jpg)
 
 高级设定(Advanced)
 ------------------
 
-![Advanced section](img/SS_Advanced.jpg "Advanced section")
+![Advanced section](SS_Advanced.jpg "Advanced section")
 
 ### 物件堆叠设定(Stack Leniency)
 
@@ -220,7 +220,7 @@ Approach Rate通常缩写为"**AR**"。
 
 堆叠将会自左上往堆叠的重心靠近。
 
-![示例](img/SS_SL_eg.jpg)
+![示例](SS_SL_eg.jpg)
 
 ### 谱面适用模式指定(Mode Specific)
 

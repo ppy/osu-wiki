@@ -6,7 +6,7 @@ Achievements
 Beatmap Packs
 -------------
 
-**Beatmap Packs** Achievements können erlangt werden, indem man "aus jedem Mapset einer [Thematischen Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe" schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!) Modus von osu! gespielt werden.
+**Beatmap Packs** Achievements können erlangt werden, indem man "aus jedem Mapset einer [Thematischen Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe" schafft. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!) Modus von osu! gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -20,10 +20,10 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 ### Anforderungen und Hinweise, wie man Embleme bekommt
 
 #### Anforderungen:
-- Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
+- Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t)
 - Der Spielmodus muss der osu! [Standard](/wiki/Game_Modes/osu!) Modus sein.
 - "Extrahiere das "Theme Pack" und packe alle Beatmaps in den osu! Song Ordner. Starte osu! und spiel die Maps. Das ist alles.
-  - Sollte die Beatmap als .zip Datei vorliegen, dann verschieb sie als .zip in den osu! Song Ordner und erstelle keine extra Ordner dafür. Falls Sie ein extra Ordner für die .zips erstellen, dann könnte es sein, dass Sie evtl. den Erfolg und den **CLEARED** Status auf der [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) nicht bekommen.
+  - Sollte die Beatmap als .zip Datei vorliegen, dann verschieb sie als .zip in den osu! Song Ordner und erstelle keine extra Ordner dafür. Falls Sie ein extra Ordner für die .zips erstellen, dann könnte es sein, dass Sie evtl. den Erfolg und den **CLEARED** Status auf der [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) nicht bekommen.
   - Alternativ könnten Sie auch jede benötigte Map einzeln runterladen und spielen.
 - Jegliche Variationen (anderer Beatmap Ersteller) zählen nicht. Es muss das "spezifische Lied" mit dem "spezifischen Ersteller" sein.
 - Sie müssen mit Ihrem Account im Spiel angemeldet sein. Nur auf der Webseite angemeldet zu sein, reicht nicht aus.
@@ -31,7 +31,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 #### Hinweise:
 - Nachdem Sie den Erfolg erhalten haben, können Sie die benötigten Beatmaps wieder löschen. Ihr Erfolg, ranked Score und die Genauigkeit bleiben erhalten. Falls Sie Ihren ranked Score oder die Genauigkeit verbessern wollen, dann sollten Sie diese jedoch behalten oder neu runterladen.
-- Falls Sie sich fragen, warum Sie einen der Theme Pack Erfolge nicht erhalten haben und Sie evtl. das Gefühl haben, dass Ihnen eine Map fehlt, dann können Sie zu jeder Zeit die [Theme Pack Liste](https://osu.ppy.sh/p/packlist?t=t) überprüfen. Jede geschaffte Map hat ein dickgedrucktes **CLEARED** neben sich.
+- Falls Sie sich fragen, warum Sie einen der Theme Pack Erfolge nicht erhalten haben und Sie evtl. das Gefühl haben, dass Ihnen eine Map fehlt, dann können Sie zu jeder Zeit die [Theme Pack Liste](http://osu.ppy.sh/p/packlist?t=t) überprüfen. Jede geschaffte Map hat ein dickgedrucktes **CLEARED** neben sich.
 - Sie bekommen das Emblem erst, wenn Sie alle Lieder aus dem Pack geschafft haben.
   - Seien Sie geduldig und gehen Sie sicher, dass Ihr Rekord auch submitted wurde. Sie möchten sicherlich keine Beatmap wiederholen müssen, die Ihnen zu schwer oder schlecht war, oder?
 - Benutze den Offset Wizard. Die Maps sind recht alt und das Timing/Offset ist oftmals falsch. Beachte den Online Offset, falls gegeben, und stelle das lokale Offset darauf ein.
@@ -105,4 +105,4 @@ Hush-Hush
 Link
 ----
 
--   peppys Achievement Grafiken [1](https://osu.ppy.sh/forum/t/80448)
+-   peppys Achievement Grafiken [1](http://osu.ppy.sh/forum/t/80448)

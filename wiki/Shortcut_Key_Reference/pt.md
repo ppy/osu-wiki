@@ -31,7 +31,7 @@ Menu Principal
 --------------
 
 -   **P**: Vai para modo jogar (Aperte duas vezes para ir a lista de musicas)
--   **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multi)
+-   **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multiplayer)
 -   **P-S-T**: Vai para modo [Taiko](/wiki/Game_Modes/osu!taiko)
 -   **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_Modes/osu!catch)
 -   **P-S-M**: Vai para modo [osu!mania](/wiki/Game_Modes/osu!mania)

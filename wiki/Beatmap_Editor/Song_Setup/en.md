@@ -3,14 +3,14 @@ Song Setup
 
 The Song Setup is an important screen in [beatmapping](/wiki/Beatmapping), as it contains many important settings that are keys to make a decent map.
 
-![Where the Song Setup is located](img/Song_Setup_nav.jpg "Where the Song Setup is located")
+![Where the Song Setup is located](Song_Setup_nav.jpg "Where the Song Setup is located")
 
 General
 -------
 
 ### Song and Map Meta Data
 
-![An example of complete data (General tab)](img/Song_Setup.jpg "An example of complete data (General tab)")
+![An example of complete data (General tab)](Song_Setup.jpg "An example of complete data (General tab)")
 
 [Guide on finding Metadata](https://osu.ppy.sh/forum/t/249288).
 
@@ -20,7 +20,7 @@ Under "Tags" is where you can put the album title if you choose, along with spec
 
 You should enter this information before you create a second difficulty, to ensure that the text will be consistent across all of the maps in the set.
 
--   **Artist:** **The band, singer, or group that performed or created the song.** osu! will pull the artist from the mp3 file, but please double check it to make sure it is spelled and punctuated correctly. **Anime/Game titles or companies do not belong here (they belong to Tags).** You can usually find the composer for anime and game songs on Wikipedia or other reliable sources such as [AnimeNewsNetwork](https://www.animenewsnetwork.com/) or [MyAnimeList](https://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency).
+-   **Artist:** **The band, singer, or group that performed or created the song.** osu! will pull the artist from the mp3 file, but please double check it to make sure it is spelled and punctuated correctly. **Anime/Game titles or companies do not belong here (they belong to Tags).** You can usually find the composer for anime and game songs on Wikipedia or other reliable sources such as [AnimeNewsNetwork](http://www.animenewsnetwork.com/) or [MyAnimeList](http://myanimelist.net/). Foreign names should be presented in the same name order as used on Wikipedia (generally, Given Name followed by Family Name, the western order, for consistency).
 
 <!-- -->
 
@@ -56,7 +56,7 @@ Again, to avoid issues, please make sure that everything (aside from Difficulty 
 Difficulty
 ----------
 
-![Difficulty section](img/SS_Difficulty_Settings.jpg "Difficulty section")
+![Difficulty section](SS_Difficulty_Settings,jpg "Difficulty section")
 
 Tab related to the core of beatmap's settings. Each setting affects different aspects of the beatmap.
 
@@ -68,13 +68,13 @@ The rate at which HP decreases, which is always constant except during [breaks](
 
 ### Circle Size (osu!, osu!catch, osu!taiko only)
 
-![Overview of various Circle Sizes](img/Circle_sizes.png "Overview of various Circle Sizes")
+![Overview of various Circle Sizes](Circle_sizes.png "Overview of various Circle Sizes")
 
 Known as "**CS**" in Edit's song selection.
 
 This determines the size of circles and sliders. The value range from 2 to 7 with the smaller numbers being large sizes (like needle gauges). The smaller circles make the map harder by requiring the player to be more precise.
 
-Most maps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of your cursor). 7 is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers) mod. An example of [beatmap using 3, 5, 6, and 7 as default](https://osu.ppy.sh/s/2008) and [beatmap that uses 0, 1, 3 and 4 as default](https://osu.ppy.sh/s/1208).
+Most maps use sizes 3, 4 and 5. 6 is sometimes used and 7 is almost never used (it will be roughly the size of your cursor). 7 is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers) mod. An example of [beatmap using 3, 5, 6, and 7 as default](http://osu.ppy.sh/s/2008) and [beatmap that uses 0, 1, 3 and 4 as default](http://osu.ppy.sh/s/1208).
 
 It is possible by manually editing the `.osu` file to assign a value of 0-10 but this is not suggested as using sizes not between 2 - 7 will be considered unrankable beatmap.
 
@@ -88,7 +88,7 @@ Clicking on "Co-op mode" checkbox doubles the currently selected amount (from 5 
 
 ### Approach Rate
 
-![Detailed AR chart](/wiki/shared/ARTable.jpg "Detailed AR chart")
+![Detailed AR chart](/wiki/shared/ARTable.png "Detailed AR chart")
 
 Known as "**AR**" in Edit's song selection.
 
@@ -130,7 +130,7 @@ Four mods can alter overall difficulty timing when activated:
 
 **Note:** While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make circles seem to have a lower or higher apparent OD, respectively. In the chart below, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests, and more leniently with Half Time. Again, outside of NoMod/HR/EZ (on the left side), the OD values below are only for comparison: the actual OD value is always a number from 0 to 10.
 
-![Detailed OD chart](img/ODTable.jpg "Detailed OD chart")
+![Detailed OD chart](ODTable.png "Detailed OD chart")
 
 **Note:** The osu! timing system does not allow a [hit circle](/wiki/Hit_Objects) to be hit until the previous one has been hit or its time frame has been exceeded (resulting in a miss). With a low OD, the time frame of one circle may overlap with the next. Thus, one could hit the second note with perfect timing (after failing to hit the first note) and end up completely missing both because the time frame of the first note has not been exceeded yet.
 
@@ -141,7 +141,7 @@ This is a summary of all of the settings chosen on this page. More stars mean ha
 Audio
 -----
 
-![Audio section](img/SS_Audio.jpg "Audio section")
+![Audio section](SS_Audio.jpg "Audio section")
 
 ### Default Sample Settings
 
@@ -164,7 +164,7 @@ Click on the buttons to test out how the sample sounds. These sounds are additiv
 Colours
 -------
 
-![Colours section](img/SS_Colours.jpg "Colours section")
+![Colours section](SS_Colours.jpg "Colours section")
 
 These sections are used mainly to assign combo colors. Combo colors are an important part of the beatmap's aesthetic value, because there will be a lot of circles and sliders in the beatmap. Clicking a combo color opens up your OS's color picker (At picture, uploader used Windows OS). Choose colors that compliment the background but the colours must not camouflage into the background. Up to eight combo colors can be used, although most maps uses four. Clicking the "Remove Combo Colour" will remove the highest numbered Combo color (in other word, reverse order 8-7-6-5-4-3-2).
 
@@ -173,7 +173,7 @@ The other part of this window is assigning the playfield background color, but t
 Storyboarding
 -------------
 
-![Design section](img/SS_Storyboarding.jpg "Design section")
+![Design section](SS_Storyboarding.jpg "Design section")
 
 
 ### Countdown
@@ -196,14 +196,14 @@ You can change the speed and offset of the countdown as well.
 
 Set the preferred skin (from your own skin folder) that will be used instead if the skin is present in the another player's skin folder. If the skin is not present, a notice will pop-up and the player's default skin will be used. However, most people will just include the skin as part of the beatmap file so this setting is rarely used unless to decrease the filesize. Older beatmaps may uses this, hardly ever used nowadays.
 
-An example of the usage of it would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+An example of the usage of it would be [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820).
 
-![Picture example here](img/SS_Skin_eg.jpg)
+![Picture example here](SS_Skin_eg.jpg)
 
 Advanced
 --------
 
-![Advanced section](img/SS_Advanced.jpg "Advanced section")
+![Advanced section](SS_Advanced.jpg "Advanced section")
 
 ### Stack Leniency
 
@@ -213,7 +213,7 @@ The farther to the right that this slider is, the further apart in time stacking
 
 Do note that stacked hit-circles will *move* towards the point where the stacking occurs.
 
-![Picture example here](img/SS_SL_eg.jpg)
+![Picture example here](SS_SL_eg.jpg)
 
 Objects are considered to belong to same stack if they are at the same coordinate and no further in time than (Approach Window) \* (Stack Leniency) / 10, where approach window is the duration for which objects stay on screen (see Approach Rate above).
 

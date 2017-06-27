@@ -11,7 +11,7 @@ Trouver le bon timing
 Sections de timing
 ------------------
 
-![La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.](img/TimingSetup.jpg "La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.")
+![La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.](TimingSetup.png "La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.")
 
 Les sections de timing (« *timing sections* ») vous permet de varier le timing tout le long de la musique. Il existe deux types de sections de timing : les sections ordinaires et les sections héritées.
 

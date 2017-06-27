@@ -11,12 +11,12 @@ Becoming a member of the **Global Moderation Team** is quite a difficult and int
 Roles and Responsibilities
 --------------------------
 
-The Global Moderation Team is responsible for the welfare of the chat/forum and takes care of interactions with the community. They should be approached if you have any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (silences, harassment) and the forum (spam).
+The Global Moderation Team is responsible for the welfare of the chat/forum and takes care of interactions with the community. They should be approached if you have any questions pertaining the moderation aspect of the game, which would include (but isn't limited to) issues with chat (silences, harassment) and the forum (spam).
 
 Team Members
 ------------
 
-*Please note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.* - [Team Page](https://osu.ppy.sh/g/4)
+*Please note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.* - [Team Page](http://osu.ppy.sh/g/4)
 
 | Name | Languages | Area of focus |
 | ----- | --------- | ------------- |

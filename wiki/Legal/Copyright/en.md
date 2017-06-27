@@ -1,13 +1,11 @@
 # osu! Copyright Policy
 
 osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
-
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (http://www.copyright.gov/onlinesp/list/index.html).
 osu! takes copyright and other intellectual property rights very seriously.
-
 It is osu!'s policy to (1) expeditiously block access to or remove content that it believes in good faith may contain material that infringes the copyrights of third parties and (2) remove and discontinue service to repeat offenders.
 
-## Reporting Copyright Infringements
+## Procedure for Reporting Copyright Infringements:
 
 If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements): 
 
@@ -33,7 +31,7 @@ Once a complete and proper notice of claimed copyright infringement is received 
 
 3. to terminate in appropriate circumstances subscribers and account holders who are repeat infringers.
 
-## Submitting Counter-Notices
+**Procedure to Supply a Counter-Notice to the Designated Agent:**
 
 If the content provider, member or user believes that the content that was removed or to which access was disabled is not infringing, or the content provider, member or user believes that it has the right to post and use such content from the copyright owner, the copyright owner's agent, or pursuant to the law, the content provider, member or user may send a counter-notice containing the following information to the Designated Agent listed below: 
 
@@ -48,9 +46,13 @@ If the content provider, member or user believes that the content that was remov
 If a counter-notice is received by the Designated Agent, osu! may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days.
 Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at osu!'s sole discretion.
 
-## Designated Agent Contact Details
+Please contact osu!'s Designated Agent at the following address: 
 
-**Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (24 hour response guaranteed) 
+Designated Agent to Receive Notification of Claimed Infringement: 
+
+**Email**: [pe@ppy.sh](mailto:pe@ppy.sh) (24 hour response guaranteed) 
+
+\- or -
 
 **Postal Address**: 
 

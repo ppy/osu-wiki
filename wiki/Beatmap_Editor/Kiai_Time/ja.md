@@ -1,9 +1,9 @@
 Kiaiタイム
 ============
 
-![Stars shower the screen indicating Kiai Time has started.](img/Kiai_Time_test.jpg "Stars shower the screen indicating Kiai Time has started.")
+![Stars shower the screen indicating Kiai Time has started.](Kiai_Time.jpg "Stars shower the screen indicating Kiai Time has started.")
 
-![Kiai Time shows in the upper-left of the screen when active during edit mode.](img/Kiai_Time_edit.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
+![Kiai Time shows in the upper-left of the screen when active during edit mode.](Kiai_Time_Edit_Mode.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
 
 **Kiai タイム**は[譜面上の](/wiki/Beatmaps)[Mapperによって作成される](/wiki/Glossary)2つの[タイミングセクションによって設定されます](/wiki/Beatmap_Editor/Timing)。画面が点滅し、星のエフェクトが出るのであなたはそれを認識することができます。付け加えれば全てのオブジェクトはメインビートに従って点滅し、星はヒットサークルを当てた時やスライダーやスピナーを打つとき、カーソルから噴出されます。
 

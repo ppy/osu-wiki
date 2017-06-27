@@ -32,7 +32,7 @@ Menú Principal
 --------------
 
 -   **P**: Modo Jugar (doble click para seleccionar canción)
--   **P-M**: Modo Jugar ([Multijugador](/wiki/Multi))
+-   **P-M**: Modo Jugar ([Multijugador](/wiki/Multiplayer))
 -   **E**: Modo Editar (elección de canción)
 -   **J**: Saltar a (pestaña)
 -   **Z/X/C/V/B**: Control de la jukebox (layout de Winamp)

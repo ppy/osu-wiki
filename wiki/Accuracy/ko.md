@@ -63,17 +63,24 @@ Max는 300점보다 점수에서 더 많은 가치를 지녔음에도 불구하�
 ### 랭킹
   여기에는 성적, 실제 히트수, 실제 정확도 백분율이 표시됩니다. 자세한 내용은 [점수](/wiki/Score)를 참고하세요.
 
-![Osu! 랭킹 패널](img/standard.jpg "osu! Ranking Panel")
-![osu!Taiko 랭킹 패널](img/taiko.jpg "osu!Taiko Ranking Panel")
-![Osu!Catch 랭킹 패널](img/catch.jpg "osu!CtB Ranking Panel")
-![osu!Mania 랭킹 패널](img/mania.jpg "osu!Mania Ranking Panel")
+![Osu! 랭킹 패널](Accuracy_osu!_Small.jpg "osu! Ranking Panel") ![osu!Taiko 랭킹 패널](Accuracy_Taiko_Small.jpg "osu!Taiko Ranking Panel")
+
+[Osu! 랭킹 패널](Accuracy_osu!.jpg "Larger version of osu! Ranking Panel")
+
+[osu!Taiko 랭킹 패널](Accuracy_Taiko.jpg "Larger version of osu!Taiko Ranking Panel")
+
+[Osu!Catch 랭킹 패널](Accuracy_CtB_Small.jpg "osu!CtB Ranking Panel") ![osu!Mania 랭킹 패널](Accuracy_Mania_Small.jpg "osu!Mania Ranking Panel")
+
+[Osu!Catch 랭킹 패널](Accuracy_CtB.jpg "Larger version of Standard osu!CtB Panel")
+
+[Osu!Mania 랭킹 패널](Accuracy_Mania.jpg "Larger version of osu!Mania Ranking Panel")
 
 
 ### Performance(퍼포머스) 그래프
 
   이것은 Performance(퍼포머스) 그래프입니다. 커서를 가리키면 추가 정보가 표시됩니다.:
 
-![Performance(퍼포머스) 그래프](img/tr.jpg "Performance Graph")
+![Performance(퍼포머스) 그래프](Accuracy_TR.jpg "Performance Graph")
 
 #### 정확도
 | 용어 | 뜻 |

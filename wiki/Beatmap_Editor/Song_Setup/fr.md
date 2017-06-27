@@ -3,16 +3,16 @@ Paramètres de la beatmap
 
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
 
-![Emplacement des paramètres de la beatmap](img/Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
+![Emplacement des paramètres de la beatmap](Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
 
 Général
 -------
 
 ### Métadonnées de la musique et de la map
 
-![Exemple de données complètes (Onglet "General")](img/Song_Setup.jpg "Exemple de données complètes (Onglet "General")")
+![Exemple de données complètes (Onglet "General")](Song_Setup.jpg "Exemple de données complètes (Onglet "General")")
 
-![Onglet "Difficulty" (Difficulté)](img/SS_Difficulty_Settings.jpg "Onglet "Difficulty" (Difficulté)")
+![Onglet "Difficulty" (Difficulté)](SS_Difficulty_Settings,jpg "Onglet "Difficulty" (Difficulté)")
 
 [Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/forum/t/249288).
 
@@ -22,7 +22,7 @@ Vous pouvez mettre le nom de l'album dans les "Tags", avec les informations spé
 
 Vous devriez entrer ces informations avant de créer une seconde difficulté, pour assurer que ce champ soit cohérent entre toutes les difficultés du set.
 
--   **Artist (Artiste) :** **La bande, chanteur, ou groupe qui a joué ou crée la musique.** osu! prendra l'artiste du fichier mp3 si présent, mais assurez-vous qu'il soit correctement écrit. **Les noms d'anime/jeux vidéos et des compagnies n’appartiennent pas a ce champ (ils se trouvent habituellement dans "Tags").** Vous pouvez habituellement trouver les compositeurs des musiques d'Anime ou de Jeux Vidéos sur Wikipédia ou s'autres sources sûres comme [AnimeNewsNetwork](https://www.animenewsnetwork.com/) ou [MyAnimeList](https://myanimelist.net/) (sites en anglais). Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille).
+-   **Artist (Artiste) :** **La bande, chanteur, ou groupe qui a joué ou crée la musique.** osu! prendra l'artiste du fichier mp3 si présent, mais assurez-vous qu'il soit correctement écrit. **Les noms d'anime/jeux vidéos et des compagnies n’appartiennent pas a ce champ (ils se trouvent habituellement dans "Tags").** Vous pouvez habituellement trouver les compositeurs des musiques d'Anime ou de Jeux Vidéos sur Wikipédia ou s'autres sources sûres comme [AnimeNewsNetwork](http://www.animenewsnetwork.com/) ou [MyAnimeList](http://myanimelist.net/) (sites en anglais). Les noms doivent être présenté de la même manière que sur Wikipédia (habituellement, Prénom suivi du Nom de famille).
 
 <!-- -->
 
@@ -68,17 +68,17 @@ La vitesse à laquelle la vie diminue, qui est toujours constante sauf pendant u
 
 ### Circle Size (Taille des cercles; osu!, osu!catch, osu!taiko seulement)
 
-![Aperçu des différentes tailles de cercle](img/Circle_sizes.png "Aperçu des différentes tailles de cercle")
+![Aperçu des différentes tailles de cercle](Circle_sizes.png "Aperçu des différentes tailles de cercle")
 
-![Graphique d'AR détaillé](/wiki/shared/ARTable.jpg "Graphique d'AR détaillé")
+![Graphique d'AR détaillé](ARTable.png "Graphique d'AR détaillé")
 
 Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
 Ceci détermine la taille des cercles et des sliders. La valeur varie entre 2 et 7 avec les plus petites valeurs donnant des plus grosses tailles. Les petits cercles rendent la map difficile en exigeant le joueur à être plus précis.
 
-La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](https://osu.ppy.sh/s/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](https://osu.ppy.sh/s/1208).
+La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](http://osu.ppy.sh/s/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](http://osu.ppy.sh/s/1208).
 
-Il est possible en éditant manuellement le fichier `.osu` pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
+Il est possible en éditant manuellement le fichier [`.osu`][Osu Link] pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
 
 #### Key Count (Nombre de touches; osu!mania seulement)
 
@@ -130,14 +130,14 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 **Note :** Alors que HT et DT ne changent pas la valeur actuelle de l'OD, l'effet de la vitesse sur les fenêtres de temps feront croire que les objets ont un OD plus long ou court, selon le mod actif. Dans la charte ci-dessous, des valeurs semblables sont données pour permettre un comparaison entre les OD avec ou sans mods. Sachez que ces OD ne s'appliquent qu'aux 300. Les fenêtres pour les 100, 50 et les sliders (qui utilisent la fenêtre pour un 50) sont plus stricts avec DT et moins stricts avec HT, contrairement à ce que l'OD suggeste. Encore une fois, en dehors de NoMod/HR/EZ (à gauche), les valeurs ci-dessous ne sont que pour comparaison : l'OD actuelle est toujours une valeur entre 0 et 10.
 
-![Charte OD détaillé](img/ODTable.jpg "Charte OD détaillé")
+![Charte OD détaillé](ODTable.png "Charte OD détaillé")
 
 **Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
 
 Audio
 -----
 
-![Onglet "Audio"](img/SS_Audio.jpg "Onglet "Audio"")
+![Onglet "Audio"](SS_Audio.jpg "Onglet "Audio"")
 
 ### Default Sample Settings (Sons par défaut)
 
@@ -160,7 +160,7 @@ Cliquez sur les boutons pour tester les hitsounds actuels. Ces sons sont additif
 Colours (Couleurs)
 ------------------
 
-![Onglet "Colours"](img/SS_Colours.jpg "Onglet "Colours"")
+![Onglet "Colours"](SS_Colours.jpg "Onglet "Colours"")
 
 Cette section est utilisée principalement pour assigner des couleurs de combo. Ces couleurs sone un aspect important de la valeur esthétique de la beatmap, puisque il y aura beaucoup de cercles et de sliders dans la map. Cliquer sur une couleur ouvre la fenêtre de sélection de couleur de votre système d'exploitation (sur l'image ci-contre, Windows). Choisissez des couleurs qui complimentent l'arrière-plan mais qui ne se camouflent pas avec. Jusqu'à 8 couleurs peuvent être utilisées, bien que la plupart des maps en utilisent quatre. Cliquer sur "Remove Combo Colour" supprimera la couleur avec le numéro le plus élevé (en d'autres termes, ordre inverse 8-7-6-5-4-3-2).
 
@@ -169,7 +169,7 @@ L'autre partie de cette fenêtre permet d'assigner une couleur à l'arrière pla
 Storyboarding
 -------------
 
-![Onglet "Storyboarding"](img/SS_Storyboarding.jpg "Onglet "Storyboarding"")
+![Onglet "Storyboarding"](SS_Storyboarding.jpg "Onglet "Storyboarding"")
 
 Cet onglet contient les options sur comment certains éléments visuels apparaissent dans la beatmap.
 
@@ -193,14 +193,14 @@ Vous pouvez changer la vitesse et le décalage du compte à rebours.
 
 Choisissez le skin de préférence (depuis votre dossier de skins) qui sera utilisé si le skin est présent dans le dossier de skins d'un autre joueur. Si le skin n'est pas présent, un avertissement apparaîtra et le skin par défaut du joueur sera utilisé. Cependant, la plupart des personnes incluront les éléments de skin directement dans la beatmaps donc cette option est rarement utilisée sauf pour réduire la taille de la beatmap. D'anciennes maps peuvent utiliser cette option, et très rarement ces jours-ci.
 
-Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](http://osu.ppy.sh/b/41820).
 
-![Exemple ici](img/SS_Skin_eg.jpg)
+![Exemple ici](SS_Skin_eg.jpg)
 
 Advanced (Avancé)
 -----------------
 
-![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet "Advanced"")
+![Onglet "Advanced"](SS_Advanced.jpg "Onglet "Advanced"")
 
 ### Stack Leniency (Tolérance de l'empilage)
 
@@ -210,7 +210,7 @@ Plus le curseur est à droite, plus il y aura de cercles empilés sur une pério
 
 Sachez que les cercles empilés se *dirigeront* vers le point d'empilage.
 
-![Exemple ici](img/SS_SL_eg.jpg)
+![Exemple ici](SS_SL_eg.jpg)
 
 Les objets sont empilés si ils appartiennent aux mêmes coordonnées et ne sont pas loin dans le temps tel que (Fenêtre d'approche) \* (Tolérance de l'empilage) / 10, où la fenêtre d'approche est la durée d'apparition des objets (Voir Approach Rate ci dessus).
 

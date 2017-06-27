@@ -1,14 +1,12 @@
-osu!taiko Ranking Criteria (中文)
-==================================
-
-这些规则和指导思想在[太鼓讨论串](https://osu.ppy.sh/forum/p/1275323)当中讨论出来。 一些新的建议在 [讨论串](https://osu.ppy.sh/forum/87)被提出，当争论经过整理后可能会被添加进来。
+这些规则和指导思想在[太鼓讨论串](http://osu.ppy.sh/forum/p/1275323)当中讨论出来。 一些新的建议在 [讨论串](http://osu.ppy.sh/forum/87)被提出，当争论经过整理后可能会被添加进来。
 
 也可以前往观看此帖[太鼓譜面的規則 <已落實>](https://osu.ppy.sh/forum/t/80152)。
 
 专用字词
----------
+========
 
-### 难度
+难度
+----
 
 -   **Kantan**: 简单 (Easy)
 -   **Futsuu**: 普通 (Normal)
@@ -16,7 +14,8 @@ osu!taiko Ranking Criteria (中文)
 -   **Oni**: 恶魔 (Insane)
 -   **Ura/Inner Oni**: 里恶魔 (Expert)
 
-### 游戏
+游戏
+----
 
 -   **Don**: 红圈 / 红音符
 -   **Kat**: 蓝圈 / 蓝音符
@@ -25,7 +24,7 @@ osu!taiko Ranking Criteria (中文)
 -   **Finisher/Big (Don/Kat)**: 大(红/蓝)音符
 
 规则
--------
+====
 
 规则就是规则(RULES). 它不是指南(guidelines). 在任何情况下也不能违反.
 
@@ -34,7 +33,7 @@ osu!taiko Ranking Criteria (中文)
 大音符 (O或X) 不能使用在1/4或者节奏更快的连打开头或中间. 在连打结尾的大音符如果有理由可以使用但要和之前的音符相反颜色. 比如: oooo"X" 或者 xxxxoxxx"O".
 
 指南
------
+====
 
 大多数的图应遵循指南(guidelines). 但在某些特殊的情况下指南是可以打破的, 在打破指南前, 问问你自己这样做是否合情理? 是否能让一个map变的更有趣? 如果你对这两个问题的回答是"yes". 或许有过关的可能。
 

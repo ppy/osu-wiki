@@ -1,8 +1,8 @@
 # osu!academy
 
-![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
+![osu!academy's logo](./img/osu!academy-logo.png "osu!academy logo")
 
-**osu!academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
+**osu! academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
 We hope that new players will find these videos informative, and help ease the arguably steep learning curve associated with the game.
 If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/u/6347); he is the primary and almost sole owner of the osu! academy and its channel.

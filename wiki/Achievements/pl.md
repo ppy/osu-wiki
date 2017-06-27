@@ -6,7 +6,7 @@ Osiągnięcia
 Beatmap Packs
 ---------------
 
-Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](https://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/osu!).
+Osiągnięcia **The Beatmap Packs** mogą zostać zdobyte poprzez **zagranie każdej beatmapy przynajmniej raz na jakimkolwiek poziomie trudności**. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t). Aby zdobyć te osiągnięcia, musisz grać w trybie [osu! Standard](/wiki/Game_Modes/osu!).
 
 Obecnie mamy 16 osiągnięć w tej grupie, które są podzielone na 4 sekcje:
 
@@ -20,7 +20,7 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 ### Wymagania i uwagi dotyczące zdobywania tych osiągnięć
 
 #### Wymagania:
- -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](https://osu.ppy.sh/p/packlist?t=t).                                                       
+ -   Musisz zagrać każdą beatmapę przynajmniej raz na jakimkolwiek poziomie trudności. Muszą one należeć do specyficznych [paczek beatmap o wspólnej tematyce](http://osu.ppy.sh/p/packlist?t=t).                                                       
  -   Trybem musi być [osu!standard](/wiki/Game_Modes/osu!).  
  -   Rozpakuj paczkę i przeciągnij beatmapy do folderu Songs. Otwórz osu! i zacznij grać. To tyle!
      -   Jeżeli beatmapa jest typu .zip, przeciągnij ją w takiej formie do folderu Songs i rób dla nich folderu. Jeżeli je zrobisz, możesz nie otrzymać statusu **CLEARED** na stronie z paczkami.
@@ -31,14 +31,14 @@ Każda z tych sekcji ma obecnie po 4 zestawy.
 
 #### Uwagi:
  -   Po ukończeniu osiągnięcia, możesz skasować osiągnięcia danej paczki. Twoje osiągnięcie oraz wynik zostaną. Jeżeli chcesz poprawić swój wynik, będzie trzeba pobrać beatmapę od początku.
- -   Jeżeli dziwisz się dlaczego osiągnięcie nie zostało otrzymane i czujesz że jakaś beatmapa została przez ciebie pominięta, możesz to sprawdzić [tutaj](https://osu.ppy.sh/p/packlist?t=t). Ukończona beatmapa będzie oznaczona napisem **CLEARED**.  
+ -   Jeżeli dziwisz się dlaczego osiągnięcie nie zostało otrzymane i czujesz że jakaś beatmapa została przez ciebie pominięta, możesz to sprawdzić [tutaj](http://osu.ppy.sh/p/packlist?t=t). Ukończona beatmapa będzie oznaczona napisem **CLEARED**.  
  -   Osiągnięcie otrzymasz dopiero po ukończenie wszystkich beatmap z paczki.
      -   Wpierw zaczekaj aż twój wynik zostanie zatwierdzony. Chyba nie chcesz powtarzać tej samej beatmapy, prawda?
  -   Zaleca się używanie Kalibratora Opóźnienia. Beatmapy są stare i część obiektów może pojawiać się za wcześnie lub za późno.
 
 #### Specjalne:
 
- -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs_0916)
+ -   [Stare paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](/wiki/Achievements/Beatmap_Packs_Achievements)
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -97,4 +97,4 @@ Jest to ten typ osiągnięć w którym nie wiadomo do końca jak je otrzymać. G
 Źródła
 ----------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+-   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)

@@ -1,6 +1,3 @@
-How to Get Your Map Ranked (한국어)
-====================================
-
 당신의 맵을 Ranked로 만드는게 힘드신가요? 잘 찾아오셨습니다.
 
 Step 1: 모딩
@@ -23,4 +20,4 @@ Step 3: Bubbles(버블)
 참고
 ----
 
--   [Ranking Criteria/랭킹 크리테리아](/wiki/Ranking_Criteria)
+-   [Ranking Criteria/랭킹 크리테리아](KO:Ranking_Criteria "wikilink")

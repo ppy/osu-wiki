@@ -6,7 +6,7 @@ Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de algu
 Beatmap Packs
 -------------
 
-**Los Beatmap Packs** son logros pueden ser obtenidos por **Jugar cada beatmap a al menos una vez en cualquier dificultad** Dentro de un [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). Deberá jugar en Modo [osu! Standard](/wiki/Game_Modes/osu!) para calificar a **CLEARED (Completado)** en el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) y ganar la insignia.
+**Los Beatmap Packs** son logros pueden ser obtenidos por **Jugar cada beatmap a al menos una vez en cualquier dificultad** Dentro de un [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t). Deberá jugar en Modo [osu! Standard](/wiki/Game_Modes/osu!) para calificar a **CLEARED (Completado)** en el [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) y ganar la insignia.
 
 Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
@@ -20,10 +20,10 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 ### Requisitos y notas sobre la obtención de la insignia.
 
 #### Requisitos:
-- Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
+- Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](http://osu.ppy.sh/p/packlist?t=t) es suficiente.
 - El modo debe ser [osu! Standard](/wiki/Game_Modes/osu!).
 - Extraer el Theme pack, Coloque todos los beatmaps del .zip en osu.! Ejecutar tu osu! y comenzar a jugar. Eso es todo.
-  - Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
+  - Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t)
   - Alternativamente, usted puede descargar las canciones manualmente de uno en uno, sigue siendo valido.
 - Cualquier variación (como creador diferentes) De la canción no es contado. Debe ser esa canción específica y el creador específico en ese Beatmap.
 - Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
@@ -31,7 +31,7 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
 #### Notas:
 - Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
-- Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
+- Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](http://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
 - la insignia se le dará después de completar todas las canciones de ese tema en cuestión.
   - Sea paciente y asegúrese de que su puntuación se presenta y se clasifican correctamente primero. ¿No querrá repetir que la canción beatmap otra vez sobre todo si es difícil para usted?
 - Como los beatmaps son bastante antiguos puede ser posible que deba hacer uso del "Off-set Wizard", ya que los Hit-Circles pueden aparecer mal sincronizados. (Antes/Después, del tiempo correcto)
@@ -100,4 +100,4 @@ Spoilear El método para desbloquear estos logros concretos "tendrá como result
 Link Externo
 ----------------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+-   peppy's Achievement Graphics [1](http://osu.ppy.sh/forum/t/80448)

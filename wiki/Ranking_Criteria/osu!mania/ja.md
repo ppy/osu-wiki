@@ -1,21 +1,19 @@
-osu!mania Ranking Criteria (日本語)
-====================================
-
-For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
+For the record, these include the recent changes made [from the discussion forum](http://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
 Terms
--------
+=====
 
 -   Expert以外 = Easy, Normal. (Basic, Standard)
 -   Expert = Hard, Insane. (Hyper, Another)
 -   Column (key数) = 5K, 5 column. 中央の列はSpecialもしくはStep columnと呼ばれることがあります。
 
 Rules
-------
+=====
 
 これらはガイドラインではなくルールであり、いかなる状況下においても守る必要があります。
 
-### General
+General
+-------
 
 -   **osu!topus (AutoPlay)は全ての難易度でフルスコア (1,000,000)にならなければいけません。**.
 -   **いずれかの使用していない列があってはいけません。**.
@@ -26,17 +24,19 @@ Rules
 -   **同じ列で同タイミングに2つのオブジェクトを置くことはできません。そして同じ列の2つのオブジェクトの間にはスペースが存在しなくてはいけません。**
 -   **letterboxのオプションを無効化しなければいけません。**osu!maniaではそれはサポートがされていないので、使うべきではありません。
 
-### Difficulty Spread
+Difficulty Spread
+-----------------
 
 -   **それぞれのマップセットには最低2つの難易度が必要で、一方はEasyかNormalである必要があります。**
 -   **キー設定が異なる譜面は異なるゲームモードと扱われ、それぞれで別のマップセットを用意しなければいけません。** そのためマップセットに7Kの難易度追加したい場合は、全体の7Kのためのマップセットを用意する必要があります。また、4Kであれば同様に4Kのためのマップセットを用意する必要があります。
 
-### Timing
+Timing
+------
 
 -   **BPMに変化が無いときには赤線を使用することはできません。** 言い換えればスクロール速度の変更のために使用することはできません。よって緑線とSVによって変更することが可能です。
 
 Guidelines
-------------
+==========
 
 ガイドラインは、ほとんどの譜面で遵守されるべき重要なものです。しかしルールでは無い為、可能な限り従うべきではありますが、特殊な状況下においては破ることもできます。もしガイドラインを破りたい場合、「ガイドラインを破ることは理に適っているのか」、「ガイドラインを守る場合に比べて、ガイドラインを破ったものはより面白いか」をよく検討してみてください。もし両方ともに対してイエスならば、ガイドラインを破ることはおそらく認められるでしょう。ガイドラインを破った譜面をModしてもらう場合には、その箇所について極力あなたの考えを説明し、提案を受け入れるようにしましょう。
 
@@ -55,7 +55,7 @@ Guidelines
 -   **マップセット内の異なるキー設定の譜面は似たような難易度のバランスにするべきです。**それは異なるキー設定との間でバランスを保全し、そして別のキーをメインとしているプレイヤーを満足させることが出来ます。
 
 ?K 参考用
------------
+=========
 
 | Keys(CS) | Game                               |
 |----------|------------------------------------|

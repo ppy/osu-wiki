@@ -32,7 +32,7 @@ Nur im Menü
 <!-- -->
 
 -   **P**: Spielmodus (zweimal, um zur Songauswahl zu gelangen)
--   **P-M**: Spielmodus ([Multi-Play](/wiki/Multi))
+-   **P-M**: Spielmodus ([Multi-Play](/wiki/Multiplayer))
 -   **E**: Edit Mode (Songauswahl)
 -   **J**: Spring zu (Jukebox)
 -   **Z/X/C/V/B**: Jukebox Steuerung (Winamp Layout)

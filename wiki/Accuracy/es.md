@@ -61,16 +61,24 @@ Pantalla de resultados
 
   Esto muestra tu calificación, la cantidad de aciertos y fallos, así como tu porcentaje de precisión. Para más detalles, ve a [Puntaje](/wiki/Score).
 
-![Panel de ranking del modo osu!](img/standard.jpg "Panel de ranking del modo osu!")
-![Panel de ranking del modo osu!taiko](img/taiko.jpg "Panel de ranking del modo osu!taiko")
-![Panel de ranking del modo osu!catch](img/catch.jpg "Panel de ranking del modo osu!catch")
-![Panel de ranking del modo osu!mania](img/mania.jpg "Panel de ranking del modo osu!mania")
+![Panel de ranking del modo osu!](Accuracy_osu!_Small.jpg "Panel de ranking del modo osu!") ![Panel de ranking del modo osu!taiko](Accuracy_Taiko_Small.jpg "Panel de ranking del modo osu!taiko")
+
+[Versión ampliada del panel de ranking del modo osu!](Accuracy_osu!.jpg "Versión ampliada del panel de ranking del modo osu!")
+
+[Versión ampliada del panel de ranking del modo osu!taiko](Accuracy_Taiko.jpg "Versión ampliada del panel de ranking del modo osu!taiko")
+
+![Panel de ranking del modo osu!catch](Accuracy_CtB_Small.jpg "Panel de ranking del modo osu!catch") ![Panel de ranking del modo osu!mania](Accuracy_Mania_Small.jpg "Panel de ranking del modo osu!mania")
+
+[Versión ampliada del panel de ranking del modo osu!catch](Accuracy_CtB.jpg "Versión ampliada del panel de ranking del modo osu!catch")
+
+[Versión ampliada del panel de ranking del modo osu!mania](Accuracy_Mania.jpg "Versión ampliada del panel de ranking del modo osu!mania")
+
 
 ### Gráfico de rendimiento
 
   Esto muestra un gráfico de tu rendimiento en la partida. Más información es mostrada cuando mueves el cursor sobre el gráfico:
 
-![Gráfico de rendimiento](img/tr.jpg "Gráfico de rendimiento")
+![Gráfico de rendimiento](Accuracy_TR.jpg "Gráfico de rendimiento")
 
 #### Precisión
 

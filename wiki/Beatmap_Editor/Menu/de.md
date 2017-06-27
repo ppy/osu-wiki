@@ -1,10 +1,10 @@
-Menü
-====
+Beatmap Editor/Menü
+=====================
 
 Datei
 ------
 
-![Dateimenü](img/M_File-DE.jpg "Dateimenü")
+![Dateimenü](DE-Editor_Datei.jpg "Dateimenü")
 
 **Kommandos.**
 
@@ -57,7 +57,7 @@ Datei
 Bearbeiten
 -----------
 
-![Bearbeitungsmenü](img/M_Edit-DE.jpg "Bearbeitungsmenü")
+![Bearbeitungsmenü](DE-Editor_Bearbeiten.jpg "Bearbeitungsmenü")
 
 Edit commands. Same as default MS shortcuts.
 
@@ -117,7 +117,7 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 Ansicht
 ----------
 
-![Ansichtmenü](img/M_View-DE.jpg "Ansichtmenü")
+![Ansichtmenü](DE-Editor_Ansicht.jpg "Ansichtmenü")
 
 ### Kommandos für die Tabs
 
@@ -151,7 +151,7 @@ Ansicht
 Komponieren
 ------------
 
-![Kompositionsmenü](img/M_Compose-DE.jpg "Kompositionsmenü")
+![Kompositionsmenü](DE-Editor_Komponieren.jpg "Kompositionsmenü")
 
 ***Hauptseite: [Komposition](/wiki/Beatmap_Editor/Compose)***
 
@@ -175,7 +175,7 @@ Komponieren
 Design
 -------
 
-![Designmenü](img/M_Design-DE.jpg "Designmenü")
+![Designmenü](DE-Editor_Design.jpg "Designmenü")
 
 ***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
@@ -186,7 +186,7 @@ Design
 Timing
 --------
 
-![Timingmenü](img/M_Timing-DE.jpg "Timingmenü")
+![Timingmenü](DE-Editor_Timing.jpg "Timingmenü")
 
 ***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
@@ -233,7 +233,7 @@ Timing
 Web
 ------
 
-![Webmenü](img/M_Web-DE.jpg "Webmenü")
+![Webmenü](DE-Editor_Web.jpg "Webmenü")
 
 Öffnet Ihren Browser. Leitet Sie hauptsächlich zum Beatmap-Thread (Sie müssen angemeldet sein).
 
@@ -246,7 +246,7 @@ Web
 Hilfe
 --------
 
-![Hilfemenü](img/M_Help-DE.jpg "Hilfemenü")
+![Hilfemenü](DE-Editor_Hilfe.jpg "Hilfemenü")
 
 | Name | Beschreibung |
 | ---- | ----------- |

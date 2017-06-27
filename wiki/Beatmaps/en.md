@@ -199,7 +199,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 -   Click on it to open osu!direct's beatmap listing.
 -   Pick your desired beatmaps (there is no download limit) and download.
     -   Only two simultaneous download can be done at a time.
--   You can do anything other than exiting osu! or disconnecting from the Internet while waiting for the download to complete.
+-   You can do anything other than exiting osu! or disconnecting the Internet while waiting for the download to complete.
 -   When completed, the beatmaps will be in "Downloads" folder and will be moved to "Songs" folder automatically to be extracted when you enter the Song Selection or clicking "F5" (Refresh key).
 
 The beatmap is corrupted! What should I do?

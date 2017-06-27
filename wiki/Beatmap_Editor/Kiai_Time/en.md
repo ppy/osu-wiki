@@ -1,9 +1,9 @@
 Kiai Time
 ==========
 
-![Stars shower the screen indicating Kiai Time has started.](img/Kiai_Time_test.jpg "Stars shower the screen indicating Kiai Time has started.")
+![Stars shower the screen indicating Kiai Time has started.](Kiai_Time.jpg "Stars shower the screen indicating Kiai Time has started.")
 
-![Kiai Time shows in the upper-left of the screen when active during edit mode.](img/Kiai_Time_edit.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
+![Kiai Time shows in the upper-left of the screen when active during edit mode.](Kiai_Time_Edit_Mode.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
 
 **Kiai Time** is defined by the [mapper](/wiki/Glossary) on a [beatmap](/wiki/Beatmaps) between 2 [Timing Sections](/wiki/Beatmap_Editor/Timing). You can recognize a Kiai time because the screen flashes and you will see a star fountain, afterwards all [Hit Objects](/wiki/Hit_Objects) will flash at the rhythm of the [main beat](/wiki/Beatmap_Editor/Timing) and stars will explode from the cursor when a [Hit Circle](/wiki/Hit_Objects) is hit or will fall from the cursor when you follow a [slider](/wiki/Hit_Objects) or a [spinner](/wiki/Hit_Objects).
 
