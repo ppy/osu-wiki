@@ -28,9 +28,9 @@
 
 ## 比赛主办团队
 
-[CN]: /wiki/shared/flag/Cn.gif "China"
-[UK]: /wiki/shared/flag/Gb.gif "Great Britain"
-[TW]: /wiki/shared/flag/Tw.gif "Taiwan"
+[CN]: /wiki/shared/flag/CN.gif "China"
+[UK]: /wiki/shared/flag/GB.gif "Great Britain"
+[TW]: /wiki/shared/flag/TW.gif "Taiwan"
 
 | 团队 | 人员 |
 | ---: | :--- |
@@ -54,13 +54,13 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 ### 小组赛
 
 6月30日，星期五  
-![30/6](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/6.30.png)
+![30/6](https://user-images.githubusercontent.com/28429414/27581330-6a722f3c-5afb-11e7-98c9-a975262bad35.png)
 
 7月1日，星期六  
-![1/7](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/7.1.png)
+![1/7](https://user-images.githubusercontent.com/28429414/27581331-6ce9b758-5afb-11e7-8128-226259848e90.png)
 
 7月2日，星期日  
-![2/7](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/7.2.png)
+![2/7](https://user-images.githubusercontent.com/28429414/27581090-9b352f3a-5afa-11e7-9532-a7c71379f993.png)
 
 ## 比赛图池
 
@@ -123,7 +123,7 @@ TB:
 
 ### 资格赛
 
-![score](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%88%86%E6%95%B0.png)  
+![score](https://user-images.githubusercontent.com/28429414/27581337-6f741fc2-5afb-11e7-80c1-6b6dbc4504e4.png)  
 
 ## 规则
 
