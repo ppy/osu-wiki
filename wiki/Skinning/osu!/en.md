@@ -7,7 +7,7 @@ Default numbers
 Numbers inside of the Hitcircles.
 A path to the images can be set inside the skin.ini using the `HitCirclePrefix` command.
 
-#### default-X.png
+``default-X.png`` where X is a number 0 to 9
 
 ![default-0.png](fs/default-0.png "default-0.png")
 ![default-1.png](fs/default-1.png "default-1.png")
@@ -30,7 +30,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 
 ## Hitcircle
 
-### approachcircle.png
+``approachcircle.png``
 
 ![](fs/approachcircle.png)
 
@@ -44,7 +44,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 - this element shrinks over time
 - this is the visual cue that can help a player know when to tap the hitobject
 
-### hitcircle.png
+``hitcircle.png``
 
 ![](fs/hitcircle.png)
 
@@ -54,7 +54,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 
 1. this element is tinted with the combo colours
 
-### hitcircleoverlay.png
+``hitcircleoverlay.png``
 
 ![](fs/hitcircleoverlay.png)
 
@@ -70,7 +70,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 - this can either overlay or underlay the combo number, by default this will always overlay
   - to make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`
 
-### hitcircleselect.png
+``hitcircleselect.png``
 
 ![](fs/hitcircleselect.png)
 
@@ -81,7 +81,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 - used only in the editor
 - this is the highlight for hitcircles and sliders
 
-### followpoint.png
+``followpoint.png``
 
 ![](fs/followpoint.png)
 
@@ -92,7 +92,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 - the arrow should point towards the RIGHT
 - this stays on the screen for 1.2 seconds (1200ms)
 
-### lighting.png
+``lighting.png``
 
 ![](fs/lighting.png)
 
@@ -112,7 +112,7 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 
 ## Slider
 
-### sliderstartcircle.png
+``sliderstartcircle.png``
 
 _(transparent; not included)_
 
