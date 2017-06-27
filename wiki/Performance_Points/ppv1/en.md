@@ -14,36 +14,36 @@ This system was initially updated at regular intervals, usually every 24 hours, 
 ppv1 was abandoned and replaced by **ppv2** on January 27 2014.
 The reasons behind that change were the criticism of the players:
 
-* missing opacity of the algorithm
-* promotion of ``Hard`` difficulties with mods
-* low worth of insane difficulties
+* Missing opacity of the algorithm
+* Promotion of ``Hard`` difficulties with mods
+* Low worth of insane difficulties
 
 It also allowed peppy to seperate the job of maintaining and updating the filing system to and thus ease its workload.
 
 Algorithm
 ----------
 
-The calculations involved were not publicly known, however some indications on the inner workings of the system were disclosed:
+The calculations involved are not publicly known, however some indications on the inner workings of the system were disclosed:
 
-- Highlights the skill and can not be farmed.
-- The score by map is evaluated in relation to the difficulty of the map, based on statistics that are not available to the public.
-- The number of points obtainable naturally decreases with time (thus, an inactive player for one year will lose up to half of his points).
-- No penalties awarded for bad scores, only rewards for good scores.
-- All maps *ranked* and *approved* are taken into account in the calculations
-- The percentage accuracy is taken into account.
-- The multipliers of the mods are different from those announced in the game and want to be more just.
-- For modes of play other than osu !, difficulties specific to modes are favored.
-- If a score is not placed in the top 500 of a map, it is not counted.
+- ppv1 highlights the skill and can not be farmed.
+- The score is evaluated in relation to the difficulty of the map, based on statistics that were not available to the public.
+- The number of points obtainable naturally decreases with time (thus, inactive players may loose up to half of his points within a year).
+- No penalties for bad scores, only rewards for good scores.
+- All *ranked* and *approved* maps are taken into account in the calculations.
+- The accuracy is taken into account.
+- The multipliers of mods are different from those announced in the game.
+- Mode specific difficulties are favored.
+- If a score is not placed in the top 500 of a map, it will not count.
 
-Climb the rankings
+Climbing the rankings
 ----------
 
-Your ranking is mainly related to your performance on individual maps. The easiest way to improve is to improve your ranking on difficult maps.
+The ranking is mainly related to the performance on individual maps. The easiest way to improve is to improve the ranking on difficult maps.
 
-- Play better, score better on the beatmaps,
-- Make sure to get some very good scores rather than thousands of mediocre scores,
-- Improve your accuracy. Even a small percent can make all the difference!
-- Rank on the most popular maps, where it is harder to get a place.
-- Play difficult maps.
-- Improve your old records.
-- Get SS grades.
+- Playing better and scoring better grades on the beatmaps.
+- Making sure to get some very good scores rather than thousands of mediocre scores.
+- Improving the accuracy. Even a small percent can make the difference.
+- Getting a rank on the most popular maps, where it is harder to get a place.
+- Playing difficult maps.
+- Improving old scores.
+- Geting SS grades.
