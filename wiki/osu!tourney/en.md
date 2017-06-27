@@ -165,6 +165,7 @@ Any properties enclosed with brackets `[]` are optional.
 
 Unprivileged commands:
 
+Only the original host of a room will be able to use unpriviliged commands in that room. If the original host leaves, the next host will not inherit the commands. If the original host rejoins the room, they will again be able to use the commands.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
 - `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
@@ -334,7 +335,7 @@ If the client is still not spectating, click the `Panic` button.
 
 It is possible that your multiplayer room is named incorrectly or you used the wrong acronym in `tournament.cfg`.
 Make sure you are using the correct room name (see the **Match Creation** section), renaming an existing multiplayer room will not work.
-If the above doesn't work, recreate the room while following the **Match Creation**0 section of this guide closely.
+If the above doesn't work, recreate the room while following the **Match Creation** section of this guide closely.
 
 Email tournaments@ppy.sh if you require further assistance.
 
