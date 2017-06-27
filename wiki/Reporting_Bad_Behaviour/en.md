@@ -7,19 +7,19 @@ The report system is an important feature to inform the moderators about misbeha
 
 It is not only limited to in game chat but also in other places such as the forum and wiki itself.
 
-How to report someone?
+How to report someone
 ----------------------
 
-### Using the !report command ingame
+### Using the !report command in-game
 
 Usage:
 `!report username [reason]`
 
-Parameters in **<** and **>** are optional.
+Parameters in **[** and **]** are optional.
 
-If the user has a space at their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
+If the user has a space in their username, it must be  replaced with an underscore ``_`` because the osu! ingame chat is based on [IRC](IRC wiki/Internet_Relay_Chat).
 
-``This User is spamming in #channel`` turns to ``This_User is spamming in #channel``
+``!report This User is spamming in #osu`` turns to ``!report This_User is spamming in #osu``
 
 Reports are not case-sensitive so it is okay to use lowercase letters like ``this_user``.
 
@@ -39,14 +39,14 @@ Reporting the user by this way only needs a type of reason and the�
 
 This also works the same as the report button ingame.
 
-Remember to add details to your report (like translations) at the comments.
+Remember to add details to your report at the comments.
 
 ![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
 
 
 ### Using the report link at the record of a user at beatmap listing
 
-This should only be used when cheating users are reported.
+This should only be used when reporting cheating users.
 
 ![Pressing this link will report that score.](img/Report-user-beatmap.png "Pressing this link will report that score.")
 
@@ -55,23 +55,23 @@ This should only be used when cheating users are reported.
 Examples what to report
 -----------------------
 
-* **Spamming or flooding in chat.**
+### Spamming or flooding in chat.
 
  Using a broken keyboard is not an excuse!
 
-* **Excessive use of uppercase letters.**
+### Excessive use of uppercase letters.
 
  This has been considered as shouting and annoying.
 
-* **Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable).**
+### Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable).
 
  Moderators immediately silence for this, removing the content without warning.
 
-* **Posting of unwanted contents such as advertisements, screamers and referrals.**
+### Posting of unwanted contents such as advertisements, screamers and referrals.
 
  Take note that spamming streaming links are applied to this rule.
 
-* **Offensive behavior towards other players.**
+### Offensive behavior towards other players.
 
  Telling people to kill themselves is not a good thing to say.
 
@@ -86,7 +86,7 @@ Frequently Asked Questions
  Obviously, no, unless you typed the command prefix wrong. Make sure you type an exclamation mark first!
 
 
-* **I accidentally reported a user! Will I get an infringement?**
+* **I accidentally reported a user! Will I get an punishment?**
 
  No. Do not worry about it, we can ignore false reports unless abused.
 
