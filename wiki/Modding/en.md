@@ -162,7 +162,7 @@ The artist name, title of the song, source (if applicable), and tags should all 
 Here are some other things to look out for in the song setup:
 
 - The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
-- The combo colours should be the same on the same background of each a mapset.
+- The combo colours should be the same for each background per difficulty in a mapset.
   Guest mappers are an exception, but generally: difficulties by the same person and with the same background should use the same combo colours.
 - Maps with widescreen storyboards should have the setting `Widescreen Support` (in `Design` tab) enabled to avoid being cut off in 16:9 resolutions.
 - Maps with storyboards that can cause epilepsy (frequent strobes over 3Hz or one-third of a second) have to enable `Display epilepsy warning (storyboard has quick strobing)` (in `Design` tab).
