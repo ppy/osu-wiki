@@ -1,27 +1,25 @@
-[true]: /wiki/shared/True.png
-[false]: /wiki/shared/False.png
+Skinning osu!
+============
 
-# Skinning osu!
+Default numbers
+------------
 
-## Default numbers
+Numbers inside of the Hitcircles.
+A path to the images can be set inside the skin.ini using the `HitCirclePrefix` command.
 
-This may sound ambiguous/confusing, but this really is just the numbers used for the hitobjects.
+#### default-X.png
 
-On this note, you can use the skin.ini file to define the path for these images using the `HitCirclePrefix` command.
+![default-0.png](fs/default-0.png "default-0.png")
+![default-1.png](fs/default-1.png "default-1.png")
+![default-2.png](fs/default-2.png "default-2.png")
+![default-3.png](fs/default-3.png "default-3.png")
+![default-4.png](fs/default-4.png "default-4.png")
 
-### default-0.png
-
-![](fs/default-0.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-1.png
-
-![](fs/default-1.png)
+![default-5.png](fs/default-5.png "default-5.png")
+![default-6.png](fs/default-6.png "default-6.png")
+![default-7.png](fs/default-7.png "default-7.png")
+![default-8.png](fs/default-8.png "default-8.png")
+![default-9.png](fs/default-9.png "default-9.png")
 
 | Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
 |:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
@@ -29,85 +27,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 
 - scaled down by 0.8x
 
-### default-2.png
 
-![](fs/default-2.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-3.png
-
-![](fs/default-3.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-4.png
-
-![](fs/default-4.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-5.png
-
-![](fs/default-5.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-6.png
-
-![](fs/default-6.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-7.png
-
-![](fs/default-7.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-8.png
-
-![](fs/default-8.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-9.png
-
-![](fs/default-9.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
 
 ## Hitcircle
 
