@@ -1,3 +1,6 @@
+Registrierung
+===========
+
 Wie registriere ich mich bei osu! ?
 -----------------------------------
 
