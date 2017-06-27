@@ -19,7 +19,7 @@ Interface skinning elements are used in multiple game modes or parts of the osu!
 
 - [osu!supporter](/wiki/osu!supporter) required
 - This element is used as the playfield if map does not have a background.
-- This element could use the `.jpg` format.
+- This element may use the `.jpg` format.
 
 ---
 
@@ -46,7 +46,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 - If not skinned, the current game mode's small icon will be used instead.
 - Togglable in the [options](/wiki/options).
-  - This option could be turned on (forcibly) during the winter.
+  - This option may forcibly turned on during winter.
 
 ## Cursor
 
@@ -58,10 +58,10 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 **Notes:**
 
-- By default, this element will rotate and expand (on click).
+- By default, this element will rotate and expand on click.
 - [skin.ini](/wiki/skin.ini) commands:
-  - To disable cursor expand (on click), set `CursorExpand` to `0`.
-  - To disable cursor rotate, set `CursorRotate` to `0`.
+  - To disable cursor expansion on click, set `CursorExpand` to `0`.
+  - To disable cursor rotation, set `CursorRotate` to `0`.
 
 ---
 
