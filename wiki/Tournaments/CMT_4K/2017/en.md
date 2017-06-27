@@ -53,13 +53,13 @@ Update after group stage starts.
 
 ### Group Stage
 
-Friday, 30 June 2017  
+Friday, 30. June 2017  
 ![30/6](https://user-images.githubusercontent.com/28429414/27581330-6a722f3c-5afb-11e7-98c9-a975262bad35.png)
 
-Saturday, 1 July 2017  
+Saturday, 1. July 2017  
 ![1/7](https://user-images.githubusercontent.com/28429414/27581331-6ce9b758-5afb-11e7-8128-226259848e90.png)
 
-Sunday, 2 July 2017  
+Sunday, 2. July 2017  
 ![2/7](https://user-images.githubusercontent.com/28429414/27581090-9b352f3a-5afa-11e7-9532-a7c71379f993.png)
 
 ## Mappools
