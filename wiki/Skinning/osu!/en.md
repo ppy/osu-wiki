@@ -14,7 +14,6 @@ A path to the images can be set inside the skin.ini using the `HitCirclePrefix` 
 ![default-2.png](fs/default-2.png "default-2.png")
 ![default-3.png](fs/default-3.png "default-3.png")
 ![default-4.png](fs/default-4.png "default-4.png")
-
 ![default-5.png](fs/default-5.png "default-5.png")
 ![default-6.png](fs/default-6.png "default-6.png")
 ![default-7.png](fs/default-7.png "default-7.png")
