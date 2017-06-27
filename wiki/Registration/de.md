@@ -3,9 +3,9 @@ Wie registriere ich mich bei osu! ?
 
 Die Registierung in osu! ist so einfach, wie das eins, zwei, drei! Befolge bitte die unten genannten Schritte.
 
-Wenn du dich innerhalb von 24 Stunden nicht im Spiel angemeldet bist, werden deine Accountdaten gelöscht und als nichtig erklärt.
+Wenn du dich innerhalb von 24 Stunden nicht im Spiel angemeldet bihastst, werden deine Accountdaten gelöscht und als nichtig erklärt.
 
-**Jeder Spieler darf nur einen Account besitzen! Das Erstellen von mehreren Account für sich selber ist verboten!**
+**Jeder Spieler darf nur einen Account besitzen! Das Erstellen von mehreren Accounts für sich selber ist verboten!**
 
 ### Schritt 1:
 
