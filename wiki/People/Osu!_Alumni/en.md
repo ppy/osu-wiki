@@ -1,9 +1,10 @@
 osu! Alumni
-=============
+===========
 
-The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square. [Link](http://osu.ppy.sh/g/16)
+The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square.
+Link to [user group page](https://osu.ppy.sh/g/16)
 
-| Name | Epitaph |
+| Name  | Epitaph |
 | ----- | ------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Chat Moderator |

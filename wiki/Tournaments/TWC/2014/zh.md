@@ -3,7 +3,7 @@ osu! Taiko World Cup 2014
 
 ![TWC 2014 logo](logo.png)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](//osu.ppy.sh/g/26) 举办的[太鼓模式](/wiki/Game_Modes/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![](/wiki/shared/flag/Tw.gif) 台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/g/26) 举办的[太鼓模式](/wiki/Game_Modes/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![][flag_TW] 台湾**。
 
 比赛流程
 ------------
@@ -32,18 +32,18 @@ osu! Taiko World Cup 2014
 
 | Job    | Person(s)                                                                                                                                                                                                                                                                                     |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理   | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703)                                                                                                                                                                  |
-| 比赛地图选择 | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
-| 比赛直播旁述 | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Nz.gif) [deadbeat](//osu.ppy.sh/u/128370) // ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128) // ![](/wiki/shared/flag/Us.gif) ztrot // ![](/wiki/shared/flag/No.gif) Dolphin |
-| 赛果统计   | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
+| 赛事管理   | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703)                                                                                                                                                                  |
+| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                                                                                                                           |
+| 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/u/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
+| 赛果统计   | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                                                                                                                |
 
 ------------------------------------------------------------------------
 
 相关鏈接
 ----------
 
--   [讨论串](//osu.ppy.sh/forum/t/179127)
--   [直播 (Twitch)](//www.twitch.tv/osulive/)
+-   [讨论串](https://osu.ppy.sh/forum/t/179127)
+-   [直播 (Twitch)](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -82,8 +82,8 @@ osu! Taiko World Cup 2014
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](//docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
+    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
     -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 
 4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -165,3 +165,11 @@ osu! Taiko World Cup 2014
 3.  All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif

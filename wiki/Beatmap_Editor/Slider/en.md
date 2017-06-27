@@ -1,7 +1,7 @@
 Slider
 ========
 
-![An example of two sliders (aqua-colored)](Sliderjump01.png "An example of two sliders (aqua-colored)")
+![An example of two sliders (aqua-colored)](Sliderjump01.jpg "An example of two sliders (aqua-colored)")
 
 A slider is a [Hit Object](/wiki/Hit_Objects) used frequently in osu!.
 
@@ -20,7 +20,7 @@ When you're done with your slider, simply right click anywhere on the grid.
 
 You are free to move/add/remove slider control points after the slider is finished. You can remove control points by right clicking them after the slider has been selected, or add a control point by holding control and clicking anywhere on the slider lines (double click or control+click a slider point to make a red control point). Adding slider repeats is as simple as clicking your slider on the timeline and holding and dragging the end through the timeline to create/remove slider repeats.
 
-Here's a guide on making sliders: [Delicious Sliders Guide](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=37194)
+Here's a guide on making sliders: [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
 
 Inserting hitsounds into sliders
 --------------------------------
@@ -32,7 +32,7 @@ Slider Speed
 
 A **slider's speed** defines how much time it takes to travel a given distance--or equivalently, how far the slider travels in a given time.
 
-Slider speed is measured in *hundreds of [osupixels](osupixel) per beat,* so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
+Slider speed is measured in *hundreds of [osupixels](/wiki/Glossary/#osupixel) per beat,* so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
 
 Slider speed can be assigned from the Timing tab from the editor main window. You can also assign a multiplier to this speed value by adding an inheriting [timing section](/wiki/Beatmap_Editor/Timing).
 

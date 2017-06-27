@@ -1,3 +1,6 @@
+Se faire modder sa map
+==========================
+
 Si vous souhaitez que votre map soit [classée](/wiki/Modding_Guides/How_To_Get_Your_Map_Ranked), vous devrez vous la faire [modder](/wiki/Modding). Il y a plusieurs moyens d'y arriver.
 
 \#modreqs
@@ -7,9 +10,9 @@ Si vous souhaitez que votre map soit [classée](/wiki/Modding_Guides/How_To_Get_
 
 Bancho garde une trace des 20 plus récentes requêtes pour permettre aux moddeurs potentiels de les trouver facilement. Les commandes suivantes peuvent les aider :
 
--   La commande **!request**, qui envoie un MP de BanchoBot avec le lien aléatoire d'une map.
--   La commande **!request list**, qui envoie un MP de BanchoBot avec les 5 dernières requêtes envoyées et un lien pour en avoir plus.
--   La [liste des 20 dernières requêtes](http://osu.ppy.sh/p/beatmaplist&r=8) sur le site web, qui affiche les 20 dernières requêtes et quelques autres données.
+-   La commande `!request`, qui envoie un MP de BanchoBot avec le lien aléatoire d'une map.
+-   La commande `!request list`, qui envoie un MP de BanchoBot avec les 5 dernières requêtes envoyées et un lien pour en avoir plus.
+-   La [liste des 20 dernières requêtes](https://osu.ppy.sh/p/beatmaplist&r=8) sur le site web, qui affiche les 20 dernières requêtes et quelques autres données.
 
 Notez que si vous postez plus d'une map sur le channel en peu de temps, Bancho les ignorera.
 

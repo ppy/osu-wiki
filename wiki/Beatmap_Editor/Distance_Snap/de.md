@@ -1,7 +1,7 @@
 Distance Snap (Deutsch)
 =========================
 
-![Beispiel](Beatspacing.jpg "Beispiel")
+![Beispiel](img/Beatspacing.jpg "Beispiel")
 
 Der einfachste Weg, um sicherzustellen, dass der Abstand der Beats korrekt ist, ist die Distance Snap Funktion im Editor zu benutzen, welches Sie auf der rechten Seite finden können. Der jeweilige Abstand zwischen zweier Hit Objekten lässt sich durch das Gedrückt Halten der ALT-Taste und das Drehen des Mausrades ändern. Dadurch soll gewährleistet werden, dass Beats, die in der Timeline nah aneinander sind, auch auf der Beatmap nah aneinander und andersherum. Dies hilft beim intuitiven Spielen, sowie guten Beat-Abständen. Korrekte Beat-Abstände sind garantiert, wenn Sie im ganzen Lied den Distance Snap durchgehend verwenden!
 

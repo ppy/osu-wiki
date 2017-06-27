@@ -1,10 +1,10 @@
-Beatmap Editor/Menu
-====================
+Menu
+====
 
 File
 ------
 
-![File menu](M_File.jpg "File menu")
+![File menu](img/M_File.jpg "File menu")
 
 **Basic File commands.**
 
@@ -35,7 +35,7 @@ File
 
 | Name | Description |
 | ---- | ----------- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](http://osu.ppy.sh/forum/10). Requires osu!account logged in to the website to view "Beatmaps" forum. |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account logged in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
 | Extract Map Package | ? |
 | Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
@@ -57,7 +57,7 @@ File
 Edit
 -----
 
-![Edit menu](M_Edit.jpg "Edit menu")
+![Edit menu](img/M_Edit.jpg "Edit menu")
 
 Edit commands. Same as default MS shortcuts.
 
@@ -117,7 +117,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 View
 --------
 
-![View menu](M_View.jpg "View menu")
+![View menu](img/M_View.jpg "View menu")
 
 Places of interest.
 
@@ -153,7 +153,7 @@ Places of interest.
 Compose
 --------
 
-![Compose menu](M_Compose.jpg "Compose menu")
+![Compose menu](img/M_Compose.jpg "Compose menu")
 
 ***Main page: [Compose](/wiki/Beatmap_Editor/Compose)***
 
@@ -177,7 +177,7 @@ Compose
 Design
 -------
 
-![Design menu](M_Design.jpg "Design menu")
+![Design menu](img/M_Design.jpg "Design menu")
 
 ***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
@@ -188,7 +188,7 @@ Design
 Timing
 -------
 
-![Timing menu](M_Timing.jpg "Timing menu")
+![Timing menu](img/M_Timing.jpg "Timing menu")
 
 ***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
@@ -235,7 +235,7 @@ Timing
 Web
 ------
 
-![Web menu](M_Web.jpg "Web menu")
+![Web menu](img/M_Web.jpg "Web menu")
 
 Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
 
@@ -248,7 +248,7 @@ Opens your browser. Mainly send you to the beatmap's thread (requires log-in to 
 Help
 -----
 
-![Help menu](M_Help.jpg "Help menu")
+![Help menu](img/M_Help.jpg "Help menu")
 
 | Name | Description |
 | ---- | ----------- |

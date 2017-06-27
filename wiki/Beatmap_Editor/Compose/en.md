@@ -1,9 +1,9 @@
 Compose
 ==========
 
-![Compose editor for osu! in Windowed mode](Compose.png "Compose editor for osu! in Windowed mode")
+![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 
-![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](ComposeM.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
+![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
 
 **Compose** is the place where a [mapper](/wiki/Glossary) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
 
@@ -18,6 +18,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
 ### Top-Left (Hit Objects Timeline)
 
+<!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
 **Shows the timeline for hitobjects with respect to Beat Snap Divisor and timestamp.**
@@ -32,7 +33,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
 ### Top-Right (Beat Snap Divisor)
 
-![Beat Snap Divisor](BE_BSD.jpg "Beat Snap Divisor")
+![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
 
 **In layman's's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).**
 
@@ -88,20 +89,20 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 ### Centre-Left (Selector)
 
-![Hit Notes Selector](BE_HO.jpg "Hit Notes Selector")
+![Hit Notes Selector](img/BE_HO.jpg "Hit Notes Selector")
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
 **Please note that in osu!standard's default notes hit sounds works differently in osu!mania**
 
-- adding clap on a notes will play 'hitclap' **+ hitnormal** sound on hit while in osu!mania : will only play 'hitclap' sound on hit
+- adding clap on a notes will play 'hitclap' **+ hitnormal** sound on hit while in osu!mania: will only play 'hitclap' sound on hit
 
 #### Selector
 
 | Buttons / Header (Keyboard Shortcut) | Usage | Description |
 | ------------------------------------ | ----- | ----------- |
-| Sampleset | Auto, Normal, Soft, Drum | This ignore the timing section's Sampleset setting , and add the selected one.... Ex : Timing point with **soft 77%**, While this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
-| Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... Ex : Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
+| Sampleset | Auto, Normal, Soft, Drum | This ignore the timing section's Sampleset setting , and add the selected one... e.g. Timing point with **soft 77%**, While this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
+| Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
 | Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
 | Circle (`2`) | **Left/Right-click:** Add/Remove hit circle. | Hit Circle. |
 | Slider (`3`) | **Left/Right-click:** Start/End Slider. Add/Remove sliderpoints (white square). **Left-Click x2:** New curve section (red square). | Slider. |
@@ -115,7 +116,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **List of available subtools complement to the original DIY toolkit.**
 
-![Hit Sounds & Assist Tools](BE_HSAT.jpg "Hit Sounds & Assist Tools")
+![Hit Sounds & Assist Tools](img/BE_HSAT.jpg "Hit Sounds & Assist Tools")
 
 | Button (Keyboard Shortcut) | Usage | Description |
 | -------------------------- | ----- | ----------- |
@@ -139,7 +140,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 ### Bottom (Song's Timeline)
 
-![Song's Timeline](BE_HSAT.jpg "Song's Timeline")
+![Song's Timeline](img/BE_HSAT.jpg "Song's Timeline")
 
 At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
@@ -181,7 +182,7 @@ Features (osu!mania)
 
 ### Top-Right (Beat Snap Divisor)
 
-![Beat Snap Divisor (osu!mania ver.)](BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
+![Beat Snap Divisor (osu!mania ver.)](img/BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
 
 ***Main Article: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
@@ -197,7 +198,7 @@ Features (osu!mania)
 
 - adding clap on a notes will only play 'hitclap' sound instead of 'hitclap' *' + hitnormal*' sound on hit while in osu!mania :
 
-![Hit Notes Selector (osu!mania ver.)](BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
+![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
 
 
 #### Selector
@@ -266,7 +267,7 @@ Features (osu!mania)
 
 ### Centre-Right (Hit Sounds & Assist Tools)
 
-![Hit Sounds & Assist Tools](BE_HSAT.jpg "Hit Sounds & Assist Tools")
+![Hit Sounds & Assist Tools](img/BE_HSAT.jpg "Hit Sounds & Assist Tools")
 
 **List of available subtools complement to the toolkit.**
 
@@ -313,7 +314,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 
 ### Sampling
 
-![Sample pop-up window (Windows 8's ver.)](Sample_omc.jpg "Sample pop-up window (Windows 8's ver.)")
+![Sample pop-up window (Windows 8's ver.)](img/Sample_omc.jpg "Sample pop-up window (Windows 8's ver.)")
 
 **Sampling** is a process of **adding sound to the note.** To begin, select the note and **`Alt` + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder).
 

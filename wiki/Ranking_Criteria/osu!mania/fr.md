@@ -1,5 +1,8 @@
+Critères de Ranking osu!mania
+=============================
+
 Lexique et termes mania
-=======================
+-------------------------
 
 -   Non-expert = Easy, Normal. (Basic, Standard) = Facile, Normal.
 -   Expert = Hard, Insane. (Hyper, Another) = Difficile, Extrême.
@@ -9,12 +12,11 @@ Lexique et termes mania
 -   Pattern = Terme désignant un ensemble, une suite de notes qui tombent dans un certain ordre. Certains patterns ont des noms (Jackhammer, Chords, Runningmen, Streams, etc...) tandis que d'autres sont constitués de plusieurs autres patterns plus petits. Plus d'informations [vers le bas du premier post](https://osu.ppy.sh/forum/t/146615).
 
 Règles
-======
+---------
 
 Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circonstances. Notez bien que **ce ne sont pas des conseils**, mais des **pré-requis** si vous tenez à ce que votre beatmap soit ranked.
 
-Général
--------
+### Général
 
 -   '''osu!topus (mod Auto) doit obtenir un score total de 1,000,000 de points dans toutes les difficultés.
 -   **Vous ne devez en aucun cas laisser une colonne vide.**
@@ -23,7 +25,7 @@ Général
 
 Par exemple (imaginons que les exemples énoncées sont situés dans une mesure de 4 temps) :
 
-| <u>Note 1:</u>           | <u>Note 2:</u>           | O/N | Raison                                                                                                                                                                                                        |
+| Note 1:           | Note 2:           | O/N | Raison                                                                                                                                                                                                        |
 |--------------------------|--------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1er temps - **2e temps** | **2e temps** - 3e temps  | Non | Demande un temps de réaction extrêmement rapide afin d'appuyer sur la seconde note après avoir relâché la première car la fin de la 1ere note se situe au même endroit que le début de la seconde (2e temps). |
 | **1er temps** - 3e temps | **1er temps - 2e temps** | Non | Il y a un Hold dans un Hold.                                                                                                                                                                                  |
@@ -33,8 +35,7 @@ Par exemple (imaginons que les exemples énoncées sont situés dans une mesure 
 
 -   **Il est recommendé de désactiver l'option *letterbox* dans l'onglet Design de la map.**
 
-Echelle de difficulté
----------------------
+### Echelle de difficulté
 
 -   **Chaque mapset doit comprendre au moins deux difficultés et l'une d'elle doit être Easy ou Normal.**
 -   **Le nombre de colonnes de la difficulté maximale de votre mapset ne doit pas être inférieur au nombre de colonnes présent dans les difficultés plus simples.**
@@ -53,16 +54,14 @@ Par exemple (4K étant le nombre de colonnes inférieur et 7K le nombre de colon
 
 7K Easy + 7K Normal + 7K Hard + 7K Insane: Accepté
 
-Timing
-------
+### Timing
 
 -   **Vous ne pouvez pas utiliser les *uninherited timing sections* quand la chanson ne possède pas de BPM variable.** En d'autres termes, vous n'êtes pas autorisé les *uninherited timing sections* afin de ralentir ou d'accélérer progressivement la vitesse de défilement des notes. Utilisez plutôt les *inherited timing sections* et les *SV changes*.
 
 Patterns
-========
+----------
 
-Jackhammers
------------
+### Jackhammers
 
 Ce pattern est constitué d'une suite très rapide de notes placées sur une colonne. Il ressemble à ça :
 
@@ -76,13 +75,13 @@ Ce pattern est constitué d'une suite très rapide de notes placées sur une col
 
 Ceci est appelé un jackhammer. Vous devez littéralement presser de façon rapide et frénétique votre clavier en vibrant le poignet ou le bras pour jouer. Cela peut rendre la map très difficile. Il est également possible d'éprouver certaines douleurs après un effort prolongé.
 
-Voici un exemple comportant des jackhammers : [MENDES Black Another](http://www.youtube.com/watch?v=qqkWIWbO14c).
+Voici un exemple comportant des jackhammers : [MENDES Black Another](https://www.youtube.com/watch?v=qqkWIWbO14c).
 
 -   **Pour les difficultés non-expert, vous pouvez utiliser des jackhammers *seulement si* le BPM est inférieur à 150 et *si* ils correspondent à la musique.** Par exemple, dans des musiques de dubstep ou autre genre à rythme frénétique.
 -   **Pour les difficultés expert, vous pouvez utiliser les jackhammers sans limite de BPM tant que les jackhammers respectent le rythme.**
 
 Conseils
-========
+---------
 
 Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
 

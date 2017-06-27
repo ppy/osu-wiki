@@ -3,7 +3,7 @@ Tempo
 
 ***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
 
-![Menú de timing](Timing_base.jpg "Menú de timing")
+![Menú de timing](img/Timing_base.jpg "Menú de timing")
 
  El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
 
@@ -30,7 +30,7 @@ Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM c
 Secciones de Timing
 -------------------
 
-![La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.](TimingSetup.png "La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.")
+![La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.](img/TimingSetup.jpg "La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.")
 
 Las secciones de timing te permiten variar el timing en la canción. Existen dos tipos de secciones de timing, una sección de timing regular y una sección de timing heredada.
 

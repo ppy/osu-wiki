@@ -3,7 +3,7 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](//osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![](/wiki/shared/flag/Jp.gif) Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/g/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![][flag_JP] Япония**.
 
 Расписание
 -----------------
@@ -33,11 +33,11 @@ osu! Taiko World Cup 2015
 
 | Job          | Person                                                                                                                                                                                        |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Организаторы | ![](/wiki/shared/flag/De.gif) [Loctav](//osu.ppy.sh/u/71366) // ![](/wiki/shared/flag/De.gif) [p3n](//osu.ppy.sh/u/123703) // ![](/wiki/shared/flag/Es.gif) [Deif](//osu.ppy.sh/u/318565)  |
-| Подбор карт  | ![](/wiki/shared/flag/De.gif) [OnosakiHito](//osu.ppy.sh/u/290128)                                                                                                                           |
-| Стримеры     | ![](/wiki/shared/flag/Au.gif) [peppy](//osu.ppy.sh/u/2) // ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665) // ![](/wiki/shared/flag/Fr.gif) [shARPII](//osu.ppy.sh/u/776257) |
-| Комментаторы | ![](/wiki/shared/flag/Fr.gif) [Mr Color](//osu.ppy.sh/u/116078) // ![](/wiki/shared/flag/Us.gif) [ztrot](//osu.ppy.sh/u/6347)                                                               |
-| Статистик    | ![](/wiki/shared/flag/Pl.gif) [Marcin](//osu.ppy.sh/u/722665)                                                                                                                                |
+| Организаторы | ![][flag_DE] [Loctav](https://osu.ppy.sh/u/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/u/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/u/318565)  |
+| Подбор карт  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/u/290128)                                                                                                                           |
+| Стримеры     | ![][flag_AU] [peppy](https://osu.ppy.sh/u/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/u/776257) |
+| Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/u/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/u/6347)                                                               |
+| Статистик    | ![][flag_PL] [Marcin](https://osu.ppy.sh/u/722665)                                                                                                                                |
 
 ------------------------------------------------------------------------
 
@@ -49,8 +49,8 @@ osu! Taiko World Cup 2015
 Ссылки
 ----------
 
--   [Тема на форуме](//osu.ppy.sh/forum/t/279723)
--   [osu! Taiko World Cup 2015 на Twitch](//www.twitch.tv/osulive/)
+-   [Тема на форуме](https://osu.ppy.sh/forum/t/279723)
+-   [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ osu! Taiko World Cup 2015
         -   Ваш глобальный ранк в тайко должен быть выше \#8000.
         -   За вами не должно числиться нарушения [правил сообщества](/wiki/Rules) за последние 12 месяцев.
 
-3.  Для регистрации, [отправьте Локтаву сообщение](//osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком "TWC Registration".
+3.  Для регистрации, [отправьте Локтаву сообщение](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком "TWC Registration".
     1.  В сообщении укажите свой часовой пояс.
     2.  Если ваша заявка одобрена, вы получите подтверждение.
 
@@ -117,7 +117,7 @@ osu! Taiko World Cup 2015
     1.  В зависимости от количества команд, возможны изменения.
 
 5.  Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.com/Олимпийская_система_с_выбыванием_после_двух_поражений): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
-6.  Based on [this graphic](//puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Этап              | ID матча                |
 |-------------------|-------------------------|
@@ -176,3 +176,11 @@ osu! Taiko World Cup 2015
 3.  Матчи всех остальных этапов будут проводиться по субботам или воскресеньям.
 4.  За составление расписания отвечают менеджеры турнира. Расписания будут публиковаться в последнее воскресенье перед текущим этапом и по возможности будут составлены с учётом часовых поясов участников.
 5.  Капитаны ответственны за явку игроков. Если команда не сможет предоставить трёх игроков для участия в матче, ей будет засчитано техническое поражение.
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_US]: /wiki/shared/flag/US.gif

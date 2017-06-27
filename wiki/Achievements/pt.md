@@ -6,7 +6,7 @@ Conquistas
 Beatmap Packs
 --------------
 
-As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](http://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_Modes/osu!).
+As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_Modes/osu!).
 
 Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
@@ -20,7 +20,7 @@ Cada uma dessas seções possuem 4 volumes.
 ### Requerimentos e Observações sobre como conseguir conquistas de Beatmap Packs
 
 #### Requerimentos:
-- Jogar todos os beatmaps de um [Beatmap Pack Temático](http://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
+- Jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
 - O modo de jogo deve ser osu! [Standard](/wiki/Game_Modes/osu!). (Não confirmado para o modo Taiko)
 - Extraia o Pack Temático e arraste e solte todos os beatmaps (.osz) dentro da janela do osu!
   - Você pode baixar todos os beatmaps de um Beatmap Pack Temático manualmente que ainda irá contar.
@@ -30,7 +30,7 @@ Cada uma dessas seções possuem 4 volumes.
 
 #### Observações:
 - Depois que você obteve a conquista, você pode deletar as músicas do tema. Sua conquista, pontuação e accuracy permanecerão.
-- Se você se pergunta o porquê de não ter conseguido a conquista e acha que se esqueceu de alguma música, você pode sempre checar a [Listagem de Beatmap Packs](http://osu.ppy.sh/p/packlist?t=t). As músicas que você já completou estarão marcadas com um **CLEARED** em negrito.
+- Se você se pergunta o porquê de não ter conseguido a conquista e acha que se esqueceu de alguma música, você pode sempre checar a [Listagem de Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t). As músicas que você já completou estarão marcadas com um **CLEARED** em negrito.
 - A conquista é dada assim que você completar todos os beatmaps do tema em questão.
     - Seja paciente e tenha certeza de que sua pontuação foi submetida no ranking. Você não vai querer ter que jogar a mesma música de novo. Especialmente se ela for difícil para você, certo?
 - Faça bom uso do **Assistente de Offset** (encontra-se na aba de Áudio em Opções) já que as músicas são um pouco velhas e algumas notas podem vir atrasadas.
@@ -95,4 +95,4 @@ Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador
 Link
 ----
 
--   Gráficos de Conquista do peppy [1](http://osu.ppy.sh/forum/t/80448)
+-   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/forum/t/80448)
