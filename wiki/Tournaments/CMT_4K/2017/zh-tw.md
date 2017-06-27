@@ -51,20 +51,23 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比赛预告
 
-### 资格赛
+### 小組賽
 
-6月24日 15:00-20:00 (UTC+8)
-![6/24](https://user-images.githubusercontent.com/18349191/27418509-2baea9b6-574e-11e7-988b-99b4bcd90db4.png)
+6月30日，星期五  
+![30/6](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/6.30.png)
 
-6月25日 11:00-16:00 (UTC+8)
-![6/25](https://user-images.githubusercontent.com/18349191/27418526-478da5ba-574e-11e7-91ad-69416fa0d2fd.png)
+7月1日，星期六  
+![1/7](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/7.1.png)
+
+7月2日，星期日  
+![2/7](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/7.2.png)
 
 ## 比賽圖池
 
 ### 測試賽圖池
 
-[點此下載全部](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
-[Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
 [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
 [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
 [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278)  
@@ -91,7 +94,24 @@ TB:
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
 [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
+### 小組賽图池
 
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
+[Ryu* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
+[Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950)  
+[kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948)  
+[P*Light feat. mow*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
+[Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623)  
+[Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428)  
+[sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529)  
+[PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/b/947524)  
+[Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/b/556755)  
+[L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/b/994500)  
+[Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/b/1099508)  
+[w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/b/1324299)  
+
+TB:  
+[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/b/1192531)
 
 ## 比賽結果
 
@@ -100,6 +120,10 @@ TB:
 | 2017年6月18日 星期六 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | 元老隊 | 5 | 7 | 新銳隊 | [比賽記錄](https://osu.ppy.sh/community/matches/33910571) |
+
+### 資格賽
+
+![score](https://raw.githubusercontent.com/lzc731524299/documents/master/MobileFile/%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%88%86%E6%95%B0.png) 
 
 ## 規則
 
