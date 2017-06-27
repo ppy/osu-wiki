@@ -2,7 +2,7 @@
 
 **osu!tourney** is the official multi-spectator client used to view and stream an entire multiplayer match at once in _osu!_.
 
-Users encountering **problems** with the client may read the Troubleshooting section below or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**.
+Users encountering **problems** with the client may read the Troubleshooting section below or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## What is osu!tourney?
 
@@ -16,7 +16,7 @@ Keep in mind that in order to use osu!tourney, you must be part of the [Tourname
 
 ### Registering your tournament
 
-After you have organized your event, send an e-mail to `tournaments@ppy.sh` including:
+After you have organized your event, send an e-mail to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) including:
 
 1. The starting/ending dates of the tournament.
 2. Any publicly-accessibly links to follow the tournament.
@@ -285,7 +285,7 @@ All icons must be named exactly like the Team name.
 If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`.
 Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 
-**[Download the template.psd here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
+**[Download the skin template here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
 
 ### Prizes
 
@@ -337,7 +337,7 @@ It is possible that your multiplayer room is named incorrectly or you used the w
 Make sure you are using the correct room name (see the **Match Creation** section), renaming an existing multiplayer room will not work.
 If the above doesn't work, recreate the room while following the **Match Creation** section of this guide closely.
 
-Email tournaments@ppy.sh if you require further assistance.
+Email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if you require further assistance.
 
 ### The team names are not showing!
 See previous answer.
