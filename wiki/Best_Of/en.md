@@ -75,7 +75,7 @@ Index page of all the "Best Of" series.
 | \#2  | [Yousei Teikoku - The Creator (meiikyuu)](https://osu.ppy.sh/s/41242) |
 | \#3  | [An - artcore JINJA (Flower)](https://osu.ppy.sh/s/114987)|
 
-- [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Top 1329](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -134,7 +134,7 @@ Index page of all the "Best Of" series.
 | \#2  | [Wotamin - Gigantic O.T.N (Star Stream)](https://osu.ppy.sh/s/80214)|
 | \#3  | [FujuniseikouyuuP - FREEDMAN (val0108)](https://osu.ppy.sh/s/108529), [LeaF - Calamity Fortune (Flower)](https://osu.ppy.sh/s/96103) |
 
-- [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -195,7 +195,7 @@ Index page of all the "Best Of" series.
 | \#2  | [DECO*27 feat. marina - Aimai Elegy (val0108)](https://osu.ppy.sh/s/43248) |
 | \#3  | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/s/106212)  |
 
-- [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?sl2c69iz0w34c82)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -256,7 +256,7 @@ Index page of all the "Best Of" series.
 | \#2  | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/s/106212)  |
 | \#3  | [Igorrr - Unpleasant Sonata (Sieg)](https://osu.ppy.sh/s/90385)|
 
-- [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?zaf09s6pputo13b)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
