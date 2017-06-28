@@ -2,6 +2,16 @@
 
 Index page of all the "Best Of" series.
 
+- [2009](./2009 "Best of 2009")
+- [2010](./2010 "Best of 2010")
+- [2011](./2011 "Best of 2011")
+- [2012](./2012 "Best of 2012")
+- [2013](./2013 "Best of 2013")
+- [2014](./2014 "Best of 2014")
+- [2015](./2015 "Best of 2015")
+- [2016](./2016 "Best of 2016")
+- 2017
+
 ### osu!standard
 
 #### 2009 osu!standard
@@ -91,7 +101,7 @@ Index page of all the "Best Of" series.
 | \#2  | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
 | \#3  | [cYsmix feat. Emmy - Tear Rain (jonathanlfj)](https://osu.ppy.sh/s/140662) |
 
-- [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [Top 1387](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - [News #1](https://osu.ppy.sh/news/107825388293)
 - [News #2](https://news.ppy.sh/post/107825388293/best-of-2014-vote-now)
@@ -150,7 +160,7 @@ Index page of all the "Best Of" series.
 | \#2  | [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Midnaait)](https://osu.ppy.sh/s/58951) |
 | \#3  | [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito)](https://osu.ppy.sh/s/175036) |
 
-- [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)
@@ -211,7 +221,7 @@ Index page of all the "Best Of" series.
 | \#2  | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/s/157896)|
 | \#3  | [Warak - REANIMATE (Spectator)](https://osu.ppy.sh/s/209103)|
 
-- [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)
@@ -272,7 +282,7 @@ Index page of all the "Best Of" series.
 | \#2  | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/s/157896)|
 | \#3  | [Yuyoyuppe - AiAe (Fullerene-)](https://osu.ppy.sh/s/174381)|
 
-- [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [Top 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)

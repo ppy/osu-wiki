@@ -8,15 +8,15 @@
 
 ### Weighting formula
 
-This year’s weighted score was calculated taking into account all the scores the voter has on all the beatmaps within the given set. For each score, we use the following formula to calculate a weighting:
+This year's weighted score was calculated taking into account all the scores the voter has on all the beatmaps within the given set. For each score, we use the following formula to calculate a weighting:
 
 ![Formula for calculating a weighting](2016formula.png "Formula for calculating a weighting")
 
 †The difficulty here takes into account the mods the player had active when achieving the score
 
-We then use the highest of those weightings (up to a maximum of 3) as the vote’s weighting. If the resultant weighting is below 0.2 (or if the player hasn’t actually passed any of the beatmaps within the set), we use 0.2 as the weighting.
+We then use the highest of those weightings (up to a maximum of 3) as the vote's weighting. If the resultant weighting is below 0.2 (or if the player hasn't actually passed any of the beatmaps within the set), we use 0.2 as the weighting.
 
-In short, the weighting takes into account the amount of times you’ve played a map, with it’s factor increasing on a logarithmic scale (inversely exponential). The playcount component then uses a ratio of player skill over map difficulty (taking into account the mods they had active) to determine the final weighting. This means, for the first time ever, player skill and playcount was a real factor in the scoring!
+In short, the weighting takes into account the amount of times you've played a map, with it's factor increasing on a logarithmic scale (inversely exponential). The playcount component then uses a ratio of player skill over map difficulty (taking into account the mods they had active) to determine the final weighting. This means, for the first time ever, player skill and playcount was a real factor in the scoring!
 
 ## osu!standard
 
