@@ -77,7 +77,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 - If this element is not skinned, the default image will not be used!
 - Skinning this will make the cursortrail longer.
   - If you don't want to skin this, but want a long cursortrail, just use a 1x1px transparent image.
-- This element will never rotate or expand.
+- This element will never rotate nor expand.
 
 ---
 
