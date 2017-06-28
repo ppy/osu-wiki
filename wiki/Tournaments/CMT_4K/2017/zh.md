@@ -52,14 +52,14 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 6月30日，星期五  
 
-| 比赛时间 (UTC+8) | 蓝队 ||| 红队 || 蓝队 ||| 红队 || 蓝队 ||| 红队 |
+| 比赛时间 (UTC+8) | 蓝队 | | | 红队 | | 蓝队 | | | 红队 | | 蓝队 | | | 红队 |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 20:00 | Pridra Yinda | ![][CN] | ![][MY] | [Xiiao]Ray | | [Crz]Riri | ![][CN] | ![][AU] | [Crz]Yukikaze- | | [Crz]Liusecy | ![][CN] | ![][CN] | - ZedXD - |
 | 21:00 | fgdg858 | ![][CN] | ![][MY] | Chizuru Shinkai | | BDXiaoQian | ![][SG] | ![][CN] | Stink God | | drunkenstein | ![][HK] | ![][CN] | Pridra Yinda |
 
 7月1日，星期六  
 
-| 比赛时间 (UTC+8) | 蓝队 ||| 红队 || 蓝队 ||| 红队 || 蓝队 ||| 红队 |
+| 比赛时间 (UTC+8) | 蓝队 | | | 红队 | | 蓝队 | | | 红队 | | 蓝队 | | | 红队 |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 10:00 | zero2snow | ![][HK] | ![][CN] | Stink God | | - ZedXD - | ![][CN] | ![][CN] | fgdg858 | | Murasame | ![][CA] | ![][CN] | Pridra Yinda |
 | 11:00 | [Crz]Liusecy | ![][CN] | ![][CN] | fgdg858 | | - ZedXD - | ![][CN] | ![][MY] | Chizuru Shinkai | | Murasame | ![][CA] | ![][CN] | [Xiiao]Ray |
@@ -71,7 +71,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 7月2日，星期日  
 
-| 比赛时间 (UTC+8) | 蓝队 ||| 红队 || 蓝队 ||| 红队 || 蓝队 ||| 红队 |
+| 比赛时间 (UTC+8) | 蓝队 | | | 红队 | | 蓝队 | | | 红队 | | 蓝队 | | | 红队 |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 10:00 | zero2snow | ![][HK] | ![][CN] | wjh123 | | drunkenstein | ![][HK] | ![][CA] | Murasame | | [Crz]Liusecy | ![][CN] | ![][MY] | Chizuru Shinkai |
 | 11:00 | zero2snow | ![][HK] | ![][SG] | BDXiaoQian | | [Crz]ScSolAr | ![][CN] | ![][CN] | pikechu | | drunkenstein | ![][HK] | ![][MY] | [Xiiao]Ray |
@@ -142,7 +142,7 @@ TB:
 
 ### 资格赛
 
-|| ID | 分数 || ID | 分数 || ID | 分数 |
+| | ID | 分数 | | ID | 分数 | | ID | 分数 |
 | ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
 | ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
@@ -284,11 +284,11 @@ TB:
 6. 选手弃权的比赛不予重赛。
 
 
-[CN]: /wiki/shared/flag/CN.gif "China"
-[UK]: /wiki/shared/flag/GB.gif "Great Britain"
-[TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[AU]: /wiki/shared/flag/AU.gif "Australia"
-[SG]: /wiki/shared/flag/SG.gif "Singapore"
-[HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[CA]: /wiki/shared/flag/CA.gif "Canada"
+[CN]: /wiki/shared/flag/CN.gif "中国"
+[UK]: /wiki/shared/flag/GB.gif "英国"
+[TW]: /wiki/shared/flag/TW.gif "台湾"
+[MY]: /wiki/shared/flag/MY.gif "马来西亚"
+[AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[SG]: /wiki/shared/flag/SG.gif "新加坡"
+[HK]: /wiki/shared/flag/HK.gif "香港"
+[CA]: /wiki/shared/flag/CA.gif "加拿大"

@@ -52,14 +52,14 @@ Update after group stage starts.
 
 Friday, 30. June 2017  
 
-| Match Time (UTC+8) | Team A ||| Team B || Team A ||| Team B || Team A ||| Team B |
+| Match Time (UTC+8) | Team A | | | Team B | | Team A | | | Team B | | Team A | | | Team B |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 20:00 | Pridra Yinda | ![][CN] | ![][MY] | [Xiiao]Ray | | [Crz]Riri | ![][CN] | ![][AU] | [Crz]Yukikaze- | | [Crz]Liusecy | ![][CN] | ![][CN] | - ZedXD - |
 | 21:00 | fgdg858 | ![][CN] | ![][MY] | Chizuru Shinkai | | BDXiaoQian | ![][SG] | ![][CN] | Stink God | | drunkenstein | ![][HK] | ![][CN] | Pridra Yinda |
 
 Saturday, 1. July 2017  
 
-| Match Time (UTC+8) | Team A ||| Team B || Team A ||| Team B || Team A ||| Team B |
+| Match Time (UTC+8) | Team A | | | Team B | | Team A | | | Team B | | Team A | | | Team B |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 10:00 | zero2snow | ![][HK] | ![][CN] | Stink God | | - ZedXD - | ![][CN] | ![][CN] | fgdg858 | | Murasame | ![][CA] | ![][CN] | Pridra Yinda |
 | 11:00 | [Crz]Liusecy | ![][CN] | ![][CN] | fgdg858 | | - ZedXD - | ![][CN] | ![][MY] | Chizuru Shinkai | | Murasame | ![][CA] | ![][CN] | [Xiiao]Ray |
@@ -71,7 +71,7 @@ Saturday, 1. July 2017
 
 Sunday, 2. July 2017  
 
-| Match Time (UTC+8) | Team A ||| Team B || Team A ||| Team B || Team A ||| Team B |
+| Match Time (UTC+8) | Team A | | | Team B | | Team A | | | Team B | | Team A | | | Team B |
 | :---: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- | :--: | ---: | ---: | :--- | :--- |
 | 10:00 | zero2snow | ![][HK] | ![][CN] | wjh123 | | drunkenstein | ![][HK] | ![][CA] | Murasame | | [Crz]Liusecy | ![][CN] | ![][MY] | Chizuru Shinkai |
 | 11:00 | zero2snow | ![][HK] | ![][SG] | BDXiaoQian | | [Crz]ScSolAr | ![][CN] | ![][CN] | pikechu | | drunkenstein | ![][HK] | ![][MY] | [Xiiao]Ray |
@@ -142,7 +142,7 @@ TB:
 
 ### Qualification Stage
 
-|| ID | Score || ID | Score || ID | Score |
+| | ID | Score | | ID | Score | | ID | Score |
 | ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
 | ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
