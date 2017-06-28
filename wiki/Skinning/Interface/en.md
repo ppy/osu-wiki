@@ -108,7 +108,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 ## Button
 
-These buttons are used for the beatmap options menu, in the editor,and multiplayer lobby and room.
+These buttons are used for the beatmap options menu, in the editor, and multiplayer lobby and room.
 Since the button has three parts, it is best to keep the heights the same!
 
 ---
@@ -696,7 +696,7 @@ _`arrow-pause.png`_ (transparent; not included)
 
 - Beatmap skinnable status is suspected to be a bug.
 - Overrides `play-warningarrow.png` (but not for Stable (Fallback) stream).
-- This is used in the pause/fail screen.
+- This is used in the pause and fail screens.
 - This element is not tinted nor coloured, this means you can add as much colour you like.
 
 ---
@@ -789,7 +789,7 @@ _`arrow-warning.png`_ (transparent; not included)
 **Notes:**
 
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90° anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
 
 ---
 
@@ -804,7 +804,7 @@ _`arrow-warning.png`_ (transparent; not included)
 - Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
 - Tinted black over time when near critical zone and tinted red in the critical zone.
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90° anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
 
 ---
 
@@ -924,7 +924,7 @@ _`pause-overlay.png`_ (transparent; not included)
 
 **Notes:**
 
-- If one is not skinned, the background of the map will be dimmed by default.
+- If this is not skinned, the background of the map will be dimmed and used by default.
 - This element is will **not** strech to fit.
 - Full image height is 768px.
 
@@ -938,7 +938,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Notes:**
 
-- If one is not skinned, the background of the map will be dimmed by default.
+- If this is not skinned, the background of the map will be dimmed and used by default.
 - This element will strech to fit.
 
 ---
@@ -951,7 +951,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Note:**
 
-- This element appears when a map is paused or failed.
+- This element appears in the fail and pause screens.
 
 ---
 
@@ -961,7 +961,7 @@ _`fail-background.png`_ (transparent; not included)
 |:------------:|:-----------------:|
 | ![No][false] | ![Yes][true]      |
 
-- This element appears when a map is paused.
+- This element appears in the pause screen.
 
 ---
 
@@ -973,7 +973,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Notes:**
 
-- This element appears at the ranking screen (after finishing a map or viewing a score).
+- This element appears on the ranking screen (after finishing a map or viewing a score).
 - This overrides `ranking-replay.png` in skin versions 2.0+.
 
 ---
@@ -986,7 +986,7 @@ _`fail-background.png`_ (transparent; not included)
 
 **Notes:**
 
-- This element appears on the ranking screen after finishing a map or when a map is paused or failed.
+- This element appears on the ranking screen after finishing a map and on the pause and fail screens.
 - This overrides `ranking-retry.png` in v2.0+.
 
 ### Score numbers
