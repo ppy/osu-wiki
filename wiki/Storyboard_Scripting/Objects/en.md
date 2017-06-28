@@ -1,5 +1,5 @@
-Storyboard Objects
-===================
+Objects
+==========
 
 ![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
