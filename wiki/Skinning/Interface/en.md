@@ -167,8 +167,8 @@ _`menu-back.png`_ (transparent; not included; see notes)
 - This element is used in various places:
   - leaderboard in song selection
   - button for the beatmap difficulty in song selection
-  - leaderboard on the left while playing
-  - button that shows the selected beatmap while waiting in a multiplayer room
+  - leaderboard on the left while playing
+  - button that shows the selected beatmap while waiting in a multiplayer room
 
 ---
 
@@ -261,7 +261,7 @@ The skinning elements in this section uses three different suffixes to describe 
 - _no suffix_: These appear in the centre of the song selection screen (showing the currently selected game mode).
 - `-med`: These appear inside the mode selection box, when selecting the game mode.
 - `-small`: These appear inside the mode selection button (showing the currently selected game mode).
-  These images are also used as the default snow if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
+These images are also used as the default snow if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
 
 ---
 
