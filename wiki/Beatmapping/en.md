@@ -48,9 +48,9 @@ _See also: [Compose](/wiki/Compose)_
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
 It is where you can visually place hit objects and toggle their [hit sounds](/wiki/hit_sounds)
 
-### Storyboarding
+### Design
 
-_See also: [Storyboarding](/wiki/Storyboarding)_
+_See also: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)_
 
-Click on the `Design` tab to open up the SBE (Storyboard Editor).
-This will open the basic storyboard editor.
+The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard.
+Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/SBS) (storyboard scripting).
