@@ -1,6 +1,6 @@
 # 2009
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
 
@@ -10,7 +10,7 @@
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
 |2|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|

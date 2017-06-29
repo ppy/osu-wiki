@@ -1,6 +1,6 @@
 # 2016
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## General
 
@@ -23,7 +23,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - Full list of osu!standard 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/39>
 - Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0>
 
-|No.|Beatmap ID|Title|Raw Votes|Weighted Score|
+|Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
 |1|482090|[9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/s/482090 "9mm Parabellum Bullet - Inferno by Monstrata")|3704|4490.088|
 |2|128931|[Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/s/128931 "Feint - Tower Of Heaven (You Are Slaves) by eLy")|1949|2047.561|
@@ -1296,7 +1296,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - Full list of osu!taiko 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/40>
 - Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556>
 
-|No.|Beatmap ID|Title|Raw Votes|Weighted Score|
+|Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
 |1|373414|[toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/s/373414 "toby fox - Spider Dance by OzzyOzrock")|326|260.377|
 |2|371182|[toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/s/371182 "toby fox - Battle Against a True Hero by S a n d")|253|182.034|
@@ -1494,7 +1494,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - Full list of osu!catch 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/41>
 - Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793>
 
-|No.|Beatmap ID|Title|Raw Votes|Weighted Score|
+|Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
 |1|424208|[saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/s/424208 "saradisk - 176 - ikazuchi by Ascendance")|197|251.4|
 |2|302535|[Memme - Acid Burst by Priti](https://osu.ppy.sh/s/302535 "Memme - Acid Burst by Priti")|166|232.545|
@@ -1596,7 +1596,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - Full list of osu!mania 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/42>
 - Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537>
 
-|No.|Beatmap ID|Title|Raw Votes|Weighted Score|
+|Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|:---:|---:|
 |1|349208|[Camellia as "Bang Riot" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/s/349208 "Camellia as "Bang Riot" - Blastix Riotz by Fresh Chicken")|748|1115.862|
 |2|310607|[t+pazolite - Electric "Sister" Bitch by Verniy_Chan](https://osu.ppy.sh/s/310607 "t+pazolite - Electric "Sister" Bitch by Verniy_Chan")|670|937.265|

@@ -1,6 +1,6 @@
 # 2013
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## General
 
@@ -12,7 +12,7 @@
 
 ## osu!standard
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/s/79498/ "Infected Mushroom - The Pretender (RLC)")|
 |2|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/s/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
@@ -1346,7 +1346,7 @@
 
 ## osu!taiko
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|358|[Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](http://osu.ppy.sh/s/87630/ "Linked Horizon - Guren no Yumiya (TV Size) (Kuria)")|
 |2|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
@@ -1361,7 +1361,7 @@
 
 ## osu!catch
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|271|[ONE OK ROCK - Rock, Scissors, Paper (Haya)](http://osu.ppy.sh/s/82282/ "ONE OK ROCK - Rock, Scissors, Paper (Haya)")|
 |2|197|[DECO*27 feat. marina - Aimai Elegy (val0108)](http://osu.ppy.sh/s/43248/ "DECO*27 feat. marina - Aimai Elegy (val0108)")|
@@ -1376,7 +1376,7 @@
 
 ## osu!mania
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
 |2|166|[LeaF - MEPHISTO (Alumetorz)](http://osu.ppy.sh/s/106212/ "LeaF - MEPHISTO (Alumetorz)")|

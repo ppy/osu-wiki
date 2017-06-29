@@ -1,6 +1,6 @@
 # 2014
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## General
 
@@ -8,7 +8,7 @@
 
 ## osu!standard
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
 |2|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
@@ -1400,7 +1400,7 @@
 
 ## osu!taiko
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|3093|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
@@ -1415,7 +1415,7 @@
 
 ## osu!catch
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
@@ -1430,7 +1430,7 @@
 
 ## osu!mania
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|

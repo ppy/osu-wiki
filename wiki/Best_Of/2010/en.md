@@ -1,6 +1,6 @@
 # 2010
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 - Results (table text file): <https://puu.sh/Fju>
   - Forum: <https://osu.ppy.sh/forum/t/43834>
@@ -9,7 +9,7 @@
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|59|[Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789/ "Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)")|
 |2|56|[07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994/ "07th Expansion - rog-limitation (AngelHoney)")|

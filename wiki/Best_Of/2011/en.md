@@ -1,6 +1,6 @@
 # 2011
 
-**_[Click here to return to the Best of main page](../ "Best Of main page")_**
+_Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 - Official Google Doc of the results: <https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0>
 - Ranking Chart: <https://osu.ppy.sh/p/chart?ch=best2011>
@@ -8,7 +8,7 @@
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
 
-|No.|Votes|Beatmap|
+|Placing|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/s/28107/ "DJ Fresh - Gold Dust (galvenize)")|
 |2|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/s/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
