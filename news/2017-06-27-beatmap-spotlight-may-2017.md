@@ -103,7 +103,7 @@ This beatmap set by **[Wonki](https://osu.ppy.sh/users/7898495)** definitely is 
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/re-lm.jpg)](https://osu.ppy.sh/s/588066)
 
-This map has a heavy use of scroll speed changes, which are thoughtfully crafted to be intuitive and smooth. It is quite impressive given how easy to cross the line of being more of a distraction than a feature. Although the scroll speed change is particularly not the reason why this map is deserve to be in the Spotlights. **[Lude](https://osu.ppy.sh/users/6974536)** doesn't shy away from long note usage in their mapping of this track. Instead, he use it to add atmospheric value, complexity and originality, which is great to see. These two points combined with some enjoyable jack-oriented mapping and very smooth difficulty curves, makes this a suitable pick for May's spotlight.
+This map is eye-catching for a few reasons: The most obvious being the heavy use of scroll speed variations, which are thoughtfully crafted to be intuitive and smooth. This is quite impressive given how easy it is to cross the line of being more of a distraction than a feature. However, the scroll speed variations are not the main reason this map is particularly deserving of a spotlight. **[Lude](https://osu.ppy.sh/users/6974536)** doesn't shy away from long note usage in their mapping of this track. Instead, they use it to add atmospheric value, complexity, and originality, which is great to see in the ranked section. These two points combined with some enjoyable jack-oriented mapping and very smooth difficulty curves makes this a suitable pick for May's spotlight.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/black-or-white.jpg)](https://osu.ppy.sh/s/565779)
 
