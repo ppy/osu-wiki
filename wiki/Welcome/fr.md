@@ -22,7 +22,7 @@
 <!-- image -->
 [osu-boxart image]: ./osu-boxart.png "osu!boxart"
 [welcome00 image]: ./Welcome00.png "Recherche de beatmaps"
-[welcome01 image]: ./Welcome01.png "Résualtats de la recherche de beatmaps"
+[welcome01 image]: ./Welcome01.png "Résultats de la recherche de beatmaps"
 [welcome02 image]: ./Welcome02.png "Téléchargement d'une beatmap"
 [welcome03 image]: ./Welcome03.png "Ouverture du fichier .osz"
 [welcome04 image]: ./Welcome04.png "Les beatmaps dans l'écran de sélection"
@@ -45,7 +45,7 @@ Après avoir téléchargé et installé osu!, ouvrez-le et une fenêtre nommée 
 
 Pour les techniques de jeu, vous les apprendrez en jouant. Quelques beatmaps sont intégrées au jeu au même titre que le osu!tutorial, ce qui peut être considéré comme un guide.
 
-**Note:** Si, pour une raison ou pour une autre, vous n'avez pas le tutoriel, vous pouvez le télécharger [juste ici][osu!tutorial_basic]. Après avoir joué le tutoriel, vous êtes prêt à télécharger d'autres beatmaps!
+**Note:** Si, pour une raison ou pour une autre, vous n'avez pas le tutoriel, vous pouvez le télécharger [juste ici][osu!tutorial_basic]. Après avoir joué le tutoriel, vous êtes prêt à télécharger d'autres beatmaps !
 
 ## Comment jouer sur vos musiques favorites !
 _Expliquation complète: [Beatmaps][Beatmaps wikilink]_
@@ -74,7 +74,7 @@ Une fois que le téléchargement est fini, vous n'avez qu'à ouvrir le fichier *
 ![][welcome03 image]
 
 ### Étape 4 - Jouer pour le fun ou entrer en compétition avec les autres joueurs !
-Une fois ouvert, osu! devrait démarrer (et probablement se mettre à jour). Pour commencer à naviguer dans votre liste de beatmap, cliquez simplement sur le grand bouton osu! au centre de l'écran, cliquez sur "Play", "Solo". Votre nouvelle beatmap (ainsi que le tutoriel) devrait être listée ici. Choisissez la difficulté que vous souhaitez jouer et voilà ! vous êtes un joueur d'osu! Vous voudrez peut être aussi jouer en "Multi" au lieu du "Solo" où les joueurs rivalisent entre eux. Vous aussi pouvez faire partie du fun !
+Une fois ouvert, osu! devrait démarrer (et probablement se mettre à jour). Pour commencer à naviguer dans votre liste de beatmap, cliquez simplement sur le grand bouton osu! au centre de l'écran, cliquez sur "Play", "Solo". Votre nouvelle beatmap (ainsi que le tutoriel) devrait être listée ici. Choisissez la difficulté que vous souhaitez jouer et voilà ! Vous êtes un joueur d'osu! Vous voudrez peut être aussi jouer en "Multi" au lieu du "Solo" où les joueurs rivalisent entre eux. Vous aussi pouvez faire partie du fun !
 
 ![][welcome04 image]
 
@@ -83,7 +83,7 @@ Et nous y sommes ! Maintenant vous êtes prêts à jouer à osu!. Si vous avez u
 ## Modes de Jeu
 
 ### Solo
-Donc qu'est-ce que le mode de jeu "Solo" ? En gros, c'est le mode de jeu que vous pouvez jouer en ligne ou hors ligne. Ce mode de jeu n'a pas de limite, vous pouvez jouer toutes les beatmaps que vous avez, utiliser n'importe quel [Game Modifiers][Game_Modifiers wikilink] (parfois appellés "score modifiers") que vous voulez, mettre en pause le jeu quand vos mains vous font mal, et réessayer quand vous sentez que votre score ou votre précision est trop bas. Vous pouvez aussi regarder le Classement Local ou Général et voir les résultats ou les replays simplement en cliquant sur leurs scores. Vous pouvez appuyer sur "F2" pour sauvegarder un replay extérieurement pour pouvoir en profiter sans avoir à le chercher.
+Donc qu'est-ce que le mode de jeu "Solo" ? En gros, c'est le mode de jeu que vous pouvez jouer en ligne ou hors ligne. Ce mode de jeu n'a pas de limite, vous pouvez jouer toutes les beatmaps que vous avez, utiliser n'importe quel [Game Modifiers][Game_Modifiers wikilink] (parfois appelés "score modifiers") que vous voulez, mettre en pause le jeu quand vos mains vous font mal, et réessayer quand vous sentez que votre score ou votre précision est trop bas. Vous pouvez aussi regarder le Classement Local ou Général et voir les résultats ou les replays simplement en cliquant sur leurs scores. Vous pouvez appuyer sur "F2" pour sauvegarder un replay extérieurement pour pouvoir en profiter sans avoir à le chercher.
 
 ### Multijoueur
 _Explication complète: [Multi][Multi wikilink]_
@@ -103,7 +103,7 @@ Le niveau du joueur ne représente que le montant total de score que le joueur a
 ### Les Points de Performance
 *Explication complète: [Points de Performance][Performance_Points wikilink]*
 
-Les Points de Performances (Perfomance Points, pp) sont un classement métrique visant des jeux continuels comme osu!. Il vise à mettre en avant les performances du joueur plus que le temps joué. Les Points de Perfomance sont fortement basés sur la difficulté de la map qui est définie par un algorithme unique à chaque mode de jeu. Basée sur la difficulté seule, votre score est calculé et  une valeur en pp lui est assignée. Votre rang de perfomance est basé sur vos performances sur les maps individuelles. Le moyen le plus simple de l'augmenter est d'améliorer ses scores sur des chansons difficiles. Sachez que les modes de jeu sont comptés séparement \[ce qui signifie que jouer (osu!/osu!taiko/osu!catch/osu!mania) augmente les pp de (osu!/osu!taiko/osu!catch/osu!mania)\].
+Les Points de Performances (Perfomance Points, pp) sont un classement métrique visant des jeux continuels comme osu!. Il vise à mettre en avant les performances du joueur plus que le temps joué. Les Points de Perfomance sont fortement basés sur la difficulté de la map qui est définie par un algorithme unique à chaque mode de jeu. Basée sur la difficulté seule, votre score est calculé et une valeur en pp lui est assignée. Votre rang de perfomance est basé sur vos performances sur les maps individuelles. Le moyen le plus simple de l'augmenter est d'améliorer ses scores sur des chansons difficiles. Sachez que les modes de jeu sont comptés séparement \[ce qui signifie que jouer (osu!/osu!taiko/osu!catch/osu!mania) augmente les pp de (osu!/osu!taiko/osu!catch/osu!mania)\].
 
 Si vous avez des questions concernant les pp, veuillez vous référer à la [page du wiki sur les pp][Performance_Points#FAQ wikilink].
 
@@ -124,9 +124,9 @@ Les médailles (Medals) sont des badges sur votre profil qui montrent vos faits 
 ## Chat
 *Explication complète: [Console de Chat][Chat_Console wikilink]*
 
-Connaître les bases du fonctionnement de la [Console de Chat][Chat_Console wikilink] est important pour ceux qui sont intéressés pour se faire de nouveaux amis dans notre environnement amical. Il est également important de comprendre comment l'utiliser dans le cas où le message de quelqu'un vous demandant de l'aide (il se peut que ça arrive si vous êtes connu). Il y a un bouton pour ouvrir le chat en bas à droite de l'écran mais c'est plus rapide d'appuyer sur F8.
+Connaître les bases du fonctionnement de la [Console de Chat][Chat_Console wikilink] est important pour ceux qui sont intéressés pour se faire de nouveaux amis dans notre environnement amical. Il est également important de comprendre comment l'utiliser dans le cas où vous recevez un message de quelqu'un vous demandant de l'aide (il se peut que ça arrive si vous êtes connu). Il y a un bouton pour ouvrir le chat en bas à droite de l'écran mais c'est plus rapide d'appuyer sur F8.
 
-Vous aurez quelques onglets comme "\#osu!", "\#announce", "\#userlog" ou si vous êtes en conversation avec quelqu'un, vous verrez son nom dans un onglet séparé. naviguer dans les onglets est extrêmement facile, appuyez juste sur l'onglet, écrivez votre message puis appuyez sur "ENTRÉE" pour envoyer le message à l'onglet ouvert. Cependant, veuillez ne pas spammer (envoyer continuellement de courts messages dans le chat) en faisant ça vous allez être automatiquement muté pour quelques minutes et votre "dur labeur" supprimé du chat. Vous pouvez appuyer sur "F9" pour ouvrir la liste des utilisateurs (appelée Console de Chat Étendue) connectée au serveur, et vous pouvez appliquer des filtres pour préciser votre recherche.
+Vous aurez quelques onglets comme "\#osu!", "\#announce", "\#userlog" ou si vous êtes en conversation avec quelqu'un, vous verrez son nom dans un onglet séparé. Naviguer dans les onglets est extrêmement facile, appuyez juste sur l'onglet, écrivez votre message puis appuyez sur "ENTRÉE" pour envoyer le message à l'onglet ouvert. Cependant, veuillez ne pas spammer (envoyer continuellement de courts messages dans le chat) en faisant ça vous allez être automatiquement muté pour quelques minutes et votre "dur labeur" supprimé du chat. Vous pouvez appuyer sur "F9" pour ouvrir la liste des utilisateurs (appelée Console de Chat Étendue) connectée au serveur, et vous pouvez appliquer des filtres pour préciser votre recherche.
 
 ![Liste d'amis de la Console de Chat][Chat_Console friendlist image]
 
