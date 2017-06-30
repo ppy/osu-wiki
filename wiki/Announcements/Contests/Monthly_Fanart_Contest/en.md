@@ -43,7 +43,7 @@ All offical current and completed monthly fanart contests are listed here from o
 
 ### Spring
 
-- Results: [Fifth Official osu! Fanart Contest Results (Christmas)!](https://osu.ppy.sh/news/160055282693)
+- Results: [Spring Fanart Contest Results](https://osu.ppy.sh/news/160055282693)
 - Poll Results: [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
 - Fanart selections, see [Spring](Spring).
 
