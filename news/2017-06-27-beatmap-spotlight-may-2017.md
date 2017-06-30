@@ -2,7 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: May 2017"
 permalink: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
-date: 2017-05-28 17:00:00 +0000
+date: 2017-05-30 17:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
 ---
 
@@ -39,7 +39,9 @@ Taking a spot in almost every spotlight lately, **[Delis](https://osu.ppy.sh/use
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/bellow.jpg)](https://osu.ppy.sh/s/504315)
 
-Doubles and low BPM songs are kind of rare nowadays, but fortunately we have **[TicClick](https://osu.ppy.sh/users/672931)**! Providing us with a fairly simple yet effective interpretation, he manages to keep us going with the up-beat rhythm this music genre provides. Whether you are experienced or just started out playing the game you can bet there's something for you to enjoy, thanks to the low BPM allowing you to try out various mod combinations even at lower stages. This doesn't mean you should underestimate the set either though: some passages may turn out being trickier than expected. Definitely worth giving this mapset a try if you're looking for something unusual.
+Doubles and low BPM songs are kind of rare nowadays, but fortunately we have **[TicClick](https://osu.ppy.sh/users/672931)**! Providing us with a fairly simple yet effective interpretation, he manages to keep us going with the up-beat rhythm this music genre provides.
+
+Whether you are experienced or just started out playing the game you can bet there's something for you to enjoy, thanks to the low BPM allowing you to try out various mod combinations even at lower stages. This doesn't mean you should underestimate the set either though: some passages may turn out being trickier than expected. Definitely worth giving this mapset a try if you're looking for something unusual.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/ben-se.jpg)](https://osu.ppy.sh/s/567325)
 
@@ -57,7 +59,7 @@ A calm, beautiful winter song with a very good-looking skin and a very well desi
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/classic-pursuit.jpg)](https://osu.ppy.sh/s/373254)
 
-Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: Try it with ANY mod. It's a challenge with Hidden, Hardrock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
+Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: try it with ANY mod. It's a challenge with Hidden, Hardrock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
 
 The set also has nicely done lower diffs, including his signature "Basic" difficulty, which introduces you into the most basic structures of osu!taiko's dons and kats (the red and blue notes!).
 
@@ -67,21 +69,21 @@ What a high quality set brought up by **[tasuke912](https://osu.ppy.sh/users/277
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/on-the-fm.jpg)](https://osu.ppy.sh/s/568544)
 
-This month we have something different in the chart, a gimmick map! Tired of maps with regular Slider Velocity? Do you want to play maps with constant speed changes? On the FM it's your map! But hey, we are talking of the Inner Oni, right? No! You will have a SV challenge in all diffs, even in the Kantan. **[Nofool](https://osu.ppy.sh/users/672430)** did a good choice with this song as the speed changes fits pretty well and gives a lot of variety, since 1/4 patterns to nonstop 1/3 patterns. What? Too slow? Use HardRock and you will enjoy more the map!
+This month we have something different in the chart, a gimmick map! Tired of maps with regular Slider Velocity? Do you want to play maps with constant speed changes? On the FM is your map! But hey, we are talking of the Inner Oni, right? No! You'll be challenged by the SV in all difficulties in this set, even the Kantan. **[Nofool](https://osu.ppy.sh/users/672430)** made a good choice with this song as the speed changes fit pretty well and adds a lot of variety, from 1/4 patterns to nonstop 1/3 patterns. What? Too slow? HardRock will add a bit of speed and spice up the set a little for you!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/clarity.jpg)](https://osu.ppy.sh/s/603069)
 
-A bright song and map that should be mentioned in this month, it doesn't contained any fancy patterns, but rather clean in overall. Although the usage of hitsounds is decent, it still not the most decisive element to make this map perfect. The volume setting is also a important factor that make patterns andhitsounds completely integrated with the song. To summarize, this map is made in a very interesting way, with the volume and hitsound usage strongly highlighting **[hikikkochan](https://osu.ppy.sh/users/6512678)**'s comprehsion of the song's cadence and direction.
+A bright song and map that should be mentioned in this month, it doesn't contain any fancy patterns, but rather clean overall. Although the usage of hitsounds is decent, it still not the most decisive element to make this map perfect. The volume setting is also a important factor that integrates hitsounds and patterns cleanly with the song. To summarize, this map is made in a very interesting way, with the volume and hitsound usage strongly highlighting **[hikikkochan](https://osu.ppy.sh/users/6512678)**'s comprehsion of the song's cadence and direction.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/elpis.jpg)](https://osu.ppy.sh/s/559260)
 
 After having his [first ever ranked map](https://osu.ppy.sh/s/507007) featured in the Spotlights at the start of the year, **[iloveyou4ever](https://osu.ppy.sh/users/4964596)**'s unique mapping style continues to impress, and his latest map ELPIS certainly showcases his growing creativity and talent as a mapper. This kind of progression is exactly the kind we are looking for, and thus he has earned a rightful spot on this month's Spotlights!
 
-The key defining feature of this map lies in its excellent choice of patterns. In particular, the placement of triplets is nothing short of beautiful, as it captures the swell and subtle nuances of the song very well. The streams throughout the map are also fairly varied, carrying good flow in spite of the fluctuating BPM. All in all another excellent addition to the ranked section, and I personally cannot wait to see more from him!
+The key defining feature of this map lies in its excellent choice of patterns. In particular, the placement of triplets is nothing short of beautiful, as it captures the swell and subtle nuances of the song very well. The streams throughout the map are also fairly varied, carrying good flow in spite of the fluctuating BPM. All in all another excellent addition to the ranked section, and we personally cannot wait to see more from him!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/best-day.jpg)](https://osu.ppy.sh/s/316779)
 
-A solid mapset in this month, from Kantan to Muzukashii, **[Volta](https://osu.ppy.sh/users/4154071)** did very good job by following a lot of instrument(including vocal) and assigned drum and beat as main role to maintain the map's structure, then used other one like vocal to decorate the map to make the map become more fun to play. Moreover, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**'s Oni also decent, every hitsounds usage mapped in the best way. After looking how perfect Oni is, I just wonder how Inner Oni can be mapped in good way by expanding the note's density, but I am totally wrong, it indeed contains much more notes expansion and has a lot of continuous 1/2+1/4 patterns, but every 1/2 hitsounds are correct mapped and every 1/4 patterns placed in perfect section. Furthermore, he used some harder 1/4 pattern to make the map more fun to play. I would say that I enjoy this map very much!
+A solid mapset in this month, from Kantan to Muzukashii, **[Volta](https://osu.ppy.sh/users/4154071)** did a very good job by following many musical layers at once. They use the drums as main role to shape the map in its basics and then transists over to utilize the vocals and other melody layers to decorate around the used drum line. Moreover, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**'s Oni is an excellent creation with every hitsound being used in the best way possible. Unsure how the Inner Oni could be even better than what we already have in the Oni, we were surprised by the excellence of this creation. The difficulty expands the idea of the Oni and does not just increase note density for the sake of it. The continuous 1/2 and 1/4 patterns are giving the map a fluent structure while every hitsound placed on the 1/2 notes are correctly mapped and every 1/4 pattern is placed in perfect composition to the surroundings. The increased challenge resulting from that makes it even better!
 
 ## osu!catch
 
@@ -93,32 +95,34 @@ Overall, the map is quite challenging for its star rating, being harder than oth
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/shelter.jpg)](https://osu.ppy.sh/s/536749)
 
-Despite this set is being **[Myle](https://osu.ppy.sh/users/4915649)**'s very first ranked set it came out to be a really enjoyable one. The spread built up to grew quite constantly. He learned how to make the rhythm to be consistent and yet still provide variable patterns in a short time. The flow of the difficulties are just splendid and perfectly executed. The Platter is really made for the targeted audience, he held back with the HyperJumps and only placed one where it should be which gives better impact in overall and feels really good. It was really enjoying to play, he made a good work!
+Despite this set being **[Myle](https://osu.ppy.sh/users/4915649)**'s very first ranked beatmap set, it came out to be a really enjoyable one. The difficulty grew at a constant rate throughout the set, giving an ample challenge at every skill level. He learned how to make the rhythm to be consistent and yet still provide variable patterns in a short time. The flow of the difficulties are just splendid and perfectly executed. The Platter is really made for the targeted audience, he held back with the HyperJumps and only placed one where it should be which gives better impact in overall and feels really good. It was very enjoyable to play, and a really great piece of work overall.
 
 ## osu!mania
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/trigger.jpg)](https://osu.ppy.sh/s/555076)
 
-This beatmap set by **[Wonki](https://osu.ppy.sh/users/7898495)** definitely is a fun experience from the ranked pool and congratulations to Wonki for winning this month spotlights and also for providing us such a good piece. The scroll speed changes on this map feels intense but they are not overdone and it just feels natural with the song, making it really confortable to play. Combine that with a cool usage of minijacks at the very end with some simple long note patterns this map just has everything you want to be the map of the month... and its art!
+Congratulations to **[Wonki](https://osu.ppy.sh/users/7898495)**  for winning this month's spotlights for osu!mania with Trigger, an entertaining and fresh experience rife with some cleverly applied mapping techniques that fit the music perfectly. Scroll speed is used masterfully, lending an air of intensity to the set without it being overdone, and also keeping in line with the song's natural ebb and flow. Smart usage of minijacks at the very end and some simple long note patterning gives this map a touch of everything you'd want to see in a good osu!mania chart, and it's even artistic to boot!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/re-lm.jpg)](https://osu.ppy.sh/s/588066)
 
-This map is eye-catching for a few reasons: The most obvious being the heavy use of scroll speed variations, which are thoughtfully crafted to be intuitive and smooth. This is quite impressive given how easy it is to cross the line of being more of a distraction than a feature. However, the scroll speed variations are not the main reason this map is particularly deserving of a spotlight. **[Lude](https://osu.ppy.sh/users/6974536)** doesn't shy away from long note usage in their mapping of this track. Instead, they use it to add atmospheric value, complexity, and originality, which is great to see in the ranked section. These two points combined with some enjoyable jack-oriented mapping and very smooth difficulty curves makes this a suitable pick for May's spotlight.
+This map is eye-catching for a few reasons: the most obvious being the heavy use of scroll speed variations, which are thoughtfully crafted to be intuitive and smooth. This is quite impressive given how easy it is to cross the line of being more of a distraction than a feature. However, the scroll speed variations are not the main reason this map is particularly deserving of a spotlight. **[Lude](https://osu.ppy.sh/users/6974536)** doesn't shy away from long note usage in their mapping of this track. Instead, they use it to add atmospheric value, complexity, and originality, which is great to see in the ranked section. These two points combined with some enjoyable jack-oriented mapping and very smooth difficulty curves makes this a suitable pick for May's spotlight.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/black-or-white.jpg)](https://osu.ppy.sh/s/565779)
 
-Let me introduce you another extreme 7K marathon map by **[Kawawa](https://osu.ppy.sh/users/4647754)**. Pleasure to the eye how the map structure flows nicely with the song intensity. He has a really good experience in term of emphasizing the melody itself. What caught my attention is the jacking style pattern in the map which it is pretty new and interesting to see. Besides giving a great pattern usage, the speed change through the map are astonishing extreme and fun.
+**[Kawawa](https://osu.ppy.sh/users/4647754)**. takes a spot in this month's charts with his extreme 7K marathon rendition of Black or White. Pleasing to the eye and full of well-designed flow, he managed to craft the map masterfully around the music, emphasizing the very melody of the track itself. An all-new style of jackhammer patterning adds a bit of flair to the map, accentuated further by some extremely well planned speed changes to spice things up.
 
-He did a good job on highlighting certain beats magnitude with a suitable slider velocity. By advancing through the map, player could easily experience the consciousness of the music along with the note arrangement emphasized by the mapper intention. Have a try while you are on it.
+An excellent beatmap set all around, we're confident you'll love Black and White particularly in regards to how close it follows the very consciousness and arrangement of the music. Give it a go!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/shine.jpg)](https://osu.ppy.sh/s/456289)
 
-For his 5th ranked map, **[Frim4503](https://osu.ppy.sh/users/2945775)** offers us another 5K marathon, this time for a drum & bass love live opening remix!
+For his 5th ranked map, **[Frim4503](https://osu.ppy.sh/users/2945775)** offers us another 5K marathon, this time with a drum & bass Love Live OP remix!
 As usual, the usage of long notes and chords play really well, making it a really fun map to try big accuracy scores. Scroll speed changes are lightly used with a quite unique style, focus on the voice before each kiai time. Without changing much of music/mapping style, he shows us one more time that anti-meta is not dead with a really accessible and catchy map.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/doppelganger.jpg)](https://osu.ppy.sh/s/407153)
 
-While this set is being a hard one in osu!mania, it comes with a really enjoyable and challenging patterns in every single difficulty. We also have a few guest difficulties coming from **[Evening](https://osu.ppy.sh/users/2193881)**, **[jakads](https://osu.ppy.sh/users/259972)** and **[Lude](https://osu.ppy.sh/users/6974536)**. Evening's chart is not really overtly heavy, but watch out for the scroll speed changes! They're way more noticeable in this difficulty than in the other ones. Every single mapper and modder has done a really good job checking the pattern's quality and playability of each difficulty (even though Alter Ego is hell itself, someone with a good eye can really see how good the patterns fits with the song).
+While this beatmap set may be harder than others in the spotlights so far, its challenge is no detterent to its enjoyability, sporting some difficult but rewarding patterning in every difficulty. Guest difficulties from **[Evening](https://osu.ppy.sh/users/2193881)**, **[jakads](https://osu.ppy.sh/users/259972)** and **[Lude](https://osu.ppy.sh/users/6974536)** provide some variety within the set overall, with Evening's chart in particular being somewhat light, but chock full of scroll speed changes.
+
+Alter Ego is definitely one of the harder songs around to map, but the people behind the set have done an excellent job of patterning their charts to fit it, and it is definitely something you should try and see for yourself.
 
 --------
 
