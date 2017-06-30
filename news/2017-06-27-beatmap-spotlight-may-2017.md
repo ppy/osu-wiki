@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2
 ---
 
 
-OrVid, Classic Pursuit, Chronoxia and Trigger reign supreme in the [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1705) of May 2017, and more to boot! Come check out what's in store this month, and maybe even win some osu!supporter for your trouble!
+OrVid, Classic Pursuit, Chronoxia and Trigger reign supreme in the [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1705) of May 2017, and more to boot! Come check out what's in store this month, and maybe even win an osu!supporter tag for your trouble!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -59,7 +59,7 @@ A calm, beautiful winter song with a very good-looking skin and a very well desi
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/classic-pursuit.jpg)](https://osu.ppy.sh/s/373254)
 
-Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: try it with ANY mod. It's a challenge with Hidden, Hardrock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
+Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: try it with ANY mod. It's a challenge with Hidden, HardRock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
 
 The set also has nicely done lower diffs, including his signature "Basic" difficulty, which introduces you into the most basic structures of osu!taiko's dons and kats (the red and blue notes!).
 
