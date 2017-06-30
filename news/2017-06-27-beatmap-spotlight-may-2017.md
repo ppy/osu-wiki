@@ -83,7 +83,7 @@ The key defining feature of this map lies in its excellent choice of patterns. I
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/best-day.jpg)](https://osu.ppy.sh/s/316779)
 
-A solid mapset in this month, from Kantan to Muzukashii, **[Volta](https://osu.ppy.sh/users/4154071)** did a very good job by following many musical layers at once. They use the drums as main role to shape the map in its basics and then transists over to utilize the vocals and other melody layers to decorate around the used drum line. Moreover, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**'s Oni is an excellent creation with every hitsound being used in the best way possible.
+A solid mapset in this month, from Kantan to Muzukashii, **[Volta](https://osu.ppy.sh/users/4154071)** did a very good job by following many musical layers at once. They use the drums as main role to shape the map in its basics and then shift over to utilize the vocals and other melody layers to decorate around the used drum line. Moreover, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**'s Oni is an excellent creation with every hitsound being used in the best way possible.
 
 Unsure how the Inner Oni could be even better than what we already have in the Oni, we were surprised by the excellence of this creation. The difficulty expands the idea of the Oni and does not just increase note density for the sake of it. The continuous 1/2 and 1/4 patterns are giving the map a fluent structure while every hitsound placed on the 1/2 notes are correctly mapped and every 1/4 pattern is placed in perfect composition to the surroundings. The increased challenge resulting from that makes it even better!
 
