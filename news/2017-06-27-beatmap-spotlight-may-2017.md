@@ -126,6 +126,6 @@ Alter Ego is definitely one of the harder songs around to map, but the people be
 
 --------
 
-And that just about covers the Spotlights for April. We hope you enjoy the new template graphics for each chart, and we hope you look forward to what we have in store next month as well!
+And that just about covers the Spotlights for this month. We hope you enjoy the new template graphics for each chart, and we hope you look forward to what we have in store next month as well!
 
 —OnosakiHito
