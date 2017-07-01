@@ -51,7 +51,7 @@ This beatmap set truly stands out due to the unique spacing and patterning in bo
 
 Kokoronashi is yet another great mapset created by **[pishifat](https://osu.ppy.sh/users/3178418)**. The Insane completely avoids circular flow and instead makes use of linear and zig-zag movements, creating a unique gameplay experience. The lower difficulties mirror the concepts of the highest one, so the spread feels very coherent. You should definitely check this one out if you haven't yet!
 
-[![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/yuki-no-hana.jpg)](https://osu.ppy.sh/s/565432)
+[![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/yuki-no-hana.jpg)](https://osu.ppy.sh/s/437097)
 
 A calm, beautiful winter song with a very good-looking skin and a very well designed mapset by **[Lan Wings](https://osu.ppy.sh/users/467860)**. While the top difficulty is quite spammy in terms of object density, the visual aspect of the map does not fall apart! Combined with great lower difficulties, this mapset deserves to be featured in the spotlights.
 
