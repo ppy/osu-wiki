@@ -49,7 +49,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Schedule: Grand Finals
 
-### Saturday, 8. July 2017
+### Sunday, 9. July 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
