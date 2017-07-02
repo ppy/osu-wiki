@@ -86,43 +86,8 @@ GFM 的标记很少，以至于**任何人**都能在3分钟之内学会它！
 #### 粗体
 
 当你需要标注重点时，使用粗体。
-粗体有两种使用风格：
-
-- 双星号（`**`）
-- 双下划线（`__`）
-
-任选一种即可。
-
-**例如：**
-
-- `__不要__因为游戏内的问题联系 ppy !`
-- `制作皮肤时，新创意**很重要**。`
 
 ### 标题
-
-Markdown 提供了两种风格的一/二级标题文字：
-
-```markdown
-文章标题
-=============
-
-二级标题
----------------
-
-### 三级标题
-```
-
-或者
-
-```markdown
-# 文章标题
-
-## 二级标题
-
-### 三级标题
-```
-
-你可以任选一种风格。
 
 注意：
 
@@ -167,7 +132,7 @@ Markdown 提供了两种风格的一/二级标题文字：
 
     ## 游戏模式
     
-    _参见[游戏模式]/wiki/game_modes)._
+    _参见[游戏模式]/wiki/game_modes)。_
     
     ### ![](/wiki/shared/Osu.gif) osu!
     
@@ -175,12 +140,9 @@ Markdown 提供了两种风格的一/二级标题文字：
 
 ### Lists
 
-There are two kinds of lists: bulleted and numbered.
+使用列表时，列表语法中的空格是不能省略的
 
-The spacing for both types of bullets is very important!
-(Please take note of the spacing in the given examples.)
-
-Please limit to 4 indentations.
+同时记住：最多缩进四次
 
 #### Bulleted
 
