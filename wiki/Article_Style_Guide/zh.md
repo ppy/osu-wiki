@@ -6,45 +6,43 @@
 必须明确一点：审稿人（Reviewer）可能会在你的PR（Pull Request）中指出你的错误，或是提供一些建议。 
 一个好的 osu!wiki 作者应该阅读这些建议（Review）以提高文章的整体质量，保证读者能得到最佳的体验。
 
-本文章内容仅适用于 `wiki/` 文件夹。
+## 仓库（repository）目录
 
-## 本地化
+本节内容仅适用于 `wiki/` 文件夹。
+
+### 本地化
 
 下列是 osu!wiki 所支持的语言。
-如果你的语言不在此列，请在 [`osu-web` 仓库（repository）](https://github.com/ppy/osu-web/issues)打开一个问题（issue）！
+如果你的语言不在此列，请在 [`osu-web` 仓库](https://github.com/ppy/osu-web/issues)打开一个问题（issue）！
 
-| 文件名 | 英文写法 | 当地写法 |
+| 文件名 | 中文写法 | 当地写法 |
 |--------|----------|----------|
-| `de.md` | German | Deutsch |
-| `el.md` | Greek | Ελληνικά |
-| `en.md` | English | English |
-| `es.md` | Spanish | Español |
-| `fi.md` | Finnish | Suomi |
-| `fr.md` | French | Français |
-| `hu.md` | Hungarian | Magyar |
-| `id.md` | Indonesian | Bahasa Indonesia |
-| `it.md` | Italian | Italiano |
-| `ja.md` | Japanese | 日本語 |
-| `ko.md` | Korean | 한국어 |
-| `nl.md` | Dutch | Nederlands |
-| `no.md` | Norwegian | Norsk |
-| `pl.md` | Polish | Polski |
-| `pt.md` | Portuguese | Português |
-| `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
-| `ru.md` | Russian | Русский |
-| `th.md` | Thai | ไทย |
-| `tl.md` | Tagalog | Tagalog |
-| `zh.md` | Chinese (Simplified) | 中文 |
-| `zh-hk.md` | Chinese (Traditional) | 粤语 |
-| `zh-tw.md` | Chinese (Taiwan, Traditional) | 中文(繁體) |
-
-## 仓库内
-
-本节的规则适用于整个 osu-wiki 仓库。
+| `de.md` | 德语 | Deutsch |
+| `el.md` | 希腊语 | Ελληνικά |
+| `en.md` | 英语 | English |
+| `es.md` | 西班牙语 | Español |
+| `fi.md` | 芬兰语 | Suomi |
+| `fr.md` | 法语 | Français |
+| `hu.md` | 匈牙利语 | Magyar |
+| `id.md` | 印度尼西亚语 | Bahasa Indonesia |
+| `it.md` | 印度语 | Italiano |
+| `ja.md` | 日语 | 日本語 |
+| `ko.md` | 韩语 | 한국어 |
+| `nl.md` | 荷兰语 | Nederlands |
+| `no.md` | 挪威语 | Norsk |
+| `pl.md` | 波兰语 | Polski |
+| `pt.md` | 葡萄牙语 | Português |
+| `pt-br.md` | 巴西葡萄牙语 | Português (Brasil) |
+| `ru.md` | 俄语 | Русский |
+| `th.md` | 泰语 | ไทย |
+| `tl.md` | 他加禄语 | Tagalog |
+| `zh.md` | 中文 | 中文 |
+| `zh-hk.md` | 粤语 | 粤语 |
+| `zh-tw.md` | 繁體中文 | 繁體中文 |
 
 ### 文件夹名
 
-**所有的文件夹名称都不应该使用 URL 保留字（即仅使用ASCII字符）。**
+所有的文件夹名称都不应该使用 URL 保留字（即仅使用ASCII字符）。
 一般来说，文件夹名称使用以下字符即可：
 
 - A - Z （大写字母）
@@ -67,13 +65,13 @@
 
 ## Markdown
 
-**本节规则适用于全部文章**
+本节规则适用于全部文章
 
-### GitHub Markdown方言（GFM）
+### GFM（GitHub Markdown方言）
 
 GFM 是 osu!wiki 所支持的标记语言。
 
-GFM 的标记很少，以至于任何人都能在3分钟之内学会它！
+GFM 的标记很少，以至于**任何人**都能在3分钟之内学会它！
 然而不要指望 Markdown 能做什么特别的东西,因为它只是一个轻量级的标记语言。
 
 #### HTML
@@ -83,7 +81,7 @@ GFM 的标记很少，以至于任何人都能在3分钟之内学会它！
 
 ### 强调
 
-记住：过度强调会有反作用！
+**记住：过度强调会有反作用！**
 
 #### 粗体
 
@@ -99,23 +97,6 @@ GFM 的标记很少，以至于任何人都能在3分钟之内学会它！
 
 - `__不要__因为游戏内的问题联系 ppy !`
 - `制作皮肤时，新创意**很重要**。`
-
-#### 斜体
-
-某个游戏/动漫的名称应该使用斜体。
-斜体有两种使用风格：
-
-- 单星号（`*`）
-- 单下划线（`_`）
-
-**例如：**
-
-```markdown
-_Elite Beat Agents_
-_Taiko no Tatsujin_
-*Dance Dance Revolution*
-*osu!*
-```
 
 ### 标题
 
@@ -141,11 +122,15 @@ Markdown 提供了两种风格的一/二级标题文字：
 ### 三级标题
 ```
 
-你可以任选一种风格，但是记住，从三级标题文字开始只能使用 `#` 号风格。
+你可以任选一种风格。
 
-在书写标题时，请一定要在 `#` 号后面加一个空格，确保 GFM 能正确解析。
+注意：
 
-虽然不是必须，但最好在标题之后空一行。
+- 标题文字最多用到五级
+- 从三级标题文字开始只能使用 `#` 号风格。
+- 在书写标题时，请一定要在 `#` 号后面加一个空格，确保 GFM 能正确解析。
+- 虽然不是必须，但最好在标题之后空一行。
+  - 这样做会使得标题在编辑时相对独立。
 
 #### 文章标题
 
@@ -173,23 +158,20 @@ Markdown 提供了两种风格的一/二级标题文字：
 每个小节应该且只能使用二到五级的标题文字。
 
 小节标题**不能**再使用其他标记或是链接。
-同时牢记：**不能**跳跃标题级别，比如二级标题之后直接使用四级标题。
+同时牢记：不能跳跃标题级别，比如二级标题之后直接使用四级标题。
 
 不过不像文章标题，小节标题允许使用小图标。
 
-每节必须包含一些内容，即使它的标题已经概括了它的子章节。
+每节**必须**包含一些内容，即使它的标题已经概括了它的子章节。
+例如：
 
-**例如：**
-
-```markdown
-## 游戏模式
-
-_参见[游戏模式]/wiki/game_modes)._
-
-### ![](/wiki/shared/Osu.gif) osu!
-
-osu! is a frustrating but fun circle-clicking simulator.
-```
+    ## 游戏模式
+    
+    _参见[游戏模式]/wiki/game_modes)._
+    
+    ### ![](/wiki/shared/Osu.gif) osu!
+    
+    osu! is a frustrating but fun circle-clicking simulator.
 
 ### Lists
 
@@ -203,206 +185,54 @@ Please limit to 4 indentations.
 #### Bulleted
 
 Use bulleted lists when the order of the list does not matter.
-
-There are three markup styles for bulleted lists:
-
-- hyphen (`-`)
-- plus sign (`+`)
-- asterisk (`*`)
-
 It is prefered to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
-
-**Examples:**
-
-```
-Game Modifiers:
-
-- Difficulty Reduction
-  - Easy
-  - No Fail
-  - Half Time
-  - Daycore
-```
 
 #### Numbered
 
 Use numbered lists when the order of the list does matter.
-
-There is only one markup style for numbered lists:
-
-- numbers followed by a period (e.g. `1.`, `2.`, `3.`, etc.)
-
 Incrementing the numbers is optional but preferred.
-
-**Examples:**
-
-```
-How to open the osu!client:
-
-1. Find the `osu.exe` file.
-   1. Open the start menu.
-   2. Type `osu` in the search bar.
-   3. Click on it.
-3. You have opened the osu!client; have fun!
-```
 
 #### Mixed
 
 You can also combine both bulleted and numbered lists.
-
-**Examples:**
-
-```
-How to write a meaningful commit message:
-
-1. Do stuff on your fork.
-   - This can be a range of things from small grammar fixes to rewriting an entire article.
-2. Stage the modified files.
-   - Your milage may vary depending if you are using a client or a third party application.
-3. Write the commit message.
-   - There are two parts:
-     1. Summary
-        - This should be short but explain what you did under 72 characters.
-        - You can also mention contributors, issues, or pull request numbers.
-     2. Message
-        - This should be longer than the summary and can have multiple lines, if needed.
-        - You can also mention contributors, issues, or pull request numbers.
-4. Push to GitHub.
-```
 
 ### Code
 
 The markup for code is a grave mark (`` ` ``).
 To put a grave mark in code, surround it in double grave marks, padded with 1 space.
 
-**Example:**
+Use code for the following scenarios:
 
-```
-Press `Z` and/or `X` to tap.
-Press `` ` `` to quick retry a map.
-```
-
-For the following scenarios, use code.
-
-#### Keyboard Keys
-
-When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
-
-**Examples:**
-
-- `` `.` ``
-- `` `Alt` ``
-- `` `Ctrl` + `Shift` + `A` ``
-
-#### Button or Menu Text
-
-When copying the text from a menu or button, copy the letter casing as-is.
-
-**Examples:**
-
-- `` Click `File` then `Save As...` ``
-- `` `1. Let's do it.` ``
-- `` `4. Noooo! I didn't mean to!` ``
-
-#### Folder Names
-
-When copying the name of a folder, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `Exports` ``
-- `` `Downloads` ``
-
-#### Directory Names
-
-When copying the path of a directory, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `Downloads/` ``
-- `` `Skins/User/` ``
-
-#### Keywords or Commands
-
-When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
-
-**Examples:**
-
-- `` `ComboBurstStyle` ``
-- `` `[Events]` ``
-- `` `git --help` ``
-
-#### File Names
-
-When copying the name of a file, copy the letter casing as-is.
-
-**Examples:**
-
-- `` `osu.exe` ``
-- `` `screenshot001.jpg` ``
-- `` `Opsu-android0.15.0b.apk` ``
-
-#### File Extensions
-
-When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
-
-**Examples:**
-
-- `` `.jpg` ``
-- `` `.exe` ``
-- `` `.osz` ``
-
-#### Chat Channels
-
-When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
-
-**Examples:**
-
-- `` `#lobby` ``
-- `` `#osu` ``
+- Keyboard Keys
+  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
+- Button or Menu Text
+  - When copying the text from a menu or button, copy the letter casing as-is.
+- Folder Names
+  - When copying the name of a folder, copy the letter casing as-is.
+- Directory Names
+  - When copying the path of a directory, copy the letter casing as-is.
+- Keywords or Commands
+  - When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
+- File Names
+  - When copying the name of a file, copy the letter casing as-is.
+- File Extensions
+  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
+- Chat Channels
+  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 
 ### Code Blocks
-
-There are two markup styles for code blocks:
-
-- triple grave marks (` ``` `)
-- four prefixed spaces
 
 It is prefered to use the triple grave marks instead of the four prefixed spaces.
 
 Code blocks do not use syntax highlighting in the osu!wiki.
 
-**Examples:**
-
-````
-skin.ini example:
-```
-[General]
-Name: osu!lazer
-Author: ppy
-Version: 2.5
-```
-````
-
 ### Links
 
-There are two markup styles for links:
-
-```
-inline:
-
-[example](https://example.com/)
-
----
-
-reference:
-
-[wikilink-welcome]: /wiki/Welcome
-
-[example][wikilink-welcome]
-```
-
 You can use either the reference or inline style links.
+
+Keep in mind that there are good times to prefer one or the other.
+For example, one should use reference sytle links when linking to a flag multiple times.
+On the other hand, one could use inline syule links when linking to an article.
 
 If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
@@ -413,25 +243,31 @@ Internal links are the links linking within the osu!wiki.
 Do not use the word `here` as the link text.
 Instead, take the title of the page the link is linking to or use a general description.
 
+##### Redirects
+
+For your convenience, all folders should have a redirect.
 All internal links are to use redirects.
+
 To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file.
 The link part that you want is on the left while the designation to those link parts are on the right.
 Keep note of the redirect you want to use.
-Then make the link like you normally would, but instead of using the directory path, use `/wiki/` followed by the redirect.
+Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect.
 
-**Examples:**
+Examples:
 
 - `[ASG](/wiki/ASG)`
 - `[OWC2015](/wiki/OWC2015)`
 - `[skinning tutorial](/wiki/skinning_tutorial)`
 
-##### Why are we using redirects instead of paths?
+---
 
+Here are some differences between redirect pathing and normal pathing:
+
+- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
 - Redirects allows you to type in a short form of a folder rather than getting the entire path.
   - Which one would you use? (Hint: You would probably pick the second option.)
     1. `[OWC 2015](/wiki/Tournaments/OWC/2015)`
     2. `[OWC 2015](/wiki/OWC_2015)`
-- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
 - Redirects are quicker in most situations.
   - Which one would you use? (Hint: You would probably pick the second option.)
     1. `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)`
@@ -472,16 +308,11 @@ Whenever possible, use the current user's name instead of the user's previous na
 
 ---
 
-Unfortunately, _osu!_ does not provide an easy, straightforward way to get the user's id number.
-Here are some ways you can get it:
+To get a user's id number:
 
-1. Go to the user's page using the username search.
-2. Click on:
-   - Said user's beatmap page link (that they created)
-     1. Click on the Creator link
-     2. In the address box, the value after `/u/` is the user's id number.
-   - Compose a message (the mail icon)
-     1. In the address box, the value after for the URL parameter `&u=` is the user's id number.
+1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar.
+2. Press `Enter`.
+3. Once the page loads, osu!web will convert the username to an id.
 
 ##### Beatmaps
 
@@ -492,7 +323,7 @@ Whenever linking to a beatmap, use this format as the link text:
 ```
 
 When linking to a beatmap, make sure that the link actually links to that difficulty.
-All beatmap difficulty URLs looks like this: `https://new.ppy.sh/b/{BeatmapID}`.
+All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/b/{BeatmapID}`.
 
 ##### Beatmapsets
 
@@ -502,25 +333,19 @@ Whenever linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficulty URLs looks like this: `https://new.ppy.sh/s/{BeatmapSetID}`.
+All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSetID}`.
 
 ### Images
 
 The markup for images is similar for [links](#links).
 The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
 
-**Example:**
-
-```
-![alt text](comboscanhurt.jpg "title text")
-```
-
 Like the [links](#links), you can use either reference or inline style when linking to images.
 
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
 
-#### File Names
+#### Media File Names
 
 **All image file extensions must use lowercase letters, otherwise they will fail to load!**
 
@@ -541,7 +366,6 @@ When you have an image **without** transparency, use `.jpg` (or `.jpeg`).
 When you have an image **with** transparency, use `.png`.
 If the media file is animated, use `.gif`.
 
-
 #### Alternate and Title Text
 
 All images must have an alternate text.
@@ -560,12 +384,15 @@ Images are automatically given captions if they fulfill these rules:
 
 The syntax for captions are the same as normal Markdown images.
 
+Image captions must be plain text and never contain style or link markup.
+
 #### Image Links
 
-**Images are never to be given links!**
-On a PC platform, they will work most of the time.
+Do not use image links!
+Image links are links with the image as the link text.
 
-However, on mobile, they will not work as the pointer event will trigger the hover text, not the link.
+On a PC platform, they will work.
+However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
 
 #### Flag icons
 
@@ -587,15 +414,6 @@ When adding a flag inline, use this format:
 
 Tables use the GFM syntax.
 
-**Example:**
-
-```
-| Heading A | Heading B |
-|-----------|-----------|
-| Data A1   | Data B1   |
-| Data A2   | Data B2   |
-```
-
 If you cannot create a table because _something_ would not work without HTML (e.g. lists inside tables), you are overthinking both the table and the content.
 If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
 
@@ -616,6 +434,18 @@ Some tools for beautifying tables are:
   - this will require you to use [VS Code](https://code.visualstudio.com/)
 - [Markdown Table Formatter](http://markdowntable.com/)
   - alignment syntax (`:`) will not parse correctly
+
+### Horizontal Bar
+
+Use horizontal bars sparingly.
+
+A few uses of the horizontal bar may include (but is not limited to):
+
+- separating images from text
+- marking the end of a "section" within the same section
+
+When using the horizontal bar, make sure there is an empty line above and below the markup.
+Otherwise, osu!web will think the text above is a heading level 2.
 
 ## 中文相关
 
@@ -781,18 +611,30 @@ osu! 中常用的缩写**必须**大写。
 - `Double Time`
 - `Easy`
 
-## Miscellaneous
+### Gameplay Elements
 
-- These words are spelt as follows (note the space):
-  - `hit circles`
-  - `approach circles`
-  - `slider ticks`
-  - `slider ball`
-  - `slider path`
-  - `hit burst`
-  - `game mode` (or just `mode`)
-  - `game mod` (or just `mod`)
-  - `play style`
-  - `hit sound`
-- The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
-- The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definations as stated in the [Glossary](/wiki/Glossary/).
+Gameplay elements should **never** be capitalised.
+For example:
+
+- In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
+- The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
+
+---
+
+These words are spelt as follows (note the space):
+
+- `hit circles`
+- `approach circles`
+- `slider ticks`
+- `slider ball`
+- `slider path`
+- `hit burst`
+- `game mode` (or just `mode`)
+- `game mod` (or just `mod`)
+- `play style`
+- `hit sound`
+
+---
+
+The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable).
+The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definitions as stated in the [Glossary](/wiki/Glossary/).
