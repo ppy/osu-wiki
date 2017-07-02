@@ -32,7 +32,7 @@ Here, you can make new threads or posts within discussions inside of the osu!com
     - [Confirmed Issues](https://osu.ppy.sh/community/forums/101)
 - [Beatmaps](https://osu.ppy.sh/community/forums/2)
   - [Ranked/Approved Beatmaps](https://osu.ppy.sh/community/forums/14): _Officially approved beatmaps reside in here._
-  - [Pending Beatmaps](https://osu.ppy.sh/community/forums/146): _Beatmaps that are usually complete but pending approval._
+  - [Pending Beatmaps](https://osu.ppy.sh/community/forums/6): _Beatmaps that are usually complete but pending approval._
   - [Works In Progress/Help](https://osu.ppy.sh/community/forums/10): _Post your work-in-progress beatmaps, or find general help in here!_
     - [General Questions](https://osu.ppy.sh/community/forums/56)
     - [Storyboarding](https://osu.ppy.sh/community/forums/20): _Discuss storyboarding, request help, and share your WIPs._

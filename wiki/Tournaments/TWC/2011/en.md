@@ -1,15 +1,15 @@
 Taiko World Cup 2011
 ======================
 
-[2011 Taiko World Cup (15th Apr ~ 29th May) hosted by lepidopodus](//osu.ppy.sh/forum/t/47356)
+[2011 Taiko World Cup (15th Apr ~ 29th May) hosted by lepidopodus](https://osu.ppy.sh/forum/t/47356)
 
 ![TWC 2011 logo](logo.png)
 
 ![TWC 2011 logo](results.png)
 
-Statistics is available ==> [here](//spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)
+Statistics is available ==> [here](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)
 
-Streaming was offered by [dvorak](//www.ustream.tv/channel/osu-dvo) and [matthewhln](//www.justin.tv/matthewhln). Check those channels for streaming!
+Streaming was offered by [dvorak](https://www.ustream.tv/channel/osu-dvo) and [matthewhln](https://www.justin.tv/matthewhln). Check those channels for streaming!
 
 Tournament Instructions
 --------------------------
@@ -58,100 +58,100 @@ Groups
 
 **IMPORTANT**: If you want to change the time, **contact to the captain of the opponent team** and make agreement between both captains first, then notify manager by PM or post here. If you have any troubles with contacting them, tell manager for some help.
 
-Don't forget to apply [Daylight Saving Time](//upload.wikimedia.org/wikipedia/commons/2/29/DaylightSaving-World-Subdivisions.png)!
+Don't forget to apply [Daylight Saving Time](https://upload.wikimedia.org/wikipedia/commons/2/29/DaylightSaving-World-Subdivisions.png)!
 
 Previous timetable is here. **Round 1-1**
 
 **Group A**
 
-*   ![](/wiki/shared/flag/Ph.gif) **Philippines** vs ![](/wiki/shared/flag/Cn.gif) **China**: 16th April 12:00 UTC (20:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/My.gif) **Malaysia** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 16th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/My.gif) **Malaysia**: 17th April 12:00 UTC (20:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/flag/Ph.gif) **Philippines** vs ![](/wiki/shared/flag/De.gif) **Germany A**: 17th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![][flag_PH] **Philippines** vs ![][flag_CN] **China**: 16th April 12:00 UTC (20:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_MY] **Malaysia** vs ![][flag_ITNL] **Italy-Netherlands**: 16th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_CN] **China** vs ![][flag_MY] **Malaysia**: 17th April 12:00 UTC (20:00 UTC+8) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
+*   ![][flag_PH] **Philippines** vs ![][flag_DE] **Germany A**: 17th April 13:00 UTC (14:00 UTC+1, 21:00 UTC+8) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
 
 **Group B**
 
-*   ![](//wiki/shared/flag/Tw.gif) **Taiwan** vs ![](//wiki/shared/flag/Fr.gif) **France**: 16th April 14:00 UTC (15:00 UTC+1, 22:00 UTC+8) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
-*   ![](//wiki/shared/flag/Gb.gif) **United Kingdom** vs ![](//wiki/shared/flag/Kr.gif) **Korea A**: 15th April 15:10 UTC (16th 00:10 UTC+9) (Referee: **[lepidopodus](//osu.ppy.sh/u/119188)**)
+*   ![](https:[flag_TW] **Taiwan** vs ![](https:[flag_FR] **France**: 16th April 14:00 UTC (15:00 UTC+1, 22:00 UTC+8) (Referee: **[lepidopodus](https://osu.ppy.sh/u/119188)**)
+*   ![](https:[flag_GB] **United Kingdom** vs ![](https:[flag_KR] **Korea A**: 15th April 15:10 UTC (16th 00:10 UTC+9) (Referee: **[lepidopodus](https://osu.ppy.sh/u/119188)**)
 
 **Group C**
 
-*   ![](/wiki/shared/flag/Pl.gif) **Poland** vs ![](/wiki/shared/flag/Hk.gif) **Hong Kong**: 16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*　　![](/wiki/shared/flag/Us.gif) **United States** vs ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: 16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_PL] **Poland** vs ![][flag_HK] **Hong Kong**: 16th April 11:00 UTC (12:00 UTC+1, 19:00 UTC+8) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*　　![][flag_US] **United States** vs ![][flag_ITNL] **Brazil-Chile**: 16th April 23:00 UTC (18:00 UTC-5, 19:00 UTC-4, 20:00 UTC-3) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/flag/Fi.gif) **Finland** vs ![](/wiki/shared/flag/De.gif) **Germany B**: 16th April 17:00 (18:00 in UTC+1, 19:00 in UTC+2) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 17th April 11:00 UTC (20:00 in UTC+9) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
+*   ![][flag_FI] **Finland** vs ![][flag_DE] **Germany B**: 16th April 17:00 (18:00 in UTC+1, 19:00 in UTC+2) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
+*   ![][flag_KR] **Korea B** vs ![][flag_JP] **Japan**: 17th April 11:00 UTC (20:00 in UTC+9) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
 
 **Round 1-2**
 
 **Group A**
 
-*   ![](/wiki/shared/flag/De.gif) **Germany A** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 26th April 18:00 UTC (20:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_DE] **Germany A** vs ![][flag_ITNL] **Italy-Netherlands**: 26th April 18:00 UTC (20:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
 **Group B**
 
-*   ![](/wiki/shared/flag/Gb.gif) **United Kingdom** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 22nd April 14:00 UTC (15:00 WEST, 22:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/flag/Kr.gif) **Korea A** vs ![](/wiki/shared/flag/Fr.gif) **France**: 22nd April 15:10 UTC (17:10 CEST, 23rd 00:10 KST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![][flag_GB] **United Kingdom** vs ![][flag_TW] **Taiwan**: 22nd April 14:00 UTC (15:00 WEST, 22:00 NST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
+*   ![][flag_KR] **Korea A** vs ![][flag_FR] **France**: 22nd April 15:10 UTC (17:10 CEST, 23rd 00:10 KST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
 
 **Group C**
 
-*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/Us.gif) **United States**: 23rd Apirl 4:00 UTC (12:00 HKT, 22th 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/BrCl.png) **Brazil-Chile** vs ![](/wiki/shared/flag/Pl.gif) **Poland**: 26th April 20:00 UTC (16:00 CLT, 17:00 BRT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_HK] **Hong Kong** vs ![][flag_US] **United States**: 23rd Apirl 4:00 UTC (12:00 HKT, 22th 21:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_BRCL] **Brazil-Chile** vs ![][flag_PL] **Poland**: 26th April 20:00 UTC (16:00 CLT, 17:00 BRT, 22:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Fi.gif) **Finland**: 24th April 13:00 UTC (16:00 EEST, 22:00 KST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_KR] **Korea B** vs ![][flag_FI] **Finland**: 24th April 13:00 UTC (16:00 EEST, 22:00 KST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
-　　![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/De.gif) **Germany B**: 24th April 14:00 UTC (16:00 CEST, 23:00 JST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+　　![][flag_JP] **Japan** vs ![][flag_DE] **Germany B**: 24th April 14:00 UTC (16:00 CEST, 23:00 JST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
 
 **Round 1-3**
 
 **Group A**
 
-*   ![](/wiki/shared/flag/De.gif) **Germany A** vs ![](/wiki/shared/flag/My.gif) **Malaysia**: 29th April 12:00 UTC (14:00 CEST, 20:00 MST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
-*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/flag/Cn.gif) **China**: 30th April 12:15 UTC (14:15 CEST, 20:15 Beijing time) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands** vs ![](/wiki/shared/flag/Ph.gif) **Philippines**: 30th April 15:00 UTC (17:00 CEST, 23:00 PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/My.gif) **Malaysia** vs ![](/wiki/shared/flag/Ph.gif) **Philippines**: 1st May 11:00 UTC (19:00 MST/PST) (Referee: [Alace](//osu.ppy.sh/u/25993))
-*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/De.gif) **Germany A**: 1st May 12:00 UTC (20:00 Beijing time, 14:00 CEST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![][flag_DE] **Germany A** vs ![][flag_MY] **Malaysia**: 29th April 12:00 UTC (14:00 CEST, 20:00 MST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
+*   ![][flag_ITNL] **Italy-Netherlands** vs ![][flag_CN] **China**: 30th April 12:15 UTC (14:15 CEST, 20:15 Beijing time) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_ITNL] **Italy-Netherlands** vs ![][flag_PH] **Philippines**: 30th April 15:00 UTC (17:00 CEST, 23:00 PST) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_MY] **Malaysia** vs ![][flag_PH] **Philippines**: 1st May 11:00 UTC (19:00 MST/PST) (Referee: [Alace](https://osu.ppy.sh/u/25993))
+*   ![][flag_CN] **China** vs ![][flag_DE] **Germany A**: 1st May 12:00 UTC (20:00 Beijing time, 14:00 CEST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
 
 **Group B**
 
-*   ![](/wiki/shared/flag/Kr.gif) **Korea A** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 30th April 11:30 UTC (20:30 KST, 19:30 NST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/flag/Fr.gif) **France** vs ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: 30th April 18:00 UTC (20:00 CEST, 19:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_KR] **Korea A** vs ![][flag_TW] **Taiwan**: 30th April 11:30 UTC (20:30 KST, 19:30 NST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
+*   ![][flag_FR] **France** vs ![][flag_GB] **United Kingdom**: 30th April 18:00 UTC (20:00 CEST, 19:00 WEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
 **Group C**
 
-*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: 30th April 2:00 UTC (10:00 HKT, 29th 22:00 CLT, 29th 23:00 BRT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
-*   ![](/wiki/shared/flag/Us.gif) **United States** vs ![](/wiki/shared/flag/Pl.gif) **Poland**: 30th April 20:00 UTC (13:00 PDT, 22:00 CEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
+*   ![][flag_HK] **Hong Kong** vs ![][flag_ITNL] **Brazil-Chile**: 30th April 2:00 UTC (10:00 HKT, 29th 22:00 CLT, 29th 23:00 BRT) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
+*   ![][flag_US] **United States** vs ![][flag_PL] **Poland**: 30th April 20:00 UTC (13:00 PDT, 22:00 CEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
 
 **Group D**
 
-*   ![](/wiki/shared/flag/De.gif) **Germany B** vs ![](/wiki/shared/flag/Kr.gif) **Korea B**: 30th April 13:00 UTC (15:00 CEST, 22:00 KST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/Fi.gif) **Finland**: 1st May 13:00 UTC (22:00 JST, 16.00 EEST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![][flag_DE] **Germany B** vs ![][flag_KR] **Korea B**: 30th April 13:00 UTC (15:00 CEST, 22:00 KST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
+*   ![][flag_JP] **Japan** vs ![][flag_FI] **Finland**: 1st May 13:00 UTC (22:00 JST, 16.00 EEST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
 
 **Round 2**
 
-*   ![](/wiki/shared/flag/Tw.gif) **Taiwan** vs ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: 7th May 12:00 UTC (20:00 NST, 14:00 CEST) (Referee: **[arien666](//osu.ppy.sh/u/113646)**)
-*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: 7th May 14:00 UTC (22:00 Beijing time, 15:00 WEST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/flag/Kr.gif) **Korea B** vs ![](/wiki/shared/flag/Us.gif) **United States**: 7th May 22:30 UTC (8th 7:30 KST, 15:30 PDT) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
-*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 8th May 13:00 UTC (21:00 HKT, 22:00 JST) (Referee: **[lepidopodus](//osu.ppy.sh/u/194807)**)
+*   ![][flag_TW] **Taiwan** vs ![][flag_ITNL] **Italy-Netherlands**: 7th May 12:00 UTC (20:00 NST, 14:00 CEST) (Referee: **[arien666](https://osu.ppy.sh/u/113646)**)
+*   ![][flag_CN] **China** vs ![][flag_GB] **United Kingdom**: 7th May 14:00 UTC (22:00 Beijing time, 15:00 WEST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
+*   ![][flag_KR] **Korea B** vs ![][flag_US] **United States**: 7th May 22:30 UTC (8th 7:30 KST, 15:30 PDT) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
+*   ![][flag_HK] **Hong Kong** vs ![][flag_JP] **Japan**: 8th May 13:00 UTC (21:00 HKT, 22:00 JST) (Referee: **[lepidopodus](https://osu.ppy.sh/u/194807)**)
 
 **Round 3**
 
-*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Jp.gif) **Japan**: 14th May 14:00 UTC (22:00 Beijing time, 23:00 JST) (Referee: **[Noobita](//osu.ppy.sh/u/119188)**)
-*   ![](/wiki/shared/flag/Tw.gif) **Taiwan** vs ![](/wiki/shared/flag/Us.gif) **United States**: 14th May 15:00 UTC (23:00 NST, 8:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![][flag_CN] **China** vs ![][flag_JP] **Japan**: 14th May 14:00 UTC (22:00 Beijing time, 23:00 JST) (Referee: **[Noobita](https://osu.ppy.sh/u/119188)**)
+*   ![][flag_TW] **Taiwan** vs ![][flag_US] **United States**: 14th May 15:00 UTC (23:00 NST, 8:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
 
 **Round 4**
 
 **Final**
 
-*   ![](/wiki/shared/flag/Jp.gif) **Japan** vs ![](/wiki/shared/flag/Tw.gif) **Taiwan**: 29th May 12:00 UTC (21:00 JST, 20:00 NST) (Referee: **[wmfchris](//osu.ppy.sh/u/7401)**)
+*   ![][flag_JP] **Japan** vs ![][flag_TW] **Taiwan**: 29th May 12:00 UTC (21:00 JST, 20:00 NST) (Referee: **[wmfchris](https://osu.ppy.sh/u/7401)**)
 
 **3rd Place Play-off**
 
-*   ![](/wiki/shared/flag/Cn.gif) **China** vs ![](/wiki/shared/flag/Us.gif) **United States**: 22nd May 4:00 UTC (12:00 Beijing time, 21st 21:00 PDT) (Referee: [Alace](//osu.ppy.sh/u/25993))
+*   ![][flag_CN] **China** vs ![][flag_US] **United States**: 22nd May 4:00 UTC (12:00 Beijing time, 21st 21:00 PDT) (Referee: [Alace](https://osu.ppy.sh/u/25993))
 
 ## Map List
 
@@ -162,143 +162,143 @@ Previous Map List is here.
 
 ### Round 1-1
 
-*   [3oh!3 - Chokechain (Gens) \[Hard\]](//osu.ppy.sh/s/10863)
-*   [Boom Boom Satelites - Shut Up And Explode (Lissette) \[Insane\]](//osu.ppy.sh/s/21464)
-*   [ESTi - SIN (MoonFragrance) \[Taiko\]](//osu.ppy.sh/s/18751)
-*   [dj TAKA feat. Erika Mochizuki - MOON (Gabi) \[youngdow's Taiko Oni\]](//osu.ppy.sh/s/16466)
-*   [jun - KIMONO \<3 PRINCESS (ouranhshc) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/s/19691)
-*   [Kamui Gakupo, KAITO, Kagamine Len - IMITATION BLACK (Shinxyn) \[Insane\]](//osu.ppy.sh/s/9309)
-*   [Megurine Luka - DYE (Shinxyn) \[Hard\]](//osu.ppy.sh/s/12903)
-*   [Muse - MK Ultra (DJ KRZY) \[31's Taiko\]](//osu.ppy.sh/s/14217)
-*   [ND Lee - Y (MoonFragrance) \[Taiko\]](//osu.ppy.sh/s/20044)
-*   [Nico Nico Douga - Kamijo-san & Biribiri at The Skyhigh (KIA) \[Taiko Oni\]](//osu.ppy.sh/s/14300)
-*   [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](//osu.ppy.sh/s/25392)
-*   [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) \[Taiko Oni\]](//osu.ppy.sh/s/9517)
-*   [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](//osu.ppy.sh/s/14818)
-*   [Taiko no Tatsujin - Kimi no Akari (aquabluu) \[Oni\]](//osu.ppy.sh/s/16607)
-*   [xi - Halcyon (gowww) \[miccoli's diff\]](//osu.ppy.sh/s/20871)
-*   [YUI - LIFE (JauiPlaY) \[LIFE\]](//osu.ppy.sh/s/17077)
-*   [Zun - Doll Judgment ~The Girl Who Played with People's Shapes (Zekira) \[Lunatic\]](//osu.ppy.sh/s/11873)
+*   [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/s/10863)
+*   [Boom Boom Satelites - Shut Up And Explode (Lissette) \[Insane\]](https://osu.ppy.sh/s/21464)
+*   [ESTi - SIN (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/18751)
+*   [dj TAKA feat. Erika Mochizuki - MOON (Gabi) \[youngdow's Taiko Oni\]](https://osu.ppy.sh/s/16466)
+*   [jun - KIMONO \<3 PRINCESS (ouranhshc) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/19691)
+*   [Kamui Gakupo, KAITO, Kagamine Len - IMITATION BLACK (Shinxyn) \[Insane\]](https://osu.ppy.sh/s/9309)
+*   [Megurine Luka - DYE (Shinxyn) \[Hard\]](https://osu.ppy.sh/s/12903)
+*   [Muse - MK Ultra (DJ KRZY) \[31's Taiko\]](https://osu.ppy.sh/s/14217)
+*   [ND Lee - Y (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/20044)
+*   [Nico Nico Douga - Kamijo-san & Biribiri at The Skyhigh (KIA) \[Taiko Oni\]](https://osu.ppy.sh/s/14300)
+*   [Pastry - Goblin Girl (osuplayer111) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/25392)
+*   [Rie Kugimiya - Suki? Kirai!? Suki!!! (Sushi971) \[Taiko Oni\]](https://osu.ppy.sh/s/9517)
+*   [SID - Rain (TV Size) (KIA) \[aru's Taiko Oni\]](https://osu.ppy.sh/s/14818)
+*   [Taiko no Tatsujin - Kimi no Akari (aquabluu) \[Oni\]](https://osu.ppy.sh/s/16607)
+*   [xi - Halcyon (gowww) \[miccoli's diff\]](https://osu.ppy.sh/s/20871)
+*   [YUI - LIFE (JauiPlaY) \[LIFE\]](https://osu.ppy.sh/s/17077)
+*   [Zun - Doll Judgment ~The Girl Who Played with People's Shapes (Zekira) \[Lunatic\]](https://osu.ppy.sh/s/11873)
 
 #### Maps for final game (2:2)
 
-*   [L'Arc~en~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/s/19681)
-*   [Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](//osu.ppy.sh/s/20309)
+*   [L'Arc~en~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/19681)
+*   [Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](https://osu.ppy.sh/s/20309)
 
 ### Round 1-2
 
-*   [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](//osu.ppy.sh/s/13451)
-*   [Chata - Yuujou Pop (Rorry) \[Taiko Oni\]](//osu.ppy.sh/s/22404)
-*   [ClariS - Irony (TV Size) \[Natteke's Taiko\]](//osu.ppy.sh/s/22121)
-*   [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[H-boy's Hyper\]](//osu.ppy.sh/s/16619)
-*   [dj TAKA feat.Kanako Hoshino - DROP (Sharp) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/s/22925)
-*   [ESTi - Ladymade Star (lzy) \[lepidon's Taiko Oni\]](//osu.ppy.sh/s/13216)
-*   [ESTi - Oblivion (MoonFragrance) \[Taiko\]](//osu.ppy.sh/s/20245)
-*   [Forte Escape - End of the Moonlight (MoonFragrance) \[Taiko\]](//osu.ppy.sh/s/16773)
-*   [fripSide - future gazer (TV Size) (SamiPale) \[Climbb's Taiko Oni\]](//osu.ppy.sh/s/22041)
-*   [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! - Taiko Oni\]](//osu.ppy.sh/s/23906)
-*   [HTT - Pure Pure Heart (miccoliasms) \[miccoli\]](//osu.ppy.sh/s/16523)
-*   [Koike Masato - Raging Waves (LKs) \[Climbb's Taiko Oni\]](//osu.ppy.sh/s/16417)
-*   [Komiya Mao - Yozakura (Alace) \[Taiko Oni\]](//osu.ppy.sh/s/26337)
-*   [Starving Trancer feat, Maki - Agony (James) \[Hard\]](//osu.ppy.sh/s/8196)
-*   [Taiko no Tatsujin - Mekadesu. (Zekira) \[Oni (2nd Gen)\]](//osu.ppy.sh/s/10568)
-*   [Whiteberry - Natsu Matsuri (NatsumeRin) \[Oni\]](//osu.ppy.sh/s/12823)
-*   [Yoko Takahashi - Cruel Angel's Thesis (TV Size) (lepidopodus) \[Taiko Inner Oni (Tatsujin)\]](//osu.ppy.sh/s/21472)
-*   [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](//osu.ppy.sh/s/20005)
+*   [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/s/13451)
+*   [Chata - Yuujou Pop (Rorry) \[Taiko Oni\]](https://osu.ppy.sh/s/22404)
+*   [ClariS - Irony (TV Size) \[Natteke's Taiko\]](https://osu.ppy.sh/s/22121)
+*   [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[H-boy's Hyper\]](https://osu.ppy.sh/s/16619)
+*   [dj TAKA feat.Kanako Hoshino - DROP (Sharp) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/22925)
+*   [ESTi - Ladymade Star (lzy) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/s/13216)
+*   [ESTi - Oblivion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/20245)
+*   [Forte Escape - End of the Moonlight (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/s/16773)
+*   [fripSide - future gazer (TV Size) (SamiPale) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/22041)
+*   [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/s/23906)
+*   [HTT - Pure Pure Heart (miccoliasms) \[miccoli\]](https://osu.ppy.sh/s/16523)
+*   [Koike Masato - Raging Waves (LKs) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/s/16417)
+*   [Komiya Mao - Yozakura (Alace) \[Taiko Oni\]](https://osu.ppy.sh/s/26337)
+*   [Starving Trancer feat, Maki - Agony (James) \[Hard\]](https://osu.ppy.sh/s/8196)
+*   [Taiko no Tatsujin - Mekadesu. (Zekira) \[Oni (2nd Gen)\]](https://osu.ppy.sh/s/10568)
+*   [Whiteberry - Natsu Matsuri (NatsumeRin) \[Oni\]](https://osu.ppy.sh/s/12823)
+*   [Yoko Takahashi - Cruel Angel's Thesis (TV Size) (lepidopodus) \[Taiko Inner Oni (Tatsujin)\]](https://osu.ppy.sh/s/21472)
+*   [Yuuna Kamishiro - Shrill False (vivicat) \[31's Taiko\]](https://osu.ppy.sh/s/20005)
 
 #### Maps for final game (2:2)
 
-*   [9mm Parabellum Bullet - Punishment (lepidopodus) [Taiko Oni]](//osu.ppy.sh/s/16715)
-*   [Anamanaguchi - Rock Club (Sushi) [Taiko]](//osu.ppy.sh/s/20801)
+*   [9mm Parabellum Bullet - Punishment (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/16715)
+*   [Anamanaguchi - Rock Club (Sushi) [Taiko]](https://osu.ppy.sh/s/20801)
 
 ### Round 1-3
 
-*   [_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) [Roko-Don's Taiko]](//osu.ppy.sh/s/20266)
-*   [Bangsili - Ah! Salvia (DJ Cheori Remix Ver.) (ykcarrot) [Shino's Taiko]](//osu.ppy.sh/s/20403)
-*   [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~ (xierbaliti) [Taiko Ura Oni]](//osu.ppy.sh/s/19809)
-*   [ClariS - Connect (TV Size) [Climbb's Taiko Oni]](//osu.ppy.sh/s/24565)
-*   [Dai2BungeibuBand - KiraKira (Short Ver.) (Tenshi-nyan) [Ozzy's Taiko]](//osu.ppy.sh/s/24458)
-*   [fripSide - fortissimo -the ultimate crisis- (osuplayer111) [Kana's Taiko]](//osu.ppy.sh/s/26767)
-*   [Hatsune Miku - Nightmare Party Night (banvi) [Ono's Taiko Oni]](//osu.ppy.sh/s/23053)
-*   [IOSYS - Danzai Yamaxanadu (Zekira) [The Last Judgement]](//osu.ppy.sh/s/13654)
-*   [Jimmy Eat World - The Middle (Gonzvlo) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/24685)
-*   [jun - SILVER DREAM (Twinkle Mix) (ouranhshc) [31's Taiko]](//osu.ppy.sh/s/22517)
-*   [M2U - The Prince of Darkness (TKiller) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/12974)
-*   [Megpoid GUMI - Poker Face (NatsumeRin) [Taiko Joker]](//osu.ppy.sh/s/24782)
-*   [Ryo Yoshimata - Resolver (haha5957) [31's Taiko]](//osu.ppy.sh/s/22650)
-*   [Shimotsuki Haruka - Omoi no Kanata (Short ver.) [aabc's Taiko]](//osu.ppy.sh/s/25838)
-*   [Taiko no Tatsujin - Saitama2000 (Kharl) [Taiko]](//osu.ppy.sh/s/210)
-*   [YuFu - Holy Moon (wmfchris) [Taiko]](//osu.ppy.sh/s/14561)
-*   [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (lepidopodus) [Taiko Oni]](//osu.ppy.sh/s/19013)
-*   [zts - WhiteBlue (MoonFragrance) [Taiko]](//osu.ppy.sh/s/17610)
+*   [_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) [Roko-Don's Taiko]](https://osu.ppy.sh/s/20266)
+*   [Bangsili - Ah! Salvia (DJ Cheori Remix Ver.) (ykcarrot) [Shino's Taiko]](https://osu.ppy.sh/s/20403)
+*   [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~ (xierbaliti) [Taiko Ura Oni]](https://osu.ppy.sh/s/19809)
+*   [ClariS - Connect (TV Size) [Climbb's Taiko Oni]](https://osu.ppy.sh/s/24565)
+*   [Dai2BungeibuBand - KiraKira (Short Ver.) (Tenshi-nyan) [Ozzy's Taiko]](https://osu.ppy.sh/s/24458)
+*   [fripSide - fortissimo -the ultimate crisis- (osuplayer111) [Kana's Taiko]](https://osu.ppy.sh/s/26767)
+*   [Hatsune Miku - Nightmare Party Night (banvi) [Ono's Taiko Oni]](https://osu.ppy.sh/s/23053)
+*   [IOSYS - Danzai Yamaxanadu (Zekira) [The Last Judgement]](https://osu.ppy.sh/s/13654)
+*   [Jimmy Eat World - The Middle (Gonzvlo) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/24685)
+*   [jun - SILVER DREAM (Twinkle Mix) (ouranhshc) [31's Taiko]](https://osu.ppy.sh/s/22517)
+*   [M2U - The Prince of Darkness (TKiller) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/12974)
+*   [Megpoid GUMI - Poker Face (NatsumeRin) [Taiko Joker]](https://osu.ppy.sh/s/24782)
+*   [Ryo Yoshimata - Resolver (haha5957) [31's Taiko]](https://osu.ppy.sh/s/22650)
+*   [Shimotsuki Haruka - Omoi no Kanata (Short ver.) [aabc's Taiko]](https://osu.ppy.sh/s/25838)
+*   [Taiko no Tatsujin - Saitama2000 (Kharl) [Taiko]](https://osu.ppy.sh/s/210)
+*   [YuFu - Holy Moon (wmfchris) [Taiko]](https://osu.ppy.sh/s/14561)
+*   [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/19013)
+*   [zts - WhiteBlue (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/17610)
 
 #### Maps for final game (2:2)
 
-*   [Ai Otsuka - Sakuranbo (S i R i R u) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/16928)
-*   [yak_won - lucid (soulfear) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/15898)
+*   [Ai Otsuka - Sakuranbo (S i R i R u) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/16928)
+*   [yak_won - lucid (soulfear) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/15898)
 
 ### Round 2
 
-*   [3rd Coast & Paul Bazooka - Luv Flow (Funky House Mix) (MoonFragrance) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/25241)
-*   [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) [Taiko]](//osu.ppy.sh/s/21657)
-*   [DAISUKE ASAKURA - stealth (ouranhshc) [31's Taiko]](//osu.ppy.sh/s/17367)
-*   [Denji Sano - Taiko Time (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/24320)
-*   [DJ Amuro remixed by DM Ashura - AAA (Clickz) [wmf's Taiko]](//osu.ppy.sh/s/22607)
-*   [DJ YOSHITAKA - ALBIDA (TKiller) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/23416)
-*   [Galdeira - Almagest (Wuiss) [31's Taiko]](//osu.ppy.sh/s/21915)
-*   [Hatsune Miku - Romeo and Cinderella (Nekoo[]) [31's Taiko]](//osu.ppy.sh/s/21954)
-*   [Makou - Hamsin (MoonFragrance) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/16913)
-*   [Nami Nakagawa - DON'T CUT (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/19055)
-*   [Niko - Night of Fire (Gabi) [lepidon's Taiko Oni]](//osu.ppy.sh/s/18923)
-*   [Ochiai Yurika - Koibumi2000 (arken1015) [Taiko Oni (Tatsujin)]](//osu.ppy.sh/s/10539)
-*   [ParagonX9 - Chaoz Fantasy (Aoitenshi) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/12465)
-*   [Suzaku VS Genbu - Himiko (Mysterica) [Another]](//osu.ppy.sh/s/12710)
+*   [3rd Coast & Paul Bazooka - Luv Flow (Funky House Mix) (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/25241)
+*   [Camille Saint-saens & FIRST AID - D2 (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/21657)
+*   [DAISUKE ASAKURA - stealth (ouranhshc) [31's Taiko]](https://osu.ppy.sh/s/17367)
+*   [Denji Sano - Taiko Time (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/24320)
+*   [DJ Amuro remixed by DM Ashura - AAA (Clickz) [wmf's Taiko]](https://osu.ppy.sh/s/22607)
+*   [DJ YOSHITAKA - ALBIDA (TKiller) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/23416)
+*   [Galdeira - Almagest (Wuiss) [31's Taiko]](https://osu.ppy.sh/s/21915)
+*   [Hatsune Miku - Romeo and Cinderella (Nekoo[]) [31's Taiko]](https://osu.ppy.sh/s/21954)
+*   [Makou - Hamsin (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/16913)
+*   [Nami Nakagawa - DON'T CUT (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/19055)
+*   [Niko - Night of Fire (Gabi) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/18923)
+*   [Ochiai Yurika - Koibumi2000 (arken1015) [Taiko Oni (Tatsujin)]](https://osu.ppy.sh/s/10539)
+*   [ParagonX9 - Chaoz Fantasy (Aoitenshi) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/12465)
+*   [Suzaku VS Genbu - Himiko (Mysterica) [Another]](https://osu.ppy.sh/s/12710)
 
 #### Maps for final game (3:3)
 
-*   [Frederic Chopin - Etude Op. 10-4 (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/22374)
+*   [Frederic Chopin - Etude Op. 10-4 (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/22374)
 
 ### Round 3
 
-*   [07th Expansion - dreamenddischarger (AngelHoney) [Insane]](//osu.ppy.sh/s/16258)
-*   [Demetori - Jehovah's YaHVeH (happy30) [Taiko]](//osu.ppy.sh/s/9641)
-*   [Jonathan Underdown - IN THE ZONE (lepidopodus) [Taiko Oni]](//osu.ppy.sh/s/23502)
-*   [Len - U.N. Owen was her? (Louis Cyphre) [lepidon's Taiko Oni]](//osu.ppy.sh/s/22699)
-*   _[Linda AI-CUE - Soroban2000 (lepidopodus) [Oni for TWC]](//kodoup.astoni.sh/index.php/files/get/up0P6g-4Bl/linda-ai-cue-soroban2000.osz)_
-*   _[LindaAI-CUE - X-DAY2000 (arien666) [Taiko Oni]](//osu.ppy.sh/s/13713)_
-*   [M2U - Blythe (MoonFragrance) [lepidon! - Taiko Oni]](//osu.ppy.sh/s/19874)
-*   [Makou - Fermion (MoonFragrance) [Taiko]](//osu.ppy.sh/s/20723)
-*   [Maximum the Hormone - What's Up, People? (Louis Cyphre) [Aru's 666 Taiko]](//osu.ppy.sh/s/13320)
-*   [MC Lynn - EkiBEN2000 (arken1015) [Taiko Oni]](//osu.ppy.sh/s/9782)
-*   [SADA - STAR FIELD (yeahyeahyeahhh) [lepidon's Taiko Oni]](//osu.ppy.sh/s/22847)
-*   [Zeami - Black Rose Apostle (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/23838)
-*   [ZUN - Faith is for the Transient people (thepianist) [dksslqj's Lunatic]](//osu.ppy.sh/s/12119)
-*   [ZUN - Necrofantasia (Fight69) [Wmf's Taikofantasia]](//osu.ppy.sh/s/15812)
+*   [07th Expansion - dreamenddischarger (AngelHoney) [Insane]](https://osu.ppy.sh/s/16258)
+*   [Demetori - Jehovah's YaHVeH (happy30) [Taiko]](https://osu.ppy.sh/s/9641)
+*   [Jonathan Underdown - IN THE ZONE (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/23502)
+*   [Len - U.N. Owen was her? (Louis Cyphre) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/22699)
+*   _[Linda AI-CUE - Soroban2000 (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/up0P6g-4Bl/linda-ai-cue-soroban2000.osz)_
+*   _[LindaAI-CUE - X-DAY2000 (arien666) [Taiko Oni]](https://osu.ppy.sh/s/13713)_
+*   [M2U - Blythe (MoonFragrance) [lepidon! - Taiko Oni]](https://osu.ppy.sh/s/19874)
+*   [Makou - Fermion (MoonFragrance) [Taiko]](https://osu.ppy.sh/s/20723)
+*   [Maximum the Hormone - What's Up, People? (Louis Cyphre) [Aru's 666 Taiko]](https://osu.ppy.sh/s/13320)
+*   [MC Lynn - EkiBEN2000 (arken1015) [Taiko Oni]](https://osu.ppy.sh/s/9782)
+*   [SADA - STAR FIELD (yeahyeahyeahhh) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/22847)
+*   [Zeami - Black Rose Apostle (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/23838)
+*   [ZUN - Faith is for the Transient people (thepianist) [dksslqj's Lunatic]](https://osu.ppy.sh/s/12119)
+*   [ZUN - Necrofantasia (Fight69) [Wmf's Taikofantasia]](https://osu.ppy.sh/s/15812)
 
 #### Maps for final game (3:3)
 
-*   [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion [Ono's Taiko Oni]](//osu.ppy.sh/s/20125)
+*   [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion [Ono's Taiko Oni]](https://osu.ppy.sh/s/20125)
 
 ### Round 4
 
-*   _[Akitaka Toyama - The Carnivorous Carnival (lepidopodus) [Oni for TWC]](//kodoup.astoni.sh/index.php/files/get/H2r-ATj7Wy/akitaka-toyama-the-carnivorous-carnival.osz)_
-*   _[Akitaka Toyama - Yozakura Shanikusai (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/29952)_
-*   [Amuro vs Killer - Mei (yeahyeahyeahhh) [lepidon's Taiko Oni]](//osu.ppy.sh/s/25605)
-*   [_Ayako Saso - Kamikaze Remix (lepidopodus) [Oni for TWC]_](//kodoup.astoni.sh/index.php/files/get/nVRZJstxlm/ayako-saso-kamikaze-remix.osz)
-*   [beatMARIO - Night of Knights (DJPop) [DONS]](//osu.ppy.sh/s/15920)
-*   [DragonForce - Through The Fire And Flames (Lesjuh) [Taiko]](//osu.ppy.sh/s/20237)
-*   _[Linda AI-CUE - Kita Saitama2000 (zelos) [Taiko Oni]](//osu.ppy.sh/s/26296)_
-*   _[Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) [Taiko Oni]](//osu.ppy.sh/s/26095)_
-*   _[ribbon rooms - mint tears (lepidopodus) [Oni for TWC]](//kodoup.astoni.sh/index.php/files/get/rxkfm37UsP/ribbon-room-mint-tears.osz)_
-*   [sampling mastes MEGA - Rotter Tarmination (lepidopodus) [Taiko Inner Oni]](//osu.ppy.sh/s/17351)
-*   [Taiko no Tatsujin - Haya Saitama2000 (Zekira) [Oni]](//osu.ppy.sh/s/9917)
-*   _[Taiko no Tatusjin - Hataraku2000 (Zekira) [Taiko Oni]](//osu.ppy.sh/s/12119)_
-*   _[Zeami - Ryougen no Mai (lepidopodus) [Oni for TWC]](//kodoup.astoni.sh/index.php/files/get/GLeCv7oLZ8/zeami-ryougen-no-mai.osz)_
-*   [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) [Taiko Oni]](//osu.ppy.sh/s/21691)
+*   _[Akitaka Toyama - The Carnivorous Carnival (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/H2r-ATj7Wy/akitaka-toyama-the-carnivorous-carnival.osz)_
+*   _[Akitaka Toyama - Yozakura Shanikusai (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/29952)_
+*   [Amuro vs Killer - Mei (yeahyeahyeahhh) [lepidon's Taiko Oni]](https://osu.ppy.sh/s/25605)
+*   [_Ayako Saso - Kamikaze Remix (lepidopodus) [Oni for TWC]_](https://kodoup.astoni.sh/index.php/files/get/nVRZJstxlm/ayako-saso-kamikaze-remix.osz)
+*   [beatMARIO - Night of Knights (DJPop) [DONS]](https://osu.ppy.sh/s/15920)
+*   [DragonForce - Through The Fire And Flames (Lesjuh) [Taiko]](https://osu.ppy.sh/s/20237)
+*   _[Linda AI-CUE - Kita Saitama2000 (zelos) [Taiko Oni]](https://osu.ppy.sh/s/26296)_
+*   _[Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/26095)_
+*   _[ribbon rooms - mint tears (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/rxkfm37UsP/ribbon-room-mint-tears.osz)_
+*   [sampling mastes MEGA - Rotter Tarmination (lepidopodus) [Taiko Inner Oni]](https://osu.ppy.sh/s/17351)
+*   [Taiko no Tatsujin - Haya Saitama2000 (Zekira) [Oni]](https://osu.ppy.sh/s/9917)
+*   _[Taiko no Tatusjin - Hataraku2000 (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/12119)_
+*   _[Zeami - Ryougen no Mai (lepidopodus) [Oni for TWC]](https://kodoup.astoni.sh/index.php/files/get/GLeCv7oLZ8/zeami-ryougen-no-mai.osz)_
+*   [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) [Taiko Oni]](https://osu.ppy.sh/s/21691)
 
 #### Maps for final game (4:4)
 
-*   _[Linda-AI-CUE - Shimedore2000 (Zekira) [Taiko Oni]](//osu.ppy.sh/s/28318)_
+*   _[Linda-AI-CUE - Shimedore2000 (Zekira) [Taiko Oni]](https://osu.ppy.sh/s/28318)_
 
 ## Registration (Closed)
 
@@ -360,9 +360,9 @@ Previous Map List is here.
 
 ## Prizes
 
-*   Prizes for 1st, 2nd, 3rd prizes are sponsored by [peppy](//osu.ppy.sh/u/2).
+*   Prizes for 1st, 2nd, 3rd prizes are sponsored by [peppy](https://osu.ppy.sh/u/2).
 
-**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter), and a nice **Profile Badge** designed by [crystalsuicune](//osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
+**1st Place**: 3 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter), and a nice **Profile Badge** designed by [crystalsuicune](https://osu.ppy.sh/u/9974) **for each player! ![](badge.png)**
 
 **2nd Place**: 2 months of [![osu!supporter](/wiki/shared/osu!supporter.png)](/wiki/osu!supporter).
 
@@ -374,23 +374,23 @@ Previous Map List is here.
 
 Sorted by alphabetic order by Country. **Bold** is for captain, and _italic_ is for back-up.
 
-*   ![](/wiki/shared/flag/ItNl.png) **Brazil-Chile**: **[Hyguys](//osu.ppy.sh/u/362851)**, [Kurisuchianu](//osu.ppy.sh/u/194345), [Foster Don](//osu.ppy.sh/u/144464), _[JhowM](//osu.ppy.sh/u/599290)_
-*   ![](/wiki/shared/flag/Cn.gif) **China**: **[Yowane \_ Haku](//osu.ppy.sh/u/255267)**, [yukey](//osu.ppy.sh/u/81972), [sagelord](//osu.ppy.sh/u/56200), _small-qiang_
-*   ![](/wiki/shared/flag/Fi.gif) **Finland**: **XZero94**, LunaticMara, [Orkel](//osu.ppy.sh/u/39385), _[Pallero](//osu.ppy.sh/u/7381)_
-*   ![](/wiki/shared/flag/Fr.gif) **France**: [\_Gezo\_](//osu.ppy.sh/u/481582), [omegaflo](//osu.ppy.sh/u/83291), Dagonpater, _Didou_
-*   ![](/wiki/shared/flag/De.gif) **Germany A**: **[OnosakiHito](//osu.ppy.sh/u/290128), [DarkDunskin](//osu.ppy.sh/u/98985), RockeDon, _[Trashy](//osu.ppy.sh/u/55191)_**
-*   ![](/wiki/shared/flag/De.gif) **Germany B**: **[BrokenArrow1](//osu.ppy.sh/u/384034)**, [Zeitgeist](//osu.ppy.sh/u/227765), Der_Locher, _[bennius](//osu.ppy.sh/u/3129206)_
-*   ![](/wiki/shared/flag/Hk.gif) **Hong Kong**: **[aabc271](//osu.ppy.sh/u/155707)**, [XeBi320](//osu.ppy.sh/u/342622), [KanaRin](//osu.ppy.sh/u/310747), _[Kanpakyin](//osu.ppy.sh/u/394326)_
-*   ![](/wiki/shared/flag/ItNl.png) **Italy-Netherlands**: **[NeoRainier](//osu.ppy.sh/u/326049)**, [Pheon](//osu.ppy.sh/u/292295), [Lokamp](//osu.ppy.sh/u/63671), _[Henkie](//osu.ppy.sh/u/16944)_
-*   ![](/wiki/shared/flag/Jp.gif) **Japan**: **inaba9510**, [TTTL](//osu.ppy.sh/u/164583), [aruru1234](//osu.ppy.sh/u/228812), _[03123456789](//osu.ppy.sh/u/295488)_
-*   ![](/wiki/shared/flag/Kr.gif) **Korea A**: **[KRZY](//osu.ppy.sh/u/114017)**, BloodyLove, [Remilia-Scarlet](//osu.ppy.sh/u/602783), _[[Shalon]](//osu.ppy.sh/u/317802)_
-*   ![](/wiki/shared/flag/Kr.gif) **Korea B**: **samiljul**, [Nyan](//osu.ppy.sh/u/36102), kds7769, _[Kim Jin Seok](//osu.ppy.sh/u/58034)_
-*   ![](/wiki/shared/flag/My.gif) **Malaysia**: **[HeatKai](//osu.ppy.sh/u/332555)**, mekadon, [ffyong](//osu.ppy.sh/u/168154), _[taiko_maniac1811](//osu.ppy.sh/u/595764)_
-*   ![](/wiki/shared/flag/Pl.gif) **Poland**: **[1miko1](//osu.ppy.sh/u/95690)**, [rEdo](//osu.ppy.sh/u/49329), [Acrith](//osu.ppy.sh/u/389880), _Niko-_
-*   ![](/wiki/shared/flag/Ph.gif) **Philippines**: **[blacksymbian](//osu.ppy.sh/u/53956)**, [Zekira](//osu.ppy.sh/u/36749), [caelumangelus](//osu.ppy.sh/u/710623), _[[Zero_One]](//osu.ppy.sh/u/347574)_
-*   ![](/wiki/shared/flag/Tw.gif) **Taiwan**: **[Numbers 596108](//osu.ppy.sh/u/194653)**, [TW-KUMA01](//osu.ppy.sh/u/244499), ISHIDAMITSUNARI, _[zx0502442](//osu.ppy.sh/u/457766)_
-*   ![](/wiki/shared/flag/Gb.gif) **United Kingdom**: **[Rokodo](//osu.ppy.sh/u/23374)**, Sander-Don, [MMzz](//osu.ppy.sh/u/128993), _[Nazo](//osu.ppy.sh/u/55106)_
-*   ![](/wiki/shared/flag/Us.gif) **United States**: **[OzzyOzrock](//osu.ppy.sh/u/465153)**, [KYOUI](//osu.ppy.sh/u/460978), [Backfire](//osu.ppy.sh/u/263110), _[anongos](//osu.ppy.sh/u/7135)_
+*   ![][flag_ITNL] **Brazil-Chile**: **[Hyguys](https://osu.ppy.sh/u/362851)**, [Kurisuchianu](https://osu.ppy.sh/u/194345), [Foster Don](https://osu.ppy.sh/u/144464), _[JhowM](https://osu.ppy.sh/u/599290)_
+*   ![][flag_CN] **China**: **[Yowane \_ Haku](https://osu.ppy.sh/u/255267)**, [yukey](https://osu.ppy.sh/u/81972), [sagelord](https://osu.ppy.sh/u/56200), _small-qiang_
+*   ![][flag_FI] **Finland**: **XZero94**, LunaticMara, [Orkel](https://osu.ppy.sh/u/39385), _[Pallero](https://osu.ppy.sh/u/7381)_
+*   ![][flag_FR] **France**: [\_Gezo\_](https://osu.ppy.sh/u/481582), [omegaflo](https://osu.ppy.sh/u/83291), Dagonpater, _Didou_
+*   ![][flag_DE] **Germany A**: **[OnosakiHito](https://osu.ppy.sh/u/290128), [DarkDunskin](https://osu.ppy.sh/u/98985), RockeDon, _[Trashy](https://osu.ppy.sh/u/55191)_**
+*   ![][flag_DE] **Germany B**: **[BrokenArrow1](https://osu.ppy.sh/u/384034)**, [Zeitgeist](https://osu.ppy.sh/u/227765), Der_Locher, _[bennius](https://osu.ppy.sh/u/3129206)_
+*   ![][flag_HK] **Hong Kong**: **[aabc271](https://osu.ppy.sh/u/155707)**, [XeBi320](https://osu.ppy.sh/u/342622), [KanaRin](https://osu.ppy.sh/u/310747), _[Kanpakyin](https://osu.ppy.sh/u/394326)_
+*   ![][flag_ITNL] **Italy-Netherlands**: **[NeoRainier](https://osu.ppy.sh/u/326049)**, [Pheon](https://osu.ppy.sh/u/292295), [Lokamp](https://osu.ppy.sh/u/63671), _[Henkie](https://osu.ppy.sh/u/16944)_
+*   ![][flag_JP] **Japan**: **inaba9510**, [TTTL](https://osu.ppy.sh/u/164583), [aruru1234](https://osu.ppy.sh/u/228812), _[03123456789](https://osu.ppy.sh/u/295488)_
+*   ![][flag_KR] **Korea A**: **[KRZY](https://osu.ppy.sh/u/114017)**, BloodyLove, [Remilia-Scarlet](https://osu.ppy.sh/u/602783), _[[Shalon]](https://osu.ppy.sh/u/317802)_
+*   ![][flag_KR] **Korea B**: **samiljul**, [Nyan](https://osu.ppy.sh/u/36102), kds7769, _[Kim Jin Seok](https://osu.ppy.sh/u/58034)_
+*   ![][flag_MY] **Malaysia**: **[HeatKai](https://osu.ppy.sh/u/332555)**, mekadon, [ffyong](https://osu.ppy.sh/u/168154), _[taiko_maniac1811](https://osu.ppy.sh/u/595764)_
+*   ![][flag_PL] **Poland**: **[1miko1](https://osu.ppy.sh/u/95690)**, [rEdo](https://osu.ppy.sh/u/49329), [Acrith](https://osu.ppy.sh/u/389880), _Niko-_
+*   ![][flag_PH] **Philippines**: **[blacksymbian](https://osu.ppy.sh/u/53956)**, [Zekira](https://osu.ppy.sh/u/36749), [caelumangelus](https://osu.ppy.sh/u/710623), _[[Zero_One]](https://osu.ppy.sh/u/347574)_
+*   ![][flag_TW] **Taiwan**: **[Numbers 596108](https://osu.ppy.sh/u/194653)**, [TW-KUMA01](https://osu.ppy.sh/u/244499), ISHIDAMITSUNARI, _[zx0502442](https://osu.ppy.sh/u/457766)_
+*   ![][flag_GB] **United Kingdom**: **[Rokodo](https://osu.ppy.sh/u/23374)**, Sander-Don, [MMzz](https://osu.ppy.sh/u/128993), _[Nazo](https://osu.ppy.sh/u/55106)_
+*   ![][flag_US] **United States**: **[OzzyOzrock](https://osu.ppy.sh/u/465153)**, [KYOUI](https://osu.ppy.sh/u/460978), [Backfire](https://osu.ppy.sh/u/263110), _[anongos](https://osu.ppy.sh/u/7135)_
 
 ### Disqualifications
 
@@ -416,13 +416,30 @@ HeatKai is no longer banned from TWC.
 
 ## Staff
 
-*   ![](/wiki/shared/flag/Kr.gif) [lepidopodus](//osu.ppy.sh/u/194807) (Tournament manager)
-*   ![](/wiki/shared/flag/Kr.gif) [arien666](//osu.ppy.sh/u/113646) (Vice-manager)
-*   ![](/wiki/shared/flag/Hk.gif) [wmfchris](//osu.ppy.sh/u/7401)
-*   ![](/wiki/shared/flag/Tw.gif) [Alace](//osu.ppy.sh/u/25993)
-*   ![](/wiki/shared/flag/Il.gif) [Noobita](//osu.ppy.sh/u/119188)
+*   ![][flag_KR] [lepidopodus](https://osu.ppy.sh/u/194807) (Tournament manager)
+*   ![][flag_KR] [arien666](https://osu.ppy.sh/u/113646) (Vice-manager)
+*   ![][flag_HK] [wmfchris](https://osu.ppy.sh/u/7401)
+*   ![][flag_TW] [Alace](https://osu.ppy.sh/u/25993)
+*   ![][flag_IL] [Noobita](https://osu.ppy.sh/u/119188)
 
 ## Streamers
 
-*   ![](/wiki/shared/flag/Jp.gif) [dvorak](//osu.ppy.sh/u/271359)
-*   ![](/wiki/shared/flag/Hk.gif) [matthewhln](//osu.ppy.sh/u/291487)
+*   ![][flag_JP] [dvorak](https://osu.ppy.sh/u/271359)
+*   ![][flag_HK] [matthewhln](https://osu.ppy.sh/u/291487)
+
+[flag_BRCL]: /wiki/shared/flag/BRCL.png
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
+[flag_ITNL]: /wiki/shared/flag/ITNL.png
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif

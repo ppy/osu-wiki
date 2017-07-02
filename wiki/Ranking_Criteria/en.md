@@ -3,7 +3,9 @@ Ranking Criteria
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Modding_Guides/Modding_and_Mapping) is part of the Ranking Criteria and applies to all existent game modes in _osu!_**
+**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct) is part of the Ranking Criteria and applies to all existent game modes in _osu!_**
+
+_For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
 
 Rules
 ------
@@ -38,7 +40,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
 
 -   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
 -   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
--   '''Songs with Japanese titles must use the Modified Hepburn method of romanisation in the "Romanised Title" field. '''As a non-unicode field, long vowels such as "おう" and "うう" should be romanised into "ou" and "uu" to avoid macrons. ([Refer to this link for more information](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization)). Loan words should be expressed using romanisation from the original language.
+-   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the "Romanised Title" field.** As a non-unicode field, long vowels such as "おう" and "うう" should be romanised into "ou" and "uu" to avoid macrons. ([Refer to this link for more information](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization)). Loan words should be expressed using romanisation from the original language.
 -   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/forum/t/244684) for more information.
 -   **Vocaloids can be featured within the artist section if the producer/composer includes it via official sources.** This ensures that we enforce metadata being accurate in all cases.
 -   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as "Short Ver.", "TV Size" and so forth unless those markers are part of the official song title as listed by a reputable source.
