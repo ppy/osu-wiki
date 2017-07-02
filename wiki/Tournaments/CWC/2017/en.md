@@ -228,10 +228,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
   - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Exceed\]](https://osu.ppy.sh/b/122693&m=2)
 - HardRock
   - [Akiyama Uni - Odoru Mizushibuki (Hareimu) \[Splash Dance\]](https://osu.ppy.sh/b/1113464&m=2)
-  - [Happy Clover - PUNCH*MIND*HAPPINESS (examination) \[Rain\]](https://osu.ppy.sh/b/1023226&m=2)
+  - [Happy Clover - PUNCH\*MIND\*HAPPINESS (examination) \[Rain\]](https://osu.ppy.sh/b/1023226&m=2)
   - [Natsume Chiaki - Hanairo Biyori (rinsukir) \[Awaken's Challenge\]](https://osu.ppy.sh/b/509510&m=2)
 - DoubleTime
-  - [*namirin - Daidai Genome (Ascendance) \[Rain\]](https://osu.ppy.sh/b/1209453&m=2)
+  - [\*namirin - Daidai Genome (Ascendance) \[Rain\]](https://osu.ppy.sh/b/1209453&m=2)
   - [Mili - Utopiosphere -Platonism- (Benny-) \[Tyrell's Utopia\]](https://osu.ppy.sh/b/1111110&m=2)
   - [Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega (Dailycare) \[Lunatic\]](https://osu.ppy.sh/b/1007169&m=2)
 - Tiebreaker
