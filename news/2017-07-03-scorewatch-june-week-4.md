@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-june-week-4
  
 Many impressive first-ever-done scores, first places and more in this week’s article! 
  
-![](https://puu.sh/wA4Nj/d299c2b68d.png)
+![](/wiki/shared/news/2017-07-03-scorewatch-june-week-4/banner.png)
 
 [Yaong](https://osu.ppy.sh/u/1883865) entered the 600pp club in style with the first ever FC on [DragonForce - Soldiers of the Wasteland](https://osu.ppy.sh/b/962194), taking a 99.81% no mod FC to earn 639pp. Unbelievable consistency and accuracy from the Korean, this is a must watch!
 
