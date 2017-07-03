@@ -62,6 +62,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Fresh Chicken](https://osu.ppy.sh/u/3984370)     | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Korean, Japanese         |
 | [Garden](https://osu.ppy.sh/u/2849992)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
 | [Gero](https://osu.ppy.sh/u/1467715)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
+| [Hobbes2](https://osu.ppy.sh/u/8157492)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [jonathanlfj](https://osu.ppy.sh/u/270377)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, some French     |
 | [juankristal](https://osu.ppy.sh/u/443656)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Spanish                  |
 | [JUDYDANNY](https://osu.ppy.sh/u/1165475)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
