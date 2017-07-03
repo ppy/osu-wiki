@@ -533,7 +533,7 @@ The following table is for all game modifier icons.
 
 - This mod is used for [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch).
 - This mod has different effects when using it with different modes:
-  - In [osu!standard](/wiki/osu!standard), this mod will auto-click for the player, while the player just needs to move the cursor.
+  - In [osu!standard](/wiki/osu!standard), this mod will click for the player, while the player just needs to move the cursor.
 
 ---
 
@@ -542,7 +542,7 @@ The following table is for all game modifier icons.
 **Notes:**
 
 - This mod is only used for [osu!standard](/wiki/osu!standard).
-- This mod will move the mouse for the player while the player just needs to tap or click.
+- This mod will move the cursor for the player while the player just needs to tap or click.
 
 ---
 
