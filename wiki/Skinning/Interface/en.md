@@ -46,7 +46,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 
 - If not skinned, the current game mode's small icon will be used instead.
 - Togglable in the [options](/wiki/options).
-  - This option may forcibly be turned on during winter.
+  - This option may forcibly be turned on during winter.
 
 ## Cursor
 
@@ -61,7 +61,7 @@ _`menu-snow.png`_ (transparent; not included; see small game mode icons)
 - By default, this element will rotate and expand on click.
 - [skin.ini](/wiki/skin.ini) commands:
   - To disable cursor expansion on click, set `CursorExpand` to `0`.
-  - To disable cursor rotation, set `CursorRotate` to `0`.
+  - To disable cursor rotation, set `CursorRotate` to `0`.
 
 ---
 
@@ -167,7 +167,7 @@ _`menu-back.png`_ (transparent; not included; see notes)
 - This element is used in various places:
   - leaderboard in song selection
   - button for the beatmap difficulty in song selection
-  - leaderboard on the left while playing
+  - leaderboard on the left while playing
   - button that shows the selected beatmap while waiting in a multiplayer room
 
 ---
@@ -533,7 +533,7 @@ The following table is for all game modifier icons.
 
 - This mod is used for [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), and [osu!catch](/wiki/osu!catch).
 - This mod has different effects when using it with different modes:
-  - In [osu!standard](/wiki/osu!standard), this mod will click for the player, while the player just needs to move the cursor.
+  - In [osu!standard](/wiki/osu!standard), this mod will click for the player, while the player just needs to move the cursor.
 
 ---
 
