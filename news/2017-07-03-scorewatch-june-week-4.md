@@ -23,11 +23,11 @@ src="https://www.youtube.com/embed/5AH-Vkcenc0" frameborder="0" allowfullscreen>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MyTOUzA-sS8" frameborder="0" allowfullscreen></iframe></br>
 
-[Dusk](https://osu.ppy.sh/u/533210) is serious about cementing No. 1 Global as he continues his osu!catch score runs with an absurd HR SS on [LeaF - Evanescent](https://osu.ppy.sh/b/1009780) to gain a whopping 743pp and the No. 2 spot on the map, second only to [[224]Hyperw7](https://osu.ppy.sh/u/4158549) who was 1 100 short of SSing it himself. Sit back, relax and have a look at Rowlet sprinting across the screen with joy.
+[Dusk](https://osu.ppy.sh/u/533210) is serious about cementing his number one place in the global rankings as he continues his osu!catch score runs with an absurd HR SS on [LeaF - Evanescent](https://osu.ppy.sh/b/1009780) to gain a whopping 743pp and the second spot on the map, second only to [[224]Hyperw7](https://osu.ppy.sh/u/4158549), who was 1 100 short of SSing it himself. Sit back, relax and have a look at Rowlet catcher sprinting across the screen with joy.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zqidKHSJ2-Q" frameborder="0" allowfullscreen></iframe></br>
 
-We haven’t shown [jakads](https://osu.ppy.sh/u/259972) in the Scorewatch for a while now, so here he is, taking [sakuzyo - Altale](https://osu.ppy.sh/b/767311&m=3) and slapping on DT to pull off a crazy 99.87% FC on the hardest difficulty worth 677pp. Just enjoy some intense keyboard action along with jakads’ interesting sounds.
+We haven’t shown [jakads](https://osu.ppy.sh/u/259972) in the Scorewatch for a while now, so here he is, taking [sakuzyo - Altale](https://osu.ppy.sh/b/767311&m=3) and slapping on DT to pull off a crazy 99.87% FC on the hardest difficulty worth 677pp. Just enjoy some intense keyboard action along with jakads’ interesting reactions.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/JbbOrDtEJh0" frameborder="0" allowfullscreen></iframe></br>
 
