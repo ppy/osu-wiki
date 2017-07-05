@@ -61,8 +61,6 @@ The [osu!academy][osu!academy wikilink] covered this topic in [Episode 6 (6:52)]
 
 ![One of the ways to transfer the beatmap without leaving the Match Setup][Beatmaps_peppy image]
 
-_One of the ways to transfer a beatmap without leaving the Match Setup_
-
 - Decent online connection.
 - An osu!account logged into Bancho (should be done automatically during in-game osu!account sign-in)
 - Knowing [how to transfer beatmaps without leaving the Match Setup.][Beatmaps2 wikilink].
@@ -89,8 +87,6 @@ If the connection request with Bancho was successful, the player will be directe
 ## Lobby
 
 ![Example of Multi's Lobby screen][Multi_lobby image]
-
-_A typical day in the Lobby screen._
 
 The lobby will show all the currently available Match Setup in Bancho.
 
@@ -128,8 +124,6 @@ To enter a Match Setup, click on one of the desired row.
 
 ![An example of a locked Match Setup][Multi_lobby_locked image]
 
-_An example of a locked Match Setup_
-
 **Note:** If the game mode symbol contains a lock icon, clicking on it will prompt an empty text box to enter the Match Setup password.
 The player should enter the correct password to access the locked Match Setup.
 Alternatively, the player can request an invite from the Match Setup's host directly to bypass the locked password requirement.
@@ -152,8 +146,6 @@ The [Chat Console][Chat Console wikilink] will be available at the bottom of the
 
 ![New Game setup screen][Multi_new_game image]
 
-_Setting up a new game_
-
 Title | Description
 :---: | :---
 **Game Name**   | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
@@ -168,11 +160,8 @@ Press the `1. Start Game` button to **create the Match Setup** with the **player
 
 ![Host Match Setup view][Multi_roomhost image]
 
-_Host Match Setup view_
-
 ![Player Match Setup view][Multi_roomplayer image]
 
-_Player Match Setup view_
 
 <!-- Top -->
 The top section at the left display the name of the screen, status in the Match Setup (either host or player), player box at the middle based on current game mode played, and a pause button to pause the beatmap's song (if the player has the beatmap) located at the right side.
@@ -227,11 +216,7 @@ The host can change the name or create/change the Match Setup's password by pres
 
 ![host song change][Multi_host_song_change image]
 
-_When the Host is changing songs, this bar will become a temporary placeholder."_
-
 ![host song selection][Multi_SS image]
-
-_Example of how the Song Selection will look like for host._
 
 The middle section is the Beatmap section.
 
@@ -239,8 +224,6 @@ The section shows the beatmap to be played for this match.
 When not hovered over, the beatmap will show the image, game mode symbol, the title, artist of the song, beatmapper, difficulty/beatmap selected and the star rating.
 
 ![Information about the beatmap when hovered over][Multi_beatmapinfo image]
-
-_When hovered, it will show BPM, Length, Last Played, CS, AR, OD, HP, and Stars._
 
 If the player does not have the beatmap, some information will be shown, and one of these will occur:-
 
@@ -254,11 +237,7 @@ Beatmap status | Effect
 
 ![Host mods view][Multi_mods_host image]
 
-_Host game mode view_
-
 ![Player mods view][Multi_mods_player image]
-
-_Player game mode view (with `Free Mods` enabled)_
 
 The lower left section is the Mods section.
 This section will show the [game mods][Game Modifiers wikilink] used for this match.
@@ -298,8 +277,6 @@ Title | Description
 
 ![Available colours for the player's turn combo colour][Multi_Tag_Colour image]
 
-_Tag Colour option showing which one of the available colours to be used for the player's turn combo colour (Tag Coop/Tag Team Vs only)_
-
 If Team Mode was set to _Tag Coop/Tag Team Vs_, a **Tag Colour:** `(combo colour)` section will be shown which **allows fixed combo colour when it is the player's turn**.
 The `Default` option will use the original beatmap's combo colour for the combo instead.
 
@@ -325,13 +302,9 @@ Title | Description
 
 ![match history single][Multi_mh_single image]
 
-_Example of Match History (Single)._
-
 ---
 
 ![match history team][Multi_mh_team image]
-
-_Example of Match History (Team)._
 
 ## Team Mode
 
@@ -407,16 +380,12 @@ Status/Colour | Description
 
 ![Head to Head Interface][HTH Interface image]
 
-_Head to Head interface_
-
 Head to Head is a team mode where players duke it all out in a free-for-all Match Setup for the top spot at the leaderboard.
 The default team mode to be selected and does not have any special characteristics in play; just go for the top spot.
 
 #### Result
 
 ![Head to Head Grade screen][HTH Grade image]
-
-_Head-To Head grade screen_
 
 At the end of the match, first place player's avatar image will be shown at the Winner section.
 
@@ -430,8 +399,6 @@ Each players will receive personalised match result placement privately under `#
 #### Interface
 
 ![Team Vs Interface][Team Vs Interface image]
-
-_Team Vs interface_
 
 Team Vs mode pit two teams (Blue/Red) against each other based on Win Condition set.
 Fulfill the Win Condition criteria as closely as possible to reach the top spot in the team and compete with the other team by team total.
@@ -453,8 +420,6 @@ Members in failed state will be located at the bottom of the team leaderboard an
 
 ![Team Vs Grade screen][Team Vs Grade image]
 
-_Team Vs grade screen_
-
 In the results screen, declaration of match winner will be based on team total and announced at the center in winner's colour, with blue team total at the left and red team total at the right.
 
 **Only surviving members of the team's score will be counted**; it is possible for red team to be declared winner of the match when blue team has the superiority _just because_ some blue team members providing the superiority were in failed state or all members in the blue team failed.
@@ -471,11 +436,7 @@ _Only available in osu! mode. **UNRANKED**_
 
 ![Tag Coop Interface][Tag Coop Interface image]
 
-_Tag Coop interface_
-
 ![Tag Team Vs Interface][Tag Team Vs Interface image]
-
-_Tag Team Vs interface_
 
 Tag Coop makes all players in the Match Setup work together to pass the beatmap, one combo at a time.
 Tag Team Vs is just Tag Coop with red and blue team competition.
@@ -512,11 +473,7 @@ When playing in windowed mode, do note that the cursor will **not** be bounded t
 
 ![Tag Coop Grade screen][Tag Coop Grade image]
 
-_Tag Coop grade screen_
-
 ![Tag Team Vs Grade screen][Tag Team Vs Grade image]
-
-_Tag Team Vs grade screen_
 
 As stated before, score will not be counted for ranked score and performance points calculation because it is an _unranked_ play.
 
@@ -531,8 +488,6 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 ### History
 
 ![osu!mania Multi patch release][osu!mania Multi patch]
-
-_Screenshot of Lobby of an unpatched osu! when osu!mania was released to public (08 October 2012, 2012-10-08)_
 
 - Match Setup used to only allows up to a total of 8 players only.
 - osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their _osu!_ to the latest release patch (which enables osu!mania mode with no ranking support yet).

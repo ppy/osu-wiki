@@ -1,19 +1,22 @@
-<img src="Compose.png" title="Editor do osu! em modo janela" alt="Editor do osu! em modo janela" width="200" />
+Editor de Beatmap
+==============
 
-O **editor de beatmap** é a interface gráfica dentro do jogo do osu! para criar [beatmaps](beatmap "wikilink"). Ele é dividido em quatro modos:
+O **editor de beatmap** é a interface gráfica dentro do jogo do osu! para criar [beatmaps](/wiki/Beatmaps).
+Ele é dividido em quatro modos:
 
--   [Compose](Compose "wikilink"): Aqui é onde [Hit Objects](Hit_Object "wikilink") são colocados e editados. A maior parte do tempo gasto no editor é feito aqui.
--   [Design](Design "wikilink"): Aqui é onde a Storyboard é feita, a maioria dos mapeadores só usarão o botão "Background Image/Video" aqui.
--   [Timing](Timing "wikilink"): Aqui é onde o BPM e o deslocamento da música são inseridos. Esta janela também controla hitsounds, caso não sejam constantes em todo o mapa.
--   [Song Setup](Song_Setup "wikilink"): Aqui é onde várias opções do mapa são definidas. Isso inclui cores de combo e configurações de dificuldade.
+-   [Compose](Compose): A maior parte do tempo gasto no editor é feito aqui.
+-   [Design](Design): Aqui é onde a Storyboard é feita, a maioria dos mappers só usarão o botão "Background Image/Video" aqui.
+-   [Timing](Timing): Aqui é onde o BPM (Batidas Por Minuto) e o offset da música são inseridos. Esta janela também controla hitsounds.
+-   [Song Setup](Song_Setup): A primeira tela em que aparece todo beatmap novo. Esse painel modifica os valores relacionados ao título, artistas, nome da dificuldade, valores de dificuldade, cores de combo, e mais.
 
-Artigos relacionados
-----------------
+Outros conteúdos do editor de beatmap incluem:
 
--   [Beatmapping](Beatmapping "wikilink") (Noções básicas de mapeamento)
--   [Beat Snap Divisor](Beat_Snap_Divisor "wikilink")
--   [Distance Snap](Distance_Snap "wikilink")
--   [Custom Sample Overrides](Custom_Sample_Overrides "wikilink")
--   [Kiai Time](Kiai_Time "wikilink")
-
-<Category:Beatmapping/pt-br>
+- [AiMod](AiMod): O primeiro modder que todos os mappers podem usar.
+- [Beat Snap Divisor](Beat_Snap_Divisor): A coisa na timeline que te ajuda a fazer um beatmap, em relação à timings.
+- [Distance Snap](Distance_Snap): A coisa que afeta o quão longe ou perto as notas serão posicionadas.
+- [Kiai Time](Kiai_Time): Notas que fazem surgir um monte de estrelas e luzes brilhantes durante uma certa seção do mapa.
+- [Menu](Menu): Uma explicação sobre os botões no topo do editor de beatmap
+- [SB Load](SB_Load): Um número usado para indicar o quão pesado é um storyboard. Qualquer número acima de 5x é ruim para computadores antigos.
+- [Slider](Slider): Uma explicação básica sobre como sliders funcionam no _osu!_
+- [Timelines](Timelines): O painel do topo do editor de beatmap que mostra notas, breaks (pausas) e mais.
+- [Timing](Timing): Um guia de como fazer um timing adequado de um novo beatmap.
