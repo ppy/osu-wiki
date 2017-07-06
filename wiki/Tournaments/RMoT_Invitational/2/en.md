@@ -1,14 +1,14 @@
-# RMoT Invitationals 2
+# RMoT Invitational 2
 
-The Rapid Monthly osu! Tournament Invitationals \#2 is a tournament organized and ran by the Rapid Tournaments team.
+The Rapid Monthly osu! Tournament Invitational \#2 is a tournament organized and ran by the Rapid Tournaments team.
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
-The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2)
+The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2) Most of the information here complies with the [forum post](https://osu.ppy.sh/forum/t/589111).
 [![][flag_PL]MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational, beating [![][flag_PL]bsurma](https://osu.ppy.sh/u/509575) in the finals. 
 
 ## Schedule
 
-The RMoT Invitationals are traditionally held over two weekends.
+The RMoT Invitational are traditionally held over two weekends.
 
 | Event                               | Date        |
 |------------------------------------:|:------------|
@@ -34,6 +34,10 @@ The RMoT Invitationals are traditionally held over two weekends.
 The Prizes are handed out in the form of Points. every 36 points can be redeemed for a month of osu!supporter. Invitational winners are awarded twice the amount awarded in RMoT's.
 The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 points etc..
 
+### Predictions
+
+Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and predicters were awarded 
+
 ## Players
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
@@ -53,7 +57,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 * [![][flag_CA]~~Chanigan~~](https://osu.ppy.sh/u/3266120)
 * [![][flag_ID]akirakai18](https://osu.ppy.sh/u/2956814)
 
-**Notice:** AkaiKage and Chanigan gave up their places in the Invitationals and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
+**Notice:** AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
 The filler players are chosen according to a few criteria in the following priority:
 
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
