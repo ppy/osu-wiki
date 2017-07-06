@@ -25,11 +25,11 @@ The RMoT Invitational are traditionally held over two weekends.
 | Role              | Member                                                                                                                                                                                                                                                              |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Host              | ![][flag_SI] [Redavor](https://osu.ppy.sh/u/3328606)                                                                                                                                                                                                |
-| Admins            | ![][flag_US] [-You Watanabe-](https://osu.ppy.sh/u/3188911), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/u/3450825), [![][flag_AU] [Grassy](https://osu.ppy.sh/u/8067959), [![][flag_SI] [kristi71111](https://osu.ppy.sh/u/3826105), [![][flag_TR] [oralekin](https://osu.ppy.sh/u/7631823)                                        |
-| Referees          | [![][flag_PH] [Deadpulse](https://osu.ppy.sh/u/8575527), [![][flag_PH] [kristoffer09](https://osu.ppy.sh/u/3474344), [![][flag_SG] [Kumabread](https://osu.ppy.sh/u/7210491), [![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640), [![][flag_PH] [Misery](https://osu.ppy.sh/u/7892873), [![][flag_GB] [Stedoss](https://osu.ppy.sh/u/8331546) |
-| Mappool Selectors | [![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/u/7125579), [![][flag_CA] [Meow-Mix](https://osu.ppy.sh/u/3021634)                                                                                                                                                                         |
-| Streamers         | [![][flag_SE] [BeatingHeart](https://osu.ppy.sh/u/4586549), [![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/u/4022318)                                                                                                                                                                     |
-| Commentators      | [![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575), [![][flag_SE] [ErroTheCube](https://osu.ppy.sh/u/4425262), [![][flag_PH] [kristoffer09](https://osu.ppy.sh/u/3474344), [![][flag_DE] [Niegth](https://osu.ppy.sh/u/1991114), [![][flag_SI] [ultraregen](https://osu.ppy.sh/u/4106122)                                          |
+| Admins            | ![][flag_US] [-You Watanabe-](https://osu.ppy.sh/u/3188911), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/u/3450825), ![][flag_AU] [Grassy](https://osu.ppy.sh/u/8067959), ![][flag_SI] [kristi71111](https://osu.ppy.sh/u/3826105), ![][flag_TR] [oralekin](https://osu.ppy.sh/u/7631823)                                        |
+| Referees          | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/u/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/u/3474344), ![][flag_SG] [Kumabread](https://osu.ppy.sh/u/7210491), ![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640), ![][flag_PH] [Misery](https://osu.ppy.sh/u/7892873), ![][flag_GB] [Stedoss](https://osu.ppy.sh/u/8331546) |
+| Mappool Selectors | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/u/7125579), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/u/3021634)                                                                                                                                                                         |
+| Streamers         | ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/u/4586549), ![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/u/4022318)                                                                                                                                                                     |
+| Commentators      | ![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/u/4425262), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/u/3474344), ![][flag_DE] [Niegth](https://osu.ppy.sh/u/1991114), ![][flag_SI] [ultraregen](https://osu.ppy.sh/u/4106122)                                          |
 
 ## Prizes
 
@@ -40,7 +40,7 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 
 Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of Points awarded in RMoT's.
 
-[![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640) won the predictions; with [![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575) in second place, [![][flag_PL] [Malson](https://osu.ppy.sh/u/6047395) in third place.
+![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640) won the predictions; with ![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575) in second place, ![][flag_PL] [Malson](https://osu.ppy.sh/u/6047395) in third place.
 
 ## Players
 
