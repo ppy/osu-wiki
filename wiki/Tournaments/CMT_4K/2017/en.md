@@ -9,15 +9,15 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration | 4-18 June 2017 |
-| Qualification Stage | 24-25 June 2017 |
-| Drawings | 25 June 2017 (20:00 UTC+8) |
-| Group Stage | 30 June - 2 July 2017 |
-| Round of 16 | 8-9 July 2017 |
-| Round of 8 | 15-16 July 2017 |
-| Semifinals | 22-23 July 2017 |
-| Finals - Week 1 | 29-30 July 2017 |
-| Finals - Week 2 | 5-6 Aug 2017 |
+| Registration | 4. - 18. June 2017 |
+| Qualification Stage | 24. 25. June 2017 |
+| Drawings | 25. June 2017 (20:00 UTC+8) |
+| Group Stage | 30. June - 2. July 2017 |
+| Round of 16 | 8. 9. July 2017 |
+| Round of 8 | 15. 16. July 2017 |
+| Semifinals | 22. 23. July 2017 |
+| Finals - Week 1 | 29. 30. July 2017 |
+| Finals - Week 2 | 5. 6. Aug 2017 |
 
 ## Tournament prizes
 
