@@ -17,7 +17,7 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 | Round of 8 | 15. 16. July 2017 |
 | Semifinals | 22. 23. July 2017 |
 | Finals - Week 1 | 29. 30. July 2017 |
-| Finals - Week 2 | 5. 6. Aug 2017 |
+| Finals - Week 2 | 5. 6. August 2017 |
 
 ## Tournament prizes
 
