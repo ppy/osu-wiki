@@ -4,7 +4,9 @@ The Rapid Monthly osu! Tournament Invitational \#2 is a tournament organized and
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
 The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2) Most of the information here complies with the [forum post](https://osu.ppy.sh/forum/t/589111).
-![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational, beating ![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575) in the finals. 
+
+
+![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640) won the second Invitational, beating ![][flag_PL] [bsurma](https://osu.ppy.sh/u/509575) in the finals. 
 
 ## Schedule
 
