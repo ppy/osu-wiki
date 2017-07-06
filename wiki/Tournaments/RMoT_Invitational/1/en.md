@@ -8,7 +8,7 @@ The tournament brackets can be found [on Challonge.](https://challonge.com/rmoti
 
 ## Schedule
 
-The RMoT Invitational are traditionally held over two weekends.
+The RMoT Invitational are held over two weekends.
 
 | Event                               | Date        |
 |------------------------------------:|:------------|
