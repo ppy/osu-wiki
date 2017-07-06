@@ -9,15 +9,15 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration | 4-18 June 2017 |
-| Qualification Stage | 24-25 June 2017 |
-| Drawings | 25 June 2017 (20:00 UTC+8) |
-| Group Stage | 30 June - 2 July 2017 |
-| Round of 16 | 8-9 July 2017 |
-| Round of 8 | 14-15 July 2017 |
-| Semifinals | 22-23 July 2017 |
-| Finals - Week 1 | 29-30 July 2017 |
-| Finals - Week 2 | 5-6 Aug 2017 |
+| Registration | 4-18. June 2017 |
+| Qualification Stage | 24-25. June 2017 |
+| Drawings | 25. June 2017 (20:00 UTC+8) |
+| Group Stage | 30. June - 2. July 2017 |
+| Round of 16 | 8-9. July 2017 |
+| Round of 8 | 15-16. July 2017 |
+| Semifinals | 22-23. July 2017 |
+| Finals - Week 1 | 29-30. July 2017 |
+| Finals - Week 2 | 5-6. August 2017 |
 
 ## Tournament prizes
 
@@ -52,14 +52,14 @@ Saturday, 8. July 2017
 | :--: | ---: | ---: | :--- | :--- | :--: |
 | 15:00 | drunkenstein | ![][HK] | ![][CN] | - ZedXD - | A |
 | 16:00 | [Crz]Riri | ![][CN] | ![][CN] | spensll | B |
-| 20:00 | hly200 | ![][CN] | ![][CN] | wjh123 | C |
+| 20:00 | NED_Q | ![][CN] | ![][CN] | wjh123 | C |
 | 21:00 | Stink God | ![][CN] | ![][CN] | [Crz]MemoryI | D |
 
 Sunday, 9. July 2017  
 
 | Match Time (UTC+8) | Team A | | | Team B | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 13:00 | fgdg858 | ![][CN] | ![][CA] | Murasame | E |
+| 13:00 | [Crz]Liusecy | ![][CN] | ![][CA] | Murasame | E |
 | 14:00 | Neokje | ![][MY] | ![][AU] | [Crz]Yukikaze- | F |
 | 15:00 | - Choma - | ![][TW] | ![][CN] | pikechu | G |
 | 20:00 | [Crz]ScSolAr | ![][CN] | ![][CN] | [Crz]Mix0130 | H |
