@@ -36,7 +36,9 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 
 ### Predictions
 
-Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and predicters were awarded 
+Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of Points awarded in RMoT's.
+
+[![][flag_PL]MagBlood](https://osu.ppy.sh/u/6178640) won the predictions; with [![][flag_PL]bsurma](https://osu.ppy.sh/u/509575) in second place, [![][flag_PL]Malson](https://osu.ppy.sh/u/6047395) in third place.
 
 ## Players
 
