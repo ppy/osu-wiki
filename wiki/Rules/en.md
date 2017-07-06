@@ -72,7 +72,7 @@ Silences and other infringements **automatically** increase in duration near-exp
     
 Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted. 
+If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
 Restricted accounts can not play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed.
 
