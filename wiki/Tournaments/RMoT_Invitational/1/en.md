@@ -39,7 +39,6 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 
 Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of Points awarded in RMoT's.
 
-
 ## Players
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
@@ -107,6 +106,7 @@ The mappool can be found on this [Google Sheet](https://docs.google.com/spreadsh
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_SI]: /wiki/shared/flag/SI.gif
