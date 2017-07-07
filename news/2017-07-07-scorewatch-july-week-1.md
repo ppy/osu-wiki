@@ -18,7 +18,7 @@ But, the Polish was not to be disheartened, for he still had some tricks up his 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/V4i84C3jkik" frameborder="0" allowfullscreen></iframe></br>
 
-And when we thought it was just a duo duel, [Angelsim](https://osu.ppy.sh/u/1777162) joins the battle and mirrors what Rafis did as well, scoring a crazy 98.25% HDHRDT FC on [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) to earn himself the exact same pp Rafis got, at 734pp! Don’t we all just love a bit of fire in the top 5?
+And when we thought it was just a duel, [Angelsim](https://osu.ppy.sh/u/1777162) joins the battle and mirrors what Rafis did as well, scoring a crazy 98.25% HDHRDT FC on [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) to earn himself the exact same pp Rafis got, at 734pp! Don’t we all just love a bit of fire in the top 5?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RrCNNdcsWQw" frameborder="0" allowfullscreen></iframe></br>
 
