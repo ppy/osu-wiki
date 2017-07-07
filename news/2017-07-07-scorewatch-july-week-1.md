@@ -14,7 +14,7 @@ A fierce war in the top 5 of osu!standard, a Glitch Nerds score battle between t
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/\_eHzO12eCHw" frameborder="0" allowfullscreen></iframe></br>
 
-But, the Polish was not to be disheartened, for he still had some tricks up his sleeves, setting another 700pp score! Like filsdelama, he (almost) destroyed [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) by scoring an impressive 98.43% HDHRDT 1x sliderbreak to set his top personal score at 734pp. We won’t be surprised if he goes for the FC soon.
+But, Rafis was not to be disheartened, for he still had some tricks up his sleeves, setting another 700pp score! Like filsdelama, he (almost) destroyed [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) by scoring an impressive 98.43% HDHRDT 1x sliderbreak to set his top personal score at 734pp. We won’t be surprised if he goes for the FC soon.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/V4i84C3jkik" frameborder="0" allowfullscreen></iframe></br>
 
