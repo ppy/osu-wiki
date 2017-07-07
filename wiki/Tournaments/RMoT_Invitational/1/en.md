@@ -4,7 +4,9 @@ The Rapid Monthly osu! Tournament Invitational \#1 is a tournament organized and
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
 
 The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational1). Most of the information here complies with the [forum post](https://osu.ppy.sh/forum/t/538852).
-[![][flag_PL]MagBlood](https://osu.ppy.sh/u/6178640) won the Invitational, beating [![][flag_PL]bsurma](https://osu.ppy.sh/u/509575) in the finals. 
+
+
+![][flag_US] [\[Sony\]](https://osu.ppy.sh/u/8750694) (formerly known as sonyguy699) won the Invitational, beating ![][flag_PL] [CarlosH20](https://osu.ppy.sh/u/8102219) in the finals. 
 
 ## Schedule
 
@@ -12,22 +14,21 @@ The RMoT Invitational are held over two weekends.
 
 | Event                               | Date        |
 |------------------------------------:|:------------|
-| Round of 16                         | 6 May 2017  |
-| Quarterfinals and Losers Round 1    | 7 May 2017  |
-| Semifinals and Losers Round 2 and 3 | 13 May 2017 |
-| Losers Round 4, 5 and 6             | 14 May 2017 |
-| Finals and Grand Finals             | 14 May 2017 |
+| Round of 16                         | 7 Jan 2017  |
+| Quarterfinals and Losers Round 1    | 8 Jan 2017  |
+| Semifinals and Losers Round 2 and 3 | 14 May 2017 |
+| Losers Round 4, 5 and 6             | 15 Jan 2017 |
+| Finals and Grand Finals             | 15 Jan 2017 |
 
 ## Staff
 
-| Role              | Member                                                                                                                                                                                                                                                              |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Host              | [![][flag_SI]Redavor](https://osu.ppy.sh/u/3328606)                                                                                                                                                                                                |
-| Admins            | [![][flag_US]-You Watanabe-](https://osu.ppy.sh/u/3188911), [![][flag_SI]DomenBzo](https://osu.ppy.sh/u/3450825), [![][flag_AU]Grassy](https://osu.ppy.sh/u/8067959), [![][flag_SI]kristi71111](https://osu.ppy.sh/u/3826105), [![][flag_TR]oralekin](https://osu.ppy.sh/u/7631823)                                        |
-| Referees          | [![][flag_PH]Deadpulse](https://osu.ppy.sh/u/8575527), [![][flag_PH]kristoffer09](https://osu.ppy.sh/u/3474344), [![][flag_SG]Kumabread](https://osu.ppy.sh/u/7210491), [![][flag_PL]MagBlood](https://osu.ppy.sh/u/6178640), [![][flag_PH]Misery](https://osu.ppy.sh/u/7892873), [![][flag_GB]Stedoss](https://osu.ppy.sh/u/8331546) |
-| Mappool Selectors | [![][flag_TH]GuChangeDeWorld](https://osu.ppy.sh/u/7125579), [![][flag_CA]Meow-Mix](https://osu.ppy.sh/u/3021634)                                                                                                                                                                         |
-| Streamers         | [![][flag_SE]BeatingHeart](https://osu.ppy.sh/u/4586549), [![][flag_PL]FreezingTooEasy](https://osu.ppy.sh/u/4022318)                                                                                                                                                                     |
-| Commentators      | [![][flag_PL]bsurma](https://osu.ppy.sh/u/509575), [![][flag_SE]ErroTheCube](https://osu.ppy.sh/u/4425262), [![][flag_PH]kristoffer09](https://osu.ppy.sh/u/3474344), [![][flag_DE]Niegth](https://osu.ppy.sh/u/1991114), [![][flag_SI]ultraregen](https://osu.ppy.sh/u/4106122)                                          |
+| Role              | Member |
+|-------------------|--------|
+| Host              | ![][flag_SI] [Redavor](https://osu.ppy.sh/u/3328606)|
+| Admins            | ![][flag_SI] [DomenBzo](https://osu.ppy.sh/u/3450825), ![][flag_SI] [kristi71111](https://osu.ppy.sh/u/3826105), ![][flag_TR] [oralekin](https://osu.ppy.sh/u/7631823)|
+| Referees          | ![][flag_US] [Rosilius](https://osu.ppy.sh/u/5939931), ![][flag_US] [Obilitus](https://osu.ppy.sh/u/4857153), ![][flag_US] [Cierius](https://osu.ppy.sh/u/7376116)|
+| Mappool Selectors | ![][flag_US] [Rosilius](https://osu.ppy.sh/u/5939931), ![][flag_US] [Obilitus](https://osu.ppy.sh/u/4857153), ![][flag_US] [Cierius](https://osu.ppy.sh/u/7376116)|
+| Streamers         | ![][flag_US] [Rosilius](https://osu.ppy.sh/u/5939931), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/u/3450825)|
 
 ## Prizes
 
@@ -38,22 +39,21 @@ The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
 
-* [![][flag_US]_Zyrenn](https://osu.ppy.sh/u/8389508)
-* [![][flag_ES]TheMightyNeko](https://osu.ppy.sh/u/7469737)
-* [![][flag_PL]MagBlood](https://osu.ppy.sh/u/6178640)
-* [![][flag_DE]Sasuke2g](https://osu.ppy.sh/u/7460142)
-* [![][flag_PL]~~AkaiKage~~](https://osu.ppy.sh/u/5949241)
-* [![][flag_IT]Ksero](https://osu.ppy.sh/u/6926212)
-* [![][flag_ES]EIVO](https://osu.ppy.sh/u/8111395)
-* [![][flag_AR]Linkel](https://osu.ppy.sh/u/4267947)
-* [![][flag_TR]Koizumi Hanayo](https://osu.ppy.sh/u/1988584)
-* [![][flag_PL]Missownik](https://osu.ppy.sh/u/7714761)
-* [![][flag_NO]AlosChan](https://osu.ppy.sh/u/8240328)
-* [![][flag_ES]-ZackFair](https://osu.ppy.sh/u/4388820)
-* [![][flag_CA]~~Chanigan~~](https://osu.ppy.sh/u/3266120)
-* [![][flag_ID]akirakai18](https://osu.ppy.sh/u/2956814)
+* ![][flag_PL] [Sobe](https://osu.ppy.sh/u/8063872) (formerly known as Sobczyq)
+* ![][flag_NL] [TomBoBotSer](https://osu.ppy.sh/u/7273315)
+* ![][flag_PH] [- Neon -](https://osu.ppy.sh/u/7273455)
+* ![][flag_RU] [nikervm](https://osu.ppy.sh/u/6832092)
+* ![][flag_US] [xdd1](https://osu.ppy.sh/u/7292597)
+* ![][flag_DE] [-Rawn](https://osu.ppy.sh/u/6600592)
+* ![][flag_NL] [Senpaii Henttai](https://osu.ppy.sh/u/7093651)
+* ![][flag_US] [EZdeath](https://osu.ppy.sh/u/7030260)
+* ![][flag_US] [\[Sony\]](https://osu.ppy.sh/u/8750694) (formerly known as sonyguy699)
+* ![][flag_US] [AziiFox](https://osu.ppy.sh/u/8133870) (formerly known as Crystalsim)
+* ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/u/4425262)
+* ![][flag_PL] [CarlosH20](https://osu.ppy.sh/u/8102219)
+* ![][flag_US] [Lifemarr](https://osu.ppy.sh/u/7974462)
 
-**Notice:** AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
+**Notice:** ErroTheCube and Senpaii Henttai both reached semi-finals twice or more. Due to this, 3 people who have not reached semi-finals were selected to participate in the tournament, filler players.
 The filler players are chosen according to a few criteria in the following priority:
 
 1. Having participated in and reached QF (quarter-finals) once out of the last 4 RMoT's
@@ -61,7 +61,7 @@ The filler players are chosen according to a few criteria in the following prior
 1. Number of times participated in RMoT
 1. Current PP
 
-[![][flag_SE]ErroTheCube](https://osu.ppy.sh/u/4425262), [![][flag_PL]bsurma](https://osu.ppy.sh/u/509575), [![][flag_PL]Malson](https://osu.ppy.sh/u/6047395) and [![][flag_NL]Senpaii Hentaii](https://osu.ppy.sh/u/7093651) gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
+![][flag_PL] [dark_assasin16](https://osu.ppy.sh/u/6178640), ![][flag_PL] [MagBlood](https://osu.ppy.sh/u/6178640) and ![][flag_PL] [MinatoIDKun](https://osu.ppy.sh/u/6178640) gained the right to participate in the Invitational, MinatoIDKun being seeded lower than the other three.
 
 ## Rules
 
