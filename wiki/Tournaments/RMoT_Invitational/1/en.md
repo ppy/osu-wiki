@@ -14,11 +14,11 @@ The RMoT Invitational are held over two weekends.
 
 | Event                               | Date        |
 |------------------------------------:|:------------|
-| Round of 16                         | 7 Jan 2017  |
-| Quarterfinals and Losers Round 1    | 8 Jan 2017  |
-| Semifinals and Losers Round 2 and 3 | 14 May 2017 |
-| Losers Round 4, 5 and 6             | 15 Jan 2017 |
-| Finals and Grand Finals             | 15 Jan 2017 |
+| Round of 16                         | 7. Jan 2017  |
+| Quarterfinals and Losers Round 1    | 8. Jan 2017  |
+| Semifinals and Losers Round 2 and 3 | 14. May 2017 |
+| Losers Round 4, 5 and 6             | 15. Jan 2017 |
+| Finals and Grand Finals             | 15. Jan 2017 |
 
 ## Staff
 
