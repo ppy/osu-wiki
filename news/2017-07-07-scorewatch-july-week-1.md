@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "Scorewatch: July Week 1"
-permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-1
+permalink: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 date: 2017-07-07 15:00:00 +0200
-tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-1
+tumblr_url: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 ---
-A fierce war burns brightly in the top 5 of osu!standard, a Glitch Nerds score battle between the 2 best players of osu!mania, and some taiko action all wrapped up in the first week of July!
+A fierce war in the top 5 of osu!standard, a Glitch Nerds score battle between the 2 best players of osu!mania, and some taiko action all wrapped up in the first week of July!
 
 ![](/wiki/shared/news/2017-07-07-scorewatch-july-week-1/banner.png)
 
-[filsdelama](https://osu.ppy.sh/u/2831793) leapt into 13,000pp range with an amazing 99.83% DT FC on [TRUE - DREAM SOLISTER](https://osu.ppy.sh/b/790415?m=0) (only 3x 100s!) to earn himself 683pp. The llama definitely went for Rafis’ tail in rankings, pushing him down to 5th after another string for amazing scores.
+[filsdelama](https://osu.ppy.sh/u/2831793) leapt into the 13,000pp range with an amazing 99.83% DT FC on [TRUE - DREAM SOLISTER](https://osu.ppy.sh/b/790415?m=0) (only 3x 100s!) to earn himself 683pp. The llama definitely went for Rafis’ tail in rankings, pushing him down to 5th after another string for amazing scores.
 
 <iframe width="100%" height="315"
-src="https://www.youtube.com/embed/_eHzO12eCHw" frameborder="0" allowfullscreen></iframe></br>
+src="https://www.youtube.com/embed/\_eHzO12eCHw" frameborder="0" allowfullscreen></iframe></br>
 
 But, the Polish was not to be disheartened, for he still had some tricks up his sleeves, setting another 700pp score! Like filsdelama, he (almost) destroyed [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) by scoring an impressive 98.43% HDHRDT 1x sliderbreak to set his top personal score at 734pp. We won’t be surprised if he goes for the FC soon.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/V4i84C3jkik" frameborder="0" allowfullscreen></iframe></br>
 
-And when we thought it was just a duo duel, [Angelsim](https://osu.ppy.sh/u/1777162) joins the battle and did what Rafis did as well, scoring a crazy 98.25% HDHRDT FC on [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) to earn himself the exact same pp Rafis got, at 734pp! Don’t we all just love a bit of fire in the top 5?
+And when we thought it was just a duo duel, [Angelsim](https://osu.ppy.sh/u/1777162) joins the battle and mirrors what Rafis did as well, scoring a crazy 98.25% HDHRDT FC on [RADWIMPS - Yume Tourou](https://osu.ppy.sh/b/1262434?m=0) to earn himself the exact same pp Rafis got, at 734pp! Don’t we all just love a bit of fire in the top 5?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RrCNNdcsWQw" frameborder="0" allowfullscreen></iframe></br>
 
