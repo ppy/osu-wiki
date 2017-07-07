@@ -35,6 +35,11 @@ The RMoT Invitational are held over two weekends.
 The Prizes are handed out in the form of Points. every 36 points can be redeemed for a month of osu!supporter. Invitational winners are awarded twice the amount awarded in RMoT's.
 The winner of the Invitational tournament gets 96 points, 2ⁿᵈ place gets 48 points etc..
 
+### Predictions
+
+Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of Points awarded in RMoT's.
+
+
 ## Players
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:
