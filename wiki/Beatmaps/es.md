@@ -1,7 +1,6 @@
 # Beatmaps (Español)
 
-¿Qué son los "Beatmaps"?
-========================
+## ¿Qué son los "Beatmaps"?
 
 *Lista de Beatmaps: <http://osu.ppy.sh/p/beatmaplist>*
 

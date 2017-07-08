@@ -1,46 +1,44 @@
 # Beatmaps
 
-What are "Beatmaps"?
-====================
+## What are "Beatmaps"?
 
 *Beatmaps listing page: <http://osu.ppy.sh/p/beatmaplist>*
 
 Also called map for short, they are game levels in [osu!](Glossary#osu! "wikilink"), like the stages in the [DS games](Glossary#DS_games "wikilink"). In their most basic form, beatmaps have a song and [Hit Circles](Glossary#Hit_Circle "wikilink"), [Sliders](Slider "wikilink"), and/or [Spinners](Glossary#Spinner "wikilink") placed according to the rhythm of the music, but they can also have a background image or video, or even a [Storyboard](Storyboarding "wikilink"). Creators of beatmaps are called beatmappers or mappers for short. Beatmaps are uploaded for everyone to see and play with using the [BSS](Glossary#BSS "wikilink"), and are then [modded](Modding "wikilink"). If/Once a beatmap is deemed good enough, it is [ranked](Ranked_beatmap "wikilink") or, if fulfilling certain criteria, [approved](Approved_Beatmap "wikilink").
 
-What types of Beatmaps are there?
----------------------------------
+### What types of Beatmaps are there?
 
 Ranked and approved beatmaps both are beatmaps that two [BNs](Beatmap_Nomination_Group "wikilink") approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](Pending_Beatmap "wikilink") or [graveyarded](Graveyarded_beatmap "wikilink") beatmaps.
 
-### ![](heart.gif "fig:heart.gif") Ranked
+#### ![](heart.gif "fig:heart.gif") Ranked
 
 Ranked Beatmaps have a heart ![](heart.gif "fig:heart.gif") icon on the thread and on the in-game song selection.
 
 These beatmaps ideally fulfill all of the [ranking criteria](ranking_criteria "wikilink") to ensure that every player can expect a certain kind of standard when playing them.
 
-### ![](fire.gif "fig:fire.gif") Approved
+#### ![](fire.gif "fig:fire.gif") Approved
 
 Approved Beatmaps have a flame ![](fire.gif "fig:fire.gif") icon on the thread and on the in-game song selection.
 
 Beatmaps are approved for songs that are over 5:00 minutes in length, measured with the total drain time of the map (including spinners). Most approved maps don't have easy or medium difficulties, although some are uploaded as separate mapsets but identical songs, and some are included inside a ranked song that contains ranked maps.
 
-### Qualified
+#### Qualified
 
 Like *Pending* mixed with *Approved*, **Qualified** beatmaps are the cutting edge (of [beatmaps](beatmaps "wikilink")), changing weekly, they could be the next, new and approved beatmap(s)! Notice: During this state, a beatmap will instantly return *Pending* if a mistake was found (and your scores will be wiped out). If they survive a week whilst in *Qualified*, they will become the next, new and approved beatmap(s)! (oh, sorry, did I say that already?)
 
-### Pending
+#### Pending
 
 **Pending beatmaps** are [beatmaps](beatmaps "wikilink") that are usually complete but are awaiting [rank](Ranked_beatmap "wikilink")/[approval](Approved_Beatmap "wikilink") status. [Mappers](Mappers "wikilink") must seek out [modding](modding "wikilink") from the community and two [BATs](Beatmap_Appreciation_Team "wikilink"). Beatmaps will remain pending until they have been [ranked](Ranked_beatmap "wikilink"), [approved](Approved_Beatmap "wikilink"), or [graveyarded](Graveyarded_beatmap "wikilink"), the latter automatically occurring after 4 weeks of inactivity on the corresponding beatmap thread. Pending beatmaps, like graveyarded beatmaps do not affect gameplay statistics.
 
-### Mod Requests
+#### Mod Requests
 
 **Mod Requests** means that the mapper of the specific map is in need of help (from fixing the possible mistakes to requesting Guest Difficulties). While typically the song is still playable, the only reason you would scroll here if, and only if, you know what you are, and will be, doing and willing to mod the map for them. The maps is incomplete so be a considerate person and (if you had tried the map,) tell them what's wrong with the map (like the hit circles are off the beats).
 
-### Graveyard
+#### Graveyard
 
 **Graveyarded beatmaps** are maps that have not been updated or its thread posted in for at least 4 weeks. This kind of [beatmap](beatmap "wikilink") cannot be ranked until the [mapper](mappers "wikilink") revives it by clicking the "Revive Beatmap" link in his/her own profile under the category 'Beatmaps'. Graveyarded beatmaps behave in the same way as Pending or WiP maps do in the aspect that they do not add to any stat of the player ([Achievements](Achievements "wikilink"), Accuracy, Score, etc.).
 
-### Beatmaps packs
+#### Beatmaps packs
 
 Beatmaps packs, as the title suggests, are a .zip file containing beatmaps. The name of the pack is based on what they contain (for example, "Approved Beatmap Pack \#7" would only contain Approved Beatmaps). It is worth noting that the most packs are:
 
@@ -75,11 +73,9 @@ Torrents contain each 10, 100, 200 or 300 Packs. (as soon as there are 400 Packs
 
 A rough estimation of how many hard disk space (and your connection quota) you will need is around ~71 GB. (Until Beatmap Pack \#340 \[19/01/14\] {~67 GB; ~200 MB}, Approved Beatmap Pack \#13 \[08/11/13\] {~3 GB; ~200 MB}, Taiko Beatmap Pack \#2 \[07/11/13\] {~200 MB; ~100 MB}, osu!mania Beatmap Pack \#4 \[19/01/14\] {~400MB; ~100 MB})
 
-Questions
-=========
+## Questions
 
-How to get beatmaps on osu!?
------------------------------
+### How to get beatmaps on osu!?
 
 **<u>For players without osu!supporter tags</u>**
 
@@ -92,7 +88,7 @@ How to get beatmaps on osu!?
 
 -   Refer above or refer Method C
 
-### Comparison between Methods
+#### Comparison between Methods
 
 <table>
 <thead>
@@ -156,7 +152,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 </tbody>
 </table>
 
-### Method A (Direct operation)
+#### Method A (Direct operation)
 
 <img src="Beatmaps peppy.jpg" title="fig:Picture guide by peppy" alt="Picture guide by peppy" width="200" /> **<u>Opening it directly**</u> (only works on .osz type)
 
@@ -173,7 +169,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
     -   [Download maps here](http://osu.ppy.sh/p/beatmaplist)
         [Official Beatmap Pack List](http://osu.ppy.sh/p/packlist)
 
-### Method B (Manual operation)
+#### Method B (Manual operation)
 
 <img src="Beatmaps Windows.jpg" title="Summary of the long-winded text" alt="Summary of the long-winded text" width="300" />
 
@@ -189,7 +185,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 -   Open osu! (if it's not open) and press a game mode. osu! will extract the data (may take a while) and your beatmaps can be played. Enjoy your beatmap(s).
     -   Using "F5" is highly suggested especially when you are in a group in Multi mode. osu! will extract the data without leaving the group.
 
-### Method C (osu!direct)
+#### Method C (osu!direct)
 
 <img src="Beatmaps o!d.jpg" title="Example of osu!direct downloading." alt="Example of osu!direct downloading." width="200" />
 
@@ -204,16 +200,14 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 -   You can do anything other than exiting osu! or disconnecting from the Internet while waiting for the download to complete.
 -   When completed, the beatmaps will be in "Downloads" folder and will be moved to "Songs" folder automatically to be extracted when you enter the Song Selection or clicking "F5" (Refresh key).
 
-The beatmap is corrupted! What should I do?
--------------------------------------------
+### The beatmap is corrupted! What should I do?
 
 -   Re-download it again.
     -   The file is corrupted because the data transfer (downloading) is not completed but you (intentionally/unintentionally) close the internet connection and/or your downloading browser, causing the beatmap to be incomplete during the process.
 -   The beatmap itself might have a problem. (Only in pending, WIP)
     -   If you think there might be an issue with a beatmap, contact the beatmapper who created it to work things out.
 
-Why I can't download the beatmaps?
-----------------------------------
+### Why I can't download the beatmaps?
 
 -   You are not using an osu! account. The server treats you as a guest and beatmaps (except Beatmaps Packs that is) cannot be downloaded from the site until you log in.
     -   Downloading from the site contributes to server cost. The server cost itself to sustain osu! is not cheap (say, roughly $5,000 (USD) -- $10,000+ (USD) a month) and further increasing it may cause updates and further improvement delayed due to the asset mostly used up by the server cost.
