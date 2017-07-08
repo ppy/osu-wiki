@@ -10,15 +10,15 @@ Um mapa de batidas, também chamado de map (mapa) para abreviar. É um nível de
 
 Beatmaps ranqueados (Ranked) e aprovados (approved). Ambos são beatmaps que dois [Beatmap Nominators](PT:Beatmap_Nomination_Group "wikilink") qualificaram. Esses beatmaps podem influenciar as estatísticas no perfil do jogador, diferente dos beatmaps que ainda não foram qualificados (chamados de [pending](PT:Pending_Beatmap "wikilink") beatmaps) ou beatmaps sem atualizações por mais de 30 dias que foram movidos para o cemitério de beatmaps (chamados de [graveyarded beatmaps](PT:Graveyarded_beatmap "wikilink")).
 
-#### ![](heart.gif "fig:heart.gif") Ranked
+#### ![Heart icon](/wiki/shared/Heart.gif) Ranked
 
-Ranked Beatmaps tem um ícone de coração ![](heart.gif "fig:heart.gif") no fórum e na seleção de musicas dentro do jogo.
+Ranked Beatmaps tem um ícone de coração ![Heart icon](/wiki/shared/Heart.gif) no fórum e na seleção de musicas dentro do jogo.
 
 Esses beatmaps atingiram todos os requisitos do [Ranking Criteria](PT:Ranking_Criteria "wikilink") para garantir que todos os jogadores possam aproveitar ao máximo o beatmap sem erros.
 
-#### ![](fire.gif "fig:fire.gif") Approved
+#### ![Fire icon](/wiki/shared/Fire.gif) Approved
 
-Approved Beatmaps tem um ícone de chama ![](fire.gif "fig:fire.gif") no fórum e na seleção de musicas dentro do jogo.
+Approved Beatmaps tem um ícone de chama ![Fire icon](/wiki/shared/Fire.gif) no fórum e na seleção de musicas dentro do jogo.
 
 Beatmaps são approved para musicas que tem duração acima de 5:00 minutos, medidos pelo total de drain time do map (incluindo spinners). A maioria dos beatmaps approved não tem dificuldades easy ou normal, porém alguns fazem beatmaps independentes com a mesma musica, e outros incluem dentro de um beatmap que contém dificuldades ranqueadas.
 

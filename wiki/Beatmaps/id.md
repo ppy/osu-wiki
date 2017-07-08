@@ -8,15 +8,15 @@
 
 ### Jenis beatmap ada apa saja sih?
 
-#### ![](heart.gif "fig:heart.gif") Ranked
+#### ![Heart icon](/wiki/shared/Heart.gif) Ranked
 
-**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](ID:Beatmap_Appreciation_Team "wikilink") atau 1 [MAT](ID:Modding_Assistance_Team "wikilink") dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](ID:Ranking_Criteria "wikilink") untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](ID:Approved_Beatmap "wikilink"), beatmap [pending](ID:Pending_Beatmap "wikilink") atau beatmap [graveyard](ID:Graveyarded_beatmap "wikilink"). *Ranked beatmaps* mempunyai icon hati ![](heart.gif "fig:heart.gif") dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
+**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](ID:Beatmap_Appreciation_Team "wikilink") atau 1 [MAT](ID:Modding_Assistance_Team "wikilink") dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](ID:Ranking_Criteria "wikilink") untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](ID:Approved_Beatmap "wikilink"), beatmap [pending](ID:Pending_Beatmap "wikilink") atau beatmap [graveyard](ID:Graveyarded_beatmap "wikilink"). *Ranked beatmaps* mempunyai icon hati ![Heart icon](/wiki/shared/Heart.gif) dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
-#### ![](fire.gif "fig:fire.gif") Approved
+#### ![Fire icon](/wiki/shared/Fire.gif) Approved
 
 **Approved beatmaps** yang sekarang sudah termasuk [ranked score](ID:Ranked_Score "wikilink") juga. Sebuah map *approved* memerlukan 3 anggota [BAT](ID:Beatmap_Appreciation_Team "wikilink") atau 1 anggota [MAT](ID:Modding_Assistance_Team "wikilink") dan 2 anggota *BAT* untuk disetujui. Ini berbeda dengan [ranked](ID:Ranked_Beatmap "wikilink"), [pending](ID:Pending_Beatmap "wikilink") atau [graveyarded](ID:Graveyarded_Beatmap "wikilink").
 
-*Approved Beatmaps* memiliki ikon api ![](fire.gif "fig:fire.gif") *thread*nya dan dalam pemilihan lagu di dalam game nya.
+*Approved Beatmaps* memiliki ikon api ![Fire icon](/wiki/shared/Fire.gif) *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
 *Beatmaps* dibuat *approved* karena alasan yang bervariasi seperti *maps* yang sangat lama, *maps* yang sangat susah (termasuk [tag difficulties](ID:Tag_difficulty "wikilink")). Mungkin bahwa sebagian dari sebuah *map* *approved* sedangkan sisanya *ranked*. Walaupun 3 persetujuan diperlukan untuk semua kasus persetujuan.
 

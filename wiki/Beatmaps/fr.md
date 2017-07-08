@@ -10,15 +10,15 @@ Aussi appelées "maps", il s'agit des niveaux d'osu!, de la même manière que s
 
 Les beatmaps classées et approuvées nécessitent la vérification et l'approbation de deux BATs. Ces beatmaps peuvent affecter les statistiques des joueurs qui les jouent, ce qui les différencie des beatmaps **en attente** ou **graveyard**.
 
-#### ![](heart.gif "fig:heart.gif") Beatmaps classées
+#### ![Heart icon](/wiki/shared/Heart.gif) Beatmaps classées
 
 Les beatmaps **classées** (*Ranked*) représentent la majorité des beatmaps du jeu. Ces beatmaps respectent tous les [critères de ranking](FR:Crit%C3%A8res_de_Ranking_G%C3%A9n%C3%A9raux "wikilink") et assurent au joueur une bonne qualité de mapping. Néanmoins, il est possible que de très vieilles beatmaps restent classées sans pour autant respecter les conditions de ranking actuelles. ([exemple](http://osu.ppy.sh/forum/t/613))
 
-Les beatmaps classées sont marquées d'un coeur ![](heart.gif "fig:heart.gif") sur leur sujet et dans le menu de sélection des beatmaps du jeu.
+Les beatmaps classées sont marquées d'un coeur ![Heart icon](/wiki/shared/Heart.gif) sur leur sujet et dans le menu de sélection des beatmaps du jeu.
 
-#### ![](fire.gif "fig:fire.gif") Beatmaps approuvées
+#### ![Fire icon](/wiki/shared/Fire.gif) Beatmaps approuvées
 
-Les beatmaps **approuvées** (*Approved*) sont marquées d'une flamme ![](fire.gif "fig:fire.gif") sur leur sujet et dans le menu de sélection des beatmaps. Ces beatmaps ont été reconnues par les BATs, mais ne respectent pas pleinement les critères de ranking, à cause de leur difficulté ou de leur longueur. Les difficultés Tag (mode multijoueur), par exemple, sont approuvées au lieu d'être classées. La majorité de ces beatmaps n'ont pas d'autres niveaux de difficulté ; elles peuvent aussi être incluses dans un set de beatmaps classées.
+Les beatmaps **approuvées** (*Approved*) sont marquées d'une flamme ![Fire icon](/wiki/shared/Fire.gif) sur leur sujet et dans le menu de sélection des beatmaps. Ces beatmaps ont été reconnues par les BATs, mais ne respectent pas pleinement les critères de ranking, à cause de leur difficulté ou de leur longueur. Les difficultés Tag (mode multijoueur), par exemple, sont approuvées au lieu d'être classées. La majorité de ces beatmaps n'ont pas d'autres niveaux de difficulté ; elles peuvent aussi être incluses dans un set de beatmaps classées.
 
 #### Beatmaps en attente
 
@@ -130,7 +130,9 @@ Connexion non requise pour les téléchargements externes</li>
 
 #### Méthode A (Opération standard)
 
-<img src="Beatmaps peppy.jpg" title="fig:Schéma publié par peppy (en anglais)." alt="Schéma publié par peppy (en anglais)." width="200" /> **<u>Ouvrez-le directement</u>** (ne fonctionne qu'avec les beatmaps sous .osz)
+![Schéma publié par peppy (en anglais).](Beatmaps_peppy.jpg "Schéma publié par peppy (en anglais).")
+
+**<u>Ouvrez-le directement</u>** (ne fonctionne qu'avec les beatmaps sous .osz)
 
 -   Double-cliquez sur le fichier .osz. La beatmap sera extraite automatiquement.
     -   osu! démarrera si ce n'est pas déjà le cas.
@@ -147,7 +149,7 @@ Connexion non requise pour les téléchargements externes</li>
 
 #### Method B (Opération manuelle)
 
-<img src="Beatmaps Windows.jpg" title="Explication en images" alt="Explication en images" width="300" />
+![Explication en images](Beatmaps_Windows.jpg "Explication en images")
 
 -   <u>**Trouvez où les beatmaps ou les packs que vous avez téléchargés se situent sur votre ordinateur**</u>. Par défaut, ils sont dans le dossier Utilisateur/Téléchargements.
 -   Déplacez toutes vos beatmaps téléchargées dans un nouveau dossier.
@@ -159,7 +161,7 @@ Connexion non requise pour les téléchargements externes</li>
 
 #### Method C (osu!direct)
 
-<img src="Beatmaps o!d.jpg" title="osu!direct" alt="osu!direct" width="200" />
+![osu!direct](Beatmaps_o!d.jpg "osu!direct")
 
 -   Cette méthode est réservée aux osu!supporters. Si vous n'en êtes pas encore un, vous pouvez le devenir [ici](http://osu.ppy.sh/p/support) (Paiement requis)
     -   Notez que vous pouvez aussi profiter des avantages du tag supporter lors de certains jours de fête (Noël par exemple).

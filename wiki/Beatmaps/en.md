@@ -10,15 +10,15 @@ Also called map for short, they are game levels in [osu!](Glossary#osu! "wikilin
 
 Ranked and approved beatmaps both are beatmaps that two [BNs](Beatmap_Nomination_Group "wikilink") approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](Pending_Beatmap "wikilink") or [graveyarded](Graveyarded_beatmap "wikilink") beatmaps.
 
-#### ![](heart.gif "fig:heart.gif") Ranked
+#### ![Heart icon](/wiki/shared/Heart.gif) Ranked
 
-Ranked Beatmaps have a heart ![](heart.gif "fig:heart.gif") icon on the thread and on the in-game song selection.
+Ranked Beatmaps have a heart ![Heart icon](/wiki/shared/Heart.gif) icon on the thread and on the in-game song selection.
 
 These beatmaps ideally fulfill all of the [ranking criteria](ranking_criteria "wikilink") to ensure that every player can expect a certain kind of standard when playing them.
 
-#### ![](fire.gif "fig:fire.gif") Approved
+#### ![Fire icon](/wiki/shared/Fire.gif) Approved
 
-Approved Beatmaps have a flame ![](fire.gif "fig:fire.gif") icon on the thread and on the in-game song selection.
+Approved Beatmaps have a flame ![Fire icon](/wiki/shared/Fire.gif) icon on the thread and on the in-game song selection.
 
 Beatmaps are approved for songs that are over 5:00 minutes in length, measured with the total drain time of the map (including spinners). Most approved maps don't have easy or medium difficulties, although some are uploaded as separate mapsets but identical songs, and some are included inside a ranked song that contains ranked maps.
 
@@ -113,7 +113,7 @@ Not required (External download)</li>
 <li>osu!</li>
 </ul></td>
 <td><ul>
-<li><img src="Supporter tag.png" title="fig:" /><em>' required</em>'</li>
+<li>osu!supporter<em>' required</em>'</li>
 <li>osu!</li>
 <li>Internet connection.</li>
 </ul></td>
@@ -154,7 +154,9 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 #### Method A (Direct operation)
 
-<img src="Beatmaps peppy.jpg" title="fig:Picture guide by peppy" alt="Picture guide by peppy" width="200" /> **<u>Opening it directly**</u> (only works on .osz type)
+![Picture guide by peppy](Beatmaps_peppy.jpg "Picture guide by peppy")
+
+**<u>Opening it directly**</u> (only works on .osz type)
 
 -   Double-click the .osz file. Your file will be extracted.
     -   osu! will start-up if it isn't on and running.
@@ -171,7 +173,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 #### Method B (Manual operation)
 
-<img src="Beatmaps Windows.jpg" title="Summary of the long-winded text" alt="Summary of the long-winded text" width="300" />
+![Summary of the long-winded text](Beatmaps_Windows.jpg "Summary of the long-winded text")
 
 -   <u>**Find where you keep the Beatmap (or Beatmaps packs) you downloaded**</u>. Usually, they would be founded at Users/Downloads folder.
     -   If you still can't find it, use your "Search" and key in the Beatmap(/Beatmaps packs) name. Then, remember where the future Beatmap (/Beatmaps packs) would end up in every time you download.
@@ -187,7 +189,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 #### Method C (osu!direct)
 
-<img src="Beatmaps o!d.jpg" title="Example of osu!direct downloading." alt="Example of osu!direct downloading." width="200" />
+![Example of osu!direct downloading.](Beatmaps_o!d.jpg "Example of osu!direct downloading.")
 
 -   [If you are still not a osu!supporter, please log in your osu!account and get the osu!supporter tag here](http://osu.ppy.sh/p/support) (Payment required)
     -   Note: In special notable occasions (like Christmas), osu!supporter effect may be enabled for that specific day for everyone, until admins disabled it.
