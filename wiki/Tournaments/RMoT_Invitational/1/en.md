@@ -1,4 +1,4 @@
-# RMoT Invitational 1
+# 1
 
 The Rapid Monthly osu! Tournament Invitational \#1 is a tournament organized and ran by the Rapid Tournaments team.
 It is an exclusive tournament where only players who reached semi-finals in one of the last 4 RMoT's get invited.
