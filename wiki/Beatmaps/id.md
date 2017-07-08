@@ -63,13 +63,13 @@ Perhitungan kasar dari berapa banyak ruang harddisk (dan quota koneksi) anda ada
 
 ### Apa yang seharusnya saya lakukan dengan beatmap yang telah saya unduh?
 
-Perlu di garis besarkan bahwa anda perlu **<u>menyimpan filenya</u>** bukan membukanya dengan sebuah program (terlebih dahulu).
+Perlu di garis besarkan bahwa anda perlu **menyimpan filenya** bukan membukanya dengan sebuah program (terlebih dahulu).
 
--   <u>**Temukan dimana anda menyimpat beatmap (atau Beatmaps packs) yang telah anda download**</u>. Biasanya, mereka di temukan di folder Users/Downloads.
+-   **Temukan dimana anda menyimpat beatmap (atau Beatmaps packs) yang telah anda download**. Biasanya, mereka di temukan di folder Users/Downloads.
     -   Jika anda masih tidak dapat menemukannya, gunakan *"search"* dan kata kunci dari nama beatmpa yang telah anda download. Lalu, ingat dimana beatmap selanjutnya akan berada setelah anda download.
 -   Seret *beatmaps* (atau ekstrak *beatmaps* dalam *beatmaps packs*) ke dekstop mu.
     -   Jika anda dapat bekerja sekaligus, anda dapat memilih untuk menggunakan 2 windows (tab) (*downloads* dan osu! program file) tanpa harus menyeretnya ke dekstop.
--   Secara manual <u>**temukan *osu! program file***</u> \[C:\\Program Files\\osu!\].
+-   Secara manual **temukan *osu! program file*** \[C:\\Program Files\\osu!\].
     -   Jika anda tidak tahu, C: adalah nama lokasi hard-disk yang diketahui oleh komputer anda. Jika anda tidak dapat menemukannya di C: dan anda mempunyai nama lokasi hard-disk lainnya (seperti D: atau H:), maka pergi ke sana dan cari di sana.
     -   Jika anda tahu bagaimana cara mengoperasi komputer anda, buat *link shortcut* ke folder osu! di *program files* dan pilih *"create shortcut"*. Jika anda memang melakukan ini, ini akan menghemat waktu dan tenaga anda. Tinggal ingat saja dimana anda menyimpan *shortcut* nya.
--   <u>**Pindahkan *beatmap* (dalam bentuk .osz atau .zip) ke file *songs***</u>.
+-   **Pindahkan *beatmap* (dalam bentuk .osz atau .zip) ke file *songs***.

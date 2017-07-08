@@ -77,14 +77,14 @@ A rough estimation of how many hard disk space (and your connection quota) you w
 
 ### How to get beatmaps on osu!?
 
-**<u>For players without osu!supporter tags</u>**
+**For players without osu!supporter tags**
 
 -   Visit \[1\][the beatmaplist page](http://osu.ppy.sh/p/beatmaplist) or \[2\][the packlist page](http://osu.ppy.sh/p/packlist)
     -   \[1\] Log in your osu!account. Server download. \[2\] Not required. External download.
 -   Pick your beatmaps/beatmaps pack and save it/open it with osu!.
 -   Wait for the download to complete.
 
-**<u>For players with osu!supporter tags</u>**
+**For players with osu!supporter tags**
 
 -   Refer above or refer Method C
 
@@ -156,16 +156,16 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 ![Picture guide by peppy](Beatmaps_peppy.jpg "Picture guide by peppy")
 
-**<u>Opening it directly**</u> (only works on .osz type)
+**Opening it directly** (only works on .osz type)
 
 -   Double-click the .osz file. Your file will be extracted.
     -   osu! will start-up if it isn't on and running.
 
-**<u>Drag & Drop</u>**
+**Drag & Drop**
 
 -   Drag the .osz or .zip (extracted from pack) directly into the osu! application.
 
-**<u>BanchoBot command</u>** (for answering in chat)
+**BanchoBot command** (for answering in chat)
 
 -   !faq download
     -   [Download maps here](http://osu.ppy.sh/p/beatmaplist)
@@ -175,15 +175,15 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 ![Summary of the long-winded text](Beatmaps_Windows.jpg "Summary of the long-winded text")
 
--   <u>**Find where you keep the Beatmap (or Beatmaps packs) you downloaded**</u>. Usually, they would be founded at Users/Downloads folder.
+-   **Find where you keep the Beatmap (or Beatmaps packs) you downloaded**. Usually, they would be founded at Users/Downloads folder.
     -   If you still can't find it, use your "Search" and key in the Beatmap(/Beatmaps packs) name. Then, remember where the future Beatmap (/Beatmaps packs) would end up in every time you download.
 -   Drag the beatmaps (or extract the beatmaps in the Beatmaps pack.zip) to your desktop.
     -   If you can multi-task, you can opt to use two windows (Downloads and osu! program file) without dragging it out to desktop.
     -   osu! can extract .zip files. You do not need to manually create folders for it.
--   Manually <u>**find osu! program file**</u> \[Usually: C:\\Program Files\\osu!, regarding from where you open the osu!. Because osu! automatically maps .osz, .osk, and .osr extension to the current path.\].
+-   Manually **find osu! program file** \[Usually: C:\\Program Files\\osu!, regarding from where you open the osu!. Because osu! automatically maps .osz, .osk, and .osr extension to the current path.\].
     -   If you did not know, C: is the hard-disk location name that your computer understands. If you can't find it at C: and you have a different hard-disk or portable-disk location name (like D: or H:), then go there and find it.
     -   If you know how to work your computer, make a shortcut link to the osu! folder by right-clicking osu! folder in the Program Files and press "Create Shortcut". If you did do this, it will save you the hassle and time needed. Just remember where you hide the shortcut in.
--   <u>**Move the beatmap(s) (either in .osz or .zip) to the Songs**</u> file. Alternatively you can drag the beatmaps to the osu! window if you have it open.
+-   **Move the beatmap(s) (either in .osz or .zip) to the Songs** file. Alternatively you can drag the beatmaps to the osu! window if you have it open.
 -   Open osu! (if it's not open) and press a game mode. osu! will extract the data (may take a while) and your beatmaps can be played. Enjoy your beatmap(s).
     -   Using "F5" is highly suggested especially when you are in a group in Multi mode. osu! will extract the data without leaving the group.
 

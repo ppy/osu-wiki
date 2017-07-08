@@ -59,14 +59,14 @@ Vous aurez besoin d'environ ~80 GO si vous souhaitez tout télécharger. (20/07)
 
 ### Comment obtenir des beatmaps sur osu! ?
 
-**<u>Pour les joueurs sans tag supporter</u>**
+**Pour les joueurs sans tag supporter**
 
 -   Visitez \[1\] [la liste des beatmaps](http://osu.ppy.sh/p/beatmaplist) ou \[2\] [la liste des packs](http://osu.ppy.sh/p/packlist)
     -   \[1\] Connectez-vous à votre compte osu!. \[2\] Connexion facultative, téléchargement externe.
 -   Patientez le temps que le téléchargement se termine.
 -   Pick your beatmaps/beatmaps pack and save it/open it with osu!.
 
-**<u>Pour les joueurs possédant un tag supporter</u>**
+**Pour les joueurs possédant un tag supporter**
 
 -   Référez-vous à la méthode C ci-dessous
 
@@ -132,16 +132,16 @@ Connexion non requise pour les téléchargements externes</li>
 
 ![Schéma publié par peppy (en anglais).](Beatmaps_peppy.jpg "Schéma publié par peppy (en anglais).")
 
-**<u>Ouvrez-le directement</u>** (ne fonctionne qu'avec les beatmaps sous .osz)
+**Ouvrez-le directement** (ne fonctionne qu'avec les beatmaps sous .osz)
 
 -   Double-cliquez sur le fichier .osz. La beatmap sera extraite automatiquement.
     -   osu! démarrera si ce n'est pas déjà le cas.
 
-**<u>Glissez-déplacer</u>**
+**Glissez-déplacer**
 
 -   Déplacez le fichier .osz directement sur la fenêtre de l'application.
 
-**<u>Commandes de BanchoBot</u>** (pour répondre dans le chat)
+**Commandes de BanchoBot** (pour répondre dans le chat)
 
 -   !faq download
     -   [Cliquez ici](http://osu.ppy.sh/p/beatmaplist) pour télécharger des beatmaps !
@@ -151,7 +151,7 @@ Connexion non requise pour les téléchargements externes</li>
 
 ![Explication en images](Beatmaps_Windows.jpg "Explication en images")
 
--   <u>**Trouvez où les beatmaps ou les packs que vous avez téléchargés se situent sur votre ordinateur**</u>. Par défaut, ils sont dans le dossier Utilisateur/Téléchargements.
+-   **Trouvez où les beatmaps ou les packs que vous avez téléchargés se situent sur votre ordinateur**. Par défaut, ils sont dans le dossier Utilisateur/Téléchargements.
 -   Déplacez toutes vos beatmaps téléchargées dans un nouveau dossier.
 -   Décompressez les packs pour y extraire les beatmaps. Déplacez ces dernières dans ce nouveau dossier.
 -   En parallèle, ouvrez le dossier du programme d'osu!. Pour cela, tapez Windows+R puis entrez la commande suivante : "**%programfiles(x86)%/osu!**". Si cette commande n'aboutit à rien, vous devrez chercher vous-même le dossier d'osu! dans vos programmes.
