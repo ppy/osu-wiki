@@ -35,10 +35,12 @@ File-file nya di *host* di website penyimpan file yang lain, jadi anda tidak per
 
 *Beatmaps packs* terbagi menjadi 4 kategori::-
 
-| Beatmaps categories |
-|---------------------|
-| Kategori            |
-| Jenis Beatmaps      |
+| Kategori | Jenis Beatmaps |
+| -------- | -------------- |
+| Standard | Lagu Ranked atau Approved |
+| Chart | Lagu tantangan Chart setiap 2 minggu sekali |
+| Tema | Tema umum dari lagu |
+| Artist/Album | Berdasarkan pada Artist/Album |
 
 Jika anda benar-benar ingin **melengkapi koleksi lagu anda** (tidak hanya mendownload lagu favorit anda saja) '''download semua ''beatmap packs (Approved/-) ''' di kategori **Standard**, jangan download yang lain. ''beatmap packs (Approved/-) akan mengandung semua lagu di 3 kategori lainnya.
 

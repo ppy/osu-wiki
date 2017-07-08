@@ -40,10 +40,12 @@ Les packs de beatmaps sont hébergés sur un site externe (Mediafire ou yas-onli
 
 Ils sont généralement séparés en 4 catégories:-
 
-| Catégories de beatmaps         |
-|--------------------------------|
-| Catégorie                      |
-| Type de beatmaps à l'intérieur |
+| Catégorie | Type de beatmaps à l'intérieur |
+| --------- | -------------------------------|
+| Standard | Classées ou approuvées |
+| Chart | Beatmaps des challenges mensuels proposés par les CAT (Chart Assembly Team, équipe d'assemblement des chartes) |
+| Thème | Musiques basées sur un thème particulier |
+| Artist/Album | Musiques d'un compositeur particulier |
 
 Si vous souhaitez télécharger la totalité des beatmaps, contentez-vous de télécharger seulement les packs de beatmaps de la catégorie "Standard". Les autres packs sont déjà inclus dans les packs Standard.
 

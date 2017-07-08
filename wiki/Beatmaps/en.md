@@ -49,12 +49,14 @@ Beatmaps packs, as the title suggests, are a .zip file containing beatmaps. The 
 
 The files are hosted on an external file storage website, so you don't have to wait for the cool down you get if you download too many beatmaps within a short period of time at osu! main website.
 
-Beatmaps packs split into 4 categories:-
+Beatmaps packs split into 4 categories:
 
-| Beatmaps categories |
-|---------------------|
-| Category            |
-| Beatmaps type       |
+| Category | Beatmaps type |
+| -------- | ------------- |
+| Standard | Ranked or Approved songs |
+| Chart | Fortnightly Chart challenge songs |
+| Theme | General theme of the songs |
+| Artist/Album | Based on Artist/Album |
 
 If you really want **to fully complete your song list** (not just downloading your favorite songs only), **download all the (-/Approved/Taiko/osu!mania) Beatmaps Packs** in the **Standard** category and nothing else. The (-/Approved/Taiko/osu!mania) Beatmaps Packs will contain all the songs in the other 3 categories.
 
