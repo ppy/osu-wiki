@@ -8,7 +8,7 @@ Um mapa de batidas, também chamado de map (mapa) para abreviar. É um nível de
 
 ### Que tipos de Beatmaps existem?
 
-Beatmaps ranqueados (Ranked) e aprovados (approved). Ambos são beatmaps que dois [Beatmap Nominators](/wiki/People/Beatmap_Nomination_Group) qualificaram. Esses beatmaps podem influenciar as estatísticas no perfil do jogador, diferente dos beatmaps que ainda não foram qualificados (chamados de [pending](#pending) beatmaps) ou beatmaps sem atualizações por mais de 30 dias que foram movidos para o cemitério de beatmaps (chamados de [graveyarded beatmaps](#graveyard)).
+Beatmaps ranqueados (Ranked) e aprovados (approved). Ambos são beatmaps que dois [Beatmap Nominators](/wiki/Beatmap_Nomination_Group) qualificaram. Esses beatmaps podem influenciar as estatísticas no perfil do jogador, diferente dos beatmaps que ainda não foram qualificados (chamados de [pending](#pending) beatmaps) ou beatmaps sem atualizações por mais de 30 dias que foram movidos para o cemitério de beatmaps (chamados de [graveyarded beatmaps](#graveyard)).
 
 #### Ranked
 
@@ -24,7 +24,7 @@ Beatmaps são approved para musicas que tem duração acima de 5:00 minutos, med
 
 #### Pending
 
-**Pending beatmaps** (beatmaps pendentes) são beatmaps que normalmente estão completos porém esperando qualificação. Mappers devem receber [modding](/wiki/Modding) da comunidade e depois chamar dois [BNs](/wiki/People/Beatmap_Nomination_Group). Beatmaps vão continuar pending até que sejam [ranked](#ranked), [approved](#approved), ou [graveyarded](#graveyard). Pending beatmaps, assim como graveyarded beatmaps, não afetam as estatísticas de gameplay ([Conquistas](/wiki/Medals), [Precisão](/wiki/Accuracy), [Pontuação](/wiki/Score) etc).
+**Pending beatmaps** (beatmaps pendentes) são beatmaps que normalmente estão completos porém esperando qualificação. Mappers devem receber [modding](/wiki/Modding) da comunidade e depois chamar dois [BNs](/wiki/Beatmap_Nomination_Group). Beatmaps vão continuar pending até que sejam [ranked](#ranked), [approved](#approved), ou [graveyarded](#graveyard). Pending beatmaps, assim como graveyarded beatmaps, não afetam as estatísticas de gameplay ([Conquistas](/wiki/Medals), [Precisão](/wiki/Accuracy), [Pontuação](/wiki/Score) etc).
 
 #### Mod Requests
 

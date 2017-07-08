@@ -8,7 +8,7 @@ Also called map for short, they are game levels in [osu!](/wiki/Glossary/#osu), 
 
 ### What types of Beatmaps are there?
 
-Ranked and approved beatmaps both are beatmaps that two [BNs](/wiki/People/Beatmap_Nomination_Group) approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](#pending) or [graveyarded](#graveyard) beatmaps.
+Ranked and approved beatmaps both are beatmaps that two [BNs](/wiki/Beatmap_Nomination_Group) approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](#pending) or [graveyarded](#graveyard) beatmaps.
 
 #### Ranked
 
@@ -28,7 +28,7 @@ Like *Pending* mixed with *Approved*, **Qualified** beatmaps are the cutting edg
 
 #### Pending
 
-**Pending beatmaps** are beatmaps that are usually complete but are awaiting [rank](#ranked) / [approval](#approved) status. [Mappers](/wiki/Glossary/#beatmapper) must seek out [modding](/wiki/Modding) from the community and two [BATs](/wiki/People/Beatmap_Nomination_Group). Beatmaps will remain pending until they have been [ranked](#ranked), [approved](#approved), or [graveyarded](#graveyard), the latter automatically occurring after 4 weeks of inactivity on the corresponding beatmap thread. Pending beatmaps, like graveyarded beatmaps do not affect gameplay statistics.
+**Pending beatmaps** are beatmaps that are usually complete but are awaiting [rank](#ranked) / [approval](#approved) status. [Mappers](/wiki/Glossary/#beatmapper) must seek out [modding](/wiki/Modding) from the community and two [BATs](/wiki/Beatmap_Nomination_Group). Beatmaps will remain pending until they have been [ranked](#ranked), [approved](#approved), or [graveyarded](#graveyard), the latter automatically occurring after 4 weeks of inactivity on the corresponding beatmap thread. Pending beatmaps, like graveyarded beatmaps do not affect gameplay statistics.
 
 #### Mod Requests
 

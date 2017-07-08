@@ -8,7 +8,7 @@ También llamado mapa, son niveles de juego en Osu!, como las etapas en los [Jue
 
 ### ![Heart icon](/wiki/shared/Heart.gif) Rankeados
 
-**Beatmaps rankeados**, son beatmaps que dos [BAT](/wiki/People/Beatmap_Nomination_Group) o un BAT y un [MAT](/wiki/Glossary) deciden aprobar.
+**Beatmaps rankeados**, son beatmaps que dos [BAT](/wiki/Beatmap_Nomination_Group) o un BAT y un [MAT](/wiki/Glossary) deciden aprobar.
 
 Estos beatmaps idealmente cumplen con todos los [Criterios de Ranking](/wiki/Ranking_Criteria) para asegurar a cada jugador un cierto grado de calidad al jugarlos.
 

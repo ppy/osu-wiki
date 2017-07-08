@@ -10,11 +10,11 @@
 
 #### Ranked
 
-**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](/wiki/People/Beatmap_Nomination_Group) atau 1 [MAT](/wiki/Glossary) dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](/wiki/Ranking_Criteria) untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](#approved), beatmap [pending](#pending) atau beatmap [graveyard](#graveyard). *Ranked beatmaps* mempunyai icon hati ![Heart icon](/wiki/shared/Heart.gif) dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
+**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](/wiki/Beatmap_Nomination_Group) atau 1 [MAT](/wiki/Glossary) dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](/wiki/Ranking_Criteria) untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](#approved), beatmap [pending](#pending) atau beatmap [graveyard](#graveyard). *Ranked beatmaps* mempunyai icon hati ![Heart icon](/wiki/shared/Heart.gif) dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
 #### Approved
 
-**Approved beatmaps** yang sekarang sudah termasuk [ranked score](/wiki/Glossary) juga. Sebuah map *approved* memerlukan 3 anggota [BAT](/wiki/People/Beatmap_Nomination_Group) atau 1 anggota [MAT](/wiki/Glossary) dan 2 anggota *BAT* untuk disetujui. Ini berbeda dengan [ranked](#ranked), [pending](#pending) atau [graveyarded](#graveyard).
+**Approved beatmaps** yang sekarang sudah termasuk [ranked score](/wiki/Glossary) juga. Sebuah map *approved* memerlukan 3 anggota [BAT](/wiki/Beatmap_Nomination_Group) atau 1 anggota [MAT](/wiki/Glossary) dan 2 anggota *BAT* untuk disetujui. Ini berbeda dengan [ranked](#ranked), [pending](#pending) atau [graveyarded](#graveyard).
 
 *Approved Beatmaps* memiliki ikon api ![Fire icon](/wiki/shared/Fire.gif) *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
@@ -51,7 +51,7 @@ Perhitungan kasar dari berapa banyak ruang harddisk (dan quota koneksi) anda ada
 
 #### Pending
 
-**Pending beatmaps** adalah beatmaps yang biasanya telah selesai tapi masih menunggu status [rank](#ranked) / [approval](#approved). [Mappers](/wiki/Glossary/#beatmapper) harus mencari [modding](/wiki/Modding) dari komunitas dan [MAT](/wiki/Glossary) atau [BAT](/wiki/People/Beatmap_Nomination_Group). *Beatmpas* akan tetap tertunda hingga mereka di [rank](#ranked), [approved](#approved), atau [graveyarded](#graveyard), akhirnya terjadi setelah 4 minggu ketidakaktifan di *thread* beatmap yang sesuai. *pending beatmaps*, seperti *graveyarded beatmaps* tidak mempengaruhi statistik permainan.
+**Pending beatmaps** adalah beatmaps yang biasanya telah selesai tapi masih menunggu status [rank](#ranked) / [approval](#approved). [Mappers](/wiki/Glossary/#beatmapper) harus mencari [modding](/wiki/Modding) dari komunitas dan [MAT](/wiki/Glossary) atau [BAT](/wiki/Beatmap_Nomination_Group). *Beatmpas* akan tetap tertunda hingga mereka di [rank](#ranked), [approved](#approved), atau [graveyarded](#graveyard), akhirnya terjadi setelah 4 minggu ketidakaktifan di *thread* beatmap yang sesuai. *pending beatmaps*, seperti *graveyarded beatmaps* tidak mempengaruhi statistik permainan.
 
 #### Mod Requests
 
