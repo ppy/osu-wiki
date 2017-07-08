@@ -4,11 +4,11 @@
 
 ## 비트맵의 종류
 
-### Ranked ![Heart icon](/wiki/shared/Heart.gif)
+### Ranked
 
 [BAT의](/wiki/Beatmap_Nomination_Group) 승인을 받은 비트맵.
 
-### Approved ![Fire icon](/wiki/shared/Fire.gif)
+### Approved
 
 Ranked와 같이 BAT의 승인을 받은 맵이지만, 주로 매우 길거나 매우 어려운 맵이 이쪽으로 분류된다.
 

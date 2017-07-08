@@ -6,7 +6,7 @@
 
 También llamado mapa, son niveles de juego en Osu!, como las etapas en los [Juegos DS](/wiki/Glossary). En su forma más básica, los beatmaps tienen una canción y Hitcircles, sliders y/o spinners colocado de acuerdo al ritmo de la música, pero también puede tener una imagen o video de fondo, o incluso un Storyboard. Creadores de beatmaps son llamados beatmappers o mappers. Los beatmaps son subidos para que todos los vean y jueguen usando el BSS para después ser modeados. Si/Una vez que el beatmap sea considerado lo suficiente bueno, será [rankeado](/wiki/Beatmaps) o, si cumple con ciertos criterios, [aprobado](/wiki/Beatmaps).
 
-### ![Heart icon](/wiki/shared/Heart.gif) Rankeados
+### Rankeados
 
 **Beatmaps rankeados**, son beatmaps que dos [BAT](/wiki/Beatmap_Nomination_Group) o un BAT y un [MAT](/wiki/Glossary) deciden aprobar.
 
