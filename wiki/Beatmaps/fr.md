@@ -2,21 +2,21 @@
 
 ## Qu'est ce qu'une "Beatmap" ?
 
-*Liste des beatmaps : <http://osu.ppy.sh/p/beatmaplist>*
+*Liste des beatmaps : <https://osu.ppy.sh/p/beatmaplist>*
 
-Aussi appelées "maps", il s'agit des niveaux d'osu!, de la même manière que sur les jeux DS. Dans leur forme la plus basique sur le mode [osu!standard](FR:Standard "wikilink"), les beatmaps sont constituées de cercles, de sliders et de spinners ([les éléments du jeu](FR:Hit_Objects "wikilink")), le tout placé en rythme sur une musique. Il est possible qu'elles contiennent aussi un [storyboard](FR:Storyboarding "wikilink"). Les créateurs des beatmaps sont appelés les beatmappeurs ou plus communément mappeurs (*beatmapper*/*mapper* en anglais). Tout le monde peut devenir mappeur et envoyer leur map à l'aide du BSS (*Beatmap Submission System*, système d'envoi de beatmaps), une fonctionnalité du client osu!. D'autres joueurs (appelés moddeurs) doivent donner des conseils et des suggestions de correction (appelés [mods](FR:Modding "wikilink")) aux mappeurs afin que leur map finisse par être vérifiée par les [BATs](FR:Beatmap_Appreciation_Team "wikilink"), chargés du contrôle et de l'acceptation des beatmaps, puis devienne **classée** (*Ranked*) ou, dans certains cas, **approuvée** (*approved*).
+Aussi appelées "maps", il s'agit des niveaux d'osu!, de la même manière que sur les jeux DS. Dans leur forme la plus basique sur le mode [osu!standard](/wiki/Game_Modes/osu!), les beatmaps sont constituées de cercles, de sliders et de spinners ([les éléments du jeu](/wiki/Hit_Objects)), le tout placé en rythme sur une musique. Il est possible qu'elles contiennent aussi un [storyboard](/wiki/Storyboards). Les créateurs des beatmaps sont appelés les beatmappeurs ou plus communément mappeurs (*beatmapper*/*mapper* en anglais). Tout le monde peut devenir mappeur et envoyer leur map à l'aide du BSS (*Beatmap Submission System*, système d'envoi de beatmaps), une fonctionnalité du client osu!. D'autres joueurs (appelés moddeurs) doivent donner des conseils et des suggestions de correction (appelés [mods](/wiki/Modding)) aux mappeurs afin que leur map finisse par être vérifiée par les [BATs](/wiki/People/Beatmap_Nomination_Group), chargés du contrôle et de l'acceptation des beatmaps, puis devienne **classée** (*Ranked*) ou, dans certains cas, **approuvée** (*approved*).
 
 ### Quels sont les différents types de beatmaps ?
 
 Les beatmaps classées et approuvées nécessitent la vérification et l'approbation de deux BATs. Ces beatmaps peuvent affecter les statistiques des joueurs qui les jouent, ce qui les différencie des beatmaps **en attente** ou **graveyard**.
 
-#### ![Heart icon](/wiki/shared/Heart.gif) Beatmaps classées
+#### Beatmaps classées
 
-Les beatmaps **classées** (*Ranked*) représentent la majorité des beatmaps du jeu. Ces beatmaps respectent tous les [critères de ranking](FR:Crit%C3%A8res_de_Ranking_G%C3%A9n%C3%A9raux "wikilink") et assurent au joueur une bonne qualité de mapping. Néanmoins, il est possible que de très vieilles beatmaps restent classées sans pour autant respecter les conditions de ranking actuelles. ([exemple](http://osu.ppy.sh/forum/t/613))
+Les beatmaps **classées** (*Ranked*) représentent la majorité des beatmaps du jeu. Ces beatmaps respectent tous les [critères de ranking](/wiki/Ranking_Criteria) et assurent au joueur une bonne qualité de mapping. Néanmoins, il est possible que de très vieilles beatmaps restent classées sans pour autant respecter les conditions de ranking actuelles. ([exemple](https://osu.ppy.sh/forum/t/613))
 
 Les beatmaps classées sont marquées d'un coeur ![Heart icon](/wiki/shared/Heart.gif) sur leur sujet et dans le menu de sélection des beatmaps du jeu.
 
-#### ![Fire icon](/wiki/shared/Fire.gif) Beatmaps approuvées
+#### Beatmaps approuvées
 
 Les beatmaps **approuvées** (*Approved*) sont marquées d'une flamme ![Fire icon](/wiki/shared/Fire.gif) sur leur sujet et dans le menu de sélection des beatmaps. Ces beatmaps ont été reconnues par les BATs, mais ne respectent pas pleinement les critères de ranking, à cause de leur difficulté ou de leur longueur. Les difficultés Tag (mode multijoueur), par exemple, sont approuvées au lieu d'être classées. La majorité de ces beatmaps n'ont pas d'autres niveaux de difficulté ; elles peuvent aussi être incluses dans un set de beatmaps classées.
 
@@ -47,8 +47,8 @@ Ils sont généralement séparés en 4 catégories:-
 
 Si vous souhaitez télécharger la totalité des beatmaps, contentez-vous de télécharger seulement les packs de beatmaps de la catégorie "Standard". Les autres packs sont déjà inclus dans les packs Standard.
 
--   Les packs de beatmaps peuvent être téléchargés [ici](http://osu.ppy.sh/p/packlist).
--   En cas d'indisponibilité du serveur principal, [nanashiRei](http://osu.ppy.sh/u/nanashiRei) propose un [site de téléchargement miroir](http://osu.yas-online.net/).
+-   Les packs de beatmaps peuvent être téléchargés [ici](https://osu.ppy.sh/p/packlist).
+-   En cas d'indisponibilité du serveur principal, [nanashiRei](https://osu.ppy.sh/u/nanashiRei) propose un [site de téléchargement miroir](http://osu.yas-online.net/).
 -   Il existe aussi des liens [torrent](https://osu.ppy.sh/forum/t/147478).
     -   Source de freakkater [ici](http://kater.selfhost.me/osutor)
     -   Source de Hiramiya [ici](http://tracker.hiramiya.me/all)
@@ -61,7 +61,7 @@ Vous aurez besoin d'environ ~80 GO si vous souhaitez tout télécharger. (20/07)
 
 **Pour les joueurs sans tag supporter**
 
--   Visitez \[1\] [la liste des beatmaps](http://osu.ppy.sh/p/beatmaplist) ou \[2\] [la liste des packs](http://osu.ppy.sh/p/packlist)
+-   Visitez \[1\] [la liste des beatmaps](https://osu.ppy.sh/p/beatmaplist) ou \[2\] [la liste des packs](https://osu.ppy.sh/p/packlist)
     -   \[1\] Connectez-vous à votre compte osu!. \[2\] Connexion facultative, téléchargement externe.
 -   Patientez le temps que le téléchargement se termine.
 -   Pick your beatmaps/beatmaps pack and save it/open it with osu!.
@@ -95,7 +95,7 @@ Connexion non requise pour les téléchargements externes</li>
 <li>Le client osu!</li>
 </ul></td>
 <td><ul>
-<li>Un compte osu! possédant un <a href="http://osu.ppy.sh/p/support">tag supporter</a></li>
+<li>Un compte osu! possédant un <a href="https://osu.ppy.sh/p/support">tag supporter</a></li>
 <li>Le client osu!</li>
 </ul></td>
 </tr>
@@ -144,8 +144,8 @@ Connexion non requise pour les téléchargements externes</li>
 **Commandes de BanchoBot** (pour répondre dans le chat)
 
 -   !faq download
-    -   [Cliquez ici](http://osu.ppy.sh/p/beatmaplist) pour télécharger des beatmaps !
-        Des packs sont également disponibles [ici](http://osu.ppy.sh/p/packlist) !
+    -   [Cliquez ici](https://osu.ppy.sh/p/beatmaplist) pour télécharger des beatmaps !
+        Des packs sont également disponibles [ici](https://osu.ppy.sh/p/packlist) !
 
 #### Method B (Opération manuelle)
 
@@ -163,7 +163,7 @@ Connexion non requise pour les téléchargements externes</li>
 
 ![osu!direct](Beatmaps_o!d.jpg "osu!direct")
 
--   Cette méthode est réservée aux osu!supporters. Si vous n'en êtes pas encore un, vous pouvez le devenir [ici](http://osu.ppy.sh/p/support) (Paiement requis)
+-   Cette méthode est réservée aux osu!supporters. Si vous n'en êtes pas encore un, vous pouvez le devenir [ici](https://osu.ppy.sh/p/support) (Paiement requis)
     -   Notez que vous pouvez aussi profiter des avantages du tag supporter lors de certains jours de fête (Noël par exemple).
 -   Ouvrez osu!.
 -   Connectez-vous avec votre compte.

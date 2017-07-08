@@ -2,21 +2,21 @@
 
 ## What are "Beatmaps"?
 
-*Beatmaps listing page: <http://osu.ppy.sh/p/beatmaplist>*
+*Beatmaps listing page: <https://osu.ppy.sh/p/beatmaplist>*
 
-Also called map for short, they are game levels in [osu!](Glossary#osu! "wikilink"), like the stages in the [DS games](Glossary#DS_games "wikilink"). In their most basic form, beatmaps have a song and [Hit Circles](Glossary#Hit_Circle "wikilink"), [Sliders](Slider "wikilink"), and/or [Spinners](Glossary#Spinner "wikilink") placed according to the rhythm of the music, but they can also have a background image or video, or even a [Storyboard](Storyboarding "wikilink"). Creators of beatmaps are called beatmappers or mappers for short. Beatmaps are uploaded for everyone to see and play with using the [BSS](Glossary#BSS "wikilink"), and are then [modded](Modding "wikilink"). If/Once a beatmap is deemed good enough, it is [ranked](Ranked_beatmap "wikilink") or, if fulfilling certain criteria, [approved](Approved_Beatmap "wikilink").
+Also called map for short, they are game levels in [osu!](/wiki/Glossary/#osu), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, beatmaps have a song and [Hit Circles](/wiki/Hit_Objects), [Sliders](/wiki/Hit_Objects), and/or [Spinners](/wiki/Hit_Objects) placed according to the rhythm of the music, but they can also have a background image or video, or even a [Storyboard](/wiki/Storyboards). Creators of beatmaps are called beatmappers or mappers for short. Beatmaps are uploaded for everyone to see and play with using the [BSS](/wiki/Glossary/#bss), and are then [modded](/wiki/Modding). If/Once a beatmap is deemed good enough, it is [ranked](#ranked) or, if fulfilling certain criteria, [approved](#approved).
 
 ### What types of Beatmaps are there?
 
-Ranked and approved beatmaps both are beatmaps that two [BNs](Beatmap_Nomination_Group "wikilink") approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](Pending_Beatmap "wikilink") or [graveyarded](Graveyarded_beatmap "wikilink") beatmaps.
+Ranked and approved beatmaps both are beatmaps that two [BNs](/wiki/People/Beatmap_Nomination_Group) approved of. They can influence the stats on a player's profile, which is what makes them different from [pending](#pending) or [graveyarded](#graveyard) beatmaps.
 
-#### ![Heart icon](/wiki/shared/Heart.gif) Ranked
+#### Ranked
 
 Ranked Beatmaps have a heart ![Heart icon](/wiki/shared/Heart.gif) icon on the thread and on the in-game song selection.
 
-These beatmaps ideally fulfill all of the [ranking criteria](ranking_criteria "wikilink") to ensure that every player can expect a certain kind of standard when playing them.
+These beatmaps ideally fulfill all of the [ranking criteria](/wiki/Ranking_Criteria) to ensure that every player can expect a certain kind of standard when playing them.
 
-#### ![Fire icon](/wiki/shared/Fire.gif) Approved
+#### Approved
 
 Approved Beatmaps have a flame ![Fire icon](/wiki/shared/Fire.gif) icon on the thread and on the in-game song selection.
 
@@ -24,11 +24,11 @@ Beatmaps are approved for songs that are over 5:00 minutes in length, measured w
 
 #### Qualified
 
-Like *Pending* mixed with *Approved*, **Qualified** beatmaps are the cutting edge (of [beatmaps](beatmaps "wikilink")), changing weekly, they could be the next, new and approved beatmap(s)! Notice: During this state, a beatmap will instantly return *Pending* if a mistake was found (and your scores will be wiped out). If they survive a week whilst in *Qualified*, they will become the next, new and approved beatmap(s)! (oh, sorry, did I say that already?)
+Like *Pending* mixed with *Approved*, **Qualified** beatmaps are the cutting edge (of beatmaps), changing weekly, they could be the next, new and approved beatmap(s)! Notice: During this state, a beatmap will instantly return *Pending* if a mistake was found (and your scores will be wiped out). If they survive a week whilst in *Qualified*, they will become the next, new and approved beatmap(s)! (oh, sorry, did I say that already?)
 
 #### Pending
 
-**Pending beatmaps** are [beatmaps](beatmaps "wikilink") that are usually complete but are awaiting [rank](Ranked_beatmap "wikilink")/[approval](Approved_Beatmap "wikilink") status. [Mappers](Mappers "wikilink") must seek out [modding](modding "wikilink") from the community and two [BATs](Beatmap_Appreciation_Team "wikilink"). Beatmaps will remain pending until they have been [ranked](Ranked_beatmap "wikilink"), [approved](Approved_Beatmap "wikilink"), or [graveyarded](Graveyarded_beatmap "wikilink"), the latter automatically occurring after 4 weeks of inactivity on the corresponding beatmap thread. Pending beatmaps, like graveyarded beatmaps do not affect gameplay statistics.
+**Pending beatmaps** are beatmaps that are usually complete but are awaiting [rank](#ranked) / [approval](#approved) status. [Mappers](/wiki/Glossary/#beatmapper) must seek out [modding](/wiki/Modding) from the community and two [BATs](/wiki/People/Beatmap_Nomination_Group). Beatmaps will remain pending until they have been [ranked](#ranked), [approved](#approved), or [graveyarded](#graveyard), the latter automatically occurring after 4 weeks of inactivity on the corresponding beatmap thread. Pending beatmaps, like graveyarded beatmaps do not affect gameplay statistics.
 
 #### Mod Requests
 
@@ -36,7 +36,7 @@ Like *Pending* mixed with *Approved*, **Qualified** beatmaps are the cutting edg
 
 #### Graveyard
 
-**Graveyarded beatmaps** are maps that have not been updated or its thread posted in for at least 4 weeks. This kind of [beatmap](beatmap "wikilink") cannot be ranked until the [mapper](mappers "wikilink") revives it by clicking the "Revive Beatmap" link in his/her own profile under the category 'Beatmaps'. Graveyarded beatmaps behave in the same way as Pending or WiP maps do in the aspect that they do not add to any stat of the player ([Achievements](Achievements "wikilink"), Accuracy, Score, etc.).
+**Graveyarded beatmaps** are maps that have not been updated or its thread posted in for at least 4 weeks. This kind of beatmap cannot be ranked until the [mapper](/wiki/Glossary/#beatmapper) revives it by clicking the "Revive Beatmap" link in his/her own profile under the category 'Beatmaps'. Graveyarded beatmaps behave in the same way as Pending or WiP maps do in the aspect that they do not add to any stat of the player ([Achievements](/wiki/Medals), Accuracy, Score, etc.).
 
 #### Beatmaps packs
 
@@ -60,8 +60,8 @@ If you really want **to fully complete your song list** (not just downloading yo
 
 The Beatmaps packs can be found and downloaded from:-
 
--   [osu! Beatmaps Packs page](http://osu.ppy.sh/p/packlist)
--   Beatmaps Packs mirror hosted by [nanashiRei](http://osu.ppy.sh/u/nanashiRei). [Link](http://osu.yas-online.net/)
+-   [osu! Beatmaps Packs page](https://osu.ppy.sh/p/packlist)
+-   Beatmaps Packs mirror hosted by [nanashiRei](https://osu.ppy.sh/u/nanashiRei). [Link](http://osu.yas-online.net/)
 
 *Notice: Torrenting osu!beatmaps seems to of had died off approximately 2 years ago and counting... (within the border of osu! and it's forums)*
 
@@ -79,7 +79,7 @@ A rough estimation of how many hard disk space (and your connection quota) you w
 
 **For players without osu!supporter tags**
 
--   Visit \[1\][the beatmaplist page](http://osu.ppy.sh/p/beatmaplist) or \[2\][the packlist page](http://osu.ppy.sh/p/packlist)
+-   Visit \[1\][the beatmaplist page](https://osu.ppy.sh/p/beatmaplist) or \[2\][the packlist page](https://osu.ppy.sh/p/packlist)
     -   \[1\] Log in your osu!account. Server download. \[2\] Not required. External download.
 -   Pick your beatmaps/beatmaps pack and save it/open it with osu!.
 -   Wait for the download to complete.
@@ -168,8 +168,8 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 **BanchoBot command** (for answering in chat)
 
 -   !faq download
-    -   [Download maps here](http://osu.ppy.sh/p/beatmaplist)
-        [Official Beatmap Pack List](http://osu.ppy.sh/p/packlist)
+    -   [Download maps here](https://osu.ppy.sh/p/beatmaplist)
+        [Official Beatmap Pack List](https://osu.ppy.sh/p/packlist)
 
 #### Method B (Manual operation)
 
@@ -191,7 +191,7 @@ Drag &amp; drop to osu! or just directly open the .osz</li>
 
 ![Example of osu!direct downloading.](Beatmaps_o!d.jpg "Example of osu!direct downloading.")
 
--   [If you are still not a osu!supporter, please log in your osu!account and get the osu!supporter tag here](http://osu.ppy.sh/p/support) (Payment required)
+-   [If you are still not a osu!supporter, please log in your osu!account and get the osu!supporter tag here](https://osu.ppy.sh/p/support) (Payment required)
     -   Note: In special notable occasions (like Christmas), osu!supporter effect may be enabled for that specific day for everyone, until admins disabled it.
 -   Open your osu!.exe (your osu! in Desktop)
 -   Log in your account.

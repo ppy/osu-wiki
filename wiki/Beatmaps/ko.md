@@ -6,7 +6,7 @@
 
 ### Ranked ![Heart icon](/wiki/shared/Heart.gif)
 
-[BAT의](KO:Beatmap_Appreciation_Team "wikilink") 승인을 받은 비트맵.
+[BAT의](/wiki/People/Beatmap_Nomination_Group) 승인을 받은 비트맵.
 
 ### Approved ![Fire icon](/wiki/shared/Fire.gif)
 

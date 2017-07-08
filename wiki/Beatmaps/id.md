@@ -2,23 +2,23 @@
 
 ## Apa itu "Beatmaps"?
 
-*halaman daftar Beatmaps: <http://osu.ppy.sh/p/beatmaplist>*
+*halaman daftar Beatmaps: <https://osu.ppy.sh/p/beatmaplist>*
 
-*Beatmaps* atau bisa disingkat *maps* adalah sebuah *level* dalam [osu!](ID:Glossary#osu! "wikilink"), seperti tiap stage di versi [DS games](ID:Glossary#DS_games "wikilink"). Di bentuk paling dasar mereka, *beatmaps*; mempunyai lagu dan [*Hit Circles*](ID:Glossary#Hit_Circle "wikilink"), [*Sliders*](ID:Slider "wikilink"), dan/atau [*Spinners*](ID:Glossary#Spinner "wikilink") terletakkan sesuai dengan ritme musik, tapi beatmaps juga dapat ditambah dengan gambar dasar atau video, atau bahkan dengan [Storyboard](ID:Storyboarding "wikilink"). Pembuat *beatmaps* disebut *beatmappers* atau *mappers* untuk lebih singkatnya. *Beatmaps* di unggah untuk dilihat dan dimainkan oleh semua orang menggunakan [BSS](ID:Glossary#BSS "wikilink"), dan kemudian di [mod](ID:Modding "wikilink"). Jika sebuah beatmap sudah dinilai cukup bagus, beatmap tersebut di [rank](ID:Ranked_beatmap "wikilink") atau, di beberapa kasus yang jarang, di [approve](ID:Approved_Beatmap "wikilink").
+*Beatmaps* atau bisa disingkat *maps* adalah sebuah *level* dalam [osu!](/wiki/Glossary/#osu), seperti tiap stage di versi [DS games](/wiki/Glossary/#ds-games). Di bentuk paling dasar mereka, *beatmaps*; mempunyai lagu dan [*Hit Circles*](/wiki/Hit_Objects), [*Sliders*](/wiki/Hit_Objects), dan/atau [*Spinners*](/wiki/Hit_Objects) terletakkan sesuai dengan ritme musik, tapi beatmaps juga dapat ditambah dengan gambar dasar atau video, atau bahkan dengan [Storyboard](/wiki/Storyboards). Pembuat *beatmaps* disebut *beatmappers* atau *mappers* untuk lebih singkatnya. *Beatmaps* di unggah untuk dilihat dan dimainkan oleh semua orang menggunakan [BSS](/wiki/Glossary), dan kemudian di [mod](/wiki/Modding). Jika sebuah beatmap sudah dinilai cukup bagus, beatmap tersebut di [rank](#ranked) atau, di beberapa kasus yang jarang, di [approve](#approved).
 
 ### Jenis beatmap ada apa saja sih?
 
-#### ![Heart icon](/wiki/shared/Heart.gif) Ranked
+#### Ranked
 
-**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](ID:Beatmap_Appreciation_Team "wikilink") atau 1 [MAT](ID:Modding_Assistance_Team "wikilink") dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](ID:Ranking_Criteria "wikilink") untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](ID:Approved_Beatmap "wikilink"), beatmap [pending](ID:Pending_Beatmap "wikilink") atau beatmap [graveyard](ID:Graveyarded_beatmap "wikilink"). *Ranked beatmaps* mempunyai icon hati ![Heart icon](/wiki/shared/Heart.gif) dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
+**Ranked beatmaps** adalah *beatmaps* yang telah disetujui oleh 2 [BATs](/wiki/People/Beatmap_Nomination_Group) atau 1 [MAT](/wiki/Glossary) dan satu *BAT*. *Beatmaps* ini secara ideal telah memenuhi semua [ranking criteria](/wiki/Ranking_Criteria) untuk memastikan bahwa setiap pemain dapat mengharapkan standar yang sesuai ketika dimainkan. *Ranked beatmaps* bisa mempengaruhi semua statistik dalam profil pemain, yang juga membedakan mereka dari beatmap [approved](#approved), beatmap [pending](#pending) atau beatmap [graveyard](#graveyard). *Ranked beatmaps* mempunyai icon hati ![Heart icon](/wiki/shared/Heart.gif) dalam *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
-#### ![Fire icon](/wiki/shared/Fire.gif) Approved
+#### Approved
 
-**Approved beatmaps** yang sekarang sudah termasuk [ranked score](ID:Ranked_Score "wikilink") juga. Sebuah map *approved* memerlukan 3 anggota [BAT](ID:Beatmap_Appreciation_Team "wikilink") atau 1 anggota [MAT](ID:Modding_Assistance_Team "wikilink") dan 2 anggota *BAT* untuk disetujui. Ini berbeda dengan [ranked](ID:Ranked_Beatmap "wikilink"), [pending](ID:Pending_Beatmap "wikilink") atau [graveyarded](ID:Graveyarded_Beatmap "wikilink").
+**Approved beatmaps** yang sekarang sudah termasuk [ranked score](/wiki/Glossary) juga. Sebuah map *approved* memerlukan 3 anggota [BAT](/wiki/People/Beatmap_Nomination_Group) atau 1 anggota [MAT](/wiki/Glossary) dan 2 anggota *BAT* untuk disetujui. Ini berbeda dengan [ranked](#ranked), [pending](#pending) atau [graveyarded](#graveyard).
 
 *Approved Beatmaps* memiliki ikon api ![Fire icon](/wiki/shared/Fire.gif) *thread*nya dan dalam pemilihan lagu di dalam game nya.
 
-*Beatmaps* dibuat *approved* karena alasan yang bervariasi seperti *maps* yang sangat lama, *maps* yang sangat susah (termasuk [tag difficulties](ID:Tag_difficulty "wikilink")). Mungkin bahwa sebagian dari sebuah *map* *approved* sedangkan sisanya *ranked*. Walaupun 3 persetujuan diperlukan untuk semua kasus persetujuan.
+*Beatmaps* dibuat *approved* karena alasan yang bervariasi seperti *maps* yang sangat lama, *maps* yang sangat susah (termasuk [tag difficulties](/wiki/Glossary)). Mungkin bahwa sebagian dari sebuah *map* *approved* sedangkan sisanya *ranked*. Walaupun 3 persetujuan diperlukan untuk semua kasus persetujuan.
 
 **Note**: mungkin saja kriteria approval berubah.
 
@@ -44,14 +44,14 @@ Jika anda benar-benar ingin **melengkapi koleksi lagu anda** (tidak hanya mendow
 
 *Beatmaps packs* dapat ditemukan dan di download di:
 
--   Halaman *Beatmaps Packs* osu! [1](http://osu.ppy.sh/p/packlist)
--   mirror *Beatmaps Packs* yang di *host* oleh [nanashiRei](http://osu.ppy.sh/u/nanashiRei). [2](http://osu.yas-online.net/)
+-   Halaman *Beatmaps Packs* osu! [1](https://osu.ppy.sh/p/packlist)
+-   mirror *Beatmaps Packs* yang di *host* oleh [nanashiRei](https://osu.ppy.sh/u/nanashiRei). [2](http://osu.yas-online.net/)
 
 Perhitungan kasar dari berapa banyak ruang harddisk (dan quota koneksi) anda adalah sekitar 60-70 gb (hingga Beatmap Pack \#478 \[6/6/12) dan Approved Beatmap Pack \#17 \[26/3/12\])
 
 #### Pending
 
-**Pending beatmaps** adalah [Beatmaps](ID:Beatmaps "wikilink") yang biasanya telah selesai tapi masih menunggu status [rank](ID:Ranked_beatmap "wikilink")/[approval](ID:Approved_Beatmap "wikilink"). [Mappers](ID:Mappers "wikilink") harus mencari [modding](ID:Modding "wikilink") dari komunitas dan [MAT](ID:Modding_Assistance_Team "wikilink") atau [BAT](ID:Beatmap_Appreciation_Team "wikilink"). *Beatmpas* akan tetap tertunda hingga mereka di [rank](ID:Ranked_beatmap "wikilink"), [approved](ID:Approved_Beatmap "wikilink"), atau [graveyarded](ID:Graveyarded_beatmap "wikilink"), akhirnya terjadi setelah 4 minggu ketidakaktifan di *thread* beatmap yang sesuai. *pending beatmaps*, seperti *graveyarded beatmaps* tidak mempengaruhi statistik permainan.
+**Pending beatmaps** adalah beatmaps yang biasanya telah selesai tapi masih menunggu status [rank](#ranked) / [approval](#approved). [Mappers](/wiki/Glossary/#beatmapper) harus mencari [modding](/wiki/Modding) dari komunitas dan [MAT](/wiki/Glossary) atau [BAT](/wiki/People/Beatmap_Nomination_Group). *Beatmpas* akan tetap tertunda hingga mereka di [rank](#ranked), [approved](#approved), atau [graveyarded](#graveyard), akhirnya terjadi setelah 4 minggu ketidakaktifan di *thread* beatmap yang sesuai. *pending beatmaps*, seperti *graveyarded beatmaps* tidak mempengaruhi statistik permainan.
 
 #### Mod Requests
 
@@ -59,7 +59,7 @@ Perhitungan kasar dari berapa banyak ruang harddisk (dan quota koneksi) anda ada
 
 #### Graveyard
 
-**Graveyarded beatmaps** adalah *maps* yang belum di perbaharui atau di post dalam thread setidaknya 4 minggu. beatmap jenis ini tidak dapat di *rank* hingga sang [mapper](ID:Mappers "wikilink") menghidupkannya kembali dengan mengklik link *"Revive Beatmap"* di profilnya di bawah kategori *Beatmaps*. *Beatmaps graveyard* setara dengan *maps pending* atau ''maps WiP dalam aspek mereka tidak menambah stat player seperti ([Achievements](ID:Achievements "wikilink"), Accuracy, Score, dll.).
+**Graveyarded beatmaps** adalah *maps* yang belum di perbaharui atau di post dalam thread setidaknya 4 minggu. beatmap jenis ini tidak dapat di *rank* hingga sang [mapper](/wiki/Glossary) menghidupkannya kembali dengan mengklik link *"Revive Beatmap"* di profilnya di bawah kategori *Beatmaps*. *Beatmaps graveyard* setara dengan *maps pending* atau ''maps WiP dalam aspek mereka tidak menambah stat player seperti ([Achievements](/wiki/Medals), Accuracy, Score, dll.).
 
 ### Apa yang seharusnya saya lakukan dengan beatmap yang telah saya unduh?
 
