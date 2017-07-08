@@ -1,3 +1,5 @@
+# Beatmaps (Français)
+
 Qu'est ce qu'une "Beatmap" ?
 ============================
 
