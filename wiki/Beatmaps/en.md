@@ -92,67 +92,57 @@ A rough estimation of how many hard disk space (and your connection quota) you w
 
 #### Comparison between Methods
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Information</p></th>
-<th><p>Method A</p></th>
-<th><p>Method B</p></th>
-<th><p>Method C</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Minimum requirement</p></td>
-<td><ul>
-<li>osu!account (download from server);<br />
-Not required (External download)</li>
-<li>osu!</li>
-</ul></td>
-<td><ul>
-<li>osu!account (download from server);<br />
-Not required (External download)</li>
-<li>osu!</li>
-</ul></td>
-<td><ul>
-<li>osu!supporter<em>' required</em>'</li>
-<li>osu!</li>
-<li>Internet connection.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>Advantages</p></td>
-<td><ul>
-<li>Convenient.<br />
-Drag &amp; drop to osu! or just directly open the .osz</li>
-</ul></td>
-<td><ul>
-<li>Always works. Traditional method.</li>
-</ul></td>
-<td><ul>
-<li>osu! will do the extraction part itself.</li>
-<li>Double simultaneous download.</li>
-<li>Isn't affected by download limit.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>Disadvantages</p></td>
-<td><ul>
-<li>Does not work on .zip or folder type files<br />
-(<em>very</em> old beatmaps packs).</li>
-<li>Forces osu! to start-up.</li>
-<li>Can be used to directly avoid osu!update.</li>
-</ul></td>
-<td><ul>
-<li>Tedious. You have to locate the osu!'s Songs folder manually.</li>
-</ul></td>
-<td><ul>
-<li>Requires osu!supporter tag.</li>
-<li>Requires Internet connection.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+##### Method A
+
+**Minimum requirement**
+
+- osu!account (download from server); Not required (External download)
+- *osu!*
+
+**Advantages**
+
+- Convenient.
+Drag & drop to osu! or just directly open the .osz
+
+**Disadvantages**
+
+- Does not work on .zip or folder type files (very old beatmaps packs).
+- Forces osu! to start-up.
+- Can be used to directly avoid osu!update.
+
+##### Method B
+
+**Minimum requirement**
+
+- osu!account (download from server); Not required (External download)
+- osu!
+
+**Advantages**
+
+- Always works. Traditional method.
+
+**Disadvantages**
+
+- Tedious. You have to locate the osu!'s Songs folder manually.
+
+##### Method C
+
+**Minimum requirement**
+
+- osu!supporter required
+- osu!
+- Internet connection.
+
+**Advantages**
+
+- osu! will do the extraction part itself.
+- Double simultaneous download.
+- Isn't affected by download limit.
+
+**Disadvantages**
+
+- Requires osu!supporter tag.
+- Requires Internet connection.
 
 #### Method A (Direct operation)
 

@@ -74,61 +74,52 @@ Vous aurez besoin d'environ ~80 GO si vous souhaitez tout télécharger. (20/07)
 
 #### Comparaison entre les méthodes
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Information</p></th>
-<th><p>Méthode A</p></th>
-<th><p>Méthode B</p></th>
-<th><p>Méthode C</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Minimum requis</p></td>
-<td><ul>
-<li>Compte osu! (téléchargement depuis le serveur principal)<br />
-Connexion non requise pour les téléchargements externes</li>
-<li>Le client osu!</li>
-</ul></td>
-<td><ul>
-<li>Compte osu! (téléchargement depuis le serveur principal)<br />
-Connexion non requise pour les téléchargements externes</li>
-<li>Le client osu!</li>
-</ul></td>
-<td><ul>
-<li>Un compte osu! possédant un <a href="https://osu.ppy.sh/p/support">tag supporter</a></li>
-<li>Le client osu!</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>Avantages</p></td>
-<td><ul>
-<li>Simple et facile. Glissez-déplacez vers osu! ou ouvrez simplement le fichier .osz.</li>
-</ul></td>
-<td><ul>
-<li>Fonctionne toujours. Méthode traditionnelle.</li>
-</ul></td>
-<td><ul>
-<li>osu! extraira automatiquement les beatmaps.</li>
-<li>Deux téléchargements simultanés.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>Désavantages</p></td>
-<td><ul>
-<li>Ne fonctionne pas avec des fichiers .zip ou des dossiers (comme pour les très anciennes beatmaps).</li>
-<li>Nécessite le démarrage d'osu!.</li>
-</ul></td>
-<td><ul>
-<li>Pénible. Vous devez accéder au dossier &quot;Songs&quot; dans le dossier du programme d'osu!.</li>
-</ul></td>
-<td><ul>
-<li>Nécessite le tag supporter</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+##### Méthode A
+
+**Minimum requis**
+
+- Compte osu! (téléchargement depuis le serveur principal); Connexion non requise pour les téléchargements externes
+- Le client osu!
+
+**Avantages**
+
+- Simple et facile. Glissez-déplacez vers osu! ou ouvrez simplement le fichier `.osz`.
+
+**Désavantages**
+
+- Ne fonctionne pas avec des fichiers .zip ou des dossiers (comme pour les très anciennes beatmaps).
+- Nécessite le démarrage d'osu!.
+
+##### Méthode B
+
+**Minimum requis**
+
+- Compte osu! (téléchargement depuis le serveur principal); Connexion non requise pour les téléchargements externes
+- Le client osu!
+
+**Avantages**
+
+- Fonctionne toujours. Méthode traditionnelle.
+
+**Désavantages**
+
+- Pénible. Vous devez accéder au dossier "Songs" dans le dossier du programme d'osu!.
+
+##### Méthode C
+
+**Minimum requis**
+
+- Un compte osu! possédant un tag supporter
+- Le client osu!
+
+**Avantages**
+
+- osu! extraira automatiquement les beatmaps.
+- Deux téléchargements simultanés.
+
+**Désavantages**
+
+- Nécessite le tag supporter
 
 #### Méthode A (Opération standard)
 
