@@ -236,97 +236,97 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 
 | Saturday, 15. April 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Japan ![][flag_JP] | 7 | 1 | ![][flag_TW] Taiwan | [#1](https://new.ppy.sh/matches/32485603) |
+| Japan ![][flag_JP] | 7 | 1 | ![][flag_TW] Taiwan | [#1](https://new.ppy.sh/community/matches/32485603) |
 
 ### Finals - Week 1
 
 | Saturday, 08. April 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Hong Kong ![][flag_HK] | 6 | 0 | ![][flag_US] United States | [#1](https://new.ppy.sh/matches/32317619) |
-| Taiwan ![][flag_TW] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/matches/32319543) |
-| Germany ![][flag_DE] | 0 | 6 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/matches/32334385) |
+| Hong Kong ![][flag_HK] | 6 | 0 | ![][flag_US] United States | [#1](https://new.ppy.sh/community/matches/32317619) |
+| Taiwan ![][flag_TW] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32319543) |
+| Germany ![][flag_DE] | 0 | 6 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/community/matches/32334385) |
 
 | Sunday, 09. April 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Hong Kong ![][flag_HK] | 6 | 4 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/matches/32346874) |
-| Taiwan ![][flag_TW] | 6 | 0 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/matches/32355825) |
+| Hong Kong ![][flag_HK] | 6 | 4 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/community/matches/32346874) |
+| Taiwan ![][flag_TW] | 6 | 0 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/community/matches/32355825) |
 
 ### Semifinals
 
 | Saturday, 01. April 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| France ![][flag_FR] | 3 | 6 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/matches/32166125) |
-| Poland ![][flag_PL] | 0 | 6 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/matches/32168039) |
-| Chile ![][flag_CL] | 6 | 3 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/matches/32169879) |
-| Spain ![][flag_ES] | 0 | 6 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/matches/32172525) |
+| France ![][flag_FR] | 3 | 6 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32166125) |
+| Poland ![][flag_PL] | 0 | 6 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/community/matches/32168039) |
+| Chile ![][flag_CL] | 6 | 3 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/32169879) |
+| Spain ![][flag_ES] | 0 | 6 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/community/matches/32172525) |
 
 | Sunday, 02. April 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Canada ![][flag_CA] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/matches/32189359) |
-| Taiwan ![][flag_TW] | 6 | 2 | ![][flag_US] United States | [#1](https://new.ppy.sh/matches/32190652) |
-| Hong Kong ![][flag_HK] | 6 | 2 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/matches/32201845) |
-| Chile ![][flag_CL] | 1 | 6 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/matches/32203683) |
+| Canada ![][flag_CA] | 0 | 6 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32189359) |
+| Taiwan ![][flag_TW] | 6 | 2 | ![][flag_US] United States | [#1](https://new.ppy.sh/community/matches/32190652) |
+| Hong Kong ![][flag_HK] | 6 | 2 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32201845) |
+| Chile ![][flag_CL] | 1 | 6 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/community/matches/32203683) |
 
 ### Quarterfinals
 
 | Saturday, 25. March 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Spain ![][flag_ES] | 5 | 2 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/matches/32018493) |
-| Chile ![][flag_CL] | 5 | 2 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/matches/32021588) |
+| Spain ![][flag_ES] | 5 | 2 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/community/matches/32018493) |
+| Chile ![][flag_CL] | 5 | 2 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/community/matches/32021588) |
 
 | Sunday, 26. March 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| United States ![][flag_US] | 5 | 1 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/matches/32028776) |
-| Canada ![][flag_CA] | 5 | 1 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/matches/32030302) |
-| Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/matches/32037413) |
-| Taiwan ![][flag_TW] | 5 | 1 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/matches/32038891) |
-| Poland ![][flag_PL] | 5 | 4 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/matches/32040615) |
-| France ![][flag_FR] | 5 | 0 | ![][flag_ID] Indonesia | [#1](https://new.ppy.sh/matches/32042951) |
+| United States ![][flag_US] | 5 | 1 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/32028776) |
+| Canada ![][flag_CA] | 5 | 1 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/32030302) |
+| Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/32037413) |
+| Taiwan ![][flag_TW] | 5 | 1 | ![][flag_DE] Germany | [#1](https://new.ppy.sh/community/matches/32038891) |
+| Poland ![][flag_PL] | 5 | 4 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/32040615) |
+| France ![][flag_FR] | 5 | 0 | ![][flag_ID] Indonesia | [#1](https://new.ppy.sh/community/matches/32042951) |
 
 ### Round of 16
 
 | Sunday, 19. March 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Taiwan ![][flag_TW] | 5 | 0 | ![][flag_PL] Poland | [#1](https://new.ppy.sh/matches/31875417) |
-| Germany ![][flag_DE] | 5 | 2 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/matches/31876394) |
-| Indonesia ![][flag_ID] | 2 | 5 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/matches/31877490) |
-| Brazil ![][flag_BR] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/matches/31878642) |
-| United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/matches/31880026) |
-| Spain ![][flag_ES] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/matches/31881564) |
-| United States ![][flag_US] | 5 | 2 | ![][flag_FR] France | [#1](https://new.ppy.sh/matches/31889735) |
-| Chile ![][flag_CL] | 0 | 5 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/matches/31891726) |
+| Taiwan ![][flag_TW] | 5 | 0 | ![][flag_PL] Poland | [#1](https://new.ppy.sh/community/matches/31875417) |
+| Germany ![][flag_DE] | 5 | 2 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/31876394) |
+| Indonesia ![][flag_ID] | 2 | 5 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/31877490) |
+| Brazil ![][flag_BR] | 1 | 5 | ![][flag_KR] South Korea | [#1](https://new.ppy.sh/community/matches/31878642) |
+| United Kingdom ![][flag_GB] | 0 | 5 | ![][flag_JP] Japan | [#1](https://new.ppy.sh/community/matches/31880026) |
+| Spain ![][flag_ES] | 0 | 5 | ![][flag_HK] Hong Kong | [#1](https://new.ppy.sh/community/matches/31881564) |
+| United States ![][flag_US] | 5 | 2 | ![][flag_FR] France | [#1](https://new.ppy.sh/community/matches/31889735) |
+| Chile ![][flag_CL] | 0 | 5 | ![][flag_CA] Canada | [#1](https://new.ppy.sh/community/matches/31891726) |
 
 ### Group Stage
 
 | Saturday, 11. March 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Poland ![][flag_PL] | 4 | 0 | ![][flag_CN] China | -win by default- |
-| Hong Kong ![][flag_HK] | 4 | 0 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/matches/31674432) |
-| Taiwan ![][flag_TW] | 4 | 0 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/matches/31675793) |
+| Hong Kong ![][flag_HK] | 4 | 0 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/31674432) |
+| Taiwan ![][flag_TW] | 4 | 0 | ![][flag_GB] United Kingdom | [#1](https://new.ppy.sh/community/matches/31675793) |
 | Japan ![][flag_JP] | 4 | 0 | ![][flag_CN] China | -win by default- |
-| South Korea ![][flag_KR] | 4 | 0 | ![][flag_UA] Ukraine | [#1](https://new.ppy.sh/matches/31675803) |
-| Hong Kong ![][flag_HK] | 4 | 0 | ![][flag_AR] Argentina | [#1](https://new.ppy.sh/matches/31677429) |
-| Chile ![][flag_CL] | 3 | 4 | ![][flag_ID] Indonesia | [#1](https://new.ppy.sh/matches/31677435) |
-| United Kingdom ![][flag_GB] | 4 | 0 | ![][flag_NO] Norway | [#1](https://new.ppy.sh/matches/31690990) |
-| France ![][flag_FR] | 4 | 0 | ![][flag_UA] Ukraine | [#1](https://new.ppy.sh/matches/31690995) |
-| United States ![][flag_US] | 4 | 0 | ![][flag_SE] Sweden | [#1](https://new.ppy.sh/matches/31693122) |
-| Germany ![][flag_DE] | 4 | 1 | ![][flag_ES] Spain | [#1](https://new.ppy.sh/matches/31693125) |
-| Canada ![][flag_CA] | 4 | 0 | ![][flag_VE] Venezuela | [#1](https://new.ppy.sh/matches/31695326) |
-| Australia ![][flag_AU] | 4 | 0 | ![][flag_VE] Venezuela | [#1](https://new.ppy.sh/matches/31696708) |
-| United States ![][flag_US] | 4 | 0 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/matches/31696713) |
+| South Korea ![][flag_KR] | 4 | 0 | ![][flag_UA] Ukraine | [#1](https://new.ppy.sh/community/matches/31675803) |
+| Hong Kong ![][flag_HK] | 4 | 0 | ![][flag_AR] Argentina | [#1](https://new.ppy.sh/community/matches/31677429) |
+| Chile ![][flag_CL] | 3 | 4 | ![][flag_ID] Indonesia | [#1](https://new.ppy.sh/community/matches/31677435) |
+| United Kingdom ![][flag_GB] | 4 | 0 | ![][flag_NO] Norway | [#1](https://new.ppy.sh/community/matches/31690990) |
+| France ![][flag_FR] | 4 | 0 | ![][flag_UA] Ukraine | [#1](https://new.ppy.sh/community/matches/31690995) |
+| United States ![][flag_US] | 4 | 0 | ![][flag_SE] Sweden | [#1](https://new.ppy.sh/community/matches/31693122) |
+| Germany ![][flag_DE] | 4 | 1 | ![][flag_ES] Spain | [#1](https://new.ppy.sh/community/matches/31693125) |
+| Canada ![][flag_CA] | 4 | 0 | ![][flag_VE] Venezuela | [#1](https://new.ppy.sh/community/matches/31695326) |
+| Australia ![][flag_AU] | 4 | 0 | ![][flag_VE] Venezuela | [#1](https://new.ppy.sh/community/matches/31696708) |
+| United States ![][flag_US] | 4 | 0 | ![][flag_BR] Brazil | [#1](https://new.ppy.sh/community/matches/31696713) |
 
 | Sunday, 12. March 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Canada ![][flag_CA] | 4 | 0 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/matches/31698275) |
-| South Korea ![][flag_KR] | 4 | 3 | ![][flag_FR] France | [#1](https://new.ppy.sh/matches/31710151) |
-| Spain ![][flag_ES] | 4 | 0 | ![][flag_FI] Finland | [#1](https://new.ppy.sh/matches/31710156) |
-| Taiwan ![][flag_TW] | 4 | 0 | ![][flag_NO] Norway | [#1](https://new.ppy.sh/matches/31711335) |
-| Indonesia ![][flag_ID] | 4 | 0 | ![][flag_RU] Russian Federation | [#1](https://new.ppy.sh/matches/31711337) |
-| Japan ![][flag_JP] | 4 | 0 | ![][flag_PL] Poland | [#1](https://new.ppy.sh/matches/31711338) |
-| Argentina ![][flag_AR] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/matches/31712895) |
-| Germany ![][flag_DE] | 4 | 0 | ![][flag_FI] Finland | [#1](https://new.ppy.sh/matches/31713001) |
-| Chile ![][flag_CL] | 4 | 0 | ![][flag_RU] Russian Federation | [#1](https://new.ppy.sh/matches/31714550) |
-| Brazil ![][flag_BR] | 4 | 1 | ![][flag_SE] Sweden | [#1](https://new.ppy.sh/matches/31714557) |
+| Canada ![][flag_CA] | 4 | 0 | ![][flag_AU] Australia | [#1](https://new.ppy.sh/community/matches/31698275) |
+| South Korea ![][flag_KR] | 4 | 3 | ![][flag_FR] France | [#1](https://new.ppy.sh/community/matches/31710151) |
+| Spain ![][flag_ES] | 4 | 0 | ![][flag_FI] Finland | [#1](https://new.ppy.sh/community/matches/31710156) |
+| Taiwan ![][flag_TW] | 4 | 0 | ![][flag_NO] Norway | [#1](https://new.ppy.sh/community/matches/31711335) |
+| Indonesia ![][flag_ID] | 4 | 0 | ![][flag_RU] Russian Federation | [#1](https://new.ppy.sh/community/matches/31711337) |
+| Japan ![][flag_JP] | 4 | 0 | ![][flag_PL] Poland | [#1](https://new.ppy.sh/community/matches/31711338) |
+| Argentina ![][flag_AR] | 0 | 4 | ![][flag_MY] Malaysia | [#1](https://new.ppy.sh/community/matches/31712895) |
+| Germany ![][flag_DE] | 4 | 0 | ![][flag_FI] Finland | [#1](https://new.ppy.sh/community/matches/31713001) |
+| Chile ![][flag_CL] | 4 | 0 | ![][flag_RU] Russian Federation | [#1](https://new.ppy.sh/community/matches/31714550) |
+| Brazil ![][flag_BR] | 4 | 1 | ![][flag_SE] Sweden | [#1](https://new.ppy.sh/community/matches/31714557) |
 
 ------------------------------------------------------------------------
 
