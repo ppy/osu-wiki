@@ -1,6 +1,6 @@
 # Christmas
 
-_[Click here to go back to Monthly Fanart Contest listing.](../)_
+_Main page: [Monthly Fanart Contest](/wiki/Monthly_Fanart_Contest)_
 
 ## Public Picks
 
