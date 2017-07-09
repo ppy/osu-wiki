@@ -234,6 +234,12 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+### Grand Finals
+
+| Sunday, 9. July 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/34406838) |
+
 ### Finals - Week 1
 
 | Saturday, 1. July 2017 | | | | |
