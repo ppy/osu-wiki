@@ -56,8 +56,6 @@
 "pack":                        "Beatmaps/Packs"
 "packs":                       "Beatmaps/Packs"
 
-"beginner":                    "Beginner"
-
 "best_of":                     "Best_Of"
 "best_of_2009":                "Best_Of/2009"
 "best_of_2010":                "Best_Of/2010"
@@ -510,8 +508,7 @@
 "how_to_use_the_offset_wizard":         "Guides/Playing/How_to_Use_the_Offset_Wizard"
 "recording_osu!":                       "Guides/Playing/Recording_osu!"
 "searching_and_downloading_beatmaps":   "Guides/Playing/Searching_and_Downloading_Beatmaps"
-"tablet_purchase":                      "Guides/Playing/Searching_and_Downloading_Beatmaps"
-"tablet_purchase":                      "Guides/Playing/Searching_and_Downloading_Beatmaps"
+"tablet_purchase":                      "Guides/Playing/tablet_purchase"
 "tips_and_tricks_on_skill_improvement": "Guides/Playing/Tips_and_Tricks_on_Skill_Improvement"
 
 "guides/skinning":                   "Guides/#skinning"
@@ -860,13 +857,6 @@
 "beatmap_packs_0916":          "Medals/Beatmap_Packs_0916"
 
 "modding":                     "Modding"
-
-"collab_information":                                           "Modding/Collab_Information"
-"getting_your_map_modded":                                      "Modding/Getting_Your_Map_Modded"
-"how_to_get_your_map_ranked":                                   "Modding/How_To_Get_Your_Map_Ranked"
-"how_to_not_embarrass_yourself_in_the_modding_queues_subforum": "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
-"how_to_not_embarrass_yourself_in_the_projects_subforum":       "Modding/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum"
-"starting_a_beatmap_project":                                   "Modding/Starting_a_Beatmap_Project"
 
 "multi":                       "Multi"
 "multiplayer":                 "Multi"
