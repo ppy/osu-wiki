@@ -1,129 +1,53 @@
-List of Guides
-=================
+# Guides
 
-Below is a sorted list of guides created by osu!users; most of which had originated from the osu!forums and have been ported over to the osu!wiki.
+Below is a sorted list of guides created by members of the osu!community; most of which had originated from the osu!forums and have been ported over to the osu!wiki.
 
-FAQ/Ranking Guidelines
-----------------------
+## Beatmapping
 
--   [FAQ](/wiki/FAQ)
-    -   [Welcome](/wiki/Welcome)
-    -   [Official rules](/wiki/Rules)
-    -   [How do I sign up?](/wiki/Registration)
-    -   [How do I install osu!?](/wiki/Installation)
-    -   [Tips and Tricks for osu!](/wiki/Beginner)
-    -   [Help Center](/wiki/Help_Center)
-    -   [Handling Cheating/Foul Play](/wiki/Reporting_Bad_Behaviour/Handling_Cheating)
-    -   [Elements of a beatmap](/wiki/Hit_Objects)
-    -   [Understanding the osu! Interface](/wiki/Interface)
--   [Ranking Criteria](/wiki/Ranking_Criteria)
-    -   [Standard](/wiki/Ranking_Criteria/osu!)
-    -   [Taiko](/wiki/Ranking_Criteria/osu!taiko)
-    -   [Catch the Beat](/wiki/Ranking_Criteria/osu!catch)
-    -   [Mania](/wiki/Ranking_Criteria/osu!mania)
+_See also: [Beatmapping](/wiki/Beatmapping)_
 
-General Mapping Guides
-----------------------
+- [Adding Custom Hit Sounds](/wiki/Adding_Custom_Hit_Sounds)
+- [Audio Editing](/wiki/Audio_Editing)
+- [Changing the Artist or Title](/wiki/Changing_the_Artist_or_Title)
+- [Changing the Title Text](/wiki/Changing_the_Title_Text)
+- [Collab Information](/wiki/Collab_Information)
+- [Compressing Files](/wiki/Compressing_Files)
+- [Custom Hit Sound Library](/wiki/Custom_Hit_Sound_Library)
+- [Custom Sample Overrides](/wiki/Custom_Sample_Overrides)
+- [Getting Songs From Video Games](/wiki/Getting_Songs_From_Video_Games)
+- [How to Time Songs](/wiki/How_to_Time_Songs)
+- [Music Theory](/wiki/Music_Theory)
+- [osu!mania Mapping Guide](/wiki/osu!mania_Mapping_Guide)
+- [Setting the Offset on the Correct Beat](/wiki/Setting_the_Offset_on_the_Correct_Beat)
+- [Starting a Beatmap Project](/wiki/Starting_a_Beatmap_Project)
+- [Videos From Youtube](/wiki/Videos_From_Youtube)
 
--   [What is a beatmap?](/wiki/Beatmaps)
--   [How do I beatmap?](/wiki/Beatmapping)
--   [How do beatmaps get ranked?](/wiki/Submission/Beatmap_Ranking_Procedure)
--   [Difficulty appropriate gameplay elements](/wiki/Difficulties)
--   [How to time songs](/wiki/Beatmap_Editor_Guides/How_to_time_songs)
--   [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
--   [Mapping Taiko Difficulties](/wiki/Beatmap_Editor_Guides/Mapping_Taiko_Difficulties)
--   [Fitting the Size-limit](/wiki/Beatmap_Editor_Guides/Compressing_Beatmap_Files)
--   [Submission](/wiki/Submission)
-    -   [How to Get Your Map Ranked](/wiki/Modding_Guides/How_To_Get_Your_Map_Ranked)
-    -   [Getting Your Map Modded](/wiki/Modding_Guides/Getting_Your_Map_Modded)
+## Modding
 
-Modding Aides
--------------
+_See also: [Modding](/wiki/Modding)_
 
--   [AIBat](/wiki/Tools/AiBat)
+- [Getting Your Map Modded](/wiki/Getting_Your_Map_Modded)
+- [How To Get Your Map Ranked](/wiki/How_To_Get_Your_Map_Ranked)
 
-Mapping Techniques
-------------------
+## Playing
 
--   [Mapping Techniques](/wiki/Mapping_Techniques)
--   [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)
--   [How to do 15° Patterns](/wiki/Mapping_Techniques/15_degree_Patterns/Tutorial)
+- [Beginner's Tutorial](/wiki/Beginner's_Tutorial)
+- [General Tips and Tricks on Skill Improvement](/wiki/General_Tips_and_Tricks_on_Skill_Improvement)
+- [GL Support Issues](/wiki/GL_Support_Issues)
+- [How to Play osu!mania](/wiki/How_to_Play_osu!mania)
+- [How to Use the Offset Wizard](/wiki/How_to_Use_the_Offset_Wizard)
+- [Recording osu!](/wiki/Recording_osu!)
+- [Searching and Downloading Beatmaps](/wiki/Searching_and_Downloading_Beatmaps)
+- [Tablet Purchase](/wiki/Tablet_Purchase)
 
-Modding Info
-------------
+## Skinning
 
-[How do I mod?](/wiki/Modding)
+_See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial)_
 
-Skinning/Hitsound Guides
-------------------------
+- [Cropping with Complex Backgrounds](/wiki/Cropping_with_Complex_Backgrounds)
+- [Cropping with Simple Backgrounds](/wiki/Cropping_with_Simple_Backgrounds)
+- [Making Properly Centered Spinners](/wiki/Making_Properly_Centered_Spinners)
 
--   [Skinning](/wiki/Skinning)
--   [Skinning Tutorial](/wiki/Skinning/Tutorial)
-    -   [Interface](/wiki/Skinning/Tutorial_/Interface)
-    -   [Standard](/wiki/Skinning/Tutorial/Standard)
-    -   [Taiko](/wiki/Skinning/Tutorial/Taiko)
-    -   [Catch the Beat](/wiki/Skinning/Tutorial/Catch_the_Beat)
-    -   [Mania](/wiki/Skinning/Tutorial/Mania)
-    -   [Sounds](/wiki/Skinning/Tutorial/Sounds)
--   [Cropping with Complex Backgrounds](/wiki/Beatmap_Editor_Guides/Cropping_with_Complex_Backgrounds)
--   [Cropping with Simple Backgrounds](/wiki/Beatmap_Editor_Guides/Cropping_with_Simple_Backgrounds)
--   [Making Properly Centered Spinners](/wiki/Beatmap_Editor_Guides/Making_Properly_Centered_Spinners)
--   [What are Custom Sample Overrides?](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Custom Hitsound Library](/wiki/Beatmap_Editor_Guides/Custom_Hit_Sound_Library)
--   [Adding custom hitsounds](/wiki/Beatmap_Editor_Guides/Adding_Custom_Hit_Sounds)
+## Miscellaneous
 
-Storyboarding Guides
---------------------
-
--   [Storyboard Scripting](/wiki/Storyboard_Scripting)
--   [Storyboard Scripting (Cheat Sheet)](/wiki/Storyboard_Scripting/Cheat_Sheet)
--   [SGL Tool](/wiki/Tools/SGL_Tool)
--   [Reducing SB Load](/wiki/Beatmap_Editor/SB_Load)
-
-Audio Editing Guides
---------------------
-
--   [Audio editing](/wiki/Beatmap_Editor_Guides/Audio_Editing)
--   [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)
--   [Getting songs from Video Games](/wiki/Beatmap_Editor_Guides/Getting_Songs_from_Video_Games)
-
-Video Editing Guides
---------------------
-
--   [Compressing Videos](/wiki/Beatmap_Editor_Guides/Compressing_Videos)
--   [Videos from YouTube](/wiki/Beatmap_Editor_Guides/Videos_from_Youtube)
-
-Gameplay Guides
----------------
-
--   [Play Styles](/wiki/Play_Styles)
--   [How to increase your rank](/wiki/Performance_Points)
--   [Recording osu!](/wiki/List_of_Guides/Recording_osu!)
--   [Live streaming osu!](/wiki/Live_streaming_osu!)
--   [How do I use the Chat Console?](/wiki/Chat_Console)
-
-Common Mistakes
----------------
-
--   [Changing the Map's Artist or Title](/wiki/Beatmap_Editor_Guides/Changing_the_Map's_Artist_or_Title)
-
-osu!forums Guides
------------------
-
--   [BBCode](/wiki/BBCode)
--   [Starting a Beatmap Project](/wiki/Modding_Guides/Starting_a_Beatmap_Project)
--   [How to not Embarrass Yourself in the Projects Subforum](/wiki/Modding_Guides/How_to_not_Embarrass_Yourself_in_the_Projects_Subforum)
--   [How to not Embarrass Yourself in the Modding Queues Subforum](/wiki/Modding_Guides/How_to_not_Embarrass_Yourself_in_the_Modding_Queues_Subforum)
-
-Miscellaneous
--------------
-
--   [BanchoBot](/wiki/BanchoBot)
--   [Changing Title Text](/wiki/Beatmap_Editor_Guides/Changing_Title_Text)
--   [Music Theory](/wiki/Beatmap_Editor_Guides/Music_Theory)
--   [Setting the Offset on the Correct Beat](/wiki/Beatmap_Editor_Guides/Setting_the_Offset_on_the_Correct_Beat)
--   [Collab Information](/wiki/Modding_Guides/Collab_Information)
--   [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)
--   [GL Support Issues](/wiki/List_of_Guides/GL_Support_Issues)
--   [What is Internet Relay Chat?](/wiki/Internet_Relay_Chat)
--   [How to Run osu! on Your Mac without using Boot Camp](/wiki/List_of_Guides/How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp)
+- [How to Run osu! on Your Mac Without Using Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)
