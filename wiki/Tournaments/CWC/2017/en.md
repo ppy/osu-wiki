@@ -102,6 +102,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+![Winner Podium](podium.jpg)
+
+------------------------------------------------------------------------
+
 ## Mappools
 
 ### Group Stage
