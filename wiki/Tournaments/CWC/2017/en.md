@@ -47,16 +47,6 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
-
-### Sunday, 9. July 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | **11.00 UTC** | 20.00 UTC +9 | 19.00 UTC +8 |
-
-------------------------------------------------------------------------
-
 ## Participants
 
 ### Confirmed Rosters
@@ -99,6 +89,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
+![Winner Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
@@ -239,6 +233,12 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Sunday, 9. July 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/34406838) |
 
 ### Finals - Week 1
 
