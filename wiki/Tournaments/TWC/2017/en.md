@@ -78,7 +78,7 @@ Groups and Seeds can be found in the **[statistics sheet!](https://docs.google.c
 | ![][flag_UA] | **Ukraine** | **[Anny](https://new.ppy.sh/u/249094)**, [Don Omar](https://new.ppy.sh/u/689414), [gavnono](https://new.ppy.sh/u/1625581) |
 | ![][flag_GB] | **United Kingdom** | **[Grimbow](https://new.ppy.sh/u/1387762)**, [Hydria](https://new.ppy.sh/u/808176), [goheegy](https://new.ppy.sh/u/8057655), [Mekelemembe](https://new.ppy.sh/u/3289191), [abrian159](https://new.ppy.sh/u/1159051), [RileySpook](https://new.ppy.sh/u/7266040) |
 | ![][flag_US] | **United States** | **[Michiyo](https://new.ppy.sh/u/5991961)**, [Shyguy](https://new.ppy.sh/u/178038), [Das](https://new.ppy.sh/u/3165416), [Protonori](https://new.ppy.sh/u/6049990), [JDrago14](https://new.ppy.sh/u/7690078), [Catgirl](https://new.ppy.sh/u/2771995) |
-| ![][flag_VE] | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [`[_Chichinya_]`](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [`[_LordEnder_]`](https://new.ppy.sh/u/4609767), [Seok Hyejin](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
+| ![][flag_VE] | **Venezuela** | **[JessiChan](https://new.ppy.sh/u/1368025)**, [\[\_Chichinya\_\]](https://new.ppy.sh/u/2140739), [Thousand](https://new.ppy.sh/u/2852968), [\[\_LordEnder\_\]](https://new.ppy.sh/u/4609767), [Seok Hyejin](https://new.ppy.sh/u/2114483), [Satoruu](https://new.ppy.sh/u/2243452) |
 
 ------------------------------------------------------------------------
 
