@@ -43,8 +43,9 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Sign up here!](https://osu.ppy.sh/community/tournaments/11)**
 
 ------------------------------------------------------------------------
 
