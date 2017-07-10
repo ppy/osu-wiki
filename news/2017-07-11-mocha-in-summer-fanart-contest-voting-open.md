@@ -14,7 +14,7 @@ We're absolutely astonished with the turnout for this contest, and amazed to see
 
 Voting will be open for **14 days** from today, [so make sure you get in and make your *five* votes count!](https://osu.ppy.sh/community/contests/48)
 
-The top 10 artworks (as voted for by you, the community) will be added into the in-game seasonal background art rotation, and their artists will receive 2 months of osu!supporter to do with as they please!
+The top 10 artworks (as voted for by you, the community) will be added into the in-game seasonal background art rotation, and the artists of each piece will receive 2 months of osu!supporter to celebrate their efforts.
 
 We'd like to extend our thanks to everybody who entered the contest, and we're all super excited to see who the winners turn out to be.
 
