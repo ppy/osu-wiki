@@ -4,7 +4,7 @@
 
 ## Beatmap Packs
 
-**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [Standard](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
+**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!/) Modus von *osu!* gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -20,7 +20,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 #### Anforderungen:
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
-- Der Spielmodus muss der *osu!* [Standard](/wiki/Game_Modes/osu!/) Modus sein.
+- Der Spielmodus muss der [osu!](/wiki/Game_Modes/osu!/) Modus sein.
 - Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den *osu!* Song Ordner. Starte *osu!* und spiel die Maps. Das ist alles.
   - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den *osu!* Song Ordner und erstelle nicht einen neuen Ordner dafür.
   - Die Beatmaps können auch einzeln heruntergeladen und gespielt werden.
@@ -55,15 +55,15 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ## Skill
 
-Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im *osu!* Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen des Kombos in anderen Spielmodi zählt nicht.
+Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im *osu!* Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
 
 Neben den Komboerfolgen gibt es noch weitere 20 Erfolge für jeden Spielmodi (osu!, osu!taiko, osu!catch und osu!mania), die in 3 Gruppen aufgeteilt sind: **Rank**, **Pass** und **Perfect**.
 
-Die 4 **Rank** Erfolge können erlangt werden, indem man im Ranking aufsteigt. Den ersten Erfolg erhält man zum Beispiel schon bei Rang 50.000. Beim letzten Erfolg muss man unter die besten 1.000 kommen.
+Die 4 **Rank** Erfolge können erlangt werden, indem man im Ranking aufsteigt. Der erste Erfolg ist bereits mit Rank 50.000 erhältlich. Der letzte Erfolg benötigt einen Rank von mindestens 1.000.
 
 Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss eine beliebige Ranked/Approved Beatmap gespielt werden. Um ein Erfolg freischalten zu können, muss die Beatmap in einem bestimmten Schwierigkeitgradbereich liegen. Die Schwierigkeit der Beatmap wird durch **Star Difficulty** angegeben. Beim ersten Erfolg muss beispielsweise eine Beatmap gespielt werden, dessen **Star Difficulty** Wert zwischen 1 und 2 liegt. Für den letzten Erfolg muss eine Beatmap mit einem **Star Difficulty** Wert von 8 oder höher gespielt werden.
 
-**Wichtig**: Man kann die **Pass** und **Perfect** Erfolge nur einzeln freischalten. Bei **Pass** Erfolgen ist es nur nötig die Beatmap zu schaffen. Die Genauigkeit, Scorepunkte, etc. spielen keine Rolle. Bei **Perfect** Erfolgen muss die Beatmap jedoch mit einem vollem Kombo abgeschlossen werden, ansonsten bleibt der Erfolg verschlossen. Wenn man also theoretisch einen maximalen Kombo von 1337 erlangen kann, dann muss man am Ende der Beatmap auch ein Kombo von 1337 haben.
+**Wichtig**: Die **Pass** und **Perfect** Erfolge sind nur einzeln freischaltbar. Bei **Pass** Erfolgen ist es nur nötig die Beatmap zu schaffen. Die Genauigkeit, Scorepunkte, etc. spielen keine Rolle. Bei **Perfect** Erfolgen muss die Beatmap jedoch mit einem vollem Kombo abgeschlossen werden, ansonsten bleibt der Erfolg verschlossen. Wenn man also theoretisch einen maximalen Kombo von 1337 erlangen kann, dann muss man am Ende der Beatmap auch ein Kombo von 1337 haben.
 
 | Kombo | Rank | Pass | Perfect |
 | :---: | :-------------: | :---: | :---: |
