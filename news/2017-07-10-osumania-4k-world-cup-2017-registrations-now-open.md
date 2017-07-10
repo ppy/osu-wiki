@@ -12,7 +12,7 @@ It is time again for this year's official osu!mania World Cup. As in every year,
 For more details, refer to the **[osu!mania 4K World Cup 2017 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017/4K)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/615787)**.
 
-##Tournament Schedule
+## Tournament Schedule
 
 + Registration Phase: 10. - 23. July 2017
 + Live Drawings: 7. August 2017 14:00 UTC+0
@@ -23,11 +23,11 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 + Finals - Week 1: 9. - 10. September 2017
 + Finals - Week 2: 16. - 17. September 2017
 
-##What has been changed?
+## What has been changed?
 
 + We have adjusted the mappool structure and size. Every beatmap is now played under FreeMod condition. HardRock is no eligible mod anymore. Group Stage now has **12** beatmaps to pick from, Round of 16 and Quarterfinals have **13** beatmaps, Semifinals have **14** beatmaps and Finals have **15** beatmaps.
 
-##Prizes
+## Prizes
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
@@ -35,7 +35,7 @@ We plan to distribute exclusive and unique merchandise to all our podium winners
 + 2nd: $80 per team member, exclusive osu! pins and merchandise, profile badge
 + 3rd: $40 per team member, exclusive osu! pins and merchandise, profile badge
 
-##How do I register?
+## How do I register?
 
 + **[Click here to sign-up!](http://osu.ppy.sh/community/tournaments/11)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country’s team captains.
