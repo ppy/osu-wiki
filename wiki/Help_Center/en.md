@@ -67,7 +67,7 @@ Users that are banned after having returned from a successful appeal will be per
 
 ### My account has been stolen!
 
-Try using <http://osu.ppy.sh/p/forgot> to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+Try using <https://osu.ppy.sh/p/forgot> to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
 Otherwise, send a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) immediately - detailing (or from) your original registration email and an estimate of how long you believe that someone else has been using your account for, along with one or two recent passwords that you have used.
 
@@ -99,7 +99,7 @@ Making a new account to attempt and circumvent this rule will result in the whol
 
 ### Can I change my account's username?
 
-osu! supporters can get change their usernames, which can be at the [osu!store](http://store.ppy.sh/store/product/32).
+osu! supporters can get change their usernames, which can be at the [osu!store](https://store.ppy.sh/store/product/32).
 
 There are some points to username changes to know:
 
@@ -470,13 +470,13 @@ Alternatively, if you have the hardware support for either of these features, [G
 
 ### How do I download osu!?
 
-Simply click **`Download`** in the top bar of any page on the [official osu! website](http://osu.ppy.sh/).
+Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).
 
 Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
 
 ### Where do I register for osu!?
 
-Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](http://osu.ppy.sh/p/register).
+Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).
 
 We do not use email authentication for registering a new account unlike many other sites - simply logging into the game client with your brand new account will activate your account for full play, and render it safe from our daily purges.
 
