@@ -33,7 +33,7 @@ We highly recommend being truthful and entirely honest with the support staff wh
 
 Your nationality is automatically determined by the game based on where you register your account from geographically speaking, meaning that if you register an account in the US, your account will be automatically assigned as being from the United States, and also placed within the US country rankings.
 
-We can change this upon request, but **you must provide proof of residency for the given country that you wish to change to.** A picture of any sufficient 100 points of ID (passport, driver's license) representing this **alongside a slip of paper with your osu! username written on it** is required for us to even consider your request.
+We can change this upon request, but **you must provide proof of residency for the given country that you wish to change to.** A picture of any sufficient 100 points of ID (passport, driver's license) representing this **with the user's account logged in to the client in the background** is required for us to even consider your request.
 
 This information will not be shared outside of the osu! support team and will be immediately deleted from our servers once it has been used to ascertain your place of residence.
 
@@ -108,6 +108,8 @@ There are some points to username changes to know:
 - For minor changes (like Player223 to Player), you should contact support since they usually may change your username for free. For more complex changes, you should buy your username change like normal. **This only applies to removing (or adding) special characters such as numbers, hyphens or brackets. Any change to the core has to be purchased.**
 - You can take an existing user's username **if they haven't logged in for at least 6 months when they have no plays. For every 500 plays across all game modes you must wait an additional year to take the username.** This means that to take the username of a user with a play count (combined over all modes) of 680, you will have to wait 1.86 years (or 678 days) from their last login.
 
+If you regret a change you've made, contact support to ask it reverted. We will only change your username back to **your direct previous name** (if you've made several changes, we only revert the latest one) and **we will only do so once per account**.
+
 ### Can I play on a computer that another osu! user has used before?
 
 Yes, absolutely. You will not be restricted or otherwise infringed for using *your* account on a computer that another osu! user has used. The only time sharing gets problematic is when it is done with accounts themselves.
@@ -136,9 +138,9 @@ Rarely, users with particularly egregious offenses may find their accounts disab
 
 ### osu! freezes when I click a link or multiplayer map!
 
-Make sure you're not running osu! in compatibility mode through the osu!.exe propreties and make sure that you have a default browser set.
+Make sure you're not running osu! in compatibility mode through the osu!.exe properties and make sure that you have a default browser set.
 
-Right click the osu!.exe file in the osu! installation folder and click on Propreties, then go to the Compatibility tab and make sure that the checkbox under Compatibility mode is **not** checked.
+Right click the osu!.exe file in the osu! installation folder and click on Properties, then go to the Compatibility tab and make sure that the checkbox under Compatibility mode is **not** checked.
 
 If you're not running osu! in compatibility mode and the issue persists, make sure you have a default browser set. For some users that have Chrome as their default browser the issue will still occur for unknown reasons, so try setting Internet Explorer as the default browser and see if your issue persists after that.
 
