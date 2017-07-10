@@ -3,7 +3,7 @@
 
 ![CMT 4K 2017](pic.png)
 
- **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
+ **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 
 ## 比賽時間表
 
@@ -14,7 +14,7 @@
 | 小組抽籤 | 6月25日(20:00 UTC+8) |
 | 小組賽 | 6月30日至7月2日 |
 | 十六強賽 | 7月8日至7月9日 |
-| 八強賽 | 7月14日至7月15日 |
+| 八強賽 | 7月15日至7月16日 |
 | 半決賽 | 7月22日至7月23日 |
 | 決賽第一周 | 7月29日至7月30日 |
 | 決賽第二周 | 8月5日至8月6日 |
@@ -28,67 +28,208 @@
 
 ## 比賽主辦團隊
 
-[CN]: /wiki/shared/flag/Cn.gif "China"
-[UK]: /wiki/shared/flag/Gb.gif "Great Britain"
-[TW]: /wiki/shared/flag/Tw.gif "Taiwan"
-
 | 團隊 | 人員 |
 | ---: | :--- |
-| 比賽經理 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256) |
-| 比賽監督 | [![CN]SSV Normandy](https://osu.ppy.sh/u/6475977) |
-| 圖池管理團隊 | [![UK]Imperial Wolf](https://osu.ppy.sh/u/9080296)、[![TW]Spy](https://osu.ppy.sh/u/1217122)、[![CN]hans1999](https://osu.ppy.sh/u/6679329) |
-| 直播裁判團隊 | [![CN]aiyulu](https://osu.ppy.sh/u/189617)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| 解說團隊 | [![CN]hans1999](https://osu.ppy.sh/u/6679329)、[![CN]Scslag](https://osu.ppy.sh/u/6705256)、[![CN]Rasis](https://osu.ppy.sh/u/1209363)、[![CN]644520858](https://osu.ppy.sh/u/5507069)、[![CN]wuhuanmin](https://osu.ppy.sh/u/935322) |
+| 比賽經理 | ![][CN] [hans1999](https://osu.ppy.sh/u/6679329)、![][CN] [Scslag](https://osu.ppy.sh/u/6705256) |
+| 比賽監督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/u/6475977) |
+| 圖池管理團隊 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/u/9080296)、![][TW] [Spy](https://osu.ppy.sh/u/1217122)、![][CN] [hans1999](https://osu.ppy.sh/u/6679329) |
+| 直播裁判團隊 | ![][CN] [aiyulu](https://osu.ppy.sh/u/189617)、![][CN] [Rasis](https://osu.ppy.sh/u/1209363)、![][CN] [Ookura Asahi](https://osu.ppy.sh/u/4786951) |
+| 解說團隊 | ![][CN] [hans1999](https://osu.ppy.sh/u/6679329)、![][CN] [Scslag](https://osu.ppy.sh/u/6705256)、![][CN] [Rasis](https://osu.ppy.sh/u/1209363)、![][CN] [644520858](https://osu.ppy.sh/u/5507069)、![][CN] [wuhuanmin](https://osu.ppy.sh/u/935322) |
+| Wiki制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/u/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/u/4786951) |
 
 ## 比賽直播間
 
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
-## 對陣表
+## 比赛预告
 
-小組賽開始後更新。
+### 16強
 
-## 比賽預告
+ 7月8日，星期六
 
-### 測試賽
+| 比賽時間 (UTC+8) | 藍隊 | | | 紅隊 | 比賽編號 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 15:00 | drunkenstein | ![][HK] | ![][CN] | - ZedXD - | A |
+| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | spensll | B |
+| 20:00 | NED_Q | ![][CN] | ![][CN] | wjh123 | C |
+| 21:00 | Stink God | ![][CN] | ![][CN] | [Crz]MemoryI | D |
 
-6月17日 15:00 (UTC+8)  新銳隊 vs 元老隊（4v4）
+7月9日，星期日
 
-元老隊隊員：**[gpf19851210](https://osu.ppy.sh/u/711748)** [IDSxianyu](https://osu.ppy.sh/u/7403556) [Cideisbiantai]() [Scslag](https://osu.ppy.sh/u/6705256) [hans1999](https://osu.ppy.sh/u/6679329) [w765333805](https://osu.ppy.sh/u/6423706)
-
-新銳隊隊員：**[Moting](https://osu.ppy.sh/u/4902208)** [Mof](https://osu.ppy.sh/u/4985718) [liberavi](https://osu.ppy.sh/u/3308844) [prelude8792916](https://osu.ppy.sh/u/8063030) [qiluo](https://osu.ppy.sh/u/9424823) [wjh123](https://osu.ppy.sh/u/1147820) [xxxx](https://osu.ppy.sh/u/2349377)
+| 比賽時間 (UTC+8) | 藍隊 | | | 紅隊 | 比賽編號 |
+| :--: | ---: | ---: | :--- | :--- | :--: |
+| 13:00 | [Crz]Liusecy | ![][CN] | ![][CA] | Murasame | E |
+| 14:00 | Neokje | ![][MY] | ![][AU] | [Crz]Yukikaze- | F |
+| 15:00 | - Choma - | ![][TW] | ![][CN] | pikechu | G |
+| 20:00 | [Crz]ScSolAr | ![][CN] | ![][CN] | [Crz]Mix0130 | H |
 
 ## 比賽圖池
 
-### 測試賽圖池
+### 16強
 
-[點此下載全部](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
-[Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
-[sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
-[-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
-[seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278)  
-[Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/b/658126)  
-[LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/b/928341)  
-[DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/b/1021178)  
-[Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/b/719525)  
-[Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/b/1101044)  
-[DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/b/602841)  
-[Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/b/644265)  
-[A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/b/1010130)  
-[senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/b/1050840)  
-[96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/b/1103346)  
-[LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/b/1247978)  
-[Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/b/800952)
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloSM2ivgLojrSLnxT)  
+- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/b/1242917)  
+- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/b/790563)  
+- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/b/458274)  
+- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/b/1170029)  
+- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/b/1084020)  
+- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/b/1265968)  
+- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/b/1160757)  
+- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/b/477978)  
+- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/b/1046276)  
+- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/b/829747)  
+- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/b/1134548)  
+- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/b/315361)  
+- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/b/902070)  
+- [P*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/b/1135210)  
 
 TB:  
-[Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
+- [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/b/1038482)
 
-## 比賽回顧
+### 小組賽
+
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
+- [Ryu* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
+- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950)  
+- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948)  
+- [P*Light feat. mow*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
+- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623)  
+- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428)  
+- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529)  
+- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/b/947524)  
+- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/b/556755)  
+- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/b/994500)  
+- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/b/1099508)  
+- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/b/1324299)  
+
+TB:  
+- [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/b/1192531)
+
+### 資格賽
+
+- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062)  
+- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335)  
+- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
+- [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
+
+### 測試賽
+
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
+- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
+- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
+- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278)  
+- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/b/658126)  
+- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/b/928341)  
+- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/b/1021178)  
+- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/b/719525)  
+- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/b/1101044)  
+- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/b/602841)  
+- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/b/644265)  
+- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/b/1010130)  
+- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/b/1050840)  
+- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/b/1103346)  
+- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/b/1247978)  
+- [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/b/800952)
+
+TB:  
+- [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
+
+## 比賽結果
+
+### 小組賽
+
+#### A組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
+| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
+| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame | | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
+
+#### B組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - | | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
+| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 | | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
+| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai | | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
+
+#### C組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God | | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
+| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 | | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
+| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 | | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
+
+#### D組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean | | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
+| NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
+| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
+
+#### E組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
+| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
+
+#### F組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
+| [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
+
+#### G組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
+| [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs | | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
+| [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - | | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
+
+#### H組
+
+| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
+| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr | | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
+| [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan | | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
+| [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] | | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+
+### 資格賽
+
+| | ID | 分數 | | ID | 分數 | | ID | 分數 |
+| ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
+| ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
+| ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
+| ![][CN] | [Crz] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
+| ![][CN] | [Crz]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
+| ![][CN] | [Crz]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
+| ![][MY] | Neokje | 3,889,365 | ![][CN] | WF Night | 3,769,391 | ![][CN] | prelude8792916 | 3,665,105 |
+| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | [Crz]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
+| ![][CN] | [Crz]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
+| ![][CN] | [Crz]Mix0130 | 3,881,972 | ![][CN] | [M1nzzZ] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
+| ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
+| ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
+| ![][AU] | [Crz]Yukikaze- | 3,853,597 | | | | | | |
+
+### 測試賽
+
+| 2017年6月18日 星期六 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| 元老隊 | 5 | 7 | 新銳隊 | [比賽記錄](https://osu.ppy.sh/community/matches/33910571) |
 
 ## 規則
 
-### 賽事規則 
+### 賽事規則
 
 1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 2. 每場比賽的地圖庫將於比賽前一周的周末由地圖庫管理員放出，圖庫內包含若干張 Free-Mod 地圖：  
@@ -143,7 +284,7 @@ TB:
      - 以上皆平手時加賽的勝利者。
 5. 每個小組前**2**名選手將晉級到淘汰賽（人數可能根據實際報名人數變化）。
 6. 接下來的賽事均為雙敗賽制，即勝者進入下一階段而敗者進入敗者組。
-7. 獲勝條件： 
+7. 獲勝條件：
      - 資格賽全體選手打4張圖，總分排名前32名的進入小組賽。
      - 小組賽為**7**局 **4**勝。
      - 16強和1/4決賽為**9**局 **5**勝。
@@ -164,7 +305,7 @@ TB:
 ### 資格賽
 
 1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱必須是”CMT 4K 2017:(資格賽) vs (資格賽)”。
+     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為”CMT4K2017:(資格賽) vs (資格賽)”。
      - 房間最多進入8名選手同時進行資格賽的比拼。
 2. 資格賽無暖身圖，請選手在比賽前暖身完畢。
 3. 賽事開始後，不允許比賽選手自行交換樓層位置。
@@ -176,10 +317,10 @@ TB:
 ### 小組賽及淘汰賽
 
 1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱必須是“CMT 4K 2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
+     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為“CMT4K2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
      - 以上房間名提到的兩個玩家，第一個必須在藍隊，第二個必須在紅隊。
      - 小組賽期間如果出現記錄員不足，組委會可能會改變該場比賽方式。
-2. 兩位選手任選兩首熱身圖，但有異議的圖不可使用。所有地圖必須是4K專用地圖。
+2. 兩位選手任選兩張熱身圖，但有異議的圖不可使用。所有地圖必須是4K專用地圖。
 3. 每位選手從圖池中選擇**1**個禁手圖（Banned Map），這些禁手圖將在這場比賽中不能被任何選手選用。
 4. 比賽開始後，兩位玩家必須在 \#multiplayer 頻道使用一次`!roll`指令：
      - 點數較低者先開始選擇禁手圖，然後是另一位選手。
@@ -211,3 +352,12 @@ TB:
      - 若選手使用特殊的時區，請提前告知組委會。
      - 除時區問題以外，選手未能按時參賽的，不論提前聲明與否，仍然依照缺席處理。
 6. 選手棄權的比賽不予重賽。
+
+[CN]: /wiki/shared/flag/CN.gif "中國"
+[UK]: /wiki/shared/flag/GB.gif "英國"
+[TW]: /wiki/shared/flag/TW.gif "臺灣"
+[MY]: /wiki/shared/flag/MY.gif "馬來西亞"
+[AU]: /wiki/shared/flag/AU.gif "澳大利亞"
+[SG]: /wiki/shared/flag/SG.gif "新加坡"
+[HK]: /wiki/shared/flag/HK.gif "香港"
+[CA]: /wiki/shared/flag/CA.gif "加拿大"

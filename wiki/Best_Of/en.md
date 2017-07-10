@@ -16,12 +16,12 @@ Index page of all the "Best Of" series.
 -    [Top 30](https://osu.ppy.sh/forum/t/22162)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2009)
 -    Download:
-    -    Mediafire
-        -    [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
-        -    [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
-    -    osu!mirror
-        -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R20)
-        -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R21)
+     -    Mediafire
+          -    [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
+          -    [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
+     -    osu!mirror
+          -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R20)
+          -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R21)
 -    [News](https://osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
 -    [Results](https://osu.ppy.sh/forum/t/22162)
 
@@ -30,18 +30,18 @@ Index page of all the "Best Of" series.
 | Placing | 2010 Results                                                                                                                                  |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | \#1     | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789)                                                                  |
-| \#2     | [07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994)  https://  [Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/s/17852) |
+| \#2     | [07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994), [Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/s/17852) |
 | \#3     | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](https://osu.ppy.sh/s/18841)                                                                        |
 
 -    [Top 50](https://puu.sh/Fju)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2010)
 -    Download:
-    -    Mediafire
-        -    [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
-        -    [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
-    -    osu!mirror
-        -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R6)
-        -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R7)
+     -    Mediafire
+          -    [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
+          -    [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
+     -    osu!mirror
+          -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R6)
+          -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R7)
 -    [News](https://osu.ppy.sh/forum/t/42889)
 -    [Results](https://osu.ppy.sh/forum/t/43834)
 
@@ -57,12 +57,12 @@ Index page of all the "Best Of" series.
 -    [Top 100](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2011)
 -    Download:
-    -    Mediafire
-        -    [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
-        -    [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
-    -    osu!mirror
-        -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R44)
-        -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R45)
+     -    Mediafire
+          -    [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
+          -    [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+     -    osu!mirror
+          -    [Part 1](https://osu.yas-online.net/tagthis.php?tag=R44)
+          -    [Part 2](https://osu.yas-online.net/tagthis.php?tag=R45)
 -    [Results](https://osu.ppy.sh/forum/t/71477)
 
 #### 2012 osu!standard
@@ -71,14 +71,14 @@ Index page of all the "Best Of" series.
 |---------|------------------------------------------------------------------------------------------------------------------------------|
 | \#1     | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](https://osu.ppy.sh/s/55799)                                                                 |
 | \#2     | [xi - FREEDOM DiVE (Nakagawa-Kanon)](https://osu.ppy.sh/s/39804)                                                                   |
-| \#3     | [Lily - Scarlet Rose (val0108)](https://osu.ppy.sh/s/41686)  https://  [Hatsune Miku - Mythologia's End (val0108)](https://osu.ppy.sh/s/48979) |
+| \#3     | [Lily - Scarlet Rose (val0108)](https://osu.ppy.sh/s/41686), [Hatsune Miku - Mythologia's End (val0108)](https://osu.ppy.sh/s/48979) |
 
 -    [Top 100](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2012)
 -    Download:
-    -    Mediafire
-        -    [Part 1](https://www.mediafire.com/download/ew1p4foirfxoa5f/Best+of+2012+Chart+Pack+Part+1.rar)
-        -    [Part 2](https://www.mediafire.com/download/fx7baq327r502so/Best+of+2012+Chart+Pack+Part+2.rar)
+     -    Mediafire
+          -    [Part 1](https://www.mediafire.com/download/ew1p4foirfxoa5f/Best+of+2012+Chart+Pack+Part+1.rar)
+          -    [Part 2](https://www.mediafire.com/download/fx7baq327r502so/Best+of+2012+Chart+Pack+Part+2.rar)
 -    [News](https://osu.ppy.sh/forum/t/110066)
 -    [Results](https://osu.ppy.sh/forum/t/113613)
 
@@ -93,7 +93,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
+     -    [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 -    [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
 -    [News #2](https://osu.ppy.sh/news/72206495357)
 -    [Results #1](https://news.ppy.sh/post/76226135369/best-maps-of-2013-results)
@@ -137,12 +137,12 @@ Index page of all the "Best Of" series.
 |---------|------------------------------------------------------------------------------------------------------------------------------|
 | \#1     | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](https://osu.ppy.sh/s/87630)                                                   |
 | \#2     | [Wotamin - Gigantic O.T.N (Star Stream)](https://osu.ppy.sh/s/80214)                                                               |
-| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](https://osu.ppy.sh/s/108529)  https://  [LeaF - Calamity Fortune (Flower)](https://osu.ppy.sh/s/96103) |
+| \#3     | [FujuniseikouyuuP - FREEDMAN (val0108)](https://osu.ppy.sh/s/108529), [LeaF - Calamity Fortune (Flower)](https://osu.ppy.sh/s/96103) |
 
 -    [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
+     -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 -    [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
 -    [News #2](https://osu.ppy.sh/news/72206495357)
 -    [Results #1](https://news.ppy.sh/post/76226135369/best-maps-of-2013-results)
@@ -159,7 +159,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
+     -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 -    [News #1](https://osu.ppy.sh/news/107825388293)
 -    [News #2](https://news.ppy.sh/post/107825388293/best-of-2014-vote-now)
 -    [Results #1](https://osu.ppy.sh/news/109804193683)
@@ -193,7 +193,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?sl2c69iz0w34c82)
+     -    [Mediafire](https://www.mediafire.com/?sl2c69iz0w34c82)
 -    [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
 -    [News #2](https://osu.ppy.sh/news/72206495357)
 -    [Results #1](https://news.ppy.sh/post/76226135369/best-maps-of-2013-results)
@@ -210,7 +210,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
+     -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 -    [News #1](https://osu.ppy.sh/news/107825388293)
 -    [News #2](https://news.ppy.sh/post/107825388293/best-of-2014-vote-now)
 -    [Results #1](https://osu.ppy.sh/news/109804193683)
@@ -244,7 +244,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1329 runner ups)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?zaf09s6pputo13b)
+     -    [Mediafire](https://www.mediafire.com/?zaf09s6pputo13b)
 -    [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
 -    [News #2](https://osu.ppy.sh/news/72206495357)
 -    [Results #1](https://news.ppy.sh/post/76226135369/best-maps-of-2013-results)
@@ -261,7 +261,7 @@ Index page of all the "Best Of" series.
 -    [Top 10 (and 1387 runner ups)](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
 -    [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 -    Download:
-    -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
+     -    [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 -    [News #1](https://osu.ppy.sh/news/107825388293)
 -    [News #2](https://news.ppy.sh/post/107825388293/best-of-2014-vote-now)
 -    [Results #1](https://osu.ppy.sh/news/109804193683)

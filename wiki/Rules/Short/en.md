@@ -1,5 +1,5 @@
-Simplified osu! Rules
-========================
+Short
+============
 
 ![Introduction](/wiki/Rules/Short/img/IntroEN1.png "Introduction")
 ![Rule 1](/wiki/Rules/Short/img/RuleEN1.png "Rule 1")

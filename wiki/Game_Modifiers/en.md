@@ -4,7 +4,7 @@ A **game modifier** is one of several optional modifications to gameplay the pla
 
 Game modifiers can be accessed by pressing `F1` at song select, or by clicking the `Mods` button near the lower left of the screen.
 
-Note that when multiple mods are applied, the product of the score multipliers is given instead of the sum of them. For example, when Hidden and Flashlight are applied at the same time, they give 1.1872x because (1.06 x 1.12) = 1.1872, rather than (1.06 + 1.12 - 1.00) = 1.18. osu! used to round this number down to the nearest hundredth (0.01), so Hidden and Flashlight together would appear to give a 1.18x multiplier, denying the supposed number round up. Thankfully, a patch corrected this, and now Hidden + Flashlight rounds correctly to 1.19x.
+Note that when multiple mods are applied, the product of the score multipliers is given instead of the sum of them. For example, when Hidden and Flashlight are applied at the same time, they give 1.1872x because (1.06 x 1.12) = 1.1872, rather than (1.06 + 1.12 - 1.00) = 1.18. *osu!* used to round this number down to the nearest hundredth (0.01), so Hidden and Flashlight together would appear to give a 1.18x multiplier, denying the supposed number round up. Thankfully, a patch corrected this, and now Hidden + Flashlight rounds correctly to 1.19x.
 
 ![Game mods screen](img/Soloplay8.png "Game mods screen")
 
@@ -109,7 +109,7 @@ If you click the Sudden Death mod again, the Perfect mod will come out. When thi
 
 ### Double Time
 
-![Double_time.png](/wiki/shared/Double_time.png "Double_time.png")
+![Double Time mod icon](/wiki/shared/Double_time.png "Double Time mod icon")
 
 ![Length of the song is decreased by 1/3 BPM increases by 1/2](img/GM_DT.jpg "Length of the song is decreased by 1/3 BPM increases by 1/2")
 
@@ -209,7 +209,7 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko), the correct color for the notes is h
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), this mod allows the character to be moved freely at any speed with the mouse.
 
-Relax is not available for use in [osu!mania](/wiki/Game_Modes/osu!mania). 
+Relax is not available for use in [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ### Auto Pilot
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCOREWATCH: JUNE WEEK 1"
+title: "Scorewatch: June Week 1"
 permalink: http://osunews.tumblr.com/post/161323822383/scorewatch-june-week-1
 date: 2017-06-01 18:53:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/161323822383/scorewatch-june-week-1
