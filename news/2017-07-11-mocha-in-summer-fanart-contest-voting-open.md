@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/162823962248/mocha-in-summer-fanart-c
 
 The turnout for Mocha's first ever fanart contest has been massive, [with over 60 entries now available for voting](https://osu.ppy.sh/community/contests/48). Make a splash with your five favourite entries, and help us choose ten talented winners!
 
-![![](https://assets.ppy.sh/contests/48/header.jpg)](https://osu.ppy.sh/community/contests/48)
+[![](https://assets.ppy.sh/contests/48/header.jpg)](https://osu.ppy.sh/community/contests/48)
 
 We're absolutely astonished with the turnout for this contest, and amazed to see some of the incredible renditions of our newest (and cutest) addition to the osu! mascot lineup.
 
