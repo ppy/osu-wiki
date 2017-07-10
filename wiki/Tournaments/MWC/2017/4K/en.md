@@ -24,9 +24,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, exclusive osu! tumbler and pins, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, exclusive osu! tumbler and pins , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, exclusive osu! tumbler and pins, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, exclusive osu! pins and merchandise, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, exclusive osu! pins and merchandise, profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, exclusive osu! pins and merchandise, profile badge |
 
 _The money value may change based on how many teams participate and how big the teams are. The final value can only be given after the registration phase concluded._
 
@@ -37,7 +37,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | Position | Member |
 | ------------ | -------------- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092) |
+| Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092) [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
 | Commentators | -- to be announced -- |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -187,8 +187,10 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
+[flag_AR]: /wiki/shared/flag/AR.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_US]: /wiki/shared/flag/US.gif
