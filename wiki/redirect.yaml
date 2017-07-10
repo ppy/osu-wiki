@@ -1,4 +1,4 @@
-"about":                       "About"
+﻿"about":                       "About"
 
 "accuracy":                    "Accuracy"
 
@@ -65,6 +65,9 @@
 "best_of_2014":                "Best_Of/2014"
 "best_of_2015":                "Best_Of/2015"
 "best_of_2016":                "Best_Of/2016"
+
+"contests":                    "Contests"		
+"contest":                     "Contests"
 
 "chat_console":                "Chat_Console"
 "extended_chat_console":       "Chat_Console/#extended-chat-console"
