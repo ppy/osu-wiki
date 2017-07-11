@@ -6,11 +6,19 @@ Here you can find assistance for multiple issues across various fields. Use the 
 
 ### I've paid for a supporter tag, but still haven't got it!
 
-Payments can take time to process, especially if you don't use Paypal, so be patient and wait 24 hours.
+Payments can take time to process, especially if you don't use Paypal. Please wait 24 hours for it to be processed.
 
-If you haven't used Paypal, contact xsolla support directly [here](https://support.xsolla.com/) and follow their instructions to resolve your issue. Supporter status is automatically given out as soon as we receive the funds - so the issue is on xsolla's end!
+If you still haven't received the supporter tag after that, please e-mail [accounts@ppy.sh](mailto://accounts@ppy.sh) with your username along with information on your transaction so that we can investigate, such as:
 
-If you still haven't received your supporter tag after all this, please e-mail [accounts@ppy.sh](mailto://accounts@ppy.sh) with the confirmation receipt to get further support.
+-if purchased via Paypal:
+--the e-mail address attached to your Paypal account
+--transaction ID or item ID
+
+-if purchased by any other means:
+--transaction ID
+--payment system
+
+If you have purchased supporter for someone, but they face the same issue, the process is similar, but we'll need the giftee's username instead of yours.
 
 ### What is "restricted" mode, exactly?
 
@@ -33,7 +41,7 @@ We highly recommend being truthful and entirely honest with the support staff wh
 
 Your nationality is automatically determined by the game based on where you register your account from geographically speaking, meaning that if you register an account in the US, your account will be automatically assigned as being from the United States, and also placed within the US country rankings.
 
-We can change this upon request, but **you must provide proof of residency for the given country that you wish to change to.** A picture of any sufficient 100 points of ID (passport, driver's license) representing this **alongside a slip of paper with your osu! username written on it** is required for us to even consider your request.
+We can change this upon request, but **you must provide proof of residency for the given country that you wish to change to.** A picture of any sufficient 100 points of ID (passport, driver's license) representing this **that also shows your osu! account logged in to the client (not the website)** is required for us to even consider your request.
 
 This information will not be shared outside of the osu! support team and will be immediately deleted from our servers once it has been used to ascertain your place of residence.
 
@@ -43,7 +51,7 @@ Providing false information to us may result in your account being placed under 
 
 Please use <https://osu.ppy.sh/p/forgot> to reclaim your account automatically, provided that you still have access to the email you registered with.
 
-If you do not have access to your original email that you registered with anymore, or you have forgotten your username completely, please send in a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing as much, along with any information that we could use to verify that you are the account owner - such as the name of the original email address registered to your account.
+If you do not have access to your original email that you registered with anymore, or you have forgotten your username completely, please send in a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing as much, along with any information that we could use to verify that you are the account owner - such as the original email address registered to your account.
 
 It also helps significantly if you email us from your registration email, as this allows us to check whether you are the account owner without any further follow up.
 
@@ -67,46 +75,40 @@ Users that are banned after having returned from a successful appeal will be per
 
 ### My account has been stolen!
 
-Try using <https://osu.ppy.sh/p/forgot> to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-Otherwise, send a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) immediately - detailing (or from) your original registration email and an estimate of how long you believe that someone else has been using your account for, along with one or two recent passwords that you have used.
+Otherwise, send a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) immediately - detailing (or from) your original registration email and an estimate of how long you believe that someone else has been using your account for.
 
 Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
 ### Can I make more than one account?
 
-Simply put, **no - you can not**. This is possibly our most enforced rule as far as things go, and it exists solely to keep ranking fair for the vast majority of players who obey the rules.
+Simply put, **no - you can not**. This is possibly our most enforced rule as far as things go, and it exists solely to keep ranking fair for the vast majority of players who obey the rules. Players found guilty or creating or using several accounts will be punished. If you find yourself wishing to create a new account, please consider the reason why:
 
-Under no circumstances will we do the following:
+- if you are unhappy with your performance, or want to start fresh, we will implement a way for users to reset their stats, but for now, please keep playing on your current account
+- if you are unhappy with your username and wish to change it, it is possible to change your username (see the article about namechanges)
+- if one of your relatives wishes to start playing the game as well, you are welcome to assist them in creating their own account, but please do not create one for them
+- for any other reasons, please contact us before creating any accounts
 
-- Grant a "fresh start" or a stat wipe (except in utterly exceptional circumstances, which have only ever happened 3 times in osu!'s history)
-- Delete or ban an old account so that a user may play on a new account
-- Allow another player to take ownership of another player's account
-
-You are only allowed to play on the first account that you have created. You will not be allowed to create a new account to play on, under any circumstance.
-
-You can be permanently banned from osu! entirely for making multi accounts.
-
-If you have made an account whilst being unaware of this rule somehow, cease playing on the account immediately and send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing both your main and multi account(s). We appreciate honesty in this case, and will refrain from punishing users who choose to do this harshly.
+If you have made other accounts whilst being unaware of this rule, cease playing on the account immediately and send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing both your main and multi account(s). We appreciate honesty in this case, and will refrain from punishing users who choose to do this.
 
 ### Is it possible to start over or have my account's statistics wiped?
 
-**No.**
+**Not yet.**
 
-Stat or score wipes are almost never used except in utterly exceptional circumstances, and they are definitely not things done on request for users unhappy with their scores.
-
-Making a new account to attempt and circumvent this rule will result in the wholesale loss of your ability to play osu! online, possibly permanently.
+Please do not create a new account for this, as it is prohibited. We will add an option for users to reset their stats in the future.
 
 ### Can I change my account's username?
 
-osu! supporters can get change their usernames, which can be at the [osu!store](https://store.ppy.sh/store/product/32).
+Username changes are performed on the [osu!store](https://store.ppy.sh/store/product/32).
 
-There are some points to username changes to know:
+There are some points to know:
 
-- The first username change is free of charge with your osu!supporter (only once). The second change costs $8 USD with subsequent changes duplicating the price. This is to stop people from recklessly changing their name too many times.
-- Changing your username for changing capitalization is free once per name change. You can contact support for this.
+- Purchasing supporter for any amount of time grants the player one free name change to use at their leisure. The second change costs a $8 fee, and any further ones double the price, up to a cap of $100. This is to prevent players from abusing this feature.
+- Changing your username for changing capitalization is free once per name change. Please contact us at [accounts@ppy.sh](mailto://accounts@ppy.sh) and we'll do it for you!
 - For minor changes (like Player223 to Player), you should contact support since they usually may change your username for free. For more complex changes, you should buy your username change like normal. **This only applies to removing (or adding) special characters such as numbers, hyphens or brackets. Any change to the core has to be purchased.**
-- You can take an existing user's username **if they haven't logged in for at least 6 months when they have no plays. For every 500 plays across all game modes you must wait an additional year to take the username.** This means that to take the username of a user with a play count (combined over all modes) of 680, you will have to wait 1.86 years (or 678 days) from their last login.
+- You can take an existing user's username **if they haven't logged in for at least 6 months when they have no plays. For every 500 plays across all game modes you must wait an additional year to take the username.** This means that to take the username of a user with a play count (combined over all modes) of 680, you will have to wait 1.86 years (or 678 days) from their last login. The store page should indicate how long you have to wait before a username becomes available.
+- If you have changed your username in the past and wish to return to your previous one, **we offer to do this for free**. However, if you've changed your username several times, **we only revert the most recent change, and this offer is limited to once per account**.
 
 ### Can I play on a computer that another osu! user has used before?
 
@@ -136,8 +138,6 @@ Rarely, users with particularly egregious offenses may find their accounts disab
 
 ### osu! freezes when I click a link or multiplayer map!
 
-Make sure you're not running osu! in compatibility mode through the osu!.exe propreties and make sure that you have a default browser set.
-
 Right click the osu!.exe file in the osu! installation folder and click on Propreties, then go to the Compatibility tab and make sure that the checkbox under Compatibility mode is **not** checked.
 
 If you're not running osu! in compatibility mode and the issue persists, make sure you have a default browser set. For some users that have Chrome as their default browser the issue will still occur for unknown reasons, so try setting Internet Explorer as the default browser and see if your issue persists after that.
@@ -156,15 +156,9 @@ If you have a network.log file in the Logs folder (found in the osu! installatio
 
 ### My PC reboots while playing osu!
 
-This is usually caused by your graphics card or CPU overheating, or some other hardware fault.
+This is usually caused by your graphics card or CPU overheating, or some other hardware fault. You may wish to try enabling the 120FPS/240FPS Frame Limiter in the game's options, as this will significantly reduce the load on both your CPU and GPU.
 
-To determine the cause more accurately, download a GPU/CPU temperature monitor and keep close watch over your hardware while playing osu!. If your hardware is regularly reaching temperatures of >90C / 194F, you may wish to try enabling the 120FPS/240FPS Frame Limiter in the game's options, as this will significantly reduce the load on both your CPU and GPU.
-
-Alternatively, setting your CPU/GPU fans to 100% will help dissipate the building heat quicker - there are several applications which will allow you to do this, such as MSI Afterburner and SpeedFan.
-
-If overheating is not the issue, you may wish to investigate your sound card - specifically whether its drivers are up to date or not, along with any peripherals you may have plugged in to your computer.
-
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
+If this does not help, please send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
 
 ### I have changed my settings, and now I can't start osu! or it freezes.
 
@@ -182,7 +176,7 @@ Optimal Configuration:
 
 - **Resolution:** Your monitor's native resolution. Your native resolution will have "(native)" written behind the dimensions in the drop-down menu.
 - **Frame Limiter:** 120fps
-- **Renderer:** Check the Compatibility Mode checkbox.
+- **Renderer:** Uncheck Compatibility Mode.
 - **Release Stream:** Stable (Latest).
 
 ### I can't hold more than a few keys at once while playing osu!mania.
@@ -201,7 +195,7 @@ If you are seeing two cursors, cursor jumps when you move or its movement is sim
 
 - Mouse: check if your mouse supports a manual setting of DPI (dots per inch). If so, try adjusting it to alter your mouse sensitivity over using the Mouse Sensitivity slider in osu!'s options.
 - Tablet: If you have recently bought a new tablet, and you feel like your mouse is too slow, check out [this screenshot](http://w.ppy.sh/d/dc/Tabarea.png) for instructions on how to change your area.
-- osu! Tablet: osu! tablet is one of tablets that supports raw input - just enable Raw Input in the options and adjust your Mouse Sensitivity like you would a mouse!
+- osu! Tablet: osu! tablet is one of the tablets that support raw input - just enable Raw Input in the game options and adjust your Mouse Sensitivity like you would a mouse!
 
 ### My song list keeps scrolling!
 
@@ -245,7 +239,7 @@ Don't worry! You are visible to others as yellow, but on your own screen your us
 
 There are a few possibilities which can make your maps appear to be missing or deleted, but this is almost always a recoverable scenario. Here are a few things to try:
 
-- Make sure you do not have osu! set to only display beatmaps within a certain difficulty range.
+- Make sure you do not have osu! set to only display beatmaps within a certain difficulty range. You can check this on the "Song Select" section in the game options.
 - Press `F5` on the song selection screen for osu! to reprocess your beatmaps. If only some of your beatmaps were imported this should solve your issue.
 
 ### I receive some sort of server-side error when trying to play online!
@@ -262,17 +256,17 @@ If you are not using any of the above, then you will need to send in a support t
 
 ### My support ticket was closed with no response!
 
-This means that the support staff have determined that your issue is not appropriate for this service.
+This means that the support staff have determined that your issue has been resolved. If you'd like to reopen it or follow up, please either send a new mail or reply to your existing one.
 
 If you have been banned in the past, it is a warning call to be more truthful and forthwith in your responses, or you risk having your tickets permanently marked as "antagonistic", which cuts off your only recourse of becoming a legitimate member of the community again.
 
 ### My user page has been locked and I can't edit it!
 
-If your user page has been locked, it means that one of our volunteer moderators has judged it to have content which is inappropriate for our community. Usually, these offensive pages are cleared first, and a warning issued.
+If your user page has been locked, it means that one of our volunteer moderators has judged it to have content which is inappropriate for our community. Usually, these offensive pages are cleared first, and a warning issued in the form of a silence.
 
-Users which ignore this warning will soon find that they can no longer edit their user page, or even some aspects of their profile data. This is irreversible in most circumstances.
+Users which ignore this warning will soon find that they can no longer edit their user page.
 
-If you believe that you have had your user page access revoked in error or wish to restore access to it, feel free to file a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing why, including the previous contents of your user page. We may offer a final chance depending on the severity of your past offenses.
+If you believe that you have had your user page access revoked in error or wish to restore access to it, feel free to file a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing why, including the previous contents of your user page.
 
 ### How do I completely block another user from contacting me?
 
@@ -324,7 +318,7 @@ If a user is still harassing you via other means, or using their friends or some
 
 osu!supporters are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the community rules!
 
-If your supporter tag runs out, your user page will remain visible and you will still be able to edit it.
+If your supporter tag runs out, your user page will remain visible and you will still be able to edit it. However, you do need to edit it at least once before the tag expires!
 
 ### When I try to register, all the fields say "invalid request"!
 
@@ -340,9 +334,9 @@ If none of these solutions work for you, or the first two don't work and you hav
 
 No - ***osu!* authenticates your account by having you log in to the game client.** If you have trouble connecting with the client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
-We highly recommend using an email address that you have regular access to (and is not a disposable 24hr "fake" email), as you will need to use the email to recover your password should you lose it, and also to talk with support representatives.
+We highly recommend using an email address that you have regular access to (and is not a disposable 24hr "fake" email), as you will need to use the email to complete the verification process, recover your password should you lose it, and also to talk with support representatives.
 
-### I can't search for a beatmap artist who's name is less than 3 characters long!
+### I can't search for a beatmap artist whose name is less than 3 characters long!
 
 Due to the limitation of the current search engine, it is simply not possible to search for less than three characters at once. If you want to find a specific artist with a short name, try using the Google Search bar at the upper left-hand corner and typing the artist's name in enclosed quotation marks - such as "Xi", for instance.
 
@@ -350,7 +344,7 @@ Due to the limitation of the current search engine, it is simply not possible to
 
 This is likely because you are looking at the wrong game mode. On your profile, click one of the four tabs to view your stats for the selected game mode. Your profile will automatically switch to whichever game mode you've last played.
 
-If you have been inactive for a certain time and your stats are shown wrong, simply play a few maps to display them again. Inactive users have their stats hidden.
+If you have been inactive for a certain time and your stats are shown wrong, simply play a few maps to display them again. Inactive users have their stats hidden to make the leaderboards more dynamic, but their stats are not lost.
 
 ----------------------------------------------------------------------------
 
@@ -368,7 +362,7 @@ There are few possible causes for this:
 
 **You have recently reinstalled the game client.**
 
-Reinstalling the game client will automatically clear all of your local scores. The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear. If you are an osu!supporter, you can use the Ranked (Played) filter in osu!direct to find any beatmaps you may have submitted scores for in the past.
+Reinstalling the game client will automatically clear all of your local scores. The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear. If you are an osu!supporter, you can use the [Ranked (Played)](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) filter in osu!direct to find any beatmaps you may have submitted scores for in the past.
 
 **I have the songs, and I am certain I achieved a score on this map!**
 
