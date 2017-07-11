@@ -44,7 +44,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比赛预告
 
-### 8強
+### 四分之一決賽
 
 7月15日，星期六
 
@@ -66,7 +66,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比賽圖池
 
-### 8強
+### 四分之一決賽
 
 [**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/b/1243769)

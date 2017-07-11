@@ -44,7 +44,7 @@ Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
 ## Match schedule
 
-### Round of 8
+### Quarterfinals
 
 Saturday, 15. July 2017  
 
@@ -66,7 +66,7 @@ Sunday, 16. July 2017
 
 ## Mappools
 
-### Round of 8
+### Quarterfinals
 
 [**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/b/1243769)
