@@ -64,7 +64,7 @@ In situations where we are absolutely assured that foul play or wrongdoing has t
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If you can't, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifiying informationas possible that will help us establish you as the owner of your account. 
+If you can't, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifiying information as possible that will help us establish you as the owner of your account. 
 
 Emailing from your registration email is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
