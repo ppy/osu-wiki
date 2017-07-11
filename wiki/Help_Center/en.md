@@ -1,134 +1,125 @@
 # Help Center
 
-Here you can find assistance for multiple issues across various fields. Use the **Content Listing** to jump to your question directly!
+Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
 ## Account
 
 ### I've paid for a supporter tag, but still haven't got it!
 
-Payments can take time to process, especially if you don't use Paypal, so be patient and wait 24 hours.
+**Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
-If you haven't used Paypal, contact xsolla support directly [here](https://support.xsolla.com/) and follow their instructions to resolve your issue. Supporter status is automatically given out as soon as we receive the funds - so the issue is on xsolla's end!
+Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
-If you still haven't received your supporter tag after all this, please e-mail [accounts@ppy.sh](mailto://accounts@ppy.sh) with the confirmation receipt to get further support.
+If it has been over 24 hours and you still haven't got your supporter tag, please email [support@ppy.sh](mailto://support@ppy.sh) and let us know about your problem.
+
+Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
 
 ### What is "restricted" mode, exactly?
 
-Restricted mode is automatically applied to accounts that are **suspected** of breaking our ToS rules regarding the use of third-party programs or creating multiple accounts, or for any other reason that we believe warrants investigation.
+**A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
-While restricted, an account is incapable of interacting meaningfully with the osu! online community at large. Scores submitted in restricted mode are saved, but are not visible to any other user.
+They may continue to set scores locally and online (though the scores will not show until the status is lifted) and play the game like normal, with the exception of multiplayer.
 
-**Restricted mode is not a cause for concern unless you have knowingly done something wrong.** Users placed into restricted mode are done so with a considerable degree of brevity - it is used in many situations where we feel deep investigation is warranted, and should not be taken by users to infer guilt or wrongdoing when placed initially.
+There are a variety of reasons as to why someone could be restricted - though the most common is due to suspicion of foul play or other unscrupulous activity that makes the game worse for everyone else.
 
-In many cases, the status will be removed automatically after 24 hours if it is made in error. If not, please be patient. Sometimes this can happen while we are further investigating your account for suspected theft or foul-play.
+In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh).
 
-If your account remains restricted for longer than a week, it is advised that you fill out form linked on the page that appears when you login to the website or on the link above in any page, as seen below:
-
-
-Whatever you do, **do not attempt to make an additional account to circumvent the status.** This is grounds for immediate disabling of both your main account and the newly registered account. Do not attempt to play using a friend's account either as this will result in your friend's account being restricted as well.
-
-We highly recommend being truthful and entirely honest with the support staff when inquiring about your restricted mode status, should it not be removed automatically after a week. We do not entertain excuses and lies, and you risk permanently losing the ability to play osu! online by doing so.
+If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiaccounts to avoid restrictions causes problems for everyone - both us, and you.
 
 ### The flag on my account profile is wrong!
 
-Your nationality is automatically determined by the game based on where you register your account from geographically speaking, meaning that if you register an account in the US, your account will be automatically assigned as being from the United States, and also placed within the US country rankings.
+**We can change this for you, but only if you are actively living in the country that you wish to change to.**
 
-We can change this upon request, but **you must provide proof of residency for the given country that you wish to change to.** A picture of any sufficient 100 points of ID (passport, driver's license) representing this **alongside a slip of paper with your osu! username written on it** is required for us to even consider your request.
+We determine your country as shown on your profile page from the area in which you first registered your account from. 
 
-This information will not be shared outside of the osu! support team and will be immediately deleted from our servers once it has been used to ascertain your place of residence.
+If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
 
-Providing false information to us may result in your account being placed under permanent restrictions, or heavily silenced for upwards of a month.
+The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.** 
+
+To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
+
+We'll never display this information to anyone else, and we encourage you to blank out any personal information (that won't otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
 ### I've forgotten my username and password!
 
-Please use <https://osu.ppy.sh/p/forgot> to reclaim your account automatically, provided that you still have access to the email you registered with.
+**Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
-If you do not have access to your original email that you registered with anymore, or you have forgotten your username completely, please send in a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing as much, along with any information that we could use to verify that you are the account owner - such as the name of the original email address registered to your account.
+If this does not work for you, please send an email to our [support team](mailto://accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
-It also helps significantly if you email us from your registration email, as this allows us to check whether you are the account owner without any further follow up.
+Sending the ticket from the email you registered the account from, or including that address in the email to us will be very helpful.
 
 ### My account has been banned/disabled/permanently restricted!
 
-First, sit down and think for a short while. Have you used any third-party cheating utilities or any other programs to try and get an edge over other users? Have you been making multiple accounts or otherwise violating our community rules?
+**Accounts are generally only disabled when they are confirmed to be multiaccounts.**
 
-If any of these sound familiar to you - then you have discovered the reason behind your ban without even having to send a ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh)!
+If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely log in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
 
-Rarely, if ever, are such actions carried out by our account support team without evidence behind them. In the game's history, less than a dozen cases have resulted in improper bans - it is **extremely** unlikely that your case is one of these.
+If your account has been restricted, you'll likely know why after a brief conversation with the support team. 
 
-Be truthful with us about the usage of any third-party cheating utilities or the creation of extra accounts. If you are found to be lying to us, we will cease responding to your tickets and prevent you from making any further ones.
-
-You will remain banned for a period of at **least three (3) months** from the time of your initial ban/restriction.
-
-After this point, we will accept a **single** appeal from you regarding the status of your account. This appeal must include **substantial, well-thought out reasoning as to why we should consider allowing you another chance in the osu! community**, and how we can be assured that you will not simply infringe again at a later point in the future.
-
-We reserve the right to deny any and all appeal possibility based on a user's history, especially if it is particularly severe.
-
-Users that are banned after having returned from a successful appeal will be permanently and irrevocably removed from the community, with no chance of reprieve or appeal. We will no longer respond to any correspondence sent by them through any channel, either.
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we'll ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
 ### My account has been stolen!
 
-Try using <https://osu.ppy.sh/p/forgot> to see if your account's email is still valid. If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+**Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid.**
 
-Otherwise, send a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) immediately - detailing (or from) your original registration email and an estimate of how long you believe that someone else has been using your account for, along with one or two recent passwords that you have used.
+If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+
+If you can't, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifiying informationas possible that will help us establish you as the owner of your account. 
+
+Emailing from your registration email is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
 Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
 ### Can I make more than one account?
 
-Simply put, **no - you can not**. This is possibly our most enforced rule as far as things go, and it exists solely to keep ranking fair for the vast majority of players who obey the rules.
+**Unfortunately, no, you can't.**
 
-Under no circumstances will we do the following:
+If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless! 
 
-- Grant a "fresh start" or a stat wipe (except in utterly exceptional circumstances, which have only ever happened 3 times in osu!'s history)
-- Delete or ban an old account so that a user may play on a new account
-- Allow another player to take ownership of another player's account
+Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
-You are only allowed to play on the first account that you have created. You will not be allowed to create a new account to play on, under any circumstance.
+In osu!, we are very much against multiple accounts (or multiaccounts as we call them), and we enforce a strict rule of only one account per person, ever.
 
-You can be permanently banned from osu! entirely for making multi accounts.
-
-If you have made an account whilst being unaware of this rule somehow, cease playing on the account immediately and send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing both your main and multi account(s). We appreciate honesty in this case, and will refrain from punishing users who choose to do this harshly.
+You get to play on the first account you ever registered with us, and that's it!
 
 ### Is it possible to start over or have my account's statistics wiped?
 
-**No.**
+**Not at the moment.**
 
-Stat or score wipes are almost never used except in utterly exceptional circumstances, and they are definitely not things done on request for users unhappy with their scores.
+We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-Making a new account to attempt and circumvent this rule will result in the wholesale loss of your ability to play osu! online, possibly permanently.
+This doesn't mean you can make a new account to do the same thing, either! Multiple accounts (or multiaccounting as we call it) is strongly frowned upon in our community and we will disable any accounts that are brought to our attention if they are found to be multiaccounts.
 
 ### Can I change my account's username?
 
-osu! supporters can get change their usernames, which can be at the [osu!store](https://store.ppy.sh/store/product/32).
+**Yes, absolutely!**
 
-There are some points to username changes to know:
+osu! supporters get **one** free name-change when they first purchase or are gifted a supporter tag, which can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
 
-- The first username change is free of charge with your osu!supporter (only once). The second change costs $8 USD with subsequent changes duplicating the price. This is to stop people from recklessly changing their name too many times.
-- Changing your username for changing capitalization is free once per name change. You can contact support for this.
-- For minor changes (like Player223 to Player), you should contact support since they usually may change your username for free. For more complex changes, you should buy your username change like normal. **This only applies to removing (or adding) special characters such as numbers, hyphens or brackets. Any change to the core has to be purchased.**
-- You can take an existing user's username **if they haven't logged in for at least 6 months when they have no plays. For every 500 plays across all game modes you must wait an additional year to take the username.** This means that to take the username of a user with a play count (combined over all modes) of 680, you will have to wait 1.86 years (or 678 days) from their last login.
+At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
+
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto://accounts@ppy.sh) to request a free name change to fix these issues. We won't charge you for these sorts of name changes, but you **MUST** do them through a support email.
+
+### Can I take another player's username?
+
+**Yes, but only under certain circumstances.**
+
+If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+
+For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
+
 
 ### Can I play on a computer that another osu! user has used before?
 
-Yes, absolutely. You will not be restricted or otherwise infringed for using *your* account on a computer that another osu! user has used. The only time sharing gets problematic is when it is done with accounts themselves.
+**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
 
-So long as you are using only your account, you can play osu! anywhere.
+So long as you are playing on only your own account, you can play osu! anywhere.
 
-### "You have tried to log in too many times"
+### The website is telling me that I have tried to log in too many times!
 
-This is a protection measure to make sure your account is not access by someone else. If this error message appears, cease trying to log in at all for a duration of up to 48 hours. You will then be able to log in normally.
+**This is a temporary protection measure after repeated failures to access your account. It will go away within 48 hours, often much sooner.**
 
-### My account is "disabled"! What does this mean?
-
-Accounts that have been disabled have been irrevocably purged by the administration for violations against our Terms of Service agreement.
-
-Often, this is due to multi-accounting offenses, and if you are attempting to access a multi-account that is disabled, you will find that your first registered "main" account will still be accessible, though probably restricted.
-
-Attempting to use a disabled account may force a temporary client lock in order to prevent further abuse. A locked client cannot be used for online play at all. The status fades automatically after several days. Attempts to circumvent this status will result in any associated accounts being disabled themselves.
-
-Disabled accounts do not preserve online scores and are incapable of setting new ones. They cannot interact with the online community in any form whatsoever, and for all intents and purposes, are considered *deleted* by the administration at large.
-
-Rarely, users with particularly egregious offenses may find their accounts disabled instead of restricted. Disabling can only be revoked by a senior member of the support team - so you will need to petition your case personally via ticket at [support@ppy.sh](mailto://support@ppy.sh).
+If this happens to you, simply wait for a while and try to log in a little later. A couple of hours will clear the status for most people and allow them to log in again.
 
 ----------------------------------------------------------------------------
 
