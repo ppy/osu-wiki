@@ -257,6 +257,19 @@ Perfer the `https` protocol and **never** use protocol relative links (e.g. `//e
 
 External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
 
+---
+
+Never use raw links for linking or have the link text be the url.
+For example:
+
+```
+Do not: https://osu.ppy.sh/
+Do not: <https://osu.ppy.sh/>
+Do not: [https://osu.ppy.sh/](https://osu.ppy.sh/)
+
+Do: [osu!web](https://osu.ppy.sh/)
+```
+
 ##### User Profiles
 
 When linking to an osu!user profile, use the user's id number instead of their username.
@@ -316,8 +329,12 @@ The differences are that you must prefix the link with an exclamation mark, the 
 
 Like the [links](#links), you can use either reference or inline style when linking to images.
 
+---
+
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
+
+All images must be optitimized and should use formats as described in the [supported formats](#supported-formats) section.
 
 #### Media File Names
 
