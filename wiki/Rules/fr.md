@@ -23,17 +23,17 @@ Règles du Chat En-Jeu
 6.  **Soyez conscient de ce que vous partagez avec les autres, surtout si le contenu est potentiellement troublant ou de nature très graphique.** Si vous vous demandez deux fois si un lien est approprié ou non, il ne l'est probablement pas. Évitez les images avec des lumières vives ou stroboscopiques, du gore, des images d'abus ou autre matériel graphique.
 7.  **Gardez les liens pertinents et pointant vers des sites légaux.** Les sites de streaming (ceux ayant une license comme Animelab et Crunchyroll sont OK) et tout ce qui lié au "warez" ou aux logiciels piratés de quelque sorte qu'il soient ne sont pas tolérés, et nous ne les voulont pas dans notre chat. Partager des liens Twitch pour d'autres jeux est toléré, mais SEULEMENT dans `#videogames`.
 8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'osu! est à propos d'osu! et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
-9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Où la langue d'un channel n'est pas spécifiée (ou sous-entendu par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
+9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
-Les Règles du Forum
+Règles du Forum
 ----------------
 
-1.  **Nes postez que des discussions/contenus qui ont du sens, qui sont intéressants ou engageants.** Les forums sont tout d'abord faits pour les discussions, donc assurez-vous que vous ne ferez pas perdre de temps aux personnes qui liront vos postes.
-2.  **Faites en sorte que vos postes et réponses soient acceptables pour tous les âges.** le contenu NSFW n'est pas approprié pour une communauté tout-âges, mais rien ne vous empêche d'en discuter en messages privés.
-3.  **Faites de scritiques constructives sans faire d'attaque personnelles.** Les critiques sont merveilleuses quand elles sont bien faites, mais s'il en ressort une attaque personnelle, vous l'avez mal faite et vous devriez vous en vouloir.
+1.  **Ne postez que des discussions/contenus qui ont du sens, qui sont intéressants ou engageants.** Les forums sont tout d'abord faits pour les discussions, donc assurez-vous que vous ne ferez pas perdre de temps aux personnes qui liront vos publications.
+2.  **Faites en sorte que vos publications et réponses soient acceptables pour tous les âges.** le contenu NSFW n'est pas approprié pour une communauté tout-âges, mais rien ne vous empêche d'en discuter en messages privés.
+3.  **Faites des critiques constructives sans faire d'attaque personnelles.** Les critiques sont merveilleuses quand elles sont bien faites, mais s'il en ressort une attaque personnelle, vous l'avez mal faite et vous devriez vous en vouloir.
 4.  **Gardez les sujets pertinents, et évitez de ressusciter d'ancients sujets si la conversation est morte.** Si un topic est mort depuis des années, il n'est plus pertinent, laissez-le donc disparaître. Postez-en un nouveau, ou tentez une recherche pour voir si quelqu'un a déjà répondu à votre question.
-5.  **Gardez votre signature et vos avatars raisonnables.** S'ils sont animés, ils ne devraient pas inclure de flashs excessifs. Ils devraient aussi être de petite taille pour les utilisateurs qui ont une connection lente, idéalement en dessous d'un demi mégabyte (500 kilobytes) quand c'est possible.
-6.  **Ne postez pas de publicités, de liens de référence ou autre contenu intrusif et dérangeant.** Ces types de liens sont amusants pour la personne les postant et dérangeant pour les autres, donc ne le faites pas. Les contenus qui se chargent et/ou s'activent tout seuls sont soumit à cette règle.
+5.  **Gardez votre signature et vos avatars raisonnables.** S'ils sont animés, ils ne devraient pas inclure de flashs excessifs. Ils devraient aussi être de petite taille pour les utilisateurs qui ont une connexion lente, idéalement en dessous d'un demi mégabyte (500 kilobytes) quand c'est possible.
+6.  **Ne postez pas de publicités, de liens de référence ou autre contenu intrusif et dérangeant.** Ces types de liens sont amusants pour la personne les postant et dérangeant pour les autres, donc ne le faites pas. Les contenus qui se chargent et/ou s'activent tout seuls sont soumis à cette règle.
 7.  **Les liens vers des applications avec des intentions qui ne sont pas claires ne sont pas autorisés.** Pour faire simple, si vous avez des doutes sur la légalité d'une application, elle ne devrait pas être postée.
 
 Règles de Soumission des Beatmaps
@@ -43,11 +43,11 @@ Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de S
 
 Un ensemble plus détaillé de règles pour la construction de beatmap existe, connu sous le nom de [Critères de Classement](/wiki/Ranking_Criteria).
 
-1. **Soyez sûrs d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de pistes disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists/), où tout est 100% autorisé pour utilisation dans _osu!_.
+1. **Soyez sûr d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de musiques disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists/), où tout est 100% autorisé pour utilisation dans _osu!_.
 2.  **Restez sur le thème dans les discussions de Beatmap.** Ces discussions sont à propos de la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui n'est pas en rapport direct avec la beatmap, postez-le dans le forum approprié.
-3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité aux skins et aux difficultés d'invités).
+3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 
-Règles du Hors-Sujet
+Règles du Off-Topic
 ---------------
 
 *Les règles ci-dessous ne s'appliquent qu'au sous-forum [Off-Topic](https://osu.ppy.sh/community/forums/52) sauf mention contraire.*
@@ -63,17 +63,17 @@ Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvais
 
 Ces mauvaises choses incluent (*mais ne sont pas limitées à*):
 
-* L'incapabilité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
-* la suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
-* la perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
+* L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
+* La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
+* La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
 * La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
 
-Les silences et autres infractions augmentent **automatiquement** la durée augmente exponentiellement à chaque infraction. Les modérateurs ne contrôlent pas la durée de temps de votre silence pour offense - les auteurs qui récidivent se trouveront bloqués hors du jeu pour une période de temps de plus en plus longue.
+La durée des silences et autres infractions augmente exponentiellement et **automatiquement** à chaque infraction. Les modérateurs ne contrôlent pas la durée de temps de votre silence pour offense - les auteurs qui récidivent se trouveront bloqués hors du jeu pour une période de temps de plus en plus longue.
     
-Certaines offenses entraînent une durée minimale (habituellement 48 heures ou plus) s'ils sont particulièrement sévères, cependant ils sont presque exclusivement aux infractions sévères, comme le partage de contenu graphique ou un harcèlement répété envers d'autres utilisateurs.
+Certaines offenses entraînent une durée minimale (habituellement 48 heures ou plus) si elles sont particulièrement sévères, cependant elles sont presque exclusives aux infractions sévères, comme le partage de contenu graphique ou un harcèlement répété envers d'autres utilisateurs.
 
-Si après plusieurs infrègnements vous continuez à ne pas respecter les règles, votre compte peut être restreint de manière permanente et irrévocable.
+Si après plusieurs infractions vous continuez à ne pas respecter les règles, votre compte peut être restreint de manière permanente et irrévocable.
 
-Les comptes restreints ne peuvent pas jouer en ligne, envoyer de scores, chatter avec les autres utilisateurs et sont 'bannis' de toutes intéractions avec la communauté. Les restriction pour violations des règles de la communauté ne peuvent être supprimées qu'après appel à l'équipe du jeu après que 3 mois aient passé.
+Les comptes restreints ne peuvent pas jouer en ligne, envoyer de scores, chatter avec les autres utilisateurs et sont 'bannis' de toutes intéractions avec la communauté. Les restrictions pour violations des règles de la communauté ne peuvent être supprimées qu'après appel à l'équipe du jeu après que 3 mois soient passé.
 
 Les offenses sévères qui vont au-delà de nos règles et qui entrent en conflit avec les lois communes internationales se finiront en résiliation immédiate du compte. Cela s'applique quasi exclusivement au contenu graphique extrême ou autres offenses abberrantes, comme la distribution de pornographie infantile ou autre matériel d'abus.
