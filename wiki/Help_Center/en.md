@@ -10,13 +10,13 @@ Payments can take time to process, especially if you don't use Paypal. Please wa
 
 If you still haven't received the supporter tag after that, please e-mail [accounts@ppy.sh](mailto://accounts@ppy.sh) with your username along with information on your transaction so that we can investigate, such as:
 
--if purchased via Paypal:
---the e-mail address attached to your Paypal account
---transaction ID or item ID
+**if purchased via Paypal:**
+- The e-mail address attached to your Paypal account
+- Transaction ID or item ID
 
--if purchased by any other means:
---transaction ID
---payment system
+**if purchased by any other means:**
+- Transaction ID
+- Payment system
 
 If you have purchased supporter for someone, but they face the same issue, the process is similar, but we'll need the giftee's username instead of yours.
 
@@ -85,10 +85,10 @@ Please do not include replay or score data in your ticket - we cannot use this t
 
 Simply put, **no - you can not**. This is possibly our most enforced rule as far as things go, and it exists solely to keep ranking fair for the vast majority of players who obey the rules. Players found guilty or creating or using several accounts will be punished. If you find yourself wishing to create a new account, please consider the reason why:
 
-- if you are unhappy with your performance, or want to start fresh, we will implement a way for users to reset their stats, but for now, please keep playing on your current account
-- if you are unhappy with your username and wish to change it, it is possible to change your username (see the article about namechanges)
-- if one of your relatives wishes to start playing the game as well, you are welcome to assist them in creating their own account, but please do not create one for them
-- for any other reasons, please contact us before creating any accounts
+- If you are unhappy with your performance, or want to start fresh, we will implement a way for users to reset their stats, but for now, please keep playing on your current account
+- If you are unhappy with your username and wish to change it, it is possible to change your username (see the article about namechanges)
+- If one of your relatives wishes to start playing the game as well, you are welcome to assist them in creating their own account, but please do not create one for them
+- For any other reasons, please contact us before creating any accounts
 
 If you have made other accounts whilst being unaware of this rule, cease playing on the account immediately and send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing both your main and multi account(s). We appreciate honesty in this case, and will refrain from punishing users who choose to do this.
 
