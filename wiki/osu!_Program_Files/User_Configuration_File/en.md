@@ -1,8 +1,8 @@
 # User Configuration File
 
-***[Click here to return to Main Page](/wiki/osu!_Program_Files)***
+_Main page: [osu! Program Files](/wiki/osu!_Program_Files)_
 
-This a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the in-game options and it is recommended that you change options there. Only edit these values manually if you really must. If the `Description` cell is empty, assume it is the same as the one above it.
+This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the in-game options and it is recommended that you change options there. Only edit these values manually if you really must. If the `Description` cell is empty, assume it is the same as the one above it.
 
 | Code                 | Description                                 |
 |----------------------|---------------------------------------------|
