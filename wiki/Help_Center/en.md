@@ -117,10 +117,11 @@ So long as you are playing on only your own account, you can play osu! anywhere.
 
 ### The website is telling me that I have tried to log in too many times!
 
-**This is a temporary protection measure after repeated failures to access your account. It will go away within 48 hours, often much sooner.**
+**This is a temporary protection measure after repeated failures to access your account. Try logging in again within 10-20 minutes.**
 
-If this happens to you, simply wait for a while and try to log in a little later. A couple of hours will clear the status for most people and allow them to log in again.
+If this happens to you, simply wait for a while and try to log in a little later. 
 
+A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
 ----------------------------------------------------------------------------
 
 ## Client
