@@ -65,7 +65,8 @@
 
 ## Markdown
 
-本节规则适用于全部文章
+本节规则适用于全部文章。
+快速入门请参考[中文Markdown指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
 
 ### GFM（GitHub Markdown方言）
 
@@ -138,57 +139,32 @@ GFM 的标记很少，以至于**任何人**都能在3分钟之内学会它！
     
     osu! is a frustrating but fun circle-clicking simulator.
 
-### Lists
+### 列表
 
-使用列表时，列表语法中的空格是不能省略的
+使用列表时，列表语法中的空格是不能省略的。
 
-同时记住：最多缩进四次
+同时记住：最多缩进四次。
 
-#### Bulleted
+当列表顺序不重要时，使用星号、加号或是减号。
 
-Use bulleted lists when the order of the list does not matter.
-It is prefered to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
+当列表顺序重要时，使用数字风格。
 
-#### Numbered
+### 代码
 
-Use numbered lists when the order of the list does matter.
-Incrementing the numbers is optional but preferred.
+使用反括号(`` ` ``)将代码包裹。
 
-#### Mixed
+以下几种情况需要使用它：（均需要按原文书写）
 
-You can also combine both bulleted and numbered lists.
+- 键盘按键
+- 按钮或菜单上的文字
+- 文件名，文件夹名，目录名
+- 频道名
 
-### Code
+### 代码块
 
-The markup for code is a grave mark (`` ` ``).
-To put a grave mark in code, surround it in double grave marks, padded with 1 space.
+在 osu!wiki 中不需要使用代码高亮。
 
-Use code for the following scenarios:
-
-- Keyboard Keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
-- Button or Menu Text
-  - When copying the text from a menu or button, copy the letter casing as-is.
-- Folder Names
-  - When copying the name of a folder, copy the letter casing as-is.
-- Directory Names
-  - When copying the path of a directory, copy the letter casing as-is.
-- Keywords or Commands
-  - When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable).
-- File Names
-  - When copying the name of a file, copy the letter casing as-is.
-- File Extensions
-  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
-- Chat Channels
-  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
-
-### Code Blocks
-
-It is prefered to use the triple grave marks instead of the four prefixed spaces.
-
-Code blocks do not use syntax highlighting in the osu!wiki.
-
-### Links
+### 链接
 
 You can use either the reference or inline style links.
 
