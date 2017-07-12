@@ -1,18 +1,18 @@
-# Beatmaps Packs
+# Packs
 
 _Main page: [Beatmaps](/wiki/Beatmaps)_
 
-Beatmaps packs, as the title suggests, are a `.zip` files containing beatmaps.
-The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](#approved) beatmaps).
+A beatmaps pack is a `.zip` file containing beatmaps.
+The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
+
 It is worth noting that the most packs are:
 
 - Roughly either ~100MB (Taiko/osu!mania) or ~200MB (-/Approved)
-- Always contain videos (if included)
-- The beatmaps are either in the form of `.zip` or `.osz` file
+- Contain videos (if included)
 
 ## Categories
 
-Beatmaps packs split into 4 categories:
+Beatmaps packs are split into 4 categories:
 
 | Category | Beatmap types |
 | -------- | ------------- |
@@ -21,7 +21,7 @@ Beatmaps packs split into 4 categories:
 | Theme | General theme of the songs |
 | Artist/Album | Based on Artist/Album |
 
-## Obtaining Every Beatmap
+## Fully Completing Your Song List
 
 This is for those who really want to *fully complete your song list* (and not just download your favorite songs).
 
@@ -45,4 +45,4 @@ _Notice: Beatmap torrents seem to have died off within the osu!community._
 These torrents contain the 10, 100, 200 or 300 packs.
 As soon as there are 400 packs available, the torrent should be avaliable.
 
-A rough estimation of how many hard disk space (and your connection quota) you will need is around ~71 GB.
+You will need a lot of space (and bandwidth) to torrent all of these packs.
