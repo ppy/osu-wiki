@@ -334,7 +334,7 @@ Like the [links](#links), you can use either reference or inline style when link
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images).
 Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
 
-All images must be optitimized and should use formats as described in the [supported formats](#supported-formats) section.
+All images must be optimized and should use formats as described in the [supported formats](#supported-formats) section.
 
 #### Media File Names
 
