@@ -20,7 +20,7 @@ Make sure to include any receipts that you received during the process (paypal t
 
 They may continue to set scores locally and online (though the scores will not show until the status is lifted) and play the game like normal, with the exception of multiplayer.
 
-There are a variety of reasons as to why someone could be restricted - though the most common is due to suspicion of foul play or other unscrupulous activity that makes the game worse for everyone else.
+Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
 
 In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh).
 
@@ -44,9 +44,14 @@ We'll never display this information to anyone else, and we encourage you to bla
 
 **Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
-If this does not work for you, please send an email to our [support team](mailto://accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
+If this does not work for you (or you don't have access to your registration email), please send an email to our [support team](mailto://accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
-Sending the ticket from the email you registered the account from, or including that address in the email to us will be very helpful.
+Good information to include this email would be:
+
+* The name of the email address that you registered the account on, or any other email the account has been associated with since
+* Any receipts for purchased osu!supporter tags or other items from the osu!store
+* The last date you can remember being able to access your account normally
+* Any other identifying information that you think could be helpful (excluding scores or replays, those don't help us very much!)
 
 ### My account has been banned/disabled/permanently restricted!
 
@@ -64,9 +69,9 @@ In situations where we are absolutely assured that foul play or wrongdoing has t
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If you can't, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifiying information as possible that will help us establish you as the owner of your account. 
+If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account. 
 
-Emailing from your registration email is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
 Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
@@ -115,6 +120,8 @@ For every 500 plays an account has across all game modes, an additional year (36
 
 So long as you are playing on only your own account, you can play osu! anywhere.
 
+If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+
 ### The website is telling me that I have tried to log in too many times!
 
 **This is a temporary protection measure after repeated failures to access your account. Try logging in again within 10-20 minutes.**
@@ -122,6 +129,7 @@ So long as you are playing on only your own account, you can play osu! anywhere.
 If this happens to you, simply wait for a while and try to log in a little later. 
 
 A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
+
 ----------------------------------------------------------------------------
 
 ## Client
