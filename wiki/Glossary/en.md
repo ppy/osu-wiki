@@ -559,6 +559,14 @@ The MAT, meaning _Modding Assistance Team_, was a group of users experienced in 
 MAT members were able to mark any beatmap they approve of with a bubble.
 This bubble would note that the beatmap as worthy of further consideration by the BAT.
 
+### Mod Request
+
+A mod request is when a mapper is in need of help.
+This can be from fixing possible mistakes to requesting for [guest difficulties](#guest-difficulty).
+While, typically, the song is still playable, the only reason someone would scroll here is if (and only if) you know what you are (and will be) doing and willing to mod the map for them.
+
+Keep in mind that the map or mapset may be incomplete, so be a considerate person and (if you had tried the map) tell them what is wrong with the mapper's map.
+
 ### Modder
 
 A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums).
