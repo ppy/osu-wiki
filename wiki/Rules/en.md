@@ -22,7 +22,7 @@ In-Game Chat Rules
 5.  **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
 6.  **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
 7.  **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
-8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
+8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about _osu!_ foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9.  **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
 Forum-wide rules
@@ -39,7 +39,7 @@ Forum-wide rules
 Beatmap Submission Rules
 ---------------------------------
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the _osu!_ client when a beatmap is submitted through the [editor](/wiki/editor).
 
 A set of more detailed rules for beatmap construction exists, known as the [Ranking Criteria](/wiki/Ranking_Criteria).
 
