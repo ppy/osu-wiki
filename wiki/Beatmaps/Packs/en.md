@@ -37,7 +37,7 @@ The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](
 
 ### Torrenting
 
-*Notice: Torrenting osu!beatmaps seems to of had died off approximately 2 years ago and counting... (within the border of osu! and it's forums)*
+_Notice: Beatmap torrents seem to have died off within the osu!community._
 
 - [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
