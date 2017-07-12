@@ -22,11 +22,11 @@ The similarities would end here however, as South Korea pulled out a turnaround 
 
 China, looking to settle the nerves and secure a point on the scoreboard, would stick with DoubleTime, choosing the consistency-demanding converted osu! difficulty [3L - Endless night](https://osu.ppy.sh/b/430371&m=2), hoping for Dusk to achieve a repeat double S performance and a comfortable victory. Once again this was scouted by South Korea, switching in [Berea](https://osu.ppy.sh/users/3657951) who proceeded to drop only a single note and usher in a second break point. A switch to NoMod almost backfired due to a string of early misses on the South Korean pick of [dj TAKA - quaver](https://osu.ppy.sh/b/915210&m=2), but once again though, a slender Chinese advantage would be turned upside-down in the closing moments, with [Callionet](https://osu.ppy.sh/users/3072921) dropping an entire section, costing himself a would-be spectacular Full Combo, and China their fourth chance at a point.
 
-![](/wiki/shared/news/2017-07-10-osucatch-world-cup-2017-results/SKChina_GF_game4.png)
+![](/wiki/shared/news/2017-07-10-osucatch-world-cup-2017-results/SKChina_GF_game4.jpg)
 
 With no DoubleTime picks remaining, the two teams would trade blows on NoMod in three extremely close affairs, the culmination being China overcoming their consistency demons to achieve victory on [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix)](https://osu.ppy.sh/b/1158651&m=2) by the skin of their teeth at a mere 8,223 score split. South Korea, seeking to crush any hopes of a Chinese comeback, immediately seized upon the remaining Hidden pick, coming out of a low-scoring affair on [Hatsune Miku - Nightmare Party Night](https://osu.ppy.sh/b/121339&m=2) on match point with a score line of 6-2.
 
-![](/wiki/shared/news/2017-07-10-osucatch-world-cup-2017-results/SKChina_GF_game7.png)
+![](/wiki/shared/news/2017-07-10-osucatch-world-cup-2017-results/SKChina_GF_game7.jpg)
 
 With their options running out, China turned to HardRock, picking the CS6.5 [Yooh - snow storm -euphoria-](https://osu.ppy.sh/b/1000764&m=2), a map on which they suffered a crushing defeat when the two teams last met. The hours of practice paid off however, taking a convincing third point and forcing South Korea to pick again.
 
