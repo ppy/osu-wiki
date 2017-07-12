@@ -1,130 +1,148 @@
-Először is, szeretnénk Téged köszönteni a közösségben! Engedd meg, hogy elmagyarázzunk egy pár dolgot, mielőtt útnak indulsz. ![osu!](Osu-boxart.png "fig:osu!")
+<!-- wiki -->
+[Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
+[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
+[Multi wikilink]: /wiki/Multiplayer/ "Multi-play"
+[Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
+[Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
+[Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
+[Achievements wikilink]: /wiki/Achievements/ "Achievements"
+[Chat_Console wikilink]: /wiki/Chat_Console/ "Chat Console"
+[FAQ wikilink]: /wiki/FAQ/ "FAQ"
+[Glossary wikilink]: /wiki/Glossary/ "Glossary"
+[osu!academy wikilink]: /wiki/Announcements/osu!academy/ "osu!academy"
+[Beginner wikilink]: /wiki/Beginner/ "Beginner"
+[Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
 
-\_\_TOC\_\_
+<!-- external -->
+[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
+[Packlist link]: https://osu.ppy.sh/p/packlist "Official packlist"
+[Beatmapping/Modding: Guide Compendium link]: https://osu.ppy.sh/forum/t/441929 "Beatmapping/Modding: Guide Compendium"
 
-Az útmutató
------------
+<!-- image -->
+[osu-boxart image]: ./osu-boxart.png "osu!boxart"
+[welcome00 image]: ./Welcome00.png "Beatmap listing search"
+[welcome01 image]: ./Welcome01.png "Beatmap listing search results"
+[welcome02 image]: ./Welcome02.png "Beatmap download"
+[welcome03 image]: ./Welcome03.png "Opening the .osz file"
+[welcome04 image]: ./Welcome04.png "Beatmap in the Song Selection screen"
+[Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Chat Console's friendlist"
 
-Mielőtt játszani kezdenél, javasolt, hogy játssz az útmutatóval ([Peter Lambert - osu! tutorial](http://osu.ppy.sh/s/3756)). Az osu! letöltése és telepítése után nyisd meg, hogy letöltsd a legújabb frissítést. A főmenüben látsz egy nagy osu! gombot középen. Kattints rá kétszer, majd kattints a Solo lehetőségre. A beatmapjeid között úgy kereshetsz, hogy egyszerűen elkezded begépelni a keresett szót, viszont most a "Tutorial"-t keresed. Ez a beatmap megtanítja az osu! Standard játékmód alapjait, mint például a Találati körök, a Sliderek és a Spinnerek. Játéktechnikákat nem lehet szóban átadni, ezeket kénytelen leszel magad megtanulni. Az osu!tutorial mellé csomagolt beatmapek majd segítenek.
+<!-- shared image -->
+[.osz icon link]: /wiki/shared/osz_icon_full.png ".osz file, clean beatmap file"
+[Accuracy results image]: /wiki/shared/Accuracy_results.png "Accuracy of player"
 
-**Megjegyzés:** Ha valami oknál fogva még sincs meg neked a tutorial, [itt letöltheted](http://osu.ppy.sh/b/22538). A tutorial végigjátszása után készen állsz arra, hogy különböző beatmapeket játssz!
+<!-- Title -->
+# Üdvözlet
+![osu!][osu-boxart image]
 
-Hogyan kezdj el játszani a kedvenc zenéiddel?
-=============================================
+Először is, szeretnénk teljes szívünkből üdvözölni és adni neked egy ölelést amiért csatlakoztál a közösségünkhöz! Engedd meg hogy elmagyarázzunk egy pár dolgot, mielőtt útnak indulsz. 
 
-*Teljes magyarázat: [Beatmaps](HU:Beatmaps "wikilink")*
+## Az útmutató
+Mielőtt elkezdenél játszani, azt ajánljuk hogy játszd a bemutatót először ([Peter Lambert - osu! tutorial][osu!tutorial_basic]). 
 
-1. lépés - Találd meg a zenét!
-------------------------------
+Letöltés és telepítés után nyisd meg és egy "osu! update" nevezetű ablaknek kell megjelennie, várd meg míg frissít. Amikor a játék elindul, egy nagy osu! gomb lesz középen. Csak kattints rá majd válaszd ki a "Solo" módot. Könnyedén tudsz beatmap után keresni szimplán csak beírva, de amit most keresel az a "Tutorial". Ez a beatmap megtanítja neked az alapvető tudnivalókat a játékról úgymint, _Hitcircles_, _Sliders_ és _Spinners_.
 
-Felvetődhet benned a kérdés: Mi az a beatmap? Minden játékban vannak szintek vagy pályák. Az osu!-ban "Beatmap"-ek (ejtsd: bítmep) vannak. Ezek egy adott szám ritmusára ("beat") kialakított, játszható "pályák". Beatmapek keresése egyszerű! Az összes feltöltött beatmapet [itt](http://osu.ppy.sh/p/beatmaplist) találod. Bármit begépelhetsz a keresésbe: A szám címét, az előadót, az album címét, vagy akár a műfajt is! Ebben a példában megpróbáljuk megkeresni a "Coldplay - Don't Let It Break Your Heart" című számot.
+A játéktechnikákat nem lehet szóban átadni, ezeket kénytelen leszel játék közben magad megtanulni. Néhány beatmap az osu!tutorial mellé van csomagolva, ezek segíthetnek neked.
 
-<img src="welcome00.png" title="welcome00.png" alt="welcome00.png" width="580" />
+**Megjegyzés:** Ha valami oknál fogva még sincs meg neked a tutorial, [itt letöltheted][osu!tutorial_basic]. A tutorial végigjátszása után készen állsz arra, hogy különböző beatmapeket tölts le és próbálj ki!
 
-2. lépés - Töltsd le!
----------------------
+## Hogyan kezdj el játszani a kedvenc zenéiddel?
+_Teljes magyarázat: [Beatmaps][Beatmaps wikilink]_
 
-Ha létezik jóváhagyott beatmap az általad keresett számból, akkor meg kell találd az eredmények között. Ne zaklasson fel viszont az sem, ha nem találod! Több száz beatmap kerül fel és kerül értékelésre folyamatosan, szóval az is lehet, hogy már úton van, amit keresel. Kérlek **ne írj kéréseket a fórumra, ha szeretnél egy beatmapet!** A legtöbb mapper olyan számokat készít el, amiket **ők** szeretnek, nem amiket te szeretsz. Ez viszont akár azt is jelentheti, hogy érdemes beleásnod magad a beatmap-készítés rejtelmeibe!
+### Első lépés - Találd meg a zenét!
+Felvetődhet benned a kérdés: Mi az a beatmap? Mint minden játékban, vannak szintek, vagy néha térképek. Nos, nekünk "Beatmap"-ek (ejtsd: bítmep) vannak, amik pontosan azok amiknek gondolod őket, egy adott zene ütemeire (ritmusára) készített, játszható pálya. Beatmap-eket találni zenékhez egyszerű! Az összes feltöltött beatmap-et megtalálod [itt][Beatmaplist link]. Bármit begépelhetsz ami a keresésedhez tartozik: szám címet, előadót, album címet, vagy akár a műfajt is! Ebben a példában megpróbáljuk megkeresni a "Coldplay - Don't Let It Break Your Heart" című számot.
 
-<img src="welcome01.png" title="welcome01.png" alt="welcome01.png" width="580" />
+![][welcome00 image]
 
-Ha már a beatmap oldalán vagy, látnod kell egy nagy "Download Beatmap" gombot (ehhez viszont be kell jelentkezned, különben egy sárga gomb fog a bejelentkezéshez irányítani).
+### Második lépés - Töltsd le!
+Ha létezik jóváhagyott beatmap az általad keresett számból, akkor meg kell találd az eredmények között. Ne zaklasson fel viszont az sem, ha nem találod! Több száz beatmap kerül fel és kerül felülvizsgálatra folyamatosan, szóval az is lehet, hogy már úton van, amit keresel. Kérlek **ne írj kéréseket a fórumra, ha szeretnél egy beatmap-et!**, a legtöbb mapper olyan számokat készít, amiket **ők** szeretnek, nem amiket te szeretsz, de ez akár egy segítség lehet hogy te is elkezdj foglalkozni vele!
 
-<img src="Welcome02.png" title="Welcome02.png" alt="Welcome02.png" width="580" />
+![][welcome01 image]
 
-**Megjegyzés:** Nem számít hová mented a fájlt, csak találd meg, amikor már befejeződött a letöltés. A Megnyitás lehetőséget is választhatod, de ez el fogja indítani az osu!-t, ha az még nem fut.
+Ha már a beatmap oldalán vagy, látnod kell egy óriási "Download Beatmap" gombot (ehhez viszont be kell jelentkezned, különben egy sárga gomb fog a bejelentkezéshez irányítani).
 
-3. lépés - Töltsd be az osu!-ba!
---------------------------------
+![][welcome02 image]
 
-![".osz" fájl, tiszta beatmap fájl](Osz icon.png "fig:".osz" fájl, tiszta beatmap fájl") Amint a letöltésed befejeződött, megnyithatod a **.osz** kiterjesztésű fájlt. Ha ez valamiért nem tetszik, akkor be is húzhatod az osu! ablakába.
+**Megjegyzés:** Nem számít hová mented a fájlt amíg megtalálod miután befejeződött a letöltés. Egyébként megnyithatod egyből, és ez el fogja indítani az osu!-t, ha az még nem fut.
 
-<img src="welcome03.png" title="welcome03.png" alt="welcome03.png" width="580" />
+### Harmadik lépés - Töltsd be az osu!-ba!
+![".osz", tiszta beatmap fájl][.osz icon link]
 
-4. lépés - Játssz szórakozásból vagy versengj másokkal!
--------------------------------------------------------
+Amint a letöltésed befejeződött, egyszerűen csak nyisd meg a **.osz** kiterjesztésű fájlt. Ha ez valamiért nem tetszik, akkor be is húzhatod az osu! ablakába.
 
-Amint megnyitod a fájlt, elindul az osu! (esetleg frissít is). Az elérhető beatmapjeid közötti válogatáshoz kattints a nagy osu! körre középen, majd válaszd a "Play" illetve a "Solo" lehetőséget. Láthatod is, hogy az új beatmap (a tutorial mellett) megjelent. Válassz nehézségi szintet és már játszhatsz is! A menüben "Solo" helyett a "Multi" lehetőséget is választhatod, ez a többjátékos mód, ahol játékosok egymás ellen versenyeznek élőben. Bármelyik nyitott játékhoz csatlakozhatsz (persze zárthoz is, ha tudod a jelszót).
+![][welcome03 image]
 
-<img src="welcome04.png" title="welcome04.png" alt="welcome04.png" width="580" />
+### Negyedik lépés - Játssz szórakozásból vagy versengj másokkal!
+Amint megnyitod a fájlt, elindul az osu! (esetleg frissít is). Az elérhető beatmap-jeid közötti válogatáshoz kattints a nagy osu! körre középen, majd válaszd a "Play" illetve a "Solo" lehetőséget. Az új beatmap (a tutorial mellett) kellett, hogy megjelenjen. Válassz nehézségi szintet, és már úton is vagy, hogy osu! játékossá válj! A menüben "Solo" helyett a "Multi" lehetőséget is választhatod, ez a többjátékos mód, ahol játékosok egymás ellen versenyeznek élőben. Vegyél részt te is a szórakozásban!
 
-Meg is vagyunk! Most már készen állsz az osu!-val való játékra és a kedvenc zenéid megkeresésére. Ha problémába ütközöl, nyugodtan kérj segítséget a fórumon, vagy a játékon belül a chatben az F8 gomb lenyomásával (a magyar közösség csatornája a \#Hungarian).
+![][welcome04 image]
 
-**SOK SZERENCSÉT ÉS JÓ SZÓRAKOZÁST! :3**
+Meg is vagyunk! Most már készen állsz, hogy te legyél a következő osu! bajnok! Ha bármilyen problémába ütközöl, nyugodtan kérj segítséget a fórumon, vagy a játékon belül (lenyomva az F8 gombot a chat panelhez és a \#help-et választva illetve a magyar közösség csatornája a \#hungarian ahol szintén nyugodtan felteheted kérdésedet).
 
-Játékmódok
-==========
+## Játékmódok
 
-Solo
-----
+### Egyjátékos (Solo)
+Szóval mi is pontosan a "Solo" mód? Gyakorlatilag ez az a mód, amit egyedül tudsz játszani akár offline, akár online. Itt nincsenek korlátok, bármely (neked meglévő) mapet játszhatod bármely [moddal][Game_Modifiers wikilink] (néha pontmódosítóknak hívják őket). Újraindíthatod a mapet ha úgy érzed túl alacsony a pontszámod vagy a pontosságod, illetve tarthatsz szünetet is, ha úgy érzed, hogy elfáradt a kezed és/vagy ha úgy érzed te magad is elfáradtál. Megnézheted a helyi vagy online pontszámokat illetve bármelyik visszajátszást is megtekintheted, ha rákattintasz egy pontszámra. Saját visszajátszásaidat az F2 lenyomásával kimentheted, hogy bármikor keresés nélkül újra tudd nézni.
 
-Szóval mi is pontosan a "Solo" mód? Ez az a mód, amit egyedül tudsz játszani akár offline, akár online. Itt nincsenek korlátok, bármely (neked meglévő) mapet játszhatod bármely moddal. Ha elfáradsz szünetet tarthatsz, vagy újraindíthatod a mapet ha úgy érzed, túl alacsony a pontszámod vagy a pontosságod. Megnézheted a helyi vagy online pontszámokat is, illetve bármelyik visszajátszást is megtekintheted, ha rákattintasz egy pontszámra. Saját visszajátszásaidat az F2 lenyomásával exportálhatod.
+### Többjátékos (Multiplayer)
+_Teljes magyarázat: [Multi][Multi wikilink]_
 
-Multi
------
+Ha kicsit magányosnak érzed magad "Solo" módban, bármikor csatlakozhatsz a többjátékos-előcsarnokhoz. Az egyedüli követelmény egy regisztrált- és bejelentkezett osu! felhasználói fiók és egy megfelelő internetkapcsolat. A hozzáféréshez csak válaszd a "Multi" lehetőséget. Rengeteg szobát fogsz látni, Könnyűtől (Easy) a Beteg (Insane) nehézségig. 
 
-*Teljes magyarázat: [Multi](HU:Multiplayer "wikilink")*
+A többjátékos mód remek lehetőséget biztosít új barátok szerzésére, illetve a képességeid összemérésére másokkal. Miután csatlakoztál egy szobához, valószínűleg le kell majd töltened a házigazda által választott beatmap-et. Kattints a "Click here to download this map" lehetőségre (jobb oldalt kell legyen, rikító-piros színnel), így az adott map letöltési oldala rögtön meg is nyílik a böngésződben. Itt kattints a nagy "Download Beatmap" gombra (előbb lehet, hogy be kell jelentkezned), és nyisd meg a .osz fájlt. Ne aggódj ha lassan töltődik, a legtöbb házigazda meg fogja várni, esetleg néha megkérdezik hol tart a letöltés. Ilyenkor ne légy szégyenlős és mondd el! Ha úgy érzed, hogy túl sokáig tartana, azt is megmondhatod, hogy kezdjék el a játékot nélküled (a házigazda ilyenkor "erőltetheti" a játék indítását). 
 
-Ha kicsit magányosnak érzed magad "Solo" módban, bármikor csatlakozhatsz a többjátékos lobby-hoz. Az egyedüli követelmény egy bejelentkezett osu! felhasználó és egy megfelelő internetkapcsolat. A hozzáféréshez csak válaszd a "Multi" lehetőséget. Rengeteg szobát fogsz látni, Easy-től (könnyű) Insane (őrült nehéz) nehézségig. A többjátékos mód remek lehetőséget biztosít új barátok szerzésére, illetve a képességeid összemérésére másokkal. Miután csatlakoztál egy szobához, valószínűleg le kell majd töltened a házigazda által választott beatmapet. Klikkelj a "Kattins ide a map letöltéséhez" lehetőségre (jobb oldalt kell legyen, fájdalmasan piros színnel), így az adott map letöltési oldala rögtön meg is nyílik a böngésződben. Itt kattints a nagy "Download Beatmap" gombra (előbb lehet, hogy be kell jelentkezned), és nyisd meg a .osz fájlt. Ne aggódj ha lassan töltődik, a legtöbb házigazda meg fogja várni, esetleg néha megkérdezik hol tart a letöltés. Ilyenkor ne légy szégyellős és mondd el! Ha úgy érzed, hogy túl sokáig tartana, azt is megmondhatod, hogy kezdjék el a játékot nélküled (a házigazda ilyenkor "erőltetheti" a játék indítását). A többjátékos játékmenet kissé különbözik a a solo-tól: nem tudod szüneteltetni a játékot és a modokat is a házigazda választhatja ki (kivéve, ha Ő bejelöli a "szabad modok" lehetőséget). A többjátékos mód legegyedibb része a Tag Co-Op vagy (Csapat Co-Op csapatok esetén) és a Team VS. Emellett láthatod az ellenfeleid/csapattársaid pontját is játék közben, így a játék pörgősebbnek érződik a helyekért való küzdelem során.
+A többjátékos játékmenet kissé különbözik a a solo-tól: nem tudod szüneteltetni a játékot és a modokat is a házigazda választhatja ki (kivéve, ha Ő bejelöli a "szabad modok" lehetőséget). A többjátékos mód legegyedibb része a Tag Co-Op vagy (Team Co-Op csapatok esetén) és a Team VS. Emellett láthatod az ellenfeleid/csapattársaid pontját is játék közben, így a játék pörgősebbnek érződik a helyekért való küzdelem során.
 
-Versengés
-=========
-
+## Versengés
 Első ránézésre ez egy egyszerű játéknak tűnik, ahol körökre kell kattintgatni, de néha nagyon intenzívvé és komollyá is válhat! Íme néhány dolog, amit az osu! rangrendszeréről tudni érdemes.
 
-Szintek
--------
+### Szintek
+A játékos szintje csak az összegyűjtött pontszámot mutatja ranked vagy approved map-eken, a beatmap befejezésétől függetlenül. Röviden, ez mutatja mennyire "tapasztalt" valaki. Viszont, más játékokkal szemben (pl. MMO-k), az osu! **NEM** ad senkinek semmilyen előnyt. Egy természetes adottságokkal rendelkező, rendkívül ügyes 10-es szintű játékos akár megverhet egy 100-as szintűt is (ez azt jelenti, hogy a 100-as szintű játékos mindössze többet játszott online). Ezen felül tartsd észben hogy több pontot kapsz ha magasabb kombót érsz el (több note-ot találsz el egymás után, hibázás nélkül).
 
-A játékos szintje csak az összegyűjtött pontszámot (rankolt vagy nem rankolt) mutatja, a beatmap befejezésétől függetlenül. Röviden, ez mutatja mennyire "tapasztalt" valaki. Viszont - más játékokkal szemben (pl. MMO-k) - az osu! **NEM** ad senkinek semmilyen előnyt. Egy természetes adottságokkal rendelkező, rendkívül ügyes 10-es szintű játékos akár megverhet egy 100-as szintűt is (a szint tehát csak azt mutatja, hogy a 100-as szintű játékos többet játszott online). Ezen felül több pontot kapsz ha magasabb kombót érsz el (több kört találsz el egymás után, hibázás nélkül).
+### Teljesítménypontok (PP)
+_Teljes magyarázat: [Performance Points][Performance_Points wikilink]_
 
-Teljesítménypontok (PP)
------------------------
+A teljesítménypontok tulajdonképpen egy játékos versenyképességét megmérő pontok. Arra irányul, hogy a tényleges képességre fókuszáljon a játszott idő helyett. A pontok kiszámolása erősen függ a map nehézségétől ami egyedi algoritmusokkal van számolva játékmódonként. Ezt a nehézséget, alapul véve minden pontot, osztályozva van és hozzá van rendelve egy pp érték. A teljesítmény rangod főleg a különböző map-eken lévő teljesítményedtől függ. A legkönyebb út, hogy fejlődj az, ha javítod a pontjaidat nehezebb map-eken. Jegyezd meg, hogy a játékmódok külön vannak számolva \[ami azt jelenti, hogy (osu!/osu!taiko/osu!catch/osu!mania)-t játszva az (osu!/osu!taiko/osu!catch/osu!mania) pp-je növekszik\].
 
-*Teljes magyarázat: [Performance Points](HU:Performance_Points "wikilink")*
+Ha kérdésed van a pp-vel kapcsolatban, akkor olvasd el a [wiki oldalát][Performance_Points#FAQ wikilink] először.
 
-A teljesítménypontok tulajdonképpen egy játékos versenyképességét megmérő pontok. Minél többet szerzel belőlük, annál előrébb kerülsz rangban a többi játékoshoz viszonyítva. A pontok kiszámítása sokféleképp történhet, de egy dolgot tarts észben: **lehet** hogy kapsz pontokat, ha jó helyezést érsz el bármilyen rankolt mapen. A legtöbb esetben egy megfelelő helyezés eléréséhez full kombóznod (FC) kell a mapet (ne tévessz egyet sem), így a lehető legmagasabb pontszámot szerzed (a kombó szorzó miatt). Egy játékos 99% pontossággal, aki eltévesztett **egyetlen** kört valahol a szám közepén lehet, hogy kevesebb pontot kap, mint egy 80%-os pontosságú, aki nem tévesztett egyet sem. A ponteltérés (pl. 3.8 millió vs. 5.0 millió) elég feltűnő lesz, ha a szám hosszú (3 ~ 5 perc). Az is lehet, hogy nehézséget növelő modokat (pl. [HR](HU:HR "wikilink"), [HD](HU:HD "wikilink")) kell használj, hogy még magasabb pontszámot kapj!
+### Pontosság (Accuracy)
+_Teljes magyarázat: [Accuracy][Accuracy wikilink]_
 
-Pontosság
----------
+![Egy kép ami egy játékos pontosságát mutatja miután befejezett egy map-et.][Accuracy results image]
 
-*Teljes magyarázat: [Accuracy](HU:Accuracy "wikilink")* <img src="Accuracy.png" title="fig:Right|A játékos pontossága|alt=Egy játékos pontosságát mutató képernyőkép, egy beatmap végigjátszása után." alt="Right|A játékos pontossága|alt=Egy játékos pontosságát mutató képernyőkép, egy beatmap végigjátszása után." width="110" />
+Ez a mérés az átlagos pontosság egy játékos által játszott összes rangsorolt pontszám között. Két típusra oszlik: a játékos össz pontossága és a pp pontossága. A játékon belül a saját paneleden a pp pontosságot látod. Egy játékos össz.-pontosságának megtekintéséhez meg kell látogatnod az "Online Results" részt egy beatmap végigjátszása után, vagy a saját felhasználói oldaladat. Az osu!-ban a pontosság nem csak a célzásod pontosságát, hanem az időzítésed pontosságát is jelöli, szóval fontos hogy a note-okat tökéletes ütemre kapd el. Fordíts extra figyelmet az "Approach Circle"-ökre!
 
-A pontosság az összes lejátszott rankolt beatmap átlagos pontossága alapján kerül kiszámításra. Két típusra oszlik: a játékos összpontossága és a pp pontossága. A játékon belül megtekintve a pp pontosságát láthatod. A teljes pontosság megtekintéséhez meg kell látogatnod az "Online Results" részt egy beatmap végigjátszása után, vagy a saját fórum oldaladat. Az osu!-ban a pontosság nem csak a célzásod pontosságát, hanem az időzítésed pontosságát is jelöli, szóval figyelj jól a közelítő körökre!
+### Jutalmak (Achievements)
+_Teljes magyarázat: [Achievements][Achievements wikilink]_
 
-Achievement-ek/Jutalmak
------------------------
+Az achievement-ek kis kitűzők a profilon, amelyek a kiváló teljesítményt képviselik. Többféleképpen is feloldhatók, például sok játékkal vagy egy bizonyos kombószám elérésével egy beatmap-en. Ha megfeleltél a feltételeknek azonnal meg is kapod az achievement-ed, amelyet a beatmap végigjátszása után az eredmény képernyő közepén, vagy a profil oldaladon az Achievements rész alatt láthatsz. Különösen izgalmas részük a "Hush-Hush" achievement-ek, amelyek követelményei nem ismertek és neked kell rájönnöd, hogyan szerezheted meg őket. Megszerzésük meglehetősen nehéz, viszont annál jobb érzés, mikor végre kapsz egyet.
 
-*Teljes magyarázat: [Achievements](HU:Achievements "wikilink")*
+**Megjegyzés:** Achievement-eket csak akkor kapsz, ha online játszol, bejelentkezve.
 
-Az achievement-ek kis kitűzők a profil oldalon amelyek jelzik, hogy valaki kiváló teljesítményt produkált. Többféleképpen is feloldhatók, például sok játékkal vagy egy bizonyos kombószám elérésével egy beatmapen. Ha megfeleltél a feltételeknek azonnal meg is kapod az achievement-ed, amelyet a beatmap végigjátszása után az eredmény képernyőn alul, vagy a profil oldaladon az Achievements rész alatt láthatsz. Különösen izgalmas részük a "Hush-Hush" ("Csitt-Csitt") achievement-ek, amelyek követelményei nem ismertek és neked kell rájönnöd, hogyan szerezheted meg őket. Megszerzésük meglehetősen nehéz, viszont annál jobb érzés, mikor végre kapsz egyet.
+## Chat
+_Teljes magyarázat: [Chat Console][Chat_Console wikilink]_
 
-**Megjegyzés:** Achievement-eket csak akkor kapsz ha online játszol, bejelentkezve.
+A chat konzol alapjainak ismerése fontos, ha új barátokra akarsz szert tenni. Abban az esetben sem árt ha tudod használni, ha valaki üzenetet küld neked, tippeket adva, vagy segítséget kérve. A képernyő jobb alsó sarkában lévő gombbal nyithatod meg a chatet, de gyorsabb, ha megnyomod az F8 gombot. 
 
-Chat
-====
+Alapból meg lesz nyitva néhány fül, például "\#osu!", "\#announce", "\#userlog" vagy ha beszélgetsz valakivel, az illető neve szintén egy külön fülön lesz. A fülek közti navigálás egyszerű, csak kattints az egyikre, írd be az üzeneted és nyomj ENTER-t, hogy elküld az üzenetet a nyitott fülbe. Kérjük, hogy ne spam-elj, mivel ez automatikusan el fog némítani egy pár percre, illetve a "munkád gyümölcsét" is el fogja távolítani. A jelenleg online lévő felhasználók listájának megtekintéséhez nyomd meg az F9 gombot (kibővített chat konzol) és itt szűrőket is használhatsz, hogy leszűkítsd a listát.
 
-*Teljes magyarázat: [Chat Console](HU:Chat_Console "wikilink")*
+![Chat konzol barátlista][Chat_Console friendlist image]
 
-A chat konzol alapjainak ismerése fontos, ha új barátokra akarsz szert tenni. Abban az esetben sem árt ha tudod használni, ha valaki üzenetet küld neked (nem túl valószínű, hacsak nem vagy közismert), tippeket adva vagy segítséget kérve. A képernyő jobb alsó sarkában lévő gombbal nyithatod meg a chatet, de gyorsabb, ha megnyomod az F8 gombot. Alapból meg lesz nyitva néhány fül, például "\#osu!", "\#announce", "\#userlog". **A magyar közösség csatornáját "\#Hungarian" név alatt találod.** Ha beszélgetsz valakivel, az illető neve szintén egy külön fülön lesz. A fülek közti navigálás egyszerű, csak kattints az egyikre, írd be az üzeneted és nyomj ENTER-t. Kérjük, hogy ne spam-elj (rövid üzenetek folyamatos küldözgetése a chatbe), mivel ez automatikusan el fog némítani egy pár percre, illetve "kemény munkád gyümölcsét" is el fogja távolítani. A felhasználók listájának megtekintéséhez nyomd meg az F9 gombot (kibővített chat konzol). Itt szűrőket is használhatsz, hogy leszűkítsd a listát.
+Ezek az alapok, ne légy szégyenlős segítsége kérni akár játékon belül, akár a fórumon. A wiki-t is olvasgathatod, ha jobban meg szeretnéd érteni a játékot.
 
-![](friend-list.png "friend-list.png")
+## Beatmapping (Edit)
+_Teljes magyarázat: [Beatmapping][Beatmapping wikilink]_
 
-Ezek az alapok. Ne légy szégyellős, nyugodtan kérj segítséget akár játékon belül, akár a fórumon. A wiki-t is olvasgathatod, ha jobban meg szeretnéd érteni a játékot.
+Az osu! bárki számára lehetővé teszi a beatmap-ek készítését. Ha úgy gondolod kreatív vagy és szívesen tanulsz, akkor neki is láthatsz. A kezdéshez egyszerűen válaszd a főmenüben a "Szerkesztés" (Edit) lehetőséget, majd húzd a zene **.mp3** fájlját a szerkesztőbe. Frissül és már láthatod is az üres mapet a te számod címével. A beatmapping azonban egy _nagyon_ komplikált folyamat amihez szenvedély is kell, így ezen az oldalon bővebben nem lesz róla szó. A legjobb mód az, ha te magad is kipróbálod. [Ezen a linken][Beatmapping/Modding: Guide Compendium link] hasznos útmutatókat találhatsz a kezdéshez. A Szerkesztés módot egyébként arra is használhatod, hogy közelebbről szemügyre vegyél egy beatmapet, vagy akár csak azt a részét, ahol mindig elbuksz.  Egyébként **Próbáld kerülni a rank-elt beatmapek szerkesztését**, mert vissza fognak állni **nem rank-elt** állapotba (persze csak a te gépeden), és nem fogsz értük pp-t és pontosságot kapni, amíg nem frissíted őket.
 
-Beatmapping
-===========
-
-*Teljes magyarázat: [Beatmapping](HU:Beatmapping "wikilink")*
-
-Az osu! bárki számára lehetővé teszi beatmapek készítését. Ha úgy gondolod kreatív vagy és szívesen tanulsz, akkor neki is láthatsz. A kezdéshez egyszerűen válasz a főmenüben az "Edit" (Szerkesztés) lehetőséget, majd húzd a szám **.mp3** fájlját a szerkesztőbe. Nyomj F5-öt a frissítéshez és már láthatsz is egy üres mapet a te számod címével. A beatmapping azonban egy *nagyon* komplikált folyamat, valamint szenvedélyes is kell legyél vele kapcsolatban, így ezen az oldalon bővebben nem lesz róla szó. A tanulás legjobb módja az, ha magad is kipróbálod. [Ezen a linken](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=60228) hasznos útmutatókat találhatsz a kezdéshez. A Szerkesztés módot egyébként arra is használhatod, hogy közelebbről szemügyre vegyél egy beatmapet, vagy akár csak azt a részét, ahol mindig elbuksz.**Próbáld kerülni a rankolt beatmapek szerkesztését**. mert vissza fognak állni **nem rankolt** állapotba (persze csak helyileg, a te gépeden), és nem fogsz értük pontokat kapni, amíg nem frissíted őket.
-
-Hasznos linkek
-==============
-
-Itt van egy pár hasznos link az utazásod megkezdéséhez:-
-
--   [Beginner Training](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - válogatott, kezdőknek szánt beatmapek.
--   [Beatmap Csomagok](http://osu.ppy.sh/p/packlist) - Közös témájú, előre csomagolt beatmapek.
--   [Beatmap Lista](http://osu.ppy.sh/p/beatmaplist) - Itt tölthetsz le új beatmapeket (számokat) a játékhoz.
--   [Gyakran Ismételt Kérdések (GYIK)](/wiki/FAQ) - a játék alapjai.
--   [osu!academy](HU:Osu!academy "wikilink") - Videók, amelyek segítségével megismerheted az osu! minden részét.
+## Hasznos linkek
+Itt van egy pár hasznos link az utazásod megkezdéséhez:
+-   [Kezdő gyakorlás](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis") - válogatott, kezdőknek szánt beatmap-ek.
+-   [Beatmap Csomagok][Packlist link] - Közös témájú, előre csomagolt beatmap-ek.
+-   [Beatmap Lista][Beatmaplist link] - Itt tölthetsz le új beatmapek-et (számokat) a játékhoz.
+-   [Gyakran Ismételt Kérdések (GYIK)][FAQ wikilink] - a játék alapjai.
+-   [Szótár][Glossary wikilink] - Kerülj kapcsolatba az osu! szókincsével!
+-   [osu!academy][osu!academy wikilink] - Videók, amelyek segítségével megismerheted az osu! minden részét.
+-   [Tippek és Trükkök hogy elkezd az osu!-t][Beginner wikilink] - Kell egy kis segítség? Nézz be ide!
