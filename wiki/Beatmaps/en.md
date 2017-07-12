@@ -1,12 +1,12 @@
 # Beatmaps
 
-Beatmaps, or _map_ for short, are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games).
-In their most basic form, beatmaps have a song various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music.
+Beatmaps, or _maps_ for short, are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games).
+In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music.
 They can also have a background image, video, and/or [storyboard](/wiki/storyboards).
 
 Creators of beatmaps are called beatmappers or mappers for short.
 Beatmaps are uploaded for everyone to see and play with using the [BSS](/wiki/BSS), and are then [modded](/wiki/modded).
-If and once a beatmap is deemed good enough, it is [ranked](#ranked) or, if fulfilling certain criteria, [approved](#approved).
+Once a beatmap is deemed good enough, it is [ranked](#ranked) or if fulfilling certain criteria, [approved](#approved).
 
 You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu!web.
 
@@ -17,7 +17,7 @@ They can influence the stats on a player's profile which is what makes them diff
 
 ### Ranked
 
-Ranked beatmaps use the NAMEOFICON icon (![NAMEOFICON icon](/wiki/shared/ranked.gif)) in the song select screen.
+Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/ranked.gif)) in the song select screen.
 
 These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_criteria).
 This is to ensure that most players can expect a certain kind of standard while playing them.
