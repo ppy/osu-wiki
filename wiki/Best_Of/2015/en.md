@@ -428,7 +428,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |412|328597|[l ACE l - Fuck Her Right in the Pu**y (#Selfie & Freaks Remix) (Euny)](https://osu.ppy.sh/s/328597/ "l ACE l - Fuck Her Right in the Pu**y (#Selfie & Freaks Remix) (Euny)")|0.98|584|10475|
 |413|303113|[GARNiDELiA - MIRAI (TV size ver.) (Kocari)](https://osu.ppy.sh/s/303113/ "GARNiDELiA - MIRAI (TV size ver.) (Kocari)")|0.98|154|4148|
 |414|59794|[Dia Frampton - Billy the Kid (ezek)](https://osu.ppy.sh/s/59794/ "Dia Frampton - Billy the Kid (ezek)")|0.98|29|1251|
-|415|331872|[SawanoHiroyuki(nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) [captin1)](https://osu.ppy.sh/s/331872/ "SawanoHiroyuki(nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) [captin1)")|0.98|311|6945|
+|415|331872|[SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1)](https://osu.ppy.sh/s/331872/ "SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1)")|0.98|311|6945|
 |416|352479|[Yun*chi - Your song* (Beomsan)](https://osu.ppy.sh/s/352479/ "Yun*chi - Your song* (Beomsan)")|0.98|111|3381|
 |417|253313|[LiSA - EGOiSTiC SHOOTER (Asphyxia)](https://osu.ppy.sh/s/253313/ "LiSA - EGOiSTiC SHOOTER (Asphyxia)")|0.98|431|12386|
 |418|336743|[Nishino Kana - Believe (samplefish)](https://osu.ppy.sh/s/336743/ "Nishino Kana - Believe (samplefish)")|0.98|108|3161|
@@ -508,7 +508,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |492|297204|[ULTRA TOWER - Kibou no Uta(TV anime Ver.) (eINess)](https://osu.ppy.sh/s/297204/ "ULTRA TOWER - Kibou no Uta(TV anime Ver.) (eINess)")|0.97|479|8245|
 |493|199535|[Seiryu - Critical Crystal (Priti)](https://osu.ppy.sh/s/199535/ "Seiryu - Critical Crystal (Priti)")|0.97|589|13290|
 |494|205022|[Ryu* - Sakura Mirage (Priti)](https://osu.ppy.sh/s/205022/ "Ryu* - Sakura Mirage (Priti)")|0.97|402|11074|
-|495|264147|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [Umi)](https://osu.ppy.sh/s/264147/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [Umi)")|0.97|345|10450|
+|495|264147|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (Umi)](https://osu.ppy.sh/s/264147/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (Umi)")|0.97|345|10450|
 |496|175671|[Sakaue Nachi - Crazy Hot (Sakaue Nachi)](https://osu.ppy.sh/s/175671/ "Sakaue Nachi - Crazy Hot (Sakaue Nachi)")|0.97|83|3504|
 |497|179639|[MAN WITH A MISSION - database feat. TAKUMA(10-FEET) (Reditum)](https://osu.ppy.sh/s/179639/ "MAN WITH A MISSION - database feat. TAKUMA(10-FEET) (Reditum)")|0.97|203|4423|
 |498|337700|[ArsMagna - Himitsu o Choudai (Kyubey)](https://osu.ppy.sh/s/337700/ "ArsMagna - Himitsu o Choudai (Kyubey)")|0.97|204|5317|
@@ -857,7 +857,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |841|158055|[Fish Leong - Nuan Nuan (liangv587)](https://osu.ppy.sh/s/158055/ "Fish Leong - Nuan Nuan (liangv587)")|0.94|12|439|
 |842|337250|[TrySail - Cobalt TV Size (Rizia)](https://osu.ppy.sh/s/337250/ "TrySail - Cobalt TV Size (Rizia)")|0.94|71|4732|
 |843|374298|[July - Snow Rain (Regraz)](https://osu.ppy.sh/s/374298/ "July - Snow Rain (Regraz)")|0.94|50|1333|
-|844|259907|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size-English ver.-) [xxdeathx)](https://osu.ppy.sh/s/259907/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size-English ver.-) [xxdeathx)")|0.94|252|11310|
+|844|259907|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size-English ver.-) (xxdeathx)](https://osu.ppy.sh/s/259907/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size-English ver.-) (xxdeathx)")|0.94|252|11310|
 |845|303219|[mimimemeMIMI - CANDY MAGIC (Lanturn)](https://osu.ppy.sh/s/303219/ "mimimemeMIMI - CANDY MAGIC (Lanturn)")|0.94|248|7671|
 |846|271183|[Mr.Kitty - Insects (-Bakari-)](https://osu.ppy.sh/s/271183/ "Mr.Kitty - Insects (-Bakari-)")|0.94|21|1282|
 |847|296299|[Chikyuseifukubu - I miss you no 3 Meter (m1223961117)](https://osu.ppy.sh/s/296299/ "Chikyuseifukubu - I miss you no 3 Meter (m1223961117)")|0.94|21|1742|
@@ -868,7 +868,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |852|225566|[Gavin G - Climax (Inyuschan)](https://osu.ppy.sh/s/225566/ "Gavin G - Climax (Inyuschan)")|0.94|151|6606|
 |853|156235|[Yooh - snow storm -euphoria- (-Chata-)](https://osu.ppy.sh/s/156235/ "Yooh - snow storm -euphoria- (-Chata-)")|0.94|166|8559|
 |854|281857|[Katakiri Rekka & Suzuyu - Girl meets Love (Momovely)](https://osu.ppy.sh/s/281857/ "Katakiri Rekka & Suzuyu - Girl meets Love (Momovely)")|0.94|61|4720|
-|855|260149|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [TT Mouse)](https://osu.ppy.sh/s/260149/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [TT Mouse)")|0.94|24|2299|
+|855|260149|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (TT Mouse)](https://osu.ppy.sh/s/260149/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (TT Mouse)")|0.94|24|2299|
 |856|374683|[Breaking Benjamin - Breath (pishifat)](https://osu.ppy.sh/s/374683/ "Breaking Benjamin - Breath (pishifat)")|0.94|240|5443|
 |857|358680|[Ryo-kun - Caramel Heaven (Regraz)](https://osu.ppy.sh/s/358680/ "Ryo-kun - Caramel Heaven (Regraz)")|0.94|185|6107|
 |858|247165|[Rise Against - Making Christmas (BOUYAAA)](https://osu.ppy.sh/s/247165/ "Rise Against - Making Christmas (BOUYAAA)")|0.94|92|3946|
@@ -911,7 +911,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |895|204319|[Strangers feat. Myles Travitz - Frightmare (Shadren)](https://osu.ppy.sh/s/204319/ "Strangers feat. Myles Travitz - Frightmare (Shadren)")|0.94|227|8281|
 |896|363873|[Yamazaki Haruka, Tadokoro Azusa, Machico - Dreaming! (hvick225)](https://osu.ppy.sh/s/363873/ "Yamazaki Haruka, Tadokoro Azusa, Machico - Dreaming! (hvick225)")|0.94|106|6581|
 |897|265859|[SCREEN mode - LOVEST(TV Size Ver.) (Sieg)](https://osu.ppy.sh/s/265859/ "SCREEN mode - LOVEST(TV Size Ver.) (Sieg)")|0.94|26|2317|
-|898|261145|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [ZZHBOY)](https://osu.ppy.sh/s/261145/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [ZZHBOY)")|0.94|122|5897|
+|898|261145|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (ZZHBOY)](https://osu.ppy.sh/s/261145/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (ZZHBOY)")|0.94|122|5897|
 |899|336810|[Falcom Sound Team jdk - Gin no Ishi (Lily Bread)](https://osu.ppy.sh/s/336810/ "Falcom Sound Team jdk - Gin no Ishi (Lily Bread)")|0.94|37|1740|
 |900|340263|[Rootkit - Against The Sun (feat. Anna Yvette) (ZLOdeuka-)](https://osu.ppy.sh/s/340263/ "Rootkit - Against The Sun (feat. Anna Yvette) (ZLOdeuka-)")|0.94|212|7762|
 |901|310934|[ITO KASHITARO - Replica (appleeaterx)](https://osu.ppy.sh/s/310934/ "ITO KASHITARO - Replica (appleeaterx)")|0.94|43|2411|
@@ -1039,7 +1039,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1023|304606|[Houkago Rakuenbu - Houkago Kakumei (Pho)](https://osu.ppy.sh/s/304606/ "Houkago Rakuenbu - Houkago Kakumei (Pho)")|0.93|36|4148|
 |1024|298770|[Ushirokara Haiyoritai G - Haiyore Once Nyagain (wcx19911123)](https://osu.ppy.sh/s/298770/ "Ushirokara Haiyoritai G - Haiyore Once Nyagain (wcx19911123)")|0.93|61|4406|
 |1025|159536|[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Frey)](https://osu.ppy.sh/s/159536/ "Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Frey)")|0.93|49|2555|
-|1026|275507|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [Haruto_Aizawa)](https://osu.ppy.sh/s/275507/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size) [Haruto_Aizawa)")|0.93|79|4664|
+|1026|275507|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (Haruto_Aizawa)](https://osu.ppy.sh/s/275507/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size) (Haruto_Aizawa)")|0.93|79|4664|
 |1027|240160|[nano - Silence (Tari)](https://osu.ppy.sh/s/240160/ "nano - Silence (Tari)")|0.92|75|3416|
 |1028|304672|[zts - resurrectedreplayer (EvilElvis)](https://osu.ppy.sh/s/304672/ "zts - resurrectedreplayer (EvilElvis)")|0.92|42|2080|
 |1029|301072|[Renard - PIZZZZZZZZ (Snaggletooth)](https://osu.ppy.sh/s/301072/ "Renard - PIZZZZZZZZ (Snaggletooth)")|0.92|155|7696|
@@ -1279,7 +1279,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1263|177490|[Chata - Reviver (DakeDekaane)](https://osu.ppy.sh/s/177490/ "Chata - Reviver (DakeDekaane)")|0.91|8|1724|
 |1264|70259|[cubesato - hsgn2011reel ([Ranger])](https://osu.ppy.sh/s/70259/ "cubesato - hsgn2011reel ([Ranger])")|0.91|29|1488|
 |1265|303236|[Shapeshifter - Monarch (Secretpipe)](https://osu.ppy.sh/s/303236/ "Shapeshifter - Monarch (Secretpipe)")|0.91|12|2045|
-|1266|260881|[SawanoHiroyuki(nZk]:mizuki - &Z (TV size-English ver.-) [Pho)](https://osu.ppy.sh/s/260881/ "SawanoHiroyuki(nZk]:mizuki - &Z (TV size-English ver.-) [Pho)")|0.91|20|2259|
+|1266|260881|[SawanoHiroyuki[nZk]:mizuki - &Z (TV size-English ver.-) (Pho)](https://osu.ppy.sh/s/260881/ "SawanoHiroyuki[nZk]:mizuki - &Z (TV size-English ver.-) (Pho)")|0.91|20|2259|
 |1267|331082|[Saosin - Collapse (pishifat)](https://osu.ppy.sh/s/331082/ "Saosin - Collapse (pishifat)")|0.91|29|4437|
 |1268|248786|[Jason Chen x Megan Nicole - La La La (Pappy)](https://osu.ppy.sh/s/248786/ "Jason Chen x Megan Nicole - La La La (Pappy)")|0.91|73|3243|
 |1269|289964|[Kawada Mami - triangle -TV size- (Inyuschan)](https://osu.ppy.sh/s/289964/ "Kawada Mami - triangle -TV size- (Inyuschan)")|0.91|7|1249|
@@ -1363,7 +1363,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1347|290066|[ViRUS! - Ruchki (Lally)](https://osu.ppy.sh/s/290066/ "ViRUS! - Ruchki (Lally)")|0.90|39|1752|
 |1348|192347|[Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn)](https://osu.ppy.sh/s/192347/ "Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn)")|0.90|42|3239|
 |1349|287554|[Doin - Leakage Voltage (Sangzin)](https://osu.ppy.sh/s/287554/ "Doin - Leakage Voltage (Sangzin)")|0.90|10|1311|
-|1350|315012|[SawanoHiroyuki(nZk]:mizuki - &Z [-Nya-)](https://osu.ppy.sh/s/315012/ "SawanoHiroyuki(nZk]:mizuki - &Z [-Nya-)")|0.90|76|3430|
+|1350|315012|[SawanoHiroyuki[nZk]:mizuki - &Z (-Nya-)](https://osu.ppy.sh/s/315012/ "SawanoHiroyuki[nZk]:mizuki - &Z (-Nya-)")|0.90|76|3430|
 |1351|340494|[Sumire Uesaka - Inner Urge TV size mix (Flask)](https://osu.ppy.sh/s/340494/ "Sumire Uesaka - Inner Urge TV size mix (Flask)")|0.90|79|3902|
 |1352|319822|[Okui Masami - TREASURE BOX (kunkakunkakunkakunka)](https://osu.ppy.sh/s/319822/ "Okui Masami - TREASURE BOX (kunkakunkakunkakunka)")|0.90|34|2380|
 |1353|225575|[fhana - Hoshikuzu no Interlude (Crystal)](https://osu.ppy.sh/s/225575/ "fhana - Hoshikuzu no Interlude (Crystal)")|0.90|7|1157|

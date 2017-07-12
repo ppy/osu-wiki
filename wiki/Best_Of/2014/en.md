@@ -8,7 +8,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!standard
 
-|Placing|Votes|Beatmap|
+|No.|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
 |2|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
@@ -111,7 +111,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |99|475|[Omoi - Nee William (Yales)](http://osu.ppy.sh/s/164155/ "Omoi - Nee William (Yales)")|
 |100|472|[Dzeko & Torres - 2013 In 10 Minutes (Aleks719)](http://osu.ppy.sh/s/159357/ "Dzeko & Torres - 2013 In 10 Minutes (Aleks719)")|
 |101|471|[Mayama Rika - Liar Mask anime size (Setsurei)](http://osu.ppy.sh/s/222671/ "Mayama Rika - Liar Mask anime size (Setsurei)")|
-|102|469|[Demetori - Kanjou no Matenrou ~ World's End (GoldenWolf)](http://osu.ppy.sh/s/133693/ "Demetori - Kanjou no Matenrou ~ World's End (GoldenWolf)")|
+|102|469|[Demetori - Kanjou no Matenrou \~ World's End (GoldenWolf)](http://osu.ppy.sh/s/133693/ "Demetori - Kanjou no Matenrou \~ World's End (GoldenWolf)")|
 |103|467|[Renard - Terminal (nold_1702)](http://osu.ppy.sh/s/102282/ "Renard - Terminal (nold_1702)")|
 |104|467|[Stan SB - Dead (ProfessionalBox)](http://osu.ppy.sh/s/163914/ "Stan SB - Dead (ProfessionalBox)")|
 |105|460|[yanaginagi - Tokohana (TV Size) (xChippy)](http://osu.ppy.sh/s/166583/ "yanaginagi - Tokohana (TV Size) (xChippy)")|
@@ -228,7 +228,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |216|253|[marina - Towa yori Towa ni (Garven)](http://osu.ppy.sh/s/143370/ "marina - Towa yori Towa ni (Garven)")|
 |217|251|[Cutline - Die For You (Shock One Remix) (Katty Pie)](http://osu.ppy.sh/s/155285/ "Cutline - Die For You (Shock One Remix) (Katty Pie)")|
 |218|251|[Nishino Kana - Darling (Giralda)](http://osu.ppy.sh/s/209810/ "Nishino Kana - Darling (Giralda)")|
-|219|251|[Kalafina - heavenly blue ~TVsize~ (Lust)](http://osu.ppy.sh/s/194861/ "Kalafina - heavenly blue ~TVsize~ (Lust)")|
+|219|251|[Kalafina - heavenly blue \~TVsize\~ (Lust)](http://osu.ppy.sh/s/194861/ "Kalafina - heavenly blue \~TVsize\~ (Lust)")|
 |220|248|[Tune Up! vs. ItaloBrothers - Colours of the Rainbow (Nightcore Mix) (Kazuya)](http://osu.ppy.sh/s/208123/ "Tune Up! vs. ItaloBrothers - Colours of the Rainbow (Nightcore Mix) (Kazuya)")|
 |221|248|[Various Artists - Nightcore Mix Compilation (Andrea)](http://osu.ppy.sh/s/185177/ "Various Artists - Nightcore Mix Compilation (Andrea)")|
 |222|246|[DJ Genericname - Dear You (Taiwan-NAK)](http://osu.ppy.sh/s/153316/ "DJ Genericname - Dear You (Taiwan-NAK)")|
@@ -240,7 +240,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |228|240|[Draw the Emotional - Morning glow (UnitedWeSin)](http://osu.ppy.sh/s/146626/ "Draw the Emotional - Morning glow (UnitedWeSin)")|
 |229|237|[DJ TOTTO feat. Sunao Yoshikawa - Arousing (fanzhen0019)](http://osu.ppy.sh/s/148092/ "DJ TOTTO feat. Sunao Yoshikawa - Arousing (fanzhen0019)")|
 |230|237|[Cascada - Big Bad Love (Nightcore Mix) (Inyuschan)](http://osu.ppy.sh/s/191541/ "Cascada - Big Bad Love (Nightcore Mix) (Inyuschan)")|
-|231|236|[Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu)](http://osu.ppy.sh/s/184498/ "Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu)")|
+|231|236|[Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix (Gamu)](http://osu.ppy.sh/s/184498/ "Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix (Gamu)")|
 |232|235|[Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! (Jenny)](http://osu.ppy.sh/s/109373/ "Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! (Jenny)")|
 |233|234|[LiSA - traumerei (Knotts)](http://osu.ppy.sh/s/204925/ "LiSA - traumerei (Knotts)")|
 |234|232|[HHHxMMxST - Oboro (ExUsagi)](http://osu.ppy.sh/s/217956/ "HHHxMMxST - Oboro (ExUsagi)")|
@@ -256,7 +256,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |244|225|[kors k - Insane Techniques (captin1)](http://osu.ppy.sh/s/155288/ "kors k - Insane Techniques (captin1)")|
 |245|225|[ave;new feat. Sakura Saori - Shokuzai Belladonna (Tsukuyomi)](http://osu.ppy.sh/s/123078/ "ave;new feat. Sakura Saori - Shokuzai Belladonna (Tsukuyomi)")|
 |246|224|[Cyua - Blumenkranz (Shinxyn)](http://osu.ppy.sh/s/155034/ "Cyua - Blumenkranz (Shinxyn)")|
-|247|223|[EastNewSound - Eisou Youga ~Meikyou Shisui~ (Forseen)](http://osu.ppy.sh/s/83130/ "EastNewSound - Eisou Youga ~Meikyou Shisui~ (Forseen)")|
+|247|223|[EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen)](http://osu.ppy.sh/s/83130/ "EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen)")|
 |248|223|[TRakker - Rootus (Amamiya Yuko)](http://osu.ppy.sh/s/159325/ "TRakker - Rootus (Amamiya Yuko)")|
 |249|223|[Comp - Touchuu Aika (Mao)](http://osu.ppy.sh/s/198700/ "Comp - Touchuu Aika (Mao)")|
 |250|223|[Caravan Palace - Clash (Loctav)](http://osu.ppy.sh/s/94906/ "Caravan Palace - Clash (Loctav)")|
@@ -333,7 +333,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |321|179|[LeaF - Calamity Fortune (Krah)](http://osu.ppy.sh/s/114741/ "LeaF - Calamity Fortune (Krah)")|
 |322|179|[Jin feat. MARiA from GARNiDELiA - daze (short ver.) (luxoDeh)](http://osu.ppy.sh/s/165391/ "Jin feat. MARiA from GARNiDELiA - daze (short ver.) (luxoDeh)")|
 |323|179|[DECO*27 - Ai Kotoba II (Tsumetaku)](http://osu.ppy.sh/s/123354/ "DECO*27 - Ai Kotoba II (Tsumetaku)")|
-|324|179|[Gero - ~Outgrow~ (TV Size) (HabiHolic)](http://osu.ppy.sh/s/147763/ "Gero - ~Outgrow~ (TV Size) (HabiHolic)")|
+|324|179|[Gero - \~Outgrow\~ (TV Size) (HabiHolic)](http://osu.ppy.sh/s/147763/ "Gero - \~Outgrow\~ (TV Size) (HabiHolic)")|
 |325|178|[ZAQ - Sparkling Daydream (Natsu)](http://osu.ppy.sh/s/121906/ "ZAQ - Sparkling Daydream (Natsu)")|
 |326|178|[ClariS - STEP (TV Size) (Umi)](http://osu.ppy.sh/s/165379/ "ClariS - STEP (TV Size) (Umi)")|
 |327|178|[Hurts - Illuminated (Autumn)](http://osu.ppy.sh/s/157801/ "Hurts - Illuminated (Autumn)")|
@@ -350,7 +350,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |338|171|[Zektbach - L'avide (Mao)](http://osu.ppy.sh/s/123359/ "Zektbach - L'avide (Mao)")|
 |339|170|[DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep)](http://osu.ppy.sh/s/133445/ "DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep)")|
 |340|169|[SPYAIR - Last Moment (HabiHolic)](http://osu.ppy.sh/s/130114/ "SPYAIR - Last Moment (HabiHolic)")|
-|341|168|[Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion ([Hijiri Byakuren])](http://osu.ppy.sh/s/52401/ "Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion ([Hijiri Byakuren])")|
+|341|168|[Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion ([Hijiri Byakuren])](http://osu.ppy.sh/s/52401/ "Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion ([Hijiri Byakuren])")|
 |342|168|[Porter Robinson - Sad Machine (Ayu)](http://osu.ppy.sh/s/193396/ "Porter Robinson - Sad Machine (Ayu)")|
 |343|167|[P!nk - Try (- Melody)](http://osu.ppy.sh/s/123736/ "P!nk - Try (- Melody)")|
 |344|166|[REDALiCE - Acceleration (YunoFanatic)](http://osu.ppy.sh/s/145553/ "REDALiCE - Acceleration (YunoFanatic)")|
@@ -373,7 +373,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |361|159|[REDALiCE Feat. Ayumi Nomiya - Little Star (lil_yumika_lil)](http://osu.ppy.sh/s/134998/ "REDALiCE Feat. Ayumi Nomiya - Little Star (lil_yumika_lil)")|
 |362|159|[T.M.Revolution x Mizuki Nana - Preserved Roses -Anime Version- (Flask)](http://osu.ppy.sh/s/112416/ "T.M.Revolution x Mizuki Nana - Preserved Roses -Anime Version- (Flask)")|
 |363|159|[ESTi - HELIX (xeona)](http://osu.ppy.sh/s/137037/ "ESTi - HELIX (xeona)")|
-|364|159|[akari - boys, be "stand up"!! (Hollow Wings)](http://osu.ppy.sh/s/177585/ "akari - boys, be "stand up"!! (Hollow Wings)")|
+|364|159|[akari - boys, be \"stand up\"!! (Hollow Wings)](http://osu.ppy.sh/s/177585/ "akari - boys, be \"stand up\"!! (Hollow Wings)")|
 |365|157|[Tsunamaru - Daidai Genome (Lust)](http://osu.ppy.sh/s/221954/ "Tsunamaru - Daidai Genome (Lust)")|
 |366|157|[Ryu* - Second Heaven (Spy)](http://osu.ppy.sh/s/153971/ "Ryu* - Second Heaven (Spy)")|
 |367|157|[Wakeshima Kanon - killy killy JOKER (TV Size) (smallboat)](http://osu.ppy.sh/s/168253/ "Wakeshima Kanon - killy killy JOKER (TV Size) (smallboat)")|
@@ -384,11 +384,11 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |372|155|[yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy)](http://osu.ppy.sh/s/206335/ "yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy)")|
 |373|155|[Hanatan - Uta ni Katachi wa Nai keredo (Rakuen)](http://osu.ppy.sh/s/181430/ "Hanatan - Uta ni Katachi wa Nai keredo (Rakuen)")|
 |374|154|[yanaginagi - Tokohana (TV Size) (Sharlo)](http://osu.ppy.sh/s/172907/ "yanaginagi - Tokohana (TV Size) (Sharlo)")|
-|375|154|[MiddleIsland - Piano Concerto No.1 "Scream" (apaffy)](http://osu.ppy.sh/s/110126/ "MiddleIsland - Piano Concerto No.1 "Scream" (apaffy)")|
+|375|154|[MiddleIsland - Piano Concerto No.1 \"Scream\" (apaffy)](http://osu.ppy.sh/s/110126/ "MiddleIsland - Piano Concerto No.1 \"Scream\" (apaffy)")|
 |376|153|[u's - Snow halation (TV Size) (DJPop)](http://osu.ppy.sh/s/235098/ "u's - Snow halation (TV Size) (DJPop)")|
 |377|153|[nice job bro0o0o0o0o0o0o0 - sorry asap croissant (Maeglwn)](http://osu.ppy.sh/s/224283/ "nice job bro0o0o0o0o0o0o0 - sorry asap croissant (Maeglwn)")|
 |378|153|[Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (kamisamaaa)](http://osu.ppy.sh/s/130092/ "Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (kamisamaaa)")|
-|379|153|[Yukarinyan - Lolicon de Yokatta~ (Awaken)](http://osu.ppy.sh/s/187430/ "Yukarinyan - Lolicon de Yokatta~ (Awaken)")|
+|379|153|[Yukarinyan - Lolicon de Yokatta\~ (Awaken)](http://osu.ppy.sh/s/187430/ "Yukarinyan - Lolicon de Yokatta\~ (Awaken)")|
 |380|153|[Loos - Koi Yomi Zakura (_S u w a k o_)](http://osu.ppy.sh/s/128855/ "Loos - Koi Yomi Zakura (_S u w a k o_)")|
 |381|153|[Linkin Park - In My Remains (384059043)](http://osu.ppy.sh/s/108661/ "Linkin Park - In My Remains (384059043)")|
 |382|151|[Diana Vickers - The Boy Who Murdered Love (Chewin)](http://osu.ppy.sh/s/170775/ "Diana Vickers - The Boy Who Murdered Love (Chewin)")|
@@ -434,7 +434,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |422|135|[Pharrell Williams - Happy (CDFA)](http://osu.ppy.sh/s/170540/ "Pharrell Williams - Happy (CDFA)")|
 |423|135|[bibuko - Sorairo Gahou (val0108)](http://osu.ppy.sh/s/106010/ "bibuko - Sorairo Gahou (val0108)")|
 |424|135|[Ray - ebb and flow (TV Size) (-Umi-)](http://osu.ppy.sh/s/141284/ "Ray - ebb and flow (TV Size) (-Umi-)")|
-|425|135|[Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Momochikun)](http://osu.ppy.sh/s/191314/ "Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Momochikun)")|
+|425|135|[Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Momochikun)](http://osu.ppy.sh/s/191314/ "Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Momochikun)")|
 |426|134|[orangentle / Yu_Asahina - HAELEQUIN (Chocoliti)](http://osu.ppy.sh/s/174550/ "orangentle / Yu_Asahina - HAELEQUIN (Chocoliti)")|
 |427|134|[Pile - Aishiteru Banzai! (Prepro Piano Mix) (blissfulyoshi)](http://osu.ppy.sh/s/124806/ "Pile - Aishiteru Banzai! (Prepro Piano Mix) (blissfulyoshi)")|
 |428|133|[Hanatan - Kimi no Kiseki (ampzz)](http://osu.ppy.sh/s/80624/ "Hanatan - Kimi no Kiseki (ampzz)")|
@@ -481,7 +481,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |469|118|[Anan Ryoko - Refrain (Narcissu)](http://osu.ppy.sh/s/111386/ "Anan Ryoko - Refrain (Narcissu)")|
 |470|117|[yanaginagi - Tokohana (HabiHolic)](http://osu.ppy.sh/s/168201/ "yanaginagi - Tokohana (HabiHolic)")|
 |471|117|[SAKURA*TRICK - Won(*3*)Chu KissMe! (TV Size) (Sekai-nyan)](http://osu.ppy.sh/s/141757/ "SAKURA*TRICK - Won(*3*)Chu KissMe! (TV Size) (Sekai-nyan)")|
-|472|117|[Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Momovely)](http://osu.ppy.sh/s/191246/ "Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Momovely)")|
+|472|117|[Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Momovely)](http://osu.ppy.sh/s/191246/ "Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Momovely)")|
 |473|116|[AleatoireMixes - Medley of Ytpmv (ztrot)](http://osu.ppy.sh/s/98707/ "AleatoireMixes - Medley of Ytpmv (ztrot)")|
 |474|116|[MiddleIsland - Magnetic Shift (Natsu)](http://osu.ppy.sh/s/148535/ "MiddleIsland - Magnetic Shift (Natsu)")|
 |475|116|[Avril Lavigne - Hello Kitty (Irreversible)](http://osu.ppy.sh/s/172893/ "Avril Lavigne - Hello Kitty (Irreversible)")|
@@ -508,7 +508,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |496|110|[Sota Fujimori - WOBBLE IMPACT (Priti)](http://osu.ppy.sh/s/166337/ "Sota Fujimori - WOBBLE IMPACT (Priti)")|
 |497|110|[Shibayan feat. 3L - Love (truonant)](http://osu.ppy.sh/s/182633/ "Shibayan feat. 3L - Love (truonant)")|
 |498|110|[Wake Up, Girls! - 7 Girls War (Fycho)](http://osu.ppy.sh/s/169866/ "Wake Up, Girls! - 7 Girls War (Fycho)")|
-|499|109|[Amamiya Sora - Kanade ~TV size ver.~ (YoshinoSakura)](http://osu.ppy.sh/s/176339/ "Amamiya Sora - Kanade ~TV size ver.~ (YoshinoSakura)")|
+|499|109|[Amamiya Sora - Kanade \~TV size ver.\~ (YoshinoSakura)](http://osu.ppy.sh/s/176339/ "Amamiya Sora - Kanade \~TV size ver.\~ (YoshinoSakura)")|
 |500|108|[SPYAIR - JUST ONE LIFE (HabiHolic)](http://osu.ppy.sh/s/151320/ "SPYAIR - JUST ONE LIFE (HabiHolic)")|
 |501|108|[Harada Hitomi - Kyoumei No True Force (NoHitter)](http://osu.ppy.sh/s/192725/ "Harada Hitomi - Kyoumei No True Force (NoHitter)")|
 |502|108|[Akiyama Uni - Chi no Iro wa Kiiro (Hollow Wings)](http://osu.ppy.sh/s/119779/ "Akiyama Uni - Chi no Iro wa Kiiro (Hollow Wings)")|
@@ -528,7 +528,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |516|103|[u's - Sore wa Bokutachi no Kiseki (TV Size) (kaCha)](http://osu.ppy.sh/s/163680/ "u's - Sore wa Bokutachi no Kiseki (TV Size) (kaCha)")|
 |517|103|[Katakiri Rekka - (^3^)chu Dere Rhapsody (-Chata-)](http://osu.ppy.sh/s/51530/ "Katakiri Rekka - (^3^)chu Dere Rhapsody (-Chata-)")|
 |518|103|[Shano x 40mP - Natsukoi Hanabi (DevilA1r)](http://osu.ppy.sh/s/186896/ "Shano x 40mP - Natsukoi Hanabi (DevilA1r)")|
-|519|103|[senya - Higanbana ~Kurenai~ (Satellite)](http://osu.ppy.sh/s/174414/ "senya - Higanbana ~Kurenai~ (Satellite)")|
+|519|103|[senya - Higanbana \~Kurenai\~ (Satellite)](http://osu.ppy.sh/s/174414/ "senya - Higanbana \~Kurenai\~ (Satellite)")|
 |520|103|[YELL - Kanojo ga Flag o Tateru Wake (TV Size) (Yoshino-Sakura)](http://osu.ppy.sh/s/166500/ "YELL - Kanojo ga Flag o Tateru Wake (TV Size) (Yoshino-Sakura)")|
 |521|102|[MitiS - Elements of Thought (Original Mix) (Katty Pie)](http://osu.ppy.sh/s/165973/ "MitiS - Elements of Thought (Original Mix) (Katty Pie)")|
 |522|102|[Kayano Ai - Oracion(TV-Size) ([AyanoTatemaya])](http://osu.ppy.sh/s/197085/ "Kayano Ai - Oracion(TV-Size) ([AyanoTatemaya])")|
@@ -557,8 +557,8 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |545|95|[NEXON - Evil Tower 2 (ZZHBOY)](http://osu.ppy.sh/s/160734/ "NEXON - Evil Tower 2 (ZZHBOY)")|
 |546|94|[Komatsu Mikako - TRICK BOX (TV Size) (Andrea)](http://osu.ppy.sh/s/168576/ "Komatsu Mikako - TRICK BOX (TV Size) (Andrea)")|
 |547|94|[Minamotoya - Ray (CrazyStar)](http://osu.ppy.sh/s/176813/ "Minamotoya - Ray (CrazyStar)")|
-|548|94|[Erik "Jit" Scheele - Negastrife (P o M u T a)](http://osu.ppy.sh/s/133278/ "Erik "Jit" Scheele - Negastrife (P o M u T a)")|
-|549|94|[Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (kanpakyin)](http://osu.ppy.sh/s/191471/ "Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (kanpakyin)")|
+|548|94|[Erik \"Jit\" Scheele - Negastrife (P o M u T a)](http://osu.ppy.sh/s/133278/ "Erik \"Jit\" Scheele - Negastrife (P o M u T a)")|
+|549|94|[Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (kanpakyin)](http://osu.ppy.sh/s/191471/ "Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (kanpakyin)")|
 |550|94|[Griffin Lewis - Princess of the Night (Fatfan Kolek)](http://osu.ppy.sh/s/109570/ "Griffin Lewis - Princess of the Night (Fatfan Kolek)")|
 |551|94|[Poets Of The Fall - Carnival Of Rust (AlexaBM)](http://osu.ppy.sh/s/121075/ "Poets Of The Fall - Carnival Of Rust (AlexaBM)")|
 |552|93|[fhana - Hoshikuzu no Interlude (Fycho)](http://osu.ppy.sh/s/216214/ "fhana - Hoshikuzu no Interlude (Fycho)")|
@@ -604,7 +604,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |592|84|[ClariS - Colorful -movie MIX- (Moway)](http://osu.ppy.sh/s/127683/ "ClariS - Colorful -movie MIX- (Moway)")|
 |593|84|[Petit Rabbit's - Daydream cafe (TV Size) (Neta)](http://osu.ppy.sh/s/167836/ "Petit Rabbit's - Daydream cafe (TV Size) (Neta)")|
 |594|84|[mimimemeMIMI - Sentimental Love (Tari)](http://osu.ppy.sh/s/123956/ "mimimemeMIMI - Sentimental Love (Tari)")|
-|595|84|[Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Sekai-nyan)](http://osu.ppy.sh/s/191196/ "Team "Hanayamata" - Hana wa Odore ya Irohaniho (TVsize) (Sekai-nyan)")|
+|595|84|[Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Sekai-nyan)](http://osu.ppy.sh/s/191196/ "Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (TVsize) (Sekai-nyan)")|
 |596|83|[Nakagawa Shouko - Sorairo Days (smallboat)](http://osu.ppy.sh/s/184786/ "Nakagawa Shouko - Sorairo Days (smallboat)")|
 |597|83|[Rhodanthe* - Jumping!! (yf_bmp)](http://osu.ppy.sh/s/152595/ "Rhodanthe* - Jumping!! (yf_bmp)")|
 |598|83|[Black Raison d'etre - Van!shment Th!s World (TV Size) (Lust)](http://osu.ppy.sh/s/141956/ "Black Raison d'etre - Van!shment Th!s World (TV Size) (Lust)")|
@@ -687,7 +687,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |675|69|[kors k - Dot (Reiji-RJ)](http://osu.ppy.sh/s/184484/ "kors k - Dot (Reiji-RJ)")|
 |676|69|[sakuzyo - Scattered Rose (Leader)](http://osu.ppy.sh/s/123312/ "sakuzyo - Scattered Rose (Leader)")|
 |677|69|[yanaginagi - Aqua Terrarium (jonathanlfj)](http://osu.ppy.sh/s/130504/ "yanaginagi - Aqua Terrarium (jonathanlfj)")|
-|678|69|[Ray - lull ~Soshite Bokura wa~ (Delis)](http://osu.ppy.sh/s/172450/ "Ray - lull ~Soshite Bokura wa~ (Delis)")|
+|678|69|[Ray - lull \~Soshite Bokura wa\~ (Delis)](http://osu.ppy.sh/s/172450/ "Ray - lull \~Soshite Bokura wa\~ (Delis)")|
 |679|69|[fhana - Itsuka no, Ikutsuka no Kimi to no Sekai (Umi)](http://osu.ppy.sh/s/164692/ "fhana - Itsuka no, Ikutsuka no Kimi to no Sekai (Umi)")|
 |680|69|[Electric Six - Gay Bar (Deif)](http://osu.ppy.sh/s/129402/ "Electric Six - Gay Bar (Deif)")|
 |681|68|[Darren Korb - Terminal March (Sieg)](http://osu.ppy.sh/s/118227/ "Darren Korb - Terminal March (Sieg)")|
@@ -779,14 +779,14 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |767|55|[Gero - BELOVEDxSURVIVAL (Midasmens)](http://osu.ppy.sh/s/103342/ "Gero - BELOVEDxSURVIVAL (Midasmens)")|
 |768|54|[Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar)](http://osu.ppy.sh/s/184512/ "Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar)")|
 |769|54|[nano feat. MY FIRST STORY - SAVIOR OF SONG (TV Size) (- R u m i a -)](http://osu.ppy.sh/s/144589/ "nano feat. MY FIRST STORY - SAVIOR OF SONG (TV Size) (- R u m i a -)")|
-|770|54|[Suzaku - Anisakis -somatic mutation type "Forza"- ([ HalLoWeeN ])](http://osu.ppy.sh/s/107216/ "Suzaku - Anisakis -somatic mutation type "Forza"- ([ HalLoWeeN ])")|
+|770|54|[Suzaku - Anisakis -somatic mutation type \"Forza\"- ([ HalLoWeeN ])](http://osu.ppy.sh/s/107216/ "Suzaku - Anisakis -somatic mutation type \"Forza\"- ([ HalLoWeeN ])")|
 |771|54|[nano.RIPE - Nanairo Biyori (TV Ver.) (Vicho)](http://osu.ppy.sh/s/122723/ "nano.RIPE - Nanairo Biyori (TV Ver.) (Vicho)")|
 |772|54|[The Proclaimers - I'm Gonna Be (500 Miles) (Inyuschan)](http://osu.ppy.sh/s/220256/ "The Proclaimers - I'm Gonna Be (500 Miles) (Inyuschan)")|
 |773|54|[fripSide - HesitationSnow (17VA)](http://osu.ppy.sh/s/141050/ "fripSide - HesitationSnow (17VA)")|
 |774|54|[Nanamori-chu * Goraku-bu - Yuriyurarararayuruyuri Daijiken (TV Size) (Lokovodo)](http://osu.ppy.sh/s/146875/ "Nanamori-chu * Goraku-bu - Yuriyurarararayuruyuri Daijiken (TV Size) (Lokovodo)")|
 |775|54|[Duca - Dreamer Short ver. (CloudSplash16)](http://osu.ppy.sh/s/202595/ "Duca - Dreamer Short ver. (CloudSplash16)")|
 |776|54|[Mikami Shiori - Shiawase Gift (Setz206)](http://osu.ppy.sh/s/161526/ "Mikami Shiori - Shiawase Gift (Setz206)")|
-|777|54|[ZUN - Onbashira no Hakaba ~ Grave of Being (Totoro le Pacha)](http://osu.ppy.sh/s/120094/ "ZUN - Onbashira no Hakaba ~ Grave of Being (Totoro le Pacha)")|
+|777|54|[ZUN - Onbashira no Hakaba \~ Grave of Being (Totoro le Pacha)](http://osu.ppy.sh/s/120094/ "ZUN - Onbashira no Hakaba \~ Grave of Being (Totoro le Pacha)")|
 |778|53|[Miyazaki Ayumi - brave heart (Xinely)](http://osu.ppy.sh/s/107222/ "Miyazaki Ayumi - brave heart (Xinely)")|
 |779|53|[Owl City - Alligator Sky ft. Shawn Chrystopher (mancuso_JM_)](http://osu.ppy.sh/s/224647/ "Owl City - Alligator Sky ft. Shawn Chrystopher (mancuso_JM_)")|
 |780|53|[Mr. Saturn - Saturn (Saturnalize)](http://osu.ppy.sh/s/39797/ "Mr. Saturn - Saturn (Saturnalize)")|
@@ -798,7 +798,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |786|52|[doriko - Romeo and Cinderella (10crystalmask01)](http://osu.ppy.sh/s/96601/ "doriko - Romeo and Cinderella (10crystalmask01)")|
 |787|52|[nmk - sola (TKS)](http://osu.ppy.sh/s/171239/ "nmk - sola (TKS)")|
 |788|52|[livetune adding Yuuki Ozaki(from Galileo Galilei) - FLAT TV size edit. (No_Gu)](http://osu.ppy.sh/s/142915/ "livetune adding Yuuki Ozaki(from Galileo Galilei) - FLAT TV size edit. (No_Gu)")|
-|789|52|[Team"Hanayamata" - Hana wa Odore ya Irohaniho (rui)](http://osu.ppy.sh/s/190965/ "Team"Hanayamata" - Hana wa Odore ya Irohaniho (rui)")|
+|789|52|[Team\"Hanayamata\" - Hana wa Odore ya Irohaniho (rui)](http://osu.ppy.sh/s/190965/ "Team\"Hanayamata\" - Hana wa Odore ya Irohaniho (rui)")|
 |790|52|[Enya - Caribbean Blue (Blue Dragon)](http://osu.ppy.sh/s/109446/ "Enya - Caribbean Blue (Blue Dragon)")|
 |791|51|[Pierce The Veil - May These Noises Startle You In Your Sleep Tonight (pishifat)](http://osu.ppy.sh/s/175173/ "Pierce The Veil - May These Noises Startle You In Your Sleep Tonight (pishifat)")|
 |792|51|[Tamura Yukari - W:Wonder tale (TV Size) (ritsu-tanaika)](http://osu.ppy.sh/s/132806/ "Tamura Yukari - W:Wonder tale (TV Size) (ritsu-tanaika)")|
@@ -817,12 +817,12 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |805|50|[Mimori Suzuko - Univer Page (Pandiar)](http://osu.ppy.sh/s/120646/ "Mimori Suzuko - Univer Page (Pandiar)")|
 |806|49|[paraoka feat. haru*nya - Dreadnought (AndreasHD)](http://osu.ppy.sh/s/43392/ "paraoka feat. haru*nya - Dreadnought (AndreasHD)")|
 |807|49|[RAMM ni Haiyoru Tamao-san - Kirai na WaKe Lychee (Lieselotte)](http://osu.ppy.sh/s/148702/ "RAMM ni Haiyoru Tamao-san - Kirai na WaKe Lychee (Lieselotte)")|
-|808|49|[44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ ([Twinkle])](http://osu.ppy.sh/s/149173/ "44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ ([Twinkle])")|
+|808|49|[44teru-k - Yami \~ Shoujo no Yume , Kyomu no Sekai \~ ([Twinkle])](http://osu.ppy.sh/s/149173/ "44teru-k - Yami \~ Shoujo no Yume , Kyomu no Sekai \~ ([Twinkle])")|
 |809|49|[cYsmix feat. Emmy - Tear Rain (Reiji-RJ)](http://osu.ppy.sh/s/140618/ "cYsmix feat. Emmy - Tear Rain (Reiji-RJ)")|
 |810|49|[yanaginagi - Tokohana (richardfeder)](http://osu.ppy.sh/s/170144/ "yanaginagi - Tokohana (richardfeder)")|
 |811|49|[Lenka - Trouble Is a Friend (Sniqht)](http://osu.ppy.sh/s/159708/ "Lenka - Trouble Is a Friend (Sniqht)")|
 |812|49|[May'n - Scarlet Ballet (TV-SIZE MIX) (Chloe)](http://osu.ppy.sh/s/173051/ "May'n - Scarlet Ballet (TV-SIZE MIX) (Chloe)")|
-|813|49|[Duca - Kanransha ~Anohi to, Kinou to Kyou to Ashita to~ (Chirony)](http://osu.ppy.sh/s/150462/ "Duca - Kanransha ~Anohi to, Kinou to Kyou to Ashita to~ (Chirony)")|
+|813|49|[Duca - Kanransha \~Anohi to, Kinou to Kyou to Ashita to\~ (Chirony)](http://osu.ppy.sh/s/150462/ "Duca - Kanransha \~Anohi to, Kinou to Kyou to Ashita to\~ (Chirony)")|
 |814|49|[nao - Songs Compilation ([Minakami Yuki])](http://osu.ppy.sh/s/155574/ "nao - Songs Compilation ([Minakami Yuki])")|
 |815|49|[Ray - Nagi (Delis)](http://osu.ppy.sh/s/192283/ "Ray - Nagi (Delis)")|
 |816|49|[Panic! at the Disco - But It's Better If You Do (mancuso_JM_)](http://osu.ppy.sh/s/144371/ "Panic! at the Disco - But It's Better If You Do (mancuso_JM_)")|
@@ -903,7 +903,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |891|41|[Autobahn - Aki no Kaze (Leorda)](http://osu.ppy.sh/s/152365/ "Autobahn - Aki no Kaze (Leorda)")|
 |892|41|[Petit Rabbit's - Daydream cafe (Momochikun)](http://osu.ppy.sh/s/160559/ "Petit Rabbit's - Daydream cafe (Momochikun)")|
 |893|40|[Owl City - Butterfly Wings (JauiPlaY)](http://osu.ppy.sh/s/93274/ "Owl City - Butterfly Wings (JauiPlaY)")|
-|894|40|[Nogizaka46 - Yubi Bouenkyou~Anime Ban~ (IamKwaN)](http://osu.ppy.sh/s/70589/ "Nogizaka46 - Yubi Bouenkyou~Anime Ban~ (IamKwaN)")|
+|894|40|[Nogizaka46 - Yubi Bouenkyou\~Anime Ban\~ (IamKwaN)](http://osu.ppy.sh/s/70589/ "Nogizaka46 - Yubi Bouenkyou\~Anime Ban\~ (IamKwaN)")|
 |895|40|[Panic! at the Disco - Girls/Girls/Boys (mancuso_JM_)](http://osu.ppy.sh/s/172131/ "Panic! at the Disco - Girls/Girls/Boys (mancuso_JM_)")|
 |896|40|[gael42 & ThomasKHII - Battements d'Ame (Kurai)](http://osu.ppy.sh/s/148979/ "gael42 & ThomasKHII - Battements d'Ame (Kurai)")|
 |897|40|[FictionJunction - Parallel Hearts (TV-Size) (bossandy)](http://osu.ppy.sh/s/52508/ "FictionJunction - Parallel Hearts (TV-Size) (bossandy)")|
@@ -913,7 +913,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |901|39|[Dancing Dolls - monochrome (TV Size) (Dangaard)](http://osu.ppy.sh/s/172382/ "Dancing Dolls - monochrome (TV Size) (Dangaard)")|
 |902|39|[Y&Co. - POODLE (17VA)](http://osu.ppy.sh/s/125785/ "Y&Co. - POODLE (17VA)")|
 |903|39|[Nagarekawa Girls - Nagarekawa Girls Song (wcx19911123)](http://osu.ppy.sh/s/215466/ "Nagarekawa Girls - Nagarekawa Girls Song (wcx19911123)")|
-|904|39|[XeoN - Thor ~ Deepin' Absonant Mix ~ (biemote)](http://osu.ppy.sh/s/178426/ "XeoN - Thor ~ Deepin' Absonant Mix ~ (biemote)")|
+|904|39|[XeoN - Thor \~ Deepin' Absonant Mix \~ (biemote)](http://osu.ppy.sh/s/178426/ "XeoN - Thor \~ Deepin' Absonant Mix \~ (biemote)")|
 |905|38|[Ras - STAGER (LeiN-)](http://osu.ppy.sh/s/152065/ "Ras - STAGER (LeiN-)")|
 |906|38|[Wake Up, Girls! - Tachiagare! (TV Size) (popner)](http://osu.ppy.sh/s/143916/ "Wake Up, Girls! - Tachiagare! (TV Size) (popner)")|
 |907|38|[Claudia Bramnfsette - Yo Te Atrapo, Tu Me Atrapas (TV Size) (Gero)](http://osu.ppy.sh/s/145738/ "Claudia Bramnfsette - Yo Te Atrapo, Tu Me Atrapas (TV Size) (Gero)")|
@@ -954,7 +954,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |942|35|[Chata - Dango Daikazoku -TV animation Ver.- (Pappy)](http://osu.ppy.sh/s/214978/ "Chata - Dango Daikazoku -TV animation Ver.- (Pappy)")|
 |943|35|[yanaginagi - Mitsuba no Musubime (TV Size) (Oyatsu)](http://osu.ppy.sh/s/141415/ "yanaginagi - Mitsuba no Musubime (TV Size) (Oyatsu)")|
 |944|35|[Natsume Chiaki - Hikarakuyo (rinsukir)](http://osu.ppy.sh/s/113813/ "Natsume Chiaki - Hikarakuyo (rinsukir)")|
-|945|35|[Duca - Kanransha ~ Anohi to Kinou to Kyou to Ashita to ~ (HabiHolic)](http://osu.ppy.sh/s/144010/ "Duca - Kanransha ~ Anohi to Kinou to Kyou to Ashita to ~ (HabiHolic)")|
+|945|35|[Duca - Kanransha \~ Anohi to Kinou to Kyou to Ashita to \~ (HabiHolic)](http://osu.ppy.sh/s/144010/ "Duca - Kanransha \~ Anohi to Kinou to Kyou to Ashita to \~ (HabiHolic)")|
 |946|34|[Tiara - SEAHOLLY (Tsumetaku)](http://osu.ppy.sh/s/98262/ "Tiara - SEAHOLLY (Tsumetaku)")|
 |947|34|[Touyama Nao, Hanazawa Kana, Komatsu Mikako, Asumi Kana - Souzou Diary (Momochikun)](http://osu.ppy.sh/s/194345/ "Touyama Nao, Hanazawa Kana, Komatsu Mikako, Asumi Kana - Souzou Diary (Momochikun)")|
 |948|34|[Kuribayashi Minami - Tsubasa wa Pleasure Line (Kibbleru)](http://osu.ppy.sh/s/181877/ "Kuribayashi Minami - Tsubasa wa Pleasure Line (Kibbleru)")|
@@ -968,7 +968,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |956|34|[senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (Vhy)](http://osu.ppy.sh/s/158128/ "senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.) (Vhy)")|
 |957|34|[senya - Yozakura ni Kimi o Kakushite (BeatofIke)](http://osu.ppy.sh/s/145885/ "senya - Yozakura ni Kimi o Kakushite (BeatofIke)")|
 |958|34|[M2U feat. Guriri - Magnolia (JUDYDANNY)](http://osu.ppy.sh/s/140418/ "M2U feat. Guriri - Magnolia (JUDYDANNY)")|
-|959|34|[Suzaku - Anisakis -somatic mutation type "Forza"- (Chewin)](http://osu.ppy.sh/s/146791/ "Suzaku - Anisakis -somatic mutation type "Forza"- (Chewin)")|
+|959|34|[Suzaku - Anisakis -somatic mutation type \"Forza\"- (Chewin)](http://osu.ppy.sh/s/146791/ "Suzaku - Anisakis -somatic mutation type \"Forza\"- (Chewin)")|
 |960|34|[StylipS - Junsui na Fujunbutsu (TV-size) (pkk)](http://osu.ppy.sh/s/184139/ "StylipS - Junsui na Fujunbutsu (TV-size) (pkk)")|
 |961|34|[Lin-G - I Want You (diamdiam)](http://osu.ppy.sh/s/114750/ "Lin-G - I Want You (diamdiam)")|
 |962|34|[Jouhou Shoribu - Se-no! (Setz206)](http://osu.ppy.sh/s/203021/ "Jouhou Shoribu - Se-no! (Setz206)")|
@@ -1024,7 +1024,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1012|29|[Leon Lai - Zhong Ai Qing You (Speed up Version) (Luyuja)](http://osu.ppy.sh/s/103550/ "Leon Lai - Zhong Ai Qing You (Speed up Version) (Luyuja)")|
 |1013|29|[Kuraki Mai - Your Best Friend (Xinely)](http://osu.ppy.sh/s/210114/ "Kuraki Mai - Your Best Friend (Xinely)")|
 |1014|29|[Haruna Luna - Startear -TV size ver.- (MMzz)](http://osu.ppy.sh/s/205248/ "Haruna Luna - Startear -TV size ver.- (MMzz)")|
-|1015|29|[Ray - lull ~Soshite Bokura wa~ (TV Size) (Andrea)](http://osu.ppy.sh/s/150571/ "Ray - lull ~Soshite Bokura wa~ (TV Size) (Andrea)")|
+|1015|29|[Ray - lull \~Soshite Bokura wa\~ (TV Size) (Andrea)](http://osu.ppy.sh/s/150571/ "Ray - lull \~Soshite Bokura wa\~ (TV Size) (Andrea)")|
 |1016|29|[Ray - Party time! (Inyuschan)](http://osu.ppy.sh/s/206752/ "Ray - Party time! (Inyuschan)")|
 |1017|29|[Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (TV Size) (No Dap)](http://osu.ppy.sh/s/148922/ "Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (TV Size) (No Dap)")|
 |1018|29|[Ray - ebb and flow (TV Size) (Lust)](http://osu.ppy.sh/s/157979/ "Ray - ebb and flow (TV Size) (Lust)")|
@@ -1040,14 +1040,14 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1028|28|[Ray - Nagi (mingmichael)](http://osu.ppy.sh/s/146008/ "Ray - Nagi (mingmichael)")|
 |1029|28|[ChouCho - Harmonia (jonathanlfj)](http://osu.ppy.sh/s/104082/ "ChouCho - Harmonia (jonathanlfj)")|
 |1030|28|[GOATBED - DREAMON DREAMER (Regraz)](http://osu.ppy.sh/s/186366/ "GOATBED - DREAMON DREAMER (Regraz)")|
-|1031|28|[Lena Park - Inori~You Raise Me Up (TV Size) (samplefish)](http://osu.ppy.sh/s/172662/ "Lena Park - Inori~You Raise Me Up (TV Size) (samplefish)")|
+|1031|28|[Lena Park - Inori\~You Raise Me Up (TV Size) (samplefish)](http://osu.ppy.sh/s/172662/ "Lena Park - Inori\~You Raise Me Up (TV Size) (samplefish)")|
 |1032|28|[Tsukasa Yatoki - 2A-Attack (Reikosaka)](http://osu.ppy.sh/s/144849/ "Tsukasa Yatoki - 2A-Attack (Reikosaka)")|
 |1033|27|[ZAQ - VOICE (TV Size) (Akemi_Homura)](http://osu.ppy.sh/s/173373/ "ZAQ - VOICE (TV Size) (Akemi_Homura)")|
 |1034|27|[Komine Lisa - Resuscitated Hope (TV Version) (Yuzu-)](http://osu.ppy.sh/s/233336/ "Komine Lisa - Resuscitated Hope (TV Version) (Yuzu-)")|
 |1035|27|[Mayumi Morinaga - Affection feat. Another Infinity (Evil_Twilight)](http://osu.ppy.sh/s/106359/ "Mayumi Morinaga - Affection feat. Another Infinity (Evil_Twilight)")|
 |1036|27|[earthmind - ENERGY -TV Edit- (IamKwaN)](http://osu.ppy.sh/s/79039/ "earthmind - ENERGY -TV Edit- (IamKwaN)")|
 |1037|27|[Memme - China Dress (Love)](http://osu.ppy.sh/s/140237/ "Memme - China Dress (Love)")|
-|1038|27|[Ray - lull ~Soshite Bokura wa~ (TV Size) (Oyatsu)](http://osu.ppy.sh/s/121189/ "Ray - lull ~Soshite Bokura wa~ (TV Size) (Oyatsu)")|
+|1038|27|[Ray - lull \~Soshite Bokura wa\~ (TV Size) (Oyatsu)](http://osu.ppy.sh/s/121189/ "Ray - lull \~Soshite Bokura wa\~ (TV Size) (Oyatsu)")|
 |1039|27|[eufonius - Paradigm (TV Size) (Momochikun)](http://osu.ppy.sh/s/158332/ "eufonius - Paradigm (TV Size) (Momochikun)")|
 |1040|27|[Marina & the Diamonds - E.V.O.L (-Bakari-)](http://osu.ppy.sh/s/178104/ "Marina & the Diamonds - E.V.O.L (-Bakari-)")|
 |1041|27|[Marina and The Diamonds - Power & Control (Mystyk)](http://osu.ppy.sh/s/76127/ "Marina and The Diamonds - Power & Control (Mystyk)")|
@@ -1088,7 +1088,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1076|24|[Tarja - Until My Last Breath (XavierJones)](http://osu.ppy.sh/s/60404/ "Tarja - Until My Last Breath (XavierJones)")|
 |1077|24|[phatmans after school - Tsukiyomi (eINess)](http://osu.ppy.sh/s/166579/ "phatmans after school - Tsukiyomi (eINess)")|
 |1078|23|[sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN ([I]MMoRTal[S])](http://osu.ppy.sh/s/177182/ "sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN ([I]MMoRTal[S])")|
-|1079|23|[myon - G Free ~ Final Dream (PROGUY)](http://osu.ppy.sh/s/171090/ "myon - G Free ~ Final Dream (PROGUY)")|
+|1079|23|[myon - G Free \~ Final Dream (PROGUY)](http://osu.ppy.sh/s/171090/ "myon - G Free \~ Final Dream (PROGUY)")|
 |1080|23|[Sakamoto Maaya - Be mine! (TV Size) (Gero)](http://osu.ppy.sh/s/144427/ "Sakamoto Maaya - Be mine! (TV Size) (Gero)")|
 |1081|23|[Chou Huei - Bing Kuai (Flask)](http://osu.ppy.sh/s/112589/ "Chou Huei - Bing Kuai (Flask)")|
 |1082|23|[Michael Arellano - Christmas in Ponyville (Snowed-In Mix) (VinylDash14)](http://osu.ppy.sh/s/131777/ "Michael Arellano - Christmas in Ponyville (Snowed-In Mix) (VinylDash14)")|
@@ -1134,8 +1134,8 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1122|21|[Chihara Minori - Kono Sekai wa Bokura wo Matteita (TV Size) (Giralda)](http://osu.ppy.sh/s/98486/ "Chihara Minori - Kono Sekai wa Bokura wo Matteita (TV Size) (Giralda)")|
 |1123|20|[sphere - Hazy (Yuzu-)](http://osu.ppy.sh/s/184079/ "sphere - Hazy (Yuzu-)")|
 |1124|20|[LeftyMonsterP - Sayonara no Kawari ni (Natsu)](http://osu.ppy.sh/s/224930/ "LeftyMonsterP - Sayonara no Kawari ni (Natsu)")|
-|1125|20|[Merengue - "Ano Hero to" Bokura ni Tsuite -noitamina ver.- (KanaRin)](http://osu.ppy.sh/s/171191/ "Merengue - "Ano Hero to" Bokura ni Tsuite -noitamina ver.- (KanaRin)")|
-|1126|20|[natsuP feat. VanaN'Ice - Scattered Cherry Blossoms ~Elegant~ (CSLMVenezuela)](http://osu.ppy.sh/s/142614/ "natsuP feat. VanaN'Ice - Scattered Cherry Blossoms ~Elegant~ (CSLMVenezuela)")|
+|1125|20|[Merengue - \"Ano Hero to\" Bokura ni Tsuite -noitamina ver.- (KanaRin)](http://osu.ppy.sh/s/171191/ "Merengue - \"Ano Hero to\" Bokura ni Tsuite -noitamina ver.- (KanaRin)")|
+|1126|20|[natsuP feat. VanaN'Ice - Scattered Cherry Blossoms \~Elegant\~ (CSLMVenezuela)](http://osu.ppy.sh/s/142614/ "natsuP feat. VanaN'Ice - Scattered Cherry Blossoms \~Elegant\~ (CSLMVenezuela)")|
 |1127|20|[DJ Poochies - The Landing (Sieg)](http://osu.ppy.sh/s/183438/ "DJ Poochies - The Landing (Sieg)")|
 |1128|20|[Yoche feat. Mayu - Chocolate Dancing (Damnae)](http://osu.ppy.sh/s/123409/ "Yoche feat. Mayu - Chocolate Dancing (Damnae)")|
 |1129|20|[StylipS - Spica. (TV-size) (xxdeathx)](http://osu.ppy.sh/s/182201/ "StylipS - Spica. (TV-size) (xxdeathx)")|
@@ -1154,7 +1154,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1142|19|[Komatsu Miho - Nazo (jogfi2002)](http://osu.ppy.sh/s/90007/ "Komatsu Miho - Nazo (jogfi2002)")|
 |1143|19|[Ceui - Last Inferno (TV Size) (Chloe)](http://osu.ppy.sh/s/119887/ "Ceui - Last Inferno (TV Size) (Chloe)")|
 |1144|19|[Kelly Clarkson - My Life Would Suck Without You (GbL)](http://osu.ppy.sh/s/8993/ "Kelly Clarkson - My Life Would Suck Without You (GbL)")|
-|1145|19|[Ray - lull ~Soshite Bokura wa~ [TV Size] (AliomLoung)](http://osu.ppy.sh/s/150578/ "Ray - lull ~Soshite Bokura wa~ [TV Size] (AliomLoung)")|
+|1145|19|[Ray - lull \~Soshite Bokura wa\~ [TV Size] (AliomLoung)](http://osu.ppy.sh/s/150578/ "Ray - lull \~Soshite Bokura wa\~ [TV Size] (AliomLoung)")|
 |1146|19|[Ray Greene - My Best Friends (Lanturn)](http://osu.ppy.sh/s/107131/ "Ray Greene - My Best Friends (Lanturn)")|
 |1147|19|[Mutsuhiko Izumi - Snow Goose (ZiRoX)](http://osu.ppy.sh/s/150615/ "Mutsuhiko Izumi - Snow Goose (ZiRoX)")|
 |1148|19|[VV Zsofi - Ragogumi (Kazuya)](http://osu.ppy.sh/s/219045/ "VV Zsofi - Ragogumi (Kazuya)")|
@@ -1188,7 +1188,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1176|17|[Unknown Artist - Alle meine Entchen (Desperate-kun)](http://osu.ppy.sh/s/220246/ "Unknown Artist - Alle meine Entchen (Desperate-kun)")|
 |1177|17|[Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt)](http://osu.ppy.sh/s/108948/ "Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt)")|
 |1178|17|[Sakamoto Maaya - Kiseki no Umi (Desperate-kun)](http://osu.ppy.sh/s/203845/ "Sakamoto Maaya - Kiseki no Umi (Desperate-kun)")|
-|1179|17|[Demetori - Higan Retour ~ View of The River Styx (Love)](http://osu.ppy.sh/s/160916/ "Demetori - Higan Retour ~ View of The River Styx (Love)")|
+|1179|17|[Demetori - Higan Retour \~ View of The River Styx (Love)](http://osu.ppy.sh/s/160916/ "Demetori - Higan Retour \~ View of The River Styx (Love)")|
 |1180|17|[DECO*27 - Haruichi. feat. Hatsune Miku (mintong89)](http://osu.ppy.sh/s/196049/ "DECO*27 - Haruichi. feat. Hatsune Miku (mintong89)")|
 |1181|17|[Yuuki Aoi - Gyutto Shite Hoshiinda (Zero__wind)](http://osu.ppy.sh/s/69004/ "Yuuki Aoi - Gyutto Shite Hoshiinda (Zero__wind)")|
 |1182|17|[Kon Natsumi - Niji no Kakera (mintong89)](http://osu.ppy.sh/s/164528/ "Kon Natsumi - Niji no Kakera (mintong89)")|
@@ -1198,7 +1198,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1186|16|[yanaginagi - Mitsuba no Musubime (TV Size) (wcx19911123)](http://osu.ppy.sh/s/145935/ "yanaginagi - Mitsuba no Musubime (TV Size) (wcx19911123)")|
 |1187|16|[mamenoi - Tabi no Owari (Midasmens)](http://osu.ppy.sh/s/99542/ "mamenoi - Tabi no Owari (Midasmens)")|
 |1188|16|[Hatsuki Yura - Ganbare! Koi no Hana (Atrue)](http://osu.ppy.sh/s/149413/ "Hatsuki Yura - Ganbare! Koi no Hana (Atrue)")|
-|1189|16|[Zektbach - Turii ~Panta Rhei~ (Irreversible)](http://osu.ppy.sh/s/130187/ "Zektbach - Turii ~Panta Rhei~ (Irreversible)")|
+|1189|16|[Zektbach - Turii \~Panta Rhei\~ (Irreversible)](http://osu.ppy.sh/s/130187/ "Zektbach - Turii \~Panta Rhei\~ (Irreversible)")|
 |1190|16|[Lauren Bousfield - Avalon Sliding Down The Cliff (tomhet65)](http://osu.ppy.sh/s/218273/ "Lauren Bousfield - Avalon Sliding Down The Cliff (tomhet65)")|
 |1191|16|[Arashi - Te Tsunagou (Konei)](http://osu.ppy.sh/s/144777/ "Arashi - Te Tsunagou (Konei)")|
 |1192|16|[Hayami Saori - Omou Koto -TV size- (Giralda)](http://osu.ppy.sh/s/129391/ "Hayami Saori - Omou Koto -TV size- (Giralda)")|
@@ -1250,7 +1250,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1238|14|[Persona - Area184 (alienflybot)](http://osu.ppy.sh/s/160955/ "Persona - Area184 (alienflybot)")|
 |1239|14|[Suzuki Konomi - AVENGE WORLD (TV size) (richardfeder)](http://osu.ppy.sh/s/133607/ "Suzuki Konomi - AVENGE WORLD (TV size) (richardfeder)")|
 |1240|14|[M2U - Jump to Summer (hokin1995)](http://osu.ppy.sh/s/143807/ "M2U - Jump to Summer (hokin1995)")|
-|1241|14|[Suzaku - Anisakis -somatic mutation type "Forza"- (Lieselotte)](http://osu.ppy.sh/s/107781/ "Suzaku - Anisakis -somatic mutation type "Forza"- (Lieselotte)")|
+|1241|14|[Suzaku - Anisakis -somatic mutation type \"Forza\"- (Lieselotte)](http://osu.ppy.sh/s/107781/ "Suzaku - Anisakis -somatic mutation type \"Forza\"- (Lieselotte)")|
 |1242|14|[Kami Nomi zo Shiri-tai - Ai no Yokan (TV EDIT) (bossandy)](http://osu.ppy.sh/s/60040/ "Kami Nomi zo Shiri-tai - Ai no Yokan (TV EDIT) (bossandy)")|
 |1243|13|[Sasaki Sayaka - Koi Saku Mirai (Gamu)](http://osu.ppy.sh/s/142300/ "Sasaki Sayaka - Koi Saku Mirai (Gamu)")|
 |1244|13|[Infinite Stratos Cast - BEAUTIFUL SKY (TVSIZE 5nin ver.) (Nardoxyribonucleic)](http://osu.ppy.sh/s/121565/ "Infinite Stratos Cast - BEAUTIFUL SKY (TVSIZE 5nin ver.) (Nardoxyribonucleic)")|
@@ -1302,7 +1302,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1290|10|[Hazuki - Aliare (Kin)](http://osu.ppy.sh/s/158003/ "Hazuki - Aliare (Kin)")|
 |1291|10|[SHW - Ikusa JAPAN (shw.in) (kanpakyin)](http://osu.ppy.sh/s/169969/ "SHW - Ikusa JAPAN (shw.in) (kanpakyin)")|
 |1292|10|[Petrarca Ann Erudanto III - Watashi no Housekibako (TV Size) (Fumika)](http://osu.ppy.sh/s/120823/ "Petrarca Ann Erudanto III - Watashi no Housekibako (TV Size) (Fumika)")|
-|1293|10|[Ray - lull ~Soshite Bokura wa~ (TV Size) (No_Gu)](http://osu.ppy.sh/s/123893/ "Ray - lull ~Soshite Bokura wa~ (TV Size) (No_Gu)")|
+|1293|10|[Ray - lull \~Soshite Bokura wa\~ (TV Size) (No_Gu)](http://osu.ppy.sh/s/123893/ "Ray - lull \~Soshite Bokura wa\~ (TV Size) (No_Gu)")|
 |1294|10|[Ogura Yui - Baby Sweet Berry Love (TV Size) (Akemi_Homura)](http://osu.ppy.sh/s/167879/ "Ogura Yui - Baby Sweet Berry Love (TV Size) (Akemi_Homura)")|
 |1295|9|[T.M.Revolution - HOT LIMIT (dosyeru)](http://osu.ppy.sh/s/140179/ "T.M.Revolution - HOT LIMIT (dosyeru)")|
 |1296|9|[sphere - Non stop road (TV Size) (mingmichael)](http://osu.ppy.sh/s/99470/ "sphere - Non stop road (TV Size) (mingmichael)")|
@@ -1332,7 +1332,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1320|7|[Yuki Kajiura - Himeboshi (Loctav)](http://osu.ppy.sh/s/135412/ "Yuki Kajiura - Himeboshi (Loctav)")|
 |1321|7|[Xiao Ya Xuan - Xiang Nian Sheng Dan Jie (CET 6)](http://osu.ppy.sh/s/143047/ "Xiao Ya Xuan - Xiang Nian Sheng Dan Jie (CET 6)")|
 |1322|7|[Kaj. x SoundNet - New Age Voyager (Pjecoo)](http://osu.ppy.sh/s/235954/ "Kaj. x SoundNet - New Age Voyager (Pjecoo)")|
-|1323|7|[Golden City Factory - Stirring an Autumn Moon ~ Mooned Insect (_Gezo_)](http://osu.ppy.sh/s/138886/ "Golden City Factory - Stirring an Autumn Moon ~ Mooned Insect (_Gezo_)")|
+|1323|7|[Golden City Factory - Stirring an Autumn Moon \~ Mooned Insect (_Gezo_)](http://osu.ppy.sh/s/138886/ "Golden City Factory - Stirring an Autumn Moon \~ Mooned Insect (_Gezo_)")|
 |1324|7|[Sota Fujimori - Title BGM Loop ([_Crystal])](http://osu.ppy.sh/s/178817/ "Sota Fujimori - Title BGM Loop ([_Crystal])")|
 |1325|7|[Nishiura Tomohito - Shop (samplefish)](http://osu.ppy.sh/s/166239/ "Nishiura Tomohito - Shop (samplefish)")|
 |1326|7|[Horie Yui - Natsu no Yakusoku (KDS)](http://osu.ppy.sh/s/59719/ "Horie Yui - Natsu no Yakusoku (KDS)")|
@@ -1359,7 +1359,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1347|5|[Ogura Yui - Charming Do! (TV Size) (Nardoxyribonucleic)](http://osu.ppy.sh/s/142442/ "Ogura Yui - Charming Do! (TV Size) (Nardoxyribonucleic)")|
 |1348|5|[Kicco - Shunkan Spline (yoshilove)](http://osu.ppy.sh/s/159623/ "Kicco - Shunkan Spline (yoshilove)")|
 |1349|5|[Kajiura Yuki - Newday's News (Ikaros_F)](http://osu.ppy.sh/s/100836/ "Kajiura Yuki - Newday's News (Ikaros_F)")|
-|1350|5|[Aihara Kaori - Total Eclipse 2035 ~Shoujo no Jikuu Kaiki Nisshoku~ (Senritsu)](http://osu.ppy.sh/s/114368/ "Aihara Kaori - Total Eclipse 2035 ~Shoujo no Jikuu Kaiki Nisshoku~ (Senritsu)")|
+|1350|5|[Aihara Kaori - Total Eclipse 2035 \~Shoujo no Jikuu Kaiki Nisshoku\~ (Senritsu)](http://osu.ppy.sh/s/114368/ "Aihara Kaori - Total Eclipse 2035 \~Shoujo no Jikuu Kaiki Nisshoku\~ (Senritsu)")|
 |1351|5|[Ray - Songs Compilation (- R u m i a -)](http://osu.ppy.sh/s/149561/ "Ray - Songs Compilation (- R u m i a -)")|
 |1352|5|[Kuraki Mai - Kaze no Lalala -TV on air version- (ktgster)](http://osu.ppy.sh/s/169410/ "Kuraki Mai - Kaze no Lalala -TV on air version- (ktgster)")|
 |1353|5|[BubblegumBalloon - Rainbow (Stefan)](http://osu.ppy.sh/s/213885/ "BubblegumBalloon - Rainbow (Stefan)")|
@@ -1387,7 +1387,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1375|2|[u's - Susume*Tomorrow (TV Size) (Atsuro)](http://osu.ppy.sh/s/228109/ "u's - Susume*Tomorrow (TV Size) (Atsuro)")|
 |1376|2|[Studio EIM - WhereverYouAre (384059043)](http://osu.ppy.sh/s/180286/ "Studio EIM - WhereverYouAre (384059043)")|
 |1377|2|[Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte)](http://osu.ppy.sh/s/180428/ "Riryka - Hashiru Sekai to Bokura no Mirai (short version) (Charlotte)")|
-|1378|2|[Nobuo Uematsu - Brahne Toujou~Geki Kaimaku (MoodyRPG)](http://osu.ppy.sh/s/190587/ "Nobuo Uematsu - Brahne Toujou~Geki Kaimaku (MoodyRPG)")|
+|1378|2|[Nobuo Uematsu - Brahne Toujou\~Geki Kaimaku (MoodyRPG)](http://osu.ppy.sh/s/190587/ "Nobuo Uematsu - Brahne Toujou\~Geki Kaimaku (MoodyRPG)")|
 |1379|2|[TENMON & Yanagi Eiichiro - Start and Stay with (Wafu)](http://osu.ppy.sh/s/198299/ "TENMON & Yanagi Eiichiro - Start and Stay with (Wafu)")|
 |1380|2|[Hashimoto Miyuki - Salut.soleil! (richardfeder)](http://osu.ppy.sh/s/174304/ "Hashimoto Miyuki - Salut.soleil! (richardfeder)")|
 |1381|2|[Yoko Shimomura - The Road is Full of Dangers (MoodyRPG)](http://osu.ppy.sh/s/135312/ "Yoko Shimomura - The Road is Full of Dangers (MoodyRPG)")|
@@ -1400,7 +1400,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!taiko
 
-|Placing|Votes|Beatmap|
+|No.|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|3093|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
@@ -1415,7 +1415,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!catch
 
-|Placing|Votes|Beatmap|
+|No.|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
@@ -1430,7 +1430,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ## osu!mania
 
-|Placing|Votes|Beatmap|
+|No.|Votes|Beatmap|
 |:---:|:---:|:---|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
