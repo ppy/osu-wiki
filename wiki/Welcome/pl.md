@@ -1,4 +1,4 @@
-Na sam początek chcielibyśmy cię gorąco powitać. Pozwól, że wyjaśnimy Ci kilka rzeczy zanim zaczniesz swoją przygodę z osu!. ![osu!](Osu-boxart.png "fig:osu!")
+Na sam początek chcielibyśmy cię gorąco powitać. Pozwól, że wyjaśnimy Ci kilka rzeczy zanim zaczniesz swoją przygodę z osu!. ![osu!](osu-boxart.png "fig:osu!")
 
 \_\_TOC\_\_
 
