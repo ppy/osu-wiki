@@ -5,7 +5,7 @@ In their most basic form, a beatmap have a song and various [hit objects](/wiki/
 They can also have a background image, video, and/or [storyboard](/wiki/storyboards).
 
 Creators of beatmaps are called beatmappers or mappers for short.
-Beatmaps are uploaded for everyone to see and play with using the [BSS](/wiki/BSS), and are then [modded](/wiki/modded).
+Beatmaps are uploaded for everyone to play with using the [BSS](/wiki/BSS), and are then [modded](/wiki/modded).
 Once a beatmap is deemed good enough, it is [ranked](#ranked) or if fulfilling certain criteria, [approved](#approved).
 
 You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu!web.
