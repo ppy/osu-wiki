@@ -30,7 +30,7 @@ Once you are done with that, you are ready to start streaming if you want. There
 
 #### Introduction
 
-[XSplit](https://www.xsplit.com/) is one of the most common live streaming programs nowadays, specially because it does not cause too much stress on your computer and comes with a neat screen-capture feature. The downside? Some options are disabled and have lower quality unless you buy the license.
+[XSplit](https://www.xsplit.com/) is one of the most common live streaming programs nowadays, especially because it does not cause too much stress on your computer and comes with a neat screen-capture feature.
 
 **Pros**:
 
@@ -118,7 +118,7 @@ On the main window, click on `View`. Here you can set different options, these o
 
 ### Installation
 
-To get started with OBS, head to their website [OBS](https://obsproject.com/) and download the program. The first time you start OBS, it will likely update on language files and shaders. Allow the update. After the update, you will be directed to the Main Menu as shown above.
+To get started with OBS, head to their website [OBS](https://obsproject.com/) and download the program. The first time you start OBS, it will likely update on language files and shaders. Allow the update. Then, you will be directed to the Main Menu as shown above.
 
 #### Setting up twitch.tv in OBS
 
