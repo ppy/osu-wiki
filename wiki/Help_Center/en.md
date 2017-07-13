@@ -24,7 +24,7 @@ Restrictions are relatively rare, and are only doled out in circumstances where 
 
 In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh).
 
-If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiaccounts to avoid restrictions causes problems for everyone - both us, and you.
+If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
 
 ### The flag on my account profile is wrong!
 
@@ -55,7 +55,7 @@ Good information to include this email would be:
 
 ### My account has been banned/disabled/permanently restricted!
 
-**Accounts are generally only disabled when they are confirmed to be multiaccounts.**
+**Accounts are generally only disabled when they are confirmed to be multiple accounts belonging to the same user.**
 
 If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely log in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
 
@@ -83,7 +83,7 @@ If we were to allow everybody to make and play on multiple accounts, the ranked 
 
 Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
-In osu!, we are very much against multiple accounts (or multiaccounts as we call them), and we enforce a strict rule of only one account per person, ever.
+In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever.
 
 You get to play on the first account you ever registered with us, and that's it!
 
@@ -93,7 +93,7 @@ You get to play on the first account you ever registered with us, and that's it!
 
 We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-This doesn't mean you can make a new account to do the same thing, either! Multiple accounts (or multiaccounting as we call it) is strongly frowned upon in our community and we will disable any accounts that are brought to our attention if they are found to be multiaccounts.
+This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
 
 ### Can I change my account's username?
 
@@ -124,7 +124,7 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 ### The website is telling me that I have tried to log in too many times!
 
-**This is a temporary protection measure after repeated failures to access your account. Try logging in again within 10-20 minutes.**
+**This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
 
 If this happens to you, simply wait for a while and try to log in a little later. 
 
