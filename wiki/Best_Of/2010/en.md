@@ -2,9 +2,9 @@
 
 _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
-- Results (table text file): <https://puu.sh/Fju>
-  - Forum: <https://osu.ppy.sh/forum/t/43834>
-- Ranking Chart: <https://osu.ppy.sh/p/chart?ch=best2010>
+- [Results (table text file)](https://puu.sh/Fju)
+  - [Forum](https://osu.ppy.sh/forum/t/43834)
+- [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2010)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)

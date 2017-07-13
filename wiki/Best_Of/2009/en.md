@@ -4,8 +4,8 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 ![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
 
-- Results: <https://osu.ppy.sh/forum/t/22162>
-- Ranking Chart: <https://osu.ppy.sh/p/chart?ch=best2009>
+- [Results](https://osu.ppy.sh/forum/t/22162)
+- [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2009)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)

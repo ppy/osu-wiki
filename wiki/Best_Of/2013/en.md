@@ -6,8 +6,8 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 - First time in the series expand to cover osu!taiko, osu!catch, and osu!mania (Top 10 only).
 - First time in the series to also cover linkless beatmaps.
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298>
-- Ranking Chart: <https://osu.ppy.sh/p/chart?ch=best2013>
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 
 ## osu!standard

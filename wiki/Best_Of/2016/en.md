@@ -20,8 +20,8 @@ In short, the weighting takes into account the amount of times you've played a m
 
 ## osu!standard
 
-- Full list of osu!standard 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/39>
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0>
+- [Full list of osu!standard 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/39)
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
@@ -1293,8 +1293,8 @@ In short, the weighting takes into account the amount of times you've played a m
 
 ## osu!taiko
 
-- Full list of osu!taiko 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/40>
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556>
+- [Full list of osu!taiko 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/40)
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
@@ -1491,8 +1491,8 @@ In short, the weighting takes into account the amount of times you've played a m
 
 ## osu!catch
 
-- Full list of osu!catch 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/41>
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793>
+- [Full list of osu!catch 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/41)
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
@@ -1593,8 +1593,8 @@ In short, the weighting takes into account the amount of times you've played a m
 
 ## osu!mania
 
-- Full list of osu!mania 2016 beatmaps (vote screen): <https://osu.ppy.sh/community/contests/42>
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537>
+- [Full list of osu!mania 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/42)
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|

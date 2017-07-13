@@ -8,7 +8,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
   - As such, it is entirely possible to get an empty list of votable beatmapset.
 - First time in the series to use a weighting system.
 - [News Results](https://osu.ppy.sh/news/138781453998)
-- Official Google Doc of the results: <https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#>
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
 ## osu!standard
 
@@ -112,9 +112,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |96|178777|[Demetori - Higan Kikou \~ View of The River Styx (GoldenWolf)](https://osu.ppy.sh/s/178777/ "Demetori - Higan Kikou \~ View of The River Styx (GoldenWolf)")|1.06|347|4784|
 |97|373240|[Camellia - d:for the DELTA (Naitoshi)](https://osu.ppy.sh/s/373240/ "Camellia - d:for the DELTA (Naitoshi)")|1.06|323|4512|
 |98|217134|[Giga-P - Hibikase (tutuhaha)](https://osu.ppy.sh/s/217134/ "Giga-P - Hibikase (tutuhaha)")|1.06|700|10342|
-|99|332623|[Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)")|1.06|1385|16536|
+|99|332623|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)")|1.06|1385|16536|
 |100|223871|[Goose house - Hikaru nara -TV size- (Pandiar)](https://osu.ppy.sh/s/223871/ "Goose house - Hikaru nara -TV size- (Pandiar)")|1.06|633|10581|
-|101|346740|[Igorrr - Pavor Nocturnus (2015] [Kyshiro)](https://osu.ppy.sh/s/346740/ "Igorrr - Pavor Nocturnus (2015] [Kyshiro)")|1.06|222|3696|
+|101|346740|[Igorrr - Pavor Nocturnus [2015] (Kyshiro)](https://osu.ppy.sh/s/346740/ "Igorrr - Pavor Nocturnus [2015] (Kyshiro)")|1.06|222|3696|
 |102|263765|[AKINO from bless4 - MIIRO (Asphyxia)](https://osu.ppy.sh/s/263765/ "AKINO from bless4 - MIIRO (Asphyxia)")|1.06|903|14041|
 |103|315307|[Donghae & Eunhyuk - Ajigtto Nan (Still You) (Gray Veyron)](https://osu.ppy.sh/s/315307/ "Donghae & Eunhyuk - Ajigtto Nan (Still You) (Gray Veyron)")|1.06|26|510|
 |104|249939|[Fujijo Seitokai Shikkou-bu - Best FriendS (No Dap)](https://osu.ppy.sh/s/249939/ "Fujijo Seitokai Shikkou-bu - Best FriendS (No Dap)")|1.06|1112|15057|
@@ -162,7 +162,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |146|348604|[ONE OK ROCK - Mikansei Koukyoukyoku (Saut)](https://osu.ppy.sh/s/348604/ "ONE OK ROCK - Mikansei Koukyoukyoku (Saut)")|1.04|917|13207|
 |147|259127|[AKINO from bless4 - MIIRO (Kawaiwkyik)](https://osu.ppy.sh/s/259127/ "AKINO from bless4 - MIIRO (Kawaiwkyik)")|1.04|663|11538|
 |148|362321|[Shiena Nishizawa - Brand-new World (Meg)](https://osu.ppy.sh/s/362321/ "Shiena Nishizawa - Brand-new World (Meg)")|1.04|734|12003|
-|149|380779|[Crystal Castles - Violent Dreams (Sidewalks And Skeletons REMIX] [Auxent)](https://osu.ppy.sh/s/380779/ "Crystal Castles - Violent Dreams (Sidewalks And Skeletons REMIX] [Auxent)")|1.04|102|1545|
+|149|380779|[Crystal Castles - Violent Dreams [Sidewalks And Skeletons REMIX] (Auxent)](https://osu.ppy.sh/s/380779/ "Crystal Castles - Violent Dreams [Sidewalks And Skeletons REMIX] (Auxent)")|1.04|102|1545|
 |150|302799|[BUMP OF CHICKEN - Hello,world! (tutuhaha)](https://osu.ppy.sh/s/302799/ "BUMP OF CHICKEN - Hello,world! (tutuhaha)")|1.04|633|10546|
 |151|354792|[Feint - Vagrant (feat. Veela) (appleeaterx)](https://osu.ppy.sh/s/354792/ "Feint - Vagrant (feat. Veela) (appleeaterx)")|1.04|612|9863|
 |152|326636|[FELT - Puppet in the Dark (Mackenzie)](https://osu.ppy.sh/s/326636/ "FELT - Puppet in the Dark (Mackenzie)")|1.04|225|4313|
@@ -665,7 +665,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |649|240627|[Utada Hikaru - Beautiful World (tutuhaha)](https://osu.ppy.sh/s/240627/ "Utada Hikaru - Beautiful World (tutuhaha)")|0.95|55|2045|
 |650|378314|[Sharlo - Ai La La (Karen)](https://osu.ppy.sh/s/378314/ "Sharlo - Ai La La (Karen)")|0.95|142|3864|
 |651|226381|[Misawa Aki - Nostalgia (Narcissu)](https://osu.ppy.sh/s/226381/ "Misawa Aki - Nostalgia (Narcissu)")|0.95|37|2015|
-|652|377872|[fhana - Kimi to Iu Tokuiten (singular you] [sukiNathan)](https://osu.ppy.sh/s/377872/ "fhana - Kimi to Iu Tokuiten (singular you] [sukiNathan)")|0.95|45|2266|
+|652|377872|[fhana - Kimi to Iu Tokuiten [singular you] (sukiNathan)](https://osu.ppy.sh/s/377872/ "fhana - Kimi to Iu Tokuiten [singular you] (sukiNathan)")|0.95|45|2266|
 |653|224203|[Mayama Rika - Liar Mask anime size (Aerous)](https://osu.ppy.sh/s/224203/ "Mayama Rika - Liar Mask anime size (Aerous)")|0.95|169|6543|
 |654|256049|[Rita - Blue Liner (Fycho)](https://osu.ppy.sh/s/256049/ "Rita - Blue Liner (Fycho)")|0.95|52|3371|
 |655|383985|[Apink - U You (Natsu)](https://osu.ppy.sh/s/383985/ "Apink - U You (Natsu)")|0.95|68|1225|
@@ -838,7 +838,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |822|248061|[Duca - Shiawase no Basho short ver. (Oyatsu)](https://osu.ppy.sh/s/248061/ "Duca - Shiawase no Basho short ver. (Oyatsu)")|0.94|42|3014|
 |823|370340|[CENOB1TE - Onslaught (Irreversible)](https://osu.ppy.sh/s/370340/ "CENOB1TE - Onslaught (Irreversible)")|0.94|187|5442|
 |824|347586|[Marie - Clover Day's (sukiNathan)](https://osu.ppy.sh/s/347586/ "Marie - Clover Day's (sukiNathan)")|0.94|107|6014|
-|825|225747|[BRILLIANT4 - Elementario de Aimashou! (TV ver.] [Kibbleru)](https://osu.ppy.sh/s/225747/ "BRILLIANT4 - Elementario de Aimashou! (TV ver.] [Kibbleru)")|0.94|57|3613|
+|825|225747|[BRILLIANT4 - Elementario de Aimashou! [TV ver.] (Kibbleru)](https://osu.ppy.sh/s/225747/ "BRILLIANT4 - Elementario de Aimashou! [TV ver.] (Kibbleru)")|0.94|57|3613|
 |826|359749|[REDALiCE - ALiVE (Natsu)](https://osu.ppy.sh/s/359749/ "REDALiCE - ALiVE (Natsu)")|0.94|172|6842|
 |827|356039|[eyelis - Mirai e no Tobira (OVA EDIT) (Bearizm)](https://osu.ppy.sh/s/356039/ "eyelis - Mirai e no Tobira (OVA EDIT) (Bearizm)")|0.94|38|4218|
 |828|122349|[FELT - Hail Storm (Kite)](https://osu.ppy.sh/s/122349/ "FELT - Hail Storm (Kite)")|0.94|53|2407|
@@ -1057,7 +1057,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1041|304979|[Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (A Mystery)](https://osu.ppy.sh/s/304979/ "Team \"Hanayamata\" - Hana wa Odore ya Irohaniho (A Mystery)")|0.92|51|3434|
 |1042|255919|[Suzuki Konomi - Absolute Soul (eINess)](https://osu.ppy.sh/s/255919/ "Suzuki Konomi - Absolute Soul (eINess)")|0.92|170|6699|
 |1043|292733|[Underoath - Writing on the Walls (pishifat)](https://osu.ppy.sh/s/292733/ "Underoath - Writing on the Walls (pishifat)")|0.92|40|4243|
-|1044|246679|[Evan Beigel (BMI], Scott Emerson [BMI] - A Running Chip [Nozhomi)](https://osu.ppy.sh/s/246679/ "Evan Beigel (BMI], Scott Emerson [BMI] - A Running Chip [Nozhomi)")|0.92|92|4686|
+|1044|246679|[Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip (Nozhomi)](https://osu.ppy.sh/s/246679/ "Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip (Nozhomi)")|0.92|92|4686|
 |1045|255481|[petit milady - Ma Cherie (Andrea)](https://osu.ppy.sh/s/255481/ "petit milady - Ma Cherie (Andrea)")|0.92|25|1821|
 |1046|342893|[SisterS - Hidamari Days (Karen)](https://osu.ppy.sh/s/342893/ "SisterS - Hidamari Days (Karen)")|0.92|74|3980|
 |1047|128157|[The Frim - City Streets (Kyshiro)](https://osu.ppy.sh/s/128157/ "The Frim - City Streets (Kyshiro)")|0.92|92|8166|
@@ -1082,7 +1082,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1066|240518|[Bjorn Arve Lagim - Prologue (Krfawy)](https://osu.ppy.sh/s/240518/ "Bjorn Arve Lagim - Prologue (Krfawy)")|0.92|7|754|
 |1067|304024|[Enya - Trains And Winter Rains (Blue Dragon)](https://osu.ppy.sh/s/304024/ "Enya - Trains And Winter Rains (Blue Dragon)")|0.92|22|978|
 |1068|136425|[System Of A Down - Aerials (Alarido)](https://osu.ppy.sh/s/136425/ "System Of A Down - Aerials (Alarido)")|0.92|174|4015|
-|1069|354377|[LADIES` CODE - I'll Smile Even If It Hurts (Ipas)](https://osu.ppy.sh/s/354377/ "LADIES` CODE - I'll Smile Even If It Hurts (Ipas)")|0.92|8|486|
+|1069|354377|[LADIES\` CODE - I'll Smile Even If It Hurts (Ipas)](https://osu.ppy.sh/s/354377/ "LADIES\` CODE - I'll Smile Even If It Hurts (Ipas)")|0.92|8|486|
 |1070|227734|[eyelis - Mirai e no Tobira (OVA EDIT) (Kawaiwkyik)](https://osu.ppy.sh/s/227734/ "eyelis - Mirai e no Tobira (OVA EDIT) (Kawaiwkyik)")|0.92|19|3465|
 |1071|308064|[Plasmagica - Have a nice MUSIC!! (AsakuraNe)](https://osu.ppy.sh/s/308064/ "Plasmagica - Have a nice MUSIC!! (AsakuraNe)")|0.92|39|2669|
 |1072|82084|[ATB with Rea Garvey - Running A Wrong Way (Bakari)](https://osu.ppy.sh/s/82084/ "ATB with Rea Garvey - Running A Wrong Way (Bakari)")|0.92|21|1085|
@@ -1391,7 +1391,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |1375|231319|[Uchida Maaya - Gimme! Revolution (No Dap)](https://osu.ppy.sh/s/231319/ "Uchida Maaya - Gimme! Revolution (No Dap)")|0.89|12|2931|
 |1376|215837|[m.o.v.e - Outsoar The Rainbow (Chloe)](https://osu.ppy.sh/s/215837/ "m.o.v.e - Outsoar The Rainbow (Chloe)")|0.89|10|1353|
 |1377|206887|[TK from Ling tosite sigure - unravel (TV edit) (Desperate-kun)](https://osu.ppy.sh/s/206887/ "TK from Ling tosite sigure - unravel (TV edit) (Desperate-kun)")|0.89|237|8149|
-|1378|93566|[Team. Nekokan(Neko] feat. Amaoto Junca - Tsunagu Kizuna [Nardoxyribonucleic)](https://osu.ppy.sh/s/93566/ "Team. Nekokan(Neko] feat. Amaoto Junca - Tsunagu Kizuna [Nardoxyribonucleic)")|0.89|20|1979|
+|1378|93566|[Team. Nekokan[Neko] feat. Amaoto Junca - Tsunagu Kizuna (Nardoxyribonucleic)](https://osu.ppy.sh/s/93566/ "Team. Nekokan[Neko] feat. Amaoto Junca - Tsunagu Kizuna (Nardoxyribonucleic)")|0.89|20|1979|
 |1379|51492|[Run (Fukuhara Kaori), Tooru (Yuuki Aoi) - Tomodachi (Wafu)](https://osu.ppy.sh/s/51492/ "Run (Fukuhara Kaori), Tooru (Yuuki Aoi) - Tomodachi (Wafu)")|0.89|5|1045|
 |1380|220443|[ODESZA - Always This Late (Milan-)](https://osu.ppy.sh/s/220443/ "ODESZA - Always This Late (Milan-)")|0.89|28|1770|
 |1381|342899|[SisterS - Hidamari Days (Mackenzie)](https://osu.ppy.sh/s/342899/ "SisterS - Hidamari Days (Mackenzie)")|0.89|62|3852|
@@ -1615,7 +1615,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |67|170148|[Celldweller - I Can't Wait (Zero__wind)](https://osu.ppy.sh/s/170148/ "Celldweller - I Can't Wait (Zero__wind)")|1.03|27|222|
 |68|286460|[Halozy - Genryuu Kaiko (Chaoslitz)](https://osu.ppy.sh/s/286460/ "Halozy - Genryuu Kaiko (Chaoslitz)")|1.03|60|335|
 |69|299103|[Weebos Zunder feat. el nino de las salchipapas - Salchipapa (Hanjamon)](https://osu.ppy.sh/s/299103/ "Weebos Zunder feat. el nino de las salchipapas - Salchipapa (Hanjamon)")|1.03|90|317|
-|70|332623|[Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)")|1.03|130|474|
+|70|332623|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)")|1.03|130|474|
 |71|307594|[#LitevLow - Reworked (Let's get beat) (Surono)](https://osu.ppy.sh/s/307594/ "#LitevLow - Reworked (Let's get beat) (Surono)")|1.03|36|179|
 |72|322173|[Kicco - Lucky Monster (shionelove)](https://osu.ppy.sh/s/322173/ "Kicco - Lucky Monster (shionelove)")|1.03|33|242|
 |73|245724|[Taishi - invulnerable (Stefan)](https://osu.ppy.sh/s/245724/ "Taishi - invulnerable (Stefan)")|1.03|23|144|
@@ -1628,7 +1628,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |80|277223|[Chihiro Yonekura - Koiseyo Otome! (Game Size) (JUDYDANNY)](https://osu.ppy.sh/s/277223/ "Chihiro Yonekura - Koiseyo Otome! (Game Size) (JUDYDANNY)")|1.01|72|316|
 |81|323180|[FELT - Day after (Senritsu)](https://osu.ppy.sh/s/323180/ "FELT - Day after (Senritsu)")|1.01|28|187|
 |82|320905|[BlackY - Max Burning!! (SpectorDG)](https://osu.ppy.sh/s/320905/ "BlackY - Max Burning!! (SpectorDG)")|1.01|125|550|
-|83|224390|[AKINO with bless4 - EXTRA MAGIC HOUR (TV ver.] [Nardoxyribonucleic)](https://osu.ppy.sh/s/224390/ "AKINO with bless4 - EXTRA MAGIC HOUR (TV ver.] [Nardoxyribonucleic)")|1.01|74|345|
+|83|224390|[AKINO with bless4 - EXTRA MAGIC HOUR [TV ver.] (Nardoxyribonucleic)](https://osu.ppy.sh/s/224390/ "AKINO with bless4 - EXTRA MAGIC HOUR [TV ver.] (Nardoxyribonucleic)")|1.01|74|345|
 |84|322526|[DJ TOTTO VS TOTTO - Vajra (qoot8123)](https://osu.ppy.sh/s/322526/ "DJ TOTTO VS TOTTO - Vajra (qoot8123)")|1.01|116|509|
 |85|344082|[Orange Heart(cv:Honda Mariko) Neptune(cv:Tanaka Rie) - Mousou Katharsis ([Shana Lesus])](https://osu.ppy.sh/s/344082/ "Orange Heart(cv:Honda Mariko) Neptune(cv:Tanaka Rie) - Mousou Katharsis ([Shana Lesus])")|1.01|36|153|
 |86|243675|[nano.RIPE - Nanairo Biyori (TV Ver.) (Charlotte)](https://osu.ppy.sh/s/243675/ "nano.RIPE - Nanairo Biyori (TV Ver.) (Charlotte)")|1.01|42|258|
@@ -1746,7 +1746,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |198|155984|[Ogura Yui - Raise (StarForYou)](https://osu.ppy.sh/s/155984/ "Ogura Yui - Raise (StarForYou)")|0.82|5|124|
 |199|203567|[ClariS - Connect -TV MIX- (captin1)](https://osu.ppy.sh/s/203567/ "ClariS - Connect -TV MIX- (captin1)")|0.82|79|457|
 |200|326725|[Marika Suzuki - Brave Icon (-Tenshi-)](https://osu.ppy.sh/s/326725/ "Marika Suzuki - Brave Icon (-Tenshi-)")|0.81|23|147|
-|201|228647|[Unknown Artist - Miniministop Hitoyasumi no Uta(Mokuyoubi]Gakusei no Uta [Mame ga nyaa)](https://osu.ppy.sh/s/228647/ "Unknown Artist - Miniministop Hitoyasumi no Uta(Mokuyoubi]Gakusei no Uta [Mame ga nyaa)")|0.81|47|233|
+|201|228647|[Unknown Artist - Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta (Mame ga nyaa)](https://osu.ppy.sh/s/228647/ "Unknown Artist - Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta (Mame ga nyaa)")|0.81|47|233|
 |202|242688|[Masubuchi Yuuji - Jingle Bells 765 Version (DakeDekaane)](https://osu.ppy.sh/s/242688/ "Masubuchi Yuuji - Jingle Bells 765 Version (DakeDekaane)")|0.81|38|265|
 |203|121048|[Horie Yui - Golden Time (Xinchii)](https://osu.ppy.sh/s/121048/ "Horie Yui - Golden Time (Xinchii)")|0.81|13|110|
 |204|168227|[Tanizawa Tomofumi - Kimi ni Todoke (TV SIZE) (HeatKai)](https://osu.ppy.sh/s/168227/ "Tanizawa Tomofumi - Kimi ni Todoke (TV SIZE) (HeatKai)")|0.81|21|131|
@@ -1756,7 +1756,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |208|344960|[u's - Dancing stars on me! (TV Size) (Karen)](https://osu.ppy.sh/s/344960/ "u's - Dancing stars on me! (TV Size) (Karen)")|0.80|10|149|
 |209|217640|[Haruna Luna - TRUE STORY (Chaoslitz)](https://osu.ppy.sh/s/217640/ "Haruna Luna - TRUE STORY (Chaoslitz)")|0.79|15|141|
 |210|353205|[Mahito Yokota - Mine Cart Tunnel Throwdown (Nwolf)](https://osu.ppy.sh/s/353205/ "Mahito Yokota - Mine Cart Tunnel Throwdown (Nwolf)")|0.79|27|141|
-|211|93566|[Team. Nekokan(Neko] feat. Amaoto Junca - Tsunagu Kizuna [Nardoxyribonucleic)](https://osu.ppy.sh/s/93566/ "Team. Nekokan(Neko] feat. Amaoto Junca - Tsunagu Kizuna [Nardoxyribonucleic)")|0.78|9|124|
+|211|93566|[Team. Nekokan[Neko] feat. Amaoto Junca - Tsunagu Kizuna (Nardoxyribonucleic)](https://osu.ppy.sh/s/93566/ "Team. Nekokan[Neko] feat. Amaoto Junca - Tsunagu Kizuna (Nardoxyribonucleic)")|0.78|9|124|
 |212|57468|[sakuzyo - AXION (DaxMasterix)](https://osu.ppy.sh/s/57468/ "sakuzyo - AXION (DaxMasterix)")|0.78|36|375|
 |213|97485|[Osugi Kumiko - Doraemon no Uta (Niko-nyan)](https://osu.ppy.sh/s/97485/ "Osugi Kumiko - Doraemon no Uta (Niko-nyan)")|0.77|30|141|
 |214|190961|[Aoi Eir - IGNITE (TV size ver.) (DakeDekaane)](https://osu.ppy.sh/s/190961/ "Aoi Eir - IGNITE (TV size ver.) (DakeDekaane)")|0.77|52|233|
@@ -1793,7 +1793,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |14|255039|[M2U - The Queen (WildOne94)](https://osu.ppy.sh/s/255039/ "M2U - The Queen (WildOne94)")|1.08|336|916|
 |15|218623|[Nekomata Master - Avalon no oka (Intensity)](https://osu.ppy.sh/s/218623/ "Nekomata Master - Avalon no oka (Intensity)")|1.07|252|713|
 |16|145032|[ARM (IOSYS) - Koisuru*Uchuu Sensou!! Abababa Mix (FlandreScarlet-)](https://osu.ppy.sh/s/145032/ "ARM (IOSYS) - Koisuru*Uchuu Sensou!! Abababa Mix (FlandreScarlet-)")|1.07|250|775|
-|17|332623|[Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Crystal)")|1.07|102|376|
+|17|332623|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)](https://osu.ppy.sh/s/332623/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)")|1.07|102|376|
 |18|261911|[MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki)](https://osu.ppy.sh/s/261911/ "MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki)")|1.05|102|412|
 |19|193373|[Hitsuji to Ojisan - XENO (toybot)](https://osu.ppy.sh/s/193373/ "Hitsuji to Ojisan - XENO (toybot)")|1.05|168|540|
 |20|208095|[Sharlo & yealina - Kakushigoto (Sharlo)](https://osu.ppy.sh/s/208095/ "Sharlo & yealina - Kakushigoto (Sharlo)")|1.04|84|379|
@@ -1892,7 +1892,7 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 |36|342327|[3R2 - Next Stop.With You (feat. KSP) (Sky_Demon)](https://osu.ppy.sh/s/342327/ "3R2 - Next Stop.With You (feat. KSP) (Sky_Demon)")|1.08|120|921|
 |37|210610|[xi - Garyou Tensei (LNP-)](https://osu.ppy.sh/s/210610/ "xi - Garyou Tensei (LNP-)")|1.08|400|2710|
 |38|323163|[Lifetheory - Daisy (Tidek)](https://osu.ppy.sh/s/323163/ "Lifetheory - Daisy (Tidek)")|1.08|259|1906|
-|39|349774|[Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Kuo Kyoka)](https://osu.ppy.sh/s/349774/ "Doma Umaru (CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! [Kuo Kyoka)")|1.08|475|2482|
+|39|349774|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Kuo Kyoka)](https://osu.ppy.sh/s/349774/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Kuo Kyoka)")|1.08|475|2482|
 |40|256623|[AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/s/256623/ "AKINO from bless4 - MIIRO ([ S a k u r a ])")|1.07|384|2384|
 |41|302693|[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) ([ S a k u r a ])](https://osu.ppy.sh/s/302693/ "Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) ([ S a k u r a ])")|1.07|282|1879|
 |42|194921|[Amane - Space Time (Amane Hardcore Remix) (Lieselotte)](https://osu.ppy.sh/s/194921/ "Amane - Space Time (Amane Hardcore Remix) (Lieselotte)")|1.06|245|1544|
