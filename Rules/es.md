@@ -10,7 +10,8 @@ Reglas de la Comunidad
 2.  ** Se bueno con los demas.** el acoso u otro antagonismo no tiene lugar en la comunidad de osu! donde das clic en círculos, golpeas tambores, atrapas frutas y tocas arriba de 8 teclas a la vez, no para ser idiota con otros.
 3.  ** No seas un douche.** Si en algún momento no estás seguro de si estás infringiendo las reglas, probablemente lo estés haciendo.
 4.  ** Somos una comunidad para todas las edades.** Esto significa que todo material +18/NSFW (No es seguro para mostrar –en inglés) como drogas o temas sexuales no son bienvenidos aquí, Excepto cuando se hace un comentario apropiado para eso, pero generalmente hablando, manténganlo limpio..
-5.  **Where the rules do not prevail, common sense shall.** La administración tiene la explicita discreción de aplicar su jucio así sea necesario.
+5.  **Donde las reglas no prevalezcan, Usa el sentido común.** La administración tiene la explicita discreción de aplicar su jucio así sea necesario.
+
 Reglas del Chat
 ------------------
 
