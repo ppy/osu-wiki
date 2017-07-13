@@ -14,27 +14,22 @@ Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads g
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/7e4iJabYwpA" frameborder="0" allowfullscreen></iframe></br>
 
-
 He isn’t the only one to enter the 700pp club that day! [Yaong](https://osu.ppy.sh/u/1883865) surged into the 11k pp club with an unbelievable 98.82% HR FC on [xi - Blue Zenith](https://osu.ppy.sh/b/658127) to score 707pp and taking the No. 2 spot on the map, taking the first modded FC on the FOUR DIMENSIONS difficulty. You have to watch this.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sf29XhQc1cM" frameborder="0" allowfullscreen></iframe></br>
 
-
 [Rucker](https://osu.ppy.sh/u/147515) definitely had MinG3012 (and Axarious and Epiphany) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/b/893739) to earn himself 118pp. So, when’s the all 50 run? We will be waiting.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7iPh4um_Qwo" frameborder="0" allowfullscreen></iframe></br>
-
 
 osu!catch World Cup 2017 winner [[224]Hyperw7](https://osu.ppy.sh/u/4158549) definitely still has some adrenaline in his blood, unleashing the first HDHR FC on [onoken - P8107](https://osu.ppy.sh/b/686192r) with an amazing 99.88% accuracy to take 1158pp. So much patience was put into this, but it all paid off.
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/DDrvck6gYmU" frameborder="0" allowfullscreen></iframe></br>
 
-
 There are no brakes to what [jakads](https://osu.ppy.sh/u/259972) can do, sniping cheetose by a mere 90 points for the No. 1 spot on [Kurokotei - Galaxy Collapse](https://osu.ppy.sh/b/992512) and earning 685pp with his 99.91% play. It may not be the highest accuracy on the leaderboards, but it certainly is a really great score.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/1lUnxqYUf08" frameborder="0" allowfullscreen></iframe></br>
-
 
 NOTABLE MENTIONS
 -----
