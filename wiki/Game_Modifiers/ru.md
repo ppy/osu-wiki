@@ -172,9 +172,9 @@
 
 :**Для сравнения, снизу прикреплены скриншоты с HD и FI в Мании:**
 
-<File:GM> o!m FI.jpg|FI <File:GM> o!m HD.jpg|HD <File:GM> o!m FI(2).jpg|FI (DDR style) <File:GM> o!m HD(2).jpg|HD (DDR style)
+![FI](img/GM_o!m_FI.jpg "FI") ![HD](img/GM_o!m_HD.jpg "Hidden") ![HD (DDR style)](img/GM_o!m_FI2.jpg "HD (DDR style)") ![FI (DDR style)](img/GM_o!m_HD2.jpg "FI (DDR style)")
 
-<File:GM> FI comp.jpg| FI сравнение невидимости нот в зависимости от комбо <File:GM> HD comp.jpg| То же сравнение, но уже с HD
+![FI сравнение невидимости нот в зависимости от комбо](img/GM_FI_comp.jpg "FI сравнение невидимости нот в зависимости от комбо") ![То же сравнение, но уже с HD](img/GM_HD_comp.jpg "То же сравнение, но уже с HD")
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
