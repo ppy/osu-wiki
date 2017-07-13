@@ -43,7 +43,7 @@ Estas reglas se aplican estrictamente a los Beatmaps enviados a través del jueg
 Existe un conjunto de reglas más detalladas para la creación de Beatmaps conocido como [Ranking Criteria](/wiki/Ranking_Criteria).
 1. **Asegúrate de tener permiso para usar cualquier archivo que contenga tu carpeta/beatmap.** Esto incluye Canciones, Videos, Hitsounds, Gráficos y cualquier otro contenido que no sea propio del usuario, Si no estás seguro de dónde encontrar el contenido que es libre de usar, tenemos una biblioteca (en expansión) de pistas disponibles en [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) todo es 100% licenciado para usar en _osu!_.
 2.  **Manténgase en el tema principal (mods y ayudas) en la discusión del Beatmap.** Estos temas/discusiones son sobre el Beatmap en cuestión y nada mas. Si tienes un problema con algo que no es del Beatmap, publícalo en el foro/subforo apropiado.
-3.  **No cometas plagio o robes el trabajo de otros** No incluyas ni uses el trabajo de otros usuarios sin el adecuado permiso (incluyendo pero no limitado a Skins y GDs).
+3.  **No cometas plagio o robes el trabajo de otros.** No incluyas ni uses el trabajo de otros usuarios sin el adecuado permiso (incluyendo pero no limitado a Skins y GDs).
 
 Reglas sobre Mensajes Fuera de Lugar (Off-Topic)
 ---------------
