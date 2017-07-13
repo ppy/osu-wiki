@@ -34,7 +34,9 @@ The insanely technical standard convert [gmtn vs. kozato - squartatrice](https:/
 
 ![](/wiki/Tournaments/CWC/2017/podium.jpg)
 
-Congratulations to South Korea on becoming three-time osu!catch World Champions, who each take home $300 in prize money, an exclusive osu! tumbler and pins, a unique profile badge, and the "osu!catch Champion" user title for one year. Congratulations to China on once again reaching the Grand Final with an impressive silver medal placement, who will receive $160 per team member as well as the aforementioned exclusive osu! tumbler, pins and profile badge, and also to Indonesia, missing out by the narrowest of margins to claim bronze along with $80 per player in addition to the mentioned loot.
+Congratulations to South Korea on becoming three-time osu!catch World Champions, who each take home $300 in prize money, an exclusive osu! tumbler and pins, a unique profile badge, and the "osu!catch Champion" user title for one year.
+
+Congratulations to China on once again reaching the Grand Final with an impressive silver medal placement, who will receive $160 per team member as well as the aforementioned exclusive osu! tumbler, pins and profile badge, and also to Indonesia, missing out by the narrowest of margins to claim bronze along with $80 per player in addition to the mentioned loot.
 
 Additional thanks must go to all the players for putting in the utmost effort for our viewing entertainment. To the tournament staff, referees, statisticians and my fellow commentators, it has been an absolute pleasure to work with you all. And lastly, huge thanks to everyone who tuned in to watch the tournament unfold, to support their favourite players, and make this year's osu!catch World Cup a truly unforgettable experience.
 
