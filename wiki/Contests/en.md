@@ -55,17 +55,6 @@ Notes:
 | Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/s/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/u/3250792) | [Results](https://osu.ppy.sh/news/159160085153) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
 | Aspire 2017 Stage Two | Function Phantom - Algebra                                                                  | ![osu!taiko][o!t]    | TBA                                             | TBA                                             | TBA                                                    |
 
-## Monthly Fanart Contest
-
-Notes:
-
-- Two winners (by public poll and staff) will each get a full one-year supporter tag and osu!tablet/Pippi Plushie.
-- Runner-ups get one-month supporter tag.
-
-You can see a gallery of each contest at the [Facebook page](https://www.facebook.com/osugame).
-
-To see the completed fanart contents, see [Monthly Fanart Contest](Monthly_Fanart_Contest).
-
 ## osu!store Contests
 
 Notes:
