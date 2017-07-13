@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Scorewatch: July Week 2"
-permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-1
+permalink: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 date: 2017-07-14 15:00:00 +0200
-tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-1
+tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 ---
 Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads going crazy once again in this article of scorewatch!
+
+![](https://puu.sh/wIuEB/29a48fed1e.png)
 
 [Emilia](https://osu.ppy.sh/u/2003326) climbed into the top 10 with an amazing pp spree on stream, setting some crazy scores such as an amazing 99.10% 1x miss HDDT score on [HO-KAGO TEA TIME - Kira Kira Days](https://osu.ppy.sh/b/954692) to earn himself a whopping 744pp. His unique tap+x style has definitely proved its worth, and he is now sitting comfortably at 7th in global.
 
