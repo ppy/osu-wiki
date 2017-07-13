@@ -529,26 +529,7 @@ Game modifiers **must** be capitalised. For example:
 Gameplay elements should **never** be capitalised. For example:
 
 - In osu!standard, **beatmaps** are composed of three different gameplay elements: **circles**, **sliders**, and **spinners**.
-- The **beatmap** **editor** is a place where **mappers** can **map** a song of their choice.
-
----
-
-These words are spelt as follows (note the space):
-
-- `hit circles`
-- `approach circles`
-- `slider ticks`
-- `slider ball`
-- `slider path`
-- `hit burst`
-- `game mode` (or just `mode`)
-- `game mod` (or just `mod`)
-- `play style`
-- `hit sound`
-
----
-
-The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity follow the definitions as stated in the [Glossary](/wiki/Glossary/).
+- The **beatmap** **editor** is a place where **beatmappers** can map a song of their choice.
 
 ### Contractions
 
@@ -573,3 +554,24 @@ When referring to the player, use `the player` or `a player`.
 In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
 
 **Never** use the first person perspective, `I`.
+
+### Terminology
+
+These words are spelt as follows (note the space):
+
+- `hit circles`
+- `approach circles`
+- `slider ticks`
+- `slider ball`
+- `slider path`
+- `hit burst`
+- `game mode` (or just `mode`)
+- `game mod` (or just `mod`)
+- `play style`
+- `hit sound`
+
+The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
+
+---
+
+Never use the terms "mappers" and "maps"; instead, use "beatmappers" and "beatmaps" respectively.
