@@ -6,7 +6,7 @@ Estas reglas son la base para ayudarnos a mantener la comunidad de osu! como un 
 Reglas de la Comunidad
 ---------------
 
-1.  **Cada jugador debe tener solo UNA cuenta, Esta cuenta es tuya y de nadie más (no de tu hermano, de tu madre, de tu hermana, de tu amigo, es TUYA. No compartas tu cuenta con nadie mas.**
+1.  **Cada jugador debe tener solo UNA cuenta,** Esta cuenta es tuya y de nadie más (no de tu hermano, de tu madre, de tu hermana, de tu amigo, es TUYA. No compartas tu cuenta con nadie mas.
 2.  **Se bueno con los demas.** el acoso u otro antagonismo no tiene lugar en la comunidad de osu! donde das clic en círculos, golpeas tambores, atrapas frutas y tocas arriba de 8 teclas a la vez, no para ser idiota con otros.
 3.  **No seas un douche.** Si en algún momento no estás seguro de si estás infringiendo las reglas, probablemente lo estés haciendo.
 4.  **Somos una comunidad para todas las edades.** Esto significa que todo material +18/NSFW (No es seguro para mostrar –en inglés) como drogas o temas sexuales no son bienvenidos aquí, Excepto cuando se hace un comentario apropiado para eso, pero generalmente hablando, manténganlo limpio..
@@ -35,6 +35,7 @@ Reglas del Foro
 5.  **Mantén tu Avatar y Firmas en rangos razonables.** Si están animados (.gif disfrazados con .png o .jpg) no deben ser Estroboscópicos o tengan destellos excesivos. También deben tener un tamaño lo suficientemente pequeño para que los usuarios con PCs de bajos recursos y/o conexión lenta puedan tener acceso, lo ideal es que sean de 500kb (Kilobytes) o lo menos posible.
 6.  **No publiques anuncios, enlaces de referencia o cualquier otro contenido molesto o intrusivo.** Las cosas como enlaces de afiliados y referencias serán divertidos para el usuario que los publica pero es una molestia para todos los demás, así que no lo hagas. Los contenidos/objetos incrustados con auto-carga o auto-reproducción también se incluyen en esta regla.
 7.  **No está permitido vincular aplicaciones o servicios de dudosa procedencia.** Simplificando, si hay duda sobre su legalidad de lo vinculado, no son aptas para ser publicadas.
+
 Reglas de Envio de Beatmaps (BSS)
 ---------------------------------
 
@@ -43,6 +44,7 @@ Existe un conjunto de reglas más detalladas para la creación de Beatmaps conoc
 1. **Asegúrate de tener permiso para usar cualquier archivo que contenga tu carpeta/beatmap.** Esto incluye Canciones, Videos, Hitsounds, Gráficos y cualquier otro contenido que no sea propio del usuario, Si no estás seguro de dónde encontrar el contenido que es libre de usar, tenemos una biblioteca (en expansión) de pistas disponibles en [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) todo es 100% licenciado para usar en _osu!_.
 2.  **Manténgase en el tema principal (mods y ayudas) en la discusión del Beatmap.** Estos temas/discusiones son sobre el Beatmap en cuestión y nada mas. Si tienes un problema con algo que no es del Beatmap, publícalo en el foro/subforo apropiado.
 3.  **No cometas plagio o robes el trabajo de otros No incluyas ni uses el trabajo de otros usuarios sin el adecuado permiso (incluyendo pero no limitado a Skins y GDs).
+
 Reglas sobre Mensajes Fuera de Lugar (Off-Topic)
 ---------------
 
@@ -51,6 +53,7 @@ Reglas sobre Mensajes Fuera de Lugar (Off-Topic)
 1. **Ningún tema en Off-Topic tiene valor.** Simplemente es basura, Si tus temas se siguen moviendo a Off-Topic, se juzgará de que no son dignos de una discusión seria, toma el indicio.
 2. **La estupidez excesiva es mala.** Ser encarecidamente mudo está bien, y cae en el modus operandi del Mensajeo-basura, La verdadera estupidez nunca está bien. Si no puedes distinguir la diferencia, ya estás rompiendo la regla.
 3. **Los temas de Cumpleaños solo se permiten en Off-Topic y en ningún otro lugar mas.** Todos los temas de cumpleaños deben ir acompañados de no menos de 3 imágenes de chicas anime bailando o serán *Despiadadamente* arrojados bajo un autobús.
+
 ¿Que pasa si rompo las reglas?
 ---------------
 
