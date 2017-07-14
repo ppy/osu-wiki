@@ -7,12 +7,11 @@ tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 ---
 Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads going crazy once again in this article of scorewatch!
 
-![](https://puu.sh/wIuEB/29a48fed1e.png)
+![](/wiki/shared/news/2017-07-14-scorewatch-july-week-2/banner.png)
 
 [Emilia](https://osu.ppy.sh/u/2003326) climbed into the top 10 with an amazing pp spree on stream, setting some crazy scores such as an amazing 99.10% 1x miss HDDT score on [HO-KAGO TEA TIME - Kira Kira Days](https://osu.ppy.sh/b/954692) to earn himself a whopping 744pp. His unique tap+x style has definitely proved its worth, and he is now sitting comfortably at 7th in global.
 
-<iframe width="100%" height="315"
-src="https://www.youtube.com/embed/7e4iJabYwpA" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7e4iJabYwpA" frameborder="0" allowfullscreen></iframe></br>
 
 He isn’t the only one to enter the 700pp club that day! [Yaong](https://osu.ppy.sh/u/1883865) surged into the 11k pp club with an unbelievable 98.82% HR FC on [xi - Blue Zenith](https://osu.ppy.sh/b/658127) to score 707pp and taking the No. 2 spot on the map, taking the first modded FC on the FOUR DIMENSIONS difficulty. You have to watch this.
 
