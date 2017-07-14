@@ -123,7 +123,7 @@ However, it is _bad practice to do this in the long run_.
 This is where branching comes into play.
 By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
 
-In the event of major slip-ups, you can cut off the branch and start a new branch copy based on the clean branch.
+In the event of major slip-ups, you can delete the branch and start a new branch based on the clean branch.
 
 ### Through GitHub's Web Editor
 
