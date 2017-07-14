@@ -260,23 +260,30 @@ If you are not using any of the above, then you will need to send in a support t
 
 ## Website
 
-### My support ticket was closed with no response!
+### I haven't received a reply to my support ticket and it's been over 2 weeks!
 
-This means that the support staff have determined that your issue is not appropriate for this service.
+**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-If you have been banned in the past, it is a warning call to be more truthful and forthwith in your responses, or you risk having your tickets permanently marked as "antagonistic", which cuts off your only recourse of becoming a legitimate member of the community again.
+You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
+
+In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you haven't received a notification like this, you don't need to worry about it!
 
 ### My user page has been locked and I can't edit it!
 
-If your user page has been locked, it means that one of our volunteer moderators has judged it to have content which is inappropriate for our community. Usually, these offensive pages are cleared first, and a warning issued.
+**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
 
-Users which ignore this warning will soon find that they can no longer edit their user page, or even some aspects of their profile data. This is irreversible in most circumstances.
+In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh) and discussing your situation with them.
 
-If you believe that you have had your user page access revoked in error or wish to restore access to it, feel free to file a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) listing why, including the previous contents of your user page. We may offer a final chance depending on the severity of your past offenses.
+Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
-### How do I completely block another user from contacting me?
+If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global Moderation Team) with what you plan to put up and they'll let you know if it's okay.
 
-In the event that another user on the game is harassing you via private messages either on the forums or osu! itself, there are a few steps that you can take yourself to make the problem figuratively and literally disappear.
+
+### Can I completely block another user from contacting me?
+
+**Yes, absolutely.**
+
+In the event that another user on the game is harassing you via private messages either on the forums or osu! itself, there are a few steps that you can take yourself to filter out their messages.
 
 #### Block a user from contacting you in-game
 
@@ -284,12 +291,12 @@ In the event that another user on the game is harassing you via private messages
 
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Simply add the offending user's username to that list, making sure to separate multiple entries with spaces between them (RudePerson1 RudePerson2).
+3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (The Gatekeeper becomes The_Gatekeeper for example).
 4. You're done! You'll no longer see public chat messages from any users added onto that list, nor receive private messages from them.
 
 #### Block all non-friends from sending private messages in-game
 
-If you wish to prevent anyone not on your friendslist from sending you private messages (useful if you are a streamer), follow the following steps. **Please note: moderators are not affected by this functionality and may PM you regardless.**
+If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and may always PM you regardless.**
 
 1. Click the Options menu button in-game
 2. Type "block" to filter the options listing to the "In-game Chat" section.
@@ -316,153 +323,216 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
 7. You're done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
 
-#### I'm still having problems with a user despite all this!
+#### What if I'm still having problems with a user after blocking them?
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them out, send us an email at [support@ppy.sh](mailto://support@ppy.sh) with pictures of any incidents where this is happening, along with any chatlogs of the issue. We'll sort it out for you!
+**Never fear, our moderation team will help you out.**
+
+If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto://support@ppy.sh).
+
+Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
 
 ### What are these "user pages" that I see on other players profiles?
 
-osu!supporters are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the community rules!
+**User pages are special profile elements that all osu!supporters get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
 
-If your supporter tag runs out, your user page will remain visible and you will still be able to edit it.
+osu!supporters are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
 
-### When I try to register, all the fields say "invalid request"!
-
-This is a known issue, and we aren't yet sure what causes it. Some possible workarounds are:
-
-- Make sure JavaScript is enabled and osu.ppy.sh is allowed to use it
-- Register on another browser
-- Registering on a different computer or Internet connection
-
-If none of these solutions work for you, or the first two don't work and you have no access to another computer or internet connection, please contact support by sending an e-mail to [accounts@ppy.sh](mailto://accounts@ppy.sh) and we'll try to get it resolved ASAP.
+Even if your supporter tag happens to run out, your user page will remain visible and you will still be able to edit its contents.
 
 ### Do I need to use my email address to register?
 
-No - ***osu!* authenticates your account by having you log in to the game client.** If you have trouble connecting with the client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
+**No, you don't. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
 
-We highly recommend using an email address that you have regular access to (and is not a disposable 24hr "fake" email), as you will need to use the email to recover your password should you lose it, and also to talk with support representatives.
+If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
-### I can't search for a beatmap artist who's name is less than 3 characters long!
+While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
 
-Due to the limitation of the current search engine, it is simply not possible to search for less than three characters at once. If you want to find a specific artist with a short name, try using the Google Search bar at the upper left-hand corner and typing the artist's name in enclosed quotation marks - such as "Xi", for instance.
+### Why can't I search for a beatmap artist who's name is less than 3 characters long?
 
-### My stats on the web are all wrong!
+**Our local search engine can't handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
 
-This is likely because you are looking at the wrong game mode. On your profile, click one of the four tabs to view your stats for the selected game mode. Your profile will automatically switch to whichever game mode you've last played.
+Simply type the name of the artist you're searching for into the Google Custom Search bar and Google will do the rest.
 
-If you have been inactive for a certain time and your stats are shown wrong, simply play a few maps to display them again. Inactive users have their stats hidden.
+### Why are the statistics in my user profile page wrong?
+
+**You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
+
+If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
 
 ----------------------------------------------------------------------------
 
 ## Gameplay
 
-### My combo/scores/accuracy display are missing!
+### My combo counter, score display or accuracy display is missing!
 
-*osu!* has a feature that toggles the HUD (scores, combo and accuracy). To enable or disable this feature, press `Shift` + `Tab`.
+**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
 
-If you changed the keybinding that toggles the scoreboard, press and hold shift and press the key that toggles your scoreboard instead.
+If you've changed the keybinding that toggles the scoreboard, this will not work. You can check which key you've set it to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
 
 ### My local scores are missing!
 
-There are few possible causes for this:
+**There's a few reasons why this can happen. Read on below!**
 
-**You have recently reinstalled the game client.**
+#### Have you recently reinstalled the game client?
 
-Reinstalling the game client will automatically clear all of your local scores. The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear. If you are an osu!supporter, you can use the Ranked (Played) filter in osu!direct to find any beatmaps you may have submitted scores for in the past.
+**Reinstalling the game client will automatically clear all of your local scores.**
 
-**I have the songs, and I am certain I achieved a score on this map!**
+These are unfortunately, gone.
 
-Are you sure you are set to the right game mode? A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. You can change the game mode by clicking the Mode button at the bottom left of the screen in song select - see this, and then selecting the appropriate mode that you submitted the score with.
+The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
 
-### My scores earned offline aren't showing up on the online rankings!
+Handy tip - if you're an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you've set score on in the past.
 
-Sorry, but scores can only be submitted to our servers while you are playing online - local scores cannot be manually added or sent to our servers. If you are playing online and suffer a brief disconnection, your score will automatically reattempt to send itself for as long as it is able to do so.
+#### Are you set to the correct game mode?
 
-### I just downloaded a beatmap pack that I had before, and scores aren't showing!
+**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
 
-This is normal - as you play other maps, the game client will automatically download the latest scores from the game servers gradually. Leaving osu! idle for a little while will do exactly the same thing, if you are impatient.
+A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
 
-### White trails / smoke appears when playing!
+You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
 
-These trails are a feature called **smoke** and can be used to draw on your playfield for novelty's sake. Anybody who is spectating you can see this smoke as well. Draw pretty pictures, or phallic objects to the amusement of your spectators!
+#### Are you playing offline?
 
-The default keybinding for this feature is `C`, and needs to be held down in order to function.
+**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
 
-**How do I remove it?**
+If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
 
-If the smoke appears when you don't want it to, go to main menu and open the options menu from there, find the button named"Key Bindings" and click it to bring up the keybindings menu. In there, look for the entry named Smoke and change key used for smoke to a different key.
+#### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
 
-### How do I save my own replay of a completed song?
+**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
 
-You can save your replay after you have completed the song, in order to do that:
+Playing the game or doing something else will let the client catch up in the background.
 
-- Enter the post-game results screen.
-- Hit the `F2` button. That will save the replay in the /Replays/ folder under the osu! installation directory.
-- You're done!
+### What is this white trail or smoke-like line behind my cursor?
 
-If you have forgot to save the replay at the end of the song, don't panic! You can always check the local ranking of your map, select the desired score, and hit `F2` to save a new replay manually.
+**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
-*osu!* automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+
+### How do I save my own replay of a score I just made?
+
+**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
+
+This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
+
+*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
 
 Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
 
-### I can't submit my score, osu! says my game version is too old!
+### osu! is telling me that my game client is too old!
 
-If *osu!* doesn't update automatically, you can force update by going into Options and selecting Run Updater. Alternatively, you can close osu! and restart the osu.exe while holding shift. This will provide you multiple recovery options.
+**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
 
-### My scores are not submitting, and I have everything updated!
+If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
 
-- Check if you were connected to the internet while achieving the score - your internet might have just died when you achieved the score.
-- Make sure your firewall isn't blocking *osu!* from connecting to the game servers.
-- Close all programs running in background.
-- Check if the score submission system is online. There is small possibility that osu!'s score submission system was offline while you have achieved your score, and it therefore couldn't send score. In this case don't close *osu!* until issues with score system are resolved as the game will try to re-send scores for up to 64 minutes after the initial attempt in case of failure.
+### My scores aren't submitting!
 
-Unfortunately, **we cannot upload scores for you - even by request.** If you cannot submit a score for whichever reason (due to technical issues or otherwise) you will need to reattempt the score at a later date once the issues are resolved. Sorry!
+**Oops! There's a few reasons why this can happen. Let's go through them:**
 
-### The notes are not synced to the rhythm of the music!
+#### Were you connected to the Internet while playing?
 
-There are a few possibilities which could cause that to happen. Here are the most common ones:
+**If you weren't, your score may not submit.**
 
-- Go to options menu, find Universal Offset setting and make sure it is not set to an incorrect value. The default value is 0, and you should only change it if needed.
-- If your your issue persists when this setting is set to 0 try playing around with the Offset Wizard until everything is in sync.
-- Make sure you are not running any sound processing software or surround sound in general. A piece of software that commonly causes this issue is Razer Surround Audio.
-- If none of the above helped, you may want to try updating your sound drivers. These are typically bundled with the chipset drivers for your computer's motherboard.
+This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
+
+#### Is osu! allowed in your local firewall or anti-virus suite?
+
+**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+
+Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+
+#### Are you running lots of programs in the background?
+
+**Some can interfere with your ability to submit scores.**
+
+Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you're not having issues with connectivity otherwise.
+
+#### Are the score submission servers up?
+
+**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+
+If the servers are offline, don't close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+
+#### Can you upload a score I set for me?
+
+**Unfortunately, we cannot upload scores upon request.**
+
+If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
+
+### The notes seem out of sync or out of time with the music!
+
+**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+
+Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
+
+Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+
+The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
+
+- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
+- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
+- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
 
 ### I'm experiencing lag spikes or stuttering during play!
 
-Lag can be caused by a variety of things. Here are some common causes that may help if you're experiencing lag:
+**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
 
-- Background processes, anti-virus software, etc.. Try turning them off while you are playing osu!.
-- Viruses, spyware, trojans. If you don't have any anti-virus software at all, and your operating system and osu!'s performance seem choppy, you should try scanning your system with an anti-virus scanner.
-- Your computer may be in need an upgrade - some really old computers utilizing old Intel Integrated graphics (such as GMA) may not cut it for osu!.
-- Your drivers may not be up-to-date. One of the easiest ways of getting somewhat better performance is bringing your drivers up-to-date, especially your graphics drivers.
-- Try turning off some visual settings from the options menu. If your problem is not fixed by any of these, try the advanced troubleshooting methods below:
+#### Do you have lots of programs open at the same time while playing osu!?
 
-**The game's behaviour (either audio, video, or both) is delayed from realtime.**
+**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
 
-This could be a result of input lag. Make sure there aren' too many devices connected to the same USB port using a splitter. If the lag is system-wide, this is probably the case. Running osu! in windowed or borderless mode also causes a slight amount of input lag, so be sure to enable the fullscreen setting from the options menu to get around this.
+Try closing some programs that you don't need open while playing the game.
 
-Also make sure the Universal Offset setting found in the options menu is at 0. Only adjust this if hit objects and audio are not in sync when the setting is set to 0.
 
-**The game's performance is choppy or stutters frequently.**
+#### Is your computer secure?
 
-This might simply be caused by using a system with very outdated hardware. Aside from getting a more powerful system and checking the other sections in this article there is not much you can do in this case.
+**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
 
-**Occasional momentary freezeups.**
+Keep your computer clean and safe and you might notice an improvement.
 
-Check if another background process is monopolizing your system for brief moments. This could be caused by other games, web browsers, or server apps (including file sharing/torrents). Close all other background programs and tray icons and see if the problem persists.
+#### How old is your computer?
 
-**FPS drops sharply after an update.**
+**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
 
-This is known to happen to some users after some updates. Restart your PC to fix it in 99% of cases.
+The only way to deal with this one is to upgrade your computer!
 
-### Why does my screen look glitchy/cut/torn when there's motion? (VSync Off)
+#### Are your drivers up to date? 
 
-If you're running osu! in fullscreen with VSync turned off you might notice your screen looks glitchy/cut/torn when there is motion. This is called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and is actually nothing to be concerned about. It occurs because the game's framerate is not synchronized with your monitor's refresh rate.
+**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
 
-In order to prevent screen tearing you can either set the framerate limiter setting to VSync (which will lock your framerate to your monitor's refresh rate) or disable the fullscreen setting. You can find both of these in the options menu. Please do note that both will come at the cost of additional input latency.
+Graphics card drivers are particularly important for osu!, as well as sound card drivers.
 
-Alternatively, if you have the hardware support for either of these features, [G-Sync](http://www.geforce.com/hardware/technology/g-sync) and [FreeSync](http://www.amd.com/en-us/innovations/software-technologies/technologies-gaming/freesync) are also framerate synchronization technologies that prevent screen tearing. These technologies do not suffer from additional input latency like VSync does, but they require your hardware (graphics card, monitor and display interface) to support it.
+#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+
+**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+
+An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+
+#### Are you running osu! in windowed or borderless mode?
+
+**Both windowed and borderless mode introduce a _slight_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+
+#### Does your game freeze up for only a moment or so?
+
+**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+
+This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+
+#### Has the game recently updated?
+
+**Sometimes after a game update, the client may struggle for seemingly no reason. A simple reboot/restart of your machine will fix it.
+
+### My game looks glitchy, like the graphics are torn!
+
+**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
+
+This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
+
+You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+ 
+Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+
+Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
 ----------------------------------------------------------------------------
 
