@@ -58,7 +58,7 @@ For a styling guide when writing a page, check out [Article Style Guide][ASG] in
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
 
-This guide assumes that you already know the basics of Git. If not, please read [Git's documentation and guidebook](https://git-scm.com/doc).
+This guide assumes the reader's immidiate knowledge about Git. If you're not familiar with Git or VCS, please read [Git's documentation and guidebook](https://git-scm.com/doc).
 
 ## Prerequisites
 
