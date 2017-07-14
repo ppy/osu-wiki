@@ -2,11 +2,11 @@
 layout: post
 title: "osu!catch World Cup 2017 - Results"
 permalink: http://osunews.tumblr.com/post/162821221298/osucatch-world-cup-2017-results
-date: 2017-07-10 12:30:00 +0000
+date: 2017-07-14 11:15:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162821221298/osucatch-world-cup-2017-results
 ---
 
-With a fierce battle between South Korea and the last year's title holder China, the osu!catch World Cup 2017 concluded last Sunday. After long six weeks of intense fruit-catching competition, we are glad to pronounce South Korea as the new osu!catch World Champion of 2017!
+With a fierce battle between South Korea and the reigning title holder China, the osu!catch World Cup 2017 concluded last Sunday. After long six weeks of intense fruit-catching competition, we are glad to pronounce South Korea as the new osu!catch World Champion of 2017!
 
 ![](/wiki/shared/news/banners/catch_logo_2017.png)
 
