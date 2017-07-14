@@ -1,27 +1,26 @@
-Medals
+奖牌
 ======
 
-Medals, previously known as _achievements_, are little badges on a user's profile which indicate that the user has accomplished an exceptional goal.
-Currently, they are divided into 5 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), and [Hush-Hush](#hush-hush).
+奖牌，曾被称为_成就_，是在用户个人资料页面中显示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
+当前有5种奖牌：[谱面包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod初体验](#mod-introduction), and [隐藏](#hush-hush).
 
-Beatmap Packs
+谱面包
 -------------
 
-**The Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
-You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
+**谱面包**奖牌的获得方法是：**把某个谱面包中所有谱面以任意至少一个难度体验一次**。主题谱面包可以在[这里](https://osu.ppy.sh/p/packlist?t=t)获取。您必须在[osu!standard](/wiki/osu!standard)模式中获得对应难度的**`CLEARED`**评价（即获得成绩）来获取您的奖牌。
 
-There are currently 16 medals in this group which are divided into 4 packs: Video Game, Anime, Internet!, and Rhythm Game.
+当前共有16块奖牌，分为4大类：电子游戏，动漫，网络，以及音乐游戏。
 
-Each of these sections currently have 4 volumes to them.
+每一类别中有四个谱面包。
 
-| Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
-| :-------------: | :--------: | :------------: | :--------------: |
-| ![Video Game Pack vol.1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![Anime Pack vol.1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![Internet Pack vol.1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![Rhythm Pack vol.1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
-| ![Video Game Pack vol.2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![Anime Pack vol.2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![Internet Pack vol.2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![Rhythm Pack vol.2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
-| ![Video Game Pack vol.3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
-| ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
+| 电子游戏谱面包 | 动漫谱面包 | 网络！谱面包 | 音乐游戏谱面包 |
+| :--------------: | :----------: | :------------: | :--------------: |
+| ![电子游戏谱面包1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![动漫谱面包1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![网络！谱面包1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![音乐游戏谱面包1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
+| ![电子游戏谱面包2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![动漫谱面包2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![网络！谱面包2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![音乐游戏谱面包2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
+| ![电子游戏谱面包3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![动漫谱面包3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![网络！谱面包3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![音乐游戏谱面包3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
+| ![电子游戏谱面包4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![动漫谱面包4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![网络！谱面包4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![音乐游戏谱面包4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
-### Requirements
+### 要求
 
 - The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
 - The played game mode must be osu!standard.
@@ -32,12 +31,12 @@ Each of these sections currently have 4 volumes to them.
   It **must** be that specific song and that specific creator at that specific beatmap.
 - The player's account in question must be logged in to the osu!client (not osu!web).
 
-### Notes
+### 注意
 
 - Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
 - The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
 
-Skill
+实力
 -----
 
 Skill medals are currently divided into three groups: Combo, High Ranker, and Star-based.
