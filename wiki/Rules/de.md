@@ -19,7 +19,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 4. **Fördere faires Spielen und schenke Cheatern und anderen böswilligen Nutzern keine Beachtung.** Leider gibt es immer solche Leute und Aufmerksamkeit ist oft genau das, was sie weitermachen lässt oder andere zum Mitmachen anstiftet. Meldet diese Nutzer mit dem `!report` Befehl und widmet euch wieder anderen Dingen.
 5. **Nimm Rücksicht auf jüngere Mitspieler, die Teil dieser Community sind. Vermeide nicht jugendfreie Inhalte so weit wie möglich.** Nicht jugendfreie Dinge gehören einfach nicht in eine Community, die alle Altersgruppen umfasst. In privaten Chats kannst du dich unterhalten, wie du möchtet (übertreibe es nicht), halte dich aber in den öffentlichen Kanälen zurück.
 6. **Achte darauf welche Inhalte du mit anderen Leuten teilst, besonders bei möglicherweise verstörenden und expliziteren Darstellungen.** Wenn du zweimal darüber nachdenken musst, ob es okay ist, diesen Link zu teilen, ist er es wahrscheinlich nicht. Vermeide Inhalte mit schnell pulsierenden Effekten, Gewaltdarstellungen, Missbrauch oder anderen expliziten Inhalten.
-7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Anime Streaming-Webseiten oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spielen teilen, solange das in `#videogames` passiert.
+7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Anime Streaming-Webseiten oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spiele teilen, solange das in `#videogames` passiert.
 8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im *osu!* Chat geht es um *osu!* und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
 9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden.
 *[Moderatoren](/wiki/People/Global_Moderation_team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
@@ -38,7 +38,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmap_Submission_System) geteilt werden. Die Threads werden mithilfe des *osu!* Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
 
-Darüber hinaus existieren noch detaillierte Regeln zu Erstellung von Beatmaps, wenn sie geranked werden sollen - die [Ranking Kriterien](/wiki/Ranking_Criteria).
+Darüber hinaus existieren noch detaillierte Regeln zur Erstellung von Beatmaps, wenn sie geranked werden sollen - die [Ranking Kriterien](/wiki/Ranking_Criteria).
 
 1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du nicht sicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
 2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
@@ -50,7 +50,7 @@ Darüber hinaus existieren noch detaillierte Regeln zu Erstellung von Beatmaps, 
 
 1. **Kein Thema in Off-Topic ist irgendetwas wert.** Es ist alles Müll. Wenn deine Themen ständig ins Off-Topic Forum verschoben werden, können sie nicht ernst genommen werden - ein Wink mit dem Zaunpfahl.
 2. **Übertriebene Dummheit ist schlecht.** Ein bisschen dämlich kann ganz reizend sein und fällt unter den Operandus Mundi 'Shitposting'. Aber tatsächliche Dummheit ist niemals gut. Verstehst du den Unterschied nicht, brichst du die Regel bereits.
-3. **Geburtstagsthreads sind nur in Off-Topic erlaubt - und sonst nirgends.** Darüber hinaus müssen in jedem Geburtstagsthread mindestens drei (3) tanzende Anime Mädchen vorkommen - ansonsten werden sie *schonungslos* vor einen Laster geworden.
+3. **Geburtstagsthreads sind nur in Off-Topic erlaubt - und sonst nirgends.** Darüber hinaus müssen in jedem Geburtstagsthread mindestens drei (3) tanzende Anime Mädchen vorkommen - ansonsten werden sie *schonungslos* vor einen Laster geworfen.
 
 ## Was passiert, wenn ich die Regeln breche?
 
