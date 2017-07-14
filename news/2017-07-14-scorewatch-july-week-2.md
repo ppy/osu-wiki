@@ -21,7 +21,7 @@ He isn’t the only one to enter the 700pp club that day! [Yaong](https://osu.pp
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7iPh4um_Qwo" frameborder="0" allowfullscreen></iframe></br>
 
-osu!catch World Cup 2017 winner [[224]Hyperw7](https://osu.ppy.sh/u/4158549) definitely still has some adrenaline in his blood, unleashing the first HDHR FC on [onoken - P8107](https://osu.ppy.sh/b/686192r) with an amazing 99.88% accuracy to take 1158pp. So much patience was put into this, but it all paid off.
+osu!catch World Cup 2017 winner [\[224\]Hyperw7](https://osu.ppy.sh/u/4158549) definitely still has some adrenaline in his blood, unleashing the first HDHR FC on [onoken - P8107](https://osu.ppy.sh/b/686192r) with an amazing 99.88% accuracy to take 1158pp. So much patience was put into this, but it all paid off.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DDrvck6gYmU" frameborder="0" allowfullscreen></iframe></br>
 
