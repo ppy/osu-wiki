@@ -17,14 +17,13 @@ He isn’t the only one to enter the 700pp club that day! [Yaong](https://osu.pp
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sf29XhQc1cM" frameborder="0" allowfullscreen></iframe></br>
 
-[Rucker](https://osu.ppy.sh/u/147515) definitely had MinG3012 (and Axarious and Epiphany) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/b/893739) to earn himself 118pp. So, when’s the all 50 run? We will be waiting.
+[Rucker](https://osu.ppy.sh/u/147515) definitely had [MinG3012](https://osu.ppy.sh/u/1583218) (and [Axarious](https://osu.ppy.sh/u/2614511) and [Epiphany](https://osu.ppy.sh/u/3256299)) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/b/893739) to earn himself 118pp. So, when’s the all 50 run? We will be waiting.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7iPh4um_Qwo" frameborder="0" allowfullscreen></iframe></br>
 
 osu!catch World Cup 2017 winner [[224]Hyperw7](https://osu.ppy.sh/u/4158549) definitely still has some adrenaline in his blood, unleashing the first HDHR FC on [onoken - P8107](https://osu.ppy.sh/b/686192r) with an amazing 99.88% accuracy to take 1158pp. So much patience was put into this, but it all paid off.
 
-<iframe width="100%" height="315"
-src="https://www.youtube.com/embed/DDrvck6gYmU" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DDrvck6gYmU" frameborder="0" allowfullscreen></iframe></br>
 
 There are no brakes to what [jakads](https://osu.ppy.sh/u/259972) can do, sniping cheetose by a mere 90 points for the No. 1 spot on [Kurokotei - Galaxy Collapse](https://osu.ppy.sh/b/992512) and earning 685pp with his 99.91% play. It may not be the highest accuracy on the leaderboards, but it certainly is a really great score.
 
