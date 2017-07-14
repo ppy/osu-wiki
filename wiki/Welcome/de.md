@@ -22,7 +22,7 @@ Du wirst dich bestimmt fragen, was eine Beatmap ist. Wie in den meisten Spielen 
 
 ### Schritt 2 - Es herunterladen!
 
-Wenn du nach einer freigegebenen Beatmap eines Liedes Ausschau halten solltest, werden dir alle vorhanden angezeigt. Sei nicht sauer, wenn ein Lied nicht mit dabei sein sollte. Es sind jede Menge Unranked Beatmaps vorhanden, die derzeit noch in Bearbeitung sind, worunter auch dein Lieblingslied dabei sein könnte. Bitte **erstelle keine Anfragen für Beatmaps, die du gerne hättest**, die meisten Mapper werden Beatmaps von Liedern erstellen, worauf **sie** selbst am meisten Lust haben. Dies könnte jedoch ein perfekter Start für dich sein, um deine Karriere als Mapper zu starten!
+Wenn du nach einem bestimmten Lied Ausschau halten solltest, dann werden dir alle mit Hilfe der Suchfunktion gefundenen Betamaps angezeigt. Es sind jede Menge Unranked Beatmaps vorhanden, die derzeit noch in Bearbeitung sind, worunter auch dein Lieblingslied sein könnte. Bitte **erstelle keine Anfragen für Beatmaps, die du gerne hättest**, die meisten Mapper werden Beatmaps von Liedern erstellen, worauf **sie** selbst am meisten Lust haben. Dies könnte jedoch ein perfekter Start für dich sein, um deine Karriere als Mapper zu starten!
 
 ![Beatmap Auflistung Suchergebnisse](Welcome01.png "Beatmap Auflistung Suchergebnisse")
 
@@ -36,7 +36,7 @@ Auf jeder Seite der Beatmaps befindet sich ein großer `Download Beatmap` Knopf 
 
 ![.osz Dateisymbol](/wiki/shared/osz_icon_full.png ".osz Dateisymbol") 
 
-Nachdem du die Beatmap fertig heruntergeladen hast, kannst die Datei öffnen, indem du auf die Datei linksklickst oder die Datei direkt in *osu!* hineinziehst.
+Nachdem du die Beatmap fertig heruntergeladen hast, kannst die Datei öffnen, indem du die Datei durchs Anklicken öffnest oder die Datei direkt in *osu!* hineinziehst.
 
 ![.osz Dateien öffnen](Welcome03.png ".osz Dateien öffnen")
 
@@ -82,7 +82,7 @@ Das Level vom Spieler widerspiegelt die Menge an Scores, die der Spieler beim Sp
 
 ![Genauigkeit von Spielern](/wiki/shared/Accuracy_results.png "Genauigkeit von Spielern")
 
-Es gibt drei verschiedenen Arten von Accuracy - \[1\] Accuracy der jeweiligen Beatmap, \[2\] der Gesamtaccuracy und \[3\] pp-Accuracy. In einfachen Worten, die Accuracy der Beatmap hängt von den erhaltenen Hit-Scores ab, der Gesamtaccuracy ist der Durchschnitt aus allen gerankten Scores und die pp-Accuracy von den gerankten Scores, welche einem Performance Points geben. In *osu!* zählt neben den exakten Treffen des Hit-Objektes auch noch der Zeitpunkt, wann der Hit-Objekte angeklickt wird. Du solltest daher stark auf den Approach-Circle achten!
+Es gibt drei verschiedene Arten von Accuracy - \[1\] Accuracy der jeweiligen Beatmap, \[2\] der Gesamtaccuracy und \[3\] pp-Accuracy. In einfachen Worten, die Accuracy der Beatmap hängt von den erhaltenen Hit-Scores ab, der Gesamtaccuracy ist der Durchschnitt aus allen gerankten Scores und die pp-Accuracy von den gerankten Scores, welche einem Performance Points geben. In *osu!* zählt neben den exakten Treffen des Hit-Objektes auch noch der Zeitpunkt, wann der Hit-Objekte angeklickt wird. Du solltest daher stark auf den Approach-Circle achten!
 
 ### Medaillen
 
@@ -96,7 +96,7 @@ Medaillen sind kleine Abzeichen im Profil, wenn außergewöhnliche Ziele erreich
 
 *Vollständige Erklärung: [Chat Konsole](/wiki/Chat_Console/ "Chat Konsole")*
 
-Die Grundlagen zur Bedienung der [Chat Konsole](/wiki/Chat_Console/ "Chat Konsole") ist all denen wichtig, die daran interessiert sind, neue Freundschaften in unserer freundlichen Umgebung zu schließen. Es ist auch noch wichtig zu verstehen, wie man es bei gewissen Fällen anwendet, wenn jemand dir Nachrichten schickt, Tipps erzählt oder nach Hilfe fragt. Unten rechts gibt es einen Knopf mit der Aufschrift `Show Chat`, wodurch sich das Chat öffnen lässt. Es ginge jedoch schneller, wenn du stattdessen die `F8` Taste verwendest. Dir wird dann mehrere Chats, wie z. B. `#osu!`, `#announce`, `#userlog` und möglicherweise ein weiteres Fenster mit dem Namen des Spielers mit dem man sich gerade unterhaltet, angezeigt. Ungeachtet davon, unterlasse es bitte zu spammen (kontinuierlich sehr kurze Nachrichten in den Chat einzugeben), ansonsten kann es passieren, dass der Account für ein paar Minuten automatisch stummgeschaltet wird und all deine, bis dahin gesendeten Nachrichten, aus allen Chats entfernt werden. Du kannst durch das Drücken der `F9` Taste zur Benutzerliste gelangen (auch genannt als `erweiterte Chat Console`) und mit Hilfe des Filters die Suche beeinschränken.
+Die Grundlagen zur Bedienung der [Chat Konsole](/wiki/Chat_Console/ "Chat Konsole") ist all denen wichtig, die daran interessiert sind, neue Freundschaften in unserer freundlichen Umgebung zu schließen. Es ist auch noch wichtig zu verstehen, wie man es bei gewissen Fällen anwendet, wenn jemand dir Nachrichten schickt, Tipps erzählt oder nach Hilfe fragt. Unten rechts gibt es einen Knopf mit der Aufschrift `Show Chat`, wodurch sich das Chat öffnen lässt. Es ginge jedoch schneller, wenn du stattdessen die `F8` Taste verwendest. Dir wird dann mehrere Chats, wie z. B. `#osu!`, `#announce`, `#userlog` und möglicherweise ein weiteres Fenster mit dem Namen des Spielers mit dem man sich gerade unterhaltet, angezeigt. Ungeachtet davon, unterlasse es bitte zu spammen (kontinuierlich sehr kurze Nachrichten in den Chat einzugeben), ansonsten kann es passieren, dass der Account für ein paar Minuten automatisch stummgeschaltet wird und all deine, bis dahin gesendeten Nachrichten, aus allen Chats entfernt werden. Du kannst durch das Drücken der `F9` Taste zur Benutzerliste gelangen (auch genannt als `erweiterte Chat Console`) und mit Hilfe des Filters die Suche einschränken.
 
 ![Freundesliste](DE-Friend-list.jpg "Freundesliste")
 
