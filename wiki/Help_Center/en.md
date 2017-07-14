@@ -371,7 +371,7 @@ If you've changed the keybinding that toggles the scoreboard, this will not work
 
 ### My local scores are missing!
 
-**There's a few reasons why this can happen. Read on below!**
+There's a few reasons why this can happen. Read on below!
 
 #### Have you recently reinstalled the game client?
 
@@ -427,7 +427,7 @@ If this doesn't work, you can close osu! and restart the osu.exe while holding d
 
 ### My scores aren't submitting!
 
-**Oops! There's a few reasons why this can happen. Let's go through them:**
+Oops! There's a few reasons why this can happen. Let's go through them:
 
 #### Were you connected to the Internet while playing?
 
@@ -483,7 +483,6 @@ The default values work for most people, but if you find it isn't for you, you c
 
 Try closing some programs that you don't need open while playing the game.
 
-
 #### Is your computer secure?
 
 **Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
@@ -520,7 +519,7 @@ This usually clears up after closing everything non-essential before playing osu
 
 #### Has the game recently updated?
 
-**Sometimes after a game update, the client may struggle for seemingly no reason. A simple reboot/restart of your machine will fix it.
+**Sometimes after a game update, the client may struggle for seemingly no reason. A simple reboot/restart of your machine will fix it.**
 
 ### My game looks glitchy, like the graphics are torn!
 
