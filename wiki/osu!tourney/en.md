@@ -207,7 +207,6 @@ Sending `!mp help` to BanchoBot will reveal the above commands.
 The following is an example of command usage:
 
 - `!mp invite Zallius` - Invite Zallius to the room.
-- `!mp invite Loctav` - Invite Loctav into the room.
 - `!mp move Loctav 4` - Move Loctav to slot 4 of the room.
 - `!mp team Zallius blue` - Move Zallius to the blue team.
 - `!mp team Loctav red` - Move Loctav to the red team.
