@@ -163,6 +163,10 @@ Any properties enclosed with brackets `[]` are optional.
 #### Unprivileged commands:
 
 Only the original host of a room will be able to use unpriviliged commands in that room. If the original host leaves, the next host will not inherit the commands. If the original host rejoins the room, they will again be able to use the commands.
+- `!mp make <name>` - Creates a tournament room with the specified name.
+  - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
+  - When the match is finished, use `!mp close` to close the room.
+- `!mp invite <username>` - Invites a player to the room.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
 - `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
@@ -187,16 +191,11 @@ Only the original host of a room will be able to use unpriviliged commands in th
   - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
 - `!mp kick <username>` - Kicks the player from the room.
-- `!mp password` - Enables/disables the multiplayer room password (initially enabled).
+- `!mp password [<password>]` - Changes the password of the room. The password will be removed if `<password>` is not provided.
 - `!mp close` - Closes the room.
 
 #### Privileged commands:
 
-- `!mp make <name>` - Creates a tournament room with the specified name.
-  - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
-  - When the match is finished, use `!mp close` to close the room.
-- `!mp add <username>` - Brings a player into the room.
-  - The player will be forced into the room regardless of what they're doing, so this should not be used unless absolutely required.
 - `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
 
 `#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
@@ -207,8 +206,9 @@ Sending `!mp help` to BanchoBot will reveal the above commands.
 
 The following is an example of command usage:
 
-- `!mp move Zallius 1` - Move Zallius into slot 1 of the room.
-- `!mp move Loctav 4` - Move Loctav into slot 4 of the room.
+- `!mp invite Zallius` - Invite Zallius to the room.
+- `!mp invite Loctav` - Invite Loctav into the room.
+- `!mp move Loctav 4` - Move Loctav to slot 4 of the room.
 - `!mp team Zallius blue` - Move Zallius to the blue team.
 - `!mp team Loctav red` - Move Loctav to the red team.
 - `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
