@@ -4,7 +4,7 @@
 
 # Best Of series
 
-Index page of all the "Best Of" series.
+Index page for all of the "Best Of" series.
 
 - [2009](./2009 "Best of 2009")
 - [2010](./2010 "Best of 2010")
