@@ -28,13 +28,13 @@
 论坛规定
 ----------------
 
-1.  **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
-2.  **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
-3.  **Be productive with your criticism without resorting to personal attacks.** Criticism is a wonderful thing when done properly, but if you're resorting to personal attacks to make your point, you're doing it wrong and you should feel bad.
-4.  **Keep threads relevant, and avoid resurrecting older topics if the conversation has died out.** If a topic has been dead for years, it isn't really relevant any more, so just let it fade away. Post a new one, or maybe search and see if someone has answered your question already.
-5.  **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. They should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
-6.  **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
-7.  **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
+1. **只能发布有意思的主题。**论坛的重点在于讨论，所以确保你的主题值得大家一起讨论。
+2. **发言时注意内容必须全年龄适宜。**
+3. **批评别人时就事论事，不能进行人身攻击。**有时候适当的批评能给对方激励，但是人身攻击不是。
+4. **不能挖坟。**如果一个主题长时间无人回复，就让它被掩埋吧。
+5. **确保签名和头像符合规范。**如果有动图，则它们不能包含高速的闪光，尺寸应在500KB以下。
+6. **不能发布广告，推荐链接等其他令人不满的内容。**自动播放的音乐、视频也属于这一范畴。
+7. **不能发布未知风险的应用程序。**
 
 谱面讨论帖规定
 ---------------------------------
