@@ -12,18 +12,18 @@
 4. **我们是全年龄社区。**这意为着不能发布R18/NSFW（Not Safe For Work，不宜在工作期间访问）内容，例如毒品，性。除非它们是为了配合语境，否则绝对不能使用。
 5. **规定中没有指出的，请根据常识做出判断。**管理员有权利给出他们认为合适的裁决。
 
-游戏聊天室规定
+游戏聊天频道规定
 ------------------
 
-1.  **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
-2.  **Let the moderators handle issues in the chat.** You can point things out to them with the `!report` command and they'll handle the rest.
-3.  **If someone gets timed out, silenced or restricted, leave them be and don't start talking about them.** If someone is restricted, their case involves only them and the game administration - absolutely nobody else!
-4.  **Encourage fair play, and don't give attention to cheaters or other toxic users.** These people unfortunately do exist, and giving them attention can encourage them to continue, or provoke others to act as they do. Report them via the chat command `!report` or the buttons on their profile page and move on.
-5.  **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
-6.  **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
-7.  **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
-8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about _osu!_ foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
-9.  **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
+1. **尊重聊天频道内的所有玩家，不要刷屏。**如果你的聊天占据了半个屏幕，别人就不能愉快的聊天了。
+2. **让频道管理员处理聊天内的问题。**使用`!report`命令，他们收到后会进行处理。
+3. **不要讨论被禁言或限制的玩家。**他的问题只能由他自己和管理员解决，而不是其他人。
+4. **鼓励公平竞争，不要作弊。**如果你发现了作弊者，请使用`!report`命令举报，或是在他的个人资料页点击举报。
+5. **语言得体，避免R18/NSFW内容。**公共聊天频道不能发布这些内容，但是允许在私聊中发。
+6. **注意你与他人分享的内容，尤其是可能导致不适的内容。**分享之前三思而后行。
+7. **确保链接符合法律规定。**盗版链接，以及“warez”相关的内容都不能出现在聊天频道。
+8. **请勿发布第三方聊天工具的链接，包括Discord，Skype，QQ。**如果你需要邀请某人加入你的聊天服务器，请在私聊中发。
+9. **在指定了语言的聊天频道，必须使用该语言。**在没有指定语言的聊天频道，一律使用英文。但是`#lobby`和`#help`允许使用任何语言。*频道管理员在进行工作时可以忽略这条规定。*
 
 论坛规定
 ----------------
