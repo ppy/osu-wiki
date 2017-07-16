@@ -59,21 +59,19 @@ Off-Topic 板块规定
 当我违反规定时会发生什么？
 ---------------
 
-If you do find yourself on the wrong end of our community rules, bad things will happen.
+如果你违反了以上规章制度，下列（*包括但不限于*）惩罚将发生：
 
-These bad things may include (*but are not limited to*):
+* 一段时间内剥夺游戏内聊天的权利（俗称禁言）。
+* 直接移除用户个人资料、谱面内的侵权内容。
+* 剥夺编辑个人信息的权利。
+* 剥夺参加官方比赛的权利。
 
-* The removal of your ability to chat in-game for a period of time (known as a silence)
-* The removal of any infringing content from your userpage, profile or uploaded beatmaps
-* The loss of the privilege to edit or alter your userpage or profile details
-* The loss of the privilege to play or qualify in officially hosted tournaments
+禁言的时长随着违反次数的增加**自动增长**，管理员也不能控制你被禁言的时间。因此多次违反可能导致您被长期禁言。
 
-Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
-    
-Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+严重违反规定时的封禁时间最小值通常为48小时或更长，这类行为通常是违规图片以及骚扰其他玩家。
 
-If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
+在多次违反规定后，你的帐号可能被永久限制。
 
-Restricted accounts can not play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed.
+受限制的帐号不能在线游戏、提交分数、在线聊天，也不能在社区进行任何操作。因违反社区规定而被限制的用户可以在3个月后向工作人员申诉。
 
-Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.
+特别严重违反社区规定，甚至违反国际法的玩家，帐号将被即刻停用。
