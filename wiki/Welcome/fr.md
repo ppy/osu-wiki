@@ -2,7 +2,7 @@ Bienvenue sur osu!. Cette page vous explique les bases du jeu.
 
 **Note :** Une beatmap est un ensemble d'éléments du jeu assemblés de façon jouable en rythme avec une musique.
 
-![osu!](Osu-boxart.png "osu!")
+![osu!](osu-boxart.png "osu!")
 
 \_\_TOC\_\_
 

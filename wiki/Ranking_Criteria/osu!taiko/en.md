@@ -1,6 +1,8 @@
 osu!taiko 
 =============
 
+_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+
 These rules and guidelines has been discussed in the [osu!taiko Discussion Thread](https://osu.ppy.sh/forum/p/1275323). New rules or guidelines may be suggested in the [discussion forum](https://osu.ppy.sh/forum/87) which are going to be updated once the discussion reaches an agreement.
 
 Common Terms

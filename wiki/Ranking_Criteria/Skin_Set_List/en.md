@@ -1,6 +1,8 @@
 Skin Set List 
 ============= 
 
+_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
+
 The following tables contain all skin sets that are presented in the draft worked out by the skinning subdivision of the [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) (name credits go to Ephemeral).
 
 ## osu!
@@ -33,8 +35,8 @@ The entirety of this skin set is gameplay relevant.
 |particle50.png   | should be included together with all other particles; will only work if custom hitbursts are included   | optional  | 7x7px  |
 |particle100.ong   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
 |particle300.png   | should be included together with all other particles; will only work if custom hitbursts are included  | optional  | 7x7px  |
-|sliderpoint10.png   | should be included together with sliderpoint 30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
-|sliderpoint30.png   | should be included together with sliderpoint 30.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
+|sliderpoint10.png   | should be included together with sliderpoint30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
+|sliderpoint30.png   | should be included together with sliderpoint10.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
 
 ### Hitcircle Set
 
@@ -182,7 +184,7 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 
 ### Scorebar Set
 
-The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guidelineon the Ranking Criteria proposal.
+The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria proposal.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
