@@ -1,18 +1,18 @@
-Rules
+规章制度
 ============
 
-These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
+这些规章制度确保了 osu!社区 能有一个有趣而友好的氛围。
 
-Community Rules
+社区规定
 ---------------
 
-1.  **Each player may only have *ONE* account at any point of time.** This account is you. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else.
-2.  **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
-3.  **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-4.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
-5.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
+1. **一个玩家同时只能拥有*一个*帐号。**这个帐号属于您。不能将您的帐号与他人共享。
+2. **待人和善。**骚扰或敌视他人是不受欢迎的行为，请不要互相伤害。
+3. **不要逃避。**如果你不确定自己是否违反了规定，可能你已经违反了。
+4. **我们是全年龄社区。**这意为着不能发布R18/NSFW（Not Safe For Work，不宜在工作期间访问）内容，例如毒品，性。除非它们是为了配合语境，否则绝对不能使用。
+5. **规定中没有指出的，请根据常识做出判断。**管理员有权利给出他们认为合适的裁决。
 
-In-Game Chat Rules
+游戏聊天室规定
 ------------------
 
 1.  **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
@@ -25,7 +25,7 @@ In-Game Chat Rules
 8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about _osu!_ foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9.  **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
-Forum-wide rules
+论坛规定
 ----------------
 
 1.  **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
@@ -36,7 +36,7 @@ Forum-wide rules
 6.  **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
 7.  **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
-Beatmap Submission Rules
+谱面讨论帖规定
 ---------------------------------
 
 These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
@@ -47,7 +47,7 @@ A set of more detailed rules for beatmap construction exists, known as the [Rank
 2.  **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3.  **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 
-Off-Topic Rules
+Off-Topic 板块规定
 ---------------
 
 *The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
@@ -56,7 +56,7 @@ Off-Topic Rules
 2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
 3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
 
-What happens if I break the rules?
+当我违反规定时会发生什么？
 ---------------
 
 If you do find yourself on the wrong end of our community rules, bad things will happen.
