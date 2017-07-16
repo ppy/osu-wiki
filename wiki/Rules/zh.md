@@ -50,11 +50,11 @@
 Off-Topic 板块规定
 ---------------
 
-*The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
+*除非另有说明，这些规定仅适用于 [Off-Topic](https://osu.ppy.sh/community/forums/52) 板块*
 
-1. **No topic in Off-Topic has value.** They are put simply, trash. If your threads keep getting moved to Off-Topic, they are being judged to be unworthy of serious discussion. Take the hint.
-2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
-3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
+1. **Off-Topic 板块中允许帖子没有一个特定的主题。** 也意味着如果你的帖子被移动到这里，你的帖子肯定有问题。
+2. **不能太蠢。** 适当装疯卖傻有助于活跃气氛，但是过度装颠可能显得智障。如果你不能区分它们，你已经违反了规定。
+3. **生日帖可以发布在 Off-Topic 板块，其它板块不行** 但是帖子内必须包含至少3张跳舞的动图（二次元限定），否则你的帖子可能被删除。
 
 当我违反规定时会发生什么？
 ---------------
