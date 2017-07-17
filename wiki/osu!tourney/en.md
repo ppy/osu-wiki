@@ -145,11 +145,9 @@ So here our example uses the template:
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets `()` around them**.
 
-### Referee commands (optional)
+### Room management
 
 Please see [Tournament Management Commands](/wiki/Tournament_Management_Commands "Tournament Management Commands") for more information.
-
-### Room management
 
 The osu!tourney client will successfully recognize the room.
 Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
