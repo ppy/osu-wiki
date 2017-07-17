@@ -16,7 +16,7 @@ _在[快捷键](/wiki/shortcut_key_reference/#general)中可以找到有关时�
 以毫秒为单位的时间戳与歌曲进程百分比都在播放器的左侧
 如果一个铺面拥有storyboard，这百分比可能会显示“前奏”或“结尾”。
 
-In the centre, it shows the timeline with markings and the compulsory music player buttons.
+被标记的时间轴和强制播放音乐按钮在播放器的中间。
 “Test"按键会保存目前的作图进度，同时会从目前的时间戳来开始试玩。
 
 时间线本身会用些不同的刻度线来表达各种意义
