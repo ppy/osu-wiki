@@ -156,11 +156,9 @@ You can replace Team Name 1 and Team Name 2 with any team name you want to assig
 
 ### Referee commands (optional)
 
-There are two types of referee commands that can be used - unprivileged and privileged. Unprivileged commands may be used by anyone, while privileged commands are locked to those who are in the [tournament staff](https://osu.ppy.sh/g/26) usergroup. It is _not_ necessary to be part of the tournament staff usergroup to manage a tournament.
+A tournament may be managed through the following chat commands. Any properties enclosed with brackets `[]` are optional.
 
-Any properties enclosed with brackets `[]` are optional.
-
-#### Unprivileged commands:
+#### Commands:
 
 Only the original host of a room will be able to use unpriviliged commands in that room. If the original host leaves, the next host will not inherit the commands. If the original host rejoins the room, they will again be able to use the commands.
 - `!mp make <name>` - Creates a tournament room with the specified name.
@@ -194,13 +192,9 @@ Only the original host of a room will be able to use unpriviliged commands in th
 - `!mp password [<password>]` - Changes the password of the room. The password will be removed if `<password>` is not provided.
 - `!mp close` - Closes the room.
 
-#### Privileged commands:
-
-- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
-
 `#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
    
-Members of the tournament staff usergroup may also use these commands to manage tournaments through an IRC client such as mIRC, HexChat, or HydraIRC.
+These commands can also be used to manage tournaments through an IRC client such as mIRC, HexChat, or HydraIRC.
 
 Sending `!mp help` to BanchoBot will reveal the above commands.
 
