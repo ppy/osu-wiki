@@ -11,15 +11,6 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-### Registering your tournament
-
-After you have organized your event, send an e-mail to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) including:
-
-1. The starting and ending dates of the tournament.
-2. Any publicly-accessibly links to follow the tournament.
-
-We expect you to act professionally and responsibly in the management of your tournament. Any actions with malicious intent will not be treated lightly.
-
 ## Setup
 
 There are only a few steps to setup the osu!tourney client.
