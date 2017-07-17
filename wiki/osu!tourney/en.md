@@ -165,7 +165,7 @@ Only the original host of a room will be able to use unpriviliged commands in th
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
   - When the match is finished, use `!mp close` to close the room.
 - `!mp invite <username>` - Invites a player to the room.
-  - Note that this does _not_ bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to diasble "Block private messages from non-friends" in the osu! options.
+  - Note that this does _not_ bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
 - `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
