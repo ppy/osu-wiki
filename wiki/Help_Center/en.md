@@ -235,7 +235,9 @@ To check what your frame limiter is set to, follow these steps:
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `frame` into the quick-search to bring up the frame limiter options.
 
-If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options `VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
+If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
+
+`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
 
 We recommend using `VSync` in situations where heat is an issue.
 
