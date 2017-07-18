@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/163075746433/community-mentorship-pro
 
 Have you ever thought about getting more involved in mapping and modding, but have no idea where to begin? The Community Mentorship Program might be the place for you! Read on to find out how to apply!
 
-![](/wiki/shared/news/2017-07-17-community-mentorship-program-fall-2017-signups-now-open/banner2.jpg)
+![](https://assets.ppy.sh/media/generic-header.png)
 
 Since the beginning of the mentorship program in July of 2016, the program has gone through four cycles, each lasting approximately 10 weeks. Aspiring new mappers have been taught the fundamentals of mapping from experienced mappers in the community, and some have even gone on to rank their own beatmaps!
 
