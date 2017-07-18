@@ -3,7 +3,7 @@ Selamat Datang
 
 Pertama-tama kami ingin memberikan sambutan dan pelukan hangat karena kamu telah bergabung dengan komunitas kami. Biar kami jelaskan sebagian hal yang cepat sebelum kamu memulai perjalananmu disini.
 
-![osu!](Osu-boxart.png "osu!")
+![osu!](osu-boxart.png "osu!")
 
 \_\_TOC\_\_
 

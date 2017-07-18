@@ -8,13 +8,15 @@ tumblr_url: http://osunews.tumblr.com/post/161051842473/the-new-osutaiko-mascot-
 
 After almost a year in the making, the new osu!taiko mascot is finally ready to enter the scene. Say hello to **Mocha!**
 
-<img src="https://assets.ppy.sh/media/mocha/mocha-header.jpg">
+![](https://assets.ppy.sh/media/mocha/mocha-header.jpg)
 
 Over ten months ago, [we held a contest](https://osu.ppy.sh/community/contests/2) to determine the visual design for the mascot of the osu!taiko gamemode. The contest descended into legend as we deliberated on the results - many of the community-made mascots rising into infamy through the various fan art contests we held in the meanwhile.
 
 It is time.
 
-We present to you, the brand new official mascot for osu!taiko - Mocha!<br><br><iframe src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf&embedded=true" style="width:750px; height:850px;" frameborder="0"></iframe>
+We present to you, the brand new official mascot for osu!taiko - Mocha!
+
+<iframe src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf&embedded=true" style="width:100%; height:850px;" frameborder="0"></iframe>
 
 [Download the full design documentation here.](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf)
 

@@ -1,5 +1,5 @@
-Storyboard Scripting Miscellaneous
-==================================
+Miscellaneous
+================
 
 Storyboard Scripting Shorthand
 ----------------------------------
