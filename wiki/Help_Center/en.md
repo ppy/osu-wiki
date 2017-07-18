@@ -511,7 +511,7 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 #### Are you running osu! in windowed or borderless mode?
 
-**Both windowed and borderless mode introduce a _slight_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
 #### Does your game freeze up for only a moment or so?
 
@@ -521,7 +521,11 @@ This usually clears up after closing everything non-essential before playing osu
 
 #### Has the game recently updated?
 
-**Sometimes after a game update, the client may struggle for seemingly no reason. A simple reboot/restart of your machine will fix it.**
+**Sometimes after a game update, the client may struggle for seemingly no reason.**
+
+If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+
+If it doesn't resolve, a reboot can sometimes help.
 
 ### My game looks glitchy, like the graphics are torn!
 
