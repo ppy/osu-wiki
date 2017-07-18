@@ -3,7 +3,7 @@
 [Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Les Game Modifiers"
 [Multi wikilink]: /wiki/Multi/ "Multi-play"
 [Performance_Points wikilink]: /wiki/Performance_Points/ "Les Points de Performance"
-[Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "FAQ sur les Points de Performance"
+[Performance_Points#FAQ wikilink]: /wiki/Performance_Points/#faq "FAQ sur les Points de Performance"
 [Accuracy wikilink]: /wiki/Accuracy/ "Précision"
 [Achievements wikilink]: /wiki/Achievements/ "Les Succès"
 [Chat_Console wikilink]: /wiki/Chat_Console/ "La Console de Chat"
