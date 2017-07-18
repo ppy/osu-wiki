@@ -276,29 +276,31 @@ In such cases, you may open up a ticket with the support team by emailing [accou
 
 Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global Moderation Team) with what you plan to put up and they'll let you know if it's okay.
+If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
 
 ### Can I completely block another user from contacting me?
 
 **Yes, absolutely.**
 
-In the event that another user on the game is harassing you via private messages either on the forums or osu! itself, there are a few steps that you can take yourself to filter out their messages.
+In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
 
-#### Block a user from contacting you in-game
+#### Blocking a user from contacting you in-game
 
 **To block a user from sending you messages in-game, simply add them to your ignore list.**
 
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (The Gatekeeper becomes The_Gatekeeper for example).
-4. You're done! You'll no longer see public chat messages from any users added onto that list, nor receive private messages from them.
+3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
+4. You're done! 
 
-#### Block all non-friends from sending private messages in-game
+You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and may always PM you regardless.**
+#### Blocking all non-friends from sending private messages in-game
 
-1. Click the Options menu button in-game
+If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto://support@ppy.sh).**
+
+1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
 2. Type "block" to filter the options listing to the "In-game Chat" section.
 3. Toggle the setting on by clicking it.
 4. You're done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
@@ -367,7 +369,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 **Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
 
-If you've changed the keybinding that toggles the scoreboard, this will not work. You can check which key you've set it to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
 
 ### My local scores are missing!
 
@@ -381,7 +383,7 @@ These are unfortunately, gone.
 
 The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
 
-Handy tip - if you're an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you've set score on in the past.
+Handy tip - if you're an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
 
 #### Are you set to the correct game mode?
 
@@ -431,7 +433,7 @@ Oops! There's a few reasons why this can happen. Let's go through them:
 
 #### Were you connected to the Internet while playing?
 
-**If you weren't, your score may not submit.**
+**If you were not able to access the Internet when finishing your score, it may not submit.**
 
 This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
 
