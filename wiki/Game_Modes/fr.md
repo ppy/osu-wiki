@@ -7,8 +7,8 @@
 [External Ports wikilink]: ./External_Ports "Portages Externes"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia pour Osu! Tatakae! Ouendan"
-[Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
+[ouendan wikipedia]: https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan "Page Wikipedia pour Osu! Tatakae! Ouendan"
+[Taiko no Tatsujin wikipedia]: https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
 
 <!-- shared image -->
 [osu! icon link]: /wiki/shared/Osu.gif "icône d'osu!"
