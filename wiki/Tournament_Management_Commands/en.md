@@ -54,3 +54,5 @@ The following is an example of command usage:
 - `!mp team Loctav red` - Move Loctav to the red team.
 - `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
 - `!mp start` - Start the match instantaneously.
+
+We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").

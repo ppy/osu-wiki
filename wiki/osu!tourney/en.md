@@ -11,15 +11,6 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-### Registering your tournament
-
-After you have organized your event, send an e-mail to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) including:
-
-1. The starting and ending dates of the tournament.
-2. Any publicly-accessibly links to follow the tournament.
-
-We expect you to act professionally and responsibly in the management of your tournament. Any actions with malicious intent will not be treated lightly.
-
 ## Setup
 
 There are only a few steps to setup the osu!tourney client.
@@ -154,11 +145,9 @@ So here our example uses the template:
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets `()` around them**.
 
-### Referee commands (optional)
+### Room management
 
 Please see [Tournament Management Commands](/wiki/Tournament_Management_Commands "Tournament Management Commands") for more information.
-
-### Room management
 
 The osu!tourney client will successfully recognize the room.
 Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
@@ -231,7 +220,12 @@ Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50
 
 ### Prizes
 
-We may award badges to the first place winners of second (and further) iterations of well-managed tournaments. This is offered under the condition that staff members of your tournament do _not_ participate in the tournament themselves to avoid any potential unfairness.
+We may award profile badges to first-place winners of tournaments meeting the following criteria:
+- This is the second or further iteration of the tournament.
+- The staff members involved in managing the tournament are **not** participating in the tournament themselves.
+- The tournament is run four or less times per year (seasonal).
+
+Please email tournaments@ppy.sh if your tournament meets this criteria.
 
 ## Troubleshooting
 
