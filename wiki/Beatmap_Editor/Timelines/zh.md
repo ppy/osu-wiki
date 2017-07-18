@@ -1,6 +1,6 @@
 # 时间轴
 
-在[铺面编辑器](/wiki/beatmap_editor)中，铺面制作者们将会遇到三种不同的时间线。
+在[谱面编辑器](/wiki/beatmap_editor)中，谱面制作者们将会遇到三种不同的时间线。
 这篇文章将逐一介绍它们的作用
 
 ## 快捷键
@@ -11,13 +11,13 @@ _在[快捷键](/wiki/shortcut_key_reference/#general)中可以找到有关时�
 
 ![Song's Timeline](/wiki/shared/BE_STL.jpg "Song's Timeline")
 
-在铺面编辑器中的任何一部分都能看见音乐播放器。
+在谱面编辑器中的任何一部分都能看见音乐播放器。
 
 以毫秒为单位的时间戳与歌曲进程百分比都在播放器的左侧
-如果一个铺面拥有storyboard，这百分比可能会显示“前奏”或“结尾”。
+如果一个谱面拥有 Storyboard，这百分比可能会显示“前奏”或“结尾”。
 
 被标记的时间轴和强制播放音乐按钮在播放器的中间。
-“Test"按键会保存目前的作图进度，同时会从目前的时间戳来开始试玩。
+'Test'按键会保存目前的作图进度，同时会从目前的时间戳来开始试玩。
 
 时间线本身会用些不同的刻度线来表达各种意义
 
@@ -30,7 +30,7 @@ _在[快捷键](/wiki/shortcut_key_reference/#general)中可以找到有关时�
 | 红色上半条| Timing设定 (参照 [Timing](/wiki/Timing)) |
 | 蓝色下半条 | 书签 |
 | 灰色 (突出部分) | 休息时间 |
-| 橙色 (突出部分) | Kiai time（timing切换点？） |
+| 橙色 (突出部分) | Kiai time |
 
 
 
@@ -38,9 +38,9 @@ _在[快捷键](/wiki/shortcut_key_reference/#general)中可以找到有关时�
 
 根据游戏模式的不同会有共两种不同的物件时间轴。
 
-### osu!, osu!太鼓, 和osu!接水果
+### osu!, osu!Taiko, 和osu!CatchTheBeat
 
-![在osu!、osu!太鼓、osu!接水果中的物件时间轴](/wiki/shared/BE_NTL.jpg "这显示了相对于音符时值与时间戳的物件。")
+![在osu!、osu!Taiko、osu!CatchTheBeat中的物件时间轴](/wiki/shared/BE_NTL.jpg "这显示了相对于音符时值与时间戳的物件。")
 
 在 [compose（作曲）](/wiki/compose) 模式中，这条时间轴会在 “Compose（作曲）”标签下（除了[osu!mania](wiki/osu!mania)之外）。
 	
@@ -59,7 +59,7 @@ _在[快捷键](/wiki/shortcut_key_reference/#general)中可以找到有关时�
 
 在osu!mania的作曲模式中，这条时间轴会显示于游戏界面的下方。
 	
-左方的方框表示铺面的物件密集度。
+左方的方框表示谱面的物件密集度。
 
 这被用来当做时间轴。
 中间的方框表示游戏区域
