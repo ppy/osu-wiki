@@ -2,7 +2,7 @@
 layout: post
 title: "Community Mentorship Program Fall 2017 Signups Now Open"
 permalink: http://osunews.tumblr.com/post/163075746433/community-mentorship-program-fall-2017-signups-now-open
-date: 2017-07-17 22:50:00 +0000
+date: 2017-07-18 15:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163075746433/community-mentorship-program-fall-2017-signups-now-open
 ---
 
