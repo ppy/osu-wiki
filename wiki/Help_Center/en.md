@@ -99,7 +99,7 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 **Yes, absolutely!**
 
-osu! supporters get **one** free name-change when they first purchase or are gifted a supporter tag, which can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
 
@@ -335,11 +335,11 @@ Make sure to include any chatlogs or other evidence in the email, and our suppor
 
 ### What are these "user pages" that I see on other players profiles?
 
-**User pages are special profile elements that all osu!supporters get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
 
-osu!supporters are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
 
-Even if your supporter tag happens to run out, your user page will remain visible and you will still be able to edit its contents.
+Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
 
 ### Do I need to use my email address to register?
 
