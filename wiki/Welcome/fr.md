@@ -1,177 +1,148 @@
-Bienvenue sur osu!. Cette page vous explique les bases du jeu.
+<!-- wiki -->
+[Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
+[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Les Game Modifiers"
+[Multi wikilink]: /wiki/Multi/ "Multi-play"
+[Performance_Points wikilink]: /wiki/Performance_Points/ "Les Points de Performance"
+[Performance_Points#FAQ wikilink]: /wiki/Performance_Points/#faq "FAQ sur les Points de Performance"
+[Accuracy wikilink]: /wiki/Accuracy/ "Précision"
+[Achievements wikilink]: /wiki/Achievements/ "Les Succès"
+[Chat_Console wikilink]: /wiki/Chat_Console/ "La Console de Chat"
+[FAQ wikilink]: /wiki/FAQ/ "FAQ"
+[Glossary wikilink]: /wiki/Glossary/ "Lexique"
+[osu!academy wikilink]: /wiki/Announcements/osu!academy/ "osu!academy"
+[Beginner wikilink]: /wiki/Beginner/ "Débutant"
+[Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
 
-**Note :** Une beatmap est un ensemble d'éléments du jeu assemblés de façon jouable en rythme avec une musique.
+<!-- external -->
+[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Beatmaplist officielle"
+[Packlist link]: https://osu.ppy.sh/p/packlist "Packlist officiels"
+[Beatmapping/Modding: Guide Compendium link]: https://osu.ppy.sh/forum/t/441929 "Beatmapping/Modding: Guide Compendium"
 
-![osu!](osu-boxart.png "osu!")
+<!-- image -->
+[osu-boxart image]: ./osu-boxart.png "osu!boxart"
+[welcome00 image]: ./Welcome00.png "Recherche de beatmaps"
+[welcome01 image]: ./Welcome01.png "Résultats de la recherche de beatmaps"
+[welcome02 image]: ./Welcome02.png "Téléchargement d'une beatmap"
+[welcome03 image]: ./Welcome03.png "Ouverture du fichier .osz"
+[welcome04 image]: ./Welcome04.png "Les beatmaps dans l'écran de sélection"
+[Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Liste d'amis de la Console de Chat"
 
-\_\_TOC\_\_
+<!-- shared image -->
+[.osz icon link]: /wiki/shared/osz_icon_full.png "Fichier .osz, un fichier spécifique aux beatmaps"
+[Accuracy results image]: /wiki/shared/Accuracy_results.png "Précision du joueur"
 
-Le tutoriel
------------
+<!-- Title -->
+# Bienvenue
+![osu!][osu-boxart image]
 
-Une fois votre [inscription](FR:Registration "wikilink") terminée et le jeu [installé](FR:Installation "wikilink"), il est recommandé de jouer le tutoriel ([Peter Lambert - osu! tutorial](http://osu.ppy.sh/s/3756)) afin de se familiariser avec les bases du jeu.
+Tout d'abord, nous aimerions vous accueillir chaleureusement pour avoir rejoint notre communauté. Laissez nous vous expliquer deux ou trois choses avant que vous ne démarriez votre voyage.
 
-Une fois le jeu lancé, le logo d'osu! devrait apparaître. Cliquez dessus et choisissez le mode "Solo". Des beatmaps seront déjà présentes dans l'écran de sélection ; vous pourrez en rajouter d'autres plus tard. Cherchez et sélectionnez le tutoriel, puis lancez la beatmap en appuyant sur Entrée. Cette beatmap vous apprendra les bases du mode "Standard" d'osu!.
+## Le Tutoriel
+Avant de jouer à osu!, nous vous recommandons de jouer le tutoriel ([Peter Lambert - osu! tutorial][osu!tutorial_basic]).
 
-Avec le temps et l'expérience, vous apprendrez à jouer des beatmaps plus difficiles.
+Après avoir téléchargé et installé osu!, ouvrez-le et une fenêtre nommée "osu! update" devrait apparaître, attendez que les mises à jour soient faites. Quand le jeu démarre, il y aura un large bouton osu! au centre de l'écran. Appuyez simplement dessus et choisissez le mode "Solo". Vous pouvez facilement chercher une beatmap dans votre liste juste en l'écrivant, mais ce que vous recherchez pour le moment, c'est le "Tutorial". cette beatmap va vous apprendre les éléments fondamentaux d'osu! comme les _Hitcircles_, les _Sliders_ et les _Spinners_.
 
-**Remarque:** Si pour une raison quelconque vous n'avez pas le tutoriel, vous pouvez le re-télécharger [ici](http://osu.ppy.sh/b/22538). Une fois que vous avez joué le tutoriel, vous pouvez commencer à télécharger de nouvelles beatmaps.
+Pour les techniques de jeu, vous les apprendrez en jouant. Quelques beatmaps sont intégrées au jeu au même titre que le osu!tutorial, ce qui peut être considéré comme un guide.
 
-Commencer à jouer
-=================
+**Note:** Si, pour une raison ou pour une autre, vous n'avez pas le tutoriel, vous pouvez le télécharger [juste ici][osu!tutorial_basic]. Après avoir joué le tutoriel, vous êtes prêt à télécharger d'autres beatmaps !
 
-*Plus d'informations : [Beatmaps](FR:Beatmaps "wikilink")*
+## Comment jouer sur vos musiques favorites !
+_Expliquation complète: [Beatmaps][Beatmaps wikilink]_
 
-Chercher une beatmap
---------------------
+### Étape 1 - Trouver la musique !
+Qu'est-ce qu'une beatmap me demanderez-vous ? Comme pour tout jeu, il y aura des niveaux, ou des fois des cartes (maps). Et bien dans osu!, nous avons les "Beatmaps" qui sont exactement ce que vous pensez, ce sont des cartes avec un rythme (beat). Trouvez des beatmaps pour une musique est facile ! Vous pouvez trouver toutes les beatmaps soumises [ici][Beatmaplist link]. La recherche d'une beatmap n'est pas contrainte qu'au nom de la chanson, vous pouvez aussi utiliser le nom de la chanson, le nom de l'artiste, le nom de l'album, et même le genre ! Pour cet exemple, nous allons chercher "Coldplay - Don't Let It Break Your Heart"
 
-Pour chercher une beatmap, rendez-vous \[<http://osu.ppy.sh/p/beatmaplist?q>= sur cette page\]. Toutes les beatmaps créées par la communauté et approuvées par le staff y sont répertoriées. Vous pouvez entrer n'importe quel titre ou nom d'artiste dans la barre de recherche.
+![][welcome00 image]
 
-Pour cet exemple, nous allons essayer de trouver "Coldplay - Don't Let It Break Your Heart".
+### Étape 2 - La télécharger !
+S'il y a une beatmap approuvée de la musique que vous cherchez, vous la trouverez dans les pages de résultats. Cependant, ne soyez pas fâché si votre musique n'y est pas ! Il y a des centaines de beatmaps soumises et révisées, votre musique devrait bien être dans le lot ! Veuillez **ne pas poster de requête pour une musique que vous voulez**, la plupart des mappeurs vont prendre les musiques qu'**ils** aiment, et pas forcément ce que vous aimez, mais ça peut être une bonne piste pour une carrière de mappeur !
 
-<img src="welcome00.png" title="welcome00.png" alt="welcome00.png" width="580" />
+![][welcome01 image]
 
-Télécharger une beatmap
------------------------
+Une fois sur la page de la beatmap, il devrait y avoir un grand bouton "Download Beatmap" (vous devez d'abord être connecté, sinon un bouton jaune vous dirigera vers la page de connexion).
 
-S'il existe une version *[ranked](FR:Beatmaps#Beatmaps_classées "wikilink")* (= classée, validée par l'équipe d'osu!) de la beatmap que vous recherchez, vous devriez la trouver dans la page des résultats. Cliquez sur son nom pour accéder à sa page. Vous pouvez aussi chercher une beatmap qui n'est pas encore classée \[<https://osu.ppy.sh/p/beatmaplist?m=-1&r=4&g=0&la=0&ra>= ici\], à vos risques et périls (leur qualité n'est pas assurée par le staff, autrement dit, vous pouvez tomber sur n'importe quoi).
+![][welcome02 image]
 
-Il existe des tutoriels pour [créer ses propres beatmaps](https://osu.ppy.sh/forum/t/14479), mais il est fortement recommandé d'accumuler quelques mois d'expérience avant de se lancer dans le [mapping](FR:Beatmapping "wikilink").
+**Note:** Il n'est pas important de sauvegarder le fichier tant que vous pouvez le trouver après l'avoir téléchargé. Aussi, vous pouvez l'ouvrir automatiquement, mais ça forcera le jeu à s'ouvrir s'il ne l'est pas déjà.
 
-<img src="welcome01.png" title="welcome01.png" alt="welcome01.png" width="580" />
+### Étape 3 - La charger avec osu!
+![Fichier .osz, un fichier spécifique aux beatmaps][.osz icon link]
 
-Une fois que sur la page de la beatmap, cliquez sur *"Download Beatmap"* ("Télécharger la beatmap"). Notez que vous devez d'abord être inscrit pour procéder au téléchargement.
+Une fois que le téléchargement est fini, vous n'avez qu'à ouvrir le fichier **.osz**. Si ça ne vous convient pas, vous pouvez glisser déposer le fichier dans la fenêtre d'osu!
 
-<img src="Welcome02.png" title="Welcome02.png" alt="Welcome02.png" width="580" />
+![][welcome03 image]
 
-Importer la beatmap dans osu!
------------------------------
+### Étape 4 - Jouer pour le fun ou entrer en compétition avec les autres joueurs !
+Une fois ouvert, osu! devrait démarrer (et probablement se mettre à jour). Pour commencer à naviguer dans votre liste de beatmap, cliquez simplement sur le grand bouton osu! au centre de l'écran, cliquez sur "Play", "Solo". Votre nouvelle beatmap (ainsi que le tutoriel) devrait être listée ici. Choisissez la difficulté que vous souhaitez jouer et voilà ! Vous êtes un joueur d'osu! Vous voudrez peut être aussi jouer en "Multi" au lieu du "Solo" où les joueurs rivalisent entre eux. Vous aussi pouvez faire partie du fun !
 
-![Un fichier ".osz", un fichier contenant une beatmap](Osz icon.png "fig:Un fichier ".osz", un fichier contenant une beatmap") Une fois le téléchargement terminé, double-cliquez sur le fichier **.osz** pour l'importer dans osu!. Vous pouvez aussi déplacer le fichier dans la fenêtre du jeu.
+![][welcome04 image]
 
-<img src="welcome03.png" title="welcome03.png" alt="welcome03.png" width="580" />
+Et nous y sommes ! Maintenant vous êtes prêts à jouer à osu!. Si vous avez un problème, permettez-vous de demander de l'aide sur les forums ou en jeu (appuyez sur F8 pour ouvrir la fenêtre de chat, sous \#help).
 
-Jouez seul ou contre d'autres joueurs
--------------------------------------
+## Modes de Jeu
 
-Une fois osu! lancé, cliquez sur le logo d'osu!, puis sur "Play" et "Solo". Votre nouvelle beatmap s'ajoute à la liste. Sélectionnez la difficulté de votre choix (en fonction du *star rating*, le nombre d'étoiles) et lancez la beatmap.
+### Solo
+Donc qu'est-ce que le mode de jeu "Solo" ? En gros, c'est le mode de jeu que vous pouvez jouer en ligne ou hors ligne. Ce mode de jeu n'a pas de limite, vous pouvez jouer toutes les beatmaps que vous avez, utiliser n'importe quel [Game Modifiers][Game_Modifiers wikilink] (parfois appelés "score modifiers") que vous voulez, mettre en pause le jeu quand vos mains vous font mal, et réessayer quand vous sentez que votre score ou votre précision est trop bas. Vous pouvez aussi regarder le Classement Local ou Général et voir les résultats ou les replays simplement en cliquant sur leurs scores. Vous pouvez appuyer sur "F2" pour sauvegarder un replay extérieurement pour pouvoir en profiter sans avoir à le chercher.
 
-Vous pouvez aussi jouer au mode "Multi" si vous souhaitez vous mesurer à des joueurs du monde entier.
+### Multijoueur
+_Explication complète: [Multi][Multi wikilink]_
 
-<img src="welcome04.png" title="welcome04.png" alt="welcome04.png" width="580" />
+Si vous vous sentez un peu seul en jouant en "Solo", vous pouvez toujours rejoindre le lobby multijoueur. Le minimum requis pour entrer dans ce lobby est un compte osu! connecté au client et une connection Internet décente. Pour y accéder, appuyez sur le bouton "Multi". Ici, vous y verrez des salles du niveau "Easy" à "Insane".
 
-Vous pouvez désormais télécharger et jouer n'importe quelle beatmap. Si vous rencontrez des problèmes, n'hésitez pas à demander de l'aide sur les forums ou dans le chat : appuyez sur F8 pour ouvrir la fenêtre de chat et posez vos questions sur \#osu ou \#help (en anglais) ou \#french.
+Jouer en multijoueur est vraiment bien pour se faire des amis ainsi que comparer vos capacités avec les autres joueurs. Une fois que vous avez rejoint une salle, vous allez probablement télécharger la beatmap choisie par l'hôte. Cliquez sur "Click here to download this map" (qui devrait être sur le côté droit, dans un onglet bien rouge), et votre navigateur web devrait ouvrir la page de la beatmap sélectionnée. Cliquez juste sur le gros bouton "Download Beatmap" (vous devez être connecté pour le voir) et ouvrez le fichier .osz aussitôt que le téléchargement ait fini ! Ne vous inquiétez pas si vous pensez que le téléchargement est trop long, la plupart des hôtes attendront que votre téléchargement ait fini et vous demanderont l'avancement du téléchargement. Ne soyez pas timide et donnez-le leur ! Si vous sentez que ça peut prendre longtemps, vous pouvez aussi leur dire de jouer sans vous (les hôtes ont une commande spécial pour ça, Force Start Game).
 
-**Note :** Pour rejoindre un canal, cliquez sur le "+" jaune dans la barre des canaux et sélectionnez le canal désiré. Vous pouvez aussi écrire "/join \#*<nomducanal>*".
+La façon de jouer en multijoueur est légèrement différente du solo, vous ne serez pas capable de mettre le jeu en pause et les mods sont limités (les hôtes on plein pouvoir et peuvent activer le "Free Mods"). Ce qui est unique au multijoueur est le Tag Co-Op (ou Team Co-Op pour l'équivalent en équipe) et le Team VS. Aussi, vous pouvez voir le score de vos opposants/coéquipiers quand vous jouez, créant ainsi une athmosphère intense tant que vous essayez de vous maintenir au top.
 
-**Bon jeu sur osu!**
+## La Compétitivité
+Ça peut sembler simple un jeu consistant à cliquer sur des cercles et maintenir des sliders, mais ça peut vraiment devenir intense et sérieux ! Voilà quelques choses que vous devez connaître à propos du système de classement d'osu!.
 
-Modes de jeux
-=============
+### Les Niveaux
+Le niveau du joueur ne représente que le montant total de score que le joueur a gagné sur des beatmaps ranked ou approuvées, quelle que soit la fin de la beatmap ou la définition d'un nouveau score. Pour faire court, l'expérience relative du joueur. Cependant, à l'instar d'autres jeux (lire: les jeux MMO) que vous pourriez jouer, osu! ne donne d'avantage à **aucun** joueur. Un joueur niveau 10 peut potentiellement battre un joueur niveau 100 (ça signifie juste que le joueur niveau 100 a passé plus de temps a jouer en ligne). Aussi, gardez à l'esprit que vous obtenez un meilleur score quand vous faites des combos (ne rater aucune note à la suite).
 
-Solo
-----
+### Les Points de Performance
+*Explication complète: [Points de Performance][Performance_Points wikilink]*
 
-Il s'agit du mode 1-joueur d'osu!. Vous pouvez jouer à n'importe quelle beatmap de votre collection, en utilisant des [mods de difficulté](FR:Game_Modifiers "wikilink") de votre choix pour varier votre expérience de jeu.
+Les Points de Performances (Perfomance Points, pp) sont un classement métrique visant des jeux continuels comme osu!. Il vise à mettre en avant les performances du joueur plus que le temps joué. Les Points de Perfomance sont fortement basés sur la difficulté de la map qui est définie par un algorithme unique à chaque mode de jeu. Basée sur la difficulté seule, votre score est calculé et une valeur en pp lui est assignée. Votre rang de perfomance est basé sur vos performances sur les maps individuelles. Le moyen le plus simple de l'augmenter est d'améliorer ses scores sur des chansons difficiles. Sachez que les modes de jeu sont comptés séparement \[ce qui signifie que jouer (osu!/osu!taiko/osu!catch/osu!mania) augmente les pp de (osu!/osu!taiko/osu!catch/osu!mania)\].
 
-Multijoueur
------------
+Si vous avez des questions concernant les pp, veuillez vous référer à la [page du wiki sur les pp][Performance_Points#FAQ wikilink].
 
-*Informations complémentaires : [Multijoueur](FR:Multiplayer "wikilink")*
+### Précision
+_Explication complète: [Précision][Accuracy wikilink]_
 
-Une fois avoir acquis les bases du jeu, vous pouvez tenter de rejoindre un salon multijoueur.
+![Un screenshot montrant la précision d#39;un joueur après avoir fini une beatmap.][Accuracy results image]
 
-A partir du menu, cliquez sur "Multi". Une liste de salons disponibles sera affichée, avec le nom de la beatmap jouée, le type de match, les joueurs et leur tranche de classement. Rejoignez une salle de votre choix si elle n'est pas pleine ou verrouillée par mot de passe ou créez votre propre salle. Vous pouvez aussi demander à ce que quelqu'un vous invite dans sa salle dans le canal **\#lobby** (et **seulement** dans ce canal, qui est multilingue).
+Cette mesure est la précision moyenne de tous les scores rankés du joueur. Elle est divisée en deux types, la précision globale et la précision des pp. Dans l'onglet joueur en jeu, la précision indiquée est celle des pp. Pour la précision globale, vous devrez visiter "Online Results" après avoir joué une beatmap en ligne ou vous référer à votre page de forum. Dans osu!, la précision ne couvre pas que votre précision à proprement parlé, mais aussi votre timing, il est donc important d'appuyer sur les notes parfaitement en rythme. Faites attention aux cercles d'approche !
 
-Chaque salle multijoueur dispose de son propre canal de discussion. Un des joueurs de la salle porte le titre d**'hôte** ; il peut sélectionner les beatmaps à jouer, choisir les mods de difficulté (ou cocher "Mods libres" pour laisser les joueurs choisir), changer le type de match et même sortir des joueurs de la salle.
+### Médailles
+_Explication complète: [Succès][Achievements wikilink]_
 
-Lorsque l'hôte aura sélectionné une map, cliquez sur le nom de la map pour la télécharger si vous ne l'avez pas. Une fois téléchargée, pensez à l'ouvrir dans l'explorateur de fichiers pour qu'osu! la charge dans sa liste, puis appuyez sur F5 si elle ne se charge pas correctement. Si l'hôte a coché "Mods libres", vous pouvez sélectionner les mods de difficulté de votre choix. Lorsque vous êtes prêt à jouer, cliquez sur "Prêt".
+Les médailles (Medals) sont des badges sur votre profil qui montrent vos faits accomplis ! Ces médailles peuvent être débloquées de plusieurs manières : en jouant beaucoup, en atteignant un certain combo sur une seule map, etc... Quand vous remplissez le critère, vous recevrez le badge dans "Online Results" et dans votre onglet de médailles personnelles. Cependant, pour les médailles Hush-Hush, le critère est inconnu, et il n'en revient qu'à vous de deviner comment l'obtenir. Elles sont compliquées à avoir, mais vous serez satisfait quand vous réussirez à en obtenir une de vous-même.
 
-Le match commence lorsque l'hôte le décide. Il s'agit du même principe qu'en solo, sauf qu'un classement des joueurs du salon est visible à droite et qu'il est impossible de mettre le jeu en pause (tout le monde joue en même temps).
+**Note:** Les médailles ne peuvent être débloquées qu'avec des statistiques en ligne, vous devez donc être connecté en jeu pour que votre avancement compte.
 
-Il existe aussi d'autres types de match, spécifiques au mode multijoueur (comme Tag4, Tag Co-op ou encore Team Coop). [Plus d'informations ici](FR:Multiplayer "wikilink").
+## Chat
+*Explication complète: [Console de Chat][Chat_Console wikilink]*
 
-Compétitivité
-=============
+Connaître les bases du fonctionnement de la [Console de Chat][Chat_Console wikilink] est important pour ceux qui sont intéressés pour se faire de nouveaux amis dans notre environnement amical. Il est également important de comprendre comment l'utiliser dans le cas où vous recevez un message de quelqu'un vous demandant de l'aide (il se peut que ça arrive si vous êtes connu). Il y a un bouton pour ouvrir le chat en bas à droite de l'écran mais c'est plus rapide d'appuyer sur F8.
 
-Malgré les simples principes du jeu, osu! ne manque pas de challenges. Voici quelques explications sur les différents systèmes de mesure de performance du jeu qui font d'osu! un jeu très compétitif.
+Vous aurez quelques onglets comme "\#osu!", "\#announce", "\#userlog" ou si vous êtes en conversation avec quelqu'un, vous verrez son nom dans un onglet séparé. Naviguer dans les onglets est extrêmement facile, appuyez juste sur l'onglet, écrivez votre message puis appuyez sur "ENTRÉE" pour envoyer le message à l'onglet ouvert. Cependant, veuillez ne pas spammer (envoyer continuellement de courts messages dans le chat) en faisant ça vous allez être automatiquement muté pour quelques minutes et votre "dur labeur" supprimé du chat. Vous pouvez appuyer sur "F9" pour ouvrir la liste des utilisateurs (appelée Console de Chat Étendue) connectée au serveur, et vous pouvez appliquer des filtres pour préciser votre recherche.
 
-Le niveau
----------
+![Liste d'amis de la Console de Chat][Chat_Console friendlist image]
 
-Le niveau du joueur est basé sur son score total accumulé sur toutes les maps qu'il a jouées, qu'il ait réussi la beatmap ou non ; il permet de mesurer entre-autres l'expérience du joueur.
+Voilà les bases, ne soyez pas timide et demandez de l'aide en jeu ou sur les forums. Le osu!wiki est aussi ici pour vous aider à mieux appréhender le jeu.
 
-Cependant, gagner des niveaux ne rapporte aucun avantage technique aux joueurs, contrairement à la plupart des autres jeux. Il s'agit juste d'un indicateur pour vous ou les autres joueurs et ne définit pas le talent du joueur (ce qui veut dire qu'un joueur de niveau 10 peut battre un joueur de niveau 100 s'il en a l'aptitude).
+## Beatmapping (Edit)
+_Explication complète: [Beatmapping][Beatmapping wikilink]_
 
-Il n'y a pas de limite de niveau, mais en gagner devient de plus en plus long, surtout à partir du niveau 60. Après le niveau 100, l'algorithme change et la progression devient extrêmement longue.
+osu! offre l'opportunité à n'importe quel joueur de créer ses propres beatmaps. Si vous vous pensez assez créatif et passioné pour apprendre, vous pouvez démarrer le mapping avec vos musiques. Pour commencer, Allez juste sur le mode "Edit" et glissez le fichier **.mp3** de votre musique dans l'éditeur. Appuyez sur "F5" pour rafraîchir la liste des musiques et vous devriez trouver une map vierge avec le nom de votre musique. Cependant, le beatmapping est un procédé _très_ compliqué qui requiert du dévouement, ce sujet ne sera donc pas traité sur cette page. Le meilleur moyen d'apprendre est d'essayer par soi-même. Vous pouvez lire des guides utiles pour commencer le mapping [juste ici][Beatmapping/Modding: Guide Compendium link]. Aussi, le mode "Edit" peut aussi être utile pour avoir un autre regard sur n'importe quelle beatmap, ce qui vous permet de voir ce qui se passe à ce moment que vous ratez toujours ! Essayez aussi d'**éviter d'éditer des beatmaps ranked** car elles seront automatiquement mises en **unranked** (localement bien sûr) et vous ne serez pas capable d'obtenir des pp/de la précision à moins que vous ne la mettiez à jour encore.
 
-Points de performance
----------------------
-
-*Plus d'informations : <FR:Performance_Points>*
-
-[Les points de performance](FR:Performance_Points "wikilink") (abrégés **pp**) sont l'unité utilisée pour le classement général du jeu. Son algorithme très complexe dépend de nombreux facteurs et est gardé secret. Lorsque vous réussissez une beatmap *[ranked](FR:Beatmaps#Beatmaps_classées "wikilink")* (classée, approuvée par le staff), vous entrez dans le classement de la beatmap (selon votre score) et vous gagnez des points de performance.
-
-Le nombre de points gagnés varie en fonction du *star rating* (le nombre d'étoiles de la map) et de vos autres performances. Le nombre total de pp détermine votre position dans le classement général et est généralement utilisé pour mesurer votre talent (contrairement au niveau qui mesure l'expérience/l'ancienneté).
-
-Il est plus facile de gagner des pp lorsque vous effectuez un **FC** (*Full Combo*, lorsque vous ne faites aucune faute et que le [multiplicateur de combo](FR:Standard#Multiplicateur_de_combo "wikilink") en bas à gauche de votre écran ne retourne jamais à zéro durant la beatmap) et lorsque votre [précision](FR:Accuracy "wikilink") (*accuracy*) est élevée (supérieure à 95%). Les [mods de difficulté](FR:Game_Modifiers "wikilink"), qui font varier votre score, ont aussi un impact sur les points de performance.
-
-Précision
----------
-
-*Plus d'informations : <FR:Accuracy>* <img src="Accuracy.png" title="fig:Right|La précision du joueur|alt=Screenshot représentant la précision du joueur après avoir réussi une beatmap." alt="Right|La précision du joueur|alt=Screenshot représentant la précision du joueur après avoir réussi une beatmap." width="110" />
-
-La précision du joueur varie en fonction de son timing par rapport aux maps qu'il joue. La précision baisse lorsque le joueur obtient [des 100, des 50 ou des erreurs](FR:Standard#Calculs_des_scores "wikilink").
-
-Chaque joueur possède deux pourcentages de précision ; le premier, public, est déterminé par les maps rapportant le plus de pp aux joueur. Il est affiché sur la barre d'état du joueur et son profil. Plus la map jouée rapporte de pp, plus elle affecte le pourcentage de précision. Le second est son pourcentage global de précision, sur toutes les maps qu'il a faites, sans l'influence des pp.
-
-Succès
-------
-
-*Plus d'informations : <FR:Achievements>*
-
-Les succès (*achievements* en anglais) sont des badges sur le profil d'un joueur indiquant que ce dernier a accompli un certain objectif.
-
-Les succès peuvent être déverrouillés de différentes manières : en jouant certaines beatmaps, en atteignant un certain nombre au multiplicateur de combo, en jouant un certain nombre de maps...
-
-Il existe aussi des succès *hush hush* (littéralement "chut chut" en anglais), qui sont cachés et dont leur méthode d'obtention doit rester secrète. [Liste des succès](FR:Achievements "wikilink")
-
-Chat
-====
-
-*Plus d'informations : [FR:Chat Console](FR:Chat_Console "wikilink")*
-
-Savoir comment le [Chat](FR:Chat_Console "wikilink") fonctionne est primordial afin d'entrer en contact avec la communauté d'osu! ; pour envoyer et recevoir des messages privés, discuter dans les canaux publics ou encore demander à des joueurs de rejoindre votre salle multijoueur dans **\#lobby**.
-
-Pour ouvrir le chat, appuyez sur la touche F8 de votre clavier ou cliquez sur "Show Chat" en bas à droite. Le canal \#osu sera probablement déjà ouvert, ainsi que \#announce ou encore \#userlog. Chaque onglet correspond à un canal, ou un utilisateur avec lequel vous discutez par messagerie privée. Pour discuter, il vous suffit de cliquer sur le canal de votre choix, écrire un message et appuyer sur Entrée.
-
-Vous pouvez aussi voir la liste des utilisateurs connectés en appuyant sur F9 et appliquer des filtres à votre recherche.
-
-**Note :** Lorsque vous vous exprimez dans les canaux publics, vous devez vous comporter de façon correcte selon le règlement. [Cliquez ici](FR:Rules "wikilink") pour le lire ([version courte ici](FR:Short_Rules "wikilink"))
-
-![](friend-list.png "friend-list.png")
-
-Beatmapping
-===========
-
-*Plus d'informations : <FR:Beatmapping>*
-
-osu! offre la possibilité aux joueurs de créer leurs propres beatmaps. Si vous avez l'esprit créatif et que vous souhaiterez apprendre à mapper sur les musiques de votre choix, vous pouvez toujours vous lancer dans le beatmapping.
-
-Cependant, il est **fortement** recommandé d'acquérir plus d'expérience avant d'essayer de créer une beatmap. L'art du beatmapping demande d'être extrêmement méticuleux et précis (en particulier sur le timing) et n'est pas à la portée de tous les débutants. Attendez de savoir réussir des maps de difficulté [Insane](FR:Insane "wikilink") avant de tenter de créer une beatmap.
-
-Voici le [tutoriel de Sushi](https://osu.ppy.sh/forum/t/14479) (suivi par tous les mappeurs français) pour créer une beatmap.
-
-Ressources utiles
-=================
-
-Voici quelques liens utiles pour vous aider à débuter :
-
--   [Lexique](FR:Lexique "wikilink") des mots et abréviations couramment utilisées sur osu!
--   [Règlement d'osu!](FR:Rules "wikilink") ([version abrégée](FR:Short_Rules "wikilink"))
--   [Guide du noob](http://osu.ppy.sh/forum/t/29926) - Guide pour les noobs par Saumon ()
--   [Beatmaps pour débutants](http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456) - Sélection de beatmaps pour vous aider à démarrer
--   [Packs de beatmaps](http://osu.ppy.sh/p/packlist)
--   \[<http://osu.ppy.sh/p/beatmaplist>?= Liste des beatmaps\] - Recherchez ici de nouvelles beatmaps à télécharger.
--   [FAQ - Questions fréquentes](/wiki/FAQ) sur le jeu.
--   L'[osu!academy](FR:osu!academy "wikilink"), gérée par ztrot, qui présente osu! dans tous ses aspects. (en anglais)
+## Ressources Utiles
+Voici quelques liens utiles pour vous aider à démarrer votre voyage:-
+-   [Beginner Training](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis") - Des beatmaps sélectionnées à la main pour vous aider à démarrer.
+-   [Beatmap Packs][Packlist link] - Obtenez une collection pré-faite de beatmaps basées sur un thème commmun.
+-   [Beatmap Listing][Beatmaplist link] - Téléchargez quelques nouvelles beatmaps à jouer.
+-   [Foire Aux Questions][FAQ wikilink] - Trouvez les bases du jeu.
+-   [Lexique][Glossary wikilink] - Faites-vous au vocabulaire d'osu!
+-   [osu!academy][osu!academy wikilink] - Des vidéos pour vous aider à vous familiariser à chaque aspect d'osu!
+-   [Trcus et Astuces pour Démarrer osu!][Beginner wikilink] - Besoin d'un peu d'aide ? Regardez ici !
