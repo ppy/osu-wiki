@@ -10,7 +10,7 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
-If it has been over 24 hours and you still haven't got your supporter tag, please email [support@ppy.sh](mailto://support@ppy.sh) and let us know about your problem.
+If it has been over 24 hours and you still haven't got your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
 
 Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
 
@@ -22,7 +22,7 @@ They may continue to set scores locally and online (though the scores will not s
 
 Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
 
-In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh).
+In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
 
@@ -44,7 +44,7 @@ We'll never display this information to anyone else, and we encourage you to bla
 
 **Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
-If this does not work for you (or you don't have access to your registration email), please send an email to our [support team](mailto://accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
+If this does not work for you (or you don't have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
 Good information to include this email would be:
 
@@ -69,7 +69,7 @@ In situations where we are absolutely assured that foul play or wrongdoing has t
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto://accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account. 
+If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account. 
 
 Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
@@ -103,7 +103,7 @@ If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/hom
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto://accounts@ppy.sh) to request a free name change to fix these issues. We won't charge you for these sorts of name changes, but you **MUST** do them through a support email.
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We won't charge you for these sorts of name changes, but you **MUST** do them through a support email.
 
 ### Can I take another player's username?
 
@@ -198,7 +198,7 @@ Please consult McAffee's [official knowledgebase entry on the topic](https://ser
 
 **We'll need extra information from you to help sort this out.**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto://accounts@ppy.sh). The following information will help us resolve your issue quickly:
+If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
 * A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
 * The `network.log` file from the `Logs` folder in your osu! installation directory
@@ -245,7 +245,7 @@ You may also wish to look into utilities that allow you to control the speed of 
 
 #### My computer isn't overheating, but the game still causes my computer to reboot!
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by peripherals attached to your computer.**
+**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
 
 Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
 
@@ -253,7 +253,7 @@ You may also wish to try removing some of the peripherals attached via USB to yo
 
 #### It's still happening!
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
+If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
 
 ### I have changed my settings, and now I can't start osu! or it freezes.
 
@@ -397,7 +397,7 @@ If you've just downloaded a map, you may want to try refreshing your beatmap lis
 
 **This can happen if you're using a shared internet connection, a proxy, or VPN.**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto://accounts@ppy.sh).
+Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
@@ -419,7 +419,7 @@ In rare circumstances, support tickets from chronically offending users may be d
 
 **This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
 
-In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto://accounts@ppy.sh) and discussing your situation with them.
+In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
 Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
@@ -445,7 +445,7 @@ You'll no longer see public chat messages from any users on that list, or receiv
 
 #### Blocking all non-friends from sending private messages in-game
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto://support@ppy.sh).**
+If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
 1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
 2. Type "block" to filter the options listing to the "In-game Chat" section.
@@ -476,7 +476,7 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 
 **Never fear, our moderation team will help you out.**
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto://support@ppy.sh).
+If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
 
 Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
 
@@ -753,7 +753,7 @@ We scrutinize every participant in our official tournaments closely before allow
 
 In the event that this happens, you may not contest this decision with the tournament coordinators - as it is not their call to make.
 
-Instead, you can appeal your case via a support ticket to [tournaments@ppy.sh](mailto://tournaments@ppy.sh) - but you must provide an absolutely convincing reason as to why we should overlook your previous account history and allow you to play, and there are no guarantees that we will even consider your request at all, given the timeframe constraints on organizing such large-scale tournaments.
+Instead, you can appeal your case via a support ticket to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) - but you must provide an absolutely convincing reason as to why we should overlook your previous account history and allow you to play, and there are no guarantees that we will even consider your request at all, given the timeframe constraints on organizing such large-scale tournaments.
 
 If you are honest and forward with us in your appeal, you may be allowed to play in future tournaments - but you will still not be allowed to play in the tournament in which you were originally attempting to participate in.
 
@@ -763,7 +763,7 @@ To do so would be to denigrate the efforts of legitimate players who work hard t
 
 We provide official support in the form of streaming support and prize donations to some well-hosted community tournaments and other events upon request.
 
-After you have completed organizing your event and have a full roster of attendees and a proper structure, send in a support ticket to [tournaments@ppy.sh](mailto://tournaments@ppy.sh) with all the details you think we should know about your tournament/event, including:
+After you have completed organizing your event and have a full roster of attendees and a proper structure, send in a support ticket to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with all the details you think we should know about your tournament/event, including:
 
 - The timezone it will be hosted in
 - A rough estimate of the number of participants
@@ -796,7 +796,7 @@ The osu!keyboard configuration utility is available from [this link](http://puu.
 
 The rest should be self-explanatory.
 
-If you have any further issues, please feel free to submit a ticket to [accounts@ppy.sh](mailto://accounts@ppy.sh) detailing your problem.
+If you have any further issues, please feel free to submit a ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) detailing your problem.
 
 ### The LEDs on my osu! nono keyboard aren't working!
 
@@ -812,11 +812,11 @@ To determine if your osu! nono keyboard LEDs are faulty, please undertake the fo
 
 You may also wish to try rubbing the base of the LEDs connectors with a small piece of aluminum foil to remove any oxidation that could be interfering with the connection, but this is entirely optional. If this has fixed your problem, then the issue was almost certainly oxidation on the LED connectors interfering with the device's functioning. If this issue reoccurs, you know how to fix it next time!
 
-**If the "faulty" LED works when moved to the alternate slot, but the new LED inserted into the previous slot does not work,** then there is an issue with your unit's mainboard. You can request a replacement to be sent by sending an email to [store@ppy.sh](mailto://store@ppy.sh).
+**If the "faulty" LED works when moved to the alternate slot, but the new LED inserted into the previous slot does not work,** then there is an issue with your unit's mainboard. You can request a replacement to be sent by sending an email to [store@ppy.sh](mailto:store@ppy.sh).
 
-**If the "faulty" LED does not work when moved to the alternate slot, but the other LED does,** then the LED is indeed faulty and subject to a replacement. Email [store@ppy.sh](mailto://store@ppy.sh) and request a replacement to be sent, detailing that you followed the instructions in this article.
+**If the "faulty" LED does not work when moved to the alternate slot, but the other LED does,** then the LED is indeed faulty and subject to a replacement. Email [store@ppy.sh](mailto:store@ppy.sh) and request a replacement to be sent, detailing that you followed the instructions in this article.
 
-**If neither LED works after swapping (and they didn't before), then they're probably both broken.** While we cannot conclude whether the mainboard is broken if both do not function, we will be happy to send out replacement LEDs for you to test before we send out a replacement unit entirely. Again, contact [store@ppy.sh](mailto://store@ppy.sh) and detail that you followed the steps in this article.
+**If neither LED works after swapping (and they didn't before), then they're probably both broken.** While we cannot conclude whether the mainboard is broken if both do not function, we will be happy to send out replacement LEDs for you to test before we send out a replacement unit entirely. Again, contact [store@ppy.sh](mailto:store@ppy.sh) and detail that you followed the steps in this article.
 
 ### How do I know if my osu!tablet is working or not?
 
@@ -828,7 +828,7 @@ Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can b
 - Gently plug the cable into a USB slot on your system.
 - If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. If your issue still persists, please email [store@ppy.sh](mailto://store@ppy.sh) for further assistance (if your tablet is recently purchased, that is).
+If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. If your issue still persists, please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance (if your tablet is recently purchased, that is).
 
 **For the pen unit:**
 
@@ -839,7 +839,7 @@ If the tablet's light does not flash, try using a different USB cable - the ones
 - Screw the grip back onto the pen.
 - Depress the button on the back end (eraser end) of the pen until it clicks.
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. Contact [store@ppy.sh](mailto://store@ppy.sh) for further assistance, and we'll do everything we can to help you.
+If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. Contact [store@ppy.sh](mailto:store@ppy.sh) for further assistance, and we'll do everything we can to help you.
 
 >Please note that we cannot assist in matters where the device has been damaged due to regular use or misuse. Pens damaged from high falls, broken nibs, or snapped tablets are well beyond our replacement policy. Sorry!
 
@@ -859,7 +859,7 @@ Right click on your Start button and choose "Disk Management"
 
 **If it comes up but is unrecognised, you will need to partition it from scratch.** Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that. Once partitioned appropriately, simply follow the step above this one to format it properly, then place the files from goodies.zip into the drive, and you're done!
 
-If you encounter any issues, please send an email to [store@ppy.sh](mailto://store@ppy.sh) and we'd be happy to help you out.
+If you encounter any issues, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
 
 
 ----------------------------------------------------------------------------
@@ -886,6 +886,6 @@ This usually happens when there are networking issues between you and our server
 - Make sure that you typed your password correctly. If you're unsure of what your password is, you can use the <https://osu.ppy.sh/p/forgot> page to recover access to your account.
 - If you are using any proxies or VPNs, disable them before attempting to connect again.
 - Hold `Shift` while starting osu! and change to the `Stable (fallback)` release stream.
-- If the error persists, change to the `Cutting Edge` release stream. Let osu! run for a few minutes, then contact [support@ppy.sh](mailto://support@ppy.sh) and provide the `network.log` file that you can find in the Logs folder.
+- If the error persists, change to the `Cutting Edge` release stream. Let osu! run for a few minutes, then contact [support@ppy.sh](mailto:support@ppy.sh) and provide the `network.log` file that you can find in the Logs folder.
 
 If all these fail, you might need to contact your ISP to inquire about these problems.
