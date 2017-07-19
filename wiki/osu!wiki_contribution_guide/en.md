@@ -39,6 +39,19 @@ To keep your fork updated, do the following:
 
   ![](img/command-prompt-2.png "Enter the command and your fork will be updated")
 
+In order to keep your work tidy, you should **never** work on the `master` branch of your forked repository, which is the clean copy of the osu!wiki. A branch is nothing more than a soft copy of your files, where you can make changes without affecting the squeaky clean `master` branch. Before starting to make changes, do the following:
+
+1. Make sure that the current selected branch is `master`. Make sure that you updated your fork as described above. This assures that your new branch is based on the clean copy.
+2. Click `Branch` and then `New Branch...` in the menu header. Give your branch a name. This is now your Work In Progress place based on the clean copy of the `master` branch.
+
+  ![](img/create-branch-1.png)
+
+3. Make sure that your freshly created branch is now selected.
+
+  ![](img/create-branch-2.png)
+
+4. You should create separate branches for each project or patch you are working on. For that, repeat the listed steps. Never work on multiple projects within the same branch. Keep it tidy! It will save you some headaches and makes it easier to *pull request* only specific changes of yours bit by bit.
+
 Now you can **start working on the osu!wiki files**. For that, go to the folder you specified when cloning the forked repository. There you will find all articles and files that are used in the osu!wiki. Use any editor of your choice to make the changes you desire. Keep in mind that the osu!wiki uses [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) for formatting purposes. Make sure to follow the [Article Style Guide](/wiki/Article_Style_Guide) when making changes.
 
 In order to distribute your changes, do the following:
@@ -49,11 +62,11 @@ In order to distribute your changes, do the following:
   ![](img/commit-changes-1.png "The left side shows the files affected, the right side the change to the file selected")
 
 3. Fill the `Summary` text field with a short description of what you have changed. Make sure to commit regularly and in reasonable portions.
-4. Then commit your changes. You may use the `master` branch of your forked repository, but if you are advanced and want to work at multiple things on the same time, you may use [Branches](https://guides.github.com/introduction/flow/) in your own repository.
+4. Commit your changes. You should use the branch you just created for your current project in order to save your changes to it and not to your clean `master` branch. These changes will then be exclusively available when having your project branch selected.
 
   ![](img/commit-changes-2.png "Committing the changes saves them to the repository.")
 
-5. Once done will all the changes, *push* all changes to your forked repository by pressing the `Push origin` button.
+5. Once done will all the changes, *push* all changes to your forked repository by pressing the `Push origin` or `Publish New Branch` button (if you push for the first time with this branch).
 
   ![](img/push-commits.png "Pressing this button will upload all changes to GitHub")
 
@@ -65,6 +78,10 @@ In order to get your changes into the official osu!wiki itself, it is required t
 
   ![](img/pr-1.png)
 
+2. Select the right head fork and branch of your project you want to be amended. Select your forked repository at the `head fork` dropdown menu and your project's branch in the `compare` dropdown right next to it. Leave the two dropdowns on the left side alone.
+
+  ![](img/select-branch.png)
+
 2. Click the green `Create pull request` button in the yellow box.
 
   ![](img/pr-2.png)
@@ -74,6 +91,8 @@ In order to get your changes into the official osu!wiki itself, it is required t
   ![](img/pr-3.png)
 
 4. You can find yours or other people's Pull Requests at the [osu-wiki repository](https://github.com/ppy/osu-wiki/pulls).
+
+5. Make sure to open *Pull Requests* individually for each of your projects you want amended, so they can be reviewed one after another.
 
 If you are asked to make changes to your work, you can commit them normally and your Pull Request will be automatically be updated.
 
