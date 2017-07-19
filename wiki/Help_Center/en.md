@@ -4,13 +4,13 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 ## Account
 
-### I've paid for a supporter tag, but still haven't got it!
+### I've paid for a supporter tag, but still have not received it!
 
 **Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
 Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
-If it has been over 24 hours and you still haven't got your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
+If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
 
 Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
 
@@ -22,7 +22,7 @@ They may continue to set scores locally and online (though the scores will not s
 
 Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
 
-In most cases, the status will be removed automatically after 24 hours. If such time has passed and you're still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh).
+In most cases, the status will be removed automatically after 24 hours. If such time has passed and you are still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
 
@@ -136,7 +136,7 @@ A couple of hours at the absolute maximum will clear the status for most people 
 
 ### osu! freezes when I click a link or multiplayer map!
 
-**Make sure you're not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
+**Make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
 
 This issue is sometimes caused by an interaction with compatibility mode, and can also be caused by the game simply not finding a default browser to open the web page link with.
 
@@ -286,7 +286,7 @@ The only true solution is to purchase a keyboard that can support more concurren
 
 **The most common cause of this is having your in-game mouse sensitivity set too high.**
 
-Jumpy, erratic movement is a prime example of this, particularly if you're using a tablet.
+Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
 
 Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
 
@@ -367,7 +367,7 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 ### I get an error about "font styles" when I try to open the game!
 
-**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you're noticing!**
+**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
 If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
@@ -389,13 +389,13 @@ This helps to identify your own messages from everyone else's. There is no optio
 
 ### Some of my beatmaps are missing!
 
-**Make sure you're not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
+**Make sure you are not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
 
 If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
 ### I receive some sort of server-side error when trying to play online!
 
-**This can happen if you're using a shared internet connection, a proxy, or VPN.**
+**This can happen if you are using a shared internet connection, a proxy, or VPN.**
 
 Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
@@ -407,13 +407,13 @@ Tor or networks associated with the Tor relay will not connect to the game serve
 
 ## Website
 
-### I haven't received a reply to my support ticket and it's been over 2 weeks!
+### I have not received a reply to my support ticket and it's been over 2 weeks!
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
 You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you haven't received a notification like this, you don't need to worry about it!
+In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you don't need to worry about it!
 
 ### My user page has been locked and I can't edit it!
 
@@ -439,7 +439,7 @@ In the event that another user is harassing you via private messages either on t
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
 3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You're done! 
+4. You are done! 
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
@@ -450,7 +450,7 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
 2. Type "block" to filter the options listing to the "In-game Chat" section.
 3. Toggle the setting on by clicking it.
-4. You're done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
+4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
 
 #### Blocking public forum posts from a user
 
@@ -458,7 +458,7 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 
 1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
 2. Click submit.
-3. You're done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
+3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
 
 #### Prevent any new forum private messages from reaching you
 
@@ -470,7 +470,7 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
 5. Enter the offending user's username into the textbox that appears, then click Next.
 6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You're done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
+7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
 
 #### What if I'm still having problems with a user after blocking them?
 
@@ -500,7 +500,7 @@ While having an email isn't required, we do recommend that you associate one wit
 
 **Our local search engine can't handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
 
-Simply type the name of the artist you're searching for into the Google Custom Search bar and Google will do the rest.
+Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
 
 ### Why are the statistics in my user profile page wrong?
 
@@ -530,7 +530,7 @@ These are unfortunately, gone.
 
 The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
 
-Handy tip - if you're an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
 
 #### Are you set to the correct game mode?
 
@@ -594,7 +594,7 @@ Check your software of choice to make sure that `osu!.exe` in the directory you 
 
 **Some can interfere with your ability to submit scores.**
 
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you're not having issues with connectivity otherwise.
+Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
 
 #### Are the score submission servers up?
 
@@ -737,7 +737,7 @@ The team does not take requests to manually delete uploaded beatmaps.
 
 If your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
 
-### The beatmap you're trying to submit isn't yours!
+### The beatmap you are trying to submit isn't yours!
 
 In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included. If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
 
@@ -857,7 +857,7 @@ Right click on your Start button and choose "Disk Management"
 
 **If you see the osu!usb drive come up but in a RAW state** (<https://puu.sh/nktuJ/05791b6fc1.png>), right click on the RAW partition and "Format" it to NTFS or ExFAT (ExFAT is compatible with more devices, but slightly slower).
 
-**If it comes up but is unrecognised, you will need to partition it from scratch.** Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that. Once partitioned appropriately, simply follow the step above this one to format it properly, then place the files from goodies.zip into the drive, and you're done!
+**If it comes up but is unrecognised, you will need to partition it from scratch.** Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that. Once partitioned appropriately, simply follow the step above this one to format it properly, then place the files from goodies.zip into the drive, and you are done!
 
 If you encounter any issues, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
 
