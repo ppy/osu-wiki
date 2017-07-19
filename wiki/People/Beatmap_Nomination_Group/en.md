@@ -28,7 +28,7 @@ Becoming a Beatmap Nominator
 ----------------------------
 
 With the change to the team on 22. August 2014, joining the BNG is now a lot easier than it used to be in the past.
-The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular Intervals.
+The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
 
 #### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
@@ -46,7 +46,17 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 + This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
 + `Kudosu Score` is determined according to the following formula:
 
+![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Score Formula")
 
++ `Mod Score` per month is determined according to the following formula:
+
+![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
+
++ In order to determine their `Basic Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
++ The `Basic Score` threshold is set to the following values:
+  + osu!taiko, osu!catch and osu!mania: 1050
+  + osu!: 1100
++ It is usually a good idea to keep their socre well above these numbers as they can vary slightly depending on the amount of applicants.
 
 Team Members
 ------------
