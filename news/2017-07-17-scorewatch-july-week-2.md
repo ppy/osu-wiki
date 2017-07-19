@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 ---
 Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads going crazy once again in this week's issue of Scorewatch!
 
-<insert banner here when it's correctly uploaded>
+![](/wiki/shared/news/2017-07-18-scorewatch-july-week-2/banner.jpg)
 
 [Emilia](https://osu.ppy.sh/u/2003326) climbed into the top 10 with an amazing pp spree on stream, setting some crazy scores such as an amazing 99.10% 1x miss HDDT score on [HO-KAGO TEA TIME - Kira Kira Days](https://osu.ppy.sh/b/954692) to earn himself a whopping 744pp. His unique tap+x style has definitely proved its worth, and he is now sitting comfortably at 7th in global.
 
@@ -39,7 +39,7 @@ A certain [Monstrata](https://osu.ppy.sh/u/2706438) map, [xi - Glorious Crown](h
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[Cookiezi](https://osu.ppy.sh/u/124493) and [Gayzmcgee](https://osu.ppy.sh/u/1419095) battle it out on a stream test on the map [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/b/552068?m=0). 
+[Cookiezi](https://osu.ppy.sh/u/124493) and [Gayzmcgee](https://osu.ppy.sh/u/1419095) battle it out on a stream test on the map [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/b/552068?m=0).
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/WvHk6I11AGM" frameborder="0" allowfullscreen></iframe></br>
 
