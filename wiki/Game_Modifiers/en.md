@@ -29,7 +29,7 @@ For [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the Easy Mod decreases the [sl
 
 In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the effects are the same as in osu! mode - all fruits fall slower (same as reducing AR in osu! mode), the camera is zoomed in (increased circle size in osu! mode) and 3 lives are granted. Despite only using one axis, however, the fruits' larger size and slower falling rate causes them to clump together, creating the same alleged problems as in normal osu!
 
-![Easy decreases the difficulty in many ways.](img/easymod.jpg "Easy decreases the difficulty in many ways.") ![Sometimes, though, Easy just gives you a headache.](img/easymod2.jpg "Sometimes, though, Easy just gives you a headache.")
+![Easy decreases the difficulty in many ways.](img/Easymod.jpg "Easy decreases the difficulty in many ways.") ![Sometimes, though, Easy just gives you a headache.](img/Easymod2.jpg "Sometimes, though, Easy just gives you a headache.")
 
 ### No Fail
 
@@ -69,7 +69,7 @@ These mods introduce new elements to make the game harder and rewards the player
 ### Hard Rock
 
 ![Hard Rock mod icon.png](/wiki/shared/Hard_Rock.png "Hard Rock mod icon.png")
-![Hard Rock increases the difficulty in many ways.](img/hardrock.jpg "Hard Rock increases the difficulty in many ways.")
+![Hard Rock increases the difficulty in many ways.](img/Hardrock.jpg "Hard Rock increases the difficulty in many ways.")
 
 **Score multiplier**: 1.06 (osu!, osu!taiko), 1.12 (Catch the Beat), 1.00 (Mania, unranked)
 
@@ -185,7 +185,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the flashlight is the same, except t
 
 In [osu!mania](osu!/wiki/Game_Modes/osu!mania), vision is restricted to a thin horizontal bar in the center of the screen.
 
-![Flashlight mod in osu!standard.](img/flashlightosu.jpg "Flashlight mod in osu!standard.") ![Flashlight mod in osu!taiko.](img/flashlighttaiko.jpg "Flashlight mod in osu!taiko.") ![Flashlight mod in Catch the Beat.](img/flashlightosu!catch.jpg "Flashlight mod in Catch the Beat.") ![Flashlight mod in osu!mania.](img/Flashlight_Mania.jpg "Flashlight mod in osu!mania.")
+![Flashlight mod in osu!standard.](img/Flashlightosu.jpg "Flashlight mod in osu!standard.") ![Flashlight mod in osu!taiko.](img/Flashlighttaiko.jpg "Flashlight mod in osu!taiko.") ![Flashlight mod in Catch the Beat.](img/Flashlightctb.jpg "Flashlight mod in Catch the Beat.") ![Flashlight mod in osu!mania.](img/Flashlight_Mania.jpg "Flashlight mod in osu!mania.")
 
 Special Mods
 ------------

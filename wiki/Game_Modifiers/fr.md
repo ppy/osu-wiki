@@ -23,7 +23,7 @@ Pour le mode [Taiko](FR:Taiko "wikilink"), le mod réduit le slider velocity (qu
 
 En mode [Catch the Beat](FR:Catch_The_Beat "wikilink"), les effets sont les mêmes qu'en osu!standard - tous les fruits tombent plus lentement (l'équivalent de la réduction de l'AR en osu!standard), la camera est plus proche du joueur (taille des cercles augmentée dans osu!standard) et 3 "vies"sont données. Malgré le fait d'utiliser qu'un axe, cependant, la plus grande taille des fruits et leur chute ralentie font qu'ils s'encombrent, créant les mêmes problèmes qu'en osu!standard.
 
-easymod.jpg|Bien que le mod Easy peut réduire la difficulté de différentes manières... easymod2.jpg|...cela peut parfois vous donner mal à la tête.
+![Bien que le mod Easy peut réduire la difficulté de différentes manières...](img/Easymod.jpg "Bien que le mod Easy peut réduire la difficulté de différentes manières...") ![...cela peut parfois vous donner mal à la tête.](img/Easymod2.jpg "...cela peut parfois vous donner mal à la tête.")
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
@@ -144,9 +144,9 @@ Cliquer sur Fade In à nouveau fera apparaître Hidden. (Inverse de Fade In)
 
 Pour une comparaison, regardez les images en dessous.
 
-<File:GM> o!m FI.jpg|Fade In <File:GM> o!m HD.jpg|Hidden <File:GM> o!m FI(2).jpg|Fade In (style DDR) <File:GM> o!m HD(2).jpg|Hidden (style DDR) <File:Flashlight> Mania.jpg|Flashlight
+![Fade In](img/GM_o!m_FI.jpg "Fade In") ![Hidden](img/GM_o!m_HD.jpg "Hidden") ![Hidden (style DDR)](img/GM_o!m_FI2.jpg "Hidden (style DDR)") ![Fade In (style DDR)](img/GM_o!m_HD2.jpg "Fade In (style DDR)")
 
-<File:GM> FI comp.jpg|Comparaison du combo en Fade In <File:GM> HD comp.jpg|Comparaison du combo en Hidden
+![Comparaison du combo en Fade In](img/GM_FI_comp.jpg "Comparaison du combo en Fade In") ![Comparaison du combo en Hidden](img/GM_HD_comp.jpg "Comparaison du combo en Hidden")
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 

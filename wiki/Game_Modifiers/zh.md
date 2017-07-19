@@ -21,7 +21,7 @@
 
 在 [Catch the Beat](ZH:Catch_The_Beat "wikilink") 模式中，效果跟 osu! 模式相同——水果下落速度变慢（跟 osu! 模式中的降低 AR 相同）、水果变大（跟圆圈变大相同）、有 3 条命。由于只有水平轴，可能会使水果堆在一起，并且有跟 osu! 模式相似的问题出现。
 
-easymod.jpg|很多情况下，Easy 这个 mod 可以在很多地方降低难度。 easymod2.jpg|在一些特殊情况下，Easy 这个 mod 可能会令你头痛。
+![很多情况下，Easy 这个 mod 可以在很多地方降低难度。](img/Easymod.jpg "很多情况下，Easy 这个 mod 可以在很多地方降低难度。") ![在一些特殊情况下，Easy 这个 mod 可能会令你头痛。](img/Easymod2.jpg "在一些特殊情况下，Easy 这个 mod 可能会令你头痛。")
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
@@ -144,9 +144,9 @@ Clicking Fade In again with summon Hidden mod. (Inverse of Fade In)
 
 For a comparison, see pictures below.
 
-<File:GM> o!m FI.jpg|Fade In <File:GM> o!m HD.jpg|Hidden <File:GM> o!m FI(2).jpg|Fade In (DDR style) <File:GM> o!m HD(2).jpg|Hidden (DDR style) <File:Flashlight> Mania.jpg|Flashlight
+![Fade In](img/GM_o!m_FI.jpg "Fade In") ![Hidden](img/GM_o!m_HD.jpg "Hidden") ![Hidden (DDR style)](img/GM_o!m_FI2.jpg "Hidden (DDR style)") ![Fade In (DDR style)](img/GM_o!m_HD2.jpg "Fade In (DDR style)")
 
-<File:GM> FI comp.jpg| Fade In combo comparison <File:GM> HD comp.jpg| Hidden combo comparison
+![Fade In combo comparison](img/GM_FI_comp.jpg "Fade In combo comparison") ![Hidden combo comparison](img/GM_HD_comp.jpg "Hidden combo comparison")
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
