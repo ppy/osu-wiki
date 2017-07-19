@@ -30,12 +30,13 @@ Before working on the osu!wiki files, make sure that the files you work on are u
 To keep your fork updated, do the following:
 
 1. Go to the GitHub Desktop client while you have your forked repository opened
-2. Click `Repository` on the menu header, then `Open command prompt`. A black command prompt window should open.
-3. If you do this for the first time, enter `git remote add upstream https://github.com/ppy/osu-wiki.git` into the command prompt. This step can be skipped in future updates.
+2. Make sure you have the `master` branch selected.
+3. Click `Repository` on the menu header, then `Open command prompt`. A black command prompt window should open.
+4. If you do this for the first time, enter `git remote add upstream https://github.com/ppy/osu-wiki.git` into the command prompt. This step can be skipped in future updates.
 
   ![](img/command-prompt-1.png "Enter the mentioned commands into the command prompt and press ENTER")
 
-4. To update your forked repository, enter `git pull upstream master` into the command prompt.
+5. To update your forked repository, enter `git pull upstream master` into the command prompt.
 
   ![](img/command-prompt-2.png "Enter the command and your fork will be updated")
 
