@@ -31,7 +31,7 @@ To keep your fork updated, do the following:
 
 1. Go to the GitHub Desktop client while you have your forked repository opened
 2. Click `Repository` on the menu header, then `Open command prompt`. A black command prompt window should open.
-3. If you do this for the first time, enter `git remote add upstream https://github.com/ppy/osu-wiki.git` into the command prompt. Then enter `git fetch upstream`. This step can be skipped in future updates.
+3. If you do this for the first time, enter `git remote add upstream https://github.com/ppy/osu-wiki.git` into the command prompt. This step can be skipped in future updates.
 
   ![](img/command-prompt-1.png "Enter the mentioned commands into the command prompt and press ENTER")
 
