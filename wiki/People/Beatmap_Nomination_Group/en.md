@@ -76,7 +76,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Len](https://osu.ppy.sh/u/1686145)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                   |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
-| [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
+| [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][Ys] | ![Yes][Yt] | ![Yes][Yf] | ![No][Nm]  |                          |
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Italian, Romanian        |
 | [My Angel Azusa](https://osu.ppy.sh/u/5318910)    | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
@@ -107,7 +107,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Surono](https://osu.ppy.sh/u/3611370)            | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Indonesian               |
 | [tasuke912](https://osu.ppy.sh/u/2774767)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [thzz](https://osu.ppy.sh/u/1614839)              | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
-| [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Dutch                    |
+| [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Volta](https://osu.ppy.sh/u/4154071)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Indonesian               |
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Czech                    |
 | [Xexxar](https://osu.ppy.sh/u/2773526)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
