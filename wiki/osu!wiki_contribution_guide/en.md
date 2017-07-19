@@ -48,7 +48,8 @@ So here are a few things you should have in mind to get you started for contribu
 
 ## Disclaimer
 
-This quick-start guide is intended for newcomers not familiar with the feature-branch workflow.
+This quick-start guide is intended for newcomers not familiar working with the new wiki workflow.
+
 If you have previous experience in using GitHub, feel free to skip this guide and remember to follow feature-branch workflow for content update.
 
 For complete reference and help with using GitHub, please visit [GitHub Help][GitHub Help].
@@ -57,7 +58,7 @@ For a styling guide when writing a page, check out [Article Style Guide][ASG] in
 
 If you have any questions, you can inquire at the [osu!dev Discord Server][osu!dev Discord], under ``#osu-wiki`` preferably.
 
-Reading time for the whole page is around an hour.
+This guide assumes the reader's immidiate knowledge about Git. If you're not familiar with Git or VCS, please read [Git's documentation and guidebook](https://git-scm.com/doc).
 
 ## Prerequisites
 
@@ -70,7 +71,7 @@ To contribute to the osu!wiki, you must have the following:
 - Able to write in English, preferably British English for consistency.
   - Everything not related to the page content itself (commit messages, pull requests, filenames, etc) **must** be written in English.
 
-Optionally, if you plan to make changes locally:
+Optionally, if you plan to make changes in your local machine:
 
 - A text editor.
   - Markdown syntax highlighting is an optional preference.
@@ -122,7 +123,7 @@ However, it is _bad practice to do this in the long run_.
 This is where branching comes into play.
 By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
 
-In the event of major slip-ups, you can cut off the branch and start a new branch copy based on the clean branch.
+In the event of major slip-ups, you can delete the branch and start a new branch based on the clean branch.
 
 ### Through GitHub's Web Editor
 
@@ -245,364 +246,64 @@ If you did commits without pushing to remote copy, you are effectively talking t
 You can delay the push to remote copy for as long as you want, but you must push your commit at the end when you are done.
 It is usually preferred to push the local commit immediately to the remote copy.
 
-#### One-time setup only
+It also gives you an advantage of editing the wiki while not connected on a network.
 
-##### Preparation of local copy
+#### Pulling the repository
 
-_Note: If you do not have Git installed, you can go to [the official Git website][Git] to download Git and [set it up][GH Help Git setup] (only ignore step 1)._
+to be able to contribute locally, you must "pull" the repository from your fork.
 
-Once you have Git installed and ready to deploy (see the note above if you have not), open up Git Bash or your terminal directly and enter this in the Command Line Interface (CLI):
-
-```prolog
-git clone https://github.com/<your GitHub username>/osu-wiki.git
-```
-
-Replace ``<your GitHub username>`` with, well, your GitHub username you sign up with and fork from.
-
-This will clone your fork (``master`` branch only) in the filepath you specified (usually in your user's home folder, when running Git directly by default).
-Moreover, the link is now nicknamed to ``origin``, and the significance will be explained at the next header.
-
-Make sure you are connected to the Internet before using the command.
-Also, please consider doing this in an unmetered connection like a Wi-Fi area to preserve your connection quota, as the content size of osu-wiki is _quite large_.
-
-_Note: For further reference, check [GitHub Help on fork a repo][GH Help fork]_
-
-##### Nicknames significance
-
-Head to the cloned fork folder first. Type this to the CLI:
+This is done using :
 
 ```prolog
-cd osu-wiki
+
+git clone https://github.com/<your github username>/osu-wiki
+
 ```
 
-The terminal command, `cd`, will move Git down to ``osu-wiki``, which is where your freshly created local copy is at.
+Replace the text under the brackets with your GitHub username you signed up with.
 
-Remember the previous mention about ``origin``?
+the command would create a folder with the same name as the remote repository and pull all the files.
 
-Well, do the below first:
+After it has been pulled, you may now proceed to make changes.
+
+
+#### Committing changes
+
+After you have made changes, it's ideal to "commit" it to be able for git to snapshot the change and upload it to your remote.
+
+Doing the following command :
 
 ```prolog
-git remote add upstream https://github.com/ppy/osu-wiki.git
+
+git add .
+git commit -a -m "<commit message>"
+
 ```
 
-The command will set the link (which is the osu-wiki official repository link) to the nickname of ``upstream``.
-If you do not like the ``upstream`` nickname, you can change it to whatever you like, but the guide onwards will still use ``upstream`` nickname to refer to the ``osu-wiki`` official repository link.
+would "stage" your changes be committed on the local copy.
 
-Now you have two nicknames, ``origin`` and ``upstream``.
+*Note: Adding a additional ``-m <message>`` in the command would be considered by remote as the commit details.*
 
-Nicknames are just link-shorthand for you to type in Git when you want to do something, such as telling Git to push (important) local changes to where it should be or telling Git to cross-check and update your own local copy with the latest official copy.
-You can have more nicknames with links based on other repositories of ``osu-wiki``, but two is mostly sufficient for now.
 
-Use the command below if you want to know what nickname is referring to what link:
+After committing your changes, it is advisable to push it immidiately on your fork's remote copy, which can be done using:
 
 ```prolog
-git remote -v
-```
 
-It will show you all the nicknames and the links it reference to.
-It should show something as below:
-
-```prolog
-origin  https://github.com/<your GitHub username>/osu-wiki.git (fetch)
-origin  https://github.com/<your GitHub username>/osu-wiki.git (push)
-upstream        https://github.com/ppy/osu-wiki.git (fetch)
-upstream        https://github.com/ppy/osu-wiki.git (push)
-```
-
-##### Default terminal text-editor
-
-Reference: <http://web.mit.edu/6.005/www/sp14/tutorial/git/config.html>
-
-To do a quick test, type in ``nano``/``vim``/``emacs`` in Git Bash or terminal, and see what happens.
-If the terminal changed rather than an error given, then Git is most likely using this terminal text-editor by default.
-Read what was given for the quit command.
-
-- By default, you will be using ``nano`` if you are in Linux environment.
-- If you are in Windows environment or your Linux environment does not provide ``nano`` by default, then ``vim`` will be used instead.
-- For Mac OSX environment, ``emacs`` should be set by default if it is not ``nano``, or ``vim`` will be used instead.
-
-If you have an adversity to terminal text editor, and want to use a familiar text editor like Notepad++ or GitHub's Atom instead, [swcarpentry provides a guide to set Git to always use that instead][Git set default editor].
-
-If you are fine with the given terminal text editor, then you can skip the above configuration and read below.
-If you already set your own, ignore below and head to the next header.
-
----
-
-For ``nano``, it is very self-explanatory as all the important commands was shown at the lower part of the editor.
-
-Press these two keys, ``Ctrl``-``X``, together at the same time to exit ``nano`` editor.
-If the content was changed, the lower-part will be changed to ask for confirmation; press ``Y`` key to save changes, or press ``N`` key to cancel changes.
-
----
-
-![vim interface](./img/Contribute_vim.jpg "vim interface")
-
-For ``vim``, it has its own set of keyboard commands, and most of it can be ignored unless you are using it to write files.
-
-The only three keywords you need to remember when using ``vim`` appears are as follow:
+git push
 
 ```
-1. i   (lowercase i key, once)
-2. Esc
-3. ZZ  (UPPERCASE Z key, twice) or :q (a colon and a lowercase q key)
-```
-
-By default, you will be in normal mode.
-
-- The first command tells ``vim`` to go to insert mode, so you can write on it.
-  - If you do not want to modify the text content, you can directly skip to the third command if the first command was not used.
-- The second command tells ``vim`` to go back to normal mode, which allows you to exit.
-- The third command tells ``vim`` to save and exit if some text was given; exit and abort the commit if no text was given.
-
-Oh, and if you got the [E325 error][E325 error], do this:
-
-```prolog
-rm .git/.COMMIT_EDITMSG.swp
-```
-
-#### Accessing your local copy
-
-Open up Git Bash or your terminal of choice (if you have not), and type in this command in the CLI:
-
-```prolog
-git status
-```
-
-This command is used to check for Git's response about the status of the local copy in this directory.
-
-If it throws up an error (meaning, you are in the wrong directory), type in this command in the CLI:
-
-```prolog
-cd ~
-cd osu-wiki
-```
-
-Assuming you are following the guide and did not do any modification to Git Bash/terminal (saving the cloned osu-wiki repository in your user home's folder):
-
-- The first command tells the terminal to go back to your home directory, `~` (if you somehow end up somewhere).
-  - An alternative method is to reopen the Git Bash/terminal again.
-- The second command, using the terminal command, `cd`, will move the terminal down to ``osu-wiki`` if found, which is where your freshly created local copy is at.
-
 or
 
 ```prolog
-cd ~/osu-wiki
+
+git push origin master
+
 ```
 
-Which does the same thing as above.
 
-There should be a light-blue coloured brackets with text inside (``master``) at the end of the line when done right in Git Bash.
-That is the branch name your local copy is currently in.
+#### Syncing your branch to be updated with the new changes.
 
-You can now proceed to make your changes.
-
-#### Making a new branch
-
-To check for available branches, enter the command below in the CLI:
-
-```prolog
-git branch
-```
-
-This command will show all the branches of the remote repository (namely, your forked repo, nicknamed ``origin`` by default) copied into your local copy.
-If you are starting fresh, you will be in ``(master)`` branch by default.
-
-To switch to a branch, enter the command below in the CLI:
-
-```prolog
-git checkout <branchname>
-```
-
-Once completed, your local copy will be updated exactly to the branch copy version you switched to.
-You are now in the branch specified in ``<branchname>``.
-If you forgot to save the files before switching, try and see if your text editor still keeps it or not.
-
-To make a new branch, enter the commands below in the CLI:
-
-```prolog
-git checkout master
-git checkout -b <branchname>
-git push origin <branchname>
-```
-
-- The first command returns the Git back to ``master`` branch.
-  If you are already in ``master`` branch, nothing happens.
-- The second command makes the ``<branchname>`` branch copy based on ``master`` branch.
-- The third command updates your forked remote copy (``origin``, remember?) with a new ``<branchname>`` (make sure you are connected to the Internet before pushing anything).
-
-You are now in the new branch you created and its time to make some local changes.
-Go ahead and mess with the ``osu-wiki`` directory content.
-
-#### Updating the branch content
-
-After making your changes locally (such as add/delete/rename/move/modify files/folders), you will need to commit (update) this on your local copy.
-
-This can be done by entering this to the Git's CLI:
-
-```prolog
-cd ~/osu-wiki
-git commit -am "<commit message>" -m "<long description>"
-```
-or alternatively:
-
-```prolog
-cd ~/osu-wiki
-git add <changed_file_path_with_the_actual_file>
-git commit -m "<short title>" -m "<long description>"
-```
-#### The first command set
-
- - The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
- - The second command will stage **everything** that was changed and directly commit using the message provided. this also takes a snapshot of the GitHub repository with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
-
-#### The second command set
-
-- The first command will direct Git to the root of the repository (assuming the repository was cloned at user's home directory)
-- The second command will **stage everything**, including untracked and changed files.
-  - You can also substitute ``.`` with the filepath you want to stage manually, one-by-one.
-- The third command takes a GitHub's snapshot (``commit`` keyword) with a refined commit message of a title (the first ``-m "<short title>"``) and a description (the second ``-m "<long description>"``).
-  
- 
- **A few things to note:**
-
-- Please try to avoid the use of punctuation, to prevent errors or unexpected behaviour.
-- Also, write the commit message in **English**.
-- If you write longer than the 72 characters limit for the title, the rest of the text will be shown in GitHub's hidden commit description instead.
-  
-
-_Note: Omitting the ``-m`` attribute will send you to a CLI text-editor interface by default or your predefined text-editor instead to write your summary.
-If you are not well-versed with CLI text-editor, or do not want to open your predefined text-editor to write, use the ``-m`` attribute._
-
-After committing your changes, you need to push the commits to GitHub so everyone can see it.
-
-To do this, enter the following to your CLI:
-
-```prolog
-git push origin <branchname>
-```
-
-This should prompt you to enter your GitHub login credentials.
-After you enter them, this should push your commits to GitHub.
-
-**Note:**
-
-- Always check if your local branch copy is synced with your remote branch.
-  - Enter ``git status`` to check for any uncommitted changes and the status of your local repository versus your remote repository.
-- If your authentication details were saved in Git already, no prompt will appear and will proceed directly to push.
-  This can be done by [caching your Git credentials][GH Help cache git password].
-
-## Pull Requests
-
-### Finding the pull request button
-
-After pushing your commits, you must make a "Pull Request"(abbreviated as "PR").
-This lets us know that your commits are ready to be reviewed.
-
-![Pull Request Tab](./img/Contribute_pr1.jpg "Pull Request Tab")
-
-There are three ways (four, if you have write access to the repository) of making a pull request.
-Each of the ways are separated by a plan header, and all of them will lead to the creation of a PR.
-Pick your favourite plan and stick to it.
-
-To begin, go to your own forked repository.
-
-#### Plan A (PR current branch)
-
-Switch your ``Branch: master`` dropdown button **to the branch you want to do a PR** for.
-
-Then, press on either the "New pull request" right beside the dropdown button, the "Pull request" with a merge-branch icon right beside the "Compare" button, or the "Compare" button.
-
-Either one of the buttons will still lead you to the same PR branch compare page.
-
-#### Plan B (The branch page)
-
-Click on the "Branches" icon and text to go to the branches page.
-
-![Branch page](./img/Contribute_pr2.jpg "Branch Page")
-
-You should roughly get the screen as shown above.
-You can overview your branch status and do clean-up like deleting the branches by pressing the red trashcan icon.
-
-Since you are here for PR, click on the "New pull request" on the branch you want to do PR on.
-
-#### Plan C (The PR page)
-
-Go to the "Pull Requests" tab, or the "New Pull request" button beside the branch.
-
-This would lead you to the pull requests page.
-
-![PR UI](./img/Contribute_pr3.jpg "Pull Requests Page")
-
-This is the Pull Request Page.
-
-Now click on "New pull request"
-
-### Preparing the PR
-
-![Compare Changes Page](./img/Contribute_prcomp.jpg "Comparing Changes")
-
-We want to compare ``ppy:master`` as base fork branch against your branch as head fork branch.
-
-From here, select the branch that contains your commits besides your "head fork".
-
-![Comparing Changes 2](./img/Contribute_prcomp2.jpg "Comparing Changes 2")
-
-Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
-
-- **Title** : The summary of the changes you have made
-  - It is really important to have a meaningful and clear title, otherwise it will cause confusion
-  - Please write it in **English**
-
-- **Leave a Comment** : The details of the changes you have made
-  - Also, write it in **English**
-
-![PR Creation Dialogue](./img/Contribute_prcontent.jpg "PR Creation Dialogue")
-
-Click on the "Create pull request" button.
-
-![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
-
-With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
-If your PR was deemed good enough, a _Team osu!_ member may come and merge your changes to the official branch.
-
-**Your commit messages should thoroughly explain your changes.
-Otherwise, the pull request may not be accepted to the official branch!**
-
-## Repo Sync and cleanups
-
-Two important things you must do at all cost:
-
-1. Updating your ``master`` branch to the latest official ``master`` commit.
-2. If the branch has merge conflicts, fix it immediately.
-
-Updating a branch and cleaning up stale/merged branches is an optional personal task.
-
-### Through GitHub's Web Editor
-
-#### Branches cleanups
-
-Go to your own forked repository.
-
-There are two ways of cleaning a branch:
-
-- overview branch cleanup, and
-- merged/closed PR manual branch deletion.
-
-As the second way requires the branch to be merged/closed for the branch's delete button appear in the merged/closed PR page, the first way of cleaning the branches is preferred for this guide.
-
-Click on the "Branches" icon and text to go to the branches page.
-
-![Branch page](./img/Contribute_pr2.jpg "Branch Page")
-
-You should roughly get the screen as shown above.
-Click on the red trashcan icon on the branch you want to delete.
-The branch will be marked for deletion, and will be deleted after you leave the page.
-
-Once you have done cleaning the branches, it is time to update your own forked repository.
-
-_Note: For further reference, see [GitHub Help in viewing branches in your repository][GH Help webbranch view]_
-
-#### Branch sync
+##### in GitHub Web
 
 Go to ``ppy/osu-wiki`` repository this time.
 
@@ -648,167 +349,47 @@ Click on the green "Confirm merge" button and the branch will be updated success
 
 To update your other branches, do the same thing in this section in a new PR but with different branch this time.
 
-#### Merge conflicts
+##### In a local copy
 
-[Read this GitHub Help for an overview about merge conflicts][GH Help webmerge conflicts]
+In your local copy, you can also update your branch. However, we must set up another "remote" for it.
 
-[Read this GitHub Help on resolving merge conflicts in GitHub itself][GH Help solve webmerge conflicts]
-
-### Through your Local Machine
-
-#### Branches cleanups
-
-_Note: It is highly suggested to do branch cleanups locally.
-It is best not do any web branch cleaning in GitHub if you have a local copy._
+To add the ppy/osu remote, you can enter the following command :
 
 ```prolog
-git checkout master
-git branch -d <branchname>
-git push origin :<branchname>
+
+git remote add ppy https://github.com/ppy/osu
+
 ```
 
-- The first command set the branch to master.
-  This will allow you to delete the other branches.
-- The second command will tell Git to delete the branch.
-  If Git refuse to delete it for a reason (usually the branch was not updated) but you do not want the branch anyway, use the force delete variant by replacing the soft local delete attribute, ``-d``, to force local delete attribute, ``-D``.
-- The third command will update the forked remote repo to also remove the branch (make sure you are connected to the Internet).
-  The colon, ``:``, will tells Git to delete this ``<branchname>`` branch in the ``origin`` nickname (which is your forked remote repo).
+Which would add the official repository as a recognized remote under the ``ppy`` alias.
 
-#### Branch sync
+You can replace ``ppy`` with an alias you prefer.
 
-Do a checkout to the branch you want to sync.
+
+With the remote now set up you can just pull the new changes from the official repository.
 
 ```prolog
-git checkout <branchname>
+
+git pull ppy master
 ```
 
-There are two ways of updating it:
-
-- The first way provides a open choice (will not be explained in this guide) to do a forensic check on what was changed before doing any merging.
-- The second way is best used if you know that there will not be any merge conflicts, does not care about what was changed, and lazy to type two commands.
-
-Both commands will provide the same outcome, and will complain about the merge conflict(s) if found.
-
-##### Fetch + Merge
+Then push the changes to your fork's remote via :
 
 ```prolog
-git fetch https://github.com/ppy/osu-wiki.git
-git merge https://github.com/ppy/osu-wiki.git/master
-git push origin <branchname>
+
+git push
 ```
 
-or, if you nicknamed ``https://github.com/ppy/osu-wiki.git`` to ``upstream`` for example, then the below will work too:
 
-```prolog
-git fetch upstream
-git merge upstream/master
-git push origin <branchname>
-```
 
-- The first command collects all the changes from all the official repository branches (must have connection to the Internet).
-  - If you want to know all the branches, including the fetched remote branches: ``git branch -a``.
-    - The fetched remote branches will all be coloured in red in Git Bash if the command was used.
-  - All fetched changes will be stored as ``https://github.com/ppy/osu-wiki.git/<branchname>``, or if nicknamed, ``upstream/<branchname>``.
-  - You only need to fetch once before attempting to update all the local branches.
-    - For other branches, continue directly to the second command after you fetched and merged the first branch.
-- The second command attempts to merge the official master branch changes to your current branch.
-  - If a merge conflict arise, refer to _Merge conflict_ below on how to resolve it.
-    In this case, the merge commit will fail, and you must do the regular commit after solving the conflict.
-  - If the local merge commit was successful, Git will ask for a commit message with a default given for this merge commit using the terminal text-editor/your text-editor.
-    Just exit it (the default message is more than enough to explain the commit itself).
-- The last command is to update your own remote repo's branch with the updated local copy of this branch.
-  As usual, make sure you are connected to the Internet before doing any pushing.
+#### Solving merge conflicts
 
-##### Pull
+In some cases, you will encounter a "merge conflict", a situation which there are two conflicting changes in one or more files.
 
-```prolog
-git pull https://github.com/ppy/osu-wiki.git master
-git push origin <branchname>
-```
 
-or, if you nicknamed ``https://github.com/ppy/osu-wiki.git`` to ``upstream`` for example, then the below will work too:
+- [Read this GitHub Help for an overview about merge conflicts][GH Help webmerge conflicts]
 
-```prolog
-git pull upstream master
-git push origin <branchname>
-```
-
-- The first command is, frankly, a fetch and a merge in one command.
-  - Read the description of the _Fetch + Merge_ above for the first command and the second command.
-    It is exactly the same.
-- The last command is to update your own remote repo's branch with the updated local copy of this branch.
-
-#### Merge conflict
-
-If you received merge conflict(s) when doing a merge/pull, the merge/pull will fail.
-In this case, you should fix the conflicting changes, and do a regular commit instead.
-
-When a merge conflict occurs, your Git Bash/terminal will be locked to the branch until you complete the merge conflicts.
-An extra ``| MERGING`` notice will be added to the brackets to signify the importance of fixing the merge conflicts at all cost.
-
-To remove it, there are two safe ways of doing it:
-
-- The manual method, being much more straightforward but becomes very tedious quickly the more files with conflicts.
-- The mergetool method, requiring some familiarity with the default tools used without explicit configuration and installation of other program by personal preference.
-
-To check for files with merge conflict, use:
-
-```prolog
-git status
-```
-
-A typical textfile merge conflict will look like this:
-
-```
-<<<<<<< HEAD
-    <myLocalContent>
-=======
-    <osu-wikiContent>
->>>>>>> master
-```
-
-Read the content difference, and decide whether to rewrite it, or keep either one.
-You should delete the ``<<<<<<< HEAD``, ``=======``, and ``>>>>>>> master`` once you have decided on the content to keep.
-
-Continue to search for next merge conflicts, and save when there is no more merge conflict in this file.
-
-For major or complicated merge conflicts, ask for help.
-
-##### Manually
-
-Reference: [Githowto on resolving conflicts][Githowto resolve conflicts] and [GitHub Help on resolving a merge conflict using the command line][GH Help solve git merge conflicts]
-
-The procedure is basically:
-
-1. Use ``git status`` to collect the files with merge conflict(s).
-2. Open the file using your text-editor of choice.
-3. Find for ``<<<<<<<``.
-4. Read the content difference, do a revision there, and remove all the merge conflicts symbols (``<<<<<<< HEAD``, ``=======``, and ``>>>>>>> master``) of this section.
-5. Return to Step 3, until no more merge conflicts in this file.
-6. Save the file.
-7. Continue with other files starting with Step 2.
-8. Pick the image you want to keep by deleting the old ones.
-
-Once the ``git status`` gives all-green answer in your Git Bash/terminal, commit and push the changes.
-
-##### Mergetool
-
-[Read this guide by GitHub user karenyyng on using git mergetool to resolve merge conflicts][git mergetool help by karenyyng]
-
-For practice in using the mergetool, try [Ruslan Osipov's tutorial in using vimdiff][Ruslan Osipov's vimdiff tutorial], with a nice simulation guide to do a test merge conflict (just delete the folder once you are done with it, there is no need to push).
-
-#### Pushing solved merge conflicts
-
-Once all the merge conflict(s) resolved, do a commit with a message, and push to your remote branch.
-Like so:
-
-```prolog
-cd ~/osu-wiki
-git commit -am "Solved merge conflicts"
-git push origin <branchname>
-```
-
-The extra ``| MERGING`` notice will be removed from the brackets once the commit was completed.
+- [Read this GitHub Help on resolving merge conflicts in GitHub itself][GH Help solve webmerge conflicts]
 
 ## FAQ
 
