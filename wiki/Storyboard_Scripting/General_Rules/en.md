@@ -1,5 +1,5 @@
-Storyboard Scripting General Rules
-=====================================
+General Rules
+================
 
 ![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
 

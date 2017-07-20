@@ -1,4 +1,4 @@
-Innanzitutto un caloroso benvenuto e un abbraccio per esser entrato a far parte della nostra community. Lasciaci solamente spiegare alcune cose prima che tu inizi a giocare. ![osu!](Osu-boxart.png "fig:osu!")
+Innanzitutto un caloroso benvenuto e un abbraccio per esser entrato a far parte della nostra community. Lasciaci solamente spiegare alcune cose prima che tu inizi a giocare. ![osu!](osu-boxart.png "fig:osu!")
 
 \_\_TOC\_\_
 

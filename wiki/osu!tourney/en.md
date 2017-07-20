@@ -11,15 +11,6 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-### Registering your tournament
-
-After you have organized your event, send an e-mail to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) including:
-
-1. The starting and ending dates of the tournament.
-2. Any publicly-accessibly links to follow the tournament.
-
-We expect you to act professionally and responsibly in the management of your tournament. Any actions with malicious intent will not be treated lightly.
-
 ## Setup
 
 There are only a few steps to setup the osu!tourney client.
@@ -154,67 +145,9 @@ So here our example uses the template:
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets `()` around them**.
 
-### Referee commands (optional)
-
-There are two types of referee commands that can be used - unprivileged and privileged. Unprivileged commands may be used by anyone, while privileged commands are locked to those who are in the [tournament staff](https://osu.ppy.sh/g/26) usergroup. It is _not_ necessary to be part of the tournament staff usergroup to manage a tournament.
-
-Any properties enclosed with brackets `[]` are optional.
-
-#### Unprivileged commands:
-
-Only the original host of a room will be able to use unpriviliged commands in that room. If the original host leaves, the next host will not inherit the commands. If the original host rejoins the room, they will again be able to use the commands.
-- `!mp lock` - Locks the room so that players can’t change their team and slot.
-- `!mp unlock` - Reverses the above.
-- `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
-- `!mp set <teammode> [<scoremode>] [<size>]` - Sets various room properties.
-  - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
-  - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
-- `!mp move <username> <slot>` - Moves a player within the room to the specified 1-indexed slot.
-- `!mp host <username>` - Transfers host to the player.
-- `!mp clearhost` - Clears match host.
-- `!mp settings` - Displays full match details.
-- `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
-- `!mp abort` - Aborts the match.
-- `!mp team <username> <colour>` - Moves a player to the specified team.
-  - `colour` - red, blue
-- `!mp map <mapid> [<playmode>]` - Changes the beatmap and playmode of the room.
-  - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
-- `!mp mods <mod> [<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
-  - Any amount of mods can be entered.
-  - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<time>]` - Begins a countdown timer.
-  - `time` is 30s default.
-  - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
-- `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
-- `!mp kick <username>` - Kicks the player from the room.
-- `!mp password` - Enables/disables the multiplayer room password (initially enabled).
-- `!mp close` - Closes the room.
-
-#### Privileged commands:
-
-- `!mp make <name>` - Creates a tournament room with the specified name.
-  - This room is special in that it is not closed when all players have left the room, and it is protected from players joining this room themselves.
-  - When the match is finished, use `!mp close` to close the room.
-- `!mp add <username>` - Brings a player into the room.
-  - The player will be forced into the room regardless of what they're doing, so this should not be used unless absolutely required.
-- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
-
-`#<userid>` may substitute `<username>` in all of the above commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
-   
-Members of the tournament staff usergroup may also use these commands to manage tournaments through an IRC client such as mIRC, HexChat, or HydraIRC.
-
-Sending `!mp help` to BanchoBot will reveal the above commands.
-
-The following is an example of command usage:
-
-- `!mp move Zallius 1` - Move Zallius into slot 1 of the room.
-- `!mp move Loctav 4` - Move Loctav into slot 4 of the room.
-- `!mp team Zallius blue` - Move Zallius to the blue team.
-- `!mp team Loctav red` - Move Loctav to the red team.
-- `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
-- `!mp start` - Start the match instantaneously.
-
 ### Room management
+
+Please see [Tournament Management Commands](/wiki/Tournament_Management_Commands "Tournament Management Commands") for more information.
 
 The osu!tourney client will successfully recognize the room.
 Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
@@ -287,7 +220,12 @@ Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50
 
 ### Prizes
 
-We may award badges to the first place winners of second (and further) iterations of well-managed tournaments. This is offered under the condition that staff members of your tournament do _not_ participate in the tournament themselves to avoid any potential unfairness.
+We may award profile badges to first-place winners of tournaments meeting the following criteria:
+- This is the second or further iteration of the tournament.
+- The staff members involved in managing the tournament are **not** participating in the tournament themselves.
+- The tournament is run four or less times per year (seasonal).
+
+Please email tournaments@ppy.sh if your tournament meets this criteria.
 
 ## Troubleshooting
 
