@@ -1,51 +1,51 @@
-奖牌
+奖章
 ======
 
-奖牌，曾被称为_成就_，是在用户个人资料页面中显示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
-当前有5种奖牌：[谱面包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod初体验](#mod-introduction), and [隐藏](#hush-hush).
+奖章，曾被称为_成就_，是在用户个人资料页面中显示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
+当前有5种奖章：[曲包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod初体验](#mod-introduction)，和[隐藏](#hush-hush).
 
-谱面包
+曲包
 -------------
 
-**谱面包**奖牌的获得方法是：**把某个谱面包中所有谱面以任意至少一个难度体验一次**。主题谱面包可以在[这里](https://osu.ppy.sh/p/packlist?t=t)获取。您必须在[osu!standard](/wiki/osu!standard)模式中获得对应难度的**`CLEARED`**评价（即获得成绩）来获取您的奖牌。
+**曲包**奖章的获得方法是：**把某个曲包中所有谱面以任意至少一个难度体验一次**。主题曲包可以在[这里](https://osu.ppy.sh/p/packlist?t=t)获取。您必须在[osu!standard](/wiki/osu!standard)模式中获得对应难度的**`CLEARED（已完成）`**评价（即完成谱面）来获取您的奖牌。
 
-当前共有16块奖牌，分为4大类：电子游戏，动漫，网络，以及音乐游戏。
+当前共有16个曲包，分为4大类：电子游戏，动漫，网络，以及音乐游戏。
 
-每一类别中有四个谱面包。
+每一类别中有四个曲包。
 
-| 电子游戏谱面包 | 动漫谱面包 | 网络！谱面包 | 音乐游戏谱面包 |
+| 电子游戏曲包 | 动漫曲包 | 网络歌曲曲包 | 音乐游戏曲包 |
 | :--------------: | :----------: | :------------: | :--------------: |
-| ![电子游戏谱面包1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![动漫谱面包1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![网络！谱面包1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![音乐游戏谱面包1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
-| ![电子游戏谱面包2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![动漫谱面包2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![网络！谱面包2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![音乐游戏谱面包2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
-| ![电子游戏谱面包3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![动漫谱面包3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![网络！谱面包3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![音乐游戏谱面包3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
-| ![电子游戏谱面包4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![动漫谱面包4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![网络！谱面包4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![音乐游戏谱面包4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
+| ![电子游戏曲包1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![动漫曲包1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![网络歌曲曲包 1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![音乐游戏谱面包1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
+| ![电子游戏曲包2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![动漫曲包2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![网络歌曲曲包 2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![音乐游戏曲包2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
+| ![电子游戏曲包3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![动漫曲包3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![网络歌曲曲包 3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![音乐游戏曲包3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
+| ![电子游戏曲包4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![动漫曲包4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![网络歌曲曲包 4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![音乐游戏曲包4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
 ### 要求
 
-- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
-- The played game mode must be osu!standard.
-- Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
-  From here, open the osu!client and let the client parse the files before playing the beatmaps.
-  - Alternatively, the player can download the songs inside manually one by one and it would still count.
-- Any variations (like different creator) of the song is not counted.
-  It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be logged in to the osu!client (not osu!web).
+- 玩家必须完成某个[曲包](https://osu.ppy.sh/p/packlist?t=t)每张谱面的任意难度至少一次。
+- 游戏模式必须是osu!standard。
+- 将曲包中的`.zip`文件解压到`Songs`文件夹下。
+  打开osu!client，让客户端加载这些谱面，然后您就能开始游戏了。
+  - 如果您不想这么做，您也可以逐一下载曲包中的每张谱面，成绩仍会计入。
+- 全过程中只认定对应谱面的成绩，任何（例如其他谱面作者的）其它谱面都不会计入奖牌获取条件。
+  计入奖牌获取条件的**只能**是同一谱面作者的对应曲目的对应谱面。
+- 玩家必须从客户端登录账户，而不是osu!web。
 
-### 注意
+### 注意事项
 
-- Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
-- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
+- 获取奖牌的过程中，玩家允许使用mods来游玩谱面。但是导致该次游戏成绩无效的mods（例如[Auto Pilot](/wiki/AP)等）将不会被计入。
+- 直到您看到在[曲包列表](https://osu.ppy.sh/p/packlist?t=t)中的对应谱面已经被认定为**`CLEARED（已完成）`**之前，请不要删除谱面。
 
 实力
 -----
 
-Skill medals are currently divided into three groups: Combo, High Ranker, and Star-based.
+实力奖章有三类：连击数，排名，水准。
 
-**The Combo** medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song.
-Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
+**连击数**奖章获取条件：在 osu!standard 模式中游玩任意谱面并取得指定[连击数](/wiki/combo)。
+从[osu!taiko](/wiki/osu!taiko)，[osu!catch](/wiki/osu!catch) 或  [osu!mania](/wiki/osu!mania)模式中取得的连击数不计入奖章获取条件。
 
-For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps.
-However, **do not search for or play unapproved beatmaps!**
+如果想要取得1000或2000连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
+注意，如果谱面既没有被 Approved 也没有被 Ranked ，那么即使连击数再高，也不会取得奖章！
 
 ---
 
