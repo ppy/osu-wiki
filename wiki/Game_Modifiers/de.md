@@ -23,7 +23,7 @@ Im [Taiko](DE:Taiko "wikilink") Modus verringert der Easy Mod die Slider Velocit
 
 Im [Catch the Beat](DE:Catch_The_Beat "wikilink") Modus hat der Easy Mod die selben Effekte wie im osu! Modus - alle Früchte fallen langsamer (das selbe wie die geringere AR im osu! Modus), Der Catcher und die Früchte sind größer (größere Circles im osu! Modus) und es gibt 3 Leben. Weil die Früchte jedoch größer und langsamer fallen, kommt es vor, dass sie zusammen verklumpen, was die selben Probleme wie im osu! Modus verursacht.
 
-easymod.jpg|Easy macht die Schwierigkeit auf viele Art und Weisen leichter. easymod2.jpg|Manchmal jedoch, bekommst du nur Kopfschmerzen davon.
+![Easy macht die Schwierigkeit auf viele Art und Weisen leichter.](img/Easymod.jpg "Easy macht die Schwierigkeit auf viele Art und Weisen leichter.") ![Manchmal jedoch, bekommst du nur Kopfschmerzen davon.](img/Easymod2.jpg "Manchmal jedoch, bekommst du nur Kopfschmerzen davon.")
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
@@ -142,9 +142,9 @@ Mit einem Doppelklick auf Fade In erscheint der Hidden Mod (Der Inverse Mod zu F
 
 Zum Vergleich siehe die folgenden Bilder
 
-<File:GM> o!m FI.jpg|Fade In <File:GM> o!m HD.jpg|Hidden <File:GM> o!m FI(2).jpg|Fade In (DDR style) <File:GM> o!m HD(2).jpg|Hidden (DDR style) <File:Flashlight> Mania.jpg|Flashlight
+![Fade In](img/GM_o!m_FI.jpg "Fade In") ![Hidden](img/GM_o!m_HD.jpg "Hidden") ![Hidden (DDR style)](img/GM_o!m_FI2.jpg "Hidden (DDR style)") ![Fade In (DDR style)](img/GM_o!m_HD2.jpg "Fade In (DDR style)")
 
-<File:GM> FI comp.jpg| Fade In Combo Vergleich <File:GM> HD comp.jpg| Hidden Combo Vergleich
+![Fade In Combo Vergleich](img/GM_FI_comp.jpg "Fade In Combo Vergleich") ![Hidden Combo Vergleich](img/GM_HD_comp.jpg "Hidden Combo Vergleich")
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 

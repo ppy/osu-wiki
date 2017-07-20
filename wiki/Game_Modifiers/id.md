@@ -27,7 +27,7 @@ Untuk mode [Taiko](ID:Taiko "wikilink"), mod ini mengurangi kesepatan slider (sa
 
 Di mode [Catch The Beat](ID:Catch_the_Beat "wikilink"), efeknya sama seperti osu! Standar. Semua buah jatuh lebih lambat (sama seperti mengurangi AR pada osu! Standar), buah lebih bear (seperti meningkatkan CS pada osu! Standar) dan diberi 3 "nyawa". Walau mode ini hanya memungkinkan pemain untuk mengontrol pada 1 sumbu, akan tetapi, buah yang lebih besar dan jatuh lebih lambat, membuat buah saling tumpang tindih sehingga menimbulkan masalah yang sama seperti osu! Standar.
 
-easymod.jpg|Mod Easy mengurangi kesulitan dengan berbagai cara. easymod2.jpg|Kadang-kadang, Easy hanya membuatmu sakit kepala.
+![Mod Easy mengurangi kesulitan dengan berbagai cara.](img/Easymod.jpg "Mod Easy mengurangi kesulitan dengan berbagai cara.") ![Kadang-kadang, Easy hanya membuatmu sakit kepala.](img/Easymod2.jpg "Kadang-kadang, Easy hanya membuatmu sakit kepala.")
 
 ### <img src="No Fail.png" title="fig:No Fail.png" alt="No Fail.png" width="69" height="65" /> No Fail
 
@@ -164,9 +164,9 @@ Mengklik mod Fade In kedua kalinya akan mengaktifkan mod Hidden.
 
 Untuk perbandingan, lihat gambar dibawah.
 
-<File:GM> o!m FI.jpg|Fade In <File:GM> o!m HD.jpg|Hidden <File:GM> o!m FI(2).jpg|Fade In (gaya DDR) <File:GM> o!m HD(2).jpg|Hidden (gaya DDR) <File:Flashlight> Mania.jpg|Flashlight
+![Fade In](img/GM_o!m_FI.jpg "Fade In") ![Hidden](img/GM_o!m_HD.jpg "Hidden") ![Hidden (gaya DDR)](img/GM_o!m_FI2.jpg "Hidden (gaya DDR)") ![Fade In (gaya DDR)](img/GM_o!m_HD2.jpg "Fade In (gaya DDR)")
 
-<File:GM> FI comp.jpg| Perbedaan kombo di Fade In <File:GM> HD comp.jpg| Perbedaan kombo di Hidden
+![Perbedaan kombo di Fade In](img/GM_FI_comp.jpg "Perbedaan kombo di Fade In") ![Perbedaan kombo di Hidden](img/GM_HD_comp.jpg "Perbedaan kombo di Hidden")
 
 ### <img src="Flashlight.png" title="fig:Flashlight.png" alt="Flashlight.png" width="69" height="65" /> Flashlight
 
