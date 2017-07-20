@@ -110,9 +110,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Volta](https://osu.ppy.sh/u/4154071)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Indonesian               |
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Czech                    |
-| [Xexxar](https://osu.ppy.sh/u/2773526)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Xinely](https://osu.ppy.sh/u/1521445)            | ![Yes][Ys] | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Indonesian, some Chinese |
 | [YaHao](https://osu.ppy.sh/u/2633753)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Chinese                  |
-| [Yuii-](https://osu.ppy.sh/u/2935923)             | ![Yes][Ys] | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish, Portuguese      |
 | [Zero__Wind](https://osu.ppy.sh/u/1822830)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [ZiRoX](https://osu.ppy.sh/u/200768)              | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish                  |
