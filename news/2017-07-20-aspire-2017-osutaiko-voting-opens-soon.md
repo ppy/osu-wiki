@@ -14,12 +14,10 @@ We've been absolutely blown away by how visually stunning some of the entries ar
 
 There will be carnage, there will be crazy storyboards, and there will be osu!taiko like you've never seen it done before. Even if you're not an avid player of osu!taiko, tune in and have a look!
 
-We'll be starting at **Saturday 22 July, 14:00 UTC** over at the [official osu! Twitch channel, osulive](https://twitch.tv/osulive).
+We'll be starting at **Saturday 22 July, 14:00 UTC** over at the [official osu! Twitch channel.](https://twitch.tv/osulive). The voting will go live as soon as the stream begins, so you can vote along with everybody else watching!
 
 Be there, or be square. Or as Evrien once put it, don't be square, because we are circles. 
 
-The voting will go live the moment the livestream preview begins. Vote along with Twitch chat if you like!
-
-Hope to see you there!
+See you there!
 
 —Ephemeral
