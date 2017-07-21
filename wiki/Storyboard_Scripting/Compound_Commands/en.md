@@ -1,5 +1,5 @@
-Storyboard Scripting Compound Commands
-=========================================
+Compound Commands
+====================
 
 These are more complicated commands that don't do anything by themselves. Instead, they **provide conditions for when other events happen.**
 

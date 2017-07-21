@@ -41,6 +41,8 @@ Pertama-tama kami ingin memberikan sambutan dan pelukan hangat karena kamu telah
 # Tutorial
 Sebelum kamu mulai bermain osu!, kamu dianjurkan untuk memainkan beatmap tutorial pertama ([Peter Lambert - osu! tutorial](https://osu.ppy.sh/s/3756)).
 
+![osu!](osu-boxart.png "osu!")
+
 Setelah mengunduh dan menginstal osu!, buka permainan dan layar tampilan bernama "osu! update" akan muncul, kemudian tunggu hingga pembaharuan permainan selesai secara total. Ketika layar permainan mulai muncul, nanti akan ada tombol ikon osu! berukuran sangat besar di tengah-tengah layar permainan. Klik saja pada tombol tersebut dan pilih mode permainan "Solo". Kamu dapat dengan mudah mencari beatmap yang diinginkan dengan cara mengetikkan nama atau kata kunci yang ada pada nama beatmap tersebut, namun yang kamu sedang cari disaat awal mula kamu membuka permainan ini adalah beatmap "Tutorial"-nya. Beatmap ini akan mengajarkanmu dasar-dasar permainan osu! mode Standard seperti _Hitcircle_, _Slider_, dan _Spinner_.
 
 **Catatan:** Apabila kamu tidak memiliki beatmap tutorial tersebut karena suatu alasan tertentu, kamu dapat mengunduh ulang beatmap tersebut [disini](https://osu.ppy.sh/b/22538). Setelah memainkan tutorial yang disediakan, kamu telah siap untuk mulai mengunduh beatmap-beatmap yang berbeda!

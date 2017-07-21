@@ -1,137 +1,135 @@
-Timelines
-=========
+# Timelines
 
-This will list all the possible timelines you will encounter in Beatmap Editor along with their respective location.
+In the [beatmap editor](/wiki/beatmap_editor), there are three different timelines that a mapper may encounter.
+This article will explain how each of them function.
 
-Song Player
-------------
+## Shortcuts
+
+_For a list of keyboard shortcuts for the timeline, see [shortcut key reference](/wiki/shortcut_key_reference/#general)._
+
+## Song Player
 
 ![Song's Timeline](/wiki/shared/BE_STL.jpg "Song's Timeline")
 
-*Location: [Compose](/wiki/Beatmap_Editor/Compose), [Design](/wiki/Beatmap_Editor/Design), [Timing](/wiki/Beatmap_Editor/Timing) (Bottom)*
+The song player is visible in any part of the beatmap editor.
 
-At **left**, it shows **timestamp in milliseconds (ms)** and **song duration %**. The "%" may be switched to "intro/outro" when there is intro/outro storyboarding.
+On the left, there is the timestamp in milliseconds and the song duration percentage.
+The percentage may display `intro` or `outro` if there is storyboarding before or after the song.
 
-At **centre**, it shows the **timeline with markings and the compulsory music player buttons.** For "Test" button, your beatmap will be saved to test the beatmap starting on current timestamp.
+In the centre, it shows the timeline with markings and the compulsory music player buttons.
+The `Test` button will save your beatmap then will start play-testing it starting from the current timestamp.
 
-### Colour markers
-
-| Colour | Description |
-| ------ | ----------- |
-| Bright White Long	| Current test section |
-| Yellow Long	| Preview point. |
-| Yellow up	| Start of Drain time. |
-| Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
-| Red up | Timing Points. (See Timing Setup) |
-| Blue Down |	Bookmark |
-
-### Colour Highlights
+The timeline itself uses a few tick marks that have various meanings.
 
 | Colour | Description |
 | ------ | ----------- |
-| Grey | Break Time |
-| Orange | Kiai Time |
+| White (long) | Current timestamp |
+| Yellow (long tick) | Preview point |
+| Yellow (up tick) | Start of drain time |
+| Green (up tick) | Inherited points (See [Timing](/wiki/Timing)) |
+| Red (up tick) | Timing points (See [Timing](/wiki/Timing)) |
+| Blue (down tick) | Bookmarks |
+| Grey (highlight) | Break time |
+| Orange (highlight) | Kiai time |
 
-### Bookmarking command
+On the right, you can adjust the playback rate from `100%`, to `75%`, `50%`, or `25%`.
 
-| Shortcut | Description |
-| -------- | ----------- |
-| Ctrl + B | Add bookmark at current location. |
-| Ctrl + Shift + B | Remove bookmark at current location. |
-| Ctrl + Right Arrow | Next bookmark. |
-| Ctrl + Left Arrow	| Previous bookmark. |
+## Hit Objects
 
-At **right**, you can adjust the **Playback Rate** by **per quarter value.**
+There are two different kinds of hit objects timelines depending on which game mode the mapper is using.
 
-Compose
-------------
+### osu!, osu!taiko, and osu!catch
 
-### osu!
+![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-*Location: Top @ [Compose](/wiki/Beatmap_Editor/Compose) tab in any modes other than osu!mania only.*
-
-![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
-
-**Shows the timeline for hitobjects with respect to [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) and timestamp.**
-
-#### Hit Object Timeline
+In [compose](/wiki/compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](wiki/osu!mania).
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons | Increase/Decrease timeline zoom |
-| Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
-| Click on hitobject | **Left-Click:** Select / Move hitobject against timeline. **Right-Click:** Remove hitobject. |
+| `+`/`-` buttons | Increase/Decrease timeline zoom. |
+| Double white vertical lines | This shows the current timestamp with respect to the hit object timeline. |
+
+Left clicking on a hit object will select it and dragging will move the selected hit object against timeline.
+
+Right clicking will remove the selected hit objects.
 
 ### osu!mania
 
-*Location: Centre @ [Compose](/wiki/Beatmap_Editor/Compose) tab in osu!mania only.*
-
 ![osu!mania playfield](/wiki/shared/BEM_PF.jpg "osu!mania playfield")
 
-#### Playfield Boxes
+In compose mode, this timeline is in the centre of the playfield for osu!mania mode.
 
-| Name | Description |
+The box on the left is a horizontal bar chart that displays the note intensity.
+This acts like a timeline.
+
+In the centre is the actual playfield.
+The playfield is made up of two parts: lines and notes.
+
+| Line Colour | Description |
 | ---- | ----------- |
-| Left Box | Notes intensity (Timeline). |
-| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
+| Thick White | Full measure |
+| White | Common Time |
+| Green | Current timestamp/Judgement line |
 
-#### Colour notes
-
-| Name | Description |
+| Note Colour | Description |
 | ---- | ----------- |
-| Double white line | Measure |
-| White line | Common Time |
-| Green line | You / Judgement Line |
-| Blue colour | Currently-selected note |
-| White/Pink/Yellow colour | Normal notes colour |
+| Blue | Selected note(s) |
+| White/Pink/Yellow | Unselected note colours |
 
-Design
---------
+## Design
 
-*Location: Top @ [Design](/wiki/Beatmap_Editor/Design) tab*
+![Storyboard Timeline](/wiki/shared/SE_STM.jpg "This shows the timeline for transformations of the selected sprite.")
 
-**Shows the timeline for transformations of the selected object.**
-
-![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Storyboard Timeline")
+The [design](/wiki/design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
-| `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
-| Centre | Transformation Timeline for the selected SB object. |
+| `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
+| `Up`/`Down` arrows on bottom-left | Scroll up/down the transformation timeline (this is to reveal `Colour` or `Movement` on the timeline). |
+
+The centre of the design timeline shows the "keyframes" of the selected sprite.
 
 ### Keyframe Control
 
-This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline.
+The keyframe control adds or removes anchor points.
+These anchor points set the start and end times for how a sprite should be storyboarded.
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
-| `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
+| `+`/`-` | Add/Delete anchor points for the selected transformation. |
+| `Left`/`Right` arrows | Skip backwards/forwards to the nearest anchor point of the selected transformation. |
 
-If there is a transformation, that transformation is lighted with it's colour and will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (e.g. going up -&gt; going down).
+If there is a transformation, that transformation is lighted with it's colour.
+In addition to this, it will have two separated half-lines that determines the duration.
+Full white line determines the transformation switching points (e.g. from "going up" to "going down").
 
-Timing
----------
-
-*Location: Top @ [Timing](/wiki/Beatmap_Editor/Timing) tab*
+## Timing
 
 ![Timing Timeline](img/TT.jpg "Timing Timeline")
+
+The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
 
 ### Timing Timeline
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
-| Centre | Timing Timeline |
+| `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
 
-### Flag colours
+In the centre is the timing timeline itself.
+It uses white and blue flags to describe what type of timing point they are; described in the [flag colours](#flag-colours) section.
+
+On the right, it shows the time signature script (known as a "meter") and metronome set.
+In the image above, the meter is at `4:2`.
+This means that the current timestamp is at the second beat of the fourth measure of the song.
+
+The metronome set plays a constant tick sound at the given BPM.
+This doubles as a helper to estimate the BPM value of the song.
+
+### Flag Colours
 
 | Colour | Description |
 | ------ | ----------- |
 | White | Timing Points. Use new BPM value. (Red on Song Timeline) |
 | Blue | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |
-
-At right, it shows **Time Signature script (known as "Meter")** and **Metronome set**. The meter's **4:2** means **4th measure and 2nd beat of the song**. The **Metronome set plays the BPM beat** and **doubles as a helper to estimate a BPM value.**

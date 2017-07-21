@@ -9,12 +9,12 @@
 [Ym]: /wiki/shared/Insane-m.png "Yes"
 
 Beatmap Nomination Group
-=========================
+========================
 
-The **Beatmap Nomination Group**, more commonly referred to as BN, is a group in charge of [beatmap nomination](/wiki/Beatmaps).
+The **Beatmap Nomination Group**, more commonly referred to as the BNG, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are commonly referred to as Beatmap Nominators, or BNs.
 This group has undergone many changes recently.
-As of August 22, 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
-The most recent change was on February 1, 2015 when the team was changed from Beatmap Appreciation Team to Beatmap Nominator Group.
+As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
+The most recent change was on 01. February 2015 when the team was changed from *Beatmap Appreciation Team* to *Beatmap Nominator Group*.
 
 Roles and Responsibilities
 --------------------------
@@ -22,24 +22,25 @@ Roles and Responsibilities
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
 Members of the **Beatmap Nomination Group** are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle.
-BN are the people to go to for any modding or advice requests about anything mapping or modding related.
+BNs are the people to go to for any modding or advice requests about anything mapping or modding related.
 
 Becoming a BN
 -------------
 
-With the change to the team on August 22, 2014, joining the BN is now a lot easier than it used to be.
-You can read [this thread](https://osu.ppy.sh/forum/t/471344) on how to join the Beatmap Nomination Group.
+With the change to the team on 22. August 2014, joining the BNG is now a lot easier than it used to be.
+For more details, see the forum post [How to join the BNG](https://osu.ppy.sh/forum/t/471344) on how to join the Beatmap Nomination Group.
 
 Team Members
 ------------
 
-_Please note: All BN speak English unless otherwise noted._ [Link](http://osu.ppy.sh/g/28)
+_Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
 
-Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but aren't forcibly subject to that game mode(s).
+Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
 
 | Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Additional Languages     |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|--------------------------|
 | [- Magic Bomb -](https://osu.ppy.sh/u/3071175)    | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  |                          |
+| [-Mo-](https://osu.ppy.sh/u/2202163)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [-Kamikaze-](https://osu.ppy.sh/u/2124783)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Polish                   |
 | [-Sh1n1-](https://osu.ppy.sh/u/1957638)           | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish                  |
 | [Absolute Zero](https://osu.ppy.sh/u/4847256)     | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  |                          |
@@ -50,10 +51,10 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [CelsiusLK](https://osu.ppy.sh/u/1409012)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
 | [ChaosLitz](https://osu.ppy.sh/u/3621552)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [Critical_Star](https://osu.ppy.sh/u/3793196)     | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Chinese                  |
-| [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [DE-CADE](https://osu.ppy.sh/u/3734394)           | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
+| [Delis](https://osu.ppy.sh/u/1603923)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [Dellvangel](https://osu.ppy.sh/u/5186244)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
-| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                   |
+| [Doormat](https://osu.ppy.sh/u/3230571)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Electoz](https://osu.ppy.sh/u/6485263)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Thai                     |
 | [Evening](https://osu.ppy.sh/u/2193881)           | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                          |
 | [ezek](https://osu.ppy.sh/u/180241)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
@@ -61,6 +62,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Fresh Chicken](https://osu.ppy.sh/u/3984370)     | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Korean, Japanese         |
 | [Garden](https://osu.ppy.sh/u/2849992)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
 | [Gero](https://osu.ppy.sh/u/1467715)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
+| [Hobbes2](https://osu.ppy.sh/u/8157492)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [jonathanlfj](https://osu.ppy.sh/u/270377)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, some French     |
 | [juankristal](https://osu.ppy.sh/u/443656)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Spanish                  |
 | [JUDYDANNY](https://osu.ppy.sh/u/1165475)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
@@ -70,11 +72,13 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Kencho](https://osu.ppy.sh/u/3178411)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [Kibbleru](https://osu.ppy.sh/u/3193504)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Koiyuki](https://osu.ppy.sh/u/2433507)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, some Japanese   |
+| [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | French                   |
 | [Kyubey](https://osu.ppy.sh/u/2195646)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Russian                  |
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Len](https://osu.ppy.sh/u/1686145)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                   |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
-| [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
+| [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
+| [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][Ys] | ![Yes][Yt] | ![Yes][Yf] | ![No][Nm]  |                          |
 | [MrSergio](https://osu.ppy.sh/u/2581696)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Italian, Romanian        |
 | [My Angel Azusa](https://osu.ppy.sh/u/5318910)    | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
 | [Nao Tomori](https://osu.ppy.sh/u/5364763)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
@@ -87,6 +91,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Nwolf](https://osu.ppy.sh/u/1910766)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German                   |
 | [OzzyOzrock](https://osu.ppy.sh/u/465153)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Spanish, some French     |
 | [Pentori](https://osu.ppy.sh/u/7452237)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
+| [Plaudible](https://osu.ppy.sh/u/7149815)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Protastic101](https://osu.ppy.sh/u/6712747)      | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                          |
 | [Raiden](https://osu.ppy.sh/u/2239480)            | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Spanish, Catalan         |
 | [Raymond](https://osu.ppy.sh/u/2596306)           | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Vietnamese               |
@@ -99,9 +104,11 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [snowball112](https://osu.ppy.sh/u/2350722)       | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Sonnyc](https://osu.ppy.sh/u/11771)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                   |
 | [Squichu](https://osu.ppy.sh/u/2091463)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
+| [squirrelpascals](https://osu.ppy.sh/u/6151332)   | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Stjpa](https://osu.ppy.sh/u/2954693)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Strategas](https://osu.ppy.sh/u/2971837)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Lithuanian               |
 | [tasuke912](https://osu.ppy.sh/u/2774767)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
+| [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Volta](https://osu.ppy.sh/u/4154071)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Indonesian               |
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Czech                    |
 | [Xexxar](https://osu.ppy.sh/u/2773526)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |

@@ -32,7 +32,7 @@ Menu principal
 --------------
 
 -   **P**: Mode Play (deux fois pour l'écran de sélection des beatmaps)
--   **P-M**: Mode Play ([Multijoueur](/wiki/Multiplayer))
+-   **P-M**: Mode Play ([Multijoueur](/wiki/Multi))
 -   **E**: Mode Edit (Sélection de la beatmap)
 -   **J**: Aller à (jukebox)
 -   **Z/X/C/V/B**: Commandes du jukebox (interface Winamp)
