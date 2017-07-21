@@ -44,36 +44,36 @@
 **连击数**奖章获取条件：在 osu!standard 模式中游玩任意谱面并取得指定[连击数](/wiki/combo)。
 从[osu!taiko](/wiki/osu!taiko)，[osu!catch](/wiki/osu!catch) 或  [osu!mania](/wiki/osu!mania)模式中取得的连击数不计入奖章获取条件。
 
-如果想要取得1000或2000连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
+如果想要取得 1000 或 2000 连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
 注意，如果谱面既没有被 Approved 也没有被 Ranked ，那么即使连击数再高，也不会取得奖章！
 
 ---
 
-The High Ranker medals can be obtained by reaching a certain global ranking position in **any** game mode.
+排名奖章的获取方法是：在**任意**游戏模式中取得一定全球排名。
 
-| Combo | The High Ranker |
+| 连击数 | 排名 |
 | :---: | :-------------: |
-| ![500 Combo (any song)](img/osu-combo-500.png "500 Combo (any song)") | ![The Highranker Lvl1](img/all-skill-highranker-1.png "The Highranker Lvl1") |
-| ![750 Combo (any song)](img/osu-combo-750.png "750 Combo (any song)") | ![The Highranker Lvl2](img/all-skill-highranker-2.png "The Highranker Lvl2") |
-| ![1000 Combo (any song)](img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](img/all-skill-highranker-3.png "The Highranker Lvl3") |
-| ![2000 Combo (any song)](img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](img/all-skill-highranker-4.png "The Highranker Lvl4") |
+| ![500 连击数（任何歌曲）](img/osu-combo-500.png "500 Combo (any song)") | ![排名（级别1）](img/all-skill-highranker-1.png "The Highranker Lvl1") |
+| ![750 连击数（任何歌曲）](img/osu-combo-750.png "750 Combo (any song)") | ![排名（级别2）](img/all-skill-highranker-2.png "The Highranker Lvl2") |
+| ![1000 连击数（任何歌曲）](img/osu-combo-1000.png "1000 Combo (any song)") | ![排名（级别3）](img/all-skill-highranker-3.png "The Highranker Lvl3") |
+| ![2000 连击数（任何歌曲）](img/osu-combo-2000.png "2000 Combo (any song)") | ![排名（级别4）](img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
 ---
 
-The Star-based achivements are split into two groups, _Pass_ and _S_.
-The _Pass_ medals can be obtained by passing any map of a certain star difficulty.
-The _S_ medals will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC).
-The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to.
-You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods.
+与谱面难度有关的奖章也能被分为两类：_Pass（通过）_与 _S_。
+_Pass（通过）_奖章的获取条件：完成任何一张指定星级的谱面。
+_S_奖章的获取条件：完成一张指定星级的谱面且获得S评价，并且达成[全连](/wiki/FC).
+谱面的星级将被四舍五入到最近的整数，并将给予玩家对应的奖章。
+使用难度增加或难度减少的 mods 来完成谱面或取得S评价也会计入奖章获取条件。
 The map must also be ranked to be able to earn a medal.
 Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
 
 | osu!standard | osu!taiko | osu!catch | osu!mania |
 | :----------: | :-------: | :-------: | :-------: |
-| ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
-| ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
+| ![通过 osu!standard 8星图](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![通过 osu!taiko 8星图](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![通过 osu!catch 8星图](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![通过 osu!mania 8星图](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
+| ![S评价通过 osu!standard 8星图](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![S评价通过 osu!taiko 8星图](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![S评价通过 osu!catch 8星图](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![S评价通过 osu!mania 8星图](img/mania-skill-fc-8.png "8 Star osu!mania S") |
 
-Dedication
+毅力
 ----------
 
 The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
