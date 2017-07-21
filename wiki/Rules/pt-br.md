@@ -12,7 +12,7 @@ Regras da Comunidade
 4.  **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores/NSFW (not safe for work) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui. Exceções são feitas quando tal assunto é apropriado para o momento, mas de uma maneira geral, não fale sobre isso.
 5.  **Onde as regras não prevalecem, o senso comum deve.** A administração tem total liberdade de discrição para aplicar um julgamento nisso caso achem necessário.
 
-Regras dos Chat
+Regras do Chat
 ------------------
 
 1.  **Seja respeitoso com os outros usuários do canal, e evite qualquer tipo de flood ou spam.** Uma pessoa ocupando metade da tela de uma vez só é irritante, então evite isso sempre que possível. Outras pessoas também estão tentando conversar!
