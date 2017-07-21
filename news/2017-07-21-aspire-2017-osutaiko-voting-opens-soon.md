@@ -12,7 +12,7 @@ After a long period of preparation, **Aspire 2017: osu!taiko** is ready to begin
 
 We've been absolutely blown away by how visually stunning some of the entries are, with many of osu!taiko's finest creative minds pulling out all the stops to produce some truly spectacular displays.
 
-There will be carnage, there will be crazy storyboards, and there will things that you've never seen or even thought of before. Even if you're not an avid player of osu!taiko, tune in and have a look!
+There will be carnage, there will be crazy storyboards, and there will be things that you've never seen or even thought of before. Even if you're not an avid player of osu!taiko, tune in and have a look!
 
 We'll be starting at **Saturday 22 July, 14:00 UTC** over at the [official osu! Twitch channel](https://twitch.tv/osulive). The voting will go live as soon as the stream begins, so you can vote along with everybody else watching!
 
