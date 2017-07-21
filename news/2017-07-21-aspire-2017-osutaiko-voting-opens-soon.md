@@ -2,7 +2,7 @@
 layout: post
 title: "Aspire 2017: osu!taiko Voting Opens Soon"
 permalink: http://osunews.tumblr.com/post/163212166448/aspire-2017-osutaiko-voting-opens-soon
-date: 2017-07-20 13:25:00 +0000
+date: 2017-07-21 10:10:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163212166448/aspire-2017-osutaiko-voting-opens-soon
 ---
 
