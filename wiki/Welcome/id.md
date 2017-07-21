@@ -1,36 +1,36 @@
 <!-- wiki -->
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
-[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
+[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Pengubah Game"
 [Multi wikilink]: /wiki/Multi/ "Multi-play"
 [Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
 [Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
-[Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
-[Achievements wikilink]: /wiki/Achievements/ "Achievements"
-[Chat_Console wikilink]: /wiki/Chat_Console/ "Chat Console"
+[Accuracy wikilink]: /wiki/Accuracy/ "Akurasi"
+[Achievements wikilink]: /wiki/Achievements/ "Prestasi"
+[Chat_Console wikilink]: /wiki/Chat_Console/ "Chat Konsol"
 [FAQ wikilink]: /wiki/FAQ/ "FAQ"
-[Glossary wikilink]: /wiki/Glossary/ "Glossary"
+[Glossary wikilink]: /wiki/Glossary/ "Glosarium"
 [osu!academy wikilink]: /wiki/Announcements/osu!academy/ "osu!academy"
-[Beginner wikilink]: /wiki/Beginner/ "Beginner"
+[Beginner wikilink]: /wiki/Beginner/ "Pemula"
 [Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
 
 <!-- external -->
-[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer osu!tutorial oleh peppy"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [Packlist link]: https://osu.ppy.sh/p/packlist "Official packlist"
-[Beatmapping/Modding: Guide Compendium link]: https://osu.ppy.sh/forum/t/441929 "Beatmapping/Modding: Guide Compendium"
+[Beatmapping/Modding: Guide Compendium link]: https://osu.ppy.sh/forum/t/441929 "Beatmapping/Modding: Panduan Kompendium"
 
 <!-- image -->
 [osu-boxart image]: ./osu-boxart.png "osu!boxart"
-[welcome00 image]: ./Welcome00.png "Beatmap listing search"
-[welcome01 image]: ./Welcome01.png "Beatmap listing search results"
-[welcome02 image]: ./Welcome02.png "Beatmap download"
-[welcome03 image]: ./Welcome03.png "Opening the .osz file"
-[welcome04 image]: ./Welcome04.png "Beatmap in the Song Selection screen"
-[Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Chat Console's friendlist"
+[welcome00 image]: ./Welcome00.png "Pencarian Daftar Beatmap"
+[welcome01 image]: ./Welcome01.png "Hasil Pencarian Daftar Beatmap"
+[welcome02 image]: ./Welcome02.png "Download Beatmap"
+[welcome03 image]: ./Welcome03.png "Membuka file .osz"
+[welcome04 image]: ./Welcome04.png "Beatmap pada saat pemilihan lagu"
+[Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Daftar Teman saat membuka Chat Konsol"
 
 <!-- shared image -->
-[.osz icon link]: /wiki/shared/osz_icon_full.png ".osz file, clean beatmap file"
-[Accuracy results image]: /wiki/shared/Accuracy_results.png "Accuracy of player"
+[.osz icon link]: /wiki/shared/osz_icon_full.png ".osz file, ikon osu file"
+[Accuracy results image]: /wiki/shared/Accuracy_results.png "Hasil Akurasi player"
 
 <!-- Title -->
 # Selamat Datang
