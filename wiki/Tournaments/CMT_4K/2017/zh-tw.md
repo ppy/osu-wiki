@@ -46,29 +46,52 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ### 四分之一決賽
 
-7月15日，星期六
+### 半決賽
+
+7月22日，星期六
 
 | 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | drunkenstein | ![][HK] | ![][CN] | [Crz]Riri | I |
-| 16:00 | - ZedXD - | ![][CN] | ![][CN] | spensll | R |
-| 20:00 | wjh123 | ![][CN] | ![][CN] | Stink God | S |
-| 21:00 | NED_Q | ![][CN] | ![][CN] | [Crz]MemoryI | J |
+| 13:30-15:00 | NED_Q | ![][CN] | ![][AU] | [Crz]Yukikaze- | X |
+| 15:00-16:30 | drunkenstein | ![][HK] | ![][CN] | pikechu | Y |
+| 16:30-18:00 | - Choma - | ![][TW] | ![][CN] | - ZedXD - | V |
+| 20:00-21:30 | [Crz]Liusecy | ![][CN] | ![][CN] | Stink God | W |
+| 21:30-23:00 | [Crz]Riri | ![][CN] | ![][CN] | [Crz]MemoryI | M |
 
-7月16日，星期日
+7月23日，星期日（已定的）
 
 | 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 13:00 | Murasame | ![][CA] | ![][AU] | [Crz]Yukikaze- | T |
-| 15:00 | pikechu | ![][CN] | ![][CN] | [Crz]Mix0130 | U |
-| 20:00 | [Crz]Liusecy | ![][CN] | ![][MY] | Neokje | K |
-| 21:00 | - Choma - | ![][TW] | ![][CN] | [Crz]ScSolAr | L |
+| 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
 
 ## 比賽圖池
 
+### 半決賽
+
+[**點此下載全部**](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+- [Mick Gordon - Cyberdemon (Lazarus)](https://osu.ppy.sh/b/1231110)
+- [Hitori Tori - perthed again (yambabom remix) (Difficulty 3)](https://osu.ppy.sh/b/1207006)
+- [LeaF - MEPHISTO (4K LN Massacre)](https://osu.ppy.sh/b/1134593)
+- [yanaginagi - landscape (ShuChan!!)](https://osu.ppy.sh/b/1147214)
+- [DJ Sharpnel - TACTICAL RAILROAD (EXTREME)](https://osu.ppy.sh/b/1119190)
+- [a_hisa - Cheshire's dance (LN Dancing)](https://osu.ppy.sh/b/1175264)
+- [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Octodad Twerk Theme)](https://osu.ppy.sh/b/1036648)
+- [Kaneko Chiharu - iLLness LiLin (jAkAd's MAXIMUM)](https://osu.ppy.sh/b/1245015)
+- [xi - Solar Storm (Extra[old])](https://osu.ppy.sh/b/989233)
+- [m108 - * Crow Solace * (Meme Solace)](https://osu.ppy.sh/b/1201027)
+- [Fallujah - Sapphire (Cerulean)](https://osu.ppy.sh/b/970464)
+- [Nizikawa - Drop That (Ghettoblaster) v1.1 (break-even)](https://osu.ppy.sh/b/972575)
+- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet (BAN SDVX)](https://osu.ppy.sh/b/1229459)
+- [xi - Aparajita (Ambitious King)](https://osu.ppy.sh/b/1206343)
+- [gmtn vs. kozato (fw. LUZE) - squartatrice (VonSeckendorff)](https://osu.ppy.sh/b/898932)
+- [Noah - Immortal saga (4K MXM)](https://osu.ppy.sh/b/1349837)
+
+TB:
+- [Camellia - Exit This Earth's Atomosphere (Spaceship)](https://osu.ppy.sh/b/1043774)
+
 ### 四分之一決賽
 
-[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/b/1243769)
 - [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/b/1258021)
 - [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/b/1073952)
@@ -159,12 +182,25 @@ TB:
 
 ## 比賽結果
 
+### 八強賽
+
+| 日期 | 蓝队 | | 比分 | | 红队 | 附 | 比赛编号 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
+| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [記錄](https://osu.ppy.sh/mp/34542511) | I |
+| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34543141) | R |
+| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 | S |
+| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34547424) | J |
+| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 | T |
+| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34566588) | U |
+| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/mp/34570396) | K |
+| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34571413) | L |
+
 ### 16強
 
 | 日期 | 藍隊 | | 比分 | | 藍隊 | 附 | 比賽編號 |
 | :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
 | 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34380098) | **A** |
-| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34380710) | **B** |\
+| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34380710) | **B** |
 | | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [記錄](https://osu.ppy.sh/mp/34384012) | **C** |
 | | Stink God | ![][CN] | 5 : 1 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34385381) | **D** |
 | 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 | **E** |
