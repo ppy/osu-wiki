@@ -12,19 +12,19 @@ Both ranked and approved beatmaps requires approval from two [Beatmap Nominators
 
 ### Ranked
 
-Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/ranked.gif)) in the song select screen.
+Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) in the song select screen.
 
 These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_criteria). This is to ensure that most players can expect a certain kind of standard while playing them.
 
 ### Approved
 
-Approved beatmaps use the check icon (![Check icon](/wiki/shared/approved.gif)) in the song select screen.
+Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
 
 The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may uploaded them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
 
 ### Qualified
 
-Qualified beatmaps use the check icon (![Check icon](/wiki/shared/qualified.gif)) in the song select screen.
+Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
 These beatmaps are the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
 
@@ -38,7 +38,7 @@ During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up
 
 ### Loved
 
-Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/loved.gif)) in the song select screen.
+Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
 
 These beatmaps may not meet the [ranking criteria](/wiki/ranking_criteria) but are _loved_ by the community and thus are regularly added based on community votes. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
 
@@ -53,7 +53,7 @@ To get a beatmap in the loved status, see the forum post: [Get your beatmap Love
 
 _See also: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)_
 
-Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/pending.gif)) in the song select screen.
+Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 
 A beatmap with a pending status is usually waiting to be [modded](/wiki/modded). [Creators](/wiki/Creators) must seek for [modders](/wiki/modders) from the community and at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) to get their beatmapset out of this status.
 
@@ -63,7 +63,7 @@ All pending beatmaps do not affect user statistics.
 
 ### Graveyard
 
-Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/graveyard.gif)) in the song select screen.
+Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
 These beatmaps were initally [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
 
