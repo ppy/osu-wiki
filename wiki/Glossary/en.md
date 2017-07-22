@@ -133,7 +133,7 @@ Collab (short for _collaboration_) has two meanings:
 
 1. the work of multiple [creators](/wiki/creators) [beatmapping](/wiki/beatmapping) a single [beatmap](/wiki/beatmap); usually a [marathon](/wiki/marathon) beatmap
    - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap. This is to ensure that the creator has done enough to upload the map under their username.
-2. the mapset containing [guest difficulties](/wiki/guest-difficulty)
+2. the mapset containing [guest difficulties](/wiki/guest_difficulty)
 
 Collab may sometimes be used in [difficulty](/wiki/difficulty) version names.
 
@@ -167,7 +167,7 @@ For skins, the skin properties for the combo colours is located on in the `[Colo
 
 ![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_ This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo-milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_ This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
 This feature was later disabled on 05. March 2013 due to performance concerns.
 
@@ -189,7 +189,7 @@ A combobreak is when the player loses their combo during any part of playing a b
 
 ### Comboburst
 
-A comboburst is a celebration of achieving a [combo milestone](/wiki/combo-milestone).
+A comboburst is a celebration of achieving a [combo milestone](/wiki/combo_milestone).
 
 - For osu!standard and osu!catch, a character will _burst_ out from either the left or right side of the window
 - For osu!taiko, a collection of flowers will _burst_ behind pippidon
@@ -302,7 +302,7 @@ Fail has three meanings:
 
 FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
 
-Because of the [combo multiplier effect](/wiki/combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
+Because of the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
 ## G
 
@@ -445,7 +445,7 @@ If you play a beatmap that has a local song offset, _osu!_ will tell you that th
 
 ### Looping
 
-From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain-time) **must** be at least 30 seconds. If your audio clip is shorter than that, you *should* loop it.
+From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain_time) **must** be at least 30 seconds. If your audio clip is shorter than that, you *should* loop it.
 
 ## M
 
@@ -674,16 +674,13 @@ However, there are other parts of a sample set that may include the slider tick 
 
 ### Silence
 
-A silence is an action taken against an user who spams the [chat console](/wiki/chat_console).
-Silences will stack on top of each other, adding more time for each one.
+A silence is an action taken against an user who spams the [chat console](/wiki/chat_console). Silences will stack on top of each other, adding more time for each one.
 
 Silences lasts for 4 weeks before being reset, along with the time that gets added.
 
 ### Skin
 
-A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!
-This will allow for a more customised user experience.
-Most of what you see and hear in _osu!_ can be skinned.
+A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu! This will allow for a more customised user experience. Most of what you see and hear in _osu!_ can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
 
@@ -691,7 +688,7 @@ To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its s
 
 ### Skinner
 
-A skinner refers to the user who releases downloadable skins on the [forums](/wiki/forums).
+A skinner refers to the user who releases downloadable skins in the [forums](/wiki/forums).
 
 ### Sliderbreak
 
@@ -706,16 +703,14 @@ Sliderbreak has two meanings:
 
 ### Slider Tick
 
-The slider tick is a hit object that gives out 10 points.
-The amount of slider ticks used in a slider is dependent on the slider velocity, the [BPM](/wiki/bpm) and the inherited timing.
+The slider tick is a hit object that gives out 10 points. The amount of slider ticks used in a slider is dependent on the slider velocity, the [BPM](/wiki/bpm) and the inherited timing.
 
 ### Spectate
 
 Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/beatmap) in real time (with approx. 500ms delay).
 To spectate, open the extended chat and click on a grey user panel.
 
-For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing.
-However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and loaded for you.
+For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and loaded for you.
 
 ### Spectator Aura
 
@@ -723,17 +718,15 @@ Spectator aura is a mysterious phenomenon that could cause players to [choke](/w
 
 ### Stacked
 
-Stacked objects are hit objects that overlap each other in the playfield.
-The most common object that is stacked are hit circles.
+Stacked objects are hit objects that overlap each other in the playfield. The most common object that is stacked are hit circles.
 
 Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permitted if the hit circles are very close to each other in the timeline (half a beat or usually even less).
 
 ### Standard
 
-_See also: [osu!](/wiki/Game_Modes/osu!)._
+_See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
 
-Standard refers to the game mode in _osu!_ and has been used since it is the first game mode.
-This is sometimes stylized as _osu!standard_ or osu! (without italics).
+Standard refers to the game mode in _osu!_ and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 
 This term is used greatly within the osu!wiki to prevent ambiguity between _osu!_ (the framework, game client, etc.) and the game mode itself.
 
@@ -749,7 +742,7 @@ Star has four meanings:
    - The symbol that represents the difficulty of a beatmap.
 3. another term for "[Kudosu](/wiki/kudosu)"
    - These are given to beatmap modders and can be used to raise a beatmap above others.
-4. another term for "[Star Priority](/wiki/star-priority)"
+4. another term for "[Star Priority](/wiki/star_priority)"
    - These stars are given to [osu!supporters](/wiki/osu!support) and are used in [Feature Requests](https://osu.ppy.sh/community/forums/4).
 
 ### Star Priority
@@ -764,18 +757,15 @@ Star priority has two meanings:
    - At least 12 star priority is needed for a map to be bubbled or ranked.
 2. A method in determining whether a Feature Request is wanted by the community.
    - The higher the star priority, the faster it gets noticed.
-   - Users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/Star.gif)) that is worth only 1 each.
-     Users may be able to shoot multiple stars depending on how many votes they have left.
+   - Users that have supporter status active when voting will shoot a pink star (![Kudosu](/wiki/shared/Kudos.png)) that increases Star Priority by 2 each, whilst a user without supporter will shoot a blue star (![Star](/wiki/shared/Star.gif)) that is worth only 1 each. Users may be able to shoot multiple stars depending on how many votes they have left.
 
 ### Storyboarder
 
-A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/beatmap).
-They may have used the editor's design section to [storyboard](/wiki/storyboard), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
+A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/beatmap). They may have used the editor's design section to [storyboard](/wiki/storyboard), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
 
 ### SV
 
-SV, meaning _slider velocity_, is the speed in which the slider moves at in relation to the BPM.
-This term may sometimes be used during the modding process.
+SV, meaning _slider velocity_, is the speed in which the slider moves at in relation to the BPM. This term may sometimes be used during the modding process.
 
 The slider velocity defines the movement speed of the slider ball. The lower the slider velocity, the slower the slider ball.
 
@@ -785,27 +775,21 @@ The slider velocity defines the movement speed of the slider ball. The lower the
 
 A graphics tablet is an alternative input medium to the computer mouse.
 
-A tablet consists of a flat surface on which one can point and/or drag using an attached stylus, if one is included.
-The image of the screen does not appear on the tablet, thus making it different in functionality from a touch screen.
+A tablet consists of a flat surface on which one can point and/or drag using an attached stylus, if one is included. The image of the screen does not appear on the tablet, thus making it different in functionality from a touch screen.
 
 ### TAG
 
 A TAG difficulty is a type of beatmap that is designed for more than one person to play at the same time in [multiplayer](/wiki/multiplayer) mode, using the Tag Coop/Tag Team Vs Team Mode.
 
-Each player is responsible for one comboset, where each hit object in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player.
-Therefore it becomes a challenge for elite players in terms of precision of jumping.
+Each player is responsible for one comboset, where each hit object in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player. Therefore it becomes a challenge for elite players in terms of precision of jumping.
 
-TAG difficulties are usually named TAG in a beatmap set.
-TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
+TAG difficulties are usually named TAG in a beatmap set. TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
 
-Note that TAG difficulties are unrankable because they are intentionally not designed for a single player.
-However, this has not stop users from trying.
+Note that TAG difficulties are unrankable because they are intentionally not designed for a single player. However, this has not stop users from trying.
 
 ### Tap
 
-In [osu!standard](/wiki/osu!standard), tapping is a term that means "to press a button while the cursor is over a hit object".
-Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of _osu!_ gameplay.
-There are a few different buttons one can use to tap:
+In [osu!standard](/wiki/osu!standard), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of _osu!_ gameplay. There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
 - the `Z` and `X` keys on the keyboard,
@@ -814,47 +798,35 @@ There are a few different buttons one can use to tap:
 
 ### Test Mode
 
-Test mode is a feature of the [beatmap editor](/wiki/beatmap_editor).
-This allows you to test your beatmap without having to submit anything.
-However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
+Test mode is a feature of the [beatmap editor](/wiki/beatmap_editor). This allows you to test your beatmap without having to submit anything. However, you are required to save the beatmap before continuing to test mode; creating issues if you need to rollback on your recent changes.
 
 ### Time Signature
 
-The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat.
-_osu!_ offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
+The time signature is a musical term that indicates how many beats are in each measure and what note value constitutes a single beat. _osu!_ offers two alternative time signatures, which can be selected from the Timing menu: 4/4, which is the one most commonly used, and 3/4, which is selected when the rhythm of the song is of, or similar to, a waltz.
 
 ### Timing Section
 
-Good timing of a beatmap is big a requirement for a beatmap to get ranked.
-Timing a beatmap consists of determining the offset and then the BPM of the song it uses.
+Good timing of a beatmap is big a requirement for a beatmap to get ranked. Timing a beatmap consists of determining the offset and then the BPM of the song it uses.
 
 When the tempo changes, you are required to add a new timing section to accompany the new tempo.
 
 The timing process creates the timeline on which objects will be placed.
 
-One of many reasons as to why your timing of a beatmap is important because _osu!_ takes the given [BPM](/wiki/bpm) and offset to determine where the hit objects should go.
-If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
+One of many reasons as to why your timing of a beatmap is important because _osu!_ takes the given [BPM](/wiki/bpm) and offset to determine where the hit objects should go. If your timing is off, even by a little, then it is next to unrankable to map hit objects on the editor.
 
 ### Touchpad
 
-A touchpad is a substitute for the computer mouse.
-Touchpads are most commonly found on laptop computers.
-The touchpad usually consists of a small rectangular area which one can drag one's finger to move the mouse cursor.
-Due to the way touchpads are designed, they do not work with a stylus or similar devices.
+A touchpad is a substitute for the computer mouse. Touchpads are most commonly found on laptop computers. The touchpad usually consists of a small rectangular area which one can drag one's finger to move the mouse cursor. Due to the way touchpads are designed, they do not work with a stylus or similar devices.
 
 ### Touchscreen
 
-A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on.
-_osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player.
-A computer whose entire screen functions as a touchscreen is called a Tablet PC.
-This is different than a tablet because a touchscreen has some kind of display while tablets do not.
+A touchscreen is one of the input mediums used by the DS games that _osu!_ is based on. _osu!_ supports touchscreen functionality, but the hardware required is generally expensive for the average player. A computer whose entire screen functions as a touchscreen is called a Tablet PC. This is different than a tablet because a touchscreen has some kind of display while tablets do not.
 
 ### Touhosu!
 
 _Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
 
-Touhosu! is a requested game mode that is the opposite of osu!catch.
-_Opposite_ because instead of catching objects, you avoid them.
+Touhosu! is a requested game mode that is the opposite of osu!catch. _Opposite_ because instead of catching objects, you avoid them.
 
 The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell games) and _osu!_.
 
@@ -864,21 +836,16 @@ The name _Touhosu!_ is a combination of _Touhou_ (the shoot 'em up/bullet hell g
 
 The universal offset is the time delay between:
 
-- the object graphics and sample set sounds associated with them and
-- the point of the song where they should be heard.
+- the object graphics and sample set sounds associated with them
+- the point of the song where they should be heard
 
-The universal offset applies to all songs used in _osu!_ and its value differs according to each system's specifications.
-After being determined, it does not need to be modified again.
-An incorrectly universal offset will cause timing problems in every beatmap played or edited.
-If everything sounds off to you while playing a few ranked [beatmaps](/wiki/beatmaps), try checking your universal offset.
-The universal offset settings is located in the [Options](/wiki/Options).
+The universal offset applies to all songs used in _osu!_ and its value differs according to each system's specifications. After being determined, it does not need to be modified again. An incorrectly universal offset will cause timing problems in every beatmap played or edited. If everything sounds off to you while playing a few ranked [beatmaps](/wiki/beatmaps), try checking your universal offset. The universal offset settings is located in the [Options](/wiki/Options).
 
 ### upppy
 
-upppy is a fast and easy-to-use uploading service coded by peppy.
-If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack, etc., just put it on upppy and everyone is happy! :)
+upppy is a fast and easy-to-use uploading service coded by peppy. If you want to share a file with the osu!community, forget about depositing it on Rapidshare, Megaupload, ImageShack, etc., just put it on upppy and everyone is happy! :)
 
-For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there may be a few stray images that may contain R18 work)**.
+For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there may be a few stray images that may contain R-18 work)**.
 
 ## V
 
@@ -910,16 +877,14 @@ There are various reasons to mark a beatmap as WIP:
 - suggestions on the timing
 - needs feedback
 
-WIP can be submitted through the [BSS](/wiki/bss) to the Beatmap Help [forum](/wiki/Forums) to get comments, feedback, and help from mods and other users.
+WIP can be submitted through the [BSS](/wiki/bss) to the Beatmap Help [forum](/wiki/forum) to get comments, feedback, and help from mods and other users.
 
 ## Z
 
 ### z/x
 
-z/x are the default keys on the keyboard to [tap](/wiki/tap) in _osu!_
-A very popular alternative to the left and right mouse buttons.
+z/x are the default keys on the keyboard to [tap](/wiki/tap) in _osu!_ A very popular alternative to the left and right mouse buttons.
 
-During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa.
-The same applies to the `X` key and the right mouse button and vice versa.
+During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa. The same applies to the `X` key and the right mouse button and vice versa.
 
 The keyboard tapping keys can be changed in the options menu.
