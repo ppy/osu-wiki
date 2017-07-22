@@ -155,28 +155,19 @@ A _max combo_ is simply the player's highest achieved combo throughout the play.
 
 The combo colour is a colour that that separates a comboset from another.
 
-In osu!standard, all [combosets](/wiki/comboset) have a colour.
-A new combo is started when the colour of the hit object changes.
-The colours will keep repeating themselves depending on how many the mapper defined (or how many your skin's `skin.ini` file defines).
-There is a minimum of 2 and a maximum of 8 combo colours.
+In osu!standard, all [combosets](/wiki/comboset) have a colour. A new combo is started when the colour of the hit object changes. The colours will keep repeating themselves depending on how many the mapper defined (or how many your skin's `skin.ini` file defines). There is a minimum of 2 and a maximum of 8 combo colours.
 
-In osu!catch, each fruit is coloured in the order given.
-Droplets and end-slider fruit will always have the same colour as the start-fruit.
-However, bananas will always have a tint of yellow.
+In osu!catch, each fruit is coloured in the order given. Droplets and end-slider fruit will always have the same colour as the start-fruit. However, bananas will always have a tint of yellow.
 
 When editing a beatmap, one can change those colours and/or their order in the [Song Setup](/wiki/Song_Setup) section.
 
-For skins, the skin properties for the combo colours is located on in the `[Colours]` section of the `skin.ini`.
-However, do note that the skin's defined combo colours is only used when the mapper does **not** define them.
+For skins, the skin properties for the combo colours is located on in the `[Colours]` section of the `skin.ini`. However, do note that the skin's defined combo colours is only used when the mapper does **not** define them.
 
 ### Combo Fire
 
 ![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_
-This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo-milestone), 30.
-If the player obtains a combo of 500, the combo fire colour will change from yellow to blue.
-The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+The combo fire was a background gameplay feature from the ouendan game integrated in _osu!_ This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo-milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
 This feature was later disabled on 05. March 2013 due to performance concerns.
 
@@ -184,19 +175,13 @@ This feature was later disabled on 05. March 2013 due to performance concerns.
 
 A combo milestone is a set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/options)) after obtaining one of these milestones.
 
-The combo milestones for osu!standard and osu!catch are 30, 60, 100, and multiples of 50 after 100.
-For osu!taiko, the combo milestones are multiples of 50.
-For osu!mania, the combo milestones are multiples of 100.
+The combo milestones for osu!standard and osu!catch are 30, 60, 100, and multiples of 50 after 100. For osu!taiko, the combo milestones are multiples of 50. For osu!mania, the combo milestones are multiples of 100.
 
 ### Combo Multiplier Effect
 
-The combo multiplier effect occurs in the osu!standard, osu!taiko, and osu!catch game modes.
-This occurs because said game modes use the player's current combo as a part of the score calculations.
-Meaning that a player would get a higher score, if they had gotten a full combo, than someone who played the same map with a broken combo.
+The combo multiplier effect occurs in the osu!standard, osu!taiko, and osu!catch game modes. This occurs because said game modes use the player's current combo as a part of the score calculations. Meaning that a player would get a higher score, if they had gotten a full combo, than someone who played the same map with a broken combo.
 
-However, if you obtain a combo of ~10,000, your score will begin to count backwards.
-This is a flaw with the 32-bit signed integer where (in computing) the max integer is 2,147,483,647.
-A fix, [scoreV2](/wiki/scorev2), for this is still being tested.
+However, if you obtain a combo of ~10,000, your score will begin to count backwards. This is a flaw with the 32-bit signed integer where (in computing) the max integer is 2,147,483,647. A fix, [scoreV2](/wiki/scorev2), for this is still being tested.
 
 ### Combobreak
 
@@ -210,8 +195,7 @@ A comboburst is a celebration of achieving a [combo milestone](/wiki/combo-miles
 - For osu!taiko, a collection of flowers will _burst_ behind pippidon
 - For osu!mania, a character will _burst_ from the right side of the stage (or left side if specified in the `skin.ini`)
 
-In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher.
-For osu!mania, the starts will shoot out from the stage.
+In addition to this, for osu!standard, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher. For osu!mania, the starts will shoot out from the stage.
 
 Combobursts can be disabled in the options.
 
@@ -227,9 +211,7 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ![Screenshot of main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu!logo which appears at the very start of the game, and refers to its shape.")
 
-The cookie is another word for the _osu!_ logo.
-This has appeared many times in the osu!client.
-The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
+The cookie is another word for the _osu!_ logo. This has appeared many times in the osu!client. The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
 
 ![Window dialog of osu! crashing](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
 
@@ -241,18 +223,15 @@ A creator refers to the user who uses the [beatmap editor](/wiki/beatmap_editor)
 
 ### Difficulty Stars
 
-The difficulty stars is the visual representation of a beatmap's [difficulty](/wiki/difficulty) version.
-This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+The difficulty stars is the visual representation of a beatmap's [difficulty](/wiki/difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
 _osu!_ currently uses two different algorithms to calculate difficulty stars:
 
 - peppy's algorithm
   - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
-<!-- TODO wth is Echo's algorithm? -->
 - Echo's algorithm (not in use)
 
-You can see a beatmap's difficulty when testing it in the editor.
-The difficulty stars can be seen on the song selection screen or at its listing in the site.
+You can see a beatmap's difficulty when testing it in the editor. The difficulty stars can be seen on the song selection screen or at its listing in the site.
 
 ### Downbeat
 
@@ -262,8 +241,7 @@ This term was coined from orchestral conducting because when the baton moves in 
 
 ### Drain Time
 
-The drain time, or _drain_, refers to the total duration of the beatmap that requires the player to be active.
-Drain time does not consider the breaks and unmapped parts throughout the beatmap.
+The drain time, or _drain_, refers to the total duration of the beatmap that requires the player to be active. Drain time does not consider the breaks and unmapped parts throughout the beatmap.
 
 Maps with very long drain times are typically referred to as [marathon](/wiki/marathon) maps and require endurance beyond the norm in order to complete successfully.
 
@@ -278,15 +256,13 @@ The difference between drops and [droplets](/wiki/droplet) is that a drop is twi
 
 ### Droplet
 
-A droplet is an osu!catch element that gives a score of 10.
-It is the equivalent to the slider track in osu!standard.
+A droplet is an osu!catch element that gives a score of 10. It is the equivalent to the slider track in osu!standard.
 
 The difference between [drops](/wiki/drop) and droplets is that a droplet is half as big as drops are.
 
 ### DS
 
-DS is an abbreviation meaning _distance snapping_.
-This term is usually seen during the modding process.
+DS is an abbreviation meaning _distance snapping_. This term is usually seen during the modding process.
 
 ### DS Games
 
@@ -324,8 +300,7 @@ Fail has three meanings:
 
 ![Score comparison between full and broken combos](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
 
-FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible.
-This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
+FC or, a _full combo_, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
 
 Because of the [combo multiplier effect](/wiki/combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
@@ -337,8 +312,7 @@ Geki(激), or _Elite Beat!_, is a scoring term used when you complete a [combose
 
 ### Grade
 
-A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap.
-It accompanies the total score at the result screen and appears in all lists where scores appear.
+A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap. It accompanies the total score at the result screen and appears in all lists where scores appear.
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
 
@@ -348,17 +322,15 @@ Grid snapping refers to a button on the right hand side of the editor screen.
 
 Enabling it will force every newly placed (or existing, but moved) object to snap along the intersections of the grid.
 
-The base level of spacing between each sector of the grid can be adjusted by pressing `G` or by going to `View` then `Grid Level`.
-Grid snapping can help with aligning objects to each other and arranging them in patterns.
+The base level of spacing between each sector of the grid can be adjusted by pressing `G` or by going to `View` then `Grid Level`. Grid snapping can help with aligning objects to each other and arranging them in patterns.
 
 ### Guest Difficulty
 
-Guest difficulty, or _GD_, refers to any difficulty made by a mapper for inclusion in another mapper's set.
-Guest difficulties usually have the mapper's username as the difficulty's name.
+Guest difficulty, or _GD_, refers to any difficulty made by a mapper for inclusion in another mapper's set. Guest difficulties usually have the mapper's username as the difficulty's name.
 
 There are many reasons for guest difficulties to exist:
 
-- etiquette in the community can make it difficult for multiple mappers to upload beatmaps of the same song around the same time
+- etiquette in the community can make it difficult for multiple creators to upload beatmaps of the same song around the same time
   - a different mapper, interested in mapping that song, may choose to contribute a difficulty to the other mapper's set instead
 - they may also decide, after-the-fact, upon playing the other map that they like the music and want to create a difficulty for it
 - or the mapper does not want to put in the effort in creating the difficulties on their own, but rather would want to just create one and give it to another mapper
@@ -368,22 +340,17 @@ On the other hand, it may be the creator who wants a few guest difficulties:
 - to give the mapset a "community effort" feel
 - simply because they do not want to create such difficulties by themselves
 
-Guest difficulties are often requested by private messages in-game or via forum private messages.
-Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
+Guest difficulties are often requested by private messages in-game or via forum private messages. Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
 
-More than one guest mapper is allowed to contribute to a beatmapset, including creators from any one of the four game modes.
-If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria).
-Each guest creator is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
+More than one guest mapper is allowed to contribute to a beatmapset, including creators from any one of the four game modes. If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria). Each guest creator is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
 
 ## H
 
 ### Hit Sound
 
-Hit sounds are the sounds that _osu!_ plays in response to user input when completing one of the hit objects in the game.
-This is in contrast to the underlying music and sounds created by the user interface.
+Hit sounds are the sounds that _osu!_ plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
 
-Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing.
-These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
+Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
 There are 4 types of hit sounds:
 
@@ -392,10 +359,7 @@ There are 4 types of hit sounds:
 - clap
 - finish
 
-These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music.
-_osu!_ provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve).
-Though, mappers can go further add up to 24 more.
-Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. _osu!_ provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
 ## I
 
@@ -413,28 +377,21 @@ This is different than a Geki(激) because the comboset was not done perfectly w
 
 ### Keys
 
-In [osu!mania](/wiki/osu!mania), the number of keys can determine the map's difficulty.
-The more keys you have, the more the player has to focus for each key column.
+In [osu!mania](/wiki/osu!mania), the number of keys can determine the map's difficulty. The more keys you have, the more the player has to focus for each key column.
 
 ### Kiai
 
-Kiai is a term given for a "special" timing section to help emphasize a part of a beatmap.
-A player can tell if a part of a beatmap has a kiai timing section by seeing added visual effects such as flashing beats, flying stars, and fountains.
+Kiai is a term given for a "special" timing section to help emphasize a part of a beatmap. A player can tell if a part of a beatmap has a kiai timing section by seeing added visual effects such as flashing beats, flying stars, and fountains.
 
-Keep in mind that overuse and abuse of kiai can be disorienting!
-Thus [mappers](/wiki/mappers) are advised to use it judiciously (or when it makes sense).
+Keep in mind that overuse and abuse of kiai can be disorienting! Thus [creators](/wiki/creators) are advised to use it judiciously (or when it makes sense).
 
 ### Kudosu
 
 ![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 
-Kudosu is a form of reward obtained from modding beatmaps.
-The term "Kudosu" is named after a combination of the words "kudos" and "osu!".
+Kudosu is a form of reward obtained from modding beatmaps. The term "Kudosu" is named after a combination of the words "kudos" and "osu!".
 
-A rating system that rewards users that mod regularly.
-If you are a [BN](/wiki/BN), or the creator of the map, you can award 1 or 2 kudosu to a user depending on the time since last post on the beatmap thread, making a constructive modding post.
-Accumulated kudosu can be used to increase a beatmap's priority rating.
-Any mapper or modder may spend 1 kudosu to give any map a star, which will help the map in the approval process by giving it more star priority.
+A rating system that rewards users that mod regularly. If you are a [BN](/wiki/BN), or the creator of the map, you can award 1 or 2 kudosu to a user depending on the time since last post on the beatmap thread, making a constructive modding post. Accumulated kudosu can be used to increase a beatmap's priority rating. Any mapper or modder may spend 1 kudosu to give any map a star, which will help the map in the approval process by giving it more star priority.
 
 Before awarding kudosu keep the following things in mind:
 
@@ -450,8 +407,7 @@ If you can answer yes to all of these questions, **feel free to give the modder 
 
 ![](img/Givekudosu.jpg "Button to give a Kudosu!")
 
-The creators of a beatmap can give a modder kudosu by simply going to the mod post and click the `Give Kudos` button that is located under the poster's information.
-Please be aware that beatmap nominators may revoke your kudosu if they deem that your post should not have been awarded kudosu!
+The creators of a beatmap can give a modder kudosu by simply going to the mod post and click the `Give Kudos` button that is located under the poster's information. Please be aware that beatmap nominators may revoke your kudosu if they deem that your post should not have been awarded kudosu!
 
 ## L
 
@@ -462,17 +418,13 @@ This only happens if the creator has placed objects right at or very close at th
 
 ### Life Bar
 
-The life bar, also known as the _health bar_, _HP bar_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for [osu!standard](/wiki/osu!standard), [osu!catch](/wiki/osu!catch), and [osu!taiko](/wiki/osu!taiko).
-For [osu!mania](/wiki/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
+The life bar, also known as the _health bar_, _HP bar_, _spirit bar_, or _ki bar_, is a bar at the top left of the playing screen for [osu!standard](/wiki/osu!standard), [osu!catch](/wiki/osu!catch), and [osu!taiko](/wiki/osu!taiko). For [osu!mania](/wiki/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
 
-In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life.
-If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
+In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life. If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
 
 osu!standard and osu!catch will have health drain at a constant rate throughout the course of a beatmap, except during breaks.
 
-For osu!standard, the bar is replenished by the player [tapping](/wiki/tap) hit circles, following sliders and slider ticks, and spinning spinners.
-The more accurate the tapping, the bigger the boost.
-The player also receives larger boosts if he achieves a [katu](/wiki/katu) or an [geki](/wiki/geki) at the end of a combo.
+For osu!standard, the bar is replenished by the player [tapping](/wiki/tap) hit circles, following sliders and slider ticks, and spinning spinners. The more accurate the tapping, the bigger the boost. The player also receives larger boosts if he achieves a [katu](/wiki/katu) or an [geki](/wiki/geki) at the end of a combo.
 
 For osu!catch, this can be done by catching fruit and drops.
 
@@ -480,8 +432,7 @@ For all game modes (expect osu!taiko), a sizeable part of the bar is also deplet
 
 ### Local Song Offset
 
-The local song offset is an offset set for individual [beatmaps](/wiki/beatmaps), not the entire beatmapset itself.
-This is to offset the beatmap's offset alongside the global offset.
+The local song offset is an offset set for individual [beatmaps](/wiki/beatmaps), not the entire beatmapset itself. This is to offset the beatmap's offset alongside the global offset.
 
 You can change your local song offset by pressing:
 
@@ -494,8 +445,7 @@ If you play a beatmap that has a local song offset, _osu!_ will tell you that th
 
 ### Looping
 
-From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain-time) **must** be at least 30 seconds.
-If your audio clip is shorter than that, you *should* loop it.
+From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/wiki/drain-time) **must** be at least 30 seconds. If your audio clip is shorter than that, you *should* loop it.
 
 ## M
 
@@ -507,8 +457,7 @@ M4M, or _Mod for Mod_, is a term describing when a modder agrees to mod another 
 
 A marathon is a type of [beatmap](/wiki/beatmap) that can only be approved.
 
-Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty.
-However, some marathon mapsets may contain a single [osu!taiko](/wiki/osu!taiko) variant as well.
+Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty. However, some marathon mapsets may contain a single [osu!taiko](/wiki/osu!taiko) variant as well.
 
 Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a draining endeavour when done solo.
 
@@ -518,9 +467,7 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 
 **As of the 23. April 2013, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
 
-The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding.
-MAT members were able to mark any beatmap they approve of with a bubble.
-This bubble would note that the beatmap as worthy of further consideration by the BAT.
+The MAT, meaning _Modding Assistance Team_, was a group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT.
 
 ### Mod Request
 
@@ -547,8 +494,7 @@ NC has two meanings:
 
 ### Nuke
 
-Any [beatmap](/wiki/beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Modding_and_Mapping)) can be nuked.
-Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
+Any [beatmap](/wiki/beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Modding_and_Mapping)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -562,8 +508,7 @@ The warning icon that accompanies nuked beatmaps is the symbol for radioactive m
 
 ### Offset
 
-The offset is a period of time between the beginning of a beatmap's song file and the instant the first beat of the rhythm is heard, from which the position of the first beat is calculated.
-This is measured in milliseconds (ms).
+The offset is a period of time between the beginning of a beatmap's song file and the instant the first beat of the rhythm is heard, from which the position of the first beat is calculated. This is measured in milliseconds (ms).
 
 The offset is the first half of beatmap timing, where the other half is the [BPM](/wiki/bpm).
 
@@ -592,13 +537,9 @@ _osu!_ has three meanings:
 
 The osu!coin was the in-game currency that was still "in development", as a 2015 April Fools joke.
 
-After peppy realizes that the current rate of return would not allow him to purchase a private jet within his lifetime, the osu!coin was introduced as the new in-game currency.
-Every player will start off with 10 osu!coins and will be given 10 osu!coins per day.
-Existing users will get an additional two osu!coins right off the bat.
+After peppy realizes that the current rate of return would not allow him to purchase a private jet within his lifetime, the osu!coin was introduced as the new in-game currency. Every player will start off with 10 osu!coins and will be given 10 osu!coins per day. Existing users will get an additional two osu!coins right off the bat.
 
-One osu!coin will give the player one play, while retrying a beatmap will consume one osu!coin.
-If the player obtains a combo that is a multiple of 100, they will obtain one osu!coin.
-If the player runs out of osu!coins, they may purchase more—out of their own will—with these exchange rates:
+One osu!coin will give the player one play, while retrying a beatmap will consume one osu!coin. If the player obtains a combo that is a multiple of 100, they will obtain one osu!coin. If the player runs out of osu!coins, they may purchase more—out of their own will—with these exchange rates:
 
 - 1USD = 1 osu!coin
 - 10USD = 10 osu!coins
@@ -609,8 +550,7 @@ The following day, peppy rolled back the implementation of osu!coins due to popu
 
 ### osupixel
 
-An osupixel is the representation of one screen pixel when _osu!_ is running in 640x480 resolution.
-osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
+An osupixel is the representation of one screen pixel when _osu!_ is running in 640x480 resolution. osupixels are one of the main coordinate systems used in osu!, and apply to hit circle placement and storyboard screen coordinates (these pixels are scaled over a 4:3 ratio to fit your screen).
 
 In contrast, textures are scaled such that one texture pixel ([texel](https://en.wikipedia.org/wiki/Texel_%28graphics%29)) corresponds to one screen pixel at 1024x768 resolution.
 
@@ -679,8 +619,7 @@ Rank has three meanings:
 
 ### Ranking
 
-Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria.
-This can also refer to one's position in such a list.
+Ranking, alternatively called _leaderboard_, is a list that sorts members of the osu!community according to certain criteria. This can also refer to one's position in such a list.
 
 _osu!_ currently has five rankings:
 
@@ -692,33 +631,25 @@ _osu!_ currently has five rankings:
 
 ### Recalc
 
-Recalc is short for _Recalculate slider lengths_.
-Recalc is a command under the `Timing` header of the editor screen.
+Recalc is short for _Recalculate slider lengths_. Recalc is a command under the `Timing` header of the editor screen.
 
-Usage of this is suggested after a [BPM](/wiki/bpm) change is made, if the beatmap already has sliders.
-This command will automatically adjust the length of every slider in the beatmap to the new BPM.
-If used, it is important, especially if a large change in BPM has been made, to check every slider and adjust its length manually, where necessary.
+Usage of this is suggested after a [BPM](/wiki/bpm) change is made, if the beatmap already has sliders. This command will automatically adjust the length of every slider in the beatmap to the new BPM. If used, it is important, especially if a large change in BPM has been made, to check every slider and adjust its length manually, where necessary.
 
 ### Resnap
 
-Resnap is a pair of commands under the `Timing` header of the [editor](/wiki/editor) screen.
-One of which applies to the entire [beatmap](/wiki/beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
+Resnap is a pair of commands under the `Timing` header of the [editor](/wiki/editor) screen. One of which applies to the entire [beatmap](/wiki/beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
 
-Usage is suggested when there has been a change in offset and/or BPM, after objects have been placed.
-This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows.
-If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the [timeline](/wiki/timeline) manually, where necessary.
+Usage is suggested when there has been a change in offset and/or BPM, after objects have been placed. This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows. If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the [timeline](/wiki/timeline) manually, where necessary.
 
 ### Restricted Mode
 
-Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/wiki/TOS).
-Submitted scores of gameplay are not allowed publically displayed.
+Restricted mode is a state automatically applied to accounts that are suspected to breaking the [TOS](/wiki/TOS). Submitted scores of gameplay are not allowed publically displayed.
 
 For more info, see [What is "restricted" mode, exactly?](http://osu.enchanthq.com/article/6/what-is-restricted-mode-exactly).
 
 ### RSI
 
-RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body.
-This can be caused by doing repetitive tasks in an awkward position which may include playing _osu!_ for an extended amount of time.
+RSI, short for _Repetitive Strain Injury_, is a type of injury that affects the musculoskeletal and nervous system of the body. This can be caused by doing repetitive tasks in an awkward position which may include playing _osu!_ for an extended amount of time.
 
 ## S
 
@@ -740,18 +671,6 @@ Inside each categories has these four hit sounds:
 - final
 
 However, there are other parts of a sample set that may include the slider tick sounds and the sound made when filling the spinner metre.
-
-### scoreV2
-
-scoreV2 has two meanings:
-
-- The game modifier that is only available for the cuttingedge stream.
-  This allows players using the cuttingedge stream to test out the new algorithm.
-- The successor to scoreV1
-
-scoreV2 is a new scoring algorithm that will resolve issues with the [combo multiplier effect](/wiki/combo-multiplier-effect).
-This caps the scores for all game modes to 1 million points, like [osu!mania](/wiki/osu!mania), and adjusts a few things within the osu!mania mode.
-<!-- TODO expand scoreV2... somehow? -->
 
 ### Silence
 
