@@ -78,13 +78,9 @@ This value can be found in the url of a beatmap by changing the difficulty tab, 
 
 All unsubmitted beatmaps will have a beatmapID of `0`.
 
-### Beatmapper
-
-A beatmapper (or _mapper_) refers to the osu!user who uses the [beatmap editor](/wiki/beatmap_editor) to create a [beatmap](/wiki/beatmap).
-
 ### Beatmapset
 
-A beatmapset (or _mapset_) is the collection of beatmaps that are packaged inside the `.osz` file.
+A beatmapset is the collection of beatmaps that are packaged inside the `.osz` file.
 These beatmapsets are beatmaps that were created under the same mapper.
 
 Beatmapsets will always have the same music, sounds (if mapped), and video (if any) or storyboard (if any).
@@ -146,7 +142,7 @@ The use of break times in [osu!mania](/wiki/osu!mania) maps is heavily discourag
 
 BSS is short for _Beatmap Submission System_.
 
-When a [beatmapper](#beatmapper) has finished mapping their [beatmapset](#beatmapset) and is ready to share their creation around the world, they must submit it using the BSS.
+When a [creator](#creator) has finished mapping their [beatmapset](#beatmapset) and is ready to share their creation around the world, they must submit it using the BSS.
 When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset.
 The forum thread it generates will help you get feedback from modders and other players who play your map.
 Lastly, your beatmaps will be given a [beatmapID](#beatmapid) and can be commented on during replays; as well as a [beatmapSetID](#beatmapsetid).
@@ -273,6 +269,10 @@ This has appeared many times in the osu!client.
 The cookie is seen in the main menu, in solo mode, and previously in old crash reports as seen below.
 
 ![Window dialog of osu! crashing](img/Pippi_corruption.jpg "Pippi! Get that cookie out of your mouth - it could be dirty...")
+
+### Creator
+
+A creator refers to the user who uses the [beatmap editor](/wiki/beatmap_editor) to create a [beatmap](/wiki/beatmap).
 
 ## D
 
@@ -408,9 +408,9 @@ On the other hand, it may be the creator who wants a few guest difficulties:
 Guest difficulties are often requested by private messages in-game or via forum private messages.
 Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
 
-More than one guest mapper is allowed to contribute to a beatmapset, including beatmappers from any one of the four game modes.
+More than one guest mapper is allowed to contribute to a beatmapset, including creators from any one of the four game modes.
 If an additional game mode is to be featured in a mapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria).
-Each guest beatmapper is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
+Each guest creator is also allowed to create more than one difficulty to contribute to the mapset, as long as the number of difficulty versions created by the guest mapper does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the mapset).
 
 ## H
 
@@ -495,7 +495,7 @@ Please be aware that beatmap nominators may revoke your kudosu if they deem that
 ### Lead-in
 
 The lead-in time is a 3 second time period of silence that is sometimes automatically be inserted before the beginning of a beatmap.
-This only happens if the beatmapper has placed objects right at or very close at the start of the song.
+This only happens if the creator has placed objects right at or very close at the start of the song.
 
 ### Life Bar
 
@@ -712,7 +712,7 @@ Rank has three meanings:
 1. another word for a letter grade
 2. a player's standing in the online leaderboard (a.k.a. player ranking)
 3. the verb "to rank", which is when someone second another moderator's nomination and include a submitted beatmap to the ranked beatmap list, making scores achieved by anyone playing it count towards each player's ranking.
-   Getting their beatmaps ranked is usually the goal of beatmappers.
+   Getting their beatmaps ranked is usually the goal of creators.
 
 ### Ranking
 
@@ -792,7 +792,7 @@ This caps the scores for all game modes to 1 million points, like [osu!mania](/w
 
 ### Silence
 
-A silence is an action taken against an osu!user who spams the [chat console](/wiki/chat_console).
+A silence is an action taken against an user who spams the [chat console](/wiki/chat_console).
 Silences will stack on top of each other, adding more time for each one.
 
 Silences lasts for 4 weeks before being reset, along with the time that gets added.
@@ -809,7 +809,7 @@ To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its s
 
 ### Skinner
 
-A skinner refers to the osu!user who releases downloadable skins on the [forums](/wiki/forums).
+A skinner refers to the user who releases downloadable skins on the [forums](/wiki/forums).
 
 ### Sliderbreak
 
@@ -887,7 +887,7 @@ Star priority has two meanings:
 
 ### Storyboarder
 
-A storyboarder refers to the osu!user who makes storyboards for their own or someone else's [beatmap](/wiki/beatmap).
+A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/beatmap).
 They may have used the editor's design section to [storyboard](/wiki/storyboard), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
 
 ### SV
@@ -1007,7 +1007,7 @@ Version has four meanings:
 - the specific [beatmap](/wiki/beatmap) of the [beatmapset](#beatmapset)
   - this term can be used in place of beatmap to prevent disambiguation
   - they could be called "Easy", "Normal", "Hard", "Insane", or "Expert"
-  - however, beatmappers are allowed to give custom names to the difficulty versions of their beatmaps
+  - however, creators are allowed to give custom names to the difficulty versions of their beatmaps
 - the version of a skin
   - see [Skinning](/wiki/Skinning) for more details
 - the release date of your osu!client
