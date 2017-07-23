@@ -27,7 +27,6 @@ Link to [user group page](https://osu.ppy.sh/g/7)
 | [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese, some French      |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                            |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
-| [DakeDekaane](https://osu.ppy.sh/u/1425253)       | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Spanish                    |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish, German            |
 | [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                     |
 | [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | German                     |
