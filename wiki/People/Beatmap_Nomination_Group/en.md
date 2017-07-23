@@ -33,7 +33,7 @@ The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement f
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
-+ They have accumulated at least 50 [Kudosu](wiki/Glossary/#kudosu) in total.
++ They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
 + They provide 3 to 5 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What Qualifies as a Mod Post
