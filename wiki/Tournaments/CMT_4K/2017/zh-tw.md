@@ -62,7 +62,9 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 | 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
+| 20:00-21:30 | - Choma - | ![][TW] | ![][CN] | Stink God | Z |
 | 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
+| 23:00-24:30 | NED_Q | ![][CN] | ![][CN] | pikechu | AA |
 
 ## 比賽圖池
 
