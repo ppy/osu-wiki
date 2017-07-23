@@ -60,7 +60,9 @@ Sunday, 23. July 2017 (Settled)
 
 | Match Time (UTC+8) | Team A | | | Team B | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
+| 20:00-21:30 | - Choma - | ![][TW] | ![][CN] | Stink God | Z |
 | 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
+| 23:00-24:30 | NED_Q | ![][CN] | ![][CN] | pikechu | AA |
 
 ## Mappools
 

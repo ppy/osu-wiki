@@ -56,11 +56,13 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 | 20:00-21:30 | [Crz]Liusecy | ![][CN] | ![][CN] | Stink God | W |
 | 21:30-23:00 | [Crz]Riri | ![][CN] | ![][CN] | [Crz]MemoryI | M |
 
-7月23日，星期日（已定的）
+7月23日，星期日
 
 | 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
+| 20:00-21:30 | - Choma - | ![][TW] | ![][CN] | Stink God | Z |
 | 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
+| 23:00-24:30 | NED_Q | ![][CN] | ![][CN] | pikechu | AA |
 
 ## 比赛图池
 
