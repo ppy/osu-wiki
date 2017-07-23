@@ -30,19 +30,19 @@ Becoming a Beatmap Nominator
 With the change to the team on 22. August 2014, joining the BNG is now a lot easier than it used to be in the past.
 The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
 
-#### Basic Criteria
+### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
 + They have accumulated at least 50 [Kudosu](wiki/Glossary/#kudosu) in total.
 + They provide 3 to 5 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
-#### What Qualifies as a Mod Post
+### What Qualifies as a Mod Post
 + Upon signing up you will be asked to provide the total amount of Kudosu as well as the amount of mod posts within the last 3 months, sorted by month upon signing up. So if the announcement is posted in April the mod posts for January, February and March will be relevant. The relevant months will also be listed on the submission form.
 + A mod post qualifies as one if it has received a Kudosu and has been created within the time span listed on the submission form.
 + The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 + The point in time at which the Kudosu has been awarded to you mod post does not matter, the only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
 
-#### How Basic Score is Calculated
+### How Basic Score is Calculated
 + This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
 + `Kudosu Score` is determined according to the following formula:
 
