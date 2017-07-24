@@ -41,7 +41,11 @@ Here he is once again. [kablaze](https://osu.ppy.sh/u/3043603)’s HDHR SS on [R
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-<!-- INSERT SCORESHOW HERE HTML COMMENTS HAHAHA -->
+[_yu68](https://osu.ppy.sh/u/6170507) and [shinchikuhome](https://osu.ppy.sh/u/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/s/555073).
+
+<iframe width="100%" height="315"
+src="https://www.youtube.com/embed/D37TPIuwPP8" frameborder="0" allowfullscreen></iframe></br>
+
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 
