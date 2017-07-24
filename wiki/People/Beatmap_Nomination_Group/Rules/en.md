@@ -10,7 +10,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 Rules are exactly that: rules. Violating any of these may get the respective Beatmap Nominator expelled permanently from the Beatmap Nominators.
 
-Violations of these rules may be reported in [this thread](https://osu.ppy.sh/forum/t/447428) or to a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7) directly.
+Violations of these rules may be reported to a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7) directly.
 
 ### General
 
