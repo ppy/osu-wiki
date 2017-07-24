@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-1
 
 A calmer week, but that does not stop a few from pulling off SS plays, impressive osu!taiko and osu!catch plays for this week’s Scorewatch!
 
-<!-- INSERT BANNER HERE HTML COMMENTS HAHAHA -->
+![](/wiki/shared/news/2017-07-24-scorewatch-july-week-3/banner.png)
 
 [Megure](https://osu.ppy.sh/u/3468264) unexpectedly got the first ever SS on the Nao’s Eclipse difficulty on [The Koxx - A FOOL MOON NIGHT](https://osu.ppy.sh/b/1141084), beating out the likes of Dustice and Musty. What control does this guy have in his bones?
 
