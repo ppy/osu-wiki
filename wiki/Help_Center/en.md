@@ -38,20 +38,20 @@ The support team can happily change your account's country upon request, **but o
 
 To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
 
-We'll never display this information to anyone else, and we encourage you to blank out any personal information (that won't otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
+We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
 ### I've forgotten my username and password!
 
 **Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
-If this does not work for you (or you don't have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
+If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
 Good information to include this email would be:
 
 * The name of the email address that you registered the account on, or any other email the account has been associated with since
 * Any receipts for purchased osu!supporter tags or other items from the osu!store
 * The last date you can remember being able to access your account normally
-* Any other identifying information that you think could be helpful (excluding scores or replays, those don't help us very much!)
+* Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
 
 ### My account has been banned/disabled/permanently restricted!
 
@@ -61,7 +61,7 @@ If this is the case for you, as in, the account that you have had banned was not
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team. 
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we'll ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
 ### My account has been stolen!
 
@@ -77,7 +77,7 @@ Please do not include replay or score data in your ticket - we cannot use this t
 
 ### Can I make more than one account?
 
-**Unfortunately, no, you can't.**
+**Unfortunately, no, you can not.**
 
 If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless! 
 
@@ -103,7 +103,7 @@ If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/hom
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We won't charge you for these sorts of name changes, but you **MUST** do them through a support email.
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email.
 
 ### Can I take another player's username?
 
@@ -118,7 +118,7 @@ For every 500 plays an account has across all game modes, an additional year (36
 
 **Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
 
-So long as you are playing on only your own account, you can play osu! anywhere.
+So long as you are playing on only your own account, you can play *osu!* anywhere.
 
 If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
 
@@ -159,7 +159,7 @@ To check, try the following steps (under Windows 8 and above):
 
 1. Open the Start menu.
 2. Type `default` into the search bar within the Start menu.
-3. If you see a menu entry titled `Default app settings`, click it. If you don't, expand your search to include `default app settings`.
+3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
 4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
 ### I can't login or connect to the game at all!
@@ -172,7 +172,7 @@ Here are a few ways of allowing applications to have internet access through sev
 
 **On most Windows installations, Windows Firewall will be the default firewall software.**
 
-To make sure osu! can access the internet, we'll need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
+To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
 
 1. Open the Start menu.
 2. Type `allow an app` into the search bar within the Start menu.
@@ -196,7 +196,7 @@ Please consult McAffee's [official knowledgebase entry on the topic](https://ser
 
 #### I've added osu! to my firewall but I still can't connect to the game!
 
-**We'll need extra information from you to help sort this out.**
+**We will need extra information from you to help sort this out.**
 
 If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
@@ -209,11 +209,11 @@ If you are still having issues connecting to our game servers, please submit a s
 
 You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click OK. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
-We'll need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
+We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
 
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
@@ -221,7 +221,7 @@ To copy the results of the command, simply click and drag from the bottom of the
 
 **Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
-To figure out what's causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
+To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
 
 If you notice either your GPU or CPU temperature exceeding values of 90C or 194F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
 
@@ -231,7 +231,7 @@ If you notice either your GPU or CPU temperature exceeding values of 90C or 194F
 
 To check what your frame limiter is set to, follow these steps:
 
-1. Open osu!.
+1. Open *osu!*.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `frame` into the quick-search to bring up the frame limiter options.
 
@@ -300,7 +300,7 @@ We also suggest ensuring your peripherals are clean and free from dirt or debris
 
 To enable raw input, follow these steps:
 
-1. Open osu!.
+1. Open *osu!*.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `raw` into the quick-search to jump straight to the option.
 4. Click the `Raw input` radio button.
@@ -333,7 +333,7 @@ Most beatmap packs come in a `.rar` file format, which means they are a compress
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
-### My game won't update properly!
+### My game will not update properly!
 
 **This is usually due to issues with your PC, but can very rarely be caused by new updates.**
 
@@ -349,7 +349,7 @@ You can also try forcing the game to update.
 
 **This can be changed via the in-game options menu.**
 
-1. Open osu!.
+1. Open *osu!*.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `release` into the quick-search to jump straight to the option.
 4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
@@ -358,7 +358,7 @@ You can also try forcing the game to update.
 
 **You can force the game to update via the options menu.**
 
-1. Open osu!.
+1. Open *osu!*.
 2. Enter the `Options` menu or hit `Control` + `O` by default.
 3. Type `update` into the quick-search to jump straight to the option.
 4. Click the `Run osu! updater` button.
@@ -369,7 +369,7 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 **You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
-If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
+If you see this error when you try to open *osu!* or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
 Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
@@ -413,7 +413,7 @@ Tor or networks associated with the Tor relay will not connect to the game serve
 
 You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you don't need to worry about it!
+In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
 ### My user page has been locked and I can't edit it!
 
@@ -490,7 +490,7 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 ### Do I need to use my email address to register?
 
-**No, you don't. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
+**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
 
 If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
@@ -498,7 +498,7 @@ While having an email isn't required, we do recommend that you associate one wit
 
 ### Why can't I search for a beatmap artist who's name is less than 3 characters long?
 
-**Our local search engine can't handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
+**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
 
 Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
 
@@ -600,7 +600,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 **The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
-If the servers are offline, don't close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
 #### Can you upload a score I set for me?
 
@@ -630,7 +630,7 @@ The default values work for most people, but if you find it isn't for you, you c
 
 **Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
 
-Try closing some programs that you don't need open while playing the game.
+Try closing some programs that you do not need open while playing the game.
 
 #### Is your computer secure?
 
