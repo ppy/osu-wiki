@@ -42,7 +42,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 + The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 + The point in time at which the Kudosu has been awarded to you mod post does not matter, the only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
 
-### How Basic Score is Calculated
+### How the Required Minimum Score is Calculated
 + This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
 + `Kudosu Score` is determined according to the following formula:
 
@@ -52,8 +52,8 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 
 ![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
 
-+ In order to determine their `Basic Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
-+ The `Basic Score` threshold is set to the following values:
++ In order to determine their `Required Minimum Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
++ The overall minimum threshold is set to the following values:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
 + It is usually a good idea to keep their socre well above these numbers as they can vary slightly depending on the amount of applicants.
