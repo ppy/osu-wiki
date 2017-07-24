@@ -47,20 +47,21 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Arrival](https://osu.ppy.sh/u/1694000)           | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | French                   |
 | [Bakari](https://osu.ppy.sh/u/597957)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Russian                  |
 | [Battle](https://osu.ppy.sh/u/4037545)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
-| [Bonsai](https://osu.ppy.sh/u/987334)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Benny-](https://osu.ppy.sh/u/4023183)            | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Norwegian                |
-| [ChaosLitz](https://osu.ppy.sh/u/3621552)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
+| [Bonsai](https://osu.ppy.sh/u/987334)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
+| [Chaoslitz](https://osu.ppy.sh/u/3621552)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [Critical_Star](https://osu.ppy.sh/u/3793196)     | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Chinese                  |
 | [Delis](https://osu.ppy.sh/u/1603923)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [Dellvangel](https://osu.ppy.sh/u/5186244)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
 | [Doormat](https://osu.ppy.sh/u/3230571)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [ezek](https://osu.ppy.sh/u/180241)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
-| [F D Flourite](https://osu.ppy.sh/u/2459589)      | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
+| [F D Flourite](https://osu.ppy.sh/u/2459589)      | ![Yes][Ys] | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Chinese                  |
 | [Fresh Chicken](https://osu.ppy.sh/u/3984370)     | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Korean, Japanese         |
 | [Garden](https://osu.ppy.sh/u/2849992)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                  |
 | [Gero](https://osu.ppy.sh/u/1467715)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
 | [Hobbes2](https://osu.ppy.sh/u/8157492)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [jonathanlfj](https://osu.ppy.sh/u/270377)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, some French     |
+| [Jonawaga](https://osu.ppy.sh/u/3653035)          | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  |                          |
 | [juankristal](https://osu.ppy.sh/u/443656)        | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Spanish                  |
 | [JUDYDANNY](https://osu.ppy.sh/u/1165475)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [Julie](https://osu.ppy.sh/u/2420987)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                          |
@@ -74,7 +75,6 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Kuo Kyoka](https://osu.ppy.sh/u/2596306)         | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Vietnamese               |
 | [Kurai](https://osu.ppy.sh/u/77089)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | French                   |
 | [Lasse](https://osu.ppy.sh/u/896613)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                   |
-| [Len](https://osu.ppy.sh/u/1686145)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                   |
 | [Maxus](https://osu.ppy.sh/u/4335785)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Indonesian               |
 | [Mir](https://osu.ppy.sh/u/8688812)               | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Monstrata](https://osu.ppy.sh/u/2706438)         | ![Yes][Ys] | ![Yes][Yt] | ![Yes][Yf] | ![No][Nm]  |                          |
