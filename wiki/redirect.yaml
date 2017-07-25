@@ -45,6 +45,11 @@
 "beatmap":                     "Beatmaps"
 "map":                         "Beatmaps"
 "maps":                        "Beatmaps"
+"ranked":                      "Beatmaps/#ranked"
+"approved":                    "Beatmaps/#approved"
+"qualified":                   "Beatmaps/#qualified"
+"pending":                     "Beatmaps/#pending"
+
 "beatmap_pack":                "Beatmaps/Packs"
 "beatmap_packs":               "Beatmaps/Packs"
 "beatmappack":                 "Beatmaps/Packs"
@@ -383,7 +388,9 @@
 "marathon":                    "Glossary/#marathon"
 "mat":                         "Glossary/#mat"
 "modding_assistance_team":     "Glossary/#mat"
+"mod_request":                 "Glossary/#mod-request"
 "modder":                      "Glossary/#modder"
+"modders":                     "Glossary/#modder"
 
 "nc_glossary":                 "Glossary/#nc"
 "glossary_nc":                 "Glossary/#nc"
@@ -415,7 +422,6 @@
 
 "rank":                        "Glossary/#rank"
 "ranks":                       "Glossary/#rank"
-"ranked":                      "Glossary/#rank"
 "ranking":                     "Glossary/#ranking"
 "rankings":                    "Glossary/#ranking"
 "recalc":                      "Glossary/#recalc"
@@ -860,6 +866,7 @@
 "beatmap_packs_0916":          "Medals/Beatmap_Packs_0916"
 
 "modding":                     "Modding"
+"modded":                      "Modding"
 
 "multi":                       "Multi"
 "multiplayer":                 "Multi"
