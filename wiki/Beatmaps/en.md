@@ -2,7 +2,7 @@
 
 Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
 
-Beatmaps can be uploaded to the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
+Beatmaps can be uploaded by the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
 
 You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web.
 
@@ -26,7 +26,7 @@ The approved status is typically for songs that are over five minutes in length 
 
 Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
-These beatmaps are the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
 
 - No [pp](/wiki/pp) will be awarded.
 - All scores will be deleted when the status is changed.
@@ -45,7 +45,7 @@ These beatmaps may not meet the [ranking criteria](/wiki/ranking_criteria) but a
 - No [pp](/wiki/pp) will be awarded.
 - All scores will be deleted when the creator updates the beatmap.
 
-This status will give these beatmaps a leaderboard.
+This status will give those beatmaps a leaderboard.
 
 To get a beatmap in the loved status, see the forum post: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
 
