@@ -2,8 +2,7 @@
 
 _Main page: [Beatmaps](/wiki/Beatmaps)_
 
-A beatmaps pack is a `.zip` file containing beatmaps.
-The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
+A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
 
 It is worth noting that the most packs are:
 
@@ -25,24 +24,19 @@ Beatmaps packs are split into 4 categories:
 
 This is for those who really want to *fully complete your song list* (and not just download your favorite songs).
 
-Keep in mind that you will need quite a lot of digital space to storage these beatmaps.
-As beatmap packs (and torrents) also downloads with the video and other beatmap skinable elements.
+Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinable elements.
 
 ### Beatmap Pack Listing
 
-Download all the (-/Approved/Taiko/osu!mania) beatmaps packs from the **Standard** category and nowhere else.
-The (-/Approved/Taiko/osu!mania) beatmaps packs will contain all the songs in the other 3 categories.
+Download all the (-/Approved/Taiko/osu!mania) beatmaps packs from the **Standard** category and nowhere else. The (-/Approved/Taiko/osu!mania) beatmaps packs will contain all the songs in the other 3 categories.
 
-The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](https://osu.ppy.sh/p/packlist).
+The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](https://osu.ppy.sh/beatmaps/packs).
 
 ### Torrenting
 
-_Notice: Beatmap torrents seem to have died off within the osu!community._
+> Notice: Beatmap torrents seem to have died off within the osu! community.
 
 - [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
-
-These torrents contain the 10, 100, 200 or 300 packs.
-As soon as there are 400 packs available, the torrent should be avaliable.
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.
