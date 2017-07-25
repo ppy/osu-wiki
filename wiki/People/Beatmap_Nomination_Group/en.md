@@ -27,7 +27,7 @@ BNs are the people to go to for any modding or advice requests about anything ma
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team on 22. August 2014, joining the BNG is now a lot easier than it used to be in the past.
+With the change to the team on 22. August 2014, joining the Beatmap Nomination Group is now a lot easier than it used to be in the past.
 The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
 
 ### Basic Criteria
