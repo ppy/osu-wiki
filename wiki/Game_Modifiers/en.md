@@ -11,7 +11,7 @@
 [SV wikilink]: /wiki/Glossary/#slider-velocity "Slider velocity definition in Glossary"
 
 <!-- image -->
-[GM]: ./img/GM_Main.jpg "Game Mods screen"
+[GM]: ./img/GM_Main.jpg "Game Mods screen of all four modes (osu!standard, osu!taiko, osu!catch, and osu!mania)"
 [Toolbox]: ./img/Toolbox_Mods.jpg "Song Selection's Toolbox"
 [EZ1]: ./img/GM_EZ1.jpg "Easy decreases the difficulty in many ways."
 [EZ2]: ./img/GM_EZ2.jpg "Sometimes, though, Easy just causes a headache."
@@ -73,9 +73,11 @@
 
 # Game Modifiers
 
-![Game mods screen][GM]
+![Game Mods screen of all four modes (osu!standard, osu!taiko, osu!catch, and osu!mania)][GM]
 
-Game modifiers (mods) are optional modifications to beatmap's elements and settings that the player can enable at will. A mod effect can range from gameplay changes like as changing the beatmap's settings to automation such as allowing _osu!_ to do a perfect replay (Auto), on a condition of possible score multiplier changes to making the play unrankable. When multiple mods are enabled, the score multiplier is the product of the enabled mods' score multipliers. For example, when Hidden and Flashlight are applied at the same time, the score multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
+Game modifiers (mods) are optional modifications to beatmap's elements and settings that the player can enable at will. A mod effect can range from gameplay changes like changing the beatmap's settings to automation such as allowing _osu!_ to do a perfect replay (Auto), on a condition of possible score multiplier changes to making the play unrankable. When multiple mods are enabled, the score multiplier is the product of the enabled mods' score multipliers. For example, when Hidden and Flashlight are applied at the same time, the score multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
+
+Shortcut keys to enable the mods using keyboard's keys can be changed at Options under Keyboard header inside `Change keyboard bindings` with a header called Mod Select. The usage of the shortcut keys will only work when the Mods screen is shown.
 
 The game modifiers screen can be accessed by pressing `F1` during song selection screen or by clicking the `Mods` button near the lower left of the screen.
 
@@ -95,7 +97,7 @@ These mods can make the game easier at the cost of decreasing the score multipli
 
 Easy mod halves all difficulty settings of the beatmap selected.
 
-The Easy mod also grants the player two (2) additional "lives"; if the [life bar][lifebar wikilink] is exhausted completely, the play will pause and refills the life bar slowly to about 80% with no sound in-between. The refill is signaled by the ready sound (`readys.wav`) instead of the typical fail sound (`failsound.wav`) for failing the beatmap with an empty life bar. The beatmap will resume once the refill is successful signaled by playing the go sound (`gos.wav`).
+The Easy mod also grants the player two (2) additional "lives"; if the [life bar][lifebar wikilink] is exhausted completely, the play will pause and refills the life bar slowly to about 80% with no sound in-between at a cost of one "life" of the play. The refill is signaled by the ready sound (`readys.wav`) instead of the typical fail sound (`failsound.wav`) for failing the beatmap with an empty life bar. The beatmap will resume once the refill is successful signaled by playing the go sound (`gos.wav`). The play will fail instead if there is no "lives" remain when the life bar has been exhausted completely again.
 
 Interestingly, when watching a replay where extra "life" was used, the replay will skips over the health refill animation and allows the replay to continue at no health instead while allowing health regain from hit objects.
 
@@ -733,7 +735,7 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings "Visu
 ![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before depleting completely.][SD_Rare]
 
 - _osu!_ used to round down all score multipliers to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise. 
-- However, some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on [insane](/wiki/Difficulties/osu!/Insane) or approved beatmaps.
+- Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on [insane](/wiki/Difficulties/osu!/Insane) or approved beatmaps.
   - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/forum/t/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/u/64501).
 - When playing with Sudden Death mod enabled, there are _rare cases_ where when the combo is broken and the Sudden Death mod triggers its effect of full HP drain but if the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke, the player can continue the beatmap and no large miss figure will be imposed.
 - [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/forum/t/49733)
