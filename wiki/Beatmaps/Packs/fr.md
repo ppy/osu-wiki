@@ -1,0 +1,42 @@
+# Packs (Français)
+
+_Page principale: [Beatmaps](/wiki/Beatmaps)_
+
+Un beatmaps pack est un fichier `.zip` contenant des beatmaps. Le nom du pack est basé sur ce qu'il contient (ex: `Approved Beatmap Pack #7` contiendrait des beatmaps [approuvées](/wiki/approved)).
+
+La plupart des packs:
+
+- Font environ ~100MB (Taiko/osu!mania) ou ~200MB (-/Approuvés)
+- Peuvent contenir des vidéos (si incluses)
+
+## Catégories
+
+Les Beatmaps packs sont divisés en 4 catégories:
+
+| Catégorie     | Types de beatmaps                      |
+| ------------- | -------------------------------------- |
+| Standard      | Musiques Classées ou Approuvées        |
+| Chart         | Musiques des défis bimensuels du Chart |
+| Thème         | General theme of the songs             |
+| Artiste/Album | Based on Artist/Album                  |
+
+## Entièrement Compléter sa Liste de Musiques
+
+Tout cela pour ceux qui veulent vraiment *et complétement remplir leur liste de musiques* (et non pas seulement télécharger leurs musiques favorites).
+
+Gardez à l'esprit que vous aurez besoin de beaucoup d'espace disque pour stocker ces beatmaps puisque les beatmap packs (et les torrents) téléchargeront également les vidéos et autres éléments skinnables.
+
+### Liste des Beatmap Pack
+
+Vous pouvez télécharger les beatmap packs (-/Approuvés/Taiko/osu!mania) depuis la catégorie **Standard** et nulle part d'autre. Les beatmap packs (-/Approuvés/Taiko/osu!mania) contiendront les musiques des trois autres catégories.
+
+Les beatmaps packs sont situés sur la [page des Beatmaps Packs d'osu!](https://osu.ppy.sh/beatmaps/packs)
+
+### Torrents
+
+> Attention: Les beatmaps torrent semblent ne plus être présentes dans la communauté osu!.
+
+- [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
+  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
+
+Vous aurez besoin de beaucoup d'espace (et de bande passante) pour télécharger tous ces packs.
