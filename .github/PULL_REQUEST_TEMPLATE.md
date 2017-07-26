@@ -2,7 +2,7 @@
 osu!'s Article Styling Guide: https://osu.ppy.sh/help/wiki/Article_Style_Guide
 -->
 
-<!-- Please remove the comments once you have formulated your Pull Request Message>
+<!-- Please remove the comments once you have formulated your Pull Request Message -->
 
 ### What does this PR do?
 
