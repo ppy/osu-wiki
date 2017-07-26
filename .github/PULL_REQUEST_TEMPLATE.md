@@ -4,7 +4,7 @@ osu!'s Article Styling Guide: https://osu.ppy.sh/help/wiki/Article_Style_Guide
 
 <!-- Please remove the comments once you have formulated your Pull Request Message -->
 
-### What does this PR do?
+### Description
 
 <!-- Promptly explain what does this PR do. A summary of what you changed is nice -->
 
@@ -27,8 +27,9 @@ To make a checklist:
 
 - [] Entry 1
 - [] Entry 2
->
 
-#### Issues Related
+-->
+
+#### Related Issues
 
 <!-- If you have any issues related to this PR, link them here. -->
