@@ -42,54 +42,76 @@
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
-## 比赛预告
+## 比賽預告
 
-### 四分之一決賽
+### 決賽第一周
 
-### 半決賽
-
-7月22日，星期六
+7月29日，星期六
 
 | 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 13:30-15:00 | NED_Q | ![][CN] | ![][AU] | [Crz]Yukikaze- | X |
-| 15:00-16:30 | drunkenstein | ![][HK] | ![][CN] | pikechu | Y |
-| 16:30-18:00 | - Choma - | ![][TW] | ![][CN] | - ZedXD - | V |
-| 20:00-21:30 | [Crz]Liusecy | ![][CN] | ![][CN] | Stink God | W |
-| 21:30-23:00 | [Crz]Riri | ![][CN] | ![][CN] | [Crz]MemoryI | M |
+| 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
+| 16:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
+| 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
 
-7月23日，星期日（已定的）
+7月30日，星期日
+
+* 比賽AB和AC的獲勝者將會進入比賽AD。
 
 | 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 20:00-21:30 | - Choma - | ![][TW] | ![][CN] | Stink God | Z |
-| 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
-| 23:00-24:30 | NED_Q | ![][CN] | ![][CN] | pikechu | AA |
+| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | pikechu | **AD** |
+| 16:00 | Neokje | ![][MY] | ![][CN] | [Crz]Riri | **AD** |
+| 16:00 | - Choma - | ![][TW] | ![][CN] | pikechu | **AD** |
+| 16:00 | Neokje | ![][MY] | ![][TW] | - Choma - | **AD** |
 
 ## 比賽圖池
+
+### 決賽、總決賽
+
+[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloUllsnHx59aQyaoa)
+- [Various Artist - Jungdongjin's 5th LN Pack \[nanahira -Tsukitourou\]](https://osu.ppy.sh/b/1301846)
+- [LeaF - Shitsubou Choco \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/b/1273424)
+- [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[ShuChan!!\]](https://osu.ppy.sh/b/1165250)
+- [Zekk - Swampgator \[Alligator VIP\]](https://osu.ppy.sh/b/1241284)
+- [Camellia - Backbeat Maniac \[Rewind VIP\]](https://osu.ppy.sh/b/1242696)
+- [((LMB)) - Buntan ~Falling in "B" mix~ \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/b/1206728)
+- [DJKurara - Japanese Transformation \[Extra\]](https://osu.ppy.sh/b/1105693)
+- [LV.4 - Angel dust (2016 Radio Mix) \[Shift\]](https://osu.ppy.sh/b/1265848)
+- [xi - Let's madness \[R U Ready?\]](https://osu.ppy.sh/b/1118209)
+- [xi - FREEDOM DiVE \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/b/473228)
+- [YZYX - Powerflux \[Challenge\]](https://osu.ppy.sh/b/850891)
+- [Vixenvy - I'm sorry we really suck. \[for the best\]](https://osu.ppy.sh/b/1145475)
+- [UNDEAD CORPORATION - Everything Will Freeze \[Time Freeze\]](https://osu.ppy.sh/b/673308)
+- [Camellia - EMPIRE OF FLAME \[GRAVITY\]](https://osu.ppy.sh/b/901134)
+- [Yu_Asahina - Trickstarz \[STEPMANIA\]](https://osu.ppy.sh/b/770548)
+- [plastic feat.Sakito - Hitsugi to Futago \[4KEY//PHANTASM\]](https://osu.ppy.sh/b/1097111)
+
+TB:
+- [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/b/1206398)
 
 ### 半決賽
 
 [**點此下載全部**](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
-- [Mick Gordon - Cyberdemon (Lazarus)](https://osu.ppy.sh/b/1231110)
-- [Hitori Tori - perthed again (yambabom remix) (Difficulty 3)](https://osu.ppy.sh/b/1207006)
-- [LeaF - MEPHISTO (4K LN Massacre)](https://osu.ppy.sh/b/1134593)
-- [yanaginagi - landscape (ShuChan!!)](https://osu.ppy.sh/b/1147214)
-- [DJ Sharpnel - TACTICAL RAILROAD (EXTREME)](https://osu.ppy.sh/b/1119190)
-- [a_hisa - Cheshire's dance (LN Dancing)](https://osu.ppy.sh/b/1175264)
-- [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Octodad Twerk Theme)](https://osu.ppy.sh/b/1036648)
-- [Kaneko Chiharu - iLLness LiLin (jAkAd's MAXIMUM)](https://osu.ppy.sh/b/1245015)
-- [xi - Solar Storm (Extra[old])](https://osu.ppy.sh/b/989233)
-- [m108 - * Crow Solace * (Meme Solace)](https://osu.ppy.sh/b/1201027)
-- [Fallujah - Sapphire (Cerulean)](https://osu.ppy.sh/b/970464)
-- [Nizikawa - Drop That (Ghettoblaster) v1.1 (break-even)](https://osu.ppy.sh/b/972575)
-- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet (BAN SDVX)](https://osu.ppy.sh/b/1229459)
-- [xi - Aparajita (Ambitious King)](https://osu.ppy.sh/b/1206343)
-- [gmtn vs. kozato (fw. LUZE) - squartatrice (VonSeckendorff)](https://osu.ppy.sh/b/898932)
-- [Noah - Immortal saga (4K MXM)](https://osu.ppy.sh/b/1349837)
+- [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/b/1231110)
+- [Hitori Tori - perthed again yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/b/1207006)
+- [LeaF - MEPHISTO \[4K LN Massacre\]](https://osu.ppy.sh/b/1134593)
+- [yanaginagi - landscape \[ShuChan!!\]](https://osu.ppy.sh/b/1147214)
+- [DJ Sharpnel - TACTICAL RAILROAD \[EXTREME\]](https://osu.ppy.sh/b/1119190)
+- [a_hisa - Cheshire's dance \[LN Dancing\]](https://osu.ppy.sh/b/1175264)
+- [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria \[Octodad Twerk Theme\]](https://osu.ppy.sh/b/1036648)
+- [Kaneko Chiharu - iLLness LiLin \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/b/1245015)
+- [xi - Solar Storm \[Extra[old]\]](https://osu.ppy.sh/b/989233)
+- [m108 - * Crow Solace * \[Meme Solace\]](https://osu.ppy.sh/b/1201027)
+- [Fallujah - Sapphire \[Cerulean\]](https://osu.ppy.sh/b/970464)
+- [Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]](https://osu.ppy.sh/b/972575)
+- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]](https://osu.ppy.sh/b/1229459)
+- [xi - Aparajita \[Ambitious King\]](https://osu.ppy.sh/b/1206343)
+- [gmtn vs. kozato (fw. LUZE) - squartatrice \[VonSeckendorff\]](https://osu.ppy.sh/b/898932)
+- [Noah - Immortal saga \[4K MXM\]](https://osu.ppy.sh/b/1349837)
 
 TB:
-- [Camellia - Exit This Earth's Atomosphere (Spaceship)](https://osu.ppy.sh/b/1043774)
+- [Camellia - Exit This Earth's Atomosphere \[Spaceship\]](https://osu.ppy.sh/b/1043774)
 
 ### 四分之一決賽
 
@@ -184,31 +206,44 @@ TB:
 
 ## 比賽結果
 
-### 八強賽
+### 半決賽
 
-| 日期 | 蓝队 | | 比分 | | 红队 | 附 | 比赛编号 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
-| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [記錄](https://osu.ppy.sh/mp/34542511) | I |
-| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34543141) | R |
-| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 | S |
-| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34547424) | J |
-| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 | T |
-| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34566588) | U |
-| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/mp/34570396) | K |
-| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34571413) | L |
+| 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
+| | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+| | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34703556) |
+| | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [記錄](https://osu.ppy.sh/mp/34706159) |
+| | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/community/matches/34771665) |
+| 23. July | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
+| | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34731835) |
+| | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+
+### 四分之一決賽
+
+| 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [記錄](https://osu.ppy.sh/mp/34542511) |
+| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34543141) |
+| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
+| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34547424) |
+| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 |
+| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34566588) |
+| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/mp/34570396) |
+| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34571413) |
 
 ### 16強
 
-| 日期 | 藍隊 | | 比分 | | 藍隊 | 附 | 比賽編號 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
-| 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34380098) | **A** |
-| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34380710) | **B** |
-| | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [記錄](https://osu.ppy.sh/mp/34384012) | **C** |
-| | Stink God | ![][CN] | 5 : 1 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34385381) | **D** |
-| 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 | **E** |
-| | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 | **F** |
-| | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [記錄](https://osu.ppy.sh/mp/34404265) | **G** |
-| | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34407900) | **H** |
+| 日期 | 藍隊 | | 比分 | | 藍隊 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34380098) |
+| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34380710) |
+| | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [記錄](https://osu.ppy.sh/mp/34384012) |
+| | Stink God | ![][CN] | 1 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34385381) |
+| 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 |
+| | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 |
+| | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [記錄](https://osu.ppy.sh/mp/34404265) |
+| | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34407900) |
 
 
 ### 小組賽
@@ -313,8 +348,6 @@ TB:
 3. 報名成功的選手將收到確認郵件，同時也將被加入[公示名單](https://osu.ppy.sh/forum/t/576970)。
 4. 圖池管理和比賽經理不得參賽。
 
-[報名網站](https://www.osupink.org/huarenbei)
-
 ### 比賽賽程
 
 1. 在資格賽階段，全部選手隨機分為8人一組進行在線多人遊戲（Multiplayer），每張圖按照圖池的順序打2遍，並取最高分數。4張圖分數之和就是選手的總成績。
@@ -341,8 +374,8 @@ TB:
 | 16強 | A, B, C, D, E, F, G, H |
 | 1/4決賽 | I, J, K, L & R, S, T, U |
 | 半決賽 | M, N & V, W, X, Y, Z,AA |
-| 決賽第**1**周 | O & AB, AC, AD, AE |
-| 決賽第**2**周 | P, Q |  
+| 決賽第**1**周 | O & AB, AC, AD |
+| 決賽第**2**周 | P & AE |  
 
 ## 比賽程序說明
 
