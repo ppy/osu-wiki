@@ -94,7 +94,7 @@ TB:
 
 [**點此下載全部**](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
 - [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/b/1231110)
-- [Hitori Tori - perthed again yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/b/1207006)
+- [Hitori Tori - perthed again (yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/b/1207006)
 - [LeaF - MEPHISTO \[4K LN Massacre\]](https://osu.ppy.sh/b/1134593)
 - [yanaginagi - landscape \[ShuChan!!\]](https://osu.ppy.sh/b/1147214)
 - [DJ Sharpnel - TACTICAL RAILROAD \[EXTREME\]](https://osu.ppy.sh/b/1119190)
