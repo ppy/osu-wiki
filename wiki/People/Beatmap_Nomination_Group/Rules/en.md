@@ -1,16 +1,16 @@
-# Beatmap Nominator Rules
+# Rules
 
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. 
 
-These rules are the result of discussion within the [Quality Assurance Team](https://osu.ppy.sh/g/7) and have taken into account feedback from the [Beatmap Nominators](https://osu.ppy.sh/g/28) upon their proposal.
+These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nomination_Group) upon their proposal.
 
 Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the following rules at all times:
 
 ## Rules
 
-Rules are exactly that: rules. Violating any of these may get the respective Beatmap Nominator expelled permanently from the Beatmap Nominators.
+Rules are exactly that: **rules.** Violating any of these may get the respective Beatmap Nominator removed permanently from the Beatmap Nominators.
 
-Violations of these rules may be reported to a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7) directly.
+Violations of those rules may be reported to a member of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) directly.
 
 ### General
 
@@ -21,7 +21,7 @@ Violations of these rules may be reported to a member of the [Quality Assurance 
 + **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the mapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
 + **Do not nominate maps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
 + **Do not qualify mapsets that use the same song or a different version of the same song as an already Qualified mapset, unless no game modes of both sets overlap.** For example an osu!taiko and osu! mapset of the same song can exist in Qualified, while a taiko and osu!/taiko hybrid set cannot. This ensures variety among Ranked beatmaps within their respective game modes.
-+ **If a bubbled map contains unrankable issues, its bubble must be popped.** To ensure a map has no other unrankable issues, it’s best for another nominator to examine the map once again.
++ **If a bubbled map contains unrankable issues, its bubble must be popped.** To ensure a map has no other unrankable issues, it is best for another Nominator to examine the map once again.
 + **You must not rebubble a map when your bubble was popped without the popper agreeing to that action.** In these cases another nominator may rebubble the map if they disagree with the bubble pop.
 + **There must be at least 24 hours between placing a bubble and qualifying a mapset.** This is to give other members of the community and Beatmap Nominators a bit of time to think about whether they want to veto the placed bubble.
 + **Do not qualify over any manually popped bubble.** A manually popped bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
