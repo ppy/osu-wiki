@@ -75,7 +75,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[ShuChan!!\]](https://osu.ppy.sh/b/1165250)
 - [Zekk - Swampgator \[Alligator VIP\]](https://osu.ppy.sh/b/1241284)
 - [Camellia - Backbeat Maniac \[Rewind VIP\]](https://osu.ppy.sh/b/1242696)
-- [((LMB)) - Buntan ~Falling in "B" mix~ \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/b/1206728)
+- [((LMB)) - Buntan \~Falling in "B" mix\~ \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/b/1206728)
 - [DJKurara - Japanese Transformation \[Extra\]](https://osu.ppy.sh/b/1105693)
 - [LV.4 - Angel dust (2016 Radio Mix) \[Shift\]](https://osu.ppy.sh/b/1265848)
 - [xi - Let's madness \[R U Ready?\]](https://osu.ppy.sh/b/1118209)
