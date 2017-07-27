@@ -34,5 +34,5 @@ To make a checklist:
 ### Related Issues <!-- Delete this if you don't have any issues related to your PR -->
 
 <!-- If you have any issues related to this PR, link them here.
-ex: this resolves #589
+eg: this resolves #589
 -->
