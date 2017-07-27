@@ -61,7 +61,7 @@ Sections or bursts of extremely high speed or difficulty patterning in a beatmap
 
 Maps with high strain values are considered to be very, very difficult, and thus award very large sums of performance points if surmounted by a player's skill.
 
-## How does aim, speed, accuracy and strain combine to produce a pp score?
+### How does aim, speed, accuracy and strain combine to produce a pp score?
 
 **All four elements are considered in concert to determine how difficult a map is overall, and also how a particular score compares to what is considered the 'optimal' play for that beatmap.**
 
