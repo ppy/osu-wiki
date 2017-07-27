@@ -51,8 +51,8 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 | 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
 | 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
-| 16:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
 | 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
+| 21:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
 
 7月30日，星期日
 
