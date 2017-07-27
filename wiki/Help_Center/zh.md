@@ -1,91 +1,91 @@
-# Help Center
+# 帮助中心
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
+遇到了一些麻烦的问题？我们在这里提供帮助。你可以在页面左边的侧栏找到一些常见问题和它们的解决方法。
 
-## Account
+## 账号
 
-### I've paid for a supporter tag, but still have not received it!
+### 我已经支付了 supporter ，但是还没收到它！
 
-**Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**根据你使用的支付服务（Paypal 或 Xsolla)，你的支付到达我们这里可能会有些许的延迟。**
 
-Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
+通常，这样的问题会在几个小时内自动解决，我们的系统会自动为你的账号启用 supporter 身份。
 
-If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
+如果超过24小时，你还没有收到你的 supporter 身份，请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告知我们你的问题。
 
-Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
+请在邮件中包含你在支付过程中产生的订单（paypal 订单交易号(paypal transaction IDs)，Xsolla 订单等等）。这可以帮助我们追踪并调查你的订单。
 
-### What is "restricted" mode, exactly?
+### 什么是受限(restricted)状态，具体解释是？
 
-**A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**玩家的账号处于受限状态是指临时地被限制与社区的大部分接触方式，包括交流，加入多人游戏，在排行榜上显示自己的成绩。**
 
-They may continue to set scores locally and online (though the scores will not show until the status is lifted) and play the game like normal, with the exception of multiplayer.
+他们可以在本地或在线游戏中获取成绩（解除这个状态前不会显示在线成绩），正常地进行游戏，除了多人游戏。
 
-Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
+账号受限的情况相对而言很少发生，只有在你违反了我们的社区规定和服务条例，或者账号极其不正常的时候才会出现。
 
-In most cases, the status will be removed automatically after 24 hours. If such time has passed and you are still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh).
+在大多数情况下，这一状态会在24小时后自动消除。如果超过24小时你仍然处于受限状态，你可以将你的账号发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 告诉支持团队(support team)。
 
-If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
+如果你处于受限状态，请用上述方式，而不要创建一个新的账号解决这个问题。拥有多个账号（开小号）来躲避管理会造成更多的麻烦。
 
-### The flag on my account profile is wrong!
+### 我账号资料上的国旗是错误的！
 
-**We can change this for you, but only if you are actively living in the country that you wish to change to.**
+**我们可以为你修改，但是你所希望显示的国家必须是你实际生活的国家。**
 
-We determine your country as shown on your profile page from the area in which you first registered your account from. 
+我们从你首次注册账号时所处的区域检测出你所处的国家，并显示在你的资料上。
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+比如你在美国旅游时创建了一个账号，你的账号将会显示来自美国，你的国内成绩也会显示为美国。
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.** 
+支持团队很乐意处理你更换国家的请求，**但是国家必须是你现在实际生活的国家。**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
+为了确认这一点，我们会要求你提供居住证明材料——可以是护照，驾驶证或者其他证件。照片中必须包括证件和显示了登陆着你的账号的 osu! 客户端的电脑。
 
-We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
+我们不会将这个信息泄露给他人，如果你在意个人信息，你可以将任何个人信息遮住（但请确保通过证件可以确认你的国家）。
 
-### I've forgotten my username and password!
+### 我忘记了我的用户名和密码！
 
-**Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
+**请使用 [找回密码](https://osu.ppy.sh/p/forgot) 页面来找回你的账号，并提供你注册账号时所使用的邮箱。**
 
-If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
+如果这种方法没有成功 (或者你没法登陆你的注册邮箱), 请发邮件给 [support team](mailto:accounts@ppy.sh)， 并向我们提供尽可能多的可以证明你是账号拥有者的信息。
 
-Good information to include this email would be:
+邮件中最好包括以下信息：
 
-* The name of the email address that you registered the account on, or any other email the account has been associated with since
-* Any receipts for purchased osu!supporter tags or other items from the osu!store
-* The last date you can remember being able to access your account normally
-* Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+* 你注册账号时所使用的邮箱地址，或者其他与该账号有联系的邮箱地址。
+* supporter 或 osu! 商店中其他的商品的订单。
+* 你最后一次登陆账号的时间。
+* 其他任何你认为可能有帮助的证明信息（除了成绩或者回放）。
 
-### My account has been banned/disabled/permanently restricted!
+### 我的账号被封(banned)/被禁用(disabled)/永久受限(permanently restricted)！
 
-**Accounts are generally only disabled when they are confirmed to be multiple accounts belonging to the same user.**
+**通常，账号被确认为同一用户的多个账号（小号）时，会被禁用。**
 
-If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely log in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
+如果你是这种情况，这个被封的账号不是你所创建的第一个账号，你仍可以正常地登陆你的第一个注册账号。一般来说，被禁用的账号都是大部分时间不活跃的账号。
 
-If your account has been restricted, you'll likely know why after a brief conversation with the support team. 
+如果你的账号处于受限状态，你从支持团队简短的解释中得知原因。
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+一旦我们确认作弊或不正当行为的发生，我们会在你最后一次违规的**三个月**后再考虑你提出的解封申请。
 
-### My account has been stolen!
+### 我的账号被偷了！
 
-**Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid.**
+**尝试 [找回密码](https://osu.ppy.sh/p/forgot) 来确认你的账号邮箱还是否可用。**
 
-If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+如果可用，你可以自行重置你的账号密码。
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account. 
+如果不行，请立即发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，并尽可能地提供证明信息来帮助我们确定你是账号的拥有者。
 
-Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+由你的注册邮箱发送将会非常有帮助，提供一些只有账号的拥有者知道的信息也是一样。
 
-Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
+请不要包含成绩或者回放在你的邮件中——我们无法通过这些信息核实你是账号的拥有者。
 
-### Can I make more than one account?
+### 我可以拥有多个账号么?
 
-**Unfortunately, no, you can not.**
+**不，不行。**
 
-If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless! 
+如果我们允许每个人创建多个账号，成绩排行榜将会变得几乎没有意义。
 
-Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
+其他游戏也有会同样的众所周知的“小号(smurfs)”问题——拥有极少的游戏次数和总点击数，却占据大量排名位置，这样不利于玩家间的良性竞争。
 
-In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever.
+在 osu! 中，我们非常反对用户拥有多个账号，我们将一直实行严格的“一人一号”规定。
 
-You get to play on the first account you ever registered with us, and that's it!
+你所拥有的第一个注册账号，即是你唯一的账号！
 
 ### Is it possible to start over or have my account's statistics wiped?
 
@@ -126,7 +126,7 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 **This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
 
-If this happens to you, simply wait for a while and try to log in a little later. 
+If this happens to you, simply wait for a while and try to log in a little later.
 
 A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
 
@@ -439,7 +439,7 @@ In the event that another user is harassing you via private messages either on t
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
 3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You are done! 
+4. You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
@@ -536,7 +536,7 @@ Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filte
 
 **Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
+A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again.
 
 You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
 
@@ -644,7 +644,7 @@ Keep your computer clean and safe and you might notice an improvement.
 
 The only way to deal with this one is to upgrade your computer!
 
-#### Are your drivers up to date? 
+#### Are your drivers up to date?
 
 **Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
 
@@ -678,10 +678,10 @@ If it doesn't resolve, a reboot can sometimes help.
 
 **This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
+This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
- 
+
 Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
@@ -737,7 +737,7 @@ Each user has a limited number of maps they can simultaneously upload. Leaving a
 
 **This can happen if the creator of the beatmap is not properly set within the beatmap files.**
 
-In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included. 
+In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included.
 
 If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
 
@@ -803,7 +803,7 @@ Removing this residue may restore your LED to working condition. If it does, you
 
 **This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong. 
+Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong.
 
 To find out, perform the following steps:
 
@@ -815,7 +815,7 @@ To find out, perform the following steps:
 2. Gently plug the cable back into a USB slot on your system.
 3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. 
+If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
 If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
 
@@ -832,9 +832,9 @@ We can try to help you fix your issue with older tablet purchases, but the natur
 - Screw the grip back onto the pen.
 - Depress the button on the back end (eraser end) of the pen until it clicks.
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. 
+If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. 
+If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty.
 
 If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
 
@@ -891,7 +891,7 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial. 
+These files are extremely handy to have and can make solving even very complicated issues trivial.
 
 If a support team member has asked you for these logs, here's how to get them:
 
