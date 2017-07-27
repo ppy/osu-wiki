@@ -45,7 +45,9 @@ This month, **[Okorin](https://osu.ppy.sh/u/1623405)** brings us a more modern r
 
 [![](/wiki/shared/news/2017-07-22-beatmap-spotlights-june-2017/innocence.jpg)](https://osu.ppy.sh/s/557231)
 
-Calm, yet very intense - this describes both song and mapset. **[appleeaterx](https://osu.ppy.sh/u/2407160)** has fulfilled a great job in emphasizing the right spots of the music, to give the player the best feeling possible to fully enjoy it. Definitely give it a try!
+Mapping a song which consists out of low BPM, strong vocals and an accompaniment of touching instruments isn't an easy task to do. However, **[appleeaterx](https://osu.ppy.sh/u/2407160)** has succeeded in doing so with this mapset. He has combined the perfect slider velocity speed with the right amount of note density and well-placed accents, like slider slowdowns and beautiful arrangement of hitsounds to ensure the best possible gameplay for a player. 
+
+If you are bored of your generic anime-pp-jumpmap, definitely give this a try and experience an emotionally valuable beatmap.
 
 ## osu!taiko
 
