@@ -1,7 +1,7 @@
 Академия osu!
 ===============
 
-![osu!academy's logo](./img/osu!academy-logo.png "osu!academy logo")
+![osu!academy's logo](img/osu!academy-logo.png "osu!academy logo")
 
 Вступление
 ------------
