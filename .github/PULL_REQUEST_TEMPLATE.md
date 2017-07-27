@@ -31,7 +31,7 @@ To make a checklist:
 - [] Entry 2
 -->
 
-### Related Issues
+### Related Issues <!-- Delete this if you don't have any issues related to your PR -->
 
 <!-- If you have any issues related to this PR, link them here.
 ex: this resolves #589
