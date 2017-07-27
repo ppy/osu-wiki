@@ -25,7 +25,7 @@ The difficulty of the map you are playing one determines the end pp value of you
 
 To get into specifics, the formula relies on four core values, defined as **aim**, **speed**, **accuracy** and **strain**. 
 
-## What is aim?
+### What is aim?
 
 **Aim is considered as how difficult it is to consistently hit consecutive notes in a beatmap.**
 
@@ -35,7 +35,7 @@ Maps with very large jumps (in the case of _osu!standard_) are considered to be 
 
 Aim is not considered in gamemodes like _osu!taiko_ and _osu!mania_.
 
-## What is speed?
+### What is speed?
 
 **Speed is considered as the rate at which a beatmap presents elements for play.**
 
@@ -43,7 +43,7 @@ Maps with high numbers of hit objects in a short period of time are considered t
 
 Mods like DoubleTime and HalfTime significantly affect the speed of a beatmap as considered by the performance points algorithm.
 
-## What is accuracy?
+### What is accuracy?
 
 **Accuracy is considered as your individual performance and consistency in hitting objects within their designated timeframe.**
 
@@ -53,7 +53,7 @@ A score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% acc
 
 Mods like Hidden, Hard Rock and Flashlight are considered to significantly alter how difficult it is to attain an accurate score on a beatmap.
 
-## What is strain?
+### What is strain?
 
 **Strain is considered as how many times and for how long a player is subjected to high intensity sections within a particular beatmap.**
 
@@ -72,13 +72,13 @@ While the exact numbers are well beyond the scope of this article, certain gamem
 FAQ
 ===
 
-## Where can I view the performance ranking?
+### Where can I view the performance ranking?
 
 **The performance points ranking for all players can be found [here](https://osu.ppy.sh/p/pp).**
 
 You can also navigate to the rankings by using the `Ranking` dropdown panel at the top of the legacy web design, and choosing the `Performance` option.
 
-## How can I increase my rank/overall pp?
+### How can I increase my rank/overall pp?
 
 **Your performance is ranked predominately based on your scores on individual maps.**
 
@@ -91,7 +91,7 @@ Consider the following tips:
 - Aim to improve your accuracy. Even 1% makes a massive difference.
 - Aim for higher combos. Full combos (FC) or perfect (SS) scores give tremendous amounts of score.
 
-## Why didn't I gain the full amount of pp from a map I played?
+### Why didn't I gain the full amount of pp from a map I played?
 
 **Performance points use a _weighted_ system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
 
@@ -103,7 +103,7 @@ The first score is worth 100% of its total pp as it is your top score. The secon
 
 This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
 
-### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
+#### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
 
 **Yes, exactly.**
 
@@ -111,13 +111,13 @@ As above, older scores will eventually be weighted for less than a single percen
 
 At that point however, you would've set some comparatively more impressive scores, meaning that your pp will be higher overall.
 
-## Why did I lose pp for setting a new score?
+### Why did I lose pp for setting a new score?
 
 **You might occasionally lose pp for setting a higher combo score with worse accuracy, or playing with mods with worse accuracy overall.**
 
 Total score is still important to individual map rankings, and this may produce unusual circumstances where a higher overall score with lower accuracy or mod use factored in will produce a "better" result that still ultimately loses you pp.
 
-## Some mods feel very overweighted/underweighted. Why is this?
+### Some mods feel very overweighted/underweighted. Why is this?
 
 **This is a matter of opinion more than anything else.**
 
