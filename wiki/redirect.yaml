@@ -45,6 +45,11 @@
 "beatmap":                     "Beatmaps"
 "map":                         "Beatmaps"
 "maps":                        "Beatmaps"
+"ranked":                      "Beatmaps/#ranked"
+"approved":                    "Beatmaps/#approved"
+"qualified":                   "Beatmaps/#qualified"
+"pending":                     "Beatmaps/#pending"
+
 "beatmap_pack":                "Beatmaps/Packs"
 "beatmap_packs":               "Beatmaps/Packs"
 "beatmappack":                 "Beatmaps/Packs"
@@ -90,7 +95,7 @@
 "inner_oni":                   "Difficulties/osu!taiko/Ura_Oni"
 
 "do_you_really_want_to_ask_peppy": "Do_you_really_want_to_ask_peppy"
-"doyoureallywanttoaskpeppy":   "Do_you_really_want_to_ask_peppy"
+"doyoureallywanttoaskpeppy":       "Do_you_really_want_to_ask_peppy"
 
 "faq":                         "FAQ"
 
@@ -383,7 +388,9 @@
 "marathon":                    "Glossary/#marathon"
 "mat":                         "Glossary/#mat"
 "modding_assistance_team":     "Glossary/#mat"
+"mod_request":                 "Glossary/#mod-request"
 "modder":                      "Glossary/#modder"
+"modders":                     "Glossary/#modder"
 
 "nc_glossary":                 "Glossary/#nc"
 "glossary_nc":                 "Glossary/#nc"
@@ -415,7 +422,6 @@
 
 "rank":                        "Glossary/#rank"
 "ranks":                       "Glossary/#rank"
-"ranked":                      "Glossary/#rank"
 "ranking":                     "Glossary/#ranking"
 "rankings":                    "Glossary/#ranking"
 "recalc":                      "Glossary/#recalc"
@@ -860,6 +866,7 @@
 "beatmap_packs_0916":          "Medals/Beatmap_Packs_0916"
 
 "modding":                     "Modding"
+"modded":                      "Modding"
 
 "multi":                       "Multi"
 "multiplayer":                 "Multi"
@@ -913,16 +920,23 @@
 "owcg":                        "osu!wiki_contribution_guide"
 
 "people":                      "People"
-"beatmap_nomination_group":    "People/Beatmap_Nomination_Group"
-"beatmap_nominators":          "People/Beatmap_Nomination_Group"
-"beatmap_nominator":           "People/Beatmap_Nomination_Group"
-"bng":                         "People/Beatmap_Nomination_Group"
-"bn":                          "People/Beatmap_Nomination_Group"
-"bat":                         "People/Beatmap_Nomination_Group/#history"
-"beatmap_appreciation_team":   "People/Beatmap_Nomination_Group/#history"
+
+"beatmap_nomination_group":       "People/Beatmap_Nomination_Group"
+"beatmap_nominators":             "People/Beatmap_Nomination_Group"
+"beatmap_nominator":              "People/Beatmap_Nomination_Group"
+"bng":                            "People/Beatmap_Nomination_Group"
+"bn":                             "People/Beatmap_Nomination_Group"
+"bat":                            "People/Beatmap_Nomination_Group/#history"
+"beatmap_appreciation_team":      "People/Beatmap_Nomination_Group/#history"
+"beatmap_nomination_group_rules": "People/Beatmap_Nomination_Group/Rules"
+"beatmap_nominator_rules":        "People/Beatmap_Nomination_Group/Rules"
+"bng_rules":                      "People/Beatmap_Nomination_Group/Rules"
+"bn_rules":                       "People/Beatmap_Nomination_Group/Rules"
+
 "community_contributors":      "People/Community_Contributors"
 "community_contributor":       "People/Community_Contributors"
 "cc":                          "People/Community_Contributors"
+
 "global_moderation_team":      "People/Global_Moderation_Team"
 "global_moderators":           "People/Global_Moderation_Team"
 "global_moderator":            "People/Global_Moderation_Team"
@@ -931,20 +945,25 @@
 "gmt":                         "People/Global_Moderation_Team"
 "gm":                          "People/Global_Moderation_Team"
 "moderation_staff":            "People/Global_Moderation_Team"
+
 "language_moderators":         "People/Language_Moderators"
 "language_moderator":          "People/Language_Moderators"
 "language_mods":               "People/Language_Moderators"
 "language_mod":                "People/Language_Moderators"
 "lm":                          "People/Language_Moderators"
+
 "osu!_alumni":                 "People/osu!_Alumni"
 "osu!alumni":                  "People/osu!_Alumni"
 "alumni":                      "People/osu!_Alumni"
+
 "qat":                         "People/Quality_Assurance_Team"
 "quality_assurance_team":      "People/Quality_Assurance_Team"
+
 "support_team":                "People/Support_Team"
 "support_team_redux":          "People/Support_Team"
 "st":                          "People/Support_Team"
 "str":                         "People/Support_Team"
+
 "the_team":                    "People/The_Team"
 "team":                        "People/The_Team"
 "dev":                         "People/The_Team"
@@ -1054,7 +1073,7 @@
 
 "rules":                       "Rules"
 "rule":                        "Rules"
-"osu!:rules:":                 "Rules"
+"osu!:rules":                  "Rules"
 "rules_short":                 "Rules/Short"
 "rule_short":                  "Rules/Short"
 "short_rules":                 "Rules/Short"
@@ -1448,15 +1467,16 @@
 "tournament_drawings":         "Tournament_Drawings"
 "tournament_drawing":          "Tournament_Drawings"
 
-"tournaments":                 "Tournaments"
+"tournament_management_commands": "Tournament_Management_Commands"
+"tmc":                            "Tournament_Management_Commands"
 
-"cmt_4k":                      "Tournaments/CMT_4K"
-"cmt_4k_2017":                 "Tournaments/CMT_4K/2017"
+"tournaments":                 "Tournaments"
 
 "countries_that_participated_in_osu!_tournaments": "Tournaments/Countries_that_participated_in_osu!_tournaments"
 "cpot":                                            "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
-"cwc":                         "Tournaments/CWC"
+"cwc":                         "Tournaments/#catch-the-beat-world-cup"
+"tournaments/cwc":             "Tournaments/#catch-the-beat-world-cup"
 "cwc2014":                     "Tournaments/CWC/2014"
 "cwc_2014":                    "Tournaments/CWC/2014"
 "cwc2015":                     "Tournaments/CWC/2015"
@@ -1466,6 +1486,8 @@
 "cwc2017":                     "Tournaments/CWC/2017"
 "cwc_2017":                    "Tournaments/CWC/2017"
 
+"mwc":                         "Tournaments/#osumania-world-cup"
+"tournaments/mwc":             "Tournaments/#osumania-world-cup"
 "mwc2014":                     "Tournaments/MWC/2014"
 "mwc_2014":                    "Tournaments/MWC/2014"
 "mwc2015":                     "Tournaments/MWC/2015"
@@ -1484,7 +1506,8 @@
 "osu!_tag_team_multiplayer_tournament": "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
 "ottmt":                                "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
 
-"owc":                         "Tournaments/OWC"
+"tournaments/owc":             "Tournaments/#osu-world-cup"
+"owc":                         "Tournaments/#osu-world-cup"
 "owc1":                        "Tournaments/OWC/1"
 "owc_1":                       "Tournaments/OWC/1"
 "owc2":                        "Tournaments/OWC/2"
@@ -1497,11 +1520,8 @@
 "owc2016":                     "Tournaments/OWC/2016"
 "owc_2016":                    "Tournaments/OWC/2016"
 
-"rmot_invitational_2":         "RMoT_Invitational_2"
-"rmot2":                       "Tournaments/RMoT_Invitational/2"
-"rmot_2":                      "Tournaments/RMoT_Invitational/2"
-
-"twc":                         "Tournaments/TWC"
+"tournaments/twc":             "Tournaments/#taiko-world-cup"
+"twc":                         "Tournaments/#taiko-world-cup"
 "twc2011":                     "Tournaments/TWC/2011"
 "twc_2011":                    "Tournaments/TWC/2011"
 "twc2014":                     "Tournaments/TWC/2014"
@@ -1512,6 +1532,13 @@
 "twc_2016":                    "Tournaments/TWC/2016"
 "twc2017":                     "Tournaments/TWC/2017"
 "twc_2017":                    "Tournaments/TWC/2017"
+
+"rmoti":                       "Tournaments/#rapid-monthly-osu-tournament-invitationals"
+"rmoti_2":                     "Tournaments/RMoT_Invitational/2"
+"rmoti2":                      "Tournaments/RMoT_Invitational/2"
+
+"cmt_4k":                      "Tournaments/#chinese-osumania-4k-tournament"
+"cmt_4k_2017":                 "Tournaments/CMT_4K/2017"
 
 "twitter":                     "Twitter"
 
