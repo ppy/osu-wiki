@@ -1,8 +1,8 @@
 奖章
 ======
 
-奖章，曾被称为_成就_，是在用户个人资料页面中显示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
-当前有5种奖章：[曲包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod初体验](#mod-introduction)，和[隐藏](#hush-hush).
+奖章，曾被称为_成就_，是在用户个人资料页面中展示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
+当前有5种奖章：[曲包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod 初体验](#mod-introduction)，和[隐藏](#hush-hush).
 
 曲包
 -------------
@@ -63,7 +63,7 @@
 与谱面难度有关的奖章也能被分为两类：_Pass（通过）_与 _S_。
 _Pass（通过）_奖章的获取条件：完成任何一张指定星级的谱面。
 _S_奖章的获取条件：完成一张指定星级的谱面且获得S评价，并且达成[全连](/wiki/FC).
-谱面的星级将被四舍五入到最近的整数，并将给予玩家对应的奖章。
+谱面的星级将取与其最接近的整数，并将给予玩家对应的奖章。
 使用难度增加或难度减少的 mods 来完成谱面或取得S评价也会计入奖章获取条件。
 The map must also be ranked to be able to earn a medal.
 Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
@@ -76,25 +76,26 @@ Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are 
 毅力
 ----------
 
-The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+毅力奖章会随着您游戏的深入而自然获得。尝试在 osu!standard 模式中完成更多的谱面，在 osu!catch 中接到更多的水果，在 osu!taiko 中对着咚咔猛打，在 osu!mania 中按更多的键数，就可以得到相应的奖章！
 
 | osu!standard | osu!taiko | osu!catch | osu!mania |
 | :----------: | :-------: | :-------: | :-------: |
-| ![5,000 Plays (osu!standard mode)](img/osu-plays-5000.png "5,000 Plays (osu!standard mode)") | ![30,000 Drum Hits](img/taiko-hits-30000.png "30,000 Drum Hits") | ![Catch 20,000 fruits](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![40,000 Keys](img/mania-hits-40000.png "40,000 Keys") |
-| ![15,000 Plays (osu!standard mode)](img/osu-plays-15000.png "15,000 Plays (osu!standard mode)") | ![300,000 Drum Hits](img/taiko-hits-300000.png "300,000 Drum Hits") | ![Catch 200,000 fruits](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![400,000 Keys](img/mania-hits-400000.png "400,000 Keys") |
-| ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
-| ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
+| ![玩 5,000 次(osu!standard)](img/osu-plays-5000.png "5,000 Plays (osu!standard mode)") | ![击 30,000 次鼓](img/taiko-hits-30000.png "30,000 Drum Hits") | ![接 20,000 个水果](img/fruits-hits-20000.png "Catch 20,000 fruits") | ![按 40,000 个键](img/mania-hits-40000.png "40,000 Keys") |
+| ![玩 15,000 次(osu!standard)](img/osu-plays-15000.png "15,000 Plays (osu!standard mode)") | ![击 300,000 次鼓](img/taiko-hits-300000.png "300,000 Drum Hits") | ![接 200,000 个水果](img/fruits-hits-200000.png "Catch 200,000 fruits") | ![按 400,000 个键](img/mania-hits-400000.png "400,000 Keys") |
+| ![玩 25,000 次(osu!standard)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![击 3,000,000 次鼓](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![接 2,000,000 个水果](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![按 4,000,000 个键](img/mania-hits-4000000.png "4,000,000 Keys") |
+| ![玩50,000次(osu!standard)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![击 30,000,000 次鼓](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![接 20,000,000 个水果](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![按 40,000,000 个键](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Mod Introduction
+Mod 初体验
 ----------------
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+_请参考：[Game Modifiers（即 Mod）](/wiki/Game_Modifiers)._
 
-The Mod Introduction medals can be obtained by clearing maps with the specified game modifier.
-They are meant to encourage newer players to try out each mod and explore what the game has to offer.
-Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn _any_ of the game modifier medals for that play.
+Mod 初体验类奖章可以通过初次使用相应的 Mod 来完成谱面获得。
+它们被用来激励玩家主动尝试、体验游戏提供的各种不同的 Mod。
 
-| Difficulty Increasing | Difficulty Reducing | Special |
+特别注意，如果在一次游玩中使用了2个或更多的 Mod ，那么这次游玩**不会**给玩家计入_任何一枚奖章_的获取条件。
+
+| 提高难度 | 降低难度 |  |
 | :---- | :---: | :---: |
 | ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Easy](img/all-intro-easy.png "Easy") | ![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
 | ![Double Time](img/all-intro-doubletime.png "Double Time") ![Nightcore](img/all-intro-nightcore.png "Nightcore") | ![Half Time](img/all-intro-halftime.png "Half Time") | ![Relax](img/all-intro-relax.png "Relax") |
@@ -102,7 +103,7 @@ Do note that if the player plays with multiple game modifiers at a time, the pla
 | ![Hidden](img/all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
-Hush-Hush
+隐藏
 ---------
 
 Medals of this kind have no obvious way to get them.
