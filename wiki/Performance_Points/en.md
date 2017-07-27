@@ -19,7 +19,55 @@ It continued to exist in this capacity for more than a year of service, until [T
 How is pp calculated?
 =====================
 
+Performance points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode. 
 
+The difficulty of the map you are playing one determines the end pp value of your score.
+
+To get into specifics, the formula relies on four core values, defined as **aim**, **speed**, **accuracy** and **strain**. 
+
+## What is aim?
+
+**Aim is considered as how difficult it is to consistently hit consecutive notes in a beatmap.**
+
+Elements like approach rate (AR) and certain mods (namely Flashlight, Hidden and HardRock) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
+
+Maps with very large jumps (in the case of _osu!standard_) are considered to be high-aim maps, and are thus often given very high pp scores. Maps with lots of hyperdashing in _osu!catch_ will be considered similarly.
+
+Aim is not considered in gamemodes like _osu!taiko_ and _osu!mania_.
+
+## What is speed?
+
+**Speed is considered as the rate at which a beatmap presents elements for play.**
+
+Maps with high numbers of hit objects in a short period of time are considered to have very high speed values. 
+
+Mods like DoubleTime and HalfTime significantly affect the speed of a beatmap as considered by the performance points algorithm.
+
+## What is accuracy?
+
+**Accuracy is considered as your individual performance and consistency in hitting objects within their designated timeframe.**
+
+Highly accurate scores are considered to be very skilful by the performance points algorithm and will award very large scores compared to scores that are not accurate.
+
+A score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% accuracy, for example.
+
+Mods like Hidden, Hard Rock and Flashlight are considered to significantly alter how difficult it is to attain an accurate score on a beatmap.
+
+## What is strain?
+
+**Strain is considered as how many times and for how long a player is subjected to high intensity sections within a particular beatmap.**
+
+Sections or bursts of extremely high speed or difficulty patterning in a beatmap will massively increase its considered strain values.
+
+Maps with high strain values are considered to be very, very difficult, and thus award very large sums of performance points if surmounted by a player's skill.
+
+## How does aim, speed, accuracy and strain combine to produce a pp score?
+
+**All four elements are considered in concert to determine how difficult a map is overall, and also how a particular score compares to what is considered the 'optimal' play for that beatmap.**
+
+The algorithm for performance points varies significantly depending on gamemode.
+
+While the exact numbers are well beyond the scope of this article, certain gamemodes place greater precedence on certain statistics due to their individual mechanics.
 
 FAQ
 ===
