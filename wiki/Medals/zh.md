@@ -15,16 +15,16 @@
 
 | 电子游戏曲包 | 动漫曲包 | 网络歌曲曲包 | 音乐游戏曲包 |
 | :--------------: | :----------: | :------------: | :--------------: |
-| ![电子游戏曲包1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![动漫曲包1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![网络歌曲曲包 1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![音乐游戏谱面包1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
-| ![电子游戏曲包2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![动漫曲包2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![网络歌曲曲包 2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![音乐游戏曲包2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
-| ![电子游戏曲包3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![动漫曲包3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![网络歌曲曲包 3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![音乐游戏曲包3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
-| ![电子游戏曲包4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![动漫曲包4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![网络歌曲曲包 4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![音乐游戏曲包4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
+| ![电子游戏曲包 1](img/all-packs-gamer-1.png "Video Game Pack vol.1") | ![动漫曲包 1](img/all-packs-anime-1.png "Anime Pack vol.1") | ![网络歌曲曲包 1](img/all-packs-internet-1.png "Internet Pack vol.1") | ![音乐游戏谱面包 1](img/all-packs-rhythm-1.png "Rhythm Pack vol.1") |
+| ![电子游戏曲包 2](img/all-packs-gamer-2.png "Video Game Pack vol.2") | ![动漫曲包 2](img/all-packs-anime-2.png "Anime Pack vol.2") | ![网络歌曲曲包 2](img/all-packs-internet-2.png "Internet Pack vol.2") | ![音乐游戏曲包 2](img/all-packs-rhythm-2.png "Rhythm Pack vol.2") |
+| ![电子游戏曲包 3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![动漫曲包 3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![网络歌曲曲包 3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![音乐游戏曲包 3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
+| ![电子游戏曲包 4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![动漫曲包 4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![网络歌曲曲包 4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![音乐游戏曲包 4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
 ### 要求
 
 - 玩家必须完成某个[曲包](https://osu.ppy.sh/p/packlist?t=t)每张谱面的任意难度至少一次。
 - 游戏模式必须是osu!standard。
-- 将曲包中的`.zip`文件解压到`Songs`文件夹下。
+- 将曲包的`.rar`文件解压到`Songs`文件夹下。
   打开osu!client，让客户端加载这些谱面，然后您就能开始游戏了。
   - 如果您不想这么做，您也可以逐一下载曲包中的每张谱面，成绩仍会计入。
 - 全过程中只认定对应谱面的成绩，任何（例如其他谱面作者的）其它谱面都不会计入奖牌获取条件。
