@@ -1,79 +1,79 @@
 # 帮助中心
 
-遇到了一些麻烦的问题？我们在这里提供帮助。你可以在页面左边的侧栏找到一些常见问题和它们的解决方法。
+遇到了一些麻烦的问题？我们在这里提供帮助。您可以在页面左边的侧栏找到一些常见问题和它们的解决方法。
 
 ## 账号
 
-### 我已经支付了 supporter ，但是还没收到它！
+### 我已经购买了 supporter ，但是还没收到它！
 
-**根据你使用的支付服务（Paypal 或 Xsolla)，你的支付到达我们这里可能会有些许的延迟。**
+**根据您使用的支付服务（Paypal 或 Xsolla)，支付结果到达我们这里可能会有些许的延迟。**
 
-通常，这样的问题会在几个小时内自动解决，我们的系统会自动为你的账号启用 supporter 身份。
+通常，这样的问题会在几个小时内自动解决，我们的系统会自动为您的账号启用 supporter 身份。
 
-如果超过24小时，你还没有收到你的 supporter 身份，请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告知我们你的问题。
+如果超过24小时，您还没有收到您的 supporter 身份，请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告知我们您的问题。
 
-请在邮件中包含你在支付过程中产生的订单（paypal 订单交易号(paypal transaction IDs)，Xsolla 订单等等）。这可以帮助我们追踪并调查你的订单。
+请在邮件中包含您在支付过程中产生的订单（paypal 订单交易号(paypal transaction IDs)，Xsolla 订单等等）。这可以帮助我们追踪并调查您的订单。
 
 ### 什么是受限(restricted)状态，具体解释是？
 
-**玩家的账号处于受限状态是指临时地被限制与社区的大部分接触方式，包括交流，加入多人游戏，在排行榜上显示自己的成绩。**
+**玩家的账号处于受限状态，是指暂时被限制与社区的互动，包括交流、加入多人游戏、在排行榜上显示自己的成绩。**
 
 他们可以在本地或在线游戏中获取成绩（解除这个状态前不会显示在线成绩），正常地进行游戏，除了多人游戏。
 
-账号受限的情况相对而言很少发生，只有在你违反了我们的社区规定和服务条例，或者账号极其不正常的时候才会出现。
+账号受限的情况相对而言很少发生，只有在您违反了我们的社区规定和服务条例，或者账号账号行为不正常的时候才会出现。
 
-在大多数情况下，这一状态会在24小时后自动消除。如果超过24小时你仍然处于受限状态，你可以将你的账号发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 告诉支持团队(support team)。
+在大多数情况下，这一状态会在24小时后自动消除。如果超过24小时您仍然处于受限状态，您可以发邮件给支持团队 [accounts@ppy.sh](mailto:accounts@ppy.sh) 询问您的账号情况。
 
-如果你处于受限状态，请用上述方式，而不要创建一个新的账号解决这个问题。拥有多个账号（开小号）来躲避管理会造成更多的麻烦。
+如果您处于受限状态，请用上述方式，而不要创建一个新的账号解决这个问题。拥有多个账号（开小号）来躲避管理会造成更多的麻烦。
 
 ### 我账号资料上的国旗是错误的！
 
-**我们可以为你修改，但是你所希望显示的国家必须是你实际生活的国家。**
+**我们可以为您修改，但是您所希望显示的国家必须是您实际生活的国家。**
 
-我们从你首次注册账号时所处的区域检测出你所处的国家，并显示在你的资料上。
+我们从您首次注册账号时所处的区域检测出您所处的国家，并显示在您的资料上。
 
-比如你在美国旅游时创建了一个账号，你的账号将会显示来自美国，你的国内成绩也会显示为美国。
+比如您在美国旅游时创建了一个账号，您的账号将会显示您来自美国——您的国家排名(country rankings)也会显示为美国。
 
-支持团队很乐意处理你更换国家的请求，**但是国家必须是你现在实际生活的国家。**
+支持团队很乐意处理您更换国家的请求，**但是国家必须是您现在实际生活的国家。**
 
-为了确认这一点，我们会要求你提供居住证明材料——可以是护照，驾驶证或者其他证件。照片中必须包括证件和显示了登陆着你的账号的 osu! 客户端的电脑。
+为了确认这一点，我们会要求您提供居住证明材料——可以是护照，驾驶证或者其他证件。照片中必须包括证件和显示着登陆了您的账号的 osu! 客户端的电脑。
 
-我们不会将这个信息泄露给他人，如果你在意个人信息，你可以将任何个人信息遮住（但请确保通过证件可以确认你的国家）。
+我们不会将这个信息泄露给他人，如果您在意个人信息，您可以将任何个人信息遮住（但请确保通过证件可以确认您的国家）。
 
 ### 我忘记了我的用户名和密码！
 
-**请使用 [找回密码](https://osu.ppy.sh/p/forgot) 页面来找回你的账号，并提供你注册账号时所使用的邮箱。**
+**请使用 [找回密码](https://osu.ppy.sh/p/forgot) 页面来找回您的账号，并提供您注册账号时所使用的有效邮箱**
 
-如果这种方法没有成功 (或者你没法登陆你的注册邮箱), 请发邮件给 [support team](mailto:accounts@ppy.sh)， 并向我们提供尽可能多的可以证明你是账号拥有者的信息。
+如果这种方法没有成功 (或者您没法登陆您的注册邮箱), 请发邮件给 [support team](mailto:accounts@ppy.sh)， 并向我们提供尽可能多的可以证明您是账号拥有者的信息。
 
 邮件中最好包括以下信息：
 
-* 你注册账号时所使用的邮箱地址，或者其他与该账号有联系的邮箱地址。
+* 您注册账号时所使用的邮箱地址，或者其他与该账号有联系的邮箱地址。
 * supporter 或 osu! 商店中其他的商品的订单。
-* 你最后一次登陆账号的时间。
-* 其他任何你认为可能有帮助的证明信息（除了成绩或者回放）。
+* 您能记得的最后一次正常使用账号的日期。
+* 其他任何您认为可能有帮助的证明信息（除了成绩或者回放）。
 
 ### 我的账号被封(banned)/被禁用(disabled)/永久受限(permanently restricted)！
 
 **通常，账号被确认为同一用户的多个账号（小号）时，会被禁用。**
 
-如果你是这种情况，这个被封的账号不是你所创建的第一个账号，你仍可以正常地登陆你的第一个注册账号。一般来说，被禁用的账号都是大部分时间不活跃的账号。
+如果您是这种情况，这个被封的账号不是您所创建的第一个账号，您仍可以正常地登陆您的第一个注册账号。一般来说，被禁用的账号都是大部分时间不活跃的账号。
 
-如果你的账号处于受限状态，你从支持团队简短的解释中得知原因。
+如果您的账号处于受限状态，您多半可以从支持团队简短的解释中得知原因。
 
-一旦我们确认作弊或不正当行为的发生，我们会在你最后一次违规的**三个月**后再考虑你提出的解封申请。
+一旦我们确认作弊或不正当行为的发生，我们会在要求您至少等待**三个月**的时间（从最后一次违规开始），再考虑您提出的解封申请。
 
-### 我的账号被偷了！
+### 我的账号被盜了！
 
-**尝试 [找回密码](https://osu.ppy.sh/p/forgot) 来确认你的账号邮箱还是否可用。**
+**尝试 [找回密码](https://osu.ppy.sh/p/forgot) 来确认您的账号邮箱还是否可用。**
 
-如果可用，你可以自行重置你的账号密码。
+如果可用，您可以自行重置您的账号密码。
 
-如果不行，请立即发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，并尽可能地提供证明信息来帮助我们确定你是账号的拥有者。
+如果不行，请立即发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，并尽可能地提供证明信息来帮助我们确定您是账号的拥有者。
 
-由你的注册邮箱发送将会非常有帮助，提供一些只有账号的拥有者知道的信息也是一样。
+由您的注册邮箱发送将会非常有帮助，提供一些只有账号的拥有者知道的信息也是一样。
 
-请不要包含成绩或者回放在你的邮件中——我们无法通过这些信息核实你是账号的拥有者。
+请不要包含成绩或者回放在您的邮件中——我们无法通过这些信息核实您是账号的拥有者。
 
 ### 我可以拥有多个账号么?
 
@@ -83,177 +83,177 @@
 
 其他游戏也有会同样的众所周知的“小号(smurfs)”问题——拥有极少的游戏次数和总点击数，却占据大量排名位置，这样不利于玩家间的良性竞争。
 
-在 osu! 中，我们非常反对用户拥有多个账号，我们将一直实行严格的“一人一号”规定。
+在 osu! 中，我们非常反对用户拥有多个账号，我们将一直实行严格地“一人一号”规定。
 
-你所拥有的第一个注册账号，即是你唯一的账号！
+您所拥有的第一个注册账号，即是您唯一的账号！
 
-### Is it possible to start over or have my account's statistics wiped?
+## 可以重置或者清除我账号上的数据记录么？
 
-**Not at the moment.**
+**现在不可以。**
 
-We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
+针对一些希望看到数据记录非常完美的强迫症玩家，我们正在考虑可以在 osu! 商店中购买并“重置成绩”，但是目前来说，我们无法为您清除账号上的数据记录。
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
+这并不意味你可以创建一个新的账号来达到这一目的！我们的社区对多个账号（开小号）行为非常angry，将会禁用(disable)掉引起我们注意的这种账号。
 
-### Can I change my account's username?
+### 我可以修改用户名么?
 
-**Yes, absolutely!**
+**当然可以！**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+如果你购买（或者被赠送）[supporter 身份](https://osu.ppy.sh/home/support)，你将会获得**一次**免费改名的机会。改名卡可以在 [osu! 商店](https://store.ppy.sh/store/product/32) 中兑换。
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on. We do this to prevent people from abusing the system to change their names in rapid succession.
+在这之后，你可以购买改名卡来改名，而每次改名将会越来越贵——第二次需要8刀，第三次需要16刀，以此类推。这么做是为了防止用户滥用改名系统来频繁修改用户名。
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email.
+如果你改名时弄错了，比如大小写、语法、拼写错误，你可以发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 请求更正这些问题。这样的改名是免费的，但是你**必须**通过邮件申请。
 
-### Can I take another player's username?
+### 我可以使用别的玩家的用户名么?
 
-**Yes, but only under certain circumstances.**
+**可以，但是需要在一个确定的周期以后**
 
-If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+如果一个玩家6个月没有登陆游戏，他们的用户名被回收，其他玩家可以在 [osu! 商店 改名页面]中支付并使用这些用户名。
 
-For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
+对于所有游戏模式，每500次打图，将会增加1年（365天）的回收周期。这样是为了防止有人冒用最近退坑的玩家的用户名。
 
 
-### Can I play on a computer that another osu! user has used before?
+### 我可以在其他玩家玩过的电脑上打图么？
 
-**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
+**当然可以。包括像网吧这类公共电脑上打图。**
 
-So long as you are playing on only your own account, you can play *osu!* anywhere.
+只要你玩的是你自己的账号，你可以在任何地方玩 *osu!*
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+如果你在公共电脑上，请注意你的账号安全。公共电脑是恶意软件的主要目标。
 
-### The website is telling me that I have tried to log in too many times!
+### 网站提示我我已经尝试登陆很多次！
 
-**This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
+**这是你多次登陆失败后的保护措施，请10-20分钟后再尝试登陆。**
 
-If this happens to you, simply wait for a while and try to log in a little later.
+如果你遇到了这种情况，只需等一会儿再登陆。
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
+最多数小时后，登陆限制会解除，可以再次登陆。
 
 ----------------------------------------------------------------------------
 
-## Client
+## 客户端
 
-### osu! freezes when I click a link or multiplayer map!
+### 当我点击一个链接或多人游戏的铺面是，osu! 停止运行！
 
-**Make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
+**请确认你没有在兼容模式下运行 osu!，并且你已经设置了一个系统默认的浏览器。**
 
-This issue is sometimes caused by an interaction with compatibility mode, and can also be caused by the game simply not finding a default browser to open the web page link with.
+这个问题有时会在兼容模式下发生，也会因为游戏无法找到一个默认的浏览器来打开网页而发生。
 
-#### Is your game running under Windows compatibility mode?
+### 我的游戏在兼容模式下运行么？
 
-To check or change if your game is running in compatibility mode under Windows, try the following steps:
+通过以下几个步骤，可以检查你的游戏是否在兼容模式下运行：
 
-1. Open your osu! installation folder and look for `osu!.exe`.
-2. Right click on `osu!.exe` and select `Properties` from the dropdown menu.
-3. Navigate to the `Compatibility` tab.
-4. Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
-5. If this checkbox is ticked, click it once more to disable the functionality.
-6. If your game is already open, close the client and reopen the game once more.
+1. 打开你的 osu! 安装文件夹，找到 `osu!.exe`。
+2. 右键单击 `osu!.exe`，在下拉菜单中点击`属性`。
+3. 找到并打开`兼容性`标签页。
+4. 在`兼容模式`中，检查`以兼容模式运行这个程序`的复选框是否已勾选。
+5. 如果复选框已勾选，再点击一次来禁用该功能。
+6. 如果你的游戏正在运行，关闭客户端并再次打开它。
 
-#### Do you have a default web browser set?
+#### 我设置了默认浏览器么？
 
-**Under the vast majority of all circumstances, most Windows installations will have a default web browser set.**
+**在绝大多数情况下，Windows 系统设置了默认浏览器。**
 
-To check, try the following steps (under Windows 8 and above):
+通过以下几个步骤检查（对于 Windows 8 及以上的版本）：
 
-1. Open the Start menu.
-2. Type `default` into the search bar within the Start menu.
-3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
-4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
+1. 打开开始菜单。（快捷键：win 键 + Q）
+2. 在开始菜单的搜索栏中输入`默认`。
+3. 如果你看到`默认程序`，点击它。如果没有，展开搜索结果并找到`默认程序`。
+4. 滚动到 `Web 浏览器`，确认所设置的浏览器已经正确地安装在电脑上。
 
-### I can't login or connect to the game at all!
+### 我无法登陆或连接游戏！
 
-**Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
+**确认 osu! 可以正常地通过防火墙连接互联网，并且你电脑上安装的杀毒软件的设置正确。**
 
-Here are a few ways of allowing applications to have internet access through several common anti-virus suites:
+这里有一些使软件正常连接互联网和正确设置杀毒软件的方法：
 
-#### Allowing a program through Windows Firewall
+#### 允许程序通过 Windows 防火墙
 
-**On most Windows installations, Windows Firewall will be the default firewall software.**
+**在大部分 Windows 中，Windows 防火墙是默认的防火墙软件。**
 
-To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
+为了确保 osu! 可以连接互联网，我们需要允许它通过 Windows 防火墙。以下是如何检查并将 osu! 加入允许的程序列表。
 
-1. Open the Start menu.
-2. Type `allow an app` into the search bar within the Start menu.
-3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
-5. Look for `osu!` or `osu!.exe`.
-6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
-7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
+1. 打开开始菜单。（快捷键：win 键 + Q）
+2. 在开始菜单的搜索栏中输入`允许程序`。
+3. 你应该可以看到结果中包含`允许应用通过 Windows 防火墙`，点击它。
+4. 一个带有两列复选框和程序列表的面板被打开。点击任何程序，然后输入 `o`，列表会滚动到所有以 `o` 开头程序的位置。
+5. 找到 `osu!` 或者 `osu!.exe`。
+6. 如果没有任何结果，在面板的底部点击`允许其他应用`，并找到你的 osu! 安装目录，选择 `osu!.exe`。
+7. 确认`专用`和`公用`的复选框都已勾选。点击`确认`来保存你的设置，然后再次尝试。
 
-#### Allowing a program through AVG Firewall
+#### 允许程序通过 AVG 防火墙
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
+请参考 AVG [官方的详细指导](https://support.avg.com/SupportArticleView?urlName=Allow-application-in-AVG-Firewall)。
 
-#### Allowing a program through Kaspersky Security Center
+#### 在卡巴斯基安全中心允许程序
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone.
+请参考卡巴斯基[官方的帮助文档](https://support.kaspersky.com/7834)来将程序添加到信任区中。
 
-#### Allowing a program through McAfee
+#### 在允许程序迈克菲中允许程序
 
-Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
+请参考迈克菲[官方的详细指导](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813)。
 
-#### I've added osu! to my firewall but I still can't connect to the game!
+#### 我已经将 osu! 添加到防火墙列表中但仍然无法连接！
 
-**We will need extra information from you to help sort this out.**
+**我们需要更多的信息来帮助你解决这个问题。**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
+如果你仍然无法连接游戏服务器，请通过发送一封电子邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 的方式向我们寻求帮助。以下信息可以帮我们快速解决你的问题：
 
-* A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-* The `network.log` file from the `Logs` folder in your osu! installation directory
+* 对服务器 `cho.ppy.sh`，`osu.ppy.sh` 和 `m1.ppy.sh` 使用`tracert`命令，得到的路由追踪日志。（介绍见下方）
+* osu! 安装目录下，`Logs` 文件夹中的 `network.log` 文件。
 
-##### Running a trace route to troubleshoot connection issues
+##### 运行路由追踪来修复连接问题
 
-**A trace route will help us detect exactly where the problem is between you and our servers.**
+**路由追踪可以帮助我们准确的定位你和服务器中出现问题的地方。**
 
-You can perform a trace route by opening Command Prompt and running the command `tracert`.
+你可以通过打开控制台，运行命令 `tracert` 的方式来运行路由追踪。
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
+按住 `Win 键`并按下 `R`，打开命令对话框，输入 `cmd` 并点击回车。[更多内容，请参考 Windows 的相关文章](https://support.microsoft.com/zh-cn/kb/314868)。
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
+然后在控制台输入路由追踪的命令。比如，命令 `tracert cho.ppy.sh` 将会追踪互联网中你的电脑到游戏服务器的连接。路由追踪需要一些时间，有时需要一分钟，取决于你的网络状况。
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
+我们需要这些服务器的路由追踪结果：`cho.ppy.sh`，`osu.ppy.sh` 和 `m1.ppy.sh`。
 
-To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
+按住鼠标拖动，从底部到顶部选择输出结果，被选中的部分会显示为白色，右键单击，将内容复制到你的剪切板。
 
-### My PC reboots while playing osu!
+### 我的电脑在玩 osu! 的时候重启！
 
-**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
+**大多数时候，这是由于你的电脑硬件过热造成的，通常是显卡或者 CPU。**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
+为了查明原因，我们建议你使用 GPU/CPU 温度监测软件，在你玩 osu! 时留意一下温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy)。
 
-If you notice either your GPU or CPU temperature exceeding values of 90C or 194F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
+如果你注意到你的 GPU 或者 CPU 温度超过 90C 或 194F，你的电脑正在过热和有自动重启危险的状态中。
 
-#### How can I make osu! run cooler if my computer is overheating?
+### 如果电脑过热，我应该如何使 osu! 正常运行？
 
-**The easiest way is to change your frame limiter settings.**
+**最简单的做法是修改你的帧数限制设置。**
 
-To check what your frame limiter is set to, follow these steps:
+通过以下几个步骤检查你的帧数限制设置：
 
-1. Open *osu!*.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `frame` into the quick-search to bring up the frame limiter options.
+1. 打开 *osu!*。
+2. 进入`选项`菜单，或者按下 `Ctrl` + `O`。
+3. 输入在快速搜索中输入 `frame` 并找到相关设置。
 
-If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
+如果你的帧数限制被设置为`无限制`，通过以下三个选项中的其中一个，可以让情况有显著的改变。
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
+`垂直同步`将会以与你的主显示器一样的帧率运行游戏，`120fps` 和 `240fps` 将会以2倍或者4倍的平均刷新频率运行游戏。
 
-We recommend using `VSync` in situations where heat is an issue.
+推荐使用`垂直同步`来解决硬件过热问题。
 
-You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
+你也可以使用其他工具来控制你的 CPU 的 GPU 的风扇转速。
 
-#### My computer isn't overheating, but the game still causes my computer to reboot!
+#### 我的电脑没有过热，但是游戏仍然使我的电脑重启！
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
+**除了过热，另外一个非常普遍的原因是声卡问题，还有就是有你的电脑硬件出现故障。**
 
-Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
+老旧的声卡硬件或软件会引发 osu! 的运行错误，但对大多数人而言都不是大问题。请尝试更换你的声卡或主板。
 
-You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
+你也可以拔下一下有故障的 USB 设备，特别是会影响声音的设备。如果相关接口有故障，耳机或 USB 声卡偶尔也会引发运行错误。
 
-#### It's still happening!
+#### 问题仍然存在！
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
+如果这些都没有帮你解决问题，请发送邮件到 [accounts@ppy.sh](mailto:accounts@ppy.sh)，告诉我们关于问题的更多信息——包括电脑的配置，型号和其他可以帮助我们找出问题所在的信息。
 
 ### I have changed my settings, and now I can't start osu! or it freezes.
 
