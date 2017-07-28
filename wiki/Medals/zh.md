@@ -106,9 +106,8 @@ Mod 初体验类奖章可以通过初次使用相应的 Mod 来完成谱面获�
 隐藏
 ---------
 
-Medals of this kind have no obvious way to get them.
-The player must find out what needs to be done in order to unlock the medal.
-The title itself is a clue.
+一看这个类别的名字就知道，我是不会告诉你们怎么才能得到隐藏奖章的！
+每位玩家必须通过摸索，猜测如何得到这枚奖章。唯一的线索就是奖章的名字。
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -120,8 +119,8 @@ The title itself is a clue.
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
-Trivia
+其它
 ------
 
-- [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Beatmap_Packs_0916)
-- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
+- [查看旧版曲包（2009-2016），Stefan 更新前的版本](Beatmap_Packs_0916)。
+- peppy 在论坛中关于[成就图案](https://osu.ppy.sh/forum/t/80448)的征集。
