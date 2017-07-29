@@ -1,15 +1,15 @@
 奖章
 ======
 
-奖章，曾被称为_成就_，是在用户个人资料页面中展示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
+奖章，曾被称为_ 成就 _，是在用户个人资料页面中展示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
 当前有5种奖章：[曲包](#beatmap-packs), [实力](#skill), [毅力](#dedication), [Mod 初体验](#mod-introduction)，和[隐藏](#hush-hush).
 
 曲包
 -------------
 
-**曲包**奖章的获得方法是：**把某个曲包中所有谱面以任意至少一个难度体验一次**。主题曲包可以在[这里](https://osu.ppy.sh/p/packlist?t=t)获取。您必须在[osu!standard](/wiki/osu!standard)模式中获得对应难度的**`CLEARED（已完成）`**评价（即完成谱面）来获取您的奖牌。
+**曲包**奖章的获得方法是：**把某个曲包中所有谱面以任意至少一个难度体验一次**。您必须在[osu!standard](/wiki/osu!standard)模式中获得对应难度的**`CLEARED（ 已完成 ）`**评价（即完成谱面）来获取您的奖牌。
 
-当前共有16个曲包，分为4大类：电子游戏，动漫，网络，以及音乐游戏。
+当前共有16个曲包，分为4大类：电子游戏，动漫，网络，以及音乐游戏。[查看并下载主题曲包](https://osu.ppy.sh/p/packlist?t=t)
 
 每一类别中有四个曲包。
 
@@ -22,19 +22,19 @@
 
 ### 要求
 
-- 玩家必须完成某个[曲包](https://osu.ppy.sh/p/packlist?t=t)每张谱面的任意难度至少一次。
-- 游戏模式必须是osu!standard。
+- 玩家必须完成[曲包](https://osu.ppy.sh/p/packlist?t=t)中的每张谱面的任意难度至少一次。
+- 游戏模式必须是 osu!standard。
 - 将曲包的`.rar`文件解压到`Songs`文件夹下。
-  打开osu!client，让客户端加载这些谱面，然后您就能开始游戏了。
-  - 如果您不想这么做，您也可以逐一下载曲包中的每张谱面，成绩仍会计入。
+  启动 osu!client，让客户端加载这些谱面，然后您就能开始游戏了。
+  - 如果您不想这么做，您也可以逐一下载曲包中的每张谱面。
 - 全过程中只认定对应谱面的成绩，任何（例如其他谱面作者的）其它谱面都不会计入奖牌获取条件。
   计入奖牌获取条件的**只能**是同一谱面作者的对应曲目的对应谱面。
-- 玩家必须从客户端登录账户，而不是osu!web。
+- 玩家必须从客户端登录账户，而不是 osu!web。
 
 ### 注意事项
 
-- 获取奖牌的过程中，玩家允许使用mods来游玩谱面。但是导致该次游戏成绩无效的mods（例如[Auto Pilot](/wiki/AP)等）将不会被计入。
-- 直到您看到在[曲包列表](https://osu.ppy.sh/p/packlist?t=t)中的对应谱面已经被认定为**`CLEARED（已完成）`**之前，请不要删除谱面。
+- 除了不计分的 mods（如[Auto Pilot](/wiki/AP)等）外的 mods 都可以使用。
+- 直到[曲包列表](https://osu.ppy.sh/p/packlist?t=t)中的对应谱面已经被认定为**`CLEARED（ 已完成 ）`**之后，才能删除这张谱面。
 
 实力
 -----
@@ -65,8 +65,9 @@ _Pass（通过）_奖章的获取条件：完成任何一张指定星级的谱�
 _S_奖章的获取条件：完成一张指定星级的谱面且获得S评价，并且达成[全连](/wiki/FC).
 谱面的星级将取与其最接近的整数，并将给予玩家对应的奖章。
 使用难度增加或难度减少的 mods 来完成谱面或取得S评价也会计入奖章获取条件。
-The map must also be ranked to be able to earn a medal.
-Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
+必须游玩 Ranked 谱面才能获取奖章。
+以下展示的是8星的 _Pass_ 和 _S_ 奖章，但实际上从1星到8星都有对应的奖章。
+
 
 | osu!standard | osu!taiko | osu!catch | osu!mania |
 | :----------: | :-------: | :-------: | :-------: |
@@ -88,13 +89,13 @@ Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are 
 Mod 初体验
 ----------------
 
-_请参考：[Game Modifiers（即 Mod）](/wiki/Game_Modifiers)._
+_参见：[Game Modifiers（即 Mod）](/wiki/Game_Modifiers)。_
 
-Mod 初体验类奖章可以通过初次使用相应的 Mod 来完成谱面获得。
-它们被用来激励玩家主动尝试、体验游戏提供的各种不同的 Mod。
+Mod 初体验类奖章可以通过初次使用相应的 mod 来完成谱面获得。
+它们被用来激励玩家主动尝试、体验游戏提供的各种不同的 mods。
 
-特别注意，如果在一次游玩中使用了2个或更多的 Mod ，那么这次游玩**不会**给玩家计入_任何一枚奖章_的获取条件。
-
+特别注意，如果在一次游玩中使用了2个或更多的 mod ，那么这次游玩**不会**给玩家带来_任何一枚奖章_。
+ 
 | 提高难度 | 降低难度 |  |
 | :---- | :---: | :---: |
 | ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Easy](img/all-intro-easy.png "Easy") | ![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
@@ -108,6 +109,7 @@ Mod 初体验类奖章可以通过初次使用相应的 Mod 来完成谱面获�
 
 一看这个类别的名字就知道，我是不会告诉你们怎么才能得到隐藏奖章的！
 每位玩家必须通过摸索，猜测如何得到这枚奖章。唯一的线索就是奖章的名字。
+（为了避免歧义，暂不翻译隐藏奖章名字。）
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
