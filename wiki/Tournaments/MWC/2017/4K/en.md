@@ -67,24 +67,21 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [[-Gearfrik-]](https://osu.ppy.sh/users/8198818) |
 
-
-
 ### Pending Rosters
 
 **If the country you signed up for is listed here, please contact your captain as soon as possible!**
 
 | | Country | Captain |
 | ---: | :---: | :--- |
+| ![][flag_AU] | **Australia** | **[Shirinisu](https://osu.ppy.sh/users/4922584)** |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)** |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)** |
-| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
-| ![][flag_Se] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)** |
 | ![][flag_FI] | **Finland** | **[Jepetski](https://osu.ppy.sh/users/3794665)** |
 | ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)** |
+| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)** |
-| ![][flag_AU] | **Australia** | **[Shirinisu](https://osu.ppy.sh/users/4922584)** |
-
-
+| ![][flag_Se] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)** |
+| ![][flag_TW] | **Taiwan** | **[y85782122](https://osu.ppy.sh/users/2287176)** |
 
 ------------------------------------------------------------------------
 
