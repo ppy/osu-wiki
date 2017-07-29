@@ -142,7 +142,7 @@ Ce problème est quelques fois causé par une interaction avec le mode compatibi
 
 #### Votre jeu tourne-t-il en mode compatibilité Windows ?
 
-Pour vérifier ou changer le fait que le jeu troune en mod ecompatibilité Windows, suivez les étapes qui suivent:
+Pour vérifier ou changer le fait que le jeu se trouve en mod ecompatibilité Windows, suivez les étapes qui suivent:
 
 1. Ouvrez le dossier où est installé osu! et trouvez le fichier `osu!.exe`.
 2. Cliquez-droit sur `osu!.exe` et sélectionnez `Propriétés` dans le menu.
@@ -162,7 +162,7 @@ Pour vérifier cela, suivez les étaes suivantes (pour Windows 8 et supérieur):
 3. Si vous voyez `Programmes par défaut`, cliquez dessus. Si vous ne le voyez pas, étendez votre recherche en écrivant `Programmes par défaut`.
 4. Descendez jusqu'à `Navigateur Web` et vérifiez qu'un navigateur est définit.
 
-### Je ne peut pas me connecter au jeu !!
+### Je ne peut pas me connecter au jeu !
 
 **Assurez-vous qu'osu! a accès à Internet malgrès vos pare-feu ou antivirus que vous avez installé sur votre ordinateur.**
 
@@ -223,7 +223,7 @@ Pour cpier les résultats de la commande, faites simplement un clic droit mainte
 
 Pour savoir quel composant pose problème, nous recommandons d'utiliser un moniteur de température de GPU/CPU pour y garder un œil quand vous jouez à osu! Un bon programme, que nous vous conseillons, est [Speccy de Piriform](https://www.piriform.com/speccy).
 
-Si vous remaprquez q'un de vs comoosants dépasse les 90°C ou 194°F, votre ordinateur et très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
+Si vous remarquez q'un de vos composants dépasse les 90°C ou 194°F, votre ordinateur et très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
 
 #### Comment éviter que mon PC surchauffe quand je joue à osu! ?
 
@@ -253,7 +253,7 @@ Vous devriez aussi essayez de retirer certains de périphériques attachés via 
 
 #### Ça continue d'arriver !
 
-Si tout ce que nous vous avons proposé précedemment ne vous a pas aidé, envoyez un ticket au support à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le plus d'informations que vous puissiez nous fournir - ce qui iclut les spécifications de votre ordinateur, le modèle ainsi que toutes informations que vous pensez utiles pour que nous puissions vous aider au mieux.
+Si tout ce que nous vous avons proposé précedemment ne vous a pas aidé, envoyez un ticket au support à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le plus d'informations que vous puissiez nous fournir - ce qui inclut les spécifications de votre ordinateur, le modèle ainsi que toutes informations que vous pensez utiles pour que nous puissions vous aider au mieux.
 
 ### J'ai changé mes paramètres, et maintenant je ne peut plu démarrer osu! ou il gèle.
 
@@ -262,13 +262,13 @@ Si tout ce que nous vous avons proposé précedemment ne vous a pas aidé, envoy
 Suivez ces étapes pour réinitialiser les paramètres d'osu! :
 
 1. Maintenez `Shift` appuyé.
-2. Douvl cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
+2. Double-cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
 3. Maintenez `Shift` jusqu'à ce que vous voyez le dialogue de configuration d'osu!.
 4. lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
 5. Si vous n'avez vraiment pas de chance, rouvrez le dialogue et cliquez sur `repair osu!`.
 
 
-### Je ne peut mainteanir que quelques touches à la fois quand je joue à osu!mania.
+### Je ne peut maintenir que quelques touches à la fois quand je joue à osu!mania.
 
 **C'est dû à un problème venant du clavier nommé *ghosting*.**
 
@@ -280,7 +280,7 @@ Vous pouvez tester les limites de votre clavier en utilisant l'[utilitaire Anti-
 
 Alors que les Critères de Classement pour osu!mania essaye d'éviter ces problèmes en n'autorisant pas les combinaisons dépassant 6 notes, vous pouvez rencontrer ce problème si votre clavier est ancien.
 
-la seule vrai solution est d'acheter un clavier qui supporte plusieurs touches à la fois. Vous seriez intéressés par une fonction nommée *n-key rollover* (ou *NKRO*). Les claviers NKRO n'ont pas de problèes de ghosting pour la plus grande partie, mais sont généralement cher.
+la seule vraie solution est d'acheter un clavier qui supporte plusieurs touches à la fois. Vous seriez intéressé par une fonction nommée *n-key rollover* (ou *NKRO*). Les claviers NKRO n'ont pas de problèmes de ghosting pour la plus grande partie, mais sont généralement chers.
 
 ### Mon curseur devient fou !
 
@@ -288,17 +288,17 @@ la seule vrai solution est d'acheter un clavier qui supporte plusieurs touches �
 
 Un exemple de ce phénomène est de grands sauts, paticulièrement avec une tablette.
 
-Changer la sensibilité en jeu à 1.0x (qui est la valeur par défaut) devrait régler le problème, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+Changer la sensibilité en jeu à 1.0x (qui est la valeur par défaut) devrait régler le problème, mais peut ralentir votre curseur. Nous suggérons le *contournage du pilote du dispositif de pointage* dans les options du jeu et utiliser les pilote spour changer la sensibilité.
 
-Vous pouvez aussi ajuster le *DPI* de votre souris, si vous en utilisez une. Un haut DPI permet une meilleure précisionde la position du curseur en jeu et peut réduire tout mouvement non voulu.
+Vous pouvez aussi ajuster le *DPI* de votre souris, si vous en utilisez une. Un haut DPI permet une meilleure précision de la position du curseur en jeu et peut réduire tout mouvement non voulu.
 
-Nous vous suggérons aussi de ,ettoyer vos périphériques. Un cheveu ou une poussière au niveau du détecteur de la souris peut vraiment faire d'étranges mouvements.
+Nous vous suggérons aussi de nettoyer vos périphériques. Un cheveu ou une poussière au niveau du détecteur de la souris peut vraiment faire d'étranges mouvements.
 
 #### Qu'est-ce que le contournage du pilote du dispositif de pointage, et comment l'activer ?
 
-**Le contournage du pilote du dispositif de pointage force ke jeu à utiliser un moyen plus propre et direct d'accéder aux information de votre périphérique. Généralement utilisé pour augmenter la précision de votre périphérique.**
+**Le contournage du pilote du dispositif de pointage force le jeu à utiliser un moyen plus propre et direct d'accéder aux information de votre périphérique. Généralement utilisé pour augmenter la précision de votre périphérique.**
 
-Pour l'activer, suivez les étpaes suivantes:
+Pour l'activer, suivez les étapes suivantes:
 
 1. Ouvrez *osu!*.
 2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
@@ -319,19 +319,19 @@ Toutes les tablettes osu! supportent le contournage du pilote du dispositif de p
 
 **C'est généralement dû à un appareil connecté à votre ordinateur. essayez de débrancher toutes manettes et joysticks.**
 
-les applications émulant ou changeant les affectations comme *Xpadder* ou *X-Mouse Button Control* peuvent aussi en être la cause. Essayez de les désactiver si vous les utilisez pour d'autres jeux.
+Les applications émulant ou changeant les affectations comme *Xpadder* ou *X-Mouse Button Control* peuvent aussi en être la cause. Essayez de les désactiver si vous les utilisez pour d'autres jeux.
 
-Le pad numérique peut aussi être fautif, puisqu'elles peuvent être utilisées pour se déplacer dans la sélection des musiques. Appuyez sur la touche `NumLock` pour le désactiver et appuyez soit sur `9` soit sur `3` sur le pad numérique pour corriger cela.
+Le pad numérique peut aussi être fautif, puisqu'il peut être utilisé pour se déplacer dans la sélection des musiques. Appuyez sur la touche `NumLock` pour le désactiver et appuyez soit sur `9` soit sur `3` sur le pad numérique pour corriger cela.
 
 Vous devriez aussi vérifier qu'un bouton ne soit endommagé sur vos périphériques.
 
 ### J'ai téléchargé un pack de beatmap mais osu! essaye toujours de "réparer" le fichier !
 
-**Vous devez extraire le pacj dans votre dossier Songs.**
+**Vous devez extraire le packs dans votre dossier Songs.**
 
 La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant le programme de votre choix (nous recommandons [7-Zip](http://www.7-zip.org/)) dans votre dossier Songs.
 
-Une fois que tous les fichiers `.osz` sot dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
+Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
 ### Mon jeu ne se met pas bien à jour !
 
@@ -339,13 +339,13 @@ Une fois que tous les fichiers `.osz` sot dans le dossier Songs, Appuyez sur `F5
 
 osu! se garde à jour tout seul, mais parfois ça peu mal se passer.
 
-Nous vous recommandons tout d'abord de redémarre votre PC. Cela va corriger la plus grande partie des problèmes que vous êtes susceptibles de rencontrer.
+Nous vous recommandons tout d'abord de redémarrer votre PC. Cela va corriger la plus grande partie des problèmes que vous êtes susceptibles de rencontrer.
 
 Assurez-vous que la chaîne de mise à jour est réglé sur Stable.
 
-vous pouvez aussi forcer le jeu à se mettre à jour.
+Vous pouvez aussi forcer le jeu à se mettre à jour.
 
-#### How do I check or set my game's release stream?
+#### Comment vérifier la chaîne de mise à jour ?
 
 **Ce peut être changé dnas le menu d'options du jeu.**
 
@@ -363,7 +363,7 @@ vous pouvez aussi forcer le jeu à se mettre à jour.
 3. Écrivez `update` dans la recherche rapide.
 4. Cliquez sur le bouton `Lancer le logiciel de mise à jour`.
 
-Vous pouvez forcer le jeu à se mettre à jour en créant un fichier nommé `help.txt` dans le dossier d'osu!. Ce fichier n'a pas besoin de contenir quelque chose - ila kuste besoin d'exister, et le jeu se forcera à se mettre à jour.
+Vous pouvez forcer le jeu à se mettre à jour en créant un fichier nommé `help.txt` dans le dossier d'osu!. Ce fichier n'a pas besoin de contenir quelque chose - il a juste besoin d'exister, et le jeu se forcera à se mettre à jour.
 
 ### J'ai une erreur à propos des "polices" quand j'ouvre le jeu !
 
@@ -385,23 +385,23 @@ Voir [ce sujet](http://answers.microsoft.com/en-us/windows/forum/windows_vista-w
 
 **Vous apparaîtrez toujours blanc pour vous-même. Les autres vous verront dans un glorieux jaune !**
 
-cela aide à s'identifier et à séparer ses messages des autres. Il n'y a pas d'option pour désactiver ce comportement pour l'instant.
+Cela aide à s'identifier et à séparer ses messages des autres. Il n'y a pas d'option pour désactiver ce comportement pour l'instant.
 
-### Il me manquent certaines beatmaps manquent !
+### Il me manque certaines beatmaps manquent !
 
 **Soyez sûrs de ne pas rechercher de beatmaps avec certains critères (comme les nombre d'étoiles, l'approach rate, et ainsi de suite).**
 
-Si vous venez de télécharger une map, vous devriez essayer de rafraîrchir votre liste en appuyant sur `F5` dans l'écran de sélection des musiques.
+Si vous venez de télécharger une map, vous devriez essayer de rafraîchir votre liste en appuyant sur `F5` dans l'écran de sélection des musiques.
 
 ### J'ai reçu des erreurs de serveur en essayant de jouer en ligne !
 
-**Cela peut arriver si vous utilisez une connection internet partagée, un proxy, ou un VPN.**
+**Cela peut arriver si vous utilisez une connexion internet partagée, un proxy, ou un VPN.**
 
-Essayez un autre procy ou VPN - s'ils ratent tous, envoyez un ticket au support via un email à [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Essayez un autre proxy ou VPN - s'ils ratent tous, envoyez un ticket au support via un email à [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 Si vous n'en utilisez pas, vous devriez envoyer un ticket au support, puisqu'il semble que votre connextion a été blacklistée par erreur.
 
-Tor ou tout ce qui y est lié ne permet pas de se connecter à nos serveurs pour la plupart. Afin d'empêcher un mauvais usage des ces outils.
+Tor ou tout ce qui y est lié ne permet pas de se connecter à nos serveurs pour la plupart. Afin d'empêcher un mauvais usage de ces outils.
 
 ----------------------------------------------------------------------------
 
