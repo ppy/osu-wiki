@@ -37,8 +37,8 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | Position | Member |
 | ------------ | -------------- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092) [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentators | -- to be announced -- |
+| Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentators | [![][flag_US] Daikyi](https://osu.ppy.sh/users/811832), [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -46,6 +46,45 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Sign up here!](https://osu.ppy.sh/community/tournaments/11)**
+
+------------------------------------------------------------------------
+
+## Participants
+
+**This list is still incomplete**
+
+### Confirmed Rosters
+
+| | Country | Member |
+| ---: | :---: | :--- |
+| ![][flag_BE] | **Belgium** | **[Kizunuko-P](https://osu.ppy.sh/users/6741014)**, [NightNarumi](https://osu.ppy.sh/users/4381142), [Yetified](https://osu.ppy.sh/users/6914714), [Podzel](https://osu.ppy.sh/users/7368776), [Ojily](https://osu.ppy.sh/users/6539319), [Pryme](https://osu.ppy.sh/users/6393309) |
+| ![][flag_HK] | **Hong Kong** | **[drunkenstein](https://osu.ppy.sh/users/4565389)**, [Opean](https://osu.ppy.sh/users/4544555), [Mooncha](https://osu.ppy.sh/users/5417362), [zero2snow](https://osu.ppy.sh/users/7751516) |
+| ![][flag_IT] | **Italy** | **[Mura7797](https://osu.ppy.sh/users/3244389)**, [Cribob](https://osu.ppy.sh/users/8485394), [jutte](https://osu.ppy.sh/users/6946682), [Saibel](https://osu.ppy.sh/users/2727928) |
+| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [_vA](https://osu.ppy.sh/users/5626441), [iskr312](https://osu.ppy.sh/users/2885412) |
+| ![][flag_MX] | **Mexico** | **[\_Mytros\_](https://osu.ppy.sh/users/6507028)**, [Daybreak](https://osu.ppy.sh/users/3072763), [Sida](https://osu.ppy.sh/users/6031847), [Ray271](https://osu.ppy.sh/users/9008042), [Zetscythe](https://osu.ppy.sh/users/3360499) |
+| ![][flag_NL] | **Netherlands** | **[mrdawn2](https://osu.ppy.sh/users/1098581)**, [2fast4you98](https://osu.ppy.sh/users/5183940), [Obligerator](https://osu.ppy.sh/users/7452877), [Penda](https://osu.ppy.sh/users/4268370), [KloKat](https://osu.ppy.sh/users/6637728), [mijkolsmith](https://osu.ppy.sh/users/4307765) |
+| ![][flag_NZ] | **New Zealand** | **[Worms](https://osu.ppy.sh/users/1963937)**, [B E P I S](https://osu.ppy.sh/users/3580643), [Spicy Meme](https://osu.ppy.sh/users/6571078), [FantumEX](https://osu.ppy.sh/users/3394802), [Alamanar](https://osu.ppy.sh/users/7621152) |
+| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
+| ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [[-Gearfrik-]](https://osu.ppy.sh/users/8198818) |
+
+
+
+### Pending Rosters
+
+**If the country you signed up for is listed here, please contact your captain as soon as possible!**
+
+| | Country | Captain |
+| ---: | :---: | :--- |
+| ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)** |
+| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)** |
+| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
+| ![][flag_Se] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)** |
+| ![][flag_FI] | **Finland** | **[Jepetski](https://osu.ppy.sh/users/3794665)** |
+| ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)** |
+| ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)** |
+| ![][flag_AU] | **Australia** | **[Shirinisu](https://osu.ppy.sh/users/4922584)** |
+
+
 
 ------------------------------------------------------------------------
 
@@ -195,3 +234,28 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
