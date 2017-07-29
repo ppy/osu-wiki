@@ -93,7 +93,7 @@
 
 针对一些希望看到数据记录非常完美的强迫症玩家，我们正在考虑可以在 osu! 商店中购买并“重置成绩”，但是目前来说，我们无法为您清除账号上的数据记录。
 
-这并不意味你可以创建一个新的账号来达到这一目的！我们的社区对多个账号（开小号）行为非常angry，将会禁用(disable)掉引起我们注意的这种账号。
+这并不意味你可以创建一个新的账号来达到这一目的！社区坚决反对多个账号（开小号）行为，将会禁用(disable)掉引起我们注意的这种账号。
 
 ### 我可以修改用户名么?
 
@@ -101,7 +101,7 @@
 
 如果你购买（或者被赠送）[supporter 身份](https://osu.ppy.sh/home/support)，你将会获得**一次**免费改名的机会。改名卡可以在 [osu! 商店](https://store.ppy.sh/store/product/32) 中兑换。
 
-在这之后，你可以购买改名卡来改名，而每次改名将会越来越贵——第二次需要8刀，第三次需要16刀，以此类推。这么做是为了防止用户滥用改名系统来频繁修改用户名。
+在这之后，你可以购买改名卡来改名，而每次改名将会越来越贵——第二次需要8美元，第三次需要16美元，以此类推。这么做是为了防止用户滥用改名系统来频繁修改用户名。
 
 如果你改名时弄错了，比如大小写、语法、拼写错误，你可以发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 请求更正这些问题。这样的改名是免费的，但是你**必须**通过邮件申请。
 
@@ -109,9 +109,9 @@
 
 **可以，但是需要在一个确定的周期以后**
 
-如果一个玩家6个月没有登陆游戏，他们的用户名被回收，其他玩家可以在 [osu! 商店 改名页面]中支付并使用这些用户名。
+如果一个玩家6个月没有登陆游戏，他们的用户名被回收，其他玩家可以在 [osu! 商店]中支付并使用这些用户名。
 
-对于所有游戏模式，每500次打图，将会增加1年（365天）的回收周期。这样是为了防止有人冒用最近退坑的玩家的用户名。
+对于所有游戏模式，每500次打图，将会增加1年（365天）的回收周期。这样是为了防止有人冒用最近没有任何活动玩家的用户名。
 
 
 ### 我可以在其他玩家玩过的电脑上打图么？
@@ -134,7 +134,7 @@
 
 ## 客户端
 
-### 当我点击一个链接或多人游戏的铺面是，osu! 停止运行！
+### 当我点击一个链接或多人游戏的谱面时，osu! 停止运行！
 
 **请确认你没有在兼容模式下运行 osu!，并且你已经设置了一个系统默认的浏览器。**
 
@@ -215,7 +215,7 @@
 
 我们需要这些服务器的路由追踪结果：`cho.ppy.sh`，`osu.ppy.sh` 和 `m1.ppy.sh`。
 
-按住鼠标拖动，从底部到顶部选择输出结果，被选中的部分会显示为白色，右键单击，将内容复制到你的剪切板。
+按住鼠标拖动，从底部到顶部选择输出结果，被选中的部分会显示为白色，右键单击，将内容复制到你的剪贴板。
 
 ### 我的电脑在玩 osu! 的时候重启！
 
@@ -223,7 +223,7 @@
 
 为了查明原因，我们建议你使用 GPU/CPU 温度监测软件，在你玩 osu! 时留意一下温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy)。
 
-如果你注意到你的 GPU 或者 CPU 温度超过 90C 或 194F，你的电脑正在过热和有自动重启危险的状态中。
+如果你注意到你的 CPU 或 GPU 温度超过 90°，你的电脑正处于过热和有自动重启危险的状态中。
 
 ### 如果电脑过热，我应该如何使 osu! 正常运行？
 
@@ -239,9 +239,9 @@
 
 `垂直同步`将会以与你的主显示器一样的帧率运行游戏，`120fps` 和 `240fps` 将会以2倍或者4倍的平均刷新频率运行游戏。
 
-推荐使用`垂直同步`来解决硬件过热问题。
+推荐设置`垂直同步`来解决硬件过热问题。
 
-你也可以使用其他工具来控制你的 CPU 的 GPU 的风扇转速。
+你也可以使用其他工具来控制你的 CPU 和 GPU 的风扇转速。
 
 #### 我的电脑没有过热，但是游戏仍然使我的电脑重启！
 
@@ -255,153 +255,153 @@
 
 如果这些都没有帮你解决问题，请发送邮件到 [accounts@ppy.sh](mailto:accounts@ppy.sh)，告诉我们关于问题的更多信息——包括电脑的配置，型号和其他可以帮助我们找出问题所在的信息。
 
-### I have changed my settings, and now I can't start osu! or it freezes.
+### 我修改了我的设置，现在我无法启动 osu!，或者 osu! 卡死。
 
-**Resetting osu! back to its default settings will fix this in most cases.**
+**大多数情况下，重启 osu! 恢复默认设置会解决这个问题。**
 
-Follow these steps to restore osu! to its default settings:
+通过以下几个步骤恢复 osu! 的默认设置：
 
-1. Hold down the `Shift` key on your keyboard.
-2. While holding `Shift`, double click the osu! icon on your desktop.
-3. Continue holding `Shift` until you see the osu! recovery dialog prompt.
-4. When the `osu! configuration` dialog opens, click the `reset settings` button.
-5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
+1. 按住键盘上的 `Shift` 键。
+2. 在按住 `Shift` 键的同时，双击桌面上的 osu! 图标。
+3. 继续按住 `Shift` 键，你会看到 osu! 的程序恢复对话框。
+4. 当 `osu! configuration` 对话框打开时，点击 `reset settings` 按钮。
+5. 如果仍然有问题，请再次打开对话框并点击 `repair osu!`。
 
 
-### I can't hold more than a few keys at once while playing osu!mania.
+### 我在玩 osu!mania 的时候，无法多键一起按下。
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+**这是由于一种叫做*鬼键*的硬件问题造成的。**
 
-Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending more than a few keys down at once from certain places on the board.
+鬼键是一个很复杂的话题，但从根本上说来，键盘无法将同时按下多键的信号传输出去，这是在键盘制造时就决定了的。
 
-Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
+大多数新键盘可以同时按键的上限是6个，键盘上任意的6个键。
 
-You can test your keyboard's ghosting limits by using [Microsoft's Anti-Ghosting utility](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
+你可以通过[微软的防鬼键工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试你的键盘的鬼键情况。
 
-While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
+尽管 osu!mania 通过限制铺面同时按下的键不能超过6个的限制来缓解鬼键问题，你最好考虑一下你的键盘是否太老久了。
 
-The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
+购买一个支持更多同时按键的键盘是这个问题的唯一解决办法，你可能需要购买一把*全键无冲*(*NKRO*)的键盘。全键无冲的键盘大都没有鬼键问题，但是一般来说都很贵。
 
-### My cursor goes crazy whenever I try to play osu!
+### 我在玩 osu! 的时候鼠标乱跑！
 
-**The most common cause of this is having your in-game mouse sensitivity set too high.**
+**这通常是由于你在游戏中的鼠标灵敏度设置太高操作的。**
 
-Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
+跳跃的，不稳定的鼠标移动是这个问题的典型表现，特别是当你正在使用数位板的时候。
 
-Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+大多数时候，将鼠标灵敏度设置为 1.0x 会解决这个问题。但是可以会使你的鼠标感觉移动缓慢。我们建议在游戏设置中开启 *raw input*，并由外设自身改变灵敏度。
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+你可能也改变了你的鼠标的 *DPI* 设置。过高的 DPI 设置会提供更精确的定位，同时也使瞬间移动更平滑。
 
-We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
+我们也建议你清理鼠标上的灰尘，保持鼠标清洁。头发或灰尘会响应鼠标的光学传感器，使光标移动出现异常。
 
-#### What is raw input, and how do I turn it on?
+#### 什么是 raw input，我应该如何开启它？
 
-**Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
+**Raw input 在游戏中强制使用更干净更直接的方式来接收你外设的信号。这通常能提高外设输出的准确度。**
 
-To enable raw input, follow these steps:
+通过以下几个步骤开启 raw input：
 
-1. Open *osu!*.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `raw` into the quick-search to jump straight to the option.
-4. Click the `Raw input` radio button.
+1. 打开 *osu!*。
+2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O`。
+3. 在快速搜索中输入 `raw`，定位到这个选项。
+4. 点击 `raw input` 单选框。
 
-### I'm playing from a tablet and my cursor feels too slow!
+### 我使用数位板玩游戏，但是感觉我的光标移动太慢！
 
-**You can solve this problem by defining a smaller tablet area for your device.**
+**你可以通过为数位板设置更小的映射区域来解决这个问题。**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](https://w.ppy.sh/d/dc/Tabarea.png).
+大多数 Wacom 数位板，可以在 `Wacom 数位板属性`程序中的`映射`标签页中修改映射。这里有一个[例子](https://w.ppy.sh/d/dc/Tabarea.png)。
 
-You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
+你需要咨询你的数位板制造厂商来了解如何为你的数位板设置映射区域。
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in game and using the mouse sensitivity slider.
+所有印有 osu! 的数位板都默认支持 raw input，可以很简单地通过滑动 raw input 设置中鼠标灵敏度的滑条来调整。
 
-### My song list keeps scrolling!
+### 我的歌曲列表一直在滚动！
 
-**This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
+**这通常是由于出现故障的输入设备连接你的电脑造成的。试试拔下所有游戏控制器和手柄。**
 
-Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
+一些模拟键盘或改变键盘映射的软件，比如 *Xpadder* 和 *X-Mouse Button Control* 可能会造成这个问题。如果你在其他游戏中使用这些软件，试着禁用它们。
 
-This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue.
+也可能是由于小键盘的按键问题，它们会滚动歌曲选择列表。按下 `NumLock` 键来禁用小键盘，然后在小键盘上按下`9`或`3`来修复这个问题。
 
-You may also wish to check for any jammed or damaged buttons on your peripherals.
+你可能需要检查你的设备上的按键是否卡住或故障。
 
-### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
+### 我下载了一个谱面包，但是 osu! 总是试图“修复”文件！
 
-**You will need to extract the pack into your Songs directory.**
+**你需要将文件解压到你的 Songs 目录中。**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](http://www.7-zip.org/)) to your Songs directory first.
+大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。你需要使用解压工具（推荐 [7-Zip](http://www.7-zip.org/)）将它们解压到 Songs 目录中。
 
-Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
+所有 `.osz` 文件都在歌曲目录中后，在歌曲选择界面按下 `F5`，会刷新游戏的铺面缓存并将你的新歌加载到游戏中。
 
-### My game will not update properly!
+### 我的游戏无法正常更新！
 
-**This is usually due to issues with your PC, but can very rarely be caused by new updates.**
+**这通常是你的电脑的问题，几乎不会是最新的更新的问题。**
 
-osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong.
+osu! 通常可以自动更新，但有时也会出现错误。
 
-We recommend restarting your PC as the first option. This will fix more issues than you expect it to as far as computers are concerned, and osu! is no different.
+建议首先重启电脑。这样可以排除电脑本身的问题，重启 osu! 也是同样的道理。
 
-Ensure your release stream is set to stable in the game options.
+请确认你游戏中设置的更新版本是正式版。
 
-You can also try forcing the game to update.
+你也可以尝试强制游戏更新。
 
-#### How do I check or set my game's release stream?
+#### 我要如何检查或设置游戏更新版本？
 
-**This can be changed via the in-game options menu.**
+**以下是在游戏中修改更新版本的步骤：**
 
-1. Open *osu!*.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `release` into the quick-search to jump straight to the option.
-4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
+1. 打开 *osu!*。
+2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O`。
+3. 在快速搜索中输入 `release`，定位到这个选项。
+4. 确认你的下拉菜单设置为 `正式版（最新）`，这意味着更新版本是最新的正式版。
 
-#### How do I force the game to update?
+#### 我要如何强制游戏更新？
 
-**You can force the game to update via the options menu.**
+**你可以通过设置强制更新游戏。**
 
-1. Open *osu!*.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `update` into the quick-search to jump straight to the option.
-4. Click the `Run osu! updater` button.
+1. 打开 *osu!*。
+2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O`。
+3. 在快速搜索中输入 `update`，定位到这个选项。
+4. 点击 `启动 osu! 更新程序`。
 
-You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
+你通过在 osu! 安装目录下创建一个 `help.txt` 文件的方式强制游戏更新。这个文件可以是一个空文件——只需要有就可以，游戏会在下次运行的时候自动强制更新。
 
-### I get an error about "font styles" when I try to open the game!
+### 当我打开游戏时，出现了“字体样式”的错误。
 
-**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**你可能删除或缺失重要的系统自带的字体。请注意问题可能不止这一个。**
 
-If you see this error when you try to open *osu!* or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
+如果你打开 *osu!* 或更新器的时候遇到了这个错误，意味着你你删除了或者缺失重要的系统字体。这些字体在 Windows 系统中每一处都会使用，因此你会遇到其他各种各样的问题，比如错误的字体，缺少文本，其他软件崩溃。
 
-Here is a collection of common fonts used in different versions of Windows and across the web which should help:
+这里有一些常用字体，可以在不同版本的 Windows 中使用，以下的链接会对你有所帮助：
 
-- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (尤其是 Arial, Times New Roman, Trebuchet MS, 和 Verdana)
 - [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
 - [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Nothing in osu! or your system depends on these, but these fonts are awesome! Download now gogo!)
-- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Traditional Chinese UI font)
+- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （Cleartype family--Calibri, Consolas, Corbel, ... 虽然不是 osu! 和系统需要的字体，但是这些字体非常好看，推荐试试！）（强势安利）
+- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) （微軟正黑體）（繁体中文字体）
 
-See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+[这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)可以看到一些的具体建议和找回字体的其他方法。
 
-### I became supporter but my name isn't yellow in-game!
+### 我成为了 supporter，但是游戏中的用户名不是黄色！
 
-**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
+**你的用户名在游戏客户端中会一直显示为白色。而其他用户会看到你的用户名显示为辉煌的黄色。**
 
-This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
+这可以帮助区分你和别人的聊天消息，现在没有办法修改它。
 
-### Some of my beatmaps are missing!
+### 有一些地图缺失了！
 
-**Make sure you are not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
+**请确认你没有在某个条件下搜索谱面（比如星级，缩圈速度，等等）。**
 
-If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
+如果你刚刚下载了一张地图，你或许需要在曲目选择界面中按下 `F5` 来刷新你的歌曲列表。
 
-### I receive some sort of server-side error when trying to play online!
+### 我在玩 osu! 时收到一些服务器错误信息！
 
-**This can happen if you are using a shared internet connection, a proxy, or VPN.**
+**这种情况通常在你使用共享的网络连接时出现，比如代理，VPN。**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+试试使用其他的代理和 VPN 提供商——如果仍然失败，请发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)。
 
-If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
+如果你没有使用这些软件， 你需要发送一封求助邮件给我们，有可能你的连接被误加入了黑名单。
 
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
+大部分 Tor（洋葱网络）或者其他和它有关的网络无法连接游戏服务器。这是为了避免恶意使用。
 
 ----------------------------------------------------------------------------
 
