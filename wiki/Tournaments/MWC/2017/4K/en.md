@@ -73,15 +73,25 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 | | Country | Captain |
 | ---: | :---: | :--- |
-| ![][flag_AU] | **Australia** | **[Shirinisu](https://osu.ppy.sh/users/4922584)** |
+| ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)** |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)** |
+| ![][flag_CA] | **Canada** | **[CanadianTaco](https://osu.ppy.sh/users/5185455)** |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)** |
+| ![][flag_CN] | **China** | **[Sern888](https://osu.ppy.sh/users/2089244)** |
 | ![][flag_FI] | **Finland** | **[Jepetski](https://osu.ppy.sh/users/3794665)** |
+| ![][flag_FR] | **France** | **[bumpinho](https://osu.ppy.sh/users/1594604)** |
+| ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)** |
+| ![][flag_MY] | **Malaysia** |  **[Neokje](https://osu.ppy.sh/users/7727987)** |
 | ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)** |
+| ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)** |
+| ![][flag_SG] | **Singapore** | **[Evening](https://osu.ppy.sh/users/2193881)** |
 | ![][flag_Se] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)** |
 | ![][flag_TW] | **Taiwan** | **[y85782122](https://osu.ppy.sh/users/2287176)** |
+| ![][flag_GB] | **United Kingdom** | **[-Konner-](https://osu.ppy.sh/users/6108644)** |
+| ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)** |
+
 
 ------------------------------------------------------------------------
 
