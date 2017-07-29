@@ -51,8 +51,8 @@ Saturday, 29. July 2017
 | Match Time (UTC+8) | Team A | | | Team B | Match ID |
 | :--: | ---: | ---: | :--- | :--- | :--: |
 | 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
-| 16:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
 | 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
+| 21:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
 
 Sunday, 30. July 2017
 
