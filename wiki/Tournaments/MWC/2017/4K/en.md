@@ -28,8 +28,6 @@ In every world cup, people conquering a place on the podium are eligible to rece
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, exclusive osu! pins and merchandise, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, exclusive osu! pins and merchandise, profile badge |
 
-_The money value may change based on how many teams participate and how big the teams are. The final value can only be given after the registration phase concluded._
-
 ## Organization
 
 The osu!mania World Cup 2017 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
@@ -45,13 +43,12 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Sign up here!](https://osu.ppy.sh/community/tournaments/11)**
 
 ------------------------------------------------------------------------
 
 ## Participants
 
-**This list is still incomplete**
+*Not all rosters are listed here yet.*
 
 ### Confirmed Rosters
 
