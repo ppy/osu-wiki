@@ -221,7 +221,7 @@
 
 **大多数时候，这是由于你的电脑硬件过热造成的，通常是 CPU 或者 显卡。**
 
-为了查明原因，我们建议你使用 CPU/GPU 温度监测软件，在你玩 osu! 时可以在后台运行，以留意一下温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy)。
+为了查明原因，我们建议你使用 CPU/GPU 温度监测软件，在你玩 osu! 时可以后台运行，以留意一下温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy)。
 
 如果你的 CPU 或 GPU 温度超过 90°，你的电脑正处于过热和有自动重启危险的状态中。
 
@@ -270,7 +270,7 @@
 
 ### 我在玩 osu!mania 的时候，无法多键一起按下。
 
-**这是由于一种叫做*鬼键*的硬件问题造成的。**
+**这是由一种叫做*鬼键*的硬件问题造成的。**
 
 鬼键是一个比较复杂的问题，但根本上来说，这是由于键盘在制造时就决定了的一个特性——为避免按键冲突，键盘无法同时传输多个键的信号。
 
@@ -288,7 +288,7 @@
 
 跳跃的、不稳定的鼠标移动是这个问题的典型表现，特别是当你正在使用数位板的时候。
 
-大多数时候，将鼠标灵敏度设置为 1.0x 会解决这个问题。但也可能会使你感觉光标移动迟缓。。我们建议在游戏设置中开启 *raw input*，并由外设自身改变灵敏度。
+大多数时候，将鼠标灵敏度设置为 1.0x 会解决这个问题。但也可能会使你感觉光标移动迟缓。我们建议在游戏设置中开启 *raw input*，并由外设自身改变灵敏度。
 
 你也可以试着改变你的鼠标自身的 *DPI* 设置。更高的DPI设置会提供更精确的定位，同时也使瞬间移动更平滑。
 
@@ -379,9 +379,9 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 [这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
 
-### 我成为了 supporter，但是游戏中的用户名不是金黄色！
+### 我成为了 supporter，但是游戏中的用户名不是璀璨的黄色！
 
-**你的用户名在游戏客户端中会一直显示为白色。而其他用户会看到你的用户名显示为金黄色。**
+**你的用户名在游戏客户端中会一直显示为白色。而其他用户会看到你的用户名显示为璀璨的黄色。**
 
 这可以帮助区分你和其他玩家的聊天消息，现在没有办法修改它。
 
@@ -403,108 +403,106 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 ----------------------------------------------------------------------------
 
-## Website
+## 网站
 
-### I have not received a reply to my support ticket and it's been over 2 weeks!
+### 我在发送求助邮件后超过2星期没有收到回复！
 
-**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
+**绝大部分时候，这是因为我们的系统一次性收到了大量的求助。**
 
-You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
+你可以在这封求助邮件中继续发送回复，询问你的问题的处理进展，但是频率不要超过每周1-2次。
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
+在极少数情况下，经常冒犯的用户的邮件会被置之不理，并且支持团队**总会**提前告知这些用户他们将不再回复。如果你没有收到这样的提醒，请不必担心。
 
-### My user page has been locked and I can't edit it!
+### 我的用户主页（user page）被锁住了，我无法编辑它！
 
-**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
+**这是由于你的用户主页中有[社区规定](/wiki/Rules)中提到的不合适的内容。**
 
-In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
+在这种情况下，你可能需要发送一封邮件给技术团队 [accounts@ppy.sh](mailto:accounts@ppy.sh)，向他们说明你的情况。
 
-Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
+大部分时候，你会被再次允编辑你的用户主页，但是屡教不改的用户将会永远无法编辑用户主页，因此请留意。
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+任何时候，如果你不清楚某些东西是否适合放在主页上，你可能把这些内容发消息给任何[社区管理团队](/wiki/People/Global_Moderation_Team)的成员，他们会告诉你这些内容是否合适。
 
 
-### Can I completely block another user from contacting me?
+### 我可以屏蔽某人与我聊天么？
 
-**Yes, absolutely.**
+**当然可以。**
 
-In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
+如果其他用户在论坛或游戏客户端中骚扰你，以下几个步骤可以帮助你过滤掉他们的聊天消息：
 
-#### Blocking a user from contacting you in-game
+**在游戏中，屏蔽用户向你发送消息，只需将他们加入你的屏蔽列表。**
 
-**To block a user from sending you messages in-game, simply add them to your ignore list.**
+1. 在游戏中打开 `Options` 菜单。
+2. 输入 `ignore`，定位到 `Chat Ignore List`（中文界面中为`屏蔽以下玩家的聊天`)。
+3. 将不礼貌的玩家的用户名加入列表，用空格分隔每个用户，用将用户名中的空格用下划线替换（比如 _The Gatekeepper_ -> _The\_Gatekeeper_）
+4. 完成！
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You are done!
+你将不会在公频中看到这些玩家的聊天信息，也不会收到这些玩家的私信。
 
-You'll no longer see public chat messages from any users on that list, or receive private messages from them.
+#### 屏蔽所有非好友玩家向你发送私信
 
-#### Blocking all non-friends from sending private messages in-game
+如果你希望屏蔽不在你的好友列表中的人向你发送私信，可以采用以下步骤。（注意：管理员不会受这个设置的影响，可以向你发送私信。尽管如此，如果有管理员恶意骚扰你，请与我们的[支持团队](mailto:support@ppy.sh)联系。
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+1. 在游戏中打开 `Options` 菜单，或者按下 `Ctrl` + `O`。
+2. 输入 `block`，定位到`游戏内聊天`。
+3. 点击以启用`只接受好友发来的私信消息`。
+4. 完成！任何一个不在你的好友列表（/addfriend "user"）中的玩家都无法与你聊天。
 
-1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
-2. Type "block" to filter the options listing to the "In-game Chat" section.
-3. Toggle the setting on by clicking it.
-4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
+#### 屏蔽论坛中玩家的帖子
 
-#### Blocking public forum posts from a user
+**想要将指定用户的帖子隐藏，用 UCP 将他们加入你的 Foes 列表即可。**
 
-**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
+1. 访问 [UCP 中的 Foes 列表](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)，将他们的用户名添加到列表中。
+2. 点击提交。
+3. 完成！这些用户的大部分帖子将会被隐藏——就像它们不存在一样。请注意，其它用户提到他们的帖子时仍然可见。
 
-1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
-2. Click submit.
-3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
+#### 屏蔽论坛中发送给你的私信
 
-#### Prevent any new forum private messages from reaching you
+**屏蔽发送给你的所有私信，[在 UCP 中设置你的过滤规则](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)。**
 
-**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
+1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options) 中设置私信过滤规则。
+2. 在页面的顶部，找到名为 `Add new Rule` 的行。
+3. 点击第一个下拉菜单（默认值是 `Subjcet`），将它修改为 `Sender`，然后点击 Next。
+4. 再次点击第一个下拉菜单，将它的值从 `is like` 改为 `is`（列表中的第三个选项），然后点击 Next。
+5. 在出现的文本框中输出冒犯的用户的名称，然后点击 Next。
+6. 再次点击第一个下拉菜单，将它的值改为 `Delete Message`，然后点击 `Add Rule`。
+7. 完成！任何用户都发送给你的私信消息都会被自动删除，并且不会有任何提示。
 
-1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. At the very top of the page, look for a column titled `Add new Rule`.
-3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
-4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
-5. Enter the offending user's username into the textbox that appears, then click Next.
-6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
+#### 我屏蔽了这些用户后还有别的问题？
 
-#### What if I'm still having problems with a user after blocking them?
+**不用担心，我们的管理团队会帮助你。**
 
-**Never fear, our moderation team will help you out.**
+如果有用户仍然通过其他方式骚扰你，或者借助他们的朋友或者别人来绕过你的禁止措施。请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告诉我们。
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
+请确认邮件中包含聊天记录或者其他的证据，我们的管理团队会了解情况，并为你解决问题。
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
+### 我在其他玩家的资料页上看到的“用户主页”是什么？
 
-### What are these "user pages" that I see on other players profiles?
+**用户主页是所有 [supporter](https://osu.ppy.sh/home/support) 玩家才能编辑的特殊页面元素。可以放上你喜欢的内容——比如你的成就截图，你的铺面等等。**
 
-**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+拥有 [supporter](https://osu.ppy.sh/home/support) 身份的玩家可以编辑他们自己的页面并在他们的资料页中显示。用户页面可以包含任何你喜欢的内容——只要符合[社区规定](/wiki/Rules)！
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+即便你的 [supporter](https://osu.ppy.sh/home/support) 身份过期了，你的用户主页将 **继续保留**，并且仍然可以编辑。
 
-Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
+### 我在注册时必须使用电子邮箱么？
 
-### Do I need to use my email address to register?
+**不一定需要。我们通过你在游戏客户端中登陆来验证你的账号，因此邮箱不是注册过程中必须的。**
 
-**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
+如果你无法通过游戏客户端连接，请检查你的防火墙和杀毒软件，确保 osu! 没有被阻止。
 
-If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
+虽然邮箱不是必须的，我们仍然推荐你为账号设置一个邮箱。一旦你忘记了密码或无法登陆你的账号，你的注册邮箱是我们与你联系的关键。
 
-While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
+### 为什么我无法搜索名字长度小于3个字母的作图者？
 
-### Why can't I search for a beatmap artist who's name is less than 3 characters long?
+**由于技术限制，我们的本地搜索引擎无法处理这样的字符串，但你仍然可以使用网站右上角的谷歌自定义搜索来搜索。**
 
-**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
+只需在谷歌自定义搜索中输入你想要搜索的作图的名字，谷歌将显示搜索结果。
 
-Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
+### 为什么我用户资料页上的统计数据是错误的？
 
-### Why are the statistics in my user profile page wrong?
+**你可能看到的是其他游戏模式的统计数据。网站默认显示你最近玩过的游戏模式的成绩。**
 
-**You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
-
-If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
+如果你很长时间没有玩过，统计数据是错误的，只需要玩几张图，数据会再次显示。不活跃的玩家的成绩会被隐藏，以保持排名的活力。
 
 ----------------------------------------------------------------------------
 
