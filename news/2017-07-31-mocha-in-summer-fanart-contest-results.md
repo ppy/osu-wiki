@@ -107,7 +107,7 @@ We'd like to extend our utmost thanks to every artist who participated, and a he
 
 The finalists listed here will all receive **2 months of osu!supporter** for their efforts, and their wonderful works will be featured as seasonal in-game backgrounds from now until summer ends in osu!.
 
-You can also check out all of the other entries over at the [official contest listing](https://osu.ppy.sh/community/contests/48).
+You can also check out all of the other entries over at the [official contest listing](https://osu.ppy.sh/community/contests/48). You may download all of the entries without the osu! cookie present by using [this link](https://assets.ppy.sh/contests/48/MochaFanartEntries.zip).
 
 See you next time!
 
