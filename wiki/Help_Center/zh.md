@@ -219,11 +219,11 @@
 
 ### 我的电脑在玩 osu! 的时候重启！
 
-**大多数时候，这是由于你的电脑硬件过热造成的，通常是 CPU 或者 显卡。**
+**大多数时候，这是由于你的电脑硬件过热造成的，通常发生在 CPU 或显卡上。**
 
 为了查明原因，我们建议你使用 CPU/GPU 温度监测软件，在你玩 osu! 时可以后台运行，以留意一下温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy)。
 
-如果你的 CPU 或 GPU 温度超过 90°，你的电脑正处于过热和有自动重启危险的状态中。
+如果你的 CPU 或 GPU 温度超过 90°C ，你的电脑将有过热重启的危险。
 
 ### 如果电脑过热，我应该如何使 osu! 正常运行？
 
@@ -247,7 +247,7 @@
 
 **造成电脑重启的原因中，除了过热以外，最普遍的是声卡问题，很可能你的外部连接设备出现了故障。**
 
-老旧的声卡硬件或驱动软件会引发 osu! 的运行错误，但对大多数人而言都不是大问题。请尝试更换你的声卡或主板。
+过时的声卡硬件或驱动软件会引发 osu! 的运行错误，但对大多数人而言都不是大问题。请尝试更换你的声卡或主板。
 
 你也可以试着拔下一些与电脑连接着的 USB 设备，特别是和声音有关的设备。如果耳机或 USB 声卡的相关接口或它们本身出现故障，这有时也会引发 osu! 运行错误。
 
@@ -270,17 +270,17 @@
 
 ### 我在玩 osu!mania 的时候，无法多键一起按下。
 
-**这是由一种叫做*鬼键*的硬件问题造成的。**
+**这是由一种叫做*键盘按键冲突（ghosting）*的硬件问题造成的。**
 
-鬼键是一个比较复杂的问题，但根本上来说，这是由于键盘在制造时就决定了的一个特性——为避免按键冲突，键盘无法同时传输多个键的信号。
+键盘按键冲突是一个比较复杂的问题，但根本上来说，这是由于键盘在制造时就决定了的一个特性——为避免按键冲突，键盘无法同时传输多个键的信号。
 
 大多数新键盘可以同时按键的上限是6个，键盘上任意的6个键。
 
-你可以通过[微软的防鬼键工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试你的键盘的鬼键情况。
+你可以通过[微软的键盘按键冲突工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试你的键盘的键盘按键冲突情况。
 
-尽管 osu!mania 通过限制铺面同时按下的键不能超过6个的限制来缓解鬼键问题，你最好考虑一下你的键盘是否太老久了。
+尽管 osu!mania 通过限制铺面同时按下的键不能超过6个的限制来缓解键盘按键冲突问题，你最好考虑一下你的键盘是否太老旧了。
 
-购买一个支持更多同时按键的键盘是这个问题的唯一解决办法，你可能需要购买一把*全键无冲*（*NKRO*）的键盘。全键无冲的键盘大都没有鬼键问题，但是一般来说都很贵。
+购买一个支持更多同时按键的键盘是这个问题的唯一解决办法，你可能需要购买一把 *全键无冲（NKRO）* 的键盘。全键无冲的键盘大都没有键盘按键冲突问题，但是一般来说都很贵。
 
 ### 我在玩 osu! 的时候鼠标光标乱跑！
 
@@ -379,9 +379,9 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 [这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
 
-### 我成为了 supporter，但是游戏中的用户名不是璀璨的黄色！
+### 我成为了 supporter，但是游戏中的用户名却没有变成黄色！
 
-**你的用户名在游戏客户端中会一直显示为白色。而其他用户会看到你的用户名显示为璀璨的黄色。**
+**你的用户名在游戏客户端中会一直显示为白色。但其他用户会看到你的用户名已经是璀璨的黄色了！**
 
 这可以帮助区分你和其他玩家的聊天消息，现在没有办法修改它。
 
@@ -411,7 +411,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 你可以在这封求助邮件中继续发送回复，询问你的问题的处理进展，但是频率不要超过每周1-2次。
 
-在极少数情况下，经常冒犯的用户的邮件会被置之不理，并且支持团队**总会**提前告知这些用户他们将不再回复。如果你没有收到这样的提醒，请不必担心。
+在少数情况下，经常冒犯的用户，其求助邮件可能会遭到有意忽略，并且支持团队**总会**提前告知这些用户他们将不再回复。如果你没有收到这样的提醒，请不必担心。
 
 ### 我的用户主页（user page）被锁住了，我无法编辑它！
 
@@ -430,14 +430,16 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 如果其他用户在论坛或游戏客户端中骚扰你，以下几个步骤可以帮助你过滤掉他们的聊天消息：
 
+#### 屏蔽某个用户的消息
+
 **在游戏中，屏蔽用户向你发送消息，只需将他们加入你的屏蔽列表。**
 
 1. 在游戏中打开 `Options` 菜单。
 2. 输入 `ignore`，定位到 `Chat Ignore List`（中文界面中为`屏蔽以下玩家的聊天`)。
-3. 将不礼貌的玩家的用户名加入列表，用空格分隔每个用户，用将用户名中的空格用下划线替换（比如 _The Gatekeepper_ -> _The\_Gatekeeper_）
+3. 将不礼貌的玩家的用户名加入列表，用空格分隔每个用户，将用户名中的空格用下划线替换（比如 _The Gatekeepper_ -> _The\_Gatekeeper_）
 4. 完成！
 
-你将不会在公频中看到这些玩家的聊天信息，也不会收到这些玩家的私信。
+你将不会在公频中看到这些玩家的聊天消息，也不会收到这些玩家的私信。
 
 #### 屏蔽所有非好友玩家向你发送私信
 
@@ -461,7 +463,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 **屏蔽发送给你的所有私信，[在 UCP 中设置你的过滤规则](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)。**
 
 1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options) 中设置私信过滤规则。
-2. 在页面的顶部，找到名为 `Add new Rule` 的行。
+2. 在页面的顶部，找到名为 `Add new Rule` 的一栏。
 3. 点击第一个下拉菜单（默认值是 `Subjcet`），将它修改为 `Sender`，然后点击 Next。
 4. 再次点击第一个下拉菜单，将它的值从 `is like` 改为 `is`（列表中的第三个选项），然后点击 Next。
 5. 在出现的文本框中输出冒犯的用户的名称，然后点击 Next。
@@ -470,7 +472,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 #### 我屏蔽了这些用户后还有别的问题？
 
-**不用担心，我们的管理团队会帮助你。**
+**不必担心，我们的管理团队会帮助你。**
 
 如果有用户仍然通过其他方式骚扰你，或者借助他们的朋友或者别人来绕过你的禁止措施。请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告诉我们。
 
@@ -500,187 +502,187 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 ### 为什么我用户资料页上的统计数据是错误的？
 
-**你可能看到的是其他游戏模式的统计数据。网站默认显示你最近玩过的游戏模式的成绩。**
+**你可能看到的是其他游戏模式的统计数据。网站默认显示最近一次玩过的游戏模式的成绩。**
 
-如果你很长时间没有玩过，统计数据是错误的，只需要玩几张图，数据会再次显示。不活跃的玩家的成绩会被隐藏，以保持排名的活力。
+如果你很长时间没有玩过而导致统计数据错误，只需要玩几张图，数据会再次正常显示。不活跃的玩家的成绩会被隐藏，以保持排名的活力。
 
 ----------------------------------------------------------------------------
 
-## Gameplay
+## 游戏设置
 
-### My combo counter, score display or accuracy display is missing!
+### 我的连击计数，分数和准确度都不见了！
 
-**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
+**按下 `Shift` + `Tab` 会切换 HUD，你将会再次看到它们。**
 
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+如果你修改了切换分数榜的键盘映射，按键后无效。你可以在 `Options` -> `按键设置` -> `In-Game` -> `Toggle Scoreboard` 中重新设置。
 
-### My local scores are missing!
+### 我的本地成绩丢失了！
 
-There's a few reasons why this can happen. Read on below!
+发生原因有很多，比如下面的：
 
-#### Have you recently reinstalled the game client?
+#### 你最近重新安装了游戏客户端么？
 
-**Reinstalling the game client will automatically clear all of your local scores.**
+**重新安装游戏客户端会自动清除你的所有本地成绩。**
 
-These are unfortunately, gone.
+很不幸，它们将无法找回。
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+那你曾经上传的成绩仍然保留——只需要重新下载你曾经玩过的谱面，你的成绩会再次显示。
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+小技巧——如果你是 osu!supporter，你可以在 osu!direct 面板中使用 `Ranked(Played)` 来过滤[谱面列表](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=)，找你到曾经玩过并留有成绩的谱面。
 
-#### Are you set to the correct game mode?
+### 你处于正确的游戏模式中么？
 
-**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
+**在其他游戏模式（osu!taiko, osu!catch, osu!mania）中打图会切换显示为那个游戏模式的成绩，并且隐藏其他游戏模式的成绩。**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again.
+这通常由于玩家玩其他模式的图，自动切换到了这个模式的谱面选择，显示这个模式的成绩，直到切换回原来的模式。
 
-You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
+你可以通过在歌曲选择页面底部的左边，点击 `Mode`，切换游戏模式，选择你希望显示成绩的游戏模式。
 
-#### Are you playing offline?
+#### 你处于离线游戏中么？
 
-**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
+**离线游戏中取得的成绩无法添加到在线排名中。**
 
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
+如果你在线游戏时网络连接不稳定，只要你的客户端正在运行，它会自动尝试上传你的成绩。
 
-#### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+#### 你最近下载了大量的谱面么？（比如一堆谱面包）
 
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
+**如果你一次性加载了大量新谱面，成绩从服务器中下载下来需要一段时间。**
 
-Playing the game or doing something else will let the client catch up in the background.
+打图或者做些别的事情，客户端会在后台完成这些工作。
 
-### What is this white trail or smoke-like line behind my cursor?
+### 我的光标后的白色尾巴/烟雾轨迹是什么？
 
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**这是一种叫做 _smoke_ 的特性，用来在你的屏幕上涂鸦。其他围观你的玩家也可以看到你画的内容。**
 
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+这个特性的默认按键是 `C`，它也可以长按。你可以在 `按键设置` 对话框中的 `osu! Standard Mode` 中绑定新的按键。
 
-### How do I save my own replay of a score I just made?
+### 我如何保存我刚刚取得成绩的回放？
 
-**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
+**在你的本地成绩榜中点击这个成绩，进入成绩界面，按下 `F2` 键。**
 
-This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
+这会以 `.osr` 文件的形式将你闪亮的新成绩保存在 osu! 安装目录的 `Replays` 文件夹中。
 
-*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+*osu!* 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件夹中。
 
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
+请注意，如果一个成绩没有回放的话，你将不能通过这种方式保存回放。
 
-### osu! is telling me that my game client is too old!
+### osu! 告诉我，游戏客户端太旧了！
 
-**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
+**是时候更新了！非常旧的客户端将不允许上传成绩，因此你需要在 `Options` -> `常规` -> `启动 osu! 更新程序` 中强制更新。**
 
-If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
+如果无法更新，你可以关闭 osu!，按住 `Shift` 键重新启动 osu!.exe。这时会显示更新和修复选项，更新选项可以将游戏更新到最新版。
 
-### My scores aren't submitting!
+### 我的成绩无法上传！
 
-Oops! There's a few reasons why this can happen. Let's go through them:
+唔，发生的原因有很多，让我们看看：
 
-#### Were you connected to the Internet while playing?
+#### 你在玩的时候连接网络了么？
 
-**If you were not able to access the Internet when finishing your score, it may not submit.**
+**如果你在结算成绩时没有连接网络，这个成绩将不会上传。**
 
-This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
+即便你在网络很差的环境中玩 osu!，只要在运行中，客户端仍然会竭尽全力上传你的成绩。
 
-#### Is osu! allowed in your local firewall or anti-virus suite?
+#### 你的本地防火墙或杀毒软件允许 osu! 了么？
 
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+**一些防火墙和杀毒软件会阻止 osu! 连接网络，进而阻止它上传成绩。**
 
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+检查你的软件设置，确保游戏安装目录中的 `osu!.exe` 可以连接网络。
 
-#### Are you running lots of programs in the background?
+#### 你在后台运行了大量程序么？
 
-**Some can interfere with your ability to submit scores.**
+**一些程序会影响你上传成绩。**
 
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
+如果你发现无法上传成绩，试着在玩 osu! 之前关掉一些无关的程序，这样你的网络连接就不会受到影响。
 
-#### Are the score submission servers up?
+### 成绩上传服务器正常运行么？
 
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+**通常这个答案是肯定的，你可以查看 [stat.ppy.sh](https://stat.ppy.sh) 或者 [@osustatus twitter](https://twitter.com/osustatus) 来确认服务器正常运行。**
 
-If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+如果服务器宕机了，在我们修复问题并恢复服务器之前，请不要关闭 _osu!_，客户端会尝试上传你的成绩，直到1小时后放弃。
 
-#### Can you upload a score I set for me?
+#### 我可以自己上传成绩么？
 
-**Unfortunately, we cannot upload scores upon request.**
+**我们不接受这样的上传成绩。**
 
-If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
+如果由于技术或者其他原因导致你没有成功上传成绩，最好的做法是展示你的实力和水平，重新打一次这张图。抱歉！
 
-### The notes seem out of sync or out of time with the music!
+### 游戏中的 notes 似乎与音乐不同步！
 
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+**有可能是你电脑上的声音软件问题，比如 _Razer Surround Audio_。也可能是你的`全局 Offset（Universal Offset）`设置有误。**
 
-Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
+试着关闭电脑上其他影响声音输出的软件。如果没有效果，试着调整你的`全局 Offset`。
 
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+每一个独立的硬件都会有特定的`全局 Offset`，决定你听到游戏的声音是提前或者延后。
 
-The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
+对于大部分人而言，默认设置就足够了。如果你发现默认设置不合适，你可以通过以下步骤修改它：
 
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+- 进入 `Options` 菜单，在`偏移量（OFFSET）调节`中找到`全局 Offset` 滑块。默认设置是0，你可以按照自己的需要修改。
+- 如果默认值（0）不合适，试着使用`偏移向导`来将它设置为一个新的值。
+- 如果没有效果，你可以尝试更新的声卡和主板音频驱动。
 
-### I'm experiencing lag spikes or stuttering during play!
+### 我在玩游戏的时候严重卡顿！
 
-**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+**有很多原因导致游戏的卡顿，从电脑上的程序到过时的硬件，或者只是一些设置不合适。**
 
-#### Do you have lots of programs open at the same time while playing osu!?
+#### 你在玩 osu! 的同时打开了大量的程序么？
 
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
+**一些后台程序会与 osu! 争抢系统资源，使游戏很难流畅运行。**
 
-Try closing some programs that you do not need open while playing the game.
+在玩游戏时，试着关闭一些无关的程序。
 
-#### Is your computer secure?
+#### 你的电脑安全么？
 
-**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
+**病毒，间谍软件，恶意软件或其他类似软件会造成严重的性能问题，即使是配置很高的电脑。**
 
-Keep your computer clean and safe and you might notice an improvement.
+保持电脑的清洁和安全，你会感到明显的提升！
 
-#### How old is your computer?
+#### 你的电脑使用了多久了？
 
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
+**非常老的电脑使用过时的 Intel 核心显卡，即使在最低配置下，也无法流畅运行 osu!**
 
-The only way to deal with this one is to upgrade your computer!
+唯一的解决办法是换新的电脑！
 
-#### Are your drivers up to date?
+#### 你的驱动更新了么？
 
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+**老的驱动可能会造成一些的性能问题。确认你的所有驱动程序已经更新。**
 
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
+显卡驱动对 osu! 非常重要，声卡驱动也是。
 
-#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+#### 你的电脑上通过 USB hub 连接了大量的 USB 设备么？
 
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+**分线器连接大量的设备会造成输入延迟，进而严重影响你的游戏，并且很难发现。**
 
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+简单的解决办法是试着拔下你的 USB hub，看看延迟问题是否消失了。
 
-#### Are you running osu! in windowed or borderless mode?
+#### 你在窗口模式或者无边框模式下运行 osu! 么？
 
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**窗口模式和无边框模式会造成 _明显的_ 的延迟。全屏会提供最流畅的游戏体验。**
 
-#### Does your game freeze up for only a moment or so?
+#### 你的游戏只是卡住一小会儿么？
 
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+**电脑上的一些后台程序和软件会在一瞬间请求大量的系统资源，造成电脑的卡顿。**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+在玩 osu! 之前关闭所有无关的程序，通常可以解决这个问题。BT 软件是这个问题的罪魁祸首，尤其是当它与 osu! 安装在同一个分区的时候。
 
-#### Has the game recently updated?
+#### 你的游戏最近更新过么？
 
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
+**有时游戏更新过后，客户端会卡住。**
 
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+如果你有很多的谱面，请等待至少10-15分钟。osu! 客户端正在重新加载你的谱面并计算它们的难度。
 
-If it doesn't resolve, a reboot can sometimes help.
+如果问题没有解决，可以重启一下试试。
 
-### My game looks glitchy, like the graphics are torn!
+### 我的游戏出现异常，像是图像被撕裂！
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
+**这叫做[屏幕撕裂](https://en.wikipedia.org/wiki/Screen_tearing)，可以通过在游戏中将`帧数限制`设置为`垂直同步`来解决。**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
+虽然不好看，但是并无大碍，这是由于游戏的刷新频率与你的电脑显示器的刷新频率不一致造成。
 
-You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+你也可以在窗口模式或无边框模式下游戏，这会使用操作系统原生的刷新频率。
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+开启垂直屏幕或在窗口模式、无边框模式下游戏会有 _可见的_ 的延迟。对于大多数人而言，这不会有太大的问题。
 
-Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+最新的 NVidia 显卡可以在 NVidia 控制面板的全局设置中将全局刷新频率设置为`快`来解决这个问题。
 
 ----------------------------------------------------------------------------
 
