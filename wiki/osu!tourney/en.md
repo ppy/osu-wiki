@@ -13,6 +13,8 @@ The client, henceforth referred to as _osu!tourney_ supports matches with 2 team
 
 ## Setup
 
+**Note:** osu!tourney currently requires an active supporter tag to use it.
+
 There are only a few steps to setup the osu!tourney client.
 
 First of all, it is recommended to use a **_fresh osu! installation_**!
