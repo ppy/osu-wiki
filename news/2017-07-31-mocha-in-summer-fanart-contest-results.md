@@ -2,7 +2,7 @@
 layout: post
 title: "Mocha in Summer Fanart Contest Results"
 permalink: http://osunews.tumblr.com/post/163625547128/mocha-in-summer-fanart-contest-results
-date: 2017-07-31 04:00:00 +0000
+date: 2017-07-31 09:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163625547128/mocha-in-summer-fanart-contest-results
 ---
 
