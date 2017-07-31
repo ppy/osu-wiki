@@ -52,7 +52,7 @@ Evocative and so very, very summer, **shoriisna**'s piece was rife with sea, sky
 With Mocha hard at work on the drums while pippi and Tama watch, **Amumizu**'s festival-fueled entry struck all the right beats. Set before a scintillating firework firmament, there's simply nothing else to say but wow.
 
 
-[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Crowie%20%28Jolly%20Creeper%29.jpg)](https://assets.ppy.sh/contests/48/winners/Jolly%20Creeper.jpg)
+[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Crowie%20%28Jolly%20Creeper%29.jpg)](https://assets.ppy.sh/contests/48/winners/Jolly%20Creeper.png)
 
 **Candy apples aren't the only thing sweet with this entry as [Crowie](https://osu.ppy.sh/u/6894067) nabs _864_ votes with her stunning portrayal of Mocha before a background of fireworks!**
 
@@ -68,7 +68,7 @@ Awash in movement and beautifully rendered colour, her work is every bit as impr
 Lounging on pristine sands and enjoying some beachfront snacks, **Evaine**'s portrayal of the winning osu!taiko mascots is strangely comfortable despite the sizzling heat.
 
 
-[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Piyori%20%28Irascible%20Pintail%29.jpg)](https://assets.ppy.sh/contests/48/winners/Irascible%20Pintail.jpg)
+[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Piyori%20%28Irascible%20Pintail%29.jpg)](https://assets.ppy.sh/contests/48/winners/Irascible%20Pintail.png)
 
 **[\[ Piyori \]](https://osu.ppy.sh/u/4457608) pulls out all the stops with a striking rendition of Mocha enjoying the shallows, scoring _778_ votes!**
 
@@ -86,14 +86,14 @@ How many can you spot?
 This one was a favourite among the osu!team. Super imaginative, and super inclusive.
 
 
-[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Snow%20%28Conservative%20Chameleon%29.jpg)](https://assets.ppy.sh/contests/48/winners/Conservative%20Chameleon.jpg)
+[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Snow%20%28Conservative%20Chameleon%29.jpg)](https://assets.ppy.sh/contests/48/winners/Conservative%20Chameleon.png)
 
 **Simple and clean, [Snow--](https://osu.ppy.sh/u/2484835)'s superb rendition of a smiling Mocha enjoying the beachfront scored _636_ votes!**
 
 There's jokes to be made about Mocha's seaweed hair, but how could you make fun of her when she's that adorable? **Snow--** captures every bit of that insidious cute and brings it to bear in a smile that rivals the summer sun for warmth.
 
 
-[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Ringarune%20%28Humorous%20Weasel%29.jpg)](https://assets.ppy.sh/contests/48/winners/Humorous%20Weasel.jpg)
+[![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Ringarune%20%28Humorous%20Weasel%29.jpg)](https://assets.ppy.sh/contests/48/winners/Humorous%20Weasel.png)
 
 **Making a splash in the shallows and in the votes, [Ringarune](https://osu.ppy.sh/u/1885176)'s captivatingly beautiful shot of Mocha scored _568_ votes!**
 
