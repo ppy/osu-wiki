@@ -36,7 +36,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ------------ | -------------- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentators | [![][flag_US] Daikyi](https://osu.ppy.sh/users/811832), [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
+| Commentators | [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -52,6 +52,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 | | Country | Member |
 | ---: | :---: | :--- |
+| ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [PotassiumF](https://osu.ppy.sh/users/4247722), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Rek](https://osu.ppy.sh/users/4018184), [Zeppy-lin](https://osu.ppy.sh/users/7675859), |
 | ![][flag_BE] | **Belgium** | **[Kizunuko-P](https://osu.ppy.sh/users/6741014)**, [NightNarumi](https://osu.ppy.sh/users/4381142), [Yetified](https://osu.ppy.sh/users/6914714), [Podzel](https://osu.ppy.sh/users/7368776), [Ojily](https://osu.ppy.sh/users/6539319), [Pryme](https://osu.ppy.sh/users/6393309) |
 | ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [Rikkaismywaifuu](https://osu.ppy.sh/users/9530019), [UrsoManso](https://osu.ppy.sh/users/4569601) |
 | ![][flag_CA] | **Canada** | **[CanadianTaco](https://osu.ppy.sh/users/5185455)**, [beary605](https://osu.ppy.sh/users/2198070), [CommandoBlack](https://osu.ppy.sh/users/7025841), [Panshow](https://osu.ppy.sh/users/5872899), [Genuine](https://osu.ppy.sh/users/5235597), [Freeflow](https://osu.ppy.sh/users/2777647) |
@@ -77,7 +78,6 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | | Country | Captain |
 | ---: | :---: | :--- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)** |
-| ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)** |
 | ![][flag_CN] | **China** | **[Sern888](https://osu.ppy.sh/users/2089244)** |
 | ![][flag_DE] | **Germany** | **[rohen04](https://osu.ppy.sh/users/369614)** |
 | ![][flag_ID] | **Indonesia** | **[Fiea](https://osu.ppy.sh/users/3183277)** |
