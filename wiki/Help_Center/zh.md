@@ -405,23 +405,23 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 ## 网站
 
-### 我在发送求助邮件后超过2星期没有收到回复！
+###  离我发送求助邮件已经过去两周，我还没有收到回复！
 
 **绝大部分时候，这是因为我们的系统一次性收到了大量的求助。**
 
-你可以在这封求助邮件中继续发送回复，询问你的问题的处理进展，但是频率不要超过每周1-2次。
+你可以在这封求助邮件中继续发送回复，询问你的问题的处理进度，但是频率不要超过每周1-2次。
 
-在少数情况下，经常冒犯的用户，其求助邮件可能会遭到有意忽略，并且支持团队**总会**提前告知这些用户他们将不再回复。如果你没有收到这样的提醒，请不必担心。
+在少数情况下，经常冒犯的用户所发的求助邮件可能会被有意忽略，不过支持团队**总会**提前告知这些用户他们将不再回复。如果你没有收到这样的提醒，请不必担心。
 
 ### 我的用户主页（user page）被锁住了，我无法编辑它！
 
-**这是由于你的用户主页中有[社区规定](/wiki/Rules)中提到的不合适的内容。**
+**很有可能你的用户主页中有[社区规定](/wiki/Rules)中提到的不合适的内容。**
 
 在这种情况下，你可能需要发送一封邮件给技术团队 [accounts@ppy.sh](mailto:accounts@ppy.sh)，向他们说明你的情况。
 
-大部分时候，你会被再次允编辑你的用户主页，但是屡教不改的用户将会永远无法编辑用户主页，因此请留意。
+大部分时候，你会再次被允许编辑你的用户主页，但是屡教不改的用户将会永远无法编辑用户主页，因此请留意。
 
-任何时候，如果你不清楚某些东西是否适合放在主页上，你可能把这些内容发消息给任何[社区管理团队](/wiki/People/Global_Moderation_Team)的成员，他们会告诉你这些内容是否合适。
+如果你感到疑问，不清楚某些东西是否适合放在主页上，你可以把这些内容发消息给任何一名[社区管理团队](/wiki/People/Global_Moderation_Team)的成员，他们会告诉你是否合适。
 
 
 ### 我可以屏蔽某人与我聊天么？
@@ -443,7 +443,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 #### 屏蔽所有非好友玩家向你发送私信
 
-如果你希望屏蔽不在你的好友列表中的人向你发送私信，可以采用以下步骤。（注意：管理员不会受这个设置的影响，可以向你发送私信。尽管如此，如果有管理员恶意骚扰你，请与我们的[支持团队](mailto:support@ppy.sh)联系。
+如果你希望屏蔽不在你的好友列表中的人向你发送私信，可以采用以下步骤。（注意：管理员不会受这个设置的影响，仍然可以向你发送私信。）尽管如此，如果有管理员恶意骚扰你，请与我们的[支持团队](mailto:support@ppy.sh)联系。
 
 1. 在游戏中打开 `Options` 菜单，或者按下 `Ctrl` + `O`。
 2. 输入 `block`，定位到`游戏内聊天`。
@@ -470,17 +470,17 @@ osu! 通常可以自动更新，但有时也会出现错误。
 6. 再次点击第一个下拉菜单，将它的值改为 `Delete Message`，然后点击 `Add Rule`。
 7. 完成！任何用户都发送给你的私信消息都会被自动删除，并且不会有任何提示。
 
-#### 我屏蔽了这些用户后还有别的问题？
+#### 我屏蔽了这些用户后却仍然感到有麻烦该怎么办？
 
 **不必担心，我们的管理团队会帮助你。**
 
-如果有用户仍然通过其他方式骚扰你，或者借助他们的朋友或者别人来绕过你的禁止措施。请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告诉我们。
+如果有用户仍然通过其他方式骚扰你，或者借助他们的朋友或者别人来绕过你的屏蔽措施。请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告诉我们。
 
 请确认邮件中包含聊天记录或者其他的证据，我们的管理团队会了解情况，并为你解决问题。
 
 ### 我在其他玩家的资料页上看到的“用户主页”是什么？
 
-**用户主页是所有 [supporter](https://osu.ppy.sh/home/support) 玩家才能编辑的特殊页面元素。可以放上你喜欢的内容——比如你的成就截图，你的铺面等等。**
+**用户主页是只有 [supporter](https://osu.ppy.sh/home/support) 玩家才能编辑的特殊页面。可以放上你喜欢的内容——比如你的成就截图，你的谱面等等。**
 
 拥有 [supporter](https://osu.ppy.sh/home/support) 身份的玩家可以编辑他们自己的页面并在他们的资料页中显示。用户页面可以包含任何你喜欢的内容——只要符合[社区规定](/wiki/Rules)！
 
@@ -518,7 +518,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 ### 我的本地成绩丢失了！
 
-发生原因有很多，比如下面的：
+很可能是如下原因：
 
 #### 你最近重新安装了游戏客户端么？
 
@@ -526,7 +526,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 很不幸，它们将无法找回。
 
-那你曾经上传的成绩仍然保留——只需要重新下载你曾经玩过的谱面，你的成绩会再次显示。
+那你曾经上传的成绩仍然还在——只需要重新下载你过去玩过的谱面，你的成绩会再次显示。
 
 小技巧——如果你是 osu!supporter，你可以在 osu!direct 面板中使用 `Ranked(Played)` 来过滤[谱面列表](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=)，找你到曾经玩过并留有成绩的谱面。
 
@@ -534,7 +534,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 **在其他游戏模式（osu!taiko, osu!catch, osu!mania）中打图会切换显示为那个游戏模式的成绩，并且隐藏其他游戏模式的成绩。**
 
-这通常由于玩家玩其他模式的图，自动切换到了这个模式的谱面选择，显示这个模式的成绩，直到切换回原来的模式。
+这通常由于玩家在玩其他模式的图时，系统会自动切换到这个模式的谱面选择，进而显示这个模式的成绩。只要切换回原来的模式即可。
 
 你可以通过在歌曲选择页面底部的左边，点击 `Mode`，切换游戏模式，选择你希望显示成绩的游戏模式。
 
@@ -554,7 +554,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 **这是一种叫做 _smoke_ 的特性，用来在你的屏幕上涂鸦。其他围观你的玩家也可以看到你画的内容。**
 
-这个特性的默认按键是 `C`，它也可以长按。你可以在 `按键设置` 对话框中的 `osu! Standard Mode` 中绑定新的按键。
+这个特性的默认按键是 `C`，长按以延长涂鸦时间。你还可以在 `按键设置` 对话框中的 `osu! Standard Mode` 中绑定新的按键。
 
 ### 我如何保存我刚刚取得成绩的回放？
 
@@ -604,7 +604,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 **我们不接受这样的上传成绩。**
 
-如果由于技术或者其他原因导致你没有成功上传成绩，最好的做法是展示你的实力和水平，重新打一次这张图。抱歉！
+如果由于一些原因导致你没有成功上传成绩，最好的做法是展示你的实力和水平，重新打一次这张图。抱歉！
 
 ### 游戏中的 notes 似乎与音乐不同步！
 
@@ -686,244 +686,243 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 ----------------------------------------------------------------------------
 
-## Installation and Registration
+## 安装和注册
 
-### How do I download osu!?
+### 如何下载 osu!？
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
+**只需在 [osu! 官方网站](https://osu.ppy.sh/)上顶部的导航栏中点击**`下载`**。**
 
-Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
+或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
 
-### Where do I register for osu!?
+### 在哪里注册 osu! 账号？
 
-**Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).**
+**只需在 osu! 网站的右上角点击**`注册`**，或者直接访问[注册页面](https://osu.ppy.sh/p/register)。**
 
-We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
+创建 osu! 账号不需要邮箱，但是我们强烈建议你为账号指定一个邮箱来保障账号的安全。
 
-If you create your account and do not authenticate it by logging into the game once, the wayward account will be purged from our databases within a day.
+如果你创建了账号后一天之内，没有通过登陆游戏一次来验证账号，你的账号将会被我们的数据库删除。
 
-Ensure that you authenticate it soon after make it!
+请注册账号后尽快完成验证！
 
-### The game installer throws an error or does not work when I use it!
+### 游戏安装程序抛出错误！
 
-**If game installer throws errors when attempting to install, you can try few things:**
+**如果游戏安装程序在安装中出现错误，你可以试试以下办法：**
 
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+- 清理你的电脑 - 用杀毒软件扫描电脑，清理注册表。CCleaner 是一个不错的清理软件。可以扫描你的电脑文件和注册表。如果你的电脑上有之前安装的 osu! 的注册项，安装程序可能会出现错误。
+- 试着重新安装 .NET 3.5 框架。[你可以在这里找到](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)。
 
-### I have 64-bit Windows and cannot install osu! correctly!
+### 我的电脑是64位的，无法正常安装 osu!
 
-**Try to install the 64-bit version of the Microsoft .NET Framework.**
+**试着安装64位的微软 .NET 框架。**
 
-This should come with the osu! installer, but in case it doesn't, [download it here](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
-
-----------------------------------------------------------------------------
-
-## Beatmapping and Editor
-
-### How do I upload/update my map?
-
-**You can do this through the in-game editor.**
-
-To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
-
-This will make your beatmap available for others to download on the website and create a dedicated thread for discussion. Updating a map is the same process for a map that has already been uploaded.
-
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (by not updating it or not posting in its thread) will send it to the Beatmap Graveyard. To update a graveyarded beatmap, you need to revive it first.
-
-#### The editor is telling me that beatmap you are trying to submit isn't yours!
-
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
-
-In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included.
-
-If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
-
-### I am an osu!supporter, but I don't have 10 pending slots!
-
-**The number of slots available depends on the number of ranked maps you have.**
-
-By default, every user has 2 pending slots. One slot is added for every ranked map the user owns, up to a total of 8 slots. Being a supporter grants 2 additional slots, from 4 (without ranked maps) up to a total of 10.
-
-### How can I delete my map?
-
-**The team does not take requests to manually delete uploaded beatmaps.**
-
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
-
-Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
+osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这里下载它](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
 
 ----------------------------------------------------------------------------
 
-## osu!store and merchandise
+## 谱面制作与编辑
 
-### How do I configure the osu!keyboard?
+### 如何上传我的谱面？
 
-**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**你可以在游戏中的谱面编辑器上传。**
 
-Simply extract it to anywhere on your computer, and run the executable!
+在编辑器中点击`文件` -> `上传谱面`来上传你的谱面。
 
-The rest should be self-explanatory.
+这会使你的谱面可以在被其他玩家在网站上下载，并创建了一个专门的帖子用于讨论。更新谱面的方式和上传谱面的方式一样。
 
-If you have any further issues, please feel free to submit a ticket to [support@ppy.sh](mailto:support@ppy.sh) detailing your problem.
+每一个用户只能上传有限张谱面。如果一张谱面一个月没有活动（没有更新或者它的帖子中没有新的留言），它将会被送到 Graveyard 谱面组中。如果要更新一张 Graveyard 的谱面，你首先需要恢复它。
 
-### The LEDs on my osu! nono keyboard aren't working!
+#### 编辑器告诉我，你尝试上传的铺面不是你的！
 
-**This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
+**这种情况可能在谱面文件中的谱面创建者没有正确设置时发送。**
 
-To determine if your osu! nono keyboard LEDs are faulty, please undertake the following steps:
+在编辑器中，点击菜单中的`文件`，然后`在记事本中打开 .osu 文件`。检查 `Creator:` 这行，确认它被设置为你的用户名，并且大小写正确。
 
-#### Are my LEDs faulty?
+如果没有，将谱面中的每一个难度的创建者都修改正确，重新加载谱面，你应该可以上传它了。
 
-**Follow these steps to find out:**
+### 我是 osu!supporter，但是我没有10张 pending 谱面名额！
 
-1. Identify which LED is not functioning as it should be. Remember this side.
-2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
-3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
+**pending 的谱面数量由你的 ranked 谱面的数量决定。**
 
-If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
+每个玩家默认拥有两个 pending 名额。每拥有一张 ranked 谱面，将会额外增加一个名额，最多拥有8个名额。成为 supporter 会额外增加2个名额，即最少拥有4个，最多拥有10个 pending 名额。
 
-If an LED that didn't work in one side also doesn't work in the other side, **it is probably faulty.** We can issue you some replacement LEDs to fix this, free of charge. Send an email to [store@ppy.sh](mailto:store@ppy.sh).
+### 如何删除我的谱面？
 
-If an LED that worked in one side does not work in the other side, **this could suggest that your osu!keyboard's mainboard is faulty**. Let us know by sending an email to [store@ppy.sh](mailto:store@ppy.sh) and we'll do our best to hook you up with a replacement.
+**支持团队不接受个人删除谱面的请求。**
 
-If both of your LEDs aren't working, they may both be faulty, or your mainboard could be faulty. Check for corrosion first to see before contacting us.
+谱面没有活动一个月后，会进入 Graveyard 状态，这时你可以自己删除你的这张谱面。
 
-#### How do I tell if my LEDs have corrosion on them?
+一旦你的谱面进入 Graveyard 状态，你通过在网页上点击谱面链接右边的`删除`按钮来删除它。
 
-**Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
+----------------------------------------------------------------------------
 
-Corrosive residue usually appears to be blackish-grey, or may appear as strange stains on the metal.
+## osu! 商店和商品
 
-Removing this residue may restore your LED to working condition. If it does, you know how to fix it next time!
+### 如何设置 osu!keyboard？
 
-### My osu!tablet has stopped working or doesn't work at all!
+**你可以使用 osu!keyboard 设置工具，通过[这个链接](http://puu.sh/l6urN/4b6bc800f2.zip)下载。**
 
-**This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
+只需将它解压到你的电脑中的任何地方，启动即可！
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong.
+剩下的操作显而易见。
 
-To find out, perform the following steps:
+如果你有更多的问题，随时可以发送邮件到 [support@ppy.sh](mailto:support@ppy.sh)，告诉我们你的问题。
 
-#### Checking for issues with your tablet device
+### osu! nono 键盘上的 LED 灯不工作！
 
-**Follow these steps to check to see if your tablet device is functioning normally:**
+**这可能有很多种原因 - 芯片和 LED 之间的电路被腐蚀、早期的一些成品中使用了故障的 LED 灯。**
 
-1. Safely remove the tablet device from your system, and unplug the cable.
-2. Gently plug the cable back into a USB slot on your system.
-3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
+为了检测 osu! nono 键盘是否故障，请按照以下步骤：
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
+### 我的 LED 灯有故障么？
 
-If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
+**按照以下步骤：**
 
-We can try to help you fix your issue with older tablet purchases, but the natural wear and tear of regular use is not something we cover replacements for.
+1. 确认哪一个 LED 灯没有正常运行，记住位置。
+2. 用小钳子或者其他工具轻轻地从按键开关下面拔出 LED 灯，记住每个 LED 灯原来的位置。
+3. 交换每个 LED 灯的位置。将左边的换到右边，将右边的换到左边。
 
-#### Checking for issues with your pen device
+如果某个 LED 灯在原来的那边工作，在另一边也工作，那么这个 LED 灯**没有故障**，一切正常。
 
-**Follow these steps to check to see if your pen device is functioning normally:**
+如果某个 LED 灯在两边都不工作，**它可能出现了故障**，我们可以免费发给你替换的 LED 灯。请发送邮件给 [store@ppy.sh](mailto:store@ppy.sh)。
 
-- Unscrew the grip from the body of the pen, exposing the battery on the inside.
-- Remove the AAA battery from the pen.
-- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
-- Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
-- Screw the grip back onto the pen.
-- Depress the button on the back end (eraser end) of the pen until it clicks.
+如果某个 LED 灯在一边工作，在另一边不工作，**osu!keyboard 的芯片可能出现故障**。请发送邮件给 [store@ppy.sh](mailto:store@ppy.sh) 告诉我们，我们会尽力为你提供替换品。
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
+如果所有 LED 都不工作，它们可能都出现了故障，或者芯片有故障。请在检查腐蚀问题后再联系我们。
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty.
+#### 我应该如何检查 LED 灯的腐蚀问题？
 
-If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
+**用铝箔打磨 LED 灯的触点，这样可以去除锈迹。**
 
-Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assistance, and we'll do everything we can to help you.
+锈迹通常是接近黑色的灰色，或者看起来像是金属上的斑点。
 
-### My computer doesn't recognize the osu!go when I plug it in!
+清除锈迹可能会让你的 LED 灯恢复正常。如果恢复正常地话，你知道了下次如何处理这种情况。
 
-**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+### osu!table 停止工作，或者根本不工作！
 
-Despite how complex this may sound, it's actually very easy to fix.
+**因为 osu!table 是由两个部分组成（数位板和笔），解决这个问题有点麻烦。**
 
-First off, [download the package containing the osu!go default files](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) and save it somewhere on your computer.
+在 osu!table 是由两个部分组成的前提下（数位板和笔），很难确定是哪个部分出了问题。
 
-#### Formatting the osu!go under Windows
+请按照以下步骤操作：
 
-**Follow these steps to prepare your _osu!go_ device under Windows:**
+#### 检查数位板的问题
 
-1. Open the `Start` menu.
-2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-4. Check to see what state your computer recognizes the device as being in.
+**按照这些步骤可以检查你的数位板是否工作正常：**
 
-##### The osu!go device is present, but in a "RAW" state.
+1. 从系统中安全地移除数位板设备，拔下数据线。
+2. 轻轻地将数据线插回 USB 接口。
+3. 如果数位板正常工作，数位板的指示灯会闪烁绿色一会儿，然后熄灭。这是正常地状况。
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
+如果数位板的灯没有闪烁，请试一下其他 USB 数据线 - 这根有可能在长期使用中被损坏了。
 
-To fix this, ensure you have the osu!go device selected, and right click on the RAW partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
+如果仍然有问题，并且你的数位板是刚刚买的（一个月内），请发邮件给 [store@ppy.sh](mailto:store@ppy.sh) 寻求帮助。
 
-`exFAT` will work with more devices, but is slightly slower.
+我们可以帮助你修理数位板问题，但是自然损耗和人为原因造成的问题将不会提供换新服务。
 
-##### The osu!go device doesn't show up in Disk Management at all.
+#### 检查笔的问题
 
-**You will need to partition the device from scratch.**
+**按照以下步骤检查你的笔是否正常工作：**
 
-Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
+- 拧开你的笔，露出里面的电池。
+- 从笔中取出7号电池。
+- 换上新的7号电池。**确认新的电池在其他设备上正常工作。**
+- 确认电池的正负极安装在正确的位置。笔中有相应的记号告诉你应该装在哪一边。
+- 拧紧你的笔。
+- 按下笔的末端（橡皮擦那一端）的按钮，直到点击。
+
+如果你的数位板正常工作，将笔放在数位板上会移动屏幕上的光标。
+
+如果光标没有移动，并且你已经按照以上的数位板检查步骤检查过数位板，可能是你的笔坏了。
+
+如果你的笔是自然损耗或者意外地（比如从高处落下或者其他人为原因）损坏，我们无法为你换新。
+
+如果不是人为损坏，请与 [store@ppy.sh](mailto:store@ppy.sh) 联系以寻求帮助，我们会尽我们所能帮助你。
+
+### 在我插入 osu!go 后，我的电脑无法识别它！
+
+**这是一个在早期的几批 _osu!go_ U 盘中存在的问题，由于 U 盘没有被格式化成电脑可以识别的磁盘格式造成的。**
+
+虽然听起来很复杂，但是修复这个问题很简单。
+
+首先，[下载这个压缩包](https://dl.dropboxusercontent.com/u/16332218/goodies.zip)，将它保存在电脑上。
+
+#### 在 Windows 系统中格式化 osu!go
+
+**在 Windows 系统中，按照以下步骤格式化你的 _osu!go_ U 盘：**
+
+1. 打开`控制面板` -> `磁盘管理`。在 Windows 8 以上版本的系统中，你可以用快捷键 `Win 键` + `X` 打开菜单，点击`磁盘管理`。
+2. **在磁盘管理视图中，请 _非常_ 小心地执行以下步骤，并 _只_ 应用到 osu!go U 盘上。** 如果你在这个窗口中胡乱操作，可能会丢失磁盘中的数据。
+3. 看看电脑识别出 osu!go U 盘处于什么格式。
+
+##### 显示了 osu!go U 盘，但是处于"RAW"格式。
+
+**在磁盘管理界面中会显示为[这样](https://puu.sh/nktuJ/05791b6fc1.png)。**
+
+为了修复这个问题，请确认你的 osu!go U 盘被选中，在 RAW 分区上右键，选择`格式化`选项。在`文件系统`下拉菜单中选择 `NTFS` 或 `exFAT`。
+
+`exFAT` 可以兼容更多的设备，但是速度会慢一些。
+
+##### osu!go 没有在磁盘管理中显示。
+
+**你可能需要为它重新分区。**
+
+请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html)，了解具体应该怎么做。
 
 
-##### I've reformatted the osu!go device and it now shows up in Disk Management.
+##### 我重新格式化了 osu!go U 盘，现在它在磁盘管理中显示了。
 
-**You're almost done!**
+**你已经完成了！**
 
-Unzip the archive we asked you to download earlier (goodies.zip) into the _osu!go_ drive and you're done!
+将你之前下载的压缩文件（goodies.zip）解压到 _osu!go_ U 盘中，完成！
 
-##### None of this worked!
+##### 这些都不奏效！
 
-If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
+如果你在过程中有任何问题，请发邮件给 [store@ppy.sh](mailto:store@ppy.sh)，我们很乐意帮助你。
 
 
 ----------------------------------------------------------------------------
 
-## Troubleshooting
+## 诊断问题
 
-### What are 'log files' and how do I make them?
+### 什么是'日志文件'，我应该如何使用他们？
 
-**Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
+**日志文件是游戏客户端行为的详细记录。我们可以用它诊断出你的问题的原因。**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial.
+获得这些文件非常方便，它们可以帮助你解决十分棘手的问题。
 
-If a support team member has asked you for these logs, here's how to get them:
+如果支持团队的成员希望你提供这些文件，以下是获取它们的方法：
 
-1. Open *osu*.
-2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
-3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
-5. Restart the game client if you made any changes to the release stream to apply them.
-6. Reopen the game, enter `Options`, and click `Open osu! folder`.
-7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
+1. 打开 *osu!*。
+2. 在主菜单上点击进入 `Option` 菜单，或者按下 `Ctrl + O`。
+3. 在快速搜索栏输入 `release`。你将会看到当前的客户端使用的更新版本。
+4. 确认将它被设置为`测试版`。
+5. 如果你修改了更新版本，请重启游戏客户端。
+6. 重新打开游戏，进入 `Options`，点击`打开 osu! 所在文件夹`。
+7. 在打开的窗口中找到 `Logs` 文件夹。
+8. 选择需要的日志文件（支持团队会告诉你哪一个），然后将它附加到你的邮件中或者上传到文件分享网站上。
 
-### What is this 'Bancho authentication error' I keep on receiving?
+### 我一直收到的 'Bancho 验证错误' 是什么？
 
-**This typically happens when there are networking issues between you and our servers.**
+**当你和服务器之间的网络连接有问题时，会发生这个问题。**
 
-There's a few things we can try to resolve this issue.
+这些办法可以帮助你解决这个问题。
 
-#### Have you entered your password correctly?
+#### 你输入了正确的密码么？
 
-**This is the most obvious one.**
+**这是最显而易见的一个。**
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+如果你忘记了你的密码，你可以使用[密码找回](https://osu.ppy.sh/p/forgot)来重新找回你的密码。
 
-#### Are you using any proxy servers or VPNs?
+#### 你使用了代理服务器或者 VPN 么？
 
-**Disabling these before attempting to connect again will likely fix your issue.**
+**关闭它们后再重试连接，可能会解决你的问题。**
 
-Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
+一些 VPN 提供商或者代理服务器可能会由于各种各样的原因连接不上 osu! 的服务器。**
 
-#### I'm still getting the error!
+#### 还是有错误！
 
-**We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
+**如果以上方法都不奏效，我们需要你的'network.log'文件来判断哪里出了问题。**
 
-Check out the article a section above on how to get a log file to send to us.
+阅读上一个章节，了解如何获得日志文件并发送给我们。
 
-Rarely, you might need to contact your ISP to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
+极少数情况下，你可能需要向你的互联网服务提供商（ISP）询问这个问题。互联网服务提供商可能无法连接 osu!，通常是因为使用了很差的路线。
