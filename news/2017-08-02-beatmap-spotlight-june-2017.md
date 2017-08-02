@@ -33,7 +33,7 @@ Absolute mastery of a style at its finest. **[GoldenWolf](https://osu.ppy.sh/u/1
 
 After No Poi, **[Asahina Momoko](https://osu.ppy.sh/u/3650145)** returns again in 2017 to bring us more Chino - and good mapping. Asahina Momoko never sticks to the 'mapping-meta', and as such, all his maps are always different and interesting.
 
-With his particular style, he's managed to capture this song perfectly with strong innovative spacing usage to create different intensities. His rhythm usage is top notch, being consistent enough to maintain playability, while having ample variation so it does not bore out the player with its length. You won't regret giving this one a good play through!
+With his particular style, he's managed to capture this song perfectly with innovative spacing usage to create varying intensities. His rhythm usage is top notch, being consistent enough to maintain playability, while having ample variation so it does not bore out the player with its length. You won't regret giving this one a good play through!
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/dorchadas.jpg)](https://osu.ppy.sh/s/580215)
 
