@@ -5,7 +5,10 @@ permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
 date: 2017-08-04 15:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
 ---
+
 July has finally ended but it definitely did not end without a bang! An amazing EZDTFL play on a popular map, a couple of number 1 plays and more crazy non osu!standard scores, all you don't want to miss!
+
+![](/wiki/shared/news/2017-08-04-scorewatch-july-week-4/banner.jpg)
 
 With a leaderboard filled with NF scores, you would think seeing a HD score would be pretty unbelievable. [Emilia](https://osu.ppy.sh/u/2003326) decided to slap that mod on, setting the number one score on [ZiGZaG HACKER - V^3 (Hello World)](https://osu.ppy.sh/b/801303) with a crazy HD 25x miss 84.02% play to beat out Cookiezi on combo! Things really speed up at 1:17.
 
