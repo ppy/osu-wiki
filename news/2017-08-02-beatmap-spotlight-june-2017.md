@@ -25,7 +25,7 @@ First of all, congratulations to the winners of the May 2017 Spotlights. They re
 
 ## osu!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/youkai-no-yama.jpg)](https://osu.ppy.sh/s/458983)
+[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/youkai-no-yama.jpg)](https://osu.ppy.sh/s/596079)
 
 Absolute mastery of a style at its finest. **[GoldenWolf](https://osu.ppy.sh/u/1612624)**'s latest marathon takes us on a journey through this epic piece by Demetori. The structure of the map is simple, yet refined. The gameplay experience is difficult, yet accompanies the song perfectly. And not to mention the classic meticulous GoldenWolf hitsounding! A well-deserved top placing on this month's charts.
 
@@ -79,7 +79,7 @@ With enjoyable mapping and unique rhythms, **[ZiRoX](https://osu.ppy.sh/u/200768
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/mahou-shoujo-chino_osucatch.jpg)](https://osu.ppy.sh/s/458983)
 
-Making an appearance alongside **[Asahina Momoko](https://osu.ppy.sh/u/3650145)**'s spotlight worthy osu! difficulty, veteran mapper **[Minako Yukina](https://osu.ppy.sh/u/531253)** (previously known as CLSW) showcases his experience of catch mapping with a map that does a wonderful job of expressing the intricate rhythms of this cute and upbeat song. While it's not quite at the level of difficulty many players have to come know his maps for its still sure to provide a challenge for all but the best catch players.
+Making an appearance alongside **[Asahina Momoko](https://osu.ppy.sh/u/3650145)**'s spotlight worthy osu! difficulty, veteran mapper **[Minato Yukina](https://osu.ppy.sh/u/531253)** (previously known as CLSW) showcases his experience of catch mapping with a map that does a wonderful job of expressing the intricate rhythms of this cute and upbeat song. While it's not quite at the level of difficulty many players have to come know his maps for its still sure to provide a challenge for all but the best catch players.
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/syncretism.jpg)](https://osu.ppy.sh/s/514144)
 
