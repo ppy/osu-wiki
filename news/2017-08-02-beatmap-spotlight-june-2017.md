@@ -69,7 +69,7 @@ He might be a rookie, but **[gaston_2199](https://osu.ppy.sh/u/5938161)** mapset
 
 Following the immense popularity of the song "We Are Number One", this Dunderpartrullen remix offers an even catchier rhythm in addition to the already memorable tune. **[Midnaait](https://osu.ppy.sh/u/1506011)**'s mapset capitalizes on this extremely well, offering a wide selection of fun difficulties to play, with contributions from guest mappers Lno and Kantan.
 
-In his flagship Number Oni difficulty, Midnaait shows off the most diverse range of technical snappings. Particularly impressive to note was his stylistic placement of 1/8th doublets throughout - this complemented well with the quirky nature of the song, and gave it an extra "kick" to make it all the more enjoyable.
+In his flagship Number Oni difficulty, Midnaait shows off the most diverse range of technical snappings. Minute slider velocity changes are used in conjuction with this to keep everything flowing smoothly. Particularly impressive to note was his stylistic placement of 1/8th doublets throughout - this complemented well with the quirky nature of the song, and gave it an extra "kick" to make the map all the more enjoyable.
 
 ## osu!catch
 
