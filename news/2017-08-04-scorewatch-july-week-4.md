@@ -2,7 +2,7 @@
 layout: post
 title: "Scorewatch: July Week 4"
 permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
-date: 2017-08-04 15:00:00 +0200
+date: 2017-08-04 08:30:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
 ---
 
