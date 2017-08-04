@@ -63,7 +63,7 @@ Awash in movement and beautifully rendered colour, her work is every bit as impr
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Evaine%20%28Reckless%20Creeper%29.jpg)](https://assets.ppy.sh/contests/48/winners/Reckless%20Creeper.jpg)
 
-**Featuring Tama and Mocha in a osu!taiko-print bikini, [Evaine](https://osu.ppy.sh/u/7295733)'s captivating entry stole the hearts of _846_ voters.**
+**Featuring Aiko and Mocha in a osu!taiko-print bikini, [Evaine](https://osu.ppy.sh/u/7295733)'s captivating entry stole the hearts of _846_ voters.**
 
 Lounging on pristine sands and enjoying some beachfront snacks, **Evaine**'s portrayal of the winning osu!taiko mascots is strangely comfortable despite the sizzling heat.
 
