@@ -21,4 +21,4 @@ _예를 들어 서클 노트나 각종 노트를 두거나 할 때 등_
 - [SB Load](SB_Load): A number used to tell how demending a storyboard is. Any number past 5x is bad for ancient machines.
 - [Slider](Slider): A basic explanation of how sliders work in _osu!_
 - [Timelines](Timelines): 비트맵 에디터의 상단에 위치해있으며, 이곳에서는 타임라인에 배치된 노트들이나 브레이크 타임 및 여러 가지 사항들을 보여줍니다.
-- [Timing](Timing): A uide on properly setting up the timing of a new beatmap.
+- [Timing](Timing): 비트맵을 만들기 시작했을때 타이밍을 설정할수있습니다.
