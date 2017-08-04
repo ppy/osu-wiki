@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Scorewatch: July Week 4"
-permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
 date: 2017-08-04 08:30:00 +0000
-tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-july-week-4
 ---
 
 July has finally ended but it definitely did not end without a bang! An amazing EZDTFL play on a popular map, a couple of number 1 plays and more crazy non osu!standard scores, all you don't want to miss!
