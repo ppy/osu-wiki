@@ -1,5 +1,5 @@
 o osu!wiki
 =======
 
-osu!wiki to projekt kierowany przez społeczność, który pozwala zrozumieć użytkownikom osu! zasady i mechanikę gry w skuteczny sposób.
-osu! jest własnością Deana Herberta (peppyego).
+osu!wiki to projekt prowadzony przez społeczność, który ma za zadanie pomóc użytkownikom osu! skutecznie zrozumieć zasady i mechanikę gry.
+osu! jest własnością Deana Herberta (peppy'ego).
