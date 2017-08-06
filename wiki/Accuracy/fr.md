@@ -124,7 +124,7 @@ Unstable Rate | **Valeur basée sur la variation moyenne de la vitesse de rotati
 
 **Notes:**
 
-- Les quatres valeurs ci-dessus ne sont pas sauvegardées et disparaîtront après avoir fermé _osu!_.
+- Les quatre valeurs ci-dessus ne sont pas sauvegardées et disparaîtront après avoir fermé _osu!_.
   Pour les revoir, regardez le replay exporté.
 - Du fait de la façon dont les mods Double Time et Half Time sont implémentés, les valeurs "Error" et "Unstable Rate" seront multipliées par le facteur de vitesse de la beatmap.
   Afin d'obtenir les vraies valeurs en jouant DT, il faut diviser les résultats par 1.5.
