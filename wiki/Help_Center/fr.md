@@ -405,108 +405,108 @@ Tor ou tout ce qui y est lié ne permet pas de se connecter à nos serveurs pour
 
 ----------------------------------------------------------------------------
 
-## Website
+## Site Web
 
-### I have not received a reply to my support ticket and it's been over 2 weeks!
+### Je n'ai pas reçu de réponse à mon ticket au support depuis 2 semaines !
 
-**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
+**Pour la plupart du temps, c'est dû à un grand nombre de tickets venant dans notre sytème à la fois.**
 
-You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
+Vous pouvez toujours envoyer un seule réponse à votre ticket ouvert pour demander l'état de votre cas, mais ne le faites pas plus d'une ou deux fois par semaines.
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
+Dans de rares circonstances, les tickets envoyés par des joueurs incriminés peuvent être volontairement ignorés, cependant l'équipe vous dira **toujours** quand elle ne répondra plus à vos tickets. Si vous n'avez pas été notifié de cela, vous ne devrez pas vous en faire !
 
-### My user page has been locked and I can't edit it!
+### Ma page utilisateur a été bloquée et je ne peux plus l'éditer !
 
-**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
+**Cela arrivera si votre page a eu du contenu inapproprié, comme définit dans nos [règles de la communité](/wiki/Rules).**
 
-In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
+Dans de tels cas, vous pouvez ouvrir un ticket à l'équipe de support en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) et discuter de votre situation ave eux.
 
-Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
+La plupart du temps, vous serez réautorisé à éditer votre page, mais les utilisateurs abusant de cette autorisation peuvent se voir bloqué à tout jamais, soyez prudent !
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+Si à n'importe quel moment vous avez un doute sur un contenu, vous pouvez envoyer un message à l'[Équipe Globale de Modération](/wiki/People/Global_Moderation_Team) avec ce que vous pensiez y mettre et ils vous feront savoir si c'est correct.
 
 
-### Can I completely block another user from contacting me?
+### Puis-je totalement bloquer quelqu'un?
 
-**Yes, absolutely.**
+**Oui, absolument.**
 
-In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
+Dans le cas où un autre utilisateur vous harcèle via messages privés, forums ou via le jeu lui-même, il y a quelques étapes à suivre vous permettant de filtrer ses messages.
 
-#### Blocking a user from contacting you in-game
+#### Empêcher un utilisateur de vous contacter en jeu
 
-**To block a user from sending you messages in-game, simply add them to your ignore list.**
+**Pour empêcher un utilisateur de vous contacter en jeu, ajoutez-le simplement à la liste d'utilisateurs ignorés.**
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You are done! 
+1. Cliquez sur le bouton d'options en jeu
+2. Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
+3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace edans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par example).
+4. C'est bon ! 
 
-You'll no longer see public chat messages from any users on that list, or receive private messages from them.
+Vous ne recevrez ni messages publiques, ni messages privés venant des utilisateurs de cette liste.
 
-#### Blocking all non-friends from sending private messages in-game
+#### Bloquer tous les utilisateurs qui ne sont pas en amis
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des messages privés, suivez les étapes suivantes. **NotezPlease note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
-1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
-2. Type "block" to filter the options listing to the "In-game Chat" section.
-3. Toggle the setting on by clicking it.
-4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
+1. Cliquez sur le bouton `Options` en jeu ou appuyez sur `Control` + O sur votre clavier
+2. Écrivez "block" pour trouver l'option dans la section "Chat".
+3. Activer l'option en cliquant dessus.
+4. C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
 
-#### Blocking public forum posts from a user
+#### Bloquer les posts de forum d'un utilisateur
 
-**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
+**Pour cacher la plupart des prosts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
 
-1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
-2. Click submit.
-3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
+1. Dirigez-vous vers la [liste de vos ennemis dans l'UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) et ajoutez simplement leur nom d'utilisateur à cette liste.
+2. Cliquez sur Submit.
+3. C'est fait ! La plupart des posts de forum de cet utilisateur ne seront plus visibles pour vous - comme s'ils n'ont jamais existé. Notez que les posts citant ses posts seront toujours visibles.
 
-#### Prevent any new forum private messages from reaching you
+#### Empêcher les messages privés du forum de vous atteindre
 
-**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
+**Pour supprimer tous les messages privés du forum avant qu'ils n'arrivent, faites une [règle de filtrage automatique dans les paramètres d'UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
 
-1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. At the very top of the page, look for a column titled `Add new Rule`.
-3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
-4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
-5. Enter the offending user's username into the textbox that appears, then click Next.
-6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
+1. Dirigez-vous vers la section de filtrage des PM dans l'[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
+2. Au tout début de la page, cherchez la colonne intitulée `Add new Rule`.
+3. Cliquez sur la première boîte déroulante (la valeur par défaut est Subject) et changez-la en `Sender`, puis cliquez sur Next.
+4. Cliquez sur la première boîte déroulante et changez la valeur de "is like" à "is" (troisième option dans la liste), puis cliquez sur Next.
+5. Entrez le nom de l'utilisateur que vous souhaitez bloquer dans la boîte de texte qui ets apparue, puis cliquez sur Next.
+6. Cliquez sur la première boîte déroulante et changez sa valeur sur "Delete message", puis cliquez sur "Add Rule".
+7. C'est bon ! Toutes tentatives de l'utilsateur de vous contacter via les messages privés du forum seront automatiquement supprimés sans vous avertir.
 
-#### What if I'm still having problems with a user after blocking them?
+#### Que faire si j'ai toujours des problèmes avec un utilisateur que j'ai bloqué ?
 
-**Never fear, our moderation team will help you out.**
+**N'ayez crainte, notre équipe de modération vous aidera.**
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
+Si un utilisateur vous harcèle toujours, ou utilise ses amis ou quelqu'un d'autre pour contourner ces blocages, veuillez nous contacter via un email à [support@ppy.sh](mailto:support@ppy.sh).
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
+N'oubliez pas d'inclure des logs ou autres preuves dans l'email, et notre équipe du support se penchera sur votre cas et vous aidera.
 
-### What are these "user pages" that I see on other players profiles?
+### Qu'est-ce que sont ces "user pages" que je peux voir sur le profil des autres joueurs ?
 
-**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**les user pages sont des éléments spéciaux auquels tous les joueurs avec le [supporter tag](https://osu.ppy.sh/home/support) ont accès. Ils peuvent contenir ce que vous voulez - des images de vos succès, vos beatmaps, basiquement tout !**
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Les joueurs avec un [supporter tag](https://osu.ppy.sh/home/support) ont le privilège d'éditer leur propre page. Les user pages peuvent contenir ce que vous souhaitez - tant que le contenu suit les [règles de communauté](/wiki/Rules)!
 
-Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
+Si votre [supporter tag](https://osu.ppy.sh/home/support) arrive en fin de vie, votre user page **restera visible** et vous serez toujours capable d'éditer son contenu.
 
-### Do I need to use my email address to register?
+### Ai-je besoin d'une adresse email pour m'enregistrer ?
 
-**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
+**Non, vous n'en avez pas besoin. Nous vous authetifions via le jeu, un email n'est donc pas nécessaire pour s'enregistrer.**
 
-If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
+Si vous avez des problèmes pour vous connecter en jeu, veuillez vérifier votre pare-feu et votre antivirus pour vous assurer qu'osu! n'est pas bloqué.
 
-While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
+Bien qu'un email n'est pas requis, nous vous recommandons d'en associer un à votre compte, puisque qi vous perdez votre mot de passe ou ne pouvez pas accéder à votre compte, votre email ets notre premier point de contact avec vous.
 
-### Why can't I search for a beatmap artist who's name is less than 3 characters long?
+### Pourquoi je ne peux pas rechercher de beatmaps d'un artiste dont le nom est composé de moins de 3 caractères ?
 
-**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
+**Notre moteur de recherche ne peut pas gérer ces cas dû à des limitations techniques, mais vous pouvez toujours utiliser la barre Google Custom Search en haut de la plus grande partie des pages du site.**
 
-Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
+Entrez simplement le nom de l'artiste que vous souhaitez et Google fera le reste.
 
-### Why are the statistics in my user profile page wrong?
+### Pourquoi les statistiques sur ma page de profil sont mauvaises ?
 
-**You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
+**Vous regardez probablement le mauvais mode de jeu ! Le site montre par défaut les scores pour le dernier mode de jeu auquel vous avez joué.**
 
-If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
+Si vous avez été inactif pour une longue période de temps et que vos statistiques sont mauvaises, jouez quelques maps pour les actualiser. Les utilisateurs inactifs peuvent voir leur scores cachés pour garder les classements propres.
 
 ----------------------------------------------------------------------------
 
