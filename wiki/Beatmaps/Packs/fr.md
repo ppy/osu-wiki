@@ -26,7 +26,7 @@ Tout cela pour ceux qui veulent vraiment *et complétement remplir leur liste de
 
 Gardez à l'esprit que vous aurez besoin de beaucoup d'espace disque pour stocker ces beatmaps puisque les beatmap packs (et les torrents) téléchargeront également les vidéos et autres éléments skinnables.
 
-### Liste des Beatmap Pack
+### Liste des Beatmap Packs
 
 Vous pouvez télécharger les beatmap packs (-/Approuvés/Taiko/osu!mania) depuis la catégorie **Standard** et nulle part d'autre. Les beatmap packs (-/Approuvés/Taiko/osu!mania) contiendront les musiques des trois autres catégories.
 
@@ -34,7 +34,7 @@ Les beatmaps packs sont situés sur la [page des Beatmaps Packs d'osu!](https://
 
 ### Torrents
 
-> Attention: Les beatmaps torrent semblent ne plus être présentes dans la communauté osu!.
+> Attention: Les torrents de beatmaps semblent ne plus être présents dans la communauté osu!.
 
 - [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
