@@ -98,13 +98,13 @@ Pour plus de détails, voir [Score][Score wikilink].
 ![Panneau de Classement d'osu!catch](img/catch.jpg "Panneau de Classement d'osu!catch")
 ![Panneau de Classement d'osu!mania](img/mania.jpg "Panneau de Classement d'osu!mania")
 
-### Graphique de Perfomance
+### Graphique de Performance
 
 Un graphique de performance de la partie jouée.
 
 Des informations supplémentaires sont affichées quand le curseur survole le graphique:
 
-![Graphique de Perfomance](img/tr.jpg "Graphique de Perfomance")
+![Graphique de Performance](img/tr.jpg "Graphique de Perfomance")
 
 #### Précision
 
