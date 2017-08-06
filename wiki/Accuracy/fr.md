@@ -100,7 +100,7 @@ Pour plus de détails, voir [Score][Score wikilink].
 
 ### Graphique de Perfomance
 
-Un graphique de perfomance de la partie jouée.
+Un graphique de performance de la partie jouée.
 
 Des informations supplémentaires sont affichées quand le curseur survole le graphique:
 
@@ -110,7 +110,7 @@ Des informations supplémentaires sont affichées quand le curseur survole le gr
 
 Terme | Signification
 ----- | -------
-Error | **Ces deux valeurs représentent l'écart moyen en millisecondes des notes frappées trop tôt et trop tard.** Plus l'[OD](OD wikilink) de la beatmap est haut, plus ces écarts devront être faible afin de bien réussir la beatmap.
+Error | **Ces deux valeurs représentent l'écart moyen en millisecondes des notes frappées trop tôt et trop tard.** Plus l'[OD](OD wikilink) de la beatmap est haut, plus ces écarts devront être faibles afin de bien réussir la beatmap.
 Unstable Rate | **Cette valeur représente la consistance de vos frappes**. Plus cette valeur est faible plus vos frappes sont en rythme (les meilleurs joueurs ont en dessous de 100). Veuillez noter que cela mesure la consistance et non la précision, donc si vous tapez constamment 15ms en avance, vous aurez un résultat similaire dans le cas où vous tapez constamment sur le beat. La formule est essentiellement la déviation de la marge d'erreur multipliée par 10.
 
 #### Spin
