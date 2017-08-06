@@ -91,7 +91,7 @@ Introduction aux Mods
 
 _Voir aussi: [Modifieurs de Jeu](/wiki/Game_Modifiers)._
 
-Les médailles introduction aux mods peuvent être obtenues en finissant des maps avec des modifieurs de jeu spécifiques.
+Les médailles Introduction aux Mods peuvent être obtenues en finissant des maps avec des modifieurs de jeu spécifiques.
 Ils encouragent les nouveaux joueurs à essayer chaque mod et explorer ce que le jeu a à offrir.
 Notez que si le joueur joue avec plusieurs modifieurs de jeu en même temps, le joueur n'est **pas** éligible à l'obtention de _n'importe quelle_ médailles de modifieurs de jeu pour cette partie.
 
