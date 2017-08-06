@@ -1,6 +1,6 @@
 # osu!academy
 
-![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
+![logo d'osu!academy](img/osu!academy-logo.jpg "osu!academy logo")
 
 **osu!academy** vise à apporter de la compréhension à tous les aspects d'osu!, du jeu au mapping, avec tout ce qu'il y a entre.
 
