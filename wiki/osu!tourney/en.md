@@ -2,47 +2,18 @@
 
 **osu!tourney** is the official multi-spectator client used to view and stream an entire multiplayer match at once in _osu!_.
 
-Access to the osu!tourney client is limited to a specific tournament's hosts and their staff.
-Tournament hosts will have to contact `tournaments@ppy.sh` to apply for access, which is limited for the time needed to conclude the tournament they host.
-Using the client is not meant for public as of right now and requires approval from the game administration.
+Users encountering **problems** with the client may read the Troubleshooting section below or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
-Any guarantee about its functionality is excluded if you use it for a different purpose than streaming tournaments or multiplayer event sessions.
-This client is not for **private** use.
-
-Users encountering **problems** with the client may read the Troubleshooting section below or **[post in this thread](https://osu.ppy.sh/forum/t/327120)**.
-
-## FAQ
-
-### What is osu!tourney?
+## What is osu!tourney?
 
 The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously.
 It is, currently, only meant to be used for world cups and might therefore be limited in its behaviour.
 
-The client, henceforth referred to as _osu!tourney_, mainly supports team versus matches, up to 2 teams of up to 8 players each.
-The number of windows opened cannot currently be changed, but this behaviour will be modified in the future.
-
-Keep in mind that in order to use osu!tourney, you must be part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup; otherwise, you won’t be able to login properly to it.
-
-### Getting access to the client
-
-After you have organized your event completely, send in an e-mail to `tournaments@ppy.sh` including:
-
-1. The day when the tournament starts and ends
-2. Any links to follow the tournament (this should be publically accessible)
-3. An exhaustive list of concrete osu! usernames that want to use osu!tourney
-4. Anything else of importance
-
-Please send your inquiry **at least 2 weeks in advance**.
-This allows us to setup everything ahead of time for you.
-
-When your access gets granted, you will be added to the [Tournament Staff](https://osu.ppy.sh/g/26) user group temporarily.
-This enables all of the features coming along with osu!tourney, including the specific IRC commands.
-Membership in this usergroup is limited and will expire whenever your tournament concludes.
-
-We expect you to act professionally and responsibly with access to all of the tournament tools.
-Any actions with malicious intent will not be treated lightly.
+The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
 ## Setup
+
+**Note:** osu!tourney currently requires an active supporter tag to use it.
 
 There are only a few steps to setup the osu!tourney client.
 
@@ -119,11 +90,9 @@ At the bottom of the client, you will see the control panel.
 
 ![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel")
 
-_osu!tourney control panel_
-
 ---
 
-![When the multiplayer rooms were created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![When the multiplayer rooms are created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
 ![osu!tourney assigns team names and usernames automatically](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
 
@@ -178,65 +147,9 @@ So here our example uses the template:
 
 You can replace Team Name 1 and Team Name 2 with any team name you want to assign, **but keep the brackets `()` around them**.
 
-### IRC Commands (optional)
-
-To use this, ensure that all tournament staff and helpers are connected via IRC to Bancho and are members of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup.
-
-All of the following commands should be executed through an IRC client (some popular choices are mIRC, HexChat, and HydraIRC).
-
-Send a private message to BanchoBot with the text `!mp help`.
-You should now see a list of all the commands you may use.
-To create the tournament multiplayer room, send the message `!mp make Test Tourney: (Team Name 1) vs (Team Name 2)`.
-
-This room is special in that it is not closed when all players have left the room, and it is inherently protected from players joining the room themselves.
-All tournament staff IRC clients will automatically join the chat channel for your newly created multiplayer room.
-All room management commands should henceforth only be written in this chat channel.
-
-When the match is finished, send the command `!mp close` to close the room.
-
-The following is a list of available management commands.
-Any properties enclosed with brackets `[]` are optional:
-
-- `!mp lock` - Locks the room so that players can’t change their team and slot.
-- `!mp unlock` - Reverses the above.
-- `!mp size` \<size\> - Sets the amount of available slots (1-16) in the room.
-- `!mp set` \<teammode\> `[<scoremode>] [<size>]` - Sets various room properties.
-  - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
-  - `scoremode` - 0: Score, 1: Accuracy, 2: Combo
-- `!mp move` \<username\> `[<slot>]` - Moves the player into the room into the specified slot. If the player is already in the room, it will move the player into the specified slot.
-- `!mp host` \<username\> - Transfers host to the player.
-- `!mp clearhost` - Clears match host.
-- `!mp settings` - Displays full match details.
-- `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
-- `!mp abort` - Aborts the match.
-- `!mp kick` \<username\> - Kicks the player from the room.
-- `!mp team` \<username\> \<colour\> - Moves a player to the specified team.
-  - `colour` - red, blue
-- `!mp map` \<mapid\> `[<playmode>]` - Changes the beatmap and playmode of the room.
-  - `playmode` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
-- `!mp mods` \<mod\> `[<mod>] [<mod>] …` - Removes all currently applied mods and applies these mods to the room.
-  - Any amount of mods can be entered.
-  - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<time>]` - Begins a countdown timer.
-- `!mp timer [<time>]` - Begins a countdown timer.
-  - `time` is 30s default.
-  - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
-- `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
-- `!mp addref <username>, <username>...` - Adds referees to the room so they can see the chat and use the !mp commands.
-- `#`\<userid\> may substitute \<username\> in all of the above commands.
-   Usernames must have any whitespace be replaced with underscores ( `_` ).
-- `!mp password` - Enables/disables the multiplayer room password (initially enabled).
-
-The following is an example of command usage:
-
-- `!mp move Zallius 1` - Move Zallius into slot 1 of the room.
-- `!mp move Loctav 4` - Move Loctav into slot 4 of the room.
-- `!mp team Zallius blue` - Move Zallius to the blue team.
-- `!mp team Loctav red` - Move Loctav to the red team.
-- `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
-- `!mp start` - Start the match instantaneously.
-
 ### Room management
+
+Please see [Tournament Management Commands](/wiki/Tournament_Management_Commands "Tournament Management Commands") for more information.
 
 The osu!tourney client will successfully recognize the room.
 Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
@@ -263,25 +176,17 @@ In order to let every team member be in the right team within osu!tourney, playe
 
 ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")
 
-_TeamSize = 4_
-
 ---
 
 ![TeamSize = 3](Teamsize3.png "TeamSize = 3")
-
-_TeamSize = 3_
 
 ---
 
 ![TeamSize = 2](Teamsize2.png "TeamSize = 2")
 
-_TeamSize = 2_
-
 ---
 
 ![TeamSize = 1](Teamsize1.png "TeamSize = 1")
-
-_TeamSize = 1_
 
 ### Skinning
 
@@ -294,7 +199,7 @@ The path of the folder must be `/osu!/Skins/User/tournament`.
 The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.
 To skin them properly, name your elements accordingly:
 
-- `background` - this is the background sprite used by osu!tourney during the entire time.
+- `background` - this is the background sprite used by osu!tourney during the entire time. The default background for osu!tourney can be found [here](https://s.ppy.sh/images/tournament/default.png).
 - `background-win1` (optional) - the background sprite will be fade over to this sprite in Results Screen when the left team won.
    It will fade back to `background` when leaving Results Screen.
    If this element is not placed, it will stay on `background`.
@@ -313,34 +218,36 @@ All icons must be named exactly like the Team name.
 If your match is called `Test Tourney: (Team 1) vs (Team 2)`, your icons must be called `Team 1 and Team 2`.
 Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 
-**[Download the template.psd here](http://osu.ppy.sh/images/tournament/template.zip)** for an easier creation of your personal skin.
+[Download the skin template](https://s.ppy.sh/images/tournament/template.zip) for an easier creation of your personal skin.
+
+### Prizes
+
+We may award profile badges to first-place winners of tournaments meeting the following criteria:
+- This is the second or further iteration of the tournament.
+- The staff members involved in managing the tournament are **not** participating in the tournament themselves.
+- The tournament is run four or less times per year (seasonal).
+
+Please email tournaments@ppy.sh if your tournament meets this criteria.
 
 ## Troubleshooting
 
-### How do fresh install osu! without uninstalling my current?
+### How do I create a fresh osu! installation without uninstalling the current game?
 
-Copy-paste the `osu!.exe` into an empty folder and run it.
+Copy `osu!.exe` into an empty folder and run it.
 
 ### My osu! windows are not aligning properly!
 
-**Please disable any secondary monitors!**
-
-osu!tourney only runs on the primary monitor.
-A small screen resolution could also cause this problem as well.
+Disable any **secondary monitors!**
+osu!tourney only runs on the primary monitor. Try disabling any secondary monitors you have active. Make sure that the primary monitor has a resolution larger than the resolution of the client (1280x720 by default).
 
 Ensure that you did **not** run osu! as administrator (unless osu! is asking for it directly on its own).
 Make sure to have osu! updated to the newest cuttingedge build!
 
 ### osu!tourney does not open, it throws me an error prompt and/or closes!
 
-- Make sure you are part of the [Tournament Staff](https://osu.ppy.sh/g/26) usergroup.
-  Most of the times, you are only added temporarily, so your access may have expired.
-- You should ensure that the `privateserver` key in the `tournament.cfg` has no value set.
-- Make sure that you are logged into osu!
-  If not, run osu! and login, then close osu! again and restart as the tournament client.
-- Make sure to only use one monitor.
-- Ensure that you do **not** run osu! as administrator (unless osu! is asking for it directly on its own).
-- Make sure to have osu! on the Cutting Edge release stream.
+- Ensure that osu! is using the Cutting Edge release stream.
+- Make sure that you are logged into osu! If not, run osu! normally, login while making sure the "Remember Username" and "Remember Password" checkboxes are checked, then restart osu! as the tournament client.
+- Ensure that the `privateserver` key in `tournament.cfg` has no value set.
 
 ### My osu! song database corrupts when starting up!
 
@@ -357,34 +264,28 @@ Rename or delete the `tournament.cfg` file.
 
 ### My client is not spectating!
 
-**Make sure you have joined the room!**
+Make sure you have **joined the room!**
 
 Click the room name on the bottom black panel until it is **bold**.
 If the client is still not spectating, click the `Panic` button.
 
 ### The rooms are not showing up!
 
-- Your multiplayer room is named incorrectly or you used the wrong acronym in the `tournament.cfg`.
-- Make sure you use the correct room name (see the **Match Creation** section).
-  Renaming an existing multiplayer room will not work.
-- Recreate the entire room, if you did something wrong.
+It is possible that your multiplayer room is named incorrectly or you used the wrong acronym in `tournament.cfg`.
+Make sure you are using the correct room name (see the **Match Creation** section), renaming an existing multiplayer room will not work.
+If the above doesn't work, recreate the room while following the **Match Creation** section of this guide closely.
+
+Email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if you require further assistance.
 
 ### The team names are not showing!
-
-- Your multiplayer room is named incorrectly then or you use the wrong acronym in the `tournament.cfg`.
-- Make sure you use the correct room name (see the **Match Creation** section).
-  Renaming an existing multiplayer room will not work.
-- Recreate the entire room, if you did something wrong.
+See previous answer.
 
 ### How do I stream my tournament to streaming services like Twitch?
 
 To set up a stream, we recommend using the [Open Broadcaster Software](https://obsproject.com/), but know that you are also free to use any other streaming client you have access to.
-The resolution of the top part of osu!tourney is `1280x720px`.
-
-**Please adjust the cropping to remove the black control panel from the stream!**
+The resolution of the top part of osu!tourney can be customised but by default it is `1280x720`. Make sure that the resolution of your monitor is bigger than this value. See the Setup section for information on how to change the resolution.
+Do not forget to adjust the cropping to remove the black control panel from the stream!
 
 ### My issue/question is not listed here! What to do?
 
-Post in **[this thread](https://osu.ppy.sh/forum/t/327120)**.
-Developers are monitoring this thread to help you troubleshooting the problems you are encountering.
-Make sure to be descriptive and provide screenshots, if possible.
+Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.

@@ -1,6 +1,6 @@
 Primero que nada, quisiéramos darte una cálida bienvenida y un abrazo por unirte a nuestra comunidad. Déjanos explicarte unas cosas antes de que empieces con tu aventura.
 
-![osu!](Osu-boxart.png "osu!")
+![osu!](osu-boxart.png "osu!")
 
 \_\_TOC\_\_
 

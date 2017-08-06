@@ -43,7 +43,7 @@ Byte offsets are not included in this table due to variable length values.
 | Byte Array | Compressed replay data |
 | Long | Unknown |
 
-The remaining data contains information about mouse movement and key presses in an <wikipedia:LZMA> stream.
+The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
 When decompressed, the text contains data separated by commas. Each piece denotes an action, represented by 4 numbers in the form: `w | x | y | z.`
 

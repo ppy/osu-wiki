@@ -1,4 +1,4 @@
-Először is, szeretnénk Téged köszönteni a közösségben! Engedd meg, hogy elmagyarázzunk egy pár dolgot, mielőtt útnak indulsz. ![osu!](Osu-boxart.png "fig:osu!")
+Először is, szeretnénk Téged köszönteni a közösségben! Engedd meg, hogy elmagyarázzunk egy pár dolgot, mielőtt útnak indulsz. ![osu!](osu-boxart.png "fig:osu!")
 
 \_\_TOC\_\_
 
