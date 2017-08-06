@@ -35,14 +35,14 @@ Chacune de ces sections comporte 4 volumes.
 ### Remarques:
 
 - Les mods peuvent être utilisés, à l'exception de ceux qui ne comptent pas dans les classements (mod [Auto Pilot](/wiki/AP) par exemple). Utilisez les mods avec sagesse et à votre avantage.
-- Après avoir obtenu votre succès, vous pouvez supprimer les chansons du theme que vous avez complété. Votre succès ainsi que votre score et précision entrés dans le classement seront conservés. Si vous voulez améliorer votre score et votre précision sur une beatmap, vous devrez importer cette beatmap dans votre jeu une nouvelle fois.
+- Après avoir obtenu votre succès, vous pouvez supprimer les chansons du thème que vous avez complété. Votre succès ainsi que votre score et précision entrés dans le classement seront conservés. Si vous voulez améliorer votre score et votre précision sur une beatmap, vous devrez importer cette beatmap dans votre jeu une nouvelle fois.
 
 Compétence
 -----------
 
 Les médailles de compétence se divisent actuellement en trois catégories: Combo, High Ranker, and Star-based.
 
-Les médailles **Combo** s'obtiennent en atteignant un [combo](/wiki/combo) spécifique dans le mode osu!standard, et peuvent être complétéess sur n'importe quelle musique.
+Les médailles **Combo** s'obtiennent en atteignant un [combo](/wiki/combo) spécifique dans le mode osu!standard, et peuvent être complétées sur n'importe quelle musique.
 Atteindre le même combo en mode [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) ne vous donnera **pas** le succès.
 
 Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked". 
@@ -92,7 +92,7 @@ Introduction aux Mods
 _Voir aussi: [Modifieurs de Jeu](/wiki/Game_Modifiers)._
 
 Les médailles introduction aux mods peuvent être obtenues en finissant des maps avec des modifieurs de jeu spécifiques.
-Ils encouragent les nouveaux joueurs à essayer chaque mod et explorer ce que le jeu à a offrir.
+Ils encouragent les nouveaux joueurs à essayer chaque mod et explorer ce que le jeu a à offrir.
 Notez que si le joueur joue avec plusieurs modifieurs de jeu en même temps, le joueur n'est **pas** éligible à l'obtention de _n'importe quelle_ médailles de modifieurs de jeu pour cette partie.
 
 | Augmentation de Difficulté | Réduction de Difficulté | Spécial |
