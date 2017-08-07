@@ -512,212 +512,212 @@ Si vous avez été inactif pour une longue période de temps et que vos statisti
 
 ## Gameplay
 
-### My combo counter, score display or accuracy display is missing!
+### Mon compteur de combo, mon score ou ma précision ne s'affiche pas !
 
-**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
+**Appuyer sur `Shift` + `Tab` par défaut va montrer ou cacher l'interface de jeu et vous permettra de revoir ces éléments.**
 
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+Si vous avez changé la configuration des touches pour montrer ou cacher le scoreboard, ça ne fonctionnera pas. Vous pouvez vérifier quelles touches sont définies dans `Options` -> `Configurer les touches` -> `In-Game` -> `Toggle Scoreboard`.
 
-### My local scores are missing!
+### Mes scores locaux ne sont pas là !
 
-There's a few reasons why this can happen. Read on below!
+Il y a quelques raisons pour que cela arrive. Lisez la suite !
 
-#### Have you recently reinstalled the game client?
+#### Avez-vous récemment réinstalùlé le jeu ?
 
-**Reinstalling the game client will automatically clear all of your local scores.**
+**Réinstaller le jeu va automatiquement supprimer tous vos scores locaux.**
 
-These are unfortunately, gone.
+Ils sont malheureusement partis, pout toujours.
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+Les scores que vous avez soumis en ligne seront toujours là cependant - il suffit de retélécharger n'importe quelle musique que vous avez déjà joué et votre score réapparaîtra.
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+Astuce utile - si vous êtes un osu!supporter, vous pouvez utiliser le filtre `Ranked (Played)` dans le panneau osu!direct en jeu ou via la [liste de beatmaps du site](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour trouver toutes les maps pour lesquelles vous avez un score.
 
-#### Are you set to the correct game mode?
+#### Avez-vous sélectionné le bon mode de jeu ?
 
-**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
+**Jouer avec un autre mode de jeu (osu!taiko, osu!catch ou osu!mania) cachera tous les scores en jeu pour ne montrer que ceux du mode de jeu sélectionné.**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
+C'est souvent en jouant sur des maps d'un autre mod de jeu, ce qui dit automatiquement à la sélection des musiques d'afficher les scores associé au mode actuel jusqu'à ce qu'il change. 
 
-You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
+Vous pouvez changer de mode de jeu en utilisant le bouton `Mode` en bas à gauche de l'écran de sélection des musiques, puis en choisissant le mode que vous souhaitez.
 
-#### Are you playing offline?
+#### Jouez-vous hors-ligne ?
 
-**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
+**Malheureusement, les scores faits hors-ligne ne peuvent pas être ajoutés au classement en ligne.**
 
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
+Si vous jouez en ligne et que vous souffrez de déconnexions vrèves pour n'importe quelle raison, le jeu essayera automatiquement d'envoyer les scores tant que le client est ouvert.
 
-#### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+#### Avez-vous récemment téléchargé beaucoup de beatmaps ? (comme un beatmap pack)
 
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
+**Les scores peuvent mettre du temps à être téléchargé si vous chargez beaucoup de beatmaps d'un coup.**
 
-Playing the game or doing something else will let the client catch up in the background.
+Jouer ou fair euatre chose permet au jeu de se rattraper.
 
-### What is this white trail or smoke-like line behind my cursor?
+### Quel est ce trait blanc ressemblant à de la fumée derrière mon curseur ?
 
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**C'est une fonctionnalité spéciale appelée _smoke_, elle peut être utilisée pour dessiner sur votre aire de jeu pour le fun. Tous les spectateurs peuvent voir ce que vous dessinez.**
 
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+La touche par défaut pour cette fonctionnalité est `C`, et ça fonctionnera tant que vous tenez la touche enfoncé. Vous pouvez la changer dès que vous voulez dans la section `osu! Standard Mode` dans le dialogue d'option `Changer les touches`.
 
-### How do I save my own replay of a score I just made?
+### Comment sauvegarder le replay du score que je viens de faire ?
 
-**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
+**Entrez dans l'écran du score souhaité en cliquant dessus, et appuyez sur le touche `F2`.**
 
-This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
+Ça sauvegardera votre brillant score dans un fichier `.osr` dans le dossier /Replays/ du dossier d'installation d'osu!
 
-*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+*osu!* sauvegarde aussi automatiquement tous les replays après que vous complétez une musique se situant sous le dossier `/Data/r/`, lui aussi dans le dossier d'installation d'osu!.
 
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
+Sachez que si aucun replay n'a été sauegardé pour le score, vous ne serez pas capables d'en avoir un.
 
-### osu! is telling me that my game client is too old!
+### osu! me dit que mon client est trop ancien !
 
-**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
+**C'est l'heure de la mise à jour ! Les très vieilles versions du jeu ne sont pas autorisées à soumettre de nouveaux scores, vous devez donc forcer la mise à jour an allant dans `Options` -> `General` -> `Lancer le logiciel de mise à jour`.**
 
-If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
+Si ça ne fonctionne pas, vous pouvez fermer osu! et redémarrer osu.exe tout en tenant la touche `Shift`. Cela va vous offrire quelques options de mise à jour et de réparation, une de celles-là vous permet de mettre à jour votre jeu.
 
-### My scores aren't submitting!
+### Mes socres ne se soumettent pas !
 
-Oops! There's a few reasons why this can happen. Let's go through them:
+Oops! Il peut y avoir plusieurs raisons pour que cela arrive:
 
-#### Were you connected to the Internet while playing?
+#### Êtes vous connecté à Internet en jouant ?
 
-**If you were not able to access the Internet when finishing your score, it may not submit.**
+**Si vous ne pouvez pas accéder à Internet après avoir fait un score, il peut ne pas être soumis.**
 
-This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
+Ce peut être frustrant si jouez avec un mauvaise connexion, mais le jeu essayera de soumettre votre score tant que le jeu reste ouvert.
 
-#### Is osu! allowed in your local firewall or anti-virus suite?
+#### osu! est-il autorisé dans votre pare-feu et/ou antivirus ?
 
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+**Quelques pare-feu et ativirus peuvent empêcher osu! d'accéder à Internet, ce qui empêche le jeu d'envoyer les scores.**
 
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+Vérifiez ces programmes pour vous assurer qu'`osu!.exe` dans le dossier d'installation du jeu est aiutorisé à accéder à Internet.
 
-#### Are you running lots of programs in the background?
+#### Est-ce que beaucoup de programmes tournent en fond ?
 
-**Some can interfere with your ability to submit scores.**
+**Certains d'entre eux peuvent bloquer l'envoi des scoress.**
 
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
+Essayez de fermer tous les autre sprogrammes avant de jouer à osu! si vous rencontrez des problèmes pour soumettre vos scores et que vous n'avez aucun problème de connexion.
 
-#### Are the score submission servers up?
+#### Est-ce que le serveurs de scores sont disponibles ?
 
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+**La réponse st très souvent oui, mais vérifiez [stat.ppy.sh](https://stat.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
 
-If the servers are offline, do not close _osu!_ until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+Si les serveurs sont hors-ligne, ne fermez pas _osu!_ jusqu'à ce que nous corrigions les problèmes et que les serveurs ne reviennent, et le jeu tentera de soumettre les score jusqu'à une heure après avoir été faits avant d'abandonner.
 
-#### Can you upload a score I set for me?
+#### Pouvez-vous poster un score que j'ai fait pour moi ?
 
-**Unfortunately, we cannot upload scores upon request.**
+**Malheureusement, nous ne postons pas de score sur requête.**
 
-If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
+Si vous n'avez pas pu poster un score à cause de raisons techniques ou autre, la seule chose que vous pouvez faire est espérer le refaire. Désolé !
 
-### The notes seem out of sync or out of time with the music!
+### Les notes semblent être désynchronisées avec la musique !
 
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+**Ce peut être dû à un logiciel de traitement de son, comme _Razer Surround Audio_. Ce peut être aussi dû à votre `Décalage Audio` mal configuré.**
 
-Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
+fermez tous les logiciels qui peuvent altérer ou influencer le son provenant de votre ordinateur. Si ça n'aide pas, vous pouvez essayer d'ajuster votre `Décalage Audio`.
 
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+Chaque configuration matérielle a un `Décalage Audio` qui détermine si vous entendez l'audio du jeu un peu avant ou un peu après.
 
-The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
+Les valeurs par défaut fonctionnent pour la plupart des gens, mais si ce n'est pas votre cas, vous pouvez le changer en suivant les étapes suivantes:
 
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+- Allez dans le menu `Options`, et trouvez le glissoire `Dacalage Audio` sous l'en-tête `Décalage Audio`. La valeur par défaut est 0, et vous devriez la changer si besoin.
+- Si la valeur par défaut (0) ne vous convient pas, essayez le bouton `Démarrer l'assistant` pour en définir une nouvelle.
+- Si ça ne vous convient toujours pas, vous devriez mettre à jour vos pilotes audio.
 
-### I'm experiencing lag spikes or stuttering during play!
+### J'ai des pics de lag en jouant !
 
-**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+**Il y a beaucoup de raisons pour lesquelles il peut y avoir des problèmes de performance, des programmes sur votre ordinateur, aux pilotes non mis à jour, ou simplement de trop hauts paramètres.**
 
-#### Do you have lots of programs open at the same time while playing osu!?
+#### Y a-t-il beaucoup de programmes ouvert avec osu!?
 
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
+**Certaines tâches de fond se battent avec osu! pour avoir des ressources, ci qui rend le jeu très déplaisant à jouer.**
 
-Try closing some programs that you do not need open while playing the game.
+Fermez les programmes dont vous n'avez pas besoin pour jouer à osu!.
 
-#### Is your computer secure?
+#### Votre ordinateur est-il sécurisé ?
 
-**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
+**Les virus, spyware, malware ou autres programmes non-voulus peuvent causer des problèmes de performance même pour de très bon ordinateurs.**
 
-Keep your computer clean and safe and you might notice an improvement.
+Gardez votre ordinateur propre et protégé et vous devriez apercevoir des améliorations.
 
-#### How old is your computer?
+#### Quel âge à vote ordinateur ?
 
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
+**De très vieux ordinateurs, même ceux utilisant des chipsets graphiques Intel intégrés peuvent ne pas être assez puissants pour gérer osu!, même avec les plus bas réglages.**
 
-The only way to deal with this one is to upgrade your computer!
+Le seul moyen de régler ce problème est d'acheter un nouvel ordinateur !
 
-#### Are your drivers up to date? 
+#### Est-ce que vos pilotes sont à jour ? 
 
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+**D'anciens pilots peuvent aussi causer des problèmes. Assurez-vous de garder à jour vos pilotes.**
 
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
+Les pilotes de carte graphique sont très importants pour osu!, tout comme les pilotes de carte son.
 
-#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+#### Utilisez-vous un hub USB pour connecter un grand nombre d'appareils USB à votre ordinateur avec un seul cable USB ?
 
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+**Connecter trop d'appareils sur un seul port via un splitter peut causer de la latence difficile à détecter mais qui peut vraiment vous empêcher de jouer proprement.**
 
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+La solution est simple: débrancher votre hub USB. Si la latence disparaît, vous savez d'où ça vient !
 
-#### Are you running osu! in windowed or borderless mode?
+#### Est-ce qu'osu! tourne en mode fenêtré ou sans bordures ?
 
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Ces deux modes introduisent un délai _considérable_. Les plein écran est optimal pour la meilleure expérience de jeu.**
 
-#### Does your game freeze up for only a moment or so?
+#### Est-ce que votre jeu gèle ou quelque chose dans le genre?
 
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+**Quelques fois, une tâche de fond ou une application sur votre ordinateur peut envoyer de grandes requêtes demandant beaucoup de ressources d'un coup, ce qui fera agoniser votre machine.**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+C'est généralement réglé en fermant tou ce qui n'est pas essentiel à osu!. Les logiciels de torrent sont des gouffres à ressources, spécialement s'ils partagent le même espace disque sur lequel osu! est installé.
 
-#### Has the game recently updated?
+#### Le jeu a-t-il été récemment mis à jour ?
 
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
+**Il arrive qu'après une mise à jour, le jeu ait du mal sans raison.**
 
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+Si vous avez beaucoup de beatmaps, attendez au moins 10-15 minutes avant de blâmer la mise à jour. Le jeu peut recalculer toutes les difficultés de chaque beatmapset.
 
-If it doesn't resolve, a reboot can sometimes help.
+Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de trop.
 
-### My game looks glitchy, like the graphics are torn!
+### Mon jeu ne semble pas stable, comme les graphiques qui semblent déchirés !
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
+**C'est dû à un effet nommé [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing), ce peut être corrigé en définissant l'option `Images par secondes` sur `VSync`.**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
+Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça arrive quand le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur. 
 
-You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
  
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Activer le VSync ying ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
-Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+Les cartes graphiques NVidia récentes ont une option globale dans le Panneau de Contrôle NVidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
 
 ----------------------------------------------------------------------------
 
-## Installation and Registration
+## Installation et Enregistration
 
-### How do I download osu!?
+### Comment télécharger osu!?
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
+**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/).**
 
-Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
+Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers la page de téléchargements.
 
-### Where do I register for osu!?
+### Où m'enregistrer sur osu!?
 
-**Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).**
+**Cliquez simplement sur **`I'm new!`** situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
 
-We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
+Nous ne demmandons pas d'email pour enregistrer un compte osu!, mais nous suggérons grandement d'en associer un à votre compte pour le protéger de la purge journalière et pour le sécuriser le plus possible.
 
-If you create your account and do not authenticate it by logging into the game once, the wayward account will be purged from our databases within a day.
+Si vous créez votre compte et que vous ne vous authentifiez pas en jeu une fois, le compte sera supprimé de notre base de données d'ici un jour.
 
-Ensure that you authenticate it soon after make it!
+Authentifiez-vous dès que vous l'avez créé !
 
-### The game installer throws an error or does not work when I use it!
+### L'installateur du jeu lance une erreur et ne fonctionne pas quand je l'utilise !
 
-**If game installer throws errors when attempting to install, you can try few things:**
+**Si l'installateur lance des erreurs lorsque vous installez osu!, vous pouvez essayer de:**
 
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+- nettoyer votre PC - Lancez un scan antivirus, nettoyez le registre. Un bon programme pour ce type de nettoyage est CCleaner. Nettoyez à la fois les fichiers et votre registre. L'installateur peut ne pas réussir s'il y a des entrées d'une copie précédente d'osu! encore présente sur votre ordinateur.
+- réinstaller le Framework .NET 3.5. [Vous pouvez le trouver ici](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
 
-### I have 64-bit Windows and cannot install osu! correctly!
+### J'ai la version 64-bit de Windows et je ne peux pas installer osu! correctement !
 
-**Try to install the 64-bit version of the Microsoft .NET Framework.**
+**Essayez d'installer la version 64-bit du Framework .NET de Microsoft.**
 
-This should come with the osu! installer, but in case it doesn't, [download it here](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+Ça pourrait venir de l'installateur d'osu!, mais dans certains cas ça ne pourrait pas, [téléchargez le ici](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ----------------------------------------------------------------------------
 
