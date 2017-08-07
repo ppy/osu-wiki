@@ -87,6 +87,30 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Mappools
+
+### Group Stage
+
+**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
+
+- FreeMod
+  - [Lifetheory - Daisy (Tidek)](http://osu.ppy.sh/b/718401&m=3) [Life (Insane)]
+  - [Shawn Wasabi - Burnt Rice (855wa)](https://osu.ppy.sh/b/1063205&m=3) [Hard]
+  - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13)](http://osu.ppy.sh/b/741552&m=3) [MX]
+  - [sakuzyo - Altale (Kuo Kyoka)](http://osu.ppy.sh/b/767309&m=3) [Hyper Lv.22]
+  - [yuikonnu - Shinkai Shoujo (juankristal)](http://osu.ppy.sh/b/1050663&m=3) [Shoujo]
+  - [Warak - REANIMATE (Mat)](http://osu.ppy.sh/b/1315761&m=3) [Complex LNs]
+  - [Takemura Kiriko - Ninja Re Bang Bang (ecafree2)](http://osu.ppy.sh/b/816807&m=3) [4K HD]
+  - [REDALiCE feat. anporin - Beautiful Dream (Dellvangel)](http://osu.ppy.sh/b/908398&m=3) [CS' Challenge]
+  - [Niira Etsuko - Imaginary Waltz (-Troke-)](http://osu.ppy.sh/b/480148&m=3) [Raccoon's MX]
+  - [Tim & Eric - Sports! (ilikexd)](http://osu.ppy.sh/b/685357&m=3) [Hard]
+  - [Beltaine - Rockhill (Ryu Sei)](http://osu.ppy.sh/b/994291&m=3) [Hard]
+  - [stereoberry - evangelize (blurry images) (Tidek)](http://osu.ppy.sh/b/1222765&m=3) [transparency (SV)]
+- Tiebreaker
+  - [sakuraburst - sha (SitekX)](http://osu.ppy.sh/b/1258514&m=3) [dow]
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
