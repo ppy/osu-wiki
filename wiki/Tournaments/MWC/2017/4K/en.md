@@ -52,7 +52,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Saturday, 12. August 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | **10.00 UTC** | 18.00 UTC +8 | 20.00 UTC +10 |
 | Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **10.00 UTC** | 13.00 UTC +3 | 19.00 UTC +9 |
 | New Zealand | ![][flag_NZ] | ![][flag_ID] | Indonesia | **10.00 UTC** | 22.00 UTC +12 | 17.00 UTC +7 |
@@ -84,7 +84,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Sunday, 13. August 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
 | New Zealand | ![][flag_NZ] | ![][flag_ES] | Spain | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
 | Italy | ![][flag_IT] | ![][flag_ID] | Indonesia | **10.00 UTC** | 12.00 UTC +2 | 17.00 UTC +7 |
 | Netherlands | ![][flag_NL] | ![][flag_JP] | Japan | **10.00 UTC** | 12.00 UTC +2 | 19.00 UTC +9 |
