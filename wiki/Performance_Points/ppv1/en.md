@@ -47,3 +47,4 @@ The ranking is mainly related to the performance on individual maps, resulting i
 - Playing difficult maps.
 - Improving old scores.
 - Geting SS grades.
+
