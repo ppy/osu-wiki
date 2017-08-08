@@ -26,7 +26,7 @@ We never thought we would see slow fruits falling from the sky. We are in luck, 
 
 osu!mania is back on the Scorewatch after a brief absence, this time round we got [jakads](https://osu.ppy.sh/u/259972) extending his lead on the crown on the gamemode even further with the first FC on [LeaF - Doppelganger](https://osu.ppy.sh/b/884617?m=3), an absolutely smashing 99.72% run securing 1926pp (not to mention with sudden death). What else do we really want to say about this play? Go watch it!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y3hAID9X9vM" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UHEKvDnacdE" frameborder="0" allowfullscreen></iframe></br>
 
 NOTABLE MENTIONS
 -----
