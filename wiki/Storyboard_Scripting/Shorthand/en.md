@@ -1,5 +1,5 @@
-Storyboard Scripting Shorthand
-=================================
+Shorthand
+============
 
 To make life easier, there are three cases of **shorthand** when writing [storyboard commands](/wiki/Storyboard_Scripting/Commands).
 

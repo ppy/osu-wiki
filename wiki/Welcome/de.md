@@ -1,4 +1,4 @@
-Zuallererst möchten wir dich herzlichst empfangen und eine Umarmung für die Teilnahme an unserer Community geben. Lass uns erst ein paar Dinge durchgehen, bevor wir mit der Reise beginnen. ![osu!](Osu-boxart.png "fig:osu!")
+Zuallererst möchten wir dich herzlichst empfangen und eine Umarmung für die Teilnahme an unserer Community geben. Lass uns erst ein paar Dinge durchgehen, bevor wir mit der Reise beginnen. ![osu!](osu-boxart.png "fig:osu!")
 
 \_\_TOC\_\_
 

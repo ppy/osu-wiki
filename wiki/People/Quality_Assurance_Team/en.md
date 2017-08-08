@@ -26,11 +26,10 @@ Link to [user group page](https://osu.ppy.sh/g/7)
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------|
 | [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanese, some French      |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                            |
-| [DakeDekaane](https://osu.ppy.sh/u/1425253)       | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Spanish                    |
+| [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish, German            |
-| [Desperate-kun](https://osu.ppy.sh/u/2202645)     | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German                     |
+| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Korean                     |
 | [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | German                     |
-| [Fycho](https://osu.ppy.sh/u/1876867)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese                    |
 | [IamKwaN](https://osu.ppy.sh/u/1856463)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Chinese, Cantonese         |
 | [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | German, Swiss, some French |
 | [JBHyperion](https://osu.ppy.sh/u/4879508)        | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  |                            |

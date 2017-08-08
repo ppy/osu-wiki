@@ -36,7 +36,7 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | ------------ | -------------- |
 | Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
-| Commentators | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_CA] wwwww_](https://osu.ppy.sh/users/6437591), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
+| Commentators | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -44,45 +44,6 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589552)
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1ukKQD-q9mOaEX0gWhhKdma9o-HlI_n9Bz5g6l88j3lc/pubhtml)**
-
-------------------------------------------------------------------------
-
-## Match Schedule: Finals - Week 1
-
-### Saturday, 1. July 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| Chile | ![][flag_CL] | ![][flag_ID] | Indonesia | **2.00 UTC** | 22.00 (Fri.) UTC -4 | 9.00 UTC +7 | ² |
-| Hong Kong | ![][flag_HK] | ![][flag_US] | United States | **3.30 UTC** | 11.30 UTC +8 | 23.30 (Fri.) UTC -4 | ² |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **13.30 UTC** | 21.30 UTC +8 | 22.30 UTC +9 | ¹ |
-| Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 11.00 UTC -4 | 23.00 UTC +8 | ³ |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **15.00 UTC** | 11.00 UTC -4 | 11.00 UTC -4 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | **15.00 UTC** | 22.00 UTC +7 | 23.00 UTC +8 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **15.00 UTC** | 22.00 UTC +7 | 11.00 UTC -4 | ³ |
-
-### Sunday, 2. July 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :--: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
-| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 22.00 UTC +9 | 21.00 UTC +8 | ⁴ |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **13.00 UTC** | 22.00 UTC +9 | 9.00 UTC -4 | ⁴ |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | **13.00 UTC** | 22.00 UTC +9 | 20.00 UTC +7 | ⁴ |
-| China | ![][flag_CN] | ![][flag_CL] | Chile | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
-| China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13.00 UTC** | 21.00 UTC +8 | 21.00 UTC +8 | ⁴ |
-| China | ![][flag_CN] | ![][flag_US] | United States | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 | ⁴ |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | **13.00 UTC** | 21.00 UTC +8 | 20.00 UTC +7 | ⁴ |
-
-
-
-¹ Winner bracket encounter
-
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
-
-⁴ Encounter dependent on results of ³Loser bracket encounter and ¹Winner bracket encounter
 
 ------------------------------------------------------------------------
 
@@ -122,12 +83,16 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 | ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [DamnEasy](https://osu.ppy.sh/users/4452911), [Negri_sk](https://osu.ppy.sh/users/2231396), [Osten](https://osu.ppy.sh/users/4417929), [Toggeni](https://osu.ppy.sh/users/3555166) |
 | ![][flag_TW] | **Taiwan** | **[e0486](https://osu.ppy.sh/users/1840467)**, [Megpoid](https://osu.ppy.sh/users/158240), [Hinashi Koyuki](https://osu.ppy.sh/users/7451713), [ZX123456](https://osu.ppy.sh/users/489271), [473147315371](https://osu.ppy.sh/users/1952803), [ItsLingers](https://osu.ppy.sh/users/1449322) |
 | ![][flag_GB] | **United Kingdom** | **[Sorcerer](https://osu.ppy.sh/users/1913190)**, [DarnedUrchin](https://osu.ppy.sh/users/4928846), [Olib](https://osu.ppy.sh/users/4044289), [FABninja](https://osu.ppy.sh/users/5257769), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Martin22](https://osu.ppy.sh/users/4209402) |
-| ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241) |
+| ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241), [Dahcreeper](https://osu.ppy.sh/users/6926006) |
 | ![][flag_VE] | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [Yudara](https://osu.ppy.sh/users/3564018), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050) |
 
 ------------------------------------------------------------------------
 
 ![Double Elimination bracket](bracket.jpg)
+
+------------------------------------------------------------------------
+
+![Winner Podium](podium.jpg)
 
 ------------------------------------------------------------------------
 
@@ -228,10 +193,10 @@ The osu!catch World Cup 2017 is run by various community members by distributing
   - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Exceed\]](https://osu.ppy.sh/b/122693&m=2)
 - HardRock
   - [Akiyama Uni - Odoru Mizushibuki (Hareimu) \[Splash Dance\]](https://osu.ppy.sh/b/1113464&m=2)
-  - [Happy Clover - PUNCH*MIND*HAPPINESS (examination) \[Rain\]](https://osu.ppy.sh/b/1023226&m=2)
+  - [Happy Clover - PUNCH\*MIND\*HAPPINESS (examination) \[Rain\]](https://osu.ppy.sh/b/1023226&m=2)
   - [Natsume Chiaki - Hanairo Biyori (rinsukir) \[Awaken's Challenge\]](https://osu.ppy.sh/b/509510&m=2)
 - DoubleTime
-  - [*namirin - Daidai Genome (Ascendance) \[Rain\]](https://osu.ppy.sh/b/1209453&m=2)
+  - [\*namirin - Daidai Genome (Ascendance) \[Rain\]](https://osu.ppy.sh/b/1209453&m=2)
   - [Mili - Utopiosphere -Platonism- (Benny-) \[Tyrell's Utopia\]](https://osu.ppy.sh/b/1111110&m=2)
   - [Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega (Dailycare) \[Lunatic\]](https://osu.ppy.sh/b/1007169&m=2)
 - Tiebreaker
@@ -269,21 +234,41 @@ The osu!catch World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+### Grand Finals
+
+| Sunday, 9. July 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 7 | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/34406838) |
+
+### Finals - Week 1
+
+| Saturday, 1. July 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Chile ![][flag_CL] | 1 | 6 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/34219570) |
+| Hong Kong ![][flag_HK] | 1 | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/34220488) |
+| China ![][flag_CN] | 3 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/34228936) |
+| Indonesia ![][flag_ID] | 6 | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/34230945) |
+
+
+| Sunday, 2. July 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| China ![][flag_CN] | 6 | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/34251811) |
+
 ### Semifinals
 
 | Saturday, 25. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Indonesia ![](/wiki/shared/flag/ID.gif) | 3 | 6 | ![](/wiki/shared/flag/CN.gif) China | [#1](https://osu.ppy.sh/community/matches/34074171) |
-| Hong Kong ![](/wiki/shared/flag/HK.gif) | 6 | 2 | ![](/wiki/shared/flag/JP.gif) Japan | [#1](https://osu.ppy.sh/community/matches/34075521) |
-| Chile ![](/wiki/shared/flag/CL.gif) | 6 | 0 | ![](/wiki/shared/flag/TW.gif) Taiwan | [#1](https://osu.ppy.sh/community/matches/34076967) |
-| Mexico ![](/wiki/shared/flag/MX.gif) | 6 | 1 | ![](/wiki/shared/flag/SE.gif) Sweden | [#1](https://osu.ppy.sh/community/matches/34078783) |
-| Germany ![](/wiki/shared/flag/DE.gif) | 2 | 6 | ![](/wiki/shared/flag/NL.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/34080904) |
+| Indonesia ![][flag_ID] | 3 | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/34074171) |
+| Hong Kong ![][flag_HK] | 6 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/34075521) |
+| Chile ![][flag_CL] | 6 | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/34076967) |
+| Mexico ![][flag_MX] | 6 | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/34078783) |
+| Germany ![][flag_DE] | 2 | 6 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/34080904) |
 
 | Sunday, 26. June 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Chile ![](/wiki/shared/flag/CL.gif) | 6 | 3 | ![](/wiki/shared/flag/MX.gif) Mexico | [#1](https://osu.ppy.sh/community/matches/34089533) [#2](https://osu.ppy.sh/community/matches/34090626) |
-| South Korea ![](/wiki/shared/flag/KR.gif) | 6 | 2 | ![](/wiki/shared/flag/US.gif) United States | [#1](https://osu.ppy.sh/community/matches/34090862) |
-| Hong Kong ![](/wiki/shared/flag/HK.gif) | 6 | 3 | ![](/wiki/shared/flag/NL.gif) Netherlands | [#1](https://osu.ppy.sh/community/matches/34099102) |
+| Chile ![][flag_CL] | 6 | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/34089533) [#2](https://osu.ppy.sh/community/matches/34090626) |
+| South Korea ![][flag_KR] | 6 | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/34090862) |
+| Hong Kong ![][flag_HK] | 6 | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/34099102) |
 
 ### Quarterfinals
 
