@@ -156,5 +156,5 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Wafu](https://osu.ppy.sh/u/888955)               | ![Yes][Ys] (2) | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Czech                    |
 | [Xinely](https://osu.ppy.sh/u/1521445)            | ![Yes][Ys] (2) | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Indonesian, some Chinese |
 | [YaHao](https://osu.ppy.sh/u/2633753)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Chinese                  |
-| [Zero__Wind](https://osu.ppy.sh/u/1822830)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
+| [Zero__Wind](https://osu.ppy.sh/u/1822830)        | ![Yes][Ys] (1) | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [ZiRoX](https://osu.ppy.sh/u/200768)              | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish                  |
