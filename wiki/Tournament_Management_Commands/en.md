@@ -2,9 +2,9 @@
 
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
-- `!mp make <name>` - Creates a tournament room with the specified name.
+- `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 rooms may be created.
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
-  - When the match is finished, use `!mp close` to close the room.
+  - When the room is finished, use `!mp close` to close the room.
 - `!mp invite <username>` - Invites a player to the room.
   - Note that this does _not_ bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
@@ -15,8 +15,8 @@ The following chat commands are provided for remote management of multiplayer to
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
 - `!mp move <username> <slot>` - Moves a player within the room to the specified 1-indexed slot.
 - `!mp host <username>` - Transfers host to the player.
-- `!mp clearhost` - Clears match host.
-- `!mp settings` - Displays full match details.
+- `!mp clearhost` - Clears the room host.
+- `!mp settings` - Displays full room details.
 - `!mp start [<time>]` - Starts the match after a set time (in seconds) or instantaneously if time is not present.
 - `!mp abort` - Aborts the match.
 - `!mp team <username> <colour>` - Moves a player to the specified team.
@@ -32,11 +32,17 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
 - `!mp kick <username>` - Kicks the player from the room.
 - `!mp password [<password>]` - Changes the password of the room. The password will be removed if `<password>` is not provided.
+- `!mp addref <username> [<username>] …` - Adds a referee to the room. A maximum of 3 referees may be added. Only the creator of the room can add a referee.
+  - Referees must join the room lobby in-game, or by entering the room's chat channel through `/join #mp_[<room_id>]` in IRC.
+  - Referees can manage the room like the creator, however they cannot add or remove other referees themselves.
+- `!mp removeref <username> [<username>] …` - Removes a referee from the room. Only the creator of the room can remove a referee.
+- `!mp listrefs` - Lists all referees in the room.
 - `!mp close` - Closes the room.
 
 Sending `!mp help` to BanchoBot will reveal the commands.
 
-`#<userid>` may substitute `<username>` in all of the commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
+Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. Parameters enclosed within square brackets ( `[]` ) are optional.  
+Usernames must have any whitespace be replaced with underscores ( `_` ). `#<userid>` may substitute `<username>` in all of the commands.
 
 ## Usage
 
