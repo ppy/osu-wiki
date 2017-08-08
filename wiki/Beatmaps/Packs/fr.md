@@ -17,8 +17,8 @@ Les Beatmaps packs sont divisés en 4 catégories:
 | ------------- | -------------------------------------- |
 | Standard      | Musiques Classées ou Approuvées        |
 | Chart         | Musiques des défis bimensuels du Chart |
-| Thème         | General theme of the songs             |
-| Artiste/Album | Based on Artist/Album                  |
+| Thème         | Thème général des musiques             |
+| Artiste/Album | Basé sur un Artiste/Album              |
 
 ## Entièrement Compléter sa Liste de Musiques
 

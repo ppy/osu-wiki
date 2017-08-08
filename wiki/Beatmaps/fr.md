@@ -26,7 +26,7 @@ Le statut approuvé est typiquement pour les musiques dépassant les cinq minute
 
 Les beatmaps qualifiées ont l'icône de coche (![icône de coche](/wiki/shared/status/qualified.png)) dans l'écran de sélection des musiques.
 
-Ces beatmaps sont dans la dernière étape de beatmapping et de modding. Avant que la beatmaps ne commence à jouer, un dialogue s'affichera, annonçant que le statut de cette beatmap causera ce qui suit:
+Ces beatmaps sont dans la dernière étape de beatmapping et de modding. Avant que la beatmap ne commence à jouer, un dialogue s'affichera, annonçant que le statut de cette beatmap causera ce qui suit:
 
 - Aucun [pp](/wiki/pp) ne sera accordé.
 - Tous les scores seront supprimés quand son statut sera changé.
