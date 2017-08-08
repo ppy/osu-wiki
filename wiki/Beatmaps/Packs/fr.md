@@ -2,7 +2,7 @@
 
 _Page principale: [Beatmaps](/wiki/Beatmaps)_
 
-Un beatmaps pack est un fichier `.zip` contenant des beatmaps. Le nom du pack est basé sur ce qu'il contient (ex: `Approved Beatmap Pack #7` contiendrait des beatmaps [approuvées](/wiki/approved)).
+Un beatmap pack est un fichier `.zip` contenant des beatmaps. Le nom du pack est basé sur ce qu'il contient (ex: `Approved Beatmap Pack #7` contiendrait des beatmaps [approuvées](/wiki/approved)).
 
 La plupart des packs:
 
@@ -11,7 +11,7 @@ La plupart des packs:
 
 ## Catégories
 
-Les Beatmaps packs sont divisés en 4 catégories:
+Les beatmap packs sont divisés en 4 catégories:
 
 | Catégorie     | Types de beatmaps                      |
 | ------------- | -------------------------------------- |
@@ -30,7 +30,7 @@ Gardez à l'esprit que vous aurez besoin de beaucoup d'espace disque pour stocke
 
 Vous pouvez télécharger les beatmap packs (-/Approuvés/Taiko/osu!mania) depuis la catégorie **Standard** et nulle part d'autre. Les beatmap packs (-/Approuvés/Taiko/osu!mania) contiendront les musiques des trois autres catégories.
 
-Les beatmaps packs sont situés sur la [page des Beatmaps Packs d'osu!](https://osu.ppy.sh/beatmaps/packs)
+Les beatmap packs sont situés sur la [page des Beatmap Packs d'osu!](https://osu.ppy.sh/beatmaps/packs)
 
 ### Torrents
 
