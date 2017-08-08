@@ -6,7 +6,7 @@ The **first performance score** (abbreviated as **ppv1**) is an ancient ranking 
 History
 ----------
 
-ppv1 were launched in April 2012 and initially mentioned in the players profiles under the name ``???`` during a test phase. Then finally renamed to **pp** (performance points) on 17. April 2012. This system existed with the previous ranking system (by total score) and eventually became the unique system in place on 24. July 2012 during the release of the version [20120722-24](http://osu.ppy.sh/forum/p/1687719 "20120722-24") of the osu! client. 
+ppv1 was launched in April 2012 and initially mentioned in the players profiles under the name ``???`` during a test phase. Then finally renamed to **pp** (performance points) on 17. April 2012. This system existed with the previous ranking system (by total score) and eventually became the unique system in place on 24. July 2012 during the release of the version [20120722-24](http://osu.ppy.sh/forum/p/1687719 "20120722-24") of the osu! client. 
 
 
 This system was initially updated at regular intervals, usually every 24 hours, to finally run in real-time on 16. August 2012.
@@ -38,7 +38,7 @@ The calculations involved are not publicly known, however some indications on th
 Climbing the rankings
 ----------
 
-The ranking is mainly related to the performance on individual maps. The easiest way to improve is to improve the ranking on difficult maps.
+The ranking is mainly related to the performance on individual maps, resulting in players to only focussing and mastering single difficulties.
 
 - Playing better and scoring better grades on the beatmaps.
 - Making sure to get some very good scores rather than thousands of mediocre scores.
