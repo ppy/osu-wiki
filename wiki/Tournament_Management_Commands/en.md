@@ -41,7 +41,8 @@ The following chat commands are provided for remote management of multiplayer to
 
 Sending `!mp help` to BanchoBot will reveal the commands.
 
-`#<userid>` may substitute `<username>` in all of the commands. Usernames must have any whitespace be replaced with underscores ( `_` ).
+Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. Parameters enclosed within square brackets ( `[]` ) are optional.  
+Usernames must have any whitespace be replaced with underscores ( `_` ). `#<userid>` may substitute `<username>` in all of the commands.
 
 ## Usage
 
