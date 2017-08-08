@@ -16,7 +16,8 @@
 [EZ1]: ./img/GM_EZ1.jpg "Easy decreases the difficulty in many ways."
 [EZ2]: ./img/GM_EZ2.jpg "Sometimes, though, Easy just causes a headache."
 [HT1]: ./img/GM_HT.jpg "Length of the song is increased by 1/3; BPM decreased by 1/4"
-[HR1]: ./img/GM_HR.jpg "Hard Rock increases the difficulty in many ways."
+[HR_O]: ./img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard)."
+[HR_C]: ./img/GM_HR_C.jpg "Hard Rock increases the difficulty in many ways (osu!catch)."
 [SD_Rare]: ./img/GM_SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
 [DT1]: ./img/GM_DT.jpg "Length of the song is decreased by 1/3; BPM increases by 1/2"
 [HD_O]: ./img/GM_HD_O.jpg "Hidden play in osu!standard mode"
@@ -191,7 +192,7 @@ Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents]
 
 ---
 
-![Hard Rock increases the difficulty in many ways.][HR1]
+![Hard Rock increases the difficulty in many ways (osu!standard).][HR_O]
 
 In [osu!standard][osu! wikilink] mode, Hard Rock mod also flips the beatmap on the X axis, so that elements that were at the bottom of the map are now at the top and vice versa.
 
@@ -202,6 +203,8 @@ In [osu!taiko][osu!taiko wikilink] mode, Hard Rock mod increases [slider velocit
 Note that hit required to finish a denden is increased due to the increase of overall difficulty. Therefore, the maximum possible score of osu!taiko difficulties with Hard Rock on is larger than that of Hidden mod. However, this effect is insignificant in most cases because each hit in denden gives a static score of 300, which is even smaller than a typical score difference between a GREAT hit and a GOOD hit (550 points at 100 combo or above).
 
 ---
+
+![Hard Rock increases the difficulty in many ways (osu!catch).][HR_C]
 
 In [osu!catch][osu!catch wikilink] mode, Hard Rock mod has a multitude of effects. In addition to making the player character and fruits smaller (CS) and increasing how fast they fall (AR), this mod can cause ordinary fruits to veer slightly to the left or right of where they were placed on the grid, requiring the player to make more chaotic movements and to use hyperdash.
 
