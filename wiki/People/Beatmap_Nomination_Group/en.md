@@ -77,7 +77,7 @@ It is usually a good idea to keep your score well above these numbers as they ca
 Team Members
 ------------
 
-_Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
+_Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/home/groups/28).
 
 Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
 
