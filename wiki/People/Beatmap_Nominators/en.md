@@ -8,14 +8,14 @@
 [Yf]: /wiki/shared/Insane-f.png "Yes"
 [Ym]: /wiki/shared/Insane-m.png "Yes"
 
-Beatmap Nomination Group
+Beatmap Nominators
 ========================
 
-The **Beatmap Nomination Group**, more commonly referred to as the BNG, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are commonly referred to as Beatmap Nominators, or BNs.
+The **Beatmap Nominators** are a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are sometimes referred to by the acronym *BN*.
 
 Formerly, they were considered as part of the volunteer moderation team. On the 22nd of August, 2014, they were split from their moderation duties to focus completely on the modding and ranking process.
 
-The Beatmap Nomination Group is split into two tiers based on their level of proven expertise. These two tiers have different privileges and responsibilities.
+The Beatmap Nominators is split into two tiers based on their level of proven expertise. These two tiers have different privileges and responsibilities.
 
 At the moment, **only the osu!standard Beatmap Nominators are split according to tiers.** Other gamemodes will receive their tier splits at a later date.
 
@@ -24,7 +24,7 @@ Roles and Responsibilities
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
-Members of the **Beatmap Nomination Group** are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle.
+The **Beatmap Nominators** are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle.
 
 BNs are the people to go to for any modding or advice requests about anything mapping or modding related.
 
@@ -39,7 +39,7 @@ Tier 2 or 'advanced' BN have proven experience and expertise with their given ga
 Becoming a Beatmap Nominator
 ----------------------------
 
-Applications to join the Beatmap Nominator Group open periodically in irregular cycles. When applications are open, a topic will be sticked to the top of the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) announcing the process by a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7)
+Applications to join the Beatmap Nominators open periodically in irregular cycles. When applications are open, a topic will be sticked to the top of the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) announcing the process by a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7)
 
 ### What do I need to become a Beatmap Nominator?
 
