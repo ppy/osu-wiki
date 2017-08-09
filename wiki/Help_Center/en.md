@@ -113,6 +113,13 @@ If a player has not logged in for at least 6 months and has no plays, their user
 
 For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
+### Is it possible to change my name back or revert to my old username?
+
+**Yes, but under certain circumstances.**
+
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+
+We only grant this one time per account, so please consider carefully before requesting!
 
 ### Can I play on a computer that another osu! user has used before?
 
