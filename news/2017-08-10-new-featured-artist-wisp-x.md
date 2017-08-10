@@ -26,7 +26,7 @@ We're proud to present a whopping **24** tracks from **Wisp X** for usage in osu
 
 As always, any track present on a Featured Artist listing comes pre-timed for your convenience, and is 100% licensed for use for mapping in osu!, so worry less, and map more!
 
-We're looking forward to exploring **Wisp X**'s sound as it continues to grow and evolve in the future, and we hope you are too! Which track is your favourite?
+We're looking forward to exploring **Wisp X**'s sound as it continues to grow and evolve in the future, and we hope you are too! Like what you hear? Make sure to check our their [bandcamp](https://wispx.bandcamp.com/) and follow them on [twitter](https://twitter.com/wispx) to catch their latest work!
 
 —Ephemeral
 
