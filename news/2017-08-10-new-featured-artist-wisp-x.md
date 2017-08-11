@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Wisp X"
-date: 2017-08-10 08:00:00 +0000
+date: 2017-08-11 03:20:00 +0000
 ---
 
 Energetic, emotional and enthralling, meet [**Wisp X**](https://osu.ppy.sh/beatmaps/artists/16), our newest addition to the osu! Featured Artist roster!
