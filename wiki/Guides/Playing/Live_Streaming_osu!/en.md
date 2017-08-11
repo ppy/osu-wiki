@@ -1,4 +1,4 @@
-# Live streaming osu!
+# Live Streaming osu!
 
 If you are visiting this page, it is likely you have an interest and want to learn how to live stream *osu!* on twitch.tv. Doing so is a very simple process but may require a reliable computer to be able to run both *osu!* and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
 
