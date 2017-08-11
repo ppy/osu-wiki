@@ -515,6 +515,8 @@
 "gl_support_issues":                    "Guides/Playing/GL_Support_Issues"
 "how_to_play_osu!mania":                "Guides/Playing/How_to_Play_osu!mania"
 "how_to_use_the_offset_wizard":         "Guides/Playing/How_to_Use_the_Offset_Wizard"
+"live_streaming_osu!":                  "Guides/Playing/Live_Streaming_osu!"
+"live_streaming":                       "Guides/Playing/Live_Streaming_osu!"
 "recording_osu!":                       "Guides/Playing/Recording_osu!"
 "searching_and_downloading_beatmaps":   "Guides/Playing/Searching_and_Downloading_Beatmaps"
 "tablet_purchase":                      "Guides/Playing/tablet_purchase"
@@ -598,9 +600,6 @@
 "legal":                       "Legal"
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/TOS"
-
-"live_streaming_osu!":         "Live_streaming_osu!"
-"live_streaming":              "Live_streaming_osu!"
 
 "mapping_techniques":          "Mapping_Techniques"
 "mapping_technique":           "Mapping_Techniques"
