@@ -14,9 +14,9 @@ An unfamiliar face to newcomers, but definitely a player that has not rusted a b
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/85Z1LMFMUK8" frameborder="0" allowfullscreen></iframe></br>
 
-[HappyStick](https://osu.ppy.sh/u/256802) has produced an incredible score on [Tech N9ne - Worldwide Choppers](https://osu.ppy.sh/b/345189?m=0), in fact, getting the first ever no mod S on the map and the No. 1 spot with a 98.42% 1895x combo play to earn 327pp. What a shame that an FC could have happened, but nonetheless, enjoy this livestream moment!
+[HappyStick](https://osu.ppy.sh/u/256802) has produced an incredible score on [Tech N9ne - Worldwide Choppers](https://osu.ppy.sh/b/345189?m=0), in fact, getting the first ever no mod S on the map and the No. 1 spot with a 98.79% 2225x combo play to earn 3272pp. What a shame that an FC could have happened, but nonetheless, enjoy this livestream moment!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/q7mowlmJQWs" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yB_BJ_23I-Q" frameborder="0" allowfullscreen></iframe></br>
 
 [shinchikuhome](https://osu.ppy.sh/u/3174184) snatched an amazing 97.54% DT FC on the recently ranked [BL-Records - Midway Colors](https://osu.ppy.sh/p/beatmap?b=1251769&m=1) to take away an impressive 656pp score. Yes, this is 270bpm. And yes, this is absolutely insane.
 
