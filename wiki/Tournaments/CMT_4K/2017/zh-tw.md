@@ -42,28 +42,11 @@
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
-## 比賽預告
+--------------------------------------------------
 
-### 決賽第一周
+![CMT4K2017 podium](podium.png)
 
-7月29日，星期六
-
-| 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
-| 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
-| 21:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
-
-7月30日，星期日
-
-* 比賽AB和AC的獲勝者將會進入比賽AD。
-
-| 比賽時間（UTC+8） | 藍隊 | | | 紅隊 | 比賽編號 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][CN] | [Crz]Riri | **AD** |
-| 16:00 | - Choma - | ![][TW] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][TW] | - Choma - | **AD** |
+--------------------------------------------------
 
 ## 比賽圖池
 
@@ -206,16 +189,32 @@ TB:
 
 ## 比賽結果
 
+### 決賽第二周
+
+| 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 8月5日 | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | 缺席 |
+| 8月6日 | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | 缺席 |
+
+### 決賽第一周
+
+| 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 7月29日 | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [記錄](https://osu.ppy.sh/community/matches/34872032) |
+| | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
+| | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34873568) |
+| 7月30日 | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34893510) |
+
 ### 半決賽
 
 | 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
 | :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
+| 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
 | | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
 | | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34703556) |
 | | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [記錄](https://osu.ppy.sh/mp/34706159) |
 | | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/community/matches/34771665) |
-| 23. July | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
+| 7月23日 | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
 | | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34731835) |
 | | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
 
