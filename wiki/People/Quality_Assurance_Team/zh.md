@@ -1,3 +1,13 @@
+[Ns]: /wiki/shared/Na-s.png "No"
+[Nt]: /wiki/shared/Na-t.png "No"
+[Nf]: /wiki/shared/Na-f.png "No"
+[Nm]: /wiki/shared/Na-m.png "No"
+
+[Ys]: /wiki/shared/Insane-s.png "Yes"
+[Yt]: /wiki/shared/Insane-t.png "Yes"
+[Yf]: /wiki/shared/Insane-f.png "Yes"
+[Ym]: /wiki/shared/Insane-m.png "Yes"
+
 Quality Assurance Team (中文)
 =============================
 
@@ -14,7 +24,7 @@ Quality Assurance Team (中文)
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                       |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                       |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | 西班牙语, 德语         |
-| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | 朝鮮語                |
+| [Doyak](https://osu.ppy.sh/u/2046893)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | 韩语                  |
 | [Feerum](https://osu.ppy.sh/u/4815717)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | 德语                  |
 | [IamKwaN](https://osu.ppy.sh/u/1856463)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | 中文, 广东话           |
 | [Irreversible](https://osu.ppy.sh/u/1287964)      | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | 德语, 瑞士语, 少许 法语 |

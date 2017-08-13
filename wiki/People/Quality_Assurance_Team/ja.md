@@ -1,3 +1,13 @@
+[Ns]: /wiki/shared/Na-s.png "No"
+[Nt]: /wiki/shared/Na-t.png "No"
+[Nf]: /wiki/shared/Na-f.png "No"
+[Nm]: /wiki/shared/Na-m.png "No"
+
+[Ys]: /wiki/shared/Insane-s.png "Yes"
+[Yt]: /wiki/shared/Insane-t.png "Yes"
+[Yf]: /wiki/shared/Insane-f.png "Yes"
+[Ym]: /wiki/shared/Insane-m.png "Yes"
+
 Quality Assurance Team (日本語)
 =====================================
 
