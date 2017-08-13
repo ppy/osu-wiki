@@ -5,7 +5,6 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 
 | Nomi | Epitaph |
 | ----- | ------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Chat Moderator |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
@@ -17,7 +16,6 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 | [Andrea](https://osu.ppy.sh/u/33599) | GMT |
 | [Armin](https://osu.ppy.sh/u/105902)	| BAT |
 | [Asphyxia](https://osu.ppy.sh/u/1715720) | QAT |
-| [Atrue](https://osu.ppy.sh/u/1758523) | GMT |
 | [awp](https://osu.ppy.sh/u/2650) | GMT |
 | [Azure_Kite](https://osu.ppy.sh/u/66296) | MAT |
 | [Bakari](https://osu.ppy.sh/u/597957) | GMT |
@@ -69,7 +67,6 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
 | [Frostmourne](https://osu.ppy.sh/u/199669) | GMT |
 | [Fycho](https://osu.ppy.sh/u/1876867) | QAT |
-| [Gabe](https://osu.ppy.sh/u/654108) | BAT |
 | [Gamu](https://osu.ppy.sh/u/611174) | QAT |
 | [Garven](https://osu.ppy.sh/u/244216) | QAT |
 | [Gemi](https://osu.ppy.sh/u/7365) | BAT |
@@ -180,10 +177,8 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 | [theowest](https://osu.ppy.sh/u/60604) | GMT |
 | [tieff](https://osu.ppy.sh/u/89619) | BAT |
 | [TKS](https://osu.ppy.sh/u/940878) | BAT |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | GMT |
 | [tsububu](https://osu.ppy.sh/u/61) | BAT |
 | [UnderminE](https://osu.ppy.sh/u/444223) | Chat Moderator |
-| [Uni](https://osu.ppy.sh/u/617106) | GMT |
 | [vytalibus](https://osu.ppy.sh/u/10028) | BAT |
 | [Where](https://osu.ppy.sh/u/549172) | GMT |
 | [whymeman](https://osu.ppy.sh/u/51994) | GMT |
