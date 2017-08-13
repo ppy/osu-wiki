@@ -195,6 +195,66 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
+## Match Results
+
+### Group Stage
+
+| Saturday, 12. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Taiwan ![][flag_TW] | 2 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/35209765) |
+| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35209716) |
+| New Zealand ![][flag_NZ] | 1 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35209719) |
+| Philippines ![][flag_PH] | 1 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/35210698) |
+| Norway ![][flag_NO] | 3 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/35210701) |
+| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35210711) |
+| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35210713) |
+| Norway ![][flag_NO] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35211634) |
+| Australia ![][flag_AU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35211644) |
+| Finland ![][flag_FI] | 4 | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/35211647) |
+| Singapore ![][flag_SG] | 4 | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/35211655) |
+| France ![][flag_FR] | 4 | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35212839) |
+| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/35212859) |
+| Belgium ![][flag_BE] | 3 | 4 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/35212861) |
+| Singapore ![][flag_SG] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35212866) |
+| Venezuela ![][flag_VE] | 2 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/35214348) |
+| Finland ![][flag_FI] | 0 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/35214425) |
+| Spain ![][flag_ES] | 3 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/35214428) |
+| Belgium ![][flag_BE] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35214432) |
+| Poland ![][flag_PL] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35218496) |
+| Germany ![][flag_DE] | 0 | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/35219133) |
+| Argentina ![][flag_AR] | 1 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35218503) |
+| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35218508) |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/35219912) |
+| Germany ![][flag_DE] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35219931) |
+| Mexico ![][flag_MX] | 0 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35219934) |
+| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35219940) |
+
+| Sunday, 13. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| New Zealand ![][flag_NZ] | 4 | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/35236072) |
+| Italy ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35236074) |
+| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35236084) |
+| New Zealand ![][flag_NZ] | 4 | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/35237009) |
+| Australia ![][flag_AU] | 1 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35237013) |
+| Belgium ![][flag_BE] | 0 | 4 | ![][flag_SG] Singapore | -Win by default- |
+| Spain ![][flag_ES] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35237019) |
+| Norway ![][flag_NO] | 2 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/35237818) |
+| Hong Kong ![][flag_HK] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35237821) |
+| Sweden ![][flag_SE] | 2 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35237888) |
+| Hong Kong ![][flag_HK] | 4 | 2 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/35238975) |
+| Taiwan ![][flag_TW] | 2 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35238978) |
+| Finland ![][flag_FI] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35238983) |
+| Philippines ![][flag_PH] | 1 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35240162) |
+| Taiwan ![][flag_TW] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35240166) |
+| Canada ![][flag_CA] | 4 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35240169) |
+| Thailand ![][flag_TH] | 2 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35240175) |
+| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/35241555) |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_BR] Brazil | -Win by default- |
+| Germany ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35241635) |
+| Mexico ![][flag_MX] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35241640) |
+
+------------------------------------------------------------------------
+
 ## Ruleset
 ### Tournament Rules
 
