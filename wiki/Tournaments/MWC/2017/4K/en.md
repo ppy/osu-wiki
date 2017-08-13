@@ -138,7 +138,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [SitekX](https://osu.ppy.sh/users/3840946), [Kroly-](https://osu.ppy.sh/users/6382502), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Transformau5](https://osu.ppy.sh/users/3109917), [Benzopirene](https://osu.ppy.sh/users/1887068) |
 | ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [[PhobosX]](https://osu.ppy.sh/users/2570019), [U1wknUzeU6](https://osu.ppy.sh/users/6930247), [AngeloLagusa](https://osu.ppy.sh/users/9074986), [OrphicX](https://osu.ppy.sh/users/6673780), [Faikren](https://osu.ppy.sh/users/5948345) |
 | ![][flag_SG] | **Singapore** | **[Evening](https://osu.ppy.sh/users/2193881)**, [OrienST8](https://osu.ppy.sh/users/4574597), [DotZeix](https://osu.ppy.sh/users/4363028), [Lindyes](https://osu.ppy.sh/users/7462804), [saikooppai](https://osu.ppy.sh/users/7288030), [Ezo](https://osu.ppy.sh/users/2095061) |
-| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [jhlee0133](https://osu.ppy.sh/users/140148), [SuddenDeath](https://osu.ppy.sh/users/6699923), [blueBloody](https://osu.ppy.sh/users/8046839) |
+| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [SuddenDeath](https://osu.ppy.sh/users/6699923), [blueBloody](https://osu.ppy.sh/users/8046839) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Asesingta](https://osu.ppy.sh/users/5037769), [ran-](https://osu.ppy.sh/users/5442427), [Userbacker](https://osu.ppy.sh/users/1872307), [Hydragyrum](https://osu.ppy.sh/users/6440453), [HotSaucezZ](https://osu.ppy.sh/users/7408290) |
 | ![][flag_Se] | **Sweden** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [[ Vento ]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
 | ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
@@ -147,6 +147,10 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Xonica](https://osu.ppy.sh/users/3586776), [yipyapyop](https://osu.ppy.sh/users/5156656), [SleepyDarkrai](https://osu.ppy.sh/users/5063207), [itsjake](https://osu.ppy.sh/users/3617889), [Traps Are Cute](https://osu.ppy.sh/users/3359035) |
 | ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [[-Gearfrik-]](https://osu.ppy.sh/users/8198818) |
+
+------------------------------------------------------------------------
+
+![Double Elimination bracket](bracket.jpg)
 
 ------------------------------------------------------------------------
 
