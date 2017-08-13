@@ -47,65 +47,20 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 12. August 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | **10.00 UTC** | 18.00 UTC +8 | 20.00 UTC +10 |
-| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **10.00 UTC** | 13.00 UTC +3 | 19.00 UTC +9 |
-| New Zealand | ![][flag_NZ] | ![][flag_ID] | Indonesia | **10.00 UTC** | 22.00 UTC +12 | 17.00 UTC +7 |
-| Philippines | ![][flag_PH] | ![][flag_PL] | Poland | **11.00 UTC** | 19.00 UTC +8 | 13.00 UTC +2 |
-| Norway | ![][flag_NO] | ![][flag_HK] | Hong Kong | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **11.00 UTC** | 19.00 UTC +8 | 12.00 UTC +1 |
-| Switzerland | ![][flag_CH] | ![][flag_JP] | Japan | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 |
-| Norway | ![][flag_NO] | ![][flag_GB] | United Kingdom | **12.00 UTC** | 14.00 UTC +2 | 13.00 UTC +1 |
-| Australia | ![][flag_AU] | ![][flag_FR] | France | **12.00 UTC** | 22.00 UTC +10 | 14.00 UTC +2 |
-| Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | **12.00 UTC** | 15.00 UTC +3 | 15.00 UTC +3 |
-| Singapore | ![][flag_SG] | ![][flag_Th] | Thailand | **12.00 UTC** | 20.00 UTC +8 | 19.00 UTC +7 |
-| France | ![][flag_FR] | ![][flag_CN] | China | **13.00 UTC** | 15.00 UTC +2 | 21.00 UTC +8 |
-| Russian Federation | ![][flag_RU] | ![][flag_SE] | Sweden | **13.00 UTC** | 16.00 UTC +3 | 15.00 UTC +2 |
-| Belgium | ![][flag_BE] | ![][flag_TH] | Thailand | **13.00 UTC** | 15.00 UTC +2 | 20.00 UTC +7 |
-| Singapore | ![][flag_SG] | ![][flag_CL] | Chile | **13.00 UTC** | 21.00 UTC +8 | 9.00 UTC -4 |
-| Venezuela | ![][flag_VE] | ![][flag_PH] | Philippines | **14.00 UTC** | 10.00 UTC -4 | 22.00 UTC +8 |
-| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | **14.00 UTC** | 17.00 UTC +3 | 16.00 UTC +2 |
-| Spain | ![][flag_ES] | ![][flag_IT] | Italy | **14.00 UTC** | 16.00 UTC +2 | 16.00 UTC +2 |
-| Belgium | ![][flag_BE] | ![][flag_CL] | Chile | **14.00 UTC** | 16.00 UTC +2 | 10.00 UTC -4 |
-| Poland | ![][flag_PL] | ![][flag_BR] | Brazil | **17.00 UTC** | 19.00 UTC +2 | 13.00 UTC -4 |
-| Germany | ![][flag_DE] | ![][flag_MX] | Mexico | **17.00 UTC** | 19.00 UTC +2 | 12.00 UTC -5 |
-| Argentina | ![][flag_AR] | ![][flag_US] | United States | **17.00 UTC** | 14.00 UTC -3 | 12.00 UTC -5 |
-| Netherlands | ![][flag_NL] | ![][flag_CA] | Canada | **17.00 UTC** | 19.00 UTC +2 | 12.00 UTC -5 |
-| Venezuela | ![][flag_VE] | ![][flag_PL] | Poland | **18.00 UTC** | 14.00 UTC -4 | 20.00 UTC +2 |
-| Germany | ![][flag_DE] | ![][flag_US] | United States | **18.00 UTC** | 20.00 UTC +2 | 13.00 UTC -5 |
-| Mexico | ![][flag_MX] | ![][flag_AR] | Argentina | **18.00 UTC** | 13.00 UTC -5 | 15.00 UTC -3 |
-| Switzerland | ![][flag_CH] | ![][flag_CA] | Canada | **18.00 UTC** | 20.00 UTC +2 | 13.00 UTC -5 |
-
-### Sunday, 13. August 2017
+### Sunday, 20. August 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| New Zealand | ![][flag_NZ] | ![][flag_ES] | Spain | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Italy | ![][flag_IT] | ![][flag_ID] | Indonesia | **10.00 UTC** | 12.00 UTC +2 | 17.00 UTC +7 |
-| Netherlands | ![][flag_NL] | ![][flag_JP] | Japan | **10.00 UTC** | 12.00 UTC +2 | 19.00 UTC +9 |
-| New Zealand | ![][flag_NZ] | ![][flag_IT] | Italy | **11.00 UTC** | 23.00 UTC +12 | 13.00 UTC +2 |
-| Australia | ![][flag_AU] | ![][flag_CN] | China | **11.00 UTC** | 21.00 UTC +10 | 19.00 UTC +8 |
-| Belgium | ![][flag_BE] | ![][flag_SG] | Singapore | **11.00 UTC** | 13.00 UTC +2 | 19.00 UTC +8 |
-| Spain | ![][flag_ES] | ![][flag_ID] | Indonesia | **11.00 UTC** | 13.00 UTC +2 | 18.00 UTC +7 |
-| Norway | ![][flag_NO] | ![][flag_MY] | Malaysia | **12.00 UTC** | 14.00 UTC +2 | 20.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **12.00 UTC** | 20.00 UTC +8 | 13.00 UTC +1 |
-| Sweden | ![][flag_SE] | ![][flag_KR] | South Korea | **12.00 UTC** | 14.00 UTC +2 | 21.00 UTC +9 |
-| Hong Kong | ![][flag_HK] | ![][flag_MY] | Malaysia | **13.00 UTC** | 21.00 UTC +8 | 21.00 UTC +8 |
-| Taiwan | ![][flag_TW] | ![][flag_CN] | China | **13.00 UTC** | 21.00 UTC +8 | 21.00 UTC +8 |
-| Finland | ![][flag_FI] | ![][flag_KR] | South Korea | **13.00 UTC** | 16.00 UTC +3 | 22.00 UTC +9 |
-| Philippines | ![][flag_PH] | ![][flag_BR] | Brazil | **14.00 UTC** | 22.00 UTC +8 | 10.00 UTC -4 |
-| Taiwan | ![][flag_TW] | ![][flag_FR] | France | **14.00 UTC** | 22.00 UTC +8 | 16.00 UTC +2 |
-| Canada | ![][flag_CA] | ![][flag_JP] | Japan | **14.00 UTC** | 9.00 UTC -5 | 23.00 UTC +9 |
-| Thailand | ![][flag_TH] | ![][flag_CL] | Chile | **14.00 UTC** | 21.00 UTC +7 | 10.00 UTC -4 |
-| Netherlands | ![][flag_NL] | ![][flag_CH] | Switzerland | **15.00 UTC** | 17.00 UTC +2 | 17.00 UTC +2 |
-| Venezuela | ![][flag_VE] | ![][flag_BR] | Brazil | **15.00 UTC** | 11.00 UTC -4 | 12.00 UTC -3 |
-| Germany | ![][flag_DE] | ![][flag_AR] | Argentina | **15.00 UTC** | 17.00 UTC +2 | 12.00 UTC -3 |
-| Mexico | ![][flag_MX] | ![][flag_US] | United States | **15.00 UTC** | 10.00 UTC -5 | 10.00 UTC -5 |
+| New Zealand | ![][flag_NZ] | ![][flag_FR] | France | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
+| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
+| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.00 UTC** | 13.00 UTC +1 | 21.00 UTC +9 |
+| South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13.00 UTC** | 22.00 UTC +9 | 10.00 UTC -3 |
+| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **14.00 UTC** | 11.00 UTC -3 | 22.00 UTC +8 |
+| Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
+| Poland | ![][flag_PL] | ![][flag_CL] | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
+| Sweden | ![][flag_SE] | ![][flag_US] | United States | **19.00 UTC** | 21.00 UTC +2 | 14.00 UTC -5 |
 
 ------------------------------------------------------------------------
 
