@@ -1,68 +1,79 @@
-Szabályzat
-=============
+Szabályok
+============
 
-Ezen az oldalon találsz meg mindent ami tiltott [osu!](/wiki/Glossary)-n belül. Lent kifejtett szekciókat találsz amik részletes információkkal látnak el bizonyos részeiről a játéknak.
+Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy vidám, és barátságos hely legyen mindenki számára.
 
-Közösségi szabályzat
---------------------
+Közösségi Szabályok
+---------------
 
-1.  Minden játékos csak EGY felhasználói fiókot hozhat létre és csak azt használhatja. Több fiók létrehozása vagy másokkal való megosztásuk szigorú büntetésekhez vezet.
-2.  Légy kedves. Zaklatásnak vagy más féle ellenségeskedésnek nincs helye az osu! közösségében. Folyamatos megszegése ennek a szabálynak a más játékosokkal való kommunikálás képességének tartós elvesztéséhez vezethet.
-3.  Ne légy barom. Ahol a szabályok nem érvényesülnek ott a józan észnek kell. A vezetőség meglátása alapján dönthet erről ha oda illőnek találják.
-4.  Túlzott vulgaritás nem szívesen látott. Káromkodások használata szabad kivéve ha megszegik a \#2-es és \#3-as szabályt.
-5.  A közösségünkben minden korosztály képviselteti magát. Ez azt jelenti, hogy 18+/felnőtt tartalom mint például drog használat vagy nyílt szexualitás témák nem szívesen látottak. Kivételek lehetnek ha oda illőek de általánosságban beszélve tartsd magad ehhez a szabályhoz.
+1.  **Minden játékosnak csupán *EGY* felhasználói fiókja lehet.** Ez a fiók csak te vagy. Ez a fiók senki más - nem a testvéred, az édesanyád, a nővéred, a barátod - ez TE vagy. Ne oszd meg a fiókodat senkivel.
+2.  **Legyetek rendesek egymáshoz.** Zaklatásnak, vagy bármi egyéb ellenségeskedésnek nincs helye az osu! közösségében. Azért vagyunk itt, hogy karikákat kattintsunk, dobokat üssünk, gyümölcsöket szedjünk, vagy akár tizennyolc gombot nyomjunk le egyszerre, nem azért, hogy gyökerek legyünk egymáshoz.
+3.  **Ne legyél seggfej.** Ha bármikor felmerül a kérdés a fejedben, hogy vajon megszeged-e ezt a szabályt, valószínűleg igen.
+4.  **Mi egy korhatár nélküli közösség vagyunk.** Ez azt jelenti, hogy 18+/felnőtt tartalom, mint például droghasználat, vagy bármiféle szexuális jellegű téma nem elfogadott. Ritka kivételek előfordulhatnak, ahol ez illő lehet, de általánosan beszélve, kerüljük ezeket.
+5.  **Ahol a szabályok nem érvényesülnek, ott a józan ész igen.** A moderátorok megítélésük alapján bírálhatják ezt, ahol szerintük szükséges.
 
-Fórum szabályzat
+Játékon Belüli Chat Szabályok
+------------------
+
+1.  **Legyél tisztelettudó és figyelmes másokhoz a csatornában, ne áraszd el azt egymagad.** Ha egy ember foglalja el a fél képernyőt, az elég idegesítő tud lenni, szóval kerüld, amennyire lehetséges. A többiek is próbálnak beszélgetni!
+2.  **Hagyd a moderátorokra a chat-problémák kezelését.** Rámutathatsz ezekre a `!report` paranccsal, a többiről ők gondoskodni fognak.
+3.  **Ha valaki némítást kap, vagy felfüggesztik a fiókját, hagyd őt békén, és ne kezdj róla beszélni.** Ha valaki felfüggesztést kap, az eset csakis rá, és az adminisztrátorokra vonatkozik - senki másra!
+4.  **Támogasd a tisztességes játékot, és ne adj figyelmet a csalóknak, vagy egyéb toxikus felhasználóknak.** Az effélék sajnos léteznek, és ha foglalkozol velük, az bátoríthatja őket a folytatásra, vagy másokat provokálhatnak, hogy viselkedjenek úgy, mint ők. Jelentsd őket a `!report` chat-paranccsal vagy használd a gombokat a profil oldalukon és lépj tovább.
+5.  **Tartsd a chat-et tisztán, és korhatár nélküli közösséghez illően, kerülve a felnőtt tartalmakat/témákat, ahol lehetséges.** Felnőtt tartalmak egyáltalán nem illőek egy ilyen közösségbe. Tegyél amit szeretnél privát üzenetekben (az ésszerűség határain belül), de hagyd a nyilvános csatornákat tisztán, mindenki érdekében.
+6.  **Legyél figyelmes, hogy mit osztasz meg másokkal, különös tekintettel a felkavaró/felzaklató tartalmakra vonatkozóan.** Ha azon tűnődsz, hogy helyénvaló-e az adott tartalmat linkelni, valószínűleg nem az. Kerüld a gyorsan villogó fényeket, a véres, másokat felkavaró, és egyéb felzaklató képeket.
+7.  **A linkek legyenek relevánsak és legális weboldalakra mutassanak.** Illegálisan közvetítő weboldalak (hivatalosan licenc-szeltek, például Animelab vagy Crunchyroll rendben van) vagy bármiféle illegális/kalóz szoftverek, illetve ehhez hasonlóak nem elfogadottak, és nemkívánatosak a chat-en. Twitch linkek reklámozása más videojátékokra rendben van, de CSAK a `#videogames` csatornában.
+8. **Ne hirdess semmiféle külső chat szervert, Discord-ot, Teamspeak-et, illetve Skype szervereket/csoportokat beleértve.** Az osu! chat elsősorban az _osu!_-ról szól, és nem arról, hogy a saját szervereidet híreszteld. Tedd ezt privát üzenetekben, ha mindenképpen szükséges.
+9.  **Nyelvspecifikus csatornákban, a domináns nyelvet kell beszélned (Angol az #english-ben, Magyar a #hungarian-ben, stb.), ha be szeretnél kapcsolódni a beszélgetésbe.** Abban a csatornában, ahol a nyelv nincs kifejezetten előírva (vagy a csatorna nevéből nem lehet egyértelműen kikövetkeztetni, például Magyar a `#hungarian`-ben és Holland a `#dutch`-ban), ott mindig Angol. A `#lobby` és a `#help` csatornákban bármely nyelv megengedett, nem úgy, mint az összes többiben. *A [moderátori csapatnak](/wiki/People/Global_Moderation_Team) nem kell követnie ezt a szabályt, amikor a munkájukat végzik.*
+
+Fórum Szabályzat
 ----------------
 
-1.  Ne spammold a fórumokat felesleges posztokkal/tartalommal. Ha nem járulsz hozzá érdemben a beszélgetéshez ne is posztolj.
-2.  Felnőtt tartalmat csak akkor szabad linkelni ha kapcsolódik a beszélgetéshez és ha egyértelműen felnőtt tartalomnak (NSFW) van jelölve és nem a posztba van beágyazva.
-3.  Személyes támadások elítélendőek. Kritika minden formában szívesen látott de másokat támadni nem megengedett. Ha nem tudod a nézeted ilyen módszerek nélkül alátámasztani, a nézeted nem is éri meg a posztolást.
-4.  Bumpolás tartalom nélkül tiltott. Ehhez hasonló viselkedés súlyos büntetésekhez vezethet ha többször is megtörténik.
-5.  Malware/adware/spyware/kérdéses szándékú vagy leírású software linkelése nem megengedett. Ha nem vagy biztos benne keress meg egy moderátort, hogy megkérdezd. Eszközöket készítőket arra biztatjuk, hogy a forráskódot Github-on vagy más nyílt gyűjteményen tárolják, hogy ezeket az aggodalmakat tisztázzák.
-6.  Signature nem lépheti át 256kb-os teljes fájl mértet. Animációk engedélyezettek amíg ésszerűek és nem tartalmaznak fényérzékeny elemeket (gyors villódzás, stb).
-7.  Animált avatárok engedélyezettek de ugyanazok a szabályok vonatkoznak rájuk mint a signature-re. Az avatároknak minden korosztálynak megfelelőnek kell lennie.
-8.  Reklámozás és referral linkek kifejezetten tiltottak. Csak ne posztold ezeket.
-9.  Automatikusan elinduló tartalom (youtube videók, flash applikációk, stb) nem engedélyezett.
+1.  **Csak értelmes, érdekes tartalmakat/témákat posztolj.** A fórum elsősorban megvitatásokra van, szóval győződj meg arról, hogy elég energiát szántál arra, hogy ne rabold a többiek idejét.
+2.  **Tartsd a posztjaidat és a válaszaidat a korhatár nélküli közösséghez megfelelően.** Felnőtt tartalomnak semmi keresnivalója egy ilyen közösségben, ugyanakkor semmi sem állít meg ezeknek a megvitatása privát üzenetekben.
+3.  **Legyél produktív a kritikáddal, anélkül, hogy átfolyna személyes támadásba.** A kritika egy nagyszerű dolog, ha rendesen van kivitelezve, de ha csupán személyes támadást eredményezel a kifejtéseddel, akkor rosszul csinálod, és el kéne gondolkozz ezen.
+4.  **Tartsd a szálakat relevánsan, és ne élessz fel régi témákat, ha kihaltak a beszélgetések.** Ha a téma már évek óta halott, nem igazán lényeges többé, hagyd azt eltűnni. Posztolj újat, vagy keress és nézd meg, hogy valaki nem-e válaszolta meg már a kérdésed előtte.
+5.  **Az avatarjaid és az aláírásaid maradjanak ésszerűek.** Ha animáltak, ne villogjanak túlságosan. Ezen kívül, a fájlméretük legyen alacsony, hogy a lassabb internetcsatlakozással rendelkezők is kényelmesen tudják böngészni az oldalt. Ez ideálisan maximum fél megabyte (500 kilobyte), ahol lehetséges.
+6.  **Ne posztolj hirdetéseket, átverős oldalakat vagy bármi egyéb tolakodó tartalmat.** Az átverős vagy partner oldalak megosztása jó mókának tűnhet annak, aki posztolja, de aki rákattint annak már jóval kevésbé az, tehát ne csináld. Az automatikusan betöltődő és lejátszódó tartalmak is szintúgy beletartoznak ebbe a szabályba.
+7.  **Ismeretlen célú applikációk vagy eszközök linkelése nem engedélyezett.** Egyszerűen, ha bármi legalitási kérdés felmerül az említett applikációk kapcsán, akkor nemkívánatosak posztolásra.
 
-BSS Fórum szabályzat
---------------------
+Beatmap Közzétételi Szabályok
+---------------------------------
 
-Ezek a szabályok kifejezetten az egyedülálló természetű [BSS](/wiki/Glossary) ([Beatmap](/wiki/Glossary) Submission System) szálakra vonatkoznak. Ezek a szálak a játék kliens által generálódnak amikor egy beatmap töltődik fel az editoron keresztül.
+Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Beatmap_Submission_System) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/editor) segítségével a beatmap-ek publikálásra kerülnek.
 
-1.  Ne kreálj szálat a [Pending](/wiki/Beatmaps) és a [WIP](/wiki/Glossary) fórumokon. Használd a megfelelő alfórumot szál készítésénél. (Ez egyértelműen kizárja a BSS szálakat.)
-2.  Ne térj el a témától BSS szálakon. BSS szálak egy bizonyos mapról szólnak. Ha problémád van valami nem kifejezetten a maphoz tartozó dologgal, posztold azt a megfelelő fórumon.
-3.  Ne lopd el mások beatmapját és tégy úgy mint ha azt te készítetted volna. Ne töltsd fel mások munkáját az engedélyük nélkül sem (beleértve de nem kizárólag skinek és mások által készített nehézségek).
+Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
 
-Off-Topic szabályzat
---------------------
+1. **Győződj meg arról, hogy engedélyed van mindenre, amit a beatmap-edben használsz.** Ez magába foglalja a zenéket, videókat, ütéshangokat, grafikákat, vagy bármi egyéb tartalmat, ami nem a te munkád gyümölcse. Ha nem vagy benne biztos, hogy merre kéne az efféle tartalmakat keresned, nekünk van egy folyamatosan bővülő zenegyűjteményünk a [Kiemelt Előadó](https://osu.ppy.sh/beatmaps/artists/) részlegnél, ahol az összes zene 100%-os licenc-szel rendelkezik az _osu!_ használatához.
+2.  **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.
+3.  **Ne próbáld ellopni mások munkáját.** Szintúgy ne töltsd fel és használd a másik munkáját az engedélyük nélkül (beleértve, de nem korlátozva, témákat és vendég nehézségeket).
 
-1.  Ez az a hely ahova rossz szálak kerülnek meghalni. Semmi értékes nem található ezen az alfórumon. Ha a témádnak van bármiféle értéke az nem ide tartozik. Ha ide kerül bárhonnan máshonnan a témád az komoly beszélgetésre nem méltónak lett ítélve.
-2.  Túlzott hülyeség elítélendő. A \#3-as közösségi szabály itt is érvényes. Viccelődés oké, folyamatos értéktelen posztolás nem.
-3.  Születésnapi szálak csak az Off-Topic fórumon engedélyezettek, sehol máshol.
+Off-Topic Szabályok
+---------------
 
-Játékbeli chat szabályzat
--------------------------
+*Az alábbi szabályok CSAK az [Off-Topic](https://osu.ppy.sh/community/forums/52) alfórumra vonatkoznak, kivéve ha másként van jelezve.*
 
-1.  Semmi spam.
-2.  Némítás elkerülése azonnali korlátozáshoz vezet ha rajta kapnak, és rajta fognak.
-    1.  Némításról való beszéd (előző saját vagy másé) publikus chaten tiltott és legalább 1 óra némítással büntetendő.
-3.  Publikus beszélgetés felnőtt tartalomról vagy bármiféle más kifejezett szexualitásról nem engedélyezett ahogy az a \#5-ös közösségi szabályzatban olvasható. Privát üzenetekre ez nem vonatkozik.
-4.  Semmilyen külső oldalra vezető link (képek, szálak, videók, stb) nem tartalmazhat fényérzékeny tartalmat (villódzó fények, stb).
-5.  Másoknak kiadni magad tilos, vezetőségnek kifejezetten.
-6.  Ne hirdess többjátékos szobákat \#lobby-n kívül.
-7.  Csalásról, hackelésről, bármilyen kliens módosításról vagy nem tisztességes játékról beszélgetni kifejezetten tilos.
-    1.  Kitiltott játékosokat említeni és beszélgetni róluk is tilos.
-8.  Nyelv specifikus csatornákban beszélj a csatorna nyelvén. Ahol nincs feltüntetve a csatorna nyelve ott az angol a kötelező.
-    1.  Moderátorok beszélhetnek angolul nyelv specifikus csatornákban ha az szükséges a helyzet megoldásához.
+1. **Az Off-Topic-ban semmilyen témának nincs értéke.** Hogy egyszerűen fogalmazzunk, szemét. Ha a szálaid folyamatosan az Off-Topic-ban kötnek ki, értéktelennek lettek nyilvánítva. Próbálj olvasni a sorok között.
+2. **A hülyeségnek is van határa.** Aranyosan butának lenni rendben van, és hozzájárul a felesleges posztolás működési módjához. Az eszeveszett hülyeség sosincs rendben. Ha képtelen vagy megítélni a különbséget, nagy valószínűséggel már meg is szegted ezt a szabályt.
+3. **Születésnapi szálak az Off-Topic-ban engedélyezve vannak, de sehol máshol.** Minden születésnapi szálnak tartalmaznia kell legalább három (3) táncoló anime lány képet, ellenkező esetben *könyörtelenül* ki lesznek hajítva az ablakon.
 
-Kliens szabályzat
------------------
+Mi történik ha megszegem a szabályokat?
+---------------
 
-1.  A kliens manipulációja, megváltoztatása mint például eredmény hack, makrózás, a kliens működési sebességének változtatása, automatikus célzás, bármi ami az emberi elemet elveszi a játékból csalásnak minősül. Ha meg kell kérdezned valamiről, hogy az csalás-e és egy külső program kell hozzá, hogy elérd vele azt a hatást, akkor valószínűleg igen.
-2.  Játékmenet elemeket megváltoztatni bármilyen másfajta módon mint skinek, csalásnak minősül és súlyos büntetést von maga után.
+Ha a közösség rossz oldalán találod magad, rossz dolgok fognak történni.
 
-------------
+Ezek a rossz dolgok lehetnek (*de nincsenek korlátozva*):
 
-Csalók azonnali korlátozásban és kitiltásban részesülnek az első alkalom után, várniuk kell 6 hónapot MINIMUM, hogy fellebbezzenek a tiltás ellen. Egyszerűen ne csináld. Kitiltások ritkán, ha egyáltalán, történnek hiba miatt.
-Bármelyik szabály megsértése korlátozással vagy némítással jár. Némított felhasználók nem használhatják a chatet, nem posztolhatnak a fórumra, nem frissíthetik beatmapjaikat és nem játszhatnak többjátékos módban. Korlátozott felhasználók megkapnak mindent amit a némított felhasználók ami mellett nem tölthetnek fel eredményeket és nem játszhatnak online semmiképpen sem. A korlátozás KOMOLY és csak a player support csapat tagjai oldhatják fel amit az accounts@ppy.sh e-mailen-en vagy a weboldalon periódikusan elérhető élő chaten lehet elérni
+* A játékon belüli beszélgetési lehetőség megvonása egy adott időre (ismertebb nevén némítás)
+* Bármilyen sértő tartalom eltávolítása a felhasználói oldaladról, profilodról vagy a feltöltött beatmap-jeidről
+* A felhasználói oldalad, illetve a profilod részleteinek jövőbeli szerkesztési lehetőségének a megvonása
+* A hivatalos bajnokságok bejutására - illetve részvételére való jogosultságod megvonása
+
+A némítások és egyéb áthágások időtartama **automatikusan**, majdnem exponenciálisan növekszik minden újabb megszegéssel. A moderátorok nem befolyásolják az adott sértésért járó némítás időtartamát - többszörös szabálysértők igen hosszú elvonásban részesülnek.
+
+Egyes szabálysértések minimum (általában 48 óra, vagy több) időtartammal rendelkeznek, ugyanakkor, ezek leginkább a súlyos szabálysértésekre vonatkoznak, mint például felkavaró tartalom megosztása vagy más felhasználók rendszeres zaklatása.
+
+Ha számtalan áthágás után is folytatod a szabálysértéseket, a felhasználói fiókodat akár örökre és visszavonhatatlanul felfüggeszthetik.
+
+A felfüggesztett felhasználói fiókkal rendelkezők nem játszhatnak online, tölthetnek fel eredményeket, chat-elhetnek más felhasználókkal és bármiféle, a közösséggel való interakciótól el vannak tiltva. A közösségi szabálysértés általi felfüggesztést csak az adminisztrátorokhoz benyújtott fellebbezéssel lehet feloldani, 3 hónap nyugalmi időszak után.
+
+Nagyon súlyos szabálysértés esetén, ami minden határon túlnyúlik, az illegális tartalomra vonatkozó nemzetközi szabályok alapján, a felhasználói fiók azonnali eltávolítását vonja maga után. Ez csak a legsúlyosabb bűncselekményekre vonatkozik, mint például gyermek-pornográfia megosztása vagy hasonlóan felkavaró tartalmak.

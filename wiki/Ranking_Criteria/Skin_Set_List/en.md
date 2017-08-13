@@ -121,8 +121,8 @@ The entirety of this skin set is gameplay relevant.
 |taikohitcircle.png   |-   |required   |118x118px   |
 |taikohitcircleoverlay(-n).png   |-   |required   |118x118px   |
 |sliderscorepoint.png   |should only be used on beatmapsets without osu! difficulties (shared image)   |required   |-   |
-|taiko-roll-middle.png   |gets stretched to fill the roll   |required   |1x118px   |
-|taiko-roll-end.png   |right half of a circle   |required   |59x118px   |
+|taiko-roll-middle.png   |gets stretched to fill the roll   |required   |1x118px (line) 1x128px (whole file)   |
+|taiko-roll-end.png   |right half of a circle   |required   |59x118px (half circle) 64x128px (whole file)   |
 |spinner-warning.png   |-   |required   |-   |
 
 ### Hitburst Set

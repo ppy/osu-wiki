@@ -1,67 +1,79 @@
-Règlement général
-====================
+Règles
+============
 
-Cette page est le premier endroit où vous devez vous arrêter pour savoir tout ce qui est interdit concernant [osu!](/wiki/Glossary). Ci-dessous sont listés les règles qui, si vous les respectez, vous permettront d'apprécier votre temps sur osu!
+Ces règles sont les bases qui nous aident à garder la communauté d'_osu!_ fun et accueillante pour tout le monde.
 
-Règles de la Communauté
------------------------
-
-1.  Chaque joueur ne peut créer qu'un seul compte et ne peut jouer que sur le sien. Prêter son compte à d'autres joueurs ou en créer d'autres résulte en de sévères punitions.
-2.  Soyez gentils. Le harcèlement, insultes et autres manques de respect n'ont pas leur place dans la communauté. Une violation continuelle de ces règles peut vous mener à l'incapacité à communiquer avec les autres.
-3.  Ne soyez pas stupides. Là où les règles ne s'appliquent pas, le savoir-vivre le doit. L’administration peut appliquer son jugement si besoin il y a.
-4.  La vulgarité excessive n'est pas la bienvenue. Les jurons sont autorisés, sauf s'ils brisent les règles \#2 et \#3.
-5.  Nous sommes une communauté de tout âge. Ce qui veut dire que le contenu 18+/NSFW comme la drogue ou le sexe n'est pas autorisé. Des exceptions sont faites quand c'est approprié, mais généralement, gardez vos discussions clean.
-
-Règles du Forum
+Règles de Communauté
 ---------------
 
-1.  Ne spammez pas le forum avec des messages (ou du contenu) inutiles. Si vous ne contribuez pas à la discussion, ne postez pas.
-2.  Le contenu adulte ne peut être utilisé que s'il est pertinent à la discussion, que si il est clairement identifié comme contenu adulte, et que s'il n'est pas montré directement dans le message.
-3.  Les attaques personnelles sont interdites. Les critiques sont les bienvenues, mais les attaques gratuites ne le sont pas. Gardez vos discussions clean.
-4.  Poster dans une vieille discussion sans la faire progresser est interdit. De tels actes peuvent être sévèrement punis s'ils se répètent.
-5.  Des liens vers des logiciels malveillants / des logiciels espions / logiciels de pub / logiciels à l'intention suspecte sont interdits. Dans le doute, demandez à un modérateur.
-6.  Les auteurs qui postent des logiciels utiles sont encouragés à en héberger la source sur GitHub ou d'autres sites fiables.
-7.  La taille de votre signature ne doit pas excéder les 256Ko. Les animations sont autorisées si elles sont raisonnables et ne contiennent pas d'éléments photosensibles(clignotement rapide ou stroboscopique).
-8.  Les avatars animés sont tolérés mais sont réglementés comme les signatures. Il doit convenir à tous les âges.
-9.  La pub et autres liens semblables sont interdits.
-10. Le contenu qui se charge automatiquement (vidéos youtube , applications flash, etc) est interdit.
+1.  **Chaque joueur ne doit avoir qu'*UN* seul compte.** Ce compte c'est vous. Ce n'est personne d'autre - ni votre frère, votre mère, votre sœur, votre ami - c'est VOUS. Ne partagez votre compte avec personne.
+2.  **Soyez bon entre vous.** Le harcèlement ou autre antagonisme n'a pas de place dans la communauté d'_osu!_ Nous sommes ici pour cliquer sur des cercles, taper sur un tambour, attraper des fruits, et frapper jusqu'à dix-huit touches en même temps, pas pour mal se comporter avec les autres.
+3.  **Ne soyez pas idiots.** Si à n'importe quel moment vous n'êtes pas sûr de respecter les règles, vous ne les respectez probablement pas.
+4.  **Nous sommes une communauté tout-âges.** Ça signifie que les contenus 18+/NSFW (not safe for work) comme l'usage de drogues ou des discussions à nature sexuelles n'ont rien à faire ici. Exceptions faites pour les endroits où il est indiqué que c'est autorisé, mais généralement, restez neutres.
+5.  **Où les règles ne règnent pas, faites appel au bon sens.** Le jugement à appliquer est décidé à la discrétion de l'administration.
 
-Règles du Forum SSB
--------------------
+Règles du Chat En-Jeu
+------------------
 
-1.  Ces règles ne s'appliquent qu'aux discussions de type [SSB (en)](/wiki/Glossary) (Système de Soumission des [Beatmaps (en)](/wiki/Glossary)). Ces discussions sont créées en jeu quand une beatmap est upload via l'[Éditeur](/wiki/Beatmap_Editor).
-2.  Ne créez pas de discussions dans la partie du Forum des [beatmaps en attente](/wiki/Beatmaps) ou les tableaux du [Glossaire](/wiki/Glossary). Utilisez une section appropriée du Forum pour créer votre discussion. (Cela exclu évidemment les discussions du SSB.)
-3.  Ne faites de pas hors-sujet des les discussions du SSB. Les discussions du SSB ne parlent que de la beatmap à laquelle elles sont liées. Si vous avez un problème qui n'est pas en lien avec la beatmap, postez dans la section appropriée.
-4.  Ne pas voler les beatmaps des autres et les présenter sous votre pseudo. Ne pas upload de contenu appartenant à un autre joueur sans sa permission explicite.
+1.  **Soyez respectueux et conscient des autres utilisateurs du canal, et évitez le flood ou le spam.** Une seule personne prenant jusqu'à la moitié de l'écran est assez dérangeante, c'est donc un comportement à éviter tant que possible. Les autres ont aussi le droit de chatter !
+2.  **Laissez les modérateurs gérer les problèmes du chat.** Vous pouvez les prévenir avec la commande `!report`, ils se chargeront du reste.
+3.  **Si quelqu'un s'est fait exclure, mettre en silencieux ou restreindre, laissez-les et ne commencez pas à discuter d'eux.** Si quelqu'un est restreint, leur cas n'implique qu'eux et l'administration - absolument personne d'autre !
+4.  **Encouragez le fair play, et ne donnez pas d'attention aux tricheurs ou autres joueurs toxiques.** Ces personnes existent malheureusement, et faire attention à elles ne fait que les encourager à continuer, ou incite les autres à agir comme eux. Vous pouvez les signaler via la commande `!report` ou les boutons sur leur page de profil.
+5.  **Gardez le chat propre et approprié pour une communauté tout-âges, évitez au maximum les sujets NSFW.** Tout ce qui est classifié NSFW n'est pas approprié pour une communauté tout-âges. Faites ce que vous voulez en messages privés (tant que c'est correct) mais gardez les canaux publiques exempt de tout contenu NSFW pour le bien de tous.
+6.  **Soyez conscient de ce que vous partagez avec les autres, surtout si le contenu est potentiellement troublant ou de nature très graphique.** Si vous vous demandez deux fois si un lien est approprié ou non, il ne l'est probablement pas. Évitez les images avec des lumières vives ou stroboscopiques, du gore, des images d'abus ou autre matériel graphique.
+7.  **Gardez les liens pertinents et pointant vers des sites légaux.** Les sites de streaming (ceux ayant une licence comme Animelab et Crunchyroll sont OK) et tout ce qui est lié au "warez" ou aux logiciels piratés de quelque sorte qu'ils soient ne sont pas tolérés, et nous ne les voulons pas dans notre chat. Partager des liens Twitch pour d'autres jeux est toléré, mais SEULEMENT dans `#videogames`.
+8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'_osu!_ est à propos d'_osu!_ et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
+9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
-Discussions Hors-Sujet
-----------------------
+Règles du Forum
+----------------
 
-1.  Le hors sujet est là où les discussions vont mourir. Rien de valeur n'est trouvé dans cette section du Forum. Si votre sujet a une quelconque valeur, il n'a rien à faire dans cette section. si votre discussion a été déplacée vers la section hors-sujet depuis une autre section, c'est qu'elle a été jugée inappropriée des discussions sérieuses.
-2.  La stupidité excessive est interdite. La règle de Communauté \#3 s'applique ici. Blaguer est autorisé, mais poster de la merde en permanence de l'est pas.
-3.  Les discussions d'anniversaires sont autorisées UNIQUEMENT dans la section hors-sujet.
+1.  **Ne postez que des discussions/contenus qui ont du sens, qui sont intéressants ou engageants.** Les forums sont tout d'abord faits pour les discussions, donc assurez-vous que vous ne ferez pas perdre de temps aux personnes qui liront vos publications.
+2.  **Faites en sorte que vos publications et réponses soient acceptables pour tous les âges.** Le contenu NSFW n'est pas approprié pour une communauté tout-âges, mais rien ne vous empêche d'en discuter en messages privés.
+3.  **Faites des critiques constructives sans faire d'attaques personnelles.** Les critiques sont merveilleuses quand elles sont bien faites, mais s'il en ressort une attaque personnelle, vous l'avez mal faite et vous devriez vous en vouloir.
+4.  **Gardez les sujets pertinents, et évitez de ressusciter d'ancients sujets si la conversation est morte.** Si un topic est mort depuis des années, il n'est plus pertinent, laissez-le donc disparaître. Postez-en un nouveau, ou tentez une recherche pour voir si quelqu'un a déjà répondu à votre question.
+5.  **Gardez votre signature et vos avatars raisonnables.** S'ils sont animés, ils ne devraient pas inclure de flashs excessifs. Ils devraient aussi être de petite taille pour les utilisateurs qui ont une connexion lente, idéalement en dessous d'un demi-mégabyte (500 kilobytes) quand c'est possible.
+6.  **Ne postez pas de publicités, de liens de référence ou autre contenu intrusif et dérangeant.** Ces types de liens sont amusants pour la personne les postant et dérangeant pour les autres, donc ne le faites pas. Les contenus qui se chargent et/ou s'activent tout seuls sont soumis à cette règle.
+7.  **Les liens vers des applications avec des intentions qui ne sont pas claires ne sont pas autorisés.** Pour faire simple, si vous avez des doutes sur la légalité d'une application, elle ne devrait pas être postée.
 
-Règles in-game
---------------
+Règles de Soumission des Beatmaps
+---------------------------------
 
-1.  Pas de spam ni de flood.
-2.  Contourner un silence (mute) va immédiatement se solder par une restriction si on découvre que vous le faites, et nous allons le savoir.
-3.  Les discussions publiques de contenu adulte ou de contenu sexuel explicite sont interdites pas la Règles de Communauté \#5 NSFW. Les messages privés ne sont pas couverts par cette règle.
-4.  Aucun lien vers du contenu externe (images, discussion, vidéos, etc) ne doit contenir de contenu photosensible (clignotement rapide ou stroboscopique).
-5.  Voler l'identité d'un autre est interdit, en particulier celle d'un membre du staff.
-6.  Ne faites pas la pub de votre salle multijoueur ailleurs que dans le channel \#lobby.
-7.  Parler de triche, de hack, d'un autre abus de jeu, ainsi que d'un replay douteux est interdit.
-8.  Mentionner ou parler d'un joueur banni est interdit.
-9.  Dans les canaux avec une langue spécifique, Parlez dans la langue dominante si vous participez à la discussion. Si aucune langue n'est indiquée, l'anglais y domine (à l'exception de \#lobby qui est multilingue).
-    -   Il est possible qu'un modérateur parle anglais dans un canal qui a une langue en particulier, si il en a besoin pour gérer un problème de façon appropriée.
+Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Beatmap_Submission_System) en jeu. Les sujets/discussions sont créés via le client _osu!_ lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
 
-Règles sur le client de jeu
----------------------------
+Un ensemble plus détaillé de règles pour la construction de beatmap existe, connu sous le nom de [Critères de Classement](/wiki/Ranking_Criteria).
 
-1.  La manipulation ou la modification du jeu comme le hack de score, l'utilisation de macro, changer le calendrier du jeu, l'auto-aim, et tout ce qui enlève l'action humaine d'un play est considéré comme tricher. Si vous avez besoin de demander si quelque chose est de la triche, ou si vous avez besoin d'un programme externe pour avoir cet effet, c'en est probablement.
-2.  Altérer le gameplay avec n'importe quelle méthode autre que le skin est considéré comme de l'éventuelle triche et va être traité avec sévérité.
+1. **Soyez sûr d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de musiques disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists/), où tout est 100% autorisé pour utilisation dans _osu!_.
+2.  **Restez sur le thème dans les discussions de Beatmap.** Ces discussions sont à propos de la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui n'est pas en rapport direct avec la beatmap, postez-le dans le forum approprié.
+3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 
-------------
+Règles du Off-Topic
+---------------
 
-Les tricheurs sont automatiquement bannis dès la première fois et doivent attendre AU MINIMUM 6 mois avant de faire appel. Ne le faites juste pas. Les bans sont pratiquement, si ce n'est le cas, TOUJOURS donnés à raison.
-Enfreindre n'importe laquelle de ces règles mènera toujours à un silence ou à la restriction du compte. Les utilisateurs mis au silence ne peuvent plus parler, poster sur le forum, ne peuvent plus poster de nouvelle beatmap ou mettre leur beatmap à jour. Les utilisateurs restreins, en plus des restrictions des joueurs mis au silence, ne peuvent plus jouer en ligne. La restriction du compte est très sérieuse, elle ne peut être révoquée que par un membre du support technique, accessible via accounts@ppy.sh ou le support du site.
+*Les règles ci-dessous ne s'appliquent qu'au sous-forum [Off-Topic](https://osu.ppy.sh/community/forums/52) sauf mention contraire.*
+
+1. **Aucun sujet dans Off-Topic n'a de valeur.** Si vos sujets continuent à être déplacés vers Off-Topic, c'est qu'ils sont jugés indigne d'une discussion sérieuse.
+2. **Une stupidité excessive est mauvaise.** Être péniblement bête passe, et tombe dans le mode opératoire du shitposting. L'authentique stupidité ne l'est pas. Si vous êtes incapable de faire la différence, vous êtes déjà en train de ne pas respecter les règles.
+3. **Les sujets d'anniversaire ne sont autorisés que dans Off-Topic, et nulle part ailleurs.** Tous les sujets d'anniversaire doivent être accompagnés d'au moins trois (3) images de filles d'anime dansants ou ils seront *impitoyablement* jetés sous un bus.
+
+Que se passe-t-il si je ne respecte pas les règles ?
+---------------
+
+Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvaises choses vont se passer.
+
+Ces mauvaises choses incluent (*mais ne sont pas limitées à*):
+
+* L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
+* La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
+* La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
+* La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
+
+La durée des silences et autres infractions augmente exponentiellement et **automatiquement** à chaque infraction. Les modérateurs ne contrôlent pas la durée de temps de votre silence pour offense - les auteurs qui récidivent se trouveront bloqués hors du jeu pour une période de temps de plus en plus longue.
+    
+Certaines offenses entraînent une durée minimale (habituellement 48 heures ou plus) si elles sont particulièrement sévères, cependant elles sont presque exclusives aux infractions sévères, comme le partage de contenu graphique ou un harcèlement répété envers d'autres utilisateurs.
+
+Si après plusieurs infractions vous continuez à ne pas respecter les règles, votre compte peut être restreint de manière permanente et irrévocable.
+
+Les comptes restreints ne peuvent pas jouer en ligne, envoyer de scores, chatter avec les autres utilisateurs et sont 'bannis' de toutes interactions avec la communauté. Les restrictions pour violations des règles de la communauté ne peuvent être supprimées qu'après appel à l'équipe du jeu après que 3 mois soient passé.
+
+Les offenses sévères qui vont au-delà de nos règles et qui entrent en conflit avec les lois communes internationales se finiront en résiliation immédiate du compte. Cela s'applique quasi exclusivement au contenu graphique extrême ou autres offenses aberrantes, comme la distribution de pornographie infantile ou autre matériel d'abus.
