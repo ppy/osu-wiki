@@ -172,6 +172,27 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [sakuraburst - sha (SitekX)](http://osu.ppy.sh/b/1258514&m=3) [dow]
 
+### Round of 16
+
+**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
+
+- FreeMod
+  - [hyi - you can recover (Valedict)](http://osu.ppy.sh/b/1199287&m=3) [restoration]
+  - [GIRAFFES? GIRAFFES! - I Am S/H(im)e[r] (XeoStyle)](http://osu.ppy.sh/b/1259834&m=3) [I Am Us]
+  - [KOAN Sound + asa - Fuego (sakuraburst remix) (Couil)](http://osu.ppy.sh/b/1313120&m=3) [HD]
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum)](http://osu.ppy.sh/b/1178997&m=3) [4K Irrsinnig]
+  - [Team Grimoire - Sheriruth (DoNotMess)](https://osu.ppy.sh/b/1295745&m=3) [Future]
+  - [Helblinde - Heaven's Fall (Kaito-kun)](http://osu.ppy.sh/b/1217314&m=3) [Extra]
+  - [q/stol - Re/Im (Lude)](http://osu.ppy.sh/b/1245089&m=3) [Re/Extreme]
+  - [USAO - Showdown (Side)](http://osu.ppy.sh/b/996693&m=3) [puxtu's MX]
+  - [Sonitus Vir ft. Emily Smith - Lune Noir (Bites)](http://osu.ppy.sh/b/225781&m=3) [4K MX]
+  - [MINTi - So Fresh So Good (Leo137)](http://osu.ppy.sh/b/1097526&m=3) [Leo137's 4K]
+  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel)](http://osu.ppy.sh/b/1372839&m=3) [Massacre Edit]
+  - [The Flashbulb - Three Hundred CC (edit) (Blocko)](http://osu.ppy.sh/b/1368417&m=3) [Another]
+  - [Alesana - The Artist (Tornspirit)](http://osu.ppy.sh/b/1280807&m=3) [Collapse]
+- Tiebreaker
+  - [BABYMETAL - Tales of The Destinies (Couil)](http://osu.ppy.sh/b/1290602&m=3) [Endless Journey]
+
 ------------------------------------------------------------------------
 
 ## Ruleset
