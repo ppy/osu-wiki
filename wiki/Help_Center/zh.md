@@ -844,7 +844,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，您可以[在这�
 
 虽然听起来很复杂，但是修复这个问题很简单。
 
-首先，[下载这个压缩包](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) （链接失效），将它保存在电脑上。
+首先，[下载这个压缩包](https://assets.ppy.sh/store/utilities/osu!go.zip) ，将它保存在电脑上。
 
 #### 在 Windows 系统中格式化 osu!go
 
@@ -873,7 +873,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，您可以[在这�
 
 **您已经完成了！**
 
-将您之前下载的压缩文件（goodies.zip）解压到 _osu!go_ U 盘中，完成！
+将您之前下载的压缩文件（osu!go.zip）解压到 _osu!go_ U 盘中，完成！
 
 ##### 这些都不奏效！
 
