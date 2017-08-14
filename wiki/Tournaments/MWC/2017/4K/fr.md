@@ -1,26 +1,26 @@
-osu!mania 4K World Cup 2017
+osu!mania 4K World Cup 2017 (Français)
 =============================
 
 ![osu!mania 4K World Cup 2017](logo.jpg)
 
-La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournois entre pays de osu!mania organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
+La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
 
 ## Calendrier du tournoi
 
 | Événement | Date |
 | ---: | :--- |
-| Inscription des équipes	 | 10. - 23. July 2017 |
-| Tirages au sort | 7. August 2017 (14:00 UTC+0) |
-| Phase de poules | 12. - 13. August 2017 |
-| Huitièmes de finale | 19. - 20. August 2017 |
-| Quarts de finale | 26. - 27. August 2017 |
-| Demi-finales | 2. - 3. September 2017 |
-| Finales - Semaine 1 | 9. - 10. September 2017 |
-| Finales - Semaine 2 | 16. - 17. September 2017 |
+| Inscription des équipes	 | 10 au 23 juillet 2017 |
+| Tirages au sort | 7 août 2017 (14:00 UTC+0) |
+| Phase de poules | 12 au 13 août 2017 |
+| Huitièmes de finale | 19 au 20 août 2017 |
+| Quarts de finale | 26 au 27 août 2017 |
+| Demi-finales | 2 au 3 septembre 2017 |
+| Finales - Semaine 1 | 9 au 10 septembre 2017 |
+| Finales - Semaine 2 | 16 au 17 septembre 2017 |
 
 ## Récompenses
 
-Dans chaque coupe du monde, les personnes obtenant une place sur le podium peuvent recevoir des prix uniques créés spécialement pour les gagnants de la coupe du monde. Il est possible que ces récompenses changent entre plusieurs coupes du monde. 
+Dans chaque coupe du monde, les joueurs qui réussisent à obtenir une place sur le podium recoivent des prix uniques créés spécialement pour les gagnants de la World Cup. Il est possible que ces récompenses changent entre plusieurs World Cup. 
 
 | Place | Récompense(s) |
 | --- | :--- |
@@ -66,41 +66,41 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ## Participants
 
-### Confirmed Rosters
+### Équipes confirmées
 
-| | Country | Member |
+| | Pays | Membres |
 | ---: | :---: | :--- |
-| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [aluuu](https://osu.ppy.sh/users/4585260), [Ezze](https://osu.ppy.sh/users/2887427), [Fisk-](https://osu.ppy.sh/users/5748843), [Juanvidrio](https://osu.ppy.sh/users/2628463) |
-| ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [PotassiumF](https://osu.ppy.sh/users/4247722), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Rek](https://osu.ppy.sh/users/4018184), [Zeppy-lin](https://osu.ppy.sh/users/7675859) |
-| ![][flag_BE] | **Belgium** | **[Kizunuko-P](https://osu.ppy.sh/users/6741014)**, [NightNarumi](https://osu.ppy.sh/users/4381142), [Yetified](https://osu.ppy.sh/users/6914714), [Podzel](https://osu.ppy.sh/users/7368776), [Ojily](https://osu.ppy.sh/users/6539319), [Pryme](https://osu.ppy.sh/users/6393309) |
-| ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [Rikkaismywaifuu](https://osu.ppy.sh/users/9530019), [UrsoManso](https://osu.ppy.sh/users/4569601) |
+| ![][flag_AR] | **Argentine** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [aluuu](https://osu.ppy.sh/users/4585260), [Ezze](https://osu.ppy.sh/users/2887427), [Fisk-](https://osu.ppy.sh/users/5748843), [Juanvidrio](https://osu.ppy.sh/users/2628463) |
+| ![][flag_AU] | **Australie** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [PotassiumF](https://osu.ppy.sh/users/4247722), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Rek](https://osu.ppy.sh/users/4018184), [Zeppy-lin](https://osu.ppy.sh/users/7675859) |
+| ![][flag_BE] | **Belgique** | **[Kizunuko-P](https://osu.ppy.sh/users/6741014)**, [NightNarumi](https://osu.ppy.sh/users/4381142), [Yetified](https://osu.ppy.sh/users/6914714), [Podzel](https://osu.ppy.sh/users/7368776), [Ojily](https://osu.ppy.sh/users/6539319), [Pryme](https://osu.ppy.sh/users/6393309) |
+| ![][flag_BR] | **Brésil** | **[andreymc](https://osu.ppy.sh/users/5691061)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [Rikkaismywaifuu](https://osu.ppy.sh/users/9530019), [UrsoManso](https://osu.ppy.sh/users/4569601) |
 | ![][flag_CA] | **Canada** | **[CanadianTaco](https://osu.ppy.sh/users/5185455)**, [beary605](https://osu.ppy.sh/users/2198070), [CommandoBlack](https://osu.ppy.sh/users/7025841), [Panshow](https://osu.ppy.sh/users/5872899), [Genuine](https://osu.ppy.sh/users/5235597), [Freeflow](https://osu.ppy.sh/users/2777647) |
-| ![][flag_CL] | **Chile** | **[WalterToro](https://osu.ppy.sh/users/5281416)**, [Rythze](https://osu.ppy.sh/users/469808), [Arkener](https://osu.ppy.sh/users/4116072), [Skalim](https://osu.ppy.sh/users/2225008), [aiory](https://osu.ppy.sh/users/2959518), [Raizenn](https://osu.ppy.sh/users/4531184) |
-| ![][flag_CN] | **China** | **[Sern888](https://osu.ppy.sh/users/2089244)**, [ZhangFan](https://osu.ppy.sh/users/89545), [[Crz]ScSolAr](https://osu.ppy.sh/users/1591215), [[Crz]Lucifer](https://osu.ppy.sh/users/5270332), [[Crz]Riri](https://osu.ppy.sh/users/6148622), [[Crz]MemoryI](https://osu.ppy.sh/users/8179131) |
-| ![][flag_FI] | **Finland** | **[Jepetski](https://osu.ppy.sh/users/3794665)**, [snoverpk](https://osu.ppy.sh/users/3595196), [Pwae](https://osu.ppy.sh/users/4765794), [Camopoltergeist](https://osu.ppy.sh/users/8132964), [riktoi](https://osu.ppy.sh/users/4940393), [Herkkupala](https://osu.ppy.sh/users/3602620) |
+| ![][flag_CL] | **Chili** | **[WalterToro](https://osu.ppy.sh/users/5281416)**, [Rythze](https://osu.ppy.sh/users/469808), [Arkener](https://osu.ppy.sh/users/4116072), [Skalim](https://osu.ppy.sh/users/2225008), [aiory](https://osu.ppy.sh/users/2959518), [Raizenn](https://osu.ppy.sh/users/4531184) |
+| ![][flag_CN] | **Chine** | **[Sern888](https://osu.ppy.sh/users/2089244)**, [ZhangFan](https://osu.ppy.sh/users/89545), [[Crz]ScSolAr](https://osu.ppy.sh/users/1591215), [[Crz]Lucifer](https://osu.ppy.sh/users/5270332), [[Crz]Riri](https://osu.ppy.sh/users/6148622), [[Crz]MemoryI](https://osu.ppy.sh/users/8179131) |
+| ![][flag_FI] | **Finlande** | **[Jepetski](https://osu.ppy.sh/users/3794665)**, [snoverpk](https://osu.ppy.sh/users/3595196), [Pwae](https://osu.ppy.sh/users/4765794), [Camopoltergeist](https://osu.ppy.sh/users/8132964), [riktoi](https://osu.ppy.sh/users/4940393), [Herkkupala](https://osu.ppy.sh/users/3602620) |
 | ![][flag_FR] | **France** | **[bumpinho](https://osu.ppy.sh/users/1594604)**, [Elementaires](https://osu.ppy.sh/users/2284328), [Todestrieb](https://osu.ppy.sh/users/4056690), [Cunu](https://osu.ppy.sh/users/7190228), [Shadowzyx](https://osu.ppy.sh/users/3384640), [BurningPower](https://osu.ppy.sh/users/4989818) |
-| ![][flag_DE] | **Germany** | **[LastExceed](https://osu.ppy.sh/users/6232245)**, [Jeremayer](https://osu.ppy.sh/users/7475496), [Nediz](https://osu.ppy.sh/users/7009106), [-Dom-](https://osu.ppy.sh/users/5587671), [Nedeam](https://osu.ppy.sh/users/3996828), [StanleyS](https://osu.ppy.sh/users/7810871) |
-| ![][flag_HK] | **Hong Kong** | **[drunkenstein](https://osu.ppy.sh/users/4565389)**, [Opean](https://osu.ppy.sh/users/4544555), [Mooncha](https://osu.ppy.sh/users/5417362), [zero2snow](https://osu.ppy.sh/users/7751516) |
-| ![][flag_ID] | **Indonesia** | **[Fiea](https://osu.ppy.sh/users/3183277)**, [lpddemon](https://osu.ppy.sh/users/5101276), [LovelySerenade](https://osu.ppy.sh/users/5492871), [reyss](https://osu.ppy.sh/users/4557440), [RemFangirl](https://osu.ppy.sh/users/5767941), [Nixeria-sama](https://osu.ppy.sh/users/6045757) |
-| ![][flag_IT] | **Italy** | **[jutte](https://osu.ppy.sh/users/6946682)**, [Mura7797](https://osu.ppy.sh/users/3244389), [Cribob](https://osu.ppy.sh/users/8485394), [Saibel](https://osu.ppy.sh/users/2727928) |
-| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [_vA](https://osu.ppy.sh/users/5626441), [mach_jp](https://osu.ppy.sh/users/8679066), [iskr312](https://osu.ppy.sh/users/2885412) |
-| ![][flag_MY] | **Malaysia** |  **[Neokje](https://osu.ppy.sh/users/7727987)**, [lisw1230](https://osu.ppy.sh/users/9249305), [watarakisah](https://osu.ppy.sh/users/6237337), [kaname-san92](https://osu.ppy.sh/users/764535), [Midori Carrot](https://osu.ppy.sh/users/6308090), [HunterproX](https://osu.ppy.sh/users/1343562) |
-| ![][flag_MX] | **Mexico** | **[\_Mytros\_](https://osu.ppy.sh/users/6507028)**, [Daybreak](https://osu.ppy.sh/users/3072763), [Sida](https://osu.ppy.sh/users/6031847), [Ray271](https://osu.ppy.sh/users/9008042), [Zetscythe](https://osu.ppy.sh/users/3360499) |
-| ![][flag_NL] | **Netherlands** | **[mrdawn2](https://osu.ppy.sh/users/1098581)**, [2fast4you98](https://osu.ppy.sh/users/5183940), [Obligerator](https://osu.ppy.sh/users/7452877), [Boots](https://osu.ppy.sh/users/2827823), [KloKat](https://osu.ppy.sh/users/6637728), [mijkolsmith](https://osu.ppy.sh/users/4307765) |
-| ![][flag_NO] | **Norway** | **[Staiain](https://osu.ppy.sh/users/86188)**, [Jesen](https://osu.ppy.sh/users/9000473), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585), [Glass Bottle](https://osu.ppy.sh/users/4988688), [KarlF](https://osu.ppy.sh/users/3494742), [Hjeg](https://osu.ppy.sh/users/2764122) |
-| ![][flag_NZ] | **New Zealand** | **[Worms](https://osu.ppy.sh/users/1963937)**, [B E P I S](https://osu.ppy.sh/users/3580643), [Spicy Meme](https://osu.ppy.sh/users/6571078), [FantumEX](https://osu.ppy.sh/users/3394802), [Alamanar](https://osu.ppy.sh/users/7621152) |
+| ![][flag_DE] | **Allemagne** | **[LastExceed](https://osu.ppy.sh/users/6232245)**, [Jeremayer](https://osu.ppy.sh/users/7475496), [Nediz](https://osu.ppy.sh/users/7009106), [-Dom-](https://osu.ppy.sh/users/5587671), [Nedeam](https://osu.ppy.sh/users/3996828), [StanleyS](https://osu.ppy.sh/users/7810871) |
+| ![][flag_HK] | **Hong-Kong** | **[drunkenstein](https://osu.ppy.sh/users/4565389)**, [Opean](https://osu.ppy.sh/users/4544555), [Mooncha](https://osu.ppy.sh/users/5417362), [zero2snow](https://osu.ppy.sh/users/7751516) |
+| ![][flag_ID] | **Indonésie** | **[Fiea](https://osu.ppy.sh/users/3183277)**, [lpddemon](https://osu.ppy.sh/users/5101276), [LovelySerenade](https://osu.ppy.sh/users/5492871), [reyss](https://osu.ppy.sh/users/4557440), [RemFangirl](https://osu.ppy.sh/users/5767941), [Nixeria-sama](https://osu.ppy.sh/users/6045757) |
+| ![][flag_IT] | **Italie** | **[jutte](https://osu.ppy.sh/users/6946682)**, [Mura7797](https://osu.ppy.sh/users/3244389), [Cribob](https://osu.ppy.sh/users/8485394), [Saibel](https://osu.ppy.sh/users/2727928) |
+| ![][flag_JP] | **Japon** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [_vA](https://osu.ppy.sh/users/5626441), [mach_jp](https://osu.ppy.sh/users/8679066), [iskr312](https://osu.ppy.sh/users/2885412) |
+| ![][flag_MY] | **Malaisie** |  **[Neokje](https://osu.ppy.sh/users/7727987)**, [lisw1230](https://osu.ppy.sh/users/9249305), [watarakisah](https://osu.ppy.sh/users/6237337), [kaname-san92](https://osu.ppy.sh/users/764535), [Midori Carrot](https://osu.ppy.sh/users/6308090), [HunterproX](https://osu.ppy.sh/users/1343562) |
+| ![][flag_MX] | **Mexique** | **[\_Mytros\_](https://osu.ppy.sh/users/6507028)**, [Daybreak](https://osu.ppy.sh/users/3072763), [Sida](https://osu.ppy.sh/users/6031847), [Ray271](https://osu.ppy.sh/users/9008042), [Zetscythe](https://osu.ppy.sh/users/3360499) |
+| ![][flag_NL] | **Pays-Bas** | **[mrdawn2](https://osu.ppy.sh/users/1098581)**, [2fast4you98](https://osu.ppy.sh/users/5183940), [Obligerator](https://osu.ppy.sh/users/7452877), [Boots](https://osu.ppy.sh/users/2827823), [KloKat](https://osu.ppy.sh/users/6637728), [mijkolsmith](https://osu.ppy.sh/users/4307765) |
+| ![][flag_NO] | **Norvège** | **[Staiain](https://osu.ppy.sh/users/86188)**, [Jesen](https://osu.ppy.sh/users/9000473), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585), [Glass Bottle](https://osu.ppy.sh/users/4988688), [KarlF](https://osu.ppy.sh/users/3494742), [Hjeg](https://osu.ppy.sh/users/2764122) |
+| ![][flag_NZ] | **Nouvelle-Zélande** | **[Worms](https://osu.ppy.sh/users/1963937)**, [B E P I S](https://osu.ppy.sh/users/3580643), [Spicy Meme](https://osu.ppy.sh/users/6571078), [FantumEX](https://osu.ppy.sh/users/3394802), [Alamanar](https://osu.ppy.sh/users/7621152) |
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [Ainyan](https://osu.ppy.sh/users/3770641), [JztCallMeRon](https://osu.ppy.sh/users/2471512), [Niro-](https://osu.ppy.sh/users/6443899), [BLVGARI](https://osu.ppy.sh/users/877011), [Shuisora](https://osu.ppy.sh/users/4102511) |
-| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [SitekX](https://osu.ppy.sh/users/3840946), [Kroly-](https://osu.ppy.sh/users/6382502), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Transformau5](https://osu.ppy.sh/users/3109917), [Benzopirene](https://osu.ppy.sh/users/1887068) |
-| ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [[PhobosX]](https://osu.ppy.sh/users/2570019), [U1wknUzeU6](https://osu.ppy.sh/users/6930247), [AngeloLagusa](https://osu.ppy.sh/users/9074986), [OrphicX](https://osu.ppy.sh/users/6673780), [Faikren](https://osu.ppy.sh/users/5948345) |
-| ![][flag_SG] | **Singapore** | **[Evening](https://osu.ppy.sh/users/2193881)**, [OrienST8](https://osu.ppy.sh/users/4574597), [DotZeix](https://osu.ppy.sh/users/4363028), [Lindyes](https://osu.ppy.sh/users/7462804), [saikooppai](https://osu.ppy.sh/users/7288030), [Ezo](https://osu.ppy.sh/users/2095061) |
-| ![][flag_KR] | **South Korea** | **[jakads](https://osu.ppy.sh/users/259972)**, [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [SuddenDeath](https://osu.ppy.sh/users/6699923), [blueBloody](https://osu.ppy.sh/users/8046839) |
-| ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Asesingta](https://osu.ppy.sh/users/5037769), [ran-](https://osu.ppy.sh/users/5442427), [Userbacker](https://osu.ppy.sh/users/1872307), [Hydragyrum](https://osu.ppy.sh/users/6440453), [HotSaucezZ](https://osu.ppy.sh/users/7408290) |
-| ![][flag_Se] | **Sweden** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [[ Vento ]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
-| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
-| ![][flag_TW] | **Taiwan** | **[y85782122](https://osu.ppy.sh/users/2287176)**, [jimmymeow159357](https://osu.ppy.sh/users/3733696), [luckygino](https://osu.ppy.sh/users/1967808), [ecafree2](https://osu.ppy.sh/users/1984442), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [MimF7_tw](https://osu.ppy.sh/users/4135993) |
-| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Fumi](https://osu.ppy.sh/users/8288049), [shuniki](https://osu.ppy.sh/users/4942174), [4ksrub](https://osu.ppy.sh/users/2838908), [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531), [floodlord](https://osu.ppy.sh/users/2772110) |
-| ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Xonica](https://osu.ppy.sh/users/3586776), [yipyapyop](https://osu.ppy.sh/users/5156656), [SleepyDarkrai](https://osu.ppy.sh/users/5063207), [itsjake](https://osu.ppy.sh/users/3617889), [Traps Are Cute](https://osu.ppy.sh/users/3359035) |
-| ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
+| ![][flag_PL] | **Pologne** | **[Tidek](https://osu.ppy.sh/users/743282)**, [SitekX](https://osu.ppy.sh/users/3840946), [Kroly-](https://osu.ppy.sh/users/6382502), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Transformau5](https://osu.ppy.sh/users/3109917), [Benzopirene](https://osu.ppy.sh/users/1887068) |
+| ![][flag_RU] | **Fédération de Russie** | **[Mage](https://osu.ppy.sh/users/5527957)**, [[PhobosX]](https://osu.ppy.sh/users/2570019), [U1wknUzeU6](https://osu.ppy.sh/users/6930247), [AngeloLagusa](https://osu.ppy.sh/users/9074986), [OrphicX](https://osu.ppy.sh/users/6673780), [Faikren](https://osu.ppy.sh/users/5948345) |
+| ![][flag_SG] | **Singapour** | **[Evening](https://osu.ppy.sh/users/2193881)**, [OrienST8](https://osu.ppy.sh/users/4574597), [DotZeix](https://osu.ppy.sh/users/4363028), [Lindyes](https://osu.ppy.sh/users/7462804), [saikooppai](https://osu.ppy.sh/users/7288030), [Ezo](https://osu.ppy.sh/users/2095061) |
+| ![][flag_KR] | **Corée du Sud** | **[jakads](https://osu.ppy.sh/users/259972)**, [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [SuddenDeath](https://osu.ppy.sh/users/6699923), [blueBloody](https://osu.ppy.sh/users/8046839) |
+| ![][flag_ES] | **Espagne** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Asesingta](https://osu.ppy.sh/users/5037769), [ran-](https://osu.ppy.sh/users/5442427), [Userbacker](https://osu.ppy.sh/users/1872307), [Hydragyrum](https://osu.ppy.sh/users/6440453), [HotSaucezZ](https://osu.ppy.sh/users/7408290) |
+| ![][flag_Se] | **Suède** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [[ Vento ]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
+| ![][flag_CH] | **Suisse** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
+| ![][flag_TW] | **Taïwan** | **[y85782122](https://osu.ppy.sh/users/2287176)**, [jimmymeow159357](https://osu.ppy.sh/users/3733696), [luckygino](https://osu.ppy.sh/users/1967808), [ecafree2](https://osu.ppy.sh/users/1984442), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [MimF7_tw](https://osu.ppy.sh/users/4135993) |
+| ![][flag_TH] | **Thaïlande** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Fumi](https://osu.ppy.sh/users/8288049), [shuniki](https://osu.ppy.sh/users/4942174), [4ksrub](https://osu.ppy.sh/users/2838908), [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531), [floodlord](https://osu.ppy.sh/users/2772110) |
+| ![][flag_GB] | **Royaume-Uni** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Xonica](https://osu.ppy.sh/users/3586776), [yipyapyop](https://osu.ppy.sh/users/5156656), [SleepyDarkrai](https://osu.ppy.sh/users/5063207), [itsjake](https://osu.ppy.sh/users/3617889), [Traps Are Cute](https://osu.ppy.sh/users/3359035) |
+| ![][flag_US] | **États-Unis** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [[-Gearfrik-]](https://osu.ppy.sh/users/8198818) |
 
 ------------------------------------------------------------------------
@@ -111,11 +111,11 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ## Mappools
 
-### Group Stage
+### Phases de poules
 
-**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
+**[Téléchargez le pack de maps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
-- FreeMod
+- Freemod
   - [Lifetheory - Daisy (Tidek)](http://osu.ppy.sh/b/718401&m=3) [Life (Insane)]
   - [Shawn Wasabi - Burnt Rice (855wa)](https://osu.ppy.sh/b/1063205&m=3) [Hard]
   - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13)](http://osu.ppy.sh/b/741552&m=3) [MX]
@@ -131,9 +131,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 - Tiebreaker
   - [sakuraburst - sha (SitekX)](http://osu.ppy.sh/b/1258514&m=3) [dow]
 
-### Round of 16
+### Huitièmes de finale
 
-**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
+**[Téléchargez le pack de maps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
   - [hyi - you can recover (Valedict)](http://osu.ppy.sh/b/1199287&m=3) [restoration]
@@ -154,204 +154,204 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ------------------------------------------------------------------------
 
-## Match Results
+## Résultats des matchs
 
-### Group Stage
+### Phases de poule
 
-| Saturday, 12. August 2017 | | | | |
+| Samedi 12 août 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| Taiwan ![][flag_TW] | 2 | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/35209765) |
-| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35209716) |
-| New Zealand ![][flag_NZ] | 1 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35209719) |
-| Philippines ![][flag_PH] | 1 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/35210698) |
-| Norway ![][flag_NO] | 3 | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/35210701) |
-| Malaysia ![][flag_MY] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35210711) |
-| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35210713) |
-| Norway ![][flag_NO] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35211634) |
-| Australia ![][flag_AU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35211644) |
-| Finland ![][flag_FI] | 4 | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/35211647) |
-| Singapore ![][flag_SG] | 4 | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/35211655) |
-| France ![][flag_FR] | 4 | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35212839) |
-| Russian Federation ![][flag_RU] | 0 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/35212859) |
-| Belgium ![][flag_BE] | 3 | 4 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/35212861) |
-| Singapore ![][flag_SG] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35212866) |
+| Taïwan ![][flag_TW] | 2 | 4 | ![][flag_AU] Australie | [#1](https://osu.ppy.sh/community/matches/35209765) |
+| Fédération de Russie ![][flag_RU] | 0 | 4 | ![][flag_KR] Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35209716) |
+| Nouvelle-Zélande ![][flag_NZ] | 1 | 4 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35209719) |
+| Philippines ![][flag_PH] | 1 | 4 | ![][flag_PL] Pologne | [#1](https://osu.ppy.sh/community/matches/35210698) |
+| Norvège ![][flag_NO] | 3 | 4 | ![][flag_HK] Hong-Kong | [#1](https://osu.ppy.sh/community/matches/35210701) |
+| Malaisie ![][flag_MY] | 0 | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35210711) |
+| Suisse ![][flag_CH] | 0 | 4 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35210713) |
+| Norvège ![][flag_NO] | 0 | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35211634) |
+| Australie ![][flag_AU] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35211644) |
+| Finlande ![][flag_FI] | 4 | 2 | ![][flag_RU] Fédération de Russie | [#1](https://osu.ppy.sh/community/matches/35211647) |
+| Singapour ![][flag_SG] | 4 | 1 | ![][flag_TH] Thaïlande | [#1](https://osu.ppy.sh/community/matches/35211655) |
+| France ![][flag_FR] | 4 | 1 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35212839) |
+| Fédération de Russie ![][flag_RU] | 0 | 4 | ![][flag_SE] Suède | [#1](https://osu.ppy.sh/community/matches/35212859) |
+| Belgique ![][flag_BE] | 3 | 4 | ![][flag_TH] Thaïlande | [#1](https://osu.ppy.sh/community/matches/35212861) |
+| Singapour ![][flag_SG] | 0 | 4 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35212866) |
 | Venezuela ![][flag_VE] | 2 | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/35214348) |
-| Finland ![][flag_FI] | 0 | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/35214425) |
-| Spain ![][flag_ES] | 3 | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/35214428) |
-| Belgium ![][flag_BE] | 0 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35214432) |
-| Poland ![][flag_PL] | 0 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35218496) |
-| Germany ![][flag_DE] | 0 | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/35219133) |
-| Argentina ![][flag_AR] | 1 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35218503) |
-| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35218508) |
-| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/35219912) |
-| Germany ![][flag_DE] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35219931) |
-| Mexico ![][flag_MX] | 0 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35219934) |
-| Switzerland ![][flag_CH] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35219940) |
+| Finlande ![][flag_FI] | 0 | 4 | ![][flag_SE] Suède | [#1](https://osu.ppy.sh/community/matches/35214425) |
+| Espagne ![][flag_ES] | 3 | 4 | ![][flag_IT] Italie | [#1](https://osu.ppy.sh/community/matches/35214428) |
+| Belgique ![][flag_BE] | 0 | 4 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35214432) |
+| Pologne ![][flag_PL] | 0 | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/35218496) |
+| Allemagne ![][flag_DE] | 0 | 4 | ![][flag_MX] Mexique | [#1](https://osu.ppy.sh/community/matches/35219133) |
+| Argentine ![][flag_AR] | 1 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35218503) |
+| Pays-Bas ![][flag_NL] | 1 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35218508) |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_PL] Pologne | [#1](https://osu.ppy.sh/community/matches/35219912) |
+| Allemagne ![][flag_DE] | 0 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35219931) |
+| Mexique ![][flag_MX] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35219934) |
+| Suisse ![][flag_CH] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35219940) |
 
-| Sunday, 13. August 2017 | | | | |
+| Dimanche 13 août 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
-| New Zealand ![][flag_NZ] | 4 | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/35236072) |
-| Italy ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35236074) |
-| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35236084) |
-| New Zealand ![][flag_NZ] | 4 | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/35237009) |
-| Australia ![][flag_AU] | 1 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35237013) |
-| Belgium ![][flag_BE] | 0 | 4 | ![][flag_SG] Singapore | -Win by default- |
-| Spain ![][flag_ES] | 0 | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35237019) |
-| Norway ![][flag_NO] | 2 | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/35237818) |
-| Hong Kong ![][flag_HK] | 0 | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35237821) |
-| Sweden ![][flag_SE] | 2 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35237888) |
-| Hong Kong ![][flag_HK] | 4 | 2 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/35238975) |
-| Taiwan ![][flag_TW] | 2 | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35238978) |
-| Finland ![][flag_FI] | 0 | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35238983) |
-| Philippines ![][flag_PH] | 1 | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35240162) |
-| Taiwan ![][flag_TW] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35240166) |
-| Canada ![][flag_CA] | 4 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35240169) |
-| Thailand ![][flag_TH] | 2 | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35240175) |
-| Netherlands ![][flag_NL] | 1 | 4 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/35241555) |
-| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_BR] Brazil | -Win by default- |
-| Germany ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35241635) |
-| Mexico ![][flag_MX] | 0 | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35241640) |
+| Nouvelle-Zélande ![][flag_NZ] | 4 | 2 | ![][flag_ES] Espagne | [#1](https://osu.ppy.sh/community/matches/35236072) |
+| Italie ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35236074) |
+| Pays-Bas ![][flag_NL] | 1 | 4 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35236084) |
+| Nouvelle-Zélande ![][flag_NZ] | 4 | 0 | ![][flag_IT] Italie | [#1](https://osu.ppy.sh/community/matches/35237009) |
+| Australie ![][flag_AU] | 1 | 4 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35237013) |
+| Belgique ![][flag_BE] | 0 | 4 | ![][flag_SG] Singapour | -Win by default- |
+| Espagne ![][flag_ES] | 0 | 4 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35237019) |
+| Norvège ![][flag_NO] | 2 | 4 | ![][flag_MY] Malaisie | [#1](https://osu.ppy.sh/community/matches/35237818) |
+| Hong-Kong ![][flag_HK] | 0 | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35237821) |
+| Suède ![][flag_SE] | 2 | 4 | ![][flag_KR] Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35237888) |
+| Hong-Kong ![][flag_HK] | 4 | 2 | ![][flag_MY] Malaisie | [#1](https://osu.ppy.sh/community/matches/35238975) |
+| Taïwan ![][flag_TW] | 2 | 4 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35238978) |
+| Finlande ![][flag_FI] | 0 | 4 | ![][flag_KR] Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35238983) |
+| Philippines ![][flag_PH] | 1 | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/35240162) |
+| Taïwan ![][flag_TW] | 1 | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35240166) |
+| Canada ![][flag_CA] | 4 | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35240169) |
+| Thaïlande ![][flag_TH] | 2 | 4 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35240175) |
+| Pays-Bas ![][flag_NL] | 1 | 4 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/community/matches/35241555) |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_BR] Brésil | -Win by default- |
+| Allemagne ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35241635) |
+| Mexique ![][flag_MX] | 0 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35241640) |
 
 ------------------------------------------------------------------------
 
-## Ruleset
-### Tournament Rules
+## Règles
+### Règlement du tournoi
 
-1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode with 4-key specific beatmaps.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
+1. Le osu!mania 4K World Cup est un tournoi de osu!mania entre pays, joué sur le mode de jeu osu!mania sur des beatmaps 4 touches.
+   - Même si cette compétition est prévue pour se jouer en 3 contre 3, cela peut changer en focntion du nombre d'inscriptions.
 
-2. Map scoring is based on Score V2.
+2. Le méchanisme de score utilisé est le Score V2.
 
-3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - The Group Stage mappool will be announced after the drawings.
-   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+3. Les beatmaps pour chaque round seront annoncées par le sélecteur des maps en avance le dimanchje avant que les matchs commencent. Seules ces maps seront utilisées pendant leurs matchs respectifs.
+   - Le mappool de la phase de groupe sera annoncée après le tirage au sort du tableau.
+   - Une map sera dite tiebreaker. Elle sera jouée uniquement en cas d'égalité.
 
-4. Match schedule will be settled by the Tournament Management (see below).
-5. If no staff or referee is available, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a map gets considered as passing it.
+4. Les dates et horaires des matchs seront fixés par les organisateurs du tournoi (voir plus bas).
+5. Si aucun membre du staff ou si aucun arbitre n'est disponible, le match sera reporté à une date ultérieure.
+6. Les scores des joueurs qui échouent ne seront pas ajoutés au score de l'équipe.
+   - Revivre et survivre pendant une map n'est pas considéré comme un échec.
 
-7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
-8. If the beatmap ends in a draw, the game will be nullified.
-9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
+7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les élements de la map comme les storyboards ou les skins sont autoriés.
+8. Si une beatmap se termine sur une égalité, la partie sera nullifié.
+9. Si un joueur se déconnecte, il sera considéré comme ayant échoué la map.
+   - Les déconnexions dans les 30 secondes qui suivent le début de la map peuvent être rejouées. C'est l'arbitre qui en juge. La beatmap jouée peut être interrompue en cours de jeu pour cela.
 
-10. Beatmaps cannot be reused in the same match unless the game was nullified.
-11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
-12. Exchanging players during a match is allowed without limitations.
-13. Lag is not a valid reason to nullify a beatmap.
-14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
-15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
-17. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+10. Les beatmaps ne peuvent pas être réutilisées dans le même match sauf si la partie avait été nullifiée.
+11. Si moins de joueurs que le minimum requis se présentent, le match peut être reporté jusqu'à 10 minutes.
+12. Échanger les joueuers pendant un match est autorisé sans limitations.
+13. Le lag n'est pas une raison valide pour nullifier une beatmap.
+14. Tous les joueuers doivent permettre au match de se dérouler aisément et sans délais. Des pénalitées peut être infligées si un joueur provoque excessivement des délais.
+15. Si un joueur se déconnecte entre deux beatmaps et que l'équipe ne peut pas l'échanger, le match peut être délayé de 10 minutes maximum.
+16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquée comme finales ne peuvent pas être objectées.
+17. Il est strictement interdi de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueuers ou arbitres, délayant le match ou tout autre comportement innaproprié.
+18. Les salles de discussion multijoueur sont soumies au [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
+    - Ne pas respecter les règles du chat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
 
-19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
-20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-21. Penalties for violating the tournament rules can be:
-    - Exclusion of specific players for one map
-    - Exclusion of specific players for an entire match
-    - Declaring the match as Lost by Default
-    - Disqualification from the entire tournament
-    - Disqualification from the current and future official tournaments until appealed
-    - Any modification of these rules will be announced.
+19. Dans les phases de groupe, une « Victoire par défaut » sera considérée comme une victoire de 4 à 0, avec un ratio de différence de score de +1,0.
+20. Les incidents innatendus sont gérés par les organisateurs du tournoi. Les arbitres peuvent accorder plus de tolérence suivant les circonstances. nexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. C'est à leur seule discrétion.
+21. Une infraction aux règlement du tournoi peut résulter en :
+    - l'exclusion de certains joueurs pour une map
+    - l'exclusion de certains joueurs pour un match entier
+    - la déclaration du match comme perdu par défaut
+    - la discalification de l'intégralité du tournoi
+    - la discalification de l'intégralité du tournoi actuel et des suivant jusqu'à appel
+    - toute modification de ces règles sera annoncée.
 
-### Tournament Registration
+### Inscriptions au tournoi
 
-1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-   - The declared captain can form their team from the candidate list of their country.
+1. Chaque utilisateur intérésé pour rejoindre l'équipe de leur pays s'inscrit individuellement.
+   - Les organisateurs du tournoi créeront une liste des potentiels candidats pour l'équipe d'un pays.
+   - L'organisation du tournoi déclare un candidat capitaine de l'équipe de leur pays, bien que temporairement.
+   - Le déclaré capitaine peut former son équipe à partir de la liste des candidats de leur pays.
 
-2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, you have to ensure that your global osu!mania performance ranking is above 5000.
-   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+2. Pour s'assurer de la validité et du sérieux des inscriptions, chaque utilisateur sera vérifié par l'organisation du tournoi.
+   - Chaque utilisateur enregistré sera assigné à la liste des candidats de leurs pays respectifs.
+   - Pour être accepté sur la liste, vous devez vous assurer que votre rang global osu!mania est sous les 5000.
+   - Pour être accepté sur la liste, vous ne devez pas avoir enfreint les [règles de la commiunauté osu!](/wiki/Rules) dans les 12 derniers mois.
 
-3. All successfully formed teams will be published after the Registration Phase.
-4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
-   - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
+3. Touts les équipes formées avec succès seront publiées après la phase d'inscription.
+4. Seules les 32 équipes potentiellement plus fortes participeront. La force potentielle d'une équipe est déterminée par les statistiques en ligne de tous les candidats valides.
+   - Si le nombre de pays enregistrés est sous 32, ce nombre peut être réduit à 24, 20 ou 16. Le but étant de pouvoir laisser le plus de pays que possible participer !
 
-5. Mapset selectors must not participate as a player in this tournament.
+5. Les sélecteurs de maps ne peuvent pas participer en tant que joueuer dans ce tournoi.
 
-### Stage Instructions
+### Déroulement des phases tournoi
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-   - This may change depending on how many teams are accepted into the competition at the end.
+1. Pendant les phases de poules, les équipes seront divisées en 8 groupes de 4 équipes.
+   - Cela peut changer suivant le nombre d'équipes acceptées dans la compétition.
 
-2. All the teams from each group will face each other.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - Have higher `∑{(total score difference) / (maximum score)}`.
-   - Winner of the rematch.
+2. Toutes les équipes de chaque groupe se rencontront.
+3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
+   - Plus de matchs gagnées.
+   - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
+   - Le plus de maps gagnées.
+   - A un plujs grand `∑{(différence totale de score) / (score maximum)}`.
+   - Vainceur du la revanche.
 
-4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
+   -  Cela peut changer avec la configuration des phases de poule.
 
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
+6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :
 
-| Stage | Match ID |
+| Étape | ID du match |
 | -----: | -------- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals - Week 1 | O & AB, AC, AD, AE |
-| Finals - Week 2 | P, Q |
+| Huitièmes de finale |  A, B, C, D, E, F, G, H |
+| Quarts de finale | I, J, K, L & R, S, T, U |
+| Demi-finales | M, N & V, W, X, Y, Z, AA |
+| Finales - Semaine 1 | O & AB, AC, AD, AE |
+| Finales - Semaine 2 | P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals and Finals: Week 1, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Finals: Week 2, you need to win 7 beatmaps to win the match. (Best-of-13)
+   - Dans les phases de poule, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
+   - Dans les huitièmes et quarts de fianle, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
+   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 9 maps)
+   - Pour les finales : semaine 2, vous devez remporter 7 beatmaps pour gagner un match. (meilleurs sur 13 maps)
 
-### Match Instructions
+### Instructions du match
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+1. Un arbitre créera une salle multijoueur 15 minutes en avance. Les joueuers doivent se réunir pendant cette période.
+   - Les paramètres de la salle sont osu!mania, Versus Équipe., condition de victoire : 'ScoreV2'. Le nom de la salle doit être "MWC 4K 2017: (TeamBleue) vs (TeamRouge)".
+   - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit êre l'équipe rouge.
 
-2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4-key specific beatmaps.
-3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a map as well.
+2. Les joueuers sont libres de sélectionner deux beatmaps. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4-touches.
+3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront pas être choisies par aucune équipe pendant l'intégralité du match.  
+4. La sélection des beatmaps sera alternée entre chaque capitaine qui choisira une beatmap de la liste des maps disponibles.
+5. Chaque capitaine dit utiliser « !roll » une fois dans #multiplayer.
+   - Le gagnant du !roll commence par choisir la première beatmap du match.
+   - Le perdant du !roll banni une beatmap, suivi par le gagnant du !roll.
 
-6. Captains may pick freely from any bracket.
-   - In case of a tie, the tiebreaker map must be played.
+6. Les capitaines peuvent choisir librement les maps du tableau.
+   - En cas d'égalité, la map de tiebreaker doit être jouée.
 
-7. Results of the Group Stage will be published via a Statistics sheet.
+7. Les résultats de la phase de poule sera publiée via le feuille de calcul des statistiques.
 
-### Mappool Instructions
+### Instructions pour les mappools
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals Week 1 & Finals Week 2 use the same mappool.
+1. Il y aura 1 mappool pour les phases de poules, 1 pour les huitièmes de finale, 1 pour les quarts de finale, 1 pour les demi-finales et 1 pour les finales.
+   - Les semaines de finales 1 et 2 utilisent le même mappool.
 
-2. Each mappool varies in size based on the current stage.
-   - The Group Stage mappool has 13 beatmaps in total.
-   - The Round of 16 and Quarterfinals mappool has 14 beatmaps in total.
-   - The Semifinals mappool has 15 maps in total.
-   - The Finals mappool has 16 maps in total.
+2. La taille de chaque mappool varie suivant la phase actuelle.
+   - La mappool de la la phase de poule a 13 beatmaps au total.
+   - Les mappools des huitièmes de finale et des quarts de finale sont 14 beatmaps au total.
+   - Le mappool de les demi-finales a 15 maps au total.
+   - La mappool des finales a 16 maps au total.
 
-3. Each mappool has one tiebreaker.
-4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
-   - The tiebreaker will be played under FreeMod conditions.
+3. Chaque mappool a un tiebreaker.
+4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
+   - Les mods autorisés sont [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) et [Flashlight](/wiki/Game_Modifiers).
+   - Le tiebreaker sera aussi joué sous les conditions du Freemod.
 
-### Scheduling Instructions
+### Instructions de la planification
 
-1. Each stage will be held on **a single weekend**.
-2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+1. Chaque phase se déroulera sur **un seul weekend**.
+2. Plusieurs matchs de la phase de poule peuvent se dérouler en même temps.
+3. Toutes les phases à double élimination directe se tiendront le samedi ou dimanche, UTC+0.
+4. La planification du tournoi sera prise en chage par les organisateurs du toirnoi. Le programme sera publié le dimanche avant les premiers matchs de la phase actuelle. L'organisation du tournoi essaiera de programmer le tournoi en fonction des fuseaux horaires des participants.
+   - Dans les phases de quarts de finales et au dessus : veuillez informer les organisateurs du tournoi avant dimanche si vous pensez que vous serez indisponibles pendant un tranche horaire dans la semaine suivante. Nous essayons de respecter vos demandes, mais tout ne peut pas toujours être fait.
 
-5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
-6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
+5. La replanification de matchs après la publication des horaires sur le wiki ne peut être fait sous aucune circonstance.
+6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueuers pour chaque match. Si des équipes ne peuvent pas fournir trois joueuers pour un match, l'équipe sera considérée comme ayant fait forfait.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
