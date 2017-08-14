@@ -8,7 +8,7 @@ Közösségi Szabályok
 
 1.  **Minden játékosnak csupán *EGY* felhasználói fiókja lehet.** Ez a fiók csak te vagy. Ez a fiók senki más - nem a testvéred, az édesanyád, a nővéred, a barátod - ez TE vagy. Ne oszd meg a fiókodat senkivel.
 2.  **Játssz tisztán.** Bármiféle segédprogram használata, ami bármi előnyben részesít másokkal szemben, nem elfogadott. Ebbe beletartozik például: makroprogramok, célzást segítő programok, időkeret módosítók és így tovább. Ha egy program segítséget nyújt a játékban, amit egyébként egyedül kéne végezned, az nem szabályos.
-3.  **Legyetek rendesek egymáshoz.** Zaklatásnak, vagy bármi egyéb ellenségeskedésnek nincs helye az osu! közösségében. Azért vagyunk itt, hogy karikákat kattintsunk, dobokat üssünk, gyümölcsöket szedjünk, vagy akár tizennyolc gombot nyomjunk le egyszerre, nem azért, hogy gyökerek legyünk egymáshoz.
+3.  **Legyél rendes a másikhoz.** Zaklatásnak, vagy bármi egyéb ellenségeskedésnek nincs helye az osu! közösségében. Azért vagyunk itt, hogy karikákat kattintsunk, dobokat üssünk, gyümölcsöket szedjünk, vagy akár tizennyolc gombot nyomjunk le egyszerre, nem azért, hogy gyökerek legyünk egymáshoz.
 4.  **Ne legyél seggfej.** Ha bármikor felmerül a kérdés a fejedben, hogy vajon megszeged-e ezt a szabályt, valószínűleg igen.
 5.  **Mi egy korhatár nélküli közösség vagyunk.** Ez azt jelenti, hogy 18+/felnőtt tartalom, mint például droghasználat, vagy bármiféle szexuális jellegű téma nem elfogadott. Ritka kivételek előfordulhatnak, ahol ez illő lehet, de általánosan beszélve, kerüljük ezeket.
 6.  **Ahol a szabályok nem érvényesülnek, ott a józan ész igen.** A moderátorok megítélésük alapján bírálhatják ezt, ahol szerintük szükséges.
@@ -44,7 +44,7 @@ Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon
 
 Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
 
-1. **Győződj meg arról, hogy engedélyed van mindenre, amit a beatmap-edben használsz.** Ez magába foglalja a zenéket, videókat, ütéshangokat, grafikákat, vagy bármi egyéb tartalmat, ami nem a te munkád gyümölcse. Ha nem vagy benne biztos, hogy merre kéne az efféle tartalmakat keresned, nekünk van egy folyamatosan bővülő zenegyűjteményünk a [Kiemelt Előadó](https://osu.ppy.sh/beatmaps/artists/) részlegnél, ahol az összes zene 100%-os licenc-szel rendelkezik az _osu!_ használatához.
+1. **Győződj meg arról, hogy engedélyed van mindenre, amit a beatmap-edben használsz.** Ez magába foglalja a zenéket, videókat, ütéshangokat, grafikákat, vagy bármi egyéb tartalmat, ami nem a te munkád gyümölcse. Ha nem vagy benne biztos, hogy merre kéne az efféle tartalmakat keresned, nekünk van egy folyamatosan bővülő zenegyűjteményünk a [Kiemelt Előadók](https://osu.ppy.sh/beatmaps/artists/) részlegnél, ahol az összes zene 100%-os licenc-szel rendelkezik az _osu!_ használatához.
 2.  **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.
 3.  **Ne próbáld ellopni mások munkáját.** Szintúgy ne töltsd fel és használd a másik munkáját az engedélyük nélkül (beleértve, de nem korlátozva, témákat és vendég nehézségeket).
 
