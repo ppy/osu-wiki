@@ -7,7 +7,7 @@ Reglas de la Comunidad
 ---------------
 
 1.  **Cada jugador debe tener solo "UNA" cuenta,** Esta cuenta es tuya y de nadie más (no de tu hermano, de tu madre, de tu hermana, de tu amigo, es TUYA. No compartas tu cuenta con nadie mas.
-2.  **Se bueno con los demas.** El acoso u otro antagonismo no tiene lugar en la comunidad de osu! donde haces clic en círculos, golpeas tambores, atrapas frutas y tocas hasta 18 teclas a la vez, no para ser idiota con otros.
+2.  **Juega limpio.** El uso de programas/utilidades de terceros para obtener cualquier tipo de ventaja no está bien. Esto incluye a los programas de macropulso, programas asistentes de precisión, Modificadores de escala de tiempo, etc. Si un programa está haciendo algo para ayudarte a jugar lo que deberías hacer por ti mismo ¡no está bien!.
 3.  **No seas un idiota.** Si en algún momento no estás seguro de si estás infringiendo las reglas, probablemente lo estés haciendo.
 4.  **Somos una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años y/o NSFW (Not Safe For Work) o contenido explicito como drogas o temas sexuales no son bienvenidos aquí, Excepto cuando se hace un comentario apropiado para eso, pero generalmente hablando, manténganlo limpio..
 5.  **Donde las reglas no prevalezcan, Usa el sentido común.** La administración tiene la explicita discreción de aplicar su jucio así sea necesario.
