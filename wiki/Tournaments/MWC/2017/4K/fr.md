@@ -20,9 +20,9 @@ La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!man
 
 ## Récompenses
 
-Dans chaque coupe du monde, les joueurs qui réussisent à obtenir une place sur le podium recoivent des prix uniques créés spécialement pour les gagnants de la World Cup. Il est possible que ces récompenses changent entre plusieurs World Cup. 
+Dans chaque coupe du monde, les joueurs qui réussissent à obtenir une place sur le podium reçoivent des prix uniques créés spécialement pour les gagnants de la coupe du monde. Il est possible que ces récompenses changent entre plusieurs coupe du monde. 
 
-| Place | Récompense(s) |
+| Place | Récompenses |
 | --- | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1re place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
 | ![Silver Crown](/wiki/shared/SCrown.png "2e place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
@@ -195,7 +195,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Pays-Bas ![][flag_NL] | 1 | 4 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35236084) |
 | Nouvelle-Zélande ![][flag_NZ] | 4 | 0 | ![][flag_IT] Italie | [#1](https://osu.ppy.sh/community/matches/35237009) |
 | Australie ![][flag_AU] | 1 | 4 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35237013) |
-| Belgique ![][flag_BE] | 0 | 4 | ![][flag_SG] Singapour | -Win by default- |
+| Belgique ![][flag_BE] | 0 | 4 | ![][flag_SG] Singapour | -Victoire par défaut- |
 | Espagne ![][flag_ES] | 0 | 4 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35237019) |
 | Norvège ![][flag_NO] | 2 | 4 | ![][flag_MY] Malaisie | [#1](https://osu.ppy.sh/community/matches/35237818) |
 | Hong-Kong ![][flag_HK] | 0 | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35237821) |
@@ -208,7 +208,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Canada ![][flag_CA] | 4 | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35240169) |
 | Thaïlande ![][flag_TH] | 2 | 4 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35240175) |
 | Pays-Bas ![][flag_NL] | 1 | 4 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/community/matches/35241555) |
-| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_BR] Brésil | -Win by default- |
+| Venezuela ![][flag_VE] | 0 | 4 | ![][flag_BR] Brésil | -Victoire par défaut- |
 | Allemagne ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35241635) |
 | Mexique ![][flag_MX] | 0 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35241640) |
 
@@ -218,11 +218,11 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ### Règlement du tournoi
 
 1. Le osu!mania 4K World Cup est un tournoi de osu!mania entre pays, joué sur le mode de jeu osu!mania sur des beatmaps 4 touches.
-   - Même si cette compétition est prévue pour se jouer en 3 contre 3, cela peut changer en focntion du nombre d'inscriptions.
+   - Même si cette compétition est prévue pour se jouer en 3 contre 3, cela peut changer en fonction du nombre d'inscriptions.
 
-2. Le méchanisme de score utilisé est le Score V2.
+2. Le mécanisme de score utilisé est le Score V2.
 
-3. Les beatmaps pour chaque round seront annoncées par le sélecteur des maps en avance le dimanchje avant que les matchs commencent. Seules ces maps seront utilisées pendant leurs matchs respectifs.
+3. Les beatmaps pour chaque round seront annoncées par le sélecteur des maps en avance le dimanche avant que les matchs commencent. Seules ces maps seront utilisées pendant leurs matchs respectifs.
    - Le mappool de la phase de groupe sera annoncée après le tirage au sort du tableau.
    - Une map sera dite tiebreaker. Elle sera jouée uniquement en cas d'égalité.
 
@@ -231,35 +231,35 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 6. Les scores des joueurs qui échouent ne seront pas ajoutés au score de l'équipe.
    - Revivre et survivre pendant une map n'est pas considéré comme un échec.
 
-7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les élements de la map comme les storyboards ou les skins sont autoriés.
-8. Si une beatmap se termine sur une égalité, la partie sera nullifié.
+7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les éléments de la map comme les storyboards ou les skins sont autorisés.
+8. Si une beatmap se termine sur une égalité, la partie sera nullifiée.
 9. Si un joueur se déconnecte, il sera considéré comme ayant échoué la map.
    - Les déconnexions dans les 30 secondes qui suivent le début de la map peuvent être rejouées. C'est l'arbitre qui en juge. La beatmap jouée peut être interrompue en cours de jeu pour cela.
 
 10. Les beatmaps ne peuvent pas être réutilisées dans le même match sauf si la partie avait été nullifiée.
 11. Si moins de joueurs que le minimum requis se présentent, le match peut être reporté jusqu'à 10 minutes.
-12. Échanger les joueuers pendant un match est autorisé sans limitations.
+12. Échanger les joueurs pendant un match est autorisé sans limitations.
 13. Le lag n'est pas une raison valide pour nullifier une beatmap.
-14. Tous les joueuers doivent permettre au match de se dérouler aisément et sans délais. Des pénalitées peut être infligées si un joueur provoque excessivement des délais.
+14. Tous les joueuers doivent permettre au match de se dérouler aisément et sans délais. Des pénalités peut être infligées si un joueur provoque excessivement des délais.
 15. Si un joueur se déconnecte entre deux beatmaps et que l'équipe ne peut pas l'échanger, le match peut être délayé de 10 minutes maximum.
 16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquée comme finales ne peuvent pas être objectées.
-17. Il est strictement interdi de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueuers ou arbitres, délayant le match ou tout autre comportement innaproprié.
-18. Les salles de discussion multijoueur sont soumies au [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
+17. Il est strictement interdit de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueuers ou arbitres, délayant le match ou tout autre comportement inapproprié.
+18. Les salles de discussion multijoueur sont soumises au [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
     - Ne pas respecter les règles du chat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
 
 19. Dans les phases de groupe, une « Victoire par défaut » sera considérée comme une victoire de 4 à 0, avec un ratio de différence de score de +1,0.
-20. Les incidents innatendus sont gérés par les organisateurs du tournoi. Les arbitres peuvent accorder plus de tolérence suivant les circonstances. nexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. C'est à leur seule discrétion.
+20. Les incidents inattendus sont gérés par les organisateurs du tournoi. Les arbitres peuvent accorder plus de tolérence suivant les circonstances. Les arbitres feront leurs propres décisions.
 21. Une infraction aux règlement du tournoi peut résulter en :
     - l'exclusion de certains joueurs pour une map
     - l'exclusion de certains joueurs pour un match entier
     - la déclaration du match comme perdu par défaut
-    - la discalification de l'intégralité du tournoi
-    - la discalification de l'intégralité du tournoi actuel et des suivant jusqu'à appel
+    - la disqualification de l'intégralité du tournoi
+    - la disqualification de l'intégralité du tournoi actuel et des suivant jusqu'à appel
     - toute modification de ces règles sera annoncée.
 
 ### Inscriptions au tournoi
 
-1. Chaque utilisateur intérésé pour rejoindre l'équipe de leur pays s'inscrit individuellement.
+1. Chaque utilisateur intéressé pour rejoindre l'équipe de leur pays s'inscrit individuellement.
    - Les organisateurs du tournoi créeront une liste des potentiels candidats pour l'équipe d'un pays.
    - L'organisation du tournoi déclare un candidat capitaine de l'équipe de leur pays, bien que temporairement.
    - Le déclaré capitaine peut former son équipe à partir de la liste des candidats de leur pays.
@@ -267,26 +267,26 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 2. Pour s'assurer de la validité et du sérieux des inscriptions, chaque utilisateur sera vérifié par l'organisation du tournoi.
    - Chaque utilisateur enregistré sera assigné à la liste des candidats de leurs pays respectifs.
    - Pour être accepté sur la liste, vous devez vous assurer que votre rang global osu!mania est sous les 5000.
-   - Pour être accepté sur la liste, vous ne devez pas avoir enfreint les [règles de la commiunauté osu!](/wiki/Rules) dans les 12 derniers mois.
+   - Pour être accepté sur la liste, vous ne devez pas avoir enfreint les [règles de la communauté osu!](/wiki/Rules) dans les 12 derniers mois.
 
 3. Touts les équipes formées avec succès seront publiées après la phase d'inscription.
 4. Seules les 32 équipes potentiellement plus fortes participeront. La force potentielle d'une équipe est déterminée par les statistiques en ligne de tous les candidats valides.
    - Si le nombre de pays enregistrés est sous 32, ce nombre peut être réduit à 24, 20 ou 16. Le but étant de pouvoir laisser le plus de pays que possible participer !
 
-5. Les sélecteurs de maps ne peuvent pas participer en tant que joueuer dans ce tournoi.
+5. Les sélecteurs de maps ne peuvent pas participer en tant que joueur dans ce tournoi.
 
 ### Déroulement des phases tournoi
 
 1. Pendant les phases de poules, les équipes seront divisées en 8 groupes de 4 équipes.
    - Cela peut changer suivant le nombre d'équipes acceptées dans la compétition.
 
-2. Toutes les équipes de chaque groupe se rencontront.
+2. Toutes les équipes de chaque groupe se rencontreront.
 3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
    - Plus de matchs gagnées.
    - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
    - Le plus de maps gagnées.
-   - A un plujs grand `∑{(différence totale de score) / (score maximum)}`.
-   - Vainceur du la revanche.
+   - A un plus grand `∑{(différence totale de score) / (score maximum)}`.
+   - Vainqueur du la revanche.
 
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
    -  Cela peut changer avec la configuration des phases de poule.
@@ -302,7 +302,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Finales - Semaine 1 | O & AB, AC, AD, AE |
 | Finales - Semaine 2 | P, Q |
 
-**Winning conditions:**
+**Conditions de victoire :**
    - Dans les phases de poule, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
    - Dans les huitièmes et quarts de fianle, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
    - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 9 maps)
@@ -310,9 +310,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Instructions du match
 
-1. Un arbitre créera une salle multijoueur 15 minutes en avance. Les joueuers doivent se réunir pendant cette période.
+1. Un arbitre créera une salle multijoueur 15 minutes en avance. Les joueurs doivent se réunir pendant cette période.
    - Les paramètres de la salle sont osu!mania, Versus Équipe., condition de victoire : 'ScoreV2'. Le nom de la salle doit être "MWC 4K 2017: (TeamBleue) vs (TeamRouge)".
-   - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit êre l'équipe rouge.
+   - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 
 2. Les joueuers sont libres de sélectionner deux beatmaps. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4-touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront pas être choisies par aucune équipe pendant l'intégralité du match.  
@@ -344,14 +344,14 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Instructions de la planification
 
-1. Chaque phase se déroulera sur **un seul weekend**.
+1. Chaque phase se déroulera sur **un seul week-end**.
 2. Plusieurs matchs de la phase de poule peuvent se dérouler en même temps.
 3. Toutes les phases à double élimination directe se tiendront le samedi ou dimanche, UTC+0.
-4. La planification du tournoi sera prise en chage par les organisateurs du toirnoi. Le programme sera publié le dimanche avant les premiers matchs de la phase actuelle. L'organisation du tournoi essaiera de programmer le tournoi en fonction des fuseaux horaires des participants.
+4. La planification du tournoi sera prise en charge par les organisateurs du tournoi. Le programme sera publié le dimanche avant les premiers matchs de la phase actuelle. L'organisation du tournoi essaiera de programmer le tournoi en fonction des fuseaux horaires des participants.
    - Dans les phases de quarts de finales et au dessus : veuillez informer les organisateurs du tournoi avant dimanche si vous pensez que vous serez indisponibles pendant un tranche horaire dans la semaine suivante. Nous essayons de respecter vos demandes, mais tout ne peut pas toujours être fait.
 
-5. La replanification de matchs après la publication des horaires sur le wiki ne peut être fait sous aucune circonstance.
-6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueuers pour chaque match. Si des équipes ne peuvent pas fournir trois joueuers pour un match, l'équipe sera considérée comme ayant fait forfait.
+5. La re-planification de matchs après la publication des horaires sur le wiki ne peut être fait sous aucune circonstance.
+6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueurs pour chaque match. Si des équipes ne peuvent pas fournir trois joueurs pour un match, l'équipe sera considérée comme ayant fait forfait.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
