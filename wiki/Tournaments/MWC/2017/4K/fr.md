@@ -231,10 +231,10 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 6. Les scores des joueurs qui échouent ne seront pas ajoutés au score de l'équipe.
    - Revivre et survivre pendant une map n'est pas considéré comme un échec.
 
-7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les éléments de la map comme les storyboards ou les skins sont autorisés.
+7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les éléments de la map comme les storyboards ou les skins est autorisé.
 8. Si une beatmap se termine sur une égalité, la partie sera nullifiée.
 9. Si un joueur se déconnecte, il sera considéré comme ayant échoué la map.
-   - Les déconnexions dans les 30 secondes qui suivent le début de la map peuvent être rejouées. C'est l'arbitre qui en juge. La beatmap jouée peut être interrompue en cours de jeu pour cela.
+   - Les déconnexions dans les 30 secondes qui suivent le début de la map peuvent être rejouées. C'est l'arbitre qui en jugera. La beatmap jouée peut être interrompue en cours de jeu pour cela.
 
 10. Les beatmaps ne peuvent pas être réutilisées dans le même match sauf si la partie avait été nullifiée.
 11. Si moins de joueurs que le minimum requis se présentent, le match peut être reporté jusqu'à 10 minutes.
@@ -242,9 +242,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 13. Le lag n'est pas une raison valide pour nullifier une beatmap.
 14. Tous les joueuers doivent permettre au match de se dérouler aisément et sans délais. Des pénalités peut être infligées si un joueur provoque excessivement des délais.
 15. Si un joueur se déconnecte entre deux beatmaps et que l'équipe ne peut pas l'échanger, le match peut être délayé de 10 minutes maximum.
-16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquée comme finales ne peuvent pas être objectées.
+16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquée comme finales ne sont pas faites pour être discutées.
 17. Il est strictement interdit de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueuers ou arbitres, délayant le match ou tout autre comportement inapproprié.
-18. Les salles de discussion multijoueur sont soumises au [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
+18. Les salles de discussion multijoueur sont soumises aux [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
     - Ne pas respecter les règles du chat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
 
 19. Dans les phases de groupe, une « Victoire par défaut » sera considérée comme une victoire de 4 à 0, avec un ratio de différence de score de +1,0.
@@ -264,7 +264,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - L'organisation du tournoi déclare un candidat capitaine de l'équipe de leur pays, bien que temporairement.
    - Le déclaré capitaine peut former son équipe à partir de la liste des candidats de leur pays.
 
-2. Pour s'assurer de la validité et du sérieux des inscriptions, chaque utilisateur sera vérifié par l'organisation du tournoi.
+2. Pour s'assurer de la validité et du sérieux des inscriptions, chaque utilisateur sera vérifié par les organisateurs du tournoi.
    - Chaque utilisateur enregistré sera assigné à la liste des candidats de leurs pays respectifs.
    - Pour être accepté sur la liste, vous devez vous assurer que votre rang global osu!mania est sous les 5000.
    - Pour être accepté sur la liste, vous ne devez pas avoir enfreint les [règles de la communauté osu!](/wiki/Rules) dans les 12 derniers mois.
@@ -314,7 +314,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - Les paramètres de la salle sont osu!mania, Versus Équipe., condition de victoire : 'ScoreV2'. Le nom de la salle doit être "MWC 4K 2017: (TeamBleue) vs (TeamRouge)".
    - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 
-2. Les joueuers sont libres de sélectionner deux beatmaps. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4-touches.
+2. Les joueuers sont libres de sélectionner deux beatmaps. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront pas être choisies par aucune équipe pendant l'intégralité du match.  
 4. La sélection des beatmaps sera alternée entre chaque capitaine qui choisira une beatmap de la liste des maps disponibles.
 5. Chaque capitaine dit utiliser « !roll » une fois dans #multiplayer.
@@ -328,30 +328,30 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Instructions pour les mappools
 
-1. Il y aura 1 mappool pour les phases de poules, 1 pour les huitièmes de finale, 1 pour les quarts de finale, 1 pour les demi-finales et 1 pour les finales.
-   - Les semaines de finales 1 et 2 utilisent le même mappool.
+1. Il y aura un mappool pour les phases de poules, les huitièmes de finale, les quarts de finale, les demi-finales et les finales.
+   - Les semaines des finales 1 et 2 utilisent le même mappool.
 
 2. La taille de chaque mappool varie suivant la phase actuelle.
    - La mappool de la la phase de poule a 13 beatmaps au total.
-   - Les mappools des huitièmes de finale et des quarts de finale sont 14 beatmaps au total.
-   - Le mappool de les demi-finales a 15 maps au total.
-   - La mappool des finales a 16 maps au total.
+   - Les mappools des huitièmes de finale et des quarts de finale contiennent 14 beatmaps au total.
+   - Le mappool des demi-finales est constitué de 15 maps au total.
+   - La mappool des finales contient 16 maps au total.
 
 3. Chaque mappool a un tiebreaker.
 4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
    - Les mods autorisés sont [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) et [Flashlight](/wiki/Game_Modifiers).
    - Le tiebreaker sera aussi joué sous les conditions du Freemod.
 
-### Instructions de la planification
+### Instructions sur la planification
 
 1. Chaque phase se déroulera sur **un seul week-end**.
 2. Plusieurs matchs de la phase de poule peuvent se dérouler en même temps.
 3. Toutes les phases à double élimination directe se tiendront le samedi ou dimanche, UTC+0.
-4. La planification du tournoi sera prise en charge par les organisateurs du tournoi. Le programme sera publié le dimanche avant les premiers matchs de la phase actuelle. L'organisation du tournoi essaiera de programmer le tournoi en fonction des fuseaux horaires des participants.
-   - Dans les phases de quarts de finales et au dessus : veuillez informer les organisateurs du tournoi avant dimanche si vous pensez que vous serez indisponibles pendant un tranche horaire dans la semaine suivante. Nous essayons de respecter vos demandes, mais tout ne peut pas toujours être fait.
+4. La planification du tournoi sera prise en charge par les organisateurs du tournoi. Le programme sera publié le dimanche avant les premiers matchs de la phase actuelle. Les organisateurs du tournoi essaieront de programmer le tournoi en fonction des fuseaux horaires des participants.
+   - Dans les phases de quarts de finales et au dessus : veuillez informer les organisateurs du tournoi avant dimanche si vous pensez que vous serez indisponibles pendant un tranche horaire dans la semaine suivante. Nous essayons de respecter vos demandes, mais tout ne peut pas être fait.
 
 5. La re-planification de matchs après la publication des horaires sur le wiki ne peut être fait sous aucune circonstance.
-6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueurs pour chaque match. Si des équipes ne peuvent pas fournir trois joueurs pour un match, l'équipe sera considérée comme ayant fait forfait.
+6. Les capitaines sont responsables de la disponibilité de leurs équipes. Les équipes sont assez grande pour permettre à chaque équipe d'avoir au moins trois joueurs pour chaque match. Si des équipes ne peuvent pas fournir trois joueurs pour un match, l'équipe sera considérée comme ayant fait forfait sur ce match.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
