@@ -223,7 +223,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 2. Le mécanisme de score utilisé est le Score V2.
 
 3. Les beatmaps pour chaque round seront annoncées par le sélecteur des maps en avance le dimanche avant que les matchs commencent. Seules ces maps seront utilisées pendant leurs matchs respectifs.
-   - Le mappool de la phase de groupe sera annoncée après le tirage au sort du tableau.
+   - La mappool de la phase de groupe sera annoncée après le tirage au sort du tableau.
    - Une map sera dite tiebreaker. Elle sera jouée uniquement en cas d'égalité.
 
 4. Les dates et horaires des matchs seront fixés par les organisateurs du tournoi (voir plus bas).
@@ -269,7 +269,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - Pour être accepté sur la liste, vous devez vous assurer que votre rang global osu!mania est sous les 5000.
    - Pour être accepté sur la liste, vous ne devez pas avoir enfreint les [règles de la communauté osu!](/wiki/Rules) dans les 12 derniers mois.
 
-3. Touts les équipes formées avec succès seront publiées après la phase d'inscription.
+3. Toutes les équipes formées avec succès seront publiées après la phase d'inscription.
 4. Seules les 32 équipes potentiellement plus fortes participeront. La force potentielle d'une équipe est déterminée par les statistiques en ligne de tous les candidats valides.
    - Si le nombre de pays enregistrés est sous 32, ce nombre peut être réduit à 24, 20 ou 16. Le but étant de pouvoir laisser le plus de pays que possible participer !
 
@@ -282,11 +282,11 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 2. Toutes les équipes de chaque groupe se rencontreront.
 3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
-   - Plus de matchs gagnées.
+   - Le plus de matchs gagnés.
    - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
    - Le plus de maps gagnées.
    - A un plus grand `∑{(différence totale de score) / (score maximum)}`.
-   - Vainqueur du la revanche.
+   - Vainqueur de la revanche.
 
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
    -  Cela peut changer avec la configuration des phases de poule.
@@ -304,20 +304,20 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 **Conditions de victoire :**
    - Dans les phases de poule, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
-   - Dans les huitièmes et quarts de fianle, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
+   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
    - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 9 maps)
    - Pour les finales : semaine 2, vous devez remporter 7 beatmaps pour gagner un match. (meilleurs sur 13 maps)
 
 ### Instructions du match
 
 1. Un arbitre créera une salle multijoueur 15 minutes en avance. Les joueurs doivent se réunir pendant cette période.
-   - Les paramètres de la salle sont osu!mania, Versus Équipe., condition de victoire : 'ScoreV2'. Le nom de la salle doit être "MWC 4K 2017: (TeamBleue) vs (TeamRouge)".
+   - Les paramètres de la salle sont osu!mania, Versus Équipe, condition de victoire : « ScoreV2 ». Le nom de la salle doit être "MWC 4K 2017: (ÉquipeBleue) vs (ÉquipeRouge)".
    - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 
 2. Les joueuers sont libres de sélectionner deux beatmaps. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront pas être choisies par aucune équipe pendant l'intégralité du match.  
 4. La sélection des beatmaps sera alternée entre chaque capitaine qui choisira une beatmap de la liste des maps disponibles.
-5. Chaque capitaine dit utiliser « !roll » une fois dans #multiplayer.
+5. Chaque capitaine doit utiliser « !roll » une fois dans #multiplayer.
    - Le gagnant du !roll commence par choisir la première beatmap du match.
    - Le perdant du !roll banni une beatmap, suivi par le gagnant du !roll.
 
@@ -328,13 +328,13 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Instructions pour les mappools
 
-1. Il y aura un mappool pour les phases de poules, les huitièmes de finale, les quarts de finale, les demi-finales et les finales.
-   - Les semaines des finales 1 et 2 utilisent le même mappool.
+1. Il y aura une mappool pour les phases de poules, les huitièmes de finale, les quarts de finale, les demi-finales et les finales.
+   - Les semaines des finales 1 et 2 utilisent la même mappool.
 
 2. La taille de chaque mappool varie suivant la phase actuelle.
    - La mappool de la la phase de poule a 13 beatmaps au total.
    - Les mappools des huitièmes de finale et des quarts de finale contiennent 14 beatmaps au total.
-   - Le mappool des demi-finales est constitué de 15 maps au total.
+   - La mappool des demi-finales est constitué de 15 maps au total.
    - La mappool des finales contient 16 maps au total.
 
 3. Chaque mappool a un tiebreaker.
