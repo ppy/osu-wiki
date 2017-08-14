@@ -861,7 +861,7 @@ Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assist
 
 Despite how complex this may sound, it's actually very easy to fix.
 
-First off, [download the package containing the osu!go default files](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) and save it somewhere on your computer.
+First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
 
 #### Formatting the osu!go under Windows
 
@@ -891,7 +891,7 @@ Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/
 
 **You're almost done!**
 
-Unzip the archive we asked you to download earlier (goodies.zip) into the _osu!go_ drive and you're done!
+Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
 
 ##### None of this worked!
 
