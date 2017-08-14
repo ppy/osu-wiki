@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!idol 2017 Auditions start!"
-date: 2017-08-11 08:30:00 +0000
+title: "osu!idol 2017 Auditions Now Open"
+date: 2017-08-14 03:50:00 +0000
 ---
 
 Do you like singing? How about taking part in a singing competition? Show your talent to the osu!world and become this year's osu!idol!
 
-![](/wiki/shared/news/2017-08-11-osu-idol-2017-auditions-start/banner.jpg)
+![](/wiki/shared/news/2017-08-14-osu-idol-2017-auditions-now-open/banner.jpg)
 
 ### What is this all about?
 
