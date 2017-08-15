@@ -34,7 +34,7 @@ Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateina
 
 ### Beispiel 1
 
-Man hat die Datei (Sagen wir mal Soft clap) **soft-hitclap**.mp3 genannt.
+Man hat die Datei (Sagen wir mal Soft clap) **soft-hitclap**.wav genannt.
 
 Mehrere Hitsound mit den selben Namen
 -------------------------------------
@@ -43,7 +43,7 @@ Wenn mehr Abwechslung gebraucht oder mehr Optionen für Clap und so weiter benö
 
 ### Beispiel 2
 
-Wie **normal-hitclap2**.mp3 oder wie **soft-hitfinish3**.mp3
+Wie **normal-hitclap2**.wav oder wie **soft-hitfinish3**.wav
 
 Man sollte nicht vergessen, dass im *Timing Setup* der Hitsound auf Custom mit der jeweiligen Nummer gestellt werden muss.
 

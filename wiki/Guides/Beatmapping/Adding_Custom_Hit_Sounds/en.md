@@ -29,7 +29,7 @@ You then decide if you want it to be the normal hit, clap, whistle or finish.
 
 ### Example 1
 
-So then you name the file (let's say the Soft clap) `soft-hitclap.mp3`.
+So then you name the file (let's say the Soft clap) `soft-hitclap.wav`.
 
 Multiple hit sounds with the same name
 ---------------------------------------
@@ -38,7 +38,7 @@ If you want more variety and need more options for clap and all, you just add a 
 
 ### Example 2
 
-Like `normal-hitclap2.mp3` or like `soft-hitfinish3.mp3`
+Like `normal-hitclap2.wav` or like `soft-hitfinish3.wav`
 
 Don't forget to go to the timing setup and change the hit sound choice to custom, and to the specific number
 
