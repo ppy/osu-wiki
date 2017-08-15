@@ -7,7 +7,7 @@ After an exciting five weeks of matches in which 768 initial contestants were na
 
 ![](/wiki/shared/2017-08-17-happystick-summer-tour-concludes/banner.jpg)
 
-As the dust settled on the Winners and Losers Finals of the double-elimination tournament, only one of the 26 Grand Finalists was a repeat from the Spring Tour, leaving us in the thrilling position of witnessing all-new champions across the board. And thrilled we were, with seven of the 13 matches going to a bracket reset as the players fighting their way from the Losers Finals sought to show that they deserved to be there just as much as those who hadn’t dropped a match and advanced from the Winners Brackets. 
+As the dust settled on the Winners and Losers Finals of the double-elimination tournament, only one of the 26 Grand Finalists was a repeat from the [Spring Tour](http://i.imgur.com/ctsMLfW.png), leaving us in the thrilling position of witnessing all-new champions across the board. And thrilled we were, with seven of the 13 matches going to a bracket reset as the players fighting their way from the Losers Finals sought to show that they deserved to be there just as much as those who hadn’t dropped a match and advanced from the Winners Brackets. 
 
 Would the favorites find victory, or would the underdogs claw their way through the grueling task of winning back to back best of 11-map series to find glory? 
 
@@ -77,7 +77,7 @@ Congratulations to all 13 victors in the HappyStick Summer Tour who will receive
 
 Congratulations as well to all the Grand Finalists who will also receive prize money to recognize their impressive performance, and to all the third and fourth place finishers who will receive prize money and osu!supporter rewards, respectively.
 
-If you're interested in more information about the tournament, you can find it [here](https://docs.google.com/document/d/1f2FUWtksvAd95y56CIu7cCyleg0nqeWeva7WB_Y1Wq4/pub). The Finals mappools, crafted with care by our amazing mappooling team, are available [here](https://docs.google.com/spreadsheets/d/1DDv3RRV7xkxC9p6fXABtk7dlZZHWGf_4hPpOr7XHSSA/pubhtml), and thanks to the tireless work of the development team you can find public data such as lobby information and mappool statistics at [HappyStickTour.com](http://happysticktour.com/public/). 
+If you're interested in more information about the tournament, you can find it [here](https://docs.google.com/document/d/1f2FUWtksvAd95y56CIu7cCyleg0nqeWeva7WB_Y1Wq4/pub). The Finals mappools, crafted with care by a fantastic mappooling team, are available [here](https://docs.google.com/spreadsheets/d/1DDv3RRV7xkxC9p6fXABtk7dlZZHWGf_4hPpOr7XHSSA/pubhtml), and thanks to the tireless work of the website developer you can find public data such as lobby information and mappool statistics at [HappyStickTour.com](http://happysticktour.com/public/). 
 
 Finally, thank you: first, to all the participants, who played their hearts out on a huge stage for our entertainment. Second, to the incredible staff - referees, mappoolers, admins, and everyone else who played a role - for their hard work in making sure the tournament ran smoothly. And last but not least, a massive thank-you to all of the viewers who tuned in weekly to watch the matches, support their favorite players, and to make the HappyStick Summer Tour an incredible experience for all involved.
 
