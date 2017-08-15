@@ -6,7 +6,7 @@ date: 2017-08-15 10:00:00 +0000
 
 The roast is brewing and it's time to chat! Welcome to the osu! Coffee Hour, the all-new podcast that brings the community together. Join HappyStick and peppy as they sit down and find out what's going on, where we're headed, and what everybody thinks about it all, this *Friday the 18th of August* at 11PM UTC on [osulive](https://twitch.tv/osulive)!
 
-[![](/wiki/shared/news/2017-08-15-introducing-the-osu-coffee-hour/banner.jpg)](https://twitch.tv/osulive)
+[![](/wiki/shared/news/2017-08-15-introducing-the-osu-coffee-hour/header.jpg)](https://twitch.tv/osulive)
 
 ## Introducing the osu! Coffee Hour
 
