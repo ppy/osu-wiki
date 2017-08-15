@@ -7,7 +7,7 @@ Közösségi Szabályok
 ---------------
 
 1.  **Minden játékosnak csupán *EGY* felhasználói fiókja lehet.** Ez a fiók csak te vagy. Ez a fiók senki más - nem a testvéred, az édesanyád, a nővéred, a barátod - ez TE vagy. Ne oszd meg a fiókodat senkivel.
-2.  **Játssz tisztán.** Bármiféle segédprogram használata, ami bármi előnyben részesít másokkal szemben, nem elfogadott. Ebbe beletartozik például: makroprogramok, célzást segítő programok, időkeret módosítók és így tovább. Ha egy program segítséget nyújt a játékban, amit egyébként egyedül kéne végezned, az nem szabályos.
+2.  **Játssz tisztán.** Bármiféle segédprogram használata, ami bármi előnyt biztosít másokkal szemben, nem elfogadott. Ebbe beletartozik például: makroprogramok, célzást segítő programok, időkeret módosítók és így tovább. Ha egy program azt csinálja, amit egyébként neked kellene, az nem szabályos.
 3.  **Legyél rendes a másikhoz.** Zaklatásnak, vagy bármi egyéb ellenségeskedésnek nincs helye az osu! közösségében. Azért vagyunk itt, hogy karikákat kattintsunk, dobokat üssünk, gyümölcsöket szedjünk, vagy akár tizennyolc gombot nyomjunk le egyszerre, nem azért, hogy gyökerek legyünk egymáshoz.
 4.  **Ne legyél seggfej.** Ha bármikor felmerül a kérdés a fejedben, hogy vajon megszeged-e ezt a szabályt, valószínűleg igen.
 5.  **Mi egy korhatár nélküli közösség vagyunk.** Ez azt jelenti, hogy 18+/felnőtt tartalom, mint például droghasználat, vagy bármiféle szexuális jellegű téma nem elfogadott. Ritka kivételek előfordulhatnak, ahol ez illő lehet, de általánosan beszélve, kerüljük ezeket.
