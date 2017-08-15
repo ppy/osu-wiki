@@ -4,13 +4,13 @@ title: "osu!mania 4K World Cup - Group Stage Recap"
 date: 2017-08-15 14:37:30 +0000
 ---
 
-Hi everyone, mangomizer here! Summer may be ending, but the excitement continues! I’m here today of course, to catch up on the latest events regarding the hugely anticipated osu!mania 4K World Cup!
+Summer may be ending, but the excitement continues! It's time to catch up on the latest events regarding the hugely anticipated osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
 This past weekend saw the conclusion of the Group Stage, where we had 184 talented players representing 32 countries squaring off against each other to qualify for the Round of 16. If you’ve missed the weekend matches, you can always rewatch the VODs [here](https://www.twitch.tv/osulive/videos/all), or settle for the weekly recap below! 
 
-This year’s Group Stage saw a grand total of 46 matches packed tightly into the span of 2 days. Courtesy of our beloved mappool selectors, we were treated to a truly diverse mappool featuring artists from all around the world. As expected, the mappool difficulty has increased substantially from last year, though this has not discouraged players in the slightest. 
+Widely regarded as the busiest weekend in any tournament, this year's Group Stage saw a grand total of 46 matches packed tightly into the span of 2 days. Courtesy of our beloved mappool selectors, we were treated to a truly diverse mappool featuring artists from all around the world. As expected, the mappool difficulty has increased substantially from last year, though this has not discouraged players in the slightest. 
 
 [Tim & Eric - Sports!](https://osu.ppy.sh/b/685357&m=3) was the most popular pick, having been played an astonishing 30 times! On the opposite side of the spectrum, [stereoberry - evangelize (blurry images)](https://osu.ppy.sh/b/1222765&m=3) was viewed in a more cautious light, having been banned 21 times. Finally, [Takemura Kiriko - Ninja Re Bang Bang](https://osu.ppy.sh/b/816807&m=3) received the most attention overall, having been played or banned in a total of 41 matches! 
 
@@ -38,6 +38,6 @@ Props to the United Kingdom for being the only team to leave the Group Stage uns
 
 This year’s installment of the MWC 4K promises to be an exciting one indeed. Every team is looking eager to take the trophy home, along with the glorious title of osu!mania Champion! Be sure to drop by the [osu!live Twitch Channel](https://www.twitch.tv/osulive) next Sunday to show your support for all the teams participating! 
 
--mango
+-mangomizer
 
 
