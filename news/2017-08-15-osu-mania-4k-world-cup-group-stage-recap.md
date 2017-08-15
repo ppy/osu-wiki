@@ -1,3 +1,9 @@
+---
+layout: post
+title: "osu!mania 4K World Cup - Group Stage Recap"
+date: 2017-08-15 14:37:30 +0000
+---
+
 Hi everyone, mangomizer here! Summer may be ending, but the excitement continues! I’m here today of course, to catch up on the latest events regarding the hugely anticipated osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
