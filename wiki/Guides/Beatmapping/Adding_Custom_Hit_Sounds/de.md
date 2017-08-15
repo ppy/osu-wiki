@@ -26,15 +26,15 @@ Der Song Ordner kann mit folgenen Schritten gefunden werden:
 Die Wahl welche Art von Ton der Hitsound sein soll
 ----------------------------------
 
-Die Namensgebung ist für **finish**, **whistle**, **clap** und **normal hit** egal.
+Die Namensgebung ist für "finish", "whistle", "clap" und "normal hit" egal.
 
-Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateiname mit **soft**, **normal** oder **drum** beginnen.
+Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateiname mit "soft", "normal" oder "drum" beginnen.
 
 ![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
 
 ### Beispiel 1
 
-Man hat die Datei (Sagen wir mal Soft clap) **soft-hitclap**.wav genannt.
+Man hat die Datei (Sagen wir mal Soft clap) `soft-hitclap.wav` genannt.
 
 Mehrere Hitsound mit den selben Namen
 -------------------------------------
@@ -43,7 +43,7 @@ Wenn mehr Abwechslung gebraucht oder mehr Optionen für Clap und so weiter benö
 
 ### Beispiel 2
 
-Wie **normal-hitclap2**.wav oder wie **soft-hitfinish3**.wav
+Wie `normal-hitclap2.wav` oder wie `soft-hitfinish3.wav`
 
 Man sollte nicht vergessen, dass im *Timing Setup* der Hitsound auf Custom mit der jeweiligen Nummer gestellt werden muss.
 
