@@ -7,7 +7,7 @@ After an exciting five weeks of matches in which 768 initial contestants were na
 
 ![](/wiki/shared/2017-08-17-happystick-summer-tour-concludes/banner.jpg)
 
-As the dust settled on the Winners and Losers Finals of the double-elimination tournament, only one of the 26 Grand Finalists was a repeat from the Spring Tour, leaving us in the thrilling position of witnessing all-new champions across the board. And thrilled we were, as seven of the 13 matches would go to a bracket reset as the players fighting their way from the Losers Finals sought to show that they deserved to be there just as much as those who hadn’t dropped a match and advanced from the Winners Brackets. 
+As the dust settled on the Winners and Losers Finals of the double-elimination tournament, only one of the 26 Grand Finalists was a repeat from the Spring Tour, leaving us in the thrilling position of witnessing all-new champions across the board. And thrilled we were, with seven of the 13 matches going to a bracket reset as the players fighting their way from the Losers Finals sought to show that they deserved to be there just as much as those who hadn’t dropped a match and advanced from the Winners Brackets. 
 
 Would the favorites find victory, or would the underdogs claw their way through the grueling task of winning back to back best of 11-map series to find glory? 
 
