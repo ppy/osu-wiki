@@ -30,4 +30,4 @@ Together, they'll be going over the current state of the community and the issue
 
 Have questions that tie into the theme? A question aimed at peppy himself? Ideas for future themes and guests? Make sure you let us know below!
 
-**We'll see you this coming Friday the 18th of August at [11PM UTC](https://www.timeanddate.com/worldclock/converter.html) over at [osulive](https://www.twitch.tv/osulive) for the first episode!**
+**We'll see you this coming Friday the 18th of August at [11PM UTC](http://itsalmo.st/#osucoffeehourtime_5pm14) over at [osulive](https://www.twitch.tv/osulive) for the first episode!**
