@@ -22,6 +22,8 @@ Not missing a beat, Sunday also saw its fair share of highlights. Perhaps the mo
 
 Sweden certainly proved that they are a force to be reckoned with. However, that’s about as far as they got. In the end, South Korea simply proved too consistent, and after several strategic picks on their behalf, they won the match 2-4. Regardless, both teams will be qualifying for the Round of 16, so be sure to keep a watchful eye - perhaps they will meet each other again in a fateful encounter?
 
+Wrapping things up, below are the results of what went down in the Group Stage. For more detail, feel free to check out the [statistics sheet](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)!   
+
 ![](/wiki/shared/news/2017-08-15-osu-mania-4k-world-cup-group-stage-recap/MWC_4K_2017_Groupstage_results.PNG)
 
 After such a fiercely exciting weekend, only 16 teams now remain. However, things will only get more challenging from here, as they will have to fight against each other over an increasingly difficult mappool.
