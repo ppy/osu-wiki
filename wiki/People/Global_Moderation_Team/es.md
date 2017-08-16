@@ -21,8 +21,8 @@ Miembros del equipo
 
 **Ten en cuenta: Todos los miembros hablan inglés a menos que se diga lo contrario.** - [Team Page](http://osu.ppy.sh/g/4)
 
-| Nombre | Idioma | Enfoque (Area of Focus) |
-| ------ | ------ | ----------------------- |
+| Nombre | Idioma | Enfoque |
+| ------ | ------ | ------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italiano | |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Húngaro | Moderación del chat |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chino | Moderación del chat |
