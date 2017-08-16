@@ -12,7 +12,7 @@ Even though several top players have travelled to China this week, things are st
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b666KhdtrMU" frameborder="0" allowfullscreen></iframe></br>
 
-An unfamiliar face to newcomers, but definitely a player that has not rusted a bit! [Niko](https://osu.ppy.sh/u/175141) has come back strong with an amazing 98.59% S rank on [Tatsh - IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/b/252238), taking the 7th only no mod S on this map, with an accuracy that even beat out [rrtyui](https://osu.ppy.sh/u/352328} himself! What a comeback from this amazing player!
+An unfamiliar face to newcomers, but definitely a player that has not rusted a bit! [Niko](https://osu.ppy.sh/u/175141) has come back strong with an amazing 98.59% S rank on [Tatsh - IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/b/252238), taking the 7th only no mod S on this map, with an accuracy that even beat out [rrtyui](https://osu.ppy.sh/u/352328) himself! What a comeback from this amazing player!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/85Z1LMFMUK8" frameborder="0" allowfullscreen></iframe></br>
 
