@@ -38,6 +38,9 @@ Don’t underestimate this play! [ThePooN](https://osu.ppy.sh/u/718454) has just
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
+[inteliser](https://osu.ppy.sh/u/1824775) takes on [Pope Gadget](https://osu.ppy.sh/u/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/s/478161).
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zQR8-BtcWGY" frameborder="0" allowfullscreen></iframe></br>
 
 
 
