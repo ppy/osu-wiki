@@ -6,6 +6,8 @@ date: 2017-08-11 15:00:00 +0200
 
 Even though several top players have travelled to China this week, things are still taking shape back in the servers! Another player has joined the 700pp club, a special SS set on a difficult osu!mania map, and much more in this edition of Scorewatch!
 
+![](/wiki/shared/news/2017-08-11-scorewatch-august-week-1/banner.jpg)
+
 [_RyuK](https://osu.ppy.sh/u/6304246) has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/b/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don’t think I need to write much more for this score. Have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b666KhdtrMU" frameborder="0" allowfullscreen></iframe></br>
