@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "HappyStick Summer Tour 2017 - Results"
-date: 2017-08-17 17:00:00 +0000
+date: 2017-08-16 17:00:00 +0000
 ---
 After an exciting five weeks of matches in which 768 initial contestants were narrowed down to 26, the HappyStick Summer Tour reached its riveting conclusion. Over the course of the tournament, players from 56 countries across 13 rank brackets ranging from the 250 - 500 to 100,000+ tiers fought their way through 537 matches until only the Grand Finalists remained. Those select few fought it out mano a mano on the grand stage of the finals where they clashed for the crown of Summer Tour Champion. Read on for results and VODs of our featured matches!
 
-![](/wiki/shared/2017-08-17-happystick-summer-tour-concludes/banner.jpg)
+![](/wiki/shared/news/2017-08-16-happystick-summer-tour-concludes/banner.jpg)
 
 As the dust settled on the Winners and Losers Finals of the double-elimination tournament, only one of the 26 Grand Finalists was a repeat from the [Spring Tour](http://i.imgur.com/vf8JnF6.png), leaving us in the thrilling position of witnessing all-new champions across the board. And thrilled we were, with seven of the 13 matches going to a bracket reset as the players fighting their way from the Losers Finals sought to show that they deserved to be there just as much as those who hadn’t dropped a match and advanced from the Winners Brackets. 
 
@@ -71,7 +71,7 @@ The reset match would turn out to be all Dreamtwolf all the time as he put on an
 
 For full results including all ranking tiers, check out the tournament's brackets [here](http://challonge.com/users/happystick).  You can also check out a podium display of the winners from each bracket [here](http://i.imgur.com/3mqZcvM.png).
 
-![](/wiki/shared/2017-08-17-happystick-summer-tour-concludes/results.jpg)
+![](/wiki/shared/news/2017-08-16-happystick-summer-tour-concludes/results.jpg)
 
 Congratulations to all 13 victors in the HappyStick Summer Tour who will receive their share of the prize pool and a unique profile badge in addition to being able to lay claim to the title of HappyStick Tour Champion until the next Tour event!
 
