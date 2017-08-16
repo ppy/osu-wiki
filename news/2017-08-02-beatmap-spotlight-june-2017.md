@@ -33,7 +33,7 @@ Absolute mastery of a style at its finest. **[GoldenWolf](https://osu.ppy.sh/u/1
 
 After No Poi, **[Asahina Momoko](https://osu.ppy.sh/u/3650145)** returns again in 2017 to bring us more Chino - and good mapping. Asahina Momoko never sticks to the 'mapping-meta', and as such, all his maps are always different and interesting.
 
-With his particular style, he's managed to capture this song perfectly with strong innovative spacing usage to create different intensities. His rhythm usage is top notch, being consistent enough to maintain playability, while having ample variation so it does not bore out the player with its length. You won't regret giving this one a good play through!
+With his particular style, he's managed to capture this song perfectly with innovative spacing usage to create varying intensities. His rhythm usage is top notch, being consistent enough to maintain playability, while having ample variation so it does not bore out the player with its length. You won't regret giving this one a good play through!
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/dorchadas.jpg)](https://osu.ppy.sh/s/580215)
 
@@ -57,7 +57,7 @@ It's not too uncommon for one mapper to top the charts twice. It's happened seve
 
 This seven minute long map features all kinds of things, from typical 1/4-snapped sections (the common snapping in Oni difficulties), to more tricky combinations with 1/6 and 1/8 snaps, mixed together with a high amount of slider velocity changes to highlight the varying power of each of the song's sections. Another noteworthy aspect of this map is the usage of a pattern, that has become less common in recent maps - the long monocolor 1/6. All around a worthy number one slot for this month's charts.
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/teriquma.jpg)](https://osu.ppy.sh/s/615774)
+[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/teriqma.jpg)](https://osu.ppy.sh/s/615774)
 
 **[Charlotte](https://osu.ppy.sh/u/3686901)** sure has been popular in the osu!taiko spotlights these last months, and rightfully so! Once again providing the ranked section with a great mapset, featuring as always a flawless structure and a perfect 1/6 snapping usage in the Inner Oni, it deserves the attention of osu!taiko players this month!
 
@@ -69,7 +69,7 @@ He might be a rookie, but **[gaston_2199](https://osu.ppy.sh/u/5938161)** mapset
 
 Following the immense popularity of the song "We Are Number One", this Dunderpartrullen remix offers an even catchier rhythm in addition to the already memorable tune. **[Midnaait](https://osu.ppy.sh/u/1506011)**'s mapset capitalizes on this extremely well, offering a wide selection of fun difficulties to play, with contributions from guest mappers Lno and Kantan.
 
-In his flagship Number Oni difficulty, Midnaait shows off the most diverse range of technical snappings. Particularly impressive to note was his stylistic placement of 1/8th doublets throughout - this complemented well with the quirky nature of the song, and gave it an extra "kick" to make it all the more enjoyable.
+In his flagship Number Oni difficulty, Midnaait shows off the most diverse range of technical snappings. Minute slider velocity changes are used in conjuction with this to keep everything flowing smoothly. Particularly impressive to note was his stylistic placement of 1/8th doublets throughout - this complemented well with the quirky nature of the song, and gave it an extra "kick" to make the map all the more enjoyable.
 
 ## osu!catch
 
