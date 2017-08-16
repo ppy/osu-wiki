@@ -29,7 +29,7 @@ Você então decide se quer que seja o normal hit, clap, whistle ou finish.
 
 ### Exemplo 1
 
-Então, você nomeia o arquivo (para, diagmos, Soft clap) `soft-hitclap.mp3`.
+Então, você nomeia o arquivo (para, diagmos, Soft clap) `soft-hitclap.wav`.
 
 Vários hitsounds com o mesmo nome
 ---------------------------------------
@@ -38,7 +38,7 @@ Se você quiser mais variedade e precisa de mais opções para aplausos e tudo m
 
 ### Exemplo 2
 
-Como `normal-hitclap2.mp3` ou `soft-hitfinish3.mp3`
+Como `normal-hitclap2.wav` ou `soft-hitfinish3.wav`
 
 Não se esqueça de ir para a configuração de tempo e alterar a escolha do hitsound para o personalizado, e para o número específico.
 
