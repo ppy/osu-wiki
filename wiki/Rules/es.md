@@ -39,7 +39,7 @@ Reglas del Foro
 Reglas de Envio de Beatmaps (BSS)
 ---------------------------------
 
-Estas reglas se aplican estrictamente a los Beatmaps enviados a través del juego mediante el [Beatmap Submission System](/wiki/Beatmap_Submission_System), esos Temas/Discusiones son creados por el cliente de osu! cuando se envía a través del [editor] (/wiki/editor).
+Estas reglas se aplican estrictamente a los Beatmaps enviados a través del juego mediante el [Beatmap Submission System](/wiki/Beatmap_Submission_System), esos Temas/Discusiones son creados por el cliente de osu! cuando se envía a través del [editor](/wiki/editor).
 Existe un conjunto de reglas más detalladas para la creación de Beatmaps conocido como [Ranking Criteria](/wiki/Ranking_Criteria).
 1. **Asegúrate de tener permiso para usar cualquier archivo que contenga tu carpeta/beatmap.** Esto incluye Canciones, Videos, Hitsounds, Gráficos y cualquier otro contenido que no sea propio del usuario. Si no estás seguro de dónde encontrar el contenido que es libre de usar, tenemos una biblioteca (en expansión) de pistas disponibles en [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) todo es 100% licenciado para usar en _osu!_.
 2.  **Manténgase en el tema principal (mods y ayudas) en la discusión del Beatmap.** Estos temas/discusiones son sobre el Beatmap en cuestión y nada mas. Si tienes un problema con algo que no es del Beatmap, publícalo en el foro/subforo apropiado.
