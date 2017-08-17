@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scorewatch: August Week 1 & 2"
+title: "Scorewatch: August Weeks 1 & 2"
 date: 2017-08-17 07:30:00 +0000
 ---
 
