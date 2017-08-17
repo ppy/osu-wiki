@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Scorewatch: August Week 1 & 2"
-date: 2017-08-11 15:00:00 +0200
+date: 2017-08-17 07:30:00 +0000
 ---
 
-Even though several top players have travelled to China last week, things are still taking shape back in the servers! Another player has joined the 700pp club, a special SS set on a difficult osu!mania map, and much more in this edition of Scorewatch!
+Two weeks in one! Things are getting settled after many of osu!'s biggest names return from the YACA meetup in China, but there's still sweet scores to be had. Another player has joined the 700pp club, a special SS set on a difficult osu!mania map, and much more in this special fortnightly edition of Scorewatch!
 
-![](/wiki/shared/news/2017-08-11-scorewatch-august-week-1/banner.jpg)
+![](/wiki/shared/news/2017-08-17-scorewatch-august-weeks-1-and-2/banner.jpg)
 
 [_RyuK](https://osu.ppy.sh/u/6304246) has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/b/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don’t think I need to write much more for this score. Have a look!
 
@@ -32,10 +32,12 @@ An unfamiliar face to newcomers, but definitely a player that has not rusted a b
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QJ6GyjY5qrY" frameborder="0" allowfullscreen></iframe></br>
 
-ARCHIVE BONUS
+BLAST FROM THE PAST
 -----
 
-As osu! progresses into the 10th year of development, we look back at some scores set in previous years that we might have forgotten or missed, starting with [WubWoofWolf](https://osu.ppy.sh/u/39828) as he tears open [Bowling for Soup - 1985](https://osu.ppy.sh/b/19467) with a 96.46% DT FC! We may not be able to keep up with what [jehlp](https://osu.ppy.sh/u/7568542) is posting at the moment, but do support what he is doing on the [osugame reddit](https://www.reddit.com/r/osugame/comments/6u2ufk/osuarchive_1_wubwoofwolf_bowling_for_soup_1985/)!
+As osu! progresses into the 10th year of development, we look back at some scores set in previous years that we might have forgotten or missed, starting with [WubWoofWolf](https://osu.ppy.sh/u/39828) as he tears open [Bowling for Soup - 1985](https://osu.ppy.sh/b/19467) with a 96.46% DT FC! 
+
+We may not be able to keep up with what [jehlp](https://osu.ppy.sh/u/7568542) is posting at the moment, but do support what he is doing on the [osugame reddit](https://www.reddit.com/r/osugame/comments/6u2ufk/osuarchive_1_wubwoofwolf_bowling_for_soup_1985/)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VT4Q5haXSOE" frameborder="0" allowfullscreen></iframe></br>
 
@@ -54,7 +56,6 @@ SCORESHOW WITH ZSEIKIMATSU
 [inteliser](https://osu.ppy.sh/u/1824775) takes on [Pope Gadget](https://osu.ppy.sh/u/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/s/478161).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zQR8-BtcWGY" frameborder="0" allowfullscreen></iframe></br>
-
 
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
