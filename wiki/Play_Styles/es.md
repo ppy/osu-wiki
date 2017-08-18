@@ -23,9 +23,9 @@ En esta página puedes conocer las diferentes formas en las que se puede jugar e
 
 ### ![Mouse][Mouse icon] Solo con el ratón
 
-Tiempo atrás, existía únicamente la opción de jugar sólo con el ratón, hasta que se incluyeron nuevas formas de jugar.
+Tiempo atrás, únicamente existía la opción de jugar sólo con el ratón, hasta que se incluyeron nuevas formas de jugar.
 
-Este estilo de juego consiste en utilizar el ratón no solo para mover el cursor, sino también utilizar los botones del ratón para hacer clic en los hitcircles, seguir los sliders y rotar los spinners.
+Este estilo de juego consiste en utilizar el ratón no solo para mover el cursor, sino también para hacer clic en los hitcircles, seguir los sliders y rotar los spinners.
 Jugar solo con el ratón es considerado uno de los estilos más complicados y los jugadores que llegan a lo más alto con este estilo son muy respetados por la comunidad.
 
 En pantalla, los clics con el botón izquierdo y derecho se muestran como 'M1' y 'M2' respectivamente.
