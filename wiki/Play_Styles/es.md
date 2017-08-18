@@ -40,7 +40,7 @@ Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el
 
 ### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Con teclado y ratón
 
-El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el raton y utilizar la otra mano para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
+El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el ratón y utilizar la otra mano para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
 
 Algunos jugadores usan el teclado solo cuando tienen que hacer un _streaming_, un patrón de notas muy rápidas, y hacen el resto del beatmap haciendo clic con el ratón.
 
@@ -54,7 +54,7 @@ _osu!tablet_
 
 Un estilo de juego para jugadores con una tableta gráfica o digitalizadora.
 
-Los jugadores que juegan solo con tableta utilizan el lápiz de la tableta para mover el cursor y _hacen clic_ pulsando con el lapiz en la superficie de la tableta.
+Los jugadores que juegan solo con tableta utilizan el lápiz de la tableta para mover el cursor y _hacen clic_ pulsando con el lápiz en la superficie de la tableta.
 
 Todas las pulsaciones de la tableta se muestran en pantalla como `M1`.
 
@@ -64,7 +64,7 @@ El estilo de juego más popular para jugadores que usan una tableta gráfica.
 
 Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el cursor y _hacer clic_ utilizando o bien las teclas `Z` y `X` del teclado (que pueden ser cambiadas en las opciones) o utilizando los botones que vienen incorporados en algunas tabletas.
 
-Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lapiz sobre la superficie de la tableta para el resto del beatmap.
+Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lápiz sobre la superficie de la tableta para el resto del beatmap.
 
 ### ![Touchscreen][Touchscreen icon] Con una pantalla táctil
 
@@ -78,7 +78,7 @@ Todas las pulsaciones sobre la pantalla se muestran como `M1`.
 ### ![Touchscreen][Touchscreen icon] ![Keyboard][Keyboard icon] Con pantalla táctil y teclado
 
 Un jugador que juegue con pantalla táctil puede utilizar también un teclado, normalmente para realizar patrones de notas muy rápidas.
-Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviendose un estilo de juego muy similar al de tableta y teclado.
+Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndose un estilo de juego muy similar al de tableta y teclado.
 
 ### Otros estilos
 
@@ -104,7 +104,7 @@ Hay otras combinaciones, pero estas dos son las principales y cada una tiene sus
 El tambor de la saga de juegos [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin).
 Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano. 
 Se golpea el aro del tambor para las notas azules (Katsu o Kat) y el interior del tambor para las notas rojas (Don).
-La mayoría de los tambores pueden ser conectados via Bluetooth sin necesidad de un cable USB.
+La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad de un cable USB.
 
 ### Otros estilos
 
@@ -116,7 +116,7 @@ La mayoría de los tambores pueden ser conectados via Bluetooth sin necesidad de
 
 El estilo de juego por defecto y el más usado.
 
-Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `leftshift` para utilizar el _Dash_ y deslizar al catcher.
+Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `Leftshift` para utilizar el _Dash_ y deslizar al catcher.
 Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `D` en lugar de las flechas y la `Spacebar` para el _Dash_.
 
 En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de `LeftShift`
