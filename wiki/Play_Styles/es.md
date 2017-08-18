@@ -71,7 +71,7 @@ Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado p
 Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 
 Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
-Este estilo de juego puede parecerse a jugar a [osu!stream][osu!stream wikilink].
+Este estilo de juego puede parecerse a jugar a [osu!stream][/wiki/Game_Modes/External_Ports/osu!stream].
 
 En pantalla, todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
@@ -101,7 +101,7 @@ Hay otras combinaciones, pero estas dos son las principales y cada una tiene sus
 
 ### Tambor de Taiko
 
-El tambor de la saga de juegos [Taiko no Tatsujin]().
+El tambor de la saga de juegos [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin).
 Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano. 
 Se golpea el aro del tambor para las notas azules (Katsu o Kat) y el interior del tambor para las notas rojas (Don).
 La mayoría de los tambores pueden ser conectados via Bluetooth sin necesidad de un cable USB.
@@ -153,6 +153,6 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 
 ### Otros estilos
 
-- **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) y [Stepmania](https://wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
-- **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero)) o ([Drummania](https://wikipedia.org/wiki/Drum_Mania)). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
-- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad. 
+- **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
+- **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
+- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad. 
