@@ -1,4 +1,4 @@
-# Article Style Guide / News
+# News
 
 News articles exist on a slightly different system to the main osu!wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
