@@ -28,7 +28,7 @@ Tiempo atrás, únicamente existía la opción de jugar sólo con el ratón, has
 Este estilo de juego consiste en utilizar el ratón no solo para mover el cursor, sino también para hacer clic en los hitcircles, seguir los sliders y rotar los spinners.
 Jugar solo con el ratón es considerado uno de los estilos más complicados y los jugadores que llegan a lo más alto con este estilo son muy respetados por la comunidad.
 
-En pantalla, los clics con el botón izquierdo y derecho se muestran como 'M1' y 'M2' respectivamente.
+En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y `M2` respectivamente.
 
 ### ![Mouse][Mouse icon] ![Mouse][Mouse icon] Con dos ratones
 
@@ -40,11 +40,11 @@ Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el
 
 ### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Con teclado y ratón
 
-El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el raton y utilizar la otra mano libre para _hacer clic_ utilizando las teclas "Z" y "X" (pueden cambiarse en las opciones) del teclado.
+El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el raton y utilizar la otra mano libre para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
 
 Algunos jugadores usan el teclado solo cuando tienen que hacer un _streaming_, un patrón de notas muy rápidas, y hacen el resto del beatmap haciendo clic con el ratón.
 
-En pantalla, las pulsaciones del teclado se muestran como 'K1' y 'K2'.
+En pantalla, las pulsaciones del teclado se muestran como `K1` y `K2`.
 
 ### ![Tablet][Tablet icon] Solo con tableta gráfica
 
@@ -56,13 +56,13 @@ Un estilo de juego para jugadores con una tableta gráfica o digitalizadora.
 
 Los jugadores que juegan solo con tableta utilizan el lapiz de la tableta para mover el cursor y _hacen clic_ pulsando con el lapiz en la superficie de la tableta.
 
-Todas las pulsaciones de la tableta se muestran en pantalla como 'M1'.
+Todas las pulsaciones de la tableta se muestran en pantalla como `M1`.
 
 ### ![Tablet][Tablet icon] ![Keyboard][Keyboard icon] Con tableta gráfica y teclado
 
 El estilo de juego más popular para jugadores que usan una tableta gráfica.
 
-Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el cursor y _hacer clic_ utilizando o bien las teclas "Z" y "X" del teclado (que pueden ser cambiadas en las opciones) o utilizando los botones que vienen incorporados en algunas tabletas.
+Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el cursor y _hacer clic_ utilizando o bien las teclas `Z` y `X` del teclado (que pueden ser cambiadas en las opciones) o utilizando los botones que vienen incorporados en algunas tabletas.
 
 Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lapiz sobre la superficie de la tableta para el resto del beatmap.+
 
@@ -73,7 +73,7 @@ Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
 Este estilo de juego puede parecerse a jugar a [osu!stream][osu!stream wikilink].
 
-En pantalla, todas las pulsaciones sobre la pantalla se muestran como 'M1'.
+En pantalla, todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
 ### ![Touchscreen][Touchscreen icon] ![Keyboard][Keyboard icon] Con pantalla táctil y teclado
 
@@ -94,7 +94,7 @@ A no ser que el jugador ya domine de antemano el uso del Joystick, mover el curs
 
 Antaño, solo se podía jugar a osu!taiko con teclado, pero ahora hay varias opciones. 
 
-El jugador utiliza las teclas asignadas para tocar sobre el tambor, por defecto: 'X' y 'C' para tocar las notas rojas del centro del tambor, también conocidas como "Don"; y 'Z' y 'V' para tocar las notas azules del borde del tambor, también conocidas como "Katsu" o "Kat".
+El jugador utiliza las teclas asignadas para tocar sobre el tambor, por defecto: `X` y `C` para tocar las notas rojas del centro del tambor, también conocidas como "Don"; y `Z` y `V` para tocar las notas azules del borde del tambor, también conocidas como "Katsu" o "Kat".
 
 Hay dos estilos principales de juego en función de la asignación de teclas: KDDK (Azul-Rojo-Rojo-Azul) que es el estilo por defecto y DDKK/KKDD (RRAA/AARR).
 Hay otras combinaciones, pero estas dos son las principales y cada una tiene sus virtudes y sus defectos.
@@ -116,10 +116,10 @@ La mayoría de los tambores pueden ser conectados via Bluetooth sin necesidad de
 
 El estilo de juego por defecto y el más usado.
 
-Por defecto, los jugadores utilizan las flechas '<-' y '->' para mover al catcher y pulsan 'leftshift' para utilizar el _Dash_ y deslizar al catcher.
-Es posible cambiar las teclas en las opciones, siendo habitual el uso de 'A' y 'D' en lugar de las flechas y la 'Spacebar' para el _Dash_.
+Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `leftshift` para utilizar el _Dash_ y deslizar al catcher.
+Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `D` en lugar de las flechas y la `Spacebar` para el _Dash_.
 
-En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y 'D' para las pulsaciones de 'LeftShift'
+En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de 'LeftShift'
 
 #### ![Keyboard][Keyboard icon] ![Mouse][Mouse icon] Teclado y ratón
 
