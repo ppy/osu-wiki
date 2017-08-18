@@ -23,7 +23,7 @@ En esta página puedes conocer las diferentes formas en las que se puede jugar e
 
 ### ![Mouse][Mouse icon] Solo con el ratón
 
-Tiempo atrás, únicamente existía la opción de jugar sólo con el ratón, hasta que se incluyeron nuevas formas de jugar.
+Tiempo atrás, únicamente existía la opción de jugar solo con el ratón, hasta que se incluyeron nuevas formas de jugar.
 
 Este estilo de juego consiste en utilizar el ratón no solo para mover el cursor, sino también para hacer clic en los hitcircles, seguir los sliders y rotar los spinners.
 Jugar solo con el ratón es considerado uno de los estilos más complicados y los jugadores que llegan a lo más alto con este estilo son muy respetados por la comunidad.
@@ -36,11 +36,11 @@ Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para h
 
 Se consideraba un estilo de juego _ridículo_ hasta que ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](http://osu.ppy.sh/s/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
 
-Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el raton que van a usar para clicar.
+Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
 ### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Con teclado y ratón
 
-El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el raton y utilizar la otra mano libre para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
+El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el raton y utilizar la otra mano para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
 
 Algunos jugadores usan el teclado solo cuando tienen que hacer un _streaming_, un patrón de notas muy rápidas, y hacen el resto del beatmap haciendo clic con el ratón.
 
@@ -54,7 +54,7 @@ _osu!tablet_
 
 Un estilo de juego para jugadores con una tableta gráfica o digitalizadora.
 
-Los jugadores que juegan solo con tableta utilizan el lapiz de la tableta para mover el cursor y _hacen clic_ pulsando con el lapiz en la superficie de la tableta.
+Los jugadores que juegan solo con tableta utilizan el lápiz de la tableta para mover el cursor y _hacen clic_ pulsando con el lapiz en la superficie de la tableta.
 
 Todas las pulsaciones de la tableta se muestran en pantalla como `M1`.
 
@@ -64,7 +64,7 @@ El estilo de juego más popular para jugadores que usan una tableta gráfica.
 
 Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el cursor y _hacer clic_ utilizando o bien las teclas `Z` y `X` del teclado (que pueden ser cambiadas en las opciones) o utilizando los botones que vienen incorporados en algunas tabletas.
 
-Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lapiz sobre la superficie de la tableta para el resto del beatmap.+
+Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lapiz sobre la superficie de la tableta para el resto del beatmap.
 
 ### ![Touchscreen][Touchscreen icon] Con una pantalla táctil
 
@@ -73,7 +73,7 @@ Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
 Este estilo de juego puede parecerse a jugar a [osu!stream][/wiki/Game_Modes/External_Ports/osu!stream].
 
-En pantalla, todas las pulsaciones sobre la pantalla se muestran como `M1`.
+Todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
 ### ![Touchscreen][Touchscreen icon] ![Keyboard][Keyboard icon] Con pantalla táctil y teclado
 
@@ -119,7 +119,7 @@ El estilo de juego por defecto y el más usado.
 Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `leftshift` para utilizar el _Dash_ y deslizar al catcher.
 Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `D` en lugar de las flechas y la `Spacebar` para el _Dash_.
 
-En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de 'LeftShift'
+En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de `LeftShift`
 
 #### ![Keyboard][Keyboard icon] ![Mouse][Mouse icon] Teclado y ratón
 
