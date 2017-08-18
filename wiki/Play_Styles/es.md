@@ -71,7 +71,7 @@ Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado p
 Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 
 Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
-Este estilo de juego puede parecerse a jugar a [osu!stream][/wiki/Game_Modes/External_Ports/osu!stream].
+Este estilo de juego puede parecerse a jugar a [osu!stream](/wiki/Game_Modes/External_Ports/osu!stream).
 
 Todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
