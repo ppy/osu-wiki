@@ -137,7 +137,7 @@ Quienes se sientan cómodos con un mando de consola pueden utilizar las flechas 
 
 ## ![osu!mania][osu!mania icon link] osu!mania
 
-### ![Keyboard][Keyboard icon] Keyboard
+### ![Keyboard][Keyboard icon] Teclado
 
 [Guía externa para teclados mecánicos (en inglés)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
@@ -151,7 +151,7 @@ Puede ser utilizado para cualquier número de teclas, así que puede resultar mu
 
 El estilo de los veteranos en otros juegos de ritmo similares: se usa un controlador arcade en lugar de teclado.
 
-### Other styles
+### Otros estilos
 
 - **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) y [Stepmania](https://wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
 - **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero)) o ([Drummania](https://wikipedia.org/wiki/Drum_Mania)). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
