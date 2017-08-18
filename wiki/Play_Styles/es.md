@@ -116,10 +116,10 @@ La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad d
 
 El estilo de juego por defecto y el más usado.
 
-Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `Leftshift` para utilizar el _Dash_ y deslizar al catcher.
-Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `D` en lugar de las flechas y la `Spacebar` para el _Dash_.
+Por defecto, los jugadores utilizan las flechas `<-` y `->` para mover al catcher y pulsan `leftShift` para utilizar el _Dash_ y deslizar al catcher.
+Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `D` en lugar de las flechas y la `Spacebar`o `rightShift` para el _Dash_.
 
-En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de `LeftShift`
+En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de `leftShift`
 
 #### ![Keyboard][Keyboard icon] ![Mouse][Mouse icon] Teclado y ratón
 
