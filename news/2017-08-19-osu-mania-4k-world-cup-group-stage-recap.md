@@ -38,6 +38,6 @@ This year’s installment of the MWC 4K promises to be an exciting one indeed. E
 
 Don't forget, you can also show your additional love and support for the remaining teams by purchasing one of the many colorful user profile banners! These were painstakingly designed by [flyte](https://osu.ppy.sh/users/3103765) himself, and as an added bonus - the banner of the winning team will continue to stay long after the tournament is over. [Get your profile banners now today!](https://osu.ppy.sh/store/product/226)
 
--mangomizer
+–mangomizer
 
 
