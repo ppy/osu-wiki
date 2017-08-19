@@ -78,7 +78,7 @@
 
 Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing _osu!_ to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
 
-Shortcut keys to enable the mods can be changed in the Options under the Keyboard header inside `Change keyboard bindings` with a header called "Mod Select". The usage of the shortcut keys will only work when the mod selection screen is shown.
+Players can change the shortcut keys used to enable mods by clicking `Change keyboard bindings` under the Keyboard header inside the Options menu. The shortcut keys will only work while the mod selection screen is open.
 
 The mod selection screen can be accessed by pressing `F1` in the song selection screen or by clicking the `Mods` button near the lower left corner of the screen.
 
@@ -156,7 +156,7 @@ Do note that the usage of No Fail mod reduces the amount of possible [Performanc
 
 > Shortcut key: `E`
 
-> Less zoom. ("Zoom" referring to how fast the beatmap's BPM is)
+> Less zoom. ("Zoom" referring to the beatmap's BPM)
 
 ![Length of the song is increased by 1/3; BPM decreased by 1/4][HT1]
 
@@ -244,9 +244,9 @@ Click on Sudden Death again to activate Perfect mod.
 
 > SS or quit.
 
-Perfect mod causes _any_ imperfect hit (as in, any score values that do not give 100% accuracy) to be counted as a **miss** and the song will **forcefully restart automatically**; something Sudden Death does not do.
+Perfect mod causes _any_ imperfect hit (as in, any score values that does not give 100% accuracy) to be counted as a **miss** and will **forcefully restart the song automatically**, something Sudden Death does not do.
 
-While this mod gives no Score Multiplier, it is _more unforgiving_ (100% accuracy or force auto-restart until the player gives up by quitting the beatmap manually) when compared to Sudden Death (as long as the combo did not break). There will not be any failed screen and if the beatmap has a skipable prologue, it will be played _again_ since Perfect mod uses restart functionality (not quick-restart) the moment a miss (by Perfect's standard) is given.
+While this mod gives no Score Multiplier, it is _more unforgiving_ (100% accuracy or force auto-restart until the player gives up by quitting the beatmap manually) when compared to Sudden Death (as long as the combo did not break). There will not be any failed screen and if the beatmap has a skippable prologue, it will be played _again_ since Perfect mod uses restart functionality (not quick-restart) the moment a miss (by Perfect's standard) is given.
 
 ---
 
@@ -270,7 +270,7 @@ The method used to increase the speed does not increase the pitch of the song, b
 
 ---
 
-In [osu!taiko][osu!taiko wikilink] mode, since the hit leniency is greatly reduced on top of osu!taiko's already strict overall difficulty in addition to making slider ticks a lot harder to hit and reducing the value of dendens, Double Time is usually regarded as the hardest mod in osu!taiko and is seldom used.
+In [osu!taiko][osu!taiko wikilink] mode, since the hit leniency is greatly reduced on top of osu!taiko's already strict overall difficulty, along with slider ticks being considerably more difficult to hit (and reducing the value of dendens), Double Time is usually regarded as the hardest mod in osu!taiko and is seldom used.
 
 ---
 
@@ -344,7 +344,7 @@ Click on Fade In again to activate Hidden mod.
 
 ![Hidden play in osu!mania mode (Left: Normal; Right: DDR style)][HD_M]
 
-In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again, which functions as the inverse of Fade In.
+In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again, and functions as the inverse of Fade In.
 
 The usage of Hidden mod will result in an unranked play.
 
@@ -630,7 +630,7 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 
 ![Comparison between original (left), Random only (middle), and Random with Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap.][Random1]
 
-Random mod will **randomizes the note placement** only.
+Random mod will **randomize the note placement** only.
 
 It does not affect the notes' timeline and is not shuffled every time Random mod is used.
 
@@ -646,7 +646,7 @@ It does not affect the notes' timeline and is not shuffled every time Random mod
 
 > \*\* UNRANKED \*\*
 
-[Introduced in 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode which would be used in _osu!_ in the future to replace the current individual scoring system by modes. ScoreV2 system attempts to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
+[Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
 
 Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score/#scorev2).
 
