@@ -18,19 +18,19 @@ With regards to the individual matches, there were definitely some memorable hig
 
 Kicking into high gear on Saturday, we were almost immediately treated to one of our first tiebreaker matches of the weekend - Norway vs. Hong Kong! The unseeded Norwegians started off strongly, confidently taking 3 points in quick succession from the opposing low seeded team. Hong Kong wasn’t even close to giving up though, as they promptly got back on their feet and responded in kind - evening up the score to 3-3. After an intense [tiebreaker](https://osu.ppy.sh/b/1258514&m=3), Hong Kong sealed the deal by outperforming the Norwegians by a significant margin of 99,766 score, snatching victory from the jaws of defeat.
 
-![](/wiki/shared/news/2017-08-15-osu-mania-4k-world-cup-group-stage-recap/FinlandHongKong_game2.png)
+![](/wiki/shared/news/2017-08-19-osu-mania-4k-world-cup-group-stage-recap/FinlandHongKong_game2.png)
 
 Saturday also saw two other intense tiebreaker matches in the form of Belgium vs. Thailand, and Spain vs. Italy. While all teams performed admirably, it is unfortunate that none of them will make it through to the next stage, as they were all beaten out by stronger teams in their respective groups.
 
 Not missing a beat, Sunday also saw its fair share of highlights. Perhaps the most stunning was the match between Sweden and South Korea. As the previous winner of the osu!mania 4K World Cup 2016, South Korea looked slated to win this match without a problem. However, the Swedish team shocked us all when they briefly took the lead over the reigning champions!
 
-![](/wiki/shared/news/2017-08-15-osu-mania-4k-world-cup-group-stage-recap/SwedenSouthKorea_game1.png)
+![](/wiki/shared/news/2017-08-19-osu-mania-4k-world-cup-group-stage-recap/SwedenSouthKorea_game1.png)
 
 Sweden certainly proved that they are a force to be reckoned with. However, their mini-success story would soon be cut short. In the end, South Korea simply proved too consistent, and after several strategic picks on their behalf, they won the match 2-4. Regardless, both teams will be qualifying for the Round of 16, so be sure to keep a watchful eye - perhaps they will meet each other again in a fateful encounter?
 
 Wrapping things up, below are the results of what went down in the Group Stage. For more detail, feel free to check out the [statistics sheet](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)!   
 
-![](/wiki/shared/news/2017-08-15-osu-mania-4k-world-cup-group-stage-recap/MWC_4K_2017_Groupstage_results.PNG)
+![](/wiki/shared/news/2017-08-19-osu-mania-4k-world-cup-group-stage-recap/MWC_4K_2017_Groupstage_results.PNG)
 
 After such a fiercely exciting weekend, only 16 teams now remain. Props to the United Kingdom for being the only team to leave the Group Stage unscathed - how much longer will they be able to keep this up? I would also like to congratulate New Zealand for making it through to the Round of 16. For an unseeded team, this is a remarkable achievement and they should not be taken lightly. Hopefully they will continue to impress, as I personally will be rooting for them! 
 
