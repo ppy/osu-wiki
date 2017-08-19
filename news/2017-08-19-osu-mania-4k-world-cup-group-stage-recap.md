@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup - Group Stage Recap"
-date: 2017-08-19 06:41:00 +0000
+date: 2017-08-19 08:00:00 +0000
 ---
 
 Summer may be ending, but the excitement continues! It's time to catch up on the latest events regarding the hugely anticipated osu!mania 4K World Cup!
