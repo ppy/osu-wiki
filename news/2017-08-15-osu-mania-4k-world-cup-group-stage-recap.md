@@ -32,9 +32,7 @@ Wrapping things up, below are the results of what went down in the Group Stage. 
 
 ![](/wiki/shared/news/2017-08-15-osu-mania-4k-world-cup-group-stage-recap/MWC_4K_2017_Groupstage_results.PNG)
 
-After such a fiercely exciting weekend, only 16 teams now remain. However, things will only get more challenging from here, as they will have to fight against each other over an increasingly difficult mappool.
-
-Props to the United Kingdom for being the only team to leave the Group Stage unscathed. How much longer will they be able to keep this up? I would also like to take this chance to congratulate New Zealand, for being the only unseeded team to make it through to the Round of 16. They put on a splendid performance this past weekend. As I understand, this is also the first time that ANY team from New Zealand has made it out of the Group Stage, so hopefully they will continue to impress, as I personally will be rooting for them! 
+After such a fiercely exciting weekend, only 16 teams now remain. Props to the United Kingdom for being the only team to leave the Group Stage unscathed - how much longer will they be able to keep this up? I would also like to congratulate New Zealand for making it through to the Round of 16. For an unseeded team, this is a remarkable achievement and they should not be taken lightly. Hopefully they will continue to impress, as I personally will be rooting for them! 
 
 This year’s installment of the MWC 4K promises to be an exciting one indeed. Every team is looking eager to take the trophy home, along with the glorious title of osu!mania Champion! Be sure to drop by the [osu!live Twitch Channel](https://www.twitch.tv/osulive) next Sunday to show your support for all the teams participating! 
 
