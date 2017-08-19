@@ -599,7 +599,7 @@ Score Multiplier only applies within these conditions:
 
 ![Comparison between original (left) and Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap.][Co-Op1]
 
-[Introduced in 05 March 2015 (2015-03-05) build \[b20150305 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20150305 "Release Notes for b20150305 (Stable)"), Co-Op mod introduces a second playfield with a second set of controls based on the current xK count (7K -> 7K + 7K = 14K). For osu!mania specific maps, the xK is split to half (7K -> 4K + 3K = 7K).
+[Introduced in the 05 March 2015 (2015-03-05) build \[b20150305 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20150305 "Release Notes for b20150305 (Stable)"), Co-Op mod introduces a second playfield with a second set of controls based on the current xK count (7K -> 7K + 7K = 14K). For osu!mania specific maps, the xK is split to half (7K -> 4K + 3K = 7K).
 
 Score Multiplier only applies within these conditions:
 
