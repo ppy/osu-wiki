@@ -43,6 +43,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Support your team with a user profile banner!](https://osu.ppy.sh/store/product/226)
 - **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
