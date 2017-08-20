@@ -47,20 +47,25 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Sunday, 20. August 2017
+### Saturday, 26. August 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| New Zealand | ![][flag_NZ] | ![][flag_FR] | France | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
-| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.00 UTC** | 13.00 UTC +1 | 21.00 UTC +9 |
-| South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13.00 UTC** | 22.00 UTC +9 | 10.00 UTC -3 |
-| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **14.00 UTC** | 11.00 UTC -3 | 22.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
-| Poland | ![][flag_PL] | ![][flag_CL] | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
-| Sweden | ![][flag_SE] | ![][flag_US] | United States | **19.00 UTC** | 21.00 UTC +2 | 14.00 UTC -5 |
+| France | ![][flag_FR] | ![][flag_CL] | Chile | **19.00 UTC** | 21.00 UTC +2 | 16.00 UTC -3 |
+| Argentina | ![][flag_AR] | ![][flag_GB] | United Kingdom | **20.30 UTC** | 17.30 UTC -3 | 21.30 UTC +1 |
+| Canada | ![][flag_CA] | ![][flag_US] | United States | **22.00 UTC** | 17.00 UTC -5 | 17.00 UTC -5 |
+
+### Sunday, 27. August 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **9.00 UTC** | 18.00 UTC +9 | 18.00 UTC +9 |
+| New Zealand | ![][flag_NZ] | ![][flag_PL] | Poland | **10.30 UTC** | 22.30 UTC +12 | 12.30 UTC +2 |
+| Singapore | ![][flag_SG] | ![][flag_CN] | China | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 |
+| Hong Kong | ![][flag_HK] | ![][flag_SE] | Sweden | **13.30 UTC** | 21.30 UTC +8 | 15.30 UTC +2 |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **15.00 UTC** | 12.00 UTC -3 | 22.00 UTC +7 |
 
 ------------------------------------------------------------------------
 
