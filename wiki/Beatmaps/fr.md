@@ -1,6 +1,6 @@
 # Beatmaps (Français)
 
-Les beatmaps sont des niveaux du jeu dans [osu!](/wiki/osu!_glossary), comme des étapes dans les [jeux DS](/wiki/Glossary/#ds-games). Pour la forme la plus basique, une beatmap a une musique et plusieurs [hit objects](/wiki/hit_objects) placés de manière à ce qu'ils s'accordent au rythme de la musique. Elles peut également avoir une image de fond, une vidéo, et/ou un [storyboard](/wiki/storyboard).
+Les beatmaps sont des niveaux du jeu dans [osu!](/wiki/osu!_glossary), comme des étapes dans les [jeux DS](/wiki/Glossary/#ds-games). Pour la forme la plus basique, une beatmap a une musique et plusieurs [hit objects](/wiki/hit_objects) placés de manière à ce qu'ils s'accordent au rythme de la musique. Elles peuvent également avoir une image de fond, une vidéo, et/ou un [storyboard](/wiki/storyboard).
 
 Les beatmaps peuvent être mises en ligne via le [BSS](/wiki/BSS) (Beatmap Submission System) et passent par un processus d'approbation appelé [modding](/wiki/modding) afin de maintenir une jouabilité de haute qualité.
 
@@ -38,16 +38,16 @@ Durant cette semaine, la [QAT](/wiki/QAT) est autorisée à dresser une liste de
 
 ### Aimées
 
-Les beatmaps aimées ont l'icône de cœur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection des musiques.
+Les beatmaps "aimées" ont l'icône de cœur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection des musiques.
 
 Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont _aimées_ de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
 
 - Aucun [pp](/wiki/pp) ne sera accordé.
-- Tous les scores sont supprimés quand le créateur met à jour la beatmap.
+- Tous les scores seront supprimés si le créateur met à jour la beatmap.
 
 Ce statut permet à la beatmap d'avoir un tableau de classement.
 
-Pour qu'une beatmap se voit accorder le statut d'aimé, regardez le post de forum [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
+Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de forum [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
 
 ### En Attente
 
@@ -65,7 +65,7 @@ Aucune beatmap en attente n'affecte les statistiques de l'utilisateur.
 
 Les beatmaps dans le cimetière ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/graveyard.png)) dans l'écran de sélection des musiques.
 
-Ces beatmaps étaient de base [en attente](#en-attente), mais sont déplacées dans le cimetière car elles n'ont pas été mises à jour depuis un certain temps, ou son dernier post sur le forum date de 4 semaines. Ces beatmaps ne peuvent plus être mises à jour à moins qu'un [mapper](/wiki/mapper) ne fasse revivre celle-ci en cliquant sur le lien `Revive Beatmap` sur leur profil, sous la catégorie `Beatmaps`.
+Ces beatmaps étaient de base [en attente](#en-attente), mais sont déplacées dans le cimetière car elles n'ont pas été mises à jour depuis un certain temps, ou son dernier post sur le forum date de 4 semaines. Ces beatmaps ne peuvent plus être mises à jour à moins qu'un [mapper](/wiki/mapper) ne fasse revivre celles-ci en cliquant sur le lien `Revive Beatmap` sur leur profil, sous la catégorie `Beatmaps`.
 
 Aucune beatmap du cimetière n'affecte les statistiques de l'utilisateur.
 

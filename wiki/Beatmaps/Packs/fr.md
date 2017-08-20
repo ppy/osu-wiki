@@ -20,7 +20,7 @@ Les beatmap packs sont divisés en 4 catégories:
 | Thème         | Thème général des musiques             |
 | Artiste/Album | Basé sur un Artiste/Album              |
 
-## Entièrement Compléter sa Liste de Musiques
+## Compléter entièrement sa liste de musiques
 
 Tout cela pour ceux qui veulent vraiment *et complétement remplir leur liste de musiques* (et non pas seulement télécharger leurs musiques favorites).
 
@@ -28,7 +28,7 @@ Gardez à l'esprit que vous aurez besoin de beaucoup d'espace disque pour stocke
 
 ### Liste des Beatmap Packs
 
-Vous pouvez télécharger les beatmap packs (-/Approuvés/Taiko/osu!mania) depuis la catégorie **Standard** et nulle part d'autre. Les beatmap packs (-/Approuvés/Taiko/osu!mania) contiendront les musiques des trois autres catégories.
+Vous pouvez télécharger les beatmap packs (-/Approuvés/Taiko/osu!mania) depuis la catégorie **Standard** et nulle part ailleurs. Les beatmap packs (-/Approuvés/Taiko/osu!mania) contiendront les musiques des trois autres catégories.
 
 Les beatmap packs sont situés sur la [page des Beatmap Packs d'osu!](https://osu.ppy.sh/beatmaps/packs)
 
