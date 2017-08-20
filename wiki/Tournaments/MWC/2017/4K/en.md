@@ -161,6 +161,19 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+### Round of 16
+
+| Sunday, 20. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| New Zealand ![][flag_NZ] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35418105) |
+| Indonesia ![][flag_ID] | 5 | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35419189) |
+| United Kingdom ![][flag_GB] | 3 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35420314) |
+| South Korea ![][flag_KR] | 5 | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35421542) |
+| Brazil ![][flag_BR] | 5 | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/35423100) |
+| Hong Kong ![][flag_HK] | 4 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35424487) |
+| Poland ![][flag_PL] | 0 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35429710) |
+| Sweden ![][flag_SE] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35431890) |
+
 ### Group Stage
 
 | Saturday, 12. August 2017 | | | | |
