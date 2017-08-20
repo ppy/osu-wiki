@@ -80,8 +80,8 @@ En d'autres termes: `Précision = Total des points de hits / (Nombre total de hi
 
 Terme | Formule
 :---:|:---
-**Total des points de hits** | (nombre de 50 \* 50 + Nombre de 100 \* 100 + Nombre de 200 \* 200 + Nombre de 300 \* 300 + Nombre de 300 arc-en-ciel \* 300)
-**Total des hits** | (Nombre de manqués + Nombre de 50 + nombre de 100 + nombre de 200 + nombre de 300 + Nombre de 300 arc-en-ciel)
+**Total des points de hits** | (Nombre de 50 \* 50 + Nombre de 100 \* 100 + Nombre de 200 \* 200 + Nombre de 300 \* 300 + Nombre de 300 arc-en-ciel \* 300)
+**Total des hits** | (Nombre de manqués + Nombre de 50 + Nombre de 100 + Nombre de 200 + Nombre de 300 + Nombre de 300 arc-en-ciel)
 
 Sachez qu'un MAX (ou 300 arc-en-ciel) et un 300 valent tous les deux le maximum pour la précision, malgré qu'un MAX ait plus de valeur pour le score qu'un 300.
 
