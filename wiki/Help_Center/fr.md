@@ -113,6 +113,13 @@ Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas de partie,
 
 Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 jours) sera ajouté au temps avant que le nom de ce joueur soit disponible. Cette précaution est prise afin d'éviter que des gens ne volent les nom d'utilisateurs de joueurs récemment inactifs.
 
+### Est-il possible de retrouver mon ancien nom d'utilisateur?
+
+**Oui, mais sous certaines conditions.**
+
+Nous ne faisons de retour de nom que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://store.ppy.sh/store/product/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
+
+Nous ne permettons cela qu'une fois par comptes, choisissez donc bien votre moment !
 
 ### Puis-je jouer sur un ordinateur sur lequel un autre utilisateur a déjà joué ?
 
@@ -721,211 +728,212 @@ Authentifiez-vous dès que vous l'avez créé !
 
 ----------------------------------------------------------------------------
 
-## Beatmapping and Editor
+## Beatmapping et Éditeur
 
-### How do I upload/update my map?
+### Comment mettre en ligne/mettre à jour ma map ?
 
-**You can do this through the in-game editor.**
+**Vous pouvez faire ça via l'éditeur en jeu.**
 
-To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
+Pour mettre en ligne votre beatmap, allez dans l'éfiteur et allez dans `File` > `Upload Beatmap`.
 
-This will make your beatmap available for others to download on the website and create a dedicated thread for discussion. Updating a map is the same process for a map that has already been uploaded.
+Ça rendra votre beatmap disponible aux autres sur le site et créera un sujet dédié sur le forum. Pour mettre à jour votre beatmap, c'est la même chose.
 
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (by not updating it or not posting in its thread) will send it to the Beatmap Graveyard. To update a graveyarded beatmap, you need to revive it first.
+Chaque utilisateur a une nombre limité de beatmaps qu'il peut mettre en ligne simultanément. Laisser une map inactive pendant un mois (en ne la mettant pas à jour ou en ne postant pas sur son sujet) l'enverra au Cimetière des Beatmaps. Pour mettre à jour une beatmaps au cimetière, vous devrez d'abord la ressusciter.
 
-#### The editor is telling me that beatmap you are trying to submit isn't yours!
+#### L'éditeur me dit que la beatmap que j'essaye de soumettre n'est pas la mienne !
 
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
+**Ça peut arriver si le créateur de la beatmap n'est pas proprement défini dans les fichiers de la beatmap.**
 
-In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included. 
+Dans l'éditeur, cliquez sur `File` dans le menu, puis `Open .osu file in Notepad`. Cochez la ligne `Creator:` et assurez-vous que votre nom exact est marqué dessus, casse comprise. 
 
-If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
+Si ce n'est pas le cas, changez le manuellement pour chaque difficulté de votre set, rechargez la map, et vous pouvez enfin la soumettre.
 
-### I am an osu!supporter, but I don't have 10 pending slots!
+### Je suis un osu!supporter, mais je n'ai pas 10 slots en attente !
 
-**The number of slots available depends on the number of ranked maps you have.**
+**Le nombre de slots disponibles dépend du nombre de maps classées que vous avez.**
 
-By default, every user has 2 pending slots. One slot is added for every ranked map the user owns, up to a total of 8 slots. Being a supporter grants 2 additional slots, from 4 (without ranked maps) up to a total of 10.
+Par défaut, chaque utilisateur a 2 slots en attente. Un slot est ajouté pour chaque map classée que le joueur possède, jusqu'à 8 slots. Être un supporter vous permet d'avoir 2 slots en plus, de 4 (sans maps classées) jusqu'à un total de 10.
 
-### How can I delete my map?
+### Comment puis-je supprimer ma map ?
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**L'équipe ne répond pas aux requêtes de suppression de beatmaps.**
 
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
+Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dnas le Cimetière, ce qui se fera après un mois sans mises à jour.
 
-Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
+Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
 ----------------------------------------------------------------------------
 
-## osu!store and merchandise
+## osu!store et marchandises
 
-### How do I configure the osu!keyboard?
+### Comment configurer le osu!keyboard ?
 
-**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**Vous pouvez le faire via le programme de configuration du osu!keyboard, disponible à [ce lien](http://puu.sh/l6urN/4b6bc800f2.zip).**
 
-Simply extract it to anywhere on your computer, and run the executable!
+Simplement l'extraire quelque part sur votre ordinateur suffit, et lancez l'exécutable !
 
-The rest should be self-explanatory.
+La suite est simple à deviner.
 
-If you have any further issues, please feel free to submit a ticket to [support@ppy.sh](mailto:support@ppy.sh) detailing your problem.
+Si vous avez des problèmes, vous pouvez envoyer un ticket à [support@ppy.sh](mailto:support@ppy.sh) en détaillant votre problème.
 
-### The LEDs on my osu! nono keyboard aren't working!
+### Les LEDs de mon osu! nono keyboard ne fonctionnent pas !
 
-**This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
+**Il peut y avoir plusieurs causes - de la corrosion entre les LEDs et le mainboard, ou pour d'anciens modèes, des LEDs défectueuses.**
 
-To determine if your osu! nono keyboard LEDs are faulty, please undertake the following steps:
+Pour déterminer si les LEDs de votre votre osu! nono keyboard sont défectueuses, suivez les étapes suivantes:
 
-#### Are my LEDs faulty?
+#### Mes LEDs sont-elles défectueuses ?
 
-**Follow these steps to find out:**
+**Pour le savoir, suivez les étapes suivantes:**
 
-1. Identify which LED is not functioning as it should be. Remember this side.
-2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
-3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
+1. Identifiez quelle LED ne fonctionne pas comme elle le devrait.
+2. Retirez doucement les LEDs en-dessous de la touche avec une paire de pinces ou par un autre moyen, en vous souvenant de quelle LED va à quel slot.
+3. Échangez les LEDs et faites les retourner dans leur emplacement. Par exemple, placez la LED de la touche de gauche à la touche de droite, et ainsi de suite.
 
-If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
+Si une LED qui fonctionnait d'un côté fonctionne de l'autre côté, alors la LED **n'est pas défectueuse** et devrait fonctionner correctement.
 
-If an LED that didn't work in one side also doesn't work in the other side, **it is probably faulty.** We can issue you some replacement LEDs to fix this, free of charge. Send an email to [store@ppy.sh](mailto:store@ppy.sh).
+Si une LED ne fonctionne ni d'un côté, ni de l'autre, **elle est prbablement défecteuse.** Nous pouvons vous fournir des LEDs de remplacement pour réparation, gratuitement. Envoyez-nous un email à [store@ppy.sh](mailto:store@ppy.sh).
 
-If an LED that worked in one side does not work in the other side, **this could suggest that your osu!keyboard's mainboard is faulty**. Let us know by sending an email to [store@ppy.sh](mailto:store@ppy.sh) and we'll do our best to hook you up with a replacement.
+Si une LED qui fonctionnait d'un côté de fonctionne pas de l'autre, **cela peut bien être le mainboard de votre clavier qui est fautif**. Faites-le nous savoir en envoyant un email à [store@ppy.sh](mailto:store@ppy.sh) et nous feront de notre mieux pour trouver un remplacement.
 
-If both of your LEDs aren't working, they may both be faulty, or your mainboard could be faulty. Check for corrosion first to see before contacting us.
+Si vos deux LEDs ne fonctionnent pas, elles peuvent petre toutes les deux défectueuses, ou même votre mainboard peut l'être. Vérifier s'il n'y a pas de corrosion avant de nous contacter.
 
-#### How do I tell if my LEDs have corrosion on them?
+#### Comment savoir s'il y a de la corrosion sur mes LEDs ?
 
-**Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
+**Enrober la base des connecteurs de la LED avec un petit carré de papier d'aluminium retirera la plupart des résidus causés par la corrosion.**
 
-Corrosive residue usually appears to be blackish-grey, or may appear as strange stains on the metal.
+Les résidus de corrosion sont de couleur gris noirci, ou ont des teintes de métal étranges.
 
-Removing this residue may restore your LED to working condition. If it does, you know how to fix it next time!
+Supprimer ces résidus peut faire fonctionner à nouveau votre LED. Si c'est le cas, vous saurez corriger ça la prochaine fois !
 
-### My osu!tablet has stopped working or doesn't work at all!
+### Ma osu!tablet a cessé de fonctionner ou ne fonctionne pas du tout!
 
-**This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
+**Ce peut être compliqué de savoir pourquoi puisque la osu!tablet est un ensemble de deux éléments (la tablette et le stylet).**
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong. 
+En sachant cela osu!tablet, il peut être difficile de dire d'où vient le problème. 
 
-To find out, perform the following steps:
+Pour le savoir, suivez les étapes suivantes:
 
-#### Checking for issues with your tablet device
+#### Vérifier les problèmes avec votre tablette
 
-**Follow these steps to check to see if your tablet device is functioning normally:**
+**Suivez les étapes suivantes pour savoir si votre tablette fonctionne normalement:**
 
-1. Safely remove the tablet device from your system, and unplug the cable.
-2. Gently plug the cable back into a USB slot on your system.
-3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
+1. Retirez avec précaution la tablette de votre système, et débranchez le cable.
+2. Rebranchez doucement le cable dans le slot USB de votre système.
+3. Si la tablette fonctionne, le slot lumineux sur votre tablette devrait faire des flashs verts puis s'éteindre. C'est ce qui devrait se passer.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. 
+Si la lumière de la tablette ne fait pas de flashs, essayez d'utiliser un autre cable USB - celui fournit avec la tablette peut être usé par le transport ou par un usage intensif. 
 
-If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
+Si le problème persiste et que votre produit est assez récent (environ un mois), veuillez envoyer un email à [store@ppy.sh](mailto:store@ppy.sh) pour de l'assistance.
 
-We can try to help you fix your issue with older tablet purchases, but the natural wear and tear of regular use is not something we cover replacements for.
+Nous pouvons essayer de vous aider à résoudre votre problème avec d'anciennes tablettes, mais l'usure naturelle ou d'usage réfulier n'est pas une raison pour un remplacement.
 
-#### Checking for issues with your pen device
+#### Vérifier les problèmes avec votre stylet
 
-**Follow these steps to check to see if your pen device is functioning normally:**
+**Suivez les étpaes suivantes pour vérifier si votre stylet fonctionne normalement:**
 
-- Unscrew the grip from the body of the pen, exposing the battery on the inside.
-- Remove the AAA battery from the pen.
-- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
-- Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
-- Screw the grip back onto the pen.
-- Depress the button on the back end (eraser end) of the pen until it clicks.
+- Dévissez la plaque du stylet, exposant la batterie.
+- Retirez la batterie AAA du stylet.
+- Remplacez-la avec une nouvelle batterie AAA. **Vérifiez que la nouvelle batterie fonctionne dans un autre appareil avant.**
+- Assurez-vous que les contacts positifs et négatifs sont bien placés dans le stylet. Il y a des marques indiquant quel endroit va où.
+- Revissez la plaque.
+- Appuyez sur le bouton à l'arrière (extrémité de la gomme) du stylet jusqu'à ce qu'il clique.
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. 
+Si la tablette fonctionne correctement, rapprocher le stylet de la tablette déplacera le curseur sur votre écran. 
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. 
+Si ça n'arrive pas et que vous avez suivi les étpaes de vérification de la tablette précédent cette section, alors il est possible que votre stylet est cassé ou défectueux. 
 
-If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
+Si votre stylet a été endommagé par l'usure ou par un accident (comme une chute), nous ne pouvons pas vous offrir de remplacement.
 
-Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assistance, and we'll do everything we can to help you.
+Sinon, contactez [store@ppy.sh](mailto:store@ppy.sh) pour plus d'assistance, nous ferons tout ce que nous pourrons pour vous aider.
 
-### My computer doesn't recognize the osu!go when I plug it in!
+### Mon ordinateur de détecte pas osu!go quand je le branche !
 
-**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+**C'est un problème connu des tout premiers arrivages des clés USB _osu!go_, cela vient de l'appareil n'étant pas formaté de manière à ce qu'il fonctionne sur tous les PCs.**
 
-Despite how complex this may sound, it's actually very easy to fix.
+Même si ça peut sembler complexe, c'est assez facile à corriger.
 
-First off, [download the package containing the osu!go default files](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) and save it somewhere on your computer.
+Tout d'abord, [téléchargez l'archive contenant les fichiers par défaut d'osu!go](https://dl.dropboxusercontent.com/u/16332218/goodies.zip) et sauvegardez-le quelque part sur votre ordinateur.
 
-#### Formatting the osu!go under Windows
+#### Formatter osu!go sous Windows
 
-**Follow these steps to prepare your _osu!go_ device under Windows:**
+**Suivez les étapes suivantes pour préparer votre _osu!go_ sous Windows:**
 
-1. Open the `Start` menu.
-2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-4. Check to see what state your computer recognizes the device as being in.
+1. Ouvrez le menu `Démarrer`.
+2. Écrivez `gestion des disques` dans la barre de recherche. Cela vos mèera à la section `Créer et formatter des partitions de disque dur` du Panneau de Contrôle.
+3. **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instruction _à la lettre_ et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous jouez dans cette partie là.
+4. Regardez dans quel état votre système reconnait osu!go.
 
-##### The osu!go device is present, but in a "RAW" state.
+##### osu!go est présent, mais dans l'état "RAW".
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
+**Cet état ressemble à [ceci](https://puu.sh/nktuJ/05791b6fc1.png) dans la fenêtre de Gestion des disques.**
 
-To fix this, ensure you have the osu!go device selected, and right click on the RAW partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
+Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cliquez-droit sur la partition RAW et sélectionnez l'option `Formater`. Choisissez soit `NTFS` soit `exFAT` sous la liste déroulante `
+Système de Fichiers` dropdown.
 
-`exFAT` will work with more devices, but is slightly slower.
+`exFAT` fonctionnera sous la plupart des appareils, mais est plus lent.
 
-##### The osu!go device doesn't show up in Disk Management at all.
+##### osu!go n'est pas du tout présent dans la liste.
 
-**You will need to partition the device from scratch.**
+**Vous devrez partitionner de zéro.**
 
-Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
+Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) pour savoir comment faire.
 
 
-##### I've reformatted the osu!go device and it now shows up in Disk Management.
+##### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.
 
-**You're almost done!**
+**C'est presque fini !**
 
-Unzip the archive we asked you to download earlier (goodies.zip) into the _osu!go_ drive and you're done!
+Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (goodies.zip) dans votre _osu!go_ et c'est bon !
 
-##### None of this worked!
+##### Rien ne fonctionne !
 
-If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
+Si vous rencontrez des problèmes avec ces procédés,veuillez envoyer un email à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
 
 ----------------------------------------------------------------------------
 
-## Troubleshooting
+## Diagnostic
 
-### What are 'log files' and how do I make them?
+### Que sont les 'journaux' et comment en faire ?
 
-**Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
+**Les journaux sont des enregistrement de ce que le jeu fait à un certain moment. Nous pouvons les utiliser pour déterminer ce qui pose problème.**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial. 
+Ces fichiers sont extrêmement utiles et peuevtn aider à résoudre des problèmes complexes. 
 
-If a support team member has asked you for these logs, here's how to get them:
+Si un membre du support vous en demande, voici comment les obtenir:
 
-1. Open *osu*.
-2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
-3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
-5. Restart the game client if you made any changes to the release stream to apply them.
-6. Reopen the game, enter `Options`, and click `Open osu! folder`.
-7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
+1. Ouvrez *osu*.
+2. Allez dans le menu `Options` en cliquant sur le bouton dans le menu principal, ou en appuyant sur `CTRL+O`.
+3. Écrivez `release` dans la barre de recherche, ce qui vous mènera à la version que votre client utilise.
+4. Assurez-vous d'être en `Beta` ou `Cutting Edge (Experimental)`. Nous recommandons `Beta` pour de plus grandes chances de stabilité dans cette situation.
+5. Redémarrez le jeu si vous avez modifié le type de version.
+6. Entrez dans `Options`, et cliquez sur `Ouvrir le dossier d'osu!`.
+7. Trouvez le dossier `Logs` dans la febêtre qui s'est ouverte.
+8. Sélectionnez le journal demandé (le membre du support vous dira lequel), et attachez-le à votre ticket ou envoyez-le dans un service de partage de fichiers public.
 
-### What is this 'Bancho authentication error' I keep on receiving?
+### Quelle est cet 'Bancho authentication error' que je n'arrête pas de reçevoir ?
 
-**This typically happens when there are networking issues between you and our servers.**
+**Cela arrive quand il y a un problème de connxion entre vous et nos serveurs.**
 
-There's a few things we can try to resolve this issue.
+Il y a quelques choses que vous pouvez tenter de faire pour corriger ce problème.
 
-#### Have you entered your password correctly?
+#### Avez-vous entré votre mot de passe correctement ?
 
-**This is the most obvious one.**
+**C'est le plus évident.**
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+Si vous avez oublié votre mot de passe, vous pouvez utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour retrouver l'accès à votre compte.
 
-#### Are you using any proxy servers or VPNs?
+#### Utilisez-vous un proxy ou des VPNs?
 
-**Disabling these before attempting to connect again will likely fix your issue.**
+**Les désactiver avant de tenter de vous connecter pourrait résoudre votre problème.**
 
-Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
+Quelques fournisseurs de VPN et de serveurs proxy ne fonctionne pas pour certaines raisons.
 
-#### I'm still getting the error!
+#### J'obtiens toujours cette erreur !
 
-**We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
+**Nous aurons besoin du fichier `network.log` pour savoir ce qui se passe si aucune des solution ne fonctionne.**
 
-Check out the article a section above on how to get a log file to send to us.
+Consultez la section ci-dessus pour savoir comment obtenir un journal que vous nous enverrez.
 
-Rarely, you might need to contact your ISP to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
+Rarement, vous devriez contacter votre fournisseur d'internet. Certains fournisseurs ont des problèmes de connexion à osu!, généralement dû à un mauvais routage.
