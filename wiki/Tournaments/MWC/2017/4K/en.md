@@ -43,24 +43,30 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Support your team with a user profile banner!](https://osu.ppy.sh/store/product/226)
 - **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Sunday, 20. August 2017
+### Saturday, 26. August 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| New Zealand | ![][flag_NZ] | ![][flag_FR] | France | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Indonesia | ![][flag_ID] | ![][flag_CN] | China | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
-| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.00 UTC** | 13.00 UTC +1 | 21.00 UTC +9 |
-| South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13.00 UTC** | 22.00 UTC +9 | 10.00 UTC -3 |
-| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **14.00 UTC** | 11.00 UTC -3 | 22.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
-| Poland | ![][flag_PL] | ![][flag_CL] | Chile | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
-| Sweden | ![][flag_SE] | ![][flag_US] | United States | **19.00 UTC** | 21.00 UTC +2 | 14.00 UTC -5 |
+| France | ![][flag_FR] | ![][flag_CL] | Chile | **19.00 UTC** | 21.00 UTC +2 | 16.00 UTC -3 |
+| Argentina | ![][flag_AR] | ![][flag_GB] | United Kingdom | **20.30 UTC** | 17.30 UTC -3 | 21.30 UTC +1 |
+| Canada | ![][flag_CA] | ![][flag_US] | United States | **22.00 UTC** | 17.00 UTC -5 | 17.00 UTC -5 |
+
+### Sunday, 27. August 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **9.00 UTC** | 18.00 UTC +9 | 18.00 UTC +9 |
+| New Zealand | ![][flag_NZ] | ![][flag_PL] | Poland | **10.30 UTC** | 22.30 UTC +12 | 12.30 UTC +2 |
+| Singapore | ![][flag_SG] | ![][flag_CN] | China | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 |
+| Hong Kong | ![][flag_HK] | ![][flag_SE] | Sweden | **13.30 UTC** | 21.30 UTC +8 | 15.30 UTC +2 |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **15.00 UTC** | 12.00 UTC -3 | 22.00 UTC +7 |
 
 ------------------------------------------------------------------------
 
@@ -152,9 +158,43 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [BABYMETAL - Tales of The Destinies (Couil)](http://osu.ppy.sh/b/1290602&m=3) [Endless Journey]
 
+### Quarterfinals
+
+**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
+
+- FreeMod
+  - [BABYMETAL - Road of Resistance (hi19hi19)](http://osu.ppy.sh/b/1375744&m=3) [Uprising]
+  - [Caravan Palace - Clash (Hydria)](http://osu.ppy.sh/b/1369706&m=3) [Hard]
+  - [goreshit - looming shadow of a tree long gone (Shoegazer)](http://osu.ppy.sh/b/792874&m=3) [extra]
+  - [yst - The Lost Dedicated (DDMythical)](http://osu.ppy.sh/b/1302866&m=3) [Another]
+  - [8284 - Connaextion (LeiN-)](http://osu.ppy.sh/b/1029033&m=3) [TIMED_OUT]
+  - [Maika - Goldrop (Skorer)](http://osu.ppy.sh/b/1243241&m=3) [Yudaina LN]
+  - [Getty vs. DJ DiA - Fox4-Raize- (Evening)](http://osu.ppy.sh/b/1228388&m=3) [GRAVITY VIP]
+  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh)](http://osu.ppy.sh/b/1104774&m=3) [Black Another]
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal)](http://osu.ppy.sh/b/1341515&m=3) [Machine Gun]
+  - [Dustvoxx - Trigger (Zekk Remix) (Wonki)](http://osu.ppy.sh/b/1174927&m=3) [Trigger]
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer)](http://osu.ppy.sh/b/1103630&m=3) [Dreamless]
+  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria)](http://osu.ppy.sh/b/1279175&m=3) [Insane]
+  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel)](http://osu.ppy.sh/b/1252742&m=3) [Sorry, Am I Putting You Off?]
+- Tiebreaker
+  - [DragonForce - The Warrior Inside (_underjoy)](http://osu.ppy.sh/b/1038662&m=3) [4K Collab Gladiator]
+
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+| Sunday, 20. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| New Zealand ![][flag_NZ] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35418105) |
+| Indonesia ![][flag_ID] | 5 | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35419189) |
+| United Kingdom ![][flag_GB] | 3 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35420314) |
+| South Korea ![][flag_KR] | 5 | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/35421542) |
+| Brazil ![][flag_BR] | 5 | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/35423100) |
+| Hong Kong ![][flag_HK] | 4 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35424487) |
+| Poland ![][flag_PL] | 0 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35429710) |
+| Sweden ![][flag_SE] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35431890) |
 
 ### Group Stage
 
