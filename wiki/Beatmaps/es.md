@@ -20,9 +20,9 @@ Los beatmaps aprobados (approved) vienen indicados con este icono: (![Check icon
 
 Los mapas cualificados (qualified) vienen indicados con el icono: (![Check icon](/wiki/shared/status/qualified.png)) en la pantalla de selección  de canciones. Estos beatmaps están en la última etapa del proceso de mapeo y modding. Al seleccionarlos, muestran un mensaje que avisa de que:
 
--No otorgan [PP](/wiki/pp)
+- No otorgan [PP](/wiki/pp)
 
--Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
+- Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
 
 Cuando un mapa es cualificado significa que cumple los criterios de rankeo y que ha sido comprobado por al menos dos nominadores. 
 
@@ -33,9 +33,9 @@ Durante esta semana, los [QATs](/wiki/QAT) podrán decidir devolver el mapa a lo
 
 Los beatmaps Loved, literalmente _amados_, vienen indicados con el icono: (![Heart icon](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones. Estos mapas pueden cumplir o no los criterios de rankeo, pero han sido reconocidos por la comunidad como mapas valiosos. Al seleccionarlos, muestran un mensaje que avisa de que:
 
--No otorgan [PP](/wiki/pp)
+- No otorgan [PP](/wiki/pp)
 
--Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
+- Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
 
 El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/forum/t/549835)(en inglés). Para que un mapa alcance el estatus de Loved.
 
