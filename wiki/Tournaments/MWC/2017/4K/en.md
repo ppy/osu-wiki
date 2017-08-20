@@ -157,6 +157,27 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [BABYMETAL - Tales of The Destinies (Couil)](http://osu.ppy.sh/b/1290602&m=3) [Endless Journey]
 
+### Quarterfinals
+
+**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
+
+- FreeMod
+  - [BABYMETAL - Road of Resistance (hi19hi19)](http://osu.ppy.sh/b/1375744&m=3) [Uprising]
+  - [Caravan Palace - Clash (Hydria)](http://osu.ppy.sh/b/1369706&m=3) [Hard]
+  - [goreshit - looming shadow of a tree long gone (Shoegazer)](http://osu.ppy.sh/b/792874&m=3) [extra]
+  - [yst - The Lost Dedicated (DDMythical)](http://osu.ppy.sh/b/1302866&m=3) [Another]
+  - [8284 - Connaextion (LeiN-)](http://osu.ppy.sh/b/1029033&m=3) [TIMED_OUT]
+  - [Maika - Goldrop (Skorer)](http://osu.ppy.sh/b/1243241&m=3) [Yudaina LN]
+  - [Getty vs. DJ DiA - Fox4-Raize- (Evening)](http://osu.ppy.sh/b/1228388&m=3) [GRAVITY VIP]
+  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh)](http://osu.ppy.sh/b/1104774&m=3) [Black Another]
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal)](http://osu.ppy.sh/b/1341515&m=3) [Machine Gun]
+  - [Dustvoxx - Trigger (Zekk Remix) (Wonki)](http://osu.ppy.sh/b/1174927&m=3) [Trigger]
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer)](http://osu.ppy.sh/b/1103630&m=3) [Dreamless]
+  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria)](http://osu.ppy.sh/b/1279175&m=3) [Insane]
+  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel)](http://osu.ppy.sh/b/1252742&m=3) [Sorry, Am I Putting You Off?]
+- Tiebreaker
+  - [DragonForce - The Warrior Inside (_underjoy)](http://osu.ppy.sh/b/1038662&m=3) [4K Collab Gladiator]
+
 ------------------------------------------------------------------------
 
 ## Match Results
