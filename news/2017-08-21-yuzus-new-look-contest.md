@@ -8,9 +8,11 @@ Intimidated by Mocha's explosive popularity, Yuzu is putting out a call for intr
 
 [![](https://assets.ppy.sh/contests/49/header.jpg)](https://osu.ppy.sh/community/contests/49)
 
-osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever. It's time for a refresh, and we're trusting it to our amazingly talented community artists to make it happen!
+osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever. 
 
-There's a few things to keep in mind, however. This contest is about giving Yuzu a **new look**, not redesigning him completely. There's a few things that we want to keep the same, the rest is up to you!
+It's time for a refresh, and we're trusting it to our amazingly talented community artists to make it happen!
+
+There's a few things to keep in mind, however. This contest is about giving Yuzu a **new look**, not redesigning him completely. We want to keep some things the same, but the rest is up to you!
 
 ## Who is Yuzu?
 
@@ -28,7 +30,7 @@ Yuzu is male, and a teenager. **While we're all about new looks, he needs to sta
 
 The main theme we are aiming for with the osu!mascots is **coloured bangs**. 
 
-This should be the centerpiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
+This should be the centrepiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
 
 **Any entries without unique, identifiable bangs will be disqualified.** Super important to take this into consideration when considering a new design.
 
@@ -42,7 +44,7 @@ Props are great, as pippi and Mocha have demonstrated. Yuzu would very much like
 
 This can be something like a headband, a wristband, a sleeve tag, facial scar.. a medallion, anything like that. Mocha has her bandaid, Yuzu needs something too.
 
-Tattoos **are not okay**, though. Yuzu isn't in to those.
+Tattoos **are not okay**, though. Yuzu isn't into those.
 
 ## What about his personality?
 
@@ -60,7 +62,7 @@ Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps e
 
 --------
 
-This is a little different from our previous osu!mascot design contest, where we asked for a full redesign instead of a refesh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
+This is a little different from our previous osu!mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 
 Interested in giving this a shot? [Head on over to the contest page](https://osu.ppy.sh/community/contests/49) and submit your take on Yuzu's new look.
 
