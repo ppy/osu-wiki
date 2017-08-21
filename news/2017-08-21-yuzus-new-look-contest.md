@@ -18,7 +18,7 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 [![](https://osu.ppy.sh/help/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
 
-Yuzu is the osu!catch mascot. He's most commonly seen in the base game skin, holding up the catcher. 
+Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher. 
 
 The official colour for osu!catch is **blue**, and thus Yuzu's primary colour should be blue in your character design as well.
 
@@ -28,7 +28,7 @@ Yuzu is male, and a teenager. **While we're all about new looks, he needs to sta
 
 ## Any special features?
 
-The main theme we are aiming for with the osu!mascots is **coloured bangs**. 
+The main theme we are aiming for with the _osu!_ mascots is **coloured bangs**. 
 
 This should be the centrepiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
 
@@ -62,7 +62,7 @@ Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps e
 
 --------
 
-This is a little different from our previous osu!mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
+This is a little different from our previous _osu!_ mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 
 Interested in giving this a shot? [Head on over to the contest page](https://osu.ppy.sh/community/contests/49) and submit your take on Yuzu's new look.
 
