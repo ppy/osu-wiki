@@ -40,7 +40,8 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 + Upon signing up you will be asked to provide the total amount of Kudosu as well as the amount of mod posts within the last 3 months, sorted by month upon signing up. So if the announcement is posted in April the mod posts for January, February and March will be relevant. The relevant months will also be listed on the submission form.
 + A mod post qualifies as one if it has received a Kudosu and has been created within the time span listed on the submission form.
 + The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
-+ The point in time at which the Kudosu has been awarded to you mod post does not matter, the only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
++ The point in time at which the Kudosu has been awarded to a mod post does not matter: the only relevant information about a mod post is its post date and time in UTC as well as the fact that it has been awarded Kudosu. In order to find out this information, hover over the text of the forum post that displays the time at which it was last updated.
+![Time Stamp](TIMESTAMP.png "Time Stamp")
 
 ### How the Required Minimum Score is Calculated
 + This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
