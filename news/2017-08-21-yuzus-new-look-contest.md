@@ -66,6 +66,8 @@ This is a little different from our previous osu!mascot design contest, where we
 
 Interested in giving this a shot? [Head on over to the contest page](https://osu.ppy.sh/community/contests/49) and submit your take on Yuzu's new look.
 
+The contest will remain open for **31 days** from the date of this post - you can check the [contest listing](https://osu.ppy.sh/community/contests/49) for a handy countdown timer if you're unsure.
+
 We'll be putting all of the prospective entries that meet the criteria we've laid out here for public voting. The top three entries will receive **6, 4 and 2** months of osu!supporter respectively.
 
 When choosing Yuzu's new look, we'll consider the weight of the community's votes in the top choices, but we will ultimately choose who we feel best suits what we're looking for. First place in the votes might not become his new look, but we'll definitely keep it in mind!
