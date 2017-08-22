@@ -570,7 +570,7 @@ Otherwise, the pull request may not be accepted to the official branch!**
 
 ## Repo Sync and cleanups
 
-Two important things you must do at all costs:
+Two important things you must do at all cost:
 
 1. Updating your ``master`` branch to the latest official ``master`` commit.
 2. If the branch has merge conflicts, fix it immediately.
