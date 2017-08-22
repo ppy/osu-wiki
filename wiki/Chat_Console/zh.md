@@ -50,12 +50,12 @@
 | ![玩家正在编辑图谱](Chat_Console-Modding.png "玩家正在编辑图谱")                | 绿色 - 玩家正在编辑或编辑别人的图谱。                                                          |
 | ![玩家在多人游戏房中](Chat_Console-Multiplayer.png "玩家在多人游戏房中")                        | 棕色 - 玩家正在多人游戏中，但未开始游戏。                                                            |
 | ![玩家正在进行多人游戏](Chat_Console-Multiplaying.png "玩家正在进行多人游戏") | 黄色 - 玩家正在多人游戏中愉快的玩耍。                                                                     |
-| ![玩家长时间未活动](Chat_Console-Afk.png "Player is Afk")                                                | 黑色 - 玩家长时间未活动(Afk)                                                                  |
+| ![玩家长时间未活动](Chat_Console-Afk.png "玩家长时间未活动")                                                | 黑色 - 玩家长时间未活动(Afk)                                                                  |
 | ![玩家正通过IRC连接](Chat_Console-IRC.png "玩家正通过IRC连接")                    | 深蓝色，无信息 - 玩家未在游戏中，但从IRC客户端中登录或数据是不可用的。 |
 
 点击任何一个用户面板就会弹出一个选项栏。
 
-![用户面板选项](ZH-Chat_Console-Userpaneloptions.jpg "用户面板选项")
+![用户面板选项](Chat_Console-Userpaneloptions-ZH.jpg "用户面板选项")
 
 按下数字键或点击某栏进行操作：
 
