@@ -21,7 +21,7 @@ Note: All mods used in osu!mania will never increase the score multiplier.
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Increase pitch and add a constant beat. |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | Hit objects will fade out. |
 | ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][o!m]: 1.00x | Keys will fade in. |
-| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | ![][o!s] ![][o!t] ![][o!c]: 1.12x • ![][o!m]: 1.00x | Restricts play field. |
+| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | ![][o!s] ![][o!t] ![][o!c]: 1.12x • ![][o!m]: 1.00x | Limited play field viewing. |
 | ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | ![][o!s] ![][o!t] ![][o!c]: 0.00x (unrankable) | Just use the mouse. |
 | ![Auto Pilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | ![][o!s]: 0.00x (unrankable) | Just tap. |
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][o!s]: 0.90x | Spinners will be spun for you. |
