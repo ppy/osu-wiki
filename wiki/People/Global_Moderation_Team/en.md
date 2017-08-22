@@ -66,4 +66,4 @@ Team Members
 | [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
-| [Zetera](https://osu.ppy.sh/u/587737) | German |  |
+| [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
