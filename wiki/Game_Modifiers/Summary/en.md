@@ -17,7 +17,7 @@ Note: All mods used in osu!mania will never increase the score multiplier.
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (unrankable) | Everything, but harder. |
 | ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | Combo break = Game over |
 | ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | SS (100%) or quit |
-| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Speed the beatmap up by 25%. |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Speed the beatmap up by 50%. |
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Increase pitch and add a constant beat. |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | Hit objects will fade out. |
 | ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][o!m]: 1.00x | Keys will fade in. |
