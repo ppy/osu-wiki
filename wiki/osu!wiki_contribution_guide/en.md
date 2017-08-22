@@ -5,23 +5,23 @@ This quick-start guide is intended for newcomers that have never worked with Git
 
 ## Preparations
 
-1. [Sign up a GitHub account](https://github.com/join?source=header-home) if you do not have one already.
+1. [Sign up a GitHub account](https://github.com/join?source=header-home) if you don't have one already.
 2. Fork the osu-wiki repository. This creates your very own copy of the osu!wiki files that you can edit freely without worries.
     - Go to the [osu-wiki repository page](https://github.com/ppy/osu-wiki) and click `Fork` in the upper-right corner of the page and wait until it is finished. You will then be led to the page of your forked repository.
 
-      ![](img/fork-repository.png "Click the Fork button to make your own copy")
+      ![Click the fork button to make your own copy](img/fork-repository.png "Click the Fork button to make your own copy")
 
 3. [Download and install GitHub Desktop](https://desktop.github.com) or another tool to use Git. This guide leads you through the workflow with GitHub Desktop only though.
 4. Run GitHub Desktop and sign in to GitHub.com after installation.
 5. Clone your forked repository to your local PC. For that, go to the page of your forked repository and click the green `Clone or download` button. Copy the shown URL from it and use it
 
-    ![](img/clone-repository-1.png "Get the URL from your forked repository page")
+    ![Get the URL from your forked repository page](img/clone-repository-1.png "Get the URL from your forked repository page")
 
-    ![](img/clone-repository-2.png "Click the 'Clone a repository' button")
+    ![Clone a repository button](img/clone-repository-2.png "Click the 'Clone a repository' button")
 
-    ![](img/clone-repository-3.png "Enter the URL to the repository")
+    ![Enter the URL to the repository](img/clone-repository-3.png "Enter the URL to the repository")
 
-    ![](img/clone-repository-4.png "Cloning the repository might take a while")
+    ![Cloning the repository might take a while](img/clone-repository-4.png "Cloning the repository might take a while")
 
 ## How to use GitHub Desktop
 
@@ -77,15 +77,15 @@ In order to get your changes into the official osu!wiki itself, it is required t
 
 1. Go to the page of your forked repository and click `New Pull Request`.
 
-  ![](img/pr-1.png)
+  ![New PR button](img/pr-1.png)
 
 2. Select the right head fork and branch of your project you want to be amended. Select your forked repository at the `head fork` dropdown menu and your project's branch in the `compare` dropdown right next to it. Leave the two dropdowns on the left side alone.
 
-  ![](img/select-branch.png)
+  ![Select Branch](img/select-branch.png)
 
 2. Click the green `Create pull request` button in the yellow box.
 
-  ![](img/pr-2.png)
+  ![Create a PR button](img/pr-2.png)
 
 3. Give your *Pull Request* a proper title and a description. Then click `Create pull request`. This will open the Pull Request and lead you to the page of it. Other contributors can now comment and review these changes.
 
