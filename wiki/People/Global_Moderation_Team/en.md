@@ -26,7 +26,6 @@ Team Members
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
-| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | Spanish | Chat Moderation |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
 | [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polish | Chat Moderation |
@@ -46,6 +45,7 @@ Team Members
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Chat Moderation |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
+| [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Chat Moderation |
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Chat Moderation |
 | [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
 | [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Chat Moderation |
@@ -60,6 +60,7 @@ Team Members
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
 | [Zetera](https://osu.ppy.sh/u/587737) | German |  |
