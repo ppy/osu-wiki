@@ -17,7 +17,7 @@ _主页面: [Game Modifiers](/wiki/Game_Modifiers)_
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (不计入成绩) | 增加总体难度。 |
 | ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | 断掉连击就失败。 |
 | ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | 要么SS（100%），要么别开。 |
-| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | 增加歌曲速度（25%）。 |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | 增加歌曲速度（50%）。 |
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | 升调并加上打击乐。 |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | 打击物件会淡出。 |
 | ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][o!m]: 1.00x | 音符会淡入。 |
