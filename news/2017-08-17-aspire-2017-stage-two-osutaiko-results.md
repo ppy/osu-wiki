@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Aspire 2017 Stage Two: osu!taiko Concludes"
-date: 2017-08-17 03:00:00 +0000
+title: "Aspire 2017 Stage Two: osu!taiko Results"
+date: 2017-08-23 09:00:00 +0000
 ---
 
 The drums of war fade, and in the lingering silence, we find our winner. Triumphant among the twelve, one stands supreme in osu!taiko's first official contest of creative wills. Read on to find out more!
@@ -18,13 +18,17 @@ Beloved by judge and community both, the winner of Aspire 2017: Stage Two is non
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ecLEDCTAFwM?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
-A superb display of mechanical prowess and storyboarding expertise, Supairo's hallmark entry scraped a solid lead in both the judging and community vote scoring categories. It's no surprise as to why.
+A superb display of mechanical prowess and storyboarding expertise, Supairo's hallmark entry scraped a solid lead in both the judging and community vote scoring categories. It's no surprise as to why. 
+
+Supairo's a fresh name on the Taiko scene and with his mapping debut as an Aspire contest winner of all things, it's safe to say that we're looking forward to seeing what he comes up with in the future!
 
 Here's what our judges had to say:
 
-blah
+Supairo’s Intense Muskrat is a visually stunning creation that puts storyboard maps the likes of MariannE and Lucent to shame. This entry impressed us all with its wide variety of gimmicks, and perhaps most surprising of all — how clean it was all weaved together. 
 
-[Play the winning entry here!](https://osu.ppy.sh/s/654033)
+Ranging from the implementation of osu!’s other gamemodes, to an ambitious recreation of Project DIVA’s gameplay, this beatmap is meticulous to even the smallest of details. Imagine our surprise when we didn’t even know who the mapper was! This winning entry will definitely set a new bar on storyboard maps for many years to come!
+
+[See for yourself, and play Supairo's contest-winning entry here!](https://osu.ppy.sh/s/654033)
 
 --------
 
@@ -36,7 +40,9 @@ Featuring a combination dual-lane + multi-mod gimmick polished to near perfectio
 
 Here's what the judges thought:
 
-blah2
+In a similar fashion to Supairo’s Intense Muskrat, tasuke912 uses storyboarding extensively in his entry but takes a different approach — focusing primarily on gameplay mods instead of modes. Throughout the map, we could only marvel at the diverse variety of gimmicks that were presented before us. 
+
+We were particularly impressed by the “Monochrome” and “Function” mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.    
 
 [Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/s/653961)
 
@@ -50,7 +56,9 @@ Featuring the most literal interpretation of algebra seen in the contest period,
 
 Here's what our judges thought:
 
-blah3
+Known for his creativity and knack for doing the unexpected, we weren’t too surprised to see S a n d come up with his own niche entry. Rather than going down the path of mediocrity, S a n d capitalises on the song’s title, and challenges the player to a series of algebraic equations. 
+
+The map is further complemented by various slider velocity and playfield gimmicks, which we thought was beautifully expressed through the use of a thematic storyboard. We were very impressed by the level of ingenuity shown here — this entry is well deserving of 3rd place.
 
 [Get your textbooks ready and dive into S a n d's algebraic insanity here!](https://osu.ppy.sh/s/654135)
 
@@ -64,7 +72,7 @@ A massive thank you to our expert panel of volunteer judges (mangomizer, Unmei M
 
 For the Aspire fanatics among us, we will be announcing the commencement of Stage Three at a later date, featuring the antics of **osu!catch**'s most creative mappers for all to gawk at.
 
-Will they go for the low-hanging fruit of cheap and flashy gimmicks, or will we see something truly extraordinary? Probably the latter, but I wanted to make an awful fruit pun, so deal with it.
+Will they go for the low-hanging fruit of cheap and flashy gimmicks, or will we see something truly extraordinary? Probably the latter, but I wanted to make an awful fruit pun, and I'm not sorry.
 
 See you next time!
 
