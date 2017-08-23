@@ -1,10 +1,12 @@
 # Article Style Guide
 
+_See also: [Article Style Guide/News](/wiki/Article_Style_Guide/News)._
+
 The article style guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
-## Repository Directory
+## Repository directory
 
 The following items only applies to the `wiki/` directory.
 
@@ -37,7 +39,7 @@ These are the supported locales for the osu!wiki. If your language isn't listed 
 | `zh-hk.md` | Chinese (Traditional) | 粤语 |
 | `zh-tw.md` | Chinese (Taiwan, Traditional) | 繁體中文 |
 
-### Folder Names
+### Folder names
 
 Folders must never contain URL reserved characters. Generally, all folder names should only use these characters:
 
@@ -47,13 +49,13 @@ Folders must never contain URL reserved characters. Generally, all folder names 
 - `_` (underscore)
 - `!` (exclamation mark)
 
-### Article File Names
+### Article file names
 
 The name of an article file can be found in the `File Name` column of [locales](#locales).
 
 The location of a locale are to be placed in the appropriate English-named folder.
 
-### Index Pages
+### Index pages
 
 All folders must contain a page of some kind, even if they are index pages that link to their subfolders.
 
@@ -73,7 +75,7 @@ GFM has a small amount of markup that **anyone** can learn in about 3 minutes! H
 
 **HTML use is prohibited.** If you need to use any HTML for any reason, you must reconsider the layout you are using.
 
-### Raw Text Editing
+### Raw text editing
 
 While editing, sentences are to be in a paragraph form, not in single lines. For example:
 
@@ -119,7 +121,7 @@ The level 1 heading should be placed at the start of the article unless you have
 
 For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-##### Untranslatable Titles
+##### Untranslatable titles
 
 In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets.
 
@@ -135,7 +137,7 @@ The native scripts can be found in the `Native Script` column of [locales](#loca
 
 All section headings are to be using levels 2 to 5 headings.
 
-Section headings are to use title case and should **never** contain styles nor links. In addition to this, section headings should never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading).
+Section headings are to use sentence case and should **never** contain styles nor links. In addition to this, section headings should never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading).
 
 Unlike titles, section headings can have small icons.
 
@@ -191,7 +193,7 @@ Use code for the following scenarios:
 - chat channels
   - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters
 
-### Code Blocks
+### Code blocks
 
 It is prefered to use the triple grave marks instead of the four prefixed spaces.
 
@@ -259,7 +261,7 @@ Do not: [https://osu.ppy.sh/](https://osu.ppy.sh/)
 Do: [osu!web](https://osu.ppy.sh/)
 ```
 
-##### User Profiles
+##### User profiles
 
 When linking to an osu!user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
 
@@ -318,25 +320,25 @@ It is suggested to add a subfolder for the images (e.g. `img/` for all and any i
 
 All images must be optimized and should use formats as described in the [supported formats](#supported-formats) section.
 
-#### Media File Names
+#### Media file names
 
 **All image file extensions must use lowercase letters, otherwise they will fail to load!**
 
 Image file names should not use spaces. Names of images must be somewhat meaningful, please do not use the timestamp or long hashes for media file names.
 
-#### Max Width
+#### Max width
 
 The osu!wiki will give every image a max-width, being the width of the article body (680px).
 
 This means when an image's width is more than 680px, you should consider downscaling it to 680px to ensure that we do not waste digital space.
 
-#### Supported Formats
+#### Supported formats
 
 The supported file formats for the osu!wiki are `.gif`, `.jpg` (or `.jpeg`), and `.png`.
 
 When you have an image **without** transparency, use `.jpg` (or `.jpeg`). When you have an image **with** transparency, use `.png`. If the media file is animated, use `.gif`.
 
-#### Alternate and Title Text
+#### Alternate and title text
 
 All images must have an alternate text. This will ensure that something will still be displayed even when it fails to load.
 
@@ -354,13 +356,13 @@ The syntax for captions are the same as normal Markdown images.
 
 Image captions must be plain text and never contain style or link markup.
 
-#### Image Links
+#### Image links
 
 Do not use image links! Image links are links with the image as the link text.
 
 On a PC platform, they will work. However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
 
-#### Flag Icons
+#### Flag icons
 
 Flag icons are located inside the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/flag) folder.
 
@@ -398,7 +400,7 @@ Some tools for beautifying tables are:
 - [Markdown Table Formatter](http://markdowntable.com/)
   - alignment syntax (`:`) will not parse correctly
 
-### Horizontal Bar
+### Horizontal bar
 
 Use horizontal bars sparingly.
 
@@ -415,7 +417,7 @@ All English articles should use plain English. Your word choice should explain t
 
 All English articles and locales without an ASG are to follow the following rules.
 
-### British English
+### British english
 
 In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
 
@@ -452,7 +454,7 @@ When referring to `osu!` (the game/framework itself, not the game mode), it shou
 - `The language that _osu!_ is written in is C# using the .NET Framework.`
 - `One of the game modes in _osu!_ is osu!catch.`
 
-### Date Formatting
+### Date formatting
 
 Since many regions use different date and time formats, the osu!wiki will only use this format: `DD. MMMM YYYY`. For example:
 
@@ -468,7 +470,7 @@ If your language uses a day, month, and year suffix (e.g. Chinese, Japanese, or 
 - `18 June, 2013` must be `2013년06월18일`
 - `2007 March, 02` must be `2007年03月02日`
 
-### Language Names
+### Language names
 
 When referring to the name of a language, capitalize the first letter of that language.
 
@@ -492,7 +494,7 @@ For example:
 
 When shortening the word "for example", use `e.g.` instead of `e.x.` or `i.e.`.
 
-### Serial Comma
+### Serial comma
 
 _The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
 
@@ -502,7 +504,7 @@ When a list consists of 3 or more items in a sentence, use the serial comma. For
 
 Keep in mind that there are rare expections to not using the serial commas.
 
-### Game Modes
+### Game modes
 
 When writting the name of the game modes, they are to be written as follows:
 
@@ -515,7 +517,7 @@ When writting the name of the game modes, they are to be written as follows:
 
 You may use the old game mode names (e.g. `Catch the Beat`, `Taiko`, or `Mania`) only when discussing about said game mode's previous name.
 
-### Game Modifiers
+### Game modifiers
 
 Game modifiers **must** be capitalised. For example:
 
@@ -524,7 +526,7 @@ Game modifiers **must** be capitalised. For example:
 - `Double Time`
 - `Easy`
 
-### Gameplay Elements
+### Gameplay elements
 
 Gameplay elements should **never** be capitalised. For example:
 
@@ -545,7 +547,7 @@ For example, use:
 
 Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.
 
-### Point of View
+### Point of view
 
 When referring to the player, use `the player` or `a player`.
 
