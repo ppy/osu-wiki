@@ -46,7 +46,7 @@ News articles are markdown files (``.md``) are named under the following format:
 
 Where ``yyyy`` is year as 4 digits, ``mm`` is month as 2 digits, and ``dd`` is the date as 2 digits.
 
-Article title strings for file names are the title of the article itself with all spaces replaced with hyphens (`-`), and all additional characters such as periods (`.`), exclamation marks (`!`), question marks (`?`) and commas (`,`) removed with no replacement.
+Article title strings for file names are the title of the article itself with all spaces replaced with hyphens (`-`), and all additional characters such as periods (`.`), exclamation marks (`!`), question marks (`?`), commas (`,`), apostrophes (`'`), quotation marks (`"`), less than (`<`), more than (`>`), colons (`:`), forward slash (`/`), backwards slash (`\`), vertical slash (`|`), and asterisks (`*`) removed with no replacement.
 
 ### File headers
 
