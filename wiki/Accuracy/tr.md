@@ -36,7 +36,7 @@ Başka bir deyişle: `İsabetlilik = Vuruşların toplam değeri / (Toplam vuru�
 | Terim                    | Formül                                                               |
 |:------------------------:|:---------------------------------------------------------------------:|
 | **Vuruşların toplam değeri** | `50'lerin sayısı * 50 + 100'lerin sayısı * 100 + 300'lerin sayısı * 300 `  |
-| **Total number of hits** | `Kaçırılan notaların sayısı + 50'lerin sayısı + 100'lerin sayısı  + 300'lerin sayısı ` |
+| **Toplam vuruş sayısı** | `Kaçırılan notaların sayısı + 50'lerin sayısı + 100'lerin sayısı  + 300'lerin sayısı ` |
 
 Referans için:
 -  300 = 6/6(100%),
