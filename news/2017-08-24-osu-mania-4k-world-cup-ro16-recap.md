@@ -10,7 +10,7 @@ This past Sunday saw the conclusion of the Round of 16 stage, featuring many hig
 
 In contrast to the busy Group Stage, the Round of 16 has historically been one of the more straightforward stages. Consisting of only 8 matches, teams compete fiercely in an effort to remain in the winner’s bracket. While no teams were at risk of being eliminated from the tournament this weekend, this stage will significantly impact how teams will progress throughout the remainder of this tournament.
 
-If you’ve missed the weekend matches, you can always rewatch the VODs [here](https://www.twitch.tv/osulive/videos/all), or settle for the weekly recap below! 
+If you’ve missed the weekend matches, you can always watch the VODs [here](https://www.twitch.tv/osulive/videos/all), or settle for the weekly recap below! 
 
 This year’s Round of 16 saw a total of 49 picks and 16 bans. [hyi - you can recover](https://osu.ppy.sh/beatmapsets/566156#mania/1199287) was definitely a favourite among teams, having been picked in all 8 matches! [Sonitus Vir ft. Emily Smith - Lune Noir](https://osu.ppy.sh/beatmapsets/57946#mania/225781) also received equal attention, proving to be a competitive map that was played 5 times and banned 3 times.
 
@@ -18,6 +18,7 @@ However, every mappool has its fair share of non-favourites. The most banned map
 
 For more information regarding mappool statistics, you can find them [here](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml#). Otherwise, it’s time to move over to where the real excitement lies - the matches!
 
+<hr>
 The first match of the day saw the unseeded New Zealand facing off against the high seeded France. While the Kiwis did rather well in the Group Stage, the power of baguettes proved too strong. Overwhelmed by their Supairo consistency, they conceded the match 1 - 5.
 
 Next up was a match between two top seeded teams - Indonesia vs. China. Having lost to aforementioned France in the Group Stage, things were not looking too favourable for China. This soon proved true, as Indonesia took point after point in a series of very close matches, quickly reaching 3-0. China saw a brief respite in taking a point back, but it would be short lived, as Indonesia bounced back immediately, securing the match 5 - 1.
