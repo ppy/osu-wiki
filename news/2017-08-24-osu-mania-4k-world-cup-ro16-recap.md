@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup - Round of 16 Recap"
 date: 2017-08-24 07:00:00 +0000
 ---
 
-This past Sunday saw the conclusion of the Round of 16 stage, featuring many highlights and more than a few surprises! It’s time to follow up on our manic keysmashers in their latest escapades!
+This past Sunday saw the conclusion of the Round of 16 stage, featuring many highlights and more than a few surprises! It’s time to follow up on the latest escapades of our manic keysmashers in the osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
@@ -18,7 +18,7 @@ However, every mappool has its fair share of non-favourites. The most banned map
 
 For more information regarding mappool statistics, you can find them [here](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml#). Otherwise, it’s time to move over to where the real excitement lies - the matches!
 
-<hr>
+--------
 The first match of the day saw the unseeded New Zealand facing off against the high seeded France. While the Kiwis did rather well in the Group Stage, the power of baguettes proved too strong. Overwhelmed by their Supairo consistency, they conceded the match 1 - 5.
 
 Next up was a match between two top seeded teams - Indonesia vs. China. Having lost to the aforementioned France in the Group Stage, things were not looking too favourable for China. This soon proved to be true, as Indonesia took point after point in a series of very close matches, quickly reaching 3-0. China saw a brief respite in taking a point back, but it would be short lived, as Indonesia bounced back immediately, securing the match 5 - 1.
@@ -35,12 +35,13 @@ In contrast, the match between Hong Kong and Canada was much more balanced. Hong
 
 ![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/HongKongCanada_game2.jpg)
 
-Despite the scores flickering back and forth initially, it soon became evident that Canada was pulling ahead. As the song progressed, the score lead just kept widening ever so slightly, which ended up with a convincing victory for Canada. Particularly impressive to note was the stellar performance from [ComandoBlack](https://osu.ppy.sh/users/7025841) - he has been declared the MvP in the match for his impressive Flashlight Mod sight read.
+Despite the scores flickering back and forth initially, it soon became evident that Canada was pulling ahead. As the song progressed, the score lead just kept widening ever so slightly, which ended up with a convincing victory for Canada. Particularly impressive to note was the stellar performance from [CommandoBlack](https://osu.ppy.sh/users/7025841) - he has been declared the MvP in the match for his impressive Flashlight Mod sight read.
 
 The final two matches saw Poland vs. Chile and Sweden vs. United States. While both of these also ended up in 0 - 5 sweeps, the matches were deceptively close. As seen below, one of the picks ended up with a score difference of only 796, which just goes to show how evenly matched these teams are. Definitely watch out for these 4 teams in the stages to come!
 
 ![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
 
+--------
 And that’s a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser’s bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017/4K). 
 
 Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don’t want to miss! 
