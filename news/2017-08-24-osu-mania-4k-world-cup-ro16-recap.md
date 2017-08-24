@@ -24,7 +24,7 @@ Next up was a match between two top seeded teams - Indonesia vs. China. Having l
 
 Moving onto our first memorable highlight, the match between the United Kingdom and Japan was definitely a surprising one. Having made it through the Group Stage unscathed, the United Kingdom seemed confident in their ability to win. However, after a brief exchange of blows, it was clear that both teams were equally skilled, as the score settled at 2 - 2. Seeking to capitalise on their opponent’s weakness, the tea sipping gentlemen went straight for [Edwin Starr vs. Justic - War vs. Waters of Nazareth](https://osu.ppy.sh/beatmapsets/602039#mania/1394983), a highly technical map featuring tricky LNs. 
 
-![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/UnitedKindomJapan_game1.jpg)
+![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/UnitedKingdomJapan_game1.jpg)
 
 But to everyone’s surprise, Japan calmly responded to this by substituting in [C-light](https://osu.ppy.sh/users/7955738) - a player who had yet to see any action in major tournaments. Over the course of the next 3 nail-biting minutes, Team Japan showed a dominating performance, scoring a crucial break point that proved vital in their eventual victory of 3 - 5. This moment will undoubtedly go down in history as one of the greatest baits in osu!mania 4K World Cup - though I personally wonder if they may have revealed their hand a little too soon.
 
