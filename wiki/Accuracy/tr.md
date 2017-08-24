@@ -14,16 +14,16 @@
 
 Üç çeşit isabetlilik vardır:-
 
-- her [beatmap][beatmap wikilink]'ın isabetliliği,
+- her [beatmapın][beatmap wikilink] isabetliliği,
 - kişinin ortalama isabetliliği ve
-- [Performans Puanı (pp)][pp wikilink]'nın isabetliliği.
+- [Performans Puanının (pp)][pp wikilink] isabetliliği.
 
 Basitçe anlatırsak,
 
-- beatmap'ın isabetliliği yapılan [Vuruş değerlerine][Score wikilink] bağlı,
+- beatmapın isabetliliği yapılan [Vuruş değerlerine][Score wikilink] bağlı,
 - ortalama isabetlilik sisteme gönderilen her top skora bağlı, 
   - unutmayın ki daha iyi skorlar ortalama isabetliliği daha kötü skorlardan daha çok etkileyecektir, ve
-- pp'nin isabetliliği sisteme gönderilen pp vermyee uygun skorun isabetliliğine bağlıdır.
+- pp'nin isabetliliği sisteme gönderilen pp vermeye uygun skorun isabetliliğine bağlıdır.
 
 ## Oyun Modları
 
@@ -65,7 +65,7 @@ Başka bir deyişle: `İsabetlilik = Toplanan meyvelerin sayısı / Toplam meyve
 | Terim                              | Formül                                                                                              |
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------:|
 | **Toplanan meyvelerin sayısı** | `Damlacıkların sayısı + Damlaların sayısı + Meyvelerin sayısı`                                              |
-| **Total numbers of fruits**        | `Kaçırmaların sayısı + Kaçırılan damlacıkların sayısı + Damlacıkların sayısı + Damlaların sayısı + Meyvelerin sayısı` |
+| **Toplam meyve sayısı**        | `Kaçırmaların sayısı + Kaçırılan damlacıkların sayısı + Damlacıkların sayısı + Damlaların sayısı + Meyvelerin sayısı` |
 
 "Muzlar" (spinner meyvesi) sayılmaz.
 
@@ -102,7 +102,7 @@ Daha fazla detay için, bkz. [Skor][Score wikilink].
 
 Oyun sırasındaki performansın bir grafiği.
 
-Oyun içi imleci grafiğin üstüne getirildiğine ek bilgiler gösterilir
+Oyun içi imleç grafiğin üstüne getirildiğine ek bilgiler gösterilir.
 
 ![Performance Graph](img/tr.jpg "Performance Graph")
 
@@ -110,7 +110,7 @@ Oyun içi imleci grafiğin üstüne getirildiğine ek bilgiler gösterilir
 
 Terim | Anlamı
 ---- | -------
-Yanlışlık (Error) | **Bu iki değer vuruşların ortalama olarak olması gerekenden ne kadar erken ya da geç basıldığını belirtir.**. [OD değeri][OD wikilink] ne kadar yüksekse, iyi sonuç almak için bu değerlerin o kadar küçük olması gerekir.
+Hata (Error) | **Bu iki değer vuruşların ortalama olarak olması gerekenden ne kadar erken ya da geç basıldığını belirtir.**. [OD değeri][OD wikilink] ne kadar yüksekse, iyi sonuç almak için bu değerlerin o kadar küçük olması gerekir.
 Tutarsızlık Oranı (Unstable Rate) | **Bu değer vuruşların zamanlamasının ne kadar tutarlı olduğunu gösterir.**, küçük değerler daha iyiyi belirtir (üst seviye oyuncular genellikle bu skoru 100'ün altında tutar). Bu değerin _isabetliliği_ değil, **tutarlılığı** ölçtüğünü, yani tutarlı bir şekilde tam zamanında vuruş yapmanın yine tutarlı bir şekilde 15ms erken basmak ile aynı olduğunu unutmayın. Formülü temelinde vuruş hatalarının (milisaniye değerinin) standart sapmasının 10 ile çarpımıdır.
 
 #### Çevirme (Spin)
