@@ -24,7 +24,7 @@ Next up was a match between two top seeded teams - Indonesia vs. China. Having l
 
 Moving onto our first memorable highlight, the match between the United Kingdom and Japan was definitely a surprising one. Having made it through the Group Stage unscathed, the United Kingdom seemed confident in their ability to win. However, after a brief exchange of blows, it was clear that both teams were equally skilled, as the score settled at 2 - 2. Seeking to capitalise on their opponent’s weakness, the tea sipping gentlemen went straight for [Edwin Starr vs. Justic - War vs. Waters of Nazareth](https://osu.ppy.sh/beatmapsets/602039#mania/1394983), a highly technical map featuring tricky LNs. 
 
-![](/wiki/shared/news/2017-08-XX-osu-mania-4k-world-cup-ro16-recap/UnitedKindomJapan_game1.jpg)
+![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/UnitedKindomJapan_game1.jpg)
 
 But to everyone’s surprise, Japan calmly responded to this by substituting in [C-light](https://osu.ppy.sh/users/7955738) - a player who had yet to see any action in major tournaments. Over the course of the next 3 nail-biting minutes, Team Japan showed a dominating performance, scoring a crucial break point that proved vital in their eventual victory of 3 - 5. This moment will undoubtedly go down in history as one of the greatest baits in osu!mania 4K World Cup - though I personally wonder if they may have revealed their hand a little too soon.
 
@@ -32,13 +32,13 @@ The next two matches saw Teams South Korea and Brazil sweep out Teams Argentina 
 
 In contrast, the match between Hong Kong and Canada was much more balanced. Hong Kong seized the initiative and took the first point, but was met with resistance as Canada responded in kind. Hong Kong then proceeded to take 2 more points but once again, their success was mirrored by Canada. With the supporting cheers from Twitch chat, It wasn’t long before we arrived at the [tiebreaker](https://osu.ppy.sh/beatmapsets/611340#mania/1290602).
 
-![](/wiki/shared/news/2017-08-XX-osu-mania-4k-world-cup-ro16-recap/HongKongCanada_game2.jpg)
+![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/HongKongCanada_game2.jpg)
 
 Despite the scores flickering back and forth initially, it soon became evident that Canada was pulling ahead. As the song progressed, the score lead just kept widening ever so slightly, which ended up with a convincing victory for Canada. Particularly impressive to note was the stellar performance from [ComandoBlack](https://osu.ppy.sh/users/7025841) - he has been declared the MvP in the match for his impressive FL sight read.
 
 The final two matches saw Poland vs. Chile and Sweden vs. United States. While both of these also ended up in 0 - 5 sweeps, the matches were deceptively closer. As seen below, one of the picks ended up with a score difference of only 796, which just goes to show how evenly matched these teams are. Definitely watch out for these 4 teams in the stages to come!
 
-![](/wiki/shared/news/2017-08-XX-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
+![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
 
 And that’s a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser’s bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017/4K). 
 
