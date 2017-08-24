@@ -35,7 +35,7 @@ In contrast, the match between Hong Kong and Canada was much more balanced. Hong
 
 ![](/wiki/shared/news/2017-08-24-osu-mania-4k-world-cup-ro16-recap/HongKongCanada_game2.jpg)
 
-Despite the scores flickering back and forth initially, it soon became evident that Canada was pulling ahead. As the song progressed, the score lead just kept widening ever so slightly, which ended up with a convincing victory for Canada. Particularly impressive to note was the stellar performance from [CommandoBlack](https://osu.ppy.sh/users/7025841) - he has been declared the MvP in the match for his impressive Flashlight Mod sight read.
+Despite the scores flickering back and forth initially, it soon became evident that Canada was pulling ahead. As the song progressed, the score lead just kept widening ever so slightly, which ended up with a convincing victory for Canada. Particularly impressive to note was the stellar performance from [CommandoBlack](https://osu.ppy.sh/users/7025841) - he was declared the MvP in the match for his impressive Flashlight Mod sight read.
 
 The final two matches saw Poland vs. Chile and Sweden vs. United States. While both of these also ended up in 0 - 5 sweeps, the matches were deceptively close. As seen below, one of the picks ended up with a score difference of only 796, which just goes to show how evenly matched these teams are. Definitely watch out for these 4 teams in the stages to come!
 
