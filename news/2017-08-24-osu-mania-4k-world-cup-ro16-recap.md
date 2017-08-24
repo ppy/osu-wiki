@@ -15,7 +15,7 @@ If you’ve missed the weekend matches, you can always rewatch the VODs [here](h
 This year’s Round of 16 saw a total of 49 picks and 16 bans. [hyi - you can recover](https://osu.ppy.sh/beatmapsets/566156#mania/1199287) was definitely a favourite among teams, having been picked in all 8 matches! [Sonitus Vir ft. Emily Smith - Lune Noir](https://osu.ppy.sh/beatmapsets/57946#mania/225781) also received equal attention, proving to be a competitive map that was played 5 times and banned 3 times.
 
 However, every mappool has its fair share of non-favourites. The most banned map was [Alesana - The Artist](https://osu.ppy.sh/beatmapsets/606247#mania/1280807) which saw a total of 6 bans. Perhaps players found the high risk LN patterns too tricky? It is also a slight letdown that [q/stol - Re/Im](https://osu.ppy.sh/beatmapsets/588066#mania/1245089) was never picked in any match, but at the very least it received some attention in the form of a ban.
-f
+
 For more information regarding mappool statistics, you can find them [here](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml#). Otherwise, it’s time to move over to where the real excitement lies - the matches!
 
 The first match of the day saw the unseeded New Zealand facing off against the high seeded France. While the Kiwis did rather well in the Group Stage, the power of baguettes proved too strong. Overwhelmed by their Supairo consistency, they conceded the match 1 - 5.
