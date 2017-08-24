@@ -16,7 +16,7 @@ And judge they did.
 
 Beloved by judge and community both, the winner of Aspire 2017: Stage Two is none other than **Intense Muskrat**, mapped by the extraordinarily talented [Supairo](https://osu.ppy.sh/users/2837231), with a total score of **72.3/80** and **180** unique votes.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ecLEDCTAFwM?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/ecLEDCTAFwM?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
 A superb display of mechanical prowess and storyboarding expertise, Supairo's hallmark entry scraped a solid lead in both the judging and community vote scoring categories. It's no surprise as to why. 
 
@@ -34,7 +34,7 @@ Ranging from the implementation of osu!’s other gamemodes, to an ambitious rec
 
 Gruellingly close but ever so far, **Powerful Viper** by [tasuke912](https://osu.ppy.sh/users/2774767) was nipping at the winning entry's heels every step of the way, scoring **67.2/80** with **162** unique votes.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PpzJP8ARdvY?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/PpzJP8ARdvY?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
 Featuring a combination dual-lane + multi-mod gimmick polished to near perfection, tasuke912's entry was a frontrunner from the very beginning. Falling short from victory in the judging panel by less than a point and only 18 unique votes overall, it honestly surprises nobody that the contest was almost too close to call.
 
@@ -50,7 +50,7 @@ We were particularly impressed by the “Monochrome” and “Function” mods, 
 
 Trailing behind the two frontrunners in third place overall was **Jovial Lark** by the much-loved [S a n d](https://osu.ppy.sh/users/676578), scoring **56.1/80** with **128** unique votes overall.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/uALRwlC5lPw?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/uALRwlC5lPw?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
 Featuring the most literal interpretation of algebra seen in the contest period, S a n d's storyboarded masterpiece combined complex visual cues nearly wrapped up in nearly indecipherable algebraic formulae, masterfully weaving clever obscuring techniques to support the breadth of his design overall.
 
