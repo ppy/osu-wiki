@@ -156,7 +156,7 @@ Do note that the usage of No Fail mod reduces the amount of possible [Performanc
 
 > Shortcut key: `E`
 
-> Less zoom. ("Zoom" referring to the beatmap's BPM)
+> Less zoom. ("Zoom" refers to the beatmap's BPM)
 
 ![Length of the song is increased by 1/3; BPM decreased by 1/4][HT1]
 
@@ -275,10 +275,6 @@ In [osu!taiko][osu!taiko wikilink] mode, since the hit leniency is greatly reduc
 ---
 
 In [osu!catch][osu!catch wikilink] mode, as there is no overall difficulty to increase, this mod does nothing more than a BPM and approach rate multiplier and is thus only worth a 1.06x multiplier. Being the opposite of Half Time, though, Double Time greatly decreases the hyperdash leniency, making fruits requiring hyperdashes nigh impossible to catch in some cases.
-
----
-
-In [osu!mania][osu!mania wikilink] mode, the usage of Double Time mod will result in an unranked play.
 
 #### Nightcore
 
