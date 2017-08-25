@@ -49,10 +49,10 @@ Miembros del equipo
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holandés | Moderación del Chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Español | Moderación del Chat, Administración de la Wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | PENDIENTE | PENDIENTE |
-| [S o h](https://osu.ppy.sh/u/2234772) | Japonése | Moderación del Chat |
-| [Saten](https://osu.ppy.sh/u/444506) | Sueco, Spanish | Moderación del Chat |
+| [S o h](https://osu.ppy.sh/u/2234772) | Japonés | Moderación del Chat |
+| [Saten](https://osu.ppy.sh/u/444506) | Sueco, Español | Moderación del Chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | Francés | Moderación del Chat, Torneos |
-| [Shiro](https://osu.ppy.sh/u/113005) | Francés, Spanish | Moderación del Chat |
+| [Shiro](https://osu.ppy.sh/u/113005) | Francés, Español | Moderación del Chat |
 | [Shockwave](https://osu.ppy.sh/u/251631) | Español | Moderación del Chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesio | Moderación del Chat |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Húngaro | Moderación del Chat |
