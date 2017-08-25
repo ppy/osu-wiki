@@ -32,7 +32,7 @@ Miembros del equipo
 | [Gabe](https://osu.ppy.sh/u/654108) | Francés | Moderación del Chat |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polaco | Moderación del Chat |
 | [ghm12](https://osu.ppy.sh/u/2594229) | Portugués | Moderación del Chat |
-| [heyronii](https://osu.ppy.sh/u/5642779) | Turco | PENDIENTE |
+| [heyronii](https://osu.ppy.sh/u/5642779) | Turco | Moderación del Chat |
 | [IamKwaN](https://osu.ppy.sh/u/1856463) | Cantonés, Chino | Moderación del Chat |
 | [juankristal](https://osu.ppy.sh/u/443656) | Español | Moderación del Chat, Tournaments |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Ruso | Moderación del Chat |
@@ -48,7 +48,7 @@ Miembros del equipo
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portugués | Moderación del Chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holandés | Moderación del Chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Español | Moderación del Chat, Administración de la Wiki |
-| [ruexia](https://osu.ppy.sh/u/385069) | PENDIENTE | PENDIENTE |
+| [ruexia](https://osu.ppy.sh/u/385069) | Coreano | Moderación del Chat |
 | [S o h](https://osu.ppy.sh/u/2234772) | Japonés | Moderación del Chat |
 | [Saten](https://osu.ppy.sh/u/444506) | Sueco, Español | Moderación del Chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | Francés | Moderación del Chat, Torneos |
@@ -63,9 +63,9 @@ Miembros del equipo
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Coreano, Japonés | Moderación del Chat |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Español | Soporte Técnivo |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polaco | Moderación del Chat |
-| [Uni](https://osu.ppy.sh/u/617106) | PENDIENTE | PENDIENTE |
+| [Uni](https://osu.ppy.sh/u/617106) | Holandés | Moderación del Chat |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Soporte Técnico |
 | [WalterToro](https://osu.ppy.sh/u/5281416) | Español | Moderación del Chat, Moderación del Foro |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polaco | Moderación del Chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chino | Moderación del Chat |
-| [Zetera](https://osu.ppy.sh/u/587737) | Alemán |  |
+| [Zetera](https://osu.ppy.sh/u/587737) | Alemán | Moderación del Chat |
