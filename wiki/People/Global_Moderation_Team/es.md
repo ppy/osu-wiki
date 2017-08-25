@@ -42,7 +42,7 @@ Miembros del equipo
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderación del Chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Holandés | Moderación del Chat |
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Moderación del Chat, Moderación del Foro |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | Francés | Chat Moderation |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | Francés | Moderación del Chat |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chino | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderación del Chat, Soporte Técnico |
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portugués | Moderación del Chat |
