@@ -20,7 +20,7 @@ Miembros del equipo
 
 | Nombres | Idiomas | Enfoque |
 | ----- | --------- | ------------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Italiano | |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Italiano | Moderación del Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Húngaro | Moderación del Chat |
 | [Atrue's](https://osu.ppy.sh/u/1758523) | Chino | Moderación del Chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Moderación del Chat |
