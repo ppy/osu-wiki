@@ -145,24 +145,24 @@ Une poignée d'heures est requise au maximum afin de réinitialiser ce statut po
 
 **Assurez-vous qu'osu! ne tourne pas en mode compatibilité Windows, et qu'un navigateur internet par défaut est définit.**
 
-Ce problème est quelques fois causé par une interaction avec le mode compatibilité, et peut aussi être causé par le jeu, ne trouvant pas le navigateur par défaut pour ouvrir la page vers laquelle mène le lien.
+Ce problème est quelques fois causé par une intéraction avec le mode compatibilité, et peut aussi être causé par le jeu, ne trouvant pas le navigateur par défaut pour ouvrir la page vers laquelle mène le lien.
 
 #### Votre jeu tourne-t-il en mode compatibilité Windows ?
 
-Pour vérifier ou changer le fait que le jeu se trouve en mod ecompatibilité Windows, suivez les étapes qui suivent:
+Pour vérifier ou changer le fait que le jeu se trouve en mode compatibilité Windows, suivez les étapes qui suivent:
 
 1. Ouvrez le dossier où est installé osu! et trouvez le fichier `osu!.exe`.
 2. Cliquez-droit sur `osu!.exe` et sélectionnez `Propriétés` dans le menu.
 3. Sélectionnez l'onglet `Compatibilité`.
 4. Cherchez la case à cocher `Exécuter ce programme en mode compatibilité` dans la section intitulée `Mode de compatibilité`.
-5. Si la case est coché, cliquez dessus pour désactiver cette fonctionnalité.
+5. Si la case est cochée, cliquez dessus pour désactiver cette fonctionnalité.
 6. Si votre jeu est déjà ouvert, fermez-le et réouvrez-le.
 
 #### Avez-vous un navigateur par défaut ?
 
-**Dans la majorité des cas, les installaions Windows on un navigateur par défaut.**
+**Dans la majorité des cas, les installaions Windows ont un navigateur par défaut.**
 
-Pour vérifier cela, suivez les étaes suivantes (pour Windows 8 et supérieur):
+Pour vérifier cela, suivez les étapes suivantes (pour Windows 8 et supérieur):
 
 1. Ouvrez le menu Démarrer.
 2. Écrivez `défaut` dans la barre de recherche.
@@ -183,11 +183,11 @@ Pour s'assurer qu'osu! peut accéder à Internet, nous devrons le dire au Pare-f
 
 1. Ouvrez le menu Démarrer.
 2. Écrivez `autoriser une application` dans la barre de recherche.
-3. Vous veriez voir `Autoriser une application via le pare-feu Windows`. Cliquez dessus.
-4. Un panneu avec une grande liste d'application d'affichera, avec deux cases à cocher après elle. Cliquez sur n'importe quelle application, puis appuyez sur la touche `o`. La liste défilera jusqu'aux applications commençants par 'o'.
+3. Vous devriez voir `Autoriser une application via le pare-feu Windows`. Cliquez dessus.
+4. Un panneau avec une grande liste d'application s'affichera, avec deux cases à cocher après elle. Cliquez sur n'importe quelle application, puis appuyez sur la touche `o`. La liste défilera jusqu'aux applications commençants par 'o'.
 5. Recherchez `osu!` ou `osu!.exe`.
-6. Si aucun de ces deux mts ne sont présets, cliquez ur `Autoriser une autre application` en bas du panneau et cherchez le dossier d'installation d'osu!, puis choisissez `osu!.exe`.
-7. Assurez-vous que les cases `Privé` et `Public` sont cochées. Cliquez sur OK pour sauvegarder les paramètres et résessayez.
+6. Si aucun de ces deux mots ne sont présents, cliquez sur `Autoriser une autre application` en bas du panneau et cherchez le dossier d'installation d'osu!, puis choisissez `osu!.exe`.
+7. Assurez-vous que les cases `Privé` et `Public` sont cochées. Cliquez sur OK pour sauvegarder les paramètres et réessayez.
 
 #### Autoriser une application dans le Pare-feu AVG
 
@@ -218,19 +218,19 @@ Vous pouvez effectuer un suivi en ouvrant l'invite de commande et en exécutant 
 
 Pour ouvrir l'invite de commande, appuyez sur la touche `Windows` et `R` en même temps, puis écrivez `cmd`, ensuite cliquez sur `OK`. [Pour plus d'informations, voir la base de connaissance Windows.](https://support.microsoft.com/fr-fr/help/314868).
 
-Vous pouvez désormais écrrire la commande dans la console. Par exemple, la commande `tracert cho.ppy.sh` tracera toutes les addresses visitées par votre connexion ourfinir par se connecter au serveurs de jeu. Le suivi prends quelques temps à se faire, des fois plus d'une minnute, tout cela dépend de votre connexion.
+Vous pouvez désormais écrire la commande dans la console. Par exemple, la commande `tracert cho.ppy.sh` tracera toutes les addresses visitées par votre connexion pour finir par se connecter au serveurs de jeu. Le suivi prends quelques temps à se faire, des fois plus d'une minute, tout cela dépend de votre connexion.
 
-Nous auros besoin des résultats de ette commande pour les addresses suivantes: `cho.ppy.sh`, `osu.ppy,sh` et `m1.ppy.sh`.
+Nous aurons besoin des résultats de cette commande pour les addresses suivantes: `cho.ppy.sh`, `osu.ppy,sh` et `m1.ppy.sh`.
 
-Pour cpier les résultats de la commande, faites simplement un clic droit maintenu tout ou descendant jusqu'à la fin de la sortie, puis cliquez-droit pour copier instantanément le contenu de la sélection dans votre presse-papier.
+Pour copier les résultats de la commande, faites simplement un clic droit maintenu tout ou descendant jusqu'à la fin de la sortie, puis cliquez-droit pour copier instantanément le contenu de la sélection dans votre presse-papier.
 
-### Mon PC redémarre quand je jouer à osu!
+### Mon PC redémarre quand je joue à osu!
 
-**La plupart du temps, c'est dû à une surchauffe d'un des ccomposants de votre ordinateur, généralement votre carte graphique ou votre processeur.**
+**La plupart du temps, c'est dû à une surchauffe d'un des composants de votre ordinateur, généralement votre carte graphique ou votre processeur.**
 
 Pour savoir quel composant pose problème, nous recommandons d'utiliser un moniteur de température de GPU/CPU pour y garder un œil quand vous jouez à osu! Un bon programme, que nous vous conseillons, est [Speccy de Piriform](https://www.piriform.com/speccy).
 
-Si vous remarquez q'un de vos composants dépasse les 90°C ou 194°F, votre ordinateur et très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
+Si vous remarquez qu'un de vos composants dépasse les 90°C ou 194°F, votre ordinateur et très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
 
 #### Comment éviter que mon PC surchauffe quand je joue à osu! ?
 
@@ -254,15 +254,15 @@ Vous pourriez aussi être intéressé par des programmes permettant de modifier 
 
 **La cause la plus commune de redémarrage forcé après la surchauffe est un problème de carte son, suivi par des périphériques défectueux connectés à votre ordinateur.**
 
-De vieux pilotes de carte sond peuvent poser des problèmes avec osu!, mais ce n'est pas un problème pour la plupart des gens. Essayez de mettre à jour les pilotes de votre carte son et carte mère.
+De vieux pilotes de carte son peuvent poser des problèmes avec osu!, mais ce n'est pas le cas pour la plupart des gens. Essayez de mettre à jour les pilotes de votre carte son et carte mère.
 
-Vous devriez aussi essayez de retirer certains de périphériques attachés via USB à votre ordinateur, surtout s'ils intéragissent avec le son de n'importe quelle manière. Les casques ou cartes son USB peuvent causer des problèmes des fois si leur port ou eux mêmes sont défectueux.
+Vous devriez aussi essayez de retirer certains des périphériques attachés via USB à votre ordinateur, surtout s'ils intéragissent avec le son de n'importe quelle manière. Les casques ou cartes son USB peuvent causer des problèmes si leur port ou eux mêmes sont défectueux.
 
 #### Ça continue d'arriver !
 
-Si tout ce que nous vous avons proposé précedemment ne vous a pas aidé, envoyez un ticket au support à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le plus d'informations que vous puissiez nous fournir - ce qui inclut les spécifications de votre ordinateur, le modèle ainsi que toutes informations que vous pensez utiles pour que nous puissions vous aider au mieux.
+Si tout ce que nous vous avons proposé précédemment ne vous a pas aidé, envoyez un ticket au support à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le plus d'informations que vous puissiez nous fournir - ce qui inclut les spécifications de votre ordinateur, le modèle ainsi que toutes informations que vous pensez utiles pour que nous puissions vous aider au mieux.
 
-### J'ai changé mes paramètres, et maintenant je ne peut plu démarrer osu! ou il gèle.
+### J'ai changé mes paramètres, et maintenant je ne peut plus démarrer osu! ou il gèle.
 
 **Réinitialiser les paramètres d'osu! corrigera ce problème la plupart du temps.**
 
@@ -271,7 +271,7 @@ Suivez ces étapes pour réinitialiser les paramètres d'osu! :
 1. Maintenez `Shift` appuyé.
 2. Double-cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
 3. Maintenez `Shift` jusqu'à ce que vous voyez le dialogue de configuration d'osu!.
-4. lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
+4. Lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
 5. Si vous n'avez vraiment pas de chance, rouvrez le dialogue et cliquez sur `repair osu!`.
 
 
@@ -344,7 +344,7 @@ Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F
 
 **C'est généralement un problème avec votre PC, et rarement causé par une mise à jour.**
 
-osu! se garde à jour tout seul, mais parfois ça peu mal se passer.
+osu! se garde à jour tout seul, mais parfois ça peut mal se passer.
 
 Nous vous recommandons tout d'abord de redémarrer votre PC. Cela va corriger la plus grande partie des problèmes que vous êtes susceptibles de rencontrer.
 
@@ -354,10 +354,10 @@ Vous pouvez aussi forcer le jeu à se mettre à jour.
 
 #### Comment vérifier la chaîne de mise à jour ?
 
-**Ce peut être changé dnas le menu d'options du jeu.**
+**Ce peut être changé dans le menu Options du jeu.**
 
 1. Ouvrez *osu!*.
-2. Entre dans le menu `Options` ou appuez sur `Control` + `O` par défaut.
+2. Entre dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
 3. Écrivez `release` dans la recherche rapide.
 4. Assurez-vous que le menu déroulant indique `Stable (Latest)` pour recevoir les dernières versions stables du jeu.
 
@@ -394,7 +394,7 @@ Voir [ce sujet](http://answers.microsoft.com/en-us/windows/forum/windows_vista-w
 
 Cela aide à s'identifier et à séparer ses messages des autres. Il n'y a pas d'option pour désactiver ce comportement pour l'instant.
 
-### Il me manque certaines beatmaps manquent !
+### Certaines beatmaps manquent !
 
 **Soyez sûrs de ne pas rechercher de beatmaps avec certains critères (comme les nombre d'étoiles, l'approach rate, et ainsi de suite).**
 
@@ -452,7 +452,7 @@ Vous ne recevrez ni messages publiques, ni messages privés venant des utilisate
 
 #### Bloquer tous les utilisateurs qui ne sont pas en amis
 
-Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des messages privés, suivez les étapes suivantes. **NotezPlease note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des messages privés, suivez les étapes suivantes. **Sachez que les modérateurs ne sont pas affectés pas cette fonctionnalité et pourront toujours vous envoyer des messages privés. Si un modérateur vous dérange beaucoup, vous devriez contacter l'[équipe du support](mailto:support@ppy.sh).**
 
 1. Cliquez sur le bouton `Options` en jeu ou appuyez sur `Control` + O sur votre clavier
 2. Écrivez "block" pour trouver l'option dans la section "Chat".
@@ -461,7 +461,7 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 
 #### Bloquer les posts de forum d'un utilisateur
 
-**Pour cacher la plupart des prosts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
+**Pour cacher la plupart des posts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
 
 1. Dirigez-vous vers la [liste de vos ennemis dans l'UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) et ajoutez simplement leur nom d'utilisateur à cette liste.
 2. Cliquez sur Submit.
@@ -483,13 +483,13 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 
 **N'ayez crainte, notre équipe de modération vous aidera.**
 
-Si un utilisateur vous harcèle toujours, ou utilise ses amis ou quelqu'un d'autre pour contourner ces blocages, veuillez nous contacter via un email à [support@ppy.sh](mailto:support@ppy.sh).
+Si un utilisateur vous harcèle toujours, ou utilise ses amis ou quelqu'un d'autre pour contourner ces blocages, veuillez nous contacter via email à [support@ppy.sh](mailto:support@ppy.sh).
 
 N'oubliez pas d'inclure des logs ou autres preuves dans l'email, et notre équipe du support se penchera sur votre cas et vous aidera.
 
 ### Qu'est-ce que sont ces "user pages" que je peux voir sur le profil des autres joueurs ?
 
-**les user pages sont des éléments spéciaux auquels tous les joueurs avec le [supporter tag](https://osu.ppy.sh/home/support) ont accès. Ils peuvent contenir ce que vous voulez - des images de vos succès, vos beatmaps, basiquement tout !**
+**Les user pages sont des éléments spéciaux auquels tous les joueurs avec le [supporter tag](https://osu.ppy.sh/home/support) ont accès. Ils peuvent contenir ce que vous voulez - des images de vos succès, vos beatmaps, basiquement tout !**
 
 Les joueurs avec un [supporter tag](https://osu.ppy.sh/home/support) ont le privilège d'éditer leur propre page. Les user pages peuvent contenir ce que vous souhaitez - tant que le contenu suit les [règles de communauté](/wiki/Rules)!
 
@@ -497,11 +497,11 @@ Si votre [supporter tag](https://osu.ppy.sh/home/support) arrive en fin de vie, 
 
 ### Ai-je besoin d'une adresse email pour m'enregistrer ?
 
-**Non, vous n'en avez pas besoin. Nous vous authetifions via le jeu, un email n'est donc pas nécessaire pour s'enregistrer.**
+**Non, vous n'en avez pas besoin. Nous vous authentifions via le jeu, un email n'est donc pas nécessaire pour s'enregistrer.**
 
 Si vous avez des problèmes pour vous connecter en jeu, veuillez vérifier votre pare-feu et votre antivirus pour vous assurer qu'osu! n'est pas bloqué.
 
-Bien qu'un email n'est pas requis, nous vous recommandons d'en associer un à votre compte, puisque qi vous perdez votre mot de passe ou ne pouvez pas accéder à votre compte, votre email ets notre premier point de contact avec vous.
+Bien qu'un email n'est pas requis, nous vous recommandons d'en associer un à votre compte, puisque di vous perdez votre mot de passe ou ne pouvez pas accéder à votre compte, votre email est notre premier point de contact avec vous.
 
 ### Pourquoi je ne peux pas rechercher de beatmaps d'un artiste dont le nom est composé de moins de 3 caractères ?
 
@@ -529,11 +529,11 @@ Si vous avez changé la configuration des touches pour montrer ou cacher le scor
 
 Il y a quelques raisons pour que cela arrive. Lisez la suite !
 
-#### Avez-vous récemment réinstalùlé le jeu ?
+#### Avez-vous récemment réinstallé le jeu ?
 
 **Réinstaller le jeu va automatiquement supprimer tous vos scores locaux.**
 
-Ils sont malheureusement partis, pout toujours.
+Ils sont malheureusement partis, pour toujours.
 
 Les scores que vous avez soumis en ligne seront toujours là cependant - il suffit de retélécharger n'importe quelle musique que vous avez déjà joué et votre score réapparaîtra.
 
@@ -551,13 +551,13 @@ Vous pouvez changer de mode de jeu en utilisant le bouton `Mode` en bas à gauch
 
 **Malheureusement, les scores faits hors-ligne ne peuvent pas être ajoutés au classement en ligne.**
 
-Si vous jouez en ligne et que vous souffrez de déconnexions vrèves pour n'importe quelle raison, le jeu essayera automatiquement d'envoyer les scores tant que le client est ouvert.
+Si vous jouez en ligne et que vous souffrez de déconnexions brèves pour n'importe quelle raison, le jeu essayera automatiquement d'envoyer les scores tant que le client est ouvert.
 
 #### Avez-vous récemment téléchargé beaucoup de beatmaps ? (comme un beatmap pack)
 
 **Les scores peuvent mettre du temps à être téléchargé si vous chargez beaucoup de beatmaps d'un coup.**
 
-Jouer ou fair euatre chose permet au jeu de se rattraper.
+Jouer ou faites autre chose permet au jeu de se rattraper.
 
 ### Quel est ce trait blanc ressemblant à de la fumée derrière mon curseur ?
 
@@ -573,17 +573,17 @@ La touche par défaut pour cette fonctionnalité est `C`, et ça fonctionnera ta
 
 *osu!* sauvegarde aussi automatiquement tous les replays après que vous complétez une musique se situant sous le dossier `/Data/r/`, lui aussi dans le dossier d'installation d'osu!.
 
-Sachez que si aucun replay n'a été sauegardé pour le score, vous ne serez pas capables d'en avoir un.
+Sachez que si aucun replay n'a été sauvegardé pour le score, vous ne serez pas capables d'en avoir un.
 
 ### osu! me dit que mon client est trop ancien !
 
-**C'est l'heure de la mise à jour ! Les très vieilles versions du jeu ne sont pas autorisées à soumettre de nouveaux scores, vous devez donc forcer la mise à jour an allant dans `Options` -> `General` -> `Lancer le logiciel de mise à jour`.**
+**C'est l'heure de la mise à jour ! Les très vieilles versions du jeu ne sont pas autorisées à soumettre de nouveaux scores, vous devez donc forcer la mise à jour en allant dans `Options` -> `General` -> `Lancer le logiciel de mise à jour`.**
 
 Si ça ne fonctionne pas, vous pouvez fermer osu! et redémarrer osu.exe tout en tenant la touche `Shift`. Cela va vous offrire quelques options de mise à jour et de réparation, une de celles-là vous permet de mettre à jour votre jeu.
 
-### Mes socres ne se soumettent pas !
+### Mes scores ne se soumettent pas !
 
-Oops! Il peut y avoir plusieurs raisons pour que cela arrive:
+Oops ! Il peut y avoir plusieurs raisons pour que cela arrive:
 
 #### Êtes vous connecté à Internet en jouant ?
 
@@ -593,19 +593,19 @@ Ce peut être frustrant si jouez avec un mauvaise connexion, mais le jeu essayer
 
 #### osu! est-il autorisé dans votre pare-feu et/ou antivirus ?
 
-**Quelques pare-feu et ativirus peuvent empêcher osu! d'accéder à Internet, ce qui empêche le jeu d'envoyer les scores.**
+**Quelques pare-feu et antivirus peuvent empêcher osu! d'accéder à Internet, ce qui empêche le jeu d'envoyer les scores.**
 
-Vérifiez ces programmes pour vous assurer qu'`osu!.exe` dans le dossier d'installation du jeu est aiutorisé à accéder à Internet.
+Vérifiez ces programmes pour vous assurer qu'`osu!.exe` dans le dossier d'installation du jeu est autorisé à accéder à Internet.
 
 #### Est-ce que beaucoup de programmes tournent en fond ?
 
-**Certains d'entre eux peuvent bloquer l'envoi des scoress.**
+**Certains d'entre eux peuvent bloquer l'envoi des scores.**
 
-Essayez de fermer tous les autre sprogrammes avant de jouer à osu! si vous rencontrez des problèmes pour soumettre vos scores et que vous n'avez aucun problème de connexion.
+Essayez de fermer tous les autres programmes avant de jouer à osu! si vous rencontrez des problèmes pour soumettre vos scores et que vous n'avez aucun problème de connexion.
 
 #### Est-ce que le serveurs de scores sont disponibles ?
 
-**La réponse st très souvent oui, mais vérifiez [stat.ppy.sh](https://stat.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
+**La réponse est très souvent oui, mais vérifiez [stat.ppy.sh](https://stat.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
 
 Si les serveurs sont hors-ligne, ne fermez pas _osu!_ jusqu'à ce que nous corrigions les problèmes et que les serveurs ne reviennent, et le jeu tentera de soumettre les score jusqu'à une heure après avoir été faits avant d'abandonner.
 
@@ -619,13 +619,13 @@ Si vous n'avez pas pu poster un score à cause de raisons techniques ou autre, l
 
 **Ce peut être dû à un logiciel de traitement de son, comme _Razer Surround Audio_. Ce peut être aussi dû à votre `Décalage Audio` mal configuré.**
 
-fermez tous les logiciels qui peuvent altérer ou influencer le son provenant de votre ordinateur. Si ça n'aide pas, vous pouvez essayer d'ajuster votre `Décalage Audio`.
+Fermez tous les logiciels qui peuvent altérer ou influencer le son provenant de votre ordinateur. Si ça n'aide pas, vous pouvez essayer d'ajuster votre `Décalage Audio`.
 
 Chaque configuration matérielle a un `Décalage Audio` qui détermine si vous entendez l'audio du jeu un peu avant ou un peu après.
 
 Les valeurs par défaut fonctionnent pour la plupart des gens, mais si ce n'est pas votre cas, vous pouvez le changer en suivant les étapes suivantes:
 
-- Allez dans le menu `Options`, et trouvez le glissoire `Dacalage Audio` sous l'en-tête `Décalage Audio`. La valeur par défaut est 0, et vous devriez la changer si besoin.
+- Allez dans le menu `Options`, et trouvez le glissoire `Décalage Audio` sous l'en-tête `Décalage Audio`. La valeur par défaut est 0, et vous devriez la changer si besoin.
 - Si la valeur par défaut (0) ne vous convient pas, essayez le bouton `Démarrer l'assistant` pour en définir une nouvelle.
 - Si ça ne vous convient toujours pas, vous devriez mettre à jour vos pilotes audio.
 
@@ -633,9 +633,9 @@ Les valeurs par défaut fonctionnent pour la plupart des gens, mais si ce n'est 
 
 **Il y a beaucoup de raisons pour lesquelles il peut y avoir des problèmes de performance, des programmes sur votre ordinateur, aux pilotes non mis à jour, ou simplement de trop hauts paramètres.**
 
-#### Y a-t-il beaucoup de programmes ouvert avec osu!?
+#### Y a-t-il beaucoup de programmes ouverts avec osu!?
 
-**Certaines tâches de fond se battent avec osu! pour avoir des ressources, ci qui rend le jeu très déplaisant à jouer.**
+**Certaines tâches de fond se battent avec osu! pour avoir des ressources, ce qui rend le jeu très déplaisant à jouer.**
 
 Fermez les programmes dont vous n'avez pas besoin pour jouer à osu!.
 
@@ -671,7 +671,7 @@ La solution est simple: débrancher votre hub USB. Si la latence disparaît, vou
 
 **Quelques fois, une tâche de fond ou une application sur votre ordinateur peut envoyer de grandes requêtes demandant beaucoup de ressources d'un coup, ce qui fera agoniser votre machine.**
 
-C'est généralement réglé en fermant tou ce qui n'est pas essentiel à osu!. Les logiciels de torrent sont des gouffres à ressources, spécialement s'ils partagent le même espace disque sur lequel osu! est installé.
+C'est généralement réglé en fermant tout ce qui n'est pas essentiel à osu!. Les logiciels de torrent sont des gouffres à ressources, spécialement s'ils partagent le même espace disque que celui sur lequel osu! est installé.
 
 #### Le jeu a-t-il été récemment mis à jour ?
 
@@ -689,7 +689,7 @@ Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça
 
 Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
  
-Activer le VSync ying ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
+Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
 Les cartes graphiques NVidia récentes ont une option globale dans le Panneau de Contrôle NVidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
 
@@ -734,7 +734,7 @@ Authentifiez-vous dès que vous l'avez créé !
 
 **Vous pouvez faire ça via l'éditeur en jeu.**
 
-Pour mettre en ligne votre beatmap, allez dans l'éfiteur et allez dans `File` > `Upload Beatmap`.
+Pour mettre en ligne votre beatmap, allez dans l'éditeur et allez dans `File` > `Upload Beatmap`.
 
 Ça rendra votre beatmap disponible aux autres sur le site et créera un sujet dédié sur le forum. Pour mettre à jour votre beatmap, c'est la même chose.
 
@@ -758,7 +758,7 @@ Par défaut, chaque utilisateur a 2 slots en attente. Un slot est ajouté pour c
 
 **L'équipe ne répond pas aux requêtes de suppression de beatmaps.**
 
-Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dnas le Cimetière, ce qui se fera après un mois sans mises à jour.
+Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dans le Cimetière, ce qui se fera après un mois sans mises à jour.
 
 Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
