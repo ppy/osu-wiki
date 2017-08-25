@@ -34,7 +34,7 @@ Miembros del equipo
 | [ghm12](https://osu.ppy.sh/u/2594229) | Portugués | Moderación del Chat |
 | [heyronii](https://osu.ppy.sh/u/5642779) | Turco | Moderación del Chat |
 | [IamKwaN](https://osu.ppy.sh/u/1856463) | Cantonés, Chino | Moderación del Chat |
-| [juankristal](https://osu.ppy.sh/u/443656) | Español | Moderación del Chat, Tournaments |
+| [juankristal](https://osu.ppy.sh/u/443656) | Español | Moderación del Chat, Torneos |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Ruso | Moderación del Chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Francés, Ruso | Moderación del Chat |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Ruso | Moderación del Chat |
@@ -61,7 +61,7 @@ Miembros del equipo
 | [Tasha](https://osu.ppy.sh/u/1031958) | | Creación de osu!media |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | Soporte Técnico |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Coreano, Japonés | Moderación del Chat |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Español | Soporte Técnivo |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Español | Soporte Técnico |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polaco | Moderación del Chat |
 | [Uni](https://osu.ppy.sh/u/617106) | Holandés | Moderación del Chat |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Soporte Técnico |
