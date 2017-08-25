@@ -41,7 +41,7 @@ Team Members
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Chat Moderation |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat moderation, Forum Moderation |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Forum Moderation, Chat Moderation |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Chat Moderation, Forum Moderation |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat moderation, Technical support |
