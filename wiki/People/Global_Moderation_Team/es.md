@@ -25,7 +25,9 @@ Miembros del equipo
 | [Atrue's](https://osu.ppy.sh/u/1758523) | Chino | Moderación del Chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Moderación del Chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Creación de osu!media |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
+| [Deif](https://osu.ppy.sh/u/318565) | Español | Torneos |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Soporte Técnico |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Asistencia al Jugador |
 | [Flanster](https://osu.ppy.sh/u/447818) | Búlgaro | osu!idol hosting, Moderación del Chat |
 | [Gabe](https://osu.ppy.sh/u/654108) | Francés | Moderación del Chat |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polaco | Moderación del Chat |
@@ -35,35 +37,35 @@ Miembros del equipo
 | [juankristal](https://osu.ppy.sh/u/443656) | Español | Moderación del Chat, Tournaments |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Ruso | Moderación del Chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Francés, Ruso | Moderación del Chat |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Moderación del Chat |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polish | Moderación del Foro, Desarrollo |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Moderación del Chat |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Moderación del Chat |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | Ruso | Moderación del Chat |
+| [Marcin](https://osu.ppy.sh/u/722665) | Polaco | Moderación del Foro, Desarrollo |
+| [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderación del Chat |
+| [n0ah](https://osu.ppy.sh/u/3086393) | Holandés | Moderación del Chat |
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Moderación del Chat, Moderación del Foro |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
-| [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | Francés | Chat Moderation |
+| [Nyquill](https://osu.ppy.sh/u/682935) | Chino | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderación del Chat, Soporte Técnico |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Moderación del Chat |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Moderación del Chat |
-| [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Moderación del Chat, Administración de la Wiki |
+| [Pereira006](https://osu.ppy.sh/u/537344) | Portugués | Moderación del Chat |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Holandés | Moderación del Chat |
+| [Repflez](https://osu.ppy.sh/u/201392) | Español | Moderación del Chat, Administración de la Wiki |
 | [ruexia](https://osu.ppy.sh/u/385069) | PENDIENTE | PENDIENTE |
-| [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Moderación del Chat |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Moderación del Chat |
-| [shARPII](https://osu.ppy.sh/u/776257) | French | Moderación del Chat, Torneos |
-| [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Moderación del Chat |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Moderación del Chat |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Moderación del Chat |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Moderación del Chat |
-| [Stefan](https://osu.ppy.sh/u/626907) | German | Moderación del Chat, Moderación del Foro |
+| [S o h](https://osu.ppy.sh/u/2234772) | Japonése | Moderación del Chat |
+| [Saten](https://osu.ppy.sh/u/444506) | Sueco, Spanish | Moderación del Chat |
+| [shARPII](https://osu.ppy.sh/u/776257) | Francés | Moderación del Chat, Torneos |
+| [Shiro](https://osu.ppy.sh/u/113005) | Francés, Spanish | Moderación del Chat |
+| [Shockwave](https://osu.ppy.sh/u/251631) | Español | Moderación del Chat |
+| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesio | Moderación del Chat |
+| [Spkz](https://osu.ppy.sh/u/2964029) | Húngaro | Moderación del Chat |
+| [Stefan](https://osu.ppy.sh/u/626907) | Alemán | Moderación del Chat, Moderación del Foro |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Coreano | Moderación del Chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | Creación de osu!media |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | Soporte Técnico |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Moderación del Chat |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Soporte Técnivo |
-| [Ukami](https://osu.ppy.sh/u/820865) | Polish | Moderación del Chat |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| Coreano, Japonés | Moderación del Chat |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | Español | Soporte Técnivo |
+| [Ukami](https://osu.ppy.sh/u/820865) | Polaco | Moderación del Chat |
 | [Uni](https://osu.ppy.sh/u/617106) | PENDIENTE | PENDIENTE |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Soporte Técnico |
 | [WalterToro](https://osu.ppy.sh/u/5281416) | Español | Moderación del Chat, Moderación del Foro |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polish | Moderación del Chat |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Moderación del Chat |
-| [Zetera](https://osu.ppy.sh/u/587737) | German |  |
+| [Yason](https://osu.ppy.sh/u/2574392) | Polaco | Moderación del Chat |
+| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chino | Moderación del Chat |
+| [Zetera](https://osu.ppy.sh/u/587737) | Alemán |  |
