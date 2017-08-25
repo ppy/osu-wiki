@@ -21,7 +21,7 @@ Roller ve Sorumluluklar
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
-**Beatmap Atama Grubunun** üyeleri ana olarak [beklemedeki beatmapların](/wiki/Beatmaps)  derecelendirme döngüsüne sokmak için [modlanması](/wiki/Modding) ile sorumludur.
+**Beatmap Aday Gösterme Grubunun** üyeleri ana olarak [beklemedeki beatmapların](/wiki/Beatmaps)  derecelendirme döngüsüne sokmak için [modlanması](/wiki/Modding) ile sorumludur.
 BNler herhangi bir modlama işi ya da maplama ve modlama hakkında tavisye istemek için gidilecek ilk kişilerdir.
 
 Bir BN olmak
@@ -43,7 +43,7 @@ BNG'ye katılmak isteyen bir modder:
 + Mod gönderisinin ne zaman Kudosu aldığı önemli değildir, önemli olan gönderinin tarihi, UTC+0 olarak hangi saatte gönderildiği ve Kudosu alıp almadığıdır.
 
 ### Gerekli Minimum Skor Nasıl Hesaplanır
-+ Gerekli MiniMum Skor başvuran kişinin son aylardaki toplam `Kudosu Skoru` ve toplam `Mod Skoru` değerine bağlıdır. Bu değerleri belirlemek için bir matematik formülü kullanılır.
++ Gerekli Minimum Skor başvuran kişinin son aylardaki toplam `Kudosu Skoru` ve toplam `Mod Skoru` değerine bağlıdır. Bu değerleri belirlemek için bir matematik formülü kullanılır.
 + `Kudosu Skoru` aşağıdaki formüle göre hesaplanır:
 
 ![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Skoru Formülü")
@@ -61,7 +61,7 @@ BNG'ye katılmak isteyen bir modder:
 Takım Üyeleri
 ------------
 
-_Not: Tüm BNG üyeleri başka türlü belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/g/28).
+_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/g/28).
 
 Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandığını göstermekle beraber, o oyun modu ile sınırlı kalmaz.
 
