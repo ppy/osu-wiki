@@ -14,7 +14,7 @@ A score that was almost replicated 4 years back! [Rafis](https://osu.ppy.sh/u/25
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7TTxN6ul7ko" frameborder="0" allowfullscreen></iframe></br>
 
-[Rafis](https://osu.ppy.sh/u/2558286) continues his dominance on this article as he sets the number one score on [xi - Ascension to Heaven](https://osu.ppy.sh/b/807074) with an unfortunate 98.98% 2555x 1 miss play to snag 637pp; an FC could have been worth more than 660pp! Will this map finally be conquered soon? Maybe it might, but in the meantime, you will have to check out this insane score! 
+[Rafis](https://osu.ppy.sh/u/2558286) continues his dominance on this article as he sets the number one score on [xi - Ascension to Heaven](https://osu.ppy.sh/b/807074) with an unfortunate 98.98% 2555x 1 miss play to snag 637pp - an FC could have been worth more than 660pp! Will this map finally be conquered soon? Maybe it might, but in the meantime, you will have to check out this insane score! 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zByevoMS2ck" frameborder="0" allowfullscreen></iframe></br>
 
@@ -31,7 +31,7 @@ BLAST FROM THE PAST
 
 We blast ourselves back to 2015 where [rustbell](https://osu.ppy.sh/u/227717), known for his technical ability in maps, took an amazing 99.57% HDFL FC on [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/b/16266) to earn 211pp. Honestly speaking, you have to see it to believe it.
 
-Once again, do support osu!archive[https://www.reddit.com/r/osugame/comments/6uracb/osuarchive_4_rustbell_iosys_kanbu_de_todomatte/] (it is still ongoing on the osugame reddit) as they approach a week of amazing old scores!
+Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6uracb/osuarchive_4_rustbell_iosys_kanbu_de_todomatte/) (it is still ongoing on the osugame reddit) as they approach a week of amazing old scores!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-gtFEQQhUqI" frameborder="0" allowfullscreen></iframe></br>
 
@@ -41,9 +41,9 @@ NOTABLE MENTIONS
 
 The one and only [MinG3012](https://osu.ppy.sh/u/1583218) is back as he sets a brilliant 58.12% HDHR FC on [marina - Towa yori Towa ni](https://osu.ppy.sh/b/793846?m=0) to earn 298pp. This is one crazy score.
 
-Circle size 9.1? Not a problem for [Adamqs](https://osu.ppy.sh/u/613592), securing a breathtaking 97.15% HDHR FC on [Moonbaby - Here We Go](https://osu.ppy.sh/b/371621) to earn himself 238pp. This is really frightening to watch, but what an amazing score it is!
+Circle size 9.1? Not a problem for [Adamqs](https://osu.ppy.sh/u/613592), securing a breathtaking 97.15% HDHR FC on [Moonbaby - Here We Go](https://osu.ppy.sh/b/371621) to earn himself 238pp. Frightening to watch, but what an amazing score it is!
 
-[Flask](https://osu.ppy.sh/u/959763) may be a stranger to some, but he is on this week’s scorewatch after he set a crazy 99.48% HDHR FC on [xi - Akasha](https://osu.ppy.sh/b/877312) to take 572pp and the number three spot, beating out Adamqs himself! What a way to get your top score!
+[Flask](https://osu.ppy.sh/u/959763) may be a stranger to some, but he makes an appearance this week after he set a crazy 99.48% HDHR FC on [xi - Akasha](https://osu.ppy.sh/b/877312) to take 572pp and the number three spot, beating out Adamqs himself! What a way to get your top score!
 
 SCORESHOW WITH ZSEIKIMATSU
 -----
