@@ -65,7 +65,7 @@ Team Members
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
 | [Uni](https://osu.ppy.sh/u/617106) | Dutch | PENDIENTE |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation, Forum Moderation |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
 | [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
