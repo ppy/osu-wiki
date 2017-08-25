@@ -16,7 +16,7 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 Miembros del equipo
 -------------------
 
-**Ten en cuenta: Todos los miembros hablan inglés a menos que se diga lo contrario.** - [Página del equipo](http://osu.ppy.sh/g/4)
+*Ten en cuenta: Todos los miembros del GMT hablan inglés a menos que se diga lo contrario.* - [Página del equipo](http://osu.ppy.sh/g/4)
 
 | Nombres | Idiomas | Enfoque |
 | ----- | --------- | ------------- |
