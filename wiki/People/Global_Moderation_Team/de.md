@@ -15,7 +15,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 
 *Hinweis: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.* - [Team-Seite](http://osu.ppy.sh/g/4)
 
-| Name | Languages | Area of focus |
+| Name | Sprachen | Area of focus |
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italienisch | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Ungarisch | Chat Moderation |
