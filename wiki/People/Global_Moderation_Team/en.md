@@ -56,7 +56,7 @@ Team Members
 | [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Chat Moderation |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat moderation |
-| [Stefan](https://osu.ppy.sh/u/626907) | German | Forum Moderation, Chat Moderation |
+| [Stefan](https://osu.ppy.sh/u/626907) | German | Chat Moderation, Forum Moderation |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | Technical Support |
