@@ -25,7 +25,9 @@ Team Members
 | [Atrue's](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
+| [Deif](https://osu.ppy.sh/u/318565) | Spanish | PENDIENTE |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | PENDIENTE |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
 | [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polish | Chat Moderation |
@@ -46,7 +48,7 @@ Team Members
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Chat Moderation |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
-| [ruexia](https://osu.ppy.sh/u/385069) | PENDIENTE | PENDIENTE |
+| [ruexia](https://osu.ppy.sh/u/385069) | Korean | PENDIENTE |
 | [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Chat Moderation |
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Chat Moderation |
 | [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
@@ -61,7 +63,7 @@ Team Members
 | [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Chat moderation |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
-| [Uni](https://osu.ppy.sh/u/617106) | PENDIENTE | PENDIENTE |
+| [Uni](https://osu.ppy.sh/u/617106) | Dutch | PENDIENTE |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
 | [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
