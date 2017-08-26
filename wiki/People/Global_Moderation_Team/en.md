@@ -22,7 +22,7 @@ Team Members
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat moderation |
-| [Atrue's](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
 | [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
