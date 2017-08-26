@@ -32,16 +32,16 @@ Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50
 
 ### Related pages
 
-#### [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+* #### [Setup](/wiki/osu!tourney/setup_en.md "Setup")
 
-#### [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+* #### [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
 
-#### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+* #### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
 
-#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-#### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+* #### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
 
-#### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
+* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
 
-#### [Back to index](/wiki/osu!tourney/index_en.md "Index")
+### [Back to index](/wiki/osu!tourney/index_en.md "Index")

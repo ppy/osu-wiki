@@ -13,16 +13,16 @@ The client, henceforth referred to as _osu!tourney_ supports matches with 2 team
 
 ### Index
 
-#### [Setup](/wiki/osu!tourney/Setup/ "Setup")
+* #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
-#### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
+* #### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
 
-#### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
+* #### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
 
-#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-#### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+* #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
 
-#### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
+* #### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
 
-#### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
+* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
