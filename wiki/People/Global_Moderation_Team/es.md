@@ -18,7 +18,7 @@ Miembros del equipo
 
 *Ten en cuenta: Todos los miembros del GMT hablan inglés a menos que se diga lo contrario.* - [Página del equipo](http://osu.ppy.sh/g/4)
 
-| Nombres | Idiomas | Enfoque |
+| Nombre | Idioma | Enfoque |
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italiano | Moderación del Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Húngaro | Moderación del Chat |
