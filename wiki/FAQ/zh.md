@@ -16,7 +16,7 @@
 
 这个游戏的每个关卡，是架构在当下流行日文歌曲(的翻唱)的节奏内，以下为图片简介
 
-![](Ouendan.jpg "Ouendan.jpg")
+![](/wiki/shared/Ouendan.jpg)
 
 游戏在DS下方银幕进行,上方则是故事的进展程度，会随着玩家演出的好坏而变。每一个关卡是一个故事，讲叙每个关卡的主人所遇到的困难；魔法般的应援团（即日本传统式的加油队伍)必须支援主人走出困境。
 
@@ -31,19 +31,19 @@
 
 首先看看有没有打开菜单栏。如果有，osu!图标旁边将会有四个按钮。如果没有，那就在游戏主界面上面晃动鼠标或者点击osu!图标。
 
-出现的四个按钮分别为**"Play"（玩）**, **"Edit"（编辑）**, **"Options"（设置/选项）**,和**"Exit"（退出）**
+出现的四个按钮分别为 **Play（玩）**, **Edit（编辑）**, **Options（设置/选项）**, 和 **Exit（退出）**
 
-点击**"Play"**之后，四个按钮将分别为**"Solo"（单人）**, **"Multi"（多人）**和**"Back"（返回）**
+点击 **Play** 之后，四个按钮将变成 **Solo（单人）**, **Multi（多人）** 和 **Back（返回）**
 
-点击**"Solo"**按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](ZH:Taiko "wikilink")、[接水果模式(Catch the Beat)和](ZH:Catch_The_Beat "wikilink")[osu!mania模式](osu!mania "wikilink"))、歌曲和难度，然后开始游戏。
+点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](ZH:Taiko "wikilink")、[接水果模式(Catch the Beat)和](ZH:Catch_The_Beat "wikilink")[osu!mania模式](osu!mania "wikilink"))、歌曲和难度，然后开始游戏。
 
-点击**"Multi"**按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击New Game以建立房间。请参见[Multiplayer](Multiplayer "wikilink")(English)。
+点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击New Game以建立房间。请参见 [Multi](/wiki/Multi "wikilink") (English)。
 
 下面开始介绍osu!标准模式的游戏玩法。
 
 #### 点击圈圈 (Hit Circle)
 
-![](Hitcircles.jpg "Hitcircles.jpg")
+![](/wiki/shared/osu_hitcircles.jpg)
 
 上图为玩家必须点击的圈圈。外面的颜色圈圈会缩到有白色边缘的圈圈上，而玩家的目的是在颜色圈圈与白色边缘合在一起的同时，点击圈圈让它消失不见。
 
@@ -51,7 +51,7 @@
 
 #### 滑条 (Slider)
 
-![](Slider.jpg "Slider.jpg")
+![](/wiki/shared/osu_slider.jpg)
 
 如上图所显示，这里面多加了个滑条。首先，同样点击圈圈的方式，但是点击之后不要放手。点击之后顺着滑条跟着球走即可 （球只会沿着滑条走，切记）
 
@@ -59,7 +59,7 @@
 
 #### 大轮盘 (Spinner)
 
-![](Spinner.jpg "Spinner.jpg")
+![](/wiki/shared/osu_spinner.jpg)
 
 上图乃大轮盘。单击并按住鼠标，然后在蓝色圈圈没有缩到中间之前快速旋转轮盘以至过关。轮盘旁有显示让您了解您是否过了这一关的轮盘。玩任天堂DS时，这是刮坏银幕（或者银幕保护膜）的最佳办法。
 
@@ -69,7 +69,7 @@
 
 ### 游戏之内的界面
 
-![](Hierophobicintro.jpg "Hierophobicintro.jpg")
+![](/wiki/shared/Interface_osu.jpg)
 
 以上为游戏之内的界面。
 
@@ -137,30 +137,20 @@
 -   没有成功越过滑条尾端。
 -   在大轮盘末端转出了更多的分数。
 
-### 成绩发表(Grades)
+### 评分
 
-<span style="color: #FFBF00">SS</span>
+#### ![](/wiki/shared/Osu.gif) osu!
 
-100% 准确度
-<span style="color: #FFBF40">S</span>
-=====================================
+Grade| Condition
+:---:|:---
+SS | 100% 准确度
+S  | 300 超过 90%，50 低于 1% 并且没有失误
+A  | 300 超过 80% 并且没有失误 **或** 300 超过 90%
+B  | 300 超过 70% 并且没有失误 **或** 300 超过 80%
+C  | 300 超过 60%
+D  | 其它任何情况
 
-超过 90% 300, 少过 1% 50， 无失误.
-<span style="color: #00BF00">A</span>
-
-超过 80% 300<b>并</b>无失误 或者 超过 90% 300。
-<span style="color: #0000FF">B</span>
-===============================================
-
-超过 70% 300<b>并</b>无失误 或者 超过 80% 300。
-<span style="color: #FF00FF">C</span>
-
-超过 60% 300。
-<span style="color: #FF0000">D</span>
-=====================================
-
-其他。
-银色 <span style="color: #BFBFBF">S</span> 或 <span style="color: #BFBFBF">SS</span> 意味着玩家玩歌曲时，使用了 'hidden' or 'flashlight' 难度调整器并达到了<span style="color: #FFBF40">S</span>或<span style="color: #FFBF00">SS</span>的要求。
+银色 S 或 SS 意味着玩家玩歌曲时，使用了 hidden 或 flashlight 难度调整器并达到了 S 或 SS 的要求。
 
 ### 生命显示(Life bar)
 
