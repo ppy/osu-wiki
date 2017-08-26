@@ -72,3 +72,5 @@ In order to let every team member be in the right team within osu!tourney, playe
 #### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
 
 #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
+
+#### [Back to index](/wiki/osu!tourney/ "osu!tourney")

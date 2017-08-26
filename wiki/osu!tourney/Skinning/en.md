@@ -38,6 +38,8 @@ Icons can be in `.jpg` or `.png` format and have an optimal resolution of `50x50
 
 #### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
 
+#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+
 #### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
 
 #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")

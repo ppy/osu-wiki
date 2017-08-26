@@ -58,6 +58,8 @@ When you have modified the `tournament.cfg` file, restart osu! and the osu!tourn
 
 #### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
 
+#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+
 #### [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
 
 #### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
