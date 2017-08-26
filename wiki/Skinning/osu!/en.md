@@ -1,27 +1,27 @@
+Skinning osu!
+============
+
 [true]: /wiki/shared/True.png
 [false]: /wiki/shared/False.png
 
-# Skinning osu!
+Default numbers
+------------
 
-## Default numbers
+Numbers inside of the Hitcircles.
+A path to the images can be set inside the skin.ini using the `HitCirclePrefix` command.
 
-This may sound ambiguous/confusing, but this really is just the numbers used for the hitobjects.
+``default-X.png`` where X is a number 0 to 9
 
-On this note, you can use the skin.ini file to define the path for these images using the `HitCirclePrefix` command.
-
-### default-0.png
-
-![](fs/default-0.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-1.png
-
-![](fs/default-1.png)
+![default-0.png](fs/default-0.png "default-0.png")
+![default-1.png](fs/default-1.png "default-1.png")
+![default-2.png](fs/default-2.png "default-2.png")
+![default-3.png](fs/default-3.png "default-3.png")
+![default-4.png](fs/default-4.png "default-4.png")
+![default-5.png](fs/default-5.png "default-5.png")
+![default-6.png](fs/default-6.png "default-6.png")
+![default-7.png](fs/default-7.png "default-7.png")
+![default-8.png](fs/default-8.png "default-8.png")
+![default-9.png](fs/default-9.png "default-9.png")
 
 | Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
 |:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
@@ -29,89 +29,11 @@ On this note, you can use the skin.ini file to define the path for these images 
 
 - scaled down by 0.8x
 
-### default-2.png
 
-![](fs/default-2.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-3.png
-
-![](fs/default-3.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-4.png
-
-![](fs/default-4.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-5.png
-
-![](fs/default-5.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-6.png
-
-![](fs/default-6.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-7.png
-
-![](fs/default-7.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-8.png
-
-![](fs/default-8.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
-
-### default-9.png
-
-![](fs/default-9.png)
-
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![No][false] | ![Yes][true]      | all             | Centre       | -            | Normal     |
-
-- scaled down by 0.8x
 
 ## Hitcircle
 
-### approachcircle.png
+``approachcircle.png``
 
 ![](fs/approachcircle.png)
 
@@ -125,7 +47,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 - this element shrinks over time
 - this is the visual cue that can help a player know when to tap the hitobject
 
-### hitcircle.png
+``hitcircle.png``
 
 ![](fs/hitcircle.png)
 
@@ -135,7 +57,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 
 1. this element is tinted with the combo colours
 
-### hitcircleoverlay.png
+``hitcircleoverlay.png``
 
 ![](fs/hitcircleoverlay.png)
 
@@ -151,7 +73,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 - this can either overlay or underlay the combo number, by default this will always overlay
   - to make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`
 
-### hitcircleselect.png
+``hitcircleselect.png``
 
 ![](fs/hitcircleselect.png)
 
@@ -162,7 +84,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 - used only in the editor
 - this is the highlight for hitcircles and sliders
 
-### followpoint.png
+``followpoint.png``
 
 ![](fs/followpoint.png)
 
@@ -173,7 +95,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 - the arrow should point towards the RIGHT
 - this stays on the screen for 1.2 seconds (1200ms)
 
-### lighting.png
+``lighting.png``
 
 ![](fs/lighting.png)
 
@@ -193,7 +115,7 @@ On this note, you can use the skin.ini file to define the path for these images 
 
 ## Slider
 
-### sliderstartcircle.png
+``sliderstartcircle.png``
 
 _(transparent; not included)_
 
