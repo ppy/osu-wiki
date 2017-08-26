@@ -57,16 +57,16 @@ Liste des GM
 | [Shockwave](https://osu.ppy.sh/u/251631) | Espanol | modération du chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | modération du chat |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hongrois | modération du chat |
-| [Stefan](https://osu.ppy.sh/u/626907) | German | modération du chat, modération du forum |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | modération du chat |
+| [Stefan](https://osu.ppy.sh/u/626907) | Allemand | modération du chat, modération du forum |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | Coréen | modération du chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | rédacteur pour les osu!medias |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | support technique |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | Korean, Japonais | modération du chat |
+| [ToGlette](https://osu.ppy.sh/u/1076236) | Coréen, Japonais | modération du chat |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | Espanol | support technique |
 | [Ukami](https://osu.ppy.sh/u/820865) | Polonais | modération du chat |
 | [Uni](https://osu.ppy.sh/u/617106) | Néerlandais | modération du chat |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | support technique |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | modération du chat, modération du forum |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polish | modération du chat |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Espanol | modération du chat, modération du forum |
+| [Yason](https://osu.ppy.sh/u/2574392) | Polonais | modération du chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinois | modération du chat |
-| [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
+| [Zetera](https://osu.ppy.sh/u/587737) | Allemand | Chat Moderation |
