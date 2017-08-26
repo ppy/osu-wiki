@@ -11,27 +11,18 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-## Index
+### Index
 
-### [Setup](/wiki/osu!tourney/Setup/ "Setup")
+#### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
-### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
+#### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
 
-### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
+#### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
 
-### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+#### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
 
-### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
+#### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
 
-------
-
-### Prizes
-
-We may award profile badges to first-place winners of tournaments meeting the following criteria:
-- This is the second or further iteration of the tournament.
-- The staff members involved in managing the tournament are **not** participating in the tournament themselves.
-- The tournament is run four or less times per year (seasonal).
-
-Please email tournaments@ppy.sh if your tournament meets this criteria.
+#### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")

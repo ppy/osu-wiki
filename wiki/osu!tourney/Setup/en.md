@@ -52,14 +52,16 @@ Close osu! and edit or add to the above lines as required for your tournament wi
 
 When you have modified the `tournament.cfg` file, restart osu! and the osu!tourney client will start with the updated settings.
 
-# Related pages
+### Related pages
 
-## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+#### [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
 
-## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+#### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
 
-## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+#### [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
 
-## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+#### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
 
-## [Back to index](/wiki/osu!tourney/index_en.md "Index")
+#### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
+
+#### [Back to index](/wiki/osu!tourney/index_en.md "Index")

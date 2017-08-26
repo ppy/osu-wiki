@@ -59,7 +59,7 @@ Do not forget to adjust the cropping to remove the black control panel from the 
 
 Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
 
-## Related pages
+### Related pages
 
 #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
@@ -70,5 +70,7 @@ Email tournaments@ppy.sh if you have a problem that is not listed here. Make sur
 #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
 #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+
+#### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
 
 #### [Back to index](/wiki/osu!tourney/ "osu!tourney")
