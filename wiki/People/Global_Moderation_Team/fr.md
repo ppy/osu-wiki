@@ -1,12 +1,7 @@
 Équipe de modération globale
 ==============================
 
-L**'équipe de modération globale** (*Global Moderation Team* ou *GMT* en anglais), dont les membres sont aussi connus sous le nom de **global mods** ou simplement **modos**, sont des membres du staff d'osu! dont l'objectif premier est d'encadrer la communauté sur le chat et le forum à l'aide du [règlement](/wiki/Rules). Tous les GM maîtrisent les bases (voire plus) en [beatmapping](/wiki/Beatmapping).
-
-**Note :** La GMT a fusionné avec le groupe des *Chat Moderators* le 20 Août 2015.
-
-Structure
----------
+L **'équipe de modération globale** (*Global Moderation Team* ou *GMT* en anglais), dont les membres sont aussi connus sous le nom de **global mods** ou simplement **modos**, sont des membres du staff d'osu! dont l'objectif premier est d'encadrer la communauté sur le chat et le forum à l'aide du [règlement](/wiki/Rules). Tous les GM maîtrisent les bases (voire plus) en [beatmapping](/wiki/Beatmapping).
 
 Devenir un GM
 -------------
@@ -18,8 +13,6 @@ Rôle et responsabilités
 
 L'équipe de modération globale est responsable du maintien de la bonne ambiance sur le chat et le forum et sont prêts à donner des sanctions en cas d'infraction du règlement. Ils sont disponibles à tout joueur ayant des questions pertinentes concernant le jeu et son fonctionnement général ou diverses infractions.
 
-Malgré leur travail de modération important, ils peuvent, tout comme les [QAT](/wiki/People/Quality_Assurance_Team) et les [BN](/wiki/People/Beatmap_Nomination_Group), aider à l'amélioration des beatmaps de la communauté.
-
 Liste des GM
 ------------
 
@@ -28,9 +21,12 @@ Liste des GM
 
 | Name | Languages | Area of focus |
 | ----- | --------- | ------------- |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Italien | modération du chat |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | modération du chat |
+| [Atrue's](https://osu.ppy.sh/u/1758523) | Chinese | modération du chat |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | modération du chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | rédacteur pour les osu!medias |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | support technique |
-| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | Spanish | modération du chat |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, modération du chat |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polish | modération du chat |
 | [ghm12](https://osu.ppy.sh/u/2594229) | Portuguese | modération du chat |
@@ -49,7 +45,7 @@ Liste des GM
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | modération du chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | modération du chat |
 | [QHideaki13](https://osu.ppy.sh/u/733998) | Malaysian | modération du chat |
-| [Repflez](https://osu.ppy.sh/u/201392) | Spanish | modération du chat, administration du wiki |
+| [Repflez](https://osu.ppy.sh/u/201392) | Espanol | modération du chat, administration du wiki |
 | [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | modération du chat |
 | [shARPII](https://osu.ppy.sh/u/776257) | French | modération du chat, organisation de tournois |
 | [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | modération du chat |
@@ -67,4 +63,3 @@ Liste des GM
 | [XavierJones](https://osu.ppy.sh/u/495733) | Turkish | modération du chat |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | modération du chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | modération du chat |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | modération du chat |
