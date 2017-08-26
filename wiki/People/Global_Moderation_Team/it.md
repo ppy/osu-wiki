@@ -25,7 +25,7 @@ Membri
 | [Atrue](https://osu.ppy.sh/u/1758523) | Cinese | Moderazione della chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Moderazione della chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | creazione di osu!media |
-| [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tornei |
+| [Deif](https://osu.ppy.sh/u/318565) | Spagnolo | Tornei |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Supporto Tecnico |
 | [Ephemeral](https://osu.ppy.sh/u/102335) | | Assistenza Giocatori |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgaro | osu!idol hosting, Moderazione della chat |
