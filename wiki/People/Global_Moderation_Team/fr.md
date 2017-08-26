@@ -69,4 +69,4 @@ Liste des GM
 | [WalterToro](https://osu.ppy.sh/u/5281416) | Espanol | modération du chat, modération du forum |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polonais | modération du chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinois | modération du chat |
-| [Zetera](https://osu.ppy.sh/u/587737) | Allemand | Chat Moderation |
+| [Zetera](https://osu.ppy.sh/u/587737) | Allemand | modération du chat |
