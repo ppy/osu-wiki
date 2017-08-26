@@ -58,3 +58,15 @@ In order to let every team member be in the right team within osu!tourney, playe
 ---
 
 ![TeamSize = 1](Teamsize1.png "TeamSize = 1")
+
+# Related pages
+
+## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+
+## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+
+## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+
+## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+
+## [Back to index](/wiki/osu!tourney/index_en.md "Index")

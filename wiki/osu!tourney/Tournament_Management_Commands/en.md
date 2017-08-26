@@ -63,3 +63,5 @@ The following is an example of command usage:
 - `!mp start` - Start the match instantaneously.
 
 We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").
+
+## [Back to index](/wiki/osu!tourney/index_en.md "Index")

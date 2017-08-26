@@ -58,3 +58,15 @@ Do not forget to adjust the cropping to remove the black control panel from the 
 ## My issue/question is not listed here! What to do?
 
 Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
+
+# Related pages
+
+## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+
+## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+
+## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+
+## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+
+## [Back to index](/wiki/osu!tourney/index_en.md "Index")

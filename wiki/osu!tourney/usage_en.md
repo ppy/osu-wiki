@@ -61,3 +61,15 @@ The functionalities of each of the text boxes in the control panel at the bottom
 
 - `Annotation text`: The text to show on the annotation.
 - `Best Of`: Updates the star count at the top with the amount of beatmaps each team needs to win.
+
+# Related pages
+
+## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+
+## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+
+## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+
+## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+
+## [Back to index](/wiki/osu!tourney/index_en.md "Index")
