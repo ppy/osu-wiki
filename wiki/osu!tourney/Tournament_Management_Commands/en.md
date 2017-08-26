@@ -64,4 +64,16 @@ The following is an example of command usage:
 
 We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").
 
-## [Back to index](/wiki/osu!tourney/index_en.md "Index")
+## Related pages
+
+### [Setup](/wiki/osu!tourney/Setup/ "Setup")
+
+### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
+
+### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
+
+### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+
+### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
+
+### [Back to index](/wiki/osu!tourney/ "osu!tourney")

@@ -11,17 +11,21 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-# Index
+## Index
 
-## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
-## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
 
-## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
 
-## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+
+### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
+
+------
 
 ### Prizes
 

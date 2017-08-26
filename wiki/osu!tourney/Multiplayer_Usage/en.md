@@ -59,14 +59,16 @@ In order to let every team member be in the right team within osu!tourney, playe
 
 ![TeamSize = 1](Teamsize1.png "TeamSize = 1")
 
-# Related pages
+## Related pages
 
-## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
-## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
 
-## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
+### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
 
-## [Back to index](/wiki/osu!tourney/index_en.md "Index")
+### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
+
+### [Back to index](/wiki/osu!tourney/ "osu!tourney")
