@@ -44,7 +44,7 @@ Anggota Tim
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Filipina | Moderasi Chat, Moderasi Forum |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Perancis | Moderasi Chat |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Cina | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat moderation, Technical support |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Moderasi Chat, Dukungan Teknis |
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portugis | Moderasi Chat |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Belanda | Moderasi Chat |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |
@@ -65,7 +65,7 @@ Anggota Tim
 | [Ukami](https://osu.ppy.sh/u/820865) | Polandia | Moderasi Chat |
 | [Uni](https://osu.ppy.sh/u/617106) | Belanda | Moderasi Chat |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Dukungan Teknis |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Moderasi Chat, Moderasi Forum |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanyol | Moderasi Chat, Moderasi Forum |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polandia | Moderasi Chat |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Cina | Moderasi Chat |
 | [Zetera](https://osu.ppy.sh/u/587737) | Jerman | Moderasi Chat |
