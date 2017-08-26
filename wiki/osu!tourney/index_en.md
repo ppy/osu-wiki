@@ -7,11 +7,19 @@ Users encountering **problems** with the client may read the Troubleshooting sec
 ## What is osu!tourney?
 
 The osu!tourney client is the official streaming client used to spectate all players in a multiplayer room simultaneously.
-It is, currently, only meant to be used for world cups and might therefore be limited in its behaviour.
+It is, currently, only meant to be used for world cups and might therefore be limited in its behaviour. (You can still use it personally though, read multiplayer usage for more info.)
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
+## [Setup](/wiki/osu!tourney/setup_en.md "Setup")
+
+## [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
+
 ## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
+
+## [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
+
+## [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
 
 ### Prizes
 

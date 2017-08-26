@@ -1,4 +1,3 @@
-
 # Setup
 
 **Note:** osu!tourney currently requires an active supporter tag to use it.
