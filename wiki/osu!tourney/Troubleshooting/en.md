@@ -61,14 +61,14 @@ Email tournaments@ppy.sh if you have a problem that is not listed here. Make sur
 
 ## Related pages
 
-### [Setup](/wiki/osu!tourney/Setup/ "Setup")
+#### [Setup](/wiki/osu!tourney/Setup/ "Setup")
 
-### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
+#### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
 
-### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
+#### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
 
-### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
+#### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
 
-### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
+#### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
 
-### [Back to index](/wiki/osu!tourney/ "osu!tourney")
+#### [Back to index](/wiki/osu!tourney/ "osu!tourney")
