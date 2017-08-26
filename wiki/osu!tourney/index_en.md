@@ -11,7 +11,7 @@ It is, currently, only meant to be used for world cups and might therefore be li
 
 The client, henceforth referred to as _osu!tourney_ supports matches with 2 teams of up to 8 players each.
 
-## [Multiplayer Usage](/wiki/osu!tourney/ "Multiplayer session creation and handling")
+## [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
 
 ### Prizes
 
