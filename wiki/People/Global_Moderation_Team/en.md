@@ -19,7 +19,7 @@ Team Members
 *Please note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.* - [Team Page](https://osu.ppy.sh/g/4)
 
 | Name | Languages | Area of focus |
-| ----- | --------- | ------------- |
+| ---- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat moderation |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |

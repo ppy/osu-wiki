@@ -19,7 +19,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 *Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](http://osu.ppy.sh/g/4)
 
 | Name | Additional Languages Spoken | Area of focus |
-| ----- | --------- | ------------- |
+| ---- | --------------------------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat Moderation |

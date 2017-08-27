@@ -19,7 +19,7 @@ Anggota Tim
 *Harap dicatat: Semua GMT berbahasa Inggris kecuali disebutkan sebaliknya.* - [Halaman tim](http://osu.ppy.sh/g/4)
 
 | Nama | Bahasa | Fokus |
-| ----- | --------- | ------------- |
+| ---- | ------ | ----- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italia | Moderasi Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongaria | Moderasi Chat |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Cina | Moderasi Chat |

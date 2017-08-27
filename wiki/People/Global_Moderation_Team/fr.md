@@ -20,7 +20,7 @@ Liste des GM
 [Page du groupe](http://osu.ppy.sh/g/4)
 
 | Nom | Langues | Domaine d'intervention |
-| ----- | --------- | ------------- |
+| --- | ------- | ---------------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italien | modération du chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongrois | modération du chat |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chinois | modération du chat |

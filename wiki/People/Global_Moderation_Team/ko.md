@@ -19,7 +19,7 @@ GMT가 되는 방법
 *참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [Team Page](http://osu.ppy.sh/g/4)
 
 | Name | Additional Languages Spoken | Area of focus |
-| ----- | --------- | ------------- |
+| ---- | --------------------------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat Moderation |
