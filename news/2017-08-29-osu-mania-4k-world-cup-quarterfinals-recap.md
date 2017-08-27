@@ -8,16 +8,17 @@ This week, we’re gonna try switching up the recap format to something a little
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
-**Navigation**</br>
+### Navigation
 [Mappool Statistics](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
-The Quarterfinals 
+The Quarterfinals stage is 
 
-Blah Blah Blah QF stage.
+Without further ado, let's get right into the recap!
 
 ## Mappool Statistics<a name="mappool"></a>
-not enough Haitai in mappool
+
+**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.**  
 ## Tournament Matches<a name="tournament"></a></br>
 
 ### Saturday
@@ -68,7 +69,10 @@ We will see Sweden vs. Japan</br>
 We will see Poland vs. Indonesia </br>
 Winner of these two will face each other.
 
+**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/product/226).
+
 --------
+
 And that's it from me this week! As you may have noticed, I've tried spicing up the format of the recaps a little - hopefully this is a step in the right direction. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 
 See you next week!
