@@ -19,16 +19,15 @@ Miembros del equipo
 *Ten en cuenta: Todos los miembros del GMT hablan inglés a menos que se diga lo contrario.* - [Página del equipo](http://osu.ppy.sh/g/4)
 
 | Nombre | Idioma | Enfoque |
-| ----- | --------- | ------------- |
+| ------ | ------ | ------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italiano | Moderación del Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Húngaro | Moderación del Chat |
-| [Atrue's](https://osu.ppy.sh/u/1758523) | Chino | Moderación del Chat |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chino | Moderación del Chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Moderación del Chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Creación de osu!media |
 | [Deif](https://osu.ppy.sh/u/318565) | Español | Torneos |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Soporte Técnico |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | Asistencia al Jugador |
-| [Flanster](https://osu.ppy.sh/u/447818) | Búlgaro | osu!idol hosting, Moderación del Chat |
+| [Flanster](https://osu.ppy.sh/u/447818) | Búlgaro | Presentador osu!idol, Moderación del Chat |
 | [Gabe](https://osu.ppy.sh/u/654108) | Francés | Moderación del Chat |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polaco | Moderación del Chat |
 | [ghm12](https://osu.ppy.sh/u/2594229) | Portugués | Moderación del Chat |
