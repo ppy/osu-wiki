@@ -10,6 +10,7 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
 | [Agnes](https://osu.ppy.sh/u/136982) | GMT |
+| [alacat](https://osu.ppy.sh/u/869782) | QAT |
 | [Alace](https://osu.ppy.sh/u/25993) | BAT |
 | [Aleks719](https://osu.ppy.sh/u/360176) | QAT |
 | [An64fan](https://osu.ppy.sh/u/38836)	| BAT |
