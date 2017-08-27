@@ -37,7 +37,6 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-gtFEQQhUqI" frameborder="0" allowfullscreen></iframe></br>
 
-
 NOTABLE MENTIONS
 -----
 
@@ -53,9 +52,6 @@ SCORESHOW WITH ZSEIKIMATSU
 2 Polish greats, [WubWoofWolf](https://osu.ppy.sh/u/39828) and [Wilchq](https://osu.ppy.sh/u/2021758) duke on the map [positive MAD-crew - Mynarco Addiction](https://osu.ppy.sh/b/718679?m=0) with HDHR enabled!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DdNzpz7czs0" frameborder="0" allowfullscreen></iframe></br>
-
-
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 
