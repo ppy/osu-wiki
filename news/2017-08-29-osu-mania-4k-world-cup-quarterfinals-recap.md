@@ -22,7 +22,7 @@ not enough Haitai in mappool
 ## Tournament Matches<a name="tournament"></a>
 Loctav and p3n did loads
 
-![](/wiki/shared/news/2017-08-29-osu mania-4k-world-cup-quarterfinals-recap/FranceChile_game1.jpg)
+![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/FranceChile_game1.jpg)
 
 ## Looking Ahead...<a name="future"></a>
 The future is peppy
