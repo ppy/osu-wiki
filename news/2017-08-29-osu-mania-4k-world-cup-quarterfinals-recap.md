@@ -12,7 +12,7 @@ This week, we’re gonna try switching up the recap format to something a little
 [Mappool Statistics](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
-The Quarterfinals stage is 
+The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. 
 
 Without further ado, let's get right into the recap!
 
@@ -37,22 +37,24 @@ Without further ado, let's get right into the recap!
 
 **Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter was quite a bit closer, with Japan almost beating South Korea on their first pick *[yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866)*. 
 
+![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/SouthKoreaJapan_game2.jpg)
+
 **[New Zealand vs. Poland 0 - 5](https://osu.ppy.sh/community/matches/35602514)**
 
 **[China vs. Singapore 1 - 5](https://osu.ppy.sh/community/matches/35604433)**
 
-**Hong Kong vs. Sweden ended in a WBD in favour of Sweden**
+**Hong Kong vs. Sweden ended in a WBD in favour of Sweden.**
 
 **[Brazil vs. Indonesia 5 - 1](https://osu.ppy.sh/community/matches/35608732)**
 
 --------
 
-To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratualtions to them for making it to the Top 16!   
+To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16!   
 
 
 ## Looking Ahead...<a name="future"></a>
 
-Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a look:
+Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek:
   
 ### Winners Bracket
 
