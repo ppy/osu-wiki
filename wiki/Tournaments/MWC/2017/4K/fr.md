@@ -217,6 +217,22 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ## Résultats des matchs
 
+### Quarts de finale
+
+| Samedi 26 août 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![][flag_FR] | 4 | 5 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35585664) |
+| Argentine ![][flag_AR] | 1 | 5 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35588367) |
+| Canada ![][flag_CA] | 0 | 5 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35590366) |
+
+| Dimanche 27 août 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Corée du Sud ![][flag_KR] | 5 | 0 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35601021) |
+| Nouvelle-Zélande ![][flag_NZ] | 0 | 5 | ![][flag_PL] Pologne | [#1](https://osu.ppy.sh/community/matches/35602514) |
+| Singapour ![][flag_SG] | 1 | 5 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35604433) |
+| Hong-Kong ![][flag_HK] | 0 | 5 | ![][flag_SE] Suède | -Victoire par défaut- |
+| Brésil ![][flag_BR] | 5 | 1 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35608732) |
+
 ### Huitièmes de finale
 
 | Dimanche 20 août 2017 | | | | |
