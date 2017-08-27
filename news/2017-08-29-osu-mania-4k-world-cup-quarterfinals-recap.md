@@ -18,14 +18,29 @@ Blah Blah Blah QF stage.
 
 ## Mappool Statistics<a name="mappool"></a>
 not enough Haitai in mappool
-## Tournament Matches<a name="tournament"></a>
-**Right off the bat, our first match of [France vs. Chile](https://osu.ppy.sh/community/matches/35585664) ended with an intense tiebreaker.** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; a very good showing from both teams. A critical moment saw France losing by a hair on their own pick - [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). The tiny difference of 94 score was all Chile needed to secure their victory.
+## Tournament Matches<a name="tournament"></a></br>
+
+### Saturday
+
+**Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; a very good showing from both teams. A critical moment saw France losing by a hair on their own pick [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). This tiny difference of *94* score was all Chile needed to secure their eventual victory.
 
 ![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/FranceChile_game1.jpg)
 
+**The next match saw [Argentina put up a good fight against the United Kingdom](https://osu.ppy.sh/community/matches/35588367).** Not ready to take an early exit, the Brits fought fiercely and took the first two points in quick succession. Argentina regained their composure on their second pick, but United Kingdom's determination simply proved too strong, allowing them to win the match 1 - 5.
+
+**Rounding off matches for Saturday, [Canada was swept 0 - 5 by the United States](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick,  
+
+### Sunday
+
+**Blah**
+--------
+
+
+
+
 ## Looking Ahead...<a name="future"></a>
 
-Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to 8 exciting matches, 2 of which will remain unknown until the matches are fully underway! Let's have a look:
+Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a look:
 
 **Winners Bracket**</br>
 We will see team A vs team B</br>
