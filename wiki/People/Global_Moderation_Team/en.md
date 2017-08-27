@@ -20,11 +20,12 @@ Team Members
 
 | Name | Languages | Area of focus |
 | ----- | --------- | ------------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat moderation |
 | [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
+| [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
 | [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
@@ -38,8 +39,8 @@ Team Members
 | [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Chat moderation |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Chat Moderation |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat moderation |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Forum Moderation, Chat Moderation |
+| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat moderation, Forum Moderation |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Chat Moderation, Forum Moderation |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat moderation, Technical support |
@@ -54,7 +55,7 @@ Team Members
 | [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Chat Moderation |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
 | [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat moderation |
-| [Stefan](https://osu.ppy.sh/u/626907) | German | Forum Moderation, Chat Moderation |
+| [Stefan](https://osu.ppy.sh/u/626907) | German | Chat Moderation, Forum Moderation |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | Technical Support |
@@ -63,7 +64,7 @@ Team Members
 | [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
 | [Uni](https://osu.ppy.sh/u/617106) | Dutch | Chat Moderation |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation, Forum Moderation |
 | [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
-| [Zetera](https://osu.ppy.sh/u/587737) | German |  |
+| [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
