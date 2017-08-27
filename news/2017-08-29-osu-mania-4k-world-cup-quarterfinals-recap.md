@@ -28,7 +28,7 @@ not enough Haitai in mappool
 
 **The next match saw [Argentina put up a good fight against the United Kingdom](https://osu.ppy.sh/community/matches/35588367).** Not ready to take an early exit, the Brits fought fiercely and took the first two points in quick succession. Argentina regained their composure on their second pick, but United Kingdom's determination simply proved too strong, allowing them to win the match 1 - 5.
 
-**Rounding off matches for Saturday, [Canada was swept 0 - 5 by the United States](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick,  
+**Rounding off matches for Saturday, [Canada lost to the United States with 0 - 5](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was [noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099). Courtesy of US participant [stupud man](https://osu.ppy.sh/users/2141612), the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
 
 ### Sunday
 
