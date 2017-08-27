@@ -48,25 +48,37 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ------------------------------------------------------------------------
 
-## Calendrier des matchs : quarts de finale
+## Calendrier des matchs : demi-finales
 
-### Samedi 26 août 2017
-
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| France | ![][flag_FR] | ![][flag_CL] | Chili | **19h00 UTC** | 21h00 UTC +2 | 16h00 UTC -3 |
-| Argentine | ![][flag_AR] | ![][flag_GB] | Royaume-Uni | **20h30 UTC** | 17h30 UTC -3 | 21h30 UTC +1 |
-| Canada | ![][flag_CA] | ![][flag_US] | États-Unis | **22h00 UTC** | 17h00 UTC -5 | 17h00 UTC -5 |
-
-### Dimanche 27 août 2017
+### Samedi 2 septembre 2017
 
 | Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Corée du Sud | ![][flag_KR] | ![][flag_JP] | Japon | **9h00 UTC** | 18h00 UTC +9 | 18h00 UTC +9 |
-| Nouvelle-Zélande | ![][flag_NZ] | ![][flag_PL] | Pologne | **10h30 UTC** | 22h30 UTC +12 | 12h30 UTC +2 |
-| Singapour | ![][flag_SG] | ![][flag_CN] | Chine | **12h00 UTC** | 20h00 UTC +8 | 20h00 UTC +8 |
-| Hong-Kong | ![][flag_HK] | ![][flag_SE] | Suède | **13h30 UTC** | 21h30 UTC +8 | 15h30 UTC +2 |
-| Brésil | ![][flag_BR] | ![][flag_ID] | Indonésie | **15h00 UTC** | 12h00 UTC -3 | 22h00 UTC +7 |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Suède | ![][flag_SE] | ![][flag_JP] | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
+| Chine | ![][flag_CN] | ![][flag_FR] | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
+| Brésil | ![][flag_BR] | ![][flag_KR] | Corée du Sud | **14h00 UTC** | 11h00 UTC -3 | 23h00 UTC +9 | ¹ |
+| Pologne | ![][flag_PL] | ![][flag_ID] | Indonésie | **15h30 UTC** | 17h30 UTC +2 | 22h30 UTC +7 | ² |
+| Royaume-Uni | ![][flag_GB] | ![][flag_CA] | Canada | **17h00 UTC** | 18h00 UTC +1 | 12h00 UTC -5 | ² |
+| États-Unis | ![][flag_US] | ![][flag_CL] | Chili | **18h30 UTC** | 13h30 UTC -5 | 15h30 UTC -3 | ¹ |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | **20h00 UTC** | 22h00 UTC +2 | 15h00 UTC -5 | ³ |
+
+### Dimanche 3 septembre 2017
+
+| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Suède | ![][flag_SE] | ![][flag_PL] | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
+| Suède | ![][flag_SE] | ![][flag_ID] | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
+| Japon | ![][flag_JP] | ![][flag_PL] | Pologne | **12h30 UTC** | 21h30 UTC +9 | 14h30 UTC +2 | ³ |
+| Japon | ![][flag_JP] | ![][flag_ID] | Indonésie | **12h30 UTC** | 21h30 UTC +9 | 19h30 UTC +7 | ³ |
+| Chine | ![][flag_CN] | ![][flag_GB] | Royaume-Uni | **14h00 UTC** | 22h00 UTC +8 | 15h00 UTC +1 | ³ |
+| Chine | ![][flag_CN] | ![][flag_CA] | Canada | **14h00 UTC** | 22h00 UTC +8 | 9h00 UTC -5 | ³ |
+| France | ![][flag_FR] | ![][flag_GB] | Royaume-Uni | **14h00 UTC** | 16h00 UTC +2 | 15h00 UTC +1 | ³ |
+
+¹ Rencontre du tableau des gagnants
+
+² Rencontre du tableau des perdants
+
+³ La rencontre dépend du résultat de la ²rencontre du tableau des perdants
 
 ------------------------------------------------------------------------
 
