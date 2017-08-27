@@ -179,6 +179,28 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [DragonForce - The Warrior Inside (_underjoy)](http://osu.ppy.sh/b/1038662&m=3) [4K Collab Gladiator]
 
+### Semifinals
+
+**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
+
+- FreeMod
+  - [9mm Parabellum Bullet - Punishment (Valedict)](http://osu.ppy.sh/b/1128678&m=3) [Retribution]
+  - [Kaneko Chiharu - Lachryma<Re:Queen'M> (Fresh Chicken)](http://osu.ppy.sh/b/901050&m=3) [GRAVITY]
+  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf)](http://osu.ppy.sh/b/993976&m=3) [flnowers]
+  - [Ekcle - The Impulsive State (Parachor)](http://osu.ppy.sh/b/1364765&m=3) [Entropy_]
+  - [The Flashbulb - Passage D (Jinjin)](http://osu.ppy.sh/b/1016508&m=3) [Delve]
+  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus)](http://osu.ppy.sh/b/855471&m=3) [Arcwin Lost Tewicated]
+  - [USAO - Boss Rush (PiraTom)](http://osu.ppy.sh/b/1259719&m=3) [LN Rush]
+  - [Fele - Peter on Crack (Cut) (Jole)](http://osu.ppy.sh/b/1394763&m=3) [this is brain surgery]
+  - [Kidkanevil - Lantern 1 (Valedict)](http://osu.ppy.sh/b/1331160&m=3) [Fog]
+  - [Kontinuum - Lost (feat. Savoi) [Sunroof Remix] (Otakujanai)](http://osu.ppy.sh/b/1321781&m=3) [Emotional Drift]
+  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P)](http://osu.ppy.sh/b/1311355&m=3) [Dream]
+  - [Inferi - Those Who From the Heavens Came (XeoStyle)](http://osu.ppy.sh/b/897408&m=3) [Investiture of the Gods]
+  - [C-Show - ERROR CODE (SpectorDG)](http://osu.ppy.sh/b/1155393&m=3) [SPE vs. ZEN's GRAVITY]
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal)](http://osu.ppy.sh/b/1112725&m=3) [Team LNBY]
+- Tiebreaker
+  - [Camellia - Dans la mer de son (TheToaphster)](http://osu.ppy.sh/b/1295025&m=3) [Abyss]
+
 ------------------------------------------------------------------------
 
 ## Match Results
