@@ -53,7 +53,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ### Samedi 2 septembre 2017
 
 | Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
 | Suède | ![][flag_SE] | ![][flag_JP] | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
 | Chine | ![][flag_CN] | ![][flag_FR] | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
 | Brésil | ![][flag_BR] | ![][flag_KR] | Corée du Sud | **14h00 UTC** | 11h00 UTC -3 | 23h00 UTC +9 | ¹ |
@@ -65,7 +65,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ### Dimanche 3 septembre 2017
 
 | Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
 | Suède | ![][flag_SE] | ![][flag_PL] | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
 | Suède | ![][flag_SE] | ![][flag_ID] | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
 | Japon | ![][flag_JP] | ![][flag_PL] | Pologne | **12h30 UTC** | 21h30 UTC +9 | 14h30 UTC +2 | ³ |
@@ -78,7 +78,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ² Rencontre du tableau des perdants
 
-³ La rencontre dépend du résultat de la ²rencontre du tableau des perdants
+³ La rencontre dépend du résultat de la ²Rencontre du tableau des perdants
 
 ------------------------------------------------------------------------
 
