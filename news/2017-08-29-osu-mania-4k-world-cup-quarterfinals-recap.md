@@ -12,7 +12,7 @@ This week, we’re gonna try switching up the recap format to something a little
 [Mappool Statistics](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
-The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. 
+The Quarterfinals stage marked the start of a new phase in the tournament, where teams fought even harder in an effort to stay on top. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't phase any of them in the slightest. Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. 
 
 Without further ado, let's get right into the recap!
 
