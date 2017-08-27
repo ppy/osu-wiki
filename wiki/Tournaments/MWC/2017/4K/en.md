@@ -48,25 +48,37 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 26. August 2017
+### Saturday, 2. September 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| France | ![][flag_FR] | ![][flag_CL] | Chile | **19.00 UTC** | 21.00 UTC +2 | 16.00 UTC -3 |
-| Argentina | ![][flag_AR] | ![][flag_GB] | United Kingdom | **20.30 UTC** | 17.30 UTC -3 | 21.30 UTC +1 |
-| Canada | ![][flag_CA] | ![][flag_US] | United States | **22.00 UTC** | 17.00 UTC -5 | 17.00 UTC -5 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 | ² |
+| China | ![][flag_CN] | ![][flag_FR] | France | **12.30 UTC** | 20.30 UTC +8 | 14.30 UTC +2 | ² |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14.00 UTC** | 11.00 UTC -3 | 23.00 UTC +9 | ¹ |
+| Poland | ![][flag_PL] | ![][flag_ID] | Indonesia | **15.30 UTC** | 17.30 UTC +2 | 22.30 UTC +7 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_CA] | Canada | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 | ² |
+| United States | ![][flag_US] | ![][flag_CL] | Chile | **18.30 UTC** | 13.30 UTC -5 | 15.30 UTC -3 | ¹ |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | **20.00 UTC** | 22.00 UTC +2 | 15.00 UTC -5 | ³ |
 
-### Sunday, 27. August 2017
+### Sunday, 3. September 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **9.00 UTC** | 18.00 UTC +9 | 18.00 UTC +9 |
-| New Zealand | ![][flag_NZ] | ![][flag_PL] | Poland | **10.30 UTC** | 22.30 UTC +12 | 12.30 UTC +2 |
-| Singapore | ![][flag_SG] | ![][flag_CN] | China | **12.00 UTC** | 20.00 UTC +8 | 20.00 UTC +8 |
-| Hong Kong | ![][flag_HK] | ![][flag_SE] | Sweden | **13.30 UTC** | 21.30 UTC +8 | 15.30 UTC +2 |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **15.00 UTC** | 12.00 UTC -3 | 22.00 UTC +7 |
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **12.30 UTC** | 14.30 UTC +2 | 14.30 UTC +2 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | **12.30 UTC** | 14.30 UTC +2 | 19.30 UTC +7 | ³ |
+| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12.30 UTC** | 21.30 UTC +9 | 14.30 UTC +2 | ³ |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | **12.30 UTC** | 21.30 UTC +9 | 19.30 UTC +7 | ³ |
+| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 22.00 UTC +8 | 15.00 UTC +1 | ³ |
+| China | ![][flag_CN] | ![][flag_CA] | Canada | **14.00 UTC** | 22.00 UTC +8 | 9.00 UTC -5 | ³ |
+| France | ![][flag_FR] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 16.00 UTC +2 | 15.00 UTC +1 | ³ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ------------------------------------------------------------------------
 
@@ -179,9 +191,47 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 - Tiebreaker
   - [DragonForce - The Warrior Inside (_underjoy)](http://osu.ppy.sh/b/1038662&m=3) [4K Collab Gladiator]
 
+### Semifinals
+
+**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
+
+- FreeMod
+  - [9mm Parabellum Bullet - Punishment (Valedict)](http://osu.ppy.sh/b/1128678&m=3) [Retribution]
+  - [Kaneko Chiharu - Lachryma<Re:Queen'M> (Fresh Chicken)](http://osu.ppy.sh/b/901050&m=3) [GRAVITY]
+  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf)](http://osu.ppy.sh/b/993976&m=3) [flnowers]
+  - [Ekcle - The Impulsive State (Parachor)](http://osu.ppy.sh/b/1364765&m=3) [Entropy_]
+  - [The Flashbulb - Passage D (Jinjin)](http://osu.ppy.sh/b/1016508&m=3) [Delve]
+  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus)](http://osu.ppy.sh/b/855471&m=3) [Arcwin Lost Tewicated]
+  - [USAO - Boss Rush (PiraTom)](http://osu.ppy.sh/b/1259719&m=3) [LN Rush]
+  - [Fele - Peter on Crack (Cut) (Jole)](http://osu.ppy.sh/b/1394763&m=3) [this is brain surgery]
+  - [Kidkanevil - Lantern 1 (Valedict)](http://osu.ppy.sh/b/1331160&m=3) [Fog]
+  - [Kontinuum - Lost (feat. Savoi) [Sunroof Remix] (Otakujanai)](http://osu.ppy.sh/b/1321781&m=3) [Emotional Drift]
+  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P)](http://osu.ppy.sh/b/1311355&m=3) [Dream]
+  - [Inferi - Those Who From the Heavens Came (XeoStyle)](http://osu.ppy.sh/b/897408&m=3) [Investiture of the Gods]
+  - [C-Show - ERROR CODE (SpectorDG)](http://osu.ppy.sh/b/1155393&m=3) [SPE vs. ZEN's GRAVITY]
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal)](http://osu.ppy.sh/b/1112725&m=3) [Team LNBY]
+- Tiebreaker
+  - [Camellia - Dans la mer de son (TheToaphster)](http://osu.ppy.sh/b/1295025&m=3) [Abyss]
+
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 26. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![][flag_FR] | 4 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35585664) |
+| Argentina ![][flag_AR] | 1 | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35588367) |
+| Canada ![][flag_CA] | 0 | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35590366) |
+
+| Sunday, 27. August 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 5 | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35601021) |
+| New Zealand ![][flag_NZ] | 0 | 5 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/35602514) |
+| Singapore ![][flag_SG] | 1 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35604433) |
+| Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_SE] Sweden | -WIN BY DEFAULT- |
+| Brazil ![][flag_BR] | 5 | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35608732) |
 
 ### Round of 16
 
