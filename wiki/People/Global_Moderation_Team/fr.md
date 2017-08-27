@@ -23,7 +23,7 @@ Liste des GM
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italien | modération du chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongrois | modération du chat |
-| [Atrue's](https://osu.ppy.sh/u/1758523) | Chinois | modération du chat |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chinois | modération du chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | modération du chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | rédacteur pour les osu!medias |
 | [Deif](https://osu.ppy.sh/u/318565) | Espanol | organisation de tournois |

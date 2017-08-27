@@ -22,7 +22,7 @@ Anggota Tim
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italia | Moderasi Chat |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Hongaria | Moderasi Chat |
-| [Atrue's](https://osu.ppy.sh/u/1758523) | Cina | Moderasi Chat |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Cina | Moderasi Chat |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Moderasi Chat |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Pembuatan osu!media |
 | [Deif](https://osu.ppy.sh/u/318565) | Spanyol | Turnamen |

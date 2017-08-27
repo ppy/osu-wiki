@@ -27,6 +27,7 @@ Team Members
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
 | [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
 | [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
 | [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polish | Chat Moderation |

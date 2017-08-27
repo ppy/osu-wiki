@@ -19,7 +19,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ----- | --------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italienisch | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Ungarisch | Chat Moderation |
-| [Atrue's](https://osu.ppy.sh/u/1758523) | Chinesisch | Chat moderation |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chinesisch | Chat moderation |
 | [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media Ersteller |
 | [Deif](https://osu.ppy.sh/u/318565) | Spanisch | Tournaments |

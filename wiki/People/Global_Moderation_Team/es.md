@@ -27,6 +27,7 @@ Miembros del equipo
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Creación de osu!media |
 | [Deif](https://osu.ppy.sh/u/318565) | Español | Torneos |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Soporte Técnico |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Asistencia al Jugador |
 | [Flanster](https://osu.ppy.sh/u/447818) | Búlgaro | Presentador osu!idol, Moderación del Chat |
 | [Gabe](https://osu.ppy.sh/u/654108) | Francés | Moderación del Chat |
 | [Galkan](https://osu.ppy.sh/u/169570) | Polaco | Moderación del Chat |
