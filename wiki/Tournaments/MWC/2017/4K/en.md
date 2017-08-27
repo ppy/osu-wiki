@@ -53,7 +53,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Saturday, 2. September 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
 | Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 | ² |
 | China | ![][flag_CN] | ![][flag_FR] | France | **12.30 UTC** | 20.30 UTC +8 | 14.30 UTC +2 | ² |
 | Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14.00 UTC** | 11.00 UTC -3 | 23.00 UTC +9 | ¹ |
@@ -65,7 +65,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ### Sunday, 3. September 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **12.30 UTC** | 14.30 UTC +2 | 14.30 UTC +2 | ³ |
 | Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | **12.30 UTC** | 14.30 UTC +2 | 19.30 UTC +7 | ³ |
 | Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12.30 UTC** | 21.30 UTC +9 | 14.30 UTC +2 | ³ |
