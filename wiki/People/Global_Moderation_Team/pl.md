@@ -3,9 +3,6 @@ Moderatorzy globalni
 
 **Globalni Moderatorzy** (znani też jako Administratorzy, Global Mod Team lub “GreenBAT”), najczęściej nazywani **GMT**, są członkami załogi osu!. Ich zadaniem jest moderowanie czatów do których są przydzieleni.
 
-Struktura
----------
-
 Jak zostać GMT
 --------------
 
@@ -23,6 +20,10 @@ Członkowie zespołu
 
 | Nick | Języki | Główny obszar działania |
 | ----- | --------- | ------------- |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | Włoski | Chat moderation |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat moderation |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat moderation |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | Tworzenie osu!media |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Pomoc techniczna |
 | [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | Hiszpański | Moderacja czatu |
