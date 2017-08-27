@@ -12,7 +12,7 @@ This week, we’re gonna try switching up the recap format to something a little
 [Mappool Statistics](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
-The Quarterfinals stage marked the start of a new phase in the tournament, where teams fought even harder in an effort to stay on top. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't phase any of them in the slightest. Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. 
+The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight even harder in an effort to stay on top. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't phase any of them in the slightest. Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. 
 
 Without further ado, let's get right into the recap!
 
@@ -45,12 +45,13 @@ Without further ado, let's get right into the recap!
 
 **Hong Kong vs. Sweden ended in a WBD in favour of Sweden.**
 
-**[Brazil vs. Indonesia 5 - 1](https://osu.ppy.sh/community/matches/35608732)**
+**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last cry, and convincingly took a point off the dominating Brazillians on their own pick. Brazil definitely showed a strong performance this week, and I cannot wait to .
 
 --------
 
-To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16!   
+If you want to watch any of these matches, you can always check out the VODs [here](https://www.twitch.tv/osulive/videos/all).
 
+To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will  be descending into the Loser's Bracket. Good luck to all the remaining teams in this tournament!
 
 ## Looking Ahead...<a name="future"></a>
 
