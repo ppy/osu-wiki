@@ -50,6 +50,10 @@ Circle size 9.1? Not a problem for [Adamqs](https://osu.ppy.sh/u/613592), securi
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
+2 Polish greats, [WubWoofWolf](https://osu.ppy.sh/u/39828) and [Wilchq](https://osu.ppy.sh/u/2021758) duke on the map [positive MAD-crew - Mynarco Addiction](https://osu.ppy.sh/b/718679?m=0) with HDHR enabled!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DdNzpz7czs0" frameborder="0" allowfullscreen></iframe></br>
+
 
 
 
