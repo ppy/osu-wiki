@@ -36,29 +36,31 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 ### Saturday:
 
-**Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick *[Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706)*. This tiny difference of *94* score was all Chile needed to secure their eventual victory.
+**Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). This tiny difference of *94* score was all Chile needed to secure their eventual victory.
 
 ![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/FranceChile_game1.jpg)
 
 **The next match saw [Argentina put up a good fight against the United Kingdom](https://osu.ppy.sh/community/matches/35588367).** Not ready to take an early exit, the Brits fought fiercely and took the first two points in quick succession. Argentina regained their composure on their second pick, but United Kingdom's determination simply proved too strong, allowing them to win the match 1 - 5.
 
-**Rounding off matches for Saturday, [Canada lost to the United States with 0 - 5](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was *[noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099)*. Courtesy of US participant **[stupud man](https://osu.ppy.sh/users/2141612)**, the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
+**Rounding off matches for Saturday, [Canada lost to the United States with 0 - 5](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was [noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099). Courtesy of US participant **[stupud man](https://osu.ppy.sh/users/2141612)**, the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
 
 --------
 
 ### Sunday:
 
-**Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter was quite a bit closer, with Japan almost beating South Korea on their first pick *[yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866)*. 
+**Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter started off quite a bit closer, with Japan almost beating South Korea on their first pick [yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866), missing out by a score difference of *2,965*. However, South Korea's superior consistency really shone through, allowing them to win pick after pick despite Japan's best efforts to keep up.  
 
 ![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/SouthKoreaJapan_game2.jpg)
 
-**[New Zealand vs. Poland 0 - 5](https://osu.ppy.sh/community/matches/35602514)**
+**Our second match of the day saw [New Zealand against Poland, resulting in an overwhelming 0 - 5 defeat](https://osu.ppy.sh/community/matches/35602514).** As the mappool difficulty continues to rise, it is only natural that some teams will struggle to keep up. This is exactly the case here, where the high seeded Poland took full advantage of this fact, going for some of the trickier picks in the pool. Major props to the unseeded New Zealand for making it this far!
 
-**[China vs. Singapore 1 - 5](https://osu.ppy.sh/community/matches/35604433)**
+**[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. Singapore was able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
 
-**Hong Kong vs. Sweden ended in a WBD in favour of Sweden.**
+**Next up, Hong Kong vs. Sweden ended in a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks  sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/u/4544555)** was plagued with connectivity issues along with a myriad of unforutnate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
 
-**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last cry, and convincingly took a point off the dominating Brazillians on their own pick. Brazil definitely showed a strong performance this week, and I cannot wait to see their performance next week.
+![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/HongKongSweden_game3.jpg)
+
+**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last roar, and convincingly took a point off the dominating Brazillians on [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866). Brazil then proceeded to finish the match with [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) - a fitting conclusion to one of the more exciting matches over this weekend. 
 
 --------
 
@@ -84,6 +86,10 @@ Winner of these two will face each other
 We will see Sweden vs. Japan</br>
 We will see Poland vs. Indonesia </br>
 Winner of these two will face each other.
+
+--------
+
+**The first match for the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/product/226).
 
