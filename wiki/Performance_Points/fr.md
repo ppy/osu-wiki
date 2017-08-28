@@ -10,7 +10,7 @@ Histoire
 
 Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
 
-Désormais connu sous le nom de «pp», abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
+Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
 
 Plusieurs mois après, la [version (20120722-24) d'osu!](http://osu.ppy.sh/forum/p/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel. 
 
