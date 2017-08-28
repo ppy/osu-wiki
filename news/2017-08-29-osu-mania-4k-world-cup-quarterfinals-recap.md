@@ -8,7 +8,7 @@ This week, we’re gonna try switching up the recap format to something a little
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
-### Navigation
+### Navigation:
 [Mappool](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
@@ -26,12 +26,15 @@ Every single team was determined to make the most of their situation, all in the
 
 *"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been a pleasure constructing this mappool for you all."*
 
-### Mappool Statistics
-This week's most popular pick was 
- 
+### Mappool Statistics:
+
+This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866), having been played in every single match! The map also holds the distinction of being the "most accurate", though this is mostly because of its easier difficulty compared to the rest of the mappool. [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) and [NOISIA - Groundhog (Beat Juggle)](https://osu.ppy.sh/beatmapsets/591171#mania/1252742) were also two very popular maps, making appearances in a total of 5 matches each. 
+
+[Blue Stahli - Shotgun Senorita (Zardonic Remix)](https://osu.ppy.sh/beatmapsets/631861#mania/1341515) and [Akira Complex - Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/519513#mania/1103630) both made appearances in 6 matches each. The former was a devilishly tricky map featuring many long note patterns, while the latter was very technically demanding, requiring high accuracy. As a result of this, both maps were understandably banned 4 times each. Finally, [Maika - Goldrop](https://osu.ppy.sh/beatmapsets/587117#mania/1243241) received the least attention, being picked only once across all the matches.
+
 ## Tournament Matches<a name="tournament"></a></br>
 
-### Saturday
+### Saturday:
 
 **Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick *[Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706)*. This tiny difference of *94* score was all Chile needed to secure their eventual victory.
 
@@ -43,7 +46,7 @@ This week's most popular pick was
 
 --------
 
-### Sunday
+### Sunday:
 
 **Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter was quite a bit closer, with Japan almost beating South Korea on their first pick *[yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866)*. 
 
@@ -67,12 +70,12 @@ To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong K
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek:
   
-### Winners Bracket
+### Winners Bracket:
 
 The first match we will see is Brazil vs. South Korea</br>
 The second match we will see is United States vs. Chile
 
-### Loser's Bracket
+### Loser's Bracket:
 
 We will see China vs. France - a rematch from Groups</br>
 We will see United Kingdom vs. Canada</br>
