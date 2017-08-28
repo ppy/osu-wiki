@@ -64,9 +64,11 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 --------
 
-If you want to watch any of these matches, you can always check out the VODs [here](https://www.twitch.tv/osulive/videos/all).
+If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
-To conclude this weekend, we wave goodbye to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will  be descending into the Loser's Bracket. Good luck to all the remaining teams in this tournament!
+That concludes all the matches this weekend! Let's wave our goodbyes to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will  be descending into the Loser's Bracket. 
+
+Good luck to all the remaining teams in this tournament!
 
 ## Looking Ahead...<a name="future"></a>
 
@@ -74,18 +76,13 @@ Three weeks in, and already we've whittled 32 potential teams down to a hardy 12
   
 ### Winners Bracket:
 
-The first match we will see is Brazil vs. South Korea</br>
-The second match we will see is United States vs. Chile
+Our first matchup will see Brazil facing off against South Korea. South Korea is definitely a crowd favourite, but Brazil may have a trick or two up their sleeve. The second match will see United States squaring off against Chile. This match is definitely one to look out for, as it will almost certainly be quite a bit closer.  
 
 ### Loser's Bracket:
 
-We will see China vs. France - a rematch from Groups</br>
-We will see United Kingdom vs. Canada</br>
-Winner of these two will face each other
+Over in the upper part of the Loser's Bracket, we have China vs. France. This is definitely a match you don't want to miss, as it will be a rematch between the two teams from Group Stage! Will China be able to exact their revenge, or will France score yet another victory? The other match we have here is United Kingdom vs. Canada. The respective winners of these two matches will then face each other.
 
-We will see Sweden vs. Japan</br>
-We will see Poland vs. Indonesia </br>
-Winner of these two will face each other.
+Meanwhile, the lower part of the Loser's Bracket will first see Sweden vs. Japan. This too will definitely be a close match as both teams have proven to be suprisingly strong. Poland vs. Indonesia will be the last determined match of this stage. This match also promises to be an exciting one, and will definitely turn your head upside down! Like before, the winner of these two matches will face each other on Sunday.
 
 --------
 
