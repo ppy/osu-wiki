@@ -9,16 +9,26 @@ This week, we’re gonna try switching up the recap format to something a little
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
 ### Navigation
-[Mappool Statistics](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
+[Mappool](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
 
 --------
-The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight even harder in an effort to stay on top. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't phase any of them in the slightest. Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. 
+The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 
 
-Without further ado, let's get right into the recap!
+Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. Without further ado, let's get right into the recap!
 
-## Mappool Statistics<a name="mappool"></a>
+## Mappool<a name="mappool"></a>
 
-**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.**  
+**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance. 
+
+### A word from our Mappool Selectors:
+
+*"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
+
+*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been a pleasure constructing this mappool for you all."*
+
+### Mappool Statistics
+This week's most popular pick was 
+ 
 ## Tournament Matches<a name="tournament"></a></br>
 
 ### Saturday
@@ -45,7 +55,7 @@ Without further ado, let's get right into the recap!
 
 **Hong Kong vs. Sweden ended in a WBD in favour of Sweden.**
 
-**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last cry, and convincingly took a point off the dominating Brazillians on their own pick. Brazil definitely showed a strong performance this week, and I cannot wait to .
+**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last cry, and convincingly took a point off the dominating Brazillians on their own pick. Brazil definitely showed a strong performance this week, and I cannot wait to see their performance next week.
 
 --------
 
