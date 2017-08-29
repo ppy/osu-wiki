@@ -16,7 +16,7 @@ Widely acclaimed and then widely reviled shortly after, the category has been th
 
 ## This week's guests
 
-Joining myself ([HappyStick](https://osu.ppy.sh/users/256802)) for the discussion will be one of the community's most well-loved QAT, [pishifat](https://osu.ppy.sh/users/3178418), and one of the people responsible for pushing the category in the first place, namely [Ephemeral](https://osu.ppy.sh/users/102335) from the osu!team.
+Joining myself ([HappyStick](https://osu.ppy.sh/users/256802)) for the discussion will be one of the community's most prolific members of the QAT, [pishifat](https://osu.ppy.sh/users/3178418), and one of the people responsible for pushing the category in the first place, [Ephemeral](https://osu.ppy.sh/users/102335) from the osu!team.
 
 Together, we'll be going through why Loved is the way it is, what brought about its development in the first place, and where it will be heading in the future.
 
@@ -28,7 +28,7 @@ Have anything you'd like to ask about Loved? Post your questions in the comments
 
 ## When is this happening?
 
-The next episode of the osu! Coffee Hour will be at [**this Friday September 1, 11PM UTC**](http://itsalmo.st/#osucoffeehourloved_sgvbr), over at [osulive](https://www.twitch.tv/osulive).
+The next episode of the osu! Coffee Hour will be happening [**this Friday, September 1 at 11PM UTC**](http://itsalmo.st/#osucoffeehourloved_sgvbr), over at [osulive](https://www.twitch.tv/osulive).
 
 We'll see you then!
 
