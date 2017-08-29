@@ -21,8 +21,9 @@ You can replace Team Name 1 and Team Name 2 with any team name you want to assig
 
 ## Room management
 
+### Tournament Management Commands
 
-### [Tournament Managment Commands](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")
+_See also: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")_
 
 The osu!tourney client will successfully recognize the room.
 Make sure to assign the correct slots to the players joining the room using the !mp move and !mp team commands.
