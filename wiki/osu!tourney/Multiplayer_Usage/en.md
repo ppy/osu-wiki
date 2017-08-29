@@ -1,5 +1,7 @@
 # Multiplayer session creation and handling
 
+_Main page: [osu!tourney](/wiki/osu!tourney)_
+
 ## Match creation
 
 To make osu!tourney interact properly with the multiplayer rooms you create, you must pay attention to a few things.
@@ -58,19 +60,3 @@ In order to let every team member be in the right team within osu!tourney, playe
 ---
 
 ![TeamSize = 1](Teamsize1.png "TeamSize = 1")
-
-### Related pages
-
-* #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
-
-* #### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
-
-* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
-
-* #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-
-* #### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
-
-* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
-
-### [Back to index](/wiki/osu!tourney/ "osu!tourney")

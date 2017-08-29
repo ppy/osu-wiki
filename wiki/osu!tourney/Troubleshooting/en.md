@@ -1,5 +1,7 @@
 # Troubleshooting
 
+_Main page: [osu!tourney](/wiki/osu!tourney)_
+
 ## How do I create a fresh osu! installation without uninstalling the current game?
 
 Copy `osu!.exe` into an empty folder and run it.
@@ -58,19 +60,3 @@ Do not forget to adjust the cropping to remove the black control panel from the 
 ## My issue/question is not listed here! What to do?
 
 Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
-
-### Related pages
-
-* #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
-
-* #### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
-
-* #### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
-
-* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
-
-* #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-
-* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
-
-### [Back to index](/wiki/osu!tourney/ "osu!tourney")

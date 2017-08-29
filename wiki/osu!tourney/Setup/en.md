@@ -1,5 +1,7 @@
 # Setup
 
+_Main page: [osu!tourney](/wiki/osu!tourney)_
+
 **Note:** osu!tourney currently requires an active supporter tag to use it.
 
 There are only a few steps to setup the osu!tourney client.
@@ -51,19 +53,3 @@ Close osu! and edit or add to the above lines as required for your tournament wi
   Default: 720, allowed range: 568-1440
 
 When you have modified the `tournament.cfg` file, restart osu! and the osu!tourney client will start with the updated settings.
-
-### Related pages
-
-* #### [Spectator Usage](/wiki/osu!tourney/usage_en.md "Using osu!tourney")
-
-* #### [Multiplayer Usage](/wiki/osu!tourney/mp_en.md "Multiplayer session creation and handling")
-
-* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
-
-* #### [Skinning](/wiki/osu!tourney/skinning_en.md "Skinning")
-
-* #### [Troubleshooting](/wiki/osu!tourney/troubleshoot.md "Troubleshooting")
-
-* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
-
-### [Back to index](/wiki/osu!tourney/index_en.md "Index")

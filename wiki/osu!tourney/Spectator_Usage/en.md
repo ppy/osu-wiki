@@ -1,5 +1,7 @@
 # Using osu!tourney
 
+_Main page: [osu!tourney](/wiki/osu!tourney)_
+
 ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface")
 
 _Basic Interface of the osu!tourney client_
@@ -60,19 +62,3 @@ The functionalities of each of the text boxes in the control panel at the bottom
 
 - `Annotation text`: The text to show on the annotation.
 - `Best Of`: Updates the star count at the top with the amount of beatmaps each team needs to win.
-
-### Related pages
-
-* #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
-
-* #### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
-
-* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
-
-* #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-
-* #### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
-
-* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
-
-### [Back to index](/wiki/osu!tourney/ "osu!tourney")

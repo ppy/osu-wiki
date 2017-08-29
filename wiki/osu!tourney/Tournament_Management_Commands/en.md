@@ -1,5 +1,7 @@
 # Tournament Management Commands
 
+_Main page: [osu!tourney](/wiki/osu!tourney)_
+
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
 - `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 rooms may be created.
@@ -63,21 +65,3 @@ The following is an example of command usage:
 - `!mp start` - Start the match instantaneously.
 
 We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").
-
-### Related pages
-
-* #### [Setup](/wiki/osu!tourney/Setup/ "Setup")
-
-* #### [Spectator Usage](/wiki/osu!tourney/Spectator_Usage/ "Using osu!tourney")
-
-* #### [Multiplayer Usage](/wiki/osu!tourney/Multiplayer_Usage/ "Multiplayer session creation and handling")
-
-* #### [Command List](/wiki/osu!tourney/Tournament_Managment_Commands/ "Tournament Managment Commands/")
-
-* #### [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-
-* #### [Troubleshooting](/wiki/osu!tourney/Troubleshooting/ "Troubleshooting")
-
-* #### [Prizes](/wiki/osu!tourney/Prizes/ "Prizes")
-
-### [Back to index](/wiki/osu!tourney/ "osu!tourney")
