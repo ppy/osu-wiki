@@ -2,54 +2,38 @@
 
 _Main page: [osu!tourney](/wiki/osu!tourney)_
 
-**Note:** osu!tourney currently requires an active supporter tag to use it.
+**Note:** An active supporter tag is currently required to use the osu!tourney client.
 
-There are only a few steps to setup the osu!tourney client.
+It is recommended that a **fresh osu! installation** is used. This is because the Songs database may become corrupted. You can have multiple osu! installations, just keep them in separated folders.  
+To do this, copy `osu!.exe` into an empty folder and run it. A fresh osu! installation will be created. This is the only installation that needs to be modified from here.
 
-First of all, it is recommended to use a **_fresh osu! installation_**!
-This is because the Songs database is most likely to become corrupted.
-(You can have multiple osu! installations, just keep them in separated folders).
+Open osu! and login, checking the `Remember Username` and `Remember Password` checkboxes. Change the release stream to `CuttingEdge` and wait for osu! to restart.
 
-Just add the songs to your `/Songs/` folder that you really need (e.g. mappools).
-The client will automatically download beatmaps that it doesn’t have.
-osu!tourney only supports submitted beatmaps.
+Close osu! and create a `tournament.cfg` file in the installation directory. Start osu! once more and the osu!tourney client should open.
 
-1. Create a new installation of osu!
-   To do that, copy-paste the `osu!.exe` from your osu! client into an empty folder and run it.
-   It should update and install automatically.
-2. Open the fresh osu! and login.
-   Enable `Remember Username` and `Remember Password`!
-3. Switch your release stream to **cuttingedge**.
-4. Create a file in your freshly installed osu! root folder (e.g. `C:\Program Files (x86)\osu! stream client\`) called `tournament.cfg`.
-5. (Re)start your osu!.exe and the osu!tourney client should start.
-   It might take a while to start, so be patient.
-   It will automatically generate the contents of the `tournament.cfg` file which will contain the following lines:
+Add songs from the map pool to the `/Songs/` folder prior to starting the client. Any submitted beatmaps which the client doesn't have will be automatically downloaded.
+
+Upon closing the client, the `tournament.cfg` file will be filled with the following:
 
 ```
 TeamSize = 4
-privateserver =
-acronym = Your tournament name
-BufferTotalTime = 3000
-BufferDangerTime = 1000
-BufferTimeoutTime = 20000
+acronym = OWC
 ```
 
-Close osu! and edit or add to the above lines as required for your tournament with the following options:
+Do not modify the `tournament.cfg` file while osu! is running. Close osu! and edit or add to the above lines as desired with the following options:
 
-- `TeamSize` Define the size of your teams here. Depending on this, osu!tourney either opens 1-8 windows per team. Maximum value is 8.
-- `ClientNameSize` Change the yellow player names size.
-- `privateserver` Leave this untouched. It does not matter for you.
-- `acronym` Put an abbreviation for your tournament here, e.g. 'OWC 2013'.
-  More details at **Multiplayer session creation and handling** section.
-- `BufferTimeoutTime` The client will desynchronize any player that fails to buffer for this amount of time (in milliseconds), continuing playback with all other players synchronized.
-- `BufferTotalTime` The amount of time the client falls behind the players to reduce the frequency of pausing to wait for the buffer.
-  It is not recommended to change this.
-- `BufferDangerTime` The remaining time in the replay buffer before the client pauses to wait for more replay frames.
-  It is not recommended to change this.
-- `RankingChatDelay` Delay (in milliseconds) before the scores hide and show the chat again on the ranking screen.
-- `Height` Height of your stream.
-  osu!tourney will calculate the Width automatically so it fits 16:9.
-  The black control panel is not included in that height - so you actually need to have a 1440p screen to stream your tournament in 1080p.
-  Default: 720, allowed range: 568-1440
-
-When you have modified the `tournament.cfg` file, restart osu! and the osu!tourney client will start with the updated settings.
+- `TeamSize`: The number of players per team. The client will open 1-8 windows per team depending on this value. Maximum value is 8.
+- `ClientNameSize`: The size of the yellow player names.
+- `privateserver`: Leave this untouched.
+- `acronym`: An abbreviation for the tournament. This affects the required naming for the tournament rooms, check the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) for more information.
+- `BufferTimeoutTime`: Amount of time the client will wait for a player to buffer before continuing gameplay without them.
+  - It is not recommended to change this.
+- `BufferTotalTime`: Amount of time that the client buffers to reduce the frequency of pausing to wait for the buffer. This produces a delay between the client and the players.
+  - It is not recommended to change this.
+- `BufferDangerTime`: Amount of time remaining in the replay buffer before the client pauses to wait for more replay frames.
+  - It is not recommended to change this.
+- `RankingChatDelay`: Delay (in milliseconds) before the scores hide and show the chat again on the ranking screen.
+- `Height`: Height of the streamable area of the client.
+  - The client will calculate the width automatically in a 16:9 ratio.
+  - The "streamable area" of the client does not include the control panel. In general the control panel is 200px larger than the height of the client, so e.g. a 1440p screen would be safe to stream a 1080p tournament.
+  - Default: 720, allowed range: 568-2160
