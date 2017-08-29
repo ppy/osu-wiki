@@ -1,4 +1,3 @@
-
 # Using osu!tourney
 
 ![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface")
