@@ -4,7 +4,7 @@ _Main page: [osu!tourney](/wiki/osu!tourney)_
 
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
-- `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 rooms may be created.
+- `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 such rooms may be created.
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
   - When the room is finished, use `!mp close` to close the room.
 - `!mp invite <username>` - Invites a player to the room.
