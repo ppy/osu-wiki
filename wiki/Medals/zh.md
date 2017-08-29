@@ -2,7 +2,7 @@
 ======
 
 奖章，曾被称为 _成就_ ，是在用户个人资料页面中展示出来的一枚枚小型图案，可以体现玩家的游戏水准和技巧。
-当前有5种奖章：[曲包](#曲包)，[实力](#实力)，[毅力](#毅力)，[Mod 初体验](#Mod 初体验)，和[隐藏](#隐藏)。
+当前有5种奖章：[曲包](#曲包)，[实力](#实力)，[毅力](#毅力)，[Mod 初体验](#Mod%20初体验)，和[隐藏](#隐藏)。
 
 曲包
 -------------
@@ -94,7 +94,7 @@ mod 初体验类奖章可以通过初次使用相应的 mods 来完成谱面获�
 特别注意，如果在一次游玩中使用了2个或更多的 mods ，那么**不会**给玩家带来 _任何奖章_ 。
  
 | 提高难度 | 降低难度 |  |
-| :---- | :---: | :---: |
+| :---: | :---: | :---: |
 | ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Easy](img/all-intro-easy.png "Easy") | ![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
 | ![Double Time](img/all-intro-doubletime.png "Double Time") ![Nightcore](img/all-intro-nightcore.png "Nightcore") | ![Half Time](img/all-intro-halftime.png "Half Time") | ![Relax](img/all-intro-relax.png "Relax") |
 | ![Flashlight](img/all-intro-flashlight.png "Flashlight") | ![No Fail](img/all-intro-nofail.png "No Fail") | ![Spun Out](img/all-intro-spunout.png "Spun Out") |
