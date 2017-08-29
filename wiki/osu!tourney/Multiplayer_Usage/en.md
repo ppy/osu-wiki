@@ -4,7 +4,7 @@ _Main page: [osu!tourney](/wiki/osu!tourney)_
 
 ## Match creation
 
-The multipler room must be named based on the template listed in the control panel of the osu!tourney client.
+The multiplayer room must be named based on the template listed in the control panel of the osu!tourney client.
 
 The template shown consists of:  
 `Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
@@ -28,7 +28,7 @@ For example, with `TeamSize = 4`, the 1st, 2nd, 3rd and 4th slots will belong to
 
 ![The correspondance of the windows in osu!tourney to the respective multiplayer room slots](Osutourneyassignment.png "osu!tourney Player Assignment")
 
-Keep in mind that osu!tourney ignores team colours in slot assignment - it only considers the slot which players in the multiplayer room occupy. Below are examples of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible during normal operation and are only here for descriptional purposes:
+**osu!tourney ignores team colours in slot assignment** - it only considers the slot which players in the multiplayer room occupy. Below are examples of osu!tourney with different team sizes. The numbers on the screen indicate the assigned slot in the multiplayer lobby. The numbers are not visible during normal operation and are only here for descriptional purposes:
 
 ![TeamSize = 4](Osutourneywindows.png)
 
