@@ -9,7 +9,7 @@ This week, we’re gonna try switching up the recap format to something a little
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
 ### Navigation:
-[Mappool](#mappool)</br>[Tournament Matches](#tournament)</br>[Looking Ahead](#future)
+[Mappool](#mappool)</br>[Tournament Matches](#tournament_matches)</br>[Looking Ahead](#looking_ahead)
 
 --------
 The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winner's and Loser's Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 
@@ -24,7 +24,7 @@ Every single team was determined to make the most of their situation, all in the
 
 *"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
 
-*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been a pleasure constructing this mappool for you all."*
+*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
 
 ### Mappool Statistics:
 
@@ -32,17 +32,17 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 [Blue Stahli - Shotgun Senorita (Zardonic Remix)](https://osu.ppy.sh/beatmapsets/631861#mania/1341515) and [Akira Complex - Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/519513#mania/1103630) both made appearances in 6 matches. The former was a devilishly tricky map featuring many long note patterns, while the latter was very technically demanding, requiring high accuracy. As a result of this, both maps were understandably banned 4 times each. Finally, [Maika - Goldrop](https://osu.ppy.sh/beatmapsets/587117#mania/1243241) received the least attention, being picked only once across all the matches.
 
-## Tournament Matches<a name="tournament"></a></br>
+## Tournament Matches<a name="tournament_matches"></a></br>
 
 ### Saturday:
 
-**Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged as the victor. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). This tiny difference of *94* score was all Chile needed to secure their eventual victory.
+**Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged victorious. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). This tiny score difference of *94* was all Chile needed to secure their eventual victory.
 
 ![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/FranceChile_game1.jpg)
 
 **The next match saw [Argentina put up a good fight against the United Kingdom](https://osu.ppy.sh/community/matches/35588367).** Not ready to take an early exit, the Brits fought fiercely and took the first two points in quick succession. Argentina regained their composure on their second pick, but United Kingdom's determination simply proved too strong, allowing them to win the match 1 - 5.
 
-**Rounding off matches for Saturday, [Canada lost to the United States with 0 - 5](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former team putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was [noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099). Courtesy of US participant **[stupud man](https://osu.ppy.sh/users/2141612)**, the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
+**Rounding off matches for Saturday, [Canada lost  0 - 5 to the United States](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former team putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was [noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099). Courtesy of US participant **[stupud man](https://osu.ppy.sh/users/2141612)**, the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
 
 --------
 
@@ -54,9 +54,9 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 **Our second match of the day saw [New Zealand against Poland, resulting in an overwhelming 0 - 5 defeat](https://osu.ppy.sh/community/matches/35602514).** As the mappool difficulty continues to rise, it is only natural that some teams will struggle to keep up. This is exactly the case here, in which the high seeded Poland took full advantage of this fact, going for some of the trickier picks in the pool. Major props to the unseeded New Zealand for making it this far though!
 
-**[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
+**[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score difference of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
 
-**Next up, Hong Kong vs. Sweden ended in a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/u/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
+**Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/u/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
 
 ![](/wiki/shared/news/2017-08-29-osu-mania-4k-world-cup-quarterfinals-recap/HongKongSweden_game3.jpg)
 
@@ -66,11 +66,11 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
-That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapopre, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Loser's Bracket. 
+That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapore, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Loser's Bracket. 
 
 Good luck to all the remaining teams in this tournament!
 
-## Looking Ahead<a name="future"></a>
+## Looking Ahead<a name="looking_ahead"></a>
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek:
   
