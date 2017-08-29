@@ -1,4 +1,4 @@
-# Using osu!tourney
+# Spectator Usage
 
 _Main page: [osu!tourney](/wiki/osu!tourney)_
 

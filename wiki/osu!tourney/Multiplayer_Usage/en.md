@@ -1,4 +1,4 @@
-# Multiplayer session creation and handling
+# Multiplayer Usage
 
 _Main page: [osu!tourney](/wiki/osu!tourney)_
 
