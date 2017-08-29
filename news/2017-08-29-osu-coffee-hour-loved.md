@@ -4,7 +4,7 @@ title: "osu! Coffee Hour: Loved"
 date: 2017-08-29 20:30:00 +0000
 ---
 
-Time for a second serving as the osu! Coffee Hour podcast returns once again, this time focusing on the Loved beatmap category - what happened to it, where is it going, and what is even going on? Join HappyStick, pishifat and Ephemeral as they discuss it all, this Friday September 1, 11PM UTC!
+Time for a second serving as the osu! Coffee Hour podcast returns once again, this time focusing on the Loved beatmap category - what happened to it, where is it going, and what is even going on? Join HappyStick, pishifat and Ephemeral as they discuss it all this coming Friday, the 1st of September, at 11PM UTC!
 
 ![](/wiki/shared/news/banners/coffee-hour.jpg)
 
@@ -28,7 +28,7 @@ Have anything you'd like to ask about Loved? Post your questions in the comments
 
 ## When is this happening?
 
-The next episode of the osu! Coffee Hour will be happening [**this Friday, September 1 at 11PM UTC**](http://itsalmo.st/#osucoffeehourloved_sgvbr), over at [osulive](https://www.twitch.tv/osulive).
+The next episode of the osu! Coffee Hour will be happening [**this Friday, the 1st of September, at 11PM UTC**](http://itsalmo.st/#osucoffeehourloved_sgvbr)  over at [osulive](https://www.twitch.tv/osulive).
 
 We'll see you then!
 
