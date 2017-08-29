@@ -25,7 +25,4 @@ Users can also use `/bb <command>` client command to automatically open a Bancho
 | `FAQ`     | `[lang:]<entry>/list`  | Displays the message of the entry. Use `list` as entry to show all available entries.   | `!faq ping`                           | "Pong!" |
 | `REPORT`  | `<user_name> <reason>` | Sends a report to the chat moderators. Replace username spaces to underscores `_`       | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
 | `REQUEST` | None                   | Receive a random beatmap that a user requests modding assistance.                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
-<!--
-  Notes:
-    1. The !search command is not included because it is no longer working.
--->
+<!-- Note: The !search command is not included because it is no longer working. -->
