@@ -106,7 +106,8 @@ May
 
 ![[Taiko](RU:Taiko "wikilink") mod](Taiko.png "fig:Taiko mod") The **[Taiko](RU:Taiko "wikilink") Mode** first saw the light of day in this month, as well as another major addition, **.osb storyboarding script support. Multi-part sliders and private messaging in chat were also made available.**
 
-==June==
+June
+----
 
 A major milestone in osu history was reached with the addition of the **[multiplayer (Multi)](RU:Multiplayer "wikilink") game mode.** Skinning options were expanded further regarding both graphics and sounds. Lastly, **multi-channel chat was possible for the first time.**
 
