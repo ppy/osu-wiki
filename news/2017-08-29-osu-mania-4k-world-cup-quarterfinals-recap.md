@@ -70,9 +70,9 @@ That concludes all the matches for this weekend! Let's wave our goodbyes to Team
 
 Good luck to all the remaining teams in this tournament!
 
-## Looking Ahead<a name="looking_ahead"></a>
+## Looking Ahead: Semifinals<a name="looking_ahead"></a>
 
-Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek:
+Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek at the upcoming matches in the semifinals stage:
   
 ### Winners Bracket:
 
@@ -86,7 +86,7 @@ Meanwhile, the lower part of the Loser's Bracket will first see Sweden vs. Japan
 
 --------
 
-**The first match for the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
+**The first match of the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/product/226).
 
