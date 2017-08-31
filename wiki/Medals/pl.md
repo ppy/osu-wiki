@@ -33,7 +33,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 ### Ważne
 
-- Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych (np. [Auto Pilot](/wiki/Game_Modifiers)).
+- Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych.
 - Beatmapa może zostać bez żadnych skutków usunięta po tym, jak pojawi się status **`ukończona`** na [liście paczek beatmap](https://osu.ppy.sh/p/packlist?t=t).
 
 Skill
@@ -65,7 +65,7 @@ Medale _Pass_ są przyznawane za ukończenie dowolnej beatmapy o konkretnej licz
 Medale _S_ są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
 Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
 Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
-Beatmapa musi także posiadać status rankingowej.
+Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
 Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale także dla liczby gwiazdek od jednej do siedmiu.
 
 | osu!standard | osu!taiko | osu!catch | osu!mania |
