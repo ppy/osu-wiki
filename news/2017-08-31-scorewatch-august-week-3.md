@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Scorewatch: August Week 3"
-date: 2017-08-25 15:00:00 +0200
+date: 2017-08-31 09:00:00 +0000
 ---
 
 Scorewatch is back with more crazy plays from the community! We got a 700pp score, we got Rafis domination, and we got a new osu!catch number one! Are you as excited as we are? Read on!
 
-![](/wiki/shared/news/2017-08-25-scorewatch-august-week-3/banner.jpg)
+![](/wiki/shared/news/2017-08-31-scorewatch-august-week-3/banner.jpg)
 
 [kablaze](https://osu.ppy.sh/u/3043603) takes the spotlight for this article as he stomps [dj TAKA - quaver](https://osu.ppy.sh/b/915210) with an earth-shattering HDHR 99.77% 2x miss score to earn his first 700pp score (exactly rounded up)! To think that he only got 1x 100 after all this blows our minds. This is incredible.
 
