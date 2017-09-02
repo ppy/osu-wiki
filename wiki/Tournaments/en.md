@@ -63,7 +63,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/u/7292597)               | [-Rawn](https://osu.ppy.sh/u/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/u/7093651)      |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/u/6178640)           | [bsurma](https://osu.ppy.sh/u/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
 ### ![](/wiki/shared/Mania.gif) Chinese osu!mania 4K Tournament
 | Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
