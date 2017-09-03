@@ -48,37 +48,41 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals - Week 1
 
-### Saturday, 2. September 2017
+### Saturday, 9. September 2017
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
-| Sweden | ![][flag_SE] | ![][flag_JP] | Japan | **11.00 UTC** | 13.00 UTC +2 | 20.00 UTC +9 | ² |
-| China | ![][flag_CN] | ![][flag_FR] | France | **12.30 UTC** | 20.30 UTC +8 | 14.30 UTC +2 | ² |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14.00 UTC** | 11.00 UTC -3 | 23.00 UTC +9 | ¹ |
-| Poland | ![][flag_PL] | ![][flag_ID] | Indonesia | **15.30 UTC** | 17.30 UTC +2 | 22.30 UTC +7 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_CA] | Canada | **17.00 UTC** | 18.00 UTC +1 | 12.00 UTC -5 | ² |
-| United States | ![][flag_US] | ![][flag_CL] | Chile | **18.30 UTC** | 13.30 UTC -5 | 15.30 UTC -3 | ¹ |
-| France | ![][flag_FR] | ![][flag_CA] | Canada | **20.00 UTC** | 22.00 UTC +2 | 15.00 UTC -5 | ³ |
-
-### Sunday, 3. September 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
-| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **12.30 UTC** | 14.30 UTC +2 | 14.30 UTC +2 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | **12.30 UTC** | 14.30 UTC +2 | 19.30 UTC +7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12.30 UTC** | 21.30 UTC +9 | 14.30 UTC +2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | **12.30 UTC** | 21.30 UTC +9 | 19.30 UTC +7 | ³ |
-| China | ![][flag_CN] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 22.00 UTC +8 | 15.00 UTC +1 | ³ |
-| China | ![][flag_CN] | ![][flag_CA] | Canada | **14.00 UTC** | 22.00 UTC +8 | 9.00 UTC -5 | ³ |
-| France | ![][flag_FR] | ![][flag_GB] | United Kingdom | **14.00 UTC** | 16.00 UTC +2 | 15.00 UTC +1 | ³ |
+| Japan | ![][flag_JP] | ![][flag_CL] | Chile | **14.00 UTC** | 23.00 UTC +9 | 11.00 UTC -3 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **15.30 UTC** | 16.30 UTC +1 | 12.30 UTC -3 | ² |
+
+### Sunday, 10. September 2017
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | |
+| United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **22.30 UTC** | 23.30 UTC +1 | 19.30 UTC -3 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **22.30 UTC** | 19.30 UTC -3 | 19.30 UTC -3 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **0.00 UTC** | 9.00 UTC +9 | 19.00 (Sat.) UTC -5 | ¹ |
+| Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ⁴ |
+| Chile | ![][flag_CL] | ![][flag_US] | United States | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 20.30 (Sat.) UTC -5 | ⁴ |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **12.30 UTC** | 9.30 UTC -3 | 21.30 UTC +9 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.30 UTC** | 13.30 UTC +1 | 21.30 UTC +9 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **14.00 UTC** | 15.00 UTC +1 | 23.00 UTC +9 | ⁴ |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **14.00 UTC** | 23.00 UTC +9 | 23.00 UTC +9 | ⁴ |
+| Japan | ![][flag_JP] | ![][flag_US] | United States | **14.00 UTC** | 23.00 UTC +9 | 9.00 UTC -5 | ⁴ |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14.00 UTC** | 11.00 UTC -3 | 23.00 UTC +9 | ⁴ |
+| Brazil | ![][flag_BR] | ![][flag_US] | United States | **20.00 UTC** | 17.00 UTC -3 | 15.00 UTC -5 | ⁴ |
+| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 15.00 UTC -5 | ⁴ |
 
 ¹ Winner bracket encounter
 
 ² Loser bracket encounter
 
 ³ Encounter dependent on results of ²Loser bracket encounter
+
+⁴ Encounter dependent on results of ³second Loser bracket encounter and ¹Winner bracket encounter
 
 ------------------------------------------------------------------------
 
