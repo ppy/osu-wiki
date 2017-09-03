@@ -112,7 +112,7 @@ Ajusta relativamente el tamaño del texto.
 - Botones dedicados:
 ![Opciones de tamaño de fuente](img/font-size.jpg "Opciones de tamaño de fuente")
 - Notas:
-  * Utilice esta etiqueta con moderación.
+  * Utiliza esta etiqueta con moderación.
   * Sólo hay 4 tamaños que puede utilizar:
     - `50` (diminuto)
     - `85` (pequeño)
@@ -137,7 +137,7 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 
 - Botón dedicado: ![Botón Spoiler](img/spoiler.jpg "Botón Spoiler")
 - Notas:
-  * Si utilizas la etiqueta [color](#color) junto con esto, el color se utilizará con un fondo negro.
+  * Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
 ```prolog
 [spoiler] ... [spoiler]
