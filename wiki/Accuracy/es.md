@@ -110,6 +110,6 @@ Más información es mostrada cuando mueves el cursor sobre el gráfico:
 **Notas**
 
 -   Los cuatro valores mostrados hace un momento no se guardan y desaparecerán al cerrar osu!. Sólo puedes verlos otra vez viendo una repetición.
--   Debido a la forma en la que los mods Doble Tiempo (DT) y Medio Tiempo (HT) funcionan, el valor de error y la tasa de inestabilidad  serán multiplicados por el mismo factor que la canción. Para conseguir los verdaderos resultados al jugar DT, divide los mismos entre 1.5. Asimismo, multiplica los resultados por 1.33 al jugar con HT.
+-   Debido a la forma en la que los mods Doble Tiempo (DT) y Medio Tiempo (HT) funcionan, el valor de error y la tasa de inestabilidad serán multiplicados por el mismo factor que la canción. Para conseguir los verdaderos resultados al jugar DT, divide los mismos entre 1.5. Asimismo, multiplica los resultados por 1.33 al jugar con HT.
   
 
