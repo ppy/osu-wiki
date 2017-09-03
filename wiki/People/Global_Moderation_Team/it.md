@@ -37,7 +37,7 @@ Membri
 | [juankristal](https://osu.ppy.sh/u/443656) | Spagnolo | Moderazione della chat, Tornei |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russo | Moderazione della chat |
 | [Kurai](https://osu.ppy.sh/u/77089) | Francese, Russo | Moderazione della chat |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Russo | Chat moderation |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | Russo | Moderazione della chat |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polacco | Moderazione del forum, Sviluppo di osu! |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italiano | Moderazione della chat |
 | [n0ah](https://osu.ppy.sh/u/3086393) | Olandese | Moderazione della chat, Moderazione del forum |
@@ -55,7 +55,7 @@ Membri
 | [Shiro](https://osu.ppy.sh/u/113005) | Francese, Spagnolo | Moderazione della chat |
 | [Shockwave](https://osu.ppy.sh/u/251631) | Spagnolo | Moderazione della chat |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesiano | Moderazione della chat |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Ungherese | Chat moderation |
+| [Spkz](https://osu.ppy.sh/u/2964029) | Ungherese | Moderazione della chat |
 | [Stefan](https://osu.ppy.sh/u/626907) | Tedesco | Moderazione del forum, Moderazione della chat |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Coreano | Moderazione della chat |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | creazione di osu!media |

@@ -44,7 +44,7 @@ GMT가 되는 방법
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Chat Moderation, Forum Moderation |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat moderation, Technical support |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technical support |
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Chat Moderation |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |

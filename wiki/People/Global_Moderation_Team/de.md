@@ -19,8 +19,8 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ---- | -------- | ------------- |
 | [-kevincela-](https://osu.ppy.sh/u/266596) | Italienisch | Chat Moderation |
 | [[ Another ]](https://osu.ppy.sh/u/3416573) | Ungarisch | Chat Moderation |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Chinesisch | Chat moderation |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | Chat moderation |
+| [Atrue](https://osu.ppy.sh/u/1758523) | Chinesisch | Chat Moderation |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media Ersteller |
 | [Deif](https://osu.ppy.sh/u/318565) | Spanisch | Tournaments |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technische Unterstützung |
@@ -34,14 +34,14 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | [juankristal](https://osu.ppy.sh/u/443656) | Spanisch | Chat Moderation, Tournaments |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | Russisch | Chat Moderation |
 | [Kurai](https://osu.ppy.sh/u/77089) | Französisch, Russisch | Chat Moderation |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Russisch | Chat moderation |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | Russisch | Chat Moderation |
 | [Marcin](https://osu.ppy.sh/u/722665) | Polnisch | Forum Moderation, Entwicklung |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | Italienisch | Chat Moderation |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Niederländisch | Chat moderation, Forum Moderation |
+| [n0ah](https://osu.ppy.sh/u/3086393) | Niederländisch | Chat Moderation, Forum Moderation |
 | [Nathanael](https://osu.ppy.sh/u/2295078) | Philippinisch | Forum Moderation, Chat Moderation |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | Französisch | Chat Moderation |
 | [Nyquill](https://osu.ppy.sh/u/682935) | Chinesisch | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat moderation, Technische Unterstützung |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technische Unterstützung |
 | [Pereira006](https://osu.ppy.sh/u/537344) | Portugisisch | Chat Moderation |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | Niederländisch | Chat Moderation |
 | [Repflez](https://osu.ppy.sh/u/201392) | Spanisch | Chat Moderation, Wiki Administration |
@@ -52,7 +52,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | [Shiro](https://osu.ppy.sh/u/113005) | Französisch, Spanisch | Chat Moderation |
 | [Shockwave](https://osu.ppy.sh/u/251631) | Spanisch | Chat Moderation |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesisch | Chat Moderation |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Ungarisch | Chat moderation |
+| [Spkz](https://osu.ppy.sh/u/2964029) | Ungarisch | Chat Moderation |
 | [Stefan](https://osu.ppy.sh/u/626907) | Deutsch | Forum Moderation, Chat Moderation |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | Koreanisch | Chat Moderation |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media Ersteller |
