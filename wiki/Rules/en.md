@@ -7,10 +7,11 @@ Community Rules
 ---------------
 
 1.  **Each player may only have *ONE* account at any point of time.** This account is you. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else.
-2.  **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
-3.  **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-4.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
-5.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
+3.  **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
+4.  **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
+5.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+6.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
 In-Game Chat Rules
 ------------------

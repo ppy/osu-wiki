@@ -100,8 +100,6 @@ Image | Name | Effect
 
 ### ScoreV2
 
-_For a summarised explanation, refer to [Glossary page for ScoreV2](/wiki/Glossary/#scorev2 "ScoreV2 in Glossary")_
-
 Before ScoreV2, each game modes has their own scoring system in place:
 
 - osu! and osu!catch use a strictly combo-based score multiplier,

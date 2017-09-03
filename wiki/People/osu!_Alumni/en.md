@@ -6,21 +6,21 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 
 | Name  | Epitaph |
 | ----- | ------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | BAT |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Chat Moderator |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
 | [Agnes](https://osu.ppy.sh/u/136982) | GMT |
+| [alacat](https://osu.ppy.sh/u/869782) | QAT |
 | [Alace](https://osu.ppy.sh/u/25993) | BAT |
 | [Aleks719](https://osu.ppy.sh/u/360176) | QAT |
 | [An64fan](https://osu.ppy.sh/u/38836)	| BAT |
 | [Andrea](https://osu.ppy.sh/u/33599) | GMT |
 | [Armin](https://osu.ppy.sh/u/105902)	| BAT |
 | [Asphyxia](https://osu.ppy.sh/u/1715720) | QAT |
-| [Atrue](https://osu.ppy.sh/u/1758523) | GMT |
 | [awp](https://osu.ppy.sh/u/2650) | GMT |
 | [Azure_Kite](https://osu.ppy.sh/u/66296) | MAT |
+| [Bakari](https://osu.ppy.sh/u/597957) | GMT |
 | [Ballance](https://osu.ppy.sh/u/165946) | Chat Moderator |
 | [Beuchi](https://osu.ppy.sh/u/67192) | GMT |
 | [Blazevoir](https://osu.ppy.sh/u/120265) | GMT |
@@ -40,12 +40,14 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Cyclohexane](https://osu.ppy.sh/u/116078) | GMT |
 | [Cyclone](https://osu.ppy.sh/u/18589) | GMT |
 | [Cyril_Scarlet](https://osu.ppy.sh/u/108066) | MAT |
+| [DakeDekaane](https://osu.ppy.sh/u/1425253) | QAT |
 | [Dakeyrus](https://osu.ppy.sh/u/10441) | GMT |
 | [Dangaard](https://osu.ppy.sh/u/19488) | BAT |
 | [Darksonic](https://osu.ppy.sh/u/570042) | GMT |
 | [DawnII](https://osu.ppy.sh/u/8399) | BAT |
 | [deepsea](https://osu.ppy.sh/u/7824) | BAT |
 | [Derekku](https://osu.ppy.sh/u/91341) | Administration |
+| [Desperate-kun](https://osu.ppy.sh/u/2202645) | QAT |
 | [DiamondCrash](https://osu.ppy.sh/u/123790) | BAT |
 | [DJPop](https://osu.ppy.sh/u/2363) | BAT |
 | [dkun](https://osu.ppy.sh/u/154400) | BAT |
@@ -57,6 +59,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Duoprism](https://osu.ppy.sh/u/7186) | BAT |
 | [Echo](https://osu.ppy.sh/u/431) | osu!dev |
 | [EiJi](https://osu.ppy.sh/u/2024) | BAT |
+| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | GMT |
 | [ethox](https://osu.ppy.sh/u/441380) | Chat Moderator |
 | [ExPew](https://osu.ppy.sh/u/665612) | QAT |
 | [Extor](https://osu.ppy.sh/u/555) | BAT |
@@ -65,7 +68,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [foulcoon](https://osu.ppy.sh/u/19883) | BAT |
 | [Fraeon](https://osu.ppy.sh/u/2271) | BAT |
 | [Frostmourne](https://osu.ppy.sh/u/199669) | GMT |
-| [Gabe](https://osu.ppy.sh/u/654108) | BAT |
+| [Fycho](https://osu.ppy.sh/u/1876867) | QAT |
 | [Gamu](https://osu.ppy.sh/u/611174) | QAT |
 | [Garven](https://osu.ppy.sh/u/244216) | QAT |
 | [Gemi](https://osu.ppy.sh/u/7365) | BAT |
@@ -131,6 +134,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [narakucrimson](https://osu.ppy.sh/u/287468) | BAT |
 | [NatsumeRin](https://osu.ppy.sh/u/151679) | BAT |
 | [nekodex](https://osu.ppy.sh/u/102) | BAT |
+| [Nishiji](https://osu.ppy.sh/u/167629) | GMT |
 | [Niva](https://osu.ppy.sh/u/197805) | BAT |
 | [NoHitter](https://osu.ppy.sh/u/124455) | BAT |
 | [nuudles](https://osu.ppy.sh/u/21312) | osu!dev |
@@ -144,6 +148,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [popner](https://osu.ppy.sh/u/759860) | BAT |
 | [Princess](https://osu.ppy.sh/u/3480) | BAT |
 | [PROGUY](https://osu.ppy.sh/u/528181) | QAT |
+| [QHideaki13](https://osu.ppy.sh/u/733998) | GMT |
 | [RandomJibberish](https://osu.ppy.sh/u/157879) | BAT |
 | [RemmyX25](https://osu.ppy.sh/u/612) | BAT |
 | [Roddie](https://osu.ppy.sh/u/121337) | BAT |
@@ -174,10 +179,8 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [theowest](https://osu.ppy.sh/u/60604) | GMT |
 | [tieff](https://osu.ppy.sh/u/89619) | BAT |
 | [TKS](https://osu.ppy.sh/u/940878) | BAT |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | GMT |
 | [tsububu](https://osu.ppy.sh/u/61) | BAT |
 | [UnderminE](https://osu.ppy.sh/u/444223) | Chat Moderator |
-| [Uni](https://osu.ppy.sh/u/617106) | GMT |
 | [vytalibus](https://osu.ppy.sh/u/10028) | BAT |
 | [Where](https://osu.ppy.sh/u/549172) | GMT |
 | [whymeman](https://osu.ppy.sh/u/51994) | GMT |

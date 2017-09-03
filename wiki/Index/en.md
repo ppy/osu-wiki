@@ -65,6 +65,7 @@ We are still working on a design for the index page, so excuse what follows. If 
 - [Mascots](/wiki/Mascots "Mascots")
   - [Mascots Gallery](/wiki/Mascots/Gallery "Mascots Gallery")
 - [Replay](/wiki/Replay "Replay")
+- [Visual Settings](/wiki/Visual_Settings "Visual Settings")
 
 #### Online
 

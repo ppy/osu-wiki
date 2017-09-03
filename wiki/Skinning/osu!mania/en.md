@@ -1,482 +1,397 @@
 [true]: /wiki/shared/True.png
 [false]: /wiki/shared/False.png
 
-# Skinning osu!mania
+# osu!mania
 
-Since skinning version 2.5, skinners are now able to fully customize the osu!mania notes and stage using the skin.ini file.
-For a more robust tutorial, see [Tutorial/osu!mania](./Tutorial/osu!mania).
+_Main page: [Skinning](/wiki/Skinning)_
 
-The following below is what osu! will recognize if one chooses not to use the skin.ini for further customization.
+_See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)_
 
-## Hitbursts
+Since skinning version `2.5`, skinners are now able to fully customize the osu!mania notes and stage using the [skin.ini](/wiki/skin.ini) file.
 
-### mania-hit0.png
+The following is what _osu!_ will recognize if one chooses to not use the `skin.ini` for further customization.
 
-[![](pr/mania-hit0.png)](fs/mania-hit0.png "Click to view full size")
+## Hit Bursts
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+The following table is for all hit bursts.
 
-1. if animation is used, the zeroth frame is used for the ranking screen
+| Animatable               | Beatmap Skinnable |
+|:------------------------:|:-----------------:|
+| ![Yes][true] (see notes) | ![Yes][true]      |
 
-- fixed looped animation at 60fps
-- if a custom path is used, the ranking screen will use the file in the root directory
+**Notes:**
 
-### mania-hit50.png
+- If animation was skinned, the zeroth frame will be is used for the ranking screen.
+- This element has a fixed looped animation of 60fps.
+- If a custom path is used, the ranking screen will use the file in the root directory
 
-[![](pr/mania-hit50.png)](fs/mania-hit50.png "Click to view full size")
+---
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+![](img/mania-hit0.png "mania-hit0.png")
 
-1. if animation is used, the zeroth frame is used for the ranking screen
+**Note:**
 
-- fixed looped animation at 60fps
-- if a custom path is used, the ranking screen will use the file in the root directory
+- Animation name: `mania-hit0-#.png`; replace `#` with an indexed count (start frame count at zero).
 
-### mania-hit100.png
+---
 
-[![](pr/mania-hit100.png)](fs/mania-hit100.png "Click to view full size")
+![](img/mania-hit50.png "mania-hit50.png")
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+**Note:**
 
-1. if animation is used, the zeroth frame is used for the ranking screen
+- Animation name: `mania-hit50-#.png`; replace `#` with an indexed count (start frame count at zero).
 
-- fixed looped animation at 60fps
-- if a custom path is used, the ranking screen will use the file in the root directory
+---
 
-### mania-hit300.png
+![](img/mania-hit100.png "mania-hit100.png")
 
-[![](pr/mania-hit300.png)](fs/mania-hit300.png "Click to view full size")
+**Note:**
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+- Animation name: `mania-hit100-#.png`; replace `#` with an indexed count (start frame count at zero).
 
-1. if animation is used, the zeroth frame is used for the ranking screen
+---
 
-- fixed looped animation at 60fps
-- if a custom path is used, the ranking screen will use the file in the root directory
+![](img/mania-hit300.png "mania-hit300.png")
 
-### mania-hit300g.png
+**Note:**
 
-[![](pr/mania-hit300g-0.png)](fs/mania-hit300g-0.png "Click to view full size")
-[![](pr/mania-hit300g-1.png)](fs/mania-hit300g-1.png "Click to view full size")
+- Animation name: `mania-hit300-#.png`; replace `#` with an indexed count (start frame count at zero).
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+---
 
-1. if animation is used, the zeroth frame is used for the ranking screen
+_`mania-hit300g.png`_ (included images below)
 
+![](img/mania-hit300g-0.png "mania-hit300g-0.png")
 
-- fixed looped animation at 60fps
-- if a custom path is used, the ranking screen will use the file in the root directory
+![](img/mania-hit300g-1.png "mania-hit300g-1.png")
+
+**Note:**
+
+- Animation name: `mania-hit300g-#.png`; replace `#` with an indexed count (start frame count at zero).
 
 ## Comboburst
 
-### comboburst-mania.png
+![](/comboburst-mania.png "comboburst-mania.png")
 
-[![](pr/comboburst-mania.png)](fs/comboburst-mania.png "Click to view full size")
+| Animatable               | Beatmap Skinnable |
+|:------------------------:|:-----------------:|
+| ![Yes][true] (see notes) | ![Yes][true]      |
 
-| Animatable         | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![Yes][true]      | all             | Centre       | -            | Normal     |
+**Notes:**
 
-1. not an animation; instead, one of the frames will be used when a combo milestone is met
-   - use `comboburst-mania-#.png`, replace # with an indexed count (start count at zero)
-
-
-- can be disabled in the options
+- This element is not an animation; instead, one of the frames will be used when a combo milestone is met.
+   - use `comboburst-mania-#.png`, replace `#` with an indexed count (start frame count at zero).
 - osu!mania specific combobursts
-- should face RIGHT
+- This can be disabled in the [options](/wiki/options).
+- This should face towards the **right**.
 
 ## Notes
 
-### mania-note1.png
+_Not to be confused with [lengths](#lengths)._
 
-[![](pr/mania-note1.png)](fs/mania-note1.png "Click to view full size")
+This section is for the single notes.
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+The following table is for all notes.
 
-- animation name: `mania-note1-#.png`, replace # with indexed count (start count at zero)
-- this element is the single note
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
 
-### mania-note2.png
+**Notes:**
 
-[![](pr/mania-note2.png)](fs/mania-note2.png "Click to view full size")
+- These elements are scaled to fit the individual columns.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
+- Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+---
 
-- animation name: `mania-note2-#.png`, replace # with indexed count (start count at zero)
-- this element is the single note
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-note1.png "mania-note1.png")
 
-### mania-noteS.png
+**Note:**
 
-[![](pr/mania-noteS.png)](fs/mania-noteS.png "Click to view full size")
+- Animation name: `mania-note1-#.png`, replace # with an indexed count (start count at zero)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+---
 
-- animation name: `mania-noteS-#.png`, replace # with indexed count (start count at zero)
-- this element is the single note
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-note2.png "mania-note2.png")
 
-### mania-note1H.png
+**Note:**
 
-[![](pr/mania-note1H.png)](fs/mania-note1H.png "Click to view full size")
+- Animation name: `mania-note2-#.png`, replace # with an indexed count (start count at zero)
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+---
 
-- animation name: `mania-note1H-#.png`, replace # with indexed count (start count at zero)
-- this element is the head part of the hold note
-  - by default, this is also the tail note
-    - when used for the tail part, this element is flipped by default for v2.5+
-      - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-noteS.png "mania-noteS.png")
 
-### mania-note2H.png
+- Animation name: `mania-noteS-#.png`, replace # with an indexed count (start count at zero)
 
-[![](pr/mania-note2H.png)](fs/mania-note2H.png "Click to view full size")
+### Lengths
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+Lengths are also called "hold notes".
 
-- animation name: `mania-note2H-#.png`, replace # with indexed count (start count at zero)
-- this element is the head part of the hold note
-  - by default, this is also the tail note
-    - when used for the tail part, this element is flipped by default for v2.5+
-      - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+#### Head
 
-### mania-noteSH.png
+The following table is for all lengths (head part).
 
-[![](pr/mania-noteSH.png)](fs/mania-noteSH.png "Click to view full size")
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+**Notes:**
 
-- animation name: `mania-noteSH-#.png`, replace # with indexed count (start count at zero)
-- this element is the head part of the hold note
-  - by default, this is also the tail note
-    - when used for the tail part, this element is flipped by default for v2.5+
-      - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+- By default, this is also the tail part.
+  - When used for the tail part, this element is flipped by default for skin versions `2.5` and up.
+    - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
+- This element is scaled to fit the individual columns.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
+- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
-### mania-note1L.png
+---
 
-[![](pr/mania-note1L-0.png)](fs/mania-note1L-0.png "Click to view full size")
-[![](pr/mania-note1L-1.png)](fs/mania-note1L-1.png "Click to view full size")
-[![](pr/mania-note1L-2.png)](fs/mania-note1L-2.png "Click to view full size")
-[![](pr/mania-note1L-3.png)](fs/mania-note1L-3.png "Click to view full size")
-[![](pr/mania-note1L-4.png)](fs/mania-note1L-4.png "Click to view full size")
-[![](pr/mania-note1L-5.png)](fs/mania-note1L-5.png "Click to view full size")
+![](img/mania-note1H.png "mania-note1H.png")
 
-| Animatable         | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![No][false]       | all             | varies&sup2; | -            | Normal     |
+**Note:**
 
-1. animation starts when the hold note is pressed and stops if released
-2. the `NoteBodyStyle` command determines the origin point
-   - v2.5+
-     - `0` (stretch) = Centre
-     - `1` (repeat top) = Top
-     - `2` (repeat bottom) = Bottom
-   - v2.4-
-     - Centre (this is because stretch is forced)
+- Animation name: `mania-note1H-#.png`, replace # with an indexed count (start count at zero)
 
+---
 
-- animation name: `mania-note1L-#.png`, replace # with indexed count (start count at zero)
-- this element is the length (or body) part of the hold note
-- in v2.4-, this element is stretched to fill the distance between the head and the tail note,
-  - in v2.5+, you can use the `NoteBodyStyle` to fix this problem
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-note2H.png "mania-note2H.png")
 
-### mania-note2L.png
+**Note:**
 
-[![](pr/mania-note2L-0.png)](fs/mania-note2L-0.png "Click to view full size")
-[![](pr/mania-note2L-1.png)](fs/mania-note2L-1.png "Click to view full size")
-[![](pr/mania-note2L-2.png)](fs/mania-note2L-2.png "Click to view full size")
-[![](pr/mania-note2L-3.png)](fs/mania-note2L-3.png "Click to view full size")
-[![](pr/mania-note2L-4.png)](fs/mania-note2L-4.png "Click to view full size")
-[![](pr/mania-note2L-5.png)](fs/mania-note2L-5.png "Click to view full size")
+- Animation name: `mania-note2H-#.png`, replace # with an indexed count (start count at zero)
 
-| Animatable         | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![No][false]       | all             | varies&sup2; | -            | Normal     |
+---
 
-1. animation starts when the hold note is pressed and stops if released
-2. the `NoteBodyStyle` command determines the origin point
-   - v2.5+
-     - `0` (stretch) = Centre
-     - `1` (repeat top) = Top
-     - `2` (repeat bottom) = Bottom
-   - v2.4-
-     - Centre (this is because stretch is forced)
+![](img/mania-noteSH.png "mania-noteSH.png")
 
+**Note:**
 
-- animation name: `mania-note2L-#.png`, replace # with indexed count (start count at zero)
-- this element is the length (or body) part of the hold note
-- in v2.4-, this element is stretched to fill the distance between the head and the tail note,
-  - in v2.5+, you can use the `NoteBodyStyle` to fix this problem
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+- Animation name: `mania-noteSH-#.png`, replace # with an indexed count (start count at zero)
 
-### mania-noteSL.png
+#### Length
 
-[![](pr/mania-noteSL-0.png)](fs/mania-noteSL-0.png "Click to view full size")
-[![](pr/mania-noteSL-1.png)](fs/mania-noteSL-1.png "Click to view full size")
-[![](pr/mania-noteSL-2.png)](fs/mania-noteSL-2.png "Click to view full size")
-[![](pr/mania-noteSL-3.png)](fs/mania-noteSL-3.png "Click to view full size")
-[![](pr/mania-noteSL-4.png)](fs/mania-noteSL-4.png "Click to view full size")
-[![](pr/mania-noteSL-5.png)](fs/mania-noteSL-5.png "Click to view full size")
+The following table is for all lengths (length part).
 
-| Animatable         | Beatmap Skinnable  | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------------:|:------------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true]&sup1; | ![No][false]       | all             | varies&sup2; | -            | Normal     |
+| Animatable               | Beatmap Skinnable  |
+|:------------------------:|:------------------:|
+| ![Yes][true] (see notes) | ![No][false]       |
 
-1. animation starts when the hold note is pressed and stops if released
-2. the `NoteBodyStyle` command determines the origin point
-   - v2.5+
-     - `0` (stretch) = Centre
-     - `1` (repeat top) = Top
-     - `2` (repeat bottom) = Bottom
-   - v2.4-
-     - Centre (this is because stretch is forced)
+**Notes:**
 
+- The animation starts when the hold note is pressed and stops if released.
+- The `NoteBodyStyle` changes the behaviour of these elements.
+  - Skin version `2.5` or higher is required.
+- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
-- animation name: `mania-noteSL-#.png`, replace # with indexed count (start count at zero)
-- this element is the length (or body) part of the hold note
-- in v2.4-, this element is stretched to fill the distance between the head and the tail note,
-  - in v2.5+, you can use the `NoteBodyStyle` to fix this problem
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+---
 
-### mania-note1T.png
+_`mania-note1L.png`_ (included images below)
 
-_(transparent; not included)_
+![](img/mania-note1L-0.png "mania-note1L-0.png")
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+![](img/mania-note1L-1.png "mania-note1L-1.png")
 
-- animation name: `mania-note1T-#.png`, replace # with indexed count (start count at zero)
-- this element is the tail part of the hold note
-- by default, `mania-note1H.png` is used instead
-- by default, this element is flipped for v2.5+
-  - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-note1L-2.png "mania-note1L-2.png")
 
-### mania-note2T.png
+![](img/mania-note1L-3.png "mania-note1L-3.png")
 
-_(transparent; not included)_
+![](img/mania-note1L-4.png "mania-note1L-4.png")
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+![](img/mania-note1L-5.png "mania-note1L-5.png")
 
-- animation name: `mania-note2T-#.png`, replace # with indexed count (start count at zero)
-- this element is the tail part of the hold note
-- by default, `mania-note2H.png` is used instead
-- by default, this element is flipped for v2.5+
-  - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+**Notes:**
 
-### mania-noteST.png
+- Animation name: `mania-note1L-#.png`, replace # with an indexed count (start count at zero).
 
-_(transparent; not included)_
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | Bottom       | -            | Normal     |
+_`mania-note2L.png`_ (included images below)
 
-- animation name: `mania-noteST-#.png`, replace # with indexed count (start count at zero)
-- this element is the tail part of the hold note
-- by default, `mania-noteSH.png` is used instead
-- by default, this element is flipped for v2.5+
-  - this behavior can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
-- this element is scaled to fit the individual columns
-  - if the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height
-- notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the skin.ini file
+![](img/mania-note2L-0.png "mania-note2L-0.png")
+
+![](img/mania-note2L-1.png "mania-note2L-1.png")
+
+![](img/mania-note2L-2.png "mania-note2L-2.png")
+
+![](img/mania-note2L-3.png "mania-note2L-3.png")
+
+![](img/mania-note2L-4.png "mania-note2L-4.png")
+
+![](img/mania-note2L-5.png "mania-note2L-5.png")
+
+**Notes:**
+
+- Animation name: `mania-note2L-#.png`, replace # with an indexed count (start count at zero).
+
+---
+
+_`mania-noteSL.png`_ (included images below)
+
+![](img/mania-noteSL-0.png "mania-noteSL-0.png")
+
+![](img/mania-noteSL-1.png "mania-noteSL-1.png")
+
+![](img/mania-noteSL-2.png "mania-noteSL-2.png")
+
+![](img/mania-noteSL-3.png "mania-noteSL-3.png")
+
+![](img/mania-noteSL-4.png "mania-noteSL-4.png")
+
+![](img/mania-noteSL-5.png "mania-noteSL-5.png")
+
+**Notes:**
+
+- Animation name: `mania-note2L-#.png`, replace # with an indexed count (start count at zero).
+
+#### Tail
+
+The following table is for all lengths (tail part).
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
+
+- These elements are the tail part of the hold note.
+- By default, the head notes are used instead.
+- By default, these elements are flipped for skin versions `2.5` and up.
+  - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
+- These elements are scaled to fit the individual columns.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
+- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+
+---
+
+_`mania-note1T.png`_ (transparent; not included)
+
+**Note:**
+
+- Animation name: `mania-note1T-#.png`, replace # with an indexed count (start count at zero)
+
+---
+
+_`mania-note2T.png`_ (transparent; not included)
+
+**Note:**
+
+- Animation name: `mania-note2T-#.png`, replace # with an indexed count (start count at zero)
+
+---
+
+_`mania-noteST.png` (transparent; not included)
+
+**Note:**
+
+- Animation name: `mania-noteST-#.png`, replace # with an indexed count (start count at zero)
 
 ## Stage
 
-### mania-stage-left.png
+![](img/mania-stage-left.png "mania-stage-left.png")
 
-[![](pr/mania-stage-left.png)](fs/mania-stage-left.png "Click to view full size")
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![No][false] | ![No][false]      |
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size      | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:-----------------:|:----------:|
-| ![No][false] | ![No][false]      | all             | BottomRight  | max height: 768px | Normal     |
+**Notes:**
 
-- shown on the left side of the stage(s)
-- this is stretched to fit the stage height (which allows for smaller images)
+- This element is shown on the left side of the stage(s).
+- This is stretched to fit the stage height (allows for smaller images).
 
-### mania-stage-right.png
+---
 
-[![](pr/mania-stage-right.png)](fs/mania-stage-right.png "Click to view full size")
+![](img/mania-stage-right.png "mania-stage-right.png")
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size      | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:-----------------:|:----------:|
-| ![No][false] | ![No][false]      | all             | BottomLeft   | max height: 768px | Normal     |
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![No][false] | ![No][false]      |
 
-- shown on the right side of the stage(s)
-- this is stretched to fit the stage height (which allows for smaller images)
+**Notes:**
 
-### mania-stage-bottom.png
+- This element is shown on the right side of the stage(s).
+- This is stretched to fit the stage height (allows for smaller images).
 
-_(transparent; not included)_
+---
 
-| Animatable   | Beatmap Skinnable | Skin Version(s) | Origin Point | Optimal Size      | Blend Mode |
-|:------------:|:-----------------:|:---------------:|:------------:|:-----------------:|:----------:|
-| ![Yes][true] | ![No][false]      | all             | BottomLeft   | max height: 768px | Normal     |
+_`mania-stage-bottom.png`_ (transparent; not included)
 
-- animation name: `mania-stage-bottom-#.png`, replace # with indexed count (start count at zero())
-- shown on the bottom (or top if upside down) of the stage(s)
-- this is **not** stretched to fit the stage width
-- this is 0.625x smaller than the columns
-- this element should be skinned for a 480px playfield height
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
 
-### mania-stage-light.png
+**Notes:**
 
+- Animation name: `mania-stage-bottom-#.png`, replace # with an indexed count (start count at zero).
+- Shown on the bottom (or top, if the stage is upside down) of the stage(s)
+- This element will **not** stretched to fit the stage width!
+- This is 0.625x smaller than the columns.
+- This element should be skinned for a 480px playfield height.
 
-   <td rowspan="2">
-    mania-stage-light.png
-    <hr/>
-    mania-stage-light-#.png
-   </td>
-   <td rowspan="2"><a href="img/mania-stage-light.png" title="Click to view full size"><img src="img/mania-stage-light.png" alt="mania-stage-light.png"/></a></td>
-   <td><img title="True" src="/wiki/shared/True.png"/></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td>all</td>
-   <td>Bottom*</td>
-   <td>max height: 768px</td>
-   <td>Multiplicative**</td>
-  </tr>
-  <tr>
-   <td colspan="6">
-    <ul>
-     <li>*position can be changed via <code>LightPosition</code> in the skin.ini-file</li>
+---
 
-<li>**tinted white by default but custom tinting per column by using <code>ColourLight</code> command in the skin.ini-file</li>
-     <li>lighting for the columns when the key is pressed</li>
-     <li>this image is placed underneath the notes</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">mania-stage-hint.png</td>
-   <td rowspan="2"><a href="img/mania-stage-hint.png" title="Click to view full size"><img src="img/mania-stage-hint.png" alt="mania-stage-hint.png"/></a></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td>all</td>
-   <td>Centre</td>
-   <td>-</td>
-   <td>Multiplicative**</td>
-  </tr>
-  <tr>
-   <td colspan="6">
-    <ul>
-     <li>this is the graphical representation of the judgement line (hit area)</li>
-     <li>the judgement line is drawn in the middle of the image</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">mania-warningarrow.png</td>
-   <td rowspan="2"><i>(transparent)</i></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td>all</td>
-   <td>Centre</td>
-   <td>-</td>
-   <td>Normal</td>
-  </tr>
-  <tr>
-   <td colspan="6">
-    <ul>
-     <li>Should face DOWNWARDS.</li>
-     <li>Used at the very beginning of the song, if there is time</li>
-     <li>This image is flipped horizontally if the stage is upsidedown</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    lightingL.png
-    <hr/>
-    lightingL-#.png
-   </td>
-   <td rowspan="2"><a href="img/lightingL.png" title="Click to view full size"><img src="img/lightingL.png" alt="lightingL.png"/></a></td>
-   <td><img title="True" src="/wiki/shared/True.png"/></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td>all</td>
-   <td>Centre*</td>
-   <td>-</td>
-   <td>Additive</td>
-  </tr>
-  <tr>
-   <td colspan="6">
-    <ul>
-     <li>*positioned where the centre of the judgementline crosses the centre of a lane</li>
-     <li>Lighting when the holding a hold note.</li>
-     <li>Used at the very beginning of the song, if there is time</li>
-     <li>This image is flipped horizontally if the stage is upsidedown</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    lightingN.png
-    <hr/>
-    lightingN-#.png
-   </td>
-   <td rowspan="2"><a href="img/lightingN.png" title="Click to view full size"><img src="img/lightingN.png" alt="lightingN.png"/></a></td>
-   <td><img title="True" src="/wiki/shared/True.png"/></td>
-   <td><img title="False" src="/wiki/shared/False.png"/></td>
-   <td>all</td>
-   <td>Centre*</td>
-   <td>-</td>
-   <td>Additive</td>
-  </tr>
-  <tr>
-   <td colspan="6">
-    <ul>
-     <li>*positioned where the centre of the judgementline crosses the centre of a lane</li>
-     <li>Lighting when the pressing a note or releasing for the tail note.</li>
-     <li>Used at the very beginning of the song, if there is time</li>
-     <li>This image is flipped horizontally if the stage is upsidedown</li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
-</table>
+![](img/mania-stage-light.png "mania-stage-light.png")
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
+
+**Notes:**
+
+- Animation name: `mania-stage-light-#.png`, replace # with an indexed count (start count at zero).
+- This is the lighting for the columns when the key is pressed.
+- This element is placed underneath the notes.
+
+---
+
+![](img/mania-stage-hint.png "mania-stage-hint.png")
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![No][false] | ![No][false]      |
+
+**Notes:**
+
+- This is the graphical representation of the judgement line (or the hit area).
+  - The judgement line is drawn in the middle of the image.
+
+---
+
+_`mania-warningarrow.png`_ (transparent; not included)
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![No][false] | ![No][false]      |
+
+**Notes:**
+
+- This element should point **downwards**.
+- This is always seen before the map starts, if there is enough time.
+- This image is automatically flipped horizontally if the stage is upside down.
+
+### Lighting
+
+![](img/lightingL.png "lightingL.png")
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
+
+**Notes:**
+
+- Animation name: `lightingL-#.png`, replace # with an indexed count (start count at zero).
+- This element is the lighting for the hold notes.
+- This image is flipped horizontally if the stage is upside down.
+
+---
+
+![](img/lightingN.png "lightingN.png")
+
+| Animatable   | Beatmap Skinnable |
+|:------------:|:-----------------:|
+| ![Yes][true] | ![No][false]      |
+
+**Notes:**
+
+- Animation name: `lightingN-#.png`, replace # with an indexed count (start count at zero).
+- This element is the lighting for the single notes (and tail notes).
+- This image is flipped horizontally if the stage is upside down.

@@ -1,69 +1,77 @@
+[o!s]: /wiki/shared/Osu.gif "osu!standard"
+[o!t]: /wiki/shared/Taiko.gif "osu!taiko"
+[o!c]: /wiki/shared/Ctb.gif "osu!catch"
+[o!m]: /wiki/shared/Mania.gif "osu!mania"
+
 # Summary
 
-***[Click here to go back to Game Modifiers](/wiki/Game_Modifiers)***
+_Main page: [Game Modifiers](/wiki/Game_Modifiers)_
 
-| Type | Icon | Name (Abbr.) | Multiplier | Effect | Notes |
-|------|------|--------------|------------|--------|-------|
-|Difficulty Reduction| ![Easy mod icon](/wiki/shared/Easy.png "Easy mod icon") |Easy (EZ)| osu!standard, osu!taiko, osu!catch, osu!mania: 0.50| Overall Difficulty, HP Drain and Approach Rate decreased. Circle size increased. osu!taiko: Slider Velocity decreased slightly. | Inverse of Hard Rock. May make maps harder ([Let's talk Easy Mod](https://osu.ppy.sh/forum/t/56606))
-|Difficulty Reduction| ![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon") | No Fail (NF) | osu!standard, osu!taiko, osu!catch, osu!mania: 0.50 |  Incapable of failing when the life bar hits zero | Inverse of Sudden Death/Perfect |
-|Difficulty Reduction| ![Half Time mod icon](/wiki/shared/Half-time.png "Half Time mod icon") | Half Time (HT) | osu!standard, osu!taiko, osu!catch: 0.30 osu!mania: 0.50 | Song speed is 75% of the normal speed. Song length is increased by 33%. | Inverse of Double Time/Nightcore |
-| Difficulty Increase | ![Hard Rock mod icon](/wiki/shared/Hard_Rock.png "Hard Rock mod icon") | Hard Rock (HR) | osu!standard and osu!taiko: 1.06 osu!catch: 1.12 osu!mania: 1.00 | Hit circle size is decreased by 20% The [overall difficulty](/wiki/Beatmap_Editor/Song_Setup/#overall-difficulty), [approach rate](/wiki/Beatmap_Editor/Song_Setup/#approach-rate), and [HP drain](/wiki/Beatmap_Editor/#hp-drain-rate) is multiplied by 1.4 of their original value up to a maximum of 10. osu!standard: Vertical (y-axis) flip of the map design. osu!taiko: Slider Velocity increased slightly. osu!catch: Slight overshoot of the fruits. osu!mania: ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play | Inverse of Easy
-| Difficulty Increase | ![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon") | Sudden Death (SD) | osu!standard, osu!taiko, osu!catch, osu!mania: 1.00 | Force fail for breaking the combo. osu!taiko: Incomplete spinners do not give a penalty. | Hides "Perfect" mod. Inverse of No Fail.
-| Difficulty Increase | ![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon") | Perfect (PF) | osu!standard, osu!taiko, osu!catch, osu!mania: 1.00 | Anything that decreases the accuracy will restart the song. | Inverse of No Fail.
-| Difficutly Increase | ![Double_time.png](/wiki/shared/Double_time.png "Double_time.png") | Double Time (DT) | osu!standard and osu!taiko: 1.12 osu!catch: 1.06 osu!mania: 1.00 | Song speed is 150% of normal speed. Song length is decreased by 33%. | Hides "Nightcore" mod. Inverse of Half Time
-| Difficutly Increase | ![Nightcore mod icon](/wiki/shared/Nightcore.png "Nightcore mod icon") | Nightcore (NC) | osu!standard and osu!taiko: 1.12 osu!catch: 1.06 osu!mania: 1.00 | Song speed and pitch modification. | DT automatically activated. |
-| Difficulty Increase | ![Hidden mod icon](/wiki/shared/Hidden.png "Hidden mod icon") | Hidden (HD) | osu!standard, osu!taiko, osu!catch: 1.06 osu!mania: 1.00 | osu!standard, osu!taiko and osu!catch: Fading of objects. osu!mania: The bottom of the conveyor is hidden. The hidden area gets larger until your 500th combo where half will be covered. | Silver grade (SH/SSH). |
-| Difficulty Increase | ![Fade In mod icon](/wiki/shared/FadeIn.png "Fade In mod icon") |Fade In (FI) | osu!mania: 1.00 | The top of the conveyor is hidden. The hidden area gets larger until your 500th combo where half will be covered. | Silver grade. (SH/SSH). |
-| Difficulty Increase | ![Flashlight mod icon](/wiki/shared/Flashlight.png "Flashlight mod icon") | Flashlight (FL) | osu!standard, osu!taiko, osu!catch: 1.12 osu!mania: 1.00 | osu!,osu!taiko and osu!catch:  Restricted view area. For 3rd and 5th combo bursts (w/o breaks), the light will began shrinking to a smaller size. osu!mania: Center vision only on osu!mania. Pure darkness. | Sliver grade. (SH/SSH). Inverse of Fade-In (mania only)
-| Special | ![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon") | Relax (RL) | osu!standard, osu!taiko, osu!catch: 0.00 | Impossible to fail. osu!standard: Hover the cursor for perfectly timed hit. osu!taiko: Any hit is counted as correct hit. osu!catch: Mouse control rather that keyboard control. | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. However in osu!standard, if you click too early, the judgement still same. Your spin/min will be 2x it's previous value. [Life bar](/wiki/Glossary/#life-bar) is removed and Miss is not shown.
-| Special | ![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon") | Auto Pilot (AP) | osu!standard: 0.00 | Impossible to fail. ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!standard only. Perfect cursor movement. Click timing by player. | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. 287 spin/min on spinner. Player cannot spin to increase the spin/min count. [Life bar](/wiki/Glossary/#life-bar) is removed and Miss is not shown.
-| Special | ![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon") | Spun Out (SO) | osu!standard: 0.90 | osu!standard only. 287 spin/min on spinner. Player cannot spin to increase the spin/min count. | Does nothing on maps with no spinners. Spinners are grayed out. |
-| Special | ![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon") | Auto (AU) | osu!standard, osu!taiko, osu!catch, osu!mania: 0.00 | Perfect run of the beatmap. Nicknames of Auto: osu!standard: osu!, osu!taiko: mekkadosu!, osu!catch: Salad!, osu!mania: osu!topus! | Hides "Cinema" mod. ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. DT and HR can affect the Autoplay accuracy depending on the beatmap design. DT gives 2x and HR gives 1/2x of Maximum Potential Spinner Bonus.
-| Special | ![Cinema mod icon](/wiki/shared/Cinema.png "Cinema mod icon") | Cinema (CM) | osu!standard, osu!taiko, osu!catch, osu!mania: 0.00 | Watch the background video and storyboard with the hitcircles hidden. | Hitsounds will still be played. Can be affected by DT/NC/HT. "Pass" storyboard only. "Fail" storyboard will not be played. No pause, comment and skins elements. |
-| Special | ![4K mod icon](/wiki/shared/4k.png "4K mod icon") | xK (xK) | osu!mania: 0.66 ~ 1.00 (use chart below) | osu!mania only. Force xK setting onto the beatmap. Cannot be applied to mania-specific beatmap. | Multiplier will not work when the forced setting is same as beatmap's difficulty K setting. |
-| Special | ![Co-Op mod icon](/wiki/shared/Key_Coop.png "Co-Op mod icon") | Co-Op (2P) |  osu!mania: 0.70 ~ 1.00 (use chart below) | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. **Normal**: Add a second xK playfield. **Specific**: Split the current xK to two playfields. | **Specific** The design is still the same. The main side will hold the highest xK value if xK is odd-numbered. |
-| Special | ![Random mod icon](/wiki/shared/Random.png "Random mod icon") | Random (RD) | osu!mania: 1.00 | ![Unranked](/wiki/shared/Heartpop.gif "Unranked") Unranked play. osu!mania only. Switching the note placement without affecting note type (hold or hit type). | Does not shuffle the note placement every time you use this mod.
+Note: All mods used in osu!mania will never increase the score multiplier.
 
-## osu!mania xK mods
+| Mod | Name (Abbr.) | Multiplier | Effect |
+|-----|--------------|------------|--------|
+| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Everything, but _easier_. |
+| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | You can't fail, no matter what. |
+| ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | Slow the beatmap down by 25%. |
+| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (unrankable) | Everything, but harder. |
+| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | Combo break = Game over |
+| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | SS (100%) or quit |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Speed the beatmap up by 50%. |
+| ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Increase pitch and add a constant beat. |
+| ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | Hit objects will fade out. |
+| ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][o!m]: 1.00x | Keys will fade in. |
+| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | ![][o!s] ![][o!t] ![][o!c]: 1.12x • ![][o!m]: 1.00x | Limited play field viewing. |
+| ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | ![][o!s] ![][o!t] ![][o!c]: 0.00x (unrankable) | Just use the mouse. |
+| ![Auto Pilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | ![][o!s]: 0.00x (unrankable) | Just tap. |
+| ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][o!s]: 0.90x | Spinners will be spun for you. |
+| ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.00x (unrankable) | Watch a perfect replay. |
+| ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.00x (unrankable) | Watch the video and/or storyboard. |
+| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][o!m]: 0.66x ~ 1.00x (see [chart below](#xk-mod-score-multipliers)) | Use the selected `x` key count. |
+| ![Co-Op](/wiki/shared/mods/COOP.png) | Co-Op (COOP) | ![][o!m]: 0.70x ~ 1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | Use two stages. |
+| ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][o!m]: 1.00x | Shuffle the columns around. |
 
-|Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|4k|0.78|0.82|0.86|-|0.90|0.90|0.90|0.90|0.90|
-|5k|0.74|0.78|0.82|0.86|-|0.90|0.90|0.90|0.90|
-|6k|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|0.90|
-|7k|0.66|0.70|0.74|0.78|0.82|0.86|-|0.90|0.90|
+## xK mod score multipliers
 
-**This table only affects beatmaps converted from osu!standard to osu!mania during play**.
+Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on on osu!mania-specific beatmaps!
 
-**The mod does not work on osu!mania-specific beatmaps.**
+|    | 1k   | 2k   | 3k   | 4k       | 5k       | 6k       | 7k       | 8k   | 9k   |
+|----|------|------|------|----------|----------|----------|----------|------|------|
+| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
+| 5k | 0.74 | 0.78 | 0.82 | 0.86     | **1.00** | 0.90     | 0.90     | 0.90 | 0.90 |
+| 6k | 0.70 | 0.74 | 0.78 | 0.82     | 0.86     | **1.00** | 0.90     | 0.90 | 0.90 |
+| 7k | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
 
-### osu!mania xK + Co-Op mods
 
-|Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|4k|0.82|-|0.90|0.90|0.90|0.90|0.90|0.90|0.90|
-|5k|0.78|0.86|0.90|0.90|0.90|0.90|0.90|0.90|0.90|
-|6k|0.74|0.82|-|0.90|0.90|0.90|0.90|0.90|0.90|
-|7k|0.70|0.78|0.86|0.90|0.90|0.90|0.90|0.90|0.90|
+### xK mod with CO-OP score multipliers
 
-**This table only affects beatmaps converted from Standard to osu!mania during play with Co-Op mod on**.
+Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on on osu!mania-specific beatmaps!
 
 The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
+|    | 1k   |  2k      | 3k       |  4k  | 5k   | 6k   | 7k   | 8k   | 9k   |
+|----|------|----------|----------|------|------|------|------|------|------|
+| 4k | 0.82 | **1.00** | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5k | 0.78 | 0.86     | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6k | 0.74 | 0.82     | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7k | 0.70 | 0.78     | 0.86     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+
 ## Inverse mods
 
-| This mod... | ...cancels out these mods.|
-|-------------|---------------------------|
-|![Hard Rock mod icon](/wiki/shared/Hard_Rock.png "Hard Rock mod icon")|![Easy mod icon](/wiki/shared/Easy.png "Easy mod icon")|
-|![Double Time mod icon](/wiki/shared/Double_time.png "Double Time mod icon")![Nightcore mod icon](/wiki/shared/Nightcore.png "Nightcore mod icon")|![Half Time mod icon](/wiki/shared/Half-time.png "Half Time mod icon")|
-|![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")|
-|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")|![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
-|![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
-|![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![No Fail mod icon](/wiki/shared/No_Fail.png "No Fail mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
-|![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")|![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|
-|![Auto mod icon](/wiki/shared/Autoplay.png "Auto mod icon")|![Sudden Death mod icon](/wiki/shared/Sudden_Death.png "Sudden Death mod icon")![Perfect mod icon](/wiki/shared/Perfect.png "Perfect mod icon")![Relax mod icon](/wiki/shared/Relax.png "Relax mod icon")![Auto Pilot mod icon](/wiki/shared/AutoPilot.png "Auto Pilot mod icon")![Spun Out mod icon](/wiki/shared/Spun_Out.png "Spun Out mod icon")|
+Note: To prevent the following table from growing outrageously large, the reverse is also true.
+
+| These mods... | ...cancels out these mods. |
+|---------------|----------------------------|
+| ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
+| ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
+| ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
+| ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) | ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Relax](/wiki/shared/mods/RL.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Auto Pilot](/wiki/shared/mods/AP.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Spun Out](/wiki/shared/mods/SO.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Spun Out](/wiki/shared/mods/SO.png) |
 
 ### osu!mania
-| This mod... | ...cancels out these mods.|
-|-------------|---------------------------|
-|![Hidden mod icon](/wiki/shared/Hidden.png "Hidden mod icon")![Fade In mod icon](/wiki/shared/FadeIn.png "Fade In mod icon")|![Flashlight mod icon](/wiki/shared/Flashlight.png "Flashlight mod icon")|
+
+| These mods... | ...cancels out these mods. |
+|---------------|----------------------------|
+| ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |

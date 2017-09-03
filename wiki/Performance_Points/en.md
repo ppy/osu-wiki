@@ -1,156 +1,171 @@
-<img src="Performance point.jpg" title="fig:Performance point and Performance rank" alt="Performance point and Performance rank" width="200" /> Performance Points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the **actual skill of the player**.
+Performance Points
+==================
+
+The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like *osu!*.
+
+It aims to shift the focus of skill progression from the amount of time played to an **actual representation of the player's skill.** This is attained by the calculation of a unique _pp_ score, based on the difficulty of a beatmap and a player's performance on that map.
 
 History
-=======
+-------
 
-The new metric was initially released in April, 2012 as '???' during a testing phase, being finally renamed to "pp" (Performance Points) on the 17th April 2012. In July 24, the [(20120722-24) osu! release](http://osu.ppy.sh/forum/p/1687719) replaced the Ranked score system with Performance Points for every 30 minutes. As of August 16, the pp system is now updated in real-time. After more than a year of service, ppv1 received revamped upgrade (named ppv2), which was implemented on the 27th January 2014 by [Tom94](http://osu.ppy.sh/u/1857058), creator of the [osu!tp ranking system](http://osutp.net).
+Revealed to the public during April 2012 and titled only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
 
-A changelog reflecting the most recent changes to the system is available [here](https://osu.ppy.sh/p/changelog?category=pp). For the obsolete ppv1 changelog, look [here](http://osu.ppy.sh/forum/t/92185).
+Known thereafter as "pp", short for "performance points", this new system sought to change the previous standard of player performance from simply total score to something that accurately reflected player skill. This was met to widespread acclaim among the player base at the time.
 
-Location
-========
+Several months after its reveal, the [(20120722-24) osu! release](http://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time. 
 
-The performance points ranking can be found [here](http://osu.ppy.sh/p/pp). It can also be found from the bar at the top (Rankings -&gt; Performance)
+It continued to exist in this capacity for more than a year of service, until [Tom94](http://osu.ppy.sh/u/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
 
-To find out how the final pp is calculated, the breakdown-per-beatmap is located in "Top Ranks" tab of the profile.
+*ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-Calculation
-===========
+*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](http://osu.ppy.sh/forum/t/92185).
 
-Determining the amount of points
---------------------------------
+How is pp calculated?
+---------------------
 
-Performance points are heavily based on map difficulty which is determined by a unique algorithm in every gamemode. Based on this difficulty alone each of your scores is rated and assigned a pp value.
+Performance Points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode. 
 
-These steps differ a lot per gamemode. Below are more detailed explanations of how each gamemodes works.
+The difficulty of the map you are playing one determines the end pp value of your score.
 
-| ![](osu.gif "fig:osu.gif") [osu!Standard](Standard "wikilink") |-align="center" |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
-|-------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| ![](taiko.gif "fig:taiko.gif") [Taiko](Taiko "wikilink") |-align="center" |               | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
-| ![](ctb.gif "fig:ctb.gif") [Catch the Beat](Catch_the_Beat "wikilink") |-align="center" | | **Aim**                                                  |
-| ![](mania.gif "fig:mania.gif") [osu!mania](osu!mania "wikilink") |-align="center" |       | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+To get into specifics, the formula relies on four core values, defined as **aim**, **speed**, **accuracy**, and **strain**.
 
--   osu!Standard / Taiko: *X* = 1.1
--   osu!mania: *X* is currently tuned to 1.1. **Accuracy** is tuned to only represent a relatively small amount of the pp gained, compared to **Strain**, because accuracy already indirectly is represented by **Strain**'s score scaling.
+These core values are combined in varying magnitudes to produce an overall score that relates to a map's particular difficulty, and a score's individual performance in said map.
 
-| width=20%|Gamemodes\\pp's value                                        | width=20%|Aim                                                                                         | width=20%|Speed                                              | width=20%|Accuracy                                                                                              | width=20%|Strain                                                                                                                                                               |
-|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](osu.gif "fig:osu.gif") [osu!Standard](Standard "wikilink")         | -   **Aim difficulty** + [Mods](Game_Modifiers "wikilink")  
-                                                                          -   **[Approach rate (AR)](Song_Setup#Approach_Rate "wikilink")** + [Mods](Game_Modifiers "wikilink")
-                                                                          -   Length of the beatmap in hit objects
-                                                                          -   Combo and amount of Miss.
-                                                                          -   Accuracy {small margin}
-                                                                          -   [Hidden](Hidden "wikilink") and/or [Flashlight](Flashlight "wikilink") is active.                  | -   **Speed difficulty** + [Mods](Game_Modifiers "wikilink")
-                                                                                                                                                                                  -   Length of the beatmap in hit objects
-                                                                                                                                                                                  -   Combo and amount of Miss
-                                                                                                                                                                                  -   Accuracy {small margin}                                   | -   **[Overall difficulty (OD)](Song_Setup#Overall_Difficulty "wikilink")** + [Mods](Game_Modifiers "wikilink")
-                                                                                                                                                                                                                                                 -   Length of the beatmap in hit circles
-                                                                                                                                                                                                                                                 -   Accuracy (ignoring sliders and spinners)
-                                                                                                                                                                                                                                                 -   [Hidden](Hidden "wikilink") and/or [Flashlight](Flashlight "wikilink") {small margin}                        |                                                                                                                                                                                |
-| ![](taiko.gif "fig:taiko.gif") [Taiko](Taiko "wikilink")               |                                                                                                       |                                                              | -   **[Overall difficulty (OD)](Song_Setup#Overall_Difficulty "wikilink")** + [Mods](Game_Modifiers "wikilink") 
-                                                                                                                                                                                                                                                 -   Length of the beatmap in hit objects (ignoring drumrolls and spinners)
-                                                                                                                                                                                                                                                 -   Accuracy                                                                                                     | -   **Strain difficulty** + [Mods](Game_Modifiers "wikilink")
-                                                                                                                                                                                                                                                                                                                                                                   -   Length of the beatmap in hit objects
-                                                                                                                                                                                                                                                                                                                                                                   -   Combo and amount of Miss
-                                                                                                                                                                                                                                                                                                                                                                   -   Accuracy {small margin}                                                                                                                                                     |
-| ![](ctb.gif "fig:ctb.gif") [Catch the Beat](Catch_the_Beat "wikilink") | -   **Aim difficulty** + [Mods](Game_Modifiers "wikilink")  
-                                                                          -   **[Approach rate (AR)](Song_Setup#Approach_Rate "wikilink")** + [Mods](Game_Modifiers "wikilink")
-                                                                          -   Length of the beatmap in hit objects
-                                                                          -   Combo and amount of Miss.
-                                                                          -   Accuracy {small margin}
-                                                                          -   [Hidden](Hidden "wikilink") and/or [Flashlight](Flashlight "wikilink") is active.                  |                                                              |                                                                                                                 |                                                                                                                                                                                |
-| ![](mania.gif "fig:mania.gif") [osu!mania](osu!mania "wikilink")       |                                                                                                       |                                                              | -   **[Overall difficulty (OD)](Song_Setup#Overall_Difficulty "wikilink")** + [Mods](Game_Modifiers "wikilink") 
-                                                                                                                                                                                                                                                 -   Length of the beatmap in hit objects
-                                                                                                                                                                                                                                                 -   Accuracy                                                                                                     | -   **Strain difficulty** + [Mods](Game_Modifiers "wikilink"), including key-mods and currently excluding [Double Time](Double_Time "wikilink") (problems with scoring system)
-                                                                                                                                                                                                                                                                                                                                                                   -   Length of the beatmap in hit objects
-                                                                                                                                                                                                                                                                                                                                                                   -   Score achieved relative to the maximum possible score (Scaling not linear)                                                                                                  |
+Scores are then weighted against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. This is known as the  _weightage system_, and it is a fundamental concept of the performance points metric.
 
-'''Note:- '''
+A small amount of bonus pp is awarded based on the number of ranked maps you have set a score on.
 
--   Final pp reduction mods:-
-    -   [No Fail](No_Fail "wikilink") reduces the final beatmap's pp by 10%
-    -   [Spun Out](Spun_Out "wikilink") reduces the final beatmap's pp by 5%.
--   Length of the beatmap in hit objects / hit circles
-    -   Example: Drain time 2 minutes; 1,000 objects &gt; 500 objects.
-    -   However: 1,000 objects; Drain time 2 minutes = Drain time 5 minutes
-        -   Drain Time = Song length - Breaktime - Intro/outro.
--   **@ difficulty** + [Mods](Game_Modifiers "wikilink")
-    -   "+ [Mods](Game_Modifiers "wikilink")" excluded list: [Sudden Death](Sudden_Death "wikilink")/[Perfect](Perfect "wikilink"), [Relax](Relax "wikilink"), [Auto Pilot](Auto_Pilot "wikilink"), [Auto](Auto "wikilink")/[Cinema](Cinema "wikilink").
+### What is aim?
 
-Weightage system
-----------------
+**Aim is considered as how difficult it is to consistently hit consecutive notes in a beatmap.**
 
-<img src="Pp bp.jpg" title=" Click the picture for pp formula usage example." alt=" Click the picture for pp formula usage example." width="275" />
+Elements like approach rate (AR) and certain mods (namely Flashlight, Hidden and HardRock) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
 
-For transparency on how your final pp is calculated, pp gained from the beatmap is given along with weight (% of eligible pp to be gained for final pp). Only your highest pp score's beatmap gives you full pp. Other scores' pp values will be multiplied with decreasing percentage. The percentage is always rounded to the next whole number for displaying, but for calculations it is not. For example a score can be weighted by 0.48% despite the display saying "0%". If *n* is the amount of scores giving more pp than a given score, then the score's weight is **0.95**^*n* .
+Maps with very large jumps (in the case of _osu!standard_) are considered to be high-aim maps, and are thus often given very high pp scores. Maps with lots of hyperdashing in _osu!catch_ will be considered similarly.
 
-It follows, that your total pp is computed as follows. Let *PP* contain each score's pp value. *PP*\[i\] denotes the *i*th score's pp value, sorted decreasingly, where *i* goes from 1 to *n*, and *n* is the amount of scores you have.
+Aim is not considered in gamemodes like _osu!taiko_ and _osu!mania_.
 
-**Total pp** = *PP*\[1\] \* **0.95**^0 + *PP*\[2\] \* **0.95**^1 + *PP*\[3\] \* **0.95**^2 + ... + *PP*\[*n*\] \* **0.95**^(*n*-1)
+### What is speed?
 
-[Click for an example of the formula usage (scroll down to see the example).](/wiki/Pp_bp.jpg)
+**Speed is considered as the rate at which a beatmap presents elements for play.**
 
-There is also bonus pp based on the number of ranked maps you have a score on. The bonus is:
+Maps with high numbers of hit objects in a short period of time are considered to have very high speed values. 
 
-416.6667 (1- 0.9994^Number\_of\_scores).
+Mods like DoubleTime and HalfTime significantly affect the speed of a beatmap as considered by the performance points algorithm.
 
-<img src="Osubonuspp.png" title="Number of ranked map scores needed for varying amounts of bonus pp" alt="Number of ranked map scores needed for varying amounts of bonus pp" width="400" />
+### What is accuracy?
+
+**Accuracy is considered as your individual performance and consistency in hitting objects within their designated timeframe.**
+
+Highly accurate scores are considered to be very skilful by the performance points algorithm and will award very large scores compared to scores that are not accurate.
+
+A score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% accuracy, for example.
+
+Mods like Hidden, Hard Rock and Flashlight are considered to significantly alter how difficult it is to attain an accurate score on a beatmap.
+
+### What is strain?
+
+**Strain is considered as how many times and for how long a player is subjected to high intensity sections within a particular beatmap.**
+
+Sections or bursts of extremely high speed or difficulty patterning in a beatmap will massively increase its considered strain values.
+
+Maps with high strain values are considered to be very, very difficult, and thus award very large sums of performance points if surmounted by a player's skill.
+
+### How does aim, speed, accuracy and strain combine to produce a pp score?
+
+**All four elements are considered in concert to determine how difficult a map is overall, and also how a particular score compares to what is considered the 'optimal' play for that beatmap.**
+
+The algorithm for performance points varies significantly depending on gamemode.
+
+While the exact numbers are well beyond the scope of this article, certain gamemodes place greater precedence on certain statistics due to their individual mechanics.
+
+### What is the 'weightage system' and how does it affect my scoring?
+
+**The weightage system refers to the fact that all of your scores are weighted against each other in terms of overall performance.**
+
+This means that only your highest pp score will award the full amount of pp for that particular performance. Other scores with lower overall pp values will be weighted with a gradually decreasing percentage.
+
+To provide an example of this with a mathematical formula:
+
+Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the _i_th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
+
+```Total pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
+
+### How much bonus pp is awarded for having lots of scores on ranked maps?
+
+**Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately _25397_ scores.**
+
+You can calculate the exact amount of this bonus by following this formula, where _N_ is the number of ranked maps with a score set:
+
+416.6667 \/ (1- 0.9994^_N_).
+
+The median number of scores required to reach half of this bonus is roughly _1168_. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
+
 
 FAQ
-===
+---
 
-Credit: CXu's Performance Points FAQ [1](https://osu.ppy.sh/forum/p/4587984)
+### Where can I view the performance ranking?
 
-Why did I only gain 30pp when the map I played gives 100pp?
------------------------------------------------------------
+**The performance points ranking for all players can be found [here](https://osu.ppy.sh/p/pp).**
 
-PP is a weighted system. This means that your highest pp score gives 100% of its pp, the next one 95% and so on. So your 100pp score may only be weighted around 30%. This does not, however, mean that you actually get a 100% pp gain, even if you set a new personal top performance, as every other score you have will be weighted less than they did before. It's quite easy if you think about it for a little bit:
-Let's imagine that your top rank only has 2 maps and looks like this:
-**\#1.** 100pp, weighted 100%
-**\#2.** 100pp, weighted 95%
-Your total pp will then be 100 + 95 = 195pp. If you now set a 110pp score, your top rank will look like this:
-**\#1.** 110pp, weighted 100%
-**\#2.** 100pp, weighted 95%
-**\#3.** 100pp, weighted 90%
-As you can see, your new total pp is not 195 + 110 = 305pp, but 110 + 95 + 90 = 295pp.
+You can also navigate to the rankings by using the `Ranking` dropdown panel at the top of the legacy web design, and choosing the `Performance` option.
 
-I used to get some pp from playing 100pp maps, but now I get nothing?
----------------------------------------------------------------------
+### How can I increase my rank/overall pp?
 
-This happens for the same reason as above. At some point, the score will be weighted for 1% or less, and your overall net gain of pp will be so small that it's negligible. Set some scores worth more pp to gain more!
+**Your performance is ranked predominately based on your scores on individual maps.**
 
-I played a map and I suddenly lost 384495 ranks! Why did I lose so much pp?
----------------------------------------------------------------------------
+The best way to improve is to thus work at getting good scores on difficult maps, or playing a wide variety of beatmaps.
 
-Are you absolutely sure you lost pp? Remember that a ranking is dynamic. When you go to bed, countless of people below you will play the game and achieve a higher pp score than you. Your rank does not update until you play a song, so when you play a song, and get to the result screen, it will look like you suddenly lost a lot of ranks. In reality, this most likely happened not because you lost pp, but because other players gained pp, either while you were busy playing the map, or while you were busy doing other things.
+Consider the following tips:
 
-I just got a new score on a map, and I lost pp for it. Why isn't the highest pp score saved?
---------------------------------------------------------------------------------------------
+- Play efficiently and figure out which play style works best for you.
+- Focus on getting a handful of excellent scores, instead of "farming" hundreds of just okay scores.
+- Aim to improve your accuracy. Even 1% makes a massive difference.
+- Aim for higher combos. Full combos (FC) or perfect (SS) scores give tremendous amounts of score.
 
-osu! is a fairly old game, and back then, pp didn't exist, and score rankings were the alpha and omega. And while we do have a pp based ranking now, map ranking are still determined by the player with the highest score, and not the highest pp, and therefore you might occasionally lose pp from getting a higher combo with worse accuracy, or playing with HD with worse accuracy or similar.
+### Why didn't I gain the full amount of pp from a map I played?
 
-Why is x mod over-/underweighted? This is wrong!
-------------------------------------------------
+**Performance points use a _weighted_ system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
 
-Almost every "mod specialist" that keep talking about mods being over or underrated falls into either category:
+This is explored in depth in the _weightage system_ section of the article above. To explain this with a simpler example:
 
-1.  Those that think their mod is underrated and the others are overrated (because "if I had x I would totally pp farm that stuff while I'm totally pro.")
-2.  Those that think their mod is overrated and the others are underrated (because "rofl this is soooooooooooooo easy I'm so good at this game.")
+If your top pp rankings has only two maps played, all of which are 100pp each scores, your total pp would then be _195pp_.
 
-In reality, no system can be completely perfect. Some maps will be easier than others, while still give the same amount of pp, and that's just how it is. Difficulty is also subjective, and it depends heavily on what you as a player specialize in. A HR player might find a particular map overweighted with HR, while a nomod player might find that pp weighed perfectly fine.
+The first score is worth 100% of its total pp as it is your top score. 
 
-Why is x map over-/underweighted? This is wrong!
-------------------------------------------------
+The second score is worth only 95% of its total pp as it is not your top score, so it contributes only 95pp towards your total instead of 100.
 
-This has more or less the same answer as above. Additionally, the pp algorithm currently does not really take reading difficulty into account. This means that maps that are difficult to read will very often be underweighted compared to their overall difficulty.
+Now, let us posit that you set a brand new 110pp score. Your top rankings now look like this:
 
-Increasing your rank/pp
------------------------
+1. 110pp, weighted 100% = 110
+2. 100pp, weighted 95% = 95
+3. 100pp, weighted 90% = 90
 
-Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to either improve your scores on difficult songs or play more variety of beatmaps. Do note that **game modes are counted separately** \[which means, playing (osu!/Taiko/CtB/osu!mania) raises (osu!/Taiko/CtB/osu!mania) pp\].
+As you may have figured out, your new total pp is not simply ``195 + 110 = 305pp``, but instead ``110 + 95 + 90 = 295pp``.
 
--   Play efficiently and master your play style.
--   Work on getting some really good scores, not thousands of "okay" scores.
--   Get higher accuracy (even 1% difference can help light-years!).
--   Get higher combo. Go for Full Combo/Perfect or "SS/SSH".
--   Play well on harder difficulties.
+This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
+
+#### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
+
+**As above, older scores will eventually be weighted for less than a single percent of their total value. This means they will eventually contribute almost nothing to your total score as you improve.**
+
+At that point however, you would've set some comparatively more impressive scores, meaning that your pp will be higher overall as the higher scores you have set outweigh the older ones.
+
+### Why did I lose pp for setting a new score?
+
+**You might occasionally lose pp for setting a higher combo score with worse accuracy, or playing with mods with worse accuracy overall.**
+
+Total score is still important to individual map rankings, and this may produce unusual circumstances where a higher overall score with lower accuracy or mod use factored in will produce a "better" result that still ultimately loses you pp.
+
+### Some mods feel very overweighted/underweighted. Why is this?
+
+**This is a matter of opinion more than anything else.**
+
+No system is completely perfect, and performance point totals will certainly vary between mapsets and certain mod combinations, even when the subjective difficulty of those plays may be lower than a more difficult map.
+
+Overall, the current performance points system has been engineered to be as fair as possible under the constraints of its model.
+
+
+
+
