@@ -92,7 +92,7 @@ _BBCode llama a este "Color" ._
   * El cuadro de color se encuentra en el lado derecho del cuadro de texto.
   * Utiliza esta etiqueta con moderación.
   * El uso excesivo de esto creará incomodidad a los ojos del lector.
-  * El mal uso de esto hará que su texto sea ilegible.
+  * El mal uso de esto hará que tu texto sea ilegible.
   * Si eliges un color, asegúrate de que contraste con el fondo para que sea legible.
   * El argumento `HEXCODE` no debe usar comillas.
 - Sintaxis:
