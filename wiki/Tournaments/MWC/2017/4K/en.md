@@ -242,6 +242,20 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+| Saturday, 2. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Sweden ![][flag_SE] | 1 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35769761) |
+| China ![][flag_CN] | 6 | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35771726) |
+| Brazil ![][flag_BR] | 0 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/35774130) |
+| Poland ![][flag_PL] | 1 | 6 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35777392) |
+| United Kingdom ![][flag_GB] | 6 | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35779902) |
+| United States ![][flag_US] | 6 | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35783065) |
+
+| Sunday, 3. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 6 | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35804308) |
+| China ![][flag_CN] | 2 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/35807134) |
+
 ### Quarterfinals
 
 | Saturday, 26. August 2017 | | | | |
