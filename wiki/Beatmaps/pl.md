@@ -1,72 +1,72 @@
 # Beatmapy
 
-Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
+**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/Glossary/#ds-games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/hit_objects) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/storyboard).
 
-Beatmaps can be uploaded by the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
+Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/BSS) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
-You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web.
+Możesz znaleźć beatmapy na stronie internetowej osu!, na [liście beatmap](https://osu.ppy.sh/beatmapsets).
 
 ## Statusy
 
-Both ranked and approved beatmaps requires approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators). They can influence the stats on a player's profile which is what makes them different from a [pending](#pending) or [graveyarded](#graveyard) beatmap.
+Beatmapy rankingowe, jak i zatwierdzone, muszą zostać zatwierdzone przez przynajmniej dwóch [Nominatorów](/wiki/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#oczekujące) czy [nieaktualizowanych](#nieaktualizowane).
 
 ### Rankingowe
 
-Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy rankingowe są oznaczane symbolem dwóch strzałek w górę (![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png)).
 
-These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_criteria). This is to ensure that most players can expect a certain kind of standard while playing them.
+Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_Criteria). Ma to na celu zapewnienie użytkoników, że posiadają one ściśle określone standardy.
 
 ### Zatwierdzone
 
-Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy zatwierdzone są oznaczane znakiem wyboru (![Znak wyboru](/wiki/shared/status/approved.png)).
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may uploaded them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada [łatwego](/wiki/Easy) czy [normalnego](/wiki/Normal) poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane
 
-Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy zakwalifikowane są oznaczane znakiem wyboru (![Znak wyboru](/wiki/shared/status/qualified.png)).
 
-These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. W grze przed rozgrywką pojawi się komunikat mówiący, że obecny status beatmapy może spowodować:
 
-- No [pp](/wiki/pp) will be awarded.
-- All scores will be deleted when the status is changed.
-  - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
+- Nie zostanie przyznane [pp](/wiki/pp).
+- Wszystkie wyniki zostaną usunięte po zmianie statusu.
+  - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony czy oczekujący; wszystkie wyniki zostaną usunięte!
 
-When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming [ranked](#ranked) or [approved](#approved) permanently.
+Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/ranking_criteria) i została zatwierdzona przez dwóch [Nominatorów](/wiki/Beatmap_Nominators). Kwalifikacja to ostatni etap, który ostatecznie zdecyduje czy beatmapa otrzyma status [rankingowy](#ranked) czy [zatwierdzony](#approved). Okres ten musi trwać przynajmniej tydzień.
 
-During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up issues with these beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
+Podczas tego tygodniego okresu, [członkowie zespołu QAT](/wiki/QAT) mogą wytyczyć błędy w zakwalifikowanej beatmapie. Jeżeli tak się stanie, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
 ### Ulubione społeczności
 
-Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy ulubione społeczności są oznaczane sercem (![Serce](/wiki/shared/status/loved.png)).
 
-These beatmaps may not meet the [ranking criteria](/wiki/ranking_criteria) but are _loved_ by the community and thus are regularly added based on community votes. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są *uwielbiane* przez społeczność. Są dodane regularnie do tej kategorii poprzez głosowania. W grze przed rozgrywką pojawi się komunikat mówiący, że obecny status beatmapy może spowodować:
 
-- No [pp](/wiki/pp) will be awarded.
-- All scores will be deleted when the creator updates the beatmap.
+- Nie zostanie przyznane [pp](/wiki/Performance_Points).
+- Wszystkie wyniki zostaną usunięte po tym jak twórca zaktualizuje beatmapę.
 
-This status will give those beatmaps a leaderboard.
+Charakterystycznym elementem dla beatmap z tej kategorii są tabele wyników.
 
-To get a beatmap in the loved status, see the forum post: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
+Aby uzyskać na beatmapie status `ulubione społeczności`, zobacz wątek na forum: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
 
 ### Oczekujące
 
-_See also: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)_
+_Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_Ranking_Procedure)_
 
-Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy oczekujące są oznaczane znakiem zapytania (![Znak zapytania](/wiki/shared/status/pending.png)).
 
-A beatmap with a pending status is usually waiting to be [modded](/wiki/modded). [Creators](/wiki/Creators) must seek for [modders](/wiki/modders) from the community and at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) to get their beatmapset out of this status.
+Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modded). [Twórcy](/wiki/Creators) muszą znaleźć [moderów](/wiki/Modders) oraz przynajmniej dwóch [Nominatorów](/wiki/Beatmap_Nominators) w celu *wydostania* beatmapy z tego statusu.
 
-Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [graveyard](#graveyard) status.
+Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatycznie otrzymają status [nieaktualizowanych](#nieaktualizowane).
 
-All pending beatmaps do not affect user statistics.
+Żadna z beatmap oczekujących nie wpływa na statystyki użytkowników.
 
 ### Nieaktualizowane
 
-Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
+Na ekranie wyboru piosenek beatmapy nieaktualizowane są oznaczane znakiem zapytania (![Znak zapytania](/wiki/shared/status/graveyard.png)).
 
-These beatmaps were initally [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
+Te beatmapy oryginalnie posiadały status [oczekujący](#pending), ale zostały przeniesione do tej kategorii, ponieważ nie były aktualizowane bądź ich wątki były nieaktywne przez 4 tygodnie. Nie mogą one zostać zaktualizowane, dopóki [twórca](/wiki/Mapper) nie naciśnie przycisku `Revive Beatmap` na swoim profilu w zakładce `Beatmaps`.
 
-All graveyarded beatmaps do not affect user statistics.
+Żadna z beatmap nieaktualizowanych nie wpływa na statystyki użytkowników.
 
-For the sake of saving digital space for newer beatmaps, *osu!* will purge graveyarded beatmaps if they have been in this status for a long period of time.
+Aby zaoszczędzić pamięć dla nowszych beatmap, *osu!* będzie automatycznie usuwało nieaktualizowane beatmapy, jeżeli posiadają ten status od dłuższego czasu.
