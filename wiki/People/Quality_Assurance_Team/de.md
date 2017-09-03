@@ -23,8 +23,7 @@ Teammitglieder
 [Team-Seite](http://osu.ppy.sh/g/7)
 
 | Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Zusätzlich gesprochene Sprachen              |
-|---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------------------------|
-| [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Japanisch, etwas Französisch                 |
+|---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------------------------|         |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                                              |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                                              |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanisch, Deutsch                            |
