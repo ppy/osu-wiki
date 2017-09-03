@@ -93,7 +93,7 @@ _BBCode llama a este "Color" ._
   * Utiliza esta etiqueta con moderación.
   * El uso excesivo de esto creará incomodidad a los ojos del lector.
   * El mal uso de esto hará que su texto sea ilegible.
-  * Si elige un color, asegúrate de que contraste con el fondo para que sea legible.
+  * Si eliges un color, asegúrate de que contraste con el fondo para que sea legible.
   * El argumento `HEXCODE` no debe usar comillas.
 - Sintaxis:
   * Donde `HEXCODE` es un color en hexadecimal o nombre de color.
