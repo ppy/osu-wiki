@@ -121,7 +121,7 @@ Ajusta relativamente el tamaño del texto.
   * Si introduces un valor que no es uno de los enumerados anteriormente, utilizarás el tamaño de fuente predeterminado.
   * El argumento `NUMBER` no debe usar comillas.
 - Sintaxis:
-  * Cuando «NUMBER» sea uno de los tamaños indicados anteriormente:
+  * Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
 ```prolog
 [size=NUMBER] ... [/size]
 ```
