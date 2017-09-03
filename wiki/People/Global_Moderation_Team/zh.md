@@ -22,44 +22,53 @@ Global Moderation Team (中文)
 **小提示：所有 GMT 都能够熟练的使用英文进行交流，特别说明的除外。** - [当前在任的 GMT 成员可以在这里看到](http://osu.ppy.sh/g/4)
 
 | 名字 | 语言 | 专注范围 |
-| ----- | --------- | ------------- |
+| ---- | ---- | -------- |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | 意大利语 | 聊天室管理 |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | 匈牙利语 | 聊天室管理 |
+| [Atrue](https://osu.ppy.sh/u/1758523) | 中文 | 聊天室管理 |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | 聊天室管理 |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | osu! 媒体创作 |
+| [Deif](https://osu.ppy.sh/u/318565) | 西班牙语 | 比赛 |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | 技术支持 |
-| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | 西班牙语 | 聊天室管理 |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
 | [Flanster](https://osu.ppy.sh/u/447818) | 保加利亚语 | osu!idol hosting, 聊天室管理 |
+| [Gabe](https://osu.ppy.sh/u/654108) | 法语 | 聊天室管理 |
 | [Galkan](https://osu.ppy.sh/u/169570) | 波兰语 | 聊天室管理 |
 | [ghm12](https://osu.ppy.sh/u/2594229) | 葡萄牙语 | 聊天室管理 |
+| [heyronii](https://osu.ppy.sh/u/5642779) | 土耳其语 | 聊天室管理 |
 | [IamKwaN](https://osu.ppy.sh/u/1856463) | 广东话, 中文 | 聊天室管理 |
 | [juankristal](https://osu.ppy.sh/u/443656) | 西班牙语 | 聊天室管理, 比赛 |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | 俄语 | 聊天室管理 |
-| [KSHR](https://osu.ppy.sh/u/409957) | 日语 | 聊天室管理 |
 | [Kurai](https://osu.ppy.sh/u/77089) | 法语, 俄语 | 聊天室管理 |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | 俄语 | 聊天室管理 |
 | [Marcin](https://osu.ppy.sh/u/722665) | 波兰语 | 论坛管理, 发展 |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | 意大利语 | 聊天室管理 |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | 菲律宾语 | 论坛管理, 聊天室管理 |
+| [n0ah](https://osu.ppy.sh/u/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | 法语 | 聊天室管理 |
-| [Nishiji](https://osu.ppy.sh/u/167629) | 土耳其语 | 聊天室管理 |
 | [Nyquill](https://osu.ppy.sh/u/682935) | 中文 | osu!weekly |
-| [OnosakiHito](https://osu.ppy.sh/u/290128) | 德语 | 聊天室管理 |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | 聊天室管理, 技术支持 |
 | [Pereira006](https://osu.ppy.sh/u/537344) | 葡萄牙语 | 聊天室管理 |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | 荷兰语 | 聊天室管理 |
-| [QHideaki13](https://osu.ppy.sh/u/733998) | 马来语 | 聊天室管理 |
 | [Repflez](https://osu.ppy.sh/u/201392) | 西班牙语 | 聊天室管理, Wiki 管理 |
+| [ruexia](https://osu.ppy.sh/u/385069) | 韩语 | 聊天室管理 |
+| [S o h](https://osu.ppy.sh/u/2234772) | 日语 | 聊天室管理 |
 | [Saten](https://osu.ppy.sh/u/444506) | 瑞典语, 西班牙语 | 聊天室管理 |
 | [shARPII](https://osu.ppy.sh/u/776257) | 法语 | 聊天室管理, 比赛 |
 | [Shiro](https://osu.ppy.sh/u/113005) | 法语, 西班牙语 | 聊天室管理 |
 | [Shockwave](https://osu.ppy.sh/u/251631) | 西班牙语 | 聊天室管理 |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | 印尼语 | 聊天室管理 |
-| [Stefan](https://osu.ppy.sh/u/626907) | 德语 | 论坛管理, 聊天室管理 |
+| [Spkz](https://osu.ppy.sh/u/2964029) | 匈牙利语 | 聊天室管理 |
+| [Stefan](https://osu.ppy.sh/u/626907) | 德语 | 聊天室管理, 论坛管理 |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | 韩语 | 聊天室管理 |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu! 媒体创作 |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | 技术支持 |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | 韩语, 日语 | 聊天室管理 |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| 韩语, 日语 | 聊天室管理 |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | 西班牙语 | 技术支持 |
 | [Ukami](https://osu.ppy.sh/u/820865) | 波兰语 | 聊天室管理 |
 | [Uni](https://osu.ppy.sh/u/617106) | 荷兰语 | 聊天室管理 |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | 技术支持 |
-| [XavierJones](https://osu.ppy.sh/u/495733) | 土耳其语 | 聊天室管理 |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | 西班牙语 | 聊天室管理, 论坛管理 |
 | [Yason](https://osu.ppy.sh/u/2574392) | 波兰语 | 聊天室管理 |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | 中文 | 聊天室管理 |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | 匈牙利语 | 聊天室管理 |
+| [Zetera](https://osu.ppy.sh/u/587737) | 德语 | 聊天室管理 |

@@ -30,44 +30,53 @@
 [Всегда актуальная ссылка](http://osu.ppy.sh/g/4) (список). *Помимо указанных языков, все эти люди знают английский.*
 
 | Имя | Дополнительные языки | Специализация |
-| ----- | --------- | ------------- |
+| --- | -------------------- | ------------- |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | итальянский | чат |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | венгерский | чат |
+| [Atrue](https://osu.ppy.sh/u/1758523) | китайский | чат |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | чат |
 | [deadbeat](https://osu.ppy.sh/u/128370) | | обучение игроков |
+| [Deif](https://osu.ppy.sh/u/318565) | испанский | организация турниров |
 | [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | техподдержка |
-| [ErunamoJAZZ](https://osu.ppy.sh/u/1869764) | испанский | чат |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | игрок поддержки |
 | [Flanster](https://osu.ppy.sh/u/447818) | болгарский | организация конкурсов osu!idol, чат |
+| [Gabe](https://osu.ppy.sh/u/654108) | французский | чат |
 | [Galkan](https://osu.ppy.sh/u/169570) | польский | чат |
 | [ghm12](https://osu.ppy.sh/u/2594229) | португальский | чат |
+| [heyronii](https://osu.ppy.sh/u/5642779) | турецкий | чат |
 | [IamKwaN](https://osu.ppy.sh/u/1856463) | кантонский, китайский | чат |
 | [juankristal](https://osu.ppy.sh/u/443656) | испанский | чат, организация турниров |
 | [Kobold84](https://osu.ppy.sh/u/3227533) | русский | чат |
-| [KSHR](https://osu.ppy.sh/u/409957) | японский | чат |
 | [Kurai](https://osu.ppy.sh/u/77089) | французский, русский | чат |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | русский | чат |
 | [Marcin](https://osu.ppy.sh/u/722665) | польский | форум, разработка игры |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | итальянский | чат |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») | форум, чат |
+| [n0ah](https://osu.ppy.sh/u/3086393) | голландский | чат, форум |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | тагалог («филиппинский») | чат, форум |
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | французский | чат |
-| [Nishiji](https://osu.ppy.sh/u/167629) | турецкий | чат |
 | [Nyquill](https://osu.ppy.sh/u/682935) | китайский | osu!weekly |
-| [OnosakiHito](https://osu.ppy.sh/u/290128) | немецкий | чат |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | чат, техподдержка |
 | [Pereira006](https://osu.ppy.sh/u/537344) | португальский | чат |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | голландский | чат |
-| [QHideaki13](https://osu.ppy.sh/u/733998) | малайский | чат |
 | [Repflez](https://osu.ppy.sh/u/201392) | испанский | чат, администрирование osu!wiki |
+| [ruexia](https://osu.ppy.sh/u/385069) | корейский | чат |
+| [S o h](https://osu.ppy.sh/u/2234772) | японский | чат |
 | [Saten](https://osu.ppy.sh/u/444506) | шведский, испанский | чат |
 | [shARPII](https://osu.ppy.sh/u/776257) | французский | чат, организация турниров |
 | [Shiro](https://osu.ppy.sh/u/113005) | французский, испанский | чат |
 | [Shockwave](https://osu.ppy.sh/u/251631) | испанский | чат |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | индонезийский | чат |
-| [Stefan](https://osu.ppy.sh/u/626907) | немецкий | форум, чат |
+| [Spkz](https://osu.ppy.sh/u/2964029) | венгерский | чат |
+| [Stefan](https://osu.ppy.sh/u/626907) | немецкий | чат, форум |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | корейский | чат |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | обучение игроков |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | | техподдержка |
-| [ToGlette](https://osu.ppy.sh/u/1076236) | корейский, японский | чат |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| корейский, японский | чат |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | испанский | техподдержка |
 | [Ukami](https://osu.ppy.sh/u/820865) | польский | чат |
 | [Uni](https://osu.ppy.sh/u/617106) | голландский | чат |
 | [VeilStar](https://osu.ppy.sh/u/4255720) | | техподдержка |
-| [XavierJones](https://osu.ppy.sh/u/495733) | турецкий | чат |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | испанский | чат, форум |
 | [Yason](https://osu.ppy.sh/u/2574392) | польский | чат |
 | [Zero__wind](https://osu.ppy.sh/u/1822830) | китайский | чат |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | венгерский | чат |
+| [Zetera](https://osu.ppy.sh/u/587737) | немецкий | чат |
