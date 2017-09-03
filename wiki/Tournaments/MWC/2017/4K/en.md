@@ -65,9 +65,9 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **22.30 UTC** | 23.30 UTC +1 | 19.30 UTC -3 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **22.30 UTC** | 19.30 UTC -3 | 19.30 UTC -3 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | **0.00 UTC** | 9.00 UTC +9 | 19.00 (Sat.) UTC -5 | ¹ |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ³ |
 | Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ⁴ |
 | Chile | ![][flag_CL] | ![][flag_US] | United States | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 20.30 (Sat.) UTC -5 | ⁴ |
-| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **12.30 UTC** | 9.30 UTC -3 | 21.30 UTC +9 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.30 UTC** | 13.30 UTC +1 | 21.30 UTC +9 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **14.00 UTC** | 15.00 UTC +1 | 23.00 UTC +9 | ⁴ |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **14.00 UTC** | 23.00 UTC +9 | 23.00 UTC +9 | ⁴ |
