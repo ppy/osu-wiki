@@ -57,13 +57,13 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | Japan | ![][flag_JP] | ![][flag_CL] | Chile | **14.00 UTC** | 23.00 UTC +9 | 11.00 UTC -3 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **15.30 UTC** | 16.30 UTC +1 | 12.30 UTC -3 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **22.30 UTC** | 23.30 UTC +1 | 19.30 UTC -3 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **22.30 UTC** | 19.30 UTC -3 | 19.30 UTC -3 | ³ |
 
 ### Sunday, 10. September 2017
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **22.30 UTC** | 23.30 UTC +1 | 19.30 UTC -3 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **22.30 UTC** | 19.30 UTC -3 | 19.30 UTC -3 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | **0.00 UTC** | 9.00 UTC +9 | 19.00 (Sat.) UTC -5 | ¹ |
 | Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ³ |
 | Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ⁴ |
