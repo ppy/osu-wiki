@@ -106,7 +106,8 @@ Mei
 
 ![[Taiko](Taiko "wikilink") mod](Taiko.png "fig:Taiko mod") **[Taiko](Taiko "wikilink") Mode** pertama kali dilihat di siang hari di dibulan ini, dan juga sebagai tambahan besar lainnya, **.osb sekarang didukung sebagai storyboard skrip. Dari beberapa bagian slider dan pesan pribadi di jendela obrolan juga tersedia.**
 
-==Juni==
+Juni
+----
 
 Sebuah tonggak utama dalam sejarah osu! dicapai dengan penambahan **[multiplayer (Multi)](Multiplayer "wikilink") game mode.** Pilihan skinning diperluas lebih lanjut mengenai kedua grafis dan suara. Akhirnya, **obrolan kanal-multi memungkinkan untuk pertama kalinya.**
 

@@ -78,9 +78,9 @@
 
 Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing _osu!_ to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
 
-Shortcut keys to enable the mods can be changed in the Options under the Keyboard header inside `Change keyboard bindings` with a header called "Mod Select". The usage of the shortcut keys will only work when the mods screen is shown.
+Players can change the shortcut keys used to enable mods by clicking `Change keyboard bindings` under the Keyboard header inside the Options menu. The shortcut keys will only work while the mod selection screen is open.
 
-The game modifiers screen can be accessed by pressing `F1` in the song selection screen or by clicking the `Mods` button near the lower left corner of the screen.
+The mod selection screen can be accessed by pressing `F1` in the song selection screen or by clicking the `Mods` button near the lower left corner of the screen.
 
 ![Song Selection's Toolbox][Toolbox]
 
@@ -156,7 +156,7 @@ Do note that the usage of No Fail mod reduces the amount of possible [Performanc
 
 > Shortcut key: `E`
 
-> Less zoom. ("Zoom" meaning here means how fast the beatmap's BPM is)
+> Less zoom. ("Zoom" refers to the beatmap's BPM)
 
 ![Length of the song is increased by 1/3; BPM decreased by 1/4][HT1]
 
@@ -216,7 +216,7 @@ In [osu!mania][osu!mania wikilink] mode, only the judgement difficulty (OD) and 
 
 Hard Rock mod will not affect the note placement. For mod that will change the note placement, see [Random](#random) mod under Special.
 
-Using this mod on osu!mania will set the play as unranked play.
+Using this mod on osu!mania will result in an unranked play.
 
 ### Sudden Death
 
@@ -228,7 +228,7 @@ Using this mod on osu!mania will set the play as unranked play.
 
 > Miss a note and fail.
 
-Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary/#combo) is ever broken, creating an extra large miss figure (only in osu!standard mode only) and a full HP drain.
+Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary/#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
 
 Combo can be broken by missing a note, not clicking on a starting slider circle (osu!standard only), not collecting a slider tick, or failing to complete a spinner. However, combo will not be broken by missing a slider end (result in getting 100 score value instead for that slider completion; osu!standard only) or not holding/collecting on the empty slider path.
 
@@ -236,7 +236,7 @@ Combo can be broken by missing a note, not clicking on a starting slider circle 
 
 ![Perfect (PF) mod icon][PF]
 
-Click on Sudden Death again to get Perfect mod.
+Click on Sudden Death again to activate Perfect mod.
 
 > Score Multiplier: 1.00x
 
@@ -244,9 +244,9 @@ Click on Sudden Death again to get Perfect mod.
 
 > SS or quit.
 
-Perfect mod causes _any_ imperfect hit (as in, any score values that does not give 100% accuracy) to be counted as a **miss** and the song will **forcefully restart automatically**; something Sudden Death does not do.
+Perfect mod causes _any_ imperfect hit (as in, any score values that does not give 100% accuracy) to be counted as a **miss** and will **forcefully restart the song automatically**, something Sudden Death does not do.
 
-While this mod gives no Score Multiplier, it is _more unforgiving_ (100% accuracy or force auto-restart until the player give up by quitting the beatmap manually) when compared to Sudden Death (as long as the combo did not break). There will not be any failed screen and if the beatmap has a skipable prologue, it will be played _again_ since Perfect mod uses restart functionality (not quick-restart) the moment a miss (by Perfect's standard) is given.
+While this mod gives no Score Multiplier, it is _more unforgiving_ (100% accuracy or force auto-restart until the player gives up by quitting the beatmap manually) when compared to Sudden Death (as long as the combo did not break). There will not be any failed screen and if the beatmap has a skippable prologue, it will be played _again_ since Perfect mod uses restart functionality (not quick-restart) the moment a miss (by Perfect's standard) is given.
 
 ---
 
@@ -270,15 +270,11 @@ The method used to increase the speed does not increase the pitch of the song, b
 
 ---
 
-In [osu!taiko][osu!taiko wikilink] mode, since the hit leniency is greatly increased on top of osu!taiko's already strict overall difficulty in addition to making slider ticks a lot harder to hit and reducing the value of dendens, Double Time is usually regarded as the hardest mod in osu!taiko and is seldom used.
+In [osu!taiko][osu!taiko wikilink] mode, since the hit leniency is greatly reduced on top of osu!taiko's already strict overall difficulty, along with slider ticks being considerably more difficult to hit (and reducing the value of dendens), Double Time is usually regarded as the hardest mod in osu!taiko and is seldom used.
 
 ---
 
 In [osu!catch][osu!catch wikilink] mode, as there is no overall difficulty to increase, this mod does nothing more than a BPM and approach rate multiplier and is thus only worth a 1.06x multiplier. Being the opposite of Half Time, though, Double Time greatly decreases the hyperdash leniency, making fruits requiring hyperdashes nigh impossible to catch in some cases.
-
----
-
-In [osu!mania][osu!mania wikilink] mode, the usage of Double Time mod will set the play as unranked play.
 
 #### Nightcore
 
@@ -304,7 +300,7 @@ The multiplier stays the same, and the beatmap itself is unaffected beyond what 
 
 > Shortcut key: `F`
 
-Hidden (debuted in Ouendan 2, the second Japanese DS game) mod removes the approach circles and fade out the hit objects after appearing on the screen.
+Hidden (debuted in Ouendan 2, the second Japanese DS game) mod removes the approach circles and causes the hit objects to fade after appearing on the screen.
 
 If the beatmap was passed with S or SS grade with Hidden mod enabled, the beatmap will award the sliver variant of the grade instead.
 
@@ -324,7 +320,7 @@ By default, the first hit object will have an approach circle. However, this beh
 
 ![Hidden play in osu!taiko mode][HD_T]
 
-In [osu!taiko][osu!taiko wikilink] mode, the notes fade out about halfway through the screen, requiring that the player remembers the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out except that the denden has no approach circle to indicate when it times out. On beatmap with high overall difficulty, Hidden is used by experienced players to increase score instead of Hard Rock, because Hard Rock sometimes makes the timing window too small.
+In [osu!taiko][osu!taiko wikilink] mode, the notes fade out about halfway through the screen, requiring that the player remembers the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out except that the denden has no approach circle to indicate when it times out. On beatmap with high overall difficulty, Hidden is used by experienced players to increase score instead of Hard Rock, because Hard Rock occasionally makes the timing window too small.
 
 ---
 
@@ -336,7 +332,7 @@ In [osu!catch][osu!catch wikilink] mode, Hidden causes the fruits to fade out ab
 
 ---
 
-Clicking Fade In again to activate Hidden mod.
+Click on Fade In again to activate Hidden mod.
 
 > Shortcut key: `FF` (from unselected) or `Shift`+`F` (osu!mania only)
 
@@ -344,9 +340,9 @@ Clicking Fade In again to activate Hidden mod.
 
 ![Hidden play in osu!mania mode (Left: Normal; Right: DDR style)][HD_M]
 
-In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again. Inverse of Fade In behaviour.
+In [osu!mania][osu!mania wikilink] mode, Hidden can be used by pressing Fade In mod again, and functions as the inverse of Fade In.
 
-The usage of Hidden mod will set the play as unranked play.
+The usage of Hidden mod will result in an unranked play.
 
 ![Hidden combo milestone comparison][HD2_M]
 
@@ -366,7 +362,7 @@ Fade In mod causes notes to fade in as they approach the judgement bar.
 
 The speed at which they fade is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. The fading size only stops when 500 combo milestone (covers about 70% of the playfield) has been reached. The fading will be reverted to 0 combo size (covers about 20% of the playfield) when the combo is broken.
 
-The usage of Fade In mod will set the play as unranked play. If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
+The usage of Fade In mod will result in an unranked play. If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatmap will award the sliver variant of the grade instead.
 
 ![Fade In combo milestone comparison][FI2]
 
@@ -414,13 +410,13 @@ When paired with Hidden, fruits are visible momentarily if the catcher is _direc
 
 In [osu!mania][osu!mania wikilink] mode, visible area is restricted to a relatively thin horizontal bar at the center of the screen with everything else obstructed.
 
-The usage of Flashlight mod will set the play as unranked play.
+The usage of Flashlight mod will result in an unranked play.
 
 ## Special
 
 The mods listed below cannot be used in conjunction with each other, except for Relax, Spun Out, and ScoreV2. Additionally, Auto cannot be used along with Sudden Death/Perfect.
 
-Only the usage of Relax, Auto Pilot, or Auto/Cinema will not save the replay and score to the local leaderboard after leaving the results screen. However, the player can export the replay and then loading it to the osu! client will cause the play to appear on the local scoreboard of the beatmap with the specified mod displayed.
+Only the usage of Relax, Auto Pilot, or Auto/Cinema will not save the replay and score to the local leaderboard after leaving the results screen. However, the player can export the replay and then loading it to the osu! client will cause the play to appear on the local scoreboard of the beatmap with the specified mods displayed.
 
 ### Relax
 
@@ -440,7 +436,7 @@ Only the usage of Relax, Auto Pilot, or Auto/Cinema will not save the replay and
 
 > \*\* UNRANKED \*\*
 
-In [osu!standard][osu! wikilink] mode, the player only need to hover the cursor to the hit objects and the Relax mod will clear the hit objects with perfect timing (or any later score values if the player reaches the hit object late).
+In [osu!standard][osu! wikilink] mode, the player only needs to hover the cursor over the hit objects and the hit objects will be hit with perfect timing (or any later score values if the player reaches the hit object late).
 
 Relax mod also hides the score, combo, and misses (except in osu!taiko) and makes it impossible to fail the map, much like No Fail mod does. Also, spins per minute value will be doubled, allowing the player to spin much faster easily and obtain a higher score than in regular play.
 
@@ -480,7 +476,7 @@ Relax mod is not available for use in [osu!mania][osu!mania wikilink].
 
 > \*\* UNRANKED \*\*
 
-Auto Pilot mod will take control of the cursor movement and systematically move to the exact centre of the hit object, letting the hit object timing to the player.
+Auto Pilot mod will take control of the cursor movement and systematically move to the exact centre of the next hit object, leaving the hit object timing to the player.
 
 Auto Pilot mod also hides the score, combo, and misses and makes it impossible to fail the map, much like No Fail mod does. Also, the spins per minute value done by Auto Pilot is similar to the spins per minute done by Spun Out mod and the player cannot increase the spins per minute by spinning it (the spinner will be darken and does not read the player's spin input).
 
@@ -536,7 +532,7 @@ In [osu!taiko][osu!taiko wikilink] mode, the Auto mod will attempt a perfect pla
 
 ---
 
-In [osu!catch][osu!catch wikilink] mode, the Auto mod will actually go beyond perfect and use unlimited speed to catch _every_ bananas in a spinner, despite being impossible for a human player.
+In [osu!catch][osu!catch wikilink] mode, the Auto mod will actually go beyond perfect and use unlimited speed to catch _every_ banana in a spinner, despite being impossible for a human player.
 
 ---
 
@@ -546,7 +542,7 @@ In [osu!mania][osu!mania wikilink], the Auto mod will attempt a perfect playthro
 
 ![Cinema mod icon][Cinema]
 
-Click on Auto again to get Cinema mod
+Click on Auto again to activate Cinema mod.
 
 > Score Multiplier: 1.00x (unranked)
 
@@ -554,9 +550,9 @@ Click on Auto again to get Cinema mod
 
 ![Comparison of Auto and Cinema mod][Cinema1]
 
-Cinema mod shows **background and storyboard only** without the gameplay elements.
+Cinema mod shows the **background and storyboard only** without the gameplay elements.
 
-Hit sounds can still be heard based on beatmap selected. Replay elements and the Results screen will be disabled. Background Dim will be set to 0%. Background Video and Storyboard will be turned on when this mod is in effect.
+Hit sounds can still be heard based on the selected beatmap. In addition, replay elements and the Results screen will be disabled and background dim will be set to 0%.
 
 Since the player is not actively playing the beatmap and more to watching the replay, the play is considered unranked.
 
@@ -570,12 +566,12 @@ Since the player is not actively playing the beatmap and more to watching the re
 
 > Shortcut key: `Z` (each click goes from 4K to 9K then back to 1K until 3K and lastly disabled)
 
-This mod will force all beatmap to use the selected K setting, ignoring the supposed K setting of the beatmap at the cost of decreasing Score Multiplier depending on the difference.
+This mod will force all _converted_ osu!mania beatmaps to use the selected K setting, ignoring the supposed K setting of the beatmap at the cost of decreasing Score Multiplier depending on the K difference.
 
-Score Multiplier only applies within these conditions:-
+Score Multiplier only applies within these conditions:
 
-- Using 1K, 2K, or 3K mod will causes unranked play.
-- The table only affects beatmap converted from osu!standard mode to osu!mania mode during play.
+- Using 1K, 2K, or 3K mod will result in an unranked play.
+- The table only affects beatmaps converted from osu!standard mode to osu!mania mode.
 - The mod does not work on osu!mania-specific beatmaps.
 
 |Default/Modifier|1k|2k|3k|4k|5k|6k|7k|8k|9k|
@@ -599,12 +595,12 @@ Score Multiplier only applies within these conditions:-
 
 ![Comparison between original (left) and Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap.][Co-Op1]
 
-[Introduced in 05 March 2015 (2015-03-05) build \[b20150305 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20150305 "Release Notes for b20150305 (Stable)"), Co-Op mod introduce a second playfield with second set of control based on current xK count (7K -> 7K + 7K = 14K). For osu!mania specific mode, the xK is split to half (7K -> 4K + 3K = 7K).
+[Introduced in the 05 March 2015 (2015-03-05) build \[b20150305 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20150305 "Release Notes for b20150305 (Stable)"), Co-Op mod introduces a second playfield with a second set of controls based on the current xK count (7K -> 7K + 7K = 14K). For osu!mania specific maps, the xK is split to half (7K -> 4K + 3K = 7K).
 
-Score Multiplier only applies within these conditions:-
+Score Multiplier only applies within these conditions:
 
-- Using Co-Op mod will causes unranked play.
-- The table only affects beatmaps converted from osu! mode to osu!mania during play with Co-Op mod on.
+- Using Co-Op mod will result in an unranked play.
+- The table only affects beatmaps converted from osu!standard mode to osu!mania with Co-Op mod on.
 - The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
 |Default|1k|2k|3k|4k|5k|6k|7k|8k|9k|
@@ -630,7 +626,7 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 
 ![Comparison between original (left), Random only (middle), and Random with Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap.][Random1]
 
-Random mod will **change the note placement** only.
+Random mod will **randomize the note placement** only.
 
 It does not affect the notes' timeline and is not shuffled every time Random mod is used.
 
@@ -646,13 +642,13 @@ It does not affect the notes' timeline and is not shuffled every time Random mod
 
 > \*\* UNRANKED \*\*
 
-[Introduced in 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod enables the prototype ScoreV2 system over the current scoring system used by the mode which would be used in _osu!_ in the future to replace the current individual scoring system by modes. ScoreV2 system attempt to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
+[Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
 
 Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score/#scorev2).
 
 ## Experimental
 
-**Notice:** These mods does not appear in the `Stable` build due to the experimental nature. Proceed at own risk.
+**Notice:** These mods do not appear in the `Stable` build due to their experimental nature. Proceed at your own risk.
 
 ### Special
 
@@ -672,7 +668,7 @@ Full information regarding ScoreV2 can be found at [the Score page under ScoreV2
 
 Target Practice mod removes all the mapped hit objects and replace it with a simplified and consistent "Target Practice" game.
 
-The play will immediately end if the player failed to hit _any_ of the target once.
+The play will immediately end if the player failed to hit _any_ of the targets once.
 
 ## Others
 
@@ -680,11 +676,11 @@ The play will immediately end if the player failed to hit _any_ of the target on
 
 Not all mods can be applied at the same time. Some mods are the inverse of others and will be deactivated if the inverse mod is selected.
 
-These are a few notable examples:-
+These are a few notable examples:
 
 - Hard Rock is the inverse of Easy
 - Sudden Death/Perfect is the inverse of No Fail, Relax, Auto Pilot, and Auto/Cinema
-- Double Time is the inverse of Half Time
+- Double Time/Nightcore is the inverse of Half Time
 
 ### Unranked
 

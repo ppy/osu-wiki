@@ -583,7 +583,7 @@ This topic was discussed in an episode of [osu!talk](/wiki/osu!talk) ([osu!talk 
 
 ### Pass
 
-Pass has three meanings:
+Pass has two meanings:
 
 - the completion of a [beatmap](/wiki/beatmap) with or without the use of mods
 - the player having more than 50% health during a [break](/wiki/break)

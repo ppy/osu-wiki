@@ -20,7 +20,6 @@ Quality Assurance Team (中文)
 
 | 名字                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | 语言                  |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------|
-| [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | 日语, 少许 法语        |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                       |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                       |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | 西班牙语, 德语         |

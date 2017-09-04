@@ -24,7 +24,6 @@ Anggota Tim
 
 | Nama                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Bahasa Tambahan                  |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------------|
-| [alacat](https://osu.ppy.sh/u/869782)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Jepang, beberapa Perancis        |
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                                  |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                                  |
 | [Deif](https://osu.ppy.sh/u/318565)               | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanyol, Jerman                  |

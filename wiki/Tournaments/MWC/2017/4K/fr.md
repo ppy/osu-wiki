@@ -43,24 +43,42 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
 - [Diffusion en direct](https://www.twitch.tv/osulive)
+- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/product/226)
 - **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
 
-## Calendrier des matchs : huitièmes de finale
+## Calendrier des matchs : demi-finales
 
-### Dimanche 20 août 2017
+### Samedi 2 septembre 2017
 
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
-| Nouvelle-Zélande | ![][flag_NZ] | ![][flag_FR] | France | **10.00 UTC** | 22.00 UTC +12 | 12.00 UTC +2 |
-| Indonésie | ![][flag_ID] | ![][flag_CN] | Chine | **11.00 UTC** | 18.00 UTC +7 | 19.00 UTC +8 |
-| Royaume-Uni | ![][flag_GB] | ![][flag_JP] | Japon | **12.00 UTC** | 13.00 UTC +1 | 21.00 UTC +9 |
-| Corée du Sud | ![][flag_KR] | ![][flag_AR] | Argentine | **13.00 UTC** | 22.00 UTC +9 | 10.00 UTC -3 |
-| Brésil | ![][flag_BR] | ![][flag_SG] | Singapour | **14.00 UTC** | 11.00 UTC -3 | 22.00 UTC +8 |
-| Hong-Kong | ![][flag_HK] | ![][flag_CA] | Canada | **15.00 UTC** | 23.00 UTC +8 | 10.00 UTC -5 |
-| Pologne | ![][flag_PL] | ![][flag_CL] | Chili | **18.00 UTC** | 20.00 UTC +2 | 14.00 UTC -4 |
-| Suède | ![][flag_SE] | ![][flag_US] | États-Unis | **19.00 UTC** | 21.00 UTC +2 | 14.00 UTC -5 |
+| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
+| Suède | ![][flag_SE] | ![][flag_JP] | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
+| Chine | ![][flag_CN] | ![][flag_FR] | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
+| Brésil | ![][flag_BR] | ![][flag_KR] | Corée du Sud | **14h00 UTC** | 11h00 UTC -3 | 23h00 UTC +9 | ¹ |
+| Pologne | ![][flag_PL] | ![][flag_ID] | Indonésie | **15h30 UTC** | 17h30 UTC +2 | 22h30 UTC +7 | ² |
+| Royaume-Uni | ![][flag_GB] | ![][flag_CA] | Canada | **17h00 UTC** | 18h00 UTC +1 | 12h00 UTC -5 | ² |
+| États-Unis | ![][flag_US] | ![][flag_CL] | Chili | **18h30 UTC** | 13h30 UTC -5 | 15h30 UTC -3 | ¹ |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | **20h00 UTC** | 22h00 UTC +2 | 15h00 UTC -5 | ³ |
+
+### Dimanche 3 septembre 2017
+
+| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | - |
+| Suède | ![][flag_SE] | ![][flag_PL] | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
+| Suède | ![][flag_SE] | ![][flag_ID] | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
+| Japon | ![][flag_JP] | ![][flag_PL] | Pologne | **12h30 UTC** | 21h30 UTC +9 | 14h30 UTC +2 | ³ |
+| Japon | ![][flag_JP] | ![][flag_ID] | Indonésie | **12h30 UTC** | 21h30 UTC +9 | 19h30 UTC +7 | ³ |
+| Chine | ![][flag_CN] | ![][flag_GB] | Royaume-Uni | **14h00 UTC** | 22h00 UTC +8 | 15h00 UTC +1 | ³ |
+| Chine | ![][flag_CN] | ![][flag_CA] | Canada | **14h00 UTC** | 22h00 UTC +8 | 9h00 UTC -5 | ³ |
+| France | ![][flag_FR] | ![][flag_GB] | Royaume-Uni | **14h00 UTC** | 16h00 UTC +2 | 15h00 UTC +1 | ³ |
+
+¹ Rencontre du tableau des gagnants
+
+² Rencontre du tableau des perdants
+
+³ La rencontre dépend du résultat de la ²Rencontre du tableau des perdants
 
 ------------------------------------------------------------------------
 
@@ -152,9 +170,81 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 - Tiebreaker
   - [BABYMETAL - Tales of The Destinies (Couil)](http://osu.ppy.sh/b/1290602&m=3) [Endless Journey]
 
+### Quarts de finale
+
+**[Téléchargez le pack de maps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
+
+- FreeMod
+  - [BABYMETAL - Road of Resistance (hi19hi19)](http://osu.ppy.sh/b/1375744&m=3) [Uprising]
+  - [Caravan Palace - Clash (Hydria)](http://osu.ppy.sh/b/1369706&m=3) [Hard]
+  - [goreshit - looming shadow of a tree long gone (Shoegazer)](http://osu.ppy.sh/b/792874&m=3) [extra]
+  - [yst - The Lost Dedicated (DDMythical)](http://osu.ppy.sh/b/1302866&m=3) [Another]
+  - [8284 - Connaextion (LeiN-)](http://osu.ppy.sh/b/1029033&m=3) [TIMED_OUT]
+  - [Maika - Goldrop (Skorer)](http://osu.ppy.sh/b/1243241&m=3) [Yudaina LN]
+  - [Getty vs. DJ DiA - Fox4-Raize- (Evening)](http://osu.ppy.sh/b/1228388&m=3) [GRAVITY VIP]
+  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh)](http://osu.ppy.sh/b/1104774&m=3) [Black Another]
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal)](http://osu.ppy.sh/b/1341515&m=3) [Machine Gun]
+  - [Dustvoxx - Trigger (Zekk Remix) (Wonki)](http://osu.ppy.sh/b/1174927&m=3) [Trigger]
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer)](http://osu.ppy.sh/b/1103630&m=3) [Dreamless]
+  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria)](http://osu.ppy.sh/b/1279175&m=3) [Insane]
+  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel)](http://osu.ppy.sh/b/1252742&m=3) [Sorry, Am I Putting You Off?]
+- Tiebreaker
+  - [DragonForce - The Warrior Inside (_underjoy)](http://osu.ppy.sh/b/1038662&m=3) [4K Collab Gladiator]
+ 
+### Demi-finales
+
+**[Téléchargez le pack de maps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
+
+- FreeMod
+  - [9mm Parabellum Bullet - Punishment (Valedict)](http://osu.ppy.sh/b/1128678&m=3) [Retribution]
+  - [Kaneko Chiharu - Lachryma<Re:Queen'M> (Fresh Chicken)](http://osu.ppy.sh/b/901050&m=3) [GRAVITY]
+  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf)](http://osu.ppy.sh/b/993976&m=3) [flnowers]
+  - [Ekcle - The Impulsive State (Parachor)](http://osu.ppy.sh/b/1364765&m=3) [Entropy_]
+  - [The Flashbulb - Passage D (Jinjin)](http://osu.ppy.sh/b/1016508&m=3) [Delve]
+  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus)](http://osu.ppy.sh/b/855471&m=3) [Arcwin Lost Tewicated]
+  - [USAO - Boss Rush (PiraTom)](http://osu.ppy.sh/b/1259719&m=3) [LN Rush]
+  - [Fele - Peter on Crack (Cut) (Jole)](http://osu.ppy.sh/b/1394763&m=3) [this is brain surgery]
+  - [Kidkanevil - Lantern 1 (Valedict)](http://osu.ppy.sh/b/1331160&m=3) [Fog]
+  - [Kontinuum - Lost (feat. Savoi) [Sunroof Remix] (Otakujanai)](http://osu.ppy.sh/b/1321781&m=3) [Emotional Drift]
+  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P)](http://osu.ppy.sh/b/1311355&m=3) [Dream]
+  - [Inferi - Those Who From the Heavens Came (XeoStyle)](http://osu.ppy.sh/b/897408&m=3) [Investiture of the Gods]
+  - [C-Show - ERROR CODE (SpectorDG)](http://osu.ppy.sh/b/1155393&m=3) [SPE vs. ZEN's GRAVITY]
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal)](http://osu.ppy.sh/b/1112725&m=3) [Team LNBY]
+- Tiebreaker
+  - [Camellia - Dans la mer de son (TheToaphster)](http://osu.ppy.sh/b/1295025&m=3) [Abyss]
+ 
 ------------------------------------------------------------------------
 
 ## Résultats des matchs
+
+### Quarts de finale
+
+| Samedi 26 août 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| France ![][flag_FR] | 4 | 5 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35585664) |
+| Argentine ![][flag_AR] | 1 | 5 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35588367) |
+| Canada ![][flag_CA] | 0 | 5 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35590366) |
+
+| Dimanche 27 août 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Corée du Sud ![][flag_KR] | 5 | 0 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35601021) |
+| Nouvelle-Zélande ![][flag_NZ] | 0 | 5 | ![][flag_PL] Pologne | [#1](https://osu.ppy.sh/community/matches/35602514) |
+| Singapour ![][flag_SG] | 1 | 5 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35604433) |
+| Hong-Kong ![][flag_HK] | 0 | 5 | ![][flag_SE] Suède | -Victoire par défaut- |
+| Brésil ![][flag_BR] | 5 | 1 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35608732) |
+
+### Huitièmes de finale
+
+| Dimanche 20 août 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Nouvelle-Zélande ![][flag_NZ] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35418105) |
+| Indonésie ![][flag_ID] | 5 | 1 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35419189) |
+| Royaume-Uni ![][flag_GB] | 3 | 5 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35420314) |
+| Corée du Sud ![][flag_KR] | 5 | 0 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35421542) |
+| Brésil ![][flag_BR] | 5 | 0 | ![][flag_SG] Singapour | [#1](https://osu.ppy.sh/community/matches/35423100) |
+| Hong-Kong ![][flag_HK] | 4 | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35424487) |
+| Pologne ![][flag_PL] | 0 | 5 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35429710) |
+| Suède ![][flag_SE] | 0 | 5 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35431890) |
 
 ### Phases de poules
 
