@@ -78,4 +78,4 @@ No. You can only use your osu! username.
 ### What is this voice status that I have? I also see some people having it.
 Users with *voice status* are also connected using an IRC client, except for chat moderators who always have *operator (+o)* status regardless of what client they use.
 
-Users who does not have any mode are connected using the game client.
+Users who does not have any status are connected using the game client.
