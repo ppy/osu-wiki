@@ -1,12 +1,12 @@
 # Beatmaps
 
-Los beatmaps son los niveles a batir en [osu!](/wiki/osu!_glossary), similares a los de los [Juegos de DS](/wiki/Glossary/#ds-games). Los beatmaps se componen de una canción y varios [hit objects](/wiki/hit_objects) situados en el espacio y el tiempo al ritmo de la música. Pueden tener como fondo una imagen, un vídeo o un [storyboard](/wiki/storyboard).
+Los beatmaps son los niveles a completar en [osu!](/wiki/osu!_glossary), similares a los de los [Juegos de DS](/wiki/Glossary/#ds-games). Los beatmaps se componen de una canción y varios [hit objects](/wiki/hit_objects) situados en el espacio y el tiempo al ritmo de la música. Pueden tener como fondo una imagen, un vídeo o un [storyboard](/wiki/storyboard).
 
 Los beatmaps pueden subirse a la web a través del [BSS](/wiki/BSS) (Beatmap Submission System: sistema de envío de beatmaps) y son sometidos a un proceso de aprobación llamado [modding](/wiki/modding) para mantener los máximos estándares de calidad posibles en términos de jugabilidad. Puedes encontrar los beatmaps en el [buscador de mapas](https://osu.ppy.sh/beatmapsets) en la web de osu!.
 
 ## Estatus de rankeo
 
-Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominators (BN)](/wiki/Beatmap_Nominators). Los mapas rankeados y aprobados afectan a las estadísticas de los usuarios cuando son jugados, a diferencia de los mapas [pendientes (pending)](#pending) o [abandonados (graveyarded)](#graveyard) beatmap.
+Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominators (BN)](/wiki/Beatmap_Nominators). Los mapas rankeados y aprobados afectan a las estadísticas de los usuarios cuando son jugados, a diferencia de los mapas [pendientes (pending)](#pendiente) o [abandonados (graveyarded)](#abandonado) beatmap.
 
 ### Beatmaps rankeados
 
@@ -43,7 +43,7 @@ Los mapas pendientes (pending) vienen indicados con el icono: (![Question mark i
 
 Los beatmaps pendientes no afectan a las estadísticas de usuario.
 
-[Los creadores](/wiki/Creators)  deben buscar [modders](/wiki/modders) de la comunidad y al menos dos [Beatmap Nominators](/wiki/Beatmap_Nominators) para que el proceso siga adelante.
+[Los creadores](/wiki/Creators) deben buscar [modders](/wiki/modders) de la comunidad y al menos dos [Beatmap Nominators](/wiki/Beatmap_Nominators) para que el proceso siga adelante.
 
 Los mapas inactivos que llevan al menos 4 semanas en el estatus pendiente son movidos al estatus de abandonado.
 
