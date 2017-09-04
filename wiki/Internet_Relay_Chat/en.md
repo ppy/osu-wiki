@@ -48,7 +48,7 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 [17:46] * Kerantor (cho@ppy.sh) has joined #lobby
 ```
 
-## Disabling Join/Part Messages In Common Clients
+### Disabling Join/Part Messages In Common Clients
 | IRC Client                                | Description |
 | ----------------------------------------- | ----------- |
 | [HexChat](http://hexchat.github.io/)      | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
