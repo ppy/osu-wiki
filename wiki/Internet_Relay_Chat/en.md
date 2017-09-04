@@ -35,7 +35,7 @@ Basic IRC Commands
 
 Disabling Join/Part Messages
 ============================
-Knowing players who joins or parts is a good thing but in very crowded channels such as #osu, you will be spammed very much and you can't keep track of the conversations. Therefore, these must be disabled.
+Knowing players who joins or parts is a good thing, however in very crowded such as #osu, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, these must be disabled.
 
 ```
 [17:46] * lauripihl (cho@ppy.sh) has left #lobby
@@ -61,15 +61,15 @@ Disabling Join/Part Messages In Common Clients
 | [Quassel IRC](http://www.quassel-irc.org) | Right click on the chatting window, then choose Hide Events » Join/Part/Quit. |
 | [XChat](http://www.xchat.org)             | Type `/set irc_conf_mode 1` (or [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels). |
 
-If your client isn't listed here refer to its documentation, most clients have a way to do this.
+If your client is not listed here refer to its documentation, most clients have a way to do this.
 
 
 Frequently Asked Questions (FAQ)
 ================================
-I am having an error "Bad Authentication Token".
+I'm receiving the error "Bad Authentication Token".
 ------------------------------------------------------------------
 1. Make sure you are using the password at the [IRC Authentication](https://osu.ppy.sh/p/irc) page.
-2. If your username had a space, replace it to underscores (e.g. **This Username** to **This_Username**)
+2. If your username has spaces, replace it to underscores (e.g. **This Username** to **This_Username**)
 
 
 Can I use another username?
@@ -81,4 +81,4 @@ What is this voice status that I have? I also see some people having it.
 ------------------------------------------------------------------------
 Users with *voice status* are also connected using an IRC client, except for chat moderators who always have *operator (+o)* status regardless of what client they use.
 
-Users who doesn't have any mode are basically connected using the game client.
+Users who does not have any mode are connected using the game client.
