@@ -24,7 +24,7 @@ Once you have a client, you need to set up the server settings.
 
 
 Basic IRC Commands
-==================
+------------------
 | Command              | Description                           |
 | -------------------- | ------------------------------------- |
 | `/join <#channel>`   | Joins a channel                       |
@@ -34,7 +34,7 @@ Basic IRC Commands
 
 
 Disabling Join/Part Messages
-============================
+----------------------------
 Knowing players who joins or parts is a good thing, however in very crowded such as #osu, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, these must be disabled.
 
 ```
@@ -48,8 +48,7 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 [17:46] * Kerantor (cho@ppy.sh) has joined #lobby
 ```
 
-Disabling Join/Part Messages In Common Clients
-----------------------------------------------
+## Disabling Join/Part Messages In Common Clients
 | IRC Client                                | Description |
 | ----------------------------------------- | ----------- |
 | [HexChat](http://hexchat.github.io/)      | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
@@ -65,20 +64,18 @@ If your client is not listed here refer to its documentation, most clients have 
 
 
 Frequently Asked Questions (FAQ)
-================================
-I'm receiving the error "Bad Authentication Token".
-------------------------------------------------------------------
+--------------------------------
+
+### I'm receiving the error "Bad Authentication Token".
 1. Make sure you are using the password at the [IRC Authentication](https://osu.ppy.sh/p/irc) page.
 2. If your username has spaces, replace it to underscores (e.g. **This Username** to **This_Username**)
 
 
-Can I use another username?
----------------------------
+### Can I use another username?
 No. You can only use your osu! username.
 
 
-What is this voice status that I have? I also see some people having it.
-------------------------------------------------------------------------
+### What is this voice status that I have? I also see some people having it.
 Users with *voice status* are also connected using an IRC client, except for chat moderators who always have *operator (+o)* status regardless of what client they use.
 
 Users who does not have any mode are connected using the game client.
