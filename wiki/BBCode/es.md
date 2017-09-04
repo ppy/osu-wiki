@@ -11,7 +11,7 @@ En la web de osu!, BBCode se utiliza en los mensajes del foro, las firmas y las 
 
 Mientras que el editor del mensaje proporciona algunas herramientas de formato básico, es posible escribir manualmente el BBCode.
 
-Las etiquetas BBCode son insensibles a las mayúsculas: `[center]texto[/center]` dará el mismo resultado que `[cEnTeR]texto[/ceNTER]`.
+Las etiquetas BBCode son insensibles a las mayúsculas: `[centre]texto[/centre]` dará el mismo resultado que `[cEnTRe]texto[/ceNTRE]`.
 
 ### Comportamiento del Botón BBCode
 
@@ -27,8 +27,8 @@ El orden de las etiquetas **debe** ser respetado cuando se combinan las etiqueta
 
 Por ejemplo (presta atención al orden del código):
 
-- `[center]` `[b]` _texto_ `[/ b]` `[/ center]` es correcto, pero
-- `[b]` `[center]` _texto_ `[/ b]` `[/ center]` está mal.
+- `[centre]` `[b]` _texto_ `[/ b]` `[/ centre]` es correcto, pero
+- `[b]` `[centre]` _texto_ `[/ b]` `[/ centre]` está mal.
 
 ## Lista de etiquetas BBCode
 
@@ -164,7 +164,7 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 
 _No debe confundirse con [Spoilerbox](#spoilerbox)._
 
-**Oculta un párrafo** dentro de un cuadro identificable por lector.
+**Oculta un párrafo** dentro de un cuadro identificable por el lector.
 El lector puede mostrar el párrafo haciendo clic en el nombre del cuadro.
 
 Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad de imágenes.
@@ -185,7 +185,7 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
 
 ### Cita
 
-Cita el formato para la palabra/párrafo dado.
+Cita la(s) palabra(s) o párrafo(s) dado(s).
 
 - Botón dedicado: ![Botón de cita](img/quote.jpg "Botón de cita")
 - Notas:
@@ -203,7 +203,7 @@ Cita el formato para la palabra/párrafo dado.
 
 ### Código
 
-Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un storyboard o código fuente de un proyecto.
+Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un [storyboard](/wiki/storyboard) o código fuente de un proyecto.
 
 - Botón dedicado: ![Botón de código](img/code.jpg "Botón de código")
 - Notas:
@@ -222,7 +222,7 @@ Alinear un párrafo al centro; típicamente para títulos o encabezados.
 
 - Botón dedicado: ![Botón central](img/centre.jpg "Botón central")
 - Notas:
-  * Las etiquetas **deben** estar escritas como `centre` no `center` (anotar las dos últimas letras).
+  * Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
 ```prolog
 [centre]
