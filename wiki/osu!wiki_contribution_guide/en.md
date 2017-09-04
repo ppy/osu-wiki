@@ -70,7 +70,7 @@ To contribute to the osu!wiki, you must have the following:
 - Able to write in English, preferably British English for consistency.
   - Everything not related to the page content itself (commit messages, pull requests, filenames, etc) **must** be written in English.
 
-Optionally, if you plan to make changes locally:
+Optionally, if you plan to make changes locally (if you are new to GitHub, you may want to make changes via the web interface):
 
 - A text editor.
   - Markdown syntax highlighting is an optional preference.
@@ -79,9 +79,9 @@ Optionally, if you plan to make changes locally:
   - We use [Shiba][Shiba] or Visual Studio Code's/Atom's built-in GFM previewers.
 - Basic knowledge in VCS (Version control system), particularly in using [Git][Git].
   - If you have any adversity in using the CLI version of Git (which will be explained in this guide), you can find and self-learn the GUI (Graphical User Interface) version of Git or use programs like [Git Extensions][Git Extensions].
-  - Some editors (like Visual Studio Code) may provide a Git interface.
+  - Some editors (like Visual Studio Code) may provide a Git interface.
 
-## Forking osu-wiki repository
+## Forking the osu-wiki repository
 
 To make changes to the osu-wiki repository, you must first create your own copy of the repository.
 This is known as "forking".
@@ -93,12 +93,9 @@ You should see something like this.
 ![osu-wiki Repository Snapshot](./img/Contribute_wikirepo.jpg "Snapshot of the osu-wiki repository")
 
 Click on the "Fork" button, located at the top-right of the page.
-This should redirect you to the location for the fork.
+This will automatically create a copy of the osu!wiki repository and move it to your account.
 
-![Fork prompt dialogue](./img/Contribute_forkprompt.jpg "Fork prompt dialogue")
-
-Now click at your profile and GitHub would redirect you to where the fork is.
-
+Once this is complete, you will be redirected to your copy of the osu!wiki repository.
 Finally, you should see something like this.
 
 ![Fork Snapshot](./img/Contribute_ownrepo.jpg "Fork Snapshot")
@@ -116,21 +113,21 @@ You can now proceed to make changes.
 
 _[Image taken from Slide 6 from Git branch management by Matt Liu][Matt Liu image source]_
 
-Frankly speaking, you _could_ do all of your changes in the ``master`` branch.
-However, it is _bad practice to do this in the long run_.
+Once you are in your forked repository, you will automatically be placed in the ``master`` branch (see workflow image above). You can make changes in the ``master`` branch and later merge your changes into the official osu!wiki repository.
 
-This is where branching comes into play.
-By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
+However, it is _bad practice_ to make these changes in the ``master`` branch.
 
-In the event of major slip-ups, you can cut off the branch and start a new branch copy based on the clean branch.
+This is where branching comes into play. Branching is the process where a copy of the ``master`` branch is created. By branching, you can keep your original ``master`` branch clean while you make changes in the branches you make.
+
+In the event of major slip-ups, you can cut off the branch that you created and start a new branch copy based on the original ``master`` branch.
 
 ### Through GitHub's Web Editor
 
 #### Accessing the correct repository and branch.
 
-If you don't want the hassle of cloning your fork into your local machine, GitHub offers a web editor for editing through your browser.
+If you are a new GitHub user, using GitHub's web-based editor would be a lot easier. Advanced users can clone their fork of the osu!wiki repository into their local machine instead.
 
-First, visit your own forked repo (you can rename the ``ppy`` part in ``https://github.com/ppy/osu-wiki`` with your own GitHub's name for quicker access or click on the "Fork" button in ``ppy/osu-wiki``).
+First, visit your forked repository (enter ``https://github.com/ppy/osu-wiki`` in your browser and change ``ppy`` to your GitHub username or click on the "Fork" button in ``ppy/osu-wiki``).
 
 You should be in the ``master`` branch by default.
 
@@ -139,20 +136,19 @@ You should be in the ``master`` branch by default.
 ![Branch dropdown list](./img/Contribute_webbranch.jpg "Branch dropdown list")
 
 Click on the ``Branch: master`` dropdown button.
-There may be some branches shown but the only important branch is the ``master`` branch.
-Type in your new branch name in the textbox shown with translucent text, "Find or create a branch...".
-Hit ``Enter`` key to go to the branch name.
-If the branch name was not found, a new branch based on ``master`` branch will be made.
+Other branches may be shown but the only important branch is the ``master`` branch.
+Type in the new branch name in the textbox shown. The new branch can be named to anything you'd like.
+Hit the ``Enter`` key to create the new branch.
+If you enter a branch name that already exists, you will be redirected to that branch instead.
 
 _Note: Make sure you are in ``Branch: master`` before making a new branch.
 The new branch will always base itself from the previous branch where the branch search was initiated._
 
-Now, see the same dropdown button at the same position again.
-It should be ``Branch: <your branch name>``.
+The ``Branch`` dropdown button will now read ``Branch: <your branch name>``.
 
 You are now all set to make changes safely with a solid bailout plan.
 
-#### Updating the branch content
+#### Making changes
 
 ![GitHub Folder Preview](./img/Contribute_folderview.jpg "GitHub Folder Preview")
 
@@ -163,7 +159,7 @@ Please follow this format when creating a new article._
 
 To edit a page, go to the folder of that page and select the language of the article.
 
-From here, you should see something like this:            
+The content of the article will be shown, like this:            
 
 ![GitHub Preview](./img/Contribute_webview.jpg "GitHub Preview")
 
@@ -178,38 +174,39 @@ You will be given an empty file with no filename given, as shown above.
 Name the file in accordance to two letter [ISO 639-1 codes][ISO 639-1] of your language, following the `639-1` column, with an ``.md`` file extension at the end, all in lowercase.
 For example, if you are writing in Japanese, then name it as ``jp.md``.
 
-Write on the empty file content.
+You can now add content to your file.
 
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your file creation to other contributors.
+After making your changes, scroll down to _Commit Changes_ (see Commit Changes below).
+
+##### Update/edit a file
+
+If you did find your language code inside the folder, however the file was written badly or other errors were found, click on the pencil icon, located at the top right of the article preview.
+This will redirect you to the web-based editor.
+
+![GitHub's Web Editor](./img/Contribute_webeditor.jpg "Web Editor Snapshot")
+
+You can now edit the content in the file.
+If you want to preview the changes you've made, click the "Preview Changes" tab.
+Click the "Edit File" tab to continue editing the file.
+
+After making your changes, scroll down to _Commit Changes_ (see Commit Changes below).
 
 ##### Add a directory/folder
 
 **Before adding a directory, please explain what you are doing in the [Issues][GH Issue] tab to prevent wasted effort and connection usage.
 This is because once you upload the directory, renaming or moving the directory must be done using Git.**
 
-To add a directory, prepare a properly named folder with at least a filled file inside and nothing else.
+To add a directory, prepare a properly named folder with at least one file inside.
 The file must follow the naming convention of [ISO 639-1 codes][ISO 639-1]
 
-Navigate to the proper filepath to put the directory in.
+Navigate to the filepath where you'd like to place the new directory in.
 Then, click on the "Upload files" button.
 
 ![Upload files on this directory](./img/Contribute_webuploadfiles.jpg "Upload files on this directory")
 
 Drag and drop the folder to the upload window.
 
-After uploading your changes, scroll down to _Commit Changes_ and fill the following fields to explain your upload to other contributors.
-
-##### Update a file
-
-If the file was available but was written badly or syntax errors were found, click on the pencil icon to edit.
-This should redirect you to the web editor.
-
-![GitHub's Web Editor](./img/Contribute_webeditor.jpg "Web Editor Snapshot")
-
-If you want to preview your changes, click the "Preview Changes" tab.
-Click the "Edit File" tab to continue editing the file.
-
-After making your changes, scroll down to _Commit Changes_ and fill the following fields to explain your edit(s) to other contributors.
+After uploading your changes, scroll down to _Commit Changes_ (see Commit Changes below).
 
 #### Commit Changes
 
@@ -218,18 +215,20 @@ After making your changes, scroll down to _Commit Changes_ and fill the followin
 _**Note: Your commit message(s) must thoroughly explain your changes, otherwise, they may not get accepted!
 Also, please write it in English.**_
 
-You would be given an option where to save your edits.
+After making your changes, scroll down to _Commit Changes_. This is where you will add the changes you've just created into your repository. Add a summary and optional description of your changes, then select where you'd like to save your edits.
 
-- **"Commit Directly to the ``xyz`` branch"**
-  - This will commit the changes through your (current) branch directly.
+- **"Commit directly to the ``<your branch name>`` branch"**
+  - This will commit the changes directly to your (current) branch.
 
-- **"Create a New Branch"**
-  - Automatically creates a branch for your edits.
-    A commit and a branch with a default name (normally, it would be called ``username : patch-#``, with ``#`` being a number, starting from ``1``) would be created.
+- **"Create a new branch for this commit and start a pull request"**
+  - This will automatically create a new branch in your repository with your new changes.
+  - A pull request will then be started where you can merge the changes you've just added into the official osu!wiki repository.
 
-Pick an option and click the green "Commit Changes" button.
+Once you've picked an option, click the green "Commit Changes" button, and you will have successfully made your changes. If you'd like to merge your changes into the offical osu!wiki repository now, make a _Pull Request_ (see Pull Requests below).
 
 ### Through your Local Machine
+
+_**Note: If you are a new GitHub user and you use the web-based editor to make changes, please skip this section, and go to Pull Requests instead!**_
 
 GitHub under the hood, is a Git Service.
 You can clone your fork to your PC and make changes there.
@@ -495,75 +494,70 @@ After you enter them, this should push your commits to GitHub.
 
 ### Finding the pull request button
 
-After pushing your commits, you must make a "Pull Request"(abbreviated as "PR").
+After pushing your commits to your repository, you must make a "Pull Request" (abbreviated as "PR") in order to merge your commits with the official osu!wiki repository.
 This lets us know that your commits are ready to be reviewed.
 
 ![Pull Request Tab](./img/Contribute_pr1.jpg "Pull Request Tab")
 
-There are three ways (four, if you have write access to the repository) of making a pull request.
-Each of the ways are separated by a plan header, and all of them will lead to the creation of a PR.
-Pick your favourite plan and stick to it.
-
-To begin, go to your own forked repository.
+There are three ways of making a pull request.
+To begin, go to your forked repository.
 
 #### Plan A (PR current branch)
 
-Switch your ``Branch: master`` dropdown button **to the branch you want to do a PR** for.
+Click on the ``Branch`` dropdown button and **select the branch that has the changes you want to merge into the official repository**.
 
-Then, press on either the "New pull request" right beside the dropdown button, the "Pull request" with a merge-branch icon right beside the "Compare" button, or the "Compare" button.
-
-Either one of the buttons will still lead you to the same PR branch compare page.
+Then, click on the "New pull request" button.
 
 #### Plan B (The branch page)
 
-Click on the "Branches" icon and text to go to the branches page.
+Click on the "Branches" button above the ``Branch`` dropdown button.
 
 ![Branch page](./img/Contribute_pr2.jpg "Branch Page")
 
-You should roughly get the screen as shown above.
-You can overview your branch status and do clean-up like deleting the branches by pressing the red trashcan icon.
+You will be directed to a page similar to the above.
 
-Since you are here for PR, click on the "New pull request" on the branch you want to do PR on.
+Click on the "New pull request" button next to **the branch that has the changes you want to merge into the official repository**. Note that you won't be able to create a pull request on the ``master`` branch while on this page since it is your default branch.
 
 #### Plan C (The PR page)
 
-Go to the "Pull Requests" tab, or the "New Pull request" button beside the branch.
+Click on the "Pull Requests" tab next to the "Code" tab at the top of the page.
 
-This would lead you to the pull requests page.
+This will direct you to the pull requests page.
 
 ![PR UI](./img/Contribute_pr3.jpg "Pull Requests Page")
 
-This is the Pull Request Page.
-
-Now click on "New pull request"
+Click on the "New pull request" button at the top right of the page.
 
 ### Preparing the PR
 
 ![Compare Changes Page](./img/Contribute_prcomp.jpg "Comparing Changes")
 
-We want to compare ``ppy:master`` as base fork branch against your branch as head fork branch.
-
-From here, select the branch that contains your commits besides your "head fork".
+In the ``Base fork:`` dropdown, select the repository that you'd like to merge your changes into. In this case, you are merging your changes into the official osu!wiki repository. Select ``ppy/osu-wiki``.
+In the ``Base:`` dropdown next to the ``Base fork:`` dropdown, select the branch of the repository. The branch you need to merge your changes into is ``master``.
+In the ``Head fork:`` dropdown, select the repository that contains the changes that need to be merged. In this case, you need to select your forked repository.
+In the ``Compare:`` dropdown next to the ``Head fork:`` dropdown, select the branch of the repository with the changes. If you created a new branch and made your changes there, select that branch.
 
 ![Comparing Changes 2](./img/Contribute_prcomp2.jpg "Comparing Changes 2")
 
-Now after viewing your changes, click "Create Pull Request" and fill it with the following details:
+Once you have selected the repositories and branches, a comparison of everything that you changed will be displayed against the repository without your changes.
+After reviewing your changes, click "Create Pull Request" and fill it with the following details:
 
-- **Title** : The summary of the changes you have made
-  - It is really important to have a meaningful and clear title, otherwise it will cause confusion
-  - Please write it in **English**
+- **Title**: The summary of the changes you made.
+  - It is really important to have a meaningful and clear title, otherwise it will cause confusion.
+  - Please write it in **English**.
 
-- **Leave a Comment** : The details of the changes you have made
-  - Also, write it in **English**
+- **Description**: The details of the changes you made.
+  - A template for writing a description is provided, please use this template to create the description.
+  - Also, write it in **English**.
 
 ![PR Creation Dialogue](./img/Contribute_prcontent.jpg "PR Creation Dialogue")
 
-Click on the "Create pull request" button.
+Finally, click on the "Create pull request" button.
 
 ![A typical PR page](./img/Contribute_prexample.jpg "A typical PR page")
 
-With the PR up, you can either refine your PR content and files by pushing to the branch or wait for a reviewer to check for errors.
-If your PR was deemed good enough, a _Team osu!_ member may come and merge your changes to the official branch.
+Your pull request is now viewable on the official osu!wiki repository. You can edit your pull request by clicking the pencil icon, continue to create changes to your files by pushing to your repository's branch or wait for a reviewer to check your changes for errors.
+If your PR was deemed good enough, an _osu! team_ member may come and merge your changes to the official osu!wiki repository.
 
 **Your commit messages should thoroughly explain your changes.
 Otherwise, the pull request may not be accepted to the official branch!**
