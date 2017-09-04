@@ -2,7 +2,7 @@
 
 Los beatmaps son los niveles a batir en [osu!](/wiki/osu!_glossary), similares a los de los [Juegos de DS](/wiki/Glossary/#ds-games). Los beatmaps se componen de una canción y varios [hit objects](/wiki/hit_objects) situados en el espacio y el tiempo al ritmo de la música. Pueden tener como fondo una imagen, un vídeo o un [storyboard](/wiki/storyboard).
 
-Los beatmaps pueden subirse a la web a través del [BSS](/wiki/BSS) (Beatmap Submission System: sistema de envío de beatmaps) y son sometidos a un proceso de aprobación llamado [modding](/wiki/modding) para mantener los máximos estándares de calidad posibles en términos de jugabilidad.Puedes encontrar los beatmaps en el [buscador de mapas](https://osu.ppy.sh/beatmapsets) en la web de osu!
+Los beatmaps pueden subirse a la web a través del [BSS](/wiki/BSS) (Beatmap Submission System: sistema de envío de beatmaps) y son sometidos a un proceso de aprobación llamado [modding](/wiki/modding) para mantener los máximos estándares de calidad posibles en términos de jugabilidad. Puedes encontrar los beatmaps en el [buscador de mapas](https://osu.ppy.sh/beatmapsets) en la web de osu!.
 
 ## Estatus de rankeo
 
@@ -12,32 +12,28 @@ Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominat
 
 Los beatmaps rankeados (ranked) vienen indicados con este icono: (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones. Estos beatmaps siguen a rajatabla todos los [criterios de rankeo](/wiki/ranking_criteria) para asegurar que tienen unos mínimos de calidad y jugabilidad, así como que la información que se muestra en ellos es correcta.
 
-### Beatmaps aprobados
+### Mapas calificados 
 
-Los beatmaps aprobados (approved) vienen indicados con este icono: (![Check icon](/wiki/shared/status/approved.png))  en la pantalla de selección de canciones. El estatus de aprobado es utilizado para canciones que superan los 5 minutos de longitud, que son conocidos como [marathon](/wiki/marathon). La mayoría de los mapas aprobados no tienen dificultades [fácil](/wiki/easy) ni [normal](/wiki/normal).
+Los mapas calificados (qualified) vienen indicados con el icono: (![Check icon](/wiki/shared/status/qualified.png)) en la pantalla de selección  de canciones. Estos beatmaps están en la última etapa del proceso de mapeo y modding. Al seleccionarlos, muestran un mensaje que avisa de que:
 
-### Mapas cualificados 
-
-Los mapas cualificados (qualified) vienen indicados con el icono: (![Check icon](/wiki/shared/status/qualified.png)) en la pantalla de selección  de canciones. Estos beatmaps están en la última etapa del proceso de mapeo y modding. Al seleccionarlos, muestran un mensaje que avisa de que:
-
-- No otorgan [PP](/wiki/pp)
+- No otorgan [PP](/wiki/pp).
 
 - Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
 
-Cuando un mapa es cualificado significa que cumple los criterios de rankeo y que ha sido comprobado por al menos dos nominadores. 
+Cuando un mapa es calificado significa que cumple los criterios de rankeo y que ha sido comprobado por al menos dos Beatmap Nominators. 
 
-El estatus de cualificado dura una semana como mínimo antes de pasar a estar rankeados o aprobados de forma definitiva. 
+El estatus de calificado dura una semana como mínimo antes de pasar a estar rankeados o aprobados de forma definitiva. 
 Durante esta semana, los [QATs](/wiki/QAT) podrán decidir devolver el mapa a los estados previos si consideran que aún existen problemas a resolver. 
 
 ### Loved
 
 Los beatmaps Loved, literalmente _amados_, vienen indicados con el icono: (![Heart icon](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones. Estos mapas pueden cumplir o no los criterios de rankeo, pero han sido reconocidos por la comunidad como mapas valiosos. Al seleccionarlos, muestran un mensaje que avisa de que:
 
-- No otorgan [PP](/wiki/pp)
+- No otorgan [PP](/wiki/pp).
 
 - Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
 
-El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/forum/t/549835)(en inglés). Para que un mapa alcance el estatus de Loved.
+El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/forum/t/549835) (en inglés). Para que un mapa alcance el estatus de Loved.
 
 ### Pendiente
 
@@ -47,7 +43,7 @@ Los mapas pendientes (pending) vienen indicados con el icono: (![Question mark i
 
 Los beatmaps pendientes no afectan a las estadísticas de usuario.
 
-[Los creadores](/wiki/Creators)  deben buscar [modders](/wiki/modders) de la comunidad y al menos dos [Nominadores](/wiki/Beatmap_Nominators) para que el proceso siga adelante.
+[Los creadores](/wiki/Creators)  deben buscar [modders](/wiki/modders) de la comunidad y al menos dos [Beatmap Nominators](/wiki/Beatmap_Nominators) para que el proceso siga adelante.
 
 Los mapas inactivos que llevan al menos 4 semanas en el estatus pendiente son movidos al estatus de abandonado.
 
