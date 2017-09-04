@@ -6,7 +6,7 @@ Los beatmaps pueden subirse a la web a través del [BSS](/wiki/BSS) (Beatmap Sub
 
 ## Estatus de rankeo
 
-Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominators (BN)](/wiki/Beatmap_Nominators). Los mapas rankeados y aprobados afectan a las estadísticas de los usuarios cuando son jugados, a diferencia de los mapas [pendientes (pending)](#pendiente) o [abandonados (graveyarded)](#abandonado) beatmap.
+Los mapas rankeados y aprobados requieren la aprobación de dos [Beatmap Nominators (BN)](/wiki/Beatmap_Nominators). Los mapas rankeados y aprobados afectan a las estadísticas de los usuarios cuando son jugados, a diferencia de los mapas [pendientes (pending)](#pendiente) o [abandonados (graveyarded)](#abandonado).
 
 ### Beatmaps rankeados
 
