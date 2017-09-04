@@ -25,15 +25,15 @@ First of all, congratulations to the winners of the June 2017 Spotlights. They r
 
 [![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/myoujin-henka.jpg)](https://osu.ppy.sh/s/559843)
 
-A marathon difficulty which happens to be under 4 stars and is mapped with the delightful russian mapping-style we all love and know can be found in this map. **(Mirash)[https://osu.ppy.sh/u/2841009]** has done an excellent job in keeping all elements in mind when mapping this song - the background rhythm, the vocals and the instruments. With careful placement and neat accentuation Mirash has succeeded in offering the community a map which can be enjoyed by many people.
+A marathon difficulty which happens to be under 4 stars and is mapped with the delightful russian mapping-style we all love and know can be found in this map. **[Mirash](https://osu.ppy.sh/u/2841009)** has done an excellent job in keeping all elements in mind when mapping this song - the background rhythm, the vocals and the instruments. With careful placement and neat accentuation Mirash has succeeded in offering the community a map which can be enjoyed by many people.
 
 [![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/zauberkugel.jpg)](https://osu.ppy.sh/s/554892)
 
-Yet again. **(pishifat)[https://osu.ppy.sh/u/3178418]** manages to impress the community with a map in this month's spotlights. Zaberkugel heavily focuses on slider speed changes as the song progresses. Combining with creative slider arrangements and great gameplay overall make this one a must-play!
+Yet again. **[pishifat](https://osu.ppy.sh/u/3178418)** manages to impress the community with a map in this month's spotlights. Zaberkugel heavily focuses on slider speed changes as the song progresses. Combining with creative slider arrangements and great gameplay overall make this one a must-play!
 
 [![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/sayonara-heaven.jpg)](https://osu.ppy.sh/s/516995)
 
-With such clean and consistent mapping, **(jieusieu)[https://osu.ppy.sh/u/759439]**, **(Beomsan)[https://osu.ppy.sh/u/3626063]** and **(Enon)[https://osu.ppy.sh/u/2043401]** managed to create a wonderful mapset worthy of this month's Spotlight.
+With such clean and consistent mapping, **(jieusieu)[https://osu.ppy.sh/u/759439]**, **[Beomsan](https://osu.ppy.sh/u/3626063)** and **[Enon](https://osu.ppy.sh/u/2043401)** managed to create a wonderful mapset worthy of this month's Spotlight.
 
 Each difficulty captures the song wonderfully while also putting attention to the breaks in the music, and the map itself flows brilliantly, topped off with some excellent and beatifully fitting hitsounding.
 
@@ -73,7 +73,7 @@ Slider velocity alterations are also natural and intuitive, fitting the pace of 
 
 It's time to Cry Thunder! **[Surono](https://osu.ppy.sh/u/3611370)** is storming this month's spotlights with a 1/3 and 1/6-snap filled song by DragonForce! 
 
-Using the relatively uncommon 1/3 snap as the song's main rhythm, Surono has created a map that becomes noteworthy simply from clever utilization of this unusuaal beat snapping. Mixed together with solid drum mapping and guitar solos, he has made a very respectable entry into this month's Spotlight.
+Using the relatively uncommon 1/3 snap as the song's main rhythm, Surono has created a map that becomes noteworthy simply from clever utilization of this unusual beat snapping. Mixed together with solid drum mapping and guitar solos, he has made a very respectable entry into this month's Spotlight.
 
 [![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/my-so-called-life.jpg)](https://osu.ppy.sh/s/627934)
 
