@@ -93,13 +93,15 @@ mod 初体验类奖章可以通过初次使用相应的 mods 来完成谱面获�
 
 特别注意，如果在一次游玩中使用了2个或更多的 mods ，那么**不会**给玩家带来 _任何奖章_ 。
  
-| 提高难度 | 降低难度 | 特殊 |
-| :---: | :---: | :---: |
-| ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Easy](img/all-intro-easy.png "Easy") | ![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
-| ![Double Time](img/all-intro-doubletime.png "Double Time") ![Nightcore](img/all-intro-nightcore.png "Nightcore") | ![Half Time](img/all-intro-halftime.png "Half Time") | ![Relax](img/all-intro-relax.png "Relax") |
-| ![Flashlight](img/all-intro-flashlight.png "Flashlight") | ![No Fail](img/all-intro-nofail.png "No Fail") | ![Spun Out](img/all-intro-spunout.png "Spun Out") |
-| ![Hidden](img/all-intro-hidden.png "Hidden") | | |
-| ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
+
+|提高难度| 降低难度 | 特殊 |
+|:---:|:---:|:---:|
+|![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Hard Rock](img/all-intro-hardrock.png "Hard Rock")| ![Hard Rock](img/all-intro-hardrock.png "Hard Rock")|![Auto Pilot](img/all-intro-autopilot.png "Auto Pilot") |
+| ![Double Time](img/all-intro-doubletime.png "Double Time") | ![Nightcore](img/all-intro-nightcore.png "Nightcore") | ![Half Time](img/all-intro-halftime.png "Half Time") | ![Relax](img/all-intro-relax.png "Relax") |
+| ![Flashlight](img/all-intro-flashlight.png "Flashlight") | ![No Fail](img/all-intro-nofail.png "No Fail") | ![Spun Out](img/all-intro-spunout.png "Spun Out")|
+| ![Hidden](img/all-intro-hidden.png "Hidden") || |
+| ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | ||
+
 
 隐藏
 ---------
