@@ -42,7 +42,7 @@ Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el
 
 El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el ratón y utilizar la otra mano para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
 
-Algunos jugadores usan el teclado solo cuando tienen que hacer un _streaming_, un patrón de notas muy rápidas, y hacen el resto del beatmap haciendo clic con el ratón.
+Algunos jugadores usan el teclado solo cuando tienen que hacer un _stream_, un patrón de notas muy rápidas, y hacen el resto del beatmap haciendo clic con el ratón.
 
 En pantalla, las pulsaciones del teclado se muestran como `K1` y `K2`.
 
@@ -64,7 +64,7 @@ El estilo de juego más popular para jugadores que usan una tableta gráfica.
 
 Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el cursor y _hacer clic_ utilizando o bien las teclas `Z` y `X` del teclado (que pueden ser cambiadas en las opciones) o utilizando los botones que vienen incorporados en algunas tabletas.
 
-Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los streamings, los patrones de notas rápidas y muy seguidas; y continúan usando el lápiz sobre la superficie de la tableta para el resto del beatmap.
+Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los _stream_, los patrones de notas rápidas y muy seguidas; y continúan usando el lápiz sobre la superficie de la tableta para el resto del beatmap.
 
 ### ![Touchscreen][Touchscreen icon] Con una pantalla táctil
 
@@ -141,7 +141,7 @@ Quienes se sientan cómodos con un mando de consola pueden utilizar las flechas 
 
 [Guía externa para teclados mecánicos (en inglés)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
-El teclado fue una vez la única manera de jugar a osu!manía hasta que otros métodos fueron incluidos.
+El teclado fue una vez la única manera de jugar a osu!mania hasta que otros métodos fueron incluidos.
 
 Los jugadores asignan las teclas que prefieran en el menú de opciones, que varían en función del número de teclas.
 
