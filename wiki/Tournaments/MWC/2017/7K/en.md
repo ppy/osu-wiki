@@ -62,6 +62,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [Keweft](https://osu.ppy.sh/users/75777), [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lazarento](https://osu.ppy.sh/users/3224958), [Shinora-](https://osu.ppy.sh/users/5828575) |
 | ![][flag_CL] | **Chile** | 	**[Gonzaalooo](https://osu.ppy.sh/users/1948903)**, [Asagaki](https://osu.ppy.sh/users/2632902), [Skalim](https://osu.ppy.sh/users/2225008) |
+| ![][flag_CN] | **China** | 	**[ZhangFan](https://osu.ppy.sh/users/89545)**, [Sern888](https://osu.ppy.sh/users/2089244), [Philosophorum](https://osu.ppy.sh/users/6503335), [KafuuChino](https://osu.ppy.sh/users/427355), [ljqandylee](https://osu.ppy.sh/users/141469), [Kaguya](https://osu.ppy.sh/users/681814) |
 | ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [bumpinho](https://osu.ppy.sh/users/1594604), [AntoAa](https://osu.ppy.sh/users/3897919), [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
 | ![][flag_ID] | **Indonesia** | **[Fiea](https://osu.ppy.sh/users/3183277)**, [Nyooo](https://osu.ppy.sh/users/2319372), [Cailne](https://osu.ppy.sh/users/1031263), [ExKagii-](https://osu.ppy.sh/users/4591324), [Kephin](https://osu.ppy.sh/users/5033561), [reyss](https://osu.ppy.sh/users/4557440) |
 | ![][flag_MY] | **Malaysia** | **[Cryolien](https://osu.ppy.sh/users/1626983)**, [seyren95](https://osu.ppy.sh/users/1761259), [InabaYap](https://osu.ppy.sh/users/2041034) |
@@ -73,6 +74,97 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 | ![][flag_TH] | **Thailand** | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [moni](https://osu.ppy.sh/users/1750531), [Zenonia](https://osu.ppy.sh/users/437945), [Komeiji](https://osu.ppy.sh/users/1177753), [Leoros](https://osu.ppy.sh/users/6577073), [- A s u s a -](https://osu.ppy.sh/users/4607354) |
 | ![][flag_GB] | **United Kingdom** | **[PLiv](https://osu.ppy.sh/users/929134)**, [KOTFTW](https://osu.ppy.sh/users/2075727), [FOR THE QUEEN](https://osu.ppy.sh/users/3359035), [Hayabusa](https://osu.ppy.sh/users/3104108), [Pipper](https://osu.ppy.sh/users/4168230) |
 | ![][flag_US] | **United States** | **[Gekido-](https://osu.ppy.sh/users/4693052)**, [Jinjin](https://osu.ppy.sh/users/3360737), [Craig](https://osu.ppy.sh/users/3565377), [Squishykorean](https://osu.ppy.sh/users/4372604), [OroMaster](https://osu.ppy.sh/users/2375374), [dewero](https://osu.ppy.sh/users/2644993) |
+
+## Mappools
+
+### Group Stage
+
+**[Download the mappack here!](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
+
+- FreeMod
+  - [WALKUERE - Ikenai Borderline (SanadaYukimura)](http://osu.ppy.sh/b/1030861&m=3) [Emiria's 7K G]
+  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-)](http://osu.ppy.sh/b/1158709&m=3) [Pope's Anfractuous Derivative]
+  - [penoreri - Everlasting Message (Julie)](http://osu.ppy.sh/b/687322&m=3) [EXHAUST]
+  - [Sawano Hiroyuki - Blowin' (ArcherLove)](http://osu.ppy.sh/b/426032&m=3) [Hard]
+  - [Ayana - freak of nature: start (richardfeder)](http://osu.ppy.sh/b/362574&m=3) [Freak Out]
+  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove)](http://osu.ppy.sh/b/787134&m=3) [yoshilove's 7K HD]
+  - [Helblinde - Above the Clouds (Level 51)](http://osu.ppy.sh/b/1074573&m=3) [Hymn]
+  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR)](http://osu.ppy.sh/b/255968&m=3) [Insane]
+  - [Tsukasa Yatoki - 2A-Attack (Reikosaka)](http://osu.ppy.sh/b/359560&m=3) [Maximum]
+  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires)](http://osu.ppy.sh/b/712126&m=3) [HD]
+  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika)](http://osu.ppy.sh/b/841216&m=3) [Insane]
+  - [Misawa Sachika - Links (TV Size) (17VA)](http://osu.ppy.sh/b/320510&m=3) [MX]
+  - [Junk - Aihana (Love+ Edit) (richardfeder)](http://osu.ppy.sh/b/468795&m=3) [S.Star's Another]
+- Tiebreaker
+  - [Nhato - Magic (Tear)](http://osu.ppy.sh/b/427993&m=3) [Enchanted]
+
+### Quarterfinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
+
+- FreeMod
+  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget)](http://osu.ppy.sh/b/1150224&m=3) [VII]
+  - [SHK - Milky Way (ExPew)](http://osu.ppy.sh/b/305675&m=3) [SC]
+  - [xi - Hesperides (ExKagii-)](http://osu.ppy.sh/b/1035076&m=3) [Another]
+  - [S.I.D Sound - Pink Gold (Reikosaka)](http://osu.ppy.sh/b/525686&m=3) [Happiness]
+  - [STN - The Limbo (Alumetorz)](http://osu.ppy.sh/b/405715&m=3) [Rumi's MX]
+  - [DJ SHIMAMURA - Move Real Slow (Agka)](http://osu.ppy.sh/b/412973&m=3) [Slow]
+  - [TAG - Romancing Layer (\_S u w a k o\_)](http://osu.ppy.sh/b/543414&m=3) [Lv.34]
+  - [Nakamura Meiko - reverb (richardfeder)](http://osu.ppy.sh/b/509575&m=3) [Another]
+  - [YUZU - Hyori Ittai (ArcherLove)](http://osu.ppy.sh/b/516758&m=3) [Lv.25]
+  - [LeaF - Doppelganger (Jinjin)](http://osu.ppy.sh/b/1025646&m=3) [Zen's Insane]
+  - [Shibayan - X-D-A-T (Jole)](http://osu.ppy.sh/b/440089&m=3) [Lv.12 Another]
+  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus)](http://osu.ppy.sh/b/941427&m=3) [7K Awakened]
+  - [M2U - Promise (Jinjin)](http://osu.ppy.sh/b/869223&m=3) [Yaksok]
+- Tiebreaker
+  - [niki feat. Reol - WAVE (KafuuChino)](http://osu.ppy.sh/b/1017922&m=3) [WAVE]
+
+### Semifinals
+
+**[Download the mappack here!](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
+
+- FreeMod
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening)](http://osu.ppy.sh/b/1042544&m=3) [Expert]
+  - [HHHxMMxST - oboro (Yooh)](http://osu.ppy.sh/b/519264&m=3) [Hisoka]
+  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget)](http://osu.ppy.sh/b/1082251&m=3) [whasgoinon]
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL)](http://osu.ppy.sh/b/909107&m=3) [Black Another]
+  - [sun3 - Morgenglut 2012 (arcwinolivirus)](http://osu.ppy.sh/b/1083582&m=3) [7K 'Morgen Mugen' Arc]
+  - [goreshit - o'er the flood (Blocko)](http://osu.ppy.sh/b/974969&m=3) [torrent]
+  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp)](http://osu.ppy.sh/b/368423&m=3) [SHD]
+  - [DJ Sharpnel - Tactical railroad (qodtjr)](http://osu.ppy.sh/b/1072967&m=3) [Destruction]
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel)](http://osu.ppy.sh/b/1165581&m=3) [Tick Tock]
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia)](http://osu.ppy.sh/b/580759&m=3) [ZenoCORE!]
+  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy)](http://osu.ppy.sh/b/1015428&m=3) [sp5]
+  - [sky-fi - sakura sweets (keii bootleg) (Agka)](http://osu.ppy.sh/b/725614&m=3) [Sweet]
+  - [Tool - Right in Two (Pope Gadget)](http://osu.ppy.sh/b/1157119&m=3) [The Chasm]
+  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_)](http://osu.ppy.sh/b/895160&m=3) [Relax]
+- Tiebreaker
+  - [Camellia - Glitch Nerds (Evening)](http://osu.ppy.sh/b/991010&m=3) [overloaded_.]
+
+### Finals
+
+**This mappool will be used in Finals - Week 1 and Finals - Week 2**
+
+**[Download the mappack here!](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
+
+- FreeMod
+  - [Alon Mor - Demons (-Kamikaze-)](http://osu.ppy.sh/b/1188811&m=3) [Evening's ritual (preview)]
+  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr)](http://osu.ppy.sh/b/1104259&m=3) [Dreaming of square]
+  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia)](http://osu.ppy.sh/b/993185&m=3) [ZenoCORE!]
+  - [Blitz Lunar - Mathsma Attack (Blocko)](http://osu.ppy.sh/b/1060566&m=3) [Shockwave]
+  - [Falcom Sound Team jdk - SILENT DESERT (Evening)](http://osu.ppy.sh/b/1146187&m=3) [BEGINNING]
+  - [The Algorithm - floating point (Drumcorps Remix) (_underjoy)](http://osu.ppy.sh/b/1154859&m=3) [Approximation]
+  - [EZFG - cloud (Ciel)](http://osu.ppy.sh/b/1178427&m=3) [High (nerfed)]
+  - [xi - Angelic Party (Jinjin)](http://osu.ppy.sh/b/1185659&m=3) [Evening & Jinjin's Collaborative Party!]
+  - [Demetori - Wind God Girl (TBSM)](http://osu.ppy.sh/b/766085&m=3) [BMS 21]
+  - [Sakuzyo - Imprinting (Zenonia)](http://osu.ppy.sh/b/908448&m=3) [Impression]
+  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-)](http://osu.ppy.sh/b/1185947&m=3) [Nivrad00's Virtuoso]
+  - [Helblinde - Memoria Reborn (sankansuki)](http://osu.ppy.sh/b/982489&m=3) [Reincarnation]
+  - [Camellia - Dans la mer de son (Jinjin)](http://osu.ppy.sh/b/1178316&m=3) [Calm Before the Storm]
+  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr)](http://osu.ppy.sh/b/1099040&m=3) [CRASH KBD]
+  - [xi - PEACE BREAKER (Evening)](http://osu.ppy.sh/b/837107&m=3) [Marathon/Fallout.]
+- Tiebreaker
+  - [Camellia - Fastest Crash (Gekido-)](http://osu.ppy.sh/b/767979&m=3) [Fastest]
 
 ------------------------------------------------------------------------
 
@@ -213,34 +305,21 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_US]: /wiki/shared/flag/US.gif
