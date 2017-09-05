@@ -16,56 +16,56 @@ GMT가 되는 방법
 팀 구성원
 ---------
 
-*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [Team Page](http://osu.ppy.sh/g/4)
+*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [팀 페이지](http://osu.ppy.sh/g/4)
 
-| Name | Additional Languages Spoken | Area of focus |
+| 이름 | 언어 | 주요 활동 |
 | ---- | --------------------------- | ------------- |
-| [-kevincela-](https://osu.ppy.sh/u/266596) | Italian | Chat Moderation |
-| [[ Another ]](https://osu.ppy.sh/u/3416573) | Hungarian | Chat Moderation |
-| [Atrue](https://osu.ppy.sh/u/1758523) | Chinese | Chat Moderation |
-| [Chaos](https://osu.ppy.sh/u/2628870) | | Chat Moderation |
-| [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media creation |
-| [Deif](https://osu.ppy.sh/u/318565) | Spanish | Tournaments |
-| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | Technical Support |
-| [Ephemeral](https://osu.ppy.sh/u/102335) | | Player Support |
-| [Flanster](https://osu.ppy.sh/u/447818) | Bulgarian | osu!idol hosting, Chat Moderation |
-| [Gabe](https://osu.ppy.sh/u/654108) | French | Chat Moderation |
-| [Galkan](https://osu.ppy.sh/u/169570) | Polish | Chat Moderation |
-| [ghm12](https://osu.ppy.sh/u/2594229) | Portuguese | Chat Moderation |
-| [heyronii](https://osu.ppy.sh/u/5642779) | Turkish | Chat Moderation |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | Cantonese, Chinese | Chat Moderation |
-| [juankristal](https://osu.ppy.sh/u/443656) | Spanish | Chat Moderation, Tournaments |
-| [Kobold84](https://osu.ppy.sh/u/3227533) | Russian | Chat Moderation |
-| [Kurai](https://osu.ppy.sh/u/77089) | French, Russian | Chat Moderation |
-| [Kyubey](https://osu.ppy.sh/u/2195646) | Russian | Chat Moderation |
-| [Marcin](https://osu.ppy.sh/u/722665) | Polish | Forum Moderation, Development |
-| [MrSergio](https://osu.ppy.sh/u/2581696) | Italian | Chat Moderation |
-| [n0ah](https://osu.ppy.sh/u/3086393) | Dutch | Chat Moderation, Forum Moderation |
-| [Nathanael](https://osu.ppy.sh/u/2295078) | Filipino | Chat Moderation, Forum Moderation |
-| [Neil Watts](https://osu.ppy.sh/u/3048059) | French | Chat Moderation |
-| [Nyquill](https://osu.ppy.sh/u/682935) | Chinese | osu!weekly |
-| [Pawsu](https://osu.ppy.sh/u/2371454) |  | Chat Moderation, Technical support |
-| [Pereira006](https://osu.ppy.sh/u/537344) | Portuguese | Chat Moderation |
-| [Pittigbassje](https://osu.ppy.sh/u/2167433) | Dutch | Chat Moderation |
-| [Repflez](https://osu.ppy.sh/u/201392) | Spanish | Chat Moderation, Wiki Administration |
-| [ruexia](https://osu.ppy.sh/u/385069) | Korean | Chat Moderation |
-| [S o h](https://osu.ppy.sh/u/2234772) | Japanese | Chat Moderation |
-| [Saten](https://osu.ppy.sh/u/444506) | Swedish, Spanish | Chat Moderation |
-| [shARPII](https://osu.ppy.sh/u/776257) | French | Chat Moderation, Tournaments |
-| [Shiro](https://osu.ppy.sh/u/113005) | French, Spanish | Chat Moderation |
-| [Shockwave](https://osu.ppy.sh/u/251631) | Spanish | Chat Moderation |
-| [Shurelia](https://osu.ppy.sh/u/3807986) | Indonesian | Chat Moderation |
-| [Spkz](https://osu.ppy.sh/u/2964029) | Hungarian | Chat Moderation |
-| [Stefan](https://osu.ppy.sh/u/626907) | German | Chat Moderation, Forum Moderation |
-| [Sylphi](https://osu.ppy.sh/u/1399551) | Korean | Chat Moderation |
-| [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media creation |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | Technical Support |
-| [ToGlette](https://osu.ppy.sh/u/1076236)| Korean, Japanese | Chat Moderation |
-| [Trosk-](https://osu.ppy.sh/u/3469385) | Spanish | Technical Support |
-| [Ukami](https://osu.ppy.sh/u/820865) | Polish | Chat Moderation |
-| [Uni](https://osu.ppy.sh/u/617106) | Dutch | Chat Moderation |
-| [VeilStar](https://osu.ppy.sh/u/4255720) | | Technical Support |
-| [WalterToro](https://osu.ppy.sh/u/5281416) | Spanish | Chat Moderation, Forum Moderation |
-| [Yason](https://osu.ppy.sh/u/2574392) | Polish | Chat Moderation |
-| [Zero__wind](https://osu.ppy.sh/u/1822830) | Chinese | Chat Moderation |
-| [Zetera](https://osu.ppy.sh/u/587737) | German | Chat Moderation |
+| [-kevincela-](https://osu.ppy.sh/u/266596) | 이탈리아어 | 채팅 중재 |
+| [[ Another ]](https://osu.ppy.sh/u/3416573) | 헝가리어 | 채팅 중재 |
+| [Atrue](https://osu.ppy.sh/u/1758523) | 중국어 | 채팅 중재 |
+| [Chaos](https://osu.ppy.sh/u/2628870) | | 채팅 중재 |
+| [deadbeat](https://osu.ppy.sh/u/128370) | | osu!media 제작 |
+| [Deif](https://osu.ppy.sh/u/318565) | 스페인어 | 대회 |
+| [Dntm8kmeeatu](https://osu.ppy.sh/u/5428812) | | 기술 지원 |
+| [Ephemeral](https://osu.ppy.sh/u/102335) | | 플레이어 지원 |
+| [Flanster](https://osu.ppy.sh/u/447818) | 불가리아어 | osu!idol 호스팅, 채팅 중재 |
+| [Gabe](https://osu.ppy.sh/u/654108) | 프랑스어 | 채팅 중재 |
+| [Galkan](https://osu.ppy.sh/u/169570) | 폴란드어 | 채팅 중재 |
+| [ghm12](https://osu.ppy.sh/u/2594229) | 포르투갈어 | 채팅 중재 |
+| [heyronii](https://osu.ppy.sh/u/5642779) | 터키어 | 채팅 중재 |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | 광둥어, 중국어 | 채팅 중재 |
+| [juankristal](https://osu.ppy.sh/u/443656) | 스페인어 | 채팅 중재, 대회 |
+| [Kobold84](https://osu.ppy.sh/u/3227533) | 러시아어 | 채팅 중재 |
+| [Kurai](https://osu.ppy.sh/u/77089) | 프랑스어, 러시아어 | 채팅 중재 |
+| [Kyubey](https://osu.ppy.sh/u/2195646) | 러시아어 | 채팅 중재 |
+| [Marcin](https://osu.ppy.sh/u/722665) | 폴란드어 | 포럼 중재, 개발 |
+| [MrSergio](https://osu.ppy.sh/u/2581696) | 이탈리아어 | 채팅 중재 |
+| [n0ah](https://osu.ppy.sh/u/3086393) | 네덜란드어 | 채팅 중재, 포럼 중재 |
+| [Nathanael](https://osu.ppy.sh/u/2295078) | 필리핀어 | 채팅 중재, 포럼 중재 |
+| [Neil Watts](https://osu.ppy.sh/u/3048059) | 프랑스어 | 채팅 중재 |
+| [Nyquill](https://osu.ppy.sh/u/682935) | 중국어 | osu!weekly |
+| [Pawsu](https://osu.ppy.sh/u/2371454) |  | 채팅 중재, 기술 지원 |
+| [Pereira006](https://osu.ppy.sh/u/537344) | 포르투갈어 | 채팅 중재 |
+| [Pittigbassje](https://osu.ppy.sh/u/2167433) | 네덜란드어 | 채팅 중재 |
+| [Repflez](https://osu.ppy.sh/u/201392) | 스페인어 | 채팅 중재, 위키 관리 |
+| [ruexia](https://osu.ppy.sh/u/385069) | 한국어 | 채팅 중재 |
+| [S o h](https://osu.ppy.sh/u/2234772) | 일본어 | 채팅 중재 |
+| [Saten](https://osu.ppy.sh/u/444506) | 스웨덴어, 스페인어 | 채팅 중재 |
+| [shARPII](https://osu.ppy.sh/u/776257) | 프랑스어 | 채팅 중재, 대회 |
+| [Shiro](https://osu.ppy.sh/u/113005) | 프랑스어, 스페인어 | 채팅 중재 |
+| [Shockwave](https://osu.ppy.sh/u/251631) | 스페인어 | 채팅 중재 |
+| [Shurelia](https://osu.ppy.sh/u/3807986) | 인도네시아어 | 채팅 중재 |
+| [Spkz](https://osu.ppy.sh/u/2964029) | 헝가리어 | 채팅 중재 |
+| [Stefan](https://osu.ppy.sh/u/626907) | 독일어 | 채팅 중재, 포럼 중재 |
+| [Sylphi](https://osu.ppy.sh/u/1399551) | 한국어 | 채팅 중재 |
+| [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media 제작 |
+| [TheVileOne](https://osu.ppy.sh/u/278862) | | 기술 지원 |
+| [ToGlette](https://osu.ppy.sh/u/1076236)| 한국어, 일본어 | 채팅 중재 |
+| [Trosk-](https://osu.ppy.sh/u/3469385) | 스페인어 | 기술 지원 |
+| [Ukami](https://osu.ppy.sh/u/820865) | 폴란드어 | 채팅 중재 |
+| [Uni](https://osu.ppy.sh/u/617106) | 네덜란드어 | 채팅 중재 |
+| [VeilStar](https://osu.ppy.sh/u/4255720) | | 기술 지원 |
+| [WalterToro](https://osu.ppy.sh/u/5281416) | 스페인어 | 채팅 중재, 포럼 중재 |
+| [Yason](https://osu.ppy.sh/u/2574392) | 폴란드어 | 채팅 중재 |
+| [Zero__wind](https://osu.ppy.sh/u/1822830) | 중국어 | 채팅 중재 |
+| [Zetera](https://osu.ppy.sh/u/587737) | 독일어 | 채팅 중재 |
