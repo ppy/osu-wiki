@@ -5,7 +5,7 @@ Compose
 
 ![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
 
-**Compose** is the place where a [mapper](/wiki/Glossary) spends most of their time mapping out his/her map with respect to the timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked mapset's difficulty and inspect its design akin to DDR's Training mode.
+**Compose** is the place where a [mapper](/wiki/Glossary) spends most of their time mapping out their map with respect to the timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked mapset's difficulty and inspect its design akin to DDR's Training mode.
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own specific features. You can easily access the osu!mania editor by setting your difficulty to osu!mania-only.
 
@@ -95,7 +95,7 @@ The **Insert Break Time** button places a ![break](/wiki/Glossary/#break) betwee
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
-**Please note that in osu!standard, default note hitsounds work differently than in osu!mania**
+**Please note that in osu!standard, default note hit sounds work differently than in osu!mania**
 
 - In osu!standard, adding a clap hit sound on a note will play 'hitclap' **+ hitnormal** sound on hit, while in osu!mania, only 'hitclap' will play.
 
@@ -103,12 +103,12 @@ The **Insert Break Time** button places a ![break](/wiki/Glossary/#break) betwee
 
 | Buttons / Header (Keyboard Shortcut) | Usage | Description |
 | ------------------------------------ | ----- | ----------- |
-| Sampleset | Auto, Normal, Soft, Drum | This will ignore the timing section's Sampleset setting , and adds the selected samplset... e.g. Timing point with **soft 77%**, while this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
-| Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
+| Sampleset | Auto, Normal, Soft, Drum | This will ignore the timing section's Sampleset setting and adds the selected sampleset... e.g. Timing point with **soft 77%**, while this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
+| Additions | Auto, Normal, Soft, Drum | Additions hit sound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
 | Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
 | Circle (`2`) | **Left/Right-click:** Add/Remove hit circle. | Hit circle. |
 | Slider (`3`) | **Left/Right-click:** Start/End Slider. Add/Remove sliderpoints (white square). **Left-Click x2:** New curve section (red square). | Slider. |
-| Spinner (`4`) | **Left/Right-click:** Start/End Spinner at current timestamp. | Spinner. Make sure Auto can at least score 1,000 Bonus per Spinner (to prevent the infamous spinner spam/ninja spinner). |
+| Spinner (`4`) | **Left/Right-click:** Start/End Spinner at current timestamp. | Spinner. Make sure Auto can score at least 1,000 Bonus per Spinner (to prevent the [infamous spinner spam / ninja spinner](/wiki/Mapping_Techniques/Unrankable)). |
 
 ### Centre (Playfield)
 
@@ -144,7 +144,7 @@ The **Insert Break Time** button places a ![break](/wiki/Glossary/#break) betwee
 
 ![Song's Timeline](img/BE_HSAT.jpg "Song's Timeline")
 
-At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percent. The percentage will switch to "intro" or "outro" if there is storyboarding before or after the music.
+At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percentage. The percentage will switch to "intro" or "outro" if there is storyboarding before or after the music.
 
 At the **bottom-centre**, there is a **timeline** with markings and the compulsory music player buttons. The `Test` button to the right of the timeline will save your beatmap then enter play test mode, starting from the current timestamp.
 
@@ -196,9 +196,9 @@ Features (osu!mania)
 
 **Your construction toolkit osu!mania ver., made for DIY.**
 
-**Please note that in osu!mania, default note hitsounds work differently with Standard/osu!**
+**Please note that in osu!mania, default note hit sounds work differently with Standard/osu!**
 
-- In osu!mania, adding a clap hitsound on a note will only play the 'hitclap' sound.
+- In osu!mania, adding a clap hit sound on a note will only play the 'hitclap' sound.
 
 ![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
 
@@ -297,7 +297,7 @@ For **keysound** (adding SE on hitnotes), select the note and **`Alt` + Left Cli
 
 ![Song's Timeline](img/BE_HSAT.jpg "Song's Timeline")
 
-At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percent. The percentage will switch to "intro" or "outro" if there is storyboarding before or after the music.
+At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percentage. The percentage will switch to "intro" or "outro" if there is storyboarding before or after the music.
 
 At the **bottom-centre**, there is a **timeline** with markings and the compulsory music player buttons. The `Test` button to the right of the timeline will save your beatmap then enter play test mode, starting from the current timestamp.
 
@@ -328,9 +328,9 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 
 | Name | Description |
 | ---- | ----------- |
-| CustomSet | **Ignoring** selected custom hitsound in this editor, and apply the **default** hitsound **SET** and volume without using timing point. ( Use basic sample must be enable in order to use this to be able to work as its intended )ex : added soft-hitwhistle77.wav with 90% volume.Note that you must add the whistle to the note manually as well. **Also this feature is not recommended while the normal APPLY function in this editor is easier to be used than this one while both of this basically works the same.** |
+| CustomSet | **Ignoring** selected custom hit sound in this editor, and apply the **default** hit sound **SET** and volume without using timing point. ( Use basic sample must be enable in order to use this to be able to work as its intended )ex : added soft-hitwhistle77.wav with 90% volume.Note that you must add the whistle to the note manually as well. **Also this feature is not recommended while the normal APPLY function in this editor is easier to be used than this one while both of this basically works the same.** |
 | Volume | How loud you want this sound file be. Use integer value only. ( 8 - 100 ) |
-| Use basic sample | **Ignoring** selected custom hitsound in this editor , and apply only the volume on selected notes.This means , no matter what the notes is about, this feature only changes the selected notes volume.Ex : this can be used to change multiple volume on different notes with different hitsound sample at once or just enhance the default hitsound ignoring any timing point's volume setting. |
+| Use basic sample | **Ignoring** selected custom hit sound in this editor , and apply only the volume on selected notes.This means , no matter what the notes is about, this feature only changes the selected notes volume.Ex : this can be used to change multiple volume on different notes with different hit sound sample at once or just enhance the default hit sound ignoring any timing point's volume setting. |
 
 ##### Buttons
 
