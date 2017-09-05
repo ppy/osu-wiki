@@ -1,13 +1,3 @@
-[Ns]: /wiki/shared/Na-s.png "No"
-[Nt]: /wiki/shared/Na-t.png "No"
-[Nf]: /wiki/shared/Na-f.png "No"
-[Nm]: /wiki/shared/Na-m.png "No"
-
-[Ys]: /wiki/shared/Insane-s.png "Yes"
-[Yt]: /wiki/shared/Insane-t.png "Yes"
-[Yf]: /wiki/shared/Insane-f.png "Yes"
-[Ym]: /wiki/shared/Insane-m.png "Yes"
-
 품질 보증 팀 (Quality Assurance Team)
 ======================
 
@@ -18,11 +8,11 @@ QAT 구성원들은 정기적으로 비트맵의 품질을 평가해야 하기�
 [BNs](/wiki/People/Beatmap_Nomination_Group)이 새로 제안된 역활을 받아들인다면 이 팀으로 승격됩니다. QAT의 멤버는 포럼, 게임 내에서 빨간색 이름으로 표시되며, BN으로써의 역활을 더 이상 하지 않습니다.
 
 팀 구성원
-------------
+---------
 
-[유저 그룹 페이지](https://osu.ppy.sh/g/7)를 참조하세요.
+[Group Link](http://osu.ppy.sh/g/7)
 
-| 이름                                              | 오스       | 태고  | 캐치  | 매니아  | 언어       |
+| Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Additional Languages       |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|----------------------------|
 | [Blocko](https://osu.ppy.sh/u/4075092)            | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] |                            |
 | [Cryptic](https://osu.ppy.sh/u/3728904)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                            |
