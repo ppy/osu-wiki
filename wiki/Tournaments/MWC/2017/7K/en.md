@@ -22,7 +22,7 @@ The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!m
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| --- | :--- |
+| :---: | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | exclusive and unique merchandise, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge |
@@ -165,6 +165,79 @@ The osu!mania World Cup 2017 is run by various community members by distributing
   - [xi - PEACE BREAKER (Evening)](http://osu.ppy.sh/b/837107&m=3) [Marathon/Fallout.]
 - Tiebreaker
   - [Camellia - Fastest Crash (Gekido-)](http://osu.ppy.sh/b/767979&m=3) [Fastest]
+  
+------------------------------------------------------------------------
+
+## Match Results
+
+### Grand Finals
+
+| Sunday, 12. February 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/31033827) |
+
+### Finals: Week 1
+
+| Saturday, 4. February 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| United States ![][flag_US] | 2 | **6** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30827217) |
+| China ![][flag_CN] | 0 | **6** | ![][flag_KR] South Korea | -win by default- |
+| Thailand ![][flag_TH] | 4 | **6** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30830208) |
+
+| Sunday, 5. February 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | **6** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30858348) |
+| China ![][flag_CN] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30861745) |
+
+### Semifinals
+
+| Saturday, 29. January 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | 0 | **6** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30699733) |
+| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30701653) |
+| Chile ![][flag_CL] | 0 | **6** | ![][flag_TH] Thailand | -win by default- |
+| United States ![][flag_US] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30705988) |
+
+### Quarterfinals
+
+| Saturday, 21. January 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30507247) |
+| China ![][flag_CN] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30508461) |
+| Chile ![][flag_CL] | 2 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30510203) |
+| United States ![][flag_US] | 2 | **5** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30510203) |
+
+### Group Stage
+
+| Saturday, 14. January 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Indonesia ![][flag_ID] | 1 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30338922) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30338925) |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30338930) |
+| Russian Federation ![][flag_RU] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/30340143) |
+| France ![][flag_FR] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/30340147) |
+| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30340152) |
+| Philippines ![][flag_PH] | **5** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/30340157) |
+| Malaysia ![][flag_MY] | **5** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30341742) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30341746) |
+| Singapore ![][flag_SG] | 1 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/30341751) |
+| France ![][flag_FR] | 1 | **5** | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/30348053) |
+| Russian Federation ![][flag_RU] | 2 | **5** | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/30348061) |
+| Chile ![][flag_CL] | 4 | **5** | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30350044) |
+
+| Sunday, 15. January 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/30362455) |
+| United States ![][flag_US] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30363554) |
+| Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30373030) |
+| Argentina ![][flag_AR] | 1 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30373052) |
+| Poland ![][flag_PL] | 1 | **5** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/30373084) |
+| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30373170) |
+| Poland ![][flag_PL] | 2 | **5** | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30374278) |
+| Malaysia ![][flag_MY] | 0 | **5** | ![][flag_CL] Chile  | -win by default- |
+| United Kingdom ![][flag_GB] | **5** | 0 | ![][flag_SG] Singapore | -win by default- |
+| France ![][flag_FR] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/30375970) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/30375979) |
 
 ------------------------------------------------------------------------
 
