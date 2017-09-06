@@ -35,7 +35,7 @@ Basic IRC Commands
 
 Disabling Join/Part Messages
 ----------------------------
-Knowing players who joins or parts is a good thing, however in very crowded such as #osu, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, these must be disabled.
+Knowing players who joins or parts is a good thing, however in very crowded such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, these must be disabled.
 
 ```
 [17:46] * lauripihl (cho@ppy.sh) has left #lobby
