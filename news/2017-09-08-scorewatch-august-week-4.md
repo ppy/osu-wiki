@@ -4,17 +4,19 @@ title: "Scorewatch: August Week 4"
 date: 2017-09-08 15:00:00 +0200
 ---
 
+Scorewatch wraps up the month of August with some crazy DragonForce scores, an old rrtyui score and 2 Japanese osu!taiko giants going head to head on Infected Mushroom! Read on to find out more!
+
 ![](/wiki/shared/news/2017-09-08-scorewatch-august-week-4/banner.jpg)
 
 [WubWoofWolf](https://osu.ppy.sh/u/39828) has gained ranks! Sound the alarms! He also got his new top play by setting the first HDHR FC on [DragonForce - Symphony of the Night](https://osu.ppy.sh/b/985141?m=0) with 99.17%, gaining 671pp! Watching this makes me feel a little happier inside.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/x3N-ENSXvK4" frameborder="0" allowfullscreen></iframe>
 
-[Adamqs](https://osu.ppy.sh/u/613592) became the first player to achieve the prestigious HDHR FC on [DragonForce - Revolution Deathsquad](https://osu.ppy.sh/b/66609?m=0), taking an amazing 98.41% HDHR FC and claiming 526pp! If you got 8 minutes to spare, this is something you should watch!
+[Adamqs](https://osu.ppy.sh/u/613592) became the first player to achieve the prestigious HDHR FC on [DragonForce - Revolution Deathsquad](https://osu.ppy.sh/b/66609?m=0), taking an amazing 98.41% score and claiming 526pp! If you've got 8 minutes to spare, this is something you should watch!
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/CAZjjQDmkuk" frameborder="0" allowfullscreen></iframe></br>
 
-[bro_gamer72](https://osu.ppy.sh/u/1419095), more well known as Gayzmcgee, set his top play on [HoneyWorks - Miraizu feat.Aida Miou(CV:Toyosaki Aki)](https://osu.ppy.sh/b/696225?m=0) with a breathtaking and unfortunate 99.17% HDDT 882x 1 miss score to earn 635pp. Without the miss, this could have knocked hvick225 out of his throne! Someday, we might see that happen.
+[bro_gamer72](https://osu.ppy.sh/u/1419095), more well known as Gayzmcgee, set his top play on [HoneyWorks - Miraizu feat.Aida Miou(CV:Toyosaki Aki)](https://osu.ppy.sh/b/696225?m=0) with a breathtaking and unfortunate 99.17% HDDT 882x 1 miss score to earn 635pp. Without the miss, this could have knocked hvick225 from his throne! Someday, we might see that happen.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/IQY2E3Ae5Bw" frameborder="0" allowfullscreen></iframe></br>
 
