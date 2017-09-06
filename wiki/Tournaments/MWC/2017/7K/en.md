@@ -9,13 +9,13 @@ The **osu!mania 7K World Cup 2017** (**_MWC 7K 2017_**) is a country-based osu!m
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 12. - 25. Dec 2016 | 
-| Drawings | 8. Jan 2017 (14:00 UTC+0) | 
-| Group Stage | 14. - 15. Jan 2017 | 
-| Quarterfinals | 21. - 22. Jan 2017 | 
-| Semifinals | 28. - 29. Jan 2017 | 
-| Finals - Week 1 | 04. - 05. Feb 2017 | 
-| Finals - Week 2 | 11. - 12. Feb 2017 | 
+| Registration Phase | 12. - 25. December 2016 | 
+| Drawings | 8. January 2017 (14:00 UTC+0) | 
+| Group Stage | 14. - 15. January 2017 | 
+| Quarterfinals | 21. - 22. January 2017 | 
+| Semifinals | 28. - 29. January 2017 | 
+| Finals - Week 1 | 04. - 05. February 2017 | 
+| Finals - Week 2 | 11. - 12. February 2017 | 
 
 ## Prizes
 
