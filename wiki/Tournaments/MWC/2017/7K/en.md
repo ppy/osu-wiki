@@ -79,7 +79,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ### Group Stage
 
-**[Download the mappack here!](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
+**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
 
 - FreeMod
   - [WALKUERE - Ikenai Borderline (SanadaYukimura)](http://osu.ppy.sh/b/1030861&m=3) [Emiria's 7K G]
@@ -100,7 +100,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ### Quarterfinals
 
-**[Download the mappack here!](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
+**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
 
 - FreeMod
   - [Rob Zombie - What Lurks on Channel X? (Pope Gadget)](http://osu.ppy.sh/b/1150224&m=3) [VII]
@@ -121,7 +121,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ### Semifinals
 
-**[Download the mappack here!](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
 
 - FreeMod
   - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening)](http://osu.ppy.sh/b/1042544&m=3) [Expert]
@@ -145,7 +145,7 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 **This mappool will be used in Finals - Week 1 and Finals - Week 2**
 
-**[Download the mappack here!](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
+**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
 
 - FreeMod
   - [Alon Mor - Demons (-Kamikaze-)](http://osu.ppy.sh/b/1188811&m=3) [Evening's ritual (preview)]
