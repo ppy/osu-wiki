@@ -6,7 +6,7 @@ The [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), als
 
 osu!Bancho
 ---------
-osu!Bancho uses the IRC protocol for its in-game chat. You can connect with your own client and chat with other people without using the game client. Take note that this IRC protocol is modified therefore do not expect your client's features to work properly.
+osu!Bancho offers a gateway for IRC (in-game chat) access. You can connect with your own client and chat with other people without using the game client. Take note that this IRC protocol is modified therefore do not expect your client's features to work properly.
 
 **Notice: [HexChat](http://hexchat.github.io/) is known to have problems with osu!'s IRC** ([bug report of HexChat's GitHub](http://github.com/hexchat/hexchat/issues/818)), consider using another client if it bothers you.
 
@@ -15,7 +15,7 @@ How To Connect
 --------------
 Once you have a client, you need to set up the server settings.
 
-- **Server:** `cho.ppy.sh` or `irc.ppy.sh`
+- **Server:**  `irc.ppy.sh`
 - **Port:** `6667` (default)
 - **Username:** Your osu! username (replace spaces to underscores)
 - **Password:** Get it at [IRC Authentication](https://osu.ppy.sh/p/irc).
@@ -35,7 +35,7 @@ Basic IRC Commands
 
 Disabling Join/Part Messages
 ----------------------------
-Knowing players who joins or parts is a good thing, however in very crowded such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, these must be disabled.
+Knowing players who joins or parts is a good thing, however in very crowded such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, it's usually preferred that these messages are hidden.
 
 ```
 [17:46] * lauripihl (cho@ppy.sh) has left #lobby
@@ -78,4 +78,4 @@ No. You can only use your osu! username.
 ### What is this voice status that I have? I also see some people having it.
 Users with *voice status* are also connected using an IRC client, except for chat moderators who always have *operator (+o)* status regardless of what client they use.
 
-Users who does not have any status are connected using the game client.
+Users who do not have any status are connected using the game client.
