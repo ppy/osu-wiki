@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QAT Gazette: September 2017"
-date: 2017-09-05 09:00:00 +0000
+date: 2017-09-07 09:00:00 +0000
 ---
 
 Have you ever wondered what the Quality Assurance Team get up to besides looking at beatmaps? Then look no further! The QAT Gazette will be your monthly update regarding ongoings in the mapping and modding community, detailed insight into the ranking process, and also news of any potential future developments!
@@ -16,17 +16,25 @@ There were highlights of upcoming projects and events, reviews of past occurrenc
 
 ## Updates to the Beatmap Nominators
 
-Firstly, **please welcome two new Beatmap Nominators to the Advanced Tier for osu!standard** - [Battle](https://osu.ppy.sh/users/4037545) and [Naxess](https://osu.ppy.sh/users/8129817)! As you may be aware, Advanced Tier Nominators are responsible for beatmap qualification, and with the recent departure of a number of existing members, it’s important that receiving a heart icon doesn’t become a bottleneck for mappers. Please treat them well as they settle into their new role!
+### Removal of the Tier system
 
-On the other side of the coin, **a number of existing Beatmap Nominators will be departing** to pursue other opportunities. Many thanks to [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Dellvangel](https://osu.ppy.sh/users/5186244), [Koiyuki](https://osu.ppy.sh/users/2433507), [Kuo Kyoka](https://osu.ppy.sh/users/2596306), [newyams99](https://osu.ppy.sh/users/3701008), [Nivrad00](https://osu.ppy.sh/users/1984634), [snowball112](https://osu.ppy.sh/users/2350722), [Sonnyc](https://osu.ppy.sh/users/11771) and [Xinely](https://osu.ppy.sh/users/1521445) for your contributions to our community over the months and years!
+After a trial phase which received mixed reactions, the **Beatmap Nominator Tier system** for osu!standard will be abolished, meaning all existing Beatmap Nominators will be able to both bubble and qualify mapsets again. The Tier system will be replaced by a "Probation" phase, whose members will be **able to bubble beatmap sets, but not qualify them**. The Probation phase will be applicable to all future Beatmap Nominators, but existing Beatmap Nominators demonstrating unsatisfactory behaviour may also be placed on Probation by majority consensus of the Quality Assurance Team.
 
-Fear not however, as **we are currently reviewing applications for a new batch of fresh-faced modders to replenish their ranks!** The latest application process for the osu!taiko, osu!catch and osu!mania! game modes has recently closed, with successful applicants expected to be promoted in the coming week.
+Whilst in this probationary period, Beatmap Nominators will be closely surveyed on their general attitude (forum posts, in-game chat, modding and icon activity, etc.) to ensure they receive the assistance needed to properly fulfill their roles as gatekeepers of content in the mapping and modding community. After a maximum of two months, Probationary Beatmap Nominators will be either promoted to full member status, allowing them the power to qualify mapsets, or removed from the group if their activity, behaviour or proficiency are found to be below our expected standards.
+
+### Trialling the Probation system
+
+To test this process, **we are currently reviewing applications from a new batch of fresh-faced modding aspirants!** The latest application process for the osu!taiko, osu!catch and osu!mania! game modes has recently closed, with successful applicants expected to be promoted in the coming week.
 
 With Beatmap Nominator tests being recently discontinued, new applications will consist of an activity check, as well as submission of the applicant’s “best” modding work - either as a standard mod post, or series of suggestions in the moddingv2 panel. 
 
 For those that meet the activity requirements, the Quality Assurance Team will then supplement this with additional random, anonymised examples of the applicant’s modding work from the past three months and evaluate these examples on a number of criteria, such as structure, helpfulness, knowledge of the Ranking Criteria, and so on. These modding examples will be voted on by the remaining members of the QAT who were not involved in selecting examples of applicant modding, to avoid bias.
 
-**Those with a majority of positive votes will be promoted into one of the available** [Nominator Subdivisions](ttps://osu.ppy.sh/community/forums/topics/589351) and closely surveyed on their general attitude (forum posts, in-game chat, modding and icon activity, etc.) to ensure they receive the assistance needed to fulfill their roles as gatekeepers of content in the mapping and modding community. Feedback will be made available to all applicants on request, regardless of whether they were accepted into the Beatmap Nomination Group or not.
+**Those with a majority of positive votes will be promoted into one of the available** [Nominator Subdivisions](ttps://osu.ppy.sh/community/forums/topics/589351), as Probationary members. Feedback will be made available to all applicants on request, regardless of whether they were accepted into the Beatmap Nomination Group or not.
+
+### Removal of inactive Beatmap Nominators
+
+Lastly, **a number of existing Beatmap Nominators will be departing** to pursue other opportunities. Many thanks to [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Dellvangel](https://osu.ppy.sh/users/5186244), [Koiyuki](https://osu.ppy.sh/users/2433507), [Kuo Kyoka](https://osu.ppy.sh/users/2596306), [newyams99](https://osu.ppy.sh/users/3701008), [Nivrad00](https://osu.ppy.sh/users/1984634), [snowball112](https://osu.ppy.sh/users/2350722), [Sonnyc](https://osu.ppy.sh/users/11771) and [Xinely](https://osu.ppy.sh/users/1521445) for your contributions to our community over the months and years!
 
 ## Updates to the Quality Assurance Team
 
@@ -42,9 +50,9 @@ Additionally, please offer a warm farewell to [alacat](https://osu.ppy.sh/users/
 
 ## The future of the Beatmap Nominators / QAT
 
-As some of you may be aware, a series of proposals have recently been put forward detailing some **radical changes to the way the Beatmap Nominators and Quality Assurance Team will operate** which we might be seeing in the near future. These include the removal of the osu!standard BN Tier system, introductions of greater rewards and recognition for long-serving and highly-active members, and changes to the workflow and leadership of the QAT.
+As some of you may be aware, a series of proposals were recently put forward detailing some **radical changes to the way the Beatmap Nominators and Quality Assurance Team will operate**. In addition to the removal of the osu!standard Beatmap Nominator Tier system mentioned previously, there are plans to introduce greater rewards and recognition for long-serving and highly-active members, who will additionally receive a purple username on the forums for easier identification once again. We'll also be seeing changes to the workflow and leadership of the Quality Assurance Team, with elections for a "QAT Manager", scheduled to take place over the coming weekend.
 
-If you want to check out these proposals and share your opinions, please do so in the [discussion thread](https://osu.ppy.sh/community/forums/topics/635507), but remember nothing is confirmed for certain yet, so anything can happen - you have the power to influence our final decisions!
+These are just a few highlights of what may be to come - a full list of the proposals can be found in the [discussion thread](https://osu.ppy.sh/community/forums/topics/635507). Please be aware that not all of these proposals will be brought into effect immediately however, and some may undergo significant changes before doing so to ensure agreement between all parties.
 
 ## Summary
 
