@@ -58,7 +58,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 ![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
-- Triplets*
+- Triplets
 - Has two purple ticks between each white tick
 - Compound timing (waltz)
 
@@ -74,7 +74,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 ![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
 
-- Double triplets*
+- Double triplets
 - Has two purple ticks between each red tick
 - Compound timing (waltz)
 
