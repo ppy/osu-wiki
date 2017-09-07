@@ -30,7 +30,7 @@ With Beatmap Nominator tests being recently discontinued, new applications will 
 
 For those that meet the activity requirements, the Quality Assurance Team will then supplement this with additional random, anonymised examples of the applicant’s modding work from the past three months and evaluate these examples on a number of criteria, such as structure, helpfulness, knowledge of the Ranking Criteria, and so on. These modding examples will be voted on by the remaining members of the QAT who were not involved in selecting examples of applicant modding, to avoid bias.
 
-**Those with a majority of positive votes will be promoted into one of the available** [Nominator Subdivisions](ttps://osu.ppy.sh/community/forums/topics/589351), as Probationary members. Feedback will be made available to all applicants on request, regardless of whether they were accepted into the Beatmap Nomination Group or not.
+**Those with a majority of positive votes will be promoted into one of the available** [Nominator Subdivisions](https://osu.ppy.sh/community/forums/topics/589351), as Probationary members. Feedback will be made available to all applicants on request, regardless of whether they were accepted into the Beatmap Nomination Group or not.
 
 ### Removal of inactive Beatmap Nominators
 
