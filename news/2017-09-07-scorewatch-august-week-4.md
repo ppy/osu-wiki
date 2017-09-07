@@ -6,7 +6,7 @@ date: 2017-09-07 15:00:00 +0200
 
 Scorewatch wraps up the month of August with some crazy DragonForce scores, an old rrtyui score and 2 Japanese osu!taiko giants going head to head on Infected Mushroom! Read on to find out more!
 
-![](/wiki/shared/news/2017-09-08-scorewatch-august-week-4/banner.jpg)
+![](/wiki/shared/news/2017-09-07-scorewatch-august-week-4/banner.jpg)
 
 [WubWoofWolf](https://osu.ppy.sh/u/39828) has gained ranks! Sound the alarms! He also got his new top play by setting the first HDHR FC on [DragonForce - Symphony of the Night](https://osu.ppy.sh/b/985141?m=0) with 99.17%, gaining 671pp! Watching this makes me feel a little happier inside.
 
