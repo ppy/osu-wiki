@@ -10,7 +10,7 @@ Scorewatch wraps up the month of August with some crazy DragonForce scores, an o
 
 [WubWoofWolf](https://osu.ppy.sh/u/39828) has gained ranks! Sound the alarms! He also got his new top play by setting the first HDHR FC on [DragonForce - Symphony of the Night](https://osu.ppy.sh/b/985141?m=0) with 99.17%, gaining 671pp! Watching this makes me feel a little happier inside.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/x3N-ENSXvK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/x3N-ENSXvK4" frameborder="0" allowfullscreen></iframe>
 
 [Adamqs](https://osu.ppy.sh/u/613592) became the first player to achieve the prestigious HDHR FC on [DragonForce - Revolution Deathsquad](https://osu.ppy.sh/b/66609?m=0), taking an amazing 98.41% score and claiming 526pp! If you've got 8 minutes to spare, this is something you should watch!
 
