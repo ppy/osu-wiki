@@ -1,4 +1,10 @@
 # Historia osu!
+Poprzedni rok|Strona główna|Następny rok
+:---:|:---:|:---:
+[*](#)|[Main](/wiki/History_of_osu!/)|[2008/2009](/wiki/History_of_osu!/2)
+
+# 2007/2008
+
 ## 2007
 ![ouentest](Osu2007.jpg "ouentest")
 ## Lipiec
