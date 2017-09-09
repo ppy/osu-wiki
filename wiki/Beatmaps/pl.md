@@ -12,19 +12,19 @@ Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynaj
 
 ### Rankingowe
 
-Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę (![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png)).
+![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png) Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę.
 
 Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_Criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
 
 ### Zatwierdzone
 
-Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia (![Znak potwierdzenia](/wiki/shared/status/approved.png)).
+![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
 
 Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada [łatwego](/wiki/Easy) ani [normalnego](/wiki/Normal) poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane
 
-Na ekranie wyboru piosenek zakwalifikowane beatmapy są oznaczane znakiem potwierdzenia (![Znak potwierdzenia](/wiki/shared/status/qualified.png)).
+![Znak potwierdzenia](/wiki/shared/status/qualified.png) Na ekranie wyboru piosenek zakwalifikowane beatmapy są oznaczane znakiem potwierdzenia.
 
 Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
@@ -38,7 +38,7 @@ Podczas tego tygodnia [członkowie zespołu QAT](/wiki/QAT) mają czas na sprawd
 
 ### Ulubione społeczności
 
-Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem (![Serce](/wiki/shared/status/loved.png)).
+![Serce](/wiki/shared/status/loved.png) Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem.
 
 Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
@@ -53,7 +53,7 @@ Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społecznośc
 
 _Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_Ranking_Procedure)_
 
-Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania (![Znak zapytania](/wiki/shared/status/pending.png)).
+![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 
 Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modded). [Twórcy](/wiki/Creators) muszą znaleźć [moderów](/wiki/Modders) oraz przynajmniej dwóch [nominatorów](/wiki/Beatmap_Nominators), by beatmapa mogła się rozwijać.
 
@@ -63,7 +63,7 @@ Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatyc
 
 ### Nieaktualizowane
 
-Na ekranie wyboru piosenek nieaktualizowane beatmapy są oznaczane znakiem zapytania (![Znak zapytania](/wiki/shared/status/graveyard.png)).
+![Znak zapytania](/wiki/shared/status/graveyard.png) Na ekranie wyboru piosenek nieaktualizowane beatmapy są oznaczane znakiem zapytania.
 
 Te beatmapy oryginalnie posiadały status [oczekującej](#oczekujące), ale zostały przeniesione do tej kategorii, ponieważ nie były aktualizowane bądź ich wątki były nieaktywne przez 4 tygodnie. Nie mogą one zostać zaktualizowane, dopóki [twórca](/wiki/Mapper) nie naciśnie przycisku „Resurrect” na swoim profilu w zakładce z beatmapami.
 
