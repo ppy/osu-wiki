@@ -21,8 +21,3 @@ As with all Featured Artists, everything on [**\*namirin**'s Featured Artist lis
 To build on this even more, we're excited to tease the return of an old contest-esque thing in the coming weeks featuring several of our Featured Artists, of which **\*namirin** will be one. Keep your eyes and ears peeled for more details as they come!
 
 —Ephemeral
-
-
-
-
-
