@@ -45,13 +45,10 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 ## Changelog
 This section lists recent addition to this ruleset as well as rules that are in the process of transition and may be handled differently for a certain time. This interval as well as additional information, where available, is listed in _italics_.
 
-+ **Do not qualify osu! beatmaps of any kind unless you are a nominator in the osu! advanced tier.** This includes osu! and another mode hybrid sets. When nominating hybrid sets including modes you are not too familiar with as an advanced tier nominator, collaborate with a nominator from the respective gamemode(s).
-
-_Addition date: 6. April 2017, 6 months of transition time (previously bubbled maps are exempt), **affects all sets on 6th October 2017**_
 + **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the mapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
 
 _Addition date: 6. April 2017, **in effect immediately**_
 + **__Every__ mapset is approved through two nominations** Other factors such as the mapset itself being a Marathon, a normal spread or its length do not matter, the amount of nominations required in order to move it to the Qualified section remains at two. More nominations than necessary must not be done.
 
-_Addition date: 2. June 2017, **in effect immediately** (maps at two bubbles by beginner nominators have to find an advanced tier Beatmap Nominator and are allowed to break this rule by going for a third nomination to transition, for all others an advanced tier nominator or an equivalent of that can qualify immediately)_
+_Addition date: 2. June 2017, **in effect immediately**_
 
