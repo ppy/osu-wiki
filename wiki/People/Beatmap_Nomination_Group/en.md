@@ -113,7 +113,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Naotoshi](https://osu.ppy.sh/u/5364763)          | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
 | [Natsu](https://osu.ppy.sh/u/1953876)             | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Spanish                  |
 | [Naxess](https://osu.ppy.sh/u/8129817)            | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Swedish                  |
-| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  |                          |
+| [neonat](https://osu.ppy.sh/u/1561995)            | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Chineese                 |
 | [Nozhomi](https://osu.ppy.sh/u/2716981)           | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | French                   |
 | [Nwolf](https://osu.ppy.sh/u/1910766)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German                   |
 | [OzzyOzrock](https://osu.ppy.sh/u/465153)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Spanish, some French     |
