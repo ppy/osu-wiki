@@ -1,6 +1,6 @@
-# Article Style Guide
+# Article Styling Criteria
 
-The article style guide serves as a way to help keep consistency in clarity, formatting, and layout between all articles of the osu!wiki.
+The article styling crtieria serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
 
 All articles should try to aim at having proper grammar, correct spelling, and correct information.
 Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions.
@@ -596,4 +596,4 @@ Instead, use `they`/`their`/`theirs`.
 
 In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
 
-**Never** use the first person perspective, `I`.
+**Never** use the first person perspective, `I`, or `I am`/`I'm`.
