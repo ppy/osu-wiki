@@ -37,3 +37,4 @@ Lista dos atuais Chat Moderators
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/forum/54) | |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/forum/93) | [heyronii](https://osu.ppy.sh/u/5642779) |
 | `#vietnamese` | | |
+ 
