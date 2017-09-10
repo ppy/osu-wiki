@@ -218,6 +218,21 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ## Match Results
 
+### Finals - Week 1
+
+| Saturday, 9. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 6 | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35952218) |
+| United Kingdom ![][flag_GB] | 0 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35955973) |
+
+| Sunday, 10. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 6 | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35972975) |
+| Brazil ![][flag_BR] | 6 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35974418) |
+| Brazil ![][flag_BR] | 5 | 6 | ![][flag_US] Unites States | [#1](https://osu.ppy.sh/community/matches/35998794) |
+
+### Semifinals
+
 | Saturday, 2. September 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
 | Sweden ![][flag_SE] | 1 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35769761) |
