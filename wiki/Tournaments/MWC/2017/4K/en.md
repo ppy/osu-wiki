@@ -48,41 +48,13 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals - Week 1
+## Match Schedule: Grand Finals
 
-### Saturday, 9. September 2017
+### Saturday, 16. September 2017
 
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| Japan | ![][flag_JP] | ![][flag_CL] | Chile | **14.00 UTC** | 23.00 UTC +9 | 11.00 UTC -3 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **15.30 UTC** | 16.30 UTC +1 | 12.30 UTC -3 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **22.30 UTC** | 23.30 UTC +1 | 19.30 UTC -3 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **22.30 UTC** | 19.30 UTC -3 | 19.30 UTC -3 | ³ |
-
-### Sunday, 10. September 2017
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **0.00 UTC** | 9.00 UTC +9 | 19.00 (Sat.) UTC -5 | ¹ |
-| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ³ |
-| Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 10.30 UTC +9 | ⁴ |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **1.30 UTC** | 22.30 (Sat.) UTC -3 | 20.30 (Sat.) UTC -5 | ⁴ |
-| United Kingdom | ![][flag_GB] | ![][flag_JP] | Japan | **12.30 UTC** | 13.30 UTC +1 | 21.30 UTC +9 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **14.00 UTC** | 15.00 UTC +1 | 23.00 UTC +9 | ⁴ |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **14.00 UTC** | 23.00 UTC +9 | 23.00 UTC +9 | ⁴ |
-| Japan | ![][flag_JP] | ![][flag_US] | United States | **14.00 UTC** | 23.00 UTC +9 | 9.00 UTC -5 | ⁴ |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14.00 UTC** | 11.00 UTC -3 | 23.00 UTC +9 | ⁴ |
-| Brazil | ![][flag_BR] | ![][flag_US] | United States | **20.00 UTC** | 17.00 UTC -3 | 15.00 UTC -5 | ⁴ |
-| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **20.00 UTC** | 21.00 UTC +1 | 15.00 UTC -5 | ⁴ |
-
-¹ Winner bracket encounter
-
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
-
-⁴ Encounter dependent on results of ³second Loser bracket encounter and ¹Winner bracket encounter
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3.00 UTC** | 22.00 (Fri.) UTC -5 | 12.00 UTC +9 |
 
 ------------------------------------------------------------------------
 
@@ -245,6 +217,21 @@ The osu!mania World Cup 2017 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals - Week 1
+
+| Saturday, 9. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| Japan ![][flag_JP] | 6 | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35952218) |
+| United Kingdom ![][flag_GB] | 0 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/35955973) |
+
+| Sunday, 10. September 2017 | | | | |
+| ---: | :---: | :---: | :--- | :---: |
+| South Korea ![][flag_KR] | 6 | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35972975) |
+| Brazil ![][flag_BR] | 6 | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35974418) |
+| Brazil ![][flag_BR] | 5 | 6 | ![][flag_US] Unites States | [#1](https://osu.ppy.sh/community/matches/35998794) |
+
+### Semifinals
 
 | Saturday, 2. September 2017 | | | | |
 | ---: | :---: | :---: | :--- | :---: |
