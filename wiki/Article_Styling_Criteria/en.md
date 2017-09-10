@@ -557,3 +557,26 @@ In instances where you are referring directly to the reader (e.g. tutorial page)
 
 
 **Never** use the first person perspective, `I`, or `I am`/`I'm`.
+
+### Terminology
+	
+These words are spelt as follows (note the space):
+	
+- `hit circles`
+- `approach circles`
+- `slider ticks`
+- `slider ball`
+- `slider path`
+- `hit burst`
+- `game mode` (or just `mode`)
+- `game mod` (or just `mod`)
+- `play style`
+- `hit sound`
+	
+The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
+	
+---
+
+Use "beatmaps" instead of "maps".
+580	
+581	Use "creator" instead of "beatmapper" or "mapper".
