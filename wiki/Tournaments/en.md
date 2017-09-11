@@ -1,7 +1,7 @@
 Tournaments
 ===============
 
-Section dedicated for Tournaments and/or Competitons. [Forum link here.](https://osu.ppy.sh/forum/55)
+Section dedicated for Tournaments and/or Competitions. [Forum link here.](https://osu.ppy.sh/forum/55)
 
 Official World Cups
 ----------------------
