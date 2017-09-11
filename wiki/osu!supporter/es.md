@@ -10,13 +10,13 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 ## Ventajas del osu!supporter
 
--   osu!direct (Descargas directas adentro del juego)
+-   osu!direct (Descargas directas dentro del juego)
 -   Acceso al multijugador usando osu!cuttingedge.
 -   [Chat](Chat "wikilink"): Nombre en <span style="color:#FFC700">Amarillo brillante</span> (para los demás, te seguirás viendo con el nombre blanco, como siempre).
--   [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no-jugados.
--   [Skinning](Skinning "wikilink"): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949) y en las partidas multijugador y el acceso a osu!direct .
+-   [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
+-   [Skinning](Skinning "wikilink"): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949), en las partidas multijugador y acceso a osu!direct.
     -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
--   [*Feature Requests*](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
+-   [solicitudes de características](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
 -   [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
 -   En tu perfil: <http://osu.ppy.sh/u/>
     -   Puedes agregar una página de usuario a tu perfil.
@@ -26,7 +26,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 -   [*Performance Ranking*](http://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
 -   *Más características serán implementadas en un futuro!*
 
-## Pago
+## Apartado Comercial
 
 ### Costo
 
