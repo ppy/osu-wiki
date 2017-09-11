@@ -49,7 +49,7 @@ Il y a encore d'autres données comme le mouvement de la souris et des touches a
 | w | Long (long) | TTemps en millisecondes du temps qui sépare cette action de la précédente |
 | x | Flottante (float) | Valeur de l'abscisse (x) de la position du curseur (de 0 à 512) |
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
-| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 5, K2 = 10) |
+| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 4, K2 = 8) |
 
 Mods
 ----

@@ -52,7 +52,7 @@ When decompressed, the text contains data separated by commas. Each piece denote
 | w | Long | Time in milliseconds since the previous action |
 | x | Float | x-coordinate of the cursor from 0 - 512 |
 | y | Float | y-coordinate of the cursor from 0 - 384 |
-| z | Integer | Bitwise combination of keys/mouse buttons pressed (M1 = 1, M2 = 2, K1 = 5, K2 = 10) |
+| z | Integer | Bitwise combination of keys/mouse buttons pressed (M1 = 1, M2 = 2, K1 = 4, K2 = 8) |
 
 Mods
 ----
