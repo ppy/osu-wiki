@@ -247,18 +247,13 @@ Maps with very long drain times are typically referred to as [marathon](/wiki/ma
 
 Maps must have at least 45 seconds of drain time be considered rankable.
 
-### Drop
+### Drop and Droplet
 
-A drop is an osu!catch element that gives a score of 100.
-It is the equivalent to the slider tick in [osu!standard](/wiki/osu!standard).
+A Drop is an osu!catch element that gives a score of 100, equivalent to slidertickets in osu!standard, while Droplets give a score of 10, equivalent to the slidertrack in osu!standard.
 
-The difference between drops and [droplets](/wiki/droplet) is that a drop is twice as big as droplets are.
+Missing a Drop breaks the player's combo, but missing a Droplet doesn't.
 
-### Droplet
-
-A droplet is an osu!catch element that gives a score of 10. It is the equivalent to the slider track in osu!standard.
-
-The difference between [drops](/wiki/drop) and droplets is that a droplet is half as big as drops are.
+The visual difference between drops and droplets is that a Drop is twice as big as Droplets are.
 
 ### DS
 
