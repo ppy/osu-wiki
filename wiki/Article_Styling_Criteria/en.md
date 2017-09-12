@@ -578,5 +578,5 @@ The term `Difficulty` refers to a specific `Beatmap` (these terms are interchang
 ---
 
 Use "beatmaps" instead of "maps".
-580	
-581	Use "creator" instead of "beatmapper" or "mapper".
+
+Use "creator" instead of "beatmapper" or "mapper".
