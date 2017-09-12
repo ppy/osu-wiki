@@ -835,7 +835,7 @@ With GFM, we can also use:
 
 While Markdown and GFM _does_ support a few HTML tags in GitHub, osu!wiki articles will not be using them.
 
-For further information on a styling guide when writing a page, check out [Article Styling Criteria][ASG].
+For further information on a styling guide when writing a page, check out [Article Styling Criteria][ASC].
 
 ### Why does the file I uploaded not load on the osu!wiki?
 
