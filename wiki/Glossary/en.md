@@ -249,11 +249,11 @@ Maps must have at least 45 seconds of drain time be considered rankable.
 
 ### Drop and Droplet
 
-A Drop is an osu!catch element that gives a score of 100, equivalent to slidertickets in osu!standard, while Droplets give a score of 10, equivalent to the slidertrack in osu!standard.
+A Drop is an osu!catch element that gives a score of 100, equivalent to slider ticks in osu!standard, while Droplets give a score of 10, equivalent to the slider track in osu!standard.
 
-Missing a Drop breaks the player's combo, but missing a Droplet doesn't.
+Missing a Drop breaks the player's combo, but missing a Droplet does not.
 
-The visual difference between drops and droplets is that a Drop is twice as big as Droplets are.
+The visual difference between Drops and Droplets is that a Drop is twice as big as Droplets are.
 
 ### DS
 
