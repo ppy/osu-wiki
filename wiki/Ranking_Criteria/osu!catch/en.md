@@ -28,7 +28,8 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 -   **Hyperjump:** A more exaggerated spacing which cannot be caught by normal dashing. During play, hyperdash will be triggered between the two objects, characterised by a coloured outline on the first object.
 -   **Edge Dash:** A very large spacing between two objects where the required Trigger Distance is not reached, and as such, a hyperjump is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 -   **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
--   **Equivalent BPM:** A BPM value in which a certain snap is time-equivalent (same duration in ms) to a reference BPM/snap pair. This is calculated as Equivalent BPM = (Reference BPM)*(Desired Snap)/(Reference Snap).
+-   **Equivalent BPM:** A BPM value in which a certain snap is time-equivalent (same duration in ms) to a paired reference BPM/snap. This is calculated as Equivalent BPM = (`Reference BPM`)*(`Desired Snap`)/(`Reference Snap`).
+-   **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
 
 ------------------------------------------------------------------------
 
@@ -115,7 +116,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
--   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used.
+-   **Basic hyperdashes (1/1, 1/2) may begin to appear, but must not be used in conjunction with each other.** Platters should serve as an introduction to hyperdashing, meaning strong hypers (e.g. with a distance snap of 1.5x above the trigger distance) and hypers combined with antiflow patterns must not be used.
 -   **1/3 hyperdashes may be used singularly (not in conjunction with other dashes or hyperdashes) if the BPM is less than 160.** Higher snap hyperdashes may be used singularly if the song BPM is below the equivalent BPM.
 -   **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 -   **Adequate time must be left between objects and the start of spinners to ensure readability.** Depending on the BPM of the song, this time must conform to the following:
