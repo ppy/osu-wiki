@@ -67,7 +67,7 @@ If you are judged to be the best map of the lot, here's what you can expect to w
 
 ## Conditions
 - **Submissions must be uploaded to the BSS (via the in-game editor)** - it does not matter if they are ranked, pending, graveyarded or whatever else - they will still be judged regardless.
-- **Submissions must adhere to the Ranking Criteria** or be in a state close to satisfying this condition.
+- **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition.
     - The bitrate of the songs provides is excluded from this.
     - Custom hitsound samples cannot be used.
 - **Collaborations are not allowed because we aim for coherent sets**.
