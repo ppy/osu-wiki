@@ -56,7 +56,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 + The overall minimum threshold is set to the following values:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
-+ It is usually a good idea to keep their socre well above these numbers as they can vary slightly depending on the amount of applicants.
++ It is usually a good idea to keep their score well above these numbers as they can vary slightly depending on the amount of applicants.
 
 Team Members
 ------------
