@@ -27,16 +27,31 @@ Here's the songs for the first reboot session:
 ## Songs
 
 ### Fractal Dreamers - Fortuna Redux
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/15/previews/316.mp3" type="audio/mpeg">
+</audio>
+
 > The opening track from [Fractal Dreamer's](https://osu.ppy.sh/beatmaps/artists/15) debut album *Kingdom of Silence*. Incredibly varied, high tempo EDM track with strong central melodies and thumping percussion. Well suited for mappers who enjoy intense tracks.
 + [4:13 uncut, pre-timed .osz](https://assets.ppy.sh/artists/15/osz/Fractal%20Dreamers%20-%20Fortuna%20Redux.osz)
 + [2:47 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/15/mwr/Fractal%20Dreamers%20-%20Fortuna%20Redux.osz)
 
 ### \*namirin - closing eyes
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/18/previews/351.mp3" type="audio/mpeg">
+</audio>
+
 > From [\*namirin's](https://osu.ppy.sh/beatmaps/artists/18) latest album, 5colors. Bright vocals without excessive sweetness, set to a backing track that builds on victorious overtones. Likely familiar to anyone who is fond of anime.
 + [4:08 uncut, pre-timed .osz](https://assets.ppy.sh/artists/18/osz/namirin%20-%20closing%20eyes.osz) 
 + [2:37 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/18/mwr/namirin%20-%20closing%20eyes.osz)
 
 ### Loki - A New King Is Born
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/7/previews/71.mp3" type="audio/mpeg">
+</audio>
+
 > The cinematic climax of [Loki/Thaehan's](https://osu.ppy.sh/beatmaps/artists/7) *The Fall of a Hero*. High BPM symphonic metal with prominent electric guitar melodies and leads, set to muted but varied percussion.
 + [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
 
