@@ -18,7 +18,7 @@ It's super simple. We put out some songs, and from the moment this announcement 
 
 Any beatmap sets for those particular songs that are finished and ready for ranking within the conditions listed below can claim that bounty and enter the judging phase.
 
-All that you need to do to flag your map as ready is to **send me (Okorin) a private message via the forums with the link to your map on the BSS.**
+All that you need to do to flag your map as ready is to **[send me (Okorin) a private message via the forums with the link to your map on the BSS](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=1623405).**
 
 If judged to be the best set among all those offered, the map is deemed the winner for that particular gamemode and the mapper is handsomely rewarded for their efforts.
 
