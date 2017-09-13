@@ -1,7 +1,7 @@
 Tournaments
 ===============
 
-Section dedicated for Tournaments and/or Competitons. [Forum link here.](https://osu.ppy.sh/forum/55)
+Section dedicated for Tournaments and/or Competitions. [Forum link here.](https://osu.ppy.sh/forum/55)
 
 Official World Cups
 ----------------------
@@ -43,7 +43,7 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 | [Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 11/04/2014 | 15/06/2014 | ![][flag_KR] South Korea               | ![][flag_DE] Germany                     | ![][flag_SE] Sweden                      |
 | [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015 | 14/06/2015 | ![][flag_KR] South Korea               | ![][flag_CN] China                       | ![][flag_DE] Germany                     |
 | [Catch the Beat World Cup 2016](/wiki/Tournaments/CWC/2016) | 12/04/2016 | 26/06/2016 | ![][flag_CN] China               | ![][flag_ID] Indonesia                      | ![][flag_DE] Germany                     |
-| [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 03/05/2017 | 09/07/2017 |                |                      |                     |
+| [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 03/05/2017 | 09/07/2017 | ![][flag_KR] South Korea                     | ![][flag_CN] China                 | ![][flag_ID] Indonesia                    |
 
 ### ![](/wiki/shared/Mania.gif) osu!mania World Cup
 
@@ -51,8 +51,10 @@ osu! World Cup is a country-based 4v4 Team VS tournament following single-elimin
 |--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 4K   | ![][flag_KR] South Korea               | ![][flag_PH] Philippines                 | ![][flag_MY] Malaysia                    |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 7K   | ![][flag_KR] South Korea               | ![][flag_TH] Thailand                    | ![][flag_MY] Malaysia                    |
-| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015/4K) | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] USA                       | ![][flag_JP] Japan                       | ![][flag_GB] UK                          |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] USA                       | ![][flag_JP] Japan                       | ![][flag_GB] UK                          |
 | [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] China                     | ![][flag_KR] South Korea                 | ![][flag_MY] Malaysia                    |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 28/06/2016 | 11/09/2016 | 4K   | ![][flag_KR] South Korea                       | ![][flag_BR] Brazil                       | ![][flag_US] USA                         |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 12/12/2016 | 12/02/2017 | 7K   | ![][flag_KR] South Korea                     | ![][flag_CN] China                 | ![][flag_ID] Indonesia                    |
 
 Community
 ----------
@@ -63,7 +65,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/u/7292597)               | [-Rawn](https://osu.ppy.sh/u/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/u/7093651)      |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/u/6178640)           | [bsurma](https://osu.ppy.sh/u/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
 ### ![](/wiki/shared/Mania.gif) Chinese osu!mania 4K Tournament
 | Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
