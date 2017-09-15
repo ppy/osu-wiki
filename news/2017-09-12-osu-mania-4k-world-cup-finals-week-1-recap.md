@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup - Finals Week 1 Recap"
 date: 2017-09-12 14:00:00 +0000
 ---
 
-It's down to the final 6 teams of the tournament. 
+At long last, we've reached the Finals stage of the osu!mania 4K World Cup. It's time to catch up with our finalists in their penultimate week of this tournament! 
 
 ![](/wiki/shared/news/banners/mania4k_logo_2017.jpg)
 
@@ -14,6 +14,8 @@ It's down to the final 6 teams of the tournament.
 
 --------
 
+Teams that have reached this point have undeniably proved their skill, perseverance, and their ability to function cohesively as a team.
+
 ## <a name="mappool" id="mappool"></a>Mappool
 
 
@@ -21,7 +23,7 @@ It's down to the final 6 teams of the tournament.
 
 ***[juankristal:](https://osu.ppy.sh/users/443656)*** 
 
-***[Pope Gadget:](https://osu.ppy.sh/users/2288341)*** 
+***[Pope Gadget:](https://osu.ppy.sh/users/2288341)*** We're glad that this pool was considerably diverse, in both beatmap and song variety. It was exciting to see the BR v US match ending up as a tiebreaker match - a first in the history of the osu!mania world cup! Though the stream didn't do the match justice, the extremely small score difference towards and within the break section made the match that much more memorable.
 
 ***[Blocko:](https://osu.ppy.sh/users/4075092)*** 
 
