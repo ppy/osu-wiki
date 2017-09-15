@@ -4,13 +4,13 @@ title: "Mapping With Rewards Returns"
 date: 2017-09-14 18:00:00 +0000
 ---
 
-New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!store credit, osu!supporter and even custom profile badges and titles!
+New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!store credit, osu!supporter, and even custom profile badges and titles!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
 **Mapping With Rewards** is an open-ended and judged mapping contest first floated in [September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) with a simple premise: we offer a bounty for the best beatmap set of a [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song, and a big timeframe to complete it in. Casual yet competitive at the same time!
 
-With its return, Mapping With Rewards is just as simple in concept as it was in the past, with the addition of expanding it to cover all gamemodes, and with a much-improved deadline process.
+With its return, Mapping With Rewards is just as simple in concept as it was in the past - except this time, it covers *all* gamemodes.
 
 ## How does this all work?
 
@@ -56,13 +56,13 @@ Here's the songs for the first reboot session:
 + [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
 
 ## Bounty
-The bounty is claimable **once per gamemode per song** - for the sake of simplicity osu!mania is treated as one game mode.
+The bounty is claimable **once per gamemode per song** - for the sake of simplicity osu!mania is treated as one gamemode.
 
 If you are judged to be the best map of the lot, here's what you can expect to win:
 
-- The beatmap will be bundled with the client for a limited period of time
+- The winning set will be bundled with the client for a limited period of time
 - $50 osu!store credit
-- 6 months supporter tag
+- 6 months of osu!supporter for you or your friends
 - Unique mode and song-specific badge/medal
 
 ## Conditions
@@ -81,9 +81,8 @@ If you are judged to be the best map of the lot, here's what you can expect to w
 - There will be **two deadlines**, one is kept vague, one concrete.
     - The contest (and the bounties offered in it) will run for approximately **two months give or take**.
     - If we have reached satisfactory participation by that time, we will announce a hard cutoff in **one month's time** so that everyone that is in the middle of making a map has enough time to finish it and submit it for entry into the current round.
-- Once a gamemode is determined to be competitive, a judging call for this gamemode will be posted out to the Beatmap Nominators.
-    - Main factors to determine this are the number of active mappers in the mode as well as the total number of maps that satisfy the rules for a given song in that mode.
-
+- Judges will be pulled from the Beatmap Nominators and other active modders/mappers via a public judging call.
+- 
 I look forward to see how this contest pans out and more detailed information to the judging process will follow in future announcements!
 
 —Okorin
