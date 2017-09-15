@@ -75,7 +75,7 @@ If you are judged to be the best map of the lot, here's what you can expect to w
     - **If not enough people of a gamemode map a song, no contest will be held for that particular song and mode.**
 - We reserve the right to change the map's background after it has been ranked.
 - If a short version of a song is offered, mapping the full version will lead to a bonus in judging.
-- The bounty is only handed out if any of the here provided songs are mapped.
+- The bounty is only awarded to maps that use the versions of the song announced in this post. Other versions, cuts, or remixes do not count.
 
 ## Organisation
 - There will be **two deadlines**, one is kept vague, one concrete.
