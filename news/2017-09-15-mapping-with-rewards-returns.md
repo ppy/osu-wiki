@@ -60,10 +60,11 @@ The bounty is claimable **once per gamemode per song** - for the sake of simplic
 
 If you are judged to be the best map of the lot, here's what you can expect to win:
 
-- The winning set will be bundled with the client for a limited period of time
-- $50 osu!store credit
 - 6 months of osu!supporter for you or your friends
-- Unique mode and song-specific badge/medal
+- Unique, mode specific MWR 2017 profile badge
+- Winning maps will be fast-tracked to Ranked with the dedicated attention of a selection of Beatmap Nominators and Quality Assurance Team members
+- Winning maps will also be bundled with osu!lazer when it exits the early development phase (2018)
+
 
 ## Conditions
 - **Submissions must be uploaded to the BSS (via the in-game editor)** - it does not matter if they are ranked, pending, graveyarded or whatever else - they will still be judged regardless.
