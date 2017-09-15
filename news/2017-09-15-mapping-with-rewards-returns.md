@@ -4,7 +4,7 @@ title: "Mapping With Rewards Returns"
 date: 2017-09-15 12:00:00 +0000
 ---
 
-New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!store credit, osu!supporter, and even custom profile badges and titles!
+New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!supporter, custom profile badges, and having your maps bundled with the game!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -65,7 +65,6 @@ If you are judged to be the best map of the lot, here's what you can expect to w
 - Winning maps will be fast-tracked to Ranked with the dedicated attention of a selection of Beatmap Nominators and Quality Assurance Team members
 - Winning maps will also be bundled with osu!lazer when it exits the early development phase (2018)
 
-
 ## Conditions
 - **Submissions must be uploaded to the BSS (via the in-game editor)** - it does not matter if they are ranked, pending, graveyarded or whatever else - they will still be judged regardless.
 - **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition.
@@ -76,14 +75,14 @@ If you are judged to be the best map of the lot, here's what you can expect to w
     - **If not enough people of a gamemode map a song, no contest will be held for that particular song and mode.**
 - We reserve the right to change the map's background after it has been ranked.
 - If a short version of a song is offered, mapping the full version will lead to a bonus in judging.
-- The bounty is only handed out if any of the here provided songs are mapped.
+- The bounty is only awarded to maps that use the versions of the song announced in this post. Other versions, cuts, or remixes do not count.
 
 ## Organisation
 - There will be **two deadlines**, one is kept vague, one concrete.
     - The contest (and the bounties offered in it) will run for approximately **two months give or take**.
     - If we have reached satisfactory participation by that time, we will announce a hard cutoff in **one month's time** so that everyone that is in the middle of making a map has enough time to finish it and submit it for entry into the current round.
 - Judges will be pulled from the Beatmap Nominators and other active modders/mappers via a public judging call.
-- 
+
 I look forward to see how this contest pans out and more detailed information to the judging process will follow in future announcements!
 
 —Okorin
