@@ -65,7 +65,6 @@ If you are judged to be the best map of the lot, here's what you can expect to w
 - Winning maps will be fast-tracked to Ranked with the dedicated attention of a selection of Beatmap Nominators and Quality Assurance Team members
 - Winning maps will also be bundled with osu!lazer when it exits the early development phase (2018)
 
-
 ## Conditions
 - **Submissions must be uploaded to the BSS (via the in-game editor)** - it does not matter if they are ranked, pending, graveyarded or whatever else - they will still be judged regardless.
 - **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition.
@@ -83,7 +82,7 @@ If you are judged to be the best map of the lot, here's what you can expect to w
     - The contest (and the bounties offered in it) will run for approximately **two months give or take**.
     - If we have reached satisfactory participation by that time, we will announce a hard cutoff in **one month's time** so that everyone that is in the middle of making a map has enough time to finish it and submit it for entry into the current round.
 - Judges will be pulled from the Beatmap Nominators and other active modders/mappers via a public judging call.
-- 
+
 I look forward to see how this contest pans out and more detailed information to the judging process will follow in future announcements!
 
 —Okorin
