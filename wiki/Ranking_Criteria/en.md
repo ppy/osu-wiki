@@ -17,10 +17,10 @@ Glossary
 
 ### Timing
 
-- **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
+- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
 - **Offset:** The millisecond position when a timing point's BPM correlates to a song.
 - **Uninherited Timing point:** A point used to change a map's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a "red line."
-- **Inherited Timing point:** A point that inherits elements from the previous timing point, and is not used to modify a map's timing. Indicated by a green line in the editor and informally called a "green line."
+- **Inherited Timing point:** A point that inherits elements from the previous timing point, and is not used to modify a map's timing. Indicated by a green line in the editor and informally called a `green line`.
 - **Single-BPM Timing:** Timing which only requires one BPM.
 - **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
 - **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
@@ -92,10 +92,10 @@ Glossary
 
 -   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
 -   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
--   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the "Romanised Title" field.** As a non-unicode field, long vowels such as "おう" and "うう" should be romanised into "ou" and "uu" to avoid macrons. ([Refer to this link for more information](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization)). Loan words should be expressed using romanisation from the original language.
+-   **Songs with Japanese titles must use the Modified Hepburn method of romanisation in the `Romanised Title` field.** As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons. ([Refer to this link for more information](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization)). Loan words should be expressed using romanisation from the original language.
 -   **Songs with Chinese titles must be romanised in this method: each character must be romanised into a single, capitalised, separated word.** The official romanization should be used if provided. Loan words should be expressed using romanisation from the original language. Refer to [Thread: Romanisation of Chinese](https://osu.ppy.sh/forum/t/244684) for more information.
 -   **Vocaloids can be featured within the artist section if the producer/composer includes it via official sources.** This ensures that we enforce metadata being accurate in all cases.
--   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as "Short Ver.", "TV Size" and so forth unless those markers are part of the official song title as listed by a reputable source.
+-   **Do not alter the song's title.** This includes adding any marker to describe the cut of the song such as `Short Ver.`, `TV Size` and so forth unless those markers are part of the official song title as listed by a reputable source.
 -   **Only use the Source field if the song comes from or was made famous by a video game, movie, or series.** Website names are not an acceptable Artist nor Source.
 -   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
 -   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
@@ -181,7 +181,7 @@ Glossary
 -   **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
 -   **Widescreen support should be turned on if the mapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
 -   **Make sure the storyboard is optimized as much as possible,** within practical means.
-    -   **Avoid having sprites, or the background of the map, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the map, turn the same background image into a sprite, with “Background” or “0” as second parameter, and fade accordingly.
+    -   **Avoid having sprites, or the background of the map, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the map, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
     -   **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
     -   **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
     -   **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
