@@ -26,7 +26,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 -   [*Performance Ranking*](http://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
 -   *Más características serán implementadas en un futuro!*
 
-## Apartado Comercial
+## Pago
 
 ### Costo
 
