@@ -38,11 +38,11 @@ Glossary
 - **Storyboard Image:** This refers to the image in the song folder that the storyboard uses.
 - **Sprite:** An object in a storyboard representing an image, or a series of images.
 - **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
-- **Command:** These affect a sprite in various ways. Some examples of commands are Move, Scale, Fade and Rotate. Each of these have a starttime and endtime.
-- **Axis Specific Command:** A command which only applies to one specified spatial axis, for example MoveX and MoveY.
+- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
+- **Axis Specific Command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
 - **Active:** From the first start time to the last end time of commands in the object.
 - **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
-- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. x: 104; y: 88.
+- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
 ## General
 
