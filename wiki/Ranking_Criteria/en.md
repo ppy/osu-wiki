@@ -25,6 +25,14 @@ Glossary
 - **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
 - **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
 
+### Skinning
+
+- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
+- **Hitburst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
+- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
+- **User-specific:** A user’s personal skin which they set in their options menu.
+- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
+
 ### Storyboarding
 
 - **Storyboard Image:** This refers to the image in the song folder that the storyboard uses.
@@ -35,7 +43,6 @@ Glossary
 - **Active:** From the first start time to the last end time of commands in the object.
 - **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
 - **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. x: 104; y: 88.
-
 
 ## General
 
@@ -97,7 +104,7 @@ Glossary
 
 ### Rules
 
--   **Uninherited timing points must be used to accurately map the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For time signatures unsupported in the editor, metronome resets or editing of the .osu file are acceptable.
+-   **Uninherited timing points must be used to accurately map the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For time signatures unsupported in the editor, metronome resets or editing of the `.osu` file are acceptable.
 -   **Maps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
 -   **Uninherited timing points must be the same in every difficulty of a mapset.** Each point must have the same BPM and offset in each difficulty.
 -   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Resetting metronomes to be as musically accurate as possible through uninherited timing points is acceptable.
@@ -105,8 +112,8 @@ Glossary
 -   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 -   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
 -   **If objects cannot be snapped using the editor’s supported beat snap divisors, a change in BPM must be used to accommodate for it.** Objects cannot be unsnapped.
--   **An objects which is wrongly snapped due to passing through a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
--   **An objects which is wrongly snapped due to ending slightly before a new uninherited timing point must have its end snapped to the new timing point.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
+-   **An objects which is wrongly snapped due to passing through a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
+-   **An objects which is wrongly snapped due to ending slightly before a new uninherited timing point must have its end snapped to the new timing point.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
 
 ### Guidelines
 
@@ -147,17 +154,16 @@ Glossary
 
 ### Rules
 
--   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects!
--   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play.
--   **Skinned elements must be cropped cleanly** so they don't look like they have `.jpeg` or pixelated artifacts around them or half-cropped shadows. If you don't have a program like Photoshop, then there are many free alternatives like Paint.NET and GIMP that can be used instead.
--   **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen.
--   **Keep background imagery safe.** Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that doesn't require censoring in any country. If you have any possible edge-case scenarios, please PM peppy on IRC with a link to the image in question; a list of images which are/aren't acceptable will be built up to set some visible guidelines.
--   **You must have a background image on every difficulty of your map.** If your map has a storyboard, then you can easily fade the background out, but one is still required for the song selection menu, online thumbnail icon, and for players not downloading with video (if the map has one).
--   **Hitbursts must be clearly distinguishable from each other** (e.g. 300/100). The best way to ensure this is to use a different color for each hitburst. Otherwise, the player won't know if they're hitting beats accurately.
--   **When skinning gameplay elements, [complete sets](/wiki/Skinning) of elements must be skinned**. For instance, if you skin hitcircles, you must include a `hitcircle.png`, `hitcircleoverlay.png`, `approachcircle.png`, and a slider border color (this can be done by adding the line `SliderBorder: 255,255,255` (using RGB values) under the `[Colours]` section of each `.osu` file). The same logic applies to hitbursts, cursors, numbers, and anything else of this nature. If you didn't intend to skin an element in the set, then using the templateskin's version is okay. Setting a `SkinPreference` is also acceptable (e.g. forcing the default skin).
--   **Combobursts must be oriented for the left side of the screen.** Combobursts are aligned to the bottom and left sides of the screen by default, and are just horizontally flipped for the right side. Thus, you only need to worry about making sure that the comboburst is cleanly cropped on the top and right sides of the image.
--   **Do not make any essential gameplay elements larger than template skin dimensions** (especially for combobursts). Larger elements may effect gameplay performance, and thus should be avoided. However, any elements that do not directly effect gameplay (e.g. pause-back, play-skip, etc.) may be slightly larger if a legitimate reason is given.
--   **There must not be any unused files in the map's folder** except for the map's `.osb` file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard `.thumb` files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
+-   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
+-   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
+-   **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
+-   **Do not make any gameplay elements larger than their recommended skin dimensions.** Elements like this may affect gameplay performance, and thus having them in a different size should be avoided. Elements that are not tagged as gameplay-relevant may use a different dimension and if no recommended size is given; this variable is left up to the skinner.
+-   **When skinning gameplay elements, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** A reference for this can be found [here](/wiki/Ranking_Criteria/Skin_Set_List/). When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning.
+
+### Guidelines
+
+-   **Skinned elements should not exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
+-   **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
 
 ## Storyboarding
 
@@ -180,7 +186,7 @@ Glossary
     -   **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
     -   **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
     -   **Avoid using two axis specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
-    -   **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** Png format often takes up more file size for larger images due to the lossless compression method, unlike jpg.
+    -   **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** `.png` format often takes up more file size for larger images due to the lossless compression method, unlike `.jpeg`.
     -   **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
     -   **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
     -   **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
