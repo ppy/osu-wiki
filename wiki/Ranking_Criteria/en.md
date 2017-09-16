@@ -10,12 +10,12 @@ _For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu
 Glossary
 --------
 
-### Common Terms
+### General Terms
 
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
-#### Timing
+### Timing
 
 - **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
 - **Offset:** The millisecond position when a timing point's BPM correlates to a song.
@@ -24,6 +24,18 @@ Glossary
 - **Single-BPM Timing:** Timing which only requires one BPM.
 - **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
 - **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
+
+### Storyboarding
+
+- **Storyboard Image:** This refers to the image in the song folder that the storyboard uses.
+- **Sprite:** An object in a storyboard representing an image, or a series of images.
+- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
+- **Command:** These affect a sprite in various ways. Some examples of commands are Move, Scale, Fade and Rotate. Each of these have a starttime and endtime.
+- **Axis Specific Command:** A command which only applies to one specified spatial axis, for example MoveX and MoveY.
+- **Active:** From the first start time to the last end time of commands in the object.
+- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
+- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. x: 104; y: 88.
+
 
 ## General
 
@@ -151,10 +163,25 @@ Glossary
 
 ### Rules
 
--   **Storyboard images must not exceed a width of 1920 pixels and a height of 1200 pixels.** The storyboard editor works based on osu! pixels with an internal maximum width of 854 pixels and a height of 480 pixels. If you are using an image bigger than that, you may need to scale accordingly.
--   **There must not be any unnecessary transparency around storyboarded images,** so crop and resize them as much as possible. If there are particular reasons for apparently useless transparency, then please explain them. For transparent sprites, there should be at least one pixel of transparent border around them so that interpolation (e.g. a black-bordered image on a black background) works properly (although a shadow or glow around the image will fix this problem as well).
--   **Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.** There is one built-into the editor, which will display a visual warning at the beginning of the map and also mark the map's online thumbnail with a warning icon. Also, it helps to make a note of the flashing/strobes/etc. in the map's thread. This warning is absolutely needed so that players with epilepsy can avoid any danger.
+-   **Storyboard images must not exceed a width of 1920 pixels and a height of 1200 pixels.** The storyboard editor works based on osu!pixels with an internal maximum width of 854 pixels and a height of 480 pixels. If you are using an image bigger than that, you may need to scale accordingly.
+-   **Maps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or color in the storyboard must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+-   **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 
 ### Guidelines
 
--   **Avoid going over a 5.0x storyboard load** to help prevent lag on older computers. Resizing some of your storyboard images may help with this.
+-   **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
+-   **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the map.** Test play the map during the modding process to confirm this.
+-   **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
+-   **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
+-   **Widescreen support should be turned on if the mapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
+-   **Make sure the storyboard is optimized as much as possible,** within practical means.
+    -   **Avoid having sprites, or the background of the map, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the map, turn the same background image into a sprite, with “Background” or “0” as second parameter, and fade accordingly.
+    -   **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
+    -   **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
+    -   **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
+    -   **Avoid using two axis specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
+    -   **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** Png format often takes up more file size for larger images due to the lossless compression method, unlike jpg.
+    -   **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
+    -   **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
+    -   **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
+    -   **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the map, which is why fading these out when done is preferable.
