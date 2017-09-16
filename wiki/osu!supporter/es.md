@@ -4,7 +4,7 @@
 
 ![Enlace a osu!supporter en la página principal](Osu-support.png "Enlace a osu!supporter en la página principal")
 
-Consulte el enlace: [http://osu.ppy.sh/p/support](http://osu.ppy.sh/p/support "osu!supporter en inglés")
+Consulte el enlace: [Supporting osu!](http://osu.ppy.sh/p/support "osu!supporter en inglés")
 
 En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
