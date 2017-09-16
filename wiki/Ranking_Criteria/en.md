@@ -7,12 +7,27 @@ For the record, these include the recent changes made [from the discussion forum
 
 _For mode specific criteria, see [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)._
 
-Rules
-------
+Glossary
+--------
 
-All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
+### Common Terms
 
-### General
+- **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
+- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+
+#### Timing
+
+- **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
+- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
+- **Uninherited Timing point:** A point used to change a map's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a "red line."
+- **Inherited Timing point:** A point that inherits elements from the previous timing point, and is not used to modify a map's timing. Indicated by a green line in the editor and informally called a "green line."
+- **Single-BPM Timing:** Timing which only requires one BPM.
+- **Multi-BPM Timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
+- **Variable-BPM Timing:** Timing which changes BPM irregularly due to a song's fluctuations.
+
+## General
+
+### Rules
 
 -   **No two hitobjects on the same tick (osu!mania game mode is an exception).** This includes hit circles, starts and ends of sliders, and starts and ends of spinners. Although this may be possible to accomplish while playing, it defeats the purpose of following the rhythm of the song.
 -   **Do not overuse kiai time.** The general rule of thumb is one toggle per minute of playtime. Kiai is meant to accent chorus sections, so don't use it just for fountains unless you're doing this rarely. You can toggle kiai off and back on halfway through the chorus if it fits, but using it constantly every few beats/measures is just ridiculous and can distract players.
@@ -20,7 +35,18 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
 -   **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG, suitable for ages 12+.
 -   **Approved Category is only for Marathon maps.** Long maps with over 5 minutes of draining time fit the Approval category. Only then they are allowed to be single difficulty mapsets. If they are below 5 minutes of draining time, a full difficulty spread is needed and the map will have to be ranked instead.
 
-### Mapset
+### Guidelines
+
+-   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.
+-   **Kiai should be consistent throughout difficulties** of your mapset (especially since it is shown on the main menu). If you have a guest difficulty from another mapper that uses different kiai, then it's fine as long as it still makes sense.
+-   **Kiai should start on a white tick** (or more commonly, the big white tick called the [downbeat](/wiki/Glossary/#downbeat)) of a measure. Generally, the main part of the chorus will start at this point.
+-   **The song should not be too long.** Aim for 3 minutes maximum; anything longer gets tiring. If you need help editing a song down to length, feel free to ask in the Beatmap [General Questions]( https://osu.ppy.sh/forum/56) forum.
+-   **Options such as letterboxing, countdown, and audio lead-in should be consistent between difficulties.** Having cohesive settings throughout your mapset will look much more professional, although there are always scenarios where this is impossible. One difficulty might start at the beginning of the `.mp3`, where a countdown is impossible but an audio lead-in is absolutely necessary; while another difficulty may start a few seconds in, where a countdown is usable but an audio lead-in is senseless.
+-   **Try to keep osz files under 10MB, or 30MB if you include a video/storyboard.** Videos and storyboards can generally be decreased in size by lowering the quality of the video or trimming/resizing storyboard elements.
+
+## Mapset
+
+### Rules
 
 -   **Mapsets must have at least two difficulties of the same game mode, one of which must be an Easy/Normal level.** It is possible for Marathon difficulties to have only 1 difficulty, but it must be named Marathon for the BSS to allow the submission to pending.
 -   **The mapset must have a well-designed spread of difficulties, containing at least an Easy or a Normal difficulty.** This is so that players of all levels of experience are able to enjoy maps of the songs they love.
@@ -36,7 +62,14 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
 -   **Having just one osu!catch specific difficulty is allowed within an osu! standard mapset, if it is not an Extra level difficulty.** If you wish to add a CtB-specific Extra level difficulty into a osu! standard mapset, you must at least add another CtB-specific Insane difficulty. osu! difficulties are converted correctly into osu!catch. However, in mapsets without osu! standard difficulties you must create a full spreaded CtB set, as osu!taiko and osu!mania difficulties can not be converted into osu!catch.
 -   **No guest mapper should have more difficulties in the mapset than the creator, all modes together**. For collaboration mapsets, the uploader should take part in all [collab](/wiki/Glossary/#collab) difficulties. The person who should upload the map is the one who contributed most to it. Maps with an ambiguous set of difficulties such as collabs will be evaluated on a case-by-case basis to ensure that the submitting mapper is properly accounted for.
 
-### Metadata
+### Guidelines
+
+-   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
+-   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
+
+## Metadata
+
+### Rules
 
 -   **Metadata must be consistent across all difficulties.** This is to ensure that searching is consistent and clean across a mapset.
 -   **Eastern artists must be written in the proper 'surname firstname' format** (e.g. Japanese/Chinese/Korean). For artists which have a preferred romanisation, use this one. If you're unsure of your artist's name, then check previously ranked maps, Google, Wikipedia, or ask a BN for help.
@@ -48,15 +81,28 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
 -   **Tracks created by composers belonging to doujin circles should list the circle's name as the main composer.** The sole exception to this is when a composer of a given circle is well-known enough by their own name. In this case, their own composer name may be used instead.
 -   **The information of multiple mapset contributors must be provided in the mapset, if there is any guest mapper.** This might be in the creator's words, via a storyboard or via naming the guest difficulties appropriately. You only need to provide information of guest mapper and corresponding guest part. **Guest mappers must be added to the tags of a mapset.** This helps others to know if the map uploader is the main contributor of the mapset and who else contributed to the given mapset.
 
-### Timing
+## Timing
 
--   **Uninherited (red) Timing Sections should be used to accurately map the song's timing.** They should synchronize to the beats of the song as accurately as possible and use the correct time signature whenever possible. If an incorrect time signature would last for more than 2 bars, add another timing section to fix it. Please see [Setting the Offset on the Correct Beat](/wiki/Beatmap_Editor_Guides/Setting_the_Offset_on_the_Correct_Beat) for more information on downbeats.
--   **Your map must be perfectly timed.** This means that your BPM and offset are spot-on, sliders end when they should, notes are generally following a recognizable rhythm (such as the lyrics or drums) which is comprehensible by a player, and that there are no unsnapped notes (you can check this by running AIMod (shortcut `Ctrl`+`Shift`+`A`) in the editor).
--   **Uninherited timing sections must be the same in every difficulty** of the mapset. That is, each section must have the same BPM and offset in each difficulty. Furthermore, there must not be extra or missing uninherited sections in any difficulty. A song's timing doesn't change between difficulties, so there's no sense in having different uninherited sections per difficulty.
--   **Uninherited timing sections cannot be used to manipulate slider speeds.** These can be very unexpected for the player while also disrupting the main menu pulse and slightly changing the overall timing of the map.
--   **No two uninherited or two inherited timing sections should be placed at the same point.** An inherited timing section may be placed on an uninherited timing section (but only to change the slider speed). Having two uninherited or two inherited sections on top of each other will cause problems within the beatmap.
+### Rules
 
-### Audio
+-   **Uninherited timing points must be used to accurately map the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For time signatures unsupported in the editor, metronome resets or editing of the .osu file are acceptable.
+-   **Maps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
+-   **Uninherited timing points must be the same in every difficulty of a mapset.** Each point must have the same BPM and offset in each difficulty.
+-   **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Resetting metronomes to be as musically accurate as possible through uninherited timing points is acceptable.
+-   **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
+-   **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
+-   **A map’s first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
+-   **If objects cannot be snapped using the editor’s supported beat snap divisors, a change in BPM must be used to accommodate for it.** Objects cannot be unsnapped.
+-   **An objects which is wrongly snapped due to passing through a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
+-   **An objects which is wrongly snapped due to ending slightly before a new uninherited timing point must have its end snapped to the new timing point.** For spinners and osu!mania long notes, this can be achieved through dragging an object’s tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
+
+### Guidelines
+
+-   **Maps with Variable-BPM timing should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offset are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
+
+## Audio
+
+### Rules
 
 -   **A beatmap set may only contain one music file used by all difficulties.** Multiple music files within a single beatmap set is unsupported by osu! and results in unexpected behaviour with preview times, metadata, etc.
 -   **The song's audio file must be of reasonable quality.** Try and source `.mp3` files yourself; ripping them from a streaming video site often results in low quality audio with high file sizes. The bitrate of a beatmap's audio file must be no lower than 128kbps and no higher than 192kbps. If you are having trouble acquiring an appropriate audio file, contact one of the more audio-savvy BN; they will be more than happy to help find an `.mp3` for you.
@@ -72,14 +118,22 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
     **Note:** Due to a technical issue having any files that are 0 bytes in size in the beatmap folder will cause files after the (first) 0-byte file to be missing. Please do NOT use any 0-byte files. The one linked above is 44KB in size and won't cause issues.
 -   **Hitsounds must have an acceptable range of delay under 5ms.** Every hitsound file should start in time, preferrably at 0ms. This is to ensure that every map doesn't sound mistimed, and therefore could provide acceptably synchronized rhythm feedback to players.
 
-### Video
+### Guidelines
+
+-   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
+
+## Video
+
+### Rules
 
 -   **A beatmap set may not contain multiple background video files.** Multiple videos within a single beatmap set is not supported by `.osz2` and will result in errors during upload and processing.
 -   **The video's dimensions must not exceed 1280x720.** As well, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 -   **The video's offset must be correct and consistent between difficulties** so that it follows the music how it was originally meant to be.
 -   **The video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap.
 
-### Skinning
+## Skinning
+
+### Rules
 
 -   **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects!
 -   **Gameplay elements must be visible.** You cannot make any element that will impair the playability of the map invisible as it will make the map unintuitive or even impossible to play.
@@ -93,30 +147,14 @@ All rules are exactly that: **rules**. They are **not** guidelines and may **not
 -   **Do not make any essential gameplay elements larger than template skin dimensions** (especially for combobursts). Larger elements may effect gameplay performance, and thus should be avoided. However, any elements that do not directly effect gameplay (e.g. pause-back, play-skip, etc.) may be slightly larger if a legitimate reason is given.
 -   **There must not be any unused files in the map's folder** except for the map's `.osb` file (since they sometimes get added even if the map doesn't have a storyboard) and storyboard `.thumb` files (since they are automatically created in image directories). Unused files add extra file size which is unnecessary.
 
-### Storyboarding
+## Storyboarding
+
+### Rules
 
 -   **Storyboard images must not exceed a width of 1920 pixels and a height of 1200 pixels.** The storyboard editor works based on osu! pixels with an internal maximum width of 854 pixels and a height of 480 pixels. If you are using an image bigger than that, you may need to scale accordingly.
 -   **There must not be any unnecessary transparency around storyboarded images,** so crop and resize them as much as possible. If there are particular reasons for apparently useless transparency, then please explain them. For transparent sprites, there should be at least one pixel of transparent border around them so that interpolation (e.g. a black-bordered image on a black background) works properly (although a shadow or glow around the image will fix this problem as well).
 -   **Maps that use repetitive strobes, pulsing images, or flashing colors in the storyboard must use the epilepsy warning.** There is one built-into the editor, which will display a visual warning at the beginning of the map and also mark the map's online thumbnail with a warning icon. Also, it helps to make a note of the flashing/strobes/etc. in the map's thread. This warning is absolutely needed so that players with epilepsy can avoid any danger.
 
-Guidelines
------------
+### Guidelines
 
-Guidelines are important and should be followed in most maps. However, they are **not** rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this, "Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines?" If you answer yes to both these questions, then it is probably okay.
-
-When your guideline-breaking map gets modded, try to be as reasonable as possible: Do your best to explain your point of view and be open to suggestions.
-
--   **The difficulty spread should be linear and reasonable.** Linear difficulty spread means your difficulties have a comparable gap in star rating between each other. A reasonable spread means the usage of [difficulty appropriate gameplay elements](/wiki/Difficulties). If your mapset does not have an Easy difficulty your Normal difficulty should follow the general guidelines for Easy difficulties. If your Insane difficulty is at or above a 5 star rating it is recommended to include another Insane level difficulty between Hard and the 5+ Insane.
--   **A maximum of three slider velocities should be used** (including 1x). For example, you could have a single map using 0.6x, 0.8x, and 1x; or 0.75x, 1x, and 1.5x; etc. If more than three slider velocities are used, then they should make sense and be intuitive. If slider velocity changes are able to be merged (e.g. close values like 0.8x and 0.7x) while still flowing/working correctly, then they should be.
--   **When including a slider velocity change, there should be a discernible change in the map's tempo**. A spacing change, a short break in the map, or a slider containing at least one tick will help show the transition between them.
--   **Make sure that you can pass each difficulty in your mapset.** Continually test-playing your map is one of the best ways to spot mistakes and correct issues.
--   **Your difficulties should all end at the same spot.** Having a fully-mapped Normal/Hard and a half-mapped Easy just looks sloppy/lazy. A full Easy may look boring to you, but not to a player that can't handle the harder difficulties.
--   **Kiai should be consistent throughout difficulties** of your mapset (especially since it is shown on the main menu). If you have a guest difficulty from another mapper that uses different kiai, then it's fine as long as it still makes sense.
--   **Kiai should start on a white tick** (or more commonly, the big white tick called the [downbeat](/wiki/Glossary/#downbeat)) of a measure. Generally, the main part of the chorus will start at this point.
--   **The song should not be too long.** Aim for 3 minutes maximum; anything longer gets tiring. If you need help editing a song down to length, feel free to ask in the Beatmap [General Questions]( https://osu.ppy.sh/forum/56) forum.
--   **Use breaks where possible.** Even if they are only 5-10 seconds, it allows a bit of recovery and hand repositioning for players. However, try to avoid longer breaks that are in excess of 15 seconds. Breaks should especially be used with Easy/Normal difficulties.
--   **Options such as letterboxing, countdown, and audio lead-in should be consistent between difficulties.** Having cohesive settings throughout your mapset will look much more professional, although there are always scenarios where this is impossible. One difficulty might start at the beginning of the `.mp3`, where a countdown is impossible but an audio lead-in is absolutely necessary; while another difficulty may start a few seconds in, where a countdown is usable but an audio lead-in is senseless.
--   **Try to keep osz files under 10MB, or 30MB if you include a video/storyboard.** Videos and storyboards can generally be decreased in size by lowering the quality of the video or trimming/resizing storyboard elements.
--   **Avoid using storyboarded hitsounds.** If a player misses the hitobject that the storyboarded hitsound lands on, then the hitsound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hitsounds at places where there are no objects can confuse the player into thinking there was some unseen hitobject, which doesn't make sense either.
--   **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, would be extremely jarring.
 -   **Avoid going over a 5.0x storyboard load** to help prevent lag on older computers. Resizing some of your storyboard images may help with this.
