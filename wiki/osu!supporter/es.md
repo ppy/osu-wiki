@@ -2,7 +2,7 @@
 
 ![Etiqueta de osu!supporter](/wiki/shared/osu!supporter.png "Etiqueta de osu!supporter")
 
-![Enlace a osu!supporter en la página principal](Osu-support.png "Enlace a osu!supporter en la página principal")
+![Enlace a osu!supporter en la página principal](./img/Osu-support.png "Enlace a osu!supporter en la página principal")
 
 Consulte el enlace: [Supporting osu!](http://osu.ppy.sh/p/support "osu!supporter en inglés")
 
@@ -32,7 +32,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 [Usa este convertidor de divisas](http://www.oanda.com/currency/converter/) o [utiliza Google](https://www.google.com.my/#q=usd+exchange+rate) para verificar el precio del dolar en tu país. El costo del mismo utiliza el "USD$ dólar".
 
-| Meses | Costo {USD$} (relación con costes reales) |
+| Meses | Costo `USD` (relación con costes reales) |
 |-------|-------------------------------------------|
 | 1     | 4                                         |
 | 2     | 8                                         |
@@ -56,6 +56,6 @@ Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, v
 
 ### Duración
 
-![Diferencia entre osu!supporter activo e inactivo.](O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.") 
+![Diferencia entre osu!supporter activo e inactivo.](./img/O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.") 
 
 Una vez completes el pago, en tu actividad reciente en tu perfil dirá "{Tu cuenta} has become an osu! supporter - thanks for your generosity!" si es la primera vez que tu cuenta obtiene osu!supporter o bien "{Tu cuenta} has once again chosen to donate to the osu! cause - thanks for your generosity!" si tu cuenta ya había sido osu!supporter anteriormente. Si compraste una para tu cuenta, podrás ver el título de osu!support abajo de tu imagen de perfil. Para verificar cuándo tu osu!supporter expirará, [vuelve al mismo lugar donde lo compraste](http://osu.ppy.sh/p/support).

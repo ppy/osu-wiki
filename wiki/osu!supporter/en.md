@@ -2,9 +2,9 @@
 
 ![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
 
-![osu!supporter link on main page](./Osu-support.png " osu!supporter link on main page.")
+![osu!supporter link on main page](./img/Osu-support.png " osu!supporter link on main page.")
 
-Refer to link: <https://osu.ppy.sh/p/support>
+[Supporting osu!](https://osu.ppy.sh/p/support)
 
 Laconic: Donation is used to sustain _osu!_ overall.
 
@@ -31,9 +31,9 @@ Laconic: Donation is used to sustain _osu!_ overall.
 
 ### Cost by month
 
-[Use this currency convertor](https://www.oanda.com/currency/converter/) or [ask Google](https://www.google.com.my/#q=usd+exchange+rate) to check the price at per country rate. The costs are in `USD$` (United States Dollars) currency.
+[Use this currency convertor](https://www.oanda.com/currency/converter/) or [ask Google](https://www.google.com.my/#q=usd+exchange+rate) to check the price at per country rate. The costs are in `USD` (`US$`, United States Dollars) currency.
 
-| Months | Cost, `USD$` (against actual overall) |
+| Months | Cost, `USD` (against actual overall) |
 |--------|--------------------------------------|
 | 1      | 4                                    |
 | 2      | 8                                    |
@@ -51,7 +51,7 @@ Note:-
 
 ### Decide
 
-![An example of buying supporter](./O!s_Decide.jpg "An example of buying supporter")
+![An example of buying supporter](./img/O!s_Decide.jpg "An example of buying supporter")
 
 By default, only the player's account will be shown. If the player want to gift osu!supporter to another player, there is an option called `Gift another player` and type in the player's account name on the empty field provided. For multiple gifting, use `Add another tag` button beside the green `Checkout` button.
 
@@ -67,12 +67,12 @@ It is recommended to use [PayPal](https://www.paypal.com "PayPal") or `Credit Ca
 
 ### Duration
 
-![Comparison between active and inactive osu!supporter.](./O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
+![Comparison between active and inactive osu!supporter.](./img/O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
 
  After the transaction is completed, the profile's `Recent Activity` will say "{username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. The osu!supporter badge can be found below the profile image.
  
  To check for _when_ the osu!supporter will expire, return to [osu!supporter page](https://osu.ppy.sh/p/support "osu!supporter").
 
-![An email for a player receiving osu!supporter from another player](Osu!support_mail-gifted.png "An email for a player receiving osu!supporter from another player")
+![An email for a player receiving osu!supporter from another player](./img/Osu!support_mail-gifted.png "An email for a player receiving osu!supporter from another player")
 
 An email will be sent by the osu! Management to all the accounts receiving the osu!supporter tag for the transaction.
