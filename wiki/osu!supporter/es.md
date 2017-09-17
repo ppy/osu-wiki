@@ -12,7 +12,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 -   osu!direct (Descargas directas dentro del juego)
 -   Acceso al multijugador usando osu!cuttingedge.
--   [Chat](/wiki/chat): Nombre en ![_Amarillo brillante_](/wiki/shared/osu!supporter.png "Etiqueta de osu!supporter") (para los demás, te seguirás viendo con el nombre blanco, como siempre).
+-   [Chat](/wiki/chat): Nombre en _Amarillo brillante_ (para los demás, te seguirás viendo con el nombre blanco, como siempre).
 -   [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
 -   [Skinning](/wiki/Skinning): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949), en las partidas multijugador y acceso a osu!direct.
     -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
