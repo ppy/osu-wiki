@@ -255,7 +255,7 @@ Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje
 
 Vincula un perfil de usuario utilizando el nombre del usuario.
 
-¡El uso de este botón **no es recomendable**! El problema con el uso de esta etiqueta es que los nombres de usuario pueden cambiarse una vez obtenida una [tag de osu! Supporter](/wiki/osu! Supporter). Y una vez que lo hacen, el enlace fallará.
+¡El uso de este botón **no es recomendable**! El problema con el uso de esta etiqueta es que los nombres de usuario pueden cambiarse una vez obtenida una [tag de osu! Supporter](/wiki/osu!Supporter). Y una vez que lo hacen, el enlace fallará.
 
 Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identificación del usuario).
 
