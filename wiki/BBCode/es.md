@@ -79,6 +79,10 @@ Por ejemplo (presta atención al orden del código):
 ```prolog
 [strike] ... [/strike]
 ```
+  * Alternativamente, se puede utilizar:
+```prolog
+[s] ... [/s]
+```
 
 ### Color
 
