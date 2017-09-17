@@ -1,12 +1,8 @@
 # osu!supporter
 
-![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
+![osu!supporter link on main page](./img/sup.png "osu!supporter link on main page.")
 
-![osu!supporter link on main page](./img/Osu-support.png " osu!supporter link on main page.")
-
-[Supporting osu!](https://osu.ppy.sh/p/support)
-
-Laconic: Donation is used to sustain _osu!_ overall.
+![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag") [Support osu!](https://osu.ppy.sh/p/support)
 
 ## Advantages of osu!supporter
 
@@ -18,7 +14,7 @@ Laconic: Donation is used to sustain _osu!_ overall.
   - Specifically, `menu-background.jpg` (Main Menu); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
 - [Feature Requests](https://osu.ppy.sh/forum/4 "Feature Requests"): Extra votes for feature requests (2 per month over usual 1 per month).
 - [Song Selection](/wiki/Interface "Song Selection in Interface"): The ability to view beatmap's in own country/friends/mod-specific rankings in-game.
-- Own Profile: <https://osu.ppy.sh/u/{userid/username}>
+- Profile
   - A user page can be added to the profile.
     - The user page will not be deleted when osu!supporter expires.
   - The ability to [change username](https://osu.ppy.sh/p/profile-username/).
@@ -51,7 +47,7 @@ Note:-
 
 ### Decide
 
-![An example of buying supporter](./img/O!s_Decide.jpg "An example of buying supporter")
+![An example of buying supporter](./img/sup_decide.jpg "An example of buying supporter")
 
 By default, only the player's account will be shown. If the player want to gift osu!supporter to another player, there is an option called `Gift another player` and type in the player's account name on the empty field provided. For multiple gifting, use `Add another tag` button beside the green `Checkout` button.
 
@@ -67,12 +63,12 @@ It is recommended to use [PayPal](https://www.paypal.com "PayPal") or `Credit Ca
 
 ### Duration
 
-![Comparison between active and inactive osu!supporter.](./img/O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
+![Comparison between active and inactive osu!supporter.](./img/sup_duration.jpg "Comparison between active and inactive osu!supporter.")
 
- After the transaction is completed, the profile's `Recent Activity` will say "{username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. The osu!supporter badge can be found below the profile image.
+After the transaction is completed, the profile's `Recent Activity` will say "{username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. The osu!supporter badge can be found below the profile image.
  
- To check for _when_ the osu!supporter will expire, return to [osu!supporter page](https://osu.ppy.sh/p/support "osu!supporter").
+To check for _when_ the osu!supporter will expire, return to [osu!supporter page](https://osu.ppy.sh/p/support "osu!supporter").
 
-![An email for a player receiving osu!supporter from another player](./img/Osu!support_mail-gifted.png "An email for a player receiving osu!supporter from another player")
+![An email for a player receiving osu!supporter from another player](./img/sup_mail-gifted.png "An email for a player receiving osu!supporter from another player")
 
 An email will be sent by the osu! Management to all the accounts receiving the osu!supporter tag for the transaction.
