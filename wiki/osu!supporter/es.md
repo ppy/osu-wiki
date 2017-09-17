@@ -10,21 +10,21 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 ## Ventajas del osu!supporter
 
--   osu!direct (Descargas directas dentro del juego)
--   Acceso al multijugador usando osu!cuttingedge.
--   [Chat](/wiki/chat): Nombre en _Amarillo brillante_ (para los demás, te seguirás viendo con el nombre blanco, como siempre).
--   [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
--   [Skinning](/wiki/Skinning): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949), en las partidas multijugador y acceso a osu!direct.
-    -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
--   [Solicitudes de características](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
--   [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
--   En tu perfil: <http://osu.ppy.sh/u/>
-    -   Puedes agregar una página de usuario a tu perfil.
-        -   Tu página de usuario no será borrado cuando tu osu!supporter expire.
-    -   La posibilidad de [cambiar tu nombre de usuario](https://osu.ppy.sh/p/profile-username/) (una vez por cuenta. No podrás volver a utilizarlos una vez cambiado, puede haber algunas excepciones).
-    -   Incremento en la cantidad de mapas que puedes subir (hasta un total de 10 mapas pendientes).
--   [*Performance Ranking*](http://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
--   *Más características serán implementadas en un futuro!*
+- osu!direct (Descargas directas dentro del juego)
+- Acceso al multijugador usando osu!cuttingedge.
+- [Chat Consoler](/wiki/Chat_Console): Nombre en _Amarillo brillante_ (para los demás, te seguirás viendo con el nombre blanco, como siempre).
+- [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
+- [Skinning](/wiki/Skinning): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949), en las partidas multijugador y acceso a osu!direct.
+  - Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
+- [Solicitudes de características](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
+- [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
+- En tu perfil: <http://osu.ppy.sh/u/>
+  - Puedes agregar una página de usuario a tu perfil.
+    - Tu página de usuario no será borrado cuando tu osu!supporter expire.
+  - La posibilidad de [cambiar tu nombre de usuario](https://osu.ppy.sh/p/profile-username/) (una vez por cuenta. No podrás volver a utilizarlos una vez cambiado, puede haber algunas excepciones).
+    - Incremento en la cantidad de mapas que puedes subir (hasta un total de 10 mapas pendientes).
+- [*Performance Ranking*](http://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
+- *Más características serán implementadas en un futuro!*
 
 ## Pago
 
@@ -44,14 +44,13 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 | 12    | 26 (-46% máx.)                            |
 | 24    | 52 (-46% máx.)                            |
 
--   Los costos son por cuenta individual. No hay promociones para regalos en grupo.
+- Los costos son por cuenta individual. No hay promociones para regalos en grupo.
 
 ### Decide
 
 Por defecto, tu cuenta será mostrada con osu!supporter. Si no quieres el osu!supporter, haz clic en "Gift another player" y escribe el nombre de usuario de dicha persona. Si quieres regalar a más de una cuenta, haz clic en el botón "Add another tag" al lado del botón "Checkout". Luego de confirmar las cuentas, desliza el botón blanco en una cuenta para determinar la cantidad de tiempo y cuánto tendrás que pagar en total. Puedes configurar la duración y el costo para las distintas cuentas. Luego de confirmar la duración y las cuentas, haz clic en "Checkout".
 
-Pago
-----
+### Pago
 
 Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, vas a contar con múltiples opciones. Es recomendable usar [PayPal](https://www.paypal.com) o cualquier servicio de tarjeta de crédito. Hay otros métodos de pago (como por SMS o servicios de proveedores locales como [Cherry Credits](http://www.cherrycredits.com/)) pero suelen contar con un cargo extra por su servicio. Si pagas menos que el "Costo Total" en "dorrah" (incluyendo el costo adicional si no utilizas PayPal), no recibirás el/los tag(s) correspondiente(s).
 
