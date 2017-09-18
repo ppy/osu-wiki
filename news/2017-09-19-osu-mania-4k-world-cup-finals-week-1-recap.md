@@ -24,7 +24,7 @@ Let's not wait any longer - it's time to announce the results of the osu!mania 4
 
 ![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/podium.jpg)
 
-**With a nearly flawless winning streak, team South Korea are crowned as the osu!mania 4K World Cup 2017 Champions!**
+**With a nearly flawless winning streak, team South Korea are crowned the osu!mania 4K World Cup 2017 Champions!**
 
 Blah
 
@@ -42,4 +42,24 @@ Blah
 
 Brazil will receive $40 per team member, as well as exclusive osu! pins and merchandise, and a unique profile badge. Well done to them!
 
+## Recap
+
+In celebration of the success of this tournament, let's briefly recount the events that transpired over the past 2 weeks.
+
+### Firstly, a word from our Mappool Selectors:
+
+*"With regards to the Finals Mappool, we really don't have an awful lot to say. It's great that what we aimed with the tiebreaker actually happened - we wanted the players to be **ULTRA** nervous on the break because they would be able to see the score difference between the teams. We are certainly happy that the tiebreaker was played despite the unfortunate internet incident.*
+
+*I guess the only thing that was a bit disconcerting was the slight lack of speed picks and the recurring bans on the same maps, but the tiebreaker match more than made up for that thanks to the hype it brought with the break. Overall, it's been a pleasure to have taken part in the map selecting process."*
+
+### Tournament Matches 
+
+
 --------
+
+And that's all from me today. Apologies for being slow on the announcements regarding the previous week - that is entirely my fault alone. Regardless, it's been a pleasure covering the osu!mania 4K World Cup. If you have any suggestions on how the recap could be done better, please leave a comment down below - all feedback is highly appreciated. 
+
+Do I see circles approaching from the distance?
+
+—mangomizer
+
