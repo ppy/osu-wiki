@@ -23,7 +23,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Type de donnée | Description |
 | --------- | ----------- |
 | Octet (byte) | Mode de jeu du replay (0 = osu!standard, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
-| Entier (int) | Version du jeu lors du replay (exemple: 20131216) |
+| Entier (int) | Version du jeu du replay (exemple: 20131216) |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 |
 | Chaîne de caractère (string) | Nom du joueur ayant effectué ce replay |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 incluant des données du replay |
@@ -37,7 +37,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Court (short) | Combo maximum effectué lors du replay |
 | Octet (byte) | Combo parfait (le plus grand combo possible) [1 = oui (pas de miss ni de slider break ou de slider fini trop tôt); 0 = non] |
 | Entier (int) | Mods utilisés (voir en dessous pour plus d'infos) |
-| Chaîne de caractère (string) | Graphique de la barre de vie: paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie que vous avez à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
+| Chaîne de caractère (string) | Graphique de la barre de vie: paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie du joueur à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
 | Long | Horodatage ([ticks Windows](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Entier (int) | Taille en octets des données du replay compressé |
 | Tableau d'octets (byte array) | Données du replay compressées |

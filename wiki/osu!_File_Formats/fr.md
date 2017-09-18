@@ -28,7 +28,7 @@ Formats de fichiers spécifiques à osu!
 Créer un fichier .osz/.osk
 ----------------------------
 
-.osz/.osk est une extension de fichier lié spécifiquement à osu!.exe. Quand ouverts, les fichiers .osz seront extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk seront extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
+.osz/.osk est une extension de fichier liée spécifiquement à osu!.exe. Quand ouverts, les fichiers .osz seront extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk seront extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
 
 ### Depuis un logiciel d'archivage
 
@@ -58,7 +58,7 @@ Créer un fichier .osz/.osk
 
 - [WinRAR](http://puu.sh/1MBV)
 - [7-zip](http://puu.sh/1MBW)
-    - Pour les beatmaps, utilisez l'extension .osz.
+    - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu
 

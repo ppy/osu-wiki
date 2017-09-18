@@ -1,19 +1,19 @@
 .db (format de fichier)
 ===============
 
-L'extension **.db** est utilisée en tant que fichier binaire par osu! pour y enregistrer des informations variées, comme les paramètres d'une beatmap, les données d'un replay ou même les collections de beatmaps.
+L'extension **.db** est utilisée en tant que fichier binaire par osu! pour y enregistrer des informations variées, comme les paramètres d'une beatmap, les données d'un replay ou les collections de beatmaps.
 
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
 
 - Windows: `C:\\Program Files (x86)\osu!\`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program` `Files/osu!/`
+- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 En ce moment, osu! utilise 4 fichiers .db: osu!.db, scores.db, collection.db et presence.db.
 
 Les types de données
 --------------------
 
-Pour faciliter la description des formats de chaque fichier .db, les noms des types données vont être utilisés. À part s'il est spécifié, toutes ces données numériques sont des petit-boutistes. Les nombres entiers, tout comme les octets ne sont pas signés. Les caractères UTF-8 sont enregistrés dans leur forme canonique, les octets étant en priorité.
+Pour faciliter la description des formats de chaque fichier .db, les noms des types données vont être utilisés. Sauf indication contraire, toutes ces données numériques sont des petit-boutistes. Les nombres entiers, tout comme les octets ne sont pas signés. Les caractères UTF-8 sont enregistrés dans leur forme canonique, les octets étant en priorité.
 
 | Nom (nom anglais) | Nombre d'octets | Description |
 | ---- | --------------- | ----------- |
@@ -30,7 +30,7 @@ Pour faciliter la description des formats de chaque fichier .db, les noms des ty
 osu!.db
 -------
 
-**osu!.db** contient en cache toutes les informations sur les beatmaps installées. Supprimer une beatmap va forcer osu! à refaire entièrement ce fichier, qui peut aussi corriger des erreurs, comme des beatmaps ayant été retirées du dossier Songs, mais auquel leur nom est resté visible. Sans surprise, nous savons que ce fichier occupe un rôle important sur la gestion des beatmaps et des données caches, osu!.db est le plus lourd des quatres.
+**osu!.db** contient en cache toutes les informations sur les beatmaps installées. Supprimer une beatmap va forcer osu! à refaire entièrement ce fichier, ce qui peut aussi corriger des erreurs, comme des beatmaps ayant été retirées du dossier Songs, mais dont le nom est resté visible dans le jeu. Ce fichier, le plus lourd des quatre, occupe un rôle important dans la gestion des beatmaps et dans la mise en cache des données.
 
 ### Format
 
@@ -47,7 +47,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | --------- | ----------- |
 | Entier (Int) | La version du jeu (exemple: 20150203) |
 | Entier (Int) | Nombre de dossiers entourant osu! |
-| Booléen (Boolean) | Est définit par false (faux) si votre compte à été banni ou à été restreint. |
+| Booléen (Boolean) | Défini par false (faux) si le compte associé a été banni ou restreint |
 | Date (DateTime) | La date à laquelle le compte osu! ne sera plus restreint |
 | Chaîne de caractère (string) | Nom du joueur |
 | Entier (Int) | Nombre de beatmaps installées |
@@ -70,8 +70,8 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | String | Nnom du fichier .osu correspondant à cette beatmap |
 | Byte | Statut de classement (4 = classée, 5 = approuvée, 2 = en attente/au cimetière) |
 | Short | Nombre de hitcircles |
-| Short | Nombre de sliders (note: cette valeur sera présnete pour tous les modes de jeu) |
-| Short | Nombre de spinners (note: cette valeur sera présnete pour tous les modes de jeu) |
+| Short | Nombre de sliders (note: cette valeur sera présente pour tous les modes de jeu) |
+| Short | Nombre de spinners (note: cette valeur sera présente pour tous les modes de jeu) |
 | Long | Dernière modification, ticks Windows. |
 | Byte/Single | Approach rate. Byte si la version est en-dessous de 20140609, Single sinon. |
 | Byte/Single | Circle size. Byte si la version est en-dessous de 20140609, Single sinon. |
@@ -81,10 +81,10 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!standard, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!taiko, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!catch, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
-| paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!manAia, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
+| paire Int-Double* | Un Int indiquant le nombre de paires Int-Double suivantes, puis les paires susnommées. Évalutation en étoiles pour osu!mania, dans chaque paire, le Int est la combinaison des mods, et le Double l'évaluation. Seulement présent à partir de la version 20140609. |
 | Int | Drain time, en secondes |
 | Int | Time total, en milliseconds |
-| Int | Le moment de la prévisualisation audio lorsque l'on survole une beatmap dans l'écran de sélection des musiques, en millisecondes. |
+| Int | Le moment de l'extrait audio lorsque l'on survole une beatmap dans l'écran de sélection des musiques, en millisecondes. |
 | Timing point+ | Un Int indiquant le nombre de Timing points suivants, puis les Timing points indiqués. |
 | Int | Beatmap ID |
 | Int | Beatmap set ID |
@@ -94,17 +94,17 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Byte | Grade gagné en osu!catch. |
 | Byte | Grade gagné en osu!mania. |
 | Short | Décalage local de la beatmap |
-| Single | Indulgence |
-| Byte | Osu gameplay mode. 0x00 = osu!standard, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania |
+| Single | Tolérance de l'empilage |
+| Byte | Mode de jeu. 0x00 = osu!standard, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania |
 | String | Source de la musique |
 | String | Tags de la musique |
 | Short | Décalage en ligne |
 | String | Police utilisée pour le titre de la musique |
-| Boolean | Est-ce que la beatmap est jouable |
+| Boolean | True si la beatmap n'a pas encore été jouée |
 | Long | Dernière fois que la beatmap a été jouée |
-| Boolean | Est-ce que la beatmaps est sous le format osz2 |
-| String | Nom du dossier de la beatmap, relative au dossier Songs |
-| Long | Dernière fois que la beatmap a été vérifiée auprès du dépôt osu! |
+| Boolean | Est-ce que la beatmap est sous le format osz2 |
+| String | Nom du dossier de la beatmap, par rapport au dossier Songs |
+| Long | Dernière fois que la beatmap a été comparée à la version en ligne |
 | Boolean | Ignore-t-on le son de la beatmap |
 | Boolean | Ignore-t-on le skin de la beatmap |
 | Boolean | Est-ce que le storyboard est désactivé |
@@ -160,10 +160,10 @@ Cette base de données contient tous les scores réalisés localement.
 | Type de donnée | Description |
 | --------- | ----------- |
 | Octet (byte) | Mode de jeu (0x00 = osu!standard, 0x01 = osu!taiko, 0x02 = osu!catch, 0x03 = osu!mania) |
-| Entier (Int) | Version du jeu auquel a été effectué ce score (exemple: 20150203) |
-| Chaîne de caractère (string) | Beatmap cryptée en MD5 |
+| Entier (Int) | Version du jeu sous laquelle a été effectué ce score (exemple: 20150203) |
+| Chaîne de caractère (string) | Beatmap chiffrée en MD5 |
 | Chaîne de caractère (string) | Nom du joueur |
-| Chaîne de caractère (string) | Replay cryptée en MD5 |
+| Chaîne de caractère (string) | Replay chiffrée en MD5 |
 | Court (short) | Nombre de 300 |
 | Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, et de 200 en osu!mania |
 | Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, et de 50 en osu!mania |
