@@ -1,7 +1,7 @@
 .osu (format de fichier)
 =================
 
-Les fichiers **.osu** sont des fichiers lisib les par l'Homme. Ils contiennent des informations sur une seule beatmap.
+Les fichiers **.osu** sont des fichiers lisibles par l'Homme. Ils contiennent des informations sur une seule beatmap.
 
 Format
 ------

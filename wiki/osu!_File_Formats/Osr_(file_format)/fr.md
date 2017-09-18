@@ -1,7 +1,7 @@
 .osr (format de fichier)
 =================
 
-Le fichier **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay.
+Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay.
 
 Les types de données
 --------------------
@@ -28,10 +28,10 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Chaîne de caractère (string) | Nom du joueur ayant effectué ce replay |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 incluant des données du replay |
 | Court (short) | Nombre de 300 |
-| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, et de 200 en osu!mania |
-| Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, et de 50 en osu!mania |
-| Court (short) | Nombre de Gekis en osu!standard, et de Max 300 en osu!mania |
-| Court (short) | Nombre de Katus en osu!standard, et de 100 en osu!mania |
+| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, ou de 200 en osu!mania |
+| Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, ou de 50 en osu!mania |
+| Court (short) | Nombre de Gekis en osu!standard, ou de Max 300 en osu!mania |
+| Court (short) | Nombre de Katus en osu!standard, ou de 100 en osu!mania |
 | Court (short) | Nombre de fautes (misses) |
 | Entier (int) | Score total |
 | Court (short) | Combo maximum effectué lors du replay |
@@ -71,7 +71,7 @@ Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods).
 | DoubleTime     | 64 (6)             |                                           |
 | Relax          | 128 (7)            |                                           |
 | HalfTime       | 256 (8)            |                                           |
-| Nightcore      | 512 (9)            | Toujours utilisé avec DT : 512 + 64 = 576 |
+| Nightcore      | 512 (9)            | Toujours utilisé avec DT: 512 + 64 = 576  |
 | Flashlight     | 1024 (10)          |                                           |
 | Autoplay       | 2048 (11)          |                                           |
 | SpunOut        | 4096 (12)          |                                           |
