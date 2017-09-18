@@ -1,4 +1,4 @@
-.osz (extension)
+.osz (format de fichier)
 =====================
 
 L'extension **.osz** est une archive globale, elle contient **un** beatmap set. Lors d'un téléchargement, cette extension contient plusieurs fichiers différents.
