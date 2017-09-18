@@ -162,7 +162,7 @@ Voir [Storyboard Scripting](/wiki/Storyboard_Scripting)
 
 ### Timing Points
 
-Les Timing Points contiennent un certain nombre de propriétés concernant le décalage audio, les battements pas minute et les hit sounds. Offset (Integer, milliseconds) définit le temps que prends le Timing Point à prendre effet. Milliseconds per Beat (Float) définit le battement par minute de la musique. Pour certains calculs, il est plus simple d'utiliser les millisecondes par battement. Meter (Integer) définit le nombre de battement par mesure. Sample Type (Integer) définit le type de hit sound utilisé. Sample Set (Integer) définit l'ensemble de hit sound à utiliser. Volume (Integer) est une valeur de 0 à 100 qui définit le volume des hit sounds. Kiai Mode (Boolean) définit si le Kiai Time est actif. Inherited (Boolean) indique si le Timing Point est un Timing Point héritant.
+Les Timing Points contiennent un certain nombre de propriétés concernant le décalage audio, les battements pas minute et les hit sounds. Offset (Integer, milliseconds) définit quand le Timing Point prend effet. Milliseconds per Beat (Float) définit le battement par minute de la musique. Pour certains calculs, il est plus simple d'utiliser les millisecondes par battement. Meter (Integer) définit le nombre de battement par mesure. Sample Type (Integer) définit le type de hit sound utilisé. Sample Set (Integer) définit l'ensemble de hit sound à utiliser. Volume (Integer) est une valeur de 0 à 100 qui définit le volume des hit sounds. Kiai Mode (Boolean) définit si le Kiai Time est actif. Inherited (Boolean) indique si le Timing Point est un Timing Point héritant.
 
 `Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 

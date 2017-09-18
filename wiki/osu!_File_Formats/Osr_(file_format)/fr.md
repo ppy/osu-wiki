@@ -52,7 +52,7 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 | w | Long (long) | Temps en millisecondes du temps qui sépare cette action de la précédente |
 | x | Flottante (float) | Valeur de l'abscisse (x) de la position du curseur (de 0 à 512) |
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
-| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 5, K2 = 10) |
+| z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 4, K2 = 8) (K1 et M1 sont toujours utilisés simultanément; K2 et M2 sont toujours utilisés simultanément: 1+4=5; 2+8=10) |
 
 Mods
 ----

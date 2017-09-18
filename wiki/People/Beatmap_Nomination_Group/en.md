@@ -56,7 +56,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfill the following c
 + The overall minimum threshold is set to the following values:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
-+ It is usually a good idea to keep their socre well above these numbers as they can vary slightly depending on the amount of applicants.
++ It is usually a good idea to keep their score well above these numbers as they can vary slightly depending on the amount of applicants.
 
 Team Members
 ------------
@@ -133,7 +133,7 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [Stefan](https://osu.ppy.sh/u/626907)             | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | German                   |
 | [Strategas](https://osu.ppy.sh/u/2971837)         | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Lithuanian               |
 | [Surono](https://osu.ppy.sh/u/3611370)            | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Indonesian               |
-| [Taikocracy](https://osu.ppy.sh/u/6256027)        | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  |                          |
+| [Taikocracy](https://osu.ppy.sh/u/6256027)        | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Some Spanish             |
 | [tasuke912](https://osu.ppy.sh/u/2774767)         | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [thzz](https://osu.ppy.sh/u/1614839)              | ![No][Ns]  | ![Yes][Yt] | ![No][Nf]  | ![No][Nm]  | Japanese                 |
 | [Voli](https://osu.ppy.sh/u/6151332)              | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  |                          |
