@@ -38,7 +38,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 
 | Nom français | Nombre d'octets | Description |
 | ---- | --------------- | ----------- |
-| Int-Double apir | 14 | Le premier octet est défini par 0x08, suivi d'un Entier (Int), ensuite par 0x0d, et pour finir un Double. Ces étranges octets sont vraisemblablement ici pour signifier différents type de données dans leur emplacement, malgré le fait que l'on a jamais vu l'utilisation de ce type de données. L'objectif de ceci est à ce jour inconnu. |
+| Int-Double pair | 14 | Le premier octet est défini par 0x08, suivi d'un Entier (Int), ensuite par 0x0d, et pour finir un Double. Ces étranges octets sont vraisemblablement ici pour signifier différents type de données dans leur emplacement, malgré le fait que l'on a jamais vu l'utilisation de ce type de données. L'objectif de ceci est à ce jour inconnu. |
 | Timing point | 17 | Constitue un Double, signifiant le BPM, avec un autre Double pour l'offset en millisecondes, et d'un booléen, pour dire si oui, le point est un Timing Point, ou si non, le point est un Inherited Point. Plus d'informations: [osu! (formats de fichier)][Osu Link] |
 
 ### Format du fichier osu!.db
@@ -180,5 +180,6 @@ Cette base de donnée contient tous les scores réalisés localement.
 | Long (long) | ID du score en ligne |
 
 Sans compter l'ID du score en ligne, le format des scores est le même que le format du replay. [Osr (file format)][Osr Link] Cela peut expliquer la chaîne de caractère vide et l'entier définit par -1.
+
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
