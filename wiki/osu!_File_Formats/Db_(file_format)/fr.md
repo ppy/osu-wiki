@@ -1,7 +1,7 @@
 .db (format de fichier)
 ===============
 
-L'extension **.db** est utilisé en tant que fichier binaire par osu! pour y enregistrer des informations variées, comme les paramètres d'une beatmap, les données d'un replay ou même les collections de beatmaps.
+L'extension **.db** est utilisée en tant que fichier binaire par osu! pour y enregistrer des informations variées, comme les paramètres d'une beatmap, les données d'un replay ou même les collections de beatmaps.
 
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
 
@@ -13,7 +13,7 @@ En ce moment, osu! utilise 4 fichiers .db: osu!.db, scores.db, collection.db et 
 Les types de données
 --------------------
 
-Pour faciliter la description des formats de chaque fichier .db, les noms des types données vont être utilisés. A part s'il est spécifié, tout ces données numériques sont des petit-boutiste. Les nombres entiers, tout comme les octets ne sont pas signés. Les caractères UTF-8 sont enregistrés dans leur forme canonique, les octets étant en priorité.
+Pour faciliter la description des formats de chaque fichier .db, les noms des types données vont être utilisés. À part s'il est spécifié, toutes ces données numériques sont des petit-boutistes. Les nombres entiers, tout comme les octets ne sont pas signés. Les caractères UTF-8 sont enregistrés dans leur forme canonique, les octets étant en priorité.
 
 | Nom (nom anglais) | Nombre d'octets | Description |
 | ---- | --------------- | ----------- |
@@ -30,7 +30,7 @@ Pour faciliter la description des formats de chaque fichier .db, les noms des ty
 osu!.db
 -------
 
-**osu!.db** contient en cache toutes les informations sur les beatmaps installées. Supprimer une beatmap va obliger à osu! de refaire entièrement ce fichier, qui peut aussi corriger des erreurs, comme des beatmaps ayant étés retirés du dossier Songs, mais auquel leur nom est restés visible. Sans surprise, nous savons que ce fichier occupe un rôle important sur la gestion des beatmaps et des données caches, osu!.db est le plus lourd des quatres.
+**osu!.db** contient en cache toutes les informations sur les beatmaps installées. Supprimer une beatmap va forcer osu! à refaire entièrement ce fichier, qui peut aussi corriger des erreurs, comme des beatmaps ayant été retirées du dossier Songs, mais auquel leur nom est resté visible. Sans surprise, nous savons que ce fichier occupe un rôle important sur la gestion des beatmaps et des données caches, osu!.db est le plus lourd des quatres.
 
 ### Format
 
@@ -50,7 +50,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Booléen (Boolean) | Est définit par false (faux) si votre compte à été banni ou à été restreint. |
 | Date (DateTime) | La date à laquelle le compte osu! ne sera plus restreint |
 | Chaîne de caractère (string) | Nom du joueur |
-| Entier (Int) | Nombre de beatmaps installés |
+| Entier (Int) | Nombre de beatmaps installées |
 | Beatmaps* (nom universel) | Données des beatmaps |
 | Entier (Int) | Utilisation inconnue, visiblement définie par 4 tout le temps |
 
@@ -132,12 +132,12 @@ Les prochains éléments vont être répétés pour chaque collection.
 | --------- | ----------- |
 | Chaîne de caractère (string) | Nom de la collection |
 | Entier (Int) | Nombre de beatmaps dans cette collection |
-| Chaîne de caractère* (String) | La beatmap cryptée en MD5. Répété pour chaque beatmap dans la collection. |
+| Chaîne de caractère* (String) | La beatmap chiffrée en MD5. Répété pour chaque beatmap dans la collection. |
 
 scores.db
 ---------
 
-Cette base de donnée contient tous les scores réalisés localement.
+Cette base de données contient tous les scores réalisés localement.
 
 ### Format du fichier scores.db
 

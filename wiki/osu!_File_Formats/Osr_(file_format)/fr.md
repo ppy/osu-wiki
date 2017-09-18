@@ -37,8 +37,8 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Court (short) | Combo maximum effectué lors du replay |
 | Octet (byte) | Combo parfait (le plus grand combo possible) [1 = oui (pas de miss ni de slider break ou de slider fini trop tôt); 0 = non] |
 | Entier (int) | Mods utilisés (voir en dessous pour plus d'infos) |
-| Chaîne de caractère (string) | Graphique de la barre de vie avec une liste séparés par des virgules de couple de valeurs: u|v, où u est le temps de la chanson en millisecondes et v la quantité de vie allant de 0 (minimum) et 1 (maximum) (nombre flottant). |
-| Long (long) | Horodatage (au format des objets DateTime de C#) |
+| Chaîne de caractère (string) | Graphique de la barre de vie: paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie que vous avez à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
+| Long | Horodatage ([ticks Windows](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Entier (int) | Taille en octets des données du replay compressé |
 | Tableau d'octets (byte array) | Données du replay compressées |
 | Long | Inconnu |
