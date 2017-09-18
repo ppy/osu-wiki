@@ -31,7 +31,7 @@ Pour être plus précis, la formule repose sur quatre valeurs principales, qui s
 
 Ces valeurs sont combinées à des magnitudes variantes pour produire un score global adapté à la difficulté de la beatmap, et le score de la performance sur ladite map.
 
-Les scores sont ensuite pesés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de _système de pesée_, et est un concept fondamental dans la mesure des points de performance.
+Les scores sont ensuite pondérés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de _système de pondération_, et est un concept fondamental dans la mesure des points de performance.
 
 Un petit nombre de pp vous est donné par rapport au nombre de beatmaps classées sur lesquels vous avez eu un score.
 
@@ -79,15 +79,15 @@ L'algorithme des points de performance varie beaucoup en fonction du mode de jeu
 
 Alors que les nombres exacts sont loin de la portée de cet article, certains modes de jeu prennent plus en compte certaines statistiques à cause de leur mécaniques.
 
-### Qu'est-ce que le « système de pesée » et comment affecte-t-il mon score ?
+### Qu'est-ce que le « système de pondération » et comment affecte-t-il mon score ?
 
-**Le système de pesée réfère au fait que tous vos scores sont comparés les uns aux autres en terme de performance globale.**
+**Le système de pondération réfère au fait que tous vos scores sont comparés les uns aux autres en terme de performance globale.**
 
 Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. Les autres scores avec un valeur en pp moins haute vous donneront graduellement moins de pourcentage de leurs pp.
 
 Pour donner un exemple avec une formule mathématique:
 
-_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la _i_ème valeur du score de pp, ordonnés de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
+_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la _i_ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
 
 ```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
 
@@ -99,7 +99,7 @@ Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_
 
 416.6667 \/ (1- 0.9994^_N_).
 
-Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectrum.
+Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
 
 
 FAQ
@@ -126,9 +126,9 @@ Prenez en compte les conseils suivants :
 
 ### Pourquoi je ne gagne pas le nombre de pp total qu'une map que j'ai joué ne vaut ?
 
-**Les points de performance utilisent une système de _pesée_, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
+**Les points de performance utilisent une système de _pondération_, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
 
-C'est expliqué en profondeur dans la section _système de pesée_ de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
+C'est expliqué en profondeur dans la section _système de pondération_ de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
 
 Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait _195 pp_.
 
@@ -136,19 +136,19 @@ Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meille
 
 Le second score ne vaudra que 95 % de ses pp totaux puisque ce n'est pas votre meilleur score, il ne vous donnera donc que 95pp et non pas 100.
 
-Maintenant, laissez-nous supposer que vous venez de faire un tout nouveau score valant 110pp. Votre top des scores devrait ressembler à ça:
+Maintenant, supposons que vous venez de faire un tout nouveau score valant 110pp. Votre top des scores devrait ressembler à ça:
 
-1. 110pp, pesant 100 % = 110
-2. 100pp, pesant 95 % = 95
-3. 100pp, pesant 90 % = 90
+1. 110pp, pondéré à 100 % = 110
+2. 100pp, pondéré à 95 % = 95
+3. 100pp, pondéré à 90 % = 90
 
-Comme vous pouvez le deviner, votre nouveau total de pp n'est pas simplement ``195 + 110 = 305 pp``, mais ``110 + 95 + 90 = 295 pp``.
+Comme vous le constater, votre nouveau total de pp n'est pas simplement ``195 + 110 = 305 pp``, mais ``110 + 95 + 90 = 295 pp``.
 
-Cela veut dire que puisque vous vous améliorez à osu!, votre total de pp augmentera, ce qui fera que vos anciens scores vaudront de moins en moins de pp comparés au nouveaux, et plus difficiles scores.
+Cela veut dire que puisque vous vous améliorez à osu!, votre total de pp augmentera, ce qui fera que vos anciens scores vaudront de moins en moins de pp comparés aux nouveaux et plus difficiles scores.
 
-#### Est-ce que le pesage des scores est la raison pour laquelle je n'ai pas de pp en jouant des maps faciles ?
+#### Est-ce que le pondération des scores est la raison pour laquelle je n'ai pas de pp en jouant des maps faciles ?
 
-**Comme dit ci-dessus, les anciens scores deviendront moins importants. Ce qui signifie qu'il ne contribueront quasiment rien à votre total de pp plus vous vous améliorerez.**
+**Comme dit ci-dessus, les anciens scores deviendront moins importants. Ce qui signifie qu'ils ne contribueront quasiment rien à votre total de pp plus vous vous améliorerez.**
 
 Cependant, vous devriez avoir fait des scores plus impressionnants, ce qui signifie que vos pp seront globalement plus hauts puisque vos meilleurs scores surpasseront en poids les plus anciens.
 
@@ -158,7 +158,7 @@ Cependant, vous devriez avoir fait des scores plus impressionnants, ce qui signi
 
 Le score total est toujours important pour le classement des maps, et cela peut produire des circonstances inhabituelles où un meilleur score avec un moins bonne précision ou l'utilisation d'un mod produira un «meilleur» résultat qui vous fera perdre des pp.
 
-### Certains mods me semblent trop/pas assez peser. Pourquoi ?
+### Certains mods me semblent déséquilibrés. Pourquoi ?
 
 **C'est une question d'opinion plus qu'autre chose.**
 
