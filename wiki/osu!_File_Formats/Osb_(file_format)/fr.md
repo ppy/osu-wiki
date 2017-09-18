@@ -1,4 +1,4 @@
-.osb (extension)
+.osb (format de fichier)
 ==================
 
 L'extension **.osb** est utilisée pour contenir les informations du [storyboard](/wiki/Storyboards) comme le déplacement d'élément ou les effets qui lui sont attribués, mais les éléments ne sont **pas** contenus dans un fichier **.osb**.
