@@ -206,15 +206,15 @@ Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = s
 
 Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
 
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour hitobject."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
+*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hitobject."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
 
 0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
 
-*customIndex (Integer)* est l'index de l'ensemble de sample personnalisé, par exemple 3 pour `normal-3.wav`. *sampleVolume (Integer)* est le volume du sample, 0-100 (pourcentage). *filename (String)* définit le fichier audio à jouer à la place de celui de l'ensemble de sample.
+*customIndex (Integer)* est l'index de l'ensemble de sample personnalisés, par exemple 3 pour `normal-3.wav`. *sampleVolume (Integer)* est le volume du sample, 0-100 (pourcentage). *filename (String)* définit le fichier audio à jouer à la place de celui de l'ensemble de sample.
 
 **Syntaxe du Slider:**
 
-Un slider crée des droplets dans osu!catch, des roulement jaune dans osu!taiko, mais n'apparaît pas dans osu!mania.
+Un slider crée des droplets dans osu!catch, des roulements jaune dans osu!taiko, mais n'apparaît pas dans osu!mania.
 
 `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
 
@@ -224,7 +224,7 @@ Un slider crée des droplets dans osu!catch, des roulement jaune dans osu!taiko,
 
 *hitSound* s'applique au corps du slider, mais seulement le son whistle se jouera durant le corps du slider.
 
-*sliderType* sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). A slider created in the editor with onlyUn slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
+*sliderType* sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). Un slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
 
 *curvePoints (x:y|...)* est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Le spoints rouges apparaîssent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
 
@@ -236,7 +236,7 @@ Un slider crée des droplets dans osu!catch, des roulement jaune dans osu!taiko,
 
 *edgeAdditions (sampleSet:additions|...)* est une liste de ensemble de sample séparés par des `|` pour s'appliquer aux cercles du slider. *sampleSet* et *additions* sont les même que le champ *addition* du hit circle.
 
-*addition* définit un ensemble de sample samplesets à utiliser pour le corps du slider. Il fonctionne comme *addition* pour un cercle.
+*addition* définit un ensemble de sample à utiliser pour le corps du slider. Il fonctionne comme *addition* pour un cercle.
 
 **Syntaxe du Spinner:**
 
