@@ -8,62 +8,79 @@
 [Yf]: /wiki/shared/Insane-f.png "Yes"
 [Ym]: /wiki/shared/Insane-m.png "Yes"
 
-Beatmap Nomination Group
-========================
+Beatmap Nominators
+==================
 
-The **Beatmap Nomination Group**, more commonly referred to as the BNG, is a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are commonly referred to as Beatmap Nominators, or BNs.
-This group has undergone many changes recently.
-As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
-The most recent change was on 01. February 2015 when the team was changed from *Beatmap Appreciation Team* to *Beatmap Nominator Group*.
+The **Beatmap Nominators** are a group in charge of [beatmap nomination](/wiki/Submissions/Beatmap_Ranking_Procedure). Individual members are sometimes referred to by the acronym *BN*.
+
+Formerly, they were considered as part of the volunteer moderation team. On the 22nd of August, 2014, they were split from their moderation duties to focus completely on the modding and ranking process.
+
+The Beatmap Nominators is split into two tiers based on their level of proven expertise. These two tiers have different privileges and responsibilities.
+
+At the moment, **only the osu!standard Beatmap Nominators are split according to tiers.** Other gamemodes will receive their tier splits at a later date.
 
 Roles and Responsibilities
 --------------------------
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
-Members of the **Beatmap Nomination Group** are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle.
+The Beatmap Nominators are responsible primarily for [modding](/wiki/modding) the [pending beatmaps](/wiki/Beatmaps/#pending) into the ranking cycle.
+
 BNs are the people to go to for any modding or advice requests about anything mapping or modding related.
+
+In modes that have not yet had a tier split (osu!taiko, osu!catch, osu!mania), the BN are responsible for both bubbling and qualifying maps.
+
+Otherwise:
+
+Tier 1 or 'beginner' BN can only bubble maps, but may not qualify them.
+
+Tier 2 or 'advanced' BN have proven experience and expertise with their given gamemodes, and may qualify maps as well as bubble them.
 
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team on 22. August 2014, joining the Beatmap Nomination Group is now a lot easier than it used to be in the past.
-The [Quality Assurance Team](https://osu.ppy.sh/g/7) will post an announcement for Beatmap Nominator Sign-ups to the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) in irregular intervals.
+Applications to join the Beatmap Nominators open periodically in irregular cycles. When applications are open, a topic will be sticked to the top of the [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) announcing the process by a member of the [Quality Assurance Team](https://osu.ppy.sh/g/7)
 
-### Basic Criteria
+### What do I need to become a Beatmap Nominator?
+
 Modders that aim to apply to the Beatmap Nominators must fulfill the following criteria:
 + They have been modding beatmaps actively for at least 3 months prior to the announcement.
-+ They have accumulated at least 50 [Kudosu](/wiki/Glossary/#kudosu) in total.
-+ They provide 3 to 5 of their mods which they think qualify them to be a part of the Beatmap Nominators.
++ They have accumulated at least 50 [kudosu](/wiki/Glossary/#kudosu) in total.
++ They must have met a minimum mod and kudosu score threshold for the past few months. This is explained further below.
++ They must collect 3 to 5 mod posts that they believe outline their skill and proficiency at modding to present to the QAT during the application process.
 
-### What Qualifies as a Mod Post
-+ Upon signing up you will be asked to provide the total amount of Kudosu as well as the amount of mod posts within the last 3 months, sorted by month upon signing up. So if the announcement is posted in April the mod posts for January, February and March will be relevant. The relevant months will also be listed on the submission form.
-+ A mod post qualifies as one if it has received a Kudosu and has been created within the time span listed on the submission form.
-+ The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
-+ The point in time at which the Kudosu has been awarded to you mod post does not matter, the only relevant information about a mod post is its post date and time in UTC+0 as well as the fact that it has been awarded Kudosu.
+### What exactly qualifies as a 'mod post'?
 
-### How the Required Minimum Score is Calculated
-+ This depends on the total `Kudosu Score` and the total `Mod Score` an applicant achieved over the last months. A mathematical formula is used to determine these values.
-+ `Kudosu Score` is determined according to the following formula:
+Any post in a beatmap's thread qualifies as a 'mod post' if it has received kudosu, and has been created within the time span listed on the submission form.
 
-![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Score Formula")
+### What is mod and kudosu score, and how is the minimum threshold calculated?
 
-+ `Mod Score` per month is determined according to the following formula:
+In order to determine their minimum required score, an applicant needs to summarise both their kudosu score and their mod for the three month period that encompasses each application window.
+
+A mathematical formula is used to determine both kudosu and mod score.
+
+Kudosu score is determined according to the following formula:
+
+![Image of the Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Score Formula")
+
+Mod score per month is determined according to the following formula:
 
 ![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Score Formula")
 
-+ In order to determine their `Required Minimum Score`, an applicant needs to summarise their `Kudosu Score` and their `Mod Score` for month one, two and three.
 + The overall minimum threshold is set to the following values:
   + osu!taiko, osu!catch and osu!mania: 1050
   + osu!: 1100
-+ It is usually a good idea to keep their score well above these numbers as they can vary slightly depending on the amount of applicants.
+
+It is usually a good idea to keep your score well above these numbers as they can vary slightly depending on the amount of applicants.
 
 Team Members
 ------------
 
-_Please note: All BNs speak English unless otherwise noted._ Link to [user group page](https://osu.ppy.sh/g/28).
+_Link to [list of BNs](https://osu.ppy.sh/groups/28)._
 
-Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
+Notes:
++ All BNs speak English unless otherwise noted.
++ Also note: the game modes columns listed denotes which game mode(s) the user would focus more at, but are not forcibly subject to that game mode(s).
 
 | Name                                              | osu!       | osu!taiko  | osu!catch  | osu!mania  | Additional Languages     |
 |---------------------------------------------------|:----------:|:----------:|:----------:|:----------:|--------------------------|
@@ -144,3 +161,8 @@ Also note: the game modes columns listed denotes which game mode(s) the user wou
 | [YaHao](https://osu.ppy.sh/u/2633753)             | ![No][Ns]  | ![No][Nt]  | ![No][Nf]  | ![Yes][Ym] | Chinese                  |
 | [Zero__Wind](https://osu.ppy.sh/u/1822830)        | ![Yes][Ys] | ![No][Nt]  | ![No][Nf]  | ![No][Nm]  | Cantonese, Chinese       |
 | [ZiRoX](https://osu.ppy.sh/u/200768)              | ![No][Ns]  | ![No][Nt]  | ![Yes][Yf] | ![No][Nm]  | Spanish                  |
+
+## Trivia
+
+- As of 22. August 2014, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums.
+- As of 01. February 2015, the team name was changed from *Beatmap Appreciation Team* (BAT) to *Beatmap Nominators*.
