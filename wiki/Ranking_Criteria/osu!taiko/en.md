@@ -3,7 +3,7 @@ osu!taiko
 
 _Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-These rules and guidelines has been discussed in the [Ranking Criteria](https://osu.ppy.sh/community/forums/87). New rules or guidelines may be suggested in the there and the criteria here will be updated once that discussion reaches an agreement.
+These rules and guidelines have been discussed in the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). New rules or guidelines may be suggested in that forum and the criteria on this page will be updated once that discussion reaches an agreement.
 
 Glossary
 --------------
@@ -20,8 +20,8 @@ Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for al
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
 ### Gameplay elements
-- **Don / Red Note:** A beat that can be hit with any of the Drum Center attached keys (default X, C)
-- **Kat / Blue Note:** A beat that can be hit with any of the Drum Rim attached keys (default Z, V)
+- **Don / Red Note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
+- **Kat / Blue Note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
 - **Big Don / Big Red Note / Finisher Note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
 - **Big Kat / Big Blue Note / Finisher Note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
 - **BPM:** An acronym for “beats per minute” used to determine the tempo of a song.
