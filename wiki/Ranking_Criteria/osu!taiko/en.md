@@ -63,13 +63,13 @@ Guidelines may be violated under **exceptional** circumstances. These exceptiona
 - **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings or through rest moments.
 - **Kiai time should be only used for the chorus or emphasized parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
 - **The base slider velocity should be 1.40 throughout all difficulties of a mapset.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
-- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/4 as its main snapping, use tickrate 3 to snap the drumroll ticks to 1/3.
+- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tickrate 3 to snap the drumroll ticks to 1/3.
 - **Avoid following multiple layers of the song if it is unclear which rhythm is being prioritized.** Players should be able to discern what part of the song is being followed.
-- **Use silent spinners sparingly and only when it suits a low volume section of a song.**
+- **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hit sound feedback on spinners is highly recommended.
 - **Songs with variable BPM may use frequent slider velocity changes in order to keep the scrolling speed at which notes move approximately constant.** Doing this will make the timeline gaps between notes easily predictable and enhance gameplay experience by avoiding overlaps due to BPM changes.
 - **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **If custom hitsounds are in use, they should be drum-related.** Heavier/lower tones should be set as don and a lighter/higher tones should be set as kat.
+- **If custom hit sounds are in use, they should be drum-related.** Heavier/lower tones should be set as don and a lighter/higher tones should be set as kat.
 
 ## Difficulty-specific
 
