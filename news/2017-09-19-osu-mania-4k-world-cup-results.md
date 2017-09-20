@@ -30,15 +30,15 @@ Team captain [jakads](https://osu.ppy.sh/users/259972) returns again to lead Sou
 
 South Korea takes home the grand prize - $150 per team member, exclusive osu! pins and merchandise, a unique profile badge, and the highly coveted "osu!mania Champion" user title for one year! Many congratulations to them!
 
-**Stepping up their game from last year, team United States will confidently take 2nd place.** 
+**Stepping up their game from last year, team United States takes 2nd place.** 
 
-Blah
+With a mix of new and returning players, the United States team proved to be much more well-rounded this year. Veteran player [Zyph](https://osu.ppy.sh/users/1600432) steps up to the role of team captain for his first time ever, and has done an excellent job in keeping the team together. This newfound balance definitely proved to be a key factor in their outstanding performance. 
 
 The United States will receive $80 per team member, along with exclusive osu! pins and merchandise, and a unique profile badge. Congratulations to them!
 
 **Even with the internet conspiring against them, Brazil proudly walks home with the bronze.** 
 
-Blah
+a
 
 Brazil will receive $40 per team member, as well as exclusive osu! pins and merchandise, and a unique profile badge. Well done to them!
 
