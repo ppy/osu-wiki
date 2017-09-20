@@ -52,7 +52,7 @@ In celebration of the success of this tournament, let's briefly recount the even
 
 *I guess the only thing that was a bit disconcerting was the slight lack of speed picks and the recurring bans on the same maps, but a tiebreaker match more than made up for that (considering it has never happened before!). Overall, it's been a pleasure to have taken part in the map selecting process."*
 
-### Tournament Matches 
+### <a name="matches" id="matchesl"></a>Tournament Matches:
 
 **Week 1**
 
