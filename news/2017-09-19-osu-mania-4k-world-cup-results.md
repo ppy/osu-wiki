@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup - Results"
-date: 2017-09-19 14:00:00 +0000
+date: 2017-09-21 00:01:00 +0000
 ---
 
 At long last, we've finally reached the end of the osu!mania 4K World Cup! Here's to another year of keysmashing, as we dive right into the thrilling conclusion!
@@ -22,7 +22,7 @@ Let's not wait any longer - it's time to announce the results of the osu!mania 4
 
 ## <a name="results" id="results"></a>Results
 
-![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/podium.jpg)
+![](/wiki/shared/news/2017-09-21-osu-mania-4k-world-cup-results/podium.jpg)
 
 **With a nearly flawless winning streak, team South Korea are crowned the osu!mania 4K World Cup 2017 Champions!**
 
@@ -66,15 +66,17 @@ In celebration of the success of this tournament, let's briefly recount the even
 
 The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. Twitch chat exploded to a whole new level as they prayed for [Guilhermeziat's](https://osu.ppy.sh/users/3661387) internet when his connection began to falter. Those prayers did not go unanswered, but alas it was not enough, as ultimately it would be the United States who emerged victorious with a score difference of only *8,368*. This match could not have gone closer. 
 
-![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
+![](/wiki/shared/news/2017-09-121-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
 
  And now we're down to the final two teams!
+ 
+ --------
  
 **Week 2**
 
 **The final match of the tournament saw the rematch between the United States and South Korea.** After their convincing victory over the United States last week, coupled with the fact that they needed to lose twice, it was almost inevitable that South Korea would be crowned champion once more. The United States definitely gave it their all, but the rest as you know is history. Nevertheless, the final match of the tournament was still a visual spetacle - a satisfying conclusion to this breathtaking journey for sure.
 
-![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/UnitedStatesSouthKorea_game2.jpg)
+![](/wiki/shared/news/2017-09-21-osu-mania-4k-world-cup-results/UnitedStatesSouthKorea_game2.jpg)
 
 --------
 
