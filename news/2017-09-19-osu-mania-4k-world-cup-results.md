@@ -36,9 +36,9 @@ With a mix of new and returning players, the United States team proved to be muc
 
 The United States will receive $80 per team member, along with exclusive osu! pins and merchandise, and a unique profile badge. Congratulations to them!
 
-**Even with the internet conspiring against them, Brazil proudly walks home with the bronze.** 
+**Even with the internet conspiring against them, team Brazil proudly walks home with the bronze.** 
 
-a
+Brazil was also a team that consisted of new and old blood, resulting in an overall improvement from last year. Unfortunately, some of the players were plagued by connection issues throughout the tournament, which led to some losses that were uncalled for. In spite of this, team captain [andreymyc](https://osu.ppy.sh/users/5691061) was able to keep team spirits high, and managed to secure a seat at the podium. Definitely worthy of 3rd place this year.
 
 Brazil will receive $40 per team member, as well as exclusive osu! pins and merchandise, and a unique profile badge. Well done to them!
 
@@ -56,19 +56,23 @@ In celebration of the success of this tournament, let's briefly recount the even
 
 **Week 1**
 
-**The first two matches initially saw very dominant performances from Japan and Brazil.** Taking place in the Losers Bracket, both teams eliminated Chile and the United Kingdom respectively, securing victory at 6 - 0 without too much trouble. Now only four teams remained.
+**The first two matches initially saw very dominant performances from Japan and Brazil.** Taking place in the Losers Bracket, both teams eliminated Chile and the United Kingdom respectively, securing their win at 6 - 0 without too much trouble. 4 teams left.
 
 **The Winners Bracket match saw South Korea face off against the United States, which also ended up in a 6 - 0 victory.** The United States definitely put up a good fight, but the difference in skill was simply too great. South Korea won every point by a significant margin, knocking the US to the Losers Bracket.
 
-**The winners of the first two matches then faced each other, ending up in a 6 - 1 win in favour of Brazil.** 
+**The winners of the first two matches then faced each other, ending up in a 6 - 1 win in favour of Brazil.** Brazil started off strongly, winning 3 points in quick succession. Japan saw a brief respite on their own 2nd pick, but Brazil doubled the pressure in repsonse, securing their eventual victory. 3 teams left.
 
-**The final match of the week was 
+**The final match of the week ended in a tiebreaker, a first in osu!mania 4K World Cup Finals history!** The match saw a fateful encounter between Brazil and the United States, a rematch from exactly one year ago. Would the results play out any differently this year round? Brazil was the first to pick, and after a series of close calls (including a disconnect and someone accidentally hitting the Windows key??), it was not long before the match reached 5 - 5. 
+
+The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. Twitch chat exploded to a whole new level as they prayed for [Guilhermeziat's](https://osu.ppy.sh/users/3661387) internet when his connection began to falter. Those prayers did not go unanswered, but alas it was not enough, as ultimately it would be the United States who emerged victorious with a score difference of only *8,368*. This match could not have gone closer. 
 
 ![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
 
+ And now we're down to the final two teams!
+ 
 **Week 2**
 
-**The final match of the tournament saw the rematch between the United States and South Korea.** After such a dominant performance , it seemed The rest as you know, is history. Nevertheless, this final match was still .
+**The final match of the tournament saw the rematch between the United States and South Korea.** After their convincing victory over the United States last week, coupled with the fact that they needed to lose twice, it was almost inevitable that South Korea would be crowned champion once more. The United States definitely gave it their all, but the rest as you know is history. Nevertheless, the final match of the tournament was still a visual spetacle - a satisfying conclusion to this breathtaking journey for sure.
 
 ![](/wiki/shared/news/2017-09-19-osu-mania-4k-world-cup-results/UnitedStatesSouthKorea_game2.jpg)
 
