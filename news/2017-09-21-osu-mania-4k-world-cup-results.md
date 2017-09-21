@@ -66,7 +66,7 @@ In celebration of the success of this tournament, let's briefly recount the even
 
 The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. Twitch chat exploded to a whole new level as they prayed for [Guilhermeziat's](https://osu.ppy.sh/users/3661387) internet when his connection began to falter. Those prayers did not go unanswered, but alas it was not enough, as ultimately it would be the United States who emerged victorious with a score difference of only *8,368*. This match could not have gone closer. 
 
-![](/wiki/shared/news/2017-09-121-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
+![](/wiki/shared/news/2017-09-21-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
 
  And now we're down to the final two teams!
  
