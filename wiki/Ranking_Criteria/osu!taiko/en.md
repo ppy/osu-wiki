@@ -15,7 +15,7 @@ Glossary
 - ![Oni](/wiki/shared/Insane-t.png "Oni") **Oni:** Insane
 - ![Inner/Ura Oni](/wiki/shared/Expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
 
-Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming methods.
+Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming conventions.
 
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
@@ -42,7 +42,7 @@ The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier tha
 
 ### Rules
 
-All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
+All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstance.
 
 - **Each note must have its color clearly distinguishable from the previous and upcoming notes.**
 - **Every note must be clearly assignable to a musical layer or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
