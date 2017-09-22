@@ -4,28 +4,29 @@ Welcome to _osu!_, a free-to-win rhythm game—developed by peppy—with four ga
 
 ## Current events
 
-<!--There are no active events within the osu! community.-->
+<!--There are currently no active events within the osu! community at this time.-->
 - [Aspire Stage Three: osu!catch Begins](https://osu.ppy.sh/home/news/2017-09-21-aspire-stage-three-osucatch-begins)
 - [osu!idol 2017 Auditions Now Open](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
-- [osu!mania 4K World Cup 2017 (osu!wiki)](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017/4K)
+- [osu!mania 4K World Cup 2017 (osu!wiki)](/wiki/Tournaments/MWC/2017/4K)
 
 ## Beatmapping and modding process
 
 _See also: [Beatmapping](/wiki/Beatmapping/#getting-started) and [Modding](/wiki/Modding/#getting-started)._
 
-Beatmapping and modding is a primary ecoflow of how osu! works. Beatmapping requires a creator to map out a beatmap; to which, it can then be modded by a modder.
+Beatmapping is the process where a creator maps out a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap; and could include: adding a video, [storyboarding](/wiki/storyboarding/#getting-started), and/or [skinning](/wiki/skinning/#getting-started). All of those can by done by yourself or with other users, sometimes refered to _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
 
-There are many pieces of beatmapping, such as adding a video, [storyboarding](/wiki/storyboarding/#getting-started), [skinning](/wiki/skinning/#getting-started), testing the beatmap, and actually mapping the beatmap. All of these can by done by yourself or other creators, sometimes refered to storyboarders and skinners respectively.
+Modding is the process where users review (or commonly called "mod") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quailty control because this allows creators to fix issues with their beatmap.
 
 ## osu!wiki - How you can help!
 
-Since 26. August 2016, the osu!wiki is now a GitHub repository (rather than MediaWiki). There are many factors for this to occur but notably, the workflow of the osu!wiki has dramatically changed. All contributions will now go through the osu-wiki GitHub repository and will be reviewed before actually becoming part of the osu!wiki. In this state, contributing to the osu!wiki will require more time and slightly more effort to make your changes actually happen.
+Since 26. August 2016, the osu!wiki had moved to a GitHub repository. After this change, the workflow of the osu!wiki has dramatically changed. All contributions will now go through the osu-wiki GitHub repository and will be reviewed before becoming part of the osu!wiki. At this time, contributing to the osu!wiki will require more time and slightly more effort to make your changes actually happen.
 
-To get started, see the [osu!wiki Contribution Guide](/wiki/osu!wiki_Contribution_Guide).
+To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
 
 ## Common points of interest
 
-- [osu!standard](/wiki/osu!standard/#getting-started)
-- [osu!taiko](/wiki/osu!taiko/#getting-started)
-- [osu!catch](/wiki/osu!catch/#getting-started)
-- [osu!mania](/wiki/osu!mania/#getting-started)
+- Game Modes
+  - [osu!standard](/wiki/osu!standard/#getting-started)
+  - [osu!taiko](/wiki/osu!taiko/#getting-started)
+  - [osu!catch](/wiki/osu!catch/#getting-started)
+  - [osu!mania](/wiki/osu!mania/#getting-started)
