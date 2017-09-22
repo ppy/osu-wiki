@@ -10,7 +10,7 @@ It’s a big month for the Spotlights, with shiny new medals for finishing each 
 
 That’s right, **Spotlight medals are now in the game and achievable by everyone.** If you’ve finished a beatmap pack or Spotlight in the past, simply play any map from that set again to get any applicable medals for it. All of 2017’s Spotlights have shiny new medals for you to collect, so get cracking!
 
-With that said, the beatmap charts for July and August can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1707). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
+With that said, the beatmap charts for July and August can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH17078). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
 
 ## What are Spotlights?
