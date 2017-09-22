@@ -4,7 +4,7 @@ title: "Mapping With Rewards Returns"
 date: 2017-09-15 12:00:00 +0000
 ---
 
-New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!supporter, custom profile badges, and your submission earning a special spot in the game!
+New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!supporter, custom profile badges to your submission earning a special spot in the game!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -16,13 +16,13 @@ With its return, Mapping With Rewards' simple premise now covers **all** gamemod
 
 ## How does this all work?
 
-It's super simple. We put out some songs, and from the moment this announcement goes live, all of these songs now have a *bounty* on them.
+It's very simple. We post post an announcement listing some songs, and from the moment it goes live, all of these songs have a *bounty* on them.
 
-Any beatmap sets for those particular songs that are finished and ready for ranking within the conditions listed below can claim that bounty and enter the judging phase.
+Any beatmap sets for this contest that are finished and ready for ranking within the conditions listed below are eligible to claim the bounty and enter the judging phase.
 
 All that you need to do to flag your map as ready is to upload one version of it via the **[contest system](https://osu.ppy.sh/community/contests/52).** You're also free to upload the map via the **[Beatmap Submission System](/wiki/Submission)** and give ranking the mapset a shot while the contest is running. When entry collection kicks in we will take the latest updated versions of the submitted entries where available. 
 
-If your entry is judged to be the best set among all those offered, the map is declared the winner for that particular gamemode and you get to claim the bounty on the song.
+If your entry is judged to be the best set among all those offered, the map is declared the winner for that its respective gamemode and you get to claim the bounty on the song.
 
 With that out of the way let's get to the main part of this post: songs, bounties and conditions for claiming them!
 
@@ -60,7 +60,7 @@ With that out of the way let's get to the main part of this post: songs, bountie
 ## Bounty
 The bounty is claimable **once per gamemode per song** - for the sake of simplicity all of osu!mania's keycounts are treated as one gamemode.
 
-If your submission is judged to be the best map of the lot, here's the bounty we set on this contest:
+This is the bounty set on this contest:
 
 - 6 months of osu!supporter for you or your friends
 - Unique, mode specific Mapping With Rewards 2017 profile badge
@@ -68,8 +68,10 @@ If your submission is judged to be the best map of the lot, here's the bounty we
 - Winning entries will receive special placement on osu! granting more visibility than normal mapsets
 
 ## Conditions
-- **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** The beatmap sets may also be submitted via the [Beatmap Submission System](/wiki/Submission), modded on the page and even reach Ranked status while this contest is running. You can submit multiple entries on this page if you wish to enter into more than one song. Maps only uploaded via the Beatmap Submission System will not be considered.
-- **Entries may be submitted until 31. December 2017.**  
+- **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** Maps only uploaded via the Beatmap Submission System will not be considered. 
+- You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song. 
+- It is allowed to submit the beatmap sets may also be submitted to the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running. 
+- **Entries may be submitted until 31. December 2017 UTC+0.**  
 - **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition through minor changes.
 - **Custom hitsound samples cannot be used.** 
 - **Collaborations are not allowed because we aim for coherent sets**.
@@ -78,6 +80,6 @@ If your submission is judged to be the best map of the lot, here's the bounty we
 - **If a short version of a song is offered, mapping the full version will lead to a slight bonus in judging.**
 - **The bounty is only awarded to maps that use the versions of the song announced in this post.** Other versions, cuts, or remixes do not count.
 
-By they way, if you're a proficient mapper or modder and aren't considering participating in this contest, why not help out judging? If you're interested and think you're capable, make yourself be known by replying to the **[Judging Call](https://osu.ppy.sh/community/forums/topics/642801)** for this contest!
+By they way, if you're a proficient mapper or modder and aren't considering participating in this contest, why not help out with judging? If you're interested and think you're capable, make yourself be known by replying to the **[Judging Call](https://osu.ppy.sh/community/forums/topics/642801)** for this contest!
 
 —Okorin
