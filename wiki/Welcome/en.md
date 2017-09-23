@@ -29,9 +29,10 @@ To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
 
 - [Registration](/wiki/Registration)
 - [Installation](/wiki/Installation)
+- [Rules](/wiki/Rules)
 - Game Modes
   - [osu!standard](/wiki/osu!standard/#getting-started)
   - [osu!taiko](/wiki/osu!taiko/#getting-started)
   - [osu!catch](/wiki/osu!catch/#getting-started)
   - [osu!mania](/wiki/osu!mania/#getting-started)
-- [Game Modifiers](/wiki/Game_Modifers/#getting-started)
+- [Multi](/wiki/Multi/#getting-started)
