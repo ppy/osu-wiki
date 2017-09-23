@@ -5,16 +5,16 @@ Welcome to _osu!_, a free-to-win rhythm game—developed by peppy—with four ga
 ## Current events
 
 <!--There are currently no active events within the osu! community at this time.-->
-- [Aspire Stage Three: osu!catch Begins](https://osu.ppy.sh/home/news/2017-09-21-aspire-stage-three-osucatch-begins)
-- [osu!idol 2017 Auditions Now Open](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
-- [osu!mania 4K World Cup 2017 (osu!wiki)](/wiki/Tournaments/MWC/2017/4K)
+- [Aspire Stage Three](https://osu.ppy.sh/home/news/2017-09-21-aspire-stage-three-osucatch-begins)
+- [osu!idol 2017 (Auditions)](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
+- [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K)
 - [Yuzu's New Look Contest](https://osu.ppy.sh/home/news/2017-08-21-yuzus-new-look-contest)
 
 ## Ranking process
 
 _See also: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)._
 
-The ranking process of a beatmap consists of [beatmapping](/wiki/beatmapping/#getting-started) and [modding](/wiki/modding/#getting-started).
+The ranking process of a beatmap (a difficulty that the player can play) consists of [beatmapping](/wiki/beatmapping/#getting-started) and [modding](/wiki/modding/#getting-started).
 
 Beatmapping is the process where a creator creates a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap; and could include: adding a video, [storyboarding](/wiki/storyboarding/#getting-started), and/or [skinning](/wiki/skinning/#getting-started). All of those can be done by yourself or with other users, sometimes referred to _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
 
@@ -28,8 +28,11 @@ To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
 
 ## Common points of interest
 
+- [Registration](/wiki/Registration)
+- [Installation](/wiki/Installation)
 - Game Modes
   - [osu!standard](/wiki/osu!standard/#getting-started)
   - [osu!taiko](/wiki/osu!taiko/#getting-started)
   - [osu!catch](/wiki/osu!catch/#getting-started)
   - [osu!mania](/wiki/osu!mania/#getting-started)
+- [Game Modifiers](/wiki/Game_Modifers/#getting-started)
