@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Mapping With Rewards Returns"
-date: 2017-09-15 12:00:00 +0000
+date: 2017-09-23 12:00:00 +0000
 ---
 
 New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!supporter, custom profile badges to your submission earning a special spot in the game!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
+
+This article was posted in a similar fashion before, but we modified the conditions of the contest to make them more clear, and streamlined submissions by using the contest system!
 
 **Mapping With Rewards** is a more open-ended approach to mapping contests first floated in [September of 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) with a simple premise: we offer a bounty for the best beatmap set of a [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song, and a big timeframe to complete it in. 
 
@@ -71,7 +73,7 @@ This is the bounty set on this contest:
 - **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** Maps only uploaded via the Beatmap Submission System will not be considered. 
 - You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song. 
 - It is allowed to submit the beatmap sets may also be submitted to the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running. 
-- **Entries may be submitted until 31. December 2017 UTC+0.**  
+- **Entries may be submitted until 31st December 2017 UTC+0.**  
 - **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition through minor changes.
 - **Custom hitsound samples cannot be used.** 
 - **Collaborations are not allowed because we aim for coherent sets**.
