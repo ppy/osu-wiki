@@ -38,6 +38,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | [Kobold84](https://osu.ppy.sh/u/3227533) | 러시아어 | 채팅 중재 |
 | [Kurai](https://osu.ppy.sh/u/77089) | 프랑스어, 러시아어 | 채팅 중재 |
 | [Kyubey](https://osu.ppy.sh/u/2195646) | 러시아어 | 채팅 중재 |
+| [Lassikko](https://osu.ppy.sh/u/7253731) | 핀란드어 | 채팅 중재 |
 | [Marcin](https://osu.ppy.sh/u/722665) | 폴란드어 | 포럼 중재, 개발 |
 | [MrSergio](https://osu.ppy.sh/u/2581696) | 이탈리아어 | 채팅 중재 |
 | [n0ah](https://osu.ppy.sh/u/3086393) | 네덜란드어 | 채팅 중재, 포럼 중재 |
@@ -45,7 +46,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | [Neil Watts](https://osu.ppy.sh/u/3048059) | 프랑스어 | 채팅 중재 |
 | [Nyquill](https://osu.ppy.sh/u/682935) | 중국어 | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | 채팅 중재, 기술 지원 |
-| [Pereira006](https://osu.ppy.sh/u/537344) | 포르투갈어 | 채팅 중재 |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | 네덜란드어 | 채팅 중재 |
 | [Repflez](https://osu.ppy.sh/u/201392) | 스페인어 | 채팅 중재, 위키 관리 |
 | [ruexia](https://osu.ppy.sh/u/385069) | 한국어 | 채팅 중재 |
@@ -53,13 +53,11 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | [Saten](https://osu.ppy.sh/u/444506) | 스웨덴어, 스페인어 | 채팅 중재 |
 | [shARPII](https://osu.ppy.sh/u/776257) | 프랑스어 | 채팅 중재, 대회 |
 | [Shiro](https://osu.ppy.sh/u/113005) | 프랑스어, 스페인어 | 채팅 중재 |
-| [Shockwave](https://osu.ppy.sh/u/251631) | 스페인어 | 채팅 중재 |
 | [Shurelia](https://osu.ppy.sh/u/3807986) | 인도네시아어 | 채팅 중재 |
 | [Spkz](https://osu.ppy.sh/u/2964029) | 헝가리어 | 채팅 중재 |
 | [Stefan](https://osu.ppy.sh/u/626907) | 독일어 | 채팅 중재, 포럼 중재 |
 | [Sylphi](https://osu.ppy.sh/u/1399551) | 한국어 | 채팅 중재 |
 | [Tasha](https://osu.ppy.sh/u/1031958) | | osu!media 제작 |
-| [TheVileOne](https://osu.ppy.sh/u/278862) | | 기술 지원 |
 | [ToGlette](https://osu.ppy.sh/u/1076236)| 한국어, 일본어 | 채팅 중재 |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | 스페인어 | 기술 지원 |
 | [Ukami](https://osu.ppy.sh/u/820865) | 폴란드어 | 채팅 중재 |
