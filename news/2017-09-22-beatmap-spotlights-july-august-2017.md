@@ -38,7 +38,7 @@ A marathon difficulty which happens to be under 4 stars and is mapped with the d
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/zauberkugel.jpg)](https://osu.ppy.sh/s/554892)
 
-Yet again. **[pishifat](https://osu.ppy.sh/u/3178418)** manages to impress the community with a map in this month's spotlights. Zaberkugel heavily focuses on slider speed changes as the song progresses. Combining with creative slider arrangements and great gameplay overall make this one a must-play!
+Yet again. **[pishifat](https://osu.ppy.sh/u/3178418)** manages to impress the community with a map in this month's spotlights. Zauberkugel heavily focuses on slider speed changes as the song progresses. Those, combined with creative slider arrangements and great gameplay makes this a must-play!
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sayonara-heaven.jpg)](https://osu.ppy.sh/s/516995)
 
