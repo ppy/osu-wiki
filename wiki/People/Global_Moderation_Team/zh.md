@@ -50,7 +50,7 @@ Global Moderation Team (中文)
 | [Nyquill](https://osu.ppy.sh/u/682935) | 中文 | osu!weekly |
 | [Pawsu](https://osu.ppy.sh/u/2371454) |  | 聊天室管理, 技术支持 |
 | [Pittigbassje](https://osu.ppy.sh/u/2167433) | 荷兰语 | 聊天室管理 |
-| [Repflez](https://osu.ppy.sh/u/201392) | 西班牙语 | 聊天室管理, Wiki 管理 |
+| [Repflez](https://osu.ppy.sh/u/201392) | 西班牙语 | 聊天室管理, wiki 管理 |
 | [ruexia](https://osu.ppy.sh/u/385069) | 韩语 | 聊天室管理 |
 | [S o h](https://osu.ppy.sh/u/2234772) | 日语 | 聊天室管理 |
 | [Saten](https://osu.ppy.sh/u/444506) | 瑞典语, 西班牙语 | 聊天室管理 |
