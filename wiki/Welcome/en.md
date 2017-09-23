@@ -13,15 +13,15 @@ Welcome to _osu!_, a free-to-win rhythm game developed by peppy with four game m
 
 _See also: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)._
 
-The ranking process of a beatmap (a difficulty that the player can play) consists of [beatmapping](/wiki/beatmapping/#getting-started) and [modding](/wiki/modding/#getting-started).
+The ranking process of a beatmap (the difficulty of a song that the player can play) consists of [beatmapping](/wiki/beatmapping/#getting-started) and [modding](/wiki/modding/#getting-started).
 
-Beatmapping is the process of a creator creates a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
 
-Modding is the process of users review (or commonly called "mod") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
+Modding is the process of users reviewing (or commonly called "modding") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
 ## osu!wiki - How you can help!
 
-Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the osu-wiki GitHub repository and are reviewed before being approved and merged to the osu!wiki.
+Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
 
 To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
 
@@ -30,6 +30,7 @@ To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
 - [Registration](/wiki/Registration)
 - [Installation](/wiki/Installation)
 - [Rules](/wiki/Rules)
+- [FAQ](/wiki/FAQ)
 - Game Modes
   - [osu!standard](/wiki/osu!standard/#getting-started)
   - [osu!taiko](/wiki/osu!taiko/#getting-started)
