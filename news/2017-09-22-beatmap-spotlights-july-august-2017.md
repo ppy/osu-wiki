@@ -66,9 +66,7 @@ The winner of the osu!taiko Spotlights this month is no one else but **[komasy](
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/necrophagiatoast.jpg)](https://osu.ppy.sh/s/567504)
 
-While the titular practice of feasting on corpses is enough to send shivers down one's spine, a toast towards the act crosses boundaries further still.
-
-In this month's Spotlight, **[_yu68](https://osu.ppy.sh/u/6170507)**'s Necrophagiatoast breaks new ground in more ways than one. Not only is this the first time we see Kobaryo featured in the ranked section, the mapset also possesses a difficulty with the highest star rating among ranked maps in osu!taiko, superseding Galaxy Collapse as the previous titleholder for the first time in 20 months.
+While the titular practice of feasting on corpses is enough to send shivers down one's spine, a toast towards the act crosses boundaries further still. In this month's Spotlight, **[_yu68](https://osu.ppy.sh/u/6170507)**'s Necrophagiatoast breaks new ground in more ways than one. Not only is this the first time we see Kobaryo featured in the ranked section, the mapset also possesses a difficulty with the highest star rating among ranked maps in osu!taiko, superseding Galaxy Collapse as the previous titleholder for the first time in 20 months.
 
 Comprising of 6 difficulties ranging from Futsuu to Destructive Nightmare, this mapset is an outstanding example of how high bpm maps should be handled. In spite of the song's chaotic nature, _yu68 expertly interweaves a congruent flow into his own map, making it extremely fun and satisfying to play. This map certainly isn't one for the faint-hearted though, and will definitely give all players a real challenge!
 
