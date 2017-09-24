@@ -72,7 +72,7 @@ This is the bounty set on this contest:
 ## Conditions
 - **Submissions must be entered via the [contest system](https://osu.ppy.sh/community/contests/52).** Maps only uploaded via the Beatmap Submission System will not be considered. 
 - You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song. 
-- It is allowed to submit the beatmap sets may also be submitted to the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running. 
+- It is allowed to submit the beatmap sets via the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running. 
 - **Entries may be submitted until 31st December 2017 UTC+0.**  
 - **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition through minor changes.
 - **Custom hitsound samples cannot be used.** 
@@ -80,7 +80,7 @@ This is the bounty set on this contest:
 - **If not enough people of a gamemode map a song, no contest will be held for that particular song and mode.**
 - **We reserve the right to change the map's background after it has been ranked.**
 - **If a short version of a song is offered, mapping the full version will lead to a slight bonus in judging.**
-- **The bounty is only awarded to maps that use the versions of the song announced in this post.** Other versions, cuts, or remixes do not count.
+- **The bounty is only awarded to maps that use the versions of the song announced in this post.** Further cuts, or remixes do not count, but further equalizing the songs as well as adjusting their overall volume is allowed.
 
 By they way, if you're a proficient mapper or modder and aren't considering participating in this contest, why not help out with judging? If you're interested and think you're capable, make yourself be known by replying to the **[Judging Call](https://osu.ppy.sh/community/forums/topics/642801)** for this contest!
 
