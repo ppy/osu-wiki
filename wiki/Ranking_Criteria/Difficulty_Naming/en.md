@@ -2,36 +2,43 @@
 
 This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). It contains the ways in which difficulties in each respective game mode are commonly named, as well as various other alternatives that are also allowed.
 
+## Default
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]Easy[/color]
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]Normal[/color]
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]Hard[/color]
-[*][img]http://osu.ppy.sh/images/insane.png[/img] [color=#FF0000]Insane[/color]
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]Extra/Expert[/color][/list]
+This subsection shows the default scaling difficulty names for each mode, which are the most commonly used.
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/taiko.gif[/img] [b]Taiko[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-t.png[/img] [color=#40BF00]Kantan[/color]
-[*][img]http://osu.ppy.sh/images/normal-t.png[/img] [color=#0080FF]Futsuu[/color]
-[*][img]http://osu.ppy.sh/images/hard-t.png[/img] [color=#FF8000]Muzukashii[/color]
-[*][img]http://osu.ppy.sh/images/insane-t.png[/img] [color=#FF0000]Oni[/color]
-[*][img]http://osu.ppy.sh/images/expert-t.png[/img] [color=#800080]Inner Oni/Ura Oni[/color][/list]
+### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
+ 
+- ![easy-s](/wiki/shared/diff/easy-s.png "easy-s") Easy 
+- ![normal-s](/wiki/shared/diff/normal-s.png "normal-s") Normal
+- ![hard-s](/wiki/shared/diff/hard-s.png "hard-s") Hard
+- ![insane-s](/wiki/shared/diff/insane-s.png "insane-s") Insane
+- ![expert-s](/wiki/shared/diff/expert-s.png "expert-s") Extra
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/ctb.gif[/img] [b]Catch The Beat[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-f.png[/img] [color=#40BF00]Cup[/color]
-[*][img]http://osu.ppy.sh/images/normal-f.png[/img] [color=#0080FF]Salad[/color]
-[*][img]http://osu.ppy.sh/images/hard-f.png[/img] [color=#FF8000]Platter[/color]
-[*][img]http://osu.ppy.sh/images/insane-f.png[/img] [color=#FF0000]Rain[/color]
-[*][img]http://osu.ppy.sh/images/expert-f.png[/img] [color=#800080]Overdose[/color][/list]
+### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/mania.gif[/img] [b]osu!mania[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-m.png[/img] [color=#40BF00]EZ[/color]
-[*][img]http://osu.ppy.sh/images/normal-m.png[/img] [color=#0080FF]NM[/color]
-[*][img]http://osu.ppy.sh/images/hard-m.png[/img] [color=#FF8000]HD[/color]
-[*][img]http://osu.ppy.sh/images/insane-m.png[/img] [color=#FF0000]MX[/color]
-[*][img]http://www.mediafire.com/convkey/1977/59yqz8cc3a5yqnwfg.jpg[/img] [color=#800080]SC[/color][/list]
+- ![easy-t](/wiki/shared/diff/easy-t.png "easy-t") Kantan
+- ![normal-t](/wiki/shared/diff/normal-t.png "normal-t") Futsuu
+- ![hard-t](/wiki/shared/diff/hard-t.png "hard-t") Muzukashii
+- ![insane-t](/wiki/shared/diff/insane-t.png "insane-t") Oni
+- ![expert-t](/wiki/shared/diff/expert-t.png "expert-t") Inner Oni / Ura Oni
 
-[u][size=150][b]Alternatives and Additions[/b][/size][/u]
+### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
+
+- ![easy-c](/wiki/shared/diff/easy-c.png "easy-c") Cup 
+- ![normal-c](/wiki/shared/diff/normal-c.png "normal-c") Salad
+- ![hard-c](/wiki/shared/diff/hard-c.png "hard-c") Platter
+- ![insane-c](/wiki/shared/diff/insane-c.png "insane-c") Rain
+- ![expert-c](/wiki/shared/diff/expert-c.png "expert-c") Overdose
+
+### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
+
+- ![easy-m](/wiki/shared/diff/easy-m.png "easy-m") EZ 
+- ![normal-m](/wiki/shared/diff/normal-m.png "normal-m") NM
+- ![hard-m](/wiki/shared/diff/hard-m.png "hard-m") HD
+- ![insane-m](/wiki/shared/diff/insane-m.png "insane-m") MX
+- ![expert-m](/wiki/shared/diff/expert-m.png "expert-m") SC
+
+## Alternative
 
 These are different variations of the standard spreads, usually unused but sometimes they are needed.
 
