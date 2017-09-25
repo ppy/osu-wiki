@@ -6,6 +6,8 @@ date: 2017-09-24 15:00:00 +0200
 
 [-GN](https://osu.ppy.sh/u/895581) is back in scorewatch with another crazy play, this time on [ESTi - HELIX (Edit ver.)](https://osu.ppy.sh/b/462700), setting an incredible 99.68% FC to take the number 2 spot and 280pp! What else can we really say, this guy is on another level.
 
+![](/wiki/shared/news/2017-09-24-scorewatch-september-week-2/banner.jpg)
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/23tUk3rS4kg" frameborder="0" allowfullscreen></iframe></br>
 
 [Rafis](https://osu.ppy.sh/u/2558286) choked an 800pp play after he missed only once on [HoneyWorks - Akatsuki Zukuyo](https://osu.ppy.sh/b/795627) with a 97.19% HDDT score to take 711pp. Without the miss, this score could have definitely given him the prestigious 800pp score! NotLikeThis.
