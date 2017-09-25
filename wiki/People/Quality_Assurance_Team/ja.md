@@ -3,7 +3,7 @@
 [Nf]: /wiki/shared/diff/na-c.png "No"
 [Nm]: /wiki/shared/diff/na-m.png "No"
 
-[Ys]: /wiki/shared/diff/insane-o.png "Yes"
+[Ys]: /wiki/shared/diff/insane-s.png "Yes"
 [Yt]: /wiki/shared/diff/insane-t.png "Yes"
 [Yf]: /wiki/shared/diff/insane-c.png "Yes"
 [Ym]: /wiki/shared/diff/insane-m.png "Yes"
