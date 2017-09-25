@@ -12,11 +12,11 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 
 ### Difficulty Names
 
--   ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") **Cup**. Easy
--   ![Normal icon](/wiki/shared/Normal-f.png "Normal icon") **Salad**. Normal
--   ![Hard icon](/wiki/shared/Hard-f.png "Hard icon") **Platter**. Hard
--   ![Insane icon](/wiki/shared/Insane-f.png "Insane icon") **Rain**. Insane
--   ![Expert icon](/wiki/shared/Expert-f.png "Expert icon") **Overdose**. Expert
+-   ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**. Easy
+-   ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**. Normal
+-   ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**. Hard
+-   ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**. Insane
+-   ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**. Expert
 
 ### Gameplay
 
@@ -73,7 +73,7 @@ Difficulty-specific
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
-### ![Easy icon](/wiki/shared/Easy-f.png "Easy icon") Cup
+### ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") Cup
 
 #### Rules
 
@@ -91,7 +91,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be 4 or less
 -   Circle Size should be between 2-3
 
-### ![Normal icon](/wiki/shared/Normal-f.png "Normal icon") Salad
+### ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") Salad
 
 #### Rules
 
@@ -111,7 +111,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 4-5
 -   Circle Size should be between 2.5-3.5
 
-### ![Hard icon](/wiki/shared/Hard-f.png "Hard icon") Platter
+### ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") Platter
 
 #### Rules
 
@@ -132,7 +132,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 5-6
 -   Circle Size should be between 3-4
 
-### ![Insane icon](/wiki/shared/Insane-f.png "Insane icon") Rain
+### ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") Rain
 
 #### Rules
 
@@ -153,7 +153,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -   HP drain should be between 6-7
 -   Circle Size should be between 3-5
 
-### ![Expert icon](/wiki/shared/Expert-f.png "Expert icon") Overdose
+### ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") Overdose
 
 #### Rules
 
