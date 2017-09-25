@@ -4,7 +4,7 @@ title: "Scorewatch: September Week 2"
 date: 2017-09-24 15:00:00 +0200
 ---
 
-Scorewatch continues to thrive with more incredible plays from the community! Want to know what -GN, Rafis, Cookiezi, _yu68 and ExGon did to deserve a place in this article? Read on!
+Scorewatch continues to thrive with more incredible plays from the community! We got a crazy -GN play on HELIX, \_yu68 snatching the highest pp play in osu!taiko from an interesting source, and a SapphireGhost throwback score all in this week's article! Read on to find out more!
 
 ![](/wiki/shared/news/2017-09-24-scorewatch-september-week-2/banner.jpg)
 
