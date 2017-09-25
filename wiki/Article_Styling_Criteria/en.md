@@ -89,6 +89,10 @@ Do:
 _osu!_ is a circle clicking simulator with three other game modes. There is drum beating, fruit catching, and key mashing game modes; otherwise known as osu!taiko, osu!catch, and osu!mania respectively.
 ```
 
+---
+
+Any Markdown syntax characters that are not being used to style must be escaped, unless it is inside [code](#code).
+
 ### Emphasizing
 
 **Know that the overuse and abuse of emphasis will reduce its effectiveness!**
@@ -310,6 +314,8 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSe
 
 ### Images
 
+_See also: [Article Styling Criteria](/wiki/Article_Styling_Criteria/Images)._
+
 The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
 
 Like the [links](#links), you can use either reference or inline style when linking to images.
@@ -317,65 +323,6 @@ Like the [links](#links), you can use either reference or inline style when link
 ---
 
 It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
-
-All images must be optimized and should use formats as described in the [supported formats](#supported-formats) section.
-
-#### Media file names
-
-**All image file extensions must use lowercase letters, otherwise they will fail to load!**
-
-Image file names should not use spaces. Names of images must be somewhat meaningful, please do not use the timestamp or long hashes for media file names.
-
-#### Max width
-
-The osu!wiki will give every image a max-width, being the width of the article body (680px).
-
-This means when an image's width is more than 680px, you should consider downscaling it to 680px to ensure that we do not waste digital space.
-
-#### Supported formats
-
-The supported file formats for the osu!wiki are `.gif`, `.jpg` (or `.jpeg`), and `.png`.
-
-When you have an image **without** transparency, use `.jpg` (or `.jpeg`). When you have an image **with** transparency, use `.png`. If the media file is animated, use `.gif`.
-
-#### Alternate and title text
-
-All images must have an alternate text. This will ensure that something will still be displayed even when it fails to load.
-
-Title text (otherwise known as "hover text") is **optional**. It can be the same as the alt text if needed.
-
-#### Captions
-
-Images are automatically given captions if they fulfill these rules:
-
-- the image is by itself
-- the image is not inside a heading
-- the image has a title/hover text
-
-The syntax for captions are the same as normal Markdown images.
-
-Image captions must be plain text and never contain style or link markup.
-
-#### Image links
-
-Do not use image links! Image links are links with the image as the link text.
-
-On a PC platform, they will work. However, on a mobile platform, they will not work as the pointer event will trigger the hover text, not the link.
-
-#### Flag icons
-
-Flag icons are located inside the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/flag) folder.
-
-Most to all of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. A few exceptions are the multi-flag icons that are in the `.png` format.
-
-When adding a flag inline, use this format:
-
-```
-![full-country-name](/wiki/shared/flag/xx.gif)
-```
-
-- `full-country-name` is the full country name.
-- `xx.gif` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ### Tables
 

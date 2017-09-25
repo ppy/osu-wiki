@@ -108,9 +108,9 @@ Example:
 
 #### Formats and quality
 
-Images used in news articles must be in JPG format at quality 9 (90) to quality 10 (100). PNG use is acceptable in instances where the filesize is small, or quality cannot afford to be compromised.
+Images used in news articles must be in JPG format at quality 9 (90) to quality 10 (100). PNG use is acceptable in instances where the file size is small, or quality cannot afford to be compromised.
 
-#### Filesize
+#### File size
 
 All images must be optimized as much as possible. We recommend the use of [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to do this quickly and consistently.
 
