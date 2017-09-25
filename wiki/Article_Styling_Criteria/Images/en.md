@@ -14,7 +14,7 @@ Images used in the osu!wiki must be in JPG format at quality 8 (80). The PNG for
 
 **All image file extensions must use lowercase letters, otherwise they will fail to load!**
 
-Image file names should not use spaces (use underscores (`_`) instead) and must be meaningful. Do not use timestamps or long hashes.
+Image file names must never use spaces (use underscores (`_`) instead). They must use meaningful names and should never use timestamps or long hashes.
 
 ### File size
 
@@ -78,7 +78,7 @@ On a PC platform, they will work. However, on a mobile platform, they will not w
 
 ## Flag icons
 
-Flag icons are located inside the [`/wiki/shared/flag/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/flag) folder.
+_For a list of flag icons, see [issue \#328](https://github.com/ppy/osu-wiki/issues/328)._
 
 Most to all of these icons uses the two letter code (first letter is capitalized; second letter is lowercased) and ends with the `.gif` extension. A few exceptions are the multi-flag icons that are in the `.png` format.
 
