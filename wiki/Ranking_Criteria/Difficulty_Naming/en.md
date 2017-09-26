@@ -2,130 +2,136 @@
 
 This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). It contains the ways in which difficulties in each respective game mode are commonly named, as well as various other alternatives that are also allowed.
 
-## Default
+## Default	
 
-This subsection shows the default scaling difficulty names for each mode, which are the most commonly used.
+This subsection shows the default scaling difficulty names for each game mode, which are the most commonly used.
 
 ### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
  
-- ![easy-s](/wiki/shared/diff/easy-s.png "easy-s") Easy 
-- ![normal-s](/wiki/shared/diff/normal-s.png "normal-s") Normal
-- ![hard-s](/wiki/shared/diff/hard-s.png "hard-s") Hard
-- ![insane-s](/wiki/shared/diff/insane-s.png "insane-s") Insane
-- ![expert-s](/wiki/shared/diff/expert-s.png "expert-s") Extra
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
+- ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
+- ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
+- ![Extra](/wiki/shared/diff/expert-s.png "Extra") Extra
 
 ### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
 
-- ![easy-t](/wiki/shared/diff/easy-t.png "easy-t") Kantan
-- ![normal-t](/wiki/shared/diff/normal-t.png "normal-t") Futsuu
-- ![hard-t](/wiki/shared/diff/hard-t.png "hard-t") Muzukashii
-- ![insane-t](/wiki/shared/diff/insane-t.png "insane-t") Oni
-- ![expert-t](/wiki/shared/diff/expert-t.png "expert-t") Inner Oni / Ura Oni
+- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
+- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
+- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
+- ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
+- ![Inner Oni / Ura Oni](/wiki/shared/diff/expert-t.png "Inner Oni / Ura Oni") Inner Oni / Ura Oni
 
 ### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
 
-- ![easy-c](/wiki/shared/diff/easy-c.png "easy-c") Cup 
-- ![normal-c](/wiki/shared/diff/normal-c.png "normal-c") Salad
-- ![hard-c](/wiki/shared/diff/hard-c.png "hard-c") Platter
-- ![insane-c](/wiki/shared/diff/insane-c.png "insane-c") Rain
-- ![expert-c](/wiki/shared/diff/expert-c.png "expert-c") Overdose
+- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup 
+- ![Salad](/wiki/shared/diff/normal-c.png "Salad") Salad
+- ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
+- ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
+- ![Overdose](/wiki/shared/diff/expert-c.png "Overdose") Overdose
 
 ### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
 
-- ![easy-m](/wiki/shared/diff/easy-m.png "easy-m") EZ 
-- ![normal-m](/wiki/shared/diff/normal-m.png "normal-m") NM
-- ![hard-m](/wiki/shared/diff/hard-m.png "hard-m") HD
-- ![insane-m](/wiki/shared/diff/insane-m.png "insane-m") MX
-- ![expert-m](/wiki/shared/diff/expert-m.png "expert-m") SC
+- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ 
+- ![NM](/wiki/shared/diff/normal-m.png "NM") NM
+- ![HD](/wiki/shared/diff/hard-m.png "HD") HD
+- ![MX](/wiki/shared/diff/insane-m.png "NX") MX
+- ![SC](/wiki/shared/diff/expert-m.png "SC") SC
 
 ## Alternative
 
-These are different variations of the standard spreads, usually unused but sometimes they are needed.
+The following variants are not commonly used, but they can also be used as a valid alternative way of spread difficulty naming.
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]Beginner:[/color] In an ENHIX spread, it means the lowest level, even easier than Easy.
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]Medium:[/color] In an ENHIX spread, it's a difficulty that is between Normal and Hard.
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]Hyper:[/color] In an ENHIX spread, it usually means an Advanced Hard (Also known as Light Insane)
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]Extreme:[/color] Pretty uncommon, but it's higher than Extra/Expert.
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]Marathon:[/color] Map that is over 5 minutes of Drain Time and got ranked through the Approval system (Applies to all modes)[/list]
+### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/ctb.gif[/img] [b]Catch The Beat[/b]
-[list][*][img]http://osu.ppy.sh/images/expert-f.png[/img] [color=#800080]Deluge:[/color] When there are two Overdose difficulties in a single set, the harder of the two will usually be called Deluge.[/list]
+- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in an ENHIX spread, it means the lowest level.
+- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in an ENHIX spread, it's a difficulty that is between Normal and Hard.
+- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in an ENHIX spread, it means a more difficult Hard (also known as Light Insane).
+- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: uncommon, but it can be used to represent a difficulty tier above Extra/Expert.
+- ![Marathon](/wiki/shared/diff/expert-s.png "Marathon") **Marathon**: map that is over 5 minutes of Drain Time.
 
-[u][size=150][b]Beatmania IIDX[/b][/size][/u]
+### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
 
-Difficulty spread inspired by Beatmania IIDX, heavily recommended to only use in maps for songs from there (This also works for BMS songs)
+- ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: commonly accepted as a difficulty that is a tier above Inner Oni / Ura Oni.
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]Beginner[/color]
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]Normal[/color]
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]Hyper[/color]
-[*][img]http://osu.ppy.sh/images/insane.png[/img] [color=#FF0000]Another[/color]
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]Black Another[/color][/list]
+### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/mania.gif[/img] [b]osu!mania[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-m.png[/img] [color=#40BF00]Beginner[/color]
-[*][img]http://osu.ppy.sh/images/normal-m.png[/img] [color=#0080FF]Normal[/color]
-[*][img]http://osu.ppy.sh/images/hard-m.png[/img] [color=#FF8000]Hyper[/color]
-[*][img]http://osu.ppy.sh/images/insane-m.png[/img] [color=#FF0000]Another[/color][/list]
+- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: when there are two Overdose difficulties in a single set, the harder of the two will usually be called Deluge.
 
-[u][size=150][b]SOUND VOLTEX[/b][/size][/u]
+## Songs from other Rhythm Games
 
-Difficulty spread inspired by SOUND VOLTEX, heavily recommended to only use in maps for songs from there.
-Note that the mania shortcuts are only a recommendation since you also need to fit a key count in most mania maps, so shortening the difficulty name as much as possible can benefit you, if you really want you can use "EXHAUST" in mania and "NOV" in osu!
+This subsection shows the difficulty naming for mapsets of a song that comes from another rhythm game. Using said rhythm game's method of difficulty naming is acceptable.
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]BASIC[/color]
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]NOVICE[/color]
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]ADVANCED[/color]
-[*][img]http://osu.ppy.sh/images/insane.png[/img] [color=#FF0000]EXHAUST[/color]
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]INFINITE[/color][/list]
+### Beatmania IIDX (or BMS songs)
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/mania.gif[/img] [b]osu!mania[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-m.png[/img] [color=#40BF00]NOV[/color]
-[*][img]http://osu.ppy.sh/images/normal-m.png[/img] [color=#0080FF]ADV[/color]
-[*][img]http://osu.ppy.sh/images/hard-m.png[/img] [color=#FF8000]EXH[/color]
-[*][img]http://osu.ppy.sh/images/insane-m.png[/img] [color=#FF0000]INF[/color][/list]
+#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
-[u][size=150][b]Touhou[/b][/size][/u]
+- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") Beginner
+- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
+- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
+- ![Another](/wiki/shared/diff/insane-s.png "Another") Another
+- ![Black Another](/wiki/shared/diff/expert-s.png "Black Another") Black Another
 
-Difficulty spread inspired by Touhou, heavily recommended to only use in maps for songs from there.
+#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]Easy[/color]
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]Normal[/color]
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]Hard[/color]
-[*][img]http://osu.ppy.sh/images/insane.png[/img] [color=#FF0000]Lunatic[/color]
-[*][img]http://osu.ppy.sh/images/expert.png[/img] [color=#800080]Extra[/color][/list]
+- ![Beginner](/wiki/shared/diff/easy-m.png "Beginner") Beginner 
+- ![Normal](/wiki/shared/diff/normal-m.png "Normal") Normal
+- ![Hyper](/wiki/shared/diff/hard-m.png "Hyper") Hyper
+- ![Another](/wiki/shared/diff/insane-m.png "Another") Another
 
-[u][size=150][b]Pop'n Music[/b][/size][/u]
+### SOUND VOLTEX (SDVX)
 
-Difficulty spread inspired by Pop'n Music, heavily recommended to only use in maps for songs from there.
+Shortcuts on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/mania.gif[/img] [b]osu!mania[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-m.png[/img] [color=#40BF00]Easy[/color]
-[*][img]http://osu.ppy.sh/images/normal-m.png[/img] [color=#0080FF]Normal[/color]
-[*][img]http://osu.ppy.sh/images/hard-m.png[/img] [color=#FF8000]Hyper[/color]
-[*][img]http://osu.ppy.sh/images/insane-m.png[/img] [color=#FF0000]Ex[/color][/list]
+#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
-[u][size=150][b]In The Groove[/b][/size][/u]
+- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC 
+- ![NOVICE](/wiki/shared/diff/normal-s.png "NOVICE") NOVICE
+- ![ADVANCED](/wiki/shared/diff/hard-s.png "ADVANCED") ADVANCED
+- ![EXHAUST](/wiki/shared/diff/insane-s.png "EXHAUST") EXHAUST
+- ![INFINITE](/wiki/shared/diff/expert-s.png "INFINITE") INFINITE
 
-Difficulty spread inspired by In The Groove, highly recommended when you map songs from there, or anything related to it.
+#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/osu.gif[/img] [b]osu![/b]
-[list][*][img]http://osu.ppy.sh/images/easy.png[/img] [color=#40BF00]Novice/Easy[/color]
-[*][img]http://osu.ppy.sh/images/normal.png[/img] [color=#0080FF]Medium[/color]
-[*][img]http://osu.ppy.sh/images/hard.png[/img] [color=#FF8000]Hard[/color]
-[*][img]http://osu.ppy.sh/images/insane.png[/img] [color=#FF0000]Expert[/color][/list]
+- ![NOV](/wiki/shared/diff/normal-m.png "NOV") NOV
+- ![ADV](/wiki/shared/diff/hard-m.png "ADV") ADV
+- ![EXH](/wiki/shared/diff/insane-m.png "EXH") EXH
+- ![INF](/wiki/shared/diff/expert-m.png "INF") INF
 
-[img]https://osu.ppy.sh/forum/images/icons/misc/mania.gif[/img] [b]osu!mania[/b]
-[list][*][img]http://osu.ppy.sh/images/easy-m.png[/img] [color=#40BF00]Novice[/color]
-[*][img]http://osu.ppy.sh/images/normal-m.png[/img] [color=#0080FF]Easy[/color]
-[*][img]http://osu.ppy.sh/images/hard-m.png[/img] [color=#FF8000]Medium[/color]
-[*][img]http://osu.ppy.sh/images/insane-m.png[/img] [color=#FF0000]Hard[/color]
-[*][img]http://www.mediafire.com/convkey/1977/59yqz8cc3a5yqnwfg.jpg?size_id=0[/img] [color=#BF00FF]Expert[/color][/list]
+### Pop 'n Music
 
-=====================================================================
+#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
 
-I hope this helps anyone, comments and feedback will be heavily appreciated!
-If I forgot anything or messed up something, please tell me.[/quote]
+- ![Easy](/wiki/shared/diff/easy-m.png "Easy") Easy 
+- ![Normal](/wiki/shared/diff/normal-m.png "Normal") Normal
+- ![Hyper](/wiki/shared/diff/hard-m.png "Hyper") Hyper
+- ![Ex](/wiki/shared/diff/insane-m.png "Ex") Ex 
+
+### In The Groove (ITG)
+
+#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
+
+- ![Novice](/wiki/shared/diff/easy-s.png "Novice") Novice
+- ![Medium](/wiki/shared/diff/normal-s.png "Medium") Medium
+- ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
+- ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
+
+#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
+
+- ![Novice](/wiki/shared/diff/easy-m.png "Novice") Novice
+- ![Easy](/wiki/shared/diff/normal-m.png "Easy") Easy
+- ![Medium](/wiki/shared/diff/hard-m.png "Medium") Medium
+- ![Hard](/wiki/shared/diff/insane-m.png "Hard") Hard
+- ![Expert](/wiki/shared/diff/expert-m.png "Expert") Expert
+
+## Other games
+
+### Touhou (東方Project)
+
+Difficulty spread inspired by Touhou (東方Project in Japanese), including any individual game from the project.
+
+The difficulty spread would follow the Default difficulty naming scheme, with the exception of the Insane difficulty, which would be substituted by Lunatic.
+
+- ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Lunatic
+
+
