@@ -22,7 +22,7 @@ This subsection shows the default scaling difficulty names for each game mode, w
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 - ![Inner Oni / Ura Oni](/wiki/shared/diff/expert-t.png "Inner Oni / Ura Oni") Inner Oni / Ura Oni
 
-### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
+### ![osu!catch](/wiki/shared/Ctb.gif "osu!catch") osu!catch
 
 - ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup 
 - ![Salad](/wiki/shared/diff/normal-c.png "Salad") Salad
