@@ -46,10 +46,10 @@ The following **individual** difficulty names have been accepted and are used mo
 
 ### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
-- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in an ENHIX spread, it means the lowest level.
-- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in an ENHIX spread, it's a difficulty that is between Normal and Hard.
-- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in an ENHIX spread, it means a more difficult Hard (also known as Light Insane).
-- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: uncommon, but it can be used to represent a difficulty tier above Extra/Expert.
+- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it means the lowest level even below Easy.
+- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
+- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
+- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: can be used to represent a difficulty tier above Extra/Expert.
 - ![Marathon](/wiki/shared/diff/expert-s.png "Marathon") **Marathon**: map that is over 5 minutes of [drain time](/wiki/drain_time).
 
 ### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
