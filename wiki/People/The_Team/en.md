@@ -53,5 +53,4 @@ User Groups
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
 | [osu!news](https://osu.ppy.sh/g/25) | Providing you with quality reading since 2013 |
-| [Tournament Staff](https://osu.ppy.sh/g/26) | Responsible for handling officially supported *osu!* Tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy *osu!*, starting with assuring the quality of beatmaps. |
