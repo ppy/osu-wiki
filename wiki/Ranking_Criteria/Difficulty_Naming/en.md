@@ -2,11 +2,11 @@
 
 This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). 
 
-Difficulty naming is a setting in the song setup that creators are allowed to change to best represent their beatmap's difficulty. As there are many difficulty names, this article contains the ways in which difficulties in each respective game mode are commonly named, as well as various other alternatives that are also allowed.
+The purpose of difficulty naming is telling players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive, you may use any desired kind of scheme. 
 
 ## Default	
 
-This subsection shows the default scaling difficulty names for each game mode, which are the most commonly used.
+This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
 
 ### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
  
@@ -40,9 +40,9 @@ This subsection shows the default scaling difficulty names for each game mode, w
 - ![MX](/wiki/shared/diff/insane-m.png "NX") MX
 - ![SC](/wiki/shared/diff/expert-m.png "SC") SC
 
-## Alternative
+## Widely Accepted Alternatives 
 
-The following variants are not commonly used, but they can also be used as a valid alternative way of spread difficulty naming.
+The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
 
 ### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
@@ -62,11 +62,9 @@ The following variants are not commonly used, but they can also be used as a val
 
 ## Songs from other Rhythm Games
 
-This subsection shows the difficulty naming for mapsets of a song that comes from another rhythm game. Using said rhythm game's style of difficulty naming is acceptable.
+This subsection shows the **scaling** difficulty names for mapsets of songs that come from other rhythm games. Using said rhythm game's style of difficulty naming is acceptable.
 
 ### Beatmania IIDX (or BMS songs)
-
-#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
 - ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") Beginner
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
@@ -74,18 +72,9 @@ This subsection shows the difficulty naming for mapsets of a song that comes fro
 - ![Another](/wiki/shared/diff/insane-s.png "Another") Another
 - ![Black Another](/wiki/shared/diff/expert-s.png "Black Another") Black Another
 
-#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
-
-- ![Beginner](/wiki/shared/diff/easy-m.png "Beginner") Beginner 
-- ![Normal](/wiki/shared/diff/normal-m.png "Normal") Normal
-- ![Hyper](/wiki/shared/diff/hard-m.png "Hyper") Hyper
-- ![Another](/wiki/shared/diff/insane-m.png "Another") Another
-
 ### SOUND VOLTEX (SDVX)
 
 Abbreviations on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
-
-#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
 - ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC 
 - ![NOVICE](/wiki/shared/diff/normal-s.png "NOVICE") NOVICE
@@ -93,47 +82,27 @@ Abbreviations on this particular difficulty naming scheme are acceptable (e.g. N
 - ![EXHAUST](/wiki/shared/diff/insane-s.png "EXHAUST") EXHAUST
 - ![INFINITE](/wiki/shared/diff/expert-s.png "INFINITE") INFINITE
 
-#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
-
-- ![NOV](/wiki/shared/diff/normal-m.png "NOV") NOV
-- ![ADV](/wiki/shared/diff/hard-m.png "ADV") ADV
-- ![EXH](/wiki/shared/diff/insane-m.png "EXH") EXH
-- ![INF](/wiki/shared/diff/expert-m.png "INF") INF
-
 ### Pop 'n Music
 
-#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
-
-- ![Easy](/wiki/shared/diff/easy-m.png "Easy") Easy 
-- ![Normal](/wiki/shared/diff/normal-m.png "Normal") Normal
-- ![Hyper](/wiki/shared/diff/hard-m.png "Hyper") Hyper
-- ![Ex](/wiki/shared/diff/insane-m.png "Ex") Ex 
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
+- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
+- ![Ex](/wiki/shared/diff/insane-s.png "Ex") Ex 
 
 ### In The Groove (ITG)
 
-#### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
-
 - ![Novice](/wiki/shared/diff/easy-s.png "Novice") Novice
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Medium](/wiki/shared/diff/normal-s.png "Medium") Medium
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
 
-#### ![osu!mania](/wiki/shared/Mania.gif "osu!mania") osu!mania
+## Songs from other Games
 
-- ![Novice](/wiki/shared/diff/easy-m.png "Novice") Novice
-- ![Easy](/wiki/shared/diff/normal-m.png "Easy") Easy
-- ![Medium](/wiki/shared/diff/hard-m.png "Medium") Medium
-- ![Hard](/wiki/shared/diff/insane-m.png "Hard") Hard
-- ![Expert](/wiki/shared/diff/expert-m.png "Expert") Expert
+### Touhou Project *(東方Project)*
 
-## Other games
-
-### Touhou (東方Project)
-
-Difficulty spread inspired by Touhou (東方Project in Japanese), including any individual game from the project.
+Difficulty spread inspired by Touhou Project (東方Project in Japanese), including any individual game from the project.
 
 The difficulty spread would follow the Default difficulty naming scheme, with the exception of the Insane difficulty, which would be substituted by Lunatic.
 
 - ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Lunatic
-
-
