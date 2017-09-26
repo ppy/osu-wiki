@@ -1,6 +1,8 @@
 # Difficulty Naming
 
-This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). It contains the ways in which difficulties in each respective game mode are commonly named, as well as various other alternatives that are also allowed.
+This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). 
+
+Difficulty naming is a setting in the song setup that creators are allowed to change to best represent their beatmap's difficulty. As there are many difficulty names, this article contains the ways in which difficulties in each respective game mode are commonly named, as well as various other alternatives that are also allowed.
 
 ## Default	
 
@@ -12,7 +14,7 @@ This subsection shows the default scaling difficulty names for each game mode, w
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
-- ![Extra](/wiki/shared/diff/expert-s.png "Extra") Extra
+- ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
 
 ### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
 
@@ -48,7 +50,7 @@ The following variants are not commonly used, but they can also be used as a val
 - ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in an ENHIX spread, it's a difficulty that is between Normal and Hard.
 - ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in an ENHIX spread, it means a more difficult Hard (also known as Light Insane).
 - ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: uncommon, but it can be used to represent a difficulty tier above Extra/Expert.
-- ![Marathon](/wiki/shared/diff/expert-s.png "Marathon") **Marathon**: map that is over 5 minutes of Drain Time.
+- ![Marathon](/wiki/shared/diff/expert-s.png "Marathon") **Marathon**: map that is over 5 minutes of [drain time](/wiki/drain_time).
 
 ### ![osu!taiko](/wiki/shared/Taiko.gif "osu!taiko") osu!taiko
 
@@ -56,11 +58,11 @@ The following variants are not commonly used, but they can also be used as a val
 
 ### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
 
-- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: when there are two Overdose difficulties in a single set, the harder of the two will usually be called Deluge.
+- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: used when there is a difficulty tier above Overdose.
 
 ## Songs from other Rhythm Games
 
-This subsection shows the difficulty naming for mapsets of a song that comes from another rhythm game. Using said rhythm game's method of difficulty naming is acceptable.
+This subsection shows the difficulty naming for mapsets of a song that comes from another rhythm game. Using said rhythm game's style of difficulty naming is acceptable.
 
 ### Beatmania IIDX (or BMS songs)
 
@@ -81,7 +83,7 @@ This subsection shows the difficulty naming for mapsets of a song that comes fro
 
 ### SOUND VOLTEX (SDVX)
 
-Shortcuts on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
+Abbreviations on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
 
 #### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
 
