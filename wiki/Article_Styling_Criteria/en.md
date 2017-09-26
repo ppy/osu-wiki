@@ -86,7 +86,7 @@ It will one day be the successor of the previous osu!client.
 Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 
 Do:
-_osu!_ is a circle clicking simulator with three other game modes. There is drum beating, fruit catching, and key mashing game modes; otherwise known as osu!taiko, osu!catch, and osu!mania respectively.
+osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 ```
 
 ---
@@ -127,13 +127,11 @@ For English article titles, if you need to reword the title, you must rename the
 
 ##### Untranslatable titles
 
-In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets.
+In the case where a title can not be translated, use the English title followed by the language name (in native script) in round brackets. Some examples may include:
 
-Examples:
-
-- `# osu!mania (Español)`
-- `# Live Streaming osu! (日本語)`
-- `# BBCode (Français)`
+    # osu!mania (Español)
+    # Live Streaming osu! (日本語)
+    # BBCode (Français)
 
 The native scripts can be found in the `Native Script` column of [locales](#locales).
 
@@ -145,12 +143,11 @@ Section headings are to use sentence case and should **never** contain styles no
 
 Unlike titles, section headings can have small icons.
 
-All sections **must** contain some text, even if they are containers for subsections.
-For example:
+All sections **must** contain some text, even if they are containers for subsections. For example:
 
     ## Game Modes
     
-    _Also see: [Game Modes](/wiki/Game Modes)._
+    _See also: [Game Modes](/wiki/Game Modes)._
     
     ### ![](/wiki/shared/Osu.gif) osu!
     
@@ -181,21 +178,21 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 Use code for the following scenarios:
 
 - keyboard keys
-  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers
+  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
 - button or menu text
-  - When copying the text from a menu or button, copy the letter casing as-is
+  - When copying the text from a menu or button, copy the letter casing as is.
 - folder names
-  - When copying the name of a folder, copy the letter casing as-is
+  - When copying the name of a folder, copy the letter casing as is.
 - directory names
-  - When copying the path of a directory, copy the letter casing as-is
+  - When copying the path of a directory, copy the letter casing as is.
 - keywords or commands
-  - When copying a keyword or command, copy the letter casing as-is or as you would normally type it as (prefer lowercase if applicable)
+  - When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable).
 - file names
-  - When copying the name of a file, copy the letter casing as-is
+  - When copying the name of a file, copy the letter casing as is.
 - file extensions
-  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters
+  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
 - chat channels
-  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters
+  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 
 ### Code blocks
 
@@ -221,13 +218,13 @@ Do not use the word `here` as the link text. Instead, take the title of the page
 
 For your convenience, all folders should have a redirect. All internal links are to use redirects.
 
-To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect.
+To do this, open the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
 
-Examples:
-
-- `[ASG](/wiki/ASG)`
-- `[OWC2015](/wiki/OWC2015)`
-- `[skinning tutorial](/wiki/skinning_tutorial)`
+```
+[ASG](/wiki/ASG)
+[OWC2015](/wiki/OWC2015)
+[skinning tutorial](/wiki/skinning_tutorial)
+```
 
 ---
 
@@ -274,10 +271,11 @@ Do not:
 `[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`
 `[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
 
-Do:
+Do (okay):
 `[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`
 `[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
-or:
+
+Do (prefered):
 `[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`
 `[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
 ```
@@ -334,7 +332,7 @@ Here is a tool to help visualize tables:
 
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
-#### Beautify
+#### Beautifying tables
 
 It is up to you whether or not if you want to beautify the tables.
 
@@ -384,15 +382,14 @@ The osu! official branding are to not use any spaces. Examples may include:
 - `osu!taiko`
 - `osu!mania`
 - `osu!direct`
-- `osu!wiki`
 
 Everything else are to use spaces. For example:
 
-- `osu! tournaments`
-- `osu! alumni`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
+- `osu! Tournaments`
+- `osu! Alumni`
+- `osu! Community`
+- `osu! Chat`
+- `osu! Client`
 
 ---
 
@@ -502,13 +499,12 @@ When referring to the player, use `the player` or `a player`.
 
 In instances where you are referring directly to the reader (e.g. tutorial page), you could use the word `you`.
 
-
-**Never** use the first person perspective, `I`, or `I am`/`I'm`.
+**Never** use the first person perspective (`I`) in any articles, even if they are ported guides that had once used first person.
 
 ### Terminology
-	
+
 These words are spelt as follows (note the space):
-	
+
 - `hit circles`
 - `approach circles`
 - `slider ticks`
@@ -518,12 +514,12 @@ These words are spelt as follows (note the space):
 - `game mode` (or just `mode`)
 - `game mod` (or just `mod`)
 - `play style`
-- `hit sound`
-	
+- `gameplay`
+
 The term `Difficulty` refers to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
-	
+
 ---
 
-Use "beatmaps" instead of "maps".
-
-Use "creator" instead of "beatmapper" or "mapper".
+- Use "beatmaps" instead of "maps".
+- Use "creator" instead of "beatmapper" or "mapper".
+- Do not use "BNG" to refer to the Beatmap Nominators. Instead, use "BN" or "BNs".
