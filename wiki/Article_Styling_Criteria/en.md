@@ -41,13 +41,20 @@ These are the supported locales for the osu!wiki. If your language isn't listed 
 
 ### Folder names
 
-Folders must never contain URL reserved characters. Generally, all folder names should only use these characters:
+Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
 
 - A - Z (uppercase letters)
 - a - z (lowercase letters)
 - 0 - 9 (numbers)
 - `_` (underscore)
 - `!` (exclamation mark)
+
+#### Percent encoding characters
+
+Folder names should not use characters that require percent encoding. Those characters may include, but aren't limited to:
+
+- ` ` (spaces)
+- `'` (apostrophes)
 
 ### Article file names
 
