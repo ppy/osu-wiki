@@ -54,7 +54,7 @@ The following variants are not commonly used, but they can also be used as a val
 
 - ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: commonly accepted as a difficulty that is a tier above Inner Oni / Ura Oni.
 
-### ![osu!catch](/wiki/shared/CtB.gif "osu!catch") osu!catch
+### ![osu!catch](/wiki/shared/Ctb.gif "osu!catch") osu!catch
 
 - ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: when there are two Overdose difficulties in a single set, the harder of the two will usually be called Deluge.
 
