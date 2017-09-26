@@ -91,7 +91,7 @@ osu!lazer is a development build that you can download. It will one day be the s
 
 ---
 
-Any Markdown syntax characters that are not being used to style must be escaped, unless it is inside [code](#code).
+Any Markdown syntax that are not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks).
 
 ### Emphasizing
 
@@ -383,7 +383,7 @@ The osu! official branding are to not use any spaces. Examples may include:
 - `osu!mania`
 - `osu!direct`
 
-Everything else are to use spaces. For example:
+Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
 
 - `osu! Tournaments`
 - `osu! Alumni`
