@@ -6,7 +6,7 @@ date: 2017-09-20 10:00:00 +0000
 
 September has finally arrived and players are working hard to keep this scorewatch article lively! A champion above champions, a new score on Atama no Taisou, and Toy’s blast from the past play, all in this week’s scorewatch article!
 
-![](/wiki/shared/2017-09-20-scorewatch-september-week-1/banner.jpg)
+![](/wiki/shared/news/2017-09-20-scorewatch-september-week-1/banner.jpg)
 
 [-GN](https://osu.ppy.sh/u/895581) is now a champion above champions (quite literally, he got a title on his userpage)! What did he do? He became the first player to no mod FC [Blind Stare - Shotgun Symphony+](https://osu.ppy.sh/b/32570) since it got ranked (which was 8 years ago!) with a brilliant 98.26% score to take a mere 213pp, but don’t let the pp fool you. What a score, and what a player! Take a bow -GN, give him the love he deserves!
 
