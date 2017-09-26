@@ -1,7 +1,5 @@
 # Difficulty Naming
 
-This wiki article serves as a substitute and an update to [this topic](https://osu.ppy.sh/community/forums/topics/178700). 
-
 The purpose of difficulty naming is telling players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive, you may use any desired kind of scheme. 
 
 ## Default	
