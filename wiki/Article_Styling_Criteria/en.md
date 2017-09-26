@@ -89,7 +89,7 @@ Do:
 osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, do **not** send the development team any issues you are facing, as things are still subject to change.
 ```
 
----
+#### Escaping
 
 Any Markdown syntax that are not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
 
