@@ -91,7 +91,13 @@ osu!lazer is a development build that you can download. It will one day be the s
 
 ---
 
-Any Markdown syntax that are not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks).
+Any Markdown syntax that are not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
+
+```
+The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
+```
+
+Note: the escaping character in Markdown is the blackslash (`\`). To escape the escape character for a literal blackslash, use `\\`.
 
 ### Emphasizing
 
